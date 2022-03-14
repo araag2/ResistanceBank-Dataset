@@ -9,7 +9,7 @@ The dataset is split in two directories:
 
 In order to build the test set, surveys were extracted in pdf form and converted in .txt format using https://pypi.org/project/pdfminer/.
 
-As for reference key-phrases, they are in the JSON (https://www.json.org/json-en.html) format and are named accordingly:
+As for reference key-phrases, they're in the JSON (https://www.json.org/json-en.html) format and are named accordingly:
 
     test[-stem]?.json
 
