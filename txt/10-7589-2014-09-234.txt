@@ -1,0 +1,1186 @@
+DOI: 10.7589/2014-09-234
+
+Journal of Wildlife Diseases, 51(3), 2015, pp. 000–000
+# Wildlife Disease Association 2015
+
+PREVALENCE OF SULFONAMIDE AND FLORFENICOL RESISTANCE
+GENES IN ESCHERICHIA COLI ISOLATED FROM YAKS
+(BOS GRUNNIENS) AND HERDSMEN IN THE TIBETAN PASTURE
+
+Anyun Zhang,1,2 Yunfei Yang,1 Hongning Wang,1,2,3,4 Changwei Lei,1,2 Changwen Xu,1,2
+Zhongbin Guan,1,2 Bihui Liu,1,2 Xi Huang,1,2 and Linyao Peng1,2
+1 School of Life Science, Sichuan University, Animal Disease Prevention and Food Safety Key Laboratory of Sichuan
+Province, 29 Wangjiang Road, Chengdu, Sichuan, 610064, P. R. China
+2 Key Laboratory of Bio-resources and Eco-environment, Ministry of Education, 29 Wangjiang Road, Chengdu, Sichuan,
+610064, P. R. China
+3 ‘‘985 Project’’ Science Innovative Platform for Resource and Environment Protection of Southwestern, 29 Wangjiang
+Road, Chengdu, Sichuan, 610064, P. R. China
+4 Corresponding author (email: whongning@163.com)
+
+ABSTRACT: To determine the antimicrobial susceptibility profiles and prevalence of resistance
+genes in Escherichia coli isolated from yaks (Bos grunniens) and herdsmen in nine plateau pastures
+in Tibet, we isolated 184 nonidentical strains of E. coli from yaks and herdsmen. Antimicrobial
+susceptibility testing of 15 antimicrobials was conducted and the prevalence of sulfonamide
+resistance genes (sul1, sul2, and sul3) and florfenicol resistance genes (floR, cfr, cmlA, fexA, pexA,
+and estDL136) was determined. Escherichia coli isolated from yaks had a high resistance rate to
+sulfamethoxazole (44%), sulphafurazole (40.4%), and florfenicol (11.4%). Escherichia coli isolated
+from herdsmen had a high resistance rate to sulfamethoxazole (57%) and sulphafurazole (51%). In
+addition, sul genes were present in 93% of sulfonamide-resistant isolates (84/90), and 17 floR genes
+and four cmlA genes were found in 19 florfenicol-resistant isolates. Even though florfenicol is
+prohibited from use in humans, three floR genes were detected in strains isolated from herdsmen.
+The three floR-positive isolates from herdsmen had pulsed-field gel electrophoresis patterns
+similar to isolates from yaks. In addition to documenting the sul and floR genes in E. coli isolated
+from yaks and herdsmen in the Tibetan pasture, we demonstrated the potential risk that
+antimicrobial-resistant E. coli could spread among herdsmen and yaks.
+
+Key words: Dulfonamides, Escherichia coli, florfenicol, herdsmen, yaks.
+
+INTRODUCTION
+
+Yaks (Bos grunniens) are mammals
+adapted to high-altitude and extremely
+cold conditions. They provide an impor-
+tant source of milk, meat, fiber, and fuel,
+making them vital for the production and
+material essential for life for herdsmen in
+the Tibetan pasture (Gu et al. 2007). The
+yak industry was listed as the first batch of
+"Promote the Autonomous Prefecture and
+Enrich the People" key projects in Seda
+County, Ganzi Tibetan autonomous pre-
+fecture, Sichuan Province, China.
+
+Although yaks have a strong ability to
+resist disease, diarrhea, usually caused by
+Shiga toxin-producing Escherichia coli
+remains a major health problem (Ban-
+dyopadhyay et al. 2009; Bai et al. 2013).
+According to an earlier investigation, the
+main antimicrobial agents used in the
+
+treatment of yak for diarrhea were
+sulfamethoxazole, sulphafurazole,
+florfe-
+nicol, penicillin, amoxicillin, and strepto-
+mycin (Y.Y. unpubl. data). Although
+sulfonamides have been banned from
+use in food-producing animals for many
+years, sulfamethoxazole and sulphafura-
+zole are still used in the Tibetan pasture
+because of a shortage of medical services
+and supplies. In addition, sulfonamide,
+norfloxacin, and amoxicillin are used in
+herdsmen for bacterial disease.
+
+Resistance to sulfonamides in E. coli
+can result
+from the acquisition of an
+alternative deoxyhypusine synthase gene
+(sul)
+(Radstrom and Swedberg 1988),
+whose product has a lower affinity for
+sulfonamides. Three sulfonamide resis-
+tance genes
+in
+gram-negative bacteria have been de-
+scribed (Perreten and Boerlin 2003)
+
+sul2, and sul3)
+
+(sul1,
+
+0
+
+JOURNAL OF WILDLIFE DISEASES, VOL. 51, NO. 3, JULY 2015
+
+TABLE 1. Origins of the Escherichia coli isolates from Yaks (Bos grunniens) and herdsman in Seda County,
+Ganzi Tibetan autonomous prefecture, Sichuan Province, China, 2009–2011.
+
+Farm
+
+herdsmen
+
+Antimicrobials used in yaks
+
+Antimicrobials used in
+
+No. of samples
+(yak/herdsman)
+
+No. of E. coli
+
+isolates
+
+(yak/herdsman)
+
+Wuqing
+
+pasture
+
+Gaoshan
+
+pasture
+
+Qingjia
+
+pasture
+
+Sulfonamide, norfloxacin,
+
+Sulfonamide, streptomycin,
+
+amoxicillin
+
+penicillin, florfenicol
+
+Sulfonamide, norfloxacin,
+
+Sulfonamide, streptomycin,
+
+amoxicillin
+
+penicillin, florfenicol
+
+Sulfonamide, norfloxacin,
+
+Sulfonamide, streptomycin,
+
+amoxicillin
+
+penicillin, florfenicol
+
+Aga pasture
+
+Sulfonamide, amoxicillin Sulfonamide, streptomycin,
+
+Unknown
+
+Unknown
+
+penicillin, florfenicol
+
+Kangle
+
+pasture
+
+Sulfonamide, norfloxacin,
+
+Daze pasture Sulfonamide
+Niannong
+pasture
+Xiangyang
+pasture
+
+amoxicillin
+Sulfonamide
+
+Sulfonamide
+Sulfonamide, penicillin
+
+Sulfonamide, streptomycin,
+
+penicillin
+
+Dazhang
+
+pasture
+
+Total
+
+Sulfonamide, norfloxacin,
+
+Sulfonamide, streptomycin,
+
+amoxicillin
+
+penicillin
+
+20/10
+
+20/10
+
+20/10
+
+25/10
+
+25/10
+
+25/10
+25/10
+
+25/10
+
+25/10
+
+14/8
+
+12/6
+
+11/7
+
+15/9
+
+12/9
+
+10/7
+13/9
+
+12/7
+
+15/8
+
+210/90
+
+114/70
+
+and have been frequently detected in
+E. coli
+from origins around the world
+(Enne et al. 2001; Wu et al. 2010). Flor-
+fenicol
+is a synthetic, broad-spectrum,
+fluorinated derivative of chloramphen-
+icol approved exclusively for veterinary
+use (Schwarz et al. 2004). Six florfenicol
+resistance genes have been detected in
+a wide variety of bacteria including floR
+and cmlA in several gram-negative bac-
+teria (Schwarz et al. 2004): cfr and fexA
+in different Staphylococcus spp. (Kehren-
+berg and Schwarz 2004) and pexA and
+estDL136 in uncultured bacteria (Lang
+et al. 2010; Tao et al. 2012).
+
+Little information is available regarding
+the epidemiology of antimicrobial-resis-
+tant E. coli isolated from yaks and herds-
+men in the Tibetan pasture. In this study
+we address two questions: 1) What are the
+resistance phenotypes and genotypes of
+E. coli isolated from yaks and herdsmen?
+2) Are drug-resistant bacteria and re-
+sistance genes shared by yaks and herds-
+men?
+
+MATERIALS AND METHODS
+
+Sample population
+
+We collected samples from Seda County,
+Ganzi Tibetan autonomous prefecture,
+Sichuan Province, China, which is on the
+southeastern margin of
+the Qinghai-Tibet
+Plateau at an average elevation of 3,893 m.
+We collected 300 nonduplicated fecal samples
+of yaks (n5210) and herdsmen (n590) from
+nine Tibetan pastures between May 2009 and
+October 2011 (Table 1). We followed yaks and
+collected specimens immediately after fecal
+voiding. Fresh fecal samples were placed into
+2 mL sterile tubes containing 80% glycerin
+and 20% skim milk, stored on ice packs, and
+transported to the laboratory for isolation of
+E. coli. This study was approved by the local
+ethics board of the Medical Ethics Committee
+of Sichuan University, and consent was
+obtained from all herdsmen in nine Tibetan
+pastures.
+
+Bacterial isolates
+
+The samples were inoculated into tryptone
+soya broth and incubated at 37 C for 18 h with
+shaking at 200 rpm. All of the isolates were
+presumptively
+identified by phenotypic
+including colony morphology on
+methods,
+
+ZHANG ET AL.—RESISTANCE GENES IN E. COLI ISOLATED FROM YAKS AND HERDSMEN
+
+0
+
+TABLE 2. PCR primers used in this study.
+
+Gene
+
+Description
+
+Sequence (59–39)
+
+Amplicon size
+
+(base pairs)
+
+Reference
+
+sul1
+
+sul2
+
+sul3
+
+cfr
+
+flor
+
+fexA
+
+Dihydropteroate
+
+synthetase
+
+Dihydropteroate
+
+synthetase
+
+Dihydropteroate
+
+synthetase
+
+rRNA methyl-
+transferase
+
+F: CGGCGTGGGCTACCTGAACG
+R: GCCGATCGCGTGAAGTTCCG
+F: GCGCTCAAGGCAGATGGCATT
+R: GCGTTTGATACCGGCACCCGT
+F: AGATGTGATTGATTTGGGAGC
+R: TAGTTGTTTCTGGATTAGAGCCT
+F: TGAAGTATAAAGCAGGTTGGGA
+
+GTCA
+
+R: ACCATATAATTGACCACAAGCA
+
+GC
+
+Efflux protein
+
+Efflux protein
+
+F: GGCTTTCGTCATTGCGTCTC
+R: ATCGGTAGGATGAAGGTGAGGA
+F: GTACTTGTAGGTGCAATTACGG
+
+cmlA
+
+pexA
+
+estDL
+136
+
+Efflux protein
+
+Efflux protein
+
+Hydrolytic
+enzyme
+
+CTGA
+
+R: CGCATCTGAGTAGGACATAGC
+
+GTC
+
+F: TGCCAGCAGTGCCGTTTAT
+R: CACCGCCCAAGCAGAAGTA
+F: TTCACTGCAGGGATCGTGAC
+R: CAACTGCAGAAAAGCGAAAAG
+F: TGCCCGCACCCGATTTCT
+R: GATTGGATGCACCTCGTTCTA
+
+433
+
+293
+
+443
+
+746
+
+Kerrn et al. 2002
+
+Kerrn et al. 2002
+
+Zhang et al. 2009
+
+Wang et al. 2012
+
+650
+
+Zhang et al. 2009
+
+1,272
+
+Kehrenberg and
+Schwarz 2004
+
+900
+
+Zhang et al. 2009
+
+1,701
+
+Lang et al. 2010
+
+864
+
+Tao et al. 2012
+
+MacConkey agar and eosin-methylene blue
+agar, and gram stain. Identification was later
+confirmed by the Vitek system (bioMe´ rieux,
+Durham, North Carolina, USA). The isolates
+were stored in Luria-Bertani broth containing
+15% glycerol at 280 C until analysis. The ‘O’
+serogroup of the E. coli isolates was determined
+using a slide agglutination test. The antiserum
+used for O serotyping was produced by Tianjin
+Biochip Corporation (Tianjin, China).
+
+Antimicrobial susceptibility testing
+
+The susceptibilities of the isolates to 15
+antimicrobials were determined using the stan-
+dard Kirby-Bauer disk diffusion method accord-
+ing to Clinical and Laboratory Standards In-
+stitute guidelines (CLSI 2010) and performance
+standards for antimicrobial disk and dilution
+susceptibility tests for bacteria isolated from
+animals (CLSI 2008). The following antimicro-
+bial disks from Oxoid Ltd. (Basingstoke, UK)
+were used: ampicillin, amoxicillin, ceftiofur,
+gentamicin, neomycin, streptomycin, doxycy-
+cline, tetracycline, spectinomycin, nalidixic acid,
+norfloxacin, ciprofloxacin, sulphafurazole, sulfa-
+methoxazole, and florfenicol. The internationally
+recognized control strain for antimicrobial
+susceptibility testing, E. coli ATCC 25922
+(American Type Culture Collection, Manassas,
+
+Virginia, USA), was used as the quality control
+strain.
+
+PCR for detecting sulfonamide and florfenicol
+resistance genes
+
+Escherichia coli isolates, which had resis-
+tance to sulfonamide, were amplified (sulfon-
+amide-resistant genes sul1, sul2, and sul3) by
+PCR using previously described primers
+(Kerrn et al. 2002; Zhang et al. 2009). The
+rRNA methylase gene cfr;
+four florfenicol
+exporter genes floR, fexA, cmlA, and pexA;
+and the newly discovered florfenicol hydrolytic
+enzyme gene estDL136, were amplified in
+florfenicol-resistant isolates (Kehrenberg and
+Schwarz 2004; Zhang et al. 2009; Lang et al.
+2010; Tao et al. 2012). The PCR primers are
+described in Table 2. The PCR products were
+purified using a QIA quick PCR Purifica-
+tion Kit (QIAGEN Inc., Valencia, California,
+USA), cloned to a pMD18-T vector, and
+transformed into JM109-competent recipient
+E. coli. Positive clones were sequenced by
+Shanghai Sangon Biological Engineering
+Technology and Services Co., Ltd. (Shanghai,
+China) on both strands by automated sequenc-
+ing with an ABI Prism 3730 Genetic Analyzer
+(Applied Biosystems, Foster City, California,
+USA). The resulting DNA sequence data was
+
+0
+
+JOURNAL OF WILDLIFE DISEASES, VOL. 51, NO. 3, JULY 2015
+
+TABLE 3. Antimicrobial susceptibility of E. coli isolates from yaks (Bos grunniens) and herdsmen, Seda
+County, Ganzi Tibetan autonomous prefecture, Sichuan Province, China, 2009–2011.
+
+Antimicrobial
+
+% Resistant
+
+% Intermediate
+
+% Resistant
+
+% Intermediate
+
+nonsusceptibility
+
+Herdsmen (n/total)
+
+Yaks (n/total)
+
+P value for
+
+Sulfamethoxazolea
+Sulphafurazolea
+Florfenicolb
+Streptomycina
+Spectinomycinb
+Ampicillina
+Amoxicillina
+Ceftiofurb
+Neomycinb
+Gentamicina
+Doxycyclinea
+Tetracyclinea
+Nalidixic acida
+Norfloxacina
+Ciprofloxacina
+
+a CLSI 2010.
+b CLSI 2008.
+
+57 (40/70)
+51 (36/70)
+
+4 (3/70)
+
+20 (14/70)
+14 (10/70)
+23 (16/70)
+26 (18/70)
+11 (8/70)
+0 (0/70)
+11 (8/70)
+6 (4/70)
+11 (8/70)
+11 (8/70)
+9 (6/70)
+3 (2/70)
+
+0 (0/70)
+3 (2/70)
+3 (2/70)
+9 (6/70)
+6 (4/70)
+
+17 (12/70)
+20 (14/70)
+20 (14/70)
+
+3 (2/70)
+6 (4/70)
+11 (8/70)
+14 (10/70)
+
+0 (0/70)
+3 (2/70)
+
+20 (14/70)
+
+44.0 (50/114)
+40.4 (46/114)
+11.4 (13/114)
+
+1.8 (2/114)
+0.0 (0/114)
+6.1 (7/114)
+8.8 (10/114)
+0.0 (0/114)
+0.0 (0/114)
+3.5 (4/114)
+0.0 (0/114)
+0.0 (0/114)
+0.0 (0/114)
+0.0 (0/114)
+0.0 (0/114)
+
+0.0 (0/114)
+0.0 (0/114)
+1.8 (2/114)
+3.5 (4/114)
+0.0 (0/114)
+9.6 (11/114)
+3.5 (4/114)
+0.0 (0/114)
+0.9 (1/114)
+1.8 (2/114)
+3.5 (4/114)
+2.6 (3/114)
+0.0 (0/114)
+0.9 (1/114)
+0.9 (1/114)
+
+0.08
+0.09
+0.18
+
+,0.001
+,0.001
+,0.001
+,0.001
+,0.001
+
+0.16
+0.02
+0.006
+,0.001
+0.004
+0.009
+,0.001
+
+compared with data from GenBank using the
+Basic Local Alignment Search Tool (National
+Center for Biotechnology Information 2015).
+
+Pulsed-field gel electrophoresis (PFGE)
+
+We performed PFGE for 13 floR-positive
+isolates from herdsmen and yaks to assess
+overlap in the two neighboring pastures
+following the criteria of Tenover et al.
+(1995). Three florfenicol-resistant
+isolates
+from herdsmen were included. Electrophore-
+sis was performed using a CHEF DRIII
+System (Bio-Rad Laboratories Inc., Hercules,
+California, USA) after Xba I digestion. The
+PFGE conditions were: voltage, 6 V/cm;
+included angle, 120u; pulse time, 2.70,29.00
+s; electrophoresis time, 20 h; and temperature,
+14 C. Software Quantity One version 4.62
+(Bio-Rad Laboratories) was used to analyze
+genetic relationship among isolates. Similarity
+between fingerprints was calculated with the
+Dice coefficient (Vali et al. 2014). A cluster
+analysis was performed using the unweighted
+pair-group method with average linkages.
+
+Statistical analysis
+
+Fisher’s exact test and a x2 tests were used
+to compare the susceptibility testing results of
+the herdsmen and yak isolates. A P,0.05 value
+was considered statistically significant. The
+association of E. coli serotypes and antibiotic
+resistance was tested by the Pearson’s corre-
+
+lation test using SPSS.19 software (IBM
+Corporation, Armonk, New York, USA).
+
+RESULTS
+
+Escherichia coli isolates and ‘O’ serogroup
+
+We isolated 184 nonrepetitive isolates
+of E. coli (yaks, n5114; herdsmen, n570)
+(Table 1). The isolates from yaks were
+divided into 24 ‘O’ serogroups, and the
+dominant types included O101 (12.3%),
+O2 (9.6%), O68 (7.0%), O132 (7.0%), O78
+(5.3%), O171 (5.3%), O22 (4.4%), O142
+(4.4%), and O165 (4.4%). The strains
+originating from herdsmen were divided
+into 12 ‘O’ serogroups, and the dominant
+types included O81 (14%), O30 (11%), O5
+(11%), O165 (9%), O132 (9%), and O101
+(9%).
+
+Antimicrobial susceptibility testing
+
+The antimicrobial resistance of these
+isolates is shown in Table 3. The strains
+isolated from yaks showed the highest re-
+sistance rate to sulfamethoxazole (44%),
+followed by sulphafurazole (40.4%), florfe-
+nicol (11.4%), amoxicillin (8.9%), ampicillin
+(6.1%), gentamicin (3.5%), and streptomycin
+
+ZHANG ET AL.—RESISTANCE GENES IN E. COLI ISOLATED FROM YAKS AND HERDSMEN
+
+0
+
+TABLE 4. Prevalence of
+in
+sulfonamides and florfenicol resistance E. coli
+isolates in yaks (Bos grunniens) and herdsmen,
+Seda Coun ty, Gan zi Tib etan autonomous
+prefecture, Sichuan Province, China, 2009–2011.
+
+resistance genes
+
+Resistance gene
+
+Herdsmen
+
+Yaks
+
+Source, n (%)
+
+sul genes
+sul 1
+sul 2
+sul 3
+sul 1 + sul 2
+sul 1 + sul 3
+
+flor
+cmlA
+cfr
+fexA
+PexA
+est136DL
+
+n540
+37 (93)
+17 (43)
+11 (28)
+
+3 (8)
+5 (13)
+1 (3)
+
+n516
+
+14 (88)
+3 (19)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+
+n550
+47 (94)
+18 (36)
+26 (52)
+
+0 (0)
+3 (6)
+0 (0)
+
+n53
+
+3 (100)
+1 (33)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+
+(1.8%). All isolates were sensitive to neo-
+mycin, doxycycline, tetracycline, norfloxacin,
+ciprofloxacin, nalidixic acid, spectinomycin,
+and ceftiofur. The resistance ratio of isolates
+from herdsmen was 57% and 51% to
+sulfamethoxazole and sulphafurazole, fol-
+lowed by amoxicillin (26%), ampicillin
+(23%), streptomycin (20%), spectinomycin
+(14%), tetracycline (11%), ceftiofur (11%),
+norfloxacin (9%), doxycycline (6%), florfeni-
+col (4%), ciprofloxacin (3%), and neomycin
+(0%). Highly significant differences in re-
+sistance to streptomycin, spectinomycin,
+ampicillin, amoxicillin, ceftiofur, ciprofloxa-
+cin, and tetracycline were observed between
+isolates from herdsmen and yaks (P,0.001).
+
+Prevalence of resistance genes
+
+Among the 90 sulfonamide-resistant
+isolates, sul genes were present in 93%
+(84/90), with sul1, sul2, and sul3 detected
+alone or in combination in 44 (49%), 45
+(50%), and 4 (4%) of
+the strains, re-
+spectively. No strain was positive for sul2
++ sul3 and sul1 + sul2 + sul3 in
+combination. Fourteen (87%) floR genes
+were detected in 16 florfenicol-resistant
+
+the florfenicol-resistant
+
+isolates from yaks and three floR genes
+were detected in three florfenicol-resistant
+isolates from herdsmen. Four cmlA genes
+were found in 19 florfenicol-resistant
+isolates. In addition, cfr, fexA, pexA, and
+estDL136 genes were not detected in any
+of
+isolates. All
+of the positive clones were sequenced.
+The basic local alignment search tool
+(BLAST) results showed that all of the
+sequences obtained in this study were
+highly homologous with sequences in
+GenBank ($99%). Detailed information
+on these resistance genes are provided in
+Table 4.
+
+Pulsed-field gel electrophoresis (PFGE) and
+genetic relatedness analysis of strains
+
+Six different Xba I-PFGE patterns
+(I,VI) of floR-positive isolates were ob-
+served. Some isolates had similar patterns.
+In pattern I, WY8 isolated from yaks was
+similar to WH4 and WH7 isolated from
+herdsmen in Wuqin pasture (similarity
+coefficient 0.83). There was a similarity
+coefficient of 0.86 between WY12 isolated
+from yaks in Wuqin pasture and GY13
+from yaks in Gaoshan pasture, which had
+similar PFGE patterns to GH12 isolated
+from herdsman in Gaoshan pasture
+(Fig. 1). No significant association was
+found between serotypes and resistance
+phenotypes.
+
+DISCUSSION
+
+We found 24 ‘O’ serogroups in E. coli
+isolates from yaks, which was significantly
+different from E. coli isolated from captive
+yaks in India (Bandyopadhyay et al. 2009).
+Only three serogroups (O2, O22, and
+O78) reported in this study were also
+observed in Shiga toxin-producing E. coli
+in yaks in the Qinghai-Tibetan Plateau
+(Bai et al. 2013). This implies that diverse
+‘O’ serogroups of E. coli were present in
+yaks in different regions. Both O101 and
+O132 were simultaneously present in yaks
+and herdsmen, suggesting overlap of ‘O’
+
+0
+
+JOURNAL OF WILDLIFE DISEASES, VOL. 51, NO. 3, JULY 2015
+
+FIGURE 1. Pulsed-field gel electrophoresis (PFGE) patterns and genetic relatedness analysis of strains of
+floR-positive Escherichia coli isolated after digestion of total DNA with Xba I, from yaks (Bos grunniens) and
+herdsman from pastures in Seda County, Ganzi Tibetan autonomous prefecture, Sichuan Province, China,
+2009–2011. SMZ 5 sulfamethoxazole; SF 5 sulphafurazole; AMP 5 ampicillin; AML 5 amoxicillin; FFC 5
+florfenicol; NA 5 nalidixic acid; STR 5 streptomycin.
+
+serogroups in E. coli isolates from humans
+and animals.
+
+in our
+
+Escherichia coli
+
+study had
+a higher resistance to sulfanilamide than
+to other antimicrobial agents but much
+lower than the strains isolated from other
+commercial animals in China (Lei et al.
+2010; Tian et al. 2012). The reason for this
+low rate of antibiotic resistance might be
+the short-term use of antibiotics in Tibet-
+an pastures. The antibiotic-resistant phe-
+notypes of isolates from herdsmen were
+more complicated than isolates from
+yaks (Table 3). According to the survey
+of antibiotic use in Tibetan pastures
+(Table 1), sulfanilamides (sulphafurazole
+and sulfamethoxazole) were mostly used
+to treat yaks with diarrhea. However,
+herdsmen usually used sulphafurazole,
+sulfamethoxazole, ampicillin, and amoxi-
+cillin for their own illness. Our results
+were in accordance with the custom of
+
+using these antimicrobial agents in pas-
+tures. Although florfenicol
+is prohibited
+for use in humans, florfenicol resistance
+was detected in three isolates from herd-
+smen. This
+that antibiotic
+resistant isolates or genes might be trans-
+mitted from yaks to herdsmen.
+
+indicates
+
+We mainly amplified the sulfonamide
+resistance genes in E. coli due to the high
+resistance to sulfanilamide. The florfenicol
+resistance gene was also included because
+of the florfenicol-resistant E. coli found in
+herdsmen. Among 90 sulfanilamide-resis-
+tant strains, the positive rate of sul genes
+the sul
+was 93%, which revealed that
+genes were most prevalent in the Tibetan
+pasture. A nearly perfect correlation
+between genotype and phenotype was
+found with regard to sulfanilamide. The
+sul1 and sul2 genes were common in
+sulfanilamide-resistant
+results
+which differ from other research on swine
+
+strains,
+
+ZHANG ET AL.—RESISTANCE GENES IN E. COLI ISOLATED FROM YAKS AND HERDSMEN
+
+0
+
+(Blickwede
+
+and chickens (Kozak et al. 2009). Seven-
+teen florfenicol resistance genes (floR)
+were found in 19 florfenicol-resistant
+E. coli, indicating that efflux of the drug
+is the main resistance mechanism to
+florfenicol
+and Schwarz
+2004). The cfr, fexA, pexA, and estDL136
+genes were not amplified in any of the
+florfenicol-resistant isolates in our study.
+A possible reason is that the cfr and fexA
+genes were mainly found in gram-positive
+bacteria, whereas only one cfr gene-
+positive strain has been found in E. coli
+(Wang et al. 2012). The pexA and
+estDL136 genes were only detected in
+uncultured bacteria from soil (Lang et al.
+2010; Tao et al. 2012). However, to the
+best of our knowledge, this is the first
+report of the floR gene in E. coli isolated
+from yaks and herdsmen.
+
+A few strains of E. coli isolated from yaks
+and herdsmen in different pastures had the
+same serogroups, antimicrobial-resistant
+gene, and PFGE patterns, suggesting that
+the potential risk of antimicrobial-resistant
+E. coli would disseminate in yaks and
+herdsmen through the spread of clones.
+This result might be caused by lifestyle and
+poor sanitary conditions in Tibetan pas-
+tures. The Tibetan people have a close
+relationship with yaks through drinking
+yak milk, eating air-dried yak meat, and
+burning yak droppings for energy. This
+could imply that, although the drug is used
+strictly in animals, the use of florfenicol
+might select for and amplify resistance to
+antimicrobials that are relevant to human
+health (O’Brien 2002). Previous research
+has shown that antimicrobial-resistant bac-
+teria could spread from animals to humans
+(Winokur et al. 2001; Rwego et al. 2008),
+which was proven by our research. Con-
+tinuous surveillance of antibiotic resistance
+should be performed in Tibetan pastures.
+In conclusion, we report the floR gene
+in E. coli isolated from yaks and herdsmen
+and a high presence of sulfonamide re-
+sistance genes in E. coli isolated from the
+Tibetan pastures. We also demonstrated
+that the antibiotic-resistant E. coli and
+
+resistance genes (such as floR) might
+directly disseminate between humans
+and yaks due to the lifestyle habits
+(burning yak droppings for energy,
+in-
+frequent hand and body washing, and
+eating air-dried beef) of herdsmen in the
+Tibetan pastures; more attention should
+be paid to these aspects
+to reduce
+dissemination.
+
+ACKNOWLEDGMENTS
+
+We are grateful
+
+for the cooperation of
+herdsmen in nine Tibetan pastures in Seda
+County, Sichuan Province, China. This work
+was supported by National Basic Research
+Program of China ("973" project 2013C
+B127200), the general Program of National
+Natural Science Foundation of China (grants
+31100102 and J1103518), and the Special
+Fund for Agro-scientific Research in the
+Public Interest (grants 201303044 and 2013
+NZ0025).
+
+LITERATURE CITED
+
+Bai X, Zhao A, Lan R, Xin Y, Xie H, Meng Q, Jin D,
+Yu B, Sun H, Lu S, et al. 2013. Shiga toxin-
+producing Escherichia coli in yaks (Bos grun-
+niens) from the Qinghai-Tibetan Plateau, China.
+PloS one 8:e65537.
+
+Bandyopadhyay S, Biswas TK, Sasmal D, Ghosh MK,
+Dutta TK, Das SC, Bhattacharya D, Bera AK,
+Bandyopadhyay S, De S, et al. 2009. Virulence
+gene and antibiotic resistance profile of Shiga-
+toxin-producing Escherichia coli prevalent
+in
+captive yaks (Poephagus grunniens). Vet Micro-
+biol 138:403–404.
+
+Blickwede M, Schwarz S. 2004. Molecular analysis of
+isolates
+
+florfenicol-resistant Escherichia coli
+from pigs. J Antimicrob Chemother 53:58–64.
+
+Clinical and Laboratory Standards Institute (CLSI).
+2008. Performance standards for antimicrobial
+disk and dilution susceptibility tests for bacteria
+isolated from animals; Approved standard—3rd
+Ed. M31-A3. Clinical and Laboratory Standards
+Institute, Wayne, Pennsylvania. XXX pp.
+
+CLSI. 2010. Performance standards for antimicrobial
+susceptibility testing; 17th Informational Sup-
+plement. CLSI Document M100-S17. Clinical
+and Laboratory Standards Institute, Wayne,
+Pennsylvania. XXX pp.
+
+Enne VI, Livermore DM, Stephens P, Hall L. 2001.
+Persistence of sulphonamide resistance in Es-
+cherichia coli in the UK despite national pre-
+scribing restriction. Lancet 357:1325–1328.
+
+Gu Z, Zhao X, Li N, Wu C. 2007. Complete sequence
+of the yak (Bos grunniens) mitochondrial genome
+
+0
+
+JOURNAL OF WILDLIFE DISEASES, VOL. 51, NO. 3, JULY 2015
+
+and its evolutionary relationship with other
+ruminants. Mol Phylogenet Evol 42:248–255.
+
+Kehrenberg C, Schwarz S. 2004.
+
+fexA, a novel
+Staphylococcus lentus gene encoding resistance
+to florfenicol and chloramphenicol. Antimicrob
+Agents Chemother 48:615–618.
+
+Kerrn MB, Klemmensen T, Frimodt-Moller N,
+Espersen F. 2002. Susceptibility of Danish
+Escherichia coli strains isolated from urinary
+tract infections and bacteraemia, and distribu-
+tion of
+sul genes conferring sulphonamide
+resistance. J Antimicrob Chemother 50:513–516.
+Kozak GK, Pearl DL, Parkman J, Reid-Smith RJ,
+Deckert A, Boerlin P. 2009. Distribution of
+sulfonamide resistance genes in Escherichia coli
+and Salmonella isolates from swine and chickens
+at abattoirs in Ontario and Que´ bec, Canada Appl
+Environ Microbiol 75:5999–6001.
+
+Lang KS, Anderson JM, Schwarz S, Williamson L,
+Handelsman J, Singer RS. 2010. Novel florfenicol
+and chloramphenicol resistance gene discovered
+in Alaskan soil by using functional metagenomics.
+Appl Environ Microbiol 76:5321–5326.
+
+Lei T, Tian W, He L, Huang XH, Sun YX, Deng YT,
+Sun Y, Lv DH, Wu CM, Huang LZ, et al. 2010.
+resistance in Escherichia coli
+Antimicrobial
+isolates from food animals, animal food products
+and companion animals in China. Vet Microbiol
+146:85–89.
+
+National Center
+
+for Biotechnology Information.
+2015. Basic local alignment search tool (BLAST).
+http://blast.ncbi.nlm.nih.gov/Blast.cgi. Accessed
+March 2015.
+
+O’Brien TF. 2002. Emergence, spread, and environ-
+mental effect of antimicrobial resistance: How
+use of an antimicrobial anywhere can increase
+resistance to any antimicrobial anywhere else.
+Clin Infect Dis 34:S78–S84.
+
+Perreten V, Boerlin P. 2003. A new sulfonamide
+resistance gene (sul3)
+is
+widespread in the pig population of Switzerland.
+Antimicrob Agents Chemother 47:1169–1172.
+
+in Escherichia coli
+
+Radstrom P, Swedberg G. 1988. RSF1010 and
+a conjugative plasmid contain sulII, one of two
+known genes for plasmid-borne sulfonamide
+resistance dihydropteroate synthase. Antimicrob
+Agents Chemother 32:1684–1692.
+
+Rwego IB, Gillespie TR, Isabirye-Basuta G, Gold-
+berg TL. 2008. High rates of Escherichia coli
+transmission between livestock and humans in
+rural Uganda. J Clin Microbiol 46:3187–3191.
+
+Schwarz S, Kehrenberg C, Doublet B, Cloeckaert A.
+
+2004. Molecular basis of bacterial resistance to
+chloramphenicol and florfenicol. FEMS Micro-
+biol Rev 28:519–542.
+
+Tao W, Lee MH, Wu J, Kim NH, Kim JC, Chung E,
+Hwang EC, Lee SW. 2012. Inactivation of
+chloramphenicol and florfenicol by a novel
+chloramphenicol hydrolase. Appl Environ Mi-
+crobiol 78:6295–6301.
+
+Tenover FC, Arbeit RD, Goering RV, Mickelsen PA,
+Murray BE, Persing DH, Swaminathan B. 1995.
+Interpreting chromosomal DNA restriction pat-
+terns produced by pulsed-field gel electropho-
+resis: Criteria for bacterial strain typing. J Clin
+Microbiol 33:2233–2239.
+
+Tian GB, Wang HN, Zhang AY, Zhang Y, Fan WQ,
+Xu CW, Zeng B, Guan ZB, Zou LK. 2012.
+Detection of clinically important b-lactamases in
+commensal Escherichia coli of human and swine
+J Med Microbiol
+origin in western China.
+61:233–238.
+
+Vali P, Shahcheraghi F, Seyfipour M, Zamani MA,
+Allahyar MR, Feizabadi MM. 2014. Phenotypic
+and genetic characterization of carbapenemase
+and ESBLs producing gram-negative bacteria
+(GNB) isolated from patients with cystic fibrosis
+(CF) in Tehran hospitals. J Clin Diagn Res 8:26–
+30.
+
+Wang Y, He T, Schwarz S, Zhou D, Shen Z, Wu C,
+Wang Y, Ma L, Zhang Q, Shen J. 2012.
+Detection of the staphylococcal multiresistance
+gene cfr in Escherichia coli of domestic-animal
+origin. J Antimicrob Chemother 67:1094–1098.
+
+Winokur P, Vonstein D, Hoffman L, Uhlenhopp E,
+Doern G. 2001. Evidence for transfer of CMY-2
+AmpC b-Lactamase plasmids between Escher-
+ichia coli and Salmonella isolates from food
+animals and humans. Antimicrob Agents Che-
+mother 45:2716–2722.
+
+Wu S, Dalsgaard A, Hammerum AM, Porsbo LJ,
+Jensen LB. 2010. Prevalence and characteriza-
+tion of plasmids carrying sulfonamide resistance
+genes among Escherichia coli from pigs, pig
+carcasses and human. Acta Vet Scand 52:47–47.
+Zhang AY, Wang HN, Tian GB, Zhang Y, Yang X, Xia
+QQ, Tang JN, Zou LK. 2009. Phenotypic and
+genotypic characterisation of antimicrobial re-
+sistance in faecal bacteria from 30 Giant pandas.
+Int J Antimicrob Agents 33:456–460.
+
+Submitted for publication 15 September 2014.
+Accepted 11 March 2015.
+
+

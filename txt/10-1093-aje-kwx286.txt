@@ -1,0 +1,2798 @@
+ 
+
+The Role of Mobile Genetic Elements in the Spread of Antimicrobial Resistant Escherichia 
+
+coli from Chickens to Humans in Small-Scale Production Poultry Operations in Rural 
+
+ 
+
+Ecuador 
+
+Kara A. Moser, Lixin Zhang, Ian Spicknall, Nikolay P. Braykov, Karen Levey, Carl F. Marrs, 
+
+Betsy Foxman, Gabriel Trueba, William Cevallos, Jason Goldstick, James Trostle, and Joseph N. 
+
+S. Eisenberg 
+
+ 
+
+Correspondence to Dr. Joseph N. S. Eisenberg, PhD, Department of Epidemiology, University of 
+
+Michigan School of Public Health, 414 Washington Heights, Ann Arbor, MI, 48109 (email: 
+
+jnse@umich.edu, phone: 734-615-1625, Fax: 734-998-6837)  
+
+ 
+
+Author Affiliations: Department of Epidemiology, University of Michigan School of Public 
+
+Health, Ann Arbor, Michigan, USA (Kara A. Moser, Ian Spicknall, Carl F. Marrs, Betsy 
+
+Foxman, Joseph N.S. Eisenberg) ; Department of Epidemiology and Biostatistics, Michigan 
+
+State University, East Lansing, Michigan, USA (Lixin Zhang); Department of Microbiology and 
+
+Molecular Genetics, Michigan State University, East Lansing, Michigan, USA (Lixin Zhang); 
+
+Department of Environmental Health, Rollins School of Public Health, Emory University, 
+
+Atlanta, Georgia, USA (Nikolay P. Braykov, Karen Levy); Instituto de Microbiología, 
+
+Universidad San Francisco de Quito, Quito, Ecuador (Gabriel Trueba); Centro de Biomedicina, 
+
+Universidad Central del Ecuador, Quito, Ecuador (William Cevallos); Department of Emergency 
+
+ 
+
+ 
+ 
+
+ 
+
+© The Author(s) 2017. Published by Oxford University Press on behalf of the Johns Hopkins Bloomberg School of Public 
+Health. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com. 
+
+ 
+
+1 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+
+ Medicine, University of Michigan, Ann Arbor, Michigan, USA (Jason Goldstick); Injury 
+
+Research Center, University of Michigan, Ann Arbor, Michigan, USA (Jason Goldstick); 
+
+Department of Anthropology, Trinity College, Hartford, Connecticut, USA (James Trostle) 
+
+ 
+
+Funding: This work was supported by the National Institute of Allergy and Infectious Diseases 
+
+Grant # R01AI050038 and 1K01AI103544, and the National Science Foundation (Ecology and 
+
+Evolution of Infectious Diseases program) grant #08119234. 
+
+ 
+
+Conflicts of Interest: None to report 
+
+ 
+
+Running title: Antibiotic resistance in poultry and humans 
+
+ 
+
+Word count: abstract 200, main text 3,491 
+
+ 
+
+Abbreviations: AMR, antimicrobial resistance; MGE, mobile genetic elements; MDR, multi-
+
+drug resistance; int1, class-1 integron; int2, class-2 integron; tetA, tetracycline class A; tetB, 
+
+tetracycline class B 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+
+ 
+
+ 
+
+ABSTRACT 
+
+ 
+
+Small-scale production poultry operations are increasingly common worldwide. To 
+
+investigate how these operations influence antimicrobial resistance and mobile genetic elements 
+
+(MGEs), E. coli isolates were sampled from small-scale production birds (raised in confined 
+
+spaces with antibiotics in feed), household birds (no movement constraints; fed on scraps), and 
+
+humans associated with these birds in rural Ecuador (2010-2012). Isolates were screened for 
+
+genes associated with MGEs as well as phenotypic resistance to 12 antibiotics. Isolates from 
+
+small-scale production birds had significantly elevated odds of resistance to seven antibiotics and 
+
+all MGE genes compared to household birds (adjusted odds ratio (aOR) range: 2.2-87.9). Isolates 
+
+from humans associated with small-scale production birds had elevated odds of carrying an 
+
+integron (aOR=2.0; 95% confidence interval (CI): 1.06, 3.83) compared to humans associated 
+
+with household birds, as well as sulfisoxazole (aOR=1.9; 95% CI: 1.01, 3.60) and 
+
+trimethoprim/sulfamethoxazole (aOR=2.1; 95% CI: 1.13, 3.95) resistance. Stratifying by the 
+
+presence of MGEs revealed antibiotic groups that are explained by biological links to MGEs; in 
+
+particular, sulfisoxazole, trimethoprim/sulfamethoxazole, and tetracycline resistance were 
+
+highest among birds and humans when MGE exposures were present. Small-scale production 
+
+poultry operations may select for isolates carrying MGEs, contributing to elevated levels of 
+
+resistance in this setting. 
+
+ 
+
+Key words: antimicrobial resistance, poultry production, Escherichia coli, integrons, plasmids 
+
+ 
+
+ 
+
+3 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+
+ 
+
+Antimicrobial resistance (AMR) threatens global health by increasing morbidity and 
+
+mortality, complicating treatment, and increasing health care costs (1). Therapeutic and non-
+
+therapeutic antibiotic use among humans and animals contribute to community and 
+
+environmental reservoirs of AMR, such as those found in livestock operations (2). Antibiotic use 
+
+among animals in the USA is four times higher by weight than among humans, and remains 
+
+largely unregulated and undocumented (3–6).  
+
+Poultry production is a quickly expanding form of livestock farming worldwide (7). In 
+
+developed nations with industrial-scale operations, thousands of birds are often raised in 
+
+confined spaces with feed or water laced with antibiotics (given for the purposes of disease 
+
+prevention, treatment, and/or growth promotion). Higher frequencies of AMR have been found 
+
+in poultry from these production operations compared to free-range birds not exposed to 
+
+antibiotics (8). In addition, isolates from humans associated with different types of production 
+
+poultry operations with varying degrees of antibiotic usage have similar resistance frequencies 
+
+and profiles to those found in corresponding poultry isolates (9), and higher resistance 
+
+frequencies when compared to humans in the surrounding community not associated with 
+
+production operations (10,11).  However, poultry farms worldwide are dominated by small-scale 
+
+production operations (<100 birds), particularly in developing nations where poultry are raised 
+
+for income and/or household consumption (12,13). While a small number of studies have 
+
+documented high levels of AMR in poultry in small-scale production operations (14–16), not all 
+
+of these studies have appropriate non-production bird or human comparisons (non-clinical, from 
+
+the immediate surrounding community), and so less is known about AMR development and 
+
+transmission within these settings. 
+
+ 
+
+4 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+
+While many of these studies investigate resistant phenotypes, genetic factors also mark 
+
+AMR spread. Mobile genetic elements (MGEs), such as integrons and plasmids, transfer genes 
+
+conveying phenotypic resistance among diverse bacterial genera. Certain phenotypic resistance 
+
+profiles may be associated with different MGEs; genes conveying resistance to tetracycline are 
+
+often found on plasmids (17), and some integron types contain a gene conveying resistance to 
+
+sulfonamides at the 3’ end of the integron structure (18). The high prevalence of MGEs 
+
+documented in industrial-scale poultry operations from developed nations may contribute to 
+
+elevated frequencies of AMR in these operations (19). A diverse array of AMR genes have been 
+
+found in integrons located on plasmids, making them a common mechanism for horizontal 
+
+spread of AMR and multi-drug resistance (MDR) (20), and MGEs may be more important than 
+
+bacterial cells in the transmission of AMR genes from livestock to humans (21).  
+
+The construction of a road in Esmeraldas province, Ecuador, has led to an influx of 
+
+small-scale production poultry (chicken) operations using antibiotics in feed and water for 
+
+growth promotion and prophylaxis. This increase provides an opportunity to observe how 
+
+antibiotic use in small-scale production operations influences the epidemiology of AMR and 
+
+MGEs in commensal gut bacteria of poultry and humans. A serial cross-sectional community-
+
+based study was conducted to examine how small-scale poultry production practices affect the 
+
+frequency of MGEs and phenotypic AMR in poultry and human isolates across rural 
+
+communities in northern Ecuador.  
+
+  
+
+METHODS 
+
+ 
+
+Study area and design 
+
+ 
+
+5 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+
+ 
+
+The location and overall design of the parent case-control study have been described 
+
+elsewhere (22,23); briefly, the study included 31 total villages distributed along roads and river 
+
+basins near Borbón, a major population hub in northern coastal Ecuador, that were visited 
+
+between 2003 and 2012. This analysis was restricted to data from 20 of these villages where 
+
+fecal samples from both humans and chickens were collected (August 2010 to May 2012). Each 
+
+village was visited for 15-days once a year during this period. Since the study period 
+
+encompassed 20 months, some villages were visited once and others twice. Consent to 
+
+participate was obtained from all households, and all study protocols were reviewed and 
+
+approved by the University of Michigan Institutional Review Board and the Universidad San 
+
+Francisco de Quito Bioethics Committee. 
+
+ 
+
+Poultry sample collection 
+
+ 
+
+Starting in August 2010, two types of birds were sampled from each village during study 
+
+visits. Birds from small-scale production operations were production-breed broiler chickens and 
+
+laying hens raised in close contact with other birds within poultry coops, and were not allowed or 
+
+able to leave the coop environment. Coop sizes ranged from tens to hundreds of birds (the 
+
+majority housed 50-100). Diets of production birds were largely composed of formula feed 
+
+containing antibiotics, and antibiotics were sometimes directly administered to these chickens in 
+
+their water. Coop-level information on antibiotics included in feed was not available. 
+
+Furthermore, the specific antibiotics used varies by brand, and over time for a given brand. (A 
+
+previous analysis of a commonly available feed for laying and broiler hens in the area revealed 
+
+ 
+
+6 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+
+the presence of chloramphenicol, virginiamycin, lincomycin, and tetracycline using mass 
+
+spectrometry (15).) In contrast, household chickens, kept for personal consumption (meat and 
+
+eggs), did not have movement restrictions and had diets composed primarily of ground corn and 
+
+kitchen scraps.  
+
+To obtain poultry cloacal samples, teams visited all households with active small-scale 
+
+production poultry coops, and households with no small-scale production coops that were 
+
+located as far as possible from active coops (one non-production household was sampled for 
+
+each household with an active coop). At least five small-scale production chickens in each coop 
+
+were sampled. For villages with no small-scale production operations present at the time of the 
+
+visit, three to ten households were chosen at random to sample household birds. The exact 
+
+number was dependent on the proportion of households in the village that were raising household 
+
+birds at the time, which ranged from 10-30%.  
+
+ 
+
+Human sample collection 
+
+ 
+
+As part of the original case-control study, human stool samples were collected from cases 
+
+of diarrhea, identified through daily household visits during the 15-day village visits. The World 
+
+Health Organization case definition of diarrhea was used, which requires three or more loose 
+
+stools (self-reported or, for children < 13 years of age, maternally reported) in a 24-hour period 
+
+(24). A 10% random sample of the community was selected to identify controls, defined as 
+
+individuals without diarrheal symptoms during the prior six days. Humans were linked to birds 
+
+from small-scale production operations or household birds through a shared household 
+
+identification number. 
+
+ 
+
+7 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+
+ 
+
+Markers for phenotypic AMR  
+
+ 
+
+Isolates of E. coli from each human and chicken fecal sample were selected and grown on 
+
+Chromocult agar (Merck, Darmstadt, Germany). Phenotypic resistance was measured for up to 
+
+five isolates per chicken and (given the larger number of human samples collected over the entire 
+
+study period) one isolate at random per human using disc-diffusion assays by standard 
+
+antibiogram methods. As the study comparisons were within bird and human groups (see below), 
+
+any bias introduced by this approach should be non-differential. The following classes were 
+
+tested: beta-lactams (ampicillin, amoxicillin/clavulanate acid, cefotaxime, cephalothin), 
+
+quinolones (ciprofloxacin and enrofloxacin), aminoglycosides (gentamicin and streptomycin), 
+
+sulfonamides (sulfisoxazole, sulfamethoxazole), trimethoprim (tested with sulfamethoxazole), 
+
+chloramphenicol, and tetracycline. Clinical and Laboratory Standards Institute (CLSI) 
+
+breakpoints were used to determine an isolate’s susceptibility or resistance to antibiotics from a 
+
+clinical perspective (25). An isolate was defined as MDR if the isolate was resistant to two or 
+
+more classes of antibiotics. 
+
+ 
+
+Markers for MGEs   
+
+ 
+
+To test for the presence of MGEs, genes associated with the following integrons and 
+
+resistance genes were used as markers: class-1 integrons (int1), class-2 integrons (int2), and two 
+
+tetracycline genes (tetA/tetB). Presence or absence of each gene was determined using high-
+
+throughput dot-blot hybridization on the Library-on-a-Slide (LOS) array platform developed 
+
+ 
+
+8 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+
+previously in our laboratory (26), with internal gene probes prepared with primers listed in Web 
+
+Table 1. Hybridization conditions and the analysis of the probing results have been described in 
+
+detail elsewhere (26–29).  
+
+ 
+
+Statistical analysis 
+
+ 
+
+To examine the role of small-scale production operations on the prevalence of AMR in E. 
+
+coli isolates, the AMR prevalence in isolates from small-scale production birds was compared to 
+
+the prevalence in isolates from household birds. To investigate the role that small-scale 
+
+production operations have on the prevalence of AMR isolates from household birds in the 
+
+surrounding community, household birds were stratified by village type (household birds from 
+
+villages with small-scale production operations, and household birds from villages without 
+
+small-scale production operations at the time of sample collection). To investigate how MGEs 
+
+influence AMR levels, another stratified analysis was done stratifying isolates by both small-
+
+scale production and MGE status. AMR prevalence in isolates from humans associated with 
+
+birds from small-scale production operations was compared to the prevalence of AMR in isolates 
+
+from humans associated with only household birds. As with the poultry comparisons above, the 
+
+latter group was also stratified by the presence or absence of a small-scale production operation 
+
+in the village at the time of visit, and by both small-scale production and MGE status.  
+
+Multiple levels of clustering potentially occur for poultry (bird, household, and village 
+
+level) and human (household and village level) isolates. To investigate potential clustering, odds 
+
+ratios (ORs) and 95% confidence intervals (CIs) were generated by building nested mixed  
+
+models with random intercepts for each level of clustering with PROC GLIMMIX in SAS® 
+
+ 
+
+9 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+
+Software version 9.4 (Cary, NC). Evidence for clustering was assessed through significance of 
+
+the household and village-level random effect variance. For isolates from both birds and humans, 
+
+there was no evidence for clustering at the village level (i.e. the village-level random effect 
+
+variance was not significantly different from zero). Due to high correlation of isolates within-
+
+birds that manifested in highly variable covariate effect estimates (data not shown), a random 
+
+effect for birds was not used. Instead, isolates were collapsed across birds (i.e., if there was an 
+
+isolate positive for a marker, then that bird was considered positive for that marker) and this 
+
+bird-level observation was used for the models. Therefore, final mixed models for both poultry 
+
+and humans only included a random intercept for household.  
+
+To compare the odds of AMR in isolates from small-scale production birds (and 
+
+associated humans) to those in household birds (and associated humans), the above models were 
+
+used to calculate unadjusted and adjusted ORs and 95% CIs. To calculate adjusted ORs, we 
+
+controlled for variables based on hypothesized causal relationships between these variables and 
+
+the exposure/outcome. Year of sample collection can influence the presence of a small-scale 
+
+production operation and levels of AMR. Diarrheal case status of humans may be causally linked 
+
+to AMR levels: if a person is sick and takes antibiotics, that may then select for AMR organisms 
+
+(adjusting for a variable that is only causally linked to the outcome can increase statistical 
+
+efficiency (30)). Adjusted models, therefore, included year of sample collection for isolates from 
+
+birds and year of sample collection and original diarrheal case status for isolates from humans. In 
+
+addition to the latter adjusted model for humans (Model 1), because MGEs may be related to 
+
+both small-scale production operations and AMR, we constructed a second adjusted model 
+
+controlling for MGEs (Model 2).  
+
+ 
+
+10 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+
+ 
+
+RESULTS 
+
+ 
+
+Poultry data 
+
+ 
+
+We collected 1,245 isolates from 376 chickens (186 small-scale production birds and 190 
+
+from household birds) in the 20 villages. Higher prevalence of AMR for all markers was seen in 
+
+isolates from small-scale production birds compared to those from household birds (Table 1). 
+
+Unadjusted and adjusted ORs from mixed models showed significantly elevated odds for the 
+
+presence of all MGE markers among small-scale production birds, and significantly elevated 
+
+odds of resistance for 7/12 antibiotics tested (as well as MDR) compared to household birds 
+
+(Table 2). (Low prevalence of resistance was observed for amoxicillin/clavulanate acid, 
+
+cephalothin, cefotaxime, enrofloxacin, and gentamicin, particularly among isolates from 
+
+household birds; therefore, models for these antibiotics gave unstable ORs and are not reported). 
+
+To investigate the role of small-scale production operations on household chickens, 
+
+household birds were stratified by the presence of a small-scale production operation in the 
+
+village (n=68) or without a small-scale production operation present in the village (n=122) at the 
+
+time of visit (Table 3). Household chickens from villages with small-scale production operations 
+
+had significantly higher odds of resistance to two of the four MGE markers (adjusted OR [95% 
+
+CI] for int1 and tetA: 3.1 [1.27, 7.69] and 2.6 [1.20, 5.66], respectively) compared to household 
+
+chickens from non-production villages. In addition, higher odds of phenotypic resistance were 
+
+observed for MDR (adjusted OR [95% CI]: 2.4 [1.07, 5.40]) and for two antibiotics (adjusted OR 
+
+ 
+
+11 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+
+[95% CI] for sulfisoxazole and trimethoprim/sulfamethoxazole: 3.3 [1.35, 8.02] and 3.3 [1.35, 
+
+7.99], respectively).  
+
+ 
+
+Human data 
+
+ 
+
+Human isolates (n=799) were linked in the database to small-scale production operation 
+
+or household birds through a shared household identification number. There were 45 humans 
+
+associated with production birds and 754 associated with household birds. The prevalence of 
+
+AMR to 8/12 antibiotics and 4/4 MGE markers was higher for isolates from humans associated 
+
+with production birds compared to those associated with household birds (Table 1). ORs from 
+
+nested mixed models are shown in Table 4. As with the poultry data, there was low AMR 
+
+prevalence for a subset of antibiotics and these models are not reported. There was also low 
+
+prevalence of int2 and tetB; these were combined with int1 and tetA for a single integron and 
+
+tetracycline gene category (Table 4). Adjusted models show increased odds of the presence of an 
+
+integron (adjusted OR [95% CI]: 2.0 [1.06, 3.83]), sulfisoxazole resistance (adjusted OR [95% 
+
+CI]: 1.9 [1.01, 3.60]), and trimethoprim/sulfamethoxazole resistance (adjusted OR [95% CI]: 2.1 
+
+[1.13, 3.95]) among humans associated with small-scale production birds compared to humans 
+
+associated with household birds. Similar patterns were observed upon stratifying humans 
+
+associated with household birds by village type (Table 5), with higher odds of tetA/B becoming 
+
+significant when comparing humans associated with small-scale production birds to humans 
+
+associated from household birds in non-production villages (adjusted Model 1 OR [95% CI]: 2.0 
+
+[1.02, 3.78]. Only tetracycline resistance (adjusted Model 1 OR [95% CI]: 1.5 [1.03, 2.08]) had 
+
+ 
+
+12 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+
+significantly elevated odds when comparing humans associated with household birds in small-
+
+scale production villages to those in non-production villages. 
+
+ 
+
+  
+
+Small-scale production operations, AMR, and MGEs 
+
+ 
+
+ 
+
+Elevated levels of markers for MGEs, particularly isolates positive for int1 and tetA, were 
+
+consistently observed in small-scale production birds and associated humans compared to 
+
+household birds and associated humans. To explore how MGEs may facilitate AMR in isolates 
+
+from poultry and humans, the prevalence of phenotypic AMR by small-scale production 
+
+exposure was further stratified by the presence or absence of MGEs (results for int1 are shown in 
+
+Figure 1). Three distinct groups of phenotypic AMR emerged when using all isolates from 
+
+poultry, which we refer to here as Group 1, Group 2, and Group 3. Resistance to Group 1 
+
+antibiotics (sulfisoxazole, trimethoprim/sulfamethoxazole, and tetracycline) had the highest 
+
+levels of resistance whenever an integron was present, regardless of poultry type (Figure 1A). In 
+
+Group 2 (Figure 1B), both the presence of small-scale production operations and int1 increased 
+
+the prevalence of AMR. Resistance to Group 3 antibiotics was high with production exposure, 
+
+but sometimes both production and integron exposures were required (Figure 1C). Similar 
+
+grouping patterns were also seen when stratifying by int2, tetA, and tetB (data not shown). In 
+
+humans, there were low frequencies of resistance to Group 2 and 3 antibiotics, and so similar 
+
+patterns failed to emerge for these groups (data not shown). However, the prevalence of AMR 
+
+for sulfisoxazole, trimethoprim/sulfamethoxazole, and tetracycline (Group 1) in human isolates 
+
+showed similar patterns to those seen in poultry isolates, with the highest AMR prevalence (~70-
+
+80%) occurring when MGEs were present, intermediary prevalence (35-40%) occurring when 
+
+ 
+
+13 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+
+only small-scale production operations were present, and the lowest prevalence (~20%) present 
+
+when neither small-scale production operations or MGEs were present (Figure 1D).  
+
+ 
+
+Given our observations that small-scale production operations are associated with 
+
+elevated odds of MGEs (Tables 2-5), and that MGEs are associated with elevated levels of AMR 
+
+(Figure 1), a second adjusted model for humans was created where presence/absence of a MGE 
+
+was added to the model (Table 5, Model 2). Attenuated ORs and a loss of (moderate-to-weak) 
+
+significance for sulfisoxazole, trimethoprim/sulfamethoxazole, and tetracycline for humans 
+
+associated with production birds (and tetracycline for humans associated with household birds in 
+
+production villages) was observed. 
+
+ 
+
+DISCUSSION 
+
+ 
+
+This study suggests that production operations on a smaller scale, and not just industrial-
+
+scale poultry operations, are associated with increases in resistant isolates in poultry and humans 
+
+associated with these operations. In addition, the MGE and phenotypic data presented here 
+
+highlight a potentially important role of small-scale production operations within the study site, 
+
+namely an elevated occurrence of MGEs in E. coli carried by production birds and associated 
+
+humans. Integrons house a wide array of resistance genes (20), which can result in the expression 
+
+of resistant phenotypes not directly related to antibiotics used in production farming. In a study 
+
+of livestock farms with heavy use of antibiotics, all types of resistance genes were enriched, and 
+
+such enrichment was highly correlated with the abundance of MGEs such as transposases (31), 
+
+often linked with integrons (32).  
+
+ 
+
+14 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+
+The ability of class-1 integrons to carry AMR genes is the most likely explanation for our 
+
+observed relationship between int1, small-scale production operations, and AMR (Figure 1). For 
+
+Group 1 antibiotics (sulfisoxazole, trimethoprim/sulfamethoxazole, and tetracycline), the 
+
+presence of int1 was associated with an AMR prevalence of ~90% from bacterial isolates taken 
+
+from birds, regardless of poultry type. This finding can be explained by physical links to MGEs. 
+
+All class-1 integrons incorporate a sulfonamide (sul) resistance gene as part of their structure, 
+
+and often carry dihydrofolate reductase (dfr) genes (conveying resistance to trimethoprim) (33). 
+
+In addition, tetracycline resistance genes are often found on the same conjugative plasmids as 
+
+integrons (34,35).   
+
+In contrast to Group 1, for Group 2 antibiotics, the presence of int1 contributed to some 
+
+increases of resistance in isolates from poultry, while additional exposure to small-scale 
+
+production operations resulted in even higher resistance levels. This finding is plausible because, 
+
+while genes conferring resistance to the Group 2 antibiotics have been found on class-1 
+
+integrons, some are less common than the sul and dfr genes (33). For Group 3 antibiotics, 
+
+exposures to small-scale production operations or int1 genes alone tended to result in minor 
+
+increases in resistance. Only when both small-scale production operations and integrons were 
+
+present did we observe high levels of resistance, suggesting that even antibiotics with overall low 
+
+AMR levels in a community can achieve higher levels given the presence of both these 
+
+exposures. 
+
+The selection of MGEs due to small-scale production operations may be an evolutionary 
+
+response to exposure to a large variety of antibiotics. In this study site, various types of 
+
+antibiotics were detected in feed used in production coops (15). Such broad-scale antibiotic use 
+
+in this setting may select bacterial isolates in birds carrying MGEs, which in turn may influence 
+
+ 
+
+15 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+
+AMR in bacterial isolates from humans. This agrees with recent evidence showing that 
+
+transmission of AMR from animals to humans may be driven more by MGEs than cross-
+
+colonization by resistant strains (21). The higher prevalence of tetA and tetB genes in isolates 
+
+from small-scale production birds could also be explained by antibiotic use, as tetracycline has 
+
+been previously detected in feed used in small-scale production operations in this area (15). 
+
+E.coli isolates from humans associated with small-scale production birds had higher 
+
+levels of MGEs and phenotypic AMR than those from humans associated with household birds, 
+
+particularly those linked to MGEs from Figure 1 (sulfisoxazole and 
+
+trimethoprim/sulfamethoxazole) (Table 4, Table 5). The lack of significant differences for other 
+
+markers may be due to the small number of samples from humans associated with production 
+
+birds (n=45). After adjusting for the presence of MGEs, the relationships between small-scale 
+
+production operations and phenotypic resistance were attenuated, indicating overlap in the 
+
+variance in the outcome (AMR) explained by presence of MGEs and these operations. One 
+
+plausible explanation for this overlap is that small-scale production operations increase the 
+
+prevalence of isolates containing MGEs, which in turn increases prevalence of AMR isolates. 
+
+Isolates from household birds in small-scale production villages had significantly higher 
+
+odds of resistance than samples from those in non-production villages for int1, tetA, 
+
+sulfisoxazole, trimethoprim/sulfamethoxazole, and MDR (Table 3). In addition, humans 
+
+associated with household birds in small-scale production villages had elevated odds of 
+
+tetracycline resistance (Table 5). Together, these results are indirect evidence of environmental 
+
+spread of AMR at the community-level from small-scale production operations, possibly through 
+
+soil, air, water, or meat.  
+
+ 
+
+16 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+
+A small number of studies have studied AMR patterns in chickens and/or humans 
+
+associated with small-scale production operations in developing countries (14–16).  We add a 
+
+new perspective by sampling E. coli isolates from three groups of birds (small-scale production 
+
+birds and household birds residing in small-scale production and non-production villages) and 
+
+from corresponding human from the community rather than clinics. In this region of Ecuador, 
+
+high levels of AMR in isolates from these groups were observed despite the small-scale nature of 
+
+the operations, suggesting that high levels of AMR may be found in small-scale production 
+
+operations elsewhere in the developing world. Given the growing interest in utilizing poultry as a 
+
+tool for economic development (36–38), the results presented here are important when 
+
+considering policy implications, especially in nations that have not yet enacted or enforced 
+
+regulations on non-therapeutic antibiotic use.  
+
+ 
+
+ACKNOWLEDGMENTS 
+
+ 
+
+Author Affiliations: Department of Epidemiology, University of Michigan School of Public 
+
+Health, Ann Arbor, Michigan, USA (Kara A. Moser, Ian Spicknall, Carl F. Marrs, Betsy 
+
+Foxman, Joseph N.S. Eisenberg) ; Department of Epidemiology and Biostatistics, Michigan 
+
+State University, East Lansing, Michigan, USA (Lixin Zhang); Department of Microbiology and 
+
+Molecular Genetics, Michigan State University, East Lansing, Michigan, USA (Lixin Zhang); 
+
+Department of Environmental Health, Rollins School of Public Health, Emory University, 
+
+Atlanta, Georgia, USA (Nikolay P. Braykov, Karen Levy); Instituto de Microbiología, 
+
+Universidad San Francisco de Quito, Quito, Ecuador (Gabriel Trueba); Centro de Biomedicina, 
+
+Universidad Central del Ecuador, Quito, Ecuador (William Cevallos); Department of Emergency 
+
+ 
+
+17 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+
+Medicine, University of Michigan, Ann Arbor, Michigan, USA (Jason Goldstick); Injury 
+
+Research Center, University of Michigan, Ann Arbor, Michigan, USA (Jason Goldstick); 
+
+Department of Anthropology, Trinity College, Hartford, Connecticut, USA (James Trostle) 
+
+ 
+
+The authors would like to thank the Ecología, Desarrollo, Salud y Sociedad (EcoDESS) project 
+
+research team for their invaluable contributions to data collection and lab personal at the Instituto 
+
+de Microbiología, Universidad San Francisco de Quito (Quito, Ecuador) and the Department of 
+
+Epidemiology, University of Michigan School of Public Health (Ann Arbor, MI, USA) for their 
+
+efforts in sample processing. This work was supported by the National Institute of Allergy and 
+
+Infectious Diseases Grant # R01AI050038 and 1K01AI103544, and the National Science 
+
+Foundation (Ecology and Evolution of Infectious Diseases program) grant #08119234.  
+
+ 
+
+The authors have no conflicts of interest to report. 
+
+ 
+
+REFERENCES 
+
+ 
+
+1.   de Kraker MEA, Davey PG, Grundmann H, et al. Mortality and Hospital Stay Associated 
+
+with Resistant Staphylococcus aureus and Escherichia coli Bacteremia: Estimating the Burden of 
+
+Antibiotic Resistance in Europe. PLOS Med. 2011 Oct 11;8(10):e1001104. 
+
+2.   Wellington EMH, Boxall AB, Cross P, et al. The role of the natural environment in the 
+
+emergence of antibiotic resistance in gram-negative bacteria. Lancet Infect Dis. 2013 
+
+Feb;13(2):155–165. 
+
+ 
+
+18 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+
+3.   Gilchrist MJ, Greko C, Wallinga DB, et al. The Potential Role of Concentrated Animal 
+
+Feeding Operations in Infectious Disease Epidemics and Antibiotic Resistance. Environ Health 
+
+Perspect. 2007 Feb;115(2):313–316. 
+
+4.   Alcorn T. Antibiotic use in livestock production in the USA. Lancet Infect Dis. 2012 
+
+Apr;12(4):273–274.  
+
+5.   Webster P. Poultry, politics, and antibiotic resistance. The Lancet. 2009 
+
+Sep;374(9692):773–774.  
+
+6.   Leung E, Weil DE, Raviglione M, et al. The WHO policy package to combat antimicrobial 
+
+resistance. Bull World Health Organ. 2011 May 1;89(5):390–392. 
+
+7.   Steinfeld H, Wassenaar T, Jutzi S. Livestock production systems in developing countries: 
+
+status, drivers, trends. Rev Sci Tech Int Off Epizoot. 2006 Aug;25(2):505–516.  
+
+8.   Luangtongkum T, Morishita TY, Ison AJ, et al. Effect of Conventional and Organic 
+
+Production Practices on the Prevalence and Antimicrobial Resistance of Campylobacter spp. in 
+
+Poultry. Appl Environ Microbiol. 2006 May 1;72(5):3600–3607.  
+
+9.   van den Bogaard AE, London N, Driessen C, et al. Antibiotic resistance of faecal 
+
+Escherichia coli in poultry, poultry farmers and poultry slaughterers. J Antimicrob Chemother. 
+
+2001 Jun 1;47(6):763–771. 
+
+10.   Levy SB, FitzGerald GB, Macone AB. Changes in Intestinal Flora of Farm Personnel after 
+
+Introduction of a Tetracycline-Supplemented Feed on a Farm. N Engl J Med. 1976 Sep 
+
+9;295(11):583–588.  
+
+ 
+
+19 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+
+11.   Price LB, Graham JP, Lackey LG, et al. Elevated Risk of Carrying Gentamicin-Resistant 
+
+Escherichia coli among U.S. Poultry Workers. Environ Health Perspect. 2007 
+
+Dec;115(12):1738–1742. 
+
+12.   Sonaiya EB, Swan, SEJ. Small-scale poultry production: technical guide. FEO. Rome, 
+
+2004. 
+
+13.   Sonaiya F. Smallholder family poultry as a tool to initiate rural development. Presented at 
+
+the International Conference Poultry in the Twenty-first Century: avian influenza and beyond: 5–
+
+7 November 2007. Bangkok, Thailand. 
+
+14.   Kariuki S, Gilks C, Kimari J. Plasmid diversity of multi-drug-resistant Escherichia coli 
+
+isolated from children with diarrhoea in a poultry-farming area in Kenya. Ann Trop Med 
+
+Parasitol. 1997;91(1):87–94.  
+
+15.   Braykov NP, Eisenberg JNS, Grossman M, et al. Antibiotic Resistance in Animal and 
+
+Environmental Samples Associated with Small-Scale Poultry Farming in Northwestern Ecuador. 
+
+mSphere. 2016 Feb 24;1(1):e00021-15. 
+
+16.   Bernadether TR, Douglas RC, Gaspary OM, et al. Comparison of the prevalence of 
+
+antibiotic-resistant Escherichia coli isolates from commercial-layer and free-range chickens in 
+
+Arusha district, Tanzania. Afr J Microbiol Res. 2016 Sep 14;10(34):1422–9. 
+
+17.   Mendez B, Tachibana C, Levy SB. Heterogeneity of tetracycline resistance determinants. 
+
+Plasmid. 1980 Mar;3(2):99–108.  
+
+ 
+
+20 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+
+18.   Mazel D. Integrons: agents of bacterial evolution. Nat Rev Microbiol. 2006 Aug;4(8):608–
+
+620.  
+
+19.   Nandi S, Maurer JJ, Hofacre C, et al. Gram-positive bacteria are a major reservoir of Class 
+
+1 antibiotic resistance integrons in poultry litter. Proc Natl Acad Sci U S A. 2004 May 
+
+4;101(18):7118–22.  
+
+20.   Randall LP, Cooles SW, Osborn MK, et al. Antibiotic resistance genes, integrons and 
+
+multiple antibiotic resistance in thirty-five serotypes of Salmonella enterica isolated from 
+
+humans and animals in the UK. J Antimicrob Chemother. 2004 Feb 1;53(2):208–216. 
+
+21.   de Been M, Lanza VF, de Toro M, et al. Dissemination of Cephalosporin Resistance Genes 
+
+between Escherichia coli Strains from Farm Animals and Humans by Specific Plasmid Lineages. 
+
+PLos Genet. 2014;10(12). 
+
+22.   Eisenberg JNS, Cevallos W, Ponce K, et al. Environmental change and infectious disease: 
+
+how new roads affect the transmission of diarrheal pathogens in rural Ecuador. Proc Natl Acad 
+
+Sci U S A. 2006 Dec 19;103(51):19460–19465. 
+
+23.   Eisenberg JNS, Goldstick J, Cevallos W, et al. In-roads to the spread of antibiotic 
+
+resistance: regional patterns of microbial transmission in northern coastal Ecuador. J R Soc 
+
+Interface R Soc. 2012 May 7;9(70):1029–1039. 
+
+24.   World Health Organization. The treatment of diarrhoea: A manual for physicians and other 
+
+senior health workers. Geneva, Switzerland: World Health Organization (WHO); 2005.  
+
+ 
+
+21 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+
+25.  CLSI. Performance Standards for Antimicrobial Susceptibility Testing; Twenty-Second 
+
+Informational Supplement. Vol. 31, Clinical and Laboratory Standards Institute, Wayne, PA. 
+
+2012. 1-184 p. 
+
+26.   Zhang L, Srinivasan U, Marrs CF, et al. Library on a slide for bacterial comparative 
+
+genomics. BMC Microbiol. 2004 Mar 22;4:12. 
+
+27.   Kong Y, Cave MD, Zhang L, et al. Population-based study of deletions in five different 
+
+genomic regions of Mycobacterium tuberculosis and possible clinical relevance of the deletions. 
+
+J Clin Microbiol. 2006 Nov;44(11):3940–3946. 
+
+28.   Sandstedt S, Zhang L, Patel M. Comparison of laboratory-based and phylogenetic methods 
+
+to distinguish between Haemophilus influenzae and H. haemolyticus. J Microbiol Methods. 
+
+2008;75(2):369–371.  
+
+29.   Zhang L, Xie J, Patel M, et al. Nontypeable Haemophilus influenzae genetic islands 
+
+associated with chronic pulmonary infection. PloS One. 2012 Jan;7(9):e44730. 
+
+30.   Schisterman EF, Cole SR, Platt RW. Overadjustment Bias and Unnecessary Adjustment in 
+
+Epidemiologic Studies. Epidemiol Camb Mass. 2009 Jul;20(4):488–495.  
+
+31.   Zhu YG, Johnson TA, Su JQ, et al. Diverse and abundant antibiotic resistance genes in 
+
+Chinese swine farms. Proc Natl Acad Sci U S A. 2013 Feb 26;110(9):3435–3440. 
+
+32.   Dawes FE, Kuzevski A, Bettelheim KA, et al. Distribution of Class 1 Integrons with IS 26 -
+
+Mediated Deletions in Their 3′-Conserved Segments in Escherichia coli of Human and Animal 
+
+Origin. PLOS ONE. 2010 Sep 15;5(9):e12754. 
+
+ 
+
+22 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+
+33.   Partridge SR, Tsafnat G, Coiera E, et al. Gene cassettes and cassette arrays in mobile 
+
+resistance integrons. FEMS Microbiol Rev. 2009 Jul 1;33(4):757–784. 
+
+34.   Schmidt A, Bruun M. Incidence, distribution, and spread of tetracycline resistance 
+
+determinants and integron-associated antibiotic resistance genes among motile aeromonads from 
+
+a fish. Appl Environ Microbiol. 2001;67(12):5675–5682.  
+
+35.   Sunde M, Norström M. The prevalence of, associations between and conjugal transfer of 
+
+antibiotic resistance genes in Escherichia coli isolated from Norwegian meat and meat products. 
+
+J Antimicrob Chemother. 2006 Oct;58(4):741–747.  
+
+36.   Scanes CG. Contribution of Poultry to Quality of Life and Economic Development in the 
+
+Developing World. Poult Sci. 2007 Nov 1;86(11):2289–2290.  
+
+37.   Mcleod A, Thieme O, Mack SD. Structural changes in the poultry sector: will there be 
+
+smallholder poultry development in 2030? Worlds Poult Sci J. 2009 Jun;65(2):191–200.  
+
+38.   Gates B. Why I Would Raise Chickens. https://www.gatesnotes.com/Development/Why-I-
+
+Would-Raise-Chickens. Published June 7, 2016. Accessed October 4, 2016. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+23 
+
+ORIGINAL UNEDITED MANUSCRIPT   
+
+  
+
+Table 1: Frequency of Antibiotic Resistance in E. coli Isolates from Small-Scale Production Birds and Associated Humans, Household Birds and 
+Associated Humans in Villages with Small-Scale Production Operations, and Household Birds and Associated Humans in Villages without 
+Small-Scale Production Operations in Rural Ecuador (2010-2012). 
+
+Type of Poultry 
+
+ 
+
+Type of Human Association 
+
+Household 
+
+Household 
+
+Source & 
+Marker 
+
+Small-Scale 
+
+Production (n=619) 
+
+Small-Scale 
+
+Production Villages 
+
+(n=246) 
+
+Non-Production 
+Villages (n=380) 
+
+Small-Scale 
+
+Production (n=45) 
+
+Small-Scale 
+
+Production Villages 
+
+(n=385) 
+
+Non-Production 
+Villages (n=369) 
+
+Microarray 
+
+ 
+
+ 
+
+ 
+
+ 
+
+int1 
+
+int2 
+
+tetA 
+
+tetB 
+
+Antibiogram 
+
+  G 
+
+  STX 
+
+  TE 
+
+  AM 
+
+  C 
+
+  CIP 
+
+  ENO 
+
+  S 
+
+  AMC 
+
+  CF 
+
+  CTX 
+
+  GM 
+
+  MDR 
+
+n 
+
+ 
+
+269 
+
+65 
+
+307 
+
+88 
+
+ 
+
+401 
+
+368 
+
+426 
+
+279 
+
+151 
+
+183 
+
+196 
+
+257 
+
+112 
+
+201 
+
+13 
+
+101 
+
+429 
+
+% 
+
+ 
+
+43.5 
+
+10.5 
+
+49.6 
+
+14.2 
+
+ 
+
+64.8 
+
+59.5 
+
+68.8 
+
+45.1 
+
+24.4 
+
+29.6 
+
+31.7 
+
+41.5 
+
+18.1 
+
+32.5 
+
+2.1 
+
+16.3 
+
+69.3 
+
+n 
+
+ 
+
+27 
+
+6 
+
+54 
+
+19 
+
+ 
+
+43 
+
+39 
+
+72 
+
+29 
+
+5 
+
+7 
+
+7 
+
+18 
+
+3 
+
+8 
+
+1 
+
+3 
+
+% 
+
+ 
+
+11.0 
+
+2.4 
+
+22.0 
+
+7.7 
+
+ 
+
+17.5 
+
+15.9 
+
+29.3 
+
+11.8 
+
+2.0 
+
+2.8 
+
+2.8 
+
+7.3 
+
+1.2 
+
+3.3 
+
+0.4 
+
+1.2 
+
+53 
+
+21.5 
+
+n 
+
+ 
+
+22 
+
+2 
+
+53 
+
+23 
+
+ 
+
+37 
+
+32 
+
+93 
+
+29 
+
+12 
+
+14 
+
+13 
+
+30 
+
+0 
+
+16 
+
+0 
+
+1 
+
+58 
+
+% 
+
+ 
+
+5.8 
+
+0.5 
+
+13.9 
+
+6.1 
+
+ 
+
+9.7 
+
+8.4 
+
+24.5 
+
+7.6 
+
+3.2 
+
+3.7 
+
+3.4 
+
+7.9 
+
+0.0 
+
+4.2 
+
+0.0 
+
+0.3 
+
+n 
+
+ 
+
+13 
+
+4 
+
+15 
+
+7 
+
+ 
+
+22 
+
+21 
+
+20 
+
+16 
+
+2 
+
+1 
+
+2 
+
+12 
+
+2 
+
+8 
+
+0 
+
+1 
+
+% 
+
+ 
+
+28.9 
+
+8.9 
+
+33.3 
+
+15.6 
+
+ 
+
+48.9 
+
+46.7 
+
+44.4 
+
+35.6 
+
+4.4 
+
+2.2 
+
+4.4 
+
+26.7 
+
+4.4 
+
+17.8 
+
+0.0 
+
+2.2 
+
+n 
+
+ 
+
+75 
+
+14 
+
+88 
+
+54 
+
+ 
+
+134 
+
+116 
+
+151 
+
+131 
+
+23 
+
+10 
+
+10 
+
+99 
+
+13 
+
+66 
+
+0 
+
+1 
+
+% 
+
+ 
+
+19.5 
+
+3.6 
+
+22.9 
+
+14.0 
+
+ 
+
+34.8 
+
+30.1 
+
+39.2 
+
+34.0 
+
+6.0 
+
+2.6 
+
+2.6 
+
+25.7 
+
+3.4 
+
+17.1 
+
+0.0 
+
+0.3 
+
+n 
+
+ 
+
+63 
+
+12 
+
+64 
+
+46 
+
+ 
+
+119 
+
+104 
+
+108 
+
+115 
+
+22 
+
+13 
+
+13 
+
+85 
+
+7 
+
+49 
+
+2 
+
+8 
+
+% 
+
+ 
+
+17.1 
+
+3.3 
+
+17.3 
+
+12.5 
+
+ 
+
+32.2 
+
+28.2 
+
+29.3 
+
+31.2 
+
+6.0 
+
+3.5 
+
+3.5 
+
+23.0 
+
+1.9 
+
+13.3 
+
+0.5 
+
+2.2 
+
+15.3 
+
+21 
+
+46.7 
+
+151 
+
+39.2 
+
+129 
+
+35.0 
+
+Abbreviations: AM, ampicillin; AMC, amoxicillin/clavulanate acid; C, chloramphenicol; CF, cephalothin; CIP, ciprofloxacin; CTX, cefotaxime; 
+ENO, enrofloxacin; G, sulfisoxazole; GM, gentamicin; int1, class-1 integron; int2, class-2 integron; MDR, multi-drug resistance (resistant to two 
+or more antibiotic classes); S, streptomycin; STX, trimethoprim/sulfamethoxazole; TE, tetracycline; tetA, tetracycline class A; tetB, tetracycline 
+class B. 
+a Columns may not sum to the total, as an isolate can be positive for more than one genetic marker, and/or resistant to more than one antibiotic. 
+
+ORIGINAL UNEDITED MANUSCRIPT  
+Table 2. Odds Ratios from Mixed Modelsa Comparing E. coli Isolates from 
+Small-Scale Production Birds (n=619) to Isolates from Household Birds 
+(n=626) in Rural Ecuador (2010-2012). 
+
+Source & 
+Marker 
+
+Microarray 
+
+ 
+
+ 
+
+ 
+
+ 
+
+int1 
+
+int2 
+
+tetA 
+
+tetB 
+
+Antibiogram 
+
+  G 
+
+  STX 
+
+  TE 
+
+  AM 
+
+  C 
+
+  CIP 
+
+  S 
+
+  MDR 
+
+Small-Scale Production Birds vs Household Birds 
+
+Unadjusted 
+
+Adjustedb 
+
+OR 
+
+ 
+
+12.4 
+
+22.1 
+
+9.6 
+
+2.2 
+
+ 
+
+42.8 
+
+50.9 
+
+5.3 
+
+15.9 
+
+17.3 
+
+19.2 
+
+77.0 
+
+2.0 
+
+95% CI 
+
+ 
+
+5.97, 25.7 
+
+6.00, 81.4 
+
+4.74, 19.5 
+
+1.21, 3.86 
+
+ 
+
+15.9, 115 
+
+18.8, 137 
+
+2.69, 10.4 
+
+5.81, 43.3 
+
+6.40, 46.9 
+
+6.59, 55.7 
+
+23.6, 251 
+
+1.09, 3.69 
+
+OR 
+
+ 
+
+14.1 
+
+25.8 
+
+9.6 
+
+2.2 
+
+ 
+
+44.1 
+
+52.7 
+
+5.6 
+
+15.6 
+
+20.5 
+
+26.9 
+
+87.9 
+
+2.2 
+
+95% CI 
+
+ 
+
+6.44, 30.9 
+
+6.71, 99.3 
+
+4.63, 19.8 
+
+1.18, 3.99 
+
+ 
+
+15.8, 123 
+
+18.9, 147 
+
+2.73, 11.3 
+
+5.59, 43.7 
+
+7.89, 53.0 
+
+8.32, 87.1 
+
+25.7, 301 
+
+1.13, 4.18 
+
+Abbreviations: AM, ampicillin; C, chloramphenicol; CI, confidence 
+interval; CIP, ciprofloxacin; G, sulfisoxazole; int1, class-1 integron; int2, 
+class-2 integron; MDR, multi-drug resistance (resistant to two or more 
+antibiotic classes); OR, odds ratio; S, streptomycin; STX, 
+trimethoprim/sulfamethoxazole; TE, tetracycline; tetA, tetracycline class 
+A; tetB, tetracycline class B. 
+a Mixed models accounting for clustering at the household level; isolates 
+were collapsed across birds due to high within-bird correlation. Models 
+for 5/12 antibiotics not shown due to low frequencies. 
+b Adjusted model includes year of sample collection.  
+
+ 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+
+ 
+
+ORIGINAL UNEDITED MANUSCRIPT Table 3. Odds Ratios from Mixed Modelsa Comparing E. coli Isolates from A) Small-Scale Production Birds (n=619) to Isolates 
+from Household Birds in Villages Without Small-Scale Production Operations (n=380) and B) Household Birds in Villages with 
+Small-Scale Production Operations (n=246) to Isolates from Household Birds in Villages Without Small-Scale Production 
+Operations (n=380) in Rural Ecuador (2010-2012). 
+
+Small-Scale Production Birds  
+
+Household Birds 
+
+Unadjusted 
+
+Adjustedb 
+
+Unadjusted 
+
+Adjustedb 
+
+OR 
+
+95% CI 
+
+OR 
+
+95% CI 
+
+OR 
+
+95% CI 
+
+OR 
+
+95% CI 
+
+Source & 
+Marker 
+
+Microarray 
+
+ 
+
+ 
+
+ 
+
+ 
+
+int1 
+
+int2 
+
+tetA 
+
+tetB 
+
+ 
+
+18.4 
+
+44.0 
+
+13.8 
+
+2.8 
+
+ 
+
+7.74, 43.9 
+
+5.44, 355 
+
+6.09, 31.2 
+
+ 
+
+25.4 
+
+56.1 
+
+15.1 
+
+ 
+
+9.32, 69.1 
+
+6.61, 475 
+
+6.38, 35.8 
+
+1.38, 5.80 
+
+3.0 
+
+1.39, 6.52 
+
+Antibiogram 
+
+ 
+
+ 
+
+  G 
+
+  STX 
+
+  TE 
+
+  AM 
+
+  C 
+
+  CIP 
+
+  S 
+
+  MDR 
+
+65.7 
+
+78.0 
+
+6.1 
+
+21.0 
+
+16.2 
+
+16.1 
+
+79.9 
+
+2.7 
+
+21.5, 201 
+
+25.5, 239 
+
+ 
+
+82.8 
+
+98.5 
+
+ 
+
+24.0, 285 
+
+28.7, 339 
+
+2.91, 12.9 
+
+6.9 
+
+3.08, 15.7 
+
+6.70, 65.6 
+
+5.43, 48.4 
+
+5.11, 51.1 
+
+23.0, 278 
+
+1.34, 5.38 
+
+22.2 
+
+21.9 
+
+25.2 
+
+102 
+
+3.4 
+
+6.61, 74.7 
+
+7.43, 64.4 
+
+6.92, 92.1 
+
+26.5, 392 
+
+1.53, 7.33 
+
+ 
+
+2.5 
+
+3.8 
+
+2.4 
+
+1.9 
+
+ 
+
+2.8 
+
+2.8 
+
+1.5 
+
+1.9 
+
+0.8 
+
+0.6 
+
+1.1 
+
+2.0 
+
+ 
+
+1.06, 5.90 
+
+0.32, 45.9 
+
+1.14, 5.10 
+
+0.81, 4.55 
+
+ 
+
+1.20, 6.46 
+
+1.20, 6.41 
+
+0.70, 3.07 
+
+0.74, 4.90 
+
+0.23, 3.03 
+
+0.16, 2.51 
+
+0.42, 2.87 
+
+0.95, 4.41 
+
+ 
+
+3.1 
+
+4.6 
+
+2.6 
+
+2.0 
+
+ 
+
+3.3 
+
+3.3 
+
+1.6 
+
+2.0 
+
+1.2 
+
+0.9 
+
+1.4 
+
+2.4 
+
+ 
+
+1.27, 7.69 
+
+0.38, 55.3 
+
+1.20, 5.66 
+
+0.82, 4.91 
+
+ 
+
+1.35, 8.02 
+
+1.35, 7.99 
+
+0.75, 3.49 
+
+0.74, 5.34 
+
+0.34, 4.19 
+
+0.21, 3.44 
+
+0.52, 3.67 
+
+1.07, 5.40 
+
+Abbreviations: AM, ampicillin; C, chloramphenicol; CI, confidence interval; CIP, ciprofloxacin; G, sulfisoxazole; int1, class-1 
+integron; int2, class-2 integron; MDR, multi-drug resistance (resistant to two or more antibiotic classes); OR, odds ratio; S, 
+streptomycin; STX, trimethoprim/sulfamethoxazole; TE, tetracycline; tetA, tetracycline class A; tetB, tetracycline class B. 
+a Mixed models accounting for clustering at the household level; isolates were collapsed across birds due to high within-bird 
+correlation. Reference group is household birds in villages without small-scale production operations. Models for 5/12 
+antibiotics not shown due to low frequencies. 
+b Adjusted model includes year of sample collection.  
+
+ 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+
+ORIGINAL UNEDITED MANUSCRIPT Table 4. Odds Ratios from Mixed Modelsa Comparing E. coli 
+Isolates from Humans Associated with Small-Scale Production 
+Birds (n=45) to Isolates from Humans Associated with Household 
+Birds (n=754) in Rural Ecuador (2010-2012). 
+
+Source & 
+Marker 
+
+Microarray 
+
+ 
+
+ 
+
+int1/2 
+
+tetA/B 
+
+Antibiogram 
+
+  G 
+
+  STX 
+
+  TE 
+
+  AM 
+
+  S 
+
+  MDR 
+
+Humans Associated with Small-Scale Production 
+
+Birds vs Humans Associated with Household 
+
+Birds 
+
+Unadjusted 
+
+Adjustedb 
+
+OR 
+
+95% CI 
+
+OR 
+
+95% CI 
+
+ 
+
+2.0 
+
+1.7 
+
+ 
+
+1.9 
+
+2.1 
+
+1.5 
+
+1.1 
+
+1.1 
+
+1.5 
+
+ 
+
+1.08, 3.88 
+
+0.91, 3.10 
+
+ 
+
+1.03, 3.47 
+
+1.16, 3.90 
+
+0.83, 2.81 
+
+0.61, 2.14 
+
+0.57, 2.23 
+
+0.81, 2.72 
+
+ 
+
+2.0 
+
+1.6 
+
+ 
+
+1.9 
+
+2.1 
+
+1.4 
+
+1.1 
+
+1.1 
+
+1.5 
+
+ 
+
+1.06, 3.83 
+
+0.89, 3.04 
+
+ 
+
+1.01, 3.60 
+
+1.13, 3.95 
+
+0.77, 2.66 
+
+0.60, 2.18 
+
+0.56, 2.24 
+
+0.78, 2.74 
+
+Abbreviations: AM, ampicillin; CI, confidence interval; G, 
+sulfisoxazole; int1/2, class-1 or class-2 integron; MDR, multi-drug 
+resistance (resistant to two or more antibiotic classes); OR, odds 
+ratio; S, streptomycin; STX, trimethoprim/sulfamethoxazole; TE, 
+tetracycline; tetA/B, tetracycline class A or class B. 
+a Mixed models accounting for clustering at the household level. 
+Models for 7/12 antibiotics not shown due to low frequencies. 
+b Adjusted model includes year of sample collection and diarrheal 
+case status.  
+
+ 
+
+  
+ 
+
+ 
+ 
+
+  
+
+ORIGINAL UNEDITED MANUSCRIPT   
+
+Table 5. Odds Ratios from Mixed Modelsa Comparing E. coli Isolates from A) Humans Associated with Small-Scale Production Birds (n=45) to Isolates from Humans 
+Associated with Household Birds in Villages Without Small-Scale Production Operations (n=369) and B) Humans Associated with Household Birds in Villages with Small-
+Scale Production Operations (n=385) to Isolates from Humans Associated with Household Birds in Villages Without Small-Scale Production Operations (n=369) in Rural 
+Ecuador (2010-2012). 
+
+Source & 
+Marker 
+
+Microarray 
+
+ 
+
+ 
+
+int1/2 
+
+tetA/B 
+
+Antibiogram 
+
+  G 
+
+  STX 
+
+  TE 
+
+  AM 
+
+  S 
+
+  MDR 
+
+Humans Associated with Small-Scale Production Birds 
+
+Humans Associated with Household Birds 
+
+Unadjusted 
+
+Adjusted Model 1b 
+
+Adjusted Model 2c 
+
+Unadjusted 
+
+Adjusted Model 1b 
+
+Adjusted Model 2c 
+
+OR 
+
+95% CI 
+
+OR 
+
+95% CI 
+
+OR 
+
+95% CI 
+
+OR 
+
+95% CI 
+
+OR 
+
+95% CI 
+
+OR 
+
+95% CI 
+
+ 
+
+2.2 
+
+1.9 
+
+ 
+
+2.1 
+
+2.3 
+
+1.9 
+
+1.3 
+
+1.2 
+
+1.6 
+
+ 
+
+1.13, 4.27 
+
+1.03, 3.64 
+
+ 
+
+1.06, 4.06 
+
+1.17, 4.52 
+
+1.03, 3.64 
+
+0.63, 2.60 
+
+0.60, 2.46 
+
+0.87, 3.05 
+
+ 
+
+2.1 
+
+2.0 
+
+ 
+
+1.9 
+
+2.0 
+
+1.8 
+
+1.2 
+
+1.2 
+
+1.5 
+
+ 
+
+1.07, 4.30 
+
+1.02, 3.78 
+
+ 
+
+0.95, 3.67 
+
+1.03, 3.92 
+
+0.95, 3.55 
+
+0.59, 2.47 
+
+0.57, 2.51 
+
+0.78, 2.96 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.5 
+
+1.6 
+
+1.2 
+
+0.9 
+
+0.9 
+
+1.1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.65, 3.31 
+
+0.71, 3.66 
+
+0.03, 48.8 
+
+0.39, 1.86 
+
+0.40, 1.96 
+
+0.47, 2.47 
+
+ 
+
+1.1 
+
+1.3 
+
+ 
+
+1.1 
+
+1.1 
+
+1.6 
+
+1.1 
+
+1.2 
+
+1.2 
+
+ 
+
+0.81, 1.63 
+
+0.96, 1.78 
+
+ 
+
+0.82, 1.54 
+
+0.80, 1.53 
+
+1.15, 2.12 
+
+0.83, 1.58 
+
+0.83, 1.62 
+
+0.89, 1.62 
+
+ 
+
+1.1 
+
+1.3 
+
+ 
+
+1.0 
+
+0.9 
+
+1.5 
+
+1.1 
+
+1.1 
+
+1.1 
+
+ 
+
+0.74, 1.66 
+
+0.92, 1.88 
+
+ 
+
+0.67, 1.39 
+
+0.63, 1.34 
+
+1.03, 2.08 
+
+0.73, 1.53 
+
+0.75, 1.64 
+
+0.75, 1.51 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.9 
+
+0.8 
+
+1.4 
+
+1.0 
+
+1.1 
+
+1.0 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.59, 1.39 
+
+0.53, 1.29 
+
+0.29, 7.22 
+
+0.69, 1.53 
+
+0.71, 1.64 
+
+0.68, 1.57 
+
+Abbreviations: AM, ampicillin; CI, confidence interval; G, sulfisoxazole; int1/2, class-1 or class-2 integron; MDR, multi-drug resistance (resistant to two or more antibiotic 
+classes); OR, odds ratio; S, streptomycin; STX, trimethoprim/sulfamethoxazole; TE, tetracycline; tetA/B, tetracycline class A or class B. 
+a Mixed models accounting for clustering at the household level. Reference group is humans associated with household birds in villages without small-scale production 
+operations. Models for 7/12 antibiotics not shown due to low frequencies.  
+b Adjusted model 1 includes year of sample collection and diarrheal case status 
+c Adjusted model 2 includes year of sample collection, diarrheal case status, and presence of an integron (the model for tetracycline includes presence of tetA/tetB). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ORIGINAL UNEDITED MANUSCRIPT   
+
+Figure Legend 
+
+ 
+
+Figure 1.  Prevalence of antimicrobial resistance in E. coli isolates from small-scale production 
+
+and household birds in rural Ecuador (2010-2012), stratified by the presence or absence of class-
+
+1 integrons. A) For poultry isolates in Group 1, the association of small-scale production 
+
+operations appears to be largely driven by the presence or absence of class-1 integrons. B) For 
+
+poultry isolates in Group 2, the association of small-scale production operations and class-1 
+
+integrons are roughly additive. C) For poultry isolates in Group 3, while small-scale production 
+
+operations result in high resistance levels, both class-1 integrons and small-scale production 
+
+operation exposures are often needed to reach high levels of resistance. D) Resistance patterns in 
+
+isolates from humans associated with small-scale production or household birds for Group 1 
+
+antibiotics mirror those seen in isolates from poultry in A). White: household birds, int1-
+
+negative; light gray: household birds, int1-positive); dark gray: small-scale production birds, 
+
+int1-negative; black: small-scale production birds, int1-positive. 
+
+ 
+
+  
+
+ORIGINAL UNEDITED MANUSCRIPT ORIGINAL UNEDITED MANUSCRIPT 

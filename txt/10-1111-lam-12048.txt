@@ -1,0 +1,1146 @@
+Letters in Applied Microbiology ISSN 0266-8254
+
+O R I G I N A L A R T I C L E
+
+Isolation, molecular characterization and antibiotic
+resistance of Shiga Toxin–Producing Escherichia coli (STEC)
+from buffalo in India
+A. Mahanti1, I. Samanta1, S. Bandopaddhay2, S.N. Joardar1, T.K. Dutta3, S. Batabyal4, T.K. Sar5 and
+D.P. Isore1
+
+1 Department of Veterinary Microbiology, West Bengal University of Animal and Fishery Sciences, Kolkata, West Bengal, India
+2 Eastern Regional Station, Indian Veterinary Research Institute, Kolkata, West Bengal, India
+3 College of Veterinary Science, Central Agricultural University, Aizawl, Mizoram, India
+4 Department of Veterinary Biochemistry, West Bengal University of Animal and Fishery Sciences, Kolkata, West Bengal, India
+5 Department of Veterinary Pharmacology & Toxicology, West Bengal University of Animal and Fishery Sciences, Kolkata, West Bengal, India
+
+Signiﬁcance and Impact of the Study: The buffaloes from different districts of West Bengal, India, are
+important reservoir of multidrug-resistant Shiga toxin–producing Escherichia coli (STEC). India is home
+to more than 56% of world buffalo population, traditionally raised by farmers. So, there is a major risk
+of transmission of STEC among the human population of this part of the globe. However, there is no
+prevalence study of STEC from healthy or diarrhoeic buffalo in India. The present study reports for the
+ﬁrst time in India about isolation, molecular characterization and antibiotic resistance pattern of STEC
+in healthy buffaloes.
+
+Keywords
+antibiotic resistance, buffalo, India, Shiga
+toxin–producing Escherichia coli, West
+Bengal.
+
+Correspondence
+I. Samanta, Department of Veterinary
+Microbiology, West Bengal University of
+Animal and Fishery Sciences, 37 K. B. Sarani,
+Kolkata-700037, West Bengal, India.
+E-mail: isamanta76@gmail.com
+
+2012/1957: received 31 October 2012,
+revised 23 December 2012 and accepted 18
+January 2013
+
+doi:10.1111/lam.12048
+
+Abstract
+
+In total, 363 Escherichia coli were isolated from 165 faecal samples of healthy
+buffaloes in West Bengal, India. Twenty-four of these isolates (661%) were
+found to carry at least one gene characteristic for Shiga toxin–producing
+(STEC). These STEC strains belonged to 13 different
+Escherichia coli
+O-serogroups. The stx1 gene was present in 23 (958%) of total STEC isolates,
+whereas 20 (833%) STEC isolates carried the gene stx2. Twelve strains of
+E. coli (50% of total STEC isolates) possessed enterohaemolysin (ehxA) gene in
+combination with others. Fourteen (5833%) isolates found to possess saa
+gene. However, no E. coli was detected harbouring gene for intimin protein
+(eaeA). Of 23 stx1-positive isolates, seven (3043%) were positive for genes of
+the stx1C subtype. Of the 20 isolates with the stx2 gene, 25% (5/20) possessed
+stx2C and 10% (2/20) possessed stx2d gene. The phylogenetic analysis after
+RAPD of STEC strains revealed six major clusters. The isolated STEC strains
+were resistant most frequently to erythromycin (9583%), cephalothin (625%),
+amikacin (5417%), kanamycin (4583%) and gentamicin (4167%) group of
+antibiotics. No ESBL-producing (blaCTXM, blaTEM, blaSHV) or quinolone
+resistance gene (qnrA) was detected in the STEC isolates.
+
+Introduction
+
+Escherichia coli are facultative anaerobic bacteria and nor-
+mal habitat of
+lower intestine in man and animals,
+although some toxin producing strains can produce path-
+ogenicity ranging from mild diarrhoea to fatal complica-
+tions. One of such important toxigenic groups is Shiga
+
+toxin–producing Escherichia coli (STEC). The clinical ill-
+ness includes a spectrum of human sufferings like bloody
+diarrhoea and even life-threatening conditions such as
+haemolytic uraemic syndrome (HUS) (Paton and Paton
+1998a).
+In addition to the enterohaemorrhagic E. coli
+O157:H7 (EHEC, a subgroup of STEC), which received
+world wide attention because of their association with
+
+Letters in Applied Microbiology 56, 291--298 © 2013 The Society for Applied Microbiology
+
+291
+
+STEC from buffalo in India
+
+A. Mahanti et al.
+
+numerous outbreaks in human, several other serogroups
+of STEC (O26, O91, O103, O104, O111, O113, O121,
+O123 and O145) have also been isolated from severe out-
+breaks of human disease in different countries (Hussein
+2007; Espie et al. 2008; King et al. 2009). This scenario
+becomes graver during infection with antibiotic-resistant
+strains of STEC due to poor response or lack of response
+to the applied treatment.
+
+The ability of STEC to cause human disease is due to the
+production of Shiga toxins, which inhibit protein synthesis
+of the host cells leading to cell death (Karmali et al. 2010).
+These toxins are subdivided into two major groups: Shiga
+toxin 1 (stx1) and Shiga toxin 2 (stx2). Stx1 is a rather
+homologous group in which three variants (stx1, stx1c and
+stx1d) have been described (Brett et al. 2003). The stx2
+group is more heterogeneous and is comprised of several
+subtypes (stx2c, stx2d, stx2e, stx2f, stx2 g and activatable
+stx2d) (Leung et al. 2003). Apart from Shiga toxin, STEC
+strains may possess other virulence factor necessary for
+infection such as intimin, encoded by the chromosomal
+gene eaeA, which is found on a pathogenicity island termed
+as the locus of enterocyte effacement (LEE) (Kaper et al.
+2004). Additional virulence factors of STEC include entero-
+haemolysin, a pore-forming cytolysin on eukaryotic cells
+(Schmidt et al. 1995), bifunctional catalase peroxidase
+(katP) (Brunder et al. 1996) and the etpD gene cluster,
+encoding a type II secretion pathway (Schmidt et al. 1997).
+Several proteins were proposed to be novel adhesion factors
+of STEC like ToxB (a protein identiﬁed from the large, 93-
+kb plasmid pO157 and required for full expression of
+adherence of O157: H7 strain), and saa (STEC autoaggluti-
+nating adhesin identiﬁed in the LEE-negative strains)
+(Toma et al. 2004).
+
+Treatment for STEC infection with antimicrobials is
+controversial due to increased in vivo production of the
+Shiga toxins with the applied antibiotics (Paton and
+Paton 1998a). However, a few reports of antibiotic resis-
+tance in STEC are available (Schroeder et al. 2002).
+Extended-spectrum b-lactamases
+(ESBL), produced by
+E. coli, offered resistance against higher generations of
+cephalosporins (except cephamycins and carbapenems)
+and monobactam. Currently, ESBL-producing organisms
+are becoming a major threat for patients in the hospital
+and community. There are three major classes of ESBL
+(TEM, SHV and CTX-M) encoded by blaTEM, blaSHV and
+blaCTX-M genes, respectively (Geser et al. 2012).
+
+Shiga toxin–producing Escherichia coli
+
+infections are
+food-borne zoonoses transmitted through the consumption
+of contaminated food such as minced beef, raw milk and
+unpasteurized dairy products, because the main reservoir
+of STEC appears to be ruminants (Normanno 2007).
+Domestic ruminants like cattle, sheep and goats have been
+established as major natural reservoirs for STEC and play
+
+a signiﬁcant role in the epidemiology of human infections
+(Karmali et al. 2010). Buffaloes as STEC reservoir have
+been detected in some European countries (Conedera et al.
+2004; Galiero et al. 2005; Oliveira et al. 2007; Seker and
+Yardimci 2008; Lorusso et al. 2009) as well as a few Asian
+countries like Srilanka, Bangladesh and Vietnam (Moham-
+mad et al. 1986; Islam et al. 2008; Vu-Khac and Cornick
+2008). However, to the author’s best knowledge, there is
+no such report from India, although India is home to
+more than 56% of world buffalo population, traditionally
+raised by farmers for milk and meat production or work-
+ing in ﬁeld or farm. So a need of systemic study for the
+prevalence of STEC, their genotype, phylogenetic relation-
+ship, antibiotic resistance from Indian buffaloes was felt.
+
+Results and discussion
+
+Isolation of Escherichia coli from faecal samples of
+buffaloes
+
+(STEC)
+
+Indian dairy sector including the buffaloes
+is purely
+domestic, not maintained in the intensive farm system as
+in developed countries. So, there is a major risk of trans-
+mission of the zoonotic pathogens like Shiga toxin–pro-
+ducing Escherichia coli
+the human
+population of this part of the globe. However, there was
+no systematic study regarding this aspect in healthy or di-
+arrhoeic buffalo in India. Therefore, the present study was
+conducted to determine the STEC occurrence, their viru-
+lence gene proﬁle, phylogenetic relationship and antibiotic
+resistance pattern in buffalo from seven districts (Bank-
+ura, North 24 parganas, Murshidabad, Maldah, Hooghly,
+Nadia & Burdwan) districts of West Bengal, India.
+
+among
+
+From the 165 faecal samples of apparently healthy buf-
+faloes examined, a total of 363 isolates were identiﬁed as
+E. coli on the basis of characteristic pink-coloured colonies
+on MacConkey agar, metallic sheen in EMB agar, Gram-
+negative small rod appearance in stained smear, and bio-
+chemically they were catalase (+ve), oxidase ( ve), Indole-
+Methyl Red-Voges Proskauer-Citrate (+ +    ) and ure-
+ase ( ve), characteristic of standard E. coli strains.
+
+Serogrouping of Escherichia coli isolates
+
+Of the 363 strains of E. coli
+isolated from buffalo, 77
+(2121%) were untypeable, 21 (579%) were rough and
+remaining 265 strains were typed into 52 different sero-
+groups. O120 serogroup was isolated from largest number
+of buffalo (117%),
+followed by O25 (106%), O60
+(906%) and O85 serogroup (717%). In contrast, Oliveira
+et al. (2007) most frequently isolated O74 serogroup as
+STEC from buffalo in Brazil. It has been found that eight
+serogroups namely O22, O25, O41, O60, O76, O85, O112
+
+292
+
+Letters in Applied Microbiology 56, 291--298 © 2013 The Society for Applied Microbiology
+
+A. Mahanti et al.
+
+STEC from buffalo in India
+
+and O120 constituted 55% of the E. coli isolates in this
+study. We have also found that only the serogroups O25,
+O60 and OUT were present in isolates from all the stud-
+ied seven districts of West Bengal, India. No report of
+E. coli isolation from buffalo in West Bengal or India was
+available to compare the result.
+
+Detection of STEC by PCR
+
+Escherichia coli harbouring any gene for Shiga toxins (stx1
+or stx2) was detected in 24 (661%) of the 363 E. coli iso-
+lates. Similar occurrence rate of STEC (54%) was also
+found in water buffalo calves reared in Italy (Galiero et al.
+1997), although Mohammad et al. (1985), Oliveira et al.
+(2007), Islam et al. (2008) and Vu-Khac and Cornick
+(2008) found higher prevalence rate of STEC in buffalo
+(28, 0–643, 379 and 27%, respectively) in other countries.
+These STEC strains belonged to 13 different serogroups
+(O2, O5, O20, O22, O25, O41, O44, O60, O76, O85, O87,
+O113 and O120) and two were untypeable (OUT)
+(Table 1). STEC has been identiﬁed from ﬁve of seven dis-
+tricts studied except in North 24-parganas and Burdwan in
+West Bengal, India. Similarly, Mohammad et al. (1986)
+also found O5, O20 and O76 serogroup as STEC from diar-
+rhoeic cattle and buffalo calves, and O41, O76 and untype-
+able serogroups were also observed as STEC isolated from
+
+buffalo in Bangladesh (Islam et al. 2008). In addition, O22,
+O113 and untypeables harbouring the genes for STEC were
+isolated from healthy buffaloes in Brazil (Oliveira et al.
+2007). Certain serogroups recovered in the present study
+like O2, O85, O113 were earlier recorded to be associated
+with human infection and therefore constitute a signiﬁcant
+risk of public health hazard (Constantiniu 2002).
+
+Subtyping of stx genes by PCR
+The stx1 gene was present in 23 (958%) of total STEC
+isolates, whereas 20 (833%) STEC isolates carried the
+gene stx2. The present ﬁnding is in agreement with the
+previous study by Islam et al. (2008) where stx1 gene was
+found in a larger number than stx2 of non-O157 STEC
+isolates from buffalo in Bangladesh, geographically nearer
+to West Bengal state of India in comparison with other
+studied countries, whereas in other countries, Galiero
+et al. (2005), Oliveira et al. (2007) and Vu-Khac and Cor-
+nick (2008) found a larger number of stx2-positive isolates
+from buffalo than stx1.
+the stx1 gene showed that 3043% (7/23) of these isolates
+were positive for genes of the stx1C subtype. In contrast,
+Vu-Khac and Cornick (2008) found a larger number of
+stx1C possessing STEC isolates (6563%; 42/64) from buf-
+
+Characterization of these 23 E. coli strains possessing
+
+Table 1 Genotypic pattern, phylogenetic clusters and serogroups of isolated Shiga toxin–producing Escherichia coli from buffalo in different
+districts of West Bengal, India
+
+Sl. No.
+
+Genotype
+
+Serogroup
+
+Source district
+
+Annotation used in the dendogram
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+
+Stx1Cstx2CehxAsaa
+Stx1Cstx2CehxAsaa
+Stx1Cstx2ehxAsaa
+Stx1stx2ehxAsaa
+Stx1stx2ehxA
+Stx1stx2
+Stx1Cstx2dsaa
+Stx1ehxAsaa
+Stx1stx2ehxAsaa
+Stx1Cstx2saa
+Stx1stx2saa
+Stx1stx2dsaa
+ehxA
+Stx1Cstx2CehxAsaa
+Stx1stx2ehxAsaa
+Stx1Cstx2CehxAsaa
+Stx1stx2
+Stx1stx2
+Stx1stx2
+Stx1ehxAsaa
+Stx1stx2C
+Stx1
+Stx1stx2
+Stx1stx2
+
+O113
+O113
+OUT
+O60
+O25
+OUT
+O41
+O60
+O85
+O85
+O25
+O76
+O2
+O41
+O120
+O25
+O44
+O120
+O22
+O20
+O25
+O5
+O87
+O60
+
+Bankura
+Bankura
+Bankura
+Bankura
+Bankura
+Murshidabad
+Murshidabad
+Murshidabad
+Hooghly
+Hooghly
+Hooghly
+Hooghly
+Hooghly
+Maldah
+Maldah
+Maldah
+Nadia
+Nadia
+Nadia
+Nadia
+Nadia
+Nadia
+Nadia
+Nadia
+
+1-C
+2-B
+1-G
+2-G
+1-F
+2-C
+1-B
+2-F
+1-E
+4-A
+2-D
+2-E
+2-A
+3-A
+4-C
+1-A
+3-G
+3-C
+1-D
+3-D
+3-B
+4-B
+3-F
+3-E
+
+Letters in Applied Microbiology 56, 291--298 © 2013 The Society for Applied Microbiology
+
+293
+
+STEC from buffalo in India
+
+A. Mahanti et al.
+
+falo in central Vietnam. In our study, most of the stx1C-
+positive isolates possessed ehxA, saa or both genes. In
+contrast, Oliveira et al. (2007) found all the stx1C-positive
+strains were devoid of additional virulence factors. As
+reported in a previous study by Friedrich et al. (2003),
+stx1c-encoding strains are less pathogenic for human.
+
+Of the 20 isolates with the stx2 gene, 25% (5/20) were
+positive for stx2C, and 10% (2/20) were positive for stx2d
+gene. This result is supported by Vu-Khac and Cornick
+(2008) who also found stx2C as dominant variant (36%)
+than stx2d (14%) in buffalo.
+
+No Escherichia coli harbouring gene for intimin protein,
+that is, eaeA, (Enteropathogenic E. coli) was detected in the
+present study. This is in agreement with other reports like
+Vu-Khac and Cornick (2008), who could not isolate single
+eaeA-positive E. coli strain from buffalo in Vietnam and
+Oliveira et al. (2007) in Brazil, where all STEC isolates
+from buffalo were devoid of eaeA gene. Islam et al. (2008)
+also found that all non-O157 STEC isolates from buffalo
+lacked eaeA gene. Intimin gene (eaeA) is a part of the large
+pathogenicity island, known as Locus for enterocyte efface-
+ment (LEE). Although this LEE appears to confer enhanced
+virulence, the presence of it is not essential for pathogene-
+sis, because a number of cases of severe STEC disease,
+including HUS, as well as occasional outbreaks, have been
+caused by the LEE-negative strains (Paton et al. 1999;
+Lepsanovic et al. 2012). The presence of the LEE is associ-
+ated with certain O serogroups like O26, O103, O111,
+O145 and O157 (Sandhu et al. 1996); none of which has
+been identiﬁed as STEC in the present study.
+
+Twelve strains of E. coli (50% of total STEC isolates)
+possessed enterohaemolysin (ehxA) gene in combination
+with others. However, only one strain of E. coli belonged
+to O2 serogroup was detected harbouring only entero-
+haemolysin gene, that is, ehxA (Table 1). Higher occur-
+rence of ehxA gene was observed by Oliveira et al. (2007)
+and Vu-Khac and Cornick (2008) who found 789 and
+81%, respectively, in the E. coli isolates from buffalo, but
+Islam et al. (2008) detected only 61% ehxA in the non-
+O157 STEC isolates in buffaloes.
+
+Paton et al. (2001) ﬁrst described a novel plasmid-
+encoded adhesin, known as saa (STEC autoagglutinating
+adhesin) in eaeA-negative E. coli strain responsible for an
+outbreak of HUS. The saa gene was present in 14 (5833%)
+isolates from buffalo in this study, out of which 10
+(7143%) were associated with the ehxA gene. This is in
+
+contrast to the previous studies by Oliveira et al. (2007),
+Vu-Khac and Cornick (2008) and Islam et al. (2008) where
+saa gene was detected in 835, 78 and 81% Escherichia coli
+isolates from buffaloes, respectively. However, obtaining
+saa gene in eaeA-negative strains and association with ehxA
+gene is in agreement with the ﬁndings of other worker (Jen-
+kins et al. 2003).
+
+RAPD analysis of STEC isolates
+
+All 24 STEC strains were characterized by RAPD-PCR to
+determine the genetic diversity and phylogenetic relation-
+ship among the strains. All the strains were typeable with
+primer 1247, and they produced ampliﬁed fragment ranging
+from 291 to 1888 bp. The phylogenetic analysis of STEC
+strains (analysed by Doc-itLs image analysis software, UVP,
+Cambridge, UK) after RAPD reveals six major clusters
+(A–F) (Fig 1). Even though the RAPD banding patterns
+were not identical, the phylogenetic analysis found similarity
+between many isolates of STEC from different districts of
+West Bengal, India. Except for cluster F, the rest were com-
+prised of STEC strains from different districts. The two iso-
+lates in the cluster F belonged to same serogroup (O113).
+This is a support to the observation by Kr€uger et al. (2006)
+where he found many RAPD pattern among the non-O157
+STEC isolates belonging to the same serotypes, although no
+district-speciﬁc cluster was observed.
+
+Screening for other genes like katp, etpD and toxB in
+STEC isolates by PCR
+
+In this study, it has been observed that none of the iso-
+lates possessed toxB, katP and etpD genes, which are in
+agreement with Islam et al. (2008).
+
+0·000
+0·000
+0·000
+0·000
+
+0·053
+
+0·053
+0·000
+0·000
+0·000
+0·000
+
+0·066
+
+0·066
+
+0·000
+0·000
+0·000
+0·000
+0·000
+0·000
+
+(a)
+
+(b)
+
+0·059
+
+0·059
+
+0·000
+0·000
+0·000
+0·000
+0·000
+
+0·000
+0·000
+0·000
+0·143
+0·143
+
+0·076
+
+(c)
+
+(d)
+
+(e)
+
+0·076
+
+(f)
+
+0·109
+
+0·109
+
+0·084
+
+0·084
+
+2 - E
+1 - F
+1 - A
+3 - A
+1 - E
+3 - C
+4 - A
+3 - E
+1 - G
+2 - A
+3 - G
+3 - B
+2 - G
+2 - F
+2 - D
+4 - C
+1 - D
+3 - D
+4 - B
+2 - C
+1 - B
+3 - F
+2 - B
+1 - C
+
+Figure 1 Phylogenetic analysis of Shiga toxin–producing Escherichia coli (STEC) strains isolated from healthy buffalo in West Bengal (India). The
+neighbour-joining method was used to summarize the similarity of RAPD-PCR proﬁles of STEC strains in a dendogram containing six major clusters (a–f).
+
+294
+
+Letters in Applied Microbiology 56, 291--298 © 2013 The Society for Applied Microbiology
+
+A. Mahanti et al.
+
+STEC from buffalo in India
+
+Antibiotic sensitivity test of STEC isolates
+
+Isolation of Escherichia coli from faecal samples
+
+cefepime
+
+levoﬂoxacin,
+
+All the STEC isolates were tested for resistance against 26
+antimicrobial agents. Resistance was observed most fre-
+quently to erythromycin (9583%), cephalothin (625%),
+amikacin (5417%), kanamycin (4583%), gentamicin
+(4167%) and less frequently to chloramphenicol (417%),
+norﬂoxacin (417%), amoxicillin (417%) and co-trimoxaz-
+ole (417%). No resistance was observed in case of ceftazi-
+dine,
+along with tazobactam.
+Multidrug resistance was observed in nine (375%) STEC
+isolates. For azithromycin, streptomycin and neomycin,
+although none of the strains were sensitive to those antibi-
+otics, 7083, 9583 and 75% strains showed intermediate
+susceptibility. Multidrug resistance was observed in nine
+STEC strains. Oliveira et al. (2007) found 178% resistance
+to streptomycin and ampicillin among the STEC isolated
+from water buffalo in Brazil. In India, Khan et al. (2002a)
+observed resistance to one or more antibiotics in 492% of
+the STEC strains from cattle, and some of the strains exhib-
+ited multidrug resistance. Arya et al. (2008) also found
+100% resistance against kanamycin and cephalexin fol-
+lowed by cephaloridine, enroﬂoxacin, amikacin, ampicillin,
+tetracycline, ceftiofur, ciproﬂoxacin, colistin and co-trimox-
+azole in STEC isolated from diarrhoeic calves in Gujarat,
+India. This kind of multidrug-resistant STEC strains poses
+serious threat to human health by affecting treatment against
+it. In addition, this resistant bacterial pool in the intestine of
+buffalo may transfer the responsible gene to other related
+pathogens and make them also multidrug resistant.
+
+Detection of ESBL-producing and quinolone resistance
+genes in STEC isolates
+
+None of the STEC isolates possessed the genes for ESBL
+production (blaCTXM, blaTEM, blaSHV) and quinolone
+resistance (qnrA). Although food animals are one of the
+important sources of ESBL-producing E. coli
+in several
+countries in Europe (Geser et al. 2012) and Asia (Hiroi
+et al. 2012), there are very limited reports of STEC iso-
+lates harbouring ESBL gene (Valat et al. 2012).
+
+Materials and methods
+
+Sampling
+
+A total 165 faecal samples of buffaloes were collected
+randomly from seven districts (Bankura, North 24 parg-
+anas, Murshidabad, Maldah, Hooghly, Nadia & Burd-
+wan) of West Bengal, India. The samples were collected
+from apparently healthy buffalo of all age,
+sex and
+breed during the period of October 2009 to January
+2010.
+
+Faecal samples were collected into sterile vials directly
+from rectum by sterile cotton swab stick (HiMedia,
+Mumbai, India). All the samples collected were placed in
+ice in a thermo ﬂask and were immediately brought to
+the laboratory for further examination. In the laboratory,
+the samples were kept in the nutrient broth (HiMedia)
+and incubated at 37°C for overnight. It was transferred to
+MacConkey’s agar (HiMedia) and again incubated at 37°
+C for overnight. Next day 2–3 rose pink colonies were
+randomly picked and transferred to EMB agar (HiMedia)
+followed by an overnight incubation at 37°C. Colonies
+were observed for metallic sheen, and single colony was
+streaked to nutrient agar (HiMedia) slant for further bio-
+chemical conﬁrmation. All
+the pure cultures obtained
+from nutrient agar slant were subjected to Gram’s stain-
+ing and standard biochemical tests as described by Wani
+et al. 2004.
+
+Serogrouping
+
+All the Escherichia coli isolates after conﬁrmation by bio-
+chemical tests were sent for O-serogrouping to National
+Salmonella & Escherichia Centre, Central Research Insti-
+tute, Kasuli, HP, India.
+
+Bacterial DNA extraction
+
+For PCR-based detection of Shiga toxin genes from all
+the E. coli isolates, DNA was extracted as per the previ-
+ously described method of Wani et al. (2003) with some
+modiﬁcations. Instead of 100 ll, the extraction was per-
+formed in 60-ll sterile distilled water.
+
+Detection of Shiga toxin–producing Escherichia coli
+(STEC) by multiplex PCR (m-PCR)
+
+All the E. coli isolates including controls were subjected
+to m-PCR for detection of stx1, stx2, eae, ehxA and saa
+genes considered for virulence factor of Shiga toxin–pro-
+ducing E. coli (STEC) as described by Paton and Paton
+(1998b, 2002). The ampliﬁed product was visualized by
+gel documentation system (UVP) after electrophoresis in
+2% (W/V) agarose gel containing ethidium bromide
+(05 lg ml
+ 1) (SRL, India) (Sambrook and Russel 2001).
+
+Subtyping of stx1 gene present in STEC isolates from
+buffalo
+
+All the stx1-positive STEC isolates including the controls
+were subjected to PCR ampliﬁcation for the presence of
+stx1c gene as described earlier (Zhang et al.2002).
+
+Letters in Applied Microbiology 56, 291--298 © 2013 The Society for Applied Microbiology
+
+295
+
+STEC from buffalo in India
+
+A. Mahanti et al.
+
+Subtyping of stx2 gene present in STEC isolates from
+buffalo by Multiplex PCR
+
+All the stx2-positive STEC isolates including the controls
+were also subjected to m-PCR ampliﬁcation for the presence
+of stx2c, stx2d, stx2e and stx2f genes as previously described
+(Wang et al. 2002).
+
+Molecular characterization of STEC strains by randomly
+ampliﬁed polymorphic DNA-PCR (RAPD-PCR)
+
+The molecular characterization of all the STEC isolates
+was performed by RAPD-PCR using a single primer 1247
+(Merck Biosciences) in Gene Amp PCR system 9700
+(Applied Biosystems, USA) as per the protocol of Khan
+et al.(2002a). The PCR products were then electrophore-
+sed in 1% (W/V) agarose gel containing ethidium bro-
+mide (05 lg ml
+
+ 1) (Sambrook and Russel 2001).
+
+(30 + 10 lg), ampicillin + cloxacillin (10 lg), enroﬂoxacin
+(10 lg), amoxicillin (25 lg), erythromycin (10 lg), doxy-
+cycline hydrochloride (30 lg) and peﬂoxacin (5 lg) (Hi
+Media).
+
+Detection of ESBL-producing and quinolone resistance
+genes in STEC isolates
+All the Shiga toxin–producing E. coli
+isolates including
+controls were subjected to PCR for the detection of bla CTX-
+M, blaTEM, blaSHV and qnrA genes using the primers and the
+cycle conditions as described earlier (Weill et al. 2004a,b;
+Castanheira et al. 2007). The primers were procured from
+M/s Genetix Biotechnology Asia Private Limited. The
+ampliﬁed product was visualized by gel documentation sys-
+tem (UVP) after electrophoresis in 2% (W/V) agarose gel
+containing ethidium bromide (05 lg ml
+ 1) (SRL) (Sam-
+brook and Russel 2001).
+
+Detection of phylogenetic relationship among STEC
+isolates
+
+Acknowledgements
+
+All the images taken by the gel documentation system
+(UVP) were analysed using the Doc-itLs image analysis
+software supplied with the system (UVP) as per manufac-
+turer’s instruction. By comparing the difference in the
+RAPD-PCR banding pattern, phylogenetic relationship
+between the isolates was established. An unrooted phylo-
+genetic tree was made using neighbour-joining method,
+available in the software.
+
+The authors provide sincere thanks to the Vice Chancellor,
+West Bengal University of Animal & Fishery Sciences for
+providing necessary facilities. The authors are also grateful
+to Director, National Salmonella and Escherichia Centre,
+HP, India, for serogrouping the E. coli isolates. Positive
+and negative controls for all PCR typing were kindly pro-
+vided by Department of Veterinary Microbiology, Central
+Agricultural University, Aizawl, Mizoram, India.
+
+Screening for katp, etpD and toxB in STEC isolates by
+PCR
+
+References
+
+The PCR for the detection of katp and etpD genes was
+performed using Gene Amp PCR system 9700 (Applied
+Biosystems, USA) as per the procedure described by Khan
+et al. (2002b). The presence of toxB gene was detected by
+PCR as per the method described by Tarr et al. (2002).
+
+Antibiotic Sensitivity test of Shiga toxin–producing
+Escherichia coli (STEC) isolates
+
+All the STEC isolates were tested for their sensitivity and
+resistance to different antibiotics by the disc diffusion
+method (CLSI 2008). The antibiotics used were chloram-
+phenicol (25 lg), co-trimoxazole (25 lg), ciproﬂoxacin
+(5 lg), gentamicin (10 lg), neomycin (30 lg), norﬂoxacin
+(10 lg), streptomycin (30 lg), oxytetracycline (30 lg), cep-
+halothin (30 lg), amikacin (30 lg), ceftazidime (30 lg),
+kanamycin (30 lg),
+levoﬂoxacin
+(5 lg), amoxicillin + clavulanic acid (20/10 lg), cefaclor
+(30 lg), cefuroxime (30 lg), azithromycin (30 lg), pipera-
+cillin + tazobactam (100 + 10 lg), cefepime + tazobactam
+
+(30 lg),
+
+ceftriaxone
+
+Arya, G., Roy, A., Choudhary, V., Yadav, M.M. and Joshi, C.G.
+
+(2008) Serogroups, atypical biochemical characters,
+colicinogeny and antibiotic resistance pattern of Shiga
+toxin-producing Escherichia coli isolated from diarrhoeic
+calves in Gujarat, India. Zoonosis Public Health 55, 89–98.
+Brett, K.N., Ramachandran, V., Hornitzky, M.A., Bettelheim,
+
+K.A., Walker, M.J. and Djordjevic, S.P. (2003) stx1c is the
+most common Shiga toxin 1 subtype among Shiga toxin-
+producing Escherichia coli isolates from sheep but not
+among isolates from cattle. J Clin Microbiol 41, 926–936.
+Brunder, W., Schmidt, H. and Karch, H. (1996) KatP, a novel
+
+catalaseperoxidase encoded by the large plasmid of
+enterohaemorrhagic Escherichia coli O157:H7. Microbiology
+142, 3305–3325.
+
+Castanheira, M., Pereira, A.S., Nicoletti, A.G., Pignatari, A.C.
+
+C., Barth, A.L. and Gales, A.C. (2007) First report of
+plasmid-mediated qnrA1 in a ciproﬂoxacin-resistant
+Escherichia coli strain in Latin America. Antimicrob Agents
+Chemother 51, 1527–1529.
+
+Clinical and Laboratory Standards Institute (CLSI). (2008)
+
+Performance Standards for Antimicrobial Susceptibility
+
+296
+
+Letters in Applied Microbiology 56, 291--298 © 2013 The Society for Applied Microbiology
+
+A. Mahanti et al.
+
+STEC from buffalo in India
+
+Tasting; ; 18th informational supplement. M100-S18.
+Wayne, PA: Clinical and Laboratory Standards Institute.
+Conedera, G., Dalvit, P., Martini, M., Galiero, G., Gramaglia, M.,
+
+Goffredo, E., Loffredo, G., Morabito, S. et al. (2004)
+Verocytotoxin-producing Escherichia coli O157 in minced
+beef and dairy products in Italy. Int J Food Microbiol 96, 67–73.
+
+Constantiniu, S. (2002) Escherichia coli enterohemoragic – an
+emerged pathogen of human infections Part II. Non-o157
+Escherichia coli enterohemorrhagic. J Prev Med 10, 57–73.
+
+Espie, E., Grimont, F., Mariani-Kurkdjian, P., Bouvet, P.,
+
+Haeghebaert, S., Filliol, I., Loirat, C., Decludt, B. et al. (2008)
+Surveillance of hemolytic uremic syndrome in children less
+than 15 years of age, a system to monitor O157 and non-
+O157 Shiga toxin-producing Escherichia coli infections in
+France, 1996–2006. Pediatr Infect Dis J 27, 595–601.
+Friedrich, A.W., Borell, J., Bielaszewska, M., Fruth, A.,
+Tschape, H. and Karch, H. (2003) Shiga toxin 1c-
+producing Escherichia coli strains: phenotypic and genetic
+characterization and association with human disease.
+J Clin Microbiol 41, 2448–2453.
+
+Galiero, G., D’Alessandro, G., De Carlo, E., Lai, O. and
+
+Durante, G. (1997) Escherichia coli e fettori de virulanza:
+studio sullaproduzione di verocitotossina (VT), tossina
+termolabile (LT), ed emolisina (HLY) da perte di ceppi di
+E. coli isolate da vitelli bufalini. La Selezione Veterinaria 2,
+79–91.
+
+Galiero, G., Conedera, G., Alfano, D. and Caprioli, A. (2005)
+
+Isolation of verocytotoxin-producing Escherichia coli O157
+from water buffaloes (Bubalus bubalis) in southern Italy.
+Vet Rec 156, 382–383.
+
+Geser, N., Stephan, R. and Hachler, H. (2012) Occurrence and
+
+characteristics of extended spectrum beta lactamase
+producing Enterobacteriaceae in food producing animals,
+minced meat and raw milk. BMC Vet Res 8, 21–30.
+
+Hiroi, M., Yamazaki, F., Harada, T., Takahashi, N., Iida, N.,
+Noda, Y., Yagi, M., Nishio, T. et al. (2012) Prevalence of
+extended-spectrum b-Lactamase-producing Escherichia coli
+and Klebsiella pneumoniae in food-producing animals.
+J Vet Med Sci 74, 189–195.
+
+Hussein, H.S. (2007) Prevalence and pathogenicity of Shiga
+toxin-producing Escherichia coli in beef cattle and their
+products. J Anim Sci 85, E63–E72.
+
+Islam, M.A., Mondol, A.S., de Boer, E., Beumer, R.R., Zwietering,
+M.H., Talukder, K.A. and Heuvelink, A.E. (2008) Prevalence
+and genetic characterization of shiga toxin-producing
+Escherichia coli isolates from slaughtered animals in
+Bangladesh. Appl Environ Microbiol 74, 5414–5421.
+
+Jenkins, C., Perry, N.T., Cheasty, T., Shaw, D.J., Frankel, G.,
+
+Dougan, G., Gunn, G.J., Smith, H.R. et al. (2003)
+Distribution of the saa gene in strains of Shiga toxin-
+producing Escherichia coli of human and bovine origins.
+J Clin Microbiol 41, 1775–1778.
+
+Karmali, M.A., Gannon, V. and Sargeant, J.M. (2010)
+
+Verocytotoxin-producing Escherichia coli (VTEC). Vet
+Microbiol 140, 360–370.
+
+Khan, A., Das, S.C., Ramamurthy, T., Sikdar, A., Khanam, J.,
+
+Yamasaki, S., Takeda, Y. and Nair, G.B. (2002a) Antibiotic
+resistance, virulence gene, and molecular proﬁles of Shiga
+toxin-producing Escherichia coli isolates from diverse
+sources in Calcutta, India. J Clin Microbiol 40, 2009–2015.
+
+Khan, A., Yamasaki, S., Sato, T., Ramamurthy, T., Pal, A.,
+
+Datta, S., Chowdhury, N.R., Das, S.C. et al. (2002b)
+Prevalence and genetic proﬁling of virulence determinants
+of non-O157 Shiga toxin-producing Escherichia coli
+isolated from cattle, beef, and humans, Calcutta, India.
+Emerg Infect Dis 8, 54–62.
+
+King, L.A., Filliol-Toutain, I., Mariani-Kurkidjian, P., Vaillant,
+V., Vernozy-Rozand, C., Ganet, S., Pihier, N., Niaudet, P.
+et al. (2009) Family outbreak of Shiga toxin–producing
+Escherichia coli O123:H–, France, 2009. Emerg Infect Dis
+16, 1491–1493.
+
+Kr€uger, A., Padola, N.L., Parma, A.E. and Lucchesi, P.M.A.
+
+(2006) Intraserotype diversity among Argentinian
+verocytotoxigenic Escherichia coli detected by random
+ampliﬁed polymorphic DNA analysis. J Med Microbiol 55,
+545–549.
+
+Lepsanovic, Z., Opacic, D., Lazic, S., Herpay, M., Toth, S.,
+
+Kostic, M. and Kucsera, I. (2012) Shiga toxin-producing
+Escherichia coli O171:H25 strain isolated from a patient
+with haemolytic uraemic syndrome. Acta Microbiol
+Immunol Hung 59, 215–224.
+
+Leung, P.H.M., Peiris, J.S.M., Robins-Browne, R.M., Bettelheim,
+
+K.A. and Yam, W.C. (2003) A newly discovered verotoxin
+variant, VT2 g, produced by bovine verocytotoxigenic
+Escherichia coli. Appl Environ Microbiol 69, 7549–7553.
+Lorusso, V., Dambrosio, A., Quaglia, N.C., Parisi, A., La
+Salandra, G., Lucifora, G., Mula, G., Virgilio, S. et al.
+(2009) Verocytotoxin-producing Escherichia coli O26 in
+raw water buffalo (Bubalus bubalis) milk products in Italy.
+J Food Prot 72, 1705–1708.
+
+Mohammad, A., Peiris, J.S.M., Wijewanta, E.A., Mahalingam,
+
+S. and Gunasekara, G. (1985) Role of verocytotoxigenic
+Escherichia coli in cattle and buffalo calf diarrhoea. FEMS
+Microbiol Lett 26, 281–283.
+
+Mohammad, A., Peiris, J.S.M. and Wijewanta, E.A. (1986)
+Serotypes of verocytotoxigenic Escherichia coli isolated
+from cattle and buffalo calf diarrhoea. FEMS Microbiol Lett
+35, 261–265.
+
+Normanno, G. (2007) Current status on the etiology,
+
+epidemiology, food safety implications and control
+measures in Escherichia coli O157:H7 infections. In Food
+Microbiology Research Trends chap. IV, ed. Palino, M.
+pp. 131–154. New York: IV Novascience Publisher.
+
+Oliveira, M.G., Brito, J.R., Carvalho, R.R., Guth, B.E., Gomes,
+
+Kaper, J.B., Nataro, J.B. and Mobleyn, H.L. (2004) Pathogenic
+
+Escherichia coli. Nature Review. Microbiology 2, 123–140.
+
+T.A., Vieira, M.A., Kato, M.A., Ramos, I.I. et al. (2007)
+Water Buffaloes (Bubalus bubalis) Identiﬁed as an
+
+Letters in Applied Microbiology 56, 291--298 © 2013 The Society for Applied Microbiology
+
+297
+
+STEC from buffalo in India
+
+A. Mahanti et al.
+
+Important Reservoir of Shiga Toxin-Producing Escherichia
+coli in Brazil. Appl Environ Microbiol 73, 5945–5948.
+
+Paton, J.C. and Paton, A.W. (1998a) Pathogenesis and
+diagnosis of Shiga toxin-producing Escherichia coli
+infections. Clin Microbiol Rev 11, 450–479.
+
+Paton, A.W. and Paton, J.C. (1998b) Detection and
+
+characterization of Shigatoxigenic Eschertichia coli by using
+multiplex-PCR assays for stx1, stx2, eaeA,
+enterohaemorrhagic E. coli hlyA, rfbO111 and rfbO157.
+J Clin Microbiol 36, 598–602.
+
+Paton, A.W. and Paton, J.C. (2002) Direct detection and
+characterization of Shiga toxigenic Escherichia coli by
+multiplex PCR for stx1, stx2, eae, ehxA, and saa. J Clin
+Microbiol 40, 271–274.
+
+Paton, A.W., Woodrow, M.C., Doyle, R.M., Lanser, J.A. and
+Paton, J.C. (1999) Molecular characterization of a Shiga
+toxigenic Escherichia coli O113:H21 strain lacking eae
+responsible for a cluster of cases of hemolytic-uremic
+syndrome. J Clin Microbiol 37, 3357–3361.
+
+Paton, A.W., Srimanote, P., Woodrow, M.C. and Paton, J.C.
+(2001) Characterization of Saa, a novel autoagglutinating
+adhesin produced by locus of enterocyte effacement-
+negative Shiga-toxigenic Escherichia coli strains that are
+virulent for humans. Infect Immun 69, 6999–7009.
+
+Sambrook, J. and Russel, D.W. (2001) Molecular Cloning- A
+
+Laboratory Manual. New York: Cold Spring Harbour.
+
+Sandhu, K.S., Clarke, R.C., McFadden, K., Bouwer, A., Louie,
+M., Wilson, J., Lior, H. and Gyles, C.L. (1996) Prevalence
+of the eaeA gene in verotoxigenic Escherichia coli strains
+from dairy cattle in Southwest Ontario. Epidemiol Infect
+116, 1–7.
+
+Schmidt, H., Beutin, L. and Karch, H. (1995) Molecular
+
+analysis of the plasmid-encoded hemolysis of Escherichia
+coli O157:H7 strain EDL 933. Infect Immun 63, 1055–1061.
+
+Schmidt, H., Henkel, B. and Karch, H. (1997) A gene cluster
+
+closely related to type II secretion pathway operons of
+gram-negative bacteria is located on the large plasmid of
+enterohemorrhagic Escherichia coli O157 strains. FEMS
+Microbiol Lett 148, 265–272.
+
+Schroeder, C.M., Meng, J., Zhao, S., DebRoy, C., Torcolini, J.,
+
+Zhao, C., McDermott, P.F., Wagner, D.D. et al. (2002)
+Antimicrobial resistance of Escherichia coli O26, O103,
+O111, O128, and O145 from animals and humans. Emerg
+Infect Dis 8, 1409–1414.
+
+Seker, E. and Yardimci, H. (2008) First isolation of Escherichia
+
+coli O157:H7 from faecal and milk specimens from
+anatolian water buffaloes (Bubalus bubalus) in Turkey. J S
+Afr Vet Assoc 79, 167–170.
+
+Tarr, C.L., Large, T.M., Moeller, C.L., Lacher, D.W., Tarr, P.I.,
+
+Acheson, D.W. and Whittam, T.S. (2002) Molecular
+characterization of a serotype O121:H19 clone, a distinct
+Shiga toxin-producing clone of pathogenic Escherichia coli.
+Infect Immun 70, 6853–6859.
+
+Toma, C., Espinosa, E.M., Song, T., Miliwebsky, E., Chinen, I.,
+Iyoda, S., Iwanaga, M. and Rivas, M. (2004) Distribution of
+putative adhesins in different seropathotypes of Shiga toxin-
+producing Escherichia coli. J Clin Microbiol 42, 4937–4946.
+Valat, C., Haenni, M., Saras, E., Auvray, F., Forest, K., Oswald, E.
+
+and Madec, J.Y. (2012) CTX-M-15 extended-spectrum
+b-lactamase in a Shiga toxin- producing Escherichia coli isolate
+of serotype O111:H8. Appl Environ Microbiol 78, 1308–1309.
+Vu-Khac, H. and Cornick, N.A. (2008) Prevalence and genetic
+
+proﬁles of Shiga toxin-producing Escherichia coli strains
+isolated from buffaloes, cattle, and goats in central
+Vietnam. Vet Microbiol 126, 356–363.
+
+Wang, G., Clark, C.G. and Rodgers, F.G. (2002) Detection in
+Escherichia coli of the Genes encoding the major virulence
+factors, the genes deﬁning the o157:h7 serotype, and
+components of the type 2 Shiga toxin family by multiplex
+PCR. J Clin Microbiol 40, 3613–3619.
+
+Wani, S.A., Bhat, M.A., Samanta, I., Nishikawa, Y. and Buchh,
+A.S. (2003) Isolation and characterization of Shiga toxin-
+producing Escherichia coli (STEC) and enteropathogenic
+Escherichia coli (EPEC) from calves and lambs with
+diarrhoea in India. Lett Appl Microbiol 37, 121–126.
+
+Wani, S.A., Samanta, I., Bhat, M.A. and Nishikawa, Y. (2004)
+Investigation of shiga toxin producing-Escherichia coli in
+avian species in India. Lett Appl Microbiol 39, 389–394.
+
+Weill, F.X., Demartin, M., Tande′, D., Espie′, E.,
+
+Rakotoarivony, I. and Grimont, P.A. (2004a) Extended-
+spectrum-b-lactamase (SHV-12 like)-producing strains of
+Salmonella enterica serotypes Babelsberg and Enteritidis
+isolated in France among infants adopted from Mali.
+J Clin Microbiol 42, 2432–2437.
+
+Weill, F.X., Lailler, R., Praud, K., Rouanton, A.K., Fabre, L.,
+Brisabois, A., Grimont, P.A. and Cloeckaert, A. (2004b)
+Emergence of Extended-Spectrum-b-Lactamase (CTX-M-
+9)-producing multiresistant strains of Salmonella enterica
+serotype Virchow in poultry and humans in France. J Clin
+Microbiol 42, 5767–5773.
+
+Zhang, W., Bielaszewska, M., Kuczius, T. and Karch, H. (2002)
+Identiﬁcation, characterization, and distribution of a shiga
+toxin1 gene variant (stx1c) in Escherichia coli strains
+isolated from humans. J Clin Microbiol 44, 1441–1446.
+
+298
+
+Letters in Applied Microbiology 56, 291--298 © 2013 The Society for Applied Microbiology
+
+

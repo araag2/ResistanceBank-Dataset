@@ -1,0 +1,3832 @@
+Accepted Manuscript
+
+Prevalence, antimicrobial resistance, resistance genes and class 1 integrons of 
+Salmonella
+processing environments in Malaysian fresh food markets
+
+ serovars in leafy vegetables, chicken carcasses and related 
+
+Abatcha Mustapha Goni, Mohd Esah Effarizah, Gulam Rusul
+
+PII:
+
+DOI:
+
+S0956-7135(18)30085-9
+
+10.1016/j.foodcont.2018.02.039
+
+Reference:
+
+JFCO 6002
+
+To appear in:
+
+Food Control
+
+Received Date:
+
+14 November 2017
+
+Revised Date:
+
+28 January 2018
+
+Accepted Date:
+
+23 February 2018
+
+Please cite this article as: Abatcha Mustapha Goni, Mohd Esah Effarizah, Gulam Rusul, 
+Prevalence, antimicrobial resistance, resistance genes and class 1 integrons of 
+serovars in leafy vegetables, chicken carcasses and related processing environments in Malaysian 
+fresh food markets, 
+
+ (2018), doi: 10.1016/j.foodcont.2018.02.039
+
+Food Control
+
+Salmonella
+ 
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to 
+our customers we are providing this early version of the manuscript. The manuscript will undergo 
+copyediting, typesetting, and review of the resulting proof before it is published in its final form. 
+Please note that during the production process errors may be discovered which could affect the 
+content, and all legal disclaimers that apply to the journal pertain.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+Prevalence, antimicrobial resistance, resistance genes and class 1 integrons of Salmonella serovars 
+
+in  leafy  vegetables,  chicken  carcasses  and  related  processing  environments  in  Malaysian  fresh 
+
+food markets
+
+Abatcha Mustapha Goniª, Mohd Esah Effarizah*ª, Gulam Rusulª
+
+ªFood  Technology  Division,  School  of  Industrial  Technology,  Universiti  Sains  Malaysia,  11800 
+
+8 Minden, Penang, Malaysia
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+* Corresponding author. Email address: effarizah@usm.my
+
+1
+
+ACCEPTED MANUSCRIPT21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+Abstract
+
+This study was carried out to determine the prevalence, antibiotic resistance, resistance genes and 
+
+class  1  integrons  of  Salmonella  serovars  in  raw  leafy  vegetables,  chicken  carcasses  and  related 
+
+environments.  From  April  2015  to  May  2016,  a  total  of  642  samples  collected  from  fresh  food 
+
+markets in Peninsular Malaysia were examined. The overall occurrence of Salmonella species was 
+
+29.1% (187/642) with 37 different serovars detected. The most prevalent serovars were S. Corvallis 
+
+(49/187),  S.  Brancaster  (28/187),  S.  Albany  (17/187),  S.  Weltevredent  (15/187),  S.  Hvittingfoss 
+
+(6/178),  S.  Paratyphi  B  (6/178)  and  S.  Typhimurium  (6/178).  Among  the  Salmonella  isolates,  the 
+
+highest  antibiotic  resistance  was  to  streptomycin  (66.6%),  followed  by  tetracycline  (44.4%), 
+
+sulfonamides 
+
+(44.4%),  ampicillin 
+
+(26.7%), 
+
+chloramphenicol 
+
+(29.1%)  and 
+
+trimethoprim-
+
+sulfamethoxazole (16.6%). All isolates of Salmonella were 100% susceptible to cephalothin. Fifty-five 
+
+percent of the isolates (103/187) were multidrug resistant. The multiple antibiotic resistance (MAR) 
+
+index of Salmonella serovars ranged from 0.08 to 0.83, and the most prevalent resistance pattern 
+
+was STeS₃. Eleven out of 16 resistant genes (tetA, tetB, blaTEM-1, temB, strA, strB, aadA, sulI, sulII, floR 
+
+and cmlA) were detected among the resistant Salmonella isolates. None of the isolates was positive 
+
+for tetC, tetG, cat1 and cat2. Seventeen isolates harboured class 1 integrons, which were grouped 
+
+into  5  different  integrons  profiles  (IPs).  DNA  sequencing  analyses  have  identified  dfrA1,  dfrA12, 
+
+aadA2, blaPSE−1, dfrA12-orf-aadA2 arrays of cassettes in variable regions on class 1 integrons. 
+
+Keywords: Salmonella spp., antibiotic resistance, resistance genes, class 1 integrons
+
+1.  Introduction
+
+       Salmonella is one of the most important foodborne pathogens worldwide (Kirk et al., 2015; Fei 
+
+et al., 2017), causing as many as million cases of typhoid fever, billion cases of gastroenteritis and 
+
+2
+
+ACCEPTED MANUSCRIPT45
+
+46
+
+47
+
+48
+
+49
+
+50
+
+51
+
+52
+
+53
+
+54
+
+55
+
+56
+
+57
+
+58
+
+59
+
+60
+
+61
+
+62
+
+63
+
+64
+
+65
+
+66
+
+67
+
+68
+
+69
+
+thousands of death each year (Bhunia, 2008). The estimated economic burden due to Salmonella 
+
+infections  from  all  sources  costs  about  3.7  billion  USD  per  year  in  the  United  States  (ERS-USDA, 
+
+2013). In Malaysia, although Salmonellosis is not a notifiable disease, the incidence of Salmonella 
+
+isolated from humans has doubled in the past decade (Thong et al., 2016). Although Salmonella has 
+
+been isolated from several sources, human Salmonellosis is most often linked to the consumption of 
+
+contaminated poultry and poultry products (Fearnley et al., 2011), pork (Prendergast et al., 2009), 
+
+beef (Zhao et al., 2008), fish (Kramarenko et al., 2014), vegetables (Sant’Ana et al., 2011), and non-
+
+pasteurized dairy products (Langer et al., 2012). The increasing prevalence trend across the world 
+
+(Pui  et al.,  2011)  and  growing  number  of  vegetables  and  poultry  related  outbreaks  (Guran  et  al., 
+
+2017; CDC, 2015), have warranted the need for periodic surveillance of foods and environment in 
+
+order to prevent human Salmonellosis. These pathogens pose an imminent risk to public safety not 
+
+only due to its occurrence but also because many strains are resistant to a number of antimicrobial 
+
+agents (Hur et al., 2012).
+
+       
+
+The  extensive  use  of  antimicrobials  by  humans  and  in  livestock  production  has  led  to 
+
+antimicrobial  resistance  (AMR)  among  several  bacterial  strains.  Multidrug-resistant  (MDR) 
+
+Salmonella enterica in foods have been previously reported in some parts of the world (Miko et al., 
+
+2005;  Van  et  al.,  2007).  Salmonella isolates  from  Malaysia  and  other  countries  have  shown  an 
+
+increased  proportion  in  the  number  of  multidrug-resistance  (Thong  and  Modarressi,  2011).   The 
+
+isolation 
+
+of 
+
+fluoroquinolones, 
+
+quinolones 
+
+and 
+
+extended-spectrum 
+
+cephalosporins 
+
+resistant Salmonella  was  of  particular  concern  because  these  antibiotics  are  widely  used  for 
+
+treatment in medicine (Hur et al., 2012; Health Canada, 2009).
+
+        Contamination  of  food  with  MDR  Salmonella  is  a  major  public  health  problem,  as  resistance 
+
+traits  located  on  mobile  genetic  elements  can  easily  be  conveyed  to  other  bacteria  of  clinical 
+
+significance  (Thong  and  Modarressi,  2011; Van  et  al.,  2007).  The  mechanisms  of  antimicrobial 
+
+resistance  can  be  due  to  several  factors, including  changes  in  bacterial  cell  wall  permeability, 
+
+3
+
+ACCEPTED MANUSCRIPT70
+
+71
+
+72
+
+73
+
+74
+
+75
+
+76
+
+77
+
+78
+
+79
+
+80
+
+81
+
+82
+
+83
+
+84
+
+85
+
+86
+
+87
+
+88
+
+89
+
+90
+
+91
+
+92
+
+93
+
+modification of the site of drug action, energy-dependent removal of antimicrobials via membrane-
+
+bound efflux pumps and destruction or inactivation of antimicrobials (Chen et al., 2004).
+
+         Antimicrobial resistance genes are mainly found on mobile genetic elements like transposons, 
+
+integrons, and plasmids (Canal et al., 2016). A strong relationship between the presence of integrons 
+
+and increased resistance to numerous antibiotics has been reported (Moura et al., 2007; Van et al., 
+
+2007). On top of that, four distinct classes of integrons encoding different integrase gene sequences 
+
+have  also  been  investigated  (Mazel,  2006).  Among  them,  Class  1  integrons  found  to  be  the  most 
+
+important  contributor  to  MDR  in  Gram  negative  enteric  bacteria  and  play  a  major  role  in 
+
+disseminating antimicrobial resistance genes (Krauland, 2009). Likewise, Class 1 integrons are very 
+
+frequent in MDR Salmonella (Khemtong and Chuanchuen, 2008). Moreover, in Malaysia, due to high 
+
+consumption of green leafy vegetables, chicken meat and increasing antimicrobial resistance in non-
+
+typhoidal  Salmonella 
+
+(Van  et  al.,  2012), 
+
+the  prevalence  and  antibacterial 
+
+resistance 
+
+of Salmonella spp.  in  vegetables  and  the  broiler  chicken  sold  at  the  retail  point  need  to  be 
+
+monitored.
+
+The objective of our study was to determine the prevalence of Salmonella serovars from raw leafy 
+
+vegetables, chickens carcasses and their related processing environments in Malaysian fresh food 
+
+markets. Salmonella serovars isolated were also examined for antibiotic resistance, resistance genes, 
+
+and Class 1 integrons.
+
+2. Materials and methods
+
+2.1. Sample collection
+
+A total of 642 no-repeat samples of raw leafy vegetables (405/642), chicken carcasses (35/642) and 
+
+their related processing environments (202/642) were obtained from fresh food markets in selected 
+
+states of Peninsular Malaysia (Penang, Kedah, Perlis and Selangor) during the period of April 2015 to 
+
+4
+
+ACCEPTED MANUSCRIPT94 May 2016. The vegetables selected were bean sprout (Vigna radiate), amaranth red (Amaranthus 
+
+95
+
+96
+
+97
+
+98
+
+99
+
+100
+
+101
+
+102
+
+103
+
+104
+
+105
+
+106
+
+107
+
+108
+
+109
+
+110
+
+111
+
+112
+
+113
+
+114
+
+115
+
+116
+
+117
+
+118
+
+tricolor),  Chinese  flowering  cabbage  (Brassica  rapa  var.  Parachinensis),  coriander  (Coriandrum 
+
+sativum), lettuce salad (Lactuca sativa), amaranth green (Amaranthus tricolor), spring onion (Allium 
+
+fistulosum),  winged  bean  (Psophocarpus  tetragonolobus),  laksa  leaves  (Poligonum  minus),  Indian 
+
+pennywort (Centenella asiatica), iceberg lettuce (Lactuca sativa), mint (Mentha arvensis),  Japanese 
+
+parsley (Oenanther stolonifera), wild parsley (Cosmos caudatus), water spinach (Ipomoea aquatic) 
+
+and sweet basil (Ocimum basilicum) and were collected in sterile plastic bags. For chicken cuts and 
+
+whole chickens carcasses, the swab-sampling method described by Gill et al., (2005) was adopted by 
+
+which the inner-outer surfaces of the chicken were swabbed using 3M™ Dry-Sponge-Sticks (USA). On 
+
+the other hand, the environmental samples including transport crates, knifes, display tables, drums, 
+
+defeathering  machines,  drain  crevices,  floors,  butcher  aprons,  chopping  board  and  cages  surface 
+
+area  of  10  –  30  cm2  were  swabbed  using  the  3M™  Dry-Sponge-Sticks  as  per  manufacturer’s 
+
+instruction  (https://multimedia.3m.com/mws/media/871382O/3m-sponge-stick.pdf).  Sterile  Schott 
+
+Duran®  bottles  were  used  in  collecting  all  the  water  samples  (wash  water,  scalding  tank  water, 
+
+bench water and drain water). Samples were delivered to the laboratory on ice in Polystyrene box 
+
+and processed immediately upon arrival to the laboratory. 
+
+2.2. Salmonella isolation and identification 
+
+Detection and isolation of  Salmonella from samples were carried out according to ISO 6579:2002 
+
+Horizontal  Method  (ISO,  2002).  Vegetable  samples  (25g),  swab  samples  (3M™  Dry-Sponge-Sticks) 
+
+and  25 ml  of  water  samples  were  pre-enriched  in  225 ml  of  buffered  peptone  broth  and  were 
+
+incubated for 24 ± 2 hrs at 37 ± 1 °C. Then, pre-enriched 0.1 ml and 1ml cultures were incubated in 
+
+9.9 mL  of  Rappaport  Vassiliadis  Soy  Broth  (RVS)  at  42 ± 1 °C  and 9 ml  of  Muller-Kauffmann 
+
+Tetrathionate-Novobiocin  (MKTTn)  broth  at  37 ± 1 °C  for  24 ± 2 hrs,  respectively.  Loopfuls  of  RVS 
+
+cultures  were  streaked  onto  selective  agar  plates;  Xylose-lysine-tergitol  4  (XLT4),  Xylose  Lysine 
+
+5
+
+ACCEPTED MANUSCRIPTDeoxycholate  Agar  (XLD)  and  Rambach  Agar  (RAM),  then  incubated  for  about  24 hrs  at  37 °C. 
+
+Suspected Salmonella colonies were picked from each plate, purified and subjected to biochemical 
+
+tests  (triple  sugar  iron,  lysine  iron  agar).  All  media  used  were  purchased  from  Merck,  Germany. 
+
+Salmonella isolates were also serologically confirmed by using polyvalent O and H antisera (Remel 
+
+Europe,  UK).  The  serotyping  of  Salmonella  isolates  were  done  at  Salmonella  reference  centre  at 
+
+Public  Health  Laboratory,  of  Ipoh  district,  Perak,  Malaysia  according  to  Kauffmann  and  White 
+
+Scheme (Grimont and Weill, 2007).
+
+119
+
+120
+
+121
+
+122
+
+123
+
+124
+
+125
+
+126
+
+127
+
+2.3. Antimicrobial susceptibility test of Salmonella serovars
+
+128
+
+129
+
+130
+
+131
+
+132
+
+133
+
+134
+
+135
+
+136
+
+137
+
+138
+
+139
+
+140
+
+141
+
+142
+
+143
+
+Kirby–Bauer agar disk diffusion method was used to evaluate antimicrobial susceptibility against a 
+
+panel  of  12  antimicrobial  agents  as  suggested  by  Clinical  and  Laboratory  Standard  Institute  (CLSI, 
+
+2012).  These  antimicrobials  were  ampicillin  (10 μg),  amoxicillin-clavulanic  acid  (20/10 μg), 
+
+chloramphenicol 
+
+(30 μg),  gentamicin 
+
+(10 μg), 
+
+streptomycin 
+
+(10 μg), 
+
+tetracycline 
+
+(30 μg), 
+
+trimethoprim-sulfamethoxazole  (25 μg),  nalidixic  acid  (30 μg),  ciprofloxacin  (5 μg),  cephalothin 
+
+(30 μg), kanamycin (30 μg) and sulfonamides (300 μg) (Oxoid, UK). Escherichia coli (ATCC 25922) was 
+
+used  as  a  control.  The  interpretation  for  the  zones  of  inhibition  was  in  accordance  with  CLSI 
+
+guidelines (CLSI, 2012). The Multiple Antibiotic Resistance (MAR) index was determined according to 
+
+the method stated by Krumperman (1983).
+
+2.4. Polymerase chain reaction for detection of resistance genes and Class 1 integrons
+
+Crude DNA was prepared by direct boiling of a suspension of the cell lysates, as previously described 
+
+by  Ahmad  et  al.  (2009).  Sixteen  pairs  of  oligonucleotides  primers  were  used  to  target  16 
+
+antimicrobial  resistance  genes  that  confer  resistance  to  five  antimicrobial  agents,  including 
+
+ampicillin, chloramphenicol, streptomycin, sulfonamides and tetracycline. The primer sequences and 
+
+PCR conditions are presented in Table 1. All PCR amplifications contain 1× Taq buffer, 1.5 mM MgCl2, 
+
+6
+
+ACCEPTED MANUSCRIPT200 μM each dNTPs, 1 Unit of Taq Polymerase (Promega, Madison, USA), 0.5μM each primer (First 
+
+Base, Malaysia) and 50 ng DNA template. The isolates were screened for the presence of Class 1 
+
+integrons  using 
+
+specific 
+
+primers 
+
+5′CS 
+
+(5′-GGCATCCAAGCACAAGC-3′) 
+
+and 
+
+3′CS 
+
+(5′-
+
+AAGCAGACTTGACTGAT-3′) as previously described (Levesque et al., 1995), flanking the integrated 
+
+gene cassettes. Selected amplified PCR products were verified by DNA sequencing. The amplicons 
+
+were purified using a DNA purification kit (Qiagen, Germany) and sent to a commercial facility for 
+
+sequencing (First Base Laboratories, Malaysia). The resulted sequences were aligned and confirmed 
+
+using the GenBank database and BLAST program (http://blast.ncbi.nlm.nih.gov/Blast.cgi).
+
+2.5. Statistical analysis
+
+All statistical analyses were done using SPSS 18.0 (SPSS Inc., Chicago, IL), and the chi-squared test 
+
+was applied to assess any statistically significant (p<0.05) differences in the Salmonella prevalence 
+
+data.
+
+144
+
+145
+
+146
+
+147
+
+148
+
+149
+
+150
+
+151
+
+152
+
+153
+
+154
+
+155
+
+156
+
+157
+
+158
+
+3. Results and Discussion
+
+159
+
+160
+
+161
+
+162
+
+163
+
+164
+
+165
+
+166
+
+167
+
+3.1. Prevalence of Salmonella species
+
+       The  results  showed  that  all  32  varieties  of  samples  examined  were  contaminated  with 
+
+Salmonella species. The overall prevalence of Salmonella serovars on leafy vegetables, on chicken 
+
+carcasses and from related processing environments is shown in Table 2. A total of 187/642 (29.1%) 
+
+samples  were  positive  for Salmonella,  of  which  87/405  (21.5%)  were  vegetable  samples,  17/35 
+
+(48.0%) were chicken samples and 83/202 (41.0%) were environmental samples. The prevalence of 
+
+Salmonella were significantly different between samples (P<0.05).
+
+      In this study, the prevalence of Salmonella spp isolated from leafy vegetables was 21.5%. This 
+
+data  was  consistent  with  previous  studies  reported  by  other  authors,  who  had  described  high 
+
+7
+
+ACCEPTED MANUSCRIPT168
+
+169
+
+170
+
+171
+
+172
+
+173
+
+174
+
+175
+
+176
+
+177
+
+178
+
+179
+
+180
+
+181
+
+182
+
+183
+
+184
+
+185
+
+186
+
+187
+
+188
+
+189
+
+190
+
+191
+
+192
+
+prevalence rates for this pathogen in raw vegetables including 34% in Malaysia (Salleh et al., 2003), 
+
+29.1% in Brazil (Maistro et al., 2012) and 20.0% in Turkey (Aytac et al., 2010). Coriander had the 
+
+highest prevalence (52.0%) of Salmonella, followed by lettuce salad (32.0%), water spinach (31.0%), 
+
+amaranth  red  (28.0%),  bean  sprouts  (28.0%)  and  amaranth  green  (27.0%).  Salmonella  spp.  had 
+
+previously  been  isolated  from  leafy  vegetables  and  other  fresh  produce  such  as  lettuce,  spinach, 
+
+bean sprouts, parsley, watercress, cucumber and potatoes (Maistro et al., 2012; Aytac et al., 2010). 
+
+Consumption  of  raw  or  minimally  process  leafy  vegetables  can  be  a  potential  source  of  human 
+
+Salmonellosis in Malaysia. 
+
+          The use of untreated animal manure from livestock can be a major source of environmental 
+
+contamination with Salmonella spp. and some other foodborne pathogens may contaminate leafy 
+
+vegetables  when  applied  during  plant  growing  (Kotzekidou  et  al.,  2016).  Moreover,  Salmonella  is 
+
+shed into the soil directly by wildlife and livestock and can persist on the environment for months 
+
+(Liu et al., 2013). Likewise, Indian pennywort (Centella) is a topsoil creeper, and soil can be a source 
+
+of contamination if animal manure is used as fertilizer for the crop of this vegetable. 
+
+           The water source for irrigation is one of the determining factors for the presence of pathogens 
+
+in  vegetables  (Cooley  et  al.,  2014).  The  possibility  of  contamination  via  irrigation  is  increased,  as 
+
+untreated wastewater is used for around 10% of crop irrigation (Anon, 2003). In the United States 
+
+and  Senegal,  9%  and  35%  of  the  irrigation  water  samples  analyzed  were  contaminated  with 
+
+Salmonella,  respectively  (Pachepsky  et  al.,  2011;  Ndiaye  et  al.,  2011).  In  addition,  a  number  of 
+
+outbreaks  related  to  contaminated  irrigation  water  had  been  published.  In  2005,  iceberg  lettuce 
+
+imported from Spain caused S. Typhimurium cases in Finland and UK after wastewater was used to 
+
+irrigate the crop (Takkinen et al., 2005).
+
+         Vegetables  such  as  Japanese  parsley  (Oenanther  stolonifera),  laksa  leaves  (Poligonum  minus) 
+
+and  water  spinach  (Ipomoea  aquatic)  are  often  grown  around  swamps,  river  banks  and  irrigation 
+
+ditches,  which  are  prone  to  contamination  by  refuse  waste  from  industry,  slaughter  houses  and 
+
+8
+
+ACCEPTED MANUSCRIPT193
+
+194
+
+195
+
+196
+
+197
+
+198
+
+199
+
+200
+
+201
+
+202
+
+203
+
+204
+
+205
+
+206
+
+207
+
+208
+
+209
+
+210
+
+211
+
+212
+
+213
+
+214
+
+215
+
+216
+
+217
+
+218
+
+processing plants (Sallah et al., 2003). According to Brackett, (1994) contamination of vegetables at 
+
+harvest  and  at  post-harvest  stages  (transportation,  processing,  packaging,  distribution  and  retail 
+
+levels)  may  be  due  to  contaminated  harvesting  equipment,  poor  personal  hygiene,  inadequate 
+
+sanitation in the processing plant and retail handling. Hence, in this current study, the relatively high 
+
+rate  of  Salmonella  contamination  in  leafy  vegetables  in  the  fresh  food  markets  may  have  been 
+
+attributed  to  cross-contamination  from  the  environment  where  the  vegetables  were  cultivated, 
+
+prepared, handled by workers and consumers and stored.        
+
+         In general, the prevalence of Salmonella was 48% for chicken carcasses and 41% for processing 
+
+environmental samples obtained from fresh food markets (Table 2). The results were incomparable 
+
+with the previous findings in Malaysia. Nidaullah et al. (2017) reported 88.46% of poultry carcasses 
+
+and related processing environmental samples from the small-scale plants and fresh markets were 
+
+contaminated with Salmonella. In addition, Modarressi and Thong (2010), reported a prevalence of 
+
+72.7% of Salmonella in chicken meat samples around Klang Valley, Malaysia from 2006 to 2009. In 
+
+another  study,  the  prevalence  of  Salmonella  in  broiler  carcasses  obtained  from  wet  markets  and 
+
+processing  plants  was  35.5%  and  50.0%,  respectively  (Rusul  et  al.,  1996).  The  differences  in  the 
+
+results of these studies might be due to sampling approaches and geographical locations. As in this 
+
+study, samples were obtained from numerous processing stages of slaughtering to retailing at the 
+
+fresh food markets. The focus was to find contamination sites and to identify the area of Salmonella 
+
+dissemination  during  the  processing.  Among  the  studied  samples  (Table  2),  drain  water  had  the 
+
+highest prevalence (76.0%) of Salmonella, followed by floors (67.0%), chopping board (53.0%), wash 
+
+water  (53.0%),  display  tables  (50.0%),  chicken  cuts  (50.0%),  whole  chicken  (47.0%)  and  butcher 
+
+aprons  (43.0%).  Salmonella contamination  was  relatively  high  in  our  study,  signifying  that  poultry 
+
+meat  and  processing  environment  may  be  a  potential  vector  for  transmitting  Salmonella species. 
+
+This shows that Salmonella had established itself in poultry processing environments and on carcass 
+
+contact  surfaces  by  colonizing  the  equipment  surfaces  forming  biofilms  which  allows  for  longer 
+
+survival. Besides, the formation of biofilms by Salmonella on contact surfaces is of major food safety 
+
+9
+
+ACCEPTED MANUSCRIPTconcern  due  to  greater  risk  for  cross-contamination  (Carrasco  et  al.,  2012).  The  existence  of  high 
+
+humidity in the fresh food markets environment may attribute to the presence of pathogen biofilm 
+
+on contact surfaces (Villa-Rojas et al., 2017). In most of the fresh food markets, chicken carcasses are 
+
+sold at ambient temperatures and exposed to the environment with the lack of cooling system and 
+
+ice is rarely used for chilling.
+
+          In live birds, Salmonella is carried asymptomatically in the gastrointestinal tract and can merely 
+
+transfer to carcasses in abattoir through faecal contamination. Further dissemination may perhaps 
+
+occur during processing if the carcasses become cross-contaminated (Trongjit et al., 2017). As in this 
+
+study, the live birds are mostly slaughtered, processed and retailed in the market without inspection 
+
+by the authority, and extensive human handling during each processing step almost certainly lead to 
+
+cross contamination. 
+
+219
+
+220
+
+221
+
+222
+
+223
+
+224
+
+225
+
+226
+
+227
+
+228
+
+229
+
+230
+
+231
+
+3.2. Salmonella isolate serotyping 
+
+232
+
+233
+
+        The  187  Salmonella  isolates  were  divided  into  37  different  serovars  (Table  3).  The  most 
+
+prevalent  serovars  were  S.  Corvallis  (49/187),  S.  Brancaster  (28/187),  S.  Albany  (17/187),  S. 
+
+234 Weltevredent (15/187), S. Hvittingfoss (6/178), S. Paratyphi B (6/178) and S. Typhimurium (6/178). 
+
+235
+
+236
+
+237
+
+238
+
+239
+
+Other serovars isolated were S. Indiana (5/187), S. Aberdeen (4/187), S. Augustenborg (4/187), S. 
+
+Richmond  (4/187),  S.  Mbandaka  (4/187),  S.  Enteritidis  (4/187),  S.  Braenderup  (3/187),  S.  Give 
+
+(3/187), S. Redhill (3/187), S. Dusseldorf (2/187), S. Dumfries (2/187), S. Newport (2/187), S. Stanley 
+
+(2/187), and S. Planckendael (2/187). The frequencies of other serovars such as S. Bareilly, S. Cerrot, 
+
+S.  Djugu,  S.  Gamira,  S.  Haifa,  S.  Kastrup,  S.  Kentucky,  S.  Lindenburg,  S.  Minnesota,  S.  Mkamba,  S. 
+
+240 Molade, S. Obugu, S. Ohio, S. Salamae serovar II,19,12,Iv,z39, S. Tudu and S. Wandsworth were very 
+
+241
+
+low  (<2).  Among  the  37  different  Salmonella  serovars,  27  were  isolated  from  leafy  vegetables,  5 
+
+10
+
+ACCEPTED MANUSCRIPT242
+
+243
+
+244
+
+245
+
+246
+
+different  Salmonella  serovars  were  isolated  from  chicken  carcasses  and  19  from  processing 
+
+environments.
+
+        The  pattern  of  serovars  distribution  is  quite  different  as  S.  Weltevredent  was  the  dominant 
+
+serovar in leafy vegetables, followed by S. Corvallis, S. Brancaster, S. Paratyphi B and S. Hvittingfoss. 
+
+This  is  particularly  similar  to  the  findings  by  Salleh  et  al.  (2003),  in  which  they  reported  S. 
+
+247 Weltevredent as the predominant serovar isolated from raw leafy vegetables in the Central region of 
+
+248 Malaysia.  In  addition,  between  1983–1992,  Salmonella  Weltevredent  was  third  most  prevalent 
+
+249
+
+250
+
+251
+
+252
+
+253
+
+254
+
+255
+
+256
+
+257
+
+258
+
+259
+
+serovar isolated in the human clinical cases in Malaysia (Yasin et al., 1997). S. Weltevredent is an 
+
+emerging  pathogen  and  increasingly  being  reported  as  a  cause  of  invasive  bacterial  disease  and 
+
+diarrhoea in the human population residing in the tropical regions of low income countries (Makendi 
+
+et al., 2016). This is of serious concern because S. Weltevredent had been reported to be the cause 
+
+of  Salmonellosis 
+
+in  Scandinavia,  Malaysia  and  Southeast  Asia  (Learn-Han  et  al.,  2008; 
+
+Bangtrakulnonth et al. 2004; Padungtod and Kaneene, 2006).
+
+          On  another  note,  the  detection  of  S.  Paratyphi  B,  S.  Typhimurium  and  S.  Enteritidis  in 
+
+vegetables should have similarly raised concern to us because these serovars have been linked to 
+
+numerous  outbreaks  of  foodborne  Salmonellosis  worldwide  (Pui  et al.,  2011;  Kirk  et  al.,  2015). 
+
+Salmonella  Paratyphi  B  has  wide  geographical  distribution  and  has  been  isolated  from  different 
+
+sources  causing  enteric  fever  and  self-limiting  gastroenteritis  in  humans  (Chart  et  al.,  2005).  In 
+
+260 Malaysia, the epidemiological knowledge of S. Paratyphi B is relatively scarce as compared to well-
+
+261
+
+262
+
+263
+
+264
+
+known serovars like Typhimurium and Enteritidis. Only two studies reported S. Paratyphi B as the 
+
+second  leading  serovar  isolated  from  children  hospitalized  with  extra-intestinal  non-typhoidal 
+
+Salmonellosis and those with non-typhoid gastroenteritis in Malaysia (Lee et at., 2000). However, 
+
+several reports of increasing incidence of S. Paratyphi B in Canada and Italy (Stratton et al., 2001; 
+
+265 Miko  et  al.,  2002)  show  that  this  serovar  will  be  significant  in  near  future.  The  isolation  of six  S. 
+
+11
+
+ACCEPTED MANUSCRIPT266
+
+267
+
+268
+
+269
+
+Paratyphi  B  from  different  vegetables  should  not  be  underestimated,  particularly  in  those  lightly 
+
+cooked or eaten raw.
+
+         Some  serovars  may  have  epidemiological  importance  in  certain  geographical  locations.  For 
+
+instance, S. Mbandaka has been noted to emerge in the Poland, the UK and Australia (Hoszowski and 
+
+270 Wasyl, 2001; Reid et al., 1993; Scheil, Cameron et al., 1998). To our knowledge, this is the second 
+
+271
+
+time  S.  Hvittingfoss  had  been  isolated  from  vegetables  obtained  from  the  fresh  food  markets  in 
+
+272 Malaysia as previously reported in 2003. An outbreak of S. Hvittingfoss associated with consumption 
+
+273
+
+274
+
+of rockmelon has been reported in Australia in 2016 (Food Safety News, 2016). A noteworthy finding 
+
+of several Salmonella serovars such as S. Augustenborg, S. Cerrot, S. Djugu, S. Dumfries, S. Kastrup, S. 
+
+275 Minnesota, S. Newport, S. Planckendael, S. Obugu, S. Ohio, S. Redhill, S. Richmond and S. Stanley to 
+
+276
+
+277
+
+278
+
+279
+
+280
+
+281
+
+282
+
+283
+
+284
+
+285
+
+286
+
+287
+
+288
+
+289
+
+mention  a  few  is  that  these  Salmonella  serovars  are  among  those  isolated  from  vegetables  but 
+
+infrequently reported in the Far East, particularly in Malaysia. The diversity of vegetables and study 
+
+locations have influenced the occurrence of many serovars obtained in this present study.
+
+          On  chicken  carcasses  and  the  related  processing  environments,  the  majority  of  occurring 
+
+serovars  were  S.  Corvallis,  S.  Brancaster  and  S.  Albany.  The  Salmonella serovars  identified  in  our 
+
+study  are  in  conformity  with  that  of  reported  by  Nidaullah  et  al.  (2017),  in  which  S.  Corvallis,  S. 
+
+Brancaster and S. Albany were major serovars from wet markets and poultry processing plant. These 
+
+may be due to result of microbial adhesion and biofilm formation on equipment contact surfaces 
+
+such  as  cutting  board,  knife,  scalding  tank  water,  chilling  tank,  and  defeathering  machines  which 
+
+allow these Salmonella serovars to be persistent for a longer period of time in biofilm and they tend 
+
+to protect the pathogens from sanitizers and detergents. Likewise, Strawn et al. (2014) stated that 
+
+certain Salmonella serovars may be more common in certain areas, probably due to persistence or 
+
+adaptation  to  specific  hosts  or  abiotic  environment  found  in  a  given  geographical  location.  In 
+
+another study, 14 different Salmonella serovars were isolated from chicken carcasses obtained from 
+
+12
+
+ACCEPTED MANUSCRIPT290
+
+291
+
+292
+
+293
+
+294
+
+295
+
+296
+
+297
+
+298
+
+299
+
+300
+
+301
+
+302
+
+303
+
+304
+
+305
+
+306
+
+307
+
+308
+
+309
+
+310
+
+311
+
+312
+
+313
+
+314
+
+retail outlets in Malaysia, with S. Muenchen (32.6%), S. Enteritidis (19.8%), S. Kentucky (17%), and S. 
+
+Blockley (12.8%) as the major serovars (Rusul et al., 1996).  
+
+3.3. Antimicrobial susceptibility of Salmonella isolates
+
+         The resistance of Salmonella isolates to 12 antimicrobial agents examined is shown in Table 4. 
+
+In total, 19 and 15 Salmonella isolates (10.2 and 8.0%) were resistant to one and two antibiotics, 
+
+respectively.  In  addition,  103  isolates  of  Salmonella  (55.1%)  were  multi-drug  resistant  (MDR) 
+
+(resistance to 3 or more antimicrobials). MDR Salmonella isolates have been reported to be more 
+
+virulent than non-multiple drug-resistant (Foley et al., 2008). This level of MDR Salmonella isolates 
+
+was lower than that of previously reported by Thong and Moderassi (2011) in Malaysia (67%). In 
+
+another study, the level of MDR Salmonella isolates was reported in Vietnam (34%) by Van et al. 
+
+(2007)  and  in  Morocco  (44%)  by  Bouchrif  et  al.  (2009).  Notably,  16  different  Salmonella  serovars 
+
+were observed among the multidrug-resistant isolates.
+
+             In the present study, high prevalence of resistance was observed for streptomycin (66.6%), 
+
+tetracycline 
+
+(44.4%),  sulfonamides 
+
+(44.4%),  ampicillin 
+
+(26.7%),  chloramphenicol 
+
+(29.1%), 
+
+trimethoprim-sulfamethoxazole (11.6%), nalidixic acid (12.8%) and kanamycin (11.2%). All isolates of 
+
+Salmonella  were  susceptible  to  cephalothin.  In  comparison,  these  findings  are  similar  to  earlier 
+
+reports showing that  Salmonella isolates in vegetables, chicken and processing environment were 
+
+resistant to many antimicrobials, including tetracycline, streptomycin, sulfonamides and ampicillin 
+
+(Learn-Han  et  al.,  2008).  Much  of  the  resistant  isolates  were  from  poultry  and  environmental 
+
+samples as compared to vegetables. In poultry, the emergence of antimicrobial resistant Salmonella 
+
+isolates  may  be  a  result  of  widespread  use  of  antibiotics  for  growth  promotion,  therapeutic  and 
+
+prophylactic uses in local poultry production in Malaysia. These isolates can then be transferred to 
+
+vegetables via the use of faeces from poultry houses as manure on vegetable farms. Even though 
+
+application  of  antibiotic  in  livestock's  production  is  under  strict  veterinary  supervision  in  most 
+
+13
+
+ACCEPTED MANUSCRIPT315
+
+316
+
+317
+
+318
+
+319
+
+320
+
+321
+
+322
+
+323
+
+324
+
+325
+
+326
+
+327
+
+328
+
+329
+
+countries, farmers are still using antibiotics as prophylactic in intensive farming units, mainly poultry, 
+
+cattle and pigs without prescription (Usera et al., 2002).
+
+         A  number  of  Salmonella  isolates  from  vegetables  in  this  study  were  also  resistant  to  a  few 
+
+antimicrobials  agents,  including  streptomycin  (36.8%),  sulfonamides  (25.3%),  tetracycline  (19.5%), 
+
+ampicillin (13.8%) and chloramphenicol (10.3%). Although a number of antibiotics used in vegetable 
+
+farming are modest (Schwaiger et al., 2011), primary sources for the spread of resistant bacteria into 
+
+the  field  were  considered  to  be  pesticides  application,  emission  of  residues  from  wastewater 
+
+treatment, antibiotic manufacturing and irrigation of crop with contaminated water (Brandl, 2006). 
+
+According to Segura et al. (1999), the formation of multidrug efflux systems from heavy metals and 
+
+plant metabolites can result in antibiotic resistance.
+
+         The antimicrobial resistance profile and MAR index of the Salmonella serovars are presented in 
+
+Table 5.  One  hundred  and  thirty-seven  Salmonella  isolates  belonging  to  25  different  serovars 
+
+exhibited 51 different antibiogram patterns. S. Brancaster exhibited 20 different resistant patterns to 
+
+the antibiotics examined whereas various different resistant patterns were also shown by S. Albany, 
+
+S.  Corvallis,  S.Weltevreden,  S.  Give,  S.  Hvittingfoss,  S.  Indiana,  S.  Typhimurium,  S.  Enteritidis,  S. 
+
+330 Mbandaka,  S.  Paratyphi,  S.  Stanley  and  S.  Dumfries,  respectively.  The  most  prevalent  resistance 
+
+pattern  was  STeS₃  and  exhibited  by  S.  Corvallis  (28),  S.  Mbandaka  (3),  S.  Typhimurium  (1)  and  S. 
+
+Djugu (1). One S. Albany isolated from chopping board was resistant to 10 antibiotics and had the 
+
+highest MAR index of 0.83. One isolate of each S. Give and S. Weltevredent and 3 of S. Albany were 
+
+resistant to 8 antibiotics with a high MAR index of 0.66. Eight and 7 isolates were resistant to 7 and 6 
+
+antibiotics  with  MAR  index  of  0.58  and  0.50,  respectively.  The  emergence  of  Salmonella  serovars 
+
+having MAR Index of more than 0.2 originated from an environment where several antibiotics are 
+
+used more often as therapeutic or feed additive in animals (Krumperman, 1983).
+
+331
+
+332
+
+333
+
+334
+
+335
+
+336
+
+337
+
+338
+
+14
+
+ACCEPTED MANUSCRIPT339
+
+340
+
+341
+
+342
+
+343
+
+344
+
+345
+
+346
+
+347
+
+348
+
+349
+
+350
+
+351
+
+352
+
+353
+
+354
+
+355
+
+356
+
+357
+
+358
+
+359
+
+360
+
+361
+
+362
+
+363
+
+3.4. Antimicrobial resistance genes and class 1 integrons
+
+         Eleven out of the 16 resistance genes (tetA, tetB, blaTEM-1, temB, floR, cmlA, aadA, strA, strB, su1 
+
+and  sul2)  were  detected  in  drug-resistant  isolates  by  PCR  (Table  6).  A  comparison  of  the  DNA 
+
+sequences of these amplicons showed 95–100% similar identity with the available sequences in the 
+
+NCBI GenBank Database.      
+
+          Out of the 117 streptomycin-resistant isolates, 38 harboured both strA and strB and only 32 
+
+harboured the aadA genes. Along with these, 14 isolates had all the three genes. The strA-strB genes 
+
+are widely disseminated in Salmonella and other Gram negative spp (Caratoliet al., 2008; Soudin, 
+
+2002).  In  Malaysia,  strA-strB  and  aadA  were  detected  in  Salmonella  serovars  from  raw  beef  and 
+
+chicken  meat  (Thong  and  Moderrasi,  2011).   The  use  of  streptomycin  for  treatment  had  been 
+
+reduced  in  human  and  veterinary  medicine  but  the  persistence  might  be  caused  by  co-selection 
+
+(Peirano et al., 2006). Of the 83 tetracycline-resistant isolates, tetA alone was found in 76 isolates 
+
+and  3  were  positive  for  both  tetA/tetB,  respectively.  No  isolates  were  positive  for  tetC  and  tetG. 
+
+Similar  to  tetA,  tetB  gene  is  widespread  among  Salmonella  and  has  been  located  on  transferable 
+
+plasmids (Lopes et al., 2016), and is easily transferred (Roberts, 2005).
+
+         Among the 83 sulphonamide-resistant isolates, 5 were positive for both sul1 and sul2, 7 were 
+
+positive  for  sul1  and  47  were  positive  for  sul2  only.  These  genes  most  often  found  in  integron 
+
+positive isolates that carried other genes (Mąka et al., 2015). In the United States and Canada, much 
+
+of  the  isolated  MDR  Salmonella  enterica  from  humans,  animals  and  retail  meat  harboured  sul1 
+
+(26/56) and sul2 (23/56) (Glenn et al., 2013).
+
+        Twenty of the 41 chloramphenicol-resistant isolates harboured floR and 4 harboured cmlA only, 
+
+whereas 4 (1 Albany, 2 Brancaster, and 1 Corvallis) serovars had both floR and cmlA. None of the 
+
+chloramphenicol  acetyltransferase  genes, cat1 and cat2,  were  detected  in  the  chloramphenicol-
+
+resistant Salmonella.  These  two  genes  (cmlA  and  floR)  are  very  much  related  to  and  encoded  in 
+
+Chloramphenicol efflux pumps in Salmonella (Cabrera et al., 2004; White et al., 2001). In this study, 
+
+15
+
+ACCEPTED MANUSCRIPT364
+
+365
+
+366
+
+367
+
+368
+
+369
+
+370
+
+371
+
+372
+
+373
+
+374
+
+375
+
+376
+
+377
+
+378
+
+379
+
+380
+
+381
+
+floR genes appear to be very prevalent in Salmonella, whereas cmlA was less widely distributed. This 
+
+is  in  agreement  with  the  report  by  Thong  and  Modarressi  (2011),  stating  that  the  floR  gene  was 
+
+detected  in  7  isolates  (6  Typhimurium,  1  Newport)  and cmlA was  detected  in  2  isolates  (serovars 
+
+Istanbul and Wandsworth). Also in another study by Glenn et al. (2013), chloramphenicol resistance 
+
+genes  including cat  (36/56),  floR (27/56)  and cmlA (7/56)  were  detected  in  Salmonella  enterica 
+
+serovars isolated from retail meat, animals and humans.
+
+      Out of 3 types of β-lactamase gene tested, 36 of 50 ampicillin-resistant isolates harboured both 
+
+blaTEM-1 and temB. At the same time, only 14 had temB.  None of the temA was detected. In an earlier 
+
+study  by  Benacer  et  al.  (2010),  it  was  reported  that  all  ampicillin-resistant  Salmonella  strains 
+
+harboured blaTEM-1, temA, and temB.   In another similar study in Korea by Kim et al. (2013), temA 
+
+(1.6%) and blaTEM-1 (95%) genes were detected in resistant isolates while temB was not detected.
+
+           In  this  study,  class  1  integrons  were  detected  in  17  (12.4%)  resistant  Salmonella  isolates  (4 
+
+from vegetables, 6 from chicken carcasses and 7 from the environment). Five integron profiles (IP) 
+
+were  identified.  IP-1,  IP-3  and  IP-5  consist  of  one  integron  while  IP-2  and  IP-4  consist  of  two 
+
+integrons each as shown in Table 7. Five amplicons, which were 0.3 kb, 0.5 kb, 1.5 kb, 0.3+1.2 kb, 
+
+and 0.3+1.5 kb long were detected. In another study by Thong and Moderrasi (2011), they detected 
+
+12 class 1 integrons amongst 59 MDR Salmonella isolates from retail meat and street foods. Three IP 
+
+with variable amplicons were defined, which include IP-1 (0.7 kb) found in S. Typhimurium and S. 
+
+382 Weltevreden,  IP-2  (1.2  kb)  in  S.  Newport  and  S.  Albany  and  IP-3  (1.5  kb)  in  S.  Agona  and  S. 
+
+383
+
+Typhimurium, respectively (Thong and Moderrasi, 2011).
+
+384
+
+385
+
+386
+
+387
+
+388
+
+389
+
+          Based  on  the  DNA  sequence  examination  of  variable  regions  of  amplicons,  the  most 
+
+predominant gene cassette arrays carried by these integrons were dfrA1 and dfrA12 genes encoding 
+
+resistance  to  trimethoprim  (GenBank  accession  no.   KY965931),  and  aadA2 gene  encoding  for 
+
+aminoglycoside  adenyltransferase  AAD  (3'')  and  confers  resistance  to  streptomycin-spectinomycin 
+
+(accession  no.  KY965930).  In  addition,  a  0.3  +  1.0-kb  integron  contains  an aadA2 + blaPSE−1  gene 
+
+cassette (accession no. KY965929) encoding resistance to aminoglycosides and beta-lactamase. The 
+
+16
+
+ACCEPTED MANUSCRIPT390
+
+391
+
+392
+
+393
+
+394
+
+395
+
+396
+
+397
+
+398
+
+399
+
+400
+
+401
+
+402
+
+403
+
+404
+
+405
+
+406
+
+407
+
+408
+
+409
+
+410
+
+411
+
+412
+
+413
+
+414
+
+1.5 kb dfrA12-orf-aadA2 gene cassette array (accession no. KY96592) found in 1 S. Corvallis and 1 S. 
+
+Kentucky confers resistance to sulphonamides, trimethoprim and aminoglycosides which was similar 
+
+to  our  finding  (Thong  and  Moderrasi,  2011).  Similar  gene  cassette  of  dfrA12-orf-aadA2  had  been 
+
+found  in  1.9 kb  integrons  in  Thailand  from  serovars  Rissen,  Anatum,   Weltevreden,  Kentucky, 
+
+Eppendorf, Stanley, Schwarzenrund and Typhimurium, (Khemtong and Chuanchuen, 2008), in Korea 
+
+from  S.  Gallinarum  (Kwon  et  al.,  2002),  and  in  Taiwan  from  S.  Choleraesuis  (Hsu  et  al.,  2006). 
+
+Identical  gene  cassette  could  be  found  from  the  same  and  different  bacterial  species  (Hsu  et  al., 
+
+2006) which indicates that integrons can be transferred between intra- and inter-species and play 
+
+significant roles in the spreading of antimicrobial resistance genes among bacteria.
+
+4. Conclusions
+
+In  summary,  our  results  had  confirmed  a  relatively  high  rate  of  Salmonella  contamination  from 
+
+vegetables,  chicken  carcasses,  and  related  processing  environments  in  Malaysian  fresh  food 
+
+markets. These might act as the reservoirs for antimicrobial resistant Salmonella which harboured 
+
+mobile genetic elements. Class 1 integrons situated on transferable plasmids may contribute to the 
+
+dissemination  of  antibiotic  resistance  among  Salmonella.  Our  findings  highlight  the  need  for 
+
+stringent  sanitation  and  hygienic  standards  in  fresh  food  markets  to  reduce  the  occurrence 
+
+of Salmonella as well as the cautious use of antibiotics in poultry production to limit the emergence 
+
+of antibiotic resistance in foodborne zoonotic bacterial pathogens.  
+
+Acknowledgments
+
+This work was supported by the Universiti Sains Malaysia (grants number 1001/PTEKIND/811289). 
+
+The  authors thank  IPS-USM  for  awarding  Mustapha Goni  Abatcha  with  USM  Global  Fellowship  to 
+
+undertake  this  study  and  Public  Health  Laboratory,  Perak,  Ministry  of  Health  Malaysia  for  the 
+
+serotyping.
+
+17
+
+ACCEPTED MANUSCRIPT415
+
+References
+
+416
+417
+418
+419
+420
+421
+422
+423
+424
+425
+426
+427
+
+428
+429
+430
+431
+432
+433
+434
+435
+436
+437
+438
+439
+440
+441
+442
+443
+444
+445
+446
+447
+448
+449
+450
+451
+452
+453
+454
+455
+456
+457
+458
+459
+460
+461
+462
+463
+
+Aarestrup,  F.  M.,  Lertworapreecha,  M.,  Evans,  M.  C.,  Bangtrakulnonth,  A.,  Chalermchaikit,  T., 
+Hendriksen, R. S., & Wegener, H. C. (2003). Antimicrobial susceptibility and occurrence of 
+resistance genes among Salmonella enterica serovar Weltevreden from different countries. 
+Journal of Antimicrobial Chemotherapy, 52(4), 715-718.
+
+Ahmed, A. M., Younis, E. E., Ishida, Y., & Shimamoto, T. (2009). Genetic basis of multidrug resistance 
+in Salmonella enterica serovars Enteritidis and Typhimurium isolated from diarrheic calves in 
+Egypt. Acta tropica, 111(2), 144-149.
+
+Anon. (2003). Water for People, Water for Life: Executive Summary. United Nations World Water 
+from 
+
+Development 
+http://unesdoc.unesco.org/images/0012/001295/129556e.pdf viewed on 10/01/05.
+
+UNESCO 
+
+Report 
+
+2003. 
+
+Paris, 
+
+France: 
+
+Publ., 
+
+Aytac,  S.  A.,  Ben,  U.,  Cengiz,  C.,  &  Taban,  B.  M.  (2010).  Evaluation  of  Salmonella  and  Listeria 
+
+monocytogenes contamination on leafy green vegetables. J Food Agric Environ, 8, 275-279.
+
+Bangtrakulnonth, A. (2004). Salmonella Serovars from Humans and Other Sources in Thailand, 1993–
+
+2002-Volume 10, Number 1—January 2004-Emerging Infectious Disease journal-CDC.
+
+Benacer,  D.,  Thong,  K.  L.,  Watanabe,  H.,  &  Puthucheary,  S.  D.  (2010).  Characterization  of  drug-
+resistant  Salmonella  enterica  serotype  Typhimurium  by  antibiograms,  plasmids,  integrons, 
+resistance genes, and PFGE. Journal of microbiology and biotechnology, 20(6), 1042-1052.
+
+Bhunia, A. (2007). Foodborne microbial pathogens: mechanisms and pathogenesis: Springer Science 
+
+& Business Media.
+
+Bouchrif, B., Paglietti, B., Murgia, M., Piana, A. F., Cohen, N., Ennaji, M. M., Rubino, S., & Timinouni, 
+M.  (2009).  Prevalence  and  antibiotic-resistance  of  Salmonella  isolated  from  food  in 
+Morocco. The Journal of Infection in Developing Countries, 3(1), 35-40.
+
+Brackett, R. E. (1994). Microbiological spoilage and pathogens in minimally processed refrigerated 
+fruits and vegetables. In Minimally processed refrigerated fruits & vegetables (pp. 269-312): 
+Springer.
+
+Brandl, M. T. (2006). Fitness of human enteric pathogens on plants and implications for food safety 
+
+1. Annu. Rev. Phytopathol., 44, 367-392.
+
+Cabrera, R., Ruiz, J., Marco, F., Oliveira, I., Arroyo, M., Aladueña, A., Usera, M. A., De Anta, M. T. J., 
+Gascón,  J.,  &  Vila,  J.  (2004).  Mechanism  of  resistance  to  several  antimicrobial  agents  in 
+Salmonella  clinical 
+traveler's  diarrhea.  Antimicrobial  agents  and 
+chemotherapy, 48(10), 3934-3939.
+
+isolates  causing 
+
+Canal, N., Meneghetti, K. L., Almeida, C. P. d., Bastos, M. d. R., Otton, L. M., & Corção, G. (2016). 
+Characterization  of  the  variable  region  in  the  class  1  integron  of  antimicrobial-resistant 
+Escherichia  coli  isolated  from  surface  water.  brazilian  journal  of  microbiology,  47(2),  337-
+344.
+
+Carattoli,  A.  (2008).  Animal  reservoirs  for  extended  spectrum  β-lactamase  producers.  Clinical 
+
+Microbiology and Infection, 14(s1), 117-123.
+
+18
+
+ACCEPTED MANUSCRIPT464
+465
+466
+467
+468
+469
+470
+471
+472
+473
+474
+475
+476
+477
+478
+479
+480
+481
+482
+483
+484
+485
+486
+487
+488
+489
+490
+491
+492
+493
+494
+495
+496
+497
+498
+499
+500
+501
+502
+503
+504
+505
+506
+507
+508
+509
+510
+511
+512
+513
+514
+
+Carrasco,  E.,  Morales-Rueda,  A.,  &  García-Gimeno,  R.  M.  (2012).  Cross-contamination  and 
+recontamination by Salmonella in foods: a review. Food Research International, 45(2), 545-
+556.
+
+Centers  for  Disease  Control  and  Prevention-CDC.  (2015).  Foodborne  Outbreak  Online  Database 
+from:,http://wwwn.cdc.gov/foodborneoutbreaks/Default.  aspx. 
+
+(FOOD).  
+Available 
+(accessed 14.08.15.).
+
+Chart, H. (2003). The pathogenicity of strains of Salmonella paratyphi B and Salmonella java. Journal 
+
+of Applied Microbiology, 94(2), 340-348.
+
+Chen, S., Zhao, S., White, D. G., Schroeder, C. M., Lu, R., Yang, H., McDermott, P. F., Ayers, S., & 
+Meng,  J.  (2004).  Characterization  of  multiple-antimicrobial-resistant  Salmonella  serovars 
+isolated from retail meats. Applied and environmental microbiology, 70(1), 1-7.
+
+CLSI. ( 2012). Performance Standards for Antimicrobial Disk SusceptibilityTests; Approved Standard 
+Laboratory 
+
+Edition.  Wayne,  PA,  CLSIdocument  M02-A11:  Clinical  and 
+
+11th 
+StandardsInstitute; 2012.14.
+
+Cooley, M. B., Quiñones, B., Oryang, D., Mandrell, R. E., & Gorski, L. (2014). Prevalence of shiga toxin 
+producing Escherichia coli, Salmonella enterica, and Listeria monocytogenes at public access 
+watershed  sites  in  a  California  Central  Coast  agricultural  region.  Frontiers  in  cellular  and 
+infection microbiology, 4.
+
+Doyle,  M.  P.,  &  Buchanan,  R.  L.  (2012).  Food  microbiology:  fundamentals  and  frontiers:  American 
+
+Society for Microbiology Press.
+
+ERS-USDA. (2013). USDA ERS - Cost Estimates of Foodborne Illnesses. Retrieved January 11, 2017, 
+from.https://www.ers.usda.gov/amber-waves/2013/september/quantifying-the-impacts-of-
+foodborne-illnesses/
+
+Fearnley,  E.,  Raupach,  J.,  Lagala,  F.,  &  Cameron,  S.  (2011).  Salmonella  in  chicken  meat,  eggs  and 
+humans; Adelaide, South Australia, 2008. International journal of food microbiology, 146(3), 
+219-227.
+
+Fei, X., He, X., Guo, R., Yin, C., Geng, H., Wu, K., Yin, K., Geng, S., Pan, Z., & Li, Q. (2017). Analysis of 
+prevalence and CRISPR typing reveals persistent antimicrobial-resistant Salmonella infection 
+across chicken breeder farm production stages. Food Control, 77, 102-109.
+
+Food 
+
+Safety  News 
+
+(2016).  How 
+
+did 
+
+rockmelons?http://www.foodsafetynews.com/2016/08/130219/#.WSqsrMYRXIU. 
+Accessed on 28/05/2017
+
+Salmonella  Hvittingfoss 
+
+get 
+
+on 
+
+Aussie 
+
+Foley, S., Lynne, A., & Nayak, R. (2008). challenges: Prevalence in swine and poultry and potential 
+
+pathogenicity of such isolates. Journal of animal science, 86(14_suppl), E149-E162.
+
+Gebreyes,  W.  A.,  &  Altier,  C.  (2002).  Molecular  characterization  of  multidrug-resistant  Salmonella 
+enterica  subsp.  enterica  serovar  Typhimurium  isolates  from  swine.  Journal  of  clinical 
+microbiology, 40(8), 2813-2822.
+
+19
+
+ACCEPTED MANUSCRIPTGill, C., Badoni, M., Moza, L., Barbut, S., & Griffiths, M. (2005). Microbiological sampling of poultry 
+carcass portions by excision, rinsing, or swabbing. Journal of food protection, 68(12), 2718-
+2720.
+
+Glenn, L. M., Lindsey, R. L., Folster, J. P., Pecic, G., Boerlin, P., Gilmour, M. W., Harbottle, H., Zhao, S., 
+McDermott, P. F., & Fedorka-Cray, P. J. (2013). Antimicrobial resistance genes in multidrug-
+resistant Salmonella enterica isolated from animals, retail meats, and humans in the United 
+States and Canada. Microbial Drug Resistance, 19(3), 175-184.
+
+Grimont, P., & Weill, F. (2007). Antigenic Formulae of the Salmonella Serovars . WHO Collaborating 
+Centre for Reference and Research on Salmonella. Institut Pasteur, Paris, France. and, 166, 
+6.
+
+Guran, H. S., Mann, D., & Alali, W. Q. (2017). Salmonella prevalence associated with chicken parts 
+with and without skin from retail establishments in Atlanta metropolitan area, Georgia. Food 
+Control, 73, 462-467.
+
+Health  Canada,  V.  D.  D.  (2009).  Categorization  of  Antimicrobial  Drugs  Based  on  Importance  in 
+Human Medicine. http://www.hc-sc.gc.ca/dhp mps/vet/antimicrob/amr_ram_hum-med-rev-
+eng.php .Last accessed February 1, 2016.
+
+Hoszowski, A., & Wasyl, D. (2001). Typing of Salmonella enterica subsp. enterica serovar Mbandaka 
+
+isolates. Veterinary microbiology, 80(2), 139-148.
+
+Hsu,  S.-C.,  Chiu,  T.-H.,  Pang,  J.-C.,  Hsuan-Yuan,  C.-H.,  Chang,  G.-N.,  &  Tsen,  H.-Y.  (2006). 
+Characterisation  of  antimicrobial  resistance  patterns  and  class  1 
+integrons  among 
+Escherichia coli and Salmonella enterica serovar Choleraesuis strains isolated from humans 
+and swine in Taiwan. International journal of antimicrobial agents, 27(5), 383-391.
+
+Hur,  J.,  Jawale,  C.,  &  Lee,  J.  H.  (2012).  Antimicrobial  resistance  of  Salmonella  isolated  from  food 
+
+animals: A review. Food Research International, 45(2), 819-830.
+
+Khemtong, S., & Chuanchuen, R. (2008). Class 1 integrons and Salmonella genomic island 1 among 
+Salmonella enterica isolated from poultry and swine. Microbial Drug Resistance, 14(1), 65-
+70.
+
+Kim, J.-H., Kim, S.-G., Kim, S.-S., Kim, J.-H., Park, S.-H., Nam, K.-H., & Kim, H.-B. (2013). Analysis of the 
+antibiotic  resistance  gene  in  Salmonella  Typhimurium  isolates  from  diseased  pigs  in 
+Gyeongbuk province. Korean Journal of Veterinary Service, 36(2), 73-78.
+
+Kirk, M. D., Pires, S. M., Black, R. E., Caipo, M., Crump, J. A., Devleesschauwer, B., Döpfer, D., Fazil, A., 
+Fischer-Walker, C. L., & Hald, T. (2015). World Health Organization estimates of the global 
+and regional disease burden of 22 foodborne bacterial, protozoal, and viral diseases, 2010: a 
+data synthesis. PLoS medicine, 12(12), e1001921.
+
+Kotzekidou, P. (2016). Food Hygiene and Toxicology in Ready to Eat Foods: Academic Press.
+
+Kramarenko,  T.,  Nurmoja,  I.,  Kärssin,  A.,  Meremäe,  K.,  Hörman,  A.,  &  Roasto,  M.  (2014).  The 
+prevalence  and  serovar  diversity  of  Salmonella  in  various  food  products  in  Estonia.  Food 
+Control, 42, 43-47.
+
+515
+516
+517
+518
+519
+520
+521
+522
+523
+524
+525
+526
+527
+528
+529
+530
+531
+532
+533
+534
+535
+536
+537
+538
+539
+540
+541
+542
+543
+544
+545
+546
+547
+548
+549
+550
+551
+552
+553
+554
+555
+556
+557
+558
+559
+560
+561
+562
+563
+564
+565
+
+20
+
+ACCEPTED MANUSCRIPTLee,  W.,  Puthucheary,  S.,  &  Boey,  C.  (1998).  Non-typhoid  Salmonella  gastroenteritis.  Journal  of 
+
+paediatrics and child health, 34(4), 387-390.
+
+Lee,  W.,  Puthucheary,  S.,  &  Parasakthi,  N.  (2000).  Extra-intestinal  non-typhoidal  Salmonella 
+
+infections in children. Annals of tropical paediatrics, 20(2), 125-129.
+
+Levesque,  C.,  Piche,  L.,  Larose,  C.,  &  Roy,  P.  H.  (1995).  PCR  mapping  of  integrons  reveals  several 
+novel combinations of resistance genes. Antimicrobial agents and chemotherapy, 39(1), 185-
+191.
+
+Krauland,  M.  G.  (2009).  Integron-mediated  Multidrug  Resistance  in  a  Global  Collection  of 
+Nontyphoidal  Salmonella  enterica  Isolates-Volume  15,  Number  3—March  2009-Emerging 
+Infectious Disease journal-CDC.
+
+Learn-Han, L., Yoke-Kqueen, C., Salleh, N. A., Sukardi, S., Jiun-Horng, S., Chai-Hoon, K., & Radu, S. 
+(2008).  Analysis  of  Salmonella  Agona  and  Salmonella  Weltevreden  in  Malaysia  by  PCR 
+fingerprinting and antibiotic resistance profiling. Antonie Van Leeuwenhoek, 94(3), 377.
+
+Kwon, H. J., Kim, T. E., Cho, S. H., Seol, J. G., Kim, B. J., Hyun, J. W., Park, K. Y., Kim, S. J., & Yoo, H. S. 
+(2002). Distribution and characterization of class 1 integrons in Salmonella enterica serotype 
+Gallinarum biotype Gallinarum. Veterinary microbiology, 89(4), 303-309.
+
+Krumperman, P. H. (1983). Multiple antibiotic resistance indexing of Escherichia coli to identify high-
+risk sources of fecal contamination of foods. Applied and environmental microbiology, 46(1), 
+165-170.
+
+566
+567
+568
+569
+570
+571
+572
+573
+574
+575
+576
+577
+578
+579
+580
+581
+582
+583
+584
+585
+586
+587
+588
+589
+590
+591
+592
+593
+594
+595
+596
+597
+598
+599
+600 Maistro, L. C., Miya, N. T. N., Sant'Ana, A. S., & Pereira, J. L. (2012). Microbiological quality and safety 
+of  minimally  processed  vegetables  marketed  in  Campinas,  SP–Brazil,  as  assessed  by 
+601
+602
+traditional and alternative methods. Food Control, 28(2), 258-264.
+603
+604 Mąka,  Ł.,  Maćkiw,  E.,  Ścieżyńska,  H.,  Modzelewska,  M.,  &  Popowska,  M.  (2015).  Resistance  to 
+Sulfonamides and Dissemination of sul Genes Among Salmonella spp. Isolated from Food in 
+605
+606
+Poland. Foodborne pathogens and disease, 12(5), 383-389.
+607
+608 Makendi, C., Page, A. J., Wren, B. W., Phuong, T. L. T., Clare, S., Hale, C., Goulding, D., Klemm, E. J., 
+Pickard,  D.,  &  Okoro,  C.  (2016).  A  phylogenetic  and  phenotypic  analysis  of  Salmonella 
+609
+enterica  serovar  weltevreden,  an  emerging  agent  of  diarrheal  disease  in  tropical  regions. 
+610
+611
+PLoS Negl Trop Dis, 10(2), e0004446.
+612
+613 Mazel, D. (2006). Integrons: agents of bacterial evolution. Nature Reviews Microbiology, 4(8), 608-
+614
+615
+
+Lopes, G. V., Michael, G. B., Cardoso, M., & Schwarz, S. (2016). Antimicrobial resistance and class 1 
+integron-associated  gene  cassettes  in  Salmonella  enterica  serovar  Typhimurium  isolated 
+from pigs at slaughter and abattoir environment. Veterinary microbiology, 194, 84-92.
+
+Langer,  A.  J.  (2012).  Nonpasteurized  Dairy  Products,  Disease  Outbreaks,  and  State  Laws—United 
+States, 1993–2006-Volume 18, Number 3—March 2012-Emerging Infectious Disease journal-
+CDC.
+
+620.
+
+21
+
+ACCEPTED MANUSCRIPTNidaullah, H., Abirami, N., Shamila-Syuhada, A. K., Chuah, L.-O., Nurul, H., Tan, T. P., Abidin, F. W. Z., 
+&  Rusul,  G.  (2017).  Prevalence  of  Salmonella  in  poultry  processing  environments  in  wet 
+markets in Penang and Perlis, Malaysia. Veterinary World, 10(3), 286-292.
+
+Ndiaye, M. L., Dieng, Y., Niang, S., Pfeifer, H., Tonolla, M., & Peduzzi, R. (2011). Effect of irrigation 
+water on the incidence of Salmonella spp. on lettuces produced by urban agriculture and 
+sold on the markets in Dakar, Senegal. African Journal of Microbiology Research, v. 5 (19), 23 
+September 2011.
+
+616 Miko,  A.,  Guerra,  B.,  Schroeter,  A.,  Dorn,  C.,  &  Helmuth,  R.  (2002).  Molecular  characterization  of 
+multiresistant d-tartrate-positive Salmonella enterica serovar Paratyphi B isolates. Journal of 
+617
+618
+clinical microbiology, 40(9), 3184-3191.
+619
+620 Miko,  A.,  Pries,  K.,  Schroeter,  A.,  &  Helmuth,  R.  (2005).  Molecular  mechanisms  of  resistance  in 
+multidrug-resistant serovars of Salmonella enterica isolated from foods in Germany. Journal 
+621
+622
+of Antimicrobial Chemotherapy, 56(6), 1025-1033.
+623
+624 Modarressi, S., & Thong, K. L. (2010). Isolation and molecular sub typing of Salmonella enterica from 
+625
+chicken, beef and street foods in Malaysia. Scientific Research and Essays, 5(18), 2713-2720.
+626
+627 Moura,  A.,  Henriques,  I.,  Ribeiro,  R.,  &  Correia,  A.  (2007).  Prevalence  and  characterization  of 
+integrons from bacteria isolated from a slaughterhouse wastewater treatment plant. Journal 
+628
+629
+of Antimicrobial Chemotherapy, 60(6), 1243-1250.
+630
+631
+632
+633
+634
+635
+636
+637
+638
+639
+640
+641
+642
+643
+644
+645
+646
+647
+648
+649
+650
+651
+652
+653
+654
+655
+656
+657
+658
+659
+660
+661
+662
+663
+664
+665
+
+Olsen, S. J., Ying, M., Davis, M. F., Deasy, M., Holland, B., Iampietro, L., Baysinger, C. M., Sassano, F., 
+Polk, L. D., & Gormley, B. (2004). Multidrug-resistant Salmonella Typhimurium infection from 
+milk contaminated after pasteurization. Emerging infectious diseases, 10(5), 932.
+
+Pui, C. F., Wong, W. C., Chai, L. C., Robin, T., Ponniah, J., Sahroni, M., Hidayah, N., Anyi, U., Mohamad 
+Ghazali,  F.,  &  Cheah,  Y.  K.  (2011).  Salmonella:  A  foodborne  pathogen.  International  Food 
+Research Journal, 18(2), 465-473.
+
+Oliver,  A.,  Weigel,  L.  M.,  Rasheed,  J.  K.,  McGowan,  J.  E.,  Raney,  P.,  &  Tenover,  F.  C.  (2002). 
+Mechanisms  of  decreased  susceptibility  to  cefpodoxime  in  Escherichia  coli.  Antimicrobial 
+agents and chemotherapy, 46(12), 3829-3836.
+
+Pachepsky, Y., Shelton, D. R., McLain, J. E., Patel, J., & Mandrell, R. E. (2011). 2 Irrigation Waters as a 
+
+Source of Pathogenic Microorganisms in Produce: A Review. Advances in agronomy, 113(7).
+
+Padungtod, P., & Kaneene, J. B. (2006). Salmonella in food animals and humans in northern Thailand. 
+
+International journal of food microbiology, 108(3), 346-354.
+
+Peirano,  G.,  Agersø,  Y.,  Aarestrup,  F.  M.,  dos  Reis,  E.  M.  F.,  &  dos  Prazeres  Rodrigues,  D.  (2006). 
+Occurrence of integrons and antimicrobial resistance genes among Salmonella enterica from 
+Brazil. Journal of Antimicrobial Chemotherapy, 58(2), 305-309.
+
+Prendergast, D., Duggan, S., Gonzales-Barron, U., Fanning, S., Butler, F., Cormican, M., & Duffy, G. 
+(2009).  Prevalence,  numbers  and  characteristics  of  Salmonella  spp.  on  Irish  retail  pork. 
+International journal of food microbiology, 131(2), 233-239.
+
+22
+
+ACCEPTED MANUSCRIPTReid,  R.,  Porter,  R.,  &  Ball,  H.  (1993).  The  isolation  of  sucrose-fermenting  Salmonella  Mbandaka. 
+
+Veterinary microbiology, 37(1-2), 181-185.
+
+Roberts, M. C. (2005). Update on acquired tetracycline resistance genes. FEMS microbiology letters, 
+
+245(2), 195-203.
+
+Rusul, G., Khair, J., Radu, S., Cheah, C., & Yassin, R. M. (1996). Prevalence of Salmonella in broilers at 
+retail  outlets,  processing  plants  and  farms  in  Malaysia.  International  journal  of  food 
+microbiology, 33(2-3), 183-194.
+
+Sabat, A., Budimir, A., Nashev, D., Sá-Leão, R., Van Dijl, J., Laurent, F., Grundmann, H., Friedrich, A., & 
+Markers, E. S. G. o. E. (2013). Overview of molecular typing methods for outbreak detection 
+and epidemiological surveillance. Euro Surveill, 18(4), 20380.
+
+Salleh, N. A., Rusul, G., Hassan, Z., Reezal, A., Isa, S. H., Nishibuchi, M., & Radu, S. (2003). Incidence of 
+
+Salmonella spp. in raw vegetables in Selangor, Malaysia. Food Control, 14(7), 475-479.
+
+Sant’Ana,  A.  S.,  Landgraf,  M.,  Destro,  M.  T.,  &  Franco,  B.  D.  (2011).  Prevalence  and  counts  of 
+Salmonella spp. in minimally processed vegetables in São Paulo, Brazil. Food Microbiology, 
+28(6), 1235-1237.
+
+Scheil, W., Cameron, S., Dalton, C., Murray, C., & Wilson, D. (1998). A South Australian Salmonella 
+Mbandaka outbreak investigation using a database to select controls. Australian and New 
+Zealand journal of public health, 22(5), 536-539.
+
+Schwaiger, K., Helmke, K., Hölzel, C. S., & Bauer, J. (2011). Antibiotic resistance in bacteria isolated 
+from vegetables with regards to the marketing stage (farm vs. supermarket). International 
+journal of food microbiology, 148(3), 191-196.
+
+Segura,  A.,  Duque,  E.,  Mosqueda,  G.,  Ramos,  J.  L.,  &  Junker,  F.  (1999).  Multiple  responses  of 
+
+Gram-negative bacteria to organic solvents. Environmental microbiology, 1(3), 191-198.
+
+Stratton, J., Stefaniw, L., Grimsrud, K., Werker, D., Ellis, A., Ashton, E., Chui, L., Blewett, E., Ahmed, 
+R.,  &  Clark,  C.  (2001).  Outbreak  of  Salmonella  paratyphi  B  var  java  due  to  contaminated 
+alfalfa  sprouts  in  Alberta,  British  Columbia  and  Saskatchewan.  Canada  communicable 
+disease report= Relevé des maladies transmissibles au Canada, 27(16), 133.
+
+Strawn, L. K., Danyluk, M. D., Worobo, R. W., & Wiedmann, M. (2014). Distributions of Salmonella 
+subtypes  differ  between  two  US  produce-growing  regions.  Applied  and  environmental 
+microbiology, 80(13), 3982-3991.
+
+Sundin,  G.  W.  (2002).  Distinct  recent  lineages  of  the  strA-strB  streptomycin-resistance  genes  in 
+
+clinical and environmental bacteria. Current microbiology, 45(1), 63-69.
+
+Takkinen, J., Nakari, U., Johansson, T., Niskanen, T., Siitonen, A., & Kuusi, M. (2005). A nationwide 
+outbreak  of  multiresistant  Salmonella  Typhimurium  var  Copenhagen  DT104B  infection  in 
+Finland due to contaminated lettuce from Spain, May 2005. Euro Surveill, 10(6), E050630.
+
+Thong, K. L., & Modarressi, S. (2011). Antimicrobial resistant genes associated with Salmonella from 
+
+retail meats and street foods. Food Research International, 44(9), 2641-2646.
+
+666
+667
+668
+669
+670
+671
+672
+673
+674
+675
+676
+677
+678
+679
+680
+681
+682
+683
+684
+685
+686
+687
+688
+689
+690
+691
+692
+693
+694
+695
+696
+697
+698
+699
+700
+701
+702
+703
+704
+705
+706
+707
+708
+709
+710
+711
+712
+713
+714
+715
+716
+
+23
+
+ACCEPTED MANUSCRIPTThong, K. L., Ngoi, S. T., Chai, L. C., & Teh, C. S. J. (2016). Quinolone resistance mechanisms among 
+
+Salmonella enterica in Malaysia. Microbial Drug Resistance, 22(4), 259-272.
+
+Usera, M. A., Aladuena, A., Gonzalez, R., De la Fuente, M., Garcia-Pena, J., Frias, N., & Echeita, M. 
+A. (2002). Antibiotic resistance of Salmonella spp. from animal sources in Spain in 1996 and 
+2000. Journal of food protection, 65(5), 768-773.
+
+Van Belkum, A., Tassios, P., Dijkshoorn, L., Haeggman, S., Cookson, B., Fry, N., Fussing, V., Green, J., 
+Feil,  E.,  &  Gerner-Smidt,  P.  (2007).  Guidelines  for  the  validation  and  application  of  typing 
+methods for use in bacterial epidemiology. Clinical Microbiology and Infection, 13(s3), 1-46.
+
+Van, T. T. H., Moutafis, G., Istivan, T., Tran, L. T., & Coloe, P. J. (2007). Detection of Salmonella spp. in 
+retail  raw  food  samples  from  Vietnam  and  characterization  of  their  antibiotic  resistance. 
+Applied and environmental microbiology, 73(21), 6885-6890.
+
+Trongjit, S., Angkititrakul, S., Tuttle, R. E., Poungseree, J., Padungtod, P., & Chuanchuen, R. (2017). 
+Prevalence  and  antimicrobial  resistance  in  Salmonella  enterica  isolated  from  broiler 
+chickens, pigs and meat products in the Thailand-Cambodia border provinces. Microbiology 
+and Immunology.
+
+Van,  T.  T.  H.,  Nguyen,  H.  N.  K.,  Smooker,  P.  M.,  &  Coloe,  P.J  (2012).  The  antibiotic  resistance 
+characteristics of non-typhoidal Salmonella enterica isolated from food-producing animals, 
+retail  meat  and  humans  in  South  East  Asia.  International  Journal  of  Food  Microbiology, 
+154(3), 98-106. 
+
+717
+718
+719
+720
+721
+722
+723
+724
+725
+726
+727
+728
+729
+730
+731
+732
+733
+734
+735
+736
+737
+738
+739
+740
+741
+742
+743
+744
+745
+746 Wain, J., & Kidgell, C. (2004). The emergence of multidrug resistance to antimicrobial agents for the 
+747
+treatment  of  typhoid  fever.  Transactions  of  the  Royal  Society  of  Tropical  Medicine  and 
+Hygiene, 98(7), 423-430.
+748
+749
+750 Weill, F.-X., Fabre, L., Grandry, B., Grimont, P. A., & Casin, I. (2005). Multiple-antibiotic resistance in 
+751
+Salmonella  enterica  serotype  Paratyphi  B  isolates  collected  in  France  between  2000  and 
+2003  is  due  mainly  to  strains  harboring  Salmonella  genomic  islands  1,  1-B,  and  1-C. 
+752
+753
+Antimicrobial agents and chemotherapy, 49(7), 2793-2801.
+754
+755 White, D. G., Zhao, S., Sudler, R., Ayers, S., Friedman, S., Chen, S., McDermott, P. F., McDermott, S., 
+Wagner, D. D., & Meng, J. (2001). The isolation of antibiotic-resistant Salmonella from retail 
+756
+757
+ground meats. New England journal of medicine, 345(16), 1147-1154.
+758
+759
+760
+761
+762
+763
+764
+765
+766
+767
+768
+
+Yoke-Kqueen, C., Learn-Han, L., Noorzaleha, A., Son, R., Sabrina, S., Jiun-Horng, S., & Chai-Hoon, K. 
+(2008).  Characterization  of  multiple-antimicrobial-resistant  Salmonella  enterica  subsp. 
+enterica  isolated  from  indigenous  vegetables  and  poultry  in  Malaysia.  Letters  in  applied 
+microbiology, 46(3), 318-324.
+
+Villa-Rojas, R., Zhu, M.-J., Paul, N. C., Gray, P., Xu, J., Shah, D. H., & Tang, J. (2017). Biofilm forming 
+Salmonella  strains  exhibit  enhanced  thermal  resistance  in  wheat  flour.  Food  Control,  73, 
+689-695.
+
+Zhao, S., White, D., Friedman, S., Glenn, A., Blickenstaff, K., Ayers, S., Abbott, J., Hall-Robinson, E., & 
+McDermott,  P.  (2008).  Antimicrobial  resistance  in  Salmonella  enterica  serovar  Heidelberg 
+
+Yasin, R. M., Jegathesan, M., & Tiew, C. C. (1997). Salmonella serotypes isolated in Malaysia over the 
+
+ten-year period 1983-1992. Asia-Pacific Journal of Public Health, 9(1), 1-5.
+
+24
+
+ACCEPTED MANUSCRIPT769
+770
+
+isolates from retail meats, including poultry, from 2002 to 2006. Applied and environmental 
+microbiology, 74(21), 6656-6662.
+
+25
+
+ACCEPTED MANUSCRIPT       Highlights
+
+
+
+
+
+
+
+
+
+
+
+The overall prevalence of Salmonella spp. was 29.1% (187/642) for all samples.
+
+A total of 187 Salmonella isolates belonging to 37 different serovars were isolated.
+
+Approximately 55% of the Salmonella spp. isolates were multidrug resistant.
+
+Eleven different resistance genes were detected in antibiotic resistant isolates.
+
+Class 1 integrons with variable gene cassettes were detected.
+
+ACCEPTED MANUSCRIPT1
+2
+3
+
+Table 1
+Primer sequences, PRC conditions and source of primers for amplification of antimicrobial resistance genes use for the study
+
+Genes
+
+Primers sequence (5`to3`)
+
+PCR conditions
+
+tet A
+
+tet B
+
+tetC
+
+tet G
+
+str A
+
+str B
+
+aadA
+
+sul1
+
+sul 2
+
+blaTM1
+
+temA
+
+temB
+
+cmlA
+
+cat1
+
+ca2
+
+floR
+
+F-GTAATTCTGAGCACTGTCG
+R-CTGCCTGGACAACATTGCTT  
+F-CTCAGTATTCCAAGCCTTTG
+R-ACTCCCCTGAGCTTGAGGGG 
+F-GGTTGAAGGCTCTCAAGGGC
+R-CCTCTTGCGGGAATCGTCC
+F-GCAGCGAAAGCGTATTTGCG
+R-TCCGAAAGCTGTCCAAGCAT
+F-CCAATCGCAGATAGAAGGC 
+R-ATCGTCAAGGGATTGAAACC 
+F-ATCGTCAAGGGATTGAAACC
+R-GGATCGTAGAACATATTGGC 
+F-ATCCTTCGGCGCGATTTTG
+R-GCAGCGCAATGACATTCTTG
+TCA CCG AGG ACT CCT TCT TC
+CAG TCC GCC TCA GCA ATA TC
+F-GCGCTCAAGGCAGATGGCAT 
+R-GCGTTTGATACCGGCACCCT 
+F-ACCAATGCTTAATCAGTGAG 
+R-ACCAATGCTTAATCAGTGAG
+F-ATGAGTATTCAACATTTCCG
+R-CTGACAGTTACCAATGCTTA
+F-TTTTCGTGTCGCCCTTATTCC
+R-CGTTCATCCATAGTTGCCTGACTC
+F-CGCCACGGTGTTGTTGTTAT 
+R-GCGACCTGCGTAAATGTCAC 
+F-CTTGTCGCCTTGCGTATAAT 
+R-AACGGCATGATGAACCTGA 
+F-AACGGCATGATGAACCTGAA
+R-ATCCCAATGGCTCGTAAAG 
+F-CTGAGGGTGTCGTCATCTAC
+R-GCTCCGACAATGCTGACTAT
+
+3 min at 94 °C; 30 cycles of 30 s at 94 °C, 30 s at 62 °C and 1 min at 72 °C; 
+7 min at 72 °C
+3 min at 94 °C; 30 cycles of 30 s at 94 °C, 30 s at 62 °C and 1 min at 72 °C; 
+7 min at 72 °C
+3 min at 94 °C; 30 cycles of 30 s at 94 °C, 30 s at 62 °C and 1 min at 72 °C; 
+7 min at 72 °C
+3 min at 94 °C; 30 cycles of 30 s at 94 °C, 30 s at 62 °C and 1 min at 72 °C; 
+7 min at 72 °C
+3 min at 94 °C; 30 cycles of 30 s at 94 °C, 30 s at 53 °C and 1 min at 72 °C; 
+7 min at 72 °C
+3 min at 94 °C; 30 cycles of 30 s at 94 °C, 30 s at 53 °C and 1 min at 72 °C; 
+7 min at 72 °C
+3 min at 94 °C; 30 cycles of 30 s at 94 °C, 30 s at 62 °C and 1 min at 72 °C; 
+7 min at 72 °C
+3 min at 94 °C; 30 cycles of 30 s at 94 °C, 30 s at 53 °C and 1 min at 72 °C; 
+7 min at 72 °C
+3 min at 94 °C; 30 cycles of 30 s at 94 °C, 30 s at 53 °C and 1 min at 72 °C; 
+7 min at 72 °C
+3 min at 94 °C; 35 cycles of 1 min at 94 C, 1 min. at 50 °C and 1 min at 72 
+°C; 10 min at 72 °C
+3 min at 94 °C; 30 cycles of 30 s at 94 °C, 30 s at 62°C and 1 min at 72 °C; 
+7 min at 72 °C
+3 min at 94 °C; 30 cycles of 30 s at 94 °C, 30 s at 62°C and 1 min at 72 °C; 
+7 min at 72 °C
+10 min at 95 °C; 30 cycles of 30 s at 95 °C, 1 min at 55 °C and 1 min at 72 
+°C; 7 min 72 °C
+10 min at 95 °C; 30 cycles of 30 s at 95 °C, 1 min at 55 °C and 1 min at 72 
+°C; 7 min 72 °C
+10 min at 95 °C; 30 cycles of 30 s at 95 °C, 1 min at 55 °C and 1 min at 72 
+°C; 7 min 72 °C
+10 min at 95 °C; 30 cycles of 30 s at 95 °C, 1 min at 55 °C and 1 min at 72 
+°C; 7 min 72 °C
+
+Product 
+Size            
+957bp 
+
+414bp 
+
+505bp
+
+662bp
+
+548bp 
+
+507bp 
+
+282bp
+
+435bp
+
+293bp 
+
+857bp 
+
+867bp
+
+798bp
+
+393bp 
+
+508bp 
+
+547 bp
+
+673 bp
+
+Reference
+
+Aarestrup et al., (2003)
+
+Aarestrup et al., (2003)
+
+Aarestrup et al., (2003)
+
+Aarestrup et al., (2003)
+
+Aarestrup et al., (2003)
+
+Gebreyes and Altiers (2002)
+
+Aarestrupet al., (2003)
+
+Aarestrup et al., (2003)
+
+Aarestrup et al., (2003)
+
+Oslen et al., (2004)
+
+Oliver et al., (2002)
+
+Wain et al., (2003)
+
+Chen et al., (2004)
+
+Chen et al., (2004) 
+
+Chen et al., (2004)
+
+Chen et al., (2004)
+
+1
+
+ACCEPTED MANUSCRIPT5
+6
+7
+8
+
+9
+10
+11
+12
+13
+14
+
+Table 2
+Prevalence of Salmonella species from vegetables, chicken carcasses and related processing 
+environments in Malaysian fresh food markets.
+
+Samples
+
+Chicken
+
+Chicken cuts
+Whole chicken
+Total
+
+Environment
+
+Display table
+Chopping board
+Wash water
+Drain water
+Butcher apron
+Knife
+Transport crate
+Floor
+Scalding tank
+Defeathering machine
+Cage
+Drain crevices
+Bench water
+Drum
+Total
+
+Vegetables
+
+Amaranth green
+Amaranth red
+Bean sprouts
+Coriander
+Water spinach
+Winged bean
+Laksa leaves
+Iceberg lettuce
+Mint
+Spring Onion
+Indian pennywort
+Wild parsley
+Lettuce salad
+Chinese f. Cabbage
+Sweet basil
+Japanese parsley
+Total
+Overall
+
+No. of Samples   
+tested
+
+No. of positive 
+samples
+
+% Prevalence
+
+50.0
+47.0
+48.0
+
+50.0
+53.0
+53.0
+76.0
+43.0
+40.0
+8.00
+67.0
+20.0
+15.0
+25.0
+40.0
+11.0
+38.0
+41.0
+
+27.0
+28.0
+28.0
+52.0
+31.0
+20.0
+15.4
+8.0
+12.0
+4.0
+24.0
+24.0
+32.0
+11.5
+8.0
+16.0
+21.5
+29.1
+
+18
+17
+35
+
+20
+17
+15
+17
+14
+15
+13
+15
+15
+13
+16
+10
+9
+13
+202
+
+26
+25
+25
+25
+26
+25
+26
+25
+25
+25
+25
+25
+25
+26
+26
+25
+405
+642
+
+9
+8
+17
+
+10
+9
+8
+13
+6
+6
+1
+10
+3
+3
+4
+4
+1
+5
+83
+
+7
+6
+7
+13
+8
+5
+4
+2
+3
+1
+6
+6
+8
+4
+2
+5
+87
+187
+
+2
+
+ACCEPTED MANUSCRIPT15
+16
+17
+18
+
+19
+20
+21
+22
+23
+24
+25
+26
+
+Table 3
+Salmonella serovars isolated from vegetables, chicken carcasses and related processing 
+environments in Malaysian fresh food markets 
+
+Serovar
+S. Aberdeen
+S. Albany
+S. Augustenborg
+S. Bareilly
+S. Braenderup
+S. Brancaster
+S. Cerrot
+S. Corvallis
+S. Djugu
+S. Duessedorlf
+S. Dumfries
+S. Enteritidis
+S. Gaminara
+S. Give
+S. Haifa
+S. Hvittingfoss
+S. Indiana
+S. Kastrup
+S. Kentucky
+S. Lindenburg
+S. Mbandaka
+S. Minnesota
+S. Mkamba
+S. Molade
+S. Newport
+S. Paratyphi B
+S. Planckendael
+S. Obugu
+S. Ohio
+S. Redhill
+S. Richmond
+S. Salamae serovar 
+II,19,12,Iv,z39
+S. Stanley
+S. Tudu
+S. Typhimurium
+S. Wandsworth
+S. Weltevredent
+
+Environment
+-
+8
+-
+-
+-
+18
+-
+33
+-
+2
+-
+-
+1
+2
+1
+1
+4
+-
+-
+1
+2
+-
+1
+1
+-
+1
+-
+-
+-
+-
+-
+-
+
+1
+1
+1
+1
+3
+
+Total (%)
+4 (2.1)
+15 (8.0)
+4 (2.1)
+1 (0.53)
+3 (1.6)
+28 (14.9)
+1 (0.53)
+49 (26.2)
+1(0.53)
+2 (1.1)
+2 (1.1)
+4 (2.2)
+1(0.53)
+3 (1.6)
+1(0.53)
+6 (3.2)
+5 (2.7)
+1(0.53)
+1(0.53)
+1(0.53)
+4 (2.1)
+1(0.53)
+1(0.53)
+1(0.53)
+2 (1.0)
+6 (3.2)
+2 (1.1)
+1(0.53)
+1(0.53)
+3 (1.6)
+4 (2.1)
+1(0.53)
+
+2 (1.1)
+1(0.53)
+6 (3.2)
+1(0.53)
+17 (9.1)
+
+Vegetable
+4
+4
+4
+1
+3
+5
+1
+9
+1
+-
+2
+4
+-
+-
+-
+5
+-
+1
+1
+-
+2
+1
+-
+-
+2
+5
+2
+1
+1
+3
+4
+1
+
+1
+-
+5
+-
+14
+
+Chicken
+-
+3
+-
+-
+-
+5
+-
+7
+-
+-
+-
+-
+-
+1
+-
+-
+1
+-
+-
+-
+-
+-
+-
+-
+
+-
+-
+-
+-
+
+-
+-
+
+-
+-
+-
+-
+-
+
+3
+
+ACCEPTED MANUSCRIPTTable 4
+Antimicrobial resistance of Salmonella serovars from vegetables, chicken carcasses and related 
+processing environments in Malaysian fresh food markets
+
+Chicken
+   (n=17) 
+resistant (%)
+6 (35.3)
+0 (0)
+1 (5.9)
+6 (35.3)
+8 (47.0)
+1 (5.9)
+12 (70.6)
+3 (17.6)
+9 (53.0)
+6 (35.3)
+6 (35.3)
+0 (0)
+2 (17.8)
+0 (0)
+12 (70.6)
+
+Environment
+    (n=83) 
+resistant (%)
+32 (38.5)
+4  (4.8)
+6 (7.2)
+26 (31.3)
+58 (69.8)
+3 (3.6)
+73 (84.9)
+8 (9.6)
+52 (62.6)
+21 (25.3)
+16 (19.3)
+0 (0)
+2 (2.4)
+9 (10.8)
+72 (86.7)
+
+Total (n=187) 
+(%)
+
+50 (26.7)
+4 (2.1)
+9 (4.8)
+41(21.9)
+83 (44.3) 
+6 (3.2)
+117 (62.6)
+21 (11.2)
+83 (44.3)
+31 (16.6)
+24 (12.8)
+0 (0)
+19 (10.1)
+15 (8.0
+103 (55.1)
+
+Antimicrobials
+
+Ampicillin
+Amoxicillin–clavulanate
+Cephalothin
+Chloramphenicol
+Tetracycline
+ Gentamycin
+Streptomycin
+Kanamycin
+Sulfonamides
+Trimethoprim–sulphamethoxazole
+ Nalidixic acid
+Ciprofloxacin
+Resistance to 1 Antimicrobial
+Resistance to 2 Antimicrobial
+Resistance to ≥ 3 Antimicrobial
+
+n= total number of isolates
+
+Vegetable
+    (n=87) 
+resistant (%)
+12 (13.8)
+0 (0)
+2 (2.3)
+9 (10.3)
+17 (19.5)
+2 (2.3)
+32 (36.8)
+10 (11.5)
+22 (25.3)
+4 (4.6)
+2 (2.3)
+0 (0)
+15 (17.2)
+6 (6.9)
+19 (21.8)
+
+27
+28
+29
+
+30
+
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+
+4
+
+ACCEPTED MANUSCRIPT54
+55
+
+Table 5
+Antibiotic resistance profile, sources and multiple antibiotic resistance (MAR) indexes of individual Salmonella serovars obtained in this study
+
+Name of serovar
+Aberdeen
+Albany
+
+Augustenborg
+Brancaster
+Brancaster
+
+Antibiotic-resistant profile
+SS₃
+Ste
+SS₃
+AmpCNaSSxt
+AmpNaSSxtTeS₃
+AmpCNaSSxtTeS₃
+AmpCKNaSTeS₃
+AmpKfCNaSSxtS₃
+AmpCKNaSSxtTeS₃
+AmpKfCNaSSxtTeAmc
+AmpKfCKNaSTeS₃
+AmpKfCKNaSSxtTeS₃Amc
+K
+S
+AmpC
+Ste
+AmpKfS
+NaSTe
+AmpCS
+AmPCK
+CKSxt
+AmpSTe
+AmpCKTe
+AmpCSTe
+CKSSxtTe
+AmpCSSxtTe
+AmpCSTeS₃
+AmpCCnSTeS₃
+AmpCSSxtTeS₃
+
+No. of isolates
+1
+1
+2
+1
+1
+1
+2
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+2
+1
+2
+1
+2
+3
+1
+1
+1
+1
+1
+
+5
+
+Source
+Vegetable
+Vegetable
+Vegetable, Environment
+Chicken
+Chicken
+Environment
+Environment
+Chicken
+Environment
+Environment
+Vegetable
+Environment
+Vegetable
+Vegetable
+Environment
+Environment
+Environment
+Chicken
+Environment
+Vegetable
+Environments
+Environment
+Vegetable
+Environment
+Vegetable
+Environment
+Environment
+Chicken
+Environment
+
+MAR index
+0.16
+0.16
+0.16
+0.41
+0.5
+0.58
+0.58
+0.58
+0.66
+0.66
+0.66
+0.83
+0.08
+0.08
+0.16
+0.16
+0.25
+0.25
+0.25
+0,25
+0.25
+0.25
+0.33
+0.33
+0.41
+0.41
+0.41
+0.41
+0.5
+
+ACCEPTED MANUSCRIPTCorvallis
+
+Djugu
+Duessedorlf
+
+Dumfries
+Enteritidis
+
+Give
+
+Hvittingfoss
+
+Indiana
+
+Kentucky
+Lindenburg
+Mbandaka
+
+AmpCSSxtTeS₃
+AmpCKSSxtS₃
+AmpCKSSxtTe
+AmpCKSSxtTeS₃
+Na
+S
+SS₃
+KTeS₃
+STeS₃
+
+KSTeS₃
+AmpSTeS₃
+NaSSxtS₃
+STeS₃
+AmpKfSSxtTeAmc
+AmpCNaSSxtS₃
+AmpKSSxTS₃
+S
+S₃
+AmpCCnKNaSSxt
+AmpCNaSSxtTeS3
+AmpCCnNaSSxtTeS3
+Te
+Ste
+SS₃ 
+S₃
+S, Te, 
+AmpSTe
+AmpCnSTeS₃
+STe S₃
+CnS
+Na
+STe S₃
+
+1
+1
+2
+3
+1
+1
+2
+1
+28
+
+1
+2
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+3
+1
+1
+1
+1
+1
+2
+
+6
+
+Environment
+Environment
+Vegetable
+Chicken, Environment (2)
+Chicken
+Vegetable
+Chicken
+Environment
+Vegetable (4), Environment (19), 
+Chicken (5)
+Environment
+Vegetable
+Environment
+Vegetable
+Environment
+Environment
+Vegetable
+Vegetable
+Vegetable
+Environment
+Environment
+Environment
+Vegetable
+Vegetable
+Vegetable
+Environment
+Environment (2) Chicken
+Environment
+Vegetable
+Environment
+Vegetable
+Environment
+Environment, Vegetable
+
+0.5
+0.5
+0.5
+0.58
+0.08
+0.08
+0.16
+0.25
+0.25
+
+0.33
+0.33
+0.33
+0,25
+0.5
+0.5
+0.41
+0.08
+0.08
+0.58
+0.58
+0.66
+0.03
+0.16
+0.16
+0.08
+0.16
+0.25
+0.41
+0.25
+0.16
+
+0.25
+
+ACCEPTED MANUSCRIPT56
+
+57
+
+58
+
+59
+
+60
+
+61
+
+62
+
+63
+
+64
+
+65
+66
+67
+68
+
+Molade
+Newport
+Paratyphi B
+
+Richmond
+Salamae serovar 
+II,19,12,Iv,z39
+Stanley
+
+Typhimurium
+
+Tudu
+Weltevreden
+
+AmpCSSxtTe
+S₃
+Na
+AmpCSS₃
+S
+S
+
+S
+AmpCSTeSxt
+Te
+STeS₃
+AmpCSTe S₃
+Te
+S
+NaS
+CSS₃
+AmpCKNaSSxtTeS S₃
+
+1
+1
+1
+1
+2
+1
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+Environment
+Vegetable
+Vegetable
+Vegetable
+Vegetable
+Vegetable
+
+Vegetable
+Environment
+Vegetable
+Vegetable
+Environment
+Environment
+Vegetable
+Environment
+Vegetable
+Environment
+
+0.41
+0.08
+0.08
+0.33
+0.08
+0.08
+
+0.08
+0.41
+0.08
+0.25
+0.41
+0.08
+0.16
+0.25
+0.25
+0.66
+
+Amp (Ampicillin), Kf (Cephalothin), Cip (Ciprofloxacin), C (Chloramphenicol), CN (Gentamycin), K (Kanamycin), Na (Nalidixic acid), 
+S  (Streptomycin),  Sxt  (Sulphamethoxazole/  trimethoprim  19:1),  Te  (Tetracyclin),  S₃  (Compound  sulfonamides),  Amc  (Amoxicillin/clavulanic  acid)
+
+7
+
+ACCEPTED MANUSCRIPT69
+
+70
+71
+72
+73
+
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+
+Table 6
+Distribution of antibiotic resistance genes among Salmonella serovars from vegetables, chicken 
+carcasses and related processing environments in Malaysian fresh food markets
+
+Antimicrobial 
+resistance
+Ampicillin 
+
+No. of  resistant 
+isolates
+50
+
+Chloramphenicol
+
+41
+
+Sulphonamides
+
+83
+
+Streptomycin
+
+Tetracycline
+
+117
+
+83
+
+Genes detected
+
+blaTEM/ temB
+temB
+
+floR
+cmlA
+floR/ cmlA
+
+Sul1/Sul2
+Sul1
+Sul2
+strA/strB
+aadA
+strA/strB/aadA
+tetA
+tetA/tetB
+
+No. of 
+isolates
+36 
+14
+
+24
+8
+4
+
+5
+7
+47
+38
+32
+14
+76
+3
+
+8
+
+ACCEPTED MANUSCRIPT101
+102
+103
+104
+105
+106
+
+107
+108
+109
+110
+
+Tables 7
+Distribution of class 1 integron in antibiotic resistance Salmonella serovars from vegetables, chicken 
+carcasses and related processing environments in Malaysian fresh food markets
+
+Integron
+
+Size (Kb)
+0.3
+0.3, 1.2
+1.5
+0.3, 1.0
+0.5
+
+Profile (IP)
+IP-1
+IP-2
+IP-3
+IP-4
+IP-5
+n= total isolates that are carrying class 1 integron
+
+Genes cassettes
+dfrA1, dfrA12
+dfrA12-orf-aadA2
+dfrA12
+aadA2-blaPSE−1
+dfrA12
+
+No. of isolates (n=17)
+
+Percentage profile
+
+5
+2
+3
+3
+4
+
+29.4
+11.8
+17.6
+17.6
+23.5
+
+9
+
+ACCEPTED MANUSCRIPT

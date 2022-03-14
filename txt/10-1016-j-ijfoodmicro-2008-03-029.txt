@@ -1,0 +1,1840 @@
+International Journal of Food Microbiology 124 (2008) 217–223
+
+Contents lists available at ScienceDirect
+
+International Journal of Food Microbiology
+
+j o u r n a l ho m e p a g e : w w w. e l s ev i e r. c o m / l o c a t e / i j fo o dm i c r o
+
+Safety of raw meat and shellﬁsh in Vietnam: An analysis of Escherichia coli isolations
+for antibiotic resistance and virulence genes
+Thi Thu Hao Van a, James Chin b, Toni Chapman b, Linh Thuoc Tran c, Peter J. Coloe a,⁎
+a Biotechnology and Environmental Biology, School of Applied Sciences, RMIT University, Bundoora West Campus, Bundoora, Melbourne, VIC 3083, Australia
+b Immunology and Molecular Diagnostic Research Unit, Elizabeth Macarthur Agriculture Institute, New South Wales Department of Primary Industries, NSW 2568, Australia
+c Faculty of Biology, University of Natural Sciences, Vietnam National University Ho Chi Minh City, Ho Chi Minh City, Vietnam
+
+A R T I C L E
+
+I N F O
+
+A B S T R A C T
+
+Article history:
+Received 6 August 2007
+Received in revised form 6 February 2008
+Accepted 24 March 2008
+
+Keywords:
+Escherichia coli
+Escherichia coli
+Food
+Antibiotic resistance
+Resistance gene
+Virulence gene
+
+This study was conducted to examine a current baseline proﬁle of antimicrobial resistance and virulence of
+Escherichia coli isolated from foods commonly sold in the market place in Vietnam. E. coli were isolated from
+180 samples of raw meat, poultry and shellﬁsh and also isolated from 43 chicken faeces samples. Ninety-nine
+E. coli isolates recovered from all sources were selected for the investigation of their susceptibility to 15
+antimicrobial agents by the disk diffusion method. Eighty-four percent of the isolates were resistant to one or
+more antibiotics, and multi-resistance, deﬁned as resistance to at least 3 different classes of antibiotics, was
+detected in all sources. The rates of multi-resistance were up to 89.5% in chicken, 95% in chicken faeces and
+75% in pork isolates. Resistance was most frequently observed to tetracycline (77.8%), sulfafurazole (60.6%),
+ampicillin (50.5%), amoxicillin (50.5%), trimethoprim (51.5%), chloramphenicol (43.4%), streptomycin (39.4%),
+nalidixic acid (34.3%) and gentamicin (24.2%).
+In addition, the isolates also displayed resistance to
+ﬂuoroquinolones (ciproﬂoxacin 16.2%, norﬂoxacin 17.2%, and enroﬂoxacin 21.2%), with chicken isolates
+showing the highest rates of resistance to these antibiotics (52.6–63.2%). Thirty-eight multi-resistant isolates
+were selected for further the examination of antibiotic resistance genes and were also evaluated for virulence
+gene proﬁles by multiplex and uniplex polymerase chain reaction. The beta-lactam TEM gene and
+tetracycline resistance tetA, tetB genes were frequently detected in the tested isolates (84.2% and 89.5%
+respectively). Genes which are responsible for resistance to streptomycin (aadA) (68.4%), chloramphenicol
+(cmlA) (42.1%), sulfonamides (sulI) (39.5%), trimethoprim (dhfrV) (26.3%) and kanamycin (aphA-1) (23.7%)
+were also widely distributed. Plasmid-mediated ampC genes were detected in E. coli isolates from chicken
+and pork. The isolates were tested for the presence of 58 virulence genes for adhesins, toxins, capsule
+synthesis, siderophores, invasins and others from different E. coli pathotypes. All of the tested isolates
+contained at least one virulence gene and there were 16 genes detected. Virulence genes detected were ﬁmH
+(92.1%), bmaE (84.2%), TSPE4.C2 (42.1%), aidA AIDA-I (orfB) (31.6%), east1 (26.3%), traT (23.7%), and others
+including fyuA, iutA, chuA, yjaA, iss, iroNE. coli, ibeA, aah (orfA), iha and papG allele III (10.5–2.6%). Typical
+toxin genes produced by enterohemorrhagic and enterotoxigenic E. coli pathotypes (a heat-stable toxin (ST),
+heat-labile toxin (LT) and Shiga toxin stx1, stx2) were not detected in any of these 38 isolates. The study has
+revealed that E. coli in raw foods is a signiﬁcant reservoir of resistance and virulence genes.
+
+© 2008 Elsevier B.V. All rights reserved.
+
+1. Introduction
+
+Foodborne diseases due primarily to bacteria, viruses, parasites,
+and chemicals are an important cause of morbidity and mortality
+worldwide. Bacteria are probably the most common cause of illness
+(Mead et al., 1999; Lindqvist et al., 2000; Adak et al., 2002; Su et al.,
+2005; Lynch et al., 2006). Foodborne bacteria infections with
+diarrhoea symptoms are usually self limiting. However, systemic
+
+⁎ Corresponding author. School of Applied Sciences, RMIT University, Building 3,
+Level 1, Room 2, City Campus, Melbourne, Victoria 3001, Australia. Tel.: +61 3 9925 3691;
+fax: +61 3 9925 3747.
+
+E-mail address: pcoloe@rmit.edu.au (P.J. Coloe).
+
+0168-1605/$ – see front matter © 2008 Elsevier B.V. All rights reserved.
+doi:10.1016/j.ijfoodmicro.2008.03.029
+
+infection and ensuing death can occur, particularly in vulnerable
+groups with diminished immunity such as the elderly, infants and
+young children (Mead et al., 1999; Meng and Doyle, 2002; Kennedy et
+al., 2004). Treatment options for foodborne gastroenteritis may
+require ﬂuid and electrolyte replacement and antibiotics are usually
+prescribed in severe cases (Nataro and Kaper, 1998; Hohmann, 2001;
+Huang et al., 2006).
+
+Foods contaminated with antibiotic resistant bacteria could be a
+major threat to public health as there is the distinct possibility that
+genes encoding antibiotic resistance determinants that are carried on
+mobile genetic elements may be transferred to other bacteria of
+human clinical signiﬁcance. E. coli is a candidate vehicle for such
+transfers because of its diversity and also because it survives as
+
+218
+
+T.T.H. Van et al. / International Journal of Food Microbiology 124 (2008) 217–223
+
+common ﬂora in the gastrointestinal tracts of both humans and
+animals. They are sensitive to selection pressure exerted by antibiotic
+usage and carry genetic mobile elements to achieve such transmission
+(Van den Bogaard and Stobberingh, 2000). Although the carriage of
+antibiotic resistance genes is not conﬁned to commensal E. coli in the
+face of antibiotic selection, the capacity to threaten human consumers
+is signiﬁcantly enhanced if foodborne strains carried virulence genes
+that qualiﬁed them as potential human pathogens (Orskov and
+Orskov, 1992; Schroeder et al., 2004).
+
+Diarrhoeagenic E. coli strains are categorised into speciﬁc groups
+based on virulence properties, mechanisms of pathogenicity, clinical
+syndromes, and distinct O:H serotypes (Meng et al., 2001). The six
+main categories include enteropathogenic E. coli (EPEC), enterotoxi-
+genic E. coli (ETEC), enteroinvasive E. coli (EIEC), enteroaggregative E.
+coli (EAEC), enterohemorrhagic E. coli (EHEC or STEC), diffuse-
+adhering E. coli (DAEC) (Nataro and Kaper, 1998). There are regional
+differences in the prevalence of the different diarrhoeagenic E. coli
+categories (Albert et al., 1995; Ratchtrachenchai et al., 2004; Nguyen
+et al., 2006). Amongst all of these different pathotypes, faecal STEC
+contamination of raw meats and poultry represent the most
+commonly reported food safety problems (Guth et al., 2003; Conedera
+et al., 2004; Carney et al., 2006; Samadpour et al., 2006). In contrast to
+diarrhoeagenic E. coli, extra-intestinal pathogenic E. coli (ExPEC)
+strains are incapable of causing enteric disease but responsible for
+most extra-intestinal infections (Kuhnert et al., 2000; Russo and
+Johnson, 2000; Johnson and Russo, 2002; Bekal et al., 2003).
+
+Like in many other developing countries, raw food hygiene and
+antimicrobial resistance epidemiology is at its infancy in Vietnam. In
+addition, the lack of stringent controls on antimicrobial usage in
+human health and particularly in animal production systems increases
+the risk of foodborne microbes harbouring an array of resistance
+genes. This study was conducted to address some of these issues and
+to provide a current baseline proﬁle of antimicrobial resistance and
+virulence of E. coli isolated from foods commonly sold in the market
+place in Vietnam. The strategy was to compare E. coli susceptibility to
+15 antibiotics and the prevalence of corresponding genes encoding
+these resistances. The pathogenic potential of E. coli isolates based on
+their virulence gene proﬁles was also determined.
+
+2. Materials and methods
+
+2.1. E. coli isolation and identiﬁcation
+
+One hundred and eighty samples of meat comprising beef (n =50),
+chicken/poultry (n =30), pork (n =50) and shellﬁsh (n=50) were
+purchased from various markets and supermarkets around Ho Chi
+Minh City between February and June 2004 for the isolation and
+identiﬁcation of E. coli. Forty-three samples from chicken faeces were
+also collected from two chicken farms, chickens less than 1 month old.
+The procedures for isolation of E. coli were based on the Nordic
+Committee on Food Analysis method (NMKL, 1996).
+
+2.2. Antibiotic susceptibility tests
+
+Ninety-nine E. coli isolates from different sources (pork (n=20), beef
+(n=20), chicken (n=19), chicken faeces (n=20), shellﬁsh (n=20)) were
+randomly selected from the E. coli collection for antibiotic susceptibility
+test to 15 antibiotics by the disk diffusion method on Mueller-Hinton
+agar plates, only one E. coli isolate was selected from one food sample.
+The standard procedure of the Clinical and Laboratory Standards
+Institute (CLSI, formerly NCCLS) (NCCLS, 2004) were strictly followed
+throughout the testing procedure. Quality control strains E. coli ATCC
+25922 and Staphylococcus aureus ATCC 25923 were included in each run.
+The concentration of the discs (Oxoid, Australia) and abbreviation of
+antimicrobial agents which were used throughout this paper are:
+ampicillin (AMP) 10 µg, amoxicillin (AMX) 10 µg, amoxicillin/clavulanic
+
+acid (AMC) 30 µg, cephalothin (CEF) 30 µg, chloramphenicol (CHL) 30 µg,
+ciproﬂoxacin (CIP) 5 µg, enroﬂoxacin (ENR) 5 µg, tetracycline (TET)
+30 µg, gentamicin (GEN) 10 µg, kanamycin (KAN) 30 µg, nalidixic acid
+(NAL) 30 µg, norﬂoxacin (NOR) 10 µg, sulphafurazole (SUL) 300 µg,
+streptomycin (STR) 10 µg, and trimethoprim (TMP) 5 µg. The isolates
+were classiﬁed as susceptible, intermediate, and resistant according to
+the zone diameter interpretative standards recommendations by CLSI
+(2005) and recorded as susceptible, intermediate, or resistant to each
+antibiotic tested.
+
+2.3. Detection of antibiotic resistance and virulence genes
+
+Thirty-eight multi-resistant isolates, which showed the highest
+degree of resistance among the collection, were examined for
+antibiotic resistance and virulence genes. These included E. coli
+isolates from chicken (n=14), beef (n=4), pork (n =8), shellﬁsh (n =5),
+and chicken faeces (n=7). Nineteen of the isolates contained known
+class 1 resistance integrons (Van et al., 2007).
+
+Twenty-two antibiotic resistance genes (ARGs) were screened by
+PCR using a combination of 3 multiplex and 3 uniplex assays. Sets 1 to
+3 were designed to detect sulI, SHV, cat1, dhfrV, ﬂoR, aadA, OXA; TEM,
+cmlA, CITM, ereA, dhfrI, aac(3)-I); and aphA-1, MOXM, DHAM, EBCM,
+aac(3)-IV, FOXM genes respectively. The tetracycline resistance
+genes (tetA, tetB and tetC) were ampliﬁed individually (Table 1). A
+positive and a negative control for each PCR were included. The
+identity of all 22 ARG amplicons have been previously conﬁrmed by
+sequencing (Wu, 2006). PCR reactions for multiplex sets 1–3 were
+performed in a total volume of 25 μl containing 2 μl of Chelex (BioRad)
+extracted DNA with ﬁnal concentrations of 4 mM MgCl2, 10 μM of each
+dNTP (Bioline), 5 μl of each primer pool and 1 U of Hotstart Taq
+(Qiagen). The uniplex (primer sets 4–6) PCR conditions were
+performed in a total volume of 50 μl containing 2 μl of Chelex
+(BioRad) extracted DNA with ﬁnal concentration of 1.5 mM MgCl2,
+2.5 μM of each dNTP (Bioline), 0.5 μl of each primer pair and 1 U of Taq
+polymerase (Bioline). PCR ampliﬁcation was conducted in Palmcyclers
+(Corbett Research) with the following conditions for multiplex sets
+1–3: initial denaturation at 95 °C for 15 min, followed by 30 cycles of
+denaturation at 94 °C for 30 s, annealing at 58 °C for 30 s, and
+extension at 72 °C for 1 min and ﬁnal cycle of ampliﬁcation at 72 °C
+for 10 min. The uniplex PCR ampliﬁcation conditions consisted of
+initial denaturation at 94 °C for 5 min, with 30 cycles of denaturation
+at 94 °C for 30 s, annealing at 50 °C for 30 s, extension at 72 °C for
+1 min and ﬁnal cycle of ampliﬁcation at 72 °C for 10 min. Amplicons
+were visualized by electrophoresis at 80 V, 500 mA for 2.5 h for
+multiplex PCRs and for 1.5 h for uniplex PCRs in 2% agarose gels
+prepared in 0.5×Tris-borate-EDTA (TBE) buffer.
+
+The presence of E. coli virulence genes were examined by PCR
+using primers and PCR conditions as documented by Chapman et al.
+(2006). Twelve sets of multiplex PCRs and six individual PCRs were
+used to detect the presence of 58 virulence genes from E. coli
+pathotypes known to cause intestinal and extra-intestinal disease in
+humans and animals (Table 2).
+
+3. Results and discussion
+
+3.1. Antibiotic resistance phenotypes of E. coli isolates
+
+The results demonstrate the high individual and multiple
+resistance to antibiotics in E. coli and the 99 isolates showed resistance
+to all 15 antibiotics tested (Table 3). Overall, resistance was most
+frequently observed to tetracycline (77.8%), sulphafurazole (60.6%),
+ampicillin/amoxicillin (50.5%), trimethoprim (51.5%), chloramphenicol
+(43.4%), streptomycin (39.4%), nalidixic acid (34.3%) and gentamicin
+(24.2%). E. coli isolates also displayed resistance to ﬂuoroquinolones
+(ciproﬂoxacin 16.2%, norﬂoxacin 17.2%, and enroﬂoxacin 21.2%), in
+which chicken isolates showed the highest rates of resistance to these
+
+T.T.H. Van et al. / International Journal of Food Microbiology 124 (2008) 217–223
+
+219
+
+Table 1
+Summary of 3 multiplex (sets 1–3) and 3 uniplex (sets 4–6) primer sets for the ampliﬁcation of the 22 antimicrobial resistance genes
+
+Primer set
+1
+
+Gene name
+sull
+
+Antimicrobial resistance
+Sulfonamide
+
+SHV
+
+cat1
+
+dhfrV
+
+ﬂoR
+
+aadA
+
+OXA
+
+TEM
+
+cmlA
+
+CITM
+
+ereA
+
+dhfrI
+
+Beta-lactam
+
+Chloramphenicol
+
+Trimethoprim
+
+Florfenicol
+
+Aminoglycoside
+
+Beta-lactam
+
+Beta-lactam
+
+Chloramphenicol
+
+AmpC's
+
+Macrolide
+
+Trimethoprim
+
+aac(3)-I
+
+Aminoglycoside
+
+aphA-1
+
+MOXM
+
+DHAM
+
+EBCM
+
+Aminoglycoside
+
+AmpC's
+
+AmpC's
+
+AmpC's
+
+aac(3)-IV
+
+Aminoglycosides
+
+FOXM
+
+FOXM
+
+tetA
+
+tetB
+
+tetC
+
+Tetracycline
+
+Tetracycline
+
+Tetracycline
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Primers
+sull-F
+sull-R
+blaSHV-F
+blaSHV-R
+CATI-F
+CATI-R
+dhfrV-F
+dhfrV-R
+ﬂoR-F
+ﬂor-R
+aadA-F
+aadA-R
+blaOXA-F
+blaOXA-R
+blaTEM-F
+blaTEM-R
+cmlA-F
+cmlA-R
+CITM-F
+CITM-R
+ere(A)-F
+ere(A)-R
+dhfrI-F
+dhfrI-R
+aac(3)-I-F
+aac(3)-I-R
+aphA-I-F
+aphA-1-R
+mox-1
+mox-2
+DHA-1
+DHA-2
+MR-1
+MR-2
+aac(3)-IV-F
+aac(3)-IV-R
+fox-1
+fox-2
+tet(A)-F
+tet(A)-R
+tet(B)-F
+tet(B)-R
+tet(C)-F
+tet(C)-R
+
+DNA sequence 5' Y 3'
+TTCGGCATTCTGAATCTCAC
+ATGATCTAACCCTCGGTCTC
+TCGCCTGTGTATTATCTCCC
+CGCAGATAAATCACCACAATG
+AGTTGCTCAATGTACCTATAACC
+TTGTAATTCATTAAGCATTCTGCC
+CTGCAAAAGCGAAAAACGG
+AGCAATAGTTAATGTTTGAGCTAAAG
+TATCTCCCTGTCGTTCCAG
+AGAACTCGCCGATCAATG
+TGATTTGCTGGTTACGGTGAC
+CGCTATGTTCTCTTGCTTTTG
+GCAGCGCCAGTGCATCAAC
+CCGCATCAAATGCCATAAGTG
+GAGTATTCAACATTTTCGT
+ACCAATGCTTAATCAGTGA
+CCGCCACGGTGTTGTTGTTATC
+CACCTTGCCTGCCCATCATTAG
+TGGCCAGAACTGACAGGCAAA
+TTTCTCCTGAACGTGGCTGGC
+GCCGGTGCTCATGAACTTGAG
+CGACTCTATTCGATCAGAGGC
+AAGAATGGAGTTATCGGGAATG
+GGGTAAAAACTGGCCTAAAATTG
+ACCTACTCCCAACATCAGCC
+ATATAGATCTCACTACGCGC
+ATGGGCTCGCGATAATGTC
+CTCACCGAGGCAGTTCCAT
+GCTGCTCAAGGAGCACAGGAT
+CACATTGACATAGGTGTGGTGC
+AACTTTCACAGGTGTGCTGGGT
+CCGTACGCATACTGGCTTTGC
+TCGGTAAAGCCGATGTTGCGG
+CTTCCACTGCGGCTGCCAGTT
+CTTCAGGATGGCAAGTTGGT
+TCATCTCGTTCTCCGCTCAT
+AACATGGGGTATCAGGGAGATG
+CAAAGCGCGTAACCGGATTGG
+GTGAAACCCAACATACCCC
+GAAGGCAAGCAGGATGTAG
+CCTTATCATGCCAGTCTTGC
+ACTGCCGTTTTTTCGCC
+ACTTGGAGCCACTATCGAC
+CTACAATCCATGCCAACCC
+
+Ampliﬁed product (bp)
+822
+
+768
+
+547
+
+432
+
+399
+
+284
+
+198
+
+857
+
+698
+
+462
+
+419
+
+391
+
+157
+
+600
+
+520
+
+405
+
+302
+
+286
+
+190
+
+887
+
+773
+
+880
+
+Primer concentration
+0.56 μM
+0.56 μM
+0.56 μM
+0.56 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.56 μM
+0.56 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.56 μM
+0.56 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.28 μM
+0.5 μM
+0.5 μM
+0.5 μM
+0.5 μM
+0.5 μM
+0.5 μM
+
+Forward and reverse primer sequence for each ARG, together with the size of the expected amplicon products are also shown (J. Chin, personal communication, 2006).
+
+antibiotics (52.6–63.2%).
+In contrast to this study, resistance to
+ciproﬂoxacin in E. coli isolates from animal sources was reported as
+either low (Teshager et al., 2000) or non-existent (Meng et al., 1998;
+Klein and Bulte, 2003; Schroeder et al., 2003) in developed countries,
+perhaps due to restricted uses of ﬂuoroquinolones in animal
+husbandry in these countries.
+In a country such as Canada,
+ﬂuoroquinolones are not registered for use in pigs, therefore E. coli
+isolated from this source showed very little resistance to these
+antibiotics (Boerlin et al., 2005). Fluoroquinolones are critically
+important for treating serious infections in humans, and the likelihood
+that resistance to ﬂuoroquinolones in E. coli was induced by the use of
+these antibiotics in food animals is a concern.
+
+The E. coli isolates from chicken and pork showed a greater degree
+of resistance than those from beef, reﬂecting the higher use of
+antibiotics in intensive poultry and pig farming. In addition, E. coli
+isolates from chicken faeces had a similar antibiotic resistance
+distribution to chicken strains, except ﬂuoroquinolone and amox-
+icillin/clavulanic acid, where resistance in chicken isolates was much
+higher. In this study, chicken faeces were collected from very young
+chickens (less than 1 month) whereas chicken meat from the market
+was originated from much older birds. The difference in ages of the
+chickens in our study could explain the different resistance levels as
+older chicken have longer exposure periods to in-feed antibiotics and
+
+therefore a greater possibility of their microbial ﬂora developing
+resistance. Though resistance rates of E. coli from shellﬁsh were less
+than that of meat and poultry, shellﬁsh isolates displayed resistance to
+all 15 antibiotics tested. The resistance of E. coli isolates in shellﬁsh to
+different antibiotic classes suggests that these E. coli strains were
+generated from different sources in the contaminated water environ-
+ment where shellﬁsh inhabit.
+
+There were 83.8% of isolates that were resistant to one or more
+antibiotics, and multi-resistance was observed in all sources (61.6%)
+with rates up to 75% in pork, 89.5% in chicken, and 95% in chicken
+faeces (Table 3). Resistance to more than 10 antibiotics was also
+detected in chicken, pork and shellﬁsh isolates, and there were 9.1%
+isolates which displayed resistance to 12–14 antibiotics. The ﬁnding of
+high levels of antibiotic resistance in E. coli isolates implies that E. coli
+from Vietnamese raw food may play an important role as reservoirs
+for the resistance genes and be a key source for transfer of resistance
+to other important human pathogens.
+
+3.2. Antibiotic resistance genes in E. coli isolates
+
+Genes responsible for a variety of antibiotic resistance character-
+istics have been investigated by multiplex and uniplex PCRs from 38 E.
+coli isolates. The results showed good correlation between antibiotic
+
+220
+
+T.T.H. Van et al. / International Journal of Food Microbiology 124 (2008) 217–223
+
+Table 2
+List of 58 virulence genes which were detectable by multiplex and uniplex PCRs in this
+study and their description/function (Chapman et al., 2006)
+
+PCR
+set
+I
+
+Virulence gene(s)/
+activity
+ﬁmHa
+papEF
+papA
+
+kpsMTIII
+
+ibeAa
+PAI
+
+fyuAa
+bmaEa
+sfa/focDE
+
+iutAa
+papG allele IIIa
+
+kpsMTK1
+hlyA
+rfc
+nfaE
+papG allele I
+kpsMTII
+
+papC
+cvaC
+
+cdtB
+focG
+
+traTa
+papG allele II
+papG allele I
+papG alleles II
+and III
+afa/draBC
+
+cnf1
+sfaS
+kpsMT“K5”
+univcnf
+ihaa
+
+a
+iroNE.coli
+ompT
+papG allele I'
+issa
+ireA
+ehxA
+eaeA
+stx1
+stx2
+eltA
+fasA
+STb
+faeG
+fanC
+STa
+fedA
+F41
+aaha
+
+aidA AIDA-Ia
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+XI
+
+XII
+
+aidA AIDAc
+chuAa
+yjaAa
+TSPE4.C2a
+east1a
+XIII
+XIV
+cdt
+XV
+paa
+XVI
+saa
+XVII
+ipaH
+XVIII bfpA
+
+Description/function
+
+D-Mannose-speciﬁc adhesin, type 1 ﬁmbriae
+Minor tip pilins, connect PapG PapG to shaft (PapA)
+Major structural subunit of pilus associated with
+pyelonephritis (P ﬁmbriae), deﬁnes F antigen
+Group III capsular polysaccharide synthesis (e.g., K3, K10,
+and K54)
+Invasion of brain endothelium
+Pathogenicity-associated island, provides mechanism for
+coordinate horizontal transfer of VF genes between lineages
+Yersiniasiderophore receptor (ferric yersiniabactin uptake)
+M-agglutinin subunit
+Central region of sfa(S ﬁmbriae) and foc(F1C ﬁmbriae)
+operons
+Ferric aerobactin receptor (iron uptake/transport)
+Cystitis-associated (prs or pap-2) papG variant (papG: Gal
+(1-4)Gal-speciﬁc pilus tip adhesin molecule)
+Speciﬁc for K1 (group II) kpsMT
+α-Hemolysin
+O4 lipopolysaccharide synthesis
+Non-ﬁmbrial adhesin I assembly and transport
+(Rare) J96-associated papG variant
+Group II capsular polysaccharide synthesis (e.g., K1, K5, and
+K12)
+Pilus assembly, central region of pap operon
+Colicin V, conjugative plasmids (traT, iss, and antimicrobial
+resistance)
+Cytolethal distending toxin
+Pilus tip molecule, F1C ﬁmbriae ﬁmbriae (sialic acid
+speciﬁc)
+Surface exclusion, serum survival
+Pyelonephritis-associated papG variant
+(Rare) J96-associated papG variant
+
+Central region of Dr antigen-speciﬁﬁc ﬁmbrial ﬁmbrial and
+aﬁmbrial adhesin operons (e.g., AFA, Dr, and F1845)
+Cytotoxic necrotizing factor 1
+Pilus tip adhesin, S ﬁmbriae (sialic acid speciﬁc)
+Speciﬁc for non-K1 and non-K2 group II kpsMT
+Universal primer for cytotoxic necrotizing factor 1
+Novel nonhemagglutinin adhesin (from O157:H7 and
+CFT073)
+Novel catecholate siderophore
+Outer membrane protein A and T (protease)
+papG variant identiﬁed in canine urine
+Serum survival gene
+Iron-regulated element, a siderophore receptor
+Enterohemolysin
+Intimin
+Shiga toxin I
+Shiga toxin II
+Heat-labile toxin
+F6 ﬁmbrial adhesion
+Heat-stable enterotoxin b
+F4 ﬁmbrial adhesion
+F5 ﬁmbrial adhesion
+Heat-stable enterotoxin a
+F18 ﬁmbrial adhesion
+Fimbrial adhesion
+Autotransporter adhesin heptosyltransferase encoding
+AAH protein which modiﬁes AIDA-I adhesin
+Adhesin involved in diffuse adherence, consisting of AIDA-I
+(orfB) and AIDAc (orfBc)
+
+Gene required for heme transport in EHEC O157:H7
+Identiﬁed in E. coli K12, function currently unknown
+Anonymous DNA fragment
+EaggEC heat-stable enterotoxin
+Cytolethal distending toxin
+Porcine A/E-associated gene
+STEC autoagglutinating adhesion
+Invasion plasmid antigen
+Type IV bundle-forming pili
+
+resistance phenotype and genotypes in these E. coli isolates (Table 4).
+More than one gene encoding the same resistance was detected in one
+strain: two isolates from chicken contained tetracycline resistance
+genes tetA+ tetC and tetB+ tetC, one isolate from chicken and another
+isolate from chicken faeces contained chloramphenicol resistance
+genes cat1 and cmlA. There were 84.2% of the tested isolates which
+contained the beta-lactamase blaTEM gene. Our ﬁndings are similar to
+studies in other countries showing that E. coli strains from food of
+animal origin had a unique beta-lactamase blaTEM gene (Brinas et al.,
+2002; Guerra et al., 2003). In contrast, other beta-lactamase genes
+such as SHV-type and OXA-type were not detected in any isolates in
+this study.
+
+Plasmid-mediated ampC beta-lactamase genes were observed in
+some E. coli isolates as a positive PCR result was detected with
+MOXM family-speciﬁc primers in chicken and pork isolates,
+suggesting the presence of MOX-1, MOX-2, CMY-1, or CMY-8 to
+CMY-11 genes in these isolates (Perez-Perez and Hanson, 2002). In
+addition, an expected band has been observed in a beef isolate with
+DHAM family-speciﬁc primers,
+indicating the isolate contained
+DHA-1 or DHA-2 genes (Perez-Perez and Hanson, 2002). Therapeutic
+options may be limited for infections caused by Gram-negative
+bacteria overexpressing plasmid-mediated AmpC beta-lactamases
+because such overexpression can lead to resistance to most beta-
+lactam antibiotics except for cefepime, cefpirome and carbapenems
+(Perez-Perez and Hanson, 2002). In addition, plasmids encoding
+AmpC enzymes often carry multiple resistances and there is
+evidence of spread of plasmid-mediated AmpC beta-lactamases
+genes between organisms (Bauernfeind et al., 1997; Winokur et al.,
+2001; Philippon et al., 2002; Yan et al., 2004). Further studies of the
+distribution of ampC genes are therefore necessary.
+
+The rapid spread of tetracycline resistant determinants within a
+bacterial population is due to the location of tetracycline genes on
+mobile elements (Chopra and Roberts, 2001; Roberts, 2003; Sunde
+and Nordstrom, 2006). In this study, it was found that tetracycline
+resistance genes did spread in E. coli populations. The tetA gene was
+the most prevalent of the tetracycline resistance genes detected (71.1%
+of the isolates), followed by tetB (18.4%). These two genes were
+reported to be predominant in E. coli isolates from livestock and food
+animals in other countries (Guerra et al., 2003; Lanz et al., 2003;
+Sengelov et al., 2003; Bryan et al., 2004; Saenz et al., 2004; Boerlin et
+al., 2005). Genes which are responsible for resistance to streptomycin
+(aadA), chloramphenicol (cmlA), sulfonamides (sulI), trimethoprim
+(dhfrV) and kanamycin (aphA-1) were also widely distributed with the
+
+Table 3
+Percentage of E. coli isolates from different sources which were resistant to different
+antibiotics
+
+Antibiotics
+
+Percentage of resistance
+
+AMP
+AMX
+AMC
+TET
+SUL
+KAN
+GEN
+STR
+NOR
+ENR
+CIP
+NAL
+CHL
+CEF
+TMP
+Resistance to≥1 antibiotic
+Multi-resistancea
+
+Pork
+(20)
+55.0
+55.0
+0.0
+100.0
+70.0
+10.0
+25.0
+65.0
+15.0
+20.0
+15.0
+30.0
+50.0
+5.0
+60.0
+100
+75.0
+
+Beef
+(20)
+20.0
+20.0
+0.0
+60.0
+10.0
+0.0
+0.0
+15.0
+0.0
+0.0
+0.0
+0.0
+20.0
+5.0
+20.0
+65.0
+15.0
+
+Chicken
+(19)
+84.2
+84.2
+15.8
+84.2
+94.7
+15.8
+47.4
+63.2
+57.9
+63.2
+52.6
+68.4
+57.9
+31.6
+63.2
+100.0
+89.5
+
+Chicken
+faeces (20)
+65.0
+65.0
+0.0
+95.0
+95.0
+25.0
+45.0
+30.0
+5.0
+15.0
+5.0
+50.0
+65.0
+10.0
+90.0
+100.0
+95.0
+
+Shellﬁsh
+(20)
+30.0
+30.0
+5.0
+50.0
+35.0
+5.0
+5.0
+25.0
+10.0
+10.0
+10.0
+25.0
+25.0
+20.0
+25.0
+55.0
+35.0
+
+Total
+(99)
+50.5
+50.5
+4.0
+77.8
+60.6
+11.1
+24.2
+39.4
+17.2
+21.2
+16.2
+34.3
+43.4
+14.1
+51.5
+83.8
+61.6
+
+a Genes detected in 38 E. coli food isolates from Vietnam.
+
+a Resistance to at least 3 different classes of antibiotics.
+
+T.T.H. Van et al. / International Journal of Food Microbiology 124 (2008) 217–223
+
+221
+
+Table 4
+Summary of antibiotic resistance proﬁles compared with the presence of antibiotic
+resistance and virulence genes in E. coli isolates
+
+Table 4 (continued )
+
+Isolate
+name
+
+Food
+source
+
+Isolate
+name
+
+Food
+source
+
+Antibiotic resistance characteristics
+
+Virulence genes
+
+Antibiotic resistance characteristics
+
+Virulence genes
+
+Chicken
+faeces
+
+Chicken
+faeces
+
+Chicken
+faeces
+
+Resistance/intermediate
+resistance patterns
+AMP, TET, CHL, TMP, STR,
+AMX/CEF, AMC,NAL, ENR
+AMP, TET, CHL, SUL, TMP,
+STR, AMX/CEF, AMC
+AMP, TET, GEN, CHL, SUL,
+TMP, STR, NAL, ENR, AMX/
+CEF, NOR
+AMP, TET, GEN, CHL, SUL,
+TMP, KAN, NAL, ENR, AMX/
+CEF, AMC, STR
+AMP, TET, GEN, CHL, SUL,
+TMP, NAL, AMX, CEF/AMC,
+STR, ENR
+TET, GEN, CHL, SUL, TMP,
+KAN, NAL/CEF, STR, ENR
+TET, GEN, CHL, SUL, TMP,
+KAN, NAL/CEF, STR, ENR
+TET, GEN, CHL, SUL, TMP,
+KAN, NAL/STR, ENR
+TET, CHL,SUL, TMP, NOR,
+NAL, ENR, CIP/CEF, STR
+
+Chicken
+faeces
+Chicken
+faeces
+Chicken
+faeces
+Chicken
+faeces
+Shellﬁsh AMP, TET, CHL, SUL, TMP,
+STR,NAL, AMX/CEF, AMC,
+ENR
+
+Resistance
+genes
+tetA, dhfrV, TEM AIDA-I(orfB)
+
+tetA, dhfrV, TEM ﬁmH, bmaE,
+
+tetA, aadA, sulI,
+TEM, dhfrI
+
+tetA, aadA, sulI,
+TEM, cmlA
+
+TSPE4.C2
+ﬁmH, bmaE
+
+AIDA-I(orfB)
+
+tetA, aadA, cat1,
+sulI, TEM, cmlA
+
+ﬁmH, bmaE
+
+tetA, aadA, sulI,
+cmlA, aphA-1
+tetA, aadA, sulI,
+cmlA, aphA-1
+tetA, aadA, sulI,
+cmlA, aphA-1
+tetA, aadA, sulI,
+cmlA
+tetA, cat1, sulI,
+TEM
+
+ﬁmH, bmaE, traT
+
+ﬁmH, bmaE, traT
+
+ﬁmH, bmaE
+
+ﬁmH, bmaE
+
+ﬁmH, bmaE,
+TSPE4.C2
+
+E/B/17b Beef
+
+E/B/46
+
+Beef
+
+E/F/3
+
+E/F/8
+
+E/F/9
+
+E/F/13
+
+E/F/16
+
+E/F/20
+
+E/F/25
+
+E/SF/1a
+
+E/SF/6a
+
+Shellﬁsh AMP, CIP, TET, CHL, SUL,
+
+TMP, NOR, STR, NAL, ENR,
+AMX/AMC
+
+E/SF/10a Shellﬁsh AMP, CIP, TET, SUL, TMP,
+
+NOR, STR, KAN, NAL, ENR,
+AMX, CEF/AMC
+
+tetB, aadA, TEM,
+cmlA
+
+ﬁmH, bmaE, yjaA,
+east1
+
+tetB, dhfrV, TEM,
+aphA-1
+
+ﬁmH, bmaE, AIDA
+(orfB), TSPE4.C2
+
+E/SF/29 Shellﬁsh AMP, TET, GEN, SUL, CEF,
+TMP, STR, NAL, AMX, CEF,
+AMC/CHL, ENR
+
+cat1, sulI, TEM
+
+E/SF/47a Shellﬁsh AMP, TET, CHL, SUL, TMP,
+
+tetA, TEM
+
+E/B/41
+
+Beef
+
+STR, AMX, CEF/AMC
+/CEF, AMP, AMX
+
+DHAM
+
+ﬁmH, fyuA, chuA,
+TSPE4.C2
+
+ﬁmH, bmaE,
+TSPE4.C2
+ﬁmH, bmaE, AIDA
+(orfB), TSPE4.C2
+
+rates of 68.4%, 42.1%, 39.5%, 26.3% and 23.7% respectively. Other
+resistance genes including cat1 (chloramphenicol resistance), dhfrI
+(trimethoprim resistance) and aac(3)-IV (gentamicin resistance) were
+also detected (18.4–10.5%) in this E. coli collection. High level of E. coli
+resistance in food sources should be a cause for concern as this
+organism has high propensity to disseminate antimicrobial resistance
+genes (WHO, 1997).
+
+3.3. Virulence genes in E. coli isolates
+
+iroNE. coli,
+
+PCR ampliﬁcation has been a sensitive and valuable method for
+detection of virulence genes in E. coli strains (Nataro and Kaper, 1998;
+Osek et al., 1999; Paton and Paton, 2002; Chen et al., 2004). In this
+study, 38 E. coli isolates were examined for the presence of virulence
+genes using the method of Chapman et al. (2006). All tested isolates
+were positive for at least one virulence gene with 16 out of 58 speciﬁc
+genes detected (Table 4). The wide range of ExPEC-associated
+virulence markers of different virulent functions, including bmaE,
+ﬁmH, fyuA,
+iss, traT, and papG III has been
+detected, in which ﬁmH and bmaE genes were dominant and were
+detected in 92.1% and 84.2% of isolates from all sources respectively.
+The high prevalence of the ﬁmH gene obtained in this study was
+consistent with previous reports (Johnson and Stell, 2000; Bekal et al.,
+2003) that this gene was present in all E. coli isolates of different
+pathotypes and also in non-pathogenic E. coli. In adapting to a pa-
+thogenic environment, the genetic variation in the ﬁmH gene can
+change the tropism of E. coli, shifting it toward a virulent phenotype
+(Sokurenko et al., 1998). The virulence genes TSPE4.C2, aidA AIDA-I
+(orfB), east1, traT, were also present at a moderate to high rate (42.1%,
+
+ibeA,
+
+iutA,
+
+E/C/13a Chicken AMP, CIP, TET, GEN, SUL,
+
+tetA, TEM
+
+Resistance/intermediate
+resistance patterns
+
+E/C/3a
+
+Chicken AMP, CIP, TET, GEN, CHL,
+SUL, TMP, NOR, STR, KAN,
+NAL, ENR, AMX/CEF, AMC
+
+E/C/4a
+
+Chicken AMP, CIP, TET, GEN, CHL,
+
+SUL, NOR, NAL, ENR,
+AMX/ CEF, AMC, TMP, STR,
+KAN
+
+E/C/5a
+
+Chicken AMP, CIP, TET, SUL, TMP,
+
+NOR, STR, NAL, ENR, AMX,
+AMC, CEF
+
+E/C/9b
+
+Chicken AMP, CIP, TET, GEN, CHL,
+SUL, TMP, NOR, STR, KAN,
+NAL, ENR, AMX, CEF/AMC
+
+E/C/11a Chicken AMP, TET, CHL, SUL, TMP,
+STR, NAL, AMX/CEF, AMC,
+ENR
+
+NOR, STR, NAL, ENR,
+AMX/CEF, AMC, TMP
+
+E/C/15a Chicken AMP, TET, SUL, TMP, STR,
+NAL, ENR, AMX/CEF, AMC
+E/C/16a Chicken AMP, CIP, TET, GEN, CHL,
+
+SUL, TMP, NOR, NAL, ENR,
+AMX, CEF/AMC, KAN
+
+E/C/17a Chicken AMP, TET, GEN, CHL, SUL,
+TMP, NOR, KAN, NAL, ENR,
+AMX, STR/CEF, CIP, AMC
+
+E/C/20a Chicken AMP, CIP, TET, GEN, CHL,
+
+SUL, NOR, NAL, ENR, AMX/
+CEF, AMC, TMP, STR
+
+E/C/21a Chicken AMP, CIP, TET, GEN, CHL,
+SUL, TMP, NOR, STR, NAL,
+ENR, AMX, CEF/AMC, KAN
+E/C/24a Chicken AMP, TET, GEN, SUL, TMP,
+AMX, CHL, STR/CEF, AMC,
+NAL, ENR
+
+E/C/25b Chicken AMP, CIP, TET, CHL, SUL,
+
+TMP, NOR, STR, NAL, ENR,
+AMX, AMC
+
+E/C/29a Chicken AMP, TET, SUL, TMP, AMX/
+
+E/P/15a Pork
+
+E/P/18a
+
+Pork
+
+E/P/20a Pork
+
+E/P/27a Pork
+
+E/P/43a Pork
+
+E/P/48a Pork
+
+E/P/49a Pork
+
+E/P/25a Pork
+
+E/B/16a Beef
+
+CEF, AMC, STR
+AMP, TET, GEN, CHL, SUL,
+TMP, STR, KAN, AMX/NAL,
+ENR
+AMP, TET, GEN, SUL, NAL,
+ENR, AMX, STR/CEF, NOR
+
+AMP, TET, CHL, SUL, TMP,
+STR, AMX/CEF, AMC
+CIP, TET, GEN, SUL, TMP,
+NOR, NAL, ENR, STR/CEF,
+AMC, AMP, AMX
+AMP, TET, GEN, SUL, TMP,
+AMX, STR/CHL
+AMP, TET, CHL, SUL, TMP,
+STR, NAL, AMX/CEF, AMC,
+ENR
+AMP, CIP, TET, GEN, CHL,
+SUL, TMP, NOR, STR, KAN,
+NAL, ENR, AMX/CEF, AMC
+AMP, CIP, TET, CHL, SUL,
+TMP, NOR, STR, NAL, ENR,
+AMX/CEF, AMC
+AMP, TET, CHL, SUL, TMP,
+STR/AMC
+
+ﬁmH, bmaE, traT,
+east1
+
+ﬁmH, bmaE
+
+Resistance
+genes
+tetA, aadA,
+dhfrV, TEM,
+cmlA, aphA-1,
+aac(3)-IV
+tetA, tetC, aadA,
+TEM, cmlA, aac
+(3)-IV
+
+tetA, aadA,
+dhfrV, TEM
+
+ﬁmH, bmaE, iutA,
+traT, Iha, iroNE.coli,
+iss, aah (orfA),
+TSPE4.C2
+ﬁmH, ibeA, bmaE,
+traT, chuA, east1
+
+tetA, aadA,
+dhfrV, TEM,
+cmlA, dhfrI,
+aphA-1
+tetA, dhfrV, TEM ﬁmH, bmaE, AIDA-I
+
+(orfB)
+
+ﬁmH, bmaE, iutA,
+traT, chuA,
+TSPE4.C2, east1
+ﬁmH, bmaE, east1
+
+ﬁmH, bmaE,
+TSPE4.C2, east1
+
+ﬁmH, bmaE,
+TSPE4.C2, east1
+
+ﬁmH, bmaE, east1
+
+ﬁmH, bmaE,
+TSPE4.C2
+
+ﬁmH, bmaE, fyuA,
+AIDA (orfB)
+
+ﬁmH, bmaE, traT,
+iroNE. coli, iss, AIDA
+(orfB)
+ﬁmH, bmaE, AIDA
+(orfB), TSPE4.C2
+traT, AIDA(orfB)
+
+ﬁmH, bmaE, fyuA,
+papG III, AIDA
+(orfB), TSPE4.C2,
+east1
+ﬁmH, bmaE, east1
+
+ﬁmH, TSPE4.C2
+
+tetB, tetC, sulI,
+TEM, MOXM
+tetB, cat1, sulI,
+TEM, dhfrI,
+MOXM
+tetA, aadA, cat1,
+sulI, TEM, cmlA,
+aphA-1, aac(3)-
+IV
+tetB, aadA, TEM,
+cmlA, aac(3)-IV
+
+tetB, aadA, sulI,
+cat1, TEM, dhfrI,
+MOXM
+tetA, aadA, TEM,
+cmlA, aac(3)-IV
+
+tetA, aadA, TEM,
+cmlA
+
+tetA, aadA, sulI,
+TEM, dhfrI
+tetB, aadA, TEM,
+cmlA, aphA-1,
+aac(3)-IV
+tetA, aadA, TEM,
+MOXM
+
+tetA, aadA, TEM,
+cmlA
+tetA, aadA
+
+tetA, aadA, TEM ﬁmH, bmaE, AIDA
+
+tetA, aadA,
+dhfrV, TEM, cmlA
+
+tetA, aadA,
+dhfrV, TEM,
+cmlA, apha-1
+tetB, aadA, cat1,
+sulI, TEM, dhfrI
+
+(orfB), yjaA
+ﬁmH, bmaE, fyuA,
+TSPE4.C2
+
+ﬁmH, bmaE, AIDA
+(orfB), TSPE4.C2
+
+ﬁmH, bmaE, iutA,
+traT
+
+tetA, dhfrV, TEM ﬁmH
+
+(continued on next page)
+
+222
+
+T.T.H. Van et al. / International Journal of Food Microbiology 124 (2008) 217–223
+
+31.6%, 26.3%, and 23.7% respectively). Notably, the east1 gene which is
+involved in human outbreaks of diarrhoea (Vila et al., 1998; Zhou et al.,
+2002) was found with high frequency in all food sources (20–50%).
+The other virulence genes detected in this study include fyuA, iutA,
+chuA, yjaA, iss, iroNE. coli, ibeA, aah (orfA), iha, and papG allele III
+(10.5–2.6%). As strains of the same pathotype normally carry the
+same virulence determinants involved in infection (Bekal et al.,
+2003), the detection of 58 virulence genes associated with
+representative pathotypes of E. coli in this study allow detection of
+the presence of certain pathotypes in these 38 E. coli isolates. In this
+case, the stx1 and stx2 virulence genes associated with the STEC
+pathotype were not detected, and heat-stable toxin (ST) and heat-
+labile toxin (LT) genes speciﬁc to ETEC were not observed. These
+results imply that none of these 38 isolates belongs to STEC or ETEC
+pathotypes. In contrast, the STEC pathotype has been found in raw
+food, especially beef in other countries and mostly in industrialised
+countries (Parma et al., 2000; Kumar et al., 2001; Guth et al., 2003;
+Blanco et al., 2004; Conedera et al., 2004; Barlow et al., 2006; Carney
+et al., 2006; Samadpour et al., 2006). There were multi-resistant
+isolates which contained from 6 to 9 virulence genes. E. coli strains in
+this study may not possess pathogenic functionality due to lack of
+appropriate virulence gene combinations (Chapman et al., 2006).
+However, bacterial virulence can be increased and new pathotypes
+with new combinations of virulence factors may occur as virulence
+genes can be transferred between organism populations over time,
+especially since the genome of E. coli is of highly plasticity (Kuhnert
+et al., 2000), and the problem would be considerable if this virulence
+acquisition occurred in multi-resistant strains.
+
+Interestingly,
+
+The average number of antibiotic resistance genes and virulence
+genes from different origins were calculated. The average number of
+antibiotic resistance genes in different sources were: chicken (5.3),
+chicken faeces (5.0), pork (4.5), shellﬁsh (3.4), and beef (2.5), whereas
+the average number of virulence genes were: chicken (4.4), pork (3.8),
+shellﬁsh (3.6), beef (2.3) and chicken faeces (2.1). Comparing to beef
+isolates, chicken and pork isolates harboured more antibiotic
+resistance genes and virulence genes. Chicken faeces also contained
+high number of antibiotic resistance genes.
+it was
+observed that compared to other sources, E. coli in chickens showed a
+higher frequency of resistance phenotype, they also exceed other
+sources in terms of degree of antibiotic resistance genes and virulence
+genes. In addition, among 38 isolates which were investigated for the
+presence of antibiotic resistance genes and virulence genes, isolates
+which contained the maximum number of antibiotic resistance genes
+(isolate E/C/17a) and virulence genes (isolate E/C/5a) also belonged to
+chicken isolates (Table 4). Using all the results together, it could be
+concluded that chicken meat is the most risk-associated food source in
+terms of antibiotic resistance and virulence potential. The spread of
+antimicrobial agents given to poultry might be the reason for high
+rates of resistance and overcrowded population in poultry husbandry
+may contribute to the spread of antibiotic and virulence genes
+between populations.
+
+This study has focused primarily on the characterization of
+antibiotic resistance genes found in E. coli isolated from raw foods in
+Vietnam. A parallel study on virulence genes in these isolates has
+conﬁrmed an absence of combinations of virulence factors that signal
+the covert presence of zoonotic strains of E. coli such as O157 and
+other STECs amongst the isolates. However, the strains were not
+analysed for carriage of signature virulence genes found in avian
+pathogenic E. coli (APECs). The importance of this study is the ﬁnding
+that enteric bacteria in Vietnamese food samples are signiﬁcant
+reservoirs of antibiotic resistance genes.
+In the light of recent
+epidemiological ﬁndings that urinary tract infections in humans
+may be associated with poultry consumption (Manges et al., 2007), it
+endorses the need for more rigorous surveillance and improved
+farming practises that can reduce the carriage of ARGs and thereby
+minimize the likelihood of horizontal gene transfers of these
+
+antimicrobial resistance genes to other microbes in the food chain.
+Training for food handlers on safe food handling and proper cooking
+are therefore important to reduce or eliminate the risk from antibiotic
+resistance and pathogenic bacteria originating from raw foods.
+Additionally, it is recommended that antibiotic usage in animal feed
+must be strongly regulated. There is still a big gap in understanding
+the genetic background of antibiotic resistance and virulence of
+enteric bacteria from food. Studies with comprehensive collections of
+samples are urgently needed to establish better measures for
+preventing foodborne disease.
+
+Acknowledgments
+
+We are grateful to Dr. George Moutaﬁs at RMIT University for his
+continued advice and help for the project. T.T.H.V was supported by
+the Atlantic Philanthropies Foundation and the School of Applied
+Sciences, RMIT University.
+
+References
+
+Adak, G.K., Long, S.M., O'Brien, S.J., 2002. Trends in indigenous foodborne disease and
+
+deaths, England and Wales: 1992 to 2000. Gut 51, 832–841.
+
+Albert, M.J., Faruque, S.M., Faruque, A.S., Neogi, P.K., Ansaruzzaman, M., Bhuiyan, N.A.,
+Alam, K., Akbar, M.S., 1995. Controlled study of Escherichia coli diarrheal infections
+in Bangladeshi children. Journal of Clinical Microbiology 33, 973–977.
+
+Barlow, R.S., Gobius, K.S., Desmarchelier, P.M., 2006. Shiga toxin-producing Escherichia
+coli in ground beef and lamb cuts: results of a one-year study. International Journal
+of Food Microbiology 111, 1–5.
+
+Bauernfeind, A., Wagner, S., Jungwirth, R., Schneider, I., Meyer, D., 1997. A novel class C
+beta-lactamase (FOX-2) in Escherichia coli conferring resistance to cephamycins.
+Antimicrobial Agents and Chemotherapy 41, 2041–2046.
+
+Bekal, S., Brousseau, R., Masson, L., Prefontaine, G., Fairbrother, J., Harel, J., 2003. Rapid
+identiﬁcation of Escherichia coli pathotypes by virulence gene detection with DNA
+microarrays. Journal of Clinical Microbiology 41, 2113–2125.
+
+Blanco, M., Padola, N.L., Kruger, A., Sanz, M.E., Blanco, J.E., Gonzalez, E.A., Dahbi, G.,
+Mora, A., Bernardez, M.I., Etcheverria, A.I., Arroyo, G.H., Lucchesi, P.M.A., Parma, A.E.,
+Blanco, J., 2004. Virulence genes and intimin types of Shiga-toxin-producing
+Escherichia coli isolated from cattle and beef products in Argentina. International
+Microbiology 7, 269–276.
+
+Boerlin, P., Travis, R., Gyles, C.L., Reid-Smith, R., Janecko, N., Lim, H., Nicholson, V.,
+McEwen, S.A., Friendship, R., Archambault, M., 2005. Antimicrobial resistance and
+virulence genes of Escherichia coli isolates from swine in Ontario. Applied and
+Environmental Microbiology 71, 6753–6761.
+
+Brinas, L., Zarazaga, M., Saenz, Y., Ruiz-Larrea, F., Torres, C., 2002. Beta-lactamases in
+isolates from foods, humans, and healthy
+
+ampicillin-resistant Escherichia coli
+animals. Antimicrobial Agents and Chemotherapy 46, 3156–3163.
+
+Bryan, A., Shapir, N., Sadowsky, M.J., 2004. Frequency and distribution of tetracycline
+resistance genes in genetically diverse, nonselected, and nonclinical Escherichia coli
+strains isolated from diverse human and animal sources. Applied and Environ-
+mental Microbiology 70, 2503–2507.
+
+Carney, E., O'Brien, S.B., Sheridan, J.J., McDowell, D.A., Blair, I.S., Duffy, G., 2006.
+Prevalence and level of Escherichia coli O157 on beef trimmings, carcasses and
+boned head meat at a beef slaughter plant. Food Microbiology 23, 52–59.
+
+Chapman, T.A., Wu, X.Y., Barchia, I., Bettelheim, K.A., Driesen, S., Trott, D., Wilson, M.,
+Chin, J., 2006. Comparison of virulence gene proﬁles of Escherichia coli strains
+isolated from healthy and diarrheic swine. Applied and Environmental Microbiol-
+ogy 72, 4782–4795.
+
+Chen, X., Gao, S., Jiao, X., Liu, X.F., 2004. Prevalence of serogroups and virulence factors
+of Escherichia coli strains isolated from pigs with postweaning diarrhoea in eastern
+China. Veterinary Microbiology 103, 13–20.
+
+Chopra, I., Roberts, M., 2001. Tetracycline antibiotics: mode of action, applications,
+molecular biology, and epidemiology of bacterial resistance. Microbiology and
+Molecular Biology Reviews 65, 232–260.
+
+CLSI, 2005. Performance standards for antimicrobial susceptibility testing; Fifteenth
+informational supplement. NLSI document M100-S15. Clinical and Laboratory
+Standards Institute, Wayne, PA.
+
+Conedera, G., Dalvit, P., Martini, M., Galiero, G., Gramaglia, M., Goffredo, E., Loffredo, G.,
+Morabito, S., Ottaviani, D., Paterlini, F., Pezzotti, G., Pisanu, M., Semprini, P., Caprioli,
+A., 2004. Verocytotoxin-producing Escherichia coli O157 in minced beef and dairy
+products in Italy. International Journal of Food Microbiology 96, 67–73.
+
+Guerra, B., Junker, E., Schroeter, A., Malorny, B., Lehmann, S., Helmuth, R., 2003.
+Phenotypic and genotypic characterization of antimicrobial resistance in German
+Escherichia coli isolates from cattle, swine and poultry. Journal of Antimicrobial
+Chemotherapy 52, 489–492.
+
+Guth, B.E.C., Chinen, I., Miliwebsky, E., Cerqueira, A.M.F., Chillemi, G., Andrade, J.R.C.,
+Baschkier, A., Rivas, M., 2003. Serotypes and Shiga toxin genotypes among
+Escherichia coli isolated from animals and food in Argentina and Brazil. Veterinary
+Microbiology 92, 335–349.
+
+Hohmann, E.L., 2001. Nontyphoidal salmonellosis. Clinical Infectious Diseases 32,
+
+263–269.
+
+T.T.H. Van et al. / International Journal of Food Microbiology 124 (2008) 217–223
+
+223
+
+Huang, D.B., Mohanty, A., DuPont, H.L., Okhuysen, P.C., Chiang, T., 2006. A review of an
+emerging enteric pathogen: enteroaggregative Escherichia coli. Journal of Medical
+Microbiology 55, 1303–1311.
+
+Johnson, J.R., Russo, T.A., 2002. Extraintestinal pathogenic Escherichia coli: “the other
+
+bad E. coli”. The Journal of Laboratory and Clinical Medicine 139, 155–161.
+
+Johnson, J.R., Stell, A.L., 2000. Extended virulence genotypes of Escherichia coli strains
+from patients with urosepsis in relation to phylogeny and host compromise. The
+Journal of Infectious Diseases 181, 261–272.
+
+Kennedy, M., Villar, R., Vugia, D.J., Rabarsky-Ehr, T., Farley, M.M., Pass, M., Smith, K.,
+Sminh, P., Cieslak, P.R., Imhoff, B., Grifﬁn, P.M., 2004. Hospitalizations and deaths
+due to Salmonella infections, FoodNet, 1996–1999. Clinical Infectious Diseases 38,
+S142–S148.
+
+Klein, G., Bulte, M., 2003. Antibiotic susceptibility pattern of Escherichia coli strains with
+verocytotoxic E. coli-associated virulence factors from food and animal faeces. Food
+Microbiology 20, 27–33.
+
+Kuhnert, P., Boerlin, P., Frey, J., 2000. Target genes for virulence assessment of Escheri-
+isolates from water, food and the environment. FEMS Microbiology
+
+chia coli
+Reviews 24, 107–117.
+
+Kumar, S.H., Otta, S.K., Karunasagar, I., Karunasagar, I., 2001. Detection of Shiga-
+toxigenic Escherichia coli (STEC) in fresh seafood and meat marketed in Mangalore,
+India by PCR. Letters in Applied Microbiology 33, 334–338.
+
+Lanz, R., Kuhnert, P., Boerlin, P., 2003. Antimicrobial resistance and resistance gene
+determinants in clinical Escherichia coli from different animal species in Switzer-
+land. Veterinary Microbiology 91, 73–84.
+
+Lindqvist, R., Andersson, Y., de Jong, B., Norberg, P., 2000. A summary of reported
+foodborne disease incidents in Sweden, 1992 to 1997. Journal of Food Protection 63,
+1315–1320.
+
+Lynch, M., Painter, J., Woodruff, R., Braden, C., 2006. Surveillance for foodborne-disease
+outbreaks-United States, 1998–2002. Morbidity and Mortality Weekly Report.
+Surveillance summaries/CDC 55, 1–34.
+
+Manges, A.R., Smith, S.P., Lau, B.J., Nuval, C.J., Eisenberg, J.N.S., Dietrich, P.S., Riley, L.W.,
+2007. Retail meat consumption and the acquisition of antimicrobial resistant
+Escherichia coli causing urinary tract Infections: a case–control study. Foodborne
+Pathogens and Disease 4, 419–431.
+
+Mead, P.S., Slutsker, L., Dietz, V., McCaig, L.F., Bresee, J.S., Shapiro, C., Grifﬁn, P.M., Tauxe,
+R.V., 1999. Food-related illness and death in the United States. Emerging Infectious
+Diseases 5, 607–625.
+
+Meng, J., Doyle, M.P., 2002. Introduction. Microbiological food safety. Microbes and
+
+Infection 4, 395–397.
+
+Meng, J., Doyle, M.P., Zhao, T., Zhao, S., 2001. Enterohemorrhagic Escherichia coli. In:
+Doyle, M.P., Beuchat, M.P., Montville, T.J. (Eds.), Food Microbiology: Fundamentals
+and Frontiers. ASM Press, Washington D. C., pp. 193–213.
+
+Meng, J., Zhao, S., Doyle, M.P., Joseph, S.W., 1998. Antibiotic resistance of Escherichia coli
+O157:H7 and O157:NM isolated from animals, food, and humans. Journal of Food
+Protection 61, 1511–1514.
+
+Nataro,
+
+J.P., Kaper, J.B., 1998. Diarrheagenic Escherichia coli. Clinical Microbiology
+
+Reviews 11, 142–201.
+
+NCCLS, 2004.. Performance standards for antimicrobial disk and dilution susceptibility
+tests for bacteria isolated from animals, Approved standard M31-A2, 2nd ed.
+National Commitee for Clinical Laboratory Standards, Wayne, PA.
+
+Nguyen, T.V., Van, P.L., Huy, C.L., Gia, K.N., Weintraub, A., 2006. Etiology and
+epidemiology of diarrhea in children in Hanoi, Vietnam. International Journal of
+Infectious Diseases 10, 298–308.
+
+NMKL, 1996. Thermotolerant coliform bacteria, Enumeration in foods. Method no. 125,
+
+3rd ed. Nordic Committee on Food Analysis, Oslo, Norway.
+
+Orskov, F., Orskov, I., 1992. Escherichia coli serotyping and disease in man and animals.
+
+Canadian Journal of Microbiology 38, 699–704.
+
+Osek, J., Gallien, P., Truszczynski, M., Protz, D., 1999. The use of polymerase chain
+reaction for determination of virulence factors of Escherichia coli strains isolated
+from pigs in Poland. Comparative Immunology, Microbiology and Infectious
+Diseases 22, 163–174.
+
+Parma, A.E., Sanz, M.E., Blanco, J.E., Blanco, J., Vinas, M.R., Blanco, M., Padola, N.L.,
+Etcheverria, A.I., 2000. Virulence genotypes and serotypes of verotoxigenic
+Escherichia coli isolated from cattle and foods in Argentina. European Journal of
+Epidemiology 18, 757–762.
+
+Paton, A.W., Paton, J.C., 2002. Direct detection and characterization of Shiga toxigenic
+Escherichia coli by multiplex PCR for stx1, stx2, eae, ehxA and saa. Journal of Clinical
+Microbiology 40, 271–274.
+
+Perez-Perez, F.J., Hanson, N.D., 2002. Detection of plasmid-mediated AmpC beta-
+lactamase genes in clinical isolates by using multiplex PCR. Journal of Clinical
+Microbiology 40, 2153–2162.
+
+Philippon, A., Arlet, G., Jacoby, G.A., 2002. Plasmid-determined AmpC-type beta-
+
+lactamases. Antimicrobial Agents and Chemotherapy 46, 1–11.
+
+Ratchtrachenchai, O.A., Subpasu, S., Hayashi, H., Ba-Thein, W., 2004. Prevalence of
+childhood diarrhoea-associated Escherichia coli in Thailand. Journal of Medical
+Microbiology 53, 237–243.
+
+Roberts, M.C., 2003. Tetracycline therapy: update. Clinical Infectious Diseases 36,
+
+462–467.
+Russo, T.A.,
+
+Johnson,
+
+for a new inclusive designation for
+extraintestinal pathogenic isolates of Escherichia coli: ExPEC. The Journal of
+Infectious Diseases 181, 1753–1754.
+
+J.R., 2000. Proposal
+
+Saenz, Y., Brinas, L., Dominguez, E., Ruiz, J., Zarazaga, M., Vila, J., Torres, C., 2004.
+Mechanisms of resistance in multiple-antibiotic-resistant Escherichia coli strains of
+human, animal, and food origins. Antimicrobial Agents and Chemotherapy 48,
+3996–4001.
+
+Samadpour, M., Barbour, M.W., Nguyen, T., Cao, T.M., Buck, F., Depavia, G.A., Mazengia,
+E., Yang, P., Alﬁ, D., Lopes, M., Stopforth, J.D., 2006. Incidence of enterohemorrhagic
+Escherichia coli, Escherichia coli O157, Salmonella, and Listeria monocytogenes in
+retail fresh ground beef, sprouts, and mushrooms. Journal of Food Protection 69,
+441–443.
+
+Schroeder, C.M., White, D.G., Ge, B., Zhang, Y., McDermott, P.F., Ayers, S., Zhao, S., Meng,
+J., 2003. Isolation of antimicrobial-resistant Escherichia coli from retail meats
+purchased in Greater Washington, DC, USA.
+Journal of Food
+Microbiology 85, 197–202.
+
+International
+
+Schroeder, C.M., White, D.G., Meng, J., 2004. Retail meat and poultry as a reservoir of
+
+antimicrobial-resistant Escherichia coli. Food Microbiology 21, 249–255.
+
+Sengelov, G., Halling-Sorensen, B., Aarestrup, F.M., 2003. Susceptibility of Escherichia
+coli and Enterococcus faecium isolated from pigs and broiler chickens to tetracycline
+degradation products and distribution of tetracycline resistance determinants in E.
+coli from food animals. Veterinary Microbiology 95, 91–101.
+
+Sokurenko, E.V., Chesnokova, V., Dykhuizen, D.E., Ofek, I., Wu, X.R., Krogfelt, K.A., Struve,
+C., Schembri, M.A., Hasty, D.L., 1998. Pathogenic adaptation of Escherichia coli by
+natural variation of the FimH adhesin. Proceedings of the National Academy of
+Sciences of the United States of America. 95, 8922–8926.
+
+Su, H.P., Chiu, S.I., Tsai, J.L., Lee, C.L., Pan, T.M., 2005. Bacterial food-borne illness
+outbreaks in northern Taiwan, 1995–2001. Journal of Infection and Chemotherapy
+11, 146–151.
+
+Sunde, M., Nordstrom, M., 2006. The prevalence of, associations between and conjugal
+transfer of antibiotic resistance genes in Escherichia coli isolated from Norwegian
+meat and meat products. Journal of Antimicrobial Chemotherapy 58, 741–747.
+
+Teshager, T., Herrero, I.A., Porrero, M.C., Garde, J., Moreno, M.A., Dominguez, L., 2000.
+Surveillance of antimicrobial resistance in Escherichia coli strains isolated from pigs
+at Spanish slaughterhouses. International Journal of Antimicrobial Agents 15,
+137–142.
+
+Van den Bogaard, A.E., Stobberingh, E.E., 2000. Epidemiology of resistance to antibiotics.
+Links between animals and humans. International Journal of Antimicrobial Agents
+14, 327–335.
+
+Van, T.T.H., Moutaﬁs, G., Tran, L.T., Coloe, P.J., 2007. Antibiotic resistance in food-borne
+bacterial contaminants in Vietnam. Applied and Environmental Microbiology 73,
+7906–7911.
+
+Vila, J., Gene, A., Vargas, M., Gascon, J., Latorre, C., Jimenez De Anta, M.T., 1998. A case–
+control study of diarrhoea in children caused by Escherichia coli producing heat-
+stable enterotoxin (EAST-1). Journal of Medical Microbiology 47, 889–891.
+
+WHO, 1997. The medical impact of the use of antimicrobials in food animals. Report of a
+WHO Meeting. Berlin, Germany, 13–17 October 1997. Document WHO/EMC/ZOO/
+97.4. http://whqlibdoc.who.int/hq/1997/WHO_EMC_ZOO_97.4.pdf.
+
+Winokur, P.L., Vonstein, D.L., Hoffman, L.J., Uhlenhopp, E.K., Doern, G.V., 2001. Evidence
+for transfer of CMY-2 AmpC β-lactamase plasmids between Escherichia coli and
+Salmonella isolates from food animals and humans. Antimicrobial Agents and
+Chemotherapy 45, 2716–2722.
+
+Wu, X.-Y., 2006. Studies on the impact of probiotic bacteria on enteric microbial
+diversity and immune response. Ph.D. thesis. University of Wollongong, Sydney,
+NSW, Australia.
+
+Yan,
+
+J.J., Hong, C.Y., Ko, W.C., Chen, Y.J., Tsai, S.H., Chuang, C.L., Wu,
+
+J.J., 2004.
+Dissemination of blaCMY-2 among Escherichia coli isolates from food animals, retail
+ground meats, and humans in southern Taiwan. Antimicrobial Agents and
+Chemotherapy 48, 1353–1356.
+
+Zhou, Z., Ogasawara, J., Nishikawa, Y., Seto, Y., Helander, A., Hase, A., Iritani, N.,
+Nakamura, H., Arikawa, K., Kai, A., Kamata, Y., Hoshi, H., Haruki, K., 2002. An
+outbreak of gastroenteritis in Osaka, Japan due to Escherichia coli serogroup O166
+[ratio]H15 that had a coding gene for enteroaggregative E. coli heat-stable
+enterotoxin 1 (EAST1). Epidemiology and Infection 128, 363–371.
+
+

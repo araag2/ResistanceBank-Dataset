@@ -1,0 +1,1676 @@
+Food Control 51 (2015) 15e22
+
+Contents lists available at ScienceDirect
+
+Food Control
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / f o o d c o n t
+
+Low contamination of Campylobacter spp. on chicken carcasses in
+Minas Gerais state, Brazil: Molecular characterization and
+antimicrobial resistance
+Humberto Moreira Hungaro a, *, Regina Celia Santos Mendonça a, Vinícius Ornelas Rosa a,
+Andrea Catia Leal Badaro b, Maria Aparecida Scatamburlo Moreira c,
+Jose Benício Paes Chaves a
+a Department of Food Technology, Federal University of Viçosa (UFV), Av. PH Rolfs s/n, Campus Universitario, Viçosa, 36570-900, Minas Gerais, Brazil
+b Department of Food Technology, Technological Federal University of Parana (UTFPR), Av. Santa Barbara s/n, Francisco Beltr~ao, 85601-970, Parana, Brazil
+c Department of Veterinary Medicine, Federal University of Viçosa (UFV), Av. PH Rolfs s/n, Campus Universitario, Viçosa, 36570-900, Minas Gerais, Brazil
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 9 June 2014
+Received in revised form
+1 October 2014
+Accepted 1 November 2014
+Available online 8 November 2014
+
+Keywords:
+Foodborne pathogen
+Poultry
+Multidrug resistance
+MPN
+CmeABC
+PAbN
+
+Here, we evaluated Campylobacter contamination on chicken carcasses and phenotypic and genotypic
+proﬁles of antimicrobial resistance of the isolated strains. A total of 95 of samples were collected from 19
+slaughterhouses from Minas Gerais - Brazil, and analyzed by MPN-PCR method. Campylobacter was found
+in 16.8% of samples with microbial load ranging from 60 to 184 MPN/carcass. All isolates were resistant to
+at least 5 (31.2%) of the antimicrobials screened using the disk diffusion method. Thr-86-Ile gyrA mu-
+tation, blaOxA-61 and tet(O) genes were found in 95%, 100% and 40% resistant isolates to ciproﬂoxacin,
+ampicillin and tetracycline, respectively. Almost all isolates (90%) showed the three genes required to
+synthesize the CmeABC efﬂux system. The use of efﬂux pump inhibitor (PAbN) resulted in a signiﬁcant
+reduction in the MICs of antimicrobials (2e128 fold), indicating the importance of efﬂux systems in
+conferring antimicrobial resistance. Campylobacter were detected at low concentrations in Brazilian
+chicken carcasses. However, high-levels of antimicrobial resistance were observed and associated with
+several mechanisms. This study provides a baseline survey on contamination of Campylobacter in Bra-
+zilian chicken carcasses and its antimicrobial resistance, giving support for actions directed at reducing
+this pathogen in the food chain.
+
+© 2014 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+
+Campylobacter spp. has been recognized as a major cause of
+foodborne disease worldwide. In 2011 the European Food Safety
+Authority (EFSA, 2013) reported that the total number of campylo-
+bacteriosis cases was 220,209 in the European Union, and it has fol-
+lowed a signiﬁcant increasing trend in the last years. In the United
+States, this pathogen was the second most common infection with
+14.3 cases reported per 100,000 population in FoodNet in 2012 (CDC,
+2013). Although it is generally recognized that there are many
+contamination sources of this pathogen, chicken meat and by-
+
+* Corresponding author. Department of Pharmaceutical Sciences, Jose Lourenço
+Kelmer, s/n e Bairro S~ao Pedro, Campus Universitario, Juiz de Fora, 36036-900,
+Minas Gerais, Brazil. Tel.: þ55 32 2102 3804; fax: þ55 32 2102 3893.
+
+E-mail address: humbertomh@gmail.com (H.M. Hungaro).
+
+http://dx.doi.org/10.1016/j.foodcont.2014.11.001
+0956-7135/© 2014 Elsevier Ltd. All rights reserved.
+
+products are the most important vehicles for human campylo-
+bacteriosis (Humphrey, O'brien, & Madsen, 2007). Poultry are
+considered natural reservoirs for this pathogen, and carcass
+contamination occurs more frequently via crop leakage and intestinal
+rupture during the evisceration stage in slaughterhouses (Smith
+et al., 2007). A world literature survey showed that about 58% of
+chicken carcasses and by-products are contaminated by Campylo-
+bacter spp., but great variations in the ﬁndings were observed (Suzuki
+& Yamamoto, 2009). Despite the importance of this pathogen, the
+epidemiological and risk assessment studies are recent in Brazil, and
+there are no legal standards yet established for its presence or counts
+in foods. Researches in this ﬁeld become absolutely necessary in
+Brazil because this country is the world's largest exporter of chicken
+meat since 2004 and it is the third producer, surpassed only by United
+States and China. The largest chicken meat producing states are
+Parana, Santa Catarina, Rio Grande do Sul, S~ao Paulo and Minas
+Gerais, according to the 2014 annual report of Brazilian Poultry
+
+16
+
+H.M. Hungaro et al. / Food Control 51 (2015) 15e22
+
+Association (UBABEF, 2014). More recently, concern regarding
+Campylobacter contamination in foods has increased because of high
+levels of antimicrobial resistance, including the frequent isolation of
+multidrug-resistant strains (Mozina, Kurincic, Klancnik, & Mavri,
+2011). Antimicrobial resistance among bacterial pathogens isolated
+from foods has been attributed to the indiscriminate use of antimi-
+crobials in animal husbandry for preventive or therapeutic purposes
+as well as for increasing the growth rate of animals (Alfredson &
+Korolik, 2007). The dissemination of resistant Campylobacter to
+other environments via livestock and foods of animal origin may
+contribute to the emergence of antimicrobial resistance in humans
+and complicate effective clinical treatment of campylobacteriosis
+(Aarestrup & Engberg, 2001). Multiple mechanisms for antibiotic
+resistance are present in Campylobacter spp., which may be associ-
+ated with mutational alteration or modiﬁcation of target molecules,
+repression of uptake systems, activation of efﬂux pumps, and inac-
+tivation of the antibiotic (Iovine, 2013). Among these, the CmeABC
+efﬂux system plays a key role in resistance to a wide variety of
+compounds including antibiotics, bile salts, dyes and detergents, and
+has been broadly studied and characterized as a potential target to
+reduce antimicrobial resistance of Campylobacter spp. (Lin, Michel, &
+Zhang, 2002).
+
+Resistance of Campylobacter isolates from chicken and by-
+products to antibiotics such as quinolones, macrolides, tetracycline
+and ampicillin as well as the molecular mechanisms of this resis-
+tance have been reported in several studies (Griggs et al., 2009;
+Mackiw, Korsak, Rzewuska, Tomczuk, & Ro _zynek, 2012; Obeng
+et al., 2012). However, there is a lack of information regarding the
+molecular basis of antimicrobial resistance of Campylobacter isolates
+in Brazil. Most studies have focused on the prevalence of Campylo-
+bacter in food and animals and its phenotypic proﬁles of antimi-
+crobial resistance (Biasi, Freitas De Macedo, Scaranello Malaquias, &
+Franchin, 2011; Kuana, Santos, et al., 2008; de Moura et al., 2013).
+Therefore, to our knowledge, there are no published data about
+genotypic resistance in Campylobacter isolates from chicken car-
+casses in Brazil. The objectives of this study were to evaluate
+Campylobacter contamination on chicken carcasses slaughtered in
+Minas Gerais State - Brazil and to determinate phenotypic and
+genotypic proﬁles of antimicrobial resistance of the isolated strains.
+
+2. Materials and methods
+
+2.1. Sample collection
+
+A total of 95 chicken carcasses were collected from 19 slaugh-
+terhouses localized in Minas Gerais state, Brazil, during January and
+February 2012. This is the ﬁfth largest producer and exporting
+Brazilian state of chicken meat, surpassing 930,000 and 185,000
+tons of carcasses produced and exported in 2013, respectively
+(UBABEF, 2014). All selected establishments were representative of
+slaughterhouses located in Minas Gerais state, Brazil, regarding
+slaughtering frequency, numbers of slaughtered poultry and
+geographical distribution into state. They were previously selected
+by simple random sampling, representing 56% of the total number
+of federally inspected slaughterhouses in this Brazilian state. Five
+samples were randomly selected from each slaughterhouse after
+the chilling stage. Each carcass was aseptically packed in a sterile
+plastic bag and transported to the laboratory under cooled condi-
+tions. Upon arrival at the laboratory, the carcass samples were
+weighed and subject to Campylobacter enumeration.
+
+2.2. Enumeration of Campylobacter spp
+
+ 1 polymyxin B and 2 mg l
+
+ 1 of cephalothin, 20 mg l
+
+peptone water e BPW (Himedia, Mumbai, India), and vigorously
+shaken by hand for 1 min. This chicken carcass rinse was serially
+diluted (10-fold) using BPW and analyzed by the Most Probable
+Number Method (MPN) as described by Scherer, Bartelt,
+Sommerfeld, and Hildebrandt (2006a) with some modiﬁcations.
+ 1
+Brieﬂy, aliquots of 1 ml from each dilution (direct homogenate, 10
+ 2) were brought into three MPN-tubes containing 9 ml
+and 10
+Preston Enrichment Broth Base (Himedia, Mumbai, India) con-
+ 1
+taining 0.4% charcoal and supplemented with antibiotics (20 mg l
+ 1 of
+of trimethoprim lactate, 15 mg l
+ 1 of amphotericin
+vancomycin, 2.500 UI l
+B e SigmaeAldrich, Saint Louis, USA) and 5% reductive solution FBP
+(0.5% of ferrous sulfate, sodium metabisulﬁte, and sodium pyruvate
+e Vetec, Rio de Janeiro, Brazil). The MPN-tubes were incubated
+under microaerobic conditions (approximately 2% H2, 5% O2, 10%
+CO2 and 83% N2) at 42 C for 24 h using an anaerobic chamber
+(Forma 1025 Thermo Scientiﬁc, USA). Then, 10 ml from each tube
+were streaked onto Campylobacter Agar Base (Himedia, Mumbai,
+India) supplemented as previously described for Preston broth.
+After an incubation time of 48 h at 42 C under microaerobic
+conditions, plates were examined for presence of presumptive
+colonies. At least ﬁve colonies per plate were selected, Gram
+stained and examined by phase-contrast microscopy for typical
+Campylobacter morphology. One colony per tube-NMP showing
+typical cellular morphology was isolated and conﬁrmed using po-
+lymerase chain reaction (PCR). After molecular conﬁrmation of
+these colonies, the number of positive tubes at each dilution was
+determined and the Campylobacter spp. counts present in the rinse
+ﬂuid and, consequently,
+in the chicken carcass samples were
+computed from the statistical MPN table of de Man (1983) (95%
+conﬁdence interval).
+
+2.3. Conﬁrmation and species identiﬁcation
+
+The isolates were conﬁrmed and identiﬁed using genus- and
+species-speciﬁc PCR assays. DNA extraction was carried out using a
+boiled-cell method. Fresh cultures of isolates were suspended in
+500 ml of sterile ultra-pure water and boiled at 95 C for 10 min.
+After centrifugation at 13,000 g for 2 min, the supernatants were
+collected and stored at  20 C until use as template DNA in the PCR
+reactions. Primer sequences for the 16S rRNA gene were used to
+conﬁrm isolates as belonging to the Campylobacter genus. The
+species were identiﬁed using primer sequences to detect hippuri-
+case gene (hipO) speciﬁc for Campylobacter jejuni, and siderophore
+transport gene (ceuE) speciﬁc for Campylobacter coli. Ampliﬁcations
+were carried out in 25 ml reactions containing 2.5 ml of 10  PCR
+ 1 of deoxynucleoside triphosphate mix (ATP,
+buffer; 0.2 mmol l
+ 1 of each primer; 2.5 U Taq PCR
+GTP, TTP and CTP); 0.4 mmol l
+polymerase (Promega, Madison, USA) and 2 ml of DNA preparation.
+PCR reaction mixtures were heated at 96 C for 2 min as an initial
+denaturation step followed by 30 cycles of denaturation at 95 C for
+30 s, annealing for 45 s and extension 72 C for 60 s, and a ﬁnal
+extension at 72 C for 5 min. The sequence of primers and annealing
+temperatures are listed in Table 1. The ampliﬁed products were
+electrophoresed in 1.5% agarose gel containing ethidium bromide
+ 1) at 90 V for 40 min and visualized using a UV gel
+(0.5 mg ml
+documentation system (Quantum ST4 1100/26MX e Vilber Lour-
+mat). A 100-bp DNA ladder (New England Biolabs, MA, USA) was
+used as a standard for molecular size determinations.
+
+2.4. Antibiotic susceptibility screening
+
+Previously, each carcass was aseptically transferred into a new
+sterile plastic bag, to which was added 200 ml of 0.1% buffered
+
+The Campylobacter isolates were analyzed for antimicrobial
+resistance using the agar disk diffusion method (CLSI, 2010). The
+bacterial suspension was prepared in sterile saline solution (0.85%
+
+H.M. Hungaro et al. / Food Control 51 (2015) 15e22
+
+Table 1
+Primers and annealing temperature used for PCR in this study.
+
+Primer sequence (50e30)
+
+Target
+gene
+
+16S rRNA ATCTAATGGCTTAACCATTAAAC
+
+Annealing
+temperature
+59 C
+
+hipO
+
+ceuE
+
+tet(O)
+
+GGACGGTAACTAGTTTAGTAT
+GAAGAGGGTTTGGGTGGTG
+AGCTAGCTTCGCATAATAACTTG
+
+TGATTTTATTATTTGTAGCAGCG
+AATTGAAAATTGCTCCAACTATG
+GCGTTTTGTTTATGTGCG
+ATGGACAACCCGACAGAAG
+
+gyrA
+
+blaOxA-61 AGAGTATAATACAAGCG
+TAGTGAGTTGTCAAGCC
+TTTTTAGCAAAGATTCTGAT
+CAAAGCATCATAAACTGCAA
+TTTGGATCCTTGATGGCTAAGGC
+AACTTTC
+CTCCAATTTCTTAAGCTTCGCTACCAA
+
+cmeA
+
+cmeB Cja GGTACAGATCCTGATCAAGCC
+
+66 C
+
+59 C
+
+54 C
+
+54 C
+
+48 C
+
+50 C
+
+50 C
+
+AGGAATAAGTGTTGCACGGAAATT
+
+cmeB Ccb TCCTAGCAGCACAATATG
+AGCTTCGATAGCTGCATC
+GCTTGGATCCTTATCTTGGGAAAAA 50 C
+TTTTTAAAGCTTTAAGGTAATTTTCTT
+
+cmeC
+
+54 C
+
+Reference
+
+Denis et al. (1999)
+
+Linton, Lawson,
+Owen, and Stanley
+(1997)
+Denis et al. (1999)
+
+Pratt and Korolik
+(2005)
+Obeng et al. (2012)
+
+Zirnstein et al.
+(1999)
+Lin et al. (2002)
+
+Lin et al. (2002)
+
+Obeng et al. (2012)
+
+Lin et al. (2002)
+
+a Cj e C. jejuni.
+b Cc e C. coli.
+
+ 1) from colonies grown on Müller-Hinton agar contain-
+NaCl wt v
+ 1) sheep blood (M H blood) at 42 C for 24 h under
+ing 5% (v v
+microaerobic conditions, and adjusted to an absorbance of 0.13 at
+ 1. Sterile cotton-tipped swabs
+625 nm equivalent to 108 CFU ml
+were used to transfer the inoculum onto M H blood plates to
+produce a conﬂuent lawn of bacterial growth. After the inoculum
+the plates were dried, the antibiotic disks were distributed over the
+inoculated plates and these were incubated at 42 C for 48 h under
+microaerobic conditions. The standard disks (Laborclin, Brazil)
+containing the following antibiotics were used in this assay: cip-
+roﬂoxacin (5 mg); nalidixic acid (30 mg); chloramphenicol (30 mg);
+tetracycline (30 mg); gentamicin (10 mg); imipenem (10 mg);
+ampicillin (10 mg); amoxicillin-clavulanic acid (10 mg); cephalothin
+(30 mg); cefoxitin (30 mg); cefuroxime (30 mg); cefotaxime (30 mg);
+ceftazidime
+trimethoprim-
+sulfamethoxazole (23.75/1.25 mg); and erythromycin (15 mg). The
+inhibition zone diameter obtained for these antibiotics was inter-
+preted according to the breakpoints of the Clinical and Laboratory
+Standards Institute for Enterobacteriaceae (CLSI, 2012), except for
+erythromycin, which followed recommendations from The Euro-
+pean Committee on Antimicrobial Susceptibility Testing e EUCAST
+(http://www.eucast.org). The multiple antibiotic resistance (MAR)
+index was calculated using the formula: a/b, where ‘a’ represents
+the number of antibiotics to which a particular isolates was resis-
+tant and ‘b’ the total number of antibiotics tested.
+
+cefepime
+
+mg);
+
+mg);
+
+(30
+
+(30
+
+2.5. Detection of antibiotic resistance genes
+
+All the Campylobacter spp. were tested for the presence of tet(O),
+blaOxA-61, gyrA (Thr-86-Ile mutation), cmeA, cmeB, and cmeC genes,
+representing resistance to tetracycline, ampicillin and quinolones,
+and CmeABC efﬂux system components, respectively. Each ampli-
+ 1
+ﬁcation reaction consisted of 2.5 ml of 10  PCR buffer; 0.2 mmol l
+of deoxynucleoside triphosphate mix (ATP, GTP, TTP and CTP);
+ 1 of each primer; 2.5 U Taq PCR polymerase (Promega,
+0.4 mmol l
+Madison, USA) and 2 ml of DNA preparation in a total reaction
+volume of 25 ml. Simplex PCR assays for each gene were performed
+using the following protocol: initial denaturation step of 96 C for
+
+17
+1 min, followed by 30 cycles of 94 C for 30 s, speciﬁc annealing
+temperature for 45 s, and 72 C for 1 min, and a ﬁnal extension step
+at 72 C for 5 min. The sequence of primers and annealing tem-
+peratures are listed in Table 1. The various amplicons were elec-
+trophoresed and visualized as previously described.
+
+2.6. Effect of efﬂux pump inhibitor on antimicrobial resistance
+
+To investigate the contribution of efﬂux systems to resistance to
+ampicillin, tetracycline, ciproﬂoxacin (SigmaeAldrich, Saint Louis,
+USA) and bile salts (50% sodium cholate and 50% sodium deoxy-
+cholate) (Becton Dickinson, Sparks, USA), the minimum inhibitory
+concentrations (MIC) of these antimicrobials were determined in
+all isolates using broth microdilution method (CLSI, 2010) in the
+presence and absence of phenylalanineearginine b-naphthylamide
+(PAbN) (SigmaeAldrich, Saint Louis, USA), a well-known efﬂux
+pump inhibitor. The resistance assays were carried out in the 96-
+well microtiter plates containing a ﬁnal volume of 100 ml per well
+of Mueller Hinton broth (Himedia, Mumbai, India), with addition of
+ 1. Two-fold serial
+testing agents and ﬁnal inoculum of 105 CFU ml
+dilutions of antibiotics and bile salts were performed in the 96-well
+ 1 and
+plates for concentrations from 0.125 to 512 mg ml
+ 1, respectively. The PAbN was used to a ﬁnal con-
+0.05e25 mg ml
+ 1 deﬁned by a preliminary microdilution
+centration of 5 mg ml
+assay, and that had no inhibitory effects on bacterial growth for any
+of the isolates. All of the MIC measurements were carried out in
+triplicate, and positive and negative control wells were included.
+The microtiter plates were incubated at 42 C for 48 h under
+microaerobic conditions. Antibacterial activity was detected using a
+colorimetric method by adding 30 ml of resazurin staining (0.01%)
+aqueous solution in each well at the end of the incubation period
+(at least 4 h before). The MICs were deﬁned as the lowest con-
+centration of an antimicrobial where no metabolic activity is seen
+after the incubation period, and they were determined by visual
+observation on the basis of change in resazurin staining (living cells
+e red; dead cells e blue) (Salvat, Antonnacci, Fortunato, Suarez, &
+Godoy, 2001).
+
+3. Results
+
+A total number of 95 chicken carcasses from 19 slaughterhouses
+were analyzed for the presence of Campylobacter spp. by the Most
+Probable Number Method (MPN) associated with PCR conﬁrma-
+tion. Sixteen samples from nine slaughterhouses were contami-
+ 1
+nated with microbial load ranging from 60 to 184 MPN carcass
+(Table 2). The overall contamination of chicken carcasses with
+Campylobacter spp. was 16.8%, while the variation in positive
+samples between the slaughterhouses was 20e60%. C. jejuni was
+the species most frequently isolated, representing 93.8% of the
+positive samples, whereas C. coli was present in only one sample. A
+total of 20 Campylobacter isolates made up of 18 C. jejuni and 2
+C. coli isolates were obtained during sampling of typical colonies
+grown on Campylobacter agar, corresponding to one isolate per
+positive MPN-tube. An initial screening was performed to identify
+the antimicrobial susceptibility of 20 Campylobacter strains against
+16 antimicrobial agents by using the disk diffusion test. All isolates
+were resistant to at least 5 (31.2%) of the antimicrobial agents tested
+(Table 3). The highest resistance rates were noted for cephalospo-
+rins (75e100%), ciproﬂoxacin (95%), nalidixic acid (95%) and
+trimethoprim-sulfamethoxazole (100%). A similar level of resis-
+tance was found for tetracycline (50%) and ampicillin (45%),
+whereas a lower frequency of resistance was observed toward
+amoxicillin-clavulanic acid (10%). On the other hand, no resistance
+to chloramphenicol, gentamicin, imipenem, cefepime or erythro-
+mycin was observed in any of the isolates. From these data, we
+
+18
+
+H.M. Hungaro et al. / Food Control 51 (2015) 15e22
+
+Table 2
+Campylobacter spp. enumeration in chicken carcass samples using MPN technique.
+
+Slaughterhouses
+
+Sample code
+
+Positive tubes (Dilution) MPN carcass
+
+ 1 (a)
+
+D-10-1-10
+
+ 2
+
+Eight ampicillin-resistant isolates had a b-lactamase gene (blaOxA-
+61), and this fact was also observed in ten sensitive isolates. More-
+over, we also investigated the presence of the three genes that
+encode the CmeABC efﬂux pump in Campylobacter spp. These three
+genes, named cmeA, cmeB and cmeC, are arranged in an operon, and
+encode for a periplasmic fusion protein, an inner membrane drug
+transporter and an outer membrane protein, respectively. The cmeB
+gene was found in all isolates, whereas cmeA was absent in two
+isolates, one of which also showed no cmeC.
+
+We used phenylalanine-arginine b-naphthylamide (PAbN) to
+inhibit the CmeABC efﬂux system from Campylobacter isolates in
+order to evaluate its effect on transport and resistance to antimi-
+crobials. A correlation between this efﬂux system and resistance to
+bile salts was observed for almost all isolates, whereas with other
+antibiotics it was not so evident. Approximately 90, 55, 50 and 25%
+of the isolates had transport of bile salts, ciproﬂoxacin, ampicillin
+and tetracycline affected by PAbN, respectively. In combination
+with PAbN, the MIC of ciproﬂoxacin, tetracycline and ampicillin
+decreased from 2 to 8-fold for at least one of the isolates evaluated,
+whereas for bile salts the decrease ranged from 2 to 128-fold
+(Table 4). In addition, our results revealed that the absence of
+cmeA and cmeC genes in two isolates did not inﬂuence the resis-
+tance or transport of antimicrobials.
+
+4. Discussion
+
+Our results revealed low prevalence (16.8%) and low numbers
+ 1) of Campylobacter spp. in chicken carcasses
+(60e184 MPN carcass
+obtained from slaughterhouses from Minas Gerais state, Brazil.
+However, high resistance levels were observed in isolates for most
+of the antibiotics, which proved to be caused by different molecular
+mechanisms. Campylobacter contamination rates in this type of
+food vary widely among countries, including Brazil. In a study of 13
+European Union member states performed in 2011, the chicken
+carcass contamination rate was 31.3% on average, but ranged from
+3.2% to 84.6% (EFSA, 2013). Likewise, a literature survey of studies
+performed in Brazil also showed that the occurrence of Campylo-
+bacter spp. in chickens and by-products is widespread and ranges
+from 6.7 to 100% (Franchin, Ogliari, & Batista, 2007; Gonçalves,
+Yamanaka, Almeida, Chano, & Ribeiro, 2013; de Moura et al.,
+2013; Oliveira & Oliveira, 2013). These variations in the preva-
+lence rates of Campylobacter may be attributed to poultry breeding
+methods, hygienic practices during slaughter, sampling strategies
+and differences in analytical methods (Daskalov & Maramski,
+2012).
+
+Although many studies have conﬁrmed the prevalence of
+Campylobacter in chicken carcasses, a quantitative risk assessment
+of human campylobacteriosis depends on quantitative data, which
+has been highlighted as a major hindrance in carrying out such an
+assessment in developing countries (FAO/WHO, 2002). The choice
+of most appropriate quantiﬁcation method depends on the ex-
+pected level of Campylobacter in the sample examined and any
+competitive bacterial ﬂora that may be present (Son, Englen,
+Berrang, Fedorka-Cray, & Harrison, 2007). In this study, we chose
+to use the Most Probable Number Method (MPN) associated with
+identiﬁcation of Campylobacter by using a species-speciﬁc PCR
+technique, which proved to be more suitable for enumeration of
+this pathogen in Brazilian chicken carcasses. Our results showed
+that the concentration of Campylobacter spp. in chicken carcasses
+was low and similar to results reported by Tang et al. (2010), Wong
+et al. (2007) and Scherer, Bartelt, Sommerfeld, and Hildebrandt
+(2006b), who found the contamination of most samples ranging
+ 1,
+from <100 MPN g
+respectively. However, even a low contamination of chicken car-
+casses may be of concern to food safety authorities as because
+
+ 1, <0.3 to 10 MPN g
+
+ 1, and <0.3 MPN g
+
+A
+B
+C
+D
+
+E
+
+F
+
+G
+
+A52013
+B12013
+C42013
+D22013
+D32013
+D42013
+E22013
+E32013
+E52013
+F12013
+F22013
+F32013
+G12013
+G52013
+H42013
+I52013
+
+0-1-0
+1-0-0
+1-0-0
+2-0-0
+1-0-0
+1-1-0
+1-0-0
+2-0-0
+1-0-0
+2-0-0
+1-0-0
+1-0-0
+1-0-0
+1-0-0
+1-0-0
+0-1-0
+
+60
+72
+72
+184
+72
+148
+72
+184
+72
+184
+72
+72
+72
+72
+72
+72
+
+H
+I
+a Remaining samples showed Campylobacter spp. < 60 MPN carcass
+
+ 1.
+
+selected three antibiotics (ciproﬂoxacin, tetracycline and ampi-
+cillin) and bile salts for an investigation of the MICs and molecular
+mechanisms contributing to antimicrobial resistance. Eight isolated
+strains (40%) showed multi-drug resistance to ampicillin, tetracy-
+cline and ciproﬂoxacin, and only one was sensitive to the three
+antibiotics evaluated using the broth microdilution method
+(Table 4). The MIC values of bile salts were highly variable, with
+resistance rates between 0.390 and >25 mg ml
+
+ 1.
+
+The results of phenotypic and genetic analysis of ciproﬂoxacin
+susceptibility were sufﬁciently compatible, which was not
+conﬁrmed for
+tetracycline and ampicillin. All ciproﬂoxacin-
+resistant isolates had a point mutation Thr-86-Ile in gyrA gene of
+DNA gyrase, except for one. In contrast, ten isolates were resistant
+to tetracycline, but only four showed the tet(O) gene responsible for
+the synthesis of a ribosomal protection protein that confers resis-
+tance to the inhibitory effect of tetracycline on protein synthesis.
+
+Table 3
+Antibiotic resistance proﬁle and multiple antibiotic resistance (MAR) index of
+Campylobacter spp. isolates from chicken carcasses.
+
+Strain
+
+A52013
+B12013
+C42013
+D22013a
+D22013b
+D32013
+D42013a
+D42013b
+E22013
+E32013a
+E32013b
+E52013
+F12013a
+F12013b
+F22013
+F32013
+G12013
+G52013
+H42013
+I52013
+
+Antibiotic resistant proﬁlea
+
+MAR index
+
+CipNalCphCfoCrxCtxCazSut
+CipNalTetAmpCfphCfoCrxCtxCazSut
+CipNalTetCphCfoCrxCtxCazSut
+CipNalTetAmpAmcCphCfoCrxCtxCazSut
+CipNalTetAmpAmcCphCfoCrxCtxCazSut
+CipNalAmpCphCfoCrxCtxCazSut
+CipNalCphCfoCrxCtxCazSut
+CipNalTetCphCfoCrxCtxCazSut
+CipNalCphCfoCrxCtxCazSut
+CipNalCphCfoCrxCazSut
+CipNalCphCfoCrxCtxCazSut
+CipNalTetCphCfoCrxCtxCazSut
+CipNalTetAmpCphCfoCrxCtxCazSut
+CipNalTetAmpCphCfoCrxCtxCazSut
+CipNalTetAmpCphCfoCrxCtxCazSut
+CipNalTetAmpCphCfoCrxCtxCazSut
+CipNalCphCfoCrxSut
+CipNalCphCfoCazSut
+AmpCphCfoCrxSut
+CipNalCphCfoCrxCazSut
+
+0.50
+0.63
+0.56
+0.69
+0.69
+0.56
+0.50
+0.56
+0.50
+0.44
+0.50
+0.56
+0.63
+0.63
+0.63
+0.63
+0.38
+0.38
+0.31
+0.44
+
+a Ciproﬂoxacin (Cip) 5 mg; Nalidixic acid (Nal) 30 mg; Chloramphenicol (Clo) 30 mg;
+Tetracycline (Tet) 30 mg; Gentamicin (Gen) 10 mg; Imipenem (Imp) 10 mg; Ampicillin
+(Amp) 10 mg; Amoxicillin-clavulanic acid (Amc) 10 mg; Cephalothin (Cﬂ) 30 mg;
+Cefoxitin (Cfo) 30 mg; Cefuroxime (Crx) 30 mg; Cefotaxime (Ctx) 30 mg; Ceftazidime
+(Caz) 30 mg; Cefepime (Cpm) 30 mg; Trimethoprim-sulfamethoxazole (Sut) 23.75/
+1.25 mg; Erythromycin (15 mg).
+
+Table 4
+Minimum inhibitory concentrations (MICs) of antimicrobials in the absence and presence of the efﬂux pump inhibitor (EPI) against Campylobacter isolates and research on
+resistance genes.
+
+H.M. Hungaro et al. / Food Control 51 (2015) 15e22
+
+19
+
+Strain
+
+MIC of antibiotics (mg l
+
+ 1)
+
+Bile salts
+¡P
+
+þP
+
+Resistance genes
+
+gyrA tet(O) blaOxA cmeA cmeB cmeC
+
+Cip
+¡P
+4R
+8R
+8R
+8R
+32R
+8R
+32R
+8R
+4R
+8R
+16R
+8R
+4R
+8R
+8R
+8R
+8R
+8R
+0.5S
+4R
+
+þP
+0.5
+8
+4
+4
+16
+8
+16
+4
+4
+4
+8
+8
+4
+4
+8
+8
+4
+4
+0.5
+4
+
+Tet
+¡P
+<0.5S
+128R
+256R
+64R
+256R
+<0.12S
+<0.12S
+64R
+<0.12S
+<0.12S
+<0.12S
+64R
+128R
+512R
+128R
+64R
+<0.12S
+<0.12S
+0.5S
+<0.12S
+
+390.6
+390.6
+390.6
+390.6
+781.3
+195.3
+1562.5
+390.6
+781.25
+
+6250
+25,000
+3125
+12,500
+25,000
+3125
+12,500
+3125
+1562.5
+
+A52013
+B12013
+C42013
+D22013a
+D22013b
+D32013
+D42013a
+D42013b
+E22013
+E32013a
+E32013b
+E52013
+F12013a
+F12013b
+F22013
+F32013
+G12013
+G52013
+H42013
+I52013
+ P: absence of phenylalanine-arginine b-naphthylamide (PAbN); þP: presence of phenylalanine-arginine b-naphthylamide (PAbN); R e resistant; S e sensitive; (þ) e presence
+of genes; ( ) e absence of genes. Breakpoint - ciproﬂoxacin 4 mg l
+ 1(Amp) (CLSI, 2012 e Enterobacteriaceae).
+Values highlighted in bold indicate difference in the MIC in presence of the EPI.
+
+390.6
+97.65
+781.3
+195.3
+390.6
+781.3
+781.3
+1562.5
+195.3
+
+ 1 (Cip); tetracycline 16 mg l
+
+ 1(Tet); and ampicillin 32 mg l
+
+e
+þ
+e
+þ
+þ
+e
+e
+þ
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+
+>25,000
+>25,000
+12,500
+
+390.6
+
+25,000
+12,500
+12,500
+
+1562.5
+1562.5
+3125
+25,000
+
+>25,000
+>25,000
+
+þ
+þ
+þ
+þ
+e
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+
+þP
+<0.5
+64
+256
+32
+256
+<0.12
+<0.12
+16
+<0.12
+<0.12
+<0.12
+32
+128
+256
+128
+64
+<0.12
+<0.12
+0.5
+<0.12
+
+Amp
+¡P
+4S
+32R
+2S
+128R
+512R
+2S
+8S
+128R
+1S
+8S
+8S
+8S
+128R
+256R
+64R
+64R
+4S
+4S
+8S
+4S
+
+þP
+2
+8
+1
+64
+256
+2
+8
+64
+1
+4
+4
+2
+128
+128
+64
+64
+4
+4
+8
+2
+
+þ
+þ
+þ
+þ
+e
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+e
+þ
+
+þ
+þ
+e
+þ
+þ
+þ
+þ
+þ
+e
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+
+þ
+þ
+e
+þ
+e
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+
+Campylobacter strains are highly infectious, with the infective dose
+being as low as 800 cells (Black, Levine, Clements, Hughes, and
+Blaser, 1988). A number of authors have quantiﬁed Campylobacter
+on chicken carcasses using enumeration methods other than MPN,
+and they observed that counts ranged from <1.0 to 8.0 log10 CFU
+ 1 (Chrystal, Hargraves, Boa, & Ironside, 2008; Figueroa,
+carcass
+Troncoso, Lopez, Rivas, & Toro, 2009;
+Johnsen,
+Økland, Cudjoe, & Hofshagen, 2007; Kuana, Dos Santos, et al.,
+2008; Stern et al., 2007). However, it is difﬁcult to compare re-
+sults across studies, owing to the use of different materials and
+enumeration methods, which consequently impedes the risk
+assessment studies (Scherer et al., 2006a).
+
+Johannessen,
+
+The most prevalent species in this study was C. jejuni detected in
+93.8% of positive ﬁndings, similar to what has been observed in
+other studies researching prevalence of this pathogen in chicken
+and by-products (Garin et al., 2012; Tang et al., 2010; Zhao et al.,
+2010). The higher rate of detection of C. jejuni in several studies
+may be a reﬂection of the methods used, rather than the actual
+incidence in food (Lynch, Cagney, Mcdowell, & Duffy, 2011). Besides
+C. jejuni and C. coli, other Campylobacter species were not detected
+by our study. Nonetheless, Campylobacter lari, Campylobacter
+upsaliensis, Campylobacter concisus and Campylobacter fetus have
+also been isolated from chicken and by-products in other studies,
+even if at a lower frequency (Garin et al., 2012; Lynch et al., 2011).
+Our study also represents one of the few reports on antibiotic
+susceptibility of Campylobacter spp.
+in chicken carcasses from
+Minas Gerais, Brazil. We used disk diffusion test to perform an
+initial screening in order to investigate antimicrobial resistance of
+20 Campylobacter isolates against 16 antimicrobials. All Campylo-
+bacter spp. evaluated in this study were resistant to at least ﬁve
+antimicrobials, thus characterized as multidrug-resistant isolates.
+The percentage of antibiotics to which a particular isolate was
+resistant ranged from 31% to 69%. We observed a generalized
+resistance to ﬁrst- and second-generation cephalosporin, namely
+cephalothin, cefoxitin and cefuroxime, whereas some isolates were
+susceptible to third-generation cephalosporin, cefotaxime and
+ceftazidime. Surprisingly, all isolates were susceptible to cefepime,
+
+a fourth-generation cephalosporin. Similar results were observed
+by Gritchina, Mishchuk, and Pozhalostina (2005), who demon-
+strated high resistance of Campylobacter to the ﬁrst-generation
+cephalosporins, and general susceptibility to cefepime. The ceph-
+alosporins belong to a diverse class of compounds named b-lactam
+antibiotics and individual differences among these molecules, such
+as the amount and variety of side chains, may explain the variation
+in antimicrobial resistance (Iovine, 2013). In addition, high resis-
+tance of Campylobacter to b-lactams may be a consequence of se-
+lective pressure caused by isolation and quantiﬁcation methods,
+whose culture media are supplemented with antibiotics of this
+class to inhibit enteric ﬂora contaminants (Corry, Post, Colin, &
+Laisney, 1995; Jacob, Mdegela, & Nonga, 2011).
+
+Resistance to a large number of b-lactam antimicrobial agents is
+becoming more widespread in foodborne bacteria,
+including
+Campylobacter (Li, Mehrotra, Ghimire, & Adewoye, 2007). Besides
+cephalosporins, we evaluated the antimicrobial resistance of
+Campylobacter to other b-lactams, including ampicillin, amoxicillin-
+clavulanic acid and imipenem. We observed a high level of resis-
+tance to ampicillin, which was similar to that reported in other
+studies (Griggs et al., 2009; Obeng et al., 2012). In contrast, all
+isolates were susceptible to imipenem, and most of them also to
+amoxicillin-clavulanic acid. In previous studies, these antimicrobial
+groups have also shown excellent in vitro activities against
+Campylobacter spp. (Griggs et al., 2009; Hakanen, Lehtopolku,
+Siitonen, Huovinen, & Kotilainen, 2003). Our results suggest that
+these agents might be candidates for clinical trials in enteritis
+caused by multi-drug resistant Campylobacter. Nevertheless, there
+are few data on the clinical efﬁcacy of b-lactams for the treatment
+of infections of this nature (Hakanen et al., 2003).
+
+Campylobacter isolated in the present study were also suscep-
+tible to gentamicin, erythromycin and chloramphenicol. Results
+similar to ours were reported by other authors, who observed that
+Campylobacter isolated from chicken were highly sensitive to these
+three antibiotics (EFSA, 2012; NARMS, 2011; Zhao et al., 2010). In
+contrast, higher resistances to these three antimicrobials were
+observed by de Moura et al. (2013) and Nobile, Costantino, Bianco,
+
+20
+
+H.M. Hungaro et al. / Food Control 51 (2015) 15e22
+
+Pileggi, and Pavia (2013) from Campylobacter isolated from chicken
+carcasses in Brazil and Italy, respectively.
+
+Alarmingly, we observed high resistance to quinolones (cipro-
+ﬂoxacin and nalidixic acid) and tetracycline. High levels of
+Campylobacter resistant to these antibiotics have also been reported
+by other authors (EFSA, 2012; Mackiw et al., 2012). The rates of
+resistance to quinolones and tetracycline vary worldwide, and in
+the last years the high prevalence of Campylobacter spp. resistant to
+these drug classes has been increasingly frequent and worrying
+(Alfredson & Korolik, 2007; EFSA, 2012; Mackiw et al., 2012). These
+concerns have become more severe because ﬂuoroquinolones and
+tetracycline, along with macrolides, are used for treating human
+infections (Mackiw et al., 2012; Obeng et al., 2012).
+
+Overall, we observed both similarities and differences amongst
+our results for antimicrobial resistance and those reported by other
+authors. These variations in resistance proﬁles of Campylobacter
+spp. might be expected, and occur due to the variations in the use of
+antibiotics among countries, the origin and type of the samples, the
+geographical distribution of resistant species and the methodology
+applied to evaluate susceptibility (Wassenaar et al., 2009; Wilson,
+2003; Zhao et al., 2010). The occurrence of high resistance rates
+to some of the antibiotics investigated in this study could be
+explained by their use as growth promoters in animal feed and
+veterinary medicine (Iovine & Blaser, 2004), and reﬂects the extent
+to which these antimicrobial agents are used in Brazil.
+
+In order to investigate the molecular basis of antimicrobial
+resistance of Campylobacter isolates, we evaluated the presence of
+resistance and efﬂux system genes as well as the minimum inhib-
+itory concentrations in the absence and presence of the efﬂux
+pump inhibitor for three antibiotics selected and bile salts. Bile salts
+were included in this last assay because their resistance in
+Campylobacter has proved to be mediated by CmeABC efﬂux system
+(Lin, Sahin, Michel, & Zhang, 2003). The high resistance to cipro-
+ﬂoxacin observed in this study was strongly correlated with the
+Thr-86-Ile modiﬁcation of GyrA. This mutation is the main mech-
+anism of resistance to ﬂuoroquinolones in Campylobacter, and has
+been frequently reported in other studies (Mackiw et al., 2012;
+Wieczorek, Kania, & Osek, 2013; Zirnstein, Li, Swaminathan, &
+Angulo, 1999). In our study only one isolate was resistant to cip-
+roﬂoxacin and did not show the Thr-86-Ile mutation, and therefore
+its resistance may be associated with other mechanisms, such as
+other mutations in the gyrA, and multidrug efﬂux systems (Lin
+et al., 2002; Luo, Sahin, Lin, Michel, & Zhang, 2003). On the other
+hand, a relatively low percentage (40%) of the tetracycline-resistant
+isolates showed the tet(O) gene, which encodes a protein that pro-
+tects the ribosome from the inhibitory effect of this antibiotic (Dasti
+et al., 2007). Low correlation between tetracycline resistance and
+tet(O) gene was also observed by Obeng et al. (2012). Whilst, in other
+studies high levels of phenotypic resistance to tetracycline were
+attributed almost solely to presence of this gene (Mackiw et al.,
+2012; Wieczorek et al., 2013). Beyond the tet(O) gene, nonspeciﬁc
+efﬂux systems such as CmeABC multidrug efﬂux pump may
+decrease susceptibility to tetracycline (Gibreel, Wetsch, & Taylor,
+2007; Iovine, 2013).
+
+Concerning the genetic basis of ampicillin resistance, all resis-
+tant isolates showed the blaOxA-61 gene, which is associated with b-
+lactamase production (Alfredson & Korolik, 2005). Griggs et al.
+(2009) observed that 91% of the ampicillin-resistant isolates car-
+ried the blaOxA-61 gene. However, it is worth noting that in our study
+many susceptible isolates also showed this ampicillin resistance
+gene. These results were in agreement with a previous observation
+by Obeng et al. (2012). They reported that 10 of the ampicillin-
+susceptible Campylobacter isolates from chicken were able to
+encode the blaOxA-61 gene. Such ﬁndings indicate that the blaOxA-61
+gene in these Campylobacter isolates may has been inactivated or is
+
+not being expressed. Beyond synthesis of b-lactamases, b-lactam
+resistance may also be conferred by reduced uptake due to alter-
+ations in outer membrane porins and efﬂux systems (Iovine, 2013).
+Great variations in bile salts resistance were observed among
+Campylobacter isolates, which was consistent with the ﬁndings
+from previous studies by Dzieciol, Wagner, and Hein (2011) and
+Mavri and Smole Mozina (2013). The CmeABC efﬂux system plays a
+key role in mediating bile salts resistance and is essential for
+Campylobacter growth in bile-containing media such as the animal
+intestinal tract (Lin et al., 2003). The observed difference in bile
+salts resistance in our study could not be explained by failures in
+the CmeABC efﬂux system, since most of the isolates showed the
+three genes (cmeA, cmeB and cmeC) required for its synthesis, and
+even the absence of some of them did not inﬂuence the levels of
+resistance. Therefore, other mechanisms of resistance to bile salts
+such as the presence of porins (Omp50 and PorA) and other efﬂux
+systems (CmeDEF and CmeG) are probably involved in these results
+(Akiba, Lin, Barton, & Zhang, 2006; Bolla, De, & Dorez, 2000; Bolla,
+Loret, Zalewski, & Pages, 1995; Jeon, Wang, Hao, Barton, & Zhang,
+2011).
+
+The efﬂux inhibitor (PAbN) slightly decreased the MIC of cip-
+roﬂoxacin, tetracycline and ampicillin, but did not restore the
+susceptibility to either of them in the Campylobacter isolates. The
+effects of PAbN were mostly of 2e4 fold MIC reduction for these
+antibiotics. The activity of PAbN on quinolone resistance in C. jejuni
+and C. coli is controversial. Our results showing the effect of PAbN
+on ampicillin resistance were similar to those reported by Martinez
+and Lin (2006), who observed that the MIC of b-lactams (cefotax-
+ime and ampicillin) decreased 2-fold using this EPI. In another
+study performed by Griggs et al. (2009) the presence of PAbN had
+no effect on the MICs of b-lactams, including ampicillin, for the
+Campylobacter isolates or their respective blaOxA-61 mutants. Simi-
+larly, Corcoran, Quinn, Cotter, and Fanning (2005) have demon-
+strated that PAbN did not produce a signiﬁcant decrease on the
+resistance to quinolones in Campylobacter. However, signiﬁcant
+decreases in the MIC of ﬂuoroquinolones and restoration of sus-
+ceptibility in Campylobacter isolates were reported by Kurincic,
+Klancnik, and Smole Mozina (2012a). With regards to tetracy-
+cline, Kurincic et al. (2012a) demonstrated that PAbN caused MIC
+reductions of at least 2-folde64-fold, and this EPI also restored
+susceptibility to some tetracycline-resistant isolates. In contrast,
+lower effects of PAbN on tetracycline MIC (1.3e2.6-fold decrease)
+were observed by Gibreel et al. (2007). Although our data, as well as
+those from other studies, demonstrate a lack of efﬁcacy of PAbN in
+reversing ﬂuoroquinolone and tetracycline resistance, cmeB mu-
+tants of Campylobacter have shown a signiﬁcant decrease in their
+resistance to these antibiotics classes (Lin et al., 2002; Luo et al.,
+2003). This fact suggests that the CmeABC system acts synergisti-
+cally with other mechanisms to contribute to antimicrobial
+resistance.
+
+On the other hand, PAbN had a strong effect on bile salts resis-
+tance in almost all isolates in our study, causing MIC reductions of
+up to 128-fold. Other studies performed by Lin and Martinez (2006)
+and Mavri and Smole Mozina (2013) also demonstrated that the
+MICs of bile salts were dramatically decreased in the presence of
+PAbN, around 16e512 fold and 2e64 fold, respectively. The
+different effect of PAbN on susceptibility of antimicrobials indicates
+that the inhibition occurs via binding site speciﬁc on the CmeABC
+system and in a competitive manner, as suggested in previous
+studies (Lomovskaya & Bostian, 2006). It has been proposed that
+inhibition of multidrug efﬂux systems by EPIs is a novel approach to
+enhance drug accumulation inside the bacterial cell, thereby
+increasing bacterial susceptibility to antimicrobials (Lomovskaya &
+Watkins, 2001). In recent years, some studies have been developed
+in order to ﬁnd out new compounds which exhibit such properties
+
+H.M. Hungaro et al. / Food Control 51 (2015) 15e22
+
+21
+
+(Klancnik, Gr€oblacher, Kovac, Bucar, & Mozina, 2012; Kurincic,
+Klancnik, & Smole Mozina, 2012b).
+
+5. Conclusion
+
+This work provides a baseline study on Campylobacter contam-
+ination and its antimicrobial resistance and molecular basis in
+chicken carcasses in Minas Gerais state, Brazil. Despite the low
+prevalence and the low concentration of Campylobacter in chicken
+carcass samples, the identiﬁcation of high levels of antimicrobial
+resistance and multidrug-resistant isolates make this issue even
+more serious. Our results point to the need for more frequent
+monitoring of the prevalence and antimicrobial resistance of
+Campylobacter in order to provide support for actions directed at
+reducing this pathogen in the food chain. In addition, we also
+suggest that efﬂux pump inhibitors may be an important tool to
+reduce the antimicrobial resistance and colonization of Campylo-
+bacter in animals raised for food purposes.
+
+Acknowledgments
+
+This investigation was supported by CNPQ and FAPEMIG, Brazil,
+and Humberto Moreira Hungaro was supported by a fellowship
+from CAPES. We would like to thank “Coleç~ao de Campylobacter
+(CCAMP)”, Instituto Oswaldo Cruz, Rio de Janeiro, Brazil for dona-
+tion of the reference strains.
+
+References
+
+Aarestrup, F. M., & Engberg, J. (2001). Antimicrobial resistance of thermophilic
+
+Campylobacter. Veterinary Research, 32, 311e321.
+
+Akiba, M., Lin, J., Barton, Y.-W., & Zhang, Q. (2006). Interaction of CmeABC and
+CmeDEF in conferring antimicrobial resistance and maintaining cell viability in
+Campylobacter jejuni. Journal of Antimicrobial Chemotherapy, 57, 52e60.
+
+Alfredson, D. A., & Korolik, V. (2005). Isolation and expression of a novel molecular
+class D b-lactamase, OXA-61, from Campylobacter jejuni. Antimicrobial Agents
+and Chemotherapy, 49, 2515e2518.
+
+Alfredson, D. A., & Korolik, V. (2007). Antibiotic resistance and resistance mecha-
+nisms in Campylobacter jejuni and Campylobacter coli. FEMS Microbiology Letters,
+277, 123e132.
+
+Biasi, R. S., Freitas De Macedo, R. E., Scaranello Malaquias, M. A., & Franchin, P. R.
+(2011). Prevalence, strain identiﬁcation and antimicrobial
+resistance of
+Campylobacter spp. isolated from slaughtered pig carcasses in Brazil. Food
+Control, 22, 702e707.
+
+Black, R. E., Levine, M. M., Clements, M. L., Hughes, T. P., & Blaser, M. J. (1988).
+Experimental Campylobacter jejuni infection in humans. The Journal of Infectious
+Diseases, 157, 472e479.
+
+Bolla, J., De, E., & Dorez, A. (2000). Puriﬁcation, characterization and sequence
+analysis of Omp50, a new porin isolated from Campylobacter jejuni. Biochemical
+Journal, 352, 637e643.
+
+Bolla, J.-M., Loret, E., Zalewski, M., & Pages, J.-M. (1995). Conformational analysis of
+
+the Campylobacter jejuni porin. Journal of Bacteriology, 177, 4266e4271.
+
+CDC. (2013). Center for diseases control and Prevention e CDC. Estimates of foodborne
+Illness in the United States. Available at http://www.cdc.gov/foodborneburden/
+2011-foodborne-estimates.html Accessed 20.01.13.
+
+Chrystal, N. D., Hargraves, S. J., Boa, A. C., & Ironside, C. J. (2008). Counts of
+Campylobacter spp. and prevalence of Salmonella associated with New Zealand
+broiler carcasses. Journal of Food Protection, 71, 2526e2532.
+
+CLSI. (2010). Methods for antimicrobial dilution and disk susceptibility testing of
+infrequently isolated or fastidious bacteria; approved guideline (2nd ed.). Wayne,
+PA: Clinical and Laboratory Standards Institute (M45eA2).
+
+CLSI. (2012). Performance standards for antimicrobial susceptibility testing, twenty-
+second informational supplement. Wayne, PA: Clinical and Laboratory Stan-
+dards Institute (M100eS22).
+
+Corcoran, D., Quinn, T., Cotter, L., & Fanning, S. (2005). Relative contribution of
+target gene mutation and efﬂux to varying quinolone resistance in Irish
+Campylobacter isolates. FEMS Microbiology Letters, 253, 39e46.
+
+Corry, J. E., Post, D., Colin, P., & Laisney, M. (1995). Culture media for the isolation of
+
+Campylobacters. International Journal of Food Microbiology, 26, 43e76.
+
+Daskalov, H., & Maramski, A. (2012). Prevalence and factors affecting the presence
+of Campylobacter spp. in broiler carcasses in Bulgaria. Turkish Journal of Veter-
+inary and Animal Sciences, 36, 539e545.
+
+Dasti, J. I., Groß, U., Pohl, S., Lugert, R., Weig, M., & Schmidt-Ott, R. (2007). Role of the
+plasmid-encoded tet (O) gene in tetracycline-resistant clinical isolates of Campylo-
+bacter jejuni and Campylobacter coli. Journal of Medical Microbiology, 56, 833e837.
+
+Denis, M., Soumet, C., Rivoal, K., Ermel, G., Blivet, D., Salvat, G., et al. (1999).
+Development of am-PCR assay for simultaneous identiﬁcation of Campylobacter
+jejuni and C. coli. Letters in Applied Microbiology, 29, 406e410.
+
+Dzieciol, M., Wagner, M., & Hein, I. (2011). CmeR-dependent gene Cj0561c is induced
+more effectively by bile salts than the CmeABC efﬂux pump in both human and
+poultry Campylobacter jejuni strains. Research in Microbiology, 162, 991e998.
+
+EFSA. (2012). The European Union Summary Report on antimicrobial resistance in
+zoonotic and indicator bacteria from humans, animals and food in 2010. EFSA
+Journal, 10, 2598.
+
+EFSA. (2013). Trends and sources of zoonoses and zoonotic agents and food-borne
+
+outbreaks in 2011. EFSA Journal, 11, 3129.
+
+FAO/WHO [Food and Agriculture Organization of the United Nations/World Health
+Organization]. (2002). Risk assessment of Campylobacter spp. in broiler chickens
+and Vibrio spp. in seafood. Report of a Joint FAO/WHO Expert consultation.
+Available at http://www.who.int/foodsafety/publications/micro/aug2002.pdf
+Accessed 20.01.13.
+
+Figueroa, G., Troncoso, M., Lopez, C., Rivas, P., & Toro, M. (2009). Occurrence and
+enumeration of Campylobacter spp. during the processing of Chilean broilers.
+BMC Microbiology, 9, 94.
+
+Franchin, P., Ogliari, P., & Batista, C. (2007). Frequency of thermophilic Campylo-
+bacter in broiler chickens during industrial processing in a Southern Brazil
+slaughterhouse. British Poultry Science, 48, 127e132.
+
+Garin, B., Gouali, M., Wouafo, M., Perchec, A.-M., Thu, P. M., Ravaonindrina, N., et al.
+(2012). Prevalence, quantiﬁcation and antimicrobial resistance of Campylobacter
+spp. on chicken neck-skins at points of slaughter in 5 major cities located on 4
+continents. International Journal of Food Microbiology, 157, 102e107.
+
+Gibreel, A., Wetsch, N. M., & Taylor, D. E. (2007). Contribution of the CmeABC efﬂux
+pump to macrolide and tetracycline resistance in Campylobacter jejuni. Anti-
+microbial Agents and Chemotherapy, 51, 3212e3216.
+
+Gonçalves, K., Yamanaka, E. H. U., Almeida, A. P. I., Chano, L., & Ribeiro, A. B. (2013).
+Pesquisa de Campylobacter spp. em carnes de frango comercializadas na cidade
+de Campo Mour~ao-PR Study about the Campylobacter spp. present in chicken
+meat sold in the city of Campo Mour~ao-PR. Alimentos e Nutriç~ao Araraquara, 23,
+211e216.
+
+Griggs, D. J., Peake, L., Johnson, M. M., Ghori, S., Mott, A., & Piddock, L. J. V. (2009). b-
+Lactamase-Mediated b-lactam resistance in Campylobacter species: prevalence
+of Cj0299 (blaOxA-61) and evidence for a novel b-lactamase in C. jejuni. Antimi-
+crobial Agents and Chemotherapy, 53, 3357e3364.
+
+Gritchina, A. V., Mishchuk, V. I., & Pozhalostina, L. V. (2005). Antibiotic susceptibility
+of Campylobacter isolated in the lipetsk region. Antibiotiki i Khimioterapiya, 50,
+51e54.
+
+Hakanen, A. J., Lehtopolku, M., Siitonen, A., Huovinen, P., & Kotilainen, P. (2003).
+Multidrug resistance in Campylobacter jejuni strains collected from Finnish
+patients during 1995e2000.
+Journal of Antimicrobial Chemotherapy, 52,
+1035e1039.
+
+Humphrey, T., O'brien, S., & Madsen, M. (2007). Campylobacters as zoonotic path-
+ogens: a food production perspective. International Journal of Food Microbiology,
+117, 237e257.
+
+Iovine, N. M. (2013). Resistance mechanisms in Campylobacter jejuni. Virulence, 4,
+
+230e240.
+
+Iovine, N. M., & Blaser, M. J. (2004). Antibiotics in animal feed and spread of
+resistant Campylobacter from poultry to humans. Emerging Infectious Diseases,
+10, 1158.
+
+Jacob, P., Mdegela, R. H., & Nonga, H. E. (2011). Comparison of Cape Town and
+Skirrow's Campylobacter isolation protocols in humans and broilers in Moro-
+goro, Tanzania. Tropical Animal Health and Production, 43, 1007e1013.
+
+Jeon, B., Wang, Y., Hao, H., Barton, Y.-W., & Zhang, Q. (2011). Contribution of CmeG
+to antibiotic and oxidative stress resistance in Campylobacter jejuni. Journal of
+Antimicrobial Chemotherapy, 66, 79e85.
+
+Johannessen, G., Johnsen, G., Økland, M., Cudjoe, K., & Hofshagen, M. (2007).
+Enumeration of thermotolerant Campylobacter spp. from poultry carcasses at
+the end of the slaughter-line. Letters in Applied Microbiology, 44, 92e97.
+
+Klancnik, A., Gr€oblacher, B., Kovac, J., Bucar, F., & Mozina, S. S. (2012). Anti-
+Campylobacter and resistance-modifying activity of Alpinia katsumadai seed
+extracts. Journal of Applied Microbiology, 113, 1249e1262.
+
+Kuana, S. L., Dos Santos, L. R., Rodrigues, L. B., Salle, C. T. P., Moraes, H. L. D. S., & Do
+Nascimento, V. P. (2008). Ocorr^encia de Campylobacter sp em lotes de frangos
+de corte e nas carcaças correspondentes. Ci^encia Animal Brasileira, 9, 480e486.
+Kuana, S. L., Santos, L. R. D., Rodrigues, L. B., Borsoi, A., Moraes, H. L. D. S.,
+Salle, C. T. P., et al. (2008). Antimicrobial resistance in Campylobacter spp iso-
+lated from broiler ﬂocks. Brazilian Journal of Microbiology, 39, 738e740.
+
+Kurincic, M., Klancnik, A., & Smole Mozina, S. (2012a). Effects of efﬂux pump in-
+hibitors on erythromycin, ciproﬂoxacin, and tetracycline resistance in
+Campylobacter spp. isolates. Microbial Drug Resistance, 18, 492e501.
+
+Kurincic, M., Klancnik, A., & Smole Mozina, S. (2012b). Epigallocatechin gallate as a
+modulator of Campylobacter resistance to macrolide antibiotics. International
+Journal of Antimicrobial Agents, 40, 467e471.
+
+Li, X.-Z., Mehrotra, M., Ghimire, S., & Adewoye, L. (2007). b-lactam resistance and b-
+lactamases in bacteria of animal origin. Veterinary Microbiology, 121, 197e214.
+Lin, J., & Martinez, A. L. (2006). Effect of efﬂux pump inhibitors on bile resistance
+Journal of Antimicrobial
+
+and in vivo colonization of Campylobacter jejuni.
+Chemotherapy, 58, 966e972.
+
+Lin, J., Michel, L. O., & Zhang, Q. (2002). CmeABC functions as a multidrug efﬂux
+system in Campylobacter jejuni. Antimicrobial Agents and Chemotherapy, 46,
+2124e2131.
+
+22
+
+H.M. Hungaro et al. / Food Control 51 (2015) 15e22
+
+Lin, J., Sahin, O., Michel, L. O., & Zhang, Q. (2003). Critical role of multidrug efﬂux
+pump CmeABC in bile resistance and in vivo colonization of Campylobacter
+jejuni. Infection and Immunity, 71, 4250e4259.
+
+Linton, D., Lawson, A., Owen, R., & Stanley, J. (1997). PCR detection, identiﬁcation to
+species level, and ﬁngerprinting of Campylobacter jejuni and Campylobacter coli
+direct from diarrheic samples. Journal of Clinical Microbiology, 35, 2568e2572.
+Lomovskaya, O., & Bostian, K. A. (2006). Practical applications and feasibility of
+efﬂux pump inhibitors in the clinicea vision for applied use. Biochemical
+Pharmacology, 71, 910e918.
+
+Lomovskaya, O., & Watkins, W. (2001). Inhibition of efﬂux pumps as a novel
+approach to combat drug resistance in bacteria. Journal of Molecular Microbi-
+ology and Biotechnology, 3, 225e236.
+
+Luo, N., Sahin, O., Lin, J., Michel, L. O., & Zhang, Q. (2003). In vivo selection of
+Campylobacter isolates with high levels of ﬂuoroquinolone resistance associated
+with gyrA mutations and the function of the CmeABC efﬂux pump. Antimicro-
+bial Agents and Chemotherapy, 47, 390e394.
+
+Lynch, O. A., Cagney, C., Mcdowell, D. A., & Duffy, G. (2011). Occurrence of fastidious
+Campylobacter spp. in fresh meat and poultry using an adapted cultural pro-
+tocol. International Journal of Food Microbiology, 150, 171e177.
+
+Mackiw, E., Korsak, D., Rzewuska, K., Tomczuk, K., & Ro _zynek, E. (2012). Antibiotic
+resistance in Campylobacter jejuni and Campylobacter coli isolated from food in
+Poland. Food Control, 23, 297e301.
+
+Man, J. C. (1983). MPN tables, corrected. European Journal of Applied Microbiology
+
+and Biotechnology, 17, 301e305.
+
+Martinez, A. L., & Lin, J. (2006). Effect of an efﬂux pump inhibitor on the function of
+the multidrug efﬂux pump CmeABC and antimicrobial resistance in Campylo-
+bacter. Foodborne Pathogens and Disease, 3, 393e402.
+
+Mavri, A., & Smole Mozina, S. (2013). Resistance to bile salts and sodium deoxy-
+cholate in macrolide-and ﬂuoroquinolone-susceptible and resistant Campylo-
+bacter jejuni and Campylobacter coli strains. Microbial Drug Resistance, 19,
+168e174.
+
+de Moura, H. M., Silva, P. R., Da Silva, P. H. C., Souza, N. R., Racanicci, A. M. C., &
+Santana, A. P. (2013). Antimicrobial resistance of Campylobacter jejuni isolated
+from chicken carcasses in the federal district, Brazil. Journal of Food Protection,
+76, 691e693.
+
+Mozina, S. S., Kurincic, M., Klancnik, A., & Mavri, A. (2011). Campylobacter and its
+multi-resistance in the food chain. Trends in Food Science & Technology, 22,
+91e98.
+
+NARMS. (2011). NARMS retail meat annual report, 2011. Available at http://www.fda.
+
+gov/downloads/AnimalVeterinary/SafetyHealth/AntimicrobialResistance/
+NationalAntimicrobialResistanceMonitoringSystem/UCM334834.pdf Accessed
+20.01.13.
+
+Nobile, C. G., Costantino, R., Bianco, A., Pileggi, C., & Pavia, M. (2013). Prevalence and
+in poultry meat in
+
+pattern of antibiotic resistance of Campylobacter spp.
+Southern Italy. Food Control, 32, 715e718.
+
+Obeng, A., Rickard, H., Sexton, M., Pang, Y., Peng, H., & Barton, M. (2012). Antimi-
+crobial susceptibilities and resistance genes in Campylobacter strains isolated
+from poultry and pigs in Australia. Journal of Applied Microbiology, 113, 294e307.
+Oliveira, A. D. L., & Oliveira, R. B. P. D. (2013). Enumeraç~ao de Campylobacter spp. e
+presença de Campylobacter jejuni em carcaças de frango no Estado de Minas
+Gerais. Ci^encia Rural, 43, 480e484.
+
+Pratt, A., & Korolik, V. (2005). Tetracycline resistance of Australian Campylobacter
+jejuni and Campylobacter coli isolates. Journal of Antimicrobial Chemotherapy, 55,
+452e460.
+
+Salvat, A., Antonnacci, L., Fortunato, R. H., Suarez, E. Y., & Godoy, H. M. (2001).
+Screening of some plants from Northern Argentina for their antimicrobial ac-
+tivity. Letters in Applied Microbiology, 32, 293e297.
+
+Scherer, K., Bartelt, E., Sommerfeld, C., & Hildebrandt, G. (2006a). Comparison of
+different sampling techniques and enumeration methods for the isolation and
+quantiﬁcation of Campylobacter spp. in raw retail chicken legs. International
+Journal of Food Microbiology, 108, 115e119.
+
+Scherer, K., Bartelt, E., Sommerfeld, C., & Hildebrandt, G. (2006b). Quantiﬁcation of
+Campylobacter on the surface and in the muscle of chicken legs at retail. Journal
+of Food Protection, 69, 757e761.
+
+Smith, D., Northcutt, J., Cason, J., Hinton, A., Buhr, R., & Ingram, K. (2007). Effect of
+external or internal fecal contamination on numbers of bacteria on prechilled
+broiler carcasses. Poultry Science, 86, 1241e1244.
+
+Son, I., Englen, M. D., Berrang, M. E., Fedorka-Cray, P. J., & Harrison, M. A. (2007).
+Prevalence of Arcobacter and Campylobacter on broiler carcasses during pro-
+cessing. International Journal of Food Microbiology, 113, 16e22.
+
+Stern, N., Georgsson, F., Lowman, R., Bisaillon, J.-R., Reiersen, J., Callicott, K., et al.
+(2007). Frequency and enumeration of Campylobacter species from processed
+broiler carcasses by weep and rinse samples. Poultry Science, 86, 394e399.
+
+Suzuki, H., & Yamamoto, S. (2009). Campylobacter contamination in retail poultry
+meats and by-products in the world: a literature survey. Journal of Veterinary
+Medical Science, 71, 255e261.
+
+Tang, J. Y. H., Ghazali, F. M., Saleha, A. A., Nakaguchi, Y., Nishibuchi, M., & Radu, S.
+(2010). MPN-PCR enumeration of Campylobacter spp. in raw chicken meats and
+by-products. Frontiers of Agriculture in China, 4, 501e506.
+
+UBABEF.
+
+(2014). Annual
+
+report. http://www.ubabef.com.br/ﬁles/publicacoes/
+
+8ca705e70f0cb110ae 3aed67d29c8842.pdf Accessed 28.08.14.
+
+Wassenaar, T., Fernandez-Astorga, A., Alonso, R., Marteinsson, V., Magnusson, S.,
+Kristoffersen, A., et al. (2009). Comparison of Campylobacter ﬂa-SVR genotypes
+isolated from humans and poultry in three European regions. Letters in Applied
+Microbiology, 49, 388e395.
+
+Wieczorek, K., Kania, I., & Osek, J. (2013). Prevalence and antimicrobial resistance of
+Campylobacter spp. Isolated from poultry carcasses in Poland. Journal of Food
+Protection, 76, 1451e1455.
+
+Wilson, I. (2003). Antibiotic resistance of Campylobacter in raw retail chickens and
+
+imported chicken portions. Epidemiology and Infection, 131, 1181e1186.
+
+Wong, T. L., Hollis, L., Cornelius, A., Nicol, C., Cook, R., & Hudson, J. A. (2007).
+Prevalence, numbers, and subtypes of Campylobacter jejuni and Campylobacter
+coli in uncooked retail meat samples. Journal of Food Protection, 70, 566e573.
+Zhao, S., Young, S., Tong, E., Abbott, J., Womack, N., Friedman, S., et al. (2010).
+Antimicrobial resistance of Campylobacter isolates from retail meat in the
+United States between 2002 and 2007. Applied and Environmental Microbiology,
+76, 7949e7956.
+
+Zirnstein, G., Li, Y., Swaminathan, B., & Angulo, F. (1999). Ciproﬂoxacin resistance in
+isolates: detection of gyrA resistance mutations by
+Campylobacter jejuni
+mismatch ampliﬁcation mutation assay PCR and DNA sequence analysis. Journal
+of Clinical Microbiology, 37, 3276e3280.
+
+

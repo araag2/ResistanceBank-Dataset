@@ -1,0 +1,1757 @@
+J. Dairy Sci. 101:1–11
+https://doi.org/10.3168/jds.2017-13665
+© American Dairy Science Association®, 2018.
+
+Major diseases, extensive misuse, and high antimicrobial resistance  
+of Escherichia coli in large- and small-scale dairy cattle farms in Jordan
+Mohammad M. Obaidat,*1 Alaa E. Bani Salman,* Margaret A. Davis,† and Amira A. Roess‡
+*Faculty of Veterinary Medicine, Jordan University of Science and Technology, Irbid, Jordan 22110
+†Paul G. Allen School for Global Animal Health, College of Veterinary Medicine, Washington State University, Pullman 99164-7040
+‡Department of Global Health, The George Washington University, Washington, DC 20052
+
+ABSTRACT
+
+This  study  aimed  to  determine  the  major  diseases, 
+antimicrobial  use,  and  resistance  in  commensal  Esch-
+erichia coli in dairy cattle in Jordan. Forty-three (large, 
+n  =  21;  small,  n  =  22)  farms  were  surveyed.  A  vali-
+dated questionnaire was administered to the herdsmen 
+to elicit information about disease prevalence, antimi-
+crobial knowledge, and antimicrobial use. In addition, 
+fecal  samples  were  collected  from  5  lactating  animals 
+on each farm. A total of 520 E. coli isolates were tested 
+for  resistance  to  12  antimicrobials.  From  the  herds-
+men’s perspective, the diseases that require use of vet-
+erinary services in large and small production systems 
+were mastitis (51.2%), metritis (51.2%), and enteritis 
+(39.5%), and the most commonly used antimicrobials 
+were oxytetracycline and streptomycin. Dairy herdsmen 
+(83.7%) reported that it is easy to purchase antimicro-
+bials  without  a  veterinary  prescription  and  97.7%  of 
+them more frequently changed the antimicrobial drug 
+rather  than  increasing  the  dose  when  presented  with 
+nonresponse to treatment. Escherichia coli isolates ex-
+hibited high resistance to streptomycin (47.5%), tetra-
+cycline (45.4%), and ampicillin (34.2%). Less than 10% 
+of isolates were resistant to chloramphenicol, kanamy-
+cin, gentamicin, ciprofloxacin, and ceftriaxone. Overall, 
+64.6 and 37.1% of the E. coli isolates exhibited resis-
+tance to ≥1 antimicrobial and multidrug resistance (re-
+sistance to ≥3 antimicrobial classes), respectively. The 
+isolates exhibited 107 antimicrobial resistance profiles. 
+This study indicates that antimicrobials are frequently 
+misused in dairies in Jordan and that resistance among 
+commensal E. coli toward antimicrobials of human and 
+veterinary  importance  is  high.  Therefore,  educational 
+programs  for  herdsmen  and  enacting  regulations  and 
+
+Received August 10, 2017.
+Accepted November 13, 2017.
+1 Corresponding author: mmobaidat@just.edu.jo
+
+1
+
+guidelines are necessary to promote the judicious use of 
+antimicrobials in dairy animals in Jordan.
+Key  words:  antibiotics,  ruminant,  rural,  developing 
+countries
+
+INTRODUCTION
+
+The emergence of antimicrobial resistant pathogens 
+compromises  the  effectiveness  of  clinical  treatment  of 
+human  and  animal  infectious  diseases  and  has  major 
+global  public  health  and  negative  economic  impacts 
+(File et al., 2014; Friedman et al., 2016). Inappropriate 
+antimicrobial  use  in  human  and  veterinary  medicine 
+selects for resistance in bacterial pathogens, and some 
+of these pathogens are zoonotic and can be transmitted 
+from  animals  to  humans  (Leverstein-van  Hall  et  al., 
+2011;  Landers  et  al.,  2012).  Antimicrobial  resistance 
+is  a  worldwide  problem  and  exists  in  both  resource-
+rich and resource-poor settings. This problem, however, 
+might  be  more  severe  in  developing  countries  due  to 
+less-restricted availability and use of antimicrobials in 
+food animal production (WHO, 2014).
+
+ 
+
+Studying  antimicrobial  resistance  in  commensal 
+bacteria  is  valuable  as  these  bacteria  can  serve  as 
+reservoirs  for  resistance  genes  and  can  transfer  these 
+genes to pathogenic bacteria (DeFrancesco et al., 2004; 
+EFSA,  2008).  Antimicrobial  resistance  in  commensal 
+bacteria  is  positively  correlated  with  local  antimicro-
+bial selective pressure and may be a risk for developing 
+antimicrobial resistance in pathogenic bacteria (Hao et 
+al., 2014). Thus, frequent monitoring of antimicrobial 
+resistance  in  bacterial  isolates  from  animals  can  help 
+detect  emerging  antimicrobial-resistant  phenotypes  in 
+commensal  and  pathogenic  bacteria  within  the  food 
+production chain.
+
+Concerns  about  antimicrobial  resistance  led  to  the 
+launching of surveillance and monitoring programs in 
+resource-rich countries such as the United States, Can-
+ada, Denmark, France, Sweden, and Norway (NORM/
+NORM-VET,  2010;  RESAPATH,  2012;  CIPARS, 
+2013;  DANMAP,  2014;  SWEDRES/SWEDVARM, 
+
+2
+
+OBAIDAT ET AL.
+
+2014; ECDC, 2015; NARMS, 2015). However, data on 
+nonprescription antimicrobial treatment of livestock in 
+resource-poor countries such as Jordan are lacking. Al-
+though Jordan relies on beef importation to satisfy its 
+domestic meat demand, dairy cattle are a major com-
+ponent of the Jordanian animal industry and 2 dairy 
+production  systems  exist  in  Jordan:  large  and  small 
+scale. Large intensive production systems use modern 
+management practices with zero-grazing and minimum 
+separation between lactating and nonlactating cows in 
+the same farm. These farms are predominantly located 
+in the Al-Dulial area, which produces around 50% of 
+the country’s milk (DoS, 2015). Small-scale production 
+systems  are  scattered  in  different  regions  of  Jordan, 
+mainly in the Highland area. In this system, cows are 
+housed in small, traditional brick barns, with no sepa-
+ration among cows, and herdsmen use more traditional 
+management practices than in the large systems. Both 
+systems raise Holstein-Friesian dairy cows and together 
+contribute  US$160  million  annually  to  the  national 
+gross domestic product (DoS, 2015).
+
+To  better  define  the  use  of  antimicrobials  in  dairy 
+production systems in Jordan, we surveyed dairy farms 
+and  sampled  dairy  cattle  feces  to  investigate  disease 
+incidence  and  antimicrobial  treatment  practices  and 
+to estimate the prevalence of antimicrobial resistance 
+among fecal Escherichia coli. In addition, we compared 
+large and small dairy farms with respect to the above 
+parameters.
+
+MATERIALS AND METHODS
+
+Farm and Animal Selection
+
+Forty-three farms (21 large farms from intensive pro-
+duction systems in Al-Dulail area and 22 small farms 
+from small-scale production systems in the Highlands) 
+were selected and visited in 2015. Large production sys-
+tems had >50 cows per farm, whereas the small-scale 
+production systems had <50 cows per farm.
+
+From each farm, 5 lactating cows that were 2 to 5 yr 
+of age and had no antimicrobial treatment within the 
+last  2  wk  were  eligible  for  inclusion  and  sampled.  In 
+each farm, the number of cows from a sampling frame 
+of all cows meeting these inclusion criteria was divided 
+by 5 (total number of cows/5 = k) and every kth cow 
+was  sampled.  To  prevent  selection  bias,  neither  indi-
+vidual disease history nor milk production performance 
+was known for the sampled animals. From our pretest 
+activities,  we  found  that  herdsmen  were  unwilling  to 
+allow  researchers  to  sample  more  than  about  5  cows 
+because  they  did  not  want  researchers  to  spend  long 
+periods of time on their farms.
+
+Sampling Approach
+
+In each area, designated and trained practicing vet-
+erinarians  were  recruited  to  assist  with  questionnaire 
+data  and  sample  collection  because  they  have  strong 
+ties  with  the  herdsmen  (their  clients),  are  from  the 
+same community, and speak the same dialect. This ap-
+proach allowed access to the selected farms and helped 
+ensure the accuracy of the questionnaire. To encourage 
+voluntary  participation  from  herdsmen,  government 
+veterinarians  did  not  participate  in  the  study.  The 
+herdsmen were briefed about the study objectives, as-
+sured  that  the  study  was  only  for  research  purposes, 
+and that any generated data from their specific farm 
+would be available to them upon request. Consent to 
+conduct  interviews  and  collect  samples  was  obtained 
+from the herdsman at each farm before beginning the 
+study.
+
+Questionnaire
+
+A  modified  questionnaire  based  on  Redding  et  al. 
+(2014) was developed and used in this study to inter-
+view the herdsmen. The questionnaire was developed in 
+Arabic, and then pretested with a convenience sample 
+of  herdsmen  from  3  large  and  3  small  farms.  Neces-
+sary revisions were made before the questionnaire was 
+finalized.  The  repeatability  of  the  questionnaire  was 
+examined by asking the same farmers the questions in 
+2 ways: during a face-to-face interview and by phone 
+call.  Then,  repeatability  was  determined  by  calculat-
+ing the agreement between answers to 4 questions: (1) 
+What do you do for animals that receive antimicrobial 
+treatment? (2) Do you obtain prescriptions before ad-
+ministering  antimicrobials  to  your  animals?  (3)  Does 
+the  veterinarian  examine  the  diseased  animals  before 
+prescribing  antimicrobials?  (4)  Do  you  use  antimi-
+crobials  for  growth  promotion?  The  kappa  scores  for 
+each question were 0.94 (very good), 0.90 (very good), 
+0.86  (very  good),  and  0.83  (very  good),  respectively. 
+The  questionnaire  was  divided  into  3  major  sections 
+to  capture  overall  (1)  farm  management,  (2)  diseases 
+of  concern,  and  (3)  antimicrobial  use.  The  herdsmen 
+were also asked to list the importance of several factors 
+that they use before choosing an antimicrobial, includ-
+ing price, quality, brand, packaging, ease of acquisition, 
+experience with the drug, and recommendation of the 
+veterinarian or drug store vendor.
+
+Commensal E. coli Isolation and Identification
+
+Fecal samples (10 g) were collected with a clean rec-
+tal sleeve from the distal rectum of each individual cow 
+
+Journal of Dairy Science Vol. 101 No. 3, 2018
+
+ANTIMICROBIALS IN JORDANIAN DAIRY CATTLE FARMS
+
+3
+
+and placed into sterile containers that were labeled and 
+kept on ice until delivered to the Food Hygiene Labo-
+ratories, Faculty of Veterinary Medicine, Jordan Uni-
+versity of Science and Technology (Irbid) for analysis. 
+Samples from 5 animals were taken from each farm and 
+labeled with a unique identifier. A new rectal sleeve was 
+used  for  each  animal  to  prevent  cross-contamination 
+among the samples.
+
+Escherichia coli was isolated from the fecal samples 
+using  a  standard  protocol  as  follows.  Briefly,  10  g  of 
+each  fecal  sample  was  mixed  with  225  mL  of  0.1% 
+peptone water. Then, 20 mL of the fecal mixture was 
+mixed with 20 mL of double-strength MacConkey broth 
+(Oxoid Ltd., Basingstoke, UK) and incubated at 35°C 
+for  24  h.  The  broth  culture  was  then  streaked  onto 
+MacConkey agar (Oxoid) and incubated at 35°C for 24 
+h. Suspected E. coli (pink) colonies were streaked onto 
+eosin methylene blue plates (Oxoid) and incubated at 
+35°C for 24 h. Metallic green colonies were considered 
+presumptive E. coli and were streaked onto trypticase 
+soy agar (Oxoid) and tested for indole and oxidase pro-
+duction. Suspect (indole-positive and oxidase-negative) 
+isolates were confirmed by PCR targeting the E. coli 
+translation  elongation  factor  EF-Tu  (tuf)  gene  using 
+the same primers and cycling conditions as previously 
+described  (Maheux  et  al.,  2009).  Confirmed  E.  coli 
+isolates were banked in trypticase soy broth with 20% 
+buffered glycerol at −70°C for later antimicrobial resis-
+tance testing.
+
+Antimicrobial Susceptibility Testing
+
+Pure  frozen  cultures  were  grown  on  trypticase  soy 
+agar overnight at 37°C and adjusted to a 0.5 McFarland 
+turbidity in 5-mL sterile normal saline tubes. Isolates 
+were screened for susceptibility to a panel of 12 anti-
+microbials on Mueller-Hinton agar (Oxoid) by the disk 
+diffusion method, as described by the National Com-
+mittee  for  Clinical  and  Laboratory  Standards  (CLSI, 
+2014) guidelines. The following disks (Oxoid) were used: 
+β-lactams  (ampicillin,  10  μg;  amoxicillin-clavulanic 
+acid, 30 μg; cephalothin, 30 μg; and ceftriaxone, 30 μg), 
+aminoglycosides  (gentamicin,  10  μg;  streptomycin,  10 
+μg; and kanamycin, 50 μg); quinolones (ciprofloxacin, 5 
+μg; nalidixic acid, 30 μg), phenicols (chloramphenicol, 
+30  μg),  tetracyclines  (tetracycline,  30  μg),  and  folate 
+pathway  inhibitors  (sulfamethoxazole-trimethoprim, 
+25 μg). Isolates with intermediate susceptibility to the 
+tested  antimicrobials  were  considered  “susceptible” 
+for  analysis  purposes.  Escherichia  coli  ATCC  25922 
+and Staphylococcus aureus ATCC 29213 were used as 
+reference strains for the disk diffusion method quality 
+control. An isolate was considered resistant when it was 
+
+resistant to ≥1 antimicrobials and multidrug resistant 
+when  it  was  resistant  to  ≥3  classes  of  antimicrobials 
+(Magiorakos et al., 2012).
+
+Data Analysis
+
+Data  were  entered  in  Excel  (Microsoft  Corp.,  Red-
+mond, WA) and analyzed using MedCalc for Windows 
+(version  17.9;  MedCalc  Software,  Ostend,  Belgium). 
+Chi-squared  and  Fisher’s  exact  tests  were  used  as 
+appropriate  to  assess  the  differences  in  each  variable 
+of  interest  (antimicrobial  resistance  outcome  or  ques-
+tionnaire  variables)  independently  between  large  and 
+small farms (Pagano and Gauvreau, 2000; Deeks and 
+Higgins, 2010). Odd ratios were used to determine the 
+association  between  farm-level  antimicrobial  use  and 
+resistance among fecal E. coli isolates.
+
+RESULTS
+
+Disease Incidence and Use of Veterinary Services
+
+The response rate for this study was 98%, with only 
+one  farmer  declining  to  participate.  Overall,  51.2% 
+of  the  dairy  herdsmen  reported  clinical  mastitis,  and 
+the same number reported metritis as frequent animal 
+health concerns that require veterinary service, followed 
+by dystocia (41.9%), enteritis (39.5%), and respiratory 
+infections (27.9%; Table 1). However, herdsmen in large 
+dairy farms reported mastitis and metritis more than 
+herdsmen in small farms and this was statistically sig-
+nificant  (P  =  0.01).  Lameness,  left-displaced  aboma-
+sum, and bloat were also reported by herdsmen in large 
+dairy  farms,  and  dystocia  was  reported  by  81.1%  of 
+herdsmen in small dairy farms (Table 1). We detected 
+no significant differences between large and small farms 
+in reporting enteritis and pneumonia. All of the dairy 
+herdsmen reported using veterinary services; 19% of the 
+large dairy farms and none of the small farms reported 
+having a resident veterinarian (Table 1).
+
+Acquisition of Antimicrobials
+
+Antimicrobials were obtained from 3 sources in Jor-
+dan:  veterinary  drug  stores,  Ministry  of  Agriculture 
+(MOA)  offices,  and  practicing  veterinarians.  Among 
+the  herdsmen  (n  =  43)  interviewed,  79.1%  reported 
+obtaining  antimicrobials  from  veterinary  drug  stores, 
+27.9% from field veterinarians, and 16.3% from MOA 
+offices.  However,  one  large  farm  reported  obtain-
+ing  antimicrobials  directly  from  the  manufacturers. 
+In  addition,  83.7%  of  herdsmen  reported  that  it  was 
+easy  to  purchase  antimicrobials  without  a  veterinary 
+
+Journal of Dairy Science Vol. 101 No. 3, 2018
+
+4
+
+OBAIDAT ET AL.
+
+Table 1. Response (percentages) of dairy herdsmen to questions regarding veterinary services for specific diseases in Jordan by production 
+system in 20151
+
+Practice/response
+
+Large system 
+
+(n = 21)
+
+Small system 
+
+(n = 22)
+
+All farms 
+(n = 43)
+
+P-value
+
+Do you use veterinary services?
+When do you use veterinary services?
+  Mastitis
+  Metritis
+  Enteritis
+  Pneumonia
+  Left-displaced abomasum
+  Lameness
+  Bloat
+  Dystocia
+Do you have a resident veterinarian on the farm?
+Does the veterinarian examine the diseased animals before 
+  prescribing antimicrobials?
+  Always
+  Sometimes
+Do you obtain prescriptions before administering antimicrobials 
+  to your animals?
+  Always
+  Usually
+1Percentages do not sum to 100% in a given column or row because farmers reported >1 disease.
+
+100
+ 
+71.4
+71.4
+38.1
+33.3
+38.1
+33.3
+28.6
+0
+19.0
+ 
+
+47.6
+52.4
+ 
+
+42.6
+57.1
+
+100
+ 
+31.8
+31.8
+40.9
+22.7
+0
+0
+0
+81.8
+0
+ 
+
+45.5
+54.5
+ 
+
+22.7
+77.3
+
+100
+ 
+51.2
+51.2
+39.5
+27.9
+18.6
+16.3
+14.0
+41.9
+9.3
+ 
+
+46.5
+53.5
+ 
+
+32.6
+67.4
+
+0.98
+
+ 
+
+0.01
+0.01
+0.65
+0.44
+0.03
+0.04
+0.05
+0.00
+0.11
+
+ 
+
+0.89
+0.89
+
+ 
+
+0.16
+0.16
+
+prescription.  Among  herdsmen,  46.5%  reported  that 
+the  veterinarian  always  examined  the  animals  before 
+antimicrobial treatment, and 32.6% reported that they 
+always obtained a prescription. However, 53.5% of the 
+herdsmen  reported  that  their  veterinarian  sometimes 
+examined  the  animal  before  antimicrobial  treatment 
+and  67.4%  reported  that  they  usually  obtained  pre-
+scriptions before purchasing antimicrobials (Table 1).
+
+The herdsmen considered different factors when pur-
+chasing antimicrobials but, in most cases (60.4%), price 
+was the most important factor, followed by veterinary 
+recommendations, and then experience. Packaging was 
+the least important factor considered.
+
+Antimicrobial Use
+
+The most commonly used antimicrobials on the dairy 
+farms were oxytetracycline, penicillin G with streptomy-
+cin,  gentamicin,  and  sulfamethoxazole-trimethoprim. 
+Less  commonly  used  antimicrobials  were  amoxicillin, 
+tylosin, marbofloxacin, and ceftiofur. Use of tilmicosin, 
+alamycin,  and  lincomycin/spectinomycin  was  rarely 
+reported (Table 2).
+
+The  dairy  cattle  diseases  most  commonly  treated 
+with  antimicrobials  on  Jordanian  dairy  farms  were 
+mastitis,  metritis,  enteritis,  and  respiratory  diseases. 
+Mastitis was treated with intramammary infusions of 
+amoxicillin (69.7%), followed in frequency by parenteral 
+administration  of  oxytetracycline  (60.6%)  and  genta-
+micin  (42.4%).  Oxytetracycline  was  used  significantly 
+more  frequently  (P  ≤  0.05)  on  large  than  on  small 
+farms  (Table  2).  In  general,  metritis  was  primarily 
+
+treated with ceftiofur (75% of the cases) and in some 
+cases with tylosin (37.5%). Enteritis was treated with 
+antimicrobials and in most cases by sulfamethoxazole-
+trimethoprim (94.1%). Respiratory diseases, including 
+pneumonia, were treated with antimicrobials; the 3 ma-
+jor  antimicrobials  used  were  oxytetracycline  (24.3%), 
+oxytetracycline with tylosin (27.0%), and marbofloxa-
+cin (32.4%). Other antimicrobials were rarely used in 
+treating the 4 major diseases outlined in Table 2.
+
+Antimicrobials  were  used  primarily  for  therapeutic 
+purposes;  however,  a  few  (16.3%)  of  the  herdsmen 
+reported  using  antimicrobials  for  growth  promotion 
+in  calves,  including  oxytetracycline  (7.0%)  and  sulfa-
+methoxazole-trimethoprim (7.0%). The latter practice 
+was significantly more frequent in the large dairy farms 
+than  on  the  small  farms.  On  the  other  hand,  90.7% 
+of the herdsmen reported the use of antimicrobials for 
+prevention,  specifically  for  dry  cow  therapy  (51.2%), 
+and prophylactically when other animals are sick in the 
+farm (53.5%; Table 3). Large dairy farms in Al-Dulail 
+practiced  dry  cow  therapy  (76.2%)  significantly  more 
+frequently than the farms in small-scale production sys-
+tems (27.3%). Interestingly, all farms in the small-scale 
+production systems reported administering antimicro-
+bials to healthy cows prophylactically when other cows 
+were  sick;  however,  very  few  herdsmen  reported  this 
+practice in the large production systems (Table 3).
+
+Management of Antimicrobial Treatments
+
+Most  herdsmen  (74.4%)  reported  marking  recently 
+treated  animals  for  identification,  but  this  was  sig-
+
+Journal of Dairy Science Vol. 101 No. 3, 2018
+
+Table 2. Antimicrobials used (in descending percentages) for specific diseases in dairy farms in Jordan by production system in 20151
+
+ANTIMICROBIALS IN JORDANIAN DAIRY CATTLE FARMS
+
+5
+
+Disease
+
+Mastitis
+
+Metritis
+
+Enteritis
+
+Pneumonia
+
+  Used antimicrobial
+
+Large system
+
+Small system
+
+All farms
+
+P-value
+
+Oxytetracycline
+Amoxicillin
+Gentamicin
+Penicillin-streptomycin
+Amoxicillin-clavulanic acid
+Spectinomycin
+Marbofloxacin
+Ceftiofur
+Tylosin
+Oxytetracycline
+Gentamicin
+Marbofloxacin
+Sulfamethoxazole-trimethoprim
+Marbofloxacin
+Oxytetracycline
+Oxytetracycline with tylosin
+Tylosin
+Marbofloxacin
+Oxytetracycline
+Tilmicosin
+Tulathromycin
+
+87.5
+81.3
+37.5
+12.5
+12.5
+6.3
+18.8
+81.8
+40.0
+0
+0
+0
+100
+
+7.7
+0
+37.5
+12.5
+50.0
+0
+6.25
+0
+
+35.3
+58.8
+47.1
+5.9
+0
+5.9
+5.9
+50.0
+33.3
+16.7
+16.7
+16.7
+95.0
+10.0
+5.0
+19.0
+0
+19.0
+42.9
+0
+4.8
+
+60.6
+69.7
+42.4
+9.1
+6.1
+6.1
+12.2
+70.5
+35.3
+5.9
+5.9
+5.9
+94.1
+2.9
+2.9
+27.0
+5.4
+32.4
+24.3
+2.7
+2.7
+
+0.00
+0.17
+0.58
+0.55
+0.26
+0.96
+0.28
+0.18
+0.90
+0.28
+0.28
+0.28
+0.66
+0.82
+0.66
+0.22
+0.21
+0.05
+0.03
+0.39
+0.60
+
+1Percentages do not sum to 100% in a given column or row because some farmers might report >1 antimicrobial. Percentages equal the number 
+of times the antimicrobial was used divided by the number of times the disease was reported.
+
+nificantly more frequent among large farms than small 
+farms. In general, 40.9% of herdsmen reported milking 
+treated animals last. Most herdsmen (97.7%) reported 
+changing the antimicrobial, rather than increasing the 
+dose, when it did not appear to be effective before com-
+pleting the treatment course. Most (95.3%) herdsmen 
+also reported feeding the milk of treated cows to calves 
+for 3 to 5 d rather than discarding it (Table 4).
+
+Antimicrobial Resistance of Commensal E. coli
+
+All  farms,  both  large  and  small,  had  at  least  one 
+animal carry antibiotic-resistant E. coli. However, 89.5 
+and  89.1%  of  individual  animals  in  large  and  small 
+farms; respectively, shed antibiotic-resistant E. coli. A 
+total of 520 E. coli isolates were confirmed by PCR and 
+tested for antimicrobial resistance. The most frequent 
+resistance phenotypes among the E. coli isolates in this 
+
+study  included  resistance  to  streptomycin  (47.5%), 
+tetracycline  (45.4%),  and  ampicillin  (34.2%).  Fewer 
+than 10% of isolates were resistant to chloramphenicol, 
+kanamycin,  gentamicin,  ciprofloxacin,  or  ceftriaxone. 
+Overall,  65.6%  of  E.  coli  isolates  exhibited  resistance 
+to at least one antimicrobial and 37.1% of the isolates 
+exhibited multidrug resistance (Table 5).
+
+Several unique multidrug resistance (MDR) profiles 
+(n  =  107)  were  exhibited  by  the  E.  coli  isolates—78 
+and 68 profiles from large- and small-scale production 
+systems, respectively. Thirty-nine profiles were shared 
+between  the  2  production  systems  and  are  presented 
+in  Supplemental  Table  S1  (https:// doi .org/ 10 .3168/ 
+jds .2017 -13665). Overall, the most common resistance 
+profiles were cephalothin (n = 39), streptomycin (n = 
+37), ampicillin-amoxicillin-clavulanic acid-tetracycline-
+streptomycin  (n  =  23),  and  ampicillin-tetracycline-
+streptomycin (n = 23). Diverse resistance profiles were 
+
+Table 3. Percentages of specific antimicrobial uses in sampled Jordanian dairy farms by production system in 2015
+
+Practice/response
+
+Which antimicrobials do you use for growth promotion?
+  Oxytetracycline
+  Sulfamethoxazole-trimethoprim
+  Amoxicillin
+  Yeast
+  Oxytetracycline with multivitamin
+Do you use antimicrobials for disease prevention?
+  Yes, for dry cow therapy
+  Yes, when other animals on the farm are sick
+
+Large system 
+
+(n = 21)
+
+Small system 
+
+(n = 22)
+
+All farms 
+(n = 43)
+
+P-value
+
+23.8
+14.3
+14.3
+4.7
+0
+0
+81
+76.2
+4.8
+
+9.1
+0
+0
+0
+4.7
+4.7
+
+100
+27.3
+100
+
+16.3
+3
+3
+1
+1
+1
+90.7
+51.2
+53.5
+
+0.21
+0.17
+0.17
+0.47
+0.51
+0.51
+0.11
+0.00
+0.00
+
+Journal of Dairy Science Vol. 101 No. 3, 2018
+
+6
+
+OBAIDAT ET AL.
+
+Table 4. Percentage of antimicrobial administration practices in sampled dairy cattle farms in Jordan by production system in 2015
+
+Practice/response
+
+What do you do for animals that receive antimicrobials?
+  Visibly marked
+  Milked last
+If an antimicrobial does not work, what do you do?
+  Change the antimicrobial
+  Increase the dose
+What do you do with milk of cows that receive antimicrobials?
+  Feed to calves for 3 to 5 d
+  Throw away for 4 d
+1Fisher’s exact test.
+
+ 
+
+Large system 
+
+(n = 21)
+
+Small system 
+
+(n = 22)
+
+All farms 
+ (n = 43)
+
+P-value1
+
+ 
+
+90.5
+9.5
+ 
+
+95.2
+4.8
+ 
+
+90.5
+9.5
+
+59.1
+40.9
+ 
+
+100.0
+
+0
+ 
+
+0
+
+100.0
+
+ 
+
+ 
+
+74.4
+25.6
+
+ 
+
+97.7
+2.3
+ 
+
+95.3
+4.3
+
+0.03
+0.03
+
+ 
+
+ 
+
+0.47
+0.47
+
+0.27
+0.27
+
+detected  within  the  same  farm  and  by  size  of  farm 
+(supplementary  table).  Moreover,  we  found  no  clear 
+association between the use of and microbial resistance 
+to a given antimicrobial (Table 6).
+
+DISCUSSION
+
+This  study  provides  critical  information  regarding 
+the antimicrobials used in Jordanian dairies. The most 
+common diseases treated with antimicrobials in these 
+dairies  (in  descending  order)  were  mastitis,  metritis, 
+and enteritis. Interestingly, some of these diseases; spe-
+cifically  enteritis,  can  be  caused  by  pathogens  other 
+than bacteria, such as parasites and viruses. Redding et 
+al. (2014) reported the use of antiparasitics and antibi-
+otics for treating diarrhea cases in small farms in Peru, 
+but noted that the antiparasitics might be used to treat 
+bacterial and viral diarrhea causes, which would be in-
+effective and exacerbate the drug-resistant fascioliasis 
+in Peru. Mastitis in Jordanian dairies is treated with 
+oxytetracycline,  amoxicillin,  and  sometimes  gentami-
+cin,  which  is  a  critically  important  antimicrobial  for 
+
+human  medicine  (WHO,  2012)  and  not  approved  for 
+use in dairy cattle in the United States (Smith et al., 
+2005). Metritis is mostly treated with ceftiofur, which 
+is the same as in the United States (Galvão, 2012). The 
+use of this antimicrobial is approved and has no milk 
+withdrawal period and a short or no meat withdrawal 
+period (Galvão, 2012). Although foot rot is a problem 
+in  US  dairy  cattle  (Sawant  et  al.,  2005),  it  was  not 
+reported to be a problem in Jordanian dairies, which is 
+likely due to the drier climate.
+
+This  study  showed  that  a  limited  number  of  anti-
+microbial  classes  are  used  in  Jordanian  dairies;  and 
+generally,  oxytetracycline  and  streptomycin  (critically 
+important antimicrobials) are the most commonly used. 
+These 2 antimicrobials are the most frequently used in 
+the  United  States  and  Japan  as  well  (Sawant  et  al., 
+2005;  Harada  et  al.,  2006;  Parveen  et  al.,  2006),  and 
+oxytetracycline  is  the  most  commonly  used  in  small 
+farms in Peru (Redding et al., 2014). Tetracyclines, sul-
+fonamides, and β-lactams are the most commonly used 
+in  Europe  (NORM/NORM-VET,  2010;  DANMAP, 
+2014;  Merle  et  al.,  2014;  SWEDRES/SWEDVARM, 
+
+Table 5. Antimicrobial resistance percentage (in descending order) among Escherichia coli isolated from dairy 
+cattle fecal samples in Jordan in 2015, by production system
+
+Antimicrobial (breakpoint, mm)
+
+Streptomycin (≤11)
+Tetracycline (≤11)
+Ampicillin (≤13)
+Cefalothin (≤14)
+Amoxicillin-clavulanic acid (≤13)
+Sulfamethoxazole-trimethoprim (≤10)
+Nalidixic acid (≤13)
+Chloramphenicol (≤12)
+Kanamycin (≤13)
+Gentamicin (≤12)
+Ciprofloxacin (≤15)
+Ceftriaxone (≤19)
+Resistant to ≥1 antimicrobial
+Resistant to ≥3 classes of antimicrobials
+1Chi-squared P-value.
+
+Large system 
+
+(n = 207)
+
+Small system 
+
+(n = 313)
+
+All farms 
+(n = 520)
+
+P-value1
+
+54.1
+45.5
+28.9
+20.8
+14.0
+23.7
+13.0
+11.1
+10.1
+5.8
+4.8
+2.4
+69.1
+36.7
+
+43.1
+45.4
+37.7
+29.4
+21.7
+9.9
+11.5
+7.7
+7.7
+2.9
+3.4
+1.9
+62.0
+37.4
+
+47.5
+45.4
+34.2
+26.0
+18.7
+15.4
+12.1
+9.0
+8.6
+4.0
+3.8
+2.1
+65.6
+37.1
+
+0.01
+0.99
+0.04
+0.03
+0.03
+0.00
+0.60
+0.18
+0.33
+0.10
+0.46
+0.70
+0.10
+0.88
+
+Journal of Dairy Science Vol. 101 No. 3, 2018
+
+Table 6. Association between farm-level (n = 43) antimicrobial use and resistance among fecal Escherichia coli isolates (n = 520) in dairy farms 
+in Jordan1
+
+ANTIMICROBIALS IN JORDANIAN DAIRY CATTLE FARMS
+
+7
+
+Farms (no.) with  
+resistant isolates
+
+Farms (no.) without  
+
+a resistant isolate
+
+Antibiotic
+
+Using  
+
+antimicrobial
+
+Not using 
+antimicrobial
+
+ 
+
+Using 
+
+antimicrobial
+
+Not using 
+antimicrobial
+
+P-value
+
+Odds ratio (95% CI)
+
+Ampicillin
+Amoxicillin-clavulanic acid
+Cefalothin
+Ceftriaxone
+Tetracycline
+Sulfamethoxazole-trimethoprim
+Streptomycin
+Kanamycin
+Gentamicin
+Ciprofloxacin
+Nalidixic acid
+Chloramphenicol
+1Where zeros caused problems with computation of the odds ratio or its standard error, 0.5 was added to all cells (a, b, c, d in the 2 × 2 table) 
+(Pagano and Gauvreau, 2000; Deeks and Higgins, 2010).
+
+0.11 (0.002–6.47)
+1.89 (0.08–42.32)
+0.24 (0.004–12.95)
+1.11 (0.10–12.04)
+11.57 (0.20–677.08)
+1.03 (0.10–10.50)
+0.37 (0.01–9.49)
+0.66 (0.01–34.86)
+0.97 (0.27–3.50)
+1.51 (0.03–79.93)
+0.40 (0.01–21.12)
+0.50 (0.01–26.05)
+
+0.29
+0.69
+0.48
+0.93
+0.24
+0.98
+0.55
+0.84
+0.96
+0.84
+0.65
+0.73
+
+0
+2
+0
+1
+40
+31
+22
+0
+11
+0
+0
+0
+
+4
+11
+8
+30
+0
+1
+0
+17
+9
+26
+12
+14
+
+39
+30
+35
+9
+3
+6
+20
+26
+6
+17
+31
+29
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+0
+0
+0
+3
+0
+5
+1
+0
+17
+0
+0
+0
+
+2014).  Other  studies  in  resource-poor  countries  re-
+ported a similar limited number of antimicrobial classes 
+for treating animals in Costa Rica, Sudan, and Kenya 
+(Roderick et al., 2000; Luna-Tortos et al., 2006; Eltayb 
+et al., 2012).
+
+Antimicrobial  use  in  lactating  cows  could  lead  to 
+residues in milk, which can have adverse public health, 
+dairy  product  manufacturing,  and  economic  effects. 
+This  risk  can  be  reduced  by  marking,  milking  last, 
+and discarding the milk of treated cows following the 
+recommended withdrawal period for each antimicrobial 
+(Spiegel  et  al.,  2013).  In  our  study,  74.4%  of  herds-
+men  marked  their  treated  animals  and  25.6%  milked 
+those animals last. Although this finding suggests that 
+herdsmen  are  following  correct  practices,  they  might 
+do this because their milk cannot be used to make fer-
+mented dairy products (antimicrobial residues slow the 
+fermentation process by inhibiting the starter culture). 
+However,  most  herdsmen  used  a  shorter  withholding 
+period  of  3  to  5  d,  which  is  less  than  the  mandated 
+withdrawal  period  for  the  widely  used  antimicrobial 
+oxytetracycline. Herdsmen from small farms sell their 
+milk to small dairy shops, which are numerous and scat-
+tered throughout the country. These dairy shop owners 
+generally have little knowledge of the adverse effect of 
+antimicrobial  residues  on  human  health;  rather,  they 
+focus on whether the milk ferments or not. The large 
+dairy farms, however, sell their milk to large dairy plants 
+that check physical characteristics of the milk, includ-
+ing specific gravity, pH, fat percentage, and, sometimes, 
+antibiotic  residues  for  antibiotics  that  are  important 
+from the point of view of processing. Most herdsmen 
+(95.3%) fed milk from treated cows to other calves on 
+the farm for 3 to 5 d after treatment. A similarly high 
+
+use of this practice was reported in England and Wales, 
+where  65.4%  of  herdsmen  fed  mastitic  milk  to  calves 
+(Brunton et al., 2014). The same scenario was reported 
+in Sweden, where 56 and 79% of herdsmen fed milk to 
+calves during the course of antimicrobial treatment and 
+during the milk withdrawal period, respectively (Duse 
+et al., 2013). This practice is associated with shedding 
+cefotaximase (CTXM)-positive E. coli for a long period 
+in  calves  (Brunton  et  al.,  2014),  as  well  as  shedding 
+quinolone-resistant E. coli (Duse et al., 2015).
+
+The  frequently  used  antimicrobials  in  dairy  farms 
+in  Jordan  are  of  veterinary  importance  (OIE,  2015); 
+however, some herdsmen (6%) reported using spectino-
+mycin, which is not recommended for dairy cattle older 
+than 20 mo because the withdrawal period of this anti-
+microbial has not been established (FDA-CVM, 2015).
+Jordanian  dairy  herdsmen  reported  changing  an 
+antimicrobial  when  an  animal  did  not  respond  to  it 
+during the course of treatment. Switching antimicrobi-
+als has been described in Peru as well (Redding et al., 
+2014),  where  64.6%  of  the  herdsmen  administered  a 
+different  antimicrobial  and  16.9%  increased  the  dose 
+when an animal did not respond to initial treatment. 
+The  practice  of  using  antimicrobials  below  or  above 
+the recommended doses was also reported in dairies in 
+Switzerland (Gonzalez et al., 2010) and in veal calves 
+in Belgium (Pardon et al., 2012).
+
+In our study, a high percentage (64.6%) of the E. coli 
+isolates exhibited resistance to at least one antimicro-
+bial.  In  contrast,  lower  percentages  (<20%)  were  re-
+ported in dairy cattle of resource-rich countries includ-
+ing the United States, Germany, and Denmark (Lundin 
+et al., 2008; Kaesbohrer et al., 2012; DANMAP, 2014). 
+In  the  current  study,  the  MDR  profiles  included  2 
+
+Journal of Dairy Science Vol. 101 No. 3, 2018
+
+8
+
+OBAIDAT ET AL.
+
+common profiles; resistance to ampicillin, tetracycline, 
+and  streptomycin  (23  isolates  =  21.5%  of  the  MDR 
+isolates) and resistance to these 3 antimicrobials plus 
+sulfamethoxazole-trimethoprim  (12  isolates  =  11.2% 
+of  the  MDR  isolates),  amoxicillin-clavulanic  acid  (23 
+isolates = 21.5% of the MDR isolates), and amoxicillin-
+clavulanic acid and cephalothin (14 isolates = 13.1% of 
+the MDR isolates). The ampicillin-tetracycline-strepto-
+mycin  resistance  pattern  has  been  reported  by  other 
+researchers  in  different  locations  (White  et  al.,  2000; 
+Lim  et  al.,  2007;  Alexander  et  al.,  2010;  Kaesbohrer 
+et  al.,  2012).  This  pattern  might  be  associated  with 
+frequent exposure to minimal levels of tetracycline, of-
+ten in combination with chloramphenicol (Blake et al., 
+2003), and linked to transferable high-molecular-weight 
+plasmids (Karczmarczyk et al., 2011).
+
+Almost  half  of  the  isolates  (45.4%)  exhibited  resis-
+tance  to  tetracycline  in  this  study.  Several  studies  in 
+multiple  worldwide  locations  reported  frequent  resis-
+tance to tetracycline among E. coli isolates (Teshager 
+et al., 2000; Sayah et al., 2005; Lim et al., 2007; Lundin 
+et al., 2008). The extensive use of tetracycline in human 
+and veterinary medicine is attributed to their low cost, 
+having few side effects and growth-promotion proper-
+ties  (Chopra  and  Roberts,  2001).  Using  tetracycline 
+to promote growth is performed in Jordan dairies for 
+treating calves and is proven to augment tetracycline 
+resistance  (Alexander  et  al.,  2010;  Love  et  al.,  2011; 
+Marshall and Levy, 2011; Mirzaagha et al., 2011). The 
+use of antimicrobials for growth promotion is banned 
+in European countries (Maron et al., 2013). Moreover, 
+the reported use of ceftiofur in Jordanian dairies can 
+contribute  to  the  high  resistance  to  tetracycline  be-
+cause the use of ceftiofur can co-select for and facilitate 
+co-amplification of E. coli that exhibit co-resistance to 
+tetracycline (Lowrance et al., 2007; Alali et al., 2009).
+
+Considerable  resistance  to  chloramphenicol  was 
+found in this study, despite no reported use of this anti-
+microbial in dairy farms. Similar findings were reported 
+in  Japan  (Lim  et  al.,  2007)  and  Korea  (Harada  and 
+Asai, 2010). This might be attributed to co-selection of 
+resistant determinants from using other antimicrobials 
+(Bischoff et al., 2002; Harada and Asai, 2010) and to 
+co-resistance with quinolone and nalidixic acid (Bialek 
+et  al.,  2010).  In  addition,  resistance  to  tetracycline 
+can be transferred in E. coli due to the genetic linkage 
+among their resistance genes (Bischoff et al., 2002).
+
+A  moderate  proportion  (26%)  of  the  isolates  ex-
+hibited  resistance  to  cephalothin  (a  first-generation 
+cephalosporin)  but  fewer  (3.8%)  exhibited  resistance 
+to ceftriaxone (a third-generation cephalosporin). The 
+resistance to ceftriaxone, despite no reports of its use 
+in  dairy  farms  in  this  study,  might  be  attributed  to 
+
+the wide use of ceftiofur—using ceftiofur can co-select 
+for  resistance  to  ceftriaxone  (Tragesser  et  al.,  2006). 
+This  led  the  US  Food  and  Drug  Administration  to 
+limit  extra-label  use  of  cephalosporin  antimicrobials 
+in  cattle,  chickens,  swine,  and  turkeys  (FDA-DHHS, 
+2012). Therefore, continuous monitoring for resistance 
+to third- and fourth-generation cephalosporins is war-
+ranted  in  Jordan  because  these  agents  are  critically 
+important  antimicrobials  in  human  medicine  (WHO, 
+2012) and their resistance can be disseminated through 
+the transfer of mobile genetic elements from animals to 
+humans.
+
+Resistance  to  fluoroquinolones  was  relatively  infre-
+quent (ciprofloxacin = 3.8%) among the E. coli dairy 
+cattle isolates in this study but high enough to cause 
+public health concern as this class of antimicrobials is 
+of medical importance. Similarly low percentages (less 
+than  2%)  of  fluoroquinolone  resistance  were  reported 
+in  Korea,  Italy,  Finland,  and  Sweden  (Harada  and 
+Asai, 2010) and none were reported in Canada, France, 
+Denmark, Germany, and Australia (Harada and Asai, 
+2010).  The  reported  resistance  to  fluoroquinolones  in 
+the current study might be attributed to the extensive 
+use  of  tetracycline  because  resistance  to  fluoroquino-
+lones  in  multi-antimicrobial  resistance  isolate  can  be 
+co-selected  by  the  use  of  tetracyclines  (Asai  et  al., 
+2007).  Moreover,  due  to  their  critical  importance  in 
+human  medicine  (WHO,  2012),  the  use  of  fluoroqui-
+nolones in veterinary medicine is decreasing in several 
+countries and banned in other countries (Cheng et al., 
+2012; Garcia-Migura et al., 2014).
+
+This study showed no clear association between the 
+use of and resistance to a given antimicrobial. However, 
+our sample size was relatively small, we were unable to 
+determine recent antimicrobial use, and it was not pos-
+sible to have a control farm because there are no farms 
+in Jordan with no or minimal antimicrobial use. None-
+theless, our findings corroborate previous studies that 
+did not find significant associations between antimicro-
+bial use and resistance toward a named antimicrobial. 
+Rather, antimicrobial use can be a contributing factor 
+but probably not the main or single factor causing an-
+timicrobial resistance (Bergman et al., 2009; Oliver et 
+al., 2011). In our study, the reason why resistance did 
+not  correlate  with  use  of  an  antibiotic  could  be  that 
+the animals selected had not received treatment in the 
+previous  2  wk.  Several  other  studies  have  found  that 
+the resistance induced by use is transient (Jiang et al., 
+2006; Lowrance et al., 2007; Checkley et al., 2008; Platt 
+et  al.,  2008;  Mann  et  al.,  2011;  Morley  et  al.,  2011; 
+Boyer and Singer, 2012). Moreover, because herdsmen 
+choose antimicrobials based on experience, we assume 
+that they would refrain from using antimicrobials with 
+
+Journal of Dairy Science Vol. 101 No. 3, 2018
+
+ANTIMICROBIALS IN JORDANIAN DAIRY CATTLE FARMS
+
+9
+
+which  they  previously  experienced  a  perceived  treat-
+ment failure. Thus, an association between antimicro-
+bial use and resistance might be difficult to detect.
+
+CONCLUSIONS
+
+Our research indicated that antimicrobials are mis-
+used  in  Jordanian  dairies;  specifically,  antimicrobial 
+agents are administered without a veterinary prescrip-
+tion  and  recommended  withdrawal  times  are  not  ad-
+hered  to.  Furthermore,  resistance  among  commensal 
+E. coli toward antimicrobials of human and veterinary 
+importance was high compared with that in other coun-
+tries. To address this misuse and emerging resistance, it 
+is essential to promote judicious use of antimicrobials in 
+livestock operations, through educational programs for 
+herdsmen and veterinarians conducted by the Ministry 
+of Agriculture, veterinary association committees, and 
+academic  institutions.  Immediate  interventions  that 
+should be considered in Jordan include the use of cost-
+effective  and  simple  antimicrobial  sensitivity  testing 
+before  treating  animals.  Banning  the  use  of  critically 
+important antibiotics for human health has been suc-
+cessfully implemented in several countries and should 
+be considered in Jordan.
+
+ACKNOWLEDGMENTS
+
+This work was supported by Scientific Research Sup-
+port Fund of the Jordan Ministry of Higher Education 
+and Scientific Research (Project # Agri 49).
+
+REFERENCES
+
+Alali, W. Q., H. M. Scott, B. Norby, W. Gebreyes, and G. H. Loner-
+agan. 2009. Quantification of the bla(CMY-2) in feces from beef 
+feedlot cattle administered three different doses of ceftiofur in a 
+longitudinal controlled field trial. Foodborne Pathog. Dis. 6:917–
+924.
+
+Alexander, T. W., G. D. Inglis, L. J. Yanke, E. Topp, R. R. Read, T. 
+Reuter, and T. A. McAllister. 2010. Farm-to-fork characterization 
+of Escherichia coli associated with feedlot cattle with a known his-
+tory of antimicrobial use. Int. J. Food Microbiol. 137:40–48.
+
+Asai, T., K. Harada, K. Ishihara, A. Kojima, T. Sameshima, Y. Tamu-
+ra, and T. Takahashi. 2007. Association of antimicrobial resistance 
+in Campylobacter isolated from food-producing animals with anti-
+microbial use on farms. Jpn. J. Infect. Dis. 60:290–294.
+
+Bergman,  M.,  S.  T.  Nyberg,  P.  Huovinen,  P.  Paakkari,  and  A.  J. 
+Hakanen.  2009.  Association  between  antimicrobial  consumption 
+and resistance in Escherichia coli. Antimicrob. Agents Chemother. 
+53:912–917.
+
+Bialek, S., J. P. Lavigne, J. Chevalier, E. Marcon, V. Leflon-Guibout, 
+A. Davin, R. Moreau, J. M. Pages, and M. H. Nicolas-Chanoine. 
+2010. Membrane efflux and influx modulate both multidrug resis-
+tance and virulence of Klebsiella pneumoniae in a Caenorhabditis 
+elegans model. Antimicrob. Agents Chemother. 54:4373–4378.
+
+Bischoff, K. M., D. G. White, P. F. McDermott, S. Zhao, S. Gaines, 
+J. J. Maurer, and D. J. Nisbet. 2002. Characterization of chloram-
+phenicol  resistance  in  beta-hemolytic  Escherichia  coli  associated 
+with diarrhea in neonatal swine. J. Clin. Microbiol. 40:389–394.
+
+Blake, D. P., R. W. Humphry, K. P. Scott, K. Hillman, D. R. Fenlon, 
+and J. C. Low. 2003. Influence of tetracycline exposure on tetra-
+cycline resistance and the carriage of tetracycline resistance genes 
+within commensal Escherichia coli populations. J. Appl. Microbiol. 
+94:1087–1097.
+
+Boyer,  T.  C.,  and  R.  S.  Singer.  2012.  Quantitative  measurement  of 
+blaCMY-2 in a longitudinal observational study of dairy cattle treat-
+ed with ceftiofur. Foodborne Pathog. Dis. 9:1022–1027.
+
+Brunton, L. A., H. E. Reeves, L. C. Snow, and J. R. Jones. 2014. A lon-
+gitudinal field trial assesing the impact of feeding waste milk con-
+taining antibiotic residues on the prevalence of ESBL-producing 
+Escherichia coli in calves. Prev. Vet. Med. 117:403–412.
+
+Checkley, S. L., J. R. Campbell, M. Chirino-Trejo, E. D. Janzen, and 
+J.  J.  McKinnon.  2008.  Antimicrobial  resistance  in  generic  fecal 
+Escherichia coli obtained from beef cattle on arrival at the feedlot 
+and prior to slaughter, and associations with volume of total in-
+dividual cattle antimicrobial treatments in one western Canadian 
+feedlot. Can. J. Vet. Res. 72:101–108.
+
+Cheng, A. C., J. Turnidge, P. Collignon, D. Looke, M. Barton, and 
+T. Gottlieb. 2012. Control of  fluoroquinolone  resistance through 
+successful regulation, Australia. Emerg. Infect. Dis. 18:1453–1460.
+Chopra, I., and M. Roberts. 2001. Tetracycline antibiotics: Mode of ac-
+tion, applications, molecular biology, and epidemiology of bacterial 
+resistance. Microbiol. Mol. Biol. Rev. 65:232–260.
+
+CIPARS (Canadian Integrated Program for Antimicrobial Resistance 
+Surveillance).  2013.  Annual  Report.  Vol.  2016.  Public  Health 
+Agency of Canada, Ottawa, ON, Canada.
+
+CLSI.  2014.  Performance  standards  for  antimicrobial  susceptibility 
+testing. CLSI document M100–S24. Clinical and Laboratory Stan-
+dards Institute (CLSI), Wayne, PA.
+
+DANMAP  (Danish  Integrated  Antimicrobial  Resistance  Monitoring 
+and Research Programme). 2014. Use of antimicrobial agents and 
+occurrence of antimicrobial resistance in bacteria from food ani-
+mals, foods and humans in Denmark. Danish Institute for Food 
+and Veterinary Research, Copenhagen.
+
+Deeks, J. J., and J. P. T. Higgins. 2010. Statistical algorithms in Re-
+view Manager 5. Accessed Oct. 15, 2017. http:// training .cochrane 
+.org/ handbook/ statistical -methods -revman5.
+
+DeFrancesco, K. A., R. N. Cobbold, D. H. Rice, T. E. Besser, and D. 
+D.  Hancock.  2004.  Antimicrobial  resistance  of  commensal  Esch-
+erichia coli from dairy cattle associated with recent multi-resistant 
+salmonellosis outbreaks. Vet. Microbiol. 98:55–61.
+
+DoS (Department of Statistics). 2015. Agriculture surveys: Livestock 
+production  value  and  quantity.  Accessed  Aug.  13,  2016.  http:// 
+www .dos .gov .jo/ owa -user/ owa/ FOCAL _AGR _anm .show _param 
+?LANG = E & dis = 5.
+
+Duse, A., K. P. Waller, U. Emanuelson, H. E. Unnerstad, Y. Persson, 
+and B. Bengtsson. 2013. Farming practices in Sweden related to 
+feeding milk and colostrum from cows treated with antimicrobials 
+to dairy calves. Acta Vet. Scand. 55:49.
+
+Duse, A., K. P. Waller, U. Emanuelson, H. E. Unnerstad, Y. Persson, 
+and B. Bengtsson. 2015. Risk factors for quinolone-resistant Esch-
+erichia coli in feces from preweaned dairy calves and postpartum 
+dairy cows. J. Dairy Sci. 98:6387–6398.
+
+ECDC (European Centre for Disease Prevention and Control). 2015. 
+ECDC/EFSA/EMA first joint report on the integrated analysis of 
+the consumption of antimicrobial agents and occurrence of anti-
+microbial resistance in bacteria from humans and food-producing 
+animals. EFSA J. 13:4006.
+
+Eltayb, A., S. Barakat, G. Marrone, S. Shaddad, and C. Stalsby Lun-
+dborg. 2012. Antibiotic use and resistance in animal farming: A 
+quantitative  and  qualitative  study  on  knowledge  and  practices 
+among  farmers  in  Khartoum,  Sudan.  Zoonoses  Public  Health 
+59:330–338.
+
+European Food Safety Authority (EFSA). 2008. Harmonised monitor-
+ing of antimicrobial resistance in Salmonella and Campylobacter 
+isolates from food animals in the European Union. Clin. Microbiol. 
+Infect. 14:522–533.
+
+FDA-CVM  (Food  and  Drug  Administration-Center  for  Veterinary 
+Medicine).  2015.  NADA  141–077:  ADSPEC™  Sterile  Solution–
+original  approval.  Accessed  Sep.  29,  2017.  https:// www .fda .gov/ 
+
+Journal of Dairy Science Vol. 101 No. 3, 2018
+
+10
+
+OBAIDAT ET AL.
+
+AnimalVeterinary/ Products/ ApprovedAnimalDrugProducts/ 
+FOIADrugSummaries/ ucm116789 .htm.
+
+FDA-DHHS  (Food  and  Drug  Administration-Department  of  Health 
+and  Human  Services).  2012.  New  Animal  Drugs;  Cephalospo-
+rin  Drugs;  Extralabel  Animal  Drug  Use;  Order  of  Prohibition. 
+https:// www .federalregister .gov/ documents/ 2012/ 01/ 06/ 2012 -35/ 
+new -animal -drugs -cephalosporin -drugs -extralabel -animal -drug -use 
+-order -of -prohibition.
+
+File,  T.  M.,  A.  Srinivasan,  and  J.  G.  Bartlett.  2014.  Antimicrobial 
+stewardship: Importance for patient and public health. Clin. In-
+fect. Dis. 59:S93–S96.
+
+Friedman,  N.  D.,  E.  Temkin,  and  Y.  Carmeli.  2016.  The  negative 
+impact of antibiotic resistance. Clin. Microbiol. Infect. 22:416–422.
+Galvão, K. N. 2012. Postpartum uterine diseases in dairy cows. Anim. 
+
+Reprod. 9:290–296.
+
+Garcia-Migura, L., R. S. Hendriksen, L. Fraile, and F. M. Aarestrup. 
+2014. Antimicrobial resistance of zoonotic and commensal bacteria 
+in Europe: The missing link between consumption and resistance 
+in veterinary medicine. Vet. Microbiol. 170:1–9. https:// doi .org/ 10 
+.1016/ j .vetmic .2014 .01 .013.
+
+Gonzalez, S. M., A. Steiner, B. Gassner, and G. Regula. 2010. Antimi-
+crobial use in Swiss dairy farms: Quantification and evaluation of 
+data quality. Prev. Vet. Med. 95:50–63.
+
+Hao, H., G. Cheng, Z. Iqbal, X. Ai, H. I. Hussain, L. Huang, M. Dai, 
+Y. Wang, Z. Liu, and Z. Yuan. 2014. Benefits and risks of anti-
+microbial use in food-producing animals. Front. Microbiol. 5:288. 
+https:// doi .org/ 10 .3389/ fmicb .2014 .00288.
+
+Harada, K., and T. Asai. 2010. Role of antimicrobial selective pressure 
+and  secondary  factors  on  antimicrobial  resistance  prevalence  in 
+Escherichia coli from food-producing animals in Japan. J. Biomed. 
+Biotechnol. 2010:180682.
+
+Harada, K., T. Asai, A. Kojima, K. Ishihara, and T. Takahashi. 2006. 
+Role of coresistance in the development of resistance to chloram-
+phenicol in Escherichia coli isolated from sick cattle and pigs. Am. 
+J. Vet. Res. 67:230–235.
+
+Jiang, X., H. Yang, B. Dettman, and M. P. Doyle. 2006. Analysis of 
+fecal  microbial  flora  for  antibiotic  resistance  in  ceftiofur-treated 
+calves. Foodborne Pathog. Dis. 3:355–365.
+
+Kaesbohrer,  A.,  A.  Schroeter,  B.  A.  Tenhagen,  K.  Alt,  B.  Guerra, 
+and B. Appel. 2012. Emerging antimicrobial resistance in commen-
+sal Escherichia coli with public health relevance. Zoonoses Public 
+Health 59:158–165.
+
+Karczmarczyk, M., C. Walsh, R. Slowey, N. Leonard, and S. Fanning. 
+2011. Molecular characterization of multidrug-resistant Escherich-
+ia coli isolates from Irish cattle farms. Appl. Environ. Microbiol. 
+77:7121–7127.
+
+Landers, T. F., B. Cohen, T. E. Wittum, and E. L. Larson. 2012. A 
+review of antibiotic use in food animals: Perspective, policy, and 
+potential. Public Health Rep. 127:4–22.
+
+Leverstein-van  Hall,  M.  A.,  C.  M.  Dierikx,  J.  Cohen  Stuart,  G.  M. 
+Voets,  M.  P.  van  den  Munckhof,  A.  van  Essen-Zandbergen,  T. 
+Platteel, A. C. Fluit, N. van de Sande-Bruinsma, J. Scharinga, M. 
+J. Bonten, and D. J. Mevius. 2011. Dutch patients, retail chick-
+en meat and poultry share the same ESBL genes, plasmids and 
+strains. Clin. Microbiol. Infect. 17:873–880.
+
+Lim,  S.  K.,  H.  S.  Lee,  H.  M.  Nam,  Y.  S.  Cho,  J.  M.  Kim,  S.  W. 
+Song, Y. H. Park, and S. C. Jung. 2007. Antimicrobial resistance 
+observed in Escherichia coli strains isolated from fecal samples of 
+cattle and pigs in Korea during 2003–2004. Int. J. Food Microbiol. 
+116:283–286.
+
+Love, D. C., M. F. Davis, A. Bassett, A. Gunther, and K. E. Nach-
+man. 2011. Dose imprecision and resistance: free-choice medicated 
+feeds in industrial food animal production in the United States. 
+Environ. Health Perspect. 119:279–283.
+
+Lowrance, T. C., G. H. Loneragan, D. J. Kunze, T. M. Platt, S. E. 
+Ives, H. M. Scott, B. Norby, A. Echeverry, and M. M. Brashears. 
+2007.  Changes  in  antimicrobial  susceptibility  in  a  population  of 
+Escherichia coli isolated from feedlot cattle administered ceftiofur 
+crystalline-free acid. Am. J. Vet. Res. 68:501–507.
+
+Luna-Tortos,  C.,  M.  Correa,  H.  Cedeno-Guerra,  and  M.  Caballero. 
+2006. Estudio sobre los patronesmde uso de antibioticos y los fac-
+
+Journal of Dairy Science Vol. 101 No. 3, 2018
+
+tores de relevancia en el surgimiento de la resistencia bacteriana en 
+fincas lecheras artesanales de Costa Rica. Cienc. Vet. 24:151–165.
+Lundin, J. I., D. A. Dargatz, B. A. Wagner, J. E. Lombard, A. E. Hill, 
+S. R. Ladely, and P. J. Fedorka-Cray. 2008. Antimicrobial drug re-
+sistance of fecal Escherichia coli and Salmonella spp. isolates from 
+United States dairy cows. Foodborne Pathog. Dis. 5:7–19.
+
+Magiorakos,  A.  P.,  A.  Srinivasan,  R.  B.  Carey,  Y.  Carmeli,  M.  E. 
+Falagas, C. G. Giske, S. Harbarth, J. F. Hindler, G. Kahlmeter, 
+B. Olsson-Liljequist, D. L. Paterson, L. B. Rice, J. Stelling, M. J. 
+Struelens, A. Vatopoulos, J. T. Weber, and D. L. Monnet. 2012. 
+Multidrug-resistant, extensively drug-resistant and pandrug-resis-
+tant bacteria: An international expert proposal for interim stan-
+dard  definitions  for  acquired  resistance.  Clin.  Microbiol.  Infect. 
+18:268–281.
+
+Maheux, A. F., F. J. Picard, M. Boissinot, L. Bissonnette, S. Paradis, 
+and  M.  G.  Bergeron.  2009.  Analytical  comparison  of  nine  PCR 
+primer  sets  designed  to  detect  the  presence  of  Escherichia  coli/
+Shigella in water samples. Water Res. 43:3019–3028.
+
+Mann, S., J. D. Siler, D. Jordan, and L. D. Warnick. 2011. Antimicro-
+bial susceptibility of fecal Escherichia coli isolates in dairy cows 
+following  systemic  treatment  with  ceftiofur  or  penicillin.  Food-
+borne Pathog. Dis. 8:861–867.
+
+Maron,  D.  F.,  T.  J.  Smith,  and  K.  E.  Nachman.  2013.  Restrictions 
+on antimicrobial use in food animal production: an international 
+regulatory and economic survey. Global. Health 9:48.
+
+Marshall, B. M., and S. B. Levy. 2011. Food animals and antimicrobi-
+
+als: Impacts on human health. Clin. Microbiol. Rev. 24:718–733.
+
+Merle,  R.,  M.  Robanus,  C.  Hegger-Gravenhorst,  Y.  Mollenhauer,  P. 
+Hajek, A. Käsbohrer, W. Honscha, and L. Kreienbrock. 2014. Fea-
+sibility study of veterinary antibiotic consumption in Germany—
+Comparison of ADDs and UDDs by animal production type, anti-
+microbial class and indication. BMC Vet. Res. 10:7.
+
+Mirzaagha, P., M. Louie, R. Sharma, L. J. Yanke, E. Topp, and T. A. 
+McAllister. 2011. Distribution and characterization of ampicillin- 
+and tetracycline-resistant Escherichia coli from feedlot cattle fed 
+subtherapeutic antimicrobials. BMC Microbiol. 11:78.
+
+Morley, P. S., D. A. Dargatz, D. R. Hyatt, G. A. Dewell, J. G. Patter-
+son, B. A. Burgess, and T. E. Wittum. 2011. Effects of restricted 
+antimicrobial exposure on antimicrobial resistance in fecal Esch-
+erichia coli from feedlot cattle. Foodborne Pathog. Dis. 8:87–98.
+
+NARMS  (National  Antimicrobial  Resistance  Monitoring  System). 
+2015.  The  2012–2013  Integrated  NARMS  Report.  USDA,  Belts-
+ville, MD.
+
+NORM/NORM-VET. 2010. Report on usage of antimicrobial agents 
+and occurrence of antimicrobial resistance in Norway in animals 
+and humans. Vol. 2015. National Veterinary Institute, Oslo, Nor-
+way.
+
+OIE (World Organization for Animal Health). 2015. OIE list of antimi-
+
+crobials of veterinary importance. OIE, Paris, France.
+
+Oliver, S. P., S. E. Murinda, and B. M. Jayarao. 2011. Impact of anti-
+biotic use in adult dairy cows on antimicrobial resistance of veteri-
+nary and human pathogens: A comprehensive review. Foodborne 
+Pathog. Dis. 8:337–355.
+
+Pagano, M., and K. Gauvreau. 2000. Principles of Biostatistics. 2nd 
+
+ed. Brooks/Cole, Belmont, CA.
+
+Pardon,  B.,  B.  Catry,  J.  Dewulf,  D.  Persoons,  M.  Hostens,  K.  De 
+Bleecker, and P. Deprez. 2012. Prospective study on quantitative 
+and qualitative antimicrobial and anti-inflammatory drug use in 
+white veal calves. J. Antimicrob. Chemother. 67:1027–1038.
+
+Parveen, S., J. Lukasik, T. M. Scott, M. L. Tamplin, K. M. Portier, S. 
+Sheperd, K. Braun, and S. R. Farrah. 2006. Geographical variation 
+in  antibiotic  resistance  profiles  of  Escherichia  coli  isolated  from 
+swine, poultry, beef and dairy cattle farm water retention ponds in 
+Florida. J. Appl. Microbiol. 100:50–57.
+
+Platt, T. M., G. H. Loneragan, H. M. Scott, B. Norby, D. U. Thomson, 
+M. S. Brown, S. E. Ives, and M. M. Brashears. 2008. Antimicrobial 
+susceptibility of enteric bacteria recovered from feedlot cattle ad-
+ministered chlortetracycline in feed. Am. J. Vet. Res. 69:988–996.
+Redding, L. E., F. Cubas-Delgado, M. D. Sammel, G. Smith, D. T. 
+Galligan, M. Z. Levy, and S. Hennessy. 2014. The use of antibiot-
+ics on small dairy farms in rural Peru. Prev. Vet. Med. 113:88–95.
+
+ANTIMICROBIALS IN JORDANIAN DAIRY CATTLE FARMS
+
+11
+
+RESAPATH. 2012. Monitoring of Antimicrobial Resistance in Patho-
+genic Bacteria in Animals in France in 2012: Summary Report of 
+the RESAPATH network (French surveillance network for antimi-
+crobial resistance in pathogenic bacteria of animal origin). RESA-
+PATH, Maisons-Alfort, France.
+
+Roderick,  S.,  P.  Stevenson,  C.  Mwendia,  and  G.  Okech.  2000.  The 
+use of trypanocides and antibiotics by Maasai pastoralists. Trop. 
+Anim. Health Prod. 32:361–374.
+
+Sawant,  A.  A.,  L.  M.  Sordillo,  and  B.  M.  Jayarao.  2005.  A  survey 
+on antibiotic usage in dairy herds in Pennsylvania. J. Dairy Sci. 
+88:2991–2999.
+
+Sayah, R. S., J. B. Kaneene, Y. Johnson, and R. Miller. 2005. Patterns 
+of  antimicrobial  resistance  observed  in  Escherichia  coli  isolates 
+obtained  from  domestic-  and  wild-animal  fecal  samples,  human 
+septage,  and  surface  water.  Appl.  Environ.  Microbiol.  71:1394–
+1404.
+
+Smith, G. W., R. Gehring, A. L. Craigmill, A. I. Webb, and J. E. Riv-
+iere. 2005. Extralabel intramammary use of drugs in dairy cattle. 
+J. Am. Vet. Med. Assoc 226:1994–1996.
+
+Spiegel,  M.,  P.  Sterrenburg,  W.  Haasnoot,  and  H.  J.  van  der  Fels-
+Klerx. 2013. Towards a decision support system for control of mul-
+tiple food safety hazards in raw milk production. Trends Food Sci. 
+Technol. 34:137–145.
+
+SWEDRES/SWEDVARM. 2014. Consumption of antibiotics and oc-
+currence of antibiotic resistance in Sweden. J. Hellman, O. Aspe-
+vall, B. Bengtsson, and M. Pringle, ed. Public Health Agency of 
+Sweden and National Veterinary Institute, Stockholm, Sweden.
+
+Teshager, T., I. A. Herrero, M. C. Porrero, J. Garde, M. A. Moreno, 
+and L. Dominguez. 2000. Surveillance of antimicrobial resistance 
+in Escherichia coli strains isolated from pigs at Spanish slaughter-
+houses. Int. J. Antimicrob. Agents 15:137–142.
+
+Tragesser, L. A., T. E. Wittum, J. A. Funk, P. L. Winokur, and P. J. 
+Rajala-Schultz. 2006. Association between ceftiofur use and isola-
+tion of Escherichia coli with reduced susceptibility to ceftriaxone 
+from fecal samples of dairy cows. Am. J. Vet. Res. 67:1696–1700.
+
+White, D. G., C. Hudson, J. J. Maurer, S. Ayers, S. Zhao, M. D. Lee, 
+L. Bolton, T. Foley, and J. Sherwood. 2000. Characterization of 
+chloramphenicol and florfenicol resistance in Escherichia coli as-
+sociated with bovine diarrhea. J. Clin. Microbiol. 38:4593–4598.
+
+WHO  (World  Health  Organization).  2012.  Critically  important  an-
+timicrobials  for  human  medicine;  3rd  Revision.  WHO,  Geneva, 
+Switzerland.
+
+WHO  (World  Health  Organization).  2014.  Antimicrobial  resistance: 
+Global report on surveillance. Accessed Sep. 9, 2017. http:// apps 
+.who .int/ iris/ bitstream/ 10665/ 112642/ 1/ 9789241564748 _eng .pdf 
+?ua = 1.
+
+Journal of Dairy Science Vol. 101 No. 3, 2018
+
+

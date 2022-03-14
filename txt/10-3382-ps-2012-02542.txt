@@ -1,0 +1,2319 @@
+ MOLECULAR, CELLULAR, AND DEVELOPMENTAL BIOLOGY
+
+   
+
+  Shiga toxin-producing Escherichia coli isolated from chicken meat in Iran: 
+
+Serogroups, virulence factors, and antimicrobial resistance properties 
+
+  Hassan   Momtaz *1 and  Alireza   Jamshidi †
+
+   * Department of Microbiology, and    † Graduate of Veterinary Medicine, College of Veterinary Medicine, 
+
+Shahrekord Branch, Islamic Azad University, Shahrekord, Iran 
+
+  ABSTRACT   The aim of the current study was to de-
+termine  the  virulence  factors,  serogroups,  and  anti-
+biotic  resistance  properties  of  Shiga  toxin-producing 
+Escherichia coli isolated from chicken meat samples. A 
+total of 422 chicken meat samples were collected from 
+5 townships of Iran. Specimens were immediately trans-
+ferred to the laboratory in a cooler with an ice pack. 
+Samples  were cultured,  and  the  positive culture sam-
+ples were analyzed by PCR assays. Finally, the antimi-
+crobial susceptibility test was performed using the disk 
+diffusion method in Mueller–Hinton agar. According to 
+the results, out of 422 samples, 146 (34.59%) were con-
+firmed to be E. coli positive and among E. coli-positive 
+samples,  51  (34.93%)  and  31  (21.23%)  were  from  at-
+taching and effacing E. coli (AEEC) and enterohemor-
+rhagic  E.  coli  (EHEC)  subgroups,  respectively.  All  of 
+the EHEC-positive samples had all stx1, eaeA, and ehly
+virulence genes, whereas only 5 (9.80%) of AEEC sub-
+group had all stx1, stx2, and eaeA genes. As the data 
+
+revealed, O157 was the most prevalent and O111 was 
+the least prevalent strains in the Shiga toxin-producing 
+E. coli (STEC) population. Among STEC strains, sulI
+and blaSHV had the highest and lowest incidence rate, 
+respectively. There was a high resistance to tetracycline 
+(76.82%),  followed  by  chloramphenicol  (73.17%)  and 
+nitrofurantoin (63.41%), but there was low resistance to 
+cephalotine (7.31%) antibiotics in isolated strains. Re-
+sults shows that the PCR technique has a high perfor-
+mance for detection of serogroups, virulence genes, and 
+antibiotic resistance genes in STEC strains. This study 
+is the first prevalence report of detection of virulence 
+genes, serogroups, and antibiotic resistance properties 
+of STEC strains isolated from chicken meat samples in 
+Iran. Based on the results, chicken meat is one of the 
+main sources of STEC strains and its virulence factors 
+in Iran, so an accurate meat inspection would reduce 
+disease outbreaks. 
+
+  
+
+  Key words:   Shiga toxin-producing Escherichia coli ,  serogroup ,  molecular characterization ,  chicken meat ,  Iran 
+ 2013  Poultry Science  92 :1305–1313
+http://dx.doi.org/  10.3382/ps.2012-02542 
+
+  INTRODUCTION 
+
+Escherichia coli is a gram-negative, rod-shaped, flag-
+ellated, nonsporulating, and facultative anaerobic bac-
+terium that belongs to Enterobacteriaceae family. Some 
+serogroups of E. coli are able to cause disease and food 
+poisoning. These types of E. coli are generally classi-
+fied into 6 subgroups including enterotoxigenic E. coli
+(ETEC),  enteropathogenic  E.  coli  (EPEC),  entero-
+invasive  E.  coli,  enterohemorrhagic  E.  coli  (EHEC), 
+enteroadherent  E.  coli,  and  diffusely  adherent  E.  coli
+(Holko et al., 2006). The EHEC strains are one of the 
+subsets of Shiga toxin (Stx)-producing E. coli (STEC) 
+strains,  which  are  isolated  from  patients  and  are  re-
+sponsible for severe clinical symptoms such as hemor-
+
+© 2013  Poultry Science Association Inc.
+ Received June 16, 2012.
+ Accepted December 30, 2012.
+   1   Corresponding  author:   hamomtaz@yahoo.com   or   hamomtaz@
+
+iaushk.ac.ir 
+
+rhagic colitis (HC) and the potentially lethal hemolytic 
+uremic syndrome (HUS; Karch et al., 2005; Karmali et 
+al.,  2010).  The  STEC  serogroups  associated  with  hu-
+man  diseases  are  numerous  and  include  O1,  O2,  O4, 
+O5,O6,  O22,  O23,  O26,  O38,  O45,  O48,  O50,  O55, 
+O73, O75, O91, O100, O103, O104, O105, O111, O113, 
+O114,  O115,  O117,  O118,  O119,  O121,  O125,  O126, 
+O128, O132, O145, O153, O163, O165, and O166, as 
+well as untypeable isolates (DebRoy et al., 2004; Hei-
+jnen and Medema, 2006; Erickson and Doyle, 2007; Lin 
+et al., 2011). Several studies showed that consumption 
+of  contaminated  food  with  STEC  strains  is  the  main 
+cause of human infections (Mead et al., 1999; Caprioli 
+et al., 2005; Hussein and Sakuma, 2005). It seems that 
+STEC virulence genes have a major role in causing dis-
+eases. Shiga toxins, the main virulence factors contrib-
+uting  to  pathogenicity,  consist  of  2  major  types,  the 
+Stx1, which is identical to Stx of Shigella dysenteriae, 
+and Stx2, which is 56% homologous to Stx1 (Scheutz 
+and Strockbine, 2005). On the other hand, the Stx is 
+a family of cytotoxic proteins that  consists  of an ap-
+
+1305
+
+1306
+
+MOMTAZ AND JAMSHIDI
+
+proximately  32-kDa  A  subunit,  with  N-glycosidase 
+activity,  noncovalently  associated  with  a  pentamer  of 
+B subunits (7.7 kDa each), which mediate binding to 
+specific  receptor  molecules  (O’Loughlin  and  Robins-
+Browne, 2001). The Stx genes are carried by temperate 
+lambdoid bacteriophages, along with late genes of the 
+phage  genome,  and  are  regulated  by  the  phage  regu-
+latory circuits (Schmidt, 2001; Waldor and Friedman, 
+2005). Induction of phage by agents that affect bacte-
+rial DNA or the cell wall, including antibiotics, can lead 
+to a massive increase in toxin production (Kimmitt et 
+al., 2000). The Stx1, but not Stx2 and its variants, is 
+iron  regulated,  with  enhanced  synthesis  occurring  in 
+low-iron environments.
+
+Additional factors that contribute to virulence have 
+also been described, including intimin (encoded by the 
+eaeA gene), an outer membrane protein involved in the 
+attachment  of  E.  coli  to  the  enterocyte,  and  EHEC 
+hemolysin (encoded by EHEC hlyA), which acts as a 
+pore-forming cytolysin and causes damage to cells (Pa-
+ton  and  Paton,  1998).  On  the  other  hand,  a  critical 
+component  is  the  gene  that  encodes  the  outer  mem-
+brane protein intimin, which functions as an adhesin. 
+Variation in the amino acid sequence in the C-terminus 
+of intimin has led to recognition of at least 21 variants 
+of intimin in STEC and EPEC. A factor that may also 
+affect  the  virulence  of  STEC  strains  is  the  enterohe-
+molysin  (Ehly),  also  called  enterohemorrhagic  E.  coli 
+hemolysin (EHEC-HlyA), which is encoded by the ehxA 
+gene (Schmidt et al., 1995). The Ehly operon is posi-
+tively regulated by GrlA, a LEE-encoded positive regu-
+lator of the LEE operon (Saitoh et al., 2008). Antibody 
+to Ehly is produced in humans with EHEC disease and 
+experimental data suggest that the hemolysin may aid 
+survival of STEC in the intestine by making iron avail-
+able from lysis of erythrocytes.
+
+The genes located in the genome of temperate bac-
+teriophages encode 2 distinct stx genes. The Stx1 and 
+Stx2 toxins possess similar biological activities, includ-
+ing  cytotoxicity  to  Vero  and  HeLa  cells,  but  are  dif-
+ferent  immunologically  (Law,  2000).  Both  toxins  are 
+composed of an enzymatically active A subunit and a 
+pentameric B subunit (Paton et al., 1999; Law, 2000). 
+The  intimin  encoded  by  the  eae  gene  located  in  the 
+chromosomal locus of enterocyte effacement is involved 
+in the intimate attachment of bacteria to enterocytes 
+(Schmitt et al., 1991). However, some STEC involved 
+in severe diseases do not contain the genetic informa-
+tion encoding intimin. Plasmid-encoded virulence fac-
+tors are also probably involved in the pathogenicity of 
+STEC (Law, 2000).
+
+Basically,  hemolysins  are  encoded  by  polycistronic 
+operons, which consist of 4 genes arranged in the or-
+der of hly-CABD (Schmidt et al., 1996; Stanley et al., 
+1998). The product of the hlyC gene is involved in acti-
+vation of the hemolytic toxin, the product of the hlyA 
+gene.  The  gene  products  of  hlyB  and  hlyD  together 
+with  TolC  are  involved  in  secretion  of  the  hemolysin 
+
+through the bacterial cell wall (Holland et al., 2005). 
+α-Hemolysin is a pore-forming cytolysin and serves as a 
+virulence factor in intestinal and extraintestinal patho-
+genic strains of E. coli. It was suggested that the genes 
+encoding α-hemolysin (hlyCABD), which can be found 
+on the chromosome and plasmid, were acquired through 
+horizontal gene transfer. Plasmid-encoded α-hly is as-
+sociated with certain ETEC, STEC, and EPEC strains 
+(Burgos and Beutin, 2010).
+
+The  diseases  that  cause  by  E.  coli  need  persistent 
+antibiotic  therapy,  but  many  studies  have  been  re-
+ported the occurrence of antibiotic resistance (van den 
+Bogaard and Stobberingh, 1999; Galland et al., 2001). 
+Antibiotic resistance can cause more severe diseases in 
+humans  and  animals.  Antibiotic  resistance  in  STEC 
+strains is associated with the presences of some anti-
+biotic resistance genes (Galland et al., 2001). Chicken 
+meat is one of the most popular foods among the Ira-
+nian population. However; the epidemiology and preva-
+lence  of  STEC  strains  in  chicken  meat  is  essentially 
+unknown.  Therefore,  this  study  was  carried  out  for 
+molecular characterization and evaluation of antibiotic 
+resistance properties in STEC serogroups isolated from 
+chicken meat in Iran.
+
+MATERIALS AND METHODS
+
+Samples
+
+A total of 422 chicken meat samples were randomly 
+purchased  from  the  supermarkets  in  various  parts  of 
+Iran including Shahrekord (n = 76), Isfahan (n = 102), 
+Kermanshah (n = 81), Yasuj (n = 80), and Ahvaz (n 
+= 83) townships from March 2010 to March 2011. All 
+samples were from 4-wk-old broiler chickens reared in 
+an aviculture. In the present study, the chicken breast 
+muscle was used. The external surfaces of chicken meats 
+were disinfected with 70% alcohol to minimize surface 
+contamination. The pieces of the muscles were collected 
+separately into sterile bags using sterile scissors and tis-
+sue forceps. All samples were immediately transported 
+to the laboratory in cooled boxes. All techniques were 
+applied to prevent cross-contamination within and be-
+tween townships.
+
+The  surfaces  of  chicken  muscles  were  seared  with 
+a  hot  sterile  spatula.  Then  the  muscles  were  incised 
+and cultured on 5% sheep blood and MacConkey agar 
+(Merck,  Germany)  and  incubated  for  18  to  24  h  at 
+37°C. Colonies with the typical color and appearance 
+of E. coli were picked and streaked again on blood agar 
+plates  and  restreaked  on  EMB  agar  (Merck,  Darm-
+stadt,  Germany).  The  green  metallic  sheen  colonies 
+were considered to be E. coli. The presumptive colonies 
+were  biochemically  tested  for  growth  on  triple  sugar 
+iron agar and lysine iron agar, oxidative/fermentative 
+degradation of glucose, citrate utilization, urease pro-
+duction,  indol  fermentation,  tryptophan  degradation, 
+
+MOLECULAR CHARACTERIZATION OF ESCHERICHIA COLI IN CHICKEN
+
+glucose  degradation  (methyl  red  test),  and  motility. 
+The E. coli isolates were kept in LB/glycerol at −70°C 
+(Mooljuntee et al., 2010). The colonies were confirmed 
+using PCR based on the detection of 16S rRNA gene 
+region of E. coli described by Sabat et al. (2000).
+
+DNA Isolation
+
+Bacterial  strains  were  subcultured  overnight  in  Lu-
+ria-Bertani broth (Merck), and genomic DNA was ex-
+tracted using a DNA extraction kit (DNP, CinnaGen, 
+Tehran, Iran) according to the manufacturer’s instruc-
+tions.
+
+1307
+Detection of Serogroups, Virulence Factors, 
+and Antibiotic Resistance Genes  
+of Stx-Producing E. coli
+
+The results of culture method were studied using sev-
+eral PCR methods. Table 1 shows the primers used for 
+detection of Stx-producing E. coli serogroups, virulence 
+genes, and antimicrobial resistant genes. A DNA ther-
+mo-cycler (Eppendorf Mastercycler, Eppendorf-Nethel-
+Hinz GmbH, Hamburg, Germany) was used in all PCR 
+reactions. The amplified products were visualized using 
+ethidium bromide staining after gel electrophoresis of 
+10  μL  of  the  final  reaction  mixture  in  1.5%  agarose. 
+
+Table 1. Primers used for detection of Shiga toxin-producing Escherichia coli serogroups, virulence genes, and antimicrobial resistant 
+genes 
+
+Primer name
+
+Sequence
+
+Size of  
+product  
+
+(bp)
+
+Target  
+gene
+
+wzx
+
+wzx
+
+wzx
+
+wzx
+
+wzx
+
+wzx1
+
+gnd
+
+wzx
+
+wzx
+
+galF
+
+stx1
+
+stx2
+
+eaeA
+
+ehly
+
+aadA1
+
+tetA
+
+tetB
+
+dfrA1
+
+qnr
+
+O26F
+O26R
+O103F 
+O103R
+O111F
+O111R
+O145F
+O145R
+O157F
+O157R
+O45F
+O45R
+O91F
+O91R
+O113F
+O113R
+O121F
+O121R
+O128F
+O128R
+Stx1F
+Stx1R
+Stx2F
+Stx2R
+EAE1
+EAE2
+Hly F
+Hly R
+Streptomycin1
+Streptomycin2
+Tetracycline1
+Tetracycline2
+Tetracycline3
+Tetracycline4
+Trimethoprim1
+Trimethoprim2
+Fluoroquinolone1
+Fluoroquinolone2
+Gentamicin1
+Gentamicin2
+Sulfonamide1
+Sulfonamide2
+Cephalothin1
+Cephalothin2
+Ampicillin1
+Ampicillin2
+Chloramphenicol1
+Chloramphenicol2
+Chloramphenicol3
+Chloramphenicol4
+
+CAGAATGGTTATGCTACTGT
+CTTACATTTGTTTTCGGCATC
+TTGGAGCGTTAACTGGACCT
+GCTCCCGAGCACGTATAAG
+TAGAGAAATTATCAAGTTAGTTCC
+ATAGTTATGAACATCTTGTTTAGC
+CCATCAACAGATTTAGGAGTG
+TTTCTACCGCGAATCTATC
+CGGACATCCATGTGATATGG
+TTGCCTATGTACAGCTAATCC
+CCGGGTTTCGATTTGTGAAGGTTG
+CACAACAGCCACTACTAGGCAGAA
+GCTGACCTTCATGATCTGTTGA
+TAATTTAACCCGTAGAATCGCTGC
+GGGTTAGATGGAGCGCTATTGAGA
+AGGTCACCCTCTGAATTATGGCAG
+TGGCTAGTGGCATTCTGATG
+TGATACTTTAGCCGCCCTTG
+GCTTTCTGCCGATATTTGGC
+CCGACGGACTGATGCCGGTGATT
+AAATCGCCATTCGTTGACTACTTCT
+TGCCATTCTGGCAACTCGCGATGCA
+CGATCGTCACTCACTGGTTTCATCA
+GGATATTCTCCCCACTCTGACACC
+TGCGGCACAACAGGCGGCGA
+CGGTCGCCGCACCAGGATTC
+CAATGCAGATGCAGATACCG
+CAGAGATGTCGTTGCAGCAG
+TATCCAGCTAAGCGCGAACT
+ATTTGCCGACTACCTTGGTC
+GGTTCACTCGAACGACGTCA
+CTGTCCGACAAGTTGCATGA
+CCTCAGCTTCTCAACGCGTG
+GCACCTTGCTGATGACTCTT
+GGAGTGCCAAAGGTGAACAGC
+GAGGCGAAGTCTTGGGTAAAAAC
+GGGTATGGATATTATTGATAAAG
+CTAATCCGGCAGCACTATTTA
+CTTCAGGATGGCAAGTTGGT
+TCATCTCGTTCTCCGCTCAT
+TTCGGCATTCTGAATCTCAC
+ATGATCTAACCCTCGGTCTC
+TCGCCTGTGTATTATCTCCC
+CGCAGATAAATCACCACAATG
+TGGCCAGAACTGACAGGCAAA
+TTTCTCCTGAACGTGGCTGGC
+AGTTGCTCAATGTACCTATAACC
+TTGTAATTCATTAAGCATTCTGCC
+CCGCCACGGTGTTGTTGTTATC
+CACCTTGCCTGCCCATCATTAG
+
+423
+
+321
+
+406
+
+609
+
+259
+
+527
+
+291
+
+771
+
+322
+
+289
+
+366
+
+282
+
+629
+
+432
+
+447
+
+577
+
+634
+
+367
+
+670
+
+286
+
+822
+
+768
+
+462
+
+547
+
+698
+
+Reference
+
+Possé et al., 2007
+
+Possé et al., 2007
+
+Possé et al., 2007
+
+Possé et al., 2007
+
+Possé et al., 2007
+
+DebRoy et al., 2005
+
+Perelle et al., 2002
+
+DebRoy et al., 2004
+
+Fratamico et al., 2003
+
+Shao et al., 2003
+
+Brian et al., 1992
+
+Brian et al., 1992
+
+Heuvelink et al., 1995
+
+Idress et al., 2010
+
+Randall et al., 2004
+
+Randall et al., 2004
+
+Randall et al., 2004
+
+Toro et al., 2005
+
+Mammeri et al., 2005
+
+aac(3)-IV
+
+Van et al., 2008
+
+sul1
+
+blaSHV
+
+CITM
+
+cat1
+
+cmlA
+
+Van et al., 2008
+
+Van et al., 2008
+
+Van et al., 2008
+
+Van et al., 2008
+
+Van et al., 2008
+
+1308
+
+MOMTAZ AND JAMSHIDI
+
+Table  2.  Prevalence  of  Escherichia  coli  isolated  from  chicken 
+meat in different townships 
+
+RESULTS
+
+Township
+
+Shahrekord
+Isfahan
+Kermanshah
+Yasouj
+Ahvaz
+Total
+
+No. of  
+samples
+
+76
+102
+81
+80
+83
+422
+
+No. of positive  
+samples (%)
+16 (3.79)a
+33 (7.81)
+32 (7.58)
+29 (6.87)
+36 (8.53)b
+146 (34.59)
+
+a,bDissimilar superscripts within a column indicate significant differ-
+
+ences, P < 0.05.
+
+Strains of E. coli O157:K88ac:H19, CAPM 5933, and 
+E.  coli  O159:H20,  CAPM  6006  were  used  as  positive 
+controls.
+
+Antimicrobial Susceptibility Testing
+
+Antimicrobial susceptibility tests were performed by 
+the Kirby–Bauer disc diffusion method using Mueller–
+Hinton  agar  (HiMedia  Laboratories,  Mumbai,  India), 
+according  to  the  Clinical  and  Laboratory  Standards 
+Institute  guidelines.  After  incubating  the  inoculated 
+plate aerobically at 37°C for 18 to 24 h in an aerobic 
+atmosphere, the susceptibility of the E. coli isolates to 
+each antimicrobial agent was measured and the results 
+were  interpreted  in  accordance  with  interpretive  cri-
+teria  provided  by  Clinical  and  Laboratory  Standards 
+Institute (2006). Escherichia coli ATCC 25922 was used 
+as quality control organism in antimicrobial susceptibil-
+ity determination.
+
+Statistical Analysis
+
+Statistical  analysis  was  performed  using  SPSS/16.0 
+software  (SPSS  Inc.,  Chicago,  IL)  for  significant  re-
+lationships.  The  incidences  of  serogroups,  virulence 
+factors,  and  antibiotic  resistance  properties  of  E.  coli 
+isolated  from  chicken  meat  samples  were  statistically 
+analyzed. Statistical significance was regarded at a P 
+value <0.05.
+
+The study population consisted of 422 chicken meats. 
+As shown in Table 2, 146 (34.59%) samples were con-
+firmed  to  be  E.  coli  positive.  There  were  significant 
+differences  (P  <  0.05)  between  presence  of  E.  coli  in 
+Shahrekord and Ahvaz city. The highest prevalence of 
+E. coli in chicken meat occurred in Ahvaz and the low-
+est in Shahrekord. Table 3 indicates the distribution of 
+virulence factors of E. coli strains isolated from chicken 
+meat in Iran. There were significant differences between 
+the presence of attaching and effacing E. coli (AEEC) 
+and  EHEC  subgroups  in  chicken  meat  samples  (P  < 
+0.05). All of the EHEC-positive samples had stx1, eaeA, 
+and ehly virulence genes, whereas the presence of these 
+genes  in  AEEC-positive  samples  was  lower.  Table  4 
+shows the total prevalence of STEC serogroups isolated 
+from chicken meat in different townships. Based on the 
+results, O157 had the highest incidence of serogroups, 
+whereas O103 had the lowest incidence in STEC strains 
+isolated from chicken meat samples in Iran. There were 
+significant  differences  (P  <  0.01)  between  the  pres-
+ence of O157 and O111, nondetected serogroups with 
+O111 and O128 and nondetected serogroups with O45. 
+Table  5  shows  the  distribution  of  virulence  genes  in 
+STEC serogroups isolated from chicken meat samples. 
+There were significant differences (P < 0.01) between 
+the presence of stx1 and stx2 and between the presence 
+of stx1 with ehly and eaeA with ehly virulence genes. 
+There were also significant differences (P < 0.05) be-
+tween the presence of stx1 and eaeA.
+
+Table 6 revealed the antibiotic resistance properties 
+distribution of STEC serogroups isolated from chicken 
+meat in Iran. In total sul1 had the highest (64.63%), 
+whereas  blaSHV  had  the  lowest  (3.65%)  incidence  of 
+antibiotic resistance genes. Statistical analysis showed 
+that resistance of O157 serogroup to sulfonamides had 
+significant  differences  (P  <  0.05)  with  β-lactams  and 
+ampicillin  antibiotics.  Resistance  of  O26  serogroup 
+to  enrofloxacin  exhibited  significant  differences  (P  < 
+0.05) in β-lactams. Resistance of 103 serogroup to tet-
+racycline, gentamicin, and ciprofloxacin had significant 
+differences  (P  <  0.05)  with  cephalothin,  ampicillin, 
+
+Table 3. Distribution of virulence factors in Shiga toxin-producing Escherichia coli serogroups iso-
+lated from chicken meat1 
+
+Subgroup
+
+Nondetected
+EHEC
+AEEC
+
+No. of positive  
+samples (%)
+
+64 (43.83)
+31 (21.23)a
+51 (34.93)b
+
+Total
+
+146 (34.59)
+
+Virulence gene, no. (%)
+
+—
+stx1, eaeA, ehly: 31 (100)
+stx1: 49 (96.07) 
+stx2: 5 (9.80)
+eaeA: 46 (90.19)
+stx1, eaeA: 38 (74.50)
+stx2, eaeA: 8 (15.68)
+stx1, stx2, eaeA: 5 (9.80)
+
+a,bDissimilar superscripts within a column indicate significant differences, P < 0.05.
+1EHEC = enterohemorrhagic E. coli; AEEC = attaching and effacing E. coli.
+
+MOLECULAR CHARACTERIZATION OF ESCHERICHIA COLI IN CHICKEN
+
+1309
+
+β-lactams, and chloramphenicol. Resistance of O145 se-
+rogroup to chloramphenicol had significant differences 
+(P  <  0.05)  with  β-lactams,  gentamicin,  and  cephalo-
+thin.  Resistance  of  O91  serogroup  to  quinolones  had 
+significant differences (P < 0.05) with tetracycline and 
+β-lactams.  Resistance  of  O113  serogroup  to  sulfon-
+amides  and  terimethoprim  had  significant  differences 
+(P  <  0.05)  with  β-lactams,  quinolones,  cephalothin, 
+lincomycin,  ampicillin,  and  nitrofurantoin.  Resistance 
+of O121 serogroup to nitrofurantoin and chlorampheni-
+col  had  significant  differences  (P  <  0.05)  with  beta-
+lactams, ciprofloxacin, and lincomycin.
+
+DISCUSSION
+
+Escherichia coli isolates frequently contaminate food 
+of animal origin; in our investigation, this microorgan-
+ism was recovered from 146 out of 422 (34.59%) tested 
+chicken meat samples, and most of isolates showed the 
+multiple-resistant  phenotypes.  This  survey  revealed 
+that  Ahvaz  city  had  the  highest  prevalence  of  STEC 
+strains  isolated  from  chicken  meat  samples.  In  addi-
+tion, the sul1 gene had the highest prevalence of antibi-
+otic resistance genes. Our study showed that the STEC 
+strains isolated from chicken meat had the highest an-
+tibiotic  resistance  to  tetracycline.  The  results  of  the 
+present study revealed that chicken meat can be easily 
+contaminated by E. coli. Preparation of healthy chicken 
+meat is very important. We recommend the PCR tech-
+nique as an accurate, rapid, and safe method for inspec-
+tion of chicken meat. Providing healthy food has been 
+considered in many countries, including Taiwan (Chi-
+ueh et al., 2001), United States (Barkocy-Gallagher et 
+al., 2003), Italy (Caprioli et al., 1993), Switzerland (al-
+Saigh et al., 2004), and Germany (Beutin et al., 1994). 
+The  high  importance  of  E.  coli  as  a  cause  of  human 
+poisoning has been shown in the mentioned countries.
+
+Previous research showed that the STEC strains are 
+mostly commensal bacteria in animals, with a high po-
+tential for foodborne transmission to humans (Caprioli 
+et  al.,  2005).  Escherichia  coli  has  been  isolated  from 
+wide ranges of raw foodstuffs including dairy cattle and 
+their products (Hussein and Sakuma, 2005), beef cattle 
+(Galland et al., 2001), milk (Bürk et al., 2002), meat 
+products (Chapman et al., 2001), retail fresh meats and 
+poultry (Doyle and Schoeni, 1987), and eggs (Chiueh 
+et al., 2001).
+
+Our  results  showed  that  O157  is  the  major  STEC 
+serogroup in poultry meat, which is similar to a previ-
+ous study in Korea performed on raw ground poultry 
+(Henry et al., 2001). The other study in Korea showed 
+that 41 of 900 poultry samples (4.6%) were E. coli posi-
+tive and there was no O157 serogroup detected (Lee et 
+al., 2009). In another Czech study, out of 987 samples, 
+22 strains (2.2%) were identified as E. coli O157 and 
+only 9 poultry meat samples were positive for all stx1, 
+stx2, eaeA, and ehxA virlence genes (Lukásová et al., 
+2004).  Our  results  showed  that  100%  of  EHEC  sero-
+
+i
+
+ 
+s
+p
+h
+s
+n
+w
+o
+t
+ 
+t
+n
+e
+r
+e
+f
+f
+i
+d
+ 
+n
+i
+ 
+t
+a
+e
+m
+ 
+n
+e
+k
+c
+i
+h
+c
+ 
+m
+o
+r
+f
+ 
+d
+e
+t
+a
+l
+o
+s
+i
+ 
+s
+p
+u
+o
+r
+g
+o
+r
+e
+s
+ 
+i
+l
+o
+c
+ 
+a
+i
+h
+c
+i
+r
+e
+h
+c
+s
+E
+ 
+g
+n
+i
+c
+u
+d
+o
+r
+p
+-
+n
+i
+x
+o
+t
+ 
+a
+g
+i
+h
+S
+ 
+f
+o
+ 
+e
+c
+n
+e
+l
+a
+v
+e
+r
+P
+
+ 
+.
+4
+ 
+e
+l
+b
+a
+T
+
+d
+e
+t
+c
+e
+t
+e
+d
+n
+o
+N
+
+8
+2
+1
+O
+
+1
+2
+1
+O
+
+3
+1
+1
+O
+
+d
+c
+b
+)
+3
+8
+.
+3
+4
+(
+ 
+4
+6
+
+7
+
+2
+1
+
+4
+1
+
+3
+1
+
+8
+1
+
+—
+
+—
+
+—
+
+1
+
+1
+
+c
+)
+3
+4
+.
+2
+(
+ 
+2
+
+)
+3
+5
+.
+8
+(
+ 
+7
+
+1
+
+2
+
+2
+
+1
+
+1
+
+)
+1
+3
+.
+7
+(
+ 
+6
+
+1
+
+1
+
+1
+
+2
+
+1
+
+1
+9
+O
+
+—
+
+5
+
+2
+
+2
+
+2
+
+5
+4
+O
+
+—
+
+—
+
+1
+
+1
+
+2
+
+)
+1
+3
+.
+7
+(
+ 
+6
+
+—
+
+2
+
+1
+
+1
+
+2
+
+)
+1
+4
+.
+3
+1
+(
+ 
+1
+1
+
+d
+)
+7
+8
+.
+4
+(
+ 
+4
+
+b
+a
+)
+1
+2
+.
+1
+(
+ 
+1
+
+5
+4
+1
+O
+
+1
+1
+1
+O
+
+3
+0
+1
+O
+
+—
+
+—
+
+—
+
+—
+
+1
+
+—
+
+)
+9
+0
+.
+6
+(
+ 
+5
+
+—
+
+1
+
+1
+
+3
+
+6
+2
+O
+
+—
+
+1
+
+2
+
+4
+
+2
+
+)
+7
+9
+.
+0
+1
+(
+ 
+9
+
+a
+)
+0
+8
+.
+7
+3
+(
+ 
+1
+3
+
+4
+
+9
+
+8
+
+1
+
+9
+
+)
+6
+1
+(
+ 
+d
+r
+o
+k
+e
+r
+h
+a
+h
+S
+
+)
+3
+3
+(
+ 
+n
+a
+h
+a
+f
+s
+I
+
+)
+2
+3
+(
+ 
+h
+a
+h
+s
+n
+a
+m
+r
+e
+K
+
+)
+9
+2
+(
+ 
+j
+u
+o
+s
+a
+Y
+
+2
+)
+6
+4
+1
+(
+ 
+l
+a
+t
+o
+T
+
+)
+6
+3
+(
+ 
+z
+a
+v
+h
+A
+
+7
+5
+1
+O
+
+i
+
+1
+p
+h
+s
+n
+w
+o
+T
+
+.
+e
+c
+n
+i
+v
+o
+r
+p
+ 
+h
+c
+a
+e
+ 
+n
+i
+ 
+s
+e
+l
+p
+m
+a
+s
+ 
+e
+v
+i
+t
+i
+s
+o
+p
+ 
+f
+o
+ 
+s
+r
+e
+b
+m
+u
+n
+ 
+e
+r
+a
+ 
+n
+m
+u
+l
+o
+c
+ 
+s
+i
+h
+t
+ 
+n
+i
+ 
+s
+e
+s
+e
+h
+t
+n
+e
+r
+a
+p
+ 
+n
+i
+ 
+s
+r
+e
+b
+m
+u
+N
+1
+
+.
+1
+0
+.
+0
+ 
+<
+P
+
+ 
+
+ 
+,
+s
+e
+c
+n
+e
+r
+e
+f
+f
+i
+d
+ 
+t
+n
+a
+c
+i
+f
+i
+n
+g
+i
+s
+ 
+e
+t
+a
+c
+i
+d
+n
+i
+ 
+
+i
+
+w
+o
+r
+ 
+a
+ 
+n
+h
+t
+i
+w
+ 
+s
+t
+p
+i
+r
+c
+s
+r
+e
+p
+u
+s
+ 
+r
+a
+l
+i
+
+m
+
+i
+s
+s
+i
+D
+d
+–
+a
+
+.
+s
+e
+g
+a
+t
+n
+e
+c
+r
+e
+p
+ 
+e
+r
+a
+ 
+w
+o
+r
+ 
+s
+i
+h
+t
+ 
+n
+i
+ 
+s
+e
+s
+e
+h
+t
+n
+e
+r
+a
+p
+ 
+n
+i
+ 
+s
+r
+e
+b
+m
+u
+N
+2
+
+1310
+
+MOMTAZ AND JAMSHIDI
+
+Table 5. Distribution of virulence genes in Shiga toxin-producing Escherichia coli serogroups isolated 
+from chicken meat 
+
+Serogroup1
+
+O157 (31)
+O26 (9)
+O103 (5)
+O111 (1)
+O145 (6)
+O45 (4)
+O91 (11)
+O113 (6)
+O121 (7)
+O128 (2)
+Total (82)2
+
+stx1
+
+31
+9
+5
+1
+6
+4
+11
+6
+6
+2
+80 (97.56)AB,b
+
+2
+
+1
+
+2
+
+stx2
+
+—
+
+—
+—
+
+—
+
+—
+—
+—
+
+5 (6.09)A,ab
+
+31
+8
+4
+
+—
+
+5
+4
+10
+6
+7
+2
+77 (93.90)C,a
+
+eaeA
+
+ehly
+
+31
+
+—
+—
+—
+—
+—
+—
+—
+—
+—
+
+31 (37.80)BC
+
+A–CDissimilar uppercase superscripts within a row indicate significant differences, P < 0.01.
+a,bDissimilar lowercase superscripts within a row indicate significant differences, P < 0.05.
+1Numbers in parentheses in this column are numbers of positive samples in each serogroup.
+2Numbers in parentheses in this row are percentages.
+
+groups were positive for all stx1, eaeA, and ehly genes; 
+in addition, 9.8% of AEEC serogroups were positive for 
+all stx1, stx2, and eaeA genes. In another investigation, 
+E. coli was isolated from 48% (48/100) of chickens and 
+all of these isolates had an eaeA virulence factor (Kilic 
+et al., 2007) that was lower than our study (90.19%).
+
+It is well documented that STEC strains vary in their 
+capacity  to  cause  serious  diseases  in  humans  or  ani-
+mals, and this is associated with the type or amount 
+of  stx  produced  (Law,  2000).  Therefore,  the  type  of 
+stx toxin produced by STEC isolated from human in-
+fections  has  been extensively studied (Schmidt et al., 
+1995). In contrast, little is known about stx2 subtype 
+frequency and the combination of virulence factors ex-
+pressed by STEC from the intestinal tract of healthy 
+animals. Besides, the ehly virulence gene acts as a pore-
+forming cytolysin on eukaryotic cells. In addition to stx 
+and ehly vrulence genes, the eae gene has been isolated 
+from the cases of HUS and HC (Law, 2000). Our results 
+confirmed the presence of virulence genes including stx, 
+eae,  and  ehly  in  chicken  meat.  Therefore,  the  raw  or 
+undercooked  consumption  of  these  chicken  meats  can 
+cause diseases such as HUS and HC in humans.
+
+Because of the high indiscriminate use of antibiotics, 
+especially in veterinary medicine, antibiotic resistance 
+against most effective antibiotics has occurred. Several 
+programs such as the DANMAP in Denmark and the 
+JVARM5 in Japan (Heuer and Hammerun, 2005; Asai 
+et al., 2006) have described the resistance to various an-
+tibiotic drugs in veterinary medicine. In this study, the 
+levels of resistance to some antimicrobial agents (tetra-
+cycline, chloramphenicol, and nitrofurantoin) were high 
+(63  to  77%).  Therefore,  the  STEC  strains  that  were 
+isolated from poultry meat are a potential reservoir of 
+antimicrobial resistance genes.
+
+Chloramphenicol and nitrofurantoin are 2 forbidden 
+antibiotics. The high presence of resistance to these 2 
+antibiotics indicated the irregular and unauthorized use 
+of these drugs in veterinary treatment in Iran. Veteri-
+narians in many veterinary fields such as large animal 
+internal  medicine,  poultry,  and  even  aquaculture  use 
+
+these antibiotics as a basic treatment. Therefore, in a 
+very short period of time, antibiotic resistance will ap-
+pear.  In  the  same  study  in  Thailand,  E.  coli  isolates 
+have  100%  resistance  to  tetracycline,  ampicillin,  and 
+erythromycin,  whereas  resistance  to  cephalothin  and 
+sulfonamide+trimethoprim was 73.3 and 26.7%, respec-
+tively (Mooljuntee et al., 2010). Another study showed 
+82.4% resistance of E. coli isolated from broiler chickens 
+to tetracycline (Miles et al., 2006). Prescription of tet-
+racycline is not recommended in cases of E. coli infec-
+tion. To our knowledge, ciprofloxacin and enrofloxacin 
+are common antibiotics used for E. coli infections, but 
+our results showed 36.58 and 46.34% resistance to these 
+drugs, respectively, which is in accordance with the pre-
+vious study (82% resistance to ciprofloxacin; Akond et 
+al., 2009). Another study showed that in some countries 
+approximately 300,000 kg of antibiotics are used annu-
+ally  on  veterinary  prescriptions  in  animals,  of  which 
+10%  is  used  in  poultry  (van  den  Bogaard,  2000).  It 
+seems that the high and irregular prescription of antibi-
+otics is the major reason for the emergence of antibiotic 
+resistance.
+
+Our results showed sul1 (64.63%) had a highest in-
+cidence  of  antimicrobial  resistance  genes,  followed  by 
+aadA1  (62.19%),  dfrA1  (58.53%),  and  qnr  (56.09%), 
+but research in Thailand showed that the presences of 
+tetA, CITM, ereA, SHV, sul1, and dhfrV were 90, 93.3, 
+73.3, 86.4, 100, and 100%, respectively (Mooljuntee et 
+al., 2010). A study in Kenya indicated that tetracycline 
+(75.9%) and cotrimoxazole (72.4%) had the highest an-
+tibiotic resistances in E. coli isolated from slaughtered 
+broiler chickens (Adelaide et al., 2008).
+
+These differences in the levels of antibiotic resistance 
+in various countries showed that the resistance proper-
+ties of STEC strains closely depend on the geographical 
+regions. On the other hand, the antibiotic resistances in 
+STEC serogroups isolated from chicken meat samples 
+closely depends on antibiotic prescriptions (FDA, 2009; 
+APUA, 2010; Wayne et al., 2011). Prescription of an-
+tibiotics in various countries is related to common and 
+conventional antibiotics that are available.
+
+MOLECULAR CHARACTERIZATION OF ESCHERICHIA COLI IN CHICKEN
+
+1311
+
+Table 6. Antimicrobial resistance properties in Shiga toxin-producing Escherichia coli serotypes isolated from chicken meat1 
+
+Antimicrobial  
+resistance2
+
+aadA1
+TetAAB,c
+tetB
+dfrA1
+qnr
+aac(3)-IV
+sul1a
+BlaSHVa
+CITM
+cat1
+cmlAA
+TE30
+S10
+C30
+SXT
+GM10
+NFX5
+L2
+CF30B,b
+CIP5
+TMP5
+F/M300b
+AM10c
+
+O157 (31) O26 (9) O103 (5) O111 (1) O145 (6) O45 (4) O91 (11) O113 (6) O121 (7) O128 (2) Total (82)
+
+20
+14
+15
+17
+18
+8
+29
+1
+3
+12
+14
+30
+16
+30
+25
+10
+20
+16
+2
+10
+15
+24
+4
+
+6
+4
+3
+7
+5
+3
+6
+—
+1
+5
+2
+6
+5
+7
+4
+5
+8
+6
+1
+5
+6
+7
+1
+
+2
+1
+3
+3
+—
+2
+3
+—
+—
+2
+—
+4
+3
+3
+2
+4
+2
+1
+—
+4
+4
+2
+—
+
+—
+—
+1
+1
+1
+—
+1
+—
+—
+—
+—
+1
+1
+—
+1
+—
+—
+—
+—
+1
+—
+—
+—
+
+4
+2
+3
+4
+5
+—
+2
+—
+—
+2
+1
+4
+3
+5
+2
+—
+1
+3
+—
+2
+3
+4
+1
+
+3
+2
+1
+—
+1
+—
+—
+—
+1
+2
+—
+2
+1
+3
+—
+2
+—
+3
+—
+2
+1
+—
+2
+
+8
+8
+—
+8
+9
+4
+4
+2
+—
+2
+—
+8
+6
+4
+3
+7
+4
+6
+3
+2
+7
+8
+1
+
+2
+2
+3
+4
+—
+2
+5
+—
+1
+1
+2
+4
+3
+1
+2
+4
+1
+—
+—
+4
+5
+—
+—
+
+6
+1
+2
+3
+6
+5
+3
+—
+2
+—
+5
+4
+6
+7
+3
+2
+1
+—
+—
+—
+6
+7
+3
+
+—
+—
+2
+1
+1
+—
+—
+—
+—
+—
+—
+—
+1
+—
+2
+—
+1
+—
+—
+—
+1
+—
+—
+
+51
+34
+33
+48
+46
+24
+53
+3
+8
+26
+24
+63
+45
+60
+44
+34
+38
+35
+6
+30
+48
+52
+12
+
+A,BDissimilar uppercase superscripts within a row indicate significant differences, P < 0.01.
+a–cDissimilar lowercase superscripts within a row indicate significant differences, P < 0.05.
+1Genes associated with resistance to streptomycin (aadA1), tetracycline (tetA, tetB), trimethoprim (dfrA1), quinolones (qnr), gentamicin [aac(3)-
+IV], sulfonamides (sul1), β-lactams (blaSHV, CITM), and chloramphenicol (catA1, cmlA), TE30 = tetracycline (30 μg/disk); S10 = streptomycin (10 
+μg/disk); C30 = chloramphenicol (30 μg/disk); SXT = sulfamethoxazol (25 μg/disk); GM10 = gentamycin (10 μg/disk); NFX5 = enrofloxacin (5 μg/
+disk); L2 = lincomycin (2 μg/disk); CF30 = cephalothin (30 μg/disk); CIP5 = ciprofloxacin (5 μg/disk); TMP5 = trimethoprim (5 μg/disk); F/M300 
+= nitrofurantoin (300 μg/disk); AM10 = ampicillin (10 μg /disk).
+
+2Numbers in parentheses in the top row are numbers of positive samples in each serogroup.
+
+Our results showed the high presence of serogroups, 
+virulence  factors,  and  multiple  antibiotic-resistant 
+properties  of  E.  coli  isolated  from  chicken  meat  sam-
+ples. To the authors’ knowledge, excessive prescribing, 
+crowding, and poor sanitation are the primary factors 
+responsible for the high antibiotic resistance in E. coli 
+isolated from chicken meat.
+
+In conclusion, the results of our study revealed that 
+the PCR assay as an accurate, safe, and fast diagnostic 
+method  for  detection  of  pathogens  in  meat  samples. 
+The  veterinarians  should  pay  more  attention  to  anti-
+biotic  prescription.  Results  indicated  that  the  E.  coli 
+virulence genes especially stx1, stx2, eaeA, and ehly are 
+well distributed in poultry meat in investigated regions. 
+Besides the O157 and O91 serogroups are the predomi-
+nant serogroups of bacterium in chicken meat in Iran. 
+Ahvaz city has a high temperature, and this city also 
+had the highest prevalence of E. coli in poultry meat 
+samples.  Shahrekord  city  has  a  low  temperature,  so 
+this city had the lowest prevalence of E. coli in poultry 
+meat samples (E. coli is more active in warm places). 
+It seems that sanitation conditions, especially in poul-
+try slaughterhouses and supermarkets, help to reduce 
+the contamination rate of poultry meat. In the current 
+conditions in Iran, we suggest applying cephalothin and 
+ampicillin for E. coli-infected cases. Finally, to prevent 
+antibiotic resistance in bacteria, we have to prescribe 
+antibiotics more cautiously in animals and periodically 
+
+use  different  antibiotics,  and  be  able  to  detect  resis-
+tance genes and use disk diffusion methods.
+
+ACKNOWLEDGMENTS
+
+The  authors  thank  E.  Fathy,  M.  Gholami,  and  M. 
+Momeni  at  the  Poultry  Disease  Research  Center  and 
+Biotechnology  Research  Center  of  the  Islamic  Azad 
+University  of  Shahrekord  for  their  important  techni-
+cal and clinical support. This work was supported by 
+the Islamic Azad University, Shahrekord Branch, Iran 
+grant 90/8768.
+
+REFERENCES
+
+Adelaide, O. A., C. Bii, and P. Okemo. 2008. Antibiotic resistance 
+and  virulence  factors  in  Escherichia  coli  from  broiler  chicken 
+slaughtered at Tigoni processing plant in Limuru, Kenya.  East 
+Afr. Med. J.  85:597–606.
+
+Akond,  M.  A.,  S.  Alam,  S.  M.  R.  Hassan,  and  M.  Shirin.  2009. 
+Antibiotic  resistance  of  Escherichia  coli  isolated  from  poultry 
+and  poultry  environment  of  Bangladesh.    Int.  J.  Food  Safety  
+11:19–23.
+
+al-Saigh, H., C. Zweifel, J. Blanco, J. E. Blanco, M. Blanco, M. A. 
+Usera, and R. Stephan. 2004. Fecal shedding of Escherichia coli 
+O157, Salmonella, and Campylobacter in Swiss cattle at slaugh-
+ter.  J. Food Prot.  67:679–684.
+
+APUA. 2010. APUA background paper. Situation analysis of antibi-
+
+otic misuse in US food animals. APUA Newsletter 28:1–7.
+
+Asai, T., H. Esaki, A. Kojima, K. Ishihara, Y. Tamura, and T. Taka-
+hashi. 2006. Antimicrobial resistance in Salmonella isolates from 
+apparently  healthy  food-producing  animal  from  2000  to  2003: 
+
+1312
+
+MOMTAZ AND JAMSHIDI
+
+The  first  stage  of  Japanese  veterinary  antimicrobial  resistance 
+monitoring (JVARM).  J. Vet. Med. Sci.  68:881–884.
+
+Barkocy-Gallagher, G. A., T. M. Arthur, M. Rivera-Betancourt, X. 
+Nou, S. D. Shackelford, T. L. Wheeler, and M. Koohmaraie. 2003. 
+Seasonal  prevalence  of  Shiga  toxin-producing  Escherichia  coli, 
+including  O157:H7  and  non-O157  serotypes,  and  Salmonella  in 
+commercial beef processing plants.  J. Food Prot.  66:1978–1986.
+Beutin, L., S. Aleksic, S. Zimmermann, and K. Gleier. 1994. Viru-
+lence factors and phenotypical traits of verotoxigenic strains of 
+Escherichia coli isolated from human patients in Germany.  Med. 
+Microbiol. Immunol. (Berl.)  183:13–21.
+
+Brian, M. J., M. Frosolono, B. E. Murray, A. Miranda, E. L. Lopez, 
+H. F. Gomez, and T. G. Cleary. 1992. Polymerase chain reaction 
+for diagnosis of enterohemorrhagic Escherichia coli infection and 
+hemolytic-uremic syndrome.  J. Clin. Microbiol.  30:1801–1806.
+Burgos, Y., and L. Beutin. 2010. Common origin of plasmid encod-
+ed alpha-hemolysin genes in Escherichia coli.  BMC Microbiol.  
+10:193.
+
+Bürk,  C.,  I.  G.  Braumiller,  H.  Becker,  and  E.  Märtlbauer.  2002. 
+Nuclease fluorescence assay for the detection of verotoxin genes 
+in raw milk.  Lett. Appl. Microbiol.  35:153–156.
+
+Caprioli, A., S. Morabito, H. Brugère, and E. Oswald. 2005. Entero-
+haemorrhagic Escherichia coli: Emerging issues on virulence and 
+modes of transmission.  Vet. Res.  36:289–311.
+
+Caprioli, A., A. Nigrelli, R. Gatti, M. Zavanella, A. M. Blando, F. 
+Minelli, and G. Donelli. 1993. Characterisation of verocytotoxin-
+producing Escherichia coli isolated from pigs and cattle in north-
+ern Italy.  Vet. Rec.  133:323–324.
+
+Chapman, P. A., M. Ellin, and R. Ashton. 2001. A comparison of 
+immunomagnetic separation and culture, Reveal and VIP for the 
+detection  of  E.  coli  O157  in  enrichment  cultures  of  naturally-
+contaminated raw beef, lamb and mixed meat products.  Lett. 
+Appl. Microbiol.  32:171–175.
+
+Chiueh, L. C., W. H. Shiang, and D. Y. C. Shih. 2001. Characteriza-
+tion of Escherichia coli serotype O157 strains isolated in Taiwan 
+by PCR and multilocus enzyme analysis.  J. Food Drug Analysis  
+9:12–19.
+
+Clinical  and  Laboratory  Standards  Institute.  2006.  Performance 
+Standards for Antimicrobial Disk Susceptibility Tests, Approved 
+Standard. 9th ed. (M2–A9). Clinical and Laboratory Standards 
+Institute, Wayne, PA. 
+
+DebRoy, C., E. Roberts, J. Kundrat, M. A. Davis, C. E. Briggs, and 
+P. M. Fratamico. 2004. Detection of Escherichia coli serogroups 
+O26 and O113 by PCR amplification of the wzx and wzy genes.  
+Appl. Environ. Microbiol.  70:1830–1832.
+
+DebRoy, C., P. M. Fratamico, E. Roberts, M. A. Davis, and Y. Liu. 
+2005. Development of PCR assays targeting genes in O-antigen 
+gene clusters for detection and identification of Escherichia coli 
+O45 and O55 serogroups.  Appl. Environ. Microbiol.  71:4919–
+4924.
+
+Doyle, M. P., and J. L. Schoeni. 1987. Isolation of Escherichia coli 
+O157:H7  from  retail  fresh  meats  and  poultry.    Appl.  Environ. 
+Microbiol.  53:2394–2396.
+
+Erickson, M. C., and M. P. Doyle. 2007. Food as a vehicle for trans-
+mission of Shiga toxin-producing Escherichia coli.  J. Food Prot.  
+70:2426–2449.
+
+Food and Drug Administration (FDA). 2009. Summary report on 
+Antimicrobials  Sold  or  Distributed  for  Use  in  Food-Producing 
+Animals. Department of Health and Human Services.
+
+Fratamico,  P.  M.,  C.  E.  Briggs,  D.  Needle,  C.  Y.  Chen,  and  C. 
+DebRoy. 2003. Sequence of the Escherichia coli O121 O-antigen 
+gene cluster and detection of enterohemorrhagic E. coli O121 by 
+PCR amplification of the wzx and wzy genes.  J. Clin. Microbiol.  
+41:3379–3383.
+
+Galland,  J.  C.,  D.  R.  Hyatt,  S.  S.  Crupper,  and  D.  W.  Acheson. 
+2001. Prevalence, antibiotic susceptibility, and diversity of Esch-
+erichia  coli  O157:H7  isolates  from  a  longitudinal  study  of  beef 
+cattle feedlots.  Appl. Environ. Microbiol.  67:1619–1627.
+
+Heijnen, L., and G. Medema. 2006. Quantitative detection of E. coli, 
+E. coli  O157  and  other  Shiga  toxin  producing  E. coli  in  water 
+samples using a culture method combined with real-time PCR.  
+J. Water Health  4:487–498.
+
+Henry, Y. M., N. Natrajan, and W. F. Lauer. 2001. Detex for detec-
+tion of Escherichia coli O157 in raw ground beef and raw ground 
+poultry.  J. AOAC Int.  84:752–760.
+
+Heuer,  O.,  and  A.  Hammerun.  2005.  Use  of  antimicrobial  agents 
+and occurrence of antimicrobial resistance in bacteria from food 
+animals, food and humans in Denmark. Page 57. Staten’s Serum 
+Institute,  Danish  Veterinary  and  Food  Administration,  Danish 
+Medicines Agency, Danish Institute for Food and Veterinary Re-
+search, Copenhagen, Denmark.
+
+Heuvelink,  A.  E.,  N.  C.  van  de  Kar,  J.  F.  Meis,  L.  A.  Monnens, 
+and W. J. Melchers. 1995. Characterization of verocytotoxin-pro-
+ducing Escherichia coli O157 isolates from patients with haemo-
+lytic uraemic syndrome in Western Europe.  Epidemiol. Infect.  
+115:1–14.
+
+Holko,  I.,  T.  Bisova,  Z.  Holkova,  and  V.  Kmet.  2006.  Virulence 
+markers  of  Escherichia  coli  strains  isolated  from  traditional 
+cheeses made from unpasteurised sheep milk in Slovakia.  Food 
+Contr.  17:393–396.
+
+Holland, I. B., L. Schmitt, and J. Young. 2005. Type 1 protein secre-
+tion in bacteria, the ABC-transporter dependent pathway . Mol. 
+Membr. Biol.  22:29–39.
+
+Hussein,  H.  S.,  and  T.  Sakuma.  2005.  Prevalence  of  Shiga  toxin-
+producing Escherichia coli in dairy cattle and their products.  J. 
+Dairy Sci.  88:450–465.
+
+Idress, M., U. Mussarat, Y. Badshah, R. Qamar, and H. Bokhari. 
+2010. Virulence factors profile of drug-resistant Escherichia coli 
+isolates from urinary tract infections in Punjab, Pakistan.  Eur. 
+J. Clin. Microbiol. Infect. Dis.  29:1533–1537.
+
+Karch,  H.,  P.  I.  Tarr,  and  M.  Bielaszewska.  2005.  Enterohaemor-
+rhagic Escherichia coli in human medicine.  Int. J. Med. Micro-
+biol.  295:405–418.
+
+Karmali,  M.  A.,  V.  Gannon,  and  J.  M.  Sargeant.  2010.  Verocy-
+totoxin-producing  Escherichia  coli  (VTEC).    Vet.  Microbiol.  
+140:360–370.
+
+Kilic, A., H. B. Ertafi, A. Muz, G. Ozbey, and H. Kalender. 2007. 
+Detection of the eaeA gene in Escherichia coli from chickens by 
+polymerase chain reaction.  Turk. J. Vet. Anim. Sci.  31:215–218.
+Kimmitt, P. T., C. R. Harwood, and M. R. Barer. 2000. Toxin gene 
+expression by Shiga toxin-producing Escherichia coli: The role of 
+antibiotics and the bacterial SOS response.  Emerg. Infect. Dis.  
+6:458–465.
+
+Law, D. 2000. Virulence factors of Escherichia coli O157 and other 
+Shiga toxin- producing E. coli.  J. Appl. Microbiol.  88:729–745.
+Lee, G. Y., H. I. Jang, I. G. Hwang, and M. S. Rhee. 2009. Preva-
+lence  and  classification  of  pathogenic  Escherichia  coli  isolated 
+from fresh beef, poultry, and pork in Korea.  Int. J. Food Micro-
+biol.  134:196–200.
+
+Lin, A., L. Nguyen, T. Lee, L. M. Clotilde, J. A. Kase, I. Son, J. M. 
+Carter, and C. R. Lauzon. 2011. Rapid O serogroup identification 
+of the ten most clinically relevant STECs by Luminex microbead-
+based suspension array.  J. Microbiol. Methods  87:105–110.
+
+Lukásová, J., B. Abraham, and S. Cupáková. 2004. Occurrence of 
+Escherichia coli O157 in raw material and food in Czech Repub-
+lic.  J. Vet. Med. B Infect. Dis. Vet. Public Health  51:77–81.
+
+Mammeri, H., M. Van De Loo, L. Poirel, L. Martinez-Martinez, and 
+P. Nordmann. 2005. Emergence of plasmid-mediated quinolone 
+resistance  in  Escherichia  coli  in  Europe.    Antimicrob.  Agents 
+Chemother.  49:71–76.
+
+Mead, P. S., L. Slutsker, V. Dietz, L. F. McCaig, J. S. Bresee, C. 
+Shapiro, P. M. Griffin, and R. V. Tauxe. 1999. Food-related ill-
+ness and death in the United States.  Emerg. Infect. Dis.  5:607–
+625.
+
+Miles, T. D., W. McLaughlin, and P. D. Brown. 2006. Antimicrobial 
+resistance of Escherichia coli isolates from broiler chickens and 
+humans.  BMC Vet. Res.  2:7.
+
+Mooljuntee, S., P. Chansiripornchai, and N. Chansiripornchai. 2010. 
+Prevalence of the cellular and molecular antimicrobial resistance 
+against E. coli isolated from Thai broilers.  Thai J. Vet. Med.  
+40:311–315.
+
+O’Loughlin, E. V., and R. M. Robins-Browne. 2001. Effect of Shiga 
+toxin and Shiga-like toxins on eukaryotic cells.  Microbes Infect.  
+3:493–507.
+
+MOLECULAR CHARACTERIZATION OF ESCHERICHIA COLI IN CHICKEN
+
+1313
+
+Paton, J. C., and A. W. Paton. 1998. Pathogenesis and diagnosis of 
+Shiga toxin-producing Escherichia coli infections.  Clin. Micro-
+biol. Rev.  11:450–479.
+
+Paton, A. W., M. C. Woodrow, R. M. Doyle, J. A. Lanser, and J. 
+C. Paton. 1999. Molecular characterization of a Shiga toxigenic 
+Escherichia  coli  O113:H21  strain  lacking  eae  responsible  for  a 
+cluster of cases of hemolytic-uremic syndrome.  J. Clin. Micro-
+biol.  37:3357–3361.
+
+Perelle, S., F. Dilasser, J. Grout, and P. Fach. 2002. Identification 
+of the O-antigen biosynthesis genes of Escherichia coli O91 and 
+development of a O91 PCR serotyping test.  J. Appl. Microbiol.  
+93:758–764.
+
+Possé, B., L. De Zutter, M. Heyndrickx, and L. Herman. 2007. Meta-
+bolic and genetic profiling of clinical O157 and non-O157 Shiga-
+toxin-producing Escherichia coli.  Res. Microbiol.  158:591–599.
+
+Randall, L. P., S. W. Cooles, M. K. Osborn, L. J. Piddock, and M. 
+J.  Woodward.  2004.  Antibiotic  resistance  genes,  integrons  and 
+multiple  antibiotic  resistance  in  thirty-five  serotypes  of  Salmo-
+nella enterica isolated from humans and animals in the UK.  J. 
+Antimicrob. Chemother.  53:208–216.
+
+Sabat, G., P. Rose, W. J. Hickey, and J. M. Harkin. 2000. Selective 
+and sensitive method for PCR amplification of Escherichia coli 
+16S rRNA genes in soil.  Appl. Environ. Microbiol.  66:844–849.
+Saitoh, T., S. Iyoda, S. Yamamoto, Y. Lu, K. Shimuta, M. Ohnishi, 
+J. Terajima, and H. Watanabe. 2008. Transcription of the ehx 
+enterohemolysin  gene  is  positively  regulated  by  GrlA,  a  global 
+regulator encoded within the locus of enterocyte effacement  in 
+enterohemorrhagic Escherichia coli.  J. Bacteriol.  190:4822–4830.
+Scheutz, F., and N. A. Strockbine. 2005. Escherichia. Pages 607–624 
+in Bergey’s Manual of Systematic Bacteriology. G. M. Garrity, 
+D. J. Brenner, N. R. Krieg, and J. T. Staley, ed. Springer, New 
+York, NY.
+
+Schmidt, H. 2001. Shiga-toxin-converting bacteriophages.  Res. Mi-
+
+crobiol.  152:687–695.
+
+Schmidt,  H.,  L.  Beutin,  and  H.  Karch.  1995.  Molecular  analysis 
+of  the  plasmid-encoded  hemolysin  of  Escherichia  coli  O157:H7 
+strain EDL 933.  Infect. Immun.  63:1055–1061.
+
+Schmidt,  H.,  C.  Kernbach,  and  H.  Karch.  1996.  Analysis  of  the 
+EHEC  hly  operon  and  its  location  in  the  physical  map  of  the 
+large  plasmid  of  enterohaemorrhagic  Escherichia  coli  O157:H7.  
+Microbiology  142:907–914.
+
+Schmitt, C. K., M. L. McKee, and A. D. O’Brien. 1991. Two copies 
+of Shiga-like toxin II-related genes common in enterohemorrhagic 
+Escherichia coli strains are responsible for the antigenic hetero-
+geneity of the O157:H7 strain {”type”:”entrez-nucleotide”,”attrs”:
+{”text”:”E32511”,”term_id”:”13026758”}}E32511.  Infect. Immun.  
+59:1065–1073.
+
+Shao, J., M. Li, Q. Jia, Y. Lu, and P. G. Wang. 2003. Sequence of 
+Escherichia coli O128 antigen biosynthesis cluster and functional 
+identification  of  an  alpha-1,2-fucosyltransferase.    FEBS  Lett.  
+553:99–103.
+
+Stanley, P., V. Koronakis, and C. Hughes. 1998. Acylation of Esche-
+richia coli hemolysin: A unique protein lipidation mechanism un-
+derlying toxin function.  Microbiol. Mol. Biol. Rev.  62:309–333.
+Toro, C. S., M. Farfán, I. Contreras, O. Flores, N. Navarro, G. C. 
+Mora, and V. Prado. 2005. Genetic analysis of antibiotic-resis-
+tance determinants in multidrug-resistant Shigella strains isolat-
+ed from Chilean children.  Epidemiol. Infect.  133:81–86.
+
+Van,  T.  T.,  J.  Chin,  T.  Chapman,  L.  T.  Tran,  and  P.  J.  Coloe. 
+2008. Safety of raw meat and shellfish in Vietnam: An analysis of 
+Escherichia coli isolations for antibiotic resistance and virulence 
+genes.  Int. J. Food Microbiol.  124:217–223.
+
+van den Bogaard, A. 2000. Veterinary use of antibiotics in the Neth-
+erlands. Facts and numbers.  Tijdschr. Diergeneeskd.  125:527–
+530.
+
+van den Bogaard, A. E., and E. E. Stobberingh. 1999. Antibiotic us-
+age in animals: Impact on bacterial resistance and public health.  
+Drugs  58:589–607.
+
+Waldor, M. K., and D. I. Friedman. 2005. Phage regulatory circuits 
+and virulence gene expression.  Curr. Opin. Microbiol.  8:459–465.
+Wayne, A., R. McCarthy, and J. Lindenmayer. 2011. Therapeutic 
+antibiotic use patterns in dogs: Observations from a veterinary 
+teaching hospital.  J. Small Anim. Pract.  52:310–318.
+
+

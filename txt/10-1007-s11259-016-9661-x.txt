@@ -1,0 +1,791 @@
+Vet Res Commun
+DOI 10.1007/s11259-016-9661-x
+
+ORIGINAL ARTICLE
+
+SCC mec typing and antimicrobial resistance
+of methicillin-resistant Staphylococcus aureus (MRSA)
+from pigs of Northeast India
+
+S. Rajkhowa 1 & D. K. Sarma 1 & S. R. Pegu 1
+
+Received: 19 April 2016 /Accepted: 18 July 2016
+# Springer Science+Business Media Dordrecht 2016
+
+Abstract Staphylococcus aureus is one of the most important
+pathogens of both humans and animal. Methicillin-resistant
+Staphylococcus aureus (MRSA) is an important human patho-
+gen that causes serious infections both in hospitals and commu-
+nities due to its multidrug resistance tendency. This study was
+undertaken to characterize the MRSA isolates from pigs and to
+determine the antimicrobial resistance of these isolates. Forty
+nine MRSA strains (one strain per positive pig) isolated from
+pigs of Northeast India were characterized by SCCmec typing
+and antimicrobial resistance. The overall prevalence of MRSA
+was 7.02 % with the highest prevalence recorded in pigs aged
+1–3 months (P = 0.001) and in nasal samples (P = 0.005). Two
+SCC mec types (type III and V) were found in Indian pigs with
+predominance of type V. All isolates were resistant to penicillin.
+Seventeen resistance groups were observed where 87.75 % iso-
+lates showed multidrug resistance (showed resistance to three
+or more classes of antimicrobials). The most predominant re-
+sistance pattern observed was Oxytetracycline + Penicillin +
+Sulfadiazine + Tetracycline accounting 12.24 % of the isolates.
+The present study contributes to the understanding of charac-
+teristics and antimicrobial resistance of porcine MRSA isolates
+which in turn will help in devising strategy for the control of
+this pathogen. Findings of the study also throw light on multi-
+drug resistance MRSA and emphasize the need for judicious
+use of antimicrobials in animal practice.
+
+Keywords Antimicrobial resistance. mecA gene. MRSA. Pig.
+SCCmec typing
+
+* S. Rajkhowa
+
+swaraj.rajkhowa@gmail.com
+
+1
+
+ICAR-National Research Centre on Pig, Indian Council of
+Agricultural Research, Rani, Guwahati, Assam 781 131, India
+
+Introduction
+
+Staphylococcus aureus is a common bacterium found on the
+skin and nasal passages of healthy people. It is commonly
+associated with skin and soft tissue infections and sometimes
+it causes pneumonia, bacteremia, meningitis, sepsis and peri-
+carditis. S. aureus bacteria harboring the mecA gene are resis-
+tant to methicillin and other β-lactam antimicrobials and are
+referred to as methicillin-resistant S. aureus (MRSA). MRSA
+has become a pathogen of increasing importance in hospitals
+(healthcare-associated MRSA), the community (community-
+associated MRSA) and livestock operations (livestock-
+associated MRSA) (Graveland et al. 2011b). To date,
+livestock-associated MRSA (LA-MRSA) has been found
+worldwide, particularly among people who are involved with
+livestock farming (Frana et al. 2013). These bacteria can be
+transmitted to humans in close contact with MRSA-colonized
+animals (Smith and Pearson 2011). Livestock, especially pigs
+can serve as reservoirs for LA-MRSA (Lewis et al. 2008).
+Studies on the prevalence and characterization of MRSA
+from pigs have been carried out by several authors from
+different parts of the world. Dierikx et al. (2016) reported that
+39 % of pigs and 81 % of the slaughter batches at Dutch
+slaughterhouses were MRSA positive. Verhegghe et al.
+(2016) studied the prevalence of livestock-associated methi-
+cillin-resistant Staphylococcus aureus (LA-MRSA) in
+Belgian pork and also characterized the MRSA isolates by
+SCCmec typing, multiple-locus variable number tandem re-
+peat analysis and antimicrobial susceptibility testing, a selec-
+tion of isolates were subjected to pulsed-field gel electropho-
+resis and spa typing. Narvaez-Bravo et al. (2016) investigated
+the prevalence of Methicillin-resistant Staphylococcus aureus
+(MRSA), their spa-types and antimicrobial resistance profiles
+at various steps during commercial pork production from three
+plants and they found a higher prevalence of MRSA in the
+
+nasal cavity of incoming pigs at all three plants, but a notable
+reduction in MRSA along the pork processing steps. Sun et al.
+(2015) studied the prevalence as well as characterized
+Staphylococcus aureus from growing pigs in the USA and
+observed a relatively low herd prevalence of MRSA in the
+US swine industry, but confirmed that methicillin susceptible
+variants of the most common MRSA genotypes found in
+swine globally are endemic in the US.
+
+A thorough understanding of the molecular epidemiology
+and evolution of MRSA is required for detection, tracking,
+control as well as prevention of human diseases caused by this
+organism. Full characterization of MRSA requires definition
+of not only the putative bacterial genetic background but also
+of the complex and heterologous SCCmec elements.
+Staphylococcal cassette chromosome mec (SCCmec) typing
+is essential for understanding the molecular epidemiology of
+MRSA. To date, at least 11 types (I-XI) of SCCmec elements
+have been identified (Ito et al. 2014). The new MRSA nomen-
+clature scheme set by the International Union of Microbiology
+Societies incorporates SCCmec typing information in con-
+junction with that provided by multilocus sequence typing
+(Robinson and Enright 2004).
+
+The widespread use of antibiotics has led to the emer-
+gence of multidrug-resistant strains, making their eradication
+more difficult. Practices like preventive therapy (mainly of
+digestive and respiratory disorders), deviations from ap-
+proved posology (prolonged treatment duration or under-
+dosing) are common in animal production facilities
+(Timmerman et al. 2006). The use of antimicrobial drugs
+in food-producing animals is considered to contribute to
+the emergence of antimicrobial resistance (Gyssens 2001).
+Although contact with animals seems to be the most impor-
+tant risk factor for human, meat products may also be a
+source of the bacteria (Van Duijkeren et al. 2007).
+
+Although MRSA is endemic in India and its incidence
+varies from 25 % in western part of India to 50 % in South
+India (Gopalakrishnan and Sureshkumar 2010; Patel et al.
+2010), these studies are confined only to isolates from
+humans and available literature revealed that no reports are
+available either on prevalence or characterization of MRSA
+isolates from animals (including pigs) in India. The present
+study was undertaken to characterize the MRSA isolates
+from pigs as well as to determine the antimicrobial resis-
+tance of the isolates.
+
+Materials and methods
+
+Sample collection, isolation and identification of MRSA
+
+Six hundred and ninety eight (698) pigs in the age group of 2–
+18 weeks belonging to the North Eastern States of India were
+used for the study. The total number of pig farms included in
+
+Vet Res Commun
+
+the study was six (6) representing the major pig producing
+states of Northeast India. The distance between the farm
+ranged from 120 Km to 600Km. The average number of pigs
+per studied farm was 267. Nasal (n = 258), skin (n = 230) and
+rectal (n = 210) swab samples were collected from these pigs
+during the period of 2012–15. Nasal swabs were taken from
+both anterior nares using dry cotton swabs, skin swab samples
+were taken by swabbing three to four times the skin surface
+behind one ear using cotton swabs humidified by PBS and
+rectal swabs were collected directly from the rectum. All swab
+samples were incubated for 48 h at 37 °C in pre-enrichment
+media containing tryptic soy broth (Himedia, Mumbai, India)
+with 10 mL of 10 % NaCl. Then the samples were streaked
+onto mannitol salt agar (Himedia, Mumbai, India) with 6 mg/
+L of oxacillin (Himedia, Mumbai, India) and incubated at
+37 °C for 24 h. The colonies suspected to be S. aureus derived
+from each sample (one strain per positive sample) were select-
+ed and identified by Gram staining with Gram-positive cocci
+and catalase activity. The colonies were re-streaked onto tryp-
+tic soy agar plates (Himedia, Mumbai, India) and incubated at
+37 °C for 24 h. A coagulase test was carried out, and the
+presumptive positive samples were further screened for meth-
+icillin resistance by disc diffusion with 1 μg oxacillin (diam-
+eter of the inhibition zone for MRSA must be less than
+10 mm.) (CLSI 2009). Several authors have reported detection
+of MRSA by cefoxitin (30 μg) disc diffusion method in ac-
+cordance with the recommendations of Clinical and
+Laboratory Standards Institute (Fayyaz et al. 2013; Uzun
+et al. 2013; Çıkman et al. 2015). When mecA gene analysis
+was considered as the reference method and several methods
+were compared for detection of MRSA, the highest specificity
+and positive predictive values were obtained by the cefoxitin
+discdiffusion (CDD) method (Uzun et al. 2013). Similarly
+Mallick and Basak (2011) opined that CDD method could
+be a good choice for detecting methicillin resistance in S
+aureus strains in day to day practice where mecA PCR cannot
+be performed. Identification of MRSA isolates was further
+confirmed by multiplex PCR which simultaneously detects
+16S rRNA, mecA and nuc genes (Louie et al. 2002). All
+MRSA isolates were kept in brain-heart infusion broth
+(Himedia, Mumbai, India) with 15 % glycerol at −80 °C for
+SCCmec typing.
+
+Staphylococcal cassette chromosome mec (SCCmec)
+typing
+
+Isolated bacteria were subcultured twice onto 5 % sheep blood
+Columbia agar plates (Himedia, Mumbai, India) prior to DNA
+extraction. Genomic DNA was extracted by using DNeasy
+Blood and Tissue Kit (Qiagen, CA, USA). In order to classify
+the SCCmec type and subtype, monoplex PCR assays using
+the sequence of primers and conditions described by Zhang
+et al. (2005) was used.
+
+Vet Res Commun
+
+Antimicrobial susceptibility
+
+Antimicrobial susceptibility testing was performed by the disk
+diffusion method according to the Clinical and Laboratory
+Standards Institute guidelines (CLSI 2009). The isolates were
+interpreted as sensitive, intermediately sensitive and resistant
+according to the inhibition zone diameter using CLSI
+recommendations.
+
+Data analysis
+
+Analyses were performed with SPSS 13.0 software for
+Windows with a probability (P) value <0.05 as statistically
+significant. The main purpose of the statistical analysis was
+to find out the influence (if any and if present statistically
+significant or not) of age and location (anatomical location)
+on the prevalence of MRSA in pigs. Analysis was also carried
+out to find out the statistical difference (if any) in the temporal
+distribution of MRSA isolates in the studied area.
+
+Results
+
+Methicillin resistant gene (mecA) could be detected in 49 pigs
+(out of 698 pigs examined) giving the overall prevalence of
+MRSA as 7.02 % in the present study. Positive animals were
+present in all the herds included in the study and the prevalence
+in the studied farms ranged from 4.70 % to 8.16 %. Highest
+prevalence was observed in nasal (10.85 %) and skin (6.08 %)
+samples and lowest in faecal (3.33 %) samples (P = 0.005,
+Table 1). The prevalence of MRSA was found to be highest
+(11.28 %) in pigs aged 1–3 months whereas prevalence was
+lowest (2.33 %) in pigs above 3 months of age (P = 0.001,
+Table 1). Studies on temporal distribution of positive samples
+revealed non-significant difference in prevalence (Table 1).
+SCC mec typing of MRSA isolates revealed the presence of
+types III and Vof which 40.81 % (20) isolates belonged to type
+III and 59.18 % (29) belonged to type V. High frequency of
+resistance was observed for antimicrobials such as penicillin
+(100 %), oxytetracycline (83.67 %) and tetracycline (81.63 %).
+Antimicrobial resistance patterns of the MRSA isolates are
+shown in Table 2. Seventeen resistance groups (R1 to R17)
+were observed in the present study where 87.75 % isolates
+showed resistance to three or more classes of antimicrobials.
+The most predominant resistance pattern observed was O +
+P + SZ + TE which accounted for 12.24 % of the isolates.
+
+Discussion
+
+Considerable works have been carried out to determine the
+prevalence of MRSA in the pig population and its association
+with human infection because of the potential public health
+
+risk associated with this organism (Voss 2005). The study
+reports the prevalence of MRSA in pig population of North
+east India and we could detect methicillin resistant gene
+(mecA) in 7.02 % pigs in the present study. The prevalence
+recorded in the study was found to be much lower than those
+reported by countries such as 22.7 % in Korea (Lim et al.
+2012), 26 % in Canada (Khanna et al. 2008), 36 % in the
+USA (Smith et al. 2009), 39 % in the Netherlands (de
+Neeling et al. 2007) and 49 % in Germany (Tenhagen et al.
+2009). The difference in prevalence rate as observed in the
+present study could be due to several factors such as geo-
+graphical location of the study area, sampling methods, labo-
+ratory testing methods and age of the pigs tested (Broens et al.
+2011). We have recorded highest prevalence of MRSA in
+nasal samples in comparison to samples collected from other
+locations of the body which is consistent with the findings of
+Dewaele et al. (2011) who reported that MRSA was predom-
+inantly detected in the nares, followed by the perineum and
+skin and to a lesser degree in the rectum. The distribution of
+MRSA along the production chain was studied in a slaughter-
+house with a connected processing unit producing fresh pork
+(Beneke et al. 2011) and results indicated that MRSA were
+frequently found in the noses of pigs (65 %), but less frequent-
+ly on carcasses (16 %). Although the present study was not
+designed to assess the influence of factors on the prevalence of
+MRSA in pigs, a strong association was observed between
+presence of young pigs (1–3 months of age) and prevalence
+of MRSA which also corroborated with the findings of several
+authors (Smith et al. 2009; Weese et al. 2011) who reported
+highest prevalence of MRSA in piglets between 6 and
+12 weeks of age. Molecular characterization using PCR assay
+revealed the presence of only two SCCmec types of which
+40.81 % of the MRSA isolates belonged to SCCmec III and
+59.18 % belonged to SCCmec V. The present study is consis-
+tent with the findings of Tulinski et al. (2012) who observed
+that majority (86.67 %) of MRSA isolates from pigs belonged
+to SCCmec type V whereas only 13.33 % isolates belonged to
+SCCmec type IVa. Similarly Park et al. (2013) found that of
+the 30 MRSA isolates identified from nasal samples of the
+pigs, 29 isolates were SCCmec type V. On the contrary,
+Tenhagen et al. (2009) observed that most of the MRSA iso-
+lates from pigs belonged to SCCmec type III which might be
+due to geographic variations of MRSA strains as reported by
+Stefani, and Varaldo, (2003).
+
+Similar SCC mec types have also been reported from hu-
+man from Northeast India as well as from other parts of India
+apart from reporting other (other than types III and V) SCC
+mec types of MRSA (D’Souza et al. 2010; Bhutia et al. 2015).
+SCC mec typing of MRSA isolates from human belonging to
+the state of Sikkim, Northeast India revealed the presence of
+types I (1.88 %), II (1.88 %), III (3.77 %), IVa (1.88 %) and V
+(11.32 %) (Bhutia et al. 2015). Similarly molecular character-
+ization of MRSA from patients from Mumbai, India revealed
+
+Table 1 Prevalence of MRSA
+in pigs
+
+Characteristics
+
+No. of animals tested
+
+Prevalence (%)
+
+χ2
+
+d.f.
+
+P
+
+Vet Res Commun
+
+270
+257
+171
+
+258
+230
+210
+
+Age of pigs
+< 1 month
+1–3 months
+> 3 months
+Type of samples
+Nasal swab
+Skin
+Rectal swab
+Temporal distribution (% of positive samples)
+2012
+2013
+2014
+2015
+
+162
+165
+181
+190
+
+13.39
+
+10.43
+
+2.06
+
+2
+
+2
+
+3
+
+0.001
+
+0.005
+
+0.56
+
+5.92
+11.28
+2.33
+
+10.85
+6.08
+3.33
+
+4.93
+6.66
+8.83
+7.36
+
+the presence of SCC mec types III (25 %), IV (34 %) and V
+(41 %) (D’Souza et al. 2010). Genotyping of MRSA from
+tertiary care hospitals in Coimbatore, South India showed
+the presence of SCC mec types III and IVa of which type III
+was found to be predominant with a frequency of 94.8 %
+(Neetu and Murugan 2016). However, analysis of MRSA
+strains isolated from healthy human and patients from
+Bengaluru, Mumbai and Pune, India revealed the presence
+of only SCC mec type IV (Nadig et al. 2010).
+
+MRSA is a human bacterial pathogen that has emerged as
+a major threat in hospitals (as a nosocomial infection) and
+the cause of community-acquired infection among high-risk
+
+groups such as veterinarians, slaughterhouse workers and
+those in close contact with animals especially with pigs.
+The use of antibiotics in livestock production has promoted
+the development of multi-drug resistance. In the present
+study, all MRSA isolates were resistant to penicillin which
+is consistent with the findings of Oppliger et al. (2012) who
+observed that all MRSA isolates from pigs were resistant to
+penicillin. Similarly in a study conducted in China revealed
+that most (90 %) of the isolates from pigs were resistant to
+penicillin (Zhang et al. 2012). Resistance against penicillin
+is particularly noteworthy because this antimicrobial is com-
+monly used for treatment of animal diseases in India.
+
+Table 2 Antimicrobial resistance
+pattern of MRSA isolates from pig
+
+Resistance group
+
+Antimicrobial resistance patterns
+
+SCC mec types
+
+Number of isolates
+
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+R13
+R14
+R15
+R16
+R17
+
+O, P, SZ and TE
+E, O, P, TE and TR
+E, O, P and TE
+P
+EX, E, O, P, SZ, TE and TR
+CIP, GEN, O, P, SZ and TR
+EX, E, O, P and TE
+P and TE
+GEN, O, P, TE and TR
+GEN, O, P, SZ, TE and TR
+CIP, E, GEN,O, P and TE
+CIP, GEN, O, P, SZ, TE and TR
+CIP, EX, GEN, P and TE
+E, GEN, O, P, TE and TR
+CIP, EX, E, GEN, O and P
+CIP, EX, E, O, P, TE and TR
+EX, E, O, P, SZ and TE
+
+V
+V
+V
+V
+III
+V
+V
+V
+III
+III
+III
+III
+III
+III
+III
+V
+III
+
+6
+5
+4
+4
+4
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+
+E erythromycin, O oxytetracycline, P penicillin, TE tetracycline, GEN gentamicin, TR trimethoprim, CIP cipro-
+floxacin, SZ sulfadiazine, EX enrofloxacin
+
+Vet Res Commun
+
+Acquired resistance to β-lactams is mediated through two
+main mechanisms, β-lactamase production or altered peni-
+cillin binding protein (PBP2a) production. Bacterial β-
+lactamases hydrolyze the β-lactam ring and in staphylococci
+typically confer resistance to penicillins. Inhibitors of β-
+lactamase can inhibit this resistance mechanism and β-lac-
+tam/β-lactamase inhibitor combinations are widely used in
+some species, but not in swine production (Paterson and
+Bonomo 2005). In contrast, altered PBP2a production
+encoded by mecA, results in low affinity for all β-lactams
+and confers broad resistance to β-lactams that is not affected
+by β-lactamase inhibitors. Frana et al. (2013) found that
+resistance to tetracycline derivatives (chlortetracycline, oxy-
+tetracycline) overall was quite high (87 %). Similarly several
+authors opined that tetracycline resistance is a common fea-
+ture of most of the MRSA isolates (Smith and Pearson 2011;
+Graveland et al. 2011a). A Belgian study which tested 643
+pig MRSA ST398 isolates reported almost similar resistant
+rates for tetracycline (Crombe et al. 2012).
+
+In the present study, 43 (78.75 %) isolates showed mul-
+tidrug resistance where seventeen resistance groups (R1 to
+R17) were observed. Studies conducted on characterization
+of MRSA isolates from pigs in Hong Kong revealed that
+most of the MRSA isolates were multidrug resistant (Ho
+et al. 2012). The most predominant resistance pattern ob-
+served in the present study was resistance to β-lactams +
+tetracyclines + sulphonamides which is consistent with the
+findings of Kadlec et al. (2009). Van Duijkeren et al. (2008)
+reported that the pressure of the antimicrobial selection is
+one of the probable factors that have facilitated the emer-
+gence and dispersion of the veterinary MRSA, the most
+commonly used being tetracycline and trimethoprim-
+sulfamethoxazole and to which these microorganisms are
+more resistant. Similarly Ndi and Barton (2012) opined that
+antibiotics used in animals for therapeutics, food production
+and diseases prevention promote antibiotic resistance and
+this may be the reason for multidrug resistance as observed
+in most of the isolates in this study. Although multidrug
+resistance is presently defined as resistance to three or more
+classes of antibiotics (Magiorakos et al. 2012), it should be
+noted that any lack of therapeutic effectiveness due to resis-
+tance to the administered substance can be devastating.
+Another important aspect is that colonization of livestock
+with drug resistant bacteria is often considered a risk factor
+for meat contamination by these resistant bacteria (Tenhagen
+et al. 2009).
+
+This is perhaps the first report on SCC mec types and an-
+timicrobial resistance pattern of MRSA isolates from pigs in
+India. The study revealed that most of the MRSA strains iso-
+lated in the study are resistant to penicillins and tetracyclines,
+the widely used antimicrobials in animal practice. The study
+will also form the basis for devising future strategy for the
+control of this emerging pathogen.
+
+Compliance with ethical standards
+
+Conflict of interest There is no conflict of interest for this manuscript.
+
+References
+
+Beneke B, Klees S, Stuhrenberg B, Fetsch A, Kraushaar B, Tenhagen BA
+(2011) Prevalence of methicillin resistant Staphylococcus aureus
+(MRSA) in a fresh meat pork production chain. J Food Prot 74:126–129
+Bhutia KO, Singh TSK, Adhikari L, Biswas S (2015) Molecular charac-
+terization of community- & hospital-acquired methicillin-resistant &
+methicillin-sensitive Staphylococcus aureus isolates in Sikkim.
+Indian J Med Res 142:330–335
+
+Broens EM, Graat EAM, Van Der Wolf PJ, Van De Giessen AW, De Jong
+MCM (2011) Prevalence and risk factor analysis of livestock asso-
+ciated MRSA-positive pig herds in The Netherlands. Prev Vet Med
+102:41–49
+
+Çıkman A, Aydın M, Gülhan B, Parlak M, Gültepe B, Kalaycı Y,
+Bayındır BF, Solmaz S, Özekinci T (2015) Investigation of antibi-
+otic resistance patterns and reduced vancomycin susceptibilities of
+methicillin-resistant Staphylococcus aureus isolates: a multi-center
+study. Mikrobiyol Bul 49:240–248
+
+CLSI (2009) Performance Standards for Antimicrobial Disc
+Susceptibility Tests; Approved Standards. 10th ed. CLSI document
+M02-A10. Clinical and Laboratory Standards Institute, Wayne
+
+Crombe F, Willems G, Dispas M, Hallin M, Denis O, Suetens C, Gordts
+B, Struelens M, Butaye P (2012) Prevalence and antimicrobial sus-
+ceptibility of methicillin-resistant Staphylococcus aureus among
+pigs in Belgium. Microb Drug Resist 18:125–131
+
+de Neeling AJ, van den Broek MJ, Spalburg EC, van Santen-Verheuvel
+MG, Dam-Deisz WDC, Boshuizen HC, van de Giessen AW, van
+Duijkeren E, Huijsdens XW (2007) High prevalence of methicillin
+resistant Staphylococcus aureus in pigs. Vet Microbiol 122:366–372
+Dewaele I, Messens W, De Man I, Delputte P, Herman L, Butaye P,
+Heyndrickx M, Rasschaert G (2011) Sampling, prevalence and char-
+acterization of methicillin-resistant Staphylococcus aureus on two
+Belgian pig farms. Vet Sci Dev. doi:10.4081/vsd.2011.e1
+
+Dierikx CM, Hengeveld PD, Veldman KT, de Haan A, van der Voorde S,
+Dop PY, Bosch T, van Duijkeren E (2016) Ten years later: still a high
+prevalence of MRSA in slaughter pigs despite a significant reduc-
+tion in antimicrobial usage in pigs the Netherlands. J Antimicrob
+Chemother Jun 3. doi:dkw190
+
+D’Souza N, Rodrigues C, Mehta A (2010) Molecular Characterization of
+Methicillin-Resistant Staphylococcus aureus with Emergence of
+Epidemic Clones of Sequence Type (ST) 22 and ST 772 in
+Mumbai, India. J Clin Microbiol 48:1806–1811
+
+Fayyaz M, Mirza IA, Ahmed Z, Abbasi SA, Hussain A, Ali S (2013)
+In vitro susceptibility of chloramphenicol against methicillin-
+resistant Staphylococcus aureus. J Coll Physicians Surg Pak 23:
+637–640
+
+Frana TS, Beahm AR, Hanson BM, Kinyon JM, Layman LL, Karriker
+LA, Ramirez A, Smith TC (2013) Isolation and characterization of
+methicillin-resistant Staphylococcus aureus from pork farms and
+visiting veterinary students. PLoS One 8:e53738
+
+Gopalakrishnan R, Sureshkumar D (2010) Changing trends in antimicro-
+bial susceptibility and hospital acquired infections over an 8 year
+period in a tertiary care hospital in relation to introduction of an
+infection control programme. J Assoc Physicians India 58:25–31
+
+Graveland H, Duim B, van Duijkeren E, Heederik D, Wagenaar JA
+(2011a) Livestock-associated methicillin-resistant Staphylococcus
+aureus in animals and humans. Int J Med Microbiol 301:630–634
+
+Graveland H, Wagenaar JA, Bergs K, Heesterbeek H, Heederik D (2011b)
+Persistence of livestock associated MRSA CC398 in humans is de-
+pendent on intensity of animal contact. PLoS One 6:e16830
+
+Gyssens IC (2001) Quality measures of antimicrobial drug use. Int J
+
+Antimicrob Agents 17:9–19
+
+Ho J, O'Donoghue M, Guardabassi L, Moodley A, Boost M (2012)
+Characterization of methicillin-resistant Staphylococcus aureus isolates
+from pig carcasses in Hong Kong. Zoonoses Pub Hlth 59:416–423
+
+Ito T, Kuwahara-Arai K, Katayama Y, Uehara Y, Han X, Kondo Y,
+Hiramatsu K (2014) Staphylococcal Cassette Chromosome mec
+(SCCmec) analysis of MRSA. Methods Mol Biol 1085:131–148
+
+Kadlec K, Ehricht R, Monecke S, Steinacker U, Kaspar H, Mankertz J,
+Schwarz S (2009) Diversity of antimicrobial resistance pheno- and
+genotypes of methicillin-resistant Staphylococcus aureus ST398
+from diseased swine. J Antimicrob Chemother 64:1156–1164
+
+Khanna T, Friendship R, Dewey C, Weese JS (2008) Methicillin resistant
+Staphylococcus aureus colonization in pigs and pig farmers. Vet
+Microbiol 128:298–303
+
+Lewis HC, Mølbak K, Reese C, Aarestrup FM, Selchau M, Sørum M,
+Skov RL (2008) Pigs as source of methicillin-resistant
+Staphylococcus aureus CC398 infections in humans, Denmark.
+Emerg Infect Dis 14:1383–1389
+
+Lim SK, Nam HM, Jang GC, Lee HS, Jung SC, Kwak HS (2012) The
+first detection of methicillin-resistant Staphylococcus aureus ST398
+in pigs in Korea. Vet Microbiol 155:88–92
+
+Louie L, Goodfellow J, Mathieu P, Glatt A, Louie M, Simor AE (2002)
+Rapid detection of methicillin-resistant staphylococci from blood
+culture bottles by using a multiplex PCR assay. J Clin Microbiol
+40:2786–2790
+
+Magiorakos AP, Srinivasan A, Carey RB, Carmeli Y, Falagas ME, Giske
+CG, Harbarth S, Hindler JF, Kahlmeter G, Olsson-Liljequist B,
+Paterson DL, Rice LB, Stelling J, Struelens MJ, Vatopoulos A,
+Weber JT, Monnet DL (2012) Multidrug-resistant, extensively
+drug-resistant and pandrug-resistant bacteria: an international expert
+proposal for interim standard definitions for acquired resistance.
+Clin Microbiol Infect 18:268–281
+
+Mallick SK, Basak S (2011) Accurate detection of methicillin-resistant
+Staphylococcus aureus in day to day practice: a great help to clini-
+cians. J Indian Med Assoc 109:892–895
+
+Nadig S, Raju SR, Arakere G (2010) Epidemic meticillin-resistant
+Staphylococcus aureus (EMRSA-15) variants detected in healthy
+and diseased individuals in India. JMM 59:815–821
+
+Narvaez-Bravo C, Toufeer M, Weese SJ, Diarra MS, Deckert AE, Reid-
+Smith R, Aslam M (2016) Prevalence of methicillin-resistant
+Staphylococcus aureus in Canadian commercial pork processing
+plants. J Appl Microbiol 120:770–780
+
+Ndi O, Barton M (2012) The Australian perspective in Antimicrobial
+resistance in the environment, edited by Keen PL and Montforts,
+1st edn. USA, John Wiley and Sons Inc, New Jersey, pp. 265–289
+Neetu TJ, Murugan S (2016) Genotyping of methicillin resistant
+Staphylococcus aureus from tertiary care hospitals in Coimbatore,
+South India. J Global Infect Dis 8:68–74
+
+Oppliger A, Moreillon P, Charrière N, Giddey M, Morisset D,
+Sakwinskab O (2012) Antimicrobial Resistance of Staphylococcus
+aureus Strains Acquired by Pig Farmers from Pigs. Appl Environ
+Microbiol 78:8010–8014
+
+Park J, Friendship RM, Weese JS, Poljak Z, Dewey CE (2013) An inves-
+tigation of resistance to β-lactam antimicrobials among staphylococ-
+ci isolated from pigs with exudative epidermitis. BMC Vet Res 9:211
+Patel AK, Patel KK, Patel KR, Shah S, Dileep P (2010) Time trends in the
+epidemiology of microbial infections at a tertiary care center in west
+India over last 5 years. J Assoc Physicians India 58:37–40
+
+Vet Res Commun
+
+Paterson DL, Bonomo RA (2005) Extended-spectrum beta-lactamases: a
+
+clinical update. Clin Microbiol Rev 18:657–686
+
+Robinson DA, Enright MC (2004) Multilocus sequence typing and the
+evolution of methicillin-resistant Staphylococcus aureus. Clin
+Microbiol Infect 10:92–97
+
+Smith TC, Male MJ, Harper AL, Kroeger JS, Tinkler GP, Moritz ED,
+Capuano AW, Hermaldt LA, Diekema DJ (2009) Methicillin-
+resistant Staphylococcus aureus (MRSA) strain ST398 is present
+in midwestern U.S. swine and swine workers. PLoS One 4:e4258.
+Smith TC, Pearson N (2011) The emergence of Staphylococcus aureus
+
+ST398. Vector Borne Zoon Dis 11:327–339
+
+Stefani S, Varaldo PE (2003) Epidemiology of methicilin-resitant staph-
+
+ylococci in Europe. Clin Microbiol Infect 9:1179–1186
+
+Sun J, Yang M, Sreevatsan S, Davies PR (2015) Prevalence and
+Characterization of Staphylococcus aureus in Growing Pigs in the
+USA. PLoS One 10:e0143670
+
+Tenhagen BA, Fetsch A, Stührenberg B, Schleuter G, Guerra B, Hammer
+JA, Hertwig S, Kowall J, Kämpe U, Schroeter A, Bräunig J,
+Käsbohrer A, Appel B (2009) Prevalence of MRSA types in slaugh-
+ter pigs in different German abattoirs. Vet Rec 165:589–593
+
+Timmerman T, Dewulf J, Catry B, Feyen B, Opsomer G, de Kruif A,
+Maes D (2006) Quantification and evaluation of antimicrobial drug
+use in group treatments for fattening pigs in Belgium. Prev Vet Med
+74:251–263
+
+Tulinski P, Fluit AC, Wagenaar JA, Mevius D, Vijver LV, Duima B
+(2012) Methicillin-Resistant Coagulase-Negative Staphylococci
+on Pig Farms as a Reservoir of Heterogeneous Staphylococcal
+Cassette Chromosome mec Elements. Appl Environ Microbiol
+78:299–304
+
+Uzun B, Karataş Şener AG, Güngör S, Afşar I, Yüksel Ergin O,
+Demirci M (2013) Comparison of Cefoxitin Disk Diffusion
+Test, Automated System and Chromogenic Medium for
+Detection of Methicillin Resistance in Staphylococcus aureus
+Isolates. Mikrobiyol Bul 47:1118
+
+Van Duijkeren E, Ikawaty R, Broekhuizen-Stins MJ, Jansen MD,
+Spalburg EC, de Neeling AJ, Allaart JG, van Nes A, Wagenaar
+JA, Fluit AC (2008) Transmission of methicillin-resistant
+Staphylococcus aureus strains between different kinds of pig farms.
+Vet Microbiol 126:383–389
+
+Van Duijkeren E, Jansen MD, Flemming SC, de Neeling H, Wagenaar
+JA, Schoormans AH, van Nes A, Fluit AC (2007) Methicillin-
+resistant Staphylococcus aureus in pigs with exudative epidermitis.
+Emerg Infect Dis 13:1408–1410
+
+Verhegghe M, Crombé F, Luyckx K, Haesebrouck F, Butaye P, Herman
+L, Heyndrickx M, Rasschaert G (2016) Prevalence and Genetic
+Diversity of Livestock-Associated Methicillin-Resistant
+Staphylococcus aureus on Belgian Pork. J Food Prot 79:82–89
+
+Voss A (2005) Methicillin-resistant Staphylococcus aureus in pig farm-
+
+ing. Emerg Infect Dis 11:1965–1966
+
+Weese JS, Zwambag A, Rosendal T, Reid-Smith R, Friendship R (2011)
+Longitudinal Investigation of Methicillin-Resistant Staphylococcus
+aureus in Piglets. Zoonoses Pub Hlth 58:238–243
+
+Zhang C, Song L, Chen H, Liu Y, Qin Y, Ning Y (2012) Antimicrobial
+susceptibility and molecular subtypes of Staphylococcus aureus iso-
+lated from pig tonsils and cow’s milk in China. Canadian J Vet Res
+76:268–274
+
+Zhang K, McClure JA, Elsayed S, Louie T, Conly JM (2005) Novel
+multiplex PCR assay for characterization and concomitant
+subtyping of staphylococcal cassette chromosome mec types I to
+V in methicillin-resistant Staphylococcus aureus. J Clin Microbiol
+43:5026–5033
+
+

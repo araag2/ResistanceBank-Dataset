@@ -1,0 +1,1290 @@
+Small Ruminant Research 153 (2017) 41–47
+
+Contents lists available at ScienceDirect
+
+Small Ruminant Research
+
+journal homepage: www.elsevier.com/locate/smallrumres
+
+Serotypes, virulence genes proﬁles and antimicrobial resistance patterns of
+Escherichia coli recovered from feces of healthy lambs in Mexico
+Edgar Enriquez-Gómeza, Martín Talavera-Rojasa, Edgardo Soriano-Vargasa,
+Armando Navarro-Ocañab, Vicente Vega-Sánchezc, Saúl Aguilar-Montes de Ocaa,
+Jorge Acosta-Dibarrata,⁎
+
+a Centro de Investigación y Estudios Avanzados en Salud Animal. Facultad de Medicina Veterinaria y Zootecnia. Universidad Autónoma del Estado de México. Toluca,
+Estado de Mexico, Mexico
+b Department of Public Health, Faculty of Medicine, Universidad Nacional Autónoma de México. Universidad Nacional Autónoma de México, CDMX, Mexico
+c Área Académica de Medicina Veterinaria y Zootecnia, Instituto de Ciencias Agropecuarias (ICAP), Universidad Autónoma del Estado de Hidalgo. Tulancingo, Estado de
+Hidalgo, Mexico
+
+MARK
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+STEC
+Healthy lambs
+Serotypes
+Escherichia coli
+
+Healthy lambs are one of the major reservoirs of Shiga toxin-producing Escherichia coli (STEC) and it is known as
+the cause of foodborne diseases (FBD). The work objective is to characterize (STEC) isolates obtained from rectal
+swabs of healthy lambs herds, a total of 183 samples were obtained from sheep production units of the State of
+Mexico. E. coli isolates were conﬁrmed through the ampliﬁcation of the uid A gene. antimicrobial sensitivity
+pattern was determined through Kirby-Bauer (CLSI, 2012) test and the presence stx1, stx2 and eae genes from
+isolates by multiplex PCR. Serotyping was performed using speciﬁc anti-O and anti-H sera (SERUNAM, Mexico)
+for 185 Somatic and 56 ﬂagellar antigens. 126 isolates biochemically and molecularly identiﬁed as E. coli were
+obtained, of which 80 did not express any virulence factor and 46 expressed at least some (STEC) virulence
+factor. The highest percentage of E. coli resistance was for tetracycline 48.7% (39/80), followed by nalidixic acid
+13.7% (11/80), gentamicin 6.2% (5/80) and Ciproﬂoxacin 3.7% (3/80). Resistance to amikacin, cefotaxime and
+ceftazidime were not detected. A frequency of 46 STEC isolates (36.2%) were obtained, of which 28/46 (22.0%)
+expressed stx1, stx2 3/46 (6.5%), stx1, stx2 13/46 (10.2%) and eae 2/46 (1.6%). Thirty diﬀerent serotypes were
+obtained. The three serotypes with the highest number of isolates (four each) were: O76:H19, O118:H27 and
+O146:H21 which have been identiﬁed as a cause of diarrhea in human population. An isolate of serogroup O104
+was obtained, with a signiﬁcant importance for European public health. In virtue of the discovered serotypes and
+the virulence factors distribution, we can aﬃrm that the obtained isolates from lambs in the State of Mexico are
+classiﬁable as atypical STEC of low virulence.
+
+1. Introduction
+
+STEC strains are normal inhabitants of the ruminant gastrointestinal
+tract (bovine, sheep and goats) (Nataro and Kaper, 1998) and are the
+cause of foodborne diseases (FBDs) of animal and vegetable origin
+(Blanco et al., 2003; Caprioli et al., 2005).
+
+E.coli O157:H7 has been reported in lambs and sheep; both isolated
+from stool, sheep meat products and byproducts (Kumar et al., 2012;
+Momtaz et al., 2012), on the other hand serotypes Non-O157, as OR26,
+O111, O103, O121, O45 and O145 have been found in calves and sheep
+and identiﬁed as potential public health risk factors (Evans et al., 2008;
+Bai et al., 2012). The most common pathotypes causing diarrhea in
+sheep in Mexico as EPEC (Enteropathogenic E. coli) and ETEC (Enter-
+
+otoxigenic E.coli). (Méndez et al., 2013; Rangel-Vargas et al., 2015).
+
+The phenomenon of antibiotic resistance in commensal and patho-
+genic bacteria has become a serious problem in public health (Saei
+et al., 2010), bacteriás development and persistence is a topic of global
+concern since these microorganisms are considered as a resistance
+genes reservoir, capable of
+transferring resistance genes to their
+oﬀspring, and other organisms that cause foodborne diseases and
+zoonotic diseases (Zhang et al., 2002).
+
+STEC strains can cause severe diseases in the human population as
+the Hemolytic-Uremic Syndrome (HUS) and Hemorrhagic Colitis (HC)
+(Paton and Paton, 1998a). The shiga toxins 1 and 2 and its variants are
+the main virulence factors of this microorganism. In addition to toxins,
+STEC denominated strains possess other pathogenicity mechanisms that
+
+⁎ Corresponding author.
+E-mail address: jpacosta00@hotmail.com (J. Acosta-Dibarrat).
+
+http://dx.doi.org/10.1016/j.smallrumres.2017.05.003
+Received 17 November 2016; Received in revised form 4 May 2017; Accepted 5 May 2017
+Available online 17 May 2017
+0921-4488/ © 2017 Elsevier B.V. All rights reserved.
+
+E. Enriquez-Gómez et al.
+
+Small Ruminant Research 153 (2017) 41–47
+
+allow the phenomena of attaching and eﬀacing (A/E) as the eae
+chromosomal gene that encodes the outer membrane protein (OMP)
+of 94 kDa, called intimin (Paton and Paton 1998b).
+
+Various investigations have revealed the existence of variants for
+both shiga toxins; the stx1 gene has 3 subtypes (stx1a, stx 1c and stx1d)
+(Zhang et al., 2002; Burk et al., 2003) and numerous stx2 gene variants
+have been described (stx2a, stx2b, stx2c, stx2d, stx2e, stx2f, and stx2g)
+letting the stx2a, stx2c and stx2d variants the most linked to the
+presentation of HUS (Piérard et al., 1998; Schmidt et al., 2000). Also
+exists a speciﬁc plasmid, which encodes hemolysin (ehxA) production
+that can contribute to the virulence of this type of microorganisms for
+the human population (Beutin et al., 1995; Schetuz and Strockbine,
+2005).
+
+The STEC serotype O157:H7 is commonly associated with the
+presence of HUS and HC in the human population, not solely more
+than 100 diﬀerent serotypes associated with these suﬀering aﬄictions
+have been recognized (Nguyen and Sperandio, 2012). Its noteworthy
+mentioning, the STEC Non-O157 report which do not cause SHU and
+HC in Europe, Australia and Asia attributed to diﬀerent serotypes as
+O5:NM (immobile), O6:H11, O26:NM, O48:H21, O91:NM, O111:NM,
+O113:H21, O128:H2 and O128:NM. Two of these serotypes (O11:NM
+and O26:H11) may also cause diarrhea to weaned calves (Goldwater
+and Bettelheim, 1995; Russmann et al., 1995; Achenson and Keusch,
+1996).
+
+In Mexico, few studies have been conducted to determine the
+presence of STEC strains and their virulence factors in cattle carcass,
+sheep and feces of domestic animals. Amézquita-López et al. (2014)
+found 12.5% prevalence of STEC, 5.4% of isolates were O157 and 7.1%
+of isolates were No-O157, in feces of healthy domestic animals (cattle,
+sheep, pigs and poultry) of small rural farms in the valley of Culiacan
+northwestern Mexico. Cuenca-Verde et al. (2013) found 26% preva-
+lence of STEC No-O157 in feces of healthy sheep in one techniﬁed farm
+in Jalisco, Mexico. Callaway et al. (2004) found 3.3% prevalence of
+STEC O157:H7 isolated from pigs in the center of Mexico and Narvaez-
+Bravo et al. (2013) reported 23.2% prevalence of STEC O157:H7
+isolated from feces of cattle and bovine animal carcasses in slaughter-
+houses. The objective of this research is to characterize STEC isolates
+and its frequency in healthy lambs in the State of Mexico.
+
+2. Materials and methods
+
+Sampling and bacteriological isolation
+
+Sample size was estimated using the formula for ﬁnite populations
+(Wayne, 1991) with 20% E. coli prevalence (Mora et al., 2005). 183
+rectal swabs samples were collected from healthy lambs without
+diarrhea of 1–6 months age during the months of February to May
+2014, from eight sheep production units located in six municipalities of
+the State of Mexico by convenience sampling. Samples were transferred
+to the Center for Investigation and Advanced Studies in Animal Health
+of the Autonomous University of the State of Mexico (CIESA-UAEMex).
+Samples were inoculated in agar Mc-Conkey (SMAC, Beckton
+Dickinson, USA). After 24 h of incubation at 37 °C, pink colored
+colonies were plated on eosin-methylene blue agar (EMB) (SMAC,
+Beckton Dickinson, USA) to observe the metallic luster characteristic,
+Finally the following biochemical tests by manitol fermentation test,
+TSI, LIA, MIO, H2S, indole production and presence of urease and lysine
+decarboxylase. Furthermore, sorbitol fermentation was tested (Fig. 1).
+
+2.1. Genotypic identiﬁcation
+
+To corroborate isolates identity, genotypic identiﬁcation through
+uid A gene ampliﬁcation is proceeded in principle to extract the isolates'
+bacterial DNA, for which isolates were inoculated in 3 ml of BHI broth
+(HiMedia, USA) that were and incubated at 37 °C for 18 h. With a
+micropipette, 1.0 ml of culture was taken and deposited in a 1.5 mL vial
+
+subsequently centrifuged for 5 min at 9279 g (Eppendorf Centrifuge
+5415D., USA), supernatant was discarded and 400 μl of distilled water
+were added to pellet, then vortexed during 30 s (Scientiﬁc Industries
+Inc. USA), then centrifuged for 5 min. at 9279 g, supernatant was
+discarded and 100 μl of distilled water was added,
+then boiled
+(95 °C–100 °C) during 15 min ﬁnally was slightly centrifuged and
+supernatant removed to be stored at −20 °C (Reyes-Rodríguez et al.,
+2015) until its use. For uid A gene ampliﬁcation the following primers
+UAL1939 B 5′ ATGGAATTTCGCCGATTTTGC 3′ and UAL 2105 B 5′AT-
+TGTTTGCCTCCCTGCTGC 3′ were used, with an ampliﬁcation product
+of 187 bp previously designed and evaluated by Heijnen and Medema
+(2006).
+
+2.2. Antimicrobial susceptibility test
+
+The antimicrobial susceptibility was assessed through a disk diﬀu-
+sion test
+standardized by the National Committee for Clinical
+Laboratory Standards (NCCLS). E. coli ATCC 25922 strain was used as
+control bacterial inoculum of each isolate was prepared in test tubes
+with Mueller Hinton broth medium (MH) (SMAC, Beckton Dickinson,
+USA). With turbidity pattern of 0.5 at McFarland scale which approxi-
+mately equivalent
+(CFU).
+Ceftriaxone (30 μg), ceftazidime (30 μg), Tetracycline (30 μg), nalidixic
+acid (30 μg), ciproﬂoxacin (5 μg), amikacin (10 μg) and gentamicin
+(10 μg) disks were used in susceptibility test (BBL™ Sensi-Disc™ Becton
+Dickinson. USA).
+
+colony forming units
+
+to 1–2 × 108
+
+2.3. Virulence factors
+
+The 126 isolates that ampliﬁed uid A gene were analyzed by
+multiplex PCR, for the presence of stx1, stx2 and eae. Using the primers
+and conditions described by (Blanco et al., 2003) (Table 1). PCR
+products were visualized by electrophoresis in 2% agarose gel stained
+with ethidium bromide.
+
+2.4. Serotyping
+
+46 E.coli isolates were serotyped through the expression of some
+virulence factor and carried out according to the procedure described
+by Orskov and Orskov (1984). The O antisera were produced in the
+reference laboratory for enteric pathogens in Mexico (SERUNAM,
+Mexico) for 185 Somatic, and the H antisera for 56 ﬂagellar antigens,
+and were obtained from the Statens Serum Institut (Copenhagen,
+Denmark).
+
+3. ERIC PCR
+
+The ampliﬁcation of bacterial DNA was performed in a ﬁnal volume
+of 50 μl containing 10 μl buﬀer, 6.0 μl Mg Cl2, 1.0 μl dNTPs, (dNTP
+Mix, Promega®, USA U151A) (200 μM of each dNTP) 1.0 μl ERIC 1
+(IDT®. USA Mfg. D 173852411), 1.0 μl ERIC 2 (IDT®. USA Mfg. D
+173852410), 0.5 μl Taq Polymerase, 27.5 μl free nuclease water and
+3.0 μl DNA of each sample. The PCR tests were carried out Termo BIO-
+Rad T100 Thermal Cycler. USA, under the following conditions: initial
+denaturation of 5 min at 94 °C, followed by 35 cycles of 1 min at 94 °C
+(denaturation), 1 min at 52 °C (alignment) and 1 min at 74 °C (elonga-
+tion) and ﬁnal extension of 6 min at 74 °C (Soler et al., 2003).
+ERIC-PCR product were displayed using 7 μl reaction product added
+to 3 μl loading buﬀer (Blue Orange 6X Loading Type PROMEGA. USA).
+Electrophoresis was conducted through 1.5% agarose gel in TBE Buﬀer
+(89 mM Tris, 89 mM boric acid y 2.5 mM EDTA) and ran for 60 min at
+74 V. Gels were stained with ethidium bromide (0.05 mg/L) and was
+placed in an ultraviolet transilluminator (Mini BIS Pro Biol-Imaging
+Sytem Uv. USA) for their observation.
+
+42
+
+E. Enriquez-Gómez et al.
+
+Small Ruminant Research 153 (2017) 41–47
+
+Fig. 1. Multiplex PCR band patterns of sheep STEC isolates in the State of Mexico. The stx1 gene 302 bp, the gene stx2 516 bp and the eae gene 775 bp. Lane 1, 100 bp DNA ladder
+(Invitrogen™ 15628-019. 0.1 to 1.5 kb, USA). Rail 2, E.coli reference strain (O157:H7 EDL993). Third lane, negative control (Corynebacterium pseudotubercolosis), 4th (E1/4.2 stx1), 5th
+(E2./1.2 stx1-2), 6th (E2/C2 stx1-2), 7th (E1/9 eae), 8th (E1/4.3 negative), 9th (E1/5.2 stx1), 10th (E1/6.1 stx1), 11th (E3/C1 stx1), 12th (E1/8 stx2), 13th (E5/C1 stx2), 14th (E8/stx2),
+15th (E2/6.1Stx1) and 16th (E7/C18 negative).
+
+Table 1
+Primers used for multiplex PCR.
+
+Gene
+
+Primer Oligonucleotide Sequences
+
+Fragment
+size (bp)
+
+Refrence
+
+stx1
+
+stx2
+
+eae
+
+VT1-A
+VT1-B
+
+VT2-A
+VT2-B
+
+EAE-1
+EAE-2
+
+CGCTAATGTCATTCGCTCTGC
+CGTGGTATAGCTACTGTCACC
+
+CTTCGGTATCCTATTCCCGG
+CTGCTGTGACAGTGACAAAACGC
+
+GAGAATGAAATAGAAGTCGT
+GCGGTATCTTTCGCGTAATCGCC
+
+302
+
+516
+
+775
+
+Blanco
+et al.
+(2003)
+Blanco
+et al.
+(2003)
+Blanco
+et al.
+(2003)
+
+Table 3
+E.coli isolates antibiotic resistance without any virulence factor expression and STEC
+isolates.
+
+E.coli isolates resistance without
+any virulence factor expression
+
+STEC isolates
+resistance
+
+Antibiotic No.
+
+TE
+NA
+GE
+CIP
+AM
+CAZ
+CTX
+
+39/80
+11/80
+5/80
+3/80
+0/80
+0/80
+0/80
+
+%
+
+No.
+
+48.7
+13.7
+6.2
+3.7
+0
+0
+0
+
+12/17
+8/17
+2/17
+0/17
+2/17
+0/17
+0/17
+
+%
+
+70.7
+47
+11.7
+0
+11.7
+0
+0
+
+Statistical analysis
+
+P > 0.05 (No signiﬁcant diﬀerences).
+
+A variance analysis was established for antibiotics resistance results
+between STEC and non STEC isolates. The virulence factors results were
+analyzed by descriptive statistics sorting data in tables.
+
+4. Results
+
+Regarding a total of 183 samples of the obtained rectal swabs, 126
+isolates were conﬁrmed by the ampliﬁcation of the uid A gene, which
+determines an E. coli isolate frequency of 68.8%. (Table 2). Of 126
+isolates, 46 expressed at least one of the studied virulence factors and
+were serotyped, while 80 did not express any of the studied virulence
+factors both isolates that expressed some or any virulence factor were
+subjected to in vitro sensitivity test (p > 0.05). (Table 3).
+
+Concerning E. coli antimicrobial resistance, the greatest resistance
+percentage was observed for tetracycline (TE) with 48.7% (39/80)
+followed by the nalidixic acid (NA) with 13.7% (11/80), gentamicin
+(GE) 6.2% (5/80), ciproﬂoxacin (CIP) 3.7% (3/80). Amikacin ceftriax-
+one and ceftazidime did not present any resistance.
+
+Table 2
+E.coli isolates no.
+
+UPP
+
+Municipal
+
+Sample No.
+
+E.coli BQ
+
+uidA
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+Xalatlaco
+Ocoyoacac
+Calimaya
+Metepec
+Temoaya
+Texcalyacac
+Jiquipilco
+Ocoyoacac
+
+20
+22
+20
+16
+25
+21
+36
+23
+183
+
+19/95%
+20/90.9%
+15/75%
+15/93.7%
+16/64%
+7/33.3%
+27/75%
+12/53.1%
+131/71.5%
+
+16/80%
+20/90.9%
+13/65%
+15/93.7%
+16/64%
+7/33.3%
+27/75%
+12/53.1%
+126/68.8%
+
+In 17/46 STEC isolates that expressed phenotypic resistance,
+tetracycline was the antibiotic with the largest number of resistant
+strains with 70.7% (12/17), nalidixic acid 47.7% (8/17), gentamicin
+11.7% (2/17), amikacin 11.7% (2/17), ciproﬂoxacin, ceftazidime and
+cefotaxime did not presented any resistance (Table 3). It was observed
+that 6 STEC isolates with diﬀerent serotypes and virulence genes
+expression proﬁle, expressed phenotypic resistance to more than one
+antibiotic (Table 4).
+
+46 isolates expressed some virulence genes 36.5% (126/46), of
+which: 28 (22.2%) expressed stx1, 3 expressed stx2 (2.3%), 13 expressed
+both stx1 and stx2 (10.3%) and two isolates expressed eae (1.5%)
+(Table 4).
+
+STEC isolates belonged to 19 diﬀerent serogroups O and 30 diﬀerent
+serotypes O:H. 68% of the isolates belonged to one of the following ﬁve
+serogroups: O8, O76, O118,O146, O153, O176, O185 and O187, 39.1%
+of
+the isolates belonged to the following serotypes: O76:H19,
+O118:H27, O146:H21, O176:NM and O187:H28. (Table 4)
+
+Forty percent of the isolates belonged to O79:H19, O118:H27 and
+O146:H21 serotypes (4 isolates/serotype). The 20% of the isolates
+belonged to O176:NM and O187:H21 serotypes(3 isolates/serotype)
+(Table 4).
+
+Its noteworthy mentioning the presence of O104:H7, O146:H21,
+O76:H19, and ONT:H21 serotypes causing diarrhea in humans.
+(Table 4)
+
+ERIC-PCR was realized to evaluate the clonal relationship between
+isolates that expressed some virulence factor, 44/46 STEC
+E. coli
+isolates showed a 95.6% of genetic diversity. Only two isolates obtained
+from male lambs, of the same production unit were sensitive to all used
+antibiotics and showed the same bands pattern through the expression
+of stx1 gene, which could mean a same clonal proﬁle. Only varied in
+serotype expression, one expressed O176:H19 serotype and the other
+
+43
+
+E. Enriquez-Gómez et al.
+
+Small Ruminant Research 153 (2017) 41–47
+
+Table 4
+STEC isolates serotypes and virulence factors of isolates obtained from healthy sheep
+feces.
+
+Virulence
+factores.
+
+Serotype
+
+Isolates
+
+isolates No Resistance
+
+stx1
+
+stx2
+
+E8 C13
+O2:NM
+E5 C1
+O8:H9
+E1 4.2
+O8:H20
+E2 5.1
+O8:H49
+E1 2.1
+O17:H18
+E7 C18
+O43:H2
+E7 C17
+O55:H19
+E1 3.1
+O65:H38
+E2 9.2
+O76:H19
+E7 C19
+O76:H19
+E3 M3
+O76:H19
+E3 M7
+O76:H19
+E2 4.2
+O76:NM
+E7 C1
+O76:NM
+E5 C10
+O104:H7
+E1 5.1
+O118:H27
+E1 9
+O118:H27
+E2 2.2
+O118:H27
+E1 8
+O118:H27
+O118:H41
+E1 6.1
+O128 AC:NM E5 C11
+E3 C5
+O139:NM
+O146:H21
+E2 5.2
+E4 C13
+O146:H21
+E2 4.1
+O146:H21
+E2 1.2
+O146:H21
+E3 C10
+O153:H21
+E3 M6
+O153:H21
+O154:H21
+E2 6.2
+E4 C19
+O174:H8
+E6 C15
+O176:NM
+E8 C19
+O176:NM
+E4 C18
+O176:NM
+E 6 C11
+O176:H9
+O176:H19
+E8 C6
+E 8 C16
+O176:H19
+E2 9.1
+O179:H8
+E4 C8
+O185:NM
+E1 5.2
+O185:H10
+O185:H19
+E7 C28
+E3 M10
+O187:H28
+E4 C11
+O187:H28
+E3 M10
+O187:H28
+E3 C4
+H7
+E3 C10
+H21
+O H
+E3 M5
+
+1
+1
+1
+1
+1
+1
+1
+1
+4
+
+2
+
+1
+4
+
+1
+1
+1
+4
+
+2
+
+1
+1
+3
+
+1
+2
+
+1
+1
+1
+1
+3
+
+1
+1
+1
+
+X
+X
+
+X
+
+proﬁle
+
+NA, TE
+S
+GM,TE
+S
+S
+NA,GM,TE
+TE
+NA,TE
+S
+S
+S
+S
+S
+S
+NA,TE
+S
+S
+S
+S
+S
+S
+AM
+S
+S
+NA
+NA
+AM
+S
+TE
+TE
+S
+S
+S
+S
+S
+S
+TE
+TE
+NA,TE
+NA
+S
+S
+S
+TE
+S
+S
+
+X
+X
+
+X
+X
+
+X
+X
+X
+X
+X
+X
+X
+X
+
+X
+
+X
+
+X
+X
+X
+
+X
+X
+
+X
+X
+X
+
+X
+X
+
+X
+X
+X
+X
+
+stx 1
+and 2
+
+eae
+
+X
+
+X
+
+X
+
+X
+
+X
+X
+X
+X
+
+X
+
+X
+
+X
+
+X
+X
+
+X
+
+X
+
+Abbreviations: Resistant to: TE: Tetracycline, GE: gentamycin, AM: Amikacin and NA:
+Nalidixic Acid. S: sensitive to antibiotics used: Tetracycline, Gentamicin, amikacin,
+nalidixic acid, ciproﬂoxacin, ceftazidime and ceftriaxone.
+O176:H̄ serotype (Fig. 2)
+
+5. Discussion
+
+The constant monitoring of the antibiotics used in animal husbandry
+is relevant to determine the presence and prevalence of resistant strains
+that potentially can be a risk factor for human health (Schroeder et al.,
+2002).
+
+With regard to the E.coli isolates antibiotics resistance, in this
+research we found a resistance to tetracycline of 48.7%, followed by
+nalidixic acid 13.7%, gentamicin 6.2% and ﬁnally ciproﬂoxacin with
+3.7%, amikacin, ceftazidime and ceftriaxone did not present phenotypic
+resistance. In Ontario province, Canada, 2012, reported 12% resistance
+to tetracycline and 100% sensitivity to ciproﬂoxacin and amikacin and
+nalidixic acid for E. coli isolates from sheep ﬂocks (Scott et al., 2012).
+
+44
+
+Scott, relates the resistance level of tetracycline to its inappropriate use
+in diets and drinking water that could be a risk factor to animal and
+human population.
+
+In Argentina Pantozzi et al. (2010) found in sheep E.coli isolates
+with a resistance of 21.0% to tetracycline, with similar reports for
+ceftriaxone of 5.3%. Regarding gentamicin, amikacin, ciproﬂoxacin and
+nalidixic acid, no resistance was reported. Novotna et al. (2005) in
+Jordan, single strain resistant to tetracycline was reported, with a
+percent well below the 39 isolates reported in the present investigation
+under diﬀerent geographic and productive conditions.
+
+In Spain sheep E.coli isolates, a resistance of 26.3% to nalidixic acid
+a little higher than what reported in the present work. (Orden et al.,
+2000). Blanco et al. (1996) in VTEC sheep isolates (Extremadura region,
+Spain), where the climatic conditions are diﬀerent presented resistance
+percentages to tetracycline 76.0% higher than what reported in our
+study, although it remains the antibiotic with the highest resistance
+percentage. Respecting gentamicin, the percent was similar to what
+estimated in this study, and for nalidixic acid, Blanco reported 6%, a
+lower percent than the reported in this study.
+
+In this research, STEC isolates were reported with phenotypic
+expression resistant
+to tetracycline 70.7%, nalidixic acid 47.1%,
+gentamicin 11.7%, amikacin 11.7%, regarding ciproﬂoxacin, ceftriax-
+one and ceftazidime no phenotypic resistance was reported. In addition,
+a phenotypic expression resistance was observable for more than one
+antibiotic, where four isolates expressed resistance to tetracycline-
+nalidixic acid, one isolate to tetracycline-gentamicin and one isolate
+to tetracycline-gentamicin-nalidixic acid.
+
+A work realized in Brazil with sheep STEC isolates of Dorper race, in
+tropical conditions (Ferreira et al., 2015) reported a lower percent for
+gentamicin 4.5% and highest resistance for tetracycline antibiotic with
+12.2%, a percent lower than the reported in this research. Ferreira et al.
+(2015) were able to detect resistance to ceftazidime with a 5.6%, in
+comparison with the present study where no cephalosporin resistance
+was reported, lastly, Ferreira et al. (2015) reported a 1.1% resistance
+for amikacin.
+
+In an investigation carried out in the Valley of Culiacán, Sinaloa
+with healthy backyard sheep Amézquita-López et al., (2016) reported
+STEC isolates, with resistance to amikacin, gentamicin and tetracycline,
+also reported isolates with serotype O146:H21 resistant to cephalospor-
+in, in the present work we obtained the same serotype but with
+resistance to nalidixic acid.
+to mention that
+Amézquita-López et al. (2016) reported in Mexico resistance to more
+than one antibiotic cephalothin-chloramphenicol, cephalothin-Genta-
+micin, Ampicillin-cephalothin-tetracycline,
+ampicillin-cephalothin-
+chloramphenicol-tetracycline in STEC O157 and No-O157 isolates.
+
+important
+
+It
+
+is
+
+In the USA (Edrington et al., 2009) reported resistance to more than
+one antibiotic in O157:H7 isolates obtained from lambs, reported two
+isolates resistant to two antibiotics and an insolate resistant to eight
+antibiotics.
+
+In the present investigation we were able to ﬁnd a 36.5% (46/126)
+of STEC isolates. The resistance percentage was similar to the one
+reported in India, 32% of
+isolates obtained from lambs under a
+transhumance system (Bandyopadhyay et al., 2011), in Iran 36.8%
+(Tahamtman and Namavari et al., 2014), in Spain 35% in healthy lambs
+(Rey et al., 2003), in Australia 31% (Djordjevic et al., 2001) and in New
+Zealand 48% of STEC in lambs (Cookson et al., 2006).
+
+There are reports of STEC slightly lower than that reported in this
+study, in Mexico 26% from healthy sheeps (Cuenca-Verde et al., 2013).
+In India reported 24.1% of STEC presentation in lambs with and
+without diarrhea (Wani et al., 2009), also in India, 24% found in
+lamb’s samples (Kumar et al., 2012). In Iran, a research established with
+healthy sheep 22.4% (Ghanbarpour and Kiani, 2013) and in China
+reported a STEC percent bit less of 19.8% in healthy sheep (Gu et al.,
+2011).
+
+In this investigation stx1 gene was reported as the virulence factor
+with the highest presentation frequency of 22.2%, followed by stx1-stx2
+
+E. Enriquez-Gómez et al.
+
+Small Ruminant Research 153 (2017) 41–47
+
+Fig. 2. ERIC-PCR bands pattern dendrogram of 46 E coli STEC isolates. 44 presented diﬀerent band patterns and two presented similar band patterns.
+
+10.3%, stx2 2.3%, regarding eae gene this paper shows a frequency of
+1.5%. There are diﬀerent investigations carried out for STEC detection
+around the world which is also considered as the distribution pattern of
+the virulence stx1, stx2 and eae genes, which coincide with the present
+study (Blanco et al., 2003; Brett et al., 2003; Zweifel et al., 2004; Wani
+et al., 2009; Cookson et al., 2006; Cuenca-Verde et al., 2013; Tahatman
+and Namavari, 2014; Ferreira et al., 2015) where stx1 presented the
+greater virulence factor percentage of all isolates followed by stx1-2,
+then stx2 and ﬁnally eae. In case of eae gene, this study reported similar
+results to those reported in Switzerland (Zweifel et al., 2001), Spain
+(Rey et al., 2003) and India (Bhat et al., 2008).
+
+These data suggest that the reported isolates when not expressing
+
+the stx1, stx2 and eae genes together, could be named atypical STEC and
+thus of low virulence, however, continue representing a risk factor to
+public health, since isolates have been reported lacking the expression
+of eae gene as a cause of diarrhea in humans (Strockbine et al., 1997;
+Nataro and Kaper 1998; Kumar et al., 2004).
+
+In this research, an isolate of serotype O104:H7 with expression of
+stx1 gene was detected, belonging to O104 serogroup. This serogroup
+gained more importance since it introduced a severe outbreak of
+hemolytic uremic syndrome in Germany in 2011 attributed to
+O104:H4 serotype present in products with plant origin, possibly water
+was contaminated with residues of ruminant’s feces (Mora et al., 2011;
+Duﬀy et al., 2014).
+
+45
+
+E. Enriquez-Gómez et al.
+
+Small Ruminant Research 153 (2017) 41–47
+
+Another diarrhea causing STEC serotype in human population is
+O146:H21, in this investigation four isolates are reported with expres-
+sion of stx1 and stx2 genes. Researches in other countries reported this
+same serotype from healthy adult sheep and lambs, in Spain (Blanco
+et al., 2003; Rey et al., 2003; Mora et al., 2005); Mexico (Cuenca-Verde
+et al., 2013 Amézquita-López et al., 2014), Brazil (Vettorato et al.,
+2009) and Norway (Urdahl et al., 2001) isolates from healthy adult
+sheep and lambs. Serotypes O104:H7 and O146:H21 along with
+O76:H19 serotype (with expression of stx1 gene) and ONT:H21 (with
+expression of stx1 gene) found in this study are responsible for cases of
+diarrhea in humans in Mexico; which makes these serotypes,
+in
+particular, a possible risk factor for public health (Eslava et al., 1994).
+With regard to ERIC-PCR study, 44 of the 46 isolates showed
+diﬀerent bands patterns, only two isolates showed similar bands
+patterns, which suggest a same clonal proﬁle; these two isolates possess
+the same resistance pattern to the used antibiotics, expressing stx1 gene
+and belonged to the same serogroup, diﬀer only in the ﬂagellar H
+antigen expression, the isolate 008 C16 express O176:H19 serotype,
+while 008 C2 isolate express O176:H̄ serotype. This can be explained by
+the variation in H antigen expression of the phase variation phenom-
+enon (Stainer et al., 1994), which explains that some E. coli isolates
+have two genetic determinants sets for diﬀerent ﬂagellar antigens,
+susceptible to alternation regarding its phenotypic expression, as
+bacteria multiply. Presenting with a certain probability, the variant
+ﬂiC H19 ﬂagellar gene is responsible for this variation, because it is
+responsible for proteins polymerization, forming bacterial ﬂagellar
+ﬁlaments (Osek and Gallien, 2002).
+
+6. Conclusions
+
+The STEC isolates frequency was 36.5% (46/126), no signiﬁcant
+statistically diﬀerence was observed for antibiotics resistance among
+E.coli isolates and STEC. It was not able to detect isolates with the stx1,
+stx2 and eae genes expression simultaneously, through which STEC
+isolates fell into low virulence atypical STEC category. STEC isolates
+with serotypes that cause diarrhea in humans were detected with
+importance to Mexican public health,
+like O146:H21, O104:H7,
+O76:H19 and ONT:H21.
+
+Funding
+
+This work is part of the Master studies in Agricultural Sciences and
+Natural Resources of Enriquez-Gómez who received CONACyT scholar-
+ship (No. 394480) and COMECyT (No. 16BTIM0007). The research
+work was funded by the Autonomous University of the State of Mexico
+(Registration No. 3560/2013 CHT).
+
+Acknowledgements
+
+We appreciate the help and cooperation of the technical processes
+laboratory, to TQAC Luis Antonio Leon Alamilla, TA Gabriel Pérez Soto
+and Biol. Delia Licona Moreno of the Department of Public Health,
+Faculty of Medicine, Universidad Nacional Autónoma de México.
+
+References
+
+Achenson, D.W.K., Keusch, G.T., 1996. Which Shiga toxin-producing types of E. coli are
+
+important? ASM News 62, 302–306.
+
+Amézquita-López, B.A., Quiñones, B., Soto-Beltrán, M., Bertram, G.L., Yambao, J.C.,
+Lugo-Melchor, O.Y., Chaidez, C., 2016. Antimicrobial resistance proﬁles of Shiga
+toxin-producing Escherichia coli O157 and Non- 157 recovered from domestic farm
+animals in rural communities in Northwestern Mexico. Antimicrob. Resist. Infect.
+Control. 5 (1). http://dx.doi.org/10.1186/s13756-015-0100.
+
+Amézquita-López, B.A., Quiñones, B., Cooley, M.B., León-Félix, J., Castro del Campo, N.,
+
+Mandrell, R.E., Jiménez, M., Chaidez, C., 2014. Genotypic analyses of Shiga
+toxin–producing Escherichia coli O157 and non-O157 recovered from feces of
+domestic animals on rural farms in Mexico. Front. Cell. Infec.t Microbiol. 4, 7. http://
+dx.doi.org/10.3389/fcimb.2014.00007.
+
+Bai, J., Paddock, Z.D., Shi, X., Li, S., An, B., Nagaraja, T.G., 2012. Applicability of a
+
+multiplex PCR to detect the seven major shiga toxin-producing Escherichia coli based
+on genes that code for serogroup-speciﬁc O-antigens and major virulence factors in
+cattle feces. Foodborne Pathog. Dis. 9, 541–548. http://dx.doi.org/10.1089/fpd.
+2011.1082.
+
+Bandyopadhyay, S., Mahanti, A., Samanta, I., Dutta, T.K., Monoj, T., Ghosh, A., Bera, K.,
+
+Bandyopadhyay, S., Bhattacharya, D., 2011. Virulence repertoire of Shiga toxin-
+producing Escherichia coli (STEC) and enterotoxigenic Escherichia coli (ETEC) from
+diarrhoeic lambs of Arunachal Pradesh, India.T rop. Anim. Health Prod. 43, 705–710.
+http://dx.doi.org/10.1007/s11250-010-975.
+
+Beutin, L., Geiger, D., Zimmermann, S., Karch, H., 1995. Virulence markers of Shiga like
+toxin producing Escherichia coli isolates originating from healthy domestic animals of
+diﬀerent species. J. Clin. Microbiol. 33, 631–635.
+
+Bhat, M.A., Nishikawa, Y., Wani, S.A., 2008. Prevalence and virulence gene proﬁles of
+
+Shiga toxin-producing Escherichia coli and enteropathogenic Escherichia coli from
+diarrhoeic and healthy lambs in India. S. Rum. Res. 75, 65–70.
+
+Blanco, M., Blanco, J., Blanco, J.E., González, E.A., Alonso, M.P., Maas, H., Jansen, W.H.,
+1996. Prevalence and characteristics of human and bovine verotoxigenic Escherichia
+coli isolates isolated in Galicia (North Westerns Spain). Eur. J. Epidemiol. 12, 13–19.
+
+Blanco, M., Blanco, J.E., Mora, A., Rey, J., Alonso, J.M., Hermoso, M., Alonso, M.P.,
+Dahbi, G., González, E.A., Bernárdez, M.I., Blanco, J., 2003. Serotypes virulence
+genes, and intimin types of Shiga toxin (verotoxin)-producing Escherichia coli isolates
+from healthy sheep in Spain. J. Clin. Microb. 41, 1351–1355.
+
+Brett, K., Ramachandran, V., Hornitzky, M., Bettelheim, K.A., Walker, M.J., Djordjevic, S.,
+
+2003. stx1c Is the Most Common Shiga Toxin 1 Subtype among Shiga Toxin-
+Producing Escherichia coli Isolates from Sheep but Not among Isolates from Cattle. J.
+Clin. Microbiol. 926–936. http://dx.doi.org/10.1128/jcm.41.3.926-936.2003.
+
+Burk, C., Dietrich, R., Acar, G., Moravek, M., Bülte, M., Märtlbauer, E., 2003.
+
+Identiﬁcation and characterization of a new variant of Shiga toxin 1 in Escherichia coli
+ONT:H19 of bovine origin. J. Clin. Microbiol. 41, 2106–2112.
+
+CLSI (Clinical and Laboratory Estándar Institute). 2012. Performance Standars for
+
+Antimicrobial Suceptibilty, 22nd informational supplement. M100-S22. Wayne, PA,
+USA, Coombes, B.K., Gilmour,M.W. and Goodman, C.D., 2011. The evolution of
+virulence in non-O157 Shiga toxin-producing Escherichia coli. Front. Microbial.
+2, 1–3.
+
+Callaway, T.R., Anderson, R.C., Tellez, G.Z., Rosario, C., Nava, G.M., Eslava, C., Blanco,
+
+M.A., Quiroz, M.A., Olguín, A., Herradora, M., Edrington, T.S., Genovese, K.J.,
+Harvey, R.B., Nisbet, D.J., 2004. Prevalence of Escherichia coli O157 in cattle and
+swine in central Mexico. J. Food Prot. 67, 2274–2276.
+
+Caprioli, A., Morabito, S., Brugère, H., Oswald, E., 2005. Enterohaemorrhagic Escherichia
+coli: emerging issues on virulence and modes of transmission. Vet. Res. 36, 289–311.
+
+Cookson, A.L., Taylor, S.C.S., Bennett, J., Thomson-Carter, F., Attwood, G.T., 2006.
+
+Serotypes and analysis of distribution of Shiga toxin-producing Escherichia coli from
+cattle and sheep in the lower North Island, New Zealand. N. Z. Vet. J. 54, 78–84.
+http://dx.doi.org/10.1080/00480169.2006.36616.
+
+Cuenca-Verde, N.M., Tórtora, P.J., Eslava Campos, C., Tenorio. G.V., Diaz-Aparício, E.,
+Alba, H.F., Cuenca-Verde, C., Valdivia, A., 2013. Aislamiento de E. coli productora de
+shiga-like toxin en ovinos con diarrea en un sistema de producción intensiva.
+Memorias del XVII congreso internacional de ovinocultura 23 al 25 de Octubre de
+2013. Acapulco.Guerrero, México . pp 282.
+
+Djordjevic, S.P., Hornitzky, M.A., Bailey, G., Gill, P., Vanselow, B., Walker, K., 2001.
+Virulence properties and serotypes of Shiga toxin-producing Escherichia coli from
+healthy Australian slaughter-age sheep. J. Clin. Microbiol. 39, 2017–2021. http://dx.
+doi.org/10.1128/JCM.39.5. 2017-2021.2001.
+
+Duﬀy, G., Burgess, C.M., Bolton, D.J., 2014. A review of factors that aﬀect transmission
+and survival of verocytotoxigenic Escherichia coli in the European farm to fork beef
+chain. Meat Sci. 97, 375–383. http://dx.doi.org/10.1016/j.meatsci.2014.01.009.
+
+Edrington, T., Long, M., Ross, T., Thomas, J., Callaway, T.R., Anderson, R.C., Craddock,
+F., Salisbury, M., Nisbet, D.J., 2009. Prevalence and Antimicrobial Resistance Proﬁles
+of Escherichia coli O157:H7 and Salmonella Isolated from Feedlot Lambs. J. Food
+Protect. 72, 1713–1717.
+
+Eslava, C., Mateo, J., Cravioto. A., 1994. Cepas de Escherichia coli relacionadas con la
+diarrea. en: diagnóstico de laboratorio de infecciones gastrointestinales. Giono S,
+Escobar A, Valdespino JL. Secretaria de Salud. México: 251.
+
+Evans, J., Knight, H.I., Smith, A.W., Pearce, M.C., Hall, M., Foster, G., Low, J.C., Gunn,
+
+G.J., 2008. Ceﬁxime–tellurite rhamnose MacConkey agar for isolation of Vero
+cytotoxin-producing Escherichia coli serogroup O26 from Scottish cattle and sheep
+faeces. Lett. App. Microbiol. 47, 148–152.
+
+Ferreira, M.R.A., Silva, T.S., Stella, A.E., Conceição, F.R., dos Reis, E.F., Moreira, C.N.,
+2015. Detection of virulence factors and antimicrobial resistance patterns in shiga
+toxin-producing Escherichia coli isolates from sheep. Pesq. Vet. Bras. 35, 775–780.
+Ghanbarpour, R., Kiani, M., 2013. Characterization of non-O157 shiga toxin-producing
+Escherichia coli isolates from healthy fat-tailed sheep in southeastern of Iran. Trop.
+Anim. Health Prod. 45, 641–648. http://dx.doi.org/10.1007/s11250-012-0271-5.
+Goldwater, P.N., Bettelheim, K.A., 1995. Hemolytic uremic syndrome due to Shiga-like
+toxin producing Escherichia coli O48:H21 in South Australia. Emerg. Infect. Dis. 1,
+132–133.
+
+Gu, C., Xue, T., Xu, T., Gao, S., Jiao, X., Liu, X., 2011. Epidemiological investigation of
+Shiga toxin-producing Escherichia coli isolates originated from healthy sheepin one
+farm of Jiangsu Province and their pathogenicity. Wei Sheng Wu Xue Bao 51,
+676–683.
+
+Heijnen, L., Medema, G., 2006. Quantitative detection of E. coli: E. coli O157 and other
+shiga toxin producing E. coli in water samples using a culture method combined with
+real-time PCR. J. Water Health. 4, 487–498.
+
+Kumar, S.H., Karunasagar, I., Karunasagar, I., Teizou, T., Shima, K., Yamasaki, S., 2004.
+
+Characterization of Shiga toxin-producing Escherichia coli (STEC) isolated from
+
+46
+
+E. Enriquez-Gómez et al.
+
+Small Ruminant Research 153 (2017) 41–47
+
+seafood and beef. FEMS Microbiol. Lett. 233, 173–178.
+
+Kumar, A., Taneja, N., Kumar, Y., Sharma, M., 2012. Detection of Shiga toxin variants
+
+among Shiga toxin-forming Escherichia coli isolates from animal stool, meat and
+human stool samples in India. J. Appl. Microbiol. 113, 1208–1216. http://dx.doi.org/
+10.1111/j.1365-2672.2012.05415.x.
+
+Méndez, A., Maldonado, A., Riuz-Villamor, E., Luque, I., Bautista M.J., Enfermedades
+neonatales. Huerta, B., Sierra, E., Borge, C. http://www.asmexcriadoresdeovinos.
+org/empezar/neonatales.html (Consultadoabril 2013).
+
+Momtaz, H., Farzan, R., Rahimi, E., Dehkordi, F.S., Souod, N., 2012. Molecular
+
+characterization of shiga toxin-producing Escherichia coli isolated from ruminant and
+donkey raw milk samples and traditional dairy products in Iran. Sci. World J. 2012,
+231342. http://dx.doi.org/10.1100/2012/231342.
+
+Mora, A.E., Blanco, J.A., Blanco, M., Pilar Alonso, M., Dhabi, G., Echeita, A., Enrique, A.,
+González, M., Bernárdez, I., Blanco, J., 2005. Antimicrobial resistance of Shiga toxin
+(verotoxin)-producing Escherichia coli O157:H7 and non-O157 strains isolated from
+humans, cattle, sheep and food in Spain. Res. Microbiol. 156, 793–806. http://dx.doi.
+org/10.1016/resmic.2005.03.006.
+
+Mora, A., Herrera, A., López, C., Dahb, G., Mamani, R., Pita, J.M., Alonso, M.P., Llovo, J.,
+
+Bernárdez, M.I., Blanco, J.E., Blanco, M., Blanco, J., 2011. Characteristics of the
+Shiga-toxin-producing enteroaggregative Escherichia coli O104:H4 German outbreak
+strain and of STEC strains isolated in Spain. Int. Microbiol. 14, 121–141. http://dx.
+doi.org/10.2436/20.1501.01.142.
+
+Narvaez-Bravo, C., Miller, M.F., Jackson, T., Jackson, S., Rodas- Gonzalez, A., Pond, K.,
+
+Echeverry, A., Brashears, M.M., 2013. Salmonella and Escherichia coli O157:H7
+prevalence in cattle and on carcasses in a vertically integrated feedlot and harvest
+plant in Mexico. J. Food. Prot. 76, 786–795. http://dx.doi.org/10.4315/0362-028X.
+JFP-12-079.
+
+Nataro, J.P., Kaper, J.B., 1998. Diarrheagenic Escherichia coli. Clin. Microbiol. Rev. 11,
+
+142–201.
+
+Nguyen, Y., Sperandio, V., 2012. Enterohemorrhagic E. coli (EHEC) pathogenesis. Front.
+
+Cell Infect. Microbiol. 2, 90. http://dx.doi.org/10.3389/fcimb.2012.00090.
+
+Pilar, M., Usera, M., González, E., Bernárdez, M., Blanco, J., 2003. Serotypes: phage
+types and virulence genes of Shiga-producing Escherichia coli isolated from sheep in
+Spain. Vet. Microbiol. 94, 47–56.
+
+Reyes-Rodríguez, N.E., Soriano-Vargas, E., Barba-León, J., Navarro, A., Talavera-Rojas,
+M., Sanso, A.M., Bustamante, A.V., 2015. Genetic characterization of Escherichia coli
+15 isolated from cattle carcasses and feces in Mexico State. J. Food Prot. 78http://dx.
+doi.org/10.4315/0362-028X.JFP-14-425. (E796-16 801).
+
+Russmann, H.E., Kothe, H., Schmidt, S., Franke, D., Harmsen, A., Caprioli, C., Karch, H.,
+
+1995. Genotyping of Shiga-like toxin genes in non-O157 Escherichia coli strains
+associated with haemolytic uraemic syndrome. J. Med. Microbiol. 42, 404–410.
+http://dx.doi.org/10.1099/00222615-42-6-404.
+
+Saei, D.H., Ahmadi, E., Kazemnia, A., Ahmadinia, M., 2010. Molecular identiﬁcation and
+antibiotic susceptibility patterns of Escherichia coli isolates from sheep faeces samples.
+Comp. Clin. Pathol. 21, 467–473. http://dx.doi.org/10.1007/s00580-010-1134-y.
+
+Schetuz, F., Strockbine, N.A., 2005. Genus Escherichia. In: Garrity, G.M., Brenner, D.J.,
+Krieg, N:r:, Staley, J.Y. (Eds.), Bergeýs Manual of Sistematic Bacteriology. Springer,
+New York, NY, pp. 607–624.
+
+Schmidt, H., Scheef, J., Morabito, S., Caprioli, A., Wieler, L.H., Karch, H., 2000. A new
+
+Shiga toxin 2 variant (Stx2f) from Escherichia coli isolated from pigeons. Appl.
+Environ. Microbiol. 66, 1205–1208.
+
+Schroeder, M.C., Zhao, C., Debroy, C., Torcolini, J., Zhao, S., White, D.G., Wagner, D.D.,
+
+McDermott, F.P., Walker, D.R., Meng, J., 2002. Antimicrobial Resistence of E.coli
+O157 Isolated from humans, cattle, Swine and food. Appl. Environ. Microbiol. 68,
+576–581.
+
+Scott, L., Menzies, P., Reid-Smith, R.J., Avery, B.P., McEwen, S.A., Moon, C.S., Berke, O.,
+2012. Antimicrobial resistance in fecal generic Escherichia coli and Salmonella spp.
+obtained from Ontario sheep ﬂocks and associations between antimicrobial use and
+resistance. Can. J. Vet. Res. 76, 109–119.
+
+Soler, L., Figueras, M.J., Chacón, M.R., Guarro, J., Martinez-Murcia, A.J., 2003.
+
+Comparison of three molecular methods for typing Aermonoa popoﬃ isolates.
+Antonie Van Leeuwenhoek 83, 341–349.
+
+Novotna, R., Alexa, P., Hamrik, J., Madanata, A., Smol, J., Cizek, A., 2005. Isolation and
+
+Stainer, R.Y., Ingraham, J.l., Mark, L., Wheels, Y., 1994. Microbiología, 2a ed. Editorial
+
+characterization Shiga toxin-producing Escherichia coli from sheep and goats in
+Jordan with evidence of multiresistant serotype O157:H7. Vet. Med. Czech. 50,
+111–118.
+
+Orden, J.A., Ruiz-Santa-Quintera, J.A., García, S., Cid, D., De la Fuente, R., 2000.
+
+Quinolone resistance in Escherichia coli strains isolated from diarrhoeic lambs in
+Spain. Short communication. Vet. Rec. 147, 576–578.
+
+Orskov, F., Orskov, I., 1984. Serotyping of Escherichia coli. In: Bergan, T. (Ed.), Methods in
+
+Microbiology. Academic Press Ltd, London, pp. 43–112.
+
+Osek, J., Gallien, P., 2002. Molecular analysis of Escherichia coli O157 strains isolated
+
+from cattle and pigs by the use of PCR and pulsed-ﬁeld gel electrophoresis methods.
+Vet. Med. 47, 149–158.
+
+Pantozzi, F., Moredo, F.A., Vigo, G.B.L., Giacoboni, G.I., 2010. Resistencia a los
+antimicrobianos en bacterias indicadoras y zoonóticas aisladas de animales
+domésticos en Argentina. Rev. Argent. Microbiol. 42, 49–52.
+
+Paton, A.W., Paton, J.C., 1998a. Detection and characterization of Shiga toxigenic
+
+Escherichia coli by using multiplex PCR assays for stx1, stx2, eae, enterohemorrhagic
+E. coli hlyA, rfbo111, and rfb o157. J. Clin. Microbiol. 36, 598–602.
+
+Paton, J.C., Paton, A.W., 1998b. Pathogenesis and diagnosis of Shiga toxin- producing
+
+Escherichia coli infections. Clin. Microbiol. Rev. 11, 450–479.
+
+Piérard, D., Muyldermans, G., Moriau, L., Stevens, D., Lauwers, S., 1998. Identiﬁcation of
+new verocytotoxin type 2 variant B-subunit genes in human and animal Escherichia
+coli isolates. J. Clin. Microbiol. 36, 3317–3322.
+
+Rangel-Vargas, E., Gomez-Aldapa, C.A., Torres-Vitela, M., Villarruel-Lopez, A., Gordillo-
+
+Martinez, A.J., Castro-Rosas, J., 2015. Presence and Correlation of Some Enteric
+Indicator Bacteria, Diarrheageic Escherichia coli Pathotypes, and Salmonella Serotypes
+in Alfalfa Sprouts from Local Retail Markets in Pachuca, Mexico. J. Food Prot. 78 (3),
+609–614. http://dx.doi.org/10.4315/0362-028X.JFP-14-229.
+
+Rey, J., Blanco, J., Blanco, M., Mora, A., Dahbi, G., Alonso, J., Hermoso, M., Hermoso, J.,
+
+Reverté SA.
+
+Strockbine, N., Sowers, E., Greene, T., Hayes, P., Griﬃn, P., Wells, G., 1997.
+
+Characterization of Shiga-toxin producing non-O157 Escherichia coli from the United
+States, 1983-1997. Abstracts of the 3rd International Symposium and Workshop on
+ShigaToxin (Verotoxin).
+
+Tahatman, Y., Namavari, M., 2014. Prevalence of O157 and Non O157 in Iranian
+
+Domestic sheep. Pak. J Biol. Sci. 1, 104–108.
+
+Urdahl, A.M., Alvseike, O., Skjerve, E., Wasteson, Y., 2001. Shiga toxin genes (stx) in
+
+Norwegian sheep herds. Epidemiol. Infect. 127, 129–134
+(10.1017S0950268801005751).
+
+Vettorato, M.P., de Castro, A.F.P., Cergole-Novella, M.C., Camargo, F.L.L., Irino, K., Guth,
+
+B.E.C., 2009. Shiga toxin-producing Escherichia coli and atypical enteropathogenic
+Escherichia coli strains isolated from healthy sheep of diﬀerent populations in São
+Paulo, Brazil. Lett. Appl. Microbiol. 49, 53–59.
+
+Wayne WWD. (1991). Bioestadística: Bases para el análisis de las ciencias de la salud.
+
+Limusa S.A de C.V. México D.F. 6° Impresión.
+
+Wani, S.A., Hussain, I., Fayaz, I., Mir, M.A., Nishikawa, Y., 2009. Subtype analysis of stx1,
+stx2 and eae genes in Shiga toxin-producing Escherichia coli (STEC) and typical and
+atypical enteropathogenic E. coli (EPEC) from lambs in India. Short Communication.
+Vet. J. 182, 489–490. http://dx.doi.org/10.1016/j.tvjl.2008.07.017.
+
+Zhang, W.L., Kohler, B., Oswald, E., Beutin, L., Karch, H., Morabito, S., Caprioli, A.,
+
+Suerbaum, S., Schmidt, H., 2002. Genetic diversity of intimin genes of attaching and
+eﬀacing Escherichia coli strains. J. Clin. Microbiol. 40, 4486–4492. http://dx.doi.org/
+10.1128/JCM.40.12.4486-4492.2002.
+
+Zweifel, C., Blanco, J.E., Blanco, M., Blanco, J., Stephana, R., 2004. Serotypes and
+
+virulence genes of ovine non-O157 Shigatoxin-producing Escherichia coli in
+Switzerland. Int. J. Food. Microbiol. 95, 19–27. http://dx.doi.org/10.1016/j.
+ijfoodmicro.2004.01.015.
+
+47
+
+

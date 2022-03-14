@@ -1,0 +1,2423 @@
+MICROBIAL DRUG RESISTANCE
+Volume 24, Number 7, 2018
+Mary Ann Liebert, Inc.
+DOI: 10.1089/mdr.2018.0154
+
+Antimicrobial Resistance in Commensal Escherichia coli
+Isolated from Pigs and Pork Derived from Farms Either
+
+Routinely Using or Not Using In-Feed Antimicrobials
+
+Kittitat Lugsomya,1 Jitrapa Yindee,1 Waree Niyomtham,1 Chanwit Tribuddharat,2
+
+Padet Tummaruk,3 David J. Hampson,4,5 and Nuvee Prapasarakul1,6
+
+The aims of this study were (i) to evaluate whether routine in-feed antimicrobial use in pigs or not resulted in
+differences in antimicrobial resistance (AMR) E. coli at different pig producing stages, and (ii) to determine
+whether resistant strains were presented in pig meat postslaughter. A total of 300 commensal E. coli isolates
+were obtained and examined for antibiograms, AMR genes, plasmid replicons, and molecular types. The
+isolates were from two farms either using (A) or not using in-feed antimicrobials (NA), sampled four times
+during the production cycle and once postslaughter. E. coli resistant to aminoglycosides containing aadA1,
+aadA2, and aadB and extended-spectrum beta-lactamase-producing (ESBLP) E. coli containing blaCTX-M-1
+were signiﬁcantly increased in the nursery and growing periods in farm A compared to farm NA. IncI1-Ig and
+IncHI2 were common in the nursery period and were shown to transfer blaCTX-M genes by conjugation. ST10
+was the most common type only found in live pigs. ST604, ST877, ST1209, and ST2798 ESBLP were found
+only in live pigs, whereas ST72, ST302, and ST402 ESBLP were found in pig meat.
+
+Keywords: antimicrobial resistance, Escherichia coli, extended-spectrum beta-lactamese-producing Escherichia
+coli, longitudinal study, pig production, pork
+
+Introduction
+
+T he ongoing increase in antimicrobial
+
+resistance
+(AMR) in enteric bacteria in production animals and
+their potential transmission to humans represent a major
+threat to public health.1 Commensal enteric bacteria such
+as Escherichia coli (E. coli), which reside for prolonged
+periods in the intestinal tract, potentially represent an im-
+portant reservoir of AMR in the food chain, and moreover
+they make good representative markers for investigating
+dynamic changes in AMR genes.2 Even though the source
+of AMR has not always been identiﬁed using molecular
+epidemiological analysis or DNA-based data, bacteria from
+livestock are believed to be a major source of AMR in the
+environment, and resistant bacteria and resistance genes
+may be acquired by the human gut microbiome.3
+
+Some contract pig-rearing farms in Thailand routinely use
+antimicrobials under veterinary prescription as feed addi-
+tives for prophylaxis against bacterial infections and/or as
+growth promoters. This use is problematic as it is increasingly
+understood that imprudent application of antimicrobials dur-
+ing the production cycle may increase the occurrence of
+AMR bacteria on farms, especially during the immediate
+postweaning ‘‘nursery’’ period.4 To date, most studies have
+only involved cross-sectional observations taken at speciﬁc
+periods of production, with the studied farms having a lack of
+availability of historical data about antimicrobial use.5 A
+more holistic understanding should result from longitudinal
+surveillance at different points through the production cycle
+to meat at slaughter, especially if exposure or lack of expo-
+sure to antimicrobials can be recorded. Such studies should
+indicate the likelihood of transmission of AMR bacterial from
+
+1Department of Veterinary Microbiology, Faculty of Veterinary Science, Chulalongkorn University, Bangkok, Thailand.
+2Department of Microbiology, Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok, Thailand.
+3Department of Obstetrics Gynaecology and Reproduction, Faculty of Veterinary Science, Chulalongkorn University, Bangkok,
+
+Thailand.
+
+4School of Veterinary and Life Sciences, Murdoch University, Perth, Australia.
+5College of Veterinary and Life Sciences, City University of Hong Kong, Kowloon Tong, Hong Kong SARS.
+6Diagnosis and Monitoring of Animal Pathogens Research Unit, Chulalongkorn University, Bangkok, Thailand.
+ª Kittitat Lugsomya et al., 2018; Published by Mary Ann Liebert, Inc. This Open Access article is distributed under the terms of the
+Creative Commons License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in
+any medium, provided the original work is properly cited.
+
+1054
+
+MDR IN COMMENSAL E. COLI: TEMPORAL CHANGES IN COHORTS OF PIGS
+
+1055
+
+animals on the farm to the product, and hence to the
+consumer.5
+
+The aims of this study were (i) to look for alterations in
+AMR and characteristics of commensal E. coli isolated from
+cohorts of pigs sampled at different phases during the pro-
+duction cycle on farms, which either were routinely using or
+not using in-feed antimicrobials, and (ii) to look for simi-
+larities between E. coli contaminating pig meat and those
+recovered from the same pigs on the two farms.
+
+Materials and Methods
+
+Farms
+
+The study was undertaken at two multisite industrial pig
+farms from Nakhon Pathom and Chainart Provinces, re-
+spectively, both of which were run following the Thai
+standard livestock farm criteria under the guidance of the
+Department of Livestock Development. These were desig-
+nated farm A (using antibiotics) and farm NA (not using
+antibiotics). In farm A in Nakhon Pathom, a combination
+of tiamulin and amoxicillin at 100 ppm and 250 ppm, re-
+spectively, were routinely mixed into the feed during the
+postweaning nursery and growing periods. In farm NA
+located in Chainart, antimicrobials had not been used as a
+feed additive for over 10 years. Enroﬂoxacin injections
+were used in the case of symptomatic bacterial infections
+in the preweaning period; however; all such treated pigs
+were excluded from this study. Both farms had over 1,000
+sows, had no pig replacement from outside sources, used
+an all-in all-out production system, and had consistent man-
+agement for at least 2 years in terms of antimicrobial use and
+sanitary and biosecurity measures taken. The farms were well
+managed and kept good records of production and antimi-
+crobial use. On farm A, antimicrobial use was withdrawn at
+least 30 days before the pigs were slaughtered.
+
+Animal selection and timing of sampling
+
+For each farm, one healthy pig from each of ten different
+litters was selected for use in the experiment (a total 10 pigs
+per group). Each pig was ear tagged and sampled at ﬁve
+periods up to and including postslaughter: the neonatal pe-
+riod (at 5 days of age); the postweaning nursery period (at 8
+weeks of age); the growing period (at 14 weeks of age); the
+ﬁnishing period (at 24 weeks of age, just before transport to
+the abattoir); and following slaughter at the abattoir. None
+of the pigs showed signs of ill health as judged by weekly
+routine clinical inspection by veterinarians and the farmer’s
+daily observations, nor did they receive therapeutic antimi-
+crobials during the production cycle. The pigs from the two
+farms were killed at two different abattoirs.
+
+staff, half carcasses were suspended on hooks before being
+moved for subsequent retail sale. A sterile scalpel blade
+was used to excise at least 25 g of meat from the biceps
+femoris muscle from a cross-section of the previously
+opened thigh area of each hanging half-carcass. All sam-
+ples were delivered to the laboratory at 4°C within
+24 hours. The rectal swabs were suspended in 0.85% so-
+dium chloride solution (NSS) and directly spread on Eosin
+Methylene Blue (EMB) (Oxoid) agar.6 For rectal feces, at
+-4 and the solutions
+least 5 g was diluted 10-fold to 10
+plated to EMB agar. One gram of each meat sample was
+placed in a sterile plastic bag with 9 mL of sterile normal
+saline and blended in a stomacher (Interscience Malaysia)
+for 3 minutes. After vigorously shaking, 100 mL of the
+suspension was spread on EMB agar.7 All plates were in-
+cubated overnight at 37°C. For each sampling time for
+each animal, three representative colonies from the highest
+dilution plate were selected for further characterization.
+Colonies presenting a metallic sheen on EMB plates were
+selected and conﬁrmed as E. coli by their IMViC bio-
+chemical reactions, comprising an indole test.8
+
+Antibiogram and extended-spectrum beta-lactamase
+phenotype conﬁrmation
+
+The basic procedures followed have been described previ-
+ously.9 The minimal inhibitory concentration of antimicrobials
+for E. coli were determined using the AST-GN 38 test kit in the
+Vitek2 compact automated susceptibility level detection ap-
+paratus (BioMe´rieux, France). The 18 antimicrobials or com-
+bination of antimicrobials used were as follows: amikacin (AK:
+2–64 mg/mL), amoxicillin (AMX: 2–32 mg/mL), amoxicillin/
+clavulanic acid (AMC: 2/1-32/16 mg/mL), ampicillin (AMP:
+2–32 mg/mL), cefalexin (CEX: 4–64 mg/mL), cefpirome (CPR:
+2–16 mg/mL), cefpodoxime (CPD: 0.25–8 mg/mL), ceftiofur
+(XNL: 1–8 mg/mL), chloramphenicol (C: 2–64 mg/mL), en-
+roﬂoxacin (ENR: 0.125–4 mg/mL), gentamicin (GEN: 2–
+64 mg/mL),
+imipenem (IMP: 1–16 mg/mL), marboﬂoxacin
+(MBRL: 0.5–4 mg/mL), nitrofurantoin (NIT: 16–512 mg/mL),
+piperacillin (PIP: 4–128 mg/mL), tetracycline (TET: 1–16 mg/
+mL), tobramycin (TOB: 4–16 mg/mL), and trimethoprim/sulfa-
+methoxazole (SXT: 1/19-16/304 mg/mL). E. coli ATCC 25922
+was used as the control strain. The interpretation of the suscep-
+tibility levels for AMP, CPD, CPR, XNL, GEN, ENR, MBR, and
+TET was performed following the Clinical Laboratory Standards
+(CLSI) for antimicrobial disks and testing for bacteria isolated
+from animals (VET2-0S3),10 and interpretation for AMX, PIP,
+AMC, CEX, IMP, AK, TOB, NIT, and SXT was followed ac-
+cording to the CLSI standards for antimicrobial susceptibility
+testing (M100-S25).11
+
+Sample collection and bacterial identiﬁcation
+
+The sampling protocol was approved by the Chula-
+longkorn University Animal Care and Use Committee
+(permit number 58/2558). For the pigs in the neonatal and
+nursery periods, rectal swabs were taken directly and kept in
+Clary-Blair transport medium. For pigs in the growing and
+ﬁnishing periods, at least 25 g of rectal feces were collected
+into sterile plastic containers. For the pigs at the abattoir,
+meat (‘‘pork’’) was sampled and placed into sterile con-
+tainers. Following routine abattoir processing by abattoir
+
+Extended-spectrum beta-lactamase phenotypic
+screening and conﬁrmatory test
+
+Extended-spectrum beta-lactamase-producing (ESBLP)
+E. coli were identiﬁed using the Vitek2 machine (BioMe´rieux,
+France)12 and the results were conﬁrmed by the combination
+disk test following CLSI standards recommendations.11 The
+blaCTX-M genes comprising variants blaCTX-M-1, blaCTX-M-2,
+blaCTX-M-8, blaCTX-M-9, and blaCTX-M-25/26 were detected by
+multiplex PCR in all ESBLP strains.13 The identity of repre-
+sentative PCR amplicons was conﬁrmed by DNA sequencing
+
+1056
+
+LUGSOMYA ET AL.
+
+and analyzed using Mega 7.0,14 with comparisons made to the
+GenBank database.
+
+To conﬁrm whether blaCTX-M genes were located on
+transmissible plasmids, a conjugation assay was performed
+using the broth mating technique, as previous described.15
+The three representative selected donor clones, E. coli
+PCU12-4 (positive for blaCTX-M-1 group with a single
+IncI1-Ig replicon), E. coli PCU12-5 (positive for blaCTX-M-1
+group with a single IncHI2 replicon), and PCU12-6 (positive
+for blaCTX-M-9 group with a single IncHI2 replicon), were
+selected. The recipient strain E. coli J53 was resistant to so-
+dium azide (Azir) and susceptible to cefotaxime. The trans-
+conjugants were selected on Luria-Bertani (LB) agar (Oxoid)
+-1) and sodium azide
+supplemented with cefotaxime (2 mg mL
+-1) (Oxoid). Testing for antimicrobial suscepti-
+(100 mg mL
+bility, ESBL conﬁrmatory phenotype, PCR detection, and
+DNA sequencing of blaCTX-M genes was performed on the
+transconjugants, as previously described.15
+
+Detection of genes encoding AMR
+
+DNA was extracted from the bacteria using a Wizard
+
+Ò
+
+Genomic DNA Puriﬁcation Kit
+(Promega, Germany).
+Sixteen pairs of primers that were speciﬁc for resistance
+genes in bacteria in the superfamily Enterobacteriaceae
+were generated (First Base Laboratories, Malaysia), and
+the PCR thermal cycling conditions used followed pre-
+vious recommendations. The resistance genes analyzed
+included blaTEM and blaPSE-1 for ampicillin, amoxicillin,
+and piperacillin resistance, aadA1 and aadA2 for strepto-
+mycin resistance, aadB for tobramycin and gentamicin
+resistance, tet(A) and tet(B) for tetracycline resistance,
+sul1, sul2, and sul3 for sulfonamide resistance, dfrA1,
+dfrA10, and dfrA12 for trimethoprim resistance, and catA,
+catB, and cmlA for chloramphenicol resistance.16 The
+blaCTX-M-1 group, blaCTX-M-2 group, blaCTX-M-8 group,
+blaCTX-M-9 group, and blaCTX-M-25,26 group were included
+as these are the most prevalent ESBLP encoding genes.13
+A representative positive PCR amplicon for each gene
+was submitted for DNA sequencing and was analyzed by
+MEGA 7.0.14
+
+Plasmid Replicon Characterization
+
+The Enterobacteriaceae plasmid replicons IncF (IncFIA,
+IncFIB, IncFIC, and IncFrep), IncI1-Ig, IncN, IncP, IncW,
+IncHI1, IncHI2, IncL/M, IncT, IncA/C, IncK, IncB/O, IncX,
+and IncY were detected using ﬁve multiplex and three sim-
+plex PCR tests. The primers, PCR conditions, and thermal
+cycles were as previously described.17 Representative posi-
+tive PCR amplicons for each replicon were submitted for
+DNA sequencing and analyzed as described above.
+
+Pulsed-Field Gel Electrophoresis
+
+Pulsed-ﬁeld gel electrophoresis (PFGE) was performed
+on the 300 E. coli isolates following the CDC standard
+protocol.18 Brieﬂy, E. coli DNA in agar plugs was digested
+with restriction enzyme XbaI (Sibenzyme, Russia). Gel
+electrophoresis was undertaken in a 200 V ﬁeld at 120° for
+18–19 hours, incorporating Salmonella serovar Braenderup
+H9812 DNA as a standard. Dendrograms were generated
+
+using the GeneTool program (Syngene, India) and analyzed
+with the GeneDirectory program (Syngene, India).
+
+Multilocus Sequence Typing
+
+The sequence types (ST) of the 300 E. coli isolates were
+obtained based on the allelic proﬁles of seven genes with
+‘‘housekeeping’’ function.19 STs were obtained using high-
+throughput multilocus sequence typing (HiMLST) (Boers
+et al., 2012).20 The target genes were ampliﬁed by a two-step
+PCR using a primer sequence for the target genes that in-
+cluded a universal tail sequence primer and an isolate-speciﬁc
+multiplex identiﬁer sequence primer with 454 sequencing-
+speciﬁc nucleotides at the 5¢ end. The PCR products were
+pooled, clonally ampliﬁed by emulsion PCR (emPCR)
+(Roche, Switzerland), and sequenced using the GS junior
+(Roche). Allele and sequence types (STs) were assigned by
+the publicly accessible E. coli MLST database at http://
+mlst.warwick.ac.uk/mlst/dbs/Ecoli.
+
+Data Analysis
+
+Within each farm, comparisons between the rates of the
+categorical variables (resistance; replicon detection; and
+resistance gene proﬁles) of the E. coli isolates were made
+between successive sampling times (i.e., results from the 30
+isolates from the neonatal period compared to the 30 from
+the postweaning period and the 30 from the postweaning
+period compared to the 30 from the grower period). Between-
+farm comparisons were made for the 30 isolates at each
+sampling time for each variable. Results were analyzed using
+the chi-square test in SPSS version 17.0 (IBM, Armonk, NY).
+Isolates that were resistant to at least three antimicrobial
+groups were deﬁned as being multidrug resistant (MDR).
+The molecular strain types (PFGE proﬁles and STs) were
+individually reported by descriptive analysis. The Shannon
+diversity index (H’) was performed to determine the ge-
+netic diversity of the E. coli strains between farms and was
+calculated according to the following formula:
+
+s
+
+H¢¼   +
+i¼ 0
+
+pilnpi
+
+S was the number of unique genotype; and pi was the
+number of isolates sharing the same PFGE proﬁles [i] over
+the total number of isolates.21
+
+Results
+
+Phenotypic resistance characterizations
+and extended-spectrum beta-lactamase
+phenotype conﬁrmation
+
+A total of 300 commensal E. coli isolates were analyzed
+(3 per pig at each sampling period, 150 per farm). The
+AMR proﬁles for the 300 isolates against 18 antimicrobials
+and their ESBLP proﬁle are shown in Fig. 1. Resistance to
+nearly all the antimicrobials was common. All or nearly all
+isolates at all sampling periods (including in pork) from
+pigs in both farms were resistant to the b-lactam group
+antibiotics (ampicillin, amoxicillin, and piperacillin), and to
+tetracycline. Statistically signiﬁcant differences in resistance
+rates and ESBLP phenotype between sampling periods were
+
+MDR IN COMMENSAL E. COLI: TEMPORAL CHANGES IN COHORTS OF PIGS
+
+1057
+
+FIG. 1. Differences in resistance rates to 18 antimicrobials and ESBLP in Escherichia coli isolated from pigs in different
+periods of the production cycle and postslaughter (pig meat), with comparisons between isolates from the farm using
+antibiotics (A) and the farm not using antibiotics (NA). *Indicates a signiﬁcant difference ( p < 0.05) using chi-squared
+analysis ( p < 0.05). Comparisons are made between farms at each sampling period, and within farms at successive sampling
+periods. ESBLP, extended-spectrum beta-lactamase producing.
+
+only found on farm A, and only for a few antimicrobials
+(gentamicin,
+tobramycin, cefalexin, cefpodoxime, cefpir-
+ome, ceftiofur, and ESBLP E. coli), with, in each case, the
+highest rates being in the nursery and grower periods. These
+same resistances were also statistically signiﬁcantly higher
+in the nursery and grower periods in the pigs from farm A
+compared to those from farm NA. Isolates with MDR phe-
+notypes were common in both farm A (73.3%) and farm NA
+(64.7%). The most common AMR pattern, AMP-AMX-PIP-
+
+TET, was detected at 18.0% and 14.7% for the isolates from
+farms NA and A, respectively.
+
+Genotypic resistance characterizations
+
+The occurrence of 21 genes linked to AMR in the 300
+E. coli isolates is depicted in Fig. 2. All, but four of the
+resistance genes were found in some of the isolates. The
+most common combined resistance gene pattern [blaTEM
+
+1058
+
+LUGSOMYA ET AL.
+
+FIG. 2. Differences in 20 antimicrobial resistance genes in E. coli from pigs in different periods of the production cycle
+and postslaughter (pig meat), with comparisons between the farm using in-feed antibiotics (A) and the farm not using
+antibiotics (NA). *Indicates a signiﬁcant difference ( p < 0.05) using chi-squared analysis ( p < 0.05). Comparisons are made
+between farms at each sampling period, and within farms at successive sampling periods.
+
+and tet(A)] was found in both the NA (18.7%) and the A
+farm (14.0%). Most AMR genes occurred in less than half
+the isolates at all sampling periods, except for blaTEM and
+tet(A) that were found among nearly all E. coli from both
+farms. Statistically signiﬁcant differences in rates at differ-
+ent sampling times were only found in farm A, and only for
+the blaCTX-M-1 group, aadA1, aadA2, and aadB, where rates
+were highest in the nursery and growing periods. Statistically
+signiﬁcant differences in rates between farms were only
+found for these same four genes, and only in the nursery and
+grower periods, where rates were higher in farm A.
+
+Replicon type detection and conjugation experiment
+
+The prevalence of 18 plasmid replicon types detected in
+the E. coli isolates is presented in Fig. 3. Replicons IncA/C,
+
+IncB/O, IncFIIA, IncK, IncL/M, IncP, IncT, and IncX were
+not detected. The IncFIB and IncFrep replicons were the
+only ones commonly found in both farms. All the other
+replicon types were found at a low to moderate preva-
+lence in both farms. Statistically signiﬁcant differences
+between sampling times were only found on farm A, and
+these were for IncHI-2 and IncI1-Ig, which were increased
+in the isolates from the nursery and grower periods com-
+pared to other periods. These two replicons also were statis-
+tically signiﬁcantly more frequently found in isolates from
+farm A than in isolates from farm NA in both the nursery and
+grower periods.
+
+In the conjugation assay, E. coli PCU12-4 (positive for
+blaCTX-M-1 group with a single IncI1-Ig replicon) transferred
+-5, while
+blaCTX-M-1 group with a frequency of 3.8 · 10
+E. coli PCU12-5 (positive for blaCTX-M-1 group with a single
+
+MDR IN COMMENSAL E. COLI: TEMPORAL CHANGES IN COHORTS OF PIGS
+
+1059
+
+FIG. 3. Differences in carriage of 18 plasmid replicons in E. coli from pigs in different periods of the production cycle and
+postslaughter (pork) between the farm using in-feed antibiotics (A) and the farm not using antibiotics (NA). *Indicates
+a signiﬁcant difference using chi-squared analysis ( p < 0.05). Comparisons are made between farms at each sampling
+period, and within farms at successive sampling periods.
+
+IncHI2 replicon) and E. coli PCU12-6 (positive for blaCTX-M-9
+group with a single IncHI2 replicon) transferred the blaCTX-M
+-6, respec-
+gene with frequencies of 4.1 · 10
+tively, conﬁrming the location of the genes on these con-
+jugative plasmids.
+
+-6 and 5.6 · 10
+
+Molecular genotypic characterizations
+
+The 300 isolates had diverse molecular types: those from
+farm A belonged to 25 STs and 43 PFGE types, while those
+from farm NA belonged to 24 STs and 55 PFGE types. A
+total of 41 STs were detected, and only nine were shared by
+
+isolates from the two farms. No PFGE types were shared
+between the two farms. Strain diversity (as assessed by
+comparing PFGE types using the Shannon diversity index)
+was higher on farm NA (H’ = 3.38) than on farm A
+(H’ = 3.31). PFGE typing was more discriminatory than
+MLST for identiﬁcation of individual strains, but both
+methods gave broadly similar results in terms of depicting
+relationships between isolates (Fig. 4). In the case of three
+pigs, one or two isolates recovered from pork shared the
+same molecular types and resistance proﬁles with those
+recovered from the feces of the corresponding live animal at
+earlier periods: this occurred in one pig on farm NA (ST44)
+
+m
+r
+a
+f
+(
+
+e
+p
+y
+t
+
+m
+r
+a
+f
+o
+t
+g
+n
+i
+d
+r
+o
+c
+c
+a
+d
+e
+d
+i
+v
+i
+d
+
+,
+)
+s
+T
+S
+(
+d
+e
+d
+u
+l
+c
+n
+i
+
+s
+t
+l
+u
+s
+e
+r
+T
+S
+L
+M
+h
+t
+i
+
+w
+
+,
+a
+t
+a
+d
+E
+G
+F
+P
+n
+o
+d
+e
+s
+a
+b
+d
+e
+t
+a
+r
+e
+n
+e
+g
+s
+
+m
+a
+r
+g
+o
+r
+d
+n
+e
+d
+y
+b
+d
+e
+z
+y
+l
+a
+n
+a
+
+s
+n
+i
+a
+r
+t
+s
+
+i
+l
+o
+c
+
+.
+
+E
+f
+o
+s
+s
+e
+n
+d
+e
+t
+a
+l
+e
+r
+
+c
+i
+t
+e
+n
+e
+G
+
+.
+4
+.
+
+G
+I
+F
+
+-
+d
+e
+s
+l
+u
+p
+
+,
+
+E
+G
+F
+P
+;
+g
+n
+i
+p
+y
+t
+
+e
+c
+n
+e
+u
+q
+e
+s
+
+s
+u
+c
+o
+l
+i
+t
+l
+u
+m
+
+,
+
+T
+S
+L
+M
+
+.
+t
+a
+e
+m
+g
+i
+p
+
+n
+i
+
+d
+n
+u
+o
+f
+
+e
+r
+e
+w
+
+t
+a
+h
+t
+
+s
+e
+p
+y
+t
+
+s
+e
+t
+a
+c
+i
+d
+n
+i
+
+k
+n
+i
+p
+
+n
+i
+
+t
+o
+p
+s
+
+d
+n
+u
+o
+r
+
+A
+
+.
+)
+s
+e
+p
+y
+t
+
+E
+G
+F
+P
+3
+4
+
+h
+t
+i
+
+w
+A
+m
+r
+a
+f
+
+d
+n
+a
+
+s
+e
+p
+y
+t
+
+E
+G
+F
+P
+5
+5
+
+h
+t
+i
+
+w
+A
+N
+
+s
+u
+c
+o
+l
+-
+i
+t
+l
+u
+m
+h
+t
+i
+
+w
+
+,
+a
+t
+a
+d
+
+)
+E
+G
+F
+P
+(
+
+s
+i
+s
+e
+r
+o
+h
+p
+o
+r
+t
+c
+e
+l
+e
+
+l
+e
+g
+
+d
+l
+e
+ﬁ
+
+d
+e
+s
+l
+u
+p
+
+n
+o
+
+d
+e
+s
+a
+b
+
+d
+e
+t
+a
+r
+e
+n
+e
+g
+
+s
+
+m
+a
+r
+g
+o
+r
+d
+n
+e
+d
+
+y
+b
+
+d
+e
+z
+y
+l
+a
+n
+a
+
+s
+n
+i
+a
+r
+t
+s
+
+i
+l
+o
+c
+
+.
+
+E
+
+f
+o
+
+s
+s
+e
+n
+d
+e
+t
+a
+l
+e
+r
+
+c
+i
+t
+e
+n
+e
+G
+
+.
+s
+i
+s
+e
+r
+o
+h
+p
+o
+r
+t
+c
+e
+l
+e
+
+l
+e
+g
+
+d
+l
+e
+ﬁ
+
+k
+n
+i
+p
+
+n
+i
+
+t
+o
+p
+s
+
+d
+n
+u
+o
+r
+
+A
+
+.
+]
+)
+
+B
+
+(
+
+s
+e
+p
+y
+t
+
+E
+G
+F
+P
+
+3
+4
+
+h
+t
+i
+
+w
+A
+m
+r
+a
+f
+
+d
+n
+a
+
+)
+
+A
+
+(
+
+s
+e
+p
+y
+t
+
+E
+G
+F
+P
+
+5
+5
+
+h
+t
+i
+
+w
+A
+N
+m
+r
+a
+f
+[
+
+e
+p
+y
+t
+
+m
+r
+a
+f
+
+o
+t
+
+g
+n
+i
+d
+r
+o
+c
+c
+a
+
+d
+e
+d
+i
+v
+i
+d
+
+,
+)
+s
+T
+S
+(
+
+d
+e
+d
+u
+l
+c
+n
+i
+
+s
+t
+l
+u
+s
+e
+r
+
+)
+T
+S
+L
+M
+
+(
+
+g
+n
+i
+p
+y
+t
+
+e
+c
+n
+e
+u
+q
+e
+s
+
+.
+t
+a
+e
+m
+g
+i
+p
+
+n
+i
+
+d
+n
+u
+o
+f
+
+e
+r
+e
+w
+
+t
+a
+h
+t
+
+s
+e
+p
+y
+t
+
+s
+e
+t
+a
+c
+i
+d
+n
+i
+
+1060
+
+d
+n
+a
+
+s
+g
+i
+p
+
+e
+v
+i
+l
+
+m
+o
+r
+f
+
+s
+e
+t
+a
+l
+o
+s
+i
+
+r
+o
+f
+
+s
+e
+l
+ﬁ
+o
+r
+p
+
+n
+o
+c
+i
+l
+p
+e
+r
+
+d
+n
+a
+
+,
+s
+e
+l
+ﬁ
+o
+r
+p
+
+e
+n
+e
+g
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+
+,
+
+m
+a
+r
+g
+o
+i
+b
+i
+t
+n
+a
+
+,
+s
+s
+e
+n
+d
+e
+t
+a
+l
+e
+r
+
+c
+i
+t
+e
+n
+e
+g
+
+e
+h
+t
+
+g
+n
+i
+w
+o
+h
+s
+
+s
+g
+i
+p
+
+e
+e
+r
+h
+t
+
+m
+o
+r
+f
+
+s
+e
+t
+a
+l
+o
+s
+i
+
+i
+l
+o
+c
+
+.
+
+E
+f
+o
+
+s
+t
+e
+s
+a
+t
+a
+D
+
+.
+5
+
+.
+
+G
+I
+F
+
+d
+e
+d
+a
+h
+S
+
+.
+
+A
+m
+r
+a
+f
+
+n
+o
+
+5
+
+g
+i
+p
+m
+o
+r
+f
+
+s
+e
+t
+a
+l
+o
+s
+i
+
+,
+)
+
+C
+
+(
+
+;
+
+A
+m
+r
+a
+f
+
+n
+o
+
+2
+
+r
+e
+b
+m
+u
+n
+
+g
+i
+p
+m
+o
+r
+f
+
+s
+e
+t
+a
+l
+o
+s
+i
+
+,
+)
+
+B
+
+(
+
+;
+
+A
+N
+m
+r
+a
+f
+
+n
+o
+
+5
+
+r
+e
+b
+m
+u
+n
+
+g
+i
+p
+m
+o
+r
+f
+
+s
+e
+t
+a
+l
+o
+s
+i
+
+,
+)
+
+A
+
+(
+
+;
+e
+p
+y
+t
+
+r
+a
+l
+u
+c
+e
+l
+o
+m
+e
+m
+a
+s
+
+e
+h
+t
+
+e
+r
+a
+h
+s
+
+t
+a
+h
+t
+
+.
+e
+p
+y
+t
+
+E
+G
+F
+P
+
+a
+
+d
+e
+r
+a
+h
+s
+
+t
+a
+h
+t
+
+g
+i
+p
+
+e
+v
+i
+l
+
+e
+h
+t
+
+m
+o
+r
+f
+
+s
+e
+l
+p
+m
+a
+s
+
+r
+e
+i
+l
+r
+a
+e
+
+d
+n
+a
+
+k
+r
+o
+p
+m
+o
+r
+f
+
+s
+e
+t
+a
+l
+o
+s
+i
+
+e
+h
+t
+
+e
+n
+i
+l
+t
+u
+o
+
+k
+r
+o
+p
+
+s
+w
+o
+r
+
+1061
+
+.
+)
+d
+e
+u
+n
+i
+t
+n
+o
+C
+
+(
+
+.
+
+5
+
+.
+
+G
+I
+F
+
+1062
+
+MDR IN COMMENSAL E. COLI: TEMPORAL CHANGES IN COHORTS OF PIGS
+
+1063
+
+and two on farm A (ST638 and ST117) (Fig. 5 and Supple-
+mentary Table S1; Supplementary Data are available online
+at www.liebertpub.com/mdr). These shared strains did not
+show the ESBLP trait or aminoglycoside resistance. Sharing
+of strains with exactly the same characteristics between live
+pigs and pork was not found for the other 17 pigs.
+
+For the 100 sampling activities, there were only 11 instances
+where the STs of the three isolates taken from the same pig
+were the same (Supplementary Table S1). Eight of these 11
+instances were in pigs from farm NA and three from farm A.
+Nine of the incidences involved ST10, with the other two being
+ST638 and ST597. In 40 cases, two of the three isolates had the
+same ST (19 on farm NA and 21 on farm A), and in the other 49
+cases, three different isolates were recovered.
+
+Figure 6 presents a synopsis of the relationships of E. coli
+isolates at each production period and in pork, based on their
+STs. Although ST10 was not found in pork, it was the most
+common type found in live animals from both farms (57/150
+from farm NA and 40/150 from farm A). The difference
+in rates for ST10 between the two farms was signiﬁcant
+( p < 0.05). In nearly every case, the isolates from pork be-
+longed to different STs from those in the live pigs: as pre-
+viously mentioned, exceptions were ST638 in farm NA, and
+ST44 and ST117 in farm A. Of the 12 STs that included
+isolates recovered from pork, six had isolates with ESBLP
+characteristics (ST302, ST402, ST604, ST877, ST1209, and
+ST2798). These isolates were only found in pork, and four
+of the STs were only isolated from the NA farm. ST597 did
+not show ESBLP characteristics, but it was of interest be-
+cause although it was not found in live pigs, it was common
+in pork derived from pigs from both farms. STs containing
+isolates with ESBLP characteristics did occur in pigs on
+farm NA, but such strains were more common and some-
+times also associated with aminoglycoside resistance in pigs
+on farm A.
+
+Discussion
+
+Even though it is understood that commensal bacteria in
+animals may act as a reservoir of AMR, to date, evidence
+verifying a direct link between these organisms in livestock
+and their occurrence in meat products is limited.22 This
+study sought further evidence by undertaking longitudinal
+monitoring of AMR in commensal E. coli isolated from
+cohorts of pigs sampled at different stages of the pig pro-
+duction cycle, and comparing these to isolates from meat
+taken from the same animals after slaughter. Meat rather
+than feces was sampled postslaughter, as this is the product
+to which consumers are exposed. The design of the study
+was not able to account for any potential postslaughter
+cross-contamination of carcasses by E. coli strains during
+their handling and processing before sampling occurred.
+
+The study examined susceptibility to large numbers of
+different antimicrobials, including consideration of ESBLP
+and aminoglycoside resistance because of the high signiﬁ-
+cance of these traits for human bacterial infections. In this
+study, as in a previous study,9 aminoglycoside resistance
+rates and the presence of aminoglycoside resistance genes
+(aadA1, aadA2, and aadB) signiﬁcantly increased, but only
+in the nursery and grower phases, and only on farm A.
+Hence the routine use of unrelated antimicrobials increased
+resistance to these critically important antimicrobials in
+
+growing animals.9,23 The reason(s) for this remain unclear,
+but may be due to some form of co-selection. Although
+AMR was common, and resistance to b-lactam group an-
+tibiotics and tetracycline were again found in most isolates,
+the resistance rates in isolates from fattening pigs for ce-
+falexin, cefpirome, cefpodoxime, ceftiofur, chloramphen-
+icol, enroﬂoxacin, gentamicin, imipenem, marboﬂoxacin,
+nitrofurantoin,
+trimethoprim/sulfamethoxazole,
+and ESBLP E. coli were lower than in a previous study in
+Thailand.9 This difference was presumably due to farm-
+speciﬁc factors, as the laboratory methods used in the two
+studies were the same.
+
+tobramycin,
+
+To add another dimension to this study, two farms were
+followed, with one routinely using in-feed antimicrobials
+and the other not doing this. Previously we have shown
+that this routine in-feed antimicrobial use increases AMR
+rates in commensal E. coli in fattening pigs in Thailand,9
+and hence we hypothesized that pork from farms using in-
+feed antimicrobials might be more heavily contaminated
+with AMR commensal bacteria following slaughter com-
+pared to farms not using antimicrobials. Nevertheless, in this
+study, no signiﬁcant differences were found in AMR rates in
+isolates from pork from the two farms. Routine antimicro-
+bial use on farm A only signiﬁcantly increased resistance
+rates to aminoglycosides and the presence of ESBLP E. coli,
+and only in the nursery and grower periods.
+
+In general, farm management and geographical origin
+have been shown to inﬂuence genetic diversity and the
+presence of AMR genes found in porcine E. coli isolates.24
+In previous studies, a high clonal diversity of E. coli in pigs
+has been shown to occur both at the individual and pen
+levels,25 although individual strains may come to dominate.
+For example, in one recent cross-sectional study in a Danish
+pig farm not using antimicrobials, E. coli strains of ST10
+and ST58 commonly were recovered throughout the grow-
+ing period.20 In this study, three colonies from a high di-
+-4) of each sample were selected for analysis to
+lution (10
+enhance the recruitment of a variety of E. coli strains.9,26
+Using this sampling method, ST10 was the major type found
+in live animals in both farms, but it was not found in pork
+meat. ST10 E. coli also has been reported in humans,
+chickens, and other animals.27,28 In contrast to ST10, ST597
+was the most common type found in pork from both
+farms, but it was not identiﬁed in live animals. It also was
+not ESBLP or resistant to aminoglycosides. ST597 could
+have been a cross-contaminant from the environment of
+the abattoir, from equipment, or from other carcasses, al-
+though the pigs from the two farms were killed in different
+abattoirs and so no single external source existed. ST597
+has been reported as an enteric foodborne pathogen in
+humans,29 so identifying the route for its appearance in
+pig meat in abattoirs is important. Further studies into
+transmission of E. coli with AMR characteristics in the
+food chain are required: in particular, Hazard Analysis and
+Critical Control Points should be applied during farm to
+abattoir transportation, and through the standard slaugh-
+tering process, meat trimming, and packaging. The dom-
+inant E. coli types found in meat may have attributes that
+could help to explain why they are present rather than
+other types found in live animals.
+
+As anticipated, molecular tracing and evaluation of strain
+relationships using MLST and PFGE gave similar results.30
+
+t
+n
+e
+r
+e
+f
+f
+i
+d
+
+t
+a
+
+s
+
+m
+r
+a
+f
+
+o
+w
+
+t
+
+e
+h
+t
+
+m
+o
+r
+f
+
+s
+e
+t
+a
+l
+o
+s
+i
+
+i
+l
+o
+c
+
+.
+
+E
+
+g
+n
+o
+m
+a
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+
+e
+d
+i
+s
+o
+c
+y
+l
+g
+o
+n
+i
+m
+a
+
+d
+n
+a
+
+P
+L
+B
+S
+E
+
+f
+o
+
+n
+o
+i
+t
+u
+b
+i
+r
+t
+s
+i
+d
+
+d
+n
+a
+
+T
+S
+
+f
+o
+
+y
+c
+n
+e
+u
+q
+e
+r
+f
+
+e
+h
+t
+
+f
+o
+
+g
+n
+i
+r
+o
+t
+i
+n
+o
+m
+
+l
+a
+n
+i
+d
+u
+t
+i
+g
+n
+o
+L
+
+.
+6
+
+.
+
+G
+I
+F
+
+.
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+
+e
+d
+i
+s
+o
+c
+y
+l
+g
+o
+n
+i
+m
+a
+
+f
+o
+
+n
+o
+i
+t
+c
+e
+t
+e
+d
+
+e
+h
+t
+
+s
+e
+t
+a
+c
+i
+d
+n
+i
+
+e
+l
+c
+r
+i
+c
+
+t
+h
+g
+i
+L
+
+.
+i
+l
+o
+c
+
+.
+
+E
+
+P
+L
+B
+S
+E
+
+f
+o
+
+n
+o
+i
+t
+c
+e
+t
+e
+d
+
+e
+h
+t
+
+s
+e
+t
+a
+c
+i
+d
+n
+i
+
+e
+l
+c
+r
+i
+c
+
+k
+c
+a
+l
+B
+
+.
+s
+d
+o
+i
+r
+e
+p
+
+g
+n
+i
+l
+p
+m
+a
+s
+
+1064
+
+MDR IN COMMENSAL E. COLI: TEMPORAL CHANGES IN COHORTS OF PIGS
+
+1065
+
+Most E. coli types in pork were not detected in live pigs,
+except for STs 44, 117, 155, and 638 that included non-
+ESBPL E. coli and were negative for blaCTX-M genes. As
+with previous cross-sectional surveys, no relationship was
+found between molecular types that contained genes en-
+coding ESBLP and aminoglycoside resistance on the farm
+and their presence in the abattoir.31
+
+Resistance to amino-penicillins (ampicillin and amoxi-
+cillin) and urevido-penicillin (piperacillin) conferred by
+the blaTEM gene and tetracycline resistance conferred by
+the tet(A) gene were the most common forms of AMR in
+both farms at all observation periods, and was consistent
+with results of previous cross-sectional studies in Southeast
+Asia.32 The persistence of blaTEM and tet(A) genes in
+E. coli may not be caused by direct selective pressure, but
+may imply an abundance of blaTEM and tet(A) genes in
+Enterobacteriaceae bacteria in the region.33 Despite
+cephalosporins and aminoglycosides not being used on
+the farms, ESBLP E. coli containing blaCTX-M-1 group and
+aminoglycoside-resistant E. coli containing aadA1, aadA2,
+and aadB were common in the nursery period in farm
+A. This conﬁrmed the ﬁndings of our previous study9 and
+might be explained by a co-harboring of multiresistance
+genes, including cfr and blaCTX-M genes, on a conjugative
+plasmid.34
+
+Replicons IncFrep and IncFIB are reported as the most
+common types found in E. coli from humans and animals, and
+this was seen in both groups in this study. These plasmids,
+which encode factors involved in iron uptake, toxin produc-
+tion, enzymes, and a variety of resistance genes, for example,
+blaCTX-M, are widely spread in Enterobacteriaceae.35 In farm
+A, the high frequency of IncI1-Ig, IncHI2, in E. coli in the
+nursery period was strongly correlated with the detection of
+ESBLP and the blaCTX-M-1 group gene. In previous studies,
+IncHI2 was found to carry not only the blaCTX-M -2 gene but
+also a variety of genes encoding sulfonamide, aminoglyco-
+tetracycline, and streptomycin resistance.36 IncI1-Ig
+side,
+carrying blaCTX-M-1 is also the most common plasmid found in
+E. coli from livestock.37 Thus, the nursery and grower pigs
+from farm A could act as an important reservoir of AMR on
+the farm, and possibly have an impact on public health by
+amplifying resistance genes that eventually make their way to
+other zoonotic pathogens or to the environment.
+
+In conclusion, commensal E. coli with AMR traits (espe-
+cially resistance to b-lactam group antibiotics and tetracy-
+cline) were common in pigs from both farms at all sampling
+periods. E. coli that were aminoglycoside resistant and ESBLP
+were commonly found in the nursery and grower periods, and
+were signiﬁcantly more common in the farm that routinely
+used unrelated classes of antibiotics. Molecular typing showed
+that on both farms, strains from pigs and pork were different
+in terms of their clonal types and characteristics. This suggests
+that on-farm resistance, which is encouraged by antimicrobial
+usage, does not necessarily reﬂect the attributes of E. coli
+found in meat at the abattoir. Further work is required to
+identify potential sources of resistant E. coli found in pig meat
+following slaughter.
+
+Acknowledgments
+
+This study was supported ﬁnancially by the 90th Year
+Anniversary Ratchdapisek Somphot Endowment Fund,
+
+Chulalongkorn University, Center of Excellence in Emer-
+ging and Re-emerging Infectious Diseases in Animals
+(EIDAs), Research and Researcher for Industrials Funds
+(PHD5610005), and Huvepharma (Thailand) Ltd.
+
+Disclosure Statement
+
+No competing ﬁnancial interests exist.
+
+References
+
+1. Huttner, A., S. Harbarth, J. Carlet, S. Cosgrove, H.
+Goossens, A. Holmes, V. Jarlier, A. Voss, and D. Pittet.
+2013. Antimicrobial resistance: a global view from the
+2013 World Healthcare-Associated Infections Forum.
+Antimicrob. Resist Infect. Control. 2:31.
+
+2. Kaspar, H. 2006. Results of the antimicrobial agent sus-
+ceptibility study raised in a representative, cross-sectional
+monitoring study on a national basis. Int. J. Med. Micro-
+biol. 296 Suppl 41:69–79.
+
+3. Lhermie, G., Y.T. Grohn, and D. Raboisson. 2016. Ad-
+dressing Antimicrobial Resistance: an Overview of Priority
+Actions to Prevent Suboptimal Antimicrobial Use in Food-
+Animal Production. Front. Microbiol. 7:2114.
+
+4. Burow, E., C. Simoneit, B.A. Tenhagen, and A. Kasbohrer.
+2014. Oral antimicrobials increase antimicrobial resistance
+in porcine E. coli—a systematic review. Prev. Vet. Med.
+113:364–375.
+
+5. Fernandes, L., M.M. Centeno, N. Couto, T. Nunes, V.
+Almeida, L. Alban, and C. Pomba. 2016. Longitudinal
+characterization of monophasic Salmonella Typhimur-
+ium throughout the pig’s life cycle. Vet. Microbiol. 192:
+231–237.
+
+6. Renoux, G., and A. Terdjman. 1951. Clinical value of the
+precise identiﬁcation of gram-negative urinary bacilli;
+practical value of the medium eosine-methylene blue
+(E.M.B.). Presse. Med. 59:203–206.
+
+7. Demarco, D.R., and D.V. Lim. 2002. Detection of Es-
+cherichia coli O157:H7 in 10- and 25-gram ground beef
+samples with an evanescent-wave biosensor with silica and
+polystyrene waveguides. J. Food. Prot. 65:596–602.
+
+8. Clark, H.F., E.E. Geldreich, P.W. Kabler, R.H. Bordner,
+and C.B. Huff. 1957. The coliform group. I. The boric acid
+lactose broth reaction of coliform IMViC types. Appl.
+Microbiol. 5:396–400.
+
+9. Lugsomya, K., T. Chatsuwan, W. Niyomtham, P. Tum-
+maruk, D.J. Hampson, and N. Prapasarakul. 2018. Routine
+prophylactic antimicrobial use is associated with in-
+creased phenotypic and genotypic resistance in commen-
+sal Escherichia coli
+isolates recovered from healthy
+fattening pigs on farms in Thailand. Microb. Drug Resist.
+24:213–223.
+
+10. CLSI. 2015. Performance Standards for Antimicrobial Disk
+and Dilution Susceptibility test for Bacteria Isolated From
+Animals; 3rd VET01-S3. Clinical and Laboratory Stan-
+dards Institute, Wayne, PA.
+
+11. CLSI. 2015. Performance Standards for Antimicrobial
+Susceptibility Testing; 24th Informational Supplement.
+M100-S25. Clinical and Laboratory Standards Institute,
+Wayne, PA.
+
+12. Espinar, M.J., R. Rocha, M. Ribeiro, A. Goncalves
+Rodrigues, and C. Pina-Vaz. 2011. Extended-spectrum
+beta-lactamases of Escherichia coli and Klebsiella
+pneumoniae screened by the VITEK 2 system. J. Med.
+Microbiol. 60:756–760.
+
+1066
+
+LUGSOMYA ET AL.
+
+13. Xu, L., V. Ensor, S. Gossain, K. Nye, and P. Hawkey. 2005.
+Rapid and simple detection of blaCTX-M genes by multiplex
+PCR assay. J. Med. Microbiol. 54:1183–1187.
+
+14. Kumar, S., G. Stecher, and K. Tamura. 2016. MEGA7:
+molecular evolutionary genetics analysis version 7.0 for
+bigger datasets. Mol. Biol. Evol. 33:1870–1874.
+
+15. Gray, K.J., L.K. Wilson, A. Phiri, J.E. Corkill, N. French, and
+C.A. Hart. 2006. Identiﬁcation and characterization of cef-
+triaxone resistance and extended-spectrum beta-lactamases in
+Malawian bacteraemic Enterobacteriaceae. J. Antimicrob.
+Chemother. 57:661–665.
+
+16. Chuanchuen, R., K. Ajariyakhajorn, C. Koowatananukul,
+W. Wannaprasat, S. Khemtong, and S. Samngamnim. 2010.
+Antimicrobial resistance and virulence genes in Salmonella
+enterica isolates from dairy cows. Foodborne Pathog. Dis.
+7:63–69.
+
+17. Carattoli, A., A. Bertini, L. Villa, V. Falbo, K.L. Hopkins,
+and E.J. Threlfall. 2005. Identiﬁcation of plasmids by PCR-
+based replicon typing. J. Microbiol. Methods. 63:219–228.
+18. CDC. 2013. Standard Operating Procedure for PulseNet
+PFGE of Escherichia coli O157:H7, Escherichia coli non-
+O157 (STEC), Salmonella serotypes, Shigella sonnei and
+Shigella ﬂexneri. 13. Available at www.pulsenetinternational
+.org/assets/PulseNet/uploads/pfge/PNL05_Ec-Sal-ShigPFGE
+protocol.pdf
+
+19. Adiri, R.S., U. Gophna, and E.Z. Ron. 2003. Multilocus
+sequence typing (MLST) of Escherichia coli O78 strains.
+FEMS. Microbiol. Lett. 222:199–203.
+
+20. Boers, S.A., W.A. van der Reijden, and R. Jansen. 2012.
+sequence typing: bringing
+
+High-throughput multilocus
+molecular typing to the next level. PLoS One 7:e39630.
+
+21. Ahmed, S., J.E. Olsen, and A. Herrero-Fresno. 2017. The
+genetic diversity of commensal Escherichia coli strains
+isolated from non-antimicrobial
+treated pigs varies ac-
+cording to age group. PLoS One. 12:e0178623.
+
+22. Thorsteinsdottir, T.R., G. Haraldsson, V. Fridriksdottir,
+K.G. Kristinsson, and E. Gunnarsson. 2010. Prevalence and
+genetic relatedness of antimicrobial-resistant Escherichia
+coli isolated from animals, foods and humans in Iceland.
+Zoonoses Public Health. 57:189–196.
+
+23. WHO. 2016. Critically Important Antimicrobials for Hu-
+man Medicine Geneva Switzerland 5th revision 2016.
+WHO, Geneva, pp. 1–48.
+
+24. Leistner, R., E. Meyer, P. Gastmeier, Y. Pfeifer, C. Eller, P.
+Dem, and F. Schwab. 2013. Risk factors associated with the
+community-acquired colonization of extended-spectrum
+beta-lactamase (ESBL) positive Escherichia Coli an ex-
+ploratory case-control study. PLoS One. 8:e74323.
+
+25. Herrero-Fresno, A., S. Ahmed, M.H. Hansen, M. Denwood,
+C. Zachariasen, and J.E. Olsen. 2017. Genotype variation
+and genetic relationship among Escherichia coli from
+nursery pigs located in different pens in the same farm.
+BMC Microbiol. 17:5.
+
+26. Lautenbach, E., W.B. Bilker, P. Tolomeo, and J.N. Ma-
+slow. 2008. Impact of diversity of colonizing strains on
+strategies for sampling Escherichia coli from fecal speci-
+mens. J. Clin. Microbiol. 46:3094–3096.
+
+27. Leverstein-van Hall, M.A., C.M. Dierikx, J. Cohen Stuart,
+G.M. Voets, M.P. van den Munckhof, A. van Essen-
+Zandbergen, T. Platteel, A.C. Fluit, N. van de Sande-
+Bruinsma, J. Scharinga, and others. 2011. Dutch patients,
+retail chicken meat and poultry share the same ESBL genes,
+plasmids and strains. Clin. Microbiol. Infect. 17:873–880.
+
+28. Toval, F., C.D. Kohler, U. Vogel, F. Wagenlehner, A.
+Mellmann, A. Fruth, M.A. Schmidt, H. Karch, M. Bie-
+laszewska, and U. Dobrindt. 2014. Characterization of Es-
+cherichia coli isolates from hospital inpatients or outpatients
+with urinary tract infection. J. Clin. Microbiol. 52:407–418.
+29. Khong, W.X., E. Xia, K. Marimuthu, W. Xu, Y.Y. Teo,
+E.L. Tan, S. Neo, P.U. Krishnan, B.S. Ang, D.C. Lye, and
+others. 2016. Local transmission and global dissemination
+of New Delhi Metallo-Beta-Lactamase (NDM): a whole
+genome analysis. BMC Genomics. 17:452.
+
+30. Nemoy, L.L., M. Kotetishvili, J. Tigno, A. Keefer-Norris,
+A.D. Harris, E.N. Perencevich, J.A. Johnson, D. Torpey, A.
+Sulakvelidze, J.G. Morris, Jr. and others. 2005. Multilocus
+sequence typing versus pulsed-ﬁeld gel electrophoresis for
+characterization of
+extended-spectrum beta-lactamase-
+producing Escherichia coli isolates. J. Clin. Microbiol. 43:
+1776–1781.
+
+31. Sunde, M., G.S. Simonsen, J.S. Slettemeas, I. Bockerman,
+and M. Norstrom. 2015. Integron, Plasmid and Host Strain
+Characteristics of Escherichia coli from Humans and Food
+Included in the Norwegian Antimicrobial Resistance
+Monitoring Programs. PLoS One. 10:e0128797.
+
+32. Nhung, N.T., N.V. Cuong, G. Thwaites, and J. Carrique-
+Mas. 2016. Antimicrobial Usage and Antimicrobial Re-
+sistance in Animal Production in Southeast Asia: a Review.
+Antibiotics. (Basel) 5: pii: E37.
+
+33. Honda, R., T. Watanabe, V. Sawaittayotin, Y. Masago,
+R. Chulasak, K. Tanong, G.T. Chaminda, K. Wongsila,
+C. Sienglum, V. Sunthonwatthanaphong, and others. 2016.
+Impacts of urbanization on the prevalence of antibiotic-
+resistant Escherichia coli in the Chaophraya River and its
+tributaries. Water. Sci. Technol. 73:362–374.
+
+34. Zhang, W.J., X.M. Wang, L. Dai, X. Hua, Z. Dong, S. Schwarz,
+and S. Liu. 2015. Novel conjugative plasmid from Escherichia
+coli of swine origin that coharbors the multiresistance gene cfr
+and the extended-spectrum-beta-lactamase gene blaCTX-M-
+14b. Antimicrob. Agents. Chemother. 59:1337–1340.
+
+35. Rozwandowicz, M., M.S.M. Brouwer, J. Fischer, J.A.
+Wagenaar, B. Gonzalez-Zorn, B. Guerra, D.J. Mevius, and
+J. Hordijk. 2018. Plasmids carrying antimicrobial resistance
+genes in Enterobacteriaceae. J. Antimicrob. Chemother. 73:
+1121–1137
+
+36. Dierikx, C., A. van Essen-Zandbergen, K. Veldman, H.
+Smith, and D. Mevius. 2010. Increased detection of ex-
+tended spectrum beta-lactamase producing Salmonella en-
+terica and Escherichia coli
+isolates from poultry. Vet.
+Microbiol. 145:273–278.
+
+37. Borjesson, S., B. Bengtsson, C. Jernberg, and S. Englund.
+2013. Spread of extended-spectrum beta-lactamase produc-
+ing Escherichia coli isolates in Swedish broilers mediated by
+an incl plasmid carrying blaCTX-M-1. Acta. Vet. Scand. 55:3.
+
+Address correspondence to:
+Nuvee Prapasarakul, DVM, PhD
+Department of Veterinary Microbiology
+Faculty of Veterinary Science
+Chulalongkorn University
+Pathumwan District
+Henri-Dunant Street
+Bangkok 10330
+Thailand
+
+E-mail: nuvee.p@chula.ac.th
+
+

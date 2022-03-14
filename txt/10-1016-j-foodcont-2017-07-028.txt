@@ -1,0 +1,3562 @@
+Accepted Manuscript
+
+Occurrence of extended spectrum β-lactamase and AmpC genes among multidrug-
+resistant Escherichia coli and emergence of ST131 from poultry meat in Thailand
+
+Uttapoln Tansawai, Donruedee Sanguansermsri, Anamai Na-udom, Timothy R.
+Walsh, Pannika R. Niumsup
+
+PII:
+DOI:
+Reference:
+
+S0956-7135(17)30376-6
+10.1016/j.foodcont.2017.07.028
+JFCO 5721
+
+To appear in:
+
+Food Control
+
+Please cite this article as: Uttapoln Tansawai, Donruedee Sanguansermsri, Anamai Na-udom, Timothy
+R. Walsh, Pannika R. Niumsup, Occurrence of extended spectrum -lactamase and AmpC genes among
+multidrug-resistant Escherichia coli and emergence of ST131 from poultry meat in Thailand,   (2017),
+doi: 10.1016/j.foodcont.2017.07.028
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to
+our customers we are providing this early version of the manuscript. The manuscript will undergo
+copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please
+note that during the production process errors may be discovered which could affect the content, and all
+legal disclaimers that apply to the journal pertain.
+
+ 
+
+1
+
+Title: Occurrence of extended spectrum b -lactamase and AmpC genes among 
+
+multidrug-resistant Escherichia coli and emergence of ST131 from poultry meat in 
+
+Thailand 
+
+ 
+
+Uttapoln Tansawai a, Donruedee Sanguansermsri a, b, Anamai Na-udom c, Timothy R. 
+
+Walsh d and Pannika R. Niumsup a, b, * 
+
+ 
+
+a Department of Microbiology and Parasitology, Faculty of Medical Science, Naresuan 
+
+University, Phitsanulok, 65000, Thailand.  
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+b Center of Excellence in Medical Biotechnology, Faculty of Medical Science, Naresuan 
+
+11 
+
+University, Phitsanulok, 65000, Thailand.  
+
+12 
+
+c Department of Mathematics, Faculty of Science, Naresuan University, Phitsanulok, 
+
+13 
+
+65000, Thailand.   
+
+14 
+
+d Department of Medical Microbiology and Infectious Disease, Institute of Infection and 
+
+15 
+
+Immunity, UHW Main Building, Heath Park Hospital, Cardiff, CF14 4XN, UK. 
+
+16 
+
+ 
+
+17 
+
+∗ Corresponding author. Department of Microbiology and Parasitology, Faculty of 
+
+18 
+
+Medical Science, Naresuan University, Phitsanulok, 65000, Thailand. Tel: +66 89 
+
+19 
+
+8565063; Fax: 66 55 964770. 
+
+20 
+
+E-mail address: pannikan@nu.ac.th (P.R. Niumsup). 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+ABSTRACT  
+
+2
+
+ 
+
+ 
+
+This study investigated the prevalence of antibiotic-resistant Escherichia coli using 
+
+extended-spectrum b -lactamase (ESBL) and AmpC b -lactamase as exemplars of 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+
+multidrug-resistant phenotypes in poultry meat samples taken from open-air and 
+
+31 
+
+supermarkets in Phitsanulok province, Northern Thailand. Two hundred and fifty poultry 
+
+32 
+
+meat samples from open-air (n = 147) and supermarkets (n = 103) were analyzed. In total, 
+
+33 
+
+143 cefotaxime-resistant E. coli isolates comprising 78 isolates (53.1%) from open-air 
+
+34 
+
+markets and 65 isolates (63.1%) from supermarkets were obtained. No significant 
+
+35 
+
+difference could be observed in the prevalence of ESBL-positive E. coli between samples 
+
+36 
+
+taken from open-air (70.5%) and supermarkets (69.2%). ESBL genotypes comprised of 
+
+37 
+
+38 
+
+39 
+
+40 
+
+blaCTX-M-group 1 (69%), blaCTX-M-group 9 (13%), blaTEM-116 (1%), blaSHV-2a (1%) and blaSHV-12 
+
+(1%) were detected. 39.5% of the ESBL-negative E. coli possessed blaCMY-2. The blaCTX-M-
+
+group 1, blaCTX-M-group 9 and blaCMY-2 were successfully transferred into E. coli by conjugation 
+
+at high frequencies. Repetitive palindromic-PCR of some blaCTX-M and blaCMY-2-positive E. 
+
+41 
+
+coli isolates revealed identical DNA patterns suggesting clonal spread. Phylogenetic 
+
+42 
+
+grouping and MLST analysis revealed that 3 isolates were E. coli ST131. Of these, 2 
+
+43 
+
+44 
+
+isolates were ESBL-negative and carried blaCMY-2. The other isolate was ESBL-positive 
+
+and carried blaTEM-116. This is the first study to demonstrate ESBL and AmpC genotypes in 
+
+45 
+
+E. coli and the first discovery of human pathogen ST131 from Thai poultry meat. Our data 
+
+46 
+
+raises serious concerns for food safety and biosecurity in the Thai food industry.  
+
+47 
+
+ 
+
+48 
+
+Keywords: poultry; meat; ESBL; CTX-M; AmpC; CMY-2; E. coli; ST131 
+
+49 
+
+50 
+
+ 
+
+ 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+51 
+
+1. Introduction  
+
+3
+
+52 
+
+Resistance to broad spectrum b -lactams such as third-generation cephalosporins, 
+
+53 
+
+monobactam and carbapenems in Enterobacteriaceae, especially Escherichia coli, is 
+
+54 
+
+55 
+
+rapidly increasing (Pitout, 2013). Reports on extended-spectrum b -lactamase (ESBL) 
+
+and/or AmpC b -lactamase-producing Enterobacteriaceae from clinical and environmental 
+
+56 
+
+samples are continuously published from the majority of countries indicating a worldwide 
+
+57 
+
+dissemination. Several types of ESBLs have been reported such as SHV, TEM and CTX-
+
+58 
+
+M. CTX-M is the most prevalent ESBL while CMY-2 is frequently encountered AmpC in 
+
+59 
+
+human infections. ESBL- and AmpC-encoding genes are usually associated with mobile 
+
+60 
+
+genetic elements which strongly facilitate their spread within a bacterial population 
+
+61 
+
+(Jacoby 2009; Poirel, Bonnin, & Nordmann, 2012).  
+
+62 
+
+Contamination of meat with antibiotic-resistant bacteria has the potential to transfer 
+
+63 
+
+to humans and is a clear public health concern. Several studies have shown that meat, 
+
+64 
+
+especially poultry meat, is an important reservoir of antibiotic-resistant E. coli (Nguyen et 
+
+65 
+
+al., 2016; Schwaiger et al., 2012). The prevalence of ESBL- and AmpC-positive E. coli as 
+
+66 
+
+well as their respective resistant genes in different types of meat even in organic meat has 
+
+67 
+
+been reported from several countries (Cohen Stuart et al., 2012; Egea et al., 2012; 
+
+68 
+
+Ghodousi, Bonura, Di Noto, & Mammina, 2015; Kawamura, Goto, Nakane, & Arakawa, 
+
+69 
+
+2014). Furthermore, transmission of ESBL and AmpC-positive E. coli from meat to 
+
+70 
+
+human has been previously reported outside Thailand (Overdevest et al., 2011; Vincent et 
+
+71 
+
+al., 2010).  
+
+72 
+
+In Thailand, consumption of poultry meat is popular. Meat is often sold in open-air 
+
+73 
+
+markets, traditional Thai markets which are seen extensively throughout the country, and 
+
+74 
+
+western-style supermarkets which are becoming increasingly popular throughout Thailand.  
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+4
+
+75 
+
+Previous studies in Thailand have revealed the presence of antibiotic-resistant 
+
+76 
+
+Enterobacteriaceae isolates in chicken meat and chicken rectal swab including those 
+
+77 
+
+producing ESBL (Boonyasiri et al., 2014; Chaisatit, Tribuddharat, Pulsrikarn, & 
+
+78 
+
+Dejsirilert, 2012; Trongjit, Angkittitrakul, & Chuanchuen, 2016). However, the prevalence 
+
+79 
+
+of ESBL- and/or AmpC-producing E. coli from meat samples in Thailand remains poorly 
+
+80 
+
+understood. This study investigated the prevalence of ESBL- and AmpC-encoding genes 
+
+81 
+
+from poultry meat samples obtained from both open-air and supermarkets as well as 
+
+82 
+
+determined E. coli pathogenicity groups.  
+
+83 
+
+  
+
+84 
+
+2. Materials and Methods  
+
+85 
+
+2.1 Samplings 
+
+86 
+
+Samplings of fresh poultry meat were performed in 29 open-air markets and 22 
+
+87 
+
+supermarkets in Phitsanulok province, Northern Thailand. A total of 250 poultry meat 
+
+88 
+
+samples (chicken = 218, duck = 14, bird = 18) from open-air markets (n = 147) and 
+
+89 
+
+supermarkets (n = 103) were sampled. Frozen poultry meat was excluded from the study. 
+
+90 
+
+All samples were originated from Thailand. Samples were maintained at 4 (cid:176) C and 
+
+91 
+
+processed immediately.  
+
+92 
+
+ 
+
+93 
+
+2.2 Isolation and identification of third generation cephalosporin-resistant E. coli  
+
+94 
+
+Twenty-five grams of each sample were homogenized with a Stomacher in 225 mL 
+
+95 
+
+buffered peptone water (Oxoid, Basingstroke, UK). Then, 10 mL of this homogenate were 
+
+96 
+
+enriched in 90 ml EE broth (Becton, Dickinson and Company, MD, USA) for 24 h at 37 
+
+97 
+
+(cid:176) C. The enrichment was plated onto EMB agar (Oxoid) supplemented with 2 µg/mL 
+
+98 
+
+cefotaxime (as an exemplar of broad-spectrum cephalosporins) (Sigma Aldrich, MO, 
+
+99 
+
+USA) and incubated under aerobic condition for 24 h at 37 (cid:176) C. Presumptive E. coli 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+5
+
+100 
+
+colonies isolated from each sample were subcultured on Tryptic Soy Agar and incubated 
+
+101 
+
+as described above for further characterizations. Species identification was performed by 
+
+102 
+
+using RapID™ ONE System (REMEL Inc., KS, USA) according to the manufacturers’ 
+
+103 
+
+instructions and confirmed by sequencing of 16S rRNA gene (Lane, 1991). 
+
+104 
+
+ 
+
+105 
+
+2.3 Antimicrobial susceptibility and ESBL detection  
+
+106 
+
+All isolates were tested for susceptibility to 18 antimicrobial agents by disk 
+
+107 
+
+diffusion method according to Clinical Laboratory Standards Institute (CLSI) protocols 
+
+108 
+
+and the results were evaluated according to CLSI criteria (CLSI, 2013). The antibiotics 
+
+109 
+
+tested were ampicillin, cefoxitin, ceftazidime, cefotaxime, cefpodoxime, cefepime, 
+
+110 
+
+aztreonam, imipenem, amoxicillin/clavulanic acid, ampicillin/sulbactam, amikacin, 
+
+111 
+
+gentamicin, doxycycline, tetracycline, ciprofloxacin, levofloxacin, chloramphenicol, and 
+
+112 
+
+trimethoprim-sulfamethoxazole. Isolates showing intermediate results were considered as 
+
+113 
+
+resistant. Minimum Inhibitory Concentration (MICs) were determined by broth 
+
+114 
+
+microdilution method according to CLSI guidelines (CLSI, 2013). The MIC of each 
+
+115 
+
+antimicrobial agent was defined as the lowest concentration, which inhibited visible 
+
+116 
+
+growth of the organism.  
+
+117 
+
+Isolates were tested for ESBL production by combination disk method with 
+
+118 
+
+ceftazidime and cefotxime in the presence or absence of clavulanic acid, according to 
+
+119 
+
+CLSI guidelines (CLSI, 2013).  
+
+120 
+
+ 
+
+121 
+
+2.4 Screening for ESBL- and AmpC-encoding genes by PCR and sequencing  
+
+122 
+
+ 
+
+All ESBL-producing isolates were investigated for the presence of ESBL-encoding 
+
+123 
+
+genes; blaTEM, blaSHV and blaCTX-M, by PCR as previously described (Dallenne, Da Costa, 
+
+124 
+
+Decré, Favier, & Arlet, 2010; Woodford, Fagan, & Ellington, 2006). Isolates showing 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+6
+
+125 
+
+resistance to cefoxitin were examined for the presence of AmpC-encoding genes by 
+
+126 
+
+multiplex PCR (Pérez-Pérez, & Hanson, 2002). PCR products were analyzed by agarose 
+
+127 
+
+gel electrophoresis. 
+
+128 
+
+Selected PCR products were analyzed by DNA sequencing. Amplicons were 
+
+129 
+
+purified using a DNA purification kit (RBC Bioscience, New Taipei City, Taiwan) and 
+
+130 
+
+sequenced by First BASE Laboratories (Selangor, Malaysia). The obtained sequences were 
+
+131 
+
+compared with those available in the GenBank database using the BLAST algorithm 
+
+132 
+
+available on the National Center for Biotechnology Information (NCBI) website 
+
+133 
+
+(http://www.ncbi.nlm.nih.gov). 
+
+134 
+
+ 
+
+135 
+
+2.5 Conjugation experiments  
+
+136 
+
+137 
+
+138 
+
+To investigate the transfer of antibiotic resistance, conjugation experiments were 
+
+carried out by broth mating method using rifampin-resistant E. coli DH5a
+
+ as the recipient. 
+
+Cultures of donor and recipient cells were mixed and incubated overnight at 37 (cid:176) C without 
+
+139 
+
+shaking. Transconjugants were selected on Tryptic Soy Agar supplemented with rifampin 
+
+140 
+
+(16 µg/mL) and cefotaxime (1 µg/mL). Conjugation frequency was expressed as the 
+
+141 
+
+number of transconjugants divided by the number of recipient cells. Transferrable of 
+
+142 
+
+antibiotic-resistant gene was confirmed by PCR. MICs of transconjugants were determined 
+
+143 
+
+by broth microdilution method. 
+
+144 
+
+ 
+
+145 
+
+2.6 Repetitive-palindromic polymerase chain reaction (Rep-PCR)  
+
+146 
+
+ 
+
+E. coli isolates carrying either ESBL- or AmpC genes were typed by rep-PCR as 
+
+147 
+
+described previously by Versalovic, Koeuth, and Lupski (1991). 
+
+148 
+
+149 
+
+ 
+
+ 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+7
+
+150 
+
+2.7 Phylogenetic grouping and multilocus sequence typing (MLST) analysis 
+
+151 
+
+Phylogenetic group (A, B1, B2 and D) of ESBL- and pAmpC-producing E. coli 
+
+152 
+
+was performed by a multiplex PCR assay for chuA, yjaA and DNA fragment TspE4C2 as 
+
+153 
+
+previously described (Clermont, Bonacorsi, & Bingen, 2000). Isolate belonging to group 
+
+154 
+
+B2 was investigated for the presence of pabB gene by PCR (Clermont et al., 2009). MLST 
+
+155 
+
+was performed by amplification and sequencing of 7 housekeeping genes (adk, fumC, 
+
+156 
+
+gyrB, icd, mdh, purA and recA) according to the protocols from E. coli MLST website 
+
+157 
+
+(http://mlst.warwick.ac.uk/mlst/dbs/Ecoli). 
+
+ 
+
+158 
+
+ 
+
+159 
+
+2.8 Statistical analysis 
+
+160 
+
+ 
+
+Fisher’s exact test was used to compare proportions using Minitab software version 
+
+161 
+
+15. The differences were considered statistically significant at p < 0.05.  
+
+162 
+
+ 
+
+163 
+
+3. Results   
+
+164 
+
+3.1 Isolation of cefotaxime-resistant (Ctx-R) E. coli from poultry meat samples and ESBL 
+
+165 
+
+production 
+
+166 
+
+In this study, 250 poultry meat samples from open-air markets and supermarkets in 
+
+167 
+
+Phitsanulok province, Northern Thailand were analyzed (Table 1). In total, 143 Ctx-R E. 
+
+168 
+
+coli isolates comprising 78 isolates (53.1%, 95% CI = 45.0–61.1%) from open-air markets 
+
+169 
+
+and 65 isolates (63.1%, 95% CI = 53.8–72.4%) from supermarkets were obtained. The 
+
+170 
+
+percentages of Ctx-R E. coli isolates were not statistically different between samples 
+
+171 
+
+obtained from open-air and supermarkets (p = 0.121). Of the 143 isolates, 70.5% (55/78, 
+
+172 
+
+95% CI = 60.4–80.6%) and 69.2% (45/65, 95% CI = 58.0–80.5%) from open-air and 
+
+173 
+
+supermarkets, respectively, were ESBL-positive. 
+
+174 
+
+ 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+8
+
+175 
+
+3.2 Antimicrobial susceptibility testing  
+
+176 
+
+177 
+
+Antimicrobial susceptibility of E. coli isolates recovered from poultry meat 
+
+samples was determined (Table 2). b -Lactam susceptibility test revealed that all 143 E. 
+
+178 
+
+coli isolates were resistant to ampicillin, cefotaxime and cefpodoxime and >90% were 
+
+179 
+
+resistant to aztreonam and ceftazidime. Resistance to amoxicillin/clavulanate and 
+
+180 
+
+ampicillin/sulbactam was 60.1% and 82.5%, respectively. A small number of isolates were 
+
+181 
+
+resistant to imipenem (16.1%). High resistant rates (>60%) were also observed for 
+
+182 
+
+cefepime, amikacin, doxycycline, tetracycline and ciprofloxacin. Furthermore, we 
+
+183 
+
+observed that ESBL-positive isolates showed significantly higher resistant rates to 
+
+184 
+
+cefepime, gentamicin, doxycycline, tetracycline, levofloxacin and 
+
+185 
+
+trimethoprim/sulfamethoxaole (p < 0.05) than the ESBL-negative isolates (Table 2). In 
+
+186 
+
+contrast, ESBL-negative isolates showed significantly higher resistant rates to cefoxitin, 
+
+187 
+
+amoxicillin/clavulanate and ampicillin/sulbactam (p < 0.05).  
+
+188 
+
+ 
+
+189 
+
+3.3 Detection of antibiotic-resistant genes  
+
+190 
+
+Of the 143 Ctx-R isolates, 100 were shown to be ESBL-positive (Table 2). 
+
+191 
+
+Detection of ESBL- and AmpC-encoding genes in Ctx-R E. coli isolates was performed 
+
+192 
+
+and results were shown in Table 3. Of the 100 ESBL-positive isolates, 82 were found to 
+
+193 
+
+carry genes encoding for blaCTX-M. blaCTX-M-group 1 was the most prevalent (n = 69, 69%), 
+
+194 
+
+followed by blaCTX-M-group 9 (n = 13, 13%). blaTEM and blaSHV-related ESBL-genes were 
+
+195 
+
+also found i.e. blaTEM-116 (n = 1, 1%), blaSHV-2a (n = 1, 1%) and blaSHV-12 (n = 1, 1%). 
+
+196 
+
+Additionally, from the 43 ESBL-negative isolates, 17 (39.5%) were shown to be blaCMY-2-
+
+197 
+
+positive. 
+
+198 
+
+199 
+
+ 
+
+ 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+9
+
+200 
+
+3.4 Conjugation experiments 
+
+201 
+
+Conjugation experiments were performed with randomly selected E. coli 
+
+202 
+
+containing blaCTX-M-group 1 (7 isolates), blaCTX-M-group 9 (2 isolates) and blaCMY-2 (3 isolates) 
+
+203 
+
+as donors. The blaCTX-M-group 1, blaCTX-M-group 9 and blaCMY-2 genes from donor isolates could 
+
+204 
+
+be transferred to the recipient strain E. coli DH5a
+
+ with conjugation frequencies of 10-5-10-
+
+205 
+
+2, 10-4 and 10-7-10-5, respectively (Table 4). The presence of blaCTX-M-group 1, blaCTX-M-group 9 
+
+206 
+
+and blaCMY-2 in transconjugants was confirmed by PCR. The cefotaxime MICs were 
+
+207 
+
+markedly increased in transconjugants carrying blaCTX-M (> 128 fold) and blaCMY-2 (> 16-
+
+208 
+
+32 fold) compared with the recipient strain E. coli DH5a
+
+ (Table 4). 
+
+209 
+
+ 
+
+210 
+
+3.5 Typing of ESBL- and AmpC-positive E. coli by rep-PCR 
+
+211 
+
+ 
+
+The DNA profiles of blaCTX-M and blaCMY-2-positive E. coli generated with rep-
+
+212 
+
+PCR primers showed diverse banding patterns. However, the identical rep-PCR profiles in 
+
+213 
+
+some E. coli isolates were detected. The representative rep-PCR patterns of the isolates 
+
+214 
+
+were shown in Fig. 1. Rep-PCR analysis differentiated 69 and 13 isolates of blaCTX-M group 
+
+215 
+
+1- and blaCTX-M group 9-positive E. coli into 34 and 9 distinct patterns, respectively. However, 
+
+216 
+
+the identical patterns among isolates carrying blaCTX-M group 1 (Fig. 1A, Lanes 1 & 5, 2 & 3 
+
+217 
+
+and 4 & 6) and blaCTX-M group 9 (Fig. 1B, Lanes 1 & 2 and 3 & 4) were found. In addition, a 
+
+218 
+
+total of 11 distinct DNA profiles were found among 17 blaCMY-2-positive E. coli and 
+
+219 
+
+identical DNA patterns were detected (Fig. 1C, Lanes 1-3). Importantly, blaCTX-M group 1-
+
+220 
+
+positive E. coli isolates recovered from different open-air and supermarkets shared the 
+
+221 
+
+same rep-PCR pattern (Fig. 1A). In addition, we found that 22 isolates carried an identical 
+
+222 
+
+rep-PCR type but different CTX-M genes i.e. blaCTX-M group 1 (n = 19) and blaCTX-M group 9 (n 
+
+223 
+
+= 3).  
+
+224 
+
+ 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+10
+
+225 
+
+3.6 Phylogenetic grouping and analysis of sequence type (ST)  
+
+226 
+
+Phylogenetic grouping of 85 ESBL- and 17 AmpC-positive E. coli isolates were 
+
+227 
+
+determined. The results showed that 51% belonged to group A, 27.5% to group B1 and 
+
+228 
+
+17.6% to group D. Only 4 isolates (3.9%) belonged to group B2 (Table 5). The prevalence 
+
+229 
+
+of blaCTX-M was significantly higher in the commensal phylogroups A and B1 than 
+
+230 
+
+pathogenic groups B2 and D (p < 0.001). In contrast, the prevalence of blaCMY-2 was 
+
+231 
+
+significantly higher in the pathogenic phylogroups D and B2 than commensal groups A 
+
+232 
+
+and B1 (p = 0.002). Of the 4 isolates, belonging to group B2, 3 isolates contained the pabB 
+
+233 
+
+gene, which is specific for subgroup I/ O25b. These 3 isolates were identified as ST131, by 
+
+234 
+
+MLST analysis. One carried blaTEM-116 and 2 carried blaCMY-2. 
+
+235 
+
+ 
+
+236 
+
+4. Discussion   
+
+237 
+
+In this study, poultry meat samples from open-air and supermarkets in Phitsanulok 
+
+238 
+
+province, Northern Thailand were analyzed and a total of 143 Ctx-R E. coli isolates were 
+
+239 
+
+recovered from all types of poultry meat (chicken, duck and bird, Table 1). 
+
+240 
+
+A previous study in Thailand revealed the presence of ESBL-positive E. coli from chicken 
+
+241 
+
+meat however a limited number of meat samples were investigated (Boonyasiri et al., 
+
+242 
+
+2014). In contrast, we found a comparatively high prevalence of ESBL-positive E. coli 
+
+243 
+
+isolates from open-air (70.5%) and supermarkets (69.2%).  
+
+244 
+
+Antimicrobial susceptibility test of 143 Ctx-R E. coli isolates revealed the high 
+
+245 
+
+resistant rates for broad-spectrum cephalosporins, aztreonam and ciprofloxacin (Table 2). 
+
+246 
+
+These results were different from those reported previously from Thailand where E. coli 
+
+247 
+
+obtained from chicken meat was mainly susceptible to third generation cephalosporins and 
+
+248 
+
+ciprofloxacin (Chaisatit, Tribuddharat, Pulsrikarn, & Dejsirilert, 2012). Interestingly, 
+
+249 
+
+ESBL-positive E. coli isolates showed significantly higher resistance rates to many 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+11
+
+250 
+
+antibiotics than ESBL-negative isolates, consistent with the common feature of ESBL- 
+
+251 
+
+positive bacteria (Woerther, Burdet, Chachaty, & Andremont, 2013). In addition, we found 
+
+252 
+
+that all E. coli isolates, regardless of the ESBL production, exhibited multidrug-resistant 
+
+253 
+
+(MDR) phenotype as defined by Magiorakos et al. (2012).  
+
+254 
+
+blaCTX-M was commonly found among ESBL-positive isolates, although genes 
+
+255 
+
+encoding for TEM-, and SHV-type ESBLs such as blaTEM-116, blaSHV-2a and blaSHV-12 were 
+
+256 
+
+also detected (Table 3). Similar results were found in other studies which reported the 
+
+257 
+
+predominance of blaCTX-M in poultry meat samples (Cohen Stuart et al., 2012; Kawamura, 
+
+258 
+
+Goto, Nakane, & Arakawa, 2014; Nguyen et al., 2016). The high prevalence of blaCTX-M 
+
+259 
+
+seen in this study coincided with the report on community-acquired CTX-M-positive 
+
+260 
+
+infections in Thailand (Apisarnthanarak et al., 2007). For almost all ESBL-negative E. coli 
+
+261 
+
+isolates, resistance to cefoxitin was noted (Table 2) suggesting that AmpC may be 
+
+262 
+
+responsible for cefotaxime-resistant phenotypes. Accordingly, blaCMY-2 was found in 
+
+263 
+
+39.5% of ESBL-negative isolates.  
+
+264 
+
+For the rest of E. coli isolates, neither ESBL- nor AmpC-encoding genes were 
+
+265 
+
+detected and were not further investigated. It is possible that overexpression of 
+
+266 
+
+chromosomally-encoded AmpC b -lactamases, efflux pump overexpression or outer 
+
+267 
+
+membrane alteration may contribute to reduced susceptibility to antibiotics (Pitout, 2013). 
+
+268 
+
+It is also interesting to note that distribution of ESBL-genes was similar between open-air 
+
+269 
+
+and supermarkets. In contrast, blaCMY-2 was found more frequently in poultry meat taken 
+
+270 
+
+from open-air markets (Table 3). 
+
+271 
+
+272 
+
+Conjugation experiments revealed that blaCTX-M and blaCMY-2 were successfully 
+
+transferred to E. coli DH5a
+
+ at high frequencies. The increased cefotaxime MICs in 
+
+273 
+
+transconjugants suggested that blaCTX-M and blaCMY-2 are responsible for cefotaxime 
+
+274 
+
+resistance. These results are consistent with the fact that horizontal gene transfer plays a 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+12
+
+275 
+
+major role in the spread of blaCTX-M and blaCMY-2 in E. coli (Woerther, Burdet, Chachaty, & 
+
+276 
+
+Andremont, 2013; Sidjabat et al., 2014). Genotypic analysis of blaCTX-M and blaCMY-2-
+
+277 
+
+positive E. coli by rep-PCR revealed the genetic diversity among these isolates. However, 
+
+278 
+
+identical genotypes were found among isolates carrying the same genes suggesting the 
+
+279 
+
+clonal spread of MDR E. coli in poultry meat samples. This observation is further 
+
+280 
+
+supported by the same genotypes being found in isolates obtained from open-air and 
+
+281 
+
+supermarkets. Moreover, we found 22 identical isolates carrying different blaCTX-M 
+
+282 
+
+inferring the recent transfer of blaCTX-M among dominant Thai E. coli clades. 
+
+283 
+
+Typing divided the E. coli isolates into 4 phylogenetic groups. Groups A and B1 
+
+284 
+
+constitute mainly the commensal strains while extra-intestinal pathogenic strains belong to 
+
+285 
+
+groups B2 and D (Clermont, Bonacorsi, & Bingen, 2000). In this study, the majority of E. 
+
+286 
+
+coli isolates carrying ESBL-genes (blaCTX-M, blaSHV or blaTEM) significantly belonged to 
+
+287 
+
+the low virulent groups A and B1. Similar results had been reported from E. coli isolates 
+
+288 
+
+recovered from poultry meat in Spain and the Netherlands (Egea et al., 2012; Kluytmans et 
+
+289 
+
+al., 2013). Our results suggest that E. coli isolates of the commensal origin may contribute 
+
+290 
+
+to the dissemination of MDR E. coli within the community. It is also interesting to note 
+
+291 
+
+that most blaCMY-2-positive E. coli belonged to phylogroup D, consistent with previous 
+
+292 
+
+reports (Oteo et al., 2010; Tamang et al., 2012).  
+
+293 
+
+Among the extraintestinal E. coli, O25b-ST 131, belonging to the phylogenetic 
+
+294 
+
+group B2, has emerged as a highly virulent human pathogen worldwide. E. coli O25b-
+
+295 
+
+ST131 usually exhibits multidrug resistance and produces various types of ESBLs and 
+
+296 
+
+AmpC. ST131 has been reported from different origins such as animals, environments and 
+
+297 
+
+humans. Although the widespread occurrence of E. coli ST131 has been documented, its 
+
+298 
+
+presence in raw meat is rare (Nicolas-Chanoine, Bertrand, & Madec, 2014). Previous 
+
+299 
+
+studies in the Netherlands and Spain which many ESBL-producing E. coli isolates from 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+13
+
+300 
+
+poultry meat were investigated but no ST131 was identified (Cohen Stuart et al., 2012; 
+
+301 
+
+Egea et al., 2012; Overdevest et al., 2011). However other studies in Italy, Japan and 
+
+302 
+
+Canada have reported the contamination of E. coli ST131 in poultry meat samples 
+
+303 
+
+(Ghodousi, Bonura, Di Noto, & Mammina, 2015; Kawamura, Goto, Nakane, & Arakawa, 
+
+304 
+
+2014; Vincent et al., 2010). In our study, 3 MDR E. coli isolates were identified as E. coli 
+
+305 
+
+B2-O25b ST131. Of these, 2 isolates were ESBL-negative and carried blaCMY-2. The other 
+
+306 
+
+ST131 isolate was an ESBL-positive and carried blaTEM-116, the infrequent ESBL-gene 
+
+307 
+
+found among ST131 isolates. In Thailand, all E. coli ST131 reported, to date, were 
+
+308 
+
+recovered from clinical specimen (Netikul et al., 2014). Given the fact that E. coli ST131 
+
+309 
+
+is associated predominantly with community-onset urinary tract infections, our finding of 
+
+310 
+
+ST131 isolates suggest that poultry meat could contribute to the dissemination of MDR 
+
+311 
+
+and virulent E. coli within Thai community. 
+
+312 
+
+Our data demonstrates that poultry meat in Thailand acts as a reservoir for MDR E. 
+
+313 
+
+coli especially those producing ESBL and AmpC. This is the first analysis of ESBL and 
+
+314 
+
+AmpC genes and the first discovery of human pathogen ST131 from Thai poultry meat. 
+
+315 
+
+Our results indicate that poultry meat may be a source of transmission of the MDR ST131 
+
+316 
+
+in Thailand.  
+
+317 
+
+318 
+
+319 
+
+320 
+
+321 
+
+322 
+
+323 
+
+324 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+ 
+
+325 
+
+326 
+
+Acknowledgments  
+
+14
+
+327 
+
+This work was supported by Naresuan University (R2558B072). U. Tansawai was 
+
+328 
+
+supported by the Royal Golden Jubilee-PhD Program from Thailand Research Fund and 
+
+329 
+
+Rajamangala University of Technology Lanna (PHD/0054/2555). We would like to thank 
+
+330 
+
+staffs at the Department of Microbiology and Parasitology, Faculty of Medical Science, 
+
+331 
+
+Naresuan University for their technical assistance.  
+
+332 
+
+333 
+
+334 
+
+335 
+
+336 
+
+337 
+
+338 
+
+339 
+
+340 
+
+341 
+
+342 
+
+343 
+
+344 
+
+345 
+
+346 
+
+347 
+
+348 
+
+349 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+350 
+
+References  
+
+15
+
+351 
+
+Apisarnthanarak, A., Kiratisin, P., Saifon, P., Kitphati, R., Dejsirilert, S., & Mundy, L.M. 
+
+352 
+
+353 
+
+354 
+
+(2007). Clinical and molecular epidemiology of community-onset, extended-
+
+spectrum β-lactamase-producing Escherichia coli infections in Thailand: a case-
+
+case-control study. American Journal of Infection Control, 35, 606-612.  
+
+355 
+
+Boonyasiri, A., Tangkoskul, T., Seenama, C., Saiyarin, J., Tiengrim, S., & Thamlikitkul, 
+
+356 
+
+357 
+
+358 
+
+V. (2014). Prevalence of antibiotic resistant bacteria in healthy adults, foods, food 
+
+animals, and the environment in selected areas in Thailand. Pathogens and Global 
+
+Health, 108, 235-245.  
+
+359 
+
+Chaisatit, C., Tribuddharat, C., Pulsrikarn, C., & Dejsirilert, S. (2012). Molecular 
+
+360 
+
+361 
+
+362 
+
+characterization of antibiotic-resistant bacteria in contaminated chicken meat sold 
+
+at supermarkets in Bangkok, Thailand. Japanese Journal of Infectious Disease, 65, 
+
+527-534. 
+
+363 
+
+Clermont, O., Bonacorsi, S., & Bingen E. (2000). Rapid and simple determination of the 
+
+364 
+
+365 
+
+Escherichia coli phylogenetic group. Applied and Environmental Microbiology, 
+
+66, 4555-4558. 
+
+366 
+
+Clermont, O., Dhanji, H., Upton, M., Gibreel, T., Fox, A., Boyd, D., et al. (2009). Rapid 
+
+367 
+
+368 
+
+detection of the O25b-ST131 clone of Escherichia coli encompassing the CTX-M-
+
+15-producing strains. Journal of Antimicrobial Chemotherapy, 64, 274-277. 
+
+ 
+
+369 
+
+Clinical and Laboratory Standards Institute (CLSI) (2013). Performance standards for 
+
+370 
+
+371 
+
+antimicrobial susceptibility testing; twenty-third informational supplement. 
+
+Document M100-S23. Wayne, PA: CLSI. 
+
+ 
+
+372 
+
+Cohen Stuart, J., van den Munckhof, T., Voets, G., Scharringa, J., Fluit, A., & Hall, M.L. 
+
+373 
+
+374 
+
+(2012). Comparison of ESBL contamination in organic and conventional retail 
+
+chicken meat. International Journal of Food Microbiology, 154, 212-214.  
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+16
+
+375 
+
+Dallenne, C., Da Costa, A., Decré, D., Favier, C., & Arlet, G. (2010). Development of a 
+
+376 
+
+377 
+
+378 
+
+set of multiplex PCR assays for the detection of genes encoding important β-
+
+lactamases in Enterobacteriaceae. Journal of Antimicrobial Chemotherapy, 65, 
+
+490-495.  
+
+379 
+
+Egea, P., López-Cerero, L., Torres, E., Gómez-Sánchez Mdel, C., Serrano, L., Navarro 
+
+380 
+
+381 
+
+382 
+
+Sánchez-Ortiz, M.D., et al. (2012). Increased raw poultry meat colonization by 
+
+extended spectrum β-lactamase-producing Escherichia coli in the south of Spain. 
+
+International Journal of Food Microbiology, 159, 69-73.  
+
+383 
+
+Ghodousi, A., Bonura, C., Di Noto, A.M., & Mammina, C. (2015). Extended-spectrum β-
+
+384 
+
+385 
+
+lactamase, AmpC-producing, and fluoroquinolone-resistant Escherichia coli in 
+
+retail broiler chicken meat, Italy. Foodborne Pathogens and Disease, 12, 619-625.  
+
+386 
+
+Jacoby, G.A. (2009). AmpC β-lactamases. Clinical Microbiology Reviews, 22: 161-182.  
+
+387 
+
+Kawamura, K., Goto, K., Nakane, K., & Arakawa, Y. (2014). Molecular epidemiology of 
+
+388 
+
+389 
+
+extended-spectrum β-lactamases and   isolated from retail foods including chicken 
+
+meat in Japan. Foodborne Pathogens and Disease, 11, 104-110.  
+
+390 
+
+Kluytmans, J.A., Overdevest, I.T., Willemsen, I., Kluytmans-van den Bergh, M.F., van der 
+
+391 
+
+392 
+
+393 
+
+394 
+
+Zwaluw, K., Heck, M., et al. (2013). Extended-spectrum β-lactamase-producing 
+
+Escherichia coli from retail chicken meat and humans: comparison of strains, 
+
+plasmids, resistance genes, and virulence factors. Clinical Infectious Diseases, 56, 
+
+478-487.  
+
+395 
+
+Lane, D. J. (1991). 16S/23S rRNA sequencing. In E. Stackebrandt, & M. Goodfellow 
+
+396 
+
+397 
+
+(Eds.), Nucleic acid techniques in bacterial systematics (pp. 115-175). Chichester, 
+
+United Kingdom: John Wiley and Sons. 
+
+398 
+
+Magiorakos, A.P., Srinivasan, A., Carey, R.B., Carmeli, Y., Falagas, M.E., Giske, C.G., et 
+
+399 
+
+al. (2012). Multidrug-resistant, extensively drug-resistant and pandrug-resistant 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+400 
+
+401 
+
+bacteria: an international expert proposal for interim standard definitions for 
+
+acquired resistance. Clinical Microbiology Infection, 18, 268-281. 
+
+17
+
+402 
+
+Netikul, T., Sidjabat, H.E., Paterson, D.L., Kamolvit, W., Tantisiriwat, W., Steen, J.A., et 
+
+403 
+
+404 
+
+405 
+
+al. (2014). Characterization of an IncN2-type blaNDM-1-carrying plasmid in 
+
+Escherichia coli ST131 and Klebsiella pneumoniae ST11 and ST15 isolates in 
+
+Thailand. Journal Antimicrobial Chemotherapy, 69, 3161-3163.  
+
+406 
+
+Nguyen, D. P., Nguyen, T.A., Le, T.H., Tran, N.M., Ngo, T.P., Dang, V.C., et al. (2016). 
+
+407 
+
+408 
+
+409 
+
+Dissemination of extended-spectrum β-lactamase- and AmpC β-lactamase-
+
+producing Escherichia coli within the food distribution system of Ho Chi Minh 
+
+City, Vietnam. BioMed Research International 2016, 8182096. 
+
+410 
+
+Nicolas-Chanoine, M.H., Bertrand, X., & Madec, J.Y. (2014). Escherichia coli ST131, an 
+
+411 
+
+intriguing clonal group. Clinical Microbiology Reviews, 27, 543-574.  
+
+412 
+
+Oteo, J., Cercenado, E., Cuevas, O., Bautista, V., Delgado-Iribarren, A., Orden, B., et al. 
+
+413 
+
+414 
+
+415 
+
+416 
+
+(2010). AmpC β-lactamases in Escherichia coli: emergence of CMY-2-producing 
+
+virulent phylogroup D isolates belonging mainly to STs 57, 115, 354, 393, and 
+
+420, and phylogroup B2 isolates belonging to the international clone O25b-ST131. 
+
+Diagnostic Microbiology and Infectious Disease, 67, 270-276.  
+
+417 
+
+Overdevest, I., Willemsen, I., Rijnsburger, M., Eustace, A., Xu, L., Hawkey, P., et al. 
+
+418 
+
+419 
+
+(2011). Extended-spectrum β-lactamase genes of Escherichia coli in chicken meat 
+
+and humans, The Netherlands. Emerging Infectious Diseases, 17, 1216-1222.  
+
+420 
+
+Pérez-Pérez, F.J., & Hanson, N.D. (2002). Detection of plasmid-mediated AmpC β-
+
+421 
+
+422 
+
+lactamase genes in clinical isolates by using multiplex PCR. Journal of Clinical 
+
+Microbiology, 4, 2153-2162. 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+18
+
+423 
+
+Pitout, J,D. (2013). Enterobacteriaceae that produce extended-spectrum β-lactamases and 
+
+424 
+
+425 
+
+AmpC β-lactamases in the community: the tip of the iceberg?. Current 
+
+Pharmaceutical Design, 19, 257-263. 
+
+426 
+
+Poirel, L., Bonnin, R.A., & Nordmann, P. (2012). Genetic support and diversity of 
+
+427 
+
+428 
+
+acquired extended-spectrum β-lactamases in Gram-negative rods. Infection, 
+
+Genetics and Evolution, 12, 883-893.  
+
+429 
+
+Schwaiger, K., Huther, S., Hölzel, C., Kämpf, P., & Bauer, J. (2012). Prevalence of 
+
+430 
+
+431 
+
+432 
+
+antibiotic-resistant enterobacteriaceae isolated from chicken and pork meat 
+
+purchased at the slaughterhouse and at retail in Bavaria, Germany. International 
+
+Journal of Food Microbiology, 154, 206-211.  
+
+433 
+
+Sidjabat, H.E., Seah, K.Y., Coleman, L., Sartor, A., Derrington, P., Heney, C., et al. 
+
+434 
+
+435 
+
+(2014). Expansive spread of IncI1 plasmids carrying blaCMY-2 amongst Escherichia 
+
+coli. International Journal of Antimicrobial Agents, 44, 203-208.  
+
+436 
+
+Tamang, M.D., Nam, H.M., Jang, G.C., Kim, S.R., Chae, M.H., Jung, S.C., et al. (2012). 
+
+437 
+
+438 
+
+439 
+
+440 
+
+Molecular characterization of extended-spectrum β-lactamase-producing and 
+
+plasmid-mediated AmpC β-lactamase-producing Escherichia coli isolated from 
+
+stray dogs in South Korea. Antimicrobial Agents and Chemotherapy, 56, 2705-
+
+2712. 
+
+441 
+
+Trongjit, S., Angkittitrakul, S., & Chuanchuen, R. (2016). Occurrence and molecular 
+
+442 
+
+443 
+
+444 
+
+characteristics of antimicrobial resistance of Escherichia coli from broilers, pigs 
+
+and meat products in Thailand and Cambodia provinces. Microbiology and 
+
+Immunology, 60, 575-585.  
+
+445 
+
+Versalovic, J., Koeuth, T., & Lupski, J.R. (1991). Distribution of repetitive DNA 
+
+446 
+
+447 
+
+sequences in eubacteria and application to fingerprinting of bacterial genomes. 
+
+Nucleic Acids Research, 19, 6823-6831. 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+19
+
+448 
+
+Vincent, C., Boerlin, P., Daignault, D., Dozois, C.M., Dutil, L., Galanakis, C., et al. 
+
+449 
+
+450 
+
+(2010). Food reservoir for Escherichia coli causing urinary tract infections. 
+
+Emerging infectious diseases, 16, 88-95.  
+
+451 
+
+Woerther, P.L., Burdet, C., Chachaty, E., & Andremont, A. (2013). Trends in human fecal 
+
+452 
+
+453 
+
+carriage of extended-spectrum β-lactamases in the community: toward the 
+
+globalization of CTX-M. Clinical Microbiology Reviews, 26, 744-758.  
+
+454 
+
+Woodford, N., Fagan, E.J., & Ellington, M.J. (2006). Multiplex PCR for rapid detection of 
+
+genes encoding CTX-M extended-spectrum β-lactamases. Journal of Antimicrobial 
+
+Chemotherapy, 57, 154-155.  
+
+455 
+
+456 
+
+457 
+
+458 
+
+459 
+
+460 
+
+461 
+
+462 
+
+463 
+
+464 
+
+465 
+
+466 
+
+467 
+
+468 
+
+469 
+
+470 
+
+471 
+
+472 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+ 
+
+ 
+
+473 
+
+474 
+
+475 
+
+Figure Caption 
+
+476 
+
+ 
+
+20
+
+477 
+
+Fig. 1. Representative rep-PCR profiles of the cefotaxime-resistant E. coli carrying blaCTX-
+
+478 
+
+M-group 1 (A), blaCTX-M-group 9(B) and blaCMY-2 (C), respectively.  
+
+479 
+
+M1, 1 kb Sharp Ladder (RBC Bioscience, New Taipei City, Taiwan) 
+
+480 
+
+M2, 100 bp Ladder RTU (GeneDireX, Taipei City, Taiwan)  
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPTTable 1 Occurrence of cefotaxime-resistant E. coli from poultry meat samples 
+
+_______________________________________________________________ 
+
+Types of 
+
+Samples 
+
+ 
+
+ 
+
+ 
+
+ 
+
+No. of   
+
+E. coli   
+
+ 
+
+ 
+
+No. of ESBL-   
+
+ 
+
+positive E.coli  
+
+_______________________________________________________________ 
+
+open air markets (n = 147) 
+
+Chicken (n = 126) 
+
+69 
+
+Duck (n = 3) 
+
+ 
+
+Bird (n = 18)   
+
+0 
+
+9 
+
+ 
+
+ 
+
+ 
+
+Total 
+
+ 
+
+ 
+
+78 (53.1%) 
+
+supermarkets (n = 103) 
+
+Chicken (n = 92) 
+
+61 
+
+Duck (n = 11)  
+
+4 
+
+ 
+
+ 
+
+Total    
+
+ 
+
+65 (63.1%) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+46 
+
+0 
+
+9 
+
+ 
+
+ 
+
+ 
+
+55 (70.5%) 
+
+41 
+
+4 
+
+ 
+
+ 
+
+45 (69.2%) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+_______________________________________________________________ 
+
+ 
+
+ 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+p values 
+
+ESBL production 
+
+ESBL-negative (n = 43) 
+
+Total (n = 143) 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+______________________________________________________________ 
+ESBL-positive (n = 100) 
+
+Table 2 Antimicrobial resistance (%) among cefotaxime-resistant E. coli isolates 
+_______________________________________________________________________________________________________________ 
+Antimicrobial agents   
+ 
+ 
+ 
+ 
+_______________________________________________________________________________________________________________ 
+ 
+ampicillin  
+ 
+cefoxitin 
+ 
+ceftazidime 
+ 
+cefotaxime 
+ 
+cefodoxime 
+ 
+cefepime 
+ 
+aztreonam 
+imipenem 
+ 
+amoxicillin/clavulanate 
+ampicillin/sulbactam   
+ 
+ 
+amikacin 
+ 
+ 
+gentamicin 
+ 
+doxycycline 
+ 
+ 
+tetracycline 
+ 
+ 
+ciprofloxacin   
+ 
+levofloxacin 
+ 
+chloramphenicol 
+ 
+trimethoprim/sulfamethoxazole 
+______________________________________________________________________________________________________________ 
+NS, Not significance 
+
+NS 
+ 
+< 0.001 
+0.033 
+NS 
+NS 
+< 0.001 
+NS 
+NS 
+< 0.001 
+< 0.001 
+1 
+< 0.001 
+< 0.001 
+< 0.001 
+NS 
+0.002 
+NS 
+< 0.001 
+
+100 
+97.7 
+100 
+100 
+100 
+7.0 
+95.3 
+16.3 
+100 
+100 
+72.1 
+34.9 
+27.9 
+37.2 
+60.5 
+9.3 
+23.3 
+14.0 
+
+100 
+17.0 
+90 
+100 
+100 
+83.0 
+96.0 
+16.0 
+43.0 
+75.0 
+72.0 
+67.0 
+78.0 
+86.0 
+64.0 
+34.0 
+39.0 
+59.0 
+
+100 
+41.3 
+93 
+100 
+100 
+60.1 
+95.8 
+16.1 
+60.1 
+82.5 
+72 
+57.3 
+62.9 
+71.3 
+62.9 
+26.6 
+34.3 
+45.5 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+ 
+
+Table 3 Prevalence of genes encoding for ESBL and AmpC among cefotaxime-resistant E. coli isolates. 
+
+_______________________________________________________________________________________________________________ 
+b -lactamase genes 
+ 
+
+ESBL-negative E. coli (n = 43) 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ESBL-positive E. coli (n = 100) 
+___________________________________      
+open-air markets 
+(n = 55) 
+
+supermarkets  Total 
+(n = 45) 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+_______________________________________ 
+open-air markets 
+(n = 23) 
+
+supermarkets   
+(n = 20) 
+
+ 
+
+ 
+
+Total 
+
+_______________________________________________________________________________________________________________ 
+
+blaCTX-M group 1   
+
+ 
+
+blaCTX-M group 1 + blaTEM-1 
+
+blaCTX-M group 9   
+
+ 
+
+blaCTX-M group 9 + blaTEM-1 
+
+blaSHV-2a 
+
+blaSHV-12 
+
+blaTEM-116 
+
+blaCMY-2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+bla CMY-2 + blaTEM-1 
+
+Total 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+25 
+
+12 
+
+5 
+
+2 
+
+1 
+
+0 
+
+1 
+
+0 
+
+0 
+
+46 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+18 
+
+14 
+
+1 
+
+5 
+
+0 
+
+1 
+
+0 
+
+0 
+
+0 
+
+39 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+43 
+
+26 
+
+6 
+
+7 
+
+1 
+
+1 
+
+1 
+
+0 
+
+0 
+
+85 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+14 
+
+1 
+
+15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+2 
+
+0 
+
+2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+16 
+
+1 
+
+17 
+
+__________________________________________________________________________________________________________________ 
+ 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPTTable 4 Conjugation frequency, transferred gene and cefotaxime MICs for E. coli DH5a
+
+ and the respective transconjugants 
+
+____________________________________________________________________________________________________________ 
+
+Strain   
+
+ 
+
+ 
+
+Frequency of transfer   
+
+Transferred gene 
+
+ 
+
+ 
+
+Cefotaxime MIC (µg/mL) 
+
+____________________________________________________________________________________________________________ 
+
+E. coli DH5a
+
+a  
+
+EC2_Tc 
+
+EC103_Tc 
+
+EC107_Tc 
+
+EC109_Tc 
+
+EC121_Tc 
+
+EC129_Tc 
+
+EC146_Tc 
+
+EC70_Tc 
+
+EC119_Tc 
+
+EC125_Tc 
+
+EC128_Tc 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 
+
+ 
+
+4.2 x10-3 
+
+2.6 x10-3 
+
+4.4 x10-3 
+
+6.8 x10-5 
+
+2.5 x10-5 
+
+8.1 x10-2 
+
+7.5 x10-2 
+
+2.4 x10-4 
+
+4.7 x10-4 
+
+1.5 x10-5 
+
+1.6 x10-6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 
+
+ 
+
+blaCTX-group 1 
+
+blaCTX-group 1 
+
+blaCTX-group 1 
+
+blaCTX-group 1 
+
+blaCTX-group 1 
+
+blaCTX-group 1 
+
+blaCTX-group 1 
+
+blaCTX-group 9 
+
+blaCTX-group 9 
+
+blaCMY-2 
+
+blaCMY-2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+< 0.0625 
+
+> 8 
+
+> 8 
+
+> 8 
+
+> 8 
+
+> 8 
+
+> 8 
+
+> 8 
+
+> 8 
+
+> 8 
+
+2 
+
+1 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPTEC132_Tc 
+
+ 
+
+ 
+
+1.9 x10-7 
+
+ 
+
+ 
+
+blaCMY-2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 
+
+___________________________________________________________________________________________________________ 
+
+a rifampin-resistant E. coli DH5a
+
+ was used a recipient strain. 
+
+ 
+
+Tc, transconjugant 
+
+ 
+ 
+
+ 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+Table 5 Distribution of ESBL- and AmpC-encoding genes among E. coli phylogroups (n = 102) 
+
+___________________________________________________________________________________ 
+
+Phylogenetic groups 
+
+ 
+
+No. (%) of isolates producing: 
+
+ 
+
+ 
+
+Total (%) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+__________________________________________ 
+
+blaTEM-116 
+
+blaSHV   
+
+blaCTX-M  
+
+blaCMY-2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+___________________________________________________________________________________ 
+
+A 
+
+B1 
+
+B2 
+
+D 
+
+Total 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 (0) 
+
+0 (0) 
+
+ 
+
+ 
+
+1 (1.0)  
+
+50 (49.0) 
+
+1 (1.0)  
+
+52 (51.0) 
+
+1 (1.0)  
+
+26 (25.5) 
+
+1 (1.0)  
+
+28 (27.5) 
+
+1 (1.0)  
+
+0 (0) 
+
+0 (0) 
+
+ 
+
+0 (0) 
+
+ 
+
+ 
+
+0 (0) 
+
+ 
+
+3 (2.9)  
+
+4 (3.9) 
+
+6 (5.9)  
+
+12 (11.7) 
+
+18 (17.6) 
+
+1 (1.0)  
+
+2 (2.0)  
+
+82 (80.4) 
+
+17 (16.6) 
+
+102 (100) 
+
+___________________________________________________________________________________ 
+
+ 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPTFigใ 1
+
+open-air markets 
+
+supermarkets
+
+open-air markets
+
+supermarkets
+
+M1     1      2       3      4       5      6  
+
+M2   1     2      3     4      5      6     7     8 
+
+open-air  markets
+
+M1    1     2     3     4     5      6
+
+2,000 bp
+
+1,000 bp
+
+500 bp
+
+1,500 bp
+
+1,000 bp
+
+500 bp
+
+100 bp
+
+2,000 bp
+
+1,000 bp
+
+500 bp
+
+(A)
+
+(B)
+
+(C)
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPTHighlights 
+
+ 
+
+High prevalence of ESBL-producing E. coli in poultry meat in Thailand was observed. 
+
+ 
+
+E. coli carrying blaCTX-M and blaCMY-2 isolates were found in poultry meat samples.  
+
+ 
+
+Clonal spread of blaCTX-M and blaCMY-2-positive E. coli from poultry meat was detected. 
+
+ 
+
+E. coli ST131 isolates carrying blaTEM-116 or blaCMY-2 have emerged from poultry meat.  
+
+ 
+
+ 
+
+ 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT

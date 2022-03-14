@@ -1,0 +1,3655 @@
+Comparison of prevalence, phenotype, and antimicrobial resistance of
+
+Salmonella serovars isolated from turkeys in Taiwan
+
+J.-C. Yeh,∗ C.-L. Chen,∗ C.-S. Chiou,† D.-Y. Lo,∗ J.-C. Cheng,∗ and H.-C. Kuo∗,1
+
+∗Department of Veterinary Medicine, College of Veterinary Medicine, National Chiayi University, Chiayi,
+
+Taiwan; and †Central Regional Laboratory, Centers for Disease Control, Taichung, Taiwan
+
+is
+
+a
+
+spp.
+
+Salmonella
+
+ABSTRACT
+foodborne
+pathogen that causes zoonotic disease worldwide. The
+aim of this study was to investigate the prevalence
+of antimicrobial resistance of Salmonella isolated from
+turkey farms in Taiwan. During the past 2 yr, 243
+strains of Salmonella were isolated from 2,040 samples
+(11.9%) from turkey farms, including 32.5% (52/160)
+from the intestines of 12-day-old turkey poults, 14.2%
+(119/840) from feces collected from the turkey growing
+periods, and 6.9% (72/1,040) from finishing periods.
+S. Albany (35.0%, 85/243), S. Schwarzengrund (23.0%,
+56/243), and S. Hadar (19.3%, 47/243) were the most
+common serovars on turkey farms. For these strains, a
+high frequency of resistance was observed against flor-
+fenicol (97.5%), oxytetracycline (89.3%), doxycycline
+
+(78.6%), colistin (77.8%), ampicillin (75.7%), amoxi-
+cillin (75.3%), trimethoprim-sulfamethoxazole (73.7%),
+chloramphenicol (69.1%), and nalidixic acid (67.9%).
+floR (63.8%), tet (A) (60.5%), blaPSE (57.6%), blaTEM
+(42.0%), blaCTX-M (34.2%), cmlA (34.2%), and tet (D)
+(29.2%) were the most common resistance genes found
+in this study. The int1 gene was identified in 72.4%
+(176/243) of Salmonella isolates in which the conserved
+region 3’ of class 1 integrons also was amplified, whereas
+none had the int2 gene. This study demonstrates that
+imported and fattening turkeys could be a reservoir
+for Salmonella isolates resistant to multiple antimicro-
+bials. These results also reinforce the need to develop
+strategies and implement specific control procedures to
+reduce the development of antimicrobial resistance.
+
+Key words: Salmonella, zoonosis, food chain, antimicrobial resistance, integrase
+
+2017 Poultry Science 0:1–10
+http://dx.doi.org/10.3382/ps/pex293
+
+INTRODUCTION
+
+Salmonella spp.
+
+is distributed worldwide and can
+cause salmonellosis in both animals and humans. In
+humans, Salmonella spp. is one of the most common
+pathogens causing bacterial foodborne diseases, while
+in animals, salmonellosis is a common zoonotic dis-
+ease worldwide. In recent years, S. Heidelberg iso-
+lated from turkey products caused nationwide out-
+breaks in the United States, resulting in 78 cases of
+infection and a recall of up to 3.8 million pounds of
+turkey products (CDC, 2011). In turkey, S. Pullorum, S.
+Gallinarum, and S. Arizonae are more pathogenic, while
+infections caused by other Salmonella serotypes are col-
+lectively referred to as paratyphoid infections (Barrow,
+2000; Quinn et al., 2011). In poults that have paraty-
+phoid infections, clinical signs such as diarrhea, enteri-
+tis, and septicemia can be observed, whereas in adult
+turkeys, paratyphoid infections often lead to subclinical
+symptoms (Quinn et al., 2011). The common serotypes
+
+C(cid:2) Crown copyright 2017. This article contains public sector informa-
+tion licensed under the Open Government Licence v3.0 (http://www.
+nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+
+Received June 1, 2017.
+Accepted September 14, 2017.
+1Corresponding author: hjkuo@mail.ncyu.edu.tw
+
+1
+
+of turkey origin causing human infections are usually
+paratyphoid Salmonella,
+including S. Heidelberg, S.
+Hadar, and S. Stanley (Hafez and Jodas, 2000; Saif et
+al., 2008; CDC, 2011).
+
+A variety of antimicrobials are used in poultry for
+disease control, prophylaxis, and growth promotion
+(Stavric and D’Aoust, 1993; Khachatourians, 1998).
+Indiscriminate use of antimicrobials in food animals
+has resulted in the emergence of multiple antibiotic-
+resistant strains of
+foodborne pathogens, such as
+Salmonella, Escherichia coli, and Campylobacter, as
+well as bacteria endogenous to the microfloras of an-
+imals (Davis et al., 1999; van den Bogaard and Stob-
+beringh, 1999). In particular, Salmonella isolates from
+turkeys have been associated with high levels of an-
+timicrobial resistance or multidrug resistance, with
+studies indicating resistance is even more frequent in
+Salmonella isolates from turkeys than in other livestock
+species (Schroeter et al., 1998; Zhao et al., 2007, Poppe
+et al., 2005).
+
+Salmonella spp. acquire antibiotic resistance by ran-
+dom chromosomal mutations, mutation of existing
+genes, and through mobile genetic elements, such as
+plasmids, transposons, and gene cassettes in inte-
+grons, facilitating the acquisition and dissemination of
+resistance genes (Okolo, 1986; Recchia and Hall, 1995;
+
+2
+
+YEH ET AL.
+
+Fluit and Shmitz, 1999). The resistance gene cassettes
+carried by integrons can be transferred horizontally to
+other bacteria through conjugative plasmids and trans-
+posons (Shahada et al., 2006). Class 1 integrons are the
+most frequently detected integron class in Salmonella
+and other Gram-negative organisms (Guerra et al.,
+2000; White, McIver and Rawlinson, 2001).
+
+The most common serotype of turkey Salmonella iso-
+lated in the United States in 2010 was S. Hadar 19.9%
+(30/151), followed by S. Saintpaul 13.9% (21/151),
+S. Heidelberg 9.3% (14/151), S. Schwarzengrund 7.3%
+(11/151), and S. III 18: z4, z23 7.3% (11/151) (USDA,
+2012). In addition, S. Hadar and S. Heidelberg iso-
+lates from slaughterhouses in the United States were
+resistant to multiple antimicrobials, with higher levels
+of resistance to ampicillin, streptomycin, gentamicin,
+tetracycline, sulfamethoxazole, and other antimicro-
+bials (Logue et al., 2003; Nayak et al., 2004; Fakhr et al.,
+2006; FDA, 2013). In Canada, the most common serovar
+found in turkey was S. Heidelberg followed by S. Hadar,
+with multidrug resistance to β-lactams and tetracy-
+clines, including ampicillin, amoxicillin-clavulanic acid,
+ceftiofur, cefoxitin, and tetracycline; the relevant re-
+sistance genes include blaCMY-2, blaTEM, and tet (A)
+(Aslam et al., 2012).
+
+In Taiwan, turkey rearing is not a major poultry
+industry, and hatching eggs of turkeys are all
+im-
+ported from the United States, with annual production
+of turkeys between 300,000 and 400,000 birds (COA,
+2015). There is a paucity of data concerning the an-
+timicrobial susceptibility status of Salmonella isolated
+from conventional turkey production. Thus, the present
+study was conducted to investigate the prevalence of
+Salmonella, the serotypes involved, and the antimicro-
+bial susceptibility patterns of Salmonella isolates at dif-
+ferent stages from conventional turkey farms in Taiwan.
+
+MATERIALS AND METHODS
+
+Samples Collection
+
+In this study, a total of 2,040 samples from 3 stages of
+turkey rearing was collected at 20 different farms from
+March 2014 to February 2016. The 3 stages are 12-day-
+old turkey poults, growing periods (10 wk), and finish-
+ing periods (20 wk). From each turkey-rearing farm, the
+intestines of 8 turkey poults at the age of 12 d, fresh fe-
+cal samples from 42 growing period turkeys, and 52 fin-
+isher turkeys were collected. All collected samples were
+stored on ice and transported to the laboratory within
+less than 2 h of collection for immediate processing.
+
+enrichment method in which 25 grams of intestine of
+poults or turkey fecal sample were taken and mixed
+with 225 mL of buffered peptone water (BPW; Difco,
+Detroit, Michigan, USA) at 37◦C for 18 ± 2 hours.
+After overnight incubation, 0.1 mL of the incubated
+pre-enrichment was transferred to 10 mL of Rappaport-
+Vassilliadis (RV; Difco, USA) enrichment broth and in-
+cubated at 42◦C for 24 hours. After incubation, one loop
+of each selective enrichment broth was streaked onto
+xylose-lysine-deoxycholate agar (XLD; Oxoid, Bas-
+ingstoke, Hampshire, UK) at 37◦C for 24 hours. Sus-
+pected colonies were confirmed through the molecular
+polymerase chain reaction (PCR) method described
+below. A single colony of each bacterial isolate was sus-
+pended in 50 μL of 25 mM NaOH and boiled for 20 min-
+utes. After adding 4 μL of 1 M Tris-HCl (pH 8.0), the
+suspension was centrifuged, and the supernatant was
+used as template DNA. The primers were designed to
+amplify a 244 bp DNA fragment (Chiu and Ou, 1996).
+The PCR mix was prepared with 3 μL of DNA and
+25 μL of 0.4 μM each primer and 5X Fast-RunTM Taq
+Master Mix (Protech, Taipei, Taiwan). Amplification
+was performed with the PCR cycling conditions (Chiu
+and Ou, 1996). The PCR products were then sepa-
+rated using conventional electrophoresis in a 2% agarose
+gel (Invitrogen, Carlsbad, CA) and ethidium bromide
+staining.
+
+Pulsed-ﬁeld Gel Electrophoresis
+Genotyping
+
+Pulsed-field gel electrophoresis (PFGE) was per-
+formed according to the protocol developed by the
+Centers for Disease Control and Prevention (Swami-
+nathan et al., 2001). Restriction digestion was carried
+out by incubating agarose plug slices with XbaI enzyme
+(Promega, Madison, Wisconsin, USA). PFGE was con-
+ducted using a CHEF-Mapper (Bio-Rad Laboratories,
+Hercules, California, USA) for 18 hours at 6 V/cm
+at 14◦C with an initial switch time of 2.16 seconds
+and final switch time of 63.8 seconds. S. Braenderup
+H9812 was used as the size standard. The gels were
+stained with ethidium bromide (Promega, USA) and
+photographed. The DNA restriction patterns and clus-
+ter analysis were performed using GelCompar II V.3.5
+(Applied Math, Sint-Martens-Latem, Belgium) and the
+unweighted pair-group method with arithmetic aver-
+ages (UPGMA). The Dice correlation coefficient was
+used with a tolerance of 1% to identify similarities be-
+tween band patterns.
+
+Bacterial Isolation and Identiﬁcation
+
+Salmonella Typhimurium ATCC 14,028 was used
+as the quality control strain. The isolation method
+was done according to ISO method 6579/2002/Amd
+1:2007 (ISO, 2007). This method was based on the pre-
+
+Antimicrobial Susceptibility Testing
+
+Bacterial susceptibility to antimicrobials was tested
+quantitatively by broth micro-dilution with cation-
+adjusted Mueller-Hinton broth (Difco, USA) according
+to the guidelines of the Clinical and Laboratory Stan-
+dards Institute (CLSI, 2007). Sixteen antimicrobials
+
+ANTIMICROBIAL RESISTANCE OF SALMONELLA FROM TURKEY
+
+3
+
+Table 1. Serotype distribution of Salmonella isolates from turkeys in Taiwan, 2014–2016.1,2,3
+
+12-day-old poults (n = 52)
+
+Growing (10 wk) (n = 119)
+
+Finisher (20 wk) (n = 72)
+
+Serotypes
+
+Isolates Percentage
+
+Serotypes
+
+Isolates Percentage
+
+Serotypes
+
+Isolates Percentage
+
+S. Hardar
+S. Typhimurium
+S. Livingstone var. 14+
+S. Albany
+S. Tennessee
+
+21
+13
+10
+7
+1
+
+40.3%
+25.0%
+19.3%
+13.5%
+1.9%
+
+1
+2
+3
+4
+5
+6
+7
+
+S. Albany
+S. Schwarzengrund
+S. Typhimurium
+S. Hadar
+S. Weltevreden
+S. Livingstone var. 14+
+S. Newport
+
+39
+37
+21
+18
+2
+1
+1
+
+32.8%
+31.1%
+17.6%
+15.1%
+1.7%
+0.8%
+0.8%
+
+S. Albany
+S. Schwarzengrund
+S. Hadar
+S. Stanley
+S. Newport
+S. Typhimurium
+
+39
+19
+8
+3
+2
+1
+
+54.2%
+26.4%
+11.1%
+4.2%
+2.8%
+1.4%
+
+1The 3 stages are 12-day-old turkey poults, growing periods (10 wk), and finishing periods (20 wk). From each turkey-rearing farm, the intestines
+
+of 8 turkey poults at the age of 12 d and fresh fecal samples from 42 growing-period turkeys and 52 finisher turkeys were collected.
+
+2The isolation method was done according to ISO method 6579/2002/Amd 1:2007.
+3 The isolation rates of Salmonella in the collected samples were as follows: 32.5% (52/160) for intestine from 12-day-old turkey poults, 14.2%
+
+(119/840) for feces from grower turkeys, and 6.9% (72/1040) for feces from finisher turkeys.
+
+(7 classes) were used: β-lactams, phenicols, tetracy-
+clines, quinolones, aminoglycosides, polymyxins, and
+antifolates (Table 1). The criterion of choice was based
+on antimicrobials for veterinary and human use as di-
+rected by the World Health Organization (WHO), and
+the criteria for defining multidrug resistance (MDR),
+extensive drug resistance (XDR), and pan-drug resis-
+tance (PDR) in Enterobacteriaceae were according to
+Magiorakos et al. (2012). The minimum inhibitory con-
+centrations (MIC) were determined after 18 h of incu-
+bation at 37◦C. Escherichia coli ATCC 25,922, Staphy-
+lococcus aureus ATCC 29,213, and Enterococcus faecalis
+ATCC 29,212 were used as antimicrobial susceptibility
+testing controls in accordance with the CLSI recom-
+mendations. The resistance cut-offs that were used were
+those defined by the CLSI (2008).
+
+Detection of Resistance Determinants
+
+floR,
+
+tet(A),
+
+The extracted DNA of Salmonella isolates was fur-
+ther examined for detection of resistance genes. PCR
+was used to determine the presence of select an-
+timicrobial resistance genes, including blaTEM, blaSHV,
+blaCTX-M, blaPSE, ampC, cmlA,
+tet(B)
+tet(C),
+tet(D), and tet(M) (Mendez et al., 1980;
+Marshall et al., 1983; Warsa et al., 1996; Koeck et al.,
+1997; Sandvang et al., 1997; Ng et al., 1999; P´erez-
+P´erez et al., 2002; Cabrera et al., 2004; Weill et al.,
+2004). All isolates were screened for the presence of
+class 1 and 2 integrons by PCR and sequenced to iden-
+tify gene cassettes. Primers described by L´evesque et
+al. (1995) and White, McIver and Rawlinson (2001)
+were used to amplify the variable region of class 1
+and 2 integrons, respectively. PCR amplifications were
+prepared by combining 3 μL of boiled DNA tem-
+plate, with 0.2 μM of each primer, 200 μM dNTP
+(Protech, Taiwan), 10X reaction buffer (Protech, Tai-
+wan), 1 Unit Pro Taq Plus DNA Polymerase (Pro-
+tech, Taiwan), and sterile water. Amplification was
+performed with PCR conditions described previously
+(L´evesque et al., 1995; White, McIver and Rawlin-
+son, 2001). PCR results were analyzed on 2% agarose
+(Invitrogen, Carlsbad, CA). Amplified PCR products
+
+were purified with a QIAquick PCR purification Kit
+(Qiagen, Valencia, CA) and sequenced using ABI
+3730xl capillary sequencers (Applied Biosystems, Fos-
+ter City, CA). The DNA sequences were compared using
+the BLAST online search engine from GenBank at the
+National Center for Biotechnology Information website
+(http://www.ncbi.nlm.nih.gov/blast).
+
+Statistical Analysis
+
+Each experiment was repeated 3 times. The MIC re-
+sults of the strains were converted to the base 2 loga-
+rithm (log2), and one-way ANOVA followed by Dun-
+can’s multiple rang tests analysis were then used to
+compare whether there were differences between the re-
+sults of different strains. The chi-square test was used
+to compare the antimicrobial resistance genes and the
+serotypes. A P-value < 0.05 was considered statistically
+significant. All of the analyses were performed using
+the Statistical Package for the Social Sciences (SPSS)
+V.15.0.
+
+RESULTS
+
+Bacterial Isolation, Identiﬁcation, and
+Serovars
+
+From March 2014 to January 2016, turkeys were sam-
+pled from 20 turkey farms in Taiwan. The isolation rates
+of Salmonella in the collected samples were as follows:
+32.5% (52/160) for intestines from 12-day-old turkey
+poults, 14.2% (119/840) for feces from grower turkeys,
+and 6.9% (72/1040) for feces from finisher turkeys
+(Table 1).
+
+Nine different serotypes of Salmonella spp. were de-
+tected in this study (Table 1). Of the 243 strains,
+52 Salmonella strains were isolated from intestines
+of turkey poults, and their serotypes were S. Hadar
+(n = 21), S. Typhimurium (n = 13), S. Livingstone
+var. 14 + (n = 10), S. Albany (n = 7), and S.
+Tennessee (n = 1). In the flocks of grower turkeys,
+119 strains of Salmonella were isolated, and their
+serotypes were S. Albany (n = 39), S. Schwarzengrund
+
+4
+
+YEH ET AL.
+
+(n = 37), S. Typhimurium (n = 21), S. Hadar (n
+= 18), S. Weltevreden (n = 2), S. Livingstone var.
+14 + (n = 1), and S. Newport (n = 1). The com-
+mon serotypes of the 72 Salmonella strains isolated
+from the finishing periods were S. Albany (n =
+39), S. Schwarzengrund (n = 19), and S. Hadar
+(n = 8); other serotypes are shown in Table 1.
+Interestingly, only 3 serotypes (S. Hadar, S. Ty-
+phimurium, and S. Albany) were isolated in whole peri-
+ods. The predominant serotype identified in poults was
+S. Hadar (40.3%), but S. Albany (32.8 and 54.2%) and
+S. Schwarzengrund (31.1 and 26.4%) were the first 2
+predominant serotypes in growing and finisher turkeys.
+S. Tennessee, S. Weltevreden, and S. Stanely were found
+only in poults, growing, and finisher, respectively.
+
+Antimicrobial Susceptibility Testing
+
+Seven different classes of antimicrobial agents with
+a total of 16 antimicrobial agents were tested in this
+study (Table 2). The percentages of resistance, MIC50,
+and MIC90 of the antimicrobial agents observed among
+isolates in different stages at the turkey farms are shown
+in Table 2. In these Salmonella isolates, high ratios
+of antimicrobial resistance were detected against flor-
+fenicol (97.5%), oxytetracycline (89.3%), doxycycline
+(78.6%), colistin (77.8%), ampicillin (75.7%), amoxi-
+cillin (75.3%), trimethoprim-sulfamethoxazole (73.7%),
+chloramphenicol (69.1%), and nalidixic acid (67.9%).
+Medium-levels of resistance to streptomycin (53.1%),
+flumequine (49.0%), cefazolin (37.4%), amoxicillin-
+clavulanate (32.5%), and gentamicin (30.9%) also were
+found in this study. The lowest levels of resistance were
+enrofloxacin (9.1%) and ciprofloxacin (0.8%).
+
+The MIC levels of Salmonella isolates from grower
+turkeys were higher than those from the turkey poults
+in all of the tested antimicrobial agents, except for
+trimethoprim-sulfamethoxazole (P < 0.05). In addi-
+tion, the MIC levels of Salmonella isolates from fin-
+isher turkeys were higher than those from the turkey
+poults in all of the tested antimicrobial agents, except
+for amoxicillin-clavulanate, cefazolin, and streptomycin
+(P < 0.05). For the penicillins, resistance to amoxi-
+cillin was significantly higher in the isolates from grow-
+ers and finishers (81.5 and 80.6%) than in those from
+poults, whereas the clavulanate combination of amoxi-
+cillin substantially decreased the resistance occurrence
+of these pathogens (34.5 and 34.7%) (P < 0.05). In the
+quinolones, resistance to nalidixic acid and flumequine
+was also higher in growers and finishers (growers: 84.0
+and 53.8%; finishers: 77.8 and 63.9%) than in that from
+poults (P < 0.01). The florfenicol resistance was higher
+than chloramphenicol in all stages (P < 0.05).
+
+In this study, the Salmonella isolates also were cat-
+egorized based on serotypes, and their percentages of
+antimicrobial resistance are summarized in Table 3 ac-
+cordingly. Overall, 96.7% (235/243) of the Salmonella
+isolates were resistant to more than 3 antimicrobial
+agents, with the common serotypes S. Schwarzengrund
+(96.4%; 54/56), S. Typhimurium (62.9%; 22/35), and S.
+Albany (75.3%; 64/85) showing resistance to 6 or more
+antimicrobials (Table 4). Except for S. Schwarzengrund,
+S. Typhimurium, and S. Albany, the other serotypes
+in this study were susceptible for enrofloxacin and
+ciprofloxacin (Table 3). Aminoglycoside resistance in
+S. Schwarzengrund (STR: 94.6% and GEN: 87.5%) and
+S. Typhimurium (STR: 91.4% and GEN: 57.1%) were
+much higher than the other 2 serotypes [S. Albany
+
+Table 2. Antimicrobial susceptibility profiles of Salmonella isolates from turkeys in Taiwan (from different source).
+
+Antimicrobial
+
+Breakpoint1
+(μg/mL)
+
+Ampicillin
+Amoxicillin
+Amoxicillin-clavulanate
+Cefazolin
+Doxycycline
+Oxytetracycline
+Gentamicin
+Streptomycin
+Trimethoprim-
+sulfamethoxazole
+Nalidixic acid
+Flumequine
+Enrofloxacin
+Ciprofloxacin
+Chloramphenicol
+Florfenicol
+Colistin
+
+32
+32
+32
+32
+16
+16
+16
+642
+4/763
+
+32
+8
+2
+1
+32
+8
+4
+
+12-day-old poults (n = 52)
+MIC50
+
+MIC90
+
+R4 (%) MIC50 MIC90
+
+Growing (10 wk) (n = 119)
+
+Finisher (20 wk) (n = 72)
+R4 (%) MIC50 MIC90 R4 (%)
+
+Total (n = 243)
+
+R4 (%)
+
+512
+64
+1
+4
+16
+256
+
+0.5
+64
+16
+
+1024
+1024
+16
+64
+32
+512
+2
+512
+1024
+
+8
+1
+0.25
+0.125
+8
+8
+4
+
+1024
+32
+1
+0.25
+
+512
+512
+16
+
+46.2a,c
+48.1a,c
+21.2a
+21.2a
+78.8a,c
+80.7a,c
+11.5a,c
+48.1a
+53.8c
+
+25.0a,c
+17.3a,c
+5.8a,c
+0.0a,c
+36.5a,c
+96.2a,c
+75.0a,c
+
+1024
+1024
+16
+4
+16
+512
+1
+64
+1024
+
+1024
+1024
+32
+32
+64
+1024
+64
+1024
+1024
+
+512
+4
+0.5
+0.25
+
+128
+128
+8
+
+1024
+32
+2
+0.5
+
+512
+1024
+16
+
+82.4a
+81.5a
+34.5a
+10.1a
+77.3a
+89.9a,b
+38.7a
+55.5a
+79.8b
+
+84.0a,b
+53.8a,b
+14.3a
+0.0a
+74.8a,b
+98.3a
+82.4a,b
+
+1024
+1024
+16
+4
+32
+512
+
+0.5
+64
+1024
+
+1024
+16
+0.5
+0.25
+
+256
+128
+8
+
+1024
+1024
+32
+8
+32
+512
+64
+512
+1024
+
+1024
+64
+1
+0.5
+
+512
+512
+16
+
+81.9c
+80.6c
+34.7
+30.6
+81.9c
+94.4b,c
+31.9c
+54.2b
+86.1b,c
+
+77.8b,c
+63.9b,c
+2.8c
+2.8c
+81.9b,c
+97.2c
+73.6b,c
+
+75.7
+75.3
+32.5
+37.4
+78.6
+89.3
+30.9
+53.1
+73.7
+
+67.9
+49.0
+9.1
+0.8
+69.1
+97.5
+77.8
+
+aThe results of MICs between poults and growing showed significant difference using the analysis of one-way ANOVA (P < 0.05).
+bThe results of MICs between growing and finisher showed significant difference using the analysis of one-way ANOVA (P < 0.05).
+cThe results of MICs between poult and finisher showed significant difference using the analysis of one-way ANOVA (P < 0.05).
+1Reference from CLSI and BSAC.
+2Reference from NARMS.
+3Breakpoint concentration of trimethoprim/breakpoint of sulfamethoxazole.
+4Resistance percentage.
+
+ANTIMICROBIAL RESISTANCE OF SALMONELLA FROM TURKEY
+
+5
+
+Table 3. Percentage of antimicrobial resistance among different serotypes.1
+
+Antimicrobial S. Schwarzengrund S. Typhimurium S. Stanley
+agentsa
+(n = 3)
+
+(n = 56)
+
+(n = 35)
+
+S. Livingstone
+
+var. 14 + (n = 11)
+
+(n = 1)
+
+S. Tennessee S. Albany S. Hadar S. Newport S. Weltevreden
+
+(n = 85)
+
+(n = 47)
+
+(n = 3)
+
+(n = 2)
+
+AMP
+AMO
+AMC
+CEF
+DOX
+OTC
+STR
+GEN
+SXT
+NAL
+UB
+ENR
+CIP
+CHL
+FFC
+COL
+
+91.1
+91.1
+14.3
+23.2
+83.9
+96.4
+94.6
+87.5
+100
+96.4
+58.9
+35.7
+1.8
+98.2
+100
+75
+
+94.3
+94.3
+34.3
+82.9
+77.1
+80
+91.4
+57.1
+82.9
+57.1
+34.3
+28.6
+2.9
+68.6
+100
+28.6
+
+100
+100
+66.7
+66.7
+100
+100
+100
+33.3
+100
+33.3
+0
+0
+0
+100
+100
+33.3
+
+54.5
+54.5
+0
+9.1
+63.6
+63.6
+45.5
+0
+63.6
+18.2
+0
+0
+0
+63.6
+100
+0
+
+100
+0
+0
+100
+0
+0
+0
+0
+100
+0
+0
+0
+0
+0
+100
+0
+
+95.3
+94.1
+63.5
+50.6
+65.9
+87.1
+28.2
+5.9
+90.6
+94.1
+77.6
+11.8
+0
+87.1
+97.6
+51.8
+
+8.5
+10.6
+2.1
+0
+97.7
+97.9
+19.1
+0
+2.1
+8.5
+6.4
+0
+0
+4.3
+91.5
+76.6
+
+100
+100
+66.7
+66.7
+100
+100
+100
+0
+100
+100
+100
+0
+0
+100
+100
+66.7
+
+100
+100
+0
+0
+100
+100
+0
+0
+100
+50
+100
+0
+0
+0
+100
+50
+
+aAMP, Ampicillin; AMO, Amoxicillin; AMC, Amoxicillin-clavulanate; CEF, Cefazolin; DOX, Doxycycline; OTC, Oxytetracycline; STR, Strep-
+tomycin; GEN, Gentamicin; SXT, Trimethoprim-sulfamethoxazole; NAL, Nalidixic acid; UB, Flumequine; ENR, Enrofloxacin; CIP, Ciprofloxacin;
+CHL, Chloramphenicol; FFC, Florfenicol; COL, Colistin.
+
+1There are statistically significant differences in resistance levels between S. Hadar and other Salmonella serotypes (S. Schwazengrund, S. Ty-
+
+phimurium, and S. Albany) using the analysis of one-way ANOVA (P < 0.01).
+
+Table 4. Distribution of resistance to antimicrobial classes among different serotypes.1,2
+
+Serovara
+
+Isolates
+
+0
+
+1
+
+Antimicrobial agents classesb
+2
+
+3
+
+4
+
+5
+
+Group O:4 (B)
+S. Schwarzengrund
+S. Typhimurium
+S. Stanley
+Group O:7 (C1)
+S. Livingstone var. 14 +
+S. Tennessee
+Group O:8 (C2-C3)
+S. Albany
+S. Hadar
+S. Newport
+Group O:3, 10 (E1)
+S. Weltevreden
+Total
+
+56
+35
+3
+
+11
+1
+
+85
+47
+3
+
+2
+243
+
+1
+1
+
+1
+1
+
+6
+10
+
+1
+32
+
+33
+
+20
+
+1
+12
+
+2
+
+11
+2
+
+1
+29
+
+1
+
+1
+
+2
+
+2
+
+1
+
+3
+
+1
+
+2
+
+3
+
+6
+
+11
+12
+2
+
+3
+
+49
+2
+1
+
+1
+81
+
+7
+
+43
+10
+1
+
+1
+
+15
+
+2
+
+72
+
+a243 strains of Salmonella enterica subspecies enterica, belonging to 4 different serogroups (9 different
+
+serotypes), were detected in this study.
+
+sulfamethoxazole, quinolones, phenicols and polymyxin.
+agent in ≥3 antimicrobial categories.
+
+b7 classes of antimicrobial agents as follows: β-lactams, tetracyclines, aminoglycosides, trimethoprim-
+1Criteria for defining MDR, XDR, and PDR in Enterobacteriaceae. MDR: non-susceptible to ≥1
+XDR: non-susceptible to ≥1 agent in all but ≤2 categories. PDR: non-susceptible to all antimicrobial
+2The occurrence of a simultaneous resistance to various antimicrobial agents for Salmonella spp. was
+frequent, illustrating a frequency of more than 80% of resistance to 4 classes of key antimicrobial agents
+tested, particularly to S. Schwarzengrund, S. Typhimurium, S. Stanely, S. Newport. and S. Weltevreden.
+
+agents listed.
+
+(STR: 28.2% and GEN: 5.9%) and S. Hadar (STR:
+19.1% and GEN: 0.0%)] (P < 0.05). From the pheni-
+florfenicol resistance in S. Hadar was
+cols groups,
+extensively higher than chloramphenicol (P < 0.01).
+The occurrence of a simultaneous resistance to various
+antimicrobial agents for Salmonella spp. was frequent,
+illustrating a frequency higher than 80% of resistance to
+4 classes of key antimicrobial agnets tested, particularly
+to S. Schwarzengrund, S. Typhimurium, S. Stanely, S.
+Newport, and S. Weltevreden (Table 4). However, 2
+isolates (S. Livingstone var. 14+ and S. Hadar) were
+susceptible for all antimicrobial agents tested in this
+
+study. In addition, the resistance levels found between
+S. Hadar and other Salmonella serotypes (S. Schwaren-
+grund, S. Typhimurium, and S. Albany) were signifi-
+cantly different, as calculated by one-way ANOVA.
+
+Prevalence of Antimicrobial Resistance
+Genes
+
+Detected β-lactam resistance genes included blaPSE-1
+(140/243), blaTEM (102/243), blaCTX-M (83/243), and
+ampC (35/243), but other genes including blaSHV,
+
+6
+
+YEH ET AL.
+
+ampCMOXM, ampCDHAM, and ampCACCM were not
+detected in this study (Table 5). ampCEBCM and
+ampCFOXM were detected in S. Typhimurium only.
+Chloramphenicol resistance genes detected in this study
+were floR (155/243) and cmlA (83/243) (Table 5). In-
+terestingly, floR was not detected in all S. Hadar, and
+only one isolate was cmlA positive. Frequently detected
+tetracycline resistance genes included tet(A) (147/243),
+tet(D) (71/243), tet(B) (10/243), tet(M) (17/243), and
+tet(C)(6/243) (Table 5). In addition, there is a corre-
+lation calculated by the chi-square test between tet(A)
+and tet(D) in all serotypes, except for S. Tennessee, S.
+Hadar, and S. Newport. Only one antimicrobial resis-
+tance gene (cmlA) was detected in S. Tennessee. There
+is no correlation between antimicrobial resistance genes
+and serotypes (S. Schwarzengrund, S. Typhimurium, S.
+Albany, and S. Hadar) based on the analysis using the
+chi-square test. The int1 gene, encoding the integrase of
+class 1 integrons, was identified in 176 isolates (72.4%)
+in which the conserved region 3’ of this type of integron
+also was amplified. All isolates were negative for the
+int2 gene. Table 5 shows various resistance genes found
+in each of the serovars isolated from turkey farms.
+
+Classiﬁcation of Class 1 Integron
+
+Class 1 integrons were detected in 174 (72.4%) iso-
+lates, of which more than half were found in the
+following serotypes: S. Newport (3/3), S. Stanley (3/3),
+S. Tennessee (1/1), S. Schwarzengrund (54/56), S. Al-
+bany (79/85), and S. Typhimurium (23/35). Class 2
+integrons were not detected in any of the isolates.
+The drfA1-orfC/blaPSE-1 gene cassettes arrangement
+was found in 83 integron-positive Salmonella isolates
+(47.7%), followed by drfA12-orfF-aadA2 gene cassettes
+with the percentage at 38.50% (67/174). The blaPSE-1
+gene cassette was 6.90% (12/174), and the aadA22 gene
+cassette was 4.60% (8/174). The results of serotypes
+and their percentages of integrons are summarized in
+Table 5. From these results, the percentage of inte-
+grons in S. Hadar was much lower than in the other
+serotypes (8/47, 17.0%), and all integrons in S. Hadar
+were blaPSE-1 gene cassette positive. Most of the drfA1-
+orfC/blaPSE-1 gene cassettes and drfA12-orfF-aadA2
+gene cassettes were found in integrons of S. Albany
+and S. Schwarzengrund, respectively. The serotypes
+with multidrug resistance, such as S. Newport (3/3),
+S. Stanley (3/3), S. Schwarzengrund (54/56), and S.
+Albany (79/85), were mostly found to harbor the class
+1 integrons.
+
+DISCUSSION
+
+The current outbreak of human Salmonella infec-
+tion associated with turkey meat has highlighted risks
+associated with the production, handling, and prepa-
+ration of meat and poultry products (CDC, 2011).
+Furthermore, multidrug-resistant Salmonella spp. has
+
+n
+o
+r
+g
+e
+t
+n
+I
+
+s
+e
+n
+i
+l
+c
+y
+c
+a
+r
+t
+e
+T
+
+s
+l
+o
+c
+i
+n
+e
+h
+P
+
+s
+
+m
+a
+t
+c
+a
+l
+-
+β
+
+N
+
+2
+,
+1
+.
+s
+e
+p
+y
+t
+o
+r
+e
+s
+
+t
+n
+e
+r
+e
+f
+f
+i
+d
+
+g
+n
+o
+m
+a
+
+s
+e
+n
+e
+g
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+
+l
+a
+i
+b
+o
+r
+c
+i
+m
+
+i
+t
+n
+a
+
+f
+o
+
+n
+o
+i
+t
+u
+b
+i
+r
+t
+s
+i
+D
+
+.
+5
+
+e
+l
+b
+a
+T
+
+2
+t
+n
+i
+
+1
+t
+n
+i
+
+0
+
+0
+
+0
+
+4
+5
+
+3
+2
+
+3
+
+t
+e
+t
+
+)
+
+M
+
+(
+
+t
+e
+t
+
+)
+D
+(
+
+t
+e
+t
+
+)
+C
+(
+
+t
+e
+t
+
+)
+B
+(
+
+t
+e
+t
+
+)
+A
+(
+
+R
+o
+l
+f
+
+l
+
+A
+m
+c
+
+C
+p
+m
+a
+
+M
+X
+O
+F
+
+C
+p
+m
+a
+
+M
+C
+B
+E
+
+C
+p
+m
+a
+
+M
+C
+C
+A
+
+C
+p
+m
+a
+
+M
+A
+H
+D
+
+C
+p
+m
+a
+
+M
+T
+C
+
+I
+
+C
+p
+m
+a
+
+M
+X
+O
+M
+
+C
+p
+m
+a
+
+a
+l
+B
+
+V
+H
+S
+
+a
+l
+B
+
+-
+
+M
+X
+T
+C
+
+a
+l
+B
+
+E
+S
+P
+
+a
+l
+B
+
+M
+E
+T
+
+)
+B
+(
+
+4
+:
+O
+p
+u
+o
+r
+G
+
+r
+a
+v
+o
+r
+e
+S
+
+0
+
+6
+
+0
+
+0
+4
+
+8
+1
+
+3
+
+5
+
+1
+
+0
+
+1
+
+8
+
+0
+
+3
+5
+
+6
+2
+
+3
+
+0
+5
+
+5
+2
+
+0
+
+5
+5
+
+0
+1
+
+3
+
+0
+
+4
+
+0
+
+0
+
+8
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+1
+
+0
+
+0
+
+0
+
+0
+
+1
+1
+
+0
+3
+
+3
+
+1
+1
+
+3
+2
+
+2
+
+9
+4
+
+3
+2
+
+3
+
+6
+5
+
+5
+3
+
+3
+
+d
+n
+u
+r
+g
+n
+e
+z
+r
+a
+w
+h
+c
+S
+
+m
+u
+i
+r
+u
+m
+i
+h
+p
+y
+T
+
+y
+e
+l
+
+n
+a
+t
+S
+
+.
+S
+
+.
+S
+
+.
+S
+
+)
+1
+C
+(
+
+7
+:
+O
+p
+u
+o
+r
+G
+
+0
+
+0
+
+5
+
+1
+
+9
+
+0
+
+4
+
+0
+
+0
+
+0
+
+1
+
+0
+
+6
+
+0
+
+6
+
+0
+
+1
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+8
+
+0
+
+1
+1
+
+1
+
++
+
+4
+1
+
+.
+r
+a
+v
+
+e
+n
+o
+t
+s
+g
+n
+
+i
+v
+i
+L
+
+e
+e
+s
+s
+e
+n
+n
+e
+T
+
+.
+S
+
+.
+S
+
+)
+3
+C
+-
+2
+C
+(
+
+8
+:
+O
+p
+u
+o
+r
+G
+
+0
+
+0
+
+0
+
+9
+7
+
+8
+
+3
+
+2
+
+0
+
+0
+
+4
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+8
+
+7
+4
+
+2
+
+2
+7
+
+0
+
+2
+
+2
+1
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+3
+3
+
+1
+
+3
+
+0
+8
+
+1
+2
+
+3
+
+4
+1
+
+2
+
+3
+
+5
+8
+
+7
+4
+
+3
+
+)
+1
+E
+(
+
+0
+1
+
+y
+n
+a
+b
+l
+A
+
+r
+a
+d
+a
+H
+
+t
+r
+o
+p
+w
+e
+N
+
+.
+S
+
+.
+S
+
+.
+S
+
+,
+3
+:
+O
+p
+u
+o
+r
+G
+
+0
+
+0
+
+0
+
+6
+7
+1
+
+0
+
+7
+1
+
+2
+
+1
+7
+
+0
+
+6
+
+0
+
+0
+1
+
+2
+
+7
+4
+1
+
+0
+
+5
+5
+1
+
+0
+
+3
+8
+
+0
+
+4
+
+0
+
+8
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+1
+
+0
+
+0
+
+0
+
+2
+1
+
+0
+
+0
+
+1
+
+3
+8
+
+0
+
+0
+4
+1
+
+0
+
+2
+0
+1
+
+2
+
+3
+4
+2
+
+n
+e
+d
+e
+r
+v
+e
+t
+l
+e
+
+W
+
+.
+S
+
+l
+a
+t
+o
+T
+
+;
+V
+H
+S
+a
+l
+b
+
+,
+E
+S
+P
+a
+l
+b
+
+,
+
+-
+
+M
+X
+T
+C
+a
+l
+b
+
+,
+
+M
+E
+T
+a
+l
+b
+
+:
+)
+L
+B
+S
+E
+d
+n
+a
+
+s
+e
+s
+a
+m
+a
+t
+c
+a
+l
+-
+β
+m
+u
+r
+t
+c
+e
+p
+s
+d
+a
+o
+r
+b
+(
+
+s
+e
+s
+a
+n
+
+i
+l
+l
+i
+c
+i
+
+n
+e
+P
+
+:
+s
+w
+o
+l
+l
+o
+f
+
+s
+a
+
+s
+p
+u
+o
+r
+g
+
+e
+s
+e
+h
+t
+
+o
+t
+n
+
+i
+
+d
+e
+i
+f
+i
+s
+s
+a
+l
+c
+
+e
+r
+e
+w
+s
+e
+n
+e
+g
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+
+l
+a
+i
+
+b
+o
+r
+c
+i
+m
+
+i
+t
+n
+a
+
+,
+
+m
+
+s
+i
+n
+a
+h
+c
+e
+m
+
+r
+i
+e
+h
+t
+
+n
+o
+
+d
+e
+s
+a
+B
+
+1
+
+e
+n
+i
+l
+c
+y
+c
+a
+r
+t
+e
+t
+
+;
+)
+3
+-
+E
+e
+p
+y
+T
+(
+R
+o
+l
+f
+d
+n
+a
+
+)
+1
+-
+E
+e
+p
+y
+T
+(
+A
+m
+c
+
+l
+
+:
+p
+m
+u
+p
+x
+u
+
+l
+f
+f
+e
+
+l
+o
+c
+i
+
+n
+e
+h
+P
+
+;
+
+M
+X
+O
+F
+C
+p
+m
+a
+
+,
+
+M
+C
+B
+E
+C
+p
+m
+a
+
+,
+
+M
+C
+C
+A
+C
+p
+m
+a
+
+,
+
+I
+
+M
+T
+C
+C
+p
+m
+a
+
+,
+
+M
+A
+H
+D
+C
+p
+m
+a
+
+,
+
+M
+X
+O
+M
+C
+p
+m
+a
+
+,
+
+C
+p
+m
+a
+
+:
+)
+s
+e
+s
+a
+m
+a
+t
+c
+a
+l
+-
+β
+C
+p
+m
+A
+(
+
+s
+e
+s
+a
+n
+
+i
+r
+o
+p
+s
+o
+l
+a
+h
+p
+e
+C
+
+,
+s
+e
+i
+l
+i
+
+m
+a
+f
+
+l
+a
+r
+e
+v
+e
+s
+
+o
+t
+n
+i
+
+d
+e
+i
+f
+i
+s
+s
+a
+l
+c
+
+e
+r
+a
+
+s
+n
+o
+r
+g
+e
+t
+n
+i
+
+,
+e
+n
+e
+g
+
+e
+s
+a
+r
+g
+e
+t
+n
+i
+
+e
+h
+t
+
+n
+
+i
+
+s
+e
+c
+n
+e
+r
+e
+f
+f
+i
+
+d
+
+e
+h
+t
+
+n
+o
+
+d
+e
+s
+a
+b
+
+;
+)
+
+M
+
+(
+t
+e
+t
+
+:
+e
+n
+
+i
+l
+c
+y
+c
+a
+r
+t
+e
+t
+
+f
+o
+
+e
+n
+e
+g
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+
+n
+o
+i
+t
+c
+e
+t
+o
+r
+p
+
+l
+a
+m
+o
+s
+o
+b
+R
+
+i
+
+;
+)
+D
+(
+t
+e
+t
+
+,
+)
+C
+(
+t
+e
+t
+
+,
+)
+B
+(
+t
+e
+t
+
+,
+)
+A
+(
+t
+e
+t
+
+:
+
+p
+m
+u
+p
+
+x
+u
+l
+f
+f
+e
+
+.
+t
+s
+e
+t
+
+e
+r
+a
+u
+q
+s
+-
+i
+h
+c
+
+e
+h
+t
+
+g
+n
+i
+s
+u
+
+s
+i
+s
+y
+l
+a
+n
+a
+
+e
+h
+t
+
+n
+o
+
+d
+e
+s
+a
+b
+
+)
+r
+a
+d
+a
+H
+
+.
+
+S
+
+d
+n
+a
+
+,
+y
+n
+a
+b
+A
+
+l
+
+.
+
+S
+
+,
+
+m
+u
+
+i
+
+i
+r
+u
+m
+h
+p
+y
+T
+
+.
+
+S
+
+,
+
+d
+n
+u
+r
+g
+n
+e
+z
+r
+a
+w
+h
+c
+S
+
+.
+
+S
+(
+
+s
+e
+p
+y
+t
+o
+r
+e
+s
+
+d
+n
+a
+
+s
+e
+n
+e
+g
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+
+l
+a
+i
+b
+o
+r
+c
+i
+m
+
+i
+t
+n
+a
+
+n
+e
+e
+w
+t
+e
+b
+
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+c
+
+o
+n
+
+s
+i
+
+e
+r
+e
+h
+T
+
+2
+
+.
+2
+
+d
+n
+a
+
+1
+
+s
+e
+s
+s
+a
+l
+c
+
+g
+n
+
+i
+
+d
+u
+l
+c
+n
+i
+
+ANTIMICROBIAL RESISTANCE OF SALMONELLA FROM TURKEY
+
+7
+
+been frequently detected in humans and animals
+worldwide (Winokur et al., 2000; Lu et al., 2014; Routh
+et al., 2015; Sinwat et al., 2016), with many countries
+already utilizing monitoring programs for antimicro-
+bial resistance in Salmonella. Hence, many research re-
+ports on this topic are available (USDA, 2000; White
+et al., 2001; EFSA, 2008). For example, several stud-
+ies on Salmonella in the United Kingdom were con-
+ducted at 252 turkey farms (Featherstone et al., 2010),
+with results showing that the isolation rate at the farm
+level was 34.1% (86/252) and that the most preva-
+lent serovar were S. Kottbus (17.9%), followed by S.
+Typhimurium (6.0%) and S. Derby (5.2%; 13/252).
+Another report from a British turkey breeder farm and
+hatchery demonstrated that S. Kottbus and S. Sen-
+ftenberg were the most frequently isolated (Mueller-
+Doblies et al., 2013). Aury et al. (2010) conducted
+an investigation into turkey Salmonella in France, and
+the results showed that the 5 most common serotypes
+were S. Derby (29.2%), S. Enteritidis (11.7%), S.
+Typhimurium (10.1%), S. Hadar (8.4%), and S. Mban-
+daka (6.8%) (Aury et al., 2010). In Canada, S. Heidel-
+berg and S. Hadar were the most prevalent serotypes
+in turkeys (Aslam et al., 2012). A report indicated that
+the most commonly detected serotypes among turkey
+isolates in the United States were S. Hadar (19.9%), S.
+Saintpaul (13.9%), S. Heidelberg (9.3%), S. Schwarzen-
+grund (7.3%), and S. Albany (4.0%) (USDA, 2012). In
+the present study, the most common serotypes of the
+Salmonella in turkeys were S. Albany (35.0%; 85/243),
+S. Schwarzengrund (23.0%; 56/243), S. Harda (19.3%;
+47/243), and S. Typhimurium (14.4%; 35/243). It can
+be noted that S. Hadar was among the most com-
+mon serotypes in Taiwan, France, Canada, and the
+United States, but not in the United Kingdom. S.
+Typhimurium also was frequently isolated in Taiwan,
+the United Kingdom, and France. The abovementioned
+results from different countries indicate that geograph-
+ical factors may have contributed to the varying distri-
+bution of prevalence of Salmonella serotypes (Lewerin
+et al., 2011). Thus, each country or geographic region
+will need to conduct epidemiological surveillance of the
+Salmonella serotypes in a proactive manner.
+
+Vertical transmission of Salmonella has been demon-
+strated experimentally in chickens (Keller et al., 1995).
+Horizontal transmission in hatcheries has been sug-
+gested in some studies as well (Angen et al., 1996;
+Christensen et al., 1997; Skov et al., 1999). In Taiwan,
+it is mandatory by law to quarantine imported young
+turkeys and imported embryonated turkey eggs for 10
+d after being imported (BAPHIQ, 2009). Therefore,
+whether there is vertical transmission or horizontal
+transmission during the quarantine period merits fur-
+ther studies when the laws and regulations permit.
+
+Salmonella isolated from turkey meat products in the
+United States was found to be highly resistant to an-
+timicrobials such as ampicillin, tetracycline, and strep-
+tomycin (FDA, 2013). In the present study, the results
+showed that over half of Salmonella isolates were resis-
+
+tant to streptomycin (53.1%), nalidixic acid (67.9%),
+trimethoprim-sulfamethoxazole
+(73.7%), amoxicillin
+(75.3%), ampicillin (75.7%), colistin (77.8%), doxycy-
+cline (78.6%), oxytetracycline (89.3%), and florfenicol
+(97.5%) (Table 2), all of which are frequently admin-
+istered on turkey farms in Taiwan. The results also
+indicated a similar pattern in high resistance to antimi-
+crobials such as streptomycin, ampicillin, and oxyte-
+tracycline in Taiwan. It also can be noted that a
+high prevalence of ampicillin- and amoxicillin-resistant
+strains was observed in almost all of the Salmonella
+serotypes in this study, with the exception of S. Hadar
+and S. Livingstone var. 14 +. In addition, when com-
+paring the MIC levels of the same antimicrobial agent
+in the salmonella isolates from finishing turkeys and
+those from turkey poults, the MIC levels were found
+to be significantly higher (P < 0.05) in the finish-
+ing turkeys than those in the turkey poults for almost
+all the antimicrobial agents tested in this study, ex-
+cept for amoxicillin-clavulanate, cefazolin, and strep-
+tomycin (Table 2). This might reflect the effect of
+long-term antimicrobial administration in the turkey-
+rearing industry in Taiwan. During the period of
+turkey-rearing (approximately 4.5 to 5 mo), antimicro-
+bial agents used in turkeys are often administered in a
+way that increases antimicrobial resistance, e.g., by sub-
+therapeutic dosage or repeated mass treatments, long-
+term administration of antimicrobials, or addition to
+feed and water for prophylactic purposes (Viswanathan,
+2014). These practices may have caused the emergence
+of resistant Salmonella strains (EFSA and ECDC,
+2014). In Taiwan, chloramphenicol has been prohibited
+for use in food-producing animals since 2002 (COA,
+2002). After chloramphenicol was banned, florfenicol
+was used to replace chloramphenicol in clinical treat-
+ment (Neu and Fu, 1980; White et al., 2000). Some
+studies have shown that the frequent and intensive ad-
+ministration of antimicrobials may lead to the spread
+of plasmids, transposons, or integrons carrying rele-
+vant genes for antimicrobial resistance among differ-
+ent strains of bacteria (Bennett, 2008; Nikaido, 2009).
+Since the aforementioned materials could also harbor
+resistance genes of other classes of antimicrobials, mul-
+tiple antimicrobial resistances could then ensue (Levy
+and Marshall, 2004; Salyers et al., 2004). This might
+explain the ubiquity of antimicrobial resistance found
+in different serotypes of Salmonella on Taiwan’s turkey
+farms. The above points underline the need to address
+these issues, such as the practice of administering an-
+timicrobials and the emergence of antimicrobial resis-
+tance facing the turkey-rearing industry in Taiwan.
+
+In the present study, 72.4% of the Salmonella iso-
+lates (176/243) were found to carry the intI1 gene,
+with no intI2 gene detected. Of the 176 isolates
+with the intI1 gene, different serotypes showed a
+intI1 gene distribution with the
+varying degree of
+highest proportions in S. Stanley 100% (3/3), S.
+Tennessee 100% (1/1), and S. Newport 100% (3/3), fol-
+lowed by S.Schwarzengrund 96.4% (54/56), S. Albany
+
+8
+
+YEH ET AL.
+
+92.9% (79/85), S. Typhimurium 65.7% (23/35), S.
+Livingstone var. 14 + 45.5% (5/11), and S. Hadar 17.0%
+(8/47). According to many literatures, there were 9.1 to
+83.6% of Salmonella strains carrying class 1 integrons,
+which are genetic materials that confer multidrug re-
+sistance (Leverstein-van Hall et al., 2002; Chen et al.,
+2004; Dessie et al., 2013; Hsu et al., 2013; Siriken et al.,
+2015). Thus, it can be deduced that the int1 gene had a
+strong presence in most of the turkey Salmonella in Tai-
+wan. In addition, the int1 genes detected in the present
+study mostly belonged to the drfA1-orfC/blaPSE-1 gene
+cassettes and drfA12-orfF-aadA2 gene cassettes, and
+this finding was consistent with the study results by Hsu
+et al. (2013). Moreover, detection of the antimicrobial
+resistance genes was performed in this study, and the
+results showed the top 4 of the most isolated serotypes
+(S. Albany, S. Schwarzengrund, S. Hadar, and S.
+Typhimurium) all carried multi-antimicrobial resis-
+tance genes. A high prevalence of ampicillin- and
+amoxicillin-resistant strains was observed in this study.
+In terms of the β-lactam resistance genes, blaPSE and
+blaCTX-M were detected in the S. Albany isolates at the
+percentages of 94.1% (80/85) and 38.8% (33/85), re-
+spectively; blaTEM was detected in 87.5% (49/56) of
+the S. Schwarzengrund isolates; blaPSE was detected
+in 44.7% (21/47) of the S. Hadar isolates; blaCTX-M,
+blaTEM, and blaPSE were detected in 85.7% (30/35),
+65.7% (23/35), and 65.7% (23/35), respectively, of the
+S. Typhimurium isolates. It can be noted that although
+44.7% (21/47) of the S. Hadar isolates carried the
+gene of blaPSE, antimicrobial resistance to ampicillin
+and amoxicillin was found to be relatively low (8.5
+and 10.6%, respectively) in the S. Hadar isolates. A
+high prevalence of chloramphenicol and florfenicol re-
+sistance strains was observed in this study, indicating
+that active efflux pumps (cmlA and floR gene) played
+an important role in intrinsic and acquired resistance
+against chloramphenicol and/or florfenicol (Braibant
+et al., 2005; Chang et al., 2015). In this study, floR
+gene was detected in 84.7% (72/85) of the S. Albany
+isolates, while cmlA and floR genes were detected in
+98.2% (55/56) and 89.3% (50/56), respectively, of the
+S. Schwarzengrund isolates. Amphenicol-related resis-
+tance genes were seldom detected in the S. Hadar iso-
+lates in this study, whereas floR gene was detected in
+71.4% (25/35) of the S. Typhimurium isolates. Again,
+it can be noted that antimicrobial resistance to flor-
+fenicol was fairly high (91.5%) in the S. Hadar isolates,
+despite only one out of the 47 S. Hadar isolates be-
+ing detected with cmlA gene. For tetracycline-related
+resistance genes, only a few were detected in the S.
+Albany isolates, whereas many were detected in the S.
+Schwarzengrund and S. Typhimurium isolates with tet
+(A) and tet (D) found to be the main resistance genes.
+tet (A) and tet (D) were detected in 94.6% (53/56) and
+71.4% (40/56) of the S. Schwarzengrund isolates; tet (A)
+and tet (D) were detected in 74.3% (26/35) and 51.4%
+(18/35) of the S. Typhimurium isolates. For S. Hadar,
+tet (A) was detected in all of the S. Hadar isolates
+
+(47/47). There were some discrepancies between the de-
+tection rates of resistance genes and the actual levels of
+antimicrobial resistance for some Salmonella serovars in
+this study. For instance, 44.7% (21/47) of the S. Hadar
+isolates were found to have blaPSE gene, but only 8.5
+and 10.7% of the S. Hadar isolates showed resistance to
+ampicillin and amoxicillin, respectively. The underlying
+reason for this phenomenon needs to be further investi-
+gated. In addition, S. Hadar isolates in this study also
+had high resistance to florfenicol (91.5%), but surpris-
+ingly none (0%) of the S. Hadar isolates was detected to
+harbor floR gene, and only one of the S. Hadar isolates
+(2.1%) had cmlA gene. Taking account of this result and
+the other finding that only 4.3% of the S. Hadar iso-
+lates were resistance to chloramphenicol, which belongs
+to the same class of antimicrobial agent as florfenicol, it
+might suggest that other mechanisms of antimicrobial
+resistance could be involved (data not shown), such as
+over-expression of the multidrug efflux system: mdfA,
+floR, cmlA, or AcrAB-TolC system (Andersen et al.,
+2015, Baucheron et al., 2004). This kind of discrepancy
+also was observed in the S. Albany isolates, in which
+the resistances to doxycyline and oxytetracycline were
+65.9 and 87.1%, while the detection rates of tet (A) and
+tet (D) genes were only 9.4 and 4.7% each. There might
+be other mechanisms involved, and further studies and
+tests are needed for elucidation.
+
+Nontyphoidal Salmonella spp. has become increas-
+ingly resistant to clinically important antimicrobial
+agents, and this is causing a public health concern. This
+is the first paper, to the best of our knowledge, that pro-
+vides data about the current status of the antimicrobial
+susceptibility of nontyphoidal Salmonella isolated from
+commercial turkey farms in various regions of Taiwan.
+Since Taiwan’s turkey-rearing industry relies heavily on
+imported turkey chicks from the United States, further
+studies are needed to clarify whether young turkeys are
+already infected with Salmonella at hatcheries when be-
+ing imported. Approaches based on ecology and the re-
+sults of this study underline the need for more proac-
+tive surveillance of antimicrobial resistance and the ur-
+gency in improvement of poultry production practices
+in order to reduce and even eliminate food contamina-
+tion by multidrug-resistant bacteria. Moreover, an ap-
+proach based on ecology and epidemiology is needed
+to fully understand the emergence, transmission, and
+persistence of antibiotic-resistant Salmonella.
+
+REFERENCES
+
+Andersen, J. L., G. X. He, P. Kakarla, C. R. K. S. Kumar, W. S.
+Lakra, M. M. Mukherjee, I. Ranaweera, U. Shrestha, T. Tran, and
+M. F. Varela. 2015. Multidrug efflux pumps from Enterobacteri-
+aceae, Vibrio cholerae and Staphylococcus aureus bacterial food
+pathogens. Int. J. Environ. Res. Public Health. 12:1487–1547.
+
+Angen, Ø, M. N Skov, M. Chri´el, J. F. Agger, and M. Bisgaard. 1996.
+A retrospective study on Salmonella infection in Danish broiler
+flocks. Prev. Vet. Med. 26:223–237.
+
+Aslam, M., S. Checkley, B. Avery, G. Chalmers, V. Bohaychuk, G.
+Gensler, R. Reid-Smith, and P. Boerlin. 2012. Phenotypic and
+genetic characterization of antimicrobial resistance in Salmonella
+
+ANTIMICROBIAL RESISTANCE OF SALMONELLA FROM TURKEY
+
+9
+
+serovars isolated from retail meats in Alberta, Canada Food
+Microbiol. 32:110–117.
+
+Aury, K., M. Chemaly, I. Petetin, S. Rouxel, M. Picherot, V.
+Michel, and S. Le Bouquin. 2010. Prevalence and risk factors
+for Salmonella enterica subsp. enterica contamination in French
+breeding and fattening turkey flocks at the end of the rearing
+period. Prev. Vet. Med. 94:84–93.
+
+Bureau of Animal and Plant Health Inspection and Quarantine
+(BAPHIQ). 2009. Enforcement rules of statute for prevention
+and control of infectious animal diseases. Accessed Dec. 23, 2009.
+http://www.baphiq.gov.tw/office/hcbaphiq/files/web articles
+files/hcbaphiq/183/1672.pdf.
+
+Barrow, P. A. 2000. The paratyphoid Salmonellae. Rev. Sci. Tech.
+
+19:351–375.
+
+and A. Cloeckaert.
+
+Baucheron, S., S. Tyler, D. Boyd, M. R. Mulvey, E. Chaslus-
+Dancla,
+2004. AcrAB-TolC directs
+efflux-mediated multidrug resistance in Salmonella enterica
+serovar Typhimurium DT104. Antimicrob. Agents Chemother.
+48:3729–3735.
+
+Bennett, P. M. 2008. Plasmid encoded antibiotic resistance: Acqui-
+sition and transfer of antibiotic resistance genes in bacteria. Br.
+J. Pharmacol. 153:S347–357.
+
+Braibant, M., J. Chevalier, E. Chaslus-Dancla, J. M Pages, and A.
+Cloeckaert. 2005. Structural and functional study of the phenicol-
+specific efflux pump FloR belonging to the major facilitator su-
+perfamily. Antimicrob. Agents Chemother. 49:2965–2971.
+
+Cabrera, R., J. Ruiz, F. Marco, I. Oliveira, M. Arroyo, A. Aladue˜na,
+M. A. Usera, M. T. Jim´enez De Anta, J. Gasc´on, and J. Vila.
+2004. Mechanism of resistance to several antimicrobial agents in
+Salmonella clinical isolates causing traveler’s diarrhea. Antimi-
+crob. Agents Chemother. 48:3934–3939.
+
+Centers for Disease Control and Prevention (CDC). 2011. In-
+vestigation update: Multistate outbreak of human Salmonella
+Heidelberg infections linked to turkey. http://www.cdc.gov/
+salmonella/heidelberg/080411/index.html.
+
+Chang, S. K., D. Y. Lo, H. W. Wei, and H. C. Kuo. 2015. Antimi-
+crobial resistance of Escherichia coli isolates from canine urinary
+tract infections. J. Vet. Med. Sci. 77:59–65.
+
+Chen, S., S. Zhao, D. G. White, C. M. Schroeder, R. Lu, H. Yang,
+P. F. McDermott, S. Ayers, and J. Meng. 2004. Characterization
+of multiple–antimicrobial– esistant Salmonella serovars isolated
+from retail meats. Appl. Environ. Microbiol. 70:1–7.
+
+Chiu, C. H., and J. T. Ou. 1996. Rapid identification of Salmonella
+serovars in feces by specific detection of virulence genes, invA and
+spvC, by an enrichment broth culture-multiplex PCR combina-
+tion assay. J. Clin. Microbiol. 34:2619–2622.
+
+Christensen, J. P., D. J Brown, M Madsen, J. E Olsen, and
+M. Bisgaard. 1997. Hatchery-borne Salmonella enterica serovar
+Tennessee infections in broilers. Avian Pathology. 26:155–168.
+
+Clinical and Laboratory Standards Institute (CLSI). 2007. Perfor-
+mance Standards for Antimicrobial Susceptibility Testing, Sev-
+enteenth Informational Supplement. CLSI document M100-S17.
+Clinical and Laboratory Standards Institute, Wayne, PA.
+
+Clinical and Laboratory Standards Institute (CLSI). 2008. Perfor-
+mance Standards for Antimicrobial Disk and Dilution Suscepti-
+bility Tests for Bacteria Isolated From Animals, Approved Stan-
+dard, 3rd Ed. Informational Supplement. CLSI document M31-
+A3. Clinical and Laboratory Standards Institute, Wayne, PA.
+
+Council of Agriculture, Executive Yuan, R.O.C. (COA). 2015. Agri-
+livestock production, statistics yearbook.
+
+cultural production:
+http://eng.coa.gov.tw/ws.php?id=2505271.
+
+Council of Agriculture, Executive Yuan, R.O.C. (COA). 2002.
+Prohibit “o-dichlorobenzene” for animal use and forbid-
+den food-producing animals using chloramphenicol. Accessed
+Dec. 26, 2002. http://www.coa.gov.tw/theme data.php?theme=
+communique&id=2858.
+
+Davis, M. A., D. D. Hancock, T. E. Besser, D. H. Rice, J. M.
+Gay, C. Gay, L. Gearhart, and R. DiGiacomo. 1999. Changes in
+antimicrobial resistance among Salmonella enterica serovar Ty-
+phimurium isolates from humans and cattle in the Northwestern
+United States. Emerg. Infect. Dis. 5:802–806.
+
+Dessie, H. K., D. H. Bae, and Y. J. Lee. 2013. Characterization of
+integrons and their cassettes in Escherichia coli and Salmonella
+isolates from poultry in Korea. Poult. Sci. 92:3036–3043.
+
+12
+
+3590
+
+2014
+
+European Food Safety Authority (EFSA) and European Cen-
+tre for Disease Prevention and Control (ECDC). The Eu-
+ropean Union summary report on antimicrobial
+resistance
+in zoonotic and indicator bacteria from humans, animals
+and food in 2012 EFSA Journal
+[336
+pp]. doi: 10:2903/j.efsa.2014.3590. Accessed March. 2014.
+https://www.efsa.europa.eu/en/efsajournal/pub/3590.
+
+European Food Safety Authority (EFSA)-Working Group on Devel-
+oping Harmonised Schemes for Monitoring Antimicrobial Resis-
+tance in Zoonotic Agents. 2008. Harmonised monitoring of an-
+timicrobial resistance in Salmonella and Campylobacter isolates
+from food animals in the European Union. Clin. Microbiol. Infect.
+14:522–533.
+
+Fakhr, M. K., J. S. Sherwood, J. Thorsness, and C. M. Logue. 2006.
+Molecular characterization and antibiotic resistance profiling of
+Salmonella isolated from retail turkey meat products. Foodborne
+Pathog. Dis. 3:366–374.
+
+Featherstone, C. A., R. Reichel, L. C. Snow, R. H. Davies, K. H.
+Christiansen, J. J. Carrique-Mas, and S. J. Evans. 2010. Inves-
+tigation of risk factors for Salmonella on fattening-turkey farms.
+Epidemiol. Infect. 138:1427–1438.
+
+Fluit, A. C., and F. J. Schmitz. 1999. Class 1 integrons, gene cas-
+settes, mobility, and epidemiology. Eur. J. Clin. Microbiol. Infect.
+Dis. 18:761–770.
+
+Food and Drug Administration (FDA). 2013. National Antimicrobial
+Resistance Monitoring System for Enteric Bacteria (NARMS):
+2011 Retail Meat Report. Silver Spring, MD: U.S. Food and Drug
+Administration, NARMS Reports.
+
+Guerra, B., S. Soto, S. Cal, and M. C. Mendoza. 2000. Antimicro-
+bial resistance and spread of class 1 integrons among Salmonella
+serotypes. Antimicrob. Agents Chemother. 44:2166–2169.
+
+Hafez, H. M., and S. Jodas. 2000. Salmonella infections in Turkeys.
+Pages 89–106 in Salmonella in Domestic Animals. C Wray, and
+A. Wray, 1st ed. CABI, New York.
+
+Hsu, Y. M., C. Y. Tang, H. Lin, Y. H. Chen, Y. L. Chen, Y. H. Su, D.
+S. Chen, J. H. Lin, and C. C. Chang. 2013. Comparative study of
+class 1 integron, ampicillin, chloramphenicol, streptomycin, sul-
+famethoxazole, tetracycline (ACSSuT) and fluoroquinolone resis-
+tance in various Salmonella serovars from humans and animals.
+Comp. Immunol. Microbiol. Infect. Dis. 36:9–16.
+
+International Organization for Standardization (ISO). 2007. ISO
+6579:2002/Amd 1:2007 Annex D: Detection of Salmonella spp.
+in animal faeces and in environmental samples from the primary
+production stage. International Organization for Standardization,
+Geneva, Switzerland.
+
+Keller, L. H., C. E. Benson, K. Krotec, and R. J. Eckroade. 1995.
+Salmonella enteritidis colonization of the reproductive tract and
+forming and freshly laid eggs of chickens. Infect. Immun. 63:2443–
+2449.
+
+Khachatourians, G. G. 1998. Agricultural use of antibiotics and the
+evolution and transfer of antibiotic-resistant bacteria. Can. Med.
+Ass. J. 159:1129–1136.
+
+Koeck, J. L., G. Arlet, A. Philippon, S. Basmaciogullari, H. V. Thien,
+Y. Buisson, and J. D. Cavallo. 1997. A plasmid-mediated CMY-
+2 beta-lactamase from an Algerian clinical isolate of Salmonella
+Senftenberg. FEMS Microbiol. Lett. 152:255–260.
+
+Leverstein-van Hall, M. A., A. T. Box, H. E. Blok, A. Paauw,
+A. C. Fluit, and J. Verhoef. 2002. Evidence of extensive in-
+terspecies transfer of integron-mediated antimicrobial resistance
+genes among multidrug-resistant Enterobacteriaceae in a clinical
+setting. J. Infect. Dis. 186:49–56.
+
+L´evesque, C., L. Pich´e, C. Larose, and P. H. Roy. 1995. PCR map-
+ping of integrons reveals several novel combinations of resistance
+genes. Antimicrob. Agents Chemother. 39:185–191.
+
+Levy, S. B., and B. Marshall. 2004. Antibacterial resistance world-
+wide: causes, challenges and responses. Nat. Med. 10:S122–129.
+Lewerin, S. S., L Skog, J Fr¨ossling, and H. Wahlstr¨om. 2011.
+Geographical distribution of Salmonella infected pig, cattle and
+sheep herds in Sweden 1993–2010. Acta. Vet. Scand. 53:51. doi:
+10.1186/1751-0147-53-51.
+
+Logue, C. M., J. S. Sherwood, P. A. Olah, L. M. Elijah, and
+M. R. Dockter. 2003. The incidence of antimicrobial-resistant
+Salmonella spp on freshly processed poultry from US Midwestern
+processing plants. J. Appl. Microbiol. 94:16–24.
+
+10
+
+YEH ET AL.
+
+Lu, Y., H. Zhao, J. Sun, Y. Liu, X. Zhou, R. C. Beier, G. Wu, and
+X. Hou. 2014. Characterization of multidrug-resistant Salmonella
+enterica serovars Indiana and Enteritidis from chickens in East-
+ern China. See comment in PubMed Commons below PLoS One.
+9:e96050. doi: 10.1371/journal.pone.0096050.
+
+Magiorakos, A. P., A. Srinivasan, R. B. Carey, Y. Carmeli, M. E.
+Falagas, C. G. Giske, S. Harbarth, J. F. Hindler, G. Kahlme-
+ter, B. Olsson-Liljequist, D. L. Paterson, L. B. Rice, J. Stelling,
+M. J. Struelens, A. Vatopoulos, J. T. Weber, and D. L.
+Monnet. 2012. Multidrug-resistant, extensively drug-resistant
+and pandrug-resistant bacteria: an international expert proposal
+for interim standard definitions for acquired resistance. Clin. Mi-
+crobiol. Infect. 18: 268–281.
+
+Marshall, B., C. Tachibana, and S. B. Levy. 1983. Frequency of tetra-
+cycline resistance determinant classes among lactose-fermenting
+coliforms. Antimicrob. Agents Chemother. 24:835–840.
+
+Mendez, B., C. Tachibana, and S. B. Levy. 1980. Heterogeneity of
+
+tetracycline resistance determinants. Plasmid 31:99–108.
+
+Mueller-Doblies, D., C. Clouting, and R. H. Davies. 2013. Inves-
+tigations of the distribution and persistence of Salmonella and
+ciprofloxacin-resistant Escherichia coli in turkey hatcheries in the
+UK. Zoonoses Public. Health. 60:296–303.
+
+Nayak, R., T. Stewart, R. F. Wang, J. Lin, C. E. Cerniglia, and P. B.
+Kenney. 2004. Genetic diversity and virulence gene determinants
+of antibiotic-resistant Salmonella isolated from preharvest turkey
+production sources. Int. J. Food Microbiol. 91:51–62.
+
+Neu, H. C., and K. P. Fu. 1980 In vitro activity of chlorampheni-
+col and thiamphenicol analogs. Antimicrob. Agents Chemother.
+18:311–316.
+
+Ng, L. K., M. R. Mulvey, I. Martin, G. A. Peters, and W. John-
+son. 1999. Genetic characterization of antimicrobial resistance in
+Canadian isolates of Salmonella serovar Typhimurium DT104.
+Antimicrob. Agents Chemother. 43:3018–3021.
+
+Nikaido, H. 2009. Multidrug resistance in bacteria. Annu. Rev.
+
+Biochem. 78:119–146.
+
+Okolo, M. I. 1986. Bacterial drug resistance in meat animals: A re-
+
+view. Int. J. Zoonoses 13:143–152.
+
+P´erez-P´erez, F. J., and N. D. Hanson. 2002. Detection of plasmid-
+mediated AmpC beta-lactamase genes in clinical isolates by using
+multiplex PCR. J. Clin. Microbiol. 40:2153–2162.
+
+Poppe, C., L. C. Martin, C. L. Gyles, R. Reid-Smith, P. Boerlin, S.
+A. McEwen, J. F. Prescott, and K. R. Forward. 2005. Acquisition
+of resistance to extended-spectrum cephalosporins by Salmonella
+enterica subsp. enterica serovar Newport and Escherichia coli
+in the turkey poult intestinal tract. Appl. Environ. Microbiol.
+71:1184–1192.
+
+Quinn, P. J., B. K. Markey, F. Leonard, P. Hartigan, S. Fanning,
+and E. FitzPatrick. 2011. Veterinary Microbiology and Microbial
+Disease. 2nd ed. Wiley–Blackwell Publishing, New York, NY.
+
+Recchia, G. D., and R. M. Hall. 1995. Gene cassettes: a new class of
+
+mobile element. Microbiology 141:3015–3027.
+
+Routh, J. A., J. Pringle, M. Mohr, S. Bidol, K. Arends, M.
+Adams-Cameron, W. T. Hancock, B. Kissler, R. Rickert, J.
+Folster, B. Tolar, S. Bosch, C. Barton Behravesh,
+I. T.
+Williams, and L. Gieraltowski. 2015. Nationwide outbreak of
+multidrug-resistant Salmonella Heidelberg infections associated
+with ground turkey: United States, 2011. See comment in
+PubMed Commons below Epidemiol. Infect. 143:3227–3234. doi:
+10.1017/S0950268815000497.
+
+Saif, Y. M., A. M. Fadly, J. R. Glisson, L. R. McDougald, L. K.
+Nolan, and D. E. Swayne. 2008. Salmonella Infections. Pages 567–
+614 in Diseases of Poultry. R. K. Gast, and H. L Shivaprasad, 12th
+ed. Wiley-Blackwell, Iowa.
+
+Salyers, A. A., A. Gupta, and Y. Wang. 2004. Human intesti-
+nal bacteria as reservoirs for antibiotic resistance genes. Trends
+Microbiol. 12:412–416.
+
+Sandvang, D., F. M. Aarestrup, and L. B. Jensen. 1997. Charac-
+terisation of integrons and antibiotic resistance genes in Danish
+multiresistant Salmonella enterica Typhimurium DT104. FEMS
+Microbiol. Lett. 157:177–181.
+
+Schroeter, A., W. Rabsch, and R. Helmuth. 1998. The current
+situation on Salmonella in turkeys. Proc. 1st International
+Symposium on Turkey Diseases. 170–177 Berlin, Germany.
+
+Shahada, F., T. Chuma, T. Tobata, K. Okamoto, M. Sueyoshi,
+and K. Takase. 2006. Molecular epidemiology of antimicro-
+bial resistance among Salmonella enterica serovar Infantis from
+poultry in Kagoshima, Japan. Int. J. Antimicrob. Agents 28:
+302–307.
+
+Sinwat, N., S. Angkittitrakul, K. F. Coulson, F. M. Pilapil, D.
+Meunsene, and R. Chuanchuen. 2016. High prevalence and
+molecular characteristics of multidrug-resistant Salmonella in
+pigs, pork and humans in Thailand and Laos provinces. See
+comment in PubMed Commons below J. Med. Microbiol. 65:
+1182–1193.
+
+Siriken, B., H. T¨urk, T. Yildirim, B. Durupinar, and I. Erol.
+2015. Prevalence and characterization of Salmonella isolated from
+chicken meat in Turkey. J. Food Sci. 80: M1044–1050.
+
+Skov, M. N., O. Angen, M. Chri´el, J. E. Olsen, and M. Bisgaard.
+1999. Risk factors associated with Salmonella enterica serovar
+typhimurium infection in Danish broiler flocks. Poult. Sci. 78:848–
+854.
+
+Stavric, S., and J. Y. D’Aoust. 1993. Undefined and defined bacte-
+rial preparations for the competitive exclusion of Salmonella in
+poultry – A review. J. Food Prot. 56:173–180.
+
+Swaminathan, B., T. J. Barrett, S. B. Hunter, and R. V. Tauxe,
+and CDC PulseNet Task Force. 2001. PulseNet: The molecular
+subtyping network for foodborne bacterial disease surveillance,
+United States. Emerg. Infect. Dis. 7:382–389.
+
+United States Department of Agriculture (USDA). 2012. National
+Antimicrobial Resistance Monitoring System – Enteric Bacteria,
+Animal Arm (NARMS): 2010 NARMS Animal Arm Annual Re-
+port. Athens, GA: U.S. Department of Agriculture, Agricultural
+Research Service.
+
+United States Department of Agriculture (USDA) /Food and Drug
+Administration (FDA)/Centers for Disease Control and Pre-
+vention (CDC) National Antimicrobial Resistance Monitoring
+System—Enteric Bacteria (NARMS—EB): Veterinary Isolates
+Final Report 2000. http://www.arru.saa.ars.usda.gov/narms/
+narms 2000/narms toc00.htm.
+
+van den Bogaard, A. E., and E. E Stobberingh. 1999. Antibiotic us-
+age in animals. Impact on bacterial resistance and public health.
+Drugs 58:589–607.
+
+Viswanathan, V. K. 2014. Off-label abuse of antibiotics by bacteria.
+
+Gut Microbes. 5:3–4.
+
+Warsa, U. C., M. Nonoyama, T. Ida, R. Okamoto, T. Okubo, C.
+Shimauchi, A. Kuga, and M. Inoue. 1996. Detection of tet(K)
+and tet(M) in Staphylococcus aureus of Asian countries by the
+polymerase chain reaction. J. Antibiot. 49:1127–1132.
+
+Weill, F. X., M. Demartin, D. Tand´e, E. Espi´e, I. Rakotoarivony,
+and P. A. Grimont. 2004. SHV-12-like extended-spectrum-beta-
+lactamase-producing strains of Salmonella enterica serotypes Ba-
+belsberg and Enteritidis isolated in France among infants adopted
+from Mali. J. Clin. Microbiol. 42:2432–2437.
+
+White, D. G., C. Hudson, J. J. Maurer, S. Ayers, S. Zhao, M.
+D. Lee, L. Bolton, T. Foley, and J. Sherwood. 2000. Charac-
+terization of chloramphenicol and florfenicol resistance in Es-
+cherichia coli associated with bovine diarrhea. J. Clin. Microbiol.
+38:4593–4598.
+
+White, D. G., S. Zhao, R. Sudler, S. Ayers, S. Friedman, S. Chen,
+P. F. McDermott, S. McDermott, D. D. Wagner, and J. Meng.
+2001. The isolation of antibiotic-resistant Salmonella from retail
+ground meats. N. Engl. J. Med. 345:1147–1154.
+
+White, P. A., C. J. McIver, and W. D. Rawlinson. 2001. Integrons
+and gene cassettes in the Enterobacteriaceae. Antimicrob. Agents
+Chemother. 45:2658–2661.
+
+Winokur, P. L., A. Brueggemann, D. L. DeSalvo, L. Hoffmann, M. D.
+Apley, E. K. Uhlenhopp, M. A. Pfaller, and G. V. Doern. 2000.
+Animal and human multidrug-resistant, cephalosporin-resistant
+Salmonella isolates expressing a plasmid-mediated CMY-2 AmpC
+beta-lactamase. See comment in PubMed Commons belowAn-
+timicrob. Agents Chemother. 44:2777–2783.
+
+Zhao, S., P. F. McDermott, D. G. White, S. Qaiyumi, S. L. Friedman,
+J. W. Abbott, A. Glenn, S. L. Ayers, K. W. Post, W. H. Fales,
+R. B. Wilson, C. Reggiardo, and R. D. Walker. 2007. Characteri-
+zation of multidrug resistant Salmonella recovered from diseased
+animals. Vet. Microbiol. 123:122–132.
+
+

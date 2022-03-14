@@ -1,0 +1,1041 @@
+MICROBIAL DRUG RESISTANCE
+Volume 23, Number 2, 2017
+ª Mary Ann Liebert, Inc.
+DOI: 10.1089/mdr.2015.0359
+
+Antibiotic Susceptibility and Molecular Screening
+
+of Class I Integron in Salmonella Isolates Recovered
+
+from Retail Raw Chicken Carcasses in China
+
+Xiaofeng Meng,1,* Zengfeng Zhang,1,* Keting Li,1 Yin Wang,1 Xiaodong Xia,1 Xin Wang,1
+
+Meili Xi,1 Jianghong Meng,1,2 Shenghui Cui,3 and Baowei Yang1
+
+Salmonella is one of the leading causes for foodborne diseases. Foods, particularly those of animal origin, act as an
+important role for Salmonella transmission. In this study, the antibiotic susceptibility of 743 Salmonella isolates
+recovered from retail raw chicken carcasses in eight provinces was tested, and the isolates were also screened for the
+presence of class I integron and drug-resistant gene cassettes. One hundred thirteen (15.21%) isolates were harboring
+class I integron. A higher percentage of integron-positive Salmonella isolates were found in retail chicken in Sichuan
+Province (29.33%), followed by Beijing (22.14%), Shaanxi (19.15%), Guangxi (14.13%), Henan (12.50%),
+Shanghai (7.25%), Fujian (8.22%), and Guangdong (6.25%) Provinces. The respective prevalence of class I integron
+in Salmonella isolates recovered from retail chickens in large, free, and small markets was 16.31%, 14.04%, and
+15.27%. Moreover, 20.13%, 14.02%, and 13.74% of Salmonella isolates recovered from retail chickens stored in
+frozen, chilled, and ambient conditions, respectively, were positive for class I integron. Subsequent sequencing of
+class I integron revealed the presence of 10 gene cassettes harboring resistance genes (dfrA17-aadA5, dfrA17-
+aadA5, dfrA1-aadA1, dfrA12-aadA2, dfrA17-aadA5-aadA4, dfrA1-aadA1-aadA2, dfrA1, dfrA5, aadA2,
+aacA4-catB8-aadA1-dfrA1-(aac6-II)-(blaCARB-8), blaPSE-1-blaP1). The most prevalent gene cassette was dfrA17-
+aadA5 (59.62%). Class I integron-positive isolates were signiﬁcantly more resistant to multiple antibiotics, and they
+commonly exhibited corresponding antibiotic resistance proﬁles to the antibiotic resistance gene cassettes harbored
+in their class I integron. The results indicated that class I integron with different antibiotic resistance gene cassettes
+that were prevalent in Salmonella isolates differed from provinces, marketplaces, and chicken storage conditions.
+
+Keywords: Salmonella, antibiotic resistance, class I integrons
+
+Introduction
+
+S almonella is a notorious pathogen associated with
+
+foodborne outbreaks worldwide.1 Salmonella infections
+were reported as the second leading cause of bacterial
+foodborne illness in the United States2 and were responsible
+for *1.2 million patients annually, resulting in estimated
+medical costs of $365 million.3 In the European Union,
+salmonellosis was the second most commonly reported
+gastrointestinal infection, with a conﬁrmed case rate of 20.4
+cases per 100,000 individuals in 2011.4 In China, 22.2%
+of foodborne diseases were caused by Salmonella spp.,5
+and salmonellosis was ranked as the fourth most preva-
+lent foodborne disease caused by microbial agents.6
+
+Among various foods, poultry and poultry products (meat
+and eggs) had been recognized as the most signiﬁcant vehicle
+
+for human salmonellosis,7 and several foodborne Salmonella
+outbreaks were caused by contaminated poultry products.8,9
+Antibiotics would remain the most effective treatment for
+invasive, life-threatening salmonellosis infection for a long
+time in the future.10 However, ubiquitous usage of antibiotics
+not only facilitated the emergence of antibiotic resistance but
+also created signiﬁcant challenges to animal husbandry.10,11
+Several previous foodborne outbreaks indicated that
+the
+multidrug-resistant (MDR) Salmonella was of increasing
+concern.12–15
+
+Integrons are mobile DNA elements comprising a site-
+speciﬁc recombination system that is capable of integrating
+and expressing antibiotic resistance genes in cassette-like
+structures and transferring resistant genes from one bacterium
+to another, which in turn lead to the emergence of antibiotic
+resistance.15,16 Among various integrons, class I integron
+
+1College of Food Science and Engineering, Northwest A&F University, Yangling, China.
+2Department of Nutrition and Food Science, Joint Institute for Food Safety and Applied Nutrition, University of Maryland, College Park,
+
+Maryland.
+
+3National Institutes for Food and Drug Control, Beijing, China.
+*The ﬁrst two authors contributed equally to this article.
+
+230
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 02/12/18. For personal use only. CLASS I INTEGRON OF SALMONELLA
+
+231
+
+was the most predominant one and played a major role in
+multidrug resistance development of Salmonella.17–20
+
+Several previous studies indicated that class I integrons
+could be detected in MDR Salmonella from animals, eggs,
+poultry, human, pork, retail beef, and chicken carcasses in
+Japan, the United States, Iran, Ethiopia, Taiwan, Brazil, and
+China.8,12,16,17,19–22 However,
+information regarding the
+distribution of antimicrobial resistance-associated integron
+in Salmonella among retail foods is still not well docu-
+mented. In this study, the prevalence of class I integron and
+antibiotic resistance-associated gene cassettes in Salmonella
+isolates were determined for better understanding class I
+integron distribution in Salmonella isolates recovered from
+retail chicken carcasses in China.
+
+Materials and Methods
+
+Salmonella isolates
+
+Seven hundred forty-three Salmonella isolates (73 iso-
+lates were from Fujian, 75 from Sichuan, 88 from Henan, 92
+from Guangxi, 94 from Shaanxi, 112 from Guangdong
+Province, 69 from Shanghai, and 140 from Beijing) were
+included in this study. These isolates were recovered from
+retail raw chicken carcasses collected from different mar-
+ketplaces in six provinces and two national cities in China
+during 2010 and 2011. Detailed information on sample
+collection, Salmonella isolation, and identiﬁcation were as
+previously described.23,24
+
+Antimicrobial susceptibility test
+
+All Salmonella isolates were tested for their susceptibility
+to antimicrobials. The minimum inhibitory concentrations
+(MICs) of the antimicrobial agents were determined by the
+agar dilution method using Mueller–Hinton agar (Beijing
+Land Bridge Technology Co Ltd., Beijing, China) according
+to the guidelines recommended by the Clinical and Labora-
+tory Standards Institute (CLSI).25 The antibiotics include
+ampicillin (AMP), amoxicillin–clavulanic acid (AMC), cef-
+tiofur (TIO), ceftriaxone (CRO), cefoxitin (FOX), gentamicin
+(GEN), kanamycin (KAN), amikacin (AMK), streptomycin
+(STR), tetracyclines (TCY), sulﬁsoxazole (FIS), trimethoprim–
+sulfamethoxazole (SXT), chloramphenicol (CHL), nalidixic
+acid (NAL), and ciproﬂoxacin (CIP). Escherichia coli
+ATCC25922 and ATCC35218, Enterococcus faecalis
+ATCC29212 were used as quality control organisms in MIC
+determination. The breakpoints for the antibiotics were as
+the interpretive standards provided by CLSI,25 except for
+streptomycin, for which we used provisional breakpoint
+used by the National Antimicrobial Resistance Monitoring
+System (NARMS).26
+
+Molecular detection of class I integron
+
+All Salmonella isolates were screened for the presence of
+class I integron by PCR using the primers of intI-F-(5¢CS)-
+5¢-GGCATCCAAGCAGCAAG-3¢
+intI-R-(3¢CS)-5¢-
+AAGCAGACTTGACCTGA-3¢.27,28 The PCRs were carried
+out in a Mycircle PCR system (Bio-Rad, Hercules, CA) in a
+25 ml PCR mixture that contained 0.5 mM of each primer,
+1 · PCR buffer, 250 mM of dNTP, 0.5 U of Taq DNA poly-
+merase (TaKaRa, Dalian, China), 1.5 mM MgCl2, and 5 ml
+of sample template DNA. The PCR conditions were at
+
+and
+
+94°C for 10 min, followed by 35 cycles of 94°C for 1 min,
+56°C for 1 min and 72°C for 1 min, and a ﬁnal extension of
+72°C for 10 min.
+
+DNA sequencing and resistance
+gene cassette analysis
+
+PCR products were puriﬁed using the TaKaRa Agarose
+Gel DNA Puriﬁcation Kit (Version 2.0; TaKaRa),
+then
+stored in an ice box, and sent for sequencing at Shanghai
+Sunny Biotechnology Co., Ltd. (Shanghai, China). DNA
+sequence data were analyzed and aligned using BLAST
+program (http://ncbi.nlm.nih.gov/BLAST/).
+
+Statistical analysis
+
+The prevalence data of class I integron in Salmonella
+isolates were subjected to DPS software (version 9.5, In-
+stitute of Insect Science, Zhejiang University, Hangzhou,
+People’s Republic of China) to determine the signiﬁcant
+variation. Signiﬁcant ( p < 0.05) difference of the prevalence
+of class I integron in Salmonella isolates in different prov-
+inces and cities, different retail chicken storage conditions,
+and different marketplaces was determined using the Pear-
+son’s chi-squared test at the 5% level (a = 0.05).
+
+Results
+
+Among 743 Salmonella isolates, a higher percentage of
+the isolates (77.12%) were resistant to tetracycline, followed
+by sulﬁsoxazole (66.62%), nalidixic acid (64.74%), ampi-
+cillin (61.37%), trimethoprim–sulfamethoxazole (56.53%),
+and amoxicillin–clavulanic acid (48.45%) (Table 1). One
+hundred thirteen (15.2%) of the total isolates were harboring
+class I integron of 2 kb. Salmonella isolates harboring class I
+integron presented a signiﬁcantly ( p < 0.05) higher resistance
+to tetracycline, ampicillin, trimethoprim–sulfamethoxazole,
+amoxicillin–clavulanic acid, chloramphenicol, kanamycin,
+gentamicin, ceftiofur, cefoxitin, and amikacin compared
+with the average resistance rates (Table 1).
+
+Table 2 clariﬁed that in all 113 class I integron-positive
+isolates, 5 (4.42%), 23 (20.35%), 37 (32.74%), 37 (32.74%),
+and 8 (7.08%) isolates showed resistance to 0, 2–5, 6–9,
+10–13, and 14–17 tested antibiotics, respectively. Class I
+integron-positive isolates presented signiﬁcantly ( p < 0.05)
+more resistance to multiple antibiotics compared with the
+average rates of Salmonella.
+
+The results clariﬁed a higher prevalence rate (29.33%)
+of class I integron-positive Salmonella isolates recovered
+from retail chicken carcasses in Sichuan Province and this
+rate was signiﬁcantly higher ( p < 0.05) than those in Guangxi
+(14.13%), Henan (12.50%), Fujian (8.22%), Shanghai (7.25%),
+and Guangdong (6.25%) Provinces. Moreover, there was
+no signiﬁcant difference ( p > 0.05) in the detection rates of
+class I integron-positive isolates in Sichuan (29.33%), Beijing
+(22.14%), and Shaanxi (19.15%) Provinces. Collectively, our
+results showed a signiﬁcantly ( p < 0.05) higher prevalence
+rate (20.65%) of class I integron-positive Salmonella iso-
+lates in the Northern Provinces of China (Henan, Shaanxi,
+Sichuan, and Beijing) compared to (8.96%) the Southern ones
+(Fujian, Guangdong, Guangxi, and Shanghai).
+
+No signiﬁcant difference was found among the prevalence
+rates of Class I integron in Salmonella isolates recovered
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 02/12/18. For personal use only. 232
+
+MENG ET AL.
+
+Table 1. Antimicrobial Resistance
+
+of the Salmonella Isolates
+
+No. (%) of
+
+antimicrobial-
+
+resistant
+isolates
+(n = 743)
+
+No. (%) of
+
+antimicrobial-
+
+resistant isolates
+carrying class I
+
+integron
+(n = 113)
+
+138 (18.57) A
+269 (36.20) A
+309 (41.59) A
+223 (30.01) A
+
+44 (38.94) B
+60 (53.10) B
+63 (55.75) B
+29 (25.66) A
+
+193 (25.98) A
+141 (18.98) A
+126 (16.96) A
+
+53 (46.90) B
+43 (38.05) B
+22 (19.47) A
+
+Antimicrobial agent
+
+Aminoglycosides
+
+Amikacin
+Gentamicin
+Kanamycin
+Streptomycin
+Cephalosporins
+
+Ceftiofur
+Cefoxitin
+Ceftriaxone
+
+Penicillin b-lactamase inhibitor combinations
+
+Ampicillin
+Amoxicillin–
+
+clavulanic acid
+
+Quinolone
+
+Nalidixic acid
+Fluoroquinolones
+
+Ciproﬂoxacin
+Gatiﬂoxacin
+Levoﬂoxacin
+
+456 (61.37) A
+360 (48.45) A
+
+85 (75.22) B
+78 (69.03) B
+
+481 (64.74) A
+
+56 (49.56) B
+
+170 (22.88) A
+129 (17.36) A
+135 (18.17) A
+
+16 (14.16) B
+15 (13.27) A
+16 (14.16) A
+
+Folate pathway inhibitors
+
+Sulﬁsoxazole
+Trimethoprim–
+
+sulfamethoxazole
+
+Chloramphenicol
+
+495 (66.62) A
+420 (56.53) A
+
+78 (69.03) A
+83 (73.45) B
+
+Chloramphenicol
+
+327 (44.01) A
+
+76 (67.26) B
+
+Tetracycline
+
+Tetracycline
+
+573 (77.12) A
+
+100 (88.50) B
+
+Ratios followed by different letters were signiﬁcantly different
+
+( p < 0.05).
+
+from retail chickens stored at frozen (20.13%), chilled
+(14.02%), and ambient (13.74%) conditions. In addition,
+class I integron was more prevalent in Salmonella strains
+isolated from chickens stored at frozen conditions in Beijing
+(10.39%) and less prevalent in Henan Province (0.65%). On
+
+Table 2. Multidrug Resistance of Salmonella
+
+Isolates Against 17 Antimicrobials
+
+No. (%) of isolates
+
+resistant to
+
+indicated number
+of antimicrobials
+
+(n = 743)
+
+No. (%) of class I
+integron-positive
+isolates resistant
+
+to indicated number
+
+of antimicrobials
+
+(n = 113)
+
+38 (5.11) A
+43 (5.79) A
+
+284 (38.22) A
+177 (23.82) A
+111 (14.94) A
+90 (12.11) A
+
+5 (4.42) A
+3 (2.65) A
+23 (20.35) B
+37 (32.74) B
+37 (32.74) B
+
+8 (7.08) B
+
+Number of
+antimicrobials
+
+0
+1
+2–5
+6–9
+10–13
+14–17
+
+Ratios followed by different letters were signiﬁcantly different
+
+( p < 0.05).
+
+the contrary, class I integron was found in Salmonella re-
+covered from chicken carcasses stored at chilled conditions in
+the Sichuan Province (2.38%) and 3.79% in chickens stored
+at ambient temperature in the Beijing Province.
+
+Regarding the distribution of class I integron in Salmo-
+nella spp. isolated from chickens at different marketplaces,
+Table 3 clariﬁed that 16.31%, 15.27%, and 14.04% of the
+total isolates recovered from chickens at large, free, and
+small markets, respectively, were harboring class I integron.
+In addition, in Salmonella strains isolated from chickens
+of large markets, class I integron was more prevalent in
+Shaanxi Province (3.86%) than in other Provinces. Mean-
+while, for small markets and free markets,
+the highest
+prevalence rates of class I integron were both detected in
+Beijing, with a ratio of 5.96% and 4.03%, respectively.
+Moreover, there was no signiﬁcant difference ( p > 0.05) in
+the detection rates of class I integron-positive isolates be-
+tween capital cities and noncapital cities (Table 3).
+
+Among the 113 class I integron-positive Salmonella iso-
+lates, nine (7.96%) were carrying no antibiotic-resistant
+gene cassettes (Table 4). Approximately 8.85% of class I
+integron carried one antibiotic resistance gene, and 83.19% of
+
+Table 3. Distribution of Class I Integron
+
+in Salmonella Isolates Recovered from Retail
+
+Chickens Collected in Different Districts,
+
+Marketplaces, and Storage Conditions
+
+No. class I
+integron-
+positive
+isolates
+
+% class I
+integron-
+positive
+isolates
+
+No. isolates
+
+Province/national city
+
+Sichuan
+Beijing
+Shaanxi
+Guangxi
+Henan
+Fujian
+Shanghai
+Guangdong
+
+Chicken storage condition
+
+Frozen
+Chilled
+Ambient
+
+Marketplace
+
+Large market
+Small market
+Free market
+
+75
+140
+94
+92
+88
+73
+69
+112
+
+154
+378
+211
+
+233
+235
+275
+
+Capital city/noncapital city
+
+22
+31
+18
+13
+11
+6
+5
+7
+
+31
+53
+29
+
+38
+33
+42
+
+Capital city
+Noncapital city
+
+24
+89
+Northern/Southern province (city) of Chinaa
+31
+
+Southern province
+
+161
+582
+
+346
+
+29.33 A
+22.14 AB
+19.15 AB
+14.13 BC
+12.50 BC
+
+8.22 C
+7.25 C
+6.25 C
+
+20.13 A
+14.02 A
+13.74 A
+
+16.31 A
+14.04 A
+15.27 A
+
+14.91 A
+15.29 A
+
+8.96 B
+
+(city)
+
+Northern province
+
+397
+
+82
+
+20.65 A
+
+(city)
+
+Ratios followed by different letters were signiﬁcantly different
+
+( p < 0.05).
+
+aNorthern provinces (city), including Shaanxi, Sichuan, Henan
+Provinces, and Beijing city; Southern provinces (city), including
+Guangdong, Guangxi, Fujian Provinces, and Shanghai city.
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 02/12/18. For personal use only. CLASS I INTEGRON OF SALMONELLA
+
+233
+
+Table 4. Presence of Antibiotic Resistance Gene
+Cassettes in Class I Integron-Positive Salmonella
+
+in Retail Chicken Carcasses (n = 113)
+
+Antibiotic resistance
+gene cassettes
+
+dfrA17-aadA5
+dfrA1-aadA1
+dfrA1
+dfrA12-aadA2
+aadA2
+blaPSE-1-blaP1
+dfrA5
+aacA4-catB8-aadA1-
+
+dfrA1-(aac6-II)-
+(blaCARB-8)
+
+dfrA1-aadA1-aadA2
+dfrA17-aadA5-aadA4
+
+No. class I
+
+% class I
+
+integron-positive
+
+integron- positive
+
+isolates
+
+isolates
+
+62
+24
+7
+3
+2
+2
+1
+1
+
+1
+1
+9
+
+54.87
+21.24
+6.19
+2.65
+1.77
+1.77
+0.88
+0.88
+
+0.88
+0.88
+7.96
+
+class I integron simultaneously carried two or more resistance
+genes. In addition, 10 different gene cassettes containing 14
+resistance genes were identiﬁed in 104 (92.04%) of Salmonella
+isolates. The cassettes included dfrA17-aadA5, dfrA1-aadA1,
+blaPSE-1-blaP1, dfrA1, aadA2, dfrA5, dfrA12-aadA2, aacA4-
+catB8-aadA1-dfrA1-(aac6-II)-(blaCARB-8), dfrA1-aadA1-aadA2,
+and dfrA17-aadA5-aadA4, respectively (Table 4). The most
+prevalent resistance gene cassette was dfrA17-aadA5 (54.87%),
+followed by dfrA1-aadA1 (21.24%) and dfrA1 (6.19%).
+
+The results clariﬁed that among class I integron-positive
+Salmonella isolates with dfr genes (dfrA1, dfrA5, dfrA12,
+and dfrA17), the predominant antimicrobial resistance pro-
+ﬁle was FIS-SXT (65.22%). Meanwhile, 31.40% of isolates
+harboring aad genes (aadA1, aadA2, aadA5, and aadA4)
+presented the proﬁle of GEN-KAN-AMK. Among 11 class
+I integron-positive Salmonella isolates presenting antibi-
+otic resistance proﬁle of GEN-KAN-AMK-STR, at least one
+of the aad genes could be detected. Meanwhile, two class I
+integron-positive Salmonella isolates carrying blaPSE-1-blaP1
+genes were resistant to ceftiofur and ceftriaxone.
+
+Discussion
+
+Salmonella is a major cause of foodborne illness world-
+wide. The increasing frequency of antibiotic resistance
+among Salmonella has become an emerging challenge to
+public health.29 In the present study, 89.10% of Salmonella
+isolates were resistant to two or more antimicrobial agents.
+These results were similar to those of other investigators.30–32
+Our study indicated that Salmonella isolates were most
+frequently resistant to tetracycline (77.12%), sulﬁsoxazole
+(66.62%), and nalidixic acid (64.74%), and this was con-
+sistent with the ﬁndings of other studies.33,34 This study
+presented that 92.92% of the class I integron-positive iso-
+lates were resistant to at least two antibiotics, and this ex-
+hibited a good evidence for the relationship between the
+presence of class I integron and the emerging of MDR in
+gram-negative bacteria.12,29
+
+Integron, a mobile DNA element, is known to contain one
+or more linked antimicrobial resistance genes and can
+transfer these genes among bacteria.35,36 In this study, PCR
+
+analysis showed that 113 (15.21%) of 743 Salmonella iso-
+lates were carrying class I integron. In one of our previous
+studies, it was found that 16.0% of the Salmonella strains
+isolated from retail foods carried class I integron in Shaanxi
+province during the period 2007–2008.37 Other previous
+surveys in China identiﬁed class I integron in Salmonella
+isolates recovered from retail foods, human, and animal
+sources with percentages that
+ranged from 11.0% to
+66.0%.21,22,38,39 Compared with these surveys, we were the
+ﬁrst to investigate class I integron in Salmonella isolates in
+retail raw chickens by such large sample size and basis.
+
+In the present study, there was a variation in the preva-
+lence of class I integron in Salmonella isolates recovered
+from retail chickens of different provinces, national cities,
+storage conditions, and marketplaces. This variation could
+be attributed to the difference in the growth and slaughter
+environment of chickens.38 In addition, medical qualities
+had certain varieties, which led to the difference of class I
+integron and resistance genes.40 Chicken carcasses were
+often stored in the markets as fresh at ambient, or as
+packaged chilled products, or in frozen conditions. The
+difference in temperature, in which chickens were stored,
+might have inﬂuenced the number and types of Salmonella,
+and consequently affected the popularity of class I integron.
+In our study, class I integron was most frequently prevalent
+in Salmonella recovered from chicken carcasses that were
+stored in frozen conditions (20.13%) compared to 13.74% in
+chickens stored at ambient
+temperature. The previous
+studies had shown that Salmonella contamination in the raw
+chickens was related to temperature,41 and our results in-
+the survived Salmonella isolates in frozen
+dicated that
+chicken carcass were more resistant and likely to be class I
+integron positive.
+
+The former studies have indicated the existence of certain
+relationship between integrons and multidrug resistance of
+Salmonella strains, and provided certain signiﬁcant guide-
+lines for drug resistance prevention and control.20,29 How-
+ever, it was interesting that no resistance gene was detected
+in the variable region of class I integron in the two MDR
+isolates in this study. As it was known, antibiotic resistance
+associated with many factors, including antimicrobial agents
+binding target mutations, increased permeability of mem-
+brane of the pathogens, and antibiotic degradation through
+enzymes encoded by some resistant genes that were com-
+monly carried by some transferable DNA elements,
+in-
+cluding conjugative plasmids, integrons, transposons, and
+phages.9,18,21,35,42 Since any transferable element other than
+class I integron could play an important role for antimi-
+crobial resistance gene carriage and dissemination as well,
+the resistance of the two isolates might be caused by other
+mechanisms instead of class I integron.16,27,30
+
+Our results indicated that the isolates harboring class I
+integron were more resistant to the antibiotics. The dfr, aad,
+and bla genes have always contributed to the resistance to
+sulfonamide, aminoglycoside, and cephalosporin antibiotics,
+respectively. In this study, 91.3% of the 92 isolates carrying
+dfr genes (dfrA1, dfrA5, dfrA12, and dfrA17) showed resis-
+tance to sulfonamides. The resistance to aminoglycoside an-
+tibiotics was identiﬁed in 51 of the 86 isolates carrying aad
+genes (aadA1, aadA2, aadA5, and aadA4). In addition, two
+of the class I integron-positive isolates carrying blaPSE-1-blaP1
+genes were resistant to ceftiofur and ceftriaxone. Various
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 02/12/18. For personal use only. 234
+
+MENG ET AL.
+
+antibiotic resistance gene cassettes, including dfrA17-aadA5,
+dfrA1-aadA1, blaPSE-1-blaP1, dfrA1, aadA2, dfrA5, dfrA12-
+aadA2, aacA4-catB8-aadA1-dfrA1-(aac6-II)-(blaCARB-8),
+dfrA1-aadA1-aadA2, and dfrA17-aadA5-aadA4, were found
+in integron, and Salmonella isolates with these gene cassettes
+in their class I integron generally exhibited corresponding
+antibiotic resistance proﬁles. The results inferred that the
+gene cassettes in the class I integron might be the major cause
+of antibiotic resistance in those Salmonella. In class I in-
+tegron, antibiotic resistance gene cassettes were normally
+found integrated at a speciﬁc location, and enzymes encoded
+by the integron could make the gene cassettes transfer from
+one bacteria to another, or from one strain to other strains.42–44
+The presence of class I integron in Salmonella isolates is of
+great potential hazard to the health and food safety of humans
+and animals.
+
+In summary, class I integron was ubiquitous in Salmo-
+nella isolates recovered from retail raw chicken carcasses
+and varied in different marketplaces and chicken storage
+conditions at different districts of China. Salmonella isolates
+harboring class I integron showed more resistance to the
+antibiotics than those without it. Two or more antibiotic
+resistance gene cassettes were prevalent in class I integron.
+
+Acknowledgment
+
+The research work was supported by the National Natural
+
+Science Foundation of China (No. 31171682).
+
+Disclosure Statement
+
+No competing ﬁnancial interests exist.
+
+References
+
+1. World Health Organization. 2005. Drug-resistant Salmo-
+nella. Available at http://who.int/mediacentre/factsheets/
+fs139/en/ (assessed on June 23, 2015). (Online.)
+
+2. Scallan, E., R.M. Hoekstra, F.J. Angulo, R.V. Tauxe, M.A.
+Widdowson, S.L. Roy, J.L. Jones, and P.M. Grifﬁn. 2011.
+Foodborne illness acquired in the United States—major
+pathogens. Emerg. Infect. Dis. 17:7–15.
+
+3. Centers for Disease Control and Prevention (CDC). 2014.
+Antibiotic Resistance Threats in the United States, 2013.
+73. Available online at http://cdc.gov/drugresistance/threat-
+report-2013/pdf/ar-threats-2013–2508.pdf
+on
+June 18, 2015). (Online.)
+
+(assessed
+
+4. European Centre for Disease Prevention and Control. 2013.
+Annual Epidemiological Report Reporting on 2011 Sur-
+veillance Data and 2012 Epidemic Intelligence Data. 103–
+108. Available online at: http://ecdc.europa.eu/en/publications/
+_layouts/forms/Publication_DispForm.aspx?List=4f55ad51-
+4aed-4d32-b960-af70113dbb90&ID=989 (assessed on June
+23, 2015). (Online.)
+
+5. Wang, S.J., H.L. Duan, W. Zhang, and J. Li. 2007. Analysis
+of bacterial food-borne diseases outbreaks in China be-
+tween 1994 and 2005. FEMS Immunol. Med. Microbiol.
+51:8–13.
+
+6. Zhu, M., S. Cui, L. Lin, B. Xu, J. Zhao, S. Xia, W. Deng, Z.
+Xie, J. Zhang, Z. Wang, Z. Feng, W. Yang, and L. Ran.
+2012. Analysis of the aetiology of diarrhea in outpatients in
+2007, Henan province, China. Epidemiol. Infect. 7:540–548.
+7. Painter, J.A., R.M. Hoekstra, T. Ayers, R.V. Tauxe, C.R.
+Braden, F.J. Angulo, and P.M. Grifﬁn. 2013. Attribution of
+
+food-borne illnesses, hospitalizations, and deaths to food
+commodities by using outbreak data, United States, 1998–
+2008. Emerg. Infect. Dis. 19:407.
+
+8. Kusunoki, K., M. Jin, M. Iwaya, T. Ishikami, K. Kurimoto,
+K. Saito, and S. Yamada. 2000. Salmonella contamination
+in domestic raw chickens in Tama, Tokyo, and serovar or
+drug-resistance of isolates (1992–1999). Jpn. J. Food. Mi-
+crobiol. 17:207–212.
+
+9. Zou, W., J.G. Frye, C.W. Chang, J. Liu, C.E. Cerniglia, and
+R. Nayak. 2009. Microarray analysis of antimicrobial re-
+sistance genes in Salmonella enterica from preharvest
+poultry environment. J. Appl. Microbiol. 107:906–914.
+
+10. Ribeiro, V.B., N. Lincopan, M. Landgraf, B.D. Franco, and
+M.T. Destro. 2011. Characterization of class I integrons and
+antibiotic resistance genes in multidrug-resistant Salmo-
+nella enterica isolates from foodstuff and related sources.
+Braz. J. Microbiol. 42:685–692.
+
+11. Yang, B., L. Qiao, X. Zhang, Y. Cui, X. Xia, S. Cui, X.
+Wang, X. Meng, W. Ge, X. Shi, D. Wang, and J. Meng.
+2013. Serotyping, antimicrobial susceptibility, pulse ﬁeld
+gel electrophoresis analysis of Salmonella isolates from
+retail foods in Henan Province, China. Food Control 32:
+228–235.
+
+12. Asgharpour, F., R. Rajabnia, E.F. Shahandashti, M.A.
+Marashi, M. Khalilian, and Z. Moulana. 2014. Investigation
+of class I integron in Salmonella infantis and its association
+with drug resistance. Jundishapur. J. Microbiol. 7:e10019.
+13. Dechet, A.M., E. Scallan, K. Gensheimer, R. Hoekstra, J.
+Gunderman-King, J. Lockett, D. Wrigley, W. Chege, and J.
+Sobel. 2006. Outbreak of multidrug-resistant Salmonella
+enterica serotype Typhimurium deﬁnitive type 104 infec-
+tion linked to commercial ground beef, northeastern United
+States, 2003–2004. Clin. Infect. Dis. 42:747–752.
+
+14. McLaughlin,
+
+J.B., L.J. Castrodale, M.J. Gardner, R.
+Ahmed, and B.D. Gessner. 2006. Outbreak of multidrug-
+resistant Salmonella Typhimurium associated with ground
+beef served at a school potluck. J. Food Prot. 69:666–670.
+15. Wannaprasat, W., P. Padungtod, and R. Chuanchuen. 2011.
+Class I integrons and virulence genes in Salmonella en-
+terica isolates from pork and humans. Int. J. Antimicrob.
+Agents 37:457–461.
+
+16. Peirano, G., Y. Agersø, F.M. Aarestrup, E.M.F. dos Reis,
+and D. dos Prazeres Rodrigues. 2006. Occurrence of in-
+tegrons and antimicrobial resistance genes among Salmo-
+nella enterica from Brazil. J. Antimicrob. Chemother. 58:
+305–309.
+
+17. Ahmed, A.M., Y. Ishida, and T. Shimamoto. 2009. Mole-
+cular characterization of antimicrobial resistance in Sal-
+monella isolated from animals in Japan. J. Appl. Microbiol.
+106:402–409.
+
+18. Chu, C., and C.H. Chiu. 2006. Evolution of the virulence
+plasmids of non-typhoid Salmonella and its association
+with antimicrobial resistance. Microbes Infect. 8:1931–
+1936.
+
+19. Hsu, S.C., T.H. Chiu, J.C. Pang, C.H. Hsuan-Yuan, G.N.
+Chang, and H.Y. Tsen. 2006. Characterisation of antimi-
+crobial resistance patterns and class I integrons among
+Escherichia coli and Salmonella enterica serovar Choler-
+aesuis strains isolated from humans and swine in Taiwan.
+Int. J. Antimicrob. Agents 27:383–391.
+
+20. Lu, Y., H. Zhao, Z. Zhang, X. Hou, and G. Wu. 2014.
+Survey of multidrug resistance and class I integron preva-
+lence in chicken-derived Salmonella. Chin. Agric. Sci.
+Technol. 15:877–881.
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 02/12/18. For personal use only. CLASS I INTEGRON OF SALMONELLA
+
+235
+
+21. Lian, W., C. Shi, Q. Mao, X. Sun, and X. Wang. 2013. The
+study of integron mediated antibiotic resistance transmit of
+Salmonella. Chin. J. Food Hyg. 1:008.
+
+22. Molla, B., A. Miko, K. Pries, G. Hildebrandt, J. Kleer, A.
+Schroeter, and R. Helmuth. 2007. Class I integrons and
+resistance gene cassettes among multidrug resistant Sal-
+monella serovars isolated from slaughter animals and foods
+of animal origin in Ethiopia. Acta Trop. 103:142–149.
+
+23. Cui, S., J. Zheng, and J. Meng. 2006. An improved method
+for rapid isolation of Salmonella against Proteus in chicken
+carcasses. J. Food Saf. 26:49–61.
+
+24. Yang, B., M. Xi, X. Wang, S. Cui, T. Yue, H. Hao, Y.
+Wang, Y. Cui, W.Q. Alali, J. Meng, I. Walls, M.P. Doyle.
+2011. Prevalence of Salmonella on raw poultry at retail
+markets in China. J. Food Prot. 74:1724–1728.
+
+25. Clinical and Laboratory Standards Institute. 2010. Perfor-
+mance Standards for Antimicrobial Susceptibility Testing
+2010, Twentieth International Ed. Document M100-S20.
+Pennsylvania, USA.
+
+26. U.S. Food and Drug Administration. 2013. NARMS retail
+meat annual report, 2011. U.S. Food and Drug Adminis-
+tration, Rockville, MD. Available at http://fda.gov/downloads/
+AnimalVeterinary/SafetyHealth/AntimicrobialResistance/
+NationalAntimicrobialResistance MonitoringSystem/
+UCM334834.pdf (assessed on June 20, 2015). (Online.)
+
+27. White, D.G., S. Zhao, R. Sudler, S. Ayers, S. Friedman, S.
+Chen, P.F. McDermott, S. McDermott, D.D. Wagner, and
+J. Meng. 2001. The isolation of antibiotic-resistant Salmo-
+nella from retail ground meats. N. Engl. J. Med. 345:1147–
+1154.
+
+28. Yang, B., D. Qu, X. Zhang, J. Shen, S. Cui, Y. Shi, M. Xi,
+M. Sheng, S. Zhi, and J. Meng. 2010. Prevalence and
+characterization of Salmonella serovars in retail meats of
+marketplace in Shaanxi, China. Int. J. Food Microbiol. 141:
+63–72.
+
+29. Firoozeh, F., T. Zahraei-Salehi, F. Shahcheraghi, V. Kar-
+imi, and M.M. Aslani. 2012. Characterization of class I
+integrons among Salmonella enterica serovar Enteritidis
+isolated from humans and poultry. FEMS Immunol. Med.
+Microbiol. 64:237–243.
+
+30. Chen, S., S. Zhao, D.G. White, C.M. Schroeder, R. Lu, H.
+Yang, P.F. McDermott, S. Ayers, and J. Meng. 2004.
+Characterization of multiple-antimicrobial-resistant Sal-
+monella serovars isolated from retail meats. Appl. Environ.
+Microbiol. 70:1–7.
+
+31. Dogru, A.K., N.D. Ayaz, and Y.E. Gencay. 2010. Serotype
+identiﬁcation and antimicrobial resistance proﬁles of Sal-
+monella spp. isolated from chicken carcasses. Trop. Anim.
+Health Prod. 42:893–897.
+
+32. Lay, K.S., Y. Vuthy, P. Song, K. Phol, and J.L. Sarthou.
+2011. Prevalence, numbers and antimicrobial susceptibili-
+ties of Salmonella serovars and Campylobacter spp. in re-
+tail poultry in Phnom Penh, Cambodia. J. Vet. Med. Sci. 73:
+325–329.
+
+33. Morshed, R., and S.M. Peighambari. 2010. Drug resistance,
+plasmid proﬁle and random ampliﬁed polymorphic DNA
+analysis of Iranian isolates of Salmonella enteritidis. New
+Microbiol. 33:47–56.
+
+34. Rahmani, M., S.M. Peighambari, C.A. Svendsen, L.M.
+Cavaco, Y. Agersø, and R.S. Hendriksen. 2013. Molecular
+clonality and antimicrobial resistance in Salmonella en-
+terica serovars Enteritidis and Infantis from broilers in
+three Northern regions of Iran. BMC Vet. Res. 9:66.
+
+35. Hall, R.M., and H.W. Stokes. 1993. Integrons: novel DNA
+elements which capture genes by site-speciﬁc recombina-
+tion. Genetica. 90:115–132.
+
+36. Hall, R.M. 1997. Mobile gene cassettes and integrons:
+moving antibiotic resistance genes in gram-negative bac-
+teria. Ciba Found Symp. 207:192–202; discussion 202–205.
+37. Shen, J., B. Yang, M. Xi, and J. Meng. 2011. Class I in-
+tegron and antibiotic resistance of Salmonella and Proteus
+mirabilis in retail meat from Shaanxi Province. Food Sci.
+32:130–134.
+
+38. Chen, L., C.M. Wu, and J.Z. Shen. 2008. Detection of
+antimicrobial resistance and class I integrons among Sal-
+monella isolates from animals. Chin. J. Vet. Med. 44:6–9.
+39. Zhou, R., L. Li, J. Su, B. Li, and Z. Xu. 2014. Detection of
+class I integron from food-borne Salmonella and analysis
+on the drug resistance gene cassettes. Sci. Technol. Food
+Ind. 35:279–282.
+
+40. Skurnik, D., R. Ruimy, A. Andremont, C. Amorin, P.
+Rouquet, B. Picard, and E. Denamur. 2006. Effect of hu-
+man vicinity on antimicrobial resistance and integrons in
+animal faecal Escherichia coli. J. Antimicrob. Chemother.
+57:1215–1219.
+
+41. Dong, Z., Q. Chen, and H. Luo. 2005. Situation of Sal-
+monellae contamination in eggs and poultry on Beijing
+market in year 2002. Chin. J. Food Hyg. 16:514–516.
+
+42. Hall, R.M., and C.M. Collis. 1995. Mobile gene cassettes
+and integrons: capture and spread of genes by site-speciﬁc
+recombination. Mol. Microbiol. 15:593–600.
+
+43. Hall, R.M., and C.M. Collis. 1998. Antibiotic resistance in
+gram-negative bacteria: the role of gene cassettes and in-
+tegrons. Drug Resist. Updat. 1:109–119.
+
+44. Stokes, H.T., and R.M. Hall. 1989. A novel family of potentially
+mobile DNA elements encoding site-speciﬁc gene-integration
+functions: integrons. Mol. Microbiol. 3:1669–1683.
+
+Address correspondence to:
+Baowei Yang, PhD
+College of Food Science and Engineering
+Northwest A&F University
+Yangling 712100
+China
+
+E-mail: ybwsheng@163.com
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 02/12/18. For personal use only. 

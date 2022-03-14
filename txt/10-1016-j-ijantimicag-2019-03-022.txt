@@ -1,0 +1,975 @@
+International Journal of Antimicrobial Agents 54 (2019) 8–15 
+
+Contents lists available at ScienceDirect 
+
+International  Journal  of  Antimicrobial  Agents 
+
+journal homepage: www.elsevier.com/locate/ijantimicag 
+
+Genomic  analysis  of  Staphylococcus  aureus  along  a  pork  production 
+chain  and  in  the  community,  Shandong  Province,  China 
+
+Chengtao Sun 
+Lennart E Nilsson 
+Zhenqiang Bi 
+
+a , 1 , Baoli Chen 
+
+b , 1 , Anette Hulth 
+a , Qiang Sun 
+f , Shizhen Ma 
+∗∗
+∗
+a , 
+b , 
+, Congming Wu 
+
+c , d , Stefan Schwarz 
+g , h , Zhenwang Bi 
+
+a , 
+a , e , Xing Ji 
+b , Yang Wang 
+a , 
+
+, Stefan Börjesson 
+
+f , i 
+
+a Beijing Advanced Innovation Centre for Food Nutrition and Human Health, College of Veterinary Medicine, China Agricultural University, Beijing, China 
+b Shandong Provincial Key Laboratory of Infectious Disease Control and Prevention, Shandong Centre for Disease Control and Prevention, Jinan, Shandong, 
+China 
+c Public Health Agency of Sweden, Solna, Sweden 
+d Global Health – Health Systems and Policy, Department of Public Health Sciences, Karolinska Institutet, Solna, Sweden 
+e Institute of Microbiology and Epizootics, Centre for Infection Medicine, Department of Veterinary Medicine, Freie Universität Berlin, Berlin, Germany 
+f Department of Clinical and Experimental Medicine, Linköping University, Linköping, Sweden 
+g Shandong University, Centre for Health Management and Policy, Jinan, Shandong, China 
+h NHFPC (Shandong University), Key Laboratory of Health Economics and Policy Research, Jinan, Shandong, China 
+i Department of Animal Health and Antimicrobial Strategies, National Veterinary Institute (SVA), Uppsala, Sweden 
+
+a r t i c l e 
+
+i n f o 
+
+a b s t r a c t 
+
+Article history: 
+Received 17 August 2018 
+Accepted 30 March 2019 
+
+Editor: Marc Stegger 
+
+Keywords: 
+LA-MRSA 
+China 
+Pork production chain 
+Community 
+Whole-genome sequencing 
+
+Livestock-associated  meticillin-resistant  Staphylococcus  aureus  (LA-MRSA)  is  an  increasingly  important 
+public health concern worldwide; however, data on LA-MRSA from Asian countries is scarce. As such, 
+a comprehensive molecular epidemiological survey of S. aureus along a pork production chain and in 
+the community was undertaken in Shandong Province, China. spa typing and whole-genome sequencing 
+were used to survey the occurrence and potential transmission of S. aureus in various sectors, including 
+899 porcine samples (snout or skin swabs, carcass swabs and pork portions), 845 human nasal samples 
+and 239 environmental samples from commercial farms, a slaughterhouse, a pork wholesale market and 
+the surrounding community. MRSA was detected in higher frequencies in samples from two commercial 
+pig farms (pigs, 49%; farm workers, 64%; environmental samples, 16%) than in samples from the slaugh- 
+terhouse (fatteners, 8.2%; carcasses, 1.1%; operation workers, 0%; environmental samples, 3.8%), the pork 
+wholesale market (pork, 14%; sellers, 0%) and individuals in the community (6.8%). There were signiﬁcant 
+differences in population structures, antimicrobial susceptibility proﬁles, and the presence of resistance 
+and virulence genes between human- and pig-associated isolates. The phylogenetic analysis conﬁrmed the 
+dissemination of LA-MRSA between various segments along the pork production chain. However, MRSA 
+of the same sequence type was not found to be disseminated between the commercial farms and the 
+surrounding communities. Furthermore, one MRSA ST398 was observed, and a novel CC9 variant ST3597 
+was detected within the chain. The high MRSA carriage rates and the emergence of a new MRSA CC9 
+variant identiﬁed in this study highlight the need for MRSA surveillance. 
+
+© 2019 Elsevier B.V. and International Society of Chemotherapy. All rights reserved. 
+
+1. Introduction 
+
+The global epidemic of livestock-associated meticillin-resistant 
+Staphylococcus  aureus  (LA-MRSA)  among  pigs  has  become  a  rec- 
+
+∗
+
+Corresponding author. Address: Jingshi Road No. 16992, LiXia District, Jinan 
+
+250014, China. 
+∗∗
+
+Corresponding author. Address: Mingyuanxilu No. 2, HaiDian District, Beijing 
+
+10 0 093, China. 
+
+E-mail addresses: bzq63@163.com (Z. Bi), wucm@cau.edu.cn (C. Wu). 
+
+1  These two authors contributed equally to this study. 
+
+ognized public health concern [1–4] . In China, the occurrence and 
+epidemiology of LA-MRSA have not been studied extensively com- 
+pared  with  European  countries.  One  major  difference  noted  in 
+China is that the LA-MRSA identiﬁed mainly belong to clonal com- 
+plex (CC) 9 [4] , whereas LA-MRSA CC398 dominates in Europe [5] . 
+CC9 isolates were ﬁrst reported in pigs and people with occupa- 
+tional contact with pigs in 2008 in China [6,7] , but only a limited 
+number of studies have described CC9 from livestock or slaugh- 
+terhouses  in  China  [4,8] .  These  studies  do  not  generally  provide 
+in-depth molecular data, which are needed to understand the re- 
+latedness and adaption of LA-MRSA CC9 within the pig industry 
+
+https://doi.org/10.1016/j.ijantimicag.2019.03.022 
+0924-8579/© 2019 Elsevier B.V. and International Society of Chemotherapy. All rights reserved. 
+
+C. Sun, B. Chen and A. Hulth et al. / International Journal of Antimicrobial Agents 54 (2019) 8–15 
+
+9 
+
+and other settings. Since more than half of the world’s pig stock 
+∼435  million)  resides  in  China  [9] ,  these  animals  could  repre- 
+( 
+sent  the  largest  LA-MRSA  reservoir  in  the  world.  It  is  therefore 
+important to gain insight into the occurrence and potential spread 
+of LA-MRSA in pork production, its environment and surrounding 
+community in China. 
+
+To improve knowledge about the LA-MRSA situation in China, 
+a  cross-sectional  study  investigating  both  MRSA  and  meticillin- 
+susceptible  S.  aureus  (MSSA)  was  conducted.  The  study  included 
+samples from a typical Chinese pork production chain, operation 
+workers,  the  environment  and  surrounding  community  residents 
+in Shandong Province, China. To give insight into the epidemiology 
+of MRSA and MSSA from pig to pork in the environment and sur- 
+rounding community, spa typing, whole-genome sequencing (WGS) 
+and bioinformatic analysis were performed. 
+
+2. Materials and methods 
+
+2.1. Study population and sample collection 
+
+In April 2016, samples were collected from a typical commercial 
+pork production chain attached to a local pork producing company 
+in  Shandong,  the  fourth-largest  pig-producing  province  in  China 
+[10] . The production chain was part of a vertically integrated sys- 
+tem, meaning that pigs at commercial farms are produced exclu- 
+sively for a local slaughterhouse and the pork wholesale market. 
+Samples were collected from two pig farms, designated Farm A and 
+∼4.5 km apart) with capacities of 1500 and 30 0 0 pigs, re- 
+Farm B ( 
+spectively; a slaughterhouse, processing 10 0 0–150 0 pigs/day; and a 
+pork wholesale market. Samples were also collected in three com- 
+munities adjacent to the investigated pork production chain: Com- 
+∼1.5 
+munity 1, 
+∼2.0 km from Farm A. Each 
+km from Farm B; and Community 3, 
+∼150 households and, based on an esti- 
+community consisted of 
+mated detection rate of 10% (from local Centre for Disease Con- 
+trol and Prevention), 40 random households were contacted. In the 
+∼20  households  per  community  participated.  A  nasal  swab 
+end, 
+was collected from one adult volunteer from each household (Fig. 
+S1, see online supplementary material). 
+
+∼0.5 km from the slaughterhouse; Community 2, 
+
+=
+ 137), weaners ( n 
+
+=
+ 91) and growers ( n 
+
+For  pig  snout  and  human  nasal  swabs,  the  ESwab  system 
+(Copan,  Brescia,  Italy)  was  used  according  to  the  manufacturer’s 
+instructions.  Snout  swabs  were  collected  randomly  from  sows 
+=
+ 70) from the farms with 
+( n 
+=
+ 85, pooled sam- 
+one to three pigs per pen, and from fatteners ( n 
+=
+ple from three pigs) at the slaughterhouse. Carcass swabs ( n 
+ 98, 
+pooled sample from three pigs) were collected after scalding and 
+dehairing,  but  prior  to  further  processing  at  the  slaughterhouse. 
+=
+Pork portions ( n 
+ 14) of at least 50 g were collected from the pork 
+wholesale market and transported in aseptic sampling bags (Hope 
+Bio-Technology Co., Qingdao, China). Environmental samples com- 
+∼40 mL; farms, n 
+=
+=
+prised eﬄuents ( 
+ 8), air 
+ 33; slaughterhouse, n 
+=
+=
+ 8) and 
+(90–150 cm off the ground; farms, n 
+ 27; slaughterhouse, n 
+∼40 g, undisturbed soil, 5–10 cm of top layer out of each pig 
+soil ( 
+=
+2 of the cor- 
+pen at farms, n 
+=
+ridor ﬂoors (farms, n 
+ 5) and walls (farms, 
+=
+ 5). If present, surface samples of equip- 
+n 
+=
+ment (farms, n 
+ 23) were collected from three locations within the 
+pig pen: drinking water taps, feeding troughs and ventilation sys- 
+tem, respectively. Air samples were collected in each pig pen in 
+the farm and along the slaughtering line in the slaughterhouse us- 
+ing a Sennon JWL-S6 air sampler (Beijing, China) with CHROMagar 
+MRSA  and  CHROMagar  Staphylococcus  aureus  (CHROMagar  Com- 
+pany, Paris, France) plates, respectively (Table S1 and Fig. S1, see 
+online supplementary material). 
+
+=
+ 40; slaughterhouse, n 
+=
+ 50; slaughterhouse, n 
+
+ 40), as well as surface swabs of 20 cm 
+
+∼17–28 km) were also 
+house to the nearest and furthest village: 
+included  in  this  study  [11]  for  comparison  of  the  epidemiology 
+of MRSA and MSSA from humans with and without backyard pig 
+farms,  as  well  as  from  pigs  between  the  commercial  farms  and 
+backyard farms. These samples were collected in July 2015 from 
+=
+pigs (skin swabs behind the ear, n 
+ 404) and humans (nasal swabs, 
+=
+n 
+ 753) from 245 and 753 households, respectively (Table 1 and 
+Fig. S1, see online supplementary material) [12] . 
+
+2.2. Cultivation and veriﬁcation of MSSA and MRSA 
+
+From ESwab tubes, 0.2 mL of transport liquid was transferred 
+to  1.3  mL  of  7.5%  sodium  chloride  broth  (Land  Bridge,  Beijing, 
+China) and incubated overnight at 35 °C, after which cultures were 
+plated  on  CHROMagar  MRSA  and  CHROMagar  S.  aureus  (CHRO- 
+Magar Co.), respectively. One single putative MRSA and S. aureus 
+colony was selected from the respective plate and subcultured on 
+Baird–Parker agar (Land Bridge) overnight at 35 °C. The suspected 
+colonies  were  conﬁrmed  as  S.  aureus  using  matrix-assisted  laser 
+desorption  ionization-time  of  ﬂight  mass  spectrometry  (Bruker, 
+Bremen, Germany), with the suspected MRSA conﬁrmed by poly- 
+merase chain reaction [13] . 
+
+Eﬄuents,  soil,  pork  portions  and  surface  samples  were  pre- 
+enriched in BHI broth (Land Bridge) for 2 h at 35 °C to collect sus- 
+pected S. aureus isolates within those fractal samples. A total of 
+0.2  mL  of  pre-enriched  BHI  broth  was  transferred  to  1.3  mL  of 
+7.5% sodium chloride broth for further enrichment, and was sub- 
+sequently processed as the samples collected with Eswab. 
+
+2.3. Antimicrobial susceptibility testing 
+
+Antimicrobial susceptibility testing was performed using broth 
+microdilution, and interpreted according to the Clinical and Labo- 
+ratory Standards documents VET08 [14] and M100-S28 [15] . S. au- 
+reus ATCC 29213 was used as the control strain. 
+
+2.4. Genetic characterization and phylogenetic analysis 
+
+MRSA and MSSA isolates identiﬁed were subjected to spa typ- 
+ing  [16] ,  and  spa  type  was  assigned  using  spa -plugin  in  BioNu- 
+merics  v7.6  (Applied  Maths,  Sint-Martens-Latem,  Belgium).  Min- 
+imum  spanning  trees  based  on  spa  types  were  constructed  in 
+BioNumerics.  Based  on  spa  types  and  background  information 
+regarding  source  and  location,  representative  MSSA  and  MRSA 
+isolates were selected for WGS and sequenced using Illumina tech- 
+nology [17] . Multi-locus sequence types (MLST) were assigned ac- 
+cording  to  the  S.  aureus  MLST  database  [18]  by  mapping  reads 
+to  alleles  using  SRST2  [19] .  Antimicrobial  resistance  (AMR)  and 
+virulence genes were screened using a mapping approach imple- 
+mented  in  SRST2  against  the  ResFinder  2.1  (17  February  2017) 
+[20]  and  VirulenceFinder  1.6  (18  February  2016)  [21]  databases. 
+De-novo  assembly  was  performed  in  CLC  Genomics  Workbench 
+9  (CLC  Bio,  Aarhus,  Denmark)  with  de  Bruijn  graphs.  Sequence 
+data  were  submitted  to  GenBank  and  are  registered  under  Bio- 
+Project  accession  no.  PRJNA433074.  Based  on  the  draft  genome 
+sequences, a core-genome single nucleotide polymorphism (SNP)- 
+based maximum-likelihood (ML) phylogenetic tree was constructed 
+for all sequenced MSSA and MRSA isolates, with the genome of ST9 
+LA-MRSA QDCD9 used as a reference. The tree was constructed us- 
+ing Parsnp in the Harvest package [22] with default parameter set- 
+tings, and visualized using iTOL [23] . 
+
+2.5. Deﬁnitions and statistical analysis 
+
+Human and porcine samples from a previous study located in 
+12  rural  villages  neighbouring  the  production  chain  (slaughter- 
+
+MRSA isolates were classiﬁed as human or pig associated based 
+on the dominant origin of each ST/CC, while MSSA isolates were 
+
+10 
+
+C. Sun, B. Chen and A. Hulth et al. / International Journal of Antimicrobial Agents 54 (2019) 8–15 
+
+classiﬁed  based  solely  on  their  origin.  Transmission  events  were 
+deﬁned as isolates with core-genome SNP divergence of less than 
+20 [24–26] . 
+
+Descriptive and comparative analyses were performed in Graph- 
+Pad Prism 7.0 (GraphPad Software, La Jolla, CA, USA), and statis- 
+tical analyses were performed in SPSS 25.0 (IBM Corp., Armonk, 
+NY, USA). Differences in the total number of AMR genes, virulence 
+genes and the number of resistance traits among human- and pig- 
+associated isolates were assessed using the Wilcoxon test. Fisher’s 
+exact test was used to test whether differences in frequencies of 
+individual genes encoding resistance or virulence and drug resis- 
+tance phenotypes were signiﬁcant. 
+
+2.6. Ethical approval 
+
+A signed consent form was obtained from all human partici- 
+pants, and animal sampling was conducted in accordance with the 
+principles of the Beijing Municipality Review of Welfare and Ethics 
+of Laboratory Animals (BAOLA 2005). Ethical approval was given by 
+the First Aﬃliated Hospital of Zhejiang University (2015#185 and 
+2015#283). 
+
+3. Results 
+
+3.1. Prevalence of MRSA in the pork production chain and the 
+community 
+
+In total, 223 MRSA and 199 MSSA isolates were recovered from 
+1983 samples collected from various sources and locations (Table 
+S1, see online supplementary material), with all MRSA carrying the 
+
+mecA  gene.  MRSA  isolates  were  detected  in  pigs  from  commer- 
+cial farms (49%, 146/298), the slaughterhouse (fatteners, 8.2%, 7/85; 
+carcass, 1.0%, 1/91) and pork meat (14%, 2/14) from the wholesale 
+pork market ( Fig. 1 a). In Farm B, 80% (132/166) of pigs were posi- 
+tive for MRSA, while on Farm A, 11% (14/132) of pigs were MRSA- 
+positive (Table S1, see online supplementary material). Workers in 
+the production chain also carried MRSA – farm workers (64%, 9/14; 
+Farm A, 33%, 2/6; Farm B, 88%, 7/8), slaughterhouse workers (0%, 
+0/16) and pork market sellers (0%, 0/3) – with an average nasal 
+carriage of 27% (9/33). MRSA detection rate of residents from the 
+surrounding community was 6.8% (4/59), and in rural villages, it 
+was 1.7% (13/753) ( Fig. 1 b and Table S1, see online supplementary 
+material) [11] . 
+
+Environmental samples, eﬄuent, air and surface samples from 
+the commercial farms were also MRSA-positive with average de- 
+tection rates of 5.0% (7/140) and 36% (26/73) at Farms A and B, 
+respectively. Most environmental samples from the slaughterhouse 
+tested negative for both MRSA and MSSA, except for one MRSA- 
+positive eﬄuent sample ( Fig. 1 c and Table S1, see online supple- 
+mentary material). 
+
+3.2. Population structure of MRSA and MSSA 
+
+In  total,  51  spa  types  were  identiﬁed  among  the  422  S.  au- 
+reus  isolates,  with  MSSA  isolates  (47  spa  types)  showing  greater 
+diversity  than  MRSA  (four  spa  types)  ( Fig.  2 a  and  Table  S1,  see 
+online supplementary material). Most MRSA isolates belonged to 
+t899 (93%, 207/223), with the remaining MRSA isolates belonging 
+to t437, t034 and t3527. MRSA spa type t899, t437 and t034, but 
+not t3527, were also detected among MSSA isolates ( Fig. 2 a). 
+
+Fig. 1.  Prevalence of meticillin-susceptible Staphylococcus aureus (MSSA) and meticillin-resistant S. aureus (MRSA) in samples of various origin along and around a pork 
+production chain in Shandong Province, China. (a) Porcine samples. (b) Human samples. (c) Environmental samples. 
+
+C. Sun, B. Chen and A. Hulth et al. / International Journal of Antimicrobial Agents 54 (2019) 8–15 
+
+11 
+
+=
+Fig. 2.  Minimum spanning tree of meticillin-susceptible Staphylococcus aureus (MSSA, n 
+ 223) isolates by spa 
+type. (a) All isolates. (b) Isolates of human origin. (c) Isolates of porcine origin. Each node represents a single spa type. The size of the node is proportional to the number of 
+isolates represented by a said node. Branch lengths between nodes are proportional to the number of alleles that differ between the two linked nodes. Selected nodes are 
+labelled with corresponding spa type and number of isolates represented. Red nodes, MRSA; green nodes, MSSA. 
+
+=
+ 199) and meticillin-resistant Staphylococcus aureus (MRSA, n 
+
+MRSA isolates of human origin were predominantly t899 (54%, 
+14/26)  and  t437  (39%,  10/26)  ( Fig.  2 b),  while  the  clear  major- 
+ity  of  porcine  MRSA  isolates  were  t899  (98%,  159/162)  ( Fig.  2 c). 
+Of  the  MSSA  isolates,  the  top  four  spa  types  corresponded  to 
+59% (117/199) of all MSSA isolates: t034 (35%, 70/199), t899 (13%, 
+25/199), t458 (6.0%, 12/199) and t002 (5.0%, 10/199). The 87 human 
+MSSA isolates belonged to 41 different spa types ( Fig. 2 b), while 
+the 99 porcine MSSA isolates belonged to 12 spa types ( Fig. 2 c). 
+
+In  total,  128  isolates  – 92  MRSA  belonging  to  four  spa  types 
+and  36  MSSA  belonging  to  eight  spa  types  – were  subjected  to 
+WGS (Fig. S2a and Table S2, see online supplementary material). 
+Most  MRSA  isolates  belonged  to  ST3597-t899  (62%,  57/92),  fol- 
+lowed  by  ST9-t899  (20%,  18/92)  and  ST59-t437/t034/t3527  (16%, 
+15/92), with one t437 isolate identiﬁed as ST398. Most MSSA iso- 
+lates were ST398 (53%, 19/36), followed by ST9 (22%, 8/36), ST188 
+(14%, 5/36), ST59 (2.8% 1/36) and ST3597 (2.8% 1/36). Three isolates 
+belonged to new sequence types: one MRSA isolate, a single locus 
+variant of ST3597; and two MSSA isolates, single locus variants of 
+ST9 and ST59, respectively. These were assigned as ST5051, ST5052 
+and ST5053, respectively. 
+
+MRSA ST3597-t899 isolates were frequently identiﬁed in sam- 
+ples collected from commercial farms, including isolates from pigs 
+(98%, 4 8/4 9) and workers (78%, 7/9), while ST9-t899 isolates were 
+predominantly obtained from rural backyard pigs (86%, 6/7) and 
+the slaughterhouse (57%, 4/7). In contrast, ST59-t437 isolates were 
+primarily  found  in  samples  from  humans  in  rural  villages  (47%, 
+7/15)  and  in  the  community  surrounding  the  production  chain 
+(27%, 4/15). MSSA isolates from commercial farms, the slaughter- 
+house, the pork wholesale market and the rural villages were pre- 
+dominantly of the same MLST type, ST398, but representing a dis- 
+tinct set of spa types (Table S2, see online supplementary material). 
+Core-genome-based ML phylogenetic analysis of the 92 MRSA 
+and the 36 MSSA isolates identiﬁed four groups, corresponding to 
+sequence types identiﬁed as CC9, ST188, ST59 and ST398 ( Fig. 3 ). 
+SNP divergence among various isolates was calculated from a total 
+of 31 564 core-genome SNPs. 
+
+All  MRSA  and  MSSA  isolates  from  the  surrounding  commu- 
+nity  were  phylogenetically  separated  from  those  in  the  produc- 
+tion  chain.  However,  indication  of  MRSA  transmission  along  the 
+production chain was observed. For example, ST3597-t899 MRSA 
+
+isolate 2AY27 recovered on Farm A was closely related to DY67- 
+1 recovered from the slaughterhouse (19 SNPs difference). Further, 
+within the commercial farms, an overlap of LA-MRSA was observed 
+between  pigs,  farm  workers,  the  environment,  and  between  the 
+two farms. For example, ST3507-t899 MRSA AB4 recovered from 
+a worker on Farm A was closely related to BY2 of porcine origin 
+on Farm A (one SNP difference). This was also observed on Farm 
+B, as ST3597-t899 MRSA 2AB6-1 (farm worker) and BY78 (weaner) 
+were closely related (one SNP difference). Also, on Farm B, ST3597- 
+t899 MRSA isolates 2AY7-1, 2AY20, 2AY36, 2AY41 and 2AY47 re- 
+covered from sows were closely related to isolates recovered from 
+weaners (BY53, BY56-1, BY80, BY69 and BY68) (zero to four SNPs 
+difference), and ST3597-t899 MRSA isolates BY54 and BY74 recov- 
+ered from weaners were closely related to isolates recovered from 
+growers (2CY8 and 2CY4) (zero to two SNPs difference). Further, 
+ST3597-t899 MRSA isolate 2BA2-1 recovered from an air sample 
+on Farm B was closely related to the porcine isolate BY48-1 (one 
+SNP difference) of the same farm. In addition, ST3597-t899 MRSA 
+isolate BY7 recovered from a weaner on Farm A was identical to 
+isolates recovered from sows (2AY7-1 and 2AY20) on Farm B (zero 
+SNP divergence) ( Fig. 3 ). 
+
+Within the backyard farms, MRSA from humans at two house- 
+holds  in  the  rural  villages  (AK046,  ST59-t437;  AH022,  ST9-t899) 
+were closely related to those from pigs within the same house- 
+hold (YK046, ST59-t437; YH022, ST9-t899) (10–12 SNPs difference). 
+Potential  MSSA  overlaps  were  also  detected  between  individual 
+humans  within  the  same  village,  such  as  isolates  AD057  (ST59- 
+t437) and AD016 (ST59-t437) from Village D (zero SNP difference), 
+S1AH011 (ST9-t899) and S1AH053 (ST9-t899) from Village H (zero 
+SNP difference) ( Fig. 3 ). 
+
+3.3. Distribution of AMR and virulence genes in MRSA and MSSA 
+
+In total, 23 AMR genes and 24 virulence genes were detected 
+among  the  isolates  ( Fig.  4 a  and  b).  Acquired  AMR  genes  were 
+widespread in isolates of both human and porcine origin. Except 
+for the widely distributed resistance genes in this collection, such 
+as blaZ and norA , the distribution of individual AMR genes varied 
+among isolates of human- and pig-associated groups. Among the 
+MRSA isolates, acquired AMR genes were more frequently detected 
+
+12 
+
+C. Sun, B. Chen and A. Hulth et al. / International Journal of Antimicrobial Agents 54 (2019) 8–15 
+
+=
+Fig. 3.  Genomic analysis of meticillin-susceptible Staphylococcus aureus (MSSA, n 
+ 91) isolates of various origins along and around 
+the pork production chain. A maximum-likelihood phylogenetic tree was constructed using core-genome single nucleotide polymorphisms (SNPs). Sources of the isolates 
+are indicated by different colours for origin (squares) and samples’ location (circles). MRSA and MSSA are denoted by ﬁlled and empty pink circles, respectively. Multi-locus 
+sequence typing and spa types are depicted in different colours for strain identiﬁcation (ID) and squares, respectively. The total number of antibiotic resistance genes (red) 
+and virulence genes (green) in each isolate are denoted by the length of a bar chart. Details of the genes of each isolate are given in Table S2 (see online supplementary 
+material). For the convenience of discrimination, this core-genome-based maximum-likelihood tree was visualized ignoring branch lengths. 
+
+=
+ 46) and meticillin-resistant S. aureus ( n 
+
+× 10 
+ 1 
+
+× 10 
+ 1 
+
+× 10 
+ 1 
+
+ 95% of pig-associated isolates vs. 
+
+in pig-associated isolates than human-associated isolates (median 
+−7 ) ( Fig. 4 d). Aminoglycoside resistance genes, in- 
+<
+12 vs. 7; P 
+cluding aacA-aphD, aadD and aadE , were strongly associated with 
+≤40% 
+>
+MRSA isolates from pigs ( 
+−7 )  ( Fig.  4 a).  In  contrast, 
+<
+of  human-associated  isolates;  P 
+(cid:5)
+ )-III were more frequently detected  in MRSA 
+ant(6)-Ia  and aph(3 
+≤2.6%  of 
+of  human  origin  (73%  of  human-associated  isolates  vs. 
+−9 ) ( Fig. 4 a). Similarly, the tetra- 
+<
+pig-associated isolates; P 
+cycline resistance gene tet (L) was strongly associated with MRSA 
+of porcine origin (99% of pig-associated isolates vs. 40% of human- 
+−7 ),  while  isolates  of  human  origin 
+<
+associated  isolates;  P 
+were generally positive for tet (K) (60% of human-associated isolates 
+−4 ) ( Fig. 4 a). The same 
+<
+vs. 7.8% of pig-associated isolates; P 
+was also observed for macrolide resistance genes. The gene erm (C) 
+was associated with porcine MRSA isolates (65% of pig-associated 
+<
+isolate vs. 40% of human-associated isolates; P 
+ 0.01), while erm (B) 
+was found in 80% of human-associated isolates and in only 6.5% 
+−8 )  ( Fig.  4 a).  The  genes  dfrG, 
+<
+of  pig-associated  isolates  ( P 
+fexA, lnu (B) and lsa (E) coding for resistance to trimethoprim, pheni- 
+cols, lincosamides and pleuromutilins-lincosamides-streptogramin 
+A, respectively, were more prevalent in isolates of porcine origin 
+
+× 10 
+ 1 
+
+× 10 
+ 1 
+
+× 10 
+ 1 
+
+× 10 
+ 1 
+
+ 96% of pig-associated isolates vs. 
+
+≤40% of 
+>
+than human isolates ( 
+−7 ).  Of  the  MSSA  isolates  of 
+<
+human-associated  isolates;  P 
+porcine origin, the median number of AMR genes was 11.5 per iso- 
+late, with six AMR genes detected per isolate from humans. Resis- 
+tance genes str, tet (L), tet (M) and lnu (A) were detected at higher 
+rates  in  MSSA  isolates  from  pigs  (mainly  ST398  isolates,  11/16) 
+<
+than human isolates ( P 
+ 0.05), while no speciﬁc gene was associ- 
+ated with MSSA isolates of human origin ( Fig. 4 a). 
+
+× 10 
+ 1 
+
+Differences  in  virulence  genes  in  each  isolate  were  also  ob- 
+served  between  isolates  of  pig-  and  human-associated  groups 
+−16 ;  MSSA,  median  8.5  vs. 
+<
+(MRSA,  median  11  vs.  10,  P 
+<
+11,  P 
+ 0.05)  ( Fig.  4 e).  Haemolysin-encoding  genes  hlgA,  hlgB  and 
+hlgC ,  along  with  aureolysin-encoding  gene  aur ,  were  present  in 
+all  MRSA  and  MSSA  isolates.  However,  staphylokinase  gene  sak , 
+staphylococcal  complement  inhibitor  scn  and  enterotoxin  genes 
+seb,  sek  and  seq  were  more  prevalent  in  isolates  from  humans 
+>
+( 
+ 2.6%  of  pig-associated 
+−7 ),  while  the  enterotoxin  genes  seg,  sei,  sem, 
+<
+isolates;  P 
+sen, seo and seu were more common in isolates from pigs (100% 
+of  pig-associated  isolates  vs. 
+ 27% of  human-associated  isolates; 
+−7 ) ( Fig. 4 b). Only sak and scn were associated with MSSA 
+<
+P 
+
+ 73%  of  human-associated  isolates  vs. 
+
+× 10 
+ 1 
+
+× 10 
+ 1 
+
+<
+
+<
+
+C. Sun, B. Chen and A. Hulth et al. / International Journal of Antimicrobial Agents 54 (2019) 8–15 
+
+13 
+
+Fig. 4.  Heat map and prevalence of resistance genes, virulence genes and number of drugs with resistance of human- and pig-associated meticillin-resistant Staphylococcus 
+aureus (MRSA) and meticillin-susceptible S. aureus (MSSA) isolates. Each cell in the heat map indicates the percentage of strains containing particular resistance genes (a), 
+virulence genes (b) or resistance to a particular drug (c). The bar graph indicates the total number of resistance genes (d), virulence genes (e) and drugs with resistance 
+(f) within each human- and pig-associated isolate. Pig-associated MRSA (CC9, 76/77; ST398, 1/77), human-associated MRSA (ST59, 15/15), pig-associated MSSA (ST398, 
+11/16; ST9, 3/16; ST5053, 1/16, ST188, 1/16), human-associated MSSA (ST398, 7/19; CC9, 6/19; ST188, 4/19; ST5052, 1/19; ST59, 1/19). FOX, cefoxitin; FFC, ﬂorfenicol; ERY, 
+erythromycin; CLI, clindamycin; GEN, gentamicin; TET, tetracycline; TIA, tiamulin; CIP, ciproﬂoxacin, TGC, tigecycline; FA, fusidic acid; VAN, vancomycin; RIF, rifampicin; LZD, 
+linezolid. 
+
+<
+
+ 6.3% of 
+isolates from humans (37% of pig-associated isolates vs. 
+<
+human-associated isolates; P 
+ 0.05). Finally, one ST59-t189 MRSA 
+isolate,  recovered  from  a  community  resident,  was  lukF-PV -  and 
+lukS-PV -positive, and all ﬁve ST188-t189 MSSA isolates (four of hu- 
+man  origin  and  one  of  porcine  origin)  recovered  from  rural  vil- 
+lages were positive for lukD and lukE , with the luk genes coding 
+for leucocidins. The isolates of porcine origin were all negative for 
+Panton–Valentine leucocidin genes ( Fig. 4 b). 
+
+3.4. Antimicrobial susceptibility proﬁles of MRSA and MSSA 
+
+× 10 
+ 1 
+
+Compared  with  MRSA  isolates  from  humans,  MRSA  isolates 
+from pigs were resistant to a larger number of antimicrobial agents 
+−7 ) ( Fig. 4 f). Resistance to ﬂorfenicol, gen- 
+<
+(median 8 vs. 5; P 
+tamicin,  tetracycline,  tiamulin  and  ciproﬂoxacin  were  associated 
+with  MRSA  isolates  from  pigs  (81%  of  pig-associated  isolates  vs. 
+≤60% of human-associated isolates; P 
+ 0.01) ( Fig. 4 c). Erythromycin 
+and clindamycin resistance were commonly observed in MRSA iso- 
+lates regardless of their origin (human, 100%, 93%; pig, 97%, 97%) 
+( Fig. 4 c). No speciﬁc phenotype of resistance could be linked to the 
+origin of MSSA isolates. All isolates tested were susceptible to line- 
+zolid, vancomycin and fusidic acid ( Fig. 4 c). 
+
+<
+
+4. Discussion 
+
+To the authors’ knowledge, this is the ﬁrst study in China to as- 
+sess the epidemiology and transmission of S. aureus in a pork pro- 
+duction chain, operation workers, the environment and surround- 
+ing community. Along the pork production chain, MRSA-CC9 was 
+detected from commercial farms, the slaughterhouse and the pork 
+wholesale market, but the occurrence of MRSA decreased along the 
+chain.  The  results  indicate  that  MRSA-CC9  can  spread  along  the 
+
+pork production chain, but that the potential spread between com- 
+mercial farms and the surrounding community and villages is lim- 
+ited as no closely related MRSA-CC9 were identiﬁed in the commu- 
+nity or villages. The MRSA identiﬁed in humans in the surrounding 
+community and villages belonged instead to ST59-t437, which is a 
+common community-associated MRSA (CA-MRSA) strain in China 
+[27] . The high MRSA carriage among farm workers (64%) combined 
+with a lack of MRSA-CC9 isolates in the community is in accor- 
+dance with an earlier Chinese study which showed that the general 
+population without livestock contact are less likely to carry MRSA- 
+CC9 [28] . The high occurrence in pig production is still of concern 
+because increased incidence of LA-MRSA-CC398 has been observed 
+among humans without livestock contact in Europe [1–3] . 
+
+A large difference in the prevalence of MRSA among pigs of the 
+two investigated farms, 80% (Farm B) and 11% (Farm A), was ob- 
+served, potentially connected to the larger size of Farm B [29] . This 
+observation was not surprising as a previous study in Shandong 
+Province described great variations in MRSA-positive pigs between 
+different farms: 0–45% [8] . Other Chinese studies have also shown 
+that the occurrence of MRSA differs geographically, with estimates 
+ranging from 3.6% (Ningxia) to 47% (Shanghai) [6,8,30] . 
+
+Most MRSA isolates retrieved from the production chain were 
+ST3597-t899,  a  single  locus  variant  of  ST9.  ST3597  were  widely 
+distributed in the two commercial farms among pigs, farm work- 
+ers and environmental samples, and occurred sporadically at the 
+slaughterhouse  (Fig.  S2b,  see  online  supplementary  material).  In 
+contrast, the MRSA-positive backyard pigs in the same area all car- 
+ried ST9-t899 [11] . Furthermore, all ST3597 isolates were closely 
+related and were phylogenetically separated from ST9 isolates (Fig. 
+S2b, see online supplementary material). These results indicate a 
+recent clonal expansion of ST3597 in Farms A and B, rather than 
+multiple introductions into these farms. To the authors’ knowledge, 
+
+14 
+
+C. Sun, B. Chen and A. Hulth et al. / International Journal of Antimicrobial Agents 54 (2019) 8–15 
+
+this is the ﬁrst description of this speciﬁc CC9 variant in Chinese 
+pig farms, although there is a previous report of another ST9 single 
+locus variant, ST1376, from one pig farm [7] . 
+
+(SCHW382/11-1),  Shandong  Provincial  Natural  Science  Founda- 
+tion  (BS2014SW020),  and  China  Postdoctoral  Science  Foundation 
+(2018M640206). 
+
+In contrast to the MRSA situation, ST398 was the most frequent 
+porcine and human MSSA sequence type identiﬁed in the current 
+study.  In  China,  ST398  is  primarily  associated  with  community- 
+and hospital-acquired MSSA infections in humans [27,31] . Similar 
+to a previous ﬁnding [32] , four of seven ST398-MSSA isolated from 
+humans carried genes related to the immune evasion gene cluster 
+(IEC), while none of the 12 isolates from pigs carried these genes 
+(Table S2, see online supplementary material). This indicates that 
+two different ST398 populations are circulating in the area, one in 
+humans and another in pigs. Furthermore, one ST398-MRSA isolate 
+(DY77) was identiﬁed in fatteners from the slaughterhouse in the 
+current study. Interestingly, this ST398-MRSA belonged to spa type 
+t437,  which  was  associated  with  ST59  in  this  and  other  studies 
+[11,33] . Although MRSA-ST398 is uncommon in pigs in China, there 
+is one recent report of MRSA-ST398 from a pig farm in Southern 
+China, but the respective isolates belonged to spa types t034 and 
+t571 [34] . 
+
+The occurrence of resistance genes in MRSA and MSSA porcine 
+isolates  was  generally  higher  than  that  in  the  isolates  from  hu- 
+mans. The resistance phenotypes also differed between isolates of 
+human-  and  pig-associated  groups  (e.g.  resistance  to  ﬂorfenicol, 
+gentamicin, tetracycline, tiamulin and ciproﬂoxacin), and there was 
+concordance between AMR genotypes and phenotypes for most of 
+the isolates. The differences in AMR between human and porcine 
+isolates could be due to differences in antimicrobial use. Interest- 
+ingly,  the  tetracycline  resistance  gene  tet (L)  was  associated  with 
+pig-associated MRSA isolates (99% of isolates), while both human- 
+and  pig-associated  MRSA  were  negative  for  tet (M),  which  is  a 
+well-known genetic marker for livestock-associated S. aureus CC398 
+[32,35] . The occurrence of tet (L), erm (B), together with the lack of 
+IEC genes ( sak and scn ) in MRSA-CC9,  may function similarly as 
+markers  for  LA-MRSA  in  China.  In  addition,  CC9-MRSA  was  also 
+characterized by its high occurrence of staphylococcal enterotoxin 
+coding genes ( seg, sei, sem, sen, seo and seu ) which are due to the 
+enterotoxin  gene  cluster  egc  [36] .  However,  additional  studies  in 
+CC9  from  both  human  and  animal  populations  are  necessary  to 
+validate the markers observed in this study. 
+
+This  study  provides  a  comprehensive  molecular  epidemiology 
+portrait  of  MRSA  and  MSSA  along  a  typical  Chinese  commercial 
+pork  production  chain  and  the  potential  overlap  with  the  sur- 
+rounding population. The WGS-based approach conﬁrmed dissem- 
+ination of CC9 between pigs, farm workers and the environment 
+within the commercial farms, between pigs in commercial farms 
+and  the  slaughterhouse,  and  between  pigs  and  humans  within 
+households, while it did not reveal any indications that MRSA and 
+MSSA from the production chain are circulating in the surrounding 
+community. Instead, this study found two separate MRSA popula- 
+tions in this region of China: one connected to pigs with mainly 
+MRSA CC9 carrying tet (L) but lacking erm (B) and ICE genes, and 
+one in humans with primarily MRSA ST59 carrying erm (B) and IEC 
+genes  but  lacking  tet (L).  In  addition,  two  different  MSSA  ST398 
+populations  are  circulating  in  humans  and  pigs  differing  in  IEC 
+genes. To better understand the occurrence of LA-MRSA in pigs in 
+China and to monitor its epidemiological changes, surveillance and 
+further research studies in pigs, humans and their environment are 
+needed. 
+
+Funding 
+
+This  work  was  funded  by  the  National  Natural  Science 
+Foundation  of  China  (31472237,  31761133022,  81361138021  and 
+31422055),  the  Swedish  Research  Council  (Sino-Swedish  IM- 
+PACT  project,  D0879801),  the  German  Research  Foundation 
+
+Competing interests 
+
+None declared. 
+
+Ethical approval 
+
+Ethical  approval  was  given  by  the  First  Aﬃliated  Hospital  of 
+
+Zhejiang University (2015#185 and 2015#283). 
+
+Supplementary materials 
+
+Supplementary  material  associated  with  this  article  can  be 
+found,  in  the  online  version,  at  doi: 10.1016/j.ijantimicag.2019.03. 
+022 . 
+
+References 
+
+[1] Kinross P , Petersen A , Skov R , Van Hauwermeiren E , Pantosti A , Laurent F , 
+et al. Livestock-associated methicillin-resistant Staphylococcus aureus (MRSA) 
+among human MRSA isolates, European Union/European Economic Area coun- 
+tries, 2013. Euro Surveill 2017;22:619 . 
+
+[2] Larsen J , Petersen A , Sørum M , Stegger M , van Alphen L , Valentiner-Branth P , 
+et al. Meticillin-resistant Staphylococcus aureus CC398 is an increasing cause of 
+disease in people with no livestock contact in Denmark, 1999 to 2011. Euro 
+Surveill 2015;20:711 . 
+
+[3] Larsen J , Petersen A , Larsen AR , Sieber RN , Stegger M , Koch A , et al. Emergence 
+of livestock-associated methicillin-resistant Staphylococcus aureus bloodstream 
+infections in Denmark. Clin Infect Dis 2017;65:1072–6 . 
+
+[4] Chuang  Y-Y ,  Huang  Y-C .  Livestock-associated  methicillin-resistant  Staphy- 
+lococcus  aureus  in  Asia:  an  emerging  issue?  Int  J  Antimicrob  Agents 
+2015;45:334–40 . 
+
+[5] Cuny C , Wieler L , Witte W . Livestock-associated MRSA: the impact on humans. 
+
+Antibiotics 2015;4:521–43 . 
+
+[6] Cui S , Li J , Hu C , Jin S , Li F , Guo Y , et al. Isolation and characterization of 
+methicillin-resistant Staphylococcus aureus from swine and workers in China. J 
+Antimicrob Chemother 2009;64:680–3 . 
+
+[7] Wagenaar JA , Yue H , Pritchard J , Broekhuizen-Stins M , Huijsdens X , Mevius DJ , 
+et al. Unexpected sequence types in livestock-associated methicillin-resistant 
+Staphylococcus aureus (MRSA): MRSA ST9 and a single locus variant of ST9 in 
+pig farming in China. Vet Microbiol 2009;139:405–9 . 
+
+[8] Li  J ,  Jiang  N ,  Ke  Y ,  Feßler  AT ,  Wang  Y ,  Schwarz  S ,  et  al.  Characteriza- 
+tion of pig-associated methicillin-resistant Staphylococcus aureus . Vet Microbiol 
+2017;201:183–7 . 
+
+[9] United States Department of Agriculture. Livestock and poultry: world markets 
+and trade, Washington D.C.: United States Department of Agriculture; 2018. 
+Available  at:  https://apps.fas.usda.gov/psdonline/circulars/livestock _ poultry. 
+pdf . 
+
+[10] National Bureau of Statistics of China. China statistical yearbook: 2016, Beijing: 
+National Bureau of Statistics of China; 2016. Available at:  http://www.stats. 
+gov.cn/tjsj/ndsj/2016/indexeh.htm . 
+
+[11] Bi Z , Sun C , Börjesson S , Chen B , Ji X , Berglund B , et al. Identical genotypes 
+of community-associated MRSA (ST59) and livestock-associated MRSA (ST9) in 
+humans and pigs in rural China. Zoonoses Public Health 2018;65:367–71 . 
+
+[12] Sun Q , Wang Y , Hulth A , Xiao Y , Nilsson LE , Li X , et al. Study protocol for 
+One Health data collections, analyses and intervention of the Sino-Swedish in- 
+tegrated multisectoral partnership for antibiotic resistance containment (IM- 
+PACT). BMJ Open 2018;8 e017832–14 . 
+
+[13] Stegger  M ,  Andersen  PS ,  Kearns  A ,  Pichon  B ,  Holmes  MA ,  Edwards  G , 
+et  al.  Rapid  detection,  differentiation  and  typing  of  methicillin-resistant 
+Staphylococcus aureus harbouring either mecA or the new mecA homologue 
+mecA (LGA251). Clin Microbiol Infect 2012;18:395–400 . 
+
+[14] Clinical and Laboratory Standards Institute. Performance standards for antimi- 
+crobial disk and dilution susceptibility tests for bacteria isolated from animals. 
+CLSI supplement VET08. 4th ed. Wayne, PA: CLSI; 2018 . 
+
+[15] Clinical and Laboratory Standards Institute. Performance standards for antimi- 
+crobial susceptibility testing; 28th informational supplement. CLSI document 
+M100. Wayne, PA: CLSI; 2018 . 
+
+[16] Harmsen D , Claus H , Witte W , Rothgänger J , Claus H , Turnwald D , et al. Typing 
+of methicillin-resistant Staphylococcus aureus in a university hospital setting by 
+using novel software for spa repeat determination and database management. 
+J Clin Microbiol 2003;41:5442–8 . 
+
+[17] Sun C , Zhang P , Ji X , Fan R , Chen B , Wang Y , et al. Presence and molecular char- 
+acteristics of oxazolidinone resistance in staphylococci from household animals 
+in rural China. J Antimicrob Chemother 2018;73:1194–200 . 
+
+[18] Aanensen DM , Spratt BG . The multilocus sequence typing network: mlst.net. 
+
+Nucleic Acids Res 2005;33:W728–33 . 
+
+C. Sun, B. Chen and A. Hulth et al. / International Journal of Antimicrobial Agents 54 (2019) 8–15 
+
+15 
+
+[19] Inouye M , Dashnow H , Raven L-A , Schultz MB , Pope BJ , Tomita T , et al. SRST2: 
+Rapid genomic surveillance for public health and hospital microbiology labs. 
+Genome Med 2014;6:90 . 
+
+[20] Zankari E , Hasman H , Cosentino S , Vestergaard M , Rasmussen S , Lund O , 
+et al. Identiﬁcation of acquired antimicrobial resistance genes. J Antimicrob 
+Chemother 2012;67:2640–4 . 
+
+[21] Joensen KG , Scheutz F , Lund O , Hasman H , Kaas RS , Nielsen EM , et al. Real–
+time whole-genome sequencing for routine typing, surveillance, and outbreak 
+detection of verotoxigenic Escherichia coli . J Clin Microbiol 2014;52:1501–10 . 
+
+[22] Treangen TJ , Ondov BD , Koren S , Phillippy AM . The Harvest suite for rapid 
+core-genome alignment and visualization of thousands of intraspeciﬁc micro- 
+bial genomes. Genome Biol 2014;15:524 . 
+
+[28] Ye X , Liu W , Fan Y , Wang X , Zhou J , Yao Z , et al. Frequency-risk and dura- 
+tion-risk relations between occupational livestock contact and methicillin-re- 
+sistant Staphylococcus aureus carriage among workers in Guangdong. China. Am 
+J Infect Control 2015;43:676–81 . 
+
+[29] Alt K , Fetsch A , Schroeter A , Guerra B , Hammerl JA , Hertwig S , et al. Factors 
+associated with the occurrence of MRSA CC398 in herds of fattening pigs in 
+Germany. BMC Vet Res 2011;7:69 . 
+
+[30] Yan X , Yu X , Tao X , Zhang J , Zhang B , Dong R , et al. Staphylococcus aureus ST398 
+from slaughter pigs in northeast China. Int J Med Microbiol 2014;304:379–83 . 
+[31] Zhao C , Liu Y , Zhao M , Liu Y , Yu Y , Chen H , et al. Characterization of commu- 
+nity acquired Staphylococcus aureus associated with skin and soft tissue infec- 
++
+tion in Beijing: high prevalence of PVL 
+
+ ST398. PLoS One 2012;7 e38577–6 . 
+
+[23] Letunic I , Bork P . Interactive tree of life (iTOL) v3: an online tool for the 
+display and annotation of phylogenetic and other trees. Nucleic Acids Res 
+2016;44:W242–5 . 
+
+[32] Price LB , Stegger M , Hasman H , Aziz M , Larsen J , Andersen PS , et al. Staphylo- 
+coccus aureus CC398: host adaptation and emergence of methicillin resistance 
+in livestock. MBio 2012;3:e00305–11 . 
+
+[24] Schürch AC , Arredondo-Alonso S , Willems RJL , Goering RV . Whole genome se- 
+quencing options for bacterial strain typing and epidemiologic analysis based 
+on single nucleotide polymorphism versus gene-by-gene-based approaches. 
+Clin Microbiol Infect 2018;24:350–4 . 
+
+[25] Lindsay JA . Evolution of Staphylococcus aureus and MRSA during outbreaks. In- 
+
+fect Genet Evolut 2014;21:548–53 . 
+
+[26] Bartels  MD ,  Larner-Svensson  H ,  Meiniche  H ,  Kristoffersen  K ,  Schonning  K , 
+Nielsen JB , et al. Monitoring meticillin-resistant Staphylococcus aureus and its 
+spread in Copenhagen, Denmark, 2013, through routine whole genome se- 
+quencing. Euro Surveill 2015;20 . 
+
+[27] Chen C-J , Huang Y-C . New epidemiology of Staphylococcus aureus infection in 
+
+Asia. Clin Microbiol Infect 2014;20:605–23 . 
+
+[33] Yang X , Qian S , Yao K , Wang L , Liu Y , Dong F , et al. Multiresistant ST59-SCC mec 
+IV-t437 clone with strong bioﬁlm-forming capacity was identiﬁed predomi- 
+nantly in MRSA isolated from Chinese children. BMC Infect Dis 2017;17:733 . 
+
+[34] Li W , Liu J-H , Zhang X-F , Wang J , Ma Z-B , Chen L , et al. Emergence of methi- 
+cillin-resistant Staphylococcus aureus ST398 in pigs in China. Int J Antimicrob 
+Agents 2018;51:275–6 . 
+
+[35] Stegger  M ,  Liu  CM ,  Larsen  J ,  Soldanova  K ,  Aziz  M ,  Contente-Cuomo  T , 
+et al. Rapid differentiation between livestock-associated and livestock-indepen- 
+dent Staphylococcus aureus CC398 clades. PLoS One 2013;8:e79645 . 
+
+[36] Monecke S , Coombs G , Shore AC , Coleman DC , Akpaka P , Borg M , et al. A 
+ﬁeld guide to pandemic, epidemic and sporadic clones of methicillin-resistant 
+Staphylococcus aureus . PLoS ONE 2011;6:e17936 . 
+
+

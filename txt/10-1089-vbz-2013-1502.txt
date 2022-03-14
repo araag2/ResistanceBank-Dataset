@@ -1,0 +1,1160 @@
+VECTOR-BORNE AND ZOONOTIC DISEASES
+Volume 14, Number 7, 2014
+ª Mary Ann Liebert, Inc.
+DOI: 10.1089/vbz.2013.1502
+
+Occurrence and Characterization of Shiga
+
+Toxin-Producing Escherichia coli O157:H7 and Other
+
+Non-Sorbitol–Fermenting E. coli in Cattle
+
+and Humans in Urban Areas of Morogoro, Tanzania
+
+Athumani M. Lupindu,1 John E. Olsen,2 Helena A. Ngowi,1 Peter L. M. Msoffe,3
+
+Madundo M. Mtambo,4 Flemming Scheutz,5 and Anders Dalsgaard2
+
+Abstract
+
+Escherichia coli strains such as Shiga toxin–producing E. coli (STEC), enteropathogenic E. coli, en-
+terotoxigenic, attaching, and effacing E. coli, and enteroinvasive E. coli cause diarrhea in humans. Although
+other serotypes exist, the most commonly reported STEC in outbreaks is O157:H7. A cross-sectional study was
+conducted to isolate and characterize non-sorbitol–fermenting (NSF) E. coli O157:H7 from urban and periurban
+livestock settings of Morogoro, Tanzania. Human stool, cattle feces, and soil and water samples were collected.
+Observations and questionnaire interview studies were used to gather information about cattle and manure
+management practices in the study area. E. coli were isolated on sorbitol MacConkey agar and characterized by
+conventional biochemical tests. Out of 1049 samples, 143 (13.7%) yielded NSF E. coli. Serological and
+antimicrobial tests and molecular typing were performed to NSF E. coli isolates. These procedures detected 10
+(7%) pathogenic E. coli including STEC (n = 7), enteropathogenic E. coli (EPEC) (n = 2), and attaching and
+effacing E. coli (A/EEC) (n = 1) strains. The STEC strains had the ability to produce VT1 and different VT2
+toxin subtypes that caused cytopathic effects on Vero cells. The prevalence of STEC in cattle was 1.6%, out of
+which 0.9% was serotype O157:H7 and the overall prevalence of diarrheagenic E. coli in cattle was 2.2%. The
+serotypes O157:H7, O142:H34, O113:H21, O + :H - , O + :H16, and O25:H4 were identiﬁed. One ESBL-
+producing isolate showed the MLST type ST131. To our knowledge, this is the ﬁrst ﬁnding in Tanzania of this
+recently emerged worldwide pandemic clonal group, causing widespread antimicrobial-resistant infections, and
+adds knowledge of the geographical distribution of ST131. Cattle manure was indiscriminately deposited within
+residential areas, and there was direct contact between humans and cattle feces during manure handling. Cattle
+and manure management practices expose humans, animals, and the environment to pathogenic E. coli and
+other manure-borne pathogens. Therefore, there is a need to improve manure management practices in urban
+and periurban areas to prevent pathogen spread and associated human health risks.
+
+Key Words: Manure—Periurban—Public health—Sorbitol—MacConkey agar.
+
+Introduction
+
+D iarrheagenic Escherichia coli,
+
+such as entero-
+toxigenic E. coli (ETEC), Shiga toxin–producing E. coli
+(STEC), enteroaggregative E. coli (EAEC), enteropathogenic
+
+E. coli (EPEC), enteroinvasive E. coli (EIEC), diffusely ad-
+herent E. coli (DAEC), and extraintestinal pathogenic E. coli
+(ExPEC) cause different intestinal and extraintestinal dis-
+eases in humans (Nataro and Kaper 1998, Kaper et al. 2004,
+Caprioli et al. 2005), including diarrhea, hemorrhagic colitis,
+
+1Department of Veterinary Medicine and Public Health, Sokoine University of Agriculture, Morogoro, Tanzania.
+2Department of Veterinary Disease Biology, Faculty of Health and Medical Sciences, University of Copenhagen, Frederiksberg, Den-
+
+mark.
+
+3Directorate of Undergraduate Studies, University of Dodoma, Dodoma, Tanzania.
+4Ofﬁce of the Deputy Vice Chancellor, Nelson Mandela African Institute of Science and Technology, Arusha, Tanzania.
+5WHO Collaborating Centre for Reference and Research on Escherichia and Klebsiella, Department of Microbiology and Infection
+
+Control, Statens Serum Institut, Copenhagen, Denmark.
+
+503
+
+504
+
+LUPINDU ET AL.
+
+or hemolytic uremic syndrome (HUS), especially in children
+and the elderly (Dundas et al. 2001).
+
+Once referred to as a rare serotype (Riley et al. 1983), non-
+sorbitol–fermenting (NSF) STEC O157:H7 is now a public
+health problem worldwide (Caprioli et al. 2005). STEC
+O157:H7 typically causes hemorrhagic colitis characterized
+by severe abdominal pain, watery diarrhea preceding bloody
+diarrhea, and little or no fever (Germani et al. 1997). About
+2–15% of STEC O157:H7 infections progress to HUS char-
+acterized by hemolytic anemia, thrombocytopenia, and renal
+failure (Fitzpatrick 1999, Dundas et al. 2001). Both sporadic
+cases and epidemic diseases associated with STEC O157:H7
+have been reported (Sang et al. 1996, Crump et al. 2002).
+
+Hosts and sources of STEC O157:H7 are diverse and in-
+clude cattle, sheep, goats, pigs, water buffalo, deer, horse,
+dogs, rabbits, gulls, pigeons, chicken, meat, milk, poultry and
+ﬁsh products, vegetables, and water (Caprioli et al. 2005,
+Ferens and Hovde 2011). Cattle are the main reservoir
+(Chase-Topping et al. 2008) and have been associated with
+several cases of human infection (Aspa´n and Eriksson 2012).
+Adult cattle are tolerant to infection due to lack of vascular
+receptors for the Shiga toxins produced by STEC O157:H7
+(Pruimboom-Brees et al. 2000), whereas ileocolitis in calves
+following experimental
+infection is fatal (Dean-Nystrom
+et al. 1998). Transmission of STEC O157:H7 to humans
+occurs through the fecal–oral route following ingestion of
+contaminated food or water (Tuttle et al. 1999, Olsen et al.
+2002) or direct contact with contaminated surfaces or animals
+(Crump et al. 2002).
+
+Urban areas are city areas characterized by a dense human
+population of mixed age, sex, family and household structure,
+ethnic, cultural, religious diversity, educational and income
+levels, and high built-up area with technological and eco-
+nomic advancement. Between the urban and the rural lies a
+zone of gradual transition from urban to rural, called the
+periurban area (Simon et al. 2004). Urban and periurban
+livestock farming is expanding in developing countries pri-
+marily due to high demand for animal protein to serve rapidly
+growing urban populations, but also to generate household
+income (Mlozi 1997). In Tanzania, there is an increase in
+both the number of cattle and households engaged in cattle
+keeping, with such households located in close proximity to
+households not keeping cattle. Thus, cattle and other live-
+stock manure is deposited indiscriminately in and on the
+fringes of cities and contaminates the external environment,
+e.g., cattle defecate when taken around during the day for
+feeding or when manure is poorly managed at the household
+level (Lupindu et al. 2012). However, in contrast to well-
+known health risks associated with poor management of
+human excreta, little is known about health risks associated
+with livestock keeping and manure management in urban
+areas.
+
+The present study, therefore, aimed to estimate the prev-
+alence of NSF STEC O157:H7and other NSF E. coli in cattle,
+humans, and the associated environment of the municipality
+of Morogoro, Tanzania.
+
+Materials and Methods
+
+Selection of study subjects and sample collection
+
+The study included smallholder cattle keeping and non-
+cattle–keeping households of urban and periurban areas of
+
+Morogoro municipality, Tanzania. The urban area of Mor-
+ogoro includes densely populated residential, commercial,
+industrial, and administrative areas where cattle are also kept.
+The periurban area lies adjacent to and separates the urban
+area of Morogoro from the rural settings. It is characterized
+by dense human population, small cattle herds, and limited
+crop growing on the urban interface and gradually changes
+into sparse population, big cattle herds, extensive crop ﬁelds,
+and bushes toward the rural boarder. There is no clearcut
+demarcation between urban and periurban settings. A herd of
+cattle belonging to a household was regarded as a cluster. To
+establish the prevalence of NSF STEC O157:H7, the number
+of clusters was calculated (Bennett et al. 1991) and adjusted
+as the population of clusters from which the sample was
+drawn was small (Thrusﬁeld 1995). An estimated prevalence
+(P) of NSF STEC O157:H7 was set at 50% (Thrusﬁeld 1995),
+the intracluster correlation coefﬁcient (q) at 0.2 (Otte and
+Gumm 1997), and the signiﬁcance level at 5%. The average
+number of cattle in a cluster was found to be ﬁve during a
+preliminary survey and thus used in calculation of the number
+of clusters. One hundred cattle-keeping households, who kept
+446 cattle in total, were randomly selected from a sampling
+frame of 367 households and matched to their respective non-
+cattle–keeping neighbors living within a radius of 100 me-
+ters. Face-to-face interviews with household leaders using a
+structured questionnaire were used to gather information
+regarding cattle and manure management. Further informa-
+tion was collected by observations made around the house-
+holds. Stools from one member of a cattle-keeping household
+involved in cattle and manure management and any member
+from a non-cattle–keeping household were collected early in
+the morning following prior notiﬁcation and provision of a
+stool collection container the preceding evening. Water and
+soil samples were collected from the household the same
+morning that stool was collected. Soil samples (2–5 cm of top
+soil) were collected from ﬁve different locations of the
+household premises and mixed to form a pooled soil sample
+of about 100 grams. Surface water, such as borehole or pond,
+or any other available water source for human and/or cattle
+consumption at the household level was collected in sterile
+250-mL bottles for isolation of E. coli. Individual fecal
+samples of 100–150 grams were collected by hand from the
+rectum using a disposable plastic glove from all cattle kept in
+a household. All samples were immediately placed in an
+insulated box with cooling elements and transported to the
+laboratory where bacteriological analysis was initiated. Some
+samples were kept overnight at 4–5°C for analysis the fol-
+lowing day, with such samples being stored for a maximum
+of 24 h. A total of 200 human stool, 200 soil, 200 water, and
+446 fecal samples from cattle were collected for E. coli
+analysis between December, 2010, and February, 2012.
+
+Isolation of E. coli
+
+One gram of stool, soil, and feces and 1 mL of water
+sample were mixed with 4 mL of normal saline (0.9% NaCl)
+to form a sample suspension. One milliliter of the sample
+suspension was enriched by incubation at 37°C for 24 h in
+4 mL of brain infusion broth (CM0225, Oxoid, Hampshire,
+UK). Sample enrichments were subcultured onto Sorbitol
+MacConkey agar (CM0813, Oxoid) supplemented with ce-
+fexime-tellurite (SR0172E, Oxoid) and incubated at 37°C for
+
+PREVALENCE OF STEC O157 IN CATTLE IN TANZANIA
+
+505
+
+24 h. Medium sized, round, smooth, colorless (NSF) colonies
+were checked for purity after subculture onto blood agar
+plates and then tested for lactose fermentation on Mac-
+Conkey agar (M082-500G, Himedia, Mumbai, India), b-
+glucuronidase and b-galactosidase activities on Brilliance
+E. coli agar (CM1046, Oxoid), and tryptophanase activity in
+the indole test.
+
+All NSF E. coli isolates were subsequently tested for the
+presence of O157 somatic antigen by agglutination test using
+a Wellcolex E. coli O157 kit (Remel Europe Ltd., UK) ac-
+cording to manufacturer’s instruction.
+
+Detection of diarrheagenic E. coli
+
+Multiplex PCR for diarrheagenic E. coli was done for all
+NSF E. coli isolates using a diarrheagenic E. coli (DEC) PCR
+kit (SSI Diagnostica, Hillerød, Denmark, 2011) to check for
+presence of the following genes: intimin gene (eae) with
+amplicon size 377 bp; verocytotoxin 1 (vtx1) with amplicon
+size 260 bp; verocytotoxin 2 (vtx2) with amplicon size
+420 bp; heat-stable enterotoxin, human variant (estA-human)
+with amplicon size 151 bp; heat-stable enterotoxin, porcine
+variant (estA-porcine) with amplicon size 160 bp; heat-labile
+enterotoxin (eltA) with amplicon size 479 bp; invasive plas-
+mid antigen (ipaH) with amplicon size 647 bp; and 16S
+rDNA genes with amplicon size 1062 bp. The latter gene
+served as a positive PCR internal control. Template DNA
+preparation, PCR master mix and PCR reaction volume were
+prepared according to the manufacturer’s instructions. PCR
+ampliﬁcation was run in a thermocycler at the following
+conditions: Initial denaturation at 95°C for 2 min followed by
+35 cycles of denaturation at 94°C for 50 s, annealing at 62°C
+for 40 s, and extension at 72°C for 50 s. The ﬁnal extension
+was done at 72°C for 3 min. For each sample and the controls,
+18 lL of PCR product was run in separate wells on 2%
+agarose gel at 125 V for 1 h followed by staining in ethidium
+bromide (SSI-Diagnostica 2011). STEC isolates were sub-
+typed by PCR for vtx1 and vtx2 genes (Scheutz et al. 2012).
+Vero cell cytotoxicity assay was performed for all isolates
+positive for virulence genes to test for cytopathic effects on
+Vero cell monolayers (Scheutz 1997).
+
+Strains found to harbor virulence genes in the DEC PCR
+were conﬁrmed by dot-blot DNA hybridization and tested for
+additional virulence genes at the Statens Serum Institut,
+Denmark. DNA probes included vtx1, vtx2, eae, ehxA, EAF,
+bfpA, saa, astA, and vtx2f. Isolates were allowed to grow on
+the nylon membrane positioned on top of an agar plate. The
+colonies were lysed, denatured, and neutralized using stan-
+dard conditions and then hybridized (Scheutz 1997).
+
+Serotyping of diarrheagenic E. coli
+
+O and H antigen serotyping was performed according to
+standard procedures at the Statens Serum Institut (Ørskov and
+Ørskov 1984; SSI 2011). In summary, boiled cultures of
+isolates were tested against pooled O antisera and single O
+antisera of respective pools. Infusion broth inoculated with a
+colony of isolate was incubated at 37°C for 24 h. Broth cul-
+tures were boiled at 100°C for 1 h and left to cool on the table
+for 1 h before use. Eighty microliters of pooled O antisera was
+mixed with an equal amount of boiled culture in microtiter
+plates and incubated in humid atmosphere at 50°C overnight.
+A boiled culture positive for pooled O antisera was tested
+
+with an equal amount of single O antisera and incubated at
+50°C overnight. A positive reaction—agglutination covering
+the bottom of microtiter well—was read against artiﬁcial
+light on a black background.
+
+For H antigen typing, one colony from agar medium was
+inoculated in semisolid medium and incubated at 37°C.
+Motile cultures were passed to another semisolid medium
+using a Pasteur pipette and incubated overnight at 37°C.
+Cultures were further passed to nutrient beef broth, incubated
+at 37°C for 6 h in a roller device, and ﬁxed with formaldehyde
+0.5%. Pooled H antiserum (180 mL) was mixed with an equal
+amount of ﬁxed culture in a glass tube. The reaction was read
+after 2 h incubation of the mixture at 50°C. Positive ﬁxed
+cultures were tested with an equal amount of single H antisera
+of the respective H pool. A positive agglutination reaction
+was ﬂuffy.
+
+Antimicrobial susceptibility test
+
+Antimicrobial susceptibility testing of all NSF E. coli
+isolates was determined by the disc diffusion method ac-
+cording to standards of the Clinical Laboratory Standard
+Institute (CLSI 2008). The following discs (Oxoid, UK) were
+used: Amoxillin (30 lg), ampicillin (10 lg), sulfamethazole/
+trimethoprim (25 lg),
+tetracycline (30 lg), ciproﬂoxacin
+(5 lg), gentamicin (10 lg), streptomycin (10 lg), and cefo-
+taxime (30 lg). Fresh colony suspension, equivalent to 0.5
+McFarland standards, was tested against the antimicrobial
+discs on Mueller–Hinton agar, and the diameters of the zone
+of complete inhibition were read after 18 h of 37°C incuba-
+tion. Isolates were also tested for presence of extended
+spectrum b-lactamase (ESBL) genes for the TEM, SHV,
+OXA-10 group, and the CTX-M group 1, 2, 8, and 9 enzymes
+by PCR, as previously described (Hansen et al. 2012). The
+O25-ST131 clone allele-speciﬁc PCR for the paB gene was
+performed as previously described (Clermont et al. 2009).
+
+Ethical approval
+
+The study was approved by the Tanzania National Institute
+for Medical Research (NIMR) Ethical Board (NIMR/HQ/R
+8a/Vol. IX/927). Conﬁdentiality of the study outcome and all
+conditions for research approval were observed throughout
+the study
+
+Results and Discussion
+
+NSF E. coli
+
+From the total of 1046 samples analyzed, 143 (13.7%)
+yielded NSF E. coli, including 95 (9.0%) isolates from cattle
+feces, 33 (3.2%) from human stool, eight (0.8%) from soil,
+and seven (0.7%) from water samples. Only one isolate was
+selected from each sample. Four isolates (4.2%) from cattle
+were positive for O157 somatic antigen. Traditionally, the
+inability of E. coli O157:H7 to ferment sorbitol has been used
+to differentiate them from other strains. The use of sorbitol
+MacConkey agar to screen for STEC O157:H7 is reported to
+miss out some nonmotile VTEC O157 strains because they
+can ferment sorbitol (Karch and Bielaszewska 2001); how-
+ever, recovery of STEC (including non-O157), EPEC, and A/
+EEC in the present study (Table 1) illustrates that there is a
+broad range of diarrheagenic E. coli that do not ferment
+sorbitol.
+
+506
+
+LUPINDU ET AL.
+
+Table 1. Virulence Genes and Subtypes of Diarrheagenic Non-Sorbitol–Fermenting E. coli
+
+Isolated from Cattle, Humans, Soil, and Water in Morogoro Municipality, Tanzania
+
+Sample ID
+
+Source
+
+BMZU001
+BMKB068
+BMKB069
+BMKB070
+BKIN069
+BKIH015
+BKIH040(2)
+BKIH101
+BBIG020(1)
+BKIL032
+WKIL019
+SBIG022
+HBIG020
+HBIG021
+HBIG010
+BBIG089
+BBIG036
+
+Bovine
+Bovine
+Bovine
+Bovine
+Bovine
+Bovine
+Bovine
+Bovine
+Bovine
+Bovine
+Water
+Soil
+Human
+Human
+Human
+Bovine
+Bovine
+
+vtx1
+-
+-
+-
+-
+-
+-
+-
++
++
+-
+-
+-
+-
+-
+-
+-
+-
+
+vtx2
++
++
++
++
++
+-
+-
++
++
+-
+-
+-
+-
+-
+-
+-
+-
+
+eae
+-
++
++
++
++
++
+-
+-
+-
++
++
+-
+-
+-
+-
+-
+-
+
+Virulence genes
+
+ehxA
+
+EAF
+
+bfpA
+
+-
++
++
++
++
++
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
++
++
+-
+-
+-
+-
+-
+-
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
++
++
+-
+-
+-
+-
+-
+-
+
+astA
+-
++
++
++
++
++
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+Serotype
+
+Pathotype
+
+VTEC
+VTEC
+VTEC
+VTEC
+VTEC
+A/EEC
+
+VTEC
+VTEC
+EPEC
+EPEC
+
+O113:H21
+O157:H7
+O157:H7
+O157:H7
+O157:H7
+O + :H-
+O49:H30
+O + :H16
+O113:H21
+O142:H34
+O142:H34
+O + :H33
+O25:H4
+O83:H31
+O + :H33
+(O20):H–
+O8:H9
+
+VTEC, Vero cytotoxin–producing E. coli; A/EEC, attaching and effacing E. coli; EPEC, enteropathogenic E. coli.
+
+Multiplex DEC PCR of all NSF E. coli revealed that 11
+isolates (7.7%) carried at least one virulence gene (Fig. 1).
+The proportion of cattle carrying NSF diarrheagenic E. coli
+was 10.5%, whereas that of water samples positive for NSF
+diarrheagenic E. coli was 14.3%. An amplicon was produced
+for 16S rDNA in all tested isolates except for the negative
+control, conﬁrming that the PCR was done correctly. The
+results from the multiplex DEC PCR, DNA hybridization,
+and O:H serotyping of the NSF E. coli are shown in Table 1.
+Isolates contained either one or a combination of vtx1, vtx2,
+eae, ehxA, EAF, bfpA and astA genes. Four isolates carried
+both eae and vtx2 genes, two isolates carried vtx1 and vtx2,
+and two isolates carried EAF and bfpA genes. Six out of 11
+diarrheagenic E. coli isolates had cytotoxic effects on Vero
+cells (Table 2). The O157:H7 was the most commonly iso-
+lated serotype (four isolates), while other isolates were
+O113:H21, O142:H34, O + :H - , and O + :H16. One STEC
+isolate was nonmotile and two isolates had an O antigen that
+could not be determined (Table 1). The vtx subtypes were
+dominated by vtx2c (ﬁve out of seven isolates) (Table 2).
+Three bovine isolates had more than one subtype of the vtx
+gene, while one isolate contained three vtx subtype genes
+(Table 2).
+
+Occurrence of genes vtx1, vtx2, eae, ehxA, and astA in
+different combinations and the cytopathic effect of isolate
+extracts on Vero cells suggest that these isolates can cause
+disease in humans (Boerlin et al. 1999, Blanco et al. 2003,
+Caprioli et al. 2005). Different vtx2 subtypes were found in
+the current study, a ﬁnding also reported earlier (Scheutz
+et al. 2001). Virulence genes eae and vtx2 have been more
+often associated with serotypes reported from human dis-
+eases than vtx1 (Boerlin et al. 1999). Moreover, speciﬁc
+subtypes of vtx2 have been associated with HUS cases,
+whereas other subtypes seem to be most commonly associ-
+ated with uncomplicated diarrhea (Friedrich et al. 2002). Our
+recovery of vtx1a, vtx2b, vtx2c, and vtx2d in different com-
+binations and in some isolates in combination with the eae
+
+gene shows that inadequate management of cattle manure
+and associated human exposures may represent health risks
+for people living in urban areas with livestock keeping.
+
+Prevalence of STEC
+
+The prevalence of STEC O157:H7 in cattle was 0.9%
+[95% conﬁdence interval (CI) 0.29–2.15], whereas the
+prevalence of STEC in cattle was 1.6% (95% CI 0.69–3.08).
+The overall prevalence of diarrheagenic E. coli in cattle feces
+was 2.2% (95% CI 0.99–3.67) and 0.5% (95% CI 0.025–2.44)
+in water. Each individual diarrheagenic E. coli isolate came
+from a different source, in which case nine isolates originated
+from different cattle and herds and one isolate was isolated in
+a water sample in a household where diarrheagenic isolates
+could not be recovered from either human stool, cattle feces,
+or soil samples. There may be little transmission within
+clusters, but these scattered multiple sources increase the
+chance of pathogen transmission to humans, animals, and the
+environment in close vicinity to the clusters positive for
+diarrheagenic E. coli.
+
+The low prevalence of NSF STEC O157:H7 found in cattle
+in Morogoro is similar to what has been reported in Kansas
+(1.3%) (Sargeant et al. 2000) and in Washington State for
+dairy cattle (0.28%), beef cattle on pasture (0.71%), and beef
+cattle in feedlots (0.33%) (Hancock et al. 1994). However,
+higher occurrence has been reported elsewhere in South
+Africa, where 5.4–20% of cattle were positive for STEC
+O157:H7 (Ateba and Bezuidenhout 2008). The prevalence of
+1.6% STEC in cattle in the present study is comparable to
+what has been reported in Spain in adult healthy cattle
+(2.5%), but is lower than that in calves (7.9%) and heifers
+(20.2%) in the same country (Orden et al. 2002). The sensi-
+tivity of diarrheagenic E. coli isolation may have been neg-
+atively affected by the amount of sample and the type
+enrichment media used. In the present study, 1 gram of
+sample was inoculated in 4 mL of nonselective enrichment
+
+PREVALENCE OF STEC O157 IN CATTLE IN TANZANIA
+
+507
+
+FIG. 1. Multiplex DEC PCR for non-sorbitol–fermenting E. coli isolates. Lanes M, molecular weight size marker (100-bp
+plus DNA ladder); lane 1, BMZU001 (vtx2); lane 2, BMKB070 (vtx2 and eae); lane 3, BMKB068 (vtx2 and eae); lane 4,
+BMKB069 (vtx2 and eae); lane 5, BKIN069 (eae); lane 6, BKIH015 (eae); lane7, BKIH040(2) (vtx1 and vtx2); lane 8,
+BKIH101 (vtx1 and vtx2); lane 9, BBIG020(1) (vtx1 and vtx2); lane 10, BKIL032 (eae); lane 11, WKIL019(eae); lane P1,
+positive control for vtx2, eae and vtx; lane P2, positive control for ipaH, eltA and estA; lane N, negative control.
+
+medium. However, the method used is comparable to a study
+by Sargeant et al. (2000), who enriched 10 grams of sample in
+90 mL of enterohemorrhagic E. coli (EHEC) enrichment
+broth and reported a prevalence of NSF STEC of 1.3%. On
+the contrary, 20 grams of the sample enriched in 180 mL of
+modiﬁed E. coli broth yielded a prevalence of 11.1%% NSF
+STEC O157:H7 (Heuvelink et al. 1998).
+
+There are no previous records for Tanzania and neigh-
+boring countries of the prevalence of STEC O157:H7 in
+cattle. Thus, the estimated prevalence of STEC O157:H7 was
+set at 50% to maximize the sample size when the sample size
+was calculated (Thrusﬁeld 1995). However, non-O157 STEC
+
+has been isolated from both cattle and children in neighboring
+Uganda (Majalija et al. 2008), and a study on E. coli
+O157:H7 in human patients with diarrhea in Morogoro,
+Tanzania, found that 0.7% of strains harbored vtx1 or vtx2 as
+well as the eae gene (Raji et al. 2008). It remains to be in-
+vestigated whether EPEC strains in cattle feces and water
+sources as documented in this study may be associated with
+human diseases, e.g., gastroenteritis in children due to EPEC
+infection that has been reported in Dar es salaam, Tanzania,
+where livestock is also kept in urban areas (Moyo et al. 2011).
+Our results document for the ﬁrst time that STEC (including
+E. coli O157:H7), EPEC, and A/EEC strains have been found
+
+Table 2. Vero Cell Assay (VCA) and vtx Subtyping
+
+for Non-Sorbitol–Fermenting Diarrheagenic E. coli Isolates
+
+Sample ID
+
+BKIH101
+BKIN069
+BMKB070
+BMKB068
+BMKB069
+BMZU001
+BBIG020(1)
+
+Serotype
+0 + :H16
+O157:H7
+O157:H7
+O157:H7
+O157:H7
+O113:H21
+O113:H21
+
+Source
+
+Bovine
+Bovine
+Bovine
+Bovine
+Bovine
+Bovine
+Bovine
+
+VCA
+
++
+-
++
++
++
++
++
+
+vtx1
++
+-
+-
+-
+-
+-
++
+
+vtx2
++
++
++
++
++
++
++
+
+vtx subtypes
+
+vtx1a; vtx2c
+vtx2c
+vtx2c
+vtx2c
+vtx2c
+vtx2b + vtx2d
+vtx1a; vtx2b + vtx2d
+
+508
+
+Parameter
+
+Cattle feeding
+
+Manure disposal location
+
+Manure disposal form
+
+Animal house efﬂuent disposal
+
+Manure collection method
+
+Drinking water source
+
+Table 3. Cattle and Manure Management Practices by Households
+with Diarrheagenic E. coli–Positive and - Negative Herds (n = 100)
+
+LUPINDU ET AL.
+
+Practice
+
+Positive
+
+herds
+
+Negative
+
+herds
+
+Communal grazing
+Zero grazing
+Disposal within residential area
+Disposal outside residential area
+Spread of fresh manure on land
+Spread of compost on land
+Leaching to surrounding areas
+Pit collection
+Use of bare hands, spades and wheelbarrow
+Use of water splash
+Surface water shared between cattle and people
+Surface water not shared between cattle and people
+
+7
+2
+5
+4
+8
+1
+9
+0
+9
+0
+9
+0
+
+46
+45
+65
+26
+83
+8
+71
+20
+98
+2
+51
+40
+
+in cattle and water sources in Tanzania. However, if the use of
+sorbitol MacConkey agar to recover NSF E. coli can detect
+diarrheagenic E. coli at this rate, questions arise about the
+magnitude of the prevalence of sorbitol-fermenting diar-
+rheagenic E. coli and sorbitol-fermenting O25:H4, ST131 in
+this environment.
+
+Antimicrobial resistance
+
+The diarrheagenic E. coli isolates were all susceptible to
+tetra-
+amoxillin, ampicillin, sulfamethazole/trimethoprim,
+cycline, ciproﬂoxacin, gentamicin, streptomycin, and cefo-
+taxime. However, a nondiarrheagenic isolate from human
+(O25:H4) (Table 1) tested positive as O25b-ST131 by the
+clone allele-speciﬁc PCR for the paB gene, which is identical
+to the worldwide ESBL-producing clone and was positive for
+the CTX-M-gr. 1 gene. ESBL variant TEM-63 and CTX-M-
+15 have previously been isolated from blood cultures of
+patients in Dar es Salaam, Tanzania (Blomberg et al. 2005),
+and the isolation of O25:H4, ST131 from the stool of a healthy
+individual in the current study gives another dimension of
+concern of resistant gene spread among the population.
+
+Cattle and manure management practices
+
+Cattle and manure management practices for diarrhea-
+genic E. coli–positive herds are summarized in Table 3. In
+general, cattle at the study sites and elsewhere in periurban
+areas of Tanzania roam around, and different herds are al-
+lowed to mix while foraging during daytime and are then
+housed at night within residential areas. The manure accu-
+mulated overnight is collected by bare hands, spades, and
+wheelbarrows and disposed of as fresh manure in and around
+residential areas in both households with diarrheagenic
+E. coli–positive and - negative herds. The efﬂuent from the
+animal house was indiscriminately discharged and leached
+into the surrounding land in all nine (9%) households with
+cattle positive for diarrheagenic E. coli and in 71 (71%)
+households with negative herds. In all nine (9%) households
+with cattle positive for diarrheagenic E. coli, humans and
+cattle were found to share common water sources for drinking
+purposes compared to 51 (51%) households with diarrhea-
+genic E. coli–negative herds (Table 3). However, the ratio of
+diarrheagenic E. coli–positive to - negative herds in each
+
+category did not show evidence of a relation between cattle
+and manure management practices and isolation of diar-
+rheagenic E. coli
+
+During grazing, cattle may have contact with other ani-
+mals, including wildlife. The indiscriminate defecation on
+grazing land and at household premises increases exposure
+and spread of pathogens between animals, humans, and the
+environment, e.g., children playing around the household
+perimeter are likely to have high exposure to animal manure
+through contact with contaminated soil. Manure efﬂuents are
+also discharged from cattle houses, resulting in further con-
+tamination of the surrounding land, with cattle keepers and
+their household members being at increased risk of expo-
+sure to diarrheagenic E. coli. At the study sites, cattle and
+households often share sources of surface water, such as
+rivers and ponds, especially during the dry season when these
+are important common sources of drinking water. Close
+contact between human and livestock as documented in this
+study has been reported to result into sharing of nonpatho-
+genic commensal bacteria between humans and different
+animal species (Rwego et al. 2008). Given such interactions,
+the presence of pathogenic microbes can lead to either human
+or animal infection or environmental contamination. For in-
+stance, outbreak of enteric infectious diseases, including
+those due to E. coli O157:H7, have been reported among
+people on farm visits in the United States who had direct
+contact with manure from infected cattle (Crump et al. 2002,
+Smith et al. 2004). However, it is uncertain to what extent the
+occurrence of diarrheagenic E. coli found in cattle and in
+water in the present study represents real human health
+hazards. Therefore, there is a need for further research to
+quantify possible risk factors for pathogen transmission from
+animals or environment to animal keepers and neighboring
+community in the study area and recommend appropriate
+measures to safeguard public health.
+
+Acknowledgments
+
+The authors wish to thank the Ministry of Foreign affairs of
+Denmark through the Danish International Development
+Agency (Danida) for ﬁnancial support to the project ‘‘Op-
+portunities and challenges in peri-urban livestock farming in
+Tanzania’’ (P6-08-Tan). The excellent collaboration between
+
+PREVALENCE OF STEC O157 IN CATTLE IN TANZANIA
+
+509
+
+Sokoine University Agriculture (Tanzania) and University of
+Copenhagen (Denmark)
+is highly appreciated. We ac-
+knowledge participation and project support of cattle keepers
+and extension staff in urban and peri-urban areas of Mor-
+ogoro. The dedicated technical assistance in this study by
+Pernille Gymoese, Frank Hansen, and Susanne Jespersen is
+greatly appreciated.
+
+Author Disclosure Statement
+
+No competing ﬁnancial interests exist.
+
+References
+
+Aspa´n A, Eriksson E. Verotoxigenic Escherichia coli O157:H7
+from Swedish cattle; isolates from prevalence studies versus
+strains linked to human infections—a retrospective study.
+BMC Vet Res 2012; 6:1–10.
+
+Ateba CN, Bezuidenhout CC. Characterisation of Escherichia
+coli O157 strains from humans, cattle and pigs in the North-
+West Province, South Africa. Int J Food Microbiol 2008;
+128:181–188.
+
+Bennett S, Woods T, Liyanage WM, Smith DL. A simpliﬁed
+general method for cluster-sample surveys of health in de-
+veloping countries. World Health Stat Q 1991; 44:98–106.
+
+Blanco J, Blanco M, Blanco JE, Mora A, et al. Verotoxin-
+producing Escherichia coli in Spain: Prevalence, serotypes,
+and virulence genes of O157:H7 and non-O157 VTEC in
+ruminants, raw beef products, and humans. Exp Biol Med
+2003; 228:345–351.
+
+Blomberg B, Jureen R, Manji KP, Tamim BS, et al. High rate
+of fatal cases of pediatric septicemia caused by gram-
+negative bacteria with extended-spectrum beta-lactamases
+in Dar es Salaam, Tanzania. J Clin Microbiol 2005; 43:745–
+749.
+
+Boerlin P, McEwen SA, Boerlin-Petzold F, et al. Associations
+between virulence factors of Shiga toxin-producing Escher-
+ichia coli and disease in humans. J Clin Microbiol 1999;
+37:497–503.
+
+Caprioli A, Morabito S, Bruge`re H, Oswald E. Enterohaemor-
+rhagic Escherichia coli: Emerging issues on virulence and
+modes of transmission. Vet Res 2005; 36:289–311.
+
+Chase-Topping M, Gally D, Low C, Matthews L, et al. Super-
+shedding and the link between human infection and livestock
+carriage of Escherichia coli O157. Nat Rev Microbiol 2008;
+6:904–912.
+
+Clermont O, Dhanji H, Upton M, Gibreel T, et al. Rapid de-
+tection of the O25b-ST131 clone of Escherichia coli en-
+compassing the CTX-M-15-producing strains. J Antimicrob
+Chemother 2009; 64:274–277.
+
+Clinical and Laboratory Standards Institute (CLSI). Perfor-
+mance standards for antimicrobial disc and dilution suscep-
+tibility tests for bacteria isolated from animals. Clinical and,
+Wayne, PA: Laboratory Standards Institute, 2008
+
+Crump JA, Sulka AC, Langer AJ, Schaben C, et al. An outbreak
+of Escherichia coli O157:H7 infections among visitors to a
+dairy farm. N Engl J Med 2002; 347:555–560.
+
+Dean-Nystrom EA, Bosworth BT, Moon HW, O’Brien A.D.
+Escherichia coli O157: H7 requires intimin for enter-
+opathogenicity in calves. Infect Immun 1998; 66:4560–4563.
+Dundas S, Todd WT, Stewart AI, Murdoch PS, et al. The
+central Scotland Escherichia coli O157:H7 outbreak: Risk
+factors for the hemolytic uremic syndrome and death among
+hospitalized patients. Clin Infect Dis 2001; 33:923–931.
+
+Ferens WA, Hovde CJ. Escherichia coli O157: H7: Animal
+reservoir and sources of human infection. Foodborne Pathog
+Dis 2011; 8:465–487.
+
+Fitzpatrick M. Haemolytic uraemic syndrome and E coli 0157:
+Prevention rests with sound public health measures. Br Med J
+1999; 318:684.
+
+Friedrich AW, Bielaszewska M, Zhang WL, Pulz M, et al.
+Escherichia coli harboring Shiga toxin 2 gene variants: Fre-
+quency and association with clinical symptoms. J Infect Dis
+2002; 185:74–84.
+
+Germani Y, Soro B, Vohito M, Morel O, et al. Enterohaemor-
+rhagic Escherichia coli in Central African Republic. Lancet
+1997; 349:1670.
+
+Hancock D.D, Besser TE, Kinsel ML, Tarr PI, et al. The
+prevalence of Escherichia coli O157:H7 in dairy and beef
+cattle in Washington State. Epidemiol Infect 1994; 113:199–
+207.
+
+Hansen DS, Schumacher H, Hansen F, Stegger M, et al. Ex-
+tended-spectrum beta-lactamase (ESBL) in Danish clinical
+isolates of Escherichia coli and Klebsiella pneumoniae:
+prevalence, beta-lactamase distribution, phylogroups, and
+co-resistance. Scand J Infect Dis 2012; 44:174–181.
+
+Heuvelink AE, Van den Biggelaar FL, De Boer E, Herbes RG,
+et al. Isolation and characterization of verocytotoxin-producing
+Escherichia coli O157 strains from Dutch cattle and sheep.
+J Clin Microbiol 1998; 36:878–882.
+
+Kaper JB, Nataro JP, Mobley HLT. Pathogenic Escherichia
+
+coli. Nat Rev Microbiol 2004; 2:123–140.
+
+Karch H, Bielaszewska M. Sorbitol-fermenting Shiga toxin-
+producing Escherichia coli O157:H - strains: Epidemiology,
+phenotypic and molecular characteristics, and microbiologi-
+cal diagnosis. J Clin Microbiol 2001; 39:2043–2049.
+
+Lupindu AM, Ngowi HA, Dalsgaard A, Olsen JE, et al. Current
+manure management practices and hygiene aspects of urban
+and peri-urban livestock farming in Tanzania. Livest Res
+Rural Dev 2012;24(9). Available at www.lrrd.cipav.org.co/
+lrrd24/9/lupi24167.htm Accessed March 17, 2014.
+
+Majalija S, Segal H, Ejobi F, Elisha BG. Shiga toxin gene-
+containing Escherichia coli from cattle and diarrheic children
+in the pastoral systems of southwestern Uganda. J Clin Mi-
+crobiol 2008; 46:352–354.
+
+Mlozi MRS. Impacts of urban agriculture in Dar es Salaam,
+
+Tanzania. Environmentalist 1997; 17:115–124.
+
+Moyo SJ, Gro N, Matee MI, Kitundu J, et al. Age speciﬁc
+aetiological agents of diarrhoea in hospitalized children aged
+less than ﬁve years in Dar es Salaam, Tanzania. BMC Pediatr
+2011; 11:1471–2431.
+
+Nataro JP, Kaper JB. Diarrheagenic Escherichia coli. Clin Mi-
+
+crobiol Rev 1998; 11:142–201.
+
+Olsen SJ, Miller G, Breuer T, Kennedy M, et al. A waterborne
+outbreak of Escherichia coli O157:H7 infections and hemo-
+lytic uremic syndrome: Implications for rural water systems.
+Emerg Infect Dis 2002; 8:370–375.
+
+Orden JA, Cid D, Ruiz-Santa-Quiteria JA, Garcia S, et al.
+Verotoxin-producing Escherichia coli (VTEC), enteropatho-
+genic E. coli (EPEC) and necrotoxigenic E. coli (NTEC)
+isolated from healthy cattle in Spain. J Appl Microbiol 2002;
+93:29–35.
+
+Ørskov F, Ørskov I. Serotyping of Escherichia coli. In: Bergan,
+T, ed. Methods in Microbiology. London: Academic Press;
+1984:43–112.
+
+Otte MJ, Gumm ID. Intra-cluster correction coefﬁcients of 20
+infections calculated from the results of cluster-sample sur-
+veys Prev Vet Med 1997; 31:147–150.
+
+510
+
+LUPINDU ET AL.
+
+Pruimboom-Brees IM, Morgan TW, Ackermann MR, Nystrom
+ED, et al. Cattle lack vascular receptors for Escherichia coli
+O157:H7 Shiga toxins. Proc Natl Acad Sci USA 2000;
+12:10325–10329.
+
+Raji MA, Minga UM, Machang’u RS. Prevalence and charac-
+terization of verotocytoxin producing Escherichia coli O157
+from diarrhoea patients in Morogoro, Tanzania. Tanzan J
+Health Res 2008; 10:151–158.
+
+Riley LW, Remis RS, Helgerson SD, McGee HB, et al. He-
+morrhagic colitis associated with a rare Escherichia coli se-
+rotype. N Engl J Med 1983; 308:681.
+
+Rwego IB, Gillespie TR, Isabirye-Basuta G, Goldberg TL. High
+rates of Escherichia coli transmission between livestock and
+humans in rural Uganda. J Clin Microbiol 2008; 46:3187–
+3191.
+
+Sang WK, Saidi SM, Yamamoto H, Ezaki T, et al. Haemor-
+rhagic colitis due to Escherichia coli O157:H7 in Kenya. J
+Trop Pediatr 1996; 42:118–119.
+
+Sargeant JM, Gillespie JR, Oberst RD, Phebus RK, et al. Re-
+sults of a longitudinal study of the prevalence of Escherichia
+coli O157: H7 on cow-calf farms. Am J Vet Res 2000;
+61:1375–1379.
+
+Scheutz F. Vero cytotoxin producing Escherichia coli (VTEC)
+isolated from Danish patients. PhD thesis 1997. Statens Ser-
+um Institut, Copenhagen
+
+Scheutz F, Beutin L, Pierard D, Smith H. Nomenclature of
+Verocytotoxins. Verocytotoxigenic Escherichia coli. Trum-
+bull: Food & Nutrition Press Inc; 2001:447–452
+
+Scheutz F, Teel LD, Beutin L, Pie´rard D, et al. Multicenter
+evaluation of a sequence-based protocol for subtyping Shiga
+
+toxins and standardizing Stx nomenclature. J Clin Microbiol
+2012; 50:2951–2963.
+
+Simon D, McGregor D Nsiah-Gyabaah K. The changing urban-
+rural interface of African cities: Deﬁnitional issues and an ap-
+plication to Kumasi, Ghana. Environ Urban 2004; 235–247.
+
+Smith KE, Stenzel SA, Bender JB, Wagstrom E, et al. Out-
+breaks of enteric infections caused by multiple pathogens
+associated with calves at a farm day camp. Pediatr Infect Dis
+J 2004; 23:1098–1104.
+
+SSI. Standard Operation Procedures for O and H serotyping and
+reference strains. Copenhagen: Statens Serum Institut; 2011.
+SSI-Diagnostica. DEC PCR kit for detection of Diarrheagenic
+
+E. coli (DEC) Copenhagen, Statens Serum Institut; 2011.
+
+Thrusﬁeld V. Veterinary Epidemiology. London: Blackwell
+
+Sciences; 1995
+
+Tuttle J, Gome T, Doyle MP, Wells JG, et al. Lessons from a
+large outbreak of Escherichia coli O157:H7 infections: In-
+sights into the infectious dose and method of widespread
+contamination of hamburger patties. Epidemiol Infect 1999;
+122:185–192.
+
+Address correspondence to:
+Athumani Msalale Lupindu
+Department of Veterinary Medicine and Public Health
+Sokoine University of Agriculture
+P.O. Box 3021
+Morogoro
+United Republic of Tanzania
+
+E-mail: amsalale@yahoo.com
+
+

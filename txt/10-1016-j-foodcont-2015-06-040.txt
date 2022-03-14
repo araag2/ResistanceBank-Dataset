@@ -1,0 +1,1813 @@
+Food Control 59 (2016) 591e600
+
+Contents lists available at ScienceDirect
+
+Food Control
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / f o o d c o n t
+
+Salmonella isolated from the slaughterhouses and correlation with
+pork contamination in free market
+
+Yuchen Li, Yinqiang Cai, Jing Tao, Xilong Kang, Yang Jiao, Rongxian Guo, Guoliang Wang,
+Zhiming Pan*, Xinan Jiao*
+Jiangsu Co-innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, Jiangsu Key Laboratory of Zoonosis,
+Yangzhou University, Yangzhou, Jiangsu 225009, People's Republic of China
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 25 January 2015
+Received in revised form
+16 June 2015
+Accepted 18 June 2015
+Available online 23 June 2015
+
+Keywords:
+Slaughterhouse
+Salmonella
+Serotype
+Multilocus sequence typing
+Pulsed-ﬁeld gel electrophoresis
+
+This study surveyed the distribution, antimicrobial susceptibility proﬁles and serotype of Salmonella
+isolated from three slaughterhouses, and performed molecular typing on these isolates, to understand
+the relationship between strains of Salmonella obtained from the pork production chain in Yangzhou,
+China. Samples from slaughtered pigs and the slaughtering environment were collected from three
+slaughterhouses in Yangzhou, Jiangsu province, from October 2012 to July 2013. The positive identiﬁ-
+cation rates of Salmonella in slaughtered pigs and the environmental samples were 46.6% and 48.8%,
+respectively. The prevalence of Salmonella in slaughterhouses were affected by seasonal factors and
+reached the peak in summer. Among the Salmonella serovars identiﬁed, S. Derby was most prevalent in
+slaughterhouses, but other serovars like S. Typhimurium, S. Meleagridis and S. Anatum were also
+widespread. Antimicrobial susceptibility testing revealed that 32 and 131 different MDR patterns were
+found among the strains from the environment and slaughtered pig samples, respectively. Fifty-six
+isolates of S. Derby and 16 strains of S. Typhimurium were characterized by the technique of pulsed-
+ﬁeld gel electrophoresis (PFGE) using the restriction enzyme Xba I. 35 and 11 PFGE patterns were
+generated among the selected isolates. Four isolates of S. Derby isolates with the same pattern (PF26)
+were isolated from cooling water, evisceration and carcass, suggesting that cross contamination occurred
+between the environment and the slaughtered pigs. Six S. Typhimurium in cluster 1 with the same ST
+type (ST19) came from different parts of the slaughtered pig, which could have occurred because of
+horizontal transmissions along the slaughtering process. The same PFGE patterns of Salmonella were
+found in both samples from carcasses in the slaughterhouse and in the Yangzhou pork market, proving
+that Salmonella had spread from the slaughterhouse to the pork market. In conclusion, our study
+demonstrate that serious cross contamination occurred in Yangzhou slaughterhouses and can contribute
+Salmonella contamination in pork sold in the local public market.
+
+© 2015 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+
+Salmonella is recognized as a major human food-borne pathogen
+and can cause a heavy economic burden for health care systems
+worldwide. Animals used as food play a role as a primary reservoir
+of non-typhoid Salmonella, and most human Salmonella infections
+are a consequence of eating foods of animal origin contaminated
+with Salmonella (EFSA, 2011). Contaminated pork and pork
+
+* Corresponding authors. Jiangsu Key Laboratory of Zoonosis, Yangzhou Univer-
+sity, 48 East Wenhui Road, Yangzhou, Jiangsu 225009, People's Republic of China.
+
+E-mail addresses: zmpan@yzu.edu.cn (Z. Pan), jiao@yzu.edu.cn (X. Jiao).
+
+http://dx.doi.org/10.1016/j.foodcont.2015.06.040
+0956-7135/© 2015 Elsevier Ltd. All rights reserved.
+
+products are major sources of human Salmonella infections in many
+countries (Bonardi et al., 2013; De Busser et al., 2011; Delhalle et al.,
+2009).
+
+Research has shown that Salmonella transmission may occur
+throughout the pork production chain (Lo Fo Wong et al., 2004),
+and many opportunities exist within the pig slaughterhouse for the
+contamination of pork carcasses with Salmonella. Based on an EFSA
+report (EFSA, 2011), the prevalence of Salmonella-positive swine-
+breeding holdings and swine-production holdings in the Euro-
+pean Union was 28.7% and 33.3%, respectively, indicated a serious
+contamination in pig farms. The prevalence of shedding pigs may
+increase from farm to abattoir, mainly because of the stress of
+transportation, consequently increasing interinfection of pigs
+
+592
+
+Y. Li et al. / Food Control 59 (2016) 591e600
+
+during lairage. Salmonella is spread to the carcass surface mainly
+from the carrier pig during the evisceration and slaughter opera-
+tions can inﬂuence the bacterial contamination of pork carcasses in
+many ways, therefore, proper slaughter operation and good hy-
+gienic practices in the slaughterhouse can have a positive effect on
+the elimination of contamination in carcasses (Bonardi et al., 2003;
+De Busser et al., 2011). Slaughterhouses vary in their capability of
+dealing with Salmonella-positive pigs. Proper cleaning and control
+measures can reduce the risk of carcass contamination in slaugh-
+terhouses. In this sense, identifying the serotype and genotype of
+Salmonella isolates throughout the pig production chain were
+necessary to determine the cross-contamination and explore the
+relationship of the strains isolated from the environment and the
+pig carcass.
+
+Salmonella enterica serotypes Derby and Typhimurium were the
+two most commonly detected serotypes in carcasses and in both
+clinical and nonclinical veterinary swine samples (Foley, Lynne, &
+Nayak, 2008). S. Typhimurium was also the most frequently iso-
+lated serotype from all human invasive infections reported. Similar
+results were reported by EFSA, where the most frequently reported
+serovars in human salmonellosis were in agreement with those
+isolated in slaughter pigs (EFSA, 2011). These ﬁndings support the
+notion that pigs and pork contribute to Salmonella infection in
+humans, although it is acknowledged that foods from other animal
+species also play a role as a source of these infections in humans
+(Hugas et al., 2014).
+
+China is the largest producer of pork with the fastest growth rate
+in the world and this growth will continue in 2014: swine pro-
+duction is expected to reach 723 million head, pork production is
+expected to increase by two percent to 54.7 million tons, and
+consumption expected to rise to 55 million tons (Schneider et al.,
+2014). However, few reports have been published on Salmonella
+contamination throughout the slaughter process in China. There-
+fore, the aim of this study was to investigate the prevalence and
+antimicrobial resistance patterns of Salmonella contamination
+along the slaughter line through the detection of Salmonella in
+slaughtered pigs and their slaughterhouse environmental samples.
+Furthermore, sero- and genotyping were performed to deﬁne
+clonal relationships between isolates, assessing the dispersion of
+recovered strains and their involvement in cross contamination.
+Some of the strains isolated from pork in our previous study were
+also involved in our analysis to reveal the correlation between these
+two studies.
+
+2. Materials and methods
+
+2.1. Slaughterhouse description and sample plan
+
+The study was carried out from October 2012 to July 2013 in
+three slaughterhouses (A, B and C) in Yangzhou, which were
+distributed in different areas of Yangzhou and represented 80% of
+the annual number of pigs slaughtered in Yangzhou. Table 1 de-
+scribes the situations of the three slaughterhouses. Each visit was
+performed on a Tuesday during the nine sampling visits: V1
+(slaughterhouse A, December 2012; slaughterhouse B, November
+2012; slaughterhouse C, October 2012), V2 (slaughterhouse A, April
+
+Table 1
+Description of the three slaughterhouses included in the study.
+
+2013; slaughterhouse B, March 2013; slaughterhouse C, February
+2013), V3 (slaughterhouse A, July 2013; slaughterhouse B, June
+2013; slaughterhouse C, May 2013) and sampling started with the
+ﬁrst batch of pigs slaughtered that day.
+
+2.2. Slaughterhouse samples
+
+A total of 684 samples were collected from the three slaugh-
+terhouses, of which 522 were slaughtered pig samples and 162
+were slaughterhouse environmental samples. The description of
+the number and type of samples are shown in Table 2.
+
+2.2.1. Slaughtered pig samples
+
+From each chosen slaughtered pig, samples were collected as
+
+follows:
+
+Mesenteric lymph nodes (MLNs): At least 5 lymph nodes in the
+ileocaecal regions were cut out of the intestine packet with a sterile,
+disposable scalpel.
+
+Carcass swabs: Carcass swabs were selected at three high-risk
+cross-contamination points along the slaughter line (submitting,
+evisceration, and after washing carcass). Carcasses were swabbed
+on the external and internal surfaces at four different points: cheek,
+ham (right and left), rib cage and neck-upper-shoulder. Sampling
+was done using a sterile moistened (0.1% peptone water) cotton ball
+to swab a square of 15  15 cm within each point (approx. 1350 cm2
+in total). The ﬁve cotton balls collected from each carcass were
+pooled and put into a sterile stomacher bag.
+
+2.2.2. Environmental samples
+
+During the slaughter process, environmental samples were also
+
+collected as follows:
+
+Scalding and cooling water: During slaughtering activities, 10 ml
+of water samples were taken from the scalding and cooling tank
+(The temperature range were kept between 5 and 10 C) once every
+hour. The water samples were collected using a sterile collection
+tube and the temperature was measured.
+
+Lairage: At the beginning of the sampling, pens in the lairage
+were already ﬁlled with pigs to be slaughtered that day. For every
+visit, ﬁve pens were sampled using the overshoes method which
+was carried out by walking around in an ‘‘8’’-shaped track in the
+pen using one pair of disposable,
+liquid absorbing overshoes
+(Cobbaut, Houf, Douidah, Van Hende, & De Zutter, 2008).
+
+Floor: The slaughterhouses were divided into ﬁve parts, ac-
+cording to the overall layout of the slaughterhouses and each part
+covered a 1  1 m2 area. Sampling was done using four sterile
+moistened (0.1% peptone water) cotton balls to swab each part. The
+four cotton balls collected from each part were pooled and put into
+a sterile stomacher bag.
+
+Visceral processing countertop and waste water: At the end of
+slaughtering, four areas of the countertop were sampled according
+to its size and each part covered a 1  1 m2 area. The sample
+method was the same as with the slaughterhouse ﬂoor. During
+slaughtering activities, water samples were taken from the
+sewerage tank in the visceral processing room or the drain in the
+countertop (slaughterhouse B without the visceral processing
+room).
+
+Capacity of slaughterhouse (pigs/night)
+
+Usage times of equipment (years)
+
+Floor type of Lairage
+
+Cleaning of slaughterhouse
+
+Additional information
+
+A
+B
+C
+
+500
+600
+400
+
+4
+10
+8
+
+Solid
+Solid
+Solid
+
+Daily
+2 to 3 days
+Weekly
+
+Visceral processing room
+
+Visceral processing room
+
+Table 2
+The number of the samples from different slaughterhouse in every visit.
+
+Y. Li et al. / Food Control 59 (2016) 591e600
+
+593
+
+Slaughterhouse Enviromental
+
+Lairage Water in
+
+Floor Visceral processing
+
+countertop
+
+Slaughtering pig
+samples
+
+Lymph
+node
+
+Carcass swab
+
+Submitting Evisceration After washing
+
+carcass
+
+15
+15
+20
+
+samples
+
+18
+18
+18
+
+A
+B
+C
+
+Scalding
+tank
+
+Cooling
+tank
+
+Sewer
+tank
+
+5
+5
+5
+
+3
+3
+3
+
+3
+3
+3
+
+1
+1
+1
+
+5
+5
+5
+
+1
+1
+1
+
+53
+53
+68
+
+8
+8
+8
+
+15
+15
+20
+
+15
+15
+20
+
+Each slaughterhouse had been visited 3 times.
+
+Sterile gloves were used during the sampling procedures and
+were changed between each sample. Samples were sent to the
+laboratory in cooled containers (5e10 C) within the same day for
+immediate analysis.
+
+2.3. Sample preparation
+
+2.3.1. Slaughtered pig samples preparation
+
+Mesenteric lymph nodes (MLNs): Once in the lab, the MLNs
+were processed as previously described (Regulation EC 668/2006)
+by removing the fat and the capsula followed by immersion in
+alcohol 70% (v/v) and ﬂaming to sterilize its surface. Finally, the
+MLNs were cut into small pieces using sterile scissors, weighed and
+transferred into 225 ml of buffered peptone water (BPW) (Difco, BD,
+USA) for 18 h at 37 C.
+
+Carcass swabs: All swabs of one carcass and according to one
+sampling place were pooled and immediately immersed in 50 ml of
+BPW and incubated directly by shaking.
+
+2.3.2. Environmental samples preparation
+
+Waste water, Scalding and cooling water: All the water samples
+were carried pre-enrichment directly without the need to process.
+Lairage, Floor and Visceral processing countertop samples: The
+carcass swabs samples were immediately immersed in 50 ml of
+BPW and incubated directly by shaking.
+
+2.4. Salmonella isolation and identiﬁcation
+
+Pre-enrichment was performed by 1:10 dilution of scalding
+tank, cooling tank and waste water in BPW followed by incubation
+at 37 C for 18e24 h. The swab samples such as carcass swabs,
+lairage and ﬂoor samples that were already immersed in 50 ml of
+BPW were shaken and directly incubated. After stomaching, the
+buffered peptone water suspensions were incubated at 37 C for
+24 h, and 0.1 ml of this broth culture was subcultured in 10 ml of
+rappaport-Vassiliadis enrichment broth (RV) broth (Difco, BD, USA)
+at 42 C for a further 24 h. Following incubation, one loopful of each
+RV broth was streaked onto xylose lysine tergitol 4 (XLT4) (Difco,
+BD, USA), which was then incubated at 37 C for 24e48 h. The
+presumptive Salmonella colony was picked from each plate and
+streaked onto biochemical test triple sugar iron (TSI) (slants) and
+lysine iron (LIA) agars (Hangzhou Microbial Reagent Co.), and
+incubated for 24 h at 35 C. Isolates with typical color reactions
+were conﬁrmed as Salmonella based on results of the API-20E test
+kit (bioMerieux, Marcy l’Etoile, France). All strains were serotyped
+according to the Kauffman-White scheme (Grimont et al., 2007).
+
+2.5. Antimicrobial susceptibility testing
+
+Antimicrobial resistance was determined by agar disk diffusion
+tests on Müeller-Hinton agar plates according to the guidelines of
+the Clinical and Laboratory Standards Institute CLIS (Clinical
+Laboratory Institute Standards, 2009). The isolates were tested
+
+against a total of 16 antimicrobials as follows: ampicillin (Amp,
+10 mg), mezlocillin (Mez, 75 mg), cefazolin (Cfz, 30 mg), ceftriaxone
+(Cro, 30 mg), cefotaxime (Ctx, 30 mg), gentamicin (Gen, 10 mg),
+kanamycin (Kan, 20 mg), streptomycin (Str, 10 mg), tetracycline (Tet,
+30 mg), chloramphenicol (Chl, 30 mg), oﬂoxacin (Ofx, 5 mg), enro-
+ﬂoxacin (Enr, 5 mg), norﬂoxacin (Nor, 5 mg), ciproﬂoxacin (Cip, 5 mg),
+nalidixic acid (Nal, 30 mg) and trimethoprim/sulfamethoxazole (Sxt,
+1.25e23.75 mg). Pure cultures were grown overnight in Lur-
+iaeBertani Broth (LB) (Merck, Germany) at 37 C and the concen-
+tration was adjusted using sterile saline solution until a 0.5
+McFarland turbidity was attained. One hundred microliters of the
+culture was then swabbed onto Mueller Hinton agar using a sterile
+cotton swab. Antimicrobial disks were placed on the surface of the
+agar plate with enough distance to avoid overlapping of inhibition
+zones. The plates were incubated at 37 C for 16e18 h and the re-
+sults were interpreted as sensitive, intermediate, or resistant ac-
+cording to Clinical and Laboratory Standards Institute guidelines
+(Clinical Laboratory Institute Standards, 2012). Escherichia coli ATCC
+25922 and Enterococcus faecalis ATCC 29212 were used as quality
+control strains. An isolate was deﬁned as ‘resistant’ after conﬁr-
+mation of resistance to at least one agent tested, while ‘multidrug-
+resistances’ (MDR) was deﬁned as resistance to two or more agents.
+
+2.6. Multilocus sequence typing (MLST) and sequence data analysis
+
+Strains were grown aerobically in LuriaeBertani broth with
+shaking at 37 C for 16e18 h. Genomic DNA isolation was carried
+out using the TIANamp Bacteria DNA Kit (TIANGEN Biotech Co., Ltd,
+China) according to the manufacturer's protocol. MLST was carried
+out based on the scheme published on the Multilocus Sequence
+Typing home page (http://mlst.ucc.ie/mlst/dbs/Senterica, accessed
+December 30, 2012). MLST results were analyzed using Bio-
+Numerics 5.0 software (Applied-Maths, Kortrijk, Belgium) and a
+Minimum Spanning Tree (Le Hello et al., 2011) was made to study
+the relatedness of
+from the three
+slaughterhouses.
+
+sequence types
+
+(STs)
+
+2.7. PFGE
+
+The isolates that were chosen for PFGE are shown in Table 3.
+Besides these, isolates with the same serotypes from pork, which
+were previously isolated in our routine monitoring (Li et al., 2014),
+were also used (Table 3). PFGE was performed according to the
+
+Table 3
+72 Strains were used in PFGE analysis.
+
+Source
+
+Region
+
+Derby
+
+Typhimurium Number isolates
+
+Porka
+Slaughterhouse A
+Slaughterhouse C
+Total
+
+Yangzhou
+Yangzhou
+Yangzhou
+
+11
+16
+29
+56
+
+6
+5
+5
+16
+
+17
+21
+34
+72
+
+a The isolates from pork were identiﬁed from major free markets in Yangzhou city
+
+during the same period.
+
+594
+
+Y. Li et al. / Food Control 59 (2016) 591e600
+
+protocol developed by the Centers for Disease Control and Pre-
+vention (CDC) (Ribot et al., 2006). Brieﬂy, DNA embedded in
+agarose plugs was digested with 50 U of Xba I (TaKaRa, Biotech-
+nology Co. Ltd., Dalian, China) for 3 h in a water bath at 37 C. The
+digested DNA was separated by electrophoresis in 0.5  TBE buffer
+at 14 C for 22 h using a CHEF Mapper electrophoresis system (Bio-
+Rad, Hercules, CA, USA) with pulse times of 2e63.8 s. The PulseNet
+“universal” standard strain, S. enterica serovar Braenderup H9812,
+was used as the control strain. PFGE agarose gels were stained with
+ethidium bromide and the DNA band images were visualized on a
+UV trans-illuminator (Bio-Rad). PFGE patterns were interpreted
+with the aid of BioNumerics 5.0 software (Applied-Maths, Kortrijk,
+Belgium) and compared by cluster analysis using Dice coefﬁcient
+and the unweighted-pair group method with arithmetic averages
+(UPGMA dendrogram type) with a position tolerance of 1.5% and
+optimization of 0.5%.
+
+2.8. Statistical analysis
+
+Statistical comparison of Salmonella positive rates between
+different slaughterhouses and different points in the same
+slaughterhouse as well as the isolates resistance rate to the 16
+antimicrobials were analyzed with the Chi-square (c2)test, which
+was performed using the Statistical Package for the Social Sciences
+(version 15.0, SPSS, Chicago, IL) with p  0.05 considered as sta-
+tistically signiﬁcant.
+
+3. Results
+
+3.1. Salmonella prevalence and serotypes
+
+Among the total of 684 samples analyzed, 322 (47.1%) were
+positive for Salmonella. The prevalence of positive samples was
+51.6%, 47.9% and 43.1% in slaughterhouses A, B and C, respectively
+(Table 4). No signiﬁcant differences were found amongst the
+different slaughterhouses (c2 ¼ 2.6, p ¼ 0.27). However, high var-
+iations were observed amongst the different sampling occasions at
+the same slaughterhouse. On different sampling occasions, the
+positive rates of Salmonella in slaughterhouse A ranged from 39.4%
+to 59.3% (p < 0.05), from 36.6% to 64.8% in slaughterhouse B
+(p < 0.05) and from 39.5% to 45.3% (p > 0.05) in slaughterhouse C
+(Table 4).
+
+On the three different sampling occasions (V1, V2 and V3), the
+prevalence of Salmonella-positive slaughtered pigs samples ranged
+from 38.5% to 59.2%. There were extremely distinct differences in
+the Salmonella-positive rate for the different sampling occasions
+(c2 ¼ 0.8, p < 0.01), and the risk of slaughtered pigs samples being
+contaminated by Salmonella was two times higher at V3 than
+compared with V1 (OR ¼ 2, 95% CI:1.3e3.1) and V2 (OR ¼ 2.3, 95%
+
+CI:1.5e3.6) but there was no signiﬁcant difference between V1 and
+V2 (p > 0.05).
+
+With regards to slaughtered pigs, Salmonella was found most
+frequently on carcass swab samples after evisceration (68.0%) and
+after washing carcass samples (58.0%) which were much higher
+than the submitting samples (32.0%) and lymph node samples
+(7.0%). On carcass swab samples after eviceration especially, for
+almost all the visits the prevalence rate of Salmonella was higher
+than 50.0%, and in B3 the rate even reached 100.0% (Table 5).
+
+As with the trend found for the slaughtered pig samples, the risk
+of environmental samples positively contaminated with Salmonella
+was also two times higher in V3 as compared with V1 (OR ¼ 2, 95%
+CI:0.98e4.6) and V2 (OR ¼ 2.7, 95% CI:1.2e5.8) and there were
+signiﬁcant differences between Salmonella prevalence in the envi-
+ronmental samples. In addition, overshoes taken in the lairage were
+highly contaminated with a small variation (ranging from 33.3 to
+46.7%) between the three slaughterhouses.
+
+isolates,
+
+Thirteen different serotypes were identiﬁed among the 322
+Salmonella isolates (Table 6). S. Derby was the most prevalent
+serotype accounting for 52.8% of all
+followed by S.
+Meleagridis (13.4%) and S. Typhimurium (9.3%). Table 7 shows the
+details of the Salmonella serotypes isolated from the slaughtered
+pigs and environmental samples per slaughterhouse and per visit.
+S. Derby was widely present in both slaughtered pigs and the
+environmental samples collected from all three slaughterhouses.
+Differences in serotypes were observed between the different
+slaughterhouses and the different visits. S. Saintpaul, S. Agona, S.
+Give and S. Corvallis were only found in slaughterhouse C, whereas
+S. Leeson and S. Worthington were only detected in slaughterhouse
+B. There were only four serotypes found in all slaughtered pigs and
+the environmental samples sampled from slaughterhouse A, where
+all isolates were identiﬁed as S. Derby, however one S. Infantis strain
+was found during visit 2 to slaughterhouse A. In addition, all the
+serotypes detected from the cooling water and ﬂoor were also
+found in strains isolated from slaughtered pig samples, similar to
+the serotypes identiﬁed from slaughtered pigs in the lairage and
+during submitting.
+
+3.2. Antimicrobial susceptibility testing
+
+isolates)
+
+followed
+
+to
+
+All of the Salmonella isolated from the environmental samples
+were susceptible to norﬂoxacin, ceftriaxone, cefotaxime and cip-
+roﬂoxacin. Resistance to tetracycline was the most common (55.7%
+of
+trimethoprim-
+sulfamethoxazole (22.8%), ampicillin (20.3%) and nalidixic acid
+(12.7%) (Table 8). Among the b-lactams studied, a high degree of
+resistance to ampicillin (20.3% of isolates) was found, which was
+higher than the percentage of resistance to mezlocillin (3.8%) and
+cefazolin (1.3%) (p < 0.01). The aminoglycosides studied showed
+different levels of effectiveness. Resistance to gentamicin (8.6%) and
+
+resistance
+
+by
+
+Table 4
+Distribution of Salmonella positive samples in different slaughterhouses in different visiting times.
+
+Source V 1
+
+Environmental
+(%)e
+
+Ac
+Bc
+C
+Total
+
+7a (38.9)b
+10(55.5)
+7(38.9)
+24(44.4)
+
+V 2
+
+V3
+
+Total %
+
+Slaughtering pig (%)d Total (%) Environmental
+
+(%)e
+
+Slaughtering pig (%)d Total (%) Environmental
+
+(%)e
+
+Slaughtering pig (%)d Total (%)
+
+22(41.5)
+20(37.7)
+32(47.1)
+74(42.5)
+
+29(40.8) 7(38.9)
+30(42.3) 7(38.9)
+39(45.3) 7(38.9)
+21(38.9)
+
+21(39.7)
+19(35.6)
+27(39.7)
+67(38.5)
+
+28(39.4) 12(66.7)
+26(36.6) 12(66.7)
+34(39.5) 10(55.5)
+34(63.0)
+
+39(73.6)
+34(64.2)
+29(42.6)
+102(58.6)
+
+51(71.8) 51.6
+46(64.8) 47.9
+39(45.3) 43.1
+
+a The number of positive.
+b Positive rate.
+c Prevalence of contaminated carcasses was different amongst visits to the same slaughterhouse (P < 0.05).
+d Prevalence of contaminated slaughtering pigs of three slaughterhouses was signiﬁcantly between different visits (P < 0.01).
+e Prevalence of contaminated environmental samples of three slaughterhouses was signiﬁcantly between different visits (P < 0.01).
+
+Table 5
+The prevalence of Salmonella in different points of the slaughter line in three pig slaughterhouses.
+
+Y. Li et al. / Food Control 59 (2016) 591e600
+
+595
+
+Slaughterhouse
+
+Source
+
+Enviromental samples
+Lairage
+Scalding water
+Cooling water
+Floor
+Waste water
+Visceral processing countertop
+Slaughtering pig
+Lymph node
+Carcass swab
+
+Submitting
+Evisceration
+After washing carcass
+
+a The number of positive.
+b Positive rate.
+
+C1
+
+C2
+
+C3
+
+B1
+
+B2
+
+B3
+
+A1
+
+A2
+
+A3
+
+0
+0
+2(66.7)
+3(60.0)
+1
+1
+
+0
+4(20.0)
+15(75.0)
+13(65.0)
+
+2a(40.0)b
+0
+1(33.3)
+2(40.0)
+1
+1
+
+2(25.0)
+6(30.0)
+6(30.0)
+13(65.0)
+
+3(60.0)
+0
+3(100.0)
+2(40.0)
+1
+1
+
+0
+4(20.0)
+11(55.0)
+14(70.0)
+
+3(60.0)
+0
+2(66.7)
+3(60.0)
+1
+1
+
+1(12.5)
+5(33.3)
+11(73.3)
+3(20.0)
+
+1(20.0)
+0
+1(33.3)
+4(80.0)
+0
+1
+
+0
+1(6.7)
+9(60.0)
+9(60.0)
+
+3(60.0)
+0
+3(100.0)
+5(100.0)
+0
+1
+
+0
+5(33.3)
+15(100.0)
+14(93.3)
+
+1(20.0)
+0
+3(100.0)
+3(60.0)
+0
+0
+
+1(12.5)
+4(26.7)
+12(80.0)
+5(33.3)
+
+1(20.0)
+0
+3(100.0)
+1(20.0)
+1
+1
+
+0
+8(53.3)
+11(73.3)
+2(13.3)
+
+3(60.0)
+0
+2(66.7)
+5(100.0)
+1
+1
+
+1(12.5)
+12(80.0)
+12(80.0)
+14(93.3)
+
+Table 6
+Serotype distribution of 322 Salmonella isolates in slaughterhouses.
+
+Serovar
+
+Derby
+Meleagridis
+Typhimurium
+London
+Anatum
+Infantis
+St. Paul
+Riessen
+Give
+Worthington
+Corvallis
+Agona
+Senftenberg
+(3,10:_:1,5)a
+Total
+
+a Undetermined.
+
+Slaughterhouse
+
+C
+
+B
+
+48
+24
+11
+9
+3
+
+4
+
+1
+
+1
+1
+1
+9
+112
+
+35
+19
+3
+15
+13
+1
+
+2
+
+1
+
+2
+11
+102
+
+A
+
+87
+
+16
+
+1
+4
+
+108
+
+Total (%)
+
+170(52.8)
+43(13.4)
+30(9.3)
+24(7.5)
+17(5.3)
+5(1.6)
+4(1.2)
+2(0.6)
+1(0.3)
+1(0.3)
+1(0.3)
+1(0.3)
+3(0.9)
+20(6.2)
+322
+
+kanamycin (8.0%) was sporadic. For chloramphenicol, 28 (11.3%) of
+the isolates were classiﬁed as resistant. Representing the sulfon-
+amides, trimethoprim-sulfamethoxazole resistance was found in
+69 of the Salmonella isolates. There were no differences in the
+resistance rates of tetracycline, trimethoprim-sulfamethoxazole,
+ampicillin, streptomycin and nalidixic acid between Salmonella
+isolated from the environment and the slaughtered pig samples,
+which ranged from 18.5% to 31.2% (p > 0.05).
+
+There were 51 and 181 isolates resistant to at least one anti-
+microbial, which presented 20 and 68 kinds of drug-resistant pat-
+terns respectively, and the most common type were TET with the
+percentages of 25.5% and 12.2% (Table 9). For MDR phenotypes, 32
+and 131 different patterns were found among the strains from the
+environment and slaughtered pig samples. One Salmonella Typhi-
+murium isolate collected from slaughtered pig samples was resis-
+tant to 11 antimicrobials (AMP, CFZ, CHL, GEN, KAN, MEZ, NAL, NOR,
+STR, SXT and TET). The most common MDR patterns were SXT TET
+(25%, 8/32) and STR TET (9.3%, 3/32) in environmental isolates,
+while TET (13%, 17/131) and STR TET (5.3%, 7/131) were found in
+isolates from slaughtered pig samples.
+
+study, represented by 164 Salmonella isolates, followed by ST463
+(43) and ST34 (28). Most STs obtained in this study were correlated
+with certain serovars, such as ST40 with Salmonella Derby, ST13
+with Salmonella Agona, and ST46 with Salmonella Newport.
+Through cluster analysis, two clone complexes CC34 and CC40 were
+found in the minimum spanning tree. In addition, ST34 and ST818
+were the single-locus variants of ST19 and ST40, respectively.
+Through a minimum spanning tree, we also found that slaughter-
+house C had the most ST patterns while the least ST patterns were
+found in slaughterhouse A.
+
+3.4. PFGE analysis
+
+As shown in Fig. 2, 56 ST40 S. Derby isolated from slaughter-
+house and pork were identiﬁed as thirty-ﬁve PFGE patterns, which
+were grouped into seven clusters. PFGE ﬁngerprinting proﬁles
+grouped the isolates by origin, such as the strains typed as PF1 and
+PF2 with the closer genetic distances all isolated from slaughter-
+house A, and the strains with PF21 and PF22 types in Cluster 1 were
+from slaughterhouse C. However some isolates from the same
+slaughterhouse belonged to different clusters. For example, two
+isolates grouped into cluster 7, while the remaining isolates
+grouped mainly into cluster 1 and 3. Of particular interest was the
+ﬁnding that strains with the same PFGE types also shared the same
+drug-resistance pattern, such as the isolates typed as PF1, PF3, PF12
+and PF14. Nearly half of the S. Derby isolates obtained from pork
+showed the same PFGE types as the isolates in slaughterhouse C.
+Moreover, the same PFGE type can also be found in isolates from
+Yangzhou pork and the carcass samples in two slaughterhouses. In
+addition, four S. Derby isolates typed as PF26 were detected from
+the cooling water and slaughtered pig samples in slaughterhouse A.
+Sixteen Salmonella Typhimurium isolates showed ten patterns
+and three clusters using a cutoff value of 85% similarity (Fig. 3).
+Isolates in each cluster also showed similar resistance phenotypes
+and ST types. The ﬁrst cluster contained ﬁve S. Typhimurium iso-
+lates of slaughtered pig samples from submitting, evisceration and
+the carcasses. Four PFGE types (PF5, PF6, PF7 and PF10) were
+identiﬁed from the six isolates in Yangzhou pork, four of which
+showed the closest genetic relatedness with isolates from slaugh-
+terhouse C and were clustered in group 2. However, the remaining
+two strains have a further genetic distance than the others.
+
+3.3. Multilocus sequence typing (MLST) analysis
+
+4. Discussion
+
+We characterized 322 Salmonella isolates using MLST analysis.
+Sixteen different ST patterns were identiﬁed among the 322 Sal-
+monella isolates (Fig. 1). ST40 was the most common ST in this
+
+In the present study, the results demonstrated that the preva-
+lence of Salmonella contamination in slaughtered pigs in Yangzhou
+
+596
+
+Y. Li et al. / Food Control 59 (2016) 591e600
+
+Table 7
+The serotype of Salmonella in different points of the slaughter line in three pig slaughterhouses.
+
+C1
+
+C2
+
+C3
+
+B1
+
+B2
+
+B3
+
+A1
+
+A2
+
+A3
+
+Lairage
+
+Cooling water
+
+Floor
+
+Waste water
+
+Visceral processing
+
+countertop
+Lymph node
+
+Carcass
+swab
+
+Submiting
+
+Evisceration
+
+After washing
+carcass
+
+Derby
+(2)
+
+Derby
+(2)
+U (1)
+
+Derby
+(1)
+Derby
+(1)
+
+Derby
+(3)
+London
+(1)
+London
+(4)
+Derby
+(9)
+U (2)
+London
+(2)
+Derby
+(7)
+U (4)
+
+U:Undetermined.
+
+Derby (2)
+
+Derby (1)
+
+Senftenberg (1) Derby (1) St.
+Paul (1)
+Typhimurium (3)
+
+Anatum (2)
+Infantis (1)
+Meleagridis (1)
+U (1)
+
+Derby
+(1)
+Derby
+(1)
+
+Meleagridis (1)
+Derby (2)
+Meleagridis (1)
+Derby (2)
+
+Meleagridis
+(2)
+
+London (1)
+
+Meleagridis
+(1)
+Meleagridis
+(1)
+Meleagridis
+(2)
+Meleagridis
+(3)
+Agona (1)
+U (2)
+Corvallis (1)
+Derby (5)
+
+Derby (2)
+Meleagridis
+(11)
+
+Typhimurium (1)
+
+Derby (1)
+Anatum (1)
+
+Typhimurium (3)
+Meleagridis (1)
+
+Derby (6)
+St. Paul (2)
+Typhimurium (2)
+Anatum (1)
+
+Meleagridis (3)
+Typhimurium (2)
+London (1)
+St.Paul (1)
+Anatum (1)
+Derby (5)
+Give (1)
+
+Anatum (1)
+Derby (1)
+U (1)
+
+Derby (1)
+
+Derby (1)
+
+Derby (1)
+
+Anatum (4)
+U (1)
+
+Anatum (4)
+Derby (4)
+London (2)
+U (1)
+
+Derby (2)
+Anatum (1)
+
+Derby
+(3)
+London
+(1)
+
+Meleagridis (2)
+Senftenberg (1)
+London (1)
+U (1)
+
+Derby
+(1)
+
+Derby
+(1)
+
+London
+(6)
+Derby
+(3)
+
+London
+(5)
+Derby
+(4)
+
+Riessen (1)
+
+Typhimurium (2)
+Derby (1)
+U (2)
+
+Typhimurium (1)
+Meleagridis (9)
+Anatum (1)
+Riessen (1)
+Derby (3)
+Meleagridis (5)
+Senftenberg (1)
+Worthington (1)
+Derby (3)
+U (4)
+
+Derby (1)
+
+Typhimurium
+(1)
+Derby (2)
+Typhimurium
+(2)
+Derby (1)
+
+Typhimurium
+(1)
+Infantis (2)
+Anatum (1)
+Derby (1)
+
+Derby
+(1)
+Derby
+(3)
+
+Derby
+(1)
+
+Derby
+(1)
+Derby
+(1)
+
+Derby
+(8)
+
+Derby (7)
+Typhimurium
+(4)
+Infantis (1)
+
+Derby
+(10)
+Infantis
+(1)
+
+Derby (3)
+
+Derby (2)
+
+Typhimurium
+(1)
+Derby (4)
+
+Derby (1)
+
+Derby (1)
+
+Derby (1)
+
+Typhimurium
+(1)
+Derby (11)
+
+Typhimurium
+(1)
+Derby (11)
+
+Typhimurium
+(3)
+Derby (2)
+
+Derby
+(2)
+
+Typhimurium
+(3)
+Derby (11))
+
+Table 8
+Antimicrobial resistance phenotypes of 322 Salmonella spp. isolates.
+
+Antimicrobial agents
+
+Number of resistant isolates (%)
+
+Sample from
+Environment (n ¼ 79)
+
+Slaughtering pig (n ¼ 243)
+
+Beta-lactamase
+Ampicillin
+Mezlocillin
+Cefazolin
+Ceftriaxone
+Cefotaxime
+Quinolone
+Nalidixic acid
+Oﬂoxacin
+Enroﬂoxacin
+Norﬂoxacin
+Ciproﬂoxacin
+Tetracycline
+Chloramphenicol
+Aminoglycosides
+Kanamycin
+Gentamicin
+Streptomycin
+Sulfonamides
+Trimethoprim-sulfamethoxazole
+
+16(20.3)
+3(3.8)
+1(1.3)
+0
+0
+
+10(12.7)
+1 (1.3)
+1 (1.3)
+0
+0
+44 (55.7)
+9(11.3)
+
+6(7.6)
+3(3.7)
+13(16.5)
+
+18(22.8)
+
+83(34.1)
+16(6.6)
+5(2.0)
+4(1.6)
+0
+
+44(18.1)
+1(0.4)
+3(1.2)
+2(0.8)
+5(2.0)
+144(59.3)
+38(15.6)
+
+29(11.9)
+18(7.4)
+76(31.2)
+
+69(28.4)
+
+Table 9
+Multidrug resistance observed among Salmonella isolates from various sources.
+
+Source
+
+Number of resistant to indicated number of antimicrobials (%)
+
+Slaughtering pig (243)
+Environment (79)
+Total (322)
+
+0
+
+62(25.6)
+28(35.4)
+90 (27.9)
+
+1e3
+
+138(56.8)
+42(53.2)
+180 (55.9)
+
+4e6
+
+31(12.8)
+6(7.6)
+37 (11.5)
+
+7e9
+
+10(4.2)
+2(2.5)
+12 (37.2)
+
+>9
+
+2(8.2)
+1(1.3)
+3 (0.9)
+
+Number of resistant isolates (%)
+
+181 (74.5)
+51 (64.6)
+232 (72.0)
+
+Y. Li et al. / Food Control 59 (2016) 591e600
+
+597
+
+As far as the environment was concerned, no Salmonella was
+detected in all scalding water samples, while an 80% positive rate
+was observed in a slaughterhouse in Vietnam (Thai, 2007). Based
+on the temperature measurement, we found the temperature of the
+water in the scalding pool was maintained at above 60 C, which
+effectively kills the Salmonella in the water. However, Salmonella
+was identiﬁed from the cooling water samples in all visits, espe-
+cially C3, B3, A1 and A2 in which all samples were detected as
+Salmonella-positive. The slow circulation speed of the pooling wa-
+ter and Salmonella leakage from the cavity of slaughtered pigs may
+account for this result. In the summer, because of high tempera-
+tures and poor water circulation, cooling water could become a
+broth enriched with bacteria and contaminate all of the slaughtered
+pigs that pass through the water continuously.
+
+The prevalence of Salmonella in the lairages was similar to a
+previous report from EFSA. Studies show that Salmonella can be
+detected in the intestines of a slaughtered pig after just a 30 min
+stay in the lairage, which can be an important cause of Salmonella
+contamination at the surface of a slaughtered pig's body (EFSA,
+2011).
+
+The most prevalent serotypes were S. Derby and S. Typhimurium
+followed by S. Anatum and S. Meleagridis. These results are in
+accordance with other similar studies carried out in slaughter-
+houses (Arguello et al., 2012; Bonardi et al., 2013; De Busser et al.,
+2011; Gomes-Neves et al., 2012; Piras et al., 2011). In recent years,
+S. Derby has become more frequent in worldwide pork production.
+Based on a baseline EU survey, S. Derby was the most frequently
+isolated serovar in both breeding and production holdings and can
+become the potential source of the bacteria disseminated to
+slaughtered pigs (EFSA, 2011). Moreover, S. Derby is also isolated
+from cases of human salmonellosis and have been reported in
+China and other countries (Hauser et al., 2011; Kerouanton, Rose,
+Weill, Granier, & Denis, 2013; Ling et al., 2001). In our study, S.
+Derby was also widely spread in carcass samples, which would then
+be sold in public markets after splitting and weighing. Therefore,
+we conclude that S. Derby can survive in certain niches of the three
+slaughterhouses, and may become part of the resident ﬂora (house
+strains) and can result in subsequent carcass contamination of
+slaughtered pigs passing along the slaughter line. In this way, all the
+serotypes associated with swine species may lead to Salmonella
+contamination of pork and cases of non-typhoidal salmonellosis
+have been described in humans. There were various kinds of
+serotype identiﬁed in this study, many of which were reported in
+this city for the ﬁrst time. This could be related to the diverse source
+of pigs in different slaughterhouses (Pan et al., 2010; Wang, Jiao, Liu,
+Chen, & Huan, 2007; Zhou et al., 2013). We hypothesize that the
+slaughterhouse can serve as a transport hub, where different Sal-
+monella serotypes carried by pigs from different regions can be
+released and subsequently through the pork on sale in the public
+market, which causes a serious threat to public health.
+
+The presence of antimicrobial resistant pathogens in food and
+food products could enable the bacteria to spread via the food chain
+to humans, causing infections (Angulo, Baker, Olsen, Anderson, &
+Barrett, 2004). Observations in this study on the prevalence of
+antimicrobial resistance in Salmonella isolates are in accordance
+with other studies carried out at slaughterhouses (Bonardi et al.,
+2013; Botteldoorn, Herman, Rijpens, & Heyndrickx, 2004), where
+resistance to tetracycline was the most common phenotype
+observed in 75.6% of the 716 isolates of S. enterica, followed by
+ampicillin,
+trimethoprim-sulfamethoxazole and streptomycin.
+Similar results were found in Salmonella isolates from food-
+producing animals in our country (Han, Liu, Hou, Chen, & Peng,
+2014; Yang et al., 2010). These drugs are commonly used in veter-
+inary clinical medicine, which means the using of antibiotics in pig
+production process is both complex and frequently in China.
+
+Fig. 1. Minimum spanning tree analysis of Salmonella isolated from different sources.
+Circles correspond to sequence types (STs), while the size of each circle is proportional
+to the number of isolates in each ST. Clonal complexes (STs with single allele differ-
+ences) are shaded gray.
+
+was high. Salmonella was recovered from slaughtered pigs and in
+their slaughterhouse environmental samples with an overall
+prevalence of 46.6% and 48.4%, which was similar to that of pre-
+vious studies conducted in slaughterhouses in Vietnam (48.8%) and
+Belgium (48.2%) (De Busser et al., 2011; Thai, 2007), but higher than
+those reported in the other areas of China and some developing
+countries such as Italy, Denmark, Spain and Southwest China
+(Baptista, Dahl, & Nielsen, 2010; Bonardi et al., 2013; De Busser
+et al., 2011; Piras, Brown, Meloni, Mureddu, & Mazzette, 2011;
+Hou, Liu, Han, & Wu, 2013). This could be because the poor Sal-
+monella control measures taken during the slaughtering processing
+caused serious Salmonella cross-contamination in the three
+slaughterhouses. Contrary to what was expected, albeit with better
+hygienic conditions and newer devices, we were unable to ﬁnd a
+signiﬁcant difference in Salmonella prevalence between the three
+slaughterhouses. This illustrates that the key points of the slaugh-
+tering process in different slaughterhouses should be ascertained
+and well controlled.
+
+Slaughtered pigs and environmental samples were higher at
+risk of being contaminated during visit 3, which was from April
+2012 to July 2012, compared with the rest of the survey period. The
+effect that these same sampling months increased the risk of
+surface contamination of carcasses was previously reported (EFSA,
+2008a). It illustrates that the prevalence of Salmonella in slaugh-
+terhouses may be greatly affected by seasonal factors, but this
+hypothesis should be studied further and conﬁrmed by additional
+studies. In our research, the prevalence of Salmonella in lymph
+node samples ranged from 12.5% to 25%, in accordance with 13.9%
+reported from EFSA (EFSA, 2008a,b). In literature, several authors
+emphasize the role of Salmonella-infected pigs in causing
+contamination and cross contamination during the slaughtering
+process, so it is quite necessary to perform pre-slaughter in-
+spections and quarantines (Arguello, Carvajal, Collazos, García-
+Feliz, & Rubio, 2012). There were large differences in Salmonella
+between slaughtered pig samples at different sampling sites, such
+as in B3 the prevalence of Salmonella in submitting samples was
+only 6.7%, but in carcass samples the positive rate raised was as
+high as 60% (p < 0.01), suggesting that an incorrect slaughter
+process and cross-contamination within the slaughterhouse can
+lead to Salmonella contamination in pigs that were not carriers
+(Arguello et al., 2012).
+
+598
+
+Y. Li et al. / Food Control 59 (2016) 591e600
+
+Fig. 2. Dendrogram of PFGE patterns of 65 S. Derby isolates recovered from slaughterhouses and pork, and their association with source and drug-resistance types. Fifty-six ST40 S.
+Derby isolated from slaughterhouse and pork was identiﬁed as thirty-ﬁve PFGE patterns, which were grouped into seven clusters. In the source column, the letters in parentheses
+represent the different links of slaughterhouses A and C (E for evisceration, D for after washing carcass, S for submit, CS for waste water, CW for cooling water, F for ﬂoor sample, LN
+for lymph nodes).
+
+Y. Li et al. / Food Control 59 (2016) 591e600
+
+599
+
+Fig. 3. Dendrogram of PFGE patterns of 16 S. Typhimurium isolates recovered from slaughterhouses and pork, and their association with source, sequence type, and drug-resistance
+types. Sixteen Salmonella Typhimurium isolates showed ten patterns and three clusters using a cutoff value of 85% similarity. In the source column, the letters in parentheses
+represent the different links of slaughterhouses A and C (E for evisceration, D for after washing carcass, S for submit, CW for cooling water).
+
+MLST could be used to overcome the limitations of the tradi-
+tional serotyping method and provide reliable identiﬁcation of the
+most common Salmonella serotypes and their associated evolu-
+tionary information. In our study, we used MLST as a regular tool for
+Salmonella preliminary classiﬁcation and for rapid and accurate
+identiﬁcation of serotyping (Achtman et al., 2012). ST40 was the
+most common genotype in isolates recovered from the three
+slaughterhouses in this study, which was in accordance with our
+study on retail pork in Yangzhou (Li et al., 2014). According to the
+previous report, ST40 Salmonella isolates may spread widely
+throughout the pork production chain. The remaining common STs
+in Salmonella from the three slaughterhouses such as ST34, ST155
+and ST64 were also frequently in Salmonella from the retail pork (Li
+et al., 2014). However, S. Typhimurium ST34 and ST19, which were
+associated with the ACSSuT type (resistance to amoxicillin, chlor-
+amphenicol,
+and tetracyclines)
+showing higher mortality rates were frequently detected in our
+study (Molbak, 2005; Wong et al., 2013), which indicated serious
+contaminations of such S. Typhimurium in the pork production
+chain and may pose a great threat to public health.
+
+sulfonamides,
+
+streptomycin,
+
+As an important method of the molecular typing of Salmonella,
+PFGE plays an important role in tracking the sources of infection
+and epidemic control, which is known as the “gold standard” in
+molecular typing of bacteria (Villalon et al., 2011). In the present
+study, PFGE had a higher discriminatory power than MLST, and the
+Salmonella with the same PFGE type mostly derived from the same
+slaughterhouse and was placed in the same cluster, showing
+evident regional characteristics. In addition, the isolates with the
+same PFGE type pattern shared similar resistant phenotype and ST
+types, which support previous
+(Harbottle, White,
+McDermott, Walker, & Zhao, 2006).
+
+reports
+
+The same PFGE types could be found in carcass samples of both
+slaughterhouses and pork, proving the spread of Salmonella be-
+tween slaughterhouses and pork in the public market. Four S. Derby
+isolates with the same PFGE type (PF26) were detected in the
+
+samples of the environment and the slaughtered pigs in slaugh-
+terhouse A,
+indicating cross contamination between the two
+sources. Six S. typhimurium in cluster 1 with the same ST type
+(ST19), which can be considered as the same Salmonella clone, came
+from different points of the slaughtered pigs, and took place during
+horizontal transmission along the slaughtering processing. This il-
+lustrates that carcass contamination originates from both the
+environment and the slaughtered pig. In addition, by comparing
+the PFGE type between the slaughterhouses and the pork, it was
+revealed that Salmonella in Yangzhou pork were mostly correlated
+with the strains in slaughterhouse C.
+
+5. Conclusion
+
+In summary, we examined the epidemiology of Salmonella from
+three slaughterhouses in Yangzhou located in eastern China. The
+results of this study illustrated the distribution, antimicrobial sus-
+ceptibility proﬁles, serotype and genotype in Salmonella isolates
+from three slaughterhouses in different time periods, and revealed
+the clonal relationships of recovered strains and their involvement
+in three slaughterhouses and pork from related public markets.
+Contamination and cross contamination frequently occurred inside
+the slaughterhouse and can also be important sources of Salmonella
+contamination in pork sold in the public market. Further research
+in more complete pork production chains in Jiangsu are required,
+which can help us to identify the source and character of the most
+prevalent Salmonella isolates in production chains and conﬁrm
+critical control points in the whole production chain so that
+contamination risks in hog and pork products can be reduced.
+
+Acknowledgments
+
+This work was supported by the National Natural Science
+Foundation of China (nos. 31320103907 and 31230070), the Special
+Fund for Agroscientiﬁc Research in the Public Interest (201403054),
+
+600
+
+Y. Li et al. / Food Control 59 (2016) 591e600
+
+the 863 program (no. 2012AA101601-6), the Program for New
+Century Excellent Talents in University (NCET-12-0745), the “Six
+Talent Peaks Program” of Jiangsu Province (NY-028), the “Qinglan
+Program” of Jiangsu Province (2012), and the Priority Academic
+Program Development of Jiangsu Higher Education Institutions
+(PAPD).
+
+References
+
+Achtman, M., Wain, J., Weill, F. X., Nair, S., Zhou, Z., Sangal, V., et al. (2012). Multi-
+locus sequence typing as a replacement for serotyping in Salmonella enterica.
+PLoS Pathogens, 8(6), e1002776. http://dx.doi.org/10.1371/journal.ppat.1002776.
+Angulo, F. J., Baker, N. L., Olsen, S. J., Anderson, A., & Barrett, T. J. (2004). Antimi-
+crobial use in agriculture: controlling the transfer of antimicrobial resistance to
+humans. In Paper presented at the seminars in pediatric infectious diseases.
+
+Arguello, H., Carvajal, A., Collazos, J. A., García-Feliz, C., & Rubio, P. (2012). Preva-
+lence and serovars of Salmonella enterica on pig carcasses, slaughtered pigs and
+the environment of four Spanish slaughterhouses. Food Research International,
+45(2), 905e912.
+
+Baptista, F. M., Dahl, J., & Nielsen, L. R. (2010). Factors inﬂuencing Salmonella carcass
+prevalence in Danish pig abattoirs. Preventive Veterinary Medicine, 95(3e4),
+231e238.
+
+Bonardi, S., Bassi, L., Brindani, F., D'Incau, M., Barco, L., Carra, E., et al. (2013).
+Prevalence, characterization and antimicrobial susceptibility of Salmonella
+enterica and Yersinia enterocolitica in pigs at slaughter in Italy. International
+Journal of Food Microbiology, 163(2e3), 248e257.
+
+Bonardi, S., Brindani, F., Pizzin, G., Lucidi, L., D'Incau, M., Liebana, E., et al. (2003).
+Detection of Salmonella spp., Yersinia enterocolitica and verocytotoxin-
+producing Escherichia coli O157 in pigs at slaughter in Italy. International
+Journal of Food Microbiology, 85(1e2), 101e110.
+
+Botteldoorn, N., Herman, L., Rijpens, N., & Heyndrickx, M. (2004). Phenotypic and
+molecular typing of Salmonella strains reveals different contamination sources
+in two commercial pig slaughterhouses. Applied Environmental Microbiology,
+70(9), 5305e5314.
+
+Clinical and Laboratory Standards Institute. (2009). Methods for dilution antimicro-
+bial susceptibility tests for bacteria that grow aerobically. Approved standard (8th
+ed.). Wayne, PA: Clinical and Laboratory Standards Institute. Document M07-
+A8.
+
+Clinical and Laboratory Standards Institute. (2012). Performance standards for anti-
+microbial susceptibility testing. Wayne, PA: Clinical and Laboratory Standards
+Institute. Document M100-S21.
+
+Cobbaut, K., Houf, K., Douidah, L., Van Hende, J., & De Zutter, L. (2008). Alternative
+sampling to establish the Escherichia coli O157 status on beef cattle farms.
+Veterinary Microbiology, 132(1e2), 205e210.
+
+De Busser, E. V., Maes, D., Houf, K., Dewulf, J., Imberechts, H., Bertrand, S., et al.
+(2011). Detection and characterization of Salmonella in lairage, on pig carcasses
+and intestines in ﬁve slaughterhouses. International Journal of Food Microbi-
+ology, 145(1), 279e286.
+
+Delhalle, L., Saegerman, C., Farnir, F., Korsak, N., Maes, D., Messens, W., et al. (2009).
+Salmonella surveillance and control at post-harvest in the Belgian pork meat
+chain. Food Microbiology, 26(3), 265e271.
+
+European Food Safety Authority. (2008b). Analysis of the baseline survey on the
+prevalence of Salmonella in slaughter pigs, in the EU, 2006e2007 Part B: factors
+associated with Salmonella infection in lymph nodes, Salmonella surface
+contamination of carcasses, and the distribution of Salmonella serovars, 2011
+The EFSA Journal, 206, 1e111.
+
+European Food Safety Authority. (2008a). Task force on Zoonoses data collection on
+the analysis of the baseline survey on the prevalence of Salmonella in slaughter
+pigs, in the EU, 2006e2007. The EFSA Journal, 135, 2329.
+
+European Food Safety Authority. (2011). Analysis of the baseline survey on the
+prevalence of Salmonella in holdings with breeding pigs, in the EU, 2008-2011.
+The EFSA Journal, 9, 2329.
+
+Foley, S. L., Lynne, A. M., & Nayak, R. (2008). Salmonella challenges: prevalence in
+swine and poultry and potential pathogenicity of such isolates. Journal of Animal
+Science, 86(14 Suppl), E149eE162.
+
+Gomes-Neves, E., Antunes, P., Tavares, A., Themudo, P., Cardoso, M. F., Gartner, F.,
+et al. (2012). Salmonella cross-contamination in swine abattoirs in Portugal:
+
+carcasses, meat and meat handlers. International Journal of Food Microbiology,
+157(1), 82e87.
+
+Grimont, P. A. D., & Weill, F. X. (2007). Antigenic formulae of the Salmonella serovars.
+World health organization collaborating center for reference and research on
+Salmonella (9th ed.). Institut Pasteur Paris.
+
+Han, X., Liu, S., Hou, X., Chen, X., & Peng, Z. (2014). Characterization of antimicrobial
+resistances and molecular characteristics of Salmonella isolates from the pork
+production chain in Sichuan province, 2010e2011. Chinese Journal of Epidemi-
+ology, 35(005), 519e523.
+
+Harbottle, H., White, D. G., McDermott, P. F., Walker, R. D., & Zhao, S. (2006).
+Comparison of multilocus sequence typing, pulsed-ﬁeld gel electrophoresis,
+and antimicrobial susceptibility typing for characterization of Salmonella
+enterica serotype newport isolates.
+Journal of Clinical Microbiology, 44(7),
+2449e2457.
+
+Hauser, E., Hebner, F., Tietze, E., Helmuth, R., Junker, E., Prager, R., et al. (2011).
+Diversity of Salmonella enterica serovar Derby isolated from pig, pork and
+humans in Germany. International Journal of Food Microbiology, 151(2), 141e149.
+Hou, X. G., Liu, S. L., Han, X. F., & Wu, C. M. (2013). Isolation and identiﬁcation of
+Salmonella from pork industry chains in partial areas of Sichuan province. Food
+Science, 34(11), 250e253.
+
+Hugas, M., & Beloeil, P. (2014). Controlling Salmonella along the food chain in the
+
+European Union e progress over the last ten years. Euro Surveill, 19(19).
+
+Kerouanton, A., Rose, V., Weill, F. X., Granier, S. A., & Denis, M. (2013). Genetic di-
+versity and antimicrobial resistance proﬁles of Salmonella enterica serotype
+derby isolated from pigs, pork, and humans in France. Foodborne Pathogens and
+Disease, 10(11), 977e984.
+
+Le Hello, S., Hendriksen, R. S., Doublet, B., Fisher, I., Nielsen, E. M., Whichard, J. M.,
+et al. (2011). International spread of an epidemic population of Salmonella
+enterica serotype Kentucky ST198 resistant to ciproﬂoxacin. Journal of Infectious
+Diseases, 204(5), 675e684.
+
+Li, Y. C., Pan, Z. M., Kang, X. L., Geng, S. Z., Liu, Z. Y., Cai, Y. Q., et al. (2014). Prevalence,
+characteristics, and antimicrobial resistance patterns of Salmonella in retail pork
+in Jiangsu province, eastern China. Journal of Food Protection, 77(2), 236e245.
+Lo Fo Wong, D. M., Dahl, J., Stege, H., van der Wolf, P. J., Leontides, L., von Altrock, A.,
+et al. (2004). Herd-level risk factors for subclinical Salmonella infection in Eu-
+ropean ﬁnishing-pig herds. Preventive Veterinary Medicine, 62(4), 253e266.
+
+Molbak, K. (2005). Human health consequences of antimicrobial drug-resistant
+Salmonella and other foodborne pathogens. Clinical Infectious Diseases, 41(11),
+1613e1620.
+
+Pan, Z., Geng, S., Zhou, Y., Liu, Z., Fang, Q., Liu, B., et al. (2010). Prevalence and
+antimicrobial resistance of Salmonella sp. isolated from domestic animals in
+Eastern China. Journal of Animal and Veterinary Advances, 9(17), 2290e2294.
+
+Piras, F., Brown, D. J., Meloni, D., Mureddu, A., & Mazzette, R. (2011). Investigation of
+Salmonella enterica in Sardinian slaughter pigs: prevalence, serotype and ge-
+notype characterization.
+Journal of Food Microbiology, 151(2),
+201e209.
+
+International
+
+Ribot, E. M., Fair, M. A., Gautom, R., Cameron, D. N., Hunter, S. B., Swaminathan, B.,
+et al. (2006). Standardization of pulsed-ﬁeld gel electrophoresis protocols for
+the subtyping of Escherichia coli O157:H7, Salmonella, and Shigella for PulseNet.
+Foodborne Pathogens Diseases, 3(1), 59e67.
+
+Schneider, M., & Sharma, S. (2014). China's pork miracle? Agribusiness and Devel-
+
+opment in China's Pork Industry.
+
+Thai, N. P. (2007). Prevalence of Salmonella on pig carcasses at a slaughterhouse in
+
+Hanoi, Vietnam. Joint CMU-FUB (MVPH thesis).
+
+Villalon, P., Valdezate, S., Medina-Pascual, M. J., Rubio, V., Vindel, A., & Saez-
+Nieto, J. A. (2011). Clonal diversity of nosocomial epidemic Acinetobacter bau-
+mannii strains isolated in Spain. Journal of Clinical Microbiology, 49(3), 875e882.
+Wang, X., Jiao, X., Liu, X., Chen, X., & Huan, H. (2007). Characterization of multidrug-
+resistant Salmonella serovars isolated from meats and human samples in some
+regions of Jiangsu. Acta Microbiologica Sinica, 47(2), 221e227.
+
+Wong, M. H., Yan, M., Chan, E. W., Liu, L. Z., Kan, B., & Chen, S. (2013). Expansion of
+Salmonella Typhimurium ST34 clone carrying multiple resistance determinants
+in China. Antimicrobial Agents Chemotherapy, 57(9), 4599e4601.
+
+Yang, B., Qu, D., Zhang, X., Shen, J., Cui, S., Shi, Y., et al. (2010). Prevalence and
+characterization of Salmonella serovars in retail meats of marketplace in
+Shaanxi, China. International Journal of Food Microbiology, 141(1e2), 63e72.
+
+Zhou, Y., Pan, Z., Li, Y., Kang, X., Wang, X., Geng, S., et al. (2013). Epidemiological
+analysis of Salmonella isolates recovered from food animals and humans in
+eastern China. Food Research International, 54(1), 223e229.
+
+

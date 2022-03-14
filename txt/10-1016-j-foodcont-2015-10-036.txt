@@ -1,0 +1,1449 @@
+Food Control 62 (2016) 270e276
+
+Contents lists available at ScienceDirect
+
+Food Control
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / f o o d c o n t
+
+Short communication
+Prevalence and antimicrobial resistance of Salmonella isolated from an
+integrated broiler chicken supply chain in Qingdao, China
+Mingquan Cui a, b, Maoying Xie a, c, Zhina Qu d, Sijun Zhao d, Junwei Wang d,
+Yang Wang a, b, Tao He a, b, Hongyu Wang a, b, Zhicai Zuo c, Congming Wu a, b, *
+a Beijing Key Laboratory of Detection Technology for Animal-Derived Food Safety, College of Veterinary Medicine, China Agricultural University, Beijing
+100193, China
+b Key Laboratory of Detection for Veterinary Drug Residue and Illegal Additive, MOA, College of Veterinary Medicine, China Agricultural University, Beijing
+100193, China
+c College of Veterinary Medicine, Sichuan Agricultural University, Ya'an 625014, China
+d China Animal Health and Epidemiology Center, Qingdao 266032, China
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 9 June 2015
+Received in revised form
+24 October 2015
+Accepted 26 October 2015
+Available online 11 November 2015
+
+Keywords:
+Salmonella
+Serotypes
+Antimicrobial resistance
+Pulsed-ﬁeld gel electrophoresis
+
+The present study analyzed the prevalence and antimicrobial resistance of Salmonella along an integrated
+broiler chicken supply chain. A total of 172 Salmonella isolates were recovered from 1148 samples
+collected from four sample sources (breeder farms, broiler farms, abattoir, and retail markets), repre-
+senting nine production stages. These Salmonella isolates were examined for antimicrobial susceptibility
+to 12 different antimicrobial agents using a disk diffusion assay. Among them, 168 were identiﬁed as six
+different serotypes of Salmonella enterica. The predominant serotype was S. Enteritidis (n ¼ 116), fol-
+lowed by S. Infantis (n ¼ 18), S. Gueuletapee (n ¼ 16), S. Derby (n ¼ 12), S. Meleagridis (n ¼ 4), and S.
+London (n ¼ 2). The remaining four isolates were serogroup-untypeable. A majority of the 172 isolates
+(96.51%) was resistant to one or more antibiotics and 61.05% of the Salmonella isolates showed a
+multidrug resistance phenotype. Statistical analysis indicated the one risk product stage for Salmonella
+contamination occurred in the sample source at the abattoir, speciﬁcally the stage of Carcasses after
+chilling. The majority of S. Enteritidis isolates shared the same pulsed-ﬁeld gel electrophoresis (PFGE)
+cluster, suggesting that the S. Enteritidis strain might spread along the broiler chicken supply chain. The
+prevalence and antimicrobial resistance of Salmonella in different production stages suggest the
+importance of controlling Salmonella in the broiler chicken supply chain for public health, underlying the
+need for improved measures of reducing carcass contamination in abattoirs and the appropriate use of
+antimicrobials in broiler ﬂocks.
+
+© 2015 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+
+Salmonellosis, caused by Salmonella enterica, is one of the most
+frequently reported foodborne illnesses worldwide (Scallan et al.,
+2011; Shao, Shi, Wei, & Ma, 2011). Oral transmission is one of the
+
+Abbreviations: PFGE, Pulsed-ﬁeld gel electrophoresis; MDR, multidrug resistant;
+DOX, doxycycline; GEN, gentamicin; CHL, chloramphenicol; NAD, nalidixic acid; CIP,
+ciproﬂoxacin; AMP, ampicillin; CAZ, ceftazidime; CFZ, cefazolin; AMC, amoxicillin/
+clavulanic acid; MEM, meropenem; SXT, trimethoprim/sulfamethoxazole; PB, pol-
+ymyxinB; HACCP, hazard analysis and critical control point.
+
+* Corresponding author. College of Veterinary Medicine, China Agricultural Uni-
+
+versity, Beijing 100193, China.
+
+E-mail address: wucm@cau.edu.cn (C. Wu).
+
+http://dx.doi.org/10.1016/j.foodcont.2015.10.036
+0956-7135/© 2015 Elsevier Ltd. All rights reserved.
+
+most common routes of Salmonella infection; humans are infected
+through the ingestion of contaminated animal-derived food, indi-
+cating that Salmonella from animals can be transmitted to humans
+via the food chain (Fearnley, Raupach, Lagala, & Cameron, 2011).
+
+The increase of antibiotic resistance in Salmonella has become a
+worldwide problem in recent decades (White, Zhao, Simjee,
+Wagner, & McDermott, 2002).
+Food contamination with
+multidrug-resistant (MDR) bacteria poses a major threat to public
+health, as there is an abundance of evidence showing that
+antibiotic-resistant bacteria of animal origin can be transmitted to
+humans (Khemtong & Chuanchuen, 2008).
+
+Chicken is one of the most widely consumed animal meats in
+the world; however, it is also recognized as an important reservoir
+of Salmonella (Adu-Gyamﬁ, Torgby-Tetteh, & Appiah, 2012; Thai &
+
+M. Cui et al. / Food Control 62 (2016) 270e276
+
+271
+
+Yamaguchi, 2012). In addition, previous research has indicated the
+importance of considering slaughter and other stages in the meat
+supply chain for preventing Salmonella contamination (Arguello,
+Alvarez-Ordonez, Carvajal, Rubio, & Prieto, 2013; Marin, Balasch,
+Vega, & Lainez, 2011; Schmidt et al., 2012). During the various
+stages of chicken slaughter and processing, all potentially edible
+tissues are at risk of contamination from sources both within and
+outside the animal, including the environment, equipment, and
+operators. Thus, due to the high consumption of chicken meat and
+increased occurrence and invasiveness of MDR Salmonella, the
+prevalence and antibacterial resistance of Salmonella spp. in the
+broiler chicken supply chain need to be monitored.
+
+In order
+
+to collect
+
+information on Salmonella
+
+cross-
+contamination along the broiler chicken supply chain in Qingdao
+City, China, the prevalence of Salmonella spp. in nine distinct stages
+of the chicken supply chain and antimicrobial resistance were
+investigated. Pulsed-ﬁeld gel electrophoresis (PFGE) was per-
+formed to study genetic relatedness of the dominant serotype S.
+Enteritidis isolates from different production stages. The study
+describes the characteristics of Salmonella in the broiler chicken
+supply chain, which contributes to the understanding of antimi-
+crobial resistance in this supply chain and may aid the creation of
+strategies to prevent Salmonella contamination.
+
+2. Materials and methods
+
+2.1. Sample collection
+
+and cleaning, Carcasses after chilling, Segmented chicken: leg or
+breast ﬁllet of butchered carcass, and Retail chicken: whole carcass
+packaged and sold to consumers, purchased the same day or day
+after delivery to the market.
+
+One sample was collected from each animal or meat product as
+appropriate. At farms, rectal swabs were collected from randomly
+selected individual animals at three of the stages (Breeder, 5-day-
+old broiler, and 20-day-old broiler). Broiler cecal samples, repre-
+senting samples of the Adult broiler stage, were collected from
+random animals at the abattoir. We chose the swab sampling
+method because previous reference noted that whole-carcass
+sampling by swabbing is necessary for optimum Salmonella re-
+covery (McEvoy, Nde, Sherwood, & Logue, 2005). Additionally,
+Salmonella contamination at abbatoirs often occurs on the surface
+of the carcass. We used large swabs moistened with buffered
+peptone water and swabbed the entire surface of the carcass.
+Whole carcasses or meat from the next four stages (Pre-cleaning
+carcasses, Post-cleaning carcasses, Carcasses after chilling, and
+Segmented chicken) were sampled in the chicken processing chain,
+using cotton swabs across the surface of the meat. Carcasses from
+the Retail chicken stage were collected from three markets, and
+were swabbed in the same manner. Sampling was timed to follow
+folks through rearing and processing, and sampling on farms
+included numerous locations to ensure a representative sample. All
+samples obtained were immediately transported to the laboratory
+in an insulated ice chest containing ice packs. Microbial analysis
+was performed immediately upon arrival at the laboratory.
+
+A total of 1148 samples (detailed in Table 1) were collected
+during August and September, 2013, from a vertically-integrated
+commercial broiler chicken supply chain in Qingdao City, China,
+in which more than 90,000,000 broiler chickens are reared,
+slaughtered, and sold per year. In this study, we selected related
+breeder and broiler farms that constitute a vertically integrated
+broiler supply chain; all animals were part of the same cohort
+through this chain. Samples were collected from four types of
+sources (three breeder farms (approximately 8000 birds/ﬂock), two
+broiler farms (approximately 15,000 birds/ﬂock), one abattoir, and
+three retail markets), including nine production stages (Breeder, 5-
+day-old broiler, 20-day-old broiler, Adult broiler: 45 days old,
+sampled after slaughter but prior to evisceration, Pre-cleaning
+carcasses: carcasses sampled after evisceration but prior to clean-
+ing, Post-cleaning carcasses: carcasses sampled after evisceration
+
+2.2.
+
+Isolation and serotyping of Salmonella
+
+Pre-enrichment of the sample for Salmonella was performed
+according to a method described previously (Li et al., 2013), with
+modiﬁcations. Brieﬂy, cotton swab samples or 5 g of fecal matter
+were placed into sterile 5 mL plastic tubes containing 2 mL of
+buffered peptone water and incubated at 37 C for 6e12 h. A 0.2-mL
+aliquot of these pre-enriched cultures were then inoculated into
+2 mL of selenite cysteine broth, which was incubated at 37 C for
+24 h. Selenite cysteine broth cultures were then streaked onto
+CHROMagar Salmonella plates (CHROMagar, Paris, France) and
+incubated at 37 C for 24 h. Isolates with a typical phenotype
+(mauve colony) were conﬁrmed by PCR using a previously
+described method (Rahn et al., 1992). Salmonella isolates were
+serotyped by slide agglutination for O and H antigens using
+
+Table 1
+Prevalence of Salmonella isolated from nine stages of the broiler chicken supply chain.
+
+Source of
+isolates
+
+Stages of isolates
+
+Total no. of
+samples
+
+No. of Salmonella-positive isolates
+(%)
+
+Serotypes (no. Of isolates)
+
+Breeder farms Breeder
+Broiler farms
+
+Abattoir
+
+5-day-old broiler
+20-day-old broiler
+Adult broiler
+Pre-cleaning
+carcasses
+Post-cleaning
+carcasses
+Carcasses after
+chilling
+Segmented chicken
+
+150
+100
+100
+290
+100
+
+103
+
+99
+
+80a
+
+2 (1.33)
+8 (8.00) [[
+13 (13.00)
+33 (11.38)
+13 (13.00)
+
+15 (14.56)
+
+26 (26.26) [
+
+33 (41.25)
+
+Retail markets Retail chicken
+Total
+
+126
+1148
+
+29 (23.02) YY
+172 (14.98)
+
+S. Infantis (2)
+S. Enteritidis (8)
+S. Enteritidis (12); untypeable (1)
+S. Enteritidis (14); S. Infatis (15); S. Meleagridis (4)
+S. Enteritidis (8); S. Derby (4); untypeable (1)
+
+S. Enteritidis (12); S. Gueuletapee (2); S. London (1)
+
+S. Enteritidis (25); untypeable (1)
+
+S. Enteritidis (18); S. Derby (8); S. Gueuletapee (5); S. London (1); non-
+serogroup (1)
+S. Enteritidis (19); S. Infatis (1); S. Gueuletapee (9)
+S. Enteritidis (116); S. Infatis (18); S. Gueuletapee (16);
+S. London (2); S. Meleagridis (4); S. Derby (12);
+untypeable (4)
+
+“[” indicates a signiﬁcant increase (p  0.008).
+“YY” and “[[” indicate highly signiﬁcant decrease and increase (p  0.002).
+a 40 samples were collected from raw chicken leg. 40 samples were collected from raw chicken breast ﬁllet.
+
+272
+
+M. Cui et al. / Food Control 62 (2016) 270e276
+
+Table 2
+Comparison of antimicrobial resistance of Salmonella isolated from nine stages of the broiler chicken supply chain.
+
+Source of isolates (no. of isolates) No. (%) of isolates resistant to druga
+
+DOX
+
+GEN
+
+CHL
+
+NAD
+
+CIP
+
+AMP
+
+CAZ
+
+CFZ
+
+AMC
+
+MEM SXT
+
+PB
+
+Breeder (n ¼ 2)
+5-day-old broiler (n ¼ 8)
+20-day-old broiler (n ¼ 13)
+Adult broiler (n ¼ 33)
+Pre-cleaning carcasses (n ¼ 13)
+Post-cleaning carcasses (n ¼ 15)
+Carcasses after chilling (n ¼ 26)
+Segmented chicken (n ¼ 33)
+Retail chicken (n ¼ 29)
+Total (n ¼ 172)
+a DOX, doxycycline; GEN, gentamicin; CHL, chloramphenicol; NAD, nalidixic acid; CIP, ciproﬂoxacin; AMP, ampicillin; CAZ, ceftazidime; CFZ, cefazolin; AMC, amoxicillin/
+clavulanic acid; MEM, meropenem; SXT, trimethoprim/sulfamethoxazole; PB, polymyxinB; e, not found.
+b Boldface type indicates a high resistance rate (50%).
+
+2 (100.00) e
+2 (25.00) e
+1 (7.69)
+e
+21 (63.64) e
+4 (30.77) e
+e
+e
+e
+e
+1 (3.03)
+6 (18.18) d
+6 (20.69) 10 (34.48) 6 (20.69) 1 (3.45) 3 (10.34) d
+50 (29.07) 14 (8.14) 1 (0.58) 39 (22.67) d
+7 (4.07)
+
+18 (54.55) 18 (54.55)
+1 (7.69） d
+e
+e
+e
+e
+3 (9.09)
+6 (18.18)
+7 (24.14)
+1 (3.45)
+36 (20.93) 25 (14.53) 153 (88.95)
+
+2 (100.00) e
+e
+2 (25.00) e
+e
+e
+e
+e
+18 (54.55) e
+e
+2 (15.38) d
+d
+8 (53.33) e
+8 (53.33)
+e
+e
+e
+8 (24.24) d
+d
+
+2 (100.00) e
+8 (100.00) 2 (25.00)
+13 (100.00) e
+27 (81.82) e
+12 (92.31) e
+15 (100.00) d
+26 (100.00) e
+21 (63.64) e
+29 (100.00) e
+
+2 (1.16)
+
+2 (100.00) e
+8 (100.00) e
+13 (100.00) e
+32 (96.97) e
+11 (84.62) e
+13 (86.67) e
+11 (42.31) e
+18 (54.55)
+23 (79.31)
+131 (76.16)
+
+2 (100.00) 1 (50.00)
+2 (25.00)
+2 (25.00)
+e
+
+e
+5 (62.50)b
+13 (100.00) e
+7 (21.21)
+6 (46.15)
+9 (60.00)
+5 (19.23)
+11 (33.33)
+4 (13.79)
+60 (34.88)
+
+commercially available antiserum (Tianrun Bio-Pharmaceutical,
+Ningbo, China), according to manufacturer's instructions.
+
+SAS software (version 9.0, SAS Institute, Cary, NC, USA) was used
+to analyze the prevalence of Salmonella isolates obtained from
+different stages. Mantel-Haenszel chi-square test was used to test
+for an association between processing stage and the prevalence of
+Salmonella isolates, which tells us whether the processing stage
+affects the likelihood of contamination; that is, if contamination is
+likely to enter the processing chain at one or more speciﬁc points
+rather than randomly.
+there was a signiﬁcant association
+(p  0.05) between stages and Salmonella prevalence, then multiple
+comparisons of two related stages were performed by partitioning
+chi-squares to determine if prevalence of Salmonella at one stage
+was correlated with the prevalence at the next. Raw p values were
+corrected using the Bonferroni method. Differences were consid-
+ered signiﬁcant when adjusted p  0.008 and highly signiﬁcant
+when adjusted p  0.002.
+
+If
+
+2.3. Antimicrobial susceptibility testing
+
+The disk diffusion test, as described by the Clinical and Labo-
+ratory Standards Institute (CLSI, 2013), was performed using
+Mueller-Hinton agar plates with disks containing the following 12
+antimicrobial agents (Oxoid, Basingstoke, Hampshire, UK): amoxi-
+cillin/clavulanic acid (AMC), 20 mg/10 mg; nalidixic acid (NAD),
+30 mg; ampicillin (AMP), 10 mg; cefazolin (CFZ), 30 mg; doxycycline
+(DOX), 30 mg; gentamicin (GEN), 10 mg; trimethoprim/sulfameth-
+oxazole (SXT) 1.25 mg/23.75 mg; ceftazidime (CAZ), 30 mg; chlor-
+amphenicol (CHL), 30 mg; ciproﬂoxacin (CIP), 5 mg; meropenem
+(MEM), 10 mg; polymyxinB (PB), 300 units. The interpretive cate-
+gory for each isolate (susceptible, intermediate, or resistant) was
+determined according to the CLSI guidelines (CLSI, 2013). Escher-
+ichia coli ATCC 25922 was used as a quality control strain. Salmo-
+nella isolates showing resistance to three or more antibiotics were
+deﬁned as MDR isolates.
+
+2.4. Pulsed-ﬁeld gel electrophoresis (PFGE)
+
+Among the 116 S. Enteritidis isolates from the eight broiler
+production stages, 40 S. Enteritidis isolates were selected from 73
+Salmonella spp. isolates with the predominant antimicrobial resis-
+tance pattern for each stage (numbers with boldface type indicated
+in Table 3) for PFGE analysis. In addition, six S. Enteritidis isolates
+with an NAD-AMP pattern and two S. Enteritidis with an NAD-
+AMP-DOX pattern from the Adult broiler stage were chosen for
+PFGE analysis, as S. Enteritidis isolates did not have the predomi-
+nant antimicrobial resistance pattern for this stage (Table 3). PFGE
+analysis was performed according to the PulseNet standardized
+
+protocol for subtyping Salmonella (Hunter et al., 2005; Ribot,
+Fitzgerald, Kubota, Swaminathan, & Barrett, 2001), using 50 U of
+XbaI restriction endonuclease and the reference strain Salmonella
+Braenderup strain H9812. The restriction fragments were separated
+using a CHEF Mapper XA pulsed ﬁeld electrophoresis system (Bio-
+Rad Laboratories, Hercules, CA, USA) according to the manufac-
+turer's instructions. Gel images were analyzed using InfoQuest FP
+software (Bio-Rad Laboratories). Isolates were considered geneti-
+cally related if the Dice correlation coefﬁcient was 80% or greater,
+according to Tenover's criterion (Tenover et al., 1995).
+
+3. Results
+
+3.1. Prevalence and serotyping of Salmonella isolates
+
+The prevalence of Salmonella isolates from the broiler chicken
+supply chain is summarized in Table 1. A total of 172 Salmonella
+isolates were recovered from 1148 samples (14.98%). Approxi-
+mately 41.25% of Segmented chicken samples were contaminated
+with Salmonella, followed by Carcasses after chilling (26.26%) at the
+abattoir. The lowest prevalence of Salmonella was observed in
+breeder animals (1.33%). The prevalence of Salmonella at the other
+sampling stages varied from 8.00% to 23.02%. Notably, while the
+highest prevalence of Salmonella contamination was observed in
+the Segmented chicken stage (41.25%), the level of Salmonella
+contamination at the Retail chicken stage was signiﬁcantly lower
+(23.02%). In addition, of the 172 Salmonella isolates from the nine
+stages, 168 were identiﬁed as belonging to one of six serotypes,
+while the remaining four isolates were untypeable.
+
+Mantel-Haenszel chi-square test showed a signiﬁcant associa-
+tion (p < 0.01) between stage and the prevalence of Salmonella
+isolates. Table 1 shows the distribution of Salmonella isolates
+among the nine stages. There is a trend of increasing rates of Sal-
+monella from the Breeder stage on breeder farms to the Segmented
+chicken stage at the abattoir. Further statistical analysis revealed
+that the Salmonella infection in the 5-day-broiler stage showed a
+highly signiﬁcant increase (p < 0.0001) over the Breeder stage, and
+the Salmonella contamination in Carcasses after chilling presented a
+signiﬁcant increase (p < 0.0001) from Post-cleaning carcasses.
+Consequently, these two stages were determined as two important
+risk stages. However, the detection rate of Salmonella at the stage of
+Retail meat presented a signiﬁcant decline (p ¼ 0.004), when
+compared to that in the stage of Segmented chicken.
+
+3.2. Characterization of antimicrobial susceptibility
+
+All 172 Salmonella isolates were tested for susceptibility to 12
+antimicrobial agents. Resistance is summarized in terms of
+
+M. Cui et al. / Food Control 62 (2016) 270e276
+
+273
+
+Table 3
+Antimicrobial resistance patterns of Salmonella isolated from the nine stages of the broiler chicken supply chain.
+
+Resistance pattern
+
+Source of isolates (no. of isolates)
+
+Breeder
+(n ¼ 2)
+
+5-day-old
+broiler (n ¼ 8)
+
+20-day-old
+broiler (n ¼ 13)
+
+Adult broiler
+(n ¼ 33)
+
+Pre-cleaning
+carcasses (n ¼ 13)
+
+Post-cleaning
+carcasses (n ¼ 15)
+
+Carcasses after
+chilling (n ¼ 26)
+
+Segmented
+chicken (n ¼ 33)
+
+Retail
+chicken
+(n ¼ 29)
+d
+
+1 (3.45)
+
+d
+
+5 (17.24)
+
+d
+
+2 (6.90)
+
+1 (3.45)
+
+d
+
+d
+
+d
+
+2 (6.90)
+d
+d
+d
+1 (3.45)
+
+2 (6.90)
+d
+9(31.03)
+6 (20.69)
+d
+d
+
+NAD-AMP-CFZ-GEN-
+
+d
+
+2 (25.00)
+
+CHL-CIP-SXT
+NAD-AMP-CFZ-
+
+AMC-CHL-SXT-
+MEM
+
+NAD-AMP-CFZ-GEN-
+
+CHL-SXT
+
+NAD-AMP-CFZ-GEN-
+
+CAZ-AMC
+
+d
+
+1
+(50.00a)
+db
+
+d
+
+d
+
+d
+
+NAD-AMP-CFZ-GEN-
+
+1 (50.00) d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+SXT
+
+NAD-AMP-CFZ-GEN-
+
+d
+
+AMC
+
+NAD-AMP-CFZ-CAZ-
+
+d
+
+AMC
+
+NAD-AMP-CFZ-
+
+AMC-DOX
+
+NAD-AMP-CAZ-
+
+DOX-SXT
+
+d
+
+d
+
+AMP-CFZ-GEN-CHL-
+
+d
+
+SXT
+
+NAD-AMP-DOX-SXT d
+NAD-AMP-CFZ-GEN d
+NAD-AMP-CFZ-AMC d
+AMP-CFZ-DOX-SXT d
+NAD-AMP-CFZ
+d
+NAD-AMP-GEN
+d
+NAD-AMP-DOX
+d
+AMP-CFZ
+d
+NAD-AMP
+d
+NAD
+d
+SXT
+d
+CFZ
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+d
+d
+d
+d
+d
+5 (62.50)c
+d
+1 (12.50)
+d
+d
+d
+
+1 (7.69)
+d
+d
+d
+d
+d
+12 (92.31)
+d
+d
+d
+d
+d
+
+d
+
+d
+
+d
+
+d
+
+13 (39.39) d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+5 (15.15)
+
+2 (6.06)
+d
+d
+d
+d
+d
+5 (15.15)
+d
+7 (21.21)
+d
+1 (3.03)
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+4 (30.77)
+1 (7.69)
+
+1 (7.69)
+d
+2 (15.38)
+d
+3 (23.08)
+1 (7.69)
+d
+1 (7.69)
+
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+7 (46.67)
+
+d
+
+d
+
+d
+d
+1 (6.67)
+
+d
+2 (13.33)
+d
+3 (20.00)
+2 (13.33)
+d
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+d
+d
+d
+d
+d
+6 (23.08)
+d
+5 (19.23)
+15(57.69)
+d
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+d
+
+1 (3.03)
+
+3 (9.09)
+
+1 (3.03)
+2 (6.06)
+1 (3.03)
+1 (3.03)
+2 (6.06)
+1 (3.03)
+8 (24.24)
+1 (3.03)
+2 (6.06)
+4 (12.12)
+d
+d
+
+a Numbers in parentheses indicate the percentage of antimicrobial resistance patterns relative to the whole stage.
+b d, not found.
+c Boldface type indicates the predominant antimicrobial resistance pattern.
+
+sampling stages in Table 2. In total, 166 (96.51%) of the 172 isolates
+were resistant to one or more antimicrobial agents. All six sus-
+ceptible Salmonella isolates came from the Segmented chicken
+stage. The highest rate of resistance was for nalidixic acid (88.95%),
+followed by ampicillin (76.16%), while resistance to the other
+antimicrobial agents was relatively low: doxycycline, 34.88%;
+cefazolin, 29.07%; trimethoprim/sulfamethoxazole, 22.67%; genta-
+micin, 20.93%; chloramphenicol, 14.53%; amoxicillin/clavulanic
+acid, 8.14%; ceftazidime, 4.07%; ciproﬂoxacin, 1.16%; and mer-
+openem, 0.58%.
+
+Antimicrobial resistance patterns of the Salmonella isolates are
+outlined in Table 3. Among 172 tested isolates, 22 different patterns
+of susceptibility were observed in 166 isolates,
+in which 105
+exhibited 17 MDR phenotypes, covering all nine broiler supply
+stages. All stages, apart from the Carcasses after chilling and Retail
+chicken stages, showed a high prevalence (50%) of MDR Salmo-
+nella isolates. The two isolates derived from the Breeder stage both
+exhibited an MDR phenotype. In addition, the result of relationship
+between serotype and MDR phenotype (Table 4) showed that MDR
+phenotypes were most commonly associated with S. Enteritidis
+isolates (64; 37.20%), followed by S. Infantis isolates (18; 10.47%).
+
+3.3. PFGE analysis of S. Enteritidis from the broiler chicken supply
+chain
+
+The 48 S. Enteritidis isolates were subdivided into 14 different
+clusters by PFGE analysis. The clusters were named X1eX14, and
+
+consisted of 32 XbaI proﬁles with coefﬁcient of similarity values of
+36.59%e100% (Fig. 1). The majority of XbaI proﬁles were assigned to
+cluster X1, which represented 20 isolates from the Adult broiler,
+Pre-cleaning carcasses, Post-cleaning carcasses, Carcasses after
+chilling, and Retail chicken stages. Both the isolates with different
+PFGE clusters representing the same antimicrobial resistance pat-
+terns and the isolates with identical cluster representing the same
+or different antimicrobial resistance patterns were observed
+(Fig. 1), indicating no correlation between PFGE pattern and anti-
+microbial resistance pattern in S. Enteritidis isolates.
+
+4. Discussion
+
+Many S. enterica serotypes can cause disease in humans. The
+serotypes S. Enteritidis, S. Typhimurium, and S. Heidelberg
+contributed to the majority of salmonellosis cases reported in
+Canada and the United States (Sivaramalingam, Pearl, McEwen,
+Ojkic, & Guerin, 2013). Notably, S. Enteritidis was the most com-
+mon serotype isolated along the broiler supply chain in the current
+study, which agrees with European Food Safety Authority reports
+(EFSA, 2007), and with previous research from Eastern Spain and
+China (Marin et al., 2011; Yang et al., 2014). However, this result
+differs from ﬁndings in other countries such as South Korea, Viet-
+nam, and Cambodia, where S. Hadar, S. Infantis, and S. Anatum are
+most prevalent, respectively (Choi et al., 2014; Lay, Vuthy, Song,
+Phol, & Sarthou, 2011; Thai & Yamaguchi, 2012). Most interest-
+ingly, previous investigations of Salmonella contamination of
+
+274
+
+M. Cui et al. / Food Control 62 (2016) 270e276
+
+Table 4
+Antimicrobial resistance patterns of Salmonella serotypes from the broiler chicken supply chain.
+
+Resistance pattern
+
+Salmonella serovars (no. of isolates)
+
+S. Enteritidis (116)
+
+S. Infatis (18)
+
+S. Gueuletapee (16)
+
+S. Derby (12)
+
+S. Meleagridis (4)
+
+S. London (2)
+
+NAD-AMP-CFZ-AMC-CHL-SXT-MEM
+NAD-AMP-CFZ-GEN-CHL-CIP-SXT
+NAD-AMP-CFZ-GEN-CHL-SXT
+NAD-AMP-CFZ-GEN-CAZ-AMC
+NAD-AMP-CFZ-GEN-SXT
+NAD-AMP-CFZ-GEN-AMC
+NAD-AMP-CFZ-CAZ-AMC
+NAD-AMP-CFZ-AMC-DOX
+NAD-AMP-CAZ-DOX-SXT
+AMP-CFZ-GEN-CHL-SXT
+NAD-AMP-DOX-SXT
+NAD-AMP-CFZ-GEN
+NAD-AMP-CFZ-AMC
+AMP-CFZ-DOX-SXT
+NAD-AMP-CFZ
+NAD-AMP-GEN
+NAD-AMP-DOX
+AMP-CFZ
+NAD-AMP
+NAD
+SXT
+CFZ
+
+e
+2 (1.72a)
+eb
+e
+e
+e
+1 (0.86)
+7 (6.03)
+e
+2 (1.72)
+9 (7.76)
+2 (1.72)
+1 (0.86)
+1 (0.86)
+4 (3.45)
+1 (0.86)
+36 (31.03)
+e
+26 (22.41)
+24 (20.69)
+e
+e
+
+1 (5.56)
+e
+14 (77.78)
+e
+1 (5.56)
+e
+e
+e
+e
+2 (11.11)
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+
+e
+e
+e
+5 (31.25)
+e
+2 (12.50)
+e
+e
+1 (6.25)
+e
+e
+e
+e
+e
+e
+e
+4 (25.00)
+e
+4 (25.00)
+e
+e
+e
+
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+1 (8.33)
+1 (8.33)
+e
+e
+e
+1 (8.33)
+1 (8.33)
+1 (8.33)
+e
+e
+1 (8.33)
+
+e
+e
+e
+e
+e
+e
+e
+e
+e
+3 (75.00)
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+1 (25.00)
+e
+
+e
+e
+e
+e
+e
+e
+e
+e
+e
+1 (50.00)
+e
+e
+e
+e
+e
+e
+e
+e
+e
+1 (50.00)
+e
+e
+
+a Numbers in parentheses indicate the percentage of antimicrobial resistance patterns relative to the serotype.
+b e, not found.
+
+broiler chicken supply chains in the Netherlands and Eastern Spain
+(Marin et al., 2011; van Asselt, Thissen, & van der Fels-Klerx, 2009)
+revealed a much greater diversity in the serotypes of the Salmonella
+isolates identiﬁed compared with the present case. This suggests
+that geographical differences exist in the occurrence and domi-
+nance of various Salmonella serotypes.
+
+Prevention of Salmonella contamination at any stage requires
+detailed knowledge of the most important risk factors associated
+with its presence in the broiler chicken supply chain. In our case,
+the data about Salmonella-positive isolates has provided detailed
+information about contamination along an integrated broiler
+chicken supply chain. The riskiest stage for Salmonella contamina-
+tion of the ﬂock was the 5-day-old broiler stage, in agreement with
+previous ﬁndings about risk factors in Eastern Spain (Marin et al.,
+2011). The second important risk stage (Carcasses after chilling)
+was found in the abattoir, which may be related to cooling equip-
+ment contamination. Similarly, the evidence for contamination of
+equipment on a slaughter line and subsequent cross-contamination
+to non-infected chickens has been reported previously (Olsen,
+Brown, Madsen, & Bisgaard, 2003), which may partly support our
+ﬁnding that the contamination becomes more serious with the
+increasing degree of mixing in the abattoir. To minimize cross-
+contamination, slaughtering equipment is sterilized once a day,
+the pool of water used to cool the carcasses is disinfected with
+sodium hypochlorite, and organs are conveyed to a separate pro-
+duction chain immediately after evisceration. However, these
+protocols are not always followed and thus cross-contamination is
+allowed. Another major source of Salmonella contamination and
+cross-contamination is the hatchery (Davies et al., 1997). Unfortu-
+nately, we were unable to obtain permits to collect chicken or egg
+samples at the hatcheries in this supply chain.
+
+Antimicrobial resistance represents a serious public health
+problem. Increasing antibiotic resistance in S. enterica has led to a
+shift in the choice of antibiotics used against this organism, from
+chloramphenicol
+trimethoprim-
+sulfamethoxazole, ﬂuoroquinolones,
+and extended-spectrum
+cephalosporins in clinical settings (Roy, Rawat, & Malik, 2015).
+Currently,
+for
+
+the primary antimicrobial
+
+treatment options
+
+and
+
+ampicillin
+
+to
+
+salmonellosis include ﬂuoroquinolones or extended-spectrum
+cephalosporins (Folster et al., 2015). In the study, a very high rate
+(88.95%) of nalidixic acid resistance was observed in Salmonella
+isolates, which is similar to the rate (89.28%) found in Turkey
+(Siriken, Türk, Yildirim, Durupinar, & Erol, 2015). Nalidixic acid
+resistance plays a role in the initial steps of the development of
+ciproﬂoxacin resistance, although a low rate (1.16%) of ciproﬂoxacin
+resistance was observed in the isolates. It is worth noting that third-
+generation cephalosporins have become the primary drugs for the
+treatment of salmonellosis because of the recent increase in ﬂuo-
+roquinolone resistance (Mawatari et al., 2013). In this study, there
+was a high prevalence (29.07%) of resistance to cefazolin, while a
+relatively low rate of resistance was observed for ceftazidime
+(4.07%), which is a third-generation cephalosporin. Farm managers
+the antibiotic usage. Penicillins,
+provided information about
+amphenicols,
+cephalosporins,
+tetracycline, and polymyxin were used to treat and prevent bac-
+terial diseases during the poultry-rearing period. This study
+showed high prevalence of antibiotic-resistant Salmonella isolates
+and MDR Salmonella isolates along the integrated broiler chicken
+supply chain, which can likely be attributed to the extensive use of
+antibiotics during intensive rearing (Economou & Gousia, 2015). In
+addition, to some extent, antimicrobial resistance in Salmonella is
+serotype-dependent (Clemente et al., 2014). The data also provided
+evidence that S. Enteritidis, the dominant serotype, was strongly
+associated with MDR phenotypes. However, these ﬁndings were
+contrary to a previous study showing that S. Enteritidis rarely dis-
+plays multiple resistance while S. Derby is commonly associated
+with multidrug resistance (Newell et al., 2010).
+
+sulfanilamide ﬂuoroquinolones,
+
+Molecular characterization of 48 S. Enteritidis isolates from
+eight different stages (all except Breeder) demonstrated that ge-
+notype diversity is associated with broiler chicken production
+stages. PFGE pattern diversity within a serotype is useful
+in
+assessing the effectiveness of control measures (Sandt et al., 2013).
+PFGE is the most widely used molecular subtyping method for
+Salmonella; previous studies using this method have shown that S.
+Infantis could be transmitted along the food chain and represent a
+hazard to human health (Hauser et al., 2012; Nogrady et al., 2008).
+
+M. Cui et al. / Food Control 62 (2016) 270e276
+
+275
+
+Fig. 1. PFGE proﬁles of S. Enteritidis isolated from the broiler chicken supply chain. Isolate codes indicate the stage of broiler chicken supply chain and the isolate number. Ab-
+breviations of antimicrobial agents: NAD, nalidixic acid; AMP, ampicillin; DOX, doxycycline; CFZ, cefazolin; AMC, amoxicillin/clavulanic acid; SXT, trimethoprim/sulfamethoxazole.
+
+276
+
+M. Cui et al. / Food Control 62 (2016) 270e276
+
+In the present study, we did not ﬁnd a single PFGE pattern covering
+all investigated stages, however, 20 of 48 S. Enteritidis strains from
+ﬁve of nine different stages (Adult broiler, Pre-cleaning carcasses,
+Post-cleaning carcasses, Carcasses after chilling, and Retail chicken)
+assigned to the dominant cluster X1, suggesting that the S. Enter-
+itidis strain may spread along the broiler chicken chain. In addition,
+the diversity of PFGE patterns in the current study may be attrib-
+uted to either different S. Enteritidis clones or no correlation among
+the samples along the broiler chicken supply chain.
+
+5. Conclusions
+
+The prevalence of Salmonella and its antimicrobial resistance
+during the chicken supply chain are always potential risks for hu-
+man health. The data presented in this study demonstrate that
+samples of a broiler chicken supply chain in Qingdao City, China
+were commonly contaminated with Salmonella, especially with the
+serotype S. Enteritidis. The result of PFGE suggested that S. Enter-
+itidis might spread along the broiler chicken supply chain. Cleaning
+procedures on abattoir lines should be reinforced to control Sal-
+monella contamination in the broiler chicken supply chain. In
+addition, characterization of Salmonella isolates and determination
+of high-risk stages will contribute to the implementation of hazard
+analysis and critical control point (HACCP) measures for preventing
+Salmonella infection of chicken products. The high levels of anti-
+biotic resistance and multiple MDR patterns observed amongst
+Salmonella isolates suggest that control measures for antimicrobial
+usage and surveillance should be put into place to avoid the inap-
+propriate use of antibiotics in animal husbandry.
+
+Acknowledgments
+
+This work was supported by the Key Projects in the National
+Science & Technology Pillar Program during the Twelfth Five-year
+Plan Period (2012BAK01B02), the Special Fund for Agro-scientiﬁc
+Research in the Public Interest (201203040) and the National Nat-
+ural Science Foundation of China (no. 30972216).
+
+References
+
+Adu-Gyamﬁ, A., Torgby-Tetteh, W., & Appiah, V. (2012). Microbiological quality of
+chicken sold in Accra and determination of D 10-value of E. coli. Food &
+Nutrition Sciences, 3(5), 693e698.
+
+Arguello, H., Alvarez-Ordonez, A., Carvajal, A., Rubio, P., & Prieto, M. (2013). Role of
+slaughtering in Salmonella spreading and control in pork production. Journal of
+Food Protection, 76(5), 899e911.
+
+van Asselt, E. D., Thissen, J. T. N. M., & van der Fels-Klerx, H. J. (2009). Salmonella
+serotype distribution in the Dutch broiler supply chain. Poultry Science, 88(12),
+2695e2701.
+
+Choi, S.-W., Ha, J.-S., Kim, B.-Y., Lee, D.-H., Park, J.-K., Youn, H.-N., et al. (2014).
+Prevalence and characterization of Salmonella species in entire steps of a single
+integrated broiler supply chain in Korea. Poultry Science, 93(5), 1251e1257.
+
+Clemente, L., Correia, I., Themudo, P., Neto, I., Canica, M., & Bernardo, F. (2014).
+Antimicrobial susceptibility of Salmonella enterica isolates from healthy
+breeder and broiler ﬂocks in Portugal. Veterinary Journal, 200(2), 276e281.
+
+CLSI. (2013). Performance standard for antimicrobial susceptility testing;twenty-third
+information suppement.CLSI document M100-S23. Wayne,PA: Clinical and Labo-
+ratory Standards Institute.
+
+Davies, R. H., Nicholas, R. A., Mclaren, I. M., Corkish, J. D., Lanning, D. G., & Wray, C.
+(1997). Bacteriological and serological investigation of persistent Salmonella
+enteritidis infection in an integrated poultry organisation. Veterinary Microbi-
+ology, 58(2e4), 277e293.
+
+Economou, V., & Gousia, P. (2015). Agriculture and food animals as a source of
+antimicrobial-resistant bacteria. Infection & Drug Resistance, 8(default), 49e61.
+Fearnley, E., Raupach, J., Lagala, F., & Cameron, S. (2011). Salmonella in chicken meat,
+eggs and humans; Adelaide, South Australia, 2008. International Journal of Food
+Microbiology, 146(3), 219e227.
+
+Folster, J. P., Campbell, D., Grass, J., Brown, A. C., Bicknese, A., Tolar, B., et al. (2015).
+Identiﬁcation and characterization of multidrug-resistant Salmonella enterica
+serotype Albert isolates in the United States. Antimicrobial Agents and Chemo-
+therapy, 59(5), 2774e2779.
+
+Hauser, E., Tietze, E., Helmuth, R., Junker, E., Prager, R., Schroeter, A., et al. (2012).
+
+Clonal dissemination of Salmonella enterica serovar infantis in Germany.
+Foodborne Pathogens and Disease, 9(4), 352e360.
+
+Hunter, S. B., Vauterin, P., Lambert-Fair, M. A., Van Duyne, M. S., Kubota, K.,
+Graves, L., et al. (2005). Establishment of a universal size standard strain for use
+with the PulseNet standardized pulsed-ﬁeld gel electrophoresis protocols:
+converting the national databases to the new size standard. Journal of Clinical
+Microbiology, 43(3), 1045e1050.
+
+Khemtong, S., & Chuanchuen, R. (2008). Class 1 integrons and Salmonella genomic
+island 1 among Salmonella enterica isolated from poultry and swine. Microbial
+Drug Resistance, 14(1), 65e70.
+
+Lay, K. S., Vuthy, Y., Song, P., Phol, K., & Sarthou, J. L. (2011). Prevalence, numbers and
+antimicrobial susceptibilities of Salmonella serovars and Campylobacter spp. in
+retail poultry in Phnom Penh, Cambodia. Journal of Veterinary Medical Science,
+73(3), 325e329.
+
+Li, R., Lai, J., Wang, Y., Liu, S., Li, Y., Liu, K., et al. (2013). Prevalence and character-
+ization of Salmonella species isolated from pigs, ducks and chickens in Sichuan
+Province, China. International Journal of Food Microbiology, 163(1), 14e18.
+
+Marin, C., Balasch, S., Vega, S., & Lainez, M. (2011). Sources of Salmonella contam-
+ination during broiler production in Eastern Spain. Preventive Veterinary Medi-
+cine, 98(1), 39e45.
+
+Mawatari, M., Kato, Y., Hayakawa, K., Morita, M., Yamada, K., Mezaki, K., et al. (2013).
+Salmonella enterica serotype paratyphi A carrying CTX-M-15 type extended-
+spectrum beta-lactamase isolated from a Japanese traveller returning from
+India, Japan, July 2013. Euro Surveill, 18.
+
+McEvoy, J. M., Nde, C. W., Sherwood, J. S., & Logue, C. M. (2005). An evaluation of
+sampling methods for the detection of Escherichia coli and Salmonella on
+Turkey carcasses. Journal of Food Protection, 68(1), 34e39.
+
+Newell, D. G., Koopmans, M., Verhoef, L., Duizer, E., Aidara-Kane, A., Sprong, H., et al.
+(2010). Food-borne diseases - the challenges of 20 years ago still persist while
+new ones continue to emerge. International Journal of Food Microbiology, 139,
+S3eS15.
+
+Nogrady, N., Kardos, G., Bistyak, A., Turcsanyi, I., Meszaros, J., Galantai, Z., et al.
+(2008). Prevalence and characterization of Salmonella infantis isolates origi-
+nating from different points of the broiler chicken-human food chain in
+Hungary. International Journal of Food Microbiology, 127(1e2), 162e167.
+
+Olsen, J. E., Brown, D. J., Madsen, M., & Bisgaard, M. (2003). Cross-contamination
+with Salmonella on a broiler slaughterhouse line demonstrated by use of
+epidemiological markers. Journal of Applied Microbiology, 94(5), 826e835.
+
+Rahn, K., Degrandis, S. A., Clarke, R. C., McEwen, S. A., Galan, J. E., Ginocchio, C., et al.
+(1992). Ampliﬁcation of an invA gene sequence of Salmonella typhimurium by
+polymerase chain reaction as a speciﬁc method of detection of Salmonella.
+Molecular and Cellular Probes, 6(4), 271e279.
+
+Ribot, E. M., Fitzgerald, C., Kubota, K., Swaminathan, B., & Barrett, T. J. (2001). Rapid
+pulsed-ﬁeld gel electrophoresis protocol for subtyping of Campylobacter jejuni.
+Journal of Clinical Microbiology, 39(5), 1889e1894.
+
+Roy, P., Rawat, D., & Malik, S. (2015). A case of extended spectrum beta-lactamase
+producing Salmonella enterica serotype paratyphi A from India. Indian Journal
+of Pathology and Microbiology, 58(1), 113.
+
+Sandt, C. H., Fedorkacray, P. J., Tewari, D., Ostroff, S., Joyce, K., & M'iKanatha, N. M.
+(2013). A comparison of non-typhoidal Salmonella from humans and food an-
+imals using pulsed-ﬁeld gel electrophoresis and antimicrobial susceptibility
+patterns. Plos One, 8(10).
+
+Scallan, E., Hoekstra, R. M., Angulo, F. J., Tauxe, R. V., Widdowson, M.-A., Roy, S. L.,
+et al. (2011). Foodborne illness acquired in the United States-major pathogens.
+Emerging Infectious Diseases, 17(1), 7e15.
+
+Schmidt,
+
+J. W., Brichta-Harhay, D. M., Kalchayanand, N., Bosilevac,
+
+J. M.,
+Shackelford, S. D., Wheeler, T. L., et al. (2012). Prevalence, enumeration, sero-
+types, and antimicrobial resistance phenotypes of Salmonella enterica isolates
+from carcasses at two large United States pork processing plants. Applied and
+Environmental Microbiology, 78(8), 2716e2726.
+
+Shao, D., Shi, Z., Wei, J., & Ma, Z. (2011). A brief review of foodborne zoonoses in
+
+China. Epidemiology and Infection, 139(10), 1497e1504.
+
+Siriken, B., Türk, H., Yildirim, T., Durupinar, B., & Erol, I. (2015). Prevalence and
+characterization of Salmonella isolated from chicken meat in Turkey. Journal of
+Food Science, 80(5), M1044eM1050.
+
+Sivaramalingam, T., Pearl, D. L., McEwen, S. A., Ojkic, D., & Guerin, M. T. (2013).
+A temporal study of Salmonella serovars from ﬂuff samples from poultry
+breeder hatcheries in Ontario between 1998 and 2008. Canadian Journal of
+Veterinary Research-Revue Canadienne De Recherche Veterinaire, 77(1), 12e23.
+
+Tenover, F. C., Arbeit, R. D., Goering, R. V., Mickelsen, P. A., Murray, B. E.,
+Persing, D. H., et al. (1995). Interpreting chromosomal DNA restriction patterns
+produced by pulsed-ﬁeld gel electrophoresis: criteria for bacterial strain typing.
+Journal of Clinical Microbiology, 33(9), 2233e2239.
+
+Thai, T. H., & Yamaguchi, R. (2012). Molecular characterization of antibiotic-resistant
+Salmonella isolates from retail meat from markets in Northern Vietnam. Journal
+of Food Protection, 75(9), 1709e1714.
+
+White, D. G., Zhao, S., Simjee, S., Wagner, D. D., & McDermott, P. F. (2002). Anti-
+microbial resistance of foodborne pathogens. Microbes and Infection, 4(4),
+405e412.
+
+Yang, B. W., Cui, Y., Shi, C., Wang, J. Q., Xia, X. D., Xi, M. L., et al. (2014). Counts,
+serotypes, and antimicrobial resistance of Salmonella isolates on retail raw
+poultry in the People's Republic of China. Journal of Food Protection, 77(6),
+894e902.
+
+

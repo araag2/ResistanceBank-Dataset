@@ -1,0 +1,1042 @@
+International Journal of Food Microbiology 163 (2013) 14–18
+
+Contents lists available at SciVerse ScienceDirect
+
+International Journal of Food Microbiology
+
+j ou r n a l h o m e p a g e : w w w. e l s e v i e r . c o m / l o c a t e / i j f o o d mi c ro
+
+Short communication
+Prevalence and characterization of Salmonella species isolated from pigs, ducks and
+chickens in Sichuan Province, China
+Ruichao Li a,1, Jing Lai a,1, Yang Wang a, Shuliang Liu b, Yun Li c, Kunyao Liu d,
+Jianzhong Shen a, Congming Wu a,⁎
+a National Center for Veterinary Drug Safety Evaluation, College of Veterinary Medicine, China Agricultural University, Beijing 100193, China
+b College of Food Science, Sichuan Agricultural University, Ya'an 625014, China
+c Shijiazhuang Livestock Products Quality Inspection & Supervision Center, Shijiazhuang 050041, China
+d Department of Pharmaceuticals, China Institute of Veterinary Drugs Control, Beijing 100081, China
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 30 August 2012
+Received in revised form 7 January 2013
+Accepted 27 January 2013
+Available online 1 February 2013
+
+Keywords:
+Salmonella
+Antimicrobial resistance
+β-lactamase gene
+Class 1 integron
+Pulsed-ﬁeld gel electrophoresis
+
+This study aimed to analyze the prevalence of Salmonella isolated from different parts of the food production
+chain, and to characterize these isolates. A total of 165 Salmonella enterica isolates were identiﬁed from 1382
+samples taken from conventional farms, abattoirs and retail markets from 2010 to 2011 in Sichuan, China. The
+Salmonella isolates were assayed for serotype, antimicrobial susceptibility, prevalence of class 1 integrons and
+β-lactamase genes, and subtyped using pulsed-ﬁeld gel electrophoresis. Among these isolates, S. enterica sero-
+types Derby (76 isolates, 46%) and Typhimurium (16 isolates, 10%) were the most prevalent, and high antimicro-
+bial resistance rates were observed for tetracycline (77%), sulfamethoxazole/trimethoprim (43%), nalidixic acid
+(41%) and spectinomycin (41%). Class 1 integrons were detected in 21% of these isolates, and contained gene cas-
+settes dfrA12–aadA2, dfrA1–aadA1, dfrA1, blaPSE-1 and dfrA1/aadA2. blaOXA-1 was the most commonly identiﬁed
+β-lactamase gene (n=14), followed by blaTEM-1 (n=6), blaPSE-1 (n=4) and blaCMY-2 (n=1). A S. enterica sero-
+type Indiana isolate derived from chicken from a market was positive for both blaOXA-1 and blaCMY-2, and resistant
+to nine tested antibiotics. The PFGE patterns were diverse. Our ﬁndings indicated that most isolates from
+different sampling sites were phenotypically and genetically diverse, and Salmonella was widespread and
+may transmit along the food production chain from farm to market. Isolates with decreased susceptibility
+to ﬂuoroquinolones and extended-spectrum cephalosporins, which are used to ﬁght foodborne Salmonella,
+pose a serious threat to public health.
+
+© 2013 Elsevier B.V. All rights reserved.
+
+1. Introduction
+
+Salmonellosis, caused by Salmonella enterica, is a global foodborne
+disease of humans and livestock. Salmonella remains the major cause
+of foodborne hospitalizations worldwide (Scallan et al., 2011; Shao
+et al., 2011). Although there is an absence of ofﬁcial surveillance
+data for Salmonella in China, it is estimated that 22.2% of foodborne
+diseases are caused by Salmonella (Wang et al., 2007). Domestic ani-
+mals, especially poultry and pigs, are considered to be the major envi-
+ronmental reservoirs of Salmonella (Vo et al., 2006). The Salmonella
+serotypes isolated from farms have signiﬁcant overlap with those caus-
+ing illness in humans (Alcaine et al., 2006), suggesting that Salmonella
+from animals can be transmitted to humans via food chain.
+
+Abbreviations: PFGE, pulsed-ﬁeld gel electrophoresis; MDR, multidrug-resistant;
+MIC, minimum inhibitory concentration; GFN, Global Foodborne Infections Network.
+⁎ Corresponding author at: College of Veterinary Medicine, China Agricultural University,
+
+Beijing 100193, China. Tel.: +86 10 62733378; fax: +86 10 62731032.
+
+E-mail address: wucm@cau.edu.cn (C. Wu).
+
+1 The ﬁrst two authors contributed equally to this work.
+
+0168-1605/$ – see front matter © 2013 Elsevier B.V. All rights reserved.
+http://dx.doi.org/10.1016/j.ijfoodmicro.2013.01.020
+
+The issue of antimicrobial resistance in Salmonella poses a signiﬁcant
+threat to public health. β-lactams and ﬂuoroquinolones are two im-
+portant classes of antibiotics used to treat complicated cases of sal-
+monellosis (Gonzalez-Sanz et al., 2009). Resistance to third-generation
+cephalosporins is generally a result of production of extended-spectrum
+β-lactamases, mostly derived from β-lactamases or AmpC-type enzymes.
+Various β-lactamase genes have been detected worldwide in vari-
+ous serotypes, located in plasmids or integrons, facilitating rapid trans-
+mission among serotypes (Batchelor et al., 2005; Gonzalez-Sanz et al.,
+2009; Rayamajhi et al., 2008; Yang et al., 2010). Integrons are DNA ele-
+ments capable of capturing and mobilizing antimicrobial resistance
+genes among bacteria. The class I integron is the most common integron
+type identiﬁed in multidrug-resistant (MDR) Salmonella, and plays an
+important role in the dissemination of resistance genes among patho-
+gens (Wannaprasat et al., 2011).
+
+With the growth in consumption of food products of animal origin in
+China, there is an increased potential for exposure to Salmonella via the
+food chain. Unfortunately, most studies on the prevalence and charac-
+terization of Salmonella have focused on isolates from farms, abattoirs
+or food products in markets separately, not from the combination of
+
+R. Li et al. / International Journal of Food Microbiology 163 (2013) 14–18
+
+15
+
+these sites (Visscher et al., 2011; Yan et al., 2010; Yang et al., 2010).
+There is also very little research on the potential role of the food produc-
+tion chain in the dissemination of MDR Salmonella in China.
+
+In this study, we analyzed the prevalence, serotypes, antimicrobial
+resistance, β-lactamase genes and class 1 integrons of Salmonella iso-
+lated from farms, abattoirs and markets in Sichuan, China. The objec-
+tive of this study was to analyze the correlation between the MDR
+proﬁles, serotypes, β-lactamase genes, class 1 integrons and PFGE
+patterns of Salmonella isolated from different stages of the food pro-
+duction chain, and identify possible routes of Salmonella transmission.
+
+2. Materials and methods
+
+2.1. Isolation and identiﬁcation of Salmonella
+
+The sample collection was conducted in farms, abattoirs and mar-
+kets of pig, chicken and duck from June 2010 to May 2011 in Sichuan
+Province, Southwest China. The number of farms, abattoirs and markets
+are described in Table 1, and the number of samples in each farm, abat-
+toir or market was not constant and was proportional to the scale of
+production. At farms, rectal swabs were collected randomly from an in-
+dividual animal of different pigpens or coops. At abattoirs, carcasses
+were sampled by swabbing from rump to cheek along the surface of
+the carcass. At markets, carcass rinse samples (25 mL buffered peptone
+water) were collected for chicken and duck, and grounded meat sam-
+ples (25 g) were collected for pork. All the samples were collected ran-
+domly and every sampling site was visited only once. The sampling
+strategy was deﬁned according to previous researches (Kirchner et al.,
+2011; Visscher et al., 2011; Yang et al., 2010). A total of 1382 samples
+were collected. The samples were analyzed for Salmonella according
+to the method as described by Yan et al. (2010) with some modiﬁca-
+tions. Brieﬂy, 25 g (mL) of samples or swabbing cottons samples were
+placed into a sterile plastic bag containing 225 mL of buffered peptone
+water and shaken vigorously. The rinse was incubated at 37 °C in a
+shaking incubator at 120 rpm for 8 h, and then 1 mL of rinse was
+added to 10 mL selenite cysteine broth. Broths were incubated at
+37 °C for 24 h, followed by streaking of inoculum from the selenite
+cysteine broth onto CHROMagar Salmonella plates (CHROMagar, Paris,
+France) and incubating at 37 °C for 24 h. Isolates with typical pheno-
+type (mauve colony) were conﬁrmed by PCR using a previously de-
+scribed method (Rahn et al., 1992).
+
+2.2. Serotyping
+
+Salmonella isolates were serotyped by slide agglutination using
+commercially available antiserum (Tianrun Bio-Pharmaceutical, Ningbo,
+China), according to manufacturer's instructions.
+
+2.3. Antimicrobial susceptibility testing
+
+A standard broth microdilution method, as described by the Clinical
+and Laboratory Standards Institute (CLSI, 2009), was carried out to deter-
+mine the minimum inhibitory concentration (MIC) of the following ten
+antimicrobial agents: amoxicillin/clavulanic acid, ampicillin, ceftiofur,
+ciproﬂoxacin, ﬂorfenicol, gentamicin, nalidixic acid, spectinomycin,
+
+Table 1
+Prevalence of Salmonella in the food production chain.
+
+tetracycline and sulfamethoxazole/trimethoprim. Escherichia coli ATCC
+25922 was used as the quality control strain. Salmonella isolates resis-
+tant to more than two classes of antimicrobials were deﬁned as MDR
+isolates.
+
+2.4. Detection of class I integrons and β-lactamase genes
+
+The presence of the class I integron was detected by PCR targeting
+the class I integrase gene using previously described primers (Kerrn
+et al., 2002). Gene cassettes within the variable region of class I integron
+were then ampliﬁed as the described method (Sandvang et al., 1998).
+The PCR products were cloned into the pMD18-T vector using the
+pMD18-T cloning kit (Takara, Dalian, China), and submitted for sequenc-
+ing (Invitrogen, Beijing, China).
+
+The genes encoding β-lactamases were analyzed by PCR using
+primers listed in Table 2. The PCR conditions for the ﬁrst ﬁve pairs of
+primers were 94 °C for 5 min, 30 cycles of 94 °C for 30 s, 55 °C for 30 s,
+72 °C for 50 s, and a ﬁnal extension at 72 °C for 7 min. β-lactamase
+gene amplicons were sequenced, and then compared to the sequence da-
+tabase using the BLAST tool (http://www.ncbi.nlm.nih.gov/BLAST/).
+
+2.5. Pulsed-ﬁeld gel electrophoresis (PFGE)
+
+PFGE was performed using the protocol developed by the Centers for
+Disease Control and Prevention (Ribot et al., 2006). Brieﬂy, agarose-
+embedded DNA was digested with 50 U of XbaI, using Salmonella
+Braenderup H9812 as a reference strain. The restriction fragments
+were separated using a CHEF MAPPER XA pulsed ﬁeld electrophore-
+sis system (Bio-Rad Laboratories, Hercules, CA, USA). Gel images
+were analyzed using InfoQuest FP software (Bio-Rad Laboratories).
+Isolates were considered genetically related if the Dice correlation
+coefﬁcient was 80% or greater, according to Tenover's criterion (Tenover
+et al., 1995).
+
+3. Results and discussion
+
+3.1. Salmonella prevalence
+
+A total of 165 (12.0%) Salmonella isolates were identiﬁed from 1382
+samples (Table 1). Of these isolates, 71 (16.4%), 21 (10.7%) and 20
+(10.0%) samples were positive for Salmonella at pig farms, abattoirs and
+markets; 30 (28.3%) were positive for Salmonella at chicken markets,
+no Salmonella was isolated from samples of chicken farms and abattoirs;
+and 6 (12.2%), 10 (21.7%) and 7 (26.9%) were positive for Salmonella at
+duck farms, abattoir and markets. The prevalence of Salmonella in con-
+taminated food products in other regions of China was 9.4% in raw
+meat in 2001 (Wang et al., 2004), 13.1% in pork in 2002–2005 (Jiang
+et al., 2006), 18.1% in raw meat in 2005 (Yan et al., 2010), 36.1% in poul-
+try meat in 2007 (Cui et al., 2009a) and 44.0% in retail meat in
+2007–2008 (Yang et al., 2010). The isolation rate in other parts of the
+world was 12.4% in poultry meat in Spain (Alvarez-Fernandez et al.,
+2012), 29.3% in poultry meat in Turkey (Arslan and Eyi, 2010), 15.6% in
+broiler carcasses in EU (EFSA, 2010) and 35.3% in poultry meat in Mexico
+(Miranda et al., 2009). All those studies showed that Salmonella was
+widely distributed in retail meat globally, which increased salmonellosis
+
+Source of samples
+
+No. of total samples
+No. of positive samples (%)
+
+Pig
+
+Farm
+(n=3)a
+
+433
+71
+(16)
+
+Abattoir
+(n=3)
+
+Market
+(n=10)
+
+196
+21
+(11)
+
+200
+20
+(10)
+
+Chicken
+
+Farm
+(n=2)
+
+199
+0
+(0)
+
+Abattoir
+(n=2)
+
+127
+0
+(0)
+
+Market
+(n=5)
+
+106
+30
+(28)
+
+Duck
+
+Farm
+(n=1)
+
+49
+6
+(12)
+
+Abattoir
+(n=1)
+
+46
+10
+(22)
+
+Market
+(n=1)
+
+26
+7
+(27)
+
+Total
+
+1382
+165
+(12)
+
+a The numbers in parentheses indicate the number of farms, abattoirs and markets, respectively (n=No.).
+
+16
+
+R. Li et al. / International Journal of Food Microbiology 163 (2013) 14–18
+
+Table 2
+Primer sequences for β-lactamase resistance genes used in this study.
+
+Resistance
+gene
+
+Forward primer (5′→3′)
+Reverse primer (5′→3′)
+
+Amplicon
+(bp)
+
+Source
+
+blaTEM
+
+blaPSE
+
+blaCMY-2
+
+blaSHV
+
+blaDHA-1
+
+blaOXA
+
+blaCTX-M
+
+universal
+
+CAGCGGTAAGATCCTTGAGA
+TTCATCCATAGTTGCCTGACT
+GCTCGTATAGGTGTTTCCGTTT
+CGATCCGCAATGTTCCATCC
+ACAGAACAACAGATTGCCGATA
+TGTCGCTGCCGTTGATGA
+TTCGCCTGTGTATTATCTCC
+TTTGCTGATTTCGCTCGG
+GCCGTCTCCGTAAAGGGTAAGC
+GCCAGAATCACAATCGCCACCT
+ACCAGATTCAACTTTCAA
+TCTTGGCTTTTATGCTTG
+CGATGTGCAGTACCAGTAA
+AGTGACCAGAATCAGCGG
+
+661
+
+575
+
+856
+
+807
+
+926
+
+590
+
+585
+
+This study
+
+This study
+
+This study
+
+This study
+
+This study
+
+Guerra et al.
+(2001)
+Batchelor et al.
+(2005)
+
+following consumption of contaminated meat or cross-contamination in
+household. Data on the prevalence of Salmonella in different studies
+were difﬁcult to compare because the observed prevalence may be bi-
+ased by diversity in sampling methods, sampling seasons and technique.
+According to previous studies (Cui et al., 2009a; Yan et al., 2010; Yang
+et al., 2010), prevalence of Salmonella in China was widespread. In this
+study, the prevalence of Salmonella in chicken (28.3%) from markets
+was higher than that from abattoirs, indicating that poor hygiene can re-
+sult in wide-spreading of Salmonella in retail meat, the hygiene of mar-
+kets was very important.
+
+3.2. Serotyping and antimicrobial susceptibility testing
+
+Fourteen serotypes were identiﬁed among 129 Salmonella isolates,
+and 36 isolates were untypeable (Table 3). The top seven serotypes
+were Derby (n=76), Typhimurium (n=16), Potsdam (n=9), Give
+(n=6), Tshiongwe (n=4), Kottbus (n=4) and Saintpaul (n=3).
+The most commonly isolated serotype from different origins was
+Derby, which was the most common serotype isolated from infants
+and toddlers in China (Cui et al., 2009b). This suggests an association
+between Salmonella-contaminated food and salmonellosis. According
+to the Global Foodborne Infections Network (GFN) Country Databank
+of the World Health Organisation (http://www.who.int/gfn/activities/
+en/), Salmonella Derby was the main serotype identiﬁed in foodstuffs
+in China, which differed from ﬁndings in other countries, e.g. Salmonella
+
+Table 3
+Distribution of Salmonella serotypes of isolates from food production chain.
+
+Serotypes
+
+No. of isolates
+
+Source of isolatesa
+
+Pig
+
+Chicken
+
+Duck
+
+Derby
+Typhimurium
+Potsdam
+Give
+Tshiongwe
+Kottbus
+Saintpaul
+Agona
+Okefoko
+Indiana
+Choleraesuis
+Bury
+Braenderup
+Anatum
+Untyped
+
+76
+16
+9
+6
+4
+4
+3
+2
+2
+2
+2
+1
+1
+1
+36
+
+45F, 13A, 7M
+12F, 2A
+4F, 3M
+2A, 3M
+1F, 1A
+0
+2M
+1F
+2F
+0
+2M
+0
+1F
+1M
+5F, 3A, 2M
+
+8M
+2M
+1M
+1M
+1M
+4M
+1M
+1M
+0
+1M
+0
+0
+0
+0
+10M
+
+2F, 1M
+0
+1A
+0
+1F
+0
+0
+0
+0
+1A
+0
+1M
+0
+0
+3F, 8A, 5M
+
+a F, A and M stand for the strains isolated from farm, abattoir and market, respectively.
+
+Typhimurium in USA and Salmonella Infantis in Japan. According to the
+GFN and previous reports (Wang et al., 2004), Salmonella Derby was the
+predominant serotype isolated from foods of animal origin in China,
+while the main serotype isolated from humans was Salmonella
+Typhimurium (Deng et al., 2012). The difference in dominant serotypes
+between food producing animals and humans may be due to differences
+in pathogenicity of the two serotypes and their respective resistance
+proﬁles (Volf et al., 2010).
+
+Antimicrobial susceptibility testing of 165 S. enterica strains to
+ten antimicrobials was also performed (Table 4). High resistance
+rates were observed against tetracycline (MIC≥ 16 μg/mL, 77%),
+sulfamethoxazole/trimethoprim (MIC≥ 76/4 μg/mL, 43%), nalidixic
+acid (MIC≥ 32 μg/mL, 41%), spectinomycin (MIC≥ 64 μg/mL, 41%)
+and ampicillin (MIC≥ 32 μg/mL, 25%). The percentages of resis-
+tance to gentamicin (MIC≥ 16 μg/mL, 15%), amoxicillin/clavulanic
+acid (MIC≥ 32/16 μg/mL, 14%), ciproﬂoxacin (MIC≥ 4 μg/mL, 12%)
+and ﬂorfenicol (MIC≥ 16 μg/mL, 10%) were low, and most isolates
+were susceptible to ceftiofur (MIC≥ 8 μg/mL, 98%). Decreased sus-
+ceptibility to both ciproﬂoxacin (MIC > 0.12 μg/mL) and ceftiofur
+(MIC>2 μg/mL) was detected in four isolates from chickens (Salmonella
+Indiana and Salmonella Give) and ducks (Salmonella Indiana and
+untyped), and two Salmonella Indiana isolates showed resistance
+to nine antimicrobials. Co-resistance to ﬂuoroquinolones and extended-
+spectrum cephalosporins in these isolates would limit therapeutic op-
+tions for Salmonella infections (Whichard et al., 2007).
+
+When resistance proﬁles and serovars were compared (Table 5),
+there appeared to be an association between antimicrobial resis-
+tance and particular serotypes. Salmonella Typhimurium and Salmonella
+Indiana were more likely to be resistant to seven antimicrobials or
+more, but other serotypes showed diverse resistance proﬁles. This in-
+dicated that the spread of MDR isolates of Salmonella Typhimurium and
+Salmonella Indiana is potentially serious in China, which is in agreement
+with previously described ﬁndings (Yang et al., 2010).
+
+3.3. Prevalence of class 1 integrons and β-lactamase genes
+
+Class 1 integrons were detected in 34 Salmonella isolates, nine of
+which were negative for the resistance gene cassette. The remaining
+25 IntI1-positive Salmonella isolates contained ﬁve groups of resis-
+tance gene cassettes, consisting of dfrA12–aadA2 (2 k, n = 12),
+dfrA1–aadA1 (1.7 k, n = 1), dfrA1 (1.2 k, n = 4), blaPSE-1 (1.2 k,
+n = 3) and dfrA1/aadA2 (1.2 k/1 k, n=5). Four β-lactamase genes
+were detected among the isolates. blaOXA-1 was the most commonly iso-
+lated β-lactamase gene (n=14), followed by blaTEM-1 (n=6), bla-
+PSE-1(n=4) and blaCMY-2(n=1).
+
+All IntI1-positive isolates showed resistance to two or more classes
+of antibiotics. This high frequency of MDR among IntI1-positive iso-
+lates supports the hypothesis of an association between the presence
+of class 1 integrons and emerging MDR in Salmonella (Firoozeh et al.,
+2012; O'Mahony et al., 2006; Wannaprasat et al., 2011). The two main
+IntI1-positive serotypes were Typhimurium and Derby. All isolates
+containing a β-lactamase gene were resistant to ampicillin.
+
+Although blaCMY-2-producing Salmonella have been found in many
+countries (Li et al., 2007), the incidence of blaCMY-2-positive Salmonella
+in China was thought to be very low, with positive isolates previously
+only reported in Shandong and Shanxi Provinces (Yang et al., 2010;
+Zhang et al., 2008). In the current survey, a MDR Salmonella Indiana iso-
+late harboring both blaOXA-1 and blaCMY-2 exhibited resistance to all test-
+ed antimicrobials, except ciproﬂoxacin. To the best of our knowledge,
+this is the ﬁrst report of blaCMY-2-positive Salmonella in Sichuan, China.
+As one type of AmpC β-lactamase gene, blaCMY-2 encodes resistance to
+third-generation cephalosporins, which is an important class of antibi-
+otics used to treat complicated cases of salmonellosis (Gonzalez-Sanz
+et al., 2009). The spread of blaCMY-2-harboring Salmonella through food,
+especially animal-derived food, has important public health implications.
+
+R. Li et al. / International Journal of Food Microbiology 163 (2013) 14–18
+
+17
+
+Table 4
+Antimicrobial resistance prevalence (%) of Salmonella isolated from the food production chain.
+
+Antibioticsa
+
+All sources (165)
+
+Pig
+
+Chicken
+
+Duck
+
+AMC
+AMP
+CEF
+CIP
+FFC
+GEN
+NAL
+SPE
+SXT
+TET
+Percentage of MDR
+
+14
+26
+2
+12
+10
+15
+41
+41
+43
+77
+55
+
+Farm (71)
+
+Abattoir (21)
+
+Market (20)
+
+Market (30)
+
+Farm (6)
+
+Abattoir (10)
+
+Market (7)
+
+21
+25
+0
+20
+9
+23
+35
+34
+34
+89
+47
+
+10
+33
+0
+5
+14
+10
+29
+33
+38
+95
+48
+
+0
+10
+0
+0
+5
+5
+35
+50
+40
+85
+55
+
+13
+23
+3
+0
+10
+3
+47
+57
+47
+50
+67
+
+0
+33
+0
+17
+17
+17
+67
+33
+83
+83
+83
+
+0
+20
+10
+10
+10
+10
+70
+30
+70
+20
+70
+
+29
+57
+14
+29
+29
+29
+71
+57
+71
+71
+71
+
+a AMC, amoxicillin/clavulanic acid; AMP, ampicillin; CEF, ceftiofur; CIP, ciproﬂoxacin; FFC, ﬂorfenicol; GEN, gentamicin; NAL, nalidixic acid; SPE, spectinomycin; SXT, sulfameth-
+
+oxazole/trimethoprim; TET, tetracycline.
+
+Table 5
+Multidrug resistance (MDR) observed among Salmonella serotypes recovered from
+food production chain.
+
+3.4. PFGE
+
+Serotypes (no. of isolates)
+
+% Resistant to indicated number of antimicrobials
+
+Derby (n=76)
+Typhimurium (n=16)
+Potsdam (n=9)
+Give (n=6)
+Tshiongwe (n=4)
+Kottbus (n=4)
+Saintpaul (n=3)
+Agona (n=2)
+Okefoko (n=2)
+Indiana (n=2)
+Choleraesuis (n=2)
+Other serovars (n=39)
+
+1–3
+
+73
+19
+67
+33
+25
+50
+33
+50
+100
+0
+100
+46
+
+4–6
+
+7–8
+
+14
+0
+11
+0
+75
+0
+0
+0
+0
+0
+0
+10
+
+3
+69
+11
+33
+0
+0
+33
+0
+0
+0
+0
+21
+
+≥9
+0
+12
+0
+0
+0
+0
+0
+0
+0
+100
+0
+10
+
+Total resistance (≥1)
+90
+100
+89
+66
+100
+50
+66
+50
+100
+100
+100
+87
+
+All 165 isolates in this study were subjected to PFGE analysis. The
+resultant dendrogram of isolate patterns exhibited clusters with a
+high level of diversity; only the PFGE patterns of a small number of
+isolates from different parts in the food chain were genetically related
+(data not shown). Several reports have shown that clonal groups
+could be transmitted along the food chain and represent a hazard to
+human health (Hauser et al., 2011, 2012; Nogrady et al., 2008). The
+current study indicated that the phenomenon of Salmonella transmis-
+sion along the food chain does exist in Sichuan Province. The diversity
+of PFGE patterns in this study may be due to either of the two reasons:
+ﬁrst, different clones of Salmonella are distributed across different parts
+of the food chain in Sichuan Province; and second, that the samples col-
+lected were not correlative along the food chain.
+
+Fig. 1. Dendrogram of PFGE patterns of 22 Salmonella isolates containing gene cassettes. aP, C and D stand for the strains isolated from pig, chicken and duck, respectively. F, A and M
+stand for the strains isolated from farm, abattoir and market, respectively.
+
+18
+
+R. Li et al. / International Journal of Food Microbiology 163 (2013) 14–18
+
+Four clusters of PFGE patterns for 22 Salmonella isolates (the other
+three isolates were untypeable) containing gene cassettes are presented
+in Fig. 1. Clusters A, B and D corresponded to dfrA12–aadA2, dfrA1/aadA2
+and dfrA1–aadA1, respectively. Cluster C included two types of cassettes,
+dfrA1 and blaPSE-1. Isolate TF23 was isolated from a pig abattoir and
+belonged to cluster A, which mainly contained isolates from a pig farm.
+Isolate JP21 was isolated from a chicken market and belonged to cluster
+B, others of which were isolated from a pig abattoir. The PFGE results
+demonstrated that Salmonella can spread along the food production
+chain.
+
+In conclusion, food products of animal origin in markets in Sichuan
+Province, China, are contaminated with MDR Salmonella, which may orig-
+inate from farms further up the food chain, or from horizontal contami-
+nation. Keeping the food chain free of Salmonella is vital for preventing
+food infection caused by Salmonella, and the hygiene of retail meat
+is critical. The high rates of MDR Salmonella detected, IntI1 and bla-
+positive isolates suggest that measures to facilitate the reasonable
+use of antimicrobials in animal husbandry must be taken. Moreover,
+more research into the characteristics of dissemination of Salmonella
+and antibiotic resistance genes is warranted.
+
+Acknowledgments
+
+This work was supported by the National Natural Science Founda-
+tion of China (no. 30972216), the Special Fund for Agro-scientiﬁc Re-
+search in the Public Interest (201203040) and the Key Projects in the
+National Science & Technology Pillar Program during the Twelfth
+Five-year Plan Period (2012BAK01B02).
+
+References
+
+Alcaine, S.D., Soyer, Y., Warnick, L.D., Su, W.L., Sukhnanand, S., Richards, J., Fortes, E.D.,
+McDonough, P., Root, T.P., Dumas, N.B., Grohn, Y., Wiedmann, M., 2006. Multilocus se-
+quence typing supports the hypothesis that cow- and human-associated Salmonella
+isolates represent distinct and overlapping populations. Applied and Environmental
+Microbiology 72, 7575–7585.
+
+Alvarez-Fernandez, E., Alonso-Calleja, C., Garcia-Fernandez, C., Capita, R., 2012. Preva-
+lence and antimicrobial resistance of Salmonella serotypes isolated from poultry
+in Spain: comparison between 1993 and 2006. International Journal of Food Micro-
+biology 153, 281–287.
+
+Arslan, S., Eyi, A., 2010. Occurrence and antimicrobial resistance proﬁles of Salmonella
+
+species in retail meat products. Journal of Food Protection 73, 1613–1617.
+
+Batchelor, M., Hopkins, K., Threlfall, E.J., Clifton-Hadley, F.A., Stallwood, A.D., Davies,
+R.H., Liebana, E., 2005. bla(CTX-M) genes in clinical Salmonella isolates recovered
+from humans in England and Wales from 1992 to 2003. Antimicrobial Agents
+and Chemotherapy 49, 1319–1322.
+
+Clinical and Laboratory Standards Institute, 2009. Methods for dilution antimicrobial sus-
+ceptibility tests for bacteria that grow aerobically, CLSI Document M07-A8Approved
+Standard-Eighth Edition. CLSI, Wayne, PA.
+
+Cui, H.X., Zhang, X.L., Liao, X.G., Zhang, D., Hu, D., Zhang, M., Zhang, G.W., 2009a. Mon-
+itoring and analysis for food-borne pathogens in Henan in 2007. Chinese Journal of
+Health Laboratory Technology 19 (1), 173–175.
+
+Cui, S., Li, J., Sun, Z., Hu, C., Jin, S., Li, F., Guo, Y., Ran, L., Ma, Y., 2009b. Characterization of
+Salmonella enterica isolates from infants and toddlers in Wuhan, China. Journal of
+Antimicrobial Chemotherapy 63, 87–94.
+
+Deng, X., Ran, L., Wu, S., Ke, B., He, D., Yang, X., Zhang, Y., Ke, C., Klena, J.D., Yan, M.,
+Feng, Z., Kan, B., Liu, X., Mikoleit, M., Varma, J.K., 2012. Laboratory-based surveil-
+lance of non-typhoidal Salmonella infections in Guangdong Province, China.
+Foodborne Pathogens and Disease 9, 305–312.
+
+European Food Safety Authority, 2010. Analysis of the baseline survey on the preva-
+lence of Campylobacter in broiler batches and of Campylobacter and Salmonella on
+broiler carcasses in the EU, 2008, part A: Campylobacter and Salmonella prevalence
+estimates. EFSA Journal 8 (03), 1503.
+
+Firoozeh, F., Zahraei-Salehi, T., Shahcheraghi, F., Karimi, V., Aslani, M.M., 2012. Character-
+ization of class I integrons among Salmonella enterica serovar Enteritidis isolated from
+humans and poultry. FEMS Immunology and Medical Microbiology 64, 237–243.
+
+Gonzalez-Sanz, R., Herrera-Leon, S., de la Fuente, M., Arroyo, M., Echeita, M.A., 2009.
+Emergence of extended-spectrum beta-lactamases and AmpC-type beta-lactamases
+in human Salmonella isolated in Spain from 2001 to 2005. Journal of Antimicrobial
+Chemotherapy 64, 1181–1186.
+
+Guerra, B., Soto, S.M., Arguelles, J.M., Mendoza, M.C., 2001. Multidrug resistance is medi-
+ated by large plasmids carrying a class 1 integron in the emergent Salmonella enterica
+serotype [4,5,12:i:−]. Antimicrobial Agents and Chemotherapy 45, 1305–1308.
+
+Hauser, E., Hebner, F., Tietze, E., Helmuth, R., Junker, E., Prager, R., Schroeter, A., Rabsch,
+W., Fruth, A., Malorny, B., 2011. Diversity of Salmonella enterica serovar Derby iso-
+lated from pig, pork and humans in Germany. International Journal of Food Micro-
+biology 151, 141–149.
+
+Hauser, E., Tietze, E., Helmuth, R., Junker, E., Prager, R., Schroeter, A., Rabsch, W., Fruth, A.,
+Toboldt, A., Malorny, B., 2012. Clonal dissemination of Salmonella enterica serovar
+Infantis in Germany. Foodborne Pathogens and Disease 9, 352–360.
+
+Jiang, Z.L., Lv, S.L., Tang, Z.Z., Li, H., Wang, H., Chen, G., 2006. Surveillance of Salmonella
+in Food in Guangxi during 2002~2005. Practical Preventive Medicine 13 (5), 2006.
+Kerrn, M.B., Klemmensen, T., Frimodt-Moller, N., Espersen, F., 2002. Susceptibility of Danish
+Escherichia coli strains isolated from urinary tract infections and bacteraemia, and dis-
+tribution of sul genes conferring sulphonamide resistance. Journal of Antimicrobial
+Chemotherapy 50, 513–516.
+
+Kirchner, M., Marier, E., Miller, A., Snow, L., McLaren, I., Davies, R.H., Clifton-Hadley, F.A.,
+Cook, A., 2011. Application of variable number of tandem repeat analysis to track
+Salmonella enterica ssp. enterica serovar Typhimurium infection of pigs reared on
+three British farms through the production cycle to the abattoir. Journal of Applied
+Microbiology 111, 960–970.
+
+Li, X.Z., Mehrotra, M., Ghimire, S., Adewoye, L., 2007. Beta-Lactam resistance and beta-
+
+lactamases in bacteria of animal origin. Veterinary Microbiology 121, 197–214.
+
+Miranda, J.M., Mondragon, A.C., Martinez, B., Guarddon, M., Rodriguez, J.A., 2009. Prev-
+alence and antimicrobial resistance patterns of Salmonella from different raw foods
+in Mexico. Journal of Food Protection 72, 966–971.
+
+Nogrady, N., Kardos, G., Bistyak, A., Turcsanyi, I., Meszaros, J., Galantai, Z., Juhasz, A., Samu, P.,
+Kaszanyitzky, J.E., Paszti, J., Kiss, I., 2008. Prevalence and characterization of Salmonella
+infantis isolates originating from different points of the broiler chicken–human food
+chain in Hungary. International Journal of Food Microbiology 127, 162–167.
+
+O'Mahony, R., Quinn, T., Drudy, D., Walsh, C., Whyte, P., Mattar, S., Fanning, S., 2006. Antimi-
+crobial resistance in nontyphoidal Salmonella from food sources in Colombia: evidence
+for an unusual plasmid-localized class 1 integron in serotypes Typhimurium and
+Anatum. Microbial Drug Resistance-Mechanisms Epidemiology and Disease 12,
+269–277.
+
+Rahn, K., De Grandis, S.A., Clarke, R.C., McEwen, S.A., Galan, J.E., Ginocchio, C., Curtiss, R.R.,
+Gyles, C.L., 1992. Ampliﬁcation of an invA gene sequence of Salmonella typhimurium
+by polymerase chain reaction as a speciﬁc method of detection of Salmonella. Molec-
+ular and Cellular Probes 6, 271–279.
+
+Rayamajhi, N., Kang, S.G., Lee, D.Y., Kang, M.L., Lee, S.I., Park, K.Y., Lee, H.S., Yoo, H.S.,
+2008. Characterization of TEM-, SHV- and AmpC-type beta-lactamases from
+cephalosporin-resistant Enterobacteriaceae isolated from swine. International Jour-
+nal of Food Microbiology 124, 183–187.
+
+Ribot, E.M., Fair, M.A., Gautom, R., Cameron, D.N., Hunter, S.B., Swaminathan, B., Barrett, T.J.,
+2006. Standardization of pulsed-ﬁeld gel electrophoresis protocols for the subtyping of
+Escherichia coli O157:H7, Salmonella, and Shigella for PulseNet. Foodborne Pathogens
+and Disease 3, 59–67.
+
+Sandvang, D., Aarestrup, F.M., Jensen, L.B., 1998. Characterisation of integrons and an-
+tibiotic resistance genes in Danish multiresistant Salmonella enterica Typhimurium
+DT104. FEMS Microbiology Letters 160, 37–41.
+
+Scallan, E., Hoekstra, R.M., Angulo, F.J., Tauxe, R.V., Widdowson, M.A., Roy, S.L., Jones,
+J.L., Grifﬁn, P.M., 2011. Foodborne illness acquired in the United States—major
+pathogens. Emerging Infectious Diseases 17, 7–15.
+
+Shao, D., Shi, Z., Wei, J., Ma, Z., 2011. A brief review of foodborne zoonoses in China. Ep-
+
+idemiology and Infection 139, 1497–1504.
+
+Tenover, F.C., Arbeit, R.D., Goering, R.V., Mickelsen, P.A., Murray, B.E., Persing, D.H.,
+Swaminathan, B., 1995. Interpreting chromosomal DNA restriction patterns pro-
+duced by pulsed-ﬁeld gel electrophoresis: criteria for bacterial strain typing. Jour-
+nal of Clinical Microbiology 33, 2233–2239.
+
+Visscher, C.F., Klein, G., Verspohl, J., Beyerbach, M., Stratmann-Selke, J., Kamphues, J.,
+2011. Serodiversity and serological as well as cultural distribution of Salmonella
+on farms and in abattoirs in Lower Saxony, Germany. International Journal of
+Food Microbiology 146, 44–51.
+
+Vo, A.T., van Duijkeren, E., Fluit, A.C., Heck, M.E., Verbruggen, A., Maas, H.M., Gaastra,
+W., 2006. Distribution of Salmonella enterica serovars from humans, livestock and
+meat in Vietnam and the dominance of Salmonella Typhimurium phage type 90.
+Veterinary Microbiology 113, 153–158.
+
+Volf, J., Havlickova, H., Hradecka, H., Ondrackova, P., Matiasovic, J., Faldyna, M.,
+Rychlik, I., 2010. Epidemiology and interaction of Salmonella enterica serovar Derby,
+Infantis and Typhimurium with porcine alveolar macrophages. Veterinary Microbiol-
+ogy 146, 105–110.
+
+Wang, M., Ran, L., Wang, Z., Li, Z., 2004. Study on national active monitoring for food borne
+pathogens and antimicrobial resistance in China 2001. Wei Sheng Yan Jiu 33, 49–54.
+Wang, S.J., Duan, H.L., Zhang, W., Li, J.W., 2007. Analysis of bacterial foodborne disease
+outbreaks in China between 1994 and 2005. FEMS Immunology and Medical Mi-
+crobiology 51, 8–13.
+
+Wannaprasat, W., Padungtod, P., Chuanchuen, R., 2011. Class 1 integrons and virulence
+genes in Salmonella enterica isolates from pork and humans. International Journal
+of Antimicrobial Agents 37, 457–461.
+
+Whichard, J.M., Gay, K., Stevenson, J.E., Joyce, K.J., Cooper, K.L., Omondi, M., Medalla, F.,
+Jacoby, G.A., Barrett, T.J., 2007. Human Salmonella and concurrent decreased sus-
+ceptibility to quinolones and extended-spectrum cephalosporins. Emerging Infec-
+tious Diseases 13, 1681–1688.
+
+Yan, H., Li, L., Alam, M.J., Shinoda, S., Miyoshi, S., Shi, L., 2010. Prevalence and antimicro-
+bial resistance of Salmonella in retail foods in northern China. International Journal
+of Food Microbiology 143, 230–234.
+
+Yang, B., Qu, D., Zhang, X., Shen, J., Cui, S., Shi, Y., Xi, M., Sheng, M., Zhi, S., Meng, J., 2010.
+Prevalence and characterization of Salmonella serovars in retail meats of market-
+place in Shaanxi, China. International Journal of Food Microbiology 141, 63–72.
+
+Zhang, Y.N., Peng, J., Wang, Q., Pei, Z.F., Zhang, W.J., Niu, Z.X., 2008. Appearance of
+blaCMY-2) gene-positive Salmonella isolates of pig origin in China. International
+Journal of Antimicrobial Agents 31, 292–293.
+
+

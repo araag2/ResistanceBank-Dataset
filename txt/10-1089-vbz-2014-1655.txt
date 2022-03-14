@@ -1,0 +1,1072 @@
+VECTOR-BORNE AND ZOONOTIC DISEASES
+Volume 15, Number 2, 2015
+ª Mary Ann Liebert, Inc.
+DOI: 10.1089/vbz.2014.1655
+
+Molecular Characterization of Staphylococcus aureus
+
+from Nasal Samples of Healthy Farm Animals
+
+and Pets in Tunisia
+
+Haythem Gharsa,1 Karim Ben Slama,1,2 Elena Go´ mez-Sanz,3,4 Carmen Lozano,3 Myriam Zarazaga,
+
+Lilia Messadi,5, Abdellatif Boudabous,1 and Carmen Torres 4
+
+Abstract
+
+A total of 261 healthy farm and pet animals (75 cattle, 52 goats, 100 dogs, and 34 cats) from different regions of
+Tunisia were screened for Staphylococcus aureus nasal carriage. Molecular typing of isolates (by spa- and
+multilocus sequence-typing) was performed, and their antimicrobial resistance and virulence genotypes were
+determined by PCR and sequencing. S. aureus isolates were detected in 17 of 261 tested samples (6.5%). All
+S. aureus isolates recovered were methicillin-susceptible (MSSA), and one isolate/sample was further studied.
+Eight different spa types were detected (t189, t279, t582, t701, t1166, t1268, t1534, and t1773), and eight
+different sequence types were identiﬁed (ST6, ST15, ST45, ST133, ST188, ST700 [clonal complex CC130],
+ST2057, and a new ST2121). MSSA from pets (six isolates) showed resistance to (number of isolates, resistance
+gene): penicillin (six, blaZ), tetracycline (one, tet[M]), erythromycin one, erm[A]), streptomycin (one, ant[6]-
+Ia), and ciproﬂoxacin (one). All isolates from farm animals showed susceptibility to the tested antimicrobials,
+except for two penicillin-resistant isolates. Five S. aureus isolates from goats and cats harbored the lukF/lukS-
+PV genes, encoding the Panton–Valentine leukocidin, and six isolates from goats harbored the tst virulence
+gene. In addition, diverse combinations of enterotoxin genes were detected, including two variants of the egc
+cluster. Goats and cats could represent a reservoir of important toxin genes, with potential implications in
+animal and human health.
+
+Key Words: Animals—Nasal carriage— Panton–Valentine leukocidin (PVL)—Staphylococcus aureus—toxic
+shock syndrome toxin (TSST-1)—Tunisia.
+
+Introduction
+
+S taphylococcus aureus is a common nasal and skin
+
+colonizer of healthy humans and of different animal
+species. However, it is also one of the most important op-
+portunistic pathogens responsible for a variety of infections
+in both humans and animals. It is frequently associated with
+mastitis in cattle, sheep, and goats, causing chronic infections
+in cows and clinical and subclinical infections in goats and
+sheep. Most infections in pets usually involve skin and other
+soft tissues, with postoperative infections of surgical wounds
+being very common (Peton et al. 2013).
+
+S. aureus is able to produce numerous adhesins and viru-
+lence factors that facilitate cell invasion and bacterial growth,
+and they are associated with the severity of S. aureus infec-
+tions. One of these virulence factors is the Panton–Valentine
+leukocidin (PVL), a cytotoxin that causes leukocyte de-
+struction and tissue necrosis related to staphylococcal skin
+and pulmonary infections. Other important virulence factors
+are the toxic shock syndrome toxin (TSST-1) and staphylo-
+coccal enterotoxins (SEs) responsible for food poisoning
+(Argudin et al. 2010, Zecconi and Scali 2013). It is also im-
+portant to consider the capacity of S. aureus to acquire an-
+tibiotic resistance; therefore, methicillin-resistant S. aureus
+
+1Laboratoire des Microorganismes et Biomole´cules Actives, Faculte´ des Sciences de Tunis, Universite´ Tunis-El Manar, Tunis, Tunisia.
+2Higher Institute of Applied Biological Sciences of Tunis, University of Tunis El Manar, Tunis, Tunisia.
+3A´ rea de Bioquı´mica y Biologı´a Molecular, Universidad de La Rioja, Logron˜o, Spain.
+4Environmental Genomics and Systems Biology Research Group, Institute of Natural Resource Sciences, Zurich University of Applied
+
+Sciences (ZHAW) Wa¨denswil, Switzerland.
+
+5National School of Veterinary Medicine, Universite´ de La Manouba, Sidi Thabet, Tunisia.
+
+109
+
+110
+
+GHARSA ET AL.
+
+(MRSA) represents a major therapeutic problem with an
+increasing frequency in severe infections.
+
+The epidemiology and ecology of this bacterial species in
+animals has gained interest in the last years, not only for its
+importance in veterinary medicine but also for increasing
+evidence of its zoonotic potential. The presence of S. aureus
+in animals plays an important role in its epidemiology, and
+contact with positive animals, especially MRSA carriers,
+may pose a risk to human health (Weese 2010, Graveland
+et al. 2011, Fitzgerald 2012). Animal-associated clonal lin-
+eages of S. aureus are emerging, as it is the case of MRSA
+ST398 among farm animals, mainly pigs, or CC97 among
+bovines (Fitzgerald 2012). People exposed to livestock have
+a greater risk of colonization and subsequently of infection.
+Molecular typing techniques have demonstrated that isolates
+from pets usually show similar characteristics to those of the
+human isolates of the same geographic region (Haenni et al.
+2012). Cases of S. aureus transmission between humans and
+animals have increasingly been reported (Van Duijkeren
+et al. 2005, Vitale et al. 2006, Fitzgerald 2012, Walther et al.
+2012, Go´mez-Sanz et al. 2013).
+
+During last decade, most studies on S. aureus in humans
+and animals have focused on the molecular epidemiology of
+MRSA. Recently, there have been an increasing number of
+studies focused on clonal lineages of methicillin-susceptible
+S. aureus (MSSA) in different countries. It is thought that
+MRSA emerged by the acquisition of mecA or mecC genes in
+MSSA and, for that, it is highly interesting to study the clones
+and the characteristics of MSSA strains in diverse ecosys-
+tems. Thus, we will be able to know more about the evolution
+of this microorganism.
+
+The objective of this study was to determine the nasal
+carriage of S. aureus in healthy farm and pet animals in Tu-
+nisia, to carry out the molecular typing of recovered isolates,
+and to determine their content in antimicrobial resistance and
+virulence genes.
+
+Materials and Methods
+
+Sampling and microbiological isolation
+
+Nasal swabs of 127 healthy farm animals (75 cattle and 52
+goats) were obtained during 2010–2011 from two farms of
+the north and central region of Tunisia and one abattoir of
+Tunis (Tunisia) that received cattle and goats from the entire
+country. In addition, nasal samples of 134 healthy pets (100
+dogs and 34 cats) were obtained in the National School of
+Veterinary Medicine of Sidi Thabet and in two veterinary
+clinics of Tunis. These animals came from Tunis and several
+regions around Tunis and were brought in by their owners for
+vaccination. The ARRIVE (Animal Research: Reporting of
+In Vivo Experiments) guidelines were followed in this study.
+
+The origin of the 261 samples is shown in Table 1. All nasal
+swabs were incubated in tryptone soy broth (TSB) and later
+subcultured on Baird–Parker (BP) agar and on oxacillin-
+resistance screening agar base (ORSAB) supplemented
+with oxacillin (2 mg/L) for S. aureus and MRSA recovery,
+respectively. Plates were incubated at 37°C for 24–48 h.
+One S. aureus–suspected colony per positive plate was
+selected and identiﬁed by conventional methods (Gram-
+staining, catalase test, oxidase test, DNase production, and
+ability to coagulate rabbit plasma [BioRad]). S. aureus
+identiﬁcation and methicillin resistance/susceptibility were
+then conﬁrmed by ampliﬁcation of the species-speciﬁc nuc
+gene and the mecA gene by multiplex PCR (Gharsa et al.
+2012a). No clinical studies or patient data were included in
+this study.
+
+Antimicrobial susceptibility testing
+
+Susceptibility to 18 antimicrobial agents was performed
+using the disk-diffusion method in accordance with the
+Clinical and Laboratory Standards Institute (CLSI) recom-
+mendations (Clinical and Laboratory Standards Institute
+2012). Antimicrobial agents tested were (charge in lg/disk,
+except unit/disk for penicillin): Penicillin (10), oxacillin (1),
+cefoxitin (30), kanamycin (30), gentamicin (10), tobramycin
+(10), tetracycline (30), chloramphenicol (30), trimethoprim–
+sulfamethoxazole (1.25/23.75), erythromycin (15), clin-
+damycin (2), amikacin (30), ciproﬂoxacin (5), mupirocin (5),
+vancomycin (30), teicoplanin (30), fusidic acid (10), and
+streptomycin (10).
+
+Detection of antimicrobial resistance genes
+
+The presence of several genes that confer resistance to
+penicillin (blaZ), tetracycline (tet[K], tet[L], tet[M], and
+tet[O]), macrolides/lincosamides (erm[A], erm[B], erm[C]),
+and streptomycin (ant[6]-Ia) was analyzed by PCR (Gharsa
+et al. 2012a). In addition, isolates that belonged to the lineage
+CC130 were tested for the presence of the novel mecC gene
+(formerly named mecALGA251) (Cuny et al. 2011, Garcı´a-
+Alvarez et al. 2011).
+
+Pulsed-ﬁeld-gel-electrophoresis
+
+All S. aureus isolates were characterized by pulsed-ﬁeld-
+gel-electrophoresis (PFGE) with SmaI restriction enzyme
+digestion as previously described (Bouzaiane et al. 2008).
+Samples were run on a 1% agarose gel in 0.5 · Tris-borate-
+EDTA (TBE) buffer at 14°C on a CHEF DR-II PFGE system
+using switching times ranging from 5 to 40 s during 20 h at
+6 V/cm. The DNA ﬁngerprints generated by PFGE were
+analyzed visually and digitally according to Tenover criteria
+
+Table 1. Origin and Number of Animals Tested in This Study for S. aureus Recovery
+
+Animal
+
+Farm 1
+
+Farm 2
+
+Abattoir
+
+NSVMa
+
+Clinic 1
+
+Clinic 2
+
+Total
+
+Cow
+Goat
+Dog
+Cat
+
+22
+—
+—
+—
+
+—
+52
+—
+—
+
+aNational School of Veterinary Medicine.
+
+53
+—
+—
+—
+
+—
+—
+80
+16
+
+—
+—
+11
+14
+
+—
+—
+9
+4
+
+75
+52
+100
+34
+
+S. aureus FROM HEALTHY FARM ANIMALS AND PETS
+
+111
+
+(Tenover et al. 1995) and by Gel-Pro v. 3.1 software, re-
+spectively. The obtained results were submitted to MVSP
+software generating a dendrogram according to simple
+matching coefﬁcient and the unweighted pair group method
+with arithmetic mean (UPGMA) algorithm.
+
+Other molecular typing methods of S. aureus isolates
+
+S. aureus protein A (spa) typing was performed in all
+S. aureus isolates as described elsewhere (Harmsen et al.
+2003). The polymorphic X region of the spa gene was am-
+pliﬁed by PCR, and sequences were analyzed using Ridom
+Staph-Type software v.1.5.21 (Ridom GmbH), which auto-
+matically detects spa repeats and assigns a spa type according
+to http://spaserver.ridom.de/. The identiﬁcation of the allele
+group of the accessory gene regulator locus (agr) was de-
+termined by two duplex PCRs, as previously described
+(Shopsin et al. 2003).
+
+Multilocus sequence typing (MLST) was performed in all
+S. aureus isolates detected. The allelic proﬁle of each isolate
+was obtained by sequencing internal fragments of seven
+unlinked housekeeping genes (arcC, aroE, glpF, gmk, pta,
+tpi, and yqiL) to determine the sequence type (ST) and clonal
+complex (CC) assigned by MLST and BURST (Based Upon
+Related Sequence Types) analyses (www.mlst.net).
+
+Detection of staphylococcal toxin genes
+
+All isolates were tested by PCR for the presence of 18
+genes coding for staphylococcal enterotoxins (sea, seb, sec,
+sed, see, seg, seh, sei, sej, sek, sel, sem, sen, seo, sep, seq, ser,
+and seu). The presence of the enterotoxin gene cluster egc
+was considered when ﬁve SE genes (seg, sei, sem, sen, and
+seo) were detected; the egc-like cluster included six SE genes
+(seg, sei, sem, sen, seo, and seu) ( Jarraud et al. 2001, Hwang
+et al. 2007).
+
+Isolates were also screened for the presence of tst gene
+encoding the TSST-1 (Jarraud et al. 2002), lukF/lukS-PV
+genes encoding PVL, lukE-lukD genes encoding the bicom-
+ponent leukotoxin LukE-LukD, lukM gene encoding leuko-
+cidin M, as well as eta and etb genes encoding exfoliative
+toxins A and B, respectively, and genes encoding hemolysins
+A, B, D, G, and Gv ( Jarraud et al. 2001, Lozano et al. 2011).
+
+Results
+
+Field survey results for S. aureus isolates
+from healthy animals
+
+To isolate S. aureus from nasal samples, each enrichment
+culture of nasal swabs was subcultured on BP medium. At
+48 h postinoculation, S. aureus-like colonies were identiﬁed
+in 17 of the 261 nasal samples (6.5%), including 10 goats
+(19.2%), four dogs (4%), two cats (5.9%), and one cow
+(1.3%). From each putative S. aureus–positive sample, one
+S. aureus–like colony was selected and further tested for
+identiﬁcation of the species using both conventional methods
+and a species-speciﬁc PCR method, as described in Materials
+and Methods. All 17 isolates were conﬁrmed as S. aureus and
+all of them were MSSA.
+
+The enrichment cultures of nasal swabs were also tested
+for MRSA recovery by inoculating to ORSAB plates. No
+staphylococcal colonies were detected on ORSAB plates for
+all samples tested.
+
+Characteristics of S. aureus isolates detected
+in healthy farm animals
+
+S. aureus isolates were recovered from 11 of the 127 tested
+samples (8.7%) of farm animals. These isolates were recov-
+ered from 10 goat samples and one cow sample. The char-
+acteristics of the 11 MSSA recovered isolates are shown in
+Table 2. Four different spa types were detected among these
+S. aureus isolates (t1534, t1268, t1773, and t1166), and four
+different STs were identiﬁed by MLST (ST2057, ST45,
+ST700, and ST133). The STs detected among these MSSA
+isolates of farm animals were classiﬁed into four clonal
+complexes: CC522 (four isolates), CC45 (three isolates),
+CC130 (three isolates), and CC133 (one isolate). Typing of
+the agr locus showed that S. aureus isolates were ascribed to
+agr type I (eight isolates), to agr type II (two isolates), and to
+a nontypeable agr (one isolate).
+
+Analysis of SmaI macrorestriction proﬁles of the 11 MSSA
+isolates revealed ﬁve different PFGE patterns (P1–P5) (Fig. 1
+and Table 2).
+
+Two isolates from goat samples showed resistance to
+penicillin (with the bla[Z] gene), and the remaining isolates
+from farm animal samples were susceptible to all tested an-
+timicrobial agents. The three MSSA isolates that belonged to
+the clonal complex CC130 were tested by PCR for the mecC
+gene, obtaining a negative result.
+
+Three S. aureus isolates from goats harbored the lukF/lukS-
+PV genes and six isolates presented the tst gene. Other virulence
+genes carried by MSSA isolates were (number of isolates): hla
+(eleven), hlb (eight), hld (eleven), hlg (three), hlgv (three),
+lukED (eight), lukM (six), sec (six), sed (two), seg (one), sei
+(one), sej (three), sel (nine), ser (four), and egc-like cluster: seg-
+sei-sem-sen-seo-seu (three) (Table 2). The remaining PCR vir-
+ulence genes tested were negative among these isolates.
+
+Characteristics of S. aureus isolates detected
+in healthy pets
+
+S. aureus isolates were recovered from six of the 134 tested
+samples of healthy pets (4.5%), obtained from four dogs and
+two cats, all of them of the National School of Veterinary
+Medicine. The characteristics of the six MSSA isolates from
+pet animals are shown in Table 2. Four different spa types
+were detected among these isolates (t189, t279, t582, and
+t701), and four STs were also identiﬁed by MLST (ST6,
+ST15, ST188, and a new ST registered as ST2121). ST2121
+showed the allelic proﬁle numbered as follows: arcc(2)-
+aroe(2)-glpf(2)-gmk(2)-pta(7)-tpi(3)-yqil(2). The sequence
+types detected among these S. aureus isolates of pet animals
+were classiﬁed into three clonal complexes: CC5 (three iso-
+lates), CC15 (two isolates), and CC30 (which enclosed the
+new ST2121). Typing of the agr locus showed that S. aureus
+isolates were ascribed to agrI (four isolates), agrII (one iso-
+late), and agrIII (one isolate).
+
+Analysis of SmaI macrorestriction proﬁles of the six MSSA
+isolates revealed four different PFGE patterns (P6–P9), and
+three subtypes in pulsotype P7 (P7a–P7c) (Fig. 1 and Table 2).
+The three isolates with closely related PFGE patterns corre-
+sponded to those typed as ST6, spa type t701, and agrI, and
+they were recovered from two unrelated dogs and one cat.
+
+All MSSA isolates showed penicillin resistance (harboring
+the blaZ gene); one isolate also exhibited tetracycline and
+erythromycin resistance (with the tet[M] and erm[A] genes),
+
+112
+
+GHARSA ET AL.
+
+Table 2. Characteristics of the 17 S. aureus Recovered from Nasal Samples
+
+of Farm and Pet Animals in This Study
+
+Number
+of isolates
+
+Origina
+
+spa-type
+
+MLST
+ST/CC agr PFGE PVL tst
+
+Other toxin genes
+
+detectedb
+
+Phenotype
+
+Resistance
+
+genes
+
+Antimicrobial resistanceb
+
+4
+
+3
+
+2
+
+1
+
+1
+
+1
+
+1
+
+2
+
+1
+
+1
+
+Goat/F2
+
+t1534
+
+Goat/F2
+
+t1268
+
+Goat/F2
+
+t1773
+
+Cow/A
+
+t1773
+
+Goat/F2
+
+t1166
+
+Cat/NSVM t279
+
+Cat/NSVM t701
+
+Dog/NSVM t701
+
+Dog/NSVM t582
+
+Dog/NSVM t189
+
+ST2057/
+CC522
+
+ST45/
+CC45
+ST700/
+CC130
+
+ST700/
+CC130
+ST133/
+CC133
+ST15/
+CC15
+ST6/
+CC5
+ST6/
+CC5
+ST2121d/
+CC30
+
+ST188/
+CC15
+
+I
+
+I
+
+P1
+
+P2
+
+III P3
+
+NT P4
+
+I
+
+II
+
+I
+
+I
+
+P5
+
+P6
+
+P7a
+
+P7b, P7c
+
+III P8
+
+I
+
+P9
+
+-
+
++
+
+-
+
+-
+
+-
+
++
+
++
+
+-
+
+-
+
+-
+
++ hla, hlb, hld, lukED,
+
+lukM, sec, sed1,seg1,
+sei1, sej3,sel
+
+- hla, hld, hlg, hlgv,
+sel,ser1, egc-likec
++ hla, hlb, hld, lukM,
+lukED, sec, sed1,
+sel, ser1
+
+- hla, hlb, hld, lukED
+
+PEN2
+
+bla(Z)2
+
+- hla, hlb, hld, lukED,
+
+ser
+
+- hla, hld, lukED, sei
+
+PEN-CIP
+
+bla(Z)
+
+- hla, hlb, hld, lukED,
+
+sea, ser
+
+- hla, hlb, hld, lukED,
+
+PEN
+
+PEN
+
+sea, see, ser
+
+- hla, hld, hlg, hlgv,egcv
+
+c PEN-
+
+TET-ERY
+
+bla(Z)
+
+bla(Z)
+
+bla(Z),
+
+tet(M),
+erm(A)
+
+- hla, hlb, hld, lukED,
+
+ser
+
+PEN-STR
+
+bla(Z),
+
+ant(6)-Ia
+
+aAnimal type and location indicated.
+bWhen only some of the isolates of the group presented the gene, the number is indicated as a superscript.
+cegc-like include seg, sei, sem, sen, seo and seu; egcv includes seg, sei, sem, sen, and seu.
+f New ST detected.
+MLST, multilocus sequence typing; ST, sequence type; CC, clonal complex; PFGE, pulsed-ﬁeld gel electrophoresis; PVL, Panton–
+Valentine leukocidin; F2, farm 2; PEN, penicillin; A, abattoir; NT, nontypeablel; NSVM, National School of Veterinary Medicine; CIP,
+ciproﬂoxacin; TET, tetracycline; ERY, erythromycin; STR, streptomycin.
+
+FIG. 1. Dendrogram of pulsed-ﬁeld gel electrophoresis SmaI patterns among 17 Staphylococcus aureus isolates recovered
+in this study, generated by GelCompar II software using the unweighted pair group method with arithmetic mean (UPGMA)
+algorithm and the Dice similarity coefﬁcients.
+
+S. aureus FROM HEALTHY FARM ANIMALS AND PETS
+
+113
+
+and one additional isolate presented streptomycin resistance
+(containing the ant[6]-Ia gene) (Table 2).
+
+The two S. aureus isolates from cats harbored the lukF/
+lukS-PV genes encoding the PVL. Other virulence genes
+carried by MSSA from pets were (number of isolates): hla
+(six), hlb (four), hld (six), hlg (one), hlgv (one), lukED (ﬁve),
+sea (three), see (two), sei (two), ser (four), and an egc cluster
+variant that included the seg-sei-sem-sen-seu genes (one)
+(Table 2). The remaining virulence genes tested were nega-
+tive among these isolates from pets.
+
+Discussion
+
+A relatively low recovery rate of S. aureus isolates was
+detected among nasal samples of healthy animals in this study
+(6.5%), with different rates depending on the animal species.
+However, MRSA was not detected in the analyzed samples. To
+our knowledge, this is the ﬁrst study of this type performed in
+Tunisia. Higher S. aureus nasal carriage rates in goats ( > 64%)
+and cows (7.5%) were identiﬁed by others in Norway, Canada,
+or Denmark (Barbour et al. 1997, Mork et al. 2010, Eriksson
+et al. 2013). Regarding pets, a study performed in Canada
+showed a rate of 14% in dogs and 4.3% in cats, MRSA being
+detected in 1.5% of analyzed dogs (Hanselman et al. 2009).
+Other studies carried out in healthy pets detected a rate of 8.8%
+in China (four) and 12% in Spain (Go´mez-Sanz et al. 2013).
+However, lower values have been also detected in other studies
+(Wan et al. 2011). These different carriage rates might be due
+to the different animal population studied or to the employed
+methodologies, among other factors.
+
+The high diversity of genetic lineages of S. aureus detected
+among farm animals and pets is noteworthy. In these terms,
+the results of molecular typing by MLST, PFGE, and spa
+typing (Table 2 and Fig. 1) exhibited elevated variability.
+Higher diversity in the different molecular typing approaches
+has been previously shown in MSSA isolates in comparison
+with MRSA (Grundmann et al. 2010).
+
+Four STs distributed in four CCs were identiﬁed among
+our S. aureus isolates from goat and bovine samples. Lineage
+ST700 detected in three MSSA isolates (from two goats and
+one cow) belonging to CC130, which was mainly related to
+bovine animals. However, this ST has been also identiﬁed in
+goats (Smyth et al. 2009, Porrero et al. 2012, Eriksson et al.
+2013). It is important to remark that our CC130 isolates did
+not harbor the recently described mecC gene. This gene was
+ﬁrst described in MRSA (mecA negative) of this lineage in
+cattle in 2011 (Garcı´a-Alvarez et al. 2011), and since then
+several studies have reported its presence in MRSA of a wide
+range of mammal species in Europe, the majority of them be-
+longing to the same lineage (Cuny et al. 2011, Paterson et al.
+2012). Alternatively, the clonal complex CC522, also detected
+in isolates from goats in our study, had previously been iden-
+tiﬁed in samples of this animal species in Spain (Porrero et al.
+2012). CC133, detected in one MSSA from goats, is considered
+as one of the major small-ruminant lineages (Guinane et al.
+2010, Eriksson et al. 2013). The three PVL-positive MSSA from
+goats belonged to the clonal complex CC45 and to the agr type
+I, characteristics previously detected among human MRSA
+strains (Seidl et al. 2011). A possible human origin of this clonal
+complex has been previously suggested (Sobral et al. 2012).
+
+The four STs identiﬁed among MSSA from pets were
+distributed in three different CCs, as is the case of CC5,
+
+CC15, and CC30. The presence of S. aureus that belongs to
+CC5 among pets is becoming unexceptional (Haenni et al.
+2012, Walther et al. 2012), and its presence in other animals
+as poultry is commonly observed (Hasman et al. 2010). The
+clonal complex CC15, identiﬁed in two MSSA isolates in our
+study (one dog and one cat), has been recently described in
+MSSA of pets in France and in a recent study on S. aureus
+of donkeys in Tunisia (Gharsa et al. 2012a, Sobral et al. 2012).
+In addition, a new ST belonging to CC30 was identiﬁed
+(ST2121). This CC is one of the predominant hospital- and
+community-associated MRSA clones, and MSSA isolates of
+this lineage have also been described (Monecke et al. 2011), its
+presence in swine isolates being also unexceptional (Hasman
+et al. 2010). These data and our results illustrate the spread of
+S. aureus human lineages among different animal species.
+
+The detection of PVL-positive MSSA isolates in farm
+animals (6% of tested goats) and pets (6% of tested cats) is of
+relevance due to the important role that this toxin seems to
+have in serious infections (Melles et al. 2006). A high
+prevalence of the PVL genes in MRSA isolates recovered
+from dogs has been detected in other studies (Rankin et al.
+2005, Van Duijkeren et al. 2005). On the other hand, none of
+the canine S. aureus isolates harbored the PVL genes in other
+reports (Boost et al. 2008, Hanselman et al. 2009, Walther
+et al. 2012, Go´mez-Sanz et al. 2013). Regarding its detection
+in cats, there are several studies that have identiﬁed these
+toxin genes in MRSA of these animals, but not in MSSA
+isolates (Rankin et al. 2005, Vitale et al. 2006). The existence
+of the PVL genes in three S. aureus isolates from goats in our
+study population is also relevant. A recent study revealed the
+presence of lukF/lukS-PV genes in ewe isolates (Van Duij-
+keren et al. 2005), but not in goats.
+
+Our results showed that S. aureus isolated from goats had a
+high enterotoxigenic potential. Similar results were found in
+S. aureus isolated from goat and bovine mastitis in Turkey
+(Unal et al. 2012). S. aureus isolates from our goat and sheep
+population contained sec and sel genes, whereas those from
+cows carried mainly sea, sej, and sed genes. Moreover, six
+S. aureus isolates of goats that harbored the sec gene were
+simultaneously positive for the tst gene. These combinations
+of toxin tst/sec genes have been described before in S. aureus
+isolated from goats (Scherrer et al. 2004). The frequency of
+other enterotoxins (sed, seg, sei, sej, sel, sem, sen, seo, ser,
+seu) in our goat isolates is in agreement with previous studies
+(Valle et al. 1990), which described healthy goats as an im-
+portant reservoir of enterotoxigenic staphylococci. An egc-
+like cluster was detected in three of our 10 isolates from
+goats. Similarly, the detection of this egc cluster was reported
+in goats, and it has been suggested that its presence may
+confer a survival advantage of S. aureus in animals by
+modulating the immune response (Smyth et al. 2005).
+
+With regard to the enterotoxin genes detected in isolates
+from pets, a previous study performed in Egypt revealed that
+10% and 2.1% of dogs and cats, respectively, carried en-
+terotoxigenic S. aureus isolates (Abdel-Moein et al. 2011).
+Additionally, a recent report from Spain revealed that 75% of
+pet animals (dogs, cats) investigated presented at least one
+enterotoxin gene (Go´mez-Sanz et al. 2013). These data
+highlight the potential role of enterotoxigenic S. aureus–
+positive pets in the epidemiology of household food poi-
+sonings. An egc cluster variant carrying seg-sei-sem-sen-seu
+was detected in one S. aureus isolate of a dog. The egc cluster
+
+114
+
+GHARSA ET AL.
+
+and its variants are considered as a putative source of su-
+perantigens in S. aureus ( Jarraud et al. 2001).
+
+All of our MSSA isolates showed susceptibility to the
+tested antimicrobials, with few exceptions. Penicillin resis-
+tance was detected in a high proportion of tested isolates of
+pets. However, this result contrasts with the low rate detected
+in farm animals in the current study and in a recent report on
+sheep isolates in Tunisia (Gharsa et al. 2012b). The low
+penicillin resistance among these animals is in agreement
+with other authors (Unal et al. 2012). However, elevated rates
+of penicillin resistance are very common among the general
+S. aureus population.
+
+It should be taken in consideration that in this study the
+data were obtained from two farms and one abattoir. How-
+ever, more extensive studies with farms and abattoirs in the
+entire country are necessary to determine the global situation
+in this country.
+
+Conclusions
+
+The data reported here demonstrate that the nares of
+healthy pets, goats, and cows could be reservoirs of PVL-
+positive and TSST-1–positive S. aureus isolates and other
+virulence genes, such as those encoding enterotoxins. It is
+noteworthy that not only MRSA but also MSSA isolates from
+these animals should be studied. More studies should be
+performed in the future to expand the knowledge on the ge-
+netic lineages of S. aureus circulating among healthy farm
+animals and pets, as well as on the capacity of these isolates to
+produce virulence factors, due to the risk of animal-to-human
+bacterial transference and therefore its potential animal and
+human health implications.
+
+Acknowledgments
+
+This study has been jointly supported by an Integrated
+Action and a project ﬁnanced by the Agencia Espan˜ola de
+Cooperacio´n Internacional al Desarrollo (AECID) from the
+Ministerio de Asuntos Exteriores of Spain (A1/038210/11)
+and from the Tunisian Ministry of Higher Education and
+Scientiﬁc Research and also by project SAF2012-35474 of
+the Ministerio de Economia y Competitividad of Spain and
+FEDER (Fondo Europeo de Desarrollo Regional). We thank
+the company Ellouhoum (production and marketing of meat
+in Tunisia) for their cooperation in sample collection as well
+as the team of the Hospital of the National School of Veter-
+inary Medicine, Sidi Thabet, Tunisia, for their help in sample
+collection.
+
+Part of the results of this manuscript were presented in the
+7th European Congress on Tropical Medicine and Interna-
+tional Health in Barcelona, Spain, October 3–6, 2011, and in
+the 22nd European Congress of Clinical Microbiology and
+Infectious Diseases in London, United Kingdom March 21 to
+April 3, 2012.
+
+Author Disclosure Statement
+
+No competing ﬁnantial interests exist.
+
+References
+
+Abdel-Moein KA, Samir A. Isolation of enterotoxigenic Sta-
+phylococcus aureus from pet dogs and cats: A public health
+implication. Vector Borne Zoonotic Dis 2011; 11:627–629.
+
+Argudin MA, Mendoza MC, Rodicio MR. Food poisoning and
+Staphylococcus aureus enterotoxins. Toxins 2010; 2:1751–
+1773.
+
+Barbour EK, Nabbut NH, Hamadeh SK, Al-Nakhli HM. Bac-
+terial identity and characteristics in healthy and unhealthy and
+respiratory tracts of sheep and calves. Vet Res Commun
+1997; 21:421–430.
+
+Boost MV, O’donoghue MM, James A. Prevalence of Staphy-
+lococcus aureus carriage among dogs and their owners.
+Epidemiol Infect 2008; 136:953–964.
+
+Bouzaiane O, Abbassi M, Gtari M, Belhaj O, et al. Molecular
+typing of staphylococcal communities isolated during mu-
+nicipal solid waste composting process. Ann Microbiol 2008;
+58:387–394.
+
+Clinical and Laboratory Standards Institute (CLSI). Perfor-
+mance standards for antimicrobial susceptibility testing;
+eighteenth informational supplement. CLSI document M100-
+S22. Wayne, Pennsylvania: CLSI, 2012.
+
+Cuny C, Layer F, Strommenger B, Witte W. Rare occurrence of
+methicillin-resistant Staphylococcus aureus CC130 with a
+novel mecA homologue in humans in Germany. PLoS One
+2011; 6:e24360.
+
+Eriksson J, Espinosa-Gongora C, Stamphoj I, Larsen AR, et al.
+Carriage frequency, diversity and methicillin resistance of
+Staphylococcus aureus in Danish small ruminants. Vet Mi-
+crobiol 2013; 12:110–115.
+
+Fitzgerald JR. Livestock-associated Staphylococcus aureus:
+origin, evolution and public health threat. Trends in Micro-
+biology 2012; 20:192–198.
+
+Garcia-Alvarez L, Holden MTG, Lindsay H, Webb CR, et al.
+Methicillin-resistant Staphylococcus aureus with a novel mecA
+homologue in human and bovine populations in the UK and
+Denmark: A descriptive study. Lancet Infect Dis 2011; 1:595–603.
+Gharsa H, Ben Sallem R, Ben Slama K, Go´mez-Sanz E, et al.
+High diversity of genetic lineages and virulence genes in nasal
+Staphylococcus aureus isolates from donkeys destined to food
+consumption in Tunisia with predominance of the ruminant
+associated CC133 lineage. BMC Vet Res 2012a; 8:203.
+
+Gharsa H, Slama KB, Lozano C, Go´mez-Sanz E, et al. Pre-
+valence, antibiotic resistance, virulence traits and genetic
+lineages of Staphylococcus aureus in healthy sheep in Tuni-
+sia. Vet Microbiol 2012b; 156:367–373.
+
+Go´mez-Sanz E, Torres C, Lozano C, Zarazaga M. High diversity
+of Staphylococcus aureus and Staphylococcus pseudinterme-
+dius lineages and toxigenic traits in healthy pet-owning
+household members. Underestimating normal household con-
+tact? Comp Immunol Microbiol Infect Dis 2013; 36:83–94.
+
+Graveland H, Wagenaar J, Bergs K, Heesterbeek H, et al.
+Persistence of livestock associated MRSA CC398 in humans
+is dependent on intensity of animal contact. PLoS ONE 2011;
+6–e16830.
+
+Grundmann H, Aanensen DM, Van Den Wijngaard CC, Spratt
+BG, et al. European Staphylococcal Reference Laboratory
+Working Group. Geographic distribution of Staphylococcus
+aureus causing invasive infections in Europe: A molecular-
+epidemiological analysis. PLoS One 2010; 7:e1000215.
+
+Guinane CM, Ben Zakour NL, Tormo-Mas MA, Weinert LA,
+et al. Evolutionary genomics of Staphylococcus aureus re-
+veals insights into the origin and molecular basis of ruminant
+host adaptation. Genome Biol Evol 2010; 12:454–466.
+
+Haenni M, Saras E, Chaˆtre P, Me´daille C, et al. USA300 variant
+and other human-related methicillin-resistant Staphylococcus
+aureus strains infecting cats and dogs in France. J Antimicrob
+Chemoth 2012; 67:326–329.
+
+S. aureus FROM HEALTHY FARM ANIMALS AND PETS
+
+115
+
+Hanselman BA, Kruth SA, Rousseau J, Weese SJ. Coagulase
+positive staphylococcal colonization of humans and their
+household pets. Can Vet J 2009; 50:954–958.
+
+Harmsen D, Claus H, Witte W, Rothganger J, et al. Typing of
+methicillin-resistant Staphylococcus aureus in a university
+hospital setting by using novel software for spa repeat de-
+termination and database management. J Clin Microbiol
+2003; 41:5442–5448.
+
+Hasman H, Moodley A, Guardabassi L, Stegger M, et al. Spa
+type distribution in Staphylococcus aureus originating from
+pigs, cattle and poultry. Vet Microbiol 2010; 141:326–331.
+
+Hwang SY, Kim SH, Jang EJ, Kwon NH, et al. Novel multiplex
+PCR for the detection of the Staphylococcus aureus super-
+antigen and its application to raw meat isolates in Korea. Int J
+Food Microbiol 2007; 117:99–105.
+
+Jarraud S, Peyrat MA, Lim A, Tristan A, et al. egc, a highly
+prevalent operon of enteroxin gene, forms a putative nursery
+of superantigens in Staphylococcus aureus. J Immunol 2001;
+166:669–677.
+
+Jarraud S, Mougel C, Thioulouse J, Lina G, et al. Relationships
+between Staphylococcus aureus genetic background, viru-
+lence factors, agr groups (alleles), and human disease. Infect
+Immun 2002; 70:631–641.
+
+Lozano C, Aspiroz C, Charlez L, Go´mez-Sanz E, et al. Skin
+lesion by methicillin-resistant Staphylococcus aureus ST398-
+t1451 in a Spanish pig farmer: Possible transmission from
+animals to humans. Vector Borne Zoonotic Dis 2011;
+11:605–607.
+
+Melles DC, van Leeuwen WB, Boelens HA, Peeters JK, et al.
+Panton-Valentine leukocidin genes in Staphylococcus aureus.
+Emerg Infect Dis 2006; 12:1174–1175.
+
+Monecke S, Coombs G, Shore AC, David C, et al. A ﬁeld guide
+to pandemic, epidemic and sporadic clones of methicillin-
+resistant Staphylococcus aureus. PLoS One 2011; 6:e17936.
+Mork T, Kvitle B, Mathisen T, Jorgensen HJ. Bacteriological
+and molecular investigations of Staphylococcus aureus in
+dairy goats. Vet Microbiol 2010; 141:134–141.
+
+Paterson GK, Larsen AR, Robb A, Edwards GE, et al. The
+newly described mecA homologue, mecALGA251, is present
+in methicillin-resistant Staphylococcus aureus isolates from a
+diverse range of host species. J Antimicrob Chemoth 2012;
+67:2809–2813.
+
+Peton V, Le Loir Y. Staphylococcus aureus in veterinary
+
+medicine. Infect Genet Evol 2013; 21:1567–1581.
+
+Porrero MC, Hasman H, Vela AI, Fernandez-Garayzabal JF,
+et al. Clonal diversity of Staphylococcus aureus originating
+from the small ruminants goats and sheep. Vet Microbiol
+2012; 156:157–161.
+
+Rankin S, Roberts S, O’Shea K, Maloney D, et al. Panton
+Valentine leukocidin (PVL) toxin positive MRSA strains
+isolated from companion animals. Vet Microbiol 2005;
+108:145–148.
+
+Scherrer D, Corti S, Muehlherr JE, Zweifel C, et al. Phenotypic
+and genotypic characteristics of Staphylococcus aureus iso-
+lates from raw bulk-tank milk samples of goats and sheep.
+Vet Microbiol 2004; 101:101–107.
+
+Seidl K, Chen L, Bayer AS, Abdel Hady W, et al. Relationship
+of agr expression and function with virulence and vanco-
+mycin treatment outcomes in experimental endocarditis due
+to methicillin-resistant Staphylococcus aureus. Antimicrob
+Agents Chemother 2011; 55:5631–5639.
+
+Shopsin B, Mathema B, Alcabes P, Said-Salim B, et al. Pre-
+valence of agr speciﬁty groups among Staphylococcus aureus
+strains colonizing children and their guardians. J Clin Mi-
+crobiol 2003; 41:456–459.
+
+Smyth DS, Feil EJ, Meaney WJ, Hartigan PJ, et al. Molecular
+genetic typing reveals further insights into the diversity of
+animal-associated Staphylococcus aureus. J Med Microbiol
+2009; 58:1343–1353.
+
+Smyth DS, Hartigan PJ, Meaney WJ, Fitzgerald JR, et al. Su-
+perantigen genes encoded by the egc cluster and SaPIbov are
+predominant among Staphylococcus aureus isolates from
+cows, goats, sheep, rabbits and poultry. J Med Microbiol
+2005; 54:401–411.
+
+Sobral D, Schwarz S, Bergonier D, Brisabois A, et al.
+High throughput multiple locus variable number of tandem
+( MLVA) of Staphylococcus aureus
+repeat
+from human, animal and food sources. Plos One 2012;
+7:e33967.
+
+analysis
+
+Tenover FC, Arbeit RD, Goering RV, Mickelsen PA, et al.
+Interpreting chromosomal DNA restriction patterns produced
+by pulsed-ﬁeld gel electrophoresis: Criteria for bacterial
+strain typing. J Clin Microbiol 1995; 33:2233–2239.
+
+Unal N, Askar S, Macun HC, Sakarya F, et al. Panton–
+Valentine leukocidin and some exotoxins of Staphylococcus
+aureus and antimicrobial susceptibility proﬁles of staphylo-
+cocci isolated from milks of small ruminants. Trop Anim
+Health Prod 2012; 44:573–579.
+
+Valle J, Gomez-Lucia E, Piriz S, Goyache J, et al. Enterotoxin
+isolated from healthy goats.
+
+production by staphylococci
+Appl Env Microbiol 1990; 56:1323–1326.
+
+Van Duijkeren EV, Wolfhagen MJHM, Heck MEOC, Wannet
+WJB. Transmission of a Panton-Valentine leucocidin-positive,
+methicillin-resistant Staphylococcus aureus strain between
+humans and a dog. J Clin Microbiol 2005; 43:6209–6211.
+
+Vitale CB, Gross TL, Weese JS. Methicillin resistant Staphy-
+lococcus aureus in cat and owner. Emerg Infect Dis 2006;
+12:1998–2000.
+
+Walther B, Hermes J, Cuny C, Wieler LH, et al. Sharing more
+than friendship—nasal colonization with coagulase-positive
+staphylococci (CPS) and co-habitation aspects of dogs and
+their owners. PLoS One 2012; 7:e35197.
+
+Wan MT, Fu SY, Lo YP, Huang TM, et al. Heterogeneity and
+phylogenetic relationships of community-associated methi-
+cillin-sensitive/resistant Staphylococcus aureus isolates in
+healthy dogs, cats and their owners. J Appl Microbiol 2011;
+112:205–221.
+
+Weese JS. Methicillin-resistant Staphylococcus aureus in ani-
+
+mals. ILAR Journal 2010; 51:233–244.
+
+Zecconi A, Scali F. Staphylococcus aureus virulence factors in
+evasion from innate immune defenses in human and animal
+diseases. Immunol Lett 2013; 150:12–22.
+
+Address correspondence to:
+Carmen Torres
+A´ rea Bioquı´mica y Biologı´a Molecular
+Universidad de La Rioja
+Madre de Dios, 51
+26006 Logron˜o
+Spain
+
+E-mail: carmen.torres@unirioja.es
+
+

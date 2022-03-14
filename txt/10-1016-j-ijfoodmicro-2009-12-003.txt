@@ -1,0 +1,1038 @@
+International Journal of Food Microbiology 137 (2010) 281–286
+
+Contents lists available at ScienceDirect
+
+International Journal of Food Microbiology
+
+j o u r n a l h o m e p a g e : w w w. e l s e v i e r. c o m / l o c a t e / i j f o o d m i c r o
+
+Prevalence of broad-spectrum cephalosporin-resistant Escherichia coli isolates in
+food samples in Tunisia, and characterization of integrons and antimicrobial
+resistance mechanisms implicated
+Karim Ben Slama a, Ahlem Jouini a, Rym Ben Sallem a, Sergio Somalo b, Yolanda Sáenz c, Vanesa Estepa b,
+Abdellatif Boudabous a, Carmen Torres b,c,⁎
+a Laboratoire MBA, Département de Biologie, Faculté de Sciences de Tunis, Campus Universitaire, 2092 Tunis, Tunisia
+b Área de Bioquímica y Biología Molecular, Universidad de La Rioja, Logroño, Spain
+c Unidad de Microbiología Molecular, Centro de Investigación Biomédica de La Rioja, Logroño, Spain
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 25 August 2009
+Received in revised form 30 November 2009
+Accepted 2 December 2009
+
+Keywords:
+Escherichia coli
+Food
+ESBL
+CTX-M-1
+CMY-2
+Integrons
+
+The presence of broad-spectrum-cephalosporin-resistant Escherichia coli isolates and the implicated mechanisms of
+resistance were investigated in 79 food samples of animal origin obtained in different supermarkets and local
+butcheries in Tunisia. Ten of these samples (12.6%) harbored extended-spectrum beta-lactamase (ESBL) producing
+E. coli isolates and 13 ESBL-positive isolates were recovered (one or two/sample), which exhibited nine different
+Pulsed-Field-Gel-Electrophoresis (PFGE) patterns. ESBLs detected were the following: CTX-M-1 (10 strains), CTX-
+M-1+TEM-1b (2 strains) and CTX-M-1+TEM-20 (1 strain). The orf477 sequence was identiﬁed downstream of
+blaCTX-M-1 gene in all 13 strains and ISEcp1 upstream in 9 strains. All ESBL-positive strains were included into
+phylogenetic group A or B1 (4 and 9 strains, respectively). Three of the 79 food samples (3.8%) contained broad-
+spectrum-cephalosporin-resistant and ESBL-negative E. coli isolates with AmpC phenotype. One isolate per sample
+was studied, and they showed unrelated PFGE patterns. The CMY-2 type beta-lactamase was identiﬁed in one of
+these 3 strains and speciﬁc point mutations in the promoter/attenuator region of ampC gene (at positions −42,
+−18, −1 and +58) were detected in the remaining two strains. Twelve ESBL-positive and one ESBL-negative E. coli
+strains contained class 1 integrons with the following gene cassette arrangements: dfrA1+aadA (6 strains) and
+dfrA17+aadA5 (7 strains). E. coli strains from food samples could represent a reservoir of ESBL-encoding genes
+and integrons that could be transmitted to humans through the food chain.
+
+© 2009 Elsevier B.V. All rights reserved.
+
+1. Introduction
+
+Escherichia coli is a normal inhabitant of the intestinal tract of most
+animals and humans (Tannock 1995), and it can easily contaminate food
+products during animal evisceration at slaughter or during food
+manipulation. This microorganism can also be implicated in human
+infections and broad-spectrum cephalosporins are important agents
+used for the treatment of serious human E. coli infections. Previous
+studies have reported that E. coli isolates from animals and from food
+products can harbor resistance determinants to many classes of
+antimicrobial agents, constituting an important reservoir for transmis-
+sible resistance genes (Sáenz et al., 2004a; Smet et al., 2008). The
+inclusion of different antimicrobial resistance genes on mobile elements
+such as plasmids, transposons, and integrons facilitates the rapid
+dissemination of these genes among bacteria. E. coli strains are highly
+capable of acquiring and transferring antimicrobial resistance genes to
+other microorganisms (Sunde and Norström 2006).
+
+⁎ Corresponding author. Área de Bioquímica y Biología Molecular, Universidad de La Rioja,
+
+Madre de Dios, 51, 26006 Logroño, Spain. Tel.: +34 941299750; fax: +34 941299721.
+
+E-mail address: carmen.torres@unirioja.es (C. Torres).
+
+0168-1605/$ – see front matter © 2009 Elsevier B.V. All rights reserved.
+doi:10.1016/j.ijfoodmicro.2009.12.003
+
+In the past few years, there has been an important concern in the
+scientiﬁc community about the emergence and dissemination of E. coli
+isolates producing extended-spectrum β-lactamases (ESBLs) in human
+medicine, especially of the CTX-M class, very frequently associated to
+community infections (Pitout et al., 2005; Livermore et al., 2007). ESBLs
+hydrolyze broad-spectrum cephalosporins and aztreonam, but not
+cephamicins (as cefoxitin), and these enzymes are inhibited by
+clavulanic acid. CTX-M-class beta-lactamases hydrolyze cefotaxime
+very efﬁciently, and six different groups of enzymes have been
+described, being those of the CTX-M-1 and CTX-M-9 groups the most
+prevalent ones in human infections (Livermore et al., 2007). In the last
+few years, different reports have alerted about the dissemination of
+ESBL-positive E. coli isolates among the intestinal microbiota of healthy
+humans (Vinué et al., 2009), as well as of food-producing animals and
+also in food products (Briñas et al., 2003, 2005; Blanc et al., 2006; Girlich
+et al., 2007; Jouini et al., 2007; Liu et al., 2007; Smet et al., 2008; Escudero
+et al., 2009). These resistant bacteria could enter the food chain,
+representing a problem for food safety because they can transfer
+resistance genes to pathogenic bacteria.
+
+Plasmidic class C beta-lactamases constitute an important mech-
+anism of resistance that inactivates broad-spectrum cephalosporins as
+
+282
+
+K. Ben Slama et al. / International Journal of Food Microbiology 137 (2010) 281–286
+
+well as cephamycins (cefoxitin), and these enzymes are not inhibited
+by clavulanic acid. Among them, those of the CMY class are acquiring
+great relevance in the last years, due to the problems they cause for
+therapy in E. coli infections (Haldorsen et al., 2008). Few data do exist
+in the literature about the dissemination of this type of enzymes
+among E. coli isolates of food origin.
+
+It is known that all E. coli isolates harbor a chromosomal ampC
+beta-lactamase gene, and due to its low natural expression level, it is
+not associated to beta-lactam resistance. Nevertheless, speciﬁc
+nucleotidic point mutations in the promoter/attenuator region of
+this gene (speciﬁcally at the −42 or −32 positions) with respect to
+the one of E. coli K12 are associated with the hyperproduction of the
+chromosomal AmpC beta-lactamase (Caroff et al., 2000; Haldorsen
+et al., 2008). Hyperproduction of this AmpC beta-lactamase is
+associated with resistance to some beta-lactam antimicrobials as
+ampicillin, amoxicillin–clavulanic acid, and cefoxitin, and also confer
+low level resistance to broad-spectrum cephalosporins. The preva-
+lence of this mechanism of resistance among food E. coli isolates has
+been scarcely analyzed (Briñas et al., 2002).
+
+In a previous study carried out by our group (Jouini et al., 2007),
+the prevalence of ESBL-containing E. coli isolates was analyzed in a
+small number of food samples of animal origin obtained in 2006, but
+the presence of plasmidic class C beta-lactamases or the hyperpro-
+duction of chromosomal ampC beta-lactamase were not tested. The
+aim of the present study was to characterize the mechanisms of
+broad-spectrum cephalosporin resistance in E. coli isolates recovered
+from food samples of animal origin in Tunisia during 2007, and to
+characterize the type of ESBL genes implicated in resistance, their
+genetic environments and the associated antimicrobial resistance
+genes and integrons. It was also our interest to determine if the ESBL-
+producing E. coli isolates detected in this study harbored the shiga-
+toxin genes or belonged to the O157 serotype, due to the importance
+of these characteristics in food safety. The present study will provides
+more information about the real problem of ESBL and of other
+mechanisms of beta-lactam resistance in food E. coli isolates, and will
+represent a valuable help to control this emerging problem and to
+track its future evolution.
+
+2. Materials and methods
+
+2.1. Samples and E. coli isolation
+
+Seventy-nine food samples of animal origin (26 of poultry, 28 of
+sheep, 14 of beef, 10 of ﬁsh, and 1 of horse) were obtained between
+February and November 2007. They were recovered in 41 butcheries,
+7 local markets and one sheep farm from 12 different cities all around
+Tunisia. Refrigerated samples were transported to the laboratory, and
+all of them were tested within 24 h of collection. A 30 g portion of
+each sample was vigorously homogenized with 270 ml of buffered
+peptone water and incubated for 6 h at 42 °C; 100 µl of the suspension
+was streaked onto MacConkey agar plates (Oxoid, LTD, England)
+supplemented with cefotaxime (2 µg/ml), and incubated for 24 h at
+37 °C. Two suspected E. coli colonies from each sample (on the basis of
+colony size and morphology) were selected for identiﬁcation by
+biochemical tests, and also by a speciﬁc PCR ampliﬁcation of uidA gene
+(Jouini et al., 2007).
+
+2.2. Antimicrobial susceptibility testing
+
+Susceptibility testing to 15 antimicrobial agents was carried out in
+E. coli isolates by the disk diffusion method according to the CLSI
+criteria (Clinical and Laboratory Standards Institute, 2008). The
+antimicrobial agents tested were the following ones (concentration
+of the disks used, expressed in µg): ampicillin (10), cefoxitin (30),
+ceftazidime (30), cefotaxime (30), aztreonam (30), gentamicin (10),
+amikacin (30), tobramycin (10), streptomycin (10), nalidixic acid (30),
+
+ciproﬂoxacin (5), sulfonamides (200), trimethoprim–sulfamethoxazole
+(SXT, 1.25+23.75), tetracycline (30), and chloramphenicol (30). E. coli
+ATCC 25922 was used as a control strain. Isolates showing a phenotype
+of resistance (or reduced susceptibility) to broad-spectrum-cephalos-
+porins were further characterized. Isolates were tested for ESBL
+production by the double-disk test with cefotaxime, ceftazidime and
+aztreonam in the presence or absence of clavulanic acid (Clinical and
+Laboratory Standards Institute, 2008).
+
+2.3. Pulsed-Field-Gel-Electrophoresis (PFGE)
+
+The clonal relationship among E. coli isolates was determined by
+PFGE using XbaI enzyme as previously described (Sáenz et al., 2004a).
+XbaI macrorestriction patterns were visually analyzed and interpreted
+according to previously reported criteria (Tenover et al., 1995).
+
+2.4. Phylogenetic classiﬁcation of E. coli strains
+
+The isolates were assigned to the phylogenetic groups A, B1, B2 or
+D using a PCR strategy with speciﬁc primers for chuA, yjaA and TspE4.
+C2 genes as previously recommended (Clermont et al., 2000).
+
+2.5. Characterization of β-lactamase genes and genetic environment of
+blaCTX-M genes
+
+Genes encoding TEM, SHV, OXA, CTX-M, and CMY enzymes, and
+the genetic environment of blaCTX-M genes were analyzed by PCR and
+sequencing of both strands (Vinué et al., 2009). Nucleotide segments
+and their deduced amino acid sequences were compared with those
+included in the GenBank database as well as with those deposited at
+the website http://www.lahey.org/Studies in order to conﬁrm the
+speciﬁc type of beta-lactamase gene. The mutation in the promoter/
+attenuator region of the chromosomal ampC gene, associated with its
+overexpression, was also analyzed by PCR ampliﬁcation, sequencing
+and comparison to the same region of the E. coli K12 (Briñas et al.,
+2005). Positive and negative controls from the bacterial collection of
+the University of La Rioja were included in all PCR assays.
+
+2.6. Detection of virulence genes and genes conferring resistance to
+non-beta-lactam antimicrobial agents
+
+The presence of genes encoding shiga toxin 1 and 2 (stx1–stx2)
+was studied by a speciﬁc PCR assay (Bastian et al., 1998). In addition, it
+was determined if our E. coli isolates corresponded to the serotype
+O157 using an allele-speciﬁc PCR ampliﬁcation of the 5′ region of the
+rfb locus (Clermont et al., 2007).
+
+The presence of genes associated with tetracycline- [tet(A) and tet(B)],
+streptomycin- [aadA1 and aadA2], sulfamethoxazole- [sul1, sul2, and
+sul3], and gentamicin-resistance [aac(3)-I, aac(3)-II, and aac(3)-IV] was
+determined by PCR (Sáenz et al., 2004a), including in all cases positive and
+negative controls from the collection of the University of La Rioja. The
+detection of dfr genes,
+implicated in trimethoprim resistance, was
+performed by PCR–RFLP analysis (Sáenz et al., 2004a).
+
+2.7. Detection and characterization of integrons
+
+The presence of intI1 and intI2 genes (encoding class 1 and class 2
+integrases, respectively) was examined by PCR in all sulfonamide-
+resistant isolates with unrelated PFGE patterns and also with indistin-
+guishable PFGE patterns but different antimicrobial resistance proﬁles.
+The variable regions of class 1 and class 2 integrons were characterized
+by PCR and sequencing in all intI1- or intI2-positive isolates, respectively,
+and sequences were compared with those included in GenBank to
+identify gene cassettes. The presence of qacEΔ1-sul1genes in the 3′-
+conserved region of class 1 integrons was also investigated in all intI1-
+positive isolates (Sáenz et al., 2004a).
+
+K. Ben Slama et al. / International Journal of Food Microbiology 137 (2010) 281–286
+
+283
+
+Table 1
+Type and origin of food samples analyzed, and prevalence and characterization of E. coli isolates with phenotype ESBL or AmpC.
+
+Samples
+
+Origin
+
+Prevalence of E. coli isolates with phenotype ESBL
+
+Prevalence of E. coli isolates with phenotype AmpC
+
+No. No. of samples with
+
+ESBL-positive E. coli (%)
+
+No. of isolates
+recovered
+
+PFGE pattern (no. of isolates) No. of isolates
+further studied
+
+No. of samples with E. coli isolates
+with phenotype AmpC (%)
+
+No. of isolates recovered
+and further studied
+
+Poultry (chicken/turkey) 26
+
+7 (26.9)
+
+Sheep
+Beef
+Fish
+Horse
+
+28
+14
+10
+1
+
+2 (7.1)
+1 (7.1)
+0
+0
+
+12
+
+4
+1
+0
+0
+
+P44 (3), P3 (3), P4 (1), P5 (2),
+P7 (1), P8 (1), P32 (1)
+P46 (1), P4 (1), P5 (1), P6 (1)
+P8 (1)
+
+9
+
+3
+1
+0
+0
+
+2 (7.7)
+
+0
+1 (7.1)
+0
+0
+
+2
+
+0
+1
+0
+0
+
+3. Results and discussion
+
+3.1. E. coli recovery from food samples
+
+E. coli
+
+isolates with a phenotype of resistance or reduced
+susceptibility to broad-spectrum-cephalosporins (speciﬁcally cefo-
+taxime) were recovered in 13 of the 79 food samples analyzed
+(16.4%), and 20 isolates were further characterized. Seventeen of the
+20 cefotaxime-resistant isolates (obtained from 10 of the 13 positive
+food samples) exhibited a positive ESBL-screening test (Table 1). The
+remaining 3 cefotaxime-resistant E. coli isolates (obtained from 3 of
+the 13 positive food samples) showed an AmpC phenotype charac-
+terized by resistance to cefoxitin and amoxicillin–clavulanic acid in
+addition to reduced susceptibility to broad-spectrum cephalosporins
+and a negative ESBL-screening test (Table 1). As a consequence, the
+prevalence of ESBL-positive E. coli isolates in food samples in this
+study was 12.6%, and the prevalence of ESBL-negative E. coli isolates
+with an AmpC phenotype was of 3.8%.
+
+not due to the dissemination of a clonal strain but to the emergence of
+this mechanisms of resistance in clonally-unrelated strains. It is known
+that ESBL-encoding genes are included in transferable plasmids and this
+could explain the high clonal diversity found in this study.
+
+All our 20 cefotaxime-resistant isolates of food origin (ESBL-
+producers and AmpC phenotype) belonged to the phylogenetic groups
+A (31% of strains) or B1 (69% of strains) and no strain was identiﬁed in
+the phylogroups B2 or D (Tables 2 and 3). It has been previously
+indicated that commensal E. coli, as is the case of our strains, are more
+frequently ascribed to phylogroups A and B1 (Johnson et al., 2005).
+
+The presence of speciﬁc genes encoding shiga toxins 1 and 2 as
+well as the serotype O157 was checked by speciﬁc PCRs using positive
+and negative control strains. All 16 cefotaxime-resistant E. coli isolates
+showed a negative result in both PCR assays indicating that those
+isolates did not belong to this virulence serotype and also did not
+harbor the shiga toxin genes.
+
+3.3. Mechanisms of resistance in ESBL-positive E. coli strains
+
+3.2. Clonal relationships among cefotaxime-resistant E. coli isolates and
+detection of virulence determinants
+
+The clonal relationship among the 20 cefotaxime-resistant E. coli
+isolates was established based on PFGE of XbaI-digested genomic DNA.
+One E. coli strain per sample was maintained for further studies or two
+strains of the same sample if they presented different PFGE patterns. As a
+consequence, 13 ESBL-positive and 3 ESBL-negative/AmpC-phenotype-
+positive E. coli isolates with 12 different PFGE patterns were included in
+the study and further characterized (Table 1).
+
+It is remarkable the high clonal diversity of the ESBL-positive E. coli
+isolates detected in this study indicating that this type of resistance is
+
+The presence of genes encoding beta-lactamases was studied in
+the 13 ESBL-positive E. coli strains by PCR and sequencing and the
+following beta-lactamases were identiﬁed: CTX-M-1 (10 strains),
+CTX-M-1+TEM-1b (2 strains) and CTX-M-1+ TEM-20 (1 strain)
+(Table 2). Negative PCR results for genes encoding SHV and OXA type
+beta-lactamases were obtained for all analyzed strains.
+
+The resistance percentages to non-beta-lactam antibiotics observed
+in the 13 ESBL-positive E. coli strains were as follows: sulfonamides and
+trimethoprim/sulfamethoxazole, 100%; nalidixic acid, 84.6%; ciproﬂox-
+acin, 69.2%; tetracycline, 76.9%; streptomycin, 30.8%; gentamicin, 23.1%;
+and chloramphenicol, 7.7%. Nine ESBL-positive strains showed simul-
+taneous resistance to tetracycline, nalidixic acid, ciproﬂoxacin,
+
+Table 2
+Characteristics of the 13 ESBL-positive E. coli strains of food origin studied.
+
+Strain
+(origina)
+
+PFGE
+pattern
+
+Phylogenetic
+group
+
+Resistance phenotype to
+non-β-lactam antibioticsb
+
+β-lactamase
+detected
+
+blaCTX-M-1 genetic
+environment
+
+Class 1 integrons
+intI1/qacEΔ1+sul1 Gene cassettes
+
+Other resistance genes
+outside integrons
+
+C1103 (C)
+C1104 (C)
+C1106 (C)
+C1116 (S)
+C1606 (C)
+C1608 (C)
+C1610 (S)
+C1612 (S)
+C1614 (C)
+C1615 (C)
+C1616 (C)
+C1617 (B)
+C1618 (C)
+
+P44
+P44
+P44
+P46
+P3
+P3
+P4
+P6
+P7
+P5
+P8
+P8
+P32
+
+B1
+B1
+B1
+B1
+B1
+B1
+B1
+A
+A
+A
+B1
+B1
+A
+
+TET-NAL-CIP-SXT-SUL-STR
+TET-NAL-CIP-SXT-SUL-STR
+TET-NAL-CIP-SXT-SUL-STR
+TET-NAL-CIP-SXT-SUL-STR
+TET-NAL-CIPI-SXT-SUL-GENI
+TET-NAL-CIPI-SXT-SUL
+TET-NAL-CIP-SXT-SUL-GENI
+TETI-NAL-SXT-SUL
+SXT-SUL
+SXT-SUL
+TET-NAL-CIPI-SXT-SUL
+TET-NAL-CIPI-SXT-SUL
+NAL-SXT-SUL-GENI-CHL
+
+CTX-M-1
+CTX-M-1+TEM-1b
+CTX-M-1
+CTX-M-1
+CTX-M-1
+CTX-M-1
+CTX-M-1+TEM-20
+CTX-M-1
+CTX-M-1
+CTX-M-1
+CTX-M-1
+CTX-M-1
+CTX-M-1+TEM-1b
+
+Unknown — orf477 +/+
+ISEcp1 — orf477
++/+
+Unknown — orf477 +/+
+Unknown — orf477 +/+
++/−
+ISEcp1 — orf477
++/−
+ISEcp1 — orf477
++/−
+ISEcp1 — orf477
++/−
+ISEcp1 — orf477
++/−
+ISEcp1 — orf477
+Unknown — orf477 +/−
++/−
+ISEcp1 — orf477
++/−
+ISEcp1 — orf477
+−/+
+ISEcp1 — orf477
+
+dfrA1+aadAc
+dfrA1+aadAc
+dfrA1+aadAc
+dfrA1+aadA
+dfrA17+aadA5
+dfrA17+aadA5
+dfrA1+aadA
+dfrA17+aadA5
+dfrA17+aadA5
+dfrA17+aadA5
+dfrA17+aadA5
+dfrA17+aadA5
+–
+
+tet(A), sul2, sul3
+tet(A), sul3
+tet(A), sul2, sul3
+tet(B), sul2, sul3
+tet(B), sul2, aac(3)-II
+tet(B), sul2
+tet(A), sul2, sul3, aac(3)-II
+tet(A), sul2
+sul3
+sul2
+tet(B), sul2
+tet(B), sul2
+sul2, aac(3)-II
+
+a C: chicken, S: sheep; B: beef.
+b TET: tetracycline; NAL: nalidixic acid; CIP: ciproﬂoxacin; SXT: trimethoprim/sulfamethoxazole; SUL: sulfonamide; GEN, gentamicin; CHL: chloramphenicol; STR, streptomycin;
+
+I: intermediate resistance phenotype for the indicated antibiotic.
+
+c Genes detected by PCR mapping with combinations of primers.
+
+284
+
+K. Ben Slama et al. / International Journal of Food Microbiology 137 (2010) 281–286
+
+Table 3
+Characteristics of the three E. coli strains with phenotype AmpC recovered from food samples.
+
+Strain
+(origina)
+
+PFGE
+pattern
+
+Phylogenetic
+group
+
+Resistance phenotype
+to non-β-lactam antibioticsb
+
+Mutations in promoter of ampC
+chromosomal gene at positions
+
+Plasmidic class C
+beta-lactamases
+
+Class 1 integrons
+intI1/qacEΔ1+sul1 Gene cassettes
+
+Resistance genes
+outside integrons
+
+C1619 (C) P1
+C1620 (C) P2
+
+C1622 (B) P9
+
+B1
+B1
+
+A
+
+TET-NAL-SXT-SUL-GEN-STR −28 (G→T), +58 (C→T)
+−42 (C→T), −18 (G→A),
+TET-NAL-SUL
+−1 (C→T), +58 (C→T)
+−42 (C→T), −18 (G→A),
+−1 (C→T), +58 (C→T)
+
+TET-SUL-CHL-STR
+
+CMY-2
+–
+
+–
+
++/+
+–
+
+–
+
+dfrA1+aadA
+–
+
+tet(A), sul2, aac(3)-II
+–
+
+–
+
+tet(A)
+
+a C: chicken, B: beef.
+b TET: tetracycline; NAL: nalidixic acid; SXT: trimethoprim/sulfamethoxazole; SUL: sulfonamide; GEN: gentamicin; CHL: chloramphenicol; STR: streptomycin.
+
+trimethoprim/sulfamethoxazole and sulfonamides, four of them were
+also resistant to streptomycin, and other two also to gentamicin
+(Table 2). A previous study carried out by our research group on E. coli
+isolates recovered from food samples in Tunisia during 2006 demon-
+strated the prevalence of CTX-M-1 with the concomitant presence of
+isolates producing CTX-M-14 and CTX-M-8 beta-lactamases (Jouini
+et al., 2007). A high prevalence of CTX-M-1 was also found in E. coli
+recovered from chicken samples in France (Girlich et al., 2007). In
+addition, previous studies showed that CTX-M-1 producing E. coli
+strains were obtained from piglets and slaughter pigs from farms that
+used ceftiofur but could not be detected on control farms without a
+recent history of ceftiofur usage (Jørgensen et al., 2007).
+
+The ISEcp1 insertion sequence was found upstream of the blaCTX-M-1
+gene in nine of our strains (Table 2). The upstream region of the blaCTX-M-1
+gene could not be identiﬁed in the remaining four E. coli strains (C1103,
+C1106, C1116 and C1615) because all performed PCRs were negative. In
+addition, orf477 (an open reading frame with unknown function) was
+detected downstream of blaCTX-M-1 in all thirteen ESBL-positive strains
+(Table 2), whereas none of the PCRs performed to detect IS26 sequence
+surrounding the blaCTX-M-1 gene were positive. Similar structures with
+ISEcp1 and orf477 surrounding the blaCTX-M-1 gene have been described in
+previous reports (Abbassi et al., 2008; Eckert et al., 2004; Jouini et al.,
+2007). ISEcp1 was ﬁrstly identiﬁed upstream of the plasmid-mediated
+cephalosporinase gene blaCMY-4 from an E. coli isolate from the United
+Kingdom (Eckert et al., 2006). Subsequently, several reports identiﬁed
+ISEcp1-like sequences upstream of other blaCTX-M-type genes. These
+results raise the question of the role of ISEcp1-like sequences in the
+mobilization and expression of blaCTX-M genes, as has also been previously
+indicated (Poirel et al., 2003; Eckert et al., 2006).
+
+Speciﬁc culture media supplemented with broad-spectrum cepha-
+losporins (cefotaxime or ceftazidime) is used in most studies which
+analyze the carriage of ESBL-positive E. coli isolates in food samples;
+this is the case of our study as well as of other studies (Weill et al.,
+2004; Jouini et al., 2007), and a relatively high percentage of food
+samples are found contaminated with ESBL-positive E. coli isolates.
+Nevertheless, other studies analyze the prevalence of ESBL-positive
+bacteria among E. coli isolates recovered from food samples in culture
+media not supplemented with broad-spectrum cephalosporins; being
+the prevalence very low or null in those studies (Jouini et al., 2009;
+Souﬁ et al., 2009). All these results taken together indicate that the
+proportion of ESBL-positive E. coli isolates among the total E. coli
+population that could contaminate a food sample must be low and for
+this reason, resistant strains are only detected when antimicrobial-
+supplemented agar media is used for ESBL-positive E. coli detection.
+
+3.4. Mechanisms of resistance in ESBL-negative E. coli strains with AmpC
+phenotype
+
+Three PFGE-unrelated E. coli strains, obtained from 3 different food
+samples, showed resistance to ampicillin, amoxicillin/clavulanic acid,
+ceftazidime, cefotaxime, and cefoxitin and exhibited a negative screening
+test for ESBL production. A positive PCR result for CMY-type beta-
+lactamase was obtained in only one of these E. coli strains (C1619), and
+sequencing of the identiﬁed amplicon resulted in identiﬁcation of the
+
+CMY-2 type beta-lactamase (Table 3). The regulatory region of the
+chromosomal ampC gene was ampliﬁed by PCR and sequenced in the
+three ESBL-negative strains. Mutations in the promoter/attenuator region
+of the ampC gene (at positions −42, −18, −1 and +58) were identiﬁed
+in two of these three isolates (Table 3). It is known that speciﬁc mutations
+in the ampC promoter region render an increase in the MIC values of
+broad-spectrum cephalosporins as well as of cephamycins. In this sense,
+mutations at positions −42 (C→T) and at −18 (G→A) create new −35
+and −10 boxes separated by 17 bp, the optimal distance to enhance the
+expression, resulting in the formation of a strong promoter (Caroff et al.,
+2000; Haldorsen et al., 2008). The mutations at positions +58 and −28 of
+the ampC attenuator region were found in E. coli C1619 which also
+contained the blaCMY-2 gene (Table 3). An association between a mutation
+at position −28 and over-expression of the ampC gene has not been
+previously demonstrated.
+
+E. coli and Salmonella strains carrying the CMY-2 type β-lactamase
+have already been reported in food-producing animals and humans in
+different countries and continents (Koeck et al., 1997; Winokur et al.,
+2001; Blanc et al., 2006; Liu et al., 2007). In USA, CMY-2 is highly prevalent
+among E. coli and Salmonella strains from food-producing animals and
+humans. The transfer of CMY-2 among different bacterial species and
+between animals and humans has been suggested (Winokur et al., 2001).
+Although CMY-2 enzyme has been already detected from a hospitalized
+patient from the Libyan–Tunisian border region (Bauernfeind et al.,
+1996), our work is the ﬁrst description of the CMY-2 beta-lactamase in
+E. coli from food samples of animal origin in Tunisia.
+
+3.5. Characterization of integrons and mechanism of resistance to
+non-beta-lactam antimicrobial agents
+
+The pattern of resistance to non-β-lactam antimicrobial agents in all
+16 cefotaxime-resistant E. coli strains (ESBL-producers and ESBL-non-
+producers) is shown in Tables 2 and 3. Fourteen E. coli strains showed
+resistance to SXT and they were tested for the presence of class 1 and class
+2 integrase genes. Thirteen strains contained the class 1 integrase gene
+(intI1) and all of them were negative for class 2 integrase gene. The
+variable region of class 1 integrons was characterized in all intI1-positive
+strains (Tables 2 and 3). The dfrA1+aadA gene cassette array, conferring
+resistance to trimethoprim and streptomycin/spectinomycin, respective-
+ly, was identiﬁed in 6 strains (ﬁve ESBL-producers and one non-ESBL-
+producers). The dfrA17+aadA5 gene cassettes were detected in the
+remaining seven intI1-positive strains. The 3′-conserved segments of the
+class 1 integrons usually contain the genetic determinants qacEΔ1 and
+sul1 (Carattoli 2001). It is important to underline that eight of the 13
+integron-positive isolates did not contain the conserved qacEΔ1-sul1
+region, and the dfrA17+aadA5 gene cassettes were identiﬁed in most of
+these strains. Similar to our study, class 1 integrons including dfr and aadA
+gene cassettes have been the most prevalent type of integrons in E. coli
+isolates from humans, animals and food in other studies (Trobos et al.,
+2008; Vinué et al., 2008), even in E. coli isolates from food origin in Tunisia
+(Jouini et al., 2007). A signiﬁcant association was shown between the
+resistance to several antibiotics and the presence of class 1 integrons in E.
+coli isolates. Resistance genes included in integrons constitute a reservoir
+of antimicrobial resistance genes within microbial populations (Bass et al.,
+
+K. Ben Slama et al. / International Journal of Food Microbiology 137 (2010) 281–286
+
+285
+
+1999) and integrons may contribute to the horizontal transfer of
+resistance genes between bacteria of the same or of different species.
+
+The results obtained in this study show that 93% of SXT-resistant
+strains harbored a dfr gene conferring trimethoprim resistance. A
+previous study demonstrated that integrons containing this gene
+cassette contribute to the spread of trimethoprim resistance genes in
+clinical isolates (Petersen et al., 2000). A probable explanation for the
+high prevalence of dfr genes as cassettes could be that trimethoprim
+associated with sulfamethoxazole is widely used in human and
+animal medicine. According to previous studies, the aadA streptomy-
+cin/spectinomycin resistance gene cassette detected in our study is
+highly conserved in class 1 integrons among E. coli isolates of different
+types and origins (Bass et al., 1999; Zhao et al., 2001). Streptomycin/
+spectinomycin is scarcely used in humans, but continues to be
+extensively used in agriculture and food animals and may contribute
+to the selection of the corresponding resistance genes by the
+horizontal transfer of some plasmids (Su et al., 2006).
+
+A variety of other resistance genes were observed among our strains.
+In this sense, tet(A) and tet(B) genes were detected in 7 and
+5 tetracycline-resistant strains, respectively. Fifteen of the 16 cefotax-
+ime-resistant strains harbored sul genes, and in most of the cases
+contained more than one sul gene (sul1+sul2: 2 strains; sul1+sul3: 1
+strain; sul1+sul2+sul3: 3 strains; sul2: 7 strains; sul2+sul3: 1 strain
+and sul3: 1 strain). The aac(3)-II gene was identiﬁed in four gentamicin-
+resistant strains.
+
+The predominance of the tet(A) gene has already been described in
+previous studies performed in Tunisia, Germany and Spain (Guerra et al.,
+2003; Sáenz et al., 2004b; Jouini et al., 2007). Several studies showed that
+tet efﬂux determinants were predominantly carried by plasmids and
+associated with transposons (Chopra and Roberts 2001). Conjugative
+plasmids contribute to the spread of efﬂux gene classes among Gram-
+negative bacteria. The sul2 gene was the most prevalent gene detected in
+our isolates (Tables 2 and 3), in accordance with previous observations
+(Hammerum et al., 2006; Sunde and Norström 2006). However, sul1 gene
+was the most prevalent in E. coli isolates from food origin in Tunisia
+according to a previous investigation (Jouini et al., 2007).
+
+The aac(3)-II gene, detected in three of our E. coli strains, had been
+previously detected in E. coli isolates from food origin in Tunisia
+(Jouini et al., 2007). It has been previously reported the inclusion of
+this gene into mobile genetic elements and integrons that can
+facilitate their horizontal transfer among bacteria (Heuer et al.,
+2002; Carattoli 2003; Díaz et al., 2006).
+
+In summary, the detection of ESBL-positive E. coli isolates in a high
+percentage of food samples analyzed in this study (12.6%) is of special
+relevance, indicating that food of animal origin represents a reservoir
+of this type of resistant bacteria that potentially could be transferred
+to humans through the food chain. In addition, it is also relevant the
+detection of broad-spectrum-cephalosporin-resistant E. coli isolates
+due to the production of plasmidic class C beta-lactamases or to over-
+expression of the chromosomal ampC gene. More studies should be
+performed in the future to analyze the ﬂow and evolution of broad-
+spectrum-cephalosporin-resistant E. coli isolates in different ecosys-
+tems in order to assess its implication in human health.
+
+Acknowledgements
+
+This study was performed through the ﬁnancial support of the AECID
+from the Ministerio de Asuntos Exteriores of Spain and from the Tunisian
+Ministry of Higher Education, Scientiﬁc Research and Technology.
+
+References
+
+Abbassi, M.S., Torres, C., Achour, W., Vinué, L., Sáenz, Y., Costa, D., Bouchami, O., Ben
+Hassen, A., 2008. Genetic characterisation of CTX-M-15-producing Klebsiella
+pneumoniae and Escherichia coli strains isolated from stem cell transplant patients
+in Tunisia. International Journal of Antimicrobial Agents 32, 308–314.
+
+Bass, L., Liebert, C.A., Lee, M.D., Summers, A.O., White, D.G., Thayer, S.G., Maurer, J.J., 1999.
+Incidence and characterization of integrons, genetic elements mediating multiple-drug
+resistance, in avian Escherichia coli. Antimicrobial Agents and Chemotherapy 43,
+2925–2929.
+
+Bastian, S.N., Carle, I., Grimont, F., 1998. Comparison of 14 PCR systems for the detection
+and subtyping of stx genes in Shiga-toxin-producing Escherichia coli. Research in
+Microbiology 149, 457–472.
+
+Bauernfeind, A., Stemplinger, I., Jungwirth, R., Giamarellou, H., 1996. Characterization of
+the plasmidic beta-lactamase CMY-2, which is responsible for cephamycin
+resistance. Antimicrobial Agents and Chemotherapy 40, 221–224.
+
+Blanc, V., Mesa, R., Saco, M., Lavilla, S., Prats, G., Miró, E., Navarro, F., Cortés, P., Llagostera, M.,
+2006. ESBL- and plasmidic class C beta-lactamase-producing E. coli strains isolated from
+poultry, pig and rabbit farms. Veterinary Microbiology 118, 299–304.
+
+Briñas, L., Zarazaga, M., Sáenz, Y., Ruiz-Larrea, F., Torres, C., 2002. Beta-lactamases in
+isolates from foods, humans, and healthy
+
+ampicillin-resistant Escherichia coli
+animals. Antimicrobial Agents and Chemotherapy 46, 3156–3163.
+
+Briñas, L., Moreno, M.A., Zarazaga, M., Porrero, C., Sáenz, Y., García, M., Domínguez, L.,
+Torres, C., 2003. Detection of CMY-2, CTX-M-14, and SHV-12 beta-lactamases in
+Escherichia coli fecal-sample isolates from healthy chickens. Antimicrobial Agents
+and Chemotherapy 47, 2056–2058.
+
+Briñas, L., Moreno, M.A., Teshager, T., Sáenz, Y., Porrero, M.C., Domínguez, L., Torres, C.,
+2005. Monitoring and characterization of extended-spectrum beta-lactamases in
+Escherichia coli strains from healthy and sick animals in Spain in 2003. Antimicrobial
+Agents and Chemotherapy 49, 1262–1264.
+
+Carattoli, A., 2001. Importance of integrons in the diffusion of resistance. Veterinary
+
+Research 32, 243–259.
+
+Carattoli, A., 2003. Plasmid-mediated antimicrobial resistance in Salmonella enterica.
+Current Issues in Molecular Biology 5, 113–122.
+Caroff, N., Espaze, E., Gautreau, D., Richet, H., Reynaud, A., 2000. Analysis of the effects of −42
+and −32 ampC promoter mutations in clinical isolates of Escherichia coli hyperproducing
+ampC. Journal of Antimicrobial Chemotherapy 45, 783–788.
+
+Chopra, I., Roberts, M., 2001. Tetracycline antibiotics: mode of action, applications,
+molecular biology, and epidemiology of bacterial resistance. Microbiology and
+Molecular Biology Reviews 65, 232–260.
+
+Clermont, O., Bonacorsi, S., Bingen, E., 2000. Rapid and simple determination of the
+Escherichia coli phylogenetic group. Applied and Environmental Microbiology 66,
+4555–4558.
+
+Clermont, O., Jonson, J.R., Menard, M., Denamur, E., 2007. Determination of Escherichia coli O
+types by allele-speciﬁc polymerase chain reaction: application to the O types involved in
+human septicemia. Diagnostic Microbiology and Infectious Diseases 57, 129–136.
+
+Clinical and Laboratory Standards Institute, 2008. Performance standards for
+antimicrobial susceptibility Testing; Eighteenth informational supplement. CLSI
+document M100-S18. CLSI, Wayne, Pennsylvania, USA.
+
+Díaz, M.A., Cooper, R.K., Cloeckaert, A., Siebeling, R.J., 2006. Plasmid-mediated high-
+level gentamicin resistance among enteric bacteria isolated from pet turtles in
+Louisiana. Applied and Environmental Microbiology 72, 306–312.
+
+Eckert, C., Gautier, V., Saladin-Allard, M., Hidri, N., Verdet, C., Ould-Hocine, Z., Barnaud,
+G., Delisle, F., Rossier, A., Lambert, T., Philippon, A., Arlet, G., 2004. Dissemination of
+CTX-M-type beta-lactamases among clinical isolates of Enterobacteriaceae in Paris,
+France. Antimicrobial Agents and Chemotherapy 48, 1249–1255.
+
+Eckert, C., Gautier, V., Arlet, G., 2006. DNA sequence analysis of the genetic environment
+
+of various blaCTX-M genes. Journal of Antimicrobial Chemotherapy 57, 14–23.
+
+Escudero, E., Vinué, L., Teshager, T., Torres, C., Moreno, M.A., 2009. Resistance
+mechanisms and holding-level distribution of
+isolates
+resistant to extended-spectrum cephalosporins recovered in Spain from slaugh-
+ter-pigs. Research in Veterinary Science. doi:10.1016/j.rvsc.2009.05.021.
+
+faecal Escherichia coli
+
+Girlich, D., Poirel, L., Carattoli, A., Kempf, I., Lartigue, M.F., Bertini, A., Nordmann, P., 2007.
+Extended-spectrum beta-lactamase CTX-M-1 in Escherichia coli isolates from healthy
+poultry in France. Applied and Environmental Microbiology 73, 4681–4685.
+
+Guerra, B., Junker, E., Schroeter, A., Malorny, B., Lehmann, S., Helmuth, R., 2003.
+Phenotypic and genotypic characterization of antimicrobial resistance in German
+Escherichia coli isolates from cattle, swine and poultry. Journal of Antimicrobial
+Chemotherapy 52, 489–492.
+
+Haldorsen, B., Aasnaes, B., Dahl, K.H., Hanssen, A.M., Simonsen, G.S., Walsh, T.R., Sundsfjord, A.,
+Lundblad, E.W., 2008. The AmpC phenotype in Norwegian clinical isolates of Escherichia
+coli is associated with an acquired ISEcp1-like ampC element or hyperproduction of the
+endogenous AmpC. Journal of Antimicrobial Chemotherapy 62, 694–702.
+
+Hammerum, A.M., Sandvang, D., Andersen, S.R., Seyfarth, A.M., Porsbo, L.J., Frimodt-
+Møller, N., Heuer, O.E., 2006. Detection of sul1, sul2 and sul3 in sulphonamide
+resistant Escherichia coli isolates obtained from healthy humans, pork and pigs in
+Denmark. International Journal of Food Microbiology 106, 235–237.
+
+Heuer, H., Krögerrecklenfort, E., Wellington, E.M.H., Egan, S., Elsas, J.D.V., Overbeek, L.S.
+V., Collard, J.M., Guillaume, G., Karagouni, A.D., Nikolakopoulou, D., Smalla, K., 2002.
+Gentamicin resistance genes in environmental bacteria: prevalence and transfer.
+FEMS Microbiology Ecology 42, 289–302.
+
+Johnson, J.R., Delavari, P., O`Bryan, T.T., Smith, K.E., Tatini, S., 2005. Contamination of
+retail foods, particularly turkey, from community markets (Minnesota, 1999–2000)
+with antimicrobial-resistant and extraintestinal pathogenic Escherichia coli.
+Foodbone Pathogens and Diseases 2, 38–49.
+
+Jørgensen, C.J., Cavaco, L.M., Hasman, H., Emborg, H.D., Guardabassi, L., 2007.
+Occurrence of CTX-M-1-producing Escherichia coli in pigs treated with ceftiofur.
+Journal of Antimicrobial Chemotherapy 59, 1040–1042.
+
+Jouini, A., Vinué, L., Slama, K.B., Sáenz, Y., Klibi, N., Hammami, S., Boudabous, A., Torres,
+C., 2007. Characterization of CTX-M and SHV extended-spectrum beta-lactamases
+and associated resistance genes in Escherichia coli strains of food samples in
+Tunisia. Journal of Antimicrobial Chemotherapy 60, 1137–1141.
+
+286
+
+K. Ben Slama et al. / International Journal of Food Microbiology 137 (2010) 281–286
+
+Jouini, A., Ben Slama, K., Sáenz, Y., Klibi, N., Costa, D., Vinué, L., Zarazaga, M., Boudabous,
+A., Torres, C., 2009. Prevalence of antimicrobial resistance and mechanisms
+implicated in Escherichia coli isolates of food samples of animal origin in Tunisia.
+Journal of Food Protection 2, 1082–1088.
+
+Koeck, J.L., Arlet, G., Philippon, A., Basmaciogullari, S., Thien, H.V., Buisson, Y., Cavallo, J.D.,
+1997. A plasmid-mediated CMY-2 beta-lactamase from an Algerian clinical isolate of
+Salmonella senftenberg. FEMS Microbiology Letters 152, 255–260.
+
+Liu, J.H., Wei, S.Y., Ma, J.Y., Zeng, Z.L., Lü, D.H., Yang, G.X., Chen, Z.L., 2007. Detection and
+characterisation of CTX-M and CMY-2 beta-lactamases among Escherichia coli
+isolates from farm animals in Guangdong Province of China. International Journal of
+Antimicrobial Agents 29, 576–581.
+
+Livermore, D.M., Canton, R., Gniadkowski, M., Nordmann, P., Rossolini, G.M., Arlet, G.,
+Ayala, J., Coque, T.M., Kern-Zdanowicz, I., Luzzaro, F., Poirel, L., Woodford, N., 2007.
+CTX-M: changing the face of ESBLs in Europe. Journal of Antimicrobial Chemotherapy
+59, 165–174.
+
+Petersen, A., Guardabassi, L., Dalsgaard, A., Olsen, J.E., 2000. Class I integrons containing
+a dhfrI trimethoprim resistance gene cassette in aquatic Acinetobacter spp. FEMS
+Microbiology Letters 182, 73–76.
+
+Pitout, J.D., Nordmann, P., Laupland, K.B., Poirel, L., 2005. Emergence of Enterobacter-
+iaceae producing extended-spectrum beta-lactamases (ESBLs) in the community.
+Journal of Antimicrobial Chemotherapy 56, 52–59.
+
+Poirel, L., Decousser, J.W., Nordmann, P., 2003. Insertion sequence ISEcp1B is involved in
+expression and mobilization of a blaCTX-M beta-lactamase gene. Antimicrobial
+Agents and Chemotherapy 47, 2938–2945.
+
+Sáenz, Y., Briñas, L., Domínguez, E., Ruiz, J., Zarazaga, M., Vila, J., Torres, C., 2004a. Mechanisms
+of resistance in multiple-antibiotic-resistant Escherichia coli strains of human, animal,
+and food origins. Antimicrobial Agents and Chemotherapy 48, 3996–4001.
+
+Sáenz, Y., Ruiz, J., Zarazaga, M., Teixidó, M., Torres, C., Vila, J., 2004b. Effect of the efﬂux
+pump inhibitor Phe-Arg-beta-naphthylamide on the MIC values of the quinolones,
+tetracycline and chloramphenicol, in Escherichia coli isolates of different origin.
+Journal of Antimicrobial Chemotherapy 53, 544–545.
+
+Smet, A., Martel, A., Persoons, D., Dewulf, J., Heyndrickx, M., Catry, B., Herman, L.,
+Haesebrouck, F., Butaye, P., 2008. Diversity of extended-spectrum beta-lactamases
+and class C beta-lactamases among cloacal Escherichia coli isolates in Belgian
+broiler farms. Antimicrobial Agents and Chemotherapy 52, 1238–1243.
+
+Souﬁ, L., Abbassi, M.S., Sáenz, Y., Vinué, L., Somalo, S., Zarazaga, M., Abbas, A., Dbaya, R.,
+Khanﬁr, L., Ben Hassen, A., Hammami, S., Torres, C., 2009. Prevalence and diversity
+of integrons and associated resistance genes in Escherichia coli isolates from poultry
+meat in Tunisia. Foodborne Pathogens and Diseases 6, 1067–1073.
+
+Su, J., Shi, L., Yang, L., Xiao, Z., Li, X., Yamasaki, S., 2006. Analysis of integrons in clinical
+isolates of Escherichia coli in China during the last six years. FEMS Microbiology
+Letters 254, 75–80.
+
+Sunde, M., Norström, M., 2006. The prevalence of, associations between and conjugal
+transfer of antibiotic resistance genes in Escherichia coli isolated from Norwegian
+meat and meat products. Journal of Antimicrobial Chemotherapy 58, 741–747.
+
+Tannock, G.W., 1995. Normal Microﬂora. An Introduction to Microbes Inhabiting the
+
+Human Body. Chapman and Hall, London.
+
+Tenover, F.C., Arbeit, R.D., Goering, R.V., Mickelsen, P.A., Murray, B.E., Persing, D.H.,
+Swaminathan, B., 1995.
+Interpreting chromosomal DNA restriction patterns
+produced by pulsed-ﬁeld gel electrophoresis: criteria for bacterial strain typing.
+Journal of Clinical Microbiology 33, 2233–2239.
+
+Trobos, M., Jakobsen, L., Olsen, K.E., Frimodt-Møller, N., Hammerum, A.M., Pedersen, K.,
+Agersø, Y., Porsbo, L.J., Olsen, J.E., 2008. Prevalence of sulphonamide resistance and
+class 1 integron genes in Escherichia coli isolates obtained from broilers, broiler
+meat, healthy humans and urinary infections in Denmark. International Journal of
+Antimicrobial Agents. 32, 367–369.
+
+Vinué, L., Sáenz, Y., Somalo, S., Escudero, E., Moreno, M.A., Ruiz-Larrea, F., Torres, C.,
+2008. Prevalence and diversity of integrons and associated resistance genes in
+faecal Escherichia coli isolates of healthy humans in Spain. Journal of Antimicrobial
+Chemotherapy 62, 934–937.
+
+Vinué, L., Sáenz, Y., Martínez, S., Somalo, S., Moreno, M.A., Torres, C., Zarazaga, M., 2009.
+Prevalence and diversity of extended-spectrum beta-lactamases in faecal Escheri-
+chia coli isolates from healthy humans in Spain. Clinical Microbiology and Infection
+15, 954–957.
+
+Weill, F.X., Lailler, R., Praud, K., Kérouanton, A., Fabre, L., Brisabois, A., Grimont, P.A.,
+Cloeckaert, A., 2004. Emergence of extended-spectrum-β lactamase (CTX-M-9)-
+producing multiresistant strains of Salmonnella enterica serotypes Virchow in
+poultry and humans in France. Journal of Clinical Microbiology; 42, 5767–5773.
+
+Winokur, P.L., Vonstein, D.L., Hoffman, L.J., Uhlenhopp, E.K., Doern, G.V., 2001. Evidence for
+transfer of CMY-2 AmpC beta-lactamase plasmids between Escherichia coli and Salmo-
+nella isolates from food animals and humans. Antimicrobial Agents and Chemotherapy
+45, 2716–2722.
+
+Zhao, S., White, D.G., Ge, B., Ayers, S., Friedman, S., English, L., Wagner, D., Gaines, S.,
+Meng, J., 2001. Identiﬁcation and characterization of integron-mediated antibiotic
+resistance among Shiga toxin-producing Escherichia coli isolates. Applied and
+Environmental Microbiology 67, 1558–1564.
+
+

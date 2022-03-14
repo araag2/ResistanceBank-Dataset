@@ -1,0 +1,1210 @@
+Brazilian Journal of Microbiology 46, 2, 535-543 (2015)
+ISSN 1678-4405
+DOI: http://dx.doi.org/10.1590/S1517-838246220131164
+
+Copyright © 2015, Sociedade Brasileira de Microbiologia
+www.sbmicrobiologia.org.br
+
+Research Paper
+
+Clonal profile, virulence and resistance of Staphylococcus aureus isolated
+
+from sheep milk
+
+Katheryne Benini Martins1, Patricia Yoshida Faccioli-Martins1,
+
+Danilo Flávio Moraes Riboli1, Valéria Cataneli Pereira1, Simone Fernandes2,
+
+Aline A. Oliveira2, Ariane Dantas2, Luiz Francisco Zafalon3,
+
+Maria de Lourdes Ribeiro de Souza da Cunha1
+
+1Departamento de Microbiologia e Imunologia, Instituto de Biociências, Universidade Estadual Paulista
+
+2Departamento de Produção Animal, Faculdade de Medicina Veterinária e Zootecnia, Universidade
+
+“Júlio de Mesquita Filho”, Botucatu, SP, Brazil.
+
+Estadual Paulista “Júlio de Mesquita Filho”, Botucatu, SP, Brazil.
+
+3Embrapa Pecuária Sudeste, Empresa Brasileira de Pesquisa Agropecuária, São Carlos, SP, Brazil.
+
+Submitted: November 1, 2013; Approved: October 7, 2014.
+
+Abstract
+
+The objective of this study was to characterize the clonal profile, virulence factors and antimicrobial
+resistance, particularly oxacillin resistance, of Staphylococcus aureus isolated from sheep milk. Milk
+samples were collected from all teats for the California Mastitis Test (CMT), somatic cell count,
+identification of S. aureus, investigation in these strains of genes encoding toxins (sea, seb, sec, sed,
+tst), biofilm (icaA, icaC, icaD, bap), leukocidin (luk-PV) oxacillin resistance by mecA gene detection
+and susceptibility testing (12 antibiotics). Messenger RNA expression was evaluated by RT-PCR in
+isolates carrying toxin and biofilm genes. Biofilm formation was also evaluated phenotypically by
+adherence to polystyrene plates. The clonal profile of S. aureus was investigated by pulsed-field gel
+electrophoresis. A total of 473 milk samples were collected from 242 animals on three farms and 20
+S. aureus strains were isolated and none carried the mecA gene. The two sec gene-positive isolates
+and the isolates carrying the tst and luk-PV genes were positive by RT-PCR. Staphylococcus aureus
+isolated from the three flocks studied showed high susceptibility to the drugs tested and none was
+biofilm producer, indicating that biofilm formation was not a virulence factor causing infection by
+these strains. The typing of 17 S. aureus isolates revealed the presence of a common clone on the
+three farms studied, and the presence and expression of the sec and tst genes in one strain of this clone
+suggest the possible acquisition of virulence genes by this clone, a fact that is important for animal
+health and food hygiene.
+
+Key words: mastitis, sheep, Staphylococcus aureus, antibiotic resistance, virulence factors.
+
+Introduction
+
+Mastitis is an inflammation of the mammary gland
+which is characterized by physical, chemical and microbio-
+logical alterations in milk and tissue abnormalities. Fur-
+thermore, the disease is associated with premature culling
+of ewes with udder abnormalities and reduced weight gain
+of lambs. In the study of Moroni et al. (2007), the weight
+gain of lambs nursing dams without mastitis was higher
+
+than that of animals nursing ewes with subclinical mastitis.
+Among the latter, lambs nursing dams with subclinical in-
+fection caused by S. aureus showed lower weight gain than
+those nursing dams with mastitis caused by other infectious
+agents such as coagulase-negative staphylococci, strepto-
+cocci, and Gram-negative bacteria.
+
+In small ruminants such as sheep, coagulase-negative
+staphylococci are the microorganisms most frequently iso-
+
+Send correspondence to K.B. Martins. Departamento de Microbiologia e Imunologia, Instituto de Biociências, Universidade Estadual Paulista “Júlio de
+Mesquita Filho”, Botucatu, SP, Brazil. E-mail: katheryne_bm@yahoo.com.br.
+
+536
+
+Nome do autor
+
+lated from cases of subclinical mastitis (Bergonier et al.,
+2003; Vautor et al., 2009), whereas S. aureus can cause
+clinical and subclinical mastitis (Contreras et al., 2007). S.
+aureus was the microorganism most frequently isolated
+from milk of Awassi sheep with subclinical mastitis, ac-
+counting for 39% of all isolates, followed by Streptococcus
+spp. (25%), Escherichia coli (19.6%), and coagulase-nega-
+tive staphylococci
+(Al-Majali and Jawabreh,
+2003). Santos et al. (2007) studied the clinical aspects and
+milk characteristics of 10 Santa Inês sheep with clinical
+mastitis after experimental inoculation of their mammary
+glands with S. aureus. The results showed a reduction in
+milk production and fat content, in addition to alterations in
+the physicochemical properties of milk. After treatment, al-
+though the animals had recovered from the disease, the
+function of their mammary glands was completely lost.
+
+(17.9%)
+
+Mastitis caused by S. aureus can result in long-term
+infection and can become chronic, with a low rate of cure
+and consequent loss of milk production (Sabour et al.,
+2004), since this microorganism possesses different viru-
+lence factors that contribute to its persistence in mammary
+tissue (Santos et al., 2003). Different virulence factors such
+as enterotoxins, leukocidins and biofilms (Peacock et al.,
+2002) are important since they contribute to aggravation of
+the disease and are a matter of public health. Biofilm forma-
+tion permits adherence and colonization of the mammary
+gland epithelium (Otto, 2008), leukocidin causes tissues
+necrosis and leukocyte destruction, and enterotoxins can
+cause food poisoning (Argudín et al., 2010).
+
+In addition to virulence, a major concern in the con-
+trol of mastitis is resistance of the etiological agents to anti-
+biotics. Therapeutic success is compromised by the
+growing number of strains resistant to drugs used indis-
+criminately in veterinary medicine. Staphylococcal resis-
+tance to methicillin is associated with the acquisition of the
+staphylococcal cassette chromosome mec (SCCmec), a re-
+sistance island consisting of the structural gene, mecA. S.
+aureus strains carrying this gene are classified as methi-
+cillin (oxacillin)-resistant S. aureus (MRSA). These strains
+are frequently resistant to most antimicrobial agents, in-
+cluding aminoglycosides, macrolides, chloramphenicol,
+tetracycline, and fluoroquinolones (Wang et al., 2008; Ku-
+mar et al., 2010).
+
+Therefore, the objective of the present study was to
+characterize the clonal profile, virulence factors and antibi-
+otic resistance of S. aureus isolated from raw milk of sheep
+with subclinical mastitis.
+
+Materials and Methods
+
+Origin of the isolates
+
+Milk samples were collected from each teat of 242
+sheep belonging to the following experimental flocks: 37
+from the flock of Instituto de Zootecnia, Nova Odessa, 150
+from the flock of Embrapa Pecuária Sudeste, São Carlos,
+
+and 55 from the Edgardia Farm, Faculdade de Medicina
+Veterinária e Zootecnia, Botucatu. All facilities are located
+in the State of São Paulo, Brazil. The flocks from São
+Carlos and Nova Odessa were Santa Inês sheep and those
+from Botucatu were Bergamacia sheep. Milk samples were
+collected from all animals for microbiological tests for the
+isolation of S. aureus.
+
+Screening for subclinical cases was performed imme-
+diately before the collection of milk samples for the micro-
+biological diagnosis of mastitis by the California Mastitis
+Test (CMT) according to the technique of Schalm and
+Noorlander (1957). Samples were also collected for so-
+matic cell count (SCC) into flasks containing bronopol for
+counting in an electronic Somacount 300 (Bentley Instru-
+ments®). Mammary glands with a positive reaction in the
+CMT or SCC > 3.0 x 105 cells/mL milk (McDougall et al.,
+2001) and that were bacteriologically positive were classi-
+fied as subclinical mastitis.
+
+Isolation and identification of S. aureus
+
+The milk samples were cultured on blood agar at
+37 °C for 72 h. Suspected bacterial colonies were stained by
+the Gram method for inspection of morphology. Colonies
+characterized as Gram-positive cocci were submitted to
+catalase and coagulase tests. The genus Staphylococcus
+was differentiated from Micrococcus based on the oxida-
+tion and fermentation of glucose, resistance to bacitracin
+(0.04 U), and susceptibility to furazolidone (100 mg). S.
+aureus was identified based on the fermentation of maltose,
+trehalose, and mannitol (Cunha et al., 2004).
+
+Antimicrobial susceptibility testing
+
+Twenty S. aureus isolates were submitted to in vitro
+susceptibility testing by the disk diffusion method accord-
+ing to the guidelines of the Clinical Laboratory Standard In-
+stitute (2012). The following 12 antibiotics were tested:
+rifampicin (5 mg), linezolid (30 mg), vancomycin (30 mg),
+clindamycin (2 mg), erythromycin (15 mg), penicillin
+(10 UI), oxacillin (1 mg), cefoxitin (30 mg), tetracycline
+(30 mg), gentamicin (10 mg), ciprofloxacin (5 mg), and
+cotrimoxazole (25 mg).
+
+DNA extraction and amplification by PCR for
+detection of the mecA, biofilm (icaADBCand bap)
+and exotoxin genes (sea, seb, sec, sed, tst and
+luk-PV)
+
+Total nucleic acid was extracted from Staphylococ-
+cus spp. strains cultured on blood agar, inoculated individu-
+ally into brain-heart infusion (BHI) broth, and incubated for
+24 h at 37 °C. The Illustra® kit (GE Healthcare) was used
+for extraction. Briefly, staphylococcal cells were first di-
+gested with 10 mg/mL lysozyme and 20 mg/mL proteinase
+K. Next, 500 mL lysis solution was added and the mixture
+was centrifuged at 5,000 x g for 1 min. The supernatant was
+
+S. aureus from sheep milk
+
+537
+
+transferred to a column and centrifuged at 11,000 x g for
+1 min. The liquid part was discarded and 500 mL lysis solu-
+tion was again added to the column. After centrifugation at
+11,000 x g for 1 min and discarding the liquid part, 500 mL
+washing solution was added and the column was centri-
+fuged at 11,000 x g for 3 min. Next, the column was trans-
+ferred to a 1.5-mL tube and 200 mL Milli-Q water (Milli-
+pore, Eschborn, Germany) heated to 70 °C was used for
+elution. The samples were centrifuged at 5,000 x g for
+1 min and the column was discarded. The extracted DNA
+was stored at -20 °C. For detection of the mecA, biofilm
+(icaADBC, bap) and exotoxin genes (sea, seb, sec, sed, tst
+and luk-PV), the primers shown in Table 1 and the parame-
+ters recommended by the respective authors were used:
+Murakami et al. (1991), Rohde et al. (2007), Arciola et al.
+(2005), Cucarella et al. (2001), Johnson et al. (1991), and
+Lina et al. (1999).
+
+The agarose gels were prepared at a concentration of
+2% in 1X TBE, stained with SYBR Safe DNA Gel Stain®
+(Invitrogen), and visualized under a UV transilluminator.
+
+Reactions that amplified fragments larger than 1,000 bp
+were submitted to electrophoresis on 0.8% agarose gel.
+
+Confirmation of the expression of virulence factors
+
+The expression of the genes encoding enterotoxin A,
+B, C, D or toxic shock syndrome toxin 1 (TSST-1), biofilm
+genes (icaADBC and bap) and luk-PV in the S. aureus iso-
+lates in which these genes were amplified by PCR was con-
+firmed by RT-PCR as described below.
+
+RNA extraction
+
+Total RNA was extracted from S. aureus cultured on
+blood agar, inoculated individually into BHI broth, and in-
+cubated for 24 h at 37 °C. The Illustra RNAspin Mini RNA
+kit was used for extraction according to manufacturer in-
+structions. For this purpose, 200 mL of the S. aureus culture
+was transferred to a sterile 1.5-mL Eppendorf tube and cen-
+trifuged at 10,000 x g for 1 min. Next, the supernatant was
+discarded, 100 mL TE containing 2 mg/mL lysozyme was
+added, and the mixture was incubated for 10 min at 37 °C.
+For cell lysis, 350 mL RA1 buffer was added together with
+
+Table 1 - Primers used for PCR.
+
+5’-3’ Nucleotide sequence
+
+Amplification product (bp)
+
+Reference
+
+Gene
+
+icaA
+
+icaC
+
+icaD
+
+icaB
+
+bap
+
+bap
+
+sea
+
+seb
+
+sec
+
+sed
+
+tst
+
+TGG CTG TAT TAA GCG AAG TC
+
+CCT CTG TCT GGG CTT GAC C
+
+TAA CTT TAG GCG CAT ATG TTT
+
+TTC CAG TTA GGC TGG TAT TG
+
+ATG GTC AAG CCC AGA CAG AG
+
+CGTGTTTTCAACATTTAATGCAA
+
+CTGATCAAGAATTTAAATCACAAA
+
+AAA GTC CCA TAA GCC TGT TT
+
+CCC TAT ATC GAA GGT GTA GAA TTG CAC
+
+GCT GTT GAA GTT AAT ACT GTA CCT GC
+
+CCC TAT ATC GAA GGT GTA GAA TTG CAC
+
+GCT GTT GAA GTT AAT ACT GTA CCT GC
+
+TTG GAA ACG GTT AAA ACG AA
+
+GAA CCT TCC CAT CAA AAA CA
+
+TCG CAT CAA ACT GAC AAA CG
+
+GCA GGT ACT CTA TAA GTG CC
+
+GAC ATA AAA GCT AGG AAT TT
+
+AAA TCG GAT TAA CAT TAT CC
+
+CTA GTT TGG TAA TAT CTC CT
+
+TAA TGC TAT ATC TTA TAG GG
+
+ATG GCA GCA TCA GCT TGA TA
+
+TTT CCA ATA ACC ACC CGT TT
+
+669
+
+400
+
+198
+
+302
+
+971
+
+971
+
+120
+
+478
+
+257
+
+317
+
+350
+
+433
+
+533
+
+Rohde et al., 2007
+
+Arciola et al., 2005
+
+Arciola et al., 2005
+
+Arciola et al., 2005
+
+Cucarella et al., 2001
+
+Cucarella et al., 2001
+
+Johnson et al., 1991
+
+Johnson et al., 1991
+
+Johnson et al., 1991
+
+Johnson et al., 1991
+
+Johnson et al., 1991
+
+Lina et al., 1999
+
+Murakami et al., 1991
+
+luk-PVL
+
+ATC ATT AGG TAA AAT GTC TGG ACA TGA TCC
+
+GCA TCA ATT GTA TTG GAT AGC AAA AGC
+
+mecA
+
+ATC GAT GGT AAA GGT TGG
+
+AGT TCT GCA GTA CCG GAT TTG
+
+538
+
+Nome do autor
+
+3.5 mL b-mercaptoethanol. The solution was applied to
+RNAspin Mini Filter units and centrifuged at 11,000 x g for
+1 min. The filters were discarded after centrifugation. For
+adjustment of the binding conditions, 350 mL 70% ethanol
+was added to the filtrate and the mixture was transferred to
+an RNAspin Mini Column and centrifuged at 8,000 x g for
+30 s. For adsorption of RNA to the membrane, 350 mL
+membrane desalting buffer was added and the mixture was
+centrifuged at 11,000 x g for 1 min. The samples were then
+washed in two steps. First, 600 mL RA3 buffer was added
+and the column was centrifuged at 11,000 x g for 1 min. For
+the second wash, 250 mL RA3 buffer was added and the
+column was centrifuged at 11,000 x g for 2 min. The col-
+umn was then transferred to a new 1.5-mL Eppendorf tube
+for the elution of RNA. For this purpose, 45 mL RNA-free
+water containing 5 mL guard RNA was added and the col-
+umn was centrifuged at 11,000 x g for 1 min. DNase treat-
+ment for complete elimination of possible DNA residues
+consisted of the addition of 2 mL buffer and 2 mL DNase
+and incubation of the mixture for 1 h at 37 °C. Next, 2 mL
+Stop DNase was added and the mixture was incubated for
+10 min at 65 °C for the inhibition of DNase. The extracted
+RNA was immediately stored at -80 °C.
+
+Preparation of cDNA
+
+Two mixtures were prepared (Mix 1 and Mix 2). For
+Mix 1, 14 mL RNA (divided into aliquots and treated with
+DNase), 1 mL dNTP, and 4 mL nuclease-free water were
+used (extraction kit). For Mix 2, 4 mL 5X First-Strand
+Buffer, 1 mL DTT (0.1 M), and 1 mL SuperScript III
+(200 U/mL) were used. Mix 1 was incubated in a thermo-
+cycler for 5 min at 65 °C, removed from the thermocycler,
+and immediately put on ice for approximately 5 min. Next,
+Mix 2 (6 mL) was added and the sample was again placed in
+the thermocycler and the program was continued with 30
+cycles at 65 °C for 5 min, 25 °C for 5 min, 50 °C for 60 min,
+70 °C for 15 min, and finished at 20 °C. The cDNA was
+then frozen at -80 °C.
+
+PCR amplification of cDNA
+
+The cDNA obtained was submitted to RT-PCR to de-
+termine the expression of toxin and biofilm genes using the
+primers described in Table 1. The amplified products were
+visualized by electrophoresis as described in item 2.4.
+
+Investigation of biofilm formation by adherence to
+polystyrene plates (Christensen et al., 1985)
+modified by Oliveira and Cunha (2010)
+
+The method of biofilm formation on culture plates
+proposed by Christensen et al. (1985) and modified by
+Oliveira and Cunha (2010) was used. This method is based
+on the spectrophotometric determination of the optical den-
+sity of the adherent material produced by the bacteria.
+
+Cultures grown in TSB for 24 h and subsequently di-
+luted 1:1 in TSB prepared with 2% glucose were used. The
+tests were carried out in 96-well flat-bottom plates (Costar,
+model 3599, Corning). The wells were filled in quadrupli-
+cate with 200 mL of the diluted culture. The following inter-
+national reference strains were included in all tests: S.
+aureus ATCC 29213 (biofilm producer) as positive control
+and ATCC 33591 (non-producer) as negative control, and
+S. epidermidis ATCC 35983 (biofilm producer) as positive
+control and ATCC 12228 (non-producer) as negative con-
+trol, as well as sterile TSB. The plates were incubated for
+24 h at 37 °C. After this period, the content of each well was
+carefully aspirated with a multichannel pipette and the
+wells were washed four times with 200 mL phosphate-
+buffer saline, pH 7.2. The plates were dried at room temper-
+ature for 1 h. Next, the wells were stained with 2% crystal
+violet for one minute, the volume was aspirated, and excess
+dye was removed by washing the plates with distilled water
+using a multichannel pipette. The plates were then dried at
+room temperature for 60 min and optical density was read
+in a Labsystem Multiskan EX microplate reader equipped
+with a 540-nm filter. The strains were classified as negative
+when the cut-off value corresponded to the classification of
+non-adherent, and as positive when the cut-off value corre-
+sponded to the classification of weakly or strongly adher-
+ent.
+
+Pulsed-field gel electrophoresis (PFGE)
+
+PFGE of the S. aureus isolates was done according to
+a modification of the protocol of McDougal et al. (2003). In
+a previously weighed microtube, 0.5 mL of an overnight
+culture of S. aureus was centrifuged at 12,000 rpm for 50 s.
+After discarding the supernatant,
+the microtube was
+weighed again and 300 mL TE (10 mM Tris, 1 mM
+EDTA, pH 8.0) plus the difference between the final and
+initial weight in mL were added. The samples were left to
+stand in a water bath for 10 min at 37 °C. After homogeni-
+zation, 5 mL lysostaphin (1 mg/mL in 20 mM sodium ace-
+tate, pH 4.5) and 300 mL low-melting agarose were added.
+The mixtures were poured into plug molds and the plugs
+were allowed to solidify. The plugs were then placed in
+2 mL EC solution (6 mM Tris-HCl, 1 M NaCl, 100 mM
+EDTA, 0.5% Brij-58, 0.2% sodium deoxycholate, 0.5% so-
+dium lauryl sarcosinate) and incubated at 37 °C for at least
+4 h. The EC solution was discarded and the plugs were
+washed four times with 2 mL TE for 30 min at room tem-
+perature.
+
+Genomic DNA was restricted with SmaI (Fast Digest
+SmaI®, Fermentas Life Science, Canada) in 50 mL restric-
+tion buffer using half the plug. Electrophoresis was carried
+out in a CHEF-DR III System® (BioRad Laboratories,
+USA) using 1% agarose gel (Pulsed Field Certified Aga-
+rose, BioRad Laboratories, USA) prepared in 0.5X TBE
+under the following running conditions: pulse time of 5 to
+
+S. aureus from sheep milk
+
+539
+
+40 s for 21 h; linear ramp; 6 V/cm; angle of 120°; 14°C;
+0.5X TBE as running buffer. The Lambda Ladder PFG
+Marker® (New England BioLabs) was used as molecular
+marker. The gels were stained with GelRed® (10,000X in
+water, Biotium, USA) for 45 min and photographed under
+UV transillumination. For analysis of similarity, the Dice
+correlation coefficient was calculated and a dendrogram
+was constructed by the UPGMA method (unweighted pair
+group method using arithmetic averages) using the
+BioNumerics® software (version 6.1; Applied Maths, Bel-
+gium).
+
+Results
+
+Microorganisms were detected in 169 (35.7%) of the
+473 milk samples collected from the 242 animals included
+in the study. Twenty (11.8%) of the microorganisms iso-
+lated were identified as S. aureus, including 18 (90%)
+strains isolated from cases of subclinical mastitis and only
+two (10%) from animals without mastitis. Four of the 20
+strains were isolated in the flock from Botucatu, two in the
+flock from Nova Odessa, and 14 in the flock from São
+Carlos.
+
+Table 3 - Detection and expression of biofilm genes.
+
+Genes
+
+icaADBC
+
+icaA+ icaD + icaB
+
+icaA + icaD
+
+icaA + icaD + bap
+
+icaD+bap
+
+icaD
+
+icaB
+
+Total
+
+PCR N (%)
+
+RT-PCRN (%)
+
+1 (5.0)
+
+5 (25.0)
+
+3 (15.0)
+
+3 (15.0)
+
+1 (5.0)
+
+3 (15.0)
+
+1 (5.0)
+
+17 (85.0)
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+icaA, icaD, icaB, icaC, bap: biofilm genes; N: number of isolates; %: per-
+centage of isolates.
+
+icaA + icaD + icaB were concomitantly present in five iso-
+lates, icaA + icaD in six isolates, three isolates only carried
+the icaD gene, and one isolate only carried the icaB gene.
+The bap gene was detected in four (20%) isolates, but none
+of the strains expressed this gene.
+
+None of the isolates exhibited a positive result in the
+phenotypic test of biofilm formation on polystyrene plates.
+
+Antimicrobial resistance
+
+Typing
+
+The mecA gene was not detected in any of the S.
+aureus strains and most isolates were susceptible to all
+antimicrobial agents tested, except for one strain that was
+resistant to tetracycline.
+
+Toxin detection
+
+Seven (35%) of the S. aureus isolates carried one or
+more exotoxin genes (Table 2). Three (15%) of these seven
+strains that tested positive by PCR for exotoxin genes were
+positive by RT-PCR. One isolate carrying the sec+tst genes
+expressed the two genes concomitantly, one isolate carry-
+ing the sea+seb+luk-PV genes expressed only the luk-PV
+gene, and the third isolate positive for the sea+sec genes ex-
+pressed only the sec gene.
+
+Biofilm detection
+
+With respect to biofilm genes (Table 3), the complete
+icaADBC operon was detected in one of the isolates. The
+
+Table 2 - Detection and expression of exotoxin genes.
+
+Gene/expression
+
+PCR N (%)
+
+RT-PCR N (%)
+
+sea+seb+luk-PV/ PVL
+
+sea+seb
+
+sec+tst/SEC+TSST-1
+
+sea+sec/SEC
+
+Total
+
+1 (5.0)
+
+2 (10.0)
+
+1 (5.0)
+
+1 (5.0)
+
+7 (35.0)
+
+1 (5.0)
+
+0
+
+1 (5.0)
+
+1 (5.0)
+
+3 (15.0)
+
+sea, seb, sec, tst, luk-pv: presence of the genes encoding toxins A, B, C,
+TSST-1, and Panton-Valentine leukocidin (PVL). PVL, TSST-1 and SEC:
+Toxin expression. N: number of isolates; %: percentage of isolates.
+
+Molecular typing by PFGE was performed on only 17
+strains since three isolates from the São Carlos flock could
+not be typed. PFGE (Figure 1) revealed the presence of two
+clones, a larger one (clone 1) comprising 10 isolates (one
+from Nova Odessa, five from São Carlos, and four from
+Botucatu) and a smaller one (clone 2) comprising only two
+isolates from São Carlos. The remaining five isolates (one
+from Nova Odessa and four from São Carlos) exhibited a
+polyclonal profile.
+
+With respect to virulence factors (Table 4), in clone 1
+(10 isolates) only one strain carried an enterotoxin gene and
+the TSST-1 gene and expressed the two genes. The bap
+gene was detected in one isolate and the icaB gene of the
+icaADBC operon was detected in five isolates, but no ex-
+pression of these genes related to biofilm formation was ob-
+served.
+
+None of the toxin genes studied was detected in clone
+2 (two isolates). Regarding the genes for biofilm formation,
+only the bap gene was detected in two isolates by PCR, but
+not by RT-PCR. The genes of the icaADBC operon were
+not detected in any of the isolates by RT-PCR.
+
+With respect to the virulence of S. aureus isolated
+from different flocks, it is important to highlight the detec-
+tion of the sea + sec and sec + tst genes in two strains iso-
+lated from the farm in Nova Odessa, with the expression of
+SEC and TSST-1 being confirmed by RT-PCR (Figure 1).
+In the flock from São Carlos, the luk-PV gene was detected
+and expressed in one isolate. Additionally, four bap gene-
+positive isolates were from this farm and one isolate carried
+the complete icaADBC operon. No toxigenic S. aureus
+strains were isolated from the farm in Botucatu; however,
+
+540
+
+Nome do autor
+
+Figure 1 - Dendrogram generated by Dice analysis/UPGMA (Bionumerics, Applied Maths) of the SmaI PFGE profiles of 17 S. aureus isolates (similarity
+³ 80%).
+
+Table 4 - Characteristics of the S. aureus clones isolated from sheep milk
+samples.
+
+Clone
+
+Toxin gene
+
+Toxin
+
+1 (10 isolates)
+
+2 (2 isolates)
+
+expression
+
+SEA (0)
+
+SEB (0)
+
+SEC (1)
+
+SED (0)
+
+sea (0)
+
+seb (0)
+
+sec (1)
+
+sed (0)
+
+tst (1)
+
+TSST-1 (1)
+
+bap (1)
+
+luk-PV (0)
+
+PVL (0)
+
+sea (0)
+
+seb (0)
+
+sec (0)
+
+sed (0)
+
+tst (0)
+
+SEA (0)
+
+SEB (0)
+
+SEC (0)
+
+SED (0)
+
+icaA (2)
+
+icaD (2)
+
+icaB (0)
+
+icaC (0)
+
+TSST-1 (0)
+
+bap (2)
+
+luk-PV (0)
+
+PVL (0)
+
+Biofilm
+genes
+
+Biofilm
+
+expression
+
+icaA (9)
+
+icaA (0)
+
+icaD (10)
+
+icaD (0)
+
+icaB (5)
+
+icaC (0)
+
+icaB (0)
+
+icaC (0)
+
+bap (0)
+
+icaA (0)
+
+icaD (0)
+
+icaB (0)
+
+icaC (0)
+
+bap (0)
+
+fection of the mammary tissue that is difficult to treat (Ai-
+res-de-Souza et al., 2007). In the present study, S. aureus
+was identified in 20 (11.8%) milk samples collected from
+sheep with subclinical mastitis.
+
+The mecA gene was not detected in any of the S.
+aureus strains studied. Vyletelová et al. (2011) also did not
+find the mecA gene in S. aureus strains isolated from sheep
+milk, whereas the gene was detected in 20 (6.1%) S. aureus
+strains isolated from cow milk. According to Zafalon et al.
+(2012), S. aureus strains that carry oxacillin resistance me-
+diated by the mecA gene are generally more resistant to
+other antibiotics than oxacillin-sensitive microorganisms.
+In the present study, antimicrobial susceptibility testing re-
+vealed only one S. aureus isolate that was resistant to tetra-
+cycline. The remaining isolates were susceptibility to all
+drugs tested. Similar results have been reported by Vylete-
+lová et al. (2011) for S. aureus isolates from sheep. Pengov
+and Ceru (2003), investigating S. aureus isolates obtained
+from sheep milk samples, demonstrated high rates of sus-
+ceptibility to the drugs tested. A resistance rate of 6.3% was
+only observed for penicillin and ampicillin.
+
+Intramammary infections caused by S. aureus can
+have severe consequences for human health because of the
+production of toxins by this microorganism. These toxins
+are secreted and remain stable in milk, causing food poison-
+ing (Balaban and Rasooly, 2000; Fagundes and Oliveira,
+2004). In the present study, seven isolates carried at least
+one enterotoxin gene or the TSST-1 gene, with the seb gene
+being the most frequent enterotoxin followed by the sea
+
+the icaADC genes were detected in four strains isolated
+from animals of this flock.
+
+Discussion
+
+S. aureus is a versatile microorganism that causes in-
+fection in different hosts. Moreover, this bacterium is one
+of the most important pathogens in the etiology of infec-
+tious mastitis in cows, goats, and sheep, causing chronic in-
+
+S. aureus from sheep milk
+
+541
+
+and sec genes. The sed gene was not detected in any of the
+isolates. In contrast, the sec gene was the most frequent in
+the study of Scherrer et al. (2004). The authors detected this
+gene in 123 (64.4%) of 191 S. aureus strains isolated from
+milk samples of sheep and goats, followed by seg (16.2%),
+sea (14.6%), sej (13.6%), sei (12.6%), seb (2.1%), and sed
+(2.1%). In the literature, sea and seg (Scherrer et al., 2004;
+Wang et al., 2009) and sec, sed, seg and sei (Zecconi et al.,
+2006) are the genes most frequently detected in S. aureus
+isolated from animals.
+
+Although the seb gene was the most frequent, it was
+not expressed in any of the S. aureus isolates. Only two
+(10%) isolates expressed the sec gene and one (5%) the tst
+gene. Enterotoxins A and D are the toxins most frequently
+implicated in outbreaks of food poisoning (Ertas et al.,
+2010). However, the present results demonstrate the impor-
+tance of enterotoxin C and TSST-1 in strains isolated from
+sheep. Enterotoxin C has been frequently detected in cases
+of clinical mastitis in cattle, goats and sheep (Jones and
+Wieneke, 1986). In England, Bone et al. (1989) reported
+cases of food poisoning caused by the consumption of
+sheep milk and cheese. Analysis of the cheese samples
+showed the presence of enterotoxins. Further analysis of
+milk and cheese samples led the authors to conclude that
+food contamination with S. aureus did not occur during
+production, but was the result of infection of the milk-
+producing animals.
+
+The exotoxin Panton-Valentine leukocidin (PVL)
+was detected in only one strain and its expression was con-
+firmed. PVL is one of the most important virulence factors
+produced by S. aureus, contributing to the pathogenicity of
+this microorganism. This toxin is associated with different
+diseases in humans, such as pneumonia and necrotizing
+dermatitis (Giudice et al., 2009). The luk-PV gene has also
+been identified in S. aureus strains isolated from cases of
+mastitis (Zecconi et al., 2006; Aires-de-Souza et al., 2007;
+Unal et al., 2012). However, this is the first report showing
+the expression of this toxin in S. aureus isolated from
+sheep.
+
+Among the different S. aureus virulence factors stud-
+ied, biofilm formation in isolates obtained from cases of
+sheep mastitis is a poorly investigated aspect. The
+icaADBC operon is responsible for the synthesis of poly-
+saccharide intercellular adhesin (PIA), the main component
+of the staphylococcal biofilm (Otto, 2008). In the present
+study, only one isolate carried the complete icaADBC ope-
+ron, whereas other genes of the operon, mainly icaA +
+icaD, were detected in most isolates (Table 3). However,
+none of the isolates expressed the ica genes detected. The
+bap gene encodes a protein that plays an important PIA-
+independent role in biofilm formation (Cucarella et al.,
+2004). This gene was detected in four strains (Table 4).
+However, RT-PCR showed no expression of this gene in
+any of the S. aureus isolates. The bap gene is usually not de-
+tected and its presence has only been reported in a few S.
+
+aureus strains isolated from cases of bovine subclinical
+mastitis (Cucarella et al., 2001). The present results differ
+from those reported by Tel et al. (2012) who analyzed 110
+S. aureus strains isolated from cases of sheep clinical masti-
+tis. The isolates did not carry the bap gene, but were posi-
+tive for the icaA and icaD genes. According to Aguilar et al.
+(2001), most S. aureus strains isolated from mastitis cases
+are surrounded by a biofilm layer that facilitates adhesion
+and colonization of the mammary gland epithelium. How-
+ever, the 20 isolates from sheep studied here did not express
+the genes studied (icaADBC and bap).
+
+Typing of 17 S. aureus strains revealed the presence
+of a common clone on the three farms studied. The charac-
+terization of the genetic diversity of S. aureus is important
+to understand the pattern of dispersion of the pathogen. The
+results showed no major heterogeneity among S. aureus
+strains, with half the isolates belonging to a single clone.
+With respect to the virulence profile of these strains, only
+one expressed the sec and tst genes, while the other strains
+expressed none of the factors studied. These findings sug-
+gest that other virulence factors are related to the capacity
+of this clone to spread among flocks and to successfully es-
+tablish an infection in the mammary gland of sheep, caus-
+ing mastitis. The sec and tst genes are located on a plasmid
+and pathogenicity island, respectively, and can be trans-
+ferred from one bacterium to another. The presence of these
+genes in one strain suggests that this clone, which is able to
+spread among the flocks studied, probably acquired these
+virulence genes from other staphylococci, rendering it
+more virulent.
+
+Conclusion
+
+Most of the S. aureus strains identified were isolated
+from cases of subclinical mastitis. Only two isolates did not
+cause infection, a finding demonstrating the importance of
+S. aureus in the etiology of sheep mastitis. All S. aureus
+strains isolated from the three flocks showed high suscepti-
+bility to the drugs tested. None of the isolates was a biofilm
+producer, indicating that biofilm formation was not a viru-
+lence factor causing infection by these strains. However, a
+toxigenic potential was demonstrated for some of the iso-
+lates, which expressed SEC, TSST-1 and PVL. A clone that
+had spread among sheep flocks was identified among the S.
+aureus strains isolated from sheep milk. In addition, the
+presence and expression of the sec and tst genes in one
+strain of this clone suggest the possible acquisition of viru-
+lence genes by this clone, a fact that is important for animal
+health and food hygiene.
+
+Acknowledgments
+
+The authors thank the Fundação de Amparo a Pes-
+quisa do Estado de São Paulo and Conselho Nacional de
+Desenvolvimento Científico e Tecnológico (CNPq) for fi-
+nancial support.
+
+542
+
+Nome do autor
+
+References
+Aguilar B, Amorena B, Iturralde M (2001) Effect of slime on ad-
+herence of Staphylococcus aureus isolated from bovine and
+ovine mastitis. Vet Microbiol 78:183-191.
+
+Aires-de-Sousa M, Parente CESR, Vieira-da-Mota OV et al.
+(2007) Characterization of Staphylococcus aureus isolates
+from buffalo, bovine, ovine, and caprine milk samples col-
+lected in Rio de Janeiro State, Brazil. Appl Environ Micro-
+biol 73:3845-3849.
+
+Al-Majali AM, Jawabreh S (2003) Period prevalence and etiology
+of subclinical mastitis in Awassi sheep in southern Jordan.
+Small Rum Res 47:243-248.
+
+Arciola CR, Gamberini S, Campoccia D et al. (2005) A multiplex
+PCR method for the detection of all five individual genes of
+ica locus in Staphylococcus epidermidis. A survey on 400
+clinical
+isolates from prosthesis-associated infections. J
+Biomed Mater Res A 75:408-413.
+
+Argudín MA, Mendoza MC, Rodicio MR (2010) Food poisoning
+and Staphylococcus aureus enterotoxins. Toxins 2:1751-
+1773.
+
+Balaban N, Rasooly A (2000) Staphylococcal enterotoxins: a re-
+
+view. Int J Food Microbiol 61:1-10.
+
+Bergonier D, Cremoux R, Rupp R et al. (2003) Mastitis of dairy
+
+ruminants. Vet Res 34:689-716.
+
+Bone FJ, Bogie D, Morgan-Jones SC (1989) Staphylococcal food
+Infect
+
+poisoning from sheep milk cheese. Epidemiol
+103:449-458.
+
+Christensen GD, Simpson WA, Yonger JJ et al. (1985) Adherence
+of coagulase-negative Staphylococci to plastic tissue culture
+plates: a quantitative model for the adherence of Staphylo-
+cocci to medical devices. J Clin Microbiol 22: 996-06.
+
+Clinical and Laboratory Standards Institute (2012) Performance
+Standards for Antimicrobial Susceptibility Testing: Ap-
+proved Standard M100-S22.CLSI, Wayne, PA, USA.
+
+Contreras A, Sierra D, Sanchez A et al. (2007) Mastitis in small
+
+ruminants. Small Ruminant Res 68:145-153.
+
+Cucarella C, Solano C, Valle J et al. (2001) Bap, a Staphylococcus
+aureus surface protein involved in biofilm formation. J Bac-
+teriol 183:2888-2896.
+
+Cucarella C, Tormo MA, Úbeda C et al. (2004) Role of biofilm-
+associated protein Bap in the pathogenesis of bovine Staphy-
+lococcus aureus. Infect Immun 72:2177-2185.
+
+Cunha MLRS, Sinzato YK, Silveira LVA (2004) Comparison of
+methods for the identification of coagulase-negative Staphy-
+lococcus. Mem Inst Oswaldo Cruz 99: 855-860.
+
+Ertas N, Gonulalan Z, Yildirim Y et al. (2010) Detection of Staph-
+ylococcus aureus enterotoxins in sheep cheese and dairy
+desserts by multiplex PCR technique. Int J Food Microbiol
+142:74-77.
+
+Fagundes H, Oliveira CAF (2004) Infecções intramamárias cau-
+sadas por Staphylococcus aureus e suas implicações em
+saúde pública. Cienc Rural 34:1315-132.
+
+Giudice P, Blanc V, de Rougemont A et al. (2009) Primary skin
+abscesses are mainly caused by Panton-Valentine leuko-
+cidin-positive Staphylococcus aureus strains. Dermatology
+219:299-202.
+
+Johnson WM, Tyler SD, Ewan EP et al. (1991) Detection of genes
+for enterotoxins, exfoliative toxins, and toxic shock syn-
+drome toxin 1 in Staphylococcus aureus by the polymerase
+chain reaction. J Clin Microbiol 29:426-430.
+
+Jones TO, Wieneke AA (1986) Staphylococcal toxic shock syn-
+
+drome. Vet Rec 119:34-45.
+
+Kumar R, Yadav BR, Singh RS (2010) Genetic determinants of
+antibiotic resistance in Staphylococcus aureus isolates from
+milk of mastitic crossbred cattle. Curr Microbiol 60:379-
+386.
+
+Lina G, Piemont Y, Godail-Gamot F et al. (1999) Involvement of
+Panton-Valentine
+leukocidin-producing Staphylococcus
+aureus in primary skin infections and pneumonia. Clin In-
+fect Dis 29:1128-1132.
+
+McDougal LK, Steward CD, Killgore GE et al. (2003) Pulsed-
+field gel electrophoresis typing of oxacillin-resistant Staphy-
+lococcus aureus isolates from the United States: Estab-
+lishing a national database. J Clin Microbiol 41:5113-5120.
+McDougall S, Murdough P, Pankey W et al. (2001) Relationship
+among somatic cell count, California mastitis test, imped-
+ance and bacteriological status of milk in goats and sheep in
+early lactation. Small Ruminant Res 40:245-254.
+
+Moroni P, Pisoni G, Varisco G et al. (2007) Effect of intra-
+mammary infection in Bergamasca meat sheep on milk pa-
+rameters and lamb growth. J Dairy Res 74:340-344.
+
+Murakami K, Minamide K, Wada K et al. (1991) Identification of
+methicillin-resistant strains of staphylococci by polymerase
+chain reaction. J Clin Microbiol 29:2240-2244.
+
+Oliveira A, Cunha MLRS (2010) Comparison of methods for the
+detection of biofilm production in coagulase-negative staph-
+ylococci. BMC Res Notes 3:260.
+
+Otto M (2008) Staphylococcal biofilm. Curr Top Microbiol
+
+Immunol 322:207-228.
+
+Peacock SJ, Moore CE, Justice A et al. (2002) Virulent combina-
+tions of adhesin and toxin genes in natural populations of
+Staphylococcus aureus. Infect Immun 70:4987-4996.
+
+Pengov A, Ceru S (2003) Antimicrobial drug susceptibility of
+Staphylococcus aureus strains isolated from bovine and
+ovine mammary glands. J Dairy Sci 86:3157-3163.
+
+Rohde H, Burandt EC, Siemssen N et al. (2007) Polysaccharide
+intercellular adhesin or protein factors in biofilm accumula-
+tion of Staphylococcus epidermidis and Staphylococcus
+aureus isolated from prosthetic hip and knee joint infections.
+Biomaterials 28:1711-1720.
+
+Sabour PM, Gill JJ, Lepp D et al. (2004) Molecular Typing and
+Distribution of Staphylococcus aureus Isolates in Eastern
+Canadian Dairy Herds. J Clin Microbiol 42:3449-3455.
+
+Santos FGP, Mota RA, Silveira Filho VM et al. (2003) Tipagem
+molecular de Staphylococcus aureus isolados de leite de
+vacas com mastite subclínica e equipamentos de ordenha
+procedentes do estado do Pernambuco. Revista Napgama
+6:19-23.
+
+Santos RA, Mendonça CL, Afonso JA et al. (2007) Aspectos
+clínicos do leite em ovelhas com mastite induzidas experi-
+mentalmente com Staphylococcus aureus. Pesq Vet Bras
+27:6-12.
+
+Schalm OW, Noorlander DO (1957) Experiments and observa-
+tions leading to development of the California Mastitis Test.
+J Am Vet Med Assoc 30:199-207.
+
+Scherrer D, Corti S, Muehlherr JE et al. (2004) Phenotypic and
+genotypic characteristics of Staphylococcus aureus isolates
+from raw bulk-tank milk samples of goats and sheep. Vet
+Microbiol 101:101-107.
+
+Tel OU, Aslantas O, Keskey K et al. (2012) Investigation of the
+antibiotic resistance and biofilm of Staphylococcus aureus
+
+S. aureus from sheep milk
+
+543
+
+strains isolated from gangrenous mastitis of ewe. Acta Vet
+Hung 60:189-197.
+
+Unal N, Askar S, Macun HC et al. (2012) Panton-Valentine
+leukocidin and some exotoxins of Staphylococcus aureus
+and antibiotic susceptibility profiles os staphylococci iso-
+lated from milk of small ruminants. Trop Anim Health Prod
+44:573-579.
+
+Vautor E, Cockfield J, Le Marechal C et al. (2009) Difference in
+virulence between Staphylococcus aureus isolates causing
+gangrenous mastitis vs. subclinical mastitis in a dairy sheep
+flock. Vet Res 40:56.
+
+Vyletelová M, Vlková H, Manga I (2011) Occurrence and charac-
+teristics of methicillin resistant Staphylococcus aureus and
+methicillin resistant coagulase-negative staphylococci in
+raw milk manufacturing. Czech J Food Sci 29: 11-16.
+
+Wang SC, Wu CM, Xia et al. (2009) Distribution of super-
+antigenic toxin genes in Staphylococcus aureus isolates
+
+from milk samples of bovine subclinical mastitis cases in
+two major dairy production regions of China. Vet Microbiol
+137:276-281.
+
+Wang Y, Wu CM, Lu LM et al. (2008) Macrolide-lincosamide-
+resistant phenotypes and genotypes of Staphylococcus
+aureus isolated from bovine clinical mastitis. Vet Microbiol
+130:118-125.
+
+Zafalon LF, Verissimo CJ, Mamizuka EM et al. (2012) Estafi-
+lococos resistentes a oxacilina isolados dos casos de mastite
+subclinica em ovinos. Arq Inst Biol 79:1-7.
+
+Zecconi A, Cesaris L, Liandris E et al. (2006) Role of several
+Staphylococcus aureus virulence factors on the inflamma-
+tory response in bovine mammary gland. Microb Patho-
+genesis 40:177-183.
+
+Associate Editor: Odir Antonio Dellagostin
+
+All the content of the journal, except where otherwise noted, is licensed under a
+Creative Commons License CC BY-NC.
+
+

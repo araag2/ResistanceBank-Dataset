@@ -1,0 +1,6742 @@
+ORIGINAL RESEARCH
+published: 22 June 2015
+doi: 10.3389/fmicb.2015.00602
+
+Edited by:
+Patrícia Poeta,
+University of Trás-os-Montes e Alto
+Douro, Portugal
+
+Reviewed by:
+Atte Von Wright,
+University of Eastern Finland, Finland
+Carmen Losasso,
+Istituto Zooproﬁlattico Sperimentale
+delle Venezie, Italy
+
+*Correspondence:
+Haihong Hao,
+National Reference Laboratory of
+Veterinary Drug Residues and MOA
+Laboratory for Risk Assessment of
+Quality and Safety of Livestock and
+Poultry Products, Huazhong
+Agricultural University, No. 1,
+Shizhishan Street, Hongshan District,
+430070 Wuhan, China
+haohaihong@mail.hzau.edu.cn;
+Zonghui Yuan,
+National Reference Laboratory of
+Veterinary Drug Residues and MOA
+Key Laboratory for Detection of
+Veterinary Drug Residues, Huazhong
+Agricultural University, No. 1,
+Shizhishan Street, Hongshan District,
+430070 Wuhan, China
+yuan5802@mail.hzau.edu.cn
+
+Specialty section:
+This article was submitted to
+Antimicrobials, Resistance and
+Chemotherapy,
+a section of the journal
+Frontiers in Microbiology
+Received: 06 March 2015
+Accepted: 01 June 2015
+Published: 22 June 2015
+Citation:
+Kuang X, Hao H, Dai M, Wang Y,
+Ahmad I, Liu Z and Yuan Z (2015)
+Serotypes and antimicrobial
+susceptibility of Salmonella spp.
+isolated from farm animals in China.
+Front. Microbiol. 6:602.
+doi: 10.3389/fmicb.2015.00602
+
+Serotypes and antimicrobial
+susceptibility of Salmonella spp.
+isolated from farm animals in China
+
+Xiuhua Kuang 1, 2, Haihong Hao 1, 2, 3*, Menghong Dai 2, 3, Yulian Wang 2, 3,
+Zhenli Liu 1, 3 and Zonghui Yuan 1, 2, 3*
+
+Ijaz Ahmad 3,
+
+1 MOA Laboratory for Risk Assessment of Quality and Safety of Livestock and Poultry Products, Huazhong Agricultural
+University, Wuhan, China, 2 Hubei Collaborative Innovation Center for Animal Nutrition and Feed Safety, Huazhong Agricultural
+University, Wuhan, China, 3 National Reference Laboratory of Veterinary Drug Residues and MOA Key Laboratory for
+Detection of Veterinary Drug Residues, Huazhong Agricultural University, Wuhan, China
+
+Salmonella spp. can indirectly infect humans via transfer from animals and animal-derived
+food products, and thereby cause potentially fatal diseases. Therefore, gaining an
+understanding of Salmonella infection in farm animals is increasingly important. The aim
+of this study was to identify the distribution of serotypes in Salmonella samples isolated
+from chickens (n = 837), pigs (n = 930), and dairy cows (n = 418) in central China
+(Henan, Hubei, and Hunan provinces) in 2010–2011, and investigate the susceptibility of
+strains to antimicrobial agents. Salmonella isolates were identiﬁed by PCR ampliﬁcation
+of the invA gene, serotypes were determined by using a slide agglutination test for O
+and H antigens, and susceptibility to 24 antimicrobials was tested using the agar dilution
+method. In total, 248 Salmonella strains were identiﬁed: 105, 105, and 38 from chickens,
+dairy cows, and pigs, respectively. Additionally, 209 strains were identiﬁed in diseased
+pigs from the Huazhong Agricultural University veterinary hospital. Among these 457
+strains, the dominant serotypes were Typhimurium in serogroup B, IIIb in serogroup C,
+and Enteritidis in serogroup D. In antimicrobial susceptibility tests, 41.14% of Salmonella
+spp. were susceptible to all antimicrobial agents, 48.14% were resistant to at least one,
+and 34.72% were resistant to more than three classes. Strains were highly resistant to
+sulfamethoxazole-trimethoprim (39.61%), nalidixic acid (39.17%), doxycycline (28.22%),
+and tetracycline (27.58%). Resistance to cephalosporins and ﬂuoroquinolones ranged
+from 5.25 to 7.44% and 19.04 to 24.51%, respectively. Among penicillin-resistant and
+cephalosporin-resistant strains, 25 isolates produced extended-spectrum β-lactamases
+(ESBLs). The multidrug-resistant and ESBL-producing Salmonella strains identiﬁed in
+healthy animals here will present a challenge for veterinary medicine and farm animal
+husbandry, and could also pose a threat to public health. The level of antibiotic resistance
+observed in this study further highlights the need for careful and selective use of
+antibiotics.
+
+Keywords: Salmonella, farm animals, serotype, antibiotics, antimicrobial resistance
+
+Frontiers in Microbiology | www.frontiersin.org
+
+1
+
+June 2015 | Volume 6 | Article 602
+
+Kuang et al.
+
+Introduction
+
+in the USA,
+
+Salmonella spp. are a common source of foodborne diseases
+that cause morbidity and mortality worldwide (Chiu et al.,
+2010). Treating Salmonella infection in humans is expensive;
+it causes illness in ∼1.2 million
+for example,
+patients annually, resulting in estimated medical costs of $365
+million (Centers for Disease Control and Prevention, 2014). In
+the European Union (EU), salmonellosis is the second most
+commonly reported gastrointestinal infection, with a conﬁrmed
+case rate of 20.4 cases per 100,000 individuals in 2011 (European
+Centre for Disease Prevention and Control, 2013). In China,
+Salmonella causes an estimated 22.2% of foodborne diseases
+(Wang et al., 2007), and salmonellosis ranks fourth among the
+most prevalent foodborne diseases caused by microbial agents
+(Zhu et al., 2012). Many Salmonella serotypes exist, with >2600
+serovars classiﬁed based on the reactivity of antisera to O
+and H antigens (Stevens et al., 2009), and ∼292 identiﬁed in
+China between the 1980s and the end of 2000 (Yang, 2010).
+Salmonella also aﬀects farm animals, and infections on farms can
+cause substantial economic damage in relation to, for example,
+loss of poultry stocks and costly animal husbandry. Numerous
+serotypes of isolated Salmonella have been found to overlap
+between farm animals and humans (Alcaine et al., 2006). Indeed,
+Salmonella not only directly infects humans but also causes
+indirect infections via transfer from animals and animal-derived
+food products such as pork and milk.
+
+The use of antimicrobials is important
+
+for the control
+and treatment of Salmonella. However, since the early 1990s,
+antimicrobial- and multidrug-resistant Salmonella strains have
+emerged, leading to treatment failure. Researchers have reported
+a link between the use of antimicrobials in food animals
+and the emergence of antimicrobial resistance in pathogenic
+bacteria (Gong et al., 2013). Multidrug-resistant bacteria pose
+a severe threat to public health, particularly those that are
+resistant to β-lactams and ﬂuoroquinolones (Lai et al., 2014).
+The increasing number of multidrug-resistant Salmonella strains
+is a global concern, with some countries and international
+organizations creating surveillance systems which include
+collaboration between human health, veterinary, and food-
+related sectors to monitor the spread of
+these and other
+foodborne bacteria. Examples include the Danish Integrated
+Antimicrobial Resistance Monitoring and Research Program, the
+European Food Safety Authority, the National Antimicrobial
+Resistance Monitoring System in the USA, and the Global
+Foodborne Infections Network run by the World Health
+Organization. These surveillance systems are also employed to
+monitor antimicrobial resistance, antimicrobial consumption in
+livestock, and serotype distribution, and data describing the
+current trend of increasing resistance to multiple drugs has been
+made available (European Centre for Disease Prevention and
+Control, 2013). In contrast, surveillance reports are unavailable
+in China; however, the National Monitoring Network for Bacteria
+of Animal Origin was launched as a surveillance system in
+2008. Travel, migration, and the distribution of food between
+countries can also contribute to the spread of foodborne diseases
+and multidrug-resistant bacteria. Therefore, monitoring the
+
+Serotypes, antimicrobial susceptibility of Salmonella spp.
+
+distribution of Salmonella serotypes and levels of antibiotic
+resistance in animals and animal-food products is also important
+for maintaining safe travel and the commercial trade in food
+animals (Lai et al., 2014; Russell et al., 2014).
+
+In central China, Henan, Hubei, and Hunan provinces are
+important residential and trade centers. These three areas are
+also the main producers of animal-derived foods in China; in
+2012, their output of meat, eggs, and milk accounted for 19.14%,
+19.45%, and 9.17% of total Chinese production, respectively
+(China Agriculture Statistical Report, 2012). Previous studies
+documented a phenotype for Salmonella serovars that was
+discovered in chickens and pigs, and in animal-derived foods, in
+China (Gong et al., 2013; Li et al., 2013; Lai et al., 2014; Wang
+et al., 2014). However, speciﬁc knowledge of the Salmonella
+serovars that exist in dairy cows and other farm animals in
+central China is currently lacking. Therefore, the aim of this
+study was to evaluate the prevalence of Salmonella in chickens,
+pigs, and dairy cows on farms in central China. Additionally, the
+diversity of Salmonella serovars on these farms was identiﬁed,
+and their susceptibility and resistance to antimicrobial agents
+was investigated. A diverse range of serotypes was observed
+in healthy and diseased farm animals, and several multidrug-
+resistant and extended-spectrum β-lactamase (ESBL)-producing
+Salmonella strains were identiﬁed.
+
+Materials and Methods
+Samples and Salmonella Isolation
+Cloacal and anal swabs were collected from healthy animals on
+farms in Henan, Hubei, and Hunan provinces between March
+2010 and July 2011. Each sampling site was visited only once.
+In total, 2185 samples were collected in a random manner from
+chickens (n = 837), pigs (n = 930), and dairy cows (n =
+418). Farms were chosen based on their scale with the following
+requirements: for pigs, annual sales were >10,000 heads; for
+chickens, the breeding stock was >100,000 heads; and for dairy
+cows, the breeding stock was >1000 heads. The owners of each
+farm gave permission for swab samples to be to collected. The
+animals from which samples were extracted remained alive,
+did not undergo any surgery, and were not administered any
+drugs. Therefore, ethical approval was not required for the study
+because the sampling process did not harm the animals; however,
+their distress was considered and minimized at all times. All
+collected samples were stored at 4 ◦C and cultured at least 24 h
+before the isolation experiments were conducted.
+
+The procedure for culture and isolation was based on
+standard laboratory protocol
+(WHO Global Foodborne
+Infections Network, 2010). Brieﬂy, the samples were mixed
+with 5 mL of 0.85% saline solution for 30 min, and 1 mL of
+this mixture solution was added to buﬀered peptone water
+(BPW; Hopebiol, Qingdao, China) at a volume ratio of 1:10.
+The resultant mixture was incubated for 10 h at 37 ◦C for pre-
+enrichment. Approximately 500 μL of this BPW mixture was
+then added to 5 mL selenite cystine broth (Hopebiol, Qingdao,
+China) and incubated at 37 ◦C for 20 h. The broth was streaked
+onto CHROMagar Salmonella (CHROMagar, France) and
+
+Frontiers in Microbiology | www.frontiersin.org
+
+2
+
+June 2015 | Volume 6 | Article 602
+
+Kuang et al.
+
+Serotypes, antimicrobial susceptibility of Salmonella spp.
+
+incubated at 37 ◦C for 24–48 h. Potential Salmonella colonies
+were transferred into Luria–Bertani agar for puriﬁcation and
+enrichment, and then incubated for 20 h at 37 ◦C to facilitate
+identiﬁcation.
+
+Additionally, 209 strains of Salmonella were
+
+isolated
+from samples collected from diseased pigs in the Huazhong
+Agricultural University veterinary hospital (HAUvh) between
+2008 and 2010.
+
+Salmonella Identiﬁcation
+Biochemical testing and the invA gene were used to conﬁrm
+the identity of isolates with typical Salmonella phenotypes.
+Biochemical testing was performed using a biochemical tube
+(Hangzhou Microbe Reagent Co., Ltd., China), and the results
+were interpreted based on Bergey’s Manual of Systematic
+Bacteriology (Garrity et al., 2004). The invA gene was ampliﬁed
+by polymerase chain reaction (PCR) (Malorny et al., 2003).
+Positive results were randomly selected for sequencing. The
+obtained sequences were compared with the same gene registered
+in GenBank by using BLAST.
+
+Determination of Salmonella Serogroup and
+Serotype
+The serogroup and serovars of the Salmonella isolates were
+determined by slide agglutination tests with O antigen and H
+antigen antiserums obtained from Lansheng, Lanzhou Institute
+of Biology, China. The results were interpreted according to the
+Kauﬀmann-White scheme (Grimont and Weill, 2007).
+
+Antimicrobial Susceptibility Testing
+The agar dilution method with Mueller-Hinton agar (Oxoid
+Ltd., England) was used to test the susceptibility of Salmonella
+to 24 antibiotics (Table 1). These antimicrobials were classiﬁed
+based on their importance to human medicine (Government
+of Canada, 2005). Escherichia coli ATCC 25922 was used
+as the control microorganism. The results of the tests for
+ampicillin (AMP), amoxicillin (AMX), amoxicillin-clavulanic
+acid (AMC), ceftriaxone (CRO), imipenem (IPM), aztreonam
+(ATM), gentamicin (GEN), amikacin (AMK), tetracycline (TET),
+doxycycline (DOX), ciproﬂoxacin (CIP),
+levoﬂoxacin (LEV),
+nalidixic acid (NAL), sulfamethoxazole-trimethoprim (SXT),
+chloramphenicol (CHL), and fosfomycin (FOS) were interpreted
+based on CLSI M100-S22 (Clinical and Laboratory Standards
+Institute, 2012), whereas those for ceftiofur (CEF), enroﬂoxacin
+(ENO), and ﬂorfenicol (FFC) were interpreted based on CLSI
+M31-A3 (Clinical and Laboratory Standards Institute, 2008).
+Interpretive CLSI criteria were not available for cefquinome
+(CEQ), polymyxin B (PB), azithromycin (AZM), olaquindox
+(OLA), and mequindox (MEQ); therefore, results with the
+following minimum inhibitory concentration (MIC) values
+were considered resistant for these antibiotics: CEQ ≥8 μg/mL
+(using CEF as a reference); PB ≥4 μg/mL (Kwa et al., 2007);
+AZM ≥16 μg/mL (Sjölund-Karlsson et al., 2011); OLA and
+MEQ ≥64 μg/mL (Sørensen et al., 2003).
+
+Strains that were resistant to AMP, AMX, ATM, and/or CRO
+were examined for ESBLs by using the MIC values of ceftazidime,
+ceftazime-clavulanic acid, cefotaxime, and cefotaxime-clavulanic
+
+TABLE 1 | Antibiotics and the range of concentrations tested.
+
+Antibiotic
+
+Abbreviation Concentration range (µg/mL)
+
+AMP
+Ampicillin
+AMX
+Amoxicillin
+AMC
+Amoxicillin-clavulanic acid
+CRO
+Ceftriaxone
+CEF
+Ceftiofur
+CEQ
+Cefquinome
+IPM
+Imipenem
+ATM
+Aztreonam
+GEN
+Gentamicin
+AMK
+Amikacin
+TET
+Tetracycline
+DOX
+Doxycycline
+CIP
+Ciproﬂoxacin
+ENO
+Enroﬂoxacin
+LEV
+Levoﬂoxacin
+Nalidixic acid
+NAL
+Sulfamethoxazole-trimethoprim SXT
+CHL
+Chloramphenicol
+Florfenicol
+FFC
+FOS
+Fosfomycin
+PB
+Polymyxin B
+AZM
+Azithromycin
+OLA
+Olaquindox
+Mequindox
+MEQ
+
+0.06/0.03 ∼ 128/256
+
+0.06 ∼ 256
+0.06 ∼ 256
+
+0.06 ∼ 512
+0.06 ∼ 512
+0.015 ∼ 256
+0.03 ∼ 128
+0.06 ∼ 512
+0.5 ∼ 512
+0.5 ∼ 512
+0.5 ∼ 512
+0.5 ∼ 512
+0.015 ∼ 512
+0.06 ∼ 512
+0.06 ∼ 512
+0.06 ∼ 512
+
+0.25/4.75 ∼ 128/2432
+
+0.5 ∼ 512
+0.5 ∼ 512
+1 ∼ 2,048
+0.5 ∼ 512
+0.5 ∼ 512
+0.25 ∼ 128
+0.25 ∼ 128
+
+acid. Results were interpreted based on CLSI M100-S22 (Clinical
+Institute, 2012), and Klebsiella
+and Laboratory Standards
+pneumoniae ATCC 700603 and E. coli ATCC 25922 were used
+as the control organisms.
+
+categorized as
+
+isolated strains were
+
+Statistical Analysis
+The
+(S),
+intermediary (I), or resistant (R) based on the MIC values
+and the CLSI interpretive criteria. MIC50 and MIC90 were
+calculated using previously described methods (Schwarz et al.,
+2010), and 95% conﬁdence intervals were calculated using SPSS
+16.0 software (IBM, USA).
+
+sensitive
+
+Results
+Salmonella Isolates and Serotypes
+In total, 248 bacterial
+isolates taken from healthy chickens,
+pigs, and dairy cows, and 209 isolates from diseased pigs, were
+veriﬁed as Salmonella spp., and 457 strains identiﬁed as serotypes
+were tested for antimicrobial susceptibility. In all samples taken
+from healthy animals, the prevalence of Salmonella spp. was
+11.35% (248/2185). The speciﬁc prevalence of Salmonella spp.
+in chickens, pigs, and dairy cows was 12.55% (105/837), 4.09%
+(38/930), and 25.12% (105/418), respectively.
+
+After
+groups
+
+serotyping, all
+isolates were divided into three
+(Table 2). Thirty-four isolates did not cluster for
+
+Frontiers in Microbiology | www.frontiersin.org
+
+3
+
+June 2015 | Volume 6 | Article 602
+
+Kuang et al.
+
+Serotypes, antimicrobial susceptibility of Salmonella spp.
+
+TABLE 2 | Serovar distribution of isolated Salmonella (n = 457).
+
+Serotype (N)a
+
+Serovars
+
+Chicken (nb)
+
+Pig (nb)
+
+Dairy cow (nb)
+
+Unable to self- agglutination (34)
+
+Group A (3)
+
+Group B (205)
+
+Group C1 (141)
+
+Group C2-C3 (5)
+
+Group D1 (16)
+
+Group D3 (1)
+
+Group E1 (4)
+
+Group E4 (20)
+
+Unidentiﬁed types
+
+Unidentiﬁed subtypes
+Typhimurium
+Agona
+Derby
+II
+Kunduchi
+Schwarzenground
+Lagos
+Fyris
+Agama
+Farsta
+Gloucester
+Kingston
+Kubacha
+Saintpaul
+Stanley
+Travis
+Tumodi
+Uppsala
+
+Unidentiﬁed subtypes
+IIIb
+Typhisuis
+II
+Schwabach
+Irumu
+Kaduna
+Birkenhead
+Cotonou
+Hissar
+Paratyphic
+Thompson
+
+Unidentiﬁed subtypes
+Quiniela
+
+Unidentiﬁed subtypes
+Enteritidis
+II
+Berta
+
+II
+
+Meleagridis
+Newlands
+Simi
+
+Unidentiﬁed subtypes
+Kouka
+Gnesta
+Visby
+Rideau
+
+6
+
+3
+
+31
+20
+3
+1
+1
+0
+0
+0
+0
+1
+1
+1
+0
+1
+1
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0
+0
+
+4
+9
+1
+1
+
+0
+
+1
+0
+1
+
+2
+4
+0
+0
+1
+
+28
+
+0
+
+19
+11
+0
+2
+1
+0
+3
+2
+0
+1
+0
+0
+0
+0
+0
+1
+1
+0
+1
+
+90
+22
+7
+6
+5
+3
+2
+1
+1
+1
+1
+1
+
+4
+1
+
+0
+0
+0
+0
+
+1
+
+0
+2
+0
+
+9
+0
+3
+1
+0
+
+Unidentiﬁed subgroups (28)
+
+11
+
+16
+
+aN, the total number of Salmonella isolates per serogroup.
+bn, number of isolates with a given serotype of animals.
+
+0
+
+0
+
+45
+26
+12
+6
+4
+4
+0
+1
+2
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0
+0
+
+0
+1
+0
+0
+
+0
+
+0
+0
+0
+
+0
+0
+0
+0
+0
+
+1
+
+Frontiers in Microbiology | www.frontiersin.org
+
+4
+
+June 2015 | Volume 6 | Article 602
+
+Kuang et al.
+
+Serotypes, antimicrobial susceptibility of Salmonella spp.
+
+self-agglutination in sterile saline. Twenty-eight isolates could
+self-agglutination in sterile saline, but such activity was not
+observed with O antigen. The serogroups of the remaining
+395 strains were determined. Eight distinct serogroups and 41
+distinct serotypes were identiﬁed, as shown in Table 2. Group
+B (n = 205, 44.86%) and group C1 (n = 141, 30.85%)
+were identiﬁed as the dominant serogroups. Typhimurium
+12.47% (n = 57) and IIIb 4.81% (n = 22) were the
+dominant serovars. Detailed serotypes could not be determined
+for 208 Salmonella isolates using the available H antigen in the
+diﬀerent serogroups. According to the species of animal tested,
+the dominant serotypes were Typhimurium and Enteritidis in
+chickens, IIIb and Typhimurium in pigs, and Typhimurium and
+Agona in dairy cows (Table 2).
+
+Antimicrobial Susceptibility Testing
+Results of antimicrobial susceptibility testing are summarized in
+Table 3. Among the 457 isolates, 188 (41.14%) were susceptible
+to all tested antimicrobials and 220 (48.14%) were resistant
+to at least one antibiotic. All strains showed susceptibility
+or intermediate susceptibility to imipenem. Strains were most
+commonly resistant to nalidixic acid (39.17%), sulfamethoxazole-
+trimethoprim (39.61%), doxycycline (28.22%), and tetracycline
+(27.58%). They also showed resistance to all specialist drugs used
+only in veterinary medicine, including enroﬂoxacin (24.51%),
+ﬂorfenicol (20.13%), ceftiofur (7.44%), and cefquinome (5.25%),
+and to drugs used in both veterinary and human medicine,
+such as ciproﬂoxacin (24.07%), gentamicin (19.69%), ceftriaxone
+(6.34%), and amoxicillin/clavulanate (4.38%). Resistance to
+azithromycin, which is one of the macrolides often used against
+gram-positive bacteria, was expressed at 16.19%. Although they
+are rarely used in clinical applications, resistance to polymyxin B
+(18.82%) and fosfomycin (12.04%) was also observed.
+
+When antibiotic resistance was analyzed according to animal
+species, the resistance rates of Salmonella were diﬀerent for the
+majority of the drugs tested (Table 4). Excluding imipenem,
+resistance to the other 23 drugs ranged from 1.90 to 49.52% in
+chickens and 0.40 to 48.18% in pigs. In comparison, Salmonella
+from dairy cows showed resistance to 12 types of drug, and
+resistance rates ranged from 0.95 to 10.48%.
+
+In total, 159 strains (34.72%) exhibited varying degrees of
+multidrug resistance (MDR) (Table 5), deﬁned as resistance to at
+least three diﬀerent classes of antimicrobials. The Salmonella spp.
+that exhibited MDR consisted of 104 strains from pigs (including
+15 and 89 strains from healthy and diseased pigs, respectively),
+51 strains from healthy chickens, and 4 strains from healthy dairy
+cows. MDR isolates showed diverse resistance to diﬀerent classes
+of antibiotics, but were most frequently resistant to penicillins,
+ﬂuoroquinolones, and quinolones (each occurring 11 times). β-
+lactam/β-lactamase inhibitor combinations appeared with the
+lowest frequency (ﬁve times) in Salmonella strains with MDR.
+
+Based on analysis of MIC values and CLSI, 25 of the 457
+isolates (5.47%) were conﬁrmed as ESBL producers, with three
+suspected strains (Table 6). The ESBL-producing strains were
+obtained from diﬀerent animals and areas as follows: two strains
+from chickens in Hubei, 15 strains from chickens in Henan, and
+eight strains from diseased pigs. Because the diﬀerences in MIC
+
+values between CAZ, CAZ/C and/or CTX, and CTX/C were not
+=3-fold based on CLSI, three strains from diseased pigs were
+suspected to be ESBL-producing strains.
+
+The Salmonella serotypes of isolates diﬀered in terms of their
+sensitivity to drugs (Table 7). Among all drug-sensitive isolates
+(n = 188), 80 isolates were identiﬁed in 17 speciﬁc serotypes.
+Typhimurium (n = 28) was the major serotype. Isolates of
+Salmonella strains with MDR showed 26 speciﬁc serotypes and
+the major serotypes were Enteritidis and IIIb (both n = 10).
+All serotypes were resistant to nalidixic acid, but diﬀerences
+were observed in the resistance proﬁles of Salmonella serotypes
+that exhibited MDR. The most common resistance proﬁles in
+Salmonella IIIb (n = 10) and Enteritidis isolates (n = 10) were
+AMP-AMX-SXT-NAL and SXT-OLA-MEQ-NAL, respectively.
+The resistance proﬁle was AMP-AMX-TET-DOX-ENO-SXT-
+CHL-NAL in Typhimurium (n = 6), TET-DOX-CIP-ENO-SXT-
+CHL-FFC-NAL in Schwabach (n = 4), and PB-OLA-MEQ-NAL
+in Kouka (n = 4).
+
+Discussion
+
+The prevalence of Salmonella spp. in the center of China were
+in agreement with those obtained from Sichuan province farm
+animals (Li et al., 2013), but diﬀered from other areas. The
+results were higher than in EU (European Food Safety Authority,
+2014), where chicken 2.7%, pig 6.3%, cattle 2.4%, but were lower
+than in USA (National Antimicrobial Resistance Monitoring
+System, 2011), where chicken 52.56% ∼ 47.95%, pig 10.34% ∼
+8.79%, cattle 23.02% ∼ 33.20%. Diﬀerences in isolation rates
+can be interpreted based on diﬀerences in region, sample types,
+collection seasons, culture methods, isolation methodologies,
+culture media, and local environmental conditions. For example,
+salmonellosis cases increased over the summer months, peaking
+in August and September, began decreasing thereafter (European
+Centre for Disease Prevention and Control, 2013). Therefore,
+a global perspective should ideally be adopted during sample
+collection,
+long-term
+monitoring.
+
+isolate separation, and,
+
+in particular,
+
+The prevalence of Salmonella serotypes diﬀered among
+animals and regions. Serogroup B and C1 were dominant, this
+result was consistent with in USA (Antunes et al., 2011). Serotype
+diﬀer from other study. The dominant in chicken, pig, dairy cattle
+were Typhimurium and Enteritidis, IIIb and Typhimurium,
+Typhimurium and Agona in this study, respectively. The
+dominant serotype from chicken were Derby and Typhimurium
+in Sichuan province (Li et al., 2013), from pig were Enteritidis
+Indianain in Shandong province (Lai et al., 2014). The dominant
+from chicken, pig, cattle were Kentucky and Enteritidis, Adelaide
+and Johannesburg, Montevideo and Dublin in USA (National
+Antimicrobial Resistance Monitoring System, 2011); and from
+chicken, pig, cattle were Enteritidis and Infantis, Typhimurium
+and Typhimurium (monophasic), Typhimurium and Dublin in
+EU (European Food Safety Authority, 2014). This diﬀerence
+suggests serogroups and serotypes are varying according to
+geographical regions, and diversities and complexities. Certain
+serovars can emerge within a country or region for a certain
+period and then disappear with no evident cause or intervention.
+
+Frontiers in Microbiology | www.frontiersin.org
+
+5
+
+June 2015 | Volume 6 | Article 602
+
+Kuang et al.
+
+Serotypes, antimicrobial susceptibility of Salmonella spp.
+
+d
+y
+r
+o
+g
+e
+t
+a
+C
+
+I
+
+C
+%
+5
+9
+
+0
+9
+C
+M
+
+I
+
+0
+5
+C
+M
+
+I
+
+)
+
+%
+R
+
+(
+
+)
+
+%
+
+(
+I
+
+)
+
+%
+S
+
+(
+
+a
+)
+L
+m
+/
+g
+μ
+
+(
+
+s
+C
+M
+
+I
+
+f
+o
+n
+o
+i
+t
+u
+b
+i
+r
+t
+s
+D
+
+i
+
+c
+5
+1
+0
+
+.
+
+0
+
+c
+3
+0
+
+.
+
+0
+
+c
+6
+0
+
+.
+
+0
+
+5
+2
+1
+
+.
+
+0
+
+c
+5
+2
+
+.
+
+0
+
+c
+5
+
+.
+
+0
+
+1
+
+6
+1
+
+2
+3
+
+4
+6
+
+8
+2
+1
+
+b
+6
+5
+2
+
+b
+2
+1
+5
+
+4
+2
+0
+1
+
+b
+8
+4
+0
+2
+
+l
+
+i
+
+.
+s
+a
+b
+o
+r
+c
+m
+
+i
+
+i
+t
+n
+a
+o
+t
+
+)
+7
+5
+4
+=
+n
+
+(
+
+s
+e
+t
+a
+o
+s
+
+l
+
+i
+
+a
+
+l
+l
+
+l
+
+e
+n
+o
+m
+a
+S
+f
+o
+y
+t
+i
+l
+i
+
+b
+i
+t
+p
+e
+c
+s
+u
+S
+
+|
+
+3
+E
+L
+B
+A
+T
+
+P,
+C
+
+I
+
+;
+e
+n
+
+i
+l
+
+c
+y
+c
+y
+x
+o
+D
+
+,
+
+X
+O
+D
+
+;
+e
+n
+
+i
+l
+
+c
+y
+c
+a
+r
+t
+e
+T
+
+,
+T
+E
+T
+
+i
+
+;
+n
+c
+a
+k
+m
+A
+
+i
+
+,
+
+K
+M
+A
+
+i
+
+i
+
+;
+n
+c
+m
+a
+t
+n
+e
+G
+
+,
+
+N
+E
+G
+
+;
+
+m
+a
+n
+o
+e
+r
+t
+z
+A
+
+,
+
+M
+T
+A
+
+;
+
+m
+e
+n
+e
+p
+m
+
+i
+
+;
+e
+m
+o
+n
+u
+q
+e
+C
+
+f
+
+i
+
+,
+
+Q
+E
+C
+
+f
+
+;
+r
+u
+o
+i
+t
+f
+e
+C
+
+,
+F
+E
+C
+
+;
+e
+n
+o
+x
+a
+i
+r
+t
+f
+e
+C
+
+,
+
+O
+R
+C
+
+;
+
+i
+
+d
+c
+a
+
+i
+
+l
+
+c
+n
+a
+u
+v
+a
+c
+-
+n
+
+l
+
+i
+l
+l
+i
+
+i
+
+c
+x
+o
+m
+A
+
+,
+
+C
+M
+A
+
+;
+n
+
+i
+l
+l
+i
+
+i
+
+c
+x
+o
+m
+A
+
+,
+
+X
+M
+A
+
+;
+n
+
+i
+l
+l
+i
+
+i
+
+c
+p
+m
+A
+P,
+M
+A
+
+,
+
+Q
+E
+M
+
+i
+
+;
+x
+o
+d
+n
+u
+q
+a
+O
+
+l
+
+,
+
+A
+L
+O
+
+i
+
+;
+n
+c
+y
+m
+o
+r
+h
+t
+i
+z
+A
+
+,
+
+M
+Z
+A
+
+;
+
+i
+
+B
+n
+x
+y
+m
+y
+o
+P
+
+l
+
+,
+
+B
+P
+
+i
+
+;
+n
+c
+y
+m
+o
+f
+s
+o
+F
+
+,
+
+S
+O
+F
+
+;
+l
+
+i
+
+o
+c
+n
+e
+f
+r
+o
+F
+
+l
+
+,
+
+C
+F
+F
+
+;
+l
+
+i
+
+o
+c
+n
+e
+h
+p
+m
+a
+r
+o
+h
+C
+
+l
+
+,
+L
+H
+C
+
+;
+
+m
+
+i
+r
+p
+o
+h
+t
+e
+m
+
+l
+
+i
+r
+t
+-
+e
+o
+z
+a
+x
+o
+h
+t
+e
+m
+a
+
+f
+l
+
+u
+S
+
+,
+
+T
+X
+S
+
+;
+
+i
+
+d
+c
+a
+
+i
+
+c
+x
+d
+
+i
+
+i
+l
+
+a
+N
+
+,
+L
+A
+N
+
+i
+
+;
+n
+c
+a
+x
+o
+ﬂ
+o
+v
+e
+L
+
+,
+
+V
+E
+L
+
+i
+
+;
+n
+c
+a
+x
+o
+ﬂ
+o
+r
+n
+E
+
+,
+
+O
+N
+E
+
+i
+
+;
+n
+c
+a
+x
+o
+ﬂ
+o
+r
+p
+C
+
+i
+
+i
+
+,
+n
+c
+y
+m
+o
+r
+h
+t
+i
+z
+a
+
+,
+
+B
+
+i
+
+n
+x
+y
+m
+y
+o
+p
+
+l
+
+,
+e
+m
+o
+n
+u
+q
+e
+c
+
+f
+
+i
+
+r
+o
+
+f
+
+i
+
+t
+s
+x
+e
+
+t
+o
+n
+
+o
+d
+
+i
+
+s
+t
+n
+o
+p
+k
+a
+e
+r
+b
+
+I
+
+S
+L
+C
+
+l
+
+.
+e
+b
+a
+
+l
+i
+
+a
+v
+a
+
+n
+e
+h
+w
+d
+e
+s
+u
+
+i
+
+s
+t
+n
+o
+p
+k
+a
+e
+r
+b
+
+I
+
+S
+L
+C
+
+.
+s
+r
+a
+b
+
+l
+
+a
+c
+i
+t
+r
+e
+v
+
+l
+
+e
+b
+u
+o
+d
+
+e
+r
+a
+
+i
+
+s
+t
+n
+o
+p
+k
+a
+e
+r
+b
+
+e
+c
+n
+a
+t
+s
+s
+e
+r
+
+i
+
+d
+n
+a
+
+s
+r
+a
+b
+
+l
+
+a
+c
+i
+t
+r
+e
+v
+
+k
+c
+a
+b
+
+l
+
+y
+b
+
+d
+e
+t
+a
+c
+d
+n
+
+i
+
+i
+
+e
+r
+a
+
+i
+
+s
+t
+n
+o
+p
+k
+a
+e
+r
+b
+
+y
+t
+i
+l
+i
+
+b
+i
+t
+p
+e
+c
+s
+u
+S
+a
+
+i
+
+.
+x
+o
+d
+n
+u
+q
+e
+M
+
+i
+
+.
+x
+o
+d
+n
+u
+q
+e
+m
+d
+n
+a
+
+,
+x
+o
+d
+n
+u
+q
+a
+o
+
+l
+
+i
+
+l
+
+I
+
+.
+e
+u
+a
+v
+C
+M
+d
+e
+t
+s
+e
+t
+
+i
+
+s
+h
+t
+
+n
+a
+h
+t
+
+r
+e
+h
+g
+h
+
+i
+
+l
+
+I
+
+.
+e
+u
+a
+v
+C
+M
+d
+e
+t
+s
+e
+t
+
+i
+
+s
+h
+t
+
+n
+a
+h
+t
+
+r
+e
+w
+o
+
+l
+
+i
+
+g
+n
+d
+u
+c
+n
+
+l
+
+I
+b
+
+i
+
+g
+n
+d
+u
+c
+n
+
+l
+
+I
+c
+
+i
+
+i
+
+,
+e
+n
+c
+d
+e
+m
+n
+a
+m
+u
+h
+
+n
+
+i
+
+e
+c
+n
+a
+t
+r
+o
+p
+m
+
+i
+
+h
+g
+h
+
+i
+
+f
+
+o
+
+l
+
+i
+
+s
+a
+b
+o
+r
+c
+m
+
+i
+
+i
+t
+n
+a
+
+:
+I
+I
+
+y
+r
+o
+g
+e
+t
+a
+C
+
+;
+s
+n
+o
+i
+t
+c
+e
+n
+
+f
+
+i
+
+t
+n
+a
+t
+s
+s
+e
+r
+
+i
+
+r
+o
+
+f
+
+s
+e
+v
+i
+t
+a
+n
+r
+e
+t
+l
+a
+
+o
+n
+
+,
+s
+n
+o
+i
+t
+c
+e
+n
+
+f
+
+i
+
+l
+
+a
+i
+r
+e
+t
+c
+a
+b
+
+s
+u
+o
+i
+r
+e
+s
+
+f
+
+o
+
+t
+n
+e
+m
+t
+a
+e
+r
+t
+
+e
+h
+t
+
+o
+t
+
+l
+
+a
+i
+t
+n
+e
+s
+s
+e
+
+i
+
+i
+
+,
+e
+n
+c
+d
+e
+m
+n
+a
+m
+u
+h
+
+n
+
+i
+
+e
+c
+n
+a
+t
+r
+o
+p
+m
+
+i
+
+h
+g
+h
+
+i
+
+y
+r
+e
+v
+
+f
+
+o
+
+l
+
+i
+
+s
+a
+b
+o
+r
+c
+m
+
+i
+
+i
+t
+n
+a
+
+:
+I
+
+y
+r
+o
+g
+e
+t
+a
+C
+d
+
+l
+
+;
+e
+b
+a
+
+l
+i
+
+a
+v
+a
+y
+
+l
+l
+
+a
+r
+e
+n
+e
+g
+e
+r
+a
+e
+c
+n
+a
+t
+s
+s
+e
+r
+
+i
+
+r
+o
+
+f
+
+s
+e
+v
+i
+t
+a
+n
+r
+e
+t
+l
+a
+,
+s
+g
+u
+r
+d
+e
+n
+
+i
+l
+
+-
+t
+s
+r
+ﬁ
+
+i
+
+i
+
+s
+a
+d
+e
+s
+u
+,
+e
+n
+c
+d
+e
+m
+n
+a
+m
+u
+h
+n
+
+i
+
+e
+c
+n
+a
+t
+r
+o
+p
+m
+
+i
+
+i
+
+m
+u
+d
+e
+m
+
+f
+
+l
+
+i
+
+o
+s
+a
+b
+o
+r
+c
+m
+
+i
+
+i
+t
+n
+a
+:
+I
+I
+I
+
+y
+r
+o
+g
+e
+t
+a
+C
+
+l
+
+i
+
+;
+s
+a
+b
+o
+r
+c
+m
+
+i
+
+i
+t
+n
+a
+
+I
+I
+I
+
+y
+r
+o
+g
+e
+t
+a
+c
+o
+t
+e
+c
+n
+a
+t
+s
+s
+e
+r
+
+i
+
+r
+o
+
+f
+
+s
+e
+v
+i
+t
+a
+n
+r
+e
+t
+l
+a
+,
+s
+n
+o
+i
+t
+c
+e
+n
+
+f
+
+i
+
+f
+
+o
+y
+t
+e
+i
+r
+a
+v
+a
+t
+a
+e
+r
+t
+o
+t
+d
+e
+s
+u
+
+.
+t
+n
+a
+t
+s
+s
+e
+r
+
+i
+
+s
+a
+d
+e
+t
+r
+o
+p
+e
+r
+
+.
+t
+n
+a
+t
+s
+s
+e
+r
+
+i
+
+s
+a
+d
+e
+t
+r
+o
+p
+e
+r
+
+.
+t
+n
+a
+t
+s
+s
+e
+r
+
+i
+
+s
+a
+d
+e
+t
+r
+o
+p
+e
+r
+
+e
+r
+e
+w
+L
+m
+/
+g
+μ
+6
+1
+≥
+C
+M
+n
+a
+
+e
+r
+e
+w
+L
+m
+/
+g
+μ
+4
+6
+≥
+C
+M
+n
+a
+
+e
+r
+e
+w
+L
+m
+/
+g
+μ
+4
+≥
+C
+M
+n
+a
+
+I
+
+I
+
+I
+
+h
+t
+i
+
+w
+s
+e
+t
+a
+o
+s
+
+l
+
+I
+
+h
+t
+i
+
+w
+s
+e
+t
+a
+o
+s
+
+l
+
+I
+
+h
+t
+i
+
+w
+s
+e
+t
+a
+o
+s
+
+l
+
+I
+
+f
+
+.
+r
+u
+o
+i
+t
+f
+e
+C
+
+f
+
+o
+
+i
+
+t
+n
+o
+p
+k
+a
+e
+r
+b
+R
+e
+c
+n
+e
+r
+e
+e
+R
+
+f
+
+l
+
+.
+e
+b
+a
+
+l
+i
+
+a
+v
+a
+
+l
+
+.
+e
+b
+a
+
+l
+i
+
+a
+v
+a
+
+l
+
+.
+e
+b
+a
+
+l
+i
+
+a
+v
+a
+
+l
+
+.
+e
+b
+a
+
+l
+i
+
+a
+v
+a
+
+y
+l
+t
+n
+e
+r
+r
+u
+c
+
+t
+o
+n
+
+e
+r
+a
+
+n
+o
+i
+t
+a
+n
+b
+m
+o
+c
+
+i
+
+y
+l
+t
+n
+e
+r
+r
+u
+c
+
+t
+o
+n
+
+e
+r
+a
+
+n
+o
+i
+t
+a
+n
+b
+m
+o
+c
+
+i
+
+y
+l
+t
+n
+e
+r
+r
+u
+c
+
+t
+o
+n
+
+e
+r
+a
+
+n
+o
+i
+t
+a
+n
+b
+m
+o
+c
+
+i
+
+y
+l
+t
+n
+e
+r
+r
+u
+c
+
+t
+o
+n
+
+e
+r
+a
+
+n
+o
+i
+t
+a
+n
+b
+m
+o
+c
+
+i
+
+i
+
+i
+
+.
+e
+n
+c
+d
+e
+m
+n
+a
+m
+u
+h
+
+n
+
+i
+
+e
+s
+u
+d
+e
+t
+i
+
+m
+
+i
+l
+
+f
+
+o
+
+y
+l
+t
+n
+e
+r
+r
+u
+c
+
+e
+r
+a
+
+t
+a
+h
+t
+
+l
+
+i
+
+s
+a
+b
+o
+r
+c
+m
+
+i
+
+i
+t
+n
+a
+
+:
+
+V
+
+I
+
+y
+r
+o
+g
+e
+t
+a
+C
+
+l
+
+i
+
+a
+b
+o
+r
+c
+m
+
+i
+
+i
+t
+n
+a
+/
+m
+u
+i
+r
+e
+t
+c
+a
+b
+s
+h
+t
+
+i
+
+l
+
+i
+
+a
+b
+o
+r
+c
+m
+
+i
+
+i
+t
+n
+a
+/
+m
+u
+i
+r
+e
+t
+c
+a
+b
+s
+h
+t
+
+i
+
+l
+
+i
+
+a
+b
+o
+r
+c
+m
+
+i
+
+i
+t
+n
+a
+/
+m
+u
+i
+r
+e
+t
+c
+a
+b
+s
+h
+t
+
+i
+
+l
+
+i
+
+a
+b
+o
+r
+c
+m
+
+i
+
+i
+t
+n
+a
+/
+m
+u
+i
+r
+e
+t
+c
+a
+b
+s
+h
+t
+
+i
+
+r
+o
+
+f
+
+a
+i
+r
+e
+t
+i
+r
+c
+
+e
+v
+i
+t
+a
+t
+e
+r
+p
+r
+e
+t
+n
+
+i
+
+I
+
+S
+L
+C
+e
+
+r
+o
+
+f
+
+a
+i
+r
+e
+t
+i
+r
+c
+
+e
+v
+i
+t
+a
+t
+e
+r
+p
+r
+e
+t
+n
+
+i
+
+I
+
+S
+L
+C
+
+f
+
+r
+o
+
+f
+
+r
+o
+
+f
+
+a
+i
+r
+e
+t
+i
+r
+c
+
+e
+v
+i
+t
+a
+t
+e
+r
+p
+r
+e
+t
+n
+
+i
+
+a
+i
+r
+e
+t
+i
+r
+c
+
+e
+v
+i
+t
+a
+t
+e
+r
+p
+r
+e
+t
+n
+
+i
+
+I
+
+S
+L
+C
+g
+
+I
+
+S
+L
+C
+h
+
+I
+I
+
+I
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+I
+
+I
+I
+
+I
+I
+I
+
+I
+I
+I
+
+I
+
+I
+
+I
+
+I
+I
+I
+
+I
+I
+I
+
+I
+I
+I
+
+I
+I
+I
+
+–
+
+I
+I
+I
+
+I
+I
+
+V
+
+I
+
+V
+
+I
+
+2
+4
+
+.
+
+9
+7
+–
+0
+4
+
+.
+
+9
+5
+
+7
+3
+
+.
+
+5
+8
+–
+5
+5
+
+.
+
+4
+6
+
+6
+5
+2
+>
+
+6
+5
+2
+>
+
+1
+
+5
+
+.
+
+0
+
+9
+3
+
+.
+
+9
+1
+–
+7
+0
+
+.
+
+2
+1
+
+4
+6
+/
+8
+2
+1
+
+5
+2
+
+.
+
+0
+/
+5
+
+.
+
+0
+
+2
+8
+
+.
+
+6
+1
+–
+0
+6
+
+.
+
+7
+
+3
+9
+
+.
+
+9
+2
+–
+6
+4
+
+.
+
+4
+1
+
+2
+8
+
+.
+
+2
+–
+3
+0
+
+.
+
+1
+
+4
+4
+
+.
+
+0
+–
+4
+3
+
+.
+
+0
+
+3
+7
+
+.
+
+7
+–
+1
+1
+
+.
+
+0
+
+5
+3
+
+.
+
+2
+3
+–
+5
+2
+
+.
+
+9
+1
+
+6
+3
+
+.
+
+6
+1
+–
+4
+8
+
+.
+
+4
+
+7
+4
+
+.
+
+7
+5
+–
+5
+6
+
+.
+
+0
+4
+
+4
+5
+
+.
+
+4
+4
+–
+6
+1
+
+.
+
+0
+3
+
+3
+8
+
+.
+
+6
+–
+8
+4
+
+.
+
+4
+
+5
+3
+
+.
+
+6
+3
+–
+9
+2
+
+.
+
+2
+2
+
+5
+6
+
+.
+
+9
+–
+0
+1
+
+.
+
+6
+
+3
+1
+
+.
+
+2
+–
+8
+6
+
+.
+
+1
+
+2
+
+8
+
+1
+
+1
+
+6
+0
+
+.
+
+0
+<
+
+5
+
+.
+
+0
+
+6
+0
+
+.
+
+0
+
+5
+2
+
+.
+
+0
+
+5
+2
+1
+
+.
+
+0
+
+6
+0
+
+.
+
+0
+<
+
+4
+6
+
+8
+
+8
+2
+1
+
+8
+2
+1
+
+2
+3
+
+8
+2
+1
+
+4
+6
+
+2
+1
+5
+>
+
+1
+
+2
+
+4
+
+4
+
+6
+0
+
+.
+
+0
+<
+
+6
+0
+
+.
+
+0
+<
+
+8
+
+0
+6
+
+.
+
+4
+4
+–
+6
+2
+
+.
+
+4
+3
+
+2
+3
+4
+2
+/
+8
+2
+1
+>
+
+8
+3
+/
+2
+
+6
+7
+
+.
+
+5
+8
+–
+8
+6
+
+.
+
+9
+5
+
+7
+6
+
+.
+
+5
+7
+–
+6
+6
+
+.
+
+8
+4
+
+0
+1
+
+.
+
+2
+–
+9
+1
+
+.
+
+1
+
+6
+5
+2
+
+6
+5
+2
+
+2
+1
+5
+
+3
+7
+
+.
+
+9
+7
+–
+6
+8
+
+.
+
+8
+4
+
+2
+1
+5
+>
+
+7
+7
+
+.
+
+1
+4
+–
+4
+4
+
+.
+
+1
+2
+
+5
+2
+
+.
+
+0
+4
+–
+4
+8
+
+.
+
+1
+3
+
+5
+3
+
+.
+
+8
+3
+–
+4
+9
+
+.
+
+9
+2
+
+2
+3
+
+8
+2
+1
+
+8
+2
+1
+
+2
+
+2
+
+1
+<
+
+1
+
+5
+
+.
+
+0
+<
+
+6
+1
+
+8
+
+6
+4
+
+.
+
+6
+2
+
+2
+8
+
+.
+
+5
+2
+
+8
+3
+
+.
+
+4
+
+4
+3
+
+.
+
+6
+
+4
+4
+
+.
+
+7
+
+5
+2
+
+.
+
+5
+
+0
+
+7
+6
+
+.
+
+0
+
+9
+6
+
+.
+
+9
+1
+
+3
+5
+
+.
+
+1
+
+8
+5
+
+.
+
+7
+2
+
+7
+6
+
+.
+
+0
+
+9
+0
+
+.
+
+1
+
+4
+8
+
+.
+
+2
+
+2
+2
+
+.
+
+0
+
+0
+6
+
+.
+
+4
+
+2
+2
+
+.
+
+0
+
+4
+8
+
+.
+
+2
+
+8
+1
+
+.
+
+2
+
+0
+
+2
+2
+
+.
+
+0
+
+9
+0
+
+.
+
+1
+
+7
+8
+
+.
+
+2
+7
+
+9
+0
+
+.
+
+3
+7
+
+8
+7
+
+.
+
+2
+9
+
+4
+4
+
+.
+
+3
+9
+
+6
+9
+
+.
+
+7
+8
+
+3
+5
+
+.
+
+4
+9
+
+6
+1
+
+.
+
+7
+9
+
+5
+1
+
+.
+
+7
+9
+
+1
+3
+
+.
+
+0
+8
+
+5
+2
+
+.
+
+8
+9
+
+3
+3
+
+.
+
+1
+7
+
+2
+2
+
+.
+
+8
+2
+
+2
+8
+
+.
+
+1
+1
+
+6
+9
+
+.
+
+9
+5
+
+8
+0
+1
+
+7
+3
+
+9
+1
+1
+
+5
+1
+0
+
+.
+
+0
+<
+
+7
+0
+
+.
+
+4
+2
+
+6
+1
+
+.
+
+1
+1
+
+7
+7
+
+.
+
+4
+6
+
+1
+7
+2
+
+5
+
+1
+5
+
+.
+
+4
+2
+
+6
+1
+
+.
+
+1
+1
+
+3
+3
+
+.
+
+4
+6
+
+4
+0
+
+.
+
+9
+1
+
+7
+1
+
+.
+
+9
+3
+
+1
+6
+
+.
+
+9
+3
+
+4
+9
+
+.
+
+4
+2
+
+3
+1
+
+.
+
+0
+2
+
+4
+0
+
+.
+
+2
+1
+
+2
+8
+
+.
+
+8
+1
+
+9
+1
+
+.
+
+6
+1
+
+8
+4
+
+.
+
+6
+2
+
+8
+3
+
+.
+
+5
+2
+
+1
+3
+
+.
+
+1
+
+–
+
+–
+
+4
+4
+
+.
+
+0
+
+8
+8
+
+.
+
+0
+
+9
+0
+
+.
+
+1
+
+5
+6
+
+.
+
+9
+7
+
+3
+8
+
+.
+
+0
+6
+
+9
+3
+
+.
+
+0
+6
+
+2
+6
+
+.
+
+4
+7
+
+9
+9
+
+.
+
+8
+7
+
+7
+8
+
+.
+
+6
+8
+
+7
+2
+1
+
+6
+2
+1
+
+0
+0
+4
+
+3
+1
+1
+
+0
+9
+1
+
+8
+
+1
+0
+4
+
+0
+2
+
+4
+7
+2
+
+4
+7
+2
+
+3
+2
+
+I
+
+,
+
+M
+P
+
+I
+
+1
+
+7
+2
+1
+
+6
+2
+
+1
+
+5
+3
+
+8
+4
+
+7
+1
+
+8
+2
+
+8
+
+1
+1
+
+9
+7
+
+1
+
+3
+
+4
+
+4
+3
+
+6
+2
+2
+
+3
+
+4
+1
+
+2
+1
+
+0
+3
+
+4
+
+2
+1
+1
+
+9
+7
+
+1
+8
+
+4
+
+3
+6
+1
+
+7
+3
+1
+
+8
+9
+1
+
+1
+
+4
+6
+
+5
+
+2
+3
+1
+
+6
+0
+1
+
+0
+1
+
+0
+4
+
+1
+1
+
+8
+4
+1
+
+5
+4
+1
+
+8
+9
+
+0
+3
+1
+
+9
+
+2
+3
+
+6
+2
+
+1
+
+5
+
+8
+9
+
+7
+2
+1
+
+5
+0
+2
+
+7
+8
+2
+
+5
+1
+
+3
+
+9
+6
+1
+
+7
+1
+
+6
+1
+
+4
+1
+
+9
+1
+
+8
+
+1
+
+9
+6
+
+2
+4
+
+6
+6
+
+8
+5
+3
+
+1
+6
+1
+
+6
+5
+
+2
+
+4
+3
+
+1
+
+4
+1
+
+1
+
+7
+4
+
+3
+
+3
+1
+
+4
+
+7
+4
+
+0
+0
+2
+
+0
+2
+1
+
+3
+1
+
+9
+
+0
+1
+
+6
+1
+
+7
+
+0
+9
+
+9
+7
+1
+
+1
+4
+1
+
+0
+3
+
+5
+
+4
+2
+
+2
+
+4
+
+3
+
+3
+
+8
+
+2
+
+1
+
+3
+
+5
+
+8
+1
+
+1
+6
+
+3
+1
+
+1
+2
+
+1
+
+8
+
+3
+
+8
+3
+
+2
+9
+
+1
+3
+1
+
+2
+
+9
+
+6
+
+7
+9
+
+9
+
+1
+2
+
+7
+2
+
+1
+
+8
+1
+
+3
+1
+
+8
+
+3
+1
+
+2
+
+3
+
+3
+
+0
+1
+
+0
+
+1
+4
+
+5
+
+4
+5
+
+0
+1
+
+5
+
+3
+2
+
+4
+6
+
+5
+
+1
+
+4
+
+2
+
+4
+
+0
+
+3
+1
+
+5
+1
+
+8
+
+1
+
+4
+1
+
+9
+
+8
+
+1
+1
+
+2
+
+2
+2
+
+2
+
+2
+
+1
+
+0
+1
+
+2
+
+4
+1
+1
+
+9
+5
+1
+
+1
+1
+
+7
+0
+1
+
+1
+6
+
+4
+
+2
+
+6
+
+1
+
+1
+
+6
+
+2
+
+3
+3
+
+1
+
+0
+
+6
+1
+
+0
+6
+
+8
+2
+
+6
+
+1
+
+3
+
+3
+
+2
+
+1
+
+8
+2
+
+8
+2
+
+6
+2
+
+7
+
+2
+
+1
+
+5
+
+4
+
+5
+1
+
+5
+1
+
+1
+1
+
+9
+
+0
+1
+
+2
+
+5
+9
+
+9
+9
+
+8
+
+6
+
+8
+1
+
+6
+1
+
+1
+
+8
+3
+
+4
+1
+
+5
+4
+
+7
+2
+
+2
+4
+
+6
+
+3
+
+6
+4
+
+5
+
+5
+1
+
+5
+
+1
+1
+
+6
+
+1
+4
+
+9
+3
+
+5
+5
+
+7
+3
+
+4
+
+4
+
+7
+2
+1
+
+7
+
+1
+2
+
+5
+
+4
+1
+
+0
+8
+
+6
+7
+
+9
+
+1
+
+7
+
+7
+
+5
+
+6
+
+4
+
+5
+6
+1
+
+3
+7
+
+8
+1
+
+1
+
+6
+2
+
+8
+3
+
+2
+1
+
+6
+5
+
+2
+2
+
+8
+1
+
+4
+2
+
+g
+u
+r
+D
+
+P
+M
+A
+
+X
+M
+A
+
+C
+M
+A
+
+O
+R
+C
+
+e
+Q
+E
+C
+
+F
+E
+C
+
+M
+P
+
+I
+
+M
+T
+A
+
+N
+E
+G
+
+K
+M
+A
+
+T
+E
+T
+
+X
+O
+D
+
+I
+
+P
+C
+
+R
+N
+E
+
+V
+E
+L
+
+T
+X
+S
+
+L
+H
+C
+
+C
+F
+F
+
+X
+O
+F
+
+f
+
+B
+P
+
+A
+N
+
+g
+M
+Z
+A
+
+h
+A
+L
+O
+
+h
+Q
+E
+M
+
+Frontiers in Microbiology | www.frontiersin.org
+
+6
+
+June 2015 | Volume 6 | Article 602
+
+Kuang et al.
+
+Serotypes, antimicrobial susceptibility of Salmonella spp.
+
+TABLE 4 | Antibiotic resistance of Salmonella isolated from different
+food-producing animals unit: %.
+Drug Total (n = 457) Chicken (n = 105) Pig (n = 247) Dairy cow (n = 105)
+
+TABLE 5 | The number of multidrug-resistance Salmonella strains
+identiﬁed in sampled animals unit: strain.
+
+Resistance pattern
+
+Chickens
+
+Pigs
+
+Dairy cows
+
+AMP
+AMX
+AMC
+CRO
+CEF
+CEQ
+IPM
+ATM
+GEN
+AMK
+TET
+DOX
+CIP
+ENO
+LEV
+NA
+SXT
+CHL
+FFC
+FOS
+PB
+AZM
+OLA
+MEQ
+
+26.46
+25.82
+4.38
+6.34
+7.44
+5.25
+
+0
+
+0.67
+19.69
+1.53
+27.58
+28.22
+24.07
+24.51
+19.04
+39.17
+39.61
+24.94
+20.13
+12.04
+18.82
+16.19
+26.48
+25.38
+
+31.43
+30.48
+2.86
+20.00
+20.95
+15.24
+
+0
+
+1.90
+17.14
+6.67
+22.86
+23.81
+25.71
+26.67
+19.04
+46.67
+49.52
+26.67
+20.95
+6.67
+23.81
+15.24
+40.00
+40.95
+
+35.22
+34.41
+6.88
+3.24
+4.45
+3.24
+
+0
+
+0.40
+29.15
+
+0
+
+41.30
+42.11
+32.39
+32.79
+27.13
+48.18
+47.77
+34.41
+27.94
+19.43
+24.70
+23.08
+30.77
+28.34
+
+0.95
+0.95
+
+0
+0
+
+0.95
+
+0
+0
+0
+0
+0
+0
+0
+
+2.86
+2.86
+
+0
+
+10.48
+10.48
+0.95
+0.95
+
+0
+0
+
+0.95
+2.86
+2.86
+
+AMP, Ampicillin; AMX, Amoxicillin; AMC, Amoxicillin-clavulanic acid; CRO, Ceftriaxone;
+CEF, Ceftiofur; CEQ, Cefquinome; IPM, Imipenem; ATM, Aztreonam; GEN, Gentamicin;
+AMK, Amikacin; TET, Tetracycline; DOX, Doxycycline; CIP, Ciproﬂoxacin; ENO,
+Enroﬂoxacin; LEV, Levoﬂoxacin; NAL, Nalidixic acid; SXT, Sulfamethoxazole-trimethoprim;
+CHL, Chloramphenicol; FFC, Florfenicol; FOS, Fosfomycin; PB, Polymyxin B; AZM,
+Azithromycin; OLA, Olaquindox; MEQ, Mequindox.
+
+For instance, compared with data in 2010, the number of
+Enteritidis and Typhimurium decreased by 6% and 9% in
+2011, respectively, (European Centre for Disease Prevention and
+Control, 2013); similar, compared with results in 2009, Enteritidis
+decreased, even disappeared from chicken and pig in 2012 from
+Shandong province (Lai et al., 2014).
+
+The Salmonella serotypes
+
+isolated from farm animals
+overlapped with those that cause illnesses in humans, further
+highlighting the fact that Salmonella could be transmitted from
+animals to humans via the food chain (Alcaine et al., 2006;
+de Jong et al., 2009), such as Typhimurium and Enteritidis
+had identiﬁed from human in Henan and Hubei provinces
+(Cui et al., 2009; Xia et al., 2009). Some researchers have
+suggested that the diﬀerences in the dominant serotypes between
+animals and humans might be due to variations in their
+pathogenicity and corresponding resistance proﬁles (Volf et al.,
+2010),
+the strain containing Typhimurium and Enteritidis
+could acquired resistance to a large number of diﬀerent
+antimicrobial compounds. At least two diﬀerent serotypes existed
+from multiple-two strains to multiple-eleven strains, especially
+Enteritidis and Typhimurium, which were similar with other
+study from animals (Li et al., 2013; European Food Safety
+
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+
+Total
+
+3
+16
+1
+3
+6
+7
+4
+9
+2
+0
+0
+
+51
+
+6
+7
+4
+7
+13
+18
+3
+13
+22
+7
+4
+
+104
+
+1
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+
+4
+
+Authority, 2014; Lai et al., 2014), also with human (Cui et al.,
+2009; Xia et al., 2009). This may be related to the presence of the
+genetic structure known as Salmonella genomic island 1 (SGI1)
+and resistance genes (European Food Safety Authority, 2014).
+Therefore, monitoring of Salmonella should preferably focus
+more strongly on serovars that could, for example, be involved
+in a large outbreak.
+
+Based on our MIC analysis, antibiotic-resistant bacteria,
+including multidrug-resistant bacteria, appeared in both healthy
+and diseased farm animals. These results were similar with other
+study (Gong et al., 2013; Li et al., 2013; Lai et al., 2014). One
+potential explanation is the use of antibiotics during breeding.
+Disease control and prevention in China during the breeding
+process mainly depends on the use of antibiotics (Gong et al.,
+2013). This arguably irrational use of antibiotics has contributed
+to the emergence of multidrug-resistant bacteria under selective
+antimicrobial pressure. Huazhong area (Henan, Hubei, and
+Hunan provinces) is one of the more concentrated areas of
+farm animals (China Agriculture Statistical Report, 2012), the
+demands and uses of drugs are huge, then inevitable there would
+be unreasonable use of drugs. These drugs, or the raw materials
+of the drugs, are inexpensive and easy to obtain; they have been
+widely used on animals in China. However, some steps have
+been taken to prevent the emergence of drug-resistant bacteria
+and promote food safety and public health with the Ministry of
+Agriculture of the People’s Republic of China having formulated
+plans to ban or reduce the use of speciﬁc antimicrobials (Ministry
+of Agriculture of the People’s Republic of China, 2002).
+
+After the therapeutic eﬀects of antimicrobials were conﬁrmed
+in humans in the mid-1940s, they were soon introduced to
+veterinary medicine (McEwen, 2006). Even though some drugs
+were exclusively designed for veterinary use, the compounds
+administered are identical or very similar to those used in
+human medicine because they belong to the same antimicrobial
+classes (Heuer et al., 2009) such as β-lactams, cephalosporins,
+aminoglycosides, macrolides,
+sulfonamides,
+ﬂuoroquinolones. Most of the antibiotic resistance to diﬀerent
+classes has appeared in humans, animals, and/or animal
+
+tetracycline,
+
+Frontiers in Microbiology | www.frontiersin.org
+
+7
+
+June 2015 | Volume 6 | Article 602
+
+Kuang et al.
+
+Serotypes, antimicrobial susceptibility of Salmonella spp.
+
+TABLE 6 | MICs used to verify ESBL-producing Salmonella.
+
+Sample
+code
+
+Ceftazidime
+
+(µg/mL)
+
+Ceftazidime-clavulanic
+
+acid (µg/mL)
+
+Cefotaxime
+
+(µg/mL)
+
+Cefotaxime-clavulanic
+
+Source
+
+acid (µg/mL)
+
+147
+151
+157
+165
+171
+173
+174
+175
+176
+199
+209
+211
+216
+217
+218
+264
+268
+4p
+78p
+127p
+128p
+151p
+153p
+159p
+167p
+187p
+201p
+212p
+212p
+
+2
+4
+2
+4
+4
+4
+4
+2
+4
+4
+2
+2
+64
+2
+64
+2
+128
+0.5
+0.5
+0.5
+0.5
+>128
+
+4
+4
+4
+
+>128
+128
+0.5
+0.5
+
+0.5
+0.5
+0.25
+0.5
+0.5
+0.5
+0.5
+0.25
+0.25
+0.5
+
+<0.25
+<0.25
+
+0.5
+
+<0.25
+
+0.5
+0.5
+2
+
+<0.25
+<0.25
+
+0.5
+0.5
+128
+0.5
+0.5
+0.5
+>128
+
+64
+0.5
+0.5
+
+64
+>64
+64
+>64
+>64
+>64
+>64
+64
+64
+>64
+32
+32
+>64
+64
+>64
+32
+32
+16
+32
+4
+64
+16
+64
+>64
+>64
+16
+>64
+64
+64
+
+<0.25
+<0.25
+<0.25
+<0.25
+<0.25
+<0.25
+<0.25
+<0.25
+<0.25
+<0.25
+<0.25
+<0.25
+<0.25
+<0.25
+<0.25
+<0.25
+
+1
+
+<0.25
+<0.25
+0.25
+
+4
+8
+
+<0.25
+<0.25
+<0.25
+
+8
+>64
+0.5
+0.5
+
+Chicken/Henan
+Chicken/Henan
+Chicken/Henan
+Chicken/Henan
+Chicken/Henan
+Chicken/Henan
+Chicken/Henan
+Chicken/Henan
+Chicken/Henan
+Chicken/Hubei
+Chicken/Henan
+Chicken/Henan
+Chicken/Henan
+Chicken/Henan
+Chicken/Henan
+Chicken/Henan
+Chicken/Hubei
+Pig/HAUvh
+Pig/HAUvh
+Pig/HAUvh
+Pig/HAUvh
+Pig/HAUvh (suspected)
+Pig/HAUvh
+Pig/HAUvh
+Pig/HAUvh
+Pig/HAUvh (suspected)
+Pig/HAUvh (suspected)
+Pig/HAUvh
+Pig/HAUvh
+
+HAUvh, Huazhong Agricultural University veterinary hospital.
+
+products. Ceftriaxone had showed resistance rates ≤13% and 4%
+from imported foods and humans (Akiyama and Khan, 2012;
+Wong et al., 2014). Similar, gentamicin had shown resistance
+in animals and humans (Lai et al., 2014; Wong et al., 2014).
+Overlapping resistance not only can lead to treatment failure, but
+also have negative consequences in both humans and animals.
+
+ESBL-producing Salmonella strains were isolated from
+chickens and pigs in diﬀerent areas in this study. Currently,
+the resistance genes were still on attempting to identify and
+sequencing from the samples. The emergence of producing-
+ESBLs bacteria in animals and animal products is of particular
+concern to public health, it allow bacteria to become resistant
+to a wide variety of penicillins and cephalosporins. ESBL-
+producing bacteria have appeared in poultry, pig, and cattle
+farms (Horton et al., 2011; European Food Safety Authority,
+In Salmonella, acquisition of resistance genes was
+2014).
+likely to have occurred by conjugation, usually with other
+Enterobacteriaceae through the transfer of plasmids (European
+Food Safety Authority, 2014). Bacteria that develop resistance
+via ESBLs could become a reservoir of resistance genes, which
+may enter the food chain (European Food Safety Authority,
+2012). When antibiotic resistance occurs during infection, the
+
+remaining treatment option is usually an antibiotic from the
+carbapenem family. While carbapenems were previously drugs
+of last resort, their use is now also contributing to resistance
+(Centers for Disease Control and Prevention, 2014). They are
+used to treat highly resistant infections in humans, and are
+not used in food-producing animals. However, carbapenemase-
+producing organisms have been isolated from farm animals
+(Fischer et al., 2012). In China, monitoring strategies do not
+currently contain testing and identiﬁcation of ESBL- or AmpC-
+producing organisms in isolates from animals and/or animal-
+derived food products. It suggest that this should be established
+within surveillance procedures to anticipate possible changes in
+the status of ESBL enzymes.
+
+Salmonella isolates showed multiple-resistance in results, it
+suggested the emergence of co-resistance and/or cross-resistance
+(Cantón and Ruiz-Garbajosa, 2011). For example, amikacin
+had showed low levels of resistance (0.67%); this may be due
+to cross-resistance among aztreonam, ciproﬂoxacin, and β-
+lactams (Livermore, 2002). Co-resistance to ﬂuoroquinolones
+and third- and fourth-generation cephalosporins has also been
+identiﬁed in Salmonella isolated from humans (Zhang et al.,
+2014). Considering these results, the prudent use of antibacterial
+
+Frontiers in Microbiology | www.frontiersin.org
+
+8
+
+June 2015 | Volume 6 | Article 602
+
+Kuang et al.
+
+Serotypes, antimicrobial susceptibility of Salmonella spp.
+
+TABLE 7 | Distribution of resistant Salmonella isolates according to serovars unit: strain.
+
+Serogroup, serotype
+
+Pan-susceptible
+
+Intermediary
+
+Number of antimicrobial classes in resistance pattern
+
+Total
+
+1∼2
+
+3∼4
+
+5∼6
+
+7∼8
+
+9∼10
+
+11∼13
+
+B, Typhimurium
+B, Agona
+B, Derby
+B, II
+B, Kunduchi
+B, Schwarzenground
+B, Lagos
+B, Agama
+B, Fyris
+B, Farsta
+B, Gloucester
+B, Kingston
+B, Kubacha
+B, Saintpaul
+B, Stanley
+B, Travis
+B, Tumodi
+B, Uppsala
+C1, III b
+C1, Typhisuis
+C1, II
+C1, Schwabach
+C1, Irumu
+C1, Kaduna
+C1, Birkenhead
+C1, Cotonou
+C1, Hissar
+C1, Paratyphic
+C1, Thompson
+C2-C3, Quiniela
+D1, Enteritidis
+D1, Berta
+D1, II
+D3, II
+E1, Newlands
+E1, Meleagridis
+E1, Simi
+E4, Gnesta
+E4, Kouka
+E4, Rideau
+E4, Visby
+A, Unidentiﬁed subtypes
+B, Unidentiﬁed subtypes
+C1, Unidentiﬁed subtypes
+C2-C3, Unidentiﬁed subtypes
+D1, Unidentiﬁed subtypes
+E4, Unidentiﬁed subtypes
+Unidentiﬁed subgroup
+Without-self-curing
+
+28
+13
+5
+4
+4
+0
+1
+0
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+7
+6
+3
+0
+1
+0
+0
+0
+0
+1
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+43
+39
+2
+0
+0
+10
+14
+
+Total
+
+188
+
+Frontiers in Microbiology | www.frontiersin.org
+
+18
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+23
+3
+0
+0
+1
+0
+1
+
+49
+
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+7
+1
+0
+0
+0
+0
+0
+0
+3
+1
+0
+0
+2
+6
+0
+1
+2
+3
+1
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+5
+0
+0
+0
+1
+1
+
+35
+
+15
+
+5
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+3
+1
+0
+0
+1
+0
+0
+0
+0
+1
+0
+1
+0
+2
+1
+0
+0
+1
+0
+0
+1
+12
+5
+0
+2
+0
+2
+3
+
+45
+
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+1
+2
+0
+1
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+2
+4
+1
+1
+0
+6
+2
+
+29
+
+5
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+5
+1
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+1
+0
+6
+14
+0
+0
+8
+2
+8
+
+61
+
+9
+
+0
+0
+0
+1
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+3
+15
+1
+0
+0
+4
+4
+
+35
+
+57
+15
+9
+6
+4
+3
+3
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+22
+7
+6
+5
+3
+2
+1
+1
+1
+1
+1
+1
+10
+1
+1
+1
+2
+1
+1
+3
+4
+1
+1
+3
+95
+91
+4
+4
+11
+28
+34
+
+457
+
+June 2015 | Volume 6 | Article 602
+
+Kuang et al.
+
+Serotypes, antimicrobial susceptibility of Salmonella spp.
+
+agents should be strongly recommended in clinical, veterinary,
+and agricultural settings in order to preserve antibiotic activity
+and avoid the development of cross-resistance.
+
+In previous studies, researchers have demonstrated the
+relationship between the increased prevalence of antimicrobial-
+resistant bacteria and (a) the increased use of antimicrobials in
+human and veterinary medicine, (b) greater movement of people
+and animals, and (c) increased industrialization (Cheng et al.,
+2012). Huazhong is central to China; this area not only meets
+the needs of its own people via the production of animals and
+food but also supplies other areas and imports animals and food
+from other regions. This movement is a potential contributor to
+the spread of antibiotic-resistant bacteria. The environment itself
+also contains a variety of bacteria that potentially represent an
+immense pool of antibiotic-resistance genes, which if transferred
+between bacteria could cause human and animal disease (D’Costa
+et al., 2006). For example, wild animals that are carriers
+of antimicrobial-resistant bacteria could pass on colonies of
+resistant strains when they encounter humans, farming areas,
+and/or waste (Literak et al., 2011). A limitation of our study
+was that the samples were only collected from farm animals. For
+complete consideration in a surveillance system, samples should
+also be collected from, for example, the farm environment and
+farm workers.
+
+Despite bans and legislation, some antibiotics are still
+routinely fed to livestock prophylactically to increase proﬁts
+and to limit potential bacterial
+infections in stressed and
+crowded livestock (Ndi and Barton, 2011). Antibiotic-resistant
+bacteria will inevitably follow wherever antimicrobials are used;
+therefore, a coordinated multi-disciplinary approach will be
+required to address this issue (Smith et al., 2009). Various
+programs around the world have been established to monitor
+and control antibiotic-resistant bacteria. Recently, an oﬃcial
+document, “National Medium- and Long-Term Planning for
+
+Prevention and Control of Animal Epidemics (2012 to 2020),”
+(General Oﬃce of State Council of China, 2012) was issued
+in China. The government outlined plans to control diseases
+by detection and puriﬁcation using a medium- or long-term
+program, with the aim of reducing the antimicrobials used in
+animals and in symptomatic treatment. In future, the safest way
+to prevent the problem may be reducing antimicrobial usage with
+strict policies and legislation to control the development and
+spread of resistant bacteria in animals.
+
+Funding
+
+research is
+
+supported by the Ministry of Science
+This
+the People’s Republic of China (2012
+and Technology of
+BAK01B02), National Natural Science Foundation of China
+(31101856/31302143), Grants from National Basic Research
+program of China (2013CB127200), National Key Technology
+R&D Program (2012BAK01B00), Fundamental Research Funds
+for
+(2662015PY035) and project
+supported by the morning program of Wuhan in China
+(2015070404010191).
+
+the Central Universities
+
+Author Contributions
+
+XK, HH, MD, YW, and ZY designed the study. XK, HH, IA,
+and ZL collected the antimicrobial susceptibility data. XK, HH,
+YW, and ZL collected the serotype data. XK, HH, MD, and ZY
+analyzed the data. XK, HH, IA, and YW wrote the manuscript.
+XK, HH, MD, and ZY revised manuscript.
+
+Acknowledgments
+
+We thank Professor Aizhen Guo, who provided some of the
+Salmonella spp. isolates from diseased pigs.
+
+References
+
+Akiyama, T., and Khan, A. A. (2012). Molecular characterization of strains
+of ﬂuoroquinolone-resistant Salmonella enterica serovar Schwarzengrund
+carrying multidrug resistance isolated from imported foods. J. Antimicrob.
+Chemother. 67, 101–110. doi: 10.1093/jac/dkr414
+
+(2006). Multilocus
+
+Alcaine, S. D., Soyer, Y., Wamick, L. D., Su, W. L., Sukhnanand, S., Richards,
+J., et al.
+the hypothesis
+that cow-and human-associated Salmonella isolates represent distinct and
+overlapping populations. Appl. Environ. Microbiol. 72, 7575–7585. doi:
+10.1128/AEM.01174-06
+
+sequence typing supports
+
+Antunes, P., Mourao, J., Pestana, N., and Peixe, L. (2011). Leakage of emerging
+clinically relevant multidrug-resistant Salmonella clones from pig farms.
+J. Antimicrob. Chemother. 66, 2028–2032. doi: 10.1093/jac/dkr228
+
+Cantón, R., and Ruiz-Garbajosa, P. (2011). Co-resistance: an opportunity for
+the bacteria and resistance genes. Curr. Opin. Pharmacol. 11, 477–485. doi:
+10.1016/j.coph.2011.07.007
+
+Centers for Disease Control and Prevention (CDC). (2014). Antibiotic Resistance
+Threats in the United States, 2013. 73. Available online at: http://www.cdc.gov/
+drugresistance/threat-report-2013/pdf/ar-threats-2013-508.pdf
+
+Cheng, A. C., Turnidge,
+
+J., Collignon, P., Looke, D., Barton, M., and
+Gottlieb, T. (2012). Control of ﬂuoroquinolone resistance through successful
+regulation, Australia. Emerg. Infect. Dis. 18, 1453–1460. doi: 10.3201/eid1809.
+111515
+
+China Agriculture Statistical Report. (2012). Ministry of Agriculture. Beijing: PRC.
+
+China Agriculture Press.
+
+Chiu, L. H., Chiu, C. H., Horn, Y. M., Chiou, C. S., Lee, C. Y., Yeh, C. M.,
+et al. (2010). Characterization of 13 multi-drug resistant Salmonella serovars
+from diﬀerent broiler chickens associated with those of human isolates. BMC
+Microbiol. 10:86. doi: 10.1186/1471-2180-10-86
+
+Clinical and Laboratory Standards Institute. (2008). Performance Standards for
+Antimicrobial Disk and Dilution Susceptibility Tests for Bacteria Isolated from
+Animals; Approved Standard-Third Edition. Wayne, PA: CLSI (Informational
+Supplement, M31-A3).
+
+Clinical and Laboratory Standards Institute. (2012). Performance Standards
+Informational
+(Twenty-Two Informational Supplement
+
+Susceptibility Testing; Twenty-second
+
+for Antimicrobial
+Supplement.Wayne, PA: CLSI
+M100-S22).
+
+Cui, S., Li, J., Sun, Z., Hu, C., Jin, S., Li, F., et al. (2009). Characterization
+of Salmonella enterica isolates from infants and toddlers in Wuhan, China.
+J. Antimicrob. Chemother. 63, 87–94. doi: 10.1093/jac/dkn452
+
+D’Costa, V. M., McGrann, K. M., Hughes, D. W., and Wright, G. D.
+(2006). Sampling the antibiotic resistome. Science 311, 374–377. doi:
+10.1126/science.1120800
+
+de Jong, A., Bywater, R., Butty, P., Deroover, E., Godinho, K., Klein, U., et al. (2009).
+A pan-European survey of antimicrobial susceptibility towards human-use
+antimicrobial drugs among zoonotic and commensal enteric bacteria isolated
+from healthy food-producing animals. J. Antimicrob. Chemother. 63, 733–744.
+doi: 10.1093/jac/dkp012
+
+European Centre
+
+for Disease Prevention and Control.
+
+(2013). Annual
+Epidemiological Report Reporting on 2011 Surveillance Data and 2012
+Epidemic Intelligence Data. 103–108. Available online at: http://www.ecdc.
+
+Frontiers in Microbiology | www.frontiersin.org
+
+10
+
+June 2015 | Volume 6 | Article 602
+
+Kuang et al.
+
+Serotypes, antimicrobial susceptibility of Salmonella spp.
+
+europa.eu/en/publications/_layouts/forms/Publication_DispForm.aspx?List=
+4f55ad51-4aed-4d32-b960-af70113dbb90&ID=989
+
+(2012). Technical speciﬁcations on the
+European Food Safety Authority.
+resistance
+reporting
+harmonised monitoring
+and
+in Salmonella, Campylobacter
+coli
+and
+and
+Enterococcus spp. bacteria transmitted through food. EFSA J. 10:2742.
+doi: 10.2903/j.efsa.2012.2742
+
+antimicrobial
+indicator Escherichia
+
+of
+
+European Food Safety Authority. (2014). The European Union summary report
+on antimicrobial resistance in zoonotic and indicator bacteria from humans,
+animals and food in 2012. EFSA J. 12:3590. doi: 10.2903/j.efsa.2014.3590
+
+Fischer, J., Rodriguez, I., Schmoger, S., Friese, A., Roesler, U., Helmuth, R., et al.
+(2012). Escherichia coli producing VIM-1 carbapenemase isolated on a pig
+farm. J. Antimicrob. Chemother. 67, 1793–1795. doi: 10.1093/jac/dks108
+
+Garrity, G. M., Bell, J. A., and Lilburn, T. G. (2004). Bergey’s Manual of Systematic
+
+Bacteriology, 2nd Edn. New York, NY: Springer.
+
+General Oﬃce of State Council of China. (2012). National Medium and Long-term
+Planning for Prevention and Control of Animal Epidemics (2012-2020), notice
+no 31. Available online at: http://www.gov.cn/gongbao/content/2012/content_
+2152427.htm
+
+Gong, J., Xu, M., Zhu, C., Miao, J., Liu, X., Xu, B., et al. (2013). Antimicrobial
+resistance, presence of integrons and bioﬁlm formation of Salmonella Pullorum
+isolates from eastern China (1962-2010). Avian Pathol. 42, 290–294. doi:
+10.1080/03079457.2013.788129
+
+Government of Canada. (2005). Current Thinking on Risk Management Measures
+to Address Antimicrobial Resistance Associated with the Use of Antimicrobial
+Agents in Food-producing Animals. ON: Health Canada, Veterinary Drugs
+Directorate. Available online at: http://www.hc-sc.gc.ca/dhp-mps/alt_formats/
+hpfb-dgpsa/pdf/vet/amr-ram_rep-rap_06_05-eng.pdf
+
+Grimont, P. A. D., and Weill, F.-X. (2007). Antigenic Formulae of the Salmonella
+Serovars 9th Edn. Paris: WHO collaborating Centre for Reference and Research
+on Salmonella, Institut Pasteur.
+
+Heuer, O. E., Kruse, H., Grave, K., Collignon, P., Karunasagar, I., and Angulo,
+F. J. (2009). Human health consequences of use of antimicrobial agents in
+aquaculture. Clin. Infect. Dis. 49, 1248–1253. doi: 10.1086/605667
+
+Horton, R. A., Randall, L. P., Snary, E. L., Cockrem, H., Lotz, S., Wearing,
+H., et al. (2011). Fecal carriage and shedding density of CTX-M extended-
+spectrum beta-lactamase-producing Escherichia coli in cattle, chickens, and
+pigs: implications for environmental contamination and food production. Appl.
+Environ. Microbiol. 77, 3715–3719. doi: 10.1128/AEM.02831-10
+
+Kwa, A., Kasiakou, S. K., Tam, V. H., and Falagas, M. E. (2007). Polymyxin B:
+similarities to and diﬀerences from colistin (polymyxin E). Expert. Rev. Anti.
+Infect. Ther. 5, 811–821. doi: 10.1586/14787210.5.5.811
+
+Lai, J., Wu, C., Wu, C., Qi, J., Wang, Y., Wang, H., et al. (2014). Serotype
+distribution and antibiotic resistance of Salmonella in food-producing animals
+in Shandong province of China, 2009-2012. Int. J. Food Microbiol. 180, 30–38.
+doi: 10.1016/j.ijfoodmicro.2014.03.030
+
+Li, R., Lai, J., Wang, Y., Liu, S., Li, Y., Liu, K., et al. (2013). Prevalence
+and characterization of Salmonella species isolated from pigs, ducks and
+chickens in Sichuan Province, China. Int. J. Food Microbiol. 163, 14–18. doi:
+10.1016/j.ijfoodmicro.2013.01.020
+
+Literak, I., Petro, R., Dolejska, M., Gruberova, E., Dobiasova, H., Petr, J., et al.
+(2011). Antimicrobial resistance in fecal Escherichia coli isolates from healthy
+urban children of two age groups in relation to their antibiotic therapy.
+Antimicrob. Agents Chemother. 55, 3005–3007. doi: 10.1128/AAC.01724-10
+
+Livermore, D. M. (2002). Multiple mechanisms of antimicrobial resistance in
+Pseudomonas aeruginosa: our worst nightmare? Clin. Infect. Dis. 34, 634–640.
+doi: 10.1086/338782
+
+Malorny, B., Hoorfar, J., Bunge, C., and Helmuth, R. (2003). Multicenter validation
+of the analytical accuracy of Salmonella PCR: towards an international
+standard. Appl. Environ. Microbiol. 69, 290–296. doi: 10.1128/AEM.69.1.290-
+296.2003
+
+McEwen, S. A. (2006). Antibiotic use in animal agriculture: what have we
+learned and where are we going? Anim. Biotechnol. 17, 239–250. doi:
+10.1080/10495390600957233
+
+Ministry of Agriculture of the People’s Republic of China. (2002). List of Bans for
+Veterinary Drugs and Other Compounds in Animal Food. Available online at:
+http://www.moa.gov.cn/zwllm/tzgg/gg/201104/t20110422_1976324.htm
+
+National Antimicrobial Resistance Monitoring System. (2011). Animal Arm
+Annual Report. Available online at: http://ars.usda.gov/SP2UserFiles/Place/
+60400520/NARMS/NARMS2009/NARMSAnimalArm2009.pdf
+
+Ndi, O., and Barton, M. (2011). “Antibiotic resistance in animals—The Australian
+perspective,” in Antimicrobial Resistance in the Environment, eds P. L.
+Keenand and M. H. M. M. Montforts (New York, NY: Wiley-Blackwell),
+265–290.
+
+Russell, S. B., Emilio, E. D., Kevin, L., Winthrop,
+
+J. A., Lapidus, R.
+V., and Paul, R. C. (2014). Travel-associated antimicrobial drug-resistant
+nontyphoidal Salmonellae, 2004-2009. Emerg. Infect. Dis. 20, 603–611. doi:
+10.3201/eid2004.131063
+
+Schwarz, S., Silley, P., Simjee, S., Woodford, N., van Duijkeren, E., Johnson, A.
+P., et al. (2010). Assessing the antimicrobial susceptibility of bacteria obtained
+from animals. Vet. Microbiol. 141, 1–4. doi: 10.1016/j.vetmic.2009.12.013
+
+Sjölund-Karlsson, M., Joyce, K., Blickenstaﬀ, K., Ball, T., Haro, J., Medalla, F. M.,
+et al. (2011). Antimicrobial susceptibility to azithromycin among Salmonella
+enterica isolates from the United States. Antimicrob. Agents Chemother. 55,
+3985–3989. doi: 10.1128/AAC.00590-11
+
+Smith, P. R., LeBreton, A., Horsberg, T. E., and Corsin, F. (2009). “Guidelines for
+antimicrobial use in aquaculture,” in Guide to Antimicrobial Use in Animals, eds
+L. Guardabassi, L. B. Jensen, and H. Kruse (Oxford: Blackwell Publishing Ltd),
+207–218.
+
+Sørensen, A. H., Hansen, L. H., Johannesen, E., and Sørensen, S. J. (2003).
+Conjugative plasmid conferring resistance to olaquindox. Antimicrob. Agents
+Chemother. 47, 798–799. doi: 10.1128/AAC.47.2.798-799.2003
+
+Stevens, M. P., Humphrey, T. J., and Maskell, D. J. (2009). Molecular insights into
+farm animal and zoonotic Salmonella infections. Philos. Trans. R. Soc. Lond B
+Biol. Sci. 364, 2709–2723. doi: 10.1098/rstb.2009.0094
+
+Volf, J., Havlickova, H., Hradecka, H., Ondrackova, P., Matiasovic, J., Faldyna,
+M., et al. (2010). Epidemiology and interaction of Salmonella enterica serovar
+Derby, Infantis and Typhimurium with porcine alveolar macrophages. Vet.
+Microbiol. 146, 105–110. doi: 10.1016/j.vetmic.2010.04.031
+
+Wang, S. J., Duan, H. L., Zhang, W., and Li, J. (2007). Analysis of bacterial
+foodborne disease outbreaks in China between 1994 and 2005. FEMS Immunol.
+Med. Microbiol. 51, 8–13. doi: 10.1111/j.1574-695X.2007.00305.x
+
+Wang, Y., Chen, Q., Cui, S. H., Xu, X., Zhu, J., Luo, H., et al. (2014). Enumeration
+and characterization of Salmonella isolates from retail chicken carcasses in
+Beijing, China. Foodborne Pathog Dis. 11, 126–132. doi: 10.1089/fpd.2013.
+1586
+
+WHO Global Foodborne Infections Network. (2010). Laboratory Protocol,
+Isolation of Salmonella spp. from Food and Animal Faeces, 5th Edn. Available
+online at: http://www.antimicrobialresistance.dk/232-169-215-protocols.htm
+Wong, M. H. Y., Yan, M., Chan, E. W. C., Biao, K., and Chen, S. (2014).
+Emergence of clinical Salmonella Typhimurium with concurrent resistance to
+ciproﬂoxacin, ceftriaxone and azithromycin. Antimicrob. Agents Chemother. 58,
+3752–3756. doi: 10.1128/AAC.02770-13
+
+Xia, S., Hendriksen, R. S., Xie, Z., Huang, L., Zhang, J., Guo, W., et al. (2009).
+Molecular characterization and antimicrobial susceptibility of Salmonella
+isolates from infections in humans inHenan Province, China. J. Clin. Microbiol.
+47, 401–409. doi: 10.1128/JCM.01099-08
+
+Yang, B. W. (2010). Prevalence and Characterization of Chicken Borne Salmonella
+Serovars in Eight Provinces and Cities of China. Ph.D. Master’s Thesis.
+Northwest A&F University. 5. Available online at: http://210.27.80.82/opac/
+item.php?marc_no=0000477458
+
+Zhang, J., Jin, H., Hu, J., Yuan, Z., Shi, W., Ran, L., et al. (2014). Serovars
+and antimicrobial resistance of non-typhoidal Salmonella from human
+patients in Shanghai, China, 2006–2010. Epidemiol Infect. 142, 826–832. doi:
+10.1017/S0950268813001659
+
+Zhu, M., Cui, S., Lin, L., Xu, B., Zhao, J., Xia, S., et al. (2012). Analysis of the
+aetiology of diarrhea in outpatients in 2007, Henan province, China. Epidemiol.
+Infect. 7, 540–548. doi: 10.1017/S0950268812000970
+
+Conﬂict of Interest Statement: The authors declare that the research was
+conducted in the absence of any commercial or ﬁnancial relationships that could
+be construed as a potential conﬂict of interest.
+
+Copyright © 2015 Kuang, Hao, Dai, Wang, Ahmad, Liu and Yuan. This is an
+open-access article distributed under the terms of the Creative Commons Attribution
+License (CC BY). The use, distribution or reproduction in other forums is permitted,
+provided the original author(s) or licensor are credited and that the original
+publication in this journal is cited, in accordance with accepted academic practice.
+No use, distribution or reproduction is permitted which does not comply with these
+terms.
+
+Frontiers in Microbiology | www.frontiersin.org
+
+11
+
+June 2015 | Volume 6 | Article 602
+
+

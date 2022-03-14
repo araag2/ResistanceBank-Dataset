@@ -1,0 +1,10668 @@
+MICROBIAL DRUG RESISTANCE
+Volume 00, Number 00, 2017
+ª Mary Ann Liebert, Inc.
+DOI: 10.1089/mdr.2017.0171
+
+MECHANISMS
+
+Diversity of CTX-M Extended-Spectrum b-Lactamases
+
+in Escherichia coli Isolates from Retail Raw Ground Beef:
+
+First Report of CTX-M-24 and CTX-M-32 in Algeria
+
+Nesrine Rebbah,1 Yamina Messai,1 Pierre Chaˆ tre,2 Marisa Haenni,2 Jean Yves Madec,2 and Rabah Bakour1
+
+The aim of this study was to investigate the prevalence and molecular features of extended-spectrum cepha-
+losporin resistance in Escherichia coli isolates contaminating ground beef at retail in Algeria. Of 371 ground
+beef samples, 27.5% were found to contain cefotaxime-resistant E. coli isolates distributed into A (24.5%), B1
+(60.8%), and D (14.7%) phylogroups. A rate of 88.2% of isolates had a multidrug-resistance phenotype. All
+strains were producers of CTX-M type extended-spectrum b-lactamases (ESBLs): CTX-M-1, CTX-M-3, CTX-
+M-14, CTX-M-15, CTX-M-24, or CTX-M-32. Conjugation assays allowed the transfer of blaCTX-M-1 in as-
+sociation with IncI1 plasmids, blaCTX-M-15 with IncI1 and IncK+B/O plasmids, blaCTX-M-3 with IncK plasmids,
+and blaCTX-M-14 with IncF1B or IncK plasmids. Sequence analysis of gyrA and parC genes showed mutations in
+98.6% of ciproﬂoxacin-resistant isolates. The patterns ‘‘GyrA: S83L+D87N, ParC: S80I’’ (46.5%) and ‘‘ParC:
+S80I’’ (42.3%) were predominant. qnrS1, qnrB, and aac(6¢)-Ib-cr were detected in 18.7% of isolates. The tet
+genes, tetA, tetB, and tetA+tetB, were present in 95.7% of tetracycline-resistant isolates. The sul genes (sul1,
+sul2, sul3, sul1+sul2, sul2+sul3, and sul1+sul3) and the dfr gene clusters (dfrA1, dfrA5, dfrA7, dfrA8, dfrA12,
+dfrA5+dfrA12, dfrA1+dfrA5, dfrA7+dfrA12, dfrA5+dfrA7, and dfrA1+dfrA5+dfrA7) were found in 96.4% and
+85.5% of sulfamethoxazole/trimethoprim-resistant isolates, respectively. Classes 1 and 2 integrons were de-
+tected in 67.6% and 9.8% of isolates, respectively. This study highlighted the signiﬁcant presence of resistance
+genes, in particular those of CTXM ESBLs, in the beef meat, with the risk of their transmission to humans
+through food chain.
+
+Keywords: Escherichia coli, ground beef, antibiotic resistance, ESBL
+
+Introduction
+
+A ntibiotic resistance in bacteria has reached alarm-
+
+ing levels worldwide in both hospitals and the community,
+resulting in frequent treatment failures. This is inherent in in-
+discriminate use of antibiotics in human and veterinary medi-
+cine and in agriculture, which provides selection pressure and in
+turn promotes horizontal genetic exchange and recombination
+events resulting in the emergence and spread of antibiotic re-
+sistance mechanisms. Extended-Spectrum b-Lactamase (ESBL)
+production is the main mechanism for b-lactam resistance
+in Enterobacteriaceae.1,2 These plasmid-mediated serine en-
+zymes inactivate all penicillins and cephalosporins and az-
+treonam, but not cephamycins and carbapenems, and are
+inhibited by clavulanic acid.3
+
+Originally, ESBLs were derived by point mutations from
+TEM-1, TEM-2, and SHV-1 penicillinases; thereafter, sub-
+
+sequent to the introduction of extended-spectrum cephalo-
+sporins (ESC) in the 1980s, new ESBLs have emerged, of
+which CTX-M is now the most prevalent and widely dis-
+tributed in the world.4 ESBL CTX-M would have as origin
+chromosomal b-lactamases of various species of Kluyvera
+and are divided into six phyla (CTX-M-1, CTX-M-2, CTX-
+M-8, CTX-M-9, CTX-M-25, and CTX-M-45) on the basis
+of their amino acid sequences.
+
+Dominant variants of CTX-M differ between countries,
+with the exception of the common worldwide alleles CTX-
+M-15 and CTX-M-14.4 The association of blaCTX-M genes
+with mobile genetic elements, epidemic plasmids, and suc-
+cessful clones ensured them a rapid and wide dissemination
+that changed the epidemiology of antibiotic resistance
+worldwide.1,2,4 Furthermore, their association with resis-
+tance to other classes of antibiotics (ﬂuoroquinolones, ami-
+noglycosides, and co-trimoxazole), due to common genetic
+
+1Laboratory of Cellular and Molecular Biology, Faculty of Biological Sciences, University of Sciences and Technology Houari
+
+Boumediene, Algiers, Algeria.
+
+2Unite´ Antibiore´sistance et Virulence Bacte´riennes, Universite´ Lyon-ANSES Site de Lyon, Lyon, France.
+
+1
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 12/12/17. For personal use only. 2
+
+REBBAH ET AL.
+
+platforms or resistance mechanisms, signiﬁcantly restricts
+therapeutic possibilities.2,5 Among ESBL-producing Entero-
+bacteriaceae, in particular CTX-M, Escherichia coli is the
+most prevalent in the world, followed by Klebsiella pneu-
+moniae.4 Agriculture animals, especially poultry and cattle,
+are recognized as important vectors of ESBL carriers E. coli,
+in particular CTX-M,6–8 and contaminated meat is thought to
+be a possible vehicle, among others, for their transmission to
+humans through consumption or handling.7
+
+Many studies have been conducted worldwide on the
+occurrence and epidemiology of acquired resistance to ESCs
+in food-producing animals and food, while very little is
+known about the situation in North Africa, especially Al-
+geria, where there are no data on this issue. The objective of
+this study was to investigate prevalence and molecular
+features of ESC resistance in E. coli isolates recovered from
+ground beef samples collected from butcher shops in dif-
+ferent districts of Algiers.
+
+Materials and Methods
+
+Sampling, bacterial isolation, and identiﬁcation
+
+A total of 371 samples of fresh ground beef were col-
+lected during 2013–2014 from 230 butcheries of 20 different
+districts of Algiers (Algeria), some of which are several
+kilometers apart (up to 25 km). One sample or two samples
+(at an interval of several days) were taken, respectively, from
+89 and 141 butcheries. The latter were more important in
+terms of commercial activity; the amount of processed meat
+exceeds 100 kg per day, up to one animal.
+
+The samples were taken using sterile spatula and plastic
+bags and transferred to the laboratory in a cooler with ice packs
+within a maximum of 4 hr. Twenty-ﬁve grams of ground meat
+aseptically weighed was suspended and homogenized in pep-
+tone water and incubated at 37°C overnight.9 Homogenates
+were plated onto Hektoen agar plates supplemented with ce-
+fotaxime at a concentration of 2 mg/L and incubated for 24 hr
+at 37°C. Isolates with cultural characteristics of E. coli were
+identiﬁed using standard microbiological techniques, API20E
+system (bioMe´rieux, Marcy l’E´ toile, France) and polymerase
+chain reaction (PCR), for detection of iudA gene encoding b-
+glucuronidase.10 One E. coli isolate per sample was retained
+for further analysis.
+
+Antimicrobial susceptibility testing and phenotypic
+detection of ESBLs
+
+Isolates were subjected to susceptibility testing for 16 an-
+tibiotics by the disc diffusion method according to the
+guidelines of the antibiogram committee of the French So-
+ciety for Microbiology (CASFM) (www.sfm-microbiologie.
+org). The following disks of antibiotics (Bio-Rad, Marnes la
+Coquette, France) were used (mg/disk): amoxicillin/clavulanic
+acid (AMC) (20 mg/10 mg), cefoxitin (FOX) (30 mg), cefotax-
+ime (CTX) (30 mg), ceftazidime (CAZ) (30 mg), cefpirome
+(CPO) (30 mg), imipenem (IMP) (10 mg), nalidixic acid (NA)
+(30 mg), ciproﬂoxacin (CIP) (5 mg), peﬂoxacin (PEF) (5 mg),
+oﬂoxacin (OFX) (5 mg), tetracycline (TE) (30 IU), kanamycin
+(K) (30 IU), gentamicin (GM) (15 mg), amikacin (AN) (30 mg),
+sulfamethoxazole/trimethoprim (SXT) (23.75/1.25 mg), and
+colistin (CS) (50 mg). E. coli ATCC 25922 was used as a control
+strain. An isolate is classiﬁed as multidrug resistant (MDR)
+
+when it exhibits resistance to antibiotics of at least three dif-
+ferent classes.
+
+The screening of isolates for ESBL production was per-
+
+formed by the Double-Disc Synergy Test (DDST).11
+
+The minimal inhibitory concentrations (MICs) of cefo-
+taxime, ceftazidime, ciproﬂoxacin, tetracycline, and SXT
+were determined by the agar dilution method according to
+the guidelines of CASFM.
+
+Clonality and phylogrouping of the isolates
+
+Genetic relatedness between isolates was analyzed by
+pulsed-ﬁeld gel electrophoresis (PFGE) after total chromosomal
+DNA digestion with XbaI as previously described.12 Phyloge-
+netic grouping was performed using the PCR-based method.13
+
+Molecular detection of antibiotic resistance genes,
+ISEcp1 sequence, and integrons
+
+The DNA template for PCR was extracted by the boiling
+method.14 Simplex and multiplex PCR were used to detect
+the presence of the following resistance genes as previously
+described: class A b-lactamases: blaTEM, blaSHV, blaCTX-M
+15;
+plasmid-mediated quinolone resistance (PMQR) deter-
+minants: qnrA, qnrB, qnrS, qnrC, qnrD, qepA, oqxA, and
+oqxB16,17; aminoglycoside-modifying enzyme: aac(6¢)-Ib16;
+tetracycline efﬂux pumps: tetA and tetB; dihydropteroate
+synthases: sul1, sul2, and sul3; and dihydrofolate reductase
+gene clusters: dfrA1, dfrA5, dfrA7, dfrA8, and dfrA12.18
+
+PCR-obtained products were sequenced as previously
+described19 and analyzed with the BLAST and FASTA
+programs of the National Center for Biotechnology In-
+formation (www.ncbi.nlm.nhi.gov).
+
+Ampliﬁcation of quinolone-resistance determining re-
+gions (QRDR) of gyrA and parC genes was performed by
+PCR20 on quinolone-resistant isolates, and the nucleotide
+sequences and the deduced amino acid of ampliﬁed frag-
+ments were compared with those previously reported for
+gyrA (GenBank accession no. X06373) and parC (M58408)
+using the online ClustalW2 sequence alignment program.
+
+The association of blaCTX-M genes with insertion sequence
+
+ISEcp1 was sought by PCR as already described.15,21
+
+The presence of class 1 and class 2 integrons was sear-
+ched by PCR, targeting intI1 (integrase), sul1 (sulfonamide
+resistance), and qacED1 (quaternary ammonium resistance)
+genes for the class 1 and int2 gene for the class 2.18
+
+Conjugation experiments and plasmid analysis
+
+Mating experiments were carried out on all isolates using
+sodium azide–resistant E. coli BM21 as a recipient. Brieﬂy,
+exponential culture of donor isolate (1 volume) and recipient
+(2 volumes) was inoculated as a spot on Brain Heart Infu-
+sion Agar. After overnight incubation at 37°C, transconju-
+gants were selected on Mueller Hinton agar supplemented
+with cefotaxime (4 mg/L) and sodium azide (200 mg/L).
+
+Plasmid DNA was extracted by alkaline lysis method22
+and analyzed by electrophoresis on 0.7% (wt/vol) agarose
+gels at 5 volts/cm.
+
+Plasmid incompatibility groups were determined by the
+
+PCR replicon-typing method.23
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 12/12/17. For personal use only. ESBL-PRODUCING E. COLI IN GROUND BEEF IN ALGERIA
+
+3
+
+Statistical analysis
+
+For comparison of rates, Fisher’s exact test was used; a
+p-value of <0.05 was considered statistically signiﬁcant.
+
+Results
+
+Of 371 ground beef samples, 102 (27.5%) were found to
+contain cefotaxime-resistant E. coli isolates; phylogenetic
+analysis showed their distribution into A (n = 25, 24.5%), B1
+(n = 62, 60.8%), and D (n = 15, 14.7%) phylogroups. In
+particular, phylogroup B2 was not present in this collection.
+Besides resistance to cefotaxime, antibiotic susceptibility
+testing showed a marked resistance to tetracycline (92.2%),
+cefpirome (85.3%), nalidixic acid (82.4%), oﬂoxacin (80.4%),
+peﬂoxacin (72.6%), and ciproﬂoxacin (70.6%), followed by
+SXT (53.9%), kanamycin (30.4%), amoxicillin/clavulanic acid
+(27.5%), and ceftazidime (21.6%), while low resistance rates
+were observed for cefoxitin (3.9%) and gentamicin (2.9%). All
+isolates were susceptible to imipenem, amikacin, and colistin
+(Table 1).
+
+Agar dilution MICs ranged from 64 to >512 mg/L for
+cefotaxime, 16 to 128 mg/L for ceftazidime, 2 to >64 mg/L
+for ciproﬂoxacin, ‡1216/64 mg/L for sulfamethoxazole–
+trimethoprim, 64–256 mg/L for gentamicin, and 256–>512 mg/L
+for tetracycline. The combinations of resistance phenotypes
+allowed to distinguish 46 antibiotic resistance patterns, in-
+cluding 3–11 antibiotics, and 88.2% of isolates had a MDR
+phenotype, they resist to at least three antibiotic classes
+(Table 2).
+
+All isolates were positive for the DDST presumptive of
+ESBL production. PCR detection showed blaCTX-M genes in
+all isolates, 74 (72.5%) of CTX-M-1 group and 28 (27.5%)
+of CTX-M-9 group. A rate of 47.3% of CTX-M-1 group–
+producing isolates belonged to B1 phylogroup, 32.4% to
+
+A, and 20.3% to D. For CTX-M-9 group–producing isolates,
+96.4% belonged to B1 and 3.6% to A.
+
+Sequencing analysis revealed six different blaCTX-M al-
+leles as follows: blaCTX-M-1 (n = 47, 46%), blaCTX-M-15
+(n = 24, 23.5%), blaCTX-M-3 (n = 2, 2%), and blaCTX-M-32
+(n = 1, 1%) among the 74 CTX-M-1 group genes and
+blaCTX-M-14 (n = 27, 26.5%) and blaCTX-M-24 (n = 1, 1%)
+among the 28 CTX-M-9 group genes (Tables 2 and 3). The
+distribution of blaCTX-M genes according to phylogroups
+showed a perfect positive association (100%) between
+blaCTX-M-14 and the phylogroup B1 ( p < 0.0001) and a
+negative association between blaCTX-M-15 and the phy-
+logroups A ( p = 0.002) and B1 ( p = 0.0005) (Table 3).
+
+The blaTEM-1 gene resulting in production of narrow
+spectrum b-lactamase was detected in 39 isolates (38.2%) in
+association with all CTX-M variants (Tables 2 and 3).
+
+The ISEcp1 insertion sequence was found upstream of all
+blaCTX-M genes with a spacer region of 48 bp (W sequence)
+for blaCTX-M-15 (n = 24) and blaCTX-M-1 (n = 26), 45 bp for
+blaCTX-M-3 (n = 2) similar to W sequence with only one
+nucleotide substitution, and 79 bp to 82 bp (sequences X +
+W) for blaCTX-M-1 (n = 20) and blaCTX-M-32 (n = 1). In two
+isolates harboring blaCTX-M-1 and blaCTX-M-32, ISEcp1B was
+found disrupted by an ISKpn26 insertion sequence (IS5
+family).
+
+Conjugation assays performed on all isolates allowed the
+transfer of blaCTX-M-1 (n = 20), blaCTX-M-15 (n = 4), blaCTX-M-3
+(n = 2), and blaCTX-M-14 (n = 1) genes to E. coli BM21. Plasmid
+replicon analysis showed the association of blaCTX-M-1 with
+IncI1 plasmids of about 128 kb, blaCTX-M-15 with IncI1 and
+IncK+B/O plasmids of about 128 kb and 80 kb, blaCTX-M-3
+with IncK plasmids of about 95 kb, and blaCTX-M-14 with
+IncF1B or IncK plasmids of about 150 and 48 kb, respectively
+(Table 4).
+
+Table 1. Prevalence of Antibiotic Resistance in Total Escherichia coli Strains
+
+and According to Phylogroups
+
+Antibiotic (disc load)
+
+ß-Lactams
+
+Amoxicillin/Clavulanate (20/10 mg)
+Cefotaxime (30 mg)
+Ceftazidime (30 mg)
+Cefpirome (30 mg)
+Cefoxitin (30 mg)
+Imipenem (10 mg)
+
+Aminoglycosides
+
+Amikacin (30 mg)
+Gentamicin (15 mg)
+Kanamycin (30 IU)
+
+Quinolones-ﬂuoroquinolones
+
+Nalidixic acid (30 mg)
+Oﬂoxacin (5 mg)
+Ciproﬂoxacin (5 mg)
+Peﬂoxacin (5 mg)
+
+Others
+
+Tetracycline (30 IU)
+Trimethoprim/Sulfamethoxazole (1.25/23.75 mg)
+Colistin (50 mg)
+
+Resistance phenotypes
+
+in total isolates
+(n = 102) n (%)
+
+Resistance phenotypes according
+
+to phylogroups n (%)
+
+A (n = 25)
+
+B1 (n = 62)
+
+D (n = 15)
+
+28 (27.5)
+102 (100)
+22 (21.6)
+87 (85.3)
+
+4 (3.9)
+0 (0)
+
+0 (0)
+3 (2.9)
+
+31 (30.4)
+
+84 (82.4)
+82 (80.4)
+72 (70.6)
+74 (72.6)
+
+94 (92.2)
+55 (53.9)
+
+0 (0)
+
+8 (32)
+
+25 (100)
+11 (44)
+19 (76)
+2 (8.00)
+
+0 (0)
+
+0 (0)
+3 (12)
+12 (48)
+
+21 (84)
+21 (84)
+17 (68)
+17 (68)
+
+22 (88)
+16 (64)
+
+0 (0)
+
+17 (27.4)
+62 (100)
+6 (9.7)
+
+53 (85.5)
+
+2 (3.2)
+0 (0)
+
+0 (0)
+0 (0)
+
+3 (20)
+
+15 (100)
+5 (33.3)
+15 (10)
+
+0 (0)
+0 (0)
+
+0 (0)
+0 (0)
+
+15 (24.2)
+
+4 (26.7)
+
+51 (82.3)
+51 (82.3)
+46 (74.2)
+48 (77.4)
+
+59 (95.2)
+30 (48.4)
+
+0 (0)
+
+12 (80)
+10 (66.7)
+
+9 (60)
+9 (60)
+
+13 (86.7)
+
+9 (60)
+0 (0)
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 12/12/17. For personal use only. E
+G
+F
+P
+
+e
+l
+ﬁ
+o
+r
+p
+
+8
+6
+P
+
+2
+6
+P
+
+1
+4
+P
+
+2
+1
+P
+
+4
+2
+P
+
+7
+2
+P
+
+1
+5
+P
+
+6
+5
+P
+
+1
+7
+P
+
+9
+4
+P
+
+4
+6
+P
+
+4
+1
+P
+
+4
+1
+P
+
+6
+2
+P
+
+0
+6
+P
+
+)
+d
+e
+u
+n
+i
+t
+n
+o
+c
+4 (
+5
+P
+
+A
+
+1
+B
+
+A
+
+D
+
+1
+B
+
+A
+
+1
+B
+
+D
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+D
+
+I
+0
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+,
+
+B
+t
+e
+t
+
+,
+r
+c
+-
+b
+I
+-
+)
+¢
+
+6
+(
+c
+a
+a
+
+1
+t
+n
+i
+,
+
+2
+l
+u
+s
+
+,
+
+M
+E
+T
+a
+l
+b
+
+I
+0
+8
+S
+
+Y
+7
+8
+D
+L
+3
+8
+S
+
+,
+
+3
+l
+u
+s
+
+,
+2
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+,
+
+M
+E
+T
+a
+l
+b
+
+1
+t
+n
+i
+
+,
+
+5
+A
+r
+f
+d
+
+I
+0
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+,
+
+B
+t
+e
+t
+
+,
+
+A
+
+t
+e
+t
+
+,
+
+1
+S
+r
+n
+q
+
+,
+
+M
+E
+T
+a
+l
+b
+
+,
+
+2
+1
+A
+r
+f
+d
+
+,
+
+5
+A
+r
+f
+d
+
+,
+
+1
+l
+u
+s
+
+1
+D
+E
+c
+a
+q
+/
+1
+t
+n
+i
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+,
+
+1
+A
+r
+f
+d
+
+,
+3
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+,
+
+M
+E
+T
+a
+l
+b
+
+2
+t
+n
+i
+
+,
+
+1
+t
+n
+i
+
+,
+
+5
+A
+r
+f
+d
+
+1
+t
+n
+i
+
+,
+
+7
+A
+r
+f
+d
+
+,
+
+5
+A
+r
+f
+d
+
+,
+
+2
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+1
+D
+E
+c
+a
+q
+/
+1
+t
+n
+i
+
+,
+
+7
+A
+r
+f
+d
+
+,
+
+2
+l
+u
+s
+
+,
+1
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+,
+
+M
+E
+T
+a
+l
+b
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+Y
+7
+8
+D
+A
+3
+8
+S
+
+1
+D
+E
+c
+a
+q
+/
+1
+t
+n
+i
+,
+
+2
+1
+A
+r
+f
+d
+
+,
+
+7
+A
+r
+f
+d
+
+,
+
+2
+l
+u
+s
+
+,
+1
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+,
+
+M
+E
+T
+a
+l
+b
+
+,
+
+2
+l
+u
+s
+
+,
+
+1
+l
+u
+s
+
+,
+
+A
+
+1
+D
+E
+c
+a
+q
+/
+1
+t
+n
+i
+
+,
+
+2
+1
+A
+r
+f
+d
+
+t
+e
+t
+
+,
+
+M
+E
+T
+a
+l
+b
+
+/
+1
+t
+n
+i
+,
+
+2
+1
+A
+r
+f
+d
+
+,
+
+2
+l
+u
+s
+
+,
+
+1
+l
+u
+s
+
+,
+
+B
+t
+e
+t
+
+,
+
+A
+t
+e
+t
+
+,
+
+1
+S
+r
+n
+q
+
+,
+
+M
+E
+T
+a
+l
+b
+
+1
+D
+E
+c
+a
+q
+
+I
+0
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+t
+e
+t
+
+,
+r
+c
+-
+b
+I
+-
+)
+¢
+
+6
+(
+c
+a
+a
+
+1
+t
+n
+i
+,
+
+A
+
+,
+
+M
+E
+T
+a
+l
+b
+
+I
+0
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+,
+
+2
+1
+A
+r
+f
+d
+
+,
+
+1
+l
+u
+s
+
+,
+
+B
+t
+e
+t
+
+,
+
+M
+E
+T
+a
+l
+b
+
+G
+4
+8
+E
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+,
+
+2
+1
+A
+r
+f
+d
+
+,
+
+2
+1
+A
+r
+f
+d
+
+1
+D
+E
+c
+a
+q
+/
+1
+t
+n
+i
+
+1
+D
+E
+c
+a
+q
+/
+1
+t
+n
+i
+
+,
+
+2
+l
+u
+s
+
+,
+
+1
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+1
+D
+E
+c
+a
+q
+/
+1
+t
+n
+i
+
+,
+
+2
+l
+u
+s
+
+,
+
+1
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+I
+0
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+,
+
+2
+1
+A
+r
+f
+d
+
+,
+
+3
+l
+u
+s
+
+1
+D
+E
+c
+a
+q
+/
+1
+t
+n
+i
+
+,
+
+1
+l
+u
+s
+
+,
+
+B
+t
+e
+t
+
+,
+
+A
+t
+e
+t
+
+,
+
+5
+A
+r
+f
+d
+
+,
+
+1
+A
+r
+f
+d
+
+,
+
+A
+t
+e
+t
+
+,
+
+1
+S
+r
+n
+q
+
+2
+t
+n
+i
+
+,
+
+1
+t
+n
+i
+
+1
+B
+
+I
+0
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+1
+t
+n
+i
+
+,
+
+A
+t
+e
+t
+
+,
+
+M
+E
+T
+a
+l
+b
+
+-
+
+4
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+p
+u
+o
+r
+g
+o
+l
+y
+h
+P
+
+C
+r
+a
+P
+
+A
+r
+y
+G
+
+s
+n
+o
+r
+g
+e
+t
+n
+i
+
+d
+n
+a
+
+e
+n
+e
+g
+
+L
+B
+S
+E
+
+T
+X
+S
+
+s
+n
+o
+i
+t
+a
+t
+u
+m
+R
+D
+R
+Q
+
+s
+e
+n
+e
+g
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+
+r
+e
+h
+t
+O
+
+L
+/
+g
+m
+n
+o
+i
+t
+a
+r
+t
+n
+e
+c
+n
+o
+c
+
+y
+r
+o
+t
+i
+b
+i
+h
+n
+i
+
+l
+a
+m
+i
+n
+i
+M
+
+)
+2
+0
+1
+=
+N
+
+(
+
+s
+e
+t
+a
+l
+o
+s
+I
+
+i
+l
+o
+c
+
+.
+
+E
+
+f
+o
+
+s
+e
+p
+y
+t
+o
+n
+e
+G
+d
+n
+a
+
+s
+e
+p
+y
+t
+o
+n
+e
+h
+P
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+R
+
+c
+i
+t
+o
+i
+b
+i
+t
+n
+A
+
+.
+
+2
+
+e
+l
+b
+a
+T
+
+-
+
+5
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+5
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+4
+6
+
+4
+6
+
+4
+6
+>
+
+E
+T
+
+2
+1
+5
+>
+
+2
+1
+5
+>
+
+2
+1
+5
+>
+
+-
+
+5
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+4
+6
+
+2
+1
+5
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+4
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+5
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+5
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+5
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+5
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+4
+6
+>
+
+4
+6
+>
+
+4
+6
+>
+
+4
+6
+
+4
+6
+
+2
+£
+
+4
+6
+
+4
+6
+
+4
+6
+
+4
+6
+>
+
+4
+6
+>
+
+2
+£
+
+6
+5
+2
+
+2
+1
+5
+>
+
+2
+1
+5
+>
+
+2
+1
+5
+
+2
+1
+5
+>
+
+2
+1
+5
+>
+
+2
+1
+5
+>
+
+2
+1
+5
+
+2
+1
+5
+>
+
+6
+5
+2
+
+2
+1
+5
+>
+
+2
+1
+5
+
+P
+I
+
+C
+
+4
+6
+>
+
+4
+6
+
+2
+3
+
+8
+
+8
+
+8
+
+2
+
+8
+
+2
+3
+
+4
+6
+>
+
+4
+6
+
+4
+6
+
+4
+6
+
+4
+
+4
+6
+
+8
+
+Z
+A
+C
+
+6
+1
+
+1
+£
+
+6
+1
+
+4
+6
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+6
+1
+
+4
+6
+
+6
+1
+
+2
+3
+
+6
+1
+
+8
+2
+1
+
+1
+£
+
+X
+T
+C
+
+8
+2
+1
+
+6
+5
+2
+
+6
+5
+2
+–
+8
+2
+1
+
+-
+
+-
+
+-
+
+X
+F
+O
+A
+N
+K
+M
+G
+O
+P
+C
+
+-
+
+-
+
+-
+Z
+A
+C
+X
+T
+C
+
+-
+
+T
+X
+S
+-
+E
+T
+-
+F
+E
+P
+-
+P
+I
+C
+
+)
+1
+=
+n
+(
+
+)
+1
+=
+n
+(
+
+)
+2
+=
+n
+(
+
+)
+s
+e
+t
+a
+l
+o
+s
+i
+
+o
+n
+(
+
+s
+e
+p
+y
+t
+o
+n
+e
+h
+p
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+R
+
+-
+
+-
+
+X
+F
+O
+A
+N
+K
+O
+P
+C
+
+-
+
+-
+
+-
+Z
+A
+C
+X
+T
+C
+
+-
+
+-
+
+C
+M
+A
+
+T
+X
+S
+-
+E
+T
+-
+F
+E
+P
+-
+P
+I
+C
+
+-
+
+-
+
+-
+
+-
+
+X
+F
+O
+A
+N
+K
+X
+O
+F
+-
+O
+P
+C
+X
+T
+C
+
+-
+
+-
+
+C
+M
+A
+
+T
+X
+S
+-
+E
+T
+-
+F
+E
+P
+-
+P
+I
+C
+
+2
+1
+5
+>
+
+-
+
+-
+
+X
+F
+O
+A
+N
+O
+P
+C
+
+-
+
+-
+Z
+A
+C
+X
+T
+C
+
+-
+
+-
+
+C
+M
+A
+
+)
+1
+=
+n
+(
+
+T
+X
+S
+-
+E
+T
+-
+F
+E
+P
+-
+P
+I
+C
+
+6
+5
+2
+
+6
+5
+2
+
+6
+5
+2
+
+6
+5
+2
+
+2
+1
+5
+
+6
+5
+2
+
+2
+1
+5
+>
+
+2
+1
+5
+
+2
+1
+5
+
+8
+2
+1
+
+2
+1
+5
+
+8
+2
+1
+
+)
+5
+=
+n
+(
+
+-
+P
+I
+
+-
+
+-
+
+-
+
+C
+X
+F
+O
+A
+N
+K
+O
+P
+C
+X
+T
+C
+
+-
+
+-
+
+-
+
+C
+M
+A
+
+T
+X
+S
+-
+E
+T
+-
+F
+E
+P
+
+4
+
+-
+
+-
+
+-
+
+X
+F
+O
+A
+N
+K
+X
+O
+F
+-
+O
+P
+C
+
+-
+
+-
+Z
+A
+C
+X
+T
+C
+
+-
+
+)
+1
+=
+n
+(
+
+E
+T
+-
+F
+E
+P
+-
+P
+I
+C
+
+-
+P
+I
+
+-
+
+-
+
+C
+X
+F
+O
+A
+N
+K
+O
+P
+C
+
+-
+
+-
+
+-
+Z
+A
+C
+X
+T
+C
+
+-
+
+)
+4
+=
+n
+(
+
+T
+X
+S
+-
+E
+T
+-
+F
+E
+P
+
+-
+P
+I
+
+-
+
+-
+
+-
+
+C
+X
+F
+O
+A
+N
+K
+O
+P
+C
+X
+T
+C
+
+-
+
+-
+
+-
+
+C
+M
+A
+
+)
+1
+=
+n
+(
+
+E
+T
+-
+F
+E
+P
+
+-
+
+-
+
+-
+
+X
+F
+O
+A
+N
+X
+O
+F
+-
+O
+P
+C
+
+-
+Z
+A
+C
+X
+T
+C
+
+-
+
+)
+1
+=
+n
+(
+
+T
+X
+S
+-
+E
+T
+-
+F
+E
+P
+-
+P
+I
+C
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 12/12/17. For personal use only. E
+G
+F
+P
+
+e
+l
+ﬁ
+o
+r
+p
+
+d
+e
+p
+y
+t
+
+2
+3
+P
+
+,
+
+3
+P
+
+t
+o
+N
+
+d
+e
+p
+y
+t
+
+t
+o
+N
+
+7
+2
+P
+
+6
+6
+P
+
+3
+1
+P
+
+3
+3
+P
+
+2
+2
+P
+
+6
+1
+P
+
+1
+6
+P
+
+3
+4
+P
+
+7
+2
+P
+
+7
+5
+P
+
+,
+
+7
+2
+P
+
+,
+
+1
+2
+P
+
+d
+e
+p
+y
+t
+
+)
+2
+=
+n
+(
+
+0
+3
+P
+
+t
+o
+N
+
+7
+2
+P
+
+5
+5
+P
+
+9
+5
+P
+
+0
+1
+P
+
+3
+P
+
+5
+2
+P
+
+2
+4
+P
+
+0
+7
+P
+
+)
+d
+e
+u
+n
+i
+t
+n
+o
+c
+(
+
+d
+e
+p
+y
+t
+
+t
+o
+N
+
+1
+B
+
+1
+B
+
+1
+B
+
+1
+B
+
+A
+
+A
+
+1
+B
+
+A
+
+1
+B
+
+1
+B
+
+D
+
+1
+B
+
+1
+B
+
+1
+B
+
+1
+B
+
+1
+B
+
+1
+B
+
+1
+B
+
+D
+
+D
+
+1
+B
+
+1
+B
+
+1
+B
+
+D
+
+)
+d
+e
+u
+n
+i
+t
+n
+o
+C
+
+(
+
+.
+
+2
+
+e
+l
+b
+a
+T
+
+s
+n
+o
+i
+t
+a
+t
+u
+m
+R
+D
+R
+Q
+
+s
+e
+n
+e
+g
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+
+r
+e
+h
+t
+O
+
+L
+/
+g
+m
+n
+o
+i
+t
+a
+r
+t
+n
+e
+c
+n
+o
+c
+
+y
+r
+o
+t
+i
+b
+i
+h
+n
+i
+
+l
+a
+m
+i
+n
+i
+M
+
+p
+u
+o
+r
+g
+o
+l
+y
+h
+P
+
+C
+r
+a
+P
+
+A
+r
+y
+G
+
+s
+n
+o
+r
+g
+e
+t
+n
+i
+
+d
+n
+a
+
+e
+n
+e
+g
+
+L
+B
+S
+E
+
+T
+X
+S
+
+E
+T
+
+P
+I
+
+C
+
+Z
+A
+C
+
+X
+T
+C
+
+)
+s
+e
+t
+a
+l
+o
+s
+i
+
+o
+n
+(
+
+s
+e
+p
+y
+t
+o
+n
+e
+h
+p
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+R
+
+G
+4
+8
+E
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+,
+
+2
+l
+u
+s
+
+,
+
+1
+l
+u
+s
+
+,
+
+B
+t
+e
+t
+
+1
+D
+E
+c
+a
+q
+/
+1
+t
+n
+i
+
+,
+
+7
+A
+r
+f
+d
+
+,
+
+M
+E
+T
+a
+l
+b
+
+2
+t
+n
+i
+
+,
+
+1
+A
+r
+f
+d
+
+,
+
+3
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+I
+0
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+,
+
+1
+A
+r
+f
+d
+
+1
+D
+E
+c
+a
+q
+/
+1
+t
+n
+i
+
+,
+
+3
+l
+u
+s
+
+,
+
+1
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+I
+0
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+,
+
+3
+l
+u
+s
+
+,
+2
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+,
+
+M
+E
+T
+a
+l
+b
+
+1
+t
+n
+i
+
+,
+
+2
+1
+A
+r
+f
+d
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+4
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+4
+2
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+I
+0
+8
+S
+
+R
+0
+8
+S
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+K
+4
+8
+E
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+Y
+7
+8
+D
+L
+3
+8
+S
+
+1
+t
+n
+i
+
+,
+
+A
+
+t
+e
+t
+
+,
+
+M
+E
+T
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+I
+0
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+1
+D
+E
+c
+a
+q
+/
+1
+t
+n
+i
+
+,
+
+7
+A
+r
+f
+d
+
+,
+
+2
+l
+u
+s
+
+,
+
+2
+1
+A
+r
+f
+d
+
+,
+
+1
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+1
+t
+n
+i
+
+,
+
+2
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+1
+t
+n
+i
+
+,
+
+A
+t
+e
+t
+
+-
+
+4
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+4
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+,
+
+2
+1
+A
+r
+f
+d
+
+,
+
+1
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+1
+D
+E
+c
+a
+q
+/
+1
+t
+n
+i
+
+-
+
+5
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+I
+3
+8
+S
+
+1
+t
+n
+i
+
+,
+
+3
+l
+u
+s
+
+,
+
+2
+1
+A
+r
+f
+d
+
+1
+t
+n
+i
+
+,
+
+3
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+,
+
+5
+A
+r
+f
+d
+
+,
+
+2
+l
+u
+s
+
+1
+t
+n
+i
+
+,
+
+7
+A
+r
+f
+d
+
+,
+
+M
+E
+T
+a
+l
+b
+
+,
+
+M
+E
+T
+a
+l
+b
+
+,
+
+M
+E
+T
+a
+l
+b
+
+-
+
+4
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+2
+3
+-
+M
+X
+T
+C
+a
+l
+b
+
+,
+
+A
+
+t
+e
+t
+
+,
+
+1
+S
+r
+n
+q
+
+,
+
+M
+E
+T
+a
+l
+b
+
+1
+t
+n
+i
+,
+
+2
+l
+u
+s
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+,
+
+2
+t
+n
+i
+
+,
+
+1
+A
+r
+f
+d
+
+,
+
+3
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+1
+t
+n
+i
+
+,
+
+A
+t
+e
+t
+
+,
+
+M
+E
+T
+a
+l
+b
+
+A
+t
+e
+t
+
+1
+t
+n
+i
+
+,
+
+A
+t
+e
+t
+
+B
+t
+e
+t
+
+1
+D
+E
+c
+a
+q
+/
+1
+t
+n
+i
+
+2
+l
+u
+s
+
+,
+
+1
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+,
+
+2
+1
+A
+r
+f
+d
+
+,
+
+M
+E
+T
+a
+l
+b
+
+1
+t
+n
+i
+
+,
+
+7
+A
+r
+f
+d
+
+,
+
+2
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+,
+
+2
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+8
+A
+r
+f
+d
+
+,
+
+3
+l
+u
+s
+
+,
+
+M
+E
+T
+a
+l
+b
+
+,
+
+2
+l
+u
+s
+
+,
+
+A
+
+t
+e
+t
+
+1
+t
+n
+i
+
+,
+
+7
+A
+r
+f
+d
+
+,
+
+M
+E
+T
+a
+l
+b
+
+-
+
+3
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+4
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+4
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+2
+£
+
+2
+£
+
+2
+£
+
+2
+£
+
+4
+6
+>
+
+4
+6
+
+4
+6
+
+4
+6
+>
+
+4
+6
+
+1
+t
+n
+i
+
+,
+
+3
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+-
+
+4
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+4
+6
+
+I
+0
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+2
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+,
+
+M
+E
+T
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+4
+6
+
+4
+6
+>
+
+4
+6
+
+4
+6
+>
+
+4
+6
+>
+
+4
+6
+
+4
+6
+>
+
+4
+6
+>
+
+4
+6
+
+4
+6
+>
+
+2
+£
+
+4
+6
+>
+
+4
+6
+>
+
+2
+£
+
+2
+1
+5
+
+2
+1
+5
+>
+
+2
+1
+5
+
+2
+1
+5
+
+6
+5
+2
+
+4
+6
+
+2
+1
+5
+
+6
+5
+2
+
+2
+1
+5
+–
+6
+5
+2
+
+2
+1
+5
+>
+
+2
+1
+5
+
+6
+5
+2
+
+8
+–
+4
+
+4
+6
+
+8
+
+4
+6
+
+8
+
+8
+
+8
+
+8
+
+2
+3
+
+4
+6
+
+6
+1
+
+8
+
+2
+1
+5
+–
+6
+5
+2
+
+6
+1
+–
+8
+
+6
+5
+2
+
+2
+1
+5
+>
+
+6
+5
+2
+
+6
+5
+2
+
+2
+1
+5
+>
+
+2
+1
+5
+
+8
+
+2
+3
+
+8
+
+8
+
+2
+3
+
+8
+
+2
+1
+5
+–
+6
+5
+2
+
+8
+–
+4
+
+6
+5
+2
+
+2
+1
+5
+
+6
+5
+2
+
+2
+1
+5
+>
+
+4
+
+2
+3
+
+4
+6
+
+8
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+6
+1
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+8
+2
+1
+–
+4
+6
+
+6
+5
+2
+
+-
+P
+I
+
+-
+
+-
+
+C
+X
+F
+O
+A
+N
+O
+P
+C
+X
+T
+C
+
+-
+
+-
+
+-
+
+C
+M
+A
+
+)
+5
+=
+n
+(
+
+T
+X
+S
+-
+E
+T
+-
+F
+E
+P
+
+4
+6
+
+2
+1
+5
+
+2
+1
+5
+
+8
+2
+1
+
+8
+2
+1
+
+4
+6
+
+2
+1
+5
+
+2
+1
+5
+
+6
+5
+2
+
+8
+2
+1
+
+8
+2
+1
+
+8
+2
+1
+
+4
+6
+
+8
+2
+1
+
+4
+6
+
+2
+1
+5
+
+8
+2
+1
+
+2
+1
+5
+
+8
+2
+1
+
+8
+2
+1
+
+2
+1
+5
+
+6
+5
+2
+
+-
+F
+E
+P
+-
+P
+I
+
+-
+
+-
+
+C
+X
+F
+O
+A
+N
+K
+X
+T
+C
+
+-
+
+-
+
+-
+
+C
+M
+A
+
+)
+3
+=
+n
+(
+
+T
+X
+S
+-
+E
+T
+
+-
+F
+E
+P
+-
+P
+I
+
+-
+
+-
+
+C
+X
+F
+O
+A
+N
+M
+G
+X
+T
+C
+
+-
+
+-
+
+-
+
+C
+M
+A
+
+-
+F
+E
+P
+-
+P
+I
+
+-
+
+-
+
+C
+X
+F
+O
+A
+N
+O
+P
+C
+
+-
+
+)
+2
+=
+n
+(
+
+)
+1
+=
+n
+(
+
+T
+X
+S
+-
+E
+T
+
+T
+X
+S
+-
+E
+T
+
+-
+Z
+A
+C
+X
+T
+C
+
+-
+
+-
+F
+E
+P
+-
+P
+I
+
+-
+
+-
+
+-
+
+C
+X
+F
+O
+A
+N
+K
+O
+P
+C
+X
+T
+C
+
+-
+
+-
+
+)
+2
+=
+n
+(
+
+T
+X
+S
+-
+E
+T
+
+-
+P
+I
+
+-
+
+-
+
+C
+X
+F
+O
+A
+N
+O
+P
+C
+X
+T
+C
+
+-
+
+-
+
+-
+
+C
+M
+A
+
+)
+3
+=
+n
+(
+
+E
+T
+-
+F
+E
+P
+
+-
+F
+E
+P
+-
+P
+I
+
+-
+
+-
+
+C
+X
+F
+O
+A
+N
+X
+T
+C
+
+-
+
+-
+
+C
+M
+A
+
+)
+1
+=
+n
+(
+
+)
+I
+(
+T
+X
+S
+-
+E
+T
+
+-
+F
+E
+P
+-
+P
+I
+
+-
+
+-
+
+-
+
+C
+X
+F
+O
+A
+N
+K
+O
+P
+C
+X
+T
+C
+
+-
+
+-
+
+)
+4
+=
+n
+(
+
+E
+T
+
+-
+F
+E
+P
+-
+P
+I
+
+-
+
+-
+
+C
+X
+F
+O
+A
+N
+O
+P
+C
+X
+T
+C
+
+-
+
+-
+
+)
+7
+=
+n
+(
+
+T
+X
+S
+-
+E
+T
+
+-
+P
+I
+
+-
+
+-
+
+-
+
+-
+
+C
+X
+F
+O
+A
+N
+K
+X
+O
+F
+-
+O
+P
+C
+X
+T
+C
+
+-
+
+)
+1
+=
+n
+(
+
+E
+T
+-
+F
+E
+P
+
+5
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 12/12/17. For personal use only. E
+G
+F
+P
+
+e
+l
+ﬁ
+o
+r
+p
+
+9
+3
+P
+
+5
+6
+P
+
+7
+6
+P
+
+8
+5
+P
+
+8
+3
+P
+
+,
+
+1
+2
+P
+
+,
+
+5
+3
+P
+
+,
+
+4
+4
+P
+
+2
+7
+P
+
+,
+
+0
+2
+P
+
+,
+
+7
+2
+P
+
+,
+
+0
+4
+P
+
+,
+
+5
+4
+P
+
+,
+)
+6
+=
+n
+(
+
+5
+1
+P
+
+2
+5
+P
+
+,
+
+0
+5
+P
+
+1
+3
+P
+
+2
+3
+P
+
+,
+
+1
+P
+
+0
+7
+P
+
+7
+2
+P
+
+7
+4
+P
+
+d
+e
+p
+y
+t
+
+4
+3
+P
+
+8
+2
+P
+
+t
+o
+N
+
+6
+3
+P
+
+7
+3
+P
+
+9
+2
+P
+
+)
+d
+e
+u
+n
+i
+t
+n
+o
+c
+8 (
+4
+P
+
+A
+
+D
+
+A
+
+A
+
+1
+B
+
+1
+B
+
+1
+B
+
+1
+B
+
+D
+
+1
+B
+
+1
+B
+
+1
+B
+
+1
+B
+
+A
+
+A
+
+A
+
+1
+B
+
+1
+B
+
+1
+B
+
+I
+0
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+M
+E
+T
+a
+l
+b
+
+-
+
+5
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+,
+
+2
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+,
+
+1
+S
+r
+n
+q
+
+1
+t
+n
+i
+
+,
+
+5
+A
+r
+f
+d
+
+,
+
+M
+E
+T
+a
+l
+b
+
+-
+
+5
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+I
+0
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+1
+t
+n
+i
+
+,
+
+A
+t
+e
+t
+
+-
+
+4
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+,
+
+2
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+,
+
+1
+S
+r
+n
+q
+
+,
+
+2
+l
+u
+s
+
+,
+
+B
+t
+e
+t
+
+1
+t
+n
+i
+
+,
+
+1
+t
+n
+i
+
+,
+
+5
+A
+r
+f
+d
+
+,
+
+M
+E
+T
+a
+l
+b
+
+5
+A
+r
+f
+d
+
+,
+
+M
+E
+T
+a
+l
+b
+
+-
+
+5
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+3
+-
+M
+X
+T
+C
+a
+l
+b
+
+I
+0
+8
+S
+
+,
+
+1
+l
+u
+s
+
+,
+
+B
+t
+e
+t
+
+,
+
+A
+
+t
+e
+t
+
+,
+
+M
+E
+T
+a
+l
+b
+
+,
+
+2
+1
+A
+r
+f
+d
+
+,
+
+2
+l
+u
+s
+
+1
+D
+E
+c
+a
+q
+/
+1
+t
+n
+i
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+4
+6
+
+2
+1
+5
+>
+
+8
+
+)
+d
+e
+u
+n
+i
+t
+n
+o
+C
+
+(
+
+.
+
+2
+
+e
+l
+b
+a
+T
+
+s
+n
+o
+i
+t
+a
+t
+u
+m
+R
+D
+R
+Q
+
+s
+e
+n
+e
+g
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+
+r
+e
+h
+t
+O
+
+L
+/
+g
+m
+n
+o
+i
+t
+a
+r
+t
+n
+e
+c
+n
+o
+c
+
+y
+r
+o
+t
+i
+b
+i
+h
+n
+i
+
+l
+a
+m
+i
+n
+i
+M
+
+p
+u
+o
+r
+g
+o
+l
+y
+h
+P
+
+C
+r
+a
+P
+
+A
+r
+y
+G
+
+s
+n
+o
+r
+g
+e
+t
+n
+i
+
+d
+n
+a
+
+e
+n
+e
+g
+
+L
+B
+S
+E
+
+T
+X
+S
+
+E
+T
+
+P
+I
+
+C
+
+Z
+A
+C
+
+X
+T
+C
+
+)
+s
+e
+t
+a
+l
+o
+s
+i
+
+o
+n
+(
+
+s
+e
+p
+y
+t
+o
+n
+e
+h
+p
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+R
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+2
+t
+n
+i
+
+A
+t
+e
+t
+
+A
+t
+e
+t
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+4
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+,
+
+3
+l
+u
+s
+
+,
+
+2
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+1
+t
+n
+i
+
+,
+
+8
+A
+r
+f
+d
+
+,
+
+M
+E
+T
+a
+l
+b
+
+,
+
+3
+l
+u
+s
+
+,
+
+B
+t
+e
+t
+
+,
+
+A
+t
+e
+t
+
+1
+t
+n
+i
+
+,
+
+5
+A
+r
+f
+d
+
+,
+
+M
+E
+T
+a
+l
+b
+
+2
+t
+n
+i
+
+,
+
+1
+A
+r
+f
+d
+
+,
+
+3
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+4
+6
+
+K
+4
+8
+E
+
+I
+0
+8
+S
+
+I
+0
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+N
+7
+8
+D
+L
+3
+8
+S
+
+,
+
+A
+t
+e
+t
+
+,
+
+1
+S
+r
+n
+q
+
+1
+t
+n
+i
+
+A
+t
+e
+t
+
+,
+
+2
+l
+u
+s
+
+,
+
+M
+E
+T
+a
+l
+b
+
+,
+
+M
+E
+T
+a
+l
+b
+
+A
+t
+e
+t
+
+1
+t
+n
+i
+
+,
+
+A
+t
+e
+t
+
+,
+
+1
+A
+r
+f
+d
+
+,
+
+2
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+1
+t
+n
+i
+,
+
+7
+A
+r
+f
+d
+
+,
+
+5
+A
+r
+f
+d
+
+,
+
+M
+E
+T
+a
+l
+b
+
+-
+
+5
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+4
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+A
+t
+e
+t
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+4
+6
+
+2
+£
+
+4
+6
+
+4
+6
+
+2
+£
+
+2
+£
+
+2
+£
+
+2
+
+£
+
+4
+6
+
+4
+6
+>
+
+2
+£
+
+4
+6
+
+2
+
+2
+
+2
+£
+
+£
+
+£
+
+2
+£
+
+4
+6
+>
+
+2
+1
+5
+
+4
+£
+
+2
+1
+5
+
+2
+1
+5
+>
+
+5
+
+.
+
+0
+£
+
+8
+
+5
+
+.
+
+0
+£
+
+5
+
+.
+
+0
+£
+
+2
+1
+5
+–
+6
+5
+2
+
+6
+1
+–
+4
+
+6
+5
+2
+
+2
+1
+5
+>
+
+6
+5
+2
+
+6
+5
+2
+
+6
+5
+2
+
+6
+5
+2
+
+6
+5
+2
+
+2
+1
+5
+>
+
+6
+5
+2
+
+2
+1
+5
+
+6
+5
+2
+
+2
+1
+5
+>
+
+6
+5
+2
+
+6
+1
+
+8
+–
+4
+
+6
+1
+
+5
+
+.
+
+0
+£
+
+8
+
+4
+6
+
+5
+
+.
+
+0
+£
+
+5
+
+.
+
+0
+£
+
+8
+
+8
+
+6
+1
+
+5
+
+.
+
+0
+£
+
+5
+
+.
+
+0
+£
+
+1
+£
+
+2
+3
+
+6
+1
+
+4
+6
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+6
+1
+
+1
+£
+
+8
+2
+1
+
+2
+1
+5
+
+2
+1
+5
+>
+
+2
+1
+5
+>
+
+8
+2
+1
+
+-
+E
+T
+-
+F
+E
+P
+-
+P
+I
+
+-
+
+-
+
+C
+X
+F
+O
+A
+N
+K
+X
+T
+C
+
+-
+
+-
+
+)
+1
+=
+n
+(
+
+T
+X
+S
+
+-
+E
+T
+-
+X
+F
+O
+O
+P
+C
+
+-
+
+-
+Z
+A
+C
+X
+T
+C
+
+-
+
+-
+
+C
+M
+A
+
+)
+1
+=
+n
+(
+
+T
+X
+S
+
+-
+P
+I
+
+-
+
+-
+
+C
+X
+F
+O
+A
+N
+O
+P
+C
+
+-
+
+-
+Z
+A
+C
+X
+T
+C
+
+-
+
+)
+1
+=
+n
+(
+
+F
+E
+P
+
+-
+E
+T
+-
+X
+F
+O
+A
+N
+O
+P
+C
+
+-
+
+-
+
+-
+Z
+A
+C
+X
+T
+C
+
+-
+
+)
+1
+=
+n
+(
+
+T
+X
+S
+
+-
+
+T
+X
+S
+-
+E
+T
+-
+X
+F
+O
+A
+N
+K
+O
+P
+C
+X
+T
+C
+
+-
+
+-
+
+-
+
+)
+1
+=
+n
+(
+
+6
+5
+2
+–
+4
+6
+
+E
+T
+-
+F
+E
+P
+-
+P
+I
+
+-
+
+-
+
+C
+X
+F
+O
+A
+N
+O
+P
+C
+X
+T
+C
+
+-
+
+-
+
+)
+7
+1
+=
+n
+(
+
+8
+2
+1
+
+6
+5
+2
+
+6
+5
+2
+
+6
+5
+2
+
+8
+2
+1
+–
+4
+6
+
+6
+5
+2
+
+8
+2
+1
+
+6
+5
+2
+
+4
+6
+
+4
+6
+
+8
+2
+1
+
+8
+2
+1
+
+6
+5
+2
+
+)
+3
+=
+n
+(
+
+T
+X
+S
+-
+E
+T
+-
+F
+E
+P
+-
+P
+I
+
+-
+
+-
+
+C
+X
+F
+O
+A
+N
+X
+T
+C
+
+-
+
+T
+X
+S
+-
+E
+T
+-
+F
+E
+P
+-
+X
+F
+O
+A
+N
+K
+X
+T
+C
+
+-
+
+-
+
+-
+
+)
+1
+=
+n
+(
+
+-
+
+E
+T
+-
+F
+E
+P
+-
+X
+F
+O
+A
+N
+O
+P
+C
+X
+T
+C
+
+-
+
+-
+
+)
+1
+=
+n
+(
+
+-
+
+T
+X
+S
+-
+E
+T
+-
+X
+F
+O
+A
+N
+O
+P
+C
+X
+T
+C
+
+-
+
+-
+
+)
+1
+=
+n
+(
+
+E
+T
+-
+F
+E
+P
+-
+P
+I
+
+-
+
+-
+
+C
+X
+F
+O
+A
+N
+X
+T
+C
+
+-
+
+)
+3
+=
+n
+(
+
+)
+1
+=
+n
+(
+
+)
+1
+=
+n
+(
+
+E
+T
+-
+O
+P
+C
+
+-
+Z
+A
+C
+X
+T
+C
+
+-
+
+-
+
+C
+M
+A
+
+T
+X
+S
+-
+E
+T
+-
+O
+P
+C
+X
+T
+C
+
+-
+
+-
+
+C
+M
+A
+
+E
+T
+-
+F
+E
+P
+-
+P
+I
+
+-
+
+-
+
+C
+X
+F
+O
+A
+N
+K
+X
+T
+C
+
+-
+
+-
+
+)
+1
+=
+n
+(
+
+6
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 12/12/17. For personal use only. E
+G
+F
+P
+
+e
+l
+ﬁ
+o
+r
+p
+
+9
+P
+
+1
+1
+P
+
+5
+P
+
+6
+P
+
+3
+2
+P
+
+9
+6
+P
+
+8
+1
+P
+
+8
+1
+P
+
+3
+5
+P
+
+d
+e
+p
+y
+t
+
+t
+o
+N
+
+8
+P
+
+d
+e
+p
+y
+t
+
+t
+o
+N
+
+2
+P
+
+7
+P
+
+5
+P
+
+4
+P
+
+7
+1
+P
+
+3
+6
+P
+
+9
+1
+P
+
+6
+4
+P
+
+1
+B
+
+1
+B
+
+1
+B
+
+1
+B
+
+A
+
+A
+
+A
+
+A
+
+1
+B
+
+D
+
+1
+B
+
+D
+
+D
+
+D
+
+1
+B
+
+1
+B
+
+1
+B
+
+D
+
+A
+
+1
+B
+
+A
+
+1
+B
+
+,
+
+2
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+,
+
+1
+S
+r
+n
+q
+
+,
+
+2
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+,
+
+1
+S
+r
+n
+q
+
+1
+t
+n
+i
+
+,
+
+2
+1
+A
+r
+f
+d
+
+,
+
+1
+t
+n
+i
+
+,
+
+5
+A
+r
+f
+d
+
+,
+
+M
+E
+T
+a
+l
+b
+
+5
+A
+r
+f
+d
+
+,
+
+M
+E
+T
+a
+l
+b
+
+-
+
+5
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+5
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+1
+t
+n
+i
+
+,
+
+7
+A
+r
+f
+d
+
+,
+
+2
+l
+u
+s
+
+,
+
+B
+t
+e
+t
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+2
+t
+n
+i
+
+,
+
+1
+A
+r
+f
+d
+
+,
+
+2
+l
+u
+s
+
+,
+
+A
+t
+e
+t
+
+-
+
+5
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+A
+t
+e
+t
+
+,
+
+B
+r
+n
+q
+
+A
+t
+e
+t
+
+A
+t
+e
+t
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+1
+S
+r
+n
+q
+
+1
+S
+r
+n
+q
+
+-
+
+5
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+5
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+A
+t
+e
+t
+
+,
+
+M
+E
+T
+a
+l
+b
+
+A
+t
+e
+t
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+1
+t
+n
+i
+
+,
+
+7
+A
+r
+f
+d
+
+,
+
+2
+l
+u
+s
+
+,
+
+B
+t
+e
+t
+
+B
+t
+e
+t
+
+B
+t
+e
+t
+
+B
+t
+e
+t
+
+,
+
+A
+t
+e
+t
+
+,
+
+A
+t
+e
+t
+
+,
+
+A
+t
+e
+t
+
+,
+
+A
+t
+e
+t
+
+,
+
+1
+S
+r
+n
+q
+
+1
+t
+n
+i
+
+,
+
+5
+A
+r
+f
+d
+
+,
+
+2
+l
+u
+s
+
+,
+
+M
+E
+T
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+5
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+1
+t
+n
+i
+
+,
+
+7
+A
+r
+f
+d
+
+,
+
+2
+l
+u
+s
+
+,
+
+B
+t
+e
+t
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+1
+t
+n
+i
+
+,
+
+7
+A
+r
+f
+d
+
+,
+
+2
+l
+u
+s
+
+2
+t
+n
+i
+
+,
+
+1
+S
+r
+n
+q
+
+1
+S
+r
+n
+q
+
+1
+S
+r
+n
+q
+
+-
+
+5
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+5
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+5
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+5
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+-
+
+1
+-
+M
+X
+T
+C
+a
+l
+b
+
+;
+n
+i
+c
+a
+x
+o
+ﬂ
+e
+p
+
+,
+
+F
+E
+P
+;
+d
+i
+c
+a
+
+c
+i
+x
+i
+d
+i
+l
+a
+n
+
+,
+
+A
+N
+
+;
+
+m
+
+i
+r
+p
+o
+h
+t
+e
+m
+
+i
+r
+t
+–
+e
+l
+o
+z
+a
+x
+o
+h
+t
+e
+m
+a
+f
+l
+u
+s
+
+,
+
+T
+X
+S
+;
+e
+n
+i
+l
+c
+y
+c
+a
+r
+t
+e
+t
+
+,
+
+E
+T
+
+;
+e
+m
+o
+r
+i
+p
+f
+e
+c
+
+,
+
+O
+P
+C
+
+;
+e
+m
+i
+d
+i
+z
+a
+t
+f
+e
+c
+
+,
+
+Z
+A
+C
+
+;
+e
+m
+i
+x
+a
+t
+o
+f
+e
+c
+
+.
+s
+n
+o
+i
+g
+e
+r
+
+g
+n
+i
+n
+i
+m
+r
+e
+t
+e
+d
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+-
+e
+n
+o
+l
+o
+n
+i
+u
+q
+
+,
+
+R
+D
+R
+Q
+
+;
+s
+i
+s
+e
+r
+o
+h
+p
+o
+r
+t
+c
+e
+l
+e
+
+l
+e
+g
+
+d
+l
+e
+ﬁ
+-
+d
+e
+s
+l
+u
+p
+
+,
+
+E
+G
+F
+P
+
+;
+e
+s
+a
+m
+a
+t
+c
+a
+l
+-
+b
+m
+u
+r
+t
+c
+e
+p
+s
+-
+d
+e
+d
+n
+e
+t
+x
+e
+
+,
+
+L
+B
+S
+E
+
+;
+n
+i
+c
+y
+m
+a
+n
+a
+k
+
+,
+
+K
+
+;
+n
+i
+c
+a
+x
+o
+ﬂ
+o
+r
+p
+i
+c
+
+,
+
+P
+I
+C
+
+;
+n
+i
+c
+a
+x
+o
+ﬂ
+o
+
+,
+
+X
+F
+O
+
+s
+n
+o
+i
+t
+a
+t
+u
+m
+R
+D
+R
+Q
+
+s
+e
+n
+e
+g
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+
+r
+e
+h
+t
+O
+
+L
+/
+g
+m
+n
+o
+i
+t
+a
+r
+t
+n
+e
+c
+n
+o
+c
+
+y
+r
+o
+t
+i
+b
+i
+h
+n
+i
+
+l
+a
+m
+i
+n
+i
+M
+
+)
+d
+e
+u
+n
+i
+t
+n
+o
+C
+
+(
+
+.
+
+2
+
+e
+l
+b
+a
+T
+
+p
+u
+o
+r
+g
+o
+l
+y
+h
+P
+
+C
+r
+a
+P
+
+A
+r
+y
+G
+
+s
+n
+o
+r
+g
+e
+t
+n
+i
+
+d
+n
+a
+
+e
+n
+e
+g
+
+L
+B
+S
+E
+
+T
+X
+S
+
+P
+I
+
+C
+
+Z
+A
+C
+
+X
+T
+C
+
+)
+s
+e
+t
+a
+l
+o
+s
+i
+
+o
+n
+(
+
+s
+e
+p
+y
+t
+o
+n
+e
+h
+p
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+R
+
+4
+6
+
+4
+6
+>
+
+4
+6
+
+2
+£
+
+2
+£
+
+4
+6
+
+2
+£
+
+2
+£
+
+2
+£
+
+4
+6
+
+2
+£
+
+2
+£
+
+2
+£
+
+2
+£
+
+E
+T
+
+6
+5
+2
+
+6
+5
+2
+
+2
+1
+5
+>
+
+6
+5
+2
+
+2
+1
+5
+
+2
+1
+5
+>
+
+2
+1
+5
+
+2
+1
+5
+
+6
+5
+2
+
+4
+£
+
+4
+£
+
+2
+1
+5
+>
+
+2
+1
+5
+>
+
+2
+1
+5
+>
+
+4
+6
+
+4
+6
+
+4
+6
+
+2
+1
+5
+>
+
+6
+5
+2
+
+2
+1
+5
+>
+
+5
+
+.
+
+5
+
+.
+
+0
+£
+
+0
+£
+
+5
+
+.
+
+0
+£
+
+2
+£
+
+2
+£
+
+2
+£
+
+4
+£
+
+4
+£
+
+4
+£
+
+5
+
+.
+
+5
+
+.
+
+5
+
+.
+
+0
+£
+
+0
+£
+
+0
+£
+
+2
+£
+
+4
+6
+
+4
+£
+
+4
+£
+
+5
+
+.
+
+5
+
+.
+
+0
+£
+
+0
+£
+
+5
+
+.
+
+0
+£
+
+5
+
+.
+
+0
+£
+
+5
+
+.
+
+0
+£
+
+5
+
+.
+
+5
+
+.
+
+0
+£
+
+0
+£
+
+5
+
+.
+
+0
+£
+
+5
+
+.
+
+5
+
+.
+
+5
+
+.
+
+0
+£
+
+0
+£
+
+0
+£
+
+6
+1
+
+6
+1
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+5
+
+.
+
+5
+
+.
+
+0
+£
+
+0
+£
+
+6
+1
+
+1
+£
+
+5
+
+.
+
+5
+
+.
+
+5
+
+.
+
+0
+£
+
+0
+£
+
+0
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+1
+£
+
+2
+3
+
+6
+1
+
+6
+1
+
+1
+£
+
+1
+£
+
+8
+2
+1
+
+8
+2
+1
+
+6
+5
+2
+
+8
+2
+1
+
+8
+2
+1
+
+6
+5
+2
+
+6
+5
+2
+
+6
+5
+2
+
+2
+1
+5
+
+2
+1
+5
+>
+
+6
+5
+2
+
+2
+1
+5
+
+2
+1
+5
+
+2
+1
+5
+
+2
+1
+5
+
+2
+1
+5
+
+2
+1
+5
+
+2
+1
+5
+
+6
+5
+2
+
+2
+1
+5
+
+8
+2
+1
+
+6
+5
+2
+
+)
+2
+=
+n
+(
+
+T
+X
+S
+-
+E
+T
+-
+O
+P
+C
+
+-
+Z
+A
+C
+X
+T
+C
+
+-
+
+)
+1
+=
+n
+(
+
+T
+X
+S
+-
+E
+T
+-
+K
+O
+P
+C
+X
+T
+C
+
+-
+
+-
+
+)
+2
+=
+n
+(
+
+)
+1
+=
+n
+(
+
+-
+
+E
+T
+-
+X
+F
+O
+A
+N
+O
+P
+C
+X
+T
+C
+
+-
+
+-
+
+T
+X
+S
+-
+E
+T
+-
+A
+N
+O
+P
+C
+X
+T
+C
+
+-
+
+-
+
+)
+3
+=
+n
+(
+
+E
+T
+-
+O
+P
+C
+X
+T
+C
+
+-
+
+-
+
+C
+M
+A
+
+)
+1
+=
+n
+(
+
+T
+X
+S
+-
+O
+P
+C
+
+-
+Z
+A
+C
+X
+T
+C
+
+-
+
+)
+1
+=
+n
+(
+
+-
+
+-
+
+X
+F
+O
+A
+N
+O
+P
+C
+X
+T
+C
+
+-
+
+)
+3
+=
+n
+(
+
+-
+
+E
+T
+-
+A
+N
+O
+P
+C
+X
+T
+C
+
+-
+
+)
+2
+=
+n
+(
+
+T
+X
+S
+-
+E
+T
+-
+O
+P
+C
+X
+T
+C
+
+-
+
+)
+1
+=
+n
+(
+
+)
+3
+=
+n
+(
+
+T
+X
+S
+-
+E
+T
+-
+K
+X
+T
+C
+
+-
+
+O
+P
+C
+
+-
+Z
+A
+C
+X
+T
+C
+
+-
+
+)
+1
+=
+n
+(
+
+)
+1
+=
+n
+(
+
+-
+
+X
+F
+O
+O
+P
+C
+X
+T
+C
+
+-
+
+T
+X
+S
+-
+O
+P
+C
+X
+T
+C
+
+-
+
+7
+
+,
+
+X
+T
+C
+
+;
+n
+i
+t
+i
+x
+o
+f
+e
+c
+
+,
+
+X
+O
+F
+;
+e
+t
+a
+n
+a
+l
+u
+v
+a
+l
+c
+–
+n
+i
+l
+l
+i
+c
+i
+x
+o
+m
+a
+
+,
+
+C
+M
+A
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 12/12/17. For personal use only. 8
+
+REBBAH ET AL.
+
+Table 3. Prevalence of Resistance Genes in Total Isolates and According to Phylogroups
+
+Resistance genes
+
+Total isolates
+(n = 102) n (%)
+
+blaCTX-M-1
+blaCTX-M-14
+blaCTX-M-15
+blaCTX-M-3
+blaCTX-M-24
+blaCTX-M-32
+blaTEM-1
+qnrS1
+qnrB
+aac(6¢)-Ib-cr
+tet A
+tet B
+sul1
+sul2
+sul3
+dfrA1
+dfrA5
+dfrA7
+dfrA8
+dfrA12
+int1
+qacED1
+int2
+
+47 (46.1)
+27 (26.5)
+24 (23.5)
+
+2 (2)
+1 (1)
+1 (1)
+
+39 (38.2)
+16 (15.7)
+
+1 (1)
+2 (2)
+
+82 (80.4)
+17 (16.7)
+18 (17.6)
+36 (35.3)
+16 (15.7)
+10 (9.8)
+15 (14.7)
+13 (12.7)
+
+2 (2)
+
+18 (17.6)
+69 (67.6)
+18 (17.6)
+10 (9.8)
+
+A (n = 25)
+
+11 (44)
+0 (0) b,*
+12 (48)c,*
+
+0 (0)
+1 (4)
+1 (4)
+
+14 (56)
+8 (32)d
+0 (0)
+2 (8)
+
+18 (72)
+6 (24)
+7 (28)
+11 (44)
+
+1 (4)
+2 (8)
+6 (24)
+2 (8)
+0 (0)
+8 (32)d
+16 (64)
+7 (28)
+2 (8)
+
+Phylogenetic groups n (%)
+
+B1 (n = 62)
+
+D (n = 15)
+
+27 (43.5)
+27 (43.5)a
+7 (11.3)b,*
+
+1 (1.6)
+0 (0)
+0 (0)
+
+19 (30.6)
+5 (8.1)d,*
+1 (1.6)
+0 (0)
+
+53 (85.5)
+6 (9.7)d,*
+5 (8.1)c,*
+18 (29)
+14 (22.6)d
+8 (12.9)
+8 (12.9)
+9 (14.5)
+2 (3.2)
+5 (8.1)c,*
+46 (74.2)
+5 (8.1)c,*
+6 (9.7)
+
+9 (60)
+0 (0)c,*
+5 (33.3)
+1 (6.7)
+0 (0)
+0 (0)
+6 (40)
+3 (20)
+0 (0)
+0 (0)
+
+11 (73.3)
+5 (33.3)
+6 (40)d
+7 (46.7)
+1 (6.7)
+0 (0)
+1 (6.7)
+2 (13.3)
+
+0 (0)
+
+5 (33.3)
+7 (46.7)
+6 (40)d
+2 (13.3)
+
+Letters (a, b, c, d) indicate signiﬁcant association by the Fisher test.
+ap £ 0.0001; b0.0001< p £ 0.001; c0.001< p £ 0.01; d0.01< p < 0.05.
+*Negative association.
+
+The screening for PMQR determinants of all isolates
+showed the presence of qnrS1, qnrB, and aac(6¢)-Ib-cr in
+16 (15.7%), 1 (1%), and 2 (2%) isolates, respectively
+(Tables 2 and 3), while qnrA, qnrC, qnrD, qepA, oqxA, and
+oqxB were absent. It should be noted the presence of qnrS1
+(n = 6) and qnrB (n = 1) genes in quinolone susceptible
+isolates. qnrS1 gene was cotransferred with blaCTX-M-15
+from one isolate (Table 4). Sequence analysis of the
+QRDR of gyrA and parC genes showed mutations in 71/72
+ciproﬂoxacin-resistant isolates (98.6%), while no muta-
+tions were observed in peﬂoxacin- and/or oﬂoxacin-
+resistant
+isolates. The amino acid substitution pattern
+‘‘GyrA: S83L+D87N, ParC: S80I’’ (46.5%) and the single
+substitution ‘‘ParC: S80I’’ (42.3%) were predominant,
+followed by the mutation patterns ‘‘GyrA: S83L+D87Y,
+‘‘GyrA: S83L+D87N, ParC:
+ParC: S80I’’
+S80I+E84G’’ (2.8%), ‘‘GyrA: S83A+D87Y, ParC: S80I’’
+(1.4%),
+(1.4%),
+‘‘GyrA: S83I, ParC: S80R’’ (1.4%), and the single muta-
+tion ‘‘ParC: E84K’’ (1.4%) (Table 2).
+
+‘‘GyrA: S83L+D87N, ParC: E84K’’
+
+(2.8%),
+
+Among the 94 tetracycline-resistant strains,
+
+tet genes
+were detected in 90 isolates (95.7%), with a prevalence of
+81.1% (n = 73) for tetA, 8.9% (n = 8) for tetB, and 10%
+(n = 9) for tetA+tetB (Tables 2 and 3). tetA gene was co-
+transferred with blaCTX-M-1 and blaCTX-M-15 from 14 and 2
+isolates, respectively (Table 4).
+
+The sul genes were present in 53 of 55 SXT-resistant
+isolates (96.4%), the rates of sul1, sul2, sul3, sul1+sul2,
+sul2+sul3, and sul1+sul3 were of 9.4% (n = 5), 39.6%
+(n = 21), 18.9% (n = 10), 20.8% (n = 11), 7.5% (n = 4), and
+3.8% (n = 2), respectively (Tables 2 and 3). sul2 gene was
+
+cotransferred with blaCTX-M-15 and blaCTX-M-1 from six and
+one isolates, respectively, and sul3 with blaCTX-M-15 from
+one isolate (Table 4).
+
+In total, 47 of 55 (85.5%) SXT-resistant isolates harbored
+dfr genes. The gene clusters dfrA1, dfrA5, dfrA7, dfrA8, and
+dfrA12 were detected in 14.9% (n = 7), 14.9% (n = 7), 17%
+(n = 8), 4.3% (n = 2), and 27.7% (n = 13) of isolates, re-
+spectively. The concomitant presence of dfrA5+dfrA12,
+dfrA1+dfrA5, dfrA7+dfrA12, dfrA5+dfrA7, and dfrA1+
+dfrA5+ dfrA7 was observed in 6.4% (n = 3), 4.3% (n = 2),
+4.3% (n = 2), 4.3% (n = 2), and 2.1% (n = 1) of isolates, re-
+spectively (Tables 2 and 3). The association sul+dfr was
+found in 83.6% of SXT-resistant isolates. dfrA7 gene clus-
+ter was cotransferred with blaCTX-M-1 from three isolates
+and dfrA5 with blaCTX-M-15 or blaCTX-M-1 from one isolate
+(Table 4).
+
+Class 1 and class 2 integrons were detected in 69 (67.6%)
+and 10 (9.8%) isolates, respectively, while class three in-
+tegrons were absent. Fifty-one (73.9%) of class 1 integrons
+lacked the 3¢-conserved sequence (3¢-CS) comprising the
+qacED1-sul1 genes. Class 1 integrons were cotransferred
+with blaCTX-M-15 and with blaCTX-M-1 from two and three
+isolates, respectively (Tables 2 and 3).
+
+The clonal relationship between 94 isolates investigated
+by PFGE revealed 72 DNA proﬁles. Similarities between
+proﬁles were observed within 33 isolates mostly originating
+from different districts, they are divided into 10 clusters of 2
+isolates and two clusters of 6 isolates (PFGE proﬁle P15)
+and 7 isolates (PFGE proﬁle P27) (Table 2). The latter
+harbored CTX-M-14 and belonged to phylogroup B1. As
+regards resistance proﬁles, the six-isolate cluster had a same
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 12/12/17. For personal use only. ESBL-PRODUCING E. COLI IN GROUND BEEF IN ALGERIA
+
+9
+
+Table 4. Resistance Genes and Associated Plasmids Transferred in Transconjugants (n = 27)
+
+Wild-type isolates
+
+Transconjugants
+
+Strain
+
+CTX-M gene
+
+Other resistance
+
+genes
+
+Plasmid
+replicon
+
+types
+
+CTX-M
+
+gene
+
+Cotransferred
+
+genes
+
+Plasmid
+replicon
+
+types (size kb)
+
+EC 1
+EC 15
+
+EC 19
+EC 28
+EC 39
+EC 41
+
+EC 42
+EC 44
+
+EC 45
+EC 50
+EC 58
+EC 66
+EC68
+EC 73
+EC 75
+
+EC 91
+EC 92
+
+blaCTX-M-1
+blaCTX-M-15
+
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-3
+blaCTX-M-1
+
+blaCTX-M-1
+blaCTX-M-1
+
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-14
+blaCTX-M-3
+blaCTX-M-1
+
+blaCTX-M 1
+blaCTX-M-1
+
+EC 100
+EC 105
+
+blaCTX-M-1
+blaCTX-M 1
+
+EC 109
+EC 110
+
+blaCTX-M-1
+blaCTX-M-15
+
+EC 117
+EC 118
+EC 119
+EC 126
+EC 127
+EC130
+
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-15
+blaCTX-M-15
+blaCTX-M-1
+
+blaTEM, tetA
+blaTEM, qnrS1, tetA,
+
+sul2, dfrA5, dfrA12, int1
+
+I1
+K, B/O
+
+tetA, sul1, sul2, dfrA12
+tetA
+tetB
+blaTEM, tetB, sul1,
+sul2, dfrA7, int1
+
+tetA
+tetA, sul2, dfrA5,
+
+dfrA7, int1
+
+blaTEM, tetA, sul2, dfrA7
+
+tetA
+tetA
+blaTEM, tetB, sul2, dfrA5
+blaTEM, tetA, tetB,
+
+sul1, sul2, dfrA12
+
+sul2, dfrA7, int1
+blaTEM, tetA, tetB,
+
+sul3, dfrA5
+
+qnrB, tetA
+blaTEM, tetA, sul1,
+
+sul2, dfrA12
+
+tetA
+tetA, tetB, sul1, sul3,
+
+dfrA12, int1
+
+tetA, tetB
+tetA, tetB
+tetA, tetB
+blaTEM
+qnrS1
+blaTEM, qnrS1, tetA,
+
+tetB, sul1, sul2,
+dfrA12
+
+I1, FIB
+I1
+FIB, K, H1
+I1, FIB, K
+
+I1
+I1, FIB
+
+I1, FIB
+I1, K
+I1, FIB
+I1, FIB
+I1, FIB, K
+I1, FIB, K
+I1, FIB
+
+I1, FIB
+I1, FIB
+
+I1, FIB
+I1, FIB
+
+I1, FIB
+N, I1, FIB, P
+
+I1, FIB
+I1, FIB
+I1, FIB
+I1
+I1, FIB
+I1, FIB
+
++
++
+
++
++
++
++
+
++
++
+
++
++
++
++
++
++
++
+
++
++
+
++
++
+
++
++
+
++
++
++
++
++
++
+
+tetA
+qnrS1, tetA, sul2,
+
+I1 (128)
+K, B/O (80)
+
+dfrA5, int1
+
+tetA, sul2
+tetA
+
+sul2, dfrA7, int1
+
+FIB, I1 (141, 128)
+I1 (128)
+FIB, K (141, 95)
+I1 (128)
+
+tetA
+tetA, sul2, dfrA5,
+
+I1 (128)
+I1 (128)
+
+dfrA7, int1
+
+tetA, sul2
+
+tetA
+
+tetA, sul2
+
+dfrA7, int1
+tetA
+
+tetA
+sul2
+
+tetA
+tetA, sul3, int1
+
+tetA
+tetA
+tetA
+
+tetA, sul2
+
+I1 (128)
+I1 (128)
+I1 (128)
+I1 (128)
+FIB, K (150, 48)
+K (95)
+I1 (128)
+
+I1 (128)
+I1 (128)
+
+I1 (128)
+I1 (128)
+
+I1 (128)
+I1 (128)
+
+I1 (128)
+I1 (128)
+I1 (128)
+I1 (128)
+I1 (128)
+I1 (128)
+
+proﬁle, while the seven-isolate cluster presented differences
+in their resistance proﬁles (Table 2).
+
+Discussion
+
+In this study, we investigated the prevalence and mo-
+lecular features of resistance to ESC in E. coli recovered
+from ground beef samples at retail in Algeria. A total of
+102/371 (27.5%) ground beef samples were found to
+contain ESBL-producing cefotaxime-resistant E. coli. The
+occurrence of ESBL-carrying E. coli in beef varies among
+countries, and comparisons are difﬁcult because of the
+variety of methods used in studies; rates of 59%, 26%, 7%,
+0%, and 0% were reported in studies from Spain, Tunisia,
+Turkey, Switzerland, and Czech Republic,
+respective-
+ly.10,24–27 The
+contamination of meat with ESBL-
+producing E. coli may have resulted from their fecal
+carriage by animals exposed to antibiotics for prophylaxy
+and growth promotion.28,29
+
+Phylogenetic grouping of isolates showed that B1 was the
+main phylogroup followed by phylogroup A and to a lesser
+extent by D. This ﬁnding matches with what was observed in
+CTX-M–producing E. coli from livestock (including cat-
+tle).8,30 Thus, even though other hypotheses may include
+cross-contamination of human origin through the handling of
+the beef samples before getting at retail, those phylogroups,
+and particularly the absence of phylogroup B2 which is
+prevalent in humans, rather argue for an animal origin.
+
+Besides beta-lactam resistance, high prevalence resis-
+tance toward ﬂuoroquinolone, SXT, and tetracycline and to
+a lesser extent to kanamycin was observed, and 88.2% of the
+isolates were MDR phenotype; this may have resulted from
+co-selection with ESBL due to associated chromosomally-
+or plasmid-encoded resistance mechanisms.5,8,24
+
+All ESBLs detected in this study were members of CTX-
+M family, in accordance with the worldwide prevalence
+of CTX-Ms in Enterobacteriaceae, particularly E. coli.4
+Among the CTX-M variants identiﬁed in our study, CTX-
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 12/12/17. For personal use only. 10
+
+REBBAH ET AL.
+
+M-1 (46%), CTX-M-14 (24.5%), and CTX-M-15 (23.5%)
+were largely predominant; this is consistent with the fre-
+quent detection of CTX-M-1 and CTX-M-14 variants in
+food-producing animals and foods.6,7,10,24,25,30 Of note,
+cattle are the animal group, compared to others, where CTX-
+M-15 has been recognized at a signiﬁcant prevalence.8,31,32
+Therefore, it may not be surprising to ﬁnd CTX-M-15 pro-
+ducers in those meat samples as they originate from beef,
+and this also constitutes an argument that this colonization
+may rather originate from the animal sector. The most CTX-
+M variants detected up until now in Algeria were of CTX-
+M-1 group; these are CTX-M-3 and CTX-M-28 in clinical
+isolates,15,33 CTX-M-15 in clinical and chicken isolates,15,34
+and CTX-M-1 in chicken isolates.35 The second group de-
+scribed was CTX-M-9 through only the CTX-M-14 vari-
+ant.36 CTX-M-24 of CTX-M-9 group and CTX-M-32 of
+CTX-M-1 group found in our isolates are therefore reported
+for the ﬁrst time in Algeria. These ﬁndings are indicative of
+the potential role of cattle and beef meat in the dissemina-
+tion of CTX-M ESBLs, particularly those of CTX-M-9
+group, which up until now are rare in clinical setting in
+Algeria. The association of blaTEM-1 with blaCTX-M is very
+common; they often coexist on the same plasmids.15
+
+The described associations between CTX-M variants and
+phylogroups vary according to studies, depending on strains and
+their origin8,30,37; it was reported that the emergence of a type of
+ESBL results from its interaction with the genetic background of
+the strain and the surrounding selection pressure.38 In this study,
+CTX-M-14 was 100% associated with phylogroup B1; this ge-
+notype seems well established in beef; it certainly contributes in
+the spread of resistance through food chain.
+
+All blaCTX-M genes were found ﬂanked upstream by an
+ISEcp1B insertion sequence known to be involved in the
+expression and mobility of these genes21; this association at
+high rate is well documented.4 The sequences of spacer
+regions between ISEcp1B and blaCTX-M of group 1 previ-
+ously found in clinical and environmental Algerian strains
+were W and V + W15,20; this is the ﬁrst time that X + W and
+the 45-bp sequences were described in Algeria, while they
+were previously reported in other countries.10,39,40 This
+ﬁnding suggests a foreign origin of at least some of our
+strains, possibly carried by imported animals. In two isolates
+harboring blaCTX-M-1 or blaCTX-M-32, ISKpn26, ﬁrst de-
+scribed in Klebsiella pneumoniae (GenBank: NC_016845),
+was localized inside ISEcp1B; such a genetic environment
+was already reported in E. coli (GenBank: AB976580).
+
+Plasmid replicon analysis showed that all
+
+The conjugation transfer of blaCTX-M genes was positive
+for only 26.5% of our isolates, when plasmid horizontal
+transfer is known as an important contributor in the epide-
+miology of these genes1,2,4; in this regard, transfer rates of
+86% and 100% of blaCTX-M gene were reported.41,42 Our
+result could be explained by a chromosomal localization of
+blaCTX-M genes4 or a very low transfer frequency of plasmids.
+transferred
+blaCTX-M-1 were associated with IncI1 plasmid group, which is
+among the main groups involved in the spread of blaCTX-M.1,4,6
+Many studies reported a close association between CTX-M-1
+and IncI1 plasmid types in human, animal, food, and envi-
+ronmental isolates, and the emergence of plasmid IncI1/
+blaCTX-M-1 was ﬁrst observed in animals and subsequently in
+humans.1,6,7,42,43 Our results support the role of IncI1 plas-
+mids in the dissemination of blaCTX-M-1 and the food chain
+
+in their transmission to humans. IncI1 plasmids are con-
+sidered to be epidemic resistance plasmids; their successful
+dissemination is probably related, among others, to plasmid-
+intrinsic factors such as addiction systems (e.g., pndAC and
+relBE systems) and colonization factors (e.g.,
+type IV
+pili).1,44 blaCTX-M-15 was found associated with IncI1 and
+IncK+B/O plasmids; the association CTX-M-15-IncI1 was
+already described, especially in an outbreak of E. coli
+O104:H4 in Northern Europe,6 whereas linkage of CTX-M-
+15 with a multireplicon plasmid IncK-B/O is reported for
+the ﬁrst time in this study. The multireplicon plasmids have
+advantage of being stable even in the presence of a second
+plasmid carrying a homologous replicon. blaCTX-M-14 was
+found associated either with IncF1B or IncK plasmids; a
+close association between blaCTX-M-14 and IncK plasmids
+was previously documented in different studies; indeed, this
+plasmid type was described as being behind the diffusion of
+CTX-M-14 among animals and humans from different Eu-
+ropean countries.1,6,7,37 blaCTX-M-3, described as dominantly
+harbored by IncL/M and IncI1, is reported for the ﬁrst time
+on an IncK plasmid in this study.
+
+A rate of 80.4% of the isolates was resistant to ﬂuoro-
+quinolones,
+the association between ESBLs, especially
+CTX-M, and ﬂuoroquinolone resistance was commonly re-
+ported.2,7 A rate of 18.6% of isolates harbored PMQR de-
+terminants with a predominance of qnrS1; this is consistent
+with previous reports.45 Some strains harboring qnrB or
+qnrS1 were susceptible to quinolones, this is in accordance
+with the very low level resistance (below the resistance
+threshold, according to EUCAST-CASFM) conferred by
+these genes; however, PMQR determinants can facilitate the
+emergence of high-level resistant mutants.46 Furthermore,
+animal experiments showed that qnr genes can reduce
+bactericidal activity of ciproﬂoxacin like a gyrA mutation.47
+Almost all ciproﬂoxacin-resistant isolates (98.6%) had
+mutations in gyrA and/or parC genes, all substitutions de-
+tected were already described in E. coli,48 and the prevalent
+mutation proﬁles were the pattern ‘‘GyrA: S83L+D87N,
+ParC: S80I’’ followed by the single substitution ParC: S80I.
+‘‘GyrA: S83L+D87N, ParC: S80I’’ was previously reported
+among the predominant proﬁles in clinical ﬂuoroquinolone-
+isolates in Algeria49 and worldwide.50,51 The
+resistant
+abundance of this genotype may be related to elimination of
+ﬁtness cost associated with S83L+D87N by additional ParC
+S80I substitution.52 High levels of resistance up to 64 mg/L
+were observed with the single ParC S80I substitution; the
+same ﬁnding was reported.53 However, previous studies
+showed that this mutation alone is not associated with any
+increase in the MIC of ciproﬂoxacin52; thus, the resistance
+levels observed are probably related to other mechanisms
+such as decreased expression of outer membrane porins or
+overexpression of multidrug efﬂux pumps.
+
+Tetracycline is a broad-spectrum antibiotic used with
+other ﬁrst-generation tetracyclines, such as chlortetracycline
+and oxytetracycline as animal growth promoter. Second-
+generation tetracyclines, such as minocycline and doxycy-
+cline, are commonly used in human and veterinary medi-
+cine. Almost all of our
+isolates
+harbored tetA and/or tetB genes with a clear predominance
+of tetA gene, in agreement with the fact that generally efﬂux
+mechanisms are most prominent, and the tetA gene is
+commonly encountered in E. coli isolated from human,
+
+tetracycline-resistant
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 12/12/17. For personal use only. ESBL-PRODUCING E. COLI IN GROUND BEEF IN ALGERIA
+
+11
+
+animals, and animal-derived foods in many countries.54–59
+tetB gene was found at
+low prevalence in our strains;
+however, it confers a high level of resistance, in particular to
+minocycline and doxycycline.58
+
+Commonly, sulfonamides and trimethoprim resistance in
+E. coli arise from the acquisition of sul and dfr genes, en-
+coding drug-resistant variants of dihydropteroate synthases
+and dihydrofolate reductases.60 Consistent with our results,
+sul2 gene was reported as the most prevalent in E. coli from
+human, animals, and animal-derived foods.29,54,55,57,59
+E. coli carrying sul2 gene was described as able to colonize
+both animals and humans, and animal strains may be im-
+plicated in human infections such as UTI and septicemia.61
+sul3 gene, reported as rare, was detected at a substantial rate
+in our isolates, almost equivalent to that of sul1 gene usually
+reported as most frequent after sul2.54,57,59 Concerning tri-
+methoprim resistance genes, clusters dfrA1, dfrA5, dfrA7,
+dfrA8, and dfrA12 detected in our study are among the most
+reported.10,29,59,62
+
+Integrons constitute a mechanism for acquisition and
+expression of resistance genes; they play an important role
+in the emergence and spread of MDR.63 Over half of our
+isolates harbored class 1 integrons, while class 2 integrons
+were detected in only about 10%; this is in accordance with
+the predominance of class 1 integrons in E. coli from food
+animals and foods.9,64,65 The use of antimicrobials, such as
+tetracycline and sulfonamides, as growth promoters for farm
+animals as beef cattle, may promote the presence and
+maintenance of class 1 integrons in E. coli.29 The majority
+of detected integrons (73.9%) lacked the 3¢-conserved se-
+quence comprising the qacED1-sul1 genes; this truncated
+structure was already described, it generally contains a sul3
+at the 3¢-end and is linked to various insertion sequences
+probably responsible for this rearrangement.66
+
+The PFGE analysis revealed a genetic diversity within the
+94 typed isolates; however, clonality was observed among
+some isolates of which two clusters of six and seven CTX-
+M-14–producing isolates were unrelated to districts; these
+ﬁndings are indicative of a possible clonal spread of CTX-
+M-14 producers. The difference in resistance genetic content
+of some clonal isolates may be related to changes due to
+selective pressure or genetic exchange.
+
+Conclusions
+
+To the best of our knowledge, this is the ﬁrst report to
+study bacterial antibiotic resistance in fresh retail beef
+meat in Algeria; it highlighted the relatively massive pres-
+ence of E. coli isolate producers of various CTX-M ESBLs.
+The CTX-M variants, CTX-M-24 and CTX-M-32, are re-
+ported for the ﬁrst time in Algeria. Almost all of the iso-
+lates were MDR, with resistance to major antibiotics used
+in human medicine such as broad spectrum beta-lactams,
+ﬂuoroquinolones,
+trimethoprim–
+sulfamethoxazole. Evidence of both clonal and horizontal
+dissemination of resistance genes was also demonstrated.
+These ﬁndings are indicative of possible failures in the
+management of the use of antibiotics in the food sector and/
+or lack of hygiene during the food process and at retail.
+From a one health perspective, this is of considerable im-
+portance in view of the possibility of antimicrobial resis-
+tance transfer between animals and humans.
+
+aminoglycosides,
+
+and
+
+Acknowledgment
+
+This study was supported by a grant from the National
+Fund for the Research of the Algerian Ministry of Higher
+Education and Scientiﬁc Research.
+
+Disclosure Statement
+
+No competing ﬁnancial interests exist.
+
+References
+
+1. Carattoli, A. 2009. Resistance plasmid families in Entero-
+bacteriaceae. Antimicrob. Agents Chemother. 53:2227–2238.
+2. Coque, T.M., F. Baquero, and R. Canto´n. 2008. Increasing
+prevalence of ESBL-producing Enterobacteriaceae in
+Europe. Euro Surveill. 13:19044.
+
+3. Paterson, D.L., and R.A. Bonomo. 2005. Extended-
+spectrum b-lactamases: a clinical update. Clin. Microbiol.
+Rev. 18:657–686.
+
+4. Zhao, W.H., and Z.Q. Hu. 2013. Epidemiology and ge-
+netics of CTX-M extended-spectrum b-lactamases
+in
+Gram-negative bacteria. Crit. Rev. Microbiol. 39:79–101.
+5. Canto´n, R., A. Novais, A. Valverde, E. Machado, L. Peixe,
+F. Baquero, and T.M. Coque. 2008. Prevalence and spread
+extended-spectrum b-lactamase-producing Entero-
+of
+bacteriaceae in Europe. Clin. Microbiol. Infect. 1:144–153.
+
+6. European Food Safety Authority Panel on Biological Ha-
+zards (BIOHAZ). 2011. Scientiﬁc Opinion on the public
+health risks of bacterial
+strains producing extended-
+spectrum b-lactamases and/or AmpC b-lactamases in food
+and food-producing animals. EFSA J. 9:2322.
+
+7. Liebana, E., A. Carattoli, T.M. Coque, H. Hasman, A.P
+Magiorakos, D. Mevius, L. Peixe, L. Poirel, G. Schuepbach-
+Regula, K. Torneke, J. Torren-Edo, C. Torres, and J. Threl-
+fall. 2013. Public health risks of enterobacterial isolates
+producing extended-spectrum b-lactamases or AmpC b-
+lactamases in food and food-producing animals: an EU
+perspective of epidemiology, analytical methods, risk fac-
+tors, and control options. Clin. Infect. Dis. 56:1030–1037.
+
+8. Valat, C., F. Auvray, K. Forest, V. Metayer, E. Gay, C.
+Garam, J.Y. Madec, and M. Haenni. 2012. Phylogenetic
+grouping and virulence potential of extended-spectrum-b-
+lactamase-producing Escherichia coli strains in cattle.
+Appl. Environ. Microbiol. 78:4677–4682.
+
+9. Souﬁ, L., M.S. Abbassi, Y. Sa´enz, L. Vinue´, S. Somalo, M.
+Zarazaga, A. Abbas, R. Dbaya, L. Khanﬁr, A. Ben Hassen,
+S. Hammami, and C. Torres. 2009. Prevalence and diver-
+sity of integrons and associated resistance genes in Es-
+cherichia coli
+in Tunisia.
+Foodborne Pathog. Dis. 6:1067–1073.
+
+isolates from poultry meat
+
+10. Jouini, A., L. Vinue´, K.B. Slama, Y. Sa´enz, N. Klibi, S.
+Hammami, A. Boudabous, and C. Torres. 2007. Char-
+acterization of CTX-M and SHV extended-spectrum b-
+lactamases and associated resistance genes in Escherichia
+coli strains of food samples in Tunisia. J. Antimicrob.
+Chemother. 60:1137–1141.
+
+11. Jarlier, V., M.H. Nicolas, G. Fournier, and A. Philippon. 1988.
+Extended spectrum b-lactamases conferring transferable
+resistance to newer b-lactam agents in Enterobacteriaceae:
+hospital prevalence and susceptibility patterns. Rev. Infect.
+Dis. 10:867–878.
+
+12. Gautom, R.K. 1997. Rapid pulsed-ﬁeld gel electrophoresis
+protocol for typing of Escherichia coli O157:H7 and other
+Gram-negative organisms in 1 Day. J. Clin. Microbiol. 35:
+2977–2980.
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 12/12/17. For personal use only. 12
+
+REBBAH ET AL.
+
+13. Clermont, O., S. Bonacorsi, and E. Bingen. 2000. Rapid
+and simple determination of the Escherichia coli phyloge-
+netic group. Appl. Environ. Microbiol. 66:4555–4558.
+
+14. Fe´ria, C., E. Ferreira, J.D. Correia, J. Gonc¸alves, and M.
+Canic¸a. 2002. Patterns and mechanisms of resistance to b-
+lactams and b-lactamase inhibitors in uropathogenic Es-
+cherichia coli isolates from dogs in Portugal. J. Antimicrob.
+Chemother. 49:77–85.
+
+15. Messai, Y., H. Iabadene, T. Benhassine, S. Alouache, M.
+Tazir, V. Gautier, G. Arlet, and R. Bakour. 2008. Pre-
+valence and characterisation of extended-spectrum b-
+lactamases in Klebsiella pneumoniae in Algiers hospitals
+(Algeria). Pathol. Biol. 56:319–325.
+
+16. Figueira, V., I. Vaz-Moreira, M. Silva, and C.M. Manaia. 2011.
+Diversity and antibiotic resistance of Aeromonas spp. in drinking
+and waste water treatment plants. Water Res. 45:5599–5611.
+
+17. Kim, H.B., M. Wang, C.H. Park, E.-C. Kim, G.A. Jacoby,
+and D.C. Hooper. 2009. oqxAB encoding a multidrug efﬂux
+pump in human clinical isolates of Enterobacteriaceae.
+Antimicrob. Agents Chemother. 53:3582–3584.
+
+18. Khorsi, K., Y. Messai, M. Hamidi, H. Ammari, and R. Bakour.
+2015. High prevalence of multidrug-resistance in Acineto-
+bacter baumannii and dissemination of carbapenemase-
+encoding genes blaOXA-23-like, blaOXA-24-like and blaNDM-1 in
+Algiers hospitals. Asian Pac. J. Trop. Med. 8:438–446.
+
+19. Sanger, F., S. Nicklen, and A.R. Coulson. 1977. DNA se-
+quencing with chain-terminating inhibitors. Proc. Natl.
+Acad. Sci. U S A. 74:5463–5467.
+
+20. Alouache, S., V. Estepa, Y. Messai, E. Ruiz, C. Torres, and
+R. Bakour. 2014. Characterization of ESBLs and associated
+quinolone resistance in Escherichia coli and Klebsiella
+pneumoniae isolates from an urban wastewater treatment
+plant in Algeria. Microb. Drug Resist. 20:30–38.
+
+21. Poirel, L., J.W. Decousser, and P. Nordmann. 2003. In-
+sertion sequence ISEcp1B is involved in expression and
+mobilization of a blaCTX-M b-lactamase gene. Antimicrob.
+Agents Chemother. 47:2938–2945.
+
+22. Kado, C.I., and S.T. Liu. 1981. Rapid procedure for de-
+tection and isolation of large and small plasmids. J. Bac-
+teriol. 45:1365–1373.
+
+23. Carattoli, A., A. Bertini, L. Villa, V. Falbo, K.L. Hopkins,
+and E.J. Threlfall. 2005. Identiﬁcation of plasmids by
+PCR-based replicon typing. J. Microbiol. Methods. 63:219–
+228.
+
+24. Geser, N., R. Stephan, and H. Hachler. 2012. Occurrence
+and characteristics of extended-spectrum b-lactamase
+(ESBL) producing Enterobacteriaceae in food producing
+animals, minced meat and raw milk. BMC Vet. Res. 8:21.
+25. Ojer-Usoz, E., D. Gonza´lez, A.I. Vitas, J. Leiva, I. Garcı´a-
+Jalo´n, A. Febles-Casquero, and M. de la Soledad Escolano.
+extended-spectrum b-lactamase-
+2013. Prevalence of
+producing Enterobacteriaceae in meat products sold in
+Navarra, Spain. Meat Sci. 93:316–321.
+
+26. Pehlivanlar O¨ nen, S., O¨ . Aslantasx, E. Sxebnem Yılmaz, and
+C. Ku¨rekci. 2015. Prevalence of b-lactamase producing
+Escherichia coli from retail meat in turkey. J. Food. Sci. 80:
+M2023–M2029.
+
+27. Skocˇkova´a, A., I. Kola´cˇkova´b, K. Bogdanovicˇova´a, and R.
+Karpı´sˇkova´a. 2015. Characteristic and antimicrobial resis-
+tance in Escherichia coli from retail meats purchased in the
+Czech Republic. Food Control. 47:401–406.
+
+lence of antibiotic-resistant Escherichia coli bacteria in
+feedlot cattle. Appl. Environ. Microbiol. 74:4405–4416.
+
+coli
+
+originating
+
+cattle
+
+from beef
+
+29. Wu, R.B., T.W. Alexander, J.Q. Li, K. Munns, R. Sharma, and
+T.A. McAllister. 2011. Prevalence and diversity of class 1 in-
+tegrons and resistance genes in antimicrobial-resistant Escher-
+ichia
+administered
+subtherapeutic antimicrobials. J. Appl. Microbiol. 111:511–523.
+30. Valentin, L., H. Sharp, K. Hille, U. Seibt, J. Fischer, Y.
+Pfeifer, G.B. Michael, S. Nickel, J. Schmiedel, L. Falgen-
+hauer, A. Friese, R. Bauerfeind, U. Roesler, C. Imirza-
+lioglu, T. Chakraborty, R. Helmuth, G. Valenza, G.
+Werner, S. Schwarz, B. Guerra, B. Appel, L. Kreienbrock,
+and A. Ka¨sbohrer. 2014. Subgrouping of ESBL-producing
+Escherichia coli from animal and human sources: an ap-
+proach to quantify the distribution of ESBL types between
+different reservoirs. Int. J. Med. Microbiol. 304:805–816.
+31. Diab, M., M. Hamze, J.Y. Madec, and M. Haenni. 2017.
+High prevalence of non-ST131 CTX-M-15-producing Es-
+cherichia coli in healthy cattle in lebanon. Microb. Drug
+Resist. 23:261–266.
+
+32. Snow, L.C., R.G Warner, T. Cheney, H. Wearing, M. Stokes,
+K. Harris, C.J. Teale, and N.G. Coldham. 2012. Risk factors
+associated with extended spectrum b-lactamase Escherichia
+coli (CTX-M) on dairy farms in North West England and
+North Wales. Prev. Vet. Med. 106:225–234.
+
+33. Meradi, L., A. Djahoudi, A. Abdi, M. Bouchakour, J.D. Perrier
+Gros Claude, and M. Timinouni. 2011. Qnr and aac (6¢)-Ib-cr
+types quinolone resistance among Enterobacteriaceae iso-
+lated in Annaba, Algeria. Pathol. Biol. 59:73–78.
+
+34. Meguenni, N., L. Le Devendec, E. Jouy, M. Le Corvec, S.
+Bounar-Kechih, R. Bakour, and I. Kempf. 2015. First de-
+scription of an extended-spectrum cephalosporin- and
+ﬂuoroquinolone- resistant avian pathogenic Escherichia
+coli clone in Algeria. Avian Dis. 59:20–23.
+
+35. Belmahdi, M., S. Bakour, C. Al Bayssari, A. Touati, and
+J.M. Rolain. 2016. Molecular characterization of extended-
+spectrum b-lactamase- and plasmid AmpC-producing
+Escherichia coli strains isolated from broilers in Be´jaı¨a,
+Algeria. J. Glob. Antimicrob. Resist. 6:108–112.
+
+36. Iabadene, H., R. Bakour, Y. Messai, A. Da Costa, and G.
+Arlet. 2009. Detection of blaCTX-M-14 and aac(3)-II genes
+in Salmonella enterica serotype Kedougou in Algeria. Med.
+Mal. Infect. 39:806–807.
+
+37. Valverde, A., R. Canton, M.P. Garcillan-Barcia, A. Novais, J.C.
+Galan, A. Alvarado, F. De La Cruz, F. Baquero, and T.M. Coque.
+2009. Spread of blaCTX-M-14 is driven mainly by IncK plasmids
+disseminated among Escherichia coli phylogroups A, B1, and D
+in Spain. Antimicrob. Agents Chemother. 53:5204–5212.
+
+38. Branger, C., O. Zamﬁr, S. Geoffroy, G. Laurans, G. Arlet,
+H.V. Thien, S. Gouriou, B. Picard, and E. Denamur. 2005.
+Genetic background of Escherichia coli and extended-
+spectrum b-lactamase type. Emerg. Infect. Dis. 11:54–61.
+39. Eckert, C., V. Gautier, and G. Arlet. 2006. DNA sequence
+analysis of the genetic environment of various blaCTX-M
+genes. J. Antimicrob. Chemother. 57:14–23.
+
+40. Novais, A., R. Canto´n, R. Moreira, L. Peixe, F. Baquero,
+and T.M. Coque. 2007. Emergence and dissemination of
+Enterobacteriaceae isolates producing CTX-M-1-like en-
+zymes in Spain are associated with IncFII (CTX-M-15) and
+broad-host-range (CTX-M-1, -3, and -32) plasmids. Anti-
+microb. Agents Chemother. 51:796–799.
+
+28. Alexander, T.W., L.J. Yankee, E. Topp, M.E. Olson, R.R.
+Read, D.W. Morck, and T.A. McAllister. 2008. Effect of
+subtherapeutic administration of antibiotics on the preva-
+
+41. Jo, S.J., and G.J. Woo. 2016. Molecular characterization of
+plasmids encoding CTX-M b-lactamases and their associ-
+ated addiction systems circulating among Escherichia coli
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 12/12/17. For personal use only. ESBL-PRODUCING E. COLI IN GROUND BEEF IN ALGERIA
+
+13
+
+from retail chickens, chicken farms, and slaughterhouses in
+Korea. J. Microbiol. Biotechnol. 26:270–276
+
+42. Zurﬂuh, K., G. Jakobi, R. Stephan, H. Ha¨chler, and M.
+Nu¨esch-Inderbinen. 2014. Replicon typing of plasmids
+carrying blaCTX-M-1 in Enterobacteriaceae of animal, en-
+vironmental and human origin. Front. Microbiol. 5:555.
+
+43. Madec, J.Y., M. Haenni, V. Me´tayer, E. Saras, and M.H.
+Nicolas-Chanoine. 2015. High prevalence of the animal-
+associated blaCTX-M-1 IncI1/ST3 plasmid in human Escherichia
+coli isolates. Antimicrob. Agents Chemother. 59:5860–5861.
+
+44. Smith, H., A. Bossers, F. Harders, G. Wu, N. Woodford, S.
+I. Rodriguez, A. van Essen-
+Schwarz, B. Guerra,
+Zandbergen, M. Brouwer, and D. Mevius. 2015. Char-
+acterization of epidemic IncI1-Igamma plasmids harboring
+Ambler class A and C genes in Escherichia coli and Sal-
+monella enterica from animals and humans. Antimicrob.
+Agents Chemother. 59:5357–5365.
+
+45. Veldman, K., L.M. Cavaco, D. Mevius, A. Battisti, A. Franco, N.
+Botteldoorn, M. Bruneau, A. Perrin-Guyomard, T. Cerny, C. De
+Frutos Escobar, B. Guerra, A. Schroeter, M. Gutierrez, K.
+Hopkins, A.L. Myllyniemi, M. Sunde, D. Wasyl, and F.M.
+Aarestrup. 2011. International collaborative study on the oc-
+currence of plasmid-mediated quinolone resistance in Salmo-
+nella enterica and Escherichia coli isolated from animals,
+humans, food and the environment in 13 European countries.
+J. Antimicrob. Chemother. 66:1278–1286.
+
+46. Strahilevitz, J., G.A. Jacoby, D.C. Hooper, and A. Ro-
+bicsek. 2009. Plasmid-mediated quinolone resistance: a
+multifaceted threat. Clin. Microbiol. Rev. 22:664–689.
+
+47. Allou, N., E. Cambau, L. Massias, F. Chau, and B. Fantin.
+2009. Impact of low-level resistance to ﬂuoroquinolones
+due to qnrA1 and qnrS1 genes or a gyrA mutation on ci-
+proﬂoxacin bactericidal activity in a murine model of Es-
+cherichia coli urinary tract infection. Antimicrob. Agents
+Chemother. 53:4292–4297.
+
+48. Heisig, P. 1996. Genetic evidence for a role of parC mutations in
+development of high-level ﬂuoroquinolone resistance in Es-
+cherichia coli. Antimicrob. Agents Chemother. 40:879–885.
+
+49. Yanat, B., T. Vinuesa, M. Vin˜as, and A. Touati. 2014.
+Determinants of quinolone resistance in Escherichia coli
+causing community-acquired urinary tract infection in Be-
+jaia, Algeria. Asian Pac. J. Trop. Med. 7:462–467.
+
+50. Hopkins, K.L., R.H. Davies, and E.J. Threlfall. 2005. Me-
+chanisms of quinolone resistance in Escherichia coli and
+Salmonella:
+J. Antimicrob.
+Agents. 25:358–373.
+
+recent developments.
+
+Int.
+
+51. Johnning, A., E. Kristiansson, M. Angelin, N. Marathe,
+Y.S. Shouche, A. Johansson, and D.G. Larsson. 2015.
+Quinolone resistance mutations in the faecal microbiota of
+Swedish travellers to India. BMC Microbiol. 15:235.
+
+52. Marcusson, L.L., N. Frimodt-Møller, and D. Hughes. 2009.
+Interplay in the selection of ﬂuoroquinolone resistance and
+bacterial ﬁtness. PLoS Pathog. 5:e1000541.
+
+53. Liu, B.T., X.P. Liao, S.S. Yang, X.M. Wang, L.L. Li, J.
+Sun, Y.R. Yang, L.X. Fang, L. Li, D.H. Zhao, and Y.H.
+Liu. 2012. Detection of mutations in the gyrA and parC
+genes
+isolates carrying plasmid-
+mediated quinolone resistance genes from diseased food-
+producing animals. J. Med. Microbiol. 61:1591–1599.
+
+in Escherichia coli
+
+54. Karczmarczyk, M., C. Walsh, R. Slowey, N. Leonard, and
+S. Fanning. 2011. Molecular characterization of multidrug-
+resistant Escherichia coli isolates from Irish cattle farms.
+Appl. Environ. Microbiol. 77:7121–7127.
+
+55. Kilani, H., M.S. Abbassi, S. Ferjani, R. Mansouri, S.
+Sghaier, R. Ben Salem, I. Jaouani, G. Douja, S. Brahim, S.
+Hammami, N. Ben Chehida, and I.B. Boubaker. 2015.
+Occurrence of blaCTX-M-1, qnrB1 and virulence genes in
+avian ESBL-producing Escherichia coli isolates from Tu-
+nisia. Front. Cell. Infect. Microbiol. 5:38.
+
+56. Koo, H.J., and G.J. Woo. 2011. Distribution and transfer-
+ability of tetracycline resistance determinants in Escher-
+ichia coli isolated from meat and meat products. Int. J.
+Food Microbiol. 145:407–413.
+
+57. Sheikh, A.A., S. Checkley, B. Avery, G. Chalmers, V.
+Bohaychuk, P. Boerlin, R. Reid-Smith, and M. Aslam.
+2012. Antimicrobial resistance and resistance genes in
+Escherichia coli isolated from retail meat purchased in
+Alberta, Canada. Foodborne Pathog. Dis. 9:625–631.
+
+58. Shin, S.W., M.K. Shin, M. Jung, K.M. Belaynehe, and H.S. Yoo.
+2015. Prevalence of antimicrobial resistance and transfer of
+tetracycline resistance genes in Escherichia coli isolates from
+beef cattle. Appl. Environ. Microbiol. 81:5560–5566.
+
+59. Sunde, M., and M. Norstro¨m. 2006. The prevalence of, associ-
+ations between and conjugal transfer of antibiotic resistance
+genes in Escherichia coli isolated from Norwegian meat and
+meat products. J. Antimicrob. Chemother. 58:741–747.
+
+60. Frye, J.G., and C.R. Jackson. 2013. Genetic mechanisms of
+antimicrobial resistance identiﬁed in Salmonella enterica,
+Escherichia coli, and Enteroccocus spp. isolated from U.S.
+food animals. Front. Microbiol. 4:135.
+
+61. Trobos, M., H. Christensen, M. Sunde, S. Nordentoft, Y.
+Agersø, G.S. Simonsen, A.M. Hammerum, and J.E. Olsen.
+2009. Characterization of sulphonamide-resistant Escher-
+ichia coli using comparison of sul2 gene sequences and
+multilocus sequence typing. Microbiology. 155:831–836.
+
+62. Brolund, A., M. Sundqvist, G. Kahlmeter, and M. Grape. 2010.
+Molecular characterisation of trimethoprim resistance in Es-
+cherichia coli and Klebsiella pneumoniae during a two year
+intervention on trimethoprim use. PLoS One 5:e9233.
+
+63. Szmolka, A., and B. Nagy. 2013. Multidrug resistant
+commensal Escherichia coli in animals and its impact for
+public health. Front. Microbiol. 4:258.
+
+64. Povilonis, J., V. Sˇ eputien_e, M. Ruzˇauskas, R. Sˇ iugzˇdinien_e,
+M. Virgailis, A. Pavilonis, and E. Suzˇied_elien_e. 2010.
+Transferable class 1 and 2 integrons in Escherichia coli and
+Salmonella enterica isolates of human and animal origin in
+Lithuania. Foodborne Pathog. Dis. 7:1185–1192.
+
+65. Sunde, M. 2005. Prevalence and characterization of class 1
+and class 2 integrons in Escherichia coli isolated from meat
+and meat products of Norwegian origin. J. Antimicrob.
+Chemother. 56:1019–1024.
+
+66. Sa´enz, Y., L. Vinue´, E. Ruiz, S. Somalo, S. Martı´nez, B. Rojo-
+Bezares, M. Zarazaga, and C. Torres. 2010. Class 1 integrons
+lacking qacEDelta1 and sul1 genes in Escherichia coli isolates of
+food, animal and human origins. Vet. Microbiol. 144:493–497.
+
+Address correspondence to:
+Rabah Bakour, PhD
+Laboratory of Cellular and Molecular Biology
+Faculty of Biological Sciences
+University of Sciences and Technology Houari Boumediene
+PB32 El-Alia, Bab-Ezzouar
+Algiers 16111
+Algeria
+
+E-mail: rbakour@yahoo.fr; bakourrabah@gmail.com
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 12/12/17. For personal use only. 

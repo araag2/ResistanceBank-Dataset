@@ -1,0 +1,3206 @@
+ORIGINAL RESEARCH
+published: 12 July 2017
+doi: 10.3389/fmicb.2017.01300
+
+Characterization of Integrons and
+Resistance Genes in Salmonella
+Isolates from Farm Animals in
+Shandong Province, China
+
+Xiaonan Zhao 1, Jie Yang 1, Baozhen Zhang 2, Shuhong Sun 1* and Weishan Chang 1*
+
+1 College of Animal Science and Technology, Shandong Agricultural University, Tai’an, China, 2 Laboratory for Reproduction
+Health Institute of Biomedicine and Biotechnology Shenzhen Institutes of Advanced Technology, Chinese Academy of
+
+Sciences, Shenzhen University Town, Shenzhen, China
+
+A total of 154 non-duplicate Salmonella isolates were recovered from 1,105 rectal
+swabs collected from three large-scale chicken farms (78/325, 24.0%), three large-scale
+duck farms (56/600, 9.3%) and three large-scale pig farms (20/180, 11.1%) between
+April and July 2016. Seven serotypes were identiﬁed among the 154 isolates, with
+the most common serotype in chickens and ducks being Salmonella enteritidis and
+in pigs Salmonella typhimurium. Antimicrobial susceptibility testing revealed that high
+antimicrobial resistance rates were observed for tetracycline (72.0%) and ampicillin
+(69.4%) in all sources. Class 1 integrons were detected in 16.9% (26/154) of these
+isolates and contained gene cassettes aadA2, aadA1, drfA1-aadA1, drfA12-aadA2,
+and drfA17-aadA5. Three β-lactamase genes were detected among the 154 isolates,
+and most of
+followed by blaPSE−1(14/154)
+and blaCTX−M−55 (11/154). Three plasmid-mediated quinolone resistance genes were
+detected among the 154 isolates, and most of the isolates carried qnrA (113/154),
+followed by qnrB (99/154) and qnrS (10/154). Fifty-four isolates carried ﬂoR among the
+154 isolates. Multilocus sequence typing (MLST) analysis showed that nine sequence
+types (STs) were identiﬁed; ST11 was the most frequent genotype in chickens and ducks,
+and ST19 was identiﬁed in pigs. Our ﬁndings indicated that Salmonella was widespread,
+and the overuse of antibiotics in animals should be reduced considerably in developing
+countries.
+
+the isolates carried blaTEM−1(55/154),
+
+Keywords: Salmonella, antimicrobial susceptibility, class 1 integron, antimicrobial resistance gene, MLST
+
+INTRODUCTION
+
+Salmonella is an important source of foodborne diseases that cause morbidity and mortality
+worldwide. Among 94 million cases of non-typhoid Salmonella infections, it was presumed that
+approximately 85% of the cases were induced by food origin Salmonella (Chiu et al., 2010). In
+China, Salmonella causes an estimated 22.2% of foodborne diseases (Wang et al., 2007). Many
+Salmonella serovars exist. More than 2,600 serovars are classiﬁed based on the reactivity of antisera
+to O and H antigens (Stevens et al., 2009), and the serovars from farms have a signiﬁcant overlap
+with those causing illnesses in humans (Alcaine et al., 2006). Animals have been recognized as an
+important reservoir for Salmonella, and this pathogen can be transferred to humans via the food
+chain, posing a serious threat to human health (Vo et al., 2006).
+
+Edited by:
+
+Axel Cloeckaert,
+
+Institut National de la Recherche
+
+Agronomique (INRA), France
+
+Reviewed by:
+
+Sebastian Guenther,
+
+Freie Universität Berlin, Germany
+
+Séamus Fanning,
+
+University College Dublin, Ireland
+
+*Correspondence:
+
+Shuhong Sun
+
+jqybfkyjs@163.com
+
+Weishan Chang
+
+changweishan@yeah.net
+
+Specialty section:
+
+This article was submitted to
+
+Antimicrobials, Resistance and
+
+Chemotherapy,
+
+a section of the journal
+
+Frontiers in Microbiology
+
+Received: 31 March 2017
+
+Accepted: 27 June 2017
+
+Published: 12 July 2017
+
+Citation:
+
+Zhao X, Yang J, Zhang B, Sun S and
+
+Chang W (2017) Characterization of
+
+Integrons and Resistance Genes in
+
+Salmonella Isolates from Farm
+
+Animals in Shandong Province, China.
+
+Front. Microbiol. 8:1300.
+
+doi: 10.3389/fmicb.2017.01300
+
+Frontiers in Microbiology | www.frontiersin.org
+
+1
+
+July 2017 | Volume 8 | Article 1300
+
+Zhao et al.
+
+Prevalence of Salmonella from Animals
+
+The use of antimicrobials is important
+
+for the control
+and treatment of Salmonella. However, antimicrobial- and
+multidrug-resistant Salmonella strains have emerged,
+leading
+to treatment
+failure (Gong et al., 2013). The increasing
+prevalence of multidrug-resistance among Salmonella, not only
+against
+the front-line antimicrobials, chloramphenicol and
+clinically
+trimethoprim/sulfamethoxazole but
+important
+and
+ﬂuoroquinolones,
+is also an emerging problem (Lunguya
+et al., 2013).
+
+such as β-lactams
+
+antimicrobial
+
+also against
+
+agents,
+
+capturing
+
+antimicrobial
+
+The spread of the antibiotic resistant potential in Salmonella
+is mainly attributed to integrons. Integrons are DNA elements,
+capable of
+and
+disseminating them using a mobile genetic element (MGE)
+such as a plasmid among bacteria. The class I integron is
+the most common integron type identiﬁed in multidrug-
+resistant (MDR) Salmonella and plays an important role in the
+dissemination of resistance genes among pathogens (Wright,
+2010).
+
+resistant
+
+genes
+
+In developed countries, many surveys have been conducted
+at the molecular level to monitor the incidence of antibiotic-
+resistant Salmonella in animal farms (Melendez et al., 2010;
+Graciela et al., 2016). However,
+the extent of antibiotic-
+resistant Salmonella in many developing countries and the
+resistance remain
+molecular mechanisms underlying this
+unclear. Therefore, we selected large-scale animal
+farms as
+sample sites, collected swab samples, isolated Salmonella and
+characterized the molecular mechanisms of antimicrobial
+resistance.
+
+MATERIALS AND METHODS
+
+Samples and Salmonella Isolation
+From April to July 2016, rectal swabs were collected from
+healthy animals on farms in Qingdao, Jinan and Zibo regions
+in Shandong Province, China. All of the sampling sites were
+visited only once. In total, 1,105 samples were collected in a
+random manner from chickens (n = 325), ducks (n = 600), and
+pigs (n = 180). The samples were independently collected from
+individual animals, and the sample collection conformed to the
+cluster random sampling principle. Farms were chosen based
+on their scale with the following requirements: for chickens,
+the breeding stock was >150,000 heads; for ducks, the breeding
+stock was >100,000 heads, and for pigs, the breeding stock was
+>1,000 heads. The owners of each farm gave permission for
+rectal swab samples to be collected. The animals from which
+samples were extracted remained alive and did not undergo any
+surgery. Therefore, ethical approval was not required for the
+study because the sampling process did not harm the animals.
+All of the collected samples were transported in an ice box to our
+laboratory within 6 h for further bacteriological analysis.
+
+Isolation and identiﬁcation of Salmonella were performed as
+described previously (Yan et al., 2010), with some modiﬁcations.
+Brieﬂy, swabbing samples were placed into a sterile plastic bag
+containing 100 ml of buﬀered peptone water (BPW) and mixed
+vigorously for 3 min. The BPW mixture was then incubated for
+
+24 h at 37◦C for pre-enrichment. Approximately 1 ml of pre-
+enrichment cultures were incubated in 10 ml of selenite cysteine
+(SC) broth and 10 ml of rappaport-vassiliadis (RV) broth at 42◦C
+for 24 h, respectively. After selective enrichment, a loop-full of SC
+and RV broth cultures were streaked onto xylose lysine tergitol 4
+(XLT4) agar and incubated at 37◦C overnight. A minimum of two
+presumptive Salmonella colonies was conﬁrmed by PCR using a
+previously described method (Malorny et al., 2003).
+
+Salmonella Serotyping
+According to the manufacturer’s instructions, the serogroup and
+serovars of Salmonella isolates were determined according to the
+Kauﬀmann-White scheme by slide agglutination with O and H
+antigens (Tianrun Bio-Pharmaceutical, Ningbo, China).
+
+Antimicrobial Susceptibility Testing
+A minimal inhibition concentration (MIC) assay, as described
+by the Clinical and Laboratory Standard Institute (Clinical
+Laboratory Standards Institute, 2013), was used in this study to
+test the susceptibility of 12 commonly used antibiotics (Table 1),
+including ampicillin (AMP), amikacin (AMK), enroﬂoxacin
+(ENO), ciproﬂoxacin (CIP), nalidixic acid (NA), ﬂorfenicol
+(FFN), tetracycline (TET), ceftiofur (CEF), gentamicin (GEN),
+neomycin (NEO), levoﬂoxacin (LVX), and fosfomycin (FOS).
+Escherichia coli (ATCC 25922) and Klebsiella pneumoniae (ATCC
+700603) were used as the quality control strains in this study.
+Salmonella isolates resistant
+to more than three classes of
+antimicrobials were deﬁned as MDR isolates.
+
+Detection of Class I Integrons and
+Antimicrobial Resistance Genes
+Bacterial DNA was extracted using a TIANamp Bacteria DNA
+Kit (Tiangen, Beijing, China) according to the manufacturer’s
+instructions. Conserved primers were used for the detection
+and identiﬁcation of class I integrons using previously described
+primers and procedures (Kerrnet et al., 2002). PCR screening
+for β-lactamase-encoding genes blaTEM, blaPSE−1, blaSHV, and
+blaCTX−M was performed as previously described (Li et al., 2013).
+
+TABLE 1 | Antimicrobials and the range of concentrations tested.
+
+Antimicrobials
+
+Abbreviation
+
+Concentration range (µg/mL)
+
+Ampicillin
+
+Amikacin
+
+Enroﬂoxacin
+
+Ciproﬂoxacin
+
+Nalidixic acid
+
+Florfenicol
+
+Tetracycline
+
+Ceftiofur
+
+Gentamicin
+
+Neomycin
+
+Levoﬂoxacin
+
+Fosfomycin
+
+AMP
+
+AMK
+
+ENO
+
+CIP
+
+NA
+
+FFN
+
+TET
+
+CEF
+
+GEN
+
+NEO
+
+LVX
+
+FOS
+
+0.06∼256
+
+0.5∼512
+
+0.06∼512
+
+0.015∼512
+
+0.06∼512
+
+0.5∼512
+
+0.5∼512
+
+0.06∼512
+
+0.5∼512
+
+0.5∼512
+
+0.06∼512
+
+1∼2.048
+
+Frontiers in Microbiology | www.frontiersin.org
+
+2
+
+July 2017 | Volume 8 | Article 1300
+
+Zhao et al.
+
+Prevalence of Salmonella from Animals
+
+Furthermore, PCR ampliﬁcation was used to screen for plasmid-
+mediated quinolone resistance genes, qnrA, qnrB, qnrC, qnrD,
+and qnrS, which were the most frequently observed in China,
+using previously described primers (Ahmed et al., 2013). Finally,
+the ﬂorfenicol resistance gene, ﬂoR, was detected using previously
+described primers (Ahmed et al., 2013). The PCR products
+were puriﬁed and subsequently sequenced (Invitrogen, Beijing,
+China). The obtained DNA sequences were compared with those
+in GenBank using Basic Local Alignment Search Tool (BLAST).
+
+MLST
+Seven housekeeping genes (aroC, dnaN, hemD, hisD, purE,
+sucA, and thrA) were used to characterize Salmonella by MLST.
+MLST was performed as described online (http://mlst.warwick.
+ac.uk/mlst/dbs/Senterica/documents/primersEnterica_html). All
+polymerase chain reaction products were puriﬁed and sequenced
+(Invitrogen, Beijing, China), and the alleles and STs were assigned
+according to the MLST scheme at http://mlst.warwick.ac.uk/
+mlst/dbs/Senterica.
+
+Data Analysis
+The statistical package SPSS (version 15.0, SPSS, Chicago, IL,
+USA) was used to compare the prevalence and MDR resistance
+rate of Salmonella isolated from chickens, ducks and pigs, and a
+P-value less than 0.05 was considered signiﬁcant.
+
+RESULTS
+
+Prevalence and Serotypes of Salmonella
+In this study, a total of 154 non-duplicate Salmonella isolates
+(154/1105, 13.9%) were recovered. From chickens, 78 Salmonella
+isolates were recovered (78/325, 24.0%) (Table 2), which was
+signiﬁcantly higher than the Salmonella isolated from ducks and
+pigs (P < 0.05). Seventy-eight Salmonella isolates were divided
+into six serovars. The most common serovar was Salmonella
+enteritidis (69/78, 88.5%) (Table 3).
+
+From ducks, 56 Salmonella isolates were recovered (56/600,
+9.3%) (Table 2), and they were divided into two serovars. The
+most common serovar was Salmonella enteritidis (38/56, 67.9%)
+(Table 3).
+
+From pigs, 20 Salmonella isolates were recovered (20/180,
+11.1%) (Table 2), and they were divided into three serovars.
+The most common serovar was Salmonella typhimurium (13/20,
+65.0%) (Table 3).
+
+TABLE 2 | Prevalence of Salmonella isolates from farm animals.
+
+Antimicrobial Susceptibility Testing
+Among 78 isolates from chickens, they were susceptible to
+amikacin,
+isolates were
+resistant to ampicillin (69/78, 88.5%) and tetracycline (61/78,
+78.2%). In addition, 63 isolates (63/78, 80.8%) exhibited MDR
+(Table 3).
+
+levoﬂoxacin and fosfomycin. Most
+
+levoﬂoxacin and fosfomycin. Most
+
+Among 56 isolates from ducks, they were susceptible to
+amikacin,
+isolates were
+resistant to tetracycline (52/56, 92.9%) and ciproﬂoxacin (45/56,
+80.4%). In addition, 50 isolates (50/56, 89.3%) exhibited MDR
+(Table 3), which was signiﬁcantly higher than the Salmonella
+isolated from chickens and pigs (P < 0.05).
+
+they were susceptible to
+Among 20 isolates from pigs,
+isolates were resistant
+to
+amikacin and levoﬂoxacin. Most
+ampicillin (15/20, 75.0%) and tetracycline (9/20, 45.0%). In
+addition, 9 isolates (9/20, 45.0%) exhibited MDR (Table 3).
+
+Characteristics of Class I Integrons and
+Antimicrobial Resistance Genes
+Among the 78 isolates recovered from chickens, 17 isolates
+(17/78, 21.8%) contained four groups of resistance gene cassettes,
+consisting of drfA1-aadA1 (1.7 kb, n = 7), aadA2 (1.2 kb,
+n = 5), drfA17-aadA5 (2 kb, n = 3), and aadA1 (1.2 kb, n =
+2). Three β-lactamase genes were detected among the isolates,
+and blaTEM−1 (n = 25) was the most commonly isolated β-
+lactamase gene, followed by blaPSE−1 (n = 7) and blaCTX−M−55
+(n = 4). Three plasmid-mediated quinolone resistance genes
+were detected among the isolates. qnrA (n = 53) was the most
+commonly isolated plasmid-mediated quinolone resistance gene,
+followed by qnrB (n = 44) and qnrS (n = 7). In addition, 23
+isolates carried ﬂoR (Table 3).
+
+Among the 56 isolates recovered from ducks, eight isolates
+(8/56, 14.3%) contained three groups of resistance gene cassettes,
+consisting of aadA2 (1.2 kb, n = 4), drfA1-aadA1 (1.7 kb, n = 3),
+and drfA12-aadA2 (2 kb, n = 1). Three β-lactamase genes were
+detected among the isolates. blaTEM−1 was the most commonly
+isolated β-lactamase gene (n = 20), followed by blaPSE−1(n = 2)
+and blaCTX−M−55 (n = 1). Three plasmid-mediated quinolone
+resistance genes were detected among the isolates. qnrA was the
+most commonly isolated plasmid-mediated quinolone resistance
+gene (n = 44), followed by qnrB (n = 40) and qnrS (n = 2). In
+addition, 13 isolates carried ﬂoR (Table 3).
+
+Among the 20 isolates recovered from pigs, one isolate
+(1/20, 5.0%) contained one group of a resistance gene cassette,
+consisting of aadA2 (1.2 kb, n = 1). Three β-lactamase genes were
+
+Locations No. of samples No. of posotive samples (%) No. of samples No. of posotive samples (%) No. of samples No. of posotive samples (%)
+
+Chicken
+
+Duck
+
+Pig
+
+Qingdao
+
+Jinan
+
+Zibo
+
+Total
+
+100
+
+115
+
+110
+
+325
+
+17 (17%)
+
+34 (29.6%)
+
+27 (24.5%)
+
+78 (24.0%)
+
+200
+
+200
+
+200
+
+600
+
+22 (11.0%)
+
+19 (9.5%)
+
+15 (7.5%)
+
+56 (9.3%)
+
+60
+
+60
+
+60
+
+180
+
+7 (11.7%)
+
+8 (13.3%)
+
+5 (8.3%)
+
+20 (11.1%)
+
+Frontiers in Microbiology | www.frontiersin.org
+
+3
+
+July 2017 | Volume 8 | Article 1300
+
+Zhao et al.
+
+Prevalence of Salmonella from Animals
+
+TABLE 3 | Resistance phenotype, ST, incidence of class I integron, and resistance gens in Salmonella isolated from animals in farms.
+
+No.
+
+Location
+
+Farms
+
+Serovar
+
+ST
+
+Resistance phenotype
+
+Integrons/resistance genes
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48
+
+49
+
+50
+
+Qingdao
+
+Chicken
+
+S. Enteritidis
+
+Qingdao
+
+Chicken
+
+S. Enteritidis
+
+Qingdao
+
+Chicken
+
+S. Enteritidis
+
+Qingdao
+
+Chicken
+
+S. Enteritidis
+
+Qingdao
+
+Chicken
+
+S. Enteritidis
+
+Qingdao
+
+Chicken
+
+S. Enteritidis
+
+Qingdao
+
+Chicken
+
+S. Enteritidis
+
+Qingdao
+
+Chicken
+
+S. Enteritidis
+
+Qingdao
+
+Chicken
+
+S. Enteritidis
+
+Qingdao
+
+Chicken
+
+S. Enteritidis
+
+Qingdao
+
+Chicken
+
+S. Indiana
+
+Qingdao
+
+Chicken
+
+S. Enteritidis
+
+Qingdao
+
+Chicken
+
+S. Enteritidis
+
+Qingdao
+
+Chicken
+
+S. Enteritidis
+
+Qingdao
+
+Chicken
+
+S. Enteritidis
+
+Qingdao
+
+Chicken
+
+S. Enteritidis
+
+Qingdao
+
+Chicken
+
+S. Enteritidis
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+S. Enteritidis
+
+S. Thompson
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Thompson
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Typhimurium
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+17
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+26
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+26
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+19
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+AMP, CEF, ENO, TET
+
+AMP, TET
+
+AMP, CEF, NA, NEO, TET
+
+AMP, ENO, NA, TET
+
+AMP, CEF, CIP, ENO, GEN, NA, NEO
+
+AMP, CIP, ENO, FFN, GEN, NA, NEO
+
+AMP, TET
+
+AMP, ENO, NA, TET
+
+AMP, CEF, CIP, ENO, NA, TET
+
+AMP, CIP, TET
+
+AMP, CEF, CIP, ENO, FFN, NA, TET
+
+AMP, CEF, ENO, GEN, NA, TET
+
+AMP, CIP, TET
+
+AMP, NA
+
+AMP, ENO, NA, TET
+
+NA
+
+AMP, CIP, TET
+
+AMP, CEF, GEN, NA, TET
+
+AMP, CIP, ENO, FFN, GEN, NA, NEO
+
+AMP, CEF, CIP, NA, TET
+
+AMP, ENO, NA, TET
+
+AMP, TET
+
+blaTEM−1,qnrA
+qnrA
+
+Class I (drfA1-aadA1), blaTEM−1,qnrA, qnrS
+blaTEM−1, qnrA, qnrB
+Class I (aadA2), blaPSE−1, qnrB, qnrS
+blaTEM−1, blaCTX−M−55, qnrB, ﬂoR
+blaTEM−1
+blaCTX−M−55, qnrB
+qnrA, qnrB
+
+blaTEM−1,qnrA, qnrB
+Class I (aadA2), blaTEM−1, qnrA, qnrB, qnrS, ﬂoR
+blaPSE−1, qnrA, qnrS
+
+qnrA
+
+qnrA
+
+blaTEM−1, qnrA, qnrB
+
+qnrA
+
+qnrA, qnrB
+
+Class I (aadA2), blaTEM−1, qnrA, qnrB, ﬂoR
+blaTEM−1, qnrA, qnrB
+qnrA
+
+AMP, CIP, ENO, FFN, GEN, NA, NEO
+
+AMP, CEF, FFN, ENO, NA, TET
+
+AMP, ENO, NA, NEO, TET
+
+AMP, CEF, FFN, NEO, NA, TET
+
+AMP, CEF, NA, NEO, TET
+
+Class I (aadA2), blaTEM−1, qnrA, qnrB, ﬂoR
+Class I (aadA2), qnrA, qnrB, ﬂoR
+
+blaTEM−1, qnrA, qnrB
+Class I (drfA1-aadA1), blaPSE−1, qnrA, ﬂoR
+qnrA, qnrB
+
+AMP, CEF, FFN, NEO, NA, TET
+
+AMP, CEF, CIP, ENO, NA, TET
+
+Class I (aadA1), blaTEM−1, qnrA, ﬂoR
+qnrA, qnrB
+
+AMP, GEM, NA, TET
+
+AMP, CEF, CIP, FFN, NA, TET
+
+AMP, CEF, ENO, TET
+
+AMP, CEF, CIP, FFN, NA, TET
+
+AMP, CIP, TET
+
+AMP, CEF, CIP, ENO, FFN, GEN, NA
+
+qnrA
+
+qnrB, ﬂoR
+
+qnrA
+
+Class I (drfA17-aadA5), blaPSE−1, qnrA, qnrB, ﬂoR
+qnrA, qnrB
+
+Class I (drfA17-aadA5), blaTEM−1, blaPSE−1, qnrA,
+qnrB, ﬂoR
+
+TET
+
+AMP, ENO, NA, TET
+
+qnrA, qnrB
+
+AMP, CIP, TET
+
+AMP, CIP, TET
+
+AMP, CEF, FFN, NA, TET
+
+AMP, ENO, NA, TET
+
+NA
+
+AMP, ENO, NA, TET
+
+AMP, CIP, TET
+
+AMP, CIP, TET
+
+AMP, ENO, NA, TET
+
+blaTEM−1, qnrA, qnrB, ﬂoR
+qnrA, qnrB
+
+qnrA, qnrB, ﬂoR
+
+qnrB
+
+qnrB
+
+blaPSE−1, qnrA, qnrB
+qnrA
+
+qnrA, qnrB
+
+qnrA, qnrB
+
+Frontiers in Microbiology | www.frontiersin.org
+
+4
+
+July 2017 | Volume 8 | Article 1300
+
+(Continued)
+
+Zhao et al.
+
+TABLE 3 | Continued
+
+Prevalence of Salmonella from Animals
+
+No.
+
+Location
+
+Farms
+
+Serovar
+
+ST
+
+Resistance phenotype
+
+Integrons/resistance genes
+
+51
+
+52
+
+53
+
+54
+
+55
+
+56
+
+57
+
+58
+
+59
+
+60
+
+61
+
+62
+
+63
+
+64
+
+65
+
+66
+
+67
+
+68
+
+69
+
+70
+
+71
+
+72
+
+73
+
+74
+
+75
+
+76
+
+77
+
+78
+
+79
+
+80
+
+81
+
+82
+
+83
+
+84
+
+85
+
+86
+
+87
+
+88
+
+89
+
+90
+
+91
+
+92
+
+93
+
+94
+
+95
+
+96
+
+97
+
+98
+
+Jinan
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Chicken
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+S. Indiana
+
+S. Enteritidis
+
+S. Agona
+
+S. Enteritidis
+
+S. Senftenberg
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Indiana
+
+S. Enteritidis
+
+S. Indiana
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Typhimurium
+
+S. Typhimurium
+
+S. Typhimurium
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Typhimurium
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Typhimurium
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Typhimurium
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+17
+
+11
+
+28
+
+11
+
+14
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+17
+
+11
+
+17
+
+11
+
+11
+
+11
+
+34
+
+34
+
+19
+
+11
+
+11
+
+19
+
+11
+
+11
+
+11
+
+11
+
+34
+
+11
+
+11
+
+34
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+AMP, CEF, CIP, ENO, FFN, NA, TET
+
+Class I (drfA17-aadA5), qnrA, qnrB, ﬂoR
+
+AMP, CEF, ENO, GEN, NA, TET
+
+Class I (aadA1), qnrA, qnrB, qnrS
+
+AMP, CEF, ENO, NA, TET
+
+AMP, CEF, ENO, FFN, GEN, NA, TET
+
+blaTEM−1, qnrA, qnrB
+Class I (drfA1-aadA1), blaTEM−1, blaCTX−M−55, qnrA,
+qnrS, ﬂoR
+
+AMP, ENO, NA, TET
+
+qnrA, qnrB
+
+AMP, CEF, FFN, NEO, NA, TET
+
+Class I (drfA1-aadA1), qnrB, ﬂoR
+
+AMP, CIP, TET
+
+AMP, CEF, ENO, NEO, NA, TET
+
+AMP, CEF, FFN, GEN, NA, TET
+
+AMP, CIP, TET
+
+AMP, ENO, NA, TET
+
+AMP, ENO, NA, TET
+
+AMP, TET
+
+AMP, ENO, NA, TET
+
+AMP, ENO, NA, TET
+
+AMP, CEF,GEN, NA, TET
+
+AMP, CIP, TET
+
+AMP, CEF, NA, NEO, TET
+
+blaCTX−M−55, qnrA
+blaTEM−1, qnrA, ﬂoR
+blaTEM−1, blaPSE−1, qnrA, ﬂoR
+qnrA, qnrB
+
+qnrB
+
+qnrA
+
+blaTEM−1
+qnrA
+
+blaTEM−1, qnrB, ﬂoR
+qnrB
+
+qnrA, qnrB, ﬂoR
+
+AMP, CIP, TET
+
+AMP, NA
+
+AMP, CEF, CIP, FFN, GEN, NA, TET
+
+AMP, CEF, CIP, ENO, GEN, NA, NEO
+
+AMP, CEF, CIP, ENO, FFN, GEN, NA
+
+AMP, CEF, CIP, FFN, GEN, TET
+
+AMP, CEF, CIP, FFN, GEN, TET
+
+AMP, GEN, NA, TET
+
+CIP, ENO, GEN, NA, NEO, TET
+
+CIP, NA, NEO, TET
+
+AMP
+
+AMP, CEF, CIP, ENO, FFN, NEO, GEN, NA,
+TET
+
+AMP
+
+AMP, NA
+
+AMP, CEF, ENO, GEN, NA, NEO, TET
+
+CEF, CIP, ENO, FFN, GEN, NA, TET
+
+AMP, TET
+
+CIP, ENO, GEN, NA, NEO, TET
+
+CEF, CIP, ENO, FFN, GEN, NA, TET
+
+Class I (drfA1-aadA1), blaTEM−1, qnrA, ﬂoR
+blaTEM−1, qnrA, qnrB
+Class I (drfA1-aadA1), blaTEM−1, qnrA, qnrS, ﬂoR
+qnrA, qnrB, ﬂoR
+
+Class I (drfA1-aadA1), blaTEM−1, qnrB, ﬂoR
+qnrA, qnrB
+
+qnrA, qnrB
+
+qnrA
+
+blaTEM−1
+Class I (drfA1-aadA1), blaTEM−1, qnrB, ﬂoR
+
+blaTEM−1
+blaTEM−1, qnrA, qnrB
+Class I (drfA1-aadA1), blaTEM−1, blaCTX−M−55, qnrB
+Class I (aadA2), qnrA, qnrB
+
+blaTEM−1
+blaTEM−1
+qnrA, qnrB
+
+qnrA, ﬂoR
+
+AMP, CEF, CIP, ENO, FFN, NEO, GEN, NA,
+TET
+
+qnrA, qnrB, ﬂoR
+
+CEF, CIP, ENO, GEN, NA, NEO, TET
+
+Class I (aadA2), qnrB
+
+CEF, CIP, ENO, FFN, GEN, NA, NEO, TET
+
+qnrA
+
+CEF, CIP, ENO, FFN, GEN, NA, TET
+
+qnrA, qnrB
+
+AMP, CEF, CIP, GEN, NA, NEO, TET
+
+CEF, CIP, ENO, NA, TET
+
+CEF, CIP, ENO, NA, NEO, TET
+
+CIP, ENO, GEN, NA, TET
+
+blaTEM−1, qnrA
+qnrA, qnrB
+
+qnrA
+
+qnrA, qnrB
+
+(Continued)
+
+Frontiers in Microbiology | www.frontiersin.org
+
+5
+
+July 2017 | Volume 8 | Article 1300
+
+Zhao et al.
+
+TABLE 3 | Continued
+
+Prevalence of Salmonella from Animals
+
+No.
+
+Location
+
+Farms
+
+Serovar
+
+ST
+
+Resistance phenotype
+
+Integrons/resistance genes
+
+99
+
+100
+
+101
+
+102
+
+103
+
+104
+
+105
+
+106
+
+107
+
+108
+
+109
+
+110
+
+111
+
+112
+
+113
+
+114
+
+115
+
+116
+
+117
+
+118
+
+119
+
+120
+
+121
+
+122
+
+123
+
+124
+
+125
+
+126
+
+127
+
+128
+
+129
+
+130
+
+131
+
+132
+
+133
+
+134
+
+135
+
+136
+
+137
+
+138
+
+139
+
+140
+
+141
+
+142
+
+143
+
+144
+
+145
+
+146
+
+147
+
+148
+
+Qingdao
+
+Qingdao
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Qingdao
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Jinan
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Duck
+
+Pig
+
+Pig
+
+Pig
+
+Pig
+
+Pig
+
+Pig
+
+Pig
+
+Pig
+
+Pig
+
+Pig
+
+Pig
+
+Pig
+
+Pig
+
+Pig
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Typhimurium
+
+S. Enteritidis
+
+S. Typhimurium
+
+S. Typhimurium
+
+S. Typhimurium
+
+S. Typhimurium
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Typhimurium
+
+S. Typhimurium
+
+S. Typhimurium
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Enteritidis
+
+S. Typhimurium
+
+S. Typhimurium
+
+S. Enteritidis
+
+S. Typhimurium
+
+S. Typhimurium
+
+S. Enteritidis
+
+S. Typhimurium
+
+S. Typhimurium
+
+S. Typhimurium
+
+S. Typhimurium
+
+S. Derby
+
+S. Derby
+
+S. Typhimurium
+
+S. Typhimurium
+
+S. Derby
+
+S. Derby
+
+S. Typhimurium
+
+S. Typhimurium
+
+S. Enteritidis
+
+S. Typhimurium
+
+11
+
+11
+
+19
+
+11
+
+19
+
+19
+
+19
+
+19
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+19
+
+19
+
+34
+
+11
+
+11
+
+11
+
+34
+
+34
+
+11
+
+19
+
+19
+
+11
+
+19
+
+19
+
+19
+
+34
+
+40
+
+40
+
+19
+
+19
+
+40
+
+40
+
+19
+
+34
+
+11
+
+34
+
+CEF, CIP, ENO, FFN, GEN, NA, NEO, TET
+
+CEF, CIP, NA, TET
+
+blaTEM−1, qnrA, ﬂoR
+qnrB
+
+CIP, ENO, FFN, GEN, NA, NEO, TET
+
+qnrA, ﬂoR
+
+AMP, CIP, ENO, FFN, NA, NEO, TET
+
+AMP, CEF, CIP, NA, NEO, TET
+
+CIP, NA, NEO, TET
+
+blaTEM−1, qnrB
+qnrA
+
+qnrA, qnrB
+
+AMP, CEF, ENO, GEN, NA, NEO, TET
+
+CIP, ENO, GEN, NA, TET
+
+Class I (aadA2), blaTEM−1, qnrB
+qnrA, qnrB
+
+CEF, CIP, ENO, FFN, GEN, NA, NEO, TET
+
+qnrA, qnrB
+
+AMP, CEF, CIP, ENO, FFN, GEN, NA, TET
+
+CIP, ENO, FFN, GEN, NA, TET
+
+blaTEM−1, qnrA, ﬂoR
+qnrA, qnrB
+
+CEF, CIP, ENO, FFN, GEN, NA, TET
+
+qnrA, qnrB, ﬂoR
+
+AMP, CEF, CIP, ENO, NA, TET
+
+AMP, CEF, CIP, GEN, NA, NEO, TET
+
+CEF, CIP, ENO, FFN, GEN, NA, TET
+
+AMP, CEF, NA, NEO, TET
+
+CEF, CIP, ENO, FFN, GEN, NA, NEO, TET
+
+CIP, ENO, GEN, NA, TET
+
+CIP, GEN, NA, TET
+
+AMP, CEF, CIP, NA, NEO, TET
+
+CIP, ENO, GEN, NA, TET
+
+blaTEM−1, qnrB
+blaTEM−1, blaPSE−1, qnrA
+qnrA, qnrB, ﬂoR
+
+blaTEM−1, qnrA, qnrB
+qnrA, qnrB, ﬂoR
+
+qnrA, qnrB
+
+qnrA, qnrB
+
+Class I (aadA2), blaTEM−1, qnrA, qnrB
+qnrA, qnrB
+
+CEF, CIP, ENO, FFN, GEN, NA, TET
+
+qnrA, qnrB, ﬂoR
+
+AMP, CEF, CIP, ENO, FFN, NEO, GEN, NA,
+TET
+
+Class I (drfA1-aadA1), blaTEM−1, qnrA, qnrB, ﬂoR
+
+AMP, CEF, FFN, GEN, NA, NEO, TET
+
+AMP, CEF, CIP, FFN, NA, NEO, TET
+
+CEF, CIP, ENO, GEN, NA, TET
+
+CIP, ENO, GEN, NA, NEO, TET
+
+qnrA, qnrB
+
+qnrA, qnrB
+
+qnrA, qnrB
+
+qnrA, qnrB
+
+AMP, CEF, ENO, GEN, NA, NEO, TET
+
+AMP, CEF, CIP, GEN, NA, NEO, TET
+
+blaTEM−1, blaPSE−1, qnrA, qnrB
+qnrA, qnrB
+
+AMP, CEF, ENO, FFN, GEN, NA, NEO, TET
+
+CEF, CIP, ENO, GEN, NA, TET
+
+Class I (drfA12-aadA2), blaTEM−1, qnrB, qnrS
+qnrA
+
+AMP, CEF, CIP, NA, TET
+
+qnrA, qnrB
+
+AMP, CIP, ENO, FFN, GEN, NA, NEO, TET
+
+CIP, ENO, GEN, NA, NEO, TET
+
+AMP, CEF, CIP, NA, TET
+
+CEF, CIP, ENO, FFN, GEN, NA, TET
+
+AMP, NA
+
+AMP, TET
+
+AMP, CIP, ENO, FFN, LVX, NA, NEO, TET
+
+TET
+
+AMP
+
+AMP, CIP, FFN
+
+FFN, FOS, TET
+
+AMP
+
+blaTEM−1, qnrA, qnrS, ﬂoR
+qnrA, qnrB
+
+qnrA, qnrB
+
+qnrA, qnrB, ﬂoR
+
+qnrA, qnrB, ﬂoR
+
+blaTEM−1, qnrA, qnrB, ﬂoR
+qnrB, ﬂoR
+
+blaTEM−1, blaCTX−M−55,qnrA, qnrB, ﬂoR
+ﬂoR
+
+blaTEM−1,qnrA, ﬂoR
+blaCTX−M−55, blaPSE−1, qnrA, qnrB, ﬂoR
+qnrA,qnrB, ﬂoR
+
+qnrA, ﬂoR
+
+AMP, CIP, FFN, LVX, NA, NEO, TET
+
+AMP, CIP, FFN
+
+AMP, CEF, CIP, FFN, FOS, NA
+
+AMP, TET
+
+Class I (aadA2), blaTEM−1,blaPSE−1, qnrA, qnrB, ﬂoR
+blaTEM−1, blaPSE−1, qnrA, qnrB, ﬂoR
+blaTEM−1, blaCTX−M−55, qnrA, qnrB, ﬂoR
+blaCTX−M−55, qnrA, qnrB, ﬂoR
+
+(Continued)
+
+Frontiers in Microbiology | www.frontiersin.org
+
+6
+
+July 2017 | Volume 8 | Article 1300
+
+Zhao et al.
+
+TABLE 3 | Continued
+
+Prevalence of Salmonella from Animals
+
+No.
+
+Location
+
+Farms
+
+Serovar
+
+ST
+
+Resistance phenotype
+
+Integrons/resistance genes
+
+149
+
+150
+
+151
+
+152
+
+153
+
+154
+
+Jinan
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Zibo
+
+Pig
+
+Pig
+
+Pig
+
+Pig
+
+Pig
+
+Pig
+
+S. Typhimurium
+
+S. Enteritidis
+
+S. Typhimurium
+
+S. Typhimurium
+
+S. Typhimurium
+
+34
+
+11
+
+34
+
+19
+
+19
+
+AMP, CIP, FFN, NA
+
+AMP, CIP, ENO, FFN
+
+AMP, CIP, TET
+
+AMP, TET
+
+S. Enteritidis
+
+3,007 AMP, TET
+
+blaTEM−1, blaPSE−1, qnrA, qnrB, ﬂoR
+blaTEM−1, blaCTX−M−55, qnrA, qnrB, ﬂoR
+blaTEM−1, blaPSE−1, qnrA, qnrB, ﬂoR
+blaTEM−1, qnrA, qnrB, qnrS, ﬂoR
+blaCTX−M−55, qnrA, qnrB, ﬂoR
+
+detected among the isolates. blaTEM−1 was the most commonly
+isolated β-lactamase gene (n = 10), followed by blaCTX−M−55 (n
+= 6) and blaPSE−1 (n = 5). Three plasmid-mediated quinolone
+resistance genes were detected among the isolates. qnrA was the
+most commonly isolated plasmid-mediated quinolone resistance
+gene (n = 16), followed by qnrB (n = 15) and qnrS (n = 1). In
+addition, 18 isolates carried ﬂoR (Table 3).
+
+MLST
+A total of nine STs among the 154 isolates were found. ST11
+was the most common ST in both chickens and ducks, and it
+was represented by 69 and 38 Salmonella isolates, respectively.
+ST19 was the most common ST in pigs, and it was represented
+by eight Salmonella isolates (Table 3). The STs in this study were
+correlated with speciﬁc serovars, such as ST11 with Salmonella
+enteritidis, ST19 and ST34 with Salmonella typhimurium, and
+ST40 with Salmonella derby.
+
+DISCUSSION
+
+In this study, Salmonella spp. were recovered from chickens,
+ducks and pigs in Qingdao, Jinan and Zibo regions. For the
+chickens, the prevalence (24.0%) was signiﬁcantly higher than
+that reported in Shanghai, China (4.5%) (Liu et al., 2010) but was
+lower than that reported from chicken farms in Egypt (41.0%)
+(Hanem et al., 2017). The prevalence (9.3%) in ducks was similar
+to that obtained from duck farms in Sichuan province (12.0%)
+(Li et al., 2013) but was lower than those reported in Penang,
+Malaysia (39.0%) (Adzitey et al., 2012), and in South Korea
+(65.2%) (Cha et al., 2013). For pigs, the occurrence ratio (11.1%)
+was similar to those reported in previous studies of Salmonella
+spp. in food products of animal origin in China (Jiang et al.,
+2006; Li et al., 2013) but was higher than that reported from
+conventional farms (3.5%) in Korea (Migma et al., 2015). Data
+on the prevalence of Salmonella in diﬀerent studies were diﬃcult
+to compare based on diﬀerences in regions, collection seasons,
+sample types, isolation methodologies, culture methods, culture
+media, and environmental conditions.
+
+For serotyping, a total of seven serovars were found among
+the 154 isolates, including six from chickens, two from ducks,
+and three from pigs. The most common serotype in chickens
+and ducks was Salmonella enteritidis. This result was consistent
+with those from Shanxi province (Yang et al., 2010), but it
+was diﬀerent from other reports that the dominant serotype in
+chicken farms was Salmonella Colindale in Chad (Tabo et al.,
+2013). The most common serotype in duck farms was Salmonella
+
+typhimurium (Martelli et al., 2016). The dominant serotype in
+pigs was Salmonella typhimurium, which was the most common
+serovar isolated from humans and it can lead to severe human
+and animal diseases (Deng et al., 2012), but it was diﬀerent from
+other studies, where the dominant serotype in pig farms was
+Salmonella IIIb in Henan province (Kuang et al., 2015), and
+Salmonella derby in England and Wales (Miller et al., 2011). The
+diﬀerence in dominant serotype among animals may be due to
+diﬀerences in the pathogenicity of two serovars, geographical
+regions and diversities (Volf et al., 2010; European Centre for
+Disease Prevention Control, 2013).
+
+Antimicrobial resistance in Salmonella is a threat to human
+public health. As shown in Table 3, the high rates of antimicrobial
+resistance were against
+tetracycline (72.0%) and ampicillin
+(69.4%) in all sources, which was similar to reports of Salmonella
+isolates from Africa,
+in which chickens exhibited resistance
+to tetracycline (93.0%) and ampicillin (47.0%) (Zishiri et al.,
+2016). These high resistance rates are due to its wide use
+in animal feed and were consistent with other reports (Piras
+et al., 2011; Shao, 2011; Bai et al., 2015). In addition, resistance
+to ciproﬂoxacin in 35.9% of chickens, 80.4% of ducks, and
+30.0% of pigs deserves our attention because resistance to
+this antimicrobial agent may lead to the delay or failure of
+ﬂuoroquinolone therapies (Van et al., 2007). In this study, all
+of the isolates were susceptible to amikacin, which may be
+because this antimicrobial is not used for therapeutic purposes
+in veterinary medicine or as a growth promoter in conventional
+animal fattening, and the result was consistent with other reports
+(Eva et al., 2015). In this study, MDR Salmonella isolates were
+frequently observed among chickens, ducks and pigs. In addition,
+MDR Salmonella is serotype-dependent (Clemente et al., 2014):
+the data provided evidence that Salmonella indiana, Salmonella
+typhimurium and Salmonella enteritidis were strongly associated
+with MDR phenotypes. Of particular concern, MDR strains could
+transfer to humans via animal or animal-derived products and
+pose a great risk to public health (Rosangela et al., 2016).
+
+In this study, our results related to the incidence of class I
+integrons (26/154, 16.9%) were similar to the report in Sichuan
+(Li et al., 2013) but were higher than those reported in the
+USA, as class I integrons were identiﬁed in only 2.8% of the
+Salmonella isolates from bulk milk and milk ﬁlters (Van et al.,
+2013). In the present study, the incidence of class I integrons
+was signiﬁcantly higher in Salmonella from chickens (21.8%)
+than Salmonella from pigs (5.0%). In addition, in this study, the
+Salmonella isolates carrying class I integrons included Salmonella
+enteritidis, typhimurium and indiana.
+
+Frontiers in Microbiology | www.frontiersin.org
+
+7
+
+July 2017 | Volume 8 | Article 1300
+
+Zhao et al.
+
+Prevalence of Salmonella from Animals
+
+Production of β-lactamases is considered to be the main
+mechanism of resistance in Gram-negative bacteria to overcome
+penicillin-derived antibiotics, and the blaTEM and blaCTX−M
+ESBLs can hydrolyse third and fourth generation cephalosporins.
+In this study, a total of three β-lactamase genes were detected
+among the Salmonella isolates recovered from chickens, ducks
+and pigs: blaTEM−1, blaPSE−1, and blaCTX−M−55. Most of the
+isolates carried blaTEM−1, which was similar to the report in
+South Africa that blaTEM−1 was the most commonly identiﬁed
+β-lactamase gene in Salmonella isolates from food-producing
+animals (Igbinosa, 2015). In addition, in this study, most isolates
+carried blaTEM−1 and blaCTX−M−55, which confer resistance to
+ampicillin.
+
+Quinolones are the ﬁrst choice for the treatment of invasive
+and systemic salmonellosis that occurs in humans and animals
+(Dimitrov et al., 2007). A total of three quinolone resistance genes
+were detected among the Salmonella isolates recovered from
+chickens, ducks and pigs: qnrA, qnrB and qnrS. qnrA was the
+most commonly isolated plasmid-mediated quinolone resistance
+gene consistent with a report in Henan, where qnrA, qnrB and
+qnrS were identiﬁed in Salmonella strains isolated from retail
+food with an incidence of 46.6, 12.7, and 19.5%, respectively
+(Yang et al., 2013). It is well known that qnr genes confer
+only low-level resistance to ﬂuoroquinolones, and accumulation
+of quinolone resistance-determining region (QRDR) mutations
+is necessary for S. enterica to be resistant to ﬂuoroquinolone,
+especially ciproﬂoxacin (Eaves et al., 2004). In this study, most
+Salmonella isolates containing a plasmid-mediated quinolone
+resistance gene were resistant to ciproﬂoxacin, nalidixic acid and
+gentamicin.
+
+Florfenicol, a new chemosynthesis broad spectrum antibiotic
+of chloramphenicol analogs,
+is a ﬂuorinated derivative of
+thiamphenicol. It is not approved for human use. In this study,
+ﬂoR was identiﬁed in 35.1% of Salmonella strains isolated from
+chickens, ducks and pigs, which was signiﬁcantly higher than
+that reported in Egypt (1.0%) (Ahmed and Shimamoto, 2012).
+In addition, ﬂoR was identiﬁed in 90.0% of Salmonella strains
+isolated from pigs in this study. In this study, most Salmonella
+isolates containing the ﬂoR gene were resistant to ﬂorfenicol.
+
+MLST results reveal that a total of nine STs were identiﬁed
+in this study. ST11 was the most frequent genotype that was
+recovered in chickens and ducks, and ST19 was the most frequent
+genotype that was recovered in pigs. ST11 belongs to Salmonella
+enteritidis, and ST19 belongs to Salmonella typhimurium; they
+all have continually been reported to cause human salmonellosis
+in recent years (Cai et al., 2016; Kang et al., 2017). In addition,
+our results revealed that the MLST patterns were generally
+associated with serotypes and provided a reliable prediction of the
+Salmonella serovars, which was consistent with previous research
+(Achtman et al., 2012).
+
+CONCLUSION
+
+The prevalence of Salmonella was higher in the animal farms.
+Moreover, many serovars reported in humans and MDR
+Salmonella were recovered in this study. The high rates of
+MDR Salmonella, class I integrons and antibiotic resistance
+gene positive isolates detected suggest that measures must be
+taken to facilitate the reasonable use of antimicrobials in animal
+husbandry. Therefore, continuous surveillance of Salmonella and
+associated antimicrobial resistance in Salmonella of animals is
+essential to detect emerging Salmonella serovars and associated
+resistance genes.
+
+AUTHOR CONTRIBUTIONS
+
+SS, XZ, contributed to the conception of the study; WC, XZ;
+contributed signiﬁcantly to analysis and manuscript preparation;
+XZ, performed the data analyses and wrote the manuscript;
+XZ, JY, BZ: helped perform the analysis with constructive
+discussions.
+
+ACKNOWLEDGMENTS
+
+This work was supported by the National key R&D project
+(2016YFD0501608) and (2016 YFD0500510). Taishan Scholars
+Program (201511023); Funds of Shandong “Double Tops”
+program.
+
+REFERENCES
+
+Achtman, M., Wain, J., Weill, F. X., Nair, S., Zhou, Z., Sangal, V., et al. (2012).
+Multilocus sequence typing as a replacement for serotyping in Salmonella
+enterica. PLoS Pathog. 8:e1002776. doi: 10.1371/journal.ppat.1002776
+
+Adzitey, F., Rusul, R., and Huda, N.
+
+(2012). Prevalence and antibiotic
+resistance of Salmonella serovars in ducks, duck rearing and processing
+environments
+947–952.
+doi: 10.1016/j.foodres.2011.02.051
+
+in Penang, Malaysia. Food Res.
+
+Int.
+
+45,
+
+Ahmed, A. M., and Shimamoto, T. (2012). Genetic analysis of multiple
+antimicrobial resistance in Salmonella isolated from diseased broilers in Egypt.
+Microbiol. Immunol. 56, 254–261. doi: 10.1111/j.1348-0421.2012.00429.x
+
+hypothesis that cow- and human-associated Salmonella isolates represent
+distinct and overlapping populations. Appl. Environ. Microb. 72, 7575–7585.
+doi: 10.1128/AEM.01174-06
+
+Bai, L., Lan, R. T., Zhang, X. L., Cui, S. H., Xu, J., Guo, Y. C., et al. (2015).
+Prevalence of Salmonella isolates from chicken and pig slaughter houses and
+emergence of ciproﬂoxacin and cefotaxime co-resistant, S.enterica Serovar
+Indiana in Henan, China. PLoS ONE 10:e0144532. doi: 10.1371/journal.pone.01
+44532
+
+Cai, Y. Q., Tao, J., Jiao, Y., Fei, X., Zhou, L., Wang,. Y., et al. (2016). Phenotypic
+characteristics and genotypic correlation between Salmonella isolates from a
+slaughterhouse and retail markets in Yangzhou, China. Int. J. Food Microb. 222,
+56–64. doi: 10.1016/j.ijfoodmicro.2016.01.020
+
+Ahmed, A. M., Shimamoto, T., and Shimamoto, T.
+
+(2013). Molecular
+characterization of multidrug-resistant avian pathogenic Escherichia coli
+isolated from septicemic broilers. Int. J. Med. Microbiol. 303, 475–483.
+doi: 10.1016/j.ijmm.2013.06.009
+
+Cha, S. Y., Kang, M., Yoon, R. H., Park, C. K., Moon, O. K., and Jang, H. K.
+(2013). Prevalence and antimicrobial susceptibility of Salmonella isolates in
+Pekin ducks from South Korea. Comp. Immunol. Microbiol. Infect. Dis. 36,
+473–479. doi: 10.1016/j.cimid.2013.03.004
+
+Alcaine, S. D., Soyer, Y., Warnick, L. D., Su, W. L., Sukhnanand, S.,
+the
+
+sequence typing supports
+
+(2006). Multilocus
+
+J., et al.
+
+Richards,
+
+Chiu, L. H., Chiu, C. H., Horn, Y. M., Chiou, C. S., Lee, C. Y., Yeh, C. M., et al.
+(2010). Characterization of 13 multi-drug resistant Salmonella serovars from
+
+Frontiers in Microbiology | www.frontiersin.org
+
+8
+
+July 2017 | Volume 8 | Article 1300
+
+Zhao et al.
+
+Prevalence of Salmonella from Animals
+
+diﬀerent broiler chickens associated with those of human isolates. BMC Microb.
+10:86. doi: 10.1186/1471-2180-10-86
+
+Clemente, L., Correia, I., Themudo, P., Neto, I., Canica, M., and Bernardo,
+F. (2014). Antimicrobial susceptibility of Salmonella enterica isolates from
+healthy breeder and broiler ﬂocks in Portugal. Vet.
+J. 200, 276–281.
+doi: 10.1016/j.tvjl.2014.02.007
+
+Clinical and Laboratory Standards Institute. (2013). Performance Standards for
+Antimicrobial Susceptibility Testing: Twentieth-third Informational Supplement
+M100-S23. Wayne, PA: CLSI.
+
+Deng, X., Ran, L., Wu, S., Ke, B., He, D., Yang, X., et al. (2012). Laboratory-based
+surveillance of non-typhoidal Salmonella infections in Guangdong Province,
+China. Foodborne Pathog. Dis. 9, 305–312. doi: 10.1089/fpd.2011.1008
+
+Dimitrov, T., Udo, E. E., Albaksami, O., Kilani, A. A., and Shehab, E. M. R. (2007).
+Ciproﬂoxacin treatment failure in a case of typhoid fever caused by Salmonella
+enterica serotype Paratyphi A with reduced susceptibility to ciproﬂoxacin. J.
+Med. Microbiol. 56, 277–279. doi: 10.1099/jmm.0.46773-0
+
+Eaves, D. J., Randall, L., Gray, D. T., Buckley, A., Woodward, M. J., White, A.
+P., et al. (2004). Prevalence of mutations within the quinolone resistance-
+determining region of gyrA, gyrB, parC, and parE and association with
+antibiotic resistance in quinolone-resistant Salmonella enterica. Antimicrob.
+Agents Chemother. 48, 4012–4015. doi: 10.1128/AAC.48.10.4012-4015.2004
+
+European Centre for Disease Prevention and Control.
+
+(2013). Annual
+Epidemiological Report Reporting on 2011 Surveillance Data and 2012
+Epidemic Intelligence Data. 103–108.
+
+Eva, D., Ana, J. B., Jose, A. A., Maria, A. F., and Isabel, E. (2015). Pravalence
+and antimicrobial resistance of Listeria monocytogenes and Salmonella strains
+isolated in ready-to-eat foods in Eastern Spain. Food Control 47, 120–125.
+doi: 10.1016/j.foodcont.2014.06.043
+
+Gong, J., Xu, M., Zhu, C., Miao, J., Liu, X., Xu, B., et al. (2013). Antimicrobial
+resistance, presence of
+integrons and bioﬁlm formation of Salmonella
+pullorum isolates from eastern China (1962-2010). Avian Pathol. 42, 290–294.
+doi: 10.1080/03079457.2013.788129
+
+Graciela, V. L., Geovana, B. M., Marisa, C., and Stefan, S. (2016). Antimicrobial
+resistance and class1 integron-associated gene cassettes in Salmonella enterica
+Serovar typhimurium isolated from pigs at slaughter and abattoir enviroment.
+Vet. Microbiol. 194, 84–92. doi: 10.1016/j.vetmic.2016.04.020
+
+Hanem, E. S., Amin, T., Abd, E. E., Moshira, E. A., Fares, E. K., Trudi, G., et al.
+(2017). Epidemiological, molecular characterization and antibiotic resistance of
+Salmonella enterica serovars isolated from chicken farms in Egypt. Gut Pathog.
+9:8. doi: 10.1186/s13099-017-0157-1
+
+Igbinosa, I. H. (2015). Prevalence and detection of antibiptic-resistant determinant
+in Salmonella isolated from food-producing animals. Trop. Anim. Health Prod.
+47, 37–43. doi: 10.1007/s11250-014-0680-8
+
+Jiang, Z. L., Lv, S. L., Tang, Z. Z., Li, H., Wang, H., and Chen, G. (2006). Surveillance
+of Salmonella in food in Guangxi during 2002∼2005. Pract. Prevent. Med. 64,
+23–26.
+
+Kang, M. S., Oh, Y. J., Kwon, Y. K., Lee, D. Y., Jeong, O. M., Choi, B. K., et al. (2017).
+Public health signiﬁcance of major genotypes of Salmonella enterica serovar
+Enteritidis present in both human and chicken isolates in Korea. Res. Vet. Sci.
+112, 125–131. doi: 10.1016/j.rvsc.2017.02.010
+
+Kerrnet, M. B., Klemmensen, T., Frimodt-Moller, N., and Espersen, F.
+isolated from
+(2002). Susceptibility of danish Escherichia coli
+urinary tract
+infections and bacteraemia, and distribution of sul genes
+conferring sulphonamide resistance. J. Antimicrob. Chemother. 50, 513–516.
+doi: 10.1093/jac/dkf164
+
+strains
+
+Kuang, X. H., Hao, H. H., Dai, M. H., Wang, Y. L., Ahmad, I., Liu, Z.
+L., et al. (2015). Serotypes and antimicrobial susceptibility of Salmonella
+spp.
+in China. Front. Microbiol. 6:602.
+doi: 10.3389/fmicb.2015.00602
+
+isolated from farm animals
+
+Li, R. C., Lai, J., Wang, Y., Liu, S. L., Li, Y., Liu, K. Y., et al. (2013). Prevalence
+and characterization of Salmonella species isolated from pigs, ducks and
+chickens in Sichuan Province, China. Int. J. Food Microbiol. 163, 14–18.
+doi: 10.1016/j.ijfoodmicro.2013.01.020
+
+Liu, W. B., Chen, J., Huang, Y. Y., Liu, B., and Shi, X. M. (2010). Serotype, genotype,
+and antimicrobial susceptibility proﬁles of Salmonella from Chicken Farms in
+Shanghai. J. Food Protect. 73, 562–567. doi: 10.4315/0362-028X-73.3.562
+
+the Congo: emergence of decreased
+from the Democratic Republic of
+ﬂuoroquinolone susceptibility and extended-spectrum beta lactamases. PLoS
+Negl. Trop. Dis. 7:e2103. doi: 10.1371/journal.pntd.0002103
+
+Malorny, B., Hoorfar,
+(2003).
+
+L., et al.
+speciﬁc PCR-based method.
+Int.
+doi: 10.1016/S0168-1605(03)00154-5
+
+J., Hugas, M., Heuvelink, A., Fach, P., Ellerbroek,
+Interlaboratory diagnostic accuracy of a Salmonella
+241–249.
+
+J. Food Microbiol.
+
+89,
+
+Martelli, F., Birch, C., and Davies, R. H. (2016). Observations on the distribution
+and control of Salmonella in commercial duck hatcheries in the UK. Avian
+Pathol. 45, 261–266. doi: 10.1080/03079457.2016.1146820
+
+Melendez, S. N., Hanning, I., Han, J., Nayak, R., Clement, A. R., Wooming,
+A., et al. (2010). Salmonella enterica isolates from pasture-raised poultry
+exhibit antimicrobial resistance and class I integrons. J. Appl. Microbiol. 109,
+1957–1966. doi: 10.1111/j.1365-2672.2010.04825.x
+
+Migma, D. T., Mamata, G., Hyang, M. N., Dong, C. M., Kima, S. R., Jang, G.
+C., et al. (2015). Prevalence and characterization of Salmonella in pigs from
+conventional and organic farms and ﬁrst report of S. serovar 1,4,[5],12:i:-
+from Korea. Vet. Microbiol. 178, 119–124. doi: 10.1016/j.vetmic.2015.
+05.005
+
+Miller, A. J., Twomey, D. F., Davies, R. H., Teale, C. J., Williamson, S. M., Reichel,
+R., et al. (2011). Salmonella serovars and antimicrobial resistance patterns on a
+sample of high seroprevalence pig farms in England and Wales. Zoonoses Public
+Health. 56, 137–144. doi: 10.1111/j.1863-2378.2011.01402.x
+
+Piras, F., Brown, D. J., Meloni, D., Mureddu, A., and Mazzette, R. (2011).
+Investigation of Salmonella enterica in Sardinian slaughter pigs: prevalence,
+serotype and genotype characterization. Int. J. Food Microbiol. 151, 201–209.
+doi: 10.1016/j.ijfoodmicro.2011.08.025
+
+Rosangela, E. Z., Camila, L., Ana, P. P., Mallu, J. S., Ricardo, A. P. S., Cibeli,
+V., et al. (2016). Multidrug resistance and ESBL-producing Salmonella spp.
+Isolated from broiler processing plants. Braz. J. Microbiol. 47, 191–195.
+doi: 10.1016/j.bjm.2015.11.021
+
+Shao, K. (2011). Study on Types and Active Surveillance of Foodborne Salmonella
+
+spp. Master’s thesis, Shandong Province.
+
+Stevens, M. P., Humphrey, T. J., and Maskell, D. J. (2009). Molecular insights into
+farm animal and zoonotic Salmonella infections. Philos. Trans. R. Soc. London.
+364, 2709–2723. doi: 10.1098/rstb.2009.0094
+
+Tabo, D. A., Diguimbaye, C. D., Granier, S. A., Moury, F. Q., Brisabois,
+A., Elgroud, R., et al. (2013). Prevalence and antimicrobial resistance
+of non-typhoidal Salmonella serotypes
+isolated from laying hens and
+broiler chicken farms in N’Djamena, Chad. Vet. Microbiol. 166, 293–298.
+doi: 10.1016/j.vetmic.2013.05.010
+
+Van, K. J. S., Sonnier, J., Zhao, S., and Karns, J. S. (2013). Antimicrobial resistance
+of Salmonella enterica isolates from bulk tank milk and milk ﬁlters in the United
+States. J. Food Prot. 76, 18–25. doi: 10.4315/0362-028X.JFP-12-263
+
+Van, T. T. H., Moutaﬁs, G., Istivan, T., Tran, L. T., and Coloe, P. J. (2007).
+Detection of Salmonella spp. in retail raw food samples from Vietnam and
+characterization of their antibiotic resistance. Appl. Environ. Microb. 73,
+6885–6890. doi: 10.1128/AEM.00972-07
+
+Vo, A. T., Van, D. E., Fluit, A. C., Heck, M. E., Verbruggen, A., Maas, H. M., et al.
+(2006). Distribution of Salmonella enterica serovars from humans, livestock
+and meat in Vietnam and the dominance of Salmonella typhimurium phage
+type 90. Vet. Microbiol. 113, 153–158. doi: 10.1016/j.vetmic.2005.10.034
+
+Volf, J., Havlickova, H., Hradecka, H., Ondrackova, P., Matiasovic, J., Faldyna,
+M., et al. (2010). Epidemiology and interaction of Salmonella enterica serovar
+Derby, Infantis and Typhimurium with porcine alveolar macrophages. Vet.
+Microbiol. 146, 105–110. doi: 10.1016/j.vetmic.2010.04.031
+
+Wang, S.
+
+J., Duan, H. L., Zhang, W., and Li,
+
+(2007). Analysis of
+bacterial foodborne disease outbreaks in China between 1994 and 2005.
+FEMS Immunol. Med. Microbiol. 51, 8–13. doi: 10.1111/j.1574-695X.2007.
+00305.x
+
+J.
+
+Wright, G. D. (2010). Antibiotic resistance in the environment: a link to the clinic?
+
+Curr. Opin. Microbiol. 13, 589–594. doi: 10.1016/j.mib.2010.08.005
+
+Yan, H., Li, L., Alam, M. J., Shinoda, S., Miyoshi, S., and Shi, L. (2010). Prevalence
+and antimicrobial resistance of Salmonella in retail
+foods in northern
+China. Int. J. Food Microbiol. 143, 230–234. doi: 10.1016/j.ijfoodmicro.2010.
+07.034
+
+Lunguya, O., Lejon, V., Phoba, M. F., Bertrand, S., Vanhoof, R., Glupczynski,
+Y., et al. (2013). Antimicrobial resistance in invasive nontyphoid Salmonella
+
+Yang, B., Qiao, L., Zhang, X., Cui, Y., Xia, X., Cui, S., et al.
+
+(2013).
+Serotyping, antimicrobial susceptibility, pulse ﬁeld gel electrophoresis analysis
+
+Frontiers in Microbiology | www.frontiersin.org
+
+9
+
+July 2017 | Volume 8 | Article 1300
+
+Zhao et al.
+
+Prevalence of Salmonella from Animals
+
+of Salmonella isolates from retail foods in Henan Province, China. Food Control
+32, 228–235. doi: 10.1016/j.foodcont.2012.11.022
+
+Yang, B., Qu, D., Zhang, X., Shen,
+
+Prevalence and characterization of Salmonella serovars
+of marketplace in Shaanxi, China. Int.
+doi: 10.1016/j.ijfoodmicro.2010.04.015
+
+J., Cui, S., Shi, Y., et al.
+
+(2010).
+in retail meats
+J. Food Microbiol. 141, 63–72.
+
+Zishiri, O., Mkhize, N., and Mukaratirwa, S. (2016). Prevalence of virulence and
+antimicrobial resistance genes in Salmonella spp. isolated from commercial
+chickens and human clinical
+from South Africa and Brazil.
+Onderstepoort J. Vet. Res. 83, 1–11. doi: 10.4102/ojvr.v83i1.1067
+
+isolates
+
+Conﬂict of Interest Statement: The authors declare that the research was
+conducted in the absence of any commercial or ﬁnancial relationships that could
+be construed as a potential conﬂict of interest.
+
+Copyright © 2017 Zhao, Yang, Zhang, Sun and Chang. This is an open-access article
+distributed under the terms of the Creative Commons Attribution License (CC BY).
+The use, distribution or reproduction in other forums is permitted, provided the
+original author(s) or licensor are credited and that the original publication in this
+journal is cited, in accordance with accepted academic practice. No use, distribution
+or reproduction is permitted which does not comply with these terms.
+
+Frontiers in Microbiology | www.frontiersin.org
+
+10
+
+July 2017 | Volume 8 | Article 1300
+
+

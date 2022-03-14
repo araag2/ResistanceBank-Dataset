@@ -1,0 +1,961 @@
+Trop Anim Health Prod
+DOI 10.1007/s11250-014-0587-4
+
+REGULAR ARTICLES
+
+Prevalence and antimicrobial resistance of porcine O157
+and non-O157 Shiga toxin-producing Escherichia coli from India
+
+Swaraj Rajkhowa & Dilip Kumar Sarma
+
+Accepted: 27 March 2014
+# Springer Science+Business Media Dordrecht 2014
+
+Abstract The aims of this study were to determine the prev-
+alence of Shiga toxin-producing Escherichia coli (STEC)
+strains in pigs as a possible STEC reservoir in India as well
+as to characterize the STEC strains and to determine the
+antimicrobial resistance pattern of the strains. A total of 782
+E. coli isolates from clinically healthy (n=473) and diarrhoeic
+piglets (309) belonging to major pig-producing states of India
+were screened by the polymerase chain reaction (PCR) assay
+for the presence of virulence genes characteristic for STEC,
+that is, Shiga toxin-producing gene(s) (stx1, stx2), intimin
+(eae), enterohemolysin (hlyA) and STEC autoagglutinating
+adhesin (Saa). Overall STEC were detected in 113 (14.4 %)
+piglets, and the prevalence of E. coli O157 and non-O157
+STEC were 4 (0.5 %) and 109 (13.9 %), respectively. None of
+the O157 STEC isolates carried gene encoding for H7 antigen
+(fliCh7). The various combinations of virulence genes present
+in the strains studied were stx1 in 4.6 %, stx1 in combination
+with stx2 gene in 5.1 %, stx1 in combination with stx2 and
+ehxA in 0.6 %, stx1 in combination with stx2 and eae in 0.2 %
+and stx2 alone in 3.7 %. All STEC isolates were found
+negative for STEC autoagglutinating adhesin (Saa). The num-
+ber of STEC isolates which showed resistance to antimicro-
+bials such as ampicillin, tetracycline, streptomycin, lincomy-
+cin, nalidixic acid, sulfadiazine, penicillin, gentamicin, kana-
+mycin and ceftriaxone were 100, 99, 98, 97, 95, 94, 92, 88, 85
+and 85, respectively. Ninety-seven isolates showed resistance
+to more than 2 antimicrobials, and 8 resistance groups (R1 to
+R8) were observed. This study demonstrates that pigs in India
+harbour both O157 and non-O157 STEC, and this may pose
+serious public health problems in future.
+
+S. Rajkhowa (*) : D. K. Sarma
+National Research Centre on Pig, Indian Council of Agricultural
+Research (ICAR), Rani Guwahati 781 131, Assam, India
+e-mail: swaraj.rajkhowa@gmail.com
+
+Keywords Antimicrobial resistance . Characterization .
+STEC . Pigs
+
+Introduction
+
+Pig farming in India constitutes the livelihood of rural poor
+belonging to the lowest socio-economic strata. Pig is consid-
+ered as one of the best meat-producing animals in the world.
+In India, meat production is now the fastest-growing segment
+of livestock sector, and the consumption of pork is increasing
+significantly in the country, particularly in the North Eastern
+States where country’s 40 % pig population exists (Livestock
+Census 2007).
+
+Escherichia coli O157:H7 and other Shiga toxin (Stx)-
+producing E. coli (STEC) strains are associated with food
+and waterborne illness around the world (Karmali et al.
+2010). E. coli O157 has been implicated as the causative agent
+in several human outbreaks and is the most common cause of
+hemorrhagic colitis (HC) and hemolytic uremic syndrome
+(HUS). Non-O157 STEC strains have more recently been
+recognized as important pathogens with an increasing impact
+on human health and are now also considered to be a major
+cause of disease (Chase-Topping et al. 2012). The ability of
+STEC to cause disease is related to the production of one or
+more Shiga-like toxins (Stx1, Stx2 or their variants), which
+inhibits protein synthesis of host cells, thus leading to cell
+death (Growther et al. 2013). In addition to toxin production,
+another virulence-associated factor expressed by STEC is a
+protein called intimin (encoded by the chromosomal gene
+eae), which is responsible for the intimate attachment of
+STEC to intestinal epithelial cells, causing effacing lesions
+in the intestinal mucosa (Helmy et al. 2013). The large plas-
+mid of STEC O157 carries determinant characteristic for
+STEC that presumably harbour additional virulence factors:
+hlyA (the enterohemorrhagic E. coli hemolysin gene), which
+
+acts as a pore-forming cytolysin on eukaryotic cells (Schmidt
+et al. 1995). The pathogenic capacity of STEC also resides in
+virulence factor such as STEC autoagglutinating adhesin
+(Saa) (Gyles 2007).
+
+STEC strains have been isolated from a variety of animals
+and healthy cattle, and other ruminants appear to be the main
+reservoir of STEC strains (Durand et al. 2010). It has been
+reported that pigs routinely carry STEC and high (9.5 %)
+prevalence of EC O157 in swine faeces was noted in South
+Africa (Witold and Carolyn 2011). Pig as a potential reservoir
+of STEC O157:H7 has also been reported from Japan
+(Nakazawa et al. 1999). Faecal contamination of the farm
+environment favours animal reinfection and persistence of
+the pathogen in the farm. Hence, production units represent
+a major reservoir for STEC and human infection occurs pri-
+marily via faecal contamination of food products or by inges-
+tion of untreated water contaminated with livestock wastes
+and slurries (Fairbrother and Nadeau 2006). Therefore, to
+reduce the risk of human infection, it is critical to reduce
+bacterial population in the live animal at the primary produc-
+tion level before entry to the slaughterhouse.
+
+As E. coli infection is one of the common diseases of
+livestock (including pigs) particularly in tropical countries
+which have tremendous economic impact on livestock pro-
+ductions and the paucity of information on the prevalence of
+STEC in pigs in India, the present study was undertaken to
+determine the prevalence of STEC in healthy and diarrhoeic
+pigs as well as to characterize and determine the antimicrobial
+resistance of the STEC isolates.
+
+Materials and methods
+
+Sample collection, culture and STEC screening
+
+Rectal swabs were collected in duplicate from clinically
+healthy (473) and diarrhoeic (309) piglets (1–8 weeks of
+age) during the period from February 2010 to May 2013 from
+organized and unorganized pigs farms located in Assam
+(251 nos.), Arunachal Pradesh (152 nos.), Meghalaya
+(192 nos.) and Nagaland (187 nos.) states of India. Rectal
+swabs were collected from each piglet. Samples were collect-
+ed directly from the rectum by using individual sterilized
+cotton swabs to avoid piglet to piglet cross-contamination.
+All the samples were collected in sterile polypropylene con-
+tainers, were transported to the laboratory under ice cover and
+were processed within 4 h.
+
+For isolation of non-O157 STEC, faecal samples were
+plated directly onto MacConkey agar (Hi Media, Mumbai,
+India). Following overnight incubation, 10 suspected E. coli
+colonies were tested for the genes encoding Stx1 and Stx2
+toxins (stx1 and stx2 genes) by polymerase chain reaction
+(PCR) as previously described (Rey et al. 2003). The resulting
+
+Trop Anim Health Prod
+
+STEC isolates were also confirmed biochemically as per the
+method of Cowan and Steel (1993) and tested for the genes
+encoding intimin (eae gene), enterohaemolysin (ehxA gene)
+and Saa (saa gene) as previously described (Sanchez et al.
+2009). When isolates from a given sample exhibited similar
+genetic characteristics in terms of the presence or absence of
+virulence genes, only one colony was selected and stored until
+further characterization. Otherwise, when isolates with differ-
+ent genetic characteristics were obtained, one colony of each
+was selected and stored for further characterization.
+
+For isolation of O157 STEC, the protocol described by De
+Boer and Heuvelink (2000) was followed. Briefly, each of the
+rectal swabs was added to 10 ml of modified tryptic soy broth
+(TSB containing 20 mg/l novobiocin) for enrichment culture
+and incubated for 6–8 h at 37 °C. Enrichment culture in
+modified TSB was streaked onto sorbitol MacConkey agar
+(SMAC) and SMAC containing 0.05 mg/l of cefixime and
+1 mg/l potassium tellurite (CTSMAC). The plates were incu-
+bated for 18–24 h at 37 °C. Both sorbitol-fermenting and non-
+fermenting colonies were picked (5–10 from each plate) and
+identified biochemically. Following overnight incubation,
+both sorbitol-fermenting and non-fermenting colonies (5–10
+from each plate) were tested for the genes encoding O157 and
+H7 antigens (O157 rfbE and fliCh7 genes) by PCR as previ-
+ously described (Garcia-Sanchez et al. 2007). The resulting
+E. coli O157 isolates were confirmed biochemically as E. coli
+and tested for the genes stx1, stx2, eae, ehxA and saa Table 1.
+
+Serotyping
+
+E. coli isolates were serotyped based on their somatic (O)
+antigens at National Salmonella and Escherichia Centre,
+Central Research Institute, Kasauli, Himachal Pradesh, India.
+
+Antimicrobial susceptibility test
+
+Antibiotic susceptibility testing was performed by the disk
+diffusion method using 16 commercially available antimicro-
+bials disks (Table 2) as per the method of the Clinical and
+Laboratory Standards Institute guidelines (CLSI 2008).
+
+Results
+
+A total of 782 E. coli (309 from diarrhoeic and 473 from
+healthy piglets) were isolated from 782 faecal samples.
+Overall STEC strains were detected in 113 (14.4 %) piglets
+(19.4 % from diarrhoeic piglets and 11.2 % from healthy
+piglets). E. coli O157 was isolated from four (0.5 %) piglets,
+and non-O157 STEC was isolated from 109 (13.9 %) piglets.
+The STEC isolates were placed into 18 serogroups, and the
+most predominant serogroup was O5 (Table 1). Gene
+encoding O157 (O157 rfbE) could be detected in all O157
+
+Trop Anim Health Prod
+
+Table 1 Serogroups and distribution of virulence genes among porcine
+STEC isolates
+
+Serogroup Number of STEC having virulence gene
+
+stx1 stx2 stx1 +
+
+stx2
+
+stx1 + stx2
++ ehxA
+
+stx1 + stx2
++ eae
+
+stx1 + stx2
++ ehxA + eae
+
+O2
+O4
+O5
+O7
+O8
+O9
+O20
+O25
+O21
+O22
+O63
+O75
+O89
+O103
+O123
+O138
+O147
+O157
+UT
+R
+
+3
+0
+5
+0
+3
+0
+1
+1
+1
+0
+2
+1
+1
+1
+2
+3
+0
+1
+8
+3
+
+0
+1
+4
+1
+3
+4
+1
+0
+0
+0
+0
+0
+2
+0
+5
+0
+0
+0
+6
+2
+
+2
+1
+0
+5
+1
+0
+6
+2
+0
+2
+0
+0
+5
+1
+0
+1
+2
+2
+9
+1
+
+UT untypeable, R rough
+
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+0
+
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+Table 2 Antimicrobial susceptibility of porcine STEC isolates (N=113)
+
+Antimicrobials used
+
+Number of STEC
+
+Sensitive Intermediately sensitive Resistant
+
+78 (69.0) 5 (4.4)
+9 (7.9)
+4 (3.5)
+21 (18.5) 7 (6.1)
+59 (52.2) 13 (11.5)
+
+Amikacin (AK)
+Ampicillin (A)
+Ceftriaxone (CI)
+Chloramphenicol (C)
+Chlortetracycline (CT) 82 (72.5) 9 (7.9)
+76 (67.2) 7 (6.1)
+Ciprofloxacin (CF)
+Enrofloxacin (EX)
+79 (69.9) 11 (9.7)
+21 (18.5) 4 (3.5)
+Gentamicin (G)
+18 (15.9) 10 (8.8)
+Kanamycin (K)
+10 (8.8)
+Lincomycin (L)
+6 (5.3)
+Nalidixic acid (NA)
+14 (12.3) 4 (3.5)
+77 (68.1) 8 (7.0)
+Norfloxacin (NX)
+12 (10.6) 9 (7.9)
+Penicillin (P)
+11 (9.7)
+Streptomycin (S)
+4 (3.5)
+Sulfadiazine (SZ)
+13 (11.5) 6 (5.3)
+5 (4.4)
+9 (7.9)
+Tetracycline (T)
+
+Figures in the parentheses indicate the percentage
+
+30 (26.5)
+100 (88.4)
+85 (75.2)
+41 (36.2)
+22 (19.4)
+30 (26.5)
+23 (20.3)
+88 (77.8)
+85 (75.2)
+97 (85.8)
+95 (84.0)
+28 (24.7)
+92 (81.4)
+98 (86.7)
+94 (83.1)
+99 (87.6)
+
+STEC isolates whereas none of the O157 STEC isolates
+carried gene encoding for H7 antigen (fliCh7). stx1 gene alone
+was present in 36 (4.6 %) isolates, stx1 in combination with
+stx2 gene in 40 (5.1 %) isolates, stx1 in combination with stx2
+and ehxA in 5 (0.6 %) isolates and stx1 in combination
+with stx2 and eae in 2 (0.2 %) isolates. stx2 gene alone was
+present in 29 (3.7 %) isolates (Table 1). All the STEC isolates
+were negative for STEC autoagglutinating adhesin (Saa).
+Antimicrobial susceptibility of the STEC isolates is presented
+in Table 2. The number of STEC isolates which showed
+resistance to antimicrobials such as ampicillin, tetracycline,
+streptomycin, lincomycin, nalidixic acid, sulfadiazine,
+penicillin, gentamicin, kanamycin and ceftriaxone were
+100, 99, 98, 97, 95, 94, 92, 88, 85 and 85, respectively.
+The most effective antimicrobials in terms of sensitivity were
+chlortetracycline (72.5 %), enrofloxacin (69.9 %), amikacin
+(69 %), norfloxacin (68.1 %) and ciprofloxacin (67.2 %).
+Antimicrobial resistance patterns of the STEC isolates are
+shown in Table 3.
+
+Discussion
+
+In the present study, we recorded the prevalence of STEC
+in 14.4 % pigs, and the prevalence of non-O157 STEC and
+O157 STEC were 13.9 and 0.5 %, respectively. Several
+studies have examined the prevalence of STEC in swine.
+STEC were detected in 22 % pigs from Switzerland
+(Kaufmann et al. 2006), 30.2 % pigs from Germany (von
+Muffling et al. 2007), 4.5 % pigs from Argentina (Moredo
+et al. 2012) and 0.4 % pigs from South Africa (Mohlatlole
+et al. 2013). The prevalence of E. coli O157 in the present
+study was lower than that reported from the USA (Keen
+et al. 2006) and Nigeria (Ojo et al. 2010) where it ranged
+from 1.2 to 3 %, respectively but higher than that reported
+(present in two of 2,446 samples) in Swedish pigs
+(Eriksson et al. 2003). There is paucity of information
+on prevalence of porcine STEC in India. Barman et al.
+(2008) could isolate three STEC strains from an outbreak
+of oedema disease in a pig farm in India and all the
+isolates were untypeable. Isolation of O157 STEC from
+pigs in India was also reported by Sehgal et al. (2008), but
+the isolates were not analyzed for their virulence charac-
+teristics. The observed differences in the present study
+could be due to differences in husbandry practices and
+prevailing climatic conditions which may account for the
+varied prevalence of STEC from one geographical region
+to another. Several studies also showed that the preva-
+lence of STEC in animals may vary with the husbandry
+practices (such as stocking densities, types of feeds of-
+fered etc.) as well as the climatic conditions of the area
+under the study (Gautam et al. 2011; Diaz-Sanchez et al.
+2013). Diaz-Sanchez et al. (2013) found that the STEC
+
+Table 3 Antimicrobial resistance
+pattern of STEC isolates from
+pigs
+
+Resistance
+group
+
+Antimicrobial resistance patterns
+
+Trop Anim Health Prod
+
+No. of isolates showing
+the multidrug resistance
+
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+
+A,CI, CT, G, K, L, NA, P, S, SZ and T
+A,CI, C, EX, G, K, L, NA, NX, P, S, SZ and T
+A,CI, EX, G, K, L, NA, NX, P, S, SZ and T
+AK, A,CI, C, CF, G, K, L, NA, NX, P, S, SZ and T
+AK, A,CI, C, CF, G, K, L, NA, P, S, SZ and T
+A,CI, G, K, L, NA, P, S, SZ and T
+A, L, NA, P, S, SZ and T
+A, L, S, and T
+
+22
+11
+12
+5
+25
+10
+7
+5
+
+prevalence in red deer was significantly higher where high
+densities of red deer (p<0.001) were present. Gautam et al.
+(2011) explored the potential role of ambient temperature on
+infection transmission dynamics for E. coli O157:H7 in a dairy
+herd, and their studies indicated that seasonal variation in ambi-
+ent temperature could have a considerable impact on pathogen
+populations in the environment, specifically on barn surfaces
+and in water troughs, and consequently on the prevalence of
+infection in the host population. It was also observed that
+feeding of calves with lower levels of dietary wet distillers grains
+(15 % or less) 56 days prior to harvest significantly reduces
+E. coli O157:H7 in faeces and on hides (Wells et al. 2011).
+
+Most of the serogroups associated with porcine STEC in
+this study have been reported in different animal species
+including pigs by various workers from different countries
+(Fratamico et al. 2004; Hussein 2007). Vu Khac et al. (2006)
+found that porcine pathogenic E. coli involved in post
+weaning diarrhoea typically belonged to serogroups O8,
+O138, O139, O141, O147, O149 and O157. We have also
+recorded the presence of serogroups such as O8, O138, O147
+and O157 in the present study thereby indicating that pigs in
+India are potential reservoirs’ of pathogenic E. coli.
+Interestingly, the serogroups such as O103 and O157 recorded
+in the present study have been generally reported to be asso-
+ciated with HUS in human being (OIE 2008). Therefore,
+isolation of these serogroups from pigs in India warrants
+possibility of transmission of this pathogen from pigs to
+human being and may pose serious public health problem in
+future. Several STEC strains are responsible for human gas-
+trointestinal illnesses, from mild diarrhoea to bloody diarrhoea
+to haemorrhagic colitis and HUS. Most outbreaks and sporad-
+ic cases of bloody diarrhoea and HUS have been attributed to
+strains of STEC serotype O157:H7. However, recently in
+many countries, the role of non-O157 STEC strains as the
+cause of HUS, bloody diarrhoea and other gastrointestinal
+illnesses are increasingly being recognized (European Food
+Safety Authority 2010).
+
+It was observed that although four of the E. coli O157
+isolates carried genes for O157 rfbE, they were negative for
+
+gene encoding for H7 antigen (fliCh7). The present finding is
+consistent with the findings of Farzan et al. (2010) who
+detected E. coli O157 in 3 % samples from pigs in Canada,
+but no E. coli O157:H7 could be recovered from those
+samples.
+
+In this study, all O157 E. coli and non-O157 E. coli isolates
+had one or both Shiga toxin genes. A greater percentage
+(5.1 %) of STEC isolates in this study possessed both stx
+genes as against stx1 (4.6 %) and stx2 (3.7 %). Studies on
+the prevalence of STEC in pigs from France revealed that all
+(48) STEC isolates were non-O157:H7 and positive for stx2
+gene (Bouvet et al. 2002). Similarly, while conducting studies
+for determining the prevalence of STEC in swine in the USA,
+Fratamico et al. (2004) found that out of 687 faecal samples,
+70 % (484 of 687) were positive for Shiga toxin genes and
+54 % (370 of 687), 64 % (436 of 687) and 38 % (261 of 687)
+were positive for stx1, stx2 and both toxin genes, respectively.
+It has also been reported that only 8.8 % (283 of 3,218) of
+faecal E. coli isolates from piglets with edema disease in
+Germany were stx positive (Barth et al. 2007). Ateba and
+Bezuidenhout (2008) observed that out of 20 STEC isolates
+from pigs, none of the isolates were positive for stx genes, but
+the number of isolates positive for genes eae, hlyA and both
+eae and hlyA were 7, 18 and 5, respectively. The variations in
+the prevalence of these genes as observed in the present study
+could be due to geographical variations or differences in age
+of the animals as observed by Shaw et al. (2004).
+
+The main virulence factor of STEC contributing to patho-
+genicity is the production of Stx1, Stx2 or both, each including
+several variants (Growther et al. 2013). Strains producing Stx2
+alone or both Stx1 and Stx2 cause more serious illness than
+those producing only Stx1 (Jeong et al. 2010). The mode of
+toxic action starts with the toxin molecule binding to host cell
+receptors, facilitating transfer of the toxin into the cells. Once
+inside the host cell, the A-subunit of the toxin, which pos-
+sesses enzyme activity, interferes with host cell protein syn-
+thesis and induces an inflammatory response (Tesh 2012).
+
+Numerous investigators have underlined the strong associ-
+ation between the carriage of eae gene and the capacity of
+
+Trop Anim Health Prod
+
+STEC to cause severe human disease, especially HUS
+(Suardana et al. 2011). In the current study, the combination
+of eae and stx2 in addition to stx1 was detected in two (0.2 %)
+isolates. Therefore, the prevalence of STEC isolates with such
+gene combination in pigs in India may pose threat to human
+health as porcine STEC isolates frequently share virulence-
+associated traits, i.e. genes with human enterohaemorrhagic
+E. coli (EHEC) strains (Meng et al. 2014).
+
+The ability to produce one or more Shiga toxins is an
+important virulence characteristic of STEC (Growther et al.
+2013). However, production of Shiga toxins alone may not be
+sufficient for STEC to be pathogenic. Other virulence factors
+such as the intimin protein, the presence of a plasmid-encoded
+hemolysin or both, are important in the pathophysiology of
+hemorrhagic disease (Lorenz et al. 2013). As the isolates
+carrying stx, eae and ehxA, stx plus eae and stx plus ehxA
+have also been recovered in this study; these isolates can
+potentially cause disease and should be considered pathogenic
+to humans. In the present study, none of the STEC isolates was
+found to carry saa gene which corroborated with the findings
+of Sonntag et al. (2005).
+
+The number of STEC isolates in the present study which
+showed resistance to antimicrobials such as ampicillin, tetra-
+cycline, streptomycin, lincomycin, nalidixic acid, sulfadia-
+zine, penicillin, gentamicin, kanamycin and ceftriaxone were
+100, 99, 98, 97, 95, 94, 92, 88, 85 and 85, respectively. The
+present finding is in agreement with the findings of Choi et al.
+(2002) who also observed resistance of E. coli isolates from
+diarrhoeic pigs to several antimicrobials and they found that
+out of 285 E. coli isolates, the number of isolates resistant to
+ampicillin, tetracycline, lincomycin, sulfadiazine, penicillin
+and gentamicin were 249, 259, 254, 257, 258 and 191, re-
+spectively. Similarly, while evaluating the antimicrobial resis-
+tance of STEC isolates from pigs, Ojo et al. (2010) observed
+that out of 154 STEC isolates, the number of isolates resistant
+to ampicillin, tetracycline and streptomycin were 127, 116 and
+78, respectively. In the present study, 97 isolates showed
+multidrug resistance where eight resistance groups (R1 to
+R8) were observed. Similarly, Ojo et al. (2010) detected
+multidrug resistance STEC isolates from pigs in Nigeria
+where they observed 38 resistance groups (R1-R38, showing
+resistance against more than two antimicrobials), and the
+resistance pattern which the maximum number of isolates
+(16) exhibited was ampicillin, chloramphenicol, streptomycin
+and tetracycline followed by ampicillin, chloramphenicol,
+ciprofloxacin, enrofloxacin, nalidixic acid, neomycin,
+norfloxacin, streptomycin, and tetracycline (13 isolates). The
+findings of the present study also corroborated with the find-
+ings of Schroeder et al. (2002) who observed that highest
+number of STEC isolates (71 %, n=70) from pigs in compar-
+ison to humans (12 %, n=131) and cattle (20 %, n=133) were
+resistant to tetracycline, and the corresponding values for
+ampicillin were 24, 21 and 3 %, respectively. The emergence
+
+of resistant bacterial strains could be due to common use of
+these antimicrobials for the treatment of animal diseases in
+India. Antimicrobial resistant strains of STEC may have se-
+lective advantage over other bacterial flora of the gastrointes-
+tinal tract of animals thereby contributing to their predomi-
+nance and persistence in animals to establish a carrier status
+(Zhao et al. 2001). An increase in antimicrobial resistance in
+zoonotic bacterial isolates from animals, food and humans is a
+concern in veterinary and human medicine. The monitoring of
+antimicrobial resistance in enteric bacteria especially of ani-
+mal origin is important in tracking and controlling the emer-
+gence and dissemination of antimicrobial resistant bacterial
+strains in human and animal populations.
+
+As the pathogenicity of pathogenic E. coli can be deter-
+mined by virulence factor combinations (Döpfer et al. 2012)
+and we also observed different combinations of virulence
+factors in STEC isolates from pigs in this study, these isolates
+may be important potential pathogens of public health signif-
+icance. However, further studies should be undertaken to
+establish the role of pigs in transmitting this pathogen to
+human being.
+
+Conflict of interest The authors declare no potential conflicts of interest
+with respect to research, authorship and publication of this article.
+
+References
+
+Ateba, C.N. and Bezuidenhout, C.C., 2008. Characterisation of
+Escherichia coli O157 strains from humans, cattle and pigs in the
+North-West Province, South Africa, International Journal of Food
+Microbiology, 128, 181–188.
+
+Barman, N.N., Deb, R., Ramamurthy, T. R., Sharma, K., Borah, P., Wani,
+S. A. and Kalita, D., 2008. Molecular characterization of shiga like
+toxin-producing Escherichia coli (STEC) isolates from pigs oedema,
+Indian Journal of Medical Research, 127, 602–606
+
+Barth, S., Tscholshiew, A., Menge, C., Weiss, R., Baljer, G. and
+Bauerfeind, R., 2007. Virulence and fitness gene patterns of
+Shigatoxin-encoding Escherichia coli isolated from pigs with edema
+disease or diarrhea in Germany, Berl Munch Tierarztl Wochenschr,
+120, 307–316.
+
+Bouvet, J., Montet, M. P., Rossel, R., Le Roux, A., Bavai, C., Ray-
+Gueniot, S., Mazuy, C., Atrache, V. and Vernozy-Rozand, C.,
+2002. Effects of slaughter processes on pig carcass contamination
+by verotoxin producing Escherichia coli and E. coli O157:H7,
+International Journal of Food Microbiology, 77, 99–108
+
+Chase-Topping, M. E., Rosser, T., Allison, L.J., Courcier, E., Evans, J.,
+McKendrick, I. J. Pearce, M.C., Handel, I., Caprioli, A., Karch, H.,
+Hanson, M.F., Pollock, K.G., Locking, M.E., Woolhouse, M. E.,
+Matthews, L., Low, J. C. and Gally, D. L., 2012. Pathogenic poten-
+tial to humans of bovine Escherichia coli O26, Scotland, Emerging
+Infectious Diseases, 18, 439–48.
+
+Choi, C., Ham, H.J., Kwon, D., Kim, J., Cheon, D.S. and Min, K., 2002.
+Antimicrobial susceptibility of pathogenic Escherichia coli iso-
+lated from pigs in Korea, Journal of Veterinary Medical Science,
+64, 71–73.
+
+CLSI, 2008. Performance standards for antimicrobial disk and dilution
+susceptibility tests for bacteria isolated from animals; Approved
+
+standard-Third edition Vol 28 (8), CLSI document M31-A3, 1–99.
+Clinical and Laboratory Standards Institute, 940 West Valley Road,
+Wayne Pennsylvania, USA.
+
+Cowan, S.T. and Steel, J. K., 1993. Manual for identification of medical
+bacteria, 3rd ed. edited and rev.by Barrow, G.I. and Feltham, R.K.A.
+London, UK: The Syndics of the Cambridge University Press.
+
+De Boer, E. and Heuvelink, A.E., 2000. Methods for the detection and
+isolation of shiga toxin producing Escherichia coli, Journal of
+Applied Microbiology, 88, S133-143.
+
+Díaz-Sánchez, S., Sánchez, S., Herrera-León, S., Porrero, C., Blanco, J.,
+Dahbi, G., Blanco, J.E., Mora, A., Mateo, R., Hanning, I. and Vidal,
+D., 2013. Prevalence of Shiga toxin-producing Escherichia coli,
+Salmonella spp. and Campylobacter spp. in large game animals
+intended for consumption: relationship with management practices
+and livestock influence, Veterinary Microbiology, 163, 274–281.
+
+Döpfer, D., Geue, L., Schares, S., Mintel, B., Hoffmann, B. and Fischer,
+E.A., 2012. Dynamics of shiga-toxin producing Escherichia coli
+(STEC) and their virulence factors in cattle. Preventive Veterinary
+Medicine, 103, 22–30.
+
+Durand, F. C., Faqir, F., Ameilbonne, A., Rozand, C. and Martin, C. 2010.
+Fates of Acid-Resistant and Non-Acid-Resistant Shiga Toxin-
+Producing Escherichia coli Strains in Ruminant Digestive
+Contents in the Absence and Presence of Probiotics, Applied and
+Environmental Microbiology, 75, 640–647.
+
+Eriksson, E., Aspan, A., Gunnarsson, A., Borch, E. and Nerbrink, E.,
+2003. Verocytotoxin producing Escherichia coli O157:H7 in the
+Swedish pig population, Veterinary Record, 152, 712–717.
+
+European Food Safety Authority, 2010. The community summary report
+on trends and sources of zoonoses and zoonotic agents in the
+European Union in 2008, European Food Safety Authority
+Journal, 10, 1496.
+
+Fairbrother, J. M. and Nadeau, E., 2006. Escherichia coli: on farm
+contamination of animals, Revue scientifique et technique (OIE),
+25, 555–569.
+
+Farzan, A., Friendship, R. M., Cook, A. and Pollari, F., 2010. Occurrence
+of Salmonella, Campylobacter, Yersinia enterocolitica, Escherichia
+coli O157 and Listeria monocytogenes in Swine, Zoonoses and
+Public Health, 57, 388–396.
+
+Fratamico, P.M., Bagi, L. K., Bush, E. L. and Solow, B. T., 2004.
+Prevalence and Characterization of Shiga Toxin-Producing
+Escherichia coli in Swine Feces Recovered in the National Animal
+Health Monitoring System’s Swine 2000 Study, Applied and
+Environmental Microbiology, 70, 7173–7178.
+
+García-Sánchez, A., Sánchez, S., Rubio, R., Pereira, G., Alonso, J.M.,
+Hermoso de Mendoza, J. and Rey, J., 2007. Presence of Shiga toxin-
+producing E. coli O157:H7 in a survey of wild artiodactyls,
+Veterinary Microbiology, 121, 373–377.
+
+Gautam, R., Bani-Yaghoub, M., Neill, W.H., Döpfer, D., Kaspar, C. and
+Ivanek, R., 2011. Modeling the effect of seasonal variation in
+ambient temperature on the transmission dynamics of a pathogen
+with a free-living stage: example of Escherichia coli O157:H7 in a
+dairy herd, Preventive Veterinary Medicine, 102, 10–21.
+
+Growther, L., Lullu, P.K., Sukirtha, K. and Niren Andrew, S., 2013.
+Biotyping, molecular characterization and screening for antibacterial
+phytochemicals against shiga toxin producing E. coli from cattle,
+Archives of Applied Science Research, 5, 178–182.
+
+Gyles, C.L., 2007. Shiga toxin-producing Escherichia coli: an overview,
+
+Journal of Animal Science, 85, E45–62.
+
+Helmy, O.M., Ragab, Y.M. and Hussein, M. M. M., 2013. Multiplex
+polymerase chain reaction (PCR) for the detection of diarrheagenic
+Escherichia coli and Shigella directly from stool, African Journal of
+Microbiology Research, 7, 4368–4372.
+
+Hussein, H.S., 2007. Prevalence and pathogenicity of Shiga toxin-
+producing Escherichia coli in beef cattle and their products,
+Journal of Animal Science, 85, E63-E72.
+
+Trop Anim Health Prod
+
+Jeong, K., Tzipori, S. and Sheoran, A. S., 2010. Shiga Toxin 2–Specific
+but Not Shiga Toxin 1–Specific Human Monoclonal Antibody
+Protects Piglets Challenged with Enterohemorrhagic Escherichia
+coli Producing Shiga Toxin 1 and Shiga Toxin 2, The Journal of
+Infectious Diseases, 201,1081–1083.
+
+Karmali, M.A., Gannon, V. and Sargeant, J. M., 2010. Verocytotoxin-
+producing Escherichia coli (VTEC), Veterinary Microbiology, 140,
+360–370.
+
+Kaufmann, M., Zweifel, C., Blanco, M., Blanco, J. E., Blanco, J., Beutin,
+L. and Stephan, R., 2006. Escherichia coli O157 and non-O157
+Shigatoxin-producing Escherichia coli in fecal samples of finished
+pigs at slaughter in Switzerland, Journal of Food Protection, 69,
+260–266.
+
+Keen, J.E., Wittum, T.E., Dunn, J. R., Bono, J.L. and Durso, L.M., 2006.
+Shiga-toxigenic Escherichia coli O157 in agricultural fair livestock,
+United States, Emerging Infectious Diseases, 12, 780–786.
+
+Livestock Census., 2007. 18th Livestock Census. Department of Animal
+
+Husbandry and Dairying, Government of India.
+
+Lorenz, S.C., Son, I., Maounounen-Laasri, A., Lin, A., Fischer, M. and
+Kase, J. A., 2013. Prevalence of Hemolysin Genes and Comparison
+of ehxA Subtype Patterns in Shiga Toxin-Producing Escherichia
+coli (STEC) and Non- STEC Strains from Clinical, Food, and
+Animal Sources, Applied and Environmental Microbiology, 79,
+6301– 6311.
+
+Meng, Q., Bai, Xiangning., Zhao, A., Lan, R., Du, H., Wang, T., Shi, C.,
+Yuan, X., Bai, Xuemei, Ji, S., Jin, D., Yu, B., Wang, Y., Sun, H., Liu,
+K., Xu, J. and Xiong, Y., 2014. Characterization of Shiga toxin-
+producing Escherichia coli isolated from healthy pigs in China,
+BMC Microbiology,14:5.
+
+Mohlatlole, R.P., Madoroba, E., Muchadeyi, F.C., Chimonyo, M.,
+Kanengoni, A.T. and Dzomba, E. F., 2013. Virulence profiles of
+enterotoxigenic, shiga toxin and enteroaggregative Escherichia coli
+in South African pigs, Tropical Animal Health and Production, 45,
+1399–405
+
+Moredo, F.A., Cappuccio, J.A., Insarralde, L., Perfumo, C.J., Quiroga,
+M.A. and Leotta, G.A., 2012. Genotypic characterization of toxi-
+genic Escherichia coli isolated from pigs with postweaning diarrhea
+(PWD) and edema disease (ED), Revista Argentina de
+Microbiología, 44, 85–88.
+
+Nakazawa, M., Akiba, M. and Sameshima, T., 1999. Swine as a Potential
+Reservoir of Shiga Toxin-Producing Escherichia coli O157:H7 in
+Japan, Emerging Infectious Diseases, 5, 833.
+
+OIE, 2008. Manual of Diagnostic Tests and Vaccines for Terrestrial
+Animals, Sixth Edition, edited by the OIE Biological Standards
+Commission and adopted by the International Committee of the
+OIE, pp.1294.
+
+Ojo, O.E., Ajuwape, A.T.P., Otesile, E.B., Owoade, A.A., Oyekunle,
+M.A. and Adetosoye, A.I., 2010. Potentially zoonotic shiga toxin-
+producing Escherichia coli serogroups in the faeces and meat of
+food-producing animals in Ibadan, Nigeria, International Journal of
+Food Microbiology, 142, 214–221.
+
+Rey, J., Blanco, J. E., Blanco, M., Mora, A., Dahbi, G., Alonso, J. M.,
+Hermoso, M., Hermoso, J., Alonso, M. P., Usera, M.A., González,
+E. A., Bernárdez, M. I. and Blanco, J., 2003. Serotypes, phage types
+and virulence genes of Shiga-producing Escherichia coli isolated
+from sheep in Spain, Veterinary Microbiology, 94, 47–56.
+
+Sánchez, S., García-Sánchez, A., Martínez, R., Blanco, J., Blanco, J.E.,
+Blanco, M., Dahbi, G., Mora, A., Hermoso de Mendoza, J., Alonso
+J.M. and Rey, J., 2009. Detection and characterisation of Shiga
+toxin-producing Escherichia coli other than Escherichia coli
+O157:H7 in wild ruminants, Veterinary Journal, 180, 384–388.
+
+Schmidt, H., Beutin, L. and Karch, H., 1995. Molecular analysis of the
+plasmid-encoded hemolysin of Escherichia coli O157:H7 strain
+EDL 933, Infection and Immunity, 63, 1055–1061.
+
+Schroeder, C. M., Zhao, C., DebRoy, C., Torcolini, J. and Zhao, S., 2002.
+Antimicrobial resistance of Escherichia coli O157 isolated from
+
+Trop Anim Health Prod
+
+humans, cattle, swine and food, Applied and Environmental
+Microbiology, 68, 576–581.
+
+Sehgal, R., Kumar, Y. and Kumar, S., 2008. Prevalence and geographical
+distribution of Escherichia coli O157 in India: a 10-year survey,
+Transactions of the Royal Society of Tropical Medicine and
+Hygiene, 102, 380—383.
+
+Shaw, D.J., Jenkins, C., Pearce, M.C., Cheasty, T., Gunn, G.J., Dougan,
+G., Smith, H.R., Woolhouse, M.E. and Frankel, G., 2004. Shedding
+patterns of verocytotoxin-producing Escherichia coli strains in a
+cohort of calves and their dams on a Scottish beef farm, Applied
+and Environmental Microbiology, 70: 7456–7465.
+
+Sonntag, A.K., Bielaszewska, M., Mellmann, A., Dierksen, N.,
+Schierack, P., Wieler, L.H., Schmidt, M.A. and Karch, H., 2005.
+Shiga Toxin 2e-Producing Escherichia coli Isolates from Humans
+and Pigs Differ in Their Virulence Profiles and Interactions with
+Intestinal Epithelial Cells, Applied and Environmental
+Microbiology, 71, 8855–8863.
+
+Suardana, W., Artama, W.T., Asmara, W. and Daryono, B.S., 2011.
+Adherence pheno-genotypic of Escherichia coli O157:H7 isolated
+from beef, feces of cattle, chicken and human, Indonesian Journal of
+Biotechnology, 16, 46–52.
+
+Tesh, V. L., 2012. Activation of cell stress response pathways by Shiga
+
+toxins, Cellular Microbiology, 14, 1–9.
+
+von Muffling, T., Smaijlovic, M., Nowak, B., Sammet, K., Bulte, M. and
+Klein, G., 2007. Preliminary study of certain serotypes, genetic and
+antimicrobial resistance profiles of verotoxigenic Escherichia coli
+(VTEC) isolated in Bosnia and Germany from cattle or pigs and their
+products, International Journal of Food Microbiology, 117, 185–191.
+Vu Khac, H., Holoda, E., Pilipcinec, E., Blanco, M., Blanco, J. E., Mora,
+A., Dahbi, G., López, C., González, E. A. and Blanco, J. (2006)
+Serotypes, virulence genes, and PFGE profiles of Escherichia coli
+isolated from pigs with postweaning diarrhoea in Slovakia, BMC
+Veterinary Research 2: 10.
+
+Wells, J.E., Shackelford, S.D., Berry, E.D., Kalchayanand, N., Bosilevac,
+J.M. and Wheeler, T.L., 2011. Impact of Reducing the Level of Wet
+Distillers Grains Fed to Cattle Prior to Harvest on Prevalence and
+Levels of Escherichia coli O157:H7 in Feces and on Hides, Journal
+of Food Protection, 74, 1611–1617.
+
+Witold, A.F. and Carolyn, J. H., 2011. Escherichia coli O157:H7: Animal
+Reservoir and Sources of Human Infection, Foodborne Pathogens
+and Disease, 8, 465–487.
+
+Zhao, S., White, D.G., Ge, B., Ayers, S., Friedman, S., English, L.,
+Wagner, D., Gaines, S. and Meng, J., 2001. Identification and
+characterization of integron-mediated antibiotic resistance among
+shiga toxin-producing Escherichia coli isolates. Applied
+Environmental Microbiology, 67, 1556–1564.
+
+

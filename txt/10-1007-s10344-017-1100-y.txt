@@ -1,0 +1,1146 @@
+Eur J Wildl Res  
+DOI 10.1007/s10344-017-1100-y
+
+ORIGINAL ARTICLE
+
+Assessment of three indigenous South African herbivores
+as potential reservoirs and vectors of antibiotic-resistant
+Escherichia coli
+
+Tracy L.B. King 1 & Stefan Schmidt 1
+
+Received: 18 July 2016 /Revised: 17 March 2017 /Accepted: 5 April 2017
+# Springer-Verlag Berlin Heidelberg 2017
+
+Abstract Due to limited data available on the presence of
+antibiotic-resistant (ABR) bacteria in faeces of wild herbi-
+vores in South Africa, this study analysed resistance patterns
+for Escherichia coli isolates from wildebeest, zebra and gi-
+raffe in addition to pet and farm pig faeces. Total and faecal
+coliforms and E. coli were quantified in faecal matter using a
+most probable number (MPN) guideline procedure. Antibiotic
+resistance profiles against 12 selected antibiotics representing
+seven classes were determined for 30 randomly selected E.
+coli isolates from each animal using the European Committee
+on Antimicrobial Susceptibility Testing (EUCAST) disk dif-
+fusion procedure. While log10 MPN values per gram of animal
+faeces for total/faecal coliforms ranged from 4.51/4.11 to
+5.70/5.50, the E. coli MPN values were in a range of 3.43–
+5.14. The proportion of ABR E. coli isolates ranged from 43%
+(giraffe) to 93% (zebra). About 47% of E. coli isolates from
+zebra faeces were categorized as multidrug-resistant (MDR),
+while for wildebeest and giraffe, no MDR isolates were de-
+tected. In comparison, 10% of E. coli isolates from pet pig and
+about 7% from farm pig faeces were categorized as MDR.
+Although most MDR isolates were resistant to at least one
+β-lactam antibiotic, only one MDR isolate from farm pig fae-
+ces was resistant to both norfloxacin and ciprofloxacin, the
+two fluoroquinolones tested. However, no resistance was de-
+tected to the tested carbapenems and tigecycline. The results
+
+Electronic supplementary material The online version of this article
+(doi:10.1007/s10344-017-1100-y) contains supplementary material,
+which is available to authorized users.
+
+* Stefan Schmidt
+
+schmidts@ukzn.ac.za
+
+1 Discipline of Microbiology, School of Life Sciences, University of
+
+KwaZulu-Natal, Private Bag X01, Pietermaritzburg 3209,
+South Africa
+
+of this study indicate that indigenous South African herbi-
+vores may serve as potential reservoirs and vectors for the
+dissemination of ABR E. coli strains.
+
+Keywords Escherichia coli . South Africa . Faeces .
+Indigenous herbivores . Antibiotic resistance .
+Multidrug resistance
+
+Introduction
+
+The extensive use of antibiotic compounds in human and vet-
+erinary medicine has led to the presence of antibiotic residues
+in food and the environment (Welch 1957; Kümmerer 2003;
+Kemper 2008; Martinez 2009). Consequently, recent research
+has focused on the transfer and detection of antibiotic-resistant
+microorganisms and their genes in the environment (Sørum
+and L’Abée-Lund 2002; Garcia-Alvarez et al. 2012). Only
+recently, the World Health Organization (WHO), the
+European Food and Safety Authority (EFSA) and even the
+President of the USA highlighted antibiotic resistance as a
+serious global health problem (White House 2014; WHO
+2014; EFSA 2017). As zoonotic bacteria can acquire resis-
+tance to antibiotics typically utilized in human and veterinary
+medicine, farm animals can serve as a potential reservoir for
+antibiotic-resistant (ABR) bacterial strains as well as potential
+vectors for transferring such resistant bacteria or their genes
+into the environment (Sørum and L’Abée-Lund 2002;
+Silbergeld et al. 2008; EFSA 2017). Zoonotic bacteria present-
+ing resistance to antibiotics critical in human medicine such as
+fluoroquinolones and third and fourth generation cephalospo-
+rins are of particular concern, as they may compromise the
+effective treatment of infections in humans (Hammerum and
+Heuer 2009; WHO 2016). Humans can acquire infections
+with such antibiotic-resistant zoonotic bacteria either via
+
+(
+2
+0
+1
+7
+)
+ 
+6
+3
+:
+4
+4
+ 
+Page 2 of 8
+
+Eur J Wildl Res  
+
+contact with animals or through ingestion of contaminated
+food products of animal and non-animal origin.
+
+Escherichia coli is an intestinal bacterium commonly asso-
+ciated with the digestive system of animals and therefore con-
+sidered a useful hygiene indicator (Leclerc et al. 2001).
+However, pathogenic strains of E. coli can be a serious threat
+to public health as was observed in 2011 and 2016, when
+Shiga-toxin-producing strains of E. coli caused outbreaks in
+European countries, ultimately attributed to the consumption
+of sprouts made from contaminated fenugreek seeds (EFSA
+2011) and soft cheese (Peron et al. 2016). The pathogenic
+E. coli strain causing the 2011 outbreak exhibited multidrug
+resistance against ampicillin, ceftriaxone, streptomycin and
+tetracycline (King et al. 2012), further highlighting the prob-
+lem of multidrug-resistant (MDR) E. coli.
+
+Antibiotic usage in the diets of food animals as prophylac-
+tic or therapeutic means can promote the horizontal transfer of
+antibiotic resistance genes (Silbergeld et al. 2008; Wellington
+et al. 2013), which might even take place in the absence of
+selective pressure imposed by the use of antibiotics (Allen
+et al. 2010). Human-livestock contact taking place in rural
+areas in developing countries might promote exposure to
+and transfer of such zoonotic bacteria due to the close contact
+between the population and livestock (Rwego et al. 2008;
+Klous et al. 2016). Additionally, studies in South Africa by
+Schellack et al. (2011) indicated that social issues including
+widespread poverty and lack of access to safe potable water
+and proper sanitation might stimulate the dissemination of
+MDR bacterial strains. However, ABR bacteria are even
+found in the faeces of wild animals, ranging from primates
+(Rolland et al. 1985) and rodents (Guenther et al. 2010) to
+wild boars (Literak et al. 2010) and various wild birds
+(Costa et al. 2008), with even extended spectrum β-
+lactamase (ESBL) containing E. coli being detected (Literak
+et al. 2010). It was assumed that the presence of such ABR
+bacteria is most likely due to anthropogenic activities or con-
+tact with anthropogenic waste material; for example, seagulls
+that scavenge food wastes (Cole et al. 2005; Radhouani et al.
+2009) or wild baboons feeding on human refuse (Rolland et al.
+1985). The ribotyping patterns of the majority of E. coli iso-
+lates from seagulls in New Hampshire (USA) had a ≥90%
+similarity to those of E. coli strains isolated from proximate
+wastewater treatment plants and landfill sites (Nelson et al.
+2008), suggesting a potential for transfer of faecal bacteria to
+recreational areas frequented by humans. Moreover, consider-
+ing the ability of long distance migration, birds can act as
+efficient transporters for the dissemination of antibiotic-
+resistant bacteria and mirror the spectrum of such bacteria
+found in humans and human waste materials (Radhouani
+et al. 2009).
+
+Antibiotic resistance profiles of E. coli isolates from vari-
+ous African wild animals—ranging from buffalo, eland and
+primates to the smaller mongoose and warthog—have been
+
+reported (Rolland et al. 1985; Skurnik et al. 2006; Pesapane
+et al. 2013; Jobbins and Alexander 2015; Katakweba et al.
+2015). However, to the best of our knowledge, no information
+on the resistance profiles of E. coli from the three herbivores
+zebra, giraffe and wildebeest is available for KwaZulu-Natal,
+South Africa. To estimate the extent of antibiotic resistance
+among bacteria associated with these herbivores, which might
+serve as potential reservoirs and vectors, surveillance is nec-
+essary. Therefore, this study reports initial screening data
+pertaining to antibiotic resistance profiles of E. coli isolates
+from the three selected indigenous herbivores zebra, giraffe
+and wildebeest, in comparison to farm and pet pig.
+
+Materials and methods
+
+Sample collection
+
+Faecal samples (pooled from at least three faecal samples per
+animal) of giraffe (Giraffa camelopardalis), zebra (Equus
+burchellii) and wildebeest (Connochaetes taurinus) were ob-
+tained from the Bisley Valley Nature Reserve (S29°66′18.99″
+E30°39′10.95″), while pig (Sus scrofa domesticus) faeces
+were collected from a commercial pig farm in KwaZulu-
+Natal and a private household (pig kept as a pet) situated in
+Pietermaritzburg (KwaZulu-Natal, South Africa). All samples
+were collected between February and May 2015 using sterile,
+labelled plastic bags and immediately transferred on ice to the
+laboratory with sample analysis taking place within 12 h.
+
+Quantification of total and faecal coliforms and E. coli
+from faecal samples
+
+Enumeration of total and faecal coliforms as well as E. coli
+was carried out in a single analysis for each of the five faecal
+samples according to the most probable number (MPN) guide-
+line procedure MFHPB-19 (Health Canada 2002).
+Confirmation of presumptive E. coli isolates was done via
+biochemical confirmation (GIMViC) and by PCR as de-
+scribed previously (Gemmell and Schmidt, 2012). For the
+PCR-based detection of the glutamate decarboxylase A
+(gadA) gene, cells were harvested by centrifugation
+(13,500×g, 5 min) from 1 ml of overnight cultures of pre-
+sumptive E. coli isolates (nutrient broth, 35 °C, 120 rpm),
+re-suspended in 100 μl sterile water followed by DNA extrac-
+tion using a simple freeze and thaw technique (Gemmell and
+Schmidt 2012). The amplification reactions, using primers
+reported by Kim et al. (2006), were done in 25 μl volumes,
+containing 1.5 μl template DNA, 0.5 μl of each primer
+(10 μM, Inqaba), 12.5 μl 2× DreamTaq Green PCR Master
+Mix (Thermo Scientific) and nuclease-free water (KAPA),
+with the following cycling conditions (Labnet MultiGene II
+thermocycler): initial denaturation at 94 °C for 2 min followed
+
+ 
+4
+4
+ 
+(
+2
+0
+1
+7
+)
+ 
+6
+3
+:
+4
+4
+ 
+Eur J Wildl Res  
+
+Page 3 of 8  
+
+by 25 cycles at 94 °C for 30 s, annealing at 55 °C for 30 s,
+72 °C for 1 min and a final extension cycle at 72 °C for 7 min.
+PCR products were analysed by electrophoresis on 1% (w/v)
+agarose gel with addition of SYBR Safe stain (Life technolo-
+gies) and visualized under UV light using a Gbox Chemi
+XRQ system (Syngene) and GeneSnap software. A ready-to-
+use 100 bp DNA ladder (KAPA) was used as size marker, and
+E. coli ATCC 8739 served as positive PCR control with
+Salmonella Typhimurium ATCC 14028 and sterile Milli-Q
+water employed as negative controls.
+
+Antibiotic susceptibility disk diffusion assay
+
+The disk diffusion method (version 5, 2015) from the
+European Committee on Antimicrobial Susceptibility
+Testing (EUCAST 2015) was used to assess the antibi-
+otic resistance patterns of E. coli isolates. The following
+12 antibiotics were tested employing ready-to-use 6-mm
+disks (Oxoid): ampicillin (AMP 10 μg), amoxicillin-
+clavulanic acid (AMC 20/10 μg), cefotaxime (CTX
+5 μg), ceftazidime (CAZ 10 μg), ertapenem (ERT
+10 μg), meropenem (MEM 10 μg), aztreonam (ATM
+30 μg), ciprofloxacin (CIP 5 μg), norfloxacin (NOR
+10 μg), gentamicin (GEN 10 μg),
+tobramycin (TOB
+10 μg) and tigecycline (TIG 15 μg). Antibiotics utilized
+in this study were categorized into classes based on
+therapeutic relevance, as suggested by Magiorakos
+et al. (2012). For the disk diffusion assay, suspensions
+from each E. coli
+isolate were prepared from nutrient
+broth cultures after incubation at 35 °C (120 rpm,
+14 h) and adjusted to approximately 2 × 108 cells per
+ml (corresponding to approximately 0.5 McFarland stan-
+dard suggested by EUCAST) using a Helber-type bac-
+terial counting chamber (Marienfeld, Germany). One
+hundred microlitres of cell suspension was spread plated
+onto Mueller-Hinton agar (Oxoid) plates containing
+25 ml of agar per sterile 90 mm Petri dish. Four differ-
+ent antibiotic test disks (adjusted for approximately 1 h
+to ambient temperature) were firmly placed equidistantly
+onto the agar surface. Plates were sealed using Parafilm
+and incubated inverted in stacks of two at 35 °C for
+20 h as specified (EUCAST 2015). Inhibition zones
+were measured to the nearest millimetre using digital
+Vernier callipers (Marshall Tools, India) and analysed
+using the EUCAST antibiotic breakpoint
+tables
+(EUCAST 2016). All isolates were analysed in duplicate
+against all 12 antibiotics.
+
+Chemicals
+
+Unless otherwise stated, all chemicals used were of the highest
+purity commercially available.
+
+Results
+
+In this study, both total and faecal coliforms as well as E. coli
+were quantified in faeces collected from zebra, wildebeest,
+giraffe and farm and pet pig. The MPN values of total coli-
+forms for wild herbivores were in the range from 4.51 to 5.36
+log10 MPN/g, while values for pig faeces were slightly higher
+at 5.50 and 5.70 log10 MPN/g (Table 1). Faecal coliform levels
+were lower than the corresponding total coliform values, rang-
+ing from 4.11 (wildebeest) to 5.50 log10 MPN/g (pet pig)
+(Table 1). The log10 MPN/g values for E. coli in zebra, wilde-
+beest and giraffe faeces were 4.69, 3.43 and 4.89 log10 MPN/
+g, respectively, while the values for pet and farm pig faeces
+were slightly higher at 5.11 and 5.14 log10 MPN/g (Table 1).
+From each of the five tested animals, 30 randomly selected
+confirmed faecal E. coli isolates were further analysed for
+their antibiotic resistance patterns. In total, 106 out of 150
+selected E. coli isolates from all animal faeces were resistant
+to at least one of the 12 antibiotics tested (Tables S1 and 2).
+The highest proportion of E. coli isolates showing resistance
+to at least one antibiotic was found in zebra faeces (93%)
+followed by isolates from pet pig and wildebeest faecal sam-
+ples, with 90 and 80% resistance. In contrast, isolates from
+farm pig and giraffe showed the lowest proportion of resis-
+tances with 47 and 43%, respectively (Table 2). More than
+half (56.6%) of all 106 E. coli isolates from wild herbivore
+and pig faeces presenting antibiotic resistance possessed only
+one resistance, followed by about 23% (24/106 isolates) with
+a combination of two antibiotic resistances. The remaining 22
+E. coli isolates showed resistances ranging from three (19
+isolates) up to even five (one isolate) antibiotic compounds.
+With few exceptions (four isolates), all antibiotic-resistant
+(ABR) E. coli isolates possessed resistance against at least
+one of the following tested β-lactam antibiotics: ampicillin,
+amoxicillin-clavulanic acid, ceftazidime, cefotaxime or aztre-
+onam (Table S1). Of all antibiotics tested, amoxicillin-
+clavulanic acid was the least effective as a large proportion
+(94 isolates) of the ABR E. coli isolates obtained from all five
+animals showed resistance against this compound (Fig. 1).
+However, no resistances were observed for the two tested
+carbapenems ertapenem and meropenem, the cephalosporin
+cefotaxime and the glycylcycline tigecycline (Table S1).
+Interestingly, only six out of all 106 ABR E. coli isolates were
+resistant to ampicillin, 50% of which originated from farm pig
+faeces (Table S1). The proportion of ceftazidime-resistant
+E. coli isolates from zebra faeces was clearly higher than that
+observed in all other animals (Fig. 1). Among the non-β-
+lactam antibiotics tested, the least effective was the aminogly-
+coside compound tobramycin and, to a lesser degree, genta-
+micin (Fig. 1). Noticeably, one out of all 150 E. coli isolates
+analysed—from farm pig faeces—presented resistance to both
+ciprofloxacin and norfloxacin, the two fluoroquinolones
+tested.
+
+(
+2
+0
+1
+7
+)
+ 
+6
+3
+:
+4
+4
+ 
+4
+4
+ 
+Page 4 of 8
+
+Eur J Wildl Res  
+
+Table 1 Quantification of total and faecal coliforms and Escherichia coli (with 95% confidence intervals) in pooled faecal samples obtained from wild
+herbivores and pet and farm pigs
+
+Source of faeces
+
+Total coliforms
+(log10 MPN/g)
+
+95% CI
+(lower/upper limit)
+
+Faecal coliforms
+(log10 MPN/g)
+
+95% CI
+(lower/upper limit)
+
+E. coli
+(log10 MPN/g)
+
+95% CI
+(lower/upper limit)
+
+Zebra
+Wildebeest
+Giraffe
+Farm pig
+Pet pig
+
+5.11
+4.51
+5.36
+5.70
+5.50
+
+4.66 / 5.57
+4.04 / 4.99
+4.89 / 5.83
+5.19 / 6.20
+5.03 / 5.97
+
+4.89
+4.11
+5.11
+5.34
+5.50
+
+4.40 / 5.38
+3.65 / 4.56
+4.66 / 5.57
+4.95 / 5.72
+5.03 / 5.97
+
+4.69
+3.43
+4.89
+5.14
+5.11
+
+4.19 / 5.19
+3.06 / 3.80
+4.40 / 5.38
+4.74 / 5.54
+4.66 / 5.57
+
+The prevalence of multidrug-resistant (MDR) E. coli iso-
+lates—those showing resistance to antibiotics from at least
+three different classes—was considerably lower with 19
+MDR isolates detected among the 150 E. coli isolates
+analysed (Table 2). Approximately 73% (14/19) of all these
+MDR isolates originated from zebra faeces (hence 47% of the
+30 zebra E. coli isolates), while the analysis of giraffe and
+wildebeest faeces resulted in no E. coli isolates with multiple
+drug resistance. The analysis of pet pig faeces established 10%
+(3 out of 30) MDR isolates. Interestingly, the proportion of
+MDR E. coli isolates obtained from farmed pig was also in the
+lower range at about 7% (2 out of 30). The phenotypic resis-
+tance profiles for all MDR E. coli isolates are summarized in
+Table 3. Nearly all MDR E. coli isolates (18 out of 19) fea-
+tured resistance against the antibiotic amoxicillin-clavulanic
+acid, and 11 isolates (8 isolates from zebra and 3 from pet
+pig) showed the same resistance profile of amoxicillin-
+clavulanic acid, ceftazidime and tobramycin (AMC-CAZ-
+TOB). One MDR E. coli isolate from farm pig faeces was
+resistant to five different antibiotics: amoxicillin-clavulanic
+acid, ampicillin, aztreonam, norfloxacin and ciprofloxacin
+(AMC-AMP-ATM-NOR-CIP). Moreover, this was the only
+E. coli isolate displaying resistance to both fluoroquinolones
+tested.
+
+However, high levels of intermediate resistance were ob-
+served for the aminoglycoside antibiotics gentamicin (136
+isolates) and tobramycin (116 isolates), as well as for the β-
+lactam antibiotics ceftazidime (101 isolates) and aztreonam
+
+(98 isolates) (Table S1). In contrast to this, only one E. coli
+isolate—from wildebeest faeces—presented an intermediate
+resistance phenotype for tigecycline. In addition, less than
+10 isolates showed an intermediate phenotype for the carba-
+penem antibiotic meropenem and the fluoroquinolones
+norfloxacin and ciprofloxacin. As the EUCAST breakpoint
+tables (2016) do not provide an intermediate resistance cate-
+gory for ampicillin and amoxicillin-clavulanic acid, interme-
+diate resistance phenotypes were not established for these two
+antibiotics.
+
+Discussion
+
+As expected on microbiological grounds, the MPN values
+established for faeces from all five animals were higher for
+total and faecal coliforms than for E. coli. The level of E. coli
+in pet and farm pig faeces in the current study was similar to
+counts reported for E. coli in fresh pig slurry from a Bulgarian
+pig farm (Petkov et al. 2006) and somewhat higher than the
+numbers of E. coli established for faeces of zebra, giraffe and
+wildebeest (Table 1). A similar scenario was observed in
+France by Smati et al. (2015) when comparing E. coli counts
+in faeces of wild and domesticated animals, which was
+attributed to the variation in diet. Katakweba et al. (2015)
+quantified in Tanzania E. coli in zebra faeces as 4.25 log10
+CFU/g and in wildebeest faeces as 4.60 log10 CFU/g, which
+
+Table 2 Prevalence of ABR and
+MDR Escherichia coli strains
+isolated from faeces of wild
+herbivores and pet and farm pigs
+
+Animal faeces
+
+Numbera
+
+Antibiotic resistant (ABR)b
+
+Multidrug resistant (MDR)c
+
+Zebra
+Wildebeest
+Giraffe
+Pet pig
+Farm pig
+Total
+
+30
+30
+30
+30
+30
+150
+
+93% (28/30)
+80% (24/30)
+43% (13/30)
+90% (27/30)
+47% (14/30)
+71% (106/150)
+
+47% (14/30)
+0% (0/30)
+0% (0/30)
+10% (3/30)
+7% (2/30)
+13% (19/150)
+
+a Number of E. coli isolates analysed
+b % of E. coli isolates resistant to one or more antibiotics
+c % of E. coli isolates resistant to three or more antibiotics representing at least three different antibiotic classes
+
+ 
+4
+4
+ 
+(
+2
+0
+1
+7
+)
+ 
+6
+3
+:
+4
+4
+ 
+Page 5 of 8  
+
+Eur J Wildl Res  
+
+Fig. 1 Incidence of resistances
+observed against selected
+antibiotics for Escherichia coli
+isolates from zebra, giraffe,
+wildebeest and farm and pet pig
+faeces. Antibiotics for which no
+resistance was detected
+(cefotaxime, ertapenem,
+meropenem and tigecycline) are
+not shown. AMP ampicillin, AMC
+amoxicillin-clavulanic acid, CAZ
+ceftazidime, ATM aztreonam,
+NOR norfloxacin, CIP
+ciprofloxacin, GEN gentamicin,
+TOB tobramycin
+
+is similar to the values obtained for the same animals in the
+current study.
+
+The overall degree of resistance to one or more of the 12
+tested antibiotics observed in the current study was 71%. It
+ranged from 43% for faecal E. coli isolates from giraffe to
+93% for isolates from zebra. Among these faecal E. coli iso-
+lates from the five animals, only a small proportion exhibited
+ampicillin resistance (6/150). Similarly, less than 10%
+ampicillin-resistant E. coli were reported for cattle in Serbia
+(Knezevic and Petrovic 2008), while much higher percentage
+values were reported for ampicillin-resistant faecal E. coli iso-
+lates from wildebeest (58.8%) and zebra (47.6%) in Tanzania
+(Katakweba et al. 2015).
+
+Table 3 Antibiotic resistance profiles detected for all MDR
+Escherichia coli isolates from faeces of wild herbivores and pet and
+farm pigs
+
+Host species
+(number of MDR isolates)
+
+Phenotypic multidrug
+resistance profile
+
+Zebra (8); Pet pig (3)
+Zebra (2)
+Zebra (1)
+Zebra (1)
+Zebra (1)
+Zebra (1)
+Farm pig (1)
+Farm pig (1)
+
+AMC-CAZ-TOB
+AMC-ATM-TOB
+AMC-ATM-CAZ
+ATM-CAZ-TOB
+AMC-CAZ-GEN
+AMC-ATM-CAZ-TOB
+AMC-AMP-CAZ-GEN
+AMC-AMP-ATM-NOR-CIP
+
+AMP ampicillin, AMC amoxicillin-clavulanic acid, CAZ ceftazidime,
+ATM aztreonam, NOR norfloxacin, CIP ciprofloxacin, GEN gentamicin,
+TOB tobramycin
+
+In contrast to ampicillin resistance, the degree of
+amoxicillin-clavulanic acid resistance among E. coli isolates
+from zebra and wildebeest in the current study was at >70%
+much higher than for E. coli isolates from wildebeest (14.7%)
+and zebra (11.9%) in Tanzania (Katakweba et al. 2015).
+Similarly, amoxicillin-clavulanic acid resistance for E. coli
+isolates from pet and farm pig in the current study amounted
+to 80 and 43%, respectively, while for pets and farm pigs from
+Spain, only 6% of isolates were resistant to the same antibiotic
+(Sáenz et al. 2001). Resistance levels for a given antibiotic
+exceeding 70% are considered as extremely high for those
+antibiotics considered important in human and veterinary
+medicine (EFSA, 2017).
+
+Antibiotic-resistant (ABR) E. coli isolates were identified
+for the cephalosporin ceftazidime, ranging from about 7%
+(wildebeest) to 53% (zebra) of isolates. Similar to pets and
+farm pigs analysed in Spain (Sáenz et al. 2001), no resistance
+was detected in the current study for the cephalosporin cefo-
+taxime, although such resistance was reported for E. coli iso-
+lates from herbivores in Tanzania (Katakweba et al. 2015).
+About 21% of all E. coli isolates analysed in the current study
+displayed intermediate resistance to cefotaxime and about
+67% of the isolates for ceftazidime. This is concerning as third
+generation cephalosporins are considered as critically impor-
+tant antibiotics by the WHO (2016), and the EUCAST expert
+rules suggest categorizing certain intermediate resistances as
+resistant to avoid potential treatment failure (Leclercq et al.,
+2013).
+
+For the monobactam aztreonam, resistance levels observed
+for E. coli isolates from faeces ranged from 0% for giraffe to
+about 17% for zebra. Again, intermediate phenotypes were
+detected for about 65% of E. coli isolates for aztreonam.
+
+(
+2
+0
+1
+7
+)
+ 
+6
+3
+:
+4
+4
+ 
+4
+4
+ 
+Page 6 of 8
+
+Eur J Wildl Res  
+
+Carbapenems are intended for use in human medicine,
+while their application in veterinary medicine should be
+avoided (Poirel et al. 2014; WHO 2016). The absence of re-
+sistance against the carbapenems meropenem and ertapenem
+among all 150 tested E. coli isolates is therefore reassuring.
+However, several E. coli isolates with intermediate resistance
+against these two carbapenems were detected in our study.
+Costa et al. (2008) detected no resistance to another carbapen-
+em, imipenem, when analysing 112 E. coli isolates from a
+large range of wild animals from nature reserves in Portugal,
+thereby matching our data for the three herbivores analysed in
+KwaZulu-Natal.
+
+Only small numbers of ABR phenotypes were detected for
+the fluoroquinolones norfloxacin and ciprofloxacin. The only
+incidence of resistance to both ciprofloxacin and norfloxacin
+was detected for one E. coli isolate from farm pig faeces, with
+two additional isolates from the same animal showing inter-
+mediate resistance for ciprofloxacin and ciprofloxacin plus
+norfloxacin, respectively. This is in line with Sáenz et al.
+(2001), who identified 3% of E. coli isolates from farm pigs
+as ciprofloxacin resistant, which may be due to the use of
+fluoroquinolones for treating food animals (Collignon 2005).
+Surprisingly, E. coli isolates showing an intermediate pheno-
+type for fluoroquinolones were mostly present in zebra faeces
+(Table S1).
+
+Regarding aminoglycosides, the E. coli isolates from the
+five animals tested showed resistance levels ranging from 3%
+(farm pig, wildebeest) to 60% (zebra) for tobramycin, while
+not exceeding 3% for gentamicin (Fig. 1). In contrast, genta-
+micin resistance levels for E. coli from zebra and wildebeest in
+Tanzania were higher at 23.8 and 20.6%, while this amounted
+to only 3.2% in buffalo (Katakweba et al. 2015). Similar to our
+results for farm pig, Knezevic and Petrovic (2008) found that
+only 1% of E. coli isolated from swine presented resistance to
+gentamicin and tobramycin. Remarkably high levels (>75%)
+of intermediate phenotypes were detected for both aminogly-
+cosides. As both gentamicin and tobramycin are approved for
+use in veterinary medicine in South Africa (Eagar et al., 2012),
+the somewhat higher incidence of tobramycin resistance in pet
+pig isolates in our study might be due to veterinary treatment.
+While no tigecycline resistance was detected among the
+150 E. coli isolates analysed in this study, one isolate from
+wildebeest faeces presented an intermediate resistance pheno-
+type. Tetracycline resistance was reported in Africa for E. coli
+isolates from impala (Mariano et al. 2009), wildebeest, zebra
+and buffalo (Katakweba et al. 2015). However, tigecycline is a
+newer-generation tetracycline-type antibiotic not usually con-
+sidered for use in veterinary medicine (Papich 2012) and typ-
+ically able to overcome tetracycline resistance mechanisms
+(Fluit et al. 2005). Although mutations in tetracycline resis-
+tance genes can confer increased minimum inhibitory concen-
+tration values for tigecycline in E. coli (Linkevicius et al.
+2016), no tigecycline resistance was detected among more
+
+than 360 clinical isolates of E. coli from South Africa,
+highlighting its efficiency (Kanj et al. 2014).
+
+About 43% of antibiotic-resistant (ABR) faecal E. coli iso-
+lates possessed resistance against more than one antibiotic,
+and 19 isolates were multidrug-resistant (MDR). The highest
+proportion of multidrug resistance was observed for zebra
+faecal E. coli isolates at 47%, while no MDR E. coli isolates
+were detected in faeces from wildebeest and giraffe. Other
+studies in Africa also showed a large variability in the
+degree of multidrug resistance among E. coli isolates from
+different wild animals. Pesapane et al. (2013) identified 40%
+of faecal E. coli isolates from banded mongoose in the Chobe
+National Park (Botswana) as MDR, attributing this to contact
+between mongoose and guest and staff accommodations.
+Similar to our results, Jobbins and Alexander (2015) detected
+no MDR E. coli in giraffe faeces in Botswana. However, the
+same study detected 100% MDR E. coli when analysing spot-
+ted hyena faeces, suggesting that the variability of MDR prev-
+alence between different animals was due to dietary factors,
+water-proximity and association with urban areas. Similarly,
+the presence of E. coli with extended spectrum β-lactamases
+(ESBL) in wild boars in Europe was attributed to their omniv-
+orous diet and access to animal and human waste (Literak
+et al. 2010). Kozak et al. (2009) showed in Canada for ABR
+E. coli and Nhung et al. (2015) demonstrated in Vietnam for
+MDR E. coli phenotypes that these were manifold higher in
+wild mammals trapped on farms than among mammals
+trapped in natural areas such as forests, highlighting that anti-
+biotic usage on farms and contact to humans contributes to
+antibiotic resistance.
+
+In the present study, the incidence of faecal E. coli isolates
+resistant to at least one antibiotic was much lower in farm pig
+(47%) and giraffe (43%) than in pet pig (90%), wildebeest
+(80%) and zebra (93%). A possible reason for the higher per-
+centage of ABR E. coli in pet pig faeces might be due to close
+contact with humans and regular veterinary care as it is well
+established that the treatment of pet animals can elevate anti-
+biotic resistance levels in bacteria (Guardabassi et al. 2004).
+Generally, elevated levels of ABR E. coli in faeces of the
+three herbivores analysed in the present study might be due to
+residents of Pietermaritzburg visiting the Bisley Valley Nature
+Reserve for recreational purposes. The presence of ABR
+E. coli in zebra faeces was linked in an earlier study to fre-
+quent contact between animals and staff and visitor lodging
+areas in Tanzania (Katakweba et al. 2015), while the transfer
+of antibiotic-resistant bacteria to animals has been associated
+with staff and their clothing (Bosman et al. 2014; Poirel et al.
+2014).
+
+Zebra and wildebeest preferentially graze close to the
+soil—with possible additional exposure to human waste pres-
+ent—while giraffe preferentially browse leaves from trees.
+This in addition to geophagy, which is established for herbi-
+vores and might lead to the uptake of antibiotics produced by
+
+ 
+4
+4
+ 
+(
+2
+0
+1
+7
+)
+ 
+6
+3
+:
+4
+4
+ 
+Eur J Wildl Res  
+
+Page 7 of 8  
+
+microorganisms present in the soil consumed (Mahaney et al.
+1999), might explain to some degree why the level of faecal
+ABR E. coli was clearly higher in the grazers zebra and wil-
+debeest than in the browser giraffe.
+
+Additional factors potentially contributing to the presence
+of ABR E. coli in faeces from wild herbivores in the current
+study are (i) horses from a stable adjacent to the Bisley Valley
+Nature Reserve likely receiving veterinary attention that can
+enter the park, (ii) other animal vectors such as small mam-
+mals or migratory birds entering the park, (iii) herbicides such
+as glyphosate used in the proximity of the nature reserve or
+within it as these can cause elevated antibiotic resistance levels
+in E. coli after exposure (Kurenbach et al. 2015) and (iv) water
+bodies within the nature reserve with ABR E. coli, resistance
+genes or even antibiotic residues present.
+
+The data obtained in this study show that wild herbivores
+from KwaZulu-Natal might serve as reservoirs and vectors for
+ABR and even MDR E. coli strains. However, further research
+is required in order to identify the factors involved in estab-
+lishing the presence of antibiotic-resistant bacteria in the her-
+bivores targeted in this study.
+
+Acknowledgements TLBK acknowledges the award of a UKZN
+College of Agriculture, Engineering and Science masters and a National
+Research Foundation (NRF, South Africa) innovation masters bursary.
+This project was partly funded by the NRF (SS). The authors would like
+to acknowledge Dr. Maike Claußen for critically reading the manuscript
+and providing valuable input.
+
+References
+
+Allen HK, Donato J, Wang HH, Cloud-Hansen KA, Davies J,
+Handelsman J (2010) Call of the wild: antibiotic resistance genes
+in natural environments. Nat Rev Microbiol 8:251–259
+
+Bosman AB, Wagenaar JA, Stegeman JA, Vernooij JC, Mevius DJ
+(2014) Antimicrobial resistance in commensal Escherichia coli in
+veal calves is associated with antimicrobial drug use. Epidemiol Inf
+42:1893–1904
+
+Cole D, Drum DJ, Stallknecht DE, White DG, Lee MD, Ayers S, Sobsey
+M, Maurer JJ (2005) Free-living Canada geese and antimicrobial
+resistance. Emerg Inf Dis 11:935–938
+
+Collignon P (2005) Fluoroquinolone use in food animals. Emerg Inf Dis
+
+11:1789–1792
+
+Costa D, Poeta P, Sáenz Y, Vinue L, Coelho AC, Matos M, Rojo-Bezares
+B, Rodrigues J, Torres C (2008) Mechanisms of antibiotic resistance
+in Escherichia coli isolates recovered from wild animals. Microb
+Drug Resist 14:71–77
+
+Eagar H, Swan G, Van Vuuren M (2012) A survey of antimicrobial usage
+in animals in South Africa with specific reference to food animals. J
+S Afr Vet Assoc 83:15–23
+
+EFSA (European Food Safety Authority) (2011) Tracing seeds, in partic-
+ular fenugreek (Trigonella foenum-graecum) seeds, in relation to the
+Shiga toxin-producing E. coli (STEC) O104:H4 2011 outbreaks in
+Germany and France. doi:10.2903/sp.efsa.2011.EN-176
+
+EFSA (European Food Safety Authority) (2017) The European Union
+summary report on antimicrobial resistance in zoonotic and indica-
+tor bacteria from humans, animals and food in 2015. EFSA J 15:
+4694. doi:10.2903/j.efsa.2017.4694
+
+EUCAST (The European Committee on Antimicrobial Susceptibility
+Testing) (2015) EUCAST Disk diffusion method for antimicrobial
+susceptibility testing. Version 5.0, 2015. http://www.eucast.org
+
+EUCAST (The European Committee on Antimicrobial Susceptibility
+Testing) (2016) Breakpoint tables for interpretation of MICs and
+zone diameters. Version 6.0, 2016. http://www.eucast.org
+
+Fluit AC, Florijn A, Verhoef J, Milatovic D (2005) Presence of tetracy-
+cline resistance determinants and susceptibility to tigecycline and
+minocycline. Antimicrob Agents Chemother 49:1636–1638
+
+Garcia-Alvarez L, Dawson S, Cookson B, Hawkey P (2012) Working
+across the veterinary and human health sectors. J Antimicrob
+Chemother 67:37–49
+
+Gemmell ME, Schmidt S (2012) Microbiological assessment of river
+water used for the irrigation of fresh produce in a sub-urban com-
+munity in Sobantu, South Africa. Food Res Int 47:300–305
+
+Guardabassi L, Schwarz S, Lloyd DH (2004) Pet animals as reservoirs of
+antimicrobial-resistant bacteria. J Antimicrob Chemother 54:321–
+332
+
+Guenther S, Grobbel M, Heidemanns K, Schlegel M, Ulrich RG, Ewers
+C, Wieler LH (2010) First insights into antimicrobial resistance
+among faecal Escherichia coli isolates from small wild mammals
+in rural areas. Sci Tot Environ 408:3519–3522
+
+Hammerum AM, Heuer OE (2009) Human health hazards from
+antimicrobial-resistant Escherichia coli of animal origin. Clin Inf
+Dis 48:916–921
+
+Health Canada (2002) MFHPB-19. Enumeration of coliforms, faecal co-
+liforms and of E. coli in foods using the MPN method. Canadian
+Department of Health, Ottawa
+
+Jobbins SE, Alexander KA (2015) Whence they came—antibiotic-
+resistant Escherichia coli in African wildlife. J Wildl Dis 51:
+811–820
+
+Kanj SS, Whitelaw A, Dowzicky MJ (2014) In vitro activity of tigecyc-
+line and comparators against Gram-positive/Gram-negative isolates
+collected from the Middle East and Africa between 2004 and 2011.
+Int J Antimicrob Agents 43:170–178
+
+Katakweba AAS, Møller KS, Muumba J, Muhairwa AP, Damborg P,
+Rosenkrantz JT, Minga UM, Mtambo MM, Olsen JE (2015)
+Antimicrobial resistance in faecal samples from buffalo, wildebeest
+and zebra grazing together with and without cattle in Tanzania. J
+Appl Microbiol 118:966–975
+
+Kemper N (2008) Veterinary antibiotics in the aquatic and terrestrial
+
+environment. Ecol Indic 8:1–13
+
+Kim J, Demeke T, Clear RM, Patrick SK (2006) Simultaneous detection
+by PCR of Escherichia coli, Listeria monocytogenes and
+Salmonella typhimurium in artificially inoculated wheat grain. Int J
+Food Microbiol 111:21–25
+
+King LA, Nogareda F, Weill FX, Mariani-Kurkdjian P, Loukiadis E,
+Gault G, Jourdan-DaSilva N, Bingen E, Macé M, Thevenot D,
+Ong N (2012) Outbreak of Shiga toxin–producing Escherichia coli
+O104:H4 associated with organic fenugreek sprouts, France,
+June 2011. Clin Inf Dis 54:1588–1594
+
+Klous G, Huss A, Heederik DJJ, Coutinho RA (2016) Human–livestock
+contacts and their relationship to transmission of zoonotic patho-
+gens, a systematic review of literature. One Health 2:65–76
+
+Knezevic P, Petrovic O (2008) Antibiotic resistance of commensal
+Escherichia coli of food-producing animals from three
+Vojvodinian farms, Serbia. Int J Antimicrob Agents 31:360–363
+
+Kozak GK, Boerlin P, Janecko N, Reid-Smith RJ, Jardine C (2009)
+Antimicrobial resistance in Escherichia coli isolates from swine
+and wild small mammals in the proximity of swine farms and in
+natural environments in Ontario, Canada. Appl Environ Microbiol
+75:559–566
+
+Kümmerer K (2003) Significance of antibiotics in the environment. J
+
+Antimicrob Chemother 52:5–7
+
+Kurenbach B, Marjoshi D, Amábile-Cuevas CF, Ferguson GC, Godsoe
+W, Gibson P, Heinemann JA (2015) Sublethal exposure to
+
+(
+2
+0
+1
+7
+)
+ 
+6
+3
+:
+4
+4
+ 
+4
+4
+ 
+Page 8 of 8
+
+Eur J Wildl Res  
+
+commercial formulations of the herbicides dicamba, 2,4-
+dichlorophenoxyacetic acid, and glyphosate cause changes in anti-
+biotic susceptibility in Escherichia coli and Salmonella enterica
+serovar Typhimurium. mBio 6:e00009-15. doi:10.1128/mBio.
+00009-15
+
+Leclerc H, Mossel D, Edberg SC, Struijk CB (2001) Advances in the
+bacteriology of the coliform group: their suitability as markers of
+microbial water safety. Ann Rev Microbiol 55:201–234
+
+Leclercq R, Cantón R, Brown DF, Giske CG, Heisig P, MacGowan AP,
+Mouton JW, Nordmann P, Rodloff AC, Rossolini GM, Soussy CJ
+(2013) EUCAST expert rules in antimicrobial susceptibility testing.
+Clin Microbiol Inf 19:141–160
+
+Linkevicius M, Sandegren L, Andersson DI (2016) Potential of tetracy-
+cline resistance proteins to evolve tigecycline resistance. Antimicrob
+Agents Chemother 60:789–796
+
+Literak I, Dolejska M, Radimersky T, Klimes J, Friedman M, Aarestrup
+FM, Hasman H, Cizek A (2010) Antimicrobial-resistant faecal
+Escherichia coli in wild mammals in central Europe: multi-
+resistant Escherichia coli producing extended-spectrum beta-
+lactamases in wild boars. J Appl Microbiol 108:1702–1711
+
+Magiorakos A, Srinivasan A, Carey RB, Carmeli Y, Falagas ME, Giske
+CG, Harbarth S, Hindler JF, Kahlmeter G, Olsson-Liljequist B,
+Paterson DL, Rice LB, Stelling J, Struelens MJ, Vatopoulos A,
+Weber JT, Monnet DL (2012) Multidrug-resistant, extensively
+drug-resistant and pandrug-resistant bacteria: an international expert
+proposal for interim standard definitions for acquired resistance.
+Clin Microbiol Infect 18:268–281
+
+Mahaney WC, Zippin J, Milner MW, Sanmugadas K, Hancock RG,
+Aufreiter S, Campbell S, Huffman MA, Wink M, Malloch D,
+Kalm V (1999) Chemistry, mineralogy and microbiology of termite
+mound soil eaten by the chimpanzees of the Mahale mountains,
+western Tanzania. J Trop Ecol 15:565–588
+
+Mariano V, McCrindle CME, Cenci-Goga B, Picard J (2009) Case-
+control study to determine whether river water can spread tetracy-
+cline resistance to unexposed impala (Aepyceros melampus) in
+Kruger National Park (South Africa). Appl Environ Microbiol 75:
+113–118
+
+Martinez JL (2009) Environmental pollution by antibiotics and by anti-
+
+biotic resistance determinants. Environ Pollut 157:2893–2902
+
+Nelson M, Jones SH, Edwards C, Ellis JC (2008) Characterization of
+Escherichia coli populations from gulls, landfill trash, and wastewa-
+ter using ribotyping. Dis Aquat Org 81:53–63
+
+Nhung NT, Cuong NV, Campbell J, Hoa NT, Bryant JE, Truc VN, Kiet
+BT, Jombart T, Trung NV, Hien VB, Thwaites G (2015) High levels
+of antimicrobial resistance among Escherichia coli isolates from
+livestock farms and synanthropic rats and shrews in the Mekong
+Delta of Vietnam. Appl Environ Microbiol 81:812–820
+
+Papich MG (2012) Selection of antibiotics for meticillin-resistant
+Staphylococcus pseudintermedius: time to revisit some old drugs.
+Vet Dermatol 23:352–364
+
+Peron E, Zaharia A, Zota L, Severi E, Mårdh O, Usein C, Bălgrădean M,
+Espinosa L, Jansa J, Scavia G, Rafila A, Serban A, Pistol A (2016)
+Early findings in outbreak of haemolytic uraemic syndrome among
+young children caused by Shiga toxin-producing Escherichia coli,
+Romania, January to February 2016. Euro Surv 21:30170. doi:10.
+2807/1560-7917.ES.2016.21.11.30170
+
+Pesapane R, Ponder M, Alexander KA (2013) Tracking pathogen trans-
+mission at the human-wildlife interface: banded mongoose and
+Escherichia coli. EcoHealth 10:115–128
+
+Petkov GS, Kostadinova GS, Denev SA, Mihaylova GS, Pavlov DC
+(2006) Microbial pollution of soil around slurry storage lagoons at
+a pig-farm. Appl Soil Ecol 34:10–18
+
+Poirel L, Stephan R, Perreten V, Nordmann P (2014) The carbapenemase
+threat in the animal world: the wrong culprit. J Antimicrob
+Chemother 69:2007–2008
+
+Radhouani H, Poeta P, Igrejas G, Gonçalves A, Vinue L, Torres C (2009)
+Antimicrobial resistance and phylogenetic groups in isolates of
+Escherichia coli from seagulls at the Berlengas nature reserve. Vet
+Rec 165:138–142
+
+Rolland RM, Hausfater G, Marshall B, Levy SB (1985) Antibiotic-
+resistant bacteria in wild primates: increased prevalence in baboons
+feeding on human refuse. Appl Environ Microbiol 49:791–794
+
+Rwego IB, Gillespie TR, Isabirye-Basuta G, Goldberg TL (2008) High
+rates of Escherichia coli transmission between livestock and
+humans in rural Uganda. J Clin Microbiol 46:3187–3191
+
+Sáenz Y, Zarazaga M, Briñas L, Lantero M, Ruiz-Larrea F, Torres C
+(2001) Antibiotic resistance in Escherichia coli isolates obtained
+from animals, foods and humans in Spain. Int J Antimicrob
+Agents 18:353–358
+
+Schellack N, Meyer JC, Gous AGS, Winters C (2011) Partnership situa-
+tion analysis: South Africa (part 2): health and economic context. S
+African Med J 101:549–596
+
+Silbergeld EK, Graham J, Price LB (2008) Industrial food animal pro-
+duction, antimicrobial resistance, and human health. Ann Rev Publ
+Health 29:151–169
+
+Skurnik D, Ruimy R, Andremont A, Amorin C, Rouquet P, Picard B,
+Denamur E (2006) Effect of human vicinity on antimicrobial resis-
+tance and integrons in animal faecal Escherichia coli. J Antimicrob
+Chemother 57:1215–1219
+
+Smati M, Clermont O, Bleibtreu A, Fourreau F, David A, Daubi A,
+Hignard C, Loisons O, Picard B, Denamur E (2015) Quantitative
+analysis of commensal Escherichia coli populations reveals host-
+specific enterotypes at the intra-species level. Microbiol Open 4:
+605–615
+
+Sørum H, L’Abée-Lund TM (2002) Antibiotic resistance in food-related
+bacteria—a result of interfering with the global web of bacterial
+genetics. Int J Food Microbiol 78:43–56
+
+Welch H (1957) Problems of antibiotics in food as the Food and Drug
+
+Administration sees them. Am J Public Health 47:701–705
+
+Wellington EMH, Boxall ABA, Cross P, Feil EJ, Gaze WH, Hawkey PM,
+Johnson-Rollings AS, Jones DL, Lee NM, Otten W, Thomas CM,
+Williams AP (2013) The role of the natural environment in the
+emergence of antibiotic resistance in gram-negative bacteria.
+Lancet Inf Dis 13:155–165
+
+White House (2014) National Strategy for combating antibiotic-resistant
+
+bacteria. Washington, D.C., United States.
+
+WHO (2016) Critically important antimicrobials for human medi-
+cine. Fourth revision. World Health Organization. ISBN
+97892415011469
+
+WHO (2014) Antimicrobial resistance. Global report on surveillance.
+
+World Health Organization. ISBN 978924156474 8
+
+ 
+4
+4
+ 
+(
+2
+0
+1
+7
+)
+ 
+6
+3
+:
+4
+4
+ 
+

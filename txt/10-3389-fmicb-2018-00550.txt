@@ -1,0 +1,2883 @@
+ORIGINAL RESEARCH
+published: 23 March 2018
+doi: 10.3389/fmicb.2018.00550
+
+Prevalence and Characterization of
+Multi-Drug-Resistant Gram-Negative
+Bacilli Isolated From Lebanese
+Poultry: A Nationwide Study
+
+Iman Dandachi1,2, Elie S. Sokhn1, Elias A. Dahdouh1, Eid Azar1, Bassel El-Bazzal3,
+Jean-Marc Rolain2 and Ziad Daoud1*
+
+1 Clinical Microbiology Laboratory, Faculty of Medicine and Medical Sciences, University of Balamand, Beirut, Lebanon,
+2 IRD, APHM, MEPHI, IHU-Méditerranée Infection, Aix-Marseille Université, Marseille, France, 3 The Lebanese Ministry of
+Agriculture, Beirut, Lebanon
+
+in poultry farms at the national
+
+Currently, antimicrobial resistance is one of the most prominent public health issues.
+In fact, there is increasing evidence that animals constitute a reservoir of antimicrobial
+resistance. In collaboration with the Lebanese Ministry of Agriculture, the aim of this
+study was to determine the prevalence of intestinal carriage of multi-drug-resistant
+Gram-negative Bacilli
+level. Between August and
+December 2015, 981 fecal swabs were obtained from 49 poultry farms distributed
+across Lebanon. The swabs were subcultured on MacConkey agar supplemented
+with cefotaxime (2 µg/ml). Isolated strains were identiﬁed using MALDI-TOF mass
+spectrometry. Multilocus sequence typing analysis was performed for Escherichia coli.
+Phenotypic detection of extended spectrum β-lactamases (ESBL) and AmpC production
+was performed using double disk synergy and the ampC disk test, respectively.
+β-lactamase encoding genes blaCTX−M, blaTEM, blaSHV, blaFOX, blaMOX, blaEBC, blaACC,
+blaDHA, and blaCMY using PCR ampliﬁcation. Out of 981 fecal swabs obtained, 203
+(20.6%) showed bacterial growth on the selective medium. Of the 235 strains isolated,
+217 were identiﬁed as E. coli (92%), eight as Klebsiella pneumoniae (3%), three as
+Proteus mirabilis (1%) and three as Enterobacter cloacae (1%). MLST analysis of E. coli
+isolates showed the presence of ST156, ST5470, ST354, ST155, and ST3224. The
+phenotypic tests revealed that 43.5, 28.5, and 20.5% of the strains were ampC, ESBL,
+and ampC/ESBL producers, respectively. The putative TEM gene was detected in 83%
+of the isolates, SHV in 20%, CTX-M in 53% and CMY ampC β-lactamase gene in 65%.
+Our study showed that chicken farms in Lebanon are reservoirs of ESBL and AmpC
+producing Gram-negative bacilli. The level of antibiotic consumption in the Lebanese
+veterinary medicine should be evaluated. Future studies should focus on the risk factors
+associated with the acquisition of multi-drug-resistant organisms in farm animals in
+Lebanon.
+
+Keywords: ampC, ESBL, E. coli, poultry, carriage
+
+Edited by:
+Miklos Fuzi,
+Semmelweis University, Hungary
+
+Reviewed by:
+Sebastian Guenther,
+University of Greifswald, Germany
+Djamel Drider,
+Lille University of Science
+and Technology, France
+
+*Correspondence:
+Ziad Daoud
+ziad.daoud@balamand.edu.lb
+
+Specialty section:
+This article was submitted to
+Antimicrobials, Resistance
+and Chemotherapy,
+a section of the journal
+Frontiers in Microbiology
+
+Received: 02 December 2017
+Accepted: 12 March 2018
+Published: 23 March 2018
+
+Citation:
+Dandachi
+I, Sokhn ES, Dahdouh EA,
+Azar E, El-Bazzal B, Rolain J-M and
+Daoud Z (2018) Prevalence
+and Characterization
+of Multi-Drug-Resistant
+Gram-Negative Bacilli Isolated From
+Lebanese Poultry: A Nationwide
+Study. Front. Microbiol. 9:550.
+doi: 10.3389/fmicb.2018.00550
+
+Frontiers in Microbiology | www.frontiersin.org
+
+1
+
+March 2018 | Volume 9 | Article 550
+
+Dandachi et al.
+
+Antimicrobial Resistant Organisms in Lebanese Poultry
+
+INTRODUCTION
+
+Antibiotic resistance is currently a major topic of interest for
+researchers and physicians. In particular, the rise of multi-
+drug resistance in Gram-negative bacteria is now a serious
+challenge encountered by healthcare professionals (Exner et al.,
+2017). Resistance in Gram-negative bacteria is mainly mediated
+via the production of extended spectrum β-lactamases (ESBL),
+ampC β-lactamases and carbapenemases (Schill et al., 2017).
+Genes encoding these enzymes are often located on plasmids
+carrying resistance genes to other commonly used antibiotics in
+clinical settings (Seiﬀert et al., 2013). Infections with these multi-
+drug-resistant organisms (MDROs) will thus pose therapeutic
+challenges; the antibiotic pipeline is drying up, and no new
+antimicrobial agents are anticipated in the near future to treat
+infections caused by MDROs (Bettiol and Harbarth, 2015).
+
+In fact, it has been generally accepted that the main driver
+for the rapid evolution of bacterial resistance is the uncontrolled
+usage of antibiotics in human medicine. It is suggested that
+this theory is also applicable to the veterinary sector (Kempf
+et al., 2015). The European Centre for Disease Prevention and
+Control/European Food Safety Authority/European Medicines
+Agency (ECDC/EFSA/EMA) joint report stated that in 2014,
+the average antibiotic consumption in animals (152 mg/kg)
+was higher than in humans (124 mg/kg). Univariate analysis
+showed a signiﬁcation correlation between ﬂuoroquinolone
+consumption and resistance in Escherichia coli in the human
+and animal sectors, between polymyxins and tetracyclines and
+E. coli in animals, and for 3rd/4th generation cephalosporins
+and E. coli in humans (ECDC/EFSA/EMA, 2017). Antibiotics are
+heavily administered for therapeutic and prophylaxis purposes
+in veterinary medicine. As growth promoters, this practice
+is no longer adapted in the European Union, whereas it
+persists in North America and other countries (Economou
+and Gousia, 2015). In their study, Chantziaras et al. (2014)
+found a signiﬁcant correlation between the use of antibiotics in
+livestock and the corresponding level of resistance toward these
+antimicrobials in E. coli strains isolated from pigs, poultry and
+cattle. During the last years, the prevalence of ESBLs, ampC, and
+carbapenemase producing Gram-negative bacteria has become
+extensively reported in food producing animals (Ghodousi et al.,
+2015; Gonzalez-Torralba et al., 2016; Haenni et al., 2016). In
+their review paper, Schwarz et al. (2016) showed that studies
+describing the epidemiology of resistant organisms in livestock
+targeted mainly swine, cattle and poultry. The prevalence of
+resistance varied from one country to another (Alonso et al.,
+2017). Although the extent to which food of animal origin
+contributes to the zoonotic transmission of multi-drug-resistant
+organisms, i.e., ESBL and carbapenemase producers, has not
+yet been well established (Madec et al., 2017), it suggests that
+sharing the same ESBL genes, plasmids and strains constitutes
+possible evidence of zoonotic transmission of MDROs from
+animals to humans (Leverstein-van Hall et al., 2011; Dahms et al.,
+2014). Furthermore, the increased risk of ESBL fecal carriage in
+individuals with a high degree of contact with broiler chickens
+is an indicator of transmission (Huijbers et al., 2014). Enteric-
+resistant strains in livestock can be easily transferred to humans
+
+through direct contact or through the handling/consumption
+of undercooked/uncooked animal products (Dahms et al.,
+2014).
+
+In Lebanon, several studies addressing MDROs in hospital
+settings have been conducted. One study done at the American
+University of Beirut Medical Center between 2008 and 2011
+reported that 1.07 and 2.45% of E.
+coli and Klebsiella
+pneumoniae clinical isolates, respectively, were ESBL producers
+and ertapenem-resistant (Baroud et al., 2013). Another study
+conducted in the north reported that over the period of
+2009–2012, 9% and 28% of
+the bacteraemia episodes in
+febrile neutropenic patients were caused by carbapenem and
+third-generation cephalosporin-resistant Gram-negative bacilli,
+respectively (Moghnieh et al., 2015). However, very few
+studies have addressed this issue in the environment. One
+study showed that Acinetobacter baumannii was detected
+in 6.9% of water samples, 2.7% of milk samples, 8.0% of
+meat samples, 14.3% of cheese samples and 7.7% of animal
+samples (Rafei et al., 2015). Another study in which 115
+stool samples were collected from livestock animals from
+diﬀerent farms in north Lebanon reported the detection of
+four VIM-2 producing Pseudomonas aeruginosa, four OXA-
+23 producing A. baumannii and one OXA-23/OXA-58 co-
+producing A. baumannii (Al Bayssari et al., 2015a). Furthermore,
+Al Bayssari et al. (2015b) reported the isolation of an OXA-
+48 harboring E. coli
+in Lebanon. More
+recently, Diab et al. (2016) detected a relatively high prevalence
+of CTX-M-15 producing E. coli
+in Lebanese cattle. In the
+above-mentioned studies in Lebanese livestock, MLST analysis
+revealed the presence of sequence types common to both
+humans and animals (Al Bayssari et al., 2015a; Rafei et al.,
+2015; Diab et al., 2016), which suggests that Lebanese farms
+are potent reservoirs of multi-drug-resistant organisms that
+could be transmitted to humans. In the present study and in
+collaboration with the Lebanese Ministry of Agriculture, our
+aim was to determine the national epidemiology of multi-drug-
+resistant Gram-negative bacilli in Lebanese chicken farms in
+terms of intestinal carriage.
+
+isolate from fowl
+
+MATERIALS AND METHODS
+
+Ethics Statement
+The Ministry of Agriculture in Lebanon granted approval
+to collect chicken samples from representative farms in the
+country as per the national norms for animal sampling and
+manipulation. This sampling was in conformity with the
+international regulations for animal safety. All of the involved
+farms oﬃcially received authorization from the Ministry of
+Agriculture, and this was considered, after undergoing an
+acceptance process, an oﬃcial and legal document. Therefore, an
+Institutional Review Board (IRB) approval was obtained for the
+present study.
+
+Samples Collection
+Between August and December 2015, 981 rectal swabs were
+collected from 49 poultry farms distributed over the seven
+
+Frontiers in Microbiology | www.frontiersin.org
+
+2
+
+March 2018 | Volume 9 | Article 550
+
+Dandachi et al.
+
+Antimicrobial Resistant Organisms in Lebanese Poultry
+
+districts of Lebanon. Six to seven farms were visited in each
+district. The average number of samples taken from each farm
+was 20 fecal swabs (Table 1). The 20 samples collected were
+randomly taken from each farm. Technical assistance,
+i.e.,
+fecal swabs, gloves, costumes, and a portable refrigerator, were
+provided by the Ministry of Agriculture team. The collected
+swabs were directly placed in a portable refrigerator, and when
+they arrived at the University Laboratory, they were stored at
+−80◦C until use. The farms visited were selected by considering
+their geographical location, presence or absence of a nearby
+community and the size of the farms (at least 3,000 chickens per
+breeding site). Eighty percent of the samples were gathered from
+broiler chickens, while 20% were taken from layers. The mean
+average age of the broilers and layers was 31 days and 14 months,
+respectively.
+
+swabs were
+
+incubation at 37◦C, colonies
+
+MALDI-TOF MS Identiﬁcation
+Rectal
+sub-cultured on a MacConkey agar
+supplemented with 2 µg/ml of cefotaxime for the preliminary
+screening of antibiotic-resistant Gram-negative bacilli. After
+overnight
+showing diﬀerent
+morphologies were picked up from each selective plate and
+tested separately with MALDI-TOF MS for identiﬁcation using
+the Microﬂex LT spectrometer (Bruker Daltonics, Bremen,
+Germany) (Seng et al., 2010; Singhal et al., 2015). The spectra
+obtained for each strain were stored and downloaded into a
+MALDI Biotyper 3.0 system to create a single main spectrum for
+each bacterial isolate. Thereafter, a dendrogram was constructed
+using MALDI Biotyper 3.0 software.
+
+(Bio-Rad, Marnes-la-Coquette,
+
+Antibiotic Susceptibility Testing
+Using the Kirby–Bauer disk diﬀusion method, antibiotic
+susceptibility testing was performed. The results were interpreted
+according to EUCAST guidelines 2017 (European Committee on
+Antimicrobial Susceptibility Testing, 2017). Sixteen antimicrobial
+agents were used including ampicillin, aztreonam, cefotaxime,
+ceftazidime, cefoxitin, cefepime, amoxicillin-clavulanic acid,
+piperacillin-tazobactam, meropenem,
+imipenem, ertapenem,
+colistin, tigecycline, ciproﬂoxacin, gentamicin and trimethoprim-
+sulfamethoxazole
+France).
+Phenotypic detection of ESBL was performed using the double-
+disk synergy test by placing an amoxicillin–clavulanic acid disk
+in the center between aztreonam, cefepime and ceftazidime. The
+observation of a “key hole eﬀect” was considered a positive test.
+On the other hand, ampC β-lactamase detection was performed
+using the ampC disk test (Black et al., 2005). In brief, a lawn
+of cefoxitin-susceptible E. coli ATCC 25922 was inoculated on
+the surface of a Mueller Hinton agar plate. A 30-µg cefoxitin
+disk was placed on the inoculated surface. A sterile ﬁlter paper
+disk was moistened by adding 20 µl of a 1:1 mixture of saline
+and 100 × Tris-EDTA (catalog code T-9285; Sigma-Aldrich
+Corporation, St. Louis, MO, United States). Several colonies
+of the test isolate were then applied to the disk. The disk was
+then positioned with its inoculated face in contact with the agar
+surface. After overnight incubation, a ﬂattening or indentation of
+the zone of inhibition around the cefoxitin disk was considered
+a positive result, while an absence of distortion was considered
+
+a negative one. Furthermore, for the presumptive detection of
+carbapenemases, the carba NP test was performed as previously
+described (Bakour et al., 2015). A bacterium was characterized
+as being multi-drug-resistant when resistance to at least three
+classes of antibiotics was observed (Magiorakos et al., 2012).
+
+Molecular Characterization of
+β-Lactamase Encoding Genes
+All of the isolates that showed a key hole eﬀect or had cefoxitin
+resistance with non-susceptibility to cefepime were subjected
+to real-time PCR analysis for the detection of SHV, TEM and
+CTX-M encoding genes (Roschanski et al., 2014). Simplex PCRs
+for the genes encoding AmpC β-lactamases FOX, MOX, ACC,
+EBC, DHA, and CMY were conducted for all strains showing
+non-susceptibility to cefoxitin (Dallenne et al., 2010). Simplex
+PCR was also used to test the ADC ampC β-lactamase gene
+in A. baumannii (Liu and Liu, 2015). DNA extraction was
+performed according to the manufacturer’s instructions using
+EZ1 DNA extraction kits (Qiagen, Courtaboeuf, France) with the
+EZ1 Advanced XL biorobot.
+
+Multilocus Sequence Typing
+One E. coli strain from each cluster shown in the MSP
+dendrogram was chosen, and MLST typing was performed based
+on allelic proﬁles to determine their evolutionary relationship
+(Peng and Zong, 2011). Seven housekeeping genes were used:
+adk, fumC, gyrB, icd, mdh, purA, and recA. Analysis of the genes’
+allelic proﬁles was performed on the MLST1 to determine the
+sequence type (ST) to which each isolate belongs.
+
+Statistical Analysis
+The prevalence, identiﬁcation, and resistance proﬁles of isolated
+strains are all presented as the number (percentage).
+
+RESULTS
+
+Bacterial Identiﬁcation
+Out of 982 collected fecal swabs, 203 (20.6%) showed growth
+on selective medium. In total, 235 strains were isolated. All 235
+isolated Gram-negative bacilli were identiﬁed by MALDI TOF
+mass spectrometry with a score value ≥1.9. The distribution at
+the species level was as follows: 217 were identiﬁed as E. coli
+(92%), eight as K. pneumoniae (3%), three as Proteus mirabilis
+(1%), three as Enterobacter cloacae (1%), two as E. albertii, one
+as E. fergusonii and one as A. baumannii. The MSP dendrogram
+of the 217 E. coli isolates revealed ﬁve clusters at a distance level
+of 500 (arbitrarily selected) (Figure 1). Cluster 1 was mainly
+formed by isolates from the Akkar District. Cluster 2 contained
+two isolates: one from Saida and the other from Baalbek. Cluster
+3 was composed of three strains isolated from Jabal Lebnen
+District. Cluster 4 was mainly composed of isolates from the
+North Lebanon district, and Cluster 5 contained only one strain
+from Saida.
+
+1http://mlst.warwick.ac.uk/mlst/dbs/Ecoli
+
+Frontiers in Microbiology | www.frontiersin.org
+
+3
+
+March 2018 | Volume 9 | Article 550
+
+Dandachi et al.
+
+Antimicrobial Resistant Organisms in Lebanese Poultry
+
+TABLE 1 | Distribution of MDROs per farm and district.
+
+Collection date
+
+Farm size
+
+Age
+
+Type
+
+# of collected samples
+
+# of positive samples
+
+# of isolated strains
+
+North Leb
+
+Akkar
+
+Bekaa
+
+Baalbek
+
+Nabatieh
+
+Jabal Leb
+
+Saida
+
+Fl
+F2
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+F10
+F11
+F12
+F13
+F14
+F15
+F16
+F17
+F18
+F19
+F20
+F21
+F22
+F23
+F24
+F25
+F26
+F27
+F28
+F29
+F30
+F31
+F32
+F33
+F34
+F35
+F36
+F37
+F38
+
+27-Aug
+
+31-Aug
+
+15-Sep
+
+21-Sep
+
+21-Oct
+
+9-Nov
+
+7-Dec
+
+18000
+11300
+20000
+23000
+4000
+20000
+15000
+5000
+4000
+6000
+4600
+15000
+6000
+10700
+5000
+3000
+6000
+6000
+6000
+5000
+6500
+6700
+11800
+10000
+10000
+5000
+10000
+5000
+5000
+10000
+10000
+18000
+6000
+6000
+3300
+10000
+10000
+10000
+
+35 d
+35 d
+45 d
+4 m
+35 d
+25 d
+35 d
+25 d
+25 d
+25 d
+4 m
+40 d
+45 d
+36 d
+45 d
+18 m
+36 d
+43 d
+43 d
+14 m
+27 d
+12 m
+26 d
+27 d
+25 d
+25 d
+27 d
+28 d
+25 d
+27 d
+28 d
+25 d
+25 d
+25 d
+32 d
+25 d
+30 d
+28 d
+
+B
+B
+B
+L
+B
+B
+B
+B
+B
+B
+L
+B
+B
+B
+B
+L
+B
+B
+B
+L
+B
+L
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+
+27
+27
+27
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+21
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+
+11
+5
+2
+9
+14
+13
+8
+5
+5
+9
+11
+11
+1
+4
+6
+3
+1
+6
+3
+3
+3
+1
+4
+2
+1
+1
+8
+4
+7
+2
+4
+5
+3
+6
+10
+5
+1
+6
+
+11
+6
+2
+18
+23
+14
+9
+5
+5
+11
+14
+14
+1
+4
+7
+3
+1
+7
+3
+3
+3
+1
+4
+2
+1
+1
+8
+4
+6
+2
+5
+5
+3
+6
+10
+6
+1
+6
+
+F, farm; Aug, August; Sept, September; Oct, October; Nov, November; Dec, December; d, days; m, month; B, broiler; L, layer.
+
+Phenotypic Proﬁles of Resistance
+The disk diﬀusion susceptibility testing results are summarized
+in Table 2. All of the isolates were susceptible to tigecycline,
+colistin and carbapenems. Phenotypic identiﬁcation using the
+double disk synergy test, ampC disk test and carba NP test
+revealed that 102 (43.5%) of the isolated strains were ampC β-
+lactamase producers, 67 (28.5%) were ESBL producers, and 48
+(20.5%) were co-producers of ESBL and ampC β-lactamases.
+Both ESBL and ESBL/ampC production were detected in E. coli,
+K. pneumoniae, E. fergusonii, and E. cloacae (Table 2), whereas
+only AmpC production was detected in E. coli, K. pneumoniae,
+P. mirabilis, E. albertii, and A. baumannii. In addition, 18
+E. coli strains (7.5%) did not show a key hole eﬀect and were
+
+resistant to cefoxitin but tested negative with the ampC disk
+test. Moreover, 32% of the isolated strains were co-resistant to
+gentamicin, ciproﬂoxacin, and trimethoprim-sulfamethoxazole,
+whereas 40% were resistant
+two non-β-lactam
+antibiotics, 19.5% were resistant to only one non-β-lactam,
+and 8% were susceptible to all of the non-β-lactam antibiotics
+tested.
+
+to at
+
+least
+
+Prevalence of MDR-GNB
+The distribution of samples showing positive growth on the
+selective medium was as follows: 54 samples in the North
+District, 38 in the Akkar District, 37 in Saida, 26 in Bekaa,
+24 in Jabal Lebnen, 16 in Baalbek and eight in Nabatieh.
+
+Frontiers in Microbiology | www.frontiersin.org
+
+4
+
+March 2018 | Volume 9 | Article 550
+
+Dandachi et al.
+
+Antimicrobial Resistant Organisms in Lebanese Poultry
+
+FIGURE 1 | MSP dendrogram of Escherichia coli isolates.
+
+the farms were positive for at
+
+(235) originated from 38 out of
+i.e., 77.5% of
+
+The number of positive samples from broilers exceeded the
+one obtained from Layers (176 vs. 27, respectively). Isolated
+the 49 visited
+strains
+farms,
+least
+one multi-drug-resistant Gram-negative bacilli. As shown in
+Figure 2, the highest prevalence was detected in the north-
+west of the country, with 74 and 44 isolated strains for the
+North and Akkar Districts, respectively, whereas the lowest
+prevalence was detected in the north–east and south–east of
+Lebanon.
+
+MLST Typing
+The MLST typing of the strains, each chosen from the major
+district-related isolates grouped in each cluster, revealed that they
+belong to ﬁve diﬀerent STs: ST156 for Cluster 1, ST5470 for
+Cluster 2, ST354 for Cluster 3, ST155 for Cluster 4 and ST3224
+for Cluster 5.
+
+DISCUSSION
+
+PCR Screening of CTX-M, SHV, TEM, and
+AmpC β-Lactamase Genes
+One hundred and twelve isolates suspected to be ESBL producers
+were subjected to a real-time PCR assay for the detection of
+SHV, TEM, and CTX-M encoding genes. Of the 112 strains
+selected, 93 (83%) harbored the TEM gene, 59 (53%) the
+CTX-M gene and 22 (20%) the SHV gene. Overall, 49% (55)
+of the ESBL suspected isolates harbored only one gene, 46%
+(52) harbored at least two genes with the highest concordance
+being between the TEM and CTX-M genes, and 4% (ﬁve)
+showed the co-existence of all three genes together (Table 3). In
+parallel, 152 strains including 4 K. pneumoniae, 3 P. mirabilis,
+2 E. albertii, and 143 E. coli were positive for blaCMY; whereas
+ﬁfteen E. coli strains were negative fall ampC β-lactamase
+genes tested. Furthermore, in A. baumannii the ADC gene was
+detected.
+
+Many years ago, hospitals and health care settings were regarded
+as the sole source of antimicrobial resistance. However, recent
+evidence has shown that food producing animals constitute a
+potent reservoir of multi-drug-resistant organisms (Belmahdi
+et al., 2016; Bachiri et al., 2017). This was mainly linked to
+the over-use of antimicrobial agents in veterinary medicine for
+treatment, growth promotion and prophylaxis (Economou and
+Gousia, 2015). Although the zoonotic transmission of multi-
+drug-resistant organisms from animals to humans remains
+controversial (Olsen et al., 2014), several studies have shown
+a direct link between direct contact with farm animals and
+the acquisition of bacterial resistance (Huijbers et al., 2014).
+One study conducted by Olaitan et al. (2015) demonstrated the
+zoonotic transmission of a colistin-resistant E. coli strain from a
+pig to its owner. This owner usually fed his pig without wearing
+any protective equipment. The two colistin-resistant isolates (in
+the pig and its owner) belonged to the same sequence type and
+
+Frontiers in Microbiology | www.frontiersin.org
+
+5
+
+March 2018 | Volume 9 | Article 550
+
+Dandachi et al.
+
+Antimicrobial Resistant Organisms in Lebanese Poultry
+
+f
+o
+%
+
+C
+p
+m
+A
+/
+L
+B
+S
+E
+
+s
+r
+e
+c
+u
+d
+o
+r
+p
+-
+o
+c
+
+f
+o
+%
+
+C
+p
+m
+A
+
+s
+r
+e
+c
+u
+d
+o
+r
+p
+
+L
+B
+S
+E
+f
+o
+%
+
+s
+r
+e
+c
+u
+d
+o
+r
+p
+
+T
+N
+E
+G
+
+I
+
+P
+C
+
+T
+X
+S
+
+P
+Z
+T
+
+C
+M
+A
+
+P
+E
+F
+
+X
+O
+F
+
+Z
+A
+C
+
+X
+T
+C
+
+T
+Z
+A
+
+P
+M
+A
+
+.
+y
+d
+u
+t
+s
+
+i
+
+s
+h
+t
+
+n
+
+i
+
+d
+e
+t
+a
+o
+s
+
+l
+
+i
+
+i
+
+s
+m
+s
+n
+a
+g
+r
+o
+
+i
+
+t
+n
+a
+t
+s
+s
+e
+r
+-
+g
+u
+r
+d
+-
+i
+t
+l
+u
+m
+
+f
+
+o
+
+s
+e
+p
+y
+t
+o
+n
+e
+h
+p
+d
+n
+a
+
+l
+
+s
+e
+ﬁ
+o
+r
+p
+e
+c
+n
+a
+t
+s
+s
+e
+R
+
+i
+
+|
+
+2
+E
+L
+B
+A
+T
+
+i
+
+s
+e
+c
+e
+p
+S
+
+1
+2
+
+.
+
+5
+2
+1
+
+4
+4
+
+.
+
+5
+7
+3
+
+0
+0
+1
+
+0
+0
+1
+
+0
+0
+1
+
+7
+2
+
+0
+5
+
+)
+0
+7
+(
+2
+5
+1
+
+)
+2
+6
+(
+4
+3
+1
+
+)
+9
+5
+(
+0
+5
+1
+
+)
+3
+1
+(
+8
+2
+
+)
+5
+3
+(
+7
+7
+
+)
+4
+1
+(
+1
+3
+
+)
+8
+4
+(
+4
+0
+1
+
+)
+5
+5
+(
+0
+2
+1
+
+)
+0
+9
+(
+5
+9
+1
+
+)
+3
+2
+(
+9
+4
+
+)
+0
+0
+1
+(
+7
+1
+2
+
+i
+l
+
+o
+c
+
+i
+
+)
+
+a
+h
+c
+i
+r
+e
+h
+c
+s
+E
+
+7
+1
+2
+=
+n
+
+(
+
+)
+8
+8
+(
+7
+
+)
+8
+8
+(
+7
+
+)
+5
+7
+(
+6
+
+)
+5
+2
+(
+2
+
+)
+5
+2
+(
+2
+
+)
+5
+2
+(
+2
+
+)
+5
+2
+(
+2
+
+)
+8
+3
+(
+3
+
+)
+0
+0
+1
+(
+8
+
+)
+5
+2
+(
+2
+
+)
+0
+0
+1
+(
+8
+
+i
+
+a
+n
+o
+m
+u
+e
+n
+p
+a
+
+l
+l
+
+i
+
+)
+
+e
+s
+b
+e
+K
+
+8
+=
+n
+
+(
+
+l
+
+)
+3
+3
+(
+1
+
+)
+0
+0
+1
+(
+3
+
+)
+0
+0
+1
+(
+3
+
+)
+0
+(
+0
+
+)
+0
+0
+1
+(
+3
+
+)
+0
+(
+0
+
+)
+0
+0
+1
+(
+3
+
+)
+0
+(
+0
+
+)
+7
+6
+(
+2
+
+)
+0
+(
+0
+
+)
+0
+0
+1
+(
+3
+
+s
+
+i
+l
+i
+
+b
+a
+r
+i
+
+m
+s
+u
+e
+t
+o
+r
+
+P
+
+)
+
+3
+=
+n
+
+(
+
+0
+0
+1
+
+)
+0
+0
+1
+(
+3
+
+)
+3
+3
+(
+1
+
+)
+3
+3
+(
+1
+
+0
+0
+1
+
+)
+0
+(
+0
+
+)
+0
+0
+1
+(
+1
+
+)
+0
+(
+0
+
+)
+0
+(
+0
+
+)
+0
+(
+0
+
+)
+0
+(
+0
+
+)
+0
+(
+0
+
+)
+0
+(
+0
+
+)
+0
+(
+0
+
+)
+0
+(
+0
+
+)
+0
+(
+0
+
+)
+0
+(
+0
+
+)
+0
+(
+0
+
+)
+0
+(
+0
+
+)
+0
+(
+0
+
+)
+0
+(
+0
+
+)
+0
+(
+0
+
+)
+0
+(
+0
+
+)
+0
+(
+0
+
+)
+7
+6
+(
+2
+
+)
+0
+0
+1
+(
+3
+
+)
+3
+3
+(
+1
+
+)
+0
+0
+1
+(
+3
+
+e
+a
+c
+a
+o
+c
+
+l
+
+r
+e
+t
+c
+a
+b
+o
+r
+e
+t
+n
+E
+
+)
+
+3
+=
+n
+
+(
+
+)
+0
+(
+0
+
+)
+0
+0
+1
+(
+2
+
+)
+0
+5
+(
+1
+
+)
+0
+5
+(
+1
+
+)
+0
+(
+0
+
+)
+0
+0
+1
+(
+2
+
+i
+i
+t
+r
+e
+b
+a
+
+l
+
+)
+0
+(
+0
+
+)
+0
+(
+0
+
+)
+0
+(
+0
+
+)
+0
+0
+1
+(
+1
+
+)
+0
+(
+0
+
+)
+0
+0
+1
+(
+1
+
+i
+i
+
+n
+o
+s
+u
+g
+r
+e
+
+f
+
+i
+
+a
+h
+c
+i
+r
+e
+h
+c
+s
+E
+
+)
+
+2
+=
+n
+
+(
+
+i
+
+a
+h
+c
+i
+r
+e
+h
+c
+s
+E
+
+)
+l
+
+=
+n
+
+(
+
+)
+0
+(
+0
+
+)
+0
+0
+1
+(
+1
+
+)
+0
+0
+1
+(
+1
+
+)
+0
+0
+1
+(
+1
+
+)
+0
+(
+0
+
+)
+0
+0
+1
+(
+1
+
+)
+l
+
+=
+n
+
+r
+e
+t
+c
+a
+b
+o
+t
+e
+n
+c
+A
+
+i
+
+(
+
+i
+i
+
+n
+n
+a
+m
+u
+a
+b
+
+i
+
+l
+
+c
+n
+a
+u
+v
+a
+c
+-
+n
+
+l
+
+i
+l
+l
+i
+
+i
+
+c
+x
+o
+m
+a
+
+,
+
+C
+M
+A
+
+i
+
+f
+
+;
+e
+m
+p
+e
+e
+c
+P,
+E
+F
+
+;
+n
+i
+t
+i
+x
+o
+e
+c
+
+f
+
+,
+
+X
+O
+F
+
+i
+
+i
+
+;
+e
+m
+d
+z
+a
+t
+f
+e
+c
+
+,
+
+Z
+A
+C
+
+i
+
+;
+e
+m
+x
+a
+t
+o
+e
+c
+
+f
+
+,
+
+X
+T
+C
+
+;
+
+m
+a
+n
+o
+e
+r
+t
+z
+a
+
+,
+T
+Z
+A
+
+;
+n
+
+i
+l
+l
+i
+
+i
+
+c
+p
+m
+a
+P,
+M
+A
+
+;
+e
+g
+a
+t
+n
+e
+c
+r
+e
+p
+
+,
+
+%
+
+;
+r
+e
+b
+m
+u
+n
+
+,
+
+N
+
+.
+)
+e
+g
+a
+t
+n
+e
+c
+r
+e
+p
+
+(
+
+r
+e
+b
+m
+u
+n
+
+a
+
+s
+a
+d
+e
+t
+n
+e
+s
+e
+r
+p
+e
+r
+a
+
+l
+
+s
+e
+ﬁ
+o
+r
+p
+e
+c
+n
+a
+t
+s
+s
+e
+R
+
+i
+
+presented with the same virulence and PFGE pattern (Olaitan
+et al., 2015).
+
+In Lebanon, very few studies have looked at the prevalence
+of MDROs in farm animals (Al Bayssari et al., 2015a). Our
+study is the ﬁrst epidemiological study in Lebanon quantifying
+the prevalence of multi-drug-resistant Gram-negative bacilli in
+chicken farms in terms of intestinal carriage at the national level.
+The prevalence is similar to the one previously reported from
+cattle (84%) in Lebanon (Diab et al., 2016). The ﬂock’s size did not
+inﬂuence the prevalence of resistance in each farm (Table 1). On
+a global level, the prevalence found in our study is approximate
+to the one reported in Romania (69%) (Maciuca et al., 2015) and
+Ecuador (60%) (Ortega-Paredes et al., 2016) but is higher than
+the ones described in Germany (44%) (Kola et al., 2012), Japan
+(23%) (Kawamura et al., 2014), and Vietnam (3.2%) (Nguyen
+et al., 2015). Diﬀerences in the screening methodologies, sample
+size used and the level of antibiotic consumption in each country
+could explain these variations (Rhouma et al., 2016).
+
+Escherichia coli was the most common multi-drug-resistant
+organism isolated; MALDI-TOF MSP dendrogram and MLST
+analysis revealed the presence of ﬁve clusters from which the
+representative strains belonged to diﬀerent STs. Within each
+cluster, strains isolated from farms of the same district were
+grouped together; this is especially true for the Akkar and
+North Lebanon strains. This observation reveals that strains
+of the same region are closely related. Although PFGE is the
+standard method for the detection of clones, due to the large
+number of strains isolated in this study, PFGE typing was not
+performed; rather, we referred to the MSP dendrogram as a
+possible rapid tool for strain diﬀerentiation according to their
+geographical and/or phenotypic distribution in epidemiological
+studies as certain previous studies have suggested (Berrazeg et al.,
+2013; Khennouchi et al., 2015). With the exception of ST155,
+none of the sequence types identiﬁed in this study were among
+those frequently reported in chicken such as ST10, ST23, ST48,
+ST58, ST115, ST117, ST350, and ST648 (Olsen et al., 2014).
+However, looking at the Warwick E. coli MLST database, we
+found that the STs detected in our study were previously reported
+from livestock, cats and dogs, and humans. ST155 has been
+commonly reported in poultry (Pires-dos-Santos et al., 2013), and
+it appears to be associated with a zoonotic risk, which has been
+suggested by some studies (Lazarus et al., 2015). This emphasizes
+the hypothesis that MDROs in food-producing animals can be
+transmitted to humans and may be causative agents of infections
+with therapeutic challenges when high resistance is encountered.
+It should also be mentioned that clones in animals and humans
+are not always shared; some studies have shown that E. coli
+strains in food-producing animals diﬀer from those reported in
+humans (Randall et al., 2012; Wu et al., 2013). This suggests that
+only some bacterial clones might be transmitted to the human
+population.
+
+As our study showed, ESBL producers dominate the Lebanese
+poultry sector. The prevalence of ampC producers is also elevated
+(43.5%). ESBL and ampC-producing Gram-negative bacilli were
+previously reported in clinical and community settings in
+Lebanon (Dandachi et al., 2016). Molecular characterization
+revealed that 50% of isolated strains co-harbored at least two
+
+i
+
+i
+
+.
+n
+c
+m
+a
+t
+n
+e
+g
+
+,
+T
+N
+E
+G
+
+i
+
+;
+n
+c
+a
+x
+o
+ﬂ
+o
+r
+p
+c
+P,
+C
+
+I
+
+i
+
+l
+
+;
+e
+o
+z
+a
+x
+o
+h
+t
+e
+m
+a
+
+f
+l
+
+u
+s
+-
+m
+
+i
+r
+p
+o
+h
+t
+e
+m
+
+i
+r
+t
+
+,
+
+T
+X
+S
+
+;
+
+m
+a
+t
+c
+a
+b
+o
+z
+a
+t
+-
+n
+
+i
+l
+l
+i
+
+i
+
+c
+a
+r
+e
+p
+p
+P,
+Z
+T
+
+;
+
+i
+
+d
+c
+a
+
+Frontiers in Microbiology | www.frontiersin.org
+
+6
+
+March 2018 | Volume 9 | Article 550
+
+Dandachi et al.
+
+Antimicrobial Resistant Organisms in Lebanese Poultry
+
+FIGURE 2 | Prevalence of MDROs in Lebanese poultry farms. Prevalence is expressed as the “number of isolates (percentage).”
+
+Frontiers in Microbiology | www.frontiersin.org
+
+7
+
+March 2018 | Volume 9 | Article 550
+
+Dandachi et al.
+
+Antimicrobial Resistant Organisms in Lebanese Poultry
+
+TABLE 3 | Characteristics of the different phenotypes/genotypes of ESBL and ESBL/AmpC producers found in this study.
+
+Species
+
+Escherichia coli
+
+Phenotype
+
+ESBL
+
+bla SHV
+bla SHV
+bla SHV
+bla SHV
+bla SHV
+
+bla SHV
+bla SHV
+
+AmpC/ESBL
+
+Klebsiella pneumoniae
+
+ESBL
+
+bla SHV
+bla SHV
+
+bla SHV
+bla SHV
+bla SHV
+bla SHV
+
+AmpC/ESBL
+
+bla SHV
+
+bla SHV
+
+Escherichia fergusonii
+Enterobacter cloacae
+
+ESBL
+ESBL
+
+β -lactamase genes
+
+Co-resistance to non β -lactams
+
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+bla TEM
+
+bla CTX-M
+bla CTX-M
+bla CTX-M
+bla CTX-M
+
+bla CTX-M
+bla CTX-M
+bla CTX-M
+
+bla CTX-M
+
+bla CTX-M
+bla CTX-M
+bla CTX-M
+bla CTX-M
+bla CTX-M
+bla CTX-M
+
+bla CTX-M
+bla CTX-M
+bla CTX-M
+bla CTX-M
+
+bla CTX-M
+bla CTX-M
+bla CTX-M
+bla CTX-M
+
+bla CTX-M
+bla CTX-M
+
+SXT-CIP-GNT
+
+SXT-CIP
+CIP-GNT
+SXT-GNT
+
+SXT-CIP-GNT
+
+CIP
+
+SXT-GNT
+SXT-CIP
+
+SXT
+
+SXT-CIP-GNT
+
+SXT-CIP
+
+N.R
+
+SXT-CIP-GNT
+
+SXT-GNT
+SXT-CIP
+CIP-GNT
+
+GNT
+N.R
+
+SXT-CIP-GNT
+
+GNT
+
+SXT-CIP-GNT
+
+SXT-GNT
+CIP-GNT
+
+SXT
+N.R
+
+SXT-CIP-GNT
+
+SXT
+
+CIP-GNT
+SXT-CIP
+SXT-GNT
+
+N.R
+GNT
+
+CIP-GNT
+
+SXT-CIP-GNT
+
+N.R
+
+CIP-GNT
+
+SXT-CIP-GNT
+SXT-CIP-GNT
+SXT-CIP-GNT
+
+CIP-GNT
+
+SXT-CIP-GNT
+SXT-CIP-GNT
+
+SXT-GNT
+
+CIP
+GNT
+
+SXT, trimethoprim-sulfamethoxazole; GNT, gentamicin; CIP, ciproﬂoxacin; N.R, no resistance.
+
+β-lactamase genes with the most common being CTX-M and
+TEM. Moreover, the only AmpC β-lactamase encoding gene was
+the CMY ampC β-lactamase. This gene was previously reported
+in poultry (Dierikx et al., 2013; El-Shazly et al., 2017) as well
+as in food producing animals (Sato et al., 2014; Aguilar-Montes
+de Oca et al., 2015) and healthy pets (Donati et al., 2014; Liu
+et al., 2016). As per the phenotypic and genotypic detection of
+
+AmpC production, these showed that there are some strains
+that were negative with the ampC disk test but positive for
+an ampC β-lactamase gene and vice-versa. Phenotypically false
+negatives shows the importance of the molecular testing in the
+detection of AmpC production. On the other hand, in the 15
+E. coli strains that were negative for plasmidic ampC β-lactamase
+genes; one explanation for this might be due to an overexpression
+
+Frontiers in Microbiology | www.frontiersin.org
+
+8
+
+March 2018 | Volume 9 | Article 550
+
+Dandachi et al.
+
+Antimicrobial Resistant Organisms in Lebanese Poultry
+
+the chromosomal ampC gene mediated by a mutation
+of
+in the promoter/attenuator region as described in previous
+studies (Escudero et al., 2010; Haenni et al., 2014). Regarding
+non-β-lactam co-resistance in ESBL and/or ampC producers,
+antimicrobial resistance toward gentamicin was relatively high
+in this study. In fact, 66% of ESBL and/or ampC producing
+Gram-negative bacilli were gentamicin resistant. This could
+possibly be linked to the frequent use of this antibiotic in
+Lebanese farms as several studies have reported (El-Rami et al.,
+2012; Diab et al., 2016). One study conducted by Abdelnoor
+et al. (2013) found a signiﬁcant association between gentamicin
+resistance in E. coli isolates and the use of this antimicrobial
+agent as a food additive in poultry in Lebanon. Another study
+launched a questionnaire-based survey on the most common
+antibiotics used in Lebanese livestock and found that gentamicin
+and streptomycin are the most common and heavily used
+antimicrobial agents (Kassaify et al., 2013). Another thing to
+mention is that in this study, no carbapenemase producers
+were detected. There might be two possible explanations for
+this: the ﬁrst one is that carbapenemase producers are really
+scarce in Lebanese chicken farms; the second one is that these
+isolates were missed due to the medium used for the screening
+of multi-drug-resistant organisms. As has been reported, OXA-
+48 carbapenemase producers are frequently found in hospitals
+and nursing homes and in fowls in Lebanon (Al Bayssari
+et al., 2015b). OXA-48 carbapenemases do not always confer
+resistance to third-generation cephalosporins unless there is
+another mechanism of resistance that co-exists in the same
+bacterial cell
+(Poirel et al., 2012). Therefore, Oxacillinase
+producers could have been missed or under-estimated in our
+study.
+
+Our study has two main limitations. The ﬁrst one is that the
+primers used for blaTEM and blaSHV screening were universal,
+and thus, the possibility of having non-ESBL variants cannot
+be ruled out. However, as the strains presented with a typical
+ESBL phenotype,
+i.e., the key hole eﬀect and resistance to
+penicillin, monobactams and third-generation cephalosporins
+with susceptibility to carbapenems, the TEM-positive strains
+were considered as ESBL producers and were included in the
+description of the MDR-GNB prevalence in this study. The
+second limitation is the low number of isolates subjected to MLST
+typing. MLST and PFGE analysis remain the gold standard for
+clone/cluster detection in epidemiological studies regardless of
+
+the number of strains (McGregor and Spratt, 2005; Zou et al.,
+2010).
+
+CONCLUSION
+
+Our study illustrates the current epidemiology of multi-drug-
+resistant Gram-negative bacilli in Lebanese chicken farms. ESBL
+and ampC producers cross-resistant to antibiotics used in human
+medicine are highly prevalent across the territory. Our study
+suggests that poultry farms are potent reservoirs of antimicrobial
+resistance in Lebanon. Although very few studies have reported
+the detection of carbapenemase producers in Lebanese Livestock
+(Al Bayssari et al., 2015a,b), it will likely only be a matter of time
+before these organisms become prevalent in Lebanese animal
+farms. This is especially true if no strict rules are implemented
+to control the overuse and misuse of antibiotics for treatment,
+growth promotion and prophylaxis in Lebanese agriculture. We
+believe that the prescription of antibiotics often used in human
+medicine should be reduced or even banned in the veterinary
+sector.
+
+AUTHOR CONTRIBUTIONS
+
+ID, ES, and ED conducted the phenotypic and molecular work.
+BE-B was responsible for the collection of the samples. EA, J-MR,
+and ZD reviewed and edited the manuscript.
+
+FUNDING
+
+This study was funded by the Lebanese Council for Research and
+the French Government under the “Investissements d’Avenir”
+(Investments for the Future) program managed by the Agence
+Nationale de la Recherche (ANR,
+fr: National Agency for
+Research) (reference: Méditerranée Infection 10-IAHU-03).
+
+ACKNOWLEDGMENTS
+
+We would like to thank Dr. Hervé Chaudet for his assistance in
+the construction of the MSP dendrogram.
+
+REFERENCES
+Abdelnoor, A. M., Chokr, S., Fayad, L., and Al-Akl, N. (2013). Review study on
+external-hospital bacteria as a source of infection and antimicrobial resistance
+in lebanon. Int. Arab. J. Antimicrob. Agents 3, 1–6.
+
+Aguilar-Montes de Oca, S., Talavera-Rojas, M., Soriano-Vargas, E., Barba-Leon, J.,
+and Vazquez-Navarrete, J. (2015). Determination of extended spectrum beta-
+lactamases/AmpC beta-lactamases and plasmid-mediated quinolone resistance
+in Escherichia coli isolates obtained from bovine carcasses in mexico. Trop.
+Anim. Health Prod. 47, 975–981. doi: 10.1007/s11250-015-0818-3
+
+Al Bayssari, C., Dabboussi, F., Hamze, M., and Rolain, J. M. (2015a). Emergence
+of carbapenemase-producing Pseudomonas aeruginosa and Acinetobacter
+baumannii in livestock animals in lebanon. J. Antimicrob. Chemother. 70,
+950–951. doi: 10.1093/jac/dku469
+
+Al Bayssari, C., Olaitan, A. O., Dabboussi, F., Hamze, M., and Rolain, J. M.
+(2015b). Emergence of OXA-48-producing Escherichia coli clone ST38 in
+fowl. Antimicrob. Agents Chemother. 59, 745–746. doi: 10.1128/AAC.03
+552-14
+
+Alonso, C. A., Zarazaga, M., Ben Sallem, R., Jouini, A., Ben Slama, K., and
+Torres, C. (2017). Antibiotic resistance in Escherichia coli in husbandry animals:
+the African perspective. Lett. Appl. Microbiol. 64, 318–334. doi: 10.1111/lam.
+12724
+
+Bachiri, T., Bakour, S., Ladjouzi, R., Thongpan, L., Rolain, J. M., and Touati, A.
+(2017). High rates of CTX-M-15-producing Escherichia coli and Klebsiella
+pneumoniae in wild boars and barbary macaques in algeria. J. Glob. Antimicrob.
+Resist. 8, 35–40. doi: 10.1016/j.jgar.2016.10.005
+
+Bakour, S., Garcia, V., Loucif, L., Brunel, J. M., Gharout-Sait, A., Touati, A., et al.
+(2015). Rapid identiﬁcation of carbapenemase-producing Enterobacteriaceae,
+
+Frontiers in Microbiology | www.frontiersin.org
+
+9
+
+March 2018 | Volume 9 | Article 550
+
+Dandachi et al.
+
+Antimicrobial Resistant Organisms in Lebanese Poultry
+
+Pseudomonas aeruginosa and Acinetobacter baumannii using a modiﬁed Carba
+NP test. New Microbes New Infect. 7, 89–93. doi: 10.1016/j.nmni.2015.07.001
+
+Baroud, M., Dandache, I., Araj, G. F., Wakim, R., Kanj, S., Kanafani, Z., et al. (2013).
+Underlying mechanisms of carbapenem resistance in extended-spectrum beta-
+lactamase-producing Klebsiella pneumoniae and Escherichia coli isolates at a
+tertiary care centre in lebanon: role of OXA-48 and NDM-1 carbapenemases.
+Int. J. Antimicrob. Agents 41, 75–79. doi: 10.1016/j.ijantimicag.2012.08.010
+
+Belmahdi, M., Bakour, S., Al Bayssari, C., Touati, A., and Rolain, J. M. (2016).
+Molecular characterisation of extended-spectrum beta-lactamase- and plasmid
+AmpC-producing Escherichia coli strains isolated from broilers in bejaia,
+algeria. J. Glob. Antimicrob. Resist. 6, 108–112. doi: 10.1016/j.jgar.2016.04.006
+
+Berrazeg, M., Diene, S. M., Drissi, M., Kempf, M., Richet, H., Landraud, L.,
+et al. (2013). Biotyping of multidrug-resistant Klebsiella pneumoniae clinical
+isolates from france and algeria using MALDI-TOF MS. PLoS One 8:e61428.
+doi: 10.1371/journal.pone.0061428
+
+Bettiol, E., and Harbarth, S. (2015). Development of new antibiotics: taking oﬀ
+
+ﬁnally? Swiss Med. Wkly. 145:w14167. doi: 10.4414/smw.2015.14167
+
+Black, J. A., Moland, E. S., and Thomson, K. S. (2005). AmpC disk test for
+detection of plasmid-mediated AmpC disk test for detection of plasmid-
+mediated AmpC beta-lactamases in Enterobacteriaceae lacking chromosomal
+AmpC beta-lactamases. J. Clin. Microbiol. 43, 3110–3113. doi: 10.1128/JCM.43.
+7.3110-3113.2005
+
+Chantziaras, I., Boyen, F., Callens, B., and Dewulf, J. (2014). Correlation between
+veterinary antimicrobial use and antimicrobial resistance in food-producing
+animals: a report on seven countries. J. Antimicrob. Chemother. 69, 827–834.
+doi: 10.1093/jac/dkt443
+
+Dahms, C., Hubner, N. O., Wilke, F., and Kramer, A. (2014). Mini-review:
+epidemiology and zoonotic potential of multiresistant bacteria and clostridium
+diﬃcile in livestock and food. GMS Hyg. Infect. Control 9:Doc21. doi: 10.3205/
+dgkh000241
+
+Dallenne, C., Da Costa, A., Decre, D., Favier, C., and Arlet, G. (2010). Development
+of a set of multiplex PCR assays for the detection of genes encoding important
+beta-lactamases in Enterobacteriaceae. J. Antimicrob. Chemother. 65, 490–495.
+doi: 10.1093/jac/dkp498
+
+Dandachi, I., Salem Sokhn, E., Najem, E., Azar, E., and Daoud, Z. (2016). Carriage
+of beta-lactamase-producing Enterobacteriaceae among nursing home residents
+in north lebanon. Int. J. Infect. Dis. 45, 24–31. doi: 10.1016/j.ijid.2016.02.007
+
+Diab, M., Hamze, M., Madec, J. Y., and Haenni, M. (2016). High prevalence of
+non-ST131 CTX-M-15-producing Escherichia coli in healthy cattle in lebanon.
+Microb. Drug Resist. 23, 261–266. doi: 10.1089/mdr.2016.0019
+
+Dierikx, C. M., van der Goot, J. A., Smith, H. E., Kant, A., and Mevius, D. J. (2013).
+Presence of ESBL/AmpC-producing Escherichia coli in the broiler production
+pyramid: a descriptive study. PLoS One 8:e79005. doi: 10.1371/journal.pone.
+0079005
+
+Donati, V., Feltrin, F., Hendriksen, R. S., Svendsen, C. A., Cordaro, G., Garcia-
+Fernandez, A., et al. (2014). Extended-spectrum-beta-lactamases, AmpC beta-
+lactamases and plasmid mediated quinolone resistance in klebsiella spp. from
+companion animals in italy. PLoS One 9:e90564. doi: 10.1371/journal.pone.
+0090564
+
+ECDC/EFSA/EMA (2017). ECDC/EFSA/EMA second joint report on the
+integrated analysis of the consumption of antimicrobial agents and occurrence
+of antimicrobial resistance in bacteria from humans and food-producing
+animals. Sci. Rep. 15:e04872. doi: 10.2903/j.efsa.2017.4872/epdf
+
+Economou, V., and Gousia, P. (2015). Agriculture and food animals as a source of
+antimicrobial-resistant bacteria. Infect. Drug Resist. 8, 49–61. doi: 10.2147/IDR.
+S55778
+
+El-Rami, F. E., Sleiman, F. T., and Abdelnoor, A. M. (2012). Identiﬁcation and
+antibacterial resistance of bacteria isolated from poultry. Pol. J. Microbiol. 61,
+323–326.
+
+El-Shazly, D. A., Nasef, S. A., Mahmoud, F. F., and Jonas, D. (2017). Expanded
+spectrum beta-lactamase producing Escherichia coli isolated from chickens with
+colibacillosis in Egypt. Poult. Sci. 96, 2375–2384. doi: 10.3382/ps/pew493
+
+Escudero, E., Vinue, L., Teshager, T., Torres, C., and Moreno, M. A. (2010).
+Resistance mechanisms and farm-level distribution of fecal Escherichia coli
+isolates resistant to extended-spectrum cephalosporins in pigs in spain. Res. Vet.
+Sci. 88, 83–87. doi: 10.1016/j.rvsc.2009.05.021
+
+European Committee on Antimicrobial Susceptibility Testing (2017). Breakpoint
+Interpretation of MICs and Zone Diameters, Version 7.1.
+
+Tables
+
+for
+
+Available at: http://www.eucast.org/ﬁleadmin/src/media/PDFs/EUCAST_ﬁles/
+Breakpoint_tables/v_7.1_Breakpoint_Tables.pdf
+
+Exner, M., Bhattacharya, S., Christiansen, B., Gebel, J., Goroncy-Bermes, P.,
+Hartemann, P., et al. (2017). Antibiotic resistance: What
+is so special
+about multidrug-resistant gram-negative bacteria? GMS Hyg. Infect. Control
+12:Doc05. doi: 10.3205/dgkh000290
+
+Ghodousi, A., Bonura, C., Di Noto, A. M., and Mammina, C.
+
+(2015).
+Extended-spectrum ß-lactamase, AmpC-producing, and ﬂuoroquinolone-
+resistant Escherichia coli in retail broiler chicken meat, Italy. Foodborne Pathog.
+Dis. 12, 619–625. doi: 10.1089/fpd.2015.1936
+
+Gonzalez-Torralba, A., Oteo, J., Asenjo, A., Bautista, V., Fuentes, E., and Alos, J. I.
+(2016). Survey of carbapenemase-producing Enterobacteriaceae in companion
+dogs in madrid, spain. Antimicrob. Agents Chemother. 60, 2499–2501.
+doi: 10.1128/AAC.02383-15
+
+Haenni, M., Chatre, P., and Madec, J. Y. (2014). Emergence of Escherichia
+coli producing extended-spectrum AmpC beta-lactamases (ESAC) in animals.
+Front. Microbiol. 5:53. doi: 10.3389/fmicb.2014.00053
+
+Haenni, M., Saras, E., Ponsin, C., Dahmen, S., Petitjean, M., Hocquet, D.,
+et al. (2016). High prevalence of international ESBL CTX-M-15-producing
+Enterobacter cloacae ST114 clone in animals. J. Antimicrob. Chemother. 71,
+1497–1500. doi: 10.1093/jac/dkw006
+
+Huijbers, P. M., Graat, E. A., Haenen, A. P., van Santen, M. G., van Essen-
+Zandbergen, A., Mevius, D. J., et al. (2014). Extended-spectrum and AmpC
+beta-lactamase-producing Escherichia coli in broilers and people living and/or
+working on broiler farms: prevalence, risk factors and molecular characteristics.
+J. Antimicrob. Chemother. 69, 2669–2675. doi: 10.1093/jac/dku178
+
+Kassaify, Z., Abi-Khalil, P., and Sleiman, F.
+
+(2013). Quantiﬁcation of
+antibiotic residues and determination of antimicrobial resistance proﬁles
+of microorganisms isolated from bovine milk in lebanon. Food Nutr. Sci. 4,
+1–9. doi: 10.4236/fns.2013.47A001
+
+Kawamura, K., Goto, K., Nakane, K., and Arakawa, Y. (2014). Molecular
+epidemiology of extended-spectrum beta-lactamases and Escherichia coli
+isolated from retail foods including chicken meat in Japan. Foodborne Pathog.
+Dis. 11, 104–110. doi: 10.1089/fpd.2013.1608
+
+Kempf, I., Jouy, E., Granier, S. A., Chauvin, C., Sanders, P., Salvat, G., et al. (2015).
+Comment on “impact of antibiotic use in the swine industry”, by Mary D.
+Barton [Curr. Opin. Microbiol. 19 (June 2014) 9–15]. Curr. Opin. Microbiol.
+26, 137–138. doi: 10.1016/j.mib.2015.06.013
+
+Khennouchi, N. C., Loucif, L., Boutefnouchet, N., Allag, H., and Rolain, J. M.
+(2015). MALDI-TOF MS as a tool to detect a nosocomial outbreak of
+extended-spectrum-beta-lactamase- and ArmA methyltransferase-producing
+Enterobacter cloacae clinical isolates in algeria. Antimicrob. Agents Chemother.
+59, 6477–6483. doi: 10.1128/AAC.00615-15
+
+Kola, A., Kohler, C., Pfeifer, Y., Schwab, F., Kuhn, K., Schulz, K., et al.
+(2012). High prevalence of extended-spectrum-beta-lactamase-producing
+Enterobacteriaceae in organic and conventional retail chicken meat, Germany.
+J. Antimicrob. Chemother. 67, 2631–2634. doi: 10.1093/jac/dks295
+
+Lazarus, B., Paterson, D. L., Mollinger, J. L., and Rogers, B. A. (2015). Do human
+extraintestinal Escherichia coli
+to expanded-spectrum
+cephalosporins originate from food-producing animals? A systematic review.
+Clin. Infect. Dis. 60, 439–452. doi: 10.1093/cid/ciu785
+
+infections resistant
+
+Leverstein-van Hall, M. A., Dierikx, C. M., Cohen Stuart, J., Voets, G. M., van den
+Munckhof, M. P., van Essen-Zandbergen, A., et al. (2011). Dutch patients, retail
+chicken meat and poultry share the same ESBL genes, plasmids and strains. Clin.
+Microbiol. Infect. 17, 873–880. doi: 10.1111/j.1469-0691.2011.03497.x
+
+Liu, X., Thungrat, K., and Boothe, D. M. (2016). Occurrence of OXA-48
+carbapenemase and other beta-lactamase genes in ESBL-producing multidrug
+resistant Escherichia coli from dogs and cats in the United States, 2009-2013.
+Front. Microbiol. 7:1057. doi: 10.3389/fmicb.2016.01057
+
+Liu, Y., and Liu, X. (2015). Detection of AmpC beta-lactamases in Acinetobacter
+baumannii in the Xuzhou region and analysis of drug resistance. Exp. Ther.
+Med. 10, 933–936. doi: 10.3892/etm.2015.2612
+
+Maciuca, I. E., Williams, N. J., Tuchilus, C., Dorneanu, O., Guguianu, E., Carp-
+Carare, C., et al. (2015). High prevalence of Escherichia coli-producing CTX-M-
+15 extended-spectrum beta-lactamases in poultry and human clinical isolates in
+romania. Microb. Drug Resist. 21, 651–662. doi: 10.1089/mdr.2014.0248
+
+Madec, J. Y., Haenni, M., Nordmann, P., and Poirel, L. (2017). Extended-spectrum
+beta-lactamase/AmpC- and carbapenemase-producing Enterobacteriaceae in
+
+Frontiers in Microbiology | www.frontiersin.org
+
+10
+
+March 2018 | Volume 9 | Article 550
+
+Dandachi et al.
+
+Antimicrobial Resistant Organisms in Lebanese Poultry
+
+animals: a threat for humans? Clin. Microbiol. Infect. 23, 826–833. doi: 10.1016/
+j.cmi.2017.01.013
+
+Magiorakos, A. P., Srinivasan, A., Carey, R. B., Carmeli, Y., Falagas, M. E.,
+Giske, C. G., et al. (2012). Multidrug-resistant, extensively drug-resistant
+and pandrug-resistant bacteria: an international expert proposal for interim
+standard deﬁnitions for acquired resistance. Clin. Microbiol. Infect. 18, 268–281.
+doi: 10.1111/j.1469-0691.2011.03570.x
+
+McGregor, K. F., and Spratt, B. G. (2005). Identity and prevalence of multilocus
+sequence typing-deﬁned clones of group A streptococci within a hospital
+setting. J. Clin. Microbiol. 43, 1963–1967. doi: 10.1128/JCM.43.4.1963-1967.
+2005
+
+Moghnieh, R., Estaitieh, N., Mugharbil, A., Jisr, T., Abdallah, D. I., Ziade, F.,
+et al. (2015). Third generation cephalosporin resistant Enterobacteriaceae
+and multidrug resistant gram-negative bacteria causing bacteremia in febrile
+neutropenia adult cancer patients in lebanon, broad spectrum antibiotics use
+as a major risk factor, and correlation with poor prognosis. Front. Cell Infect.
+Microbiol. 5:11. doi: 10.3389/fcimb.2015.00011
+
+Nguyen, V. T., Carrique-Mas, J. J., Ngo, T. H., Ho, H. M., Ha, T. T., Campbell, J. I.,
+et al. (2015). Prevalence and risk factors for carriage of antimicrobial-resistant
+Escherichia coli on household and small-scale chicken farms in the mekong
+delta of Vietnam. J. Antimicrob. Chemother. 70, 2144–2152. doi: 10.1093/jac/
+dkv053
+
+Olaitan, A. O., Thongmalayvong, B., Akkhavong, K., Somphavong, S.,
+Paboriboune, P., Khounsy, S., et al. (2015). Clonal
+transmission of a
+colistin-resistant Escherichia coli from a domesticated pig to a human in
+laos. J. Antimicrob. Chemother. 70, 3402–3404.
+
+Olsen, R. H., Bisgaard, M., Lohren, U., Robineau, B., and Christensen, H. (2014).
+Extended-spectrum beta-lactamase-producing Escherichia coli isolated from
+poultry: a review of current problems, illustrated with some laboratory ﬁndings.
+Avian Pathol. 43, 199–208. doi: 10.1080/03079457.2014.907866
+
+Ortega-Paredes, D., Barba, P., and Zurita, J. (2016). Colistin-resistant Escherichia
+coli clinical isolate harbouring the mcr-1 gene in Ecuador. Epidemiol. Infect. 144,
+2967–2970. doi: 10.1017/S0950268816001369
+
+Peng, C., and Zong, Z. (2011). Sequence type 38 Escherichia coli carrying
+J. Med. Microbiol. 60(Pt 5), 694–695. doi: 10.1099/jmm.0.
+
+blaCTX-M-14.
+028316-0
+
+Pires-dos-Santos, T., Bisgaard, M., and Christensen, H. (2013). Genetic diversity
+and virulence proﬁles of Escherichia coli causing salpingitis and peritonitis
+in broiler breeders. Vet. Microbiol. 162, 873–880. doi: 10.1016/j.vetmic.2012.
+11.008
+
+Poirel, L., Potron, A., and Nordmann, P. (2012). OXA-48-like carbapenemases: the
+phantom menace. J. Antimicrob. Chemother. 67, 1597–1606. doi: 10.1093/jac/
+dks121
+
+Rafei, R., Hamze, M., Pailhories, H., Eveillard, M., Marsollier, L., Joly-Guillou,
+M. L., et al. (2015). Extrahuman epidemiology of Acinetobacter baumannii
+in lebanon. Appl. Environ. Microbiol. 81, 2359–2367. doi: 10.1128/AEM.
+03824-14
+
+Randall, L., Wu, G., Phillips, N., Coldham, N., Mevius, D., and Teale, C. (2012).
+Virulence genes in blaCTX-M Escherichia coli isolates from chickens and humans.
+Res. Vet. Sci. 93, 23–27. doi: 10.1016/j.rvsc.2011.06.016
+
+Rhouma, M., Beaudry, F., and Letellier, A. (2016). Resistance to colistin: What is the
+fate for this antibiotic in pig production? Int. J. Antimicrob. Agents 48, 119–126.
+doi: 10.1016/j.ijantimicag.2016.04.008
+
+Roschanski, N., Fischer, J., Guerra, B., and Roesler, U. (2014). Development
+of a multiplex real-time PCR for the rapid detection of the predominant
+beta-lactamase genes CTX-M, SHV, TEM and CIT-type AmpCs
+in
+Enterobacteriaceae. PLoS One 9:e100956. doi: 10.1371/journal.pone.0100956
+
+Sato, T., Okubo, T., Usui, M., Yokota, S., Izumiyama, S., and Tamura, Y. (2014).
+Association of veterinary third-generation cephalosporin use with the risk of
+emergence of extended-spectrum-cephalosporin resistance in Escherichia coli
+from dairy cattle in Japan. PLoS One 9:e96101. doi: 10.1371/journal.pone.
+0096101
+
+Schill, F., Abdulmawjood, A., Klein, G., and Reich, F. (2017). Prevalence and
+characterization of extended-spectrum beta-lactamase (ESBL) and AmpC beta-
+lactamase producing Enterobacteriaceae in fresh pork meat at processing level
+in germany. Int. J. Food Microbiol. 257, 58–66. doi: 10.1016/j.ijfoodmicro.2017.
+06.010
+
+Schwarz, S., Enne, V. I., and van Duijkeren, E. (2016). 40 years of veterinary
+papers in JAC – what have we learnt? J. Antimicrob. Chemother. 71, 2681–2690.
+doi: 10.1093/jac/dkw363
+
+Seiﬀert, S. N., Hilty, M., Perreten, V., and Endimiani, A. (2013). Extended-
+spectrum cephalosporin-resistant gram-negative organisms in livestock: an
+emerging problem for human health? Drug Resist. Updat. 16, 22–45. doi: 10.
+1016/j.drup.2012.12.001
+
+Seng, P., Rolain, J. M., Fournier, P. E., La Scola, B., Drancourt, M., and Raoult, D.
+(2010). MALDI-TOF-mass spectrometry applications in clinical microbiology.
+Future Microbiol. 5, 1733–1754. doi: 10.2217/fmb.10.127
+
+Singhal, N., Kumar, M., Kanaujia, P. K., and Virdi, J. S. (2015). MALDI-TOF
+mass spectrometry: an emerging technology for microbial identiﬁcation and
+diagnosis. Front. Microbiol. 6:791. doi: 10.3389/fmicb.2015.00791
+
+Wu, G., Day, M. J., Mafura, M. T., Nunez-Garcia, J., Fenner, J. J., Sharma, M., et al.
+(2013). Comparative analysis of ESBL-positive Escherichia coli isolates from
+animals and humans from the UK, the Netherlands and Germany. PLoS One
+8:e75392. doi: 10.1371/journal.pone.0075392
+
+Zou, W., Lin, W. J., Foley, S. L., Chen, C. H., Nayak, R., and Chen, J. J.
+(2010). Evaluation of pulsed-ﬁeld gel electrophoresis proﬁles for identiﬁcation
+of Salmonella serotypes. J. Clin. Microbiol. 48, 3122–3126. doi: 10.1128/JCM.
+00645-10
+
+Conﬂict of Interest Statement: The authors declare that the research was
+conducted in the absence of any commercial or ﬁnancial relationships that could
+be construed as a potential conﬂict of interest.
+
+Copyright © 2018 Dandachi, Sokhn, Dahdouh, Azar, El-Bazzal, Rolain and Daoud.
+This is an open-access article distributed under the terms of the Creative Commons
+Attribution License (CC BY). The use, distribution or reproduction in other forums
+is permitted, provided the original author(s) and the copyright owner are credited
+and that the original publication in this journal is cited, in accordance with accepted
+academic practice. No use, distribution or reproduction is permitted which does not
+comply with these terms.
+
+Frontiers in Microbiology | www.frontiersin.org
+
+11
+
+March 2018 | Volume 9 | Article 550
+
+

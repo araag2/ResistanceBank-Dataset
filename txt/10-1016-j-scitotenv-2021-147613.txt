@@ -1,0 +1,1078 @@
+Science of the Total Environment 787 (2021) 147613
+
+Contents lists available at ScienceDirect
+
+Science of the Total Environment
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / s c i t o t e n v
+
+Short Communication
+Emergence of plasmid-mediated tigecycline resistance tet(X4) gene in
+Escherichia coli isolated from poultry, food and the environment in
+South Asia
+Mashkoor Mohsin a,⁎, Brekhna Hassan b, Willames M.B.S. Martins b, Ruichao Li c, Sabahat Abdullah a,
+Kirsty Sands d, Timothy R. Walsh d,⁎⁎
+
+a Institute of Microbiology, University of Agriculture, Faisalabad, Pakistan
+b School of Medicine, Department of Medical Microbiology, Institute of Infection and Immunity, Cardiff University, Cardiff, United Kingdom
+c Jiangsu Co-innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonoses, College of Veterinary Medicine, Yangzhou University, Yangzhou, PR China
+d Ineos Oxford Institute of Antimicrobial Research, Department of Zoology, University of Oxford, United Kingdom
+
+H I G H L I G H T S
+
+G R A P H I C A L A B S T R A C T
+
+• First detection of tet(X4)-mediated tige-
+cycline resistance from different non-
+clinical sources from South Asia
+
+• Co-existence of tet(X4) and mcr-1 is
+
+alarming.
+
+• tet(X4) gene is transferrable to other
+
+host bacteria via conjugation.
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 8 March 2021
+Received in revised form 23 April 2021
+Accepted 3 May 2021
+Available online 8 May 2021
+
+Editor: Ewa Korzeniewska
+
+Keywords:
+Antimicrobial resistance
+Tigecycline
+tet-X4
+Plasmids
+Co-resistance
+Colistin
+South Asia
+
+The recent emergence of mobile-tigecycline resistance tet(X) genes in human and animals in China seriously
+threats the clinical utility of tigecycline. Here we focused on the isolation and molecular characterization of
+plasmid-mediated tigecycline resistance tet(X4)-positive E. coli from different sources in Pakistan using MinION
+and Illumina sequencing. The tet(X4) gene was detected in four E. coli isolates from poultry, chicken meat, wild
+bird and the slaughterhouse wastewater in Pakistan. Co-existence of colistin resistance mcr-1 gene was also de-
+tected in three isolates. The four isolates belonged to different sequence types and the tet(X4) gene was located
+on plasmids ranging from 12,331 bp to 113,610 bp belonging to IncFII and IncQ replicon types with two genetic
+contexts ISCR2-tet(X4)-abh-ISCR2-lysR-ﬂoR-virD2 and ΔISCR2-abh-tet(X4)-ISCR2-virD2-ﬂoR, respectively.
+In all the four E. coli strains, tet(X4) was transferable by conjugation to E. coli J53 host strain. In addition, three of
+four strains transferred tet(X4) to a wild-type carbapenem resistant E. coli strain. To our knowledge, this is the
+ﬁrst report of the emergence of plasmid-mediated tet(X4) gene from Pakistan. The convergence of tigecycline
+and colistin resistance in South Asia is a serious threat to human health.
+
+© 2021 Elsevier B.V. All rights reserved.
+
+⁎ Correspondence to: M. Mohsin, Institute of Microbiology, University of Agriculture, Faisalabad 38000, Pakistan.
+⁎⁎ Correspondence to: T. R. Walsh, Ineos Oxford Institute of Antimicrobial Research, Department of Zoology, University of Oxford, Oxford OX1 3SZ, United Kingdom.
+
+E-mail addresses: mashkoormohsin@uaf.edu.pk (M. Mohsin), timothy.walsh@zoo.ox.ac.uk (T.R. Walsh).
+
+https://doi.org/10.1016/j.scitotenv.2021.147613
+0048-9697/© 2021 Elsevier B.V. All rights reserved.
+
+M. Mohsin, B. Hassan, W.M.B.S. Martins et al.
+
+Science of the Total Environment 787 (2021) 147613
+
+1. Introduction
+
+3. Results and discussion
+
+Tigecycline is a last resort antibiotic to treat infections caused by ex-
+tensively resistant (e.g. carbapenem- and colistin-resistant) Gram-
+negative bacteria (Fang et al., 2020); therefore, the recent emergence of
+mobile tigecycline resistance highlights the threat of an impending return
+to the pre-antibiotic era. Until recently, mechanisms of tigecycline resis-
+tance were restricted to chromosomal mutations which cannot be trans-
+ferred between bacteria. However, in 2019, He et al. reported two
+transferable plasmid-mediated tigecycline resistance genes, tet(X3) and
+tet(X4) in Gram-negative bacterial
+isolates (Escherichia coli and
+Acinetobacter baumannii) from human and animal sources in China (He
+et al., 2019). The Tet(X) proteins are ﬂavin monooxygenases that catalyze
+the degradation of tetracyclines including tigecycline, eravacycline and
+omadacycline. Recently increased reports of tigecycline resistance genes
+tet(X3/X4) and other variants have emerged, mainly from Mainland
+China and Singapore (Zhang et al., 2020; Ding et al., 2020). For the ﬁrst
+time, we report evidence of plasmid-mediated tigecycline resistance
+gene tet(X4) in E. coli isolates from different sources in South Asia.
+
+2. Materials and methods
+
+In an on-going surveillance of mobile colistin resistance in E. coli, from
+human, over 1100 samples were collected from human, animals, food and
+environmental sources from Faisalabad, Pakistan. We detected four E. coli
+isolates displaying high-level tigecycline resistance (MIC ≥16 mg/L). PCR
+was conducted to conﬁrm the presence of a tigecycline resistance gene,
+in this case tet(X4), using primers described earlier (He et al., 2019).
+Antimicrobial resistance phenotypes of isolates were determined by
+disc diffusion. All E. coli isolates carrying tet(X4) were subjected to WGS
+using both MinION (Oxford Nanopore Technologies, UK) and MiSeq
+(Illumina, USA) platforms followed by in-silico analysis for antibiotic resis-
+tance genes, virulence genes, multi-locus sequence type (MLST) and
+genetic context of tet(X4) (Supplementary material). Conjugations were
+performed using sodium azide resistant E. coli J53, and wild-type E. coli
+strains from human microbiota (C351, phylogroup A), human clinical
+(N23 phylogroup D) and animal origin (CX17, phylogroup B2) as recipi-
+ent strains. Growth curves were constructed for control and conjugated
+strains using protocols described in Supplementary material.
+
+The complete sequences of the chromosome and plasmids of strains
+
+have been submitted to GenBank under project code PRJNA683023.
+
+3.1. Characteristics of tet(X4)-positive E. coli
+
+The four E. coli strains were collected in 2018–19 and originated
+from broilers, chicken meat, slaughterhouse wastewater and a wild-
+bird. Worryingly, co-occurrence with mobile colistin resistance mcr-1
+gene was also detected in three strains (PK-2248, PK-2340 and PK-
+4375) (Table 1). All the strains were resistant to three or more antibi-
+otics (multi-drug resistant) and carried ≥6 virulence associated genes
+(Table 2). MLST analysis categorize the strains into the following ST
+groups: ST6726 (PK-2248), ST694 (PK-2340), ST4388 (PK-4114) and
+ST224 (PK-4375), implying the tet(X4)-bearing E. coli strains are
+found in diverse phylogenetic clades (Table 1). The genome size of chro-
+mosomes and plasmids of all the strains are given in Table S1.
+
+3.2. Genetic characterization of tet(X4) and mcr-1 bearing plasmids
+
+The tet(X4)-positive plasmids pPK-2248-tetX4, pPK-2340-tetX4,
+pPK-4114-tetX4 and pPK-4375-tetX4, ranged in size from 12 kbp to
+113 kbp (Table 1). The tet(X4)-bearing plasmids of PK-2248, PK-2340
+and PK-4114 belonged to the IncFII group and showed high-level
+homology with IncFII plasmids (Fig. 1a). In addition to tet(X4), these
+IncFII
+tet(X4)-positive plasmids also harbored other important
+resistance genes, such as mph(A) (macrolide resistance), dfrA12
+(diaminopyrimidine resistance) and ﬂoR (phenicol
+resistance)
+(Fig. 1a). The immediate genetic context of tet(X4) on three plasmids
+had the same 9 kb region (Fig. 1c). This 9 kb tet(X4)-bearing genetic re-
+gion was also found previously from the chromosome of Aeromonas
+caviae WCW1–2 (CP039832) and the plasmid of E. coli CD63-2-1
+(CP050041) with an extra truncated ISCR2 region upstream of tet(X4)
+on both sequences (Chen et al., 2019; Lv et al., 2020). A putative
+composite transposon with two identical IS26 elements ﬂanking the
+9 kb region were observed in three IncFII plasmids from this study
+(Fig. 1c). A BLASTn search of pPK-2248-tetX4 against the NCBI nr data-
+base retrieved other similar IncFII type tet(X4)-negative plasmids
+pGD0503Z13 (KR653209) and pST45-1 (CP050754) of chicken and a
+patient in China. However, the most similar IncFII tet(X4)-bearing plas-
+mid was pRF65_113kb_ﬂye (at 59% coverage in 98.08% identity) discov-
+ered in China (Li et al., 2020) (Fig. 1a), indicating widespread global
+transmission.
+
+Table 1
+Characteristics of tet(X4)-positive E. coli in this study.
+
+Strain
+IDs
+
+PK-2248
+PK-2340
+PK-4114
+PK-4375
+
+Source
+
+Year of
+isolation
+
+MIC MLST
+
+tet(X4) plasmid
+type
+
+tet(X4) plasmid
+size
+
+mcr-1 plasmid
+type
+
+Chicken cloacal
+Slaughter-house waste water
+Crow
+Chicken meat
+
+2018
+2018
+2019
+2019
+
+16
+16
+16
+16
+
+6726
+694
+4388
+224
+
+IncFII
+IncFII
+IncFII
+IncQ1
+
+113 kbp
+100 kbp
+100 kbp
+12 kbp
+
+IncI2
+IncI2
+–
+IncI2
+
+Conjugation frequency
+to J53
+3.8 × 10–2
+6.1 × 10–5
+9.8 × 10–3
+1.5 × 10–3
+
+Conjugation frequency
+to N23
+
+Negative
+4.1 × 10–7
+5.25 × 10–6
+3.6 × 10–8
+
+Table 2
+Antimicrobial resistance and virulence genes proﬁle of E. coli.
+
+Strain
+ID
+
+Phenotypic resistance
+
+Antimicrobial resistance genes
+
+Virulence genes
+
+PK-2248 AMP, C, ENR, GM, SXT,
+
+DC, TE, TYL
+
+PK-2340 AMP, C, GM, SXT, DC,
+
+TE, TYL
+
+aadA1, aadA2, aph(3′)-lb, aph(6)-ld, blaEC-18, blaTEM-215, cmlA1, dfrA12, ﬂoR, fosA4,
+mcr-1.1, mph(A), qnrS1, sul3, tet(A), tet(X4)
+aadA1, aadA2, blaEC-15, blaTEM-215, cmlA1, dfrA12, fosA4, ﬂoR, mcr-1.1, mph(A), sul3, tet
+(A), tet(X4)
+
+PK-4114 AMP, SXT, C, DC, TE, TYL blaEC-18, dfrA12, ﬂoR, mph(A), tet(X4)
+
+PK-4375 AMP, GM, C, SXT, DC, TE aac(3)-lle, aph(3′)-la, aph(3′)-lb, aph(6)-ld, blaEC-18, ﬂoR, mcr-1.1, sul2, tet(A), tet(X4)
+
+astA, fyuA, gad, hra, irp2, ompT, terC, traT
+
+astA, capU, gad, iss, terC, traT
+
+cvaC, etsC, gad, hlyF, iroN, iss, iucC, iutA, lpfA, mchF,
+ompT, sitA, terC, traT, tsh
+astA, cea, cma, gad, hra, iss, iucC, iutA, lpfA, neuC, ompT,
+papA_F19, sitA, terC, traT
+
+AMP, ampicillin; C, chloramphenicol; DC, doxycycline; ENR, enroﬂoxacin; GM, gentamicin; SXT, sulfamethoxazole/trimethoprim; TE, tetracycline; TYL, tylosin.
+
+2
+
+M. Mohsin, B. Hassan, W.M.B.S. Martins et al.
+
+Science of the Total Environment 787 (2021) 147613
+
+l
+a
+n
+o
+i
+t
+p
+i
+r
+c
+s
+n
+a
+r
+t
+d
+n
+a
+
+s
+n
+o
+i
+t
+i
+s
+o
+p
+e
+h
+t
+
+t
+n
+e
+s
+e
+r
+p
+e
+r
+
+s
+w
+o
+r
+r
+a
+
+e
+h
+T
+
+.
+
+g
+ﬁ
+y
+s
+a
+E
+g
+n
+i
+s
+u
+d
+e
+z
+i
+l
+a
+u
+s
+i
+v
+d
+m
+s
+a
+l
+p
+I
+I
+F
+c
+n
+
+i
+
+I
+
+n
+
+i
+
+d
+e
+ﬁ
+i
+t
+n
+e
+d
+
+i
+
+.
+s
+d
+m
+s
+a
+l
+p
+r
+a
+l
+i
+
+m
+
+i
+s
+
+r
+e
+h
+t
+o
+
+o
+t
+n
+o
+s
+i
+r
+a
+p
+m
+o
+c
+d
+n
+a
+
+4
+X
+t
+e
+t
+-
+4
+1
+1
+4
+-
+K
+P
+p
+d
+n
+a
+
+4
+X
+t
+e
+t
+-
+0
+4
+3
+2
+-
+K
+P
+p
+
+,
+
+4
+X
+t
+e
+t
+-
+8
+4
+2
+2
+-
+K
+P
+p
+s
+d
+m
+s
+a
+l
+p
+I
+I
+F
+c
+n
+
+i
+
+I
+
+g
+n
+i
+y
+r
+r
+a
+c
+
+)
+4
+X
+(
+t
+e
+t
+
+f
+o
+
+s
+e
+r
+u
+t
+c
+u
+r
+t
+S
+
+)
+a
+(
+
+y
+d
+u
+t
+s
+
+s
+i
+h
+t
+n
+
+i
+
+i
+
+s
+d
+m
+s
+a
+l
+p
+)
+4
+X
+(
+t
+e
+t
+
+f
+o
+
+s
+t
+n
+e
+m
+n
+o
+r
+i
+v
+n
+e
+
+c
+i
+t
+e
+n
+e
+g
+d
+n
+a
+
+s
+c
+i
+m
+o
+n
+e
+g
+
+e
+v
+i
+t
+a
+r
+a
+p
+m
+o
+C
+
+.
+
+1
+
+.
+
+g
+i
+F
+
+3
+
+i
+
+s
+n
+o
+i
+g
+e
+r
+
+)
+4
+X
+(
+t
+e
+t
+
+f
+o
+
+t
+x
+e
+t
+n
+o
+c
+
+c
+i
+t
+e
+n
+e
+G
+)
+c
+(
+
+.
+
+i
+
+d
+m
+s
+a
+l
+p
+r
+a
+l
+i
+
+m
+
+i
+s
+
+r
+e
+h
+t
+o
+n
+a
+
+o
+t
+n
+o
+s
+i
+r
+a
+p
+m
+o
+c
+d
+n
+a
+d
+m
+s
+a
+l
+p
+1
+Q
+c
+n
+I
+
+i
+
+g
+n
+i
+y
+r
+r
+a
+c
+-
+)
+4
+X
+(
+t
+e
+t
+
+f
+o
+
+e
+r
+u
+t
+c
+u
+r
+t
+S
+
+)
+b
+(
+
+.
+
+d
+e
+r
+n
+
+i
+
+d
+e
+d
+o
+c
+e
+r
+a
+s
+e
+n
+e
+g
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+
+i
+
+c
+i
+t
+o
+i
+b
+i
+t
+n
+a
+d
+n
+a
+g
+n
+d
+a
+h
+s
+y
+e
+r
+g
+y
+b
+d
+e
+k
+r
+a
+m
+e
+r
+a
+y
+g
+o
+l
+o
+m
+o
+h
+f
+o
+s
+n
+o
+i
+g
+e
+R
+
+.
+s
+F
+R
+O
+
+f
+o
+s
+n
+o
+i
+t
+c
+e
+r
+i
+d
+
+M. Mohsin, B. Hassan, W.M.B.S. Martins et al.
+
+Science of the Total Environment 787 (2021) 147613
+
+Fig. 2. Comparative genomics and genetic environments of mcr-1 plasmid in this study (a) Structures of mcr-1 bearing IncI2 plasmids pPK-2248-mcr-1, pPK-2340-mcr-1 and pPK-4375-
+mcr-1 and comparison to other similar plasmids. (b) Genetic context of mcr-1 region identiﬁed in IncI2 plasmid was visualized using Easyﬁg. The arrows represent the positions and tran-
+scriptional directions of ORFs. Regions of homology are marked by grey shading and mcr-1 gene is colored in red.
+
+Additionally, strain PK-4375 carried tet(X4) gene on a IncQ1 type
+plasmid, pPK-4375-tetX4. The tet(X4) gene was on a 6,698 bp region on
+pPK-4375-tetX4 with the genetic structure ΔISCR2-abh-tet(X4)-ISCR2-
+virD2-ﬂoR (Fig. 1b). This 7 kb region was the same as the G3-2 type tet
+(X4) region previously reported (Li et al., 2020), which illustrates that
+this genetic structure/plasmid may transfer between different source
+strains. Moreover, the plasmid backbone of pPK-4375-tetX4 was highly
+similar to other reported plasmids including pig E. coli pLHM10-1
+(CP037909) and wastewater E. coli pRW8-1_122k_tetX (MT219826)
+(Fig. 1b). The 12,331 bp plasmid pPK-4375-tetX4 only contained tet(X4)
+
+and ﬂoR resistance gene differing from other reported IncQ plasmids (Li
+et al., 2017a, 2017b; Loftie-Eaton and Rawlings, 2012). IncQ type plasmids
+have a broad host-range and are thought to disseminate through bac-
+terial population found in sewage and other environments (Stalder
+et al., 2019). The arise of tet(X4)-positive IncQ-type plasmids E. coli
+strains form different sectors greatly enhances the risk of tet(X4)
+horizontal transfer.
+
+The co-resistance of tigecycline with colistin resistance is worri-
+some. All three mcr-1-positive plasmids belonged to IncI2 type and
+shared >99% nucleotide identity with each other. Our IncI2-type
+
+4
+
+M. Mohsin, B. Hassan, W.M.B.S. Martins et al.
+
+Science of the Total Environment 787 (2021) 147613
+
+plasmids showed high similarity to those recovered from NCBI nr data-
+base plasmids pK18JST013 (CP065423, Salmonella) and pZJ3920-3
+(CP020548, E. coli) (Fig. 2a). Compared with the originally reported
+IncI2 mcr-1 plasmid pHNSP45, these three plasmids all lacked the
+ISApl1 element ﬂanking the mcr-1 gene (Fig. 2b), which may stabilize
+the mcr-1 gene. This structure was also found in strains from other
+countries including Pakistan (Ji et al., 2019; Li et al., 2017a, 2017b;
+Mohsin et al., 2019b), which imply this type of plasmids is globally
+widespread. Beside mcr-1, no other antimicrobial resistance gene was
+found on mcr-1 bearing plasmids.
+
+3.3. Conjugation and ﬁtness cost
+
+All tet(X4) carrying strains of this study displayed conjugation with
+E. coli J53. In addition, PK-2340, PK-4114 and Pk-4375 also transfer tet
+(X4) to E. coli N23 (a wild-type clinical strain from Indian origin)
+which also carries blaNDM-1 (Table 1). No conjugation to other wild-
+type E. coli strains (CX351 and CX17) was observed. Furthermore,
+growth curves of the transconjugates and control strains demonstrated
+no ﬁtness cost with wild-type E. coli strain, N23 (transconjugate Tc2340.
+N1; p-value = 0.0291). In contrast, tet(X4) plasmid acquisition by E. coli
+J53 displayed a signiﬁcant ﬁtness cost to its transconjugate, Tc2258.J1
+(p-value ≤ 0.0001), Tc4114.J1 (p-value = 0.0014) and Tc2340.J1
+(p-value ≤ 0.0001) (Fig. 3).
+
+Tetracyclines are the most commonly used antibiotics in food pro-
+ducing animals in Pakistan (Mohsin et al., 2019a; Umair et al., 2020). Se-
+lective pressure due to tetracyclines may well be linked to the
+emergence of tigecycline resistance in Pakistan. Carbapenem resistance
+among Gram-negative bacteria is already a serious challenge in clinical
+
+settings in Indian subcontinent (Stewardson et al., 2019). The possibility
+of co-resistance to colistin, tigecycline and carbapenem could pose a cat-
+astrophic scenario.
+
+4. Conclusions
+
+To the best of our knowledge, this is the ﬁrst report on the detection
+of tet(X4)-mediated tigecycline resistance from multiple non-clinical
+sources from South Asia and our data, if extrapolated across the conti-
+nent has immense ramiﬁcations for the future treatment of XDR infec-
+tions. With the burden carbapenem and colistin resistance already
+high in South Asia, these ﬁndings underscore the importance and ur-
+gency to counter the emergence and co-existence of mobile tigecycline
+and colistin resistant bacteria.
+
+CRediT authorship contribution statement
+
+Mashkoor Mohsin: Conceptualization & Writing- original draft. BH:
+Methodology, Conjugation & Writing - review & editing. Ruichao Li:
+Genomic analysis & Writing - review & editing. Willames M. B. S.
+Martins: Conjugation & Fitness cost. Sabahat Abdullah: Collected sam-
+ples & PCR. Kirsty Sands: Bioinformatics. Timothy Walsh: Conceptuali-
+zation & Investigation.
+
+Declaration of competing interest
+
+The authors declare that they have no known competing ﬁnancial
+interests or personal relationships that could have appeared to inﬂu-
+ence the work reported in this paper.
+
+Fig. 3. Growth rate of conjugated tet(X4) E. coli in comparison with control groups Conjugates resulting with wild-type E. coli strain N23 (Tc2340.N1, Tc4114.N1 and Tc4375.N1) are shown
+on the left and conjugates resulting with E. coli J53 (Tc2248.J1, Tc2340.J1, Tc4114.J1 and Tc4375.J1) are shown on the right side. Signiﬁcant difference between growth rates was observed
+for N23 vs Tc2340.N1 (p-value = 0.0291), EJ53 vs Tc2258.J1 (p-value ≤ 0.0001), EJ53 vs Tc4114.J1 (p-value = 0.0014) and EJ53 vs Tc2340.J1 (p-value ≤ 0.0001).
+
+5
+
+M. Mohsin, B. Hassan, W.M.B.S. Martins et al.
+
+Acknowledgments
+
+This work was supported using seed funding from Cardiff
+University's Global Challenges Research Fund (GCRF) for the Higher
+Education Funding Council for Wales.
+
+Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at https://doi.
+
+org/10.1016/j.scitotenv.2021.147613.
+
+References
+
+Chen, C., Chen, L., Zhang, Y., Cui, C.Y., Wu, X.T., He, Q., Liao, X.P., Liu, Y.H., Sun, J., 2019. De-
+tection of chromosome-mediated tet (X4)-carrying Aeromonas caviae in a sewage
+sample from a chicken farm. J. Antimicrob. Chemother. 74, 3628–3630. https://doi.
+org/10.1093/jac/dkz387.
+
+Ding, Y., Saw, W.Y., Tan, L.W.L., Moong, D.K.N., Nagarajan, N., Teo, Y.Y., Seedorf, H., 2020.
+Emergence of tigecycline-and eravacycline-resistant Tet (X4)-producing Enterobac-
+teriaceae in the gut microbiota of healthy Singaporeans. J. Antimicrob. Chemother.
+75, 3480–3484. https://doi.org/10.1093/jac/dkaa372.
+
+Fang, L.X., Chen, C., Cui, C.Y., Li, X.P., Zhang, Y., Liao, X.P., Sun, J., Liu, Y.H., 2020. Emerging
+high-level tigecycline resistance: novel tetracycline destructases spread via the mo-
+bile Tet (X). Bioessays. 42, 2000014. https://doi.org/10.1002/bies.202000014.
+
+He, T., Wang, R., Liu, D., Walsh, T.R., Zhang, R., Lv, Y., Ke, Y., Ji, Q., Wei, R., Liu, Z., Shen, Y.,
+2019. Emergence of plasmid-mediated high-level tigecycline resistance genes in an-
+imals and humans. Nat. Microbiol. 4, 1450–1456. https://doi.org/10.1038/s41564-
+019-0445-2.
+
+Ji, X., Zheng, B., Berglund, B., Zou, H., Sun, Q., Chi, X., Ottoson, J., Li, X., Lundborg, C.S.,
+Nilsson, L.E., 2019. Dissemination of extended-spectrum β-lactamase-producing
+Escherichia coli carrying mcr-1 among multiple environmental sources in rural
+China and associated risk to human health. Environ. Pollut. 251, 619–627. https://
+doi.org/10.1016/j.envpol.2019.05.002.
+
+Li, R., Ye, L., Zheng, Z., Chan, E.W.C., Chen, S., 2017a. Genetic characterization of broad-
+host-range IncQ plasmids harboring blaVEB-18 in Vibrio species. Antimicrob. Agents
+Chemother. 61. https://doi.org/10.1128/AAC.00708-17.
+
+Science of the Total Environment 787 (2021) 147613
+
+Li, R., Xie, M., Zhang, J., Yang, Z., Liu, L., Liu, X., Zheng, Z., Chan, E.W.C., Chen, S., 2017b. Ge-
+netic characterization of mcr-1-bearing plasmids to depict molecular mechanisms
+underlying dissemination of the colistin resistance determinant. J. Antimicrob.
+Chemother. 72, 393–401. https://doi.org/10.1093/jac/dkw411.
+
+Li, R., Lu, X., Peng, K., Liu, Z., Li, Y., Liu, Y., Xiao, X., Wang, Z., 2020. Deciphering the struc-
+tural diversity and classiﬁcation of the mobile tigecycline resistance gene tet(X)-
+bearing plasmidome among bacteria. mSystems 5. https://doi.org/10.1128/
+mSystems.00134-20.
+
+Loftie-Eaton, W., Rawlings, D.E., 2012. Diversity, biology and evolution of IncQ-family
+
+plasmids. Plasmid 67, 15–34. https://doi.org/10.1016/j.plasmid.2011.10.001.
+
+Lv, H., Huang, W., Lei, G., Liu, L., Zhang, L., Yang, X., 2020. Identiﬁcation of novel plasmids
+containing the tigecycline resistance gene tet(X4) in Escherichia coli isolated from re-
+tail chicken meat. Foodborne Pathog. Dis. 17, 792–794. https://doi.org/10.1089/
+fpd.2020.2822.
+
+Mohsin, M., Van Boeckel, T.P., Saleemi, M.K., Umair, M., Naseem, M.N., He, C., Khan, A.,
+Laxminarayan, R., 2019a. Excessive use of medically important antimicrobials in
+food animals in Pakistan: a ﬁve-year surveillance survey. Glob. Health Action 12,
+1697541. https://doi.org/10.1080/16549716.2019.1697541.
+
+Mohsin, M., Azam, M., ur Rahman, S., Esposito, F., Sellera, F.P., Monte, D.F., Cerdeira, L.,
+Lincopan, N., 2019b. Genomic background of a colistin-resistant and highly virulent
+MCR-1-positive Escherichia coli ST6395 from a broiler chicken in Pakistan. Pathog.
+Dis. 77, ftz064. https://doi.org/10.1093/femspd/ftz064.
+
+Stalder, T., Press, M.O., Sullivan, S., Liachko, I., Top, E.M., 2019. Linking the resistome and
+plasmidome to the microbiome. ISME J. 13, 2437–2446. https://doi.org/10.1038/
+s41396-019-0446-4.
+
+Stewardson, A.J., Marimuthu, K., Sengupta, S., Allignol, A., El-Bouseary, M., Carvalho, M.J.,
+Hassan, B., Delgado-Ramirez, M.A., Arora, A., Bagga, R., Owusu-Ofori, A.K., 2019. Effect
+of carbapenem resistance on outcomes of bloodstream infection caused by Entero-
+bacteriaceae in low-income and middle-income countries (PANORAMA): a multina-
+tional prospective cohort study. Lancet Infect. Dis. 19, 601–610. https://doi.org/
+10.1016/S1473-3099(18)30792-8.
+
+Umair, M., Abdullah, R.M., Aslam, B., Nawaz, M.H., Ali, Q., Fatima, F., Ali, J., Zahoor,
+M.A., Mohsin, M., 2020. First case report on quantiﬁcation of antimicrobial use
+in corporate dairy farms in Pakistan. Front. Vet. Sci. 7. https://doi.org/10.3389/
+fvets.2020.575848.
+
+Zhang, R., Dong, N., Shen, Z., Zeng, Y., Lu, J., Liu, C., Zhou, H., Hu, Y., Sun, Q., Cheng, Q., Shu,
+L., 2020. Epidemiological and phylogenetic analysis reveals Flavobacteriaceae as po-
+tential ancestral source of tigecycline resistance gene tet (X). Nat. Commun. 11,
+1–13. https://doi.org/10.1038/s41467-020-18475-9.
+
+6
+
+

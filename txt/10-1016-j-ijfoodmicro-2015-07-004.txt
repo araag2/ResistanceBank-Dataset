@@ -1,0 +1,928 @@
+International Journal of Food Microbiology 211 (2015) 51–56
+
+Contents lists available at ScienceDirect
+
+International Journal of Food Microbiology
+
+j o u rn a l h o m e p a g e : w ww . e l s e v i e r . c o m/ l o c a t e / i j f o od m i c r o
+
+Identiﬁcation of integrons and phylogenetic groups of drug-resistant
+Escherichia coli from broiler carcasses in China
+Hao Wu a,1, Shibo Xia a,1, Fanyun Bu a, Jing Qi b, Yuqing Liu b, Hai Xu a,⁎
+
+a State Key Laboratory of Microbial Technology, School of Life Science, Shandong University, Jinan 250100, Shandong, China
+b Shandong Key Laboratory of Animal Disease Control and Breeding, Institute of Animal Science and Veterinary Medicine, Shandong Academy of Agricultural Sciences, Jinan 250100,
+Shandong, China
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 18 February 2015
+Received in revised form 26 June 2015
+Accepted 3 July 2015
+Available online 9 July 2015
+
+Keywords:
+Multidrug-resistant Escherichia coli
+Broiler carcasses
+Phylogenetic groups
+Integrons
+
+The dissemination of drug-resistant Escherichia coli in poultry products is becoming a public concern, as it endan-
+gers food security and human health. It is very common for E. coli to exhibit drug resistance in the poultry indus-
+try in China due to the excessive use of antibiotics. However, few studies have examined the drug resistance
+endowed by integrons and integron-associated gene cassettes in different phylogenetic groups of E. coli isolated
+from broiler carcasses. In this study, 373 antibiotic-resistant E. coli strains were isolated from the surfaces or in-
+sides of broiler carcasses from a slaughterhouse in Shandong Province, China. According to phylogenetic assays of
+chuA, yjaA, and an anonymous DNA fragment, TSPE4-C2, these isolates belong to four phylogenetic groups (A, B1,
+B2, and D) and seven subgroups (A0, A1, B1, B21, B22, D1, and D2). Of the tested isolates, 95.71% (n = 357) are
+multi-drug resistant, among which group B1 was predominant, accounting for 33.51% (n = 125) of the tested
+isolates. A high percentage of the E. coli isolates were resistant to amoxicillin–clavulanic acid (99.20%, n =
+370), doxycycline (92.23%, n = 344), sulfamethoxazole–trimethoprim (90.88%, n = 339), ciproﬂoxacin,
+(64.61%, n = 241), sulbactam–cefoperazone (51.21%, n = 191), and amikacin (33.78%, n = 126). Furthermore,
+among the 373 isolates, class 1 and 2 integrons were identiﬁed in 292 (78.28%) and 49 (13.14%) of the isolates,
+respectively, while no class 3 integrons were detected. The most prevalent gene cassette arrays were dfrA17–
+aadA5 and dfrA12–orfF–aadA2 in the variable region of class 1 integrons, while only one gene cassette array
+(dfrA1–sat2–aadA1) was detected in the variable region of class 2 integrons. Class 1 integrons were distributed
+in various physiological subtypes, whereas no predominant phylogenetic groups could be identiﬁed. The pres-
+ence of class 2 integrons in the B21 subtype was signiﬁcantly higher than in the other subtypes, and it coexisted
+with the class 1 integron. This study suggests that broiler products are potential sources of multi-drug resistant E.
+coli, and that resistance genes could be spread by lateral gene transfer.
+
+© 2015 Elsevier B.V. All rights reserved.
+
+1. Introduction
+
+Foodborne or opportunistic pathogens may cause illnesses in
+humans who consume contaminated, raw poultry products. The exces-
+sive use of antibiotics in the poultry industry increases the prevalence of
+multidrug-resistant bacteria (Van den Bogaard et al., 2001). During
+broiler slaughter and processing, antibiotic-resistant bacteria spread
+quickly due to cross-contamination. This creates a potential public
+health risk in that reservoirs of antibiotic resistance (AR) genes in food
+sources may be acquired by human pathogens as a result of horizontal
+
+⁎ Corresponding author at: State Key Laboratory of Microbial Technology, School of Life
+
+Science, Shandong University, 27 Shanda Nanlu, Jinan 250100, China.
+
+E-mail addresses: wuhao3075@163.com (H. Wu), 572099538@qq.com (S. Xia),
+
+605706232@qq.com (F. Bu), qj-happy2008@163.com (J. Qi), liuiuqing@163.com (Y. Liu),
+haixu@sdu.edu.cn (H. Xu).
+
+1 These two authors contributed equally to this work.
+
+gene transfer (Martínez, 2008). Processed raw broiler carcasses are
+often contaminated with Escherichia coli (Bensink and Botham, 1983;
+Turtura et al., 1990). E. coli is a typical Gram-negative bacterium that
+causes colibacillosis, a common disease in chicken farms. Multidrug-
+resistant E. coli with broad-spectrum drug resistance causes great difﬁ-
+culties in the prevention and treatment of the disease in the poultry in-
+dustry. Based on differences in genotypic and phenotypic properties, E.
+coli is divided into four phylogenetic groups, namely groups A, B1, B2,
+and D. The strains are categorized based on the presence of three geno-
+mic DNA sequences that can be ampliﬁed and identiﬁed via PCR: the
+chuA and yjaA genes, as well as the DNA fragment TSPE4-C2. E. coli
+with the chuA, yjaA, and TSPE4-C2 genotypes (−/−/−, respectively)
+(=A0) and −/+/− (=A1) belong to group A, −/−/+ belongs to
+group B1, +/+/− (=B21) and +/+/+ (=B22) belong to group B2,
+whereas +/−/− (=D1) and +/−/+ (=D2) belong to group D
+(Figueira et al., 2011). Environmental isolates or commensalisms are
+most often found in groups A and B1, while pathogens, such as
+
+http://dx.doi.org/10.1016/j.ijfoodmicro.2015.07.004
+0168-1605/© 2015 Elsevier B.V. All rights reserved.
+
+52
+
+H. Wu et al. / International Journal of Food Microbiology 211 (2015) 51–56
+
+verotoxin-producing E. coli O157:H7, are predominantly found in
+groups B2 and D (Clermont et al., 2000; Gordon et al., 2008; Picard
+et al., 1999; Pupo et al., 1997).
+
+Integrons are genetic units that possess the capacity to capture anti-
+biotic resistance genes, known as gene cassettes, by site-speciﬁc recom-
+bination, and they are associated with multiple drug-resistant
+phenotypes (Cambray et al., 2010; Hall and Collis, 1995; Stokes and
+Hall, 1989). Integrons are widely distributed in Gram-negative and
+Gram-positive bacteria, although they are predominant in the former.
+They play an important role in the transmission of drug resistance
+genes among bacteria. Thus far, ﬁve classes of integrons have been de-
+scribed (Mazel, 2006). Class 1 and 2 integrons are usually associated
+with drug-resistant E. coli (Han et al., 2012). A typical class 1 integron
+has a 5′ conserved segment and a 3′ conserved segment. The 5′ con-
+served segment consists of the integrase gene (intI1), the promoters
+Pint and Pc that are responsible for the transcription of the integrase
+and gene cassettes, and a recombination site (attI). The 3′ conserved
+segment usually contains the qacE gene, the sul1 gene, and a variable re-
+gion. Class 2 integrons are often found in transposon Tn7. The sequence
+of its integrase gene (intI2) is similar to that of intI1, but it is terminated
+prematurely and does not encode a fully functional integrase. The gene
+cassettes in integrons consist of a single gene and a recombination site.
+Several cassettes may be inserted into the same integron to form a tan-
+dem gene cassette array. Most gene cassettes in integrons contain anti-
+biotic resistance genes (Fluit and Schmitz, 1999; Hall and Collis, 1995;
+Partridge et al., 2009).
+
+Several studies have investigated E. coli phylogenetic groups in
+human and animal wastewater or other surface waters, as well as in
+the internal organs and feces of animals (Ahmed et al., 2005; Fogarty
+et al., 2003; Higgins et al., 2007; Johnson et al., 2005). Our previous
+study showed that every E. coli phylogenetic group isolated from hospi-
+tal wastewater and river water in Jinan, China exhibited antibiotic resis-
+tance. Groups B2 and D, which are usually pathogenic bacteria, were
+more prevalent in hospital wastewater. Integrons were closely correlat-
+ed with the prevalence of antibiotic resistance in E. coli isolated from
+aqueous environments (Han et al., 2012). Based on the research of
+Han et al. (2012), 25 different gene cassettes were found in E. coli isolat-
+ed from hospital wastewater or river water, 22 of which harbored anti-
+biotic resistance genes in integrons. In this study, 373 drug-resistant E.
+coli were isolated from a commercial broiler slaughter plant over a
+four-month period in Shandong Province, China. Their antibiotic resis-
+tance, phylogenetic subgroup afﬁliation (A0, A1, B1, B21, B22, D1, and
+D2), and the presence of integrons and integron-associated gene cas-
+settes were identiﬁed. This is the ﬁrst study of the correlation between
+phylogenetic subgroups and the presence of integrons in drug-
+resistant E. coli from broiler products.
+
+2. Methods
+
+2.1. Sampling and bacterial isolation
+
+Samples were taken from a commercial broiler slaughter plant in
+Shandong Province, China, in June 2013. Sterile, moistened swabs
+were used to wipe 2 cm2 areas from the surfaces and insides of 89 evis-
+cerated broiler chicken carcasses by the method of Chaslus-Dancla and
+Lafont (1985). Swabs were agitated in 10 ml of sterile saline (0.9%
+NaCl), and the suspensions were serially diluted. A 100 μl aliquot of
+each dilution was spread onto eosin methylene blue (EMB) plates
+(AOBOX, Beijing, China) that were supplemented with one of six anti-
+microbial agents (Sigma-Aldrich, St. Louis, MO, USA), and the applied
+concentrations were based on Clinical Laboratory Standards Institute
+(CLSI) guidelines M07-A8 (2009), as follows: amoxicillin–clavulanic
+acid (AMC, 32/16 μg/ml), ciproﬂoxacin (CIP, 4 μg/ml), amikacin (AMK,
+32 μg/ml), doxycycline (DC, 16 μg/ml), sulbactam–cefoperazone (SBT/
+CPZ, 64 μg/ml), or sulfamethoxazole–trimethoprim (SXT, 4/76 μg/ml).
+Based on colony color and morphology, individual colonies were
+
+selected and transferred to 3 ml of LB broth (AOBOX) containing the
+same antibiotic and incubated at 37 °C with shaking for 18 h. One milli-
+liter of culture was stored in 25% glycerol at −80 °C, and genomic DNA
+was extracted from the remainder of the culture using bacterial genome
+extraction kits (BioTeke Corp., Beijing, China); DNA concentrations
+were quantiﬁed prior to use in further studies.
+
+2.2. Antibiotic susceptibility assay
+
+Determination of the minimum inhibitory concentration (MIC)
+using the E-test (AB Biodisk, Solna, Sweden) was performed for six an-
+timicrobial agents: AMC, CIP, AMK, DC, SBT/CPZ, and SXT using Mueller-
+Hinton agar (MHA) plates (AOBOX) according to CLSI guidelines M07-
+A8 (2009). The reference strain E. coli ATCC 25922 was used as a quality
+control.
+
+2.3. Phylogenetic subgroup assay
+
+Drug-resistant E. coli phylogenetic subgroups were determined by
+the method of Clermont et al. (2000). Primers targeting chuA, yjaA,
+and TSPE4.C2 (Table 1) were used to identify the presence of these
+fragments in puriﬁed DNA extracted from each isolate using PCR to
+determine the phylogenetic groups to which each isolate belongs
+(Clermont et al., 2000). The detection of the three amplicons, conﬁrmed
+by sequencing, served as the basis for the phylogenetic subgroup deter-
+mination. The PCR amplicon pattern deﬁning each group (chuA/yjaA/
+TSPE4.C2) was as follows: −/−/−, A0; −/+/−, A1; −/−/+, B1; +/
++/−, B21; +/+/+, B22; +/−/−, D1; and +/−/+, D2 (Figueira et al.,
+2011; Han et al., 2012). To determine whether the A0 subgroup was E.
+coli, the presence of lacZ genes was determined, as recommended by
+Higgins et al. (2007).
+
+2.4. Occurrence of integrons and associated gene cassettes in antibiotic-
+resistant E. coli strains
+
+The primer pairs IntI1F/R, IntI2F/R and IntI3F/R were used to amplify
+intI1, intI2, and intI3 (Table 1). Additionally, primers hep58/59 and
+hep74/51 were used to amplify gene cassettes of class 1 and class 2
+integrons, respectively (Han et al., 2012; White et al., 2000). The PCR
+program was set as follows: an initial denaturation at 94 °C for 5 min;
+followed by 30 cycles of 94 °C for 30 s, 40 °C for 30 s, and 72 °C for
+1 min, followed by a ﬁnal extension step at 72 °C for 10 min.
+
+Furthermore, plasmids pJR88 containing intI1 (Kagan and Davies,
+1980; Wohlleben et al., 1989; Xu et al., 2007), pIP1100 containing
+intI2 (Biskri and Mazel, 2003; Xu et al., 2007), and pAV3.5 containing
+intI3 (Xu et al., 2007) were used as positive controls for the PCRs.
+
+2.5. Sequencing of gene cassette arrays
+
+The gene cassette arrays of class 1 and 2 integrons were analyzed by
+the PCR-based restriction fragment length polymorphism (PCR-RFLP)
+method, as recommended by Guo et al. (2011). PCR ampliﬁcation prod-
+ucts of the variable regions of integrons were digested with EcoRII
+(TaKaRa Biotechnology Co., Ltd., Dalian, China). PCR amplicons with
+novel RFLP patterns were cloned into the pMD19-T vector (TA clone
+kit; TaKaRa Biotechnology Co., Ltd.) and transformed into E. coli DH5α
+for sequencing.
+
+2.6. Statistics analysis
+
+Statistical analysis was performed using the chi-square test (SPSS
+17.0 for Windows; SPSS Inc., Chicago, IL, USA). p-Values ≤ 0.05 were
+considered to be signiﬁcant.
+
+Table 1
+Oligonucleotide primer pairs used in this study.
+
+H. Wu et al. / International Journal of Food Microbiology 211 (2015) 51–56
+
+53
+
+Nucleotide sequence (5′-3′)
+
+GACGAACCAACGGTCAGGAT
+TGCCGCCAGTACCAAAGACA
+TGAAGTGTCAGGAGACGCTG
+ATGGAGAATGCGTTCCTCAAC
+GAGTAATGTCGGGGCATTCA
+CGCGCCAACAAAGTATTACG
+GTTCGGTCAAGGTTCTGG
+CGTAGAGACGTCGGAATG
+TCATGGCTTGTTATGACTGT
+GTAGGGCTTATTATGCACGC
+CAAGCATCTCTAGGCGTA
+AGTAGCATCAGTCCATCC
+CGGGATCCCGGACGGCATGCACGATTTGTA
+GTAGCCATCGCAAGTACGAG
+CATCAAGCTGCTCGATCA
+ACAACTCTTGCACCGTTC
+
+Target gene
+
+chuA
+
+yjaA
+
+TspE4.2C
+
+intI1
+
+PCR product (bp)
+
+References
+
+279
+
+211
+
+364
+
+890
+
+Figueira et al. (2011)
+
+Figueira et al. (2011)
+
+Figueira et al. (2011)
+
+Xu et al. (2007)
+
+Variable region of class 1 integrons
+
+variable
+
+White et al. (2000)
+
+intI2
+
+1056
+
+Xu et al. (2007)
+
+Variable region of class 2 integrons
+
+variable
+
+Han et al. (2012)
+
+intI3
+
+878
+
+Xu et al. (2007)
+
+Primer
+
+chuA.1
+chuA.2
+YjaA.1
+YjaA.2
+TspE4.2C-F
+TspE4.2C-R
+IntI1F
+IntI1R
+hep58
+hep59
+IntI2-F
+IntI2-R
+Hep74
+Hep51
+IntI3-F
+IntI3-R
+
+3. Results
+
+3.1. Phylogenetic group analysis of antibiotic-resistant E. coli strains
+
+In total, 373 drug-resistant E. coli strains were isolated from samples
+taken from broiler carcasses. Among them, 81 isolates were from EMB
+plates containing SXT, followed in descending order by AMC (n = 76),
+DC (n = 71), CIP (n = 56), AMK (n = 48), and SBT/CPZ (n = 41). An-
+timicrobial susceptibility tests identiﬁed that 0.54% of the isolates
+were resistant to one antibiotic, 3.75% were resistant to two antibiotics,
+and 95.71% were resistant to at least three antibiotics.
+
+Phylogenetic assays revealed that isolated E. coli strains belong to
+four different E. coli groups (A, B1, B2, and D) and seven subgroups
+(A0, A1, B1, B21, B22, D1, and D2). A high percentage (33.51%, n = 125)
+of isolates belong to subgroup B1, while 19.03% (n = 71), 15.82%
+(n = 59), 9.38% (n = 35), and 12.87% (n = 48) of the isolates belong
+to subgroups A0, A1, D1, and D2, respectively (Fig. 1). Furthermore,
+6.17% (n = 23) and 3.22% (n = 12) of the isolates belong to subgroups
+B22 and B21, respectively.
+
+3.2. Antibiotic resistance and occurrence of integrons in antibiotic-resistant
+E. coli strains
+
+Antibiotic susceptibility tests were performed on the 373 E. coli iso-
+lates identiﬁed in this work, and they showed that a high percentage of
+the E. coli isolates were resistant to AMC (99.20%), DC (92.23%), SXT
+(90.88%), CIP (64.61%), SBT/CPZ (51.21%), and AMK (33.78%) (Table 2).
+We analyzed the presence of class 1, 2, and 3 integrons in antibiotic-
+resistant isolates. Among the 373 isolates, class 1 and 2 integrons were
+found in 292 (78.28%) and 49 (13.14%) isolates, respectively, while no
+
+Fig. 1. Phylogenetic distribution of the isolated antibiotic-resistant E. coli strains.
+
+class 3 integrons were detected. In addition, a high percentage
+(67.35%) of class 2 integrons coexisted with class 1 integrons.
+
+3.3. Gene cassette analysis of class 1 and 2 integrons
+
+Among the 292 class 1 integron-positive isolates, class 1 variable re-
+gions were successfully ampliﬁed from 199 isolates. RFLP-PCR and DNA
+sequencing results of the inserted gene cassettes identiﬁed 11 types of
+class 1 integrons containing 13 different gene cassettes (Fig. 2,
+Table 3). Genes identiﬁed in these antimicrobial resistance gene cas-
+settes include: the dihydrofolate reductase genes dfrA1, dfrA12, dfrA17,
+and dfrA27 that confer resistance to trimethoprim; the aminoglycoside
+adenyltransferase genes aadA1, aadA2, aadA5, and aadA16 or the amino-
+glycoside acetyltransferase gene aacA4 that confer resistance to strepto-
+mycin and spectinomycin; the chloramphenicol acetyltransferase gene
+catB3 or the chloramphenicol efﬂux protein precursor gene cmlA1 that
+confer resistance to chloramphenicol; the rifampin ADP-ribosylating
+transferase gene arr3 that confers resistance to rifampicin; and a hypo-
+thetical protein gene (orfF). Dihydrofolate reductase (dfr) genes confer-
+ring trimethoprim resistance were the most common gene cassettes
+(Table 3).
+
+The most common gene cassette arrays of the class 1 integrons were
+dfrA17–aadA5 (n = 83) and dfrA12–orfF–aadA2 (n = 74), which are
+consistent with the results of previous studies (Han et al., 2012; Guo
+et al., 2011). In 16 class 1 integron-positive isolates, no gene cassettes
+were identiﬁed. Two different gene cassette arrays were found to coex-
+ist in nine isolates: dfrA17–aadA5/dfrA12–orfF–aadA2 (n = 7) and
+dfrA17–aadA5/aadA2 (n = 2).
+
+In contrast, among the 373 isolates, only 49 isolates contained class 2
+integrons, in which the variable regions of the class 2 integron were suc-
+cessfully ampliﬁed in 46 (93.88%) of the isolates. Only one gene cassette
+array (dfrA1–sat2–aadA1), which contains the three conserved resistance
+gene cassettes dfrA1, sat2, and aadA1 that confer resistance to trimetho-
+prim, streptothricin, and streptomycin/spectinomycin, respectively, was
+detected in these class 2 integron-positive isolates (Fig. 2).
+
+As shown in Table 2, all seven subgroups had a high level of resis-
+tance to AMC, DC, and SXT, while subgroups B1, B22, and D2 displayed
+higher resistance to AMK. In addition, subgroup B21 showed the highest
+level of antimicrobial resistance to CIP. Meanwhile, subgroups A1, B22,
+and D2 had lower levels of resistance to SBT/CPZ.
+
+The prevalence of class 1 integron-positive isolates was similar in
+different subgroups (Fig. 3). However, class 2 integrons were more fre-
+quently detected in subgroup B21 than in the other subgroups (42%,
+p b 0.01) (Fig. 3). Additionally, all class 2 integrons in subgroup B21
+coexisted with class 1 integrons. No class 2 integrons were detected in
+subgroup B22.
+
+54
+
+H. Wu et al. / International Journal of Food Microbiology 211 (2015) 51–56
+
+Table 2
+Resistance of isolated E. coli strains to tested antimicrobial agents.
+
+Antimicrobial agent
+
+No. of the E. coli isolates in each phylogenetic group that are resistant to antimicrobial agents
+
+A0 (n = 71)
+
+A1 (n = 59)
+
+B1 (n = 125)
+
+B21 (n = 12)
+
+B22 (n = 23)
+
+D1 (n = 35)
+
+D2 (n = 48)
+
+AMC
+CIP
+AMK
+DC
+SBT/CPZ
+SXT
+
+70
+41
+20
+64
+42
+61
+
+58
+31
+9
+48
+22
+53
+
+125
+87
+56
+119
+72
+118
+
+12
+10
+3
+11
+8
+11
+
+22
+17
+10
+22
+7
+20
+
+35
+25
+5
+33
+19
+32
+
+48
+30
+23
+47
+21
+44
+
+∑n (%)
+
+370 (99.20%)
+241 (64.61%)
+126 (33.78%)
+344 (92.23%)
+191 (51.21%)
+339 (90.88%)
+
+Amoxicillin and potassium clavulanate, AMC; ciproﬂoxacin, CIP; amikacin, AMK; doxycycline, DC; sulbactam–cefoperazone, SBT/CPZ; sulfamethoxazole–trimethoprim, SXT.
+
+4. Discussion
+
+Antimicrobial agents are widely used in feeding additives and ther-
+apeutics, which has resulted in an increase in multidrug-resistant bacte-
+ria. In this study, we isolated 373 drug-resistant E. coli strains from a
+commercial broiler poultry plant, and examined the presence of
+integrons and integron-associated gene cassette arrays in these isolates.
+The results obtained from this work revealed that the broiler poultry
+plant contained many drug-resistant E. coli strains, of which groups A
+(A0, A1) and B1 were more predominant than group B2 and D strains
+(Fig. 1); these results are consistent with previous reports of antibiotic-
+resistant E. coli from hospital wastewater and rivers, surface waters, and
+environmental and animal samples (Figueira et al., 2011; Han et al.,
+2012; Higgins et al., 2007). However, Gordon et al. (2008) reported that
+the frequency of subgroup A0 was much lower (b9%) than those of
+group B2 and D strains isolated from soil, water, and sediment samples
+in Australia. It seems likely that subgroup B2 and group D strains,
+which are more likely to be pathogenic, are less likely to survive in the
+environment.
+
+The data from the antibiotic susceptibility tests showed that 95.71%
+of the isolates had resistance to at least three antimicrobial agents. The
+high prevalence of multidrug-resistant bacteria in food is considered
+to be due to the overuse and misuse of antibiotics in commercial broiler
+
+Fig. 2. RFLP patterns of gene cassette arrays in identiﬁed integrons. Panel a, products of
+PCRs amplifying the variable regions of integrons. Panel b, EcoRII-digested RFLP patterns.
+Lanes 1–11 are type 1 integrons with the following gene cassettes: dfrA17–aadA5; dfrA12–
+orfF–aadA2; catB3–arr3; dfrA1–aadA1; aacA4–cmlA1; dfrA16–aadA2; dfrA17; arr3–dfrA27–
+aadA16; aacA4; aadA2; and empty, respectively. Lane 12 is a type 2 integron with a
+dfrA1–sat2–aadA1 gene cassette. M: molecular size marker. From top to bottom, each
+band indicates DNA sizes (in bp) of 5000, 3000, 2000, 1500, 1000, 750, 500, 250, and 100.
+
+poultry farms (Aminov and Mackie, 2007; Biyela et al., 2004; Martínez,
+2008).
+
+AMC is an antibiotic comprising a β-lactam antibiotic (amoxicillin
+trihydrate) and a β-lactamase inhibitor (clavulanic acid). This combina-
+tion results in signiﬁcant efﬁcacy against amoxicillin-resistant bacteria
+that produce β-lactamase. A surprisingly large proportion (99.2%) of
+the E. coli strains isolated in this work are resistant to AMC, possibly be-
+cause of the overproduction of β-lactamase or loss of sensitivity to the
+β-lactamase-inhibiting moiety clavulanic acid (Walter-Toews et al.,
+2011). This disturbing phenomenon indicates a decrease in the efﬁcacy
+of AMC in the repression of β-lactam-resistant E. coli, which could lead
+to their potential spread in the poultry industry, possibly as a result of
+the abuse of β-lactam type antibiotics.
+
+The isolates in different phylogenetic subgroups of E. coli showed
+different antibiotic resistance patterns. Compared with the other sub-
+groups, subgroups B1, B22, and D2 displayed higher resistance to AMK.
+As described previously (Han et al., 2012), groups B2 and D may have
+a higher resistance to all antimicrobial agents. Therefore, considering
+that most pathogenic E. coli strains are in these two groups, these results
+are of great concern.
+
+Table 3
+Distribution of gene cassette arrays in isolates from different E. coli subgroups.
+
+Subgroups Gene cassette arrays in
+
+Number Gene cassette arrays in
+
+Number
+
+A
+
+A0
+
+A1
+
+B1
+
+B2
+
+B21
+
+B22
+
+D
+
+D1
+
+D2
+
+Class 1 integrons
+dfrA17–aadA5
+dfrA12–orfF–aadA2
+dfrA1–aadA1
+aacA4–cmlA1
+dfrA17–aadA5
+dfrA12–orfF–aadA2
+dfrA1–aadA1
+Empty
+dfrA17–aadA5
+dfrA12–orfF–aadA2
+dfrA1–aadA1
+catB3–arr3
+aacA4–cmlA1
+aadA2
+Empty
+dfrA17–aadA5
+dfrA12–orfF–aadA2
+Empty
+dfrA17–aadA5
+dfrA12–orfF–aadA2
+dfrA1–aadA1
+catB3–arr3
+dfrA17–aadA5
+dfrA12–orfF–aadA2
+dfrA1–aadA1
+arr3–dfrA27–aadA16
+dfrA17–aadA5
+dfrA12–orfF–aadA2
+dfrA1–aadA1
+catB3–arr3
+dfrA16–aadA2
+dfrA17
+
+14
+13
+2
+1
+12
+11
+6
+4
+32
+26
+6
+3
+1
+1
+5
+5
+2
+3
+6
+7
+2
+4
+6
+9
+3
+1
+9
+5
+1
+4
+1
+1
+
+Class 2 integrons
+dfrA1–sat2–aadA1
+
+dfrA1–sat2–aadA1
+
+8
+
+5
+
+dfrA1–sat2–aadA1
+
+24
+
+dfrA1–sat2–aadA1
+
+dfrA1–sat2–aadA1
+
+dfrA1–sat2–aadA1
+
+5
+
+2
+
+2
+
+Empty, no gene cassette was detected in the integrons.
+
+H. Wu et al. / International Journal of Food Microbiology 211 (2015) 51–56
+
+55
+
+Conﬂict of interest
+
+The authors declare that they have no conﬂicts of interest.
+
+Acknowledgments
+
+This work was supported by grants from the National Natural
+Science Foundation of China (grant numbers 31170112, J1103515,
+and 30870084), the National Science and Technology Major Project
+(grant number 2013ZX10004217-003), the Life Sciences Student
+Training Program (grant number XB-509), and the State Key Labo-
+ratory of Microbial Technology, Shandong University (grant number
+4120009101524). We would like to thank Dr. Mingyu Wang from
+Shandong University for helpful comments on the revised manuscript.
+
+References
+
+Adelowo, O.O., Fagade, O.E., Agersø, Y., 2014. Antibiotic resistance and resistance genes in
+Escherichia coli from poultry farms, southwest Nigeria. J. Infect. Dev. Ctries. 9,
+1103–1112.
+
+Ahmed, A.M., Shimamoto, T., 2015. Molecular analysis of multidrug resistance in Shiga
+toxin-producing Escherichia coli O157:H7 isolated from meat and dairy products.
+Int. J. Food Microbiol. 193, 68–73.
+
+Ahmed, W., Neller, R., Katouli, M., 2005. Host species-speciﬁc metabolicﬁ ngerprint data-
+base for enterococci and Escherichia coli and its application to identify sources of fecal
+contamination in surface waters. Appl. Environ. Microbiol. 8, 4461–4468.
+
+Aminov, R.I., Mackie, R.I., 2007. Evolution and ecology of antibiotic resistance genes. FEMS
+
+Microbiol. Lett. 2, 147–161.
+
+Bensink, J.C., Botham, F.P., 1983. Antibiotic resistant coliform bacilli, isolated from freshly
+slaughtered poultry and from chilled poultry at retail outlets. Aust. Vet. J. 3, 80–83.
+Biskri, L., Mazel, D., 2003. Erythromycin esterase gene ere(A) is located in a functional
+gene cassette in an unusual class 2 integron. Antimicrob. Agents Chemother. 10,
+3326–3331.
+
+Biyela, P.T., Lin, J., Bezuidenhout, C.C., 2004. The role of aquatic ecosystems as reservoirs of
+antibiotic resistant bacteria and antibiotic resistance genes. Water Sci. Technol. 1,
+45–50.
+
+Cambray, G., Guerout, A.M., Mazel, D., 2010. Integrons. Annu. Rev. Genet. 44, 141–166.
+Chaslus-Dancla, E., Lafont, J.P., 1985. IncH plasmids in Escherichia coli strains isolated from
+
+broiler chicken carcasses. Appl. Environ. Microbiol. 4, 1016–1018.
+
+Clermont, O., Bonacorsi, S., Bingen, E., 2000. Rapid and simple determination of the
+
+Escherichia coli phylogenetic group. Appl. Environ. Microbiol. 10, 4555–4558.
+
+Clinical and Laboratory Standards Institute, 2009. Methods for dilution antimicrobial sus-
+ceptibility tests for bacteria that grow aerobically, approved standards. CLSI docu-
+ment M07-A8 eighth ed. Clinical and Laboratory Standards Institute, Wayne, PA.
+
+Figueira, V., Serra, E., Manaia, C.M., 2011. Differential patterns of antimicrobial resistance
+in population subsets of Escherichia coli isolated from waste- and surface waters. Sci.
+Total Environ. 6, 1017–1023.
+
+Fluit, A.C., Schmitz, F.J., 1999. Class 1 integrons, gene cassettes, mobility, and epidemiolo-
+
+gy. Eur. J. Clin. Microbiol. Infect. Dis. 11, 761–770.
+
+Fogarty, L.R., Haack, S.K., Wolcott, M.J., Whitman, R.L., 2003. Abundance and characteris-
+tics of the recreational water quality indicator bacteria Escherichia coli and enterococ-
+ci in gull faeces. J. Appl. Microbiol. 5, 865–878.
+
+Gordon, D.M., Clermont, O., Tolley, H., Denamur, E., 2008. Assigning Escherichia coli strains
+to phylogenetic groups: multi-locus sequence typing versus the PCR triplex method.
+Environ. Microbiol. 10, 2484–2496.
+
+Guo, X., Xia, R., Han, N., Xu, H., 2011. Genetic diversity analyses of class 1 integrons and
+their associated antimicrobial resistance genes in Enterobacteriaceae strains recov-
+ered from aquatic habitats in China. Lett. Appl. Microbiol. 6, 667–675.
+
+Hall, R.M., Collis, C.M., 1995. Mobile gene cassettes and integrons: capture and spread of
+
+genes by site-speciﬁc recombination. Mol. Microbiol. 4, 593–600.
+
+Han, N., Sheng, D., Xu, H., 2012. Role of Escherichia coli strain subgroups, integrons, and
+integron-associated gene cassettes in dissemination of antimicrobial resistance in
+aquatic environments of Jinan, China. Water Sci. Technol. 11, 2385–2392.
+
+Hansson, K., Sundström, L., Pelletier, A., Roy, P.H., 2002. IntI2 Integron Integrase in Tn7. 6.
+
+pp. 1712–1721.
+
+Higgins, J., Hohn, C., Hornor, S., Frana, M., Denver, M., Joerger, R., 2007. Genotyping of
+Escherichia coli from environmental and animal samples. J. Microbiol. Methods 2,
+227–235.
+
+Johnson, J.R., Scheutz, F., Ulleryd, P., Kuskowski, M.A., O'Bryan, T.T., Sandberg, T., 2005.
+Phylogenetic and pathotypic comparison of concurrent urine and rectal Escherichia
+coli isolates from men with febrile urinary tract infection. J. Clin. Microbiol. 8,
+3895–3900.
+
+Kagan, S.A., Davies, J.E., 1980. Enzymatic modiﬁcation of aminocyclitol antibiotics: muta-
+tions affecting the expression of aminocyclitol acetyltransferase-3. Plasmid 3,
+312–318.
+
+Marshall, B.M., Levy, S.B., 2011. Food animals and antimicrobials: impacts on human
+
+health. Clin. Microbiol. Rev. 24, 718–733.
+
+Martínez, J.L., 2008. Antibiotics and antibiotic resistance genes in natural environments.
+
+Science 5887, 365–367.
+
+Mazel, D., 2006. Integrons: agents of bacterial evolution. Nat. Rev. Microbiol. 8, 608–620.
+
+Fig. 3. The prevalence of class 1 or class 2 integrons in different E. coli phylogenetic groups.
+intI1, class 1 integron-positive isolates; intI2, class 2 integron-positive isolates; intI1 + 2,
+isolates positive for both class 1 and 2 integrons.
+
+In this study, among the 373 tested isolates, class 1 and 2 integrons
+were identiﬁed in 292 (78.28%) and 49 (13.14%) isolates, respectively.
+Our results showed that the presence of integrons was more wide-
+spread than that previously reported in southwest Nigeria, where only
+14% of E. coli isolated from poultry farms were positive for class 1
+integrons and 17% were positive for class 2 integrons (Adelowo et al.,
+2014). This is an indication that class 1 integrons were more prevalent
+in antibiotic-resistant E. coli at the broiler poultry plant in Shandong
+Province, China.
+
+Eleven types of class 1 integrons with different gene cassettes arrays
+were detected in the tested isolates. All of the identiﬁed genes located in
+the variable region of class 1 integrons were antibiotic resistance genes.
+In contrast, only one type of class 2 integron containing a gene cassette
+array (dfrA1–sat2–aadA1), the most classical type (Ahmed and
+Shimamoto, 2015), was detected in these isolates. The inability to detect
+type 3 integrons is not a surprise, as class 3 integrons are rarely detected,
+and only a few have been studied in detail (Xu et al., 2007).
+
+The most common gene cassette arrays of the class 1 integrons de-
+tected in this study were dfrA17–aadA5 (n = 83) and dfrA12–orfF–
+aadA2 (n = 74). In addition, dihydrofolate reductase genes (dfr) and
+aminoglycoside adenyltransferase genes (aad), conferring resistance
+to trimethoprim and streptomycin, respectively, occurred frequently
+in the variable regions of class 1 integrons. This could be the result of
+the overuse or misuse of trimethoprim and streptomycin in feeding ad-
+ditives and therapeutics in commercial broiler poultry farms (Marshall
+and Levy, 2011).
+
+Because of the presence of an internal stop cordon (TAA) in the class
+2 integron integrase (intI2) gene, the truncated class 2 integrase cannot
+efﬁciently catalyze gene cassette integration and excision. As a result,
+when compared with class 1 integrons, the diversity of gene cassettes
+located in the variable region of class 2 integrons was much lower
+(Ramírez et al., 2010; Wei et al., 2014). In the 49 class 2 integron-
+positive isolates in this study, 33 coexisted with class 1 integrons. This
+high rate of coexistence is consistent with the results of our previous
+study (Xia et al., 2013), which showed that 63.16% of class 2 integrons
+coexisted with class 1 integrons. As suggested by Hansson et al.
+(2002), the intI2 gene of class 2 integrons, which bears a premature
+stop codon, might be complemented in trans by class 1 integrases.
+
+5. Conclusion
+
+This study links the phylogenetic diversity of integrons and
+integron-associated gene cassettes to the prevalence of antibiotic resis-
+tance in E. coli isolates from a broiler poultry plant. These results indicate
+that broiler poultry may serve as a reservoir of antimicrobial drug resis-
+tance genes. The fact that E. coli strains from broiler carcasses contain an
+abundance of integrons and antibiotic resistance genes is a cause for
+concern. Our results strongly point to the critical need for the control
+of antimicrobial drug usage in the livestock production.
+
+56
+
+H. Wu et al. / International Journal of Food Microbiology 211 (2015) 51–56
+
+Partridge, S.R., Tsafnat, G., Coiera, E., Iredell, J.R., 2009. Gene cassettes and cassette arrays
+
+in mobile resistance integrons. FEMS Microbiol. Rev. 4, 757–784.
+
+Picard, B., Garcia, J.S., Gouriou, S., Duriez, P., Brahimi, N., Bingen, E., Elion, J., Denamur, E.,
+1999. The link between phylogeny and virulence in Escherichia coli extraintestinal in-
+fection. Infect. Immun. 2, 546–553.
+
+Pupo, G.M., Karaolis, D.K., Lan, R., Reeves, P.R., 1997. Evolutionary relationship among
+pathogenic and nonpathogenic Escherichia coli strains inferred from multilocus
+enzyme electrophoresis and mdh sequence studies. Infect. Immun. 7, 2685–2692.
+Ramírez, M.S., Piñeiro, S., Argentinian Integron Study Group, Centrón, D., 2010. Novel in-
+sight about class 2 integrons from experimental and genomic epidemiology.
+Antimicrob. Agents Chemother. 2, 699–706.
+
+Stokes, H.W., Hall, R.M., 1989. A novel family of potentially mobile DNA elements
+encoding site-speciﬁc gene-integration functions: integrons. Mol. Microbiol. 12,
+1669–1683.
+
+Turtura, G.C., Massa, S., Chazvinizadeh, H., 1990. Antibiotic resistance among coliform
+bacteria isolated from carcasses of commercially slaughtered chickens. Int. J. Food
+Microbiol. 3–4, 351–354.
+
+Van den Bogaard, A.E., London, N., Driessen, C., Stobberingh, E.E., 2001. Antibiotic resis-
+tance of faecal Escherichia coli in poultry, poultry farmers and poultry slaughterers.
+J. Antimicrob. Chemother. 6, 763–771.
+
+Walter-Toews, R.I., Paterson, D.L., Qureshi, Z.A., Waltner-Toews, R.I., Paterson, D.L.,
+Qureshi, Z.A., Sidjabat, H.E., Adams-Haduch, J.M., Shutt, K.A., Jones, M., Tian, G.B.,
+
+Pasculle, A.W., Doi, Y., 2011. Clinical characteristics of bloodstream infections due to
+ampicillin-sulbactam-resistant, non-extended-spectrum-beta-lactamase-producing
+Escherichia coli and the role of TEM-1 hyperproduction. Antimicrob. Agents
+Chemother. 55, 495–501.
+
+Wei, Q., Hu, Q., Li, S., Lu, H., Chen, G., Shen, B., Zhang, P., Zhou, Y., 2014. A novel function
+class 2 integron in clinical Proteus mirabilis isolates. J. Antimicrob. Chemother. 4,
+973–976.
+
+White, P.A., Mclver, C.J., Deng, Y., Rawlinson, W.D., 2000. Characterization of two new
+
+gene cassettes, aadA5 and dfrA17. FEMS Microbiol. Lett. 2, 265–269.
+
+Wohlleben, W., Arnold, W., Bissonnette, L., Pelletier, A., Tanguay, A., Roy, P.H., Gamboa,
+G.C., Barry, G.F., Aubert, E., Davies,
+J., 1989. On the evolution of Tn21-like
+multiresistance transposons: sequence analysis of the gene (aacC1) for gentamicin
+acetyltransferase-3-I (AAC(3)-I), another member of the Tn21-based expression
+cassette. Mol. Gen. Genet. 2–3, 202–208.
+
+Xia, R., Ren, Y., Guo, X., Xu, H., 2013. Molecular diversity of class 2 integrons in antibiotic-
+resistant Gram-negative bacteria found in wastewater environments in China.
+Ecotoxicology 2, 402–414.
+
+Xu, H., Davies, J., Miao, V., 2007. Molecular characterization of class 3 integrons from
+
+Delftia spp. J. Bacteriol. 17, 6276–6283.
+
+

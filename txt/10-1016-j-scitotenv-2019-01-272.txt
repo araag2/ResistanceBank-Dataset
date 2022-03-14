@@ -1,0 +1,1535 @@
+Science of the Total Environment 665 (2019) 33–40
+
+Contents lists available at ScienceDirect
+
+Science of the Total Environment
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / s c i t o t e n v
+
+Dissemination of Escherichia coli carrying plasmid-mediated quinolone
+resistance (PMQR) genes from swine farms to surroundings
+Bo Wu a,b, Qin Qi c, Xiaodan Zhang a, Yumei Cai a, Guanliu Yu a, Jing Lv d, Lili Gao a,
+Liangmeng Wei a, Tongjie Chai a,⁎
+
+a College of Animal Science and Veterinary Medicine, Shandong Agricultural University, Sino-German Cooperative Research Centre for Zoonosis of Animal Origin Shandong Province, 61 Daizong
+Road, Tai'an 271000, Shandong Province, China
+b Collaborative Innovation Centre for the Origin and Control of Emerging Infectious Diseases of Taishan Medical College, Tai'an 271000, Shandong Province, China
+c Tai'an City Central Hospital, China
+d Tai'an Municipal Center for Disease Control and Prevention, Tai'an, China
+
+H I G H L I G H T S
+
+G R A P H I C A L A B S T R A C T
+
+• The resistance rates of E. coli isolates
+from swine farm samples against nine
+antibiotics were high.
+
+• In total, 82.31% (107/130) of E. coli iso-
+
+lates carried at least one PMQR gene.
+
+• E. coli carrying PMQR genes and origi-
+nating from feces in swine farms could
+spread to the external environment.
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 14 May 2018
+Received in revised form 13 January 2019
+Accepted 21 January 2019
+Available online 25 January 2019
+
+Editor: Henner Hollert
+
+Keywords:
+E. coli aerosols
+Drug sensitivity
+Plasmid-mediated quinolone resistance
+(PMQR) genes
+Bacterial genetic similarity
+Public health
+
+Different samples were collected from three swine farms in China to investigate the spread of antibiotic-resistant
+Escherichia coli. A total of 130 E. coli isolates were obtained from feces, air, river water, silt, and soil samples and
+characterized. The susceptibility of the E. coli isolates to 19 antibiotics was tested. The results revealed that the
+resistance rates of the E. coli isolates against 9 antibiotics were high. The minimum inhibitory concentration
+(MIC) values of ciproﬂoxacin, oﬂoxacin, and nalidixic acid were mainly in the ranges of 2–64, 8–64, and 8–64
+μg/ml. The plasmid-mediated quinolone resistance (PMQR) genes qnr, aac(6′)-Ib-cr, qepA, and oqxAB were de-
+tected by polymerase chain reaction (PCR), and the similarity of E. coli from different samples was identiﬁed
+by pulsed-ﬁeld gel electrophoresis (PFGE). The detection rates of the qnrA, qnrB, qnrS, aac(6′)-Ib-cr, qepA, and
+oqxAB genes in the E. coli isolates from three swine farms were in the range of 10.87–23.08%, 13.04–20.51%,
+40.00–43.48%, 30.43–38.46%, 6.52–12.82%, and 7.69–17.39%, respectively. The PFGE result showed that 49%
+(49/100) of isolates originating from air, river water, soil, and silt samples had ≥85% similarity to fecal-
+obtained isolates, and 40.82% (20/49) of them shared the same PMQR genes with fecal-obtained isolates. This in-
+dicated that E. coli carrying PMQR genes and originating from feces in swine farms could spread to the external
+environment, which could be a potential threat to the public environment and human health.
+
+© 2019 Elsevier B.V. All rights reserved.
+
+⁎ Corresponding author at: College of Animal Science and Veterinary Medicine, Shandong Agricultural University, 61 Daizong Road, Tai'an 271000, China.
+
+E-mail address: chaitj117@163.com (T. Chai).
+
+https://doi.org/10.1016/j.scitotenv.2019.01.272
+0048-9697/© 2019 Elsevier B.V. All rights reserved.
+
+34
+
+1. Introduction
+
+B. Wu et al. / Science of the Total Environment 665 (2019) 33–40
+
+Escherichia coli is a Gram-negative bacterium commonly found in
+the intestines of humans and animals (Schroeder et al., 2004;
+Schierack et al., 2006), and it is also the main etiologic agent of farm an-
+imal diarrhea and acute urinary tract infections (Makrina et al., 2012;
+Manges, 2016). It is an opportunistic pathogen that is widely present
+in animal farms and their surrounding environments (Duan et al.,
+2006; Gao et al., 2015). Quinolones are broad-spectrum antibiotics
+that have become the most widely used in clinical practice after several
+generations of development. It play an extremely important role in the
+treatment of bacterial infections such as E. coli (Michael and Jason,
+2014) and are often used to treat and prevent diseases in pig farms in
+China (Tian et al., 2009, 2012; Yuan et al., 2009). With the use and
+even abuse of quinolones, especially in some developing countries, re-
+sistance to these drugs is becoming more common and spreading
+(Hart and Kariuki, 1998). The resistance rate against quinolones of clin-
+ical isolates of E. coli from human hospitals has gradually increased up to
+70% in China in recent years (Zhu et al., 2011; Xiao et al., 2011).
+
+There are four main mechanisms of E. coli resistance to
+ﬂuoroquinolones: 1) mutations of the genes encoding the target enzyme
+DNA gyrase (encoded by gyrA and gyrB genes) and topoisomerase IV
+(encoded by parC and parE), 2) efﬂux of quinolones by hyperexpression
+of chromosomal pumps or acquisition of plasmidic pumps (e.g., qepA,
+oqxAB), 3) the decrease in membrane permeability, and 4) enzymatic in-
+activation by AAC-(6′)-Ib-cr (Mirzaii et al., 2018; Recacha et al., 2017).
+Quinolone resistance was originally thought to be mediated by chromo-
+somal gene mutations, which block DNA replication by inhibiting DNA
+rotatase and topoisomerase IV. However, the plasmid-mediated quino-
+lone resistance gene (PMQR) qnr was ﬁrst identiﬁed in a clinical isolate
+of Klebsiella pneumonia in 1998 (Martinez-Martinez et al., 1998),
+followed by a second mechanism for PMQR in 2006: the modiﬁcation
+of certain quinolones by a particular aminoglycoside acetyltransferase,
+aac(6′)-Ib-cr (Robicsek et al., 2006). A third mechanism for PMQR was
+added in 2007 with the discovery of plasmid-mediated quinolone efﬂux
+pumps QepA (Yamane et al., 2007; Périchon et al., 2007) and OqxAB
+(Hansen et al., 2007). Horizontal gene transfer of these PMQR determi-
+nants between bacteria have contributed to the decrease in susceptibil-
+ity to ﬂuoroquinolones (Gay et al., 2006; Cattoir et al., 2008; Zhou et al.,
+2011; Li et al., 2012), which has attracted wide attention. Studies have
+shown that E. coli isolated from different environments carries both
+ESBL and PMQR genes (Wang et al., 2012), and they usually coexist on
+the same plasmid. Plasmids carrying multiple resistance genes can
+transfer the multiple resistance among different strains, which poses a
+great threat to the treatment of human and animal diseases (Jiang
+et al., 2012).
+
+Food-producing animals are considered a reservoir of resistant bac-
+teria (Carattoli, 2008; Ma et al., 2009). Bacteria including the pathogenic
+ones carried by food-producing animals could spread to surrounding
+environments through different routes, such as air, water and waste
+(McEachran et al., 2015; Sanchez et al., 2016), which might result in in-
+fections in animals and farm workers (Fiegel et al., 2006; Létourneau
+et al., 2010; Yu et al., 2016). The direct efﬂuence of waste to the environ-
+ment and the application in agriculture have contributed to the dissem-
+ination of resistant bacteria (Buchberger, 2007; Chee et al., 2009; Liu
+et al., 2012). Large amounts of (ﬂuoro)quinolone-resistant E. coli are
+contained in animal houses, especially E. coli carrying PMQR genes
+(Chen et al., 2012; Jiang et al., 2012; Wang et al., 2012). The PMQR
+mechanism is widely distributed in bacterial plasmids in various envi-
+ronments around the world (Strahilevitz et al., 2009). In the small ani-
+mal hospitals in Shaanxi province, China, 80% of isolates harbored at
+least one PMQR gene, and 40% of isolates harbored more than one
+PMQR gene (qnrB, qnrD, qnrS, qepA, or aac(6′)-Ib-cr). At present, re-
+search on the mechanisms of ﬂuoroquinolone resistance in E. coli is
+mainly focused on clinical isolates and pathogenic E. coli (Mirzaii et al.,
+2018; Piekarska et al., 2015). More research has been done on the
+
+resistance mechanisms of the gyrA and parC mutations, but less atten-
+tion has been given to E. coli carrying PMQR genes isolated from farms
+(Piekarska et al., 2015; Gao et al., 2015). There are fewer studies on
+the transmission of these resistant bacteria from swine farms to the sur-
+rounding environment (Chen et al., 2012; Gao et al., 2015). Thus, in this
+study, E. coli was isolated from fecal and environmental samples from
+three swine farms to test the antibiotic susceptibility. The similarity of
+the PMQR genes was examined to investigate the spread of quinolone-
+resistant E. coli from breeding environments to the surrounding envi-
+ronments, which has far-reaching effects in veterinary public health
+and epidemiological signiﬁcance.
+
+2. Materials and methods
+
+2.1. Swine farms
+
+Between February and July 2014, fecal and environment samples
+were collected from three swine farms located in Tai'an, Shandong
+Province, China. The swine farms are located on the east side of the vil-
+lages. The distances between the swine farms and the nearest village
+ranged from 500 to 800 m. All farms investigated were equipped with
+exhaust fans and were all naturally ventilated through the doors and
+windows according to the indoor temperature. The feces were removed
+daily and then accumulated for land application. The swine houses were
+disinfected once or twice per week with peracetic acid and sodium hy-
+pochlorite. The animal densities were 0.9–2.9 animals per square meter.
+Subtherapeutic doses of broad-spectrum antibiotics such as tylosin,
+penicillin, streptomycin, and tetracycline were used for prophylaxis
+and growth promotion.
+
+2.2. Sampling of airborne E. coli
+
+E. coli was collected from the air inside the swine houses using a six-
+stage Andersen sampler (Andersen, 1958). Samplers with MacConkey
+agar plates (Oxoid, CM0115) were placed in the middle of the houses
+approximately 80 cm above the ground, and the indoor air was col-
+lected at an airﬂow rate of 28.3 L/min for 1 to 5 min. Airborne E. coli
+from the outdoor air was also collected using a Reuter centrifugal sam-
+pler (RCS) at 1.5 m above the ground level with an airﬂow rate of
+40 L/min for 0.5–8 min at two upwind sites (10 and 50 m away) and
+seven downwind sites (5, 10, 20, 50, 100, 200, and 400 m away). Sam-
+ples were collected from each site in triplicate.
+
+The collected samples were cultured at 37 °C for 24–48 h, and then
+the Gram status of the colonies was determined. Gram-negative colo-
+nies were subcultured in eosin methylene blue (EMB) agar (Tian He,
+Hangzhou, China) and identiﬁed by an API 20 E system (Bio Merieux,
+Marcy-I'Etoile, France). All isolates were stored at −20 °C in 50%
+glycerin.
+
+2.3. Fecal, silt, river water, and soil sampling
+
+Fifty fresh fecal samples were collected randomly from each swine
+farm, and 50 silt, river, and soil samples were collected at each different
+site (5, 10, 20, 50, 100, 200, and 400 m away from the outfall of the
+farms). All samples were collected aseptically, stored at 4 °C, and ana-
+lyzed within 24 h. Fecal, silt, river, and soil samples were diluted 10-
+fold with 0.9% NaCl solution. Vacuum ﬁltration (TOM-JET1 water jet
+
+Table 1
+Description of 130 E. coli isolates from three swine farms.
+
+SF
+
+A
+B
+C
+
+F
+
+8
+12
+10
+
+In
+
+7
+9
+10
+
+Dw
+
+6
+7
+8
+
+R
+
+6
+8
+7
+
+S
+
+6
+3
+5
+
+So
+
+6
+6
+6
+
+Total
+
+39
+45
+46
+
+SF: swine farm; F: fecal; In: indoor air; Dw: downwind air; R: river water; S: silt; So: soil.
+
+B. Wu et al. / Science of the Total Environment 665 (2019) 33–40
+
+35
+
+Table 2
+Sequences of primers and annealing temperatures used for PCR.
+
+Gene
+
+qnrA
+
+qnrB
+
+qnrS
+
+aac(6′)-Ib-cr
+
+qepA
+
+oqxAB
+
+qnrS1
+
+qnrS2
+
+aac(6′)-Ib
+
+Primers
+
+Sequence (5′-3′)
+
+Amplicon (bp)
+
+Annealing (°C)
+
+Cycling
+
+Reference
+
+qnrA-F
+qnrA-R
+qnrB-F
+qnrB-R
+QnrS-F
+QnrS-R
+aac-F
+aac-R
+qepA-F
+qepA-R
+oqxA-F
+oqxA-R
+oqxB-F
+oqxB-R
+
+qnrS-cs1-F
+qnrS-cs1-R
+qnrS-cs2-F
+qnrS-cs2-R
+
+aac-F
+aac-R
+
+AGAGGATTTCTCACGCCAGG
+TGCCAGGCACAGATCTTGAC
+GGMATHGAAATTCGCCACTG
+TTTGCYGYYCGCCAGTCGAA
+GCAAGTTCATTGAACAGGGT
+TCTAAACCGTCGAGTTCGGCG
+TTGCGATGCTCTATGAGTGGCTA
+
+CTCGAATGCCTGGCGTGTTT
+AACTGCTTGAGCCCGTAGAT
+GTCTACGCCATGGACCTCAC
+GACAGCGTCGCACAGAATG
+GGAGACGAGGTTGGTATGGA
+CGAAGAAAGACCTCCCTACCC
+
+CGCCGCCAATGAGATACA
+CAATCATACATATCGGCACC
+TCAGGATAAACAACAATACCC
+ATGGAAACCTACCGTCACACA
+GTCAGGAAAAACAACAATACCC
+
+TGACCTTGCGATGCTCTATG
+TTAGGCATCACTGCGTGTTC
+
+580
+
+264
+
+428
+
+482
+
+596
+
+339
+
+240
+
+642
+
+654
+
+508
+
+54
+
+55
+
+54
+
+55
+
+60
+
+62
+
+62
+
+57
+
+57
+
+58
+
+32
+
+34
+
+32
+
+34
+
+32
+
+34
+
+34
+
+36
+
+36
+
+36
+
+(Cattoir et al., 2007)
+
+(Cattoir et al., 2007)
+
+(Cattoir et al., 2007)
+
+(Park et al., 2006)
+
+(Kim et al., 2009)
+
+(Chen et al., 2012)
+
+(Chen et al., 2012)
+
+(Wu et al., 2007)
+
+(Chen et al., 2013)
+
+(Jiang et al., 2008)
+
+air pump) was also used to concentrate the microbial populations
+(Reinthaler et al., 2003). The diluted samples were spread onto an
+EMB agar plate. After incubation at 37 °C for 18 to 20 h, colonies with
+a characteristic metallic sheen were selected and streaked on a
+MacConkey agar plate. The plate was incubated overnight at 37 °C,
+after which pink colonies were selected, and the isolates were assessed
+accordingly.
+
+2.4. Antibiotic susceptibility test and determination of minimum inhibitory
+concentration (MIC) by microdilution broth method
+
+Antibiotic susceptibility testing was carried out by a disk diffusion
+method on a Mueller-Hinton agar plate with E. coli ATCC 25922 as a ref-
+erence strain. The susceptibility of the following antibiotics was tested
+according to the manufacturer's instructions: ampicillin 10 μg (AMP),
+piperacillin 100 μg (PIP), amoxicillin 20 μg/clavulanic acid 10 μg
+(AMC), ampicillin 10 μg/sulbactam 10 μg (A/S), piperacillin 100 μg/
+sulbactam 10 μg (P/T), cephalothin 30 μg (CEP), cefuroxime 30 μg
+(CXM), aztreonam 30 μg (ATM), gentamicin 10 μg (GEN), kanamycin
+30 μg (KAN), streptomycin 10 μg (STM), amikacin 30 μg (AMK),
+
+tetracycline 30 μg (TET), ciproﬂoxacin 5 μg (CIP), oﬂoxacin 5 μg (OFX),
+nalidixic acid 30 μg (NAL), sulfamethoxazole 25 μg (SXT), chloramphen-
+icol 30 μg (CAP), and nitrofurantoin 300 μg (NIT) (Tan Hou Ocean Devel-
+opment Co., Ltd., Hangzhou, China).
+
+Ciproﬂoxacin, oﬂoxacin, and nalidixic acid were diluted to different
+concentrations, and then the MIC values of tested bacteria and reference
+strain (ATCC25922) were detected. The test method, judgment stan-
+dard, and quality control test were carried out by the American Clinical
+Laboratory Standardization Committee (NCCLS, 2004).
+
+2.5. Identiﬁcation of the plasmid-mediated quinolone resistance genes
+
+The DNA templates of the E. coli isolates were prepared with a boil-
+ing method. PCR was used to detect the antibiotic-resistance genes
+qnrA, qnrB, qnrS, qnrS1, qnrS2, aac (6′)-Ib, aac (6′)-Ib-cr, qepA, and
+oqxAB. The primer sequences and annealing temperatures are listed in
+Table 2. The ampliﬁcation reactions were performed as previously de-
+scribed (Cheng et al., 2006). Each sample was tested three times, and
+isolates that were conﬁrmed by sequence and blast analysis were used
+as quality controls.
+
+Table 3
+Occurrence of antimicrobial resistance among E. coli isolates obtained from different samples.
+
+Drug Swine farm A
+
+Swine farm B
+
+Swine farm C
+
+F
+n = 8
+
+In
+n = 7
+
+Dw
+n = 6
+
+R
+n = 6
+
+So
+n = 6
+
+S
+n = 6
+
+Total
+n = 39
+
+F
+n = 12
+
+In
+n = 10
+
+Dw
+n = 7
+
+R
+n = 8
+
+So
+n = 6
+
+S
+n = 3
+
+Total
+n = 45
+
+F
+n = 10
+
+In
+n = 10
+
+Dw
+n = 8
+
+R
+n = 7
+
+So
+n = 6
+
+S
+n = 5
+
+Total
+n = 46
+
+4
+4
+
+AMP
+PIP
+AMC
+A/S
+P/T
+CEP
+1
+CXM 2
+ATM
+GEN 5
+KAN 6
+STM 4
+AMK
+TET
+CIP
+OFX
+NAL
+SXT
+CAP
+NIT
+
+6
+8
+7
+8
+6
+4
+
+4
+4
+
+4
+4
+5
+
+6
+6
+5
+5
+6
+
+5
+4
+
+1
+2
+
+3
+5
+5
+
+6
+5
+4
+7
+5
+2
+
+3
+3
+
+2
+
+5
+5
+5
+
+6
+2
+5
+4
+3
+3
+
+4
+2
+
+6
+6
+6
+
+6
+5
+4
+4
+4
+1
+
+5
+5
+
+4
+
+6
+5
+5
+
+6
+4
+4
+3
+2
+
+25
+22
+
+8
+4
+
+29
+31
+30
+
+36
+30
+29
+31
+25
+10
+
+9
+3
+
+1
+2
+2
+9
+11
+9
+
+12
+8
+9
+9
+8
+3
+
+7
+2
+
+2
+2
+1
+8
+7
+8
+
+9
+7
+7
+6
+6
+2
+
+5
+3
+
+3
+2
+1
+5
+5
+6
+
+5
+3
+4
+5
+3
+1
+
+3
+1
+
+1
+1
+
+6
+4
+5
+
+8
+6
+4
+5
+5
+1
+
+3
+3
+
+3
+1
+
+4
+2
+3
+
+5
+4
+3
+6
+3
+
+2
+1
+
+2
+2
+2
+1
+1
+1
+1
+3
+2
+1
+1
+2
+1
+
+29
+13
+
+12
+10
+6
+33
+30
+32
+1
+42
+30
+28
+32
+27
+8
+
+8
+3
+
+7
+6
+
+7
+8
+5
+
+10
+8
+9
+9
+8
+3
+
+10
+6
+
+7
+7
+
+6
+7
+8
+
+9
+7
+8
+9
+8
+1
+
+8
+6
+
+4
+4
+
+7
+5
+6
+
+7
+7
+7
+6
+6
+
+5
+3
+
+4
+4
+
+6
+3
+7
+
+7
+6
+6
+5
+6
+
+5
+2
+
+3
+3
+
+5
+5
+5
+
+6
+4
+3
+4
+4
+
+3
+2
+1
+
+3
+3
+
+5
+3
+4
+
+5
+4
+2
+5
+3
+
+1
+
+39
+22
+1
+
+28
+27
+
+36
+31
+35
+
+44
+36
+35
+38
+35
+4
+1
+
+F: fecal; In: indoor air; Dw: downwind air; R: river; So: soil; S: silt.
+
+36
+
+B. Wu et al. / Science of the Total Environment 665 (2019) 33–40
+
+Table 4
+E. coli carrying PMQR genes from different sources.
+
+0 PMQR
+gene
+
+1 PMQR
+gene
+
+2 PMQR
+genes
+
+3 PMQR
+genes
+
+4 PMQR
+genes
+
+overnight and sent for sequencing to the Tsingke company (Beijing,
+China). Its gene subtype was determined according to the database of
+qnr allele designations at http://www.lahey.org/qnrStudies.
+
+Swine farm A
+
+Swine farm B
+
+Swine farm C
+
+Total
+
+F
+In
+Dw
+R
+S
+So
+F
+In
+Dw
+R
+S
+So
+F
+In
+Dw
+R
+S
+So
+
+0
+0
+0
+1
+0
+3
+1
+3
+0
+3
+1
+1
+0
+4
+2
+0
+2
+2
+23
+
+2
+5
+2
+2
+5
+2
+6
+3
+5
+4
+1
+5
+3
+5
+4
+7
+1
+1
+63
+
+5
+1
+4
+2
+1
+1
+3
+3
+1
+1
+0
+0
+5
+0
+2
+0
+2
+1
+32
+
+1
+1
+0
+1
+0
+0
+2
+0
+0
+0
+1
+0
+2
+1
+0
+0
+0
+1
+10
+
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+2
+
+2.7. Pulsed ﬁeld gel electrophoresis (PFGE)
+
+To determine the genetic relatedness of the E. coli isolates, their ge-
+nomic DNA were digested with the restriction enzyme XbaI and then
+subjected to PFGE analysis according to the PulseNet Standardized Lab-
+oratory Protocol (PulseNet., 2002) using the CHEF Mapper™ System
+(Bio-Rad Laboratories, Hercules, CA) and previous literature (Tenover
+et al., 1995). The Salmonella (H9812) serotype Braenderup strain re-
+stricted with XbaI was used as a molecular weight standard. Cluster
+analysis of the pulsotypes was carried out using the Dice coefﬁcient
+method in UPGMA (optimization: 1.5%; band position tolerance: 1.5%)
+in BioNumerics (Version7.6, Applied Maths, Inc.).
+
+3. Results
+
+3.1. Isolation of E. coli
+
+2.6. Qnr gene sequence determination and analysis
+
+The 58 qnrS PCR positive product and 21 qnrB PCR positive product
+were puriﬁed and ligated into the PMD18-T cloning vector and then
+
+transferred into DH5ɑ competent cells. The positive strain that had
+
+been successfully cloned with the qnrS target fragment was cultured
+
+In total, 130 E. coli isolates were obtained from the three swine
+farms, including 30 fecal isolates, 26 indoor air isolates, 21 down-
+wind air isolates, 21 river water isolates, 14 silt isolates, and 18
+soil isolates (Table 1). No isolates were obtained from upwind air
+samples.
+
+Fig. 1. PFGE dendrogram of E. coli isolates from swine farm A (SFA) and the PMQR genes tested.
+
+B. Wu et al. / Science of the Total Environment 665 (2019) 33–40
+
+37
+
+3.2. Antibiotic susceptibility test and determination of MIC value of cipro-
+ﬂoxacin, oﬂoxacin, and nalidixic acid
+
+The E. coli strains showed diverse susceptibility among swine farms
+(Table 3). On the whole, the resistance rates were over 90% against TET,
+64.10–84.78% against AMP, 66.67–79.49% against KAN, 60.00–76.09%
+against SXT, and over 70% against GEN and STM. The isolates resistant
+to CIP from fecal, indoor air, downwind air, river, soil and silt samples
+were #24, #19, #16, #14, #12, and #10, respectively; those resistant
+to OFX were #25, #19, #16, #15, #10, and #7; and those resistant to
+NAL were #26, #22, #16, #14, and #9. Isolates from all three farms dem-
+onstrated susceptibility to A/S, P/T, ATM, and AMK. In addition, six iso-
+lates from farm B were resistant to ATM.
+
+All E. coli isolates from the three farms were resistant to at least three
+antibiotics. Resistance to eight antibiotics (23.08%) was the most preva-
+lent phenotype among all strains, followed by resistance to seven anti-
+biotics (15.38%). E. coli isolates obtained from farm A were resistant to
+3–11 antibiotics, while isolates from farms B and C were resistant to
+3–13 antibiotics.
+
+The MICs of the 130 E. coli isolates were determined by the
+microdilution method. The MIC values of ciproﬂoxacin, oﬂoxacin, and
+nalidixic acid were mainly in the ranges of 2–64, 8–64, and 8–64 μg/mL,
+which correspond to low-medium resistance and less highly resistant.
+
+3.3. Detection results of the plasmid-mediated quinolone resistance genes
+
+The genes detected among the 130 E. coli isolates were qnrA,
+qnrB, qnrS, aac(6′)-Ib, aac(6′)-Ib-cr, qepA, and oqxAB. In total,
+
+82.31% (107/130) of the E. coli
+isolates carried at least one
+PMQR gene, and Table 4 shows the different association patterns
+of PMQR genes per strain (including for each type of sample:
+fecal, indoor air, downwind air, and so on). The results showed
+that 63 isolates carried one PMQR gene, 32 isolates carried two
+PMQR genes, 10 isolates carried three PMQR genes, and 2 iso-
+lates carried four PMQR genes. The detection rates of the qnrA,
+qnrB, qnrS, aac(6′)-Ib, aac(6′)-Ib-cr, qepA, and oqxAB genes in
+the E. coli isolates from the three swine farms were in the ranges
+of 10.87–23.08%, 13.04–20.51%, 40.00–43.48%, 31.11–41.03%,
+30.43–38.46%, 6.52–12.82%, and 7.69–17.39%, respectively.
+
+All oqxA-positive isolates were also screened for oqxB. The dominant
+PMQR gene was the qnrS gene, and the detection rate of the qepA gene
+was the lowest among all the swine farms investigated. The QepA
+gene was detected in ﬁve, four, and three isolates in the three farms,
+respectively.
+
+3.4. Sequence analysis of bacteria resistance genes qnrS and qnrB
+
+The results of the 58 PCR positive product sequencing was 54
+strains of qnrS and 4 false-positive results. In addition, the typing
+results of the 54 qnrS positive strains showed that 39 of them
+belonged to qnrS1 and 15 belonged to qnrS2. The result of 21 qnrB
+PCR positive product sequencing was 19 strains of qnrB and 2
+false-positive results. The typing results of 19 qnrB positive strains
+showed that 10 of them belonged to qnrB2, six belonged to qnrB9,
+and three belonged to qnrB31.
+
+Fig. 2. PFGE dendrogram of E. coli isolates from in swine farm B (SFB) and the PMQR genes tested.
+
+38
+
+3.5. PFGE
+
+B. Wu et al. / Science of the Total Environment 665 (2019) 33–40
+
+The E. coli isolates showed diverse PFGE proﬁles, which fully
+reﬂected the genetic polymorphism of E. coli. The similarity of the
+E. coli isolates was 65–100% in the three swine farms. The PFGE results
+showed N85% similarity in 14, 11, 9, 7, and 10 isolates from indoor air,
+outdoor air, soil, silt, and river samples, respectively. In swine farm A
+(Fig. 1), the samples Dw100m-2 and Indoor-3 had N85% similarity to
+the Fecal-5 sample and carried the same PMQR genes: qnrA and qnrS.
+In swine farm B (Fig. 2), the samples Dw10m-1, Dw100m-1, and Soil
+200m-2 had N85% similarity to the sample Fecal-3 and carried the
+same PMQR gene, qnrB. The similarity between the samples Fecal-8
+and Indoor-1 was 100%, and both carried the qnrS genes. In swine
+farm C (Fig. 3), the samples River100m-2, Indoor-6, and Soil100m-2
+had above 85% similarity to Fecal-1 and carried the same PMQR gene,
+qnrS. The similarity between samples Fecal-3 and Soil200m-3 was
+100%, and both carried qnrS genes and aac(6′)-Ib-cr genes. Some isolates
+were detected in multiple types of samples along the environmental
+transmission gradient from feces to soil, and they carried the same resis-
+tance genes.
+
+4. Discussion
+
+In this study, 130 E. coli Isolates from different swine farms all
+showed high resistance against (ﬂuoro) quinolones (CIP, OFX, and
+NAL), aminoglycosides (GEN, KAN, and STM), TET, SXT, and AMP. The
+resistance rate against (ﬂuoro)quinolones was in the range of
+74.36–82.61%, which is consistent with previous studies (Gao et al.,
+
+2015; Zhu et al., 2011; Xiao et al., 2011). Furthermore, 93.08% (121/
+130) of the isolates were sensitive to at least 5 antibiotics, and some
+were sensitive to as many as 10–13 antibiotics. Antibiotic susceptibility
+was similar between farms, but there was also a large difference in drug
+resistance among individuals, which may be related to the different
+management systems of drug use in the different farms. This indicated
+that the high resistance rate might be related to the multiple and inap-
+propriate use of these antibiotics (Teuber, 2001; Lipsitch et al., 2002;
+Rosa and Carlos, 2013). The PMQR genes were very common in the
+farms, with 82.31% (107/130) of the E. coli isolates carrying at least
+one. qnrS and aac(6′)-Ib-cr were the main PMQR genes, and multiple
+PMQR genes coexisted in the same isolates, which improves the resis-
+tance of the bacteria to antimicrobial drugs. In the qnr gene family,
+two variants of qnrS were detected: qnrS1 and qnrS2. There are many
+variants of qnrB, the most easily mutated genotype (Wang et al.,
+2011), which is consistent with our results. Variable qnr resistance
+genes in E. coli could signiﬁcantly improve the resistance to quinolones.
+In animal houses, there are large amounts of feces and waste con-
+taining resistant bacteria, which could enter into the air through animal
+activities and form into bio-aerosols. The transmission of bio-aerosols
+carrying pathogens or resistant bacteria could pose threats for animals
+and public health. PFGE experiments on E. coli with different sources
+in different swine house showed that their similarity was very high
+(as much as 100%). A total of 47 E. coli isolates were obtained from in-
+door air samples and outdoor air samples at 10 m, 50 m, 100 m,
+200 m, and 400 m downwind. PFGE showed that 25 isolates were clon-
+ally related to fecal isolates, including 9 isolates carrying the same PMQR
+genes, which indicates that airborne transmission was a possible route
+
+Fig. 3. PFGE dendrogram of E. coli isolates from swine farm C (SFC) and the PMQR genes tested.
+
+B. Wu et al. / Science of the Total Environment 665 (2019) 33–40
+
+39
+
+for E. coli carrying PMQR genes. In addition, the same origin as fecal iso-
+lates was observed in 10 and 9 E. coli isolates from river water at 10 m,
+50 m, 100 m, and 200 m away and from soil at 50 m, 100 m, 200 m, and
+400 m away. Furthermore, 7 E. coli isolates from silt at 5 m, 10 m, and
+20 m were clonally related to fecal isolates. This indicates that E. coli car-
+rying PMQR genes and originating from indoor feces could transmit be-
+tween the internal and external environments of the swine farms
+through the river, air, soil, and silt.
+
+It has been reported that approximately 75% of antibiotics cannot be
+absorbed by animals and leak into the waste (Donohoe, 1984; Chee et al.,
+2009). Although some antibiotics are discharged into surrounding rivers
+during irrigation or fertilization processes, most antibiotics in the open-
+air lagoons are re-applied to the surrounding agricultural ﬁelds. Signiﬁ-
+cant amounts of antibiotics can be found in manure and waste slurries
+(Gavalchin and Katz, 2015; Pedro et al., 2009). Thus, antibiotic-resistant
+bacteria from indoor feces could spread to surrounding environments
+and pollute the air (≥400 m), river (≥200 m), soil (≥400 m), and silt
+(≥200 m).
+
+The transmission distance varies with the media, which might be
+due to the high mobility of air and river water and the low mobility of
+silt. The distance was much longer in soil than in river water, which
+might be related to the artiﬁcial transmission by villagers' farming activ-
+ities like irrigation, and this artiﬁcial spread could be unlimited
+(McEachran et al., 2015; Sanchez et al., 2016; Liu et al., 2012). The trans-
+mission of antibiotic-resistant E. coli not only poses a threat of infection
+to the animals raised but also tends to cause the spread of epidemic dis-
+eases. The detailed inﬂuences and mechanisms behind this transmis-
+sion should be investigated further.
+
+5. Conclusion
+
+The present study revealed that E. coli carrying PMQR genes and
+originating from feces in swine farms could spread to the external envi-
+ronment. These bacteria pollute the nearby air, water, silt, and soil,
+which could be a potential threat to the public environment and
+human health.
+
+Conﬂict of interest statement
+
+The authors have no conﬂicts of interest to declare.
+
+CRediT authorship contribution statement
+
+Bo Wu: Conceptualization, Data curation, Writing - original draft,
+Writing - review & editing. Qin Qi: Data curation. Xiaodan Zhang:
+Data curation. Yumei Cai: Formal analysis. Guanliu Yu: Formal anal-
+ysis. Jing Lv: Formal analysis. Lili Gao: Writing - review & editing.
+Liangmeng Wei: Writing - review & editing. Tongjie Chai: Concep-
+tualization, Funding acquisition, Writing - original draft.
+
+Acknowledgments
+
+This study was sponsored by a project of the National Natural Sci-
+ence Foundation of China [31270172], the Natural Science Foundation
+of Shandong Province [ZR2012CM041], and the Shandong “Double
+Tops” Program (SYL2017YSTD11).
+
+References
+
+Andersen, A.A., 1958. New sampler for the collection, sizing, and enumeration of viable
+
+airborne particles. J. Bacteriol. 76, 471–484.
+
+Buchberger, W.W., 2007. Novel analytical procedures for screening of drug residues in
+
+water, waste water, sediment and sludge. Anal. Chim. Acta 593, 129–139.
+
+Carattoli, A., 2008. Animal reservoirs for extended spectrum b-lactamase producers. Clin.
+
+Microbiol. Infect. 14, 117–123.
+
+Cattoir, V., Poirel, L., Rotimi, V., Soussy, C.J., Nordmann, P., 2007. Multiplex PCR for detec-
+tion of plasmid-mediated quinolone resistance qnr genes in ESBL-producing entero-
+bacterial isolates. Antimicrob. Chemother. 60, 394–397.
+
+Cattoir, V., Poirel, L., Aubert, C., Soussy, C.J., Nordmann, P., 2008. Unexpected occurrence of
+plasmid-mediated quinolone resistance determinants in environmental Aeromonas
+spp. Emerg. Infect. Dis. 14, 231–237.
+
+Chee-Sanford, J.C., Mackie, R.I., Koike, S., 2009. Fate and transport of antibiotic residues
+and antibiotic resistance genes following land application of manure waste. Environ.
+Qual. 38 (3), 1086–1108.
+
+Chen, X., Zhang, W.Q., Pan, W.J., Yin, J.J., Pan, Z.M., Gao, S., Jiao, X.N., 2012. Prevalence of
+qnr, aac(6=)-Ib-cr, qepA, and oqxAB in Escherichia coli isolates from humans, animals,
+and the environment. Vet. Microbiol. 56, 3423–3427.
+
+Chen, X., Zhang, W.Q., Yin, J.J., Zhang, N., Chen, C., Yang, J., Jiao, X.A., 2013. The prevalence
+of plasmid-mediated quinolone resistance gene qnrS in a farm. Acta Microbiol Sin. 53,
+1080–1086.
+
+Cheng, D.R., Sun, H.C., Xu, J.S., Gao, S., 2006. PCR detection of virulence factor genes in
+Escherichia coli isolates from weaned piglets with edema disease and/or diarrhea
+in China. Vet. Microbiol. 115, 320–328.
+
+Donohoe, A.L., 1984. Biochemical studies on the fate of monensin in animals and in the
+
+environment. Anim. Sci. 58, 1528–1539.
+
+Duan, H.Y., Chai, T.J., Müller, W., Zuker, B.A., 2006. Concentration to airborne endotoxins
+and airborne bacteria in Chinese rabbitries. Berl. Munch. Tierarztl. Wochenschr.
+119, 40–44.
+
+Fiegel, J., Clarke, R., Edwards, D.A., 2006. Airborne infectious disease and the suppression
+
+of pulmonary bioaerosols. Drug Discov. Today 11, 51–57.
+
+Gao, L.L., Tan, Y.K., Zhan, X.D., Hu, J.Q., Miao, Z.M., Wei, L.M., 2015. Emissions of Escherichia
+coli carrying extended-spectrum β-lactamase resistance from pig farms to the sur-
+rounding environment. Int. J. Environ. Res. Public Health 12, 4203–4213.
+
+Gavalchin, J., Katz, S.E., 2015. The persistence of fecal-borne antibiotics in soil. J. AOAC Int.
+
+77, 481–485.
+
+Gay, K., Robicsek, A., Strahicevitz, J., Park, C.H., Jacoby, G., Barrett, T.J., 2006. Plasmid-
+mediated quinolone resistance in non-Typhi serotypes of Salmonella enterica. Clin.
+Infect. Dis. 43, 297–304.
+
+Hansen, L.H., Jensen, L.B., Sorensen, H.I., Sorensen, S.J., 2007. Substrate speciﬁcity of the
+OqxAB multidrug resistance pump in Escherichia coli and selected enteric bacteria.
+J. Antimicrob. Chemother. 60, 145–147.
+
+Hart, C.A., Kariuki, S., 1998. Antimicrobial resistance in developing countries. Br. Med. J.
+
+317, 647–650.
+
+Jiang, Y., Zhou, Z., Qian, Y., Wei, Z., Yu, Y., Hu, S., 2008. Plasmid-mediated quinolone resis-
+tance determinants qnr and aac(6′)-ib-cr in extended-spectrum beta-lactamase-
+producing escherichia coli and klebsiella pneumoniae in China. J. Antimicrob.
+Chemother. 61, 1003.
+
+Jiang, H.X., Tang, D., Liu, Y.H., 2012. Prevalence and characteristics of β-lactamase and
+plasmid-mediated quinolone resistance genes in Escherichia coli isolated from
+farmed ﬁsh in China. Antimicrob. Chemother. 67, 2350–2353.
+
+Kim, H.B., Park, C.H., Kim, C.J., Kim, E.C., Jacoby, G.A., Hooper, D.C., 2009. Prevalence of
+plasmid-mediated quinolone resistance determinants over a 9-year period.
+Antimicrob. Agents Chemother. 53, 639–645.
+
+Létourneau, V., Nehmé, B., Mériaux, A., 2010. Human pathogens and tetracycline-resistant
+bacteria in bioaerosols of swine conﬁnement buildings and in nasal ﬂora of hog pro-
+ducers. Int. Hyg. Environ. Health 213, 444–449.
+
+Li, J., Wang, T., Shao, B., Shen, J.Z., Wang, S.C., Wu, Y.N., 2012. Plasmid-mediated quinolone
+resistance genes and antibiotic residues in wastewater and soil adjacent to swine
+feedlots: potential transfer to agricultural lands. Environ. Health Perspect. 120 (8),
+1144–1149.
+
+Lipsitch, M., Singer, R.S., Levin, B.R., 2002. Antibiotics in agriculture: when is it time to
+
+close the barn door. Proc. Natl. Acad. Sci. U. S. A. 99, 5752–5754.
+
+Liu, D.J., Chai, T.J., Xia, X.Z., 2012. Formation and transmission of Staphylococcus aureus
+(including MRSA) aerosols carrying antibiotic-resistant genes in a poultry farming
+environment. Sci. Total Environ. 426, 139–145.
+
+Ma, J.Y., Zeng, Z.L., Chen, Z.L., Xu, X.G., 2009. High prevalence of plasmid-mediated quin-
+olone resistance determinants qnr, aac(6′)-ib-cr, and qepa among ceftiofur-resistant
+enterobacteriaceae isolates from companion and food-producing animals.
+Antimicrob. Agents Chemother. 53 (2), 519–524.
+
+Makrina, T., Danilo, G.M., Adi, I., Benjamin, A.R., Daniel, J.W., Minh-Duy, P., 2012.
+Uropathogenic escherichia coli mediated urinary tract infection. Curr. Drug Targets
+13, 1386–1399.
+
+Manges, A.R., 2016. Escherichia coli and urinary tract infections: the role of poultry-meat.
+
+Clin. Microbiol. Infect. 22 (2), 122–129.
+
+Martinez-Martinez, L., Paseual, A., Jaeoby, G.A., 1998. Quinolone resistance from a trans-
+
+ferable plasmid. Lancet 35l, 797–799.
+
+McEachran, A.D., Blackwell, B.R., Hanson, J.De., Wooten, K.J., Mayer, G.D., Cox, S.B., Smith,
+P.N., 2015. Antibiotics, bacteria, and antibiotic resistance genes: aerial transport from
+cattle feed yards via particulate matter. Environ. Health Perspect. 123, 337–342.
+
+Michael, J.P., Jason, A.W., 2014. Bacterial topoisomerase inhibitors: quinolones and be-
+
+yond. Antimicrobials, pp. 307–326.
+
+Mirzaii, M., Jamshidi, S., Zamanzadeh, M., Marashifard, M., Malek, S.H., Haeili, M.,
+2018. Determination of gyra and parc mutations and prevalence of plasmid-
+mediated quinolone resistance genes in escherichia coli and klebsiella
+pneumoniae isolated from patients with urinary tract infection in Iran.
+J. Glob. Antimicrob. Resist. 13, 197–200.
+
+NCCLS, 2004. Performance Standards for Anti-microbial SusceptibilityTesting. 15th Infor-
+
+mational Supplement M100-S15 [S]. vol. 24 p. 100.
+
+Park, C.H., Robicsek, A., Jacoby, G.A., Sahm, D., Hooper, D.C., 2006. Prevalence in the United
+States of aac(6′)-Ib-cr encoding a cip roﬂoxacin-modifying enzyme. Antimicrob.
+Agents Chemother. 50, 3953–3955.
+
+40
+
+B. Wu et al. / Science of the Total Environment 665 (2019) 33–40
+
+Pedro, A.S., Matthieu, F., Christian, G., Sébastien, S., 2009. Review of the occurrence of anti-
+infectives in contaminated wastewaters and natural and drinking waters. Environ.
+Health Perspect. 117 (5), 675–684.
+
+Périchon, B., Courvalin, P., Galimand, M., 2007. Transferable resistance to aminoglycosides
+by methylation of G1405 in 16S rRNA and to hydrophilic ﬂuoroquinolones by QepA-
+mediated efﬂux in Escherichia coli. Antimicrob. Agents Chemother. 51, 2464–2469.
+Piekarska, K., Wołkowicz, T., Zacharczuk, K., Rzeczkowska, M., Chróst, A., Bareja, E., 2015.
+Co-existence of plasmid-mediated quinolone resistance determinants and mutations
+in gyra and parc among ﬂuoroquinolone-resistant clinical enterobacteriaceae isolated
+in a tertiary hospital in Warsaw, Poland. Int. J. Antimicrob. Agents 45, 238–243.
+
+PulseNet, 2002. One-day (24–48 h) standardized laboratory protocol for molecular
+subtyping of Escherichia coli O157:H7, non-typhoidal Salmonella serotypes, and Shi-
+gella sonnei by pulsed ﬁeld gel electrophoresis (PFGE). Available in:. http://www.
+cdc.gov/pulsenet/PDF/ecoli-shigella-salmonella-pfge-protocol-508c.pdf.
+
+Recacha, E., Machuca, J., Alba, P.D.D., Ramos-Güelfo, M., Docobo-Pérez, F., Rodriguez-
+Beltrán, J., 2017. Quinolone resistance reversion by targeting the sos response. MBio
+8, e00971-17.
+
+Reinthaler, F.F., Posch, J., Feierl, G., 2003. Antibiotic resistance of E. coli in sewage and
+
+sludge. Water Res. 37, 1685–1690.
+
+Robicsek, A., Strahilevitz, J., Jacoby, G.A., Macielag, M., Abbanat, D., Park, C.H., 2006.
+Fluoroquinolone-modifying enzyme: a new adaptation of a common aminoglycoside
+acetyltransferase. Nat. Med. 12, 83–88.
+
+Rosa, C., Carlos, A.C., 2013. Antibiotic-resistant bacteria: a challenge for the food industry.
+
+Crit. Rev. Food Sci. Nutr. 53 (1), 11–48.
+
+Sanchez, H.M., Echeverria, C., Thulsiraj, V., 2016. Erratum to: antibiotic resistance in air-
+borne bacteria near conventional and organic beef cattle farms in California, USA.
+Water Air Soil Pollut. 227, 369.
+
+Schierack, P., Steinrück, H., Kleta, S., Vahjen, W., 2006. Virulence factor gene proﬁles of
+Escherichia coli isolates from clinically healthy pigs. Appl. Environ. Microbiol. 72,
+6680–6686.
+
+Schroeder, C.M., White, D.G., Meng, J., 2004. Retail meat and poultry as a reservoir of
+
+antimicrobial-resistant Escherichia coli. Food Microbiol. 21, 249–255.
+
+Strahilevitz, J., Jacoby, G.A., Hooper, D.C., Robicsek, A., 2009. Plasmid-mediated quinolone
+
+resistance: a multifaceted threat. Clin. Microbiol. Rev. 22, 664.
+
+Tenover, F.C., Arbeit, R.D., Goering, R.V., 1995. Interpreting chro-mosomal DNA restriction
+patterns produced by pulsed-ﬁeld gel electrophoresis: criteria for bacterial strain typ-
+ing. J. Clin. Microbiol. 33, 2233–2239.
+
+Teuber, M., 2001. Veterinary use and antibiotic resistance. Curr. Opin. Microbiol. 4,
+
+493–499.
+
+Tian, G.B., Wang, H.N., Zou, L.K., Tang, J.N., Zhao, Y.W., Ye, M.Y., 2009. Detection of CTX-M-
+15, CTX-M-22, and SHV-2 extended-spectrumbeta-lactamases (ESBLs) in Escherichia
+coli fecal-sample isolates from pig farms in China. Foodborne Pathog. Dis. 6, 297–304.
+Tian, G.B., Wang, H.N., Zhang, A.Y., Zhang, Y., Fan, W.Q., Xu, C.W., 2012. Detection of clin-
+ically important beta-lactamases in commensal Escherichia coli of human and swine
+origin in western China. J. Med. Microbiol. 61, 233–238.
+
+Wang, D., Wang, H., Qi, Y., Liang, Y., Zhang, J., Yu, L., 2011. Novel variants of the qnrb gene,
+
+qnrb31 and qnrb32, in klebsiella pneumoniae. J. Med. Microbiol. 60, 1849–1852.
+
+Wang, Y., He, T., Han, J., Wang, J., Foley, S.L., Yang, G.Y., Wan, S.X., Shen, J.Z., Wu, C.M.,
+2012. Prevalence of ESBLs and PMQR genes in fecal Escherichia coli isolated from
+the non-human primates in six zoos in China. Vet. Microbiol. 159, 53–59.
+
+Wu, J.J., Ko, W.C., Tsai, S.H., Yan, J.J., 2007. Prevalence of plasmid-mediated quinolone re-
+sistance determinants QnrA, QnrB, and QnrS among clinical isolates of Enterobacter
+cloacae in a Taiwanese hospital. Antimicrob. Agents Chemother. 51, 1223–1227.
+
+Xiao, Y.H., Shen, P., Wei, Z., Chen, Y.B., Kong, H.S., Yang, Q., 2011. 2010 report of Mohnarin
+national bacterial resistant surveillance. Chin. J. Nosocomiology 23, 4896–4902 (in
+Chinese).
+
+Yamane, K., Wachino, J., Suzuki, S., Kimura, K., Shibata, N., Kato, H., 2007. New plasmid-
+mediated ﬂuoroquinolone efﬂux pump, QepA, found in an Escherichia coli clinical
+isolate. Antimicrob. Agents Chemother. 51, 3354–3360.
+
+Yu, G.Y., Liu, J.Y., Wang, Y., Cai, Y.M., Chai, T.J., Gao, J., 2016. Inﬂuence of ambient microbial
+aerosol stress and performance of meat ducks raised in sheds during winter. Chin.
+J. Anim. Nutr. 27 (11), 3402–3410 (In Chinese).
+
+Yuan, L., Liu, J.H., Hu, G.Z., Pan, Y.S., Liu, Z.M., Mo, J., 2009. Molecular characterization of
+extended-spectrum beta-lactamase-producing Escherichia coli isolates from chickens
+in Henan Province,China. J. Med. Microbiol. 58, 1449–1453.
+
+Zhou, T.L., Chen, X.J., Zhou, M.M., Zhao, Y.J., Luo, X.H., Bao, Q.Y., 2011. Prevalence of
+plasmid-mediated quinolone resistance in Escherichia coli isolates in Wenzhou,
+Southern China, 2002–2008. Jpn. Infect. Dis. 64, 55–57.
+
+Zhu, D.M., Wang, F., Hu, F.P., 2011. CHINET surveillance of bacterial resistance in China.
+
+Chin. J. Infect. Chemother. 11, 321–329 (in Chinese).
+
+

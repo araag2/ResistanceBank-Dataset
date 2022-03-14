@@ -1,0 +1,845 @@
+ORIGINAL RESEARCH
+published: 31 October 2017
+doi: 10.3389/fmicb.2017.02106
+
+Prevalence and Antibiotic Resistance
+of Non-typhoidal Salmonella Isolated
+from Raw Chicken Carcasses of
+Commercial Broilers and Spent Hens
+in Tai’an, China
+
+Song Li1, Yufa Zhou2 and Zengmin Miao3*
+
+1 College of Basic Medicine, Taishan Medical University, Tai’an, China, 2 Center for Disease Control, Veterinary Bureau of
+Daiyue, Tai’an, China, 3 College of Life Sciences, Taishan Medical University, Tai’an, China
+
+The present study was aimed to determine the prevalence and characteristics of
+Salmonella isolated from meat samples of commercial broilers (CB) and spent hens
+(SH). Between March and June 2016, 200 retail raw chicken carcasses (100 from CB
+and 100 from SH) were obtained from local supermarkets in Tai’an city of China, and
+Salmonella isolates were then analyzed for antibiotic resistance, serotype, β-lactamase
+genes, and the presence of class 1 integron. Forty Salmonella strains were obtained
+in this study (CB: 21/100, 21%; SH: 19/100, 19%). Three serotypes were identiﬁed
+in 40 Salmonella, and S. Enteritidis (CB: 15/21, 71.4%; SH: 10/19, 52.6%) was the
+dominant serotype, followed by S. Typhimurium (CB: 4/21, 19%; SH: 6/19, 31.6%)
+and S. Derby (CB: 2/21, 9.5%; SH: 3/19, 15.8%). Among 21 Salmonella isolated from
+CB, high antibiotic resistance rates were found for ampicillin (20/21, 95.2%), nalidixic
+acid (18/21, 85.7%), cefotaxime (17/21, 81%), and tetracycline (13/21, 61.9%); class 1
+integron was observed in seven isolates (7/21, 33.3%), and gene cassettes included an
+empty integron (0.15 kb, n = 1), aadA2 (1.2 kb, n = 3), drfA1-aadA1 (1.4 kb, n = 1),
+and drfA17-aadA5 (1.7 kb, n = 2); blaTEM−1 was the dominant β-lactamase gene (21/21,
+100%), followed by blaCTX−M−55 (7/21, 33.3%). Among 19 Salmonella isolated from SH,
+high antibiotic resistance rates were found for nalidixic acid (19/19, 100%), tetracycline
+(19/19, 100%), ampicillin (18/19, 94.7%), and ciproﬂoxacin (13/19, 68.4%); class 1
+integron was observed in two isolates (2/19, 10.5%), and gene cassettes included
+drfA17-aadA5 (1.7 kb, n = 1) and drfA1-aadA1 (1.4 kb, n = 1); blaTEM−1 was the
+dominant β-lactamase gene (19/19, 100%), followed by blaCTX−M−55 (2/19, 10.5%)
+and blaCMY−2 (1/19, 5.3%). Collectively, antibiotic-resistant Salmonella can be widely
+detected in retail raw chicken carcasses of CB and SH, and therefore can pose a serious
+risk to public health.
+
+Keywords: antibiotic resistance, β-lactamase gene, class 1 integron, Salmonella, serotype
+
+INTRODUCTION
+
+Salmonella is a notorious human pathogen and can lead to acute intestinal disease outbreaks in
+humans through consumption of contaminated foods (Pegues et al., 2006). It has been widely
+recognized that poultry products, such as eggs and meats, are a crucial transmission vehicle for
+Salmonella (Kusunoki et al., 2000; Betancor et al., 2010; Painter et al., 2013; Antunes et al., 2016).
+
+Edited by:
+Giovanna Suzzi,
+Università di Teramo, Italy
+
+Reviewed by:
+Zhao Chen,
+University of California, Davis,
+United States
+Ben Davies Tall,
+United States Food and Drug
+Administration, United States
+
+*Correspondence:
+Zengmin Miao
+zengminmiao@126.com;
+zengminmiao@sina.com
+
+Specialty section:
+This article was submitted to
+Food Microbiology,
+a section of the journal
+Frontiers in Microbiology
+
+Received: 20 July 2017
+Accepted: 16 October 2017
+Published: 31 October 2017
+
+Citation:
+Li S, Zhou Y and Miao Z (2017)
+Prevalence and Antibiotic Resistance
+of Non-typhoidal Salmonella Isolated
+from Raw Chicken Carcasses
+of Commercial Broilers and Spent
+Hens in Tai’an, China.
+Front. Microbiol. 8:2106.
+doi: 10.3389/fmicb.2017.02106
+
+Frontiers in Microbiology | www.frontiersin.org
+
+1
+
+October 2017 | Volume 8 | Article 2106
+
+Li et al.
+
+Salmonella from Raw Chicken Carcasses
+
+At present and even for a long time in the future, antibiotic-
+based treatment for human salmonellosis infection is the most
+eﬀective method in clinical practice (Ribeiro et al., 2011; Crump
+et al., 2015). It is therefore pivotal to use antibiotics to prevent
+and control Salmonella infections.
+
+However, the widespread use and even abuse of antibiotics
+in animal husbandry have facilitated the emergence and
+dissemination of antibiotic resistance in Salmonella, which
+has posed a serious challenge for the health of animals and
+humans (Marshall and Levy, 2011; Mukerji et al., 2017).
+Noticeably, numerous studies in recent years have indicated that
+extended-spectrum β-lactamase (ESBL)-producing Salmonella
+has been frequently isolated from food-producing animals
+and animal-derived foods in many countries of the world,
+including China (Wu et al., 2013; Chon et al., 2015; Franco
+et al., 2015; Hu et al., 2015; Noda et al., 2015; Ziech et al.,
+2016; Zhao et al., 2017). ESBL-producing Salmonella is able
+to inactivate and hydrolyze the β-lactam ring in β-lactam
+antibiotics and third- and fourth-generation cephalosporins,
+leading to the increase of
+treatment cost and even to
+therapy failure, which has triggered a serious public concern
+(Bonnet, 2004; Pitout and Laupland, 2008). In addition, the
+class 1 integrons are frequently observed among antibiotic-
+resistant Salmonella, which contributes
+to the spread of
+antibiotic resistance genes among bacteria (Wannaprasat et al.,
+2011).
+
+Therefore, understanding the prevalence and characteristics
+food animal
+importance for developing eﬀective treatment
+
+of Salmonella isolated from meat samples of
+origins is of
+
+strategies to control and prevent Salmonella infections in humans
+and animals. However, information about the occurrence and
+characteristics of Salmonella in chicken meats in China is poorly
+documented. In China, two main chicken breeds,
+including
+introduced commercial broilers (CB) and spent hens (SH), are
+widely reared and are important sources of chicken meat (Chen
+et al., 2016). This study was therefore undertaken to determine
+the prevalence and characteristics of Salmonella recovered from
+retail chicken carcasses of CB and SH in Tai’an region, China.
+
+MATERIALS AND METHODS
+
+Sample Collection
+Between March and June 2016, 200 retail raw chicken carcasses
+without giblets
+(100 from CB and 100 from SH) were
+obtained from local supermarkets in Tai’an city, China. These
+supermarkets had areas of 5,000–10,000 m2, oﬀering various
+foods and household products, in which raw chicken carcasses
+were sold refrigerated in a meat department. After purchase, the
+samples were stored in an icebox and immediately transported
+into our microbiology laboratory for further processing within
+24 h.
+
+Salmonella Isolation and Serotype
+Identiﬁcation
+Salmonella isolation was conducted as previously described
+(Choi et al., 2015). Brieﬂy, each chicken carcass was mixed
+with 400 ml of buﬀered peptone water (BPW; Hopebiol,
+
+TABLE 1 | Antibiotic resistance phenotype, presence of class 1 integron, and β-lactamase genes in Salmonella isolated from CB.
+
+Isolates
+
+Serovar
+
+Antibiotic resistance phenotypea
+
+Integron/β-lactamase genes
+
+CB-1
+CB-12
+CB-14
+CB-18
+CB-33
+CB-42
+CB-48
+CB-49
+CB-51
+CB-58
+CB-59
+CB-63
+CB-65
+CB-71
+CB-79
+CB-81
+CB-88
+CB-89
+CB-91
+CB-96
+CB-98
+
+S. Derby
+S. Enteritidis
+S. Enteritidis
+S. Derby
+S. Enteritidis
+S. Typhimurium
+S. Typhimurium
+S. Enteritidis
+S. Enteritidis
+S. Enteritidis
+S. Enteritidis
+S. Enteritidis
+S. Enteritidis
+S. Enteritidis
+S. Enteritidis
+S. Typhimurium
+S. Enteritidis
+S. Enteritidis
+S. Enteritidis
+S. Enteritidis
+S. Typhimurium
+
+AMP, CIP, CTX, NAL, TET
+AMP, GEN, CTX, FFC, NAL, TET
+AMP, GEN, CTX, FFC, NAL, TET
+AMP, CTX, NAL
+AMP, GEN, CTX, FFC, NAL, TET
+AMP, GEN, SPT
+AMP, SPT
+AMP, GEN, CTX, FFC, NAL, TET
+AMP, CTX, NAL
+AMP, GEN, CTX, FFC, NAL, TET
+AMP, CTX, FFC, NAL, TET
+AMP, GEN, CTX, FFC, NAL, TET
+AMP, GEN, CTX, FFC, NAL, TET
+AMP, GEN, CTX, FFC, NAL, TET
+AMP, GEN, CTX, FFC, NAL, TET
+AMP, SPT
+NAL
+AMP, GEN, CTX, FFC, NAL, TET
+AMP, CIP, CTX, NAL, TET
+AMP, CTX, NAL
+AMP, CTX, NAL
+
+blaTEM−1
+(aadA2)/blaTEM−1
+blaTEM−1, blaCTX−M−55
+(drfA1-aadA1)/blaTEM−1
+blaTEM−1, blaCTX−M−55
+(aadA2)/blaTEM−1
+blaTEM−1
+blaTEM−1, blaCTX−M−55
+blaTEM−1
+blaTEM−1
+blaTEM−1, blaCTX−M−55
+(drfA17-aadA5)/blaTEM−1, blaCTX−M−55
+blaTEM−1
+(drfA17-aadA5)/blaTEM−1
+blaTEM−1, blaCTX−M−55
+(aadA2)/blaTEM−1
+blaTEM−1
+blaTEM−1, blaCTX−M−55
+blaTEM−1
+empty integron/blaTEM−1
+blaTEM−1
+
+aAMC, amoxicillin/clavulanic acid; AMP, ampicillin; CTX, cefotaxime; CIP, ciproﬂoxacin; FFC, ﬂorfenicol; GEN, gentamicin; NAL, nalidixic acid; SPT, spectinomycin; TET,
+tetracycline; SXT, sulfamethoxazole/trimethoprim.
+
+Frontiers in Microbiology | www.frontiersin.org
+
+2
+
+October 2017 | Volume 8 | Article 2106
+
+Li et al.
+
+Salmonella from Raw Chicken Carcasses
+
+TABLE 2 | Antibiotic resistance phenotype, presence of class 1 integron, and
+β-lactamase genes in Salmonella isolated from SH.
+
+Isolates
+
+Serovar
+
+Antibiotic
+resistance
+phenotypeb
+
+NAL
+AMP, NAL, TET
+AMP, CTX, CIP,
+NAL, TET
+AMP, CIP, NAL, TET
+AMP, NAL, TET
+AMP, NAL, TET
+AMP, CIP, NAL, TET
+AMP, CIP, CTX,
+NAL, TET
+AMP, CIP, NAL, TET
+AMP, CIP, NAL, TET
+AMP, NAL, TET
+AMP, CTX, CIP,
+NAL, TET
+AMP, CIP, NAL, TET
+AMP, NAL, TET
+AMP, CIP, NAL, TET
+AMP, CIP, CTX,
+GEN, NAL, TET
+
+S. Enteritidis
+S. Enteritidis
+S. Enteritidis
+
+S. Derby
+S. Enteritidis
+S. Enteritidis
+S. Enteritidis
+S. Enteritidis
+
+S. Enteritidis
+S. Enteritidis
+S. Derby
+S. Typhimurium
+
+S. Typhimurium
+S. Typhimurium
+S. Typhimurium
+S. Typhimurium
+
+Integron/
+β-lactamase
+genes
+
+blaTEM−1
+blaTEM−1
+blaTEM−1,
+blaCTX−M−55
+blaTEM−1
+blaTEM−1
+blaTEM−1
+blaTEM−1
+(drfA17-
+aadA5)/blaTEM−1
+blaTEM−1
+blaTEM−1
+blaTEM−1
+blaTEM−1,
+blaCTX−M−55
+blaTEM−1
+blaTEM−1
+blaTEM−1
+(drfA1-
+aadA1)/blaTEM−1,
+blaCMY−2
+blaTEM−1
+blaTEM−1
+blaTEM−1
+
+to determine antibiotic susceptibilities of Salmonella strains.
+Antibiotics used in this study were amoxicillin/clavulanic acid
+(20/10 µg), ampicillin (10µg), cefotaxime (30 µg), ciproﬂoxacin
+(5 µg), ﬂorfenicol (30 µg), gentamicin (10 µg), nalidixic
+acid (10 µg), spectinomycin (10 µg),
+tetracycline (30 µg)
+and sulfamethoxazole/trimethoprim (1.25/23.75 µg) (Hopebiol,
+Qingdao, China). Salmonella strains resistant to no less than three
+classes of antibiotics were deﬁned as multidrug-resistant (MDR)
+isolates. Escherichia coli ATCC 25922 was used in this study as
+quality control strain.
+
+Detection of β-Lactamase Gene
+According to the method previously described (Batchelor
+et al., 2005; Rayamajhi et al., 2008; Li et al., 2013), polymerase
+chain reaction (PCR) was used to determine the presence
+of β-lactamase genes (blaTEM, blaPSE−1, blaCMY−2, blaSHV,
+blaDHA−1, blaOXA, and blaCTX−M). For
+isolates carrying
+blaCTX−M genes, blaCTX−M gene group was further identiﬁed by
+using PCR (Kim et al., 2015). The PCR products were sequenced
+(Sunny, Shanghai, China), and the sequences were analyzed and
+aligned using the NCBI BLAST program1.
+
+Detection of Class I Integrons
+Based on the primers previously described, PCR was used to
+analyze the presence of class 1 integron (Guerra et al., 2001;
+Kerrn et al., 2002). Additionally, PCR was employed to amplify
+gene cassettes within the variable region of class 1 integron
+according to the methods described previously (Sandvang et al.,
+1998). The ampliﬁcation fragments were cloned into the pMD18-
+T vector (Takara, Dalian, China), which were sequenced (Sunny,
+Shanghai, China).
+
+Statistical Analyses
+Fisher’s exact
+test was used to compare the prevalence of
+Salmonella and proportions of class 1 integron in Salmonella
+in CB and SH using SPSS 16.0 software (IBM, United States).
+P-values of less than 0.05 were deﬁned as diﬀerence signiﬁcance.
+
+RESULTS
+
+Salmonella Prevalence
+A total of 40 Salmonella strains (40/200, 20%) were isolated from
+the foods, and the prevalence in CB was 21% (21/100) and 19%
+(19/100) in SH. No signiﬁcant diﬀerence was found in Salmonella
+prevalence between CB and SH samples (P > 0.05).
+
+Serotyping and Antimicrobial
+Susceptibility Testing
+Three serotypes were identiﬁed in 40 Salmonella strains. S.
+Enteritidis (CB: 15/21, 71.4%; SH: 10/19, 52.6%) was the
+dominant serotype, followed by S. Typhimurium (CB: 4/21, 19%;
+SH: 6/19, 31.6%) and S. Derby (CB: 2/21, 9.5%; SH: 3/19, 15.8%)
+(Tables 1, 2).
+
+1http://www.ncbi.nlm.nih.gov/BLAST
+
+SH-3
+SH-5
+SH-8
+
+SH-13
+SH-21
+SH-26
+SH-33
+SH-35
+
+SH-48
+SH-50
+SH53
+SH-61
+
+SH-66
+SH-73
+SH-75
+SH-88
+
+SH-90
+SH-93
+SH-96
+
+S. Typhimurium
+S. Enteritidis
+S. Derby
+
+AMP, CIP, NAL, TET
+AMP, CIP, NAL, TET
+AMP, CIP, NAL, TET
+
+bAMC, amoxicillin/clavulanic acid; AMP, ampicillin; CTX, cefotaxime; CIP,
+ciproﬂoxacin; FFC, ﬂorfenicol; GEN, gentamicin; NAL, nalidixic acid; SPT,
+spectinomycin; TET, tetracycline; and SXT, sulfamethoxazole/trimethoprim.
+
+Qingdao, China) contained in a sterile plastic bag to rinse
+for 1 min by gentle shaking. Twenty-ﬁve milliliter of
+the
+rinsate was mixed with 25 mL of 2 × BPW and the mixture
+was incubated overnight at 37◦C. A 100 µL aliquot was
+removed form the BPW enrichment broth and inoculated
+into Rappaport-Vassiliadis soy peptone broth (10 mL) (RVS;
+Hopebiol, Qingdao, China), which was incubated for 24 h at
+42◦C. One loopful of the RVS culture was streaked onto a
+xylose lysine desoxycholate agar plate (XLD; Hopebiol, Qingdao,
+China), which was incubated overnight at 37◦C. The suspected
+Salmonella colony (red colonies with black centers) on the
+XLD plates from each chicken meat sample was identiﬁed by
+biochemical conﬁrmation using biochemical tubes (Hopebiol,
+Qingdao, China), and the results were interpreted according
+to Bergey’s Manual of Systematic Bacteriology (Garrity et al.,
+2004).
+
+According to the Kauﬀmann-White scheme, slide aggluti-
+nation tests were used to serotype Salmonella isolates in this study
+(S&A Reagents Lab, Bangkok, Thailand).
+
+Antimicrobial Susceptibility Testing
+Based on the guidelines of
+the Clinical and Laboratory
+Standards Institute (Clinical and Laboratory Standards Institute
+[CLSI], 2013),
+the disk diﬀusion method was employed
+
+Frontiers in Microbiology | www.frontiersin.org
+
+3
+
+October 2017 | Volume 8 | Article 2106
+
+Li et al.
+
+Salmonella from Raw Chicken Carcasses
+
+Prevalence of Class 1 Integron and
+β-Lactamase Genes
+Among 21 Salmonella isolated from CB, class 1 integron was
+observed in seven isolates (7/21, 33.3%), and gene cassettes
+included an empty integron (0.15 kb, n = 1), aadA2 (1.2 kb,
+n = 3), drfA1-aadA1 (1.4 kb, n = 1), and drfA17-aadA5 (1.7 kb,
+n = 2); blaTEM−1 was the dominant β-lactamase gene (21/21,
+100%), followed by blaCTX−M−55 (7/21, 33.3%) (Table 1). Among
+19 Salmonella isolated from SH, class 1 integron was observed in
+two isolates (2/19, 10.5%), and gene cassettes included drfA17-
+aadA5 (1.7 kb, n = 1) and drfA1-aadA1 (1.4 kb, n = 1); blaTEM−1
+was the dominant β-lactamase gene (19/19, 100%), followed by
+blaCTX−M−55 (2/19, 10.5%) and blaCMY−2 (1/19, 5.3%) (Table 2).
+Of note, the proportion of class 1 integron targets detected in
+Salmonella strains from CB samples was higher than that found
+in SH samples (33.3% vs. 10.5%, P < 0.05).
+
+DISCUSSION
+
+In the present study, 20% of 200 retail chicken carcasses were
+Salmonella positive. The prevalence of Salmonella in poultry meat
+products in other parts of China has been reported by others
+to be approximately 36.1% (Cui H.X. et al., 2009) and 28.3%
+(Li et al., 2013). The prevalence in other regions of the world
+was 15.6% in chicken carcasses in EU (European Food Safety
+Authority [EFSA], 2010) and 45.8% in retail chicken meat in
+Korea (Park et al., 2017). These investigations indicated that
+Salmonella contamination is widely distributed in poultry meats.
+Of note, it is diﬃcult to compare the prevalence of Salmonella
+among diﬀerent studies, because the diﬀerence may be associated
+with geographical diﬀerences, sampling seasons, sample types,
+methodology of isolation and culture, and environments of
+slaughterhouses and marketing areas (Yan et al., 2010; Yang et al.,
+2010).
+
+Salmonella Enteritidis was the most commonly isolated
+serotype in this study, and has been widely isolated in chickens,
+eggs, and chicken meats in China (Yang et al., 2010; Lu et al.,
+2011; Long et al., 2016). In addition, S. Enteritidis is the leading
+cause of Salmonella related food-borne outbreaks in humans
+worldwide (Galanis et al., 2006). Of note, S. Typhimurium is the
+main serotype isolated from humans in China (Deng et al., 2012)
+and S. Derby is the most common serotype isolated from infants
+and toddlers in China (Cui S. et al., 2009), which suggested that
+an association may exist between Salmonella-contaminated food
+and salmonellosis in these age groups.
+
+Similar antibiotic resistance patterns were observed in
+Salmonella isolated from CB and SH. Of 21 Salmonella
+isolated from CB, high antibiotic resistance rates were found
+
+for ampicillin (20/21, 95.2%), nalidixic acid (18/21, 85.7%),
+cefotaxime (17/21, 81%), and tetracycline (13/21, 61.9%); and
+18 out of 21 Salmonella were MDR isolates (85.7%). Among 19
+Salmonella isolated from SH, high antibiotic resistance rates were
+found for nalidixic acid (19/19, 100%), tetracycline (19/19, 100%),
+ampicillin (18/19, 94.7%), and ciproﬂoxacin (13/19, 68.4%); and
+17 of 19 Salmonella were MDR strains (89.5%). No signiﬁcant
+diﬀerence (P > 0.05) in the prevalence of MDR Salmonella
+between CB and SH. Of note, co-resistance to ciproﬂoxacin and
+cefotaxime in these Salmonella strains would limit therapeutic
+options in clinical practice (Whichard et al., 2007).
+
+All class 1 integron-positive isolates in this study exhibited
+resistance to at least two classes of antibiotics, which supports the
+hypothesis that there is a strong association between the presence
+of class I integron and the emerging of MDR in Salmonella
+(Wannaprasat et al., 2011; Firoozeh et al., 2012).
+
+All Salmonella isolates in this study carried blaTEM−1 genes,
+38 of which showed were resistant to ampicillin. Noticeably, one
+blaCMY−2- producing Salmonella isolate was detected, which has
+been observed in chicken meat in 2010-2011 in Sichuan province
+of China (Li et al., 2013). Because blaCMY−2 can encode antibiotic
+resistance to third-generation cephalosporins, which is frequently
+used to treat cases of salmonellosis (Gonzalez-Sanz et al., 2009),
+the dissemination of blaCMY−2- positive Salmonella via poultry
+meat products has pivotal public health implications. Therefore,
+the poultry industry should follow prudent management by
+establishing more eﬀective disinfection guidelines to reduce
+the population of antibiotic-resistant pathogens. Moreover, a
+moderate use of antibiotics may help prevent the occurrence of
+antibiotic resistance in pathogens (Chen and Jiang, 2014).
+
+CONCLUSION
+
+To our best knowledge, this is the ﬁrst study in China comparing
+the prevalence and characteristics of Salmonella isolated from
+chicken meat samples of CB and SH. Regardless of chicken meat
+type, 25% (10/40) of the Salmonella isolates in this study carried
+ESBL-producing genes; 22.5% (9/40) of the Salmonella isolates
+contained class 1 integrons. Therefore, the reasonable use of
+antibiotics in animal husbandry should be taken, and continued
+long-term surveillance of Salmonella in animal-derived foods is
+warranted.
+
+AUTHOR CONTRIBUTIONS
+
+ZM designed the study; SL and YZ collected samples and
+conducted the experiments; ZM, SL, and YZ analyzed data and
+wrote the manuscript.
+
+REFERENCES
+Antunes, P., Mourão, J., Campos, J., and Peixe, L. (2016). Salmonellosis: the role of
+poultry meat. Clin. Microbiol. Infect. 2, 110–121. doi: 10.1016/j.cmi.2015.12.004
+Batchelor, M., Hopkins, K., Threlfall, E. J., Clifton-Hadley, F. A., Stallwood, A. D.,
+Davies, R. H., et al. (2005). bla(CTX−M) genes in clinical Salmonella isolates
+
+recovered from humans in England and Wales from 1992 to 2003. Antimicrob.
+Agents Chemother. 49, 1319–1322. doi: 10.1128/AAC.49.4.1319-1322.2005
+
+Betancor, L., Pereira, M., Martinez, A., Giossa, G., Fookes, M., Flores, K., et al.
+(2010). Prevalence of Salmonella enterica in poultry and eggs in Uruguay during
+an epidemic due to Salmonella enterica serovar Enteritidis. J. Clin. Microbiol. 48,
+2413–2423. doi: 10.1128/JCM.02137-09
+
+Frontiers in Microbiology | www.frontiersin.org
+
+4
+
+October 2017 | Volume 8 | Article 2106
+
+Li et al.
+
+Salmonella from Raw Chicken Carcasses
+
+Bonnet, R. (2004). Growing group of extended-spectrum β-lactamases: the CTX-
+M enzymes. Antimicrob. Agents Chemother. 48, 1–14. doi: 10.1128/AAC.48.1.1-
+14.2004
+
+Chen, Y., Qiao, Y., Xiao, Y., Chen, H., Zhao, L., Huang, M., et al. (2016). Diﬀerences
+in physicochemical and nutritional properties of breast and thigh meat from
+crossbred chickens, commercial broilers, and spent hens. Asian Australas. J.
+Anim. Sci. 29, 855–864. doi: 10.5713/ajas.15.0840
+
+Chen, Z., and Jiang, X. (2014). Microbiological safety of chicken litter or chicken
+litter-based organic fertilizers: a review. Agriculture 4, 1–29. doi: 10.3390/
+agriculture4010001
+
+Choi, D., Chon, J. W., Kim, H. S., Kim, D. H., Lim, J. S., Yim, J. H., et al.
+(2015). Incidence, antimicrobial resistance, and molecular characteristics of
+nontyphoidal Salmonella including extended-spectrum β-lactamase producers
+in retail chicken meat. J. Food Prot. 78, 1932–1937. doi: 10.4315/0362-028X.
+JFP-15-145
+
+Chon, J. W., Jung, H. I., Kuk, M., Kim, Y. J., Seo, K. H., and Kim, S. K. (2015). High
+occurrence of extended-spectrum β-lactamase-producing Salmonella in broiler
+carcasses from poultry slaughterhouses in South Korea. Foodborne Pathog. Dis.
+12, 190–196. doi: 10.1089/fpd.2014.1847
+
+Clinical and Laboratory Standards Institute [CLSI] (2013). Performance Standards
+for Antimicrobial Susceptibility Testing, 23rd Informational Supplement M100-
+S23. Wayne, PA: Clinical and Laboratory Standards Institute.
+
+Crump,
+
+J. A., Sjölund-Karlsson, M., Gordon, M. A., and Parry, C. M.
+(2015). Epidemiology, clinical presentation, laboratory diagnosis, antimicrobial
+resistance, and antimicrobial management of invasive Salmonella infections.
+Clin. Microbiol. Rev. 28, 901–937. doi: 10.1128/CMR.00002-15
+
+Cui, H. X., Zhang, X. L., Liao, X. G., Zhang, D., Hu, D., Zhang, M., et al. (2009).
+Monitoring and analysis for food-borne pathogens in Henan in 2007. Chin. J.
+Health Lab Technol. 19, 173–175.
+
+Cui, S., Li, J., Sun, Z., Hu, C., Jin, S., Li, F., et al. (2009). Characterization
+of Salmonella enterica isolates from infants and toddlers in Wuhan, China.
+J. Antimicrob. Chemother. 63, 87–94. doi: 10.1093/jac/dkn452
+
+Deng, X., Ran, L., Wu, S., Ke, B., He, D., Yang, X., et al. (2012). Laboratory-based
+surveillance of non-typhoidal Salmonella infections in Guangdong Province,
+China. Foodborne Pathog. Dis. 9, 305–312. doi: 10.1089/fpd.2011.1008
+
+European Food Safety Authority [EFSA] (2010). Analysis of the baseline survey
+on the prevalence of Campylobacter in broiler batches and of Campylobacter
+and Salmonella on broiler carcasses in the EU, 2008, part A: Campylobacter and
+Salmonella prevalence estimates. EFSA J. 8, 1503.
+
+Firoozeh, F., Zahraei-Salehi, T., Shahcheraghi, F., Karimi, V., and Aslani, M. M.
+(2012). Characterization of class I integrons among Salmonella enterica serovar
+Enteritidis isolated from humans and poultry. FEMS Immunol. Med. Microbiol.
+64, 237–243. doi: 10.1111/j.1574-695X.2011.00883.x
+
+Franco, A., Leekitcharoenphon, P., Feltrin, F., Alba, P., Cordaro, G., Iurescia, M.,
+et al. (2015). Emergence of a clonal lineage of multidrug-resistant ESBL-
+producing Salmonella Infantis transmitted from broilers and broiler meat to
+humans in Italy between 2011 and 2014. PLOS ONE 10:e0144802. doi: 10.1371/
+journal.pone.0144802
+
+Galanis, E., Lo Fo Wong, D. M., Patrick, M. E., Binsztein, N., Cieslik, A.,
+Chalermchikit, T., et al. (2006). Web-based surveillance and global Salmonella
+distribution, 2000-2002. Emerg. Infect. Dis. 12, 381–388. doi: 10.3201/eid1205.
+050854
+
+Garrity, G. M., Bell, J. A., and Lilburn, T. G. (2004). Bergey’s Manual of Systematic
+
+Bacteriology, 2nd Edn. New York, NY: Springer.
+
+Gonzalez-Sanz, R., Herrera-Leon, S., de la Fuente, M., Arroyo, M., and Echeita,
+M. A. (2009). Emergence of extended-spectrum beta-lactamases and AmpC-
+type beta-lactamases in human Salmonella isolated in Spain from 2001 to 2005.
+J. Antimicrob. Chemother. 64, 1181–1186. doi: 10.1093/jac/dkp361
+
+Guerra, B., Soto, S. M., Arguelles, J. M., and Mendoza, M. C. (2001). Multidrug
+resistance is mediated by large plasmids carrying a class 1 integron in
+the emergent Salmonella enterica serotype [4,5,12:i:-]. Antimicrob. Agents
+Chemother. 45, 1305–1308. doi: 10.1128/AAC.45.4.1305-1308.2001
+
+Hu, Y. J., Wang, Y. R., and Li, F. Q. (2015). Study on simultaneous contamination
+of Salmonella and Campylobacter in retail chicken carcasses in Beijing. J. Hyg.
+Res. 44, 68–72.
+
+Kerrn, M. B., Klemmensen, T., Frimodt-Moller, N., and Espersen, F. (2002).
+Susceptibility of Danish Escherichia coli
+isolated from urinary
+tract infections and bacteraemia, and distribution of sul genes conferring
+
+strains
+
+sulphonamide resistance. J. Antimicrob. Chemother. 50, 513–516. doi: 10.1093/
+jac/dkf164
+
+Kim, H. S., Chon, J. W., Kim, Y. J., Kim, D. H., Kim, M. S., and Seo, K. H. (2015).
+Prevalence and characterization of extended-spectrum-β-lactamase-producing
+Escherichia coli and Klebsiella pneumoniae in ready-to-eat vegetables. Int. J.
+Food Microbiol. 207, 83–86. doi: 10.1016/j.ijfoodmicro.2015.04.049
+
+Kusunoki, K., Jin, M., Iwaya, M., Ishikami, T., Kurimoto, K., Saito, K., et al.
+(2000). Salmonella contamination in domestic raw chickens in Tama, Tokyo,
+and serovar or drug-resistance of isolates (1992-1999). Jpn. J. Food Microbiol.
+17, 207–212. doi: 10.5803/jsfm.17.207
+
+Li, R., Lai, J., Wang, Y., Liu, S., Li, Y., Liu, K., et al. (2013). Prevalence and
+characterization of Salmonella species isolated from pigs, ducks and chickens
+in Sichuan Province, China. Int. J. Food Microbiol. 163, 14–18. doi: 10.1016/j.
+ijfoodmicro.2013.01.020
+
+Long, M., Lai, H., Deng, W., Zhou, K., Li, B., Liu, S., et al. (2016). Disinfectant
+susceptibility of diﬀerent Salmonella serotypes isolated from chicken and egg
+production chains. J. Appl. Microbiol. 121, 672–681. doi: 10.1111/jam.13184
+
+Lu, Y., Wu, C. M., Wu, G. J., Zhao, H. Y., He, T., Cao, X. Y., et al. (2011). Prevalence
+of antimicrobial resistance among Salmonella isolates from chicken in china.
+Foodborne Pathog. Dis. 8, 45–53. doi: 10.1089/fpd.2010.0605
+
+Marshall, B. M., and Levy, S. B. (2011). Food animals and antimicrobials: impacts
+on human health. Clin. Microbiol. Rev. 24, 718–733. doi: 10.1128/CMR.00
+002-11
+
+Mukerji, S., O’Dea, M., Barton, M., Kirkwood, R., Lee, T., and Abraham, S. (2017).
+Development and transmission of antimicrobial resistance among Gram-
+negative bacteria in animals and their public health impact. Essays Biochem. 61,
+23–35. doi: 10.1042/EBC20160055
+
+Noda, T., Murakami, K., Etoh, Y., Okamoto, F., Yatsuyanagi, J., Sera, N.,
+et al. (2015). Increase in resistance to extended-spectrum cephalosporins
+in Salmonella isolated from retail chicken products in Japan. PLOS ONE
+10:e0116927. doi: 10.1371/journal.pone.0116927
+
+Painter, J. A., Hoekstra, R. M., Ayers, T., Tauxe, R. V., Braden, C. R., Angulo, F. J.,
+et al. (2013). Attribution of food-borne illnesses, hospitalizations, and deaths
+to food commodities by using outbreak data, United States, 1998-2008. Emerg.
+Infect. Dis. 19, 407. doi: 10.3201/eid1903.111866
+
+Park, J. H., Kim, H. S., Yim, J. H., Kim, Y. J., Kim, D. H., Chon, J. W., et al.
+(2017). Comparison of the isolation rates and characteristics of Salmonella
+isolated from antibiotic-free and conventional chicken meat samples. Poult. Sci.
+doi: 10.3382/ps/pex055 [Epub ahead of print].
+
+Pegues, D. A., Ohl, M. E., and Miller, S. I. (2006). Nontyphoidal salmonellosis. Trop.
+
+Infect. Dis. 1, 241–254.
+
+Pitout, J. D., and Laupland, K. B. (2008). Extended-spectrum β-lactamase-
+producing Enterobacteriaceae: an emerging public health concern. Lancet
+Infect. Dis. 8, 159–166. doi: 10.1016/S1473-3099(08)70041-0
+
+Rayamajhi, N., Kang, S. G., Lee, D. Y., Kang, M. L., Lee, S. I., Park, K. Y., et al.
+(2008). Characterization of TEM-, SHV- and AmpC-type beta-lactamases from
+cephalosporin-resistant Enterobacteriaceae isolated from swine. Int. J. Food
+Microbiol. 124, 183–187. doi: 10.1016/j.ijfoodmicro.2008.03.009
+
+Ribeiro, V. B., Lincopan, N., Landgraf, M., Franco, B. D., and Destro,
+M. T. (2011). Characterization of class I integrons and antibiotic resistance
+genes in multidrug-resistant Salmonella enterica isolates from foodstuﬀ
+and related sources. Braz. J. Microbiol. 42, 685–692. doi: 10.1590/S1517-
+838220110002000033
+
+Sandvang, D., Aarestrup, F. M., and Jensen, L. B. (1998). Characterization of
+integrons and antibiotic resistance genes in Danish multiresistant Salmonella
+enterica Typhimurium DT104. FEMS Microbiol. Lett. 160, 37–41. doi: 10.1111/
+j.1574-6968.1998.tb12887.x
+
+Wannaprasat, W., Padungtod, P., and Chuanchuen, R. (2011). Class 1 integrons
+and virulence genes in Salmonella enterica isolates from pork and humans. Int.
+J. Antimicrob. Agents 37, 457–461. doi: 10.1016/j.ijantimicag.2010.12.001
+
+Whichard, J. M., Gay, K., Stevenson, J. E., Joyce, K. J., Cooper, K. L., Omondi, M.,
+et al. (2007). Human Salmonella and concurrent decreased susceptibility to
+quinolones and extended-spectrum cephalosporins. Emerg. Infect. Dis. 13,
+1681–1688. doi: 10.3201/eid1311.061438
+
+Wu, H., Xia, X., Cui, Y., Hu, Y., Xi, M., Wang, X., et al. (2013). Prevalence of
+extended-spectrum β-lactamase-producing Salmonella on retail chicken in six
+provinces and two national cities in the People’s Republic of China. J. Food Prot.
+76, 2040–2044. doi: 10.4315/0362-028X.JFP-13-224
+
+Frontiers in Microbiology | www.frontiersin.org
+
+5
+
+October 2017 | Volume 8 | Article 2106
+
+Li et al.
+
+Salmonella from Raw Chicken Carcasses
+
+Yan, H., Li, L., Alam, M. J., Shinoda, S., Miyoshi, S., and Shi, L. (2010). Prevalence
+and antimicrobial resistance of Salmonella in retail foods in northern China.
+Int. J. Food Microbiol. 143, 230–234. doi: 10.1016/j.ijfoodmicro.2010.07.034
+
+Yang, B., Qu, D., Zhang, X., Shen, J., Cui, S., Shi, Y., et al. (2010). Prevalence
+and characterization of Salmonella serovars in retail meats of marketplace in
+Shaanxi, China. Int. J. Food Microbiol. 141, 63–72. doi: 10.1016/j.ijfoodmicro.
+2010.04.015
+
+Zhao, X., Ye, C., Chang, W., and Sun, S. (2017). Serotype distribution,
+antimicrobial resistance, and class 1 integrons proﬁles of Salmonella from
+animals in slaughterhouses in Shandong province, China. Front. Microbiol.
+8:1049. doi: 10.3389/fmicb.2017.01049
+
+Ziech, R. E., Lampugnani, C., Perin, A. P., Sereno, M. J., Sfaciotte, R. A., Viana, C.,
+et al. (2016). Multidrug resistance and ESBL-producing Salmonella spp. isolated
+
+from broiler processing plants. Braz. J. Microbiol. 47, 191–195. doi: 10.1016/j.
+bjm.2015.11.021
+
+Conﬂict of Interest Statement: The authors declare that the research was
+conducted in the absence of any commercial or ﬁnancial relationships that could
+be construed as a potential conﬂict of interest.
+
+Copyright © 2017 Li, Zhou and Miao. This is an open-access article distributed
+under the terms of the Creative Commons Attribution License (CC BY). The use,
+distribution or reproduction in other forums is permitted, provided the original
+author(s) or licensor are credited and that the original publication in this journal
+is cited, in accordance with accepted academic practice. No use, distribution or
+reproduction is permitted which does not comply with these terms.
+
+Frontiers in Microbiology | www.frontiersin.org
+
+6
+
+October 2017 | Volume 8 | Article 2106
+
+

@@ -1,0 +1,989 @@
+Food Control 22 (2011) 702e707
+
+Contents lists available at ScienceDirect
+
+Food Control
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / f o o d c o n t
+
+Prevalence, strain identiﬁcation and antimicrobial resistance of Campylobacter
+spp. isolated from slaughtered pig carcasses in Brazil
+Raquel Szygalski Biasi a, Renata Ernlund Freitas de Macedo a, *, Minéia Alessandra Scaranello Malaquias a,
+Paulo Rogério Franchin b
+a Laboratory of Agri-Food Technology, Pontiﬁcal Catholic University of Parana, BR 376 Km 14, São José dos Pinhais, 83010-500 Paraná, Brazil
+b Laboratory of Microbiology, Brazil Foods S.A., Santa Catarina, Brazil
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 21 May 2010
+Received in revised form
+4 October 2010
+Accepted 12 October 2010
+
+Keywords:
+Pig carcass
+Pork
+Campylobacter
+Antimicrobial resistance
+
+The aim of this study was to investigate the rate of contamination, species identiﬁcation and antimi-
+crobial resistance of thermophilic Campylobacter spp. in pig carcasses during the slaughter process in
+a slaughterhouse in Brazil. Two hundred and ﬁfty-nine samples were collected at 7 different stages of the
+slaughter process for Campylobacter determination by both qualitative and quantitative methods. Typical
+colonies were subjected to API Campy, real-time polymerase chain reaction (PCR) and antimicrobial
+resistance testing. Campylobacter was found in 18.9% of the carcasses and 3.5% of the samples. Dehairing
+was the slaughter stage with the highest Campylobacter contamination (55.6%). All Campylobacter strains
+were conﬁrmed by real-time PCR and showed multi-drug resistance to cephalothin, nalidixic acid,
+norﬂoxacin, tetracycline and trimethoprim. None of the strains were resistant to amoxicillin/clavulanic
+acid, ampicillin and chloramphenicol. Despite the low occurrence of Campylobacter spp. in pig samples,
+the antimicrobial resistance of Campylobacter strains represents a considerable risk for the consumption
+of pork meat and conﬁrms the need for continuous monitoring of Campylobacter in the pig production
+chain.
+
+Ó 2010 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+
+In the food industry, Campylobacter spp., Listeria monocytogenes,
+Escherichia coli and Salmonella spp. represent the major potential
+causes of food-borne diseases in humans (Franchin, Aidoo, &
+Batista, 2005; Ghaﬁr, China, Dierick, De Zutter, & Daube, 2007).
+Although Salmonella has been associated with most cases of food-
+borne gastroenteritis in past several years, in the last decade,
+Campylobacter has appeared as the leading cause of acute enteritis
+in humans in industrialized countries (Bardon, Kolar, Cekanova,
+Hejnar, & Koukalova, 2009; Ghaﬁr et al., 2007; Guévremont,
+Nadeau, Sirois, & Quessy, 2006; Humphrey, O’Brien, & Madsen,
+2007; Pezzotti et al., 2003; Suzuki & Yamamoto, 2009).
+
+Although campylobacteriosis is not associated with high
+mortality rates and is generally self-limited, it has a signiﬁcant
+impact on the economy and public health in industrialized coun-
+tries (Josefsen, Lübeck, Hansen, & Hoorfar, 2004).
+
+* Corresponding author. Tel.: þ 55 041 3299 4334; fax: þ 55 041 3299 4423.
+
+E-mail addresses: quel_biasi@yahoo.com.br (R.S. Biasi), renata.macedo@pucpr.br
+(R.E. Freitas de Macedo), mineia.marini@hotmail.com (M.A. Scaranello Malaquias),
+paulo.franchin@perdigao.com.br (P.R. Franchin).
+
+0956-7135/$ e see front matter Ó 2010 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.foodcont.2010.10.005
+
+The occurrence of Campylobacter spp. in food appears to be fairly
+common in European countries (Ghaﬁr, China, Dierick, Zutter, &
+Daube, 2008), and it is responsible for many cases of Guillain-
+Barré syndrome (GBS) (Blaser, Allos, & Lang, 1997; Caporale et al.,
+2006; Sinha, Prasad, Pradhan, Jain, & Jha, 2004; Tam, Rodrigues, &
+O’brien, 2003). In the United Kingdom, the annual estimated cost
+for the treatment of diseases caused by Campylobacter spp. was V
+740 million in 2007 (Humphrey et al., 2007).
+
+More recently, concern regarding the prevalence of campylo-
+bacteriosis has increased because of the frequent isolation of anti-
+microbial-resistant strains from humans and animals. Antimicrobial
+resistance develops from the massive use of antimicrobials in
+animals for preventive or therapeutic purposes as well as for
+increasing the growth rate in modern intensive animal production
+systems (Mayrhofer, Paulsen, Smulders, & Hilbert, 2004; Pezzotti
+et al., 2003; Rönner, Engvall, Andersson, & Kaijser, 2004).
+
+Antimicrobial resistance of Campylobacter spp. strains isolated
+from animal products has been reported in different countries such
+as Italy (Pezzotti et al., 2003), Denmark (Alban, Nielsen, & Dahl,
+2008), Korea (Shin & Lee, 2007), Sweden (Rönner et al., 2004),
+the United States (Olah, Doetkottb, Fakhra, & Loguea, 2006), the
+United Kingdom (Little, Richardson, Owen, Pinna, & Threlfall,
+2008), Austria (Mayrhofer et al., 2004), Australia (Miﬂin,
+
+R.S. Biasi et al. / Food Control 22 (2011) 702e707
+
+703
+
+Templeton, & Blackall, 2007), Czech Republic (Bardon et al., 2009)
+and Canada (Guévremont et al., 2006; Inglis et al., 2005).
+
+Although Campylobacter contamination in food of animal origin
+has been reported in several studies, most research has focused on
+poultry and poultry products (Mackiw, Popowski, & Szponar, 2008;
+Meremäe et al., 2010; Sallam, 2007) However, pigs are also
+considered potential reservoirs of Campylobacter spp. (Alban et al.,
+2008).
+
+The contamination of pork meat may occur at the slaughter-
+house itself by cross-contamination during slaughter procedures.
+Some recent studies have reported Campylobacter contamination in
+pork in European countries (Ghaﬁr et al., 2008; Little et al., 2008).
+However, from an extensive review of the international scientiﬁc
+literature, no reports were found on the occurrence and antimi-
+crobial resistance of Campylobacter in pig carcasses in Brazil.
+Because pork is one of the most widely consumed meats in the
+world, monitoring and obtaining information on Campylobacter
+contamination in different countries is highly relevant both for
+public health and to the international pork trade.
+
+The aim of the present work was to investigate the prevalence
+of thermophilic Campylobacter spp. in pig carcasses during the
+slaughter process in Brazil and to identify the strains of Campylo-
+bacter spp. both phenotypically and genotypically. The resistance of
+the isolates to several antimicrobials was also investigated.
+
+2. Materials and methods
+
+2.1. Sample collection
+
+Two hundred and ﬁfty-nine samples were collected from 37 pig
+carcasses randomly selected along the slaughter line at a big pork
+processing plant in the city of Videira, Santa Catarina State, Brazil.
+Samples were taken from the same carcass at 7 different steps of
+the slaughter process: sticking/bleeding, dehairing, ﬂaming, evis-
+ceration, washing, cooling and ham cutting.
+
+At each slaughter step, an area of 100 cm2 from 4 different sites
+of the carcass (medial neck, arm, loin and ham) was swabbed by
+thoroughly rubbing the surface of the site with sterile swabs in
+a total sample area of 400 cm2 per carcass. Immediately after
+collection, swabs from 4 different carcass sites, composing one
+sample, were pooled together in plastic bags containing 400 mL of
+0.1% sterile peptone water, for the determination of Campylobacter
+spp. Campylobacter determination was performed less than 30 min
+after sample collection.
+
+Sampling methodology was performed according to the Euro-
+pean Union recommendations for pig carcass sampling for micro-
+biological analysis (European Union, 2001).
+
+2.2. Detection and enumeration of Campylobacter spp.
+
+Because it is known that the Campylobacter genus is sensitive to
+laboratory growing conditions, both qualitative and quantitative
+methods were used to determine the presence of Campylobacter
+spp. in samples. In this manner, the use of both techniques, i.e. pre-
+enrichment and direct isolation on agar, minimized recovery limi-
+tations inherent of each technique and allowed the recovery of
+injured cells and inhibited competing microorganisms, thereby
+providing reliable results.
+
+For the detection of thermophilic Campylobacter spp. (qualita-
+tive method), 2 mL of the sample diluted in 400 mL of 0.1% sterile
+peptone water was transferred to 18 mL of Bolton broth (CM 983;
+Oxoid, Basingstoke, Hampshire, England) with selective supple-
+ment (SR 208E; Oxoid) and incubated at 36  0.5 C for 4 h, fol-
+lowed by further incubation at 42  0.5 C for 44 h under
+microaerophilic conditions (5% O2, 10% CO2 and 85% N) (Franchin
+
+et al., 2005). A loop full of enrichment (Bolton broth) was
+streaked onto modiﬁed Bolton agar and incubated at 42  0.5 C in
+a microaerophilic atmosphere for 20e44 h. The modiﬁed Bolton
+agar was prepared as follows: dehydrated Bolton broth (CM 983;
+Oxoid) was suspended in water, added 1.5% agareagar (HiMedia
+Laboratories, Mumbai, India) and 0.5 g/L ferrous sulphate (Carlo
+Erba Reagenti, Milan, Italy). After adjusting to pH 7.5 and sterili-
+zation by autoclaving at 121 C for 15 min, the medium was cooled
+to 50 C and added aseptically 200 ppm of 2,3,5-triphenylte-
+trazolium chloride solution (TTC) (Sigma, St. Louis, Missouri, USA)
+sterilized by membrane ﬁltration and selective supplement
+(SR 183E; Oxoid) (Franchin et al., 2005; Line, 2001).
+
+For the enumeration of thermophilic Campylobacter (quantita-
+tive method), 0.4 mL of the sample diluted in 400 mL of 0.1% sterile
+peptone water was streaked onto modiﬁed Bolton agar and incu-
+bated at 42  0.5 C for 24e48 h in a microaerophilic atmosphere.
+The results were expressed as colony forming units (CFU) per cm2.
+Using the rule of three calculation, one colony grown on the
+modiﬁed Bolton agar was equivalent to 2.5 CFU/cm2, because the
+agar was inoculated with 0.4 mL of the sample.
+
+Oxidase-positive, red-coloured colonies that showed curved or
+spiral gram-negative rods on microscopy were presumptively
+identiﬁed as Campylobacter spp.
+
+2.3. Biochemical and enzymatic methods for identiﬁcation
+
+The biochemical and enzymatic system API Campy (bio-
+MérieuxÒ, Marcy I’Etoile, France) was used for the identiﬁcation of
+the manufacturer’s
+Campylobacter
+recommendations.
+
+following
+
+spp.
+
+strains
+
+2.4. Real-time PCR identiﬁcation
+
+For genotype conﬁrmation, the DNA of the isolates identiﬁed by
+the biochemical enzymatic kit was extracted using the NewGen
+Prep and NewGen Preamp (Simbios Biotecnologia, Canoas, Rio
+Grande do Sul, Brazil), according to the manufacturer’s protocol.
+
+For the polymerase chain reaction, 2 mL of DNA extracted from
+the strains were added into a microtube and 28 mL of Campylo-
+bacter Master Mix Kit (Simbios Biotecnologia, Canoas, Rio Grande
+do Sul, Brazil) with Taq polymerase (Promega, Madison, Wisconsin,
+USA).
+
+Real-time PCR was performed on the Step One Plus thermal
+cycler (Applied Biosystems) with the following ampliﬁcation pro-
+gramme: an initial activation step of the enzyme at 95 C for 3 min,
+followed by 40 cycles of 95 C for 15 s, and 1 min of annealing and
+elongation at 60 C.
+
+As the positive control, a standard strain of Campylobacter jejuni
+subsp. Jejuni ATCC 33291 (Remel, Lenexa, Kansas, USA) was sub-
+jected to API Campy test and genetic identiﬁcation by real-time
+PCR. For genetic identiﬁcation, a blank test containing only the
+Master Mix Kit and Taq polymerase was adopted as a negative
+control.
+
+2.5. Antibiotic susceptibility testing
+
+Isolated cultures were analysed for antimicrobial resistance
+using the disc diffusion assay on Müller-Hinton agar plates (CM
+0337B; Oxoid, Basingstoke, Hampshire, England) containing 5%
+(v/v) sheep blood (SUM 04; Newprov, Pinhais, Paraná, Brazil)
+incubated under microaerophilic conditions. The suspension was
+adjusted to match the 0.5 McFarland (Probac, Brazil) turbidity
+standard as recommended by the Clinical and Laboratory Standards
+Institute (CLSI, 2005).
+
+704
+
+R.S. Biasi et al. / Food Control 22 (2011) 702e707
+
+Antimicrobial susceptibility was performed using standard discs
+(Laborclin, Pinhais, Paraná, Brazil) containing ampicillin (10 mg),
+amoxicillin/clavulanic acid (10 mg), chloramphenicol (30 mg), cipro-
+ﬂoxacin (5 mg), nalidixic acid (30 mg), gentamicin (10 mg), clinda-
+mycin (2 mg), norﬂoxacin (10 mg), cephalothin (30 mg), streptomycin
+(10 mg), tetracycline (30 mg) and trimethoprim (5 mg). The antibiotics
+used in this study were chosen because they are frequently used in
+the treatment of human infections (Rönner et al., 2004; Shin &
+Lee, 2007).
+
+The inhibition zone diameter obtained for ampicillin, chloram-
+phenicol, ciproﬂoxacin, nalidixic acid, gentamicin, clindamycin,
+norﬂoxacin, cephalotin and tetracycline were determined accord-
+ing to the criteria proposed for the genus Campylobacter by
+Huymans and Turnidge (1997). For amoxicillin/clavulanic acid,
+streptomycin and trimethoprim, the inhibition zone diameter was
+interpreted according to the breakpoints of the Clinical and Labo-
+ratory Standards Institute for sEnterobacteriaceae (CLSI, 2005; Han,
+Jang, Choo, Heu, & Ryu, 2007; Luangtongkum, Morishita, Al-Tayeb,
+Ison, & Zhang, 2007).
+
+3. Results
+
+The rates of isolation of Campylobacter spp. from the different
+
+pig slaughtering steps are shown in Table 1.
+
+From a total of 259 samples, Campylobacter spp. was isolated in
+only 9 (3.5%), indicating a low prevalence. With regard to carcass
+contamination, of 37 carcasses, 7 (18.9%) were positive for
+Campylobacter spp. From those positive carcasses, 5 (13.5%) showed
+Campylobacter spp. contamination in only one collection step,
+while the other 2 carcasses (5.4%) were contaminated in more than
+one collection step (Table 1).
+
+Of 9 isolates of Campylobacter from the samples, 5 (55.6%) were
+found after dehairing, 2 (22.2%) after sticking/bleeding, 1 (11.1%)
+after ﬂaming and 1 (11.1%) after the cooling process. Seven isolates
+were detected by the qualitative method and 2, by the quantitative
+method. Of the Campylobacter spp. isolated using the quantitative
+method, one was found in the dehairing step, showing a viable
+count of 2.5 CFU/cm2 and the other onedisolated from the cooling
+processdshowed a count of 150 CFU/cm2. All the other samples
+submitted to quantitative determination showed the number of
+viable cells to be lower than 2.5 CFU/cm2.
+
+In accordance with the biochemical and enzymatic identiﬁca-
+tion of the isolates by API Campy, of the 9 cultures, 8 (88.9%) were
+identiﬁed as belonging to the genus Campylobacter and 1 (11.1%) as
+belonging to the genus Arcobacter (Table 2).
+
+The strains were subjected to real-time PCR to conﬁrm the
+identiﬁcation of Campylobacter by API Campy. All the 9 cultures
+exhibited high correlativity with the chromosomal DNA of the
+genus Campylobacter, including the strain identiﬁed as Arcobacter
+according to the API Campy kit.
+
+With regard to the sensitivity to antibiotics, all strains were
+the antimicrobial agents
+
+least 5 (41.7%) of
+
+resistant
+
+to at
+
+Table 1
+Prevalence of Campylobacter sp. in a total of 259 samples collected from different
+steps of pig slaughtering process.
+
+Collection step
+Sticking/bleeding
+Dehairing
+Flaming
+Evisceration
+Washing
+Cooling
+Ham cutting
+Total
+
+Number of isolates
+2
+5
+1
+0
+0
+1
+0
+9
+
+Frequency (%)
+0.8%
+1.9%
+0.4%
+0%
+0%
+0.4%
+0%
+3.5%
+
+Table 2
+Results for Campylobacter identiﬁcation by API Campy in samples collected from pig
+carcasses.
+
+Sample
+identiﬁcation
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+Collection
+stepa
+D
+D
+S/B
+D
+D
+D
+F
+C
+S/B
+
+Campylobacter specie
+
+Probability (%)b
+
+Campylobacter jejuni Doylei
+Campylobacter jejuni Jejuni
+Campylobacter coli
+Arcobacter cryaerophilus
+C. coli
+Campylobacter jejuni Jejuni
+C. coli
+Campylobacter jejuni Doylei
+Campylobacter jejuni Jejuni
+
+98.2%
+96.4%
+99.9%
+99.0%
+99.2%
+98.6%
+99.6%
+97.9%
+97.5%
+
+a D, dehairing, S/B, sticking/bleeding, F, ﬂaming, C, cooling.
+b Probability given by the API Campy system.
+
+testeddcephalothin, nalidixic acid, norﬂoxacin, tetracycline and
+trimethoprim. The antimicrobial resistance results are presented in
+Table 3.
+
+4. Discussion
+
+The results showed that the occurrence of Campylobacter spp. in
+pig samples collected at the slaughterhouse was low, especially
+when compared with samples collected from poultry, turkey and
+sheep, but showed similar results as samples originating from
+cattle (Inglis et al., 2005; Mayhofer et al., 2004). Studies have noted
+Campylobacter spp. contamination at levels ranging from 28% to
+72% in chicken carcasses and at 0e3.3% in bovine carcasses (Ghaﬁr
+et al., 2007; Ono & Yamamoto, 1999).
+
+The prevalence of Campylobacter spp. in samples evaluated in
+this study was 3.5%, similar to the frequency of 0e5% found in
+studies in Japan, Austria and United Kingdom for swab samples
+(Ono & Yamamoto, 1999, Mayrhofer et al., 2004, Little et al., 2008).
+The prevalence in pig carcasses was 18.9%, which was also similar to
+that reported by Ghaﬁr et al. (2008), i.e. 17%, from 1997 to 1999 in
+Belgium.
+
+Pig slaughter is an open process with many opportunities for the
+contamination of the carcass with pathogenic bacteria; it does not
+contain any step that could be considered completely free of
+hazard. Thus, contamination needs to be controlled by safety
+procedures (Borch, Nesbakken, & Christensen, 1996). Furthermore,
+Campylobacter spp. are known to be more frequently found in pig
+carcasses than in cattle or sheep carcasses (Franco, 1998).
+
+In this study, 55.5% of Campylobacter spp. were found after
+dehairing, 22.2% after sticking/bleeding, 11.1% after ﬂaming and
+11.1% after the carcass cooling process.
+
+The contamination observed after sticking/bleeding is probably
+due to cross-contamination by microorganisms from the intestinal
+
+Table 3
+Percentages of antimicrobial-resistant Campylobacter strains isolated from pig
+carcasses.
+
+Antibiotic
+
+Ampicillin
+Amoxicillin/clavulanic acid
+Chloramphenicol
+Streptomycin
+Gentamicin
+Ciproﬂoxacin
+Clindamycin
+Cephalothin
+Nalidixic acid
+Norﬂoxacin
+Tetracycline
+Trimethoprim
+
+Resistance
+(%)
+0
+0
+0
+33.3
+44.5
+77.8
+77.8
+100
+100
+100
+100
+100
+
+Resistant Campylobacter species
+
+C. jejuni Jejuni, C. coli
+C. jejuni Jejuni, C. coli
+C. jejuni Jejuni, C. jejuni Doylei, C. coli
+C. jejuni Jejuni, C. coli
+C. jejuni Jejuni, C. jejuni Doylei, C. coli
+C. jejuni Jejuni, C. jejuni Doylei, C. coli
+C. jejuni Jejuni, C. jejuni Doylei, C. coli
+C. jejuni Jejuni, C. jejuni Doylei, C. coli
+C. jejuni Jejuni, C. jejuni Doylei, C. coli
+
+R.S. Biasi et al. / Food Control 22 (2011) 702e707
+
+705
+
+ﬂora of the pigs, since different degrees of contamination by
+Campylobacter spp. have been recorded in the faeces of these
+animals by previous researchers (Adesiyun & Krishnan, 1995;
+Modolo, Margato, Gottschalk, Lopes, & De, 1999, Ono &
+Yamamoto, 1999).
+
+Among the slaughtering steps sampled, dehairing of carcasses
+showed the highest contamination (55.6%). This could occur as
+a result of low water renewal or bad temperature control of the
+scalding tank. Another important factor for the occurrence of
+Campylobacter spp. in carcasses in the dehairing step was related to
+the type of the material used on the ﬁngers of the dehairing
+machine. As these ﬁngers were made of rubber and attached to the
+machine, they could not be easily removed for cleaning and
+disinfection, which could lead to the accumulation of residual
+material and bacterial growth.
+
+Low Campylobacter spp. counts in pig carcass in different
+slaughter steps found in the current study was also found by Gill
+and Bryant (1993) which recorded Campylobacter counts ranging
+from 30 to 70 CFU/cm2 in samples collected after carcass dehairing
+and from 1 to 6 CFU/cm2 in samples obtained after the scorching
+and toilette of the carcasses. In their study, Ghaﬁr et al. (2008)
+ranging from <1 CFU/cm2
+observed Campylobacter counts
+to > 249 CFU/cm2 in samples obtained from pig carcasses collected
+immediately after slaughter.
+
+Although the thermophilic species of Campylobacter are recog-
+nized as emergent human pathogens, the epidemiological studies
+for these microorganisms are recent, and there are yet no legal
+standards established for the presence of Campylobacter spp. in
+food in Brazil and other countries. However, since the presence of
+this pathogen has a great impact on public health and on meat
+trading,
+the microbiological standards for
+Campylobacter spp. in meat will be deﬁned similar to those for
+pathogens such as Salmonella spp. and Listeria monocytogenes,
+which require the absence of pathogens in 25-g samples.
+
+is likely that
+
+it
+
+In the present work, 33.3% of the isolates were biochemically
+and enzymatically identiﬁed as Campylobacter coli, 33.3% as
+Campylobacter jejuni subsp. Jejuni, 22,2% as Campylobacter jejuni
+subsp. Doylei and 11,1% as Arcobacter cryaerophilus, 11.1%. However,
+PCR conﬁrmed all the isolates to be Campylobacter strains, since all
+samples showed high compatibility with the primer used and rapid
+replication of their DNA in real-time PCR identiﬁcation.
+
+The real efﬁciency of enzymatic and biochemical tests for the
+identiﬁcation of microorganisms is being challenged due to
+observations of failure when these tests are compared with genetic
+tests. Moran, Scates, and Madden (2009) reported the misidentiﬁ-
+cation of 41 strains phenotyped as C. coli, but genotyped as Arco-
+bacter butzleri. The same researchers found that a temperature of
+25 C under microaerophylic conditions proved to be a suitable
+cultivation technique for the conﬁrmation of Campylobacter spp.,
+since Campylobacter spp. do not grow well at this temperature,
+whereas Arcobacter spp. do grow.
+
+Moreover, one of the factors related to the erroneous identiﬁca-
+tion by the API Campy system is the difﬁculty in reading the results
+presented by this test. On (1996) stated that although the API Campy
+system comprises multiple tests for strain identiﬁcation, it does not
+include all the clinically relevant species of Campylobacteriaceae.
+
+Huymans and Turnidge (1997) found 100% correlations between
+the results of API Campy and the conventional phenotypic and
+biochemical method for Campylobacter spp.
+identiﬁcation for
+C. jejuni. However, only 66.6% of Campylobacter lari and 74% of C. coli
+were correctly identiﬁed by both systems. The same authors
+observed misidentiﬁcation of C. coli and C.
+lari as Arcobacter
+cryaerophilus by API Campy.
+
+Regardless of the strain misidentiﬁcation described for API
+Campy in a few studies, Kuana, Dos Santos, Rodrigues, and Do
+
+Nascimento (2009); Reina, Ros, and Serra (1995) and still consider
+this identiﬁcation system as the best option for Campylobacter
+species when more efﬁcient systems are not available.
+
+Although Campylobacter coli is considered a commensal species
+of the intestinal tract of pigs (Quinn, Markey, Carter, Donnelly, &
+Leonard, 2002), Campylobacter jejuni represented 55.5% of the
+Campylobacter species identiﬁed in pig carcasses in this study.
+Workman, Mathison, and Lavoie (2008) consider pig products an
+important source of C. coli as all isolates from pigs tested in their
+work were identiﬁed as belonging to this species. Identical results
+were obtained by Shin and Lee (2007). However, several studies
+have reported a higher prevalence of Campylobacter jejuni than C.
+coli in farm animals (Açik & Çetinkaya, 2006; Bae et al., 2005;
+Zweifel, Zychowska, & Stephan, 2004;).
+
+The introduction of antimicrobial agents in human and animal
+therapy has had a great impact on population growth and food
+production. The ﬁrst agents were introduced during the 1930s, and
+resistance to these drugs gradually emerged with their worldwide
+use. However, in the last decade, the isolation of antimicrobial-
+resistant microorganisms from farm animals has increased greatly
+(EFSA, 2008).
+
+Because Campylobacter spp. is classiﬁed as an emerging human
+pathogen, studies regarding the prevention and control of this
+pathogen in the poultry and pig production chains are recent.
+Therefore, the criteria for susceptibility to antibiotics and other
+parameters for the control of Campylobacter spp. have not been
+internationally standardised.
+
+Studies related to the sensitivity to antibiotics of Campylobacter
+spp. in different countries show different degrees of resistance to
+the same drug (Alban et al., 2008; Armi, Senok, Ismaeel, Al-
+Mahmeed, & Botta, 2007; Gebreyes, Thakur, & Morrow, 2005;
+Guévremont et al., 2006, Han et al., 2007; Little et al., 2008,
+Moran et al., 2009).
+
+In this study, all Campylobacter spp. isolates showed resistance
+indicating multi-drug
+
+to at least 5 of the antibiotics tested,
+resistance.
+
+Multi-drug resistant strains obtained from pork samples have
+been reported by Gebreyes et al. (2005) and (Guévremont et al.,
+2006). Resistance of Campylobacter spp.
+isolated from other
+animal species has also been reported. Little et al. (2008) observed
+antibiotic resistance of Campylobacter spp. obtained from cattle and
+pigs; (Laungtongkum et al., 2007) veriﬁed resistance in strains from
+poultry; Inglis et al. (2005), from cattle; and Mayrhofer et al. (2004),
+from cattle, poultry and pigs.
+
+In the present work, all isolates were sensitive to chloram-
+phenicol, amoxicillin/clavulanic acid, and ampicillin. Sensitivity to
+chloramphenicol by all Campylobacter isolates was also observed by
+Sáenz et al. (2000) and Guévremont et al. (2006) in pigs, whereas
+Bardon et al. (2009) and Miﬂin et al. (2007) found similar resistance
+patterns for Campylobacter spp. obtained from humans and
+chickens, respectively.
+
+High resistance to ampicillin for Campylobacter spp. was recor-
+ded by Little et al. (2008) (57.3%) and Sáenz et al. (2000) (65.7%) in
+samples from pigs and by Han et al. (2007) (43.1%) and Miﬂin et al.
+(2007) (40.8%) in samples from chicken. Contrasting results were
+obtained in this study, where none of the strains showed resistance
+to ampicillin.
+
+On the other hand, resistance to gentamicin (44.5%) was high
+compared to the results obtained by other researchers such as
+Gebreyes et al. (2005), Guévremont et al. (2006), Little et al. (2008),
+Pezzotti et al. (2003), Sáenz et al. (2000), Shin and Lee (2007) and
+who recorded levels of resistance ranging from 0% to 22.2%.
+
+All the isolates were resistant to cephalothin, nalidixic acid,
+norﬂoxacin, tetracycline and trimethoprim. Sáenz et al. (2000) also
+observed 100% resistance to cephalothin and nalidixic acid for
+
+706
+
+R.S. Biasi et al. / Food Control 22 (2011) 702e707
+
+Campylobacter spp. isolated in Spain and 94.4% tetracycline resis-
+tance. Kang et al. (2006) found high resistance to nalidixic acid
+(91%) for Campylobacter spp. from chicken products.
+
+Bardon et al. (2009) observed greater resistance of C. jejuni
+isolated from poultry than that from human faeces from intestinal
+disease patients. The only exception was for tetracycline, for which
+higher resistance was noted in human strains. The same authors
+also found the greatest resistance of Campylobacter strains to qui-
+nolones among various antibiotics. Among Campylobacter strains
+isolated from chicken and human samples, 72% and 55% were
+resistant to ciproﬂoxacin, respectively. These results were similar to
+those obtained in the current study, in which 77.8% of the isolates
+were resistant to ciproﬂoxacin.
+
+On the other hand, Miﬂin et al. (2007) found sensitivity to
+ciproﬂoxacin for all the 152 strains of Campylobacter spp. isolated
+from chicken in Australia, whereas Inglis et al. (2005) conﬁrmed
+ciproﬂoxacin resistance in only 0.3% of isolates from cattle in
+Canada.
+
+Because of the high use of ciproﬂoxacin in human antimicrobial
+therapy, the assessment of Campylobacter spp. resistance to this
+antibiotic is particularly relevant to pathogen monitoring programs
+(EFSA, 2008).
+
+In 2006, data reported by the European Food Safety Authority
+(EFSA) demonstrated a resistance rate of 57% to ciproﬂoxacin for
+Campylobacter spp. in Italy and 53% in Germany. The lowest rate of
+resistance to quinolones for Campylobacter spp.
+isolated from
+chicken in European Union has been observed in the Scandinavian
+countries. In Denmark, the resistance to quinolones was 7%, and in
+Sweden, no resistance to quinolones was found in C. jejuni isolated
+from broilers. These low antimicrobial resistance rates observed in
+the Nordic countries were mainly due to the implementation of
+national monitoring for pathogens in food of animal origin and the
+banning of growth promoters in farm animal production (EFSA,
+2008).
+
+Of the 12 antibiotics tested in this study, 7 were not currently
+used for growth promotion or prophylactic therapy in pig
+production, whereas 5 were used for any of the mentioned
+purposes. Among the 3 antibiotics for which 100% of the strains
+showed sensitivity (amoxicillin/clavulanic acid, ampicillin and
+chloramphenicol), 2 were not used in pig production; among the
+remaining 9 antibiotics for which the strains showed some level of
+resistance (cephalothin, ciproﬂoxacin, clindamycin, streptomycin,
+gentamicin, nalidixic acid, norﬂoxacin, tetracycline and trimetho-
+prim), 5 were not used in the pig production process. These results
+did not allow the ﬁrm establishment of a relationship between the
+recurrent use of antibiotics in pig production and antimicrobial
+resistance. However, Campylobacter antimicrobial resistance can be
+related to some speciﬁc genes, and the dissemination of these
+genes of microorganisms from one animal species to another and to
+humans is possible. Antimicrobial resistance observed in the
+present work could therefore probably be related to the antibiotics
+used in broiler production, since in Brazil, animal production
+farmers generally raise both broilers and pigs in the same land area
+(Aarestrup & Wegener, 1999; Guévremont et al., 2006).
+
+Despite the low number of viable cells and the low frequency of
+Campylobacter spp. in pig samples, the risk of contamination by
+Campylobacter spp. in pork meat should not be disregarded as it has
+been classiﬁed as an emerging human pathogen. Given the rele-
+vance of the genus Campylobacter in human gastroenteritis, its
+occurrence in farm animals and the fact that all Campylobacter
+strains showed multi-drug resistance, a continuous monitoring of
+the prevalence and the antimicrobial resistance of Campylobacter
+spp. in pig production and in the pork meat product chain is
+essential to the implementation of effective policies for controlling
+and preventing contamination and infection by this pathogen.
+
+Acknowledgements
+
+The authors thank Coordenação de Aperfeiçoamento de Pessoal
+de Nível Superior (CAPES), Ministério da Educação, Brazil, for
+providing a scholarship to Raquel Szygalski Biasi and the staff of the
+Laboratory of Microbiology of the pig slaughterhouse for their
+collaboration in collecting samples and microbiological analysis.
+
+References
+
+Aarestrup, F. M., & Wegener, H. C. (1999). The effects of antibiotic usage in food
+animals on the development of antimicrobial resistance of importance for
+humans in Campylobacter and Escherichia coli. Microbes and Infection, 1,
+639e644.
+
+Adesiyun, A. A., & Krishnan, C. (1995). Occurrence of Yersinia enterocoﬁtica 0:3,
+Listeria monocytogenes 0:4 and thermophilic Campylobacter spp. in slaughter
+pigs and carcasses in Trinidad. Food Microbiology, 12, 99e107.
+
+Alban, L., Nielsen, E. O., & Dahl, J. (2008). A human health risk assessment for
+macrolide-resistant Campylobacter associated with the use of macrolides in
+danish pig production. Preventive Veterinary Medicine, 83, 115e129.
+
+Armi, A. A. A., Senok, A. C., Ismaeel, A. Y., Al-Mahmeed, A. E., & Botta, G. A. (2007).
+Multiplex PCR for direct identiﬁcation of Campylobacter spp. in human and
+chicken stools. Journal of Medical Microbiology, 56, 1350e1355.
+
+Açik, M. N., & Çetinkaya, B. (2006). Heterogeneity of Campylobacter jejuni and
+Campylobacter coli strains from healthy sheep. International Journal of Food
+Microbiology, 115, 370e375.
+
+Bae, W., Kaya, K. N., Hancock, D. D., Call, D. R., Park, Y. H., & Besser, T. E. (2005).
+Prevalence and antimicrobial resistance of thermophilic Campylobacter spp.
+from cattle farms in Washington State. Applied and Environmental Microbiology,
+71, 169e174.
+
+Bardon, J., Kolar, M., Cekanova, L., Hejnar, P., & Koukalova, D. (2009). Prevalence of
+Campylobacter jejuni and its resistance to antibiotics in poultry in the Czech
+Republic. Zoonoses Public Health, 56, 111e116.
+
+Blaser, M. J., Allos, B. M., & Lang, D. (1997). Development of Guillain-Barré syndrome
+
+following Campylobacter infection. The Journal of Infectious Diseases, 176, 91.
+
+Borch, E., Nesbakken, T., & Christensen, H. (1996). Hazard identiﬁcation in swine
+slaughter with respect to foodborne bacteria. International Journal of Food
+Microbiology, 30, 9e25.
+
+Caporale, C. M., Papola, F., Fioroni, M. A., Aureli, A., Giovannini, A., Notturno, F., et al.
+(2006). Susceptibility to GuillaineBarré Syndrome is associated to poly-
+morphisms of Cd1 genes. Journal of Neuroimmunology, 177, 112e118.
+
+Clinical and Laboratory Standards Institute (CLSI/NCCLS). (2005). Performance Stan-
+dards for Antimicrobial Susceptibility Testing; 15th Informational Supplement.
+CLSI/NCCLS document M100-S15. Clinical and Laboratory Standards Institute,
+940 West Valley Road, Suite 1400, Wayne, Pennsylvania 19087-1898 USA.
+
+EFSA, European Food Safety Authority & Working group on developing harmonised
+schemes for monitoring antimicrobial resistance in zoonotic agents.. (2008).
+Harmonised monitoring of antimicrobial
+resistance in Salmonella and
+Campylobacter isolates from food animals in the European Union. Clinical
+Microbiology Infection, 14, 522e533.
+
+European Union. (2001). Commission Decision 2001/471/EC. Ofﬁcial Journal of the
+
+European Union, 165, 48.
+
+Franchin, P. R., Aidoo, K. E., & Batista, C. R. V. (2005). Sources of poultry meat
+contamination with thermophilic Campylobacter before slaughter. Brazilian
+Journal of Microbiology, 36, 157e162.
+
+Franco, D. A. (1998). Campylobacter species: considerations for controlling a food-
+
+borne pathogen. Journal of Food Protection, 51, 145e153.
+
+Gebreyes, W. A., Thakur, S., & Morrow, W. E. M. (2005). Campylobacter coli: preva-
+lence and antimicrobial resistance in antimicrobial-free (ABF) swine production
+systems. Journal of Antimicrobial Chemotherapy, 56, 765e768.
+
+Ghaﬁr, Y., China, B., Dierick, K., De Zutter, L., & Daube, G. A. (2007). Seven-year
+survey of Campylobacter contamination in meat at different production stages
+in Belgium. International Journal of Food Microbiology, 116, 111e120.
+
+Ghaﬁr, Y., China, B., Dierick, K., Zutter, L., & Daube, G. (2008). Hygiene indicator
+microorganisms for selected pathogens on beef, pork, and poultry meats in
+Belgium. Journal of Food Protection, 71, 35e45.
+
+Gill, C. O., & Bryant, J. (1993). The presence of Escherichia coli, Salmonella and
+Campylobacter in pig carcass dehairing equipament. Food Microbiology, 10,
+337e344.
+
+Guévremont, E., Nadeau, É., Sirois, M., & Quessy, S. (2006). Antimicrobial suscep-
+tibilities of thermophilic Campylobacter from humans, swine, and chicken
+broilers. The Canadian Journal of Veterinary Research, 70, 81e86.
+
+Han, K., Jang, S. S., Choo, E., Heu, S., & Ryu, S. (2007). Prevalence, genetic diversity,
+and antibiotic resistance patterns of Campylobacter jejuni from retail raw
+chickens in Korea. Food Microbiology, 114, 50e59.
+
+Humphrey, T., O’Brien, S., & Madsen, M. (2007). Campylobacter as zoonotic patho-
+gens: a food production perspective. International Journal of Food Microbiology,
+117, 237e257.
+
+Huymans, M. B., & Turnidge, J. D. (1997). Disc susceptibility testing for thermom-
+
+philic Campylobacters. Pathology, 29, 209e216.
+
+Inglis, G. D., Mcallister, T. A., Busz, H. W., Yanke, L. J., Morck, D. W., Olson, M. E., &
+Read, R. R. (2005). Effects of subtherapeutic administration of antimicrobial
+
+R.S. Biasi et al. / Food Control 22 (2011) 702e707
+
+707
+
+agents to beef cattle on the prevalence of antimicrobial resistance in
+Campylobacter jejuni and Campylobacter hyointestinalis. Applied and Environ-
+mental Microbiology, 71, 3872e3881.
+
+Josefsen, M. H., Lübeck, P. S., Hansen, F., & Hoorfar, J. (2004). Towards an inter-
+nacional srandard for PCR-based detection of
+foodborne thermotolerant
+Campylobacters: interaction of enrichment media and pre-PCR treatment on
+carcass rinse samples. Journal of Microbiological Methods, 58, 39e48.
+
+Kang, Y. S., Gho, Y. S., Yoon, S. K., Yu, M. A., Kim, C. M., Lee, J. O., & Pyun, Y. R. (2006).
+Prevalence and antimicrobial resistance of Campylobacter jejuni and Campylo-
+bacter coli isolated from raw chicken meat and human stools in Korea. Journal of
+Food Protection, 9, 2915e2923.
+
+Kuana, S. L., Dos Santos, L. R., Rodrigues, L. B., & Do Nascimento, V. P. (2009). Sistema
+Api Campy para caracterização de amostras de Campylobacter isoladas de
+descarga cecal, fezes, swabs cloacais e carcaças de frangos de corte. Arquivos do
+Instituto de Biologia de São Paulo, 76, 273e277.
+
+Little, C. L., Richardson,
+
+J. F., Owen, R.
+
+Line,
+
+J. E. (2001). Development of a selective differential agar for isolation
+and enumeration of Campylobacter spp. Journal of Food Protection, 64, 1711e1715.
+J. (2008).
+Campylobacter and Salmonella in raw red meat in the United Kingdom: preva-
+lence, characterization and antimicrobial resistance pattern, 2003e2005. Food
+Microbiology, 25, 538e543.
+
+J., Pinna, E., & Threlfall, E.
+
+Luangtongkum, T., Morishita, T. Y., Al-Tayeb, A. B., Ison, A. J., & Zhang, Q. (2007).
+comparison of antimicrobial susceptibility testing of Campylobacter spp. by the
+agar dilution and the agar disk diffusion methods. Journal of Clinical Microbi-
+ology, 45, 590e594.
+
+Mackiw, E., Popowski, J., & Szponar, L. (2008). Thermotolerant Campylobacter spp. e
+report on monitoring studies performed in 2004e2005 in Poland. Food Control,
+19, 219e222.
+
+Mayrhofer, S., Paulsen, P., Smulders, F. J. M., & Hilbert, F. (2004). Antimicrobial
+resistance proﬁle of ﬁve major food-borne pathogens isolated from beef, pork
+and poultry. International Journal of Food Microbiology, 97, 23e29.
+
+Meremäe, K., Elias, P., Tamme, T., Kramarenko, T., Lillenberg, M., Karus, A., et al.
+in Estonian broiler chicken
+
+(2010). The occurrence of Campylobacter spp.
+production in 2002e2007. Food Control, 21, 272e275.
+
+Miﬂin, J. K., Templeton, J. M., & Blackall, P. J. (2007). Antibiotic resistance in
+Campylobacter jejuni and Campylobacter coli isolated from poultry in the South-
+East Queensland Region. Journal of Antimicrobial Chemotherapy, 59, 775e778.
+
+Modolo, J. R., Margato, L. F. F., Gottschalk, A. F., Lopes, C. A., & De, M. (1999). Inci-
+dence of Campylobacter in pigs with and without diarrhea. Revista de Micro-
+biologia, 30, 19e21.
+
+Moran, L., Scates, P., & Madden, R. H. (2009). Prevalence of Campylobacter spp. in raw
+retail poultry on sale in Northern Ireland. Journal of Food Protection, 72,1830e1835.
+Olah, P. A., Doetkottb, C., Fakhra, M. K., & Loguea, C. M. (2006). Prevalence of the
+Campylobacter multi-drug efﬂux pump (CMEABC) in Campylobacter spp. iso-
+lated from freshly processed turkeys. Food Microbiology, 23, 453e460.
+
+On, S. L. W. (1996). Identiﬁcation methods for campylobacters, helicobacters, and
+
+related organisms. Clinical Microbiology, 9, 405e422.
+
+Ono, K., & Yamamoto, K. (1999). Contamination of meat with Campylobacter jejuni in
+
+Saitana, Japan. International Journal of Food Microbiology, 1, 211e219.
+
+Pezzotti, G., Seraﬁn, A., Luzzi, I., Mioni, R., Milan, M., & Perin, R. (2003). Occurrence
+and resistance to antibiotics of Campylobacter jejuni and Campylobacter coli in
+animals and meat in Northeastern Italy. International Journal of Food Microbi-
+ology, 82, 281e287.
+
+Quinn, P. J., Markey, B. K., Carter, M. E., Donnelly, W. J., & Leonard, F. C. (2002).
+Campylobacter species. In P. J. Quinn, B. K. Markey, M. E. Carter, W. J. Donnelly, &
+F. C. Leonard (Eds.), Veterinary microbiology and microbial disease (pp. 168e173).
+Oxford: Blackwell Publishing Company.
+
+Reina, J., Ros, M. J., & Serra, A. (1995). Evaluation of the Api-Campy system in the
+biochemical identiﬁcation of hippurate negative Campylobacter strains isolated
+from feaces. Journal of Clinical Pathology, 48, 683e685.
+
+Rönner, A., Engvall, E. O., Andersson, L., & Kaijser, B. (2004). Species identiﬁcation by
+genotyping and determination of antibiotic resistance in Campylobacter jejuni
+and Campylobacter coli from humans and chickens in Sweden. International
+Journal of Food Microbiology, 96, 173e179.
+
+Sáenz, Y., Zarazaga, M., Lantero, M., Gastanares, M. J., Baquero, J., & Torres, C. (2000).
+Antibiotic resistance in Campylobacter strains isolated from animals, foods, and
+humans in Spain in 1997e1998. Antimicrobial Agents and Chemotherapy, 44,
+267e271.
+
+Sallam, K. I. (2007). Prevalence of Campylobacter in chicken and chicken by-
+Japan. Food Control, 18,
+
+products retailed in Sapporo area, Hokkaido,
+1113e1120.
+
+Shin, E., & Lee, Y. (2007). Antimicrobial resistance of 114 porcine isolates of
+
+Campylobacter coli. International Journal of Food Microbiology, 118, 223e227.
+
+Sinha, S., Prasad, K. N., Pradhan, S., Jain, D., & Jha, S. (2004). Detection of preceding
+Campylobacter jejuni infection by polymerase chain reaction in patients with
+Guillain-Barré Syndrome. Royal Society of Tropical Medicine and Hygiene, 98,
+342e346.
+
+Suzuki, H., & Yamamoto, S. (2009). Campylobacter contamination in retail poultry
+meats and by-products in the world: a literature survey. Journal of Veterinary
+Medicine Science, 71, 255e261.
+
+Tam, C. C., Rodrigues, L. C., & O’brien, S. J. (2003). Guillain-Barré syndrome associ-
+infection in England, 2000e2001. Clinical
+
+ated with Campylobacter jejuni
+Infectious Diseases, 37, 307e310.
+
+Workman, S. N., Mathison, G. E., & Lavoie, M. C. (2008). An investigation of sources
+of Campylobacter in a poultry production and packing operation in Barbados.
+International Journal of Food Microbiology, 121, 106e111.
+
+Zweifel, C., Zychowska, M. A., & Stephan, M. A. R. (2004). Prevalence and charac-
+teristics of Shiga toxin-producing Escherichia coli, Salmonella spp. and
+Campylobacter spp. isolated from slaughtered sheep in Switzerland. Interna-
+tional Journal of Food Microbiology, 92, 45e53.
+
+

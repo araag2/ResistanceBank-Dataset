@@ -1,0 +1,1105 @@
+Mem Inst Oswaldo Cruz, Rio de Janeiro, Vol. 110(2): 249-254, April 2015
+
+249
+
+Widespread distribution of CTX-M and plasmid-mediated AmpC  
+
+β-lactamases in Escherichia coli from Brazilian chicken meat
+
+Larissa Alvarenga Batista Botelho, Gabriela Bergiante Kraychete,  
+
+Jacqueline Lapa Costa e Silva, Douglas Viller Vieira Regis,  
+
+Renata Cristina Picão, Beatriz Meurer Moreira, Raquel Regina Bonelli/+
+
+Laboratório de Investigação em Microbiologia Médica, Instituto de Microbiologia Paulo de Góes,  
+
+Universidade Federal do Rio de Janeiro, Rio de Janeiro, RJ, Brasil
+
+The dissemination of plasmid-mediated antimicrobial resistance genes may pose a substantial public health risk. In 
+the present work, the occurrences of blaCTX-M and plasmid-mediated ampC and qnr genes were investigated in Escheri-
+chia coli from 16 chicken carcasses produced by four commercial brands in Brazil. Of the brands tested, three were 
+exporters, including one of organic chicken. Our study assessed 136 E. coli isolates that were grouped into 77 distinct 
+biotypes defined by their origin, resistance profiling, the presence of β-lactamase and plasmid-mediated quinolone 
+resistance genes and enterobacterial repetitive intergenic consensus-polimerase chain reaction typing. The blaCTX-M-15, 
+blaCTX-M-2 and blaCTX-M-8 genes were detected in one, 17 and eight different biotypes, respectively (45 isolates). Twenty-
+one biotypes (46 isolates) harboured blaCMY-2. Additionally, blaCMY-2 was identified in isolates that also carried either 
+blaCTX-M-2 or blaCTX-M-8. The qnrB and/or qnrS genes occurred in isolates carrying each of the four types of β-lactamase 
+determinants detected and also in oxyimino-cephalosporin-susceptible strains. Plasmid-mediated extended-spectrum 
+β-lactamase (ESBL) and AmpC determinants were identified in carcasses from the four brands tested. Notably, this is 
+the first description of blaCTX-M-15 genes in meat or food-producing animals from South America. The blaCTX-M-8, blaCTX-
+M-15 and blaCMY-2 genes were transferable in conjugation experiments. The findings of the present study indicate that 
+plasmid-mediated ESBL and AmpC-encoding genes are widely distributed in Brazilian chicken meat.
+
+Key words: ESBL - plasmid AmpC - qnr - chicken meat - Escherichia coli
+
+Extended-spectrum  β-lactamase  (ESBL)-producing 
+Enterobacteriaceae  are  becoming  increasingly  prevalent 
+in community-associated infections (Ben-Ami et al. 2009). 
+A potential role for chicken meat as a source of multidrug-
+resistant  (MDR)  bacteria  carrying  ESBL  and  plasmid-
+mediated AmpC (pAmpC) determinants in the population 
+has been demonstrated (Bergenholtz et al. 2009, Dhanji et 
+al. 2010, Doi et al. 2010, Kola et al. 2012). Indeed, different 
+studies have supported the hypothesis that bacterial patho-
+gens, including resistant isolates, can be transmitted from 
+chicken meat to humans (Thorsteinsdottir et al. 2010, Vin-
+cent et al. 2010, Overdevest et al. 2011).
+
+Brazil is one of the world’s most important produc-
+ers and the leading exporter of chicken meat, with mar-
+kets in different countries of Europe, Asia and the Middle 
+East (USITC 2012). Despite this widespread distribution, 
+most studies describing Escherichia coli isolates carrying 
+CTX-M-  and  CMY-encoding  genes  in  retail  meat  were 
+performed  with  chicken  produced  in  Europe  and  Asia 
+(Ewers  et  al.  2012,  Kola  et  al.  2012,  Stuart  et  al.  2012, 
+
+doi: 10.1590/0074-02760140389
+Financial support: CNPq, FAPERJ, CAPES
++ Corresponding author: raquel.bonelli@micro.ufrj.br
+Received 20 October 2014
+Accepted 26 January 2015
+
+Xu  et  al.  2014).  Reports  investigating  the  presence  of 
+β-lactamase determinants in E. coli from Brazilian chick-
+en are scant and are concentrated on samples imported by 
+Denmark and the United Kingdom (Warren et al. 2008, 
+Bergenholtz et al. 2009, Dhanji et al. 2010). Moreover, the 
+occurrence of blaCTX-M-2 on the chromosome of E. coli iso-
+lates was recently demonstrated in chicken produced by 
+two Brazilian farms (Ferreira et al. 2014).
+
+In  the  present  study,  we  presented  evidence  for 
+the  contamination  of  Brazilian  chicken  carcasses  with 
+CTX-M and pAmpC-producing E. coli. We investigated 
+several brands, including exporters and regional and or-
+ganic producers. E. coli isolates were categorised by an-
+timicrobial resistance, the presence of β-lactamase and 
+qnr  plasmid-mediated  quinolone  resistance  genes  and 
+phylogenetic background. The conjugative transfer po-
+tentials of the β-lactamase genes were also determined.
+
+MATERIALS AND METHODS
+
+Sample  collection  -  Between  August  2010-April 
+2011,  16  frozen  chicken  carcasses  were  obtained  from 
+four Brazilian producers (I, II, III and IV, four carcasses 
+each) at retail markets in Rio de Janeiro, Brazil. Produc-
+ers  I,  II  and  III  sell  conventional  chicken  and  brand  I 
+and  II  products  are  distributed  in  Brazil  and  interna-
+tionally.  Producer  III  distributes  chicken  only  in  Bra-
+zil; however, carcasses sold as “premium export grade” 
+were selected for the study. Producer IV has the same 
+commercial  characteristics  of  I  and  II,  but  specialises 
+in organic chicken. Whole frozen chicken carcasses in 
+
+online | memorias.ioc.fiocruz.br
+
+250
+
+CTX-M and AmpC in E. coli from chickens • Larissa Alvarenga Batista Botelho et al.
+
+original packages were chosen as the sample source to 
+avoid the risk of additional contamination after leaving 
+the processing plant.
+
+Recovery of E. coli isolates - Each carcass was left to 
+defrost at 4-8ºC for 36 h and subsequently rinsed with 300 
+mL of sterile buffered peptone water (Difco, EUA). Four 
+100-µL aliquots of the obtained rinsate were directly in-
+oculated onto MacConkey agar (Difco) plates, including 
+one untreated plate and three plates each supplemented 
+with one of the following antimicrobial agents: ampicil-
+lin (8 mg/L), cefotaxime (2 mg/L) or sulfamethoxazole 
+(500  mg/L).  Additional  300-µL  aliquots  of  the  rinsate 
+were  pre-incubated  in  MacConkey  broth  without  anti-
+microbial selection pressure in quadruplicate (Difco) in 
+1:10 dilutions for 4 h. Four 100-µL aliquots of each of 
+the pre-incubated cultures were inoculated onto the agar 
+plates without antimicrobials or with ampicillin (8 mg/L), 
+cefotaxime (2 mg/L) or sulfamethoxazole (500 mg/L), to-
+talling 16 additional plates. Up to five colonies were se-
+lected from each plate, with a priority on those exhibiting 
+different morphological characteristics, for identification 
+by classic phenotypic tests: lactose fermentation, Gram 
+staining, indole production and 4-methylumbelliferyl-β-
+D-glucuronide  hydrolysis.  Isolates  presumptively  iden-
+tified  as  E.  coli  were  confirmed  by  MALDI-TOF  MS 
+(Bruker Biotyper 3.1, Bruker Daltonics). A single con-
+firmed E. coli isolate per plate was included in this study 
+and submitted for complete characterisation.
+
+Antimicrobial  susceptibility  testing  -  Susceptibility 
+was determined by the Clinical Laboratory Standard In-
+stitute (CLSI) disk-diffusion method for amoxicillin/cla-
+vulanate, ampicillin, aztreonam, cefotaxime, cefoxitin, 
+cefuroxime,  chloramphenicol,  ciprofloxacin,  ertapen-
+em, fosfomycin/trometamol, gentamicin, nitrofurantoin, 
+tetracycline and trimethoprim/sulfamethoxazone (CLSI 
+2014). Isolates were classified as MDR according to pre-
+viously described criteria (Magiorakos et al. 2012).
+
+Detection  of  CTX-M  and  pAmpC  β-lactamases  - 
+Screening for ESBL producers was conducted by double-
+disk synergy testing using aztreonam (30 µg), cefepime 
+(30 µg), cefotaxime (30 µg) and ceftazidime (30 µg) as 
+substrates and amoxicillin/clavulanate (20/10 µg) as an 
+ESBL inhibitor (Jarlier et al. 1988). ESBL-producing E. 
+coli isolates were subjected to polymerase chain reaction 
+(PCR) for different blaCTX-M-groups (Wang et al. 2012). 
+Amplification  parameters  varied  slightly  according  to 
+the blaCTX-M group analysed. For groups 1, 9 and 25, the 
+following PCR conditions were applied: 94ºC for 3 min, 
+35 cycles of 94ºC for 30 s, 51ºC for 1 min and 72ºC for 2 
+min with a final extension step of 72ºC for 5 min. Am-
+plicons for groups 2 and 8 were obtained under the same 
+conditions, except for the annealing temperature (56ºC).
+Isolates resistant to cefoxitin and amoxicillin/clavu-
+lanate were submitted for confirmatory phenotypic test-
+ing for AmpC enzymes using cloxacillin (200 µg) as an 
+inhibitor (Tan et al. 2009, Peter-Getzlaff et al. 2011). Pos-
+itive isolates were examined for the presence of genes 
+encoding the pAmpC enzymes CMY, ACC, ACT, DHA, 
+FOX, LAT, MIR and MOX by multiplex PCR as previ-
+ously described (Pérez-Pérez & Hanson 2002).
+
+Amplicons  were  purified  using  ExoSAP-IT  (USB 
+Corporation,  USA)  and  sequenced  by  Macrogen  Inc 
+(South  Korea)  to  define  the  blaCTX-M  and  ampC-type 
+β-lactamase gene variants. The obtained sequences were 
+compared to reference sequences available in GenBank 
+(ncbi.nlm.nih.gov/).
+
+Detection of qnr genes - All isolates were examined 
+for qnrA, qnrB and qnrS genes by multiplex PCR as pre-
+viously described (Cattoir et al. 2007).
+
+Phylogenetic typing - The phylogenetic group from 
+each E. coli isolate was determined by multiplex PCR for 
+chuA and yjaA genes and the DNA fragment TspE4C2, 
+as described (Clermont et al. 2000).
+
+Enterobacterial  repetitive 
+
+intergenic  consensus 
+(ERIC)2-PCR - All isolates were typed by ERIC2-PCR 
+(Dias et al. 2008) and DNA fingerprints were assessed 
+by  visual  inspection.  Band  profiles  of  representative 
+biotypes (selected as described below) were additionally 
+analysed by BioNumerics v.7.1 (Applied Maths, Belgium) 
+with  Dice  similarity  coefficients,  an  unweighted-pair 
+group method using average linkages and a bandwidth 
+tolerance of 1%. Isolates with 100% similarity were in-
+cluded in a single genotype.
+
+Definition  of  representative  biotypes  -  From  each 
+carcass,  one  isolate  of  each  biotype  was  selected  as  a 
+representative  strain.  A  biotype  was  defined  for  each 
+unique combination of the following characteristics: an-
+timicrobial  resistance  profile,  carriage  of  the  assessed 
+qnr and β-lactamase encoding genes, phylogenetic group 
+and ERIC2-PCR type.
+
+Conjugation  experiments  -  To  determine  the  pres-
+ence  of  β-lactamase-encoding  genes  within  conjuga-
+tive plasmids, mating-out assays were performed for at 
+least one E. coli isolate carrying each β-lactamase gene 
+found. The sodium azide-resistant E. coli J53 strain was 
+used as the recipient; transconjugants were selected in 
+sodium azide (100 mg/L) and ceftriaxone (2 mg/L) con-
+taining  plates.  Gene  transfer  was  confirmed  by  PCR 
+with a transconjugant DNA template. Transconjugants 
+were subjected to antimicrobial susceptibility tests for 
+β-lactam  and  non-β-lactam  agents  by  disk-diffusion. 
+ERIC2-PCR  typing  was  performed  to  distinguish 
+transconjugants from donor strains.
+
+RESULTS
+
+Sample collection - A total of 689 colonies were cul-
+tured  and  216  (31%)  were  confirmed  as  E.  coli.  From 
+these, a subset of 136 isolates was formed, comprising 
+63% of the 216 E. coli identified, by selecting one colony 
+per agar plate. According to the criteria established and 
+considering  the  results  detailed  below,  tthese  isolates 
+were grouped into 77 representative biotypes.
+
+Prevalence of MDR isolates - Overall, MDR E. coli 
+from carcasses of brands I, II, II and IV comprised 23 out 
+of 26 (89%), 21 out of 23 (91%), 11 out of 13 (85%) and 
+12 out of 15 (80%) biotypes analysed, respectively. As a 
+consequence of the selective pressure applied, high resis-
+tance rates for β-lactam agents were observed. Resistance 
+
+Mem Inst Oswaldo Cruz, Rio de Janeiro, Vol. 110(2), April 2015
+
+251
+
+Key characteristics of Escherichia coli biotypes showing oxyimino-cephalosporin  
+
+resistance obtained from frozen chicken carcasses produced in Brazil
+
+TABLE
+
+β-lactam resistance
+
+profile
+
+Additional
+resistance
+
+Phylogenetic
+
+group
+
+qnr
+gene
+
+Carcass
+
+(brand/unit)a
+
+Selective pressure used
+
+(number of isolates)
+
+Biotype
+numberb
+
+β-lactamase
+gene
+
+blaCTX-M-2
+
+blaCTX-M-8
+
+AMP-CTX-CXM
+AMP-CTX-CXM
+
+AMP-CTX-CXM
+AMP-CTX-CXM
+AMP-CTX-CXM
+AMP-CTX-CXM
+
+AMP-CTX-CXM
+
+AMP-ATM-CTX-CXM
+AMP-ATM-CTX-CXM
+AMP-ATM-CTX-CXM
+AMP-ATM-CTX-CXM
+
+AMP-ATM-CTX-CXM
+AMP-ATM-CTX-CXM
+AMP-ATM-CTX-CXM
+
+AMP-ATM-CTX-CXM
+
+CLO
+
+CLO-FOS
+
+CIP-GEN
+CIP-GEN
+CIP-TET
+CIP-GEN- 
+
+SXT
+
+CIP-GEN- 
+SXT-TET
+
+CIP
+CLO
+CLO
+TET
+
+CIP-TET
+GEN-TET
+CIP-GEN- 
+SXT-TET
+CIP-FOS- 
+
+GEN-SXT-TET
+
+AMC-AMP-ATM-CTX-CXM
+
+CIP-CLO
+
+AMP-CTX-CXM
+AMP-CTX-CXM
+AMP-CTX-CXM
+AMP-CTX-CXM
+AMP-CTX-CXM
+
+AMP-ATM-CTX-CXM
+AMP-ATM-CTX-CXM
+
+-
+-
+-
+
+CIP-TET
+CIP-TET
+
+-
+-
+
+D
+D
+
+A
+A
+B1
+A
+
+A
+
+D
+D
+D
+B1
+
+B1
+B1
+D
+
+B1
+
+D
+
+B1
+D
+D
+B1
+B1
+B1
+B1
+
+B1
+
+D
+A
+D
+D
+B1
+D
+D
+D
+D
+D
+B1
+D
+D
+D
+
+D
+D
+D
+
+-
+-
+
+-
+-
+-
+-
+
+-
+
+qnrB
+
+-
+-
+-
+
+-
+-
+-
+
+-
+
+-
+
+qnrB
+
+-
+-
+-
+-
+-
+-
+
+qnrS
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+qnrB
+
+-
+
+-
+-
+-
+
+I.2
+I.2
+
+I.1
+I.1
+II.3
+II.2
+
+II.2
+
+IV.4
+I.2
+I.2
+I.3
+
+II.1
+I.3
+II.2
+
+II.2
+
+IV.2
+
+I.3
+I.3
+III.4
+III.2
+III.4
+III.1
+IV.1
+
+IV.3
+
+IV.2
+IV.2
+I.3
+I.3
+III.2
+III.1
+I.3
+II.2
+II.2
+II.4
+II.3
+II.4
+IV.3
+I.4
+
+II.1
+II.2
+I.4
+
+None (1), AMP (1)
+None (1), AMP (2),
+CTX (2), SUL (1)
+
+AMP (1)
+
+CTX (1), SUL (1)
+
+SUL (1)
+CTX (1)
+
+AMP (1)
+
+SUL (1)
+
+CTX (1), SUL (1)
+
+SUL (1)
+
+None (1), AMP (2),
+
+SUL (2)
+
+CTX (1), SUL (1)
+
+CTX (1)
+SUL (1)
+
+CTX (1)
+
+AMP (1), CTX (1),
+
+SUL (1)
+None (1)
+CTX (1)
+CTX (1)
+CTX (1)
+SUL (1)
+CTX (1)
+
+None (1), AMP (1),
+
+CTX (1)
+
+None (1), AMP (1),
+
+CTX (1)
+CTX (1)
+None (1)
+SUL (1)
+AMP (1)
+SUL (1)
+CTX (1)
+CTX (1)
+AMP (1)
+SUL (1)
+
+AMP (1), CTX (1)
+
+CTX (1)
+CTX (1)
+None (1)
+
+None (3), AMP (1),
+CTX (4), SUL (3)
+
+AMP (1)
+AMP (1)
+AMP (1)
+
+3
+4
+
+1c
+2c
+25
+18
+
+19
+
+44
+5c
+6c
+7
+
+16
+8
+20
+
+21
+
+38
+
+9
+10
+34
+31
+35
+29
+36
+
+41
+
+39
+40
+11
+12
+32
+30
+13
+22c
+23c
+27
+26
+28
+42
+14
+
+17
+24
+15
+
+blaCTX-M-15
+
+AMP-ATM-CTX-CXM
+
+CIP-SXT-TET
+
+blaCTX-M-2/blaCMY-2 AMC-AMP-ATM-CTX-CXM-FOX FOS-SXT-TET
+blaCTX-M-8/blaCMY-2
+blaCMY-2
+
+-
+
+AMC-AMP-CTX-CXM-FOX
+AMC-AMP-CTX-CXM-FOX
+AMC-AMP-CTX-CXM-FOX
+AMC-AMP-CTX-CXM-FOX
+AMC-AMP-CTX-CXM-FOX
+AMC-AMP-CTX-CXM-FOX
+AMC-AMP-CTX-CXM-FOX
+AMC-AMP-CTX-CXM-FOX
+AMC-AMP-CTX-CXM-FOX
+AMC-AMP-CTX-CXM-FOX
+AMC-AMP-CTX-CXM-FOX
+AMC-AMP-CTX-CXM-FOX
+AMC-AMP-CTX-CXM-FOX
+
+CLO
+SXT
+TET
+TET
+
+CIP-CLO
+CIP-SXT
+CIP-SXT
+CIP-SXT
+CIP-TET
+CIP-TET
+CIP-TET
+GEN-SXT
+
+AMC-AMP-CTX-CXM-FOX
+AMC-AMP-CTX-CXM-FOX
+AMC-AMP-CTX-CXM-FOX
+
+SXT-TET
+
+GEN-SXT-TET
+CLO-GEN-
+SXT-TET
+
+252
+
+CTX-M and AmpC in E. coli from chickens • Larissa Alvarenga Batista Botelho et al.
+
+β-lactamase
+gene
+
+β-lactam resistance
+
+profile
+
+Additional
+resistance
+
+Phylogenetic
+
+group
+
+qnr
+gene
+
+Carcass
+
+(brand/unit)a
+
+Selective pressure used
+
+(number of isolates)
+
+Biotype
+numberb
+
+AMC-AMP-ATM-CTX-CXM-FOX
+AMC-AMP-ATM-CTX-CXM-FOX
+
+-
+-
+
+AMC-AMP-ATM-CTX-CXM-FOX
+AMC-AMP-ATM-CTX-CXM-FOX CIP-SXT-TET
+
+FOS
+
+B1
+D
+
+B1
+D
+
+-
+-
+
+-
+-
+
+IV.3
+IV.1
+
+III.2
+IV.4
+
+CTX (1)
+
+None (1), AMP (1),
+
+CTX (1)
+CTX (1)
+
+None (2), AMP (4),
+CTX (4), SUL (3)
+
+43
+37
+
+33
+45
+
+a: brands I and II, conventional production system and exporters, brand III, conventional production system and local distribu-
+tion, brand IV, organic production system and exporter; b: biotype number was arbitrarily determined according to brand and 
+number of carcass to strains with a unique combination of the characteristics [antimicrobial resistance profile, carriage of qnr and 
+β-lactamase encoding genes, phylogenetic group and enterobacterial repetitive intergenic consensus-polymerase chain reaction 
+(ERIC2-PCR) type]; c: biotypes differentiated only by ERIC2-PCR typing; AMC: amoxycillin/clavulanate; AMP: ampicillin; 
+ATM: aztreonam; CIP: ciprofloxacin; CLO: chloramphenicol; CTX: cefotaxime; CXM: cefuroxime; FOS: fosfomycin/trometa-
+mol; FOX: cefoxitin; GEN: gentamicin; SUL: sulfamethoxazole; SXT: trimethoprim/SUL; TET: tetracycline.
+
+to ampicillin, cefuroxime and cefotaxime occurred in 58 
+(75%), 72 (94%) and 45 (58%) of the 77 biotypes, respec-
+tively.  Cefoxitin  and  amoxicillin/clavulanate  co-resis-
+tance was observed in 21 biotypes (27%). Regarding non-
+β-lactam agents, resistance to tetracycline, ciprofloxacin, 
+trimethoprim/sulfamethoxazone,  chloramphenicol  and 
+gentamicin was found in 37 (48%), 35 (45%), 31 (40%), 
+18 (23%) and 16 (21%) biotypes, respectively. No isolates 
+showed resistance to nitrofurantoin or ertapenem.
+
+Occurrence  of  CTX-M  and  pAmpC-encoding  genes 
+-  Overall,  the  45  biotypes  containing  oxyimino-cepha-
+losporin-resistant  isolates  showed  at  least  one  of  the 
+β-lactamase  determinants  investigated.  Interestingly,  11 
+(24%)  of  these  45  biotypes  included  isolates  obtained 
+from untreated MacConkey plates. Table summarises the 
+results obtained with these strains. Twenty-six biotypes 
+(34%)  showed  positive  ESBL  phenotypes  after  double-
+disk synergy tests. Further characterisation by PCR and 
+sequencing showed 17 blaCTX-M-2, eight blaCTX-M-8 and one 
+blaCTX-M-15-carrying biotypes. All isolates included in the 
+21 biotypes showing cefoxitin and amoxicillin/clavulanate 
+resistance had a phenotype suggestive of AmpC produc-
+tion and harboured the blaCMY-2 gene. Two isolates were 
+also concomitant carriers of blaCTX-M-type genes (Table).
+Occurrence of qnr genes - The qnr genes occurred 
+more frequently among the 32 oxyimino-cephalosporin-
+susceptible biotypes (n = 9, 28%) than among the 45 re-
+sistant (n = 4, 9%) biotypes (p ≤ 0.05). Considering the 
+oxyimino-cephalosporin-susceptible biotypes, one car-
+ried the qnrS gene and eight carried the qnrB gene. Four 
+biotypes concomitantly harboured qnr and β-lactamase 
+genes  with  the  following  combinations:  blaCTX-M-2  and 
+qnrB, blaCTX-M-8 and qnrB, blaCTX-M-15 and qnrS and blaC-
+MY-2 and qnrB (Table).
+
+Phylogenetic  background  –  Regarding  the  phyloge-
+netic background, no isolate among the blaCTX-M or blaCMY-
+2-positive E. coli belonged to group B2. Biotypes harbour-
+ing blaCTX-M-2 were homogeneously distributed among the 
+
+other three phylogenetic groups (4 biotypes in A, 5 in B1 
+and 8 in D), but group B1 was the most frequent among 
+blaCTX-M-8-carrying biotypes (6 of 8 biotypes, 75%). The 
+blaCMY-2-carrying biotypes were associated with phyloge-
+netic group D (16 of 21 biotypes, 76%, p ≤ 0.05).
+
+ERIC2-PCR  typing  -  ERIC2-PCR  typing  was  per-
+formed to confirm biotype classification and to ensure 
+that no duplicate isolates were included in the study. A 
+dendrogram from the computer-assisted analysis of the 
+bla-carrying biotypes is shown in Figure. A great diver-
+sity of types was observed, except for two groups, which 
+contained four and two biotypes that exhibited the same 
+ERIC2-PCR  types,  but  differed  in  their  non-β-lactam 
+antimicrobial resistance profiles.
+
+Genes  blaCTX-M-15,  blaCTX-M-8  and  blaCMY-2,  but  not 
+blaCTX-M-2 were transferred by conjugation - Conjugation 
+transfer  was  successfully  performed  for  the  blaCTX-M-15, 
+blaCTX-M-8 and blaCMY-2 genes. For these experiments, six 
+isolates  from  brand  IV  were  selected  as  donor  strains, 
+each  carrying  genes  encoding  CTX-M-15,  CTX-M-8, 
+CTX-M-2  or  CMY-2  enzymes  only  or  CTX-M-8  plus 
+CMY2 or CTX-M-2- plus CMY-2. Four transconjugant 
+colonies were obtained for blaCTX-M-15, all with the qnrS 
+gene co-transferred. Conjugation was also possible with 
+the singular isolates carrying blaCTX-M-8 or blaCMY-2. For 
+the  isolate  harbouring  the  blaCTX-M-8 and  blaCMY-2 genes, 
+five transconjugants were obtained: one with blaCTX-M-8 
+only, two with blaCMY-2 only and two with both genes. For 
+the isolate carrying the blaCTX-M-2 and blaCMY-2 genes, five 
+transconjugants  with  blaCMY-2  only  were  obtained.  The 
+antimicrobial  susceptibility  profile  of  transconjugants 
+confirmed the transference and expression of the respec-
+tive β-lactamase according to the preferential substrates 
+of  these  enzymes.  Because  the  blaCTX-M-2 gene  transfer 
+was unsuccessful with isolates from brand IV, conjuga-
+tion  experiments  were  performed  with  four  additional 
+isolates, two each from brands I and II, carrying only this 
+gene. However, blaCTX-M-2 transference was not achieved.
+
+Mem Inst Oswaldo Cruz, Rio de Janeiro, Vol. 110(2), April 2015
+
+253
+
+Interestingly,  organic  chicken  carcasses  evalu-
+ated  in  our  study  showed  the  greatest  diversity  of  bla 
+genes (brand IV in Table). The single isolate presenting 
+blaCTX-M-15 and the two isolates simultaneously harbour-
+ing  blaCTX-M-type  and  blaCMY-2 were  from  this  brand.  Or-
+ganic chicken meat contaminated with ESBL-producing 
+bacteria has also been described in Germany and The 
+Netherlands (Kola et al. 2012, Stuart et al. 2012). Pos-
+sible sources of resistance genes in this setting are the 
+introduction  of  one-day-old  chicken  already  colonised 
+with  ESBL-producing  organisms  and  the  presence  of 
+such strains in the environment, as observed in fatten-
+ing farms in Europe (MARAN 2009, Laube et al. 2013). 
+In fact, considering the historical use of antimicrobials 
+in commercial chicken production, the high rates of re-
+sistance observed in Enterobacteriaceae clinical isolates 
+in this country and the existence of these genes in the 
+environment, it is likely that these two possible sources 
+exist in organic farms in Brazil (MAPA 2009, Gales et 
+al. 2012, Picão et al. 2013).
+
+Isolates carrying blaCTX-M-2 or blaCMY-2 genes tended 
+to accumulate resistance to a greater number of non-β-
+lactam  antimicrobials  (up  to  5  or  4,  respectively)  than 
+did those carrying blaCTX-M-8 genes (maximum 2). This 
+tendency  was  independent  of  brand  or  phylogenetic 
+group, suggesting that this multidrug-resistance pheno-
+type is related to the genetic environment of these deter-
+minants, which will be investigated further.
+
+The presence of ESBL and pAmpC-encoding genes 
+in less pathogenic phylogenetic lineages could imply that 
+they pose a minor risk to human health. However, in the 
+present study, β-lactamase genes blaCMY-2, blaCTX-M-8 and 
+blaCTX-M-15 of E. coli belonging to phylogenetic groups A 
+and D, A and B1 and B1, respectively, were easily trans-
+ferred in vitro. This indicates that conjugation in the hu-
+man gut with the transfer of blaCTX-M or blaCMY-2 genes 
+to more pathogenic B2 strains can occur, enabling the 
+establishment of bacterial reservoirs of resistance genes 
+in the human population.
+
+In contrast to other β-lactamase genes, the transfer-
+ence of blaCTX-M-2 was not achieved, even when testing 
+isolates from brands with different production systems 
+and commercial profiles. These results are in accordance 
+with a study performed with E. coli obtained from two 
+Brazilian farms (Ferreira et al. 2014) and suggest that the 
+chromosomal location of blaCTX-M-2 may be shared among 
+many  isolates  from  Brazilian  chicken  meat.  However, 
+further experiments are needed to confirm the genetics 
+of this resistance determinant in our collection as well as 
+the replicon typing of described self-transmissible plas-
+mids carrying blaCTX-M-8, blaCTX-M-15 and blaCMY-2.
+The  small  number  of  chicken  carcasses  analysed  is 
+a limitation of this study. However, even with this small 
+study sample, a great diversity of E. coli isolates carrying 
+blaCTX-M-types and blaCMY-2 genes and showing a variety of 
+resistance profiles to non-β-lactam antimicrobials was de-
+tected. The distribution of these microorganisms in differ-
+ent brands, phylogenetic groups and ERIC types supports 
+their non-clonal nature and raises concerns about the high 
+frequency of these antimicrobial resistance determinants 
+in the Brazilian and international food chains.
+
+Distribution of 45 blaCTX-M and blaCMY-2-carrying biotypes according to 
+enterobacterial  repetitive  intergenic  consensus-polymerase  chain  re-
+action (ERIC2-PCR) typing. A: biotype number was arbitrarily deter-
+mined according to brand and number of carcass to strains with a unique 
+combination of the following characteristics: antimicrobial resistance 
+profile, carriage of qnr and β-lactamase encoding genes, phylogenetic 
+group and ERIC2-PCR type; B: brands I and II, conventional production 
+system and exporters, brand III, conventional production system and lo-
+cal distribution, brand IV, organic production system and exporter.
+
+DISCUSSION
+
+Data  obtained  in  this  study  demonstrated  a  wide 
+distribution of β-lactamase-producing-E. coli in chick-
+en meat produced in Brazil. The recovery of ESBL or 
+plasmid AmpC-producing E. coli even in the absence of 
+antimicrobial selection suggests that these isolates might 
+be substantially represented among the microbiota from 
+Brazilian chicken carcasses. Moreover, a high diversity 
+of  antimicrobial  resistance  phenotypes  was  observed 
+among genetically diverse isolates, suggesting that con-
+ditions promoting resistance are well established.
+
+The  presence  of  MDR  E.  coli-carrying  blaCTX-M-2, 
+blaCTX-M-8 and/or blaCMY-2 in chicken meat produced in Bra-
+zil has been recently reported (Dhanji et al. 2010, Egervärn 
+et al. 2014, Ferreira et al. 2014); nevertheless, the present 
+paper is the first to describe blaCTX-M-15 in E. coli from food 
+or food-producing animals in South America.
+
+254
+
+CTX-M and AmpC in E. coli from chickens • Larissa Alvarenga Batista Botelho et al.
+
+REFERENCES
+
+Ben-Ami R, Rodríguez-Baño J, Arslan H, Pitout JD, Quentin C, Calbo 
+ES, Azap OK, Arpin C, Pascual A, Livermore DM, Garau J, Car-
+meli Y 2009. A multinational survey of risk factors for infection 
+with extended-spectrum beta-lactamase-producing Enterobacte-
+riaceae in non-hospitalized patients. Clin Infect Dis 49: 682-690.
+Bergenholtz RD, Jorgensen MS, Hansen LH, Jensen LB, Hasman H 2009. 
+Characterization of genetic determinants of extended-spectrum ce-
+phalosporinases (ESCs) in Escherichia coli isolates from Danish and 
+imported poultry meat. J Antimicrob Chemother 64: 207-209.
+
+Cattoir V, Poirel L, Rotimi V, Soussy CJ, Nordmann P 2007. Multi-
+plex PCR for detection of plasmid-mediated quinolone resistance 
+qnr genes in ESBL-producing enterobacterial isolates. J Antimi-
+crob Chemother 60: 394-397.
+
+Clermont O, Bonacorsi S, Bingen E 2000. Rapid and simple determi-
+nation of the Escherichia coli phylogenetic group. Appl Environ 
+Microbiol 66: 4555-4558.
+
+CLSI - Clinical and Laboratory Standards Institute 2014. Performance 
+standards for antimicrobial susceptibility testing: twenty-fourth 
+informational supplement, M100-S24, CLSI, Wayne, 230 pp.
+
+Dhanji  H,  Murphy  NM,  Doumith  M,  Durmus  S,  Lee  SS,  Hope  R, 
+Woodford  N,  Livermore  DM  2010.  Cephalosporin  resistance 
+mechanisms in Escherichia coli isolated from raw chicken im-
+ported into the UK. J Antimicrob Chemother 65: 2534-2537.
+
+Dias  RCS,  Borges-Neto  AA,  Ferraiouli  GID,  de  Oliveira  MP,  Ri-
+ley  LW,  Moreira  BM  2008.  Prevalence  of  AmpC  and  other 
+β-lactamases in enterobacteria at a large urban university hospi-
+tal in Brazil. Diagn Microbiol Infect Dis 60: 79-87.
+
+Doi Y, Paterson DL, Egea P, Pascual A, López-Cerero L, Navarro MD, 
+Adams-Haduch JM, Qureshi ZA, Sidjabad HE, Rodríguez-Baño J 
+2010. Extended-spectrum and CMY-type β-lactamase-producing 
+Escherichia coli  in  clinical  samples  and  retail  meat  from  Pitts-
+burgh, USA and Seville, Spain. Clin Microbiol Infect 16: 33-38.
+
+Egervärn  M,  Börjesson  S,  Byfors  S,  Finn  M,  Kaipe  C,  Englund  S, 
+Lindblad M 2014. Escherichia coli with extended-spectrum beta-
+lactamases or transferable AmpC beta-lactamases and Salmonella 
+on meat imported into Sweden. Int J Food Microbiol 171: 8-14.
+
+Ewers C, Bethe A, Semmler T, Guenther S, Wieler LH 2012. Extend-
+ed-spectrum  β-lactamase-producing  and  AmpC-producing  Es-
+cherichia coli from livestock and companion animals and their 
+putative impact on public health: a global perspective. Clin Mi-
+crobiol Infect 18: 646-655.
+
+Ferreira JC, Penha Filho RA, Andrade LN, Berchieri AJ, Darini ALC 
+2014. Detection of chromosomal blaCTX-M-2 in diverse Escherichia 
+coli isolates from healthy broiler chickens. Clin Microbiol Infect 
+20: 623-626.
+
+Gales AC, Castanheira M, Jones RN, Sader HS 2012. Antimicrobial re-
+sistance among Gram-negative bacilli isolated from Latin America: 
+results from SENTRY Antimicrobial Surveillance Program (Latin 
+America, 2008-2010). Diagn Microbiol Infect Dis 73: 354-360.
+
+Jarlier V, Nicolas MH, Fournier G, Philippon A 1988. Extended broad-
+spectrum  beta-lactamases  conferring  transferable  resistance  to 
+newer beta-lactam agents in Enterobacteriaceae: hospital preva-
+lence and susceptibility patterns. Rev Infect Dis 10: 867-878.
+
+Kola A, Kohle C, Pfeifer Y, Schwab F, Kühn K, Schulz K, Balau V, 
+Breitbach K, Bast A, Witte W, Gastmeier P, Steinmetz I 2012. 
+High  prevalence  of  extended-spectrum-β-lactamase-producing 
+Enterobacteriaceae  in  organic  and  conventional  retail  chicken 
+meat, Germany. J Antimicrob Chemother 67: 2631-2634.
+
+Laube H, Friese A, von Salviati C, Guerra B, Käsbohrer A, Kreienbrock 
+L, Roesler U 2013. Longitudinal monitoring of extended-spectrum-
+beta-lactamase/AmpC-producing Escherichia coli at German broil-
+er chicken fattening farms. Appl Environ Microbiol 79: 4815-4820.
+
+Magiorakos AP, Srinivasan A, Carey RB, Carmeli Y, Falagas ME, 
+Giske CG, Harbarth S, Hindler JF, Kahlmeter G, Olsson-Liljeq-
+uist B, Paterson DL, Rice LB, Stelling J, Struelens MJ, Vatopoulos 
+A, Weber JT, Monnet DL 2012. Multidrug-resistant, extensively 
+drug-resistant  and  pandrug-resistant  bacteria:  an  international 
+expert proposal for interim standard definitions for acquired re-
+sistance. Clin Microbiol Infect 18: 268-281.
+
+MAPA - Ministério da Agricultura, Pecuária e Abastecimento Brasil 
+2009. Instrução normativa 26. Available from: extranet.agricul-
+tura.gov.br/sislegis-consulta.
+
+MARAN  -  Monitoring  of  antimicrobial  resistance  and  antibiotic 
+usage  in  animals  in  The  Netherlands  in  2009.  Available  from: 
+wageningenur.nl/upload_mm/d/7/a/cd29a66b-aaeb-4ba2-9284-
+ce21ff6acc6d_MARAN2009.pdf.
+
+Overdevest I, Willemsen I, Rijnsburger M, Eustace A, Xu L, Hawkey 
+P,  Heck  M,  Savelkoul  P,  Vandenbroucke-Grauls  C,  van  der 
+Zwaluw K, Huijsdens X, Kluytmans J 2011. Extended-spectrum 
+β-lactamase genes of Escherichia coli in chicken meat and hu-
+mans, The Netherlands. Emerg Infect Dis 17: 1216-1222.
+
+Pérez-Pérez  FJ,  Hanson  ND  2002.  Detection  of  plasmid-mediated 
+AmpC beta-lactamase genes in clinical isolates by using multi-
+plex PCR. J Clin Microbiol 40: 2153-2162.
+
+Peter-Getzlaff S, Polsfuss S, Poledica M, Hombach M, Giger J, Böttger 
+EC, Zbinden R, Bloemberg GV 2011. Detection of AmpC beta-lacta-
+mase in Escherichia coli: comparison of three phenotypic confirma-
+tion assays and genetic analysis. J Clin Microbiol 49: 2924-2932.
+
+Picão RC, Cardoso JP, Campana EH, Nicoletti AG, Petrolini FV, As-
+sis  DM,  Juliano  L,  Gales  AC  2013.  The  route  of  antimicrobial 
+resistance from the hospital effluent to the environment: focus 
+on the occurrence of KPC-producing Aeromonas spp and Ente- 
+robacteriaceae in sewage. Diagn Microbiol Infect Dis 76: 80-85.
+Stuart JC, van den Munckhof T, Voets G, Scharringa J, Fluit A, Hall 
+ML-V  2012.  Comparison  of  ESBL  contamination  in  organic  and 
+conventional retail chicken meat. Int J Food Microbiol 154: 212-214.
+Tan TY, Ng LS, He J, Koh TH, Hsu LY 2009. Evaluation of screening 
+methods to detect plasmid-mediated AmpC in Escherichia coli, 
+Klebsiella pneumoniae and Proteus mirabilis. Antimicrob Agents 
+Chemother 53: 146-149.
+
+Thorsteinsdottir  TR,  Haraldsson  G,  Fridriksdottir  V,  Kristinsson 
+KG,  Gunnarsson  E  2010.  Broiler  chickens  as  source  of  human 
+fluoroquinolone-resistant Escherichia coli, Iceland. Emerg Infect 
+Dis 16: 133-135.
+
+USITC - United States International Trade Commission 2012. Brazil: 
+competitive factors in Brazil affecting US and Brazilian agricul-
+tural sales in selected third country markets. Investigation 332-
+524. Available from: usitc.gov/publications/332/pub4310.pdf.
+
+Vincent C, Boerlin P, Daignault D, Dozois CM, Dutil L, Galanakis 
+C, Reid-Smith RJ, Tellier PP, Tellis PA, Ziebell K, Manges AR 
+2010. Food reservoir for Escherichia coli causing urinary tract 
+infections. Emerg Infect Dis 16: 88-95.
+
+Wang X, Chen J, Kang Y, Jiang N, An S, Gao Z 2012. Prevalence and 
+characterization  of  plasmid-mediated  blaESBL with  their  genetic 
+environment in Escherichia coli and Klebsiella pneumoniae in 
+patients with pneumonia. Chin Med J 125: 894-900.
+
+Warren RE, Ensor VM, O’Neill P, Butler V, Taylor J, Nye K, Harvey 
+M,  Livermore  DM,  Woodford  N,  Hawkey  PM  2008.  Imported 
+chicken meat as a potential source of quinolone-resistant Esche- 
+richia coli producing extended-spectrum beta-lactamases in the 
+UK. J Antimicrob Chemother 61: 504-508.
+
+Xu X, Cui S, Zhang F, Luo Y, Gu Y, Yang B, Li F, Chen Q, Zhou G, 
+Wang Y, Pang L, Lin L 2014. Prevalence and characterization of 
+cefotaxime and ciprofloxacin co-resistant Escherichia coli iso-
+lates in retail chicken carcasses and ground pork, China. Microb 
+Drug Resist 20: 73-81.
+
+

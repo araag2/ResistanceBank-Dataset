@@ -1,0 +1,1860 @@
+MICROBIAL DRUG RESISTANCE
+Volume 00, Number 00, 2018
+ª Mary Ann Liebert, Inc.
+DOI: 10.1089/mdr.2018.0110
+
+Prevalence of Extended-Spectrum Beta-Lactamase-Producing
+
+Gram-Negative Bacilli and Emergence of mcr-1 Colistin
+
+Resistance Gene in Lebanese Swine Farms
+
+Iman Dandachi,1,2 Elie Fayad,1 Bassel El-Bazzal,3 Ziad Daoud,1 and Jean-Marc Rolain2
+
+Livestock are considered reservoirs of multidrug-resistant organisms that can be transferred to humans through
+direct/indirect routes. Once transmitted, these organisms can be responsible for infections with therapeutic
+challenges. The aim of this study was to determine the prevalence of extended-spectrum cephalosporin and
+colistin-resistant Gram-negative bacilli in Lebanese swine farms. In May 2017, 114 fecal samples were col-
+lected from swine farms in south Lebanon. Separate media supplemented with cefotaxime, ertapenem, and
+colistin were used for the screening of resistant organisms. Double-disk synergy test and ampC disk test were
+performed to detect extended-spectrum beta-lactamase (ESBL) and ampC producers, respectively. Detection of
+beta-lactamase and mcr genes was performed using real time PCR. Of 114 fecal samples, 76 showed growth on
+the medium with cefotaxime. In total, 111 strains were isolated with 94.5% being Escherichia coli. Phenotypic
+tests showed that 98, 6, and 7 strains were ESBL, ampC, and ESBL/ampC producers, respectively. CTX-M and
+CMY were the main beta-lactamase genes detected. On the medium with colistin, 19 samples showed growth.
+In total, 23 colistin-resistant E. coli strains harboring the mcr-1 gene were isolated. This is the ﬁrst study in
+Lebanon determining multidrug resistance epidemiology in pigs. The prevalence of ESBLs is high and the
+emergence of colistin resistance is alarming.
+
+Keywords: ampC, ESBL, E. coli, mcr-1, pigs
+
+Introduction
+
+R esistance in Gram-negative bacilli
+
+toward the
+most common antibiotics administered in the human
+medicine, that is, beta-lactams has signiﬁcantly increased in
+the past decade.1 Resistance to beta-lactams and carbapenems
+in Gram-negative bacteria is mainly mediated through the
+production of extended-spectrum beta-lactamases (ESBLs),
+ampC beta-lactamases, and carbapenemases.1 Genes encoding
+these enzymes are often colocalized on plasmids harboring
+resistance genes to other commonly prescribed antibiotics in
+human medicine such as aminoglycosides and quinolones.1
+Dissemination of resistant organisms often results in reducing
+the efﬁcacy of beta-lactam antibiotics, thus limiting treatment
+options of infectious diseases.2
+
+This is currently emphasized with the recent emergence
+of colistin resistance in Gram-negative bacilli. Colistin be-
+longs to the polymyxin antibiotics family that acts on the
+lipopolysaccharide (LPS) chain of the bacteria and leads
+to increased permeability of the outer membrane and sub-
+sequent cellular leakage followed by cell death.3 In human
+
+medicine history, colistin was abandoned because of its
+nephrotoxicity and neurotoxicity inside human body.4 How-
+ever, because of the widespread multidrug-resistant (MDR)
+organisms, mainly carbapenem-resistant organisms, colistin
+was reintroduced in clinical settings.5 This antibiotic revival
+had to face the emergence of colistin resistance in bacteria
+of human and animal origin.6
+
+Before 2015, colistin resistance was thought to be only
+mediated through chromosomal mutations that leads to the
+alteration of the lipid A subunit of the LPS chain by the
+addition of 4-amino-4-deoxy-l-arabinose (l-Ara4N) and/or
+phosphoethanolamine (PEtN),6 thus resulting in a reduced
+binding to colistin and subsequently bacterial resistance.6
+However, in 2016, Liu et al. reported the ﬁrst detection of a
+transferable phosphoenolamine transferase named mcr-1 gene
+in Escherichia coli strains isolated from pigs and meat.7 In
+this context, mcr-1 was reported from clinical and animal
+isolates across all continents. Furthermore, mcr variants, that
+is, mcr-2,8 mcr-3,9 mcr-4,10 and mcr-511 have also emerged.
+Nowadays, farm animals are considered reservoirs of anti-
+microbial resistance.12 The unregulated use of antibiotics is
+
+1Faculty of Medicine and Medical Sciences, Clinical Microbiology Laboratory, University of Balamand, Beirut, Lebanon.
+2IRD, APHM, MEPHI, IHU-Me´diterrane´e-Infection, Aix Marseille University, Marseille, France.
+3Ministry of Agriculture, Beirut, Lebanon.
+
+1
+
+Downloaded by Queen Mary & Westfield Coll from www.liebertpub.com at 08/25/18. For personal use only. 2
+
+DANDACHI ET AL.
+
+considered among the most common drivers for the emer-
+gence of resistance in livestock.13 Indeed, antibiotics are
+given not only for treatment but are also prescribed for
+prophylaxis and administered as growth promoters.13 The
+major public health concern about multidrug resistance
+spread in animals is the potential transmission to humans
+through direct contact or indirectly through the consump-
+tion of undercooked/uncooked animal-origin food.14 Once
+transmitted, these organisms can cause infections with lim-
+ited therapeutic options, especially those cross-resistant to
+antibiotics frequently used in the human medicine.15
+
+In Lebanon, the dissemination of MDR organisms in the
+clinical settings is well documented16–20; however, studies
+addressing multidrug resistance in animals remain scarce.
+One study carried by Diab et al. showed a relatively high
+prevalence of the CTX-M-15 ESBL type in E. coli of cattle
+origin in Lebanon.21 More recently, a nationwide study
+conducted in Lebanese chicken farms reported an elevated
+level of ESBL/ampC-producing Gram-negative bacilli in-
+testinal carriage.22 Recently, our group reported the ﬁrst
+detection of an E. coli isolated from poultry in south Le-
+banon harboring the mcr-1 colistin resistance gene in ad-
+dition to the TEM-135-like ESBL gene.23 In pigs, only one
+study reported the detection of an OXA-23-producing
+Acinetobacter baumannii in northern Lebanon.24 The prev-
+alence of MDR organisms in the Lebanese swine farms
+remains unknown. In collaboration with the ministry of
+agriculture, the aim of this study was to determine the prev-
+alence of extended-spectrum cephalosporin and colistin-
+resistant Gram-negative bacilli in Lebanese swine farms.
+
+Materials and Methods
+
+Ethics statement and collection of samples
+
+The Ministry of Agriculture in Lebanon approved the
+collection of fecal samples from swine farms. The sampling
+was realized in compliance with the national guidelines for
+animal safety. On May 30, 2017, 111 fecal samples were
+randomly collected from 3 different swine farms located in
+south Lebanon. In addition, three fecal samples were taken
+from three wild pigs living in the same region. The number
+of samples collected was relatively proportional to the farms
+size that ranged from 20 to 120 pigs per farm (Table 1). The
+fecal samples were collected using sterile urine cups and
+
+directly placed in a portable refrigerator; then when taken to
+the university laboratory, they were stored at -80°C until
+being used.
+
+Screening of resistant organisms and identiﬁcation
+
+Each fecal sample was mixed in a sterile container and
+then a swab was used to subculture a considerable amount
+on MacConkey agars supplemented separately with cefo-
+taxime (2 mg/mL), ertapenem (1 mg/mL), and colistin (4 mg/L)
+for the screening of resistant Gram-negative bacilli. After
+overnight incubation at 37°C, isolated colonies with differ-
+ent morphologies were separately taken from each plate and
+identiﬁed by matrix-assisted laser desorption/ionization
+time-of-ﬂight mass spectrometry (MALDI-TOF MS) with a
+score value ‡1.9 using the Microﬂex LT spectrometer
+(Bruker Daltonics, Bremen, Germany).25 Thereafter,
+the
+strains were conserved in 40% glycerol aliquots at -80°C
+for further tests.
+
+Antibiotic susceptibility testing
+
+ciproﬂoxacin,
+
+gentamicin,
+and
+
+Antibiotic susceptibility testing was performed using the
+Kirby–Bauer disk diffusion method and interpreted according
+to the European Committee on Antimicrobial Susceptibility
+Testing (EUCAST) guidelines 2017.26 A total of 16 anti-
+biotics were tested involving 11 beta-lactams (ampicillin,
+amoxicillin–clavulanic acid, aztreonam, cefotaxime, cefta-
+zidime, cefoxitin [FOX], cefepime, piperacillin–tazobactam,
+ertapenem, meropenem, imipenem) and 5 non-beta-lactams
+(colistin,
+trimethoprim–
+sulfamethoxazole
+tigecycline; Bio-Rad, Marnes-
+la-Coquette, France). The phenotypic detection of ESBL was
+performed using the double-disk synergy test by placing an
+amoxicillin–clavulanic acid disk between cefepime, ceftazi-
+dime, and aztreonam. Formation of a keyhole effect was
+considered as a phenotypic indication of ESBL production.
+Regarding screening of ampC beta-lactamase and carbape-
+nemase production, ampC disk test and carba NP test were
+performed, respectively, as previously described.27,28 Fur-
+thermore, all isolates having a narrow diameter zone of in-
+hibition around the colistin disk were subjected to colistin
+broth microdilution test as previously described.26 An isolate
+is termed as MDR if this latter was resistant to three different
+classes of antibiotics at least.29
+
+Table 1. Distribution of Extended-Spectrum Beta-Lactamase/ampC-Producing
+
+and Colistin-Resistant Gram-Negative Bacilli per Farm
+
+AB used
+
+Collected
+samples, n
+
+ESBLs/ampCs
+
+ESBLs/ampCs
+
+samples, n
+
+isolates, n
+
+Species
+
+samples, n
+
+isolates, n Species
+
+Col/R
+
+Col/R
+
+Farm 1
+
+(n = 120)
+
+Enroﬂoxacin
+
+60
+
+Farm 2
+
+(n = 20)
+
+Farm 3
+
+(n = 100)
+
+Unknown
+
+Unknown
+
+WP (n = 3) Unknown
+
+15
+
+36
+
+3
+
+42
+
+8
+
+24
+
+2
+
+65
+
+9
+
+35
+
+2
+
+60 Escherichia coli,
+
+4 Escherichia fergusonii,
+1 Klebsiella pneumoniae
+8 E. coli, 1 K. pneumoniae
+
+E. coli
+
+E. coli
+
+8
+
+4
+
+7
+
+0
+
+E. coli
+
+E. coli
+
+E. coli
+
+8
+
+5
+
+10
+
+0
+
+AB, antibiotic; Col/R, colistin resistant; ESBLs, extended-spectrum beta-lactamases; WP, wild pigs.
+
+Downloaded by Queen Mary & Westfield Coll from www.liebertpub.com at 08/25/18. For personal use only. ESBL AND MCR-1 IN LEBANESE SWINE FARMS
+
+3
+
+PCR identiﬁcation of beta-lactamase genes
+
+All isolates showing a keyhole effect or having resistance
+to both cefoxitin and cefepime were subjected to real-time
+PCR analysis for blaCTX-M, blaSHV, and blaTEM genes
+screening.30 Furthermore, all strains found positive to the
+ampC disk test were also tested for genes encoding ampC
+beta-lactamases FOX, MOX, ACC, EBC, DHA, and CMY
+using simplex PCRs.31 DNA extraction was performed using
+EZ1 DNA extraction kit (Qiagen, Courtaboeuf, France),
+following manufacturer instructions with an EZ1 Advanced
+XL biorobot.
+
+Molecular characterization of mcr-1 colistin
+resistance gene
+
+All strains having a colistin minimum inhibitory con-
+centration (MIC) ‡2 mg/mL were subjected to standard PCR
+ampliﬁcation and sequencing for the detection of mcr-1
+colistin resistance gene. DNA extraction was carried out
+using an EZ1 DNA extraction kit (Qiagen) with an EZ1
+Advanced XL biorobot. Primers used in molecular analysis
+were previously described in other studies.32
+
+Results
+
+Prevalence of beta-lactamase producers
+and colistin-resistant Gram-negative bacilli
+
+Of 114 fecal samples collected, 76 (66.5%) showed
+positive growth on the selective medium supplemented with
+cefotaxime. In total, 111 MDR strains were isolated ac-
+cording to the following distribution: 65 strains in farm 1, 9
+in farm 2, 35 in farm 3, and 2 isolates from the wild pigs.
+MALDI-TOF MS identiﬁcation revealed that E. coli made
+up to 94.5% of isolated MDR strains, Escherichia fergusonii
+3.5%, and Klebsiella pneumoniae 2% (Table 1). Besides, 23
+colistin-resistant E. coli strains isolated from 19 fecal sam-
+ples were obtained. No carbapenemase producers were de-
+tected in this study.
+
+Phenotypic proﬁles of beta-lactamase producers
+
+The resistance proﬁles of isolated ESBL and/or ampC-
+producing Gram-negative bacilli are summarized in Table 2.
+All ESBL/ampC-producing strains were susceptible to co-
+listin and carbapenems. Carba np test, double-disk synergy
+test, and ampC disk test revealed the absence of carbape-
+nemase producers, 98 isolates (88.5%) were categorized as
+ESBL producers, 7 (6%) as ESBL/ampC coproducers, and 6
+strains (5.5%) as solely ampC producers. K. pneumoniae
+isolates were only ESBL producers, whereas three E. fer-
+gusonii were categorized as ampC producers and one as an
+ESBL producer. Coproduction of ESBL and ampC was
+only detected in E. coli
+isolates. Regarding non-beta-
+lactam antibiotics resistance in the aforementioned strains,
+one isolate was coresistant to all non-beta-lactams tested:
+tigecycline, gentamicin, ciproﬂoxacin, and trimethoprim–
+sulfamethoxazole, 32 (29%) were co-resistant to 3 non-
+beta-lactams, 59 (53%) to 2 non-beta-lactams, 16 (14%) to
+1 non-beta-lactam, and three strains were susceptible to all
+non-beta-lactam antibiotics. Overall, 83% of beta-
+lactamase-producing Gram-negative bacilli in this study
+were co-resistant to at least two non-beta-lactams.
+
+f
+o
+%
+
+C
+p
+m
+a
+/
+L
+B
+S
+E
+
+f
+o
+%
+
+C
+p
+m
+a
+
+7
+
+3
+
+0
+8
+
+e
+p
+y
+t
+o
+n
+e
+h
+P
+
+-
+
+i
+l
+l
+i
+c
+a
+B
+e
+v
+i
+t
+a
+g
+e
+N
+m
+a
+r
+G
+g
+n
+i
+c
+u
+d
+o
+r
+P
+-
+C
+p
+m
+a
+/
+e
+s
+a
+m
+a
+t
+c
+a
+L
+-
+a
+t
+e
+B
+
+m
+u
+r
+t
+c
+e
+p
+S
+-
+d
+e
+d
+n
+e
+t
+x
+E
+
+f
+o
+
+s
+e
+l
+ﬁ
+o
+r
+P
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+R
+
+.
+
+2
+
+e
+l
+b
+a
+T
+
+g
+n
+i
+t
+s
+e
+t
+
+y
+t
+i
+l
+i
+b
+i
+t
+p
+e
+c
+s
+u
+s
+
+c
+i
+t
+o
+i
+b
+i
+t
+n
+A
+
+L
+B
+S
+E
+
+f
+o
+%
+
+T
+N
+G
+
+P
+I
+C
+
+T
+X
+S
+
+C
+G
+T
+
+Z
+T
+P
+
+P
+E
+F
+
+G
+U
+A
+
+Z
+A
+C
+
+X
+O
+F
+
+T
+Z
+A
+
+X
+T
+C
+
+P
+M
+A
+
+s
+e
+i
+c
+e
+p
+S
+
+0
+9
+
+0
+2
+
+0
+0
+1
+
+)
+2
+4
+(
+
+)
+0
+8
+(
+
+)
+0
+(
+
+3
+
+0
+
+4
+4
+
+)
+0
+0
+1
+(
+
+)
+0
+5
+(
+
+4
+
+1
+
+)
+8
+7
+(
+
+2
+8
+
+)
+2
+9
+(
+
+)
+0
+2
+(
+
+)
+0
+5
+(
+
+1
+
+1
+
+7
+9
+
+)
+1
+(
+
+)
+0
+(
+
+)
+0
+(
+
+1
+
+0
+
+0
+
+)
+1
+(
+
+)
+0
+(
+
+)
+0
+(
+
+1
+
+0
+
+0
+
+)
+0
+0
+1
+(
+
+)
+0
+(
+
+0
+
+2
+
+)
+0
+0
+1
+(
+
+)
+0
+5
+(
+
+4
+
+1
+
+)
+0
+0
+1
+(
+
+)
+0
+5
+(
+
+4
+
+1
+
+)
+0
+0
+1
+(
+
+)
+0
+(
+
+4
+
+0
+
+)
+4
+5
+(
+
+7
+5
+
+)
+6
+4
+(
+
+8
+4
+
+)
+2
+4
+(
+
+4
+4
+
+)
+4
+2
+(
+
+5
+2
+
+)
+3
+4
+(
+
+)
+0
+8
+(
+
+)
+0
+5
+(
+
+3
+
+1
+
+5
+4
+
+)
+7
+6
+(
+
+)
+0
+5
+(
+
+)
+0
+0
+1
+(
+
+2
+
+2
+
+0
+7
+
+)
+0
+0
+1
+(
+
+)
+0
+0
+1
+(
+
+4
+
+2
+
+)
+8
+9
+(
+
+3
+0
+1
+
+)
+2
+=
+n
+(
+
+)
+4
+=
+n
+(
+
+)
+5
+0
+1
+=
+n
+(
+
+i
+l
+o
+c
+
+e
+a
+i
+n
+o
+m
+u
+e
+n
+p
+
+i
+i
+n
+o
+s
+u
+g
+r
+e
+f
+
+.
+
+E
+
+.
+
+E
+
+.
+
+K
+
+,
+
+T
+X
+S
+
+;
+n
+i
+c
+i
+m
+a
+t
+n
+e
+g
+
+,
+
+T
+N
+G
+
+;
+n
+i
+t
+i
+x
+o
+f
+e
+c
+
+,
+
+X
+O
+F
+
+;
+e
+m
+i
+p
+e
+f
+e
+c
+
+,
+
+P
+E
+F
+
+;
+e
+m
+i
+x
+a
+t
+o
+f
+e
+c
+
+,
+
+X
+T
+C
+
+;
+n
+i
+c
+a
+x
+o
+ﬂ
+o
+r
+p
+i
+c
+
+,
+
+P
+I
+C
+
+;
+e
+m
+i
+d
+i
+z
+a
+t
+f
+e
+c
+
+,
+
+Z
+A
+C
+
+;
+
+m
+a
+n
+o
+e
+r
+t
+z
+a
+
+,
+
+T
+Z
+A
+
+;
+d
+i
+c
+a
+
+c
+i
+n
+a
+l
+u
+v
+a
+l
+c
+–
+n
+i
+l
+l
+i
+c
+i
+x
+o
+m
+a
+
+,
+
+G
+U
+A
+
+;
+n
+i
+l
+l
+i
+c
+i
+p
+m
+a
+
+,
+
+P
+M
+A
+
+.
+
+m
+a
+t
+c
+a
+b
+o
+z
+a
+t
+–
+n
+i
+l
+l
+i
+c
+a
+r
+e
+p
+i
+p
+
+,
+
+Z
+T
+P
+
+;
+e
+n
+i
+l
+c
+y
+c
+e
+g
+i
+t
+
+,
+
+C
+G
+T
+
+;
+e
+l
+o
+z
+a
+x
+o
+h
+t
+e
+m
+a
+f
+l
+u
+s
+–
+m
+
+i
+r
+p
+o
+h
+t
+e
+m
+
+i
+r
+t
+
+.
+)
+e
+g
+a
+t
+n
+e
+c
+r
+e
+p
+(
+
+r
+e
+b
+m
+u
+n
+
+s
+a
+
+d
+e
+t
+n
+e
+s
+e
+r
+p
+
+e
+r
+a
+
+s
+e
+l
+ﬁ
+o
+r
+p
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+R
+
+Downloaded by Queen Mary & Westfield Coll from www.liebertpub.com at 08/25/18. For personal use only. 4
+
+DANDACHI ET AL.
+
+Molecular characterization of beta-lactamase genes
+
+A total of 105 Gram-negative bacilli having ESBL phe-
+notypes were subjected to real-time PCR analysis for the
+screening of CTX-M-, TEM-, and SHV-encoding genes.
+CTX-M was detected in 83 (79%) ESBL isolates, TEM in
+57 (54%), and SHV in 9 (8.5%). In total, 12 strains (11%)
+showed the coexistence of the 3 bla genes together, 43
+(41%) showed the coexistence of 2 bla genes, and 57 (54%)
+harbored only 1 beta-lactamase gene. In addition, CMY was
+the only ampC-encoding gene detected in ampC and ESBL/
+ampC coproducers.
+
+Colistin-resistant isolates: resistance proﬁles
+and genotype
+
+The detailed proﬁle of the resistance of E. coli colistin-
+resistant strains isolated in this study is given in Fig. 1. To
+summarize, 4 of the 23 strains were colistin resistant and
+also ESBL producers, whereas the remaining strains (19
+isolates) were susceptible to all beta-lactams tested, except
+for ampicillin. Resistance rates toward non-beta-lactam an-
+tibiotics varied: eight strains were co-resistant to gentami-
+cin,
+and trimethoprim–sulfamethoxazole,
+seven strains were resistant to two non-beta-lactams, two
+were resistant to only one non-beta-lactam antibiotic and
+six strains were susceptible to all non-beta-lactams tested.
+Colistin MICs of the 23 E. coli isolates ranged between 4
+and 16 mg/mL except 1 strain having an MIC of 256 mg/mL.
+Standard PCR and sequencing revealed that all the strains
+were mcr-1 positive. In the four ESBL mcr-1-positive re-
+
+ciproﬂoxacin,
+
+sistant
+isolates, CTX-M was detected in two strains,
+whereas SHV and TEM were detected in all four strains
+(Fig. 1).
+
+Discussion
+
+Antimicrobial resistance is rapidly evolving and dissem-
+inating worldwide. In the context of antimicrobial resistance
+in the one health concept, livestock (i.e., pigs, poultry, and
+cattle) is now considered as a major reservoir of MDR or-
+ganisms and antibiotic resistance genes.12 In Lebanon, few
+studies have been conducted to determine the prevalence of
+MDR organisms in Lebanese livestock21; however in pork,
+only one study reported the detection of a carbapenemase-
+producing A. baumannii isolate from a pig in northern Le-
+banon.24 To the best of our knowledge, our study is the ﬁrst
+in Lebanon to describe the epidemiology of beta-lactamase-
+producing Gram-negative bacilli in Lebanese swine farms. It
+is worth mentioning that the number of samples collected
+was not relatively high because only few swine farms are
+accessible in Lebanon. The role of the Ministry of Agriculture
+was essential to carry out this study because it provided the
+legal permission to access and sample the different sites.
+
+In our
+
+investigation, ESBL/ampC-producing Gram-
+negative bacilli were detected in 66.5% of the collected
+fecal samples (Table 1). Compared with other epidemio-
+logical studies investigating pigs worldwide, the prevalence
+in Lebanon is not far from what is reported in Belgium
+(75%)33 and Germany (88%)34 but is still much higher than
+those reported in China (32%),35 United Kingdom (23%),36
+
+FIG. 1. Resistance proﬁles of mcr-1 colistin-resistant Escherichia coli isolates. AMP, ampicillin; AUG, amoxicillin–
+clavulanic acid; AZT, aztreonam; bla, beta-lactamase; Carb, carbapenems; CAZ, ceftazidime; CIP, ciproﬂoxacin; CTX,
+cefotaxime; FEP, cefepime; FOX, cefoxitin; GNT, gentamicin; R,
+trimethoprim–
+sulfamethoxazole; TGC, tigecycline; PTZ, piperacillin–tazobactam.
+
+resistant; S, sensitive; SXT,
+
+Downloaded by Queen Mary & Westfield Coll from www.liebertpub.com at 08/25/18. For personal use only. ESBL AND MCR-1 IN LEBANESE SWINE FARMS
+
+5
+
+Denmark (18.5%),37 Switzerland (15%),38 and Thailand
+(2.4%).39 Differences in the number of samples and
+screening methodologies, in addition to the level and type of
+antibiotics prescribed in the farms of each country could
+explain these differences.3 The aforementioned concept
+applies also to prevalence of mcr-1-positive E. coli strains
+detected in our previous study (17%) compared with other
+international studies: Portugal (98%),40 Vietnam (37.5%),41
+China (20.6%),7 Japan (1%),42 France (0.5%)43 and United
+States (0.35%).44
+
+level of
+
+In this study, 83% of ESBL/ampC producers were co-
+resistant to at least two non-beta-lactam antibiotics with
+the highest
+resistance being observed against
+trimethoprim–sulfamethoxazole and ciproﬂoxacin. During
+our samples collection, we tried hard to collect correct data
+on the types and quantities of antibiotics used in the different
+farms, a mission nearly impossible. Indeed, despite the of-
+ﬁcial presence of the Ministry of Agriculture, the coopera-
+tion of the farm owners was not easy to get, and there was
+no clear distinction between different uses of antibiotic in
+farms investigated (treatment of infections, prevention on
+infection, and growth enhancement). Unofﬁcially, we were
+informed that enroﬂoxacin is frequently administered to
+pork in Lebanon. In fact, it has been reported that in pigs,
+penicillins are used to treat necrotic enteritis, whereas
+cephalosporins such as cefquinome and ceftiofur are pre-
+scribed for polyarthritis, septicemia, polyserositis, and re-
+spiratory infections.2 Use of non-beta-lactams such as
+gentamicin, ﬂuoroquinolones, aminoglycosides, and colistin
+was also reported.45,46
+
+the molecular level,
+
+On the contrary, it is not clear to us to which extent
+international guidelines and recommendations for hygiene
+and waste management in pig farms are applied in our
+country. Questionable hygiene, poor feed quality, and bad
+waste management imply another important drive in the
+emergence of multidrug resistance in pigs in addition to the
+overuse of antibiotics that facilitates the transmission of
+resistant organisms from pigs to their surrounding environ-
+ment and vice versa. At
+the most
+commonly detected beta-lactamase gene was the CTX-M.
+This gene was highly reported in Lebanon in the clinical
+settings16,47 and in cattle21 and poultry.22 CTX-M is also the
+main ESBL type reported globally in farm animals.36,37,39,48
+As for ampC producers, this study showed that CMY was
+the only ampC beta-lactamase gene detected in swine farms
+in Lebanon. The same observation was also made in chicken
+farms (data not given). It has been shown worldwide that
+this gene is the most common ampC beta-lactamase gene
+detected in poultry,49,50 food-producing animals,51,52 and
+healthy pets.53,54 In this study, it has not escaped our at-
+tention that no carbapenemase producers were detected.
+This is in accordance with another study performed by our
+group in poultry farms22 reﬂecting that carbapenemase pro-
+ducers are really scarce in Lebanese livestock.
+
+Furthermore, in this study we report for the ﬁrst time the
+detection of mcr-1 in pork in Lebanon. In this country, mcr-
+1 gene was ﬁrst reported in chicken during an epidemio-
+logical study aiming at determining the prevalence of MDR
+organisms in Lebanese chicken farms.23 The MIC values of
+colistin in mcr-1-producing E. coli isolates in this study
+range between 4 and 16 mg/mL. These results are in accor-
+dance with other studies showing that mcr-1-harboring
+
+isolates do not usually have elevated colistin MICs.55,56
+Some reports showed that mcr-1-positive E. coli isolate
+could have a colistin MIC as low as 2 mg/mL.57 In our
+collection of mcr-1 strains, only one ESBL-producing
+E. coli had a colistin MIC of 256 mg/mL. This elevated MIC
+might be attributed to additional chromosomal mutations in
+the phoP/Q, pmrA/B, and mgrB genes as reported previously
+in the literature.5 However, further genomic analysis is
+needed to explore this possibility. Delannoy et al. reported
+the isolation of E. coli strains harboring mcr-1 and having
+amino acid mutations in the phoP/Q, pmrA/B, and mgrB
+genes from diseased pigs in France.57
+
+Furthermore, it is worth mentioning that, as given in
+Fig. 1, none of the colistin-resistant isolates was pandrug
+resistant, but rather remained susceptible to the majority
+of the tested antibiotics, except four strains that were
+ESBL producers. The coexistence of mcr-1- and ESBL/
+carbapenemase-encoding genes was previously reported in
+several studies in the literature.58,59 Resistance proﬁles of
+mcr-1 strains in this study possibly illustrate an over-
+estimated fear of colistin resistance. E. coli colistin-resistant
+isolates will pose therapeutic challenges only if transmission
+of MDR strains to humans occurs.
+
+In conclusion, this study describes the epidemiology of
+ESBL/ampC-producing Gram-negative bacilli in Lebanese
+swine farms. The emergence of mcr-1 in pigs is alarming.
+The level of antibiotic consumption in Lebanese swine
+farms remains unknown; a more transparent policy should
+be adopted in this context. Therefore, the surveillance and
+control programs addressing antibiotic consumption in Le-
+banese farms, especially in pigs, are urgently needed. Future
+studies should not only focus on antimicrobials usage but
+also on the risk factors associated with the carriage of MDR
+organisms in pigs.
+
+Acknowledgments
+
+The authors thank CookieTrad for English corrections.
+This work was supported by the Lebanese Council for Re-
+search and the French Government under the ‘‘Investisse-
+ments d’avenir’’
+the Future) program
+managed by the Agence Nationale de la Recherche (ANR,
+fr: National Agency for Research), reference: Me´diterrane´e
+Infection 10-IAHU-03.
+
+(Investments for
+
+Disclosure Statement
+
+No competing ﬁnancial interests exist.
+
+References
+
+1. Ruppe, E., P.L. Woerther, and F. Barbier. 2015. Mechan-
+isms of antimicrobial resistance in gram-negative bacilli.
+Ann. Intensive Care 5:21.
+
+2. Seiffert, S.N., M. Hilty, V. Perreten, and A. Endimiani.
+2013. Extended-spectrum cephalosporin-resistant gram-
+negative organisms in livestock: an emerging problem for
+human health? Drug Resist. Updat. 16:22–45.
+
+3. Rhouma, M., F. Beaudry, and A. Letellier. 2016. Resistance
+to colistin: what is the fate for this antibiotic in pig pro-
+duction? Int. J. Antimicrob. Agents 48:119–126.
+
+4. Olaitan, A.O., and J. Li. 2016. Emergence of polymyxin
+resistance in gram-negative bacteria. Int. J. Antimicrob.
+Agents 48:581–582.
+
+Downloaded by Queen Mary & Westfield Coll from www.liebertpub.com at 08/25/18. For personal use only. 6
+
+DANDACHI ET AL.
+
+5. Olaitan, A.O., S. Morand, and J.M. Rolain. 2014. Me-
+chanisms of polymyxin resistance: acquired and intrinsic
+resistance in bacteria. Front. Microbiol. 5:643.
+
+6. Baron, S., L. Hadjadj, J.M. Rolain, and A.O. Olaitan. 2016.
+Molecular mechanisms of polymyxin resistance: knowns
+and unknowns. Int. J. Antimicrob. Agents 48:583–591.
+
+7. Liu, Y.Y., Y. Wang, T.R. Walsh, L.X. Yi, R. Zhang, J.
+Spencer, Y. Doi, G. Tian, B. Dong, X. Huang, L.F. Yu, D.
+Gu, H. Ren, X. Chen, L. Lv, D. He, H. Zhou, Z. Liang, J.H.
+Liu, and J. Shen. 2016. Emergence of plasmid-mediated
+colistin resistance mechanism MCR-1 in animals and
+human beings in China: a microbiological and molecular
+biological study. Lancet Infect. Dis. 16:161–168.
+
+8. Xavier, B.B., C. Lammens, R. Ruhal, S. Kumar-Singh, P.
+Butaye, H. Goossens, and S. Malhotra-Kumar. 2016. Iden-
+tiﬁcation of a novel plasmid-mediated colistin-resistance
+gene, mcr-2, in Escherichia coli, Belgium. Euro. Surveill.
+21:1–6.
+
+9. Yin, W., H. Li, Y. Shen, Z. Liu, S. Wang, Z. Shen, R.
+Zhang, T.R. Walsh, J. Shen, and Y. Wang. 2017. Novel
+plasmid-mediated colistin resistance gene mcr-3 in Es-
+cherichia coli. MBio 8:pii:e00543-17.
+
+10. Carattoli, A., L. Villa, C. Feudi, L. Curcio, S. Orsini, A.
+Luppi, G. Pezzotti, and C.F. Magistrali. 2017. Novel
+plasmid-mediated colistin resistance mcr-4 gene in Sal-
+monella and Escherichia coli, Italy 2013, Spain and Bel-
+gium, 2015 to 2016. Euro. Surveill. 22:pii:30589.
+
+11. Borowiak, M., J. Fischer, J.A. Hammerl, R.S. Hendriksen,
+I. Szabo, and B. Malorny. 2017. Identiﬁcation of a novel
+transposon-associated
+transferase
+gene, mcr-5, conferring colistin resistance in d-tartrate
+fermenting Salmonella enterica subsp. enterica serovar
+paratyphi B. J. Antimicrob. Chemother. 72:3317–3324.
+
+phosphoethanolamine
+
+12. Szmolka, A., and B. Nagy. 2013. Multidrug resistant
+commensal Escherichia coli in animals and its impact for
+public health. Front. Microbiol. 4:258.
+
+13. Barton, M.D. 2014. Impact of antibiotic use in the swine
+
+industry. Curr. Opin. Microbiol. 19:9–15.
+
+14. Dahms, C., N.O. Hubner, F. Wilke, and A. Kramer. 2014.
+Mini-review: epidemiology and zoonotic potential of mul-
+tiresistant bacteria and Clostridium difﬁcile in livestock and
+food. GMS Hyg. Infect. Control 9:Doc21.
+
+15. Overdevest, I., I. Willemsen, M. Rijnsburger, A. Eustace,
+L. Xu, P. Hawkey, M. Heck, P. Savelkoul, C.
+Vandenbroucke-Grauls, K. van der Zwaluw, X. Huijsdens,
+and J. Kluytmans. 2011. Extended-spectrum beta-lactamase
+genes of Escherichia coli in chicken meat and humans, the
+Netherlands. Emerg. Infect. Dis. 17:1216–1222.
+
+16. Baroud, M., I. Dandache, G.F. Araj, R. Wakim, S. Kanj, Z.
+Kanafani, M. Khairallah, A. Sabra, M. Shehab, G. Dbaibo,
+and G.M. Matar. 2013. Underlying mechanisms of carba-
+penem resistance in extended-spectrum beta-lactamase-
+producing Klebsiella pneumoniae and Escherichia coli
+isolates at a tertiary care centre in Lebanon: role of OXA-
+48 and NDM-1 carbapenemases. Int. J. Antimicrob. Agents
+41:75–79.
+
+17. El-Herte, R.I., G.F. Araj, G.M. Matar, M. Baroud, Z.A.
+Kanafani, and S.S. Kanj. 2012. Detection of carbapenem-
+resistant Escherichia coli and Klebsiella pneumoniae
+producing NDM-1 in Lebanon. J. Infect. Dev. Ctries. 6:
+457–461.
+
+18. Moghnieh, R., N. Estaitieh, A. Mugharbil, T. Jisr, D.I.
+Abdallah, F. Ziade, L. Sinno, and A. Ibrahim. 2015. Third
+generation cephalosporin resistant enterobacteriaceae and
+
+multidrug resistant gram-negative bacteria causing bacter-
+emia in febrile neutropenia adult cancer patients in Leba-
+non, broad spectrum antibiotics use as a major risk factor,
+and correlation with poor prognosis. Front. Cell. Infect.
+Microbiol. 5:11.
+
+19. Daoud, Z., E. Salem Sokhn, K. Masri, K. Cheaito, N.
+Haidar-Ahmad, G.M. Matar, and S. Doron. 2015. Corri-
+gendum: Escherichia coli isolated from urinary tract in-
+fections of Lebanese patients between 2005 and 2012:
+epidemiology and proﬁles of
+resistance. Front. Med.
+(Lausanne) 2:66.
+
+20. Al Atrouni, A., M. Hamze, T. Jisr, C. Lemarie, M.
+Eveillard, M.L. Joly-Guillou, and M. Kempf. 2016. Wide
+spread of OXA-23-producing carbapenem-resistant Acine-
+tobacter baumannii belonging to clonal complex II in
+different hospitals in Lebanon. Int. J. Infect. Dis. 52:
+29–36.
+
+21. Diab, M., M. Hamze, J.Y. Madec, and M. Haenni. 2016.
+High prevalence of non-ST131 CTX-M-15-producing Es-
+cherichia coli in healthy cattle in Lebanon. Microb. Drug
+Resist. 23:261–266.
+
+22. Dandachi, I., E.S. Sokhn, E. Dahdouh, E. Azar, B. El-
+Bazzal, J. Rolain, and Z. Daoud. 2018. Prevalence and
+characterization of multi-drug-resistant gram-negative ba-
+cilli isolated from Lebanese poultry: a nationwide study.
+Front. Microbiol. 9:550.
+
+23. Dandachi, I., T. Leangapichart, Z. Daoud, and J.M. Rolain.
+2018. First detection of mcr-1 plasmid mediated colistin
+resistant E. coli in Lebanese poultry. J. Glob. Antimicrob.
+Resist. 12:137–138.
+
+24. Al Bayssari, C., F. Dabboussi, M. Hamze, and J.M. Rolain.
+2015. Emergence of carbapenemase-producing Pseudomo-
+nas aeruginosa and Acinetobacter baumannii in livestock
+animals in Lebanon. J. Antimicrob. Chemother. 70:950–
+951.
+
+25. Seng, P., J.M. Rolain, P.E. Fournier, B. La Scola, M.
+Drancourt, and D. Raoult. 2010. MALDI-TOF-mass spec-
+trometry applications in clinical microbiology. Future Mi-
+crobiol. 5:1733–1754.
+
+26. European Committee on Antimicrobial Susceptibility
+Testing. 2017. Breakpoint tables for interpretation of MICs
+and zone diameters, version 7.1. Available at www.eucast
+.org/ﬁleadmin/src/media/PDFs/EUCAST_ﬁles/Breakpoint_
+tables/v_7.1_Breakpoint_Tables.pdf (accessed December
+12, 2017).
+
+27. Black, J.A., E.S. Moland, and K.S. Thomson. 2005.
+AmpC disk test for detection of plasmid-mediated AmpC
+beta-lactamases in enterobacteriaceae lacking chromo-
+somal AmpC beta-lactamases. J. Clin. Microbiol. 43:
+3110–3113.
+
+28. Bakour, S., V. Garcia, L. Loucif, J.M. Brunel, A. Gharout-
+Sait, A. Touati, and J.M. Rolain. 2015. Rapid identiﬁcation
+of carbapenemase-producing enterobacteriaceae, Pseudo-
+monas aeruginosa and Acinetobacter baumannii using
+a modiﬁed carba NP test. New Microbes New Infect. 7:
+89–93.
+
+29. Magiorakos, A.P., A. Srinivasan, R.B. Carey, Y. Carmeli,
+M.E. Falagas, C.G. Giske, S. Harbarth, J.F. Hindler, G.
+Kahlmeter, B. Olsson-Liljequist, D.L. Paterson, L.B. Rice,
+J. Stelling, M.J. Struelens, A. Vatopoulos, J.T. Weber, and
+D.L. Monnet. 2012. Multidrug-resistant, extensively drug-
+resistant and pandrug-resistant bacteria: an international
+expert proposal for interim standard deﬁnitions for acquired
+resistance. Clin. Microbiol. Infect. 18:268–281.
+
+Downloaded by Queen Mary & Westfield Coll from www.liebertpub.com at 08/25/18. For personal use only. ESBL AND MCR-1 IN LEBANESE SWINE FARMS
+
+7
+
+30. Roschanski, N., J. Fischer, B. Guerra, and U. Roesler. 2014.
+Development of a multiplex real-time PCR for the rapid
+detection of the predominant beta-lactamase genes CTX-M,
+SHV, TEM and CIT-type AmpCs in enterobacteriaceae.
+PLoS One 9:e100956.
+
+31. Dallenne, C., A. Da Costa, D. Decre, C. Favier, and G.
+Arlet. 2010. Development of a set of multiplex PCR assays
+for
+the detection of genes encoding important beta-
+lactamases in enterobacteriaceae. J. Antimicrob. Che-
+mother. 65:490–495.
+
+32. Bachiri, T., R. Lalaoui, S. Bakour, M. Allouache, N.
+Belkebla, J.M. Rolain, and A. Touati. 2017. First report of
+the plasmid-mediated colistin resistance gene mcr-1 in
+Escherichia coli ST405 isolated from wildlife in Bejaia,
+Algeria. Microb. Drug Resist. [Epub ahead of print]; DOI:
+10.1089/mdr.2017.0026.
+
+33. Van Damme, I., C. Garcia-Graells, W. Biasino, T. Gowda,
+N. Botteldoorn, and L. De Zutter. 2017. High abundance
+and diversity of extended-spectrum beta-lactamase (ESBL)-
+producing Escherichia coli in faeces and tonsils of pigs at
+slaughter. Vet. Microbiol. 208:190–194.
+
+34. Dahms, C., N.O. Hubner, A. Kossow, A. Mellmann, K.
+Dittmann, and A. Kramer. 2015. Occurrence of ESBL-
+producing Escherichia coli in livestock and farm workers
+in Mecklenburg-western Pomerania, Germany. PLoS One
+10:e0143326.
+
+35. Hu, Y.Y., J.C. Cai, H.W. Zhou, D. Chi, X.F. Zhang, W.L.
+Chen, R. Zhang, and G.X. Chen. 2013. Molecular typing of
+CTX-M-producing Escherichia coli isolates from environ-
+mental water, swine feces, specimens from healthy humans,
+and human patients. Appl. Environ. Microbiol. 79:5988–
+5996.
+
+36. Randall, L.P., F. Lemma, J.P. Rogers, T.E. Cheney, L.F.
+Powell, and C.J. Teale. 2014. Prevalence of extended-
+spectrum-beta-lactamase-producing Escherichia coli from
+pigs at slaughter in the in 2013. J. Antimicrob. Chemother.
+69:2947–2950.
+
+37. Hammerum, A.M., J. Larsen, V.D. Andersen, C.H. Lester,
+T.S. Skovgaard Skytte, F. Hansen, S.S. Olsen, H. Mord-
+horst, R.L. Skov, F.M. Aarestrup, and Y. Agersø. 2014.
+Characterization of
+extended-spectrum beta-lactamase
+(ESBL)-producing Escherichia coli obtained from Danish
+pigs, pig farmers and their families from farms with high or
+no consumption of third- or fourth-generation cephalospo-
+rins. J. Antimicrob. Chemother. 69:2650–2657.
+
+38. Geser, N., R. Stephan, and H. Hachler. 2012. Occurrence
+and characteristics of extended-spectrum beta-lactamase
+(ESBL) producing enterobacteriaceae in food producing
+animals, minced meat and raw milk. BMC Vet. Res. 8:21.
+39. Sinwat, N., S. Angkittitrakul, K.F. Coulson, F.M. Pilapil,
+D. Meunsene, and R. Chuanchuen. 2016. High prevalence
+and molecular characteristics of multidrug-resistant Sal-
+monella in pigs, pork and humans in Thailand and Laos
+provinces. J. Med. Microbiol. 65:1182–1193.
+
+40. Kieffer, N., M. Aires-de-Sousa, P. Nordmann, and L.
+Poirel. 2017. High rate of MCR-1-producing Escherichia
+coli and Klebsiella pneumoniae among pigs, Portugal.
+Emerg. Infect. Dis. 23:2023–2029.
+
+41. Malhotra-Kumar, S., B.B. Xavier, A.J. Das, C. Lammens,
+H.T. Hoang, N.T. Pham, and H. Goossens. 2016. Colistin-
+resistant Escherichia coli harbouring mcr-1 isolated from
+food animals in Hanoi, Vietnam. Lancet Infect. Dis. 16:
+286–287.
+
+42. Kawanishi, M., H. Abo, M. Ozawa, M. Uchiyama, T.
+Shirakawa, S. Suzuki, A. Shima, A. Yamashita, T. Seki-
+zuka, K. Kato, M. Kuroda, R. Koike, and M. Kijima. 2016.
+Prevalence of colistin resistance gene mcr-1 and absence of
+mcr-2 in Escherichia coli
+isolated from healthy food-
+producing animals in Japan. Antimicrob. Agents Che-
+mother. 61:pii:e02057-16.
+
+43. Perrin-Guyomard, A., M. Bruneau, P. Houee, K. Deleurme,
+P. Legrandois, C. Poirier, C. Soumet, and P. Sanders. 2016.
+Prevalence of mcr-1 in commensal Escherichia coli from
+French livestock, 2007 to 2014. Euro. Surveill. 21:1–3.
+
+44. Meinersmann, R.J., S.R. Ladely, J.R. Plumblee, K.L. Cook,
+and E. Thacker. 2017. Prevalence of mcr-1 in the cecal
+contents of food animals in the United States. Antimicrob.
+Agents Chemother. 61:1–4.
+
+45. Tian, G.B., H.N. Wang, A.Y. Zhang, Y. Zhang, W.Q. Fan,
+C.W. Xu, B. Zeng, Z.B. Guan, and L.K. Zou. 2012. De-
+tection of clinically important beta-lactamases in com-
+mensal Escherichia coli of human and swine origin in
+western China. J. Med. Microbiol. 61(Pt 2):233–238.
+
+46. Rhouma, M., F. Beaudry, W. Theriault, and A. Letellier.
+2016. Colistin in pig production: chemistry, mechanism of
+antibacterial action, microbial resistance emergence, and
+one health perspectives. Front. Microbiol. 7:1789.
+
+47. Sokhn, S.E., E. Dahdouh, and Z. Daoud. 2013. Resistance
+of gram-negative bacilli in Lebanon. ISRN Infect. Dis.
+2013:Article ID 759208.
+
+48. Wang, J., J.F. Gibbons, K. McGrath, L. Bai, F. Li, F.C.
+Leonard, R. Stephan, and S. Fanning. 2016. Molecular
+characterization of blaESBL-producing Escherichia coli
+cultured from pig farms in Ireland. J. Antimicrob. Che-
+mother. 71:3062–3065.
+
+49. Dierikx, C.M., J.A. van der Goot, H.E. Smith, A. Kant, and
+D.J. Mevius. 2013. Presence of ESBL/AmpC-producing
+Escherichia coli in the broiler production pyramid: a de-
+scriptive study. PLoS One 8:e79005.
+
+50. El-Shazly, D.A., S.A. Nasef, F.F. Mahmoud, and D. Jonas.
+2017. Expanded spectrum beta-lactamase producing Es-
+cherichia coli isolated from chickens with colibacillosis in
+Egypt. Poult. Sci. 96:2375–2384.
+
+51. Aguilar-Montes de Oca, S., M. Talavera-Rojas, E. Soriano-
+Vargas, J. Barba-Leon, and J. Vazquez-Navarrete. 2015.
+Determination of extended spectrum beta-lactamases/
+AmpC beta-lactamases and plasmid-mediated quinolone
+resistance in Escherichia coli isolates obtained from bovine
+carcasses in Mexico. Trop. Anim. Health Prod. 47:975–
+981.
+
+52. Sato, T., T. Okubo, M. Usui, S. Yokota, S. Izumiyama, and
+Y. Tamura. 2014. Association of veterinary third-
+generation cephalosporin use with the risk of emergence of
+extended-spectrum-cephalosporin resistance in Escherichia
+coli from dairy cattle in Japan. PLoS One 9:e96101.
+
+53. Donati, V., F. Feltrin, R.S. Hendriksen, C.A. Svendsen, G.
+Cordaro, A. Garcia-Fernandez, S. Lorenzetti, R. Lorenzetti,
+A. Battisti, and A. Franco. 2014. Extended-spectrum-beta-
+lactamases, AmpC beta-lactamases and plasmid mediated
+quinolone resistance in Klebsiella spp. from companion
+animals in Italy. PLoS One 9:e90564.
+
+54. Liu, X., K. Thungrat, and D.M. Boothe. 2016. Occurrence
+of OXA-48 carbapenemase and other beta-lactamase genes
+in ESBL-producing multidrug resistant Escherichia coli
+from dogs and cats in the United States, 2009–2013. Front.
+Microbiol. 7:1057.
+
+Downloaded by Queen Mary & Westfield Coll from www.liebertpub.com at 08/25/18. For personal use only. 8
+
+DANDACHI ET AL.
+
+55. Bai, L., D. Hurley, J. Li, Q. Meng, J. Wang, S. Fanning, and
+Y. Xiong. 2016. Characterisation of multidrug-resistant
+Shiga toxin-producing Escherichia coli cultured from pigs
+in China: co-occurrence of extended-spectrum beta-
+lactamase- and mcr-1-encoding genes on plasmids. Int. J.
+Antimicrob. Agents 48:445–448.
+
+56. El Garch, F., M. Sauget, D. Hocquet, D. LeChaudee, F.
+Woehrle, and X. Bertrand. 2017. Mcr-1 is borne by highly
+diverse Escherichia coli
+isolates since 2004 in food-
+producing animals in Europe. Clin. Microbiol. Infect. 23:
+51.e1–51.e4.
+
+57. Delannoy, S., L. Le Devendec, E. Jouy, P. Fach, D. Drider,
+and I. Kempf. 2017. Characterization of colistin-resistant
+Escherichia coli isolated from diseased pigs in France.
+Front. Microbiol. 8:2278.
+
+58. Brauer, A., K. Telling, M. Laht, P. Kalmus, I. Lutsar, M.
+Remm, V. Kisand, T. Tenson. 2016. Plasmid with colistin
+resistance gene mcr-1 in extended-spectrum-beta-lactamase-
+
+producing Escherichia coli strains isolated from pig slurry in
+Estonia. Antimicrob. Agents Chemother. 60:6933–6936.
+
+59. Kong, L.H., C.W. Lei, S.Z. Ma, W. Jiang, B.H. Liu, Y.X.
+Wang, R. Guan, S. Men, Q.W. Yuan, G.Y. Cheng, W.C.
+Zhou, and H.N. Wang. 2017. Various sequence types of
+Escherichia coli isolates coharboring blaNDM-5 and mcr-1
+genes from a commercial swine farm in China. Antimicrob.
+Agents Chemother. 61:1–5.
+
+Address correspondence to:
+Jean-Marc Rolain, PharmD, PhD
+IRD, APHM, MEPHI
+IHU Me´diterrane´e-Infection
+Aix Marseille University
+13385 Marseille Cedex 05
+France
+
+E-mail: jean-marc.rolain@univ-amu.fr
+
+Downloaded by Queen Mary & Westfield Coll from www.liebertpub.com at 08/25/18. For personal use only. 

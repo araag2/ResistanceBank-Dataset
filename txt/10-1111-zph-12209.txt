@@ -1,0 +1,1454 @@
+Zoonoses and Public Health
+
+O R I G I N A L A R T I C L E
+
+Methicillin-Resistant Staphylococcus aureus from Brazilian
+Dairy Farms and Identiﬁcation of Novel Sequence Types
+C. J. B. Oliveira1,2, N. Tiao3, F. G. C. de Sousa1, J. F. P. de Moura1, L. Santos Filho4 and W. A. Gebreyes2,3
+
+1 Department of Animal Science, Centre for Agricultural Sciences, Federal University of Paraiba, Areia, PB, Brazil
+2 Veterinary Public Health and Biotechnology Global Consortium (VPH-Biotec), The Ohio State University, Columbus, OH, USA
+3 Department of Preventive Veterinary Medicine, College of Veterinary Medicine, The Ohio State University, Columbus, OH, USA
+4 Department of Pharmacy, Center for Health Sciences, Federal University of Paraiba, Jo~ao Pessoa, PB, Brazil
+
+Impacts
+(cid:129) Methicillin-resistant Staphylococcus aureus (MRSA) and strains with diverse
+antimicrobial resistant patterns are prevalent in milk from semi-extensive
+dairy cows in north-eastern Brazil.
+(cid:129) Staphylococcus aureus from milk were clonally associated with bovine staph-
+ylococci lineage strains, which have been found in other regions of Brazil
+and worldwide.
+(cid:129) Although MRSA was also isolated from milkers’ hands, its low frequency and
+distinct genotype from those MRSA found in milk suggest the possibility of
+the farmers contaminating the milk with resistant isolates, particularly MRSA.
+
+Keywords:
+Methicillin-resistant Staphylococcus aureus;
+oxacillin resistance; oxacillin resistant
+Staphylococcus aureus; milk
+
+Correspondence:
+W. A. Gebreyes. Department of Veterinary
+Preventive Medicine, The Ohio State University,
+Columbus, OH 43210, USA.
+Tel.: +1 614 292 9559;
+Fax: +1 614 292 4142;
+E-mail: gebreyes.1@osu.edu
+
+Received for publication January 9, 2015
+
+doi: 10.1111/zph.12209
+
+Summary
+
+The aim of this study was to investigate the phenotypic and genotypic diversity
+and anti-microbial resistance among staphylococci of dairy herds that originated
+from Paraiba State, north-eastern Brazil, a region where such studies are rare.
+Milk samples (n = 552) were collected from 15 dairy farms. Isolates were evalu-
+ated for anti-microbial susceptibility by Kirby–Bauer disc diffusion method. Con-
+ﬁrmation of methicillin-resistant Staphylococcus aureus (MRSA) was performed
+using multiplex PCR targeting mecA and nuc genes in addition to phenotypic
+assay based on PBP-2a latex agglutination. Clonal relatedness of isolates was
+determined by pulsed-ﬁeld gel electrophoresis (PFGE) and multilocus sequence
+typing (MLST) genotyping. Staphylococci were detected in 269 (49%) of the sam-
+ples. Among these, 65 (24%) were S. aureus. The remaining 204 isolates were
+either coagulase-negative staphylococci (n = 188; 70%) or coagulase positive
+other than S. aureus (n = 16; 6%). Staphylococci were cultured in seven (35%)
+of the 20 hand swab samples, from which ﬁve isolates were S. aureus. The isolates
+were most commonly resistant against penicillin (43%), ampicillin (38%) and
+oxacillin (27%). The gene mecA was detected in 21 S. aureus from milk and in
+one isolate from a milker’s hand. None of the isolates were resistant to vancomy-
+cin. PFGE ﬁndings showed high clonal diversity among the isolates. Based on
+MLST, we identiﬁed a total of 11 different sequence types (STs 1, 5, 6, 83, 97,
+126, 1583, 1622, 1623, 1624 and 1625) with four novel STs (ST1622-ST1625).
+The ﬁndings show that MRSA is prevalent in milk from semi-extensive dairy
+cows in north-eastern Brazil, and further investigation on its extent in various
+types of milk production systems and the farm-to-table continuum is warranted.
+
+Introduction
+
+Staphylococci are ubiquitous bacteria in mammalian spe-
+cies associated with different types of infections in humans,
+
+companion animals and livestock. Staphylococcus aureus is
+a major pathogen causing skin infections in humans as
+well as clinical and subclinical mastitis in cows and other
+milk-producing animals. Its occurrence in primary food
+
+© 2015 Blackwell Verlag GmbH  Zoonoses and Public Health, 2016, 63, 97–105
+
+97
+
+MRSA in Brazilian Dairy Farms
+
+C. J. B. Oliveira et al.
+
+sources and role as a foodborne pathogen have not been
+elucidated.
+
+Methicillin-resistant Staphylococcus aureus (MRSA) has
+been widely known as a major nosocomial pathogen [often
+referred as hospital-associated (HA) MRSA] and also
+implicated as a major source of community-associated
+infections in recent years (Gray, 2004; Crum et al., 2006).
+MRSA strains express an alternative penicillin binding pro-
+tein (PBP2a), which has a low afﬁnity to b-lactam agents
+(Hartman and Tomasz, 1984). This protein is encoded by
+the mecA gene usually found in large mobile genetic ele-
+ments named staphylococcal cassette chromosome mec
+(SCCmec), which can also confer resistance to anti-micro-
+bial classes other than b-lactam agents making the infec-
+tions more difﬁcult to be treated (Mombach Pinheiro
+Machado et al., 2007).
+
+There is a worldwide increase of community-acquired
+MRSA infections (CA-MRSA) (Simor et al., 2010). Com-
+munity-acquired MRSA have been reported increasingly in
+the last two decades and in some cases have been shown to
+be different from HA-MRSA (Vandenesch et al., 2003).
+Although staphylococcal food poisoning outbreaks caused
+by milk and dairies consumption have been reported
+worldwide (Yamane, 2006), the role of livestock and the
+overall signiﬁcance of MRSA as a foodborne pathogen
+remains to be investigated. The ﬁrst reported CA-MRSA
+infection in Brazil was found to be associated with ST30-
+SCCmecIV (Rozenbaum et al., 2009), while the majority of
+HA-MRSA infections is associated with the clone ST239-
+MRSA-IIIA (Oliveira and De Lencastre, 2002). Overall,
+studies on MRSA in Brazil have often been limited to the
+more temperate southern regions. There is paucity of data
+on the status of CA-MRSA in the more tropical north-east-
+ern as well as Amazonian regions.
+
+Methicillin-resistant Staphylococcus aureus was ﬁrst
+reported in milking cows in 1972 (Devriese and Hommez,
+1975), and it has been reported from milk in other coun-
+tries (Kwon et al., 2005; Haran et al., 2012). Despite the
+few reports, characterization of MRSA from the milk value
+chain is overall scarce. While MRSA detected in foodstuff
+do not often match the isolates associated with human
+infection episodes (Hata et al., 2008), some clonal com-
+plexes found in human staphylococcal intoxications, such
+as CC5 and CC30, have been detected in milk from mastitic
+cows (Rabello et al., 2007). In recent years, unique strains
+of MRSA, such as sequence type (ST) 398, commonly des-
+ignated as livestock-associated (LA) MRSA, have been
+reported from pigs and other food animals in various parts
+of the world. The higher risk of harbouring MRSA ST398
+has been associated with subpopulations that are in contact
+to food animals, particularly pigs (Van Loo et al., 2007).
+The genetic relatedness of MRSA from humans and animals
+strongly support that ST398 or clonal complex (CC) 398 is
+
+indeed a ‘livestock associated’ MRSA (LA-MRSA) (Khanna
+et al., 2008; Golding et al., 2010; Hasman et al., 2010;
+Huber et al., 2010; Loefﬂer and Lloyd, 2010).
+
+Characterization of MRSA from animal-derived foods
+and investigations on the epidemiology of MRSA in animal
+production systems are essential to elucidate the role of live-
+stock and associated environment in the persistence and dis-
+semination of MRSA in community settings. The objective
+of the present study was to determine the occurrence, MRSA
+and genotypic characterization of staphylococci from small-
+holder semi-extensive milk production systems in the north-
+eastern Brazil. To our knowledge, this is among the few
+reports on the MRSA detection in livestock in this region.
+
+Methods
+
+Study design and origin of samples
+A total of 15 dairy farms that were located within the State
+of Paraiba, north-eastern Brazil, were included in this study.
+The herd size of the farms ranged from 8 to 40 lactating
+cows. Farms were managed with a semi-extensive produc-
+tion system on natural pasture, and at different stages of lac-
+tation. The breeds included mixed Holstein (Bos taurus)
+and Gir (Bos indicus), a local zebu breed. Milk samples were
+collected after each teat was disinfected using 70% ethanol
+and dried with disposable paper towels. The ﬁrst few
+streams of milk (foremilk) was discarded to avoid surface
+contamination, and 15 ml samples were collected using
+sterile glass tubes and kept on ice for transportation to the
+Federal University of Paraiba (UFPB) laboratory. Milkers’
+hand swabbing was performed after milking only from
+those who provided a written consent to participate in the
+study. Palms were swabbed with moistened cotton placed in
+Stuart’s medium for transportation to the laboratory.
+
+Staphylococci culture and isolation
+A loopful of milk samples was streaked onto Baird–Parker
+agar (Oxoid Ltd, Basingstoke, UK) supplemented with egg
+yolk tellurite (Remel, Lenexa, KS, USA) and mannitol salt
+agar (Becton, Dickinson and Company, Franklin Lakes, NJ,
+USA). After incubation for 24 h at 37°C, colonies showing
+morphological characteristics of staphylococci were evalu-
+ated by Gram staining and catalase for genus identiﬁcation.
+Cultivation on DNase agar (Oxoid Ltd) for 24 h at 37°C
+were used for initial screening and S. aureus and conﬁrmed
+using latex agglutination-based kit for S. aureus (Staphy-
+test; Probac do Brazil, S~ao Paulo, Brazil).
+
+Anti-microbial susceptibility testing
+
+Anti-microbial susceptibility testing of isolates was per-
+formed using Kirby–Bauer disc diffusion method according
+
+98
+
+© 2015 Blackwell Verlag GmbH  Zoonoses and Public Health, 2016, 63, 97–105
+
+C. J. B. Oliveira et al.
+
+MRSA in Brazilian Dairy Farms
+
+to the guidelines of the Clinical and Laboratory Standards
+Institute (CLSI, 2013; Vet01-S4 and Vet01-S2). Brieﬂy, col-
+onies were suspended in 0.7% saline and standardized to
+0.5 McFarland. They were cultured onto Mueller–Hinton
+(MH) agar and incubated at 37°C for 18–24 h. Results were
+obtained after interpreting the zones of inhibition against
+nine antimicrobial drugs. The anti-microbials, abbrevia-
+tions and disc potency were as follows: ampicillin (Am;
+10 lg), ceftiofur (Cf; 30 lg), cephalothin (Ch; 30 lg),
+erythromycin (Er; 15 lg), oxacillin (Ox; 1 lg), penicillin
+(Pn; 10 U), pirlimycin (Pr; 2 lg), penicillin + novobiocin
+(Pv; 30/24 lg), tetracycline (Te; 30 lg) and vancomycin
+(Vc; 30 lg). Penicillin + novobiocin discs were made in
+the laboratory following the protocol by Thornsberry et al.
+(1997). Brieﬂy, 20 ll of a 312.5 lg/ml penicillin solution,
+made from penicillin G potassium salt (Acros Organics,
+Fair Lawn, NJ, USA), was added to a 30/24 lg novobiocin
+disc. This resulted in 6.25 lg (10 U) of penicillin per 30 lg
+novobiocin disc. The discs were prepared fresh under asep-
+tic conditions and used on the same day. Reference strains
+Escherichia coli ATCC 25922, S. aureus ATCC 25923 and
+Pseudomonas aeruginosa ATCC 27853 were used (American
+Type Culture Collection, Manassas, VA, USA). Multidrug
+resistance (MDR) was deﬁned here as resistance to three or
+more classes of antimicrobials.
+
+PCR for S. aureus and MRSA conﬁrmation
+
+Genomic DNA was extracted using a commercial kit
+(DNeasy Blood and Tissue Kits, Qiagen, Valencia, CA,
+USA) according to the manufacturer’s guidelines. Brieﬂy,
+the lysis buffer contains a mixture of 20 mM pH 8.0 Tris–
+HCl
+(Fisher BioReagents, Fairlawn, NJ, USA), 2 mM
+sodium EDTA (Gibco, Grand Island, NY, USA), 1% Triton
+X-100 (Sigma, St. Louis, MO, USA) and 20 mg/ml lyso-
+zyme (Lysozyme Ultrapure; USB Corporation, Cleveland,
+OH, USA). Molecular biology grade water (Eppendorf,
+Hamburg, Germany) was used for the elution. DNA was
+stored at 4°C for further genotypic analyses. The genes nuc
+(S. aureus conﬁrmatory gene) and mecA (gene that encodes
+methicillin resistance) were detected using a duplex PCR in
+conditions previously reported (Oliveira and De Lencastre,
+2002). The primers used for nuc gene ampliﬁcation
+0
+-GCGATTGATGGTGATACGGTT-3
+included forward: 5
+0
+and reverse: 5
+-AGCCAAGCCTTGACGAACTAAAGC-3
+with an expected amplicon size of 270 bp. The primers
+used for mecA ampliﬁcation were as follows:
+forward:
+0
+reverse:
+5
+0
+with an expected
+5
+amplicon size of 162 bp. All isolates were also tested for
+carriage of blaZ gene, a non-mecA-associated b-lactamase
+that is shown to encode for methicillin resistance without
+the accompanied wide spectrum of resistance to other
+
+-TCCAGATTACAACTTCACCAGG-3
+-CCACTTCATATCTTGTAACG-3
+
+and
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+and reverse 5
+
+-TACAACTGTAATATCGGAGGG-3
+
+for blaZ were forward
+anti-microbials. The primers
+0
+-CA
+5
+(Nannini et al., 2003)
+TTACACTCTTGGCGGTTTC-3
+with an expected amplicon size of 861 bp. PCRs were
+performed using beads (GE Healthcare Life Sciences,
+Piscataway, NJ, USA) in a ﬁnal reaction volume of 25 ll
+containing 1 ll of template DNA. Thermocycling was per-
+formed using the following conditions: initial denaturation
+at 95°C for 5 min followed by 30 cycles of 95°C for 1 min,
+54°C for 1 min, 72°C for 1 min and a ﬁnal extension step
+of 72°C for 7 min. Aliquots of the PCR products (10 ll)
+were electrophoresed in 2% agarose gels containing ethidi-
+um bromide and visualized by ultraviolet transilluminator.
+The amplicons were visualized using Gel Doc 2000 (Bio-
+Rad Laboratories, Hercules, CA, USA) and analysed by
+Quantity One software (Bio-Rad Laboratories).
+
+Genotyping by pulsed-ﬁeld gel electrophoresis
+
+Pulsed-ﬁeld gel electrophoresis (PFGE) was performed
+according to a modiﬁed protocol as recommended previ-
+ously (Mulvey et al., 2001). Brieﬂy, S. aureus isolates were
+grown overnight on MH agar (Becton, Dickinson and Com-
+pany). The bacterial cell concentration was adjusted by
+diluting cells with sterile cell suspension buffer to the OD
+value 1.35 (range 1.3–1.4) at 610 nm wavelength. Agarose-
+embedded cells were lysed, and intact genomic DNA was
+digested with 25–40 U of SmaI restriction enzyme (New
+England Biolabs, Ipswich, MA, USA) for at least 2 hours at
+25°C. The fragments were separated by CHEF DR-III sys-
+tem (Bio-Rad Laboratories) with the following conditions
+and reagents: 1% SeaKem Gold agarose (FMC BioProducts,
+Rockland, ME, USA) in 0.59 Tris-borate-EDTA buffer,
+temperature at 14°C, voltage at 6 v/cm, run time of 19 h
+with initial switch time of 5.3 and ﬁnal switch time of
+34.9 s. The PulseNet
+‘universal’ standard marker strain
+S. enterica serovar Braenderup H9812 was used as a molecu-
+lar reference marker. The gels were stained with ethidium
+bromide and visualized under UV trans-illumination, and
+images were captured using Gel Doc 2000 (Bio-Rad Labora-
+tories). PFGE gels were analysed by Bionumerics software
+V. 4.61 (Applied Maths NV, Keistraat, Belgium) using Dice
+similarity index and unweighted pair group average (UP-
+GMA) cluster analysis. Banding patterns were compared
+with 1% optimization and 1% band position tolerance.
+
+Genotyping by multilocus sequence typing
+
+Multilocus sequence typing (MLST) was performed as
+described before (Enright et al., 2000). Seven housekeeping
+genes were targeted, and all the primers used were as rec-
+ommended by the MLST global database system (http://
+www.mlst.net). After DNA extraction, PCR ampliﬁcation
+
+© 2015 Blackwell Verlag GmbH  Zoonoses and Public Health, 2016, 63, 97–105
+
+99
+
+MRSA in Brazilian Dairy Farms
+
+C. J. B. Oliveira et al.
+
+was performed on the seven targeted housekeeping genes:
+carbamate kinase (arcC), shikimate dehydrogenase (aroE),
+glycerol kinase (glk), guanylate kinase (gmk), phosphate
+acetyltransferase (pta), triosephosphate isomerase (tpi) and
+acetyl coenzyme A acetyltransferase (yqiL). PCRs were per-
+formed using beads (GE Healthcare Life Sciences) in a ﬁnal
+reaction volume of 25 ll containing 1 ll of template DNA.
+Ampliﬁcation was performed using a PTC-100 Program-
+mable Thermal Controller (MJ Research Inc, Watertown,
+MA, USA) with an initial 5-min denaturation at 95°C, fol-
+lowed by 30 cycles of annealing at 55°C for 1 min, exten-
+sion at 72°C for 1 min and denaturation at 95°C for 1 min,
+followed by a ﬁnal extension step of 72°C for 5 min. The
+ampliﬁed products were precipitated with 20% polyethyl-
+ene glycol-2.5 M NaCl, resuspended in cold 70% ethanol
+and reprecipitated; the DNA sequences of both strand were
+determined using an automated sequencer (CEQ8000;
+Beckman Coulter, Fullerton, CA, USA) using 30 cycles
+comprised by a denaturation step at 96°C for 20 s, anneal-
+ing at 50°C for 20 s and elongation at 60°C for 4 min. Alle-
+lic proﬁles of the seven genes were assigned by comparing
+the sequences at each locus to those of the known alleles in
+the S. aureus MLST database (http://www.mlst.net). Based
+on the allelic proﬁles for the seven genes for each of the iso-
+lates, a ST was assigned.
+
+Statistical analysis
+
+Descriptive statistical analysis was used to provide informa-
+tion about prevalence of Staphylococcus, and anti-microbial
+susceptibility proﬁling. Data were analysed using the Fish-
+er’s exact and the chi-square tests (SPSS 17.0; SPSS Inc.,
+Chicago, IL, USA) to compare the proportion of the phe-
+notypic and genotypic differences of staphylococcal isolates
+among the farms. Analyses were considered signiﬁcant
+when P-value was < 0.05.
+
+Results
+
+Occurrence of S. aureus and other staphylococci. Of the
+total 552 milk samples, 269 (49%) were positive for staphy-
+lococci. The majority of these isolates (188; 70%) was iden-
+tiﬁed as coagulase-negative staphylococci. A total of 65
+(24%) Staphylococcus aureus and 16 (5.9%) coagulase-posi-
+tive isolates other than S. aureus (n = 16) were also identi-
+ﬁed. At least one sample from all the 15 farms were found
+to be positive for S. aureus with farm level prevalence rang-
+ing between 5% and 25%. S. aureus was identiﬁed in 35%
+(7 of 20) of the hand swab samples, from which ﬁve isolates
+(71%) were S. aureus, one coagulase-negative staphylococci
+and one coagulase positive other than S. aureus.
+
+Anti-microbial resistance phenotypes and occurrence of
+MRSA. Frequency of anti-microbial resistance among the
+
+staphylococci from milk samples is shown in Table 1. Of
+the 269 staphylococci isolates, two-third (67%) were resis-
+tant to at least one anti-microbial. About half (49%) of the
+S. aureus isolates and 42% of CoNS isolates were pan-sus-
+ceptible. At the farm level, proportion of pan-susceptibility
+ranged from 0% to 65%. Isolates were most commonly
+resistant to b-lactams including penicillin (43%), ampicil-
+lin (38%) and oxacillin (27%); followed by tetracycline
+(14%) and the macrolide and erythromycin (11%). There
+was statistically signiﬁcant difference in the proportion of
+resistance among the farms for ampicillin (P = 0.05), oxa-
+cillin (P = 0.001) and penicillin (P = 0.006) but not for the
+remaining anti-microbial agents. No vancomycin resistance
+was detected. MDR was found in 8.9% of the isolates (24 of
+269), from which 16 were S. aureus and eight were coagu-
+lase-positive staphylococci other than S. aureus. There was
+a large variation in proportion of MDR among the 15
+farms, and the differences were not statistically signiﬁcant
+(P = 0.368).
+
+Twenty-one isolates from milk (8% of all staphylococci)
+and one milkers’ hand were also mecA positive and identi-
+
+Table 1. Frequency of anti-microbial drug resistance in staphylococci
+cultured from milk samples collected from dairy farms in north-eastern
+Brazil
+
+Farm Samples
+
+Am (%)
+
+Er (%)
+
+Ox (%)
+
+Pn (%)
+
+Te (%)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+Total
+
+14
+15
+15
+18
+09
+13
+15
+31
+24
+17
+13
+13
+14
+23
+35
+269
+
+9 (64)
+6 (40)
+9 (60)
+5 (28)
+6 (67)
+8 (61)
+2 (13)
+10 (32)
+7 (29)
+3 (18)
+6 (46)
+5 (38)
+6 (43)
+7 (30)
+14 (40)
+103 (38)
+
+4 (28)
+3 (20)
+4 (27)
+2 (11)
+0
+1 (8)
+1 (7)
+0
+5 (21)
+3 (18)
+1 (8)
+0
+1 (7)
+2 (9)
+3 (8)
+
+30 (11)
+
+7 (50)
+14 (93)
+2 (13)
+4 (22)
+3 (33)
+2 (15)
+5 (33)
+2 (6)
+6 (25)
+7 (41)
+3 (23)
+7 (54)
+2 (14)
+1 (4)
+8 (23)
+73 (27)
+
+9 (64)
+5 (33)
+11 (73)
+6 (33)
+7 (78)
+9 (69)
+3 (20)
+11 (35)
+12 (50)
+4 (23)
+4 (31)
+4 (31)
+6 (43)
+6 (26)
+19 (54)
+116 (43)
+
+2 (14)
+4 (27)
+6 (40)
+2 (11)
+3 (33)
+7 (54)
+2 (13)
+3 (37)
+4 (17)
+0
+2 (15)
+0
+2 (14)
+0
+0
+
+37 (14)
+
+Determined by Kirby–Bauer disc diffusion method using the following
+anti-microbials and their respective disc potency: ampicillin (Am;
+10 lg), ceftiofur (Cf; 30 lg), cephalothin (Ch; 30 lg), erythromycin (Er;
+15 lg), oxacillin (Ox; 1 lg), penicillin (Pn; 10 lg), pirlimycin (Pr; 2 lg),
+penicillin + novobiocin (Pv; 30/24 lg), tetracycline (Te; 30 lg) and
+vancomycin (Vc; 30 lg).
+Not including minor resistance frequencies: resistance against Pv was
+observed in 1 (3%) isolate from farm 15; pirlimycin resistance was seen
+in single isolates from farms 11 (8%), 12 (8%) and 15 (3%); resistance
+to cephalothin was observed in 3 isolates from farms 4 (5%), 10 (6%)
+and 11 (8%) and resistance against ceftiofur seen in a single isolate
+from farm 3 (7%).
+
+100
+
+© 2015 Blackwell Verlag GmbH  Zoonoses and Public Health, 2016, 63, 97–105
+
+C. J. B. Oliveira et al.
+
+MRSA in Brazilian Dairy Farms
+
+ﬁed as MRSA based on phenotypic (PBP-2 latex agglutina-
+tion) as well. Overall, 34 different anti-microbial resistance
+patterns were identiﬁed (Table 2). Not all MRSA isolates
+were MDR. AmPn R-type was the most predominant
+among S. aureus (n = 33), while Ox only R-type was the
+most common among CoNS species (n = 26) followed by
+AmPn (n = 11).
+
+strains of S. aureus, we found seven isolates carried both
+mecA and blaZ, 10 carried mecA but not blaZ, two carried
+blaZ but not mecA, and four were found to carry neither.
+Neither of the two isolates with blaZ but no mecA were
+found to be phenotypically oxacillin resistant. On the other
+hand, all the seven isolates that carried both mecA and blaZ
+were found to be multidrug resistant with resistance to at
+least three anti-microbial agents including methicillin.
+
+PCR for mecA and blaZ genes
+
+The mecA gene was detected in 3% of the isolates, and the
+one S. aureus isolate identiﬁed from a milkers’ hand also
+was mecA positive. Of 104 isolates tested for the blaZ gene,
+we found 23 (23%) to carry this gene. Of the 16 MDR
+
+Pulsed-ﬁeld gel electrophoresis and multilocus sequence
+typing genotyping
+
+Pulsed-ﬁeld gel electrophoresis and MLST genotyping were
+conducted on 16 S. aureus isolates systematically selected
+
+Table 2. Frequency of resistance patterns in Staphylococcus aureus, coagulase-negative staphylococci (CoNS) and coagulase-positive staphylococci
+other than S. aureus (CoPS) cultured from bovine milk samples collected in north-eastern Brazilian farms
+
+Resistance Patterns
+
+S. aureus (n = 65)
+
+%
+
+CoPS other than
+S. aureus (n = 16)
+
+%
+
+CoNS (n = 188)
+
+%
+
+Total
+
+%
+
+AmPn
+Pan-susceptible
+Ox
+AmPnTe
+Pn
+OxPn
+Er
+Am
+AmOxPn
+AmErPn
+AmOxPnTe
+OxTe
+Te
+ErOx
+AmErOxPn
+AmErPnTe
+PnPrTe
+AmCfPn
+AmCh
+AmChOx
+AmErOx
+AmErOxTe
+AmOx
+AmOxPnTe
+AmOxTe
+AmPnPr
+ChPnTe
+ErOxPnTe
+ErOxTe
+ErPnTe
+OxPr
+PnTe
+Total
+
+22
+11
+01
+06
+02
+0
+0
+02
+01
+0
+03
+0
+01
+0
+0
+01
+01
+01
+0
+0
+0
+0
+0
+01
+0
+0
+01
+0
+0
+0
+0
+01
+54
+
+40.7
+20.4
+1.9
+11.1
+3.7
+0.0
+0.0
+3.7
+1.9
+0.0
+5.6
+0.0
+1.9
+0.0
+0.0
+1.9
+1.9
+1.9
+0.0
+0.0
+0.0
+0.0
+0.0
+1.9
+0.0
+0.0
+1.9
+0.0
+0.0
+0.0
+0.0
+1.9
+
+100
+
+04
+01
+0
+0
+0
+0
+0
+01
+0
+02
+0
+0
+02
+0
+0
+0
+0
+0
+01
+0
+0
+0
+0
+0
+0
+01
+0
+0
+0
+0
+0
+0
+12
+
+33.3
+8.3
+0.0
+0.0
+0.0
+0.0
+0.0
+8.3
+0.0
+16.7
+0.0
+0.0
+16.7
+0.0
+0.0
+0.0
+0.0
+0.0
+8.3
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+8.3
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+100
+
+22
+30
+28
+08
+09
+10
+08
+03
+05
+04
+02
+05
+02
+04
+03
+01
+01
+0
+0
+01
+01
+01
+01
+0
+01
+0
+0
+01
+01
+01
+01
+0
+134
+
+16.4
+22.4
+20.9
+6.0
+6.7
+7.5
+6.0
+2.2
+3.7
+3.0
+1.5
+3.7
+1.5
+3.0
+2.2
+0.7
+0.7
+0.0
+0.0
+0.7
+0.7
+0.7
+0.7
+0.0
+0.7
+0.0
+0.0
+0.7
+0.7
+0.7
+0.7
+0.0
+100.0
+
+48
+42
+29
+14
+11
+10
+08
+06
+06
+06
+05
+05
+05
+04
+03
+02
+02
+01
+01
+01
+01
+01
+01
+01
+01
+01
+01
+01
+01
+01
+01
+01
+221
+
+21.7
+19.0
+13.1
+6.3
+5.0
+4.5
+3.6
+2.7
+2.7
+2.7
+2.3
+2.3
+2.3
+1.8
+1.4
+0.9
+0.9
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+100.0
+
+Determined by Kirby–Bauer disc diffusion method using the following anti-microbials and their respective disc potency: ampicillin (Am; 10 lg), ceftio-
+fur (Cf; 30 lg), cephalothin (Ch; 30 lg), erythromycin (Er; 15 lg), oxacillin (Ox; 1 lg), penicillin (Pn; 10 lg), pirlimycin (Pr; 2 lg), penicillin + novobio-
+cin (Pv; 30/24 lg), tetracycline (Te; 30 lg) and vancomycin (Vc; 30 lg).
+
+© 2015 Blackwell Verlag GmbH  Zoonoses and Public Health, 2016, 63, 97–105
+
+101
+
+MRSA in Brazilian Dairy Farms
+
+C. J. B. Oliveira et al.
+
+based on their anti-microbial resistance proﬁles. We identi-
+ﬁed four major genotypic clusters at genetic relatedness
+cut-off of 70%. Based on MLST, we identiﬁed a total of 11
+STs,
+time
+(ST1623, ST1624, ST1625 and ST1626) (Fig. 1).
+
+four of which were identiﬁed for the ﬁrst
+
+Discussion
+
+In this study, we found high prevalence of S. aureus in
+dairy farms as compared to what has been reported in other
+parts of the world (Virgin et al., 2009). As S. aureus is a
+well-recognized agent of foodborne intoxications, the com-
+mon occurrence of this organism in milk could be of public
+health concern particularly in this region of Brazil, where
+the habit of drinking raw milk is common. Sixteen different
+outbreaks of staphylococcal intoxication caused by con-
+suming contaminated dairy products were reported in cen-
+tral Brazil within a 4-year period between 1998 and 2002
+(Veras et al., 2008).
+
+We found anti-microbial resistance commonly to b-
+lactams, tetracycline and erythromycin. This ﬁnding is
+similar to reports in other parts of the world. However,
+the ﬁndings in this study indicated higher frequency of
+resistance as compared to previous reports
+in Brazil
+(Lange et al., 1999; Aires-de-Sousa et al., 2007; Rabello
+et al., 2007). The isolates expressed diverse resistance
+patterns within farms and between farms. Resistance to
+penicillin and ampicillin has been commonly reported in
+
+Staphylococcus
+Siqueira-Junior, 1995).
+
+from livestock in Brazil
+
+(Pereira and
+
+Our study showed that 22 of 65 (33%) of S. aureus were
+MRSA as conﬁrmed by mecA PCR. This ﬁnding is higher
+than previous reports and could be of public health con-
+cern considering the high rate of raw milk consumption in
+the region. Previous reports showed a 1.3% (Lee, 2003) and
+0.15% (Kwon et al., 2005) prevalence rates in Korea.
+Another study in South America (Gentilini et al., 2000)
+reported that no MRSA detected in a collection of 206
+S. aureus isolates identiﬁed from mastitis cases in dairy
+herds, while 3.2% of CoNS showed to be methicillin resis-
+tant. No MRSA was detected in dairy farms in Finland
+(Pitk€al€a et al., 2004), Korea (Moon et al., 2007) and USA
+(Anderson et al., 2006). A recent study reported 4% herd
+prevalence of MRSA in bulk tank milk samples in Minne-
+sota, USA (Haran et al., 2012); mecA-positive staphylococci
+in unpasteurized milk samples were reported at a rate of
+7% in United Kingdom (McKay, 2008). However, direct
+comparison of prevalence of MRSA reported in different
+studies should be considered cautiously as considerable
+variations in the study designs exist.
+
+The detection of MRSA in milk has triggered a major
+concern about the potential role of MRSA may play as a
+foodborne pathogen, especially after
+the detection of
+LA-MRSA strain in bulk tank milk (Paterson et al., 2012).
+It is also noteworthy to mention that the frequency of
+MRSA in livestock reported in the last decade might be
+
+Fig. 1. Dendrogram showing the genotypic relatedness of 16 S. aureus (15 from bovine milk and one human hand swab) isolates from north-eastern
+Brazilian dairy farms using PFGE and MLST. PFGE, pulsed-ﬁeld gel electrophoresis; MLST, multilocus sequence typing.
+
+102
+
+© 2015 Blackwell Verlag GmbH  Zoonoses and Public Health, 2016, 63, 97–105
+
+C. J. B. Oliveira et al.
+
+MRSA in Brazilian Dairy Farms
+
+biased as novel mechanisms of methicillin resistance in
+S. aureus, such as mecC, have recently been reported in dif-
+ferent countries, such as France (Laurent et al., 2012) and
+Sweden (Unnerstad et al., 2013).
+
+Although the mecA gene is the most common mecha-
+nism for methicillin resistance, some of the isolates in the
+present study also harboured blaZ gene, responsible for
+b-lactamase production that could also play a role in oxa-
+cillin resistance. Our observations in the current study
+imply that isolates that carried both mecA and blaZ tend to
+have a higher spectrum of resistance and are often MDR in
+addition to oxacillin than those with only mecA.
+
+and
+
+cephalosporins
+
+The widespread usage of b-lactam agents in local dairy
+production for therapeutic and prophylactic purposes
+could be the driving force for the common occurrence of
+resistance to b-lactam agents such as ampicillin, penicillin
+and oxacillin. In the current study, a questionnaire data
+were collected in the farms and majority indicated the com-
+mon usage of semisynthetic penicillins (benzathine cloxa-
+cillin)
+(cephalonium dihydrate,
+cephapirin benzathine) in the dry-off treatments. Gentami-
+cin bromhexine chlorhydrate, tetracycline and spiramycin
+with neomycin were commonly reported to be used for the
+treatment of clinical mastitis. A previous meta-analysis
+study reported a signiﬁcant association between anti-mi-
+crobials exposure and MRSA isolating from human
+patients (Tacconelli et al., 2008). In animals, antibiotic use
+mainly aminoglycoside has been considered to be a risk fac-
+tor for colonization by MRSA in horses (Weese et al.,
+2006). Some reports have shown that anti-microbial resis-
+tance levels in organic farms are not different from those
+found in conventional animal production systems (Roesch
+et al., 2006; Thakur et al., 2007).
+
+We found only one hand swab isolate collected from
+milkers’ hand that was resistant to methicillin and the iso-
+late harboured the mecA gene. However, based on MLST
+genotyping the ST, it was distinctly different from what
+was found for S. aureus isolated from milk samples from
+the same farm. This indicates independent source of con-
+tamination between the hand and the milk. Considering
+that hand swabs were collected after milking, a contamina-
+tion originated from the cow cannot be disregarded.
+Although the limited number of observations does not
+allow us to take conclusion about
+the contamination
+routes, the fact that the human S. aureus isolate shared a
+common ST type and a similar PFGE pulsotype (Fig. 1)
+with one other bovine isolate from a different farm might
+indicate the existence of common source MRSA clone(s)
+in the region.
+
+Overall, the frequency of MDR Staphylococcus in the cur-
+rent study was low as compared to previously reported in
+other studies on dairies (Roesch et al., 2006). In this study,
+no isolates were found to be resistant to vancomycin.
+
+Subclinical carriers of vancomycin-resistant staphylococci
+have been documented in Brazil (Palazzo et al., 2005).
+
+The diverse phenotypic resistance proﬁles (R-types)
+could be linked to the genetic variability of the staphylo-
+cocci isolates. Using MLST genotyping, we identiﬁed 11
+different STs among 16 MRSA isolates. Of these, four STs
+were reported for the ﬁrst time. PFGE discriminated the
+MRSA isolates
+into four major genotypic clusters at
+genetic similarity level of 70%. The high genotypic vari-
+ability could be explained by the environment and man-
+agement differences among the farms, as extensive or
+semi-intensive production systems are often expected to
+have diverse genotypes due to their exposure to various
+environmental sources. In a previous report about the
+characterization of S. aureus causing bovine mastitis in
+Rio de Janeiro (Rabello et al., 2007), the sequence types
+ST126, ST97 and ST1 were commonly observed. Staphylo-
+coccus aureus ST97 found in Brazilian herds has also been
+associated with dairy in USA (www.mlst.net). Indeed,
+S. aureus causing mastitis in cows that belong to clonal
+complex (CC) CC126 and CC97, found in this study, are
+also known to be clonally associated with bovine S. aureus
+lineage strains worldwide (Smith et al., 2005). According
+to a previous study performed in Rio de Janeiro State
+(28), most found STs (747, 740, 126 and 751) related to
+animal strains, except one isolate from buffalo (ST5),
+which has been also isolated from human infections indi-
+cating this is may be a common clone among humans and
+animals. In summary, the present study indicates a low
+prevalence of MRSA among dairy herds in Paraiba State,
+Brazil. Although the isolates showed genotypic diversity,
+the identiﬁcation of a common clone to humans and ani-
+mals warrants further investigations about the role of mil-
+kers in the epidemiology of MRSA in semi-extensive dairy
+production systems.
+
+Acknowledgements
+
+The study was funded by The Brazilian Council for Scien-
+tiﬁc and Technological Development (CNPq). Summer
+research travel support for Narry Tiao was provided by the
+Ohio State University, College of Veterinary Medicine. We
+thank Melanie Abley, Jennifer Mathews, Jose Fabio Paulino
+de Moura and Daniel Marinho for helping in the sampling
+collection and also for laboratory technical support.
+
+References
+
+Aires-de-Sousa, M., C. E. S. R. Parente, O. Vieira-da-Motta, I. C.
+
+F. Bonna, D. A. Silva, and H. Lencastre, 2007: Characteriza-
+tion of Staphylococcus aureus isolates from buffalo, bovine,
+ovine, and caprine milk samples collected in Rio de Janeiro
+State, Brazil. Appl. Environ. Microbiol. 73, 3845–3849.
+
+© 2015 Blackwell Verlag GmbH  Zoonoses and Public Health, 2016, 63, 97–105
+
+103
+
+MRSA in Brazilian Dairy Farms
+
+C. J. B. Oliveira et al.
+
+Anderson, K. L., R. L. Lyman, S. M. Bodeis-Jones, and D.
+G. White, 2006: Genetic diversity and antimicrobial sus-
+ceptibility proﬁles among mastitis-causing Staphylococcus
+aureus isolated from bovine milk samples. Am. J. Vet. Res.
+7, 1185–1191.
+
+Clinical and Laboratory Standards Institute, 2013: CLSI. Perfor-
+
+mance Standards for Antimicrobial Disk and Dilution Sus-
+ceptibility Tests for Bacteria Isolated From Animals;
+Approved Standard-Fourth Edition. CLSI document VET01-
+A4. Clinical and Laboratory Standards Institute, Wayne, PA.
+Crum, N. F., R. U. Lee, S. A. Thornton, O. C. Stine, M. R. Wal-
+lace, C. Barrozo, A. Keefer-Norris, S. Judd, and K. L. Russell,
+2006: Fifteen-year study of the changing epidemiology of
+methicillin-resistant Staphylococcus aureus. Am. J. Med. 119,
+943–951.
+
+Devriese, L. A., and J. Hommez, 1975: Epidemiology of methicil-
+lin-resistant Staphylococcus aureus in dairy herds. Res. Vet. Sci.
+19, 23–27.
+
+Enright, M. C., N. P. Day, C. E. Davies, S. J. Peacock, and
+B. G. Spratt, 2000: Multilocus sequence typing for charac-
+terization of methicillin-resistant and methicillin-suscepti-
+ble clones of Staphylococcus aureus. J. Clin. Microbiol. 38,
+1008–1015.
+
+Gentilini, E., G. Denamiel, P. Llorente, S. Godaly, M. Rebuelto,
+
+and O. DeGregorio, 2000: Antimicrobial susceptibility of
+Staphylococcus aureus isolated from bovine mastitis in Argen-
+tina. J. Dairy Sci. 83, 1224–1227.
+
+Golding, G. R., L. Bryden, P. N. Levett, R. R. McDonald, A.
+
+Wong, J. Wylie, M. R. Graham, S. Tyler, G. van Domselaar, A.
+S. Simor, D. Gravel, and M. R. Mulvey, 2010: Livestock-asso-
+ciated methicillin-resistant Staphylococcus aureus sequence
+type 398 in humans, Canada. Emerg. Infect. Dis. 16, 587–594.
+Gray, J. W., 2004: MRSA: the problem reaches paediatrics. Arch.
+
+Dis. Child. 89, 297–298.
+
+Khanna, T., R. Friendship, C. Dewey, and J. S. Weese, 2008:
+
+Methicillin resistant Staphylococcus aureus colonization in pigs
+and pig farmers. Vet. Microbiol. 128, 298–303.
+
+Kwon, N. H., K. T. Park, J. S. Moon, W. K. Jung, S. H. Kim, J.
+
+M. Kim, S. K. Hong, H. C. Koo, Y. S. Joo, and Y. H. Park,
+2005: Staphylococcal cassette chromosome mec (SCCmec)
+characterization and molecular analysis for methicillin-resis-
+tant Staphylococcus aureus and novel SCCmec subtype IVg
+isolated from bovine milk in Korea. J. Antimicrob. Chemother.
+56, 624–632.
+
+Lange, C., M. Cardoso, D. Senczek, and S. Schwarz, 1999:
+
+Molecular subtyping of Staphylococcus aureus isolates from
+cases of bovine mastitis in Brazil. Vet. Microbiol. 67,
+127–141.
+
+Laurent, F., H. Chardon, M. Haenni, M. Bes, M. E. Reverdy, J.
+
+Y. Madec, E. Lagier, F. Vandenesch, and A. Tristan, 2012:
+MRSA harboring mecA variant gene mecC, France. Emerg.
+Infect. Dis. 9, 1465–1467.
+
+Lee, J. H., 2003: Methicillin (Oxacillin)-resistant Staphylococcus
+
+aureus strains isolated from major food animals and their
+potential transmission to humans. Appl. Environ. Microbiol.
+69, 6489–6494.
+
+Loefﬂer, A., and D. H. Lloyd, 2010: Companion animals: a reser-
+
+voir for methicillin-resistant Staphylococcus aureus in the
+community? Epidemiol. Infect. 138, 595–605.
+
+McKay, A. M., 2008: Antimicrobial resistance and heat sensitiv-
+
+ity of oxacillin-resistant, mecA-positive Staphylococcus spp.
+from unpasteurized milk. J. Food Prot. 71, 186–190.
+
+Mombach Pinheiro Machado, A. B., K. C. Reiter, R. M. Pai-
+
+va, and A. L. Barth, 2007: Distribution of staphylococcal
+cassette chromosome mec (SCCmec) types I, II, III and
+IV in coagulase-negative staphylococci from patients
+attending a tertiary hospital in southern Brazil. J. Med.
+Microbiol. 56, 1328–1333.
+
+Haran, K. P., S. M. Godden, D. Boxrud, S. Jawahir, J. B. Bender,
+
+and S. Sreevatsan, 2012: Prevalence and characterization of
+Staphylococcus aureus, including methicillin-resistant Staphy-
+lococcus aureus, isolated from bulk tank milk from Minnesota
+dairy farms. J. Clin. Microbiol. 50, 688–695.
+
+Moon, J. S., A. R. Lee, H. M. Kang, E. S. Lee, M. N. Kim, Y. H.
+Paik, Y. H. Park, Y. S. Joo, and H. C. Koo, 2007: Phenotypic
+and genetic antibiogram of methicillin-resistant staphylococci
+isolated from bovine mastitis in Korea. J. Dairy Sci. 90, 1176–
+1185.
+
+Hartman, B. J., and A. Tomasz, 1984: Low-afﬁnity penicillin-
+
+Mulvey, M. R., L. Chui, J. Ismail, L. Louie, C. Murphy, N.
+
+binding protein associated with beta-lactam resistance in
+Staphylococcus aureus. J. Bacteriol. 158, 513–516.
+
+Hasman, H., A. Moodley, L. Guardabassi, M. Stegger, R. L. Skov,
+
+and F. M. Aarestrup, 2010: Spa type distribution in Staphylo-
+coccus aureus originating from pigs, cattle and poultry. Vet.
+Microbiol. 141, 326–331.
+
+Hata, E., K. Katsuda, H. Kobayashi, K. Nishimori, I. Uchida, M.
+Higashide, E. Ishikawa, T. Sasaki, and M. Eguchi, 2008: Bacte-
+riological characteristics of Staphylococcus aureus isolates from
+humans and bulk milk. J. Dairy Sci. 91, 564–569.
+
+Huber, H., S. Koller, N. Giezendanner, R. Stephan, and C. Zwei-
+fel, 2010: Prevalence and characteristics of meticillin-resistant
+Staphylococcus aureus in humans in contact with farm ani-
+mals, in livestock, and in food of animal origin, Switzerland,
+2009. Euro. Surveill. 215, 19542.
+
+Chang, M. Alfa, and Canadian Committee for the Standardi-
+zation of Molecular Methods, 2001: Development of a Cana-
+dian standardized protocol for subtyping methicillin-resistant
+Staphylococcus aureus using pulsed-ﬁeld gel electrophoresis. J.
+Clin. Microbiol. 39, 3481–3485.
+
+Nannini, E. C., M. E. Stryjewski, K. V. Singh, A. Bourgogne, T.
+
+H. Rude, G. R. Corey, V. G. Jr Fowler, and B. E. Murray,
+2003: Inoculum effect with cefazolin among clinical isolates of
+methicillin-susceptible Staphylococcus aureus: frequency and
+possible cause of cefazolin treatment failure. Antimicrob.
+Agents Chemother. 53, 3437–3441.
+
+Oliveira, D. C., and H. De Lencastre, 2002: Multiplex PCR strat-
+egy for rapid identiﬁcation of structural types and variants of
+the mec element in methicillin-resistant Staphylococcus aureus.
+Antimicrob. Agents Chemother. 46, 2155–2161.
+
+104
+
+© 2015 Blackwell Verlag GmbH  Zoonoses and Public Health, 2016, 63, 97–105
+
+C. J. B. Oliveira et al.
+
+MRSA in Brazilian Dairy Farms
+
+Palazzo, I. C. V., M. L. C. Araujo, and A. L. C. Darini, 2005: First
+
+report of vancomycin-resistant staphylococci isolated from
+healthy carriers in Brazil. J. Clin. Microbiol. 43, 179–185.
+Paterson, G. K., J. Larsen, E. M. Harrison, A. R. Larsen, F. J.
+Morgan, S. J. Peacock, J. Parkhill, R. N. Zadoks, and M. A.
+Holmes, 2012: First detection of livestock-associated meticil-
+lin-resistant Staphylococcus aureus CC398 in bulk tank milk in
+the United Kingdom, January to July 2012. Euro. Surveill. 17,
+20337.
+
+Pereira, M. S., and J. P. Siqueira-Junior, 1995: Antimicrobial
+
+drug resistance in Staphylococcus aureus isolated from cattle in
+Brazil. Lett. Appl. Microbiol. 20, 391–395.
+
+Pitk€al€a, A., M. Haveri, S. Py€or€al€a, V. Myllys, and T. Hon-kanen-
+
+Buzalski, 2004: Bovine mastitis in Finland 2004-prevalence,
+distribution of bacteria and antimicrobial resistance. J. Dairy
+Sci. 87, 2433–2441.
+
+methicillin-resistant Staphylococcus aureus (MRSA) isolation?
+A systematic review and meta-analysis. J. Antimicrob. Chemo-
+ther. 61, 26–38.
+
+Thakur, S., D. A. Tadesse, M. Morrow, and W. A. Gebreyes,
+
+2007: Occurrence of multidrug resistant Salmonella in antimi-
+crobial-free (ABF) swine production systems. Vet. Microbiol.
+125, 362–367.
+
+Thornsberry, C., P. J. Burton, Y. C. Yee, J. L. Watts, and R.
+J. Jr Yancey, 1997: The activity of a combination of peni-
+cillin and novobiocin against bovine mastitis pathogens:
+development of a disk diffusion test. J. Dairy Sci. 80,
+413–421.
+
+Unnerstad, H. E., B. Bengtsson, M. Horn af Rantzien, and S.
+B€orjesson, 2013: Methicillin-resistant Staphylococcus aureus
+containing mecC in Swedish dairy cows. Acta Vet. Scand. 55,
+6.
+
+Rabello, R. F., B. M. Moreira, R. M. Lopes, L. M. Teixeira, L. W.
+
+Van Loo, I., X. Huijsdens, E. Tiemersma, A. De Neeling, N.
+
+Riley, and A. C. Castro, 2007: Multilocus sequence typing of
+Staphylococcus aureus isolates recovered from cows with mas-
+titis in Brazilian dairy herds. J. Med. Microbiol. 56, 1505–1511.
+Roesch, M., V. Perreten, M. G. Doherr, W. Schaeren, M. Schalli-
+baum, and J. W. Blum, 2006: Comparison of antibiotic resis-
+tance of udder pathogens in dairy cows kept on organic and
+on conventional farms. J. Dairy Sci. 89, 989–997.
+
+Rozenbaum, R., M. G. Sampaio, G. S. Batista, A. M. Garibaldi,
+G. M. Terra, M. J. Souza, E. N. Vieira, M. C. Silva-Carvalho,
+L. A. Teixeira, and A. M. Figueiredo, 2009: The ﬁrst report in
+Brazil of severe infection caused by community-acquired
+methicillin-resistant Staphylococcus aureus (CA-MRSA). Braz.
+J. Med. Biol. Res. 42, 756–760.
+
+Simor, A. E., L. Louie, C. Watt, D. Gravel, M. R. Mulvey, J.
+
+Campbell, A. McGeer, E. Bryce, M. Loeb, A. Matlow, and the
+Canadian Nosocomial Infection Surveillance Program, 2010:
+Antimicrobial susceptibilities of health care-associated and
+community-associated strains of methicillin-resistant Staphy-
+lococcus aureus from hospitalized patients in Canada, 1995 to
+2008. Antimicrob. Agents Chemother. 54, 2265–2268.
+
+Smith, E. M., L. E. Green, G. F. Medley, H. E. Bird, L. K. Fox, Y.
+H. Schukken, J. V. Kruze, A. J. Bradley, R. N. Zadoks, and C.
+G. Dowson, 2005: Multilocus sequence typing of international
+bovine Staphylococcus aureus isolates. J. Clin. Microbiol. 43,
+4731–4736.
+
+Van de Sande-Bruinsma, D. Beaujean, A. Voss, and J.
+Kluytmans, 2007: Emergence of methicillin-resistant Staph-
+ylococcus aureus of animal origin in humans. Emer. Infect.
+Dis. 13, 1834.
+
+Vandenesch, F., T. Naimi, M. C. Enright, G. Lina, G. R. Nimmo,
+H. Heffernan, N. Liassine, M. Bes, T. Greenland, M. E. Rever-
+dy, and J. Etienne, 2003: Community-acquired methicillin-
+resistant Staphylococcus aureus carrying Panton-Valentine
+leukocidin genes: worldwide emergence. Emerg. Infect. Dis. 9,
+978–984.
+
+Veras, J. F., L. S. Do Carmo, L. C. Tong, J. W. Shupp, C. Cum-
+mings, D. A. Dos Santos, M. M. Cerqueira, A. Cantini, J. R.
+Nicoli, and M. Jett, 2008: A study of the enterotoxigenicity of
+coagulase-negative and coagulase-positive staphylococcal iso-
+lates from food poisoning outbreaks in Minas Gerais, Brazil.
+Int. J. Infect. Dis. 12, 410–415.
+
+Virgin, J. E., T. M. Van Slyke, J. E. Lombard, and R. N. Zadoks,
+2009: Methicillin-resistant Staphylococcus aureus detection in
+US bulk tank milk. J. Dairy Sci. 92, 4988–4991.
+
+Weese, J. S., J. Rousseau, B. M. Willey, M. Archambault, A.
+
+McGeer, and D. E. Low, 2006: Methicillin-resistant Staphylo-
+coccus aureus in horses at a veterinary teaching hospital: fre-
+quency, characterization, and association with clinical disease.
+J. Vet. Intern. Med. 20, 182–186.
+
+Yamane, I., 2006: Epidemics of emerging animal diseases and
+
+Tacconelli, E., G. De Angelis, M. A. Cataldo, E. Pozzi, and R.
+Cauda, 2008: Does antibiotic exposure increase the risk of
+
+food-borne infection problems over the last 5 years in Japan.
+Ann. N. Y. Acad. Sci. 1081, 30–38.
+
+© 2015 Blackwell Verlag GmbH  Zoonoses and Public Health, 2016, 63, 97–105
+
+105
+
+

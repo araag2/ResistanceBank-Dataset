@@ -1,0 +1,920 @@
+Chen et al. BMC Veterinary Research          (2019) 15:456 
+https://doi.org/10.1186/s12917-019-2202-4
+
+Open Access
+
+R ES EAR CH A R T I C LE
+Genotypic characterization and
+antimicrobial resistance profile of
+Salmonella isolated from chicken, pork and
+the environment at abattoirs and
+supermarkets in Chongqing, China
+Tingting Chen1†, Jiali Jiang1†, Chao Ye1, Jianhua Xie2, Xia Chen3, Dongyi Xu1, Zheng Zeng2, Yuanyi Peng1,
+Dong-Liang Hu1,4 and Rendong Fang1*
+
+Abstract
+
+Background: Salmonella is one of the most important foodborne pathogens, causing outbreaks of human salmonellosis
+worldwide. Owing to large scales of consumption markets, pork and poultry that contaminated by Salmonella could pose
+a tremendous threat to public health. The aim of this study was to investigate the contamination of Salmonella from
+chicken, pork and the environment in slaughtering and retail processes in Chongqing, China.
+Results: A total of 115 Salmonella isolates were recovered from 1112 samples collected from pork, chicken and the
+environment. Compared with the isolation rate of samples from chicken (9.50%) and the environment (6.23%), samples
+from pork had a significant higher isolation rate (44.00%). The isolation rates in slaughterhouses (10.76%) and in
+supermarkets (10.07%) showed no statistical difference. Thirty different serotypes were identified among all the isolates. S.
+Derby (n = 26), S. London (n = 16) and S. Rissen (n = 12) were the dominant serotypes. Antimicrobial susceptibility testing
+revealed that 73.04% isolates were resistant to tetracycline, followed by 66.96% to ampicillin and 59.13% to doxycycline.
+More than half (50.43%) of the isolates were multidrug resistant (MDR), and most of the MDR isolates were from
+supermarkets. Multilocus sequence typing results showed 24 out of 115 isolates were ST40, which was the most
+prevalent. Furthermore, isolates from supermarkets had 20 different sequence types while isolates from slaughterhouses
+only had 8 different sequence types.
+Conclusion: Our study highlighted that Salmonella was more frequently isolated in pork production chain than that in
+chicken. Compared with isolates from slaughterhouses, isolates from supermarkets had more MDR profiles and
+represented a wider range of serotypes and sequence types, indicating that the retail process had more diverse sources
+of Salmonella contamination than that of slaughtering process.
+Keywords: Salmonella, Serotype, Multilocus sequence typing, Antimicrobial resistance, Slaughterhouse, Supermarket
+
+* Correspondence: rdfang@swu.edu.cn
+†Tingting Chen and Jiali Jiang contributed equally to this work.
+1College of Animal Science and Technology, Southwest University, No. 2
+Tiansheng Road, Beibei District, Chongqing 400715, China
+Full list of author information is available at the end of the article
+
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Chen et al. BMC Veterinary Research          (2019) 15:456 
+
+Page 2 of 8
+
+Background
+Salmonella, a foodborne pathogen, causes diarrhoeal dis-
+eases even death in both humans and animals [1]; it can
+survive in a dry environment for several weeks or even in
+water for several months [2]. According to previous sur-
+veys, the aetiological agent of salmonellosis largely attrib-
+uted to contaminated food, which mostly were poultry
+and pork [3, 4]. In China, pork is the mainstream of meat
+consumption. Meanwhile, the consumption of poultry is
+rising year by year. Contamination by Salmonella in
+slaughtering and retail processes of chicken and pork
+could be a potential pathway to threat public health.
+
+Antibiotics are widely used to improve human and ani-
+mal health, and also are commonly incorporated into ani-
+mal feed to improve growth rate and feed efficiency in
+many countries [5, 6] A previous report showed that China
+approximately consumed more than 162,000 tons of antibi-
+otics annually, and husbandry industry account for 52.00%
+of the total consumption. Within the husbandry industry
+consumed antibiotics, 52.20% antibiotics were in pork pro-
+duction and 19.60% were in chicken production. As for the
+categories of antibiotic, sulfonamides, tetracyclines, fluoro-
+quinolones, macrolides, β-lactams, and other antibiotics
+shared 5.00, 7.00, 17.00, 26.00, 21.00, and 24.00% of the
+total usage [7]. Long-term exposed to antibiotics has led se-
+lection pressure to environmental bacterium, which causes
+antimicrobial resistance and even multidrug resistance
+(MDR). Antimicrobial resistance in Salmonella is a global
+issue. Large amount of Salmonellae resistant to extended-
+spectrum-β-lactams (ESBLs) and fluoroquinolones, which
+are important in treating salmonellosis [8]. Drug-resistant
+Salmonella, especially multidrug-resistant Salmonella, has
+been a menace to food safety and human health.
+
+to
+
+investigate
+
+used
+
+Typing methods
+
+the
+characterization of Salmonella can help to enrich our
+knowledge of its regularity of dissemination. Serotyping
+presents a well-established methodology for typing of
+Salmonella [9]. To date, approximately 2600 serotypes
+have been discovered. The traditional method for sero-
+typing,
+the Kauffmann-White-Le Minor Scheme re-
+quires a series of antisera, consuming time and money.
+Hence, a variety of typing methods were established to
+study the molecular epidemiologic characterization of
+Salmonella with its transmission dynamics,
+including
+pulsed-field gel electrophoresis (PFGE), restriction frag-
+ment length polymorphism (RFLP), amplified fragment
+length polymorphism (AFLP), whole-genome sequen-
+cing (WGS), and multilocus sequence typing (MLST)
+[10–13]. Compared with other methods, MLST is a
+highly repeatable typing method that based on se-
+quence analysis of selected housekeeping genes. Re-
+cently, approximately 224,516 Salmonella strains has
+been uploaded by users in the MLST database [14],
+which becomes a convenient tool for researchers.
+
+Contamination and antimicrobial resistance of Salmon-
+ella isolated from food-producing animals is severe world-
+wide [15], particularly in China [16–18]. Furthermore,
+several studies reported that Salmonella isolates could be
+recovered from farms, slaughterhouses and retail markets
+[19, 20] and a previous study indicated that Salmonella
+isolates could transmitted from slaughterhouses to retail
+markets in pig production chain [17]. However, few stud-
+ies focused on the comparison of Salmonella contamin-
+ation inpork and chicken as well as their slaughtering and
+retail chains. Therefore, the intention of this study was to
+compare the antimicrobial resistance, and genetic rela-
+tionship of Salmonella isolates recovered from the envir-
+onment, chicken and pork at abattoirs and supermarkets
+located in Chongqing, China.
+
+Results
+Isolation and serotyping of Salmonella from samples
+A total of 115 Salmonella isolates were recovered from
+1112 samples collected from slaughterhouses and super-
+markets, the isolation rates form pork, chicken and the
+environment were 44.00, 9.50 and 6.23%, respectively.
+Samples from pork had significant higher isolation rates
+than that from chicken and the environment in both
+slaughterhouses and supermarkets (Table 1). Within the
+different sources of environmental samples, Salmonellae
+were isolated only from floor, knives and tables at
+slaughterhouses, but isolated from all the sources of en-
+vironmental samples at supermarkets, especially chop-
+ping boards and ice (Table 2). These results indicated
+that the environment in supermarkets had more diverse
+contamination sources than that in slaughterhouses.
+
+Thirty serotypes in 108 isolates were successfully identi-
+fied, except that seven isolates were failed in serotyping. Sal-
+monella Derby (n = 26), London (n = 16), and Rissen (n = 12)
+were the most commonly observed serotypes in this study.
+Isolates from slaughterhouses had 10 serotypes (Fig. 1a) and
+supermarkets had 25 serotypes (Fig. 1b). Five serotypes
+(Derby, Typhimurium, London, Rissen, and Jerusalem) were
+shared both at supermarkets and slaughterhouses. Five sero-
+types were only detected at slaughterhouses, while 20 sero-
+types were only detected at supermarkets. Taken together,
+isolates from supermarkets showed more diverse serotypes
+than that from slaughterhouses.
+
+Antimicrobial susceptibility testing
+Antimicrobial susceptibility testing of 115 Salmonella
+isolates to 13 antimicrobials was performed. Overall,
+85.22% (98/115) isolates were resistant to at least one
+antibiotic and 50.43% (58/115) were MDR. For samples
+from both slaughterhouses and supermarkets,
+isolates
+showed resistance to tetracycline (73.04%, 84/115) was
+the highest, followed by 66.96% (77/115) to ampicillin
+and 59.13% (68/115) to doxycycline (Fig. 2a). The rates
+
+Chen et al. BMC Veterinary Research          (2019) 15:456 
+
+Page 3 of 8
+
+Table 1 Positive isolation rates of Salmonella from different sampling sources
+Sampling Site
+Slaughterhouse and supermarket
+
+Sampling Source
+Chicken
+
+No. of Samples
+242
+
+Positive No. of Isolates
+23
+
+Isolation Rate
+9.50%
+
+Slaughterhouse
+
+Supermarket
+
+Pork
+
+Environment
+
+Total
+
+Chicken
+
+Pork
+
+Environment
+
+Total
+
+Chicken
+
+Pork
+
+Environment
+
+Total
+
+100
+
+770
+
+1112
+
+150
+
+42
+
+245
+
+437
+
+92
+
+58
+
+525
+
+675
+
+44
+
+48
+
+115
+
+14
+
+18
+
+15
+
+47
+
+9
+
+26
+
+33
+
+68
+
+44.00%
+
+6.23%
+
+10.34%
+
+9.33%
+
+42.86%
+
+6.12%
+
+10.76%
+
+9.78%
+
+44.83%
+
+6.29%
+
+10.07%
+
+of strains that were sensitive or resistant to one or two
+classes of antibiotics were displayed in Fig. 2b–d. The
+MDR strains (Fig. 2e) were made up of 25.86% (15/58)
+at slaughterhouses and 74.14% (43/58) at supermarkets.
+
+Multilocus sequence typing
+Multilocus sequence typing was used to identify the re-
+latedness of Salmonella in pork, chicken and the envir-
+onment
+supermarkets.
+Twenty-three different sequence types (STs) were identi-
+fied among 108 isolates, while 7 isolates with failed sero-
+typing results also defected in MLST were excluded for
+further analysis (Fig. 3). All sequence types consist of 15
+
+from slaughterhouses
+
+and
+
+from supermarkets, 3 (ST543, ST365 and ST516) from
+slaughterhouses and 5 (ST19, ST34, ST40, ST155 and
+ST469) from both sites. Most of the sequence types were
+detected in less than 10 isolates, except for ST40, ST155
+and ST469. The largest population of isolates were ST40
+(n = 24), followed by ST155 (n = 19) and ST469 (n = 17).
+Some Salmonella isolates presented similar sequence
+types that belonged to the same serovar. For example, all
+ST40 isolates were S. Derby, all S. Rissen isolates
+belonged to a single cluster (ST469) and 15 out of 16 S.
+London isolates were ST155. As for the relationship be-
+tween MLST and antibiotic resistance, we found that
+ST17 and ST155 were resistant to a wide range of
+
+Table 2 Contamination frequency of environmental samples from supermarkets and slaughterhouses
+Sampling site
+Slaughterhouse
+
+No. of Samples
+30
+
+Positive No. of Isolates
+0
+
+Source
+Wash water
+
+Knives
+
+Floor
+
+Feces
+
+Apparatus
+
+Containers
+
+Tables
+
+Carcasses
+
+Blood
+
+Total
+
+Supermarket
+
+Chopping boards
+
+Ice
+
+Knives
+
+Floor
+
+Containers
+
+Wash water
+
+Tables
+
+Total
+
+30
+
+30
+
+15
+
+30
+
+30
+
+30
+
+30
+
+20
+
+245
+
+75
+
+75
+
+75
+
+75
+
+75
+
+75
+
+75
+
+525
+
+3
+
+10
+
+0
+
+0
+
+0
+
+2
+
+0
+
+0
+
+15
+
+7
+
+6
+
+4
+
+6
+
+4
+
+3
+
+3
+
+33
+
+Positive Rate
+0
+
+10.00%
+
+33.33%
+
+0
+
+0
+
+0
+
+6.67%
+
+0
+
+0
+
+6.12%
+
+9.33%
+
+8.00%
+
+5.33%
+
+8.00%
+
+5.33%
+
+4.00%
+
+4.00%
+
+6.29%
+
+Chen et al. BMC Veterinary Research          (2019) 15:456 
+
+Page 4 of 8
+
+Fig. 1 Serotype results of Salmonella isolates. a Serotype results of isolates from chicken, pork and the environment in slaughterhouses. b
+Serotype results of isolates from chicken, pork and the environment in supermarkets
+
+antibiotics in this study, especially that 16 out of 18
+ST155 isolates were MDR strains (Fig. 3).
+
+Discussion
+For the purpose of this study, Salmonella isolates were
+recovered from scores of sites, including chicken, pork
+and the environment at abattoirs and supermarkets. Our
+results indicated that Salmonella was more frequently
+isolated in pork, and supermarkets exhibited a higher
+MDR Salmonella isolation rate and more diversity in se-
+rotypes and sequence types than slaughterhouses.
+
+The overall isolation rate of Salmonella in our study was
+10.25%, which was lower than previous studies conducted
+in Sichuan province [11] and Yangzhou city [17], but close
+to surveys in three provinces of central China [21] and
+Germany [22]. It should be noted that although isolation
+rate at slaughterhouses (10.76%) was similar to that at
+supermarkets (10.07%), Salmonella appeared more fre-
+quently in pork (44.00%) than that in chicken (9.50%).
+Other studies also showed that Salmonella contamination
+rates in pork varies from 30 to 70% at retail markets [23,
+24] and from 10 to 50% at slaughterhouses [25, 26],
+
+indicating that poor control measures were performed in
+slaughtering and retail chains of pork. For example, poor
+general hygiene and unsuitable storage conditions were
+commonly detected in pig slaughterhouses. Also, lacking
+of appropriate storage methods and regular disinfection
+increased the risk of Salmonella-colonizing activity at re-
+tail markets. In general, all of the differences attributed to
+collection seasons, amounts of samples and types, isola-
+tion methods and management.
+
+S. Derby, generally detected in pork, could cause sal-
+monellosis in many countries [27], and S. Rissen was
+generally considered to be transported through pig prod-
+ucts in European countries [28]. In this study, S. Derby
+and S. Rissen were isolated from pork, chicken and the
+environment, and most of S. Derby isolates were de-
+tected in the environment. S. Derby was the dominant
+serotype, which was similar to other studies [11, 17]. S.
+Typhimurium and S. Enteritidis are the main serotypes
+causing acute human infection [29], and in this study 11
+isolates were detected to be S. Enteritidis or S. Typhi-
+murium, which had potential threats to public health. In
+addition, more categories of serotypes and sequence
+
+Chen et al. BMC Veterinary Research          (2019) 15:456 
+
+Page 5 of 8
+
+Fig. 2 Antimicrobial resistance results of Salmonella isolates. a The resistance rates of Salmonella from different sampling sources. b The rates of
+sensitivity Salmonella isolates to all classes of antibiotics. c The rates of resistant Salmonella isolates to one class antibiotics. d The rates of resistant
+Salmonella isolates to two classes antibiotics. e The rates of MDR Salmonella isolates. Statistical significance was determined by chi-squared test (*P < 0.05)
+
+types were detected in isolates from supermarkets than
+that from slaughterhouses, demonstrating the various
+and abundant sources of contamination in retail process.
+Some STs in this study related to specific serovars, for
+instance S. London with ST155, ST469 with S. Rissen,
+and ST40 with S. Derby. Our results supported the con-
+jecture that multilocus sequence typing could be an al-
+ternative method for serotyping in the future [30].
+
+In this study, most of the isolates showed resistance to
+tetracycline and ampicillin, which was similar to a previ-
+ous study [31]. The high resistance rate to these two an-
+tibiotics is reasonable, since these two antibiotics has
+been largely used in the husbandry industry in China
+[7]. It was noteworthy that more than half of the isolates
+exhibited MDR profiles, and compared with slaughter-
+houses, MDR Salmonella contamination occurred at su-
+permarkets was much more frequently. The sanitation
+control strategies in supermarkets need to be carried out
+in this area to improve the safety of animal products.
+
+Conclusion
+In summary, the results of this study indicated that the
+contamination of Salmonella occurred in pork made it
+become a potential reservoir for human infection to
+some extent. In addition, although the isolation rate at
+supermarkets was close to that at slaughterhouses, iso-
+lates from supermarkets presented a high frequency of
+
+MDR profiles and a wider range of serotypes and sequence
+types; these results indicated that Salmonella isolates from
+supermarkets were more threatening and their sources were
+much more complicated than that from slaughterhouses.
+Therefore, strict hygiene method and HACCP management
+in retail process should be taken into consideration to pre-
+vent foodborne infection caused by Salmonella.
+
+Methods
+Sample collection
+Convenience sampling was carried out in 7 slaughterhouses
+and 5 supermarkets in 12 districts of Chongqing, China.
+From March to October in 2015, a total of 1112 samples
+were isolated. Chicken and pork were unpacked fresh meat;
+slaughtering environment including wash water (n = 30),
+knives (n = 30), floor (n = 30), feces (n = 15), apparatus (n =
+30), containers (n = 30), tables (n = 30), carcasses (n = 30),
+and blood (n = 20); retail environment including chopping
+boards (n = 75), ice (n = 75), knives (n = 75), floor (n = 75),
+containers (n = 75), wash water (n = 75), and tables (n = 75).
+All collected samples were stored in an icebox and trans-
+ported to a laboratory within 2 h of collection for immedi-
+ate processing and then held in a refrigerator at 4 °C.
+
+Isolation and serotyping
+After a pre-enrichment step of each sample in 10 mL
+sterile buffered peptone water (BPW) and incubated
+
+Chen et al. BMC Veterinary Research          (2019) 15:456 
+
+Page 6 of 8
+
+Fig. 3 Unweighted pair group method with arithmetic means (UPGMA) dendrogram based on multilocus sequence typing (MLST) profiles of the
+108 Salmonella isolates from slaughterhouses and supermarkets
+
+Chen et al. BMC Veterinary Research          (2019) 15:456 
+
+Page 7 of 8
+
+overnight at 37 °C. 0.2 mL of each pre-enriched suspen-
+sions were added into 2 ml of Rappaport-Vassiliadis en-
+richment Broth (RVB) and 2 ml of Tetrathionate broth
+(TTB) respectively, then incubated at 42 °C for 24 h. One
+loopful of each RVB and TTB culture was then streaked
+onto Xylose Lysine Tergitol 4 (XLT-4) agar plates, which
+were incubated at 37 °C for 24 to 48 h. Among suspected
+colonies, only one was picked up from a plate and con-
+firmed by specific gene through Polymerase Chain Reac-
+tion (PCR) of Salmonella using assays. Each isolate was
+serotyped
+the
+Kauffmann-White-Le Minor Scheme [32].
+
+agglutination
+
+based
+
+slide
+
+on
+
+by
+
+Antimicrobial susceptibility testing
+The standard Kirby-Bauer disk diffusion method recom-
+mended by the Clinical and Laboratory Standards Insti-
+tute (CLSI, 2010) was carried out to test antimicrobial
+susceptibility of the Salmonella isolates to 13 categories
+of antimicrobials (Hangzhou Microbial Reagent., Ltd.):
+ampicillin (AMP 10 μg), cefoperazone (CFP 75 μg), pi-
+peracillin (PRL 100 μg), tetracycline (TE 30 μg), ceftazi-
+dime (CAZ 30 μg), doxycycline (DOX 30 μg), ceftriaxone
+(CRO 30 μg), minocycline (MH 30 μg), norfloxacin
+(NOR 10 μg), sulfamethoxazole (SXT 1.25 μg), ofloxacin
+(OFX 5 μg), chloramphenicol (C 30 μg) and ciprofloxacin
+(CIP 5 μg). Escherichia coli ATCC 25922 was invoked as
+the control organism. According to the CLSI, the iso-
+lates were considered to be susceptible, intermediate, or
+resistant. Salmonella isolates resistant to three or more
+antimicrobial classes were defined as MDR isolates.
+
+Multilocus sequence typing
+Protocols used for MLST of Salmonella were described
+online [33]. Seven housekeeping genes were amplified by
+PCR, including thrA, purE, sucA, hisD, aroC, hemD, and
+dnaN. PCR products were purified and sequenced by
+Sanger method, and the alleles and STs were assigned
+according to the MLST scheme [34]. The unweighted
+pair group method with arithmetic means analysis
+(UPGMA) was utilized to infer relationships among the
+isolates through MEGA7 software [35].
+
+Statistical analysis
+All statistical analyses were done using SPSS 20.0 (SPSS
+Inc., Chicago, IL), and the chi-squared test was applied
+to assess any statistically significant (P < 0.05) differences
+in this study.
+
+Abbreviations
+AMP: ampicillin; C: chloramphenicol; CAZ: ceftazidime; CFP: cefoperazone;
+CIP: ciprofloxacin; CLSI: Clinical and Laboratory Standards Institute;
+CRO: ceftriaxone; DOX: doxycycline; ESBL: Extended-spectrum-β-lactams;
+MDR: multidrug resistance; MH: minocycline; MLST: multilocus sequence
+typing; NOR: norfloxacin; OFX: ofloxacin; PRL: piperacillin; ST: sequence type;
+SXT: sulfamethoxazole; TE: tetracycline; UPGMA: the unweighted pair group
+method with arithmetic means analysis
+
+Acknowledgements
+Not applicable.
+
+Authors’ contributions
+T.C., J.J., and D.X. performed the experiments and analyzed the data. Z.Z., J.X.,
+and X.C. collected samples. C.Y., D.H., and Y.P. helped in analyzing the data
+and designing the experiments. R.F., supervised the study, R.F., T.C., and J.J.,
+drafted the manuscript. All authors read and approved the final manuscript.
+
+Funding
+This work was supported by the National Key Research and Development
+Program of China (2018YFD0500500), the Chongqing Science & Technology
+Commission (cstc2018jscx-msybX0302), the Fundamental Research Funds for
+the Central Universities (XDJK2019B012), the National Agricultural Product
+Quality and Safety Risk Assessment Project (GJFP2019007), the Earmarked
+Fund for China Agriculture Research System (CARS-37), the Beibei Science &
+Technology Commission (No. 2018–20). The funding bodies had no role in
+study design, data collection or analysis, decision to publish or preparation.
+
+Availability of data and materials
+The datasets used and/or analyzed during the current study available from
+the corresponding author on reasonable request.
+
+Ethics approval and consent to participate
+Samples from slaughterhouses and supermarkets were sampled with the
+verbal consent of the slaughterhouse and supermarket owners. All animal
+procedures were reviewed and approved by Institutional Animal Care and
+Use Committee of Southwest University (Permit No. IACUC-2015-0219-03).
+
+Consent for publication
+Not applicable.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Author details
+1College of Animal Science and Technology, Southwest University, No. 2
+Tiansheng Road, Beibei District, Chongqing 400715, China. 2Chongqing
+Animal Disease Prevention and Control Center; Laboratory of Quality &
+Safety Risk Assessment for Animal Products on Biohazards, Ministry of
+Agriculture, Chongqing 401120, China. 3Animal Husbandry and Aquatic
+Products Station of Yubei District, Chongqing 401120, China. 4Department of
+Zoonoses, Kitasato University School of Veterinary Medicine, Towada
+034-8628, Japan.
+
+Received: 7 August 2019 Accepted: 28 November 2019
+
+References
+1.
+
+Newell DG, Koopmans M, Verhoef L, Duizer E, Aidara-Kane A, Sprong H,
+Opsteegh M, Langelaar M, Threfall J, Scheutz F, et al. Food-borne diseases –
+the challenges of 20 years ago still persist while new ones continue to
+emerge. Int J Food Microbiol. 2010;139(Suppl 1):S3–15.
+Abraham S, Groves MD, Trott DJ, Chapman TA, Turner B, Hornitzky M,
+Jordan D. Salmonella enterica isolated from infections in Australian livestock
+remain susceptible to critical antimicrobials. Int J Antimicrob Ag. 2014;43(2):
+126–30.
+
+2.
+
+4.
+
+3. Mikanatha NM, Sandt CH, Localio AR, Tewari D, Rankin SC, Whichard JM,
+Altekruse SF, Lautenbach E, Folster JP, Russo A, et al. Multidrug-resistant
+Salmonella isolates from retail chicken meat compared with human clinical
+isolates. Foodborne Pathog Dis. 2010;7(8):929–34.
+Campos J, Mourao J, Peixe L, Antunes P. Non-typhoidal Salmonella in the
+pig production chain: a comprehensive analysis of its impact on human
+health. Pathogens. 2019;8:1.
+Sarmah AK, Meyer MT, Boxall AB. A global perspective on the use, sales,
+exposure pathways, occurrence, fate and effects of veterinary antibiotics
+(VAs) in the environment. Chemosphere. 2006;65(5):725–59.
+Zhou LJ, Ying GG, Liu S, Zhang RQ, Lai HJ, Chen ZF, Pan CG. Excretion
+masses and environmental occurrence of antibiotics in typical swine and
+dairy cattle farms in China. Sci Total Environ. 2013;444:183–95.
+
+5.
+
+6.
+
+Chen et al. BMC Veterinary Research          (2019) 15:456 
+
+Page 8 of 8
+
+27. None. Report of the task force on zoonoses data collection on the analysis
+of the baseline survey on the prevalence of Salmonella in broiler flocks of
+Gallus gallus, in the EU, 2005–2006 – Part B: factors related to Salmonella
+flock prevalence, distribute. EFSA J. 2007;5(10):101.
+
+28. Hendriksen RS, Bangtrakulnonth A, Pulsrikarn C, Pornreongwong S, Hasman
+
+H, Song SW, Aarestrup FM. Antimicrobial resistance and molecular
+epidemiology of Salmonella Rissen from animals, food products, and
+patients in Thailand and Denmark. Foodborne Pathog Dis. 2008;5(5):605–19.
+
+29. Hendriksen RS, Vieira AR, Karlsmose S, Lo Fo Wong DMA, Jensen AB,
+Wegener HC, Aarestrup FM. Global monitoring of Salmonella serovar
+distribution from the world health organization global foodborne infections
+network country data Bank: results of quality assured laboratories from 2001
+to 2007. Foodborne Pathog Dis. 2011;8(8):887.
+
+30. Achtman M, Wain J, Weill FX, Nair S, Zhou Z, Sangal V, Krauland MG, Hale
+
+JL, Harbottle H, Uesbeck A, et al. Multilocus sequence typing as a
+replacement for serotyping in Salmonella enterica. PLoS Pathog. 2012;8(6):
+e1002776.
+
+31. Zhao X, Chaoqun Y, Weishan C, Shuhong S. Serotype distribution,
+
+antimicrobial resistance, and class 1 integrons profiles of Salmonella from
+animals in slaughterhouses in Shandong province, China. Front microbiol.
+2017;8:1049.
+Issenhuth-Jeanjean S, Roggentin P, Mikoleit M, Guibourdenche M, de Pinna
+E, Nair S, Fields PI, Weill FX. Supplement 2008-2010 (no. 48) to the White-
+Kauffmann-Le Minor scheme. Res Microbiol. 2014;165(7):526–30.
+
+32.
+
+33. Protocols used for MLST of Salmonella enterica. https://enterobase.
+
+readthedocs.io/en/latest/mlst/mlst-legacy-info-senterica.html. Accessed 2
+August 2019.
+EnteroBase. http://enterobase.warwick.ac.uk/species/index/senterica.
+Accessed 2 August 2019.
+Kumar S, Stecher G, Tamura K. MEGA7: molecular evolutionary genetics
+analysis version 7.0 for bigger datasets. Mol Biol Evol. 2016;33(7):1870.
+
+34.
+
+35.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+7.
+
+8.
+
+9.
+
+10.
+
+Zhang QQ, Ying GG, Pan CG, Liu YS, Zhao JL. Comprehensive evaluation of
+antibiotics emission and fate in the river basins of China: source analysis,
+multimedia modeling, and linkage to bacterial resistance. Environ Sci
+Technol. 2015;49(11):6772–82.
+Harrois D, Breurec S, Seck A, Delaune A, Le Hello S, Pardos de la Gandara M,
+Sontag L, Perrier-Gros-Claude JD, Sire JM, Garin B, et al. Prevalence and
+characterization of extended-spectrum beta-lactamase-producing clinical
+Salmonella enterica isolates in Dakar, Senegal, from 1999 to 2009. Clin
+Microbiol Infect. 2014;20(2):109–16.
+Liu WB, Liu B, Zhu XN, Yu SJ, Shi XM. Diversity of Salmonella isolates using
+serotyping and multilocus sequence typing. Food Microbiol. 2011;28(6):
+1182–9.
+Lindstedt BA, Heir E, Vardund T, Kapperud G. A variation of the amplified-
+fragment length polymorphism (AFLP) technique using three restriction
+endonucleases, and assessment of the enzyme combination BgIII–MfeI for
+AFLP analysis of Salmonella enterica subsp. enterica isolates. FEMS Microbiol
+Lett. 2000;189(1):19–24.
+
+11. Ma S, Lei C, Kong L, Jiang W, Liu B, Men S, Yang Y, Cheng G, Chen Y, Wang
+
+H. Prevalence, antimicrobial resistance, and relatedness of Salmonella
+isolated from chickens and pigs on farms, abattoirs, and markets in Sichuan
+province, China. Foodborne Pathog Dis. 2017;14:11.
+
+12. Murase T, Nakamura A, Matsushima A, Yamai S. An epidemiological study of
+
+Salmonella enteritidis by pulsed-field gel electrophoresis (PFGE): several
+PFGE patterns observed in isolates from a food poisoning outbreak.
+Microbiol Immunol. 2013;40(11):873–5.
+
+13. McDermott PF, Tyson GH, Kabera C, Chen Y, Li C, Folster JP, Ayers SL, Lam
+C, Tate HP, Zhao S. Whole-genome sequencing for detecting antimicrobial
+resistance in nontyphoidal Salmonella. Antimicrob Agents Chemother. 2016;
+60(9):5515–20.
+
+14. Nabil-Fareed A, Zhemin Z, Sergeant MJ, Achtman M, Casadesús J. A
+
+genomic overview of the population structure of Salmonella. Plos Genet.
+2018;14(4):e1007261.
+
+15. Hur J, Jawale C, Lee JH. Antimicrobial resistance of Salmonella isolated from
+
+16.
+
+food animals: a review. Food Res Int. 2012;45(2):819–30.
+Li R, Lai J, Wang Y, Liu S, Li Y, Liu K, Shen J, Wu C. Prevalence and
+characterization of Salmonella species isolated from pigs, ducks and
+chickens in Sichuan Province, China. Int J Food Microbiol. 2013;163(1):14–8.
+
+17. Cai Y, Tao J, Jiao Y, Fei X, Zhou L, Wang Y, Zheng H, Pan Z, Jiao X.
+
+Phenotypic characteristics and genotypic correlation between Salmonella
+isolates from a slaughterhouse and retail markets in Yangzhou, China. Int J
+Food Microbiol. 2016;222:56–64.
+
+18. Zhang WH, Lin XY, Xu L, Gu XX, Yang L, Li W, Ren SQ, Liu YH, Zeng ZL,
+
+Jiang HX. CTX-M-27 producing Salmonella enterica serotypes Typhimurium
+and Indiana are prevalent among food-producing animals in China. Front
+Microbiol. 2016;7:436.
+Ed-dra A, Filali FR, Karraouan B, El Allaoui A, Aboulkacem A, Bouchrif B.
+Prevalence, molecular and antimicrobial resistance of Salmonella isolated
+from sausages in Meknes, Morocco. Microb Pathog. 2017;105:340–5.
+
+19.
+
+20. Casanova-Higes A, Andres-Barranco S, Mainar-Jaime RC. Influence of on-
+
+21.
+
+farm pig Salmonella status on Salmonella shedding at slaughter. Zoonoses
+Public Health. 2017;64(5):328–36.
+Kuang X, Haihong H, Menghong D, Yulian W, Ijaz A, Zhenli L, Yuan Z.
+Serotypes and antimicrobial susceptibility of Salmonella spp isolated from
+farm animals in China. Front Microbiol. 2015;6:602.
+
+22. Visscher CF, Klein G, Verspohl J, Beyerbach M, Stratmann-Selke J, Kamphues
+J. Serodiversity and serological as well as cultural distribution of Salmonella
+on farms and in abattoirs in Lower Saxony, Germany. Int J Food Microbiol.
+2011;146(1):44–51.
+
+23. Zhang L, Fu Y, Xiong Z, Ma Y, Wei Y, Qu X, Zhang H, Zhang J, Liao M.
+Highly prevalent multidrug-resistant Salmonella from chicken and pork
+meat at retail markets in Guangdong, China. Front Microbiol. 2018;9:2104.
+
+24. Miao Z, Li S, Qin K, Zhou Y. Prevalence and antimicrobial resistance of
+
+25.
+
+Salmonella isolates recovered from retail pork in major village markets in
+Tai’an region, China. J Food Prot. 2017;80(10):1635–40.
+Fois F, Piras F, Torpdahl M, Mazza R, Consolati SG, Spanu C, Scarano C, De
+Santis EPL. Occurrence, characterization, and antimicrobial susceptibility of
+Salmonella enterica in slaughtered pigs in Sardinia. J Food Sci. 2017;82(4):
+969–76.
+
+26. Carraturo F, Gargiulo G, Giorgio A, Aliberti F, Guida M. Prevalence,
+
+distribution, and diversity of Salmonella spp. in meat samples collected from
+Italian slaughterhouses. J Food Sci. 2016;81(10):M2545–51.
+
+

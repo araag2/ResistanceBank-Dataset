@@ -1,0 +1,907 @@
+Food Control 29 (2013) 49e54
+
+Contents lists available at SciVerse ScienceDirect
+
+Food Control
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / f o o d c o n t
+
+Short communication
+Prevalence, antimicrobial susceptibility, and molecular characterization by PCR
+and pulsed ﬁeld gel electrophoresis (PFGE) of Salmonella spp. isolated from foods
+of animal origin in San Luis, Argentina
+
+Gabriela Isabel Favier*, Cecilia S.M. Lucero Estrada, Valeria Lazarte Otero, María Esther Escudero
+General Microbiology, Faculty of Chemistry, Biochemistry and Pharmacy, National University of San Luis, Ejército de los Andes 950, Bloque 1, Piso 1, 5700 San Luis, Argentina
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 6 December 2011
+Received in revised form
+17 May 2012
+Accepted 22 May 2012
+
+Keywords:
+Salmonella
+Foods
+Prevalence
+Antimicrobial susceptibility
+invA gene
+PFGE
+
+This study was aimed to determine the prevalence of Salmonella spp. in foods of animal origin sold at
+retail stores over the period 2005e2011 in San Luis, Argentina. Characterization of isolates was per-
+formed by biochemical and serological tests, antimicrobial susceptibility assays, detection of invA inva-
+sion gene by PCR and comparison of genomic proﬁles by XbaI DNA restriction and PFGE. Twenty seven
+Salmonella strains were detected in 27 (6.32%) of 427 samples of foods analysed. Sixteen S. Enteritidis and
+one S. Montevideo strains from chicken meat (17 positive samples/115 total samples), six S. Anatum
+strains from pork sausages (6/90), two S. Typhimurium strains from liquid egg (2/60) and two S. Mon-
+tevideo strains from chicken giblets (2/62) were isolated. No Salmonella strains were recovered from
+chicken carcasses (0/100). Salmonella strains were susceptible to antimicrobials commonly used for
+clinical treatment. All isolates carried the invA gene. DNA restriction and PFGE analysis revealed similar
+genomic proﬁles within each Salmonella serovar regardless of the food type, sampling year, or retail store
+where samples were purchased, suggesting the possibility of circulation and transmission of clones of
+limited diversity in our region.
+
+Ó 2012 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+
+Salmonella spp. includes a large number of serovars that inhabit
+the intestinal tract of various domestic and wild animal species.
+Some of them have a predilection for a particular host and cause
+disease in humans and animals, while others are in a large number
+of reservoirs allowing them to spread to the environment (Ibar
+et al., 2009).
+
+In humans, salmonellosis is usually related to the consumption
+of contaminated foods. Typical foodstuffs from which Salmonella
+has been isolated include pork (Prendergast et al., 2009), chicken
+meat (Chen, Hwang, Wang, Shih, & Tsen, 2011; White et al., 2007),
+eggs (Fearnley, Raupach, Lagala, & Cameron, 2011; Murchie et al.,
+2007), bovine meat (Gallegos-Robles et al., 2009), dairy products
+(De Buyser, Dufour, Maire, & Lafarge, 2001) and vegetables
+(Sant’Ana, Landgraf, Destro, & Franco, 2011).
+
+In recent years, Salmonella infections have been the most
+frequently illnesses reported (17.6 per 100,000 persons) in United
+States. The most common serovars were S. Enteritidis, S. Newport
+
+* Corresponding author. Tel.: þ54 (0)266 4424027x242; fax: þ54 266 4431301.
+gifavier@unsl.edu.ar
+
+favier.gabriela@gmail.com.ar,
+
+E-mail
+
+addresses:
+
+(G.I. Favier).
+
+0956-7135/$ e see front matter Ó 2012 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.foodcont.2012.05.056
+
+and S. Typhimurium (CDC, 2011). In Latin America, PulseNet Latin
+America and Caribbean Network working between 2005 and 2009
+was able to collect 849 Salmonella spp. strains associated to
+outbreak and sporadic cases. These strains included 70 S. Typhi, 554
+S. Typhimurium and 225 S. Enteritidis from Argentina, Brazil, Chile,
+Colombia, Costa Rica and Paraguay (Campos et al., 2012). Other-
+wise, Sant’Ana et al. (2011), demonstrated the presence of S.
+Enteritidis and S. Typhimurium from minimally processed vegeta-
+bles in Brazil, while in Chile, Salmonella was isolated from 6 out of
+560 samples of chicken carcasses and giblets (Ulloa, González,
+Hernández, Villanueva, & Fernández, 2010). In Uruguay, eggs and
+chicken meat were identiﬁed as the source of infection during an
+outbreak due to Salmonella Enteritidis (Betancor et al., 2010).
+
+In Argentina, a signiﬁcant increase in the number of S. Enter-
+itidis isolates from foods associated with foodborne outbreaks has
+been observed since 1987 (Caffer & Eiguer, 1994). During the period
+2000e2005,
+the National Reference Laboratory studied 443
+Salmonella isolates derived from foods associated to outbreaks and
+reported S. Enteritidis (31.8%), S. Typhimurium (19.6%), S. Newport
+(6.9%), S. Agona (6.1%) and other serovars in a lower frequency. On
+the other hand, from 2006 S. Typhimurium was the most frequent
+serovar isolated from humans, animals and foods (Caffer et al.,
+2010). Although Salmonella foodborne outbreaks are uncommon
+
+50
+
+G.I. Favier et al. / Food Control 29 (2013) 49e54
+
+in our region, the consumption of slightly cooked poultry, pork and
+meat products and the preparation of pastry, mousse, mayonnaise
+and other foods using unpasteurized raw eggs constitute the major
+risk of Salmonella illness for consumers (Satorres, Pederiva, &
+Centorbi, 1998).
+the vertical and horizontal
+contamination of eggs by Salmonella serovars has been demon-
+strated (Martelli & Davies, 2012).
+
+In this regard,
+
+Concern about poultry, meats and other foodstuffs contami-
+nated with foodborne pathogens has gained considerable attention
+because of
+the increased incidence of antimicrobial-resistant
+bacteria associated with human illness (Khan, Melvin, & Dagdag,
+2007). Some authors have reported that the antimicrobial resis-
+tance of Salmonella strains may be associated with the expression of
+certain virulence genes including invA (Dione et al., 2011). This gene
+is carried on a region of the bacterial chromosome known as the
+Salmonella pathogenicity island 1 (SPI1) and encodes a factor
+related to the process of invasion of the intestinal epithelium. The
+demonstration of invA gene in Salmonella isolates can be epide-
+miologically relevant (Chacon, Barrantes, Garcia, & Achi, 2010).
+
+A molecular technique such as pulsed-ﬁeld gel electrophoresis
+(PFGE) is used for subtyping of Salmonella spp. isolates. Several
+studies indicate that PFGE may offer an improved level of
+discrimination over other genotypic methods for the epidemio-
+logical characterization of Salmonella spp. The use of PFGE in
+combination with XbaI DNA restriction has been widely recognized
+as a reference method for ﬁngerprinting Salmonella serovars
+(Ammari et al., 2009a; Kalender, Sen, Hasman, Hendriksen, &
+Aarestrup, 2009).
+
+The objectives of this study were i) to determine the prevalence
+of Salmonella spp. in foods of animal origin for human consumption
+in our region ii) to investigate the antimicrobial susceptibility of the
+isolated strains, iii) to assess the presence of the invA virulence gene
+by PCR, and iv) to determine possible genetic relationships among
+these Salmonella isolates by PFGE.
+
+2. Materials and methods
+
+2.1. Sample collection
+
+A total of 427 samples were purchased at random over the
+period 2005e2011from twelve retail stores and supermarkets
+located in San Luis City, Argentina. The studied samples were: i)
+chicken meat (n ¼ 115), including chicken thigh, leg and breast, ii)
+chicken carcass (n ¼ 100), iii) chicken giblets (n ¼ 62), iv) liquid
+eggs (n ¼ 60) and v) pork sausages (n ¼ 90). After purchase, each
+sample was transported in its original container under refrigeration
+and used for Salmonella isolation and identiﬁcation within 24 h of
+collection.
+
+2.2. Microbiological analysis
+
+Salmonella cultures from all samples were performed according
+to the FDA Bacteriological Analytical Manual
+(Andrews &
+Hammack, 2007) with some modiﬁcations. Typical colonies from
+each medium were picked and tested by Gram staining and stan-
+dard biochemical methods (Le Minor, 1984). Serological tests for
+Salmonella strains were performed using poly-O antiserum (Sanoﬁ
+SA, Paris, France). Results were conﬁrmed by Reference Center for
+Enterobacteria, National Institute of Infectious Diseases INEI-ANLIS,
+Buenos Aires, Argentina.
+
+2.3. Antimicrobial susceptibility
+
+The antimicrobial susceptibility of Salmonella isolates was
+determined by the disk diffusion method on Mueller Hinton agar
+
+10
+
+mg
+
+(MH; Britania, Buenos Aires, Argentina) performed according to the
+Clinical and Laboratory Standards Institute guidelines (CLSI, 2009).
+The following antibiotic disks (Britania) were used: ampicillin,
+10 mg (AMP); colistin 10 mg (COL); chloramphenicol, 30 mg (CHL);
+gentamicin,
+(TET);
+trimethoprimesulfamethoxazole, 25 mg (TMS); ciproﬂoxacin, 5 mg
+(CIP); neomycin, 30 mg (NEO); kanamycin, 30 mg (KAN); furazoli-
+done, 5 mg (FUR); nalidixic acid, 30 mg (NAL); cefotaxime, 30 mg
+(CTX); ceftriaxone, 30 mg (CRO) and phosphomycin, 50 mg (PHO).
+Zones of growth inhibition were evaluated according to CLSI
+standards (2009). Escherichia coli ATCC 25922 was used as a control
+strain.
+
+tetracycline,
+
+(GEN);
+
+30
+
+mg
+
+2.4. Polymerase chain reaction for detection of invA gene
+
+DNA extraction was made using a boiling protocol as described
+by Leotta et al. (2005). PCR was performed in a thermal cycler
+Techne TC-512 (Techne Inc., Duxford, UK). A 25 ml volume of
+a reaction mix containing 1X PCR buffer, 0.2 mM dNTPs, 1.5 mM
+MgCl2, 1 pmol/ml of each speciﬁc primer (forward 50-CAA AGG TTC
+AGA ACG TGT CG-30and reverse 50-GAT ATT CCG CCC CAT ATT
+ATC-30), 0.04 U/ml Taq polymerase, 2 ml template, and ultrapure
+water was prepared. The primers were designed in this study
+using the PubMed database (GenBank accession number
+M90846.1) and OligoCalc software (Kibbe WA.
+‘OligoCalc: an
+online oligonucleotide properties calculator’, 2007). PCR was
+performed as follows: 94 C for 3 min, then 30 cycles of 94 C for
+30 s, 60 C for 30 s and 72 C for 30 s, and a ﬁnal extension of
+72 C for 5 min. The products were analysed by 2% agarose gel
+electrophoresis in comparison with a 100-bp molecular weight
+DNA marker (Productos Biológicos, Quilmes, Argentina). The
+bands were visualized by staining with GelRedÒ Acid Gel Stain
+(Biotum, Hayward, CA, USA), 1.5 ml stock solution/40 ml gel, and
+photographed with a 6.0 mega pixels digital camera (Sony Cyber-
+shot; Sony Corporation, New York, USA).
+
+2.5. Pulsed-ﬁeld gel electrophoresis (PFGE)
+
+DNA preparation was as described previously (Ribot et al.,
+2006). Chromosomal DNA contained in agarose plugs was diges-
+ted with 10 U of XbaI (Fermentas, Burlington Ontario, Canada), and
+PFGE was performed with a CHEF-DRIII system (Bio-Rad, Hercules,
+CA, USA), using an electric ﬁeld of 6 V/cm at 14 C, angle of 120 and
+switching times of 1.8e20 s over 20 h. Migration of the DNA frag-
+ments was achieved in a 1.0% pulsed-ﬁeld agarose gel (Bio-Rad)
+submerged in 0.5X TBE buffer (45 mmol/l Tris-Borate and 1 mmol/l
+EDTA) and Salmonella Braenderup H9812 was used a molecular
+reference marker. The gels were stained with Gel RedÒ Acid Gel
+Stain (Biotum) and photographed.
+
+2.6. Statistical analysis
+
+Statistical analysis on detection frequency of Salmonella strains
+related to the food type studied was performed using Chi-square
+test (Analytical Software, Tallahassee FL, USA). Calculations were
+based on conﬁdence level equal or higher than 95% (p  0.05 was
+considered statistically signiﬁcant).
+
+The discrimination index (DI) values of PFGE were calculated by
+Simpson’s diversity index, as presented by Hunter and Gaston
+(1998). Clustering of the patterns obtained by the PFGE was per-
+formed using Statistica 6.0 software (StatSoft Inc., Tulsa, OK, USA)
+and the unweighted pair group method with arithmetic average
+(UPGMA).
+
+3. Results
+
+4. Discussion
+
+G.I. Favier et al. / Food Control 29 (2013) 49e54
+
+51
+
+3.1. Prevalence of Salmonella serovars in foods
+
+A total of 27 (6.32%) out of 427 samples of foods were Salmonella
+spp. positive; the frequency of isolation was signiﬁcantly higher
+from chicken meat than from the other samples (p  0.05). The
+strains classiﬁed into four serovars were distributed as follows:
+16 S. Enteritidis and one S. Montevideo strains from chicken meat
+(17 positive samples/115 total samples), six S. Anatum strains from
+pork sausages (6/90), two S. Montevideo strains from chicken
+giblets (2/62) and two S. Typhimurium strains from liquid egg (2/
+60). No Salmonella strains were recovered from chicken carcasses
+(0/100). The most frequently isolated serovar was S. Enteritidis
+(59.26%) followed by S. Anatum (22.22%), S. Montevideo (11.11%)
+and S. Typhimurium (7.40%) (Table 1).
+
+3.2. Antimicrobial susceptibility
+
+All Salmonella strains were susceptible to ciproﬂoxacin, chlor-
+amphenicol, colistin, gentamicin, kanamycin,
+trimethoprime
+sulfamethoxazole, cefotaxime and ceftriaxone. All S. Enteritidis
+and S. Montevideo strains were resistant to furazolidone, while S.
+Anatum and S. Montevideo isolated from chicken giblets were
+resistant to tetracycline. Resistance to nalidixic acid, ampicillin,
+phosphomycin, or tetracycline was observed in some S. Enteritidis
+strains. Two S. Typhi strains were resistant to neomycin (Table 2).
+
+3.3. PCR
+
+All strains ampliﬁed a 421 pb region corresponding to Salmo-
+
+nella invA gene (data not shown).
+
+No association between the antimicrobial resistance proﬁles
+
+and the presence of invA gene was observed.
+
+3.4. PFGE
+
+PFGE of XbaI-digested genomic DNA from 27 Salmonella isolates
+showed four different macrorestriction proﬁles, each correspond-
+ing to a different serovar. No differences were observed between
+PFGE proﬁles of S. Montevideo when isolates from different foods
+(chicken meat and chicken giblets) were compared. DNA restriction
+patterns of 11, 14, 16 and 14 fragments ranging from 20.5 to 1135 kb
+were obtained for S. Enteritidis, S. Montevideo, S. Anatum and S.
+Typhimurium, respectively (Fig. 1).
+
+Table 1
+Prevalence of Salmonella in chicken meat, chicken carcass, chicken giblets, liquid
+eggs and pork sausages and the serovars identiﬁed.
+
+Source
+
+Chicken meat
+
+No of samples
+analysed
+115
+
+No of positive
+samplesa
+17A (14.8)
+
+Pork sausages
+Chicken giblets
+Liquid eggs
+Chicken carcasses
+Total of samples
+
+90
+62
+60
+100
+427
+
+6B(6.6)
+2C(3.2)
+2C(3.3)
+0D
+27 (6.32%)
+
+Serovarb
+
+S. Enteritidis (59.26)
+S. Montevideo (3.70)
+S. Anatum (22.22)
+S. Montevideo (7.40)
+S. Typhimurium (7.40)
+
+Values followed by different capital letters indicate statistically signiﬁcant differ-
+ence (P < 0.05).
+
+a Values in the parenthesis indicate the percentage of positive samples per type of
+
+sample.
+
+b Values in the parenthesis indicate the percentage of each Salmonella serovar
+
+relating to the total of positive samples.
+
+samples)
+
+The Salmonella search was positive in a 6.32% of 427 foods of
+animal origin for human consumption analysed in our region. The
+77.7% of positive Salmonella samples (21 samples/27 total samples)
+corresponded to chicken products and the remaining 22.3% (6
+samples/27 total
+corresponded to pork sausages
+(p  0.05). In a study performed in Mexico, Zaidi et al. (2006) found
+high Salmonella spp. prevalence from pork (58.1%), beef (54%) and
+poultry (39.7%). A high Salmonella prevalence was also observed by
+Ibar et al. (2009) who reported 24.1% of Salmonella recovery from
+386 porcine samples in slaughterhouses from Argentina. Salmonella
+spp. is often found in the ovary or intestinal tract of food-producing
+animals such chicken and pigs, respectively. During the slaughter,
+this pathogen can contaminate carcasses and meats, resulting in
+a source of foodborne illness. Several surveys have been under-
+taken in poultry slaughterhouses to identify processing areas
+where microbial cross-contamination can occur (Hinton, Cason, &
+Ingram, 2004; Northcutt, Buhr, & Dickens, 2002). Similarly, pigs
+can be reservoirs of serovars potentially pathogenic to humans and
+source of infection through the consumption of their products
+(Grifﬁth, Schwartz, & Meyerholdz, 2006). In this study, twenty
+seven strains were isolated and the prevalence order of Salmonella
+serovars was: S. Enteritidis (59.26%), S. Anatum (22.22%), S. Mon-
+tevideo (11.11%) and S. Typhimurium (7.40%). Rivoal et al. (2009)
+obtained 63.9% and 17.4% of S. Enteritidis and S. Typhimurium
+respectively, from 144 whole liquid egg samples in France, and
+Ammari et al .(2009b) reported the isolation of S. Enteritidis as
+prevalent serovar from food samples in Morocco. Negative Salmo-
+nella detection on chicken carcasses could be attributed to a low
+contamination level undetectable by culture techniques, or to the
+presence of injured bacteria which could not be re-grown during
+enrichment.
+
+In this study, resistances to ampicillin and nalidixic acid were
+observed in 25 and 31% of S. Enteritidis strains, respectively.
+Resistance to penicillins by Salmonella is attributable to the
+acquired ability of the strains to produce b-lactamase. Instead,
+quinolone resistance has been initially attributed to point muta-
+tions in the gyrA gene encoding the A subunit of gyrase, whose
+complex with DNA is the primary target. Changes at Ser-83 or at
+Asp-87 of the quinolone resistance-determining region (QRDR) in
+the A subunit are the most frequent changes observed in nalidixic
+acid-resistant strains (Hur, Jawale, & Lee, 2012). S. Typhimurium
+isolated from liquid eggs were neomycin-resistant. Resistance to
+aminoglycoside antibiotics in Salmonella is associated with modi-
+fying enzymes which function by phosphorylating, acetylating or
+adenylating certain aminoglycosides. Another resistance mecha-
+nism is associated with the modiﬁcation of the drug-binding target
+within the cell (Hur et al., 2012). Several Salmonella strains showed
+resistance to tetracycline. This is highly associated with the acqui-
+sition and expression of efﬂux pumps that reduce toxic levels of the
+drug in the bacterial cells. In Salmonella, these efﬂux pumps are
+encoded by the tet genes (Hur et al., 2012). Resistance to furazoli-
+done and phosphomycin were also observed. However, most of
+strains isolated in the present study were susceptible to antimi-
+crobials commonly used for clinical treatment.
+
+The invA gene has been widely used in studies for the detection of
+Salmonella spp. in food samples (Chacon et al., 2010). In a study on
+prevalence of virulence genes in non-typhoidal Salmonella isolated
+from humans, animals and food products in Gambia and Senegal,
+Dione et al. (2011) observed high prevalence (99.5%) of strains carrying
+invA. They found signiﬁcant association between the presence of
+this gene and other virulence genes and the antimicrobial resistance
+to amoxicillin, ticarcillin, trimethoprimesulfamethoxazole, tetracy-
+cline, trimethoprim, spectinomycin, streptomycin, sulfonamides and
+
+52
+
+G.I. Favier et al. / Food Control 29 (2013) 49e54
+
+Table 2
+Antimicrobial susceptibility of Salmonella strains isolated from chicken meat, pork sausage, chicken giblets and liquid eggs.
+
+Source
+
+Chicken meat
+Chicken meat
+Pork sausages
+Chicken giblets
+Liquid eggs
+All sources
+
+N
+
+16
+1
+6
+2
+2
+27
+
+Serovar
+
+Percent susceptibilitya
+
+S. Enteritidis
+S. Montevideo
+S. Anatum
+S. Montevideo
+S. Typhimurium
+
+NAL
+69
+100
+100
+100
+100
+81
+
+AMP
+75
+100
+100
+100
+100
+85
+
+CIP
+100
+100
+100
+100
+100
+100
+
+CHL
+100
+100
+100
+100
+100
+100
+
+COL
+100
+100
+100
+100
+100
+100
+
+PHO
+94
+100
+100
+100
+100
+96
+
+FUR
+0
+0
+100
+0
+100
+45
+
+GEN
+100
+100
+100
+100
+100
+100
+
+KAN
+100
+100
+100
+100
+100
+100
+
+NEO
+100
+100
+100
+100
+0
+100
+
+TET
+75
+100
+0
+0
+100
+50
+
+TMS
+100
+100
+100
+100
+100
+100
+
+CTX
+100
+100
+100
+100
+100
+100
+
+CRO
+100
+100
+100
+100
+100
+100
+
+a NAL: nalidixic acid (30 mg), AMP: ampicillin (10 mg), CIP: ciproﬂoxacin (5 mg), CHL: chloramphenicol (30 mg), COL: colistin (10 mg), PHO: phosphomycin (50 mg), FUR:
+furazolidone (100 mg), GEN: gentamicin (10 mg), KAN: kanamycin (30 mg), NEO: neomycin (30 mg), TET: tetracycline (30 mg), TMS: trimethoprimesulfamethoxazole (25 mg),
+CTX: cefotaxime (30 mg) and CRO: ceftriaxone (30 mg).
+
+nitrofurantoin. Hur et al. (2011) also demonstrated the presence of
+invA in 42 S. Typhimurium strains isolated from piglets with diarrhoea
+in Korea.
+
+Epidemiological investigation of this pathogen using molecular-
+based methods is especially valuable. PFGE has been widely used to
+determine strain relatedness, conﬁrm outbreaks and identify the
+
+sources of strains (Hur et al., 2011). In this study, PFGE was used for
+subtyping Salmonella spp. strains. The PFGE analysis indicated that
+some of the Salmonella isolates are indistinguishable and/or highly
+related; the dendrogram showed that PFGE differentiated into
+groupings that correlated with serovars. Moreover, PFGE analysis
+revealed matching between S. Montevideo strains isolated from
+
+SE2
+SE3
+SE4
+SE21
+SE90
+SE91A
+SE91B
+SE93
+SE105
+SE106
+SE107
+SE108
+SE110
+SE111
+SE112
+SE113
+SM12
+SM39
+SM59
+SA1
+SA5
+SA6
+SA7
+SA8
+SA87
+ST49
+ST50
+
+1
+
+1
+
+2
+
+1
+
+A
+
+C
+
+B
+
+Fig. 1. Fingerprints and dendrogram obtained by PFGE of 27 Salmonella strains isolated in the present study.
+
+100
+
+95
+
+90
+
+85
+
+80
+
+75
+
+70
+
+65
+
+Similarity %
+
+G.I. Favier et al. / Food Control 29 (2013) 49e54
+
+53
+
+chicken meat and giblets samples, suggesting that chicken can be
+reservoirs and source of Salmonella dissemination in the region. The
+similarity observed in DNA proﬁles within each Salmonella serovar
+regardless of the food type, sampling year or retail store where
+samples were purchased, suggested the possibility of circulation
+and transmission of clones of limited diversity in our region. In
+contrast, Rivoal et al. (2009) could discriminate different DNA
+proﬁles among S. Enteritidis, S. Typhimurium or S. Infantis isolates
+by using SpeI and XbaI restriction followed by PFGE. These authors
+noted that XbaI enzyme permitted better discrimination than SpeI
+enzyme within the Enteritidis serovar.
+
+5. Conclusions
+
+The present study showed low prevalence of Salmonella serovars
+in foods of animal origin for human consumption in our region. The
+highest Salmonella recovery was observed in chicken meat being S.
+Enteritidis the predominant serovar. The invasion potential of strains
+was assessed by detecting the invA gene by PCR. Signiﬁcant antimi-
+crobial susceptibility was observed in all cases and PFGE revealed
+homogeneous DNA restriction patterns within each serovar.
+
+Isolation of Salmonella species from foods of animal origin in our
+region emphasizes the need to continue the consumer’s education
+on proper food handling and cooking practices to decrease the risk
+of transmission of Salmonella from contaminated meat, poultry and
+eggs products.
+
+The Salmonella surveillance on these foods and the character-
+ization of the isolates can contribute to the understanding of the
+epidemiology of this pathogen and to alert to public health
+organisms about risks for the human health.
+
+Acknowledgements
+
+Authors wish to thank Drs. M. I. Caffer and R. Terragno for
+their contribution in the serotyping of Salmonella isolates, and
+Dr. M Pichel for providing S. Braenderup H9812 strain and Seakem
+agarose from National Institute of Infectious Diseases “Dr. C. G.
+Malbrán”, Buenos Aires, Argentina. This work was supported by
+Project 8803, Science and Technology Department, National
+University of San Luis, San Luis, Argentina.
+
+References
+
+Ammari, S., Laglaoui, A., En-nanei, L., Bertrans, S., Wildemauwe, C., Barrijal, S., et al.
+(2009a). Isolation, drug resistance and molecular characterization of Salmonella
+isolates in northern Morocco. Journal of Infection in Developing Countries, 3,
+41e49.
+
+Ammari, S., Laglaoui, A., En-nanei, L., Bertrans, S., Wildemauwe, C., Barrijal, S., et al.
+(2009b). Characterization of Salmonella Enteritidis isolated from foods and
+patients in northern Morocco. Journal of Infection in Developing Countries, 3,
+695e703.
+
+Andrews, W. H., & Hammack, T. S. (2007). Salmonella. In Bacteriological analytical
+manual online. Silver Spring, MD: Food and Drug Administration. http://www.
+cfsan.fda.gov/webam/bam-5.html.
+
+Betancor, L., Pereira, M., Martinez, A., Giossa, G., Fookes, M., Flores, K., et al. (2010).
+Prevalence of Salmonella enterica in poultry and eggs in Uruguay during an
+epidemic due to Salmonella enterica serovar Enteritidis.
+Journal of Clinical
+Microbiology, 48, 2413e2423.
+
+Caffer, M. I., Alcain, A., Panagopulo, M., Moroni, M., Brengi, S., & Terragno, R. (2010).
+Serovariedades de Salmonella spp en Argentina, 2007-2009. XII Congreso
+Argentino de Microbiología. Revista Argentina de Microbiología, 42, 80.
+
+Caffer, M. I., & Eiguer, T. (1994). Salmonella enteritidis in Argentina. International
+
+Journal of Food Microbiology, 21, 15e19.
+
+Campos, J., Pichel, M., Vaz, T. M. I., Tavechio, A. T., Fernandes, S. A., Muñoz, N., et al.
+(2012). Building PulseNet Latin American and Caribbean Salmonella regional
+database: ﬁrst conclusions of genetic subtypes of S. Typhi, S. Typhimurium and
+S. Enteritidis circulating in six countries of the region. Food Research Interna-
+tional, 45, 1030e1036.
+
+Centers for Disease Control and Prevention, CDC. (2011). Vital signs: incidence and
+trends of infection with pathogens transmitted commonly through food-borne
+
+diseases active surveillance network, 10 U.S. sites, 1996e2010. Morbidity and
+Mortality Weekly Report, 60, 749e755.
+
+Chacon, L., Barrantes, K., Garcia, C., & Achi, R. (2010). Estandarización de una PCR
+para la detección del gen invA de Salmonella spp. en lechuga. Revista de la
+Sociedad Venezolana de Microbiología, 30, 18e23.
+
+Chen, M. H., Hwang, W. Z., Wang, S. W., Shih, Y. C., & Tsen, H. Y. (2011). Pulsed ﬁeld
+gel electrophoresis (PFGE) analysis for multidrug resistant Salmonella enterica
+serovar Schwarzengrund isolates collected in six years (2000e2005) from retail
+chicken meat in Taiwan. Food Microbiology, 28, 399e405.
+
+CLSI. (2009). Performance standards for antimicrobial susceptibility testing: M100-S16.
+
+Clinical and Laboratory Standards Institute.
+
+De Buyser, M. L., Dufour, B., Maire, M., & Lafarge, V. (2001). Implication of milk and
+milk products in food-borne diseases in France and in different industrialised
+countries. International Journal of Food Microbiology, 61, 1e17.
+
+Dione, M. M., Ikumapayi, U., Saha, D., Mohammed, N. I., Adegbola, R. A., Geerts, S.,
+et al. (2011). Antimicrobial resistance and virulence genes of non-typhoidal
+Salmonella isolates in the Gambia and Senegal. Journal of Infection in Devel-
+oping Countries, 5, 765e775.
+
+Fearnley, E., Raupach, J., Lagala, F., & Cameron, S. (2011). Salmonella in chicken meat,
+eggs and humans; Adelaide, South Australia, 2008. International Journal of Food
+Microbiology, 146, 219e227.
+
+Gallegos-Robles, M. A., Morales-Loredo, A., Alvarez-Ojeda, G., Osuna-García, J. A.,
+Martínez, I. O., Morales-Ramos, L. H., et al. (2009). PCR detection and micro-
+biological isolation of Salmonella spp. from fresh beef and cantaloupes. Journal
+of Food Science, 74, 37e40.
+
+Grifﬁth, R. W., Schwartz, K. J., & Meyerholdz, D. K. (2006). Salmonella. In B. E. Straw,
+J. J. Zimmerman, S. D’ Allaire, & D. Taylor (Eds.), Diseases of swine (9th ed.). (pp.
+739e754) Blackwell Publishing.
+
+Hinton, A., Cason, J. A., & Ingram, K. D. (2004). Tracking spoilage bacteria in
+commercial poultry processing and refrigerated storage of poultry carcasses.
+International Journal of Food Microbiology, 91, 155e165.
+
+Hunter, P., & Gaston, M. A. (1998). Numerical index of discriminatory ability of
+typing systems: an application of Simpson’s index of diversity. Journal of Clinical
+Microbiology, 35, 2826e2833.
+
+Hur, J., Choi, Y. Y., Park, J. H., Jeon, B. W., Lee, H. S., Kim, A. R., et al. (2011). Anti-
+microbial resistance, virulence-associated genes, and pulsed-ﬁeld gel electro-
+phoresis proﬁles of Salmonella enterica subsp. enterica serovar Typhimurium
+isolated from piglets with diarrhea in Korea. Canadian Journal of Veterinary
+Research, 75, 49e56.
+
+Hur, J., Jawale, C., & Lee, J. H. (2012). Antimicrobial resistance of Salmonella isolated
+
+from food animals: a review. Food Research International, 45, 819e830.
+
+Ibar, M. P., Vigo, G., Piñeyro, P., Caffer, M. I., Quiroga, P., Perfumo, C., et al. (2009).
+Serovariedades de Salmonella enterica subespecie enterica en porcinos de faena
+y su resistencia a los antimicrobianos. Revista Argentina de Microbiología, 41,
+156e162.
+
+Kalender, H., Sen, S., Hasman, H., Hendriksen, R. S., & Aarestrup, F. M. (2009).
+Antimicrobial susceptibilities, phage types, and molecular characterization of
+Salmonella enterica serovar Enteritidis from chickens and chicken meat in
+turkey. Foodborne Pathogens and Disease, 6, 265e271.
+
+Khan, A. A., Melvin, C. D., & Dagdag, E. B. (2007). Identiﬁcation and molecular
+characterization of Salmonella spp. from unpasteurized orange juices and
+identiﬁcation of new serovar Salmonella strain S. enterica serovar Tempe. Food
+Microbiology, 24, 539e543.
+
+Le Minor, L. (1984). In N. R. Krieg (Ed.), Bergey’s manual of systematic bacteriology,
+
+Vol. 1 (pp. 427e458). Baltimore: The Williams & Wilkins Co.
+
+Leotta, G. A., Chinen, I., Epszteyn, S., Miliwebsky, E., Melamed, I. C., Motter, M., et al.
+(2005). Validación de una técnica de PCR múltiple para la detección de
+Escherichia coli productor de toxina Shiga. Revista Argentina de Microbiología, 37,
+1e10.
+
+Martelli, F., & Davies, R. H. (2012). Salmonella serovars isolated from table eggs: an
+
+overview. Food Research International, 45, 745e754.
+
+Murchie, L., Whyte, P., Xia, B., Horrigan, S., Kelly, L., & Madden, R. H. (2007). Prev-
+alence of Salmonella in grade A whole shell eggs in the island of Ireland. Journal
+of Food Protection, 70, 1238e1240.
+
+Northcutt, J. K., Buhr, R. J., & Dickens, J. A. (2002). Effect of electrical stimulation and
+feed withdrawal on broiler gastrointestinal content and intestinal pH, and
+intestinal breaking strength of broiler breeders.
+Journal of Applied Poultry
+Research, 11, 1e5.
+
+Prendergast, D. M., Duggan, S.
+
+J., Gonzales-Barron, U., Fanning, S., Butler, F.,
+Cormican, M., et al. (2009). Prevalence, numbers and characteristics of Salmo-
+nella spp. on Irish retail pork. International Journal of Food Microbiology, 131,
+233e239.
+
+Ribot, E. M., Fair, M. A., Gautom, R., Cameron, D. N., Hunter, S. B., Swaminathan, B.,
+et al. (2006). Standardization of pulsed-ﬁeld gel electrophoresis protocols for
+the subtyping of Escherichia coli O157:H7, Salmonella, and Shigella for PulseNet.
+Foodborne Pathogens and Disease, 3, 59e67.
+
+Rivoal, K., Protais, J., Quéguiner, S., Boscher, E., Chidaine, B., Rose, V., et al. (2009). Use of
+pulsed-ﬁeld gel electrophoresis to characterize the heterogeneity and clonality of
+Salmonella serotype Enteritidis, Typhimurium and Infantis isolates obtained from
+whole liquid eggs. International Journal of Food Microbiology, 129, 180e186.
+
+Sant’Ana, A. S., Landgraf, M., Destro, M. T., & Franco, B. D. (2011). Prevalence and
+counts of Salmonella spp. in minimally processed vegetables in São Paulo, Brazil.
+Food Microbiology, 28, 1235e1237.
+
+Satorres, S. E., Pederiva, N. B., & Centorbi, O. P. (1998). Isolation of Salmonella sp from
+
+eggs. Biocell, 22, 2.
+
+54
+
+G.I. Favier et al. / Food Control 29 (2013) 49e54
+
+Ulloa, J., González, M., Hernández, C., Villanueva, M. P., & Fernández, H. (2010).
+Salmonella Enteritis in chicken carcasses and giblets in Southern Chile. Journal of
+Infection in Developing Countries, 4, 107e109.
+
+White, P. L., Naugle, A. L.,
+
+J., Rose, B. E.,
+Pritchard, K. M., et al. (2007). Salmonella Enteritidis in meat, poultry, and
+
+Jackson, C. R., Fedorka-Cray, P.
+
+pasteurized egg products
+Inspection Service, 1998 through 2003.
+582e591.
+
+regulated by the U.S. Food Safety and
+Journal of Food Protection, 70,
+
+Zaidi, M. B., McDermott, P. F., Fedorka-Cray, P., Leon, V., Canche, C., Hubert, S. K.,
+
+et al. (2006). Clinical Infectious Diseases, 42, 21e28.
+
+

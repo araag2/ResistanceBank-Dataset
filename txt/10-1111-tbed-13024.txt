@@ -1,0 +1,3206 @@
+DR. KENJI    OHYA (Orcid ID : 0000-0002-8867-3618) 
+
+PROF. KAZUNARI    USHIDA (Orcid ID : 0000-0002-3194-5862) 
+
+Article type            : Original Article 
+
+Phenotypic and genotypic analyses of antimicrobial-resistant bacteria in livestock in 
+
+ 
+
+Uganda. 
+
+e
+l
+c
+i
+t
+r
+A
+
+ 
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+Torahiko Okubo1†, Montira Yossapol2, 3†, Fumito Maruyama4, Eddie M. Wampande5, 6, 
+
+Steven Kakooza6, Kenji Ohya2, 7, Sayaka Tsuchida8, Tetsuo Asai2, 7, John D. Kabasa9, 
+
+Kazunari Ushida8,10 *   
+
+ 
+
+1 Department of Medical Laboratory Science, Faculty of Health Sciences, Hokkaido 
+
+University Graduate School of Health Sciences, Kita-12 Nishi-5, Kita-ku, Sapporo, 
+
+Hokkaido 060-0812, Japan. 
+
+2 Department of Applied Veterinary Sciences, United Graduate School of Veterinary 
+
+Sciences, Gifu University, 1-1 Yanagido, Gifu 501-1193, Japan. 
+
+3 Office of Academic Affairs, Faculty of Veterinary Sciences, Mahasarakham University, 
+
+Talad sub-district, Mueang district, Maha Sarakham, 44000, Thailand.   
+
+4 Department of Microbiology, Graduate School of Medicine, Kyoto University, 
+
+Yoshida-Konoe-cho, Sakyo-ku, Kyoto 606-8501, Japan. 
+
+This article has been accepted for publication and undergone full peer review but has not 
+been through the copyediting, typesetting, pagination and proofreading process, which may 
+lead to differences between this version and the Version of Record. Please cite this article as 
+doi: 10.1111/tbed.13024 
+
+This article is protected by copyright. All rights reserved. 
+
+5 Department of Veterinary Pharmacy, Clinics and Comparative Medicine, School of 
+
+Veterinary Medicine and Animal Resources, College of Veterinary Medicine, Animal 
+
+Resources and Biosecurity, Makerere University, P. O Box 7062, Kampala, Uganda. 
+
+6 Central Diagnostic Laboratory, College of Veterinary Medicine, Animal Resources and 
+
+Biosecurity, Makerere University, P. O Box 7062, Kampala, Uganda.   
+
+7 Education and Research Center for Food Animal Health, Gifu University (GeFAH), 1-1 
+
+Yanagido, Gifu 501-1193, Japan.   
+
+8 Graduate School of Life and Environmental Science, Kyoto Prefectural University, 
+
+Shimogamo-Hangicho 1-5, Sakyo-ku, Kyoto 606-8522 Japan.   
+
+ 
+
+9 Department of Pharmacy, Clinical and Comparative Medicine, School of Veterinary 
+
+Medicine and Animal Resources, Makerere University, P.O. Box 7062, Kampala, Uganda.   
+
+10 Chubu University Academy of Emerging Sciences, 1200 Matsumoto-cho, Kasugai, Aichi 
+
+487-8501, Japan. 
+
+e
+l
+c
+i
+t
+r
+A
+
+ 
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+ 
+
+† These authors contributed equally to this work. 
+
+*Correspondence: Kazunari Ushida. Chubu University Academy of Emerging Sciences, 
+
+1200 Matsumoto-cho, Kasugai, Aichi 487-8501, Japan.   
+
+TEL: +81 75 703 5620; FAX: +81 75 703 5620; E‐ mail: k_ushida@isc.chubu.ac.jp   
+
+ 
+
+Running title: Drug-resistant bacteria in Ugandan livestock 
+
+This article is protected by copyright. All rights reserved. 
+
+Abstract 
+
+Antimicrobial resistant bacteria (ARB) in livestock are a global public health concern, 
+
+not only because they prolong infectious diseases but also they can be transferred from 
+
+animals to humans via the food chain. Here, we studied ARB in livestock at commercial and 
+
+subsistence farms (n = 13) in Wakiso and Mpigi districts, Uganda. We inquired from the 
+
+farmers about the type and the purpose of antimicrobial agents they have used to treat their 
+
+livestock. After collecting feces, we isolated antimicrobial-resistant Escherichia coli from 
+
+livestock feces (n = 134) as an indicator bacterium. These strains showed resistance to 
+
+ampicillin (44.8%), tetracycline (97.0%), and sulfamethoxazole-trimethoprim (56.7%). The 
+
+frequency of ampicillin-resistance was significantly correlated with the usage of penicillins to 
+
+ 
+
+livestock in the farms (P = 0.04). The metagenomics data detected 911 antimicrobial resistant 
+
+genes that were classified into 16 categories. Genes for multidrug efflux pumps were the 
+
+most prevalent category in all except in one sample. Interestingly, the genes encoding 
+
+third-generation cephalosporins (blaCTX-M), carbapenems (blaACT), and colistin (arnA) were 
+
+detected by metagenomics analysis although these phenotypes were not detected in our E. 
+
+coli strains. Our results suggest that the emergence and transmission of cephalosporin, 
+
+carbapenem, and/or colistin-resistant bacteria among livestock can occur in future if these 
+
+antimicrobial agents are used. 
+
+e
+l
+c
+i
+t
+r
+A
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+ 
+
+ 
+
+ 
+
+Keywords: antimicrobial resistant bacteria, Escherichia coli, livestock, metagenomic 
+
+analysis, Uganda   
+
+This article is protected by copyright. All rights reserved. 
+
+Introduction 
+
+Emergence and distribution of antimicrobial-resistant bacteria (ARB) is a global public 
+
+health concern (World Health Organization, 2014). ARB in food-producing animals are an 
+
+important issue, not only for animal health and animal welfare but also public health, because 
+
+ARB can be transmitted to humans via the food-chain (Marshall and Levy, 2011; WHO, 
+
+2014). ARB are also an economic burden for farmers because of costs incurred in treatment 
+
+failure and prolonged period of treatment of the bacterial infections (Bengtsson and Greko, 
+
+2014). Antimicrobial agents have been used in livestock as a growth promoter, which may 
+
+increase selective pressure on ARB (Marshall and Levy, 2011). National surveillance and 
+
+monitoring system for ARB in livestock has been instituted in several countries (WHO, 
+
+ 
+
+2014). However, the frequency and occurrence of ARB in many Sub Saharan African 
+
+countries are still unclear.   
+
+e
+l
+c
+i
+t
+r
+A
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+Escherichia coli is often utilized as an indicator bacterium for antimicrobial resistance 
+
+of Gram-negative bacteria because it is a commensal bacterium in gut microbiota (Varga et 
+
+al., 2008). In addition, antimicrobial resistance in E. coli is important because it can cause 
+
+diseases in both humans and animals. In veterinary medicine, E. coli causes infections such 
+
+as mastitis in cows, diarrhea in calves, and colibacillosis in piglets and chickens. (Bradley, 
+
+2002; Dziva and Stevens 2008; Luppi 2017). Since antimicrobial-resistant genes are often 
+
+encoded on transferable genetic elements such as plasmids, E. coli can easily receive 
+
+antimicrobial-resistance genes from other bacteria via horizontal transfer, hence this can 
+
+serve as a reservoir of resistance genes within gut microbiota (Bailey et al., 2010; Carattoli 
+
+2008). Especially, extended-spectrum beta-lactamase (ESBL) and/or 
+
+carbapenemase-producing E. coli is a major concern because it shows resistance against most 
+
+of beta-lactam antimicrobial agents (Carattoli, 2008). 
+
+This article is protected by copyright. All rights reserved. 
+
+The Food and Agriculture Organization of the United Nations (FAO) estimates that the 
+
+consumption of meat and milk in Africa will triple by 2050 (FAO, 2013); livestock 
+
+production is an important agricultural sector in Africa. According to a surveillance data in 
+
+2005, livestock production in Uganda contributed 493 million US dollars per year which 
+
+accounted for about 5.56% of total Ugandan GDP. (FAO, 2005). The 2014 FAO census data 
+
+estimates that in Uganda there are 4.9 million cattle, 2.0 million pigs, 3.9 million sheep and 
+
+goats, and 60.0 million poultry. (FAO2017). With the shortage of veterinarians in food 
+
+animals in Uganda becomes a big problem of livestock disease control. For instance, in 2002, 
+
+the ratio of veterinarian to livestock was 1: 10,500 livestock units (LSU; based on the number 
+
+of cattle, goats, sheep, pigs and chickens) while it was 1: 2,255 LSU in the USA (African 
+
+Development Fund, 2002; FAO 2017, OIE 2016). Interestingly, farmers in Uganda can 
+
+ 
+
+purchase antimicrobial agents without the prescription of a veterinarian and even go ahead to 
+
+treat their livestock. This therefore, predisposes to the emergence ARB due to improper use 
+
+of antimicrobial agents in livestock (Queenan et al., 2016).   
+
+e
+l
+c
+i
+t
+r
+A
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+In Uganda, several studies have detected and characterized ARB at a phenotypic level, 
+
+for instance Afema et al. and Byarugaba et al detected antimicrobial-resistant E. coli, 
+
+Salmonella, and Enterococcus spp. from livestock at a slaughterhouse (Afema et al., 2016; 
+
+Byarugaba et al, 2011), Kateete et al. detected antimicrobial resistant coliforms from milk 
+
+samples with mastitis (Kateete et al., 2013). However, these studies did not identify 
+
+antimicrobial-resistant genes of their isolates. Here, we collected commensal E. coli from 
+
+livestock feces derived from Ugandan farms to characterize antimicrobial susceptibilities and 
+
+genotype of the isolates. In addition, we identified antimicrobial resistance genes contained in 
+
+the feces by metagenomics analysis.  
+
+ 
+
+This article is protected by copyright. All rights reserved. 
+
+Materials and Methods 
+
+Sampling and isolation of E. coli 
+
+Fresh feces of livestock (cattle, pig, goat, and layer chicken) were collected at 
+
+commercial farms (defined as farms that produce livestock products and/or live animals for 
+
+market) and subsistence farms (that produce enough to feed themselves and their families) in 
+
+Wakiso (n = 7) and Mpigi (n = 6) district in September 2016 and February 2017. Both 
+
+districts are in the central region of Uganda, about 15 km (Wakiso) and 40 km (Mpigi) from 
+
+Kampala, the capital of Uganda. When visiting the farms, we inquired from the farmers about 
+
+(1) the type of livestock, (2) the number of livestock on the farm, and (3) the usage of 
+
+antimicrobial agents. The bottles or pouch packs of antimicrobial agents were recorded when 
+
+ 
+
+the farmers kept them. We also inquired health conditions of the livestock from the farmers 
+
+and the district veterinary officers, and we collected feces from apparently healthy livestock 
+
+only. A total of 130 fecal samples (n = 49 from Wakiso and n = 81 from Mpigi) were 
+
+collected (Table 1). These samples were transported immediately to the Central Diagnostic 
+
+Laboratory of the College of Veterinary Medicine, Animal resources and Biosecurity, 
+
+Makerere University in Kampala, Uganda for further analysis.   
+
+Feces were diluted in 0.85% sterilized saline, and 1 mL of fecal solution was inoculated 
+
+on a Petrifilm SEC plate (3M Company, MN, USA). After overnight cultivation at 37°C, up 
+
+to four blue colonies which were suspected to be E. coli by β-gluclonidase activity were sub 
+
+cultured on ES Colimark agar media (Eiken Chemical Co., Ltd., Tokyo, Japan) overnight at 
+
+37°C. Single colonies with blue color were defined as E. coli isolates. In addition, these 
+
+isolates were checked by E. coli-specific PCR (Wang et al., 1996).   
+
+e
+l
+c
+i
+t
+r
+A
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+ 
+
+This article is protected by copyright. All rights reserved. 
+
+Antimicrobial susceptibility testing 
+
+To characterize antimicrobial susceptibility of E. coli isolates, minimum inhibitory 
+
+concentration (MIC) for 12 antimicrobial agents (ampicillin [AMP], cefazolin [CFZ], 
+
+cefotaxime [CTX], gentamicin [GEN], kanamycin [KAN], tetracycline [TET], minocycline 
+
+[MIN], nalidixic acid [NAL], ciprofloxacin [CIP], colistin [CST], chloramphenicol [CHL], 
+
+and sulfamethoxazole-trimethoprim [SXT]) was tested by a broth micro-dilution method 
+
+using frozen plates (Eiken Chemical) according to the manufacturer’s instructions. E. coli 
+
+ATCC 25922 and Staphylococcus aureus ATCC 29213 were used as quality control strains 
+
+for the MICs. Isolates with higher MIC for antimicrobial agents than the MIC breakpoint on 
+
+the Clinical and Laboratory Standards Institute (CLSI) guideline were defined as resistant, 
+
+ 
+
+while breakpoint to CST was determined as ≥4 mg/L, according to the European Committee 
+
+on Antimicrobial Susceptibility Testing (EUCAST) guideline (CLSI, 2016; EUCAST 2017). 
+
+Isolates that showed resistance to at least one antimicrobial agent were used in further 
+
+analyses. The correlation between the frequency of antimicrobial resistance and the use of 
+
+respective antimicrobials on farms was analyzed by chi-squared test or Fisher’s exact test 
+
+using Microsoft Excel 2016 with Statcel v3 (OMS Ltd., Saitama, Japan) as an add-in for 
+
+e
+l
+c
+i
+t
+r
+A
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+ 
+
+ 
+
+statistical analysis.   
+
+Phylogenetic typing 
+
+PCR-based phylogenetic typing for E. coli was performed (Clermont et al., 2000). 
+
+According to the PCR results, isolates were classified into seven groups and subgroups: A0, 
+
+A1, B1, B22, B23, D1, and D2 (Escobar-Páramo et al., 2004).   
+
+This article is protected by copyright. All rights reserved. 
+
+Metagenomic analysis on shotgun DNA library 
+
+Metagenomic analysis were performed to detect antimicrobial resistance genes 
+
+contained in feces. DNA was isolated from six randomly chosen representative fecal samples 
+
+ 
+
+from Wakiso (cattle 1, pig 3, and layer 2). The Feces were collected in a storage buffer 
+
+(Hayaishi and Kawamoto, 2006) at room temperature. DNA was extracted from fecal bacteria 
+
+e
+l
+c
+i
+t
+r
+A
+
+ 
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+Antimicrobial resistance genes in E. coli strains 
+
+PCR were performed to detect antimicrobial resistance genes as follows: for 
+
+AMP-resistant strains, blaTEM, blaSHV, and blaOXA; TET-resistant strains, tetA, tetB, tetC, 
+
+tetD, tetE, and tetG; for SXT-resistant strains, sul1 and sul2 (Colom et al., 2003; Phuong et 
+
+al., 2008; Vignaroli et al., 2012).   
+
+as described previously (Ushida et al., 2016). Briefly, fecal pellets were washed with 
+
+phosphate-buffered saline and a portion of fecal pellets was transferred to tissue-lysis buffer 
+
+(MDT buffer) in a DNA tissue kit of Mini-80 system (Kurabo, Osaka, Japan). Fecal pellet 
+
+was disrupted with beads beating. After proteinase K treatment, bacterial DNA was purified 
+
+using Mini-80 system. Resultant DNA solution was evaluated for its DNA concentration and 
+
+purity by Nano-drop ND-1000 spectrometer (Thermo Scientific) and Qubit 2.0 (Invitrogen) 
+
+with Qubit™ dsDNA HS Assay Kit (Invitrogen). DNA was sent to BGI Japan, where 
+
+shotgun library construction with KAPA HTP Library Preparation Kits (KAPA Biosystems) 
+
+and paired-end sequencing was performed with the Illumina Hiseq X-Ten platform with the 
+
+reagent Kit v2.5 (2 x 151 cycles). DNA sequence reads were assembled after elimination of 
+
+low quality reads as previously (Tsuchida et al., 2017). Obtained fasta files were subjected to 
+
+antimicrobial resistant gene search using DIAMOND v0.9.10 against the Comprehensive 
+
+Antibiotic Resistance Database (CARD) database (Buchfink et al., 2015; McArthur et al., 
+
+This article is protected by copyright. All rights reserved. 
+
+Ethics statement 
+
+The protocol of this study was approved by the Uganda National Council of Science 
+
+and Technology (UNCST), permit number A_522. A material transfer agreement was 
+
+endorsed between College of Veterinary Medicine, Animal Resources, and Biosecurity, 
+
+Makerere University and Kyoto Prefectural University for the materials included in the 
+
+analysis. The material transfer was approved by UNCST. All the samplings were performed 
+
+ 
+
+with a non-invasive manner in the presence of the farmers and district veterinary officers with 
+
+ 
+
+e
+l
+c
+i
+t
+r
+A
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+2013). The metagenomic data set was also examined by principal component analysis and 
+
+heat map using statistical software R. The sequences have been deposited in the European 
+
+Molecular Biology Laboratory (EMBL) under the accession number PRJEB20456.   
+
+their permission.   
+
+ 
+
+Results 
+
+Usage of antimicrobial agents 
+
+Our study sampled 13 farms: seven in Wakiso and six in Mpigi district. At each farm, 
+
+we recorded the types of antimicrobial agents used (Table 1). In both districts, 53.8% (7/13) 
+
+of farms used penicillins (mainly benzylpenicillin), 69.2% (9/13) used tetracyclines (mainly 
+
+oxytetracycline), and 61.5% (8/13) used sulfonamides (with or without trimethoprim). 
+
+Dihydrostreptomycin was the most frequently used aminoglycoside and often used in 
+
+combination with benzylpenicillin. Macrolides and fluoroquinolones were not commonly 
+
+used. Use of cephalosporins, carbapenems, old quinolones, colistin, and phenicols were not 
+
+reported by the farmers. Penicillins (with or without aminoglycosides) were most commonly 
+
+This article is protected by copyright. All rights reserved. 
+
+used as an injection or spray for wound treatment for cattle and pigs. Tetracyclines were used 
+
+as an injection for wounds or mastitis in cows and infection control and promotion of egg 
+
+production in layers as feed or water additives. Sulfonamides (with or without trimethoprim) 
+
+were used to treat diarrhea in cows and coccidiosis in chickens, diarrhea in cows and 
+
+coccidiosis in chickens. Other drugs such as ivermectin, amprolium, albendazole, 
+
+buparvaquone, and vitamins were used occasionally (data not shown).   
+
+Sample collection and isolation 
+
+After the isolation on ES Colimark agar media, 340 isolates were obtained. Among 
+
+them, 293 isolates were positive for E. coli-specific PCR. Antimicrobial susceptibility test 
+
+ 
+
+showed that 159 isolates were resistant to at least one antimicrobial agent. Twenty-five 
+
+e
+l
+c
+i
+t
+r
+A
+
+ 
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+ 
+
+isolates which were 1) derived from the same feces, 2) showed the same antimicrobial 
+
+resistance pattern, and 3) identified as the same phylogenetic type were considered as 
+
+duplicated strains and omitted from further analyses. Overall, 134 unique E. coli strains (54 
+
+from Wakiso and 80 from Mpigi) were used for further analyses. Prevalence of each 
+
+phylogenetic types among these 134 strains was as follows: A0, n = 13; A1, n = 56; B1, n = 
+
+57; B22, n = 2; B23, n = 4; D1, n = 1 and D2, n = 1.   
+
+Antimicrobial resistance phenotypes and genotypes 
+
+Antimicrobial susceptibility tests revealed that TET-resistant isolates were very 
+
+common in all livestock feces, with an overall prevalence of 97.0% (cattle 91.3%, pig 100%, 
+
+goat 100%, layer 98.4%), followed by SXT resistance (56.7%) and AMP resistance (44.8%) 
+
+(Table 2). A few isolates showed resistance to CFZ, KAN, MIN, NAL, CIP, CST, and CHL, 
+
+This article is protected by copyright. All rights reserved. 
+
+e
+l
+c
+i
+t
+r
+A
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+ 
+
+ 
+
+farms (odds ratio 2.03, 95% CI= 1.01 - 4.08, P =0.045 by chi-squared test) (Table 3).   
+
+PCR for antimicrobial resistance genes revealed that 83.3% (50/60) of AMP-resistant 
+
+strains harbored blaTEM as a beta-lactamase gene while blaSHV and blaOXA were not detected. 
+
+Among TET-resistant strains (n = 130), 74.6% (97/130) harbored tetA gene, 9.2% (13/130) 
+
+harbored tetB gene, 13.8% (18/130) harbored both tetA and tetB, and 0.8% (1/130) harbored 
+
+tetC gene. Among SXT-resistant strains (n = 76), 11.8% (9/76) harbored sul1 gene, 57.9% 
+
+(44/76) harbored sul2 gene, and 23.7% (18/76) harbored both sul1 and sul2.   
+
+yet resistance to CTX and GEN were not detected. Isolates with co-resistance to 
+
+AMP-TET-SXT were detected in all livestock, although the frequency was different (goat 
+
+62.5%, cattle 47.8%, layers 33.3%, and pig 15.0%). In addition, four isolates from layers 
+
+showed resistance to six antimicrobial agents tested, including five different antimicrobial 
+
+categories; two of them were resistant to AMP-KAN-TET-NAL-CIP-SXT, one was to 
+
+AMP-KAN-TET-NAL-CHL-SXT, and one was to AMP-TET-NAL-CIP-CHL-SXT.   
+
+We analyzed the correlation between the frequency of resistance occurrence to 
+
+penicillins (including AMP), tetracyclines, and sulfonamides in E. coli and the use of 
+
+antimicrobial agents to livestock. The frequency of AMP-resistance in E. coli isolates from 
+
+farms that used penicillins was significantly higher than that of E. coli from penicillin-free 
+
+Metagenomic analysis 
+
+The reads for each predicted antimicrobial-resistant gene by CARD are shown in 
+
+Figure 1. We classified them into 16 categories, according to the mode of 
+
+antimicrobial-resistance. Among them, genes for multidrug efflux pumps were most 
+
+prevalent in all except in one sample. In #972-3, a pig sample from a subsistence farm, 
+
+This article is protected by copyright. All rights reserved. 
+
+tetracycline-resistance genes were the most frequently identified while the frequency of 
+
+multidrug efflux pump gene was lower than other samples (Fig 1). The representative genes 
+
+of each category identified by CARD are summarized on Table 4, and the actual read 
+
+percentages are listed on supporting information (Table S1). In total, we identified 911 
+
+antimicrobial-resistant genes. Multidrug efflux pump genes were the most frequent category 
+
+(20.84% to 38.96% of total reads from each sample). Among them, mdtB, mdtC, and mdtF, 
+
+genes which have been isolated from a plasmid in Lactococcus lactis subsp. lactis (Perreten 
+
+et al., 2001), were the three most representatives (2.90-3.72%, 2.33-3.65%, and 0.82-3.59%, 
+
+respectively). The second most prevalent gene category was old/new quinolone resistance 
+
+genes (9.83%-13.45%), the third was tetracycline resistance genes (4.78%-35.81%), and the 
+
+e
+l
+c
+i
+t
+r
+A
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+ 
+
+Discussion 
+
+fourth was polypeptides (including CST) resistance genes (5.58%-7.87%). Most resistant 
+
+ 
+
+genes were encoded on bacterial chromosomal DNA such as blaACT for carbapenem 
+
+resistance, mfd for quinolone resistance, and arnA for CST resistance. We also identified 
+
+clinically important resistance genes which are often encoded on plasmidic DNA such as 
+
+blaCTX-M for cephalosporin resistance, qnr for fluoroquinolone resistance, ermB for macrolide 
+
+resistance, vanA and vanB for vancomycin resistance, and vatA for streptogramin resistance, 
+
+while the frequencies of reads were not as high (Table S1). The heat mapping and principal 
+
+component analysis using metagenomic read numbers showed that antimicrobial resistance 
+
+genes identified from each sample were quite different (Figure S1).   
+
+This study describes ARB in livestock in Uganda. There have been several reports on 
+
+ARB in Ugandan livestock (Afema et al., 2016; Byarugaba et al, 2011); however, these 
+
+studies were focused on cultivation of ARB only. Our study describes the use of 
+
+This article is protected by copyright. All rights reserved. 
+
+antimicrobials on farms and clarifies ARB in livestock, as well as the distribution of 
+
+antimicrobial-resistance genes in ARB.   
+
+In our study, inquiries to the farmers revealed that the usage of benzylpenicillin, 
+
+oxytetracycline, and sulfonamides (with or without trimethoprim) was common on Ugandan 
+
+livestock farms. Penicillins, with or without streptomycin, were often administered as an 
+
+injection or spray to cattle and pigs, while oxytetracycline and sulfonamides were orally 
+
+administered to layers through feeds or drinking water. In addition, antimicrobial 
+
+susceptibility testing showed that resistance to AMP, TET, and SXT was common in the 
+
+strains detected in our study among our strains, yet still co-resistance to these three 
+
+antimicrobials was also detected. Previous studies on E. coli derived from Ugandan livestock 
+
+ 
+
+have reported the same outcome (Afema et al., 2016; Byarugaba et al, 2011). Such 
+
+characteristics were identical to the common antimicrobial agents which have been used at 
+
+the sampling sites. These results support the theory that the use of antimicrobial agents 
+
+contributes to the prevalence of ARB by providing selective pressure (Asai et al., 2005).   
+
+e
+l
+c
+i
+t
+r
+A
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+The dissemination of ESBL-producing E. coli and other Enterobacteriaceae in 
+
+livestock has been reported globally (Carattoli, 2008). A previous study on ARB isolated 
+
+from clinical specimens of human hospital in Uganda showed high frequency of 
+
+cephalosporin-resistant E. coli; 77.8% were resistant to ceftazidime (a third-generation 
+
+cephalosporin) and 69.4% were resistance to cefepime (a fourth-generation cephalosporin) 
+
+(Seni et al., 2013). In contrast, we didn’t detect CTX (a third-generation cephalosporin) 
+
+resistant E. coli from livestock in our study. According to our data, no farms used 
+
+third-generation cephalosporins or carbapenems for the livestock. Although we have no data 
+
+on the availability of those antimicrobial agents in Wakiso and Mpigi districts, we speculate 
+
+that cephalosporins and carbapenems are too expensive for the farmers to treat their livestock. 
+
+This article is protected by copyright. All rights reserved. 
+
+Consequently, we considered the absence of CTX-resistant E. coli in livestock resulted from 
+
+the lack of exposure of CTX to the gut microbiota in Ugandan livestock. It is also possible 
+
+that the difference in prevalence of cephalosporin resistance in E. coli suggests that the 
+
+emergence and spread of cephalosporin-resistant E. coli in Uganda is not through zoonotic 
+
+transmission but through medical use. However, the results of metagenomic analysis in our 
+
+study also identified blaCTX-M-type ESBL genes and several carbapenem-resistance genes 
+
+among fecal bacteria. Although we cultured E. coli only, this result indicates that blaCTX-M 
+
+and carbapenem-resistance genes were not harbored by E. coli but harbored by other fecal 
+
+bacteria, suggesting the possibility of horizontally transfer of those resistance genes from 
+
+fecal bacterial population to E. coli. Previous studies suggested that the emergence of ARB is 
+
+associated with the use of antimicrobial agents (Asai et al., 2005, Sato et al., 2014). 
+
+ 
+
+Therefore, the emergence of cephalosporin and/or carbapenem resistant E. coli may occur if 
+
+e
+l
+c
+i
+t
+r
+A
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+these antimicrobial agents are used indiscriminately on Ugandan farms. As the dissemination 
+
+of ESBL- or carbapenemase-producing Enterobacteriaceae has become a global concern, the 
+
+use of these antimicrobials and the presence of ARB in Uganda should be monitored 
+
+carefully.   
+
+We detected several E. coli strains that showed resistance to CHL and/or CST. 
+
+However, phenicols (such as CHL and thiamphenicol) and CST were not used on the farms 
+
+we visited. Although we did not investigate the availability of phenicols and CST in Wakiso 
+
+and Mpigi districts, both antimicrobial agents are inexpensive compared with cephalosporins 
+
+or carbapenems, and have been frequently used for livestock in other countries. In our study, 
+
+antimicrobial use was self-reported by the farmers and determined by the researchers based 
+
+on the drug bottles found at each farm. Therefore, there were some limitations that the results 
+
+of interview may not be accurate representation of antimicrobial use on the farms. In 
+
+addition, there is a possibility that CHL- and/or CST-resistant strains have been transmitted 
+
+This article is protected by copyright. All rights reserved. 
+
+from the farmers or livestock on farms in the surrounding area, which have used CHL and/or 
+
+CST. Metagenomic analysis revealed that resistance genes for phenicols (CHL) and 
+
+polypeptides (CST) were detected in the fecal samples. This suggest that, as same as blaCTX-M 
+
+and carbapenemase genes, CHL- and CST-resistant genes were already spread in fecal 
+
+bacterial population of Ugandan livestock.   
+
+When comparing the result between animal species, multidrug-resistant strains that 
+
+showed resistance to five different categories of antimicrobial agents were only identified 
+
+from layers. Compared with other livestock, layers are frequently administered antimicrobial 
+
+agents orally, as a food or water addictive, not only for the treatment of bacterial diseases but 
+
+also as growth promoter (Brown et al., 2017). Consequently, the presence of 
+
+ 
+
+multidrug-resistant E. coli in layers may be the result of the frequent or indiscriminate use of 
+
+antimicrobial agents. These multidrug-resistant strains in layers are problematic for farmers 
+
+because colibacillosis is one of major problem in layer production and causes huge economic 
+
+losses (Bengtsson and Greko, 2014; Dziva and Stevens, 2008).   
+
+e
+l
+c
+i
+t
+r
+A
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+The results of the metagenomic analysis revealed that the frequency of ARB in the 
+
+subsistent farm sample (#927-3) was different from other samples from commercial farms. In 
+
+the sample, the frequency of multidrug efflux pump gene was lower than others. According to 
+
+the owner of the subsistence farm, no antimicrobial agents were used at that time on the farm. 
+
+We considered that the absence of antimicrobial use in the farm is the reason of low 
+
+frequency of multidrug efflux pump gene in the sample. In contrast, the frequency of 
+
+tetracycline resistance gene in the subsistent farm sample was much higher than others. 
+
+According to the CARD analysis data, the main tetracycline-resistance gene in the 
+
+subsistence farm sample is tetW (Table S1). In a previous study, the prevalence of tetW is 
+
+reported to be clearly related to the usage of tetracycline (Tsuchida et al., 2017). The reason 
+
+This article is protected by copyright. All rights reserved. 
+
+why tetW gene was frequently detected from the subsistence farms sample is unclear. One 
+
+possible explanation for this result is that the owner of the farm had used tetracycline before, 
+
+and tetW gene had remained on the farm. A previous study reported that tet genes including 
+
+tetW can remain without selection pressure (Tamminen et al., 2011). We need more 
+
+surveillance to clarify the difference in the frequency of antimicrobial resistance genes 
+
+between commercial farms and subsistence farms because the sample number of subsistence 
+
+farm in this study was only one. 
+
+Metagenomic analysis also detected antimicrobial-resistance genes for Gram-positive 
+
+bacteria, such as macrolide resistance and vancomycin resistance genes (erm and van 
+
+variants, respectively). This suggests that the presence of Gram-positive ARB was also 
+
+e
+l
+c
+i
+t
+r
+A
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+ 
+
+common in the fecal samples we studied. As a previous Ugandan study have reported the 
+
+presence of antimicrobial-resistant enterococci (Byarugaba et al, 2011), further genetic study 
+
+on Enterococcus spp. in Ugandan livestock is required.   
+
+A limitation of this study is the criteria we used to determine duplicated E. coli strains. 
+
+We determined duplicated strains by the origin, antimicrobial resistance phenotype, and 
+
+phylogenetic type of the strains only. We excluded 25 duplicated isolates from analyses, but 
+
+it might contain genetically distinct strains. Although we believe that the main phenotypic 
+
+and genotypic features of antimicrobial resistance of E. coli in Ugandan livestock were 
+
+clarified by our present data, other methods to check the duplication of strains such as 
+
+repetitive element palindromic PCR or random amplified polymorphic DNA analysis should 
+
+be performed.   
+
+In conclusion, we identified ARB in Ugandan livestock using both the 
+
+culture-dependent method (isolation of antimicrobial-resistant E. coli) and 
+
+culture-independent method (metagenomic analysis on antimicrobial-resistant genes) for the 
+
+This article is protected by copyright. All rights reserved. 
+
+first time. Reports on ARB among animals in Africa is increasing, but there are still limited 
+
+data available. Our results provide essential information on the prevalence of ARB in 
+
+livestock in Uganda. Although we could not isolate third-generation cephalosporin-resistant 
+
+E. coli, there is a risk of the emergence of cephalosporin- or carbapenem-resistant 
+
+Enterobacteriaceae in Ugandan livestock because the genes for ESBLs and carbapenemases 
+
+have already exist in their gut microbiota.   
+
+ 
+
+Acknowledgements 
+
+e
+l
+c
+i
+t
+r
+A
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+We thank Mizue Matsushita (Graduated school of Health Sciences, Hokkaido 
+
+University) for her technical assistance. The authors are grateful to the farm owners in 
+
+ 
+
+Wakiso and Mpigi districts for their cooperation. Special thanks to Dr. F. Kalungi (Wakiso 
+
+Divisional Veterinary Office) and Mr. G.S. Musoke (Mpigi Divisional Veterinary Office) for 
+
+their support during sample collection. Mr. I. Makhuwa and Ms. H.N. Opolot, Science 
+
+Officer, Research Registration, Clearance and Analysis Unit, Uganda National Council for 
+
+Science and Technology are greatly acknowledged for his help to obtain the permission of 
+
+this research project. This study was funded by grants-in-aid for scientiﬁc research 
+
+KAKENHI from the Japan Society for the Promotion of Science grant number 16H02767, 
+
+and partially funded by KAKENHI grant number 16H01782. Eddie M. Wampande was 
+
+supported through the DELTAS Africa Initiative grant # DEL-15-011 to THRiVE-2. The 
+
+DELTAS Africa Initiative is an independent funding scheme of the African Academy of 
+
+Sciences (AAS)’s Alliance for Accelerating Excellence in Science in Africa (AESA) and 
+
+supported by the New Partnership for Africa’s Development Planning and Coordinating 
+
+Agency (NEPAD Agency) with funding from the Welcome Trust grant # 107742/Z/15/Z and 
+
+This article is protected by copyright. All rights reserved. 
+
+the UK government. The views expressed in this publication are those of the author(s) and 
+
+not necessarily those of AAS, NEPAD Agency, Welcome Trust or the UK government. 
+
+Conflict of interest statement 
+
+The authors declared no conﬂict of interest. The funders had no role in study design, 
+
+data collection and analysis, decision to publish or preparation of the manuscript.   
+
+ 
+
+References 
+
+ 
+
+e
+l
+c
+i
+t
+r
+A
+
+ 
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+Afema J.A., D.K. Byarugaba, D.H. Shah, E. Atukwase, M. Nambi, and W.M. Sischo, 2016. 
+
+Potential sources and transmission of salmonella and antimicrobial resistance in Kampala, 
+
+Uganda. PLoS One. 11, e0152130. 
+
+(appraisal report). 
+
+African development fund, 2002: National livestock productivity improvement project 
+
+https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/UG-200
+
+2-126-EN-ADF-BD-WP-UGANDA-AR-LIVESTOCK-IMPROVEMENT.PDF 
+
+Asai T., A. Kojima, K. Harada, K, Ishihara, T. Takahashi, and Y. Tamura, 2005: Correlation 
+
+between the usage volume of veterinary therapeutic antimicrobials and resistance in 
+
+Escherichia coli isolated from the feces of food-producing animals in Japan. Jpn. J. Infect. 
+
+Dis. 58, 369-372.   
+
+Bailey J. K., J. L. Pinyon, S. Anantham, and R. M. Hall, 2010: Commensal Escherichia coli 
+
+of healthy humans: a reservoir for antibiotic-resistance determinants. J. Med. Microbiol. 
+
+59, 1331-1339. 
+
+This article is protected by copyright. All rights reserved. 
+
+Bengtsson B. and C. Greko, 2014: Antibiotic resistance – consequences for animal health, 
+
+welfare, and food production. Upsala J. Med. Sci. 119, 96-102. 
+
+Bradley A., 2002: Bovine mastitis: an evolving disease. Vet. J. 164, 116-128.   
+
+Brown K., R. R. Uwiera, M. L. Kaimokoff, S. P. Brooks, and G. D. Inglis, 2017: 
+
+Antimicrobial growth promoter use in livestock: a requirement to understand their modes 
+
+of action to develop effective alternatives. Int. J. Antimicrob. Agents 49, 12-24.   
+
+Buckfink B., C. Xie, and D. H. Huson, 2015: Fast and sensitive protein alignment using 
+
+DIAMOND. Nat. Methods 12, 59-60.   
+
+Byarugaba, D. K., R. Kisame, and S. Olet, 2011: Multi-drug resistance in commensal bacteria 
+
+ 
+
+of food of animal origin in Uganda. Afr. J. Microbiol. Res. 5, 1539-1548. 
+
+Carattoli, 2008: Animal reservoirs for extended spectrum β-lactamase producers. Clin. 
+
+Microbiol. Infect. 14 (Suppl 1), 117-123. 
+
+Clermont. O., S. Bonacorsi, and E. Bingen, 2000: Rapid and simple determination of the 
+
+Escherichia coli phylogenetic group. Appl. Environ. Microbiol. 66, 4555-4558. 
+
+Clinical and Laboratory Standards Institute (CLSI), 2016: Performance standards for 
+
+antimicrobial susceptibility testing; Twenty-sixth informational supplement. CLSI 
+
+document M100-S26. Wayne, PA, USA. 
+
+Colom K., J. Pérez, R. Alonso, A. Fernández-Aranguiz, E. Lariño E, and R. Cisterna, 2003. 
+
+Simple and reliable multiplex PCR assay for detection of blaTEM, blaSHV and blaOXA-1 
+
+genes in Enterobacteriaceae. FEMS Microbiol. Lett. 223, 147-151.   
+
+e
+l
+c
+i
+t
+r
+A
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+This article is protected by copyright. All rights reserved. 
+
+Dziva F. and M. P. Stevens, 2008: Colibacillosis in poultry: unravelling the molecular basis 
+
+of virulence of avian pathogenic Escherichia coli in their natural hosts. Avian Patholog. 
+
+37, 355-366. 
+
+Escobar- Páramo, P., K. Grenet, A. Le Menac’h, L. Rode, E. Salgado, C. Amorin, S. 
+
+Gouriou, B. Picard, M. C. Rahimy, A. Andremont, E. Denamur, and R. Ruimy, 2004: 
+
+Long-scale population structure of human commensal Escherichia coli isolates. Appl. 
+
+Environ. Microbiol. 70, 5698-5700. 
+
+European Committee on Antimicrobial Susceptibility Testing (EUCAST), 2017: EUCAST 
+
+clinical breakpoint tables version 7.1. http://www.eucast.org/clinical_breakpoints/   
+
+Food and Agriculture Organization (FAO), 2005. Livestock sector brief. 
+
+ 
+
+http://www.fao.org/ag/againfo/resources/en/pubs_sap.html#   
+
+e
+l
+c
+i
+t
+r
+A
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+FAO, 2013: Investing in African livestock: business opportunities in 2030-3050. 
+
+http://www.fao.org/docrep/018/al757e/al757e.pdf   
+
+FAO, 2017: FAOSTAT Livestock Primary. http://www.fao.org/faostat/en/#data/QL 
+
+Hayaishi S. and Y. Kawamoto, 2006: Low genetic diversity and biased distribution of 
+
+mitochondrial DNA haplotypes in the Japanese macaque (Macaca fuscata yakui) on 
+
+Yakushima Island. Primates. 47, 158-164.   
+
+Kateete. D. P., U. Kabugo, H. Baluku, L. Nyakarahuka, S. Kyobe, M. Okee, C. F. Najjuka, 
+
+and M. L. Joloba, 2013: Prevalence and antimicrobial susceptibility patterns of bacteria 
+
+from milkmen and cows with clinical mastitis in and around Kampala, Uganda. PLoS One. 
+
+8, e63413.   
+
+This article is protected by copyright. All rights reserved. 
+
+ 
+
+Perreten V., F. V. Schwarz, M. Teuber, and S. B. Levy, 2001: Mdt(A), a new efflux protein 
+
+conferring multiple antibiotic resistance in Lactococcus lactis and Escherichia coli. 
+
+Antimicrob. Agents Chemother. 45, 1109-1114.   
+
+e
+l
+c
+i
+t
+r
+A
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+Luppi A., 2017: Swine enteric colibacillosis: diagnosis, therapy and antimicrobial resistance. 
+
+Porcine Health Manag. 3: 16. 
+
+Marshall, B. M. and S. B. Levy, 2011: Food animals and antimicrobials: impacts on human 
+
+health. Clin. Microbiol. Rev. 24, 718-733.   
+
+McArthur A. G., N. Waglechner, F. Nizam, A. Yan, M. A. Azad, A. J. Baylay, K. Bhullar, 
+
+M. J. Canova, G. De Pascale, L. Ejim, L. Kalan, A. M. King, K. Koteva, M. Morar, M. R. 
+
+Mulvey, J. S. O'Brien, A. C. Pawlowski, L. J. Piddock, P. Spanogiannopoulos, A. D. 
+
+Sutherland, I. Tang, P. L. Taylor, M. Thaker, W. Wang, M. Yan, T. Yu, and G. D. Wright, 
+
+2013: The comprehensive antibiotic resistance database. Antimicrob. Agents. Chemother. 
+
+57, 3348-3357. 
+
+Phuong Hoa P. T, L. Nonaka, P. Hung Viet, and S. Suzuki, 2008: Detection of the sul1, sul2, 
+
+and sul3 genes in sulfonamide-resistant bacteria from wastewater and shrimp ponds of 
+
+north Vietnam. Sci. Total. Environ. 405, 377-384.   
+
+Queenan K., L. Redmond, and J. Rushton, 2016. Rapid assessment of antimicrobial use in 
+
+animals and antimicrobial resistance in low and middle income countries - contribution to 
+
+World Bank global report on the Economic Cost of Antimicrobial Resistance (P150321). 
+
+Country Report - Uganda for the World Organisation for Animal Health (OIE) to 
+
+contribute to analyses of impacts on animal health, drug use, and production.   
+
+Sato T., T. Okubo, M. Usui, S. Yokota, S. Izumiyama, and Y. Tamura, 2014: Association of 
+
+veterinary third-generation cephalosporin use with the risk of emergence of 
+
+This article is protected by copyright. All rights reserved. 
+
+extended-spectrum-cephalosporin resistance in Escherichia coli from dairy cattle in Japan. 
+
+PLoS One 9: e96101. 
+
+Seni J, C. F. Najjuka, D. P. Kateete, P. Makobore, M. L. Joloba, H. Kajumbula, A. Kapesa, 
+
+and F. Bwanga, 2013: Antimicrobial resistance in hospitalized surgical patients: a silently 
+
+emerging public health concern in Uganda. BMC Res. Notes 6, 298.   
+
+Tamminen M, A. Karkman, A. Lõhmus, W. I. Muziasari, H. Takasu, S. Wada, S. Suzuki, and 
+
+M. Virta, 2011; Tetracycline resistance genes persist at aquaculture farms in the absence 
+
+of selection pressure. Environ. Sci. Technol. 45, 386-391. 
+
+Tsuchida S, F. Maruyama, Y. Ogura, A. Toyoda, T. Hayashi, M. Okuma, and K. Ushida, 
+
+2017; Genomic characteristics of Bifidobacterium thermacidophilum pig isolates and wild 
+
+ 
+
+boar isolates reveal the unique presence of a putative mobile genetic element with tetW for 
+
+pig farm isolates. Front. Microbiol. 8, 1540.   
+
+e
+l
+c
+i
+t
+r
+A
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+Ushida K., S. Tsuchida, Y. Ogura, A. Toyoda, and F. Maruyama, 2016: Domestication and 
+
+cereal feeding developed domestic pig-type intestinal microbiota in animals of suidae. 
+
+Anim. Sci. J. 87, 835-841.   
+
+Walter J., 2008: Ecological role of Lactobacilli in the gastrointestinal tract: implications for 
+
+fundamental and biomedical research. Appl. Environ. Microbiol. 74, 4985-4996.   
+
+Wang, R. F., W. W. Cao, and C. E. Cerniglia, 1996: PCR detection and quantitation of 
+
+predominant anaerobic bacteria in human and animal fecal samples. Appl. Environ. 
+
+Microbiol. 62, 1242-1247. 
+
+World Health Organization, 2014: Antimicrobial resistance: global report on surveillance. 
+
+ISBN 978 92 4 156474 8.   
+
+This article is protected by copyright. All rights reserved. 
+
+Varga C., A. Rajić, M. E. McFall, R. J. Reid-Smith, A. E. Dckert, D. L. Pearl, B. P. Avery, S. 
+
+L. Checkley, and S. A. McEwen, 2008: Comparison of antimicrobial resistance in generic 
+
+Escherichia coli and Salmonella spp. cultured from identical fecal samples in finishing 
+
+swine. Can. J. Vet. Res. 72, 181-187.   
+
+Vignaroli C., G. M. Luna, C. Rinaldi, A. Di Cesare, R. Danovaro, and F. Biavasco, 2012: 
+
+New sequence types and multidrug resistance among pathogenic Escherichia coli isolates 
+
+from coastal marine sediments. Appl. Environ. Microbiol. 78: 3916-3922.   
+
+ 
+
+ 
+
+e
+l
+c
+i
+t
+r
+A
+
+ 
+
+ 
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+This article is protected by copyright. All rights reserved. 
+
+Table 1. Summary of the information of farms, fecal samples and E. coli strains in this 
+study. 
+
+Number of farms 
+
+Use of antimicrobial agents 
+
+        Penicillins 
+
+        Cephalosporins 
+
+        Carbapenems 
+
+        Aminoglycosides 
+
+            penicillin-streptomycin 
+combination 
+
+        Tetracyclines 
+
+        Macrolides 
+
+        Old quinolones 
+
+        Fluoroquinolones 
+
+        Colistin 
+
+        Phenicols 
+
+        Sulfonamides 
+
+ 
+
+ 
+
+e
+l
+c
+i
+t
+r
+A
+
+ 
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+Wakiso 
+
+Mpigi 
+
+district 
+
+district 
+
+7 
+
+ 
+
+6 
+
+ 
+
+Total 
+
+13 
+
+ 
+
+42.9% (3/7) 
+
+66.7% (4/6) 
+
+53.8% (7/13) 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+42.9% (3/7) 
+
+33.3% (2/6) 
+
+38.5% (5/13) 
+
+28.6% (2/7) 
+
+33.3% (2/6) 
+
+30.8% (4/13) 
+
+57.1% (4/7) 
+
+83.3% (5/6) 
+
+69.2% (9/13) 
+
+14.3% (1/7) 
+
+16.7% (1/6) 
+
+15.4% (2/13) 
+
+0 
+
+0 
+
+0 
+
+14.3% (1/7) 
+
+16.7% (1/6) 
+
+15.4% (2/13) 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+57.1% (4/7) 
+
+66.7% (4/6) 
+
+61.5% (8/13) 
+
+28.6% (2/7) 
+
+33.3% (2/6) 
+
+30.8% (4/13) 
+
+ 
+
+15 
+
+20 
+
+0 
+
+14 
+
+ 
+
+30 
+
+10 
+
+16 
+
+25 
+
+ 
+
+45 
+
+30 
+
+16 
+
+39 
+
+            sulfonamides-trimethoprim 
+combination 
+
+Fecal samples 
+
+        Cattle 
+
+        Pig 
+
+        Goat 
+
+        Layer 
+
+This article is protected by copyright. All rights reserved. 
+
+49 
+
+ 
+
+5 
+
+29 
+
+0 
+
+20 
+
+54 
+
+81 
+
+ 
+
+18 
+
+11 
+
+8 
+
+43 
+
+80 
+
+130 
+
+ 
+
+23 
+
+40 
+
+8 
+
+63 
+
+134 
+
+        Total 
+
+E. coli strains used in this study 
+
+        Cattle 
+
+        Pig 
+
+        Goat 
+
+e
+l
+c
+i
+t
+r
+A
+
+ 
+
+ 
+
+        Layer 
+
+        Total 
+
+ 
+
+ 
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+This article is protected by copyright. All rights reserved. 
+
+Table 2. Frequency of antimicrobial resistance of E. coli isolates in this study. 
+
+ 
+
+Cattle 
+
+Pig 
+
+Goat 
+
+Layer 
+
+Total 
+
+(n = 23)† 
+
+(n = 40) 
+
+(n = 8) 
+
+(n = 63) 
+
+(n = 134) 
+
+18 (78.3%) 
+
+10 (25.0%) 
+
+6 (75.0%) 
+
+26 (41.3%) 
+
+60 (44.8%) 
+
+2 (8.7%) 
+
+2 (5.0%) 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+2 (3.2%) 
+
+6 (4.8%) 
+
+0 
+
+0 
+
+0 
+
+0 
+
+5 (7.9%) 
+
+5 (3.7%) 
+
+21 (91.3%) 
+
+39 (100%) 
+
+8 (100%) 
+
+62 (98.4%) 
+
+130 (97.0%) 
+
+0 
+
+8 (20.0%) 
+
+0 
+
+1 (1.6%) 
+
+9 (6.7%) 
+
+4 (17.4%) 
+
+5 (12.5%) 
+
+1 (12.5%) 
+
+19 (30.2%) 
+
+29 (21.6%) 
+
+1 (4.3%) 
+
+2 (8.7%) 
+
+0 
+
+0 
+
+1 (4.3%) 
+
+3 (7.5%) 
+
+0 
+
+0 
+
+0 
+
+10 (15.9%) 
+
+11 (8.2%) 
+
+0 
+
+2 (1.5%) 
+
+5 (7.9%) 
+
+9 (6.7%) 
+
+13 (56.5%) 
+
+13 (32.5%) 
+
+7 (87.5%) 
+
+43 (68.3%) 
+
+76 (56.7%) 
+
+11 (47.8%) 
+
+6 (15.0%) 
+
+5 (62.5%) 
+
+21 (33.3%) 
+
+43 (32.1%) 
+
+0 
+
+0 
+
+0 
+
+4 (6.3%) 
+
+4 (3.0%) 
+
+ 
+
+CFZ 
+
+CTX 
+
+AMP 
+
+e
+l
+c
+i
+t
+r
+A
+
+MIN 
+ 
+NAL 
+
+GEN 
+
+KAN 
+
+TET 
+
+CIP 
+
+SXT 
+
+CST 
+
+CHL 
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+ 
+
+AMP+TET+SXT 
+
+Five different 
+categories‡ 
+
+Abbreviations: AMP, ampicillin; CFZ, cefazolin; CTX, cefotaxime; GEN, gentamicin; 
+KAN, kanamycin; TET, tetracycline; MIN, minocycline; NAL, nalidixic acid; CIP, 
+ciprofloxacin; CST, colistin; CHL, chloramphenicol; SXT, 
+sulfamethoxazole-trimethoprim. 
+
+† The number of fecal samples derived from each livestock species. 
+
+‡ Among four strains which were resistance to 5 different categories of antimicrobials, two 
+of them were resistant to AMP-KAN-TET-NAL-CIP-SXT, one to 
+AMP-KAN-TET-NAL-CHL-SXT and one to AMP-TET-NAL-CIP-CHL-SXT. 
+
+This article is protected by copyright. All rights reserved. 
+
+Strains from farms with 
+usage of respective 
+antimicrobial 
+
+Strains from farms 
+without usage of respective 
+antimicrobial 
+
+Odds ratio 
+
+(95% CI) 
+
+P 
+value† 
+
+28.4% 
+
+16.4% 
+
+83.6% 
+
+13.4% 
+
+2.03 
+
+(1.01 - 4.08) 
+
+0.045 
+
+0.095 
+
+6.22 
+
+(0.29 - 
+16.71) 
+
+1.14 
+
+42.5% 
+
+14.2% 
+
+(0.49 - 2.30) 
+
+0.735 
+
+Penicillin 
+resistance 
+
+Tetracycline 
+resistance 
+
+Sulfonamide 
+
+resistance 
+
+Table 3. Frequency of antimicrobial resistance and correlation with the use of 
+antimicrobial agents in livestock. 
+
+Abbreviation: CI, confidence interval. 
+
+† P value was calculated using chi-squared test for penicillin and sulfonamide resistance 
+and Fisher’s exact test for tetracycline resistance.   
+
+ 
+
+ 
+
+ 
+
+e
+l
+c
+i
+t
+r
+A
+
+ 
+
+ 
+
+ 
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+This article is protected by copyright. All rights reserved. 
+
+Table 4. Antimicrobial resistance genes identified by metagenomic analysis. 
+
+ 
+
+(1) Beta-lactams 
+
+Resistance gene 
+
+(accession no.) 
+
+e
+l
+c
+i
+t
+r
+A
+
+(2) Carbapenems 
+
+  blaMIR-15 (AIT76104.1)† 
+
+ blaTEM-87 (AAG44570.1) 
+
+  blaCFE-1 (BAC76072.1) 
+
+  blaACT-1 (AAC45086.2) 
+
+  blaACT-12 (AFU25650.1) 
+
+#927-4 
+
+Cattle 
+
+#927-8 
+
+#927-10 
+
+#927-3 
+
+#927-11 
+
+#927-12 
+
+Pig 
+
+Pig 
+
+Pig 
+
+Layer 
+
+Layer 
+
+commercial 
+
+commercial 
+
+commercial 
+
+subsistence 
+
+commercial 
+
+commercial 
+
+2.39% (2163)‡ 
+
+0.80% (2471) 
+
+0.87% (2059) 
+
+1.11% (658) 
+
+0.64% (2413) 
+
+0.52% (1561) 
+
+0.07% (63) 
+
+0.06% (198) 
+
+0.07% (155) 
+
+0.02% (14) 
+
+0.09% (352) 
+
+0.07% (219) 
+
+0.24% (222) 
+
+0.01% (21) 
+
+0.04% (100) 
+
+0.01% (4) 
+
+0.01% (24) 
+
+0.03% (27) 
+
+0.03% (29) 
+
+0.04% (110) 
+
+0.03% (62) 
+
+0.01% (6) 
+
+0.03% (110) 
+
+0.02% (71) 
+
+0.14% (129) 
+
+0.08% (249) 
+
+0.09% (217) 
+
+0.12% (73) 
+
+0.13% (494) 
+
+0.40% (1188) 
+
+0.04% (39) 
+
+0.03% (100) 
+
+0.03% (82) 
+
+0.01% (4) 
+
+0.05% (192) 
+
+0.04% (110) 
+
+0.04% (35) 
+
+0.02% (62) 
+
+0.02% (48) 
+
+0.01% (4) 
+
+0.03% (120) 
+
+0.03% (95) 
+
+ 
+
+ blaACT-28 (AHL39333.1) 
+
+0.04% (33) 
+
+0.02% (49) 
+
+0.02% (45) 
+
+0.01% (6) 
+
+0.04% (139) 
+
+0.02% (65) 
+
+(3) Aminoglycosides 
+
+  aph(3'')-Ib (ABK33456.1) 
+
+  aph(6)-Id (AAC23556.1) 
+
+ ant(6)-Ib (AIJ27543.1) 
+
+(4) Old/New quinolones 
+
+ mfd (NP_415632.1)) 
+
+  emrB (BAA16547.1) 
+
+  patA (NP_417544.5) 
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+(5) Phenicols 
+
+ catII (CAA37805.1)    
+
+ cat (AAL08441.1) 
+
+ catI (CAA23899.1) 
+
+(6) Fosfomycin 
+
+ fosA2 (ACC85616.1) 
+
+0.50% (451) 
+
+7.63% (23671) 
+
+7.23% (17212) 
+
+2.11% (1253) 
+
+4.47% (16859) 
+
+6.09% (18125) 
+
+0.14% (126) 
+
+3.54% (10980) 
+
+3.17% (7550) 
+
+0.47% (280) 
+
+1.51% (5700) 
+
+1.87% (5573) 
+
+0.14% (125) 
+
+3.48% (10827) 
+
+3.22% (7669) 
+
+0.39% (231) 
+
+1.34% (5030) 
+
+1.88% (5606) 
+
+0.06% (53) 
+
+0.22% (667) 
+
+0.29% (693) 
+
+0.71% (422) 
+
+0.73% (2756) 
+
+0.28% (821) 
+
+13.45% (12186) 
+
+13.02% (40380) 
+
+11.77% (28023) 
+
+9.83% (5843) 
+
+12.93% (48708) 
+
+13.31% (39624) 
+
+3.11% (2821) 
+
+3.95% (12255) 
+
+3.59% (8537) 
+
+3.17% (1885) 
+
+3.07% (11551) 
+
+3.49% (10393) 
+
+1.48% (1338) 
+
+1.85% (5739) 
+
+1.68% (4005) 
+
+1.54% (917) 
+
+1.80% (6764) 
+
+1.80% (5366) 
+
+1.51% (1369) 
+
+1.66% (5162) 
+
+1.55% (3679) 
+
+0.71% (422) 
+
+1.63% (6133) 
+
+1.67% (4978) 
+
+2.49% (2255) 
+
+0.01% (16) 
+
+0.34% (810) 
+
+0.32% (190) 
+
+0.03% (97) 
+
+0.05% (148) 
+
+2.43% (2203) 
+
+0.01% (12) 
+
+0.06% (136) 
+
+0.24% (142) 
+
+0.01% (18) 
+
+0.01% (9) 
+
+< 0.01% (2) 
+
+< 0.01% (2) 
+
+0.14% (326) 
+
+0.02% (2) 
+
+0 
+
+0.12% (276) 
+
+0 
+
+0 
+
+< 0.01% (3) 
+
+0 
+
+0 
+
+0 
+
+0.01% (7) 
+
+0.07% (220) 
+
+0.01% (18) 
+
+0.06% (34) 
+
+0.02% (68) 
+
+0.11% (341) 
+
+< 0.01% (3) 
+
+< 0.01% (5) 
+
+< 0.01% (4) 
+
+0.03% (19) 
+
+0 
+
+0.10% (298) 
+
+This article is protected by copyright. All rights reserved. 
+
+ fosA5 (AJE60855.1) 
+
+0 
+
+0.06% (192) 
+
+< 0.01% (1) 
+
+0.01% (4) 
+
+<0.01% (2) 
+
+0 
+
+ murA (CCE36834) 
+
+< 0.01% (4) 
+
+< 0.01% (9) 
+
+0.01% (12) 
+
+0.01% (5) 
+
+0.01% (46) 
+
+0.01% (32) 
+
+0.35% (318) 
+
+0.03% (89) 
+
+0.04% (96) 
+
+0.14% (86) 
+
+0.08% (310) 
+
+0.07% (210) 
+
+< 0.01% (1) 
+
+< 0.01% (14) 
+
+0.01% (24) 
+
+0.01% (3) 
+
+0.07% (253) 
+
+0.03% (52) 
+
+0.13% (120) 
+
+0.02% (49) 
+
+0.03% (60) 
+
+0.10% (57) 
+
+0 
+
+< 0.01% (6) 
+
+0.21% (189) 
+
+< 0.01% (14) 
+
+< 0.01% (3) 
+
+0.03% (17) 
+
+< 0.01% (9) 
+
+< 0.01% (12) 
+
+0.24% (217) 
+
+0.26% (807) 
+
+0.44% (1048) 
+
+1.85% (1099) 
+
+1.41% (5329) 
+
+0.94% (2793) 
+
+0.07% (63) 
+
+0.08% (262) 
+
+0.32% (750) 
+
+1.30% (771) 
+
+0.10% (388) 
+
+0.06% (178) 
+
+0.01% (12) 
+
+0.01% (27) 
+
+0.01% (26) 
+
+0.03% (16) 
+
+0.27% (1034) 
+
+0.13% (3989) 
+
+  < 0.01% (2) 
+
+< 0.01% (12) 
+
+< 0.01% (10) 
+
+0.05% (37) 
+
+0.14% (516) 
+
+0.15% (461) 
+
+10.93% (9988) 
+
+6.68% (20702) 
+
+7.61% (18104) 
+
+35.81% (21280) 
+
+6.38% (24041) 
+
+4.78% (14230) 
+
+2.65% (2406) 
+
+2.90% (8987) 
+
+3.45% (8221) 
+
+18.30% (10871) 
+
+2.83% (10669) 
+
+1.18% (3518) 
+
+1.22% (1109) 
+
+1.14% (3522) 
+
+0.96% (2295) 
+
+0.16% (94) 
+
+0.91% (3447) 
+
+0.55% (1646) 
+
+2.07% (1875) 
+
+0.56% (1744) 
+
+0.75% (1784) 
+
+5.57% (3309) 
+
+0.04% (140) 
+
+0.08% (232) 
+
+ 
+
+ mefA (YP008997285.1) 
+
+ ermB (AAC45607.1) 
+
+ ermQ (AAC36915.1) 
+
+(9) Tetracyclines 
+
+(7) Lincosamides 
+
+ lmrD (ABF66027.1) 
+
+ lnuC (AAY32951.1) 
+
+ lsaB (NP_899166.1) 
+
+e
+l
+c
+i
+t
+r
+A
+
+(8) Macrolides 
+
+ tetW (ACA23185.1) 
+
+ 
+
+ tetC (AAO16462.1) 
+
+ tet40 (AFK31666.1) 
+
+ 
+
+ 
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+This article is protected by copyright. All rights reserved. 
+
+Table 4. (continued) 
+
+ 
+
+ arnA (AAC75315.1) 
+
+ pmcC (BAE78116.1) 
+
+(10) Polypeptides 
+
+Resistance gene 
+
+(accession no.) 
+
+e
+l
+c
+i
+t
+r
+A
+
+  vanYG1 
+(ABA71729.1) 
+
+(11) Glycopeptides 
+
+ 
+
+  vanRI 
+(WP_011461303) 
+
+ pmrB (YP_492255.1) 
+
+  vanRG (ABA71727.1) 
+
+(12) Streptogramin 
+
+  vgaC (CBY88983.1) 
+
+  vatB (AAA86871.1) 
+
+  vatE (AAF86220.1) 
+
+(13) Sulfonamides 
+
+ sul2 (AAL59753.1) 
+
+ sul1 (AEJ33969.1) 
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+ dfrA1 
+(YP_001715373.1) 
+
+ dfrE (AAD01868.1) 
+
+(15) Multidrug efflux 
+        pumps 
+
+ sul2 (WP_063855569) 
+
+(14) Trimethoprim 
+
+ dfrA14 (ACI32877.1) 
+
+#927-4 
+
+Cattle 
+
+#927-8 
+
+#927-10 
+
+#927-3 
+
+#927-11 
+
+#927-12 
+
+Pig 
+
+Pig 
+
+Pig 
+
+Layer 
+
+Layer 
+
+commercial 
+
+commercial 
+
+commercial 
+
+subsistence 
+
+commercial 
+
+commercial 
+
+7.46% (6761) 
+
+6.80% (21085) 
+
+7.14% (16985) 
+
+5.58% (3313) 
+
+7.87% (29436) 
+
+7.18% (21378) 
+
+1.64% (1487) 
+
+1.43% (4439) 
+
+1.84% (4390) 
+
+1.12% (663) 
+
+2.15% (8110) 
+
+1.76% (5232) 
+
+1.56% (1411) 
+
+1.42% (4405) 
+
+1.30% (3103) 
+
+0.44% (260) 
+
+1.69% (6350) 
+
+1.32% (3943) 
+
+1.24% (1122) 
+
+1.02% (3162) 
+
+1.03% (2445) 
+
+0.35% (207) 
+
+1.24% (4690) 
+
+1.00% (2990) 
+
+0.23% (208) 
+
+0.03% (81) 
+
+0.03% (69) 
+
+0.68% (406) 
+
+0.01% (32) 
+
+0.02% (58) 
+
+0.03% (29) 
+
+< 0.01% (10) 
+
+< 0.01% (8) 
+
+0.14% (82) 
+
+< 0.01% (7) 
+
+< 0.01% (12) 
+
+0.02% (17) 
+
+< 0.01% (9) 
+
+0.01% (13) 
+
+0.12% (71) 
+
+< 0.01% (6) 
+
+< 0.01% (4) 
+
+0.02% (17) 
+
+< 0.01% (7) 
+
+0.01% (17) 
+
+0.09% (55) 
+
+< 0.01% (3) 
+
+< 0.01% (5) 
+
+0.04% (147) 
+
+0.02% (12279) 
+
+0.04% (8841) 
+
+0.11% (414) 
+
+0.23% (7529) 
+
+0.09% (281) 
+
+0.01% (7) 
+
+0.02% (60) 
+
+0.03% (61) 
+
+0.03% (19) 
+
+0.23% (792) 
+
+0.08% (248) 
+
+0.02% (17) 
+
+< 0.01% (6) 
+
+< 0.01% (3) 
+
+0.08% (45) 
+
+0.01% (21) 
+
+< 0.01% (5) 
+
+0.01% (5) 
+
+0 
+
+< 0.01% (1) 
+
+< 0.01% (2) 
+
+0.01% (32) 
+
+< 0.01% (5) 
+
+0.16% (147) 
+
+3.96% (12279) 
+
+3.71% (8841) 
+
+0.70% (414) 
+
+2.00% (7529) 
+
+3.59% (10693) 
+
+0.12% (109) 
+
+3.86% (11977) 
+
+3.42% (8147) 
+
+0.47% (279) 
+
+1.30% (4884) 
+
+1.81% (5392) 
+
+0.04% (32) 
+
+0.09% (283) 
+
+0.19% (450) 
+
+0.22% (2499) 
+
+0.66% (4999) 
+
+1.68% (8392) 
+
+0 
+
+0.01% (16) 
+
+0.10% (229) 
+
+0.01% (4) 
+
+0.03% (97) 
+
+0.03% (91) 
+
+0.11% (99) 
+
+0.40% (1231) 
+
+0.79% (1887) 
+
+0.43% (253) 
+
+0.37% (1399) 
+
+0.75% (2220) 
+
+0.03% (24) 
+
+0.33% (1021) 
+
+0.67% (1584) 
+
+0.12% (69) 
+
+0.08% (305) 
+
+0.25% (752) 
+
+0.01% (8) 
+
+0.01% (24) 
+
+0.04% (91) 
+
+0.08% (49) 
+
+0.16% (599) 
+
+0.20% (602) 
+
+0.05% (45) 
+
+0.04% (124) 
+
+0.048% (89) 
+
+0.18% (109) 
+
+0.10% (359) 
+
+0.07% (217) 
+
+37.39% (33884) 
+
+37.61% (116621) 
+
+36.90% (87836) 
+
+20.84% (12383) 
+
+40.05% (150905) 
+
+38.96% 
+(3115976) 
+
+This article is protected by copyright. All rights reserved. 
+
+ mdtB (AAC75136.1) 
+
+2.90% (2624) 
+
+3.72% (11527) 
+
+3.35% (7981) 
+
+2.46% (1462) 
+
+3.18% (11995) 
+
+3.56% (10592) 
+
+ mdtC (AAC75137.1) 
+
+2.73% (2474) 
+
+3.65% (11326) 
+
+3.34% (7947) 
+
+2.33% (1387) 
+
+3.04% (11446) 
+
+3.34% (9946) 
+
+ mdtF (AAC76539.1) 
+
+(16) Miscellaneous 
+
+3.18% (2878) 
+
+2.42% (7502) 
+
+3.27% (7776) 
+
+0.82% (489) 
+
+3.59% (13528) 
+
+2.94% (8756) 
+
+24.12% (21860) 
+
+22.61% (70103) 
+
+22.99% (54730) 
+
+20.31% (12068) 
+
+23.38% (88073) 
+
+23.14% (68887) 
+
+100% (90625) 
+
+100% (310072) 
+
+100% (238027) 
+
+100% (59419) 
+
+100% (376748) 
+
+100% (297713) 
+
+† Representative genes of top three read percentage in each category are listed.   
+
+‡ Numbers in the brackets were the read numbers of each gene. 
+
+ 
+
+ 
+
+Total 
+
+e
+l
+c
+i
+t
+r
+A
+
+ 
+
+ 
+
+ 
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+This article is protected by copyright. All rights reserved. 
+
+ 
+
+e
+l
+c
+i
+t
+r
+A
+
+ 
+
+d
+e
+t
+p
+e
+c
+c
+A
+
+This article is protected by copyright. All rights reserved. 
+
+ 
+
+

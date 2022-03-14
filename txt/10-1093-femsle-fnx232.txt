@@ -1,0 +1,1334 @@
+FEMS Microbiology Letters, 364, 2017, fnx232
+
+doi: 10.1093/femsle/fnx232
+Advance Access Publication Date: 1 November 2017
+Research Letter
+
+R E S E A R C H L E T T E R – Food Microbiology
+
+Methicillin-resistant Staphylococcus aureus in minas
+frescal cheese: evaluation of classic enterotoxin genes,
+antimicrobial resistance and clonal diversity
+Alice Gonc¸alves Martins Gonzalez1,∗
+Marcel da Silva Amorim Gomes1, Jhonathan Campos do Couto Beltr ˜ao1,
+Marcos Gabriel Pinheiro2, Luciana Maria Ramires Esper1,
+Geraldo Renato de Paula3, Lenise Arneiro Teixeira3 and F ´abio Aguiar-Alves2
+
+, Leila M ´arcia Peres Marques1,
+
+1Departamento de Bromatologia, Faculdade de Farm ´acia, Universidade Federal Fluminense, Niter ´oi, RJ
+24241-000, Brasil, 2Programa de P ´os Graduacao em Patologia, Faculdade de Medicina, Universidade Federal
+Fluminense, Niter ´oi, RJ 24033-900, Brasil and 3Departamento de Tecnologia de Medicamentos e Cosm ´eticos,
+Faculdade de Farm ´acia, Universidade Federal Fluminense, Niter ´oi, RJ 24241-000, Brasil
+∗
+Corresponding author: Departamento de Bromatologia, Laborat ´orio de Higiene e Microbiologia de Alimentos, Faculdade de Farm ´acia, Universidade
+Federal Fluminense, Rua M ´ario Viana 523, Santa Rosa, Niter ´oi, CEP 24241-000, Brasil. Tel: +55 21 36747333. Tel/Fax: +55 2126299592.
+E-mail: aliceg@id.uff.br
+One sentence summary: Clones of methicillin-resistant Staphylococcus aureus, usually found in the hospital environment, carrying classical enterotoxin
+genes, were isolated from minas frescal cheese, a ready-to-eat product.
+Editor: Mark Enright
+
+ABSTRACT
+
+This study aimed to investigate classical enterotoxin (sea to see) and mecA genes, by polymerase chain reaction and
+anitimicrobial susceptibility, by disk diffusion test of Staphylococcus aureus isolated from minas frescal cheese (MFC). All
+methicillin-resistant S. aureus (MRSA) isolates were investigated for the presence of Panton-Valentine leukocidin (PVL)
+genes and clonal diversity. Thirty-one S. aureus were isolated from four MFC samples. Seven (22.6%) S. aureus carried mecA
+gene and two of them carried enterotoxin genes seb/sec and sea/seb. Five (16.1%) S. aureus isolates showed induced
+resistance to clindamycin and nine (29%) were resistant to multiple –antibiotics (MDR), among these, six were MRSA. No
+MRSA isolates presented the PVL genes. Four MRSA were grouped into three clones and three isolates were not typable by
+pulsed field gel electrophoresis. MRSA isolates showed, by multilocus sequence typing, sequence types ST1, ST5, ST72 and
+ST4304 (new ST) and S. aureus protein A (spa type) t127, t568 and t2703. These data suggest that MFC may constitute a risk
+to the consumer because of its potential for staphylococcal food poisoning; however it might, also, become one of MRSA
+and MDR strains disseminator, including clones usually found in the hospital environment.
+
+Keywords: coagulase positive staphylococci; MRSA; MDR; enterotoxigenic staphylococci; MLST; spa typing
+
+Received: 1 August 2017; Accepted: 31 October 2017
+C(cid:3) FEMS 2017. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com
+
+1
+
+Downloaded from https://academic.oup.com/femsle/article-abstract/364/23/fnx232/4584464
+by UNIVERSITY OF ADELAIDE user
+on 03 January 2018
+
+2
+
+FEMS Microbiology Letters, 2017, Vol. 364, No. 23
+
+INTRODUCTION
+
+Staphylococcus spp. colonizes skin and mucous membranes, es-
+pecially the nasal-pharyngeal region and gastrointestinal tract
+of humans and animals (Wendlandt, Schwarz and Silley 2013).
+Foodborne illness caused by Staphylococcus aureus is a poisoning
+that happens after ingestion of staphylococcal enterotoxins (SE)
+released in food (Le Loir, Baron and Gautier 2003).
+
+Minas frescal cheese (MFC) is one of the most popular
+cheeses in Brazil, produced from pasteurized milk, has soft con-
+sistency, high water activity, pH around 5.1 to 5.6 and 1.6% NaCl.
+MFC is highly perishable, providing conditions for the develop-
+ment of many enteropathogenic bacterial species (Gonzalez et al.
+2000), including S. aureus (Arcuri et al. 2010).
+
+◦
+
+Staphylococcus aureus releases a variety of extracelular pro-
+teins, including several SE, which are resistant to proteolytic
+enzymes and heat stable, requiring a temperature of 100
+C for
+5–10 min to be destroyed. Usually, these enterotoxins are not
+completely inactivated by pasteurization and other usual ther-
+mal treatments (Le Loir, Baron and Gautier 2003). Staphylococcal
+food poisoning generally occurs from strains that produce one
+or more of the five classical SEs (SEA to SEE) (Vic¸osa et al. 2013).
+The production of SE is correlated with proliferation of the
+bacterium in food, so bacterial colonies count is used to deter-
+mine the safety of the product. Food poisoning is caused, pre-
+dominantly, by coagulase-producing strains (Schelin et al. 2011).
+The main coagulase-positive SE-producing species is S. aureus;
+however, some other coagulase-positive species such as S. inter-
+medius and S. hyicus have also been described in food poisoning
+(Martins et al. 2013). Because of this, Brazilian law (Brasil 2001)
+establishes the coagulase-positive Staphylococcus (a) (colonies
+count) as quality and safety indicator for different types of food.
+Methicillin-resistant S. aureus (MRSA) is spread through-
+out the world (Wendlandt, Schwarz and Silley 2013), adapt-
+ing to different environmental conditions and modulating its
+pathogenicity, due to the ability to acquire foreign genes, in-
+cluding resistance genes to multiple antibiotics (Moellering
+2012). MRSA have been isolated from animal foods in different
+countries; however, only a few studies monitor MRSA in food
+(Wendlandt, Schwarz and Silley 2013), mainly in dairy prod-
+ucts (Basanisi et al. 2017). Monitoring MRSA from food is im-
+portant because of the ability of these bacteria to spread multi-
+ple antimicrobial resistance genes, turning it into a major public
+health problem (Pinchuk, Beswick and Reyes 2010).
+
+This study aimed to isolate S. aureus from MFC and investi-
+gate the presence of S. aureus species-specific genes, classical SE
+encoding genes, the gene that confers resistance to methicillin
+and investigate antimicrobial resistance profile. In addition, the
+clonal relationship among MRSA isolates was also determined.
+
+MATERIAL AND METHODS
+MFC samples and Staphylococcus aureus isolation
+
+In total, 30 samples of MFC have been analyzed, from different
+brands, sold in the city of Niteroi, during the period comprised
+between July and September 2012. All MFC samples analyzed
+showed the Federal Inspection Service (SIF) registration.
+
+Twenty-five grams of each sample were homogenized in
+225 mL of 0.1% peptone water (w/v) (DIFCO). Dilutions were
+plated onto Baird-Parker Agar (BP) (DIFCO), supplemented with
+egg emulsion and potassium tellurite (Laborclin, Brazil), and in-
+cubated at 35±1
+◦
+C for 24–48 h. Suspect colonies of Staphylococcus
+(black colonies surrounded by clear zone) were counted, at least
+
+five colonies were selected and inoculated onto Brain Heart In-
+fusion (BHI) broth (DIFCO) and BHI agar (DIFCO) for confirma-
+tion and subsequent calculation of the CFU of CoPS per gram
+of MFC, as recommended by the Compendium of Methods for
+the Microbiological Examination of Foods (Lancette and Bennet
+2001). The colonies confirmed as CoPS were stored at –20
+C in
+triptcase soy broth (TSB) (DIFCO) supplemented with 20% (v/v)
+glycerol (KASVI) (TSB-G).
+
+◦
+
+DNA extraction
+
+A total of 10 μL of the bacterial culture in TSB-G has been
+◦
+inoculated in 5 mL of BHI broth and incubated at 35
+C for
+18 h. DNA was extracted using the QIAamp DNA Minikit (Qiagen,
+Hiden, Germany), according to the manufacturer’s protocol,
+−1) and 3 μL of lysostaphin
+adding 30 μL of lysozyme (20 mg mL
+(10 mg mL
+
+−1).
+
+Polymerase chain reaction
+
+DNA was used as template to search for 16S rRNA gene, spe-
+cific for the genus Staphylococcus (Zhang et al. 2004); nuc gene, en-
+coding the thermonuclease enzyme specific for S. aureus species
+(Gandra et al. 2011); sea, seb, sec, sed and see genes, encoding for
+the classical SE (Becker, Roth and Petres 1998); mecA gene for me-
+thicillin resistance (Oliveira and Lencastre 2002); and luk-S-PV
+and luk-F-PV genes (Lina et al. 1999) by polymerase chain reac-
+tion (PCR). Genes used, oligonucleotides (Invitrogen, S ˜ao Paulo,
+Brazil), cycling conditions, primer concentration and base pair
+size are described in Table 1. Staphylococcus aureus ATCC 25923
+was used as positive control for 16S rRNA and nuc genes; S.
+aureus ATCC 13565, 14458, 19095, 23235 and 27664 for sea, seb,
+sec, sed and see genes, respectively; and S. aureus HU25 (BEC)
+for mecA. Escherichia coli ATCC 25922 and S. epidermidis ATCC
+12228 were used as negative control for 16S rRNA and nuc genes,
+respectively.
+
+Antimicrobial susceptibility testing
+
+isolates were evaluated through disk diffusion test on
+All
+Muller-Hinton agar. The investigated antimicrobial agents were
+erythromycin (15 μg), clindamycin (2 μg), sulfamethoxazole-
+trimethoprim (25 μg), rifampicin (5 μg), chloramphenicol
+(30 μg), linezolid (30 μg), ciprofloxacin (5 μg), penicillin G (10 U),
+oxacillin (1 μg), tetracycline (30 μg), gentamicin (10 μg) and ce-
+foxitin (30 μg) (Sensibiodisc, CECOM, Brazil) (Fig. S1, Supporting
+Information). The isolates resistant to erythromycin and sen-
+sitive to clindamycin were evaluated for resistance induced by
+clindamycin through D-Test (CLSI 2014) (Fig. S2, Supporting In-
+formation).
+
+Pulse-field gel electrophoresis
+
+DNA of all MRSA isolates was digested with five units of SmaI
+◦
+(Invitrogen) restriction endonuclease for 18 h at 30
+C. Restriction
+fragments were separated by 1% (w/v) agarose gel (Molecular
+Biology Certified agarose, Bio-Rad Laboratories, Richmond, CA,
+USA) in a pulsed-field gel electrophoresis (PFGE) system (CHEF
+DR-III, BioRad), with an initial pulse time of 1 s and final of
+◦
+30 s for 25 h at 11.3
+C in a voltage gradient of 6 V per cm and an-
+◦
+gle of 120
+. Fragmentation profiles were subjected to visual anal-
+ysis considering the criteria suggested by Tenover et al. (1995).
+Similarity profiles were analyzed using the Dice correlation co-
+efficient (Dice 1945) conducted by the UPGMA (unweighted pair
+
+Downloaded from https://academic.oup.com/femsle/article-abstract/364/23/fnx232/4584464
+by UNIVERSITY OF ADELAIDE user
+on 03 January 2018
+
+Gonzalez et al.
+
+3
+
+Table 1. Genes, primers, cycling conditions, primer concentration, base pair size, references.
+
+Cycling conditionsa
+
+Db
+
+A
+
+Ec
+
+Gene
+
+Primer (5
+
+(cid:5)→ 3
+(cid:5)
+
+)
+
+T
+
+t
+
+T
+
+t
+
+T
+
+t
+
+Primerd
+
+bp
+
+Reference
+
+sea
+
+seb
+
+sec
+
+sed
+
+see
+
+CCT TTG GAA ACG GTT AAA ACG TCT GAA CCT
+TCC CAT CAA AAA C
+TCG CAT CAA ACT GAC AAA CG GCA GGT ACT
+CTA TAA GTG CCT GC
+CTC AAG AAC TAG ACA TAA AAG CTA GG TCA
+AAA TCG GAT TAA CAT TAT CC
+CTA GTT TGG TAA TAT CTC CTT TAA ACG TTA
+ATG CTA TAT CTT ATA GGG TAA ACA TC
+CAG TAC CTA TAG ATA AAG TTA AAA CAA GC
+TAA CTT ACC GTG GAC CCT TC
+
+95
+
+60
+
+55
+
+60
+
+72
+
+120
+
+0,5
+
+127
+
+Becker, Roth and Petres (1998)
+
+95
+
+60
+
+55
+
+60
+
+72
+
+120
+
+0,5
+
+477
+
+Becker, Roth and Petres (1998)
+
+95
+
+60
+
+55
+
+60
+
+72
+
+120
+
+0,5
+
+271
+
+Becker, Roth and Petres (1998)
+
+95
+
+60
+
+55
+
+60
+
+72
+
+120
+
+0,5
+
+319 Becker, Roth and Petres (1998)
+
+95
+
+60
+
+55
+
+60
+
+72
+
+120
+
+0,5
+
+178
+
+Becker, Roth and Petres (1998)
+
+16S rRNA AAC TCT GTT ATT AGG GAA GAA CA CCA CCT
+
+94
+
+30
+
+50
+
+30
+
+72
+
+60
+
+20
+
+756
+
+Zhang et al. (2004)
+
+nuc
+
+mecA
+
+spa
+
+luk-PV
+
+arcC
+
+aroE
+
+glpF
+
+gmk
+
+pta
+
+tpi
+
+yqiL
+
+TCC TCC GGT TTG TCA CC
+ATGAAGTCAAATAAATCGCT
+TTTGGTGAAAAATACTTCTC
+TCCAGATTACAACTTCACCAGG
+CCACTTCATATCTTGTAACG
+AGACGATCCTTCGGTGAGC
+GCTTTTGCAATGTCATTTACTG
+ATCATTAGGTAAAATGTCTGGACATGATCCA
+GCATCAATSGTATTGGATAGCAAAGC
+TTGATTCACCAGCGCGTATTGTC
+AGGTATCTGCTTCAATCAGCG
+ATCGGAAATCCTATTTCACATTC
+GGTGTTGTATTAATAACGATATC
+CTAGGAACTGCAATCTTAATCC
+TGGTAAAATCGCATGTCCAATTC
+ATCGTTTTATCGGGACCATC
+TCATTAACTACAACGTAATCGTA
+GTTAAAATCGTATTACCTGAAGG
+GACCCTTTTGTTGAAAAGCTTAA
+TCGTTCATTCTGAACGTCGTGAA
+TTTGCACCTTCTAACAATTGTAC
+CAGCATACAGGACACCTATTGGC
+CGTTGAGGAATCGATACTGGAAC
+
+95
+
+120
+
+50
+
+120
+
+72
+
+120
+
+20
+
+458
+
+Gandra et al. (2011)
+
+94
+
+30
+
+55
+
+30
+
+72
+
+60
+
+95
+
+30
+
+55
+
+30
+
+72
+
+45
+
+94
+
+60
+
+55
+
+60
+
+72
+
+60
+
+95
+
+60
+
+55
+
+60
+
+72
+
+60
+
+95
+
+60
+
+55
+
+60
+
+72
+
+60
+
+95
+
+60
+
+55
+
+60
+
+72
+
+60
+
+95
+
+60
+
+55
+
+60
+
+72
+
+60
+
+95
+
+60
+
+55
+
+60
+
+72
+
+60
+
+95
+
+60
+
+55
+
+60
+
+72
+
+60
+
+95
+
+60
+
+55
+
+60
+
+72
+
+60
+
+20
+
+20
+
+20
+
+20
+
+20
+
+20
+
+20
+
+20
+
+20
+
+20
+
+162 Oliveira and Lencastre (2002)
+
+556
+
+Shopsin et al. (1999)
+
+433
+
+Lina et al. (1999)
+
+456
+
+Enright et al. (2000)
+
+456
+
+Enright et al. (2000)
+
+465
+
+Enright et al. (2000)
+
+429
+
+Enright et al. (2000)
+
+474
+
+Enright et al. (2000)
+
+402
+
+Enright et al. (2000)
+
+516
+
+Enright et al. (2000)
+
+a30 cycles; bpreceded by an initial denaturation step for 5 min; cpreceded by a final extension step for 5 min; dprimer concentration (pmol/μl).
+D: denaturation; A: annealing; E: elongation; T: temperature in celsius degree; t: time in seconds; bp: size of the amplicon in base pairs.
+
+group method using arithmetic) average included in the MEGA
+6 program (Tamura et al. 2013).
+
+Software SeqMan Pro (Lasergene-Dnastar, Winsconsin), and
+Ridom spa types were assigned by using the SpaServer website
+(http://spaserver2.ridom.de).
+
+Multilocus sequence typing
+
+MRSA isolates were typed through multilocus sequence typing
+(MLST) as described previously (Enright et al. 2000). We con-
+ducted MLST analysis by sequencing fragments of the PCR prod-
+uct of seven house-keeping genes (arcC, aroE, glpF, gmk, pta, tpi
+and yqiL) (Table 1). DNA sequences of PCR product from each
+of the seven genes were assembled in SeqMan (Lasergene 8,
+DNASTAR, Madison, WI, USA), and allele number and sequence
+types (ST) were assigned by using the S. aureus MLST website
+(https://pubmlst.org/saureus/).
+
+Staphylococcal protein A (spa) typing
+
+We conducted PCR using oligonucleotides (Invitrogen)
+for
+spa (staphylococcal protein A gene) typing (Table 1) of all
+MRSA isolates. DNA sequencing was performed accord-
+ing to Shopsin et al.
+(1999). Sequences were grouped in
+
+RESULTS AND DISCUSSION
+Staphylococcus aureus in the MFC
+
+Staphylococcal food poisoning is caused predominantly by
+strains producing the enzyme coagulase (Schelin et al. 2011). In
+view of this, Brazilian legislation (Brasil 2001), as well as Euro-
+pean legislation (European Union 2005), establishes CoPS count
+as an indicator of quality and safety for cheese. From 30 MFC
+samples analyzed, CoPS were identified in four (13.3%) samples
+(Q5, Q18, Q24 and Q28), of different manufacturers, acquired
+in different commercial establishments. Three (10%) samples
+(Q5, Q24 and Q28) showed CoPS above the standard (5.0 × 102
+CFU/g) established by Brazilian law (Brasil 2001). Staphylococcus
+aureus is very vulnerable to destruction by heating and sanitizing
+agents, so its presence in processed foods is usually indicative of
+poor hygiene and/or deficient pasteurization (Le Loir, Baron and
+
+Downloaded from https://academic.oup.com/femsle/article-abstract/364/23/fnx232/4584464
+by UNIVERSITY OF ADELAIDE user
+on 03 January 2018
+
+4
+
+FEMS Microbiology Letters, 2017, Vol. 364, No. 23
+
+Table 2. Characteristics of MRSA isolated from MFC, sample Q28.
+
+Isolates
+
+CH271
+CH273
+CH275
+CH276
+CH278
+CH279
+CH280
+
+16S rRNA
++
++
++
++
++
++
++
+
+nuc
++
++
++
++
++
++
++
+
+PCR
+
+se
+
+–
+–
+–
+seb/sec
+–
+–
+sea/seb
+
+mecA
++
++
++
++
++
++
++
+
+luk-PV
+
+oxa/cfxa
+
+D testb
+
+PFGEc
+
+–
+–
+–
+–
+–
+–
+–
+
+R
+R
+S
+R
+S
+S
+R
+
+CR
+CR
++
+CR
++
++
+CR
+
+A
+A
+NT
+B
+NT
+NT
+C
+
+STd
+
+72
+72
+72
+1
+4304
+5
+5
+
+spae
+
+t2703
+t2703
+UN
+t127
+UN
+UN
+t568
+
+aPhenotypic test using oxa (oxacillin) and cfx (cefoxitin): R (resistance); S (sensitive).
+bInduced resistance to clindamycin test: CR (constitutive resistance to clindamycin); + (induced resistance to clindamycin).
+cPFGE, pulsed-field gel electrophoresis: NT (non-typeable).
+dSequence type by multilocus sequence typing (MLST).
+espa, DNA sequencing of the repeat region of Staphylococcus protein A gene type: UN (unknown type).
+
+Gautier 2003). Furthermore, it is already known that human skin
+and nasal mucosa act as reservoirs of S. aureus, resulting as
+the main source of food contamination (Wendlandt, Schwarz
+and Silley 2013). MFC is a much-manipulated cheese and the
+samples analyzed in this study were produced from pasteur-
+ized milk. Thus, we suggest that the contamination of MFC may
+have occurred as result of failure in the pasteurization of milk,
+poorly cleaned equipment or mainly manipulation hygiene
+failure.
+
+Thirty-one CoPS were isolated and all isolates were con-
+firmed as S. aureus by 16S rRNA and nuc gene PCR (Table S1, Sup-
+porting Information). The nuc gene encodes the thermonucle-
+ase enzyme and has been used as a valuable genetic marker for
+rapid identification of S. aureus.
+
+Antimicrobial resistance profile
+
+There were S. aureus isolates presenting a wide spectrum of an-
+timicrobial resistance profile. All isolates of S. aureus were re-
+sistant to penicillin, 21 (67.74%) to erythromycin, 12 (38.71%)
+to ciprofloxacin, 4 (12.9%) to clindamycin, 4 (12.9%) to oxacillin
+and cefoxitin, 2 (6.45%) to rifampicin, 1 (3.23%) to chlorampheni-
+col and 1 (3.23%) to tetracycline. All isolates were susceptible
+to trimethoprim-sulfamethoxazole, gentamicin and linezolid
+(Table S1). Staphylococcus aureus showed a high rate of resis-
+tance to penicillin (Yucel, Citak and Bayh ¨un 2011). However, S.
+aureus penicillin-sensitive has been isolated from food (Oliveira
+et al. 2016). In general, a great percentage of erythromycin and
+ciprofloxacin resistance is observed (Yucel, Citak and Bayh ¨un
+2011).
+
+Staphylococcal enterotoxins
+
+MRSA isolates
+
+The main importance of staphylococci in foods is its ability to
+produce SE, leading to food poisoning; therefore, its search is im-
+portant, regarding the risk for human health (Pinchuk, Beswick
+and Reyes 2010). In Brazil, staphylococcal food poisoning is one
+of three most common foodborne diseases (Brasil 2017). Most
+cases of staphylococcal food-poisoning outbreaks occur due to
+production of classical SE (Vic¸osa et al. 2013). In this study, two
+(6.5%) isolates of S. aureus, CH276 and CH280, presented the
+SE genes seb/sec and sea/seb, respectively (Table 2; Table S1).
+Higher percentages of enterotoxigenic S. aureus isolated from
+dairy products have been described in Brazil (Arcuri et al. 2010)
+and other countries (Rosengren et al. 2010). MFC is a ready-to-
+eat-food, which raises concerns, as this fact enhances the like-
+lihood of food poisoning. SEA seems to be the most common
+SE implicated in staphylococcal food poisoning (Rosengren et al.
+2010). Studies have shown the relationship between the source
+of contamination and the type of SE produced by S. aureus. SEA
+and SEB are associated with contamination of human origin,
+whereas SEC and SED are related to contamination from ani-
+mals (Pinchuk, Beswick and Reyes 2010). However, S. aureus SEC-
+producing isolates have also been related to human contamina-
+tion. In the USA, Jones et al. (2002) identified a handler colonized
+by MRSA as a source of contamination of a food-poisoning out-
+break in which the strains involved were characterized as SEC
+producers. The results presented in this study allow us to spec-
+ulate that contamination of the MFC sample by S. aureus might
+have had human origin.
+
+CLSI (2014) establishes, for S. aureus, the use of cefoxitin disk (30
+μg) to detect oxacillin resistance mediated by mecA gene. How-
+ever, this method is often not sufficiently sensitive or specific;
+therefore, the detection of the mecA gene is applied and con-
+sidered the gold standard for MRSA identification (CLSI 2014).
+Seven (22.6%) S. aureus presented the mecA gene, being classi-
+fied as MRSA, were isolated from one (3.3%) MFC sample (Q28),
+but not all isolates showed oxacillin and cefoxitin resistance
+phenotype (Table 2, Table S1). Several studies have shown vary-
+ing accuracies in the identification of MRSA strains by disk dif-
+fusion method using cefoxitin and oxacillin, and this event is
+attributed to the heterogeneous expression of resistance (Mo-
+hanasoundaram and Lalitha 2008). Thus, we suggest the inclu-
+sion of mecA gene search for identification of MRSA from food.
+MRSA have been isolated from animal, raw milk and
+raw meat in different countries, including Brazil (Wendlandt,
+Schwarz and Silley 2013; Oliveira et al. 2016; Basanisi et al. 2017);
+however, few studies have been conducted to MRSA detection
+from dairy products, including cheese made from pasteurized
+milk. Normanno et al. (2007), in Italy, isolated MRSA from 1.3%
+of dairy products. Rodr´ıguez-L ´azaro et al. (2015) investigated 195
+samples of different foods confiscated from passengers flying to
+the USA, where they identified MRSA in 9.1% of the samples (one
+cheese). In another study, Basanisi et al. (2017) reported 8.3% of
+strains of S. aureus isolated from milk and dairy products were
+MRSA. In Brazil, Silveira-Filho et al. (2014), studying milk and
+dairy products, did not find any MRSA strain.
+
+Downloaded from https://academic.oup.com/femsle/article-abstract/364/23/fnx232/4584464
+by UNIVERSITY OF ADELAIDE user
+on 03 January 2018
+
+Table 3. Antimicrobial resistance profile of S. aureus isolated from samples of MFC.
+
+MFC sample
+
+isolates
+
+Antimicrobial resistance profile D-test (no of isolate)
+
+Gonzalez et al.
+
+5
+
+CH42, CH43, CH44, CH49, CH50, CH231, CH232, CH233, CH235, CH236 pen
+
+Q5, Q24
+Q5, Q18, Q24, Q28 CH41, CH45, CH46, CH48, CH176, CH180, CH234, CH277, CH279a,b
+Q24, Q28
+Q24
+Q24
+Q28
+Q28
+
+CH239, CH272a, CH274a, CH278a,b,c
+CH237, CH240
+CH238
+CH275a,b
+CH271b, CH273b, CH276b, CH280b
+
+pen, eri
+pen, eri, cip
+pen,eri, cip, rifd
+pen,eri, cip,clod
+pen, eri, cip, tetd
+pen, eri, cip, clin, oxa, cfod
+
+−
++(1)
++(3)
+−
+−
++(1)
+CR
+
+pen: penicillin G, eri: erythromycin, cip: ciprofloxacin, rif: rifampicin, clo: chloramphenicol, tet: tetracycline, clin: clindamycin, oxa: oxacillin, cfo: cefoxitin.
+aInduced resistance to clindamycin.
+bMethicillin-resistant Staphylococcus aureus (MRSA).
+c Multidrug-resistant (MDR) to carrying the mecA gene.
+dMDR.
+CR: constitutive resistance to clindamycin.
+
+D-test
+
+Five (16.1%) S. aureus isolates presented induced resistance to
+clindamycin, observed by the D-test; among these, three were
+MRSA (mecA-positive, oxacilin- and cefoxitin-sensitive) (Table 3,
+Table S1). The increase in infections caused by Staphylococ-
+cus spp. and the change in resistance profiles of these iso-
+lates has led to the use of clindamycin for the treatment of
+MRSA and MSSA (methicillin-sensitive S. aureus) infections.
+D-test is an important laboratory test to aid in the effective use
+of clindamycin for staphylococcal infections that present the
+MLSBi (macrolides, lincosamides and streptogramin resistance
+inducible pattern) phenotype, and thus avoid therapeutic fail-
+ures in clinical practice (Martinez-Aguilar et al. 2003).
+
+Multidrug resistant
+
+Isolates presenting resistance to three or more antimicrobial
+classes were classified as multidrug resistant (MDR; Magiorakos
+et al. 2012). A total of nine (29%) isolates were classified as MDR
+(Table 3, Table S1). MRSA strains are usually MDR pathogens
+(Pinchuk, Beswick and Reyes 2010); however, MRSA CH279 iso-
+late showed only resistance to penicillin and erythromycin
+(Table 3, Table S1), not being classified as MDR, which is a com-
+mon feature found among isolates classified as CA-MRSA (Van-
+denesch et al. 2003). Multiresistant bacteria are a major public
+health problem, and food is a possible transmitter of these mi-
+croorganisms to humans and environment (Pinchuk, Beswick
+and Reyes 2010). The presence of antibiotic resistance in poten-
+tially pathogenic bacteria isolated from foods of animal origin
+justifies further research into the role of antimicrobial agents.
+
+Panton-Valentine leukocidin toxin
+
+MRSA isolates were investigated for the presence of the luk-S and
+luk-F-PV genes. Panton-Valentine leukocidin (PVL) genes were
+not observed in any MRSA isolates (Table 2). These genes, en-
+coding PVL toxin, are usually observed in CA-MRSA (community-
+associated MRSA) (Vandenesch et al. 2003). However, data indi-
+cate that PVL is not always present in CA-MRSA isolates (Zhang
+et al. 2008), especially in Brazil (Carvalho, Berezin and Mimica
+2012).
+
+Clonal diversity
+
+MRSA mecA-positive oxacillin/cefoxitin-resistant isolates pre-
+sented three different PFGE profiles (Fig. S3, Supporting
+
+Information) and were grouped into three clonal groups: A, B
+and C. MRSA mecA-positive oxacillin/cefoxitin-susceptible iso-
+lates were non-typeable by PFGE (Table 2). Using the criteria es-
+tablished by Tenover et al. (1995), isolates belonging to clone
+A have 82% similarity with clone B isolates (CH273), whereas
+clones A and B have 79% similarity with clone C (CH280) (Fig.
+S4, Supporting Information).
+
+According to MLST, MRSA isolates showed four different se-
+quence types (ST1, ST5, ST72 and ST4304) (Table 2, Table S2,
+Supporting Information). Four isolates were grouped into three
+different spa typing (t127, t568 and t2703) and three isolates pre-
+sented unknown spa typing (Table 2). MRSA ST1, ST5 and ST72
+have been isolated in hospitals in Brazil (Schuenck et al. 2009;
+Matos et al. 2016), MRSA ST4304 is a new allele deposited in
+the S. aureus MLST database (https://pubmlst.org/saureus/), with
+ID32918. In Korea, nasal MRSA ST72 was predominant in pa-
+tients newly admitted to hospitals (Park et al. 2016). Based on
+the genotyping methods used, six different clones were identi-
+fied among the seven MRSA isolates from the same cheese. Iso-
+lates with the same ST were differentiated through spa typing.
+Song et al. (2015) reported that spa typing seems to present better
+resolution than MLST. The PFGE and spa typing methodologies
+presented correlation (Table 2).
+
+MRSA isolates belonging to clones B (CH276; ST1, t127) and
+C (CH280; ST5, t568) were also enterotoxigenic (Table 2). Isolates
+showing ST1 and ST5 have been related to staphylococcal food
+poisoning (Fetsch et al. 2014). In China, S. aureus ST5 was preva-
+lent among enterotoxin-producing strains isolated from differ-
+ent foods, including MRSA (Chang et al. 2016). These authors sug-
+gest strains of S. aureus ST5 tend to have great ability to produce
+enterotoxins, in addition to present increased antimicrobial
+resistance.
+
+Isolation of MRSA from MFC indicates that health service in-
+spection should give special attention to this food, since S. aureus
+are known to cause serious systemic infections. Even though
+rarely reported, food can be a vehicle for systemic staphylococ-
+cal infections (Yucel, Citak and Bayh ¨un 2011). Kluytmans et al.
+(1995) described a severe outbreak of MRSA infection in im-
+munocompromised individuals, who consumed contaminated
+food by the handler. During this specific outbreak, five deaths oc-
+curred. The treatment of MRSA infections is difficult and costly,
+thereby effective control to the production of MFC must be per-
+formed to prevent contamination, and thus the spread of these
+strains through food.
+
+The application of suitable hygiene procedures, with the
+adoption of Good Manufacturing Practices Program, in the pro-
+duction of food, is essential to promote satisfactory results
+
+Downloaded from https://academic.oup.com/femsle/article-abstract/364/23/fnx232/4584464
+by UNIVERSITY OF ADELAIDE user
+on 03 January 2018
+
+6
+
+FEMS Microbiology Letters, 2017, Vol. 364, No. 23
+
+regarding the quality of the final product. In conclusion, MFC
+can offer potential risk to consumers and community health.
+Staphylococcus aureus isolates showed different antimicrobial re-
+sistance profiles. MRSA and MDR in MFC indicate the spread
+of resistant strains to various environments; in addition, the
+presence of strains carrying SE shows the pathogenic poten-
+tial of these bacteria. Currently, the displacement of people and
+food between different regions is easy and fast. People who are
+contaminated with enterotoxigenic S. aureus or MDR or MRSA
+strains, through the MFC consumed in Brazil, can, in less than
+24 hours, take this strain to any part of the planet. Thus, glob-
+alization can make the contamination of a regional food into
+a global health problem. MFC samples used in this study have
+been contaminated by different clones, including those related
+to hospital environment, indicating the contamination from dif-
+ferent sources, or even at different times of processing. In order
+to develop strategies to prevent staphylococcal food poisoning,
+as well as to control food contamination by strains resistant to
+multiple antimicrobials, it is important to investigate S. aureus
+in food, especially in ready-to-eat dairy products.
+
+SUPPLEMENTARY DATA
+
+Supplementary data are available at FEMSLE online.
+
+ACKNOWLEDGEMENT
+
+We thank to Maria de F ´atima Nogueira de Freitas Alves for her
+technical assistance.
+
+FUNDING
+
+This work was supported by FAPERJ (Fundac¸ ˜ao de Amparo `a
+Pesquisa do Estado do Rio de Janeiro) and FOPESQ/UFF (Fomento
+`a Pesquisa da Universidade Federal Fluminense).
+Conflict of interest. None declared.
+
+REFERENCES
+
+Arcuri EF, Angelo FF, Guimar ˜aes MF et al. Toxigenic status of
+Staphylococcus aureus isolated from bovine raw milk and mi-
+nas frescal cheese in Brazil. J Food Protect 2010;73:2225–31.
+
+Basanisi MG, La Bella G, Nobili G et al. Genotyping of methicillin-
+resistant Staphylococcus aureus (MRSA) isolated from milk
+and dairy products in South Italy. Food Microbiol 2017;62:
+141–6.
+
+Becker K, Roth R, Petres G. Rapid and specific detection of toxi-
+genic S. aureus: use of two multiplex PCR enzyme immunoas-
+says for amplification and hybridization of Staphylococcal en-
+terotoxin genes, esfoliative toxin genes, and toxic syndrome
+toxin-1 gene. J Clin Microbiol 1998;36:2548–53.
+
+Brasil. RDC no 12. Aprova o regulamento t ´ecnico sobre padr ˜oes
+microbiol ´ogicos para Plimentos. January 2nd, 2001. In: Di ´ario
+Oficial da Uni ˜ao, Minist´erio da Sa ´ude, Agˆencia Nacional de
+Vigil ˆancia Sanit ´aria. Bras´ılia, DF.
+
+Brasil, Minist ´erio da Sa ´ude, Secretaria de Vigil ˆancia Sanit ´aria.
+http://portalarquivos.saude.gov.br/images/pdf/2017/
+(4 October 2017,
+
+2017
+maio/29/Apresentacao-Surtos-DTA-2017.
+date last accessed).
+
+Carvalho RLB, Berezin EN, Mimica MJ. Avaliac¸ ˜ao da presenc¸a dos
+genes lukS-PV e lukF-PV em cepas pedi ´atricas de Staphylococ-
+cus aureus. Arq Med Hosp Fac Ciˆen M´ed Santa Casa de S ˜ao Paulo
+2012;57:59–62.
+
+Chang Y, Gao H, Zhu Z et al. High prevalence and properties
+of enterotoxin-producing Staphylococcus aureus ST5 strains
+of food sources in China. Foodborne Pathog Dis 2016;13:
+386–90.
+
+CLSI (Clinical and Laboratory Standards Institute), 2014. Per-
+formance Standards for Antimicrobial Susceptibility Testing;
+Twenty-Fourth Informational Supplement. M100-S24, CLSI,
+Wayne.
+
+Dice LR. Measures of the amount of ecological association be-
+
+tween species. Ecology 1945;26:297–302.
+
+Enright MC, Day NP, Davies CE et al. Spratt, B.G. Multilocus se-
+quence typing for characterization of methicillin-resistant
+and methicillin susceptible clones of Staphylococcus aureus.
+J Clin Microbiol 2000;38:1008–15.
+
+◦
+European Union. Commission Regulation (EC) N
+
+2073 of 15
+November 2005. Microbiological criteria for foodstuffs. Offi-
+cial Journal of the European Union 338 2005, 1–26.
+
+Fetsch A, Contzen M, Hartelt K et al. Staphylococcus aureus food-
+poisoning outbreak associated with the consumption of ice-
+cream. Int J Food Microbiol 2014;187:1–6.
+
+Gandra EA, Fernandez MA, Silva JA et al. Standardization of mul-
+tiplex PCR for the identification of coagulase-positive Staphy-
+lococcus. Food Sci Technol 2011;31:946–9.
+
+Gonzalez AGM, Rosa ACP, Andrade JRC et al. Enteropathogenic-
+ity markers in E. coli strains isolated from soft White cheese
+and poultry in Rio de Janeiro, Brazil. Food Microbiol 2000;17:
+321–8.
+
+Jones TF, Kellum ME, Porter SS et al. An outbreak of community-
+acquired foodborne illness caused by methicillin-resistant
+Staphylococcus aureus. Emerg Infect Dis 2002;8:82–84.
+
+Kluytmans J, Van Leeuwen W, Goessens W et al. Food-initiated
+outbreak of methicillin-resistant Staphylocococcus aureus an-
+alyzed by pheno and genotyping. J Clin Microbiol 1995;33:
+1121–8.
+
+Lancette GA, Bennet RW. Staphylococcus aureus and Staphylococ-
+cal enterotoxins. In: Downes FP, Ito K (eds). Compendium of
+Methods for the Microbiological Examination of Foods. Washing-
+ton: Sheridan, 2001, 387–404.
+
+Le Loir YL, Baron F, Gautier M. Staphylococcus aureus and food
+
+poisoning. Gen Mol Res 2003;2:63–76.
+
+Lina G, Pi ´emont Y, Godail-Gamot F et al.
+
+Involvement of
+Panton-Valentine leukocidin producing Staphylococcus aureus
+in primary skin infections and pneumonia. Clin Infect Dis
+1999;29:28–32.
+
+Magiorakos AP, Srinvasan A, Carey RB et al. Multidrug-resistant,
+extensively drug-resistant and pandrug-resistant bact ´eria:
+an international expert proposal for interim standard defini-
+tions for acquired resistance. Clin Microbiol Infect 2012;18:268–
+81.
+
+Martinez-Aguilar G, Hammerman WA, Mason EO et al.
+Clindamycin treatment of invasive infections caused by
+community-acquired, methicillin-resistant and methicillin-
+susceptible Staphylococcus aureus in children. Ped Infect Dis J
+2003;22:593–8.
+
+Martins PD, Almeida TT, Basso AP et al. Coagulase-positive
+Staphylococci isolated from chicken meat: pathogenic po-
+tential and vancomycin resistance. Foodborne Pathog Dis
+2013;10:771–6.
+
+Matos PD, de Oliveira TL, Cavalcante FS et al. Molecular markers
+of antimicrobial resistance in methicillin-resistant Staphylo-
+coccus aureus SCCmec IV presenting different genetic back-
+grounds. Microbial Drug Resist 2016;22:700–6.
+
+Moellering RC, Jr. MRSA: the first half century. J Antimicrob
+
+Chemoth 2012;67:4–11.
+
+Downloaded from https://academic.oup.com/femsle/article-abstract/364/23/fnx232/4584464
+by UNIVERSITY OF ADELAIDE user
+on 03 January 2018
+
+Mohanasoundaram KM, Lalitha MK. Comparison of phenotypic
+versus genotypic methods in the detection of methicillin re-
+sistance in Staphylococcus aureus. Indian J Med Res 2008;127:78–
+84.
+
+Normanno G, Corrente M, La Salandra G et al. Methicillin-
+resistant Staphylococcus aureus (MRSA) in foods of animal
+origin product in Italy. Int J Food Microbiol 2007;117:219–22.
+
+Oliveira CJB, Tiao N, de Sousa FGC et al. Methicillin-resistant
+Staphylococcus aureus from Brazilian dairy farms and iden-
+tification of novel sequence types. Zoonoses Public Hlth
+2016;63:97–105.
+
+Oliveira DC, Lencastre H. Multiplex PCR strategy for rapidy iden-
+tification of structural types and variants of the mec ele-
+ment in methicylin-resistant S. aureus. Antimicrob Agents Ch
+2002;46:2155–61.
+
+Park SY, Chung DR, Yoo JR et al. Sequence type 72 community-
+associated meticillinresistant Staphylococcus aureus emerged
+as a predominant clone of nasal colonization in newly ad-
+mitted patients. J Hosp Infect 2016;93:386–9.
+
+Pinchuk IV, Beswick EJ, Reyes VE. Staphylococcal enterotoxins.
+
+Toxins 2010;2:2177–97.
+
+Rodr´ıguez-L ´azaro D, Ariza-Miguel J, Diez-Valcarce M et al. Foods
+confiscated from non-EU flights as a neglected route of po-
+tential methicillin-resistant Staphylococcus aureus transmis-
+sion. Int J Food Microbiol 2015;209:29–33.
+
+Rosengren A, Fabricius A, Guss B et al. Occurrence of food-
+borne pathogens and characterization of Staphylococcus au-
+reus in cheese produced on farm-dairies. Int J Food Microbiol
+2010;144:263–9.
+
+Schelin J, Wallin-Carlquist N, Cohn MT et al. The formation de
+S. aureus enterotoxin in food environments and advances in
+risk assessment. Virulence 2011;2:580–92.
+
+Schuenck RP, Nou ´er SA, Winter CO et al. Polyclonal presence
+of non-multiresistant methicillin-resistant Staphylococcus au-
+reus isolates carrying SCCmec IV in health care-associated in-
+fections in a hospital in Rio de Janeiro, Brazil. Diagn Micr Infec
+Dis 2009;64:434–41.
+
+Shopsin B, Gomez M, Montgomery SO et al. Evaluation of pro-
+tein A gene polymorphic region DNA sequencing for typ-
+ing of Staphylococcus aureus strains. J Clin Microbiol 1999;
+37:3556–63.
+
+Gonzalez et al.
+
+7
+
+Silveira-Filho VM, Luz IS, Campos APF et al. Antibiotic resistance
+and molecular analysis of Staphylococcus aureus from cow’s
+milk and dairy products in Northeast Brazil. J Food Protect
+2014;77:583–91.
+
+Song M, Bai Y, Xu J et al. Genetic diversity and virulence poten-
+tial of Staphylococcus aureus isolates from raw and processed
+food commodities in Shanghai. Int J Food Microbiol 2015;
+195:1–8.
+
+Tamura K, Stecher G, Peterson D et al. MEGA6: Molecular
+Evolutionary Genetics Analysis version 6.0. Mol Biol Evol
+2013;30:2725–9.
+
+Tenover FC, Arbeit RD, Goering RV et al. Interpreting chromo-
+somal DNA restriction patterns produced by pulsed-field gel
+electrophoresis: criteria for bacterial strain typing. J Clin Mi-
+crobiol 1995;33:2233–9.
+
+Vandenesch F, Naimi T, Enright MC et al. Community-acquired
+methicillin-resistant Staphylococcus aureus carrying Panton-
+Valentine leukocidin genes: worldwide emergence. Emerg In-
+fect Dis 2003;9:978–84.
+
+Vic¸osa GN, Le Loir A, Le Loir Y et al. egc characterization
+of enterotoxigenic Staphylococcus aureus isolates obtained
+from raw milk and cheese. Int J Food Microbiol 2013;165:
+227–30.
+
+Wendlandt S, Schwarz S, Silley P. Methicillin-resistant Staphy-
+lococcus aureus: a food-borne pathogen? Annu Rev Food Sci T
+2013;4:117–39.
+
+Yucel N, Citak S, Bayh ¨un S. Antimicrobial resistance profile of
+Staphylococcus aureus isolate from clinical samples and foods
+of animal origin. Foodborne Pathog Dis 2011;8:427–31.
+
+Zhang K, McClure JA, Elsayed S et al. Novel Multiplex PCR assay
+for simultaneous identification of community-associated
+methicillin-resistant Staphylococcus aureus strains USA300
+and USA400 and detection of mecA and Panton-Valentine
+Leukocidin genes, with discrimination of Staphylococcus au-
+reus from coagulase-negative staphylococci. J Clin Microbiol
+2008;46:1118–22.
+
+Zhang K, Sparling J, Chow BL et al. New quadriplex PCR
+assay for detection of methicillin and mupirocin resis-
+tance and simultaneous discrimination of Staphylococcus au-
+reus from coagulase-negative Staphylococci. J Clin Microbiol
+2004;42:4947–55.
+
+Downloaded from https://academic.oup.com/femsle/article-abstract/364/23/fnx232/4584464
+by UNIVERSITY OF ADELAIDE user
+on 03 January 2018
+
+

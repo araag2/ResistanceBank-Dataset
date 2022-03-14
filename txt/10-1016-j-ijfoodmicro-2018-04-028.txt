@@ -1,0 +1,1382 @@
+International Journal of Food Microbiology 278 (2018) 11–19
+
+Contents lists available at ScienceDirect
+
+International Journal of Food Microbiology
+
+journal homepage: www.elsevier.com/locate/ijfoodmicro
+
+Microbiological quality assessment of milk at diﬀerent stages of the dairy
+value chain in a developing country setting
+Mohammad Aminul Islama,⁎, Subarna Roya, Ashikun Nabia,1, Sultana Solaimana,
+Mahdia Rahmana, Mohsina Huqa,2, Nurul Amin Siddiqueeb, Niyaz Ahmedc
+a Enteric and Food Microbiology Laboratory, Laboratory Sciences and Services Division, International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b),
+Mohakhali, Dhaka 1212, Bangladesh
+b CARE, Bangladesh
+c Laboratory Sciences and Services Division, International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b), Mohakhali, Dhaka 1212, Bangladesh
+
+T
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Bacteriological quality
+Raw milk
+Processed milk
+Pathogens
+
+The main objective of the study was to assess the microbiological quality of milk at diﬀerent stages of the dairy
+value chain from farm to the factory in Bangladesh. A total of 438 raw milk samples (387 from primary pro-
+ducers, 32 from collectors, 15 from chilling plants, 4 from local restaurants) and 95 commercially processed milk
+samples were collected from northern part of Bangladesh. Almost 72% (n = 280) of samples at producer level
+and 100% from both collectors (n = 32) and chilling plants (n = 15) were contaminated with coliforms while
+57% (n = 220) of samples from producers, 91% (n = 29) of samples from collectors and 100% (n = 15) from
+chilling plants were contaminated with fecal coliforms. Around 31% (n = 119) of samples from producers were
+positive for E. coli whereas > 60% (n = 20) and 100% (n = 15) samples from collectors and chilling plants,
+respectively were positive for E. coli. One quarter of samples from collectors were positive for B. cereus and
+coagulase positive staphylococci and 33% (n = 5) of samples from chilling plants were positive for both of these
+microorganisms. In case of commercially processed milk, 77% (n = 46) and 37% (n = 22) of pasteurized milk
+samples had a high aerobic plate count (APC) (104 CFU/ml) and coliform count (> 10 CFU/ml), respectively.
+None of the samples was positive for Shigella spp., Salmonella spp., and Campylobacter spp. Among 158 E. coli
+positive raw milk samples, 9% (n = 14) contained pathogenic E. coli, and enteroaggregative E. coli (EAEC) and
+Shiga-toxin producing E. coli (STEC) were found to be the predominant pathotypes. Of the 23 pathogenic E. coli
+identiﬁed from 14 samples based on their gene contents, > 95% (n = 22) were resistant to at least one antibiotic
+and 13% (n = 3) of isolates were resistant to ≥3 classes of antibiotics. Several factors including the time of
+milking, hygiene practices of the producers, cow breed and amount of milk produced by the cow were found to
+be signiﬁcantly associated with high APC of milk samples. In conclusion, both raw and commercially pasteurized
+milk are highly contaminated with fecal organisms. For intervention, more emphasis should be given at pro-
+ducer's level as microorganisms introduced to milk at this stage get the longest time for survival and multi-
+plication.
+
+1. Introduction
+
+Milk is a complex biological ﬂuid which by nature serves as an
+excellent growth medium for many microorganisms (Godič Torkar and
+Golc Teger, 2008). It contains a wide range of nutrients including vi-
+tamins, proteins, fats and carbohydrates and therefore, nutritionally
+supports many diﬀerent microorganisms under suitable growth condi-
+tions (Godefay and Molla, 2000; Parekh and Subhash, 2008). Milk
+
+contaminated with high level of spoilage bacteria often becomes un-
+suitable for further processing (Mhone et al., 2011). Microbial con-
+tamination can generally occur from various sources during the milking
+procedure: from within the udder, from the exterior of the udder, from
+the surface of milk handling and storage equipment and from milkmen
+if milking is done manually (Bramley and McKinnon, 1990; Oliver
+et al., 2005).
+
+Microbiologically qualiﬁed milk means that the milk is free from
+
+⁎ Corresponding author at: Enteric and Food Microbiology Laboratory, Laboratory Sciences and Services Division, icddr,b, Bangladesh.
+E-mail address: maislam@icddrb.org (M.A. Islam).
+
+1 Present address: Ashikun Nabi, Department of Biology, University of Vermont, Burlington, VT 05405, USA.
+2 Present address: Mohsina Huq, School of Science, RMIT University, Australia.
+
+https://doi.org/10.1016/j.ijfoodmicro.2018.04.028
+Received 20 July 2017; Received in revised form 24 February 2018; Accepted 15 April 2018
+Available online 17 April 2018
+0168-1605/ © 2018 Published by Elsevier B.V.
+
+M.A. Islam et al.
+
+International Journal of Food Microbiology 278 (2018) 11–19
+
+pathogenic bacteria and harmful and toxic products of bacteria and that
+it is low in total bacterial counts. Total viable bacterial count is con-
+sidered as one of the acceptance criteria for categorizing milk for
+human consumption and processing for dairy products (PMO, 2015). In
+most countries, the legal limits for total viable bacterial count in pas-
+teurized milk range from 5 × 103 to 5 × 105 CFU/ml (Shojaei and
+Yadollahi, 2008). In Bangladesh, the acceptance limit for viable bac-
+teria in pasteurized milk is ≤2 × 104 CFU/ml (BSTI, 2002). Among the
+coliforms, Escherichia coli is the most common contaminant of raw and
+processed milk and is a reliable indicator of fecal contamination (Kumar
+and Prasad, 2010). E. coli is a commensal microorganism inhabiting the
+intestine of animals and humans but its recovery from food may be of
+public health concern due to the possible presence of enteropathogenic
+and/or toxigenic bacteria, for instance, Shiga toxin-producing E. coli.
+Staphylococcus aureus, another important causative agent of food-borne
+diseases in humans is commonly associated with intoxications of food
+through its capacity to produce diﬀerent kinds of potent enterotoxins
+(Balaban and Rasooly, 2000; Le Loir et al., 2003). Although heat may
+kill S. aureus cells, the enterotoxin may persist in food because it is more
+heat stable than the bacteria (Banwart, 1998). Bacillus cereus is a ubi-
+quitous Gram-positive, spore-forming, motile rod, which is also re-
+sponsible for spoilage of raw milk. It is also frequently found in pas-
+teurized milk, causing deterioration of milk quality by producing
+lipases and proteases (Cromie et al., 1989; Meer et al., 1991).
+
+In industrial countries, milk is produced at a commercial scale in
+dairy farms and collected through automated systems and further
+processing is done by maintaining good hygienic practices. However, in
+Bangladesh, milk is produced mostly in unorganized and informal ways.
+Even though very small proportion of milk is going to commercial
+processors, one of the biggest hurdles is to ensure safety and quality of
+milk all the way from the producers to the processing factory and to
+consumers. In this study, we aimed to assess the microbiological quality
+of raw milk through diﬀerent stages of formal supply chain starting
+from the primary producer to the milk chilling stations of diﬀerent
+commercial milk processing industries located in the northeast part of
+Bangladesh. Same assessment was done for commercially processed
+milk samples collected from retail outlets. In addition, factors asso-
+ciated with contamination of milk at the primary producer's level were
+investigated.
+
+2. Materials and methods
+
+2.1. Sampling site and sample collection
+
+This study was conducted in 18 upazillas of 7 districts located in
+northern part of Bangladesh, including Bogra, Gaibandha, Nilphamari,
+Dinajpur, Joypurhat, Rangpur and Sirajganj. We collected a total of 438
+milk samples of which 387 were from the primary producers (farmer),
+32 from collectors (pooling points), 15 from chilling plants and 4 from
+local restaurants. The district and upazilla-wise distribution of milk
+samples are illustrated in Fig. 1. We determined the number of samples
+collected from each level of the value chain based on the study popu-
+lation enrolled in “Strengthening Dairy Value Chain (SDVC) project”.
+The SDVC project was carried out by an international Non-Govern-
+mental Organization (NGO) called CARE Bangladesh (http://www.
+carebangladesh.org). During the time of our study, the total number
+of producers/farmers in the SDVC area was 15,309 and they were
+clustered in 519 small groups, distributed in nine districts.
+
+For this study, we randomly selected a proportionate number of
+groups from each district with 6 producers per group. Of these 6 pro-
+ducers, we collected samples from 4 producers based on their avail-
+ability and convenience. Accordingly, we selected 95 groups from
+which 570 (95 × 6) producers were initially included in the study, and
+ﬁnally samples were collected from 387 producers. We sampled one
+cow per producer and accordingly collected milk samples from 387
+cows. We collected approximately 200 ml of milk in a sterile plastic bag
+
+(Fisher Scientiﬁc, China) by pouring milk out of a bucket immediately
+after milking the cow. We did not interrupt the normal timing and
+practice of milking which was in maximum cases the early morning and
+manual expression through hands.
+
+In case of collection points, we followed the distribution chain from
+producers to collectors. We selected all collection points within the
+SDVC project area that collect milk from producers enrolled in our
+study (producers/collection point: minimum 4; maximum 29; median
+13). Accordingly, we selected 32 collection points for sampling.
+
+In case of chilling plants, we included all plants that collected milk
+samples from producers/collectors (producers/chilling plant: minimum
+5; maximum 68; median 19 and collection points/chilling plant:
+minimum 1; maximum 4; median 1) enrolled in our study. A total of 15
+chilling plants were included for sample collection.
+
+As we selected primary producers within the SDVC project, majority
+of them deliver milk to collectors who supply the bulk to chilling plants
+belonged to diﬀerent milk processing industries (formal chain). Only a
+few producers were found who sell milk to the local restaurants (in-
+formal chain). A total of 4 restaurants that used to receive milk from the
+producer groups enrolled in our study were identiﬁed, 3 of these were
+located in Bogra and one in Joypurhat district (Fig. 1). We collected
+milk samples from these restaurants at the point of reception.
+
+We collected milk samples by maintaining an aseptic condition. Like
+at the primary producers, we collected at least 200 ml of milk from each
+of the collection points as well as the chilling plants in a sterile sam-
+pling bag (Fisher Scientiﬁc, China) and immediately placed them in a
+cool box having a temperature of +4 to +8 °C. Unlike primary pro-
+ducers, samples collected at collection points and chilling plants com-
+prised milk originating from diﬀerent producers. All samples were
+transported to the lab maintaining the cool chain for 6–8 h after col-
+lection and stored at +4 °C until analyzing of the samples. All samples
+were tested within 18–24 h of sample collection.
+
+In addition to raw milk samples, we collected 95 commercially
+processed pasteurized milk (n = 60) and UHT milk (n = 35) from retail
+shops mostly located in Dhaka and Bogra. We collected products of
+those industries which have their chilling plants in the sampling area,
+including all medium and large size dairy industries in Bangladesh. For
+each product, we purchased 1–2 sealed packets of milk depending on
+the pack size so that we got at least 200 ml of product for analysis. We
+ensured that all products had diﬀerent batch numbers and were within
+their shelf-life as labeled by the industry. All samples were placed in a
+cool box and transported to the laboratory by maintaining a cold chain
+for 6–8 h after collection.
+
+2.2. Questionnaire-based survey
+
+A questionnaire-based survey among all primary producers was
+carried out to determine factors associated with microbiological con-
+tamination of milk at primary producer level. Data were collected
+mainly related to the breeding type of cow, volume of milk produced by
+the cow, environmental condition surrounding the cattle house, con-
+struction materials of cattle house ﬂoor, type of food supplied to the
+cattle, source of drinking water for cattle, educational status of the
+farmer, time of milking, hygienic condition during milking and type of
+milk pot used for milking.
+
+2.3. Microbiological analysis
+
+All milk samples including both raw and commercially processed
+ones were tested for aerobic plate count (APC), lab pasteurized count
+(LPC), total coliform count (TC), thermotolerant coliform (fecal coli-
+forms) count (FC), and enumeration of β-glucuronidase positive E. coli,
+Bacillus cereus and coagulase positive staphylococci by using standard
+methods described in the following. In addition, all samples were tested
+for foodborne pathogens including Shigella spp., Salmonella spp. and
+spp. using standard method as described in the
+Campylobacter
+
+12
+
+M.A. Islam et al.
+
+International Journal of Food Microbiology 278 (2018) 11–19
+
+Fig. 1. A location-wise distribution of milk samples collected across the dairy value chain in Bangladesh. A: divisional map of Bangladesh highlighting the study sites;
+B: location of 7 districts along with the types and number of samples collected from each level of milk value chain.
+
+following.
+
+Ten milliliters from each milk sample were transferred into a sterile
+plastic bag. Then 90 ml of peptone salt solution were added and mixed
+well in a stomacher to get a 1:10 dilution. Subsequent dilutions of the
+sample were prepared by transferring 1 ml from the initial dilution to
+9 ml of peptone salt solution (1:100 dilution) and so on up to 1:100,000
+dilution.
+
+2.3.1. Enumeration of indicator organisms
+
+For APC, 1 ml of each dilution of a sample ranging from neat (un-
+diluted) to 1:100,000 dilution was transferred to separate sterile Petri
+dishes and 15 ml of standard plate count agar (Oxoid, Basingstoke, UK)
+medium cooled to 45 ± 1 °C was added to each plate followed by
+immediate mixing of the sample dilutions and agar medium by pour
+plate technique (BAM, 2001).The plates were incubated at 35 ± 2 °C
+for 48 h ± 2 h promptly after solidiﬁcation of molten agar. For enu-
+meration of coliform, 1 ml of each dilution of a sample was mixed with
+crystal violet neutral red bile lactose agar (Oxoid, Basingstoke, UK)
+using pour plate technique. The plates were incubated at 37 °C ac-
+cording to the standard method (Anonymous, 2006a). Both typical and
+atypical colonies were counted and atypical colonies were conﬁrmed by
+inoculating in brilliant green lactose bile broth (Oxoid, Basingstoke,
+UK). Colonies those produced gas in the Durham tubes were considered
+as coliform bacteria (Anonymous, 2006a). For fecal coliform, 100 μl of
+milk sample was inoculated directly onto membrane fecal coliform (m-
+FC) agar (Difco™, USA) supplemented with rosalic acid (600 μl/ 300 ml
+mixed in 1 N NaOH) using spread plate technique. The plates were
+incubated at 44o C for 18–24 h. For lab pasteurized count (LPC), milk
+samples were heated to 145 °F (62.8 °C) and held at that temperature
+for 30 min. Then the samples were inoculated in a similar way of
+aerobic plate count and the plates were incubated at 35 ± 2 °C for
+48 h ± 2 h after solidiﬁcation of molten agar. For enumeration of β-
+glucuronidase positive E. coli, 1 ml of diluted sample was inoculated on
+tryptone bile agar with x-glucuronide (TBX) (Oxoid, Basingstoke, UK)
+
+and incubated at 44 °C for 18–24 h according to standard method
+(Anonymous, 2001). Appearance of blue green colonies on TBX plate
+was indicative of the presence of E. coli. For enumeration of Bacillus
+cereus and coagulase positive Staphylococcus aureus, 100 μl aliquots of
+the same dilutions were inoculated onto mannitol egg yolk polymyxin
+agar (Oxoid, Basingstoke, UK) and Baird-Parker agar medium (Oxoid,
+Basingstoke, UK), respectively by spread plate technique and incubated
+at speciﬁc conditions as mentioned in Table 1 (Anonymous, 2004a;
+Anonymous, 1999). For all the tests, duplicate plates were used for each
+dilution. The colony counts were calculated according to the standard
+formula given in ISO 7218 and presented as CFU per ml of sample
+(Anonymous, 2007).
+
+2.3.2. Detection and isolation of pathogenic bacteria
+
+For isolation and identiﬁcation of Shigella spp., Salmonella spp. and
+Campylobacter spp., the same amount of sample (25 ml) were taken for
+each of the organisms and mixed with selective enrichment media
+(225 ml) according to the standard method (Anonymous, 2002;
+Anonymous, 2004b; Anonymous, 2006b) (Table 1). Only for Salmonella
+spp., a pre-enrichment of the sample was carried out at 37 ± 1 °C for
+18–24 h in buﬀered peptone water (Oxoid, Basingstoke, UK). The se-
+lective enrichment cultures were subsequently inoculated onto selective
+agar plates and incubated at speciﬁc conditions mentioned in Table 1.
+Typical colonies on culture plates were identiﬁed according to the
+standard procedures. All presumptive colonies of Shigella spp., and
+Salmonella spp., were identiﬁed by using API 20E biochemical test
+galleries (bioMerieux, Marcy l'Etoile, France) according to the manu-
+facturer's instructions.
+
+2.4. Detection of virulence genes in E. coli isolates by PCR
+
+From each E. coli positive samples, 5 colonies with blue green ap-
+pearance on TBX plate were randomly selected and sub-cultured on
+MacConkey agar. We then tested these 5 isolates by PCR for virulence
+
+13
+
+M.A. Islam et al.
+
+International Journal of Food Microbiology 278 (2018) 11–19
+
+Table 1
+Culture media and incubation conditions used in the study for isolating B. cereus, S. aureus, Salmonella spp., Shigella spp. and Campylobacter spp. from milk samples.
+
+Organism
+
+Enrichment media
+
+Temperature and time
+
+Selective agar media
+
+Temperature and time
+
+B. cereus
+S. aureus
+Salmonella spp.
+
+Shigella spp.
+
+Not done
+Not done
+RVS
+MKTTn
+Shigella broth with 0.5 μg/ml novobiocin
+
+41.5 ± 1 °C, 24 ± 3 h
+37 ± 1 °C, 24 ± 3 h
+41.5 ± 1 °C, 16–20 h (microaerophilic condition) MacConkey agar
+
+MYP agar
+Baird-Parker agar
+XLD agar
+BGA agar
+
+30 °C, 18–24 h
+37 °C, 24–48 h
+37 °C, 24 ± 3 h
+
+37 °C, 20–24 h
+
+Campylobacter spp.
+
+Bolton broth
+
+41.5 °C, 44 ± 4 h (microaerophilic condition)
+
+Hectoen Enteric agar
+XLD agar
+mCCDA
+Karmali agar
+
+41.5 °C, 44 ± 4 h (micro-aerophilic)
+
+Abbreviations: MYP, mannitol egg yolk polymyxin; XLD, xylose lysine deoxycholate; BGA, brilliant green agar; MKTTn, Muller-Kauﬀmann tetrathionate supple-
+mented with novobiocin; RVS, Rappaport-Vassiliadis soya peptone; mCCDA, modiﬁed charcoal cefoperazone deoxycholate agar.
+
+genes by using colony patch approach described in Islam et al., 2007.
+Brieﬂy, single colonies were transferred from the MacConkey agar and
+plated onto trypticase soya agar (Difco) to create a grid pattern of 96
+colonies (12 × 8). The plates were incubated overnight at 37 °C. The
+isolates were subjected to PCR for the detection of virulence genes as
+described below. DNA was extracted by boiling the suspensions of
+pooled colonies for 10 min (Islam et al., 2006) and 3 μl of the super-
+natant was used in the PCR. We used these DNA for detection of viru-
+lence genes in two multiplex setup, one for heat labile (lt), heat stable
+(st), attaching and eﬀacing gene (eae), bundle forming pilus (bfp), an-
+tiaggregation protein transporter gene (aat) and genes for AggR-acti-
+vated island (aaiC), invasion plasmid antigen H (ipaH) and invasion
+associated locus (ial) and the other one for Shiga toxin genes (stx1 and
+stx2) according to the procedures and programs described earlier
+(Talukdar et al., 2013; Islam et al., 2007). For the ﬁrst multiplex PCR,
+3 μl template DNA was suspended in 22 μl of reaction mix containing
+2.5 μl of 10× PCR buﬀer with 1.5 mM MgCl2 (New England Biolabs),
+0.5 μl of 10 mM dNTPs (New England Biolabs), 0.4 μl each of lt, st, bfp,
+aat, aaiC, ipaH, ial primers, 0.44 μl of eae primers (Integrated DNA
+Technologies), together with 1 unit of Taq DNA polymerase (New
+England Biolabs) (5 U/μl). PCR cycling conditions consisted of initial
+denaturation at 96 °C for 4 min, followed by 34 cycles each of dena-
+turation at 95 °C for 20s, annealing at 57 °C for 20s and extension at
+72 °C for 1 min (Talukdar et al., 2013). PCR for stx1 and stx2 genes was
+carried out using the same volume of reaction mix (25 μl) comprising
+2.5 μl of 10× PCR buﬀer with 1.5 mM MgCl2, 0.5 μl of 10 mM dNTPs,
+0.2 pmol of each primers, 1 unit of Taq DNA polymerase and 3 μl of
+template DNA. Primer sequences are listed in Table 2. Colonies that
+
+Table 2
+PCR primer sequences used in the study (Talukdar et al., 2013).
+
+appeared positive for a particular gene in pooled PCR were further
+conﬁrmed by individual colony PCR.
+
+2.5. Antimicrobial susceptibility test
+
+Antimicrobial susceptibility of all pathogenic E. coli isolates was
+determined by standard disk diﬀusion technique following the Clinical
+and Laboratory Standards Institute guidelines (CLSI, 2010). The anti-
+biotics used in this study were ampicillin (10 μg), cefotaxime (30 μg),
+ciproﬂoxacin (5 μg), nalidixic acid (30 μg),
+trimethoprim/sulfa-
+methoxazole (25 μg), aztreonam (30 μg), gentamicin (10 μg), kana-
+mycin (30 μg), piperacillin-tazobactam (110 μg), chloramphenicol
+(30 μg), tetracycline (30 μg) and erythromycin (15 μg). The inhibition
+zones were measured and isolates were classiﬁed as resistant, inter-
+mediate or sensitive according to the interpretation guideline provided
+by the CLSI (CLSI, 2010).
+
+2.6. Data analysis
+
+Data collected from the ﬁeld were coded, and visually checked for
+errors before entering into a database. Computer coding was pre-tested,
+and data entry and analyses were done using Statistical Package for
+Social Sciences (SPSS) Windows (Version 22; Chicago, IL, USA), Epi
+Info (Version 6.0, USD, Stone Mountain, GA, USA), and RStudio
+(Version 1.0.136.0). All data were validated by a series of logical and
+range checks, and statistical analyses included both descriptive and
+analytical methods. For categorical variables of interest, diﬀerences
+between categories were compared by χ2 test and probability of < 0.05
+
+Target genes
+
+Primer
+
+Nucleotide sequences (5′–3′)
+
+Annealing Temperature (°C)
+
+Product size (bp)
+
+elt B
+
+est A
+
+bfpA
+
+eae
+
+aat
+
+aai C
+
+stx1
+
+stx2
+
+ial
+
+ipaH
+
+LT-F
+LT-R
+ST-F
+ST-R
+bfpA-F
+bfpA-R
+eae-F
+eae-R
+pCVD432-F
+pCVD432-R
+aaiC-F
+aaiC-R
+stx1-F
+stx1-R
+stx2-F
+stx2-R
+ial-F
+ial-R
+ipaH-F
+ipaH-R
+
+CACACGGAGCTCCTCAGTC
+CCCCCAGCCTAGCTTAGTTT
+GCTAAACCAGTAGAGGTCTTCAAAA
+CCCGGTACAGAGCAGGATTACAACA
+GGAAGTCAAATTCATGGGGG
+GGAATCAGACGCAGACTGGT
+CCCGAATTCGGCACAAGCATAAGC
+CCCGGATCCGTCTCGCCAGTATTCG
+CTGGCGAAAGACTGTATCAT
+CAATGTATAGAAATCCGCTGTT
+ATTGTCCTCACGCATTTCAC
+ACGACACCCCTGATAAACAA
+CACAATCAGGCGTCGCCAGCGCACTTGCT
+TGTTGCAGGGATCAGTGGTACGGGGATGC
+CCACATCGGTGTCTGTTATTAACCACACC
+GCAGAACTGCTCTGGATGCATCTCTGGTC
+CTGGATGGTATGGTGAGG
+GGAGGCCAACAATTATTTCC
+TGGAAAAACTCAGTGCCTCT
+CCAGTCCGTAAATTCATTCT
+
+14
+
+57
+
+57
+
+57
+
+57
+
+57
+
+57
+
+58
+
+58
+
+57
+
+57
+
+508
+
+147
+
+300
+
+881
+
+650
+
+215
+
+606
+
+372
+
+320
+
+424
+
+M.A. Islam et al.
+
+International Journal of Food Microbiology 278 (2018) 11–19
+
+Fig. 2. Overall comparison of microbiological quality of milk samples collected at diﬀerent points of dairy value chain.
+
+was considered to be statistically signiﬁcant. Finally, backward step-
+wise regression analyses were performed simultaneously adjusting for
+confounding variables for identifying factors that independently inﬂu-
+enced the outcome.
+
+3. Results
+
+3.1. Raw milk samples collected from diﬀerent points of milk value chain
+were highly contaminated
+
+Almost 72% and 57% of raw milk samples, collected from primary
+producers were contaminated with coliform (≥100 CFU/ml) and fecal
+coliform (≥100 CFU/ml), respectively while 31% of samples were po-
+sitive for E. coli and one in every ten samples (11%) was contaminated
+with high numbers of E. coli (≥100 CFU/ml). Around 10% and 5% of
+raw milk samples collected from producers were contaminated with B.
+cereus and Staph. aureus, respectively (Fig. 2).
+
+All samples at collection points were contaminated with a high
+number of coliform bacteria (≥100 CFU/ml) and 91% of the samples
+contained fecal coliform (≥100 CFU/ml). More than 60% of samples
+were contaminated with E. coli and around 40% of samples had a high
+E. coli count (≥100 CFU/ml). Around 25% of samples were positive for
+B. cereus and coagulase positive staphylococci, however, in most of the
+samples, number of organisms was within the acceptable limit
+(< 104 CFU/ml) (de Oliveira et al., 2011; European Commission, 2001)
+(Fig. 2).
+
+The level of microbial contamination in samples collected from
+chilling plants was even higher than that of collection points. Samples
+from all 15 chilling plants distributed in 5 districts were contaminated
+with high number of coliforms as well as fecal coliforms. E. coli was
+present in samples from all chilling plants (100%) and high count of E.
+coli was found in 67% of samples, mainly from chilling plants located in
+Bogra, Joypurhat and Sirajganj districts. Although B. cereus and coa-
+gulase positive staphylococci were detected in 33% of samples, the
+number of B. cereus in all of the positive samples and number of sta-
+phylococci in 27% of the samples was within the acceptable limits
+(< 104 CFU/ml). None of the raw milk samples collected from produ-
+cers, collectors and chilling plants was positive for Shigella spp.,
+Salmonella spp., and Campylobacter spp.
+
+Bacterial counts increased gradually from producer to chilling
+plants/local restaurants (Fig. 3). All samples from chilling plants and
+local restaurants had a higher APC, TC and FC (Fig. 3). Similarly, the
+increased gradually from
+proportion of
+
+contaminated samples
+
+producers to the chilling plants/local restaurants (Fig. 2).
+
+3.2. More than two-third of commercially processed pasteurized milk
+samples did not meet standard microbiological limits
+
+Around 77% of pasteurized milk samples had a high APC
+(> 104 CFU/ml) while 37% and 15% of the samples were contaminated
+with coliforms and fecal coliforms, respectively. More than 31% and
+around 2% of pasteurized milk samples were found to be contaminated
+with coliforms and fecal
+the level
+of > 10 CFU/ml. E. coli was isolated from 2 (3.3%) samples and B.
+cereus was present in 22% (n = 13) of the samples (geometric mean:
+3.4 × 102 CFU/ml;
+Staphylococci,
+Shigella spp., Salmonella spp., Campylobacter spp. and pathogenic E. coli
+were not detected in pasteurized milk samples. Bacterial growth was
+not observed in any of the UHT milk samples.
+
+10–5.8 × 103 CFU/ml).
+
+range:
+
+coliforms,
+
+respectively at
+
+3.3. A signiﬁcant proportion of organisms in raw milk might be thermoduric
+
+All milk samples from producers, collectors and chilling plants were
+tested for Laboratory Pasteurized Count (LPC) in order to enumerate
+the thermoduric bacteria. While none of the samples from producers
+had LPC in the range of 104 to 105 CFU/ml, around 10% of samples
+from collection points and 8% from chilling plants had LPC in this range
+(Table 3). Samples having high LPC also had high APC.
+
+3.4. Raw milk contained pathogenic E. coli
+
+Of the 158 E. coli positive raw milk samples, 14 samples (9%) were
+positive for pathogenic E. coli. For detection of pathogenic E. coli, we
+tested 5 E. coli colonies per sample for pathogenic genes. In some
+samples (n = 6), we found more than one colonies positive for patho-
+genic genes but of diﬀerent types, hence we considered them as dif-
+ferent E. coli. Accordingly, we identiﬁed a total of 23 pathogenic E. coli
+isolates from 14 samples. Of these 23 isolates, 9 isolates (39%) were
+positive for EAEC speciﬁc genes, aaiC and aat, same number of isolates
+(39%) were positive for STEC speciﬁc genes, stx1 and stx2, 3 isolates
+(13%) were positive for EIEC speciﬁc genes, ipaH and ial. One isolate
+was positive for EPEC speciﬁc gene (eae) and another one for ETEC
+speciﬁc gene (st).
+
+15
+
+M.A. Islam et al.
+
+International Journal of Food Microbiology 278 (2018) 11–19
+
+Fig. 3. Gradual change in bacterial counts in milk samples collected from diﬀerent stages of dairy value chain.
+
+3.5. Pathogenic E. coli isolated from raw milk samples were resistant to
+multiple antibiotics
+
+3.6. Multiple factors were involved in contamination of milk at primary
+producer level
+
+Among the 23 pathogenic E. coli isolates, > 95% (n = 22) were
+resistant to erythromycin followed by 13% (n = 3) to ampicillin and
+9% (n = 2) to tetracycline and nalidixic acid. > 95% (n = 22) isolates
+were resistant to at least one antibiotic and 13% (n = 3) of the isolates
+were resistant to three or more classes of antibiotics and thus deﬁned as
+multi-drug resistant (MDR).
+
+A number of variables were found to be signiﬁcantly associated with
+high APC of milk samples, including breed of the cow, volume of milk
+produced by the cow, the time of milking, and farmer's hand washing
+practices (Table 4). Signiﬁcantly higher number of samples from com-
+mercial breed cow was contaminated than that of the local breed
+(P = 0.012). Higher number of samples from small-scale producers
+(who produce < 5 l of milk/day) were found to be contaminated than
+that of the large-scale producers (who produce > 5 l of milk/day)
+
+Table 3
+Association between high APC and LPC of milk samples collected from diﬀerent stages of dairy value chain.
+
+Producer level (APC versus LPC)
+
+LPC/APC (CFU/ml)
+
+No. (%) of sample positive for
+
+No (%) of sample positive for
+
+LPC < 103 (N = 332)
+LPC > 103 (N = 55)
+
+253 (89.7%)
+29 (10%)
+
+79 (75.2%)
+26 (24%)
+
+APC < 105 (N = 282)
+
+APC > 105 (N = 105)
+
+Collectors level (APC versus LPC)
+
+LPC/APC (CFU/ml)
+
+No. (%) of sample positive for
+
+No (%) of sample positive for
+
+LPC < 103 (N = 22)
+LPC > 103 (N = 14)
+
+6 (75%)
+2 (25%)
+
+16 (57%)
+12 (42%)
+
+APC < 105 (N = 8)
+
+APC > 105 (N = 28)
+
+Chilling plants level (APC versus LPC)
+
+LPC/APC (CFU/ml)
+
+No. (%) of sample positive for
+
+No (%) of sample positive for
+
+LPC < 103 (N = 3)
+LPC > 103 (N = 12)
+a Fisher exact test was performed when expected frequency was < 5.
+
+16
+
+APC < 105 (N = 7)
+
+APC > 105 (N = 8)
+
+2 (28%)
+5 (71%)
+
+1 (12%)
+7 (87%)
+
+P
+
+< 0.05
+
+P
+
+0.36
+
+P
+
+0.57a
+
+M.A. Islam et al.
+
+International Journal of Food Microbiology 278 (2018) 11–19
+
+Table 4
+Factors associated with high level of microbial contamination of milk at pro-
+ducer level.
+
+Variables (N)
+
+No. (%) of milk samples with an APC of
+
+P
+
+< 105 CFU/ml
+
+≥105 CFU/ml
+
+bivariate analysis. The overall F-ratio was 3.33 (degrees of
+freedom = 2) which was statistically signiﬁcant (P = 0.03). The ad-
+justed R-square, a measure of goodness-of-ﬁt was 0.0170, which sug-
+gested that either the model speciﬁcation was not precise or the asso-
+ciation of variables with APC were not always linear. Measurement
+errors also could not be ruled out.
+
+Breed of cow
+Local (198)
+Commercial (189)
+
+Amount of milk produced by the
+
+cow
+
+Upto 5 l (306)
+More than 5 l (81)
+
+Condition of surrounding
+
+environment of cattle house
+
+Clean (104)
+Dirty (283)
+
+156 (78.8)
+127 (67.2)
+
+234 (76.5)
+49 (60)
+
+74 (71.1)
+209 (73.8)
+
+Construction materials used for
+
+cattle house ﬂoor
+
+Mud or mud with brick (358)
+Concrete (brick with cement)
+
+260 (72.6)
+23 (79)
+
+(29)
+
+Type of food for cattle
+
+Grass and straw (347)
+Straw and chaﬀ (30)
+
+Source of drinking water for
+
+cattle
+
+Tubewell (378)
+Well (9)
+
+Did cow urinate/defecate during
+
+milking?
+
+Yes (15)
+No (372)
+
+Education of farmer
+
+Nil (46)
+Primary (242)
+
+No of cow owned by the farmer
+
+One (210)
+More than one (176)
+
+Who usually milks the cow
+Owner of the cow (129)
+Others (258)
+
+Usual time of milking
+
+Morning (295)
+Mid-day and evening (92)
+
+Does the same person milk every
+
+day?
+
+Yes (360)
+No (27)
+
+How do the person wash hands
+
+before milking cow
+With water only (329)
+With soap and water (58)
+Udder wipe before milking
+
+256 (73.8)
+20 (66)
+
+12 (80)
+271 (72.8)
+
+34 (73)
+175 (72.3)
+
+156 (74.3)
+127 (72.2)
+
+99 (76.7)
+184 (71.3)
+
+206 (69.8)
+77 (83)
+
+263 (73.1)
+20 (74)
+
+234 (71.1)
+49 (84)
+
+42 (21.2)
+62 (32.8)
+
+72 (23.5)
+32 (39)
+
+30 (28.9)
+74 (26.2)
+
+98 (27.4)
+6 (20)
+
+91 (26.2)
+10 (33)
+
+3 (20)
+101 (27.2)
+
+12 (26)
+67 (27.7)
+
+54 (25.7)
+49 (27.8)
+
+30 (23.3)
+74 (28.7)
+
+89 (30.2)
+15 (16)
+
+97 (26.9)
+7 (25)
+
+95 (28.9)
+9 (15)
+
+24 (25)
+
+0.012
+
+0.003
+
+0.595
+
+0.434
+
+0.398
+
+0.547
+
+0.392
+
+0.823
+
+0.638
+
+0.256
+
+0.008
+
+0.908
+
+0.034
+
+0.790
+
+0.076
+
+4. Discussion
+
+Food safety is paramount for healthcare management of highly
+congested and cognate settings such as Bangladesh. This becomes very
+critical when food supply sectors such as dairy chains and their op-
+erations remain unorganized and are not fully automated and regulated
+and largely depend on human handling.
+
+operations,
+
+collection,
+
+and
+
+transportation
+
+The total bacterial count could often serve as a surrogate of the
+microbiological quality of milk, and reﬂects the standards of primary
+production
+storage
+(Hassainya et al., 2006). In our study, more than one quarter (27%) of
+milk samples at primary producer level had a high APC (≥105) whereas
+100% of the milk samples from chilling plant had the same level of APC.
+Presence of coliform bacteria is generally considered as an indicator of
+poor hygienic practices in the handling of milk, while presence of E. coli
+reﬂects fecal contamination or the presence of other enteric bacteria in
+the samples (Labioui et al., 2009). In this study, we found that > 70%
+of the samples taken from primary producers were contaminated with
+high number of coliform bacteria (≥102) while 100% of samples taken
+from chilling plants were contaminated with the same number of co-
+liforms. E. coli contamination increased from 31% to 100% from pro-
+ducer to chilling plant. B. cereus and S. aureus were found in 10% and
+5% of samples obtained from primary producers, respectively, while
+both organisms were found in 33% of samples from the chilling plants.
+Presence of pathogenic E. coli in milk is more alarming as this might
+potentially lead to an outbreak of foodborne infections in the commu-
+nity, if milk is consumed in raw state or with inadequate treatment or
+sterilization (Langer et al., 2012; Scavia et al., 2009). In this study, 9%
+of E. coli positive samples were found to be positive for pathogenic E.
+coli and the predominant pathotypes were EAEC and STEC. In a pre-
+vious study from Bangladesh, around 10% raw milk samples were
+found to be positive for STEC (Islam et al., 2010). A more recent study
+conducted in Brazil showed that among 101 raw milk samples collected
+from three diﬀerent dairy farms, 31.1% were contaminated with STEC
+(Vendramin et al., 2014).
+
+Antibiotic resistance is a global concern and inappropriate use of
+antibiotics in the food chain is one of the major drivers of antimicrobial
+resistance. In this study, we found that 95% of pathogenic E. coli iso-
+lates were resistant to erythromycin, followed by 13% being resistant to
+ampicillin, 9% to tetracycline as well as to nalidixic acid and only 4%
+isolates were resistant to chloramphenicol, cefotaxime, trimethoprim-
+sulfamethoxazole and aztreonam. Around 13% isolates were multi-drug
+resistant. A previous study reported that among 120 E. coli isolates from
+raw milk and unpasteurized cheese, 56% were resistant to nalidixic
+acid, 30% to gentamicin, 28% to trimetoprim-sulfamethoxazole and
+23.4% to ampicillin (Bonyadian et al., 2014). Another study revealed
+all of the 19 E. coli O157 strains isolated from raw milk samples were
+resistant to penicillin and tetracycline, 94.7% to erythromycin, 84.2%
+to amoxicillin, oxacillin, sulphamethoxazole/trimethoprim, 68.4% to
+chloramphenicol and 42.1% to streptomycin (Reuben and Owuna,
+2013). In contrast to these diverse studies, it appears that pathogenic E.
+coli isolates obtained from our study were less resistant to antibiotics.
+However, it might be interesting to analyse the non-pathogenic E. coli
+isolates for antibiotic resistance as they could also act as sources of
+many antibiotic resistance genes.
+
+A signiﬁcant association was found between the APC and LPC of
+milk samples collected from primary producers. Signiﬁcantly higher
+number of samples with a high APC (> 105 CFU/ml) showed a higher
+LPC (> 103 CFU/ml) compared to samples having a low APC
+
+17
+
+276 (73.0)
+7 (77)
+
+102 (27.0)
+2 (22)
+
+With cloth or tail of the cow
+
+69 (74)
+
+(93)
+
+Do not wipe (294)
+
+214 (72.8)
+
+80 (27.2)
+
+Type of milkpot used at the time
+
+of milking
+Plastic (62)
+Metal (325)
+
+51 (82)
+232 (71.4)
+
+11 (17)
+93 (28.6)
+
+(P = 0.003). A signiﬁcant association between the time of milking and
+microbial contamination was also found. Higher number of samples
+collected in the morning was contaminated than the number of samples
+collected at mid-day or in the evening (P = 0.008). Of the hygiene is-
+sues, hand washing practices among people who milk the cow was
+found to be signiﬁcantly associated with microbial contamination.
+Higher number of samples from producers who washed their hands
+only with water before milking was found to be contaminated than that
+of the samples from producers who washed their hands with soap and
+water (P = 0.034). In multivariate analysis, high APC of milk sample
+was signiﬁcantly associated with volume of milk produced by the cow,
+after controlling for other variables those appeared to be signiﬁcant in
+
+M.A. Islam et al.
+
+International Journal of Food Microbiology 278 (2018) 11–19
+
+(< 105 CFU/ml) (P < 0.05) (Table 3). This result indicates that a
+major proportion of the total microbiota in milk could be thermoduric
+meaning that it could survive pasteurization. An increasing trend of
+samples with high LPC was observed from producers to chilling plants,
+while an opposite trend was observed entailing the samples with low
+LPC. All samples (100%) from chilling plants had a high APC
+(> 105 CFU/ml) and half of them (47%) had high LPC values suggestive
+of the possibility that thermoduric organisms thrived and dominated
+signiﬁcantly. In order to ﬁnd out if it concurs with the commercially
+processed milk in Bangladesh, we tested pasteurized milk samples of all
+available brands obtained from retail outlets. We found that around
+80% of pasteurized milk samples had a high total APC (> 104 CFU/ml)
+and > 31% of samples were contaminated with coliform bacteria at a
+level of > 10 CFU/ml. According to the Bangladesh standard, accepted
+limit for viable bacteria in pasteurized milk is ≤2 × 104 CFU/ml (BSTI,
+2002) indicating that a major proportion of commercially pasteurized
+milk at the point of sale is not meeting the safety criteria. Seamless
+surveillance and monitoring of the commercial milk value chain in the
+country should be implemented.
+
+We interpret that the contamination of milk originates from the
+primary producer levels and ampliﬁes at subsequent stages. At the
+primary producer level, contamination occurs due to soiled udders of
+the cows, unhygienic practices of the farmers, such as milking with
+dirty hands, use of unclean milk pots, wiping udder with cow tail, dirty
+cloths, urination or defecation by the animal during milking and an
+overall unclean environment. Soiled udders of cows are predominantly
+seen in cows during morning time than the mid-day/evening time, and
+this might be the reason that milk extracted during the morning hours
+was more contaminated than milk extracted at evening time (Table 4).
+Normally bathing/washing of cows is done at noon or in the afternoon
+and thus body of the cow is cleaner in the evening than in the morning.
+The unhygienic milking practices were observed to be more pre-
+dominant among small scale farmers as majority of them are living in
+poverty, marginalized and illiterate (SDVC project). This was also evi-
+dent from multivariate analysis of the factors associated with milk
+contamination which showed that signiﬁcantly higher number of
+samples from small volume producers (< 5 l) were contaminated than
+medium or large volume producers (Table 4). We also found that a
+signiﬁcantly higher number of milk samples from commercial breed
+cows were contaminated than that of the local breed cows. The reason
+behind this diﬀerence could not be explained by the available in-
+formation and thus a further study focusing on this issue is warranted.
+Microbial contamination increases at the collector level due to long
+holding time at ambient temperatures and pooling of milk from dif-
+ferent producers in a single container. In addition, further contamina-
+tion may be the outcome of poor hygienic conditions practiced by the
+collectors during handling of bulk milk. At the chilling plant, con-
+tamination of milk could potentially occur due to lack of temperature
+control which favors exponential growth of previously introduced mi-
+croorganisms. Other factors may be due to extended time of transpor-
+tation of the milk to the chilling plants and possibly also due to the dirty
+instruments employed for quality checks in chilling stations.
+
+Finally, we believe that our observations clearly point at an unmet
+need for good hygienic practices required to be urgently introduced at
+each level of milk production in Bangladesh starting from producers to
+the processors. More emphasis should be given at producer's level be-
+cause microorganisms introduced to milk at this stage get the longest
+time for survival and multiplication. Use of automated machines for
+milking could be an alternative for achieving safe handling of milk at
+producer level. Temperature controlled containers can be introduced at
+collectors' level to restrict the growth of microorganisms present in
+pooled milk. Transportation of milk from collectors to chilling stations
+should be done by maintaining cold chain. Small scale pasteurization
+plants can also be installed at collectors' levels so that processing of
+milk can be done at the ﬁeld level. Further, the quality of this locally
+produced pasteurized milk must be monitored carefully on a regular
+
+basis. In addition, demand based marketing strategies need to be de-
+veloped for proper distribution of processed milk to consumers.
+
+Acknowledgements
+
+This research study was funded by CARE Bangladesh (Grant
+number: GR00863) through their SDVC project. icddr,b acknowledges
+with gratitude the commitment of CARE Bangladesh to its research
+eﬀorts. icddr,b also gratefully acknowledges the following donors who
+provide unrestricted support: Government of the People's Republic of
+Bangladesh; Global Aﬀairs Canada (GAC); Swedish International
+Development Cooperation Agency (Sida) and the Department
+for
+International Development (UK Aid).
+
+Disclaimer
+
+We declare no conﬂict of interests.
+
+References
+
+Anonymous, 1999. Microbiology of Food and Animal Feeding Stuﬀs — Horizontal
+
+Method for the Enumeration of Coagulase-positive Staphylococci (Staphylococcus
+aureus and Other Species) — Part 1: Technique Using Baird-Parker Agar Medium (EN
+ISO 6888-1). International Organization for Standardization, Geneva, Switzerland.
+
+Anonymous, 2001. Microbiology of Food and Animal Feeding Stuﬀs — Horizontal
+
+Method for the Enumeration of Beta-glucuronidase-positive Escherichia coli — Part 2:
+Colony-count Technique at 44 °C Using 5-Bromo-4-chloro-3-indolyl beta-D-glucur-
+onide (EN ISO16649-2). International Organization for Standardization, Geneva,
+Switzerland.
+
+Anonymous, 2002. Microbiology of Food and Animal Feeding Stuﬀs — Horizontal
+
+Method for the Detection of Salmonella spp. (EN ISO 6579). International
+Organization for Standardization, Geneva, Switzerland.
+
+Anonymous, 2004a. Microbiology of Food and Animal Feeding Stuﬀs — Horizontal
+
+Method for the Enumeration of Presumptive Bacillus cereus - Colony-count Technique
+at 30 °C (EN ISO7932). International Organization for Standardization, Geneva,
+Switzerland.
+
+Anonymous, 2004b. Microbiology of Food and Animal Feeding Stuﬀs — Horizontal
+
+Method for the Detection of Shigella spp. (EN ISO 21567). International Organization
+for Standardization, Geneva, Switzerland.
+
+Anonymous, 2006a. Microbiology of Food and Animal Feeding Stuﬀs — Horizontal
+
+Method for the Detection and Enumeration of Coliforms —Most Probable Number
+Technique (EN ISO 4831). International Organization for Standardization, Geneva,
+Switzerland.
+
+Anonymous, 2006b. Microbiology of Food and Animal Feeding Stuﬀs — Horizontal
+
+Method for the Detection and Enumeration of Campylobacter spp. (EN ISO10272-1).
+International Organization for Standardization, Geneva, Switzerland.
+
+Anonymous, 2007. Microbiology of Food and Animal Feeding Stuﬀs-General
+
+Requirements and Guidance for Microbiological Examinations (EN ISO7218).
+International Organization for Standardization, Geneva, Switzerland.
+
+Bacteriological Analytical Manual (BAM), 2001. Aerobic Plate Count, Chapter 3, Aerobic
+
+Plate Count 1. Available at: https://www.fda.gov/Food/FoodScienceResearch/
+LaboratoryMethods/ucm063346.
+
+Balaban, N., Rasooly, A., 2000. Staphylococcal enterotoxin. Int. J. Food Microbiol. 61,
+
+1–10.
+
+Bangladesh Standards and Testing Institution (BSTI), 2002. Bangladesh Standard:
+
+Speciﬁcation for Pasteurized Milk. BDS 1702: 2002. Bangladesh Standards and
+Testing Institution, Dhaka, pp. 2–3.
+
+Banwart, G.J., 1998. Basic Food Microbiology, second ed. CBS Publishers and
+
+Distributors, India.
+
+Bonyadian, M., Moshtaghi, H., Taheri, M.A., 2014. Molecular characterization and anti-
+
+biotic resistance of enterotoxigenic and enteroaggregative Escherichia coli isolated
+from raw milk and unpasteurized cheeses. Vet. Res. Forum. 5, 29–34.
+
+Bramley, A.J., McKinnon, C.H., 1990. The microbiology of raw milk. In: Robinson, R.K.
+
+(Ed.), Dairy Microbiology. Elsevier Science, London, pp. 163–208.
+
+Clinical and Laboratory Standards Institute (CLSI), 2010. Performance standards for an-
+timicrobial disk susceptibility test; twentieth informational supplement (June 2010
+update). In: CLSI Document M100-S20-U. Clinical and Laboratory Standards
+Institute, Wayne, PA.
+
+Cromie, S.J., Schmidt, D., Dommett, T.W., 1989. Eﬀect of pasteurization and storage
+
+conditions on the microbiological, chemical and physical quality of aseptically
+packaged milk. Aust. J. Dairy Technol. 5, 25–30.
+
+de Oliveira, L.P., Soares e Barros, L.S., Silva, V.C., Cirqueira, M.G., 2011. Study of
+
+Staphylococcus aureus in raw and pasteurized milk consumed in the Reconcavo area of
+the State of Bahia, Brazil. J. Food Process Technol. 2, 128. http://dx.doi.org/10.
+4172/2157-7110.1000128.
+
+EC (European Commission), 2001. Overview of Microbiological Criteria for Foodstuﬀs in
+Community Legislation in Force. Online. Available at. http://europa.eu.int/comm/
+food/fs/sfp/mr/mr_crit_en.pdf, Accessed date: 11 April 2003.
+
+Godefay, B., Molla, B., 2000. Bacteriological quality of raw milk from four dairy farms
+
+and milk collection center in and around Addis Ababa. Berl. Münch. Tierärztl.
+
+18
+
+M.A. Islam et al.
+
+International Journal of Food Microbiology 278 (2018) 11–19
+
+and Staphylococcus aureus counts of raw and processed milk from selected small-
+holder dairy farms of Zimbabwe. Int. J. Food Microbiol. 151, 223–228.
+
+Oliver, S.P., Jayarao, B.M., Almeida, R.A., 2005. Foodborne pathogens in milk and the
+
+dairy farm environment: food safety and public health implications. Foodborne
+Pathog. Dis. 2, 115–129.
+
+Parekh, T.S., Subhash, R., 2008. Molecular and bacteriological examination of milk from
+
+diﬀerent milk animals with special reference to coliforms. Cur. Res. Bacteriol. 1,
+56–63.
+
+PMO (revised), 2015. Grade “A” Pasteurized Milk Ordinance. U. S. Department of Health
+and Human Services, Public Health Services. Food and Drug Administration (FDA),
+Washington, DC Available at: https://www.fda.gov/downloads/food/
+guidanceregulation/guidancedocumentsregulatoryinformation/milk/ucm513508.
+pdf.
+
+Reuben, R.C., Owuna, G., 2013. Antimicrobial resistance patterns of Escherichia coli
+
+O157:H7 from Nigerian fermented milk samples in Nasarawa state. Int. J. Pharm. Sci.
+Invent. 2, 38–44.
+
+Scavia, G., Escher, M., Baldinelli, F., Pecoraro, C., Caprioli, A., 2009. Consumption of
+
+unpasteurized milk as a risk factor for hemolytic uremic syndrome in Italian children.
+Clin. Infect. Dis. 48, 1637–1638.
+
+Shojaei, Z.A., Yadollahi, A., 2008. Physicochemical and microbiological quality of raw,
+
+pasteurized and UHT milk in shops. Asian J. Sci. Res. 1, 532–538.
+
+Talukdar, P.K., Rahman, M., Rahman, M., Nabi, A., Islam, Z., Hoque, M.M., Endtz, H.P.,
+Islam, M.A., 2013. Antimicrobial resistance, virulence factors and genetic diversity of
+Escherichia coli isolates from household water supply in Dhaka, Bangladesh. PLoS One
+8 (4), e61090. http://dx.doi.org/10.1371/journal.pone.0061090.
+
+Vendramin, T., Kich, D.M., Molina, R.D., Volken de Souza, C.F., Salvatory, R.U.,
+
+Pozzobon, A., Bustamante-Filho, I.C., 2014. Molecular screening of bovine raw milk
+for the presence of shiga toxin-producing Escherichia coli (STEC) on dairy farms. Food
+Sci. Technol. (Campinas) 34, 604–608.
+
+Wochenschr. 113, 1–3.
+
+Godič Torkar, K., Golc Teger, S., 2008. The microbiological quality of raw milk after
+
+introducing the two day's milk collecting system. Acta Agric. Slov. 1, 61–74.
+
+Hassainya, I., Padilla, M., Tozanli, S., 2006. In: Karthala (Ed.), Milk and milk products in
+
+the Mediterranean: sectors a major restructuring, pp. 65 Morocco.
+
+Islam, M.A., Heuvelink, A.E., Talukder, K.A., Zwietering, M.H., de Boer, E., 2006.
+
+Evaluation of immunomagnetic separation and PCR for the detection of Escherichia
+coli O157 in animal feces and meats. J. Food Prot. 69, 2865–2869.
+
+Islam, M.A., Heuvelink, A.E., de Boer, E., Sturm, P.D., Beumer, R.R., Zwietering, M.H.,
+Faruque, A.S.G., Haque, R., Sack, D.A., Talukder, K.A., 2007. Shiga toxin-producing
+Escherichia coli isolated from patients with diarrhoea in Bangladesh. J. Med.
+Microbiol. 56, 380–385.
+
+Islam, M.A., Mondol, A.S., Azmi, I.J., Boer, E., Beumer, R.R., Zwietering, M.H., Heuvelink,
+A.E., Talukder, K.A., 2010. Occurrence and characterization of shiga toxin–producing
+Escherichia coli in raw meat, raw milk, and street vended juices in Bangladesh.
+Foodborne Pathog. Dis. 7, 1381–1385.
+
+Kumar, R., Prasad, A., 2010. Detection of E. coli and Staphylococcus in milk and milk
+
+products in and around pantnagar. Vet. World 3, 495–496.
+
+Labioui, H., Elmoualdi, L., Benzakour, A., Elyachioui, M., Berny, E., Ouhssine, M., 2009.
+Physicochemical and microbiological study of raw milk. Bull. Soc. Pharm. Bord. 148,
+7–16.
+
+Langer, A.J., Ayers, T., Grass, J., Lynch, M., Angulo, F.J., Mahon, B.E., 2012.
+
+Nonpasteurized dairy products, disease outbreaks, and state laws—United States,
+1993–2006. Emerg. Infect. Dis. 18, 385–391.
+
+Le Loir, Y., Baron, F., Gautier, M., 2003. Staphylococcus aureus and food poisoning. Genet.
+
+Mol. Res. 2, 63–76.
+
+Meer, R.R., Baker, J., Bodyfelt, F.W., Griﬃths, M.W., 1991. Psychrotrophic Bacillus spp. in
+
+ﬂuid milk products. J. Food Prot. 54, 969–979.
+
+Mhone, T.A., Matope, G., Saidi, P.T., 2011. Aerobic bacterial, coliform, Escherichia coli
+
+19
+
+

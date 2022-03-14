@@ -1,0 +1,1563 @@
+(cid:0)(cid:2)(cid:2)(cid:3)(cid:3)(cid:6) (cid:8)	(cid:2)(cid:13)
+
+Evaluation and characterization of plasmids carrying CTX-M genes in a
+non-clonal population of multidrug-resistant Enterobacteriaceae isolated
+from poultry in Brazil
+
+Joseane Cristina Ferreira, Rafael Antonio Casarin Penha Filho, Leonardo
+Neves Andrade, Angelo Berchieri Junior, Ana L´ucia Costa Darini
+
+PII:
+DOI:
+Reference:
+
+S0732-8893(16)30135-3
+doi: 10.1016/j.diagmicrobio.2016.05.011
+DMB 14094
+
+To appear in:
+
+Diagnostic Microbiology and Infectious Disease
+
+Received date:
+Revised date:
+Accepted date:
+
+26 January 2016
+14 May 2016
+17 May 2016
+
+Please cite this article as: Ferreira Joseane Cristina, Filho Rafael Antonio Casarin Penha,
+Andrade Leonardo Neves, Junior Angelo Berchieri, Darini Ana L´ucia Costa, Evaluation
+and characterization of plasmids carrying CTX-M genes in a non-clonal population of
+multidrug-resistant Enterobacteriaceae isolated from poultry in Brazil, Diagnostic Micro-
+biology and Infectious Disease (2016), doi: 10.1016/j.diagmicrobio.2016.05.011
+
+This is a PDF ﬁle of an unedited manuscript that has been accepted for publication.
+As a service to our customers we are providing this early version of the manuscript.
+The manuscript will undergo copyediting, typesetting, and review of the resulting proof
+before it is published in its ﬁnal form. Please note that during the production process
+errors may be discovered which could aﬀect the content, and all legal disclaimers that
+apply to the journal pertain.
+
+1 
+
+ 
+
+Evaluation  and  characterization  of  plasmids  carrying  CTX-M  genes  in  a  non-clonal 
+
+population of multidrug-resistant Enterobacteriaceae isolated from poultry in Brazil 
+
+ 
+
+Joseane  Cristina  Ferreiraa,  Rafael  Antonio  Casarin  Penha  Filhob,  Leonardo  Neves 
+
+Andradea, Angelo Berchieri Juniorb, Ana Lúcia Costa Dariniª* 
+
+ 
+
+Addresses: 
+
+aSchool of Pharmaceutical Sciences of Ribeirão Preto – University of São Paulo (USP), 
+
+Ribeirão Preto, SP, 14040-903, Brazil 
+
+bSchool of Agricultural and Veterinary Sciences – São Paulo State University (UNESP), 
+
+Jaboticabal, SP, 14884-900, Brazil 
+
+ 
+
+* Corresponding author 
+
+Address for correspondence: 
+
+Ana Lúcia Costa Darini 
+
+Departamento  de  Análises  Clínicas,  Toxicológicas  e  Bromatológicas,  Faculdade  de 
+
+Ciências Farmacêuticas de Ribeirão Preto, Universidade de São Paulo (USP), Ribeirão 
+
+Preto, SP, 14040-903, Brasil 
+
+phone +55 16 36024291; fax +55 16 36024725 
+
+e-mail: aldarini@fcfrp.usp.br 
+
+ 
+
+Key words: antimicrobial resistance; ESBL; E. coli; plasmids, pMLST 
+
+ 
+
+ 
+
+ 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT2 
+
+ 
+
+Abstract 
+
+ 
+
+The increasing presence of ESBL-producing bacteria in  food-producing animals might 
+
+impact on public health. In this study, ESBL-producing enterobacteria were investigated 
+
+in the microbiota of chickens produced in Brazil. We detected blaCTX-M-2, blaCTX-M-8 and 
+
+blaCTX-M-15 in  13 Escherichia coli isolates,  within 9 different  PFGE-types.  Escherichia 
+
+fergusonii  and  Klebsiella  pneumoniae  were  found  carrying  blaCTX-M-2.  Plasmid  Inc 
+
+groups  found  included  repF,  FIB,  FIC,  I1,  Y,  B/O,  A/C,  K  and  HI1.  F  plasmids  were 
+
+present  in  87.5%  of  the  isolates,  however,  no  resistance  gene  was  harbored  in  this 
+
+replicon. The pMLST for IncI1 showed ST113 and the novel ST130, ST131 and ST132 
+
+harboring  blaCTX-M-8.  IncK  plasmids  carried  blaCTX-M-2  in  one  E.  coli  isolate.  Non-
+
+typeable  plasmids  carrying  blaCTX-M-2  or  blaCTX-M-15  had  up  to  260kb.  blaCTX-M-2  was 
+
+also  associated  with  class  I  integron  and  ISCR1  and  blaCTX-M-8  with  IS10.  Overall, 
+
+similar  resistance  elements  were  disseminated  among  a  diverse  population  of  ESBL-
+
+producing enterobacteria.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT3 
+
+ 
+
+1. 
+
+ 
+
+Introduction 
+
+Extended-spectrum  β-lactamase  (ESBL)-producing  Enterobacteriaceae  are  a 
+
+concern for contemporary public health worldwide. These bacteria have been identified 
+
+with  increased  prevalence  in  the  community  and  are  associated  with  mortality  in 
+
+hospitals (Hawkey, 2015). An increasing number of studies report resistance genes and 
+
+ESBL-producing enterobacteria in food-producing animals, especially poultry (Liebana, 
+
+et al., 2013). 
+
+ 
+
+Many ESBL-producing enterobacteria carry other resistance genes associated in 
+
+the  same  ESBL-carrying  plasmid.  In  such  cases  the  use  of  antimicrobial  agents,  other 
+
+than  cephalosporins,  can  contribute  for  the  maintenance  and  dissemination  of  ESBL 
+
+encoding-genes  (Persoons,  et  al.,  2011).  The  wide  prevalence  of  resistance  genes  in 
+
+food-producing  animals  occurs  essentially  for  two  reasons,  the  selection  of  resistant 
+
+isolates  by  indiscriminate  use  of  antimicrobial  agents  in  the  fields  and  presence  of 
+
+mobile  genetic  elements  (MGE)  disseminating  resistance  genes  to  different  bacterial 
+
+hosts (Liebana, et al., 2013). 
+
+ 
+
+Currently,  studies  involving  ESBL-producing  E.  coli  isolated  from  poultry  and 
+
+from  humans  have  demonstrated  similar  characteristics  shared  among  isolates, 
+
+especially  those related to  MGEs, which are closely  related  among  animal  and  human 
+
+isolates. These studies have also suggested  that the spread of resistant isolates through 
+
+the food chain may contribute for the increasing number of infections or colonization by 
+
+ESBL-producing E. coli in humans (Carattoli, 2013; Kluytmans, et al., 2013). 
+
+ 
+
+The  main  mechanism  of  dissemination  and  acquisition  of  antimicrobial 
+
+resistance genes in Enterobacteriaceae has been attributed to the horizontal transfer of 
+
+MGE, especially plasmids carrying these genes, hindering the efficacy of treatments for 
+
+infections caused by ESBL-producers (Carattoli, 2013). 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT4 
+
+ 
+
+ 
+
+Thus, the present study assessed the presence of β-lactamase-encoding genes and 
+
+evaluated  the  population  structure  of  resistant  enterobacteria  isolated  from  apparently 
+
+healthy broiler chickens. The genetic relationship among ESBL-producing isolates was 
+
+compared  within  different  farms  to  evaluate  the  occurrence  of  clonal  dissemination  in 
+
+the fields. Moreover, the study aimed to characterize plasmids carrying ESBL genes to 
+
+investigate  the  MGE  such  as  integrons  and  insertion  elements  that  may  facilitate  the 
+
+maintenance  of  resistance  genes  and  exchange  of  genetic  material  in  the  animal 
+
+environment. 
+
+ 
+
+2. 
+
+Material and methods 
+
+2.1. 
+
+Isolates 
+
+ 
+
+From  2011  to  2012,  two-hundred  cloacal  swabs  were  harvested  from  40  days-
+
+old  commercial  broilers  in  two  poultry  farms  (1  and  2  with  distance  around  250Km 
+
+between  their)  from  São  Paulo  State,  Brazil  (100  swabs  per  farm).  Cloacal  swab 
+
+samples were streaked on MacConkey (MC) agar containing cefotaxime (1µg/mL) and 
+
+on  MC  agar  with  ceftazidime  (1µg/mL),  incubated  at  37°C  for  24h.  One  colony  per 
+
+plate  was  selected  to  conduct  the  present  study.  The  bacterial  colonies  were  identified 
+
+by  classical  biochemical  methods  and  confirmed  by  API  20E  system  (bioMérieux, 
+
+France). 
+
+ 
+
+2.2.  Antimicrobial susceptibility testing  
+
+ 
+
+The  antimicrobial  susceptibility  of  the  isolates  were  determined  by  using  the 
+
+disk  diffusion  methods  (CLSI,  2012),  and  the  results  were  interpreted  according  to 
+
+recommendations  of  the  Clinical  and  Laboratory  Standards  Institute  (CLSI)  2013, 
+
+document  M100-S23.  Fifteen  antimicrobial  agents  were  tested,  including  β-lactam 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT5 
+
+ 
+
+antibiotics:  amoxicillin-clavulanic  acid 
+
+(AMC),  piperacillin/tazobactam 
+
+(TZP), 
+
+cefotaxime  (CTX),  ceftazidime  (CAZ),  cefoxitin  (FOX),  cefepime  (FEP),  aztreonam 
+
+(ATM),  ertapenem  (ETP)  and  non  β-lactam  antibiotics:  nalidixic  acid  (NAL), 
+
+ciprofloxacin  (CIP),  levofloxacin  (LEV),  tetracycline  (TET),  gentamicin  (GEN), 
+
+trimethoprim-sulfamethoxazole  (SXT)  and  chloramphenicol  (CHL).  ESBL-producing 
+
+isolates  were  screened  by  double  disk  synergism  (DDS)  using  cefotaxime  and 
+
+ceftazidime plus amoxicillin/clavulanic acid (Jarlier, et al., 1988). 
+
+ 
+
+2.3.  Determination of population structure 
+
+ 
+
+Genetic  relationship  among  isolates  was  determined  by  analysis  of  XbaI-
+
+digested genomic DNA on pulsed field gel electrophoresis (PFGE), performed in CHEF 
+
+DRIII System (Bio-Rad, USA) (CDC, 2004). Gels were analyzed with the BioNumerics 
+
+fingerprinting  software  (Applied  Maths,  Belgium)  and  the  normalized  profiles  were 
+
+compared  using  the  Dice  similarity  index.  The  dendrogram  was  constructed  using  the 
+
+unweighted-pair  group  method  using  average  linkage  algorithm  (UPGMA).  The 
+
+homology  cutoff  value  of  85%  was  used  to  group  the  related  isolates  within  the  same 
+
+PFGE-type. 
+
+ 
+
+The determination of phylogenetic groups was assigned according to previously 
+
+described  method  (Clermont,  et  al.,  2000).  Briefly,  this  method  designates  one  out  of 
+
+four phylogenetic groups (A, B1, B2, or D) to each E. coli isolate based on the presence 
+
+of chuA, yjaA genes and TSPE4.C2 DNA fragment. 
+
+ 
+
+2.4.  Detection of β-lactamase genes  
+
+ 
+
+The investigation of blaCTX-M (groups 1, 2, 9, 8 and 25) was carried out by PCR 
+
+(Saladin, et  al.,  2002). Purified PCR  amplicons (illustra™ GFX™ PCR DNA and Gel 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+Band  Purification  Kit,  GE  Healthcare,  USA)  were  directly  sequenced  using  the  ABI 
+
+3730 DNA Analyser (Life Technologies-Applied Biosystems). The DNA sequences and 
+
+translated  amino acid  sequences  obtained were compared  with  references found in  the 
+
+6 
+
+LAHEY home page (http://www.lahey.org/Studies/). 
+
+ 
+
+2.5.  Genetic environment of β-lactamase genes  
+
+ 
+
+The  genetic  environment  of  β-lactamase  genes  was  determined  by  PCR  of 
+
+upstream  and  downstream  regions,  as  described  previously  (Dhanji,  et  al.,  2010). 
+
+Briefly  if  ISCR1  was  found  upstream  or  downstream  of  β-lactamase  genes,  two 
+
+additional PCRs were performed using the Long PCR Enzyme Mix (Thermo-Scientific, 
+
+USA) with forward primers Sul1-F (5’GCC CTG TCC GAT CAG ATG CA 3’) or Int1-
+
+F (5′-TCC AGAACC TTG ACC GAA CG-3′) combined with a reverse primer for the 
+
+β-lactamase genes to search for class 1 integron structures (Dhanji, et al., 2010). 
+
+ 
+
+2.6.  PCR-based Replicon Typing (PBRT) and resistance gene location 
+
+ 
+
+After  identification  of  β-lactamase  genes  in  resistant  isolates  by  PCR  and 
+
+confirmation by sequencing, plasmids were investigated and characterized by the PBRT 
+
+scheme,  as  previously  described  (Carattoli,  et  al.,  2005).  Southern  blot  and 
+
+hybridization  methods  were  performed  to  locate  the  replicon  type  carrying  the  ESBL-
+
+encoding  gene.  Briefly,  plasmid DNA  was  digested with  S1 nuclease  and analyzed on 
+
+PFGE  gels  (S1-PFGE).  The  PFGE  gel  was  submitted  to  a  southern  blot  in  the  nylon 
+
+membrane  (Hybond-N+,  GE  Healthcare  Life  Sciences,  USA)  and  hybridization  with 
+
+specific probes for detection of the resistance gene and the incompatibility (Inc) groups. 
+
+The identification of the replicon type harboring the resistance gene was determined by 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+binding  of  probes  for  resistance  gene  in  the  same  position  of  the  replicon  in  the 
+
+7 
+
+membrane. 
+
+ 
+
+2.7.  Conjugation experiments 
+
+ 
+
+Transferability  of  plasmids  carrying  β-lactamase  genes  was  determined  by 
+
+conjugation  with  recipient  Escherichia  coli  strains  assisted  by  antimicrobial  resistance 
+
+markers  and  lactose  fermentation  characteristics  of  the  recipient  strain.  The  lactose 
+
+positive  transconjugants  obtained  in  azide-resistant  E.  coli  J53  were  selected  on 
+
+MacConkey  agar  containing  2  µg/mL  of  cefotaxime  and  100  µg/mL  of  sodium  azide 
+
+and  the  lactose  negative  obtained  in  streptomycin-resistant  E.  coli  C600 were  selected 
+
+with  300  µg/mL  of  streptomycin.  The  presence  of  β-lactamase  genes  in  the 
+
+transconjugants  was  confirmed  by  PCR.  Inc  groups  of  the  resistance  plasmids  from 
+
+transconjugants  were  assigned  using  the  PBRT  method,  as  previously  described 
+
+(Carattoli, et al., 2005). 
+
+ 
+
+2.8.  Plasmid multilocus sequence typing (pMLST) 
+
+The primers  and PCR  conditions  for the  pMLST of  IncI  plasmids followed the 
+
+instructions  described  in  http://pubmlst.org/plasmid/primers/.  The  amplicons  were 
+
+purified  with  illustra™  GFX™  PCR  DNA  and  Gel  Band  Purification  Kit  (GE 
+
+Healthcare, USA) and both strands were sequenced using an ABI 3730 DNA Analyser 
+
+(Life Technologies-Applied Biosystems, USA). The nucleotide sequences were aligned 
+
+using  ChromasPro  Software  version  1.41  (Technelysium,  Australia).  The  allele  types 
+
+were analyzed in the database at http://www.pubmlst.org/plasmid/.  
+
+ 
+
+ 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT8 
+
+ 
+
+3. 
+
+RESULTS 
+
+3.1.  Antimicrobial susceptibility 
+
+ 
+
+Among 
+
+the  studied 
+
+isolates,  DDS 
+
+test  detected  16  ESBL-producing 
+
+enterobacteria  isolates  (8%),  which  were  13  E.  coli,  2  Escherichia  fergusonii  and  1 
+
+Klebsiella  pneumoniae.  The  ESBL-producing  isolates  showed  resistance  to  most  β-
+
+lactam antibiotics tested  (resistance to  broad-spectrum  cephalosporins and aztreonam), 
+
+remaining susceptible only to carbapenens (ETP) (Table 1). Co-resistance phenotypes to 
+
+non  β-lactam  antibiotics  were  also  observed,  including  to  GEN  (6/16),  SXT  (5/16), 
+
+CHL  (3/16),  TET  (15/16)  and  to  quinolones  NAL  (15/16),  CIP  (15/16)  and  LEV 
+
+(14/16).  The  16  ESBL-producing  isolates  were  multidrug-resistant  (MDR),  which  are 
+
+not  susceptible  to  at  least  one  agent  in  three  or  more  antimicrobial  categories 
+
+(Magiorakos, et al., 2012). 
+
+ 
+
+3.2.  Characterization of β-lactamase genes and genetic environment 
+
+Investigation of β-lactamase  groups by PCR revealed 16 isolates (8%) carrying 
+
+blaCTX-M  type  gene.  The  16  CTX-M-producing  isolates  consisted  of  9  E.  coli  isolates 
+
+carrying  blaCTX-M-8,  3  carrying  blaCTX-M-2  and  1  carrying  blaCTX-M-15  and  also  2  E. 
+
+fergusonii and 1 K. pneumoniae isolate carrying blaCTX-M-2. The CTX-M-2-producing E. 
+
+fergusonii and E. coli and the CTX-M-15-producing E. coli were isolated in farm 1, the 
+
+CTX-M-2-producing  K.  pneumoniae  was  isolated  in  farm  2,  whilst  CTX-M-8-
+
+producing E. coli isolates were found on both farms (Table 1). 
+
+The  genetic  environment  characterized  in  CTX-M-producing  isolates  showed 
+
+the  insertion  sequence  ISCR1  and  a  class  1  integron  structure  with  7kb  upstream  (5’ 
+
+region) from the resistance genes in 6 blaCTX-M-2 isolates (3 E. coli, 2 E. fergusonii and 1 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+K.  pneumoniae).  The  IS10  was  found  upstream  from  blaCTX-M-8  in  8  E.  coli  isolates 
+
+9 
+
+(Table 1). 
+
+ 
+
+3.3.  Clonal analysis by PFGE and phylogroup determination 
+
+ 
+
+Clonal  diversity  was  showed  among  13  E.  coli  isolates,  classified  in  9  PFGE-
+
+types.  The  2  E.  fergusonii  isolates  belonged  to  the  same  PFGE-type  with  100% 
+
+similarity. There were no common clones shared among farms studied (Figure 1). 
+
+ 
+
+The phylogenetic groups A, B1, and D were found among E. coli isolates. Seven 
+
+isolates belonged to the  phylogenetic  group A, four were assigned to  the phylogenetic 
+
+group  D  and  two  isolates  belonged  to  phylogenetic  group  B1.  Phylogenetic  group  B2 
+
+was not found (Table 1). 
+
+ 
+
+3.4.  Characterization of replicon types, hybridization and conjugation 
+
+ 
+
+A wide variety of plasmids replicons were identified from groups IncF (14 F, 11 
+
+FIB,  1  FIC),  IncI1  (13),  IncY(4),  and  one  from  each  group  A/C,  K  and  HI1. 
+
+Furthermore,  the  southern  blot  and  hybridization  showed  9  E.  coli  isolates  harbored 
+
+blaCTX-M-8 gene in plasmids IncI1 with approximately 50kb. One E. coli isolate (MA41) 
+
+showed  blaCTX-M-2  harbored  in  the  IncK  plasmid  (35kb).  K.  pneumoniae  and  E. 
+
+fergusonii  isolates  harbored  blaCTX-M-2  gene  in  plasmids  that  were  not  typeable  by 
+
+PBRT,  yet  the  hybridization  identified  the  resistance  plasmids  with  long  lengths  with 
+
+250kb  and  260kb,  respectively  (Table  1).  The  resistance  genes  and  replicon  types 
+
+associated  identified  by  hybridization  were  subsequently  confirmed  by  PCR  using  the 
+
+transconjugants obtained. E. coli isolates resulted in transconjugants with E. coli C600 
+
+and  E.  fergusonii  isolates  with  E.  coli  J53.  The  replicons  carrying  the  resistance  gene 
+
+are underlined in Table 1. The E. coli isolates MA86, MA93 and K. pneumoniae did not 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+result  in  transconjugants  with  the  recipient  strain  E.  coli  C600,  however  the 
+
+hybridization showed that the resistance genes were harbored in large plasmids ranging 
+
+10 
+
+from 200kb to 260kb, not typeable by PBRT. 
+
+ 
+
+3.5. 
+
+pMLST 
+
+ 
+
+The  pMLST  for  IncI1  plasmid  replicons  was  performed  with  transconjugants 
+
+and  identified  ST113  (allelic  profile  1/2/5/10/10).  Furthermore,  three  novel  STs  were 
+
+identified  in  the  present  work  and  deposited  in  the  pMLST  database  as  ST130  (allelic 
+
+profile  1/2/8/10/19),  ST131  (allelic  profile  1/9/23/4/3)  and  ST132  (allelic  profile 
+
+1/2/23/4/3) (Table 1). 
+
+ 
+
+4. 
+
+Discussion 
+
+Antimicrobial  resistance  in  commensal  and  pathogenic  enterobacteria  causes 
+
+high impact  on public health. Animal reservoirs  may be involved in  the  dissemination 
+
+of  resistant  bacteria,  which  may  occur  by  contact  with  animals,  contaminated  food  of 
+
+animal origin, raw meat, water and environment. Plasmids carrying resistance genes in 
+
+commensal  E.  coli  were  shown  to  be  successfully  transferred  in  vivo  to  pathogenic 
+
+bacteria,  including  Salmonella  (Canton,  et  al.,  2011).  Considering  the  use  of 
+
+antimicrobial  agents  in  production  animals,  we  investigated  resistance  genes  in 
+
+commensal  enterobacteria 
+
+isolated 
+
+from  broiler  chickens, 
+
+furthermore 
+
+the 
+
+epidemiological features were deeply analyzed to elucidate the mechanisms involved in 
+
+the dissemination of the resistance genes. 
+
+In the present work, ESBL-producing E. coli, E. fergusonii and K. pneumoniae 
+
+were  isolated  from  the  intestinal  microbiota  of  apparently  healthy  broilers.  Among  16 
+
+ESBL-producing  isolates,  93.75%  (15/16)  were  also  resistant  to  NAL,  CIP  and  TET; 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT11 
+
+ 
+
+87.5% (14/16) were also resistant to LEV; 37.5% (6/16) were also resistant to GEN and 
+
+31.25% (5/16)  were  also  resistant to  SXT. As noticed, a high level  of co-resistance to 
+
+quinolones  and  fluoroquinolones  were  showed  in  the  ESBL-producing  isolates. 
+
+Together  with  β-lactams,  these  important  classes  of  antimicrobial  agents  are  the  first 
+
+choice  for  treatments  of  infections  caused  by  enterobacteria.  Considering  that  all  16 
+
+ESBL-producing  isolates  were  MDR,  the  frequent  usage  of  these  antimicrobial  agents 
+
+acts as selective pressure on these bacteria contributing to increase its prevalence in the 
+
+environment  (Canton,  et  al.,  2011)  and  to  the  successful  colonization  of  the  poultry 
+
+intestinal tract.  
+
+Total prevalence of ESBL-producing E. coli isolates in different animal species 
+
+and  meat  in  2009  ranged  from  2%  to  9%,  depending  on  the  source,  according  to  the 
+
+European  Food  Safety  Authority  (Liebana,  et  al.,  2013).  In  the  present  study,  the 
+
+prevalence of ESBL-producing enterobacteria was 8%. Currently in Brazil, one-day old 
+
+chicks  may  receive 
+
+third-generation  cephalosporin 
+
+to  prevent  omphalitis  and 
+
+gastrointestinal  infections,  which  may  contribute  to  select  resistant  microbiota  and 
+
+consequently increase the reservoirs of MDR enterobacteria in the animal environment 
+
+(Collignon,  et  al.,  2013),  as  noticed  in  the  present  study.  In  2012,  the  Food  and  Drug 
+
+Administration (FDA) in United States approved a novel legislation  restricting the use 
+
+of cephalosporins in food-producing animals, including chickens, aiming to reduce the 
+
+prophylactic use of antimicrobial drugs in animal production and also the dissemination 
+
+of resistant bacteria (US Food and Drug Administration, 2012).  
+
+CTX-M-producing enterobacteria are widespread among human populations but 
+
+an increasing number of reports describes the presence in the animal environment and in 
+
+food  of  animal  origin  (Lazarus,  et  al.,  2015).  Our  findings  show  that  the  poultry  is  a 
+
+reservoir  of  resistance  genes  blaCTX-M-2,  blaCTX-M-8  and  blaCTX-M-15  in  enterobacteria 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT12 
+
+ 
+
+isolated  from  the  intestinal  tract.  As  shown  in  Table  1,  a  wide  genetic  diversity  was 
+
+found among all ESBL isolates, classified among different PFGE-types.  
+
+CTX-M-2 
+
+is 
+
+the  dominant  ESBL  group 
+
+among  human 
+
+clinical 
+
+Enterobacteriaceae isolates in South America (Minarini, et al., 2009). The gene blaCTX-
+
+M-2 was found in 37.5% ESBL isolates, from three different Enterobacteriaceae species. 
+
+All  E.  coli,  E.  fergusonii  and  K.  pneumoniae  carrying  blaCTX-M-2,  shared  in  common  a 
+
+class  1  integron  and  ISCR1  associated  with  the  resistance  gene,  suggesting  that  both 
+
+these MGE may have been disseminated in the farms, transferring the resistance gene to 
+
+different plasmids. Moreover, the same MGE carrying the resistance gene were found in 
+
+a  polyclonal  bacterial  population,  E.  coli  from  different  PFGE-types  and  2  different 
+
+species.  ISCR1  was  previously  attributed  to  the  mobilization  of  resistance  genes  (e.g. 
+
+blaCTX-M-2)  into  plasmids,  consequently  increasing  the  dissemination  of  antimicrobial 
+
+resistance  mechanisms  (Toleman,  et  al.,  2006).  Similar  to  the  present  work,  class  1 
+
+integron-ISCR1  complex  was  found  associated  to  blaCTX-M-2  in  Argentina  (Arduino,  et 
+
+al.,  2003).  The  association  of  blaCTX-M  genes  with  class  1  integron  and  ISCR1  may 
+
+contribute to increase the mobility of the resistance gene and  recombination with other 
+
+plasmid Inc groups in different bacterial hosts, and also increases the risk of insertions 
+
+into  bacterial  chromosome,  as  previously  shown  (Ferreira,  et  al.,  2014).  Therefore, 
+
+given  the  non-clonal  nature  of  the  disseminated  resistant  isolates  in  the  studied  farms, 
+
+plasmids  and  other  MGE  may  be  involved.  Thus  not  only  clonal  dissemination  by 
+
+selection  of  a  single  resistant  isolate  should  be  considered  for  the  antimicrobial 
+
+resistance dissemination (Canton, et al., 2006) in the animal environment. 
+
+The  CTX-M-8  enzyme  was  first  described  in  the  year  2000  from  clinical 
+
+isolates, in Brazil (Bonnet, et al., 2000). However, it has also been identified in Europe 
+
+and  USA  since  then,  but  the  prevalence  is  still  low  in  other  territories  (Eller,  et  al., 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT13 
+
+ 
+
+2013). Our findings show that blaCTX-M-8 was found in higher prevalence (56%) among 
+
+the  ESBL  isolates  from  animal  source.  This  resistance  gene  was  found  in  9  E.  coli 
+
+isolates from farms 1 and 2, however these were classified into 6 different PFGE-types 
+
+(A, D, E, H, L and one was not determined). The in-depth plasmid analysis showed that 
+
+blaCTX-M-8  was  harbored  in  IncI1  plasmids  with  similar  sizes  (50kb)  and  the  insertion 
+
+element  IS10  was  associated  with  the  resistance  gene  in  all  isolates  except  in  MA32. 
+
+Despite similarities, the pMLST revealed four different STs, including three novel STs 
+
+(130,  131  and  132)  among  these  plasmids.  The  variable  genotypes  and  phenotypes  of 
+
+the  resistant  E.  coli  isolates  found  in  the  present  study  demonstrates  the  rich  genetic 
+
+diversity involved in the dissemination of antimicrobial resistance genes. This diversity 
+
+may  be  a  consequence  of  the  polyclonal  E.  coli  populations  present  in  the  intestinal 
+
+microbiota. 
+
+CTX-M-15  is  one  of  the  most  common  ESBL  detected  worldwide,  in  human 
+
+clinical infections by different  pathogens. In Brazil, this enzyme was described for the 
+
+first time in 2010, found in clinical isolates from hospitalized patients (Cergole-Novella, 
+
+et al., 2010). In 2008, a study evaluated the presence of resistant bacteria in raw chicken 
+
+meat from the UK and other countries, including Brazil, but E. coli carrying blaCTX-M-15 
+
+were  not  found.  Only  in  2015,  CTX-M-15  producing  E.  coli  was  isolated  for  the  first 
+
+time  in  Brazil  from  frozen  chicken  carcasses  (Botelho,  et  al.,  2015).  However,  in  the 
+
+present  study  we  characterized  blaCTX-M-15  in  one  E.  coli  isolate  from  live  healthy 
+
+poultry in Brazil for the first time, which might consequently be transferred to carcasses 
+
+and in natura meat. Our results corroborate with the current literature, and show the risk 
+
+of dissemination of resistance genes and bacteria  present in livestock through the food 
+
+chain.  In fact, this gene has  also been  recently  described in food-producing animals in 
+
+other countries (Kang, et al., 2013). 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT14 
+
+ 
+
+Eleven  different  Inc  groups  of  plasmids  were  found  among  the  isolates, 
+
+including  IncI1  and  IncK.  The  IncI1  plasmid  family  is  frequently  associated  with 
+
+resistance  genes (Carattoli, 2013). The pMLST database up-to-date has more than 320 
+
+STs, among these, 191 belong to IncI1 profile. In this study, the blaCTX-M-8 was present 
+
+in  IncI1  plasmids,  within  4  different  STs,  from  which  three  (ST  130,  ST  131  and  ST 
+
+132) were identified for the first time. IncI1 plasmid family was also described in UK, 
+
+carrying blaCTX-M-8 in isolates from raw chicken imported from South America (Dhanji, 
+
+et  al.,  2010).  These  plasmids  (IncI1)  were  highly  disseminated  during  the  last  decade 
+
+and previous study hypothesize the presence in animal reservoirs (Leverstein-van Hall, 
+
+et al., 2011), which was confirmed by the present study. IncK plasmids were associated 
+
+to  the  dissemination  of  CTX-M  in  the  UK,  in  animals,  humans  and  environment 
+
+(Cottell, et al., 2011). In the United States these plasmids were identified in multidrug-
+
+resistant E. coli isolated from chickens (Lindsey, et al., 2011). 
+
+ 
+
+Few  reports  show  E.  fergusonii  or  K.  pneumoniae  carrying  resistance  genes  in 
+
+farm  animals.  Resistant  and enterotoxigenic  E. fergusonii were isolated  from chickens 
+
+in  South  Korea  and  India  (Oh,  et  al.,  2012).  In  Japan,  CTX-M-2-producing  K. 
+
+pneumoniae  was  identified  in  broiler  chickens  (Hiroi,  et  al.,  2012).  Although  E. 
+
+fergusonii  may  be  present  in  the  intestinal  tract  as  commensal  microbiota,  different 
+
+reports  suggest  a  high  pathogenic  potential,  describing  many  virulence  factors, 
+
+associated  to  multidrug  resistance  in  these  bacteria.  Considering  the  capacity  to  cause 
+
+disease  in  both  humans  and  animals  E.  fergusonii  may  emerge  as  a  novel  concern  for 
+
+public health (Forgetta, et al., 2012). In the present work we found MDR E. fergusonii 
+
+carrying  blaCTX-M-2  in  a  large  plasmid  (260kb),  contributing  to  better  understand 
+
+resistance to antimicrobial agents in this species, which still has few data in the current 
+
+literature (Gaastra, et al., 2014). Despite not being typeable by PBRT, this large plasmid 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT15 
+
+ 
+
+harbored the class I integron and ISCR1 associated with the resistance gene, increasing 
+
+the risks of mobility and recombination with other plasmids. 
+
+The  presence  of  CTX-M-producing  enterobacteria  in  food  producing  animals 
+
+and raw food products was suggested as potential source of dissemination of resistance 
+
+genes  worldwide  (Dhanji,  et  al.,  2010;  Eller,  et  al.,  2013).  Furthermore,  similarities 
+
+between  ESBL-producing  E.  coli  isolated  from  chickens  and  humans  have  been 
+
+described,  particularly  the  MGEs  that  carries  the  resistance  genes  (Kluytmans,  et  al., 
+
+2013).  ESBLs  from  groups  CTX-M-2  and  CTX-M-8  were  previously  identified  in  E. 
+
+coli isolated from raw chicken meat imported from South America to the UK (Dhanji, et 
+
+al.,  2010)  and  more  recently,  in  enterobacteria  isolated  from  retail  chicken  meat 
+
+collected in marketplace from Brazil (Casella, et al., 2015).  
+
+In  conclusion  we  showed  the  presence  of  ESBL  encoding-genes  in  commensal 
+
+enterobacteria  isolated  from  live  chickens  from  Brazil  and  found  different  plasmids 
+
+carrying  ESBL  genes  (blaCTX-M-2,  blaCTX-M-8  and  blaCTX-M-15).  The  epidemiological 
+
+evaluation  showed  that  the  plasmids  size  carrying  resistance  genes  were  diverse, 
+
+ranging from 35 to 260kb. Despite the large size of the plasmids, some of these showed 
+
+to  be  conjugative  and  were  present  in  different  populations  of  E.  coli  and  also  E. 
+
+fergusonii  and  K.  pneumoniae.  Furthermore,  ISCR1  or  IS10  were  detected  in 
+
+association  with  resistance  genes.  The  IncI  plasmids  carrying  blaCTX-M-8  were  highly 
+
+similar  and  had  the  same  size  (50kb),  however  the  pMLST  analysis  revealed  that  4 
+
+different  plasmids  acquired  the  same  resistance  gene.  These  evidences  support  the 
+
+increasing  public  health  concern  considering  the  dissemination  of  resistance  genes 
+
+through the food chain and animal environment. 
+
+ 
+
+ 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT16 
+
+ 
+
+Conflict of interest statement 
+
+None to declare. 
+
+ 
+
+Acknowledgements 
+
+We  would  like  to  thank  DVM,  Mark  Ishi,  who  contributed  for  sampling  in  poultry 
+
+farms,  Dr.  Luke  Richards  for  his  kind  review  of  the  text.  São  Paulo  Research 
+
+Foundation (FAPESP) for the constant support for our research (Grant n.2014/14494-8). 
+
+L.N.A.  was  supported  by  post-doctoral  fellowship,  grant  2011/08892-2,  São  Paulo 
+
+Research  Foundation  (FAPESP)  and  R.A.C.P.F.  was  supported  by  post-doctoral 
+
+fellowship, grant 2012/24017-7, São Paulo Research Foundation (FAPESP). 
+
+ 
+
+References  
+
+Arduino,  SM,  Catalano,  M,  Orman,  BE,  Roy,  PH,  &  Centron,  D.  Molecular 
+
+epidemiology  of  orf513-bearing  class  1  integrons  in  multiresistant  clinical 
+
+isolates  from  Argentinean  hospitals.  Antimicrob  Agents  Chemother  2003;  47: 
+
+3945-3949. 
+
+Bonnet,  R,  Sampaio,  JL,  Labia,  R,  De  Champs,  C,  Sirot,  D,  Chanal,  C,  &  Sirot,  J.  A 
+
+novel  CTX-M 
+
+beta-lactamase 
+
+(CTX-M-8) 
+
+in 
+
+cefotaxime-resistant 
+
+Enterobacteriaceae isolated in Brazil. Antimicrob Agents Chemother 2000; 44: 
+
+1936-1942. 
+
+Botelho,  LA,  Kraychete,  GB,  Costa,  ESJL,  Regis,  DV,  Picao,  RC,  Moreira,  BM,  & 
+
+Bonelli,  RR.  Widespread  distribution  of  CTX-M  and  plasmid-mediated  AmpC 
+
+beta-lactamases  in  Escherichia  coli  from  Brazilian  chicken  meat.  Mem  Inst 
+
+Oswaldo Cruz 2015; 110: 249-254. 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT17 
+
+ 
+
+Canton, R, & Coque, TM. The CTX-M beta-lactamase pandemic. Curr Opin Microbiol 
+
+2006; 9: 466-475. 
+
+Canton,  R,  &  Ruiz-Garbajosa,  P.  Co-resistance:  an  opportunity  for  the  bacteria  and 
+
+resistance genes. Curr Opin Pharmacol 2011; 11: 477-485. 
+
+Carattoli, A. Plasmids and the spread of resistance. Int J Med Microbiol 2013; 303: 298-
+
+304. 
+
+Carattoli, A, Bertini, A, Villa, L, Falbo, V, Hopkins, KL, & Threlfall, EJ. Identification 
+
+of plasmids by PCR-based replicon typing. J Microbiol Methods 2005; 63: 219-
+
+228. 
+
+Casella,  T,  Rodriguez,  MM,  Takahashi,  JT,  Ghiglione,  B,  Dropa,  M,  Assuncao,  E, 
+
+Nogueira, ML, Lincopan, N, Gutkind, G, & Nogueira, MC. Detection of blaCTX-
+
+M-type genes in complex class 1 integrons carried by Enterobacteriaceae isolated 
+
+from retail chicken meat in Brazil. Int J Food Microbiol 2015; 197: 88-91. 
+
+CDC, (2004) Oneday(24–28h) standardized laboratory protocol for molecular subtyping 
+
+of Escherichia coli O157:H7, non-typhoidal Salmonella serotypes, and Shigella 
+
+sonnei by pulsed field gel electrophoresis (PFGE). In: PulseNet PFGE Manual.  
+
+Cergole-Novella,  MC,  Guth,  BE,  Castanheira,  M,  Carmo,  MS,  &  Pignatari,  AC.  First 
+
+description  of  bla(CTX-M-14)  and  bla(CTX-M-15)-producing  Escherichia  coli  isolates 
+
+in Brazil. Microb Drug Resist 2010; 16: 177-184. 
+
+Clermont,  O,  Bonacorsi,  S,  &  Bingen,  E.  Rapid  and  simple  determination  of  the 
+
+Escherichia  coli  phylogenetic  group.  Appl  Environ  Microbiol  2000;  66:  4555-
+
+4558. 
+
+CLSI,  (2012)  Performance  Standards  for  Antimicrobial  Disk  Susceptibility  Tests; 
+
+Approved Standard. In  M02-A12. Wayne, PA. 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+Collignon,  P,  Aarestrup,  FM,  Irwin,  R,  &  McEwen,  S.  Human  deaths  and  third-
+
+generation  cephalosporin  use  in  poultry,  Europe.  Emerg  Infect  Dis  2013;  19: 
+
+18 
+
+1339-1340. 
+
+Cottell, JL, Webber, MA, Coldham, NG, Taylor, DL, Cerdeno-Tarraga, AM, Hauser, H, 
+
+Thomson,  NR,  Woodward,  MJ,  &  Piddock,  LJ.  Complete  sequence  and 
+
+molecular epidemiology of IncK epidemic plasmid encoding blaCTX-M-14. Emerg 
+
+Infect Dis 2011; 17: 645-652. 
+
+Dhanji, H, Murphy, NM, Doumith, M, Durmus, S, Lee, SS, Hope, R, Woodford, N, & 
+
+Livermore,  DM.  Cephalosporin  resistance  mechanisms  in  Escherichia  coli 
+
+isolated from raw chicken imported into the UK. J Antimicrob Chemother 2010; 
+
+65: 2534-2537. 
+
+Eller, C, Leistner, R, Guerra, B, Fischer, J, Wendt, C, Rabsch, W, Werner, G, & Pfeifer, 
+
+Y.  Emergence  of  extended-spectrum  beta-lactamase  (ESBL)  CTX-M-8  in 
+
+Germany. J Antimicrob Chemother 2014; 69: 562-564. 
+
+Ferreira, JC, Penha Filho, RA, Andrade, LN, Berchieri, A, Jr., & Darini, AL. Detection 
+
+of  chromosomal  bla(CTX-M-2)  in  diverse  Escherichia  coli  isolates  from  healthy 
+
+broiler chickens. Clin Microbiol Infect 2014; 20: O623-626. 
+
+Forgetta, V, Rempel, H, Malouin, F, Vaillancourt, R, Jr., Topp, E, Dewar, K, & Diarra, 
+
+MS.  Pathogenic  and  multidrug-resistant  Escherichia  fergusonii  from  broiler 
+
+chicken. Poultry Sci 2012; 91: 512-525. 
+
+Gaastra, W, Kusters, JG, van Duijkeren, E, & Lipman, LJ. Escherichia fergusonii. Vet 
+
+Microbiol 2014; 172: 7-12. 
+
+Hawkey, PM. Multidrug-resistant Gram-negative bacteria: a product of globalization. J 
+
+Hosp infect 2015; 89: 241-247. 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT19 
+
+ 
+
+Hiroi, M, Yamazaki, F, Harada, T, Takahashi, N, Iida, N, Noda, Y, Yagi, M, Nishio, T, 
+
+Kanda, T, Kawamori, F, Sugiyama, K, Masuda, T, Hara-Kudo, Y, & Ohashi, N. 
+
+Prevalence of extended-spectrum beta-lactamase-producing Escherichia coli and 
+
+Klebsiella pneumoniae in food-producing animals. J Vet Med Sci 2012; 74: 189-
+
+195. 
+
+Jarlier,  V,  Nicolas,  MH,  Fournier,  G,  &  Philippon,  A.  Extended  broad-spectrum  beta-
+
+lactamases  conferring  transferable  resistance  to  newer  beta-lactam  agents  in 
+
+Enterobacteriaceae:  hospital  prevalence  and  susceptibility  patterns.  Rev  Infect 
+
+Dis 1988; 10: 867-878. 
+
+Kang,  MS,  Kwon,  YK,  Oh,  JY,  Kim,  MJ, Call, DR,  An,  BK,  Shin,  EG, Song,  EA,  & 
+
+Kwon,  JH.  Evidence  for  recent  acquisition  and  successful  transmission  of 
+
+bla(CTX-M-15)  in  Salmonella  enterica  in  South  Korea.  Antimicrob  Agents 
+
+Chemother 2013; 57: 2383-2387. 
+
+Kluytmans, JA, Overdevest, IT, Willemsen, I, Kluytmans-van den Bergh, MF, van der 
+
+Zwaluw, K, Heck, M, Rijnsburger, M, Vandenbroucke-Grauls,  CM, Savelkoul, 
+
+PH,  Johnston,  BD,  Gordon,  D,  &  Johnson,  JR.  Extended-spectrum  beta-
+
+lactamase-producing  Escherichia  coli  from  retail  chicken  meat  and  humans: 
+
+comparison  of  strains,  plasmids,  resistance  genes,  and  virulence  factors.  Clin 
+
+Infect Dis 2013; 56: 478-487. 
+
+Lazarus,  B,  Paterson,  DL,  Mollinger,  JL,  &  Rogers,  BA.  Do  human  extraintestinal 
+
+Escherichia  coli  infections  resistant  to  expanded-spectrum  cephalosporins 
+
+originate  from  food-producing  animals?  A  systematic  review.  Clin  Infect  Dis 
+
+2015; 60: 439-452. 
+
+Leverstein-van  Hall,  MA,  Dierikx,  CM,  Cohen  Stuart,  J,  Voets,  GM,  van  den 
+
+Munckhof, MP, van Essen-Zandbergen, A, Platteel, T, Fluit, AC, van de Sande-
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT20 
+
+ 
+
+Bruinsma,  N,  Scharinga,  J,  Bonten,  MJ,  &  Mevius,  DJ.  Dutch  patients,  retail 
+
+chicken  meat  and  poultry  share  the  same  ESBL    genes,  plasmids  and  strains. 
+
+Clin Microbiol Infect 2011; 17: 873-880. 
+
+Liebana, E, Carattoli, A, Coque, TM, Hasman, H, Magiorakos, AP,  Mevius, D, Peixe, 
+
+L,  Poirel,  L,  Schuepbach-Regula,  G,  Torneke,  K,  Torren-Edo,  J,  Torres,  C,  & 
+
+Threlfall,  J.  Public  health  risks  of  enterobacterial  isolates  producing  extended-
+
+spectrum beta-lactamases or AmpC beta-lactamases in food and food-producing 
+
+animals:  an  EU  perspective  of  epidemiology,  analytical  methods,  risk  factors, 
+
+and control options. Clin Infect Dis 2013; 56: 1030-1037. 
+
+Lindsey, RL, Frye, JG, Thitaram, SN, Meinersmann, RJ, Fedorka-Cray, PJ, & Englen, 
+
+MD.  Characterization  of  multidrug-resistant  Escherichia  coli  by  antimicrobial 
+
+resistance profiles, plasmid replicon typing, and pulsed-field gel electrophoresis. 
+
+Microb Drug Resist 2011; 17: 157-163. 
+
+Magiorakos,  AP,  Srinivasan,  A,  Carey,  RB,  Carmeli,  Y,  Falagas,  ME,  Giske,  CG, 
+
+Harbarth,  S,  Hindler,  JF,  Kahlmeter,  G,  Olsson-Liljequist,  B,  Paterson,  DL, 
+
+Rice, LB, Stelling, J, Struelens, MJ, Vatopoulos, A, Weber, JT, & Monnet, DL. 
+
+Multidrug-resistant, extensively drug-resistant and pandrug-resistant bacteria: an 
+
+international  expert  proposal  for  interim  standard  definitions  for  acquired 
+
+resistance. Clin Microbiol Infect 2012; 18: 268-281. 
+
+Minarini, LA, Poirel, L, Trevisani, NA, Darini, AL, & Nordmann, P. Predominance of 
+
+CTX-M-type  extended-spectrum  beta-lactamase  genes  among  enterobacterial 
+
+isolates  from  outpatients  in  Brazil.  Diagn  Microbiol  Infect  Dis  2009;  65:  202-
+
+206. 
+
+Oh,  JY,  Kang,  MS,  An,  BK,  Shin,  EG,  Kim,  MJ,  Kwon,  JH,  &  Kwon,  YK.  Isolation 
+
+and  epidemiological  characterization  of  heat-labile  enterotoxin-producing 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT21 
+
+ 
+
+Escherichia  fergusonii  from  healthy  chickens.  Vet  Microbiol  2012;  160:  170-
+
+175. 
+
+Persoons, D, Haesebrouck, F, Smet, A, Herman, L, Heyndrickx, M, Martel, A, Catry, B, 
+
+Berge,  AC,  Butaye,  P,  &  Dewulf,  J.  Risk  factors  for  ceftiofur  resistance  in 
+
+Escherichia coli from Belgian broilers. Epidemiol Infect 2011; 139: 765-771. 
+
+Saladin, M, Cao, VT,  Lambert,  T, Donay, JL,  Herrmann, JL, Ould-Hocine, Z, Verdet, 
+
+C,  Delisle,  F,  Philippon,  A,  &  Arlet,  G.  Diversity  of  CTX-M  beta-lactamases 
+
+and  their  promoter  regions  from  Enterobacteriaceae  isolated  in  three  Parisian 
+
+hospitals. FEMS Microbiol Lett 2002; 209: 161-168. 
+
+Toleman,  MA,  Bennett,  PM,  &  Walsh,  TR.  ISCR  elements:  novel  gene-capturing 
+
+systems of the 21st century? Microbiol Mol Bio Rev 2006; 70: 296-316. 
+
+US  Food  and  Drug  Administration,  F  (2012)  Cephalosporin  order  of  prohibition  goes 
+
+into effect. In U.S. Food and Drug Administration. 
+
+ 
+
+ 
+
+ 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+Table 1. Microbiological and molecular characteristics of ESBL-producing isolates from poultry farms in Brazil 
+
+Isolates 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+beta-lactamase gene 
+
+Plasmid 
+
+Species 
+
+number 
+
+Resistances 
+
+Farms 
+
+Phylogenetic 
+
+group* 
+
+PFGE 
+
+bla 
+
+Genetic 
+
+enviroment 
+
+Replicon type 
+
+Size (kb)  pMLST  
+
+22 
+
+CTX- M-15 
+
+ 
+
+I1,FIB,A/C,F,NT 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+2 
+
+B1 
+
+D 
+
+A 
+
+A 
+
+ 
+
+ 
+
+ 
+
+Y 
+
+M 
+
+O 
+
+P 
+
+K 
+
+K 
+
+T 
+
+CTX-M-2 
+
+CTX-M-2 
+
+CTX-M-2 
+
+CTX-M-2 
+
+CTX-M-2 
+
+CTX-M-2 
+
+K,FIB,F 
+
+50 
+
+35 
+
+FIB,FIC,F,NT 
+
+200 
+
+I1,HI1,FIB,F,NT 
+
+240 
+
+I1,FIB,F,NT 
+
+I1,FIB,F,NT 
+
+NT 
+
+250 
+
+250 
+
+260 
+
+NA 
+
+NA 
+
+NA 
+
+NA 
+
+NA 
+
+NA 
+
+NA 
+
+Int class 1+ 
+
+ISCR1 
+
+Int class 1+ 
+
+ISCR1 
+
+Int class 1+ 
+
+ISCR1 
+
+Int class 1+ 
+
+ISCR1 
+
+Int class 1+ 
+
+ISCR1 
+
+Int class 1+ 
+
+ISCR1 
+IS10 
+IS10 
+
+ 
+
+E.coli 
+
+E.coli 
+
+E.coli 
+
+E.coli 
+
+E. fergusonii  MA40a 
+
+E. fergusonii  MA100b 
+
+K.pneumoniae  LO 166b 
+
+MA1 
+
+MA93 
+
+MA86 
+
+MA41 
+
+AMC,  CTX,  CAZ,  FEP,  ATM,  NAL,  CIP, 
+TET 
+AMC,  CTX,  CAZ,  FEP,  FOX,  ATM,  NAL, 
+CIP, LEV, TET, CHL, GEN 
+AMC, CTX, FEP, ATM, NAL, CIP, LEV,TET, 
+GEN 
+AMC,  CTX,  FEP,  ATM,  NAL,  CIP,  LEV, 
+TET, CHL, SXT 
+AMC,CTX, FEP, ATM, NAL, CIP, LEV, TET, 
+GEN, SXT 
+AMC,CTX,  FEP,  ATM,  NAL,  CIP,  TET, 
+GEN, SXT 
+AMC,CTX,  FEP,  ATM,  TET,  CHL,  GEN, 
+SXT 
+CTX, FEP, ATM, NAL, CIP, LEV 
+MA10b 
+AMC, CTX, CAZ, FEP, NAL, CIP, LEV, TET, 
+MA19a 
+AMC, CTX, FEP, NAL, CIP, LEV, TET  
+MA32 
+MA58 
+AMC,CTX, NAL, CIP, LEV,GEN,SXT 
+LO116b  AMC,CTX, FEP, NAL, CIP, LEV,TET  
+LO 137b  AMC, CTX, FEP, ATM, NAL, CIP, LEV, TET  
+LO168 
+LO 182 
+LO 194 
+
+AMC,CTX, NAL, CIP, LEV,TET 
+AMC,CTX, FEP, ATM, NAL, CIP, LEV, TET  
+AMC,CTX, FEP, ATM, NAL, CIP, LEV, TET  
+
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+AMC: amoxicillin-clavulanic acid, CTX: cefotaxime, CAZ: ceftazidime, FEP: cefepime, FOX: cefoxitin, ATM: aztreonam, NAL : nalidixic acid, CIP ciprofloxacin, LEV: levofloxacin,  
+TET: tetracycline, CHL: chloramphenicol, SXT: trimethoprim-sulfamethoxazole, GEN: gentamicin. 
+NT: ESBL gene-carrying plasmids non-typeable by PBRT; NA: pMLST analysis not available for the replicon carrying the resistance gene;  
+ND: not determined using the primers from the current pMLST database; *Phylogenetic groups were assigned for E. coli isolates. 
+The replicon type and the size of the plasmids that carried blaCTX-M genes are underlined.  
+The replicon carrying the resistance gene in E. coli isolates number MA1, MA86 and MA93 was not detectable by hybridization. 
+
+CTX-M-8 
+CTX-M-8 
+CTX-M-8 
+CTX-M-8 
+CTX-M-8 
+CTX-M-8 
+CTX-M-8 
+CTX-M-8 
+CTX-M-8 
+
+I1,FIB,Y,F 
+I1,FIB,Y,F 
+I1,FIB,Y,F 
+
+B1 
+A 
+A 
+A 
+D 
+D 
+D 
+A 
+A 
+
+IS10 
+IS10 
+IS10 
+IS10 
+IS10 
+IS10 
+
+50 
+50 
+50 
+50 
+50 
+50 
+50 
+50 
+50 
+
+ 
+D 
+H 
+L 
+A 
+A 
+A 
+E 
+E 
+
+I1,FIB,Y,F 
+
+I1,FIB,F 
+
+1 
+1 
+1 
+1 
+2 
+2 
+2 
+2 
+2 
+
+I1,F 
+I1 
+
+I1,F 
+I1,F 
+
+ST 113 
+ST 132 
+ST 132 
+ST 130 
+ST 131 
+ST 131 
+ST 131 
+
+ND 
+ND 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT

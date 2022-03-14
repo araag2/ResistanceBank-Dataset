@@ -1,0 +1,993 @@
+(cid:0)(cid:2)(cid:2)(cid:3)(cid:3)(cid:6) (cid:8)	(cid:2)(cid:13)
+
+Diversity of plasmids harbouring bla CMY −2 in multidrug-resistant Es-
+cherichia coli isolated from poultry in Brazil
+
+Joseane Cristina Ferreira, Rafael Antonio Casarin Penha Filho, Leonardo
+Neves Andrade, Angelo Berchieri Junior, Ana L´ucia Costa Darini
+
+PII:
+DOI:
+Reference:
+
+S0732-8893(17)30143-8
+doi: 10.1016/j.diagmicrobio.2017.04.014
+DMB 14343
+
+To appear in:
+
+Diagnostic Microbiology and Infectious Disease
+
+Received date:
+Revised date:
+Accepted date:
+
+7 February 2017
+18 April 2017
+26 April 2017
+
+Please cite this article as: Ferreira Joseane Cristina, Filho Rafael Antonio Casarin
+Penha, Andrade Leonardo Neves, Junior Angelo Berchieri, Darini Ana L´ucia Costa,
+Diversity of plasmids harbouring blaCMY −2 in multidrug-resistant Escherichia coli iso-
+lated from poultry in Brazil, Diagnostic Microbiology and Infectious Disease (2017), doi:
+10.1016/j.diagmicrobio.2017.04.014
+
+This is a PDF ﬁle of an unedited manuscript that has been accepted for publication.
+As a service to our customers we are providing this early version of the manuscript.
+The manuscript will undergo copyediting, typesetting, and review of the resulting proof
+before it is published in its ﬁnal form. Please note that during the production process
+errors may be discovered which could aﬀect the content, and all legal disclaimers that
+apply to the journal pertain.
+
+ 
+
+ 
+
+Diversity  of  plasmids  harbouring  blaCMY-2  in  multidrug-resistant  Escherichia  coli 
+
+isolated from poultry in Brazil 
+
+ 
+
+Joseane  Cristina  Ferreiraa,  Rafael  Antonio  Casarin  Penha  Filhob,  Leonardo  Neves 
+
+Andrade a, Angelo Berchieri Juniorb, Ana Lúcia Costa Dariniª* 
+
+ 
+
+Addresses: 
+
+aSchool of Pharmaceutical Sciences of Ribeirao Preto –University of Sao Paulo (USP), 
+
+Ribeirão Preto, SP, 14040-903, Brazil 
+
+bSchool of Agricultural and Veterinary Sciences – São Paulo State University (UNESP), 
+
+Jaboticabal, SP, 14884-900, Brazil 
+
+ 
+
+* Corresponding author 
+
+Address for correspondence: 
+
+Ana Lúcia Costa Darini 
+
+Departamento  de  Análises  Clínicas,  Toxicológicas  e  Bromatológicas,  Faculdade  de 
+
+Ciências Farmacêuticas de Ribeirão Preto, Universidade de São Paulo (USP), Ribeirão 
+
+Preto, SP, 14040-903, Brasil 
+
+phone +55 16 36024291; fax +55 16 36024725 
+
+e-mail: aldarini@fcfrp.usp.br 
+
+ 
+
+Running title: Plasmids harbouring blaCMY-2 in Escherichia coli from poultry in Brazil 
+
+ 
+
+Keywords:  AmpC  β-lactamases,  PBRT,  Enterobacteriaceae,  food-producing  animals, 
+
+chicken 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+Abstract  
+
+ 
+
+Multidrug-resistance  (MDR)  has  been  increasingly  reported  in  Gram-negative  bacteria 
+
+from  the  intestinal  microbiota,  environment  and  food-producing  animals.  Resistance 
+
+plasmids  able  to  harbour  different  transposable  elements  are  capable  to  mobilize 
+
+antimicrobial  resistance  genes  and  transfer  to  other  bacterial  hosts.  Plasmids  carrying 
+
+blaCMY are frequently associated with MDR. The present study assessed the presence of 
+
+plasmid-encoded ampC genes (blacmy, blamox, blafox, blalat, blaact, blamir, bladha, blamor) in 
+
+commensal  E.  coli  isolated  from  apparently  healthy  broiler  chickens.  Furthermore,  we 
+
+characterized  the  plasmids  and  identified  those  harboring  the  resistance  genes.  We 
+
+isolated  144/200  (72%)  of  E.  coli  isolates  with  resistance  to  cefotaxime  and  the 
+
+resistance  gene  identified  was  blaCMY-2.  The  pulsed-field  gel  electrophoresis  (PFGE) 
+
+analysis showed high diversity of the genetic profiles. The phylogenetic groups A, B1, 
+
+B2 and D were  identified  among E. coli isolates  and group D was the most  prevalent. 
+
+The  PCR-based  replicon  typing  (PBRT)  analysis  identified  four  distinct  plasmid 
+
+incompatibility groups (Inc) in MDR isolates.  Moreover, plasmids harbouring blaCMY-2, 
+
+ranged in size from 50kb to 150kb and 51/144 (35%) belonged to IncK, 21/144 (14.5%) 
+
+to  IncB/O,  8/144  (5.5%)  to  IncA/C,  1/144  (0.5%)  to  IncI,  while  63/144  (44.5%)  were 
+
+not  typeable  by  PBRT.  Overall,  a  high  prevalence  of  blaCMY-2  genes  was  found  in  a 
+
+diverse  population  of  commensal  MDR  E.  coli  from  poultry  in  Brazil,  harboured  into 
+
+different plasmids.  
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+1. Introduction 
+
+ 
+
+The  use  of  antibiotics  for  prevention  or  treatment  of  gastrointestinal  infections 
+
+and  as  growth  promoters  in  food-producing  animals  results  in  selective  pressure  for 
+
+commensal microbiota and pathogens in the gut environment. Commensal Escherichia 
+
+coli  have  shown  a  high  capability  to  acquire  and  carry  genes  and  mobile  genetic 
+
+elements  (MGE)  involved  in  antimicrobial  resistance.  Moreover,  commensal  E.  coli 
+
+also  have  the  ability  to  harbor  resistance  genes  and  disseminate  to  other  bacteria  (da 
+
+Costa et al., 2013). 
+
+ Overexpression of intrinsic chromosomal ampC gene and high levels of AmpC 
+
+protein may confer resistance to penicillin, third generation cephalosporins, β-lactamase 
+
+inhibitor  associated  with  β-lactams  and  cephamycins  (Pfeifer  et  al.,  2010).  In  E.  coli, 
+
+increased  expression  of  the  intrinsic  ampC  gene  depends  on  mutations  of  promoter 
+
+genes  (Pfeifer  et  al.,  2010).  However 
+
+,the  extended  spectrum  resistance 
+
+to 
+
+cephalosporins  generally  occurs  due  to  extended  spectrum  β-lactamase  (ESBL) 
+
+production or acquisition of plasmid-borne ampC β-lactamase (pAmpC) genes (Pfeifer 
+
+et al., 2010).  pAmpC have been isolated in E. coli and Salmonella from food-producing 
+
+animals in many countries, becoming well adapted to these bacterial reservoirs (Liebana 
+
+et  al.,  2013);  (Jacoby,  2009).  In  Brazil,  blaCMY-2  gene  is  rarely  identified  in  human 
+
+clinical  isolates  (Rocha  et  al.,  2015),  and  was  never  reported  in  live  food-producing 
+
+animals, only in retail poultry meat (Botelho et al., 2015).  
+
+The  survival  of  E.  coli  during  antimicrobial  therapy  can  occur  by  the  complex 
+
+interaction  of  different  mechanisms  that  confer  resistance  to  different  classes  of 
+
+antibiotics  at  the  same  time.  This  mechanism  include  drug  efflux  pump,  enzymatic 
+
+degradation    of  the  antibiotic  (e.g.  β-lactamases)  or  protection  of  antimicrobial  target 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+ 
+
+protein  (type  II  DNA  topoisomerases)  from  quinolones,  by  qnr  genes  proteins 
+
+(Rodriguez-Martinez et al., 2011, Szmolka and Nagy, 2013).  
+
+Resistance genes involved with enzymatic inactivation are frequently associated 
+
+with  MGE  (Ferreira  et  al.,  2016).  Thus,  the  transferability  capacity  is  higher,  which 
+
+facilitates 
+
+the  dissemination  of 
+
+resistance  among  E.  coli  and  even  other 
+
+Enterobacteriaceae (Liebana et al., 2013). 
+
+Among  the  MGE,  plasmids  have  been  described  as  the  most  efficient  tool 
+
+involved  in  the  acquisition  and  dissemination  of  antimicrobial  resistance  genes  in 
+
+Enterobacteriaceae.  The  role  of  plasmids  in  the  dissemination  and  maintenance  of 
+
+resistance  genes  among  multidrug-resistant  bacteria  (MDR)  has  been  increasingly 
+
+demonstrated by different studies (Fernandez-Alarcon et al., 2011, Hiki et al., 2013, Li 
+
+et  al.,  2007).  These  elements  are  well  adapted  to  the  respective  bacterial  hosts. 
+
+Conveniently  selected  by  the  progeny  due  to  the  abusive  use  of  antimicrobials, 
+
+resistance  plasmids  interfere  on  the  efficacy  of  therapies,  hampering  the  control  of 
+
+MDR  bacteria  (Canton  and  Ruiz-Garbajosa,  2011,  Carattoli,  2013,  Livermore,  2012). 
+
+Different  families  of  plasmids  have  been  identified,  although  epidemiological  data 
+
+shows  a  variable  frequency  of  dissemination.  Some  families,  such  as  IncI1,  IncHI1, 
+
+IncN and  IncA/C have been associated to MDR  pathogens. Their efficient conjugative 
+
+system  and  broad  host  range,  contribute  to  the  dissemination  in  commensal  and 
+
+pathogenic bacteria (Carattoli, 2013, Liebana et al., 2013).  
+
+Thus, 
+
+the  present  study  assessed 
+
+the  presence  of  extended  spectrum 
+
+cephalosporin-resistant  E.  coli,  pAmpC  genes,  determined  the  size  and  Inc  group  of 
+
+plasmids-carrying  ampC  genes  and  evaluated  the  population  structure  of  pAmpC-
+
+producing E. coli in the commensal microbiota of apparently healthy broiler chickens.  
+
+ 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+2. Material and methods 
+
+2.1. Isolates 
+
+ 
+
+ 
+
+Two-hundred  cloacal  swabs  were  obtained  from  commercial  broilers  in  two 
+
+poultry farms from São Paulo State, Brazil, from 2011 to 2012. Cloacal swab samples 
+
+were streaked on MacConkey  (MC) agar  containing cefotaxime (1µg/mL) and on MC 
+
+agar with ceftazidime (1µg/mL), incubated at 37°C for 24h. One colony from each plate 
+
+containing cefotaxime was selected to conduct the present study. The bacterial colonies 
+
+were  identified  by  classical  biochemical  methods  and  confirmed  by  API  20E  system 
+
+(bioMérieux, France). 
+
+ 
+
+2.2. Antimicrobial susceptibility testing  
+
+ 
+
+The  antimicrobial  susceptibility  of  the  isolates  were  determined  by  using  the 
+
+disk  diffusion  methods  (CLSI,  2012),  and  the  results  were  interpreted  according  to 
+
+recommendations  of  the  Clinical  and  Laboratory  Standards  Institute  (CLSI,  2013), 
+
+document  M100-S23.  Fifteen  antimicrobial  agents  were  tested,  including  β-lactam 
+
+antibiotics:  amoxicillin-clavulanic  acid 
+
+(AMC),  piperacillin/tazobactam 
+
+(TZP), 
+
+cefotaxime  (CTX),  ceftazidime  (CAZ),  cefoxitin  (FOX),  cefepime  (FEP),  aztreonam 
+
+(ATM),  ertapenem  (ETP)  and,  non  β-lactam  antibiotics:  nalidixic  acid  (NAL), 
+
+ciprofloxacin  (CIP),  levofloxacin  (LEV),  tetracycline  (TET),  gentamicin  (GEN), 
+
+trimethoprim-sulfamethoxazole (SXT) and chloramphenicol (CHL).  
+
+ 
+
+2.3. Pulsed-field gel electrophoresis (PFGE) and phylogenetic analysis 
+
+ 
+
+Genetic  relationship  among  isolates  was  determined  using  analysis  of  XbaI-
+
+digested  genomic  DNA  followed  by  PFGE,  performed  in  CHEF  DRIII  System  (Bio-
+
+Rad,  USA),  as  previously  described  (CDC,  2004).  Profiles  were  analysed  with  the 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+ 
+
+BioNumerics fingerprinting software v 5.0 (Applied Maths, Belgium). The normalized 
+
+profiles  were  compared  using  the  Dice  similarity  coefficient  and  the  dendrogram  was 
+
+constructed  with  the  unweighted-pair  group  method  using  arithmetic  average  linkage 
+
+algorithm (UPGMA). The homology cutoff value of 85% was used to group the related 
+
+isolates within the same PFGE-type. 
+
+ 
+
+The  phylogenetic  groups  were  assigned  by  PCR,  according  to  previously 
+
+described  method  (Clermont  et  al.,  2000).  Briefly,  this  method  characterizes  the 
+
+phylogenetic groups (A, B1, B2, or D) of each E. coli isolate based on the presence of 
+
+chuA, yjaA genes and TSPE4.C2 DNA fragment. 
+
+ 
+
+2.4. Detection of plasmid-mediated ampC genes  
+
+ 
+
+The investigation of blacmy, blamox, blafox, blalat, blaact, blamir, bladha, blamor, genes 
+
+was  carried  out  by  PCR  (D'Andrea  et  al.,  2006).  Purified  PCR  amplicons  (illustra™ 
+
+GFX™ PCR DNA and Gel Band Purification Kit, GE Healthcare, USA) were directly 
+
+sequenced  using 
+
+the  ABI  3730  DNA  Analyser 
+
+(Life  Technologies-Applied 
+
+Biosystems).  The  DNA  sequences  and  translated  amino  acid  sequences  obtained  were 
+
+compared  with 
+
+reference 
+
+sequences 
+
+from 
+
+the  LAHEY 
+
+home 
+
+page 
+
+(http://www.lahey.org/Studies/). 
+
+ 
+
+2.5. Characterization of plasmid replicon typing and genomic localization 
+
+ 
+
+After PCR and DNA sequencing, isolates carrying pAmpC genes were selected 
+
+for investigation and characterization of resistance plasmids. PCR-based replicon typing 
+
+(PBRT) method was used as previously described  (Carattoli et  al.,  2005) to  search for 
+
+major plasmid incompatibility (Inc) groups among  field E. coli isolates. Plasmid DNA 
+
+was  digested  with  S1  nuclease  and  analysed  on  PFGE  gels  (S1-PFGE).  Southern  blot 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+ 
+
+and  hybridizations  were  performed  as  described  previously  (Sambrook  et  al.,  1989) 
+
+using specific probes to locate the plasmid carrying the resistance gene. with .  
+
+ 
+
+2.6. Conjugation experiments 
+
+ 
+
+Transferability of plasmids carrying ampC β-lactamase genes was determined by 
+
+conjugation  using  as  recipient  strain  the  E.  coli  K12  C600,  which  is  streptomycin 
+
+resistant,  lactose  negative,  and  plasmid  free.  Transconjugants  were  selected  on 
+
+MacConkey  agar  containing  2  µg/mL  of  cefotaxime  and  300  µg/mL  of  streptomycin. 
+
+The  presence  of  acquired  ampC  genes  in  the  transconjugants  was  confirmed  by  PCR. 
+
+Inc groups of resistance plasmids from transconjugants were assigned using the PBRT 
+
+method. 
+
+ 
+
+3. Results and Discussion 
+
+Surveillance of antimicrobial resistance in commensal Enterobacteriaceae has a 
+
+critical  impact  to  evaluate  the  presence  and  the  prevalence  of  MDR  bacteria  and 
+
+resistance  genes  in  the  microbiota  of  food-producing  animals  (Szmolka  and  Nagy, 
+
+2013). The inappropriate use of antimicrobials in food-producing animals concerns the 
+
+food  safety  authorities.  Commensal  bacteria  found  in  gastrointestinal  tract  of  farm 
+
+animals may cause extraintestinal infections or  serve as reservoirs for resistance  genes 
+
+that could potentially be transferred to pathogenic organisms. The concept of “farm-to-
+
+fork” involves the risk of dissemination of pathogens through the food chain (Liebana et 
+
+al., 2013). Although there is little evidence  reported up to now (Huijbers et al., 2014), 
+
+this  concept  may  also  be  applicable  to  commensal  MDR  bacteria  considering  the 
+
+increasing prevalence found in livestock.  MDR bacteria present in raw meat and even 
+
+processed  food,  may  contaminate  humans  through  handling  and  consumption  of  these 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+ 
+
+products,  offering  risk  to  public  health  when  colonizing  the  community  or  causing 
+
+foodborne infections (Botelho et al., 2015, Landers et al., 2012).  
+
+In  the  present  study,  144  E.  coli  isolates  resistant  to  cefotaxime  (CTX)  were 
+
+obtained  from  the  culture  of  200  different  samples  of  cloacal  swabs.  Additionally, 
+
+isolates  resistant  to  CTX  also  showed  resistance  to  other  β-lactams  tested,  including 
+
+100% (144/144) resistance to AMC and 84% (121/144) to CAZ. Resistance to FOX was 
+
+present  in  90%  (130/144)  and  to  ATM  was  found  in  55%  (80/144)  of  the  isolates. 
+
+However, only  4% (6/144) of these isolates showed resistance to TZP and 100% were 
+
+susceptible  to  FEP  and  ETP.    Furthermore,  99%  (143/144)  of  the  isolates  were  also 
+
+resistant to the non-beta-lactam antibiotics NAL and CIP, 97% (140/144) to LEV, 75% 
+
+(108/144) to  TET,  50%  (73/144) to  GEN, 35%  (50/144) to  SXT  and  24% (34/144)  to 
+
+CHL  (Table 1).  
+
+Thus,  all  144  isolates  were  considered  MDR,  not-susceptible  to  at  least  one 
+
+agent in three or more antimicrobial categories (Magiorakos et al., 2012). Moreover, the 
+
+PCR  and  DNA  sequencing  showed  that  all  these  isolates  carried  the  resistance  gene 
+
+blaCMY-2. E. coli carrying pAmpC genes are usually co-resistant to other commonly used 
+
+antimicrobial  agents  (Liebana  et  al.,  2013).  The  persistence  and  dissemination  of 
+
+pAmpC-producing  isolates  in  food-producing  animals  may  be  aggravated  by  the 
+
+prophilatic  use  of  cephalosporins.  Co-resistance  phenotypes  are  also  involved  in  the 
+
+maintenance  of  resistance  genes  and  plasmids  in  E.  coli,  (Gouvêa  et  al.,  2015),  thus 
+
+other antimicrobials frequently used, such as fluoroquinolones, may also play a role in 
+
+the selection of MDR isolates in the animal environment  (Canton and Ruiz-Garbajosa, 
+
+2011, Szmolka and Nagy, 2013). 
+
+ The  distribution  of  phylogenetic  groups  has  been  suggested  to  be  related  with 
+
+health  status  or  geographical  region  of  each  host  species  analysed  (Asai  et  al.,  2011). 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+ 
+
+The E. coli phylogenetic group D was the most prevalent, containing 60% (87/144) of 
+
+the  isolates,  30%  (43/144)  were  assigned  to  the  phylogenetic  group  A,  6%  (8/144)  of 
+
+the  isolates  belonged  to  phylogenetic  group  B2  and  4%  (6/144)  belonged  to 
+
+phylogenetic  group  B1  (Table  1).  Similar  results  were  previously  described  on  E.  coli 
+
+harbouring  blaCMY-2  isolated  from  retail  chicken  meat  in  Brazil  (Botelho  et  al.,  2015). 
+
+Phylogenetic group D and B2 are associated virulent extra-intestinal E. coli (Clermont 
+
+et  al.,  2000).  Thus,  MDR  E.  coli  harbouring  blaCMY-2  from  both  these  phylogenetic 
+
+groups  may  have  the  capacity  to  cause  extra-intestinal  infections,  representing  higher 
+
+risk, in such cases when treatment is difficult.    
+
+The  clonal  dissemination  of  antimicrobial  resistance  has  been  reported, 
+
+highlighting  the  capability  of  resistant  strains  to  prevail  in  different  environments, 
+
+especially  communities  or  hospitals  (Liebana  et  al.,  2013).  However,  in  the  present 
+
+work,  among  144  E.  coli  isolates  carrying  blaCMY-2,  75  different  PFGE-types  were 
+
+found,  classified  within  21  clusters  (Table  1).  Thus,  we  show  a  non-clonal  E.  coli 
+
+population carrying the same resistance gene or even the same resistance plasmid (Table 
+
+1). The combination of a rich microbiological environment and the selective pressure in 
+
+current poultry production systems, caused by measures such as the use of antibiotics in 
+
+the  animal  feed,  might  contribute  for  the  successful  establishment  of  a  diverse 
+
+population of MDR bacteria.  
+
+Among  144  CTX-resistant  isolates,  all  harboured  blaCMY-2,  a  remarkable  high 
+
+rate  of  this  gene  in  broilers.  In  Europe,  blaCMY-2  is  the  most  prevalent  pAmpC  gene 
+
+(Liebana  et  al.,  2013).  However,  in  Brazil,  presence  of  this  gene  is  rarely  reported  in 
+
+clinical  isolates,  thus  the  continuous  surveillance  is  extremely  important  to  prevent 
+
+environmental dissemination or maintenance of this resistance gene in hospital bacteria 
+
+(Campana  et  al.,  2013,  Rocha  et  al.,  2015).  Recently,  this  gene  was  reported  in  retail 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+ 
+
+chicken  meat  in  Brazil  (Botelho  et  al.,  2015,  Mattiello  et  al.,  2015).  However,  the 
+
+present study reports for the first time the disseminated blaCMY-2 in commensal E. coli 
+
+isolates  from  the  microbiota  of  live  healthy  poultry  in  Brazil.  Together,  these  results 
+
+show  an  important  concern  to  the  public  and  animal  health.  The  high  prevalence  of 
+
+these  MDR  bacteria  in  the  animal  environment  and  retail  meat  may  represent  risk  of 
+
+dissemination to the human environment. 
+
+Resistance  plasmids  carrying  blaCMY-2  belonged  to  four  distinct  Inc  groups 
+
+corresponding to 51 (35%) from IncK, 21 (14.5%) from IncB/O, 8 (5.5%) from IncA/C 
+
+and  one  (0.5%)  from  IncI,  while  63  (44.5%)  plasmids  were  non-typeable  by  PBRT 
+
+(Table 1). As shown by the S1-PFGE, plasmids harbouring blaCMY-2 ranged in size from 
+
+50kb  to  150kb.  However,  the  large  size  did  not  prevent  the  resistance  plasmids  to  be 
+
+conjugative. These were successfully transferred to E. coli K12 C600, conferring CTX 
+
+resistance to this strain. The conjugative ability of resistance plasmids increases the risk 
+
+of  successful  dissemination  to  other  bacterial  hosts.  Thus,  commensal  E.  coli  carrying 
+
+these  MGE  may  be  capable  to  transfer  the  resistance  plasmids  to  pathogens  in  the 
+
+microbiota, such as Salmonella (Winokur et al., 2001). 
+
+The  dissemination  of  pAmpC  gene  in  both  humans  and  animals  has  been 
+
+associated to the IncF, IncI, IncN, IncA/C, IncL/M, and IncK plasmid families (Liebana 
+
+et  al.,  2013).  Plasmids  co-harbouring  multidrug-resistance  determinants  are  usually 
+
+large  (>50  kb),  self-conjugative,  and  may  encode  resistance  to  all  main  antimicrobial 
+
+classes  used  in  therapies,  including  β-lactams,  quinolones,  fluoroquinolones  and 
+
+tetracyclines.  Moreover,  these  plasmids  are  highly  efficient  in  acquisition  and 
+
+transmission of most resistance genes (Carattoli, 2013).   
+
+The  Inc  groups  of  plasmids  identified  in  this  study  have  been  previously 
+
+associated  with  CMY-2-producing  Enterobacteriaceae  worldwide  (Hiki  et  al.,  2013, 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+ 
+
+Voets et al., 2013), but never described in isolates from Brazil. In 2010, IncI1 and IncK 
+
+plasmids  harbouring  blaCMY-2  were  detected  in  live  poultry  and  hospital  patients  in 
+
+Netherlands (Dierikx et al., 2010). The same plasmid replicons were later described in 
+
+isolates from retail poultry meat in the same country in 2013, suggesting the association 
+
+between  these  isolates  (Voets  et  al.,  2013).  In  Japan,  the  presence  of  IncB/O  carrying 
+
+blaCMY-2 in E. coli from livestock animals was recently described for the first time (Hiki 
+
+et al., 2013). IncA/C plasmid replicon has been associated with the spread of blaCMY-2 in 
+
+E. coli and Salmonella spp. isolated from humans in the United States (Carattoli, 2009). 
+
+Furthermore,  plasmids  harbouring  blaCMY-2  frequently  harbour  other  resistance  genes 
+
+associated to different antimicrobial classes (Hiki et al., 2013), increasing the spectrum 
+
+of resistance. In Australia, the replicons IncI1 and IncF were identified carrying blaCMY-
+
+2  in  E.  coli,  however  IncI1  was  predominant  in  this  country,  present  in  96%  of  the 
+
+isolates (Sidjabat et al., 2014, Tagg et al., 2015).  According to our findings, IncK was 
+
+the most frequent plasmid typeable by PBRT, carrying the gene blaCMY-2 in different E. 
+
+coli  PFGE-types.  These  results  may  suggest  a  higher  conjugation  and  dissemination 
+
+capacity  of  this  replicon,  and  further  studies  may  also  identify  this  replicon  in  CTX 
+
+resistant isolates from Brazil.  
+
+Plasmid-mediated AmpC in  E.  coli  from  retail  chicken meat  was found  for the 
+
+first time in 2015 in Brazil (Botelho et al., 2015). In Europe, Asia and United States, E. 
+
+coli  carrying  blaCMY-2  has  already  been  reported  in  food-producing  animals,  however 
+
+the prevalence in the United States is high, in both food-producing animals and humans 
+
+(Carattoli, 2008, Hiki et al., 2013, Winokur et al., 2001). In Brazil, there are no reports 
+
+characterizing  the  plasmids  Inc  groups  carrying  blaCMY-2  in  human  clinical  isolates.  In 
+
+this  study,  only  IncA/C  plasmids  carrying  blaCMY-2  were  identified  in  E.  coli  isolates 
+
+from  phylogenetic  group  B2,  usually  characterized  as  the  most  virulent  in  comparison 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+ 
+
+with other groups. These findings brought new knowledge involving the dissemination 
+
+of  blaCMY-2  in  live  poultry  from  farms  in  Brazil.  Although  there  is  little  evidence  of 
+
+dissemination through the food chain,  farm  workers in  animal  production  facilities are 
+
+exposed  to  higher  risks  of  contamination  by  MDR  E.  coli  of  animal  origin,  which  is 
+
+another via of community colonization (da Costa et al., 2013).  
+
+E.  coli  are  efficient  hosts,  capable  to  receive  and  disseminate  resistance  to 
+
+antimicrobials,  through  resistance  determinants,  associated  to  MGE  that  can  be 
+
+horizontally transferred. Furthermore, these bacteria have high potential to harbour and 
+
+become reservoirs of antimicrobial resistance genes (da Costa et al., 2013).  Overall our 
+
+results  show  a  high  rate  (72%)  of  blaCMY-2  disseminated  by  different  plasmid  replicon 
+
+types,  in  a  diverse  commensal  E.  coli  population.  These  findings,  taken  together  with 
+
+other  recent  studies  worldwide,  demonstrate  the  disseminated  resistance  to  third 
+
+generation  cephalosporins  in  apparently  healthy  food-producing  animals,  which  may 
+
+impact  on  reduced  therapeutic  options  and  concern  the  public  health  due  to  the 
+
+environmental contamination by these MDR bacteria. 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+Conflict of interest statement 
+
+None to declare. 
+
+ 
+
+Acknowledgements 
+
+ 
+
+We  would  like  to  thank  DVM  Mark  Ishi,  who  contributed  for  sampling  in  poultry 
+
+farms,  and  Dr.  Luke  Richards  for  his  kind  review  of  the  text.  São  Paulo  Research 
+
+Foundation (FAPESP) for the constant support for our research (Grant 2014/14494-8). 
+
+L.N.A.  was  supported  by  post-doctoral  fellowship  from  Coordination  for  the 
+
+Improvement of the Higher Education Personnel (CAPES/PNPD 2015) and R.A.C.P.F. 
+
+was  supported  by  post-doctoral  fellowship,  grant  2012/24017-7,  Sao  Paulo  Research 
+
+Foundation (FAPESP). 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+Reference 
+
+ 
+
+Asai  T,  Masani  K,  Sato  C,  Hiki  M,  Usui  M,  Baba  K,  et  al.  Phylogenetic  groups  and 
+
+cephalosporin  resistance  genes  of  Escherichia  coli  from  diseased  food-producing 
+
+animals in Japan. Acta Vet Scand 2011;53:52. 
+
+Botelho LA, Kraychete GB, Costa e Silva JL, Regis DV, Picao RC, Moreira BM, et al. 
+
+Widespread  distribution  of  CTX-M  and  plasmid-mediated  AmpC  beta-lactamases  in 
+
+Escherichia  coli 
+
+from  Brazilian  chicken  meat.  Mem 
+
+ 
+
+Inst  Oswaldo  Cruz 
+
+2015;110(2):249-54. 
+
+Campana  EH,  Barbosa  PP,  Fehlberg  LC,  Gales  AC.  Frequency  of  plasmid-mediated 
+
+AmpC  in  Enterobacteriaceae  isolated  in  a  Brazilian  Teaching  Hospital.  Braz  J 
+
+Microbiology; 2013;44(2):477-80. 
+
+Canton  R,  Ruiz-Garbajosa  P.  Co-resistance:  an  opportunity  for  the  bacteria  and 
+
+resistance genes. Curr Opin Pharmacol 2011;11(5):477-85. 
+
+Carattoli  A.  Animal  reservoirs  for  extended  spectrum  beta-lactamase  producers.  Clin 
+
+Microbiol Infect 2008;14 Suppl 1:117-23. 
+
+Carattoli  A.  Resistance  plasmid  families  in  Enterobacteriaceae.  Antimicrob  Agents 
+
+Chemother 2009;53(6):2227-38. 
+
+Carattoli  A.  Plasmids  and  the  spread  of  resistance.  Int  Journal  Medl  Microbiol 
+
+2013;303(6-7):298-304. 
+
+Carattoli  A,  Bertini  A,  Villa  L,  Falbo  V,  Hopkins  KL,  Threlfall  EJ.  Identification  of 
+
+plasmids by PCR-based replicon typing. J Microbiol Methods 2005;63(3):219-28. 
+
+CDC  Oneday(24–28h)  standardized  laboratory  protocol  for  molecular  subtyping  of 
+
+Escherichia coli O157:H7, non-typhoidal Salmonella serotypes, and Shigella sonnei by 
+
+pulsed field gel electrophoresis (PFGE). In: PulseNet PFGE Manual. 2004. 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+ 
+
+Clermont O, Bonacorsi S, Bingen E. Rapid and simple determination of the Escherichia 
+
+coli phylogenetic group. Appl Environ Microbiol 2000;66(10):4555-8. 
+
+CLSI  Performance  Standards  for  Antimicrobial  Disk  Susceptibility  Tests;  Approved 
+
+Standard. M02-A12. Wayne, PA2012. 
+
+CLSI Performance Standards for Antimicrobial Susceptibility Testing; Twenty-Second 
+
+Informational  Supplement.  CLSI  document  M100-S23.  Wayne,  PA:  Clinical  and 
+
+Laboratory Standards Institute (CLSI); 2013. 
+
+D'Andrea MM, Nucleo E, Luzzaro F, Giani T, Migliavacca R, Vailati F, et al. CMY-16, 
+
+a  novel  acquired  AmpC-type  beta-lactamase  of  the  CMY/LAT  lineage  in  multifocal 
+
+monophyletic  isolates  of  Proteus  mirabilis  from  northern  Italy.  Antimicrob  Agents 
+
+Chemother 2006;50(2):618-24. 
+
+da  Costa  PM,  Loureiro  L,  Matos  AJ.  Transfer  of  multidrug-resistant  bacteria  between 
+
+intermingled  ecological  niches:  the  interface  between  humans,  animals  and  the 
+
+environment. Int J Environ Res Public Health 2013;10(1):278-94. 
+
+Dierikx  C,  van  Essen-Zandbergen  A,  Veldman  K,  Smith  H,  Mevius  D.  Increased 
+
+detection  of  extended  spectrum  beta-lactamase  producing  Salmonella  enterica  and 
+
+Escherichia coli isolates from poultry. Vet Microbiol 2010;145(3-4):273-8. 
+
+Fernandez-Alarcon  C,  Singer  RS,  Johnson  TJ.  Comparative  genomics  of  multidrug 
+
+resistance-encoding IncA/C plasmids from commensal and pathogenic Escherichia coli 
+
+from multiple animal sources. PloS one 2011;6(8):e23415. 
+
+Ferreira JC, Penha Filho RA, Andrade  LN, Berchieri  Junior A, Darini AL.  Evaluation 
+
+and characterization of plasmids carrying CTX-M genes in  a non-clonal population  of 
+
+multidrug-resistant Enterobacteriaceae isolated from poultry in Brazil. Diagn Microbiol 
+
+Infect Dis 2016;85(4):444-8. 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+ 
+
+Gouvêa R, dos Santos  F, Aquino M, Pereira V.  Fluoroquinolones in  industrial poultry 
+
+production,  bacterial  resistance  and  food  residues:a  review.  Rev  Bras  Cienc  Avic 
+
+2015;17:1-10. 
+
+Hiki M, Usui M, Kojima A, Ozawa M, Ishii Y, Asai T. Diversity of plasmid replicons 
+
+encoding  the  blaCMY-2  gene  in  broad-spectrum  cephalosporin-resistant  Escherichia  coli 
+
+from livestock animals in Japan. Foodborne Pathog Dis 2013;10(3):243-9. 
+
+Huijbers PM, Graat EA, Haenen AP, van Santen MG, van Essen-Zandbergen A, Mevius 
+
+DJ,  et  al.  Extended-spectrum  and  AmpC  beta-lactamase-producing  Escherichia  coli  in 
+
+broilers and people living and/or working on broiler farms: prevalence, risk factors and 
+
+molecular characteristics. J Antimicrob Chemother 2014;69(10):2669-75. 
+
+Jacoby  GA.  AmpC  beta-lactamases.  Clin  Microbiol  Rev  2009;22(1):161-82,  Table  of 
+
+Contents. 
+
+Landers  TF,  Cohen  B,  Wittum  TE,  Larson  EL.  A  review  of  antibiotic  use  in  food 
+
+animals: perspective, policy, and potential. Public Health Rep 2012;127(1):4-22. 
+
+Li  XZ,  Mehrotra  M,  Ghimire  S,  Adewoye  L.  beta-Lactam  resistance  and  beta-
+
+lactamases in bacteria of animal origin. Vet Microbiol 2007;121(3-4):197-214. 
+
+Liebana E, Carattoli A, Coque TM, Hasman H, Magiorakos AP, Mevius D, et al. Public 
+
+health risks of enterobacterial isolates producing extended-spectrum beta-lactamases or 
+
+AmpC  beta-lactamases  in  food  and  food-producing  animals:  an  EU  perspective  of 
+
+epidemiology,  analytical  methods,  risk  factors,  and  control  options.  Clin  Infect  Dis 
+
+2013;56(7):1030-7. 
+
+Livermore  DM.  Current  epidemiology  and  growing  resistance  of  gram-negative 
+
+pathogens. Korean J Intern Med 2012;27(2):128-42. 
+
+Magiorakos  AP,  Srinivasan  A,  Carey  RB,  Carmeli  Y,  Falagas  ME,  Giske  CG,  et  al. 
+
+Multidrug-resistant,  extensively  drug-resistant  and  pandrug-resistant  bacteria:  an 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+ 
+
+international  expert  proposal  for  interim  standard  definitions  for  acquired  resistance. 
+
+Clin Microbiol Infect 2012;18(3):268-81. 
+
+Mattiello SP, Drescher G, Barth VC, Jr., Ferreira CA, Oliveira SD. Characterization of 
+
+antimicrobial  resistance  in  Salmonella  enterica  strains  isolated  from  Brazilian  poultry 
+
+production. Anton Leeuw 2015;108(5):1227-38. 
+
+Pfeifer Y, Cullik A, Witte W. Resistance to cephalosporins and carbapenems in Gram-
+
+negative bacterial pathogens. Int J Med Microbiol 2010;300(6):371-9. 
+
+Rocha  DA,  Campos  JC,  Passadore  LF,  Sampaio  SC,  Nicodemo  AC,  Sampaio  JL. 
+
+Frequency  of  Plasmid-Mediated  AmpC  beta-Lactamases  in  Escherichia  coli  Isolates 
+
+from Urine Samples in Sao Paulo, Brazil. Microb Drug Resist 2015. 
+
+Rodriguez-Martinez  JM,  Cano  ME,  Velasco  C,  Martinez-Martinez  L,  Pascual  A. 
+
+Plasmid-mediated quinolone resistance: an update. J Infect Chemother 2011;17(2):149-
+
+82. 
+
+Sambrook J, Fritsch EF, Maniatis T. Molecular cloning: a laboratory manual. 2nd ed ed. 
+
+NewYork: Cold Spring Harbor Laboratory Press1989. 
+
+Sidjabat HE, Seah KY, Coleman L, Sartor A, Derrington P, Heney C, et al. Expansive 
+
+spread of IncI1 plasmids carrying  blaCMY-2 amongst Escherichia coli. Int  J Antimicrob 
+
+Agents 2014;44(3):203-8. 
+
+Szmolka A, Nagy B. Multidrug resistant commensal Escherichia coli in animals and its 
+
+impact for public health. Front Microbiol 2013;4:258. 
+
+Tagg KA, Ginn AN, Jiang X, Ellem J, Partridge SR, Iredell JR. Distribution of acquired 
+
+AmpC  beta-lactamase  genes  in  Sydney,  Australia.  Diagn  Microbiol  Infect  Dis 
+
+2015;83(1):56-8. 
+
+Voets GM, Fluit AC, Scharringa J, Schapendonk C, van den Munckhof T, Leverstein-
+
+van Hall MA, et al. Identical plasmid AmpC beta-lactamase genes and plasmid types in 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+ 
+
+E. coli isolates from patients and poultry meat in the Netherlands. Int J Food Microbiol 
+
+2013;167(3):359-62. 
+
+Winokur  PL,  Vonstein  DL,  Hoffman  LJ,  Uhlenhopp  EK,  Doern  GV.  Evidence  for 
+
+transfer  of  CMY-2  AmpC  beta-lactamase  plasmids  between  Escherichia  coli  and 
+
+Salmonella  isolates  from  food  animals  and  humans.  Antimicrob  Agents  Chemother 
+
+2001;45(10):2716-22. 
+
+ 
+
+ 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+ 
+
+ 
+
+Table 1 Characteristics of the CMY-2 producing E. coli isolates from commercial 
+broiler chickens from Brazil 
+ 
+ 
+ 
+ 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT 
+
+Highlights 
+
+ 
+
+  Evaluation of antimicrobial resistance in enterobacteria from commercial chickens    
+  blaCMY-2  gene was first described in live healthy food-producing animals in Brazil 
+  Multidrug resistance (MDR) in commensal E. coli isolated from chickens 
+  High prevalence of blaCMY-2   in poultry in Brazil 
+  Dissemination of blaCMY-2   occurred by plasmids of diverse replicon types 
+
+ACCEPTED MANUSCRIPTACCEPTED MANUSCRIPT

@@ -1,0 +1,2584 @@
+Infection and Drug Resistance
+
+Dovepress
+
+O R Ig In a l   R e s e aRc h
+
+Phenotypic and molecular characteristics of 
+methicillin-resistant and methicillin-susceptible 
+Staphylococcus aureus isolated from pigs: 
+implication for livestock-association markers  
+and vaccine strategies
+
+Dan guo   
+Yangqun liu   
+changlin han   
+Zhiyao chen   
+Xiaohua Ye
+laboratory of Molecular 
+epidemiology, school of Public health, 
+guangdong Pharmaceutical University, 
+guangzhou, china
+
+Background: Routine non-therapeutic antimicrobial use and overcrowding in animal farming 
+may facilitate the propagation of methicillin-resistant Staphylococcus aureus (MRSA). This 
+study  aimed  to  examine  the  carriage  prevalence  and  phenotype–genotype  characteristics  of 
+MRSA and methicillin-susceptible S. aureus isolated from pigs.
+Methods: Nasal swabs were collected from 1,458 pigs in 9 pig farms and 3 slaughterhouses. 
+All strains were tested for antimicrobial susceptibility, resistance genes, and virulence genes, 
+and characterized by multilocus sequence typing. The correspondence analysis was conducted 
+to explore the relationships between multiple phenotypic and molecular characteristics of S. 
+aureus isolates.
+Results: In the 1,458 pigs, the carriage prevalence was 9.5% for S. aureus, 3.3% for MRSA, 
+and 9.3% for multidrug-resistant S. aureus. Notably, 97.1% S. aureus isolates were multidrug 
+resistant, and the predominant resistance pattern was non-susceptible to clindamycin, tetracycline, 
+and erythromycin. The predominant genotype was CC9 (ST9) for S. aureus and MRSA isolates. 
+Importantly, all S. aureus isolates were negative for the scn gene and resistant to tetracycline. 
+Notably, all 9 linezolid-resistant isolates were classified as multidrug resistance, including 1 
+expressing the cfr gene and 6 expressing the optrA gene. The correspondence analysis showed 
+a significant relationship between clonal complexes and resistance pattern or virulence genes. 
+For example, CC9 was associated with extensive drug-resistance and co-carrying chp, sak, and 
+hlb, and CC1 was associated with multidrug resistance and co-carrying sak and hlb.
+Conclusion:  The  significant  correspondence  relationship  between  multiple  characteristics 
+provides some implication for vaccine strategies and new ideas for monitoring new epidemio-
+logic clones.
+Keywords: livestock, animals, Staphylococcus aureus, antimicrobial susceptibility, multidrug 
+resistance, molecular characterization
+
+correspondence: Xiaohua Ye
+laboratory of Molecular epidemiology, 
+school of Public health, guangdong 
+Pharmaceutical University, 283 Jianghai 
+street, guangzhou 510310, china
+Tel +86 203 405 5121
+Fax +86 203 405 5355
+email smalltomato@163.com
+
+Introduction
+Methicillin-resistant Staphylococcus aureus (MRSA) is an important cause of noso-
+comial infections worldwide.1 Human-related MRSA is usually divided into 2 types 
+according to epidemiological and molecular characteristics, including community-
+associated and hospital-associated MRSA. However, latest evidence has revealed that 
+the epidemiological trend has changed with the increasing appearance of livestock-
+
+submit your manuscript | www.dovepress.com
+Dovepress 
+http://dx.doi.org/10.2147/IDR.S173624
+
+Infection and Drug Resistance 2018:11 1299–1307
+
+1299
+© 2018 Guo et al. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms. 
+php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (http://creativecommons.org/licenses/by-nc/3.0/). By accessing the work 
+
+you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For 
+permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).
+
+open access to scientific and medical researchOpen Access Full Text Article Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 178.159.100.148 on 11-Sep-2018For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1guo et al
+
+Dovepress
+
+associated MRSA (LA-MRSA). In Asia, the most common 
+lineage of LA-MRSA is ST9; while in Europe and North 
+America, ST398 isolates are most prevalent.2 Notably, there is 
+increasing emergence of outbreaks of LA-MRSA in hospitals 
+and invasive LA-MRSA infections in humans.3 Therefore, 
+LA-MRSA has become an important public health issue that 
+warrants close monitoring.
+
+More and more evidence revealed that non-therapeutic 
+antimicrobial use and overcrowding in animal farming may 
+facilitate  the  spread  of  LA-MRSA.4,5 Additionally,  recent 
+reports found that LA-MRSA could colonize in multiple ani-
+mals and related workers.2,6–9 Notably, MRSA epidemiology 
+in livestock is increasing and the resulting food products may 
+become contaminated through the MRSA-positive livestock, 
+polluted  environment,  and  related  workers.10–12  Foodstuffs 
+contaminated by MRSA have been found recently, suggest-
+ing the possibility of spread to humans through consumption 
+and meat handling.13–15 Therefore, there is a growing concern 
+that MRSA of animal origin may be transmitted by the food 
+chain  or  contact  with  colonized  animals.  It  is  noteworthy 
+that specific markers for S. aureus species association are 
+still uncertain. Although some studies have identified LA-
+MRSA from farm and slaughterhouse animals in Asia,2 there 
+is still little evidence of potential genetic markers for live-
+stock association of MRSA isolates, and not much is known 
+about potential relationships between molecular typing and 
+phenotype–genotype characteristics of MRSA isolates using 
+statistical testing methods. Therefore, we undertook a cross-
+sectional study in pig farms and slaughterhouses to sample 
+pigs for S. aureus analysis. This study aimed to examine the 
+carriage prevalence, antimicrobial susceptibility, virulence 
+genes, and molecular typing of S. aureus isolates. Addition-
+ally, this study builds on previous research to explore the 
+high-dimensional  relationships  between  molecular  typing 
+and phenotype–genotype characteristics of S. aureus isolates 
+using correspondence analysis.
+
+Methods
+study design and sample collection
+This cross-sectional study was conducted from May to July 
+2015 in Jiangmen, China. The target population was pigs, 
+which were sampled by the method of multistage sampling 
+process. First, 3 county-level cities were randomly sampled 
+from 7 county-level city in Jiangmen city. Second, in each 
+county-level  city,  3  pig  farms  and  1  slaughterhouse  were 
+selected to reach a sample size of about 140 farm pigs and 
+350 slaughterhouse pigs. In all, 1,458 pigs were sampled in 
+this survey, including 411 pigs from 9 pig farms and 1,047 
+
+pigs from 3 slaughterhouses. Of these, 194 were piglets (<3 
+months)  and  1,264  were  grower  pigs  (≥3  months).  Non-
+duplicate swabs were obtained from both nares of each pig.
+
+Bacterial isolation and identification
+Swabs were soaked into 5-mL enrichment broth (0.25% yeast 
+extract, 1% mannitol, 1% tryptone, and 7.5% NaCl) at 4°C 
+during transportation, and incubated at 35°C ± 1°C for 24 
+hours. Then a loopful of the broth was plated onto mannitol 
+salt agar and incubated at 37°C for 24–48 hours. Suspected 
+colonies were selected and subcultured to 5% sheep blood 
+agar plates and incubated at 35°C ± 1°C overnight. S. aureus 
+or MRSA isolates were confirmed by a combination of mor-
+phology, Gram staining, catalase test, tube coagulase test, 
+DNase test, and polymerase chain reaction (PCR) assays for 
+the carriage of the staphylococci 16S rRNA, nuc and mecA 
+(or mecC) genes.16,17 All S. aureus isolates carried the 16S 
+rRNA and nuc genes, and all MRSA isolates carried the 16S 
+rRNA, nuc and mecA (or mecC) genes.
+
+antimicrobial susceptibility testing and 
+resistant genes
+Antimicrobial susceptibility testing was performed by the 
+disk  diffusion  method  according  to  the  recommendations 
+of  the  Clinical  and  Laboratory  Standards  Institute  (CLSI, 
+2015).18 Susceptibility was tested to the following antibiotic 
+disks: cefoxitin (30 µg), erythromycin (15 µg), clindamycin 
+(2 µg), tetracycline (30 µg), trimethoprim-sulfamethoxazole 
+(25 µg), rifampin (5 µg), chloramphenicol (30 µg), cipro-
+floxacin (5 µg), gentamicin (10 µg), quinupristin-dalfopristin 
+(15  µg),  and  linezolid  (30  µg). According  to  the  CLSI 
+guidelines, S. aureus isolates were classified as susceptible, 
+intermediate,  or  resistant  to  each  antibiotic.  Multidrug-
+resistant (MDR) S. aureus (MDRSA) was defined as being 
+non-susceptible to ≥1 agent in ≥3 antimicrobial categories, 
+extensively drug-resistant (XDR) S. aureus was defined as 
+being non-susceptible to ≥1 agent in all but ≤2 categories, 
+and pan-drug-resistant (PDR) S. aureus was defined as being 
+non-susceptible to all antimicrobial agents listed.19 For all 
+S.  aureus  isolates,  the  presence  of  erythromycin-resistant 
+genes (erm[A] and erm[C]) and tetracycline-resistant genes 
+(tet[M] and tet[K]) was determined by PCR tests described 
+previously.20 For linezolid-resistant isolates, the presence of 
+resistant genes (cfr and optrA) was determined by PCR tests.21
+
+Molecular characterization
+For  all  S.  aureus  isolates,  multilocus  sequence  typing 
+(MLST) was performed as previously described.22 Alleles and 
+
+1300
+
+submit your manuscript | www.dovepress.com
+Dovepress 
+
+Infection and Drug Resistance 2018:11
+
+ Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 178.159.100.148 on 11-Sep-2018For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1Dovepress
+
+Pig-related MRsa and Mssa
+
+sequence types (STs) were assigned by submitting the DNA 
+sequences to the MLST database (http://saureus.mlst.net). 
+BURST analysis was conducted to analyze clonal complexes 
+(CCs) using eBURST V3 software program (Department of 
+Infectious Disease Epidemiology, Imperial College London, 
+London, UK; http://eburst.mlst.net). We conducted specific 
+PCR tests for the presence of the Panton–Valentine leucocidin 
+(pvl) toxin gene, the immune evasion cluster (IEC) genes 
+(scn, chp, sea, sak, and sep), the beta-hemolysin gene (hlb) 
+and the staphylococcal cassette chromosome mec element 
+(SCCmec) type.23–25
+
+Data analysis
+The differences in S. aureus (including MRSA and MDRSA) 
+carriage between groups were determined using the Pearson’s 
+chi-squared test or Fisher’s exact test when appropriate. Since 
+correspondence analysis provides a useful graphic and statis-
+tical method for exploring the internal relationship between 
+categorical variables, we used the correspondence analysis to 
+explore potential relationships between CC and phenotype–
+genotype characteristics of S. aureus isolates. These analyses 
+were performed using STATA version 14.0 (StataCorp LP, 
+College Station, TX, USA), and a 2-sided P value of <0.05 
+was defined as being of statistical significance.
+
+ethics statement
+Ethics  approval  for  the  study  was  obtained  from  the  Eth-
+ics  Committee  of  Guangdong  Pharmaceutical  University, 
+Guangzhou, China.
+
+(3.3%) MRSA isolates. All MRSA isolates carried the mecA 
+gene,  but  all  these  isolates  were  absent  of  the  mecC  (the 
+novel mecA homolog). When comparing the carriage rates 
+between farm and slaughterhouse pigs, there were statistically 
+significant differences in the carriage of S. aureus (6.8% vs 
+10.6%; P=0.027) and MDRSA (6.8% vs 10.2%; P=0.043). 
+When  comparing  the  carriage  rates  between  piglets  and 
+grower pigs, there were statistically significant differences in 
+the carriage of S. aureus (4.1% vs 10.4%; P=0.006).
+
+antibiotic susceptibility and resistance 
+genes
+Among 139 S. aureus isolates, most of isolates were resistant 
+to  clindamycin  (97.1%),  tetracycline  (96.4%),  erythromy-
+cin  (92.8%),  and  trimethoprim-sulfamethoxazole  (82.7%) 
+(Table  2).  Notably,  87  isolates  were  resistant  to  cefoxitin, 
+including 48 MRSA and 39 non-MRSA isolates. Addition-
+ally, 135 (97.1%) isolates were classified as MDRSA, with 
+the most common resistance pattern being non-susceptible 
+to clindamycin, tetracycline, and erythromycin (Figure 1). In 
+terms of the macrolide-resistant genes (Table 2), the most 
+predominant gene was erm(C) (79.1%), followed by erm(A) 
+(5.0%). Additionally, there were 6 (4.3%) isolates co-express-
+ing erm(C) and erm(A). In terms of the tetracycline-resistant 
+genes, 87 (62.6%) carried the tet(K) and 81 (58.3%) carried 
+the tet(M). In addition, 51 (36.7%) isolates co-expressed the 
+tet(K) and tet(M). Notably, all linezolid-resistant isolates (9 
+isolates) were classified as MDRSA, including 1 expressing 
+the cfr gene and 6 expressing the optrA gene.
+
+Results
+S. aureus, MRsa, and MDRsa detection in 
+pigs
+Of 1,458 pigs sampled in this survey (Table 1), 139 (9.5%) 
+carried  S.  aureus,  including  135  (9.3%)  MDRSA  and  48 
+
+Molecular characteristics
+Among  139  S.  aureus  isolates  (Table  3),  we  observed  40 
+unique STs belonging to 11 CCs. The most common S. aureus 
+CCs  were  CC9  (73  isolates),  CC1  (17  isolates),  and  CC5 
+(15 isolates), with the predominant MRSA being CC9 (28 
+
+Table 1 Prevalence of S. aureus, MRsa, and MDRsa among 1,458 pigs in Jiangmen, china
+MRSA
+Characteristics
+n2 (%)
+48 (3.3)
+
+S. aureus
+n1 (%)
+139 (9.5)
+
+No. of samples (%)
+
+1,458 (100.0)
+
+P-value
+
+Total
+sample type
+Farm pigs
+slaughterhouse pigs
+age group
+Piglets (<3 months)
+grower pigs (≥3 months)
+Abbreviations: S. aureus, Staphylococcus aureus; MRsa, methicillin-resistant S. aureus; MDRsa, multidrug-resistant S. aureus; n1, number of S. aureus isolates; n2, number of 
+MRsa isolates; n3, number of MDRsa isolates.
+
+194 (13.3)
+1,264 (86.7)
+
+411 (28.2)
+1,047 (71.8)
+
+8 (4.1)
+131 (10.4)
+
+28 (6.8)
+111 (10.6)
+
+28 (6.8)
+107 (10.2)
+
+17 (4.1)
+31 (3.0)
+
+5 (2.6)
+43 (3.4)
+
+0.043
+
+0.215
+
+0.027
+
+0.006
+
+0.258
+
+0.549
+
+P-value
+
+P-value
+
+MDRSA
+n3 (%)
+135 (9.3%)
+
+8 (4.1)
+127 (6.4)
+
+Infection and Drug Resistance 2018:11
+
+submit your manuscript | www.dovepress.com
+Dovepress 
+
+1301
+
+ Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 178.159.100.148 on 11-Sep-2018For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1guo et al
+
+Dovepress
+
+Table  2  antibiotic  susceptibility  and  resistance  genes  of  139 
+Staphylococcus aureus isolates
+
+Phenotype (resistance)
+
+Genotype 
+(positive)
+
+tet(M)
+tet(K)
+
+erm(a)
+erm(c)
+
+clindamycin
+Tetracycline
+
+erythromycin
+
+Trimethoprim-sulfamethoxazole
+gentamicin
+chloramphenicol
+cefoxitin
+Rifampin
+Ciprofloxacin
+Quinupristin-dalfopristin
+linezolid
+
+No. of positive 
+isolates (%)
+135 (97.1)
+134 (96.4)
+81 (58.3)
+87 (62.6)
+129 (92.8)
+7 (5.0)
+110 (79.1)
+115 (82.7)
+65 (46.8)
+87 (62.6)
+87 (62.6)
+51 (36.7)
+47 (33.8)
+17 (12.2)
+9 (6.5)
+
+isolates) and CC1 (10 isolates). The most common S. aureus 
+STs were ST9 (33 isolates), ST2931 (13 isolates), ST920 
+(12  isolates),  ST2454  (11  isolates),  and  ST1  (8  isolates). 
+Among 48 MRSA isolates, the predominant STs were ST9 
+(19  isolates,  including  12  isolates  for  SCCmec  IV,  5  for 
+non-types I–VII, 1 for SCCmec III, and 1 for SCCmec V) 
+and ST1 (5 isolates, including 2 isolates for SCCmec IV, 2 
+for non-types I–VII, and 1 for SCCmec V). As to the IEC 
+genes, 112 (80.6%) isolates expressed the sak, followed by 
+the chp (60.4%), sea (15.8%), and sep (8.6%). Notably, scn 
+gene was absent in all the S. aureus isolates. Additionally, 
+hlb  was  present  in  82  (59.0%)  isolates,  but  pvl  was  only 
+found in 1 isolate.
+
+Relationships between predominant ccs 
+and phenotype–genotype characteristics
+The  correspondence  analysis  showed  good  corresponding 
+relationships between CC typing and resistance pattern of 
+S. aureus isolates (chi-squared=54.98, P<0.001; Figure 2A). 
+For example, CC398 was associated with PDR, CC9 with 
+XDR, and CC1/CC5/CC8/CC12/CC97 isolates were associ-
+ated with MDR. As shown in Table 3, CC398 was associated 
+with nonsusceptibility to almost all these antibiotics; CC9 
+(including ST9, ST2931, and ST2454) was associated with 
+nonsusceptibility to 9 antibiotics; CC1 (including ST1) and 
+CC5 (including ST920) were associated with nonsuscepti-
+bility to 7 antibiotics; and CC8/CC12/CC97 isolates were 
+nonsusceptible to 4 or 5 antibiotics.
+
+Another correspondence analysis revealed good corre-
+sponding relationships between CC typing and the number of 
+
+virulence genes (including scn, chp, sea, sak, sep, and hlb) of 
+S. aureus isolates (chi-squared=38.03, P=0.004; Figure 2B). 
+For example, CC9 and CC8 were associated with carrying 3 
+virulence genes, CC1/CC5/CC12/CC97 were associated with 
+carrying 1 or 2 virulence genes, and CC398 was associated 
+with absence of these virulence genes. As shown in Table 3, 
+CC9 (including ST9, ST2931, and ST2454) and CC8 were 
+associated with carrying chp, sak, and hlb; CC1 was associ-
+ated with carrying sak and hlb; and CC5 (including ST920), 
+CC12 and CC97 were associated with carrying chp and sak.
+
+Discussion
+This study of pigs indicated that the carriage rate was 9.5% 
+for  S.  aureus  and  3.3%  for  MRSA,  which  is  similar  to 
+results from previous studies (4.6%–15.9% for S. aureus and 
+0.9%–7.7% for MRSA).9,26–31 However, imparity results also 
+have been reported. For example, S. aureus carriage rate was 
+significant high in India (71.4%) and Ireland (26%–73%),32,33 
+and MRSA carriage rate was significant high in Germany 
+(49%–70.8%) and Spain (46%).34,35 There may be several rea-
+sons for this difference, such as geographical location, sam-
+pling methods, bacterial isolation and identification methods 
+(conventional biochemical methods or PCR test; enrichment 
+or no enrichment), livestock density, and antibiotic usage. 
+In this study, S. aureus (including MDRSA) prevalence rate 
+in  slaughterhouse  pigs  was  significantly  higher  than  that 
+observed in farm pigs. Similarly, a particularly high MRSA 
+carriage rate was reported in slaughterhouse pigs in Shanghai 
+and Spanish,36,37 which may be explained by co-transportation 
+with MRSA-colonized animals.38 Additionally, we observed 
+that the prevalence of S. aureus carriage in grower pigs was 
+higher than piglets, which is consistent with the report from 
+Trinidad.27 This situation may be due to the abuse of antimi-
+crobial agents, and grower pigs may have been exposed to 
+antibiotics for much longer than piglets.
+
+The  antimicrobial  resistance  of  animal  S.  aureus  and 
+MRSA  has  become  an  important  public  health  issue. We 
+observed high rates of resistance to erythromycin, tetracy-
+cline, and clindamycin among S. aureus isolates, which may 
+be  due  to  the  abuse  of  antimicrobial  agents  in  animals  in 
+China.39 Similarly, recent reports on animal-related MRSA 
+in  China,  Portugal,  and  Japan  showed  that  most  isolates 
+were  resistant  to  clindamycin  (88%–100%),  tetracycline 
+(47%–100%), and erythromycin (96%–100%).29,40,41 Nota-
+bly, in this study, about 97.1% isolates were MDR. A study 
+in  Hongkong  demonstrated  that  almost  all  of  livestock 
+S. aureus were MDR, suggesting that antimicrobial abuse and 
+ overcrowding in animal farming may facilitate the spread of 
+
+1302
+
+submit your manuscript | www.dovepress.com
+Dovepress 
+
+Infection and Drug Resistance 2018:11
+
+ Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 178.159.100.148 on 11-Sep-2018For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1Dovepress
+
+Pig-related MRsa and Mssa
+
+CLI
+
+TET
+
+ERY
+
+SXT
+
+GEN
+
+CHL
+
+FOX
+
+RD
+
+CIP
+
+QD
+
+LZD
+
+Figure 1 Heat map showing antibiotic resistance profiles of all multidrug-resistant S. aureus isolates.
+Abbreviations: clI, clindamycin; TeT, tetracycline; eRY, erythromycin; sXT, trimethoprim-sulfamethoxazole; gen, gentamicin; chl, chloramphenicol; FOX, cefoxitin; RD, 
+rifampin; CIP, ciprofloxacin; QD, quinupristin-dalfopristin; LZD, linezolid; S. aureus, Staphylococcus aureus.
+
+Non susceptible
+
+Susceptible
+
+MDRSA isolates.42 The most predominant resistance pattern 
+observed in this study was co-nonsusceptible to clindamy-
+cin, tetracycline, and erythromycin, which is similar to the 
+findings from China and USA.8,28 Notably, we observed that 
+all  linezolid-resistant  isolates  were  classified  as  MDRSA, 
+including 1 expressing the multi-resistance cfr gene. Simi-
+larly, the latest studies in China and Germany reported the 
+emergence of cfr-mediated multi-resistance in staphylococci 
+from animals and livestock-related humans.43,44 In contrast 
+
+to cfr, a novel optrA gene confers cross-resistance only to 
+oxazolidinones and phenicols. Presence of the optrA gene has 
+been detected in Staphylococcus sciuri and Enterococcus of 
+human and animal origin,21,45 and we also found 6 linezolid-
+resistant isolates expressing the optrA gene. Therefore, both 
+linezolid-resistant and MDR isolates must be monitored in 
+prospective surveillance programs.
+
+LA-MRSA  has  been  reported  worldwide.  In Asia,  of 
+particular interest is livestock-associated CC9. The present 
+
+Infection and Drug Resistance 2018:11
+
+submit your manuscript | www.dovepress.com
+Dovepress 
+
+1303
+
+ Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 178.159.100.148 on 11-Sep-2018For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1guo et al
+
+Dovepress
+
+l
+
+b
+h
+
+2
+1
+
+7
+
+2
+
+0
+
+6
+5
+
+7
+2
+
+9
+
+6
+
+1
+
+1
+
+1
+
+1
+
+p
+e
+s
+
+k
+a
+s
+
+a
+e
+s
+
+p
+h
+c
+
+n
+c
+s
+
+)
+
+(
+
+C
+m
+r
+e
+
+)
+
+(
+
+A
+m
+r
+e
+
+)
+K
+(
+t
+e
+t
+
+)
+
+M
+
+(
+ 
+t
+e
+t
+
+I
+L
+C
+
+D
+R
+
+L
+H
+C
+
+D
+Z
+L
+
+Y
+R
+E
+
+D
+Q
+
+T
+E
+T
+
+X
+O
+F
+
+T
+X
+S
+
+P
+I
+C
+
+N
+E
+G
+
+)
+e
+v
+i
+t
+i
+s
+o
+p
+(
+ 
+s
+e
+n
+e
+g
+ 
+e
+c
+n
+e
+u
+r
+i
+V
+
+l
+
+)
+e
+v
+i
+t
+i
+s
+o
+p
+(
+ 
+s
+e
+n
+e
+g
+ 
+e
+c
+n
+a
+t
+s
+i
+s
+e
+R
+
+l
+
+)
+e
+b
+i
+t
+p
+e
+c
+s
+u
+s
+-
+n
+o
+n
+(
+ 
+s
+e
+p
+y
+t
+o
+n
+e
+h
+p
+ 
+e
+c
+n
+a
+t
+s
+i
+s
+e
+R
+
+)
+a
+n
+(
+T
+S
+C
+C
+
+/
+
+0
+
+0
+
+0
+
+0
+
+6
+
+2
+
+1
+
+0
+
+1
+
+0
+
+0
+
+0
+
+3
+1
+
+1
+1
+
+5
+
+0
+6
+
+6
+2
+
+0
+1
+
+8
+
+9
+
+1
+
+2
+
+2
+
+2
+
+5
+
+3
+
+0
+
+0
+
+7
+1
+
+5
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+9
+
+7
+
+1
+1
+
+0
+1
+
+0
+4
+
+7
+1
+
+7
+
+8
+
+1
+
+2
+
+3
+
+2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+1
+
+0
+1
+
+6
+
+4
+6
+
+0
+3
+
+1
+1
+
+0
+1
+
+8
+
+2
+
+1
+
+3
+
+2
+
+1
+
+1
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+2
+
+0
+
+3
+1
+
+0
+1
+
+5
+
+8
+3
+
+0
+1
+
+8
+
+9
+
+8
+
+1
+
+3
+
+3
+
+2
+
+1
+1
+
+5
+
+6
+
+5
+
+5
+4
+
+7
+1
+
+0
+1
+
+8
+
+2
+
+1
+
+3
+
+2
+
+7
+1
+
+8
+
+5
+1
+
+2
+1
+
+3
+7
+
+3
+3
+
+3
+1
+
+1
+1
+
+2
+
+3
+
+4
+
+2
+
+2
+
+2
+
+6
+
+5
+
+7
+3
+
+5
+1
+
+6
+
+5
+
+1
+
+1
+
+1
+
+0
+
+4
+1
+
+7
+
+3
+1
+
+0
+1
+
+4
+6
+
+0
+3
+
+1
+1
+
+0
+1
+
+2
+
+1
+
+3
+
+1
+
+2
+
+1
+
+1
+
+1
+
+1
+
+1
+
+0
+
+0
+
+1
+
+0
+
+1
+
+0
+
+4
+1
+
+7
+
+3
+1
+
+1
+1
+
+1
+7
+
+2
+3
+
+3
+1
+
+0
+1
+
+2
+
+3
+
+4
+
+2
+
+3
+
+2
+
+2
+
+2
+
+7
+2
+
+3
+1
+
+4
+
+4
+
+2
+
+1
+
+1
+
+0
+
+6
+1
+
+7
+
+3
+1
+
+0
+1
+
+3
+7
+
+3
+3
+
+3
+1
+
+1
+1
+
+2
+
+2
+
+4
+
+2
+
+1
+1
+
+5
+
+5
+
+3
+
+9
+4
+
+5
+2
+
+8
+
+8
+
+2
+
+1
+
+1
+
+2
+
+0
+1
+
+4
+
+2
+1
+
+0
+1
+
+8
+6
+
+1
+3
+
+3
+1
+
+0
+1
+
+2
+
+2
+
+3
+
+2
+
+3
+
+2
+
+9
+
+7
+
+1
+5
+
+7
+2
+
+8
+
+8
+
+2
+
+1
+
+1
+
+1
+
+9
+
+4
+
+9
+
+7
+
+0
+5
+
+6
+2
+
+7
+
+5
+
+2
+
+1
+
+2
+
+1
+
+)
+7
+1
+(
+1
+C
+C
+
+)
+8
+(
+1
+T
+s
+
+)
+5
+1
+(
+5
+C
+C
+
+)
+2
+1
+(
+0
+2
+9
+T
+s
+
+)
+3
+7
+(
+9
+C
+C
+
+)
+3
+3
+(
+9
+T
+s
+
+)
+3
+1
+(
+1
+3
+9
+2
+T
+s
+
+)
+1
+1
+(
+4
+5
+4
+2
+T
+s
+
+)
+2
+(
+8
+9
+3
+C
+C
+
+)
+4
+(
+2
+1
+C
+C
+
+)
+2
+(
+8
+C
+C
+
+)
+3
+(
+7
+9
+C
+
+.
+s
+e
+t
+a
+l
+o
+s
+i
+ 
+s
+u
+e
+r
+u
+a
+ 
+.
+S
+ 
+f
+o
+ 
+r
+e
+b
+m
+u
+n
+
+a
+ 
+.
+s
+e
+t
+a
+l
+o
+s
+i
+ 
+f
+o
+ 
+r
+e
+b
+m
+u
+n
+ 
+s
+a
+ 
+d
+e
+s
+s
+e
+r
+p
+x
+e
+ 
+e
+r
+a
+ 
+s
+e
+u
+l
+a
+V
+
+ 
+:
+s
+e
+t
+o
+N
+
+s
+e
+t
+a
+l
+o
+s
+i
+ 
+s
+u
+e
+r
+u
+a
+ 
+.
+S
+ 
+f
+o
+ 
+s
+c
+
+i
+t
+s
+i
+r
+e
+t
+c
+a
+r
+a
+h
+c
+ 
+e
+p
+y
+t
+o
+n
+e
+g
+–
+e
+p
+y
+t
+o
+n
+e
+h
+p
+ 
+d
+n
+a
+ 
+s
+T
+s
+/
+s
+c
+c
+
+i
+
+ 
+t
+n
+a
+n
+m
+o
+d
+e
+r
+p
+ 
+n
+e
+e
+w
+t
+e
+b
+ 
+s
+p
+h
+s
+n
+o
+i
+t
+a
+l
+e
+R
+ 
+3
+ 
+e
+b
+a
+T
+
+l
+
+i
+
+ 
+;
+d
+
+i
+l
+
+o
+z
+e
+n
+
+i
+l
+ 
+,
+
+i
+
+D
+Z
+L
+ 
+;
+n
+c
+y
+m
+o
+r
+h
+t
+y
+r
+e
+ 
+,
+
+Y
+R
+E
+ 
+;
+n
+i
+t
+s
+i
+r
+p
+o
+
+f
+l
+a
+d
+-
+n
+i
+t
+s
+i
+r
+p
+u
+n
+u
+q
+ 
+,
+
+i
+
+D
+Q
+
+ 
+;
+e
+n
+
+i
+l
+
+c
+y
+c
+a
+r
+t
+e
+t
+ 
+,
+
+T
+E
+T
+
+ 
+;
+n
+i
+t
+i
+x
+o
+f
+e
+c
+ 
+,
+
+l
+
+X
+O
+F
+ 
+;
+e
+o
+z
+a
+x
+o
+h
+t
+e
+m
+a
+f
+l
+
+u
+s
+-
+
+m
+i
+r
+p
+o
+h
+t
+e
+m
+i
+r
+t
+ 
+,
+
+T
+X
+S
+ 
+;
+n
+i
+c
+a
+x
+o
+fl
+o
+r
+p
+i
+c
+ 
+,
+P
+C
+
+I
+
+ 
+;
+n
+i
+c
+i
+m
+a
+t
+n
+e
+g
+ 
+,
+
+N
+E
+G
+
+ 
+;
+s
+e
+p
+y
+t
+ 
+e
+c
+n
+e
+u
+q
+e
+s
+ 
+,
+
+l
+
+T
+s
+ 
+;
+s
+e
+x
+e
+p
+m
+o
+c
+ 
+l
+a
+n
+o
+c
+ 
+,
+
+l
+
+c
+c
+
+ 
+:
+s
+n
+o
+i
+t
+a
+i
+v
+e
+r
+b
+b
+A
+
+A
+
+3
+
+2
+
+)
+
+%
+1
+
+.
+
+6
+3
+(
+ 
+
+2
+
+1
+
+ 
+
+i
+
+n
+o
+s
+n
+e
+m
+D
+
+i
+
+0
+
+1
+−
+
+−6
+
+PDR
+
+CC398
+
+nonMDR
+
+CC12
+
+CC1
+CC5 CC8
+CC97
+MDR
+
+CC9
+
+XDR
+
+−4
+
+−2
+
+Dimension 1 (58.2%)
+
+0
+
+2
+
+CC
+
+Resistance pattern
+
+B
+
+2
+
+)
+
+1
+
+%
+4
+
+.
+
+7
+2
+(
+ 
+
+0
+
+i
+
+ 
+
+2
+n
+o
+s
+n
+e
+m
+D
+
+i
+
+1
+−
+
+CC12
+
+CC97
+
+CC8
+
+CC9
+
+3
+
+CC5
+
+1-2
+CC1
+
+4
+
+2
+−
+
+−1
+
+0
+
+1
+
+2
+
+Dimension 1 (65.2%)
+
+0
+
+CC398
+
+3
+
+4
+
+5
+
+.
+s
+u
+e
+r
+u
+a
+ 
+s
+u
+c
+c
+o
+c
+o
+l
+y
+h
+p
+a
+t
+S
+ 
+,
+s
+u
+e
+r
+u
+a
+ 
+.
+S
+ 
+;
+n
+c
+y
+m
+a
+d
+n
+
+i
+
+i
+l
+
+c
+ 
+,
+I
+l
+c
+
+i
+
+ 
+;
+n
+p
+m
+a
+f
+i
+r
+ 
+,
+
+D
+R
+
+ 
+;
+l
+
+i
+
+o
+c
+n
+e
+h
+p
+m
+a
+r
+o
+h
+c
+ 
+,
+l
+h
+c
+
+l
+
+CC
+
+Number of virulence genes
+
+Figure 2 correspondence analysis for the relationship between cc and resistance 
+pattern (A) or number of virulence genes (B) of S. aureus isolates.
+Abbreviations:  PDR,  pan-drug-resistant;  MDR,  multidrug-resistant;  XDR, 
+extensively drug-resistant; cc, clonal complex; S. aureus, Staphylococcus aureus.
+
+study revealed that the predominant genotype of S. aureus 
+and MRSA isolates was CC9, including ST9, ST2931, and 
+ST2454. MRSA ST9 was first detected from pig finishing 
+holdings in Italy46 and has also been reported to predominate 
+in pigs in Asian countries.9,30,47,48 Additionally, LA-MRSA 
+CC9  can  colonize  in  retail  meat  and  other  host  species 
+(including cows, sheep, and poultry).2,29,49,50 Notably, previ-
+ous  studies  revealed  that  pig  workers  carried  LA-MRSA 
+ST9  and  patients  without  contact  with  animals  were  also 
+tested with MRSA ST9, suggesting the potential LA-MRSA 
+transmission from animals to humans by direct and indirect 
+animal exposure.8,51 Notably, LA-MRSA CC9 isolates express 
+
+1304
+
+submit your manuscript | www.dovepress.com
+Dovepress 
+
+Infection and Drug Resistance 2018:11
+
+ Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 178.159.100.148 on 11-Sep-2018For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1Dovepress
+
+Pig-related MRsa and Mssa
+
+ different types of SCCmec, including type IX for Thailand, 
+type V for Malaysia, types IVb/V for Hong Kong, and type 
+III for China.2 However, MRSA ST9 in this study mainly 
+carried SCCmec IV, followed by non-types I–VII. These find-
+ings show some regional characteristics in LA-MRSA ST9.
+Another important LA-MRSA is CC398, which prevails in 
+animals and related workers in North America and European 
+countries.6,52 In our study, no MRSA CC398 was found, but 
+2 MSSA CC398 isolates were isolated from pigs. Although 
+CC398 isolates are rare in Asia, the study from South Korea 
+found a high rate of ST398 isolated from breeding pigs since 
+these  pigs  were  imported  from  other  countries.2  Besides, 
+CC5 and CC97 have been identified in this study, which were 
+also  reported  as  LA-MRSA  in  Germany  and  Senegal.11,26 
+Therefore, MRSA-carrying animals pose a potential threat 
+to human health. Surprisingly, ST1 and ST59 as the typical 
+human-associated  MRSA  clones  were  detected  in  pigs  in 
+this study, which is consistent with the reports in Africa and 
+China.29,53 These findings may add to the evidence of inter-
+species MRSA transmission between humans and animals.
+
+It should be noted that a few studies have attempted to 
+explore the specific markers for S. aureus species association. 
+Recent evidence of European–American CC398 has revealed 
+that absence of the bacteriophage-encoded IEC genes may 
+be associated with animal specificity and presence of IEC 
+genes may be related with human specificity.54,55 This animal-
+specificity relation for Asian CCs is still uncertain. The pres-
+ent study first revealed that all S. aureus were absence of scn 
+gene, suggesting that absence of scn may be associated with 
+pig specificity. Additionally, susceptibility to tetracycline was 
+observed only in isolates from workers without animal con-
+tact, but tetracycline resistance was only found in CC9 from 
+animals and animal-related workers.8 Similarly, we observed 
+that all pig S. aureus (including MRSA) isolates were resis-
+tant to tetracycline, indicating that phenotypic resistance to 
+tetracycline may be associated with pig specificity.
+
+The potential relationship between CCs and phenotype–
+genotype characteristics of S. aureus is still unclear. Recent 
+evidence is limited to use the statistical description to explore 
+potential  relations  between  molecular  characteristics.  For 
+example, the latest studies of LA-MRSA indicated that all 
+MRSA CC97 isolates were MDR and about 90% of MRSA 
+ST9  isolates  were  MDR.56,57 These  findings  suggest  that 
+there may be differences in resistance patterns between dif-
+ferent clones. This study adds to existing literature to reveal 
+a  significant  correspondence  between  CC  and  resistance 
+pattern of  S.  aureus isolates, indicating that LA CC9 and 
+
+CC398 were associated with severe XDR or PDR. Notably, 
+latest studies found that absence of IEC genes may be asso-
+ciated with animal specificity.8,58 For example, all MDRSA 
+CC9 and MRSA CC9 carried by pig-related workers were 
+absent of IEC genes.8 This study first revealed a significant 
+correspondence between CCs and the number of virulence 
+genes of S. aureus isolates; CC9/CC8 isolates were associated 
+with carrying 3 virulence genes (chp, sak, and hlb) and CC5/
+CC12/CC97 isolates with carrying 2 virulence genes (chp and 
+sak). These findings provide new ideas for monitoring new 
+epidemiologic trends and provide implication for facilitating 
+vaccine developments.
+
+This study is a new attempt to reveal potential relation-
+ships between CC typing and phenotype–genotype character-
+istics of S. aureus isolates using the correspondence analysis. 
+However, the current study has some limitations. First, the 
+research design was cross-sectional, so it could not determine 
+whether the nasal colonization was persistent or transient. 
+Future longitudinal study may reveal more information about 
+colonization dynamics of S. aureus. Second, the present study 
+observed 39 isolates resistant to cefoxitin but absent of the 
+mecA, suggesting that the MRSA definition based on mecA 
+in this study may underestimate the true prevalence. Third, no 
+nasal samples were obtained from livestock-related workers, 
+so it could not determine whether exists the risk of LA-MRSA 
+transmission from animals to livestock-related workers.
+
+Conclusion
+All pig-related S. aureus isolates were negative for scn gene 
+and  resistant  to  tetracycline,  suggesting  that  absence  of 
+scn and presence of tetracycline resistance may be associ-
+ated with pig specificity. Additionally, the correspondence 
+analysis  found  good  corresponding  relationships  between 
+CC typing and phenotype–genotype characteristics, which 
+provides  some  implication  for  vaccine  strategies  and  new 
+ideas for monitoring new epidemiologic trends. Notably, the 
+proportion of MDRSA was high in 97.1%, supporting grow-
+ing concern about the potential hazards of non-therapeutic 
+antibiotic use.
+
+Acknowledgments
+This work was supported by the National Natural Science 
+Foundation of China (No. 81602901) and the Science and 
+Technology Planning Project of Guangdong province (No. 
+2014A020212306). The funders have no role in the study 
+design, data collection and analysis, or preparation of the 
+manuscript.
+
+Infection and Drug Resistance 2018:11
+
+submit your manuscript | www.dovepress.com
+Dovepress 
+
+1305
+
+ Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 178.159.100.148 on 11-Sep-2018For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1guo et al
+
+Dovepress
+
+Author contributions
+All authors contributed toward data analysis, drafting and 
+revising the paper and agreed to be accountable for all aspects 
+of the work.
+
+Disclosure
+The authors report no conflicts of interest in this work.
+
+References
+
+  1.  Woodford N, Livermore DM. Infections caused by Gram-positive bacte-
+ria: a review of the global challenge. J Infect. 2009;59(Suppl 1):S4–16.
+  2.  Chuang YY,  Huang YC.  Livestock-associated  meticillin-resistant 
+Staphylococcus aureus in Asia: an emerging issue? Int J Antimicrob 
+Agents. 2015;45(4):334–340.
+
+  3.  Lewis HC, Mølbak K, Reese C, et al. Pigs as source of methicillin-
+resistant Staphylococcus aureus CC398 infections in humans, Denmark. 
+Emerg Infect Dis. 2008;14(9):1383–1389.
+
+  4.  Hollis A, Ahmed Z. Preserving antibiotics, rationally. N Engl J Med. 
+
+2013;369(26):2474–2476.
+
+  5.  Nadimpalli  M,  Rinsky  JL, Wing  S,  et  al.  Persistence  of  livestock-
+associated antibiotic-resistant Staphylococcus aureus among industrial 
+hog operation workers in North Carolina over 14 days. Occup Environ 
+Med. 2015;72(2):90–99.
+
+  6.  Smith  TC,  Male  MJ,  Harper  AL,  et  al.  Methicillin-resistant 
+Staphylococcus aureus (MRSA) strain ST398 is present in midwestern 
+U.S. swine and swine workers. PLoS One. 2009;4(1):e4258.
+
+  7.  Khanna T,  Friendship  R,  Dewey  C, Weese  JS.  Methicillin  resistant 
+Staphylococcus  aureus  colonization  in  pigs  and  pig  farmers.  Vet 
+Microbiol. 2008;128(3-4):298–303.
+
+  8.  Ye X, Fan Y, Wang X, et al. Livestock-associated methicillin and multi-
+drug resistant S. aureus in humans is associated with occupational pig 
+contact, not pet contact. Sci Rep. 2016;6:19184.
+
+  9.  Neela V,  Mohd  Zafrul A,  Mariana  NS,  van  Belkum A,  Liew YK, 
+Rad  EG.  Prevalence  of  ST9  methicillin-resistant  Staphylococcus 
+aureus  among  pigs  and  pig  handlers  in  Malaysia.  J  Clin  Microbiol. 
+2009;47(12):4138–4140.
+
+ 10.  de Neeling AJ, van den Broek MJ, Spalburg EC, et al. High prevalence 
+of methicillin resistant Staphylococcus aureus in pigs. Vet Microbiol. 
+2007;122(3–4):366–372.
+
+ 11.  Köck  R,  Schaumburg  F,  Mellmann A,  et  al.  Livestock-associated 
+methicillin-resistant Staphylococcus aureus (MRSA) as causes of human 
+infection and colonization in Germany. PLoS One. 2013;8(2):e55040.
+ 12.  Vandendriessche S, Vanderhaeghen W, Soares FV, et al. Prevalence, risk 
+factors  and  genetic  diversity  of  methicillin-resistant  Staphylococcus 
+aureus  carried  by  humans  and  animals  across  livestock  production 
+sectors. J Antimicrob Chemother. 2013;68(7):1510–1516.
+
+ 13.  Agersø Y, Hasman H, Cavaco LM, Pedersen K, Aarestrup FM. Study 
+of methicillin resistant Staphylococcus aureus (MRSA) in Danish pigs 
+at slaughter and in imported retail meat reveals a novel MRSA type in 
+slaughter pigs. Vet Microbiol. 2012;157(1–2):246–250.
+
+ 14.  de Boer E, Zwartkruis-Nahuis JT, Wit B, et al. Prevalence of methicillin-
+resistant  Staphylococcus  aureus  in  meat.  Int  J  Food  Microbiol. 
+2009;134(1–2):52–56.
+
+ 15.  Virgin  JE,  van  Slyke  TM,  Lombard  JE,  Zadoks  RN.  Short 
+communication: methicillin-resistant Staphylococcus aureus detection 
+in US bulk tank milk. J Dairy Sci. 2009;92(10):4988–4991.
+
+ 16.  Zhang K, Sparling J, Chow BL, et al. New quadriplex PCR assay for 
+detection  of  methicillin  and  mupirocin  resistance  and  simultaneous 
+discrimination  of  Staphylococcus  aureus  from  coagulase-negative 
+staphylococci. J Clin Microbiol. 2004;42(11):4947–4955.
+
+ 17.  García-Álvarez L, Holden MT, Lindsay H, et al. Meticillin-resistant 
+Staphylococcus aureus with a novel mecA homologue in human and 
+bovine populations in the UK and Denmark: a descriptive study. Lancet 
+Infect Dis. 2011;11(8):595–603.
+
+ 18.  CLSI.  Performance  Standards  for Antimicrobial  Susceptibility Test-
+ing; Twenty-Fifth Informational Supplement (M100-S25): Clinical and 
+Laboratory Standards Institute; 2015.
+
+ 19.  Magiorakos AP,  Srinivasan A,  Carey  RB,  et  al.  Multidrug-resistant, 
+extensively  drug-resistant  and  pandrug-resistant  bacteria:  an  inter-
+national expert proposal for interim standard definitions for acquired 
+resistance. Clin Microbiol Infect. 2012;18(3):268–281.
+
+ 20.  Strommenger  B,  Kettlitz  C,  Werner  G,  Witte  W.  Multiplex  PCR 
+assay for simultaneous detection of nine clinically relevant antibiotic 
+resistance  genes  in  Staphylococcus  aureus.  J  Clin  Microbiol. 
+2003;41(9):4089–4094.
+
+ 21.  Wang Y, Lv Y, Cai J, et al. A novel gene, optrA, that confers transfer-
+able  resistance  to  oxazolidinones  and  phenicols  and  its  presence  in 
+Enterococcus faecalis and Enterococcus faecium of human and animal 
+origin. J Antimicrob Chemother. 2015;70(8):2182–2190.
+
+ 22.  Enright MC, Day NP, Davies CE, Peacock SJ, Spratt BG. Multilocus 
+sequence  typing  for  characterization  of  methicillin-resistant  and 
+methicillin-susceptible  clones  of  Staphylococcus  aureus.  J  Clin 
+Microbiol. 2000;38(3):1008–1015.
+
+ 23.  van  Wamel  WJ,  Rooijakkers  SH,  Ruyken  M,  van  Kessel  KP,  van 
+Strijp JA. The innate immune modulators staphylococcal complement 
+inhibitor and chemotaxis inhibitory protein of Staphylococcus aureus 
+are located on beta-hemolysin-converting bacteriophages. J Bacteriol. 
+2006;188(4):1310–1315.
+
+ 24.  Mcclure JA, Conly JM, Lau V, et al. Novel multiplex PCR assay for detection 
+of the staphylococcal virulence marker Panton–Valentine leukocidin genes 
+and simultaneous discrimination of methicillin-susceptible from -resistant 
+staphylococci. J Clin Microbiol. 2006;44(3):1141–1144.
+
+ 25.  Zhang K, Mcclure JA, Elsayed S, Louie T, Conly JM. Novel multiplex PCR 
+assay for characterization and concomitant subtyping of staphylococcal 
+cassette  chromosome  mec  types  I  to  V  in  methicillin-resistant 
+Staphylococcus aureus. J Clin Microbiol. 2005;43(10):5026–5033.
+
+ 26.  Fall C, Seck A, Richard V, et al. Epidemiology of Staphylococcus aureus 
+in pigs and farmers in the largest farm in Dakar, Senegal. Foodborne 
+Pathog Dis. 2012;9(10):962–965.
+
+ 27.  Gordon A, Marshall J, Ramdass K, Stewart-Johnson A, Adesiyun A. 
+Frequency of resistance to methicillin and other antimicrobial agents 
+among Staphylococcus aureus strains isolated from pigs and their human 
+handlers in Trinidad. Infect Ecol Epidemiol. 2014;4(1):22736.
+
+ 28.  Dressler AE,  Scheibel  RP, Wardyn  S,  et  al.  Prevalence,  antibiotic 
+resistance and molecular characterisation of Staphylococcus aureus in 
+pigs at agricultural fairs in the USA. Vet Rec. 2012;170(19):495.
+
+ 29.  Wang W,  Liu  F,  Baloch  Z,  et  al.  GenGenotypic  characterization  of 
+methicillin-resistant  Staphylococcus  aureus  isolated  from  pigs  and 
+retail foods in China. Biomed Environ Sci. 2017;30(8):570–580.
+
+ 30.  Baba K, Ishihara K, Ozawa M, Tamura Y, Asai T. Isolation of meticillin-
+resistant Staphylococcus aureus (MRSA) from swine in Japan. Int J 
+Antimicrob Agents. 2010;36(4):352–354.
+
+ 31.  Kraemer JG, Pires J, Kueffer M, et al. Prevalence of extended-spectrum 
+β-lactamase-producing  Enterobacteriaceae  and  methicillin-resistant 
+Staphylococcus aureus in pig farms in Switzerland. Sci Total Environ. 
+2017;603-604:401–405.
+
+ 32.  Zehra A,  Singh  R,  Kaur  S,  Gill  JPS.  Molecular  characterization  of 
+antibiotic-resistant Staphylococcus aureus from livestock (bovine and 
+swine). Vet World. 2017;10(6):598–604.
+
+ 33.  Burns A,  Shore AC,  Brennan  GI,  et  al. A  longitudinal  study  of 
+Staphylococcus aureus colonization in pigs in Ireland. Vet Microbiol. 
+2014;174(3-4):504–513.
+
+ 34.  Tenhagen BA, Fetsch A, Stührenberg B, et al. Prevalence of MRSA 
+types  in  slaughter  pigs  in  different  German  abattoirs.  Vet  Rec. 
+2009;165(20):589–593.
+
+ 35.  Reynaga E, Navarro M, Vilamala A, et al. Prevalence of colonization 
+by methicillin-resistant Staphylococcus aureus ST398 in pigs and pig 
+farm workers in an area of Catalonia, Spain. BMC Infect Dis. 2016; 
+16(1):716.
+
+ 36.  Li J, Jiang N, Ke Y, et al. Characterization of pig-associated methicillin-
+
+resistant Staphylococcus aureus. Vet Microbiol. 2017;201:183–187.
+
+1306
+
+submit your manuscript | www.dovepress.com
+Dovepress 
+
+Infection and Drug Resistance 2018:11
+
+ Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 178.159.100.148 on 11-Sep-2018For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1Dovepress
+
+Pig-related MRsa and Mssa
+
+ 37.  Gómez-Sanz  E, Torres  C,  Lozano  C,  et  al.  Detection,  molecular 
+characterization,  and  clonal  diversity  of  methicillin-resistant 
+Staphylococcus aureus CC398 and CC97 in Spanish slaughter pigs of 
+different age groups. Foodborne Pathog Dis. 2010;7(10):1269–1277.
+ 38.  Bangerter  PD,  Sidler  X,  Perreten  V,  Overesch  G.  Longitudinal 
+study  on  the  colonisation  and  transmission  of  methicillin-resistant 
+Staphylococcus aureus in pig farms. Vet Microbiol. 2016;183:125–134.
+ 39.  Wang X, Li G, Xia X, Yang B, Xi M, Meng J. Antimicrobial susceptibility 
+and molecular typing of methicillin-resistant Staphylococcus aureus in 
+retail  foods  in  Shaanxi,  China.  Foodborne  Pathog  Dis.  2014;11(4): 
+281–286.
+
+ 40.  Conceição T, de Lencastre H, Aires-de-Sousa M. Frequent isolation 
+of methicillin resistant Staphylococcus aureus (MRSA) ST398 among 
+healthy pigs in Portugal. PLoS One. 2017;12(4):e0175340.
+
+ 41.  Sato T, Usui M, Motoya T, Sugiyama T, Tamura Y. Characterisation of 
+meticillin-resistant Staphylococcus aureus ST97 and ST5 isolated from 
+pigs in Japan. J Glob Antimicrob Resist. 2015;3(4):283–285.
+
+ 42.  Ho  PL,  Chow  KH,  Lai  EL,  et  al.  Clonality  and  antimicrobial 
+susceptibility  of  Staphylococcus  aureus  and  methicillin-resistant 
+S. aureus isolates from food animals and other animals. J Clin Microbiol. 
+2012;50(11):3735–3737.
+
+ 43.  Cuny C, Arnold P, Hermes J, et al. Occurrence of cfr-mediated mul-
+tiresistance in staphylococci from veal calves and pigs, from humans 
+at the corresponding farms, and from veterinarians and their family 
+members. Vet Microbiol. 2017;200:88–94.
+
+ 44.  Wang Y,  He T,  Schwarz  S,  et  al.  Multidrug  resistance  gene  cfr  in 
+methicillin-resistant coagulase-negative staphylococci from chickens, 
+ducks, and pigs in China. Int J Med Microbiol. 2013;303(2):84–87.
+
+ 45.  Fan R, Li D, Wang Y, et al. Presence of the optrA gene in methicillin-
+resistant Staphylococcus sciuri of porcine origin. Antimicrob Agents 
+Chemother. 2016;60(12):7200–7205.
+
+ 46.  Battisti A, Franco A, Merialdi G, et al. Heterogeneity among methicillin-
+resistant Staphylococcus aureus from Italian pig finishing holdings. Vet 
+Microbiol. 2010;142(3–4):361–366.
+
+ 47.  Cui S, Li J, Hu C, et al. Isolation and characterization of methicillin-
+resistant  Staphylococcus  aureus  from  swine  and  workers  in  China.  
+J Antimicrob Chemother. 2009;64(4):680–683.
+
+ 48.  Larsen J, Imanishi M, Hinjoy S, et al. Methicillin-resistant Staphylococcus 
+
+aureus ST9 in pigs in Thailand. PLoS One. 2012;7(2):e31245.
+
+ 49.  Hanson BM, Dressler AE, Harper AL, et al. Prevalence of Staphylococcus 
+aureus  and  methicillin-resistant  Staphylococcus  aureus  (MRSA)  on 
+retail meat in Iowa. J Infect Public Health. 2011;4(4):169–174.
+
+ 50.  Dhup V, Kearns AM, Pichon B, Foster HA. First report of identification 
+of livestock-associated MRSA ST9 in retail meat in England. Epidemiol 
+Infect. 2015;143(14):2989–2992.
+
+ 51.  Yu F, Lu C, Liu Y, et al. Emergence of quinupristin/dalfopristin resistance 
+among livestock-associated Staphylococcus aureus ST9 clinical isolates. 
+Int J Antimicrob Agents. 2014;44(5):416–419.
+
+ 52.  Goerge T, Lorenz MB, van Alen S, Hübner NO, Becker K, Köck R. 
+MRSA colonization and infection among persons with occupational 
+livestock exposure in Europe: prevalence, preventive options and evi-
+dence. Vet Microbiol. 2017;200:6–12.
+
+ 53.  Schaumburg F, Pauly M, Anoh E, et al. Staphylococcus aureus complex 
+from  animals  and  humans  in  three  remote African  regions.  Clin 
+Microbiol Infect. 2015;21(4):345.e1–8.
+
+ 54.  Sung  JM,  Lloyd  DH,  Lindsay  JA.  Staphylococcus  aureus  host 
+specificity: comparative genomics of human versus animal isolates by 
+multi-strain microarray. Microbiology. 2008;154(Pt 7):1949–1959.
+
+ 55.  Verkaik  NJ,  Benard  M,  Boelens  HA,  et  al.  Immune  evasion 
+cluster-positive  bacteriophages  are  highly  prevalent  among  human 
+Staphylococcus aureus strains, but they are not essential in the first 
+stages of nasal colonization. Clin Microbiol Infect. 2011;17(3):343–348.
+ 56.  He W, Liu Y, Qi J, et al. Food-animal related Staphylococcus aureus 
+multidrug-resistant ST9 strains with toxin genes. Foodborne Pathog 
+Dis. 2013;10(9):782–788.
+
+ 57.  Feltrin F, Alba P, Kraushaar B, et al. A livestock-associated, multidrug-
+resistant, methicillin-resistant Staphylococcus aureus clonal complex 
+97  lineage  spreading  in  dairy  cattle  and  pigs  in  Italy.  Appl  Environ 
+Microbiol. 2016;82(3):816–821.
+
+ 58.  Rinsky  JL,  Nadimpalli  M,  Wing  S,  et  al.  Livestock-associated 
+methicillin and multidrug resistant Staphylococcus aureus is present 
+among  industrial,  not  antibiotic-free  livestock  operation  workers  in 
+North Carolina. PLoS One. 2013;8(7):e67641.
+
+Infection and Drug Resistance
+Publish your work in this journal
+Infection and Drug Resistance is an international, peer-reviewed open-
+access journal that focuses on the optimal treatment of infection (bacte-
+rial, fungal and viral) and the development and institution of preventive 
+strategies to minimize the development and spread of resistance. The 
+journal is specifically concerned with the epidemiology of antibiotic 
+
+Dovepress
+
+resistance and the mechanisms of resistance development and diffusion 
+in  both  hospitals  and  the  community. The  manuscript  management 
+system is completely online and includes a very quick and fair peer-
+review system, which is all easy to use. Visit http://www.dovepress.com/
+testimonials.php to read real quotes from published authors.
+
+Submit your manuscript here: https://www.dovepress.com/infection-and-drug-resistance-journal
+
+Infection and Drug Resistance 2018:11
+
+submit your manuscript | www.dovepress.com
+Dovepress 
+
+1307
+
+ Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 178.159.100.148 on 11-Sep-2018For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1

@@ -1,0 +1,2152 @@
+Journal of Applied Microbiology ISSN 1364-5072
+
+O R I G I N A L A R T I C L E
+
+Molecular typing, serotyping and cytotoxicity testing of
+Campylobacter jejuni strains isolated from commercial
+broilers in Puerto Rico
+O.A. Oyarzabal1, S. Backert2, L.L. Williams3, A.J. Lastovica4, R.S. Miller1, S.J. Pierce1, S.L. Vieira5 and
+F. Rebollo-Carrato6
+
+1 Department of Poultry Science, Auburn University, Auburn, Alabama, USA
+2 Department of Medical Microbiology, Otto von Guericke University, Magdeburg, Germany
+3 Department of Food and Animal Sciences, Alabama A&M University, Normal, Alabama, USA
+4 Department of Biotechnology, Faculty of Natural Sciences, University of the Western Cape, Bellville, South Africa
+5 Department of Animal Sciences, Federal University of Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil
+6 University of Turabo, Estacio´ n Universidad, Gurabo, Puerto Rico
+
+Keywords
+broiler, Campylobacter, chicken, cytotoxicity
+assays, MLST, PFGE, serotyping.
+
+Correspondence
+Omar A. Oyarzabal, 260 Lem Morrison Dr.,
+Department of Poultry Science, Auburn
+University, AL 36849, USA.
+E-mail: oyarzoa@auburn.edu
+
+2007 ⁄ 1629: received 8 October 2007, revised
+13 February 2008 and accepted 13 February
+2008
+
+doi:10.1111/j.1365-2672.2008.03809.x
+
+Abstract
+
+)1), erythromycin (MIC90 8 lg ml
+
+)1), ciproﬂoxacin (MIC90 1 lg ml
+
+(PFGE), multilocus
+
+)1) and trimethoprim (MIC of >32 lg ml
+
+Aims: Thirty Campylobacter jejuni strains isolated from fecal samples (n = 94;
+32%) from 13 positive farms (n = 17; 76%) from commercial broiler chickens
+in Puerto Rico were analysed by molecular methods.
+Methods and Results: Isolates were identiﬁed with multiplex polymerase chain
+reaction assays, tested for their antimicrobial susceptibility and characterized
+with pulsed-ﬁeld gel electrophoresis
+sequence typing
+(MLST), serotyping and bacterial cytotoxicity in mammalian cells. Isolates
+exhibited high resistance to vancomycin (minimum inhibitory concentration,
+)1); few were
+MIC of >256 lg ml
+)1)
+resistant to clindamycin (MIC90 4 lg ml
+)1); but none was resistant to azithromycin
+and tetracycline (MIC90 8 lg ml
+)1) or gentamycin (MIC90
+(MIC90 4 lg ml
+)1). Most strains restricted with SmaI, but a combination of SmaI–KpnI
+4 lg ml
+digestion was more discriminatory. MLST analysis yielded four sequence types
+(ST), and ST-2624 was the predominant one. Phylogenetic analysis revealed a
+high degree of recombination for glnA and pgm genes. The predominant sero-
+types were O:3 and O:5. Most strains had lowest cytotoxicity potential with
+Caco-2 cells, medium cytotoxicity with INT-407 and Hep-2 cells and high
+cytotoxicity with CHO cells.
+Conclusion: A low degree of antimicrobial resistance, 13 PFGE proﬁles, 4 ST
+and a large variability in cytotoxicity assays were found for these strains.
+Signiﬁcance and Impact of the Study: This is the ﬁrst characterization of C. je-
+juni strains isolated from broilers in Puerto Rico. The genetic diversity of these
+strains suggests that several techniques are needed for strain characterization.
+
+Introduction
+
+Little information is available about human campylobact-
+eriosis in Puerto Rico. After Salmonella, Campylobacter
+jejuni has been reported as the second most common
+foodborne bacterial pathogen isolated from humans, with
+
+an incidence of 3Æ5%, from a reference laboratory in San
+Juan (Lopez-Ortiz and Solivan 1999). However, there is
+no information on the incidence and characteristics of
+Campylobacter spp. in commercial broilers raised in the
+island. The poultry industry is the second largest agricul-
+tural industry in Puerto Rico, with broiler meat comprising
+
+800
+
+ª 2008 The Authors
+Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 800–812
+
+O.A. Oyarzabal et al.
+
+Molecular typing of C. jejuni from Puerto Rico
+
+more than 69% of the total meat consumed, with an
+average of 80 lb of broiler meat consumed per capita for
+the year 2005. Yet, from the total consumption of broiler
+meat only 34% is produced locally while the rest
+is
+frozen products from the United States
+imported as
+(Anon 2005a).
+
+jejuni brings
+
+several
+
+In C.
+
+the pathogenicity potential of C.
+
+jejuni, epidemic clones responsible for human
+disease are characterized by unique combinations of vir-
+ulence genes or their alleles (Maynard Smith et al. 1993;
+Musser 1996), and some clones have been associated
+with domestic animals raised for human consumption,
+primarily broiler chickens. Therefore, it is assumed that
+contaminated raw poultry products
+and consuming
+undercooked poultry are major risk factors for human
+campylobacteriosis (Butzler and Oosterom 1991; Tauxe
+1997; Nadeau et al. 2002). However, drawing conclusions
+about
+jejuni strains
+from different sources has always been a challenge. The
+weak clonality of C.
+limitations
+when accurate estimations are needed for source track-
+ing efforts aimed at determining the attribution of infec-
+tions to food sources. Besides the differences in the
+interpretation of the results from the same techniques
+applied to different C. jejuni isolates, different molecular
+approaches may answer speciﬁc questions but may not
+be complementary to each other to help identifying
+sources and improve the prediction of the appearance of
+epidemic clones in foods. Few studies have addressed
+the complementation of methods
+for epidemiological
+studies. The use of genomotyping may represent a holis-
+tic approach to identifying potentially pathogenic clones.
+Yet, these methods still do not provide a complete over-
+view on the variability in the genomic proﬁles among
+jejuni strains from different areas (Ka¨renlampi et al.
+C.
+2007). In addition, sequencing methods such as multilo-
+cus sequence typing (MLST) are more expensive than
+molecular typing methods based on restriction proﬁles,
+such as pulsed-ﬁeld gel electrophoresis (PFGE). With
+this in view, we collected samples from commercial live
+broilers in Puerto Rico to isolate Campylobacter strains
+and analyse them with molecular techniques to under-
+stand their genomic composition and determine the
+virulence potential. We collected Campylobacter strains
+from faecal material
+taken from commercial broiler
+chickens. These strains were analysed using different
+molecular techniques to determine possible traits that
+would predict their risk for humans. For this purpose,
+the isolates were: (i) identiﬁed to the species level using
+culture media and multiplex polymerase chain reaction
+(mPCR) assays; (ii) tested for their antimicrobial suscep-
+tibility, and analysed using PFGE, MLST and serotyping.
+In addition, their cytotoxicity potential
+in mammalian
+cell lines was investigated.
+
+Materials and methods
+
+Sample collection
+
+Ninety-four faecal samples from 17 farms (34 houses or
+ﬂocks; two houses per farm) were tested for the presence
+of Campylobacter spp. The isolates were identiﬁed to the
+species level using two mPCR assays developed for the
+identiﬁcation of C. jejuni and Campylobacter coli. Isolates
+were also tested with a hippurate test (Remel, Lenexa, KS,
+USA).
+
+The faecal samples were collected from 17 commercial
+broiler farms in Puerto Rico between March and May
+2005 covering different areas in the center–south region
+of the island. Sampled farms contained chicken houses,
+some with double-deck houses, with ﬁve to seven samples
+collected from each farm. Each sample consisted of c. 2–
+3 g of
+freshly deposited faecal material collected from
+three to four different areas of the houses with sterile ton-
+gue depressors. The samples were placed in tubes contain-
+ing Cary–Blair semi-solid medium supplemented with 5%
+lysed horse blood and shipped in refrigeration (c. 8–
+10°C) for analysis to the Department of Poultry Science,
+Auburn University, USA.
+
+Campylobacter isolation
+
+The faecal samples were analysed for Campylobacter spp.
+by direct plating on modiﬁed Campy–Cefex (mCC;
+Oyarzabal et al. 2005) and on modiﬁed charcoal cefope-
+razone deoxycholate agar
+(mCCDA; Hutchinson and
+Bolton 1984) within 4–6 days of collection. All samples
+were also enriched in Preston broth (Oxoid Inc., New
+York) (42°C for 24 h) under microaerobic conditions
+(10% CO2, 5% O2 and 85% N2; Airgas, Radnor, PA, USA)
+generated using jars gassed with a MACSmics Jar Gassing
+System (Microbiology International, Frederick, MD, USA).
+Enriched samples were swabbed (c. 0Æ1 ml) onto mCC and
+mCCDA plates. All plates were then incubated under
+microaerobic conditions (42°C for 48 h) and screened
+for typical Campylobacter colonies. The colonies were
+considered presumptive positive if they showed the typical
+morphology and motility under phase-contrast micros-
+copy (Optiphot-2; Nikon, Tokyo, Japan). All presumptive
+isolates were collected and individually stored at )80°C
+in tryptic soy broth (Difco, Detroit, MI, USA) supple-
+mented with 30% glycerol (v ⁄ v) and 5% lysed horse
+blood for further identiﬁcation and characterization.
+
+PCR identiﬁcation of Campylobacter isolates
+
+Stock cultures were transferred to mCC plates that were
+incubated under microaerobic conditions (42°C for 24 h)
+
+ª 2008 The Authors
+Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 800–812
+
+801
+
+Molecular typing of C. jejuni from Puerto Rico
+
+O.A. Oyarzabal et al.
+
+to prepare fresh bacterial DNA. DNA was extracted using
+PrepManÔ Ultra (Applied Biosystems, Foster City, CA,
+USA). The DNA samples were tested with two mPCR
+assays developed for the identiﬁcation of C.
+jejuni and
+C. coli. These PCR assays were performed in 25-ll aliquots
+as described elsewhere (Oyarzabal et al. 2005, 2007a). A
+PTC-100 Programmable Thermal Controller
+(Bio-Rad
+Laboratories, Hercules, CA, USA) was used for ampliﬁca-
+tion. Amplicons were detected in 1Æ5% UltraPureÔ
+Agarose-1000 (Invitrogen Corporation, Carlsbad, CA,
+USA) and DNA bands were stained with ethidium bro-
+mide, visualized using a ultraviolet (UV) transilluminator
+(Gel-Doc System; Syngene, Frederick, MD, USA) followed
+by recording using a computer program (GeneSnap) for
+molecular analysis (Syngene). All strains were also tested
+with a commercial hippurate test (Hardy Diagnostics,
+Santa Maria, CA, USA).
+
+Epsilon test (EtestÒ)
+
+Antimicrobial susceptibility tests were performed with
+Etest antibiotic strips (AB Biodisk North America, Inc.,
+Piscataway, NJ, USA) as suggested by the manufacturer.
+Mueller–Hinton agar plates were prepared using S-8000
+plate maker and poured using a APS 320 automated petri
+dish ﬁller (Microbiology International, Frederick, MD,
+USA). A higher than the recommended inocula, corre-
+sponding to c. 1Æ0 at OD600 nm, was used to seed the Mu-
+eller–Hinton agar plates. The isolates were tested for their
+sensitivity to azithromycin, ciproﬂoxacin, clindamycin,
+erythromycin, gentamycin, tetracycline, trimethoprim and
+vancomycin.
+
+Sequencing of the tet(O) gene and plasmid analysis
+
+The ampliﬁcation of a 559-bp fragment of the tet(O) gene
+was done using primers DMT 1 and DMT 2 (Gibreel
+et al. 2004). A premade mix (OmniMixÒ HS; Cepheid,
+Sunnyvale, CA, USA) was used for the PCR reactions and
+the ampliﬁcation conditions were 95°C for 4 min, 30
+cycles of 95°C for 1 min (denaturation), 61°C for 1 min
+(hybridization) and 72°C for 1 min (extension), and a
+ﬁnal extension of 72°C for 4 min. A 2015-bp segment of
+the tet(O) gene was ampliﬁed using primers tet(O)-F
+109–1108 (5¢-TTG TTT TGG GGC TAT TGG AG-3¢),
+tet(O)-R 109–1108 (5¢-TCA CCG TTT GTC GGA ACA
+TA-3¢), tet(O)-F 750–1500 (5¢-GAG AAA TAT ATG TCA
+GGG AAA CCG T-3¢), tet(O)-R 750–1500 (5¢-CGG TCT
+TTC CAT ATA TAT AAC AGT AGG C-3¢), tet(O)-F
+1089–2193 (5¢-TAT GTT CCG ACA AAC GGT GA-3¢)
+and tet(O)-R 1089–2193 (5¢-CCC AAT TCC CAT TCA
+TCA TAA-3¢). The ampliﬁed products were sequenced
+using an ABI 3100 Genetic Analyzer (Applied Biosystems).
+
+The sequence of the 1997-bp segment of the tet(O) gene
+from one strain was submitted to the European Bioinfor-
+matics Institute (EBI) and was assigned the accession
+numbers (AM884250). The strains were tested for the
+presence of plasmids using unrestricted agarose plugs in
+PFGE gels and with the QIAprepÒ Spin Mini Prep kit
+and QIAﬁlterÔ Plasmid Midi kit (Qiagen Inc., Sunyvale,
+CA, USA) for plasmid extraction. Positive Escherichia coli
+strains (AU4 AU19) containing known plasmids were
+used as positive controls in gel electrophoresis.
+
+PFGE analysis
+
+Thirty isolates were tested with a standard PFGE protocol
+(Ribot et al. 2001) with the modiﬁcations suggested by
+the Centers for Disease Control and Preventions (http://
+www.cdc.gov/pulsenet ⁄ protocols.htm) was used. A diges-
+tion of Salmonella choleraesuis ssp. choleraesuis serotype
+Braenderup H9812 (ATCC BAA-664) was used as the
+DNA size marker. This marker was included in three
+lanes per each PFGE gel, the two lanes at the end and
+one in the middle. Campylobacter DNA was digested with
+KpnI, SalI or SmaI, as well as a combination of
+SmaI ⁄ KpnI. The strains that were not digestible with
+SmaI were also tested with the following enzymes: ApaI,
+BamHI, BglII, HindIII, KspI (SacII), NotI, NruI, SacI, SpeI
+and XbaI. The switch times for the SmaI ⁄ KpnI combina-
+tion were initial 6Æ76 s and ﬁnal 35Æ38 s. Restricted DNA
+fragments were separated with a contour-clamped homo-
+geneous electric ﬁeld (CHEF Mapper; Bio-Rad) in 1%
+agarose gel stained with ethidium bromide, visualized
+with a UV transilluminator (Gel-Doc System; Bio-Rad),
+and a picture recorded using GeneSnap (Syngene). PFGE
+proﬁles were used to perform a pair comparison and
+cluster analysis using the Dice correlation coefﬁcient, and
+a dendogram was created by the Unweighted Pair Group
+method using Mathematical Average (UPGMA) clustering
+algorithm of BioNumerics version 4.50 (Applied Maths,
+Austin, TX, USA). The optimization and position toler-
+ance for band analysis were set at 1%, and a cutoff of
+90% was used to analyse the different PFGE patterns
+(De Boer et al. 2000).
+
+MLST and sequence analysis and phylogenetic
+calculations
+
+MLST was performed following the guidelines available at
+the C. jejuni MLST website (http://pubmlst.org/campylo-
+bacter ⁄ ) and guidelines from previous publications (Din-
+gle et al. 2001). The PCR ampliﬁcation was performed in
+25-ll reactions using a premade mix (Invitrogen Corpo-
+ration). Amplicons were detected on 1Æ5% ethidium
+bromide agarose gels and puriﬁed with a MiniElute PCR
+
+802
+
+ª 2008 The Authors
+Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 800–812
+
+O.A. Oyarzabal et al.
+
+Molecular typing of C. jejuni from Puerto Rico
+
+Puriﬁcation Kit
+(Qiagen Inc.). The concentration of
+ampliﬁed DNA was measured with a NanoDropÒ
+ND-1000 Spectrophotometer (NanoDrop Technologies,
+Wilmington, DE). Two premade PCR mixes, OmniMixÒ
+HS (Cephied, Sunnyvale, CA, USA) and Platinum PCR
+Supermix (Invitrogen Corporation) were used for PCR
+ampliﬁcation for sequencing using the suggested internal
+primers. The ampliﬁed products were sequenced at the
+Auburn University Genetic Analysis Laboratory. The
+sequences were then aligned, assembled and edited using
+MultAlin (http://prodes.toulouse.inra.fr/multalin/multalin.
+html), ClustalW (http://www.ebi.ac.uk/clustalw ⁄ index.
+html) or BioEdit (Hall 1999) version 7.0.5.3 (http://
+www.Mbio.ncsu.edu ⁄ BioEdit ⁄ bioedit.html). Phylogenetic
+trees
+speciﬁc genes based on their
+sequences were conducted using Neighbour-Joining analy-
+sis of MEGA (Molecular Evolutionary Genetics Analysis)
+version 4 (http://www.megasoftware.net). Split decompo-
+sition analysis to test for recombination was done using
+SplitsTree analysis (Bandelt and Dress 1992; Huson
+1998) with free software (http://pubmlst.org/perl/mlstana-
+lyse ⁄ mlstanalyse.pl?site=pubmlst&page=splitstree&referer=
+pubmlst.org). Linkage disequilibrium analysis was calcu-
+lated with Start (http://pubmlst.org/software/analysis/
+start ⁄ ) for the index of association and with Lian version
+(http://pubmlst.org/perl/mlstanalyse ⁄ mlstanalyse.pl?
+3.5
+site=pubmlst), as published by Haubold and Hudson
+(2000), for the standardized index of association.
+
+calculations
+
+for
+
+Serotyping
+
+Serotyping was done by passive haemagglutination of the
+soluble thermostable antigens of C.
+jejuni (Penner and
+Hennessey 1980). Antigenic extracts of Campylobacter
+strains were prepared by boiling and centrifugation (Las-
+tovica et al. 1986). Type-speciﬁc antisera were titrated by
+a passive haemagglutination test against antigen-sensitized
+sheep erythrocytes, as described by Penner and Hennessey
+(1980). Sensitized sheep erythrocytes were tested by pas-
+sive haemagglutination against 60 reference antisera and
+those found to be non-ypable were retested against seven
+other provisional antisera prepared against infrequently
+occurring serotypes. The serotype of the isolate was desig-
+nated according to the antisera in which agglutination
+was observed.
+
+Cell culture and cytotoxicity assays
+
+Twenty C. jejuni strains, representing all 12 PFGE proﬁles
+obtained with the combination SmaI ⁄ KpnI, were analysed
+for their cytotoxicity potential on human colon (Caco-2,
+HTB-7), human larynx epithelial
+(Hep-2, CCL-23),
+Chinese hamster ovarian (CHO, CCL-61) and human
+
+intestine epithelial (INT-407) cells. Cytotoxicity assays
+were performed by measuring the supernatant
+lactate
+dehydrogenase (LDH), a stable cytosolic enzyme that is
+released upon cell lysis (Hu et al. 2006). Cell lines were
+obtained from the American Type Culture Collection and
+maintained in 25-cm2 ﬂasks with Dulbecco’s modiﬁed
+Eagle’s medium (DMEM; Sigma-Aldrich, St Louis, MO,
+USA) containing 10% foetal bovine serum (Atlanta Bio-
+logicals, Norcross, GA, USA). The virulence potential of
+C. jejuni strains was determined using an in vitro cytotox-
+icity assay (Maldonado et al. 2005). Brieﬂy, conﬂuent
+host cell monolayers were trypsinized and grown in 24-
+well plates (37°C; 7% CO2 and humidity for up to 72 h).
+Campylobacter jejuni was added at a multiplicity of infec-
+tion (MOI) of 100. After 6 h of incubation at 37°C in the
+presence of 7% CO2, tissue culture cell supernatants were
+centrifuged (300 g, 5 min), and the release of endogenous
+LDH from the cytosol of damaged, mammalian cells was
+measured by dispensing a 0Æ1-ml aliquot of cell superna-
+tant combined with 0Æ1 ml of LDH substrate into each
+well of a 96-well microtitre plate. Per cent cytotoxicity
+values were determined based on the amount of LDH
+released from 9-min readings for both the positive and
+negative controls in each experiment, as follows:
+percent cytotoxicity ¼ðAexp APBSÞ=ðATriton X APBSÞ 100
+
+where Aexp is the absorbance of the sample, APBS is the
+absorbance of phosphate-buffered saline and ATriton-X is
+the absorbance of Triton X-100 at 1% concentration. At
+least three experiments were run for each strain and each
+cell line. In addition, per cent cytotoxicity values among
+different cell lines were analysed using the GLM (General
+Linear Model) procedure of SAS (SAS Institute Incorpo-
+rated, Cary, NC, USA), and means were analysed for dif-
+ferences with the Duncan’s multiple range test, with
+signiﬁcance set at P £ 0Æ05.
+
+Results
+
+Strain identiﬁcation and antibiotic resistance proﬁling
+
+jejuni
+
+Thirty C.
+isolates (32%) were collected from 94
+broiler samples. From 17 farms that were sampled, 13
+farms (76%) gave Campylobacter growth, and from a
+total of 34 ﬂocks (houses) sampled, 19 (56%) were
+Campylobacter-positive. All
+isolates were conﬁrmed as
+C. jejuni with two mPCR assays and with a hippurate test.
+Six samples were detected as positive by direct plating
+and 24 samples were detected positive after enrichment.
+Using EtestÒ analyses, all
+isolates exhibited high resis-
+tance to vancomycin (minimum inhibitory concentra-
+)1) and trimethoprim (MIC of
+tion, MIC of >256 lg ml
+
+ª 2008 The Authors
+Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 800–812
+
+803
+
+Molecular typing of C. jejuni from Puerto Rico
+
+O.A. Oyarzabal et al.
+
+1
+
+between
+
+)1), but the resistance to other antimicrobials
+>32 lg ml
+was low. No strain was resistant to ciproﬂoxacin, one
+strain was resistant to clindamycin, three were resistant
+)1), and one was
+to erythromycin (MIC of >32 lg ml
+to tetracycline (Table 1). Twenty-two strains
+resistant
+showed
+and
+tetracycline MIC values
+)1, and nine of these strains exhibited a 559-bp
+8 lg ml
+fragment ampliﬁcation of the tet(O) gene with a PCR
+assay (Gibreel et al. 2004). Through a Blast analysis
+(http://www.ncbi.nlm.nih.gov/BLAST/), the sequence of a
+1998-bp segment of the tet(O) gene from the resistant
+strain was
+to known
+(M18896.2, CP000549.1, AY714214.1, AY
+sequences
+701528.1 and AY394561.1). PFGE analysis of unrestricted
+plugs did not reveal any migrating band that could be
+interpreted as being of plasmid origin which was further
+conﬁrmed by direct plasmid preparation. From the 22
+isolates that showed a tetracycline MIC value between 1
+)1, no strain showed the presence of any
+and 8 lg ml
+plasmid. Therefore, the tet(O) gene was considered to be
+chromosomically encoded in these strains.
+
+found to be 100% similar
+
+PFGE results
+
+jejuni
+
+Thirty C.
+isolates were analysed by PFGE. The
+restriction proﬁles obtained varied among the enzymes
+tested. SmaI restriction resulted in nine proﬁles, KpnI
+restriction resulted in eight PFGE proﬁles, SalI restriction
+gave seven proﬁles and the combination of SmaI–KpnI
+digestion yielded 13 different restriction proﬁles, with a
+number of DNA bands that varied from 6 to 14. Ten
+strains did not restrict with KpnI, while two strains did
+not restrict with SalI, SmaI or SmaI ⁄ KpnI. Besides the
+suggested pulse time for KpnI (Anon. 2007), we also tried
+other switch times, some described elsewhere (De Boer
+et al. 2000; Michaud et al. 2001), but the bands in the
+
+PFGE gels were usually less deﬁned for KpnI and SalI
+than for SmaI. To prove whether the lack of SmaI restric-
+tion was because of presence of endogenous proteinases,
+formaldehyde-treated plugs were digested with different
+restriction enzymes. The two strains did not restrict with
+ApaI, BglII, HindIII, KspI (SacII), KpnI, NotI, SmaI, SpeI
+or XbaI, but were restricted with BamHI, NruI, SalI and
+SacI, suggesting that the lack of bands in the SmaI digest
+is most probably the result of the lack of SmaI restrictions
+sites.
+
+The incorporation of thiourea during the running of
+the PFGE gels was reported to improve the discrimination
+of DNA bands (Corkill et al. 2000), although the addition
+)1 of thiourea did not improve
+of more than 200 lmol l
+resolution (data not shown).
+
+data
+
+sequencing
+
+MLST results
+The use of both OmniMixÒ HS and Platinum PCR
+Supermix for PCR ampliﬁcation gave clean amplicons
+for
+for MLST analysis. Table 2
+shows the allelic proﬁles and clonal complexes from the
+C.
+jejuni strains. No new allelic sequences were found
+for any of the house-keeping genes. However, the pre-
+dominant
+allelic proﬁle was new and assigned as
+sequence type (ST)-2624, and deposited on the MLST
+web
+(http://pubmlst.org/campylobacter/). Among
+individual alleles, glnA and pgm were the genes with
+considerable variability in allelic proﬁles, with four
+alleles for pgm (10, 11, 86 and 89) and for glnA (4, 17,
+21 and 30). A calculation of phylogenetic trees for pgm
+and glnA based on their sequences and using the Neigh-
+bour-Joining feature analysis of MEGA version 4 (Tam-
+ura et al. 2007) showed a high variability within the
+four alleles of each gene (data not shown). The calcula-
+tion of the linkage disequilibrium using the algorithms
+
+site
+
+Table 1 Frequency distribution of minimum inhibitory concentration (MIC; lg ml
+
+)1) of Campylobacter jejuni isolates determined by EtestÒ*
+
+Category
+
+Antimicrobial
+
+<0Æ03
+
+0Æ06–0Æ12
+
+0Æ25–0Æ50
+
+Number of occurrences of MIC
+
+I
+
+II
+
+III
+
+Ciproﬂoxacin 
+Azithromycin
+Clindamycin
+Gentamycin
+Erythromycin§
+Tetracycline#
+
+–
+1
+–
+–
+–
+1
+
+10
+13
+5
+3
+
+–
+–
+
+15
+7
+16
+2
+8
+6
+
+1–8
+
+5à
+9
+8
+25
+16
+22
+
+>8
+
+–
+–
+1
+–
+6–
+1
+
+MIC50
+
+MIC90
+
+0Æ25
+0Æ25
+0Æ5
+2
+2
+1
+
+1
+4
+4
+4
+8
+8
+
+*Breakpoints suggested by the Clinical and Laboratory Standards Institute (2006).
+)1.
+ Suggested break point: >4 mg l
+àThe highest MIC value was 3 lg ml
+)1.
+§Suggested break point: >32 mg l
+–Three isolates with MIC of 24 lg ml
+)1.
+#Suggested break point: >16 mg l
+
+)1.
+
+)1.
+
+804
+
+ª 2008 The Authors
+Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 800–812
+
+O.A. Oyarzabal et al.
+
+Molecular typing of C. jejuni from Puerto Rico
+
+Table 2 Allellic proﬁles and clonal complexes from Campylobacter
+jejuni strains
+
+Title: dismat169699.txt
+Date: Sun Dec 9 21:41:39 2007
+
+ST allelic
+proﬁle
+
+2624*
+429
+353
+460
+
+Clonal
+complex
+
+NA 
+48
+353
+460
+
+*New sequence type (ST) proﬁle.
+ No clonal complex assigned yet.
+
+Strains
+
+16
+9
+4
+1
+
+Per cent
+of dataset
+
+53Æ3
+30Æ0
+13Æ3
+3Æ3
+
+2624
+
+gltA = 0Æ5032;
+
+glyA = 0Æ5118;
+
+tkt = 0Æ4710 and uncA = 0Æ4258. Overall,
+
+from DnaSP version 4.10.9 resulted in values of 0Æ77
+(Kelly 1997) and 0Æ74 (Rozas et al. 2001) for pgm and
+0Æ42 (Kelly 1997) and 0Æ53 (Rozas et al. 2001) for glnA.
+Three alleles were found for aspA (7, 14 and 24) and tkt
+(1, 3 and 59), and only two for gltA (2 and 5), glyA (2
+and 68) and uncA (5 and 6). Their calculated genetic
+diversities at individual loci (LIAN) were: aspA = 0Æ5398;
+glnA = 0Æ6172;
+pgm =
+0Æ6172;
+the
+LIAN analysis resulted in a mean genetic diversity (H)
+of 0Æ5266 ± 0Æ027 (SD), and showed linkage disequilib-
+rium for this population of C. jejuni (Table 3). The phy-
+logenetic tree of the ST proﬁles was calculated with the
+UPGMA and showed that the new proﬁle ST-2624 was
+more closely related to ST-460 than the other two ST
+proﬁles. The decomposition analysis was performed with
+SplitsTree and resulted in a network-like shape suggest-
+ing a high degree of
+recombination within genes
+(Fig. 1). When compared with PFGE, MLST was less
+discriminating for
+strain characterization, and strains
+that grouped under ST-2624 had seven different PFGE
+proﬁles (Fig. 2).
+
+Table 3 Calculation of the index and the standardized index of asso-
+ciation*
+
+Testing null hypotheis (H0: VD = Ve)*
+
+Summary statistics
+(means)
+
+Monte Carlo
+(1000 resamplings)
+
+VD 
+Ve 
+sIAà
+
+9Æ27
+1Æ71
+0Æ73
+
+VD
+L
+IA§
+
+0Æ0127
+1Æ9141
+4Æ35
+
+Parametric
+
+0Æ0136
+1Æ906
+
+*Calculated with START (index of association) and LIAN (standardized
+index of association); the tested population of Campylobacter jejuni is
+in linkage disequilibrium.
+ VD, calculated or observed variance; Ve, expected variance for link-
+age equilibrium.
+àsIA, standardized index of association.
+§IA, index of association.
+
+353
+
+460
+
+0·1
+
+48
+
+Fit = 100·0 ntax = 4
+
+Figure 1 Decomposition analysis on allelic proﬁle data using Splits-
+Tree (Hudson 1998; Anon. 2007d). The network-like shape of the
+results is suggestive of recombination.
+
+Serotyping results
+
+From the 30 C. jejuni isolates analysed with the serotyp-
+ing scheme, the predominant serotypes were O:3 and O:5.
+Two strains had a weak reaction with O:21 and 18 strains
+from the O:3 and O:5 serotypes had a minor component
+which serotyped as O:21. Ten strains were nontypable by
+the panel of antisera used.
+
+Cell cultures and cytotoxicity assays
+
+Twenty C. jejuni strains representing all 12 PFGE proﬁles
+obtained by the combination of SmaI ⁄ KpnI were charac-
+terized for their cytotoxicity potential (measured as LDH
+release) on selected tissue cell lines (Caco-2, CHO, Hep-2
+and INT-407). Each strain was compared with a positive
+control (Triton X-100), a low control (PBS) and C. jejuni
+ATCC 29428. Cell cytotoxicity was grouped based on the
+amount of LDH released from each cell line, with catego-
+ries divided as low (1–20%), medium (21–49%) and high
+(>50%). Table 4 shows the results grouped in categories
+for all the cell lines. Only one strain was grouped into the
+low category for each cell line. When tested with Caco-2
+cells, most strains grouped as medium, while most strains
+grouped as high when tested with CHO cells. Testing
+with INT-407 and Hep-2 resulted in a similar distribution
+
+ª 2008 The Authors
+Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 800–812
+
+805
+
+Molecular typing of C. jejuni from Puerto Rico
+
+O.A. Oyarzabal et al.
+
+5
+5
+
+0
+6
+
+5
+6
+
+0
+7
+
+5
+7
+
+0
+8
+
+5
+8
+
+0
+9
+
+5
+9
+
+0
+0
+1
+
+% DNA relatedness
+
+220 kbp
+
+F1-H1-S2
+F2-H1-S1
+F1-H1-S1
+F7-H1-S1
+F11-H1-S1
+F10-H1-S2
+F10-H1-S1
+F10-H2-S4
+F10-H2-S5
+F11-H1-S3
+F11-H2-S5
+F12-H1-S1
+F11-H2-S4
+F4-H1-S1
+F17-H1-S1
+F10-H1-S3
+
+Figure 2 Pulsed-ﬁeld gel electrophoresis macrorestriction proﬁles (SmaI ⁄ KpnI) of Campylobacter jejuni isolates belonging to sequence type (ST)-
+2624. Pair comparison and cluster analysis performed with the Dice correlation coefﬁcient and the Unweighted Pair Group method using Mathe-
+matical Average clustering algorithm of BIONUMERICS version 4.50 (Applied Maths).
+
+Table 4 Cytotoxicity assays of 20 Campylobacter jejuni strains*
+
+LDH (%) 
+
+Caco-2
+
+INT-407
+
+Hep-2
+
+CHO
+
+Strain
+
+Controls
+
+Low (D0F)
+High (1% Triton-X) 100
+ATCC 29428
+
+38
+
+0
+
+0
+100
+72
+
+0
+100
+94
+
+0
+100
+78
+
+Categoriesà
+
+High
+Medium
+Low
+
+Mean ± SEM§
+
+1
+18
+1
+35 ± 1Æ5* 50 ± 2Æ6  53 ± 2Æ8  70 ± 2Æ6à
+
+10
+9
+1
+
+19
+0
+1
+
+9
+10
+1
+
+*Caco-2, human colon adenocarcinoma cells; INT-407, human intes-
+tine epithelial cells; Hep-2, human larynx enterocyte-like cells; CHO,
+Chinese hamster ovarian cells.
+ LDH, lactate dehydrogenase release.
+àCategories: high, ‡50%; intermediate, 21–49%; low, 1–20%.
+§SEM, standard error of the mean. Means with different superscripts
+within this row are signiﬁcantly different (P < 0Æ05) by Duncan’s multi-
+ple range test (SAS version 9.1).
+
+of strains between the medium and high categories. The
+mean percentage values of LDS release from INT-407 and
+Hep-2 cells were similar (P ‡ 0Æ05) for all strains. Some
+strains showed a high variability of results among cell cul-
+ture assays (Fig. 3a), while others exhibited a closer agree-
+ment among the results from different assays (Fig. 3b).
+All four tissue cultures were effective in determining the
+
+cytotoxicity potential of C.
+jejuni strains isolated from
+poultry, although a large variation in the percentage of
+LDH release was found for the same isolates tested with
+different cell lines.
+
+Discussion
+
+We pursued this study to determine the prevalent Cam-
+pylobacter species that colonizes commercial broiler ﬂocks
+in Puerto Rico and to characterize these isolates using
+PFGE, MLST, antimicrobial susceptibility, heat-stable se-
+rotyping and the invasiveness in mammalian cell cultures.
+The year average temperature in Puerto Rico is between
+70° and 90°F, and the temperature recorded outside the
+farms was between 75° and 80°F. Only few samples were
+positive by direct plating, but 32% of the samples were
+positive after enrichment in Preston broth. This number
+of positive ﬂocks is similar to the 57% reported for com-
+mercial broilers in the southeast United States (Stern
+et al. 2001; Potturi-Venkata et al. 2007a). Therefore, the
+shipping of the samples under refrigeration for several
+days may have accounted for a reduction in the number
+of campylobacters in the sample, but did not result in a
+detectable reduction in the prevalence of positive ﬂocks
+(56%) or farms (76%). The ﬂocks were sampled two
+weeks before processing, when Campylobacter is usually
+present in high numbers (Potturi-Venkata et al. 2007a;
+b). The methodology used was optimized with combina-
+tions of plates and enrichment broth for the isolation of
+
+806
+
+ª 2008 The Authors
+Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 800–812
+
+O.A. Oyarzabal et al.
+
+Molecular typing of C. jejuni from Puerto Rico
+
+(a)
+
+100
+
+(b)
+
+e
+s
+a
+e
+e
+r
+ 
+
+l
+
+H
+D
+L
+ 
+%
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Figure 3 Variability of results among strains
+tested with different cell line assays (Caco-2,
+(h) INT-407 (n), Hep-2 ()) and CHO) (¤).
+Strains with low agreement of results (a) vs
+those with higher agreement of results (b).
+
+ 
+1
+S
+-
+2
+H
+-
+1
+F
+
+4
+S
+-
+1
+H
+-
+0
+1
+F
+
+ 
+1
+S
+-
+1
+H
+-
+1
+1
+F
+
+ 
+3
+S
+-
+1
+H
+-
+3
+1
+F
+
+ 
+1
+S
+-
+1
+H
+-
+5
+F
+
+Strains 
+
+ 
+1
+S
+-
+1
+H
+-
+3
+F
+
+ 
+1
+S
+-
+1
+H
+-
+8
+F
+
+ 
+1
+S
+-
+1
+H
+-
+2
+1
+F
+
+ 
+1
+S
+-
+1
+H
+-
+4
+1
+F
+
+ 
+1
+S
+-
+1
+H
+-
+7
+1
+F
+
+Campylobacter spp. from faecal material collected from
+live broilers (Potturi-Venkata et al. 2007b).
+
+policies limiting the use of antimicrobials in food animals
+(Gallay et al. 2007).
+
+The general incidence of resistance among the antimi-
+crobials tested with the disc diffusion method was low.
+Multiresistance was not found among these isolates and
+may be related to the low usage of antimicrobials for
+disease treatment in animal production in Puerto Rico.
+The disc diffusion method appears to be reliable for the
+determination of MIC for erythromycin, ciproﬂoxacin
+and tetracycline for C. jejuni and C. coli (Gaudreau and
+Gilbert 1997). Although gentamicin and erythromycin
+resistance is usually low in C. jejuni, erythromycin resis-
+tance in C. jejuni from chicken appears to be increasing
+in Canada (Le´vesque et al. 2007). Erythromycin is still an
+important antimicrobial for treatment of campylobacteri-
+osis in humans. The increase in the inoculum used to
+seed the plates for the disc diffusion method resulted in
+more consistent and reliable results recorded at 24 h of
+incubation, and similar suggestions on the preparation of
+the inocula and MIC interpretation have been reported to
+improve the per cent agreement between the disc diffu-
+sion method and the agar dilution method for erythro-
+mycin (Luangtongkum et al. 2007).
+
+None of the isolates exhibited resistance to ciproﬂoxa-
+cin. Our results differed from the antimicrobial resistance
+reported for C.
+in Trinidad and Tobago, where
+jejuni
+87% of the C.
+jejuni broiler strains were found to be
+resistant to sulfa ⁄ trimethoprim and ciproﬂoxacin, three
+antimicrobials that are apparently used routinely by the
+poultry industry in that country (Rodrigo et al. 2007). In
+France, the resistance to ciproﬂoxacin by C. jejuni from
+broilers decreased from 31% in 2002 to 9% in 2004, a
+decrease that has been suggested to be the beneﬁts of
+
+jejuni
+
+The incidence of tetracycline resistance was lower than
+the incidence recorded for organic or conventionally
+grown poultry in the United States (Luangtongkum et al.
+2006), or in Canada, where more than 60% of
+the
+C.
+isolates from chickens are resistant to tetra-
+cycline and 8–40% are resistant to ciproﬂoxacin (Anon
+2005b; Kos et al. 2006). The sequencing of c. 90% of the
+chromosomally encoded gene that confers tetracycline
+resistance conﬁrmed that this gene is highly conserved
+in C. jejuni strains isolated from humans and domestic
+animals (Gibreel et al. 2004).
+
+Studies that compared the restriction patterns of SmaI
+and KpnI of human isolates of C. jejuni have concluded
+that KpnI is the enzyme of choice for molecular epidemi-
+jejuni (Michaud et al. 2001; Ka¨ren-
+ology studies of C.
+lampi et al. 2003). However, we found that the use of
+SmaI appears to be better than KpnI for PFGE analysis of
+C.
+jejuni from live broilers. SmaI always restricts more
+C. jejuni strains than KpnI (Michaud et al. 2001), and it
+is the primary restriction enzyme for the protocols devel-
+oped by the CDC, CampyNet (http://campynet.vetinst.dk/
+PFGE.html) and studies in Denmark (Nielsen et al. 2006).
+SalI normally generates partial digest despite the experi-
+mental conditions (Ho and Monaco 1995), a feature that
+we noticed by the presence of unresolved fragments in
+the compression zone of the gels for all the strains. There-
+fore, this enzyme should be limited in its use for restric-
+tion
+The
+combination of restriction with SmaI followed by restric-
+tion with KpnI resulted in a larger number of bands and
+resulted in more PFGE proﬁles (Table 5). In addition, the
+
+ﬁngerprinting
+
+purposes.
+
+proﬁling
+
+for
+
+ª 2008 The Authors
+Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 800–812
+
+807
+
+Molecular typing of C. jejuni from Puerto Rico
+
+O.A. Oyarzabal et al.
+
+Table 5 Pulsed-ﬁeld gel electrophoresis (PFGE) macrorestriction proﬁles, sequence type (ST) allelic proﬁles and serotyping results of Campylobac-
+ter jejuni strains isolated from ﬁve different farms
+
+Isolation (day ⁄ place)
+
+PFGE proﬁles
+
+Isolate ID
+
+Day
+
+Farm
+
+House
+
+SmaI
+
+KpnI
+
+F4-H1-S1
+F5-H1-S1
+F10-H1-S1
+F10-H1-S2
+F10-H1-S3
+F10-H2-S4
+F10-H2-S5
+F11-H1-S1
+F11-H1-S3
+F11-H2-S4
+F11-H2-S5
+F12-H1-S1
+
+1
+1
+2
+2
+2
+2
+2
+3
+3
+3
+3
+3
+
+*NR, Not restricted.
+ ND, Serotyping not done.
+
+4
+5
+10
+10
+10
+10
+10
+11
+11
+11
+11
+12
+
+1
+1
+1
+1
+1
+2
+2
+1
+1
+2
+2
+1
+
+S-3
+S-1
+S-2
+S-2
+S-5
+S-6
+S-6
+S-6
+S-6
+S-6
+S-6
+S-7
+
+NR*
+NR
+K-2
+K-4
+K-5
+K-6
+K-6
+K-7
+K-7
+K-7
+K-7
+K-7
+
+SalI
+
+Sa-3
+Sa-4
+Sa-2
+Sa-2
+Sa-2
+Sa-2
+Sa-2
+Sa-2
+Sa-2
+Sa-2
+Sa-2
+Sa-2
+
+SmaI ⁄ KpnI
+
+ST allelic proﬁles
+
+Serotyping
+
+SK-4
+SK-3
+SK-5
+SK-5
+SK-8
+SK-7
+SK-7
+SK-5
+SK-7
+SK-9
+SK-7
+SK-7
+
+2624
+48
+2624
+2624
+2624
+2624
+2624
+2624
+2624
+2624
+2624
+2624
+
+O:5
+O:5
+O:21
+O:21
+O:5
+O:3
+O:3
+ND 
+O:3
+O:3
+ND
+ND
+
+combination of molecular methods demonstrated that
+more than one PFGE proﬁle may be present in one farm,
+in different houses (F10-H1-S3 and F10-H2-S4) or in the
+same house or ﬂock (F11-H2-S4 and F11-H2-S5)
+(Table 5). It is important to restrict the plugs ﬁrst with
+SmaI and then with KpnI to guarantee that a larger num-
+ber of strains will be restricted. The increase in the num-
+ber of fragments with the SmaI ⁄ KpnI combination was
+more obvious in the area below 250 kbp (Fig. 2); an ele-
+ment that made the PFGE proﬁles more challenging to
+analyse using the visual scoring system suggested by Te-
+nover et al. (1995). Therefore, the use of ﬁngerprinting
+analysis software, such as BioNumerics, appears to be
+indispensable for a reliable analysis of the results obtained
+with this combination.
+
+The lack of improvement by adding formaldehyde in the
+PFGE protocol strongly suggests that the lack of restriction
+patterns found for some isolates and speciﬁc enzymes is
+not related to the presence of DNAses in those strains
+(Gibson et al. 1994), but may be related to the lack of
+restriction sites or restriction site methylation. In large
+eukaryotic genomes (>108 base pairs), this lack of restric-
+tion, especially the CpG nucleotide deﬁciency, has been
+usually associated with DNA methylation, which is almost
+universal in these organisms (Bestor 1990). DNA methyla-
+tion involves the addition of a methyl group to DNA bases,
+primarily to carbon #5 of the cytosine pyrimidine ring.
+This theory has traditionally been applied to explain the
+lack of restriction of bacterial genome. However, recent
+ﬁndings question this assertion and suggest that cytosine
+methylation is not the primary reason for the CpG dinucle-
+otide deﬁciency in bacterial genomes (Wang et al. 2004).
+
+PFGE restriction with SmaI has been reported to be
+more discriminating than MLST for outbreak investiga-
+
+tions, although a combination of MLST plus sequencing
+of the ﬂaA short variable region may provide a level of
+discrimination equivalent to PFGE for outbreak investiga-
+tions (Sails et al. 2003). Our comparison of the PFGE,
+MLST and serotyping proﬁles of C. jejuni strains isolated
+in the same geographical area suggests that the PFGE pro-
+ﬁles may change quickly within C. jejuni strains and may
+account
+for the variety of genotypes frequently found
+when analysing C. jejuni with PFGE (Table 5).
+
+It is apparent that a ST proﬁle of C. jejuni, or clone,
+appears to dominate in a geographic area for a variable
+period. The prevalent ST proﬁle in our report is a new
+combination of previously described alleles. The other
+three MLST proﬁles found have been identiﬁed in C. jeju-
+ni isolated from humans, animals and the environment.
+ST-460 has been reported by the Centers for Disease
+Control and Prevention, and ST-48 and ST-353 were
+described in the United Kingdom (Dingle et al. 2001,
+2002). ST-48 was the most predominant ST in a study
+done in New South Wales, Australia (Mickan et al. 2007),
+and has been associated to serotype O:4 of the Penner se-
+rotyping system (Penner and Hennessey 1980). ST-353
+has been associated with O:3, O:11 and O:37 of the heat-
+resistant serotyping system (Dingle et al. 2002). In our
+study ST-48 was represented by O:3 and O:5 serotypes,
+while ST-353 was represented only by serotype O:3. ST-
+2624 was represented by all the serotypes found in this
+study, including the minor O:21.
+
+Within the individual genes, glnA and pgm showed the
+highest diversity (four alleles) and the analysis of their
+sequence diversity showed a variability that has been
+described for other genes in C.
+jejuni (Suerbaum et al.
+2001). Both the diversity within genes and the analysis of
+the allelic proﬁle data using SplitsTree and the UPGMA
+
+808
+
+ª 2008 The Authors
+Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 800–812
+
+O.A. Oyarzabal et al.
+
+Molecular typing of C. jejuni from Puerto Rico
+
+suggesting
+
+cluster analysis resulted in graphs with alleles connected
+to each other by multiple pathways, with a network-like
+structure
+recombination (Suerbaum et al.
+2001). pgm has been used to analyse the recombination of
+C. jejuni from MLST data, and along with unc (atpA, ATP
+synthase alpha subunit) they appear to come to C. jejuni
+from other Campylobacter spp. (Fearnhead et al. 2005). In
+our study, the diversity of the allelic proﬁles for unc was
+minimal, with two alleles and only one base difference (C
+vs T) in base 864 of the atpA gene (NCBI accession num-
+ber AL111168). This is different from the variety of allelic
+proﬁles, with multiple polymorphic sites, reported by
+French et al. (2005) for unc alleles analysed from C. jejuni
+associated to cattle in the United Kingdom. It appears
+that the allelic variability for each of the seven housekeep-
+ing genes for MLST proﬁles varies according to the origin
+of the strains and different geographical areas.
+
+We calculated both the index of association (IA), as
+described for the analysis of the degree of linkage in mul-
+tilocus enzyme electrophoresis
+(Maynard Smith et al.
+1993; Maynard Smith 1999), and the standardized IA
+(sIA) that corrects for the number of loci analysed (Hau-
+bold and Hudson 2000). The sIA value of 0Æ73 and a
+calculated variance that was signiﬁcantly higher than the
+expected variance (P £ 0Æ0127) suggested a high degree of
+recombination among the MLST genes within this popu-
+lation of C. jejuni isolates (Table 3).
+
+MLST results have revealed that populations of differ-
+ent bacteria frequently exchange genetic material, and
+produce interclonal variance in virulence traits. These
+ﬁndings based on molecular population genetic studies
+have resulted in the tenet that the unit of bacterial patho-
+genicity is the clone, or cell line (Musser 1996). However,
+the analyses of linkage disequilibrium on comparison of
+gene trees have revealed that few bacteria are indeed clo-
+nal (Maynard Smith et al. 1993; Spratt and Maiden 1999;
+Feil et al. 2001; Supply et al. 2003). In C. jejuni, a high
+frequency of inter- and intraspecies recombination may
+account for the high degree of variation (addition and or
+deletions) of restriction sites and PFGE proﬁles found in
+C. jejuni isolated from live broilers chickens (Dingle et al.
+2001; Schouls et al. 2003; Potturi-Venkata et al. 2007a,b)
+and retail broiler products (Dickins et al. 2002; Oyarzabal
+et al. 2007a). Therefore, MLST proﬁling, although useful
+in determining temporal phylogenetic comparison, may
+be less discriminating for spatial, short-term epidemiolog-
+ical studies of C. jejuni strains from live broilers. The fact
+that we found only four ST allelic proﬁles, with one being
+completely new, vs 10 different PFGE proﬁles suggest that
+microrestriction proﬁling is still a powerful system for the
+tracking of C. jejuni strains.
+
+Most of the studies of cytotoxicity on Campylobacter
+spp. make use of tissue culture cell models, with a sub-
+
+characterization of
+
+jective, qualitative
+the degree of
+morphological cell rounding. We measured instead the
+supernatant LDH that was released upon cell lysis. Our
+results measuring LDH from the cytotoxicity assays in cell
+lines showed a wide range of variation that has been
+described using different mammalian cell lines on C. jejuni
+isolated from different sources, including broiler chickens
+(Gilbert and Slavik 2004; Coote et al. 2007). The variabil-
+ity of these assays is dependent on the way the assays are
+performed, may appear to even change with strains over
+time (Coote et al. 2007), and demonstrate that cytotoxin
+production by C. jejuni is quite complex when compared
+with that of other enteric pathogens (Misawa et al. 1995).
+Our results showed that some strains had a high agree-
+ment among the results from the same cell
+line, while
+other strains showed no agreement among the results
+from the same cell
+isolates that
+grouped in the low cytotoxicity category was much smaller
+than previously reported (Gilbert and Slavik 2004).
+Although there is no direct correlation between the patho-
+genicity of C. jejuni and the presence of the toxins (Lam
+1993), cytotoxicity assays have been used to infer the
+potential pathogenicity of C. jejuni isolates. For instance,
+there is an important correlation between invasiveness and
+colitis in patients from which the isolates were obtained,
+although some strains attach to cell
+lines but do not
+invade the cells (Everest et al. 1992). The ﬁndings of low
+toxicity reported with CHO (Nadeau et al. 2003; Coote
+et al. 2007) do not correlate with the present results.
+
+line. The number of
+
+Globally, there are differences in Campylobacter antigens
+and on the typability of C. jejuni strains with Penner anti-
+sera and it is common to encounter strains that are untypa-
+ble with this method (Eyles et al. 2006; Nielsen et al. 2006).
+Some of the strains from this study were not recognized by
+any antisera, and a weak serotyping found with O:21 makes
+this serotype less signiﬁcant, as the titre was too low to be
+compared with the titres obtained with O:3 and O:5. Sero-
+type O:5 has been found in different geographical areas,
+and has recently been described in C. jejuni isolates from
+humans and water sources in New Zealand (Eyles et al.
+2006). Campylobacter jejuni serotypes O:3 and O:5 have
+been found in the blood cultures and diarrhoetic stools of
+paediatric patients (Lastovica 1996). Serotype O:21 has been
+also found in paediatric diarrhoeic patients, in chickens
+without disease and in terminally ill ostriches with enteritis
+in South Africa (A.J. Lastovica, unpublished results).
+
+The molecular characterization of bacterial pathogens
+is essential to understand the short- and long-term epi-
+demiological implications of a given foodborne pathogen
+(Spratt and Maiden 1999). The long-term goal of an
+active surveillance programme is to predict, with high
+degree of certainty, the rise and spread of an epidemic
+clone with high pathogenicity potential
+for humans
+
+ª 2008 The Authors
+Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 800–812
+
+809
+
+Molecular typing of C. jejuni from Puerto Rico
+
+O.A. Oyarzabal et al.
+
+the isolates, but
+
+the cost of
+
+(Maynard Smith et al. 1993). For weakly clonal organ-
+isms molecular methods have yielded different data, and
+there appears to be a lack of agreement among methods
+applied to the same group of strains. For instance, dif-
+ferent databases have been collected and maintained for
+C. jejuni, such as ﬁngerprinting proﬁles based on PFGE
+or sequencing data based on MLST. MLST results in
+100% typability of
+this
+method (Dingle et al. 2002) and the apparent low num-
+ber of alleles found in a relatively small population of
+isolates may limit
+its application for epidemiological
+studies. Yet, the prediction of the appearance of epi-
+demic clones in a given geographic area may still be
+limited even if an active surveillance is in place. The
+difﬁculty in interpretation of a wide range of results is a
+severe limitation in studies on pathogens with high
+capacity for horizontal gene transfer (Oyarzabal et al.
+2007b), where even typability results may vary according
+to the different methods. The small population of C. je-
+juni that we sampled may be a limiting factor of this
+study, but at
+the
+limitation of each of the methods employed for strain
+characterization. The diversity found within C.
+jejuni
+and the lack of agreement among the different methods
+suggests that studies of larger populations of strains will
+result
+In
+conclusion, these results suggest that the use of more
+than two typing methods may be necessary to fully
+understand the variability of C. jejuni strains colonizing
+commercial broilers in Puerto Rico.
+
+in more complex information to analyse.
+
+the same time exempliﬁes some of
+
+Acknowledgements
+
+A.J. Lastovica gratefully acknowledges the ﬁnancial sup-
+port of the South African Medical Research Council. The
+work of S. Backert is supported by SafeFoodera program
+and BMBF (NBL3-2, 01ZZ0407). This publication made
+use of the C.
+jejuni MLST website (http://pubmlst.org/
+campylobacter/) developed by Keith Jolley and Man-Suen
+Chan, sited at the University of Oxford, and funded by
+the Wellcome Trust.
+
+References
+
+Anon. (2005a) Report on the consumption of broiler meat in
+
+Puerto Rico. Santurce, P.R.: Ofﬁce of Agricultural Statistics,
+Department of Agriculture of Puerto Rico.
+
+Anon. (2005b) Canadian Integrated Program for Antimicrobial
+
+Resistance Surveillance (CIPARS), Preliminary Results. Minis-
+ter of Public Works and Government Services Canada,
+Ottawa, Ontario K1A 0S5. Cat No.: HP2-4 ⁄ 2005-1E-PDF.
+
+Anon. (2007) PulseNet Protocols. Campylobacter jejuni. http://
+
+www.cdc.gov/pulsenet/protocols.htm.
+
+Bandelt, H.J. and Dress, A.W. (1992) Split decomposition: a
+new and useful approach to phylogenetic analysis of dis-
+tance data. Mol Phylogenet Evol 1, 242–252.
+
+Bestor, T.H. (1990) DNA methylation: evolution of a bacterial
+immune function into a regulator of gene expression and
+genome structure in higher eukaryotes. Phil Trans R Soc
+Lond B 326, 179–187.
+
+Butzler, J. and Oosterom, J. (1991) Campylobacter: pathogenic-
+ity and signiﬁcance in foods. Int J Food Microbiol 12, 1–8.
+Clinical and Laboratory Standards Institute (2006) Methods for
+antimicrobial dilution and disk susceptibility testing of infre-
+quently isolated or fastidious bacteria. Approved standard
+M45-A. Wayne, PA: Clinical and Laboratory Standards
+Institute.
+
+Coote, J.G., Stewart-Tull, D.E.S., Owen, R.J., Bolton, F.J.,
+
+Siemer, B.L., Candlish, D., Thompson, D.H., Wardlaw,
+A.C. et al. (2007) Comparison of virulence-associated in
+vitro properties of typed strains of Campylobacter jejuni
+from different sources. J Med Microbiol 56, 722–732.
+
+Corkill, J.E., Graham, R., Hart, C.A. and Stubbs, S. (2000)
+
+Fast-track communication pulsed-ﬁeld gel electrophoresis
+of degradation-sensitive DNAs from Clostridium difﬁcile
+PCR ribotype 1 strains. J Clin Microbiol 38, 2791–2792.
+
+De Boer, P., Duim, B., Rigter, A., van der Plas, J., Jacobs-
+
+Reitsma, W. and Wagenaar, J.A. (2000) Computer-assisted
+analysis and epidemiological value of genotyping methods
+for Campylobacter jejuni and Campylobacter coli. J Clin
+Microbiol 38, 1940–1946.
+
+Dickins, M.A., Franklin, S., Stefanova, R., Shutze, G.E.,
+
+Eisenach, K.D., Wesley, I.V. and Cave, D. (2002) Diversity
+of Campylobacter isolates from retail poultry carcasses and
+from humans as demonstrated by pulsed-ﬁled gel electro-
+phoresis. J Food Protect 65, 957–962.
+
+Dingle, K.E., Colles, F.M., Wareing, D.R., Ure, R., Fox, A.J.,
+
+Bolton, F.E., Bootsma, H.J., Willems, R.J. et al. (2001)
+Multilocus sequence typing system for Campylobacter
+jejuni. J Clin Microbiol 39, 14–23.
+
+Dingle, K.E., Colles, F.M., Ure, R., Wagenaar, J.A., Duim, B.,
+
+Bolton, F.J., Fox, A.J., Wareing, D.R.A. et al. (2002)
+Molecular characterization of Campylobacter jejuni clones:
+a basis for epidemiologic investigation. Emerg Infect Dis 8,
+949–955.
+
+Everest, P.H., Goosens, H., Butzler, J.P., Lloyd, D., Knutton,
+S., Ketley, J.M. and Williams, P.H. (1992) Differentiated
+Caco-2 cells as a model for enteric invasion by Campylo-
+bacter jejuni and C. coli. J Med Microbiol 37, 319–325.
+
+Eyles, R.F., Brooks, H.J.L., Townsend, C.R., Burtenshaw, G.A.,
+Heng, N.C.K., Jack, R.W. and Weinstein, P. (2006) Com-
+parison of Campylobacter jejuni PFGE and Penner subtypes
+in human infections and in water samples from the Taieri
+River catchment of New Zealand. J Appl Microbiol 101,
+18–25.
+
+Fearnhead, P., Smith, N.G.C., Barrigas, M., Fox, A. and French,
+
+N. (2005) Analysis of recombination in Campylobacter jejuni
+from MLST population data. J Mol Evol 61, 333–340.
+
+810
+
+ª 2008 The Authors
+Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 800–812
+
+O.A. Oyarzabal et al.
+
+Molecular typing of C. jejuni from Puerto Rico
+
+Feil, E.J., Holmes, E.C., Bessen, D.E., Chan, M.-S., Day, N.P.,
+
+Enright, M.C., Goldstein, R., Hood, D.W. et al. (2001)
+Recombination within natural populations of pathogenic
+bacteria: short-term empirical estimates and long-term
+phylogenetic consequences. Proc Natl Acad Sci USA 98,
+182–187.
+
+isolates collected from humans and chickens in Finland
+during a seasonal peak. J Clin Microbiol 41, 4870–4872.
+
+Ka¨renlampi, R., Rautelin, H. and Ha¨nninen, M.-L. (2007)
+
+Evaluation of genetic markers and molecular typing meth-
+ods for prediction of sources of Campylobacter jejuni and
+C. coli infections. Appl Environ Microbiol 73, 1683–1685.
+
+French, N.P., Barrigas, M., Brown, P., Ribiero, P., Williams,
+
+Kelly, J.K. (1997) A test of neutrality based on interlocus asso-
+
+N.J., Leatherbarrow, H., Birtles, R., Bolton, E. et al. (2005)
+Spatial epidemiology and natural population structure of
+Campylobacter jejuni colonizing a farmland ecosystem.
+Environ Microbiol 7, 1116–1126.
+
+Gallay, A., Prouzet-Maule´on, V., Kempf, I., Lehours, P.,
+
+Labadi, L., Camou, C., Denis, M., de Valk, H. et al. (2007)
+Campylobacter antimicrobial drug resistance among
+humans, broiler chickens, and pigs, France. Emerg Infect
+Dis 13, 259–266.
+
+Gaudreau, C. and Gilbert, H. (1997) Comparison of disc diffu-
+sion and agar dilution methods for antibiotic susceptibility
+testing of Campylobacter jejuni subsp. jejuni and Campylo-
+bacter coli. J Antimicrob Chemother 39, 707–712.
+
+Gibreel, A., Tracz, D.M., Nonaka, L., Ngo, T.M., Connell, S.R.
+and Taylor, D.E. (2004) Incidence of antibiotic resistance
+in Campylobacter jejuni isolated in Alberta, Canada, from
+1999 to 2002, with special reference to tet(O)-mediated
+tetracycline resistance. Antimicrob Agents Chemother 48,
+3442–3450.
+
+Gibson, J.R., Sutherland, K. and Owen, R.J. (1994) Inhibition
+
+of DNAase activity in PFGE analysis of Campylobacter
+jejuni. Lett Appl Microbiol 19, 357–358.
+
+Gilbert, C. and Slavik, M. (2004) Determination of toxicity of
+
+Campylobacter jejuni isolated from humans and from poul-
+try carcasses acquired at various stages of production.
+J Appl Microbiol 97, 347–353.
+
+Hall, T.A. (1999) BioEdit: a user-friendly biological sequence
+
+alignment editor and analysis program for Windows
+95 ⁄ 98 ⁄ NT. Nucleic Acids Symp Ser 41, 95–98.
+
+Haubold, B. and Hudson, R.R. (2000) LIAN 3.0: detecting
+
+linkage disequilibrium in multilocus data. Linkage analysis.
+Bioinformatics 16, 847–848.
+
+Ho, M.F. and Monaco, A.P. (1995) PFGE in physical mapping.
+In Pulsed Field Gel Electrophoresis, A Practical Approach ed.
+Monaco, A.P. pp. 21–43 New York, NY: Oxford University
+Press Inc.
+
+Hu, L., Bray, M.D., Osorio, M. and Kopecko, D.J. (2006) Cam-
+pylobacter jejuni induces maturation and cytokine produc-
+tion in human dendritic cells. Infect Immun 74, 2697–2705.
+
+Hudson, D.H. (1998) SplitsTree: analyzing and visualizing
+
+evolutionary data. Bioinformatics 14, 68–73.
+
+Hutchinson, D.N. and Bolton, F.J. (1984) An improved blood-
+free selective medium for isolation of Campylobacter jejuni
+from faecal specimens. J Clin Pathol 37, 956–995.
+
+ciations. Genetics 146, 1197–1206.
+
+Kos, V.N., Keelan, M. and Taylor, D.E. (2006) Antimicrobial
+susceptibilities of Campylobacter jejuni isolates from poul-
+try from Alberta, Canada. Antimicrob Agents Chemother
+50, 778–780.
+
+Lam, K.M. (1993) A cytotoxicity test for the detection of Cam-
+
+pylobacter jejuni toxin. Vet Microbiol 35, 133–139.
+
+Lastovica, A.J. (1996) Serotype distribution of isolates of
+
+C. jejuni subsp. jejuni, C. jejuni subsp. doylei, C. coli and
+C. upsaliensis from pediatric enteritis patients. In Campylo-
+bacter, Helicobacters and Related Organisms ed. Newell,
+D.G., Ketley, J.M. and Feldman, R.A. pp. 481–485 New
+York, NY: Plenum Press.
+
+Lastovica, A.J., Marshall, R.B. and Penner, J.L. (1986) Cam-
+
+pylobacter serotyping on shipped antigenic extracts. Lancet
+1, 320.
+
+Le´vesque, S., Frost, E. and Michaud, S. (2007) Comparison of
+
+antimicrobial resistance of Campylobacter jejuni isolated
+from humans, chickens, raw milk, and environmental
+water in Que´bec. J Food Protect 70, 729–735.
+
+Lopez-Ortiz, W. and Solivan, R.A. (1999) Campylobacter jejuni
+
+among patients with gastroenteritis: incidence at a refer-
+ence microbiology laboratory in San Juan, Puerto Rico.
+P R Health Sci J 18, 273–276.
+
+Luangtongkum, T., Morishita, T.Y., Ison, A.J., Huang, S.,
+
+McDermott, P.F. and Zhang, Q. (2006) Effect of conven-
+tional and organic production practices on the prevalence
+and antimicrobial resistance of Campylobacter spp. in
+poultry. Appl Environ Microbiol 72, 3600–3607.
+
+Luangtongkum, T., Morishita, T.Y., El-Tayeb, A.B., Ison, A.J.
+and Zhang, Q. (2007) Comparison of antimicrobial sus-
+ceptibility testing of Campylobacter spp. by the agar dilu-
+tion and the agar disk diffusion methods. J Clin Microbiol
+45, 590–594.
+
+Maldonado, Y., Fiser, J.C., Nakatsu, H.C. and Bhunia, A.K.
+
+(2005) Cytotoxicity potential and genotypic characteriza-
+tion of Escherichia coli isolates from environmental and
+food sources. Appl Environ Microbiol 71, 1890–1898.
+
+Maynard Smith, J. (1999) The detection and measurement of
+
+recombination from sequence data. Genetics 153, 1021–
+1027.
+
+Maynard Smith, J., Smith, N.H., O’Rourke, M. and Spratt,
+
+B.G. (1993) How clonal are bacteria? Proc Natl Acad Sci
+USA 90, 4384–4388.
+
+Ka¨renlampi, R., Rautelin, H., Hakkinen, M. and Ha¨nninen,
+
+Michaud, S., Menard, S., Gaudreau, C. and Arbeit, R.D.
+
+M.-L. (2003) Temporal and geographical distribution and
+overlap of Penner heat-stable serotypes and pulsed-ﬁeld
+gel electrophoresis genotypes of Campylobacter jejuni
+
+(2001) Comparison of SmaI-deﬁned genotypes of Cam-
+pylobacter jejuni examined by KpnI: a population-based
+study. J Med Microbiol 50, 1075–1081.
+
+ª 2008 The Authors
+Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 800–812
+
+811
+
+Molecular typing of C. jejuni from Puerto Rico
+
+O.A. Oyarzabal et al.
+
+Mickan, L., Doyle, R., Valcanis, M., Dingle, K.E., Unicomb, L.
+and Lanser, J. (2007) Multilocus sequence typing of Cam-
+pylobacter jejuni isolates from New South Wales, Australia.
+J Appl Microbiol 102, 144–152.
+
+Misawa, N., Ohnishi, T., Itoh, K. and Takahashi, E. (1995)
+Cytotoxin detection in Campylobacter jejuni strains of
+human and animal origin with three tissue culture systems.
+J Med Microbiol 43, 354–359.
+
+Rodrigo, S., Adesiyun, A., Asgarali, Z. and Swanston, W.
+
+(2007) Antimicrobial resistance of Campylobacter spp. iso-
+lated from broilers in small poultry processing operations
+in Trinidad. Food Cont 18, 321–325.
+
+Rozas, J., Gullaud, M., Blandin, G. and Aguade´, M. (2001)
+
+DNA variation at the rp49 gene region of Drosophila simu-
+lans: evolutionary inferences from an unusual haplotype
+structure. Genetics 158, 1147–1155.
+
+Musser, J.M. (1996) Molecular population genetic analysis of
+
+Sails, A.D., Swaminathan, B. and Fields, P.I. (2003) Utility
+
+emerged bacterial pathogens: selected insights. Emerg Infect
+Dis 2, 1–17.
+
+Nadeau, E., Messier, S. and Quessy, S. (2002) Prevalence and
+
+comparison of genetic proﬁles of Campylobacter strains
+isolated from poultry and sporadic cases of campylobacter-
+iosis in humans. J Food Prot 65, 73–78.
+
+Nadeau, E., Messier, S. and Quessy, S. (2003) Comparison of
+
+Campylobacter isolates from poultry and humans:
+association between in vitro virulence properties, biotypes
+and pulse-ﬁeld gel electrophoresis clusters. Appl Environ
+Microbiol 69, 6316–6320.
+
+of multilocus sequence typing as an epidemiological
+tool for investigation of outbreaks of gastroenteritis
+caused by Campylobacter jejuni. J Clin Microbiol 41,
+4733–4739.
+
+Schouls, L.M., Reulen, S., Duim, B., Wagenaar, J.A., Willems,
+R.J.L., Dingle, K.E., Colles, F.M. and Van Embden, J.D.A.
+(2003) Comparative genotyping of Campylobacter jejuni by
+ampliﬁed fragment length polymorphism, multilocus
+sequence typing, and short repeat sequencing: strain diver-
+sity, host range, and recombination. J Clin Microbiol 41,
+15–26.
+
+Nielsen, E.M., Fussing, V., Engberg, J., Nielsen, N.L. and
+
+Spratt, B.G. and Maiden, M.C.J. (1999) Bacterial population
+
+Neimann, J. (2006) Most Campylobacter subtypes from
+sporadic infections can be found in retail poultry products
+and food animals. Epidemiol Infect 134, 758–767.
+
+Oyarzabal, O.A., Macklin, K.S. and Barbaree, J.M. (2005)
+
+Evaluation of agar plates for direct enumeration of
+Campylobacter spp. from poultry carcass rinses. Appl Environ
+Microbiol 71, 3351–3354.
+
+Oyarzabal, O.A., Backert, S., Nagaraj, M., Miller, R.S., Hussain,
+S.K. and Oyarzabal, E.A. (2007a) Efﬁcacy of supplemented
+buffered peptone water for the isolation of Campylobacter
+jejuni and C. coli from broiler retail products. J Microbiol
+Methods 69, 129–136.
+
+Oyarzabal, O.A., Rad, R. and Backert, S. (2007b) Conjugative
+transfer of a chromosomally-encoded antibiotic resistance
+from Helicobacter pylori into Campylobacter jejuni. J Clin
+Microbiol 45, 402–408.
+
+genetics, evolution and epidemiology. Phil Trans R Soc
+Lond B Biol Sci 354, 701–710.
+
+Stern, N.J., Fedorka-Cray, P., Bailey, J.S., Cox, N.A., Craven,
+S.E., Hiett, K.L., Musgrove, M.T., Ladely, S. et al. (2001)
+Distribution of Campylobacter spp. in selected U.S. poultry
+production and processing operations. J Food Prot 64,
+1705–1710.
+
+Suerbaum, S., Lohrengel, M., Sonnevend, A., Ruberg, F. and
+
+Kist, M. (2001) Allelic diversity and recombination in
+Campylobacter jejuni. J Bacteriol 183, 2553–2559.
+
+Supply, P., Warren, R.M., Ban˜uls, A.-L., Lesjean, S., van der
+Spuy, G.D., Lewis, L.-A., Tibayrenc, M., van Heldenand,
+P.D. et al. (2003) Linkage disequilibrium between minisat-
+ellite loci supports clonal evolution of Mycobacterium
+tuberculosis in a high tuberculosis incidence area. Mol
+Microbiol 47, 529–538.
+
+Penner, J.L. and Hennessey, J.N. (1980) Passive hemagglutina-
+
+Tamura, K., Dudley, J., Nei, M. and Kumar, S.(2007) MEGA4:
+
+tion technique for serotyping Campylobacter fetus subsp.
+jejuni on the basis of soluble heat-stable antigens. J Clin
+Microbiol 12, 732–737.
+
+Potturi-Venkata, L.-P., Backert, S., Vieira, S.L. and Oyarzabal,
+
+molecular evolutionary genetics analysis (MEGA) software
+version 4.0. Molecular Biology and Evolution,
+doi:10.1093 ⁄ molbev ⁄ msm092. [Online.] http://www.
+megasoftware.net. Accessed 23 September 2007.
+
+O.A. (2007a) Evaluation of logistic processing to reduce
+cross-contamination of commercial broiler carcasses with
+Campylobacter spp. J Food Prot 70, 2549–2554.
+
+Tauxe, R. (1997) Emerging foodborne diseases: an evolving
+
+public health challenge. Emerg Infect Dis 3, 425–434.
+
+Tenover, F.C., Arbeit, R.D., Goering, R.V., Mickelsen, P.A.,
+
+Potturi-Venkata, L.P., Backert, S., Lastovica, A.J., Vieira, S.L.,
+Norton, R.A., Miller, R.S., Pierce, S.J. and Oyarzabal, O.A.
+(2007b) Evaluation of different plate media for direct cul-
+tivation of Campylobacter spp. from live broilers. Poul Sci
+86, 1304–1311.
+
+Ribot, E.M., Fitzgerald, C., Kubota, K., Swaminathan, B. and
+Barrett, T.T. (2001) Rapid pulsed-ﬁeld gel electrophoresis
+protocol for subtyping of Campylobacter jejuni. J Clin
+Microbiol 39, 1889–1894.
+
+Murray, B.E., Persing, D.H. and Swaminathan, B. (1995)
+Interpreting chromosomal DNA restriction patterns
+produced by pulsed-ﬁeld gel electrophoresis: criteria for
+bacterial strain typing. J Clin Microbiol 33, 2233–
+2239.
+
+Wang, Y., Rocha, E.P.C., Leung, F.C.C. and Danchin, A.
+
+(2004) Cytosine methylation is not the major factor induc-
+ing CpG dinucleotide deﬁciency in bacterial genomes.
+J Mol Evol 58, 692–700.
+
+812
+
+ª 2008 The Authors
+Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 800–812
+
+

@@ -1,0 +1,2268 @@
+ORIGINAL RESEARCH
+published: 12 November 2019
+doi: 10.3389/fmicb.2019.02577
+
+Diversity of Serotype, Genotype,
+and Antibiotic Susceptibility of
+Salmonella Prevalent in Pickled
+Ready-to-Eat Meat
+
+Jiawei Wang1, Huanjing Sheng1, Weili Xu1, Jinling Huang1, Lingyuan Meng1,
+Chenyang Cao1, Jie Zeng2, Jianghong Meng3 and Baowei Yang1*
+
+1 College of Food Science and Engineering, Northwest A&F University, Yangling, China, 2 School of Food Science, Henan
+Institute of Science and Technology, Xinxiang, China, 3 Department of Nutrition and Food Science, Joint Institute for Food
+Safety and Applied Nutrition, University of Maryland, College Park, College Park, MD, United States
+
+the prospect
+
+Pickled ready-to-eat meat (PRTEM)
+is a meat product that is treated with various
+seasonings and then cooked. PRTEM is a popular food consumed mostly in China
+and some Asian countries. Since this food is considered ‘ready to eat’, once it
+is contaminated by foodborne pathogens such as Salmonella,
+for
+signiﬁcant morbidity, mortality, and immeasurable economic losses can occur. Here we
+investigated the prevalence and concentration of Salmonella in 107 PRTEM samples
+collected from Shaanxi, China during 2015–2016. Furthermore, we analyzed the
+serotype, antibiotic susceptibility, and presence of antibiotic resistance genes and amino
+acid mutations in 219 Salmonella isolates, followed by subtyping of 115 representative
+isolates. The average detection rate of Salmonella-positive PRTEM was 58.9%, and
+the average most probable number (MPN) of Salmonella in positive samples was
+2.27 logMPN per gram of sample (range: 2.10–2.43). Ten serotypes were identiﬁed
+from the 219 Salmonella isolates, with S. Thompson (37.9%) and S. Indiana (20.5%)
+being predominant. The remaining serotypes were S. Typhi (7.8%), S. Typhimurium
+(7.3%), S. Mbandaka (6.9%), S. Albany (6.4%), S. Blockley (5.5%), S. Infantis (4.1%),
+S. Escanaba (3.2%), and S. Dusseldorf (0.5%). All
+isolates were resistant to ceftiofur
+(100%), while most of them were resistant to ciproﬂoxacin (99.1%), amoxicillin-clavulanic
+acid (97.7%), trimethoprim-sulfamethoxazole (96.4%), ampicillin (92.3%), sulﬁsoxazole
+(92.2%), tetracyclines (90.4%), and nalidixic acid (90.4%), respectively. A single mutation
+of Ser83Phe (27.1%) and double mutations of Ser83Phe-Asp87Gly (25.9%) in GyrA
+were detected in 85 isolates, whereas mutations of Thr57Ser (63.9%) and Ser80Arg
+(36.1%) in ParC were detected in 122 isolates. qnrB, oqxAB, aac(6(cid:48))-Ib, and qnrA were
+present in 50 (22.8%), 48 (21.9%), 26 (11.9%), and 1 (0.5%) isolate(s), respectively.
+Pulse ﬁeld gel electrophoresis results revealed that those isolates recovered from
+the same type of PRTEM or the same sampling place shared identical or similar
+DNA proﬁles, antibiotic resistance phenotypes, and even plasmid-mediated quinolone
+
+Edited by:
+Arun K. Bhunia,
+Purdue University, United States
+
+Reviewed by:
+Athanasios Alexopoulos,
+Democritus University of Thrace,
+Greece
+Atul Kumar Singh,
+Purdue University, United States
+
+*Correspondence:
+Baowei Yang
+ybw090925@163.com
+
+Specialty section:
+This article was submitted to
+Food Microbiology,
+a section of the journal
+Frontiers in Microbiology
+
+Received: 13 June 2019
+Accepted: 24 October 2019
+Published: 12 November 2019
+
+Citation:
+Wang J, Sheng H, Xu W, Huang J,
+Meng L, Cao C, Zeng J, Meng J and
+Yang B (2019) Diversity of Serotype,
+Genotype, and Antibiotic
+Susceptibility of Salmonella Prevalent
+in Pickled Ready-to-Eat Meat.
+Front. Microbiol. 10:2577.
+doi: 10.3389/fmicb.2019.02577
+
+Frontiers in Microbiology | www.frontiersin.org
+
+1
+
+November 2019 | Volume 10 | Article 2577
+
+Wang et al.
+
+Salmonella in Pickled Ready-to-Eat Meat
+
+resistance encoding genes. The ﬁndings indicate that Salmonella is commonly prevalent
+in PRTEMs at high concentrations in Shaanxi, China. More attention should be paid to
+the processing and storage of this ready-to-eat food to prevent bacterial contamination
+and foodborne outbreaks.
+
+Keywords: Salmonella concentration, ready-to-eat food, most probable number, antibiotic susceptibility, pulse-
+ﬁeld gel electrophoresis
+
+INTRODUCTION
+
+Salmonella is a genus of Gram-negative bacteria that causes
+human gastroenteritis, enteric fever, and other fatal diseases.
+It is recognized as one of the major pathogens for public
+health and food safety (Liu et al., 2018). According to
+Majowicz et al. (2010), approximately 94 million people in the
+world experienced salmonellosis, resulting in 155,000 deaths
+each year. In China, approximately 70% of bacterial illnesses
+were due to Salmonella in recent years (Chong et al., 2017;
+Liu et al., 2017; Xing et al., 2018). Currently, Salmonella
+is still an important pathogen associated with foodborne
+outbreaks and human diseases in the United States and most
+European countries (Centers for Disease Control [CDC], 2014;
+European Food Safety Authority (EFSA), 2017).
+
+To date, more than 2610 Salmonella serotypes have been
+identiﬁed, among which Salmonella Typhimurium, S. Indiana,
+and S. Enteritidis are the most common serotypes involved in
+an increasing number of foodborne outbreaks in some countries
+(Gong et al., 2017; Li et al., 2017). In animal husbandry,
+antibiotics have been used as the ﬁrst choice of treatment to
+prevent animal diseases. Especially ﬂuoroquinolones, which have
+been widely used in life-threatening salmonellosis treatment, are
+often applied in breeding and augmented growth of animals
+for food (Voss-Rech et al., 2016). Although poultry and poultry
+products are considered the primary hosts of Salmonella (Yang
+et al., 2011), members of this genus have been recovered from
+various foods including pork (Sanchez-Maldonado et al., 2016),
+nuts (Zhang et al., 2017), vegetables (Han et al., 2008), and
+other retail products (Ed-Dra et al., 2017; Yang et al., 2016;
+Yang et al., 2010).
+
+Pickled ready-to-eat meat (PRTEM) is a type of spiced
+food that is usually processed and cooked. Examples include
+chicken, duck, and pork products with diﬀerent seasonings,
+which are
+extremely popular and mostly consumed in
+China, especially during summer. Based on data obtained
+Industry Information Repository,
+from the China Meat
+the total amount of ready-to-eat
+(RTE) meats consumed
+will approximate 59.7 million tons in 2020 in China, 16.7
+million tons of which will be poultry meats (Cheng et al.,
+2015). Survey results of Salmonella prevalence in retail foods
+across various provinces and cities in China have shown an
+upward trend in recent years (Wu et al., 2014; Inns et al.,
+2017; Li et al., 2018). Among various foodstuﬀs, RTE meats
+are considered high-risk foods that can and do result
+in
+foodborne diseases throughout the world including China (Fang
+et al., 2012). However, the prevalence and characteristics of
+
+Salmonella in RTE meats including PRTEM have not been
+thoroughly investigated.
+
+In this study, we assessed the prevalence and concentration
+of Salmonella in PRTEM in Shaanxi Province, China.
+Furthermore, we explored the diversity of serotype, genotype,
+and antibiotic susceptibility of Salmonella isolates to better
+understand the current situation of food safety with respect to
+RTE meats in China.
+
+MATERIALS AND METHODS
+
+Sample Collection
+One hundred and seven PRTEM samples were randomly
+collected from diﬀerent supermarkets and retail stalls in the wet
+markets across Shaanxi Province, China from December 2015 to
+December 2016. Those PRTEMs are usually made by cooking
+fresh or frozen livestock and poultry meat including internal
+organs as the main raw ingredient with the addition of salt, soy
+sauce and other condiments. For retail, the cooked-bulk meat was
+often cut into small pieces and mixed with seasonings including
+salt, vinegar, fresh green onion, chili pepper and some other
+spices. During the sampling period, each supermarket and retail
+stall were visited twice, with no more than six samples collected
+in each market and/or stall. The samples mainly included pickled
+
+TABLE 1 | Salmonella prevalence and concentration (most-probable-number,
+MPN) in 107 pickled ready-to-eat meat (PRTEM) samples.
+
+Group (number)
+
+Percentage (number) of
+
+Salmonella-positive
+
+Mean logMPN
+per gram food
+
+Chicken (55) Chicken foot (19)
+Chicken heart (10)
+Chicken wing (15)
+Chicken gizzard (11)
+Subtotal (55)
+Duck head (8)
+Duck wing (9)
+Duck intestine (16)
+Duck neck (19)
+Subtotal (52)
+
+Duck (52)
+
+Marketplace Wet market (77)
+
+Supermarket (30)
+
+samples
+
+63.2 (12)
+60.0 (6)
+46.7 (7)
+18.2 (2)
+49.1 (27)∗
+85.7 (6)
+77.8 (7)
+75.0 (12)
+57.9 (11)
+69.2 (36)
+81.8 (63)##
+
+0 (0)
+
+2.14
+2.24
+2.43
+2.40
+
+2.42
+2.10
+2.17
+2.3
+
+2.27
+0
+
+∗Indicates signiﬁcant differences in the detection rate of Salmonella-positive
+samples between chicken and duck products (∗∗p < 0.01, ∗p < 0.05). ##Indicates
+highly signiﬁcant differences in the detection rate of Salmonella-positive samples
+between wet markets and supermarkets (##p < 0.01).
+
+Frontiers in Microbiology | www.frontiersin.org
+
+2
+
+November 2019 | Volume 10 | Article 2577
+
+Wang et al.
+
+Salmonella in Pickled Ready-to-Eat Meat
+
+chicken wing, chicken foot, chicken gizzard, chicken heart, duck
+neck, duck intestine, duck wing, and duck head (Table 1). After
+collection, each sample was placed in a separate sterile sampling
+bag and kept at 4◦C before analysis. To avoid bacterial growth in
+the samples, their transportation time from the sampling places
+to the laboratory lasted no longer than 2 h. Each sample was
+aseptically mashed on a clean bench. Then, 25 g of the sample
+was weighed into a sterile homogeneous bag containing 225 mL
+of buﬀered peptone water (BPW; Luqiao Biotech., Beijing, China)
+and shaken at 100–120 rpm for 5 min. The BPW rinse solution
+was used for enumeration and isolation of Salmonella.
+
+Bacterial Enrichment, Enumeration, and
+Isolation
+The most-probable-number (MPN) technique issued by the
+Food Safety and Inspection Service (FSIS) of the United States
+Department of Agriculture (USDA) was used for enumeration of
+Salmonella with some minor modiﬁcations (USDA/FSIS, 2014).
+Brieﬂy, 1. 0-, 0. 1-, and 0.01-mL aliquots of the BPW rinse
+solution (representing 0.1, 0.01, and 0.001 g of PRTEM) were
+added to sterile tubes with 9.0, 9.9, and 9.99 mL of BPW,
+respectively (n = 3 each). After the solutions were thoroughly
+mixed, the tubes were incubated in a shaking bath at 37◦C at
+100 rpm for 18–24 h.
+A portion (0.5 ± 0.05 mL) of each pre-enriched culture was
+subsequently transferred into 10 mL of tetrathionate broth (TTB,
+Luqiao Biotech.), whereas 0.1 ± 0.02 mL of the culture was
+inoculated into 10 mL of modiﬁed Rappaport Vassiliadis broth
+(mRV, Luqiao Biotech.). The inoculated TTB and mRV broths
+were incubated at 37 ± 0.5◦C with shaking at 100 rpm for 18–
+24 h. A loopful of TTB or mRV culture of each dilution and
+replicate was streaked onto xylose lysine tergitol 4 agar (XLT4;
+BD, Biosciences, San Jose, CA, United States) plates and then
+incubated at 35 ± 2◦C for 22–24 h. One to two presumptive
+Salmonella colonies per plate were selected and puriﬁed on
+fresh XLT4 plates.
+
+A single colony with typical Salmonella characteristics (e.g.,
+black color, round shape, and smooth surface) was picked and
+inoculated onto a Luria-Bertani agar (LB; Luqiao Biotech.) plate.
+The Salmonella isolates were conﬁrmed by the agglutination
+method using Salmonella poly A-F antiserum sera (S&A
+Company, Bangkok, Thailand). The MPN value of Salmonella
+in each sample was determined via the USDA-FSIS MPN table.
+One isolate from each Salmonella-positive TTB and/or mRV
+tube was selected even if they were derived from the same
+sample. The Salmonella isolates were stored at −80◦C in LB
+broth/glycerol (50/50%, V/V).
+
+Antibiotic Susceptibility Test
+All Salmonella isolates were tested for their susceptibility to 15
+antibiotics using the agar dilution method (Table 2) developed
+by the Clinical and Laboratory Standards Institute (Clinical and
+Laboratory Standards Institute [CLSI], 2014). The category of
+antibiotics corresponded to that of the National Antimicrobial
+Resistance Monitoring System (NARMS) managed by the U.S.
+Food and Drug Administration (USDA) and the Centers
+for Disease Control and Prevention (CDC). Breakpoint for
+
+resistance or susceptibility interpretation to each antibiotic was
+in accordance with the CLSI standards (Clinical and Laboratory
+Standards Institute [CLSI], 2014), while the breakpoint for
+streptomycin was in accordance with that of the NARMS used for
+susceptibility testing of Salmonella and Escherichia coli (NARMS,
+2011). E. coli ATCC 25922 and Enterococcus faecalis ATCC 29212
+were used as positive control bacteria.
+
+Serotyping
+The Salmonella isolates were serotyped at the Shaanxi Center
+for Disease Control and Prevention (Xi’an, Shaanxi, China).
+Salmonella O and H antigens were determined via the slide
+agglutination method using Salmonella-speciﬁc hyper-immune
+sera (S&A Company), and the serotype of each isolate was
+assigned following the Kauﬀmann–White scheme and the
+manufacturer’s instructions.
+
+Detection of Antibiotic Resistance Genes
+and Amino Acid Mutations
+Isolates with nalidixic acid or/and ciproﬂoxacin resistance were
+screened by polymerase chain reaction (PCR) for the presence of
+plasmid-mediated quinolone resistance (PMQR) encoding genes
+of qnr alleles (i.e., qnrA, qnrB, and qnrS), aac(6(cid:48))-Ib, qepA, and
+oqxAB. PCR ampliﬁcation and DNA sequencing were employed
+for detection of amino acid substitution of quinolone resistance
+determining regions (QRDRs) in GyrA and ParC. Primers
+and annealing temperatures for individual ampliﬁcation are
+listed in Table 3.
+Polymerase chain reaction was conducted in 25 µL reactions
+containing 0.3 µL of 50 pM each primer, 2.5 µL of 10 × PCR
+buﬀer, 2 µL of 2.5 mM of dNTP mix, 0.25 µL of 5 U/µL TaqDNA
+polymerase (TaKaRa, Dalian, China), 1.5 µL of 25 mM MgCl2,
+5 µL of template DNA using a MyCircle PCR machine (Bio-Rad,
+Hercules, CA, United States), and 13.15 µL of double-distilled
+H2O. The PCR conditions were as follows: incubation at 94◦C
+for 10 min, followed by 35 cycles of 94◦C for 30 s, an annealing
+temperature for 30 s, and 72◦C for 30 s; and a ﬁnal extension step
+at 72◦C for 10 min. The PCR products were dyed by red gel and
+visualized under UV light (Bio-Rad) after electrophoresis.
+
+For GyrA and ParC sequence analysis, the PCR products
+were stored in a box with dry ice and sent
+to AuGCT
+Biotech. (Beijing, China) where DNA sequencing was performed
+on an Illumina platform (Illumina Inc., San Diego, CA,
+United States). The obtained sequences were aligned using the
+online BLAST program1. Salmonella Typhimurium LT2 was used
+as a positive control.
+
+Pulse-Field Gel Electrophoresis
+According to the sampling place, sampling time, sample type,
+and selective Salmonella enrichment broth, 115 of 219 isolates
+were selected for pulse-ﬁeld gel electrophoresis (PFGE) subtyping
+with XbaI. The PFGE was carried out according to the protocol
+issued by the CDC for Salmonella, E. coli, and Shigella (Ribot
+et al., 2006). Brieﬂy, the Salmonella isolate was streaked onto
+LB agar (Luqiao Biotech.) and incubated overnight at 37◦C.
+1http://www.ncbi.nlm.nih.gov/BLAST/
+
+Frontiers in Microbiology | www.frontiersin.org
+
+3
+
+November 2019 | Volume 10 | Article 2577
+
+Wang et al.
+
+Salmonella in Pickled Ready-to-Eat Meat
+
+TABLE 2 | The minimum inhibitory concentration (MIC) ranges and breakpoints of 15 antibiotics used in the study.
+
+Antibiotic
+
+Abbreviation
+
+MIC range (µg/mL)
+
+MIC interpretive standard (µg/mL)a
+
+Susceptible
+
+Intermediate
+
+Resistant
+
+Amikacin
+Gentamicin
+Kanamycin
+Streptomycina
+Amoxicillin-clavulanic acid
+Ampicillin
+Ceftiofur
+Cefoxitin
+Ceftriaxone
+Nalidixic acid
+Ciproﬂoxacin
+Tetracycline
+Chloramphenicol
+Sulﬁsoxazole
+Trimethoprim/sulfamethoxazole
+
+AMK
+GEN
+KAN
+STR
+AMC
+AMP
+CTX
+FOX
+CRO
+NAL
+CIP
+TCY
+CHL
+SUL
+SXT
+
+8–64
+2–16
+4–64
+32–64
+
+4/2–32/16
+
+4–32
+4–64
+4–32
+2–64
+4–32
+1–8
+2–16
+4–32
+64–512
+
+0.5/9.5–4/76
+
+≤16
+≤4
+≤16
+≤32
+≤8/4
+≤8
+≤8
+≤8
+≤8
+≤16
+≤2
+≤4
+≤8
+≤256
+≤2/38
+
+32
+8
+32
+N/A
+16/8
+16
+
+16–32
+
+16
+
+16–32
+N/A
+4
+8
+16
+N/A
+N/A
+
+≥64
+≥16
+≥64
+≥64
+≥32/16
+≥32
+≥64
+≥32
+≥64
+≥32
+≥8
+≥16
+≥32
+≥512
+≥4/76
+
+aBreakpoints for streptomycin were in accordance with that used for susceptibility testing of Salmonella and Escherichia coli by the NARMS.
+
+TABLE 3 | Polymerase chain reaction primers and annealing temperatures for target genes.
+
+Target gene
+
+Primer
+
+Sequence (5(cid:48)–3(cid:48))
+
+Annealing temperature (◦C)
+
+Product size (bp)
+
+References
+
+Gene ampliﬁcation and sequencing
+gyrA
+
+ACGTACTAGGCAATGACTGG
+AGAAGTCGCCGTCGATAGAA
+CTATGCGATGTCAGAGCTGG
+TAACAGCAGCTCGGCGTATT
+
+AGAGGATTTCTCACGCCAGG
+TGCCAGGCACAGATCTTGAC
+GGMATHGAAATTCGCCACTG
+TTTGCYGYYCGCCAGTCGAA
+GCAAGTTCATTGAACAGGGT
+TCTAAACCGTCGAGTTCGGCG
+TTGCGATGCTCTATGAGTGGCTA
+CTCGAATGCCTGGCGTGTTT
+CTGCAGGTACTGCGTCATG
+CGTGTTGCTGGAGTTCTTC
+GACAGCGTCGCACAGAATG
+GGAGACGAGGTTGGTATGGA
+CGAAGAAAGACCTCCCTACCC
+CGCCGCCAATGAGATACA
+
+56
+
+54
+
+60
+
+56
+
+57
+
+55
+
+60
+
+62
+
+62
+
+190
+
+270
+
+580
+
+264
+
+428
+
+482
+
+403
+
+339
+
+240
+
+Eaves et al., 2004
+
+Eaves et al., 2004
+
+Cattoir et al., 2007
+
+Cattoir et al., 2007
+
+Cattoir et al., 2007
+
+Chi et al., 2006
+
+Chen et al., 2012
+
+Chen et al., 2012
+
+Chen et al., 2012
+
+parC
+
+Gene detection
+qnrA
+
+qnrB
+
+qnrS
+
+aac(6(cid:48))- Ib
+
+qepA
+
+oqxA
+
+oqxB
+
+gyrA-F
+gyrA-R
+parC-F
+parC-R
+
+qnrA-F
+qnrA-R
+qnrB-F
+qnrB-R
+qnrS-F
+qnrS-R
+aac(6(cid:48))- Ib-F
+aac(6(cid:48))- Ib-R
+qepA-F
+qepA-R
+oqxA-F
+oqxA-R
+oqxB-F
+oqxB-R
+
+Appropriate numbers of Salmonella cells were ﬁrst suspended
+into cell suspension buﬀer (containing 10 mL of 1 M Tris
+and 20 mL of 0.5 M EDTA, adjusted to 100 mL with sterile
+double-distilled H2O) and then embedded using Seakem Gold
+agarose (Lonza, Basel, Switzerland). After cell lysis, the released
+DNA was digested using 50 U of XbaI enzyme (TaKaRa) at
+37◦C for 1.5–2 h. The digested DNA fragments were separated
+in 0.5 × Tris–borate-EDTA buﬀer at 14◦C using a ChefMapper
+electrophoresis system (Bio-Rad) for 20 h. The pulse time
+for electrophoresis was between 2.16 and 63.8 S. Salmonella
+Braenderup H9812 was used as a standard control.
+
+After electrophoresis, the gel was stained with ethidium
+bromide, and the DNA bands were illuminated under UV
+light (Bio-Rad). The results were manually analyzed using
+BioNumerics v3.0 (Applied-Maths, Kortrijk, Belgium).
+
+Statistical Analysis
+Minitab 18 (Minitab Inc., State College, PA, United States)
+was used for statistical analysis. Pearson chi-square test was
+used to determine the diﬀerences in the concentration of
+Salmonella, detection rate of Salmonella-positive samples, and
+serotypes in PRTEMs across diﬀerent places (i.e., wet markets
+
+Frontiers in Microbiology | www.frontiersin.org
+
+4
+
+November 2019 | Volume 10 | Article 2577
+
+Wang et al.
+
+Salmonella in Pickled Ready-to-Eat Meat
+
+and supermarkets) and diﬀerent meat types (i.e., pickled chicken
+and duck meats). The results were compared at the 5% (∂ = 0.05)
+level to evaluate whether a signiﬁcant diﬀerence was observed.
+The MPN value of Salmonella per gram PRTEM was log-
+transformed using approximate normality. The relationship
+between logMPN per gram PRTEM and other variables was
+assessed using the generalized linear model with the identity
+link function and adjusted dependency within sample type using
+generalized estimated equations. Signiﬁcant diﬀerences were
+considered at P < 0.05.
+
+RESULTS
+
+Prevalence and Concentration of
+Salmonella
+Sixty-three (58.9%) of 107 PRTEMs were positive for Salmonella,
+and the average concentration of Salmonella in Salmonella-
+positive samples was 2.27 logMPN per gram PRTEM. The
+detection rate of Salmonella-positive samples
+signiﬁcantly
+(P < 0.01) diﬀered between the two types of marketplace. While
+no Salmonella-positive PRTEM was detected in supermarkets,
+63 Salmonella-positive samples (81.8%, 63/77) were found in
+retail stalls in the wet markets. The detection rate of Salmonella-
+positive duck products (69.2%, 36/52) was signiﬁcantly (P < 0.05)
+higher than that of chicken products (49.1%, 27/55). The
+most common Salmonella-positive chicken product was chicken
+foot (63.2%), whereas for duck products,
+it was duck head
+(85.7%; Table 1).
+
+The concentrations of Salmonella in Salmonella-positive
+samples ranged from 2.10 to 2.43 logMPN per gram PRTEM.
+The maximum value of Salmonella was detected in chicken wing
+(2.43 logMPN per gram PRTEM), while the minimum value
+was detected in duck wing (2.10 logMPN per gram PRTEM).
+No signiﬁcant (P > 0.05) diﬀerence was found in MPN values
+among the eight types of PRTEM samples that were positive for
+Salmonella (Table 1).
+
+Salmonella Serotypes
+During MPN enumeration, a total of 219 Salmonella-positive
+TTB and mRV tubes/cultures were identiﬁed. Therefore, 219
+isolates (one per positive tube/culture) were recovered in this
+study and used for subsequent analyses. Among the 219 isolates
+that were all recovered from samples of retail stalls in the wet
+markets, 17 (7.8%) were typhoidal Salmonella (TS) and 202
+(92.2%) were non-typhoidal Salmonella (NTS). Among the 17 TS
+isolates, there were 5 (29.4%) from chicken heart, 4 (23.5%) from
+chicken gizzard, 4 (23.5%) from duck intestine, 3 (17.7%) from
+duck neck, and 1 (5.9%) from duck wing. Interestingly, although
+these TS isolates were derived from diﬀerent types of PRTEM,
+they were collected from the same retail stall.
+
+Nine serotypes were identiﬁed from the 202 NTS isolates,
+with S. Thompson (83; 41.1%) and S. Indiana (44; 21.8%) being
+the most common serotypes. Other serotypes among the NTS
+isolates were S. Typhimurium (16; 7.9%), S. Mbandaka (15; 7.4%),
+S. Albany (14; 6.9%), S. Blockley (12; 5.9%), S. Infantis (10;
+
+5.0%), S. Escanaba (7; 3.5%), and S. Dusseldorf (1; 0.5%). Thirty-
+four isolates derived from chicken wing were all S. Thompson,
+16 isolates from chicken gizzard were all S. Indiana, whereas
+four isolates from duck head were all S. Mbandaka. Additionally,
+5, 5, and six serotypes were identiﬁed from the isolates that
+were derived from chicken foot, duck neck, and duck wing,
+respectively (Table 4).
+
+In addition to chicken wing, S. Thompson isolates were also
+found in chicken foot, chicken heart, duck neck, duck intestine,
+and duck wing. The detection rate of Salmonella Thompson
+isolates in chicken wing was signiﬁcantly (P < 0.01) higher than
+those in chicken gizzard and duck head. However, no signiﬁcant
+(P > 0.05) diﬀerence was observed in the detection rate of S.
+Thompson isolates among chicken foot, duck neck, and duck
+wing (Figure 1A) as well as in the detection rate of S. Albany
+isolates in chicken foot and duck neck (Figure 1E). Similarly,
+there were signiﬁcant (P < 0.05 or P < 0.01) diﬀerences in
+the detection rates of S. Indiana (Figure 1B), S. Typhimurium
+(Figure 1C), S. Mbandaka (Figure 1D), and S. Blockley isolates
+(Figure 1F) among the Salmonella isolates recovered from
+diﬀerent types of PRTEMs.
+
+Antibiotic Susceptibility
+All Salmonella isolates were resistant to ceftiofur; the detection
+rate (100.0%) of resistant isolates was signiﬁcantly (P < 0.05)
+higher than those resistant to the 13 other antibiotics tested
+for, including amoxicillin-clavulanic acid (97.7%), trimethoprim-
+sulfamethoxazole (96.4%), ampicillin (92.2%),
+sulﬁsoxazole
+(92.2%), tetracycline (90.4%), and nalidixic acid (90.4%; Table 5).
+All Salmonella isolates were co-resistant to at least ﬁve antibiotics,
+whereas 24 isolates (11.0%) were co-resistant to 5–8 antibiotics,
+59 isolates (26.9%) were resistant to 9–12 antibiotics, and 136
+isolates (62.1%) were resistant to 13–15 antibiotics tested.
+
+acid (100.0%),
+
+Among pickled chicken-borne strains, the rates of isolates
+ciproﬂoxacin (100.0%),
+resistant
+amoxicillin-clavulanic
+and trimethoprim-
+sulfamethoxazole (97.0%) were signiﬁcantly (P < 0.05) higher
+than rates to other antibiotics except for ampicillin (97.0%),
+chloramphenicol (99.0%), and tetracycline (100.0%). Among
+pickled duck-borne strains, no signiﬁcant diﬀerence (P > 0.05)
+was found in the detection rates of
+to
+ciproﬂoxacin (98.3%) and ceftiofur (100.0%). However, they
+were signiﬁcantly (P > 0.05) higher than the rates of isolates that
+were resistant to the 13 other antibiotics tested for (Table 5).
+
+isolates resistant
+
+to
+
+ceftiofur
+
+(100.0%),
+
+The detection rates of chicken-borne isolates resistant to
+amoxicillin-clavulanic acid (100.0%) and ampicillin (97.0%)
+were signiﬁcantly (P < 0.05) higher than those corresponding
+resistant isolates derived from pickled duck. Additionally, the
+detection rates of chicken-borne isolates resistant to tetracycline
+(100.0%), chloramphenicol (99.0%), kanamycin (86.9%), and
+gentamycin (77.8%) were signiﬁcantly higher (P < 0.01) than
+those corresponding resistant isolates derived from pickled duck.
+Interestingly, all
+isolates recovered from chicken wing were
+resistant to 14 antibiotics tested for, except streptomycin. There
+was a similar situation among isolates recovered from pickled
+gizzard and duck head (Table 5).
+
+Frontiers in Microbiology | www.frontiersin.org
+
+5
+
+November 2019 | Volume 10 | Article 2577
+
+Wang et al.
+
+Salmonella in Pickled Ready-to-Eat Meat
+
+TABLE 4 | Distribution of non-typhoidal Salmonella serotypes identiﬁed in PRTEMs.
+
+Number (percentage) of non-typhoidal isolates
+
+Wing
+(n = 34)
+
+34 (100.0)
+
+Chicken products
+
+Foot
+
+(n = 31)
+
+Gizzard
+(n = 16)
+
+16 (100.0)
+
+9 (29.0)
+3 (9.7)
+4 (12.9)
+
+4 (12.9)
+11 (35.5)
+
+Heart
+(n = 9)
+
+2 (22.2)
+
+7 (77.8)
+
+Neck
+(n = 35)
+
+2 (5.7)
+11 (31.4)
+5 (14.3)
+7 (20.0)
+10 (28.6)
+
+Duck products
+
+Intestine
+(n = 38)
+
+25 (65.8)
+
+Wing
+(n = 35)
+
+11 (31.4)
+14 (40.0)
+
+Head
+(n = 4)
+
+3 (7.9)
+
+1 (2.9)
+
+4 (100.0)
+
+10 (26.3)
+
+1 (2.9)
+
+7 (20.0)
+1 (2.9)
+
+Serotype
+
+Total
+
+(n = 202)
+
+Thompson
+Indiana
+Typhimurium
+Mbandaka
+Albany
+Blockley
+Infantis
+Escanaba
+Dusseldorf
+
+83 (41.1)
+44 (21.8)
+16 (7.9)
+15 (7.4)
+14 (6.9)
+12 (5.9)
+10 (5.0)
+7 (3.5)
+1 (0.5)
+
+FIGURE 1 | Detection rates of non-typhoidal Salmonella strains among the six most common serotypes in different types of Salmonella-positive samples from
+pickled ready-to-eat meats (PRTEMs). (A) S. Thompson; (B) S. Indiana (C) S. Typhimurium; (D) S. Mandaka; (E) S. Albany; (F) S. Blockley. ∗∗P < 0.01; ∗P < 0.05.
+
+Almost
+
+all
+
+S. Thompson,
+
+S. Typhi,
+S. Typhimurium, S. Mbandaka, S. Albany, and S. Blockley
+isolates were resistant to ceftiofur, ciproﬂoxacin, amoxicillin-
+clavulanic
+ampicillin,
+sulﬁsoxazole (except 1 S. Blockley isolate), tetracycline, nalidixic
+
+trimethoprim-sulfamethoxazole,
+
+S.
+
+Indiana,
+
+acid,
+
+acid (except 2 S. Typhi isolates), and chloramphenicol. Among
+the seven most prevalent serotypes, S. Typhi
+isolates were
+relatively susceptible to the antibiotics tested for, except for
+some resistance to ceftiofur, ciproﬂoxacin, amoxicillin-clavulanic
+acid, trimethoprim-sulfamethoxazole, sulﬁsoxazole, tetracycline,
+
+Frontiers in Microbiology | www.frontiersin.org
+
+6
+
+November 2019 | Volume 10 | Article 2577
+
+F
+r
+o
+n
+t
+i
+e
+r
+s
+
+i
+
+i
+
+n
+M
+c
+r
+o
+b
+o
+o
+g
+y
+
+i
+
+l
+
+|
+
+w
+w
+w
+
+.
+f
+r
+o
+n
+t
+i
+e
+r
+s
+n
+.
+o
+r
+g
+
+i
+
+7
+
+N
+o
+v
+e
+m
+b
+e
+r
+
+2
+0
+1
+9
+
+|
+
+l
+
+V
+o
+u
+m
+e
+
+1
+0
+
+|
+
+A
+
+l
+
+r
+t
+i
+c
+e
+2
+5
+7
+7
+
+TABLE 5 | Antibiotic susceptibility of Salmonella isolates from PRTEMs.
+
+Antibiotic
+
+Chicken products
+
+Duck products
+
+Number (percentage) of resistant isolates
+
+Total
+
+(n = 219)
+
+Wing
+(n = 34)
+
+Foot
+
+(n = 31)
+
+Gizzard
+(n = 20)
+
+Heart
+(n = 14)
+
+Subtotal
+(n = 99)
+
+Neck
+(n = 38)
+
+Intestine
+(n = 42)
+
+Wing
+(n = 36)
+
+Head
+(n = 4)
+
+Subtotal
+(n = 120)
+
+Ceftiofur
+Ciproﬂoxacin
+Amoxicillin-clavulanic acid
+Trimethoprim/sulfamethoxazole
+Ampicillin
+Sulﬁsoxazole
+Tetracycline
+Nalidixic acid
+Chloramphenicol
+Ceftriaxone
+Kanamycin
+Gentamicin
+Amikacin
+Cefoxitin
+Streptomycin
+The same superscript letter in a column indicates no signiﬁcant difference (p > 0.05) in the detection rate of isolates resistant to different antibiotics. ∗Indicates signiﬁcant difference in the detection rate of antibiotic
+resistance between chicken-borne and duck-borne isolates, while ∗∗ indicates highly signiﬁcant difference (∗∗p < 0.01, ∗p < 0.05).
+
+99 (100.0)a
+99 (100.0)a
+99 (100.0)a∗
+96 (97.0)a
+96 (97.0)ab∗
+88 (88.9)c
+99 (100.0)abd∗∗
+89 (89.9)ce
+98 (99.0)abd∗∗
+78 (78.8)cf
+86 (86.9)cefg∗∗
+77 (77.8)fg∗∗
+60 (60.6)h
+58 (58.6)h
+39 (39.4)i
+
+120(100.0)a
+118(98.3)ab
+115(95.8)bc
+115(95.8)bcd
+106(88.3)e
+114(95.0)bcdef
+99(82.5)eg
+109(90.8)cdefg
+98(81.7)egh
+87(72.5)ghi
+77(64.2)ij
+70(58.3)jk
+67(55.8)jkl
+59(49.2)kl
+33(27.5)m
+
+219 (100.0)a
+217 (99.1)ab
+214 (97.7)bc
+211 (96.4)bcd
+202 (92.2)de
+202 (92.2)def
+198 (90.4)efg
+198 (90.4)efgh
+196 (89.5)efgh
+165 (75.3)i
+163 (74.4)ij
+147 (67.1)ij
+127 (58.0)k
+117 (53.4)k
+72 (32.9)l
+
+31 (100.0)
+31 (100.0)
+31 (100.0)
+31 (100.0)
+31 (100.0)
+20 (64.5)
+31 (100.0)
+31 (100.0)
+31 (100.0)
+19 (61.3)
+28 (90.3)
+19 (61.3)
+14 (45.2)
+16 (51.6)
+16 (51.6)
+
+34 (100.0)
+34 (100.0)
+34 (100.0)
+34 (100.0)
+34 (100.0)
+34 (100.0)
+34 (100.0)
+34 (100.0)
+34 (100.0)
+34 (100.0)
+34 (100.0)
+34 (100.0)
+34 (100.0)
+34 (100.0)
+5 (14.7)
+
+14 (100.0)
+14 (100.0)
+14 (100.0)
+11 (78.6)
+11 (78.6)
+14 (100.0)
+14 (100.0)
+8 (57.2)
+13 (92.86)
+9 (64.3)
+9 (64.3)
+9 (64.3)
+7 (50.0)
+8 (57.1)
+2 (14.3)
+
+20 (100.0)
+20 (100.0)
+20 (100.0)
+20 (100.0)
+20 (100.0)
+20 (100.0)
+20 (100.0)
+16 (80.0)
+20 (100.0)
+16 (80.0)
+15 (75.0)
+15 (75.0)
+5 (25.0)
+
+16 (80.0)
+
+38 (100.0)
+38 (100.0)
+34 (89.5)
+37 (97.4)
+29 (76.3)
+32 (84.2)
+30 (79.0)
+35 (92.1)
+29 (76.3)
+23 (60.5)
+23 (60.5)
+20 (52.6)
+15 (39.5)
+10 (26.3)
+15 (39.5)
+
+42 (100.0)
+42 (100.0)
+42 (100.0)
+40 (95.2)
+38 (90.5)
+42 (100.0)
+42 (100.0)
+37 (88.1)
+41 (97.6)
+28 (66.7)
+28 (66.7)
+25 (59.5)
+27 (64.3)
+25 (59.5)
+4 (9.5)
+
+36 (100.0)
+34 (94.4)
+36 (100.0)
+34 (94.4)
+36 (100.0)
+36 (100.0)
+26 (72.2)
+33 (91.7)
+24 (66.7)
+34 (94.4)
+25 (69.4)
+25 (69.4)
+25 (69.4)
+22 (61.1)
+14 (38.9)
+
+4(100.0)
+4 (100.0)
+3 (75.0)
+4 (100.0)
+3 (75.0)
+4 (100.0)
+1 (25.0)
+4 (100.0)
+4 (100.0)
+2 (50.0)
+1 (25.0)
+
+2 (50.0)
+
+W
+a
+n
+g
+
+e
+t
+
+a
+l
+.
+
+l
+
+S
+a
+m
+o
+n
+e
+
+l
+l
+
+a
+
+i
+
+l
+
+i
+
+n
+P
+c
+k
+e
+d
+R
+e
+a
+d
+y
+-
+t
+o
+-
+E
+a
+t
+
+M
+e
+a
+t
+
+Wang et al.
+
+Salmonella in Pickled Ready-to-Eat Meat
+
+TABLE 6 | Antibiotic susceptibility of Salmonella isolates among the seven most common serotypes.
+
+Antibiotic
+
+Ceftiofur
+Ciproﬂoxacin
+Amoxicillin-clavulanic acid
+Trimethoprim/sulfamethoxazole
+Ampicillin
+Sulﬁsoxazole
+Tetracycline
+Nalidixic acid
+Chloramphenicol
+Ceftriaxone
+Kanamycin
+Gentamicin
+Amikacin
+Cefoxitin
+Streptomycin
+
+Thompson
+
+(n = 83)
+
+83 (100.0)
+81 (97.6)
+83 (100.0)
+81 (97.6)
+81 (97.6)
+81 (97.6)
+81 (97.6)
+77 (92.8)
+79 (95.2)
+82 (98.8)
+81 (97.6)
+81 (97.6)
+81 (97.6)
+80 (96.4)
+6 (7.2)
+
+Indiana
+(n = 44)
+
+44 (100.0)
+44 (100.0)
+42 (97.7)
+44 (100.0)
+42 (97.7)
+43 (97.73)
+44 (100.0)
+44 (100.0)
+25 (56.8)
+41 (93.2)
+38 (86.4)
+40 (90.9)
+25 (56.8)
+7 (15.9)
+43 (97.7)
+
+Number (percentage) of resistant isolates
+
+Typhi
+(n = 17)
+
+Typhimurium
+
+(n = 16)
+
+Mbandaka
+
+(n = 15)
+
+17 (100.0)
+17 (100.0)
+15 (88.2)
+11 (64.7)
+7 (41.2)
+14 (82.4)
+17 (100.0)
+2 (11.8)
+17 (100.0)
+1 (5.9)
+
+16 (100.0)
+16 (100.0)
+16 (100.0)
+16 (100.0)
+16 (100.0)
+16 (100.0)
+16 (100.0)
+16 (100.0)
+16 (100.0)
+14 (87.5)
+15 (93.8)
+15 (93.8)
+11 (68.8)
+14 (87.5)
+4 (25.0)
+
+15 (100.0)
+15 (100.0)
+14 (93.3)
+15 (100.0)
+12 (80.0)
+15 (100.0)
+5 (33.3)
+15 (100.0)
+15 (100.0)
+9 (60.0)
+7 (46.7)
+
+4 (26.7)
+3 (20.0)
+
+Albany
+(n = 14)
+
+14 (100.0)
+14 (100.0)
+14 (100.0)
+14 (100.0)
+14 (100.0)
+14 (100.0)
+14 (100.0)
+14 (100.0)
+14 (100.0)
+9 (64.3)
+11 (78.6)
+11 (78.6)
+8 (57.1)
+9 (64.3)
+3 (21.4)
+
+Blockley
+(n = 12)
+
+12 (100.0)
+12 (100.0)
+12 (100.0)
+12 (100.0)
+12 (100.0)
+1 (8.3)
+11 (91.7)
+12 (100.0)
+12 (100.0)
+1 (8.3)
+11 (91.7)
+
+and chloramphenicol. These isolates were totally sensitive to
+kanamycin, gentamicin, amikacin, cefoxitin, and streptomycin.
+A similar phenomenon was noted for S. Blockley and S.
+Mbandaka isolates (Table 6).
+
+Presence of Antibiotic Resistance Genes
+and Amino Acid Mutations
+A total of 237 amino acid substitutions were detected in 219
+isolates resistant to nalidixic acid or/and ciproﬂoxacin. Among
+these, 115 GyrA mutations in 85 (38.8%) isolates and 122
+ParC mutations in 122 (57.7%) isolates were noted. For the
+GyrA mutations, the most commonly observed was Ser83Phe
+(23/85, 27.1%), followed by Asp87Asn (9/85, 10.6%), Ser83Tyr
+(9/85, 10.6%), Asp87Gly (7/85, 8.2%), Val90Leu (4/85, 4.7%),
+Ala93Ser (1/85, 1.2%), Ala93Val (1/85, 1.2%), and Ser83Thr (1/85,
+1.2%). The most frequently observed double mutations in GyrA
+were Ser83Phe-Asp87Gly (22/85, 25.9%), followed by Ser83Phe-
+Asp87Asn (4/85, 4.7%) and Ser83Tyr-Asp87Gly (4/85, 4.7%).
+Mutations in ParC were Thr57Ser (78/122, 63.9%) and Ser80Arg
+(44/122, 36.1%), respectively. GyrA and ParC mutations were
+simultaneously detected in 48 (21.9%) Salmonella isolates.
+No qnrS and qepA were detected in any isolates. Nonetheless,
+qnrB, oqxAB, aac(6(cid:48))-Ib, and qnrA were detected in 50 (22.8%), 48
+(21.9%), 26 (11.9%), and 1 (0.5%) isolates, respectively. Twenty-
+four Salmonella isolates co-carried two of the PMQR genes tested
+for. Ten Salmonella isolates had mutations in both GyrA and
+ParC, while they simultaneously carried qnr or aac(6(cid:48))-Ib genes.
+Additionally, 29 isolates were detected as having both amino acid
+mutations and oqxAB genes.
+
+PFGE Subtyping
+Each isolate produced 13–16 bands with the typing rate of 100%.
+According to a cut-oﬀ value of 90% similarity, 115 isolates were
+
+grouped into ﬁve clusters (data not shown). PFGE proﬁles of
+103 NTS isolates of the top ﬁve serotypes (i.e., S. Thompson,
+S. Indiana, S. Typhimurium, S. Mbandaka, and S. Albany) are
+shown in Figures 2–6, whereas PFGE proﬁles of the 12 TS isolates
+are shown in Figure 7.
+
+The Salmonella isolates recovered from the same type of
+PRTEM commonly shared the same DNA proﬁles, antibiotic
+resistance phenotype, and even PMQR encoding genes (Figure 2:
+sub-clusters T-2-1, T-2-3; Figure 3: clusters I-2, I-3; Figure 4:
+cluster ST-1, ST-3; Figure 6: clusters A-1, A-2). Although some
+isolates were derived from diﬀerent types of PRTEMs across
+various sampling places, they still showed identical or similar
+DNA proﬁles, antibiotic resistance proﬁles, and PMQR genes
+(Figure 2: cluster T-1, T-2-2, T-2-4, T-3-1, and T-3-2; Figure 3:
+cluster I-1 and I-2; Figure 4: cluster ST-2 and ST-4; and Figure 5:
+cluster M-2 and M-3).
+
+For the DNA ﬁngerprints of 12 S. Typhi isolates, although
+some were the same and/or highly similar (98% similarity)
+in their phylogeny, these isolates could be grouped into four
+clusters. Isolates derived from the same type of PRTEM were
+essentially grouped into the same sub-clusters (Figure 7; Ti-2,
+Ti-3, Ti-4). Moreover, some other strains isolated from diﬀerent
+types of PRTEM showed an extremely close phylogenetic
+relationship (Figure 7, Ti-1, Ti-3).
+
+DISCUSSION
+
+As a foodborne pathogen, Salmonella has resulted in widespread
+concern and led to socio-economic pressures around the world
+(Wen et al., 2017). According to data from the USDA, chicken
+and chicken products are the main vehicles of Salmonella and
+important causes of human Salmonella infections; while 37% of
+chickens have been positive for Salmonella, 50–100% of other
+
+Frontiers in Microbiology | www.frontiersin.org
+
+8
+
+November 2019 | Volume 10 | Article 2577
+
+Wang et al.
+
+Salmonella in Pickled Ready-to-Eat Meat
+
+FIGURE 2 | Dendrogram of pulse-ﬁeld gel electrophoresis (PFGE) proﬁles for 36 S. Thompson isolates, their antibiotic resistance, and plasmid-mediated quinolone
+resistance (PMQR) genes. Antibiotics: Ampicillin (AMP), Amoxicillin-clavulanic acid (AMC), Ceftiofur (CTX), Ceftriaxone (CRO), Cefoxitin (FOX), Gentamicin (GEN),
+Kanamycin (KAN), Amikacin (AMK), Streptomycin (STR), Tetracyclines (TCY), Sulﬁsoxazole (SUL), Trimethoprim/sulfamethoxazole (SXT), Chloramphenicol (CHL),
+Nalidixic acid (NAL), and Ciproﬂoxacin (CIP).
+
+poultry and eggs have also been shown to carry Salmonella2
+(Voss-Rech et al., 2016). In the current study, we found that all
+Salmonella-positive PRTEM samples were obtained from retail
+stalls in the wet markets. This result revealed that unsatisfactory
+hygienic conditions might be the main reason for Salmonella
+contamination in the wet markets. This is especially notable given
+that no positive samples were detected in supermarkets.
+
+At present, the traditional PRTEM products in China are
+commonly processed using raw meat with seasonings (i.e., salt,
+soy sauce, and spices), and water is used as the heating medium.
+Such PRTEM often contains halogen liquid, with high water
+content and slightly acidic pH (5.8–6.2) (Zhao et al., 2011).
+Due to its high water content and adequate nutrition, the
+PRTEM provides an excellent medium for microbial growth
+and reproduction (Li, 2015). In most situations, the PRTEM
+sold in the wet markets is processed by individual peddlers.
+
+2http://www.fsis.usda.gov
+
+Thus, the bacterial prevalence in their raw meat, seasonings,
+and processing environment is largely unknown. Once the raw
+material is contaminated by pathogens and cross-contamination
+occurs, the PRTEM will inevitably carry pathogenic bacteria
+(Zhang et al., 2016).
+
+According to the National Food Safety Standards of China
+(version GB 29921-2013, GB 4789.4-2016), Salmonella should
+not be detectable in 25 g of cooked or RTE food samples.
+However, here we found that 63 (58.9%) samples were positive
+for Salmonella in the 107 commercial PRTEM products.
+This detection rate of Salmonella-positive samples is close
+to the 57.5% of street-vended foods (n = 40) in Ethiopia
+(Mulugeta and Million, 2013), yet it is much higher than
+the 41.0% of RTE meats (n = 79) in Taiwan (Manguiat
+and Fang, 2013), and the 40.0% of RTE meats (n = 20)
+in Havana, Namibia (Shiningeni et al., 2018). On the other
+hand, other studies have reported extremely low detection
+rates of Salmonella-positive samples (<4.0%) in RTE meat
+
+Frontiers in Microbiology | www.frontiersin.org
+
+9
+
+November 2019 | Volume 10 | Article 2577
+
+Wang et al.
+
+Salmonella in Pickled Ready-to-Eat Meat
+
+FIGURE 3 | Dendrogram of PFGE proﬁles for 20 S. Indiana isolates, their antibiotic resistance, and PMQR genes. Antibiotics: Ampicillin (AMP), Amoxicillin-clavulanic
+acid (AMC), Ceftiofur (CTX), Ceftriaxone (CRO), Cefoxitin (FOX), Gentamicin (GEN), Kanamycin (KAN), Amikacin (AMK), Streptomycin (STR), Tetracyclines (TCY),
+Sulﬁsoxazole (SUL), Trimethoprim/sulfamethoxazole (SXT), Chloramphenicol (CHL), Nalidixic acid (NAL), and Ciproﬂoxacin (CIP).
+
+FIGURE 4 | Dendrogram of PFGE proﬁles for 15 S. Typhimurium isolates, their antibiotic resistance, and PMQR genes. Antibiotics: Ampicillin (AMP),
+Amoxicillin-clavulanic acid (AMC), Ceftiofur (CTX), Ceftriaxone (CRO), Cefoxitin (FOX), Gentamicin (GEN), Kanamycin (KAN), Amikacin (AMK), Streptomycin (STR),
+Tetracyclines (TCY), Sulﬁsoxazole (SUL), Trimethoprim/sulfamethoxazole (SXT), Chloramphenicol (CHL), Nalidixic acid (NAL), and Ciproﬂoxacin (CIP).
+
+products (Osaili et al., 2014; Yang et al., 2016; Yang et al., 2018).
+indicated that Salmonella in RTE
+Together
+meat products throughout the world was more prevalent in
+speciﬁc years tested.
+
+these results
+
+The average concentration of Salmonella in the PRTEMs
+tested in this study was 2.27 logMPN per gram of sample, which
+is much higher than the level in RTE foods previously reported
+(Yang et al., 2016). According to the habits of most consumers,
+PRTEM tends not to be re-processed by heating, seasoning,
+and/or microwaving before consumption. On the contrary, it
+is eaten directly as a RTE product. Therefore, the high MPN
+values reported in this study indicated that Salmonella-positive
+
+PRTEM foods could pose a serious risk to the health and safety of
+the consumers. For example, in 2010, a S. Typhimurium U323
+infection outbreak involving 172 cases occurred in Denmark,
+which was associated with speciﬁc ready-to-eat spreadable pork
+sausage (Teewurst) (Kuhn et al., 2013). In another national
+outbreak of S. Give in Malta, four restaurants and 26 (72%)
+human cases were involved, and ready-to-eat antipasti in three
+of the four restaurants were provided by the same manufacturer
+(Donachie et al., 2018).
+
+It is very interesting that no Salmonella-positive samples
+were detected in those PRTEMs collected from supermarkets
+(n = 30). However, from retail stalls in the wet markets, the
+
+Frontiers in Microbiology | www.frontiersin.org
+
+10
+
+November 2019 | Volume 10 | Article 2577
+
+Wang et al.
+
+Salmonella in Pickled Ready-to-Eat Meat
+
+FIGURE 5 | Dendrogram of PFGE proﬁles for 9 S. Mbandaka isolates, their antibiotic resistance, and PMQR genes. Antibitics: Ampicillin (AMP), Amoxicillin-clavulanic
+acid (AMC), Ceftiofur (CTX), Ceftriaxone (CRO), Cefoxitin (FOX), Gentamicin (GEN), Kanamycin (KAN), Amikacin (AMK), Streptomycin (STR), Tetracyclines (TCY),
+Sulﬁsoxazole (SUL), Trimethoprim/sulfamethoxazole (SXT), Chloramphenicol (CHL), Nalidixic acid (NAL), and Ciproﬂoxacin (CIP).
+
+FIGURE 6 | Dendrogram of PFGE proﬁles for eight S. Albany isolates, their antibiotic resistance, and PMQR genes. Antibiotics: Ampicillin (AMP),
+Amoxicillin-clavulanic acid (AMC), Ceftiofur (CTX), Ceftriaxone (CRO), Cefoxitin (FOX), Gentamicin (GEN), Kanamycin (KAN), Amikacin (AMK), Streptomycin (STR),
+Tetracyclines (TCY), Sulﬁsoxazole (SUL), Trimethoprim/sulfamethoxazole (SXT), Chloramphenicol (CHL), Nalidixic acid (NAL), and Ciproﬂoxacin (CIP).
+
+FIGURE 7 | Dendrogram of PFGE proﬁles for 12 S. Typhi isolates, their antibiotic resistance, and PMQR genes. Antibiotics: Ampicillin (AMP), Amoxicillin-clavulanic
+acid (AMC), Ceftiofur (CTX), Ceftriaxone (CRO), Cefoxitin (FOX), Gentamicin (GEN), Kanamycin (KAN), Amikacin (AMK), Streptomycin (STR), Tetracyclines (TCY),
+Sulﬁsoxazole (SUL), Trimethoprim/sulfamethoxazole (SXT), Chloramphenicol (CHL), Nalidixic acid (NAL), and Ciproﬂoxacin (CIP).
+
+positive rate was as high as 81.8%. Based on our observation
+and investigation, the following factors might have contributed
+to the fact that Salmonella was only prevalent in the PRTEMs
+from the wet markets in this survey: (1) PRTEMs sold in the
+wet markets were typically handled in a family workshop, where
+the sanitation of the processing environment is more diﬃcult
+to ensure. Furthermore, the narrow operation space facilitates
+the chance of cross-contamination between processed PRTEMs
+
+and raw meat/poultry products. (2) No sterile vacuum or aseptic
+packaging was used. During PRTEM processing, long processing
+times and high temperature treatments can kill almost all
+bacterial, viral, protozoan, and fungal organisms that are present
+in the foods, and application of outer and/or inner packaging
+is an eﬀective procedure in preventing the food from being
+contaminated. However, no PRTEMs were found to be packaged
+after processing in these small
+family workshops. During
+
+Frontiers in Microbiology | www.frontiersin.org
+
+11
+
+November 2019 | Volume 10 | Article 2577
+
+Wang et al.
+
+Salmonella in Pickled Ready-to-Eat Meat
+
+sale time, such unpackaged PRTEMs are stored at ambient
+temperatures and completely exposed to the environment, where
+the chances of further contamination consequently increase. (3)
+No face masks or gloves were worn by the handlers and sellers
+during the cutting and weighing of PRTEMs.
+
+Antibiotics are eﬀective chemicals
+
+for prevention and
+treatment of microbial diseases, especially salmonellosis, and thus
+have been widely used in animal production during the last
+few decades. However, their usage is also known to promote
+the occurrence of antibiotic resistant bacteria. According to a
+latest report, approximately half of the antibiotics in China
+are commonly used as feed additives in livestock and poultry
+farming (Chen et al., 2019). Due to the incompleteness of
+the regulatory system, inadequate interest, and other reasons,
+manufacturers and farmers have encountered a series of problems
+such as abuse of antibiotics, which in turn leads to increased
+bacterial resistance, harm to human health, and environmental
+damage (Chen et al., 2019). Meanwhile, the types of antifungal
+drugs currently used for crops are 10 times the types of
+human and animal drugs (Fisher et al., 2018). With the
+widespread use of antibiotics for diﬀerent purposes, many
+pathogens always exist in a stress environment3. Resistance
+in Salmonella thus has shown a continuous upward trend
+and emerged as a signiﬁcant public health threat (Voss-Rech
+et al., 2016; Ed-Dra et al., 2017). Here, we found the 219
+Salmonella isolates from PRTEM samples were widely resistant
+to the 15 antibiotics tested in this study. Speciﬁcally,
+the
+detection rates of nalidixic acid- and ciproﬂoxacin-resistant
+isolates were 90.4 and 99.1%, respectively. These values are
+similar to those rates of resistance previously observed in
+food-producing animals (Gong et al., 2017; Lai et al., 2014).
+Although samples in those studies were not RTE foods, the
+situation and problem of antibiotic-resistant Salmonella is both
+similar and severe.
+
+The rates of nalidixic acid- and ciproﬂoxacin-resistant
+Salmonella in RTE foods across China (56 and 10%, respectively),
+to the two antibiotics are considerably higher than those to
+foods sold in street-vended restaurants in Senegal (0.4 and 1.1%,
+respectively) (Dione et al., 2009; Yang et al., 2016). This diﬀerence
+may be attributed to the fact that these isolates were recovered
+from various districts across diﬀerent time periods, while distinct
+antibiotics were used across countries and regions. A study also
+showed that most Salmonella isolates in RTE foods were resistant
+to at least ﬁve antibiotics, while some were insusceptible to nine
+or more antibiotics; 42.0–77.7% of the isolates were multidrug
+resistant (Xia et al., 2009). In the current study, although some
+Salmonella isolates were susceptible to speciﬁc antibiotics, 24
+(11.0%) of the total isolates were co-resistant to 5–8 antibiotics,
+59 (26.9%) were co-resistant to 9–12 antibiotics, and 136 (62.1%)
+were co-resistant to 13–15 antibiotics. The implications of these
+data are both serious and terrifying. In China, resistance of
+Salmonella to antibiotics, especially ﬂuoroquinolones, has been
+inexorably increasing and expanding on an annual basis (Lai
+et al., 2014). If the prevalence of Salmonella in retail foods
+including PRTEM is not eﬃciently prevented and controlled,
+
+3http://www.siﬁc.com.cn/InsidePage/1000/73/8210.html
+
+it is likely that consumers will ingest high concentrations of
+multidrug-resistant Salmonella, which could be fatal.
+
+Mutations in the QRDR are typically associated with nalidixic
+acid and ciproﬂoxacin resistance (Gong et al., 2017). Herein, 115
+GyrA mutations were detected in 85 (38.8%, 85/219) isolates and
+122 ParC mutations in 122 (55.7%, 122/219) isolates. The GyrA
+mutations mainly occurred as Ser83Phe, Ser83Tyr, Ser83Thr,
+and Asp87Asn, whereas ParC mutations were Thr57Ser and
+Ser80Arg. Our result was consistent with those acquired in
+previous studies (Bai et al., 2015; Bai et al., 2016). In addition to
+GyrA and ParC mutations, the development of ﬂuoroquinolone
+resistance was also relative to some penta-peptide repeat proteins
+encoded by qnr, qepA, and oqxAB genes as well as aac(6(cid:48))-Ib
+commonly harbored in the plasmids (Chen et al., 2012; Robicsek
+et al., 2006). The detection rates of qnrB, oqxAB, and aac(6(cid:48))-
+Ib in our study (22.8, 21.9, and 11.9%, respectively), are in
+accordance with previously reported data (Chen et al., 2012;
+Wang et al., 2003). Resistance to ﬂuoroquinolones in Salmonella
+has occurred as a consequence of
+the environmental and
+clinical antibiotic usage, amino acid mutations, and emergence
+of resistance genes (Chen et al., 2019). Despite the relatively
+high detection rates of antibiotic-resistant isolates in PRTEM
+samples, point mutations and antibiotic resistance genes were
+not frequently detected in this study. Because the PRTEMs
+we collected were pickled and stewed with large amounts of
+salts, seasonings, and sauces, the stress in external environments
+might have caused the Salmonella isolates to produce multidrug
+resistance phenotypes.
+
+Ten serotypes were identiﬁed in the 219 Salmonella isolates
+recovered in this study, among which S. Thompson was the
+most common serotype (37.9%, 83/219). This diﬀers from
+previous data showing that S. Enteritidis, S. Senftenberg, and
+S. Infantis were the predominant serotypes in RTE foods in
+Thailand (Boonmar et al., 1998), in Henan Province of China
+(Yu et al., 2014), and in Estonia (Kramarenko et al., 2014). With
+exception of S. Thompson, S. Indiana (20.10%; 44/219) was also
+detected in our study, and this serotype was ﬁrst reported in
+the United States in 1955 (James and Carter, 1967), and has
+not been commonly reported in other countries. However, in
+China, S. Indiana has been more frequently detected annually
+and predicted to be the second most common serotype in meat
+products (Gong et al., 2017).
+
+Surprisingly, 17 S. Typhi
+
+isolates were recovered from
+PRTEMs at the same sampling place (one of the wet markets)
+across diﬀerent sampling times. To our knowledge, isolates of
+this serotype are typically human-speciﬁc pathogens that can
+cause enteric typhoid fever. S. Typhi isolates are commonly
+recovered from food handlers (Everest et al., 2001; Gebreyesus
+et al., 2014), water sources (Singh et al., 2015), dairy products
+(Uzeh et al., 2010), fresh poultry meats (de Freitas et al., 2010),
+and fresh fruit juice (Diana et al., 2012). No S. Typhi has
+ever been detected from RTE foods such as PRTEM previously.
+In general, S. Typhi cannot inhabit the gastrointestinal tract
+of livestock; therefore, the contamination of human foods by
+intestinal contents during domestic animal slaughter is not a
+means of transmission to humans (Luby, 2014). Although we
+did not further investigate the S. Typhi-positive PRTEM makers
+
+Frontiers in Microbiology | www.frontiersin.org
+
+12
+
+November 2019 | Volume 10 | Article 2577
+
+Wang et al.
+
+Salmonella in Pickled Ready-to-Eat Meat
+
+for this pathogen, we considered that the following possibilities
+might exist: (1) the PRTEM makers and/or vendors were S. Typhi
+carriers. Thus, the foods were contaminated during processing
+by direct contact with the carrier. (2) The water and/or PRTEM
+processing environment were contaminated by S. Typhi. Thus,
+the processed meats were likely contaminated by S. Typhi strains
+that could survive in PRTEMs in the presence of adequate
+nutrition for microbial growth.
+
+According to the PFGE ﬁngerprints of Salmonella isolates for
+several of the most commonly detected serotypes, Salmonella
+isolates of each serotype had a very close genetic relationship in
+PRTEMs during the sampling period, or that they had existed
+in each of the PRTEM processing environments for a long
+period. Although these isolates were from diﬀerent samples
+across various sampling places and times, they shared the same
+or very similar DNA proﬁles, antibiotic resistance phenotypes,
+and even some antibiotic resistance genes. This phenomenon was
+also observed for some isolates derived from diﬀerent food types.
+Our result indicated that the prevalence of Salmonella in PRTEMs
+could be potential hazards to consumers and would result in
+Salmonella outbreaks in certain time periods.
+
+This
+
+study revealed that Salmonella was prevalent
+in
+commercial PRTEMs at high concentrations. Some of
+the
+Salmonella isolates recovered from same or diﬀerent types
+of PRTEM sheared same or very similar PFGE proﬁles,
+antibiotic resistance proﬁles, QRDR mutations and antibiotic
+resistance genes. Since PRTEM is a type of RTE food and is
+generally consumed without re-cooking, the presence of high
+concentrations of multidrug resistant Salmonella is a tremendous
+public health threat to both food safety and human health.
+
+DATA AVAILABILITY STATEMENT
+
+All datasets generated for this study are included in the
+article/supplementary material.
+
+AUTHOR CONTRIBUTIONS
+
+JW, JM, and BY proposed the study. HS, WX, and JH collected
+the samples at the end of the experiment with the assistance
+of JW. CC and JZ collected the data. JW synthesized the
+data, retuned and further developed the algorithms, organized,
+prepared and wrote the ﬁrst version of the manuscript, and
+prepared all the ﬁgures and tables. All authors contributed to the
+subsequent versions of the manuscript.
+
+FUNDING
+
+This research was supported by the National Natural Science
+Foundation of China (No. 31671956), the Program for Innovative
+Research talents (in Science and Technology) of University
+of Henan Province (16HASTIT015), and the Excellent Youth
+Foundation of Henan Scientiﬁc Committee (174100510003).
+
+ACKNOWLEDGMENTS
+
+thank the
+
+We
+on our manuscript.
+
+reviewers
+
+for
+
+their
+
+valuable
+
+comments
+
+REFERENCES
+Bai, L., Lan, R., Zhang, X., Cui, S., Xu, J., Guo, Y., et al. (2015). Prevalence of
+Salmonella isolates from chicken and pig slaughterhouses and emergence of
+ciproﬂoxacin and cefotaxime co-resistant S. enterica serovar Indiana in Henan,
+China. Plos One 10:e0144532. doi: 10.1371/journal.pone.0144532
+
+Bai, L., Zhao, J., Gan, X., Wang, J., Zhang, X., Cui, S., et al. (2016). Emergence
+and diversity of Salmonella enterica serovar Indiana isolates with concurrent
+resistance to ciproﬂoxacin and cefotaxime from food-producing animals and
+patients in China. Antimicrob. Agents. 60, 3365–3371. doi: 10.1128/AAC.
+02849-15
+
+Boonmar, S., Bangtrakulnonth, A., Pornrunangwong, S., Marnrim, N., Kaneko,
+K., and Ogawa, M. (1998). Predominant serovars of Salmonella in humans
+and foods from Thailand. J. Vet. Med. Sci. 60, 877–880. doi: 10.1292/jvms.
+60.877
+
+Cattoir, V., Poirel, L., Rotimi, V., Soussy, C. J., and Nordmann, P. (2007). Multiplex
+PCR for detection of plasmid-mediated quinolone resistance qnr genes in
+ESBL-producing enterobacterial isolates. J. Antimicrob. Chemoth. 60, 394–397.
+doi: 10.1093/jac/dkm204
+
+Centers for Disease Control [CDC], (2014). Foodborne Diseases Active Surveillance
+Network (FoodNet): FoodNet Surveillance Report for 2012 (Final Report).
+Atlanta, GE: U.S. Department of Health and Human Services
+
+Chen, H. Y., Wang, Y. Y., and Fu, S. W. (2019). Application status of antibiotics
+in aquaculture. Modern Anim. Husbandr. Sci. Technol. 05, 1–3. doi: 10.19369/j.
+cnki.2095-9737.2019.05.001
+Chen, X., Zhang, W., Pan, W., Yin, J., Pan, Z., Gao, S., et al. (2012). Prevalence of
+qnr, aac(6(cid:48))-Ib-cr, qepA, and oqxAB in Escherichia coli isolates from humans,
+animals, and the environment. Antimicrob Agents Chin. 56, 3423–3427. doi:
+10.1128/AAC.06191-11
+
+Cheng, G. Y., Liu, S. S., Yang, Z. N., and Wang, D. Y. (2015). The characteristics
+of Chinese meat consumption and its forecast for 2020. Chin. Rural Econom. 2,
+76–82.
+Chi, H. P., Robicsek, A., Jacoby, G. A., Sahm, D., and Hooper, D. C. (2006).
+Prevalence in the United States of aac(6(cid:48))-Ib-cr encoding a ciproﬂoxacin-
+modifying enzyme. Antimicrob Agents Chin. 50, 3953–3955. doi: 10.1128/AAC.
+00915-06
+
+Chong, A., Lee, S., Yang, Y.A., and Song, J. (2017). The role of Typhoid toxin in
+
+Salmonella Typhi virulence. Yale J. Biol. Med. 90, 283–290.
+
+Clinical and Laboratory Standards Institute [CLSI] (2014). Performance Standards
+for Antimicrobial Susceptibility Testing: Twenty-Four Informational Supplement.
+Wayne, PE: Clinical & Laboratory Standards Institute [CLSI].
+
+Diana, J. E., Pui, C. F., and Son, R. (2012). Enumeration of Salmonella spp.,
+Salmonella Typhi and Salmonella Typhimurium in fruit juices. Int. Food Res.
+J. 19, 51–56.
+
+Dione, M. M., Ieven, M., Garin, B., Marcotty, T., and Geerts, S. (2009). Prevalence
+and antimicrobial resistance of Salmonella isolated from broiler farms, chicken
+carcasses, and street-vended restaurants in Casamance, Senegal. J. Food Protect.
+72, 2423–2427. doi: 10.1002/jctb.2229
+
+Donachie, A., Melillo, T., Bubba, L., Hartman, H., and Borg, M. L. (2018). National
+outbreak of Salmonella Give linked to a local food manufacturer in Malta,
+october 2016. Epidemiol. Infect. 146, 1–8. doi: 10.1017/S0950268818001656
+
+Eaves, D. J., Randall, L., Gray, D. T., Buckley, A., Woodward, M. J., White,
+A. P., et al. (2004). Prevalence of mutations within the quinolone resistance-
+determining region of gyrA, gyrB, parC, and parE and association with
+antibiotic resistance in quinolone-resistant Salmonella enterica. Antimicrob
+Agents Chin. 48, 4012–4015. doi: 10.1128/aac.48.10.4012-4015.2004
+
+Ed-Dra, A., Filali, F. R., Karraouan, B., Allaoui, A. E., Aboulkacem, A., and
+Bouchrif, B. (2017). Prevalence, molecular and antimicrobial resistance of
+
+Frontiers in Microbiology | www.frontiersin.org
+
+13
+
+November 2019 | Volume 10 | Article 2577
+
+Wang et al.
+
+Salmonella in Pickled Ready-to-Eat Meat
+
+Salmonella isolated from sausages in Meknes, Morocco. Microb. Pathogenesis.
+105, 340–345. doi: 10.1016/j.micpath.2017.02.042
+
+European Food Safety Authority (EFSA) (2017). The European Union summary
+report on trends and sources of zoonoses, zoonotic agents and food-borne
+outbreaks in 2016. Sci. Rep. 15, 1–288. doi: 10.2903/j.efsa.2017.5077
+
+Everest, P., Wain, J., Roberts, M., Rook, G., and Dougan, G. (2001). The molecular
+mechanisms of severe typhoid fever. Trends Microbiol. 9, 316–320. doi: 10.1016/
+S0966-842X(01)02067-4
+
+Fang, S., Liu, X., Tang, D., and Wu, J. (2012). Microbiological safety and control
+technology of cooked meat products in China. Modern Food Sci. Technol. 1,
+99–103. doi: 10.13982/j.mfst.1673-9078.2012.01.004
+
+Fisher, M. C., Hawkins, N. J., Sanglard, D., and Gurr, S. J. (2018). Worldwide
+emergence of resistance to antifungal drugs challenges human health and food
+security. Science 360, 739–742. doi: 10.1126/science.aap7999
+
+de Freitas, C. G., Santana, A. P., da Silva, P. H., Gonçalves, V. S. P., Márcia, de,
+A. F. B., Torres, F. A. G., et al. (2010). PCR multiplex for detection of Salmonella
+Enteritidis, Typhi and Typhimurium and occurrence in poultry meat. Int. J.
+Food Microbiol. 139, 15–22. doi: 10.1016/j.ijfoodmicro.2010.02.007
+
+Gebreyesus, A., Adane, K., Negash, L., Asmelash, T., Belay, S., Alemu, M., et al.
+(2014). Prevalence of Salmonella Typhi and intestinal parasites among food
+handlers in Mekelle University student cafeteria, Mekelle, Ethiopia. Food
+Control. 44, 45–48. doi: 10.1016/j.foodcont.2014.03.040
+
+Gong, J., Kelly, P., and Wang, C. (2017). Prevalence and antimicrobial resistance
+of Salmonella enterica serovar Indiana in China (1984-2016). Zoonoses Public
+Health 64, 239–251. doi: 10.1111/zph.12328
+
+Han, L. L., Kqueen, C. Y., Salleh, N. A., Sukardi, S., Horng, S. J., Hoon, K. C.,
+et al. (2008). Analysis of Salmonella Agona and Salmonella Weltevreden in
+Malaysia by PCR ﬁngerprinting and antibiotic resistance proﬁling. antonie van
+leeuwenhoek anton leeuw. Int. J. G. 94:377. doi: 10.1007/s10482-008-9254-y
+
+Inns, T., Ashton, P. M., Herrera-Leon, S., Lighthill, J., Foulkes, S., Jombart, T., et al.
+(2017). Prospective use of whole genome sequencing (WGS) detected a multi-
+country outbreak of Salmonella Enteritidis. Epidemiol. Infect. 145, 289–298.
+doi: 10.1017/S0950268816001941
+
+James, P., and Carter, H. R. (1967). An outbreak of gastroenteritis caused by
+
+Salmonella Indiana. Public Health Rep. 82, 551–554. doi: 10.2307/4593068
+
+Kramarenko, T., Nurmoja, I., Kärssin, A., Meremäe, K., Hörman, A., and Roasto,
+M. (2014). The prevalence and serovar diversity of Salmonella in various food
+products in Estonia. Food Control. 42, 43–47. doi: 10.1016/j.foodcont.2014.
+01.032
+
+Kuhn, K. G., SØRensen, G., Torpdahl, M., Kjeldsen, M. K., Jensen, T.,Gubblels,
+S., et al. (2013). A long-lasting outbreak of Salmonella Typhimurium U323
+associated with several pork products, Denmark, 2010. Epidemiol. Infect. 141,
+260–268. doi: 10.1017/S0950268812000702
+
+Lai, J., Wu, C., Wu, C., Qi, J., Wang, Y., Wang, H., et al. (2014). Serotype
+distribution and antibiotic resistance of Salmonella in food-producing animals
+in Shandong province of China, 2009 and 2012. Int. J. Food Microbiol. 180,
+30–38. doi: 10.1016/j.ijfoodmicro.2014.03.030
+
+Li, H. (2015). Studies on Resource Utilization of Agricultural Products –Study on
+Marinated Technologies of Quantitative Marinating. Chongqing: Chongqing
+Technology and Business University.
+
+Li, K., Ye, S., Walid, Q. Alali, Wang, Y., Wang, X., Xia, X., et al. (2017).
+Antimicrobial susceptibility, virulence gene and pulsed-ﬁeld gel electrophoresis
+proﬁles of Salmonella enterica serovar Typhimurium recovered from retail
+raw chickens, China. Food Control 72, 36–42. doi: 10.1016/j.foodcont.2016.
+07.032
+
+Li, Y., Huang, Y., Yang, J., Liu, Z., Li, Y., Yao, X., et al. (2018). Bacteria and
+poisonous plants were the primary causative hazards of foodborne disease
+outbreak: a seven-year survey from Guangxi, South China. BMC Public Health
+18:519. doi: 10.1186/s12889-018-5429-2
+
+Liu, J., Bai, L., Li, W., Han, H., Fu, P., Ma, X., et al. (2018). Trends of foodborne
+diseases in China:lessons from laboratory- based surveillance since 2011. Front.
+Med. 12, 48–57. doi: 10.1007/s11684-017-0608-6
+
+Liu, J., Yuan, Q., Li, J., Huang, W., Zhang, J., and Liang, H. (2017). Analysis
+on epidemiological characteristics of foodborne disease outbreaks in Shenzhen
+(2013-2016). J. Public Health Preven. Med. 2, 6–9.
+
+Luby, S. P. (2014). Bacteria: Salmonella Typhi and Salmonella paratyphi.
+Encyclopedia Food Safet. 13, 515–522. doi: 10.1016/B978-0-12-397169-2.
+00071-8
+
+Majowicz, S., Musto, J., Scallan, E., Angulo, F., Kirk, M., O’Brien, S., et al. (2010).
+The global burden of nontyphoidal Salmonella gastroenteritis. Clin. Infect. Dis.
+50, 882–889. doi: 10.1086/650733
+
+Manguiat, L. S., and Fang, T. J. (2013). Microbiological quality of chicken-
+and pork-based street-vended foods from Taichung, Taiwan, and Laguna,
+Philippines. Food Microbiol. 36, 57–62. doi: 10.1016/j.fm.2013.04.005
+
+Mulugeta, K., and Million, T. (2013). The bacteriological safety and antimicrobial
+susceptibility of bacteria isolated from street-vended white lupin (Lupinus
+albus) in bahir dar, Ethiopia. Ethiopian J. Health Sci. 23, 19–26. doi: 10.1002/
+etc.2104
+
+NARMS (2011). Available at: www.fda.gov/downloads/AnimalVeterinary/Safety
+Health/AntimicrobialResistance/NationalAntimicrobialResistanceMonitoring
+System/UCM334834.pdf
+
+Osaili, T. M., Al-Nabulsi, A. A., Shaker, R. R., Jaradat, Z. W., Taha, M., Al-Kherasha,
+M., et al. (2014). Prevalence of Salmonella serovars, listeria monocytogenes,
+and Escherichia coli O157:H7 in Mediterranean ready-to-eat meat products in
+Jordan. J. Food Protect. 77:106. doi: 10.4315/0362-028X.JFP-13-049.
+
+Ribot, E. M., Fair, M. A., Gautom, R., Cameron, D. N., Hunter, S. B., Swaminathan,
+B., et al. (2006). Standardization of pulsed-ﬁeld gel electrophoresis protocols
+for the subtyping of Escherichia coli O157:H7, Salmonella, and Shigella for
+PulseNet. Foodborne Pathog. Dis. 3, 59–67. doi: 10.1071/WR02087
+
+Robicsek, A., Jacoby, G. A., and Hooper, D. C. (2006). The worldwide emergence
+of plasmid-mediated quinolone resistance. Lancet Infect. Dis. 6, 629–640. doi:
+10.1016/S1473-3099(06)70599-0
+
+Sanchez-Maldonado, A. F., Aslam, M., Service, C., Narváez-Bravo, C., Avery, B. P.,
+Johnson, R., et al. (2016). Prevalence and antimicrobial resistance of Salmonella
+isolated from two pork processing plants in Alberta, Canada. Int. J. Food
+Microbiol. 241, 49–59. doi: 10.1016/j.ijfoodmicro.2016.10.004
+
+Shiningeni, D., Chimwamurombe, P., Shilangale, R., and Misihairabgwi, J. (2018).
+Prevalence of pathogenic bacteria in street vended ready-to-eat meats in
+Windhoek, Namibia. Meat Sci. 148, 223-228. doi: 10.1016/j.meatsci.2018.
+05.014
+
+Singh, J., Sharma, S., and Nara, S. (2015). Nanogold based lateral ﬂow assay for the
+detection of Salmonella typhi in environmental water samples. Anal Methods.
+7, 9281–9288. doi: 10.1039/c5ay02271a
+
+USDA/FSIS, (2014). Isolation and Identiﬁcation of Salmonella from Meat, Poultry,
+Pasteurized egg, and Catﬁsh Products and Carcass and Environmental Sponges.
+Washington, DC: USDA
+
+Uzeh, R. E., Ayantunde, P. F., and Popoola, F. A. (2010). Bacterial quality and
+survival of Escherichia coli, Salmonella Typhi, and Listeria monocytogenes in
+African fermented dairy foods: nono and wara. Advances in Food Sci. 32,
+67–70.
+
+Voss-Rech, D., Potter, L., Vaz, C. S. L., Pereira, D. I. B., Sangioni, L. A., Vargas, Á. C.,
+et al. (2016). Antimicrobial resistance in nontyphoidal Salmonella isolated from
+human and poultry-related samples in Brazil: 20-year meta-Analysis. Foodborne
+Pathog. Dis. 14, 116–124. doi: 10.1089/fpd.2016.2228
+
+Wang, M., Tran, J. H., Jacoby, G. A., Zhang, Y., Wang, F., and Hooper, D. C.
+(2003). Plasmid-mediated quinolone resistance in clinical isolates of Escherichia
+coli from Shanghai, China. Antimicrob. Agents Chemother. 47, 2242–2248. doi:
+10.1128/AAC.47.7.2242-2248.2003
+
+Wen, S. C., Best, E., and Nourse, C.
+
+in children:
+
+(2017). Non-typhoidal Salmonella
+for
+J. Paediatr Child Health. 53, 936–941. doi: 10.1111/jpc.
+
+literature and recommendations
+
+review of
+
+infections
+management.
+13585
+
+Wu, G. J., Chu, Z. H., Wang, L. S., Zhuang, M. Q., Liu, J., and Zhao, J. S. (2014).
+The analysis on epidemiological characteristics of foodborne disease outbreaks
+in Shandong Province in 2013. J. Food Safe. Q. 5, 2919–2924.
+
+Xia, S., Hendriksen, R. S., Xie, Z., Huang, L., Zhang, J., Guo, W., et al. (2009).
+Molecular characterization and antimicrobial susceptibility of Salmonella
+isolates from infections in humans in Henan Province, China. J. Clinl.
+Microbiol. 47, 401–409. doi: 10.1128/JCM.01099-08
+
+Xing, Y. F., Wang, G. Q., Sun, Y. L., Gong, C. B., and Dong, F. G. (2018). Analysis
+on the epidemiological characteristics of foodborne disease outbreaks in Yantai
+from 2012 to 2016. Modern Preven. Med. 45, 596–599.
+
+Yang, B., Qu, D., Zhang, X., Shen, J., Cui, S., Shi, Y., et al. (2010). Prevalence
+and characterization of Salmonella serovars in retail meats of marketplace in
+Shaanxi, China. Int. J. Food Microbiol. 141, 63–72. doi: 10.1016/j.ijfoodmicro.
+2010.04.015
+
+Frontiers in Microbiology | www.frontiersin.org
+
+14
+
+November 2019 | Volume 10 | Article 2577
+
+Wang et al.
+
+Salmonella in Pickled Ready-to-Eat Meat
+
+Yang, B., Xi, M., Xin, W., Cui, S., Yue, T., Hao, H., et al. (2011). Prevalence
+of Salmonella on raw poultry at retail markets in China. J. Food Prot. 74,
+1724–1728. doi: 10.4315/0362-028X.JFP-11-215.
+
+in
+
+bulk
+
+Yang, S., Pei, X., Yang, D., Zhang, H., Chen, Q., Chui, H., et al. (2018).
+Microbial
+of
+China in 2016. Food Control 9, 113–122. doi: 10.1016/j.foodcont.2018.
+03.027
+
+ready-to-eat meat
+
+contamination
+
+products
+
+Yang, X., Huang, J., Wu, Q., Zhang, J., Liu, S., Guo, W., et al. (2016). Prevalence,
+antimicrobial resistance and genetic diversity of Salmonella isolated from retail
+ready-to-eat foods in China. Food Control 60, 50–56. doi: 10.1016/j.foodcont.
+2015.07.019
+
+Yu, T., Jiang, X., Zhou, Q., Wu, J., and Wu, Z. (2014). Antimicrobial resistance,
+class 1 integrons, and horizontal transfer in Salmonella isolated from retail
+food in Henan, China. J. Infect. Dev. Ctries. 8, 705–711. doi: 10.3855/jidc.
+4190
+
+Zhang, G., Hu, L., Melka, D., Wang, H., Laasri, A., Brown, E. W., et al. (2017).
+Prevalence of Salmonella in cashews, hazelnuts, macadamia nuts, pecans, pine
+nuts, and walnuts in the United States. J. Food Prot. 80, 459–466. doi: 10.4315/
+0362-028X.JFP-16-396
+
+Zhang, S. S., Zhao, Z. R., Yuan, B. B., Zhang, L., Chen, Z. X., and Zhou, Y. J. (2016).
+Research progress of processing on stewed meat products. J. Food Safet. Q. 7,
+3270–3274.
+
+Zhao, S., Huang, C., Wang, M., Li, J., Duan, C., Huang, W., et al. (2011).
+Determination of hazard analysis critical control point for processing of pot
+stewed duck neck. China Poultry 33, 23–26. doi: 10.16372/j.issn.1004-6364.
+2011.09.002
+
+Conﬂict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be construed as a
+potential conﬂict of interest.
+
+Copyright © 2019 Wang, Sheng, Xu, Huang, Meng, Cao, Zeng, Meng and Yang.
+This is an open-access article distributed under the terms of the Creative Commons
+Attribution License (CC BY). The use, distribution or reproduction in other forums
+is permitted, provided the original author(s) and the copyright owner(s) are credited
+and that the original publication in this journal is cited, in accordance with accepted
+academic practice. No use, distribution or reproduction is permitted which does not
+comply with these terms.
+
+Frontiers in Microbiology | www.frontiersin.org
+
+15
+
+November 2019 | Volume 10 | Article 2577
+
+

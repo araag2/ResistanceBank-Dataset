@@ -1,0 +1,2011 @@
+Ström et al. Antimicrobial Resistance and Infection Control  (2017) 6:75 
+DOI 10.1186/s13756-017-0233-9
+
+Open Access
+
+R ES EAR CH
+Antimicrobial use and antimicrobial
+susceptibility in Escherichia coli on
+small- and medium-scale pig farms
+in north-eastern Thailand
+G. Ström1, M. Halje1, D. Karlsson1, J. Jiwakanon2, M. Pringle3, L.-L. Fernström4 and U. Magnusson1*
+
+Abstract
+
+Background: Intensification of livestock production seen in many low- and middle-income countries is often
+believed to be associated with increased use of antimicrobials, and may hence contribute to the emergence of
+antimicrobial resistance. The aim of this study was to map antimicrobial use on small- (n = 25) and medium-scale
+(n = 27) pig farms in north-eastern Thailand, and to compare antimicrobial susceptibility of commensal Escherichia
+coli isolated from sows on these farms.
+Methods: Information regarding pig husbandry and antimicrobial treatment regimens was obtained by the use of
+semi-structured questionnaires. Faecal samples were collected from three healthy sows at each farm, and Escherichia coli
+was cultured and analysed for antimicrobial susceptibility using the broth microdilution method. Multilevel regression
+models were used to compare antimicrobial susceptibility between isolates from small- and medium-scale farms.
+Results: All farms included in the study administered antimicrobials to their sows. Small-scale farmers most commonly
+(64%) decided themselves when to give antimicrobials and the majority (60%) bought the medicines at the local store or
+pharmacy, whereas farmers on medium-scale farms always discussed antimicrobial treatment with a veterinarian.
+Medium-scale farms used a greater diversity of antimicrobials than small-scale farms and did also administer
+antimicrobials in feed to a higher extent. High levels of antimicrobial resistance to several critically important
+antimicrobials for human medicine (including ciprofloxacin, streptomycin and ampicillin) were found in isolates
+from both small- and medium-scale farms. Resistance levels were significantly (P < 0.05) higher in isolates from
+medium-scale farms for several of the antimicrobials tested, as well as the level of multidrug-resistance (P = 0.026).
+Conclusion: The routines regarding access and administration of antimicrobials differed between the small- and
+medium-scale farms. Although the level of antimicrobial resistance, as well as multidrug-resistance, was higher in
+isolates from medium-scale farms, it cannot be concluded if this increase is a consequence of a more abundant
+use of antimicrobials, or a result of differences in administration routines.
+Keywords: Antimicrobial use, Antimicrobial resistance, E. coli, Pig production, Farm size, Thailand
+
+* Correspondence: ulf.magnusson@slu.se
+1Department of Clinical Sciences, Swedish University of Agricultural Sciences,
+Uppsala, Sweden
+Full list of author information is available at the end of the article
+
+© The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Ström et al. Antimicrobial Resistance and Infection Control  (2017) 6:75 
+
+Page 2 of 9
+
+Background
+The emergence of antimicrobial resistance (AMR) has
+become a serious global health concern, and imprudent
+use of antimicrobials has been recognized as a contributing
+factor in the selection for resistant bacterial populations [1].
+Although much of the resistance seen in human medicine
+originates from inappropriate use in humans [2], antimicro-
+bial use within the livestock sector is believed to contribute
+to AMR through increased selective pressure and through
+generating resistance reservoirs [3, 4].
+
+The level of AMR has been shown to be highest in
+low- and middle-income countries, particularly those in
+South and Southeast Asia [5]. In Thailand, infections with
+antimicrobial resistant bacteria in humans have been esti-
+mated to be the cause of almost 90,000 hospitalisations
+and 38,000 mortalities each year [6], and high levels of
+resistance have been documented in the environment and
+along the food production chain [7].
+
+As Escherichia coli are intestinal commensal bacteria
+present in both animals and humans, and therefore sub-
+jected to a high selection pressure driven by the antimi-
+crobials to which their hosts are exposed, they may serve
+as a good indicator to monitor the general level of AMR
+in a human or livestock population [8]. Also, although
+commensal bacteria are normally harmless, they may con-
+stitute a reservoir of resistance genes that may be trans-
+mitted to pathogenic bacteria [9].
+
+Today’s intensive livestock production often depends
+on antimicrobials to maintain the health and productivity
+of the livestock [10]. Antimicrobials are not only used to
+treat infectious diseases, but are also sometimes used sub-
+therapeutically for growth promotion, a practice associated
+with a high potential for selection of resistant pathogens
+[11]. Intensification of livestock production in many low-
+and middle-income countries, as exemplified by Thailand’s
+pig sector [12, 13], is often believed to be driving an in-
+creased use of antimicrobials and thereby also an increased
+emergence of AMR [10, 14]. Here we explored the validity
+of that assertion in a country with an expanding pig sector.
+We therefore investigated antimicrobial use on small- and
+medium-scale pig farms in north-eastern Thailand, and
+compared antimicrobial susceptibility of commensal E. coli
+isolated from sows on these farms.
+
+Methods
+Study area
+This cross-sectional study was conducted on small- and
+medium-scale pig farms situated near the city Khon
+Kaen in north-eastern Thailand. In 2013, the country
+produced more than 16 million pigs for slaughter [12].
+Among the 220,000 households that raised pigs, 94%
+raised less than 50 pigs per year. On the other hand, two
+large companies owned about 46% of all breeder pigs.
+Currently,
+about 200 such contractual,
+
+there
+
+are
+
+company-owned pig farms in the Khon Kaen province
+and the density of the total number of pigs, as well as
+small - scale farms (less than 50 heads per farm), are about
+the averages for the provinces in Thailand [13]. In the last
+decade, Thailand’s pig sector has intensified and farm sizes
+have increased; a trend that is expected to continue [13].
+
+Study design and data collection
+The study was conducted between September and
+November 2015. Inclusion criteria for small-scale farms
+were that the farm kept sows for breeding, with a max-
+imum of 20 sows, whereas medium-scale farms were
+defined as farms with between 100 and 500 sows, a classi-
+fication relating to previous work in Thailand where such
+farms have been named “smallholders” and “small large-
+scale farms”, respectively [13]. In order to make a distinct
+difference in size between the small- and medium-scale
+farms in the present study, no farms with 21–99 sows
+were included. From a governmental list of villages with
+pig farm(s), the heads in randomly selected villages were
+contacted for checking that there were pig farms at the
+time of the fieldwork. The villages with positive responses
+were visited and all farms where the farmers were at home
+agreed to participate. For the medium-scale farms, that all
+but one belonged to two companies, the company officers
+were asked to make a choice of farms to be equally distrib-
+uted over the province. By this procedure, 25 small-scale
+and 27 medium-scale farms were included in the study.
+
+A faecal sample was collected, using a rectal swab, from
+the individual pen of three randomly chosen healthy sows
+at each farm and added to sterile plastic tubes containing
+Amies medium. At the small-scale farms, sampling was
+performed by the authors (MH, DK), and at the medium-
+scale farms by local veterinary assistants who were thor-
+oughly instructed beforehand how to collect the samples
+in a correct manner. Sampling was performed at mid-day
+and samples were transported to Khon Kaen University
+within 1–6 h and stored at 2-8 °C until analysis, which
+was performed within 48 h after sampling. Because not
+all small-scale farms had three healthy sows, only 69
+samples were obtained from these farms.
+
+A semi-structured questionnaire, with questions on
+farm characteristics, pig husbandry and routines for
+antimicrobial treatment, was administered to the per-
+son responsible for the pigs at each farm. The question-
+naire was in English and had been pre-tested on pig
+farms not involved in the subsequent study, after which
+necessary adjustments were made. Interviews were per-
+formed by the authors MH and DK together with a
+Thai speaking veterinary student at the Khon Kaen
+University who translated the questions to Thai and the
+farmer’s answers to English. The interviews took about
+40 min each.
+
+Ström et al. Antimicrobial Resistance and Infection Control  (2017) 6:75 
+
+Page 3 of 9
+
+Antimicrobial susceptibility testing
+Each faecal sample was streaked on MacConkey agar
+and incubated at 44 °C overnight. Suspected E. coli isolates
+were sub-cultured on blood agar, incubated at 37 °C over-
+night and tested for production of tryptophanase (indole).
+One indole positive isolate was selected from each faecal
+sample and further tested for antimicrobial susceptibility.
+
+Susceptibility testing was performed by broth microdi-
+lution, using the growth method inoculum preparation,
+according to the standards described by the Clinical and
+Laboratory Standards Institute (CLSI) [15]. Microdilution
+panels (VetMIC GN-mo, National Veterinary Institute,
+Uppsala, Sweden) were used to determine susceptibility
+to 13 antimicrobials (ciprofloxacin, nalidixid acid, gentami-
+cin, streptomycin, tetracycline, florfenicol, chloramphenicol,
+colistin, sulfamethoxazole, trimethoprim, ampicillin, cefo-
+taxime, ceftazidime). Escherichia. coli ATCC 25922 was
+used as quality control strain.
+
+The Minimum Inhibitory Concentration (MIC) for each
+antimicrobial was recorded and epidemiological cut-off
+values (ECOFFs), defined by the European Committee on
+Antimicrobial Susceptibility Testing [16], were used to dif-
+ferentiate between wild-type and non-wild-type isolates.
+Wild-type and non-wild-type isolates will henceforth
+be referred to as susceptible and resistant, respectively.
+Multidrug-resistance was defined as isolates resistant
+to at least three different categories (i.e. with different
+mechanisms of action) of the antimicrobials tested [17].
+
+Statistical analyses
+Statistical analyses were conducted in SAS software 9.4
+(SAS Institute Inc., Cary, NC). Descriptive statistics were
+computed to define farm characteristics. To investigate
+associations between management factors, such as use
+of antimicrobials and veterinary services, and resistance
+against different types of antimicrobials, univariable lo-
+gistic regression and Fisher’s exact test were used where
+applicable. Multilevel regression models were used to
+compare susceptibility patterns between the small- and
+medium-scale farms. As isolates from the same farm
+were assumed to be more alike, generalised estimating
+equations (GEE) were used to account for the effect of
+clustering within farms. The statistical significance level
+was defined as a two-tailed P-value <0.05.
+
+were sold to other farmers after weaning, or farms that
+practised a combination of the two systems (12%).
+
+The medium-scale farms in this study, except for one
+farm that was privately owned and managed, were con-
+tract farms contracted by two different companies. The
+number of sows ranged from 100 to 400, with a median
+number of 210 sows (25th and 95th percentiles: 155 and
+327 sows). All medium-scale farms were breeding farms,
+and the privately managed farm also combined this with
+a ‘farrow-to-finish’ system.
+
+None of the farms in this study kept their pigs freely
+roaming; instead the pigs were kept in enclosures, such
+as concrete pens or metal crates.
+
+Antimicrobial use
+All farms in this study administered antimicrobials to
+their sows, though only 21 of the 25 small-scale farms
+knew the names of the antimicrobials used. Small-scale
+farmers most commonly decided themselves when to
+give antimicrobials and the majority bought the drugs at
+the local store or pharmacy (Table 1). On all medium-
+scale farms, the farmer discussed with a veterinarian when
+to give antimicrobials to the animals, and the contract
+farms received the antimicrobials through their respective
+contracting company. The privately managed medium-
+scale farm received antimicrobials through a pharmaceut-
+ical company. Furthermore, antimicrobials were added to
+the feed on all medium-scale farms, a practice that was
+performed on only one of the small-scale farms.
+
+The number and types of antimicrobials used differed
+between small- and medium-scale farms (Table 2). Penicillin
+and streptomycin were used as injectable drugs on all the
+medium-scale farms, compared to only 19% of the small-
+scale farms. Small-scale farms most commonly used amoxi-
+cillin (38%) and enrofloxacin (57%) as injectable drugs. For
+the contract farms, the two contracting companies had
+
+Table 1 Practices related to use and access to antimicrobials on
+the small- and medium-scale pig farms
+
+Antimicrobials injected for disease
+treatment
+
+Small-scale %
+
+(n = 25)
+100 (25)
+
+Medium-scale %
+
+(n = 27)
+100 (27)
+
+Antimicrobials added to, or included in,
+feeda
+Person who decides on when to give antimicrobials
+
+4 (1)
+
+Results
+Farm characteristics
+At the small-scale farms, all privately owned, the number of
+sows varied from 1 to 19, with a median of 5 sows (25th
+and 95th percentiles: 3 and 12 sows). Most of these farms
+(60%) practised a ‘farrow-to-finish’ system, where pigs were
+raised from birth to slaughter. The rest of the small-scale
+farms were either breeding farms (28%), where the piglets
+
+Farmer
+
+Veterinarian
+
+Source of antimicrobials
+
+From veterinarian
+
+From local store/pharmacy
+
+From the contracting company
+
+Other
+
+aOn regular basis
+
+68 (17)
+
+32 (8)
+
+32 (8)
+
+60 (15)
+
+4 (1)
+
+4 (1)
+
+100 (27)
+
+0 (0)
+
+100 (27)
+
+0 (0)
+
+0 (0)
+
+96 (26)
+
+4 (1)
+
+Ström et al. Antimicrobial Resistance and Infection Control  (2017) 6:75 
+
+Page 4 of 9
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+l
+
+e
+a
+c
+s
+-
+
+i
+
+m
+u
+d
+e
+M
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+2
+5
+
+1
+5
+
+0
+5
+
+9
+4
+
+8
+4
+
+7
+4
+
+6
+4
+
+5
+4
+
+4
+4
+
+3
+4
+
+2
+4
+
+1
+4
+
+0
+4
+
+9
+3
+
+8
+3
+
+7
+3
+
+6
+3
+
+5
+3
+
+4
+3
+
+3
+3
+
+2
+3
+
+1
+3
+
+0
+3
+
+9
+2
+
+8
+2
+
+7
+2
+
+6
+2
+
+1
+2
+
+0
+2
+
+9
+1
+
+8
+1
+
+7
+1
+
+6
+1
+
+5
+1
+
+4
+1
+
+3
+1
+
+2
+1
+
+1
+1
+
+0
+1
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+e
+r
+u
+g
+i
+f
+
+e
+h
+t
+
+n
+
+i
+
+d
+e
+y
+a
+p
+s
+i
+d
+
+l
+
+t
+o
+n
+
+s
+u
+h
+t
+
+e
+r
+a
+
+s
+
+m
+r
+a
+f
+
+e
+s
+e
+h
+t
+
+d
+n
+a
+
+i
+
+d
+e
+n
+a
+t
+b
+o
+
+t
+o
+n
+
+s
+a
+w
+d
+e
+s
+u
+
+]
+2
+2
+[
+
+O
+H
+W
+o
+t
+
+e
+r
+e
+w
+
+t
+a
+h
+t
+
+i
+
+g
+n
+d
+r
+o
+c
+c
+a
+
+i
+
+s
+l
+a
+b
+o
+r
+c
+i
+m
+
+i
+t
+n
+a
+
+h
+c
+i
+h
+w
+n
+o
+
+n
+o
+i
+t
+a
+m
+r
+o
+f
+n
+
+i
+
+,
+
+s
+
+m
+r
+a
+f
+
+l
+
+e
+a
+c
+s
+-
+l
+l
+
+a
+m
+
+s
+
+e
+h
+t
+
+f
+o
+
+r
+u
+o
+f
+
+e
+n
+i
+c
+i
+d
+e
+m
+n
+a
+m
+u
+h
+
+r
+o
+f
+
+t
+n
+a
+t
+r
+o
+p
+m
+
+i
+
+y
+
+l
+l
+
+a
+c
+i
+t
+i
+r
+c
+
+e
+b
+
+o
+t
+
+d
+e
+r
+e
+d
+i
+s
+n
+o
+c
+
+l
+
+i
+
+a
+b
+o
+r
+c
+i
+m
+
+m
+o
+r
+F
+a
+
+i
+t
+n
+A
+b
+
+)
+7
+2
+
+=
+n
+(
+
+s
+
+m
+r
+a
+f
+
+l
+
+e
+a
+c
+s
+-
+
+i
+
+m
+u
+d
+e
+m
+d
+n
+a
+
+)
+a
+1
+2
+
+=
+
+n
+(
+
+-
+l
+l
+
+a
+m
+
+s
+
+e
+h
+t
+
+n
+o
+
+s
+w
+o
+s
+
+o
+t
+
+d
+e
+r
+e
+t
+s
+i
+n
+m
+d
+a
+
+i
+
+i
+
+s
+l
+a
+b
+o
+r
+c
+m
+
+i
+
+i
+t
+n
+A
+
+2
+
+e
+l
+b
+a
+T
+
+l
+
+a
+e
+a
+c
+s
+-
+l
+l
+
+a
+m
+S
+
+i
+
+s
+l
+a
+b
+o
+r
+c
+m
+
+i
+
+i
+t
+n
+A
+
+●
+
+●
+
+●
+
+●
+
+●
+
+2
+
+●
+
+i
+
+b
+n
+c
+y
+m
+o
+t
+p
+e
+r
+t
+S
+
+b
+G
+n
+
+i
+l
+l
+i
+
+i
+
+c
+n
+e
+P
+
+b
+n
+
+i
+l
+l
+i
+
+i
+
+c
+x
+o
+m
+A
+
+e
+n
+
+i
+l
+
+c
+y
+c
+a
+r
+t
+e
+t
+y
+x
+O
+
+i
+
+b
+e
+m
+x
+a
+t
+o
+f
+e
+C
+
+i
+
+n
+c
+a
+x
+o
+
+l
+f
+
+o
+r
+n
+E
+
+i
+
+b
+n
+c
+y
+m
+a
+n
+a
+K
+
+n
+o
+i
+t
+c
+e
+n
+
+j
+
+I
+
+i
+
+i
+
+b
+n
+c
+m
+a
+t
+n
+e
+G
+
+b
+n
+
+i
+l
+l
+i
+
+i
+
+c
+x
+o
+m
+A
+
+b
+n
+i
+t
+s
+i
+l
+
+o
+C
+
+i
+
+n
+c
+y
+m
+a
+s
+a
+t
+i
+K
+
+e
+n
+
+i
+l
+
+c
+y
+c
+a
+r
+t
+e
+t
+y
+x
+O
+
+d
+e
+e
+f
+
+n
+
+I
+
+i
+
+e
+d
+m
+a
+n
+o
+
+f
+l
+
+u
+S
+
+1
+
+o
+n
+m
+r
+a
+F
+
+l
+
+i
+
+o
+c
+n
+e
+f
+r
+o
+F
+
+l
+
+Ström et al. Antimicrobial Resistance and Infection Control  (2017) 6:75 
+
+Page 5 of 9
+
+different regimes regarding treatment with antimicrobials.
+Both companies provided penicillin and streptomycin as
+injectable drugs to their contract farms, and one of the com-
+panies also provided enrofloxacin. The companies either
+provided kitasamycin or oxytetracycline as in-feed antimi-
+crobials to their respective farms. On the privately managed
+medium-scale farm, penicillin, streptomycin, amoxicillin,
+oxytetracycline and cefotaxime were administered by injec-
+tion, and amoxicillin and colistin were provided with the
+feed. Unfortunately, no information regarding the amount
+of antimicrobials used could be obtained in this study.
+
+Antimicrobial susceptibility
+In total, 69 and 81 isolates were obtained from the small-
+and medium-scale farms, respectively. Around 90% (62/
+69) of isolates from the small-scale farms showed resist-
+ance to at least one category of antimicrobials. The corre-
+sponding figure for medium-scale farms was 98% (79/81).
+The MIC distributions for isolates from the small- and
+medium-scale farms are presented in Tables 3 and 4,
+respectively.
+
+For both small- and medium-scale farms, most isolates
+showed resistance to ampicillin, tetracycline and sulfa-
+methoxazole, ranging from 61% to 86% (for details see
+Table 5). No isolates showed resistance to colistin, and
+only a few isolates were resistant to the third generation
+cephalosporins cefotaxime and ceftazidime. Isolates ob-
+tained from medium-scale farms were significantly more
+likely to be resistant to streptomycin (P < 0.001), sulfa-
+methoxazole (P = 0.006), trimethoprim (P < 0.001) and
+chloramphenicol (P = 0.023), compared to isolates from
+small-scale farms. Multidrug-resistance was more com-
+mon (P = 0.026) in isolates from medium-scale farms
+(89%), than in isolates from small-scale farms (74%).
+
+Isolates obtained from farms that used enrofloxacin
+were more likely to show resistance to ciprofloxacin
+(P = 0.02), but not to nalidixic acid (P = 0.47). Moreover,
+all isolates from medium-scale farms that administered
+oxytetracycline in the feed were resistant to tetracycline.
+
+Discussion
+The overall aim of this study was to investigate possible
+differences in antimicrobial use in pigs on small- and
+medium-scale pig farms in Thailand, a country that is
+experiencing an intensification of the pig sector,
+like
+other countries in the region [13]. Furthermore, we
+compared antimicrobial susceptibility of isolates of E.
+coli from pigs on these farms. This research question
+stems from the common assertion that farm intensifica-
+tion, in particular in the pig and poultry sectors, is as-
+sociated with a more abundant use of antimicrobials,
+and thereby also with higher levels of antimicrobial
+resistance (AMR) [10, 14].
+
+The levels of AMR presented here are largely similar
+to those in previous studies on E. coli
+isolated from
+animals in Southeast Asia, according to a recent review
+by Nhung et al. [18]. The highest frequencies of resist-
+ance in isolates from both small- and medium-scale
+farms were found against tetracycline, followed by ampicil-
+lin. Multidrug-resistance was significantly more commonly
+observed in isolates from pigs on medium- compared to
+small-scale farms. These results are in accordance with a
+study by Love et al. [19], where herd size was reported to
+be positively associated with higher rates of multidrug-
+resistance in E. coli
+isolated on pig farms in northern
+Thailand. Although the medium-scale farms in the present
+study routinely used a greater diversity of antimicrobials,
+we do not have any reliable information regarding the
+amounts of antimicrobials used on the farms. Therefore, no
+associations between the amounts of administrated antimi-
+crobials and AMR can be determined here.
+
+Penicillin and streptomycin were used on all medium-
+scale farms, whereas small-scale farms most commonly
+used enrofloxacin and amoxicillin. Enrofloxacin was also
+used on almost half of the medium-scale farms. Although
+this antimicrobial is not used in human medicine, being a
+quinolone its use in animals selects for resistance to other
+quinolones that are used for humans. Here we found a
+positive association between the use of enrofloxacin on
+the farm and ciprofloxacin resistance in isolates of E. coli
+from the pigs, which indicates the importance of restrict-
+ing the use of quinolones in animal agriculture. These
+results are in accordance with studies conducted on pig
+and chicken farms in Vietnam [20, 21].
+
+Many of the antimicrobials used by the farms in this
+study are classified by the World Health Organization
+(WHO) as critically important for human medicine [22],
+including amoxicillin, cefotaxime and colistin. The recent
+discovery of the plasmid mediated mcr-1 gene in bacteria
+isolated from pigs [23], a gene that confers resistance to
+colistin and that may be transferred horizontally between
+bacteria, has emphasised the importance of colistin as a
+last-resort antimicrobial that should possibly be restricted
+to human use. Plasmid-mediated colistin resistance has
+since been detected in almost all regions of the world [24],
+including in bacteria isolated from Vietnamese pigs
+[20, 25]. None of the isolates in the present study,
+however, were resistant to colistin, and it was only
+used on one of the study farms.
+
+Data presented in this study indicate that medium-scale
+farms administer antimicrobials to the feed to a higher
+extent than small-scale farms. Oral administration of anti-
+microbials is known to increase AMR in E. coli from pigs
+[26]. A possible explanation to the higher use of antimi-
+crobials in feed on the medium-scale farms in this study
+could be that these farms experience an increased disease
+pressure that is associated with larger group sizes and
+
+Ström et al. Antimicrobial Resistance and Infection Control  (2017) 6:75 
+
+Page 6 of 9
+
+Table 3 Resistance and distributions of Minimum Inhibitory Concentrations (MIC) for E. coli isolates from small-scale farms
+
+White fields denote range of dilutions tested for each substance. MICs higher than the highest concentration tested are given as the concentration closest above
+the range. MICs equal to or lower than the lowest concentration tested are presented underlined. The ECOFF [16] for each substance is presented as a vertical line
+
+higher densities of animals [27], or simply that these farms
+were more commercially oriented and therefore pursued
+better animal performance and higher returns from
+production. We do not have information whether these
+antimicrobials were intended to promote growth or to
+prevent sickness in the animals, therefore these are only
+speculations. However, Thailand recently, as the first
+country in the region, banned the inclusion of antimi-
+crobials as growth promotors in animal agriculture
+
+[28], which is an important step towards a more pru-
+dent use of antimicrobials.
+
+We found a difference between the ways in which
+small- and medium-scale farms accessed antimicrobials,
+where the latter always consulted a veterinarian before
+treating sick animals. This difference, that must be inter-
+preted with caution given the sample size, might how-
+ever not be resulting from increased farm size, but could
+merely be a consequence of that the medium-scale farms
+
+Table 4 Resistance and distributions of Minimum Inhibitory Concentrations (MIC) for E. coli isolates from medium-scale farms
+
+White fields denote range of dilutions tested for each substance. MICs higher than the highest concentration tested are given as the concentration closest above
+the range. MICs equal to or lower than the lowest concentration tested are presented underlined. The ECOFF [16] for each substance is presented as a vertical line
+
+Ström et al. Antimicrobial Resistance and Infection Control  (2017) 6:75 
+
+Page 7 of 9
+
+Table 5 Antimicrobial resistance parameters of E. coli isolates from pigs on the small- and medium-scale farms
+Antimicrobial
+
+Resistant isolates % (n)
+
+P-value
+
+Small-scale (n = 69)
+
+Medium-scale (n = 81)
+
+Ciprofloxacin†
+Nalidixic acid†
+Gentamicin†
+Streptomycin†
+Tetracycline
+
+Florfenicol
+
+Chloramphenicol
+Colistin†
+Sulfamethoxazole
+
+41 (28)
+
+20 (14)
+
+11 (8)
+
+38 (26)
+
+75 (52)
+
+14 (10)
+
+39 (27)
+
+0 (0)
+
+61 (42)
+
+48 (39)
+
+31 (25)
+
+7 (6)
+
+77 (62)
+
+86 (70)
+
+2 (2)
+
+58 (47)
+
+0 (0)
+
+84 (68)
+
+0.54
+
+0.21
+
+0.39
+
+<0.001
+
+0.09
+
+0.01
+
+0.02
+
+-
+
+0.002
+
+OR
+
+(95% CI)a
+
+5.4 (2.7-11)
+
+2.1 (0.9-4.8)
+
+0.1 (0.03-0.7)
+
+2.2 (1.1-4.1)
+
+-
+
+3.4 (1.6-7.2)
+
+42 (29)
+
+70 (48)
+
+Trimethoprim
+Ampicillin†
+Cefotaxime†
+Ceftazidime†
+Multidrug-resistanceb
+†Antimicrobial classified as critically important for human medicine according to WHO [22]
+aFor the OR estimates, the small-scale farms were used as reference variable and GEE models were used to account for clustering of isolates within farms
+bMultidrug-resistance defined as an isolate resistant against at least three different categories of the antimicrobial agents tested
+
+70 (57)
+
+85 (69)
+
+0.9
+
+0.8
+
+1 (1)
+
+4 (3)
+
+1 (1)
+
+4 (3)
+
+89 (72)
+
+<0.001
+
+0.02
+
+3.3 (1.7-6.4)
+
+2.5 (1.1-5.6)
+
+74 (51)
+
+0.002
+
+3.7 (1.2-8.8)
+
+were bound to the routines of the contracting companies,
+as this was the case for all but one of the medium-scale
+farms. The two contracting companies, owning about half
+each of the medium-scale farms in the current study, are
+very large companies that have operations all over the
+country, and one may thus assume that the regimes re-
+garding antimicrobial treatment presented here are repre-
+sentative for many medium-scale farms in Thailand.
+
+In this study the emphasis was on antimicrobial use
+and susceptibility in commensal E. coli collected from
+sows. Sows were sampled as antimicrobial use and re-
+sistance in E. coli from sows is of epidemiological im-
+portance within the herd, as the sow may serve as a
+reservoir of resistant bacteria and genetic determinants
+[29]. Whilst the recommendation by the European Food
+Safety Authority (EFSA) [30] is that samples should be
+taken from fattener pigs, the approach adopted here was
+to ensure sufficient number of pigs to sample at each
+farm, as small-scale farms might not have enough fat-
+teners at the time of visit.
+
+As already mentioned we found a positive association
+between enrofloxacin use and ciprofloxacin resistance,
+both being fluoroquinolones used in veterinary and
+human medicine, respectively. Our analyses also re-
+vealed some associations between the use of certain
+antimicrobials and AMR. Such associations should be
+interpreted with caution, especially since this study
+contained relatively few farms and the fact that we
+could not obtain reliable information from all farms
+regarding precise treatment regimes, e.g. duration and
+dosage. Thus, assessing possible associations between
+
+the treatment regime and antimicrobial resistance
+might fall outside the power of this study.
+
+The data from the current study have been interpreted
+conservatively given the relatively small sample size. An-
+other limitation to take into account when reading the
+paper is that the selection of farms might not be regarded
+as entirely random. The antimicrobial activity testing
+panel used is designed to detect resistance among E. coli,
+therefore there may be resistance in other bacterial species
+and to other antimicrobials not tested for in this study.
+
+Conclusions
+Considerable reservoirs of antimicrobial resistance were
+observed in E. coli from pigs on both small- and medium-
+scale farms in north-eastern Thailand. Higher rates of
+resistance, including multidrug-resistance, were observed
+on medium-scale farms, which could be a consequence of
+the greater diversity of antimicrobials used on these farms,
+as well as of the higher extent to which antimicrobials
+were administered in the feed. Although we found differ-
+ences in how antimicrobials were accessed and adminis-
+tered between the small- and medium-scale farms,
+it
+cannot be concluded whether these differences could be
+responsible for the higher rate of antimicrobial resistance
+observed on the medium-scale farms.
+
+Abbreviations
+AMR: Antimicrobial resistance; CLSI: Clinical and laboratory standards
+institute; ECOFF: Epidemiological cut-off value; EFSA: European food safety
+authority; EUCAST: European Committee on Antimicrobial Susceptibility
+Testing; GEE: Generalised estimating equations; MIC: Minimum inhibitory
+concentration; SLU: Swedish University of Agricultural Sciences; WHO: World
+Health Organization
+
+Ström et al. Antimicrobial Resistance and Infection Control  (2017) 6:75 
+
+Page 8 of 9
+
+Acknowledgements
+The authors would like to express their gratitude towards the farmers that
+participated in the study, as well as the veterinary students who assisted
+during the fieldwork.
+
+Funding
+Not applicable.
+
+Availability of data and materials
+Data are stored at the Swedish University of Agricultural Sciences (SLU),
+Sweden, and can be shared upon request.
+
+Authors’ contributions
+Study design: UM, JK, MP, LF, MH, DK. Data collection and analysis: MH, DK,
+JK, MP, LF, GS. Manuscript writing: GS, MH, DK, UM. Manuscript review: All
+authors. All authors read and approved the final manuscript.
+
+Ethics approval and consent to participate
+All procedures performed in this study were in accordance with the ethical
+standards of the institutional and national research committee, and with the
+1964 Helsinki declaration and its later amendments for non-sensitive data
+collected from humans. For collection of this kind of data ethical approval is
+exempted [31]. All participants were informed about the purpose of the
+study and that their participation was anonymous and on voluntary basis.
+Informed consent was obtained from each participant before the study was
+conducted. As the animal sampling procedure was non-invasive, no ethical
+approval was required.
+
+Consent for publication
+Not applicable.
+
+Competing interests
+The authors declare that they have no competing interest.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+Author details
+1Department of Clinical Sciences, Swedish University of Agricultural Sciences,
+Uppsala, Sweden. 2Research Group for Preventive Technology in Livestock,
+Faculty of Veterinary Medicine, Khon Kaen University, Khon Kaen, Thailand.
+3National Veterinary Institute, Uppsala, Sweden. 4Department of Biomedical
+Sciences and Veterinary Public Health, Swedish University of Agricultural
+Sciences, Uppsala, Sweden.
+
+Received: 1 March 2017 Accepted: 10 July 2017
+
+References
+1. WHO. Antimicrobial resistance: global report on surveillance 2014. Geneva:
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+World Health Organization; 2014.
+Aarestrup FM. Veterinary drug usage and antimicrobial resistance in bacteria
+of animal origin. Basic Clin Pharmacol Toxicol. 2005;96:271–81.
+Smith DL, Harris AD, Johnson JA, Silbergeld EK, Morris JG Jr. Animal
+antibiotic use has an early but important impact on the emergence of
+antibiotic resistance in human commensal bacteria. Proc Natl Acad Sci U S
+A. 2002;99:6434–9.
+van den Bogaard AE, Stobberingh EE. Epidemiology of resistance to
+antibiotics. Links between animals and humans. Int J Antimicrob Agents.
+2000;14:327–35.
+Kang CI, Song JH. Antimicrobial resistance in Asia: current epidemiology
+and clinical implications. Infect Chemother. 2013;45:22–31.
+Phumart P, Phodha P, Thamlikitkul P, Riewpaiboon P, Prakongsai P. Health
+and economic impacts of antimicrobial resistant infections in Thailand: a
+preliminary study. Journal of Health System Research. 2012;6:352–60.
+Boonyasiri A, Tangkoskul T, Seenama C, Saiyarin J, Tiengrim S, Thamlikitkul V.
+Prevalence of antibiotic resistant bacteria in healthy adults, foods, food
+animals, and the environment in selected areas in Thailand. Pathog Glob
+Health. 2014;108:235–45.
+
+8.
+
+EFSA (European Food Safety Authority) and ECDC (European Centre for
+Disease Prevention and Control). EU Summary Report on antimicrobial
+resistance in zoonotic and indicator bacteria from humans, animals and
+food in 2013. EFSA J. 2015; doi:10.2903/j.efsa.2015.4036.
+
+9. Marshall BM, Ochieng DJ, Levy SB. Commensals: underappreciated reservoir
+
+of antibiotic resistance. Microbe. 2009;4:231–8.
+
+10. Robinson TP, Bu DP, Carrique-Mas J, Fevre EM, Gilbert M, Grace D, Hay SI,
+
+Jiwakanon J, Kakkar M, Kariuki S, Laxminarayan R, Lubroth J, Magnusson U, Thi
+Ngoc P, Van Boeckel TP, Woolhouse MEJ. Antibiotic resistance: mitigation
+opportunities in livestock sector development. Animal. 2017;11:1–3.
+
+11. Hughes P, Heritage J. Antibiotic Growth-Promoters in Food Animals.
+
+Assessing Quality and Safety of Animal Feeds. FAO Animal Production and
+Health Papers Series No 160. Rome: Food and Agriculture Organization of
+the United Nations; 2004. pp. 129–152.
+Tantasuparuk W, Kunavongkrit A. Pig production in Thailand. In: Country
+report. 2014; 2014.
+Thanapongtharm W, Linard C, Chinson P, Kasemsuwan S, Visser M, Gaughan
+AE, Epprech M, Robinson TP, Gilbert M. Spatial analysis and characteristics of
+pig farming in Thailand. BMC Vet Res. 2016;12:218.
+
+12.
+
+13.
+
+14. Van Boeckel TP, Brower C, Gilbert M, Grenfell BT, Levin SA, Robinson TP,
+
+Teillant A, Laxminarayan R. Global trends in antimicrobial use in food
+animals. Proc Natl Acad Sci U S A. 2015;112:5649–54.
+
+16.
+
+15. CLSI (Clinical and Laboratory Standards Institute. Performance standards for
+antimicrobial disk and dilution susceptibility tests for bacteria isolated from
+animals; approved standard. In: CLSI document VET01-A4. Forth ed. Wayne,
+Pennsylvania, USA: Clinical and Laboratory Standards Institute.
+EUCAST (European Committee on Antimicrobial Susceptibility Testing). MIC
+distributions and ECOFFs. 2016. http://mic.eucast.org/Eucast2/
+SearchController/search.jsp?action=performSearch&BeginIndex=0&Micdif=
+mic&NumberIndex=50&Antib=−1&Specium=162. Accessed 28 Dec 2016.
+17. Magiorakos AP, Srinivasan A, Carey RB, Carmeli Y, Falagas ME, Giske CG,
+
+Harbarth S, Hindler JF, Kahlmeter G, Olsson-Liljequist B, Paterson DL, Rice LB,
+Stelling J, Struelens MJ, Vatopoulos A, Weber JT, Monnet DL. Multidrug-
+resistans, extensively drug-resistant and pandrug-resistant bacteria: an
+international expert proposal for interim standard definitions for aquired
+resistance. Clin Microbiol Infect. 2012;18:268–81.
+
+18. Nhung NT, Cuong NV, Thwaites G, Carrique-Mas J. Antimicrobial usage and
+
+19.
+
+antimicrobial resistance in animal production in Southeast Asia: a review.
+Antibiotics. 2016;5:37.
+Love DC, Tharavichitkul P, Arjkumpa O, Imanishi M, Hinjoy S, Nelson K,
+Nachman KE. Antimicrobial use and multidrug-resistant salmonella spp.,
+Escherichia coli, and Enterococcus faecalis in swine from northern Thailand.
+Thai J Vet Med. 2015;45:43–53.
+
+20. Nguyen NT, Nguyen HM, Nguyen CV, Nguyen TV, Nguyen MT, Thai QH, Ho
+MH, Thwaites G, Ngo HT, Baker S, Carrique-Mas J. Use of Colistin and other
+critical antimicrobials on pig and chicken farms in southern Vietnam and its
+association with resistance in Commensal Escherichia coli bacteria. Appl
+Environ Microbiol. 2016;82:3727–35.
+
+21. Nguyen VT, Carrique-Mas J, Ngo TH, Ho HM, Ha TT, Campbell JI, Nguyen TN,
+
+Hoang NN, Pham VM, Wagenaar JA, Hardon A, Thai QH, Schultsz C.
+Prevalence and risk factors for carriage of antimicrobial-resistant Escherichia
+coli on household and small-scale chicken farms in the Mekong Delta of
+Vietnam. J Antimicrob Chemother. 2015;70:2144–52.
+
+22. WHO. Critically important antimicrobials for human medicine – 3rd revision.
+
+23.
+
+Geneva: World Health Organization; 2012.
+Liu YY, Wang Y, Walsh TR, Yi LX, Zhang R, Spencer J, Doi Y, Tian G, Dong B,
+Huang X, Yu LF, Gu D, Ren H, Chen X, Lv L, He D, Zhou H, Liang Z, Liu JH,
+Shen J. Emergence of plasmid-mediated colistin resistance mechanism
+MCR-1 in animals and human beings in China: a microbiological and
+molecular biological study. Lancet Infect Dis. 2016;16:161–8.
+
+24. Baron S, Hadjadj L, Rolain JM, Olaitan AO. Molecular mechanisms of polymixine
+
+resistance: knows and unknowns. Int J Antimicrob Agents. 2016;48:583–91.
+25. Malhotra-Kumar S, Xavier BB, Das AJ, Lammens C, Hoang HTT, Pham NT,
+
+Goossens H. Colistin-resistant Escherichia coli harbouring mcr-1 isolated from
+food animals in Hanoi, Vietnam. Lancet Infect Dis. 2016;16:286–7.
+
+26. Burow E, Simoneit C, Tenhagen BA, Kasbohrer A. Oral antimicrobials
+
+increase antimicrobial resistance in porcine E. coli - a systematic review. Prev
+Vet Med. 2014;113:364–75.
+
+27. Maes D, Deluyker H, Verdonck M, Castryck F, Miry C, Vrijes B, de Kruif A. Herd
+
+factors associated with the seroprevalences of four major respiratory pathogens
+in slaughter pigs from farrow-to-finish pig herds. Vet Res. 2000;31:313–27.
+
+Ström et al. Antimicrobial Resistance and Infection Control  (2017) 6:75 
+
+Page 9 of 9
+
+28.
+
+Thamlikitkul V, Rattanaumpawan P, Boonyasiri A, Pumsuwan V, Judaeng T,
+Tiengrim S, Paveenkittiporn W, Rojanasthien S, Jaroenpoj S,
+Issaracharnvanich S. Thailand antimicrobial resistance containment and
+prevention program. J Glob Antimicrob Resist. 2015;3:290–4.
+
+29. Callens B, Faes C, Maes D, Catry B, Boyen F, Francoys D, de Jong E,
+Haesebrouck F, Dewulf J. Presence of antimicrobial resistance and
+antimicrobial use in sows are risk factors for antimicrobial resistance in their
+offspring. Microb Drug Resist. 2015;21:50–8.
+EFSA (European Food Safety Authority). Manual for reporting on antimicrobial
+resistance within the framework of directive 2003/99/EC and decision 2013/
+652/EU for information deriving from the year 2015. In: EFSA supporting
+publication 2016:EN-990; 2016. p. 35.
+
+30.
+
+31. Central Ethical Review Board, Sweden, 2017. http://www.epn.se/en/start/
+
+the-organisation/ Accessed July 2 2017.
+
+Submit your next manuscript to BioMed Central 
+and we will help you at every step:
+•  We accept pre-submission inquiries 
+(cid:129)  Our selector tool helps you to ﬁnd the most relevant journal
+(cid:129)  We provide round the clock customer support 
+(cid:129)  Convenient online submission
+(cid:129)  Thorough peer review
+(cid:129)  Inclusion in PubMed and all major indexing services 
+(cid:129)  Maximum visibility for your research
+
+Submit your manuscript at
+www.biomedcentral.com/submit
+
+

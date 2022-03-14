@@ -1,0 +1,997 @@
+Arq. Bras. Med. Vet. Zootec., v.62, n.1, p.30-36, 2010 
+
+Virulence factors, antimicrobial resistance, and plasmid content of Escherichia coli 
+
+isolated in swine commercial farms 
+
+ 
+
+[Fatores de virulência, resistência aos antimicrobianos, presença de plasmídeos em Escherichia coli  
+
+isoladas de amostras clínicas e ambientais de suínos] 
+
+M.M. Costa1,2, G. Drescher2, F. Maboni3, S.S. Weber1, A. Schrank3, M.H. Vainstein1, 
+
+I.S. Schrank1, A.C. Vargas3* 
+
+ 
+
+1Aluno de pós-graduação - Centro de Biotecnologia - UFRGS – Porto Alegre, RS 
+
+2Universidade Federal do Vale do São Francisco – Petrolina, Pe 
+
+3Universidade Federal de Santa Maria – Santa Maria, RS 
+
+ 
+
+  
+
+ABSTRACT 
+
+ 
+Virulence factors and antimicrobial resistance patterns of Escherichia coli isolates were evaluated. A total 
+of 80 E. coli isolates were evaluated, being 64 from clinical samples (intestinal content and fragments of 
+organs  from  diarrheic  piglets),  seven  from  feces  of  clinically  healthy  piglets  and  sows,  and  nine 
+environmental  samples  (five  from  facilities,  two  from  feed,  one  from  insect,  and  one  from  waste). 
+Molecular  characterization  was  performed  by  PCR  detection  of  fimbriae  and  toxin  genes  and  plasmid 
+content determination. The isolates were also characterized according to their resistance or sensitivity to 
+the  following  drugs:  ampicillin,  trimethoprim:sulfamethoxazole,  tetracycline,  amikacine,  colistin, 
+norfloxacin,  florfenicol,  enrofloxacin,  cefalexin, 
+trimethoprim,  neomycin,  chloramphenicol,  and 
+gentamicin. From 80 E. coli isolates, 53.8% were classified as enterotoxigenic E. coli (ETEC), 2.5% were 
+shiga toxin-producing  E.  coli (STEC), and 43.8% showed  a non specific pattern and  were unclassified. 
+One  fecal  isolate  from  non-diarrheic  piglet  was  classified  as  ETEC  by  PCR.  Clinical  isolates  showed 
+resistance mainly for tetracycline and trimethoprim:sulfamethoxazole. Plasmidial DNA was observed in 
+70 isolates, being 78.5% of clinical isolates, 8.57% of non-diarrheic feces, and 12.8% of environment.  
+ 
+Keywords: swine, colibacillosis, fimbriae, toxin, antimicrobial resistance 
+ 
+
+RESUMO 
+
+ 
+
+Os  fatores  de  virulência  e  a  resistência  aos  antimicrobianos  foram  avaliados  em  Escherichia  coli.  Um 
+total de 80 isolados de E. coli, sendo 64 de amostras clínicas (conteúdo intestinal e fragmentos de órgãos 
+de leitões diarreicos), sete das fezes de porcas e leitões saudáveis e nove de amostras ambientais (cinco 
+de  instalações,  dois  de  alimentos,  um  de  inseto  e  um  de  esterqueira).  A  caracterização  molecular  feita 
+pela  PCR  objetivou  detectar  fimbrias  e  toxinas,  bem  como a  determinação  do  conteúdo de  plasmídeos. 
+Os isolados foram caracterizados quanto à resistência ou sensibilidade às seguintes drogas: ampicilina, 
+sulfazotrim,  tetraciclina,  amikacina,  colistina,  norfloxacina,  florfenicol,  enrofloxacina,  cefalexina, 
+trimetoprim, neomicina, cloranfenicol e gentamicina. Dos 80 isolados, 53,8% foram classificados como 
+E. coli enterotoxigênica (ETEC), 2,5% como E. coli produtora de shiga toxina (STEC) e 43,8%, por não 
+apresentarem  padrão  específico,  não  foram  classificadas. Pela  PCR,  um  isolado  de  fezes  de  suíno  sem 
+diarreia foi classificado como ETEC. Os isolados das amostras clínicas foram principalmente resistentes 
+à  tetraciclina  e  à  sulfazotrim.  Em  70  isolados,  observaram-se  DNA  plasmidial,  destes  78,5%  foram 
+obtidos de amostras clínicas, 8,57% de leitões sadios e 12,8% de amostras ambientais. 
+ 
+Palavras-chave: suíno, colibacilose, fímbrias, toxinas, resistência antimicrobiana 
+ 
+
+                                                 
+Recebido em 7 de maio de 2009 
+Aceito em 28 de dezembro de 2009 
+*Autor para correspondência (corresponding author) 
+E-mail: agueda@ccr.ufsm.br 
+
+ 
+
+Virulence factors, antimicrobial… 
+
+INTRODUCTION 
+
+ 
+
+and 
+
+diarrhea 
+
+post-weaning 
+
+Neonatal  colibacillosis  is  one  of  the  important 
+disease  of  swine  herds  around 
+the  world 
+(Blickwede  and  Schwarz,  2004;  Hart  et  al., 
+2004).  Different  pathotypes  are  associated  with 
+neonatal 
+as 
+enterotoxigenic  Escherichia  coli  (ETEC)  and 
+attaching-effacing  or  enteropathogenic  E.  coli 
+(AEEC). The edema disease is caused by a Shiga 
+toxin-producing  E.  coli  (STEC).  These  diseases 
+are associated with high mortality rates in young 
+piglets (Choi et al., 2002; Hariharan et al., 2004). 
+ETEC adheres to small intestine by fimbriae (F4, 
+F5,  F6,  F41,  and  F18)  and  produce  enterotoxins 
+(STa, STb, and LT) that interact with enterocytes 
+causing  water  and  electrolytes  hyper  secretion 
+and  impairing  nutrient  absorption  (Bertschinger 
+and  Fairbrother,  1999;  Amezcua  et  al.,  2002). 
+The  hemolysins  are  considered  an  important 
+marker  of  ETEC  virulence  from  swine  (Docic 
+and  Bilkei,  2003).  The  piglet  contamination 
+occurs  from  sow  or  environmental  contact  and 
+the disease produces very high mortality rates in 
+the  first  12  hours  of  life.  Host  susceptibility  is 
+associated to several factors such as the presence 
+of  intestinal  E.  coli  fimbriae  receptors,  poor 
+hygiene, stress, and colostrum ingestion quantity 
+(Bertschinger and Fairbrother, 1999).   
+ 
+Antimicrobials  have  been  commonly  used  to 
+control  and  prevent  E.  coli  infections  in  swine 
+herds  (Docic  and  Bilkei,  2003;  Hariharan  et  al., 
+2004;  Kummerer,  2004).  However,  the  abusive 
+administration  of  the  antimicrobial  drugs  causes 
+many problems as residual contamination of pork 
+meat  and  potential  risks  for  consumers  (Dunlop 
+et al., 1999; Beier et al., 2005). Considering that 
+human, bovine, and swine ecosystems are highly 
+interconnected  by  food  production  chain,  the 
+dissemination  of  resistant  bacteria  should  be 
+avoided  (Petersen  et  al.,  2002;  Parveen  et  al., 
+2006; Schierack et al., 2006). 
+ 
+The occurrence of multi-resistant E. coli isolates 
+has  rapidly  increased  in  recent  years  (Schroeder 
+et  al.,  2002).  In  swine,  a  survey  performed  in 
+Sweden  for  the  detection  of  STEC,  showed  the 
+presence  of  strains  with  high  resistance  to 
+tetracyclines, 
+and 
+streptomycin,  drugs  widely  used  as  grow 
+promoters  (Sherley  et  al.,  2004).  Similar  results 
+were  also  reported  in  E.  coli  isolates  from  beef 
+cattle and poultry (Hart et al., 2004). Significant 
+
+sulfamethoxazole, 
+
+in 
+
+antimicrobial 
+
+differences 
+susceptibility 
+patterns  were  found  between  swine  ETEC  and 
+commensal  bacteria,  showing  that  sick  animals 
+are  important  sources  of  resistant  bacteria  to 
+healthy animals (Boerlin et al., 2005).  
+ 
+Plasmids carrying multiple drug resistance genes 
+are  frequently  detected  in  E.  coli  (Schroeder  et 
+al.,  2002;  Schierack  et  al.,  2006).  Plasmids  may 
+carry genes with different functions as: antibiotic 
+resistance,  adhesins,  toxins,  resistance  to  heavy 
+metals,  and  assimilation  of  unusual  nutrients 
+(Schroeder  et  al.,  2002).  Therefore, 
+the 
+antimicrobial  therapy  may  not  be  the  unique 
+selection  pressure  to  raise  resistant  bacteria  and 
+the  use  of  disinfectants  could  be  considered 
+important  to  co-selection  of  pathogenic  resistant 
+bacteria  to  antimicrobial  compounds  (Yates  et 
+al.,  2004; Wallmann,  2006). The  co-selection  of 
+genes  coding  for  resistance  and  enterotoxin 
+production  was  reported  as  well  as  the  multiple 
+antimicrobial  drugs  resistance  among  clinical 
+isolates (Dunlop et al., 1999). In many cases, the 
+resistance to some antibiotic may be extended to 
+the  others  (Blickwede  and  Schwarz,  2004; 
+Harada et al., 2006).  
+ 
+The  drug  resistance  of  E.  coli  isolates  is  a  very 
+important  issue  and  this  problem  can  only  be 
+solved  by  interdisciplinary  efforts  (Stephan  and 
+Schumacher,  2001).  The  correct  use  of 
+antimicrobial 
+is  very 
+important to reduce possible failures (Choi et al., 
+2002).  According  to  Dunlop  et  al.  (1998),  a 
+reduction  in  the  use  of  growth  promoters  can 
+help to minimize the dissemination of resistant E. 
+coli  for  both  the  environment  and  the  man. 
+However,  it  has  been  demonstrated  that  once 
+acquired  by  E.  coli  the  resistance  genes  are  not 
+rapidly  lost  (Enne  et  al.,  2005).  The  aim  of  the 
+present  study  was  to  characterize  the  virulence 
+and  the  drug  resistance  profile  of  swine  E.  coli 
+isolates from Santa Catarina, Brazil. 
+ 
+
+therapy  by  clinicians 
+
+MATERIAL AND METHODS 
+
+ 
+E.  coli  strains  were  isolated  from  clinical  cases 
+of  neonatal  colibacillosis  (intestine  contents  and 
+fragments of liver and lungs), from non-diarrheic 
+piglets and sows feces, and from the environment 
+(feed,  insects,  and  facilities  waste).  Samples 
+were  collected  from  swine  breeding  farms  in 
+Santa  Catarina  state,  Brazil,  in  sterile  bags  and 
+swabs,  and  were  transported  in  Stuart  modified 
+
+Arq. Bras. Med. Vet. Zootec., v.62, n.1, p.30-36, 2010 
+
+31 
+
+Costa et al. 
+
+(10µg), 
+
+(30µg), 
+
+trimethoprim 
+
+isolates.  The 
+ampicillin 
+
+72oC.  After  amplification,  a  7µL  aliquot  was 
+submitted to electrophoresis for 30 min at 100V 
+in  a  1.5%  agarose  gel  stained  with  ethidium 
+bromide. Amplification products were visualized 
+and  photographed  under  UV 
+illumination. 
+Amplification 
+identities  were  confirmed  by 
+sequencing  in  an  automated  DNA  sequencer 
+MEGABACE  1000  using  the  Dynamic  ET  Dye 
+Terminator  Cycle  Sequencing  Kit  (Amersham 
+Pharmacia Biotech). 
+ 
+Plasmidial  extraction  from  E.  coli  isolates  was 
+performed  by  alkaline 
+lysis,  as  previously 
+described  (Birnboim  and  Doly,  1979).  The 
+presence  of  plasmidial  DNA  was  confirmed  by 
+electrophoresis 
+in  0.7%  agarose  gels.  The 
+plasmids  were  visualized  and  photographed 
+under UV illumination. 
+
+medium  at  4oC  to  the  laboratory.  The  samples 
+were  streaked  on  ovine  blood  agar  and  Mac 
+Conkey agar and were kept at 37oC for 48 hours. 
+Putative  E.  coli  colonies  were  identified  by 
+morphology  and  biochemical  tests  according  to 
+Quinn et al. (1994). One E. coli colony was used 
+to DNA extraction and sensitivity test. 
+ 
+The Kirby-Bauer disc diffusion test (Bauer et al., 
+1966;  Performance…,  1999)  was  used 
+to 
+determine the resistance to antimicrobial drugs of 
+follow  drugs  were  
+E.  coli 
+tested: 
+trimethoprim: 
+sulfamethoxazole  (25µg),  tetracycline  (30µg), 
+amikacine  (30µg),  colistin  (25µg),  norfloxacin 
+(10µg),  florfenicol  (30µg),  enrofloxacin  (5µg), 
+cefalexin 
+(25µg), 
+neomycin  (30µg),  chloramphenicol  (30µg),  and 
+gentamicin (30µg). 
+ 
+Total  DNA  was 
+boiling 
+methodology.  Briefly,  one-colony  cultures  were 
+suspended  in  sterile  Milli-Q  water,  boiled  for 
+5min  and  immediately  immersed  on  ice.  After 
+centrifugation at 13.000RPM for 2min, the DNA 
+was recovered from the supernatant. The  E.  coli 
+isolates were characterized by multiplex PCR for 
+fimbrial 
+by 
+amplification  of  the  follows  regions:  STa,  STb, 
+LT, STx F4, F5, F6, F41, and F18, as previously 
+described  (Costa  et  al.,  2006).  The  presence  of 
+attaching-effacing E. coli (AEEC) was evaluated, 
+as described by Nakazato et al. (2004). The PCR 
+reactions  were  performed  in  25µL  reactions 
+containing  100ng  DNA 
+template,  primers 
+(30pmol  each),  Taq  buffer  (10mM  Tris,  50mM 
+KCl,  2.5mM  MgCl2),  200mM  dNTPs,  and  1U 
+Taq  DNA 
+(Cenbiot-Enzymes, 
+UFRGS).  Amplification  was  performed  in  35 
+cycles  of  45s  at  94oC,  1min  at  55oC,  and  45s  at 
+ 
+Table  1.  Distribution  of  virulence  factors  in  neonatal  colibacilosis,  feces  of  healthy  swines,  and 
+environment Escherichia coli isolates 
+
+The results of haemolysis in blood agar and PCR 
+for fimbrial and enterotoxin determination in the 
+E.  coli  isolates  are  summarized  in  Table  1. 
+Haemolysis is normally a marker of virulence in 
+E.  coli  (Bertschinger  and  Fairbrother,  1999).  In 
+this  study,  57  hemolytic  isolates  were  found, 
+being  79.7%  (51/64)  of  diarrheic  piglets,  57.1% 
+(4/7)  from  feces  of  healthy  swines,  and  22.2% 
+(2/9) from environment. The haemolysis showed 
+statistically  relationship  (P<0.05)  with  detection 
+of virulence factors by PCR.  
+
+the  E.  coli 
+
+The  difference  among 
+isolates 
+resistance patterns was evaluated by the Z test of 
+two proportions with normal approximation. The 
+level of significance at 0.05 and the cut off point 
+for  Zp5%  at  1.96  were  set.  The  relationship 
+among 
+frequencies  of  haemolysis  and 
+virulence factors was done by chi-square test. 
+  
+
+RESULTS AND DISCUSSION 
+ 
+
+genotypification 
+
+polymerase 
+
+extracted 
+
+by 
+
+and 
+
+toxin 
+
+ 
+
+the 
+
+Isolate 
+
+Clinical  
+Non-diarrheic feces  
+Environment 
+
+na 
+64 
+7 
+9 
+
+Hb 
+51 
+4 
+2 
+
+STac  STbc  LTc 
+13 
+23 
+0 
+0 
+0 
+0 
+
+27 
+1 
+0 
+
+STxc 
+
+Virulence factor 
+F4c 
+12 
+0 
+0 
+
+2 
+0 
+0 
+
+F5c 
+8 
+0 
+0 
+
+F6c 
+0 
+0 
+0 
+
+F41c  F18c 
+17 
+0 
+0 
+
+7 
+0 
+0 
+
+80 
+
+Total 
+anumber of E. coli isolates; 
+bhaemolytic in blood agar; 
+cPCR results for fimbrial and toxins amplifications. 
+ 
+
+57 
+
+13 
+
+28 
+
+23 
+
+2 
+
+12 
+
+8 
+
+0 
+
+7 
+
+17 
+
+32 
+
+Arq. Bras. Med. Vet. Zootec., v.62, n.1, p.30-36, 2010 
+
+Virulence factors, antimicrobial… 
+
+From the 64 clinical isolates, 43 were classified as 
+ETEC  and  two  as  STEC.  Nineteen  E.  coli  clinical 
+isolates gave negative results in the multiplex PCR 
+for  virulence  markers  and  could  not  be  typified. 
+One  isolate  from  feces  of  healthy  swine  was 
+classified as ETEC. None isolate was confirmed as 
+AEEC in this study.  
+ 
+In the clinical isolates, the most prevalent virulence 
+factors were STb (27), LT (23), F18 (17), F4 (12), 
+and STa (13). F18, 987P, and F4 were described to 
+diarrheic  piglets  in  Brazil  (Macêdo  et  al.,  2007). 
+Thirteen  clinical  isolates  presented  LT  and  STb 
+genes,  six  isolates  only  the  STb  gene,  and  six 
+isolates  the  STa  and  STb  genes.  The  detection  of 
+genes  coding  for  all  enterotoxins  was  observed  in 
+two  isolates.  According  to  Celemin  et  al.  (1995), 
+the  enterotoxin  coding  genes  LT  and  STb,  or  LT, 
+STa,  and  STb  are  expected  to  be  found  in  ETEC. 
+The same findings were found in the study made by 
+Macêdo et al. (2007) in diarrheic piglets, in which 
+where  LT  and  STb  were  the  prevalent  virotype. 
+Only in one isolate from non-diarrheic piglet feces 
+the  STb  gene  was  detected  by  PCR.  Therefore,  E. 
+coli  isolates  from  healthy  swine  and  environment 
+samples  show  a  lower  pathogenic  potential.  The 
+STb alone causes only lost of fluids on the piglets 
+intestinal mucosa, without drastic effects proper of 
+colibacillosis  diarrhea 
+(Casey  et  al.,  1998). 
+However,  the  pathogenicity  of  ETEC  may  be 
+ 
+ 
+Table 2. Percent of resistant Escherichia coli isolates from clinical, non-diarrheic swines, and environment to 
+antimicrobial drugs 
+
+increased  by  associated 
+infections  with  other 
+intestinal  pathogens  (Nakamine  et  al.,  1998).  New 
+vaccines  strategies  are  being  developed,  using 
+fimbrial  and  enterotoxins  purified  from  E.  coli 
+(Bertschinger and Fairbrother, 1999). Therefore, the 
+knowledge  of  the  molecular  patterns  of  E.  coli 
+isolates is very important. 
+ 
+The  determination  of 
+the  pathogenic  bacteria 
+susceptibility  patterns  to  antimicrobial  drugs  is 
+important to guide the therapy, that will reduce the 
+economic loses due to E. coli infections (Choi et al., 
+2002;  Hariharan  et  al.,  2004).  The  resistance 
+patterns  of  E.  coli  isolates  from  Santa  Catarina 
+State are presented in Table 2. The majority of the 
+clinical  E.  coli  isolates  revealed  resistance  to 
+tetracycline  and 
+trimethoprim:sulfamethoxazole 
+(P<0.05)  and  very  few  isolates  were  resistant  to 
+florfenicol.  These  results  are  in  accordance  to 
+others studies that evaluated the resistance patterns 
+of E. coli isolates from slaughtered swine, specially 
+to  susceptibility  to  florfenicol  and  resistance  to 
+tetracycline  and 
+trimethoprim:sulfamethoxazole 
+(Hariharan et al., 2004; Hart et al., 2004; Sherley et 
+al.,  2004;  Beier  et  al., 2005; Macêdo  et  al., 2007). 
+From  eighty  E.  coli  evaluated  isolates,  52  (65%) 
+were  simultaneously  resistant  to  four  or  more 
+antimicrobial groups. This criterion is considered to 
+multi-drug resistant isolates (Rjavek et al., 2006).  
+
+Drug 
+
+Ampicillin 
+Trimethoprim:sulfamethoxazole 
+Tetracycline 
+Amikacine 
+Colistin 
+Norfloxacin 
+Florfenicol 
+Enrofloxacin 
+Cefalexin 
+Trimethoprim 
+Neomycin 
+Chloramphenicol 
+Gentamicin 
+
+Clinical(1) 
+(n = 64) 
+42.19 
+
+   62.50** 
+   68.75** 
+
+37.50 
+28.13 
+35.94 
+
+   12.50** 
+
+29.69 
+43.75 
+42.19 
+32.81 
+
+   20.31** 
+
+39.06 
+
+Isolate* 
+
+Non-diarrheic pigs feces(2) 
+
+Environment(3) 
+
+(n = 7) 
+
+   42.86** 
+
+28.57 
+42.86 
+42.86 
+42.86 
+28.57 
+
+(n = 9) 
+30.00 
+40.00 
+60.00 
+20.00 
+10.00 
+20.00 
+
+   14.92** 
+
+   00.00** 
+
+28.57 
+28.57 
+14.29 
+28.57 
+28.57 
+
+   71.43** 
+
+20.00 
+40.00 
+40.00 
+50.00 
+20.00 
+60.00 
+
+n: number of isolates. 
+*Non-statistically difference between E. coli groups (P>0.05); 
+(1)Statistically difference in clinical isolates group (P<0.05); 
+(2)Statistically difference in non-diarrheic swines feces E. coli isolates (P<0.05);  
+(3)Statistically difference in environmental E. coli isolates (P<0.05); 
+*Statistical difference by the Z test with significance level of 5%. 
+ 
+
+Arq. Bras. Med. Vet. Zootec., v.62, n.1, p.30-36, 2010 
+
+33 
+
+Costa et al. 
+
+to  animal  production 
+
+Boerlim  et  al.  (2005)  found  a  significant 
+difference in antimicrobial susceptibility patterns 
+among  pathogenic  and  commensal  E.  coli 
+isolates.  In  this  study,  the  resistance  was  higher 
+for all E. coli isolates tested and non-significative 
+(P>0.05)  differences  were  detected  and  were 
+related to the source of those samples (diarrheic, 
+non-diarrheic  piglets,  and  environment).  The 
+drugs  tested  in  the  present  study  are  widely 
+employed 
+in  Brazil, 
+including  confined  cattle  (Bastos  et  al.,  2006; 
+Pigatto et al., 2008). The improper veterinary use 
+of these drugs increases the resistance to animal 
+pathogenic bacteria and could generate impact to 
+human  health  by  food  and  feces  residues  from 
+swine herds (Petersen et al., 2002; Parveen et al., 
+2006;  Schierack  et  al.,  2006).  The  potential  risk 
+of  the  dissemination  of  resistant  bacteria  from 
+animal  farming  to  the  environment  and  the  man 
+was  established  by  detection  and  determination 
+of conjugative plasmids in bacteria isolated from 
+water  (Petersen  et  al.,  2002),  meat  producing 
+animals,  and  man  (Schierack  et  al.,  2006). 
+According  to  Wallmann  (2006),  strategies  to 
+avoid  the  spread  of  resistance  to  antimicrobial 
+drugs involve the control of antimicrobial use in 
+the food-producing chain. 
+ 
+Plasmid was observed in 55 (85.9%) clinical and 
+six  (85.7%)  non-diarrheic  feces  and  in  nine 
+(100%)  environmental  E.  coli  isolates  (data  not 
+shown).  The  plasmid  occurrence  was  higher 
+among  clinical  isolates  showing  simultaneous 
+resistance from five to seven antimicrobial drugs. 
+Plasmids  in  E.  coli  carry  multiple  resistance 
+genes. The higher resistance of E. coli is related 
+to  wide  distribution  of  bacteria  and  ability  to 
+maintain  mobile  genetic  elements  (Blickwede 
+and Schwarz, 2004; Yates et al., 2004; Harada et 
+al.,  2006;  Schierack  et  al.,  2006).  The  co-
+selection 
+enterotoxin 
+production  genes  were  reported,  as  well  as  the 
+multiple  antimicrobial  drugs  resistance  among 
+clinical  isolates  (Dunlop  et  al.,  1999).  Many 
+clinical  and  environmental  E.  coli 
+isolates 
+revealed multiple resistances even in the absence 
+of  plasmidial  DNA.  The 
+to 
+antimicrobial  drugs  may  be  associated  to  others 
+different  genetic  mechanisms.  Chromossomal 
+mediated  resistance  genes  are  described  for 
+several 
+as 
+enrofloxacin  beta 
+lactams  and  biocides,  as 
+chlorexidine  (Piddock  et  al.,  1998;  Beier  et  al., 
+2005).  
+
+antimicrobial 
+
+compounds, 
+
+of 
+
+resistance 
+
+and 
+
+resistance 
+
+CONCLUSIONS 
+
+ 
+Multi  resistance  was  detected  among  E.  coli 
+isolates.  The  majority  of  E.  coli  isolates  were 
+molecularly  characterized  as  ETEC,  by  using  a 
+multiplex  PCR  technique.  The  most  frequent 
+virulence factors were STb and LT. 
+ 
+
+ACKNOWLEDGMENTS 
+
+ 
+The  research  was  supported  by  grants  from  the 
+Fundação  de  Amparo  a  Pesquisa  do  Estado  do 
+Rio  Grande  do  Sul  (FAPERGS)  and 
+the 
+Fundação  de  Apoio  a  Tecnologia  e  Ciência  – 
+UFSM (FATEC). Mateus Matiuzzi da Costa was 
+a  recipient  of  a  doctoral  fellowship  from  the 
+Coordenadoria  de  Aperfeiçoamento  de  Pessoal 
+de  Ensino  Superior  (CAPES).  Franciele  Maboni 
+was  a 
+initiation 
+fellowship  from 
+the  Conselho  Nacional  de 
+Desenvolvimento  Científico  e  Tecnológico 
+(CNPq). 
+ 
+
+recipient  of  a  scientific 
+
+REFERENCES 
+
+ 
+AMEZCUA, R.; FRIENDSHIP, R.M.; DEWEY, 
+C.E.  et  al.  Presentation  of  postweaning 
+Escherichia  coli  diarrhea  in  southern  Ontario, 
+prevalence  of  hemolytic  E.  coli  serogroups 
+involved,  and 
+their  antimicrobial  resistance 
+patterns. Can. J. Vet. Res., v.66, p.73-78, 2002. 
+
+BASTOS,  F.C.;  VAZ,  T.M.I.;  IRINO,  K.  et  al. 
+Phenotypic  characteristics,  virulence  profile  and 
+genetic 
+toxin-
+producing Escherichia coli isolated in Brazil and 
+others  Latin  America  Countries.  FEMS 
+Microbiol. Lett., v.265, p.89-97, 2006. 
+
+relatedness  of  O157  Shiga 
+
+BAUER,  A.W.;  KIRBY,  W.M.;  SHERRIS,  J.C. 
+Antibiotic susceptibility testing by a standardized 
+single  disk  method.  Am.  J.  Clin.  Pathol.,  v.45, 
+p.493-496, 1966. 
+
+BEIER,  R.C.;  BISCHOFF,  K.M.;  ZIPRIN,  R.L. 
+et  al.  Chlorhexidine  susceptibility,  virulence 
+factors,  and  antibiotic 
+resistance  of  beta-
+hemolytic  Escherichia  coli 
+from 
+neonatal  swine  with  diarrhea.  Bull.  Environ. 
+Contam. Toxicol., v.75, p.835-844, 2005. 
+
+isolated 
+
+BERTSCHINGER, H.U.; FAIRBROTHER, J.M. 
+Escherichia  coli  infections.  In:  STRAW,  B.E. 
+(Ed.).  Diseases  of  swine.  Ames:  Iowa  State 
+University, 1999. p.431-468. 
+
+34 
+
+Arq. Bras. Med. Vet. Zootec., v.62, n.1, p.30-36, 2010 
+
+Virulence factors, antimicrobial… 
+
+BIRNBOIM,  H.C.;  DOLY,  J.  A  rapid  alkaline 
+extraction  procedure  for  screening  recombinant 
+plasmid  DNA.  Nucleic  Acids  Res.,  v.7,  p.1513-
+1523, 1979. 
+
+BLICKWEDE,  M.;  SCHWARZ,  S.  Molecular 
+analysis  of  florfenicol-resistant  Escherichia  coli 
+isolates  from  pigs.  J.  Antimicrob.  Chemother., 
+v.53, p.58-64, 2004.  
+
+BOERLIN, P.; TRAVIS, R.; GYLES, C.L. et al. 
+Antimicrobial  resistance  and  virulence  genes  of 
+Escherichia  coli  isolates  from  swine  in  Ontario. 
+Appl.  Environ.  Microbiol.,  v.71,  p.6753-6761, 
+2005. 
+
+CASEY,  T.A.;  HERRING,  C.J.;  SCHNEIDER, 
+R.A. et al. Expression of  heat-stable enterotoxin 
+STb  by  adherent  Escherichia  coli 
+is  not 
+sufficient  to  cause  severe  diarrhea  in  neonatal 
+pigs. Infect. Immun., v.66, p.1270-1272, 1998. 
+
+CELEMIN,  C.;  RUBIO,  P.;  ECHEVERRIA,  P. 
+et  al.  Gene  toxin  patterns  of  Escherichia  coli 
+isolated  from  diseased  and  healthy  piglets.  Vet. 
+Microbiol., v.45, p.121-127, 1995. 
+
+CHOI,  C.;  HAM,  H.J.;  KWON,  D.  et  al. 
+Antimicrobial 
+susceptibility  of  pathogenic 
+Escherichia  coli  isolated  from  pigs  in  Korea.  J. 
+Vet. Med. Sci., v.64, p.71-73, 2002. 
+
+COSTA, M.M.; SILVA, M.S.; SPRICIGO, D.A. 
+et al. Caracterização epidemiológica, molecular e 
+perfil  de  resistência  aos  antimicrobianos  de 
+Escherichia  coli isoladas de criatórios suínos do 
+sul do Brasil. Pesq. Vet. Bras., v.26, p.5-8, 2006. 
+
+DOCIC,  M.;  BILKEI,  G.  Differences 
+in 
+antibiotic resistance in  Escherichia  coli, isolated 
+from East-European swine herds with or without 
+prophylactic  use  of  antibiotics.  J.  Vet.  Med.  B. 
+Infect.  Dis.  Vet.  Public  Health,  v.50,  p.27-30, 
+2003. 
+
+DUNLOP,  R.H.;  McEWEN,  S.A.;  MEEK,  A.H. 
+et  al.  Associations  among  antimicrobial  drug 
+treatments  and  antimicrobial  resistance  of  fecal 
+Escherichia coli of swine on 34 farrow-to-finish 
+farms in Ontario, Canada. Prev. Vet. Med., v.34, 
+p.283-305, 1998. 
+
+DUNLOP,  R.H.;  McEWEN,  S.A.;  MEEK,  A.H. 
+et  al.  Sampling  considerations  for  herd-level 
+measurement 
+coli 
+antimicrobial 
+finisher  pigs. 
+Epidemiol. Infect., v.122, p.485-496, 1999. 
+
+faecal  Escherichia 
+
+of 
+resistance 
+
+in 
+
+ENNE, V.I.; DELSOL, A.A.; DAVIS, G.R. et al. 
+Assessment of the fitness impacts on Escherichia 
+coli  of  acquisition  of  antibiotic  resistance  genes 
+encoded by different types of genetic element. J. 
+Antimicrob. Chemother., v.56, p.544-551, 2005. 
+
+HARADA,  K.;  ASAI,  T.;  KOJIMA,  A.  et  al. 
+Role  of  coresistance  in  the  development  of 
+resistance to chloramphenicol in Escherichia coli 
+isolated  from  sick  cattle  and  pigs.  Am.  J.  Vet. 
+Res., v.67, p.230-235, 2006. 
+
+HARIHARAN,  H.;  COLES,  M.;  POOLE,  D.  et 
+al.  Antibiotic  resistance  among  enterotoxigenic 
+Escherichia  coli  from  piglets  and  calves  with 
+diarrhea. Can. Vet. J., v.45, p.605-606, 2004. 
+
+HART,  W.S.;  HEUZENROEDER,  M.W.; 
+BARTON,  M.D.  Antimicrobial  resistance  in 
+Campylobacter 
+spp.,  Escherichia  coli  and 
+enterococci  associated  with  pigs  in  Australia.  J. 
+Vet. Med. B. Infect. Dis. Vet. Public Health, v.51, 
+p.216-221, 2004. 
+
+KUMMERER, K. Resistance in the environment. 
+J.  Antimicrob.  Chemother.,  v.54,  p.311-320, 
+2004. 
+
+MACÊDO,  N.R.;  MENEZES,  C.P.L.;  LAGE, 
+A.P.  et  al.  Detecção  de  cepas  patogênicas  pela 
+PCR  multiplex  e  avaliação  da  sensibilidade  a 
+antimicrobianos  de  Escherichia  coli  isoladas  de 
+leitões  diarreicos.  Arq.  Bras.  Med.  Vet.  Zootec., 
+v.59, p.1117-1123, 2007. 
+
+NAKAMINE,  M.;  KONO,  Y.;  ABE,  S.  et  al. 
+Dual  infection  with  enterotoxigenic  Escherichia 
+coli  and  porcine  reproductive  and  respiratory 
+syndrome  virus  observed  in  weaning  pigs  that 
+died suddenly. J. Vet. Med. Sci., v.60, p.555-561, 
+1998. 
+
+NAKAZATO,  G.;  GYLES,  C.;  ZIEBELL,  K.  et 
+al.  Attaching  and  effacing  Escherichia  coli 
+isolated  from  dogs  in  Brazil:  characteristics  and 
+serotypic relationship to human enteropathogenic 
+E.  coli  (EPEC).  Vet.  Microbiol.,  v.101,  p.269-
+277, 2004. 
+
+PARVEEN,  S.;  LUKASIK,  J.;  SCOTT,  T.M.  et 
+al. Geographical variation in antibiotic resistance 
+profiles of Escherichia coli isolated from swine, 
+poultry,  beef  and  dairy  cattle  farm  water 
+retention  ponds  in  Florida.  J.  Appl.  Microbiol., 
+v.100, p.50-57, 2006. 
+
+Arq. Bras. Med. Vet. Zootec., v.62, n.1, p.30-36, 2010 
+
+35 
+
+Costa et al. 
+
+PERFORMANCE  standards  for  antimicrobial 
+susceptibility 
+informacional 
+supplement. Wayne, PA: Clinical and Laboratory 
+Standards  Institute,  NCCLS,  1999.  (M100-S9, 
+v.19, n.1). 
+
+testing:Ninth 
+
+A.; 
+
+ANDERSEN, 
+
+J.S.; 
+PETERSEN, 
+KAEWMAK,  T.  et  al.  Impact  of  integrated  fish 
+farming  on  antimicrobial  resistance  in  a  pond 
+environment.  Appl.  Environ.  Microbiol.,  v.68, 
+p.6036-6042, 2002. 
+
+PIDDOCK, L.J.; RICCI, V.; McLAREN, I. et al. 
+Role of mutation in the gyrA and parC genes of 
+nalidixic-acid-resistant 
+serotypes 
+isolated from animals in the United Kingdom. J. 
+Antimicrob. Chemother., v.41, p.635-641, 1998. 
+
+salmonella 
+
+PIGATTO,  C.P.;  SCHOCKEN-ITURRINO, 
+R.P.;  SOUZA,  E.M.  et  al.  Virulence  properties 
+and  antimicrobial  susceptibility  of  shiga  toxin-
+producing  Escherichia  coli  strains  isolates  from 
+healthy  cattle  from  Paraná  State,  Brazil.  Can.  J. 
+Microbiol., v.54, p.588-593, 2008. 
+
+QUINN, P.J.; CARTER, M.E.; MARKEY, B. et 
+al.  Clinical  veterinary  microbiology.  London: 
+Wolfe, 1994. 648p. 
+
+RJAVEK,  M.;  ERJAVEK,  M.S.;  AVGUSTIN, 
+J.A.  et  al.  High  prevalence  of  multidrug 
+resistance  and  randon  distribution  of  mobile 
+genetic 
+uropathogenic 
+Escherichia  coli  (UPEC)  of  the  four  major 
+phylogenetic  groups.  Curr.  Microbiol.,  v.53, 
+p.158-162, 2006. 
+
+elements 
+
+among 
+
+SCHIERACK, P.; STEINRUCK, H.; KLETA, S. 
+Virulence factor gene profiles of Escherichia coli 
+isolates  from  clinically  healthy  pigs.  Appl. 
+Environ. Microbiol., v.72, p.6680-6686, 2006. 
+
+SCHROEDER,  C.M.;  ZHAO,  C.W.;  DEBROY, 
+C.  Antimicrobial  resistance  of  Escherichia  coli 
+O157  isolated  from  humans,  cattle,  swine,  and 
+food. Appl. Environ. Microbiol., v.68, p.576-581, 
+2002. 
+
+M.; 
+
+GORDON, 
+
+D.M.; 
+SHERLEY, 
+COLLIGNON, P.J. Evolution of multi-resistance 
+plasmids 
+isolates  of 
+Escherichia  coli.  Microbiology,  v.150,  p.1539-
+1546, 2004. 
+
+in  Australian  clinical 
+
+STEPHAN,  R.;  SCHUMACHER,  S.  Resistance 
+patterns  of  non-O157  Shiga  toxin-producing 
+Escherichia  coli  (STEC)  strains  isolated  from 
+animals,  food  and  asymptomatic  human  carriers 
+in  Switzerland.  Lett.  Appl.  Microbiol.,  v.32, 
+p.113-117, 2001. 
+
+WALLMANN,  J.  Monitoring  of  antimicrobial 
+resistance  in  pathogenic  bacteria  from  livestock 
+animals.  Int.  J.  Med.  Microbiol.,  v.296,  suppl. 
+41, p.81-86, 2006. 
+
+YATES, C.M.; PEARCE, M.C.; WOOLHOUSE, 
+M.E.J.  High  frequency  transfer  and  horizontal 
+spread  of  apramycin  resistance  in  calf  faecal 
+Escherichia  coli.  J.  Antimicrob.  Chemother., 
+v.54, p.534-537, 2004. 
+
+ 
+
+36 
+
+Arq. Bras. Med. Vet. Zootec., v.62, n.1, p.30-36, 2010 
+
+

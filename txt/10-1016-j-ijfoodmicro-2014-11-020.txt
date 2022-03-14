@@ -1,0 +1,1199 @@
+International Journal of Food Microbiology 195 (2015) 1–8
+
+Contents lists available at ScienceDirect
+
+International Journal of Food Microbiology
+
+j o u rn a l h o m e p a g e : w ww . e l s e v i e r . c o m/ l o c a t e / i j f o od m i c r o
+
+Genetic diversity and virulence potential of Staphylococcus aureus
+isolates from raw and processed food commodities in Shanghai
+Minghui Song a, Yalong Bai a, Jie Xu a, Michelle Qiu Carter c, Chunlei Shi a,⁎, Xianming Shi a,b,⁎⁎
+a MOST-USDA Joint Research Center for Food Safety, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, PR China
+b State Key Laboratory of Microbial Metabolism, Shanghai Jiao Tong University, Shanghai 200240, PR China
+c Produce Safety and Microbiology Research Unit, Western Regional Research Center, Agricultural Research Service, USDA, Albany, CA 94710, USA
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 28 May 2014
+Received in revised form 18 November 2014
+Accepted 22 November 2014
+Available online 29 November 2014
+
+Keywords:
+Staphylococcus aureus
+Multi Locus Sequence Typing (MLST)
+agr typing
+Toxin genes
+mecA
+Food commodities
+
+The risk of zoonotic transmission to humans highlights the need to understand the molecular ecology of
+Staphylococcus aureus in foods. In this study, 142 S. aureus isolates obtained from various raw and processed
+foods from Shanghai, China were characterized to determine their genetic diversity and virulence gene content.
+A total of 16 clonal complexes (CCs), 34 staphylococcal protein A (spa) types, and 6 accessory gene regulator (agr)
+allelic groups were identiﬁed and analyzed among the 142 S. aureus isolates. Among these, the genotype CC188-
+t189-agr Ι was the most prevalent, constituting 28.2% of all isolates. The presence of virulence genes encoding 20
+staphylococcal enterotoxins (se), toxic shock syndrome toxin (tsst1), exfoliative toxins (eta, etb, and etd),
+Panton–Valentine leukocidin (lukS-PV and lukF-PV), as well as methicillin resistance gene (mecA), was deter-
+mined by PCR. Of these S. aureus isolates, 72.5% harbored toxin genes, in which the most frequent toxin gene
+was sep (43.7%), followed by sej (26.1%) and pvl (21.1%). In contrast, see, ses, set, tsst1, etb, and etd were not
+found in any of the isolates tested. Eight S. aureus isolates (5.6%, 8/142), seven from raw milk and one from frozen
+food, were mecA positive and resistant to oxacillin, thus were MRSA. The 142 S. aureus isolates displayed 52 dif-
+ferent toxin gene proﬁles. Although no direct association was found between toxin gene proﬁle and the S. aureus
+genotype, the isolates belonging to CC5, CC9, CC20, CC50, and CC72 clonal lineages in general carried more toxin
+genes (N5) compared with the isolates in other CCs. It was also revealed that raw milk and raw meat were the
+major sources of isolates containing multiple toxin genes. S. aureus isolates from food that were genetically highly
+related, displayed diverse toxin gene proﬁles, implying the signiﬁcant role of horizontal gene transfer in the
+emergence of highly toxigenic S. aureus isolates.
+
+© 2014 Elsevier B.V. All rights reserved.
+
+1. Introduction
+
+Staphylococcus aureus is the leading cause of nosocomial infections
+and often associated with food poisoning worldwide (Argudin et al.,
+2010). The recent emergences of hospital-acquired methicillin resistant
+S. aureus (HA-MRSA), community-acquired MRSA (CA-MRSA), as well
+as livestock-associated MRSA (LA-MRSA) pose a serious threat to public
+health. S. aureus is generally considered a host-speciﬁc organism; how-
+ever, recent studies documented that LA-MRSA were able to colonize
+and cause invasive disease in humans (Cui et al., 2009; Graveland
+et al., 2011; Koeck et al., 2013; Neela et al., 2009). This risk of zoonotic
+transmission to humans demands our deep understanding of the ecolo-
+gy of S. aureus in food and food-related environments (Walther et al.,
+2009).
+
+⁎ Correspondence to: C. Shi, MOST-USDA Joint Research Center for Food Safety, School
+of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, PR China.
+Tel./fax: +86 21 3420 5755.
+⁎⁎ Corresponding author. Tel.:/fax: +86 21 3420 6616.
+
+E-mail addresses: clshi@sjtu.edu.cn (C. Shi), xmshi@sjtu.edu.cn (X. Shi).
+
+S. aureus produces a wide variety of protein toxins such as entero-
+toxins (SEs), toxic shock syndrome toxin1 (TSST-1), exfoliative toxins,
+and Panton–Valentine leukocidin (PVL). TSST-1 diminishes the immune
+response of a colonized host and is responsible for toxic shock syndrome
+(Bergdoll et al., 1981). SEs are the major cause of staphylococcal food
+poisoning, which has symptoms including nausea, violent vomiting,
+and abdominal cramping, with or without diarrhea. To date, in addition
+to the ﬁve classical enterotoxin types (SEA-SEE), 16 new types SEs of
+SEls (SEG-SElV) have been described (Argudin et al., 2010; Omoe
+et al., 2013). Many genes encoding enterotoxins are known to be asso-
+ciated with pathogenicity islands where they are grouped either as a
+gene cluster or organized as an operon. In addition, these genes are
+often located on mobile genetic elements (MGEs), including prophages,
+plasmids or transposons (Novick et al., 2010; Omoe et al., 2003; Ono
+et al., 2008). Similarly, the genes encoding PVL, associated with severe
+pneumonia and soft tissue infections, are also located on a prophage
+(Boyle-Vavra and Daum, 2007). Furthermore, the genes (eta, etb, and
+etd) encoding exfoliative toxins, responsible for staphylococcal scalded
+skin syndrome, are also located on MGEs (Novick, 2003). Horizontal
+transfer of MGEs among S. aureus strains not only promotes the
+
+http://dx.doi.org/10.1016/j.ijfoodmicro.2014.11.020
+0168-1605/© 2014 Elsevier B.V. All rights reserved.
+
+2
+
+M. Song et al. / International Journal of Food Microbiology 195 (2015) 1–8
+
+emergence of “super” bugs, but also accelerates the dissemination of
+pathogenic S. aureus strains among animals as well as in humans
+(Uhlemann et al., 2012).
+
+Raw and processed meat, raw milk, and dairy products have been
+reported to be the major food sources associated with S. aureus food poi-
+soning (Kerouanton et al., 2007; Waters et al., 2011). Extensive studies
+have been carried out to characterize the genotypes and virulence prop-
+erties of S. aureus strains isolated from milk and meat (Aydin et al.,
+2011; Casagrande Proietti et al., 2010; Hata et al., 2010; Pereira et al.,
+2009). It has been reported that over a half of S. aureus isolates from
+meat or milk are enterotoxigenic. Furthermore, it was suggested that
+certain S. aureus lineages were speciﬁcally associated with milk, such
+as CC97 (Hata et al., 2010). S. aureus is widespread in natural environ-
+ments including both food and food-processing environments. In this
+study, we evaluated the genetic diversity and the virulence potential
+of S. aureus isolates obtained from raw milk, fresh meat, processed soy-
+bean product, frozen foods, and fresh vegetables/fruits in Shanghai,
+China. We then examined the possible link of virulence gene content
+with S. aureus genotypes and food categories.
+
+2. Material and methods
+
+2.1. Isolation and identiﬁcation of S. aureus
+
+A total of 607 food samples were randomly collected for S. aureus
+isolation during a two year period (July 2010 to October 2012) in
+Shanghai, China. Brieﬂy, 248 raw milk samples were obtained from
+bulk tanks at 12 dairy farms with at least three samples being taken
+from the each bulk tank. Fresh meat, frozen foods, processed soybean
+products, and fresh vegetables and fruits were randomly purchased
+from 14 local grocery stores in three districts (Minhang, Xuhui, and
+Baoshan) in Shanghai. Fresh meat samples included 31 fresh beef
+samples, 68 pork samples, and 29 chicken samples. The 61 frozen food
+samples included various quick-frozen dumplings with meat and vege-
+table ﬁllings which were stored under the freezing conditions for trans-
+portation and sale. Processed soybean product samples included fresh
+tofu (35), tofu skin (16), and dried tofu (17). The 102 fresh vegetable
+and fruit samples were various leafy greens, mushrooms, apples, and
+pears. Isolation and identiﬁcation of S. aureus were performed according
+to China's National Technical Standard GB4789.10-2010. After incuba-
+tion at 37 °C for 24 h on Baird–Parker agar plates with 5% egg yolk
+and tellurite (BPA, Beijing Land Bridge Technology Ltd., Beijing, China),
+up to two presumptive colonies (black colonies surrounded by
+2–5 mm clear zones) were selected from S. aureus-positive food sample
+(Wang et al., 2012). Putative S. aureus isolates were further tested for
+hemolytic and coagulase activities, followed by PCR to identify the
+S. aureus speciﬁc gene nuc1 (Brakstad et al., 1992). All S. aureus isolates
+were routinely grown at 37 °C in tryptic soy broth (Becton Dickinson,
+Sparks, MD).
+
+2.2. Detection of staphylococcal toxin genes
+
+Primers targeting 25 toxin genes, including 20 enterotoxin genes
+(sea, seb, sec, sed, see, seg, seh, sei, sej, sek, sel, sem, sen, seo, sep, seq, ser,
+ses, set and seu), the toxic shock syndrome toxin (tsst1), three exfoliative
+toxin genes (eta, etb, andetd ), and the Panton–Valentine leukocidin
+encoding genes (lukS-PV and lukF-PV) are listed in Table S1 (Supporting
+information). PCR primers were synthesized at Sangon Co., Ltd (Shang-
+hai, China). Genomic DNA of each S. aureus isolate was puriﬁed using a
+modiﬁed cetyltrimethylammonium bromide method as described
+previously (Xie et al., 2011). PCR was performed in a 25 μL volume con-
+taining 50 ng of genomic DNA, 1U of Taq DNA polymerase (Fermentas
+Inc., Glen Burnie, MD, USA), 1.5 mM MgCl2, 0.4 μM of each primer, and
+0.2 mM of each dNTP, using an Eppendorf PCR system (Eppendorf,
+Germany). Strains with known toxin genes were used as positive
+controls: strain ATCC8095 for genes sea, sed, sej, sek, seq, and ser; strain
+
+ATCC14458 for the seb gene; strain ATCC27664 for the see gene; strain
+ATCC27661 for genes seg, sei, sem, sen, and seo; strain A176 for genes
+seh and agr I; strain C299 for genes sep, mecA, and agr II; strain O114
+for genes tsst1, sec, sel, seu, and agr III; strain F104 for genes eta and
+agr IV; and strain O143 for etd gene (Xie et al., 2011).
+
+2.3. Detection of methicillin-resistant S. aureus (MRSA) isolates
+
+All isolates were tested for methicillin resistance by the disk diffu-
+sion method according to the Clinical Laboratories Standards Institutes
+guidelines (CLSI 2012). Oxacillin disks (1 μg) were used for detecting
+methicillin-resistant isolates. S. aureus ATCC 25923 was used as a con-
+trol. The mecA gene, which has been shown to confer methicillin resis-
+tance to S. aureus (MRSA), was also detected by PCR using primers
+described previously (Perez-Roth et al., 2001).
+
+2.4. Multilocus sequence typing (MLST)
+
+MLST was carried out as described previously (Enright et al., 2000).
+Brieﬂy, seven S. aureus housekeeping genes (arcC, aroE, glpF, gmk, pta,
+tpi, and yqiL) were ampliﬁed by PCR and bi-directional DNA sequencing
+was performed for all of the PCR products. DNA sequences were assem-
+bled in SeqMan (Lasergene 8, DNASTAR, Madison, WI, USA). The allelic
+proﬁles (represented by ST) were determined using the sequences of all
+seven housekeeping genes described above using the default parame-
+ters listed on the MLST home page (http://www.mlst.net/). The clonal
+complex (CC) analysis was performed in eBURST v.3 as previously
+described (Feil et al., 2004). CCs were composed of STs that shared at
+least six of the seven housekeeping genes with a predicted ancestral
+ST differing from the largest number of other STs at only one single
+locus.
+
+2.5. spa typing
+
+The spa typing was performed as previously described (Harmsen
+et al., 2003). Brieﬂy, the repeat-containing region of the staphylococcal
+protein A gene (spa) was ampliﬁed by PCR followed by DNA sequencing
+of the PCR products. The spa repeats and types were determined using
+the Ridom Spa Server (http://spaserver.ridom.de/). If a spa repeat did
+not match any spa types in the database, the sequence of the spa was
+identiﬁed as a new spa type.
+
+2.6. agr genotyping
+
+The agr allele types (I–IV) were determined by multiplex PCR as
+described by Gilot et al. (2002). These primers yield a PCR product of
+441 bp, 575 bp, 323 bp, or 659 bp corresponding to agr group I, II, III,
+and IV, respectively. For those isolates that yielded no ampliﬁcation
+products by agr multiplex PCR, a ScaI RFLP analysis was performed as
+described previously (Caﬁso et al., 2007). Brieﬂy, the 2583 bp agr
+locus was ampliﬁed by PCR, followed by digestion with ScaI (Fermentas
+Life Science, China). The resulting DNA fragments were separated using
+gel electrophoresis on 1.0% agarose gels, stained with ethidium bromide
+and visualized under UV light. If the agr primers yielded a PCR product
+of a different size (i.e., not 2583 bp), DNA sequencing was performed to
+determine if the PCR product was a result of non-speciﬁc ampliﬁcation.
+
+2.7. Statistical analysis
+
+Statistical analysis was computed using SPSS v.18.0 (SPSS Inc.,
+Chicago, IL, USA). Pearson's chi-square test (two-tailed) was used to an-
+alyze the difference of the distribution of toxin genes among isolates
+from various food isolates. The difference is considered signiﬁcant if
+the p value is less than 0.05.
+
+M. Song et al. / International Journal of Food Microbiology 195 (2015) 1–8
+
+3
+
+Table 2
+The genotypes of S. aureus isolates determined by three molecular typing methods.a
+
+MLST type
+
+spa type
+
+Clonal
+complex
+
+CC1 (8)
+
+CC5 (9)
+
+CC6 (2)
+CC7 (31)
+
+CC9 (2)
+CC15 (3)
+
+CC20 (5)
+
+CC50 (3)
+CC59 (6)
+
+CC72 (2)
+CC88 (5)
+
+CC97 (9)
+
+CC188 (41)
+CC398 (14)
+
+ST1 (6)
+ST1920 (2)
+ST5 (4)
+ST512 (1)
+ST965 (3)c
+ST2633 (1)
+ST6 (2)
+ST7 (29)
+ST943 (1)
+ST2632 (1)
+ST9 (2)c
+ST15 (2)
+ST582 (1)
+ST20 (2)
+ST1281 (3)
+ST50 (3)
+ST59 (5)c
+ST2138 (1)
+ST72 (2)
+ST88 (5)c
+
+ST97 (7)
+ST464 (2)
+ST188 (41)
+ST398 (14)
+
+CC2634 (1)
+CC2635 (1)
+
+ST2634 (1)
+ST2635 (1)
+
+t286 (3); t127 (3)
+t286 (2)
+t002 (2); t548 (1); t954 (1)
+t548 (1)
+t062 (3)
+t002 (1)
+t701 (2)
+t091 (24); t796 (1); t10798 (3); t3297 (1)
+t091 (1)
+t091 (1)
+t899 (2)
+t084 (2)
+t084(1)
+t164 (2)
+t164 (3)
+t441 (1); t518 (1); t086 (1)
+t437 (3); t441 (1); t10761 (1)
+t10761 (1)
+t148 (2)
+t325 (1); t441 (1); t10777 (1); t10793 (1)
+t1376 (1)
+t267 (5); t359 (1); t1965 (1)
+t3297 (2)
+t189 (40); t126 (1)
+t034 (7); t1451 (1); t571 (3)
+t571(3)
+t011 (1)
+t189 (1)
+
+agr
+groupb
+
+III
+
+II
+
+I
+I
+
+II
+II
+
+I
+
+I
+
+I
+III
+IV
+I
+–
+I
+I
+variation I
+I
+I
+
+3. Results
+
+3.1. Isolation and identiﬁcation of S. aureus
+
+Of the 607 food samples, 117 (19.3%) were positive for S. aureus,
+including 50 (20.2%) of the 248 raw milk samples, 36 (28.1%) of the
+128 fresh meat samples, 13 (21.3%) of the 61 frozen food samples, 6
+(8.8%) of the 68 processed soybean products, and 12 (11.8%) of the
+102 vegetables and fruits (Table 1). In order to obtain more genetic
+diversity of S. aureus, up to two isolates per sample were selected for
+further analysis. But if isolates from a single food sample had the same
+genotype determined by MLST, spa type, agr type, as well as an identical
+toxin gene proﬁle, they were considered a single strain. Based on these
+criteria, a total of 142 S. aureus isolates were obtained from the 117
+S. aureus-positive food samples, including 58 from raw milk, 40 from
+fresh meat, 20 from frozen foods, 16 from fresh vegetables and fruits,
+and 8 from processed soybean products. Of these 142 isolates, eight
+isolates (5.6%, 8/142) harbored the mecA gene and were resistant to
+oxacillin, thus were MRSA. Seven of these were isolated from raw
+milk, the other one from frozen food (Table 1).
+
+3.2. Multilocus sequence typing
+
+The 142 S. aureus isolates were examined by MLST. As shown in
+Table 2, a total of 26 sequence types (STs) were revealed, which were
+further grouped into 16 clonal complexes (CCs) including 2 new single-
+tons (ST2634 and ST2635). Four STs (ST2632-ST2635) were submitted
+as new registrations to the MLST database, because new alleles were
+identiﬁed in the four STs. CC188, represented solely by ST188, was
+the most prevalent genotype (28.9%, 41/142), followed by CC7 (21.8%,
+31/142), and CC398 (9.9%, 14/142). CC5 was the most diverse clonal
+complex, consisting of ST5, ST512, ST965, and ST2633. Furthermore,
+the eight MRSA isolates were found in CC5 (ST965, 3), CC9 (ST9, 2),
+CC59 (ST59, 2), and CC88 (ST88, 1) clonal lineages (Table 2).
+
+The clonal lineages of S. aureus isolates were further analyzed based
+on the food categories. As shown in Fig. 1, CC188 was the only common
+genotype among isolates from all ﬁve different food categories. In con-
+trast, CC72 was only identiﬁed in S. aureus isolates from meat, whereas
+CC9 and CC59 were found in S. aureus isolates from milk. Interestingly,
+CC398 was a prevalent clone in isolates from raw milk and veg/fruits.
+
+3.3. spa typing
+
+The 142 S. aureus isolates were grouped into 34 spa types, including
+4 newly identiﬁed spa types (t10761, t10777, t10793, and t10798)
+(Table 2). The most prevalent spa type was t189 (28.9%, 41/142),
+which mainly corresponded to isolates of ST188. Based on MLST, all
+ﬁve isolates within the CC88 had an identical sequence type (ST88).
+However, each of them carried a unique spa type (Table 2, CC88). This
+apparent superior discriminating power of spa typing had some excep-
+tions. Some isolates had the identical spa type, but had differing STs
+(t441-ST50, t441-ST59, and t441-ST88) (Table 2).
+
+a The number in parentheses represents the number of isolates in the corresponding
+
+genotype.
+
+b – represents no agr locus was detected.
+c The STs represents the clonal lineages of MRSA detected in this study.
+
+3.4. agr genotyping
+
+The distribution of agr alleles among the 142 food isolates is provid-
+ed in Table 3. By multiplex PCR, the agr alleles were successfully identi-
+ﬁed in 130 isolates. The agr I was predominant, representing 78.5%
+(102/130) of the isolates and was the prevailing agr type regardless of
+the food source of S. aureus isolates. Twelve isolates repeatedly yielded
+negative results by multiplex PCR, thus their agr types were determined
+by the ScaI-RFLP method (Table 3). Based on ScaI patterns, ﬁve, one, and
+one isolate were grouped to agr I, agr II, and agr IV, respectively, where-
+as three isolates carried an agr variant. Furthermore, three isolates be-
+longing to CC398-t571 yielded a larger PCR product (about 4 kb).
+Further sequence analyses revealed that the larger PCR amplicons
+were due to the insertion of a gene encoding a transposase between
+agrD and agrC. Based on the agr sequence, these three isolates were
+grouped as a variation of agr I. Two isolates belonging to CC97-t3297
+were negative in both multiplex PCR and ScaI-RFLP analysis (Table 3).
+
+3.5. Toxin gene proﬁles of S. aureus isolates
+
+As shown in Table 4, there were 103 (72.5%) and 71 (50.0%) isolates
+carrying one toxin gene and more than one toxin genes, respectively.
+
+Table 1
+Prevalence of S. aureus in raw and processed food commodities in Shanghai.
+
+Source
+
+No. of samples
+
+No. (%) of samples positive
+for S. aureus
+
+No. of S. aureus
+isolated a
+
+No. (%) of MRSA
+isolates
+
+Raw milk
+Fresh meat
+Frozen foods
+Processed soybean products
+Vegetables and fruits
+Total
+
+248
+128
+61
+68
+102
+607
+
+a One to two S. aureus strains were isolated from each positive sample.
+
+50 (20.2)
+36 (28.1)
+13 (21.3)
+6 (8.8)
+12 (11.8)
+117 (19.3)
+
+58
+40
+20
+8
+16
+142
+
+7 (12.1)
+0
+1 (5)
+0
+0
+8 (5.6)
+
+4
+
+M. Song et al. / International Journal of Food Microbiology 195 (2015) 1–8
+
+Fig. 1. Genetic diversity of S. aureus isolates from different food categories based on MLST. Percent prevalence of each clonal complex (CC) is expressed as the number of isolates within the
+same CC over the total number of S. aureus strains isolated from the same food category. Each color represents a unique CC. The new CCs detected in fresh meat isolates and raw milk
+isolates are CC2635 and CC2634, respectively. (For interpretation of the references to color in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+Table 3
+The agr types of 142 S. aureus isolates from different food categories.
+
+agr group
+
+Number of S. aureus isolates from various food commoditiesa
+
+Number of S. aureus (total)b
+
+I
+II
+III
+IV
+agr variation
+agr (negative)
+Total
+
+Fresh meat
+
+27 (67.5%)
+2 (5%)
+7 (17.5%)
+2 (5%)
+–
+2 (5%)
+40
+
+Raw milk
+
+47 (81.0%)
+7 (12.1%)
+2 (3.45%)
+2 (3.45%)
+–
+–
+58
+
+Soybean products
+
+4 (50%)
+4 (50%)
+–
+–
+–
+–
+8
+
+Veg/fruits
+
+12 (75%)
+1 (6.25%)
+–
+–
+3 (18.75%)
+–
+16
+
+a,bThe number in parentheses represents the percentage of isolates in the corresponding genotype.
+
+Frozen foods
+
+PCR-based typing
+
+ScaI RFLP
+
+17 (85%)
+–
+3 (15%)
+–
+–
+–
+20
+
+102 (78.5%)
+13 (10.0%)
+12 (9.23%)
+3 (2.31%)
+–
+–
+130
+
+5
+1
+–
+1
+3
+2
+12
+
+It was determined in this study that the 142 S. aureus isolates displayed
+52 different toxin gene proﬁles, with one to 12 toxin genes per isolate
+in different combinations (Table S2, Supporting information). The
+most prevalent toxin gene proﬁle was the single enterotoxin gene, sep
+(20.4%, 21/103), which was found among CC7, CC188, CC398, CC97,
+
+and CC88. Different toxin gene proﬁles were identiﬁed among the
+S. aureus lineages (Table S2), suggesting horizontal transfer of toxin
+genes among S. aureus isolates. For example, four CC59 isolates
+harbored between ﬁve and eight toxin genes each, whereas the other
+two CC59 isolates were negative for any of the 25 toxin genes tested
+
+Table 4
+The toxin gene number of S. aureus isolates from different food categories.
+
+Number of the toxin
+gene per strain (n)
+
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+Number of S. aureus isolatesa
+
+Fresh meat
+(40)
+
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+1 (2.5%)
+1 (2.5%)
+5 (12.5%)
+0 (0)
+2 (5.0%)
+3 (7.5%)
+9 (22.5%)
+11 (27.5%)
+8 (20.0%)
+
+Raw milk
+(58)
+
+1 (1.7%)
+0 (0)
+1 (1.7%)
+1 (1.7%)
+3 (5.2%)
+4 (6.9%)
+3 (5.2%)
+4 (6.9%)
+7 (12.1%)
+11 (19.0%)
+9 (15.5%)
+8 (13.8%)
+6 (10.3%)
+
+Soybean products
+(8)
+
+Veg/fruits (16)
+
+1 (12.5%)
+0 (0)
+1 (12.5%)
+1 (12.5%)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+1 (12.5%)
+0 (0)
+4 (50.0%)
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5 (31.3%)
+11 (68.7%)
+
+Frozen foods
+(20)
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2 (10.0%)
+8 (40.0%)
+10 (50.0%)
+
+Total number of
+isolates (142)b
+
+2 (1.4%)
+0
+2 (1.4%)
+2 (1.4%)
+4 (2.8%)
+5 (3.5%)
+8 (5.6%)
+4 (2.8%)
+9 (6.3%)
+14 (9.9%)
+21 (14.8%)
+32 (22.5%)
+39 (27.5%)
+
+a The number in parentheses represents the percentage of isolates with the corresponding number of toxin genes for all S. aureus isolates of the same food category.
+b The number in parentheses represents the percentage of isolates with the corresponding number of toxin genes for all S. aureus isolates.
+
+M. Song et al. / International Journal of Food Microbiology 195 (2015) 1–8
+
+5
+
+in this study. Some enterotoxin genes are known to be grouped either as
+a gene cluster or organized as an operon. In this study, the most preva-
+lent toxin gene cluster was egc (20/142), which could be found among
+CC5, CC9, CC20, CC50, and CC72. The combination of seb-sek-seq was
+found in four CC59 isolates. The gene cluster sec-sel was found in isolates
+that belonged to CC1, CC5, CC7, CC59, CC188, and CC398. The gene clus-
+ter sed-sej-ser was found in isolates that belonged to CC5 and CC97.
+Taken all together, these data suggested that there was no direct associ-
+ation between toxin gene proﬁle and the genotype in these S. aureus
+isolates.
+
+The average toxin gene number in each clonal complex was also
+examined, and a higher average number of toxin genes (N5) was
+found in the isolates of CC5, CC9, CC20, CC50, and CC72 clonal lineages
+compared to those belonging to other CCs (Fig. 2). Consistently, isolates
+belonging to agr II (n = 14) or agr IV (n = 4) were associated with a
+high average number of toxin genes (averaging 6.8 for agr II, and 5.8
+for agr IV), whereas isolates belonging to agr I (n = 110) or agr III
+(n = 12) were associated with a lower average number of toxin genes
+(averaging 1.9 for agr I, and 1.8 for agr III) (Fig. 2).
+
+3.6. Distribution of toxin genes
+
+The presence of 25 toxin genes in the 142 S. aureus isolates is shown
+in Fig. 3. The most frequent toxin gene was sep (43.7%). Notably, the
+abundance of classic SE genes, sea (5.6%), seb (3.5%), sec (9.9%), and
+sed (2.8%), often associated with staphylococcal food poisoning, was
+relatively lower than many recently described SEs or SEls. Among the
+142 isolates, see, ses, set, tsst1, etb, and etd were not found in any isolate,
+whereas eta was only detected in one isolate (Fig. 3). PVL-encoding
+genes were found in 30 (21.1%) of the S. aureus isolates, among which,
+three isolates were MRSA. Furthermore, 14 of the 16 identiﬁed CCs
+were found among PVL-positive isolates; only CC6 and CC9 were
+excluded (Table S2). Moreover, it was found that three MSSA-CC398
+isolates were PVL-positive.
+
+The distribution of toxin genes among S. aureus isolates was further
+analyzed based on the food categories. The results showed that the
+incidence of sec, sed, seg, sei, sej, sel, sem, sen, seo, ser, and seu, was
+signiﬁcantly different among the isolates from different food categories
+(p b 0.05) (Fig. 3). It was found that the four classic enterotoxin genes
+
+(sea, seb, sec, and sed) were found in isolates obtained from fresh
+meat, raw milk, and processed soybean products. Two S. aureus isolates,
+one from raw milk and the other from processed soybean products, car-
+ried 12 toxin genes each (Table 4). The percentage of toxigenic S. aureus
+isolates was higher for those isolates from meat (80%) or raw milk
+(89.7%) than any other isolates recovered from processed soybean
+products (50%), fresh vegetables/fruits (31.3%), or frozen foods (50%)
+(Table 4).
+
+4. Discussion
+
+The genotypes of 142 S. aureus isolates obtained from raw and proc-
+essed food commodities in Shanghai were characterized by three mo-
+lecular typing methods. It appeared that spa typing had a higher
+resolution than MLST since, for the majority of STs, more than one spa
+type was detected in this study, which is consistent with a previous
+study by Hata et al. (2010). Variation in the agr locus due to an insertion
+mutation was reported previously (Caﬁso et al., 2007). In our study, we
+identiﬁed three isolates belonging to CC398 carrying an insertion muta-
+tion in their agr loci. Furthermore, we found the deletion of agr in two
+S. aureus isolates belonging to CC97 (negative for both PCR and RFLP
+methods), suggesting a potential limitation in utilizing this locus
+for molecular typing of S. aureus isolates. It is well known that the agr
+system controls the production of virulence factors. Montanaro et al.
+(2010) found that different agr groups exhibited distinct patterns of vir-
+ulence genes. Our study showed that isolates belonging to agr II and agr
+IV had a higher incidence of toxin genes than those belonging to agr I
+and agr III, suggesting that agr proﬁles may be associated with the viru-
+lence potential of S. aureus (Cheung et al., 2011; Sugiyama et al., 2009).
+Genotyping analysis of these 142 isolates revealed that clinical
+S. aureus clones as well as livestock-associated lineages are widespread
+in raw or processed food purchased in Shanghai. Among the 16 CCs
+identiﬁed in our study, three clonal complexes, CC5, CC7, and CC188,
+accounted for 57.0% of the total isolates examined. Interestingly, these
+three clonal complexes were prevailing in clinical isolates associated
+with bacteremia in China (He et al., 2013), suggesting food as a potential
+environmental source of S. aureus isolates that have an important clini-
+cal relevance. It was reported that CC97 is the dominant lineage from
+bovine milk in Japan (Hata et al., 2010). In our study, the isolates
+
+(n)
+agr IV (4)
+agr III (12)
+agr II (14)
+agr I (110)
+--
+CC398 (14)
+CC188 (41)
+CC97 (9)
+CC88 (5)
+CC72 (2)
+CC59 (6)
+CC50 (3)
+CC20 (5)
+CC15 (3)
+CC9 (2)
+CC7 (31)
+CC6 (2)
+CC5 (9)
+CC1 (8)
+
+s
+e
+p
+y
+t
+o
+n
+e
+G
+
+0
+
+2
+
+4
+
+6
+
+8
+
+Average number of toxin genes
+
+Fig. 2. The toxin gene content of S. aureus isolates based on MLST and agr genotyping. The average number of toxin genes was calculated based on the total number of toxin genes detected
+in each clonal complex (CC) or agr group divided by the total number of isolates in each CC or agr group. The number in parentheses on the Y-axis represents the total number of isolates in
+the corresponding CC or agr group. CC2634 and CC2635 were not included since there was only one isolate in each CC.
+
+6
+
+M. Song et al. / International Journal of Food Microbiology 195 (2015) 1–8
+
+Fig. 3. The distribution of 25 toxin genes in S. aureus isolates from food. The percentage of strains that were positive for each toxin gene was calculated based on the origin of each food
+isolate. Pearson's chi-square test (two-tailed) was used to test the difference in the virulence determinants distribution among isolates from different food sources and run based on mul-
+tiple group comparison of different food sources. * demonstrates that the distribution of toxin genes was statistically signiﬁcantly different in isolates from different food sources (p b 0.05);
+** demonstrates that the distribution of toxin genes was extremely signiﬁcantly different in isolates from different food sources (p b 0.001).
+
+belonging to CC97 were found not only in raw milk but also in fresh
+beef, which further implies that CC97 is associated with cattle. The
+eight MRSA isolates identiﬁed in our study belonged to four clonal com-
+plexes (CC5, CC9, CC59, and CC88) (Table 2). MRSA CC5 and MRSA CC88
+are the prevalent clones among the HA-MRSA (Otto, 2012); and MRSA
+CC59 is the prevalent clone among the CA-MRSA in Asia (Li et al.,
+2013). The presence of these clonal lineages in food samples suggests
+that humans contribute largely to the food contamination with MRSA,
+which are likely to be introduced into the different food categories dur-
+ing processing/preparation by food workers. MRSA CC9 is the prevalent
+clone of LA-MRSA in Asian countries (Cui et al., 2009). To date the most
+prevalent clone of LA-MRSA in Europe and Northern America is CC398,
+which is rarely reported in Asia (Graveland et al., 2011). Price et al. re-
+ported that LA-MRSA CC398 appears to have originated from human
+MSSA-CC398, which acquired methicillin resistance in livestock (Price
+et al., 2012). Further analysis showed that LA-MRSA CC398 possessed
+many different staphylococcal cassette chromosome mec element
+(SCCmec) types, which suggests promiscuous dissemination of SCCmec
+cassette among strains of CC398 (Price et al., 2012; van Belkum et al.,
+2008). Our study revealed that MSSA-CC398 was a common clone in
+raw milk and meats from Shanghai. Therefore, antimicrobial selection
+associated with food animal production raises the potential for MSSA-
+CC398 in food to acquire the SCCmec cassette.
+
+Clones of ST1, ST5, ST6, ST9, ST30, ST188, and ST943 are known to be
+associated with staphylococcal food poisoning in East Asia (Cha et al.,
+2006; Yan et al., 2012). Isolates with each of these genotypes were
+found in all ﬁve food categories investigated. However, only the isolates
+obtained from raw milk, fresh meat, and processed soybean products
+were positive for the classic SE genes that contribute signiﬁcantly
+to staphylococcal food poisoning. Therefore, the initial amount of
+S. aureus together with the storage condition of milk, fresh meat, and
+processed soybean products, should be under strict control to avoid
+the production of SEs. The presence of toxigenic S. aureus strains in
+these foods identiﬁes the potential sources of staphylococcal food poi-
+soning, which is valuable information for the food industry and public
+
+health agencies in Shanghai, China. Genes encoding new types of SEs
+or SEls were more frequently identiﬁed than the classical SE genes in
+this study, implying emergence of these “new” toxigenic strains in
+Shanghai, as has been reported for other parts of the world (Aydin
+et al., 2011; Bania et al., 2006). It was reported recently by Omoe et al.
+(2013) that some of the new SEs, such as SElK, SElL, SElM, SElN, SElO,
+SElP, and SElQ, could induce emetic reactions in monkeys, suggesting
+a role of these new SEs in staphylococcal food poisoning.
+
+ETA, ETB, and ETD are main human active exfoliative toxins. In our
+study, only one isolate from chicken was positive for the eta gene, sug-
+gesting a low frequency of eta in S. aureus food isolates examined in this
+study. A low incidence of exfoliative toxin-encoding genes was reported
+previously for milk samples and ready-to-eat food (Aydin et al., 2011;
+Karahan et al., 2009). Furthermore, none of the 142 isolates examined
+in our study was positive for the tsst1 gene, which has been found in
+clinical S. aureus isolates associated with important clinical symptoms
+(Xie et al., 2011). Notably, a high prevalence of PVL-encoding genes
+was found in genetically diverse MSSA isolates from Shanghai in this
+study. Previous studies have reported that PVL-positive MSSA strains
+showed diverse genetic backgrounds, indicating that the bacteriophage
+carrying the PVL genes can be spread easily (Chini et al., 2006). The ma-
+jority of PVL-positive CC398 isolates described so far have been obtained
+from humans (van Belkum et al., 2008; Yu et al., 2008), but few have
+been found in livestock. In this study, three MSSA-CC398 isolates, from
+milk and meat, were PVL-positive. Phylogenetic analysis has shown
+that LA-MRSA CC398 appears to originate from human MSSA-CC398
+(Price et al., 2012). Therefore, LA-MRSA CC398 may acquire the PVL
+genes through horizontal gene transfer via bacteriophage. Considering
+that CC398 is by far the most prevalent LA-MRSA worldwide, the ﬁnding
+of PVL-encoding genes in CC398 food isolates poses a potential risks to
+public health.
+
+Although no direct association between S. aureus genotype and toxin
+gene proﬁle was found in 142 isolates examined in our study, certain
+genotypes such as CC5, CC9, CC20, CC50 and CC72 were found to carry
+more toxin genes (N5) than other CCs. The association of CC5, CC20,
+
+M. Song et al. / International Journal of Food Microbiology 195 (2015) 1–8
+
+7
+
+and CC72 with a high content of toxin genes was reported previously
+(Varshney et al., 2009). In our study, CC5 was identiﬁed in isolates ob-
+tained from fresh meat, raw milk, or processed soybean products;
+S. aureus strains of CC20 and CC50 were obtained from fresh meat or
+raw milk; CC9 S. aureus strains were isolated from milk, whereas strains
+of CC72 were isolated from meat. The association of toxin gene rich-
+genotypes with speciﬁc food matrices may explain the higher incidence
+of toxin genes in milk or meat isolates compared to those from frozen
+food or fresh vegetables and fruits observed in our study.
+
+In summary, our study demonstrated genetic diversity and virulence
+potential of S. aureus isolates obtained from different food categories at
+retail in Shanghai. A large variation in genetic diversity as well as toxin
+gene content was observed for S. aureus isolates from raw and processed
+food commodities. It was revealed that both, raw milk and fresh meat
+were the major sources of isolates containing multiple toxin genes.
+However, as the majority of isolates were obtained from raw milk and
+fresh meat, there is a possible bias on the genetic diversity of isolates
+obtained from different food categories, which still needs to be further
+investigated. Furthermore, S. aureus isolates from food that are geneti-
+cally highly related, displayed diverse toxin gene proﬁles, implying a
+role of horizontal gene transfer in the emergence of toxigenic S. aureus
+isolates (Alibayov et al., 2014; Malachowa and DeLeo, 2010).
+
+Acknowledgments
+
+This study was supported by the Ministry of Science and Technology
+of China (2012AA101601, 2012BAK17B10 and 2012BAD29B02) and the
+Ministry of Education of China (20120073110052). We also thank
+Dr. George Paoli from the Eastern Regional Research Center of USDA
+for critical reading of this manuscript.
+
+Appendix A. Supplementary data
+
+Supplementary data to this article can be found online at http://dx.
+
+doi.org/10.1016/j.ijfoodmicro.2014.11.020.
+
+References
+
+Cui, S., Li, J., Hu, C., Jin, S., Li, F., Guo, Y., Ran, L., Ma, Y., 2009. Isolation and characterization
+of methicillin-resistant Staphylococcus aureus from swine and workers in China. J.
+Antimicrob. Chemother. 64, 680–683.
+
+Enright, M.C., Day, N.P., Davies, C.E., Peacock, S.J., Spratt, B.G., 2000. Multilocus sequence
+typing for characterization of methicillin-resistant and methicillin-susceptible clones
+of Staphylococcus aureus. J. Clin. Microbiol. 38, 1008–1015.
+
+Feil, E.J., Li, B.C., Aanensen, D.M., Hanage, W.P., Spratt, B.G., 2004. eBURST: inferring pat-
+terns of evolutionary descent among clusters of related bacterial genotypes from
+multilocus sequence typing data. J. Bacteriol. 186, 1518–1530.
+
+Gilot, P., Lina, G., Cochard, T., Poutrel, B., 2002. Analysis of the genetic variability of
+genes encoding the RNA III-activating components Agr and TRAP in a population of
+Staphylococcus aureus strains isolated from cows with mastitis. J. Clin. Microbiol. 40,
+4060–4067.
+
+Graveland, H., Duim, B., van Duijkeren, E., Heederik, D., Wagenaar, J.A., 2011. Livestock-
+associated methicillin-resistant Staphylococcus aureus in animals and humans. Int.
+J. Med. Microbiol. 301, 630–634.
+
+Harmsen, D., Claus, H., Witte, W., Rothganger, J., Turnwald, D., Vogel, U., 2003. Typing of
+methicillin-resistant Staphylococcus aureus in a university hospital setting by using
+novel software for spa repeat determination and database management. J. Clin.
+Microbiol. 41, 5442–5448.
+
+Hata, E., Katsuda, K., Kobayashi, H., Uchida, I., Tanaka, K., Eguchi, M., 2010. Genetic
+variation among Staphylococcus aureus strains from bovine milk and their relevance
+to methicillin-resistant isolates from humans. J. Clin. Microbiol. 48, 2130–2139.
+
+He, W., Chen, H., Zhao, C., Zhang, F., Li, H., Wang, Q., Wang, X., Wang, H., 2013. Population
+structure and characterisation of Staphylococcus aureus from bacteraemia at multiple
+hospitals in China: association between antimicrobial resistance, toxin genes and
+genotypes. Int. J. Antimicrob. Agents 42, 211–219.
+
+Karahan, M., Acik, M.N., Cetinkaya, B., 2009. Investigation of toxin genes by polymerase
+chain reaction in Staphylococcus aureus strains isolated from bovine mastitis in
+Turkey. Foodborne Pathog. Dis. 6, 1029–1035.
+
+Kerouanton, A., Hennekinne, J.A., Letertre, C., Petit, L., Chesneau, O., Brisabois, A., De
+Buyser, M.L., 2007. Characterization of Staphylococcus aureus strains associated with
+food poisoning outbreaks in France. Int. J. Food Microbiol. 115, 369–375.
+
+Koeck, R., Schaumburg, F., Mellmann, A., Koksal, M., Jurke, A., Becker, K., Friedrich, A.W.,
+2013. Livestock-associated methicillin-resistant Staphylococcus aureus (MRSA) as
+causes of human infection and colonization in Germany. PLoS One 8, e55040.
+
+Li, J., Wang, L., Ip, M., Sun, M., Sun, J., Huang, G., Wang, C., Deng, L., Zheng, Y., Fu, Z., Li, C.,
+Shang, Y., Zhao, C., Yu, S., Yao, K., Yang, Y., Shen, X., 2013. Molecular and clinical char-
+acteristics of clonal complex 59 methicillin-resistant Staphylococcus aureus infections
+in Mainland China. PLoS One 8, e70602.
+
+Malachowa, N., DeLeo, F.R., 2010. Mobile genetic elements of Staphylococcus aureus. Cell.
+
+Mol. Life Sci. 67, 3057–3071.
+
+Montanaro, L., Speziale, P., Campoccia, D., Pirini, V., Ravaioli, S., Cangini, I., Visai, L., Arciola,
+C.R., 2010. Polymorphisms of agr locus correspond to distinct genetic patterns of
+virulence in Staphylococcus aureus clinical isolates from orthopedic implant infec-
+tions. J. Biomed. Mater. Res. A 94, 825–832.
+
+Neela, V., Mohd Zafrul, A., Mariana, N.S., van Belkum, A., Liew, Y.K., Rad, E.G., 2009.
+Prevalence of ST9 methicillin-resistant Staphylococcus aureus among pigs and pig
+handlers in Malaysia. J. Clin. Microbiol. 47, 4138–4140.
+
+Novick, R.P., 2003. Mobile genetic elements and bacterial toxinoses: the superantigen-
+
+encoding pathogenicity islands of Staphylococcus aureus. Plasmid 49, 93–105.
+
+Novick, R.P., Christie, G.E., Penades, J.R., 2010. The phage-related chromosomal islands of
+
+Alibayov, B., Baba-Moussa, L., Sina, H., Zdenkova, K., Demnerova, K., 2014. Staphylococcus
+
+Gram-positive bacteria. Nat. Rev. Microbiol. 8, 541–551.
+
+aureus mobile genetic elements. Mol. Biol. Rep. 41, 5005–5018.
+
+Argudin, M.A., Mendoza, M.C., Rodicio, M.R., 2010. Food poisoning and Staphylococcus
+
+aureus enterotoxins. Toxins (Basel) 2, 1751–1773.
+
+Aydin, A., Sudagidan, M., Muratoglu, K., 2011. Prevalence of staphylococcal enterotoxins,
+toxin genes and genetic-relatedness of foodborne Staphylococcus aureus strains iso-
+lated in the Marmara Region of Turkey. Int. J. Food Microbiol. 148, 99–106.
+
+Bania, J., Dabrowska, A., Bystron, J., Korzekwa, K., Chrzanowska, J., Molenda, J., 2006.
+Distribution of newly described enterotoxin-like genes in Staphylococcus aureus
+from food. Int. J. Food Microbiol. 108, 36–41.
+
+Bergdoll, M.S., Crass, B.A., Reiser, R.F., Robbins, R.N., Davis, J.P., 1981. A new staphylococcal
+enterotoxin, enterotoxin F, associated with toxic-shock-syndrome Staphylococcus
+aureus isolates. Lancet 1, 1017–1021.
+
+Boyle-Vavra, S., Daum, R.S., 2007. Community-acquired methicillin-resistant Staphylococcus
+
+aureus: the role of Panton–Valentine leukocidin. Lab. Investig. 87, 3–9.
+
+Brakstad, O.G., Aasbakk, K., Maeland, J.A., 1992. Detection of Staphylococcus aureus by poly-
+merase chain reaction ampliﬁcation of the nuc gene. J. Clin. Microbiol. 30, 1654–1660.
+Caﬁso, V., Bertuccio, T., Santagati, M., Demelio, V., Spina, D., Nicoletti, G., Stefani, S., 2007.
+agr-genotyping and transcriptional analysis of bioﬁlm-producing Staphylococcus
+aureus. FEMS Immunol. Med. Microbiol. 51, 220–227.
+
+Casagrande Proietti, P., Coppola, G., Bietta, A., Luisa Marenzoni, M., Hyatt, D.R., Coletti, M.,
+Passamonti, F., 2010. Characterization of genes encoding virulence determinants and
+toxins in Staphylococcus aureus from bovine milk in Central Italy. J. Vet. Med. Sci. 72,
+1443–1448.
+
+Cha, J.O., Lee, J.K., Jung, Y.H., Yoo, J.I., Park, Y.K., Kim, B.S., Lee, Y.S., 2006. Molecular analysis
+of Staphylococcus aureus isolates associated with staphylococcal food poisoning in
+South Korea. J. Appl. Microbiol. 101, 864–871.
+
+Cheung, G.Y., Wang, R., Khan, B.A., Sturdevant, D.E., Otto, M., 2011. Role of the accessory
+gene regulator agr in community-associated methicillin-resistant Staphylococcus
+aureus pathogenesis. Infect. Immun. 79, 1927–1935.
+
+Chini, V., Petinaki, E., Foka, A., Paratiras, S., Dimitracopoulos, G., Spiliopoulou, I., 2006.
+Spread of Staphylococcus aureus clinical isolates carrying Panton–Valentine
+leukocidin genes during a 3-year period in Greece. Clin. Microbiol. Infect. 12,
+29–34.
+
+Omoe, K., Hu, D.L., Takahashi-Omoe, H., Nakane, A., Shinagawa, K., 2003. Identiﬁcation
+and characterization of a new staphylococcal enterotoxin-related putative toxin
+encoded by two kinds of plasmids. Infect. Immun. 71, 6088–6094.
+
+Omoe, K., Hu, D.L., Ono, H.K., Shimizu, S., Takahashi-Omoe, H., Nakane, A., Uchiyama, T.,
+Shinagawa, K., Imanishi, K., 2013. Emetic potentials of newly identiﬁed staphylococ-
+cal enterotoxin-like toxins. Infect. Immun. 81, 3627–3631.
+
+Ono, H.K., Omoe, K., Imanishi, K., Iwakabe, Y., Hu, D.L., Kato, H., Saito, N., Nakane, A.,
+Uchiyama, T., Shinagawa, K., 2008. Identiﬁcation and characterization of two novel
+staphylococcal enterotoxins, types S and T. Infect. Immun. 76, 4999–5005.
+
+Otto, M., 2012. MRSA virulence and spread. Cell. Microbiol. 14, 1513–1521.
+Pereira, V., Lopes, C., Castro, A., Silva, J., Gibbs, P., Teixeira, P., 2009. Characterization for en-
+terotoxin production, virulence factors, and antibiotic susceptibility of Staphylococcus
+aureus isolates from various foods in Portugal. Food Microbiol. 26, 278–282.
+
+Perez-Roth, E., Claverie-Martin, F., Villar, J., Mendez-Alvarez, S., 2001. Multiplex PCR for
+simultaneous identiﬁcation of Staphylococcus aureus and detection of methicillin
+and mupirocin resistance. J. Clin. Microbiol. 39, 4037–4041.
+
+Price, L.B., Stegger, M., Hasman, H., Aziz, M., Larsen, J., Andersen, P.S., Pearson, T., Waters,
+A.E., Foster, J.T., Schupp, J., Gillece, J., Driebe, E., Liu, C.M., Springer, B., Zdovc, I., Battisti,
+A., Franco, A., Zmudzki, J., Schwarz, S., Butaye, P., Jouy, E., Pomba, C., Porrero, M.C.,
+Ruimy, R., Smith, T.C., Robinson, D.A., Weese, J.S., Arriola, C.S., Yu, F., Laurent, F.,
+Keim, P., Skov, R., Aarestrup, F.M., 2012. Staphylococcus aureus CC398: host adaptation
+and emergence of methicillin resistance in livestock. MBio 3.
+
+Sugiyama, Y., Okii, K., Murakami, Y., Yokoyama, T., Takesue, Y., Ohge, H., Sueda, T., Hiyama,
+E., 2009. Changes in the agr locus affect enteritis caused by methicillin-resistant
+Staphylococcus aureus. J. Clin. Microbiol. 47, 1528–1535.
+
+Uhlemann, A.C., Porcella, S.F., Trivedi, S., Sullivan, S.B., Hafer, C., Kennedy, A.D., Barbian,
+K.D., McCarthy, A.J., Street, C., Hirschberg, D.L., Lipkin, W.I., Lindsay, J.A., DeLeo, F.R.,
+Lowy, F.D., 2012. Identiﬁcation of a highly transmissible animal-independent Staphylo-
+coccus aureus ST398 clone with distinct genomic and cell adhesion properties. MBio 3.
+van Belkum, A., Melles, D.C., Peeters, J.K., van Leeuwen, W.B., van Duijkeren, E., Huijsdens,
+X.W., Spalburg, E., de Neeling, A.J., Verbrugh, H.A., 2008. Methicillin-resistant and
+-susceptible Staphylococcus aureus sequence type 398 in pigs and humans. Emerg.
+Infect. Dis. 14, 479–483.
+
+8
+
+M. Song et al. / International Journal of Food Microbiology 195 (2015) 1–8
+
+Varshney, A.K., Mediavilla, J.R., Robiou, N., Guh, A., Wang, X., Gialanella, P., Levi, M.H.,
+Kreiswirth, B.N., Fries, B.C., 2009. Diverse enterotoxin gene proﬁles among clonal
+complexes of Staphylococcus aureus isolates from the Bronx, New York. Appl. Environ.
+Microbiol. 75, 6839–6849.
+
+Walther, B., Monecke, S., Ruscher, C., Friedrich, A.W., Ehricht, R., Slickers, P., Soba, A.,
+Wleklinski, C.G., Wieler, L.H., Lubke-Becker, A., 2009. Comparative molecular analysis
+substantiates zoonotic potential of equine methicillin-resistant Staphylococcus aureus.
+J. Clin. Microbiol. 47, 704–710.
+
+Wang, X., Meng, J., Zhang, J., Zhou, T., Zhang, Y., Yang, B., Xi, M., Xia, X., 2012. Characteri-
+zation of Staphylococcus aureus isolated from powdered infant formula milk and in-
+fant rice cereal in China. Int. J. Food Microbiol. 153, 142–147.
+
+Waters, A.E., Contente-Cuomo, T., Buchhagen, J., Liu, C.M., Watson, L., Pearce, K., Foster,
+J., Driebe, E.M., Engelthaler, D.M., Keim, P.S., Price, L.B., 2011.
+
+J.T., Bowers,
+
+Multidrug-resistant Staphylococcus aureus in US meat and poultry. Clin. Infect. Dis.
+52, 1227–1230.
+
+Xie, Y., He, Y., Gehring, A., Hu, Y., Li, Q., Tu, S.I., Shi, X., 2011. Genotypes and toxin gene pro-
+
+ﬁles of Staphylococcus aureus clinical isolates from China. PLoS One 6, e28276.
+
+Yan, X., Wang, B., Tao, X., Hu, Q., Cui, Z., Zhang, J., Lin, Y., You, Y., Shi, X., Grundmann, H.,
+2012. Characterization of Staphylococcus aureus strains associated with food poison-
+ing in Shenzhen, China. Appl. Environ. Microbiol. 78, 6637–6642.
+
+Yu, F., Chen, Z., Liu, C., Zhang, X., Lin, X., Chi, S., Zhou, T., Chen, X., 2008. Prevalence of
+Staphylococcus aureus carrying Panton–Valentine leukocidin genes among isolates
+from hospitalised patients in China. Clin. Microbiol. Infect. 14, 381–384.
+
+

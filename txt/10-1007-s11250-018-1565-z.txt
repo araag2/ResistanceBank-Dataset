@@ -1,0 +1,2118 @@
+Tropical Animal Health and Production (2018) 50:1327–1341
+https://doi.org/10.1007/s11250-018-1565-z
+
+REGULAR ARTICLES
+
+Virulent gene profile and antibiotic susceptibility pattern of Shiga
+toxin-producing Escherichia coli (STEC) from cattle and camels
+in Maiduguri, North-Eastern Nigeria
+
+Musa Sakuma Adamu 1 & Iniobong Chukwuebuka Ikenna Ugochukwu 2 & Sunday Idoko Idoko 3 &
+Yakubu Adamu Kwabugge 4 & Nafisatu Sa’ad Abubakar 1 & James Ameh Ameh 5
+
+Received: 7 December 2017 /Accepted: 5 March 2018 /Published online: 21 March 2018
+# Springer Science+Business Media B.V., part of Springer Nature 2018
+
+Abstract
+Prevalence and distribution of Shiga toxin-producing Escherichia coli (STEC) serogroups from the faecal samples of
+cattle and camels slaughter in Maiduguri abattoir and their antibiotic resistance profile of the isolates were determined.
+The highest prevalence (24%) was recorded in the month of September and more STEC isolates came from cattle than
+the camels. There was significant (P < 0.05) seasonal trend in the prevalence of STEC among cattle and camel with more
+cases recorded during the wet season. Although, the study did not demonstrate significant influence of sex from the
+various sources. The serogroups recorded in this study were O157, O26, O91, O103 and O111. There was no significant
+difference (P < 0.05) between the detection rates of serogroups. The serogroup O26 was significantly (P < 0.05) the most
+observed serogroup in both camels and cattle. None of the STEC isolates tested positive for the O45 serogroup. PCR
+assays shows that 50 (63.3%) of the 86 STEC isolates carried the stx2 gene, 34 (43%) possessed the stx1 gene, and 14
+(16.3%) carried both stx1 and stx2 genes. Other genes detected include eae and ehlyA. The antimicrobial resistance
+among the STEC O157 and non-O157 isolates from cattle and camels in Maiduguri abattoir were very high and the
+STEC isolates were resistant to at least one or more of the antimicrobial agents tested. There was also multidrug
+resistance with the most frequent occurring patterns been ampicillin/nalidixic acid and tetracycline/trimethoprim.
+However, all the 79 isolates were sensitive to chloramphenicol, ceftazidime and ceftriaxone; therefore, these drugs could
+be drugs of choice in the treatment of STEC infections.
+
+Keywords Shiga toxin-producing Escherichia coli . Virulent gene . Antibiotic resistance . Cattle . Camels
+
+* Iniobong Chukwuebuka Ikenna Ugochukwu
+
+iniobong.ugochukwu@unn.edu.ng
+
+1 Department of Animal Health and Production Technology, Federal
+
+Polytechnic, Mubi, Adamawa State P.M.B 35, Nigeria
+
+2 Department of Veterinary Pathology and Microbiology, University of
+
+Nigeria, Nsukka, Nigeria
+
+3 Department of Veterinary Pathology, University of Abuja,
+
+Abuja, Nigeria
+
+4 Department of Animal Health Technology, Adamawa College of
+
+Agriculture, Ganye, Adamawa State PMB 2088, Nigeria
+
+5 Department of Veterinary Microbiology, University of Abuja,
+
+Abuja, Nigeria
+
+Introduction
+
+E. coli is regarded as a pathogen of worldwide importance in
+commercially produced beef, its presence can lead to signifi-
+cant economic losses (Rigobelo and de Ávila 2012). Most
+E. coli strains are harmless commensals, but some serotypes
+can cause serious food poisoning in humans (Hassan et al.
+2014; CDC 2018). Shiga toxin, a potent cytotoxin, is mainly
+produced by Escherichia coli and Shigella dysenteriae type 1,
+and sporadically could be produced by Citrobacter freundii,
+Enterobacter cloacae, Shigella flexneri, Shigella sonnei,
+Aeromonas hydrophila, and Aeromonas caviae (Llorente
+et al. 2014). Shiga toxin (Stx)-producing Escherichia coli
+(STEC) are one of the most
+important groups of
+diarrhoeagenic E. coli that is associated with food-borne out-
+breaks (Paton and Paton 1998; Beutin et al. 2007). STEC have
+
+1328
+
+Trop Anim Health Prod (2018) 50:1327–1341
+
+been identified to be pathogenic to humans and a major source
+of contamination for foods of animal origin constituting a
+major public health concern (Dastmalchi and Ayremlou
+2012). Farm animals are asymptomatic carriers of STEC,
+a zoonotic enteric pathogen that causes human gastrointes-
+tinal illnesses and meat contaminated by STEC is an im-
+portant means for zoonotic transmission from animals to
+humans (Ojo et al. 2010; Amézquita-López et al. 2014).
+Bovine E. coli strains can produce Shiga-like toxins (Stx),
+heat labile (LT) or heat-stabile (ST) enterotoxins, cytotoxic
+necrotizing factors (CNF1 and CNF2) and haemolysins
+(Rigobelo and de Ávila 2012).
+
+STEC are characterized by the production of one or more
+types of Shiga toxins (stx1 or stx2 or their variants), which
+subdue the host cells’ protein synthesis (Melton-Celsa 2014).
+Infection by these enterotoxins results in diarrhoeic secretions
+due to the action of one or more enterotoxins, and can lead to
+dehydration and death. (Rigobelo et al. 2006).
+
+The most important natural reservoirs of STEC are cattle.
+Transmission to humans occurs through food, water, and di-
+rect contact with animals or their environment (Bonanno et al.
+2015). Since cattle are the reservoir for STEC, studies have
+found an association between cattle population and the inci-
+dence of STEC infections in humans. The incidence of STEC
+infection in humans was higher in areas with high cattle pop-
+ulation and in areas where manure was used for agricultural
+practices (Frank et al. 2008).
+
+Three main routes of transmission have been identified by
+outbreak investigators as food borne infections which are fre-
+quently associated with consumption of contaminated
+undercooked beef and unpasteurized milk, person to person
+spread, and direct or indirect animal contact (Parry et al.
+1998). Direct and indirect zoonotic transmission through con-
+tact with animals or their faeces has also been reported in
+several settings (Synge and Hopkins 1994).
+
+The main virulence factors of STEC associated with
+human disease are potent cytotoxins also called shiga toxin
+(stx1 and stx2), which are encoded by the stx1 and stx2
+genes. Two additional markers also play a major role in
+the pathogenesis of haemolytic colitis and haemolytic ure-
+mic syndrome (HUS), they include intimin, encoded by the
+eae gene, and enterohaemolysin, encoded by the ehlyA
+gene (Paton and Paton 1998 and Karmali et al. 2010).
+This genetic virulence characteristic is often used in epide-
+miological studies to correlate between strains from vari-
+ous sources (Askari et al. 2010)
+
+Without any doubt, antimicrobial therapy is a major tool for
+infectious disease treatment in veterinary medical practice but
+resistance to antimicrobials is a cause of great concern (Beco
+et al. 2013). The global rise in the prevalence of antibiotic
+resistance is an important problem especially in developing
+countries where there is limited control of the quality, distri-
+bution and use of antibiotics in human medicine, veterinary
+
+medicine, and food-animal agriculture (Okeke et al. 1999;
+Kumarasamy et al. 2010).
+
+Diseases caused by E. coli often require antimicrobial ther-
+apy; however, antibiotic-resistant strains of this bacterium
+cause longer and more severe illnesses than their antibiotic-
+susceptible counterparts (Shahrani et al. 2014).
+
+Isolation of non-O157 STEC and some EPEC serotypes
+was reported from faeces of diarrheic calves collected from
+various farms in Zaria, North-central Nigeria (Sa’Ayinzat et al.
+2015), but the prevalence and distribution of STEC
+serogroups O157, O26, O45, O91, O103 and O111 which
+are associated with public health risks are unknown in cattle
+and camel around Maiduguri, North-eastern Nigeria, in spite
+of the public health safety problems this poses. It is due to this
+prevalent background that this study was conducted to deter-
+mine the prevalence and characteristics of Shiga toxin-
+producing E. coli (STEC) isolated from cattle and camels in
+Maiduguri, Nigeria.
+
+The aims of this study were to determine the prevalence of
+STEC isolates from faeces of slaughtered cattle and camels in
+Maiduguri, Nigeria, to determine the serogroups of the STEC
+isolates, determine the virulent genes using polymerase chain
+reaction (PCR) and to evaluate the antimicrobial susceptibility
+patterns of the STEC isolates.
+
+Material and methods
+
+Study area
+
+Maiduguri, our study area is located in the semi-arid zone of
+Borno State, situated in the North Eastern part of Nigeria, with
+an area of about 69,436 km2 and lies within latitude 10 - 13°N
+and longitude 12 - 15°E. It lies within the savannah and Sahel
+vegetation, and receives little average annual rainfall of
+613 mm. The wet season in the study area starts in April and
+extends into Mid-October while the dry season runs from
+November till Mid-March.
+
+The State shares boundaries with Chad to the North East,
+Cameroon to the East and Adamawa state to the South West.
+One of the main Agricultural activities in this area is livestock
+production.
+
+Sampling techniques
+
+Faecal samples were collected from cattle and camels
+slaughtered at the Maiduguri abattoir. The sample size was
+calculated using the formula n = t2 × p (1 − p) ÷ m2 from each
+source as described by FAO (1990). n represents the number
+of sample to be collected, t is the confidence level at 95% and
+standard value is 1.96; p is the estimated percentage preva-
+lence from each sample source and m is the margin of error at
+5% (standard value is 0.05).
+
+Trop Anim Health Prod (2018) 50:1327–1341
+
+Isolation and identification of STEC
+
+Faecal samples were collected from cattle and camels
+slaughtered at Maiduguri abattoir. All samples were col-
+lected in sterile well-labelled containers and were
+transported to the University of Maiduguri Veterinary
+Diagnostic Microbiology Laboratory in ice packs to avoid
+putrefaction before analysis. At the laboratory, the sam-
+ples were enriched in modified tryptone soya broth
+(mTSB), supplemented with novobiocin using the ratio
+of 1:9 (1 g of faeces in 9 ml of mTSB) and incubated at
+37 °C for an initial period of 6 h and then for an extended
+period of 12 h as described by Savoye et al. (2011). From
+the Broth, a loopful of the culture was streaked on to
+MacConkey agar (Oxoid®, UK) plates. The plates were
+then incubated for 24 h at 37πC and bacterial growths
+were observed. Lactose fermenting colonies were picked
+and then streaked on eosin methylene blue (EMB) agar
+(Oxoid®, UK) plates. Typical E. coli colonies were pick-
+ed as presumptive isolates (Plate 1). Plates with mixed
+cultures were subcultured to obtain a pure culture of
+E. coli and pure E.coli isolates were then transferred to
+Nutrient agar (Oxoid®, UK) slants, incubated at 37 °C for
+24 h. After growth was observed, the presumptive E. coli
+colonies on nutrient agar (CM3, (Oxoid®,UK) slants were
+picked and streaked on to sorbitol McConkey agar cul-
+tures (SMAC) (CM813, Oxoid®, UK) and then incubated
+for 24 h at 37 °C. The identity was confirmed by motility
+and biochemical
+tests (indole, methyl red, Voges-
+Proskauer, and Simmons citrate tests) using standard pro-
+cedures as described by Cheesbrough (2000). The
+
+A
+
+Plate 1 Greenish metallic sheen colonies (presumptive for Escherichia
+coli with discrete colonies labelled A on eosin methylene blue agar plate
+
+1329
+
+confirmed E. coli isolates based on the results of the bio-
+chemical tests were selected for antimicrobial agent sensi-
+tivity testing. And these confirmed isolates were inoculated
+into new TSB tubes and incubated until the turbidity was
+0.5 McFarland standard, this was done for 3 h.
+
+Detection of E. coli O26, O103, O111, O91 and O45
+serogroups
+
+E. coli Non-O157 Identification Kit, Prolex™ (PL 1070) pro-
+duced by Pro-Lab Diagnostics Round Rock, TX, USA, was
+used to determine the serogroup of the isolates from cattle and
+camel faecal samples. The test cards labelled with each of the
+serogroups O26, O103, O111, O191 or O45 were used in the
+detection.
+
+PCR techniques
+
+1 ml of phosphate buffer saline (PBS) was transferred to a 1.5-
+ml Eppendorf tube. Then a loop full of the bacterium was
+picked from a plate and transferred to the Eppendorf tube
+and centrifuged at 14,000 rpm for 5 min. Supernatant was
+discarded and the pellet was re-suspended in 100 μl TE buffer.
+The suspension was boiled at 95 °C for 10 min and then
+transferred directly to ice to form a lysate. The lysed DNA
+was diluted 10-fold in TE buffer from presumptive pure E.coli
+strains, grown overnight in nutrient broth (Sigma Chemical
+Co. USA) at a temperature of 37 °C, they were further pelleted
+by centrifugation. Lysate was centrifuged again as described
+above and 50 μl of the supernatants were used as DNA for the
+PCR assay. The PCR assay list of the primers, their sequence
+and lengths are shown in Table 1. All E. coli isolates from
+cattle and camel faecal samples were subjected to PCR. Stx 1,
+stx 2 andeae virulent genes were detected using the primers
+and PCR assay technique as described by China et al. (1998)
+and Scheutz et al. (2012).
+
+Expression of enterohaemolysin A (EHlyA)
+
+The E. coli isolates were observed for haemolytic activities on
+a blood agar plates containing phosphate buffered saline
+(PBS) made from nutrient agar containing washed and un-
+washed 7% sheep erythrocytes (RBC). Strains, which were
+haemolytic on both washed and unwashed 7% sheep blood
+agar within 4–6 h of incubation at a temperature of 37 °C with
+a clear, broad zone of alpha haemolysis were considered to
+have produced alpha-haemolysin (a-hly), while those that
+were only haemolytic on washed sheep blood agar with a
+narrow, turbid haemolytic halo after more than 8 h incubation
+duration at a temperature of 37 °C produced enterohaemolysin
+(ehly) (Plate 2). Expression of enterohaemolysin was deter-
+mined based on the method described by Beutin et al. (1997).
+
+1330
+
+Table 1 Primer sequences and
+lengths of PCR amplification
+products
+
+Primer product sizes (bp)
+
+Target gene
+
+Oligonucleotide sequence (5′–3′)
+
+Trop Anim Health Prod (2018) 50:1327–1341
+
+LP30 E. coli 348
+O157
+LP31 E. coli 348
+O157
+LP43 E. coli 584
+O157
+LP44 E. coli 584
+O157
+SK1 E. coli 863
+O157
+SK2 E. coli 863
+O157
+
+stx1
+
+stx1
+
+stx2
+
+stx2
+
+eae
+
+eae
+
+5′CAG TTA ATG TGG TGG CGA AGC 3′
+
+5′CAC CAG ACA ATG TAA CCG CTG 3′
+
+5′ATC CTA TTC CCG GGA GTT TAC G 3′
+
+5′GCG TCA TCG TAT ACA CAG GAG C 3′
+
+5′CCC GAA TTC GGC ACA AGC ATA AGC 3′
+
+5′CCC GGA TCC GTC TCG CCA GTA TTC G 3′
+
+Antimicrobial susceptibility testing
+
+Antibiotic susceptibility testing of all the E.coli isolates was done
+with Mueller-Hinton agar (CM337, Oxoid® UK) plates with an
+agar depth of 4 mm, were prepared according to manufacturer’s
+instructions and prior to use were visually examined to ensure
+that plates were free of visible contamination before poured to a
+uniform depth of approximately 4 mm. Within 15 min of prepar-
+ing the adjusted inocula, a sterile cotton swabs were used to
+streak the inocula evenly on the surface of the agar. The swabs
+were rotated several times and pressed firmly on the inside wall
+of the tube above the fluid level to remove excess inocula from
+the swabs. Any excess moisture on the agar surface was allowed
+to be absorbed prior to application of the antimicrobial disks. The
+lid of the plates were left slightly opened for 5 min to allow
+excess moisture to be absorbed before applying disks
+Antimicrobial disks containing ampicillin 10 μg/disk; tetracy-
+cline 30 μg/disk; ceftazidime 10 μg/disk; streptomycin 10 μg/
+disk; gentamycin 10 μg/disk; nalidixic acid 30 μg/disk; ceftriax-
+one 30 μg/disk; ciprofloxacin 5 μg/disk; cefotaxime 30 μg/disk;
+chloramphenicol 30 μg/disk and trimethoprim 5 μg/disk (Oxoid,
+
+A
+
+B
+
+Plate 2 Sheep blood agar plate showing zones of haemolysis A and B by
+Escherichia coli
+
+UK®) and nutrient agar (CM3, Oxoid®) plates Oxoid, UK®.
+Disk diffusion method of antibiotic susceptibility testing as de-
+scribed by the National Committee for Clinical Laboratory
+Standards (Reller et al. 2009) was used. The values were
+interpreted using the prescribed standards by CLSI (2006).
+
+Statistical analysis
+
+The Student t test was used to analyse the difference among the
+various serogroups, virulence genes properties and seasonal
+trend. Duncan’s multiple range test and Pearson correlation anal-
+ysis were used for testing associations between virulent genes.
+
+Results
+
+Prevalence of STEC organisms from faecal samples
+of cattle and camel
+
+Out of the 600 faecal samples from cattle, 9.3% (n = 56) were
+positive for the presence of STEC (Table 2). The highest, 24.0%
+(n = 12) prevalence was recorded in the month of September, this
+was followed by 22% (n = 11) and 14.0% (n = 7) for the months
+of October and June, respectively. The months of July, December
+and January had 12.0% (n = 6) each. No STEC was isolated
+during the months of January and March. There was significant
+(P < 0.05) seasonal influence on prevalence of STEC among
+faeces of cattle tested (Table 3). The highest isolation rates
+20.0% (n = 29) and 12.8% (n = 14) were recorded in wet season
+for female and male cattle, respectively. The prevalence in dry
+season was 3.6% (n = 8) and 3.8% (n = 5) for female and male
+cattle, respectively. There was no significant difference in the
+prevalence rate of STEC between male and female cattle.
+
+Out of the 600 faecal samples collected from camels, 3.8%
+(n = 23) of the samples were found to be positive for STEC
+(Table 4). The highest 10.0% (n = 5) prevalence rate was re-
+corded in the month of September, this was followed by 8.0%
+
+Trop Anim Health Prod (2018) 50:1327–1341
+
+1331
+
+Table 2
+in Maiduguri, Borno State
+
+Prevalence of STEC isolates from faeces of cattle slaughtered
+
+Table 4
+in Maiduguri, Borno State
+
+Prevalence of STEC isolates from faeces of camels slaughtered
+
+Month
+
+No. tested
+
+No. STEC+ve
+
+Percentage (%) + ve
+
+Month
+
+No. tested
+
+No. STEC+ve
+
+Percentage (%) + ve
+
+June
+July
+August
+September
+October
+November
+December
+January
+February
+March
+April
+May
+Total
+Mean
+
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+600
+
+7
+6
+2
+12
+11
+4
+6
+0
+1
+0
+3
+3
+56
+4.5
+
+14
+12
+4
+24
+22
+8
+12
+0
+2
+0
+6
+6
+9.3
+
+June
+July
+August
+September
+October
+November
+December
+January
+February
+March
+April
+May
+Total
+Mean
+
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+600
+
+4
+3
+0
+5
+2
+3
+3
+0
+0
+0
+2
+1
+23
+1.9
+
+8.0
+6.0
+0
+10.0
+4.0
+6.0
+6.0
+0
+0
+0
+4.0
+2.0
+3.6
+
+(n = 4), in the month of June, and 6.0% (n = 3) each in the
+months of July, December and January. No STEC was isolated
+during the months of August, February and March. There was
+significant (P < 0.05) seasonal trend in the isolation of STEC
+from camel faeces (Table 4). The highest isolation rate 6.9%
+(n = 17) was recorded in wet season. This was significantly
+lower than the rate 1.7% (n = 6) obtained in the dry season.
+There was also no significant (P < 0.05) difference in the prev-
+alence of STEC among the male and female camels tested. The
+prevalence of STEC among the male and female camels were
+4.7% (n = 11) and 3.3% (n = 12), respectively (Table 5).
+
+Biochemical characteristics of STEC isolates
+
+Results of the bacteriological studies showed that, out of the
+1200 faecal samples collected from camels and cattle (n = 600
+each), 27.0% (n = 162) and 36.6% (n = 220) samples respec-
+tively showed typical growths of Escherichia coli as shown in
+Fig. 1. Out of the 382 biochemically presumptive E. coli iso-
+lates, 9.91% (n = 119) were non-sorbitol fermenters (NSF),
+with 33.8% (n = 73) from cattle and 30.1% (n = 41) from
+
+Table 3 Influence of sex and
+season on prevalence of STEC
+isolated from faeces of cattle in
+Maiduguri
+
+Seasons
+Means
+
+Sex
+
+Females
+
+camels. Motility test showed that 27.7% (n = 33) of the con-
+firmed non-sorbitol fermenting E. coli isolates were motile
+(Table 6).
+
+Serogrouping of STEC isolates from cattle
+
+In cattle, the 56 STEC isolates belonged to 5 different
+serogroups. The results as shown in Table 7 revealed that
+12.5% (n = 7) were O157 and 87.5% (n = 49) were non-
+O157 serogroup. Serogroup O26 accounted for 39.3% (n =
+22) of the isolates, which was significantly (P < 0.05) the most
+frequently detected serogroup among the non-O157 (Table 7).
+There was no significant difference between the detection
+rates of serogroups O103, 10.7% (n = 6) and O157, 12.5%
+(n = 7). However, serogroup O91 accounted for 32.1% (n =
+18) of the STEC isolates from cattle.
+
+Serogrouping of STEC isolates from camels
+
+Out of the 23 STEC isolates from camels, 17.4% (n = 4)
+belonged to serogroup O157, while 82.6% (n = 19) were
+
+Total STEC + ve
+
+Males
+
+(%)
+
+No. tested
+
+STEC+ve
+
+No. tested
+
+STEC+ve
+
+Wet
+Dry
+Total (n = 600)
+Mean
+
+138
+221
+359
+
+29 (20)
+8 (3.6)
+37 (10.3%)
+18.5a
+
+109
+132
+231
+
+14 (12.8)
+5 (3.8)
+19 (8.22%)
+10.4a
+
+43 (7.4)
+13 (3.6)
+56 (9.5%)
+
+21.5a
+6.5b
+
+Means with the different letter superscript were significantly different (P < 0.05)
+
+1332
+
+Trop Anim Health Prod (2018) 50:1327–1341
+
+Table 5 Influence of sex and
+season on prevalence of STEC
+isolated from faeces of camel in
+Maiduguri
+
+Seasons
+Means
+
+Sex
+
+Females
+
+Total STEC + ve
+
+Males
+
+(%)
+
+No. tested
+
+STEC+ve
+
+No. tested
+
+STEC+ve
+
+Wet
+Dry
+Total (n = 600)
+Mean
+
+149
+219
+368
+
+10 (6.7)
+2 (0.9)
+12 (3.3%)
+5.2a
+
+98
+134
+232
+
+7 (6.5)
+4 (2.3)
+11 (4.7%)
+4.0a
+
+17 (6.9)
+6 (1.7)
+23 (3.8%)
+
+4.0a
+1.5b
+
+Means with the different letter superscript were significantly different (P < 0.05)
+
+non-O157. Among the non-O157 serogroups, 43.5% (n = 10)
+belonged to serogroup O26, which was significantly (P <
+0.05) the most observed serogroup. 17.4% (n = 4) isolates
+belonged to serogroup O103. However, serogroups O111
+and O91 accounted for 13.0% (n = 3) and 8.7% (n = 2) iso-
+lates, respectively. None of the STEC isolates tested positive
+for the O45 serogroup (Table 8).
+
+Detection of stx1, stx2, eae genes and enterohaemolysin A
+
+The results of the PCR assays show that 63.3% (n = 50) of the 86
+STEC isolates carried the stx2 gene, 43% (n = 34) possessed the
+stx1 gene, and 16.3% (n = 14) carried both stx1 and stx2 genes
+(Table 9). Stx1 genes were more prevalent in camel (43.5%) than
+cattle (42.9%) although not significantly different, whereas stx2
+
+M 1 2 3 4 5 6 7 8 910 11 12 
+
+13 14 15 16 
+
+348bp
+
+348bp
+
+Fig. 1 Agarose gel electrophoresis of PCR amplification of Stx1 genes of
+Escherichia coli. Lane M: 100 bp Molecular weight marker/ladder.
+Lane1–6: PCR product of Vtx1 positive isolates of E. coli. Lane 7:
+positive control. Lane 8: negative control. Lane 9–16: PCR product of
+Stx1 positive isolates of E. coli
+
+strains were more commonly recovered from cattle (71.4%) and
+camels (43.5%). Isolates carrying both stx1- and stx2 genes were
+more frequently isolated from cattle (23.2%) than from camels
+(4.3%). The 79 STEC isolates were investigated for the presence
+of the eae genes, only 38% (n = 30) of 79 STEC isolates were
+positive for the eae gene (Fig. 3).The eae genes were significant-
+ly (P < 0.05) higher in STEC from camels (69.6%) than those in
+cattle (25.0%), respectively (Table 9). The result for haemolytic
+activities of the 79 STEC isolates is also presented in Table 9. Out
+of the 79 STEC isolates, 38% (n = 30) produced clear narrow
+zones of haemolysis on nutrient agar containing 7% washed
+sheep blood, typical of enterohaemolysin production. Some of
+the plates are shown in Plate 1. 69.6% (n = 16) of the isolates that
+produce enterohaemolysin were from camels and were signifi-
+cantly (P < 0.05) higher than those from cattle (25.0%).
+Figures 1, 2 and 3 show the photographs of Agarose gel electro-
+phoresis analysis results of PCR assays of stx1, stx2 and eae
+genes of the E. coli isolates from the faecal samples of the cattle
+and camels slaughtered at the Maiduguri Abattoir.
+
+Pattern of distribution of virulence genes in the 79 STEC
+isolates from cattle and camels in Maiduguri
+
+The results of virulence gene (stx1, stx2, eae and ehlyA) char-
+acteristics of the 79 STEC isolates from the various sources
+showed that 100% of the isolates had at least one virulence
+genes (Table 10). The results revealed eleven pattern of distri-
+bution of the virulence genes from the 79 STEC isolates.
+There were significant differences (P < 0.05) among the com-
+binations from the cattle and camel faecal sources. The most
+frequent pattern among the isolates from camels was stx1/eae/
+ehlyA 34.2% (n = 8) which was significantly more than what
+was obtained in cattle 8.9% (n = 5). Gene stx2 was significant-
+ly higher among cattle isolates (32%), than for the camels
+(21.7%). Overall results did show that, there was significant
+(P < 0.05) positive correlation between the eae and ehlyA
+genes among the isolates. However negative correlation exist
+among the isolates for stx1 and stx2 genes, Also, there was
+significant (P < 0.05) positive correlation between the eae and
+stx2 genes.
+
+Trop Anim Health Prod (2018) 50:1327–1341
+
+1333
+
+Table 6 Biochemical test
+characteristics of STEC isolates
+from cattle and camels in
+Maiduguri
+
+Sample number (%)
+
+E. coli + ve (%)
+
+Indole + ve (%)
+
+NSF (%)
+
+Motility
+
+Cattle (600)
+Camels (600)
+Total (1200)
+
+220 (36.6)
+162 (27)
+382 (31.83)
+
+216 (98.1)
+160 (98.7)
+376 (98.4)
+
+78 (33.8)
+41 (25.6)
+119 (31.1)
+
+21 (28.8)
+12 (29.3)
+33 (27.7)
+
+NSF non-sorbitol fermenters
+
+Antibacterial susceptibility testing of STEC
+
+The antimicrobial resistance among the STEC O157 and non-
+O157 isolates from cattle and camels in Maiduguri abattoir are
+shown in Table 11. Whereas, camels STEC O157 isolates
+were more resistant to tetracycline than isolates from cattle
+(Table 12). Only one STEC non-O157 was resistant to cefo-
+taxime which was isolated from camels slaughtered at the
+Maiduguri abattoir (Plate 3). None of the isolates was resistant
+to chloramphenicol, ceftazidime and ceftriaxone. Cattle STEC
+O157 isolates showed a higher number of resistance 42.9%
+(n = 3), to ampicillin and streptomycin each than the number
+of resistance 28.6% (n = 2) to gentamycin and nalidixic acid
+28.6% (n = 2), this is shown in Table 13. Ampicillin, and
+tetracycline 41.7% (n = 5) each, were the most commonly
+resistant antimicrobials, followed by streptomycin 33.3%
+(n = 4), gentamycin, nalidixic acid and trimethoprim 25%
+(n = 3) each and cefotaxime 8.3% (n = 1). None of the isolates
+were resistant to chloramphenicol, ciprofloxacin, ceftazidime
+and ceftriaxone. Cattle non-O157 STEC showed a higher
+number of resistant strains than camel to ampicillin (65.3%)
+and gentamycin (26.5%).
+
+Multidrug resistance patterns of STEC isolates
+from camels and cattle
+
+The multidrug resistance profile of STEC isolated from
+camels and cattle is shown in Table 14. STEC isolates that
+were resistant to at least one or more of the antimicrobial
+agents tested. The most frequent occurring patterns were
+ampicillin/nalidixic acid and tetracycline/trimethoprim,
+
+10.4% (n = 7) each. This is followed by gentamycin/
+trimethoprim 7.4% (n = 5). All the most frequent resistance
+profiles were identified among STEC isolates from camels
+and cattle.
+
+Discussions
+
+The results of this study suggest that camel and cattle faeces
+are important sources of meat contamination with STEC O157
+and non-O157 STEC in Maiduguri. In developing countries,
+high level of carcass contamination with faeces from gastro-
+intestinal tracts of food animals is common in abattoir and
+slaughter slabs. This is specifically true in Nigeria, where
+butchering of meat are done on concrete floor under unhy-
+gienic slaughtering and meat processing conditions with lack
+of potable water (Olatoye 2010).
+
+The results of this study showed that the prevalence of
+STEC from camel faeces in Maiduguri was 3.8%. The values
+obtained concur with the findings reported by Rahimi et al.
+2010, pp. 179–185 and 2012, pp. 559–564 from Iran and
+Bosilevac et al. 2015, pp. 89–96, although the latter reported
+a higher prevalence of 10.7% in Riyadh, Saudi Arabia.
+However, this finding is at variance with previous reports on
+camel faecal samples from the United Arab Emirates, where
+E. coli O157:H7 was not identified (Moore et al. 2002, pp.
+283–287) and East African countries (El-Sayed et al. 2008,
+pp. 469–473).
+
+The differences observed may be due to differences in geo-
+graphical locations and laboratory techniques used for the
+detection of STEC organisms. However, those studies targeted
+
+Table 7 Distribution of the 56 STEC isolates from cattle to various
+serogroups
+
+Table 8 Distribution of the 23 STEC isolates from camels to various
+serogroups
+
+Serogroup (%)
+
+No. of isolates (n = 23)
+
+Percentage
+
+Serogroup (%)
+
+No. of isolates (n = 23)
+
+Percentage
+
+O157
+O26
+O45
+O91
+O103
+O111
+Total
+
+7
+22
+0
+18
+6
+3
+56
+
+12.5
+39.3
+0
+32.1
+10.7
+5.4
+100
+
+O157
+O26
+O45
+O91
+O103
+O111
+Total
+
+4
+10
+0
+2
+4
+3
+23
+
+17.4
+43.5
+0
+8.7
+17.4
+13.0
+100
+
+1334
+
+Trop Anim Health Prod (2018) 50:1327–1341
+
+Table 9 Distribution of virulence factor-encoding genes in the STEC
+strains of the isolates from cattle and camels in Maiduguri
+
+Virulent gene
+
+Isolates from cattle
+n (%)
+Total = 56
+
+Isolates from camel
+n (%)
+Total = 23
+
+Stx1
+Stx2
+Stx1/Stx2
+Eae
+EhlyA
+
+24 (42.9%)b
+40 (71.4%)a
+13 (23.2%)a
+14 (25%)b
+14 (25%)b
+
+10 (43.5%)b
+10 (43.5)b
+1 (4.3%)b
+16 (69.6%)a
+16 (69.6%)a
+
+Percentages with the same superscript were not significantly different
+(P < 0.05)
+
+only serogroup O157 and one of the reasons advanced for
+failure to detect STEC in camels around the desert could be
+that, the sedentary life pattern of camels in the desert mini-
+mizes the contact of camels with other animal species and
+therefore the transmission of STEC (El-Sayed et al. 2008).
+In Maiduguri, during the dry season, camel population in-
+creases because of movements of camel nomads from deserts
+in search of feeds, where camels and cattle come in contact
+during grazing. Cattle have been reported to be reservoirs for
+STEC in Maiduguri (Moses et al. 2012), for this reason there
+could be interspecies transfer of STEC from cattle to camels.
+In this study, 9.3% of the cattle faeces tested were positive
+for STEC. Although, ruminants have been reported as the
+main natural reservoir for human STEC infections (Caprioli
+et al. 2005; Gyles 2007 and Hussein 2007), the figure obtained
+in this study was rather low compared to previous reports of
+19% in India by Das et al. 2005, pp. 617–626, in Bangladesh
+by Islam et al. 2008, pp. 5414–5421 and in Nigeria by Ojo
+et al. 2009, pp. 23–30, reported 10%. This discrepancy in
+prevalence might be due to the regional differences and man-
+agement system. Caprioli et al. 2005, pp. 289–311, reported
+that the use of specific immunoconcentration procedures for
+STEC O157 as used by (Islam et al. 2006a, b) strongly
+
+M 1 2 3 4 5 6 7 8 910 11 12
+
+584bp
+
+Fig. 2 Agarose gel electrophoresis analysis of PCR amplification of stx2
+genes of Escherichia coli. Lane M: 100 bp Molecular weight marker/
+ladder. Lane 1: positive control. Lane 2: negative control. Lane 3 and 4:
+PCR product of stx2 positive isolates of E. coli
+
+M 1 2 3 4 5 6 7 8 9 10 11 12
+
+12 13 14 15 16 17 18 19 20 21 22 23 24 
+
+863bp
+
+863bp
+
+Fig. 3 Agarose gel electrophoresis of PCR amplification of eae genes of
+Escherichia coli. Lane M: 100 bp Molecular weight marker/ladder. Lane
+1: positive control. Lane 2: negative control. Lane 3–24: PCR product of
+eae positive isolates of E. coli
+
+enhanced the sensitivity of the isolation methods and higher
+rates of recovery.
+
+The results of this study showed a significant seasonal
+trend. For cattle and camels, the prevalence of STEC was
+significantly higher in the wet season than in the dry season.
+These results corroborate with a study by Persson et al. 2007,
+pp. 516–524, reported high prevalence of E. coli O157:H7/
+NM in meat sampled in summer and fall. However, in a study
+of non-O157 STEC performed on sheep, the prevalence did
+not follow the seasonal trend previously reported for STEC
+O157:H7, with the highest prevalence rates (up to 26.0%)
+reported during winter and spring (Pierard et al. 1997, pp.
+531–540). Kudva et al. 1997, pp. 892–899, hypothesized that
+changes in diet or environment influenced the seasonal varia-
+tion in the prevalence of STEC O157:H7. A higher prevalence
+rate (10.7%) of E. coli O157 was reported when cattle hides
+were tested in the summer at Midwestern beef processing
+plants (Elder et al. 2000). This agrees with the findings of
+the present study. These different prevalence rates could be
+explained by sampling time. It is important to note that quan-
+titative faecal shedding of STEC is considered a more impor-
+tant factor than prevalence in influencing the risk of human
+exposure and infection with STEC. Interestingly, the high
+prevalence recorded in camel and cattle during the wet season
+in this study corresponded with the human incidences record-
+ed in the same season as recorded by Adamu et al. (2017).
+This agrees with the reports of Ogden et al. 2004, pp. 297–
+300, that the prevalence of E. colio157 in beef cattle at slaugh-
+ter was found to be greater (P < 0.05) during the cooler
+
+Trop Anim Health Prod (2018) 50:1327–1341
+
+1335
+
+Table 10 Pattern of distribution
+of virulence genes according to
+the origin of the 7 STEC strains
+tested
+
+Virulent gene cattle
+
+Stx1
+Stx2
+Stx1, Stx2
+Stx1, ehlyA
+Stx2, ehlyA
+Stx1, Stx2 ehlyA
+Stx1, eae
+Stx1, eae, ehlyA
+Stx2, eae, ehlyA
+Stx1, stx2, eae, ehlyA
+Eae, ehlyA
+
+Isolates from camel
+n (%)
+Total = 23
+
+Isolates from cattle
+n (%)
+Total = 56
+
+Total
+n (%)
+Overall total = 79
+
+1 (4.3%)
+5 (21.7%)
+1 (4.3%)
+0 (0%)
+0 (0%)
+0 (0%)
+0 (0%)
+8 (34.8%)
+4 (17.4%)
+0 (0%)
+4 (17.4%)
+
+2 (3.6%)
+18 (32.1%)
+6 (10.7%)
+3 (5.4%)
+7 (12.5%)
+6 (10.7%)
+1 (1.8%)
+5 (8.9%)
+2 (3.6%)
+1 (1.8%)
+5 (8.9%)
+
+3 (3.8%)
+23 (29.1%)
+7 (8.9%)
+3 (3.8%)
+7 (12.5%)
+6 (7.6%)
+1 (1.3%)
+13 (16.5%)
+6 (7.6%)
+1 (1.3%)
+9 (11.4%)
+
+n number of positive samples, NB total number of positive isolates
+
+months (11.2%) than during the warmer months (7.5%) which
+explain increased human infections at that time. This was the
+reverse of the known seasonality of human infections with
+STEC (WHO 1998).
+
+Investigations on the prevalence of STEC are most com-
+monly based on detection of the O157 serogroup. The preva-
+lence in cattle faeces varies widely from 0 to over 50%
+(Rhoades et al. 2009). However, the results of STEC
+serogrouping reported in this study revealed that all the
+STEC isolates were within the six STEC serogroups that were
+tested for. Therefore, it is not surprising to have 56 STEC
+isolates from cattle of which all tested positive for at least
+one of the six STEC serotypes tested. Studies have shown that
+there are numerous STEC serotypes with 174 O antigens and
+53 H antigens (Scheutz et al. 2004). Similarly, Blanco et al.
+2003, pp. 345–351, reported about 200 serotypes of STEC.
+Therefore, the prevalence of the STEC serogroups for cattle
+differs depending on different factors. Different prevalence
+rates were reported for both E coli O157 and non-O157
+E. coli, depending on the type of animal tested the season
+and the animal production system (Hussein 2007).
+
+E. coli O26 was the most commonly isolated serogroup of
+those tested in camel faeces. Forty percent of E. coli O26
+
+Table 11 Distribution of the 56 STEC isolates from cattle to various
+serogroups
+
+Isolate source
+
+Antimicrobial resistance
+
+Total
+
+O157
+n = 11
+
+3 (75%)
+5 (71.4%)
+8 (72.7%)
+
+Non-O157
+n = 70
+
+17 (89.5%)
+41 (83.7%)
+58 (82.8%)
+
+20 (86.9%)
+46 (82.1%)
+66 (81.4%)
+
+Camel
+Cattle
+Total
+
+isolates carried stx2, eae, and ehly. This result contradicts the
+findings of several other studies which found that E. coli O26
+strains typically carry stx1 and eae but not stx2 (Burnens et al.
+1995; Blanco et al. 1997). However, high rates of carriage of
+stx2 among E. coli O26 isolates from cattle have been reported
+(Geue et al. 2002), which agrees with the results of this work.
+It could be seen that, in most of the serogroup O26 strains
+isolated during this study, the carriage of stx1 was significant-
+ly (P < 0.001) associated with the carriage of eae, and ehly. In
+strains of E. coli O26 associated with diarrhoea and HUS in
+humans, it is common to find stx1, eae, and ehly (Zhang et al.
+2009; Schmidt et al. 1999). Some strains carrying vtx2 have
+also been associated with diarrhoea and HUS (York et al.
+2010). In addition, the stx1, eae, and ehly genes were much
+more common in E. coli O26 than in other serogroups.
+This may play an important role in facilitating colonization
+in the gut.
+
+E. coli O103 and O157 were the second most common-
+ly isolated serogroup of those tested in camel faeces. Half
+of the E. coli O103 isolates carried stx2. This result is in
+contrast to the findings of a number of other studies in
+which STEC O103 possessed stx1 only (Wells et al. 1991,
+pp. 985–989; Zhang et al. 2009, pp. 449–454). Unlike
+serogroup O103, and serogroup O157 which were isolated
+at the same frequency, all but one isolate carried stx2 and
+ehly. This finding is significant, since stx2 and ehly are
+regarded as important virulence factors found in E. coli
+O157 strains associated with HC and HUS in humans
+(Serna and Boedeker 2008).
+
+The absence of E. coli O45 in this study was not a surprise
+since this serogroup has not been found frequently in either
+camel or cattle (York et al. 2010; El-Sayed et al. 2008).
+However, the low prevalence of E. coli O91 serogroup is
+consistent with the findings of other studies (Krüger et al.
+
+1336
+
+Trop Anim Health Prod (2018) 50:1327–1341
+
+Table 12 Comparison of
+antimicrobial resistance profile of
+the O157 STEC and non-O157
+STEC isolates from camels
+
+Antimicrobials
+
+Resistant STEC 0157 isolate
+strains from camel
+Total no. = 3
+n (%)
+
+Resistant STEC non-0157 isolate
+strains from camel
+Total n = 17
+n (%)
+
+AMP
+CTX
+TET
+GEN
+STP
+CHL
+NAL
+TMP
+CIP
+CAZ
+CRO
+
+1 (25)
+0 (0)
+2 (75)
+0 (0)
+0 (0)
+0 (0)
+1 (25)
+1 (25)
+0 (0)
+0 (0)
+0 (0)
+
+6 (31.6)
+1 (5.3)
+9 (47.4)
+4 (21.1)
+7 (36.8)
+0 (0)
+6 (31.6)
+5 (26.3)
+2 (10.5)
+0 (0)
+0 (0)
+
+AMP ampicillin 10 μg/disc, TET tetracycline 30 μg/disc, CAZ ceftazidime 10 μg/disc, STP streptomycin 30 μg/
+disc, GEN gentamycin 10 μg/disc, NAL nalidixic acid 30 μg/disc, CRO ceftriaxone 30 μg/disc, CIP ciprofloxacin
+5 μg/disc, CTX cefotaxime 5 μg/disc, CHL chloramphenicol 30 μg/disc, TMP trimethoprim 5 μg/disc, n number
+of STEC tested
+
+2011, pp. 73–79). Concurrent shedding of more than one
+serogroup was uncommon and, with the exception of E. coli
+O26 and O91, we found no tendency for two serogroups to be
+isolated simultaneously more than could be expected by
+chance. Although E. coli O91 was detected in two samples,
+in one of these it occurred simultaneously with E. coli O26.
+All the eleven virulence gene profiles were observed
+among isolates from cattle and six among isolates from
+camels. There were significant differences (P < 0.05) among
+the virulence gene profiles from the various sources. The most
+frequent virulence gene profile among the isolates was stx1/
+eae/ehlyA, which was significantly more among camels than
+
+the cattle isolates. Accordingly, these strains should be con-
+sidered pathogenic for humans; however, their ability to cause
+severe disease and their potential to cause outbreaks could be
+questioned because most outbreak of STEC infection was
+associated with stx2-positive strains (EFSA 2009). Also iso-
+lates from cattle with the same profile or carrying stx1 genes in
+this study could be potential pathogens for humans (Gyles and
+Fairbrother 2004).
+
+Isolates with stx2 only in this study were significantly more
+among cattle than the camel isolates. Also it was observed that
+significant (P < 0.05) positive correlations between the eae
+and stx2 genes exist among the isolates in this study. In
+
+Plate 3 Disk diffusion showing
+zones of inhibition of growth of
+an isolate from camel susceptible
+to A = Gentomycin (GN), B =
+Ciprofloxacillin (CIP), E =
+Streptomycin (S) Resistance to,
+C = Tetracycline (TC) and D =
+Ampicillin (AMP)
+
+E
+
+D
+
+C
+
+B
+
+A
+
+Trop Anim Health Prod (2018) 50:1327–1341
+
+Table 13 Comparison of
+antimicrobial resistance profile of
+the O157 STEC and non-O157
+STEC isolates from cattle
+
+Antimicrobials
+
+1337
+
+Resistant STEC 0157 isolate
+strains from cattle
+Total no. = 5
+n (%)
+
+Resistant STEC non-0157 isolate
+strains from cattle
+Total no. = 41
+n (%)
+
+AMP
+CTX
+TET
+GEN
+STP
+CHL
+NAL
+TMP
+CIP
+CAZ
+CRO
+
+3 (42.9)
+0 (0)
+2 (28.6)
+2 (28.6)
+3 (42.9)
+0 (0)
+2 (28.6)
+2 (28.6)
+0 (0)
+0 (0)
+0 (0)
+
+32 (65.3)
+0 (0)
+17 (34.7)
+13 (26.5)
+16 (32.7)
+0 (0)
+13 (26.5)
+16 (32.7)
+4 (8.2)
+0 (0)
+0 (0)
+
+AMP ampicillin 10 μg/disc, TET tetracycline 30 μg/disc, CAZ ceftazidime 10 μg/disc, STP streptomycin 30 μg/
+disc, GEN gentamycin 10 μg/disc, NAL nalidixic acid 30 μg/disc, CRO ceftriaxone 30 μg/disc, CIP ciprofloxacin
+5 μg/disc, CTX cefotaxime 5 μg/disc, CHL chloramphenicol 30 μg/disc, TMP trimethoprim 5 μg/disc, n number
+of STEC isolates tested
+
+agreement with the present study, stx2 was the dominant Shiga
+toxin type in some other studies (Beutin et al. 1997, pp. 2175–
+2180 and Zahraei et al. 2006). In contrast, several studies have
+also shown that stx1 was the major Shiga toxin type among
+STEC isolates from calves (Orden et al. 1998, pp. 239–248
+and Leomil et al. 2003, pp. 103–109; Akter et al. 2016, pp.
+63–68). The important criteria for these types of variations
+could be the geographical area where the animals originated.
+Five profiles that were found among isolates from cattle were
+not found in camels and six were not found in human. All
+profiles found in isolates from camels and humans are also
+present in isolates from cattle. This finding reconfirmed cattle
+as the reservoir for STEC.
+
+According to Blanco et al. 2003, pp. 345–351 and Luga
+et al. 2007, pp. 205–211, non-O157 STEC isolated from
+calves with diarrhoea showed that the majority (77–81%) of
+STEC were resistant to at least one of the antimicrobial agents
+tested, with numerous isolates being resistant to streptomycin,
+tetracycline, and sulphonamide.
+
+The present study documents for the first time in North
+Eastern, Nigeria, the antimicrobial resistance of a large collec-
+tion of STEC O157 and non-O57 strains from cattle and cam-
+el. In the present study, increasing resistance was observed.
+
+Among the 79 STEC isolated in this study, a higher level of
+resistance was detected in camel (87%) and cattle (82%). This
+is in accordance with data obtained by Sayah et al. 2005, pp.
+1394–1404, Aibinu et al. 2007, pp. 22–33 and Shittu et al.
+2007, pp. 164–170, they obtained a high percentage of resis-
+tance in isolates from animals and man.
+
+The incidence of antimicrobial resistance among E. coli
+O157 and non-O157 isolated in this study indicated that
+
+82% of the isolates were resistant to at least one antimi-
+crobial agent.
+
+Isolates from cattle showed more multidrug resistance than
+isolates from camels. Similar findings on multiple drug resis-
+tance of E. coli strains have been reported from Nigeria and
+other parts of the world (Aibinu et al. 2007; Ojo et al. 2009,
+Islam et al. 2016). The high level resistance to tetracycline
+obtained in this study also agrees with the report of Daini
+and Adesemowo 2008, pp. 397–400, who reported resistance
+in 54 and 88% STEC strains against gentamicin and tetracy-
+cline, respectively.
+
+Aibinu et al. 2007, pp. 22–33, also reported 94.4% resis-
+tance to tetracycline in isolates from animals and man. It is
+interesting that isolates from cattle and camels showed resis-
+tance to nalidixic acid and ciprofloxacin which are quinolones
+and fluoroquinolones, respectively, in addition to most of the
+frequently resisted antibiotics such as ampicillin, tetracycline
+trimethoprim and gentamycin.
+
+The high prevalence of antibiotic resistant bacteria in
+Nigeria and other developing countries has been associated
+with several factors including indiscriminate use of antimicro-
+bials due to unregulated access of non-professionals to differ-
+ent classes of antimicrobials over-the-counter (Okeke et al.
+1999; Kabir et al. 2002). Tetracycline is one of the most com-
+monly available antibiotics for use as growth promoter and
+routine chemoprophylaxis in livestock production in our
+country, Nigeria. They are readily available in different dosage
+forms and in combination with other antibiotics and vitamins,
+hence the high levels of resistance observed in this study.
+
+The public health significance of these findings is that an-
+timicrobial resistant bacteria from food animals may colonize
+
+1338
+
+Table 14 Multidrug resistance
+patterns of STEC isolates from
+camels and cattle
+
+Antimicrobials resistance patterns
+
+No. of isolates showing resistance
+
+No. per source
+
+Trop Anim Health Prod (2018) 50:1327–1341
+
+AMP
+TET
+STP
+NAL
+AMP/NAL
+AMP/STP
+AMP/GEN
+AMP/TET
+TET/GEN
+GEN/TMP
+TET/TMP
+TET/STP
+GEN/NAL
+STP/NAL
+AMP/TET/CIP
+AMP/TET/STP
+AMP/TET/NAL
+TET/GEN/TMP
+AMP/STP/CIP
+AMP/GEN/TMP
+AMP/STP/NAL
+TET/GEN/TMP
+AMP/STP/CIP
+AMP/GEN/TMP
+AMP/TET/NAL
+CTX/GEN/STP
+AMP/GEN/STP
+AMP/GEN/STP/TMP
+AMP/TET/GEN/TMP
+AMP/TET/STP/NAL
+AMP/TET/NAL/TMP
+AMP/TET/STP/TMP
+AMP/TET/STP/CIP
+
+n (%)
+
+2 (3)
+3 (4.4)
+1 (1.5)
+1 (1.5)
+7 (10.4)
+2 (3)
+1 (1.5)
+2 (3)
+1 (1.5)
+5 (7.4)
+7 (10.4)
+1 (1.5)
+1 (1.5)
+1 (1.5)
+1 (1.5)
+3 (4.5)
+3 (4.5)
+1 (1.5)
+2 (3)
+2 (3)
+3 (4.5)
+1 (1.5)
+2 (3)
+2 (3)
+3 (4.5)
+1 (1.5)
+3 (4.5)
+3 (4.5)
+1 (1.5)
+2 (3)
+3 (4.5)
+1 (1.5)
+2 (3)
+
+Cattle
+n (%)
+
+–
+
+3 (15)
+1 (5.0)
+1 (5.0)
+1 (5.0)
+–
+–
+–
+–
+
+1 (5.0)
+2 (10)
+1 (5.0)
+1 (5.0)
+1 (5.0)
+1 (5.0)
+1 (5.0)
+–
+–
+
+1 (1.5)
+–
+
+2 (10)
+1 (5.0)
+1 (5.0)
+–
+
+2 (10)
+1 (5.0)
+–
+
+1 (5.0)
+–
+
+1 (5.0)
+–
+–
+
+Camel
+n (%)
+
+2 (4.3)
+–
+–
+–
+
+6 (13.0)
+2 (4.3)
+1 (2.2)
+2 (4.3)
+1 (2.2)
+4 (8.7)
+5 (10.9)
+–
+–
+–
+–
+
+2 (4.3)
+3 (6.5)
+1 (2.2)
+1 (2.2)
+2 (4.3)
+1 (2.2)
+–
+
+1 (2.2)
+2 (4.3)
+1 (2.2)
+–
+
+3 (6.5)
+2 (4.3)
+1 (2.2)
+2 (4.3)
+2 (4.3)
+1 (2.2)
+2 (4.3)
+
+AMP ampicillin 10 μg/disc, TET tetracycline 30 μg/disc, CAZ ceftazidime 10 μg/disc, STP streptomycin 30 μg/
+disc, GEN gentamycin 10 μg/disc, NAL nalidixic acid 30 μg/disc, CRO ceftriaxone 30 μg/disc, CIP ciprofloxacin
+5 μg/disc, CTX cefotaxime 5 μg/disc, CHL chloramphenicol 30 μg/disc, TMP trimethoprim 5 μg/disc
+
+the human population via the food chain by consuming im-
+properly cooked enteral (visceral offal).
+
+In conclusion, the findings of this study showed that more
+STEC isolates came from cattle compare to camels. There was
+significant (P < 0.05) seasonal trend in the prevalence of
+STEC among cattle and camel with more cases recorded dur-
+ing the wet season. Although, the study did not demonstrate
+significant influence of sex from the various sources. The
+serogroups recorded in this study were O157, non-O157 such
+as O26, O91, O103 and O111. This study documented the
+
+prevalent presence of stx2 genes, followed by stx1. Other
+genes detected in this study were eae and ehlyA. The antimi-
+crobial susceptibility study showed high resistance profile to
+the agents tested. However all the 79 isolates were sensitive to
+chloramphenicol, ceftazidime and ceftriaxone. This is the first
+report of a large collection of antimicrobial resistance of
+STEC O157 and non-O157 strains in North Eastern, Nigeria.
+The presence of STEC from faeces of these animals are
+alarm bells indicating food safety problems. We therefore rec-
+ommend improvement in slaughter house hygiene to
+
+Trop Anim Health Prod (2018) 50:1327–1341
+
+1339
+
+minimize the risk of human infections. Furthermore, a system-
+atic research be conducted on the meat of these animals to
+evaluate the level of contamination by STEC.
+
+Acknowledgements The authors are grateful for the technical help ren-
+dered by the staff of Department of Veterinary Microbiology and
+Parasitology, University of Maiduguri, Maiduguri, Borno State.
+
+Author contributions J.A Ameh conceived the idea, M.S. Adamu and
+Y.A. Kwabugge carried out the research, C.I.I. Ugochukwu wrote the
+manuscript while S.I. Idoko, C.I.I. Ugochukwu and N.S. Abubakar did
+the statistical analysis. All authors read and approved the manuscript for
+submission.
+
+Compliance with ethical standards
+
+Conflict of interest The authors declare that they have no conflict of
+interest.
+
+Ethical considerations The ethics governing the use and conduct of
+experiments on animals were strictly observed, and the experimental
+protocol was approved by the University of Maiduguri Senate committee
+on Medical Research ethics. Proper permit and consent were obtained
+from the Maiduguri abattoir management, before the faecal samples of
+the cattle and camels slaughtered in this abattoir were used for this
+experiment.
+
+References
+
+Adamu, M.S., Ugochukwu, I.C.I., Idoko, S.I., Kwabugge, Y.A.,
+Abubakar, N.S. and Ameh, J.A., 2017. Virulent gene profile and
+antimicrobial susceptibility pattern of Shiga toxin-producing
+Escherichia coli (STEC) from humans in Maiduguri, Borno State,
+North-Eastern Nigeria. Comparative Clinical Pathology. doi: https://
+doi.org/10.1007/s00580-017-2597-x
+
+Aibinu, I.E., Peters, R.F., Amisu, K.O. and Adesida S.A., 2007.
+Multidrug Resistance in E. coli O157 Strains and Public Health
+Implication Journal of Animal Science, 3(3), 22–33.
+
+Akter, M.M., Majumder, S., Nazir, K. H. M. N. H. N. and M. Rahman, M.
+2016. Prevalence and molecular detection of shiga toxin producing
+Escherichia coli from diarrheic cattle. Journal of Bangladesh
+Agricultural University, 14(1), 63–68.
+
+Amézquita-López, B. A., Quiñones, B., Lee, B. G. and Chaidez, C.,
+2014. Virulence profiling of Shiga toxin-producing Escherichia coli
+recovered from domestic farm animals in North-western Mexico,
+Frontiers in Cellular and Infection Microbiology, 4, 7.doi: https://
+doi.org/10.3389/fcimb.2014.00007.
+
+Askari, M., Zahraei Salehi, T., Rabbani Khorasgani, M., Tadjbakhsh, H.,
+Nikbakht Brujeni, G. and Nadalian, M. G., 2010. Virulence gene
+profiles and intimin subtypes of Shiga toxin-producing Escherichia
+coli isolated from healthy and diarrhoeic calves, Veterinary Record,
+167, 858–861.
+
+Beco, L., Guaguère, E., Méndez, C.L., Noli, C., Nuttall, T. and Vroom,
+M. 2013. Suggested guidelines for using systemic antimicrobials in
+bacterial skin infections: part 2— antimicrobial choice, treatment
+regimens and compliance. Veterinary Record, 172, 156–160.
+
+Beutin, L., Geier, D., Zimmermann, S., Aleksic, S., Gillespie, H.A.,
+Whittam,T.S., 1997. Epidemiological relatedness and clonal types
+of natural populations of Escherichia coli strains producing Shiga
+toxins in separate populations of cattle and sheep, Applied
+Environmental Microbiology 63, 2175–2180.
+
+Beutin, L., Miko, A., Krause, G., Pries, K., Haby, S., Steege, K., and
+Albrecht, N., 2007. Identification of human-pathogenic strains of
+Shiga toxin-producing Escherichia coli from food by a combination
+of serotyping and molecular typing of shiga toxin genes, Applied
+Environmental Microbiology, 73, 4769–4775.
+
+Blanco, M., Blanco, J.E., Blanco, J., Mora, A., Prado, C., Alonso, M.P.,
+Mourino, M., Madrid, C., Balsalobre, C. and Juarez, A., 1997.
+BDistribution and characterization of faecal verotoxin producing
+Escherichia coli (VTEC) isolated from healthy cattle^, Veterinary
+Microbiology, 54, 309–319.
+
+Blanco, J., Blanco, M., Blanco, J.E., Mora, A., González, E.A.,
+Bernárdez, M.I., Alonso, M.P., Coira, A., Rodriguez, A., Rey, J.,
+Alonso, J.M. and Usera, M.A., 2003. Verotoxin-Producing
+Escherichia coli in Spain: Prevalence, serotypes, and virulence
+genes of O157:H7 and Non-O157 VTEC in ruminants, raw beef
+products, and humans, Experimental Biology and Medicine
+(Maywood), 228(4), 345–351.
+
+Bonanno, L., Loukiadis, E., Mariani-Kurkdjian, P., Oswald, E., Garnier,
+L., Michel, V. and Auvray, F., 2015. Diversity of Shiga toxin-
+producing Escherichia coli (STEC) O26:H11 strains examined via
+stx subtypes and insertion sites of Stx and EspK bacteriophages,
+Applied Environmental Microbiology, 81, 3712–3721.
+
+Bosilevac, J.M., Mustafa, A., Gassem, M.A., Al Sheddy, I.A., Almaiman,
+S.A., Al-Mohizea, I.S., Alowaimer, A. and Koohmaraie, M., 2015.
+Prevalence of Escherichia coli O157:H7 and Salmonella in Camels,
+Cattle, Goats, and Sheep Harvested for Meat in Riyadh. Journal of
+Food Protection, 78 (1), 89–96.
+
+Burnens, A.P., Frey, A., Lior, H. and Nicolet, J., 1995. Prevalence and
+clinical significance of vero-cytotoxin-producing Escherichia coli
+(VTEC) isolated from cattle in herds with and without calf diar-
+rhoea, Journal of Veterinary Medicine B, 42, 311–318.
+
+Caprioli, A., Morabito, S., Brugere, H. and Oswald, E., 2005.
+Enterohaemorrhagic Escherichia coli: emerging issues on virulence
+and modes of transmission. Veterinary Research, 36, 289–311.
+
+CDC, 2018. Escherichia coli. CDC National Center for Emerging and
+Zoonotic Infectious Diseases. https://www.cdc.gov/ecoli/index.
+html. Accessed on 20 February 2018
+
+Cheesbrough, M., 2000. District laboratory practice in tropical countries
+
+(Part 2), Low Price Ed, (Cambridge University Press, UK).
+
+China, B., Pirson, V., Maini, J., 1998. Prevalence and molecular typing of
+attaching and effacing Escherichia coli among calf population in
+Belgium, Veterinary Microbiology, 63, 249–259.
+
+Clinical Laboratory Standard Institute (CLSI)., 2006. Performance stan-
+dards of antimicrobial disc and dilution susceptibility tests for bac-
+teria isolated from animal, approved standard. 3rd edition. 28, 8.
+
+Daini, O.A., Adesemowo, A., 2008. Antimicrobial Susceptibility Patterns
+and R-Plasmids of Clinical strains of Escherichia coli, Australian
+Journal of Basic and Applied Sciences, 2, 397–400.
+
+Das, S. C., Khan, A., Panja, P., Datta, S., Sikdar, A., Yamasaki, S.,
+Takeda, Y., Bhattacharya, S. K., Ramamurthy, T. and Nair, G. B.,
+2005. Dairy farm investigation on Shiga toxin-producing
+Escherichia coli (STEC) in Kolkata, India with emphasis on molec-
+ular characterization. Epidemiology and Infection, 133(4), 617–626.
+Dastmalchi, S.H., Ayremlou, N., 2012. Characterization of Shiga toxin-
+producing Escherichia coli (STEC) in faeces of healthy and diarrhe-
+ic calves in Urmia region, Iran. Iran Journal of Microbiology, 4 (2),
+63–69
+
+EFSA. The community summary report on food-borne outbreaks in the
+European Union in 2007. The EFSA Journal, 2009. http://www.efsa.
+europa.eu/cs. Accessed 11 Nov 2015.
+
+Elder, R. O., Keen, J. E., Siragusa, G. R., Barkocy-Gallagher, G. A.,
+Koohmaraie, M. and Laegreid, W. W. (2000). Correlation of
+enterohemorrhagic Escherichia coli O157 prevalence in faeces,
+hides, and carcasses of beef cattle during processing. Proceedings
+of the National Academy of Sciences of the United States of
+America, 97(7), 2999–3003.
+
+1340
+
+Trop Anim Health Prod (2018) 50:1327–1341
+
+El-Sayed, A., Ahmed, S. and Awad, W., 2008. Do camels (Camelus
+dromedarius) play an epidemiological Role in the spread of Shiga
+toxin producing Escherichia coli (STEC) infection? Tropical Animal
+Health and Production, 40, 469–473.
+
+FAO 1990. Conducting small scale nutrition survey: a field manual.
+Nutrition in Agriculture Series No 5: FAO Rome, Food and
+Agriculture Organization of the United Nations Rome, Italy.
+
+Frank, C., Kapfhammer, S., Werber, D., 2008. Cattle density and Shiga
+toxin-producing Escherichia coli infection in Germany: increased
+risk for most but not all serogroup, Vector Borne Zoonotic
+Diseases, 8(5), 635–643.
+
+Geue, L., Segura-Alvarez, M., Conraths, F.J., Kuczius, T., Bockemuhl, J.,
+Karch, H., Gallien, P., 2002. A long-term study on the prevalence of
+shiga toxin-producing Escherichia coli (STEC) on four German
+cattle farms, Epidemiology and Infection, 129, 173–185.
+
+Gyles, C. L., 2007. Shiga toxin-producing Escherichia coli: an overview,
+
+Journal of Animal Science, 85, E45–E62.
+
+Gyles, C.L. and Fairbrother, J.M., 2004. Escherichia coli. In: Gyles, C.L.,
+Prescott, J.F., Songer, J.G. and C. O. Thoen (eds), Pathogenesis of
+Bacterial Infections in Animals, 3rd edn, Blackwell publishing, New
+Jersey, USA, pp 193–223.
+
+Hassan, J., Parvej, M.S., Rahman, M.B., Khan, M.S.R., Rahman, M.T.,
+Kamal, T. and Nazir, K.H.M.N.H., 2014. Prevalence and character-
+ization of Escherichia coli from rectal swab of apparently healthy
+cattle in Mymensingh, Bangladesh. Microbes Health, 3, 12–14.
+
+Hussein, H.S., 2007. Prevalence and pathogenicity of Shiga toxin-
+producing Escherichia coli in beef cattle and their products,
+Journal of Animal Science, 85, E63-E72.
+
+Islam, M. A., Heuvelink, A.E., Talukder, K.A., Zwietering, M.H. and de
+Boer E., 2006a. Evaluation of immunomagnetic separation and PCR
+for the detection of Escherichia coli O157 in animal faeces and
+meats, Journal of Food Protection, 66:2865–2869.
+
+Islam, M. A., Heuvelink, A.E., Talukder, K.A. and de Boer E., 2006b.
+Immunoconcentration of Shiga toxin-producing Escherichia coli
+O157 from animal faeces and raw meats by using Dynabeads anti-
+E. coli O157 and the VIDAS system, International Journal of Food
+Microbiology, 109, 151–156.
+
+Islam M. A., Mondol, A.S., de Boer, E., Beumer, R.R., Zwietering, M.H.,
+Talukder, K.A and Heuvelink, A.E., 2008. Prevalence and genetic
+characteristics of Shiga toxin-producing E. coli isolates from
+slaughtered animal in Bangladesh. Journal of Applied and
+Environmental Microbiology, 74(17), 5414–5421.
+
+Islam, K., Ahad, A., Barua, M., Islam, A., Chakma, S., Dorji, C., Uddin,
+M.A., Islam, S. and Ahasan, A.S.M.L. 2016. Isolation and epidemi-
+ology of multidrug resistant Escherichia coli from goats in Cox’s
+Bazar, Bangladesh. Journal of Advanced Veterinary and Animal
+Research, 3, 166–172.
+
+Kabir, J., Umoh, U.J. and Umoh, V.J., 2002, A survey of veterinary drug
+use among animal health workers and livestock owners and its im-
+plication in the occurrence and control of drug residues. Sahel
+Journal Veterinary Science, 1, 40–47.
+
+Karmali M. A., Gannon, V. and Sargeant, J. M., 2010. Verocytotoxin-
+producing Escherichia coli (VTEC), Veterinary Microbiology, 140,
+360–370.
+
+Krüger, A., Lucchesi, P.M.A. and Parma, A.E., 2011. BVerotoxins in
+bovine and meat verotoxin-producing Escherichia coli isolates: type,
+number of variants, and relationship to cytotoxicity^, Applied and
+Environmental Microbiology, 77(1), 73–79.
+
+Kudva, I.T., Hatfield, P.G. and Hovde, C.J. 1997. Characterization of
+Escherichia coli O157:H7 and other Shiga toxin- producing E. coli
+serotypes isolated from sheep. Journal of Clinical Microbiology, 35,
+892–899.
+
+Kumarasamy, K.K., Toleman, M.A., Walsh, T.R., Bagaria, J., Butt,
+F., Balakrishnan, R., Chaudhary, U., Doumith, M., Giske, C.K.,
+Irfan, S., Krishnan, P., Kumar, A.V., Maharjan, S., Mushtaq, S.,
+Noorie, T., Paterson, D.L., Pearson, A., Perry, C., Pike, R., Rao,
+
+B., Ray, U., Sarma, J.B., Sharma, M., Sheridan, M.,
+Thirunarayan, M.A., Turton, J., Upadhyay, S.,Warner, M.,
+Welfare, W., Livermore, D.M. and Woodford, N., 2010.
+Emergence of a new antibiotic resistance mechanism in India,
+Pakistan, and the UK: a molecular, biological, and epidemiolog-
+ical study, Lancet Infectious Disease, 10(9), 597–602.
+
+Leomil, L., Aidar-Ugrinovich, L., Guth, B.E.C., Irino, K., Vettorato, M.P.,
+Onuma, D.L. and De Castro, A.F.P., 2003. BFrequency of Shiga
+toxin-producing Escherichia coli (STEC) isolates among diarrheic
+and non-diarrheic calves in Brazil^, Veterinary Microbiology, 97,
+103–109.
+
+Llorente, P., Barnech, L., Irino, K., Rumi, M.V. and Bentancor, A., 2014.
+Characterization of Shiga Toxin-Producing Escherichia coli isolated
+from ground beef collected in different socioeconomic strata mar-
+kets in Buenos Aires. BioMed Research International. https://doi.
+org/10.1155/2014/795104.
+
+Luga, I., Akodu, I., Mhomga, LI., Allam, L., Ajogi, I., Umoh, V.J. and
+Kwaga, J.K.P., 2007. Antimicrobial Resistance of Shiga toxin
+Producing Escherichia coli 0157: NM Isolates from Water Fed to
+Cattle in North-western Nigeria, Asian Journal of Animal and
+Veterinary Advances, 2, 205–211.
+
+Melton-Celsa, A. R., 2014. Shiga Toxin (Stx) Classification, Structure,
+and Function. Microbiology Spectrum, 2(2). https://doi.org/10.
+1128/microbiolspec.
+
+Moore, J. E., McCalmont, M., Xu, J.R., Nation, G., Tinson, A.H. and
+Cartothers, L., 2002. Prevalence of faecal pathogens in calves of
+racing camels (Camelus dromedarius) in the United Arab
+Emirates, Tropical Animal Health and Production, 34(4), 283–287.
+Moses, A.E., Egwu, G.O. and Ameh, J.A., 2012. Antimicrobial resistant
+pattern of E. coli O157 Isolated from human, cattle and surface
+water samples in northeast Nigeria, Journal of Veterinary
+Advances, 2(5), 209–215.
+
+Ogden, I. D., MacRae, M. and Strachan, N.J.C., 2004. Is prevalence and
+shedding of E. coli O157 in beef cattle in Scotland seasonal? FEMS
+Microbiology Letters, 233, 297–300.
+
+Ojo, O. E., Oyekunle, M.A., Ogunleye, A.O. and Otesile, E.B., 2009.
+E. coli 0157:H7 in food animals in part of S/Western Nigeria:
+Prevalence and in vitro antimicrobial susceptibility, Tropical
+Veterinarian, 26, 23–30.
+
+Ojo, O.E., Ajuwape, A.T.P., Otesile, E.B., Owoade, A.A., Oyekunle,
+M.A. and Adetosoye A.I. 2010, Potentially zoonotic shiga toxin-
+producing Escherichia coli serogroups in the faeces and meat of
+food-producing animals in Ibadan, Nigeria, International Journal
+of Food Microbiology, 142 (1–2), 214–221.
+
+Okeke, I.N., Lamikanra, A. and Edelman, R., 1999, Socioeconomic
+and behavioural factors leading to acquired bacterial resistance
+to antibiotics in developing countries, Emerging Infectious
+Diseases, 5(1), 18–27.
+
+Olatoye, I. O., 2010. The incidence and antibiotics susceptibility of
+Escherichia coli O157:H7 from beef in Ibadan Municipal, Nigeria,
+African Journal of Biotechnology, 9, 1196–1199.
+
+Orden, J.A., Ruiz-Santa-Quiteria, J.A., Cid, D., García, S., Sanz, R. and
+de la Fuente R.,1998. Verotoxin producing Escherichia coli (VTEC)
+and eae-positive non-VTEC in 1-30-days-old diarrhoeic dairy
+calves. Veterinary Microbiology, 63(2–4), 239–248.
+
+Parry, S.M., Salmon, R.L., Willshaw, G.A., Cheasty, T., 1998. Risk
+factors for and prevention of sporadic infections with vero cy-
+totoxin (shiga toxin) producing Escherichia coli O157, Lancet,
+351, 1019–1022.
+
+Paton J.C. and Paton, A.W., 1998. Pathogenesis and diagnosis of shiga
+toxin producing E.coli infections. Clinical Microbiology Review,
+11, 450–479.
+
+Persson, S., Olsen, K.E., Scheutz, F., Krogfelt, K.A., Gerner-Smidt, P.,
+2007. A method for fast and simple detection of major
+diarrhoeagenic Escherichia coli in the routine diagnostic laboratory.
+Clinical Microbiology and Infection, 13(5), 516–524.
+
+Trop Anim Health Prod (2018) 50:1327–1341
+
+1341
+
+Pierard, D., D. Stevens, L. Moriau, H. Lior, and S. Lawers (1997).
+Isolation and virulence factors of verocytotoxin-producing
+Escherichia coli in human stool samples. Clinical Microbiology
+and Infection, 3, 531–540.
+
+Rahimi, E., Momtaz, H. and Nozarpour, N., 2010. Prevalence of Listeria
+spp., Campylobacter spp., and Escherichia coli O157:H7 isolated
+from camel carcasses during processing. Bulgaria Journal Veterinary
+Medicine, 13, 179–185.
+
+Reller, L.B., Weinstein, M., Jorgensen J.H., Ferraro M.J., 2009.
+Antimicrobial Susceptibility Testing: A Review of General
+Principles and Contemporary Practices Clinical Infectious
+Diseases, 49(11), 1749–1755.
+
+Rhoades, J.R., Duffy, G. and Koutsoumanis, K. 2009. Prevalence and
+concentration of verocytotoxigenic Escherichia coli, Salmonella
+enterica and Listeria monocytogenes in the beef production chain:
+a review, Food Microbiology, 26(4), 357–76
+
+Rigobelo, E.C. and de Ávila, F.A., 2012. Shiga toxin - Producing
+Escherichia coli from beef carcass. Journal of Microbiology
+Research, 2, 103–107.
+
+Rigobelo, E.C., Gamez, H.J., Marin, J.M., Macedo, C., Ambrosin,
+J.A.and Ávila, F.A., 2006. Virulence factors of Escherichia coli
+isolated from diarrheic calves. Arquivo Brasileiro de Medicina
+Veterinária e Zootecnia, 58(3), 305–310,
+
+Sa’Ayinzat, F. E., Shaibu, S. J. and Tekdek, L.B., 2015. The Earliest
+Occurrence of Escherichia coli in Calves in Zaria, Nigeria,
+International Journal Current Microbiology and Applied Sciences,
+4(6), 218–223.
+
+Savoye, F., Feng, P., Rozand, C., Bouvier, M., Gleizal, A., Thevenot, D.,
+2011. Comparative evaluation of a phage protein ligand assay with
+realtime PCR and a reference method for the detection of
+Escherichia coli O157:H7in raw ground beef and trimmings.
+Journal of Food Protection, 74(1), 6–12.
+
+Sayah, R.S., Kaneene, JB., Johnson, Y. and Miller, R., 2005. Patterns of
+Antimicrobial Resistance Observed in Escherichia coli Isolates
+Obtained from Domestic- and Wild-Animal Fecal Samples,
+Human Septage, and Surface Water, Applied Environmental
+Microbiology, 71(3), 1394–1404
+
+Scheutz, F., Cheasty, T. and Woodward, D., 2004. Designation of O174
+and O175 to temporary O groups OX3 and OX7, and six new E. coli
+O groups that include Verocytotoxin producing E. coli(VTEC):
+O176, O177, O178, O179, O180 and O181, APMIS, 112(9), 569–
+584.
+
+Scheutz, F., Teel, L.D., Beutin, L., Pierard, D., Buvens, G., Karch, H.,
+Mellmann, A., Caprioli, A., Tozzoli, R., Morabito, S., 2012.
+
+Multicenter evaluation of a sequence-based protocol for subtyping
+Shiga toxins and standardizing Stx nomenclature, Journal of Clinical
+Microbiology, 50, 2951–2963.
+
+Schmidt, H., Geitz, C., Tarr, P.I., Frosch, M. and Karch, H., 1999. Non-
+O157:H7 pathogenic Shiga toxin-producing Escherichia coli: phe-
+notypic and genetic profiling of virulence traits and evidence for
+clonality, Journal of Infectious Diseases, 179, 115–123.
+
+Serna, A.T. and Boedeker, E.C., 2008. Pathogenesis and treatment of
+Shiga toxin-producing Escherichia coli infections, Current Opinion
+in Gastroenterology, 2008, 24, 38–47.
+
+Shahrani, M., Dehkordi F.S., Momtaz, H., 2014. Characterization of
+Escherichia coli virulence genes, pathotypes and antibiotic resis-
+tance properties in diarrheic calves in Iran, Biological Research,
+47(28), 1–13.
+
+Shittu, O.B., Nwagboniwe, C.A.K., George, O.O., 2007. Antibiotic
+Resistance patterns of Escherichia Coli isolates from human, pet,
+livestock and poultry living in close contact. ASSET Series B, 6
+(2), 164–170.
+
+Synge, B.A. and Hopkins, G.F., 1994. Studies of Verotoxigenic
+Escherichia coli O157 in cattle in Scotland and association with
+human cases, Elsevier Science (Armstadam), 65–68.
+
+Wells, J. G., Chipman, L.D., Greene, K.D., Sowers, E.G., Green, J.H.,
+Cameron, D.N., Downes, F.P., Martin, M.L., Griffin, P.M., Ostroff,
+S.M., Potter, M.E., Tauxe, R.V. and Wachsmuth, J.K., 1991.
+Isolation of Escherichia coli serotype O157:H7 and other Shiga like
+toxin-producing E. coli from dairy cattle, Journal of Clinical
+Microbiology, 29, 985–989.
+
+WHO. World Health Organization. Zoonotic non-O157 Shiga toxin-
+producing Escherichia coli (STEC). Report of WHO Scientific
+Working Group Meeting, 1998, World Health Organization
+(Geneva, Switzerland).
+
+York, M.K., Rodrigues-Wong, P. and Church, D.L., 2010. Faecal culture
+for aerobic pathogens of gastroenteritis, In: Garcia, L.S. (ed),
+Clinical Microbiology procedures handbook, 3rd ed, ASM Press,
+(Washington, DC), 3811–3851.
+
+Zahraei, S.T., Mahzounieh, M., Asadian, F., Khosravi, M., 2006.
+Virulence genes in Escherichia coli isolates from calves in
+Shahrekord area, Iran; 16th European Congress of Clinical
+Microbiology and Infectious Disease (Nice, France).
+
+Zhang, X.Y., Ding, L.J., Fan, M.Z., 2009. Resistance patterns and detec-
+tion of aac (3)-IV gene in apramycin-resistant Escherichia coli iso-
+lated from farm animals and farm workers in Northeastern China,
+Research in Veterinary Science, 87, 449–454.
+
+

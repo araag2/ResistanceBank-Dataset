@@ -1,0 +1,1486 @@
+Odoch et al. BMC Veterinary Research  (2017) 13:365 
+DOI 10.1186/s12917-017-1291-1
+
+R ES EAR CH A R T I C LE
+Prevalence, antimicrobial susceptibility and
+risk factors associated with non-typhoidal
+Salmonella on Ugandan layer hen farms
+
+Open Access
+
+Terence Odoch1,2*
+Luke Nyakarahuka1,2, Sarah Tegule1 and Eystein Skjerve2
+
+, Yngvild Wasteson2, Trine L’Abée-Lund2, Adrian Muwonge3, Clovice Kankya1,
+
+Abstract
+Background: Non-typhoidal Salmonella (NTS) are among the leading global foodborne pathogens and a significant
+public health threat. Their occurrence in animal reservoirs and their susceptibilities to commonly used antimicrobials
+are poorly understood in developing countries. The aim of this study was to estimate the prevalence, determine
+antimicrobial susceptibility and identify risk factors associated with NTS presence in laying hen farms in Uganda
+through a cross-sectional study.
+Results: Pooled faecal samples were collected from 237 laying hen farms and these were analysed for NTS following
+standard laboratory procedures. In total, 49 farms (20.7%; 95% Confidence interval (CI): 15.6–25.6%) were positive for
+NTS presence. Altogether, ten Salmonella serotypes were identified among the confirmed 78 isolates, and the predominant
+serotypes were Salmonella Newport (30.8%), S. Hadar (14.1%), S. Aberdeen (12.8%), S. Heidelberg (12.8%), and S. Bolton (12.
+8%). Phenotypic antimicrobial resistance was detected in 45(57.7%) of the isolates and the highest resistance was against
+ciprofloxacin (50.0%) followed by sulphonamides (26.9%) and sulphamethoxazole/trimethoprim (7.7%). Resistance was
+significantly associated with sampled districts (p = 0.034). Resistance to three or more drugs, multi-drug resistance (MDR)
+was detected in 12 (15.4%) of the isolates, 9 (75%) of these were from Wakiso district. A multivariable logistic model
+identified large farm size (OR = 7.0; 95% CI: 2.5–19.8) and the presence of other animal species on the farm (OR = 5.9;
+95% CI: 2.1–16.1) as risk factors for NTS prevalence on farms. Having a separate house for birds newly brought to the
+farms was found to be protective (OR = 0,4; 95% CI: 0.2–0.8).
+Conclusion: This study has highlighted a high prevalence and diversity of NTS species in laying hen farms in Uganda
+and identified associated risk factors. In addition, it has demonstrated high levels of antimicrobial resistance in isolates
+of NTS. This could be because of overuse or misuse of antimicrobials in poultry production. Also importantly, the insights
+provided in this study justifies a strong case for strengthening One Health practices and this will contribute to
+the development of NTS control strategies at local, national and international levels.
+Keywords: Non-typhoidal Salmonella, Antimicrobial susceptibility, Risk factor, Layer hens, Prevalence
+
+Background
+Non-typhoid Salmonella (NTS) is one of the leading
+bacterial causes of
+food-borne illnesses, posing huge
+challenges to public health systems around the world
+
+* Correspondence: odoch@covab.mak.ac.ug; odochterence@gmail.com
+1Department of Bio-security, Ecosystems and Veterinary Public Health,
+College of Veterinary Medicine, Animal Resources and Biosecurity (COVAB),
+Makerere University, Kampala, Uganda
+2Department of Food Safety and Infection Biology, Faculty of Veterinary
+Medicine, Norwegian University of Life Sciences (NMBU), Oslo, Norway
+Full list of author information is available at the end of the article
+
+[1–3]. A recent estimate of the global burden of NTS
+morbidity and mortality showed that enteric NTS cause
+93.8 million illnesses with 155,000 deaths annually, while
+invasive NTS were estimated to cause 3.4 million cases
+with 681,316 deaths annually [4–6]. African countries
+have a relatively low level of reported NTS gastroenter-
+itis, but a much higher level of invasive non-enteric NTS
+infections, estimated at 227 cases per 100,000 persons
+per year compared to the global average of 49 cases per
+100,000 persons per year
+[4]. This distribution of
+
+© The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Odoch et al. BMC Veterinary Research  (2017) 13:365 
+
+Page 2 of 10
+
+salmonellosis makes Africa the leading continent with
+invasive non-enteric NTS cases accounting for more
+than half of the global cases [4]. In humans, many of the
+gastroenteric infections caused by NTS are self-limiting,
+and thus, many sporadic cases go unnoticed and/or
+unreported. However, a serious aspect of this situation is
+that some of the gastroenteric infections may develop
+into bacteraemia, which is an emerging opportunistic in-
+fection in individuals infected with HIV, the elderly and
+in children [7, 8].
+
+The reservoirs of food-borne NTS are often located in
+the primary food animal production. Many of these zoo-
+notic NTS are able to colonize the intestinal tract of a
+variety of animal species, and in most of these cases, the
+animals are healthy and asymptomatic. Faecally contami-
+nated foodstuffs like meat, eggs, dairy products and
+sometimes vegetables are the main sources of salmonel-
+losis in humans [2, 3, 9, 10]. The dissemination of NTS
+is also a growing concern due to increasing cases of drug
+resistant isolates and their frequent carriage of transmis-
+sible antimicrobial resistance genes. Even more worrying
+is the rising occurrence of multidrug-resistant NTS, in-
+cluding cases reported in some African countries [5, 11].
+Because of multidrug-resistance, treatment with first line
+drugs is often no longer an alternative, and this puts
+pressure on the use of second or third line drugs. Some
+limited studies in Africa on antimicrobial resistance in
+NTS isolates from animal sources have been undertaken,
+but with varying results [11–13].
+
+[18].
+
+zoonotic pathogens
+
+factors and the environment
+
+Many prevalence and risk factor studies of NTS in
+layer and broiler populations have been conducted in
+the USA and Europe [14–17]. A systematic review of
+risk factors associated with laying hen farms identified
+multiple risk factors related to biosecurity measures,
+management
+In
+addition, developed countries have put in place monitor-
+ing and surveillance systems for antimicrobial resistance
+targeting important
+like NTS.
+Unfortunately, such systematic surveillance neither exist
+for NTS nor other food-borne pathogens in most devel-
+oping countries, including Uganda [19]. Consequently,
+the role of poultry as a reservoir and source of NTS in
+developing countries is poorly understood. Furthermore,
+the development of antibiotic resistance of NTS to com-
+monly used antibiotics in agricultural production needs
+prompt
+investigation, commencing with susceptibility
+testing. The significant data gaps in developing countries
+hinder development of effective control systems and
+risk-mitigation strategies at multiple levels.
+
+Since most human NTS infections originate from ani-
+mal sources, prevention and control at pre-harvest level
+in the primary production units is an effective way to
+minimize NTS dissemination and transmission to
+humans through the food chains [20–22]. The aim of
+
+this study was to estimate the prevalence, test antimicro-
+bial susceptibility and identify risk factors of NTS using
+production and management information from a sample
+of commercial laying chicken farms.
+
+Methods
+Study area and recruitment of farms
+The study was carried out between June 2015 and Au-
+gust 2016 in the districts of Wakiso, Masaka and Lira in
+Uganda. Wakiso district (00°24′N, 32° 29′E) and Masaka
+district (00° 30′S, 31° 45′E) are located in the central re-
+gion of Uganda, while Lira district is located in northern
+region of Uganda (02°20′N, 33°06′E). These districts
+were purposively selected because of their high commer-
+cial poultry households that make them the hub of
+poultry industry in Uganda. The sampling frame was
+generated from a list of farmers participating in National
+Agricultural Advisory Services (NAADS) program in the
+three selected districts of Uganda. In Uganda, the major-
+ity of poultry farmers are smallholders, and therefore the
+inclusion criterion was that for a farm to participate, it
+should have a minimum number of 50 chicken. A sam-
+ple size calculator, FreeCalc sample size calculation for
+imperfect tests (www.epitools.ausvet.com.au, accessed on
+3rd, June, 2015) was used. The required sample size for
+demonstrating disease freedom was calculated as previ-
+ously described [23, 24]. The calculator had the follow-
+ing input; population size (Masaka = 147, Lira = 145,
+Wakiso = 77), sensitivity (60%), specificity (100%), design
+prevalence (5%), and the desired type 1 and type 2 errors
+were all assumed at 0.05. Because of small populations,
+the modified hypergeometric option was used. A total
+sample size of 237 (Masaka = 85, Lira = 84, Wakiso = 68)
+was
+individual districts. Computer-
+generated random numbers were used to select farms.
+After selection,
+farmers (respondents) were asked for
+their cooperation and willingness to participate, and
+after that a verbal consent was obtained. Those who
+were not willing to participate were replaced by random
+selection of others from the same list. Questionnaires
+were administered to all participating farms and faecal
+samples were taken for bacteriological analysis.
+
+calculated for
+
+Sample collection
+Flocks and poultry house sizes varied a lot in the study
+areas; and because of this, the sampling scheme was
+standardized. In cases where a farm had more than one
+poultry house, but with the same age group of birds in
+each house, one house was randomly selected and sam-
+pled. On the other hand, if a farm had more than one
+house but with different age groups, all the houses were
+sampled. Each house was divided into sectors of about
+5 m by 5 m (25 m2), an approach adapted from previous
+studies [25, 26]. One sample was collected from each
+
+Odoch et al. BMC Veterinary Research  (2017) 13:365 
+
+Page 3 of 10
+
+sector using sterile gloves and boot swabs. The samples
+from each house were pooled together, transferred to a
+properly labelled sterile container and put in a cool box
+with ice packs. The samples were transported to the
+laboratory within less than 8 h and processing began
+immediately. All flocks were sampled once.
+
+Bacterial diagnostics and identification of Salmonella
+serotypes
+Culture and isolation of Salmonella spp. followed stand-
+ard procedures according to ISO 6579:2002/Amd 1:2007
+Annex D: Detection of Salmonella spp. in animal faeces
+and in environmental samples from the primary production
+[27]. Briefly, pooled samples were homogenized, 25 g
+weighed and added to 225 ml of Buffered Peptone Water
+(BPW) for pre-enrichment and incubated for 20 h at
+37 °C. The culture obtained was subjected to selective
+Modified Semisolid Rappaport Vassiliadis (MSRV) agar
+plates and incubated at 41.5 °C for 24–48 h. One colony
+from each culture indicative of NTS was further plated
+on selective Xylose Lysine Deoxycholate (XLD) agar and
+incubated at 37 °C for 24 h. Presumptive NTS colonies
+were stored at −20 °C in Mueller-Hinton agar. The sam-
+ples were later transported to Norway where they were
+sub-cultured on blood agar plates and stored at 4 °C.
+Biochemical confirmatory tests were done by using the
+API-20E (BioMerieux, Marcy l’Etoile, France) identifica-
+tion system. All isolates were serotyped according to the
+Kauffman–White–Le–Minor technique [28] at the Nor-
+wegian Veterinary Institute.
+
+Antibiotic susceptibility testing
+Antibiotic susceptibility testing of all identified isolates was
+performed on 13 antibiotics (NEO-SENSITABS™, Rosco,
+Denmark) using the standard Kirby-Bauer disk diffusion
+methods on Muller-Hinton agar. Interpretation of sensitive
+(S), intermediate (I) or resistant (R) was done according to
+Clinical and Laboratory Standards Institute [29], except for
+ciprofloxacin (CIPR1μg) which was interpreted using CLSI
+[30]. The 13 antibiotics were selected based on the com-
+mon antibiotics used in Uganda and those recommended
+by World Health Organization (WHO) for routine inte-
+grated antimicrobial resistance monitoring [31]. These
+were gentamycin (GEN10μg), sulfonamide (SULFA240μg),
+trimethoprim-sulfamethoxazole (SxT 25 μg), ciprofloxacin
+(CIPR1μg), cefotaxime (CTX 30 μg), meropenem (MPR
+10 μg), chloramphenicol (CLR30μg), ceftazidime (CAZ30
+μg), ampicillin (AMP10μg), amoxycillin clavulanic acid
+(AMC30μg), trimethoprim (TRIM5μg), tetracycline (TET
+30μg), and enrofloxacin (ENROF10μg). Escherichia coli
+ATCC 25922 was used as quality control. NTS isolates
+showing resistance to three or more antibiotics were classi-
+fied as multidrug-resistant.
+
+Questionnaire administration
+All questionnaires were directly administered onsite
+after pre-testing. Pre-testing of the questionnaire was
+done by three trained research assistants in neighbour-
+ing districts of Kampala and Mukono in central Uganda
+and Kole in northern Uganda. These districts have simi-
+lar production and management systems to the study
+districts. After pre-testing, the research team reviewed
+the questionnaires before final administration. The final
+questionnaire had 80% close-ended questions and was
+used to collect variables to determine risk factors. The
+questionnaires collected information on general
+farm
+management practices
+and characteristics, disease
+prevention, control and management as well as demo-
+graphic data of the farmers and managers. The question-
+naire was written in English, but the research assistants
+would determine whether the respondent was compe-
+tent in English or not. Where the respondent was not
+competent
+the research assistant would
+translate in the local language of Luganda (in the case of
+Wakiso and Masaka districts) and Lwo (in the case of
+Lira district). The selected households were identified
+with the help of the local veterinary personnel and chair-
+persons of local council one. Local council one is the
+smallest administrative unit in Uganda. Data entry was
+done by a trained assistant at the College of Veterinary
+Medicine, Animal Resources and Biosecurity, Makerere
+University, Kampala, Uganda.
+
+in English,
+
+Data management and analysis
+After establishing the database, data were exported to
+the Statistical Package for Social Scientists (SPSS, ver-
+sion 20) computer program for further data analyses. A
+farm was considered positive if one of the pooled faecal
+samples taken tested positive for NTS. An initial de-
+scriptive statistics using tables and chi-square testing
+was performed to assess the association of each variable
+independently. This was followed by a multivariable
+logistic model built based upon variables with p-values
+< 0.20 in the initial analyses. All candidate variables were
+tested for collinearity with other variables using tabula-
+tion, and if collinearity was found, the most biologically
+relevant variable was chosen. The model was built utiliz-
+ing a backward selection among the candidate variables
+(p < 0.20 from initial analyses) strategy using the Likeli-
+hood Ratio test with for comparing models [32]. The
+final model was assessed for fit using the Hosmer-
+Lemeshow test [33].
+
+Results
+Number of samples, NTS prevalence and serotypes
+A total of 237 farms participated in the study (Wakiso,
+n = 68; Lira, n = 84; Masaka, n = 85). Sampling according
+to the standardized sampling scheme resulted in 366
+
+Odoch et al. BMC Veterinary Research  (2017) 13:365 
+
+Page 4 of 10
+
+pooled samples from the 237 farms. Of the 237 farms,
+49 (20.7%; 95% CI = 15.6,-25.6%) were positive for NTS.
+Salmonella isolates were recovered from 78 of the 366
+samples (21.3%).
+
+Ten Salmonella serotypes were identified from the 78
+isolates recovered (Table 1). Of the 49 NTS-positive
+farms, five farms were contaminated with two different
+serotypes. All these farms had three or more poultry
+houses and the serotypes were from different houses.
+The farms were from the two districts of Wakiso and
+Masaka representing the central part of Uganda.
+
+Antimicrobial susceptibility of NTS
+Forty five, 57.7% (95% CI: 47.4–67.9%) of the 78 isolates
+were resistant to at least one antibiotic in the disc diffusion
+test. Resistance varied significantly by district (p = 0.034);
+highest in Wakiso with 75.9% of the isolates from the
+district resistant to at least one of the tested antibiotics;
+this was followed by Lira with 52.0% and Masaka with
+41.7% of the isolates resistant. The highest resistance was
+against ciprofloxacin (50.0% of the isolates) followed by
+sulphonamide
+sulfamethoxazole/trimethoprim
+(7.7%), trimethoprim (7.7%), and tetracycline (5.1%), then
+ampicillin (5.1%), chloramphenicol (5.1%), and enrofloxa-
+cin (5.1%). All the isolates were susceptible to meropenem,
+gentamycin, amoxicillin-clavulanic acid, ceftazidime, and
+cefotaxime. Multidrug-resistance was seen in 12 (15.4%) of
+the isolates and five multidrug-resistant phenotypes were
+identified (Table 2).
+
+(26.9%),
+
+Factors associated with NTS
+Some key demographic factors,
+farm management,
+disease prevention and control practices showing sig-
+nificant association with the prevalence of NTS on
+farms are presented in Table 3. These were included
+as candidate variables for the multivariable logistic
+model (insert Table 3).
+
+Table 1 Distribution of NTS serotypes in layer hen farms in
+Uganda
+Serotype
+
+Number
+of farms
+13
+
+Percentage (%) of
+positive farms
+26.5
+
+Percentage (%) of
+farms investigated
+5.5
+
+S. Newport
+S. Hadar
+S. Aberdeen
+S. Heidelberg
+S. Bolton
+S. Enteritidis
+S. Mbandaka
+S. Kampala
+S. Typhimurium
+S. Uganda
+
+7
+
+10
+
+7
+
+6
+
+4
+
+3
+
+2
+
+1
+
+1
+
+3.0
+
+20.4
+
+3.0
+
+6.0
+
+8.2
+
+6.1
+
+4.1
+
+2.0
+
+2.0
+
+3.0
+
+4.2
+
+3.0
+
+2.5
+
+1.7
+
+1.3
+
+0.8
+
+0.4
+
+0.4
+
+A final multivariable logistic model
+
+identified some
+risk factors for presence of Salmonella spp. (Table 4).
+Due to collinearity between some variables,
+type of
+poultry house and number of houses were dropped (col-
+linear with farm size). Having a written biosecurity plan,
+and having a separate house for sick birds were also
+dropped (collinear with having a separate house for new
+chicken). The final multivariate logistic model found that
+larger farms had significantly more NTS. Similarly, pres-
+ence of other livestock species like cattle, goats, sheep,
+pigs were significantly associated with presence of NTS
+(Table 4). Another variable that came out to be associ-
+ated with presence of NTS was keeping of records. On
+the other hand, the use of separate houses for birds
+newly brought into the farms reduced the probability for
+presence of NTS. The model fit was, however, limited,
+as shown by the Hosmer Lemeshow test (p < 0.05).
+
+Discussion
+This study represents, to our knowledge, the first esti-
+mate of the prevalence of NTS in laying hen farms in
+Uganda. NTS prevalence was estimated at 21% of the
+identified. High
+farms with ten different
+phenotypic resistance
+found
+among the isolates with almost 58% of the isolates found
+resistant. In this study, the logistic regression model
+identified large farm size, presence of other poultry, and
+keeping of records as factors associated with occurrence
+of NTS in Uganda.
+
+to antimicrobials was
+
+serotypes
+
+NTS prevalence of 21% is not surprisingly high consid-
+ering how the poultry industry operates in the country,
+where disease control efforts are poor and deficient. In
+Uganda, chickens are not vaccinated against NTS. The
+available vaccines is for fowl typhoid targeting Salmonella
+Gallinarum and the protocol used is not ideal for identifi-
+cation of S. Gallinarum. Vaccinations of poultry in Uganda
+are not mandatory. Most commercial
+layer hen farms
+include fowl typhoid vaccinations in their routine vaccin-
+ation schedules. A similar study in Senegal reported detec-
+tion of NTS in faecal samples in 35.1% of farms [34] and
+in Nigeria, a related study reported isolation of NTS in
+
+Table 2 Multidrug resistant profiles of NTS isolates from Wakiso,
+Lira and Masaka districts, Uganda 2017
+Serotype
+
+Resistance profile
+
+No of
+isolates
+1
+
+District where isolates
+were recovered
+Lira
+
+Masaka (2), Wakiso (2)
+
+SULFA, TRIM, SxT
+
+S. Bolton
+CIPR, SULFA, TET
+S. Mbandaka CIPR, CLR, AMP
+S. Hadar
+S. Hadar
+S. Newport
+AMP Ampicillin, CIPR Ciprofloxacin, CLR Chloramphenicol, ENROF Enrofloxacin,
+SULFA Sulphonamides, SxT Sulfamethoxazole-trimethoprim, TET Tetracycline,
+TRIM Trimethoprim
+
+CIPR, SULFA, TET, ENROF 1
+
+CIPR, SUL, TRIM, SxT
+
+Wakiso
+
+Wakiso
+
+Wakiso
+
+4
+
+4
+
+2
+
+Odoch et al. BMC Veterinary Research  (2017) 13:365 
+
+Page 5 of 10
+
+Table 3 Key demographic factors, disease management practices and farm characteristics associated with the prevalence of
+Salmonella, with p-values from simple chi-square analyses
+Variable
+Sex of farmer
+
+Salmonella positive farms (%)
+31 (28.7)
+
+p-value
+0.004
+
+< 0.001
+
+0.001
+
+0.012
+
+< 0.001
+
+< 0.001
+
+< 0.001
+
+0.031
+
+0.029
+
+0.034
+
+< 0.001
+
+0.097
+
+Sex of manager
+
+Age of the manager
+
+Education level of the farmer
+
+Farm size (no. of birds)
+
+Number of poultry houses
+
+Management system
+
+Use of protective clothing
+
+Who does vaccination
+
+Reuse of egg trays
+
+Who treats the birds
+
+Presence of other livestock
+
+Category
+Male (n = 108)
+Female (n = 129)
+Male (n = 85)
+Female (n = 115)
+Not applicable (n = 37)
+< 20 years (n = 5)
+20–35 years (n = 103)
+36–50 years (n = 85)
+> 50 years (n = 35)
+Missing (n = 9)
+Primary (n = 44)
+Secondary (n = 76)
+Tertiary (n = 102)
+Missing (n = 15)
+Small (50–500) (n = 162)
+Medium (501–1000) (n = 33)
+Large (> 1000) (n = 38)
+Missing (n = 4)
+One house (n = 135)
+Two houses (n = 45)
+Three houses (n = 32)
+> 3 houses (n = 25)
+Free range (n = 47)
+Semi intensive (n = 90)
+Intensive (n = 98)
+Others (n = 2)
+Yes (n = 136)
+No (n = 99)
+Missing (n = 2)
+Private (n = 88)
+Self/family (n = 136)
+Employee (n = 9)
+Missing (n = 4)
+Yes (n = 105)
+No (n = 119)
+Missing (n = 13)
+Self (n = 155)
+Government/Animal Health Worker (n = 11)
+Private/Animal Health worker (n = 52)
+Missing (n = 19)
+Present (n = 101)
+Not present (n = 136)
+
+18 (14.0)
+
+27 (31.89)
+
+12 (10.4)
+
+4 (80.0)
+
+18 (17.5)
+
+23 (27.1)
+
+3 (8.6)
+
+5 (11.4)
+
+12 (15.8)
+
+31 (30.4)
+
+19 (11.7)
+
+14 (42.4)
+
+14 (36.8)
+
+12 (8.9)
+
+8 (17.8)
+
+21 (65.6)
+
+8 (32.0)
+
+2 (4.3)
+
+11 (12.2)
+
+35 (35.7)
+
+35 (25.7)
+
+14 (14.1)
+
+19 (21.6)
+
+25 (18.4)
+
+5 (55.6)
+
+29 (27.6)
+
+19 (16.0)
+
+22 (14.2)
+
+0 (0.0)
+
+24 (46.2)
+
+26 (25.7)
+
+23 (16.9)
+
+Odoch et al. BMC Veterinary Research  (2017) 13:365 
+
+Page 6 of 10
+
+Table 3 Key demographic factors, disease management practices and farm characteristics associated with the prevalence of
+Salmonella, with p-values from simple chi-square analyses (Continued)
+Variable
+Having a separate house for new birds
+
+Salmonella positive farms (%)
+24 (17.6)
+
+Category
+Yes (n = 136)
+No (n = 97)
+Missing (n = 4)
+Burying (n = 109)
+Burning (n = 17)
+Throw away (n = 45)
+Giving to animals (dogs and pigs) (n = 32)
+Drop in a pit (n = 24)
+Missing (n = 10)
+Yes (n = 137)
+No (n = 99)
+Missing (n = 1)
+Dogs (n = 62)
+Cats (n = 24)
+Both dogs and cats (n = 51)
+Yes (n = 153)
+No (n = 80)
+
+25 (25.8)
+
+21 (19.3)
+
+12 (70.6)
+
+9 (20.0)
+
+4 (12.5)
+
+3 (12.5)
+
+35 (25.5)
+
+14 (14.1)
+
+20 (32.3)
+
+0 (0.0)
+
+15 (29.4)
+
+43 (28.1)
+
+5 (6.2)
+
+p-value
+0.134
+
+< 0.001
+
+0.025
+
+0.006
+
+< 0.001
+
+Disposal of dead birds
+
+Keeping of pets
+
+If yes, species of pets
+
+Keeping of records
+
+12.5% of poultry droppings [35]. A more recent study in
+Nigeria by Fagbamilla et al. [36] estimated NTS prevalence
+of 43.6% in commercial poultry farms. In Algeria, a study
+in laying hen flocks by Bouzidi et al. [37] found that eight
+out 18 flocks were contaminated with NTS.
+
+The identification of ten different serotypes can be
+regarded as a manifestation of the heterogeneous reser-
+voirs and sources of NTS contamination. S. Newport was
+the most prevalent serotype, compared to the more com-
+monly reported S. Enteritidis and S. Typhimurium in
+poultry isolates [37–40]. All the NTS serotypes identified
+in this study are zoonotic, and are known to have caused
+human disease outbreaks elsewhere. Consequently, this
+high prevalence of zoonotic NTS in the poultry reservoir
+constitutes a public health threat. S. Typhimurium, S.
+Newport, S. Hadar and S. Heidelberg have also been re-
+ported by Centers for Disease Control and Prevention
+(CDC) as the most threatening serotypes to public health
+because of their association with multidrug-resistance
+[41]. S. Mbandaka has been reported in many poultry
+
+products across the world [41–45]. A recent publication
+by Afema et al. [40] reported detection of mainly S. Ken-
+tucky, S. Heidelberg, S. Enteritidis, S. Typhimurium, and
+S. Virchow from poultry faeces. Also another study by
+Ikwap et al. [46] reported most of the serotypes of this
+study in isolates from piggeries in Uganda.
+
+Studies of antibacterial susceptibility in NTS from Af-
+rican countries show highly variable results. An occur-
+rence of almost 58% of isolates resistant to at least one
+antibiotic, is higher than what was reported in a similar
+study in Chad, that found overall resistance to 16 antibi-
+otics tested at 33% [13]. However, it is lower compared
+to a study in Sudan that reported antibiotic resistance in
+NTS isolates at 98% [47] and similar to a more recent
+one in Ghana that reported resistance at 60.6% [48]. In
+Ethiopia, a study on NTS isolates from dairy cattle by
+Eguale et al. [49] found resistance at 30%. This high level
+of resistance could be associated with overuse and mis-
+use of antibiotics in poultry farming. The significantly
+higher resistance level of NTS from Wakiso, which is
+
+Table 4 Results from multivariable logistic regression showing identified factors associated with Salmonella spp. prevalence, with
+odds ratios with 95% Confidence Interval (CI) and corresponding p-values for the variables
+Variable
+Farm size (no. of birds)
+
+Level
+Medium vs small
+
+Odds Ratio
+7.0
+
+Presence of other animal species
+
+Houses for new birds
+
+Records
+
+Large vs small
+
+Present vs absent
+
+Present vs absent
+
+Present vs absent
+
+5.9
+
+5.0
+
+0.4
+
+6.7
+
+95% CI
+2.5–19.8
+2.1–16.1
+2.1–16.1
+0.2–0.8
+2.2–20.2
+
+p-value
+< 0.001
+
+0.001
+
+< 0.001
+
+0.014
+
+0.001
+
+Odoch et al. BMC Veterinary Research  (2017) 13:365 
+
+Page 7 of 10
+
+the immediate district surrounding the capital Kampala
+should be of concern. Kampala is the biggest hub of
+trade and movements of people, animals and animal
+products in the country, and resistant bacteria can po-
+tentially spread from here to all regions in the country.
+
+Multidrug-resistance was seen in S. Bolton, S. Mban-
+daka, S. Hadar, and S. Newport isolates. High levels of
+multidrug-resistance have been reported elsewhere in
+Africa [11, 12, 48, 50]. The bacteria expressing resistance
+towards antimicrobials of which some are commonly used
+in humans and animals exposes a daunting challenge. In-
+creasing development of antimicrobial resistance against
+commonly used drugs like ciprofloxacin, tetracyclines,
+sulphonamides
+sulfamethoxazole_trimethoprim (co-tri-
+moxazole) in Uganda poises a great threat to public health
+and economy. Tetracyclines and sulphonamides are
+among the most widely used drugs for treatment and
+prophylaxis in food animals [51]. Increasing resistance
+toward these antimicrobials will render them less available
+leaving farmers with no cheaper options. In Uganda, cip-
+rofloxacin is not licensed for use in poultry production,
+but is widely used for treatment of many human infec-
+tions,
+including salmonellosis. The mechanisms behind
+the observed high resistance to ciprofloxacin in this study
+needs to be investigated.
+
+Resistance to sulfamethoxazole-trimethoprim (co-tri-
+moxazole) was also seen in this study. Co-trimoxazole is a
+drug that is used in Uganda for controlling opportunistic
+infections in persons living with HIV/AIDS [52, 53]. This
+causes concern as many of these patients will succumb to
+opportunistic infections [52–54] and also considering that
+most patients cannot afford other options of antimicrobials.
+All
+isolates were susceptible to the extended-spectrum
+beta-lactams (meropenem, cefotaxime, ceftazidime) that
+were tested. Efforts should be put in place to maintain this
+status. Strategies to reduce antimicrobial resistance in
+Ugandan farm settings should focus on improving manage-
+ment, biosecurity, and sensitization of key stakeholders
+such as farmers, farm workers, policy makers, drug dealers,
+animal health workers and veterinarians.
+
+At univariate analysis, a number of demographic farm
+management and production variables were associated
+with occurrence of NTS on farms. The final logistic regres-
+sion model built identified large farm size, presence of
+other poultry species, and keeping of records as factors
+associated with NTS in Uganda. The final model was also
+tested for the random effect of village to assess the degree
+of
+independence. While initial analyses indicated that
+village had some effect, the final model revealed no such
+effect – indicating that the factors found were stable across
+the study districts. A large farm was one of the risk factors
+associated with NTS determined by the model. This is in
+concordance with the fact that farm size has been signifi-
+cantly associated with presence of NTS in studies
+
+conducted in Britain [26], Trinidad and Tobago, Grenada,
+and St. Lucia [55], France [15, 56] and Belgium [57]. A pre-
+vious study of presence of NTS in layer and broiler flocks
+in the Kampala region in Uganda by Nasinyama et al. [58]
+identified bird type, flock size and downtime as significant
+risk factors. In the Ugandan setting, bigger farms tend to
+attract many activities; visitors and the obtaining of feeds,
+feed ingredients, chickens and other supplies from mul-
+tiple sources, many of which informal and unregulated.
+Under these situations with low biosecurity practices,
+keeping adequate hygiene standards can be difficult. In
+addition, most routine operations like mixing of feeds,
+feeding of birds, watering and vaccinations are manual re-
+quiring many workers, some of them coming from outside
+the farms. Some farms have a limited workforce and are
+therefore less effective in keeping high standards of routine
+hygienic practices. All these factors can be further compli-
+cated by farms experiencing erratic outage of power and
+water supplies. As a range of management factors are re-
+lated to farm size, we may not have identified the most
+biologically important causal factors.
+
+The current study identified presence of other animal
+species as another risk factor for NTS. When present on
+farms, other animal species will most likely share water
+feeds and space with the chicken and thereby increasing
+the opportunities for the spread of the bacteria due to
+direct or indirect contacts. The other animal species
+may be reservoirs of NTS and thus, contribute to the
+maintenance of high prevalence of NTS at a farm.
+
+Surprisingly, keeping records emerged as a factor in-
+creasing the risk of infection. This could be because in
+Uganda record keeping is poor among smallholder
+farmers, and this study found a significant association of
+NTS with large farms. Keeping records is therefore prob-
+ably correlating with large farms. It remains open if this
+variable should be in the model, but leaving out this vari-
+able did not affect the estimates for the other variable
+much. The variable is therefore not considered to be a
+confounder, but it may perhaps represent other factors.
+
+Having separate housing for birds newly introduced in
+the farm was associated with lower levels of NTS. The
+lower level of NTS in farms using separate houses for new
+chicken is as expected and may represent other factors re-
+lated to general hygiene, potentially reducing the risk of
+introduction and maintenance of NTS at farms. Normally
+housing new birds separately provides an opportunity to
+observe and provide timely treatment before they are
+released to mix with other birds on the farms.
+
+The prevalence estimate in the current study is associ-
+ated with several uncertainties. The study was a cross-
+sectional study including only one sampling occasion
+per farm. Depending on the infection levels, it is possible
+that in some farms a small proportion of birds shed
+NTS in faeces and this is normally intermittent [59].
+
+Odoch et al. BMC Veterinary Research  (2017) 13:365 
+
+Page 8 of 10
+
+this
+
+Consequently, the prevalence and number of NTS in
+faecal droppings may therefore change over time and
+analysis of
+requires a longitudinal monitoring
+scheme. The sampling of faecal droppings only, in order
+to determine the presence or absence of NTS, may be a
+limiting factor as NTS in farm settings can be carried in
+litter, feeds and water as well. However, pooled faecal
+and environmental sampling of poultry houses is still
+better than sampling individual birds for detection of
+NTS on farms as reported in previous studies [60, 61].
+In addition, this study targeted commercial egg laying
+farms who are registered, and yet a lot of farmers are
+not registered with NAADS. However, these results pro-
+vide an important insight into the occurrence of NTS in
+Ugandan poultry, particularly in the absence of previous
+similar studies. In this study, data on the sources of day
+old chicks were not captured and this could be included
+in future studies of NTS in Uganda as sources of day old
+chicks are potential risk factors for Salmonella.
+In
+addition, the sampling strategies limited identification of
+more than one serotype in small farms with only one
+house as only one sample was taken and one colony was
+picked for serotyping.
+
+Conclusions
+A high prevalence and high levels of antimicrobial
+resistant NTS in commercial laying chicken farms in
+Uganda was revealed in this study. Large farms and
+presence of other animal species at the farm were iden-
+tified as risk factors for NTS. Both these risk factors are
+associated with
+challenges. Although
+limited, this study should pave way for informing the
+establishment of proper NTS control systems based on
+empirical scientific evidence.
+
+biosecurity
+
+Further characterization of NTS from the poultry res-
+ervoir that is documented through the present work will
+be necessary in order to elucidate the transmission dy-
+namics and dissemination of these important zoonotic
+bacteria. Particular emphasis needs to be given to the
+determination of antimicrobial resistance genes and their
+mobility in future studies.
+
+Additional file
+
+Additional file 1: Questionnaire used for study data collection.
+(DOCX 33 kb)
+
+Acknowledgements
+The authors thank all farmers, farm managers, district authorities and
+research assistants for their various contributions including their valuable
+time and knowledge. We are equally very grateful for the support from the
+researchers and technicians at the Department of Food Safety and Infection
+Biology at NMBU, particularly Toril Lindbäck and Kristin O′ Sullivan. We would
+like to acknowledge Nasinyama George of Kampala International University
+for the advice and guidance at the conception of this study. Our thanks to
+Bergsjo Bjarne of Norwegian Veterinary Institute for serotyping the isolates.
+
+Funding
+This work was supported by the Norwegian Programme for Capacity
+Development in Higher Education and Research for Development (NORHED
+project No.UGA-13/0031) based at Makerere University, Kampala Uganda and
+Norwegian University of Life Sciences, Oslo.
+
+Availability of data and materials
+The dataset from which these results were generated are not publically
+available at this point as this study is part of an on-going PhD research at
+Norwegian University of Life Sciences and the university takes responsibility
+of storing the primary data. But this can be availed on reasonable request
+from the first author. The questionnaire can be accessed as additional file
+(see Additional file 1).
+
+Authors’ contributions
+TO was the principal investigator, contributed to conception, design, data
+collection, analysis and drafting of the manuscript. YW contributed to
+conception design, supervision, editing and approval. TML supervised the lab
+analysis, participated in drafting and reviewing of the manuscript. AM
+contributed to the design and review of the manuscript. CK helped with the
+acquisition of funding, supervision, editing and reviewing the manuscript. LN
+helped with field data collection and writing. ST participated in field data
+collection, isolation and writing. ES contributed to acquisition of funding,
+design, data analysis, writing and editing. All authors read and approved the
+final manuscript.
+
+Ethics approval and consent to participate
+This study was approved and granted permission (number A532) by Uganda
+National Council of Science and Technology (UNCST). All farmers
+(respondents) who participated were asked for verbal consent before being
+interviewed. According to UNCST this is acceptable especially for the
+purpose of not excluding illiterate respondents and where no samples were
+to be taken from humans and live chicken.
+
+Consent for publication
+Not applicable.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+Author details
+1Department of Bio-security, Ecosystems and Veterinary Public Health,
+College of Veterinary Medicine, Animal Resources and Biosecurity (COVAB),
+Makerere University, Kampala, Uganda. 2Department of Food Safety and
+Infection Biology, Faculty of Veterinary Medicine, Norwegian University of
+Life Sciences (NMBU), Oslo, Norway. 3Divisions of Genetics and Genomics,
+Roslin Institute, The Royal (Dick) Vet School of Veterinary Studies, University
+of Edinburgh, Edinburgh, UK.
+
+Received: 6 June 2017 Accepted: 17 November 2017
+
+Abbreviations
+CDC: Centre for Disease Control and Prevention; CI: Confidence interval;
+MDR: Multi-drug resistance; MSRV: Modified Semi solid Rappaport Vassiliadis
+(MSRV); NAADS: National Agricultural Advisory Services; NTS: Non-typhoidal
+Salmonella; UNCST: Uganda National Council of Science and Technology;
+WHO: World Health Organization; XLD: Xylose Lysine Deoxycholate
+
+References
+1.
+
+Routh JA, Pringle J, Mohr M, Bidol S, Arends K, Adams-Cameron M, Hancock
+WT, Kissler B, Rickert R, Folster J, et al. Nationwide outbreak of multidrug-
+resistant Salmonella Heidelberg infections associated with ground turkey:
+United States, 2011. Epidemiol Infect. 2015;143:3227–34.
+
+Odoch et al. BMC Veterinary Research  (2017) 13:365 
+
+Page 9 of 10
+
+2.
+
+3.
+
+4.
+
+5.
+
+Painter JA, Hoekstra RM, Ayers T, Tauxe RV, Braden CR, Angulo FJ, Griffin PM.
+Attribution of foodborne illnesses, hospitalizations, and deaths to food
+commodities by using outbreak data, United States, 1998-2008. Emerg
+Infect Dis. 2013;19:407–15.
+Scallan E, Hoekstra RM, Angulo FJ, Tauxe RV, Widdowson MA, Roy SL, Jones
+JL, Griffin PM. Foodborne illness acquired in the United States-major
+pathogens. Emerg Infect Dis. 2011;17:7–15.
+Ao TT, Feasey NA, Gordon MA, Keddy KH, Angulo FJ, Crump JA. Global
+burden of invasive nontyphoidal Salmonella disease, 2010(1). Emerg Infect
+Dis. 2015;21:941–9.
+Feasey NA, Dougan G, Kingsley RA, Heyderman RS, Gordon MA. Invasive
+non-typhoidal Salmonella disease: an emerging and neglected tropical
+disease in Africa. Lancet. 2012;379(9835):2489–99.
+
+7.
+
+8.
+
+6. Majowicz SE, Musto J, Scallan E, Angulo FJ, Kirk M, O'Brien SJ, Jones TF, Fazil
+
+A, Hoekstra RM. International collaboration on enteric disease ‘Burden of
+illness S: the global burden of nontyphoidal Salmonella gastroenteritis. Clin
+Infect Dis. 2010;50:882–9.
+Graham SM, Molyneux EM, Walsh AL, Cheesbrough JS, Molyneux ME, Hart
+CA. Nontyphoidal Salmonella infections of children in tropical Africa. Pediatr
+Infect Dis J. 2000;19:1189–96.
+Gordon MA, Graham SM, Walsh AL, Wilson L, Phiri A, Molyneux E, Zijlstra EE,
+Heyderman RS, Hart CA, Molyneux ME. Epidemics of invasive Salmonella
+enterica serovar enteritidis and S-enterica serovar typhimurium infection
+associated with multidrug resistance among adults and children in Malawi.
+Clin Infect Dis. 2008;46:963–9.
+Dechet AM, Herman KM, Chen Parker C, Taormina P, Johanson J, Tauxe RV,
+Mahon BE. Outbreaks caused by sprouts, United States, 1998-2010: lessons
+learned and solutions needed. Foodborne Pathog Dis. 2014;11:635–44.
+10. Callejon RM, Rodriguez-Naranjo MI, Ubeda C, Hornedo-Ortega R, Garcia-
+
+9.
+
+Parrilla MC, Troncoso AM. Reported foodborne outbreaks due to fresh
+produce in the United States and European Union: trends and causes.
+Foodborne Pathog Dis. 2015;12:32–8.
+
+11. Abdel-Maksoud M, Abdel-Khalek R, El-Gendy A, Gamal RF, Abdelhady HM,
+
+House BL. Genetic characterisation of multidrug-resistant Salmonella
+enterica serotypes isolated from poultry in Cairo, Egypt. Afr J Lab Med.
+2015;4(1):1–7.
+
+12. Ahmed AM, Shimamoto T, Shimamoto T. Characterization of integrons and
+
+resistance genes in multidrug-resistant Salmonella enterica isolated from
+meat and dairy products in Egypt. Int J Food Microbiol. 2014;189:39–44.
+Tabo DA, Diguimbaye CD, Granier SA, Moury F, Brisabois A, Elgroud R,
+Millemann Y. Prevalence and antimicrobial resistance of non-typhoidal
+Salmonella serotypes isolated from laying hens and broiler chicken farms in
+N’Djamena. Chad Vet Microbiol. 2013;166:293–8.
+
+13.
+
+14. Henzler DJ, Kradel DC, Sischo WM. Management and environmental risk
+factors for Salmonella enteritidis contamination of eggs. Am J Vet Res.
+1998;59:824–9.
+
+15. Adeline HS, Marianne C, Sophie L, Francoise L, Isabelle P, Sandra R, Virginie
+M, Philippe F, Nicolas R. Risk factors for Salmonella enterica subsp enterica
+contamination in 519 French laying hen flocks at the end of the laying
+period. Prev Vet Med. 2009;89:51–8.
+
+16. Mollenhorst H, van Woudenbergh CJ, Bokkers EGM, de Boer IJM. Risk
+
+factors for Salmonella enteritidis infections in laying hens. Poult Sci.
+2005;84:1308–13.
+Schulz J, Van Hoorebeke S, Hald B, Hartung J, Van Immerseel F, Radtke
+I, Kabell S, Dewulf J. The dynamics of Salmonella occurrence in
+commercial laying hen flocks throughout a laying period. Avian Pathol.
+2011;40:243–8.
+
+18. Denagamage T, Jayarao B, Patterson P, Wallner-Pendleton E, Kariyawasam S.
+
+Risk factors associated with Salmonella in laying hen farms: systematic
+review of observational studies. Avian Dis. 2015;59:291–302.
+Kirk MD, Pires SM, Black RE, Caipo M, Crump JA, Devleesschauwer B, Dopfer
+D, Fazil A, Fischer-Walker CL, Hald T, et al. World Health Organization
+estimates of the global and regional disease burden of 22 foodborne
+bacterial, protozoal, and viral diseases, 2010: a data synthesis. PLoS Med.
+2015;12(12):e1001921.
+
+20. Bouchrif B, Le Hello S, Pardos M, Karraouan B, Perrier-Gros-Claude JD, Ennaji
+
+MM, Timinouni M, Weill FX. Ceftazidime-resistant Salmonella enterica.
+Morocco Emerg Infect Dis. 2009;15(10):1693–5.
+
+21. De Knegt LV, Pires SM, Hald T. Attributing foodborne salmonellosis in
+
+humans to animal reservoirs in the European Union using a multi-country
+stochastic model. Epidemiol Infect. 2015;143(6):1175–86.
+
+17.
+
+19.
+
+22. Moffatt CRM, Musto J, Pingault N, Miller M, Stafford R, Gregory J,
+
+Polkinghorne BG, Kirk MD. Salmonella Typhimurium and outbreaks of
+egg-associated disease in Australia, 2001 to 2011. Foodborne Pathog
+Dis. 2016;13(7):379–85.
+
+23. Cameron A. Survey toolbox for livestock diseases : a practical manual
+and software package for active surveillance in developing countries.
+1st ed. Australian Centre for International Agricultural Research:
+Canberra; 1999.
+
+24. Cameron AR, Baldock FC. A new probability formula for surveys to
+substantiate freedom from disease. Prev Vet Med. 1998;34(1):1–17.
+
+25. Van Hoorebeke S, Van Immerseel F, De Vylder J, Ducatelle R,
+
+26.
+
+27.
+
+Haesebrouck F, Pasmans F, de Kruif A, Dewulf J. Faecal sampling
+underestimates the actual prevalence of Salmonella in laying hen flocks.
+Zoonoses Public Health. 2009;56:471–6.
+Snow LC, Davies RH, Christiansen KH, Carrique-Mas JJ, Cook AJC, Evans SJ.
+Investigation of risk factors for Salmonella on commercial egg-laying farms
+in Great Britain, 2004-2005. Vet Rec. 2010;166:579–86.
+International Organization for Standardization. ISO 6579:2002/Amd 1:2007:
+detection of Salmonella spp. in animal faeces and in environmental samples
+from the primary production stage, amendment 1, annex D. In:
+Microbiology of food and animal feeding stuffs. Horizontal method for the
+detection of Salmonella spp. Geneva, Switzerland: International Organization
+for Standardization; 2007.
+
+28. Grimont PAD, Weill F-X. Antigenic formulae of the Salmonella serovars,
+
+World Health Organization Collaborating Centre for Reference and Research
+on Salmonella 2007. 9th ed. Paris: Institut Pasteur; 2007. p. 167.
+
+29. CLSI. Performance standards for antimicrobial susceptibility testing: twenty-
+
+fifth informational supplement. Wayne: Clinical Laboratory Standards
+Institute; 2015.
+
+30. CLSI. Interpretation of the Antibiogramme with Neo-Sensitabs MIC break-
+
+points according to CLSI (M31-A4/M31-S2 2013) Inoculum according to
+Kirby-Bauer / confluent colonies. Wayne: Clinical and Laboratory Standards
+Institute; 2013.
+
+31. WHO. Integrated surveillance of antimicrobial resistance: guidance from a
+
+WHO Advisory Group. Geneva: WHO; 2013. http://www.who.int/foodsafety/
+publications/agisar_guidance/en/. Accessed on 31 May 2017
+
+32. Dohoo I, Martin W, Stryhn H. Veterinary epidemiologic research. 2nd ed.
+
+Charlottetown: VER inc.; 2009.
+
+33. Hosmer DW, Lemeshow S. Applied logistic regression. 2nd ed. Hoboken:
+
+Wiley; 2000.
+
+34. Dione MM, Ieven M, Garin B, Marcotty T, Geerts S. Prevalence and
+
+antimicrobial resistance of Salmonella isolated from broiler farms, chicken
+carcasses, and street-vended restaurants in Casamance, Senegal. J Food
+Prot. 2009;72:2423–7.
+
+35. Orji MU, Onuigbo HC, Mbata TI. Isolation of Salmonella from poultry
+
+36.
+
+droppings and other environmental sources in Awka, Nigeria. Int J Infect
+Dis. 2005;9:86–9.
+Fagbamila IO, Barco L, Mancin M, Kwaga J, Ngulukun SS, Zavagnin P, Lettini
+AA, Lorenzetto M, Abdu PA, Kabir J, et al. Salmonella serovars and their
+distribution in Nigerian commercial chicken layer farms. PLoS One. 2017;
+12(3):e0173097. https://doi.org/10.1371/journal.
+
+37. Bouzidi N, Aoun L, Zeghdoudi M, Bensouilah M, Elgroud R, Oucief I,
+
+Granier SA, Brisabois A, Desquilbet L, Millemann Y. Salmonella
+contamination of laying-hen flocks in two regions of Algeria. Food Res
+Int. 2012;45:897–904.
+
+38. Alvarez-Fernandez E, Alonso-Calleja C, Garcia-Fernandez C, Capita R.
+
+Prevalence and antimicrobial resistance of Salmonella serotypes isolated
+from poultry in Spain: comparison between 1993 and 2006. Int J Food
+Microbiol. 2012;153:281–7.
+
+39. Garber L, Smeltzer M, Fedorka-Cray P, Ladely S, Ferris K. Salmonella enterica
+
+serotype enteritidis in table egg layer house environments and in mice in
+US layer houses and associated risk factors. Avian Dis. 2003;47:134–42.
+40. Afema JA, Byarugaba DK, Shah DH, Atukwase E, Nambi M, Sischo WM.
+
+Potential sources and transmission of salmonella and antimicrobial
+resistance in Kampala, Uganda. PLoS One. 2016;11(3):e0152130.
+
+41. Olobatoke RY, Mulugeta SD. Incidence of non-typhoidal Salmonella in
+poultry products in the North West Province, South Africa. S Afr J Sci.
+2015;111:70–6.
+Im MC, Jeong SJ, Kwon Y-K, Jeong O-M, Kang M-S, Lee YJ. Prevalence and
+characteristics of Salmonella spp. isolated from commercial layer farms in
+Korea. Poult Sci. 2015;94:1691–8.
+
+42.
+
+Odoch et al. BMC Veterinary Research  (2017) 13:365 
+
+Page 10 of 10
+
+43.
+
+44.
+
+Iwabuchi E, Maruyama N, Hara A, Nishimura M, Murakami M, Ochiai T, Hirai
+K. Nationwide survey of Salmonella prevalence in environmental dust from
+layer Frams in Japan. J Food Prot. 2010;73:1993–2000.
+Kramarenko T, Nurmoja I, Kärssin A, Meremäe K, Hörman A, Roasto M. The
+prevalence and serovar diversity of Salmonella in various food products in
+Estonia. Food Control. 2014;42:43–7.
+
+45. Zhang J, Yang X, Kuang D, Shi X, Xiao W, Zhang JY, Zheng G, Xu X, Meng
+
+46.
+
+47.
+
+JH. Prevalence of antimicrobial resistance of non-typhoidal Salmonella
+serovars in retail aquaculture products. Int J Food Microbiol. 2015;210:47–52.
+Ikwap K, Erume J, Owiny DO, Nasinyama GW, Melin L, Bengtsson B,
+Lundeheim N, Fellstrom C, Jacobson M. Salmonella species in piglets and
+weaners from Uganda: prevalence, antimicrobial resistance and herd-level
+risk factors. Prev Vet Med. 2014;115(1–2):39–47.
+Elmadiena M, El Hussein AA, Muckle CA, Cole L, Wilkie E, Mistry K,
+Perets A. Antimicrobial susceptibility and multi-drug resistance of
+Salmonella enterica subspecies enterica serovars in Sudan. Trop Anim
+Health Prod. 2013;45(5):1113–8.
+
+48. Andoh LA, Dalsgaard A, Obiri-Danso K, Newman MJ, Barco L, Olsen JE.
+
+49.
+
+50.
+
+Prevalence and antimicrobial resistance of Salmonella serovars isolated from
+poultry in Ghana. Epidemiol Infect. 2016;144(15):3288–99.
+Eguale T, Engidawork E, Gebreyes WA, Asrat D, Alemayehu H, Medhin G,
+Johnson RP, Gunn JS. Fecal prevalence, serotype distribution and
+antimicrobial resistance of Salmonellae in dairy cattle in central Ethiopia.
+BMC Microbiol. 2016;16:11.
+Fashae K, Ogunsola F, Aarestrup FM, Hendriksen RS. Antimicrobial
+susceptibility and serovars of salmonella from chickens and humans in
+Ibadan, Nigeria. J Infect Dev Ctries. 2010;4(8):484–94.
+
+51. OIE. Annual report on the use of antimicrobial agents in animals - better
+
+52.
+
+53.
+
+understanding of the global situation. Paris: OIE; 2016.
+Kasirye R, Baisley K, Munderi P, Grosskurth H. Effect of cotrimoxazole
+prophylaxis on malaria occurrence in HIV-infected patients on antiretroviral
+therapy in sub-Saharan Africa. Tropical Med Int Health. 2015;20(5):569–80.
+Kasirye RP, Baisley K, Munderi P, Levin J, Anywaine Z, Nunn A, Kamali A,
+Grosskurth H. Incidence of malaria by cotrimoxazole use in HIV-infected
+Ugandan adults on antiretroviral therapy: a randomised, placebo-controlled
+study. AIDS. 2016;30(4):635–43.
+
+54. Campbell JD, Moore D, Degerman R, Kaharuza F, Were W, Muramuzi E,
+
+Odongo G, Wetaka M, Mermin J, Tappero JW. HIV-infected Ugandan adults
+taking antiretroviral therapy with CD4 counts > 200 cells/mu L who
+discontinue Cotrimoxazole prophylaxis have increased risk of malaria and
+diarrhea. Clin Infect Dis. 2012;54(8):1204–11.
+
+55. Adesiyun A, Webb L, Musai L, Louison B, Joseph G, Stewart-Johnson A,
+
+Samlal S, Rodrigo S. Survey of Salmonella contamination in chicken layer
+farms in three Caribbean countries. J Food Prot. 2014;77:1471–80.
+
+56. Chemaly M, Huneau-Salauen A, Labbe A, Houdayer C, Petetin I, Fravalo P.
+
+Isolation of salmonella enterica in laying-hen flocks and assessment of
+eggshell contamination in France. J Food Prot. 2009;72:2071–7.
+
+57. Namata H, Meroc E, Aerts M, Faes C, Abrahantes JC, Imberechts H, Mintiens
+K. Salmonella in Belgian laying hens: an identification of risk factors. Prev Vet
+Med. 2008;83:323–36.
+
+58. Nasinyama GW, McEwen SA, Waltner-Toews D, Gyles CL, Wilson J, Opuda-
+
+Asibo J, Poppe C. Factors associated with occurrence of Salmonella in
+broiler and layer flocks of chickens in Kampala district, Uganda. Epidemiol
+Sante Anim. 1997;4:31–2.
+
+59. Carrique-Mas JJ, Davies RH. Sampling and bacterial detection Salmonella in
+
+poultry and poultry premises. Rev Sci Tech. 2008;27:665–77.
+
+60. Arnold ME, Carrique-Mas JJ, Davies RH. Sensitivity of environmental
+
+sampling methods for detecting Salmonella Enteritidis in commercial
+laying flocks relative to the within-flock prevalence. Epidemiol Infect.
+2010;138(3):330–9.
+
+61. Arnold ME, Carrique-Mas JJ, McLaren I, Davies RH. A comparison of pooled
+and individual bird sampling for detection of Salmonella in commercial egg
+laying flocks. Prev Vet Med. 2011;99(2):176–84.
+
+Submit your next manuscript to BioMed Central 
+and we will help you at every step:
+•  We accept pre-submission inquiries 
+(cid:129)  Our selector tool helps you to ﬁnd the most relevant journal
+(cid:129)  We provide round the clock customer support 
+(cid:129)  Convenient online submission
+(cid:129)  Thorough peer review
+(cid:129)  Inclusion in PubMed and all major indexing services 
+(cid:129)  Maximum visibility for your research
+
+Submit your manuscript at
+www.biomedcentral.com/submit
+
+

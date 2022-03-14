@@ -1,0 +1,1486 @@
+Int. J. Environ. Res. Public Health 2012, 9, 746-759; doi:10.3390/ijerph9030746 
+
+ 
+OPEN ACCESS 
+International Journal of 
+Environmental Research and 
+
+Public Health 
+
+ISSN 1660-4601 
+www.mdpi.com/journal/ijerph 
+
+Article 
+Geographical Variation in Antibiotic-Resistant Escherichia coli 
+Isolates from Stool, Cow-Dung and Drinking Water 
+Krushna Chandra Sahoo 1,*, Ashok J. Tamhankar 2, Soumyakanta Sahoo 3,  
+Priyadarshi Soumyaranjan Sahu 4, Senia Rosales Klintz 1 and Cecilia Stålsby Lundborg 1 
+
+1  Division of Global Health (IHCAR), Department of Public Health Sciences, Karolinska Institutet, 
+
+Nobels väg 9, SE 171 77 Stockholm, Sweden; E-Mails: senia.rosales.1@ki.se (S.R.K.); 
+cecilia.stalsby.lundborg@ki.se (C.S.L.) 
+
+2  Indian Initiative for Management of Antibiotic Resistance (IIMAR),  
+
+Department of Environmental Medicine, R.D. Gardi Medical College,  
+Ujjain 456 006, India; E-Mail: ejetee@gmail.com  
+
+3  Department of Microbiology, Super Religare Laboratories Limited, Kalinga Hospital,  
+
+Bhubaneswar 751 023, India; E-Mail: sk.soumya@gmail.com  
+
+4  Department of Microbiology, Kalinga Institute of Medical Sciences and School of Biotechnology, 
+
+KIIT University, Bhubaneswar 751 024, India; E-Mail: priyadarshi_sahu@yahoo.com 
+
+*  Author to whom correspondence should be addressed; E-Mails: sahookrushna@yahoo.com; 
+
+krushna.sahoo@ki.se; Tel.: +46-0-8-524-83366; Fax: +46-8-311-590. 
+
+Received: 5 January 2012; in revised form: 20 February 2012 / Accepted: 28 February 2012 / 
+Published: 2 March 2012 
+ 
+
+Abstract:  Little  information  is  available  on  relationships  between  the  biophysical 
+environment  and  antibiotic  resistance.  This  study  was  conducted  to  investigate  the 
+antibiotic  resistance  pattern  of  Escherichia  coli  isolated  from  child  stool  samples,  
+cow-dung  and  drinking  water  from  the  non-coastal  (230  households)  and  coastal  (187 
+households) regions of Odisha, India. Susceptibility testing of E. coli isolates (n = 696) to 
+the  following  antibiotics:  tetracycline,  ampicillin/sulbactam,  cefuroxime,  cefotaxime, 
+cefixime,  cotrimoxazole,  amikacin,  ciprofloxacin,  norfloxacin  and  nalidixic  acid  was 
+performed by the disk diffusion method. Ciprofloxacin minimum inhibitory concentration 
+(MIC) values were determined for ciprofloxacin-resistant isolates (n = 83). Resistance to at 
+least one antibiotic was detected in 90% or more of the E. coli isolates. Ciprofloxacin MIC 
+values ranged  from 8 to 32 µg/mL. The odds ratio (OR) of resistance  in  E. coli isolates 
+
+Int. J. Environ. Res. Public Health 2012, 9 
+ 
+
+747 
+
+from  children’s  stool  (OR  =  3.1,  95%  CI  1.18–8.01),  cow-dung  (OR  =  3.6,  95%  CI  
+1.59–8.03, P = 0.002) and drinking water (OR = 3.8, 95% CI 1.00–14.44, P = 0.049) were 
+higher in non-coastal compared to coastal region. Similarly, the co-resistance in cow-dung 
+(OR  =  2.5,  95%  CI  1.39–4.37,  P  =  0.002)  and  drinking  water  (OR  =  3.2,  95%  CI  
+1.36–7.41,  P  =  0.008)  as  well  as  the  multi-resistance  in  cow-dung  (OR  =  2.2,  95%  CI  
+1.12–4.34, P = 0.022) and drinking water (OR = 2.7, 95% CI 1.06–7.07, P = 0.036) were 
+also higher in the non-coastal compared to the coastal region. 
+
+resistance;  non-coastal;  coastal;  ciprofloxacin 
+
+resistance;  
+
+Keywords:  antibiotic 
+Odisha; India 
+
+ 
+
+1. Introduction  
+
+The association of environmental factors with antibiotic resistance is an emerging issue [1,2]. The 
+components of the environment are natural, physical as well as social and behavioural [3] and they all 
+play an important role in modifying community health and effectiveness of medicines. A number  of 
+studies document the effect of social and behavioural factors on antibiotic resistance [4], while little 
+information is available on relationships between the biophysical environment and antibiotic resistance.  
+Escherichia coli is present in the intestinal tracts of both humans and animals, is released into the 
+environment through faecal material and is therefore used as an indicator of faecal contamination [5]. 
+E. coli is also a reservoir for antibiotic resistance genes [6]. In the natural environment the resistant 
+bacteria and resistance genes from animal or environmental origin might transfer to humans [7,8]. Use 
+of antibiotics is one of the factors contributing to resistance [4,9]. Among the antibiotics commonly 
+used  both  in  human  and  veterinary  medicine  are  the  fluoroquinolones  [10],  with  ciprofloxacin  
+being  the  most  consumed  fluoroquinolone  worldwide  [9].  As  a  consequence  of  this,  bacterial 
+fluoroquinolone resistance has been reported both in both humans and animals [11].  
+
+In the state of Odisha, endowed with multiple environmental niches, the infectious disease burden is 
+high  in  comparison  to  other  Indian  states  [12],  however,  there  is  a  lack  of  healthcare  facilities. 
+Furthermore, there is a lack of studies on antibiotic resistance. Globally, there is also a lack of studies 
+on  prevalence  of  antibiotic  resistance  in  relation  to  different  geographical  regions.  Therefore,  we 
+decided  to  investigate  the  antibiotic  resistance  patterns  in  E.  coli  isolates  from  two  contrasting 
+biophysical environments—the coastal and non-coastal regions of Odisha. Children’s stools, cow-dung 
+and  drinking  water  samples  were  included  in  this  study  as  representatives  of  both  community  and 
+environmental sources.  
+
+2. Experimental Section  
+
+2.1. Study Settings 
+
+This cross sectional study was conducted in two districts—“Malkangiri” (non-coastal) and “Puri” 
+(coastal) of the state of Odisha (total population of 41.9 million) in India. The distinctive features of 
+these two districts are given in Table 1 [13,14].  
+ 
+
+Int. J. Environ. Res. Public Health 2012, 9 
+ 
+
+Table 1. Environmental variables of the study setting, Malkangiri and Puri, Odisha.  
+
+748 
+
+Geographical regions and environmental variables 
+
+Physical components 
+
+Temperature (Maximum, Minimum) 
+Average yearly rainfall in mm 
+
+Natural components 
+
+Height from the sea level in metres 
+Forest cover in percentage 
+
+Social components 
+
+Total population in million 
+Population Density per Sq. Km 
+Literacy Rate in percentage 
+
+2.2. Sampling and Data Collection 
+
+Malkangiri 
+(Non-coastal) 
+ 
+47 °C, 11 °C 
+1465 
+ 
+196 
+38 
+ 
+0.61 
+106 
+49 
+
+Puri 
+(Coastal) 
+ 
+36 °C, 13 °C 
+1586 
+ 
+6 
+3 
+ 
+1.69 
+488 
+85 
+
+The sample size was calculated by considering the differences in proportions of antibiotic resistance 
+between  the two  geographical  regions  (non-coastal  and  coastal)  for  each type  of  sample  (children’s 
+stools, cow-dung and drinking water), attempting to test the null hypothesis of no difference between 
+proportions,  with  a  conservative  estimated  proportion  of  antibiotic  resistance  equal  to  50%  in  each 
+comparison  group;  alpha  level  =  0.05,  power  =  0.80  and  minimum  difference  in  proportions 
+considered significant equal to 20%. The required sample size obtained by this calculation was at least 
+103 isolates from each comparison group.  
+
+Criteria  for  the  selection  of  the  actual  sampling  site  were  distance  from  the  seacoast,  vehicular 
+accessibility and  feasibility of transportation of  samples to the  microbiology  laboratory. The census 
+block (administrative area) of “Kalimela”, located at a distance of about 200 km from the sea coast, in 
+the hilly district of “Malkangiri”, satisfied these criteria and was taken as a sampling site representing 
+the non-coastal region. According to Integrated Coastal Zone Management (ICZM) ten kilometers of 
+the landside of coastal structures is considered as a coastal area [15]. The census block of “Brahmgiri” 
+in the district of “Puri”, offered an opportunity of sampling in an area closer to the sea coast (less than  
+6  km  from  seacoast)  was  selected  as  a  sampling  site  representing  the  coastal  area.  Villages  were 
+selected randomly from each census block. Within each village, all households having at least one cow 
+and at least one child of three to nine years of age in good state of health (as reported by the head of 
+the family) were selected for sampling. Children and cows are both commonly present in both areas. 
+Children’s stool and cow-dung samples were thus chosen as they reflect the respective communities. In 
+each selected household samples collected were from: child stool (from one child three to nine years  
+of  age),  cow-dung  (from  one  cow)  and  drinking  water  (500  mL  from  the  drinking  water  storage 
+container). The samples were collected in sterile containers in a single sampling time in the morning. 
+The  collection  of  samples  from  a  village  was  continued  until  samples  were  collected  from  all  the 
+eligible households. When no more suitable households were left in a village, sampling was continued 
+in  the  next  geographically  contiguous  village.  The  process  of  sampling  was  continued  until  the 
+required sample size was achieved in the coastal and non-coastal areas respectively. All samples were 
+transported in an icebox (temperature less than 10 °C), to the microbiology laboratory for analysis.  
+
+ 
+
+Int. J. Environ. Res. Public Health 2012, 9 
+ 
+
+749 
+
+During the sample collection process, along with the samples, information on the age and sex of the 
+child, antibiotic treatment history of both the child and the cow, socioeconomic status of the family [16], 
+source of drinking water, and defecation practices of household’s members was collected.  
+
+Before  sample  collection,  the  procedures  and  purpose  of  the  study  were  explained  in  the  local 
+language to the heads of the households and to the children. Informed consent was obtained from the 
+heads of the households. The ethical committee of the Kalinga Institute of Medical Sciences, Odisha, 
+approved  the  study.  The  samples  were  collected  from  April  2010  to  May  2011.  A  pilot  study  was 
+conducted before the main study to assess the feasibility.  
+
+2.3. Isolation and Identification of E. coli 
+
+The  bacterial  culture  and  isolation  were  carried  out  within  6  to  48  h  after  sampling  following 
+standard  operating  procedure  as  described  by  Clinical  Laboratory  Standards  Institute  (CLSI)  
+guidelines  [17].  For  each  child’s  stool  and  cow-dung  sample,  a  faecal  suspension  was  prepared  by 
+adding a portion of the specimen onto 2–3 mL of 0.1% peptone water to make it 1:10 dilution. One 
+loop  full  of  faecal  suspension  was  streaked  onto  MacConkey  agar  and  was  incubated  at  37  °C  for  
+24  h.  The  lactose  fermenting  colonies  were  initially  assessed  by  their  characteristic  growth  on 
+MacConkey  agar.  Each  isolate  was  further  confirmed  by  standard  biochemical  tests  designated  for  
+E.  coli  (indole,  methyl  red,  Voges-Proskauer,  and  citrate  utilization  test)  [17].  The  enumeration  of  
+E. coli from drinking water was performed by a two membrane filtration technique using membrane 
+lauryl sulphate agar incubated at 37 °C and 44 °C [18].  
+
+2.4. Antibiotic Susceptibility Testing 
+
+One  E.  coli  isolate  per  sample  was  tested  for  susceptibility  by  the  Kirby-Bauer’s  disk  diffusion 
+method  against  the  following  antibiotic  groups:  tetracyclines  (tetracycline  30  µg),  penicillins 
+(ampicillin/sulbactam 10 µg/10 µg), 2nd generation cephalosporins (cefuroxime 30 µg), 3rd generation 
+cephalosporins  (cefotaxime  30  µg  and  cefixime  5  µg),  cotrimoxazole  (1.25  µg/23.75  µg), 
+aminoglycosides (amikacin 30 µg) and quinolones (ciprofloxacin 5 µg, norfloxacin 10 µg and nalidixic 
+acid 30 µg) [17]. This panel of antibiotics was selected based on the antibiotic prescription patterns in 
+local hospitals and veterinary dispensaries, and the CLSI guidelines [17]. Overnight cultures, grown on 
+trypticase soy broth (optical density adjusted to MacFarland 0.5), were spread evenly on Mueller-Hinton 
+agar plates. The plates were incubated at 37 °C for 24 h. The zones of inhibition were measured and 
+interpreted as resistant or sensitive according to CLSI guidelines [17].  
+
+Co-resistance (resistance to two antibiotic groups) and multi-resistance (resistance to at least three 
+
+different antibiotic groups) were recorded.  
+
+2.5. Determination of Ciprofloxacin Minimum Inhibitory Concentration 
+
+Minimum  inhibitory  concentration  (MIC)  values  for  ciprofloxacin  were  determined  by  an 
+Epsilometer test  for  a  sub-set of  ciprofloxacin-resistant  isolates  (n  =  83).  Only  isolates  that  showed 
+resistance  to  ciprofloxacin  (irrespective  of  resistance  to  other  antibiotics  or  not)  were  subjected  to 
+MIC.  The  first  35%  isolates  from  each  sample  type,  from  each  district  were  serially  selected. 
+
+ 
+
+Int. J. Environ. Res. Public Health 2012, 9 
+ 
+Commercially available ciprofloxacin EzyMICTM Strips (HiMedia, Mumbai, India) with a MIC range 
+of 0.002 to 32 µg were used following manufacturer’s instructions. E. coli ATCC 25922 was used as 
+control strain in both Kirby-Bauer disk diffusion and epsilometer tests. 
+
+750 
+
+2.6. Statistical Analysis 
+
+The data were entered in Excel version Office 2007 and then transferred to Stata 10.1 (Stata Corp. 
+College  Station,  TX,  USA)  software  for  statistical  analysis.  Differences  in  prevalence  of  antibiotic 
+resistance, co-resistance and multi-resistance between the two geographical regions were assessed by 
+chi-square  test.  The  associations  of  resistance,  co-resistance  and  multi-resistance  with  household 
+characteristics  within  the  two  geographical  regions  were  determined  by  odds  ratios  (OR)  with  95% 
+confidence  intervals.  P  <  0.05  was  considered  statistically  significant.  In  the  tables,  the  values  of 
+percentages are presented as integer numbers. 
+
+3. Results  
+
+3.1. Information on Households and Isolation Rate of E. coli  
+
+A total of 1251 samples of children’s stools, cow-dung and drinking water (417 of each sample) 
+were collected from 417 households. Among these, 696 samples yielded positive cultures for E. coli. 
+Table 2 summarizes household characteristics and E. coli recovery rates according to geographic location.  
+
+Table  2.  Households’  characteristics  and  E.  coli  isolation  rate  from  various  sources  in  
+non-coastal and coastal environment. 
+
+Information on households  
+Socioeconomic status 
+
+ 
+
+Lower 
+Upper 
+
+Education of family head 
+
+Illiterate 
+Primary (1–5 years) 
+Secondary (6–12 years) 
+Higher (more than 12 years) 
+
+Drinking water sources 
+
+Tube well 
+Water supply system 
+Well 
+Pond 
+
+Defecation 
+Latrine 
+Open-air 
+
+NCE (N = 230), n (%) 
+
+CE (N = 187), n (%) 
+
+ 
+
+197 (86) 
+33 (14) 
+
+ 
+
+37 (16) 
+101 (44) 
+81 (35) 
+11 (5) 
+
+ 
+
+192 (83) 
+28 (12) 
+4 (2) 
+6 (3) 
+
+ 
+
+26 (11) 
+204 (89) 
+
+148 (79) 
+39 (21) 
+
+ 
+
+18 (10) 
+77 (41) 
+76 (41) 
+16 (8) 
+
+ 
+
+169 (90) 
+
+5 (3) 
+13 (7) 
+
+0 
+ 
+
+30 (16) 
+157 (84) 
+
+ 
+
+Int. J. Environ. Res. Public Health 2012, 9 
+ 
+
+751 
+
+Table 2. Cont. 
+
+NCE (N = 230), n (%) 
+
+CE (N = 187), n (%) 
+
+Information on households  
+Age of child 
+
+3 to 5 years 
+6 to 9 years 
+
+Sex of child 
+
+Boy 
+Girl 
+
+Antibiotic use in the child, last year  
+
+Yes 
+No 
+Not known 
+
+Antibiotic use in the cow, last year  
+
+Yes 
+No 
+
+Isolation rate of E. coli 
+
+Children’s stools 
+Cow-dung 
+Drinking water 
+
+ 
+
+105 (46) 
+125 (54) 
+
+ 
+
+128 (56) 
+102 (44) 
+
+ 
+
+175 (76) 
+
+3 (1) 
+52 (22) 
+
+ 
+
+11 (5) 
+219 (95) 
+
+ 
+
+139 (60) 
+140 (61) 
+97 (42) 
+
+ 
+
+74 (40) 
+113 (60) 
+
+ 
+
+102 (55) 
+85 (45) 
+
+ 
+
+175 (94) 
+
+6 (3) 
+6 (3) 
+
+ 
+
+7 (4) 
+
+180 (96) 
+
+ 
+
+138 (74) 
+128 (68) 
+54 (29) 
+
+NCE = Non-coastal Environment; CE = Coastal Environment; N = Total number of samples; n = 
+Samples with observed variable. 
+
+3.2. Antibiotic Resistance Pattern 
+
+In our study, 92%, 90% and 96% of E. coli isolates from children’s stool, cow-dung and drinking 
+water respectively, was resistant to at least one of the tested antibiotics. A comparison of the antibiotic 
+resistance  pattern  of  E.  coli  isolates  from  children’s  stools,  cow-dung,  and  drinking  water  from  
+non-coastal  and  coastal  environment  is  presented  in  Table  3.  E.  coli  isolates  from  the  non-coastal 
+region,  regardless  of  type  of  sample,  showed  significantly  higher  resistance  prevalence  to  both  2nd 
+generation cephalosporins (cefuroxime) and 3rd generation cephalosporins (cefotaxime and cefixime) 
+and nalidixic acid. Norfloxacin resistance was significantly  higher in non-coastal cow-dung isolates. 
+Ciprofloxacin  resistance  was  significantly  higher  in  non-coastal  drinking  water  isolates  only. 
+Additionally,  non-coastal  cow-dung  and  drinking  water  E.  coli  isolates  had  significantly  higher 
+prevalence  of  resistance  to tetracycline  and  ampicillin/sulbactam.  Although  not  significant, the  only 
+exception  from  non-coastal  isolates  having  higher  resistance  prevalence  was  the  higher  amikacin 
+resistance among E. coli isolates from children’s stool in the coastal region. 
+
+Table  4  shows  the  co-resistance  and  multi-resistance  of  E.  coli  isolates  from  children’s  stool,  
+cow-dung  and  drinking  water  from  the  non-coastal  and  coastal  environment  to  different  groups  of 
+antibiotics.  In  general,  we  found  that  the  co-resistance  and  multi-resistance  in  E.  coli  isolates  was 
+higher in the non-coastal as compared to the coastal region. 
+
+ 
+
+ 
+
+Int. J. Environ. Res. Public Health 2012, 9 
+ 
+
+752 
+
+Table 3. Antibiotic resistance pattern of E. coli isolated from children’s stool, cow-dung, 
+and drinking water originating from non-coastal and coastal environment. 
+
+Resistance in E. coli isolates from various sources 
+
+P 
+
+CE 
+
+Antibiotics 
+
+Cow-dung, n (%) 
+
+P 
+
+CE 
+
+Children’s stool, n (%) 
+NCE 
+N = 139 
+76 (55) 
+69 (50) 
+88 (63) 
+90 (65) 
+95 (68) 
+79 (57) 
+39 (28) 
+60 (43) 
+70 (50) 
+92 (66) 
+
+N = 138 
+70 (51) 
+55 (40) 
+70 (51) 
+68 (49) 
+72 (52) 
+52 (38) 
+52 (38) 
+56 (41) 
+59 (43) 
+71 (51) 
+
+0.51 
+0.102 
+0.034 
+0.009 
+0.006 
+0.001 
+0.088 
+0.663 
+0.204 
+0.013 
+
+Tetracycline  
+Ampicillin/Sulbactam  
+Cefuroxime (2nd) 
+Cefotaxime (3rd) 
+Cefixime (3rd) 
+Cotrimoxazole  
+Amikacin  
+Ciprofloxacin  
+Norfloxacin  
+Nalidixic acid 
+N  =  Total  number  of  samples;  n  =  Resistant  isolates;  NCE  =  Non-coastal  Environment;  CE  =  Coastal  Environment;  
+2nd = 2nd generation cephalosporins; 3rd = 3rd generation cephalosporins. 
+
+0.027 
+<0.001 
+<0.001 
+<0.001 
+<0.001 
+0.001 
+0.145 
+0.371 
+0.005 
+0.003 
+
+P 
+
+CE 
+
+Drinking water, n (%) 
+NCE 
+N = 97 
+59 (61) 
+46 (47) 
+63 (65) 
+72 (74) 
+52 (54) 
+51 (53) 
+25 (26) 
+40 (41) 
+47 (48) 
+63 (65) 
+
+N = 54 
+16 (30)  <0.001 
+0.033 
+16 (30) 
+0.004 
+22 (41) 
+23 (43)  <0.001 
+0.005 
+16 (30) 
+0.163 
+22 (41) 
+0.199 
+9 (17) 
+0.009 
+11 (20) 
+0.072 
+18 (33) 
+0.001 
+20 (37) 
+
+NCE 
+N = 140 
+69 (49) 
+71 (51) 
+89 (64) 
+82 (59) 
+86 (61) 
+69 (49) 
+58 (41) 
+43 (31) 
+71 (51) 
+78 (56) 
+
+N = 128 
+46 (36) 
+35 (27) 
+48 (37) 
+39 (30) 
+49 (38) 
+37 (29) 
+42 (33) 
+33 (26) 
+43 (34) 
+48 (37) 
+
+Table  4.  Co-resistance  and  multi-resistance  of  E.  coli  in  children’s  stool,  cow-dung  and 
+drinking water from non-coastal and coastal environment. 
+
+Antibiotics 
+
+Penicillin (B) 
+
+Cephalosporin (C) 
+
+(cefotaxime, 
+cefixime) 
+
+Cotrimoxazole (D) 
+
+Aminoglycoside 
+
+Fluoroquinolone 
+
+(E) 
+
+(F) 
+
+NCE 
+
+CE 
+
+NCE 
+
+CE 
+
+NCE 
+
+CE 
+
+NCE 
+
+CE 
+
+NCE 
+
+CE 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+32 (23) 
+
+34 (25) 
+
+35 (25) 
+
+68 (49) 
+60 (43) 
+
+4A. Prevalence of resistance in children’s stool n (%) 
+Tetracycline (A) 
+Penicillin (B) 
+Cephalosporin (C) 
+Cotrimoxazole (D) 
+Aminoglycoside (E) 
+AB 
+ 
+ABC 
+ 
+ABCD 
+ABCDE 
+ 
+4B. Prevalence of resistance in cow-dung n (%) 
+Tetracycline (A) 
+Penicillin (B) 
+Cephalosporin (C) 
+Cotrimoxazole (D) 
+Aminoglycoside (E) 
+AB 
+ABC 
+ABCD 
+ABCDE 
+
+58 (41) ** 
+64 (46) *** 
+
+35 (25) ** 
+
+33 (24) * 
+
+16 (13) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+52 (38) 
+50 (36) 
+
+ 
+ 
+ 
+
+31 (22) 
+
+ 
+ 
+ 
+
+29 (23) 
+26 (20) 
+
+ 
+ 
+ 
+
+15 (12) 
+
+ 
+ 
+ 
+
+44 (32) 
+49 (35) ** 
+70 (50) ** 
+
+30 (22) 
+28 (20) 
+42 (30) 
+
+ 
+ 
+
+ 
+ 
+
+21 (15) 
+21 (15) 
+
+18 (13) 
+17 (12) 
+
+ 
+ 
+
+ 
+ 
+
+21 (15) 
+23 (17) 
+29 (21) 
+25 (18) 
+
+ 
+
+9 (6) 
+9 (6) 
+5 (4) 
+
+ 
+
+36 (26) * 
+50 (36) ** 
+61 (44) *** 
+
+17 (13) 
+22 (17) 
+29 (23) 
+
+ 
+ 
+
+ 
+ 
+
+22 (16) 
+20 (14) 
+
+11 (9) 
+10 (8) 
+
+ 
+ 
+
+ 
+ 
+
+28 (20) 
+31 (22) ** 
+43 (31) 
+30 (21) 
+
+ 
+
+14 (10) 
+12 (9) 
+6 (4) 
+
+ 
+
+33 (24) 
+20 (14) 
+38 (28) 
+18 (13) 
+
+ 
+
+11 (8) 
+11 (8) 
+6 (4) 
+
+ 
+
+21 (16) 
+12 (9) 
+26 (20) 
+17 (13) 
+
+ 
+
+6 (5) 
+5 (4) 
+5 (4) 
+
+ 
+
+49 (35) 
+51 (37) 
+74 (53) 
+58 (42) * 
+24 (17) 
+26 (19) 
+25 (18) 
+17 (12) 
+4 (3) 
+
+44 (31) ** 
+58 (41) ** 
+73 (52) ** 
+53 (38) ** 
+34 (24) ** 
+28 (20) * 
+26 (19) 
+14 (10) 
+3 (2) 
+
+41 (28) 
+51 (37) 
+62 (45) 
+41 (30) 
+29 (21) 
+30 (22) 
+28 (20) 
+16 (12) 
+6 (4) 
+
+22 (17) 
+31 (24) 
+40 (31) 
+30 (23) 
+17 (13) 
+14 (11) 
+14 (11) 
+10 (8) 
+5 (4) 
+
+ 
+
+Int. J. Environ. Res. Public Health 2012, 9 
+ 
+
+Table 4. Cont. 
+
+753 
+
+Antibiotics 
+
+Penicillin (B) 
+
+Cephalosporin (C) 
+
+(cefotaxime, 
+cefixime) 
+
+Cotrimoxazole (D) 
+
+Aminoglycoside 
+
+(E) 
+
+Fluoroquinolone (F) 
+
+NCE 
+
+NCE 
+
+CE 
+
+NCE 
+
+CE 
+
+NCE 
+
+CE 
+
+13 (24) 
+11 (20) 
+
+NCE 
+
+CE 
+
+29 (30) * 
+
+8 (15) 
+
+56 (58) *** 
+38 (39) * 
+
+31 (32) * 
+37 (38) * 
+40 (41) 
+
+CE 
+4C. Prevalence of resistance in drinking water n (%) 
+Tetracycline (A) 
+Penicillin (B) 
+Cephalosporin (C) 
+Cotrimoxazole (D) 
+Aminoglycoside (E) 
+AB 
+ABC 
+ABCD 
+ABCDE 
+n = number of isolates showing resistance; NCE = Non-coastal Environment; CE = Coastal Environment; Chi-square test: * P < 0.05, ** 
+P < 0.01, *** P < 0.001. 
+
+38 (39) ** 
+34 (35) * 
+55 (57) ** 
+37 (38) * 
+17 (18) * 
+21 (22) 
+20 (21) 
+16 (16) 
+2 (2) 
+
+9 (17) 
+10 (19) 
+17 (31) 
+11 (20) 
+2 (4) 
+6 (11) 
+6 (11) 
+4 (7) 
+
+11 (11) 
+18 (19) ** 
+17 (18) 
+17 (18) * 
+
+9 (17) 
+11 (20) 
+16 (30) 
+
+4 (7) 
+1 (2) 
+4 (8) 
+2 (4) 
+
+1 (2) 
+1 (2) 
+0  
+ 
+
+22 (23) * 
+21 (22) 
+
+28 (29) 
+
+8 (15) 
+
+6 (6) 
+5 (5) 
+2 (2) 
+
+5 (9) 
+5 (9) 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+0 
+
+3.3. Association of Resistance, Co-Resistance and Multi-Resistance 
+
+The  association  between  the  resistance  patterns  (co-resistance  and  multi-resistance)  of  E.  coli 
+isolates and the type of sample, geographic location and the households’ information was estimated. In 
+E. coli isolates from children’s stools, resistance was associated with geographical region (OR = 3.1, 
+95%  CI  1.18–8.01,  P  =  0.021)  with  higher  prevalence  in  the  non-coastal  than  coastal  region. 
+Furthermore, resistance was also associated with sex of the children. Boys had 2.9 times higher odds 
+(95% CI 1.21–6.86, P = 0.016) to carry a resistant isolate than girls, irrespective of the region to which 
+they  belonged.  Co-resistance  and  multi-resistance  were  not  associated  with  any  of  the  variables. 
+Among E. coli strains isolated from cow-dung, resistance (OR = 3.6, 95% CI 1.59–8.03, P = 0.002), 
+co-resistance (OR = 2.5, 95% CI 1.39–4.37, P = 0.002) and multi-resistance (OR = 2.2, 95% CI 1.12–4.34, 
+P  =  0.022)  were  associated  with  geographical  region,  with  higher  prevalence  in  non-coastal  areas. 
+Similarly, in E. coli isolates from drinking water, resistance (OR = 3.8, 95% CI 1.00–14.44, P = 0.049), 
+co-resistance (OR = 3.2, 95% CI 1.36–7.41, P = 0.008) and multi-resistance (OR = 2.8, 95% CI 1.06–7.07, 
+P  =  0.036)  were  associated  with  geographical  region  and  the  prevalence  was  higher  in  the  
+non-coastal  region.  The  association  between  resistance  pattern  (resistance,  co-resistance  and  
+multi-resistance) in E. coli isolates and household’s information within each geographical region was 
+also estimated. Within the non-coastal region stratum the multi-resistance (OR 3.2, 95% CI 1.21–8.51,  
+P = 0.019) in E. coli isolates from children’s stool were higher among boys than the girls.  
+
+Apart  from  the  above,  none  of  the  compared  variables  were  associated  with  resistance,  
+
+co-resistance or multi-resistance in E. coli isolates.  
+
+3.4. Ciprofloxacin MIC Determination 
+
+Ciprofloxacin MIC values ranged from 8 to 32 μg/mL, regardless of type of sample and geographic 
+location, as shown in Figure 1. E. coli isolates from children’s stools had significantly higher levels of 
+
+ 
+
+Int. J. Environ. Res. Public Health 2012, 9 
+ 
+resistance (≥24 µg/mL, P = 0.025) when compared to cow-dung and drinking water isolates. Amongst 
+cow-dung E. coli isolates, the highest level of resistance (≥32 µg/mL) was observed in isolates from 
+the  non-coastal  region  only.  Overall,  E.  coli  isolates originating  from  the  non-coastal  region  tended  
+to  have  higher  levels  of  resistance  as  compared  to  those  from  the  coastal  region,  albeit  not  
+statistically significant. 
+
+754 
+
+Figure  1.  Ciprofloxacin  MIC  (Minimum 
+inhibitory  concentration)  values  among 
+ciprofloxacin-resistant  E.  coli  isolates  from  (a)  Children’s  stools  samples  (n  =  39);  
+(b)  Cow-dung  samples  (n  =  27);  (c)  Drinking  water  samples  (n  =  17);  and  (d)  Total 
+number of isolates (n = 83). 
+
+ 
+
+4. Discussion 
+
+In  our  study  we  compared  antibiotic  resistance  in  two  regions  with  distinct  geographical  and 
+environmental  attributes.  To  our  knowledge,  this  is  the  first  study  investigating  the  association  of 
+antibiotic  resistance  patterns  in  E.  coli  isolates  from  community  and  environmental  sources  like 
+children’s  stools,  cow-dung  and  drinking  water  with  two  different  natural  environments  and  their 
+attributes.  We  identified  a  higher  prevalence  of  resistance  in  isolates  from  all  the  sources  in  the  
+non-coastal  area  compared  to  the  coastal  area.  Compared  to  the  coastal  region,  the  distinguishing 
+contrasting  physical  and  natural  environmental  features  of  the  non-coastal  region  were—maximum 
+temperature 11 °C higher, height from sea-level 190 meters more, forest cover about 12 times more, 
+population density 4.6 times less and literacy rate nearly half. As there is a lack of studies similar to 
+ours  it  is  difficult  to  say  whether  the  combined  influence  of  these  environmental  features  has  any 
+contribution towards our results. In addition, the social environmental characteristics of these regions 
+could also have contributed to the results.  
+
+ 
+
+Int. J. Environ. Res. Public Health 2012, 9 
+ 
+
+755 
+
+High  prevalence  of  antibiotic  resistance  (92%  to  at  least  one  of  the  tested  antibiotics  and  24%  
+multi-resistance) among normal faecal flora E. coli isolates from children was observed in our study. 
+In  contrast,  a  previous  study  from  Tamil  Nadu,  India  carried  out  in  2005  found  a  prevalence  63% 
+resistance to at least one antibiotic and 32% multi-resistance in E. coli in healthy children’s stools [19] 
+and  a  study  in  Greece  conducted  in  1998  reported  that  40%  of  healthy  children  carried  resistant  
+E. coli [20]. A community-based study among  young children  in Peru suggested that environmental 
+contamination with resistant bacteria significantly contribute to children’s carriage of antibiotic-resistant 
+E. coli [21]. Our study was conducted in villages in India, where sanitation generally is very poor and 
+hence such a possibility cannot be ruled out in our study. Furthermore, we found that the prevalence of 
+resistance in E. coli isolated from children’s stool was higher among boys than girls in the non-coastal 
+region.  Somewhat  contradictory  data  are  available  from  other  contexts.  For  example,  a  community 
+study  from  United  Kingdom  on  susceptibility  in  urinary  coliform  isolates  found  that resistance  was 
+more  frequent  in  isolates  from  boys  [22],  whereas,  a  study  from  Greece  found  that  resistance  in 
+commensal E. coli isolates was higher when they were from girls [20].  
+
+Veterinary use of antibiotics has been shown to result in antibiotics resistance in commensal E. coli 
+isolates  from  farm  cattle  faeces  [23].  A  study  in  Pennsylvania,  United  States  found  40%  
+multidrug-resistance among E. coli isolates in cow-dung from healthy lactating cows (no information 
+was  available  on  individual  antibiotic  treatment)  [24].  In  our  study  19%  multi-resistance  E.  coli 
+isolates  were  observed  in  cow-dung,  although  participants  informed  that  only  5%  of  cows  had  
+been  given  antibiotic  treatment.  Antibiotics  and  antibiotic  resistant  bacteria  in  soil  and  aquatic 
+environment  [25]  and  antibiotic  resistant  E.  coli  from  human  and  animal  sources  [26]  have  been 
+previously documented. The selection of resistant bacteria at very low antibiotic concentrations have 
+also been reported [27]. A previous study found that faecal pollution in rural water and rural watershed 
+was dominated by cattle [28] as the source of resistance bacteria. More than 80% of households in our 
+study did not have latrines but followed open-air defecation practice, which could also be one of the 
+pathways  for  spread  of  antibiotic  residuals  and  resistant  bacteria  in  the  grassland  and  aquatic 
+environments [25]. In the area of our study, cows generally graze in open fields and besides household 
+water  sources,  drink  water  from  open  water  sources  like  ponds,  rivulets,  stagnant  water  etc.  It  is 
+possible that this  might have had a role to play  in the development of resistance of  E. coli detected  
+in cow-dung. 
+
+We  found  that  24%  of  E.  coli  isolated  from  drinking  water  was  multi-resistant.  A  study  in 
+Hyderabad, Pakistan found 63% multi-resistance E. coli isolates from drinking water [29] and a study 
+from Tamil Nadu, India found eight of nine drinking water samples were resistant to at least one tested 
+antibiotic  [19].  The  importance  of  emerging  pathogens  in  drinking  water  has  been  documented 
+globally [30]. Antibiotic resistant bacteria have been found in Indian aquatic environment e.g., hospital 
+waste water [31].  
+
+Some  comparative  antibiotic  resistance  studies  of  different  nature  are  found  in  the  literature. 
+Regional  differences  in  antibiotic  resistance  have  previously  been  documented  [32,33]  and  it  is 
+suggested  that  this  could  result  from  different  local  co-selective  events  like  antibiotic  pressure  and 
+independent  clonal  spread  in  each  region  [33].  For  example,  E.  coli  isolates  from  point  sources 
+(industrial and municipal effluents) have been shown to have higher resistance compared to nonpoint 
+sources (land runoff and septic tank seepage) [34]. Previous studies from Tamil Nadu, India [19] and 
+ 
+
+Int. J. Environ. Res. Public Health 2012, 9 
+ 
+from South Africa [35] have shown that prevalence of antibiotic resistance among commensal bacteria 
+was slightly higher in rural population compared to urban population. However a study among adults 
+from eight developing countries found the contrasting result that the prevalence of resistance in faecal 
+E. coli was more common in urban than in rural areas [36]. 
+
+756 
+
+In our previous qualitative study [37]  in the same settings the  healthcare professionals perceived 
+that behavioural and social environmental factors along with biophysical environmental factors could 
+contribute to resistance development in different geographical  settings. It was also found that in the 
+non-coastal  region  of  “Malkangiri”,  there  is  a  lack  of  registered  allopathic  doctors,  hence  so  called 
+“quacks” (persons with no medical qualification) and some of the homeopathic and ayurvedic (Indian 
+system of medicine) healthcare providers commonly prescribe antibiotic treatment (although they are 
+not legally authorised to prescribe antibiotics). Compared to this, in the coastal region of “Puri” healthcare 
+facilities  are  better  and there  is  availability  of  higher  numbers  of  trained  allopathic  doctors  [37]. In 
+both  cases  unnecessary  or  irrational  antibiotic  prescribing  might  be  present.  However,  the  trained 
+healthcare providers could be expected to have comparatively more rational prescribing compared to 
+the  untrained  prescribers.  Additionally,  in  the  present  study  antibiotic  use  among  children  in  the  
+non-coastal areas might have been underestimated since 22% of the respondents did not know if their 
+child had taken antibiotics in the last year, while the corresponding figure was only 3% in coastal areas. 
+Irrational/unnecessary antibiotic treatment has been cited as a cause of resistance development [4,9]. 
+Surprisingly, a previous study in tropical South America found that heavy use of chloroquine to treat 
+malaria  likely  selected for ciprofloxacin resistance in  E. coli [38]. This  might be one reason for the 
+relatively higher quinolone resistance in Malkangiri (non-coastal) as chloroquine has been a commonly 
+used medicine due to endemic malaria.  
+
+The  impact  of  antibiotics  or  resistant  bacteria  on  humans  might  happen  in  several  ways.  When 
+contaminated food is ingested, the bacteria might transfer resistance determinants to other bacteria in 
+the  human  gut,  so  called  horizontal  gene  transfer  [7,8,39].  Additionally,  antibiotic  residues  in  food 
+products  or  water  may  allow  the  selection  of  antibiotic-resistant  bacteria  after  the  food  or  water  is 
+consumed [10]. Through excretion resistant bacteria might flow from the gut of humans and animals 
+into  soil/terrain  and  water.  Therefore,  there  might  be  interaction  between  E.  coli  from  the  natural 
+environment (soil/terrain and water), humans and animals.  
+
+The  main  strength  of  this  study  is  that  it  has  isolated  and  compared  E.  coli obtained  from  three 
+different  sources  (children’s  stool,  cow-dung  and  drinking  water)  from  the  same  household  in  two 
+different contrasting natural environments. Furthermore, it has determined the antibacterial susceptibility 
+pattern  using  standardised  methods  for  the  obtained  isolates.  In  addition,  MIC  determination  was 
+performed for a sub-set of ciprofloxacin-resistant isolates. However, there are some limitations in this 
+study. In spite of collecting about 34% excess isolates in case of children’s stool, still the calculated 
+number of isolates from drinking water could not be reached. Nevertheless, there were still significant 
+differences  in  E.  coli  resistance  prevalence  to  most  of  the  antibiotics  tested  between  the  two 
+geographical  regions.  However,  it  cannot  be  ruled  out  that  a  larger  sample  size  would  have  led  to 
+significantly  different  results  between  the  two  regions  also  for  the  remaining  antibiotics.  Another 
+limitation was that we tested only one isolate per sample. However, in our pilot study we tested five 
+isolates  per  sample  and  obtained  almost  identical  resistance  patterns  for  all  isolates  from  the  same 
+
+ 
+
+Int. J. Environ. Res. Public Health 2012, 9 
+ 
+sample. Thus, as we had limited funding, we decided to only include one isolate from each sample in 
+the main study.  
+
+757 
+
+5. Conclusions 
+
+In conclusion, this study shows that the overall prevalence of antibiotic resistance in E. coli isolated 
+from children’s stool, cow-dung and drinking water was high and even higher in the non-coastal than 
+the  coastal  environment.  Our  findings  suggest  the  need  for  better  understanding  of  the  interaction 
+between human and animal faecal bacteria and the environment. Furthermore, this study implies the 
+need for better drinking water quality management in rural Odisha, India. In addition, these findings 
+can be used for improving antibiotic management.  
+
+Acknowledgments 
+
+The first author was supported for this work by a scholarship from the Erasmus Mundus External 
+Cooperation  Window  Lot  15,  India.  He  is  also  associated  with  the  Swedish  Research  School  for  
+Global Health. S.R.K. is a NeTropica postdoctoral fellow. We thank the participants for their valuable 
+contribution and the study associates for their support during data collection. We also thank R. Sahu 
+and B. Behera for their help in microbiological work. 
+
+Conflict of Interest 
+
+The authors declare no conflict of interest. 
+
+References  
+
+1.  McMahon,  M.A.;  Xu,  J.;  Moore,  J.E.;  Blair,  I.S.;  McDowell,  D.A.  Environmental  stress  and 
+
+antibiotic resistance in food-related pathogens. Appl. Environ. Microbiol. 2007, 73, 211-217. 
+
+2.  Bush,  K.;  Courvalin,  P.;  Dantas,  G.;  Davies,  J.;  Eisenstein,  B.;  Huovinen,  P.;  Jacoby,  G.A.; 
+Kishony,  R.;  Kreiswirth,  B.N.;  Kutter,  E.;  et  al.  Tackling  antibiotic  resistance.  Nat.  Rev. 
+Microbiol. 2011, 9, 894-896. 
+
+3.  Smith,  K.R.;  Corvalan,  C.F.;  Kjellstrom,  T.  How  much  global  ill  health  is  attributable  to 
+
+environmental factors? Epidemiology 1999, 10, 573-584. 
+
+4.  Yagupsky, P. Selection of antibiotic-resistant pathogens in the community. Pediatr. Infect. Dis. J. 
+
+5. 
+
+2006, 25, 974-976. 
+Ishii, S.; Sadowsky, M.J. Escherichia coli in the environment: Implications for water quality and 
+human health. Microbes Environ. 2008, 23, 101-108. 
+
+6.  Bailey,  J.K.;  Pinyon,  J.L.;  Anantham,  S.;  Hall,  R.M.  Commensal  Escherichia  coli  of  healthy 
+
+humans: A reservoir for antibiotic-resistance determinants. J. Med. Microbiol. 2010, 59, 1331-1339. 
+
+7.  Martinez, J.L. The role of natural environments in the evolution of resistance traits in pathogenic 
+
+bacteria. Proc. Biol. Sci. 2009, 276, 2521-2530. 
+
+8.  van  den  Bogaard,  A.E.;  Stobberingh,  E.E.  Epidemiology  of  resistance  to  antibiotics.  Links 
+
+between animals and humans. Int. J. Antimicrob. Agents 2000, 14, 327-335. 
+
+9.  World Health Organization (WHO). Antimicrobial Resistance; WHO: Geneva, Switzerland, 2011. 
+
+ 
+
+Int. J. Environ. Res. Public Health 2012, 9 
+ 
+10.  Fabrega, A.; Sanchez-Cespedes, J.; Soto, S.; Vila, J., Quinolone resistance in the food chain. Int J 
+
+758 
+
+Antimicrob Agents 2008, 31, 307-315. 
+
+11.  Hordijk,  J.;  Veldman,  K.;  Dierikx,  C.;  van  Essen-Zandbergen,  A.;  Wagenaar,  J.A.;  Mevius,  D. 
+Prevalence  and  characteristics  of  quinolone  resistance  in  Escherichia  coli  in  veal  calves.  
+Vet. Microbiol. 2011, in print. 
+
+12.  Chattopadyay, A.; Agnihotram, V.R. Burden of disease in rural India: An analysis through cause 
+
+of death. Int. J. Third World Med. 2005, 2, 2. 
+
+13.  District  Information,  Orissa.  Available  online:  http://www.123orissa.com/exploreorissa/distinfo/ 
+
+default.asp (assessed on 14 December 2011). 
+
+14.  Government  of  India.  Orissa  Census  2011;  Available  online:  http://censusindia.gov.in/2011-prov-
+
+results/prov_data_products_orissa.html (assessed on 14 December 2011). 
+
+15.  King, S.D.; Green, D.R. Redefining the limits of the coastal zone: Bridging the gap between land 
+
+and sea using remote sensing, GIS, and the internet. GeoCoast 2001, 2, 1-15. 
+
+16.  Kumar,  N.;  Shekhar,  C.;  Kumar,  P.;  Kundu,  A.S.  Kuppuswamy’s  socioeconomic  status  
+
+scale-updating for 2007. Indian J. Pediatr. 2007, 74, 1131-1132. 
+
+17.  Clinical  and  Laboratory  Standards  Institute.  Performance  Standard  for  Antimicrobial  Disk 
+Susceptibility Testing; Twentieth informational supplement (document M100-S20); The Cinical and 
+Laboratory Standards Institute: Wayne, PA, USA, 2010. 
+
+18.  Environment  Agency.  The  Microbiology  of  Drinking  Water  (2009)  Part  4—Methods  for  the 
+Isolation  and  Enumeration  of  Coliform  Bacteria  and  Escherichia  coli  (including  E.  coli 
+O157:H7), Methods for the Examination of Waters and Associated Materials; The Environment 
+Agency: Rotherham, UK, 2009. 
+
+19.  Seidman,  J.C.;  Anitha,  K.P.;  Kanungo,  R.;  Bourgeois,  A.L.;  Coles,  C.L.  Risk  factors  for 
+
+antibiotic-resistant E. coli in children in a rural area. Epidemiol. Infect. 2009, 137, 879-888. 
+
+20.  Vatopoulos, A.C.; Varvaresou, E.; Petridou, E.; Moustaki, M.; Kyriakopoulos, M.; Kapogiannis, D.; 
+Sarafoglou, S.; Fretzagias, A.; Kalapothaki, V. High rates of antibiotic resistance among normal 
+fecal flora Escherichia coli isolates in children from Greece. Clin. Microbiol. Infect. 1998, 4, 563-569. 
+21.  Kalter, H.D.; Gilman, R.H.; Moulton, L.H.; Cullotta, A.R.; Cabrera, L.; Velapatino, B. Risk factors 
+for  antibiotic-resistant  Escherichia  coli  carriage  in  young  children  in  Peru:  Community-based 
+cross-sectional prevalence study. Am. J. Trop. Med. Hyg. 2010, 82, 879-888. 
+
+22.  Howard,  A.J.;  Magee,  J.T.;  Fitzgerald,  K.A.;  Dunstan,  F.D.  Factors  associated  with  antibiotic 
+resistance in coliform organisms from community urinary tract infection in Wales. J. Antimicrob. 
+Chemother. 2001, 47, 305-313. 
+
+23.  Teuber, M. Veterinary use and antibiotic resistance. Curr. Opin. Microbiol. 2001, 4, 493-499. 
+24.  Sawant, A.A.; Hegde, N.V.; Straley, B.A.; Donaldson, S.C.; Love, B.C.; Knabel, S.J.; Jayarao, B.M. 
+Antimicrobial-resistant  enteric  bacteria  from  dairy  cattle.  Appl.  Environ.  Microbiol.  2007,  73, 
+156-163. 
+
+25.  Ding,  C.;  He,  J.  Effect  of  antibiotics  in  the  environment  on  microbial  populations.  Appl. 
+
+Microbiol. Biotechnol. 2010, 87, 925-941. 
+
+26.  Ibekwe,  A.M.;  Murinda,  S.E.;  Graves,  A.K.  Genetic  diversity  and  antimicrobial  resistance  of 
+Escherichia  coli  from  human  and  animal  sources  uncovers  multiple  resistances  from  human 
+sources. PLoS One 2011, 6, e20819. 
+
+ 
+
+Int. J. Environ. Res. Public Health 2012, 9 
+ 
+27.  Gullberg, E.; Cao, S.; Berg, O.G.; Ilback, C.; Sandegren, L.; Hughes, D.; Andersson, D.I. Selection 
+
+759 
+
+of resistant bacteria at very low antibiotic concentrations. PLoS Pathog. 2011, 7, e1002158. 
+
+28.  Graves, A.K.; Hagedorn, C.; Brooks, A.; Hagedorn, R.L.; Martin, E. Microbial source tracking in 
+
+a rural watershed dominated by cattle. Water Res. 2007, 41, 3729-3739. 
+
+29.  Patoli, A.A.; Patoli, B.B.; Mehraj, V. High Prevalence of Multi-drug Resistant Escherichia coli in 
+
+Drinking Water Samples from Hyderabad. Gomal J. Med. Sci. 2010, 8, 23-26. 
+
+30.  Cabral,  J.P.  Water  microbiology.  Bacterial  pathogens  and  water.  Int.  J.  Environ.  Res.  Public 
+
+Health 2010, 7, 3657-3703. 
+
+31.  Diwan,  V.;  Tamhankar,  A.J.;  Khandal,  R.K.;  Sen,  S.;  Aggarwal,  M.;  Marothi,  Y.;  Iyer,  R.V.; 
+Sundblad-Tonderski,  K.;  Stalsby-Lundborg,  C.  Antibiotics  and  antibiotic-resistant  bacteria  in 
+waters associated with a hospital in Ujjain, India. BMC Public Health 2010, 10, 414. 
+
+32.  Parveen,  S.;  Lukasik,  J.;  Scott,  T.M.;  Tamplin,  M.L.;  Portier,  K.M.;  Sheperd,  S.;  Braun,  K.; 
+Farrah, S.R. Geographical  variation  in antibiotic  resistance profiles of  Escherichia coli  isolated 
+from  swine,  poultry,  beef  and  dairy  cattle  farm  water  retention  ponds  in  Florida.  J.  Appl. 
+Microbiol. 2006, 100, 50-57. 
+
+33.  Perez-Trallero, E.; Garcia-de-la-Fuente, C.; Garcia-Rey, C.; Baquero, F.; Aguilar, L.; Dal-Re, R.; 
+Garcia-de-Lomas, J. Geographical and ecological analysis of resistance, coresistance, and coupled 
+resistance  to  antimicrobials  in  respiratory  pathogenic  bacteria  in  Spain.  Antimicrob.  Agents 
+Chemother. 2005, 49, 1965-1972. 
+
+34.  Parveen,  S.;  Murphree,  R.L.;  Edmiston,  L.;  Kaspar,  C.W.;  Portier,  K.M.;  Tamplin,  M.L. 
+Association  of  multiple-antibiotic-resistance  profiles  with  point  and  nonpoint  sources  of 
+Escherichia coli in Apalachicola Bay. Appl. Environ. Microbiol. 1997, 63, 2607-2612. 
+
+35.  Shanahan,  P.M.;  Wylie,  B.A.;  Adrian,  P.V.;  Koornhof,  H.J.;  Thomson,  C.J.;  Amyes,  S.G.  The 
+prevalence of antimicrobial resistance  in  human faecal  flora  in South Africa.  Epidemiol. Infect. 
+1993, 111, 221-228. 
+
+36.  Nys,  S.;  Okeke,  I.N.;  Kariuki,  S.;  Dinant,  G.J.;  Driessen,  C.;  Stobberingh,  E.E.  Antibiotic 
+resistance  of  faecal  Escherichia  coli  from  healthy  volunteers  from  eight  developing  countries.  
+J. Antimicrob. Chemother. 2004, 54, 952-955. 
+
+37.  Sahoo,  K.C.;  Tamhankar,  A.J.;  Johansson,  E.;  Stalsby-Lundborg,  C.  Antibiotic  use,  resistance 
+development  and  environmental  factors:  A  qualitative  study  among  healthcare  professionals  in 
+Orissa, India. BMC Public Health 2010, 10, 629. 
+
+38.  Davidson, R.J.; Davis, I.; Willey, B.M.; Rizg, K.; Bolotin, S.; Porter, V.; Polsky, J.; Daneman, N.; 
+McGeer,  A.;  Yang,  P.;  et  al.  Antimalarial  therapy  selection  for  quinolone  resistance  among 
+Escherichia  coli  in  the  absence  of  quinolone  exposure,  in  tropical  South  America.  PLoS  One 
+2008, 3, e2727. 
+
+39.  Summers,  A.O.  Genetic  linkage  and  horizontal  gene  transfer,  the  roots  of  the  antibiotic  
+
+multi-resistance problem. Anim. Biotechnol. 2006, 17, 125-135. 
+
+©  2012  by  the  authors;  licensee  MDPI,  Basel,  Switzerland.  This  article  is  an  open  access  article 
+distributed  under 
+license 
+(http://creativecommons.org/licenses/by/3.0/). 
+
+the  Creative  Commons  Attribution 
+
+the 
+
+terms  and  conditions  of 
+
+ 
+
+

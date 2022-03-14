@@ -1,0 +1,799 @@
+Article
+Epidemiological Characteristics of Staphylococcus
+Aureus in Raw Goat Milk in Shaanxi Province, China
+
+, Lanfang Shen, Xinchen Li, Ting Wang *, Miao Liu, Wenjing Wang, Yuting Fu
+
+Weidong Qian *
+and Qiao Zeng
+School of Food and Biological Engineering, Shaanxi University of Science and Technology, Xi’an 710021, China
+* Correspondence: qianweidong@sust.edu.cn (W.Q.); wangtingsp@sust.edu.cn (T.W.)
+
+Received: 28 July 2019; Accepted: 4 September 2019; Published: 8 September 2019
+
+Abstract: Goat milk has been frequently implicated in staphylococcal food poisoning. The potential
+risk of raw goat milk contaminated by Staphylococcus aureus (S. aureus) in Shaanxi province of China
+is still not well documented. This study investigated the prevalence, antibiotic resistance, as well
+as virulence-related genes of S. aureus from raw goat milk samples in Shaanxi, China. A total of
+68 S. aureus isolates were cultured from 289 raw goat milk. Most of the isolates were resistant to
+penicillin and oxacillin, although 41.18%, 33.82%, and 29.41% of the isolates expressed resistance to
+piperacillin, trimethoprim-sulfamethoxazole, and ciproﬂoxacin, respectively. Our data demonstrated
+that 91.18% of the isolates produced bioﬁlm, of which 54.41% isolates belonged to high-bioﬁlm
+producers. In addition, genotypic analysis of bioﬁlm related genes (fnbA, clfB, fnbB, cna) revealed that
+91.18% of the isolates harbored at least one of the genes, in which the most prevalent genes were fnbA
+(66. 17%), clfB (48.53%), and fnbB (26.47%). 94.8% of the isolates contained at least one toxin-related
+gene, of which seb (76.47%), tsst (36.76%), and sea (23.53%) genes were the more frequently detected.
+Further analysis revealed a positive association between fnbA, clfB, fnbB, seb, tsst, and sea genes and
+certain antibiotic resistance. The results indicated that raw goat milk samples contaminated by
+S. aureus can be a potential risk to public health.
+
+Keywords: Staphylococcus aureus; raw goat milk; antimicrobial susceptibility; bioﬁlm; virulence gene
+
+1. Introduction
+
+Staphylococcus aureus (S. aureus) is a Gram-positive pathogen that can be isolated from a wide range
+of food, animal, human, and medical environments. Recently, microbial food poisoning accounted
+for 53.7% of the food poisoning incidents in China, of which S. aureus is one of the most commonly
+identiﬁed foodborne pathogens that causes a wide range of clinical infections [1]. S. aureus has been
+described to contaminate various foods such as chicken, ﬁsh, dairy products, sushi, and sashimi [2–6],
+and thus constitutes a risk for consumer health. In addition, in the dairy industry, S. aureus can be
+introduced at almost each step of the production process, and therefore staphylococcal food poisoning
+caused by S. aureus has also been highlighted by the dairy industry [7].
+
+S. aureus is a highly versatile bacterium adapting to hostile environments, which was inseparably
+associated with its ability to form structures known as bioﬁlms [8,9]. A bioﬁlm is deﬁned as
+an assemblage of microbial cells that irreversibly attaches to a surface and enclosed in a matrix
+of hydrated extracellular polymeric substances [10]. Bioﬁlm development of S. aureus consists of a
+three-stage process of deeply wired genetic developmental process triggered by stress signals, including
+(i) attachment of cells to surface, (ii) maturation of the bioﬁlm, and (iii) detachment/dispersal [11,12].
+The initial attachment to abiotic or biotic surfaces for bioﬁlm formation involves numerous
+surface-anchored proteins such as bioﬁlm-associated protein (bap), collagen-binding proteins (cna),
+clumping factors A and B (clfA, clfB), as well as ﬁbronectin-binding proteins A and B (fnbA, fnbB),
+
+Antibiotics 2019, 8, 141; doi:10.3390/antibiotics8030141
+
+www.mdpi.com/journal/antibiotics
+
+antibiotics# &!*-0+/ .Antibiotics 2019, 8, 141
+
+2 of 12
+
+which are collectively termed as microbial surface components recognizing adhesive matrix molecules
+(MSCRAMM) [13–16], providing a critical step to establish infections. Accumulation/maturation
+of bioﬁlm is mediated by the polysaccharide intercellular adhesin encoded by the icaABCD gene
+cluster [13]. S aureus cells growing in a bioﬁlm are physiologically distinct from planktonic cells,
+which improve their survival and growth during food processing, thereby establishing a competitive
+advantage for S. aureus as an etiological agent of foodborne infectious diseases [15]. Bioﬁlms are very
+diﬃcult to eliminate once they have been established. Furthermore, bioﬁlms physically limit access
+of antibacterial agents to bacteria. Therefore, bacteria within bioﬁlms are up to 10–1000 times more
+resistant to antimicrobials than if they were planktonic cells without bioﬁlms [17].
+
+Staphylococcal food poisoning is directly associated with toxins and invasive enzymes produced
+by S. aureus such as staphylococcal enterotoxin (SE), toxic shock syndrome toxin-1 (TSST-1),
+and Panton-Valentine leucocidyn (PVL) [18]. Twenty-three types of SEs (Sea-See and Seg-Sev)
+have been described [19]. SE is divided into ﬁve classical serological types (Sea, Seb, Sec, Sed and
+See), and more than 90% of S. aureus-associated food poisoning outbreaks were associated with these
+classic SEs [20]. Additionally, TSST-1 toxin can lead to toxic shock syndrome by reducing host immune
+response, and PVL can cause tissue necrosis by destroying host leukocytes [21]. Other SEs (Seg-Seu)
+were also detected and have been implicated in staphylococcal food poisoning [22].
+
+Foodborne outbreaks of S. aureus intoxications have been documented to be associated with
+consumption of contaminated milk [23,24]. Goat milk is the third largest source of dairy production
+in the world, accounting for 2.07% of the total milk. The top goat milk producing countries in the
+world are as follows: India, Bangladesh, Pakistan, and Sudan. China is rich in goat milk, in which
+Shaanxi province is one of the main sources of goat milk in the Chinese market [25]. With the gradual
+popularization of goat milk, raw goat milk might be a potential source of staphylococcal food poisoning
+caused by S. aureus. However, only a few studies have been performed on S. aureus prevalence and
+contamination levels in raw goat milk in China [26]. Meanwhile, there are a paucity of data regarding
+SE gene distribution and bioﬁlm formation ability of S. aureus isolates from raw goat milk samples
+in Shaanxi province, China. This study aims to investigate S. aureus contamination in raw goat milk
+in Shaanxi province, China. For this purpose, we analyzed the prevalence, contamination levels,
+antibiotic susceptibility proﬁles, virulence genes, bioﬁlm formation, and bioﬁlm-related genes of the
+S. aureus isolates obtained from Shaanxi province, China.
+
+2. Results
+
+2.1. Isolation and Identiﬁcation of S. aureus
+
+Of the 289 raw milk samples, 68 (23.53%, 68/289) were conﬁrmed to be S. aureus in this study.
+S. aureus counts ranged from 2.6 × 102 to 3.3 × 104 CFU/mL, with a mean value of 5.6 × 103 CFU/mL,
+in which 25 isolates were lower than 103 CFU/mL and 43 isolates were more than 103 CFU/mL,
+suggesting the existence of factors associated with the S. aureus in raw goat milk produced in the region.
+
+2.2. Antibiotic Resistance of S. Aureus Isolated from Raw Goat Milk
+
+The resistance proﬁle of isolates to the tested antimicrobial agents is presented in Table 1.
+Resistance to penicillin was the most common (79.41%, 54/68), followed by oxacillin (60.29%, 41/68),
+piperacillin (41.18%, 28/68), trimethoprim-sulfamethoxazole (33.82%, 23/68), ciproﬂoxacin (29.41%,
+20/68), gentamicin (27.94%, 19/68), clindamycin (20.59%, 14/68), cefazolin (19.12%, 13/68), and linezolid
+(14.71%, 10/68). Speciﬁcally, 66 isolates were resistant to at least one antibiotic (97.06%, 66/68) and 36
+isolates (52.94%, 36/68) were resistant to three or more antibiotics (MDR). All the S. aureus isolates were
+susceptible to vancomycin.
+
+Antibiotics 2019, 8, 141
+
+3 of 12
+
+Table 1. Antimicrobial susceptibility test of the 68 S. aureus isolates obtained from raw goat milk samples.
+
+Antibiotic
+
+Content
+
+(µg)
+
+Trimethoprim-
+sulfamethoxazole
+
+Linezolid
+Gentamicin
+Ciproﬂoxacin
+
+Cefazolin
+
+Clindamycin
+Vancomycin
+
+Penicillin
+Oxacillin
+Piperacillin
+
+25
+30
+10
+5
+30
+2
+30
+10
+1
+110
+
+Diameter of Inhibition
+
+Zone (mm)
+
+Susceptibility and Resistance (%)
+
+S
+≥21
+≥16
+≥15
+≥21
+≥18
+≥21
+≥15
+≥29
+≥18
+≥18
+
+I
+
+-
+
+11–15
+13–14
+16–20
+15–17
+15–20
+
+-
+-
+-
+-
+
+R
+≤20
+≤10
+≤12
+≤15
+≤14
+≤14
+≤16
+≤28
+≤17
+≤17
+
+%
+
+45 (66.18)
+57 (83.82)
+48 (70.59)
+43 (63.24)
+50 (73.53)
+40 (58.82)
+68 (100.00)
+14 (20.59)
+27 (39.71)
+40 (58.82)
+
+%
+
+0 (0)
+
+1 (1.47)
+1 (1.47)
+5 (7.35)
+5 (7.35)
+14 (20.59)
+
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+
+%
+
+23 (33.82)
+10 (14.71)
+19 (27.94)
+20 (29.41)
+13 (19.12)
+14 (20.59)
+
+0 (0)
+
+54 (79.41)
+41 (60.29)
+28 (41.18)
+
+2.3. Bioﬁlm Formation and Observation
+
+The results showed 62 isolates (91.18%, 62/68) have the ability to produce bioﬁlms, of which 37
+isolates (54.41%, 37/68) were high-bioﬁlm producers, 21 isolates (30.88%, 21/68) of medium-bioﬁlm
+producers, 4 isolates (5.88%, 4/68) of low-bioﬁlm producers, and 6 isolates of non-bioﬁlm producers.
+For visualization of bioﬁlm formation in S. aureus, bioﬁlms of representative S. aureus isolates were
+further investigated by scanning electron microscope (SEM) and confocal laser scanning microscopy
+(CLSM) (Figure 1). The bioﬁlm formation ability is presented in Figure 1. Bioﬁlms grown on the
+coverslip conglomerated in thick, heterogeneous and multiple layers with columnar clusters were
+observed in SA-134, which was high-bioﬁlm producer (Figure 1A,E,I,M). Bioﬁlms clustered into a
+honeycomb structure were observed in SA-135, which was medium-bioﬁlm producer (Figure 1B,F,J,N).
+By contrast, the SA-136 isolate of low bioﬁlm-producer exhibited lower degree of staining and
+showed more dispersed (Figure 1C,G,K,O). Almost all cells of the SA-137 isolate showed a single-cell
+distribution, which was non-bioﬁlm producer (Figure 1D,H,L,P).
+
+Figure 1. Scanning electron microscope (SEM) (A–D) and confocal laser scanning microscopy (CLSM)
+(E–P) images of bioﬁlm of representative S. aureus isolates. A, D, I, M: high-bioﬁlm producer (SA-134);
+B, F, J, N: medium-bioﬁlm producer (SA-135); C, J, K, O: low-bioﬁlm producer (SA-136); D, H, L, P:
+non-bioﬁlm producer (SA-137).
+
+Antibiotics 2019, 8, x 4 of 12  Figure 1. Scanning electron microscope (SEM) (A–D) and confocal laser scanning microscopy (CLSM) (E–P) images of biofilm of representative S. aureus isolates. A, D, I, M: high-biofilm producer (SA-134); B, F, J, N: medium-biofilm producer (SA-135); C, J, K, O: low-biofilm producer (SA-136); D, H, L, P: non-biofilm producer (SA-137). 2.4. Adhesion and Biofilm-Related Genes The presence of S. aureus adhesion and biofilm associated genes was detected by PCR (Figure 2, Figure S1–S5). The fnbA gene was observed in 66.18% (45/68) of the isolates, followed by the clfB gene (48.53%, 33/68), the fnbB gene (26.47%, 18/68), the cna gene (13.24%, 9/68), while bap, icaA, and icaD genes were not detected in the isolates. Overall, 59 isolates (86.76%, 59/68) in 68 strains contained at least one adhesion and biofilm-related genes.  Figure 2. The prevalence of adhesion and biofilm-related genes in 68 isolates. 2.5. Virulence-Related Genes The prevalence of virulence-related genes was shown in Figure 3. Of the virulence genes investigated, the three most frequently detected virulence genes were seb (50.00%, 34/68), tsst (36.76%, 25/68), and sea (23.52%, 16/68). The prevalence of the other virulence genes was as follows: seq (14.70%, Antibiotics 2019, 8, 141
+
+4 of 12
+
+2.4. Adhesion and Bioﬁlm-Related Genes
+
+The presence of S. aureus adhesion and bioﬁlm associated genes was detected by PCR (Figure 2,
+Figures S1–S5). The fnbA gene was observed in 66.18% (45/68) of the isolates, followed by the clfB gene
+(48.53%, 33/68), the fnbB gene (26.47%, 18/68), the cna gene (13.24%, 9/68), while bap, icaA, and icaD
+genes were not detected in the isolates. Overall, 59 isolates (86.76%, 59/68) in 68 strains contained at
+least one adhesion and bioﬁlm-related genes.
+
+Figure 2. The prevalence of adhesion and bioﬁlm-related genes in 68 isolates.
+
+2.5. Virulence-Related Genes
+
+The prevalence of virulence-related genes was shown in Figure 3. Of the virulence genes
+investigated, the three most frequently detected virulence genes were seb (50.00%, 34/68), tsst (36.76%,
+25/68), and sea (23.52%, 16/68). The prevalence of the other virulence genes was as follows: seq (14.70%,
+10/68), sec (10.29%, 7/68) and seu (7.35%, 5/68), and ser (1.47%, 1/68). However, genes of sed, see, seg, seh,
+sei, sej, sek, sel, sem, sen, and seo were not detected in isolates studied here.
+
+Figure 3. The prevalence of virulence genes in 68 isolates.
+
+2.6. The Association between Bioﬁlm Formation and Bioﬁlm-Related Genes
+
+In the present study, there were a signiﬁcant association between the presence of fnbA (p < 0.001),
+clfB (p < 0.05), along with fnbB (p < 0.05) genes and bioﬁlm formation in S. aureus isolates. Nonetheless
+the association between cna gene and bioﬁlm formation were not observed (p > 0.05). In addition,
+the fnbA, clfB, fnbB, and cna genes were simultaneously detected in 5 (7.4%, 5/68) isolates, of which
+4 isolates were bioﬁlm producers. Five (7.4%, 5/68) tested isolates were negative for fnbA, clfB, fnbB,
+and cna, and only one isolates formed bioﬁlms.
+
+Antibiotics 2019, 8, x 4 of 12  Figure 1. Scanning electron microscope (SEM) (A–D) and confocal laser scanning microscopy (CLSM) (E–P) images of biofilm of representative S. aureus isolates. A, D, I, M: high-biofilm producer (SA-134); B, F, J, N: medium-biofilm producer (SA-135); C, J, K, O: low-biofilm producer (SA-136); D, H, L, P: non-biofilm producer (SA-137). 2.4. Adhesion and Biofilm-Related Genes The presence of S. aureus adhesion and biofilm associated genes was detected by PCR (Figure 2, Figure S1–S5). The fnbA gene was observed in 66.18% (45/68) of the isolates, followed by the clfB gene (48.53%, 33/68), the fnbB gene (26.47%, 18/68), the cna gene (13.24%, 9/68), while bap, icaA, and icaD genes were not detected in the isolates. Overall, 59 isolates (86.76%, 59/68) in 68 strains contained at least one adhesion and biofilm-related genes.  Figure 2. The prevalence of adhesion and biofilm-related genes in 68 isolates. 2.5. Virulence-Related Genes The prevalence of virulence-related genes was shown in Figure 3. Of the virulence genes investigated, the three most frequently detected virulence genes were seb (50.00%, 34/68), tsst (36.76%, 25/68), and sea (23.52%, 16/68). The prevalence of the other virulence genes was as follows: seq (14.70%, Antibiotics 2019, 8, x 5 of 12 10/68), sec (10.29%, 7/68) and seu (7.35%, 5/68), and ser (1.47%, 1/68). However, genes of sed, see, seg, seh, sei, sej, sek, sel, sem, sen, and seo were not detected in isolates studied here.  Figure 3. The prevalence of virulence genes in 68 isolates. 2.6. The Association between Biofilm Formation and Biofilm-Related Genes In the present study, there were a significant association between the presence of fnbA (p < 0.001), clfB (p < 0.05), along with fnbB (p < 0.05) genes and biofilm formation in S. aureus isolates. Nonetheless the association between cna gene and biofilm formation were not observed (p > 0.05). In addition, the fnbA, clfB, fnbB, and cna genes were simultaneously detected in 5 (7.4%, 5/68) isolates, of which 4 isolates were biofilm producers. Five (7.4%, 5/68) tested isolates were negative for fnbA, clfB, fnbB, and cna, and only one isolates formed biofilms. 2.7. The Relationship between Antibiotic Resistance and Biofilm-Related Genes As was shown in Figure 4A, the presence of fnbA gene was significantly correlated with resistance to penicillin (p < 001) and gentamicin (p < 0.01), the presence of fnbB gene was significantly associated with resistance to ciprofloxacin (p < 0.001) and gentamicin (p < 0.001) (Figure 4B). The presence of clfB gene was significantly associated with resistance to trimethoprim-sulfamethoxazole (p < 0.01) and penicillin (p < 0.001) in S. aureus isolates (Figure 4C), while the association was not observed for cna gene (p > 0.05).   Figure 4. The relationship between adhesion as well as biofilm-related genes and antibiotic resistance (A–C). (A) Correlation between fnbA gene and antibiotic resistance. (B) Correlation between fnbB gene and antibiotic resistance; (C) Correlation between clfB gene and antibiotic resistance. Statistics were achieved by independent sample test and ANOVA (***p < 0.001, ** p < 0.01, * p < 0.05). PCNR: resistance to penicillin; PCNI: intermediary to penicillin; PCNS: sensitive to penicillin; CNR: resistance to gentamicin; CNI: intermediary to gentamicin; CNS: sensitive to gentamicin; CIPR: resistance to ciprofloxacin; CIPI: intermediary to ciprofloxacin; CIPS: sensitive to ciprofloxacin; SXTR: resistance to trimethoprim-sulfamethoxazole; SXTI: intermediary to trimethoprim; SXTS: sensitive to trimethoprim. Antibiotics 2019, 8, 141
+
+5 of 12
+
+2.7. The Relationship between Antibiotic Resistance and Bioﬁlm-Related Genes
+
+As was shown in Figure 4A, the presence of fnbA gene was signiﬁcantly correlated with resistance
+to penicillin (p < 001) and gentamicin (p < 0.01), the presence of fnbB gene was signiﬁcantly associated
+with resistance to ciproﬂoxacin (p < 0.001) and gentamicin (p < 0.001) (Figure 4B). The presence of clfB
+gene was signiﬁcantly associated with resistance to trimethoprim-sulfamethoxazole (p < 0.01) and
+penicillin (p < 0.001) in S. aureus isolates (Figure 4C), while the association was not observed for cna
+gene (p > 0.05).
+
+Figure 4. The relationship between adhesion as well as bioﬁlm-related genes and antibiotic resistance
+(A–C). (A) Correlation between fnbA gene and antibiotic resistance. (B) Correlation between fnbB
+gene and antibiotic resistance; (C) Correlation between clfB gene and antibiotic resistance. Statistics
+were achieved by independent sample test and ANOVA (*** p < 0.001, ** p < 0.01, * p < 0.05). PCNR:
+resistance to penicillin; PCNI: intermediary to penicillin; PCNS: sensitive to penicillin; CNR: resistance
+to gentamicin; CNI: intermediary to gentamicin; CNS: sensitive to gentamicin; CIPR: resistance to
+ciproﬂoxacin; CIPI: intermediary to ciproﬂoxacin; CIPS: sensitive to ciproﬂoxacin; SXTR: resistance to
+trimethoprim-sulfamethoxazole; SXTI: intermediary to trimethoprim; SXTS: sensitive to trimethoprim.
+
+2.8. The Relationship between Antibiotic Resistance and Virulence Genes
+
+The present study revealed a signiﬁcant association between the presence of sea gene and resistance
+to gentamicin (p < 0.001) and oxacillin (p < 0.001) (Figure 5A). The presence of seb gene was strongly
+related with resistance to oxacillin (p < 0.01) and penicillin (p < 0.001) (Figure 5B). And the presence of
+tsst gene was obviously associated with resistance to gentamicin (p < 0.05) and penicillin (p < 001) in
+S. aureus isolates (Figure 5C).
+
+Figure 5. The association between virulence gene and antibiotic resistance (A–C). (A) Correlation
+between sea gene and antibiotic resistance; (B) Correlation between seb gene and antibiotic resistance;
+(C) Correlation between tsst gene and antibiotic resistance. Statistics were achieved by independent
+sample test and ANOVA (*** p < 0.001, ** p < 0.01, * p < 0.05). CNR: resistance to gentamicin;
+CNI: intermediary to gentamicin; CNS: sensitive to gentamicin; OXR: resistance to oxacillin; OXI:
+intermediary to oxacillin; OXS: sensitive to oxacillin. PCNR: resistance to penicillin; PCNI: intermediary
+to penicillin; PNCS: sensitive to penicillin.
+
+Antibiotics 2019, 8, x 5 of 12 10/68), sec (10.29%, 7/68) and seu (7.35%, 5/68), and ser (1.47%, 1/68). However, genes of sed, see, seg, seh, sei, sej, sek, sel, sem, sen, and seo were not detected in isolates studied here.  Figure 3. The prevalence of virulence genes in 68 isolates. 2.6. The Association between Biofilm Formation and Biofilm-Related Genes In the present study, there were a significant association between the presence of fnbA (p < 0.001), clfB (p < 0.05), along with fnbB (p < 0.05) genes and biofilm formation in S. aureus isolates. Nonetheless the association between cna gene and biofilm formation were not observed (p > 0.05). In addition, the fnbA, clfB, fnbB, and cna genes were simultaneously detected in 5 (7.4%, 5/68) isolates, of which 4 isolates were biofilm producers. Five (7.4%, 5/68) tested isolates were negative for fnbA, clfB, fnbB, and cna, and only one isolates formed biofilms. 2.7. The Relationship between Antibiotic Resistance and Biofilm-Related Genes As was shown in Figure 4A, the presence of fnbA gene was significantly correlated with resistance to penicillin (p < 001) and gentamicin (p < 0.01), the presence of fnbB gene was significantly associated with resistance to ciprofloxacin (p < 0.001) and gentamicin (p < 0.001) (Figure 4B). The presence of clfB gene was significantly associated with resistance to trimethoprim-sulfamethoxazole (p < 0.01) and penicillin (p < 0.001) in S. aureus isolates (Figure 4C), while the association was not observed for cna gene (p > 0.05).   Figure 4. The relationship between adhesion as well as biofilm-related genes and antibiotic resistance (A–C). (A) Correlation between fnbA gene and antibiotic resistance. (B) Correlation between fnbB gene and antibiotic resistance; (C) Correlation between clfB gene and antibiotic resistance. Statistics were achieved by independent sample test and ANOVA (***p < 0.001, ** p < 0.01, * p < 0.05). PCNR: resistance to penicillin; PCNI: intermediary to penicillin; PCNS: sensitive to penicillin; CNR: resistance to gentamicin; CNI: intermediary to gentamicin; CNS: sensitive to gentamicin; CIPR: resistance to ciprofloxacin; CIPI: intermediary to ciprofloxacin; CIPS: sensitive to ciprofloxacin; SXTR: resistance to trimethoprim-sulfamethoxazole; SXTI: intermediary to trimethoprim; SXTS: sensitive to trimethoprim. Antibiotics 2019, 8, x 6 of 12 2.8. The Relationship between Antibiotic Resistance and Virulence Genes The present study revealed a significant association between the presence of sea gene and resistance to gentamicin (p < 0.001) and oxacillin (p < 0.001) (Figure 5A). The presence of seb gene was strongly related with resistance to oxacillin (p < 0.01) and penicillin (p < 0.001) (Figure 5B). And the presence of tsst gene was obviously associated with resistance to gentamicin (p < 0.05) and penicillin (p < 001) in S. aureus isolates (Figure 5C).  Figure 5. The association between virulence gene and antibiotic resistance (A–C). (A) Correlation between sea gene and antibiotic resistance; (B) Correlation between seb gene and antibiotic resistance; (C) Correlation between tsst gene and antibiotic resistance. Statistics were achieved by independent sample test and ANOVA (***p < 0.001, ** p < 0.01, * p < 0.05). CNR: resistance to gentamicin; CNI: intermediary to gentamicin; CNS: sensitive to gentamicin; OXR: resistance to oxacillin; OXI: intermediary to oxacillin; OXS: sensitive to oxacillin. PCNR: resistance to penicillin; PCNI: intermediary to penicillin; PNCS: sensitive to penicillin. 3. Discussion The contamination of dairy products by S. aureus isolates, especially those expressing an MDR phenotype and being capable of producing biofilms and toxins such as enterotoxin, TSST-1, and PVL, poses a serious public health threat to humans. This has been manifested by food-borne poisoning outbreaks resulting from the contamination of S. aureus, including one of the largest staphylococcal food poisoning outbreaks on record involving 13,420 infected individuals in Japan. Similarly, food-borne infections caused by contaminated dairy foods by S. aureus were also frequently described in China [27]. Here, this study investigated the prevalence, the antibiotic resistance phenotype, the ability to form biofilms, along with the presence of biofilm-associated genes and virulence genes of S. aureus isolates from farms in Shaanxi province, China. Acquisition of the prevalence and characteristics of isolates will contribute to prevent the contamination of raw goat milk by S. aureus via effective intervention and protect the end consumer. In this study, 68 out of 385 raw goat milk samples (17.6%, 68/385) were positive with S. aureus. The prevalence of S. aureus is significantly lower than that in the previous report that showed the contamination rate of S. aureus in pork industry was 26% (130/501) in China [28]. Similarly, it was also obviously less than that in other reports which demonstrated that S. aureus was detected in 53.5% (153/286) of the bulk tank milk samples in Italy [29], and 46% (47/104) of the bulk tank milk samples in the United States [30]. In addition, a higher contamination rate of S. aureus was 76.9% (60/78) in bulk tan milk samples in Italy [31]. However, Xing et al. [26] found that the prevalence of S. aureus in raw goat milk of healthy goats in Shaanxi province was 1.5% (1/67) of in final products and 7.5% (60/781) of in goat milk powder processing plant environments in 2012–2013, respectively, which is significantly less than the result obtained here. This increasing prevalence of S. aureus observed here might be attributed to the fact that misuse of antibiotics and several other factors has contributed to the increasing emergence of multidrug-resistant S. aureus. Thus, huge development should allow for controlling S. aureus contamination in raw goat milk. The rapid emergence of antimicrobial resistance has threatened to render our current antibiotic therapeutics arsenal useless and poses a great challenge in treatment of serious bacterial infections. Antibiotics 2019, 8, 141
+
+3. Discussion
+
+6 of 12
+
+The contamination of dairy products by S. aureus isolates, especially those expressing an MDR
+phenotype and being capable of producing bioﬁlms and toxins such as enterotoxin, TSST-1, and PVL,
+poses a serious public health threat to humans. This has been manifested by food-borne poisoning
+outbreaks resulting from the contamination of S. aureus, including one of the largest staphylococcal food
+poisoning outbreaks on record involving 13,420 infected individuals in Japan. Similarly, food-borne
+infections caused by contaminated dairy foods by S. aureus were also frequently described in China [27].
+Here, this study investigated the prevalence, the antibiotic resistance phenotype, the ability to form
+bioﬁlms, along with the presence of bioﬁlm-associated genes and virulence genes of S. aureus isolates
+from farms in Shaanxi province, China. Acquisition of the prevalence and characteristics of isolates
+will contribute to prevent the contamination of raw goat milk by S. aureus via eﬀective intervention
+and protect the end consumer.
+
+In this study, 68 out of 385 raw goat milk samples (17.6%, 68/385) were positive with S. aureus.
+The prevalence of S. aureus is signiﬁcantly lower than that in the previous report that showed the
+contamination rate of S. aureus in pork industry was 26% (130/501) in China [28]. Similarly, it was
+also obviously less than that in other reports which demonstrated that S. aureus was detected in 53.5%
+(153/286) of the bulk tank milk samples in Italy [29], and 46% (47/104) of the bulk tank milk samples
+in the United States [30]. In addition, a higher contamination rate of S. aureus was 76.9% (60/78) in
+bulk tan milk samples in Italy [31]. However, Xing et al. [26] found that the prevalence of S. aureus
+in raw goat milk of healthy goats in Shaanxi province was 1.5% (1/67) of in ﬁnal products and 7.5%
+(60/781) of in goat milk powder processing plant environments in 2012–2013, respectively, which is
+signiﬁcantly less than the result obtained here. This increasing prevalence of S. aureus observed here
+might be attributed to the fact that misuse of antibiotics and several other factors has contributed to
+the increasing emergence of multidrug-resistant S. aureus. Thus, huge development should allow for
+controlling S. aureus contamination in raw goat milk.
+
+The rapid emergence of antimicrobial resistance has threatened to render our current antibiotic
+therapeutics arsenal useless and poses a great challenge in treatment of serious bacterial infections.
+In the current study, the antimicrobial susceptibility test results showed that the 97.06% (66/68) of the
+S. aureus isolates from raw goat samples had diﬀerent degrees of resistance to 10 antimicrobials (Table 1).
+52.94% (36/68) of isolates were multi-resistant to three or more antimicrobial agents. The results obtained
+here were lower than 87% of the isolates from pasteurized milk samples in China [32], 88% of the isolates
+from cattle milk, and 87% of the isolates from sheep milk samples in Jordan [33]. Besides, resistance to
+penicillin (79.41%), oxacillin (60.29%), and piperacillin (41.18%) were the most frequently observed,
+which are the commonly used antibiotics in veterinary drug therapy. In the current study, 79.41% of the
+isolates from raw goat milk [34] showed resistance to penicillin G; the penicillin resistance levels were
+higher compared to the two previous reports in China (62%), where samples were from large Chinese
+dairy herds [35], and in South Africa (71.6%) where S. aureus isolates were derived from animal carcasses
+and milk samples from the abattoirs and dairy farms [36]. Resistance to oxacillin were signiﬁcantly
+higher than the samples from mastitis-aﬀected cows in India (0%) [37]. In addition, 33.82% of the
+isolates studied here showed resistance to trimethoprim-sulfamethoxazole. By contrast, Unal et al. [38]
+reported that all isolates from raw goat milk were sensitive to trimethoprim-sulfamethoxazole and
+cefoxitin. The relatively high rates of resistance and MDR isolates observed in this study may be due
+to the frequent use of penicillin-based antimicrobials in goat farms.
+
+Recently, diverse virulence gene proﬁles were reported from diﬀerent food categories worldwide,
+such as ﬁshery products in Galicia. Virulence gene patterns investigated here showed that 79.4% (54/68)
+of the isolates were positive with SE genes, which is more than that in the reports of 50% of S. aureus
+isolates [39]. Among the enterotoxin SE genes, the most prevalent gene was seb (76.47%), which was
+higher than the results from a previous report (11.69%) [40]. Several studies described that none of
+isolates from bovine, goat milk and dairy products harbored seb gene [41–43]. Detection rate of sec
+gene was 10.3% in our report, which is lower in goat milk by others reported. Maslankova et al. [44]
+
+Antibiotics 2019, 8, 141
+
+7 of 12
+
+also reported that sec gene was the most frequently detected (24.1%) in S. aureus from sheep milk and
+dairy products. The diﬀerent prevalence rates observed in SE gene might be explained by fact that
+these isolates originated from geographically distinct locations [45]. Of note, the tsst gene (36.76%) was
+detected here, which was signiﬁcantly higher than that in the report of 2.2% of S. aureus isolates [39].
+Even though most the thermal-treating processes for food processing are strong enough to inactivate
+any vegetative S. aureus cells present, but their enterotoxins have displayed their activity even after
+these processes [46]. Therefore, more emphasis should be focused on the microbiological examination
+of milk and dairy foods.
+
+This study also investigated the formation of bioﬁlms, adhesion genes, and bioﬁlm-related genes
+in all isolates studied. In this study, 91.18% (62/68) of S. aureus isolates had ability to form bioﬁlms,
+which was in congruence with studies from other countries [47]. Among adhesion genes tested, fnbA
+(66.18%), clfB (48.53%), and fnbB (26.47%) genes were observed with a high detection rate. Prevalence
+of the fnbA gene were consistent with the results of Zmantar et al. (76.1%) [48]. The fnbA and fnbB are
+S. aureus cell surface-bound proteins, bind to both ﬁbronectin and ﬁbrinogen, which enable S. aureus
+to attach to host cells of another organism. In addition, clfB gene encoding binding protein that
+facilitates S. aureus to establish nasal colonization was also present in 48.53% of the isolates in our study.
+The report [49] was higher (93%) than our results. Therefore, our results and other published reports
+suggest that fnbA, clfB, and fnbB exhibit an important role in S. aureus bioﬁlm formation. The percentage
+of cna gene in this study was 13.24%, which is lower than previous reports by Pereyra et al. and
+Klein et al. [50,51]. Ciftci et al. [52] found that diﬀerent frequencies of icaA and icaD have been reported,
+but icaA and icaD genes are not detected in our study. Our ﬁndings showed that the prevalence of
+adhesion and bioﬁlm-related genes varied widely among isolates.
+
+An interesting ﬁnding of this study was that the presence of fnbA (p < 0.001), clfB (p < 0.05),
+and fnbB (p < 0.05) genes showed a signiﬁcant association with bioﬁlm formation. The MSCRAMM
+family includes ﬁbronectin binding proteins (fnbA and fnbB), collagen binding protein (cna), and human
+ﬁbrinogen binding protein aggregation factors (clfA and clfB). Several other surface molecules
+such as teichoic acid may also be important for direct adsorption to the surface of the object [53].
+However, they do not play a very important role in the infection of medical devices implanted in the
+body. This means that fnbA, fnbB, and clfB genes play a vital role in the formation of bioﬁlms.
+
+In this study, a signiﬁcant correlation was observed between the presence of fnbA gene and
+resistance to gentamicin (p < 0.001) and penicillin (p < 0.01). Similarly, there was a positive correlation
+between the presence of fnbB gene and resistance to ciproﬂoxacin (p < 0.001) and penicillin (p < 0.001).
+The results also showed that the presence of clfB gene was correlated positively with trimethoprim
+(p < 0.01), respectively. In addition, the presence of sea gene was signiﬁcantly associated with resistance
+to gentamicin (p < 0.001) and oxacillin (p < 0.001), while the presence of seb gene was signiﬁcantly
+associated with oxacillin (p < 0.01) and penicillin resistance (p < 0.001). Noteworthy, we found a
+signiﬁcant association between the presence of tsst gene and resistance of gentamicin (p < 0.05) and
+penicillin (p < 0.001) in S. aureus isolates, respectively. Overall, there is a positive association between
+certain antibiotic resistance and bioﬁlm related gene as well as virulence gene in S. aureus isolates.
+
+4. Materials and Methods
+
+4.1. Isolation and Identiﬁcation of Strains
+
+A total of 289 raw goat milk samples were collected from three goat farms during 2016 to 2017
+in Shaanxi province, China. Raw milk samples were collected from goats. One milk sample from
+each goat was collected. The S. aureus contamination was detected using the most probable number
+(MPN) method in raw goat milk samples according to National Food Safety Standards of China
+document GB 4789.10-2016. Brieﬂy, 25 ml milk sample was taken and transferred into 225 mL 10%
+(w/v) saline solution, and further culture was streaked onto Baird–Parker Agar supplemented with
+5% egg yolk and blood agar with sterile deﬁbrinated sheep blood (Land Bridge, Beijing, China),
+
+Antibiotics 2019, 8, 141
+
+8 of 12
+
+◦
+
+respectively, then incubated at 37
+C for 48 h, the total number of colonies on each plate was counted.
+Finally, all isolates were subjected to the detection of 16S rRNA. All conﬁrmed S. aureus isolates were
+stored in tryptic soy broth (TSB) with glycerol at −80
+C. No more than two isolates of each sample
+were chosen for subsequent studies.
+
+◦
+
+4.2. Antimicrobial Susceptibility Testing
+
+The Kirby–Bauer disk diﬀusion method was applied to test the antibiotic susceptibility of all
+isolates. Diameter were interpreted by the guidelines of Clinical and Laboratory Standards Institute
+[CLSI] (2017). All isolates were assessed for antimicrobial susceptibility to 10 antibiotics (Oxoid,
+United Kingdom). The antimicrobial agents included gentamicin (CN, 10 µg), ciproﬂoxacin (CIP, 5 µg),
+penicillin (PCN, 10 µg), cefazolin (KZ, 30 µg), clindamycin (DA, 2 µg), vancomycin (VA, 30 µg), oxacillin
+(OX, 1 µg), piperacillin (PRL, 110 µg), trimethoprim-sulfamethoxazole (SXT, 25 µg), and linezolid (LZD,
+30 µg). S. aureus ATCC 25923 was used as the control strain for antimicrobial susceptibility testing.
+
+4.3. Bioﬁlm Formation and Classiﬁcation
+
+◦
+
+The microtiter plate assay for investigating bioﬁlm formation is a means which permits the
+observation of bacterial adherence to an abiotic surface. Slightly, after overnight incubation in TSB,
+200 µL of cell suspension (approximately 1 × 108 CFU/mL) was diverted into each well and incubated
+C for further 24 h. After three washes with PBS (0.01 mol/L, pH 7.4) and a 20-min ﬁxation
+at 37
+step with 100% methanol, dyed with 0.4% (w/v) crystal violet (CV) for 15 min and washed with
+PBS (0.01 mol/L, pH 7.4). Bound crystal violet was then dissolved with 33% acetic acid for 30 min.
+The bioﬁlm was measured at 580 nm of OD in a microplate reader (Thermo Fisher Scientiﬁc, Finland).
+The bioﬁlm assays were performed in triplicate. According to the critical ODc value, the bioﬁlm is
+divided into the following four categories: OD ≤ ODc of non-bioﬁlm producers, ODc < OD ≤ 2 ODc
+of low-bioﬁlm producers, 2 ODc < OD ≤ 4 ODc of medium-bioﬁlm producers, and OD > 4 ODc of
+high-bioﬁlm producers.
+
+4.4. Scanning Electron Microscope and Confocal Laser Scanning Microscopy Analysis of Bioﬁlm
+
+For visualization of bioﬁlms, bioﬁlms were further observed by a scanning electron microscope
+(SEM, phenom pro, Thermo Fisher Scientiﬁc, Netherlands). After overnight growth of S. aureus, 1 mL
+of cell suspension (approximately 1 × 108 CFU/mL) was transferred into a 24-well plate containing
+coated glass coverslips, cultured at 37
+C for another 48 h, and ﬁxed with 2.5% glutaraldehyde-PBS
+solution for 2 h at 4
+C. The coated glass coverslips were then dehydrated in a series of washes with 30,
+50, 70, 90% ethanol for 10 min each, followed by 15 min rinses in 100% ethanol. Air-dried samples
+were immediately sputter-coated with platinum and SEM analysis was performed.
+
+◦
+
+◦
+
+Confocal laser scanning microscopy (CLSM, LSM800, Carl Zeiss AG, Germany) was performed
+to observe more clearly the bioﬁlm of S. aureus. Bacteria bioﬁlms were prepared using the same
+methods as described above. The isolates were removed from the medium and gently rinsed with
+0.9% to remove medium and unattached cells. The cells were then stained with carboxyﬂuorescein
+diacetate succinimidyl ester (CFDA-SE, Beyotime, China) for 10–15 min. Cells were visualized and
+photographed using CLSM. The excitation/emission wavelength was 488/542 nm.
+
+4.5. DNA Extraction and Gene Detection of PCR
+
+◦
+
+Isolates were incubated overnight at 37
+
+C in TSB medium. The genomic DNA was extracted
+using the Genomic Extraction Kit (Beijing Trans Gen Biotechnology Co., Ltd.), and the quantity and
+quality of DNA was determined by a NanoDrop-2000 spectrophotometer (Thermo Fisher Scientiﬁc,
+NH, USA). The adhesion (fnbA, fnbB, clfB, cna), bioﬁlm-associated (bap, icaA, icaD) and virulence-related
+genes (sea, seb, sec, sed, see, seg, seh, sei, sej, sek, sel, sem, sen, seo, seq, ser, seu, tsst) were detected by PCR,
+respectively. The primers were supplied by Sangon Biotech Co., Ltd. (Shanghai, China) (Table S1).
+
+Antibiotics 2019, 8, 141
+
+9 of 12
+
+4.6. Data Analysis and Statistical Analysis
+
+All experiments were examined independently, statistical analysis was performed using SPSS
+Statistics 22 software, graph Pad Prism 5 was used to make graphics. The data were compared using
+independent sample test and ANOVA, p < 0.05 indicates that the diﬀerence was statistically signiﬁcant.
+
+5. Conclusions
+
+In summary, our study provides an epidemiological investigation of the prevalence of S. aureus in
+raw goat milk in Shaanxi province, China. This study indicates a high prevalence of S. aureus with
+virulence genes and bioﬁlm forming ability that might lead to the persistence of S. aureus in goat
+farms contributing to serious infections and subsequent food poisoning. To the best of our knowledge,
+our results ﬁrstly found a signiﬁcantly positive correlation between bioﬁlm related gene as well as
+virulence gene and antibiotics resistance. The results provide potential alternative monitoring measures
+by gene detection to eliminate and reduce the contamination of S. aureus in raw goat milk.
+
+Supplementary Materials: The following are available online at http://www.mdpi.com/2079-6382/8/3/141/s1,
+Figure S1. PCR ampliﬁcation for the detection of fnbA, fnbB, and clfB gene of S. aureus isolates. Figure S2. PCR
+ampliﬁcation for the detection of seo, sek, sei, seb, sea, cna, seu, and see genes of S. aureus isolates. Figure S3. PCR
+ampliﬁcation for the detection of bap, sej, and sen genes of S. aureus isolates. Figure S4. PCR ampliﬁcation for the
+detection of sec, seh, seg, tsst, and ser genes of S. aureus isolates. Figure S5. PCR ampliﬁcation for the detection of
+sel, sed, icaD, seq, and sem gene of S. aureus isolates. Table S1: Primers used in this study.
+Author Contributions: Conceptualization, writing—review and editing, W.Q.; supervision, L.S.; writing— original
+draft preparation, X.L.; project administration, T.W.; methodology, M.L.; investigation, W.W.; data curation, Y.F.;
+validation, Q.Z.
+Funding: This research was funded by the National Natural Science Foundation of China (11575149), the Key
+Research and Development Project of Shaanxi Province (2019NY-004, 2019JM-184), and the Industry Cultivation
+Project of Education Department of Shaanxi Provincial Government [18JC006, 18JK0097].
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+
+References
+
+2.
+
+1. Wu, S.; Huang, J.; Wu, Q.; Zhang, J.; Zhang, F.; Yang, X.; Wu, H.; Zeng, H.; Chen, M.; Ding, Y.; et al.
+Staphylococcus aureus Isolated from Retail Meat and Meat Products in China: Incidence, Antibiotic Resistance
+and Genetic Diversity. Front. Microbiol. 2018, 9, 2767. [CrossRef] [PubMed]
+Abd-elghany, S.M.; Sallam, K.I.; Abd-elkhalek, A.; Tamure, T. Occurrence, genetic characterization and
+antimicrobial resistance of Salmonella isolated from chicken meat and giblets. Epidemiol. Infect. 2015, 143,
+997–1003. [CrossRef] [PubMed]
+Vazquez-Sanchez, D.; Lopez-Cabo, M.; Saa-Ibusquiza, P.; Rodriguez-Herrera, J.J. Incidence and
+characterization of Staphylococcus aureus in ﬁshery products marketed in Galicia (Northwest Spain). Int. J.
+Food Microbiol. 2012, 157, 286–296. [CrossRef] [PubMed]
+
+3.
+
+4. Migueis, S.; Santos, C.; Saraiva, C.; Esteves, A. Evaluation of ready to eat sashimi in northern Portugal
+
+5.
+
+restaurants. Food Control 2015, 47, 32–36. [CrossRef]
+Hammad, A.M.; Watanabe, W.; Fujii, T.; Shimamoto, T. Occurrence and characteristics of methicillin-resistant
+and susceptible Staphylococcus aureus and methicillin-resistant coagulase-negative staphylococci from
+Japanese retail ready-to-eat raw ﬁsh. Int. J. Food Microbiol. 2012, 156, 286–289. [CrossRef] [PubMed]
+
+7.
+
+6. Muscolino, D.; Giarratana, F.; Beninati, C.; Tornambene, A.; Panebianco, A.; Ziino, G. Hygienic-Sanitary
+Evaluation of Sushi and Sashimi Sold in Messina and Catania, Italy. Ital. J. Food Saf. 2014, 3, 1701. [CrossRef]
+[PubMed]
+Oliver, S.P.; Boor, K.J.; Murphy, S.C.; Murinda, S.E. Food safety hazards associated with consumption of raw
+milk. Foodborne Pathog. Dis. 2009, 6, 793–806. [CrossRef]
+Song, M.H.; Li, Q.Q.; Zhang, Y.; Song, J.X.; Shi, X.M.; Shi, C.L. Bioﬁlm formation and antibiotic resistance
+pattern of dominant Staphylococcus aureus clonal lineages in China. J. Food Saf. 2017, 37, e12304. [CrossRef]
+Taj, Y.; Essa, F.; Aziz, F.; Kazmi, S.U. Study on bioﬁlm-forming properties of clinical isolates of Staphylococcus
+aureus. J. Infect. Dev. Ctries. 2012, 6, 403–409. [CrossRef]
+
+8.
+
+9.
+
+Antibiotics 2019, 8, 141
+
+10 of 12
+
+10. Donlan, R.M. Bioﬁlms: microbial life on surfaces. Emerg. Infect. Dis. 2002, 8, 881–890. [CrossRef]
+11. Boles, B.R.; Horswill, A.R. Agr-mediated dispersal of Staphylococcus aureus bioﬁlms. PLoS Pathog. 2008, 4,
+
+e1000052. [CrossRef] [PubMed]
+
+12. Otto, M. Staphylococcal Infections: Mechanisms of Bioﬁlm Maturation and Detachment as Critical
+
+13.
+
+Determinants of Pathogenicity. Annu. Rev. Med. 2013, 64, 175–188. [CrossRef] [PubMed]
+Foster, T.J.; Geoghegan, J.A.; Ganesh, V.K.; Hook, M. Adhesion, invasion and evasion: the many functions of
+the surface proteins of Staphylococcus aureus. Nat. Rev. Microbiol. 2014, 12, 49–62. [CrossRef] [PubMed]
+
+14. Giaouris, D.; Papadopoulos, A.I.; Voutetakis, S.; Papadopoulou, S.; Seferlis, P. A power grand composite
+curves approach for analysis and adaptive operation of renewable energy smart grids. Clean Technol. Environ.
+2015, 17, 1171–1193. [CrossRef]
+
+15. Laverty, G.; Gorman, S.P.; Gilmore, B.F. Biomolecular mechanisms of staphylococcal bioﬁlm formation.
+
+Future Microbiol. 2013, 8, 509–524. [CrossRef]
+
+16. Gundogan, N.; Ataol, O. Bioﬁlm, protease and lipase properties and antibiotic resistance proﬁles of
+
+staphylococci isolated from various foods. Afr. J. Microbiol. Res. 2013, 7, 3582–3588.
+
+17. De la Fuente-Nunez, C.; Reﬀuveille, F.; Fernandez, L.; Hancock, R.E.W. Bacterial bioﬁlm development as a
+multicellular adaptation: Antibiotic resistance and new therapeutic strategies. Curr. Opin. Microbiol. 2013,
+16, 580–589. [CrossRef]
+Spanu, V.; Spanu, C.; Virdis, S.; Cossu, F.; Scarano, C.; De Santis, E.P.L. Virulence factors and genetic variability
+of Staphylococcus aureus strains isolated from raw sheep’s milk cheese. Int. J. Food Microbiol. 2012, 153, 53–57.
+[CrossRef]
+
+18.
+
+19. Larkin, E.A.; Carman, R.J.; Krakauer, T.; Stiles, B.G. Staphylococcus aureus: The toxic presence of a pathogen
+
+extraordinaire. Curr. Med. Chem. 2009, 16, 4003–4019. [CrossRef]
+
+21.
+
+20. Tarekgne, E.K.; Skjerdal, T.; Skeie, S.; Rudi, K.; Porcellato, D.; Felix, B.; Narvhus, J.A. Enterotoxin Gene Proﬁle
+and Molecular Characterization of Staphylococcus aureus Isolates from Bovine Bulk Milk and Milk Products
+of Tigray Region, Northern Ethiopia. J. Food Protect. 2016, 79, 1387–1395. [CrossRef]
+Shallcross, L.J.; Fragaszy, E.; Johnson, A.M.; Hayward, A.C. The role of the Panton-Valentine leucocidin
+toxin in staphylococcal disease: A systematic review and meta-analysis. Lancet Infect. Dis. 2013, 13, 43–54.
+[CrossRef]
+Jarraud, S.; Peyrat, M.A.; Lim, A.; Tristan, A.; Bes, M.; Mougel, C.; Etienne, J.; Vandenesch, F.; Bonneville, M.;
+Lina, G. Egc, a highly prevalent operon of enterotoxin gene, forms a putative nursery of superantigens in
+Staphylococcus aureus. J. Immunol. 2001, 166, 669–677. [CrossRef] [PubMed]
+
+22.
+
+23. Miwa, N.; Kawamura, A.; Masuda, T.; Akiyama, M. An outbreak of food poisoning due to egg yolk
+
+24.
+
+25.
+
+reaction-negative Staphylococcus aureus. Int. J. Food Microbiol. 2001, 64, 361–366. [CrossRef]
+Fetsch, A.; Contzen, M.; Hartelt, K.; Kleiser, A.; Maassen, S.; Rau, J.; Kraushaar, B.; Layer, F.; Strommenger, B.
+Staphylococcus aureus food-poisoning outbreak associated with the consumption of ice-cream. Int. J. Food
+Microbiol. 2014, 187, 1–6. [CrossRef] [PubMed]
+Skapetas, B.; Bampidis, V. Goat production in the World: Present situation and trends. Livest. Res. Rural.
+Dev. 2016, 28, 11.
+
+26. Xing, X.; Zhang, Y.; Wu, Q. Prevalence and characterization of Staphylococcus aureus isolated from goat milk
+
+powder processing plants. Food Control 2016, 59, 644–650. [CrossRef]
+
+27. Rong, D.; Wu, Q.; Xu, M.; Zhang, J.; Yu, S. Prevalence, Virulence Genes, Antimicrobial Susceptibility, and
+Genetic Diversity of Staphylococcus aureus from Retail Aquatic Products in China. Front. Microbiol. 2017, 8,
+714. [CrossRef] [PubMed]
+
+28. Zhang, Y.; Wang, Y.; Cai, R.; Shi, L.; Li, C.; Yan, H. Prevalence of Enterotoxin Genes in Staphylococcus aureus
+
+Isolates from Pork Production. Foodborne Pathog. Dis. 2018, 15, 437–443. [CrossRef]
+
+29. Giacinti, G.; Carfora, V.; Caprioli, A.; Sagrafoli, D.; Marri, N.; Giangolini, G.; Amoruso, R.; Iurescia, M.;
+Stravino, F.; Dottarelli, S.; et al. Prevalence and characterization of methicillin-resistant Staphylococcus aureus
+carrying mecA or mecC and methicillin-susceptible Staphylococcus aureus in dairy sheep farms in central Italy.
+J. Dairy Sci. 2017, 100, 7857–7863. [CrossRef]
+
+30. Merz, A.; Stephen, R.; Johler, S. Staphylococcus aureus Isolates from Goat and Sheep Milk Seem to Be Closely
+
+31.
+
+Related and Diﬀer from Isolates Detected from Bovine Milk. Front. Microbiol. 2016, 7, 319. [CrossRef]
+Spanu, V.; Scarano, C.; Virdis, S.; Melito, S.; Spanu, C.; De Santis, E.P. Population structure of Staphylococcus
+aureus isolated from bulk tank goat’s milk. Foodborne Pathog. Dis. 2013, 10, 310–315. [CrossRef] [PubMed]
+
+Antibiotics 2019, 8, 141
+
+11 of 12
+
+32. Dai, J.; Wu, S.; Huang, J.; Wu, Q.; Zhang, F.; Zhang, J.; Wang, J.; Ding, Y.; Zhang, S.; Yang, X.; et al. Prevalence
+and Characterization of Staphylococcus aureus Isolated From Pasteurized Milk in China. Front. Microbiol.
+2019, 10, 641. [CrossRef] [PubMed]
+
+33. Obaidat, M.M.; Bani Salman, A.E.; Roess, A.A. High prevalence and antimicrobial resistance of mecA
+Staphylococcus aureus in dairy cattle, sheep, and goat bulk tank milk in Jordan. Trop. Anim. Health Prod. 2018,
+50, 405–412. [CrossRef] [PubMed]
+
+34. Liu, H.; Li, S.; Meng, L.; Dong, L.; Zhao, S.; Lan, X.; Wang, J.; Zheng, N. Prevalence, antimicrobial susceptibility,
+and molecular characterization of Staphylococcus aureus isolated from dairy herds in northern China. J. Diary
+Sci. 2017, 100, 8796–8803. [CrossRef] [PubMed]
+
+35. Cheng, J.; Qu, W.; Barkema, H.W.; Nobrega, D.B.; Gao, J.; Liu, G.; De Buck, J.; Kastelic, J.P.; Sun, H.; Han, B.
+Antimicrobial resistance proﬁles of 5 common bovine mastitis pathogens in large Chinese dairy herds.
+J. Diary Sci. 2019, 102, 2416–2426. [CrossRef]
+
+36. Pekana, A.; Green, E. Antimicrobial Resistance Proﬁles of Staphylococcus aureus Isolated from Meat Carcasses
+and Bovine Milk in Abattoirs and Dairy Farms of the Eastern Cape, South Africa. Int. J. Environ. Res. Public
+Health 2018, 15, 2223. [CrossRef] [PubMed]
+
+37. Mistry, H.; Sharma, P.; Mahato, S.; Saravanan, R.; Kumar, P.A.; Bhandari, V. Prevalence and Characterization
+of Oxacillin Susceptible mecA-Positive Clinical Isolates of Staphylococcus aureus Causing Bovine Mastitis in
+India. PLoS ONE 2016, 11, e0162256. [CrossRef]
+
+38. Ünal, N.; Askar, I.; Macun, H.C.; Sakarya, F.; Altun, B.; Yldrm, M. Panton–Valentine leukocidin and some
+exotoxins of Staphylococcus aureus and antimicrobial susceptibility proﬁles of staphylococci isolated from
+milks of small ruminants. Trop. Anim. Health Prod. 2012, 44, 573–579. [CrossRef]
+
+39. Wang, W.; Lin, X.; Jiang, T.; Peng, Z.; Xu, J.; Yi, L.; Li, F.; Fanning, S.; Baloch, Z. Prevalence and Characterization
+of Staphylococcus aureus Cultured From Raw Milk Taken From Dairy Cows With Mastitis in Beijing, China.
+Front. Microbiol. 2018, 9, 1123. [CrossRef]
+
+40. Cheng, J.; Wang, Y.; Cao, Y.; Yan, W.; Niu, X.; Zhou, L.; Chen, J.; Sun, Y.; Li, C.; Zhang, X.; et al. The Distribution
+of 18 Enterotoxin and Enterotoxin-Like Genes in Staphylococcus aureus Strains from Diﬀerent Sources in East
+China. Foodborne Pathog. Dis. 2016, 13, 171–176. [CrossRef]
+
+41. Akineden, O.; Hassan, A.A.; Schneider, E.; Usleber, E. Enterotoxigenic properties of Staphylococcus aureus
+
+isolated from goats’ milk cheese. Int. J. Food Microbiol. 2008, 124, 211–216. [CrossRef] [PubMed]
+
+42. Lyra, D.G.; Sousa, F.G.; Borges, M.F.; Givisiez, P.E.; Queiroga, R.C.; Souza, E.L.; Gebreyes, W.A.; Oliveira, C.J.
+Enterotoxin-encoding genes in Staphylococcus spp. from bulk goat milk. Foodborne Pathog. Dis. 2013, 10,
+126–130. [CrossRef] [PubMed]
+
+43. Pexara, A.; Solomakos, N.; Sergelidis, D.; Angelidis, A.S.; Govaris, A. Occurrence and antibiotic resistance of
+enterotoxigenic Staphylococcus aureus in raw ovine and caprine milk in Greece. Dairy Sci. Technol. 2016, 96,
+345–357. [CrossRef]
+
+44. Maslankova, J.; Pilipcincova, I.; Tkacikova, L. Pheno- and Genotyping of Staphylococcus aureus Isolates of
+
+Sheep Origin. Acta Vet. Brno 2009, 78, 345–352. [CrossRef]
+
+45. McClure, J.A.; Conly, J.M.; Lau, V.; Elsayed, S.; Louie, T.; Hutchins, W.; Zhang, K. Novel multiplex PCR assay
+for detection of the staphylococcal virulence marker Panton-Valentine leukocidin genes and simultaneous
+discrimination of methicillin-susceptible from-resistant staphylococci. J. Clin. Microbiol. 2006, 44, 1141–1144.
+[CrossRef] [PubMed]
+
+46. Cavicchioli, V.Q.; Scatamburlo, T.M.; Yamazi, A.K.; Pieri, F.A.; Nero, L.A. Occurrence of Salmonella, Listeria
+monocytogenes, and enterotoxigenic Staphylococcus in goat milk from small and medium-sized farms
+located in Minas Gerais State, Brazil. J. Diary Sci. 2015, 98, 8386–8390. [CrossRef] [PubMed]
+
+47. Bimanand, L.; Taherikalani, M.; Jalilian, F.A.; Sadeghifard, N.; Ghafourian, S.; Mahdavi, Z.; Mohamadi, S.;
+Sayehmiri, K.; Hematian, A.; Pakzad, I. Association between bioﬁlm production, adhesion genes and drugs
+resistance in diﬀerent SCCmec types of methicillin resistant Staphylococcus aureus strains isolated from several
+major hospitals of Iran. Iran J. Basic Med. Sci. 2018, 21, 400–403.
+
+48. Zmantar, T.; Makni, H.; Mahdouani, K.; Miladi, H.; Abdallah, J.F.; Bakhrouf, A.; Chaieb, K. Detection by PCR
+of adhesins genes and slime production in clinical Staphylococcus aureus. J. Basic Microbiol. 2010, 48, 308–314.
+[CrossRef]
+
+Antibiotics 2019, 8, 141
+
+12 of 12
+
+49. Uribe-Garcia, A.; Paniagua-Contreras, G.L.; Monroy-Perez, E.; Bustos-Martinez, J.; Hamdan-Partida, A.;
+Garzon, J.; Alanis, J.; Quezada, R.; Vaca-Paniagua, F.; Vaca, S. Frequency and expression of genes involved in
+adhesion and bioﬁlm formation in Staphylococcus aureus strains isolated from periodontal lesions. J. Microbiol.
+Immunol. Infect. 2019, in press. [CrossRef]
+
+50. Pereyra, E.A.L.; Picech, F.; Renna, M.S.; Baravalle, C.; Andreotti, C.S.; Russi, R.; Calvinho, L.F.; Diez, C.;
+Dallard, B.E. Detection of Staphylococcus aureus adhesion and bioﬁlm-producing genes and their expression
+during internalization in bovine mammary epithelial cells. Vet. Microbiol. 2016, 183, 69–77. [CrossRef]
+
+51. Klein, R.C.; Fabres-Klein, M.H.; Brito, M.A.V.P.; Fietto, L.G.; Ribon, A.D.O.B. Staphylococcus aureus of bovine
+origin: Genetic diversity, prevalence and the expression of adhesin-encoding genes. Vet. Microbiol. 2012, 160,
+183–188. [CrossRef] [PubMed]
+
+52. Ciftci, A.; Findik, A.; Onuk, E.E.; Savasan, S. Detection of methicillin resistance and slime factor production
+
+of Staphylococcus aureus in bovine mastitis. Braz. J. Microbiol. 2009, 40, 254–261. [CrossRef] [PubMed]
+
+53. Gross, M.; Cramton, S.E.; Götz, F.; Peschel, A. Key Role of Teichoic Acid Net Charge in Staphylococcus aureus
+
+Colonization of Artiﬁcial Surfaces. Infect. Immun. 2001, 69, 3423–3426. [CrossRef] [PubMed]
+
+© 2019 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+

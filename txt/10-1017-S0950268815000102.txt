@@ -1,0 +1,3522 @@
+Epidemiol. Infect., Page 1 of 13. © Cambridge University Press 2015
+doi:10.1017/S0950268815000102
+
+High levels of contamination and antimicrobial-resistant
+non-typhoidal Salmonella serovars on pig and poultry farms
+in the Mekong Delta of Vietnam
+
+L. T. P. TU1, N. V. M. HOANG1, N. V. CUONG1, J. CAMPBELL1,2,
+J. E. BRYANT1,2, N. T. HOA1,2, B. T. KIET3, C. THOMPSON1, D. T. DUY1,
+V. V. PHAT1, V. B. HIEN3, G. THWAITES1,2, S. BAKER1,2,4
+J. J. CARRIQUE-MAS1,2*
+1 Hospital for Tropical Diseases, Wellcome Trust Major Overseas Programme, Oxford University Clinical
+Research Unit, Ho Chi Minh City, Vietnam
+2 Centre for Tropical Medicine, Nufﬁeld Department of Clinical Medicine, Oxford University, Oxford, UK
+3 Sub-Department of Animal Health Dong Thap, Cao Lanh, Vietnam
+4 London School of Hygiene and Tropical Medicine, London, UK
+
+AND
+
+Received 17 August 2014; Final revision 16 December 2014; Accepted 12 January 2015
+
+SUMMARY
+
+We investigated the prevalence, diversity, and antimicrobial resistance (AMR) proﬁles of non-typhoidal
+Salmonella (NTS) and associated risk factors on 341 pig, chicken, and duck farms in Dong Thap
+province (Mekong Delta, Vietnam). Sampling was stratiﬁed by species, district (four categories), and
+farm size (three categories). Pooled faeces, collected using boot swabs, were tested using ISO 6575: 2002
+(Annex D). Isolates were serogrouped; group B isolates were tested by polymerase chain reaction to
+detect S. Typhimurium and (monophasic) serovar 4,[5],12:i:- variants. The farm-level adjusted NTS
+prevalence was 64·7%, 94·3% and 91·3% for chicken, duck and pig farms, respectively. Factors
+independently associated with NTS were duck farms [odds ratio (OR) 21·2], farm with >50 pigs (OR
+11·9), pig farm with 5–50 pigs (OR 4·88) (vs. chickens), and frequent rodent sightings (OR 2·3). Both S.
+Typhimurium and monophasic S. Typhimurium were more common in duck farms. Isolates had
+a high prevalence of resistance (77·6%) against tetracycline, moderate resistance (20–30%) against
+chloramphenicol, sulfamethoxazole-trimethoprim, ampicillin and nalidixic acid, and low resistance
+(<5%) against ciproﬂoxacin and third-generation cephalosporins. Multidrug resistance (resistance
+against 53 classes of antimicrobial) was independently associated with monophasic S. Typhimurium
+and other group B isolates (excluding S. Typhimurium) and pig farms. The unusually high prevalence
+of NTS on Mekong Delta farms poses formidable challenges for control.
+
+Key words: Epidemiology, Salmonella, zoonoses.
+
+INTRODUCTION
+
+Non-typhoidal Salmonella (NTS) is the generic name
+given to serovars belonging to Salmonella enterica
+
+* Author
+for correspondence: Dr J. J Carrique-Mas, Oxford
+University Clinical Research Unit, Hospital for Tropical Diseases,
+764, Vo Van Kiet, Ho Chi Minh City, Vietnam.
+(Email: jcarrique-mas@oucru.org)
+
+subspecies I other than those that typically cause in-
+vasive disease in non-immunocompromised humans
+(i.e. S. Typhi and S. Paratyphi A). The majority of
+NTS infections do not result in clinical disease in ani-
+mals. However, they are considered to be zoonotic
+and to have pathogenic potential in humans, typically
+causing self-limiting gastroenteritis [1]. In Vietnam
+NTS are responsible for up to 7% of cases of diarrhoea
+
+This is an Open Access article, distributed under the terms of the Creative Commons Attribution licence (http://creativecommons.org/licenses/by/3.0/), which
+permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+2
+
+L. T. P. Tu and others
+
+in children [2]. In addition, invasive infections due to
+NTS have become increasingly reported in Vietnam
+while infections due to S. Typhi are declining [3].
+
+Due to economic and diagnostic limitations, full sero-
+typing of NTS involved in disease in humans is not routi-
+nely performed in Vietnam, with most data on NTS
+serovar distribution originating from ad hoc research stu-
+dies. For example, a study of 1419 paediatric cases of di-
+arrhoea in 2009–2010 identiﬁed group B NTS in 58% of
+77 identiﬁed NTS cases [4]. A previous study of 54 cases
+from ﬁve provincial hospitals
+in 2004 identiﬁed
+S. Typhimurium [phage type (PT) 90] as the most
+common serovar. The same study also identiﬁed
+S. Typhimurium PT90 as the second most common
+serovar in pigs after S. Anatum [5]. Monophasic
+S. Typhimurium (mST) variants (i.e. serovar 4,[5],12:i:-)
+lacking the ﬁrst or the second phase H antigen due
+to a genetic deletion have been emerging since the
+1990s worldwide, and are often associated with an in-
+crease in multidrug resistance (MDR) [6] but have not
+yet been reported in Vietnam.
+
+A number of studies have investigated the presence
+in Vietnam [7–12].
+of NTS in meat/carcasses
+However, to our knowledge, the farm-level prevalence
+of NTS and associated risk factors have not yet been
+systematically investigated in Vietnam; both of
+which are prerequisites for the development of control
+measures on farms.
+
+We performed a survey on NTS in 341 pig and
+poultry farms in the Mekong Delta region of southern
+Vietnam using environmental faecal sampling meth-
+ods. The aims of the study were: (1) to determine
+the prevalence and main serogroups of Salmonella,
+S. Typhimurium and mST in the main farmed species;
+(2) to describe antimicrobial resistance (AMR) pat-
+terns in NTS isolates; and (3) to investigate farm-level
+risk factors for NTS, S. Typhimurium, mST and
+MDR NTS.
+
+MATERIALS AND METHODS
+
+Survey design and data collection
+
+The survey was conducted between February and
+May 2012 in Dong Thap (Vietnam), a Mekong
+Delta province characterized by high density of
+small-scale pig and chicken farms, as well as large
+numbers of duck ﬂocks typically reared in synchroni-
+city with the rice production cycle. The study covered
+4/12 districts, three species (chicken, ducks, pigs) and
+three farm size categories. Farms were randomly
+
+selected from the district farm population census as
+previously described [13]. When a farmer refused par-
+ticipation, his farm was replaced by the next available
+one. Questionnaires (available upon request) were
+used to obtain basic farm demographics as well as
+other parameters related to the farmer and the farm
+management. Demographic statistical data pertaining
+to the commune (density of humans, pigs and poultry)
+were obtained from the Vietnamese Government
+Statistical Ofﬁce (GSO).
+
+Sampling methods
+
+We performed environmental sampling using swabs to
+collect naturally pooled faeces [14–16]. A ﬁxed num-
+ber of boot swabs were collected from small (n = 3),
+medium (n = 4) and large (n = 5) farms. This sampling
+scheme was formulated as a compromise between sen-
+sitivity, simplicity and the requirement for standardi-
+zation. Since one pair of boot swabs is roughly
+equivalent to sampling 60 individual faecal droppings
+[17], we assumed that our sampling method was
+equivalent to sampling a constant proportion of ani-
+mals from each farm. Brieﬂy, areas dedicated to hous-
+ing the farms’ target species were divided into equally
+sized sections. From each section a pair of boot swabs
+was taken by walking over 50 steps with a shufﬂing
+motion focused on areas where fresh droppings were
+visible. Where walking on housing areas was not poss-
+ible (i.e. sows in crates/farrowing pens, chickens in
+cages or
+swabs
+were used to sample faeces from 10 sampling points
+(∼25 g per swab). Recent studies have shown that
+three pairs of boot swabs used per ﬂock are equivalent
+to sampling methods used in the European Union
+NTS surveys [18].
+
+stilt houses), hand-held gauze
+
+Laboratory methods
+
+Samples were immediately sent
+to the laboratory
+under refrigeration (4–8 °C). Cultures were initiated
+within 12 h of collection. The testing method was a
+modiﬁed version of ISO 6579:2002 (Annex D), involv-
+ing: (a) pre-enrichment in buffered peptone water
+(BPW) (37 °C, 18 h); (b) plating on modiﬁed semi-
+solid Rappaport–Vassiliadis (MSRV) (41 °C, 24 h)
+and (c) plating onto Rambach agar (37 °C, 24 h)
+[19]. Suspect NTS colonies were conﬁrmed by sero-
+grouping based on the Kauffmann–White typing
+scheme using relevant poly O antiserum [20].
+
+Salmonella on livestock farms in the Mekong Delta, Vietnam
+
+3
+
+Only one colony was randomly selected from each
+swab sample. Isolates were classiﬁed as either group B,
+C, D, or ‘other’ NTS. Conﬁrmed NTS group B isolates
+were further tested by reverse transcriptase–polymerase
+chain reaction (RT–PCR) for S. Typhimurium and
+mST (serovar 4,[5],12:i:-) by conventional PCR [21].
+All isolates were tested for antimicrobial susceptibility
+against 10 antimicrobials belonging to seven classes
+using the Kirby–Bauer (disk diffusion) method on
+Muller–Hinton Agar (Oxoid, UK). The antimicrobials
+and concentrations were as follows: (1) penicillins (with
+and without clavulanic acid): ampicillin (AMP, 10 μg)
+and amoxicillin plus clavulanic acid (AUG, 30 μg);
+(2) third-generation cephalosporins: ceftriaxone (CRO,
+30 μg), and ceftazidime (CAZ, 30 μg); (3) phenicols:
+chloramphenicol (30 μg); (4) quinolones: nalidixic acid
+(NA, 30 μg) and ciproﬂoxacin (CIP, 5 μg); (5) aminogly-
+cosides: gentamicin (CN, 10 μg); (6) potentiated sulph-
+onamides: sulfamethoxazole-trimethoprim (SXT); (7)
+tetracyclines: tetracycline (TE, 30 μg). Results were inter-
+preted according to breakpoints as deﬁned by the
+Clinical and Laboratory Standards Institute (CLSI)
+guidelines for Enterobacteriaceae [22].
+
+Isolates were assigned to a serovar by multilocus se-
+quence typing (MLST) on DNA extracted using the
+Wizard Genomic DNA extraction kit (Promega, USA)
+from one full loop of pure NTS colonies of overnight
+culture in nutrient agar media. PCR ampliﬁcation was
+performed on the seven MLST loci aroC, dnaN, hemD,
+hisD, purE, sucA and thrA, as described previously
+[22]. PCR products were puriﬁed using QIAquick
+column-based PCR puriﬁcation system (Qiagen, USA)
+and sequenced in forward and reverse directions using
+the Big Dye Cycle Sequencing kit (Applied Biosystems,
+USA) on an ABI 3770 automatic sequencer according
+to the manufacturer’s instructions. After generating a se-
+quence type, strains were inferred to serotypes according
+to the data available on the MLST database (http://mlst.
+warwick.ac.uk/mlst/dbs/Senterica/).
+
+Due to economic limitations, we performed selective
+MLST-based serovar identiﬁcation on one isolate repre-
+senting each phenotypic pattern, deﬁned by the combi-
+nation of
+(a) serovar/serogroup (S. Typhimurium,
+mST, other group B, group C, group D, and ‘other
+group’); and (b) sensitivity results for 10 antimicrobials.
+The tested isolate was chosen at random.
+
+Statistical analyses
+
+Data from all farms were combined into a unique
+dataset aiming to model the overall probability of a
+
+swab testing positive for NTS. Since the number of
+farms in each stratum (i = 1,
+. . ., 36) was known
+from census data, prevalence estimates and odds
+ratio (OR) estimates, regression models were adjusted
+by assigning a stratum-speciﬁc sampling weight (Wi)
+to each observation unit (swab):
+Wi = NT
+Ni
+
+,
+
+where NT is the total number of farms ( 35 248) and Ni is
+the number of farms sampled in each stratum. Standard
+errors were corrected to take into account potential
+similarities between farms in each stratum [23]. The
+prevalence of a positive boot swab per farm was com-
+pared for each species. Risk factor analyses at swab
+level were performed using hierarchical
+logistic re-
+gression with ‘farm’ as the clustering variable for the
+following outcomes: (1) prevalence of NTS; (2) preva-
+lence of S. Typhimurium-positive results (vs. any
+other result, including negative); and (3) prevalence of
+mST result (vs. any other result, including negative).
+
+by
+
+its
+
+of
+
+unique
+
+combination
+
+Each NTS isolate was characterized by a proﬁle
+deﬁned
+type
+(S. Typhimurium, mST, other group B, group C,
+group D, other group) and its susceptibility/resistance
+against the 10 antimicrobials tested. Shannon–Weaver
+entropy (H) was used to estimate the farm-level diver-
+sity of isolates from the same farm. H was deﬁned as:
+
+H = − (cid:1)R
+i=1
+
+pi ln pi,
+
+where pi is the proportion of isolates with the ith resist-
+ance proﬁle, and R is the total number of proﬁles.
+Higher values of H correspond to greater diversity
+in AMR proﬁles.
+
+The prevalence of AMR against all antimicrobials
+tested (and their corresponding 95% conﬁdence inter-
+vals; CI) was calculated for S. Typhimurium, mST
+and other group B serovars, groups C, and D, and
+other group serovars separately. Hierarchical logistic
+regression models with the variable ‘farm’ as a ran-
+dom effect were built using data on all NTS isolates
+to investigate the outcome of ‘probability of a multi-
+drug resistant (MDR) strain’, deﬁned as resistance
+against 53 classes of antimicrobials. Variables inves-
+tigated in all models were: (1) type of farm, deﬁned by
+the target species and size (nine categories); (2) age,
+gender and years of experience of the farmer; (3) use
+of antimicrobials on the farm over the last 3 months;
+(4) use of any Salmonella vaccines on target species on
+farm;
+(enteric,
+
+(5) history of disease on farms
+
+4
+
+L. T. P. Tu and others
+
+Table 1. Crude farm-level prevalence by farm category (Dong Thap, Mekong Delta, 2012)
+
+Small
+
+Target
+species
+
+Chicken
+Duck
+Pig
+
+No. farms
+
+No. positive/
+total
+
+Prevalence
+
+117
+118
+104
+341
+
+22/36
+32/35
+34/37
+88/108
+
+61·1%
+91·4%
+91·9%
+81·5%
+
+Medium
+
+No. positive/
+total
+
+24/42
+45/50
+32/38
+101/130
+
+Large
+
+No. positive/
+total
+
+28/39
+33/35
+25/29
+86/103
+
+Prevalence
+
+57·1%
+90·0%
+84·2%
+79/6%
+
+Prevalence
+
+71·8%
+94·3%
+86·2%
+84·2%
+
+respiratory or other); (6) presence of chickens/ducks/
+pigs as ‘non-target species’; (7) presence of cattle/buf-
+falo/dog/cat; (8) type of water (well, municipal); and
+(9) frequency of rodent and wild bird sightings. In
+all models candidate variables were those signiﬁcant
+(<0.05) in the univariable models for any of the
+three outcomes. Variables were ranked by their degree
+of signiﬁcance and were included in the model starting
+with the most signiﬁcant ones using a step-wise for-
+ward approach [24]. In each of the ﬁnal multivariable
+models, variables were retained if their P value was
+<0·05 for any of the outcome variables. All interac-
+tions between signiﬁcant variables in the model were
+assessed. The suitability of each new variable included
+in the model was assessed using the Wald test [23]. All
+interactions between ﬁnal signiﬁcant variables were
+tested. All statistical analyses were performed using
+R packages
+(http://www.
+r-project.org).
+
+‘survey’ and ‘epicalc’
+
+chicken farms (64·7%, 95% CI 49·4–80·0). Chicken
+farms had a signiﬁcantly lower NTS prevalence than
+both duck and pig farms (P < 0·05). There were no stat-
+istically signiﬁcant differences in prevalence by district
+for any of the three species (data not shown).
+
+S. Typhimurium was most commonly isolated from
+duck farms (19·6%) and least from pig farms (2·7%).
+mST was most commonly isolated from duck farms
+(13·5%). The farm-level prevalence of NTS belonging
+to groups other than B, C, or D was 62·4% (pig farms),
+42·8% (duck farms), and 37·3% (chickens farms).
+
+Sample-level prevalence
+
+At the sample (swab) level, the highest prevalence of
+NTS corresponded to samples from duck farms
+(69·8%, 95% CI 61·2–76·3), followed by pig (65·4%,
+95% CI 59·0–71·9) and chicken (31·0%, 95% CI
+22·3–39·3) farms (Fig. 2).
+
+RESULTS
+
+The total number of farms in the sampling frame as well
+as the actual number of farms sampled (sampling units)
+and their associated sampling weights are shown in
+Supplementary Table S1. A total of 341 farms were
+sampled (117 chicken, 118 duck, 104 pig farms) using a
+total of 1349 swabs, and 739 NTS isolates were recov-
+ered. Since small chicken farms were by far the predomi-
+nant farm category (66·2% of all farms), swabs from
+these farms were assigned the largest sampling weight.
+
+Diversity of NTS proﬁles by farm type
+
+Of farms with at least two NTS isolates, the overall H
+was greatest for pig farms [median 0·69, interquartile
+range (IQR) 0·56–1·1], followed by duck (median
+0·69, IQR 0·56–1·0) and chicken (median 0·61, IQR
+0–0·69) farms, although the difference between differ-
+ent species was not statistically signiﬁcant (Kruskal–
+Wallis χ2 = 3·44, P = 0·178). Of all farm types, large
+duck farms had the greatest diversity of proﬁles
+(H = 0·74, IQR 0·69–1·1).
+
+Farm-level prevalence
+
+Risk factors for NTS, S. Typhimurium and mST
+
+The crude farm-level prevalence by species is shown in
+Table 1. The overall survey adjusted farm-level preva-
+lence of NTS was 73·0% (95% CI 62·0–84·0) (Fig. 1).
+The highest survey-adjusted NTS prevalence corre-
+sponded to duck farms (94·3%, 95% CI 88·3–100·0), fol-
+lowed by pig farms (91·3%, 95% CI 83·1–99·5) and
+
+The nine farm-type categories were combined into
+four groups, (a) chicken farms (baseline); (b) duck
+farms; (c) small pig farms; and (d) medium and
+large pig farms, given the observed statistically signiﬁ-
+cant differences in risk between (b), (c), and (d) and
+baseline. Swabs from duck farms were associated
+
+Salmonella on livestock farms in the Mekong Delta, Vietnam
+
+5
+
+All NTS
+
+Group B
+
+Group C
+
+Group D
+
+Other group
+
+S. Typhimurium
+
+Monophasic S. Typhimurium
+
+Fig. 1. Farm-level prevalence of non-typhoidal Salmonella (NTS) adjusted for the sampling frame, by host species
+(chickens, ducks, pigs) (lines indicate 95% conﬁdence intervals) (Dong Thap, Mekong Delta, 2012).
+
+with a higher prevalence of NTS compared to chicken
+swabs (OR 21·2). Compared to chicken farms, pig
+farms had an increased risk, although the magnitude
+of risk was higher for large farms (OR 11·9, compared
+to OR 4·9 for smaller pig farms). Other factors asso-
+ciated with NTS were ‘rodents seen at least weekly’
+(OR 2·3), and male farmer (OR 2·5). The interaction
+between ‘high frequency of rodent sightings’ and
+farm type indicated an additional increase in risk for
+small pig farms, large pig farms and chicken farms
+with high frequency of rodent sightings (OR 8·8,
+21·3, and 1·8, respectively) (compared to chicken
+farms with low frequency of rodent sightings). By con-
+trast, duck farms with a high frequency of rodent
+sightings had no increased risk (vs. duck farms with
+low frequency of rodent sightings) (OR 0·79, P = 0·26).
+Of the three species, ducks had the greatest preva-
+lence of S. Typhimurium, although it was only signiﬁ-
+cantly greater compared to pigs (but not chickens).
+The human density at commune level was a strong
+protective factor for S. Typhimurium (log number of
+humans/km2, OR 0·5).
+
+Duck ﬂocks had a greater probability of testing
+positive with mST compared to chickens or pigs
+(OR 6·8), as did farms located in areas of high density
+of pig farms (OR 1·6). By contrast, supplying animals
+with municipal water was a strong protective factor
+(OR 0·1) for all species (Table 2).
+
+A total of 97/103 pig farmers reported that they had
+vaccinated their herds against Salmonella over the pre-
+vious year, using both inactivated and attenuated pre-
+parations
+containing S. Cholerasuis and/or S.
+Typhimurium strains. There was no difference in
+prevalence between vaccinated and unvaccinated
+herds (data not shown). None of the chicken and
+duck farms reported using Salmonella vaccines.
+
+Antimicrobial resistance
+
+A total of 727/739 (98·4%) NTS isolates
+(50
+S. Typhimurium, 45 mST, 168 other group B, 101
+group C, 53 group D, 310 ‘other’ groups) were tested
+for AMR. The highest observed levels of resistance
+were against tetracyclines (77·6%) chloramphenicol
+(27·2%),
+sulfamethoxazole-trimethoprim (27·0%),
+ampicillin (24·2%), and nalidixic acid (22·8%). The
+proportion of strains resistant against ciproﬂoxacin
+was 1·3%. The proportion of MDR isolates (resistant
+to 53 classes of antimicrobials) was 30·1%. The pro-
+portion of MDR was greatest for group B serovars
+other than S. Typhimurium and mST (42·8%), fol-
+lowed by mST (37·8%), and S. Typhimurium
+(22·0%). MDR was lowest for groups C and D NTS
+(11·9% and 9·4%, respectively) (Table 3). Compared
+to poultry NTS isolates, pig isolates had higher levels
+of AMR against tetracycline (83·3% vs. 68·1–77·6%),
+
+6
+
+L. T. P. Tu and others
+
+Small
+
+Median
+
+Large
+
+Median = 1.0 (1.0–2.0)
+
+Median = 1.5 (1.0–3.0)
+
+Median = 2.0 (1.0–3.0)
+
+Median = 3.0 (2.0–3.0)
+
+Median = 3.5 (2.75–4.0)
+
+Median = 4.0 (3.0–5.0)
+
+Median = 2.0 (1.0–3.0)
+
+Median = 3.0 (2.0–4.0)
+
+Median = 4.0 (3.0–4.0)
+
+s
+n
+e
+k
+c
+h
+C
+
+i
+
+s
+k
+c
+u
+D
+
+s
+g
+P
+
+i
+
+s
+m
+r
+a
+
+f
+ 
+f
+
+o
+
+ 
+s
+r
+e
+b
+m
+u
+N
+
+24
+
+20
+
+16
+
+12
+
+8
+
+4
+
+0
+24
+
+20
+
+16
+
+12
+
+8
+
+4
+
+0
+24
+
+20
+
+16
+
+12
+
+8
+
+4
+
+0
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+2
+
+3
+
+1
+
+0
+Number of positive swabs
+
+4
+
+5
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Fig. 2. Distribution of farms by number of boot swabs positive for non-typhoidal Salmonella, presented separately by host
+species and size (Dong Thap, Mekong Delta, 2012).
+
+ampicillin (41·3% vs. 14·3–19·4%), chloramphenicol
+(41·3% vs. 20·1–20·4%), gentamicin (7·5% vs. 2·6–
+4·2%) and sulfamethoxazole-trimethoprim (36·7%
+vs. 14·6–25·4%). NTS isolates resistant
+to third-
+generation cephalosporins (ceftriaxone and/or ceftazi-
+dime) were identiﬁed in all
+three animal species,
+although at low numbers (<1%) (data not shown).
+
+Risk factors for MDR
+
+MDR was associated with pig farms (vs. other species)
+(OR 4·5) and with mST (OR 18·5), other group B serovars
+(OR 13·6), groups other than B, C, or D (OR 6·3), and
+S. Typhimurium (OR 6·2) (vs. groups C and D). A high
+density of pig farms in the commune was also a risk.
+The calculated OR of 1·4 is equivalent to an OR of 6·8
+
+for a farm located in a commune with a density of 86
+pig farms/km2 (75% quantile) vs. farms in communes
+with density of 16 pig farms/km2 (25% quantile). The
+human density was not associated with increased resist-
+ance and was therefore excluded from the model (Table 4).
+
+Serovar allocation to representative AMR/serogroup
+patterns by MLST
+
+Of isolates other than S. Typhimurium and mST
+(n = 632) there were 63 unique patterns reﬂecting the
+combinations of NTS group (groups B, C, D, and
+other) and AMR test result. A total of 14 different sero-
+vars were identiﬁed by testing one randomly selected iso-
+late within each pattern. A total of 391/632 isolates
+(61·9%) corresponded to seven patterns of isolates either
+
+Salmonella on livestock farms in the Mekong Delta, Vietnam
+
+7
+
+Table 2. Signiﬁcant risk factors for NTS, S. Typhimurium and monophasic S. Typhimurium at sample level (Dong
+Thap, Mekong Delta, 2012)
+
+Model A: Outcome NTS (any)
+Animal species (baseline = chicken farm)
+
+Pig farm 5–50 pigs
+Pig farm >50 pigs
+Duck farm
+
+Rodents seen at least weekly
+Male farmer
+Interaction rats seen at least weekly × duck farm
+Model B: Outcome S. Typhimurium
+Male farmer (baseline = female)
+Target species (baseline = pig farm)
+
+Chicken
+Duck
+
+log(human density*)
+Model C: Outcome monophasic S. Typhimurium
+Duck target spp. (vs. chicken and pig)
+Municipal water
+log(density of pig farms†)
+
+OR
+
+1·0
+4·88
+11·87
+21·17
+2·29
+2·47
+0·26
+
+3·03
+1·0
+2·50
+7·44
+0·50
+
+6·76
+0·07
+1·56
+
+95% CI
+
+P value
+
+—
+2·83–8·43
+4·20–33·53
+8·39–53·46
+1·06–4·95
+1·05–5·81
+0·09–0·76
+
+1·90–4·86
+—
+0·38–15·9
+2·0–27·6
+0·31–0·78
+
+1·07–42·5
+0·01–0·38
+1·18–2·06
+
+—
+
+<0·001
+<0·001
+<0·001
+0·034
+0·039
+0·015
+
+<0·001
+
+0·002
+
+0·042
+0·002
+0·002
+
+NTS, Non-typhoidal Salmonella; OR, odds ratio; CI, conﬁdence interval.
+Intercept model 1 (2·60, S.E. = 1·21); intercept model 2 (−4·87, S.E. = 1·62); intercept model 3 (−6·25, S.E. = 1·25);
+* No. of humans/km2 in commune.
+† No. of pig farms/km2 in commune.
+
+fully susceptible, or tetracycline-only resistant: group B
+fully susceptible (n = 18, assigned as Paratyphi B var.
+Java); group B tetracycline resistant (n = 71, S. Derby);
+group C fully susceptible (n = 31, S. Rissen), group C
+tetracycline-resistant
+(n = 48, S. Bareilly); group D
+fully susceptible (n = 17; S. Dublin); ‘other group’ fully
+‘other
+group’
+susceptible
+tetracycline-resistant (n = 108, S. Weltvreden).
+
+(n = 67, S. London);
+
+The remaining 56 patterns (i.e. with resistance pattern
+other than tetracycline-only), representing 241 isolates,
+and their allocated serovar identity are presented in
+Table 5. The most commonly identiﬁed serovars were
+S. Derby (n = 9 patterns), S. London (n = 7), S. Anatum
+(n = 7), S. Indiana (n = 6), and S. Rissen (n = 5).
+
+In chicken farms, patterns assigned to S. London
+in duck farms
+Indiana and S. London; and in pig farms
+
+and S. Anatum were predominant;
+S.
+S. Derby and S. London were predominant.
+
+DISCUSSION
+
+Results from this study indicate an unusually high farm-
+level prevalence of NTS (73%) in the Mekong Delta of
+Vietnam, the highest (>90%) corresponding to pig and
+duck farms. Farms surveyed in the European Union
+(EU) using standardized methodologies (2005–2008)
+
+had a marked overall lower prevalence, although NTS
+was more common in pig farms (33·3%) compared to
+chicken broiler and layer farms (23·7 and 30·8%,
+respectively) [25–27].
+
+In our survey duck farms had the highest farm-level
+NTS prevalence (94·3%). A possible explanation is the
+relatively less attention to biosecurity and the charac-
+teristic management system of duck ﬂocks that involve
+grazing on rice ﬁelds [28]. A previous study also
+reported a higher animal-level prevalence in ducks
+(8·7%) compared to pigs and chickens (5·2–7·9%) in
+the Mekong Delta, although these differences were
+not signiﬁcant
+[29]. Data from Denmark (2012),
+where duck ﬂocks are routinely monitored, indicate
+a higher prevalence of NTS infection in duck ﬂocks
+compared to chicken ﬂocks (46·0% vs. 0·8%) [30].
+Our data also indicated that, of the three species,
+ducks also had the highest per sample prevalence.
+This probably reﬂects higher levels of animal-level in-
+fection, since the sensitivity of pooled samples is a
+function of within bird-level prevalence [31].
+
+A high frequency of rat sightings on farms was a
+signiﬁcant risk factor. Studies have documented an as-
+sociation between rodents and increased risk of NTS
+on farms [32, 33]. Rats are extremely prevalent in
+the Mekong Delta. A study on 600 rats trapped in
+
+8
+
+L. T. P. Tu and others
+
+)
+7
+·
+2
+3
+–
+8
+·
+2
+2
+(
+
+7
+·
+7
+2
+
+)
+3
+·
+0
+1
+–
+5
+·
+4
+(
+
+)
+5
+·
+1
+–
+0
+·
+0
+(
+
+)
+5
+·
+1
+–
+0
+·
+0
+(
+
+4
+·
+7
+
+6
+·
+0
+
+6
+·
+0
+
+)
+0
+·
+0
+8
+–
+4
+·
+0
+7
+(
+
+)
+8
+·
+7
+3
+–
+4
+·
+7
+2
+(
+
+)
+6
+·
+7
+2
+–
+2
+·
+8
+1
+(
+
+2
+·
+5
+7
+
+6
+·
+2
+3
+
+9
+·
+2
+2
+
+)
+5
+·
+3
+–
+4
+·
+0
+(
+
+)
+8
+·
+4
+–
+0
+·
+1
+(
+
+9
+·
+1
+
+9
+·
+2
+
+)
+8
+·
+5
+3
+–
+5
+·
+5
+2
+(
+
+)
+1
+·
+8
+3
+–
+7
+·
+7
+2
+(
+
+6
+·
+0
+3
+
+9
+·
+2
+3
+
+s
+p
+u
+o
+r
+g
+
+r
+e
+h
+t
+O
+
+D
+p
+u
+o
+r
+G
+
+C
+p
+u
+o
+r
+G
+
+B
+p
+u
+o
+r
+g
+
+r
+e
+h
+t
+O
+
+)
+4
+·
+9
+1
+–
+3
+·
+6
+(
+
+9
+·
+2
+1
+
+)
+0
+·
+7
+2
+–
+7
+·
+4
+1
+(
+
+8
+·
+0
+2
+
+s
+l
+a
+i
+b
+o
+r
+c
+i
+m
+
+i
+t
+n
+a
+
+0
+1
+
+f
+o
+
+l
+e
+n
+a
+p
+
+a
+
+t
+s
+n
+i
+a
+g
+a
+
+d
+e
+t
+s
+e
+t
+
+)
+R
+D
+M
+(
+
+t
+n
+a
+t
+s
+i
+s
+e
+r
+
+g
+u
+r
+d
+-
+i
+t
+l
+u
+m
+d
+n
+a
+
+t
+n
+a
+t
+s
+i
+s
+e
+r
+
+)
+7
+2
+7
+=
+n
+(
+
+s
+e
+t
+a
+l
+o
+s
+i
+
+a
+l
+l
+e
+n
+o
+m
+l
+a
+S
+
+l
+a
+d
+i
+o
+h
+p
+y
+t
+-
+n
+o
+n
+
+f
+o
+
+e
+g
+a
+t
+n
+e
+c
+r
+e
+P
+
+.
+3
+
+e
+l
+b
+a
+T
+
+)
+3
+·
+7
+1
+–
+6
+·
+1
+(
+
+)
+7
+·
+3
+–
+0
+·
+0
+(
+
+)
+0
+·
+1
+–
+0
+·
+0
+(
+
+)
+0
+·
+1
+–
+0
+·
+0
+(
+
+4
+·
+9
+
+0
+·
+1
+
+1
+·
+0
+
+1
+·
+0
+
+)
+3
+·
+6
+–
+0
+·
+0
+(
+
+)
+7
+·
+0
+–
+0
+·
+0
+(
+
+)
+7
+·
+0
+–
+0
+·
+0
+(
+
+0
+·
+3
+
+1
+·
+0
+
+1
+·
+0
+
+)
+5
+·
+0
+8
+–
+4
+·
+5
+5
+(
+
+9
+·
+7
+6
+
+)
+6
+·
+4
+7
+–
+1
+·
+6
+5
+(
+
+3
+·
+5
+6
+
+)
+3
+·
+7
+1
+–
+6
+·
+1
+(
+
+)
+0
+·
+1
+–
+0
+·
+0
+(
+
+)
+0
+·
+1
+–
+0
+·
+0
+(
+
+)
+0
+·
+1
+–
+0
+·
+0
+(
+
+)
+0
+·
+1
+–
+0
+·
+0
+(
+
+)
+3
+·
+7
+1
+–
+5
+·
+1
+(
+
+1
+·
+0
+
+4
+·
+9
+
+1
+·
+0
+
+1
+·
+0
+
+1
+·
+0
+
+4
+·
+9
+
+)
+5
+·
+4
+1
+–
+4
+·
+3
+(
+
+)
+2
+·
+9
+–
+7
+·
+0
+(
+
+)
+7
+·
+0
+–
+0
+·
+0
+(
+
+)
+7
+·
+0
+–
+0
+·
+0
+(
+
+)
+5
+·
+4
+1
+–
+4
+·
+3
+(
+
+)
+2
+·
+8
+1
+–
+6
+·
+5
+(
+
+0
+·
+5
+
+9
+·
+8
+
+1
+·
+0
+
+1
+·
+0
+
+9
+·
+8
+
+9
+·
+1
+1
+
+)
+8
+·
+3
+–
+0
+·
+0
+(
+
+)
+8
+·
+1
+–
+0
+·
+0
+(
+
+)
+6
+·
+0
+–
+0
+·
+0
+(
+
+8
+·
+1
+
+6
+·
+0
+
+1
+·
+0
+
+)
+5
+·
+2
+9
+–
+5
+·
+2
+8
+(
+
+)
+3
+·
+7
+4
+–
+5
+·
+2
+3
+(
+
+)
+8
+·
+4
+4
+–
+2
+·
+0
+3
+(
+
+5
+·
+7
+8
+
+9
+·
+9
+3
+
+5
+·
+7
+3
+
+)
+0
+·
+1
+1
+–
+2
+·
+3
+(
+
+)
+5
+·
+9
+–
+4
+·
+2
+(
+
+0
+·
+6
+
+1
+·
+7
+
+)
+2
+·
+4
+4
+–
+6
+·
+9
+2
+(
+
+)
+3
+·
+0
+5
+–
+4
+·
+5
+3
+(
+
+9
+·
+6
+3
+
+9
+·
+2
+4
+
+m
+u
+i
+r
+u
+m
+h
+p
+y
+T
+
+i
+
+.
+
+S
+
+c
+i
+s
+a
+h
+p
+o
+n
+o
+M
+
+)
+2
+·
+2
+7
+–
+3
+·
+3
+4
+(
+
+)
+3
+·
+3
+2
+–
+4
+·
+3
+(
+
+)
+5
+·
+0
+1
+–
+0
+·
+0
+(
+
+)
+5
+·
+0
+1
+–
+0
+·
+0
+(
+
+)
+6
+·
+6
+9
+–
+7
+·
+6
+7
+(
+
+)
+5
+·
+9
+4
+–
+6
+·
+1
+2
+(
+
+)
+6
+·
+9
+3
+–
+7
+·
+3
+1
+(
+
+)
+2
+·
+7
+1
+–
+6
+·
+0
+(
+
+)
+7
+·
+1
+3
+–
+3
+·
+8
+(
+
+)
+9
+·
+1
+5
+–
+6
+·
+3
+2
+(
+
+)
+9
+·
+1
+5
+–
+6
+·
+3
+2
+(
+
+8
+·
+7
+5
+
+3
+·
+3
+1
+
+4
+·
+4
+
+4
+·
+4
+
+7
+·
+6
+8
+
+6
+·
+5
+3
+
+7
+·
+6
+2
+
+9
+·
+8
+
+0
+·
+0
+2
+
+8
+·
+7
+3
+
+8
+·
+7
+3
+
+m
+u
+i
+r
+u
+m
+h
+p
+y
+T
+
+i
+
+.
+
+S
+
+s
+r
+a
+v
+o
+r
+e
+s
+
+l
+l
+
+A
+
+)
+5
+·
+3
+3
+–
+5
+·
+0
+1
+(
+
+0
+·
+2
+2
+
+)
+3
+·
+7
+2
+–
+1
+·
+1
+2
+(
+
+2
+·
+4
+2
+
+)
+4
+·
+9
+–
+0
+·
+0
+(
+
+)
+0
+·
+1
+–
+0
+·
+0
+(
+
+)
+0
+·
+1
+–
+0
+·
+0
+(
+
+0
+·
+4
+
+1
+·
+0
+
+1
+·
+0
+
+)
+6
+·
+5
+9
+–
+4
+·
+6
+7
+(
+
+)
+6
+·
+8
+2
+–
+4
+·
+7
+(
+
+)
+0
+·
+1
+2
+–
+0
+·
+3
+(
+
+)
+6
+·
+2
+1
+–
+0
+·
+0
+(
+
+)
+0
+·
+1
+–
+0
+·
+0
+(
+
+0
+·
+6
+8
+
+0
+·
+8
+1
+
+0
+·
+2
+1
+
+1
+·
+0
+
+0
+·
+6
+
+)
+2
+·
+8
+3
+–
+8
+·
+3
+1
+(
+
+)
+5
+·
+3
+3
+–
+5
+·
+0
+1
+(
+
+0
+·
+6
+2
+
+0
+·
+2
+2
+
+)
+7
+·
+6
+–
+5
+·
+3
+(
+
+)
+3
+·
+1
+–
+0
+·
+0
+(
+
+)
+1
+·
+1
+–
+0
+·
+0
+(
+
+1
+·
+5
+
+7
+·
+0
+
+6
+·
+0
+
+)
+6
+·
+0
+8
+–
+5
+·
+4
+7
+(
+
+)
+5
+·
+0
+3
+–
+0
+·
+4
+2
+(
+
+)
+9
+·
+5
+2
+–
+8
+·
+9
+1
+(
+
+6
+·
+7
+7
+
+2
+·
+7
+2
+
+8
+·
+2
+2
+
+)
+9
+·
+3
+–
+6
+·
+1
+(
+
+)
+1
+·
+6
+–
+0
+·
+3
+(
+
+8
+·
+2
+
+5
+·
+4
+
+)
+2
+·
+0
+3
+–
+7
+·
+3
+2
+(
+
+)
+8
+·
+1
+3
+–
+4
+·
+8
+2
+(
+
+0
+·
+7
+2
+
+1
+·
+0
+3
+
+P
+M
+A
+
+G
+U
+A
+
+O
+R
+C
+
+Z
+A
+C
+
+E
+T
+
+C
+
+A
+N
+
+P
+I
+C
+
+N
+C
+
+R
+D
+M
+
+T
+X
+S
+
+)
+2
+1
+0
+2
+
+,
+a
+t
+l
+e
+D
+g
+n
+o
+k
+e
+M
+
+,
+p
+a
+h
+T
+g
+n
+o
+D
+(
+
+,
+
+N
+C
+
+;
+
+n
+i
+c
+a
+x
+o
+ﬂ
+o
+r
+p
+i
+c
+
+,
+
+P
+I
+C
+
+;
+
+d
+i
+c
+a
+
+c
+i
+x
+i
+d
+
+i
+l
+a
+n
+
+,
+
+A
+N
+
+;
+l
+
+o
+c
+i
+n
+e
+h
+p
+m
+a
+r
+o
+h
+c
+
+l
+
+,
+
+C
+
+;
+e
+n
+
+i
+l
+c
+y
+c
+a
+r
+t
+e
+t
+
+,
+
+E
+T
+
+i
+
+;
+e
+m
+d
+i
+z
+a
+t
+f
+e
+c
+
+,
+
+Z
+A
+C
+
+;
+e
+n
+o
+x
+a
+i
+r
+t
+f
+e
+c
+
+,
+
+O
+R
+C
+
+;
+
+d
+i
+c
+a
+
+c
+i
+n
+a
+l
+u
+v
+a
+l
+c
+/
+n
+
+i
+l
+l
+i
+c
+i
+x
+o
+m
+a
+
+,
+
+G
+U
+A
+
+;
+
+n
+
+i
+l
+l
+i
+c
+i
+p
+m
+a
+
+,
+
+P
+M
+A
+
+.
+
+m
+
+i
+r
+p
+o
+h
+t
+e
+m
+
+i
+r
+t
+-
+e
+l
+o
+z
+a
+x
+o
+h
+t
+e
+m
+a
+f
+l
+u
+s
+
+,
+
+T
+X
+S
+
+,
+
+n
+i
+c
+i
+m
+a
+t
+n
+e
+g
+
+.
+)
+l
+a
+v
+r
+e
+t
+n
+
+i
+
+e
+c
+n
+e
+d
+ﬁ
+n
+o
+c
+%
+5
+9
+(
+
+%
+e
+r
+a
+
+n
+e
+v
+i
+g
+
+s
+e
+u
+l
+a
+V
+
+several Mekong Delta provinces indicated high NTS
+prevalence (19·3%) (40% for rats trapped in Dong
+Thap). A total of 94% rats were colonized by either
+NTS serovars London, Weltevreden or Derby, all
+identiﬁed in our study [34]. Most farm buildings in
+the Mekong Delta are not rat-proof, and pest control
+measures are normally insufﬁcient. In these circum-
+stances rodents can easily access feed storages where
+they often defecate. This may plausibly contribute to
+infection of farmed animals through consumption of
+contaminated feed. The signiﬁcant (protective) inter-
+action between ducks and rodents suggests that, unlike
+in the case of pigs and chickens, rats probably play a
+lesser role in transmission of NTS to ducks, and other
+sources linked to their grazing practices may be more
+relevant. However the low levels of biosecurity in
+Mekong Delta farms suggest the potential role of
+many potential vectors and reservoirs.
+
+We report a higher risk in larger pig farms (n > 50),
+in agreement with previous studies [35, 36], reﬂecting
+the challenge in controlling NTS in pig production,
+probably due to the continuous introduction of new
+NTS strains via replacement of breeding stock, as
+well as the intrinsic difﬁculties of adequately disinfect-
+ing occupied buildings.
+
+Although most NTS infections in animals are
+asymptomatic, some host species-adapted serovars
+such as S. Cholerasuis and S. Typhisuis (pigs) and
+S. Pullorum and S. Gallinarum (chickens) often
+cause fatal disease [37]. In pigs, septicaemic episodes
+of S. Typhimurium have been reported [38]. In
+Mekong Delta pig farmers there is a strong perception
+that NTS infections cause signiﬁcant production
+losses, and this explains the high proportion of farm
+owners reporting routine vaccination (94%).
+
+Of the three animal species investigated, serovars S.
+Typhimurium and mST were more common in ducks.
+This is in contrast with European countries where
+these serovars are predominantly isolated from pig
+farms and pork [25, 39, 40]; however, the size of the
+duck industry in the EU is very small and data on
+NTS prevalence in ducks is limited.
+
+The negative association between mST and munici-
+pal water suggests that water sources other than mu-
+nicipal water (i.e. river, well or rain water) may
+represent potential risks, although no speciﬁc water
+source categories remained signiﬁcant in the multi-
+variable models.
+
+With the exception of tetracyclines, against which
+most (77·8%) isolates were resistant, levels of resistance
+against ampicillin, chloramphenicol, and nalidixic acid
+
+Salmonella on livestock farms in the Mekong Delta, Vietnam
+
+9
+
+Table 4. Results of multivariable-level model investigating risk factors for MDR in 727 NTS isolates (Dong Thap,
+Mekong Delta, 2012)
+
+Variable
+
+Animal species
+
+Type of NTS
+
+log(density of pig farms†)
+
+Level
+
+Baseline = chicken and duck farm
+Pig farm
+Baseline = groups C and D
+Monophasic S. Typhimurium
+S. Typhimurium
+Other group B
+Other groups*
+
+OR
+
+1·0
+4·53
+1·0
+18·53
+6·23
+13·56
+6·35
+1·45
+
+95% CI
+
+—
+2·17–9·46
+—
+4·89–70·24
+1·67–23·26
+5·12–35·87
+2·62–15·37
+1·10–1·91
+
+P value
+
+—
+
+<0·001
+
+—
+
+<0·001
+0·003
+0·0 001
+0·001
+0·0 023
+
+MDR, Multidrug resistance; NTS, non-typhoidal Salmonella; OR, odds ratio; CI, conﬁdence interval.
+Model intercept: −5·38 (S.E. = 0·76).
+* Isolates belonging to groups other than B, C, or D.
+† No. of pigs/km2 in the commune;
+
+were generally lower (22·8–27·0%) compared to NTS
+isolates from meat samples in northern Vietnam
+(24·5–39·8%) [12, 41]. We found a strong association
+between group B serovars and AMR, independent of
+the animal host species, with the highest prevalence of
+MDR corresponding to mST, followed by ‘other’
+group B serovars.
+
+Compared to chicken and duck isolates, a higher
+proportion of NTS isolates from pigs were antimicro-
+bial resistant. In addition AMR was partly explained
+by the density of pig farms, suggesting that environ-
+mental contamination with antimicrobials or other
+AMR organisms from pig farms in the vicinity
+could have an impact beyond the pig farms them-
+selves. Nevertheless, our results are in agreement
+with routine monitoring data collected in the EU
+where resistance levels in isolates from pigs against tet-
+racyclines, ampicillin and sulphonamides were higher
+than in broiler isolates (55–59% vs. 20–27%). By con-
+trast, EU chicken NTS isolates had moderate to high
+levels of
+resistance against nalidixic acid and
+ciproﬂoxacin (23–24%), whereas pig isolates had low
+levels of resistance (2–3%) [42]. However, surveillance
+data on AMR from animal NTS in the EU indicate
+resistance based on EUCAST epidemiological cut-off
+values, not clinical breakpoints. Because of this, the
+observed differences should be viewed with caution.
+
+NTS isolates had low levels of AMR (<1%) against
+third-generation cephalosporins, in agreement with pre-
+vious ﬁndings [9, 12, 43], and in contrast with data from
+Malaysia, Singapore and Thailand (>3%) [44].
+
+The emergence of mST worldwide has been asso-
+ciated with clonal groups resistant to ampicillin, sul-
+phonamides, streptomycin and tetracyclines [45, 46].
+
+Although we did not test for streptomycin resistance,
+our results conﬁrm a high proportion (31·1%) of
+mST co-resistant against ampicillin, sulphonamides
+and tetracyclines, vs. 16·9% in other serovars (data
+not shown).
+
+We used MLST to test isolates representing unique
+serogroup/AMR combinations, excluding fully sus-
+ceptible or tetracycline resistant-only isolates. Unfortu-
+nately, we could not perform MLST testing on all 739
+isolates due to economic limitations. Clearly testing
+was insufﬁcient for the (more common) fully susceptible
+or tetracycline-only susceptible serovars. It is expected
+that more economic alternatives to conventional sero-
+typing will become available in developing countries to
+enable the characterization of NTS on farms and the in-
+vestigation of human outbreaks [39].
+
+In summary, we demonstrated an exceptionally
+high prevalence and high diversity in NTS serovars
+across farms in the Mekong Delta. Of the three species
+investigated, ducks had the highest NTS prevalence
+although pigs were associated with the highest levels
+of MDR. Levels of AMR were considerably high
+for most antimicrobials investigated, except for amox-
+icillin/clavulanic
+third-
+generation cephalosporins.
+
+ciproﬂoxacin
+
+acid,
+
+and
+
+Our study conﬁrmed the widespread presence of
+MDR mST in Mekong Delta farms, as reported in
+other countries. Farming practices in the Mekong
+Delta are typical of many developing countries in
+the region. There is a concern that fast increases in an-
+imal production are not matched by increases in bio-
+security and testing programmes
+foodborne
+pathogens. In Vietnam, virtually no NTS serotyping
+is
+conducted in human or animal diagnostic
+
+for
+
+10
+
+L. T. P. Tu and others
+
+Table 5. Serovar identity assigned by MLST to individual serogroup resistance patterns (Dong Thap, Mekong
+Delta, 2012) (N = 56 patterns). Fully susceptible or tetracycline resistant-only patterns were excluded
+
+MLST-assigned serovar
+
+Pattern
+
+No. of farms where
+present
+
+Chicken Duck Pig
+
+No. of
+isolates
+
+Derby
+
+Indiana
+
+Paratyphi B var. Java
+monophasic
+Bareilly
+
+Hadar
+
+Litchﬁeld
+Newport
+
+Rissen
+
+Enteritidis
+Anatum
+
+Give
+
+London
+
+Other group B: AMP-C-NA-SXT
+Other group B: AMP-TE-C-NA-CIP-SXT
+Other group B: AMP-TE-C-NA-CN-SXT
+Other group B: AMP-TE-C-NA-SXT
+Other group B: AMP-TE-C
+Other group B: TE-C
+Other group B: TE-NA
+Other group B: TE-C-NA
+Other group B:
+AMP-AUG-TE-C-NA-CIP-CN-SXT
+Other group B: AMP-TE-C-NA-CIP-CN-SXT
+Other group B: AMP-AUG-TE-C-NA-SXT
+Other group B: TE-C-NA-SXT
+Other group B: TE-NA-SXT
+Other group B: NA-SXT
+Other group B: CRO-C
+
+Group C: AMP-AUG-TE-NA
+Group C: TE-SXT
+Group C: AMP-AUG-TE
+Group C: TE-NA
+Group C: NA
+Group C: AMP-TE-NA
+Group C: TE-C-SXT
+Group C: AMP-TE-C-SXT
+Group C: AMP-TE-C-NA-SXT
+Group C: AMP-TE-SXT
+Group C: AMP-TE
+Group C: TE-C
+Group C: AMP
+Group D: AMP-TE-NA
+Other: AMP-TE-NA-SXT
+Other: AMP-TE-SXT
+Other: TE-C-SXT
+Other: TE-C-NA
+Other: TE-C
+Other: TE-C-NA-SXT
+Other: TE-NA-SXT
+Other: AMP-AUG-CRO-CAZ-TE-C-NA-SXT
+Other: AMP-TE-C-NA-CIP-CN-SXT
+Other: AMP-TE-C-NA-CIP-SXT
+Other: AMP-AUG-TE-C-NA-SXT
+Other: AMP-AUG-TE-NA
+Other: AMP-TE-C-NA-SXT
+Other: AMP-TE-C-SXT
+Other: -CRO-TE-NA
+Other: -TE–NA-CIP–SXT
+Other: -TE-NA-SXT
+Other: C-SXT
+Other: TE-NA
+Other: NA
+Other: AMP-C
+
+1
+1
+3
+9
+8
+3
+2
+3
+2
+
+7
+1
+24
+9
+1
+1
+
+1
+1
+2
+2
+3
+1
+2
+4
+2
+4
+2
+1
+1
+5
+1
+3
+10
+4
+11
+2
+2
+1
+1
+2
+15
+1
+23
+21
+1
+1
+2
+2
+7
+5
+1
+
+1
+1
+
+1
+
+1
+1
+1
+
+1
+1
+1
+
+2
+
+1
+
+1
+2
+5
+
+1
+
+1
+2
+
+5
+
+1
+
+1
+
+2
+
+4
+3
+1
+2
+
+4
+
+1
+1
+1
+1
+1
+
+3
+2
+4
+
+1
+1
+
+1
+3
+5
+1
+4
+
+1
+1
+1
+2
+0
+10
+10
+
+1
+3
+1
+
+1
+1
+3
+
+1
+
+1
+
+2
+1
+10
+3
+
+1
+
+1
+
+2
+
+2
+
+2
+1
+
+1
+1
+
+7
+1
+3
+3
+1
+1
+1
+
+3
+4
+1
+
+Table 5 (cont.)
+
+Salmonella on livestock farms in the Mekong Delta, Vietnam
+
+11
+
+MLST-assigned serovar
+
+Pattern
+
+Senftenberg
+Weltvreden
+
+Other: AMP-TE-C-CN-SXT
+Other: AMP-AUG-TE-C-NA-CIP-CN-SXT
+Other: AMP-AUG-TE
+Other: AMP-TE
+Other: CAZ
+Other: NA-SXT
+
+No. of farms where
+present
+
+Chicken Duck Pig
+
+5
+
+2
+
+1
+1
+4
+
+1
+
+1
+1
+1
+1
+
+No. of
+isolates
+
+6
+2
+4
+5
+1
+1
+
+MLST, Multilocus sequence typing.
+
+laboratories. However, given the country’s rapid econ-
+omic development and the increasing potential for ex-
+port markets this may soon change. The unusually
+high prevalence, the predominance of mixed-species
+farming without adequate biosecurity, and the abun-
+dance of vectors (rats) suggest that control of NTS
+on farms in the Mekong Delta of Vietnam will be par-
+ticularly challenging.
+
+SUPPLEMENTARY MATERIAL
+
+For supplementary material accompanying this paper
+visit http://dx.doi.org/10.1017/S0950268815000102.
+
+ACKNOWLEDGEMENTS
+
+We thank staff of the Sub-Department of Animal
+Health of Dong Thap for their support. This work
+has been co-funded by the Vietnam Initiative on
+Zoonotic Infections (VIZIONS WT/093 724), part of
+the Wellcome Trust Major Overseas Programme
+(UK) and the VIBRE Project (Grant No. 205 100
+012) (ZoNMW/WOTRO, The Netherlands).
+
+DECLARATION OF INTEREST
+
+None.
+
+REFERENCES
+1. Pegues D, Miller SI. Salmonella species,
+
+including
+Salmonella Typhi. In: Mandell G, Bennet J, Dolin R,
+eds. Principle and Practice of
+Infectious Diseases.
+Philadelphia: Churchill Livingstone Elsevier, 2010,
+pp. 2887–2903.
+
+2. Carrique-Mas JJ, Bryant JE. A review of foodborne
+bacterial and parasitic zoonoses in Vietnam. Ecohealth
+2013; 10: 465–489.
+
+3. Nga TV, et al. The decline of typhoid and the rise of
+non-typhoid salmonellae and fungal
+infections in a
+changing HIV landscape: bloodstream infection trends
+over 15 years in southern Vietnam. Transactions of the
+Royal Society of Tropical Medicine and Hygiene 2012;
+106: 26–34.
+
+4. Thompson CN, et al. Epidemiological features and risk
+factors of Salmonella gastroenteritis in children resident
+in Ho Chi Minh City, Vietnam. Epidemiology and
+Infection 2012; 141: 1–10.
+
+5. Vo ATT, et al. Distribution of Salmonella enterica
+serovars from humans, livestock and meat in Vietnam
+and the dominance of Salmonella Typhimurium
+phage type 90. Veterinary Microbiology 2006; 113:
+153–158.
+
+6. Switt AI, et al. Emergence, distribution, and molecular
+and phenotypic characteristics of Salmonella enterica
+serotype 4,5,12:i. Foodborne Pathogens and Disease
+2009; 6: 407–415.
+
+7. Phan TT, et al. Contamination of Salmonella in retail
+meats and shrimps in the Mekong Delta, Vietnam.
+Journal of Food Protection 2005; 68: 1077–1080.
+
+8. Van TT, et al. Detection of Salmonella spp. in retail raw
+food samples from Vietnam and characterization of
+their antibiotic resistance. Applied and Environmental
+Microbiology 2007; 73: 6885–6890.
+
+9. Thai TH, et al. Antibiotic resistance proﬁles of
+Salmonella serovars isolated from retail pork and
+chicken meat in North Vietnam. International Journal
+of Food Microbiology 2012; 156: 147–151.
+
+10. Ta YT, et al. Prevalence of Salmonella on chicken car-
+casses from retail markets in Vietnam. Journal of Food
+Protection 2012; 75: 1851–1854.
+
+11. Thai TH, Yamaguchi R. Molecular characterization of
+antibiotic-resistant Salmonella isolates from retail meat
+from markets in Northern Vietnam. Journal of Food
+Protection 2012; 75: 1709–1714.
+
+12. Ta YT, et al. Quantiﬁcation, serovars, and antibiotic re-
+sistance of salmonella isolated from retail raw chicken
+meat in Vietnam. Journal of Food Protection 2014; 77:
+57–66.
+
+13. Carrique-Mas JJ, et al. An epidemiological
+
+investi-
+gation of Campylobacter in pig and poultry farms in
+
+12
+
+L. T. P. Tu and others
+
+the Mekong delta of Vietnam. Epidemiology and In-
+fection 2013; 142: 1425–1436.
+
+14. Arnold ME, Cook AJ. Estimation of sample sizes
+for pooled faecal sampling for detection of Salmonella
+in pigs. Epidemiology and Infection 2009; 137:
+1734–1741.
+
+15. Arnold ME, et al. A comparison of pooled and individ-
+ual bird sampling for detection of Salmonella in com-
+mercial
+laying ﬂocks. Preventive Veterinary
+Medicine 2011; 99: 176–184.
+
+egg
+
+2008;
+
+16. Carrique-Mas JJ, Davies RH. Sampling and bacterio-
+logical detection of Salmonella in poultry and poultry
+premises: a review. Revue Scientiﬁque et Technique
+27:
+(International Ofﬁce
+665–677.
+
+of Epizootics)
+
+17. Skov MN, et al. Evaluation of sampling methods for the
+detection of Salmonella in broiler ﬂocks. Journal of
+Applied Microbiology 1999; 86: 695–700.
+
+18. Arnold ME, et al. Estimation of the sensitivity of en-
+vironmental sampling for detection of Salmonella in
+commercial layer ﬂocks post-introduction of national
+control programmes. Epidemiology and Infection 2014;
+142: 1061–1069.
+
+19. Carrique-Mas JJ, et al. Comparison of three plating
+media for the isolation of Salmonella from poultry en-
+vironmental
+in Great Britain using ISO
+6579:2002 (Annex D). Journal of Applied Microbiology
+2009; 107: 1976–1983.
+
+samples
+
+20. Anon. Antigenic Formulae of the Salmonella Serovars.
+9th edn. WHO Collaborating Center for Reference
+and Research on Salmonella, 2007.
+
+21. Tennant SM, et al. Identiﬁcation by PCR of non-
+typhoidal Salmonella enterica serovars associated with
+invasive infections among febrile patients in Mali.
+PLoS Neglected Tropical Diseases 2010; 4: e621.
+
+22. Clinical and Laboratory Standards Institute (CLSI).
+Performance standards for antimicrobial susceptibility
+testing, Twenty-First Informational Supplement, 2011,
+100-S21, vol. 31, no. 1, pp. 42–58.
+
+23. Dohoo I, Martyn W, Stryhn H. Veterinary Epi-
+demiologic Research. Charlottetown, Canada: AVC
+Inc., 2003.
+
+24. Hosmer D, Lemeshow S. 2000. Applied Logistic
+Regression, 2nd edn. John Wiley and Sons, Hoboken,
+USA.
+
+25. EFSA. Analysis of the baseline survey on the prevalence
+of Salmonella in holdings with breeding pigs in the EU,
+2008: Part A: Salmonella prevalence estimates. EFSA
+Journal 2009; 7: 1377.
+
+26. EFSA. Report of the Task Force on Zoonoses Data
+Collection on the Analysis of the baseline survey on
+the prevalence of Salmonella in broiler ﬂocks of Gallus
+gallus, in the EU, 2005–2006. EFSA Journal 2007; 98:
+1–85.
+
+27. EFSA. Report of the Task Force on Zoonoses Data
+Collection on the Analysis of the baseline study on the
+prevalence of Salmonella in holdings of laying hen
+ﬂocks of Gallus gallus. EFSA Journal 2007; 97.
+
+28. Minh PQ, et al. A description of the management of
+itinerant grazing ducks in the Mekong river delta of
+
+Vietnam. Preventive Veterinary Medicine 2010; 94:
+101–107.
+
+29. Tran TP, et al. Prevalence of Salmonella spp. in pigs,
+chickens and ducks in the Mekong Delta, Vietnam.
+Journal of Veterinary Medical Science 2004; 66:
+1011–1014.
+
+30. EFSA. The European Union Summary Report on
+trends and sources of zoonoses, zoonotic agents
+and food-borne outbreaks in 2012. EFSA Journal
+2014; 12 (2): 3547 (312pp).
+
+31. Arnold ME, Carrique-Mas JJ, Davies RH. Sensitivity
+of environmental
+for detecting
+Salmonella Enteritidis in commercial laying ﬂocks rela-
+tive to the within-ﬂock prevalence. Epidemiology and
+Infection 2010; 138: 330–339.
+
+sampling methods
+
+32. Carrique-Mas JJ, et al. Persistence and clearance
+of different Salmonella serovars in buildings housing
+laying hens. Epidemiology and Infection 2009; 137:
+837–846.
+
+33. Davies RH, Wray C. Mice as carriers of Salmonella
+enteritidis on persistently infected poultry units. Vet-
+erinary Record 1995; 137: 337–341.
+
+34. Phan TT, et al. Prevalence of Salmonella spp.
+
+in
+rice-ﬁeld rats in the Mekong delta, Vietnam. Journal
+of Veterinary Epidemiology 2005; 9: 85–88.
+
+35. Beloeil PA, et al. Risk factors for Salmonella serocon-
+fattening pigs in farrow-to-ﬁnish herds.
+
+version of
+Veterinary Research 2007; 38: 835–848.
+
+36. Garcia-Feliz C, et al. Herd-level
+
+for
+faecal shedding of Salmonella enterica in Spanish
+fattening pigs. Preventive Veterinary Medicine 2009;
+91: 130–136.
+
+risk factors
+
+37. Wray C. Salmonella in Domestic Animals. Oxon, UK:
+
+CABI Publishing, 2000.
+
+38. Bergeron N, et al. Characterization of Salmonella
+Typhimurium isolates associated with septicemia in swine.
+Canadian Journal of Veterinary Research 2010; 74: 11–17.
+39. Wagenaar JA, Hendriksen RS, Carrique-Mas J.
+Practical considerations of surveillance of Salmonella
+serovars other
+than Enteritidis and Typhimurium.
+Revue Scientiﬁque et Technique (International Ofﬁce of
+Epizootics) 2013; 32: 509–519.
+
+40. Hauser E, et al. Pork contaminated with Salmonella
+enterica serovar 4,[5],12:i:-, an emerging health risk for
+humans. Applied and Environmental Microbiology
+2010; 76: 4601–4610.
+
+41. Ha Thai T, Yamaguchi R. Molecular characterization of
+antibiotic-resistant salmonella isolates from retail meat
+from markets in northern Vietnam. Journal of Food
+Protection 2012; 75: 1709–1714.
+
+42. EFSA. The European Union Summary Report on anti-
+microbial resistance in zoonotic and indicator bacteria
+from humans, animals and food in 2010. EFSA
+Journal 2012; 10: 233.
+
+43. Vo ATT, et al. Antimicrobial resistance, class 1 inte-
+grons, and genomic island 1 in Salmonella isolates
+from Vietnam. PLoS ONE 2010; 5: e9440.
+
+44. Van TT, et al. The antibiotic resistance characteristics of
+non-typhoidal Salmonella enterica isolated from food-
+producing animals, retail meat and humans in South
+
+Salmonella on livestock farms in the Mekong Delta, Vietnam
+
+13
+
+East Asia. International Journal of Food Microbiology
+2012; 154: 98–106.
+
+45. Hopkins KL, et al. Multiresistant Salmonella enterica
+serovar 4,[5],12:i:- in Europe: a new pandemic strain?
+Eurosurveillance 2010; 15: pii = 19 580.
+
+46. Deng X, et al. Laboratory-based surveillance of non-
+in Guangdong
+typhoidal
+Province, China. Foodborne Pathogens and Disease
+2012; 9: 305–312.
+
+Salmonella
+
+infections
+
+

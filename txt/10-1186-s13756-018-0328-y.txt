@@ -1,0 +1,1522 @@
+Ström et al. Antimicrobial Resistance and Infection Control  (2018) 7:35 
+https://doi.org/10.1186/s13756-018-0328-y
+
+RE S EA R C H
+Antimicrobials in small-scale urban pig
+farming in a lower middle-income country –
+arbitrary use and high resistance levels
+G. Ström1, S. Boqvist2, A. Albihn2,3, L.-L. Fernström2, A. Andersson Djurfeldt4, S. Sokerya5, T. Sothyra6
+and U. Magnusson1*
+
+Open Access
+
+Abstract
+
+Background: Administration of antimicrobials to food-producing animals is regarded as a major contributor to the
+overall emergence of resistance in bacteria worldwide. However, few data are available on global antimicrobial use
+and resistance (AMR) in livestock, especially from low- and middle-income countries.
+Methods: We conducted a structured survey of 91 small-scale pig farms in the urban and peri-urban areas of
+Phnom Penh, Cambodia, to assess the farmers’ knowledge, attitudes and practices related to antimicrobial use in
+their pig production. Commensal Escherichia coli was isolated from three healthy pigs from each farm (n = 261) and
+susceptibility testing was performed against 14 antimicrobials, using broth microdilution. Univariable logistic
+regression and generalized linear mixed models were used to investigate potential associations between farm
+characteristics, management factors and resistance to different types of antimicrobials.
+Results: We found a widespread and arbitrary use of antimicrobials, often based on the farmer’s own judgment.
+Around 66% of the farmers reported frequently self-adjusting treatment duration and dosage, and 45% had not
+heard about the term ‘antimicrobial resistance’. The antimicrobials most commonly mentioned or kept by the
+farmers were amoxicillin, tylosin, gentamicin and colistin. Around 37% used a feed concentrate that contained
+antimicrobials, while antimicrobials for humans were used as a last-line treatment by 10% of the farmers.
+Commensal E. coli exhibited high prevalence of resistance to several antimicrobials considered to be of critical
+importance for human medicine, including ampicillin, ciprofloxacin and colistin, and multidrug-resistance was found
+in 79% of the samples. Higher prevalence of resistance was observed on farms that administered prophylactic
+antimicrobials and on farms that treated the entire group or herd in the event of disease.
+Conclusion: The widespread and arbitrary use of antimicrobials in pig farming in Cambodia is highly worrisome.
+Overall, farmers had a low awareness of the risks and consequences related to antimicrobial use and AMR. The
+results presented in this study confirm the hypothesis that non-rational use of antimicrobials results in higher
+prevalence of AMR and highlight the need for professional animal health systems that involve medically rational
+use of antimicrobials in emerging economies such as Cambodia.
+Keywords: Antimicrobial use, Antimicrobial resistance, Pig production, Cambodia
+
+* Correspondence: ulf.magnusson@slu.se
+1Department of Clinical Sciences, Swedish University of Agricultural Sciences,
+Uppsala, Sweden
+Full list of author information is available at the end of the article
+
+© The Author(s). 2018 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Ström et al. Antimicrobial Resistance and Infection Control  (2018) 7:35 
+
+Page 2 of 11
+
+Background
+Antimicrobial resistance (AMR) is a major global health
+concern and our decreased ability within human and
+veterinary medicine to cure resistant infections will have
+serious repercussions for future treatment and preven-
+tion of infections in humans and for the productivity of
+livestock [1–3]. The emergence of AMR is believed to be
+partly caused by the inappropriate use within the live-
+stock sector, where antimicrobials are widely adminis-
+tered to animals for prevention and control of diseases
+and, more controversially, for growth promotion pur-
+poses [4–6]. Although data from several high-income
+countries indicate extensive antimicrobial use and AMR
+in livestock in these countries [7, 8], data from most
+low- and middle-income countries are scarce. Historic-
+ally, the primary problem in some low- and middle-
+income countries has been the lack of antimicrobial
+drugs [9, 10]. Recently, however, the access to antimicro-
+bials has generally increased in urban areas in these
+countries, with a consequent rise in the inappropriate
+usage of such drugs in cities and towns [11]. Overall, the
+use of antimicrobials in animal production is expected to
+continue to increase globally due to growing demand
+for animal-source foods, particularly in emerging econ-
+omies [12]. Facilitated by the ongoing globalization of
+trade and travel, AMR is rapidly spread throughout the
+world [13].
+
+Southeast Asia, a region with a high burden of infec-
+tious diseases [14] and a dense population of both
+humans and animals, is considered to be a hotspot for
+the development of AMR [15]. This partly stems from
+the expanding pig and poultry sectors [16] and partly
+from the widespread availability of antimicrobials and an
+often weak regulatory framework governing their use in
+human and veterinary medicine. Weak regulations en-
+able inappropriate usage of antimicrobials which, in the
+livestock sector, often manifests as use without proper
+diagnosis, poor adherence to dosage and treatment dur-
+ation, and use of falsified pharmaceuticals, behaviors that
+may favor AMR emergence [17, 18].
+
+Antimicrobials are presumed to be extensively used in
+Southeast Asia, but only a few published studies have in-
+vestigated practices related to antimicrobial usage in the
+large and expanding pig sector in the region [19–22].
+These studies indicate uncontrolled and arbitrary use of
+antimicrobials with little or no supervision by veterinar-
+ians. Concomitantly, other studies have reported high
+prevalence of AMR in bacteria isolated from pigs and
+poultry in Southeast Asia, with resistance levels as high as
+98% to ampicillin [23], 96% to tetracycline [24], and 97%
+to gentamicin [25]. Notably, resistance levels have been re-
+ported to be higher in pigs than in other species [26, 27].
+
+The present study was undertaken in urban and
+peri-urban areas of Cambodia, where availability of
+
+antimicrobials was assumed to be good and in a country
+with strong economic growth [28], where regulations gov-
+erning the use of veterinary antimicrobials are under devel-
+opment, but not yet implemented. The aim was to obtain
+information on knowledge, attitudes and practices related
+to antimicrobial use in small-scale pig farming in Phnom
+Penh, and data on phenotypic AMR in the indicator bac-
+teria Escherichia coli isolated from pigs kept by the farming
+households. This information could assist in the develop-
+ment of strategies for more medically rational use of anti-
+microbials in the pig sector, not only in Cambodia but also
+elsewhere in the Global South.
+
+Methods
+Study area and study population
+This cross-sectional study was conducted in urban and
+peri-urban areas of Phnom Penh in January and February
+2017. Only households keeping pigs under family farm
+conditions (FAO, 2014) were targeted for the study,
+and thus
+farms were excluded.
+Cambodian households have a long tradition of raising
+animals in their backyards for both subsistence and
+commercial purposes, with around 80% of the pigs in
+Cambodia still being raised in backyard systems [29].
+
+larger commercial
+
+In recruitment of farms, a list of pig-keeping hou-
+seholds (family farms) in the province of Phnom Penh
+(n = 267) was available from a previous study [30]. In
+that study, snowball sampling [31] had been used with
+the ambition to locate all family farms keeping pigs in
+Phnom Penh. For the present study, all farms on that list
+were visited and included if they still kept pigs and if the
+farmers were at home and willing to participate in the
+study. However, due to failing profitability from pig pro-
+duction, a large proportion of the farms on the list had
+stopped keeping pigs since the previous study, and thus
+only 81 farms could be included from the previous
+study. However, ten farms that had started with pig pro-
+duction since the previous study were found during the
+fieldwork and were included in the present study.
+
+Study procedure
+A semi-structured questionnaire, with questions on farm
+characteristics, pig husbandry and routines for anti-
+microbial (i.e. antibacterial) use, was administered to the
+person responsible for treating sick pigs at the farm. The
+questionnaire, which took around 20 min to complete,
+was written in English and interviews were carried out
+in Khmer with the assistance of the same interpreter
+throughout the study. The interpreter, an employee at
+the Centre for Livestock and Agriculture Development
+(CelAgrid), had extensive knowledge of Cambodian live-
+stock production and was familiar with the different
+medicines and treatment regimens commonly used in
+livestock production in Cambodia. In order to determine
+
+Ström et al. Antimicrobial Resistance and Infection Control  (2018) 7:35 
+
+Page 3 of 11
+
+whether the drugs referred to by respondents contained
+antimicrobials, probing questions were used together with
+observations of any medicines, premixes or feed concen-
+trates present at the farm.
+
+The questionnaire is provided as supplementary ma-
+
+terial [see Additional file 1].
+
+Collection of fecal samples
+Fecal
+samples were collected from three randomly
+chosen healthy pigs at each farm, using sterile cotton
+swabs. At two of the 91 farms, no family member was at
+home when the team arrived for sampling and at some
+farms only one or two pigs were available for sampling,
+resulting in a total of 261 samples from 89 farms. Sam-
+ples were collected either from the rectum or from fresh
+feces on the ground, if the pig defecated during sample
+collection. The swabs were placed in sterile plastic tubes
+containing Amies medium (Amies PS Viscose, Sarstedt),
+and stored and transported on ice to the National Ani-
+mal Health and Production Research Institute (NAHPRI)
+in Phnom Penh within 8 h. Samples were stored at
+2–8 °C until analysis, which was performed within 48 h
+after sampling.
+
+Isolation of E. coli
+Fecal sampled were cultured on MacConkey agar at
+44 °C overnight. Presumptive E. coli isolates were sub-
+cultured on Tryptone Soya Agar (TSA) and incubated at
+37 °C overnight. Selected isolates were tested for pro-
+duction of tryptophanase (indole). One positive isolate
+was selected from each fecal sample, and bacterial ma-
+terial was transferred to cryogenic vials containing Luria
+Broth (LB) and 20% glycerol, and stored at − 70 °C be-
+fore being transported to the Swedish University of
+Agricultural Sciences (SLU), Uppsala, Sweden.
+
+Antimicrobial susceptibility testing
+Susceptibility testing was performed at SLU by broth
+microdilution, using the growth method for inoculum
+preparation, according to the standards described by the
+Clinical and Laboratory Standards Institute [32]. Prior to
+analysis, all isolates were confirmed as E. coli isolates by
+matrix-assisted laser-desorption/ionization time-of-flight
+mass spectrometry (MALDI-TOF MS).
+
+Microdilution susceptibility panels (Sensititre™ EUVSEC,
+Thermo Scientific) were used to determine susceptibility of
+the bacteria isolates to 14 antimicrobials (ampicillin, azi-
+thromycin, cefotaxime, ceftazidime, chloramphenicol, cip-
+rofloxacin, colistin, gentamicin, meropenem, nalidixid acid,
+sulfamethoxazole, tetracycline, tigecycline, trimethoprim).
+Escherichia coli CCUG 17620 was used as a quality control
+strain.
+
+The minimum inhibitory concentration (MIC) for each
+antimicrobial was visually determined and epidemiological
+
+cut-off values (ECOFFs), defined by the European Commit-
+tee on Antimicrobial Susceptibility Testing [33], were used
+to differentiate between wild-type and non-wild-type strains
+of the bacteria isolates, henceforth referred to as susceptible
+and resistant, respectively. Multidrug-resistance (MDR) was
+defined as isolates resistant to at least three different cat-
+egories of the antimicrobials tested [34].
+
+Data management and statistical analysis
+Data from the questionnaire responses were transcribed
+into Epi Info™ 7 (CDC, Atlanta, GA) following the inter-
+views, and were exported on to Microsoft Excel 2010
+spreadsheets after the fieldwork was finished.
+
+Statistical analyses were conducted in SAS software 9.4
+(SAS Institute Inc., Cary, NC). Descriptive statistics were
+computed to define farm characteristics and to determine
+knowledge, attitudes and practices among respondents re-
+garding use of antimicrobials. Distributions for continuous
+variables were tested for normality using the Shapiro-
+Wilks test. Univariable logistic regression and Chi-square
+tests were used to examine possible associations between
+farm size, education level and management factors, such
+as routines related to antimicrobial use. To investigate as-
+sociations between farm characteristics, management fac-
+tors, age group of pigs and the prevalence of resistance to
+different types of antimicrobials, generalized linear mixed
+models were used where farm was included as a random
+effect, to account for clustering. The confounding variable
+‘age group of pigs’ was included in all models as a fixed ef-
+fect. The statistical significance level was defined as a two-
+tailed P-value ≤0.05 for all models. For the associations
+with AMR prevalence, however, all P-values < 0.1 are
+presented.
+
+Results
+Farm characteristics
+Among the 91 farms included in the study, 29 farms (32%)
+also kept cattle and 64 farms (70%) kept poultry, besides
+keeping pigs. The number of pigs present in at the farm at
+the time of the visits ranged from 2 to 228 with a median
+of 20 pigs (5th and 95th percentiles: 7 and 81 pigs). The
+farm with 228 pigs was a farm that produced piglets to sell
+on to other producers, which explains its much higher
+number of pigs compared with the other farms.
+
+Male household heads had in general attained a higher
+level of education than female household heads (P < 0.001).
+A high level of education was defined as commencing, but
+not necessarily completing, studies at upper secondary
+school, which was achieved by 31% of male and 9% of
+female farmers.
+
+Antimicrobial use
+At 60 farms (66%), the male household head was respon-
+sible for treating sick animals while the female household
+
+Ström et al. Antimicrobial Resistance and Infection Control  (2018) 7:35 
+
+Page 4 of 11
+
+Table 1 Antimicrobials most commonly mentioned or kept by
+the farmers surveyeda
+Antimicrobial
+
+Amoxicillinb
+Ampicillinb
+Colistinb
+Enrofloxacinb
+Gentamicinb
+
+Lincomycin
+
+Oxytetracycline
+Penicillin Gb
+
+Spectinomycin
+Streptomycinb
+
+Sulfonamides
+
+Thiamphenicol
+
+Number
+of farms
+56
+
+21
+
+27
+
+19
+
+29
+
+14
+
+17
+
+15
+
+6
+
+9
+
+16
+
+6
+
+head was responsible at 15 farms (16%) and the veterinar-
+ian or village animal health worker at nine farms (10%).
+At the remaining farms (8%), another household member
+(than the household heads) had the responsibility for
+treatment. The age of the person responsible for treating
+sick pigs (not including veterinarians or animal health
+workers) varied between 20 and 68 years, with a mean of
+44 years. At 78 farms (86%) antimicrobials were routinely
+administered to the pigs to treat an existing disease, as a
+prophylactic for piglets or sows after farrowing, or as a
+feed additive commonly included in the feed concentrate.
+At nine farms (10%), however, it could not be determined
+with certainty that antimicrobials were used, as the re-
+spondent did not remember the names of the drugs used,
+and no drug packages were present. Nonetheless, all these
+farmers reported that they received drugs from veterinar-
+ians or pharmaceutical companies for treatment. Based on
+the respondents’ descriptions of disease symptoms and
+treatment regimens, we concluded that these farmers
+most likely administered antimicrobials to the pigs. Only
+four farmers (4%) reported that they did not use any anti-
+microbials, of which three farmers explained that their
+pigs had not been sick in a long time, while one farmer
+explained that they had stopped treatment with antimi-
+crobials because their pigs died the last time they received
+antimicrobial treatment.
+
+they used. Furthermore,
+
+At least 70 different brands of antimicrobial drugs were
+used by the farmers. The antimicrobials most commonly
+mentioned or kept by the respondents were amoxicillin,
+tylosin, gentamicin and colistin (Table 1). Most respon-
+dents, however, could only name some of the antimicrobials
+that
+the majority of piglet-
+producing farms gave the new-born piglets iron supple-
+ments, although only 24 respondents (26%) could specify
+or show the type of supplement used. Of these, eight
+farmers (33%) used iron supplements that contained anti-
+microbials, commonly gentamicin or colistin, in combin-
+ation with tylosin, streptomycin or spectinomycin.
+
+At least 14 farmers reported to routinely administer
+antimicrobials to the pigs as a preventive measure
+(Table 2). However, the antimicrobial content in the feed
+concentrate is not included in this figure and compre-
+hensive information regarding the contents of the iron
+supplements administered could not be retrieved. At
+least 37% of the farms routinely used a concentrate that
+contained antimicrobials, although the types and con-
+centrations of the antimicrobials were only specified on
+the concentrates used at three farms. It was commonly
+the concentrate for younger pigs (as advised by the
+manufacturer) that contained antimicrobials.
+
+The respondents reported that they commonly re-
+ceived antimicrobials from the veterinarian or village
+animal health worker. Most veterinarians either oper-
+ated a pharmaceutical store or were employed by a
+
+Trimethoprim
+Tylosinb
+38
+aThis list is not complete, as most farmers could only name a few of the
+antimicrobials that were used and it does not include potential antimicrobials
+in the feed concentrate
+bAntimicrobial considered critically important according to WHO [48]
+
+9
+
+pharmaceutical company. Respondents described unre-
+stricted access to antimicrobials, and professional prior
+diagnosis of the animals seemed to be rarely practiced.
+Many respondents explained that they just went to the
+store and described the disease symptoms to acquire
+antimicrobials from the veterinarian. Other respon-
+dents claimed that they did not necessarily need veter-
+inary advice, as
+they could decide which type of
+antimicrobial and dosage to administer based on previous
+experiences. In general, treatment based on experi-
+ence was a common practice among the farmers. On at
+least 60 farms (66%), the respondent reported frequently
+deviating from the instructions provided by veterinarians
+or written on product labels, by adjusting both dosage and
+duration of treatment based on the severity of the disease
+and whether the animals recovered quickly or not.
+Respondents that reported this behavior were also more
+likely to use human antimicrobials on their pigs
+(P = 0.056). Furthermore, almost half of
+the respon-
+dents (47%) reported that they did not adhere to the
+withdrawal period stated on drug packaging or prescribed
+by the veterinarian, and pigs were often sold for slaughter
+during or directly after antimicrobial treatment. None of
+the behaviors described above was associated with the
+level of education of the household head.
+
+Knowledge and attitudes about antimicrobials and AMR
+Only one respondent (a former animal health worker)
+explained that he knew what antimicrobials were and
+their mode of action. For the other respondents, their
+
+Ström et al. Antimicrobial Resistance and Infection Control  (2018) 7:35 
+
+Page 5 of 11
+
+Table 2 Practices related to antimicrobial use on the farms that
+presumably used antimicrobials (n = 87)
+
+How do you administer
+antimicrobials to the pigs?
+
+Category
+Injections when sick
+
+n %
+87 100
+
+In feed/orally when sick 18 21
+
+In water when sick
+
+To sows after farrowing
+(n=58a)
+
+In feed routinely
+
+Only the sick pigs
+All pigsb
+
+Yes
+
+No
+Unsurec
+
+Yes
+
+No
+Don’t know
+Don’t use concentrates
+Yes
+
+No
+Don’t know
+Yes
+
+No
+
+If only some pigs are sick, to which
+pigs do you administer
+antimicrobials? (n = 86)
+
+Do you administer antimicrobials as
+a prophylaxis?
+
+Does the feed concentrate contain
+antimicrobials?
+(n = 91d)
+
+Do you sometimes give human
+medicines that contain
+antimicrobials to the animals?
+
+Do you sometimes end treatment
+prematurely if the animal gets
+better?
+
+What do you do with antimicrobials
+that are left (and have expired)? (n = 84)
+
+Throw away to pond/
+environment
+
+Bury
+
+Burn
+
+Take back to
+veterinarian/animal
+health worker
+
+Throw to the person
+collecting waste
+
+Keep at home
+Don’t know
+Yes
+
+No
+Don’t know
+Never been sick around
+time of slaughter
+
+Other
+
+Do you have a withdrawal period
+(according to instructions) between
+antimicrobial treatment and
+slaughter/trader collecting animals?
+(n = 81)
+
+1
+
+5
+
+8
+
+1
+
+9
+
+9
+
+65 76
+
+21 24
+
+14 16
+
+72 83
+
+1
+
+1
+
+34 37
+
+8
+
+9
+
+42 46
+
+7
+
+9
+
+8
+
+10
+
+77 89
+
+1
+
+1
+
+57 66
+
+30 34
+
+36 43
+
+20 24
+
+3
+
+8
+
+4
+
+10
+
+11 13
+
+4
+
+2
+
+8
+
+5
+
+2
+
+10
+
+38 47
+
+1
+
+1
+
+32 40
+
+2
+
+2
+
+aCalculated based on number of farms that kept sows
+bThis category does not necessarily includes sows, as some farmers only used
+traditional medicines to treat sows
+cSome substance was added to the feed routinely but the respondent did not
+remember the name
+dCalculated based on all 91 farms in the study
+
+knowledge was limited to recognizing the names of some
+antimicrobials they frequently used. In general, all re-
+spondents (99%) were of the opinion that antimicro-
+bials were necessary in order to keep their animals
+
+Do you think giving antimicrobials to animals may
+result in any negative consequences?
+
+Have you ever heard of ‘antimicrobial resistance’?
+
+Do you feel you have received enough information
+on how antimicrobials should be used in animals?
+
+healthy (Table 3). All respondents save two considered
+antimicrobials to be easily accessible. It should be noted
+that these two respondents stated either that antimicro-
+bials were often sold out when they arrived at the store,
+or that it was difficult to find ‘high quality antimicro-
+bials’ from Europe. The latter was mentioned by other
+respondents too and some expressed concerns that
+locally produced antimicrobials (commonly imported from
+Vietnam) were not as efficient as antimicrobials imported
+from European countries.
+
+Around half of the respondents (55%) stated that they
+had heard of the term ‘antimicrobial resistance’. This
+was more likely among respondents who had attained a
+higher level of education (78% vs. 49%; P = 0.036; Odds
+ratio (OR) 3.6; 95% Confidence Interval (CI) 1.1–12.0)
+and was more often reported by male respondents (74%
+vs. 39%; P < 0.001; OR 4.4; CI 1.8–10.9), and by farms
+where the respondent was the person responsible for
+treating sick pigs (65% vs. 41%; P = 0.021; OR 2.7;
+CI 1.6–6.4). Some respondents elaborated on this ques-
+tion and gave examples from their own experience of what
+they believed to be AMR (Table 4).
+
+Table 3 Knowledge and attitudes about antimicrobials and
+antimicrobial use among respondents (n = 91)
+
+Is it important to give antimicrobials to animals?
+
+Yes
+
+Category
+
+No
+Don’t know
+
+Are antimicrobials needed to keep animals healthy?
+
+Yes
+
+Will the use of antimicrobials result in better
+growth of animals? (n = 90)
+
+Do you think it is easy to get access to
+antimicrobials?
+
+Do you consider antimicrobials to be cheap?
+
+n %
+
+82 90
+
+4
+
+5
+
+4
+
+5
+
+90 99
+
+0
+
+1
+
+0
+
+1
+
+30 33
+
+58 64
+
+2
+
+2
+
+89 98
+
+2
+
+5
+
+2
+
+5
+
+55 60
+
+29 32
+
+2
+
+2
+
+49 54
+
+3
+
+3
+
+39 43
+
+50 55
+
+41 45
+
+37 41
+
+38 42
+
+16 18
+
+No
+Don’t know
+
+Yes
+
+No
+Don’t know
+
+Yes
+
+No
+
+Yes
+
+No
+It’s
+acceptable
+Don’t know
+
+Yes
+
+No
+Don’t know
+
+Yes
+
+No
+
+Yes
+
+No
+Don’t know
+
+Ström et al. Antimicrobial Resistance and Infection Control  (2018) 7:35 
+
+Page 6 of 11
+
+Table 4 Statements by respondents regarding their experiences
+and reflections on AMR
+“When we use too much of one type of antimicrobial and the animal does
+not recover, it may be because of resistance”
+
+Male, 52 years, higher education
+“Sometimes after we use the antimicrobials, the animals get more sick and
+do not recover”
+
+Female, 36 years, lower education
+“If we use only one kind of medicine for a long time and then the animal
+recovers, the next time it [the medicine] might not work”
+
+Male, 35 years, higher education
+“When I use this one [points at antimicrobial] the pigs will no longer
+recover”
+
+Male, 35 years, lower education
+
+Although many respondents had heard about AMR,
+when asked to state some possible negative conse-
+quences from the use of antimicrobials none mentioned
+this as a potential problem. Still, respondents expressed
+some concerns about other possible adverse effects that
+could arise from antimicrobial use, for example the risk
+of antimicrobial residues being present in the meat and
+potential negative effects on the animals when they re-
+ceived too much antimicrobials (Table 5).
+
+Antimicrobial susceptibility in E. coli
+Escherichia coli bacteria were successfully isolated from
+all 261 samples, of which 110 were obtained from
+growers (1–3 months old), 122 were obtained from fat-
+teners (over 3 months old), and 29 were obtained from
+sows. Overall, bacteria isolates were resistant to a median
+of five of the 13 antimicrobials tested (no ECOFF was
+available for azithromycin). Twenty-one isolates (8%)
+were susceptible to all antimicrobials, whereas 31 isolates
+(12%) showed resistance to eight or more antimicro-
+bials. Among all isolates tested, resistance levels were
+
+Table 5 Statements by respondents regarding potential
+negative effects of antimicrobial use
+“If too much medicine, there may be medicine in the meat and it will taste
+different”
+
+Female, 35 years, lower education
+“If too much the pig will grow slower and the cycle will take longer time.
+Maybe it will affect the consumer if the animal gets too much
+antimicrobials. The meat will be yellow.”
+
+Female, 51 years, lower education
+“When a consumer eats an animal that has received a lot of antimicrobials
+it may have an effect on human health.”
+
+Male, 48 years, lower education
+“If the people that use the medicine don’t know how to use it, the medicine
+will remain in the meat. [It] may affect the people who eat the meat.”
+
+Female, 36 years, lower education
+
+as follows: ampicillin (AMP) 75%; cefotaxime (CTX)
+1%; ceftazidime (CAZ) 2%; chloramphenicol
+(CHL)
+61%; ciprofloxacin (CIP) 59%; colistin (COL) 20%;
+gentamicin (GEN) 25%; meropenem (MER) 0%; nalidixic
+acid (NAL) 19%; sulfamethoxazole (SMX) 71%; tetracyc-
+line (TET) 84%; tigecycline (TIG) 1%; and trimethoprim
+(TMP) 57%. Multidrug-resistance (MDR) was found in
+79% of all isolates. Isolates from growers showed higher
+prevalence of resistance to all antimicrobials compared
+with isolates from fatteners (Fig. 1), although this differ-
+ence was only significant for AMP, CHL, COL and
+SMX, and for MDR. Furthermore, isolates from sows
+showed significantly higher prevalence of resistance to
+CIP and NAL, compared with isolates from fatteners.
+Resistance prevalence and MIC distributions are pre-
+sented for growers in Table 6, for fatteners in Table 7
+and for sows in Table 8.
+
+statistical
+
+analyses
+
+revealed some
+
+Antimicrobial use, farm characteristics and associations
+with AMR
+The
+associations
+between farm characteristics, practices related to anti-
+microbial use and the prevalence of resistance to the
+antimicrobials tested. Age of the person responsible for
+antimicrobial treatment was positively related to lower
+prevalence of resistance to CIP (P = 0.043) and SMX
+(P = 0.021), and to MDR (P = 0.029). Isolates from pigs
+owned by farmers who had attained a higher level of
+education showed a higher prevalence of resistance to CIP
+(P = 0.007) and NAL (P = 0.053), and to MDR (P = 0.024).
+There was no correlation between age of the farmer and
+level of education. Higher prevalence of resistance was
+also found for NAL (P = 0.031), TMP (P = 0.004) and
+SMX (P = 0.023), and for MDR (P = 0.089) in isolates from
+farms where a veterinarian was responsible for antimicro-
+bial treatment. Furthermore,
+isolates from farms where
+antimicrobials were administered preventatively showed
+higher prevalence of resistance to AMP (P = 0.081), CIP
+(P = 0.072), CHL (P = 0.056), SMX (P = 0.028) and TMP
+(P = 0.031), and farms that often treated the entire
+group of pigs instead of only the sick individuals had
+a higher prevalence of resistance to CIP (P = 0.021),
+COL (P = 0.048) and NAL (P = 0.012). Finally,
+farms
+that reported routinely using feed supplements that
+contained antimicrobials had a higher prevalence of
+resistance to AMP (P = 0.070), CIP (P = 0.076), CHL
+(P = 0.015), SMX (P = 0.031) and TMP (P = 0.016). For
+farms where it could be concluded that the concen-
+trate included antimicrobials, the prevalence of resist-
+ance to CHL (P = 0.068) was higher.
+
+Discussion
+In the present study, we found that the majority of the
+participating farms used antimicrobials
+in their pig
+
+Ström et al. Antimicrobial Resistance and Infection Control  (2018) 7:35 
+
+Page 7 of 11
+
+Fig. 1 Prevalence of antimicrobial resistance of commensal E. coli isolated from growers, fatteners and sows
+
+production. Overall, knowledge regarding antimicrobial
+use appeared to be low among the respondents and few
+reported having received any training in veterinary prac-
+tices. Antimicrobial use was mainly based on pig-keepers’
+experiences and on drug sellers’ advices according to
+symptoms described by the owner, rather than being
+based on professional diagnostics. Similar practices have
+been reported in other studies conducted in the region
+[20, 21]. In the present study, we frequently found labels
+on the veterinary antimicrobials in languages other than
+
+Khmer, such as English, Vietnamese or Spanish. Addition-
+ally,
+labelling on concentrate packaging and feed pre-
+mixes did not always specify the type and concentration of
+the antimicrobial content. This prevents farmers and re-
+tailers from making informed decisions on which drugs to
+choose and may contribute to inappropriate use of antimi-
+crobials in livestock farming in Cambodia.
+
+In agreement with other studies in Southeast Asia
+[23, 24, 27] we found a high prevalence of resistance to
+ampicillin,
+tetracycline and chloramphenicol, probably
+
+Table 6 Resistance and distribution of Minimum Inhibitory Concentrations (MIC) of antimicrobials for E. coli from growersa (n = 110)
+
+White fields represent range of dilutions tested for each antimicrobial. MICs higher than the highest concentration tested are given as the concentration closest
+above the range. MICs equal to or lower than the lowest concentration tested are underlined. The epidemiological cut-off value (ECOFF) [33] for each antimicrobial
+is presented as a vertical line
+aPigs aged between 1 and 3 months
+bNo ECOFF was available for azithromycin
+
+Ström et al. Antimicrobial Resistance and Infection Control  (2018) 7:35 
+
+Page 8 of 11
+
+Table 7 Resistance and distribution of Minimum Inhibitory Concentrations (MIC) of antimicrobials for E. coli from fattenersa (n = 122)
+
+White fields represent range of dilutions tested for each antimicrobial. MICs higher than the highest concentration tested are given as the concentration closest
+above the range. MICs equal to or lower than the lowest concentration tested are underlined. The epidemiological cut-off value (ECOFF) [33] for each antimicrobial
+is presented as a vertical line
+aPigs older than 3 months
+bNo ECOFF was available for azithromycin
+
+reflecting a long tradition of use in livestock farming
+in the region. The high prevalence of resistance to colistin,
+especially among growers,
+is a particular concern, as
+colistin is considered a last-resort antimicrobial for treat-
+ment of severe human infections and its use in livestock
+production may contribute to emerging resistance glo-
+bally. The high prevalence of resistance detected in this
+study most likely results from the widespread use of co-
+listin, either for treatment ofdiseases or as a prophylactic
+for piglets. We also found high prevalence of resistance
+to the quinolone ciprofloxacin, an antimicrobial not
+licensed for veterinary use. This is probably explained by
+
+cross-resistance with other veterinary quinolones, such as
+enrofloxacin [35], an antimicrobial commonly used by
+the farms in the present study. Notably, higher preva-
+lence of AMR was found on farms that reported admin-
+istering antimicrobials as a prophylactic and on farms
+that normally treated the entire group or herd in the
+event of disease. These results support the claim that
+non-rational use of antimicrobials contributes to increased
+prevalence of AMR [5].
+
+We found that bacteria isolated from growers (1–
+3 months) exhibited significantly higher prevalence of re-
+sistance to several of the antimicrobials tested, including
+
+Table 8 Resistance and distribution of Minimum Inhibitory Concentrations (MIC) of antimicrobials for E. coli from sows (n = 29)
+
+White fields represent range of dilutions tested for each antimicrobial. MICs higher than the highest concentration tested are given as the concentration closest
+above the range. MICs equal to or lower than the lowest concentration tested are underlined. The epidemiological cut-off value (ECOFF) [33] for each antimicrobial
+is presented as a vertical line
+aNo ECOFF was available for azithromycin
+
+Ström et al. Antimicrobial Resistance and Infection Control  (2018) 7:35 
+
+Page 9 of 11
+
+MDR, than bacteria from fatteners (older than 3 months).
+Higher prevalence of AMR in younger pigs has been re-
+ported in other cross-sectional studies [36, 37]. A longitu-
+dinal study by Nguyen et al. [19] presented similar results
+where the prevalence of resistance to ciprofloxacin and
+gentamicin, as well as MDR, in E. coli declined during the
+rearing process. The decreasing prevalence of AMR is
+suggested to be the result of reduced use of antimi-
+crobials during the finishing phase of pig production
+and may also reflect the potential fitness cost of re-
+sistance in bacteria from the intestinal tract [38]. In
+the present study, however, isolates from sows exhib-
+ited significantly higher prevalence of resistance than
+isolates from fatteners for several of the antimicro-
+bials tested. One explanation might be that sows (and
+also younger pigs) receive oral antimicrobials to a
+higher extent than older pigs, as oral administration of
+antimicrobials has been reported to increase AMR in
+commensal E. coli from pigs [39]. Animal age might thus
+be an important factor to consider when investigating
+prevalence of AMR in pigs.
+
+Two thirds of the farmers reported frequently deviating
+from the instructions provided by veterinarians or those
+written on drug packaging. Common practices were to
+stop administering antimicrobials as soon as the animals
+started to recover, hence not completing the treatment,
+and to self-adjust the dosage based on the severity of the
+disease. Poor adherence to recommended instructions
+may increase the risk of AMR [17, 18] and has been re-
+ported to be a common problem in countries with non-
+prescription access to antimicrobials [40]. A particular
+concern is the use of human antimicrobials as a last-line
+treatment and the handling of expired antimicrobials,
+where almost half of the respondents stated that they
+commonly dumped the remaining pharmaceuticals in the
+environment once the expiry date had passed. This im-
+plies that discarded antimicrobials may be present locally
+at high concentrations in the environment, where they
+may contribute to resistance development [41, 42].
+
+that
+
+Improper and unregulated use of antimicrobials may
+pose a risk to public health if antimicrobial residues are
+present in animal products. Nearly half of the respon-
+dents in the present study reported that pigs were com-
+monly sold during or directly after antimicrobial
+treatment,
+is within the prescribed withdrawal
+time. If withdrawal times are not respected there is a
+risk of antimicrobial residues remaining in the meat at
+In many low- and middle-income
+slaughter
+countries, compliance with withdrawal
+times is not
+monitored and analysis of animal products is not
+routinely practiced. Studies in Vietnam, however, have
+found tetracycline [44] and sulfamethazine [45] residues
+in 5.5 and 8.8%, respectively, of pork meat sampled
+at local markets.
+
+[43].
+
+The prevalence of resistance to several antimicrobials,
+including MDR, was lower on farms operated by an
+older farmer, possibly as a consequence of more experi-
+enced farmers having better disease control practices, as
+previously suggested by Nhung et al. [27]. Notably, farms
+on which a veterinarian was responsible for antimicro-
+bial treatment had a higher prevalence of resistance to
+several of the antimicrobials tested, including MDR. This
+is a concern, as veterinary supervision is a measure often
+put forward when discussing ways to improve antimicro-
+bial treatment regimens. It is possible that these farmers
+relied on a veterinarian for treatment as a result of
+poor knowledge of animal health and veterinary prac-
+tices, which in turn might result in deficient disease
+control. However, it is also important to consider the
+fact
+in most countries globally
+(including Cambodia) receive a considerable part of
+their income from the sale of pharmaceuticals, and
+therefore may be reluctant to reduce the use of anti-
+microbials in their practice [46]. It is also possible
+that these results reflect a need to strengthen veterinary
+education in Cambodia.
+
+that veterinarians
+
+Male respondents more often stated that they had
+heard about antimicrobial resistance than female re-
+spondents. This could be a consequence of men gen-
+erally attaining a higher
+level of education than
+women, or of men most commonly being responsible
+for treating sick pigs and therefore probably having
+more discussions with veterinarians. The latter sug-
+gestion is reinforced by the fact that previous aware-
+ness of antimicrobial resistance was more commonly
+reported by farms where the respondent was the per-
+son responsible for treating sick pigs. Although our
+aim was to interview the person responsible, this was
+not possible on all
+farms. If we had omitted those
+farms, we would probably have ended up with far
+fewer farms in our study.
+
+When performing surveys that rely on self-reported
+practices, there is always the risk of recall bias or of
+respondents providing answers that
+they think are
+‘correct’, but which may not correspond to actual
+practices. In the present study, many of the respon-
+dents did not remember the names of the drugs they
+used and they did not keep any treatment records.
+Thus we were unable to determine whether higher
+levels of AMR were the result of higher consumption
+of certain antimicrobials or to establish any associa-
+tions between antimicrobial use
+and explanatory
+factors, such as farm size or education level.
+
+Conclusions
+The emergence of AMR is a truly global issue as it spreads
+easily between countries, and excessive and inappropriate
+use of antimicrobials should thus be mitigated everywhere.
+
+Ström et al. Antimicrobial Resistance and Infection Control  (2018) 7:35 
+
+Page 10 of 11
+
+In the present study, we found that antimicrobial use in
+urban and peri-urban pig farming in Cambodia was
+commonly only based on farmers’ experiences or on drug
+sellers’ advices based on descriptions of symptoms, and
+there was low awareness of the risks and consequences of
+antimicrobial resistance among the respondents. Com-
+mensal E. coli from pigs showed high prevalence of AMR
+to several antimicrobials considered to be of critical im-
+portance for human medicine, including ampicillin, cipro-
+floxacin and colistin, and multidrug-resistance was found
+in four out of five samples. Higher prevalence of resistance
+was found on farms that administered antimicrobials as a
+prophylactic and on farms that treated the entire group or
+herd in the event of disease. These results confirm the
+hypothesis that non-rational use of antimicrobials results
+in higher prevalence of AMR and highlight the need for
+professional animal health systems that involve medically
+rational use of antimicrobials in emerging economies such
+as Cambodia.
+
+Additional file
+
+Additional file 1: The questionnaire. (DOCX 225 kb)
+
+Abbreviations
+AMP: Ampicillin; AMR: Antimicrobial resistance; CAZ: Ceftazidime;
+CHL: Chloramphenicol; CIP: Ciprofloxacin; CLSI: Clinical and Laboratory
+Standards Institute; COL: Colistin; CTX: Cefotaxime; ECOFF: Epidemiological
+cut-off value; EFSA: European Food Safety Authority; EUCAST: European
+Committee on Antimicrobial Susceptibility Testing; GEN: Gentamicin;
+MDR: Multidrug-resistance; MER: Meropenem; MIC: Minimum Inhibitory
+Concentration; NAHPRI: National Animal Health and Production Research
+Institute; NAL: Nalidixic acid; Sida: Swedish International Development
+Cooperation Agency; SLU: Swedish University of Agricultural Sciences;
+SMX: Sulfamethoxazole; TET: Tetracycline; TIG: Tigecycline; TMP: Trimethoprim;
+TSA: Tryptone Soya Agar; VR: Swedish Research council; WHO: World Health
+Organization
+
+Acknowledgements
+The authors would like to thank the farmers that participated in the study
+and Mr. Vor Sina for his assistance with translations and sampling during the
+fieldwork.
+
+Funding
+The study was funded by the Swedish Research Council (VR) (SWE-2012-059).
+
+Availability of data and materials
+Data are stored at the SLU, Sweden, and can be shared upon request. The
+questionnaire is available as supplementary material.
+
+Authors’ contributions
+GS, SB, AA, AAD and UM designed the study. SS and TS contributed to the
+organization and implementation of the study. GS collected the data. GS and
+LF performed the analyses. GS wrote the paper. All authors read and
+approved the final manuscript.
+
+Ethics approval and consent to participate
+The study was approved by the General Directorate of Animal Health and
+Production, Cambodia and was conducted in compliance with Swedish
+legislation on ethics in research involving humans [47]. All animal handling
+and the sampling procedure were approved by the Ethics Committee at the
+Swedish University of Agricultural Sciences.
+
+All farmers were informed about the purpose of the study and that their
+participation was voluntary and anonymous. Informed consent was obtained
+from each participating farmer before the interviews were conducted.
+
+Consent for publication
+Not applicable.
+
+Competing interests
+The authors declare that they have no competing interest.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+Author details
+1Department of Clinical Sciences, Swedish University of Agricultural Sciences,
+Uppsala, Sweden. 2Department of Biomedical Sciences and Veterinary Public
+Health, Swedish University of Agricultural Sciences, Uppsala, Sweden.
+3Department of Chemistry, Environment and Feed Hygiene, National
+Veterinary Institute, Uppsala, Sweden. 4Department of Human Geography,
+Lund University, Lund, Sweden. 5Centre for Livestock and Agriculture
+Development, Phnom Penh, Cambodia. 6National Animal Health and
+Production Research Institute, Phnom Penh, Cambodia.
+
+Received: 13 January 2018 Accepted: 22 February 2018
+
+References
+1.
+
+Ventola CL. The antibiotic resistance crisis: part 1: causes and threats. P T.
+2015;40:277–83.
+
+2. WHO. Global action plan on antimicrobial resistance. Switzerland:
+
+3.
+
+4.
+
+Geneva; 2015.
+Adeyi OO, Baris E, Jonas OB, Irwin A, Berthe FCJ, Le Gall FG, Marquez PV,
+Nikolic IA, Plante CA, Schneidman M, Shriber DE, Thiebaud A. Drug-resistant
+infections: a threat to our economic future. Washington DC: World Bank.
+Group. 2017; http://documents.worldbank.org/curated/en/
+323311493396993758/final-report. Accessed 9 Dec 2017
+Aarestrup FM. Veterinary drug usage and antimicrobial resistance in bacteria
+of animal origin. Basic Clin Pharmacol Toxicol. 2005;96:271–81.
+
+5. Marshall BM, Levy SB. Food animals and antimicrobials: impacts on human
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+health. Clin Microbiol Rev. 2011;24:718–33.
+Tang KT, Caffrey NP, Nóbrega DB, Cork SC, Ronksley PE, Barkema HW, Polachek
+AJ, Ganshorn H, Sharma N, Kellner JD, Ghali WA. Restricting the use of
+antibiotics in food-producing animals and its association with antibiotic
+resistance in food-producing animals and human beings: a systematic review
+and meta-analysis. Lancet Planet Health. 2017;1:e316-e327.
+EFSA (European Food Safety Authority), ESDC (European Centre for Disease
+Prevention and Control). The European Union summary report on
+antimicrobial resistance in zoonotic and indicator bacteria from humans,
+animals and food in 2014. EFSA J. 2016;14:207.
+European Medicines Agency. Sales of veterinary antimicrobial agents in 30
+European countries in 2015: Seventh ESVAC Report. 2017. www.ema.europa.
+eu/ema/index.jsp?curl=pages/regulation/document_listing/document_
+listing_000302.jsp. Accessed 27 Dec 2017.
+Planta MB. The role of poverty in antimicrobial resistance. J Am Board Fam
+Med. 2007;20:533–9.
+Laxminarayan R, Matsoso P, Pant S, Brower C, Røttingen JA, Klugman K,
+Davies S. Access to effective antimicrobials: a worldwide challenge. Lancet.
+2016;387:168–75.
+Laxminarayan R, Duse A, Wattal C, Zaidi AK, Wertheim HF, Sumpradit N,
+Vlieghe E, Hara GL, Gould IM, Goossens H, Greko C, So AD, Bigdeli M,
+Tomson G, Woodhouse W, Ombaka E, Peralta AQ, Qamar FN, Mir F,
+Kariuki S, Bhutta ZA, Coates A, Bergström R, Wright GD, Brown ED, Cars
+O. Antibiotic resistance-the need for global solutions. Lancet Infect Dis.
+2013;13:1057–98.
+
+12. Van Boeckel TP, Brower C, Gilbert M, Grenfell BT, Levin SA, Robinson TP,
+
+Teillant A, Laxminarayan R. Global trends in antimicrobial use in food
+animals. Proc Natl Acad Sci U S A. 2015;112:5649–54.
+
+13. Robinson TP, Bu DP, Carrique-mas J, Fevre EM, Gilbert M, Grace D, Hay SI,
+Jiwakanon J, Kakkar M, Kaiuki S, Laxminarayan R, Lubroth J, Magnusson U,
+
+Ström et al. Antimicrobial Resistance and Infection Control  (2018) 7:35 
+
+Page 11 of 11
+
+Ngoc PT, van Boeckel TP, MEJ W. Antibiotic resistance is the quintessential
+one health issue. Trans R Soc Trop Med Hyg. 2016;110:377–80.
+
+14. Coker RJ, Hunter BM, Rudge JW, Liverani M, Hanvoravongchai P. Emerging
+infectious diseases in southeast Asia: regional challenges to control. Lancet.
+2011;377:599–609.
+
+15. Antimicrobial resistance WHO. global report on surveillance. Switzerland:
+
+Geneva; 2014.
+
+16. Gilbert M, Conchedda G, Van Boeckel TP, Cinardi G, Linard C, Nicolas G,
+
+Thanapongtharm W, D’Aietti L, Wint W, Newman SH, Robinson TP. Income
+disparities and the global distribution of intensively farmed chicken and
+pigs. PLoS One. 2015;10:e0133381.
+
+17. Okeke IN, Lamikanra A, Edelman R. Socioeconomic and behavioral factors
+
+leading to acquired bacterial resistance to antibiotics in developing
+countries. Emerg Infect Dis. 1999;5:18–27.
+
+18. Guillemot D, Carbon C, Balkau B, Geslin P, Lecoeur H, Vauzelle-Kervroëdan F,
+Bouvenot G, Eschwége E. Low dosage and long treatment duration of beta-
+lactam: risk factors for carriage of penicillin-resistant Streptococcus
+pneumoniae. JAMA. 1998;279:365–70.
+
+19. Nguyen NT, Nguyen HM, Nguyen CV, Nguyen TV, Nguyen MT, Thai QH, Ho
+MH, Thwaites G, Ngo HT, Baker S, Carrique-Mas J. Use of Colistin and other
+critical antimicrobials on pig and chicken farms in southern Vietnam and its
+association with resistance in commensal Escherichia coli bacteria. Appl
+Environ Microbiol. 2016;82:3727–35.
+
+20. Dang PK, Saegerman C, Douny C, Ton VD, Bo HX, Binh DV, Ngan HP,
+
+Scippo ML. First survey on the use of antibiotics in pig and poultry
+production in the Red River Delta region of Vietnam. Food. Public
+Health. 2013;3:247–56.
+
+21. Om C, McLaws ML. Antibiotics: practice and opinions of Cambodian
+
+22.
+
+commercial farmers, animal feed retailers and veterinarians. Antimicrob
+Resist Infect Control. 2016;5:42.
+Ström G, Halje M, Karlsson D, Jiwakanon J, Pringle M, Fernström LL,
+Magnusson U. Antimicrobial use and antimicrobial susceptibility in
+Escherichia coli on small- and medium-scale pig farms in north-eastern
+Thailand. Antimicrob Resist Infect Control. 2017;6:75.
+
+23. Changkaew K, Intarapuk A, Utrarachkij F, Nakajima C, Suthienkul O, Suzuki Y.
+
+Antimicrobial resistance, extended-Spectrum beta-lactamase productivity,
+and class 1 Integrons in Escherichia coli from healthy swine. J Food Prot.
+2015;78:1442–50.
+Lay KK, Koowattananukul C, Chansong N, Chuanchuen R. Antimicrobial
+resistance, virulence, and phylogenetic characteristics of Escherichia coli isolates
+from clinically healthy swine. Foodborne Pathog Dis. 2012;9:992–1001.
+
+24.
+
+25. Nguyen VT, Carrique-Mas J, Ngo TH, Ho HM, Ha TT, Campbell JI, Nguyen TN,
+
+Hoang NN, Pham VM, Wagenaar JA, Hardon A, Thai QH, Schultsz C.
+Prevalence and risk factors for carriage of antimicrobial-resistant Escherichia
+coli on household and small-scale chicken farms in the Mekong Delta of
+Vietnam. J Antimicrob Chemother. 2015;70:2144–52.
+
+26. Nhung NT, Cuong NV, Thwaites G, Carrique-Mas J. Antimicrobial usage and
+
+antimicrobial resistance in animal production in Southeast Asia: a review.
+Antibiotics. 2016;5:37.
+
+27. Nhung NT, Cuong NV, Campbell J, Hoa NT, Bryant JE, Truc VN, Kiet BT,
+
+Jombart T, Trung NV, Hien VB, Thwaites G, Baker S, Carrique-Mas J. High
+levels of antimicrobial resistance among escherichia coli isolates from
+livestock farms and synanthropic rats and shrews in the Mekong Delta
+of Vietnam. Appl Environ Microbiol. 2015;81:812–20.
+
+28. World Bank. World development indicators. 2017. http://databank.
+
+worldbank.org/data/reports.aspx?source=world-development-indicators.
+Accessed 9 Dec 2017.
+Sovann S, San S. Pig production in Cambodia. In: Jones R, editor. Priority for
+research in Southeast Asia and the Pacific to 2010. Canberra: Australian
+Centre for International Agricultural Research; 2010.
+Ström G, Andersson Djurfeldt A, Boqvist S, Albihn A, Sokerya S, San S, Davun
+H, Magnusson U. Urban and peri-urban family-based pig-keeping in
+Cambodia: characteristics, management and perceived benefits and
+constraints. PLoS One. 2017;12:e0182247.
+Faugier J, Sargeant M. Sampling hard to reach populations. J Adv Nurs.
+1997;26:790–7.
+
+29.
+
+30.
+
+31.
+
+32. CLSI (Clinical and Laboratory Standards Institute). Performance Standards
+
+for Antimicrobial Disk and Dilution Susceptibility Tests for Bacteria
+Isolated From Animals; Approved Standard - Forth Edition. CLSI
+document VET01-A4 Clinical and Laboratory Standards Institute. Wayne,
+Pennsylvania, USA.
+
+33.
+
+EUCAST (European Committee on Antimicrobial Susceptibility Testing). MIC
+distributions and ECOFFs. 2017. http://mic.eucast.org/Eucast2/
+SearchController/search.jsp?action=performSearch&BeginIndex=0&Micdif=
+mic&NumberIndex=50&Antib=-1&Specium=162. Accessed 20 Oct 2017.
+34. Magiorakos AP, Srinivasan A, Carey RB, Carmeli Y, Falagas ME, Giske CG,
+
+Harbarth S, Hindler JF, Kahlmeter G, Olsson-Liljequist B, Paterson DL, Rice LB,
+Stelling J, Struelens MJ, Vatopoulos A, Weber JT, Monnet DL. Multidrug-
+resistans, extensively drug-resistant and pandrug-resistant bacteria: an
+international expert proposal for interim standard definitions for aquired
+resistance. Clin Microbiol Infect. 2012;18:268–81.
+Literak I, Reitschmied T, Bujnakova D, Dolejska M, Cizek A, Bardon J,
+Pokludova L, Alexa P, Halova D, Jamborova I. Broilers as a source of
+quinolone-resistant and extraintestinal pathogenic Escherichia coli in the
+Czech Republic. Microb Drug Resist. 2013;19:57–63.
+
+35.
+
+36. Mathew AG, Saxton AM, Upchurch WG, Chattin SE. Multiple antibiotic
+resistance patterns of Escherichia coli isolates from swine farms. Appl
+Environ Microbiol. 1999;65:2770–2.
+
+37. Gibbons JF, Boland F, Egan J, Fanning S, Markey BK, Leonard FC.
+
+Antimicrobial resistance of Faecal Escherichia coli isolates from pig farms
+with different durations of in-feed antimicrobial use. Zoonoses Public
+Health. 2016;63:241–50.
+
+38. Marchant M, Moreno MA. Dynamics and diversity of Escherichia coli in
+
+animals and system management of the manure on a commercial farrow-
+to-finish pig farm. Appl Environ Microbiol. 2013;79:853–9.
+
+39. Burow E, Simoneit C, Tenhagen BA, Käsbohrer A. Oral antimicrobials increase
+
+antimicrobial resistance in porcine E. Coli - a systematic review. Prev Vet
+Med. 2014;113:364–75.
+
+41.
+
+40. Morgan DJ, Okeke IN, Laxminarayan R, Perencevich EN, Weisenberg S. Non-
+prescription antimicrobial use worldwide: a systematic review. Lancet Infect
+Dis. 2011;11:692–701.
+Sarmah AK, Meyer MT, Boxall AB. A global perspective on the use, sales,
+exposure pathways, occurrence, fate and effects of veterinary antibiotics
+(VAs) in the environment. Chemosphere. 2006;65:725–59.
+Larsson DGJ. Antibiotics in the environment. Ups J Med Sci. 2014;119:
+108–12.
+Lee MH, Lee HJ, Ryu PD. Public health risks: chemical and antibiotic residues
+– review. Asian-Australas J Anim Sci. 2001;14:402–13.
+
+42.
+
+43.
+
+44. Duong VM, Paulsen P, Suriyasathaporn W, Smulders FJ, Kyule MN,
+
+Baumann MP, Zessin KH, Pham HN. Preliminary analysis of tetracycline
+residues in marketed pork in Hanoi, Vietnam. Ann N Y Acad Sci. 2006;
+1081:534–42.
+
+45. Yamaguchi T, Okihashi M, Harada K, Konishi Y, Uchida K, Do MH, Bui HD,
+Nguyen TD, Nguyen PD, Chau VV, Nguyen HT, Kajimura K, Kumeda Y, Bui
+CT, Vien MQ, Le NH, Hirata K, YamamotoY. Antibiotic residue monitoring
+results for pork, chicken, and beef samples in Vietnam in 2012-2013. J Agric
+Food Chem 2015;63:5141–5145.
+
+46. Wegener HC. Antibiotic resistance - linking human and animal health. In: Institute
+
+47.
+
+of Medicin, editor. Improving food safety through a One Health approach:
+Workshop summary. Washington DC: National Academies Press; 2012.
+Swedish Code of Statutes. The Act concerning the Ethical Review of
+Research Involving Humans (2003,460). https://www.riksdagen.se/sv/
+Dokument-Lagar/Lagar/Svenskforfattningssamling/Lag-2003460-om-
+etikprovning_sfs-2003-460/ Accessed 30 Nov 2017.
+
+48. WHO. Critically important antimicrobials for human medicine - 5th rev.
+
+Switzerland: Geneva; 2017.
+
+Submit your next manuscript to BioMed Central 
+and we will help you at every step:
+•  We accept pre-submission inquiries 
+(cid:129)  Our selector tool helps you to ﬁnd the most relevant journal
+(cid:129)  We provide round the clock customer support 
+(cid:129)  Convenient online submission
+(cid:129)  Thorough peer review
+(cid:129)  Inclusion in PubMed and all major indexing services 
+(cid:129)  Maximum visibility for your research
+
+Submit your manuscript at
+www.biomedcentral.com/submit
+
+

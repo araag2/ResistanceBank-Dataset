@@ -1,0 +1,1269 @@
+International Journal of Food Microbiology 231 (2016) 69–75
+
+Contents lists available at ScienceDirect
+
+International Journal of Food Microbiology
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / i j f o o d m i c r o
+
+High prevalence of extended-spectrum and plasmidic AmpC beta-
+lactamase-producing Escherichia coli from poultry in Tunisia
+Elaa Maamar a, Samia Hammami a,d, Carla Andrea Alonso c, Nouha Dakhli a, Mohamed Salah Abbassi a,e,
+Sana Ferjani a, Zaineb Hamzaoui a, Mabrouka Saidani a,b, Carmen Torres c,⁎, Ilhem Boutiba-Ben Boubaker a,b
+
+a University of Tunis El Manar, Faculty of Medicine of Tunis-Research Laboratory «Antimicrobial resistance», Tunis, Tunisia
+b Charles Nicolle Hospital, Laboratory of Microbiology, Tunis, Tunisia
+c Universidad de La Rioja, Area de Bioquímica y Biología Molecular, Logroño, Spain
+d University of Gafsa, Faculty of Sciences of Gafsa, Tunisia
+e University of Tunis El Manar, Institute of Veterinary Research of Tunisia-Laboratory of bacteriological research, Tunis, Tunisia
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 16 December 2015
+Received in revised form 29 April 2016
+Accepted 2 May 2016
+Available online 3 May 2016
+
+Keywords:
+Fecal carriage
+CMY-2
+CTX-M-1
+Plasmids
+
+This study was conducted to detect extended spectrum beta-lactamases (ESBLs) and plasmidic AmpC beta-
+lactamase (pAmpC-BL)-producing Escherichia coli isolates in industrial poultry samples were collected from
+healthy chickens of the three farms. Samples were inoculated onto desoxycholate-lactose-agar plates supple-
+mented with cefotaxime (2 mg/L). E. coli was identiﬁed by biochemical and molecular methods and antibiotic
+susceptibility testing by the disk diffusion method. Genes encoding ESBLs and pAmpC-BL were detected by
+PCR and sequencing. Phylogenetic groups were determined by triplex PCR. The molecular typing of strains was
+done by pulsed ﬁeld gel electrophoresis (PFGE) and Multilocus Sequence Typing (MLST) in those isolates show-
+ing different PFGE patterns. Cefotaxime-resistant E. coli isolates were recovered in 48 of 137 fecal samples (35%),
+and one isolate/sample was further studied. The following beta-lactamase genes were detected: blaCTX-M-1 (29
+isolates, isolated in all three farms), blaCTX-M-15 (5 isolates, conﬁned in farm II), blaCTX-M-14 and blaCMY-2 (one iso-
+late and 13 isolates, respectively, in farm III). The 48 cefotaxime-resistant isolates were distributed into
+phylogroups: B1 (n = 21), A (n = 15) and D (n = 12). PFGE analysis revealed 19 unrelated patterns: 15 different
+proﬁles among ESBL-positive strains and 4 among the CMY-2-positive isolates. The following sequence types-
+associated phylogroups were detected: a) CTX-M-1-positive strains: lineages ST542-B1, ST212-B1, ST58-B1,
+ST155-B1 and ST349-D; b) CTX-M-15-positive strain: lineage ST405-D; c) CTX-M-14-positive strain: lineage
+ST1056-B1; d) CMY-2-positive strains: lineages ST117-D, ST2197-A, and ST155-B1. Healthy chickens constitute
+an important reservoir of ESBL- and pAmpC-BL-producing E. coli isolates that potentially could be transmitted
+to humans via the food chain or by direct contact.
+
+© 2016 Elsevier B.V. All rights reserved.
+
+1. Introduction
+
+A steady increase in the rates of Escherichia coli resistant to third gen-
+eration cephalosporins (3rd GC) is reported worldwide (Carattoli,
+2008). This resistance can be associated with the production of ex-
+tended spectrum beta-lactamases (ESBLs) and/or plasmidic AmpC
+beta-lactamases (pAmpC-BL) (Paterson and Bonomo, 2005). Such resis-
+tant bacteria can cause severe community or hospital acquired infec-
+tions. Although person-to-person spread is recognized as the main
+way of spread of ESBL/pAmpC-BL containing E. coli both in hospitals
+and the community, the primary reservoirs of such organisms are con-
+tentious. Also, these microorganisms have been isolated from food-
+producing animals and derived foods in many countries, which has
+
+⁎ Corresponding author at: Área de Bioquímica y Biología Molecular, Universidad de La
+
+Rioja Madre de Dios, 51, 26006 Logroño, Spain.
+
+E-mail address: carmen.torres@unirioja.es (C. Torres).
+
+raised questions about the possible role of animal and food related res-
+ervoirs on this phenomenon (Mellata, 2013).The predominant ESBL
+families are CTX-M, TEM, and SHV (Paterson and Bonomo, 2005). The
+most common ESBL gene is blaCTX-M-1 and blaCTX-M-15 in animals and
+in humans, respectively, and the most common pAmpC-BL gene is
+blaCMY-2 (Ben Slama et al., 2011; Ben Sallem et al., 2012). ESBL/
+pAmpC-BL transmission is mainly driven by mobile genetic elements,
+some of which are homologous in isolates from both food-producing
+animals and humans (Liébana et al., 2013). Epidemic plasmids belong-
+ing to the Inc groups F, A/C, N, HI2, I1 and K, carrying particular ESBL
+or pAmpC-BL encoding genes have been detected among farms and
+companion animals, food products and humans (Carattoli, 2008; Ben
+Sallem et al., 2014). In Tunisia, only a few studies report the fecal car-
+riage of E. coli resistant to 3rd GC in food-producing animals (Ben
+Sallem et al., 2012; Grami et al., 2013; Kilani et al., 2015).
+
+The present study was conducted to detect ESBL/pAmpC-BL positive
+E. coli isolates from healthy poultry in three Tunisian farms and to
+
+http://dx.doi.org/10.1016/j.ijfoodmicro.2016.05.001
+0168-1605/© 2016 Elsevier B.V. All rights reserved.
+
+70
+
+E. Maamar et al. / International Journal of Food Microbiology 231 (2016) 69–75
+
+characterize the mechanisms of antibiotic resistance and the molecular
+typing of recovered isolates.
+
+2. Materials and methods
+
+2.1. Sampling and bacterial identiﬁcation
+
+During 2013, 137 fecal samples were collected from healthy
+chickens at three industrial laying hen farms in North of Tunisia (39
+samples in farm I, 62 samples in farm II and 36 samples in farm III).
+Each farm contained 2 to 4 buildings containing from 5000 to 10,000
+birds (only one building was studied in the present work). Chickens
+were kept in caged (box) systems; each box contained 4 to 6 ones.
+The approximate area of each building is 1000 m2, with 10 roof-
+mounted fans. Water and food intakes were assured by 4 drip-type
+drinker and ad libitum feeding, respectively, and feces discharge real-
+ized at the end of breeding cycles.
+
+Moreover, personal entrance in these farms was very well controlled
+to avoid contamination. Random boxes were selected and 1 to 3 sam-
+ples of fresh feces were taken by sterile cotton swabs and transported
+at 4 °C to the laboratory to be analyzed in the same day. In order to con-
+sider each box as a single sample, the 3 cotton swabs were combined
+and directly rubbed onto desoxycholate lactose agar plates (Biokar
+Diagnostics, France) supplemented with cefotaxime (CTX, 2 mg/L) to
+isolate cefotaxime-resistant isolates. After incubation at 37 °C for 24 h,
+one colony per sample showing E. coli morphology were recovered
+and identiﬁed by classical biochemical methods, API 20E system
+(BioMerieux, Marcy l'Etoile, France), and by species-speciﬁc PCR
+(ampliﬁcation of uidA gene) (Jouini et al., 2007).
+
+2.2. Antimicrobial susceptibility testing and ESBL identiﬁcation
+
+cefoxitin,
+
+ceftazidime,
+
+trimethoprim-sulfamethoxazole,
+
+Antimicrobial susceptibility testing to 17 antibiotics (amoxicillin,
+amoxicillin-clavulanic acid,
+cefotaxime,
+imipenem, aztreonam, gentamicin, amikacin, tobramycin, nalidixic
+acid, ciproﬂoxacin,
+tetracycline,
+minocyclin, tigycycline and chloramphenicol) was determined by the
+agar disk diffusion method on Mueller-Hinton agar plates (Bio-Rad,
+France) according to the Clinical and Laboratory Standards Institute
+guidelines (CLSI, 2013). One cefotaxime-resistant E. coli isolate per
+sample was selected and screened for ESBL-phenotype by double-disk
+synergy test (DDST) with cefotaxime, ceftazidime and amoxicillin-
+clavulanic acid disks (CLSI, 2013). Those cefotaxime-resistant E. coli
+isolates showing a negative-ESBL-phenotype but showing resistance
+to amoxicillin-clavulanic acid and cefoxitin, were included in the
+pAmpC-BL-phenotype.
+
+2.3. Molecular typing of cefotaxime-resistant E. coli strains
+
+In order to determine the clonal relationship among cefotaxime-
+resistant E. coli isolates, agarose plugs containing genomic DNA of the
+isolates were digested with XbaI enzyme (BioLabs, New England).
+XbaI-digested DNA fragments were separated by pulsed-ﬁeld gel elec-
+trophoresis (PFGE) on a 1% agarose gel in 0.5× Tris-Borate-EDTA buffer
+using a CHEF-DRIII device (Bio-Rad, Marnes-la-Coquette, France). PFGE
+conditions were as follows: 6 V/cm for 23 h with pulse times ranging
+from 1 to 30 s at 14 °C (Tenover et al., 1995; Sáenz et al., 2004). A lambda
+ladder was used as a standard size marker (BioLabs, New England).
+Patterns were visually compared and analyzed according to previously
+reported criteria (Tenover et al., 1995; Sáenz et al., 2004).
+
+The isolates were assigned to the phylogenetic groups A, B1, B2 or D
+using a PCR strategy with speciﬁc primers for chuA, yjaA and TspE4.C2
+determinants (Clermont et al., 2000).
+
+One cefotaxime-resistant E. coli isolate from each of the nineteen dif-
+ferent PFGE proﬁles was characterized by Multilocus Sequence Typing
+(MLST), by PCR ampliﬁcation of the standard seven housekeeping loci
+
+(Tartof et al., 2005). All the amplicons were sequenced and compared
+with the sequences deposited in the MLST database (http://mlst.
+warwick.ac.uk/), to know the speciﬁc allele combination and the se-
+quence type (ST).
+
+2.4. Virulence genotyping of cefotaxime-resistant E. coli isolates
+
+All isolates were screened for 18 virulence factors (VFs) found in
+extra-intestinal pathogenic E. coli (ExPEC) using PCR (Johnson and
+Stell, 2000). A virulence score was calculated as the sum of all VFs for
+which the isolates tested positive. ExPEC status of the isolates was
+analyzed based on the operational deﬁnition of Johnson et al., that is,
+presence of ≥2 of the following 5 virulence genes, papA and/or papC,
+sfa/focDE, afa/draBC, iutA, and kpsM II (Johnson et al., 2003).
+
+2.5. Molecular analysis of antibiotic resistance genes and the genetic
+environment of blaCTX-M
+
+DNA extraction was performed for all samples by boiling. The
+presence of beta-lactamase genes [blaCTX-M-consensus, blaCTX-M-1, 2, 8, 9,
+25-groups, blaOXA, blaSHV, blaTEM, blaCMY, blaACC, blaMOX, blaFOX,
+blaDHA, blaLAT, blaACT and blaMIR] was detected by PCR and sequencing
+(Pérez-Pérez and Hanson, 2002; Saladin et al., 2002). The genetic envi-
+ronment of blaCTX-M genes was characterized and determined by PCR
+and sequencing (Eckert et al., 2006).
+
+2.6. Detection of resistance genes to non-beta-lactam antimicrobial agents
+
+The presence of genes associated with resistance to tetracycline
+[tet(A) and tet(B)], sulphonamides [sul1 and sul3], streptomycin
+[aadA1 and aadA2], chloramphenicol [cmlA], and quinolones [qnrA,
+qnrB, qnrS, qepA and aac(6′)-Ib-cr] was determined by PCR and sequenc-
+ing (Sáenz et al., 2004).
+
+2.7. Detection and characterization of integrons
+
+The presence of int1 and int2 genes (encoding class 1 and class 2
+integrases, respectively) was examined by PCR for representative iso-
+lates (one isolate per PFGE pattern). The variable regions of class 1
+and class 2 integrons were characterized by PCR and sequencing in all
+int1- or int2-positive isolates (Ben Slama et al., 2011).
+
+2.8. Plasmid typing
+
+Plasmids carried by selected isolates (one isolate per PFGE pattern)
+were assigned to the incompatibility groups using PCR-based replicon
+typing method (Carattoli et al., 2005a).
+
+2.9. Statistical analysis
+
+Virulence score was determined for each strain and calculated as the
+sum of virulence genes detected, with papG alleles counting collectively
+as a single determinant.
+
+Statistical testing was done using SPSS (version 10.0) and Epi Info
+(version 6.04) softwares. Comparisons of proportions were determined
+using the chi-square test or Fisher's exact test. Comparisons of virulence
+scores were assessed using the Mann-Whitney U test and Kruskal–
+Wallis. Values P ≤ 0.05 were considered to be signiﬁcant.
+
+3. Results
+
+3.1. Prevalence of cefotaxime-resistant E. coli isolates and antibiotic
+susceptibility
+
+Cefotaxime-resistant E. coli isolates were recovered in 48 of the 137
+fecal samples (35%) of the three poultry industrial farms analyzed [9/39
+
+E. Maamar et al. / International Journal of Food Microbiology 231 (2016) 69–75
+
+71
+
+(23.07%), 13/62 (20.9%), and 26/36 (72.2%) in farm I, II and III,
+respectively]. Among the 48 cefotaxime-resistant E. coli isolates, 35 ex-
+hibited a positive ESBL-screening test (72.9%). The remaining isolates
+(n = 13), all recovered in farm III, showed an pAmpC-BL phenotype
+characterized by resistance to cefoxitin and amoxicillin-clavulanic
+acid, in addition to reduced susceptibility to broad-spectrum cephalo-
+sporins and a negative ESBL-screening test. Consequently, 25.5% of
+tested samples carried ESBL positive E. coli isolates and 9.4% were car-
+riers of E. coli isolates with pAmpC-BL phenotype.
+
+The majority of the 35 ESBL-positive E. coli isolates were co-resistant
+to non-beta-lactam antibiotics (Table 1), being resistant
+to:
+trimethoprim-sulfamethoxazole (46%), nalidixic acid (80%), ciproﬂoxa-
+cin (43%), gentamicin and amikacin (3%), tetracycline (94%), and
+minocyclin (71.4%). In addition, the 13 CMY-2-producing E. coli isolates
+seemed to be more resistant than ESBL-producing isolates. They
+were resistant to trimethoprim-sulfamethoxazole (100%), nalidixic
+acid (100%), ciproﬂoxacin (100%), tetracycline (100%), minocyclin
+
+(100%) gentamicin (54%), and amikacin (15%). All cefotaxime-
+resistant E. coli isolates showed susceptibility to carbapenems and
+tigecycline (Table 1).
+
+3.2. Genes encoding beta-lactamases, clonal relationship and virulence
+genotyping in cefotaxime-resistant E. coli isolates
+
+The presence of genes encoding beta-lactamases was studied in the
+35 ESBL-positive E. coli isolates and the following beta-lactamases were
+identiﬁed: CTX-M-1 (29 isolates, recovered in farms I (9 isolates), II (8
+isolates) and III (12 isolates)), CTX-M-15 (5 isolates, conﬁned in farm
+II) and CTX-M-14 (one isolate, in farm III). The blaTEM-1 gene was con-
+comitantly present in 8 isolates. All isolates with pAmpC-BL phenotype
+harbored the blaCMY-2 gene (13 isolates, conﬁned in farm III) (Table 1).
+Phylogenetic analysis revealed that isolates belonged to the follow-
+ing groups: B1 (n = 21), A (n = 15) and D (n = 12). ESBL-producing
+isolates were signiﬁcantly associated with phylogenetic group B1
+
+Table 1
+Characteristics of the 48 cefotaxime-resistant E. coli recovered from fecal samples of healthy chickens in the three farms.
+
+Strain
+
+Farm Resistance proﬁle for non-beta-lactam antibioticsa
+
+Beta-lactamase genes
+
+Virulence genes proﬁle/virulence scoreb
+
+Phylogenetic group
+
+PFGE pattern
+
+I
+I
+I
+I
+I
+I
+I
+I
+I
+II
+II
+II
+II
+II
+II
+II
+II
+II
+II
+II
+II
+II
+III
+III
+III
+III
+III
+III
+III
+III
+III
+III
+III
+III
+III
+III
+III
+III
+III
+III
+III
+III
+III
+III
+III
+III
+III
+III
+
+C6901
+C6902
+C6903
+C6905
+C6906
+C6908
+C6904
+C6907
+C6909
+C6911
+C6913
+C6915
+C6916
+C6922
+C6920
+C6921
+C6918
+C6910
+C6912
+C6914
+C6917
+C6919
+C6927
+C6928
+C6929
+C6930
+C6931
+C6933
+C6923
+C6925
+C6924c
+C6932c
+C6934c
+C6935
+C6926
+C6938
+C6942
+C6943
+C6945
+C6939
+C6940
+C6941
+C6944
+C6936
+C6937
+C6946
+C6947
+C6948
+a NAL: nalidixic acid, CIP: ciproﬂoxacin, SXT: trimethoprim-sulfamethoxazole; TET: tetracycline, MNO: minocyclin; GEN: gentamicin; TOB: tobramycin, AMK: amikacin; CHL:
+
+NAL, SXT, TET, MNO
+TET, MNO,
+SXT, TET, MNO
+SXT, TET, MNO, TOB, AMK
+TET, MNO, TOB
+NAL, TET, MNO
+TET
+TET
+No resistance
+NAL, CIP, SXT, TET, MNO, GEN, TOB
+NAL, CIP, TET, MNO
+NAL, CIP, TET, MNO
+NAL, CIP, SXT, CHL
+NAL, CIP, SXT, TET, MNO, CHL
+NAL, CIP, TET, MNO
+NAL, CIP, TET, MNO
+NAL, CIP, SXT, TET, MNO
+NAL, CIP, SXT, TET, MNO, CHL
+NAL, CIP, TET
+NAL, CIP, SXT, TET, MNO, CHL
+NAL, CIP, SXT, TET, MNO, CHL
+NAL, CIP, SXT, TET, MNO, CHL
+NAL, CIP, SXT, TET, MNO
+NAL, TET, MNO
+NAL, TET, MNO
+NAL, TET, MNO
+NAL, TET
+NAL, TET
+NAL, TET, MNO
+NAL, TET, MNO
+NAL, SXT, TET
+NAL, SXT, TET
+NAL, SXT, TET, MNO
+NAL, CIP, SXT, TET
+NAL, TET, MNO
+NAL, CIP, SXT, TET, MNO, AMK, CHL
+NAL, CIP, SXT, TOB, TET, MNO, CHL
+NAL, CIP, SXT, TET, MNO
+NAL, CIP, SXT, TET, MNO, AMK, CHL
+NAL, CIP, SXT, TET, MNO, CHL
+NAL, CIP, SXT, TOB, TET, MNO, GEN, AMK, CHL
+NAL, CIP, SXT, TET, MNO, GEN, TOB, AMK, CHL
+NAL, CIP, SXT, TET, MNO, TOB, CHL
+NAL, CIP, SXT, TET, MNO, GEN, TOB, AMK, CHL
+NAL, CIP, SXT, TET, MNO, TOB, AMK, CHL
+NAL, CIP, SXT, TET, MNO, GEN, TOB, CHL
+NAL, CIP, SXT, TET, MNO, GEN, TOB, CHL
+NAL, CIP, SXT, TET, MNO, GEN, TOB, AMK, CHL
+
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1, blaTEM-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-15, blaTEM-1
+blaCTX-M-15, blaTEM-1
+blaCTX-M-15, blaTEM-1
+blaCTX-M-15, blaTEM-1
+blaCTX-M-15
+blaCTX-M-1
+blaCTX-M-1, blaTEM-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1, blaTEM-1
+blaCTX-M-1, blaTEM-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-14
+blaCMY-2
+blaCMY-2
+blaCMY-2
+blaCMY-2
+blaCMY-2
+blaCMY-2
+blaCMY-2
+blaCMY-2
+blaCMY-2
+blaCMY-2
+blaCMY-2
+blaCMY-2
+blaCMY-2
+
+iutA/1
+papGII, ﬁmH, iutA, iroN/4
+papGII, ﬁmH, iutA, iroN, tratT/5
+ﬁmH, iroN, traT, ompT/4
+ﬁmH, iroN/2
+ﬁmH, iroN, ompT/3
+ﬁmH, cnfI, kpsM II, ompT, usp/5
+ﬁmH, sat, iroN, kpsM II, ompT/5
+ﬁmH, sat, iroN, kpsM II, ompT/5
+ﬁmH, iutA, iroN, traT, ompT/5
+ﬁmH, iutA, iroN, traT, ompT/5
+ﬁmH, iutA, iroN, traT/4
+ﬁmH, iroN, traT/3
+ﬁmH, iutA, iroN, traT/4
+ﬁmH, iutA, iroN, traT, ompT/5
+ﬁmH, iutA, iroN, traT, ompT/5
+ﬁmH, iroN, traT, ompT, malX/5
+ﬁmH, sat, fyuA, iroN, traT, ompT, malX/7
+ﬁmH, sat, fyuA, iutA,iroN, traT, ompT, malX/8
+ﬁmH, traT, malX/3
+ﬁmH, iroN, traT, ompT, malX/5
+ﬁmH, iroN, traT, ompT, malX/5
+ﬁmH, iroN, traT/3
+ﬁmH, traT, ompT/3
+ﬁmH, ompT/2
+ﬁmH, ompT/2
+ﬁmH, ompT/2
+ﬁmH, ompT/2
+ﬁmH, iroN, ompT/3
+ﬁmH, ompT/2
+ﬁmH, fyuA, iutA, iroN, kpsM II, ompT/6
+ﬁmH, iutA, iroN, kpsM II, ompT/5
+papGII, ﬁmH, iutA, iroN, kpsM II/5
+papGII, ﬁmH, iutA, iroN, traT, ompT/6
+papGII, ﬁmH, iroN, iha, traT/5
+Sfa/focDE, ﬁmH,iutA, traT, ompT, usp/6
+ﬁmH,hlyA, iutA,iha, tratT, ompT, usp/7
+ﬁmH, fyuA, iutA, iroN, traT, ompT, usp/7
+ﬁmH, fyuA, iutA, iroN, iha, traT, ompT, usp/8
+Sfa/focDE, ﬁmH,iroN,iha, ompT, usp/6
+ﬁmH, iroN, traT, ompT/4
+ﬁmH, iha, traT, ompT, usp/5
+ﬁmH, traT, ompT, usp/4
+Sfa/focDE, ﬁmH, ompT, usp/4
+Sfa/focDE, ﬁmH, traT, ompT, usp/5
+ﬁmH, ompT, usp/3
+ﬁmH, ompT, usp/3
+ﬁmH, traT, ompT, usp/4
+
+B1
+B1
+B1
+A
+A
+A
+D
+D
+D
+B1
+B1
+B1
+B1
+B1
+B1
+B1
+D
+D
+D
+D
+D
+D
+B1
+B1
+B1
+B1
+B1
+B1
+B1
+B1
+A
+A
+A
+D
+B1
+D
+D
+B1
+B1
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
+P1
+P2
+P2
+P3
+P3
+P3
+P4
+P4
+P4
+Non typable
+P5
+P6
+P7
+P7
+P8
+P8
+P9
+P9
+P9
+P9
+P9
+P9
+P10
+P11
+P11
+P11
+P11
+P11
+P11
+P11
+P12
+P13
+P13
+P14
+P15
+P16
+P16
+P17
+P18
+P19
+P19
+P19
+P19
+P19
+P19
+P19
+P19
+P19
+
+chloramphenicol.
+
+b Virulence score was calculated as the sum of all virulence genes for which the isolates tested positive.
+c Strains qualiﬁed as ExPEC (extra-intestinal pathogenic E. coli, (deﬁned as the presence of ≥2 of the following 5 virulence genes, papA and/or papC, sfa/focDE, afa/draBC, iutA, andkpsM II )).
+
+72
+
+E. Maamar et al. / International Journal of Food Microbiology 231 (2016) 69–75
+
+(P = 0.016), and the majority of CMY-producing isolates (9/13 isolates)
+were ascribed to phylogenetic group A (Table 1).
+
+PFGE analysis demonstrated 19 unrelated patterns among the 48
+cefotaxime-resistant isolates: 15 different proﬁles among ESBL-
+positive isolates and 4 among the CMY-2-positive isolates (Fig. 1).
+More than one cefotaxime-resistant isolate (2–9 isolates) were detected
+in 10 PFGE proﬁles, and the remaining 9 PFGE proﬁles were detected in
+unique isolates. All CTX-M-15-producing strains belonged to the same
+PFGE pattern and 9 of the 13 CMY-2-producing ones were clonally re-
+lated. However, the 29 CTX-M-1-producing strains were assessed onto
+13 different PFGE proﬁles (Table 1).
+
+The presence of virulence genes was analyzed in the whole collec-
+tion of 48 cefotaxime-resistant strains. Of the 18 VFs sought, ﬁmH viru-
+lence gene was detected in 47 strains (except in C6901), iroN in 30 and
+iutA in 18 strains. Overall, virulence scores were in the range of 1 to 8
+(median, 5). E. coli strain C6945, typed as ST155-B1 (CMY-2), contained
+8 VFs (ﬁmH, fyuA, iutA, iroN, iha, traT, ompT and usp). Nevertheless,
+papGI, papGIII or afa/draBC virulence genes were not detected in any
+strain (Table 1). Compared with ESBL-producing isolates, CMY-2-
+producing isolates were found to be enriched for usp virulence gene
+(P = 4 × 10−8), while no statistical difference was observed in the inci-
+dence of other virulence genes. Nonetheless, no statistical difference
+was observed between the mean virulence score of the ESBL- and
+CMY-2-producing isolates. High virulence scores were signiﬁcantly as-
+sociated with phylogenetic group D (P = 0.004). ExPEC status analysis
+of the isolates showed that 3/35 (8.57%) ESBL-producing isolates were
+qualiﬁed as ExPEC and were typed as ST93-A (CTX-M-1).
+
+3.3. Characterization of PFGE-unrelated E. coli isolates producers of ESBL
+and pAmpC-BL
+
+One isolate corresponding to each of the 19 unrelated PFGE patterns
+were selected for complete characterization and results are included in
+Table 2.
+
+Sequence types and associated phylogenetic groups detected among
+these 19 strains were the following ones: a) CTX-M-1-positive strains:
+lineages ST542-B1, ST212-B1, ST58-B1, ST4968-B1, ST1431-B1,
+ST1196-B1, ST93-A, ST350-D, ST155-B1 and ST349-D; b) CTX-M-15-
+positive strain: lineage ST405-D; c) CTX-M-14-positive strain: lineage
+ST1056-B1; d) CMY-2-positive strains: lineages ST117-D, ST2197-A,
+and ST155-B1. Strains showing P1 and P4 PFGE patterns could not be as-
+sociated with any ST registered, to date, in the Warwick MLST Database.
+In both cases, point mutations in different alleles were identiﬁed by
+Sanger sequencing.
+
+The genetic environment of the blaCTX-M gene was analyzed in the
+strains showing this gene. The ISEcp1 insertion sequence was found up-
+stream of blaCTX-M-1 (in 11 of 13 strains), blaCTX-M-15 (in strain C6917)
+and blaCTX-M-14 genes (in strain C6926). In strain C6924, harboring
+blaCTX-M-1, ISEcp1 was truncated with IS5. The orf477 sequence was de-
+tected downstream of blaCTX-M-1 (in 12 of the 13 selected strains) and
+blaCTX-M-15 (in strain C6917). IS903 sequence was found downstream
+of blaCTX-M-14 in strain C6926 (Table 2).
+
+Over the 19 selected strains, 14 harbored the int1 gene (associated to
+int2 in three strains) and analysis of their variable region (VR) detected
+the following gene cassette arrangements: aadA2 (one strain), dfrA14
+
+Fig. 1. XbaI-PFGE proﬁles of 19 PFGE-unrelated cefotaxime-resistant E. coli isolates recovered from fecal samples of healthy chickens in the three poultry farms (I-III). Lanes M, Lambda
+Ladder standard.
+
+E. Maamar et al. / International Journal of Food Microbiology 231 (2016) 69–75
+
+73
+
+Table 2
+Molecular characteristics of 19 PFGE-unrelated cefotaxime-resistant E. coli isolated from fecal samples of healthy chickens in the three industrial farms (I-III).
+
+Strain/Farm ST
+
+PFGE
+pattern
+
+β-lactamases genes
+
+Genetic environment Of
+blaCTX-M
+
+Integron types (structure)
+
+Associated resistance
+genes
+
+Plasmid
+replicons
+
+C6901/I
+C6903/I
+C6905/I
+C6904/I
+C6913/II
+C6915/II
+C6922/II
+C6920/II
+C6917/II
+C6927/III
+C6923/III
+C6924/III
+C6932/III
+C6935/III
+C6926/III
+C6938/III
+C6943/III
+C6945/III
+C6936/III
+
+NR
+ST542
+NR
+ST349
+ST4968
+ST1431
+ST1196
+ST212
+ST405
+ST155
+ST58
+ST93
+ST93
+ST350
+ST1056
+ST117
+ST155
+ST155
+ST2197
+
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P10
+P11
+P12
+P13
+P14
+P15
+P16
+P17
+P18
+P19
+
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-15, blaTEM-1
+blaCTX-M-1
+blaCTX-M-1
+blaCTX-M-1, blaTEM-1
+blaCTX-M-1, blaTEM-1
+blaCTX-M-1
+blaCTX-M-14
+blaCMY-2
+blaCMY-2
+blaCMY-2
+blaCMY-2
+
+ISEcp1-orf477
+ISEcp1-orf477
+ISEcp1-orf477
+ISEcp1-orf477
+ISEcp1-orf477
+ISEcp1-orf477
+Unknown-Orf477
+ISEcp1-orf477
+ISEcp1-orf477
+ISEcp1-orf477
+ISEcp1-orf477
+ISEcp1-IS5-orf477
+Unknown-orf477
+ISEcp1-unknown
+ISEcp1-IS903
+ND
+ND
+ND
+ND
+
+NR: Not registered in the MLST database; ND: not done; ST: sequence type
+
+plus aadA1 (one strain), and dfrA1 plus aadA1 (three strains). Four
+strains harbored the int2 gene and the dfrA12 plus sat2 plus aadA1
+gene cassettes were detected in all of them. In four strains, neither
+int1 nor int2 gene was detected (Table 2).
+
+Different genes were detected among the antibiotic resistant strains
+[antibiotic (number of resistant strains)/gene (number of strains)]: tet-
+racycline (19)/tetA(16)/tetB(4); and trimethoprim-sulfamethoxazole
+(13)/sul1 (3)/sul3 (2).
+
+The IncI1, IncF, IncFIB, IncFIA, IncK, IncY, IncP and IncN replicons
+were detected among tested E. coli strains, and different replicon combi-
+nations were identiﬁed. The IncI1, IncF and IncFIB replicons were de-
+tected combined in eight blaCTX-M-1-positive E. coli strains (Table 2).
+
+4. Discussion
+
+Antibiotics had been widely used in healthy animals for growth pro-
+motion, practice now banned in the European Union and in other coun-
+tries, but still active in others (Millet and Maertens, 2011). In Tunisia,
+this restriction on growth promoters exists; although it is not enforced.
+Under the pressure of antibiotic selectivity, drug-resistant bacteria
+emerge and disseminate in healthy animals and can spread to humans
+through consumption of contaminated food, from direct contact with
+animals, or by environmental spread (Ewers et al., 2007; Horton et al.,
+2011; Mellata, 2013). The genes coding for antimicrobial resistance
+can be transferred from microbes carried by animals to microbes that
+cause disease in humans (Johnson et al., 2012).
+
+In the present study, in all three industrial farms, animals (chickens)
+were colonized by cefotaxime-resistant E. coli isolates. The rate of fecal
+carriage of these multidrug resistant bacteria in healthy chickens varied
+from one farm to another (20.9% to 72.2%), which is consistent with
+global data (Girlich et al., 2007; Reich et al., 2013), including those of
+Tunisia (42% and 45.5%) (Ben Sallem et al., 2012; Mnif et al., 2012).
+These results conﬁrm that chicken farms constitute a reservoir of
+cefotaxime-resistant E. coli isolates, which might reﬂect a high antibiotic
+pressure for selection of resistant bacteria in this ecosystem (Mellata,
+2013).
+
+CTX-M-1 was detected in all three farms; however CTX-M-15 and
+CMY-2 were conﬁned to farms II and III respectively. In fact, CTX-M-1
+enzyme is the most dominant ESBL type in E. coli isolates among intes-
+tinal microbiota of healthy chickens worldwide (Meunier et al., 2006;
+Girlich et al., 2007; Ben Sallem et al., 2012; Grami et al., 2013). However,
+CTX-M-15 enzyme, pandemic in human clinical E. coli, appears to be an
+emerging variant β-lactamase in fecal carriage of healthy animals (Ben
+
+int2 (dfrA12-sat2-aadA1)
+int1
+int1
+int1
+–
+–
+int1 (dfrA1-aadA1)
+int1
+int1
+int1 (dfrA1-aadA1)
+–
+int1/int2 (dfrA12-sat2-aadA1)
+int1/int2 (dfrA12-sat2-aadA1)
+int1 (dfrA1-aadA1)/int2 (dfrA12-sat2-aadA1)
+–
+int1 (dfrA14-aadA1)
+int1 (aadA2)
+int1
+int1
+
+tetA
+tetA, dfrA1
+tetB
+–
+tetA
+tetA
+tetA, sul3
+tetA, dfrA1, sul1
+tetA, tetB, dfrA1
+tetA, sul3
+tetA
+tetA
+tetA
+tetA, tetB, sul1
+tetA
+tetA, sul1
+tetA, dfrA1
+tetA, dfrA1
+tetB, dfrA1
+
+K, I1, FIB, F
+I1, N, FIB, F
+I1
+I1
+I1, FIB, F
+I1, N, FIB, F
+K, Y, I1, FIB
+I1, FIB, F
+N, FIB, F
+Y, I1, F
+K, I1, FIB, F
+P, I1, FIB, F
+P, I1, FIB, F
+K, FIB, F
+F
+I1, F
+F
+FIB, FIA, F
+I1
+
+Slama et al., 2011; Mnif et al., 2012). CTX-M-14-producing E. coli, previ-
+ously isolated in meat chicken in Tunisia (Jouini et al., 2007), was found
+in one specimen in farm III. As previously reported, CMY-2 is the most
+dominant pAmpC-BL in E. coli isolates from healthy animals, humans,
+food samples and companion animals (Brinas et al., 2003; Carattoli
+et al., 2005b; Ben Slama et al., 2010; Ben Sallem et al., 2012). The high
+rate occurrence of E. coli harboring blaCTX-M-1 and blaCMY-2 in poultry
+and their food products can contribute to the transmission of these
+genes to humans.
+
+In this study, different clones of E. coli carried the gene encoding
+CTX-M-1 in the three tested farms. The CTX-M-15-producing E. coli
+strains were clonally related and typed as ST405-D, being this ESBL-
+positive clone previously detected in human infections (Ben Slama
+et al., 2011; Matsumura, et al., 2012). At least three E. coli clones carried
+the gene blaCMY-2, highlighting the detection of lineages ST117 and
+ST155, previously detected in isolates of animal, human or vegetable or-
+igins (Ben Sallem et al., 2014; Ben Said et al., 2015). It seems that clones
+and genetic variants of ESBLs and pAmpC-BL are not restricted to a
+unique ecosystem but a continuous ﬂow is occurring. Thus the dissem-
+ination of these enzymes is related with the dissemination of plasmids
+containing their genes. As previously showed, we found that both
+IncI1 and IncF were the most prevalent plasmid replicon types detected
+in cefotaxime-resistant E. coli strains (Carattoli, 2009; Ben Sallem et al.,
+2014).
+
+The ISEcp1 detected upstream of most of blaCTX-M-1, blaCTX-M-15 and
+blaCTX-M-14 genes in this study seems to be important for mobilization
+of ESBL gene (Eckert et al., 2006). The IS5 disruption of ISEcp1 in one
+blaCTX-M-1 harboring strain of our study, was previously detected in
+blaCTX-M-1 strains of healthy pets also in Tunisia (Sallem et al., 2013);
+this disruption might affect the mobilization and/or expression of the
+gene, fact that should be corroborated in the future. Class 1 integrons
+were predominant in our study in ESBL-positive isolates in relation to
+class 2 integrons, what is in agreement to previous studies (Machado
+et al., 2005; Souﬁ et al., 2009; Ben Slama et al., 2010; Cergole-Novella
+et al., 2010; Souﬁ et al., 2011).
+
+Concerning the distribution of pathogenic E. coli strains according to
+phylogroups, in human it is known that pathogenic strains producing
+extra-intestinal infections (ExPEC) belong more frequently to the B2
+group in relation to other groups. They can be implicated in meningitis,
+abscess, peritonitis, septicemia and urinary tract infections in humans,
+among others (Nandanwar et al., 2014); while, groups A and B1 E. coli
+strains are more frequently commensal strains (Ewers et al., 2007). In
+the present study, the majority of cefotaxime-resistant E. coli strains
+
+74
+
+E. Maamar et al. / International Journal of Food Microbiology 231 (2016) 69–75
+
+were found to belong to B1 phylogenetic group (n = 21), followed by A
+and D (15 and 12, respectively). These results are in agreement with
+those reported in the literature (Mnif et al., 2012; Huber et al., 2013).
+Extra-intestinal pathogenic E. coli (ExPEC) are part of the intestinal mi-
+crobiota of a fraction of the healthy population and normally asymp-
+tomatically colonize the gut. Once they get access to niches outside of
+the gut they are however able to efﬁciently colonize these niches and
+cause diseases in humans or in many animals (Kohler and Dobrindt,
+2011). In fact, several investigations have shown that ExPEC strains
+may encode widespread VFs that are closely related to colonization, per-
+sistence, and pathogenesis of bacteria (Johnson and Stell, 2000). The
+most important of these factors include adhesins or ﬁmbriae, toxins
+and iron-acquisition systems (Johnson and Stell, 2000). These, may
+have been acquired by plasmids or pathogenicity-associated islands
+(Johnson et al., 2001). In our strain collection, the median VF score is
+5. ﬁmH, encoding for ﬁmH adhesin known for its important role in intes-
+tinal colonization and initiation of infection, was the most frequently
+virulence gene detected.
+
+5. Conclusion
+
+Chickens have become an important reservoir of cefotaxime-
+resistant E. coli isolates which contain virulence determinants, in
+Tunisia. Our study reports the dissemination of various E. coli clones
+producing CTX-M-1, several CMY-2-E. coli clones as well as one E. coli-
+ST405 clone with CTX-M-15 at industrial poultry farms in Tunisia. De-
+tailed molecular comparison of plasmids and genomes of isolates from
+various sources will help to better deﬁne the transmission dynamics
+of ESBLs between humans and animals.
+
+Conﬂicts of interest
+
+No competing ﬁnancial interests exist.
+
+Acknowledgments
+
+We thank Dr Riadh Mokdad for helping us in sampling. This work
+was supported by the Tunisian Ministry of Higher Education and Scien-
+tiﬁc Research and the work performed in the University of La Rioja was
+ﬁnanced by project SAF2012-35474 from the Ministerio de Economía y
+Competitividad (MINECO) of Spain and the Fondo Europeo de
+Desarrollo Regional (FEDER). Carla Andrea Alonso has a pre-doctoral
+fellowship from the MINECO (Spain).
+
+References
+
+Ben Said, L., Jouini, A., Klibi, N., Dziri, R., Alonso, C.A., Boudabous, A., Ben Slama, K., Torres,
+C., 2015. Detection of extended-spectrum beta-lactamase (ESBL)-producing
+Enterobacteriaceae in vegetables, soil and water of the farm environment in Tunisia.
+Int. J. Food Microbiol. 203, 86–92.
+
+Ben Sallem, R., Ben Slama, K., Rojo-Bezares, B., Porres-Osante, N., Jouini, A., Klibi, N.,
+Boudabous, A., Sáenz, Y., Torres, C., 2014. IncI1 plasmids carrying bla(CTX-M-1) or
+bla(CMY-2) genes in Escherichia coli from healthy humans and animals in Tunisia.
+Microb. Drug Resist. 20 (5), 495–500.
+
+Ben Sallem, R., Ben Slama, K., Sáenz, Y., Rojo-Bezares, B., Estepa, V., Jouini, A., Gharsa, H.,
+Klibi, N., Boudabous, A., Torres, C., 2012. Prevalence and characterization of
+extended-spectrum beta-lactamase (ESBL)- and CMY-2-producing Escherichia coli
+isolates from healthy food-producing animals in Tunisia. Foodborne Pathog. Dis. 9
+(12), 1137–1142.
+
+Ben Slama, K., Ben Sallem, R., Jouini, A., Rachid, S., Moussa, L., Sáenz, Y., Estepa, V., Somalo,
+S., Boudabous, A., Torres, C., 2011. Diversity of genetic lineages among CTX-M-15-
+and CTX-M-14-producing Escherichia coli strains in a Tunisian hospital. Curr.
+Microbiol. 62 (6), 1794–1801.
+
+Ben Slama, K., Jouini, A., Ben Sallem, R., Somalo, S., Sáenz, Y., Estepa, V., Boudabous, A.,
+Torres, C., 2010. Prevalence of broad-spectrum cephalosporin-resistant Escherichia
+coli isolates in food samples in Tunisia, and characterization of integrons and antimi-
+crobial resistance mechanisms implicated. Int. J. Food Microbiol. 137 (2–3), 281–286.
+Brinas, L., Moreno, M.A., Zarazaga, M., Porrero, C., Sáenz, Y., Garcia, M., Dominguez, L.,
+Torres, C., 2003. Detection of CMY-2, CTX-M-14, and SHV-12 beta-lactamases in
+Escherichia coli fecal-sample isolates from healthy chickens. Antimicrob. Agents
+Chemother. 47 (6), 2056–2058.
+
+Carattoli, A., 2008. Animal reservoirs for extended spectrum beta-lactamase producers.
+
+Clin. Microbiol. Infect. 14 (Suppl. 1), 117–123.
+
+Carattoli, A., 2009. Resistance plasmid families in Enterobacteriaceae. Antimicrob. Agents
+
+Chemother. 53 (6), 2227–2238.
+
+Carattoli, A., Bertini, A., Villa, L., Falbo, V., Hopkins, K.L., Threlfall, E.J., 2005a.
+Identiﬁcation of plasmids by PCR-based replicon typing. J. Microbiol. Methods 63
+(3), 219–228.
+
+Carattoli, A., Lovari, S., Franco, A., Cordaro, G., Di Matteo, P., Battisti, A., 2005b. Extended-
+spectrum beta-lactamases in Escherichia coli isolated from dogs and cats in Rome,
+Italy, from 2001 to 2003. Antimicrob. Agents Chemother. 49 (2), 833–835.
+
+Cergole-Novella, M.C., Guth, B.E., Castanheira, M., Carmo, M.S., Pignatari, A.C., 2010. First
+description of bla(CTX-M-14)- and bla(CTX-M-15)-producing Escherichia coli isolates
+in Brazil. Microb. Drug Resist. 16 (3), 177–184.
+
+Clermont, O., Bonacorsi, S., Bingen, E., 2000. Rapid and simple determination of the
+
+Escherichia coli phylogenetic group. Appl. Environ. Microbiol. 66 (10), 4555–4558.
+
+CLSI, 2013. Performance standards for antimicrobial susceptibility testing twenty-third
+
+informational supplement. Vol. CLSI document M100-S23.
+
+Eckert, C., Gautier, V., Arlet, G., 2006. DNA sequence analysis of the genetic environment
+
+of various blaCTX-M genes. J. Antimicrob. Chemother. 57 (1), 14–23.
+
+Ewers, C., Li, G., Wilking, H., Kiessling, S., Alt, K., Antao, E.M., Laturnus, C., Diehl, I., Glodde,
+S., Homeier, T., Bohnke, U., Steinruck, H., Philipp, H.C., Wieler, L.H., 2007. Avian path-
+ogenic, uropathogenic, and newborn meningitis-causing Escherichia coli: how closely
+related are they? Int. J. Med. Microbiol. 297 (3), 163–176.
+
+Girlich, D., Poirel, L., Carattoli, A., Kempf, I., Lartigue, M.F., Bertini, A., Nordmann, P., 2007.
+Extended-spectrum beta-lactamase CTX-M-1 in Escherichia coli isolates from healthy
+poultry in France. Appl. Environ. Microbiol. 73 (14), 4681–4685.
+
+Grami, R., Mansour, W., Dahmen, S., Mehri, W., Haenni, M., Aouni, M., Madec, J.Y., 2013.
+The blaCTX-M-1 IncI1/ST3 plasmid is dominant in chickens and pets in Tunisia.
+J. Antimicrob. Chemother. 68 (12), 2950–2952.
+
+Horton, R.A., Randall, L.P., Snary, E.L., Cockrem, H., Lotz, S., Wearing, H., Duncan, D., Rabie,
+A., McLaren, I., Watson, E., La Ragione, R.M., Coldham, N.G., 2011. Fecal carriage and
+shedding density of CTX-M extended-spectrum {beta}-lactamase-producing
+Escherichia coli in cattle, chickens, and pigs: implications for environmental contam-
+ination and food production. Appl. Environ. Microbiol. 77 (11), 3715–3719.
+
+Huber, H., Zweifel, C., Wittenbrink, M.M., Stephan, R., 2013. ESBL-producing
+uropathogenic Escherichia coli isolated from dogs and cats in Switzerland. Vet.
+Microbiol. 162 (2–4), 992–996.
+
+Johnson, J.R., Stell, A.L., 2000. Extended virulence genotypes of Escherichia coli strains from
+patients with urosepsis in relation to phylogeny and host compromise. J. Infect. Dis.
+181 (1), 261–272.
+
+Johnson, J.R., Kuskowski, M.A., Owens, K., Gajewski, A., Winokur, P.L., 2003. Phylogenetic
+origin and virulence genotype in relation to resistance to ﬂuoroquinolones and/or
+extended-spectrum cephalosporins and cephamycins among Escherichia coli isolates
+from animals and humans. J. Infect. Dis. 188 (5), 759–768.
+
+Johnson, Logue, C.M., Johnson, J.R., Kuskowski, M.A., Sherwood, J.S., Barnes, H.J., DebRoy,
+C., Wannemuehler, Y.M., Obata-Yasuoka, M., Spanjaard, L., Nolan, L.K., 2012. Associa-
+tions between multidrug resistance, plasmid content, and virulence potential among
+extraintestinal pathogenic and commensal Escherichia coli from humans and poultry.
+Foodborne Pathog. Dis. 9 (1), 37–46.
+
+Johnson, J.R., O'Bryan, T.T., Kuskowski, M., Maslow, J.N., 2001. Ongoing horizontal and ver-
+tical transmission of virulence genes and papA alleles among Escherichia coli blood
+isolates from patients with diverse-source bacteremia. Infect. Immun. 69 (9),
+5363–5374.
+
+Jouini, A., Vinue, L., Slama, K.B., Sáenz, Y., Klibi, N., Hammami, S., Boudabous, A., Torres, C.,
+2007. Characterization of CTX-M and SHV extended-spectrum beta-lactamases and
+associated resistance genes in Escherichia coli strains of food samples in Tunisia.
+J. Antimicrob. Chemother. 60 (5), 1137–1141.
+
+Kilani, H., Abbassi, M.S., Ferjani, S., Mansouri, R., Sghaier, S., Ben Salem, R., Jaouani, I.,
+Douja, G., Brahim, S., Hammami, S., Ben Chehida, N., Boubaker, I.B., 2015. Occurrence
+of bla CTX-M-1, qnrB1 and virulence genes in avian ESBL-producing Escherichia coli iso-
+lates from Tunisia. Frontiers in cellular and infection microbiology 5, 38.
+
+Kohler, C.D., Dobrindt, U., 2011. What deﬁnes extraintestinal pathogenic Escherichia coli?
+
+Int. J. Med. Microbiol. 301 (8), 642–647.
+
+Saunders, L., 2007. Establishing the new red algal subclass Corallinophycidae. Mol.
+
+Phylogenet. Evol. 43 (3), 1118–1130.
+
+Liébana, E., Carattoli, A., Coque, T.M., Hasman, H., Magiorakos, A.P., Mevius, D., Peixe, L.,
+Poirel, L., Schuepbach-Regula, G., Torneke, K., Torren-Edo, J., Torres, C., Threlfall, J.,
+2013. Public health risks of enterobacterial isolates producing extended-spectrum
+beta-lactamases or AmpC beta-lactamases in food and food-producing animals: an
+EU perspective of epidemiology, analytical methods, risk factors, and control options.
+Clin. Infect. Dis. 56 (7), 1030–1037.
+
+Machado, E., Canton, R., Baquero, F., Galan, J.C., Rollan, A., Peixe, L., Coque, T.M., 2005.
+Integron content of extended-spectrum-beta-lactamase-producing Escherichia coli
+strains over 12 years in a single hospital in Madrid, Spain. Antimicrob. Agents
+Chemother. 49 (5), 1823–1829.
+
+Matsumura, Y., Yamamoto, M., Nagao, M., Hotta, G., Matsushima, A., Ito, Y., Takakura, S.,
+Ichiyama, S., Kyoto-Shiga Clinical Microbiology Study, G., 2012. Emergence
+and spread of B2-ST131-O25b, B2-ST131-O16 and D-ST405 clonal groups
+among extended-spectrum-beta-lactamase-producing Escherichia coli in Japan.
+J. Antimicrob. Chemother. 67 (11), 2612–2620.
+
+Mellata, M., 2013. Human and avian extraintestinal pathogenic Escherichia coli:
+infections, zoonotic risks, and antibiotic resistance trends. Foodborne Pathog. Dis.
+10 (11), 916–932.
+
+Meunier, D., Jouy, E., Lazizzera, C., Kobisch, M., Madec, J.Y., 2006. CTX-M-1- and CTX-M-
+15-type beta-lactamases in clinical Escherichia coli isolates recovered from food-
+producing animals in France. Int. J. Antimicrob. Agents 28 (5), 402–407.
+
+E. Maamar et al. / International Journal of Food Microbiology 231 (2016) 69–75
+
+75
+
+Millet, S., Maertens, L., 2011. The European ban on antibiotic growth promoters in animal
+
+feed: From challenges to opportunities. Vet. J. 187 (2), 143–144.
+
+Mnif, B., Ktari, S., Rhimi, F.M., Hammami, A., 2012. Extensive dissemination of CTX-M-1-
+and CMY-2-producing Escherichia coli in poultry farms in Tunisia. Lett. Appl.
+Microbiol. 55 (6), 407–413.
+
+Nandanwar, N., Janssen, T., Kuhl, M., Ahmed, N., Ewers, C., Wieler, L.H., 2014. Extraintes-
+tinal pathogenic Escherichia coli (ExPEC) of human and avian origin belonging to se-
+quence type complex 95 (STC95) portray indistinguishable virulence features. Int.
+J. Med. Microbiol. 304 (7), 835–842.
+
+Paterson, D.L., Bonomo, R.A., 2005. Extended-spectrum beta-lactamases: a clinical update.
+
+Clin. Microbiol. Rev. 18 (4), 657–686.
+
+Pérez-Pérez, F.J., Hanson, N.D., 2002. Detection of plasmid-mediated AmpC beta-
+lactamase genes in clinical isolates by using multiplex PCR. J. Clin. Microbiol. 40 (6),
+2153–2162.
+
+Reich, F., Atanassova, V., Klein, G., 2013. Extended-spectrum beta-lactamase- and AmpC-
+producing enterobacteria in healthy broiler chickens, Germany. Emerg. Infect. Dis. 19
+(8), 1253–1259.
+
+Sáenz, Y., Brinas, L., Dominguez, E., Ruiz, J., Zarazaga, M., Vila, J., Torres, C., 2004. Mecha-
+nisms of resistance in multiple-antibiotic-resistant Escherichia coli strains of human,
+animal, and food origins. Antimicrob. Agents Chemother. 48 (10), 3996–4001.
+
+Saladin, M., Cao, V.T., Lambert, T., Donay, J.L., Herrmann, J.L., Ould-Hocine, Z., Verdet, C.,
+Delisle, F., Philippon, A., Arlet, G., 2002. Diversity of CTX-M beta-lactamases and
+
+their promoter regions from Enterobacteriaceae isolated in three Parisian hospitals.
+FEMS Microbiol. Lett. 209 (2), 161–168.
+
+Sallem, R.B., Gharsa, H., Slama, K.B., Rojo-Bezares, B., Estepa, V., Porres-Osante, N., Jouini,
+A., Klibi, N., Sáenz, Y., Boudabous, A., Torres, C., 2013. First detection of CTX-M-1,
+CMY-2, and QnrB19 resistance mechanisms in fecal Escherichia coli isolates from
+healthy pets in Tunisia. Vector Borne Zoonotic Dis. 13 (2), 98–102.
+
+Souﬁ, L., Abbassi, M.S., Sáenz, Y., Vinue, L., Somalo, S., Zarazaga, M., Abbas, A., Dbaya, R.,
+Khanﬁr, L., Ben Hassen, A., Hammami, S., Torres, C., 2009. Prevalence and diversity
+of integrons and associated resistance genes in Escherichia coli isolates from poultry
+meat in Tunisia. Foodborne Pathog. Dis. 6 (9), 1067–1073.
+
+Souﬁ, L., Sáenz, Y., Vinue, L., Abbassi, M.S., Ruiz, E., Zarazaga, M., Ben Hassen, A.,
+Hammami, S., Torres, C., 2011. Escherichia coli of poultry food origin as reservoir of
+sulphonamide resistance genes and integrons. Int. J. Food Microbiol. 144 (3),
+497–502.
+
+Tartof, S.Y., Solberg, O.D., Manges, A.R., Riley, L.W., 2005. Analysis of a uropathogenic
+Escherichia coli clonal group by multilocus sequence typing. J. Clin. Microbiol. 43
+(12), 5860–5864.
+
+Tenover, F.C., Arbeit, R.D., Goering, R.V., Mickelsen, P.A., Murray, B.E., Persing, D.H.,
+Swaminathan, B., 1995. Interpreting chromosomal DNA restriction patterns produced
+by pulsed-ﬁeld gel electrophoresis: criteria for bacterial strain typing. J. Clin.
+Microbiol. 33 (9), 2233–2239.
+
+

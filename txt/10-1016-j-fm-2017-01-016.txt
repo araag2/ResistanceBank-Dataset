@@ -1,0 +1,915 @@
+Food Microbiology 65 (2017) 51e56
+
+Contents lists available at ScienceDirect
+
+Food Microbiology
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / f m
+
+Molecular characterization and antimicrobial resistance of Salmonella
+enterica from swine slaughtered in two different types of Philippine
+abattoir
+Alyzza Marie B. Calayag a, b, Phyllis Anne P. Paclibare a, Pauline Dianne M. Santos a, b,
+Corinne Aimee C. Bautista a, Windell L. Rivera a, b, *
+a Institute of Biology, College of Science, University of the Philippines, Diliman, Quezon City, 1101, Philippines
+b Natural Sciences Research Institute, University of the Philippines, Diliman, Quezon City, 1101, Philippines
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 4 September 2016
+Received in revised form
+29 December 2016
+Accepted 29 January 2017
+Available online 31 January 2017
+
+Keywords:
+Abattoir
+Antimicrobial resistance
+Salmonella enterica
+Swine
+
+Salmonella enterica is a well-known pathogen commonly acquired from the consumption of contami-
+nated food. It has been estimated to affect millions of humans and cause hundreds of thousands of deaths
+per year globally. Pork, one of the most commonly consumed meats worldwide, has been identiﬁed as
+one of the main sources of human salmonellosis. In this study, we aimed to detect and characterize
+S. enterica from slaughtered swine and generate antimicrobial resistance proﬁles of select isolates. Tonsils
+and jejunum with mesenteric lymph nodes (MLN) were collected from a total of 240 swine from eight
+abattoirs (ﬁve accredited and three locally registered abattoirs) across Metro Manila. S. enterica were
+isolated using conventional culture methods and conﬁrmed by PCR ampliﬁcation of the invA gene.
+Isolates were further characterized based on somatic antigen by multiplex PCR. We report that there is
+no signiﬁcant difference (P ¼ 0.42) between the incidences of S. enterica in swine slaughtered in
+accredited (44.0%) and in locally registered abattoirs (46.7%). Most samples were contaminated with
+S. enterica under serogroup O:3,10. Antimicrobial susceptibility testing of 183 isolates using the VITEK® 2
+system revealed high resistance to ampicillin (67.8%) and trimethoprim/sulfamethoxazole (80.3%).
+Multidrug-resistance was found in 124 (67.8%) isolates.
+
+© 2017 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+
+Pork is one of the most commonly consumed meats worldwide
+(OECD, 2015; FAO, 2014). In 2015, world consumption of pork was
+118,230 metric tons. In the Philippines alone, 1006 metric tons of
+pork was consumed in the same year. Next to chicken, pork has
+been consistently the most consumed meat in the Philippines since
+2000 (OECD, 2015). Consequently, the swine industry has been the
+biggest contributor in Philippine livestock production since 1980,
+and total hog production in the Philippines has been increasing
+since (CountrySTAT Philippines, 2016). Pork, both raw and pro-
+cessed, is considered as one of the main sources of salmonellosis in
+humans (de Freitas Neto et al., 2010). Several outbreaks of Salmo-
+nella from pork have been reported worldwide.
+In 2008, an
+
+* Corresponding author. Institute of Biology, College of Science, University of the
+
+Philippines, Diliman, Quezon City 1101, Philippines.
+
+E-mail address: wlrivera@science.upd.edu.ph (W.L. Rivera).
+
+http://dx.doi.org/10.1016/j.fm.2017.01.016
+0740-0020/© 2017 Elsevier Ltd. All rights reserved.
+
+outbreak of S. Typhimurium was identiﬁed in Denmark, Norway,
+and Sweden. It was later conﬁrmed that pork from Denmark was
+the source of S. Typhimurium (Bruun et al., 2009). This case dem-
+onstrates the potential of Salmonella to cause international out-
+breaks due to meat export and import. Outbreaks of S.
+Typhimurium have also been reported in Sydney in 1995 (Delpech
+et al., 1998) and in Denmark in 2010 (Kuhn et al., 2013). From 1998
+to 2008, pork has been implicated to 37 Salmonella outbreaks in the
+United States (US) (Jackson et al., 2013). More recently in 2015,
+another Salmonella outbreak from pork occurred in ﬁve states in the
+US (CDC, 2015).
+
+The risk of S. enterica contamination in pork increases along the
+production chain and peaks during slaughter at the abattoir
+(Arguello et al., 2012; Gomes-Neves et al., 2012). It is therefore
+necessary that abattoirs maintain proper sanitation and high levels
+of hygiene to prevent the spread of the pathogen. In the Philippines,
+abattoirs are regulated either by the national or the local govern-
+ment. Abattoirs that have adequate facilities and operational pro-
+cedures are “accredited” by the national government, while those
+
+52
+
+A.M.B. Calayag et al. / Food Microbiology 65 (2017) 51e56
+
+that have failed to meet the standards are regulated by the local
+government (locally registered).
+
+In the Philippines, routine testing of Salmonella is often limited
+to culture techniques (Ng and Rivera, 2015). Application of molec-
+ular methods rarely occurs, and is limited only to genus or species
+identiﬁcation. Serogrouping is almost never conducted. Molecular
+characterization often starts with PCR-based detection methods
+and then followed by subtyping (Adzitey et al., 2013). PCR-based
+detection of Salmonella commonly targets the invA gene, and its
+sensitivity and speciﬁcity have been validated by several studies
+(Chiu and Ou, 1996; Malorny et al., 2003; Rahn et al., 1992). The invA
+gene is unique to Salmonella and plays a critical role in the invasion
+of epithelial cells (Galan and Curtiss, 1991; Rahn et al., 1992). It
+encodes a highly conserved protein component of the Salmonella
+type III secretion system which translocates bacterial proteins
+across the cell membrane and into the cytoplasm of the host cell
+(Lilic et al., 2010). The invA gene is found in almost all strains of
+Salmonella which makes it a suitable detection marker. Molecular
+subtyping of Salmonella begins with serogrouping. Multiplex PCR-
+based serogrouping is most commonly employed, and is based on
+the sequence of the somatic (O) antigen, the outermost component
+of the lipopolysaccharide layer in Gram-negative bacteria. In Sal-
+monella, a considerable amount of diversity is found in O antigens
+which contribute to its antigenic diversity (Fitzgerald et al., 2003).
+Monitoring the antimicrobial susceptibility of Salmonella is
+important in determining the choice of treatment for salmonellosis
+in pigs and to shed light on the resistant Salmonella that may be
+transferred to humans (Van der Wolf et al., 1999). In the Philippines,
+clinical non-typhoid Salmonella resistant to ciproﬂoxacin and cef-
+triaxone has been generally increasing since 2005. In 2014, 21.6%
+and 13.0% of non-typhoid Salmonella isolates were resistant to
+ciproﬂoxacin and ceftriaxone, respectively (RITM, 2014).
+
+The objective of the present study was to estimate the incidence
+of S. enterica from freshly slaughtered swine in selected accredited
+and locally regulated abattoirs in Metro Manila, Philippines. Spe-
+ciﬁcally, this study aimed to (i) detect and isolate S. enterica from
+the tonsils and jejunum with mesenteric lymph nodes (MLN) of
+slaughtered swine using both culture and PCR-based methods, (ii)
+determine the serogroup of S. enterica isolates using a PCR-based
+characterization of the somatic antigen, (iii) generate antimicro-
+bial resistance proﬁles of selected S. enterica using VITEK® 2, and
+(iv) compare the incidences of S. enterica contamination in swine
+slaughtered in accredited and in locally registered abattoirs.
+
+2. Materials and methods
+
+2.1. Sample collection
+
+A total of 240 swine from ﬁve accredited and three locally
+registered abattoirs in Metro Manila were analyzed in the study.
+These establishments were located in the four districts of Metro
+Manila: Capital District (1), Eastern Manila (1), Northern Manila (4),
+and Southern Manila (2). Thirty hogs, all coming from the same
+farm, were randomly selected for sample collection from each
+abattoir. Upon evisceration, tonsil tissues and a 15-cm segment of
+the jejunum including its contents and MLN were collected from
+each hog using sterile scissors and forceps. The samples were
+transferred into sterile plastic bags and chilled in a cooler during
+transport to the laboratory. All samples were processed immedi-
+ately upon arrival at the laboratory.
+
+2.2. Bacterial enrichment and isolation
+
+and transferred to 225 mL buffered peptone water (BPW), agitated
+for 2 min, and incubated at 35 C for 18e24 h. For the selective
+enrichment of S. enterica, 100 mL of pre-enriched S. enterica in BPW
+was inoculated in 10 mL Rappaport-Vassiliadis broth, and then
+incubated at 42 C for 18e24 h. After incubation, broth cultures
+were streak-plated onto brilliant green agar (BGA) and xylose lysine
+deoxycholate agar (XLD), and then incubated at 35 C for 18e24 h.
+Pink to red colonies in BGA and clear to pinkish red colonies (with
+or without black center) in XLD were considered presumptive
+S. enterica and were subjected to PCR-based identiﬁcation.
+
+2.3. DNA extraction
+
+Presumptive S. enterica were grown on nutrient agar overnight
+at 35 C. After incubation, 3e5 colonies were harvested and sus-
+pended in 100 mL TE buffer (10 mM Tris, 1 mM EDTA, pH 8.0). Cell
+suspensions were heated at 100 C for 10 min, and then cooled to
+room temperature. Afterwards, cell suspensions were pelleted by
+centrifugation at 6000 rpm for 5 min. The supernatant was
+collected and then transferred into a new tube.
+
+2.4. PCR-based identiﬁcation and characterization of S. enterica
+isolates
+
+PCR-based identiﬁcation of S. enterica targeting the invA gene
+was performed as previously described by Ng and Rivera (2015)
+with the following modiﬁcations: annealing at 60 C for 30 s and
+extension at 72 C for 30s. For Salmonella O-serogrouping, a
+multiplex PCR-based assay was adapted from Soguilon-Del Rosario
+and Rivera (2015).
+In the present study, the latest serogroup
+designation was used: O:4 (B), O:7 (C1), O:8 (C2-C3), O:9 (D1-D4),
+and O:3,10 (E1). For each run, a no template control (NTC) and a
+positive control, S. Typhimurium UPCC 1360, was included.
+Amplicons were analyzed using agarose gel electrophoresis. Brieﬂy,
+5 mL amplicons were loaded into 2% agarose gels containing
+10,000  SYBR® Safe DNA Gel Stain (1:10,000). Amplicons were
+allowed to separate at 100 V for 45 min, and then viewed in a gel
+documentation system.
+
+2.5. Antimicrobial susceptibility testing
+
+A total of 183 randomly selected S. enterica isolates were sub-
+jected to antimicrobial susceptibility testing using the VITEK® 2
+Compact system and VITEK® 2 AST-GN70 cards. Each card contains
+16 antimicrobials including amikacin, ampicillin, ampicillin/sul-
+bactam, aztreonam, cefazolin, cefepime, ceftriaxone, ciproﬂoxacin,
+ertapenem, gentamicin, meropenem, nitrofurantoin, piperacillin/
+tazobactam, tigecycline, tobramycin, trimethoprim/sulfamethoxa-
+zole, and an extended-spectrum b-lactamase (ESBL) conﬁrmation
+test. For the antimicrobial susceptibility testing, S. enterica isolates
+were grown in nutrient agar and incubated at 35 C for 18e24 h.
+Three to four colonies were suspended in 3 mL of 0.45% sterile saline
+solution using sterile applicator sticks. The turbidity was adjusted to
+0.5 McFarland using DensiChek™. Bacterial suspensions and test
+cards were loaded in a cassette, and then loaded into the VITEK® 2
+system. The cards were then automatically ﬁlled with the bacterial
+suspension, sealed, and then incubated at 35.5 C. The duration of
+the analysis can take around 7e18 h where turbidity is automatically
+measured at 15-min intervals using kinetic analysis. The VITEK® 2
+system applies the most recent breakpoints published by the Clin-
+ical Laboratory Standards Institute (CLSI) in interpreting data.
+
+2.6. Data analysis
+
+Twenty-ﬁve grams each of tonsil tissue and intestinal samples
+were weighed in sterile aluminum foil. The samples were minced
+
+S. enterica contamination acquired prior to delivery to the
+
+A.M.B. Calayag et al. / Food Microbiology 65 (2017) 51e56
+
+53
+
+Table 1
+S. enterica isolates recovered from Philippine swine, classiﬁed into serogroups.
+
+Serogroup
+
+Accredited
+slaughterhouse
+
+LRA
+
+Totalb
+
+Jejunum
+
+Tonsil
+
+Jejunum
+
+Tonsil
+
+abattoir (e.g. from farm or transport) was measured as the number
+of Salmonella-positive jejunum (including contents and MLN).
+Presence of S. enterica in both or either tonsils or jejunum indicates
+contamination of the end product. Differences between observed
+contamination in the jejunum and in the end product were
+assessed using a paired T-test. The total contaminated end products
+in accredited and locally registered abattoirs were compared and
+the values were expressed in percentages. Fisher’s exact test was
+used to determine the signiﬁcance of the difference between the
+two types of abattoir. All data analyses were performed using SPSS
+16.0. Signiﬁcance was determined to be P < 0.05.
+
+3. Results
+
+3.1. PCR-based detection and characterization of S. enterica from
+slaughtered swine
+
+A total of 333 S. enterica isolates were recovered from 108 out of
+240 (45.0%) slaughtered swine. Multiple strains of S. enterica were
+isolated from several samples. It is evident that there is an increase
+in S. enterica contamination after slaughter where the number of
+contaminated end products is always greater than the number of
+contaminated jejuna regardless of the type of abattoir (Fig. 1).
+Paired T-test revealed that there is a statistically signiﬁcant increase
+in end product contamination in both accredited and locally
+registered abattoirs (P > 0.034 and P > 0.049, respectively), sug-
+gesting that an external factor contributes to the increase in
+S. enterica contamination. Of the 150 swine from accredited abat-
+toirs (A1-A5), 66 (44.0%) were positive for S. enterica. On the other
+hand, 42 out of 90 (46.7%) swine slaughtered in locally registered
+abattoirs (L1-L3) were carrying S. enterica (Fig. 1). Fisher’s exact test
+revealed that there is no statistical difference between the observed
+incidences of end product contamination in the two types of ab-
+attoirs (P ¼ 0.42).
+
+Serogrouping was conducted only on the isolates obtained from
+140 tonsil and jejunum samples and revealed that 104 (74.3%) were
+contaminated with a single serogroup of S. enterica. Most of these
+samples were contaminated with S. enterica under serogroup
+O:3,10 (51.0%) and O:7 (23.1%). Multiple serogroups were present in
+36 (34.6%) samples (Table 1).
+
+3.2. Antimicrobial susceptibility testing
+
+A total of 183 randomly selected S. enterica isolates were sub-
+jected to antimicrobial susceptibility testing using VITEK® 2.
+Excluding cefazolin and aminoglycosides, most S. enterica isolates
+
+Fig. 1. S. enterica contamination frequencies of jejunum (including contents) and MLN,
+tonsils, and end products in the different abattoirs.
+
+0
+2
+11
+2
+2
+14
+3
+
+Single serogroups
+O:2
+O:4
+O:7
+O:8
+O:9
+O:3,10
+Othera
+Multiple serogroups
+O:4, O:7
+O:4, O:3,10
+O:7, O:3,10
+O:8, O:3,10
+O:4 þ othera
+O:7þ othera
+O:3,10 þ othera
+O:4, O:7, O:3,10
+O:4, O:3,10 þ othera
+LRA-locally registered abattoirs.
+
+0
+0
+0
+1
+4
+1
+1
+2
+0
+
+0
+2
+12
+0
+2
+14
+0
+
+0
+2
+2
+1
+1
+2
+5
+0
+3
+
+0
+0
+0
+0
+0
+11
+6
+
+1
+1
+1
+0
+2
+0
+1
+0
+0
+
+0
+2
+1
+0
+0
+14
+6
+
+0
+1
+0
+0
+0
+0
+3
+0
+1
+
+104
+0
+6
+24
+2
+4
+53
+15
+36
+1
+4
+3
+2
+7
+3
+10
+2
+4
+
+a Other than serogroups O:2, O:4, O:7. O:8, O:9, and O:3,10.
+b Only S. enterica isolates from 140 tonsils and jejunum samples were typed.
+
+were non-susceptible to nitrofurantoin (93.4%), trimethoprim/sul-
+famethoxazole (80.3%), and ampicillin (70.5%) (Table 2). Non-
+susceptibility to the late cephalosporins ceftriaxone and cefepime,
+and the ﬂuoroquinolone ciproﬂoxacin was also observed.
+Multidrug-resistance was found in 124 (67.8%) out of 183 isolates
+(Table 3). While all of the multidrug-resistant isolates were resis-
+tant to ampicillin, most of the isolates were resistant to ampicillin,
+ampicillin/sulbactam, and trimethoprim/sulfamethoxazole. Results
+of the ESBL test were not shown as there are currently no ESBL
+breakpoints for S. enterica set by the CLSI (2014).
+
+4. Discussion
+
+In swine, S. enterica is commonly isolated from the tonsils,
+digestive tract, lymph nodes, and feces (Ng and Rivera, 2015).
+Presence of S. enterica in the jejunum including its contents and the
+MLN would indicate that the contamination was acquired before
+the animals were brought to the abattoir (Botteldoorn et al., 2003).
+To determine S. enterica contamination at the abattoir, tonsils were
+collected since they are one of the ﬁrst organs to come in contact
+upon ingestion of contaminated feedstuff or feces (Ng and Rivera,
+2015).
+
+In this study, 44.0% and 46.7% Salmonella-positive pigs were
+detected from accredited and locally registered abattoirs, respec-
+tively. While the incidence of S. enterica in swine slaughtered in
+locally registered abattoirs was higher, the difference was not sta-
+tistically signiﬁcant. Contrastingly, a recent study reported that the
+incidence of Salmonella-positive pigs was signiﬁcantly higher in
+locally registered abattoirs than in accredited abattoirs (Ng and
+Rivera, 2015). This could be due to the difference in sample loca-
+tions between the two studies. In the Philippines, accreditation of
+abattoirs is based on the appropriate facilities and operational
+procedures applied in the establishment. Abattoirs that have not
+met these standards are supervised by the local government and
+are only allowed to distribute meat within the city where the
+establishment is located. The insigniﬁcant difference observed be-
+tween the incidences of end product contamination in the two
+types of abattoirs could reﬂect either poor implementation of
+slaughter policies or contamination acquired during transport.
+Whichever the case, abattoir accreditation may be disregarded as
+
+54
+
+A.M.B. Calayag et al. / Food Microbiology 65 (2017) 51e56
+
+Table 2
+Non-susceptibility of S. enterica isolates (n ¼ 183) recovered from swine.
+
+Antimicrobial
+
+Abbreviation
+
+Non-susceptible isolates
+
+Ampicillin
+Ampicillin/Sulbactam
+Piperacillin/Tazobactam
+Cefazolin
+Ceftriaxone
+Cefepime
+Aztreonam
+Ertapenem
+Meropenem
+Amikacin
+Gentamicin
+Tobramycin
+Ciproﬂoxacin
+Tigecycline
+Nitrofurantoin
+Trimethoprim/Sulfamethoxazole
+
+Am
+Am/Su
+Pi/Tz
+Cf
+Cx
+Cp
+Az
+Er
+Me
+Ak
+Ge
+To
+Ci
+Ti
+Ni
+Tr/Sx
+
+Intermediate
+
+5 (2.7%)
+37 (20.2%)
+1 (0.6%)
+0 (0.0%)
+0 (0.0%)
+0 (0.0%)
+1 (0.5%)
+1 (0.5%)
+0 (0.0%)
+0 (0.0%)
+0 (0.0%)
+0 (0.0%)
+3 (1.6%)
+6 (3.3%)
+94 (51.4%)
+0 (0.0%)
+
+Resistant
+
+124 (67.8%)
+79 (43.2%)
+1 (0.6%)
+183 (100.0%)
+4 (2.2%)
+1 (0.5%)
+1 (0.5%)
+2 (1.1%)
+1 (0.5%)
+183 (100.0%)
+183 (100.0%)
+183 (100.0%)
+10 (5.5%)
+3 (1.6%)
+77 (42.1%)
+147 (80.3%)
+
+Total
+
+129 (70.5%)
+116 (63.4%)
+2 (1.2%)a
+183 (100.0%)b
+4 (2.2%)
+1 (0.5%)
+2 (1.0%)
+3 (1.6%)
+1 (0.5%)
+183 (100.0%)b
+183 (100.0%)b
+183 (100.0%)b
+13 (7.1%)
+9 (4.9%)
+171 (93.4%)
+147 (80.3%)
+
+a Only 179 isolates were tested on piperacillin/tazobactam.
+b As per CLSI guidelines, all Salmonella must be reported non-susceptible to ﬁrst and second generation cephalosporins (cefazolin) and aminoglycosides (amikacin,
+
+gentamicin, tobramycin) (CLSI, 2014).
+
+Table 3
+Resistance patterns of multidrug-resistant S. enterica (n ¼ 124) recovered from
+swine.
+
+Number of isolates
+
+Resistance patterna,b
+
+2
+2
+43
+1
+1
+18
+2
+24
+1
+2
+1
+1
+1
+
+Am, Am/Su, Ci
+Am, Am/Su, Ni
+Am, Am/Su, Tr/Sx
+Am, Ci, Ni
+Am, Ci, Tr/Sx
+Am, Ni, Tr/Sx
+Am, Am/Su, Ci, Tr/Sx
+Am, Am/Su, Ni, Tr/Sx
+Am, Am/Su, Cx, Ni, Tr/Sx
+Am, Am/Su, Ci, Ni, Tr/Sx
+Am, Am/Su, Cx, Ti, Ni, Tr/Sx
+Am, Am/Su, Cx, Er, Ti, Ni, Tr/Sx
+Am, Am/Su, Pi/Tz, Cx, Cp, Az, Er, Me Ti, Ni, Tr/Sx
+
+a Am, ampicillin; Am/Su, ampicillin/sulbactam; Ci, ciproﬂoxacin; Ni, nitro-
+furantoin; Tr/Sx, trimethoprim/sulfamethoxazole; Cx, ceftriaxone; Ti, tigecycline;
+Er, ertapenem; Pi/Tz, piperacillin/tazobactam; Cp, cefepime; Az, aztreonam.
+
+b Resistance to cefazolin, amikacin, gentamicin, and tobramycin not shown.
+
+either type has been found to yield essentially the same number of
+contaminated end products. Such ﬁndings must be addressed
+because accredited abattoirs are allowed to distribute meat on a
+national level. The risk that a multi-city Salmonella outbreak occurs
+due to trade, as was observed in the multi-country Salmonella
+outbreak involving Denmark, Norway, and Sweden (Bruun et al.,
+2009), may not be unlikely.
+
+Because of the risk of resistant bacteria due to the use of anti-
+microbials on livestock production, numerous efforts have been
+made to regulate the use of antimicrobial growth promoters
+(AGPs). Sweden was the ﬁrst to impose a ban on AGPs in 1986,
+followed by Denmark (Cogliani et al., 2011). The European Union
+banned avoparcin in 1997 upon discovery of vancomycin-resistant
+Enterococcus (Cogliani et al., 2011). Remaining AGPs were banned in
+the European Union in 2006 (Cogliani et al., 2011; Maron et al.,
+2013). Other countries, such as Mexico, South Korea, Taiwan, and
+New Zealand, also have a ban on AGPs (Maron et al., 2013; Van
+Boeckel et al., 2015). However, in the United States, the use of
+AGPs is only discouraged. While there is no ban on AGPs, the FDA
+has issued voluntary guidelines to withdraw the use of medically
+important antimicrobials in growth promotion (FDA, 2013). In the
+Philippines, the use of chloramphenicol, carbadox, olaquindox,
+
+nitrofurans, and human b-agonist drugs has been banned in live-
+stock production.
+
+To evaluate the antimicrobial susceptibility of select S. enterica
+isolates, we used the highly automated VITEK® 2 system which can
+be used for identiﬁcation and antimicrobial susceptibility testing
+(AST). It has an optical system which combines multichannel
+ﬂuorimeter and photometer readings and reads each test at 15-
+minute intervals using kinetic analysis. The accuracy of VITEK® 2
+AST for both Gram-positive and Gram-negative bacteria has been
+evaluated in several studies (Garcia-Garrote et al., 2000; Gherardi
+et al., 2012; Ligozzi et al., 2002; Ling et al., 2001). In this present
+study, 183 randomly selected S. enterica isolates were subjected to
+VITEK® 2 AST. Excluding the ﬁrst generation cephalosporin cefa-
+zolin and the aminoglycosides amikacin, gentamicin, and tobra-
+mycin, most
+isolates were non-susceptible to nitrofurantoin
+(93.4%), trimethoprim/sulfamethoxazole (80.3%), and ampicillin
+(70.5%) (Table 3). Cefazolin and the aminoglycosides were excluded
+because they are not clinically effective for Salmonella and must not
+be reported susceptible (CLSI, 2014).
+
+Nitrofurantoin is used to treat urinary tract infections.
+
+In
+contrast to other studies wherein nitrofurantoin non-susceptibility
+in Salmonella from pork appears to be low to moderate (Ibar et al.,
+2008; Yan et al., 2010), the present study reports a very high rate of
+non-susceptibility despite its ban on food-producing animals more
+than a decade ago. This would suggest that pig farmers do not
+strictly adhere to veterinary policies set by the government.
+Ampicillin and trimethoprim/sulfamethoxazole are antimicrobials
+traditionally used to treat invasive non-typhoid salmonellosis
+(Chen et al., 2013). In the Philippines, these antimicrobials are also
+used as anti-infective agents in veterinary medicine which could
+explain the high rates of non-susceptibility to ampicillin and
+trimethoprim/sulfamethoxazole. Ampicillin- and trimethoprim/
+sulfamethoxazole-resistant Salmonella have become increasingly
+common which, in turn, present clinical dilemma in the treatment
+of invasive salmonellosis (Chen et al., 2013).
+
+The emergence of ﬂuoroquinolone and ceftriaxone resistance
+presents an even bigger problem since these are the drugs of choice
+for non-typhoid salmonellosis in cases where ampicillin or
+trimethoprim/sulfamethoxazole is clinically ineffective (Chen et al.,
+2013). In the present study, non-susceptibility to ciproﬂoxacin
+(7.1%) and ceftriaxone (2.2%) was observed. For invasive Salmonella
+infections that are resistant to both ciproﬂoxacin and ceftriaxone,
+
+A.M.B. Calayag et al. / Food Microbiology 65 (2017) 51e56
+
+55
+
+carbapenems may be the last drug of choice (Chen et al., 2013).
+However in the present study, non-susceptibility to ertapenem
+(1.6%) and meropenem (0.5%) was also detected. While these iso-
+lates were susceptible to ciproﬂoxacin, the possibility of acquiring
+ﬂuoroquinolone resistance due to mutation or horizontal gene
+transfer should not be overlooked.
+
+5. Conclusion
+
+The incidence rates of S. enterica in swine end products from
+both types of abattoirs in the present study appeared to be high.
+Several factors can be considered to contribute to end product
+contamination such as farms or origin of the animals, transport, or
+the abattoir itself. While the abattoir has been identiﬁed as the
+peak of S. enterica contamination (Arguello et al., 2012), we cannot
+exclude the possibility that contamination was acquired during
+transport from the farm to the abattoir. Collecting swabs from
+transport trucks and at different points in the slaughtering process
+(e.g. lairage, dehairing, evisceration) must be done in order to
+determine exactly where the greatest risk of contamination occurs.
+Nevertheless, our results show that high rates of S. enterica
+contamination occur regardless of the abattoir accreditation. On
+the other hand, the results of the antimicrobial susceptibility assay
+suggest that antimicrobial use in swine farms be closely moni-
+tored. While nitrofurantoin has long been banned for use in vet-
+erinary practices in the Philippines, a high rate of non-
+susceptibility to the agent was still observed suggesting that ef-
+forts in the regulation of nitrofurantoin use by farmers was not
+effective. The observed non-susceptibility to ciproﬂoxacin and
+ceftriaxone, although low, is also alarming. Monitoring the anti-
+microbial susceptibility of bacterial isolates from livestock animals
+is therefore necessary to determine the effects of the withdrawal of
+AGPs in the livestock industry and to identify emerging resistant
+strains in the pork production chain.
+
+Acknowledgements
+
+This study was supported ﬁnancially by the Philippine Depart-
+ment of Agriculture-Biotechnology Program Implementation Unit
+(Project Code DABIOTECH-R1212). Samples were collected through
+the assistance of the National Meat Inspection Service and city
+veterinarians.
+
+References
+
+Adzitey, F., Huda, N., Ali, G.R.R., 2013. Molecular techniques for detecting and typing
+of bacteria, advantages and application to foodborne pathogens isolated from
+ducks. Biotech 3, 97e107.
+
+Arguello, H., Carvajal, A., Collazos, J.A., García-Feliz, C., Rubio, P., 2012. Prevalence
+and serovars of Salmonella enterica on pig carcasses, slaughtered pigs and the
+environment of four Spanish slaughterhouses. Food Res. Int. 45, 905e912.
+
+Botteldoorn, N., Heyndrickx, M., Rijpens, N., Grijspeerdt, K., Herman, L., 2003. Sal-
+monella on pig carcasses: positive pigs and cross contamination in the
+slaughterhouse. J. Appl. Microbiol. 95, 891e903.
+
+Bruun, T., Sørensen, G., Forshell, L., Jensen, T., Nygård, K., Kapperud, G., Lindstedt, B.,
+Berglund, T., Wingstrand, A., Petersen, R., 2009. An outbreak of Salmonella
+Typhimurium infections in Denmark, Norway and Sweden, 2008. Euro-
+surveillance 14.
+
+Centers for Disease Control and Prevention, 2015. Multistate Outbreak of
+Multidrug-resistant Salmonella I 4,[5],12:i:- and Salmonella Infantis Infections
+Linked to Pork (Final Update)
+(accessed 15.02.16). http://www.cdc.gov/
+salmonella/pork-08-15/index.html.
+
+Chen, H.-M., Wang, Y., Su, L.-H., Chiu, C.-H., 2013. Nontyphoid Salmonella infection:
+microbiology, clinical features, and antimicrobial therapy. Pediatr. Neonatol. 54,
+147e152.
+
+Chiu, C.-H., Ou, J.T., 1996. Rapid identiﬁcation of Salmonella serovars in feces by
+speciﬁc detection of virulence genes, invA and spvC, by an enrichment broth
+culture-multiplex PCR combination assay. J. Clin. Microbiol. 34, 2619e2622.
+
+Clinical and Laboratory Standards Institute, 2014. Performance Standards for
+Antimicrobial Susceptibility Testing; Twenty-fourth Informational Supplement.
+CLSI document M100-S24. Clinical and Laboratory Standards Institute, Wayne,
+
+PA.
+
+Cogliani, C., Goossens, H., Greko, C., 2011. Restricting antimicrobial use in food
+
+animals: lessons from Europe. Microbe 6, 274e279.
+
+CountrySTAT Philippines, 2016. Livestock and Poultry: Volume of Production
+http://countrystat.psa.gov.ph/?
+
+15.02.16).
+
+(accessed
+cont¼10&pageid¼1&ma¼B20PNVLP.
+
+de Freitas Neto, O., Penha Filho, R., Barrow, P., Berchieri Junior, A., 2010. Sources of
+
+human non-typhoid salmonellosis: a review. Rev. Bras. Cienc. Avic. 12, 1e11.
+
+Delpech, V., McAnulty, J., Morgan, K., 1998. A salmonellosis outbreak linked to
+
+internally contaminated pork meat. Aust. N. Z. J. Public Health 22, 243e246.
+
+Fitzgerald, C., Sherwood, R., Gheesling, L.L., Brenner, F.W., Fields, P.I., 2003. Molec-
+ular analysis of the rfb O antigen gene cluster of Salmonella enterica serogroup
+O:6,14 and development of a serogroup-speciﬁc PCR assay. Appl. Environ.
+Microbiol. 69, 6099e6105.
+
+Food and Agricultural Organization of the United Nations, 2014. Sources of Meat
+(accessed 16.02.16). http://www.fao.org/ag/againfo/themes/en/meat/backgr_
+sources.html.
+
+Galan, J.E., Curtiss, R., 1991. Distribution of the invA, -B, -C, and -D genes of Sal-
+monella Typhimurium among other Salmonella serovars: invA mutants of Sal-
+monella Typhi are deﬁcient for entry into mammalian cells. Infect. Immun. 59,
+2901e2908.
+
+Garcia-Garrote, F., Cercenado, E., Bouza, E., 2000. Evaluation of a new system, VITEK
+2, for identiﬁcation and antimicrobial susceptibility testing of enterococci.
+J. Clin. Microbiol. 38, 2108e2111.
+
+Gherardi, G., Angeletti, S., Panitti, M., Pompilio, A., Di Bonaventura, G., Crea, F.,
+Avola, A., Fico, L., Palazzo, C., Sapia, G.F., 2012. Comparative evaluation of the
+VITEK-2 Compact and Phoenix systems for rapid identiﬁcation and antibiotic
+susceptibility testing directly from blood cultures of Gram-negative and Gram-
+positive isolates. Diagn. Microbiol. Infect. Dis. 72, 20e31.
+
+Gomes-Neves, E., Antunes, P., Tavares, A., Themudo, P., Cardoso, M.F., G€artner, F.,
+Costa, J.M., Peixe, L., 2012. Salmonella cross-contamination in swine abattoirs in
+Portugal: carcasses, meat and meat handlers. Int. J. Food Microbiol. 157, 82e87.
+Ibar, M., Vigo, G., Pineyro, P., Caffer, M., Quiroga, P., Perfumo, C., Centron, D.,
+Giacoboni, G., 2008. Serovars of Salmonella enterica subspecies enterica and its
+antimicrobial resistance in slaughterhouse pigs. Rev. Argent. Microbiol. 41,
+156e162.
+
+Jackson, B.R., Grifﬁn, P.M., Cole, D., Walsh, K.A., Chai, S.J., 2013. Outbreak-associated
+Salmonella enterica serotypes and food commodities, United States, 1998-2008.
+Emerg. Infect. Dis. 19, 1239e1244.
+
+Kuhn, K., Sørensen, G., Torpdahl, M., Kjeldsen, M., Jensen, T., Gubbels, S., Bjerager, G.,
+Wingstrand, A., Porsbo, L., Ethelberg, S., 2013. A long-lasting outbreak of Sal-
+monella Typhimurium U323 associated with several pork products, Denmark,
+2010. Epidemiol. Infect. 141, 260e268.
+
+Ligozzi, M., Bernini, C., Bonora, M.G., de Fatima, M., Zuliani, J., Fontana, R., 2002.
+Evaluation of the VITEK 2 System for identiﬁcation and antimicrobial suscep-
+tibility testing of medically relevant Gram-positive cocci. J. Clin. Microbiol. 40,
+1681e1686.
+
+Lilic, M., Quezada, C.M., Stebbins, C.E., 2010. A conserved domain in type III secre-
+tion links the cytoplasmic domain of InvA to elements of the basal body. Acta
+Crystallogr. D. Biol. Crystallogr. 66, 709e713.
+
+Ling, T.K., Tam, P., Liu, Z., Cheng, A.F., 2001. Evaluation of VITEK 2 rapid identiﬁcation
+and susceptibility testing system against Gram-negative clinical isolates. J. Clin.
+Microbiol. 39, 2964e2966.
+
+Malorny, B., Hoorfar, J., Bunge, C., Helmuth, R., 2003. Multicenter validation of the
+analytical accuracy of Salmonella PCR: towards an international standard. Appl.
+Environ. Microbiol. 69, 290e296.
+
+Maron, D.F., Smith, T.J., Nachman, K.E., 2013. Restrictions on antimicrobial use in
+food animal production: an international regulatory and economic survey. Glob.
+Health 9.
+
+Ng, K.C.S., Rivera, W.L., 2015. Multiplex PCRebased serogrouping and serotyping of
+Salmonella enterica from tonsil and jejunum with jejunal lymph nodes of
+slaughtered swine in Metro Manila, Philippines. J. Food Prot. 78, 873e880.
+
+Organization for Economic Cooperation and Development, 2015. Meat Consump-
+(accessed 16.02.16). https://data.oecd.org/agroutput/meat-
+
+tion (Indicator)
+consumption.htm#indicator-chart.
+
+Rahn, K., De Grandis, S., Clarke, R., McEwen, S., Galan, J., Ginocchio, C., Curtiss, R.,
+Gyles, C., 1992. Ampliﬁcation of an invA gene sequence of Salmonella Typhi-
+murium by polymerase chain reaction as a speciﬁc method of detection of
+Salmonella. Mol. Cell. Probes 6, 271e279.
+
+Research Institute for Tropical Medicine, 2014. Antimicrobial Resistance Surveil-
+
+lance Program: 2014 Data Summary Report.
+
+Soguilon-Del Rosario, S.A., Rivera, W.L., 2015. Incidence and molecular detection of
+Salmonella enterica serogroups and spvC virulence gene in raw and processed
+meats from selected wet markets in Metro Manila, Philippines. Int. J. Philipp.
+Sci. Tech. 8, 52e55.
+
+US Food and Drug Administration, 2013. Guidance for Industry #213: New Animal
+Drugs and New Animal Drug Combination Products Administered in or on
+Medicated Feed or Drinking Water of Food-producing Animals: Recommen-
+dations for Drug Sponsors for Voluntarily Aligning Product Use Conditions with
+GFI
+http://www.fda.gov/downloads/
+AnimalVeterinary/GuidanceComplianceEnforcement/GuidanceforIndustry/
+UCM299624.pdf.
+
+20.02.16).
+
+(accessed
+
+#209
+
+Van Boeckel, T.P., Brower, C., Gilbert, M., Grenfell, B.T., Levin, S.A., Robinson, T.P.,
+Teillant, A., Laxminarayan, R., 2015. Global trends in antimicrobial use in food
+animals. Proc. Natl. Acad. Sci. U. S. A. 112, 5649e5654.
+
+56
+
+A.M.B. Calayag et al. / Food Microbiology 65 (2017) 51e56
+
+Van der Wolf, P., Bongers, J., Elbers, A., Franssen, F., Hunneman, W., Van Exsel, A.,
+Tielen, M., 1999. Salmonella infections in ﬁnishing pigs in The Netherlands:
+bacteriological herd prevalence, serogroup and antibiotic resistance of isolates
+and risk factors for infection. Vet. Microbiol. 67, 263e275.
+
+Yan, H., Li, L., Alam, M.J., Shinoda, S., Miyoshi, S.-I., Shi, L., 2010. Prevalence and
+antimicrobial resistance of Salmonella in retail foods in northern China. Int. J.
+Food Microbiol. 143, 230e234.
+
+

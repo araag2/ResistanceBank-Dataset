@@ -1,0 +1,1593 @@
+International Journal of Food Microbiology 164 (2013) 36–45
+
+Contents lists available at SciVerse ScienceDirect
+
+International Journal of Food Microbiology
+
+j ou r n a l h o m e p a g e : w w w. e l s e v i e r . c o m / l o c a t e / i j f o o d mi c ro
+
+Prevalence and antibiotic resistance proﬁles of diarrheagenic
+Escherichia coli strains isolated from food items in northwestern Mexico
+Adrian Canizalez-Roman a,b,⁎, Edgar Gonzalez-Nuñez a, Jorge E. Vidal c,
+Héctor Flores-Villaseñor a, Nidia León-Sicairos a,d
+a School of Medicine, Autonomous University of Sinaloa, 80246 Culiacan Sinaloa, Mexico
+b The Sinaloa State Public Health Laboratory, Secretariat of Health, 80020 Culiacan Sinaloa, Mexico
+c Hubert Department of Global Health, Rollins School of Public Health, Emory University, Atlanta, GA 30322, USA
+d Pediatric Hospital of Sinaloa, 80200 Culiacan Sinaloa, Mexico
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 23 January 2013
+Received in revised form 7 March 2013
+Accepted 15 March 2013
+Available online 27 March 2013
+
+Keywords:
+E. coli
+Diarrheagenic
+Biosurveillance
+Antibiotic resistance
+Food
+
+Diarrheogenic Escherichia coli (DEC) strains are an important cause of intestinal syndromes in the developing
+world mainly affecting children. DEC strains often infect tourists from developed countries traveling to
+Mexico, causing so-called “traveler diarrhea”. DEC strains are typically transmitted by contaminated food
+and water; however, the prevalence of these strains in food items that are produced, consumed and some-
+times exported in northwestern Mexico has not been evaluated. In this study, we conducted a large microbi-
+ological survey of DEC strains in 5162 food items and beverages consumed throughout Sinaloa state during
+2008 and 2009. We developed a panel of eight sequential PCR reactions that detected the presence of
+all DEC categories, including typical or atypical variants. Thermotolerant coliforms (also known as fecal
+coliforms) and E. coli were detected by conventional bacteriology in 13.4% (692/5162) and 7.92% (409/5162)
+of food items, respectively. Among 409 E. coli isolates, 13.6% (56/409) belonged to DEC strains. Dairy products
+(2.8%) were the most contaminated with DEC, while DEC strains were not detected in beverages and ice
+samples. The pathogenic type that was most commonly isolated was EPEC (78.5%), followed by EAEC (10.7%),
+STEC (8.9%) and ETEC (1.7%). EHEC, DAEC and EIEC strains were not detected. Approximately 80% of EPEC and
+EAEC strains were classiﬁed as atypical variants; they did not adhere to a culture of HEp-2 cell. Of the isolated
+DEC strains, 66% showed resistance to at least one commonly prescribed antibiotic. In conclusion, the presence
+of DEC strains in food items and beverages available in northwestern Mexico is low and may not represent a
+threat for the general population or those traveling to tourist areas.
+
+© 2013 Elsevier B.V. All rights reserved.
+
+1. Introduction
+
+Diarrheogenic Escherichia coli (DEC) strains can cause mild to se-
+vere diarrhea and other symptoms in humans. These strains consti-
+tute a heterogeneous group of organisms with different virulence
+properties, epidemiology, and disease associations (Kaper et al.,
+2004). DEC strains are among the most common etiologic agents of
+diarrhea. Based on their speciﬁc virulence factors and phenotypic
+traits, DEC strains are divided into six pathogenic types: enteropatho-
+genic E. coli (EPEC), enteroaggregative E. coli (EAEC), enterotoxigenic
+E. coli (ETEC), diffusely adherent E. coli (DAEC), enteroinvasive E. coli
+(EIEC) and Vero toxin-producing/Shiga toxin-producing E. coli (VTEC/
+STEC), which includes the well-known subgroup enterohaemorrhagic
+E. coli (EHEC) (Kaper et al., 2004).
+
+⁎ Corresponding author at: Autonomous University of Sinaloa, School of Medicine,
+
+80246 Culiacan Sinaloa, Mexico. Tel.: +52 6677538802; fax: +52 6677538801.
+
+E-mail address: canizalez@uas.edu.mx (A. Canizalez-Roman).
+
+0168-1605/$ – see front matter © 2013 Elsevier B.V. All rights reserved.
+http://dx.doi.org/10.1016/j.ijfoodmicro.2013.03.020
+
+The identiﬁcation of DEC strains involves the detection of encoded
+genes and phenotypic characteristics (e.g. production of toxins and
+adhesion patterns on epithelial cells). Thus, typical EPEC strains con-
+tain eae and bfpA, which are genes encoding the proteins intimin
+and bundle-forming pilus (BFP) that are implicated in the localized
+adherence phenotype (LA) on cell cultures. EAEC is commonly associ-
+ated with traveler's diarrhea in developing countries. EAEC strains are
+distinguished by their typical adherence to cultured cells, i.e., an
+aggregative adherence pattern due to a variety of virulence factors
+(ﬁmbriae gene, aaf; promoter of colonization, dispersin; and plasmid,
+pCVD432) regulated by the aggregative factor (AggR). ETEC strains
+are deﬁned by the presence of one or two plasmid-encoded entero-
+toxins, the thermostable toxin (encoded by st) and the thermolabile
+toxin (encoded by lt). ETEC strains are the most common cause of
+childhood diarrhea among all E. coli pathotypes and the most fre-
+quent cause of diarrhea in travelers to developing countries. DAEC is
+deﬁned by a diffuse pattern of adherence in HEp-2 cell culture assays.
+A ﬁmbrial adhesin known as F1845 (encoded by daaE) mediates
+the adherence of DAEC to epithelial cells. EIEC shows pathogenic,
+
+A. Canizalez-Roman et al. / International Journal of Food Microbiology 164 (2013) 36–45
+
+37
+
+phenotypic and genetic similarities with Shigella strains. EIEC can be
+identiﬁed among other criteria, by their epithelial cell invasiveness
+(mediated in part by the ipaH and virF genes) and association with
+dysentery. EHEC is associated with bloody diarrhea and hemolytic
+uremic syndrome. EHEC contains the locus of the enterocyte efface-
+ment pathogenicity island, which is also present in EPEC, and ex-
+presses one or two shiga-like toxin-encoding genes (stx1 and stx2).
+The most common serotype associated with outbreaks in the United
+States and Europe is the serotype O157:H7 (Kaper et al., 2004).
+
+DEC strains include several emerging pathogens of worldwide
+public health importance, since they have been associated with out-
+breaks and travelers' diarrhea around the world in recent years
+(Bradley et al., 2012; Dallman et al., 2012; Frank et al., 2011; Guiral
+et al., 2011),
+including in Mexico (Cortes-Ortiz et al., 2002;
+Ouyang-Latimer et al., 2010). This explosive epidemic behavior is
+in part due to an increase in international travel and trade globaliza-
+tion (WHO). Thus, individuals traveling to countries where some
+DEC-associated diseases are prevalent have an increased risk of not
+only acquiring these diseases but also transmitting these DEC strains
+upon their return to their home country. Furthermore, in recent
+years, there has been a discussion about the potential for strains in
+developing countries that are resistant to antibiotics to be spread to
+more industrialized ones (Guiral et al., 2011). This highlights the
+need for microbiological surveillance of food and beverages, such
+as the one conducted in this study, of antibiotic resistant strains
+that can be potentially circulating in places with uncontrolled pre-
+scription of antibiotics and visited by tourists and entrepreneurs
+from developed countries.
+
+Today, food safety is an increasingly important public health issue.
+Governments all over the world are intensifying their efforts to im-
+prove food safety mainly because there has been an increase in
+food-related diseases and outbreaks, which have raised consumer
+concerns and public health awareness (Langiano et al., 2012; Taylor
+et al., 2012). Finding the source of contamination has also become
+imperative, as this information would help to stop further spread of
+disease outbreaks. For example, several outbreaks of deadly E. coli
+O157:H7 infections have occurred recently, and the investigated
+source has been identiﬁed as contaminated food products as diverse
+as vegetables, cookie dough or raw milk (CDC, 2006; Frank et al.,
+2011; Gaulin et al., 2012; McCollum et al., 2012; Neil et al., 2012;
+Xiong et al., 2012).
+
+Outbreaks caused by DEC strains have been closely linked to con-
+sumption of contaminated food and water. In developed countries,
+outbreaks caused by EHEC have been associated with hamburgers
+(O'Brien et al., 1993) sausages, unpasteurized milk, lettuce (Ackers
+et al., 1998; Hilborn et al., 1999), radish sprouts and spinach (CDC,
+2006; Michino et al., 1999). EPEC, EIEC and ETEC have been isolated
+mainly from sources of water and other foods (Bengtsson et al., 1966;
+Black, 1990; Lanyi et al., 1959; Nakajima et al., 2005; Valentini et al.,
+1992), whereas sources of infection of DAEC strains are still unknown.
+Active surveillance of drinking water and food sources is impera-
+tive as new DEC strains have emerged in recent years. An outbreak
+reported in May 2011 in Germany was due to a new serotype of
+EHEC, O104:H4. This new strain caused more than 3816 disease
+cases, with 845 cases of severe hemolytic uremic syndrome (HUS)
+leading to 54 deaths within three months (Frank et al., 2011). After
+a thorough investigation of possible sources of infection, it was
+determined that this strain originated in contaminated sprouts. The
+outbreak extended to 15 countries, including Denmark, France, Greece,
+the United Kingdom, Netherlands, Norway, Austria, Spain, the Czech
+Republic, Luxembourg, Poland, Sweden, Switzerland, Canada, and the
+United States (WHO).
+
+In Mexico, only few studies have examined the presence of
+DEC strains in speciﬁc food items and persons. For example ETEC,
+EPEC, EAEC, STEC and EIEC have been identiﬁed in some food items
+(salads, taco dressings, chili sauces, chili peppers, acid-fermented
+
+foods and desserts) (Adachi et al., 2002; Castro-Rosas et al., 2012;
+Cerna-Cortes et al., 2012; Estrada-Garcia et al., 2002; Lopez-Saucedo
+et al., 2010; Sainz et al., 2001; Vigil et al., 2009) and particularly in
+children (Cortes-Ortiz et al., 2002; Cravioto et al., 1985; Estrada-
+Garcia et al., 2005a; Lopez-Saucedo et al., 2010) and US visitors
+(Paredes-Paredes et al., 2011) who developed diarrhea. During the
+last few years, Sinaloa, a state located in northwestern Mexico,
+has had an increase in cases of gastrointestinal diseases where
+the etiologic agent has not been identiﬁed. This may be mainly due
+to a lack of epidemiological data about reemerging pathogens
+(Velazquez-Roman et al., 2012), such as DEC strains. Furthermore, ac-
+tive surveillance of emerging and reemerging pathogens is necessary,
+as Mazatlan and Culiacan, both located in Sinaloa, are world-class
+tourist destinations. Sinaloa is also a source of food exports to the
+US and other countries.
+
+Therefore, the aim of this study was to investigate the presence and
+prevalence of DEC strains in beverages and food items (N = 5,162)
+meant for human consumption in the state of Sinaloa, for example,
+dairy and meat products, seafood and ﬁsh, beverages and prepared
+foods. These strains were identiﬁed phenotypically by using a newly
+developed panel of PCR reactions. The adhesion potential of these
+strains to human epithelial HEp-2 cells as well as their antibiotic
+resistance proﬁle was investigated. Although the prevalence of these
+strains was low in the studied items, antibiotic resistance of the isolated
+strains was high. To our knowledge, this is the ﬁrst report of the preva-
+lence of DEC strains isolated from diverse food items and beverages in
+Mexico.
+
+2. Materials and Methods
+
+2.1. Bacterial Strains
+
+DEC reference strains utilized in this study belong to our labora-
+tory collection and included EPEC E2348/69 (eae+ and bfpA+)
+(Flores-Villasenor et al., 2012a), ETEC (lt+ and st−), EIEC (ipaH+
+and virF−), EHEC O157:H7 EDL933 (eae+, hlyA+, stx1+ and
+stx2+) (Flores-Villasenor et al., 2012b), DAEC (daaE+), EAEC O42
+(aggR+, aap+, pCVD432+ and aafII+) and E. coli DH5α (Invitrogen).
+Bacteria were routinely grown overnight in Luria-Bertani (LB) broth
+(0.5% yeast extract, 1% tryptone and 0.5% NaCl) and incubated at 37 °C
+in a shaker incubator (Thermo Scientiﬁc, Waltham, Massachusetts
+USA).
+
+2.2. Sample Collection
+
+Food samples were collected from 10 different municipalities in
+the Sinaloa State located in northwestern Mexico between January
+2008 and December 2009. A total of 5162 samples were collected
+from food service establishment and retail food samples. The sampling
+sites included, but were not limited to bakeries, bars, bed-and-
+breakfast operations, coffee shops, convenience stores, fairs, food
+banks, grocery stores, meal services for home-bound persons, mobile
+food carts, restaurants, vending machine operators and street food
+vendors. The food items that were analyzed consisted of prepared
+foods (n = 1594), including broths and soups, beef, pork, goat, lamb
+meat, poultry, fruits, salads, hamburgers, sandwiches, eggs, sausages,
+ham, rice, sauces, beans, chilaquiles, desserts, mayonnaise, hard
+pork sausages and tortillas. Beverages and ice (n = 1597) samples in-
+cluded, drinking water fountains, tap water, tea, fruit-ﬂavored water
+and ice. Dairy products (n = 669) consisted of cream, buttermilk,
+milk, butter, cheese and yogurt. Fish and seafood (n = 656) samples
+included raw products, seasoned shrimp, clams, squid, mixed seafood,
+shrimp, stingrays, oysters, octopus and ﬁsh. Meat and meat products
+(n = 646) included mammalian meat and poultry, sausages, ham
+and hard pork sausage (Table 2). Approximately 15 g or 15 ml of a
+sample was placed in a sterile plastic bag and laid directly into a
+
+38
+
+A. Canizalez-Roman et al. / International Journal of Food Microbiology 164 (2013) 36–45
+
+wide-mouth thermos containing wet ice. Samples collected during the
+day were processed within 4 h, whereas those collected during the
+evening were refrigerated at 4 °C until processing the next morning.
+
+2.3. Bacteriological Analyses
+
+Samples were ﬁrst processed for two indicator bacteria: fecal coli-
+form and E. coli, as described in the Mexican Ofﬁcial Standard and
+Bacteriological Analytical Manual of the Food and Drug Administra-
+tion Chapter 4 (BAM, 2002). Positive tubes from the EC broth assay
+were streaked on MacConkey agar, and presumptive E. coli were
+transferred to eosin-methylene blue (EMB) agar and violet red bile
+agar. The colonies were further phenotypically (biochemical, API 20E;
+bioMerieux) and genotypically identiﬁed (PCR, described below).
+
+2.4. Preparation of Template DNA
+
+Five colonies of E. coli per sample were grown in 3 mL of LB broth
+for 18 h to reach stationary phase. The cells were pelleted by centrifu-
+gation at 10,000 ×g for 10 min and then resuspended in 0.3 ml of dis-
+tilled water. Pellets were heated at 100 °C for 10 min, vortexed for
+10 s, and centrifuged again at 12,000 ×g for 3 min. DNA-containing
+supernatants were transferred to 0.5 mL microfuge tubes and stored
+at −20 °C until use.
+
+2.5. Sequential Multiplex PCR, Protocol to Identify DEC Strains
+
+PCR reactions to conﬁrm E. coli (Supplementary data, Fig. S1) at
+the species level were carried out according to the protocol described
+by Tsen et al. (1998). To further identify DEC strains within our E. coli
+isolates, a protocol of sequential multiplex, duplex and single PCR
+reactions was designed and validated using reference strains. These
+reactions ampliﬁed a set of genes encoded by each individual DEC
+category. Our protocol of sequential reactions was based on previous
+
+reports from Mexico and other Latino American countries (Araujo et al.,
+2007; Cortes-Ortiz et al., 2002; Cravioto et al., 1985; Estrada-Garcia
+et al., 2005b; Lopez-Saucedo et al., 2010). These sequential multiplex
+PCR reactions identiﬁed the most prevalent DEC groups in decreasing
+order. The ﬁrst reaction identiﬁed EPEC strains. Negative samples
+were advanced to reaction #2 to identify EAEC strains, and so on
+(Table 1 and Fig. 1).
+
+Multiplex PCR reaction #1 contained primers to amplify the
+intimin gene (eae) and the structural subunit of the bundle-forming
+pilus (Bfp) gene (bfpA). Reaction #1 detected both typical (eae+
+and bfpA+) and atypical (eae+ and bfpA-) EPEC strains. Multiplex
+PCR reaction #2 contained primers that detected a gene encoding a
+regulator protein (aggR) and a ﬁmbriae gene (aafII), and multiplex
+PCR reaction #3 contained primers to amplify the gene encoding
+the protein dispersin (aap) and the aggregative adherence pattern as-
+sociated plasmid (pCVD432) to identify typical (aggR+ and pCVD432+
+and/or aafII+ aap+) and atypical (aggR- and pCVD432+ and/or aafII+
+aap+) EAEC strains. Duplex PCR reaction #4 ampliﬁed both the gene
+encoding the heat labile toxin (Lt) and that encoding the heat stable
+toxin (stII) present in ETEC strains. PCR reaction #5 contained primers
+that ampliﬁed the structural subunit gene of the F1845 ﬁmbria (daaE)
+to detect DAEC strains. Detection of EIEC strains was performed with
+reaction #6; this reaction contained primers to amplify the invasion
+genes virF and ipaH. Negative strains and DEC eae+ strains (from
+reaction #1) were screened in multiplex PCR reaction #7 to detect
+possible EHEC strains. This reaction ampliﬁed genes stx1 and/or
+stx2; EHEC strains encode both Shiga toxin genes and the eae gene,
+whereas STEC strains were eae-. Finally, multiplex PCR reaction #8
+contained primers that ampliﬁed the hemolysin gene (hlyA), the
+rfbE gene coding for the production of the lipopolysaccharide O of
+E. coli O157 and the ﬂiC gene that encodes the E. coli ﬂagellum H7
+serotype. Reaction #8 detected EHEC O157:H7 strains (Fig. 1). Primer
+sequences, PCR conditions and product sizes are shown in Table 1 and
+the supporting material (Supplementary data, Fig. S2).
+
+Table 1
+Oligonucleotide primers for the detection of diarrheagenic E. coli strains by PCR.
+
+Primer mix
+
+Primer sequence (5′–3′)
+
+Gene target
+
+PCR product (bp)
+
+Condition
+
+M1
+
+M2
+
+M3
+
+M4
+
+M5
+
+M6
+
+M7
+
+M8
+
+TTATTTTAAATTGGGTTCGGAT
+AATTTAATGCCTTGTCATCGG
+TTTACTACCAGTCTGCGTCT
+ATGCCGCTTTATCCAACCTG
+CACAGGCAACTGAAATAAGTCTGG
+ATTCCCATGATGTCAAGCACTTC
+GTATACAAAGAAGGAAGC
+ACAGAATCGTCAGCATCAGC
+CTGGCGAAAGACTGTATCAT
+CAATGTATAGAAATCCGCTGTT
+ATGAAAAAAATTAAGTTTGTTATCTT
+TTATTTAACCCATTCGGTTAGAGC
+GCACACGGAGCTCCTCAGTC
+TCCTTCCTTTCAATGGCTTT
+AAAGGAGAGCTTCGTCACATTTT
+AATGTCCGTCTTGCGTTAGGAC
+GAACGTTGGTTAATGTGGGGTAA
+TATTCACCGGTCGGTTATCAGT
+AGCTCAGGCAATGAAACTTTGAC
+TGGGCTTGATATTCCGATAAGTC
+CTCGGCACGTTTTAATAGTCTGG
+GTGGAGAGCTGAAGTTTCTCTGC
+CAAAGACGTATGTAGATTCGC
+TTCGTTCAACAATAAGCCGTA
+TATTATTTAAATGGGTACTGTGC
+CATAACTTTGTTGGGTCGAAA
+AGCTGCAAGTGCGGGTCTG
+TACGGGTTATGCCTGCAAGTTCAC
+CTACAGGTGAAGGTGGAATGG
+ATTCCTCTCTTTCCTCTGCGG
+TACCATCGCAAAAGCAACTCC
+GTCGGCAACGTTAGTGATACC
+
+eae
+
+bfp
+
+aafII
+
+aggR
+
+Pcvd432
+
+aap
+
+lt
+
+stII
+
+daaE
+
+virF
+
+ipaH
+
+stx1
+
+stx2
+
+hlyA
+
+rfbEO157
+
+ﬂiCH7
+
+365
+
+282
+
+378
+
+254
+
+630
+
+351
+
+218
+
+129
+
+542
+
+618
+
+933
+
+192
+
+96
+
+569
+
+327
+
+247
+
+95 °C 45 s, 54 °C 45 s,72 °C 45 s
+30 Cycles
+
+94 °C 30s, 56 °C 30s,72 °C 30s
+30 Cycles
+
+94 °C 50s, 54 °C 50s,72 °C 50s
+30 Cycles
+
+94 °C 30s, 60 °C 30s,72 °C 30s
+30 Cycles
+
+DEC
+
+EPEC
+
+Reference
+
+This study
+
+EAEC
+
+Maricel Vidal, 2005
+
+Claudia Toma, 2003
+
+EAEC
+
+Jamal Mo., 2006
+
+ETEC
+
+Maricel Vidal, 2005
+
+94 °C 1 min, 60 °C 1 min,72 °C 1 min
+30 Cycles
+94 °C 1.5 min, 60 °C 1.5 min,72 °C 1.5 min
+35 Cycles
+
+DAEC
+
+EIEC
+
+Maricel Vidal, 2005
+
+Maricel Vidal, 2005
+
+95 °C 45 s, 54 °C 45 s,72 °C 45 s
+30 Cycles
+
+EHEC or STEC
+
+This study
+
+95 °C 40s, 60 °C 40s,72 °C 40s
+30 Cycles
+
+EHEC
+
+Gehua Wang, 2002
+
+A. Canizalez-Roman et al. / International Journal of Food Microbiology 164 (2013) 36–45
+
+39
+
+PCR ampliﬁcation was performed in a 25 μL volume consisting of
+1x GoTaq Green Master Mix (Promega), forward and reverse primers
+1 μmol and 2 μl of DNA template, with the remaining volume
+consisting of molecular biology grade water. PCR reactions were car-
+ried out in a Thermal Cycler C1000 (BIO-RAD Laboratories, Hercules,
+California). PCR products were separated by electrophoresis in a 2%
+agarose gel. Gels were stained with ethidium bromide (0.5 mg/mL)
+and photographed using a digital imaging system (Kodak, Model E1
+logia 100 imaging system).
+
+2.6. Adherence Assay on HEp-2 cells
+
+The adhesion assay on HEp-2 cells was performed essentially as
+described by Cravioto et al. (1979). Brieﬂy, HEp-2 cells grown in
+Eagle's minimal essential medium (EMEM, GIBCO-BRL, Gaithers-burg,
+MD), with 10% fetal calf serum and antibiotics were seeded onto
+coverslips that had been placed in the wells of 24-well plates (Costar,
+Cambridge, MA) and incubated until reaching 70–80% conﬂuence
+(2–3 days). Washed HEp-2 cells were fed with 1 ml of fresh MEM
+medium without fetal bovine serum or antibiotics, but with 0.5%
+(wt/vol) of D-mannose before being inoculated.
+
+One day before the experiment, E. coli strains were grown over-
+night in 5 ml of peptone water with 3% D-mannose. Cultures were
+then centrifuged, washed twice with sterile PBS and resuspended in
+MEM with no additives. One hundred microliters of the bacterial sus-
+pension (~1.5 × 108 CFU) was inoculated onto HEp-2 cell cultures.
+Infected cells were incubated for 3 h at 37 °C under a 5% CO2 atmo-
+sphere and then washed three times with sterile PBS, ﬁxed with
+70% methanol, and stained with Giemsa. Adherence patterns were
+assigned according to the description of Scaletsky et al. (1984)
+and Nataro et al. (1987) (Nataro et al., 1987; Scaletsky et al., 1984).
+The EPEC reference strain (E2349/68) showing localized adherence
+(LA), EAEC 042 showing aggregative adherence and E. coli K12 that
+does not attach to HEP-2 cells were included as controls in every
+experiment.
+
+2.7. Serotyping O157:H7
+
+Serotypes of strains positive for at least one EHEC/STEC virulence
+factor (stx1, stx2 or HlyA) were investigated using rabbit antisera
+obtained from the National Institute of Epidemiological Reference
+(InDRE), Mexico, and prepared against the 157 somatic (O) and the
+7 ﬂagellar (H) antigens. The microagglutination test was used to
+determine the serogroup O157:H7 (Orskov et al., 1984).
+
+2.8. Antimicrobial Agent Susceptibility Testing
+
+The Kirby–Bauer disk diffusion method was used to determine
+sensitivity or resistance to antimicrobial agents, according to guide-
+lines developed by the Clinical Laboratory Standard Institute (CLSI,
+2011). Recommendations of the National Antimicrobial Resistance
+Monitoring System for E. coli were utilized to deﬁne breakpoints of an-
+tibiotics and thus categorize the isolates as resistant, intermediate or
+sensitive (Supplementary data, Table S2). These antibiotics were cho-
+sen because of their importance in treating human (Amabile-Cuevas,
+2010) or animal E. coli infections and their use as feed additives to
+promote growth in animals. They represent different classes of antimi-
+crobial agents that are available to treat gram-negative infection in
+Mexico. The protocol was performed as follows: fresh cultures were
+inoculated into LB broth and incubated until they reached a turbidity
+of 0.5 using the McFarland standard. Mueller–Hinton agar plates
+were swabbed with these cultures, and antibiotic disks (BD BBL,
+Franklin Lakes, NJ) were placed onto inoculated plates in a sterile
+environment. The plates were incubated at 37 °C for 18 to 20 h. The
+diameters (in millimeters) of clear zones of growth inhibition around
+the antimicrobial agent disks were measured using a precision digital
+
+Fig. 1. Flowchart of the protocol used in this study to detect diarrheagenic E. coli strains by PCR.
+
+40
+
+A. Canizalez-Roman et al. / International Journal of Food Microbiology 164 (2013) 36–45
+
+caliper (Absolute, Mitutoyo, Japan). E. coli ATCC 25922 (American
+Type Culture Collection, Manassas, VA) was used as negative control,
+this strain bear no resistance to the selected antibiotics. E. coli strain
+ATCC 35218 was used as positive control for β-lactam/β-lactamase
+inhibitor combinations.
+
+3. Results
+
+3.1. Detection of E. coli in Food Items Consumed in Northwestern Mexico
+
+Since water- and food-borne DEC strains, such as EPEC and ETEC,
+have been isolated from food items produced in different regions of
+Mexico (Adachi et al., 2002; Castro-Rosas et al., 2012; Cerna-Cortes
+et al., 2012; Estrada-Garcia et al., 2002; Lopez-Saucedo et al., 2010;
+Sainz et al., 2001; Vigil et al., 2009) and shiga-toxin-producing EHEC
+has recently been implicated in an outbreak that infected more than
+3000 people and killed ~50 in Europe (Frank et al., 2011), we performed
+an epidemiological surveillance of the most common food items and
+sources of water (N = 5162) consumed in northwestern Mexico to
+evaluate the presence of DEC strains, including EHEC strains.
+
+The geographical area covered by our sampling is home to approx-
+imately 87% of Sinaloa's state population. A total of 5162 samples,
+including dairy products, meat products, seafood and ﬁsh, prepared
+foods, beverages and ice, were analyzed (Table 2). Our ﬁrst screening
+for fecal contamination detected coliform bacteria above permissive
+levels for human consumption in 696 samples (13.4%), whereas
+E. coli was isolated in 409 food items (7.92%) (Table 2). Further mo-
+lecular analyses by PCR targeting the 16SrRNA gene conﬁrmed the
+identity of these isolates (Supplementary data, Fig. S1). Our study
+found that dairy products were the food items that were most
+frequently contaminated with E. coli (21.3%), followed by meat
+products (17%) (Table 2). The presence of coliform bacteria and
+E. coli in beverage samples and ice was very low, 3.38% and 0.93%,
+respectively (Table 2).
+
+3.2. Prevalence of DEC Strains in Food Items
+
+To identify the DEC group of our E. coli isolates, a protocol of eight
+sequential (multiplex, duplex, and single) PCR reactions was developed
+in this study (Fig. 1 and Table 1). These reactions ampliﬁed a set of genes
+encoded by each individual DEC category (see Material and Methods).
+The optimization of duplex PCR was performed with DNA extracted
+from reference DEC strains (e.g. EHEC, EPEC, EAEC, EIEC, STEC and
+DAEC). We conﬁrmed that our PCR identiﬁed only the targeted
+pathogenic group (Supplementary data, Fig. S2). Our multiplex PCR
+studies revealed that 56 food products (13.69%) contained DEC strains
+(Table 2). The food items that were most often contaminated with
+DEC were dairy products, 19 samples [33.92% (19/56)], while beverages
+and ice samples were not contaminated with DEC (Table 2).
+
+In regard to individual DEC categories, our protocol of multiplex
+PCR reactions found, as expected, that EPEC was the most common
+(78.57%) DEC isolated (Table 2). The prevalence of EPEC strains was
+similar among the different food items, ranging from 68% through to
+
+84% (Table 2). EAEC was isolated in only 10% of DEC-positive food
+samples, while STEC strains were found in 8.92% of DEC isolates
+(Table 2). Our PCR studies also revealed the presence of ETEC in a
+dairy product, representing the 1.78% of all DEC. ETEC strains isolated
+from Mexico have been associated with traveler's diarrhea, infecting
+mainly American tourists (Paredes-Paredes et al., 2011). These results
+indicate that the food items and beverages that are available in Sinaloa
+may not be a threat for those traveling to tourist areas of Sinaloa, such
+as Mazatlan. Moreover, no EHEC strains or DAEC strains could be
+isolated from any of the 5162 food items that were evaluated.
+
+3.3. Presence of Typical and Atypical DEC
+
+An emerging epidemiological trait of DEC isolates is the appearance
+of atypical variants that have lost virulence genes but have increasingly
+been implicated in cases of human diarrhea. Thus, our multiplex PCR re-
+actions 1, 2 and 3 included primers that differentiated between typical
+and atypical variants of EPEC or EAEC. Supplementary data, Table S1
+shows that most of the EPEC isolates belonged to atypical strains
+(n = 35) containing only the gene for the intimin (eae) but not for
+bfpA. The remainder of the EPEC strains (n = 9) contained both eae
+and bfpA and therefore were considered typical strains (Supplementary
+data, Table S1). Only two typical EAEC strains (containing the aggR
+gene) were identiﬁed, while four atypical EAEC isolates were identiﬁed.
+As reported elsewhere (Weintraub, 2007), all typical or atypical EAEC
+strains contained the aggregative adherence pattern-associated plas-
+mid (pCVD432) (Supplementary data, Table S1).
+
+3.4. Adherence Patterns of DEC Isolated from Food Items
+
+Adhesion properties of EPEC and EAEC to in vitro-cultured HEp-2
+epithelial cells have been associated with the virulence of these
+strains (Vidal et al., 2007; Weintraub, 2007). Thus, typical EPEC can
+attach to cell cultures in a pattern called localized adherence (LA) be-
+cause the bacteria form a microcolony-like structure on the cell sur-
+face (Fig. 2A). As shown in Fig. 2D and Supplementary data, Table
+S1, all typical EPEC isolates showed the LA phenotype. Moreover,
+only one atypical EPEC showed the LA phenotype, whereas all others
+(n = 34) did not attach to HEp-2 cells (Supplementary data, Table
+S1). The typical EAEC, containing the aggregative adherence ﬁmbriae
+aggR gene, forms a stacked-brick adherence pattern, also called aggre-
+gative adherence (AggA), when incubated for 3 h with HEp-2 cells
+(Fig. 2B). Our studies found that all typical EAEC that were isolated
+from the food samples showed the AggA phenotype, whereas the
+atypical EAEC did not attach to cultured HEp-2 cells (Fig. 2E). All
+other DEC strains (i.e., STEC and ETEC) that were isolated from the
+food items did not adhere to HEp-2 cells within the 3 h incubation
+period (Fig. 2E and Supplementary data, Table S1).
+
+3.5. Antibiotic Resistance Proﬁles of DEC Strains
+
+The antibiotic resistance of all DEC isolates (N = 56) was investi-
+gated. We found that 66% of DEC strains were resistant to at least one
+
+Table 2
+Presence of thermotolerant coliforms, E. coli and DEC in food and water samples.
+
+Food samples
+
+Fecal coliforms (%)
+
+E. coli (%)
+
+Diarrheogenic E. coli
+
+Dairy products (n = 669)
+Meat products (n = 646)
+Seafood and ﬁsh (n = 656)
+Prepared foods (n = 1594)
+Beverages and ice (n = 1597)
+Total (N = 5162)
+
+190 (28.4)
+156 (24)
+117 (17)
+175 (10.97)
+54 (3.38)
+692 (13.40)
+
+143 (21.3)
+110 (17)
+71 (10.8)
+70 (4.3)
+15 (0.93)
+409 (7.92)
+
+Total
+
+19 (2.84)
+12 (0.75)
+13 (1.98)
+12 (0.75)
+
+0
+
+56 (1.08)
+
+EPEC (%)*
+
+13 (68.42)
+10 (83.33)
+11 (84.61)
+10 (83.33)
+
+0
+
+44 (78.57)
+
+EAEC (%)*
+
+2 (10.52)
+2 (16.66)
+2 (15.38)
+0
+0
+6 (10.71)
+
+STEC (%)*
+
+3 (15.78)
+0
+0
+2 (16.66)
+0
+5 (8.92)
+
+ETEC (%)*
+
+1 (5.26)
+0
+0
+0
+0
+1 (1.78)
+
+(%)* Percentage according total diarrheogenic E. coli detected in each food samples.
+
+A. Canizalez-Roman et al. / International Journal of Food Microbiology 164 (2013) 36–45
+
+41
+
+Fig. 2. Adherence phenotype of DEC on in vitro-cultured HEp-2 cells. DEC cultures were used to infect HEp-2 cells for 3 h at 37 °C, 5% CO2. Strains shown are A) EPEC E2348/69,
+B) EAEC O42, C) DH5α, D) EPEC isolated from ﬁsh, E) typical EAEC isolated from raw milk and F) ETEC isolated from salad. Cells were stained by Geimsa and photographed
+using a 40X objective.
+
+of the commonly prescribed antibiotics in Mexico. Of these, 39.2% of
+strains were resistant to two or more drugs. Resistance to tetracycline
+(34%), cefotaxime (30%) and ampicillin (29%) was common (Table 3).
+Almost 60% of EPEC strains were resistant to at least one antibiotic;
+they were frequently resistant to cefotaxime (34%) and tetracycline
+(23%). Of great interest, all EAEC strains were resistant to ampicillin,
+
+Table 3
+Antibiotic resistance among E. coli strains isolated from food sources during 2008 and
+2009.
+
+Class and antimicrobial
+
+Aminoglycoside
+
+Gentamicin
+
+Quinolones and
+
+Fluoroquinolones
+Ciproﬂoxacin
+Nalidixic acid
+
+Total
+(n = 56)
+
+Phenotype and % of resistance
+
+EPEC
+
+EAEC
+
+STEC
+
+(n = 44)
+
+(n = 6)
+
+(n = 5)
+
+5/56 (9%)
+
+3/44 (7%)
+
+0/6
+
+2/5 (40%)
+
+3/56 (5%)
+4 (7%)
+
+3/44 (7%)
+4 (9%)
+
+0/6
+0/6
+
+0/5
+0/5
+
+Sulfonamides and potentiated
+
+sulfonamides
+Sulfamethoxazole-trimethoprim 8/56 (14%)
+
+4/44 (9%)
+
+4/6 (67%)
+
+0/5
+
+Tetracyclines
+Tetracycline
+Beta lactams
+Ampicillin
+
+Cephalosporins
+
+Ceftazidime
+Cefotaxime
+
+Phenicols
+
+Chloranphenicol
+
+Number of drugs
+
+resistant to:
+
+0
+1
+2
+3
+4
+5
+
+19/56 (34%) 10/44 (23%) 5/6 (83%)
+
+3/5 (60%)
+
+16/56 (29%) 10/44 (23%) 6/6 (100%) 0/5
+
+2/56 (4%)
+17/56 (30%) 15/44 (34%) 1/6 (17%)
+
+2/44 (5%)
+
+0/6
+
+0/5
+1/5 (20%)
+
+3/56 (5%)
+
+3/44 (7%)
+
+1/6 (17%)
+
+0/5
+
+19 (33.9%)
+15 (26.8%)
+10 (17.8%)
+8 (14.2%)
+2 (3.6%)
+2 (3.6%)
+
+18 (40.9%)
+12 (27.3%)
+6 (13.6%)
+4 (9.1%)
+2 (4.5%)
+2 (4.5%)
+
+0
+1 (16.7%)
+1 (16.7%)
+4 (66.6%)
+0
+0
+
+1 (20%)
+2 (40%)
+2 (40%)
+0
+0
+0
+
+Note: One E. coli strain was identify as ETEC with the following antibiotic resistance pattern
+(Ampicillin = Sensible; Sulfamethoxazole-trimethoprim = Sensible; Chloranphenicol =
+Sensible; Gentamicin = Sensible; Tetracyclin = Resistant; Cefotaxime = Resistant;
+Ceftazidime = Sensible; Ciproﬂoxacin = Sensible and Nalidixic acid = Sensible). Strains
+with Resistance to 6, 7, 8 and 9 drugs were not detected.
+
+and 83.3% were resistant to two or more antibiotics, On the other
+hand, STEC strains were commonly resistant to tetracycline (60%)
+and gentamicin (40%) (Table 3). Very low resistance (EPEC strains)
+or sensitivity (EAEC and STEC strains) was observed for ciproﬂoxacin,
+nalidixic acid and ceftazidime.
+
+The percentage of resistant bacteria was different for the two
+years of the study. For DEC strains isolated in 2008 (n = 10), 70%
+were found to be resistant to tetracycline, 50% to ampicillin, 30%
+to sulfamethoxazole-trimethoprim, 20% to gentamicin and 10% to
+cefotaxime. In 2009, the percentage of DEC strains resistant to tetra-
+cycline, ampicillin and sulfamethoxazole–trimethropin decreased to
+26%, 24% and 11%, respectively. The percentage of strains resistant
+to gentamicin in 2009 showed a signiﬁcant increase from 20% to
+35% (Table 3).
+
+4. Discussion
+
+Virtually nothing was known about the presence of DEC strains in
+food products or water consumed at northwestern Mexico, until this
+study demonstrated a very low prevalence (1%). Infectious diseases
+transmitted by foods have become a major public health concern in
+recent years (Frank et al., 2011; Langiano et al., 2012; Taylor et al.,
+2012). It is imperative to evaluate the quality of food and water
+sources, especially in places where tourists and non-residents can
+be exposed. Sinaloa is a strategic region where food products are
+produced and exported to the US and other countries. Moreover,
+the port of Mazatlan receives more than one million tourists every
+year. Our study demonstrated that 1% of the 5162 food samples
+collected during 2008 and 2009 were contaminated with DEC strains.
+We also investigated the antibiotic resistance proﬁles and found
+that these strains were sensitive to ceftazidime or showed low resis-
+tance to nalidixic acid or ciproﬂoxacin. To our knowledge, this is the
+ﬁrst report of DEC isolation from several food items in Mexico.
+
+To evaluate the presence of DEC strains, we have developed a pro-
+tocol of sequential multiplex, duplex and single PCR reactions. To our
+knowledge, this is the ﬁrst protocol with sequential reactions aimed
+at identifying all known DEC strains and their variants. Identifying
+these strains and their variants was particularly important, as our
+study included an analysis of 409 E. coli strains. As demonstrated,
+our scheme ﬁrst identiﬁed EPEC strains in 10.7% (n = 44) of E. coli
+isolates, and we then reducing the number of strains (n = 365) to
+
+42
+
+A. Canizalez-Roman et al. / International Journal of Food Microbiology 164 (2013) 36–45
+
+be classiﬁed by subsequent reactions. An earlier published set of
+reactions targeted only EPEC, EIEC, EHEC and ETEC strains, but not
+EAEC or EPEC and EAEC typical and atypical variants (Rappelli et al.,
+2001). There is also an available multiplex PCR protocol of two reac-
+tions, but the limited number of targets within these two reactions
+fails to identify typical and atypical variants of EPEC and EAEC or
+epidemic strains of EHEC O157:H7 (Fujioka et al., 2009). On the
+other hand, our approach to detecting DEC's screened 5 individual
+E. coli colonies per sample; this approach increased the likelihood of
+detecting positive i.e. DEC strains or negative, i.e. normal ﬂora E. coli.
+The low prevalence of DEC strains (1.08%) demonstrated in our
+studies is similar to that reported in a recent study that analyzed
+more than 3000 samples of beef, poultry, and pork in Korea, and
+detected ~1.3% prevalence of DEC strains (Lee et al., 2009).
+
+E. coli and DEC strains were identiﬁed in all food groups analyzed;
+therefore, there was no association with a particular food product or
+water sample. Nevertheless, dairy products were the samples that
+were most frequently contaminated by DEC bacteria, followed by
+meat derivatives and seafood and ﬁsh. It is therefore reasonable
+to speculate that the source of contamination could be the result
+of human fecal contamination of those products. For example, the
+cheese industry in Sinaloa is “artisanal”, so producers regularly
+manipulate their products with their bare hands, or maybe the
+same pair of gloves, from the beginning of the production process
+until the ﬁnal product is shipped. Accordingly, 13.4% of samples
+were contaminated with coliform bacteria at levels not permissive
+for human consumption. Although less likely, DEC strains from the
+normal ﬂora of animals (i.e., cattle) can be a source of contamination
+(Nataro and Kaper, 1998; Stella et al., 2012).
+
+The most prevalent DEC strain was EPEC, followed by EAEC and
+STEC, and only one ETEC strain was isolated. This higher prevalence
+of EPEC may suggest that 1) local people may carry EPEC with no ap-
+parent signs of disease or that 2) EPEC strains are a possible cause of
+diarrheal disease in Sinaloa. The presence of EPEC in diarrheal cases in
+Sinaloa has been suggested (Canizalez-Roman et al., in preparation).
+EPEC strains are commonly isolated from children with diarrhea
+in Mexico (Paniagua et al., 2007) and other developing countries
+including India, Peru and Brazil (Ghosh and Ali, 2010; Nunes Mdo
+et al., 2012; Ochoa et al., 2009a).
+
+The EPEC pathotype was classiﬁed as typical if the strain possessed
+the E. coli adherence plasmid (EAF) and the bfpA gene encoding the
+structural subunit of BFP. E. coli strains that do not possess the EAF
+plasmid or bfpA gene are classiﬁed as atypical EPEC (Trabulsi et al.,
+2002). Our genotypic and phenotypic characterization demonstrated
+that 35 strains (80%) were atypical variants of EPEC, whereas the
+remaining 9 strains (20%), were typical. Until the 1990s, typical
+EPEC strains were more commonly isolated than atypical EPEC
+strains, though recent studies have indicated that the prevalence of
+typical EPEC strains has decreased and that they are gradually being
+replaced by atypical EPEC (Trabulsi et al., 2002). This bacterial burden
+in Sinaloa's food samples may be related to the potential of atypical
+EPEC strains to cause human disease. For example, a recent paper by
+Estrada-Garcia et al. (2009) reported that the prevalence of atypical
+and typical EPEC strains isolated from cases of diarrhea in children
+from Mexico was 44.5% and 10%, respectively (Estrada-Garcia et al.,
+2009). Similarly, studies in Peru (Contreras et al., 2010), Brazil (Nunes
+Mdo et al., 2012), Japan (Yatsuyanagi et al., 2003) and Australia
+(Nguyen et al., 2006) have reported an increase in diarrheal cases
+due to atypical EPEC, suggesting that atypical EPEC is an emerging
+diarrheagenic pathogen, not only in developing countries, but also in
+industrialized countries.
+
+The second most prevalent DEC strain that was detected was EAEC;
+EAEC strains were also further classiﬁed as typical and atypical. The
+term typical or atypical EAEC refers to strains harboring or lacking
+the gene encoding the transcriptional regulator AggR, respectively.
+Some studies have demonstrated an association of typical EAEC with
+
+diarrhea (Estrada-Garcia et al., 2009; Huang et al., 2006). While the
+pathogenicity of atypical EAEC has not been fully elucidated, these
+strains have been associated with food-borne outbreaks (Cobeljic et
+al., 1996) and clearly have been associated with a massive outbreak
+of gastrointestinal illness in school children from Japan (Itoh et al.,
+1997), Brazil (Regua-Mangia et al., 2009), and other developing coun-
+tries (Bangar and Mamatha, 2008; Scavia et al., 2008).
+
+Another important DEC that was evaluated in this work was
+enterohemorrhagic E. coli (EHEC), also known as Shiga-toxin producing
+E. coli (STEC). EHEC is a group of well-recognized pathogens that are
+responsible for serious human infections such as hemorrhagic colitis
+and hemolytic-uremic syndrome (Law, 2000; Nataro and Kaper,
+1998). Production of Shiga toxins (encoded by the stx1 and stx2
+genes) is a key feature of most STEC. Other virulence-associated factors
+include the pO157 plasmid, which encodes hemolysin (hlyA) among
+other genes (Schmidt et al., 1994). Although outbreaks of O157 STEC
+have been associated with the consumption of raw vegetables
+(Watanabe et al., 1999),
+little is known about the presence of
+non-O157 STEC (Balague et al., 2006) in food items worldwide. Our
+ﬁndings showed that STEC (serotype O157 negative) was the third
+most common DEC identiﬁed in our study (5/56). Similarly, in another
+study in Mexico, STEC (serotype O157 negative) was the most prevalent
+pathotype found in street-vended taco dressings (coriander, onion and
+red chili sauce) (Lopez-Saucedo et al., 2010). In this study, we detected
+STEC mainly in vegetables salad, fresh cheese and Strawberry pie,
+suggesting that these food items could be a potential vehicle of trans-
+mission for STEC strains in Mexico.
+
+The potential of STEC strains to cause diarrhea in Mexico has been
+previously studied by Rosas et al. (2006) and Cortes-Ortiz et al.
+(2002), who reported the presence of STEC (22% and 0.08% respec-
+tively. The ﬁrst study was conducted in environmental samples and
+the second reported an outbreak of diarrhea associated with the
+overﬂow of sewage water in “Valle the Chalco”, Mexico (Cortes-Ortiz
+et al., 2002).
+
+Another important strain is EHEC serotype O157:H7. This serotype
+is the most frequent EHEC that is implicated in food-borne outbreaks
+worldwide (Mead and Grifﬁn, 1998). Our studies did not detect O157:
+H7 in our food and water samples. To the best of our knowledge,
+the presence of E. coli O157:H7 in food samples has not been previ-
+ously reported in Mexico. This strain, however, has been isolated
+from beef carcasses at a slaughter plant in Mexico [2.7% (7/258)]
+(Varela-Hernandez et al., 2007). Moreover, between 2009 and 2010
+six cases of disease produced by E. coli O157:H7, reported by the
+Public Health Agency of Canada (PHAC), affected Canadian travellers
+whom had recently been in Mexico; the implicated food was not
+detected (PHAC, 2009, 2010). The presence of STEC (stx1) strains in
+our samples, the geographical proximity of Sinaloa to the U.S. border,
+and outbreaks reported by the FDA in 2006 in California warrant per-
+manent epidemic surveillance for STEC and EHEC strains in food and
+water items, as well as in cases of DEC-associated food-related disease.
+ETEC was only isolated from one food item (milk-derivative
+product). ETEC strains are associated with two major clinical syn-
+dromes: weanling diarrhea among children in the developing
+world, and traveler's diarrhea. Traveler's diarrhea is usually contracted
+from contaminated food and water (Black, 1990; Mattila, 1994). Several
+studies have shown the importance of ETEC in infections among
+the tourists visiting Asia, Africa and South America (Adachi et al.,
+2001; Daniels, 2006; Daniels et al., 2000), and as a cause of diarrhea
+among Mexican adults and US travelers in Mexico (Bouckenooghe
+et al., 2002). Therefore, our results suggest that food and drinking
+water that are available in Sinaloa may not be a risk for ETEC-
+associated traveler’s diarrhea for tourists visiting Sinaloa and the
+world-class tourist areas of Mazatlan.
+
+While the prevalence of DEC strains was low, they can still either
+cause isolated cases of DEC-related diseases or produce outbreaks
+in child care centers, schools or resorts. Our studies have identiﬁed
+
+A. Canizalez-Roman et al. / International Journal of Food Microbiology 164 (2013) 36–45
+
+43
+
+antibiotic therapies that can be utilized in such an outbreak. Out of a
+panel of antibiotics, we observed very low resistance (EPEC strains)
+or sensitivity (EAEC and STEC strains) to ciproﬂoxacin, nalidixic acid
+and ceftazidime. On the other hand, an alarming 66% of DEC isolates
+were resistant to antibiotics. This high resistance rate is clearly the
+result of the uncontrolled self-prescription of antibiotics that has
+occurred in Mexico for several decades. Fortunately, a new law has
+been approved by the Health Secretary that ﬁnally regulate the sale
+of antibiotics and other controlled drugs in Mexican drugstores and
+pharmacies.
+
+Strains of EAEC showed resistance to more antibiotics than the
+other DEC strains. In our population, EAEC strains might be more ex-
+posed to antimicrobials, as these strains can cause persistent diarrhea
+and are often carried asymptomatically, thus increasing the chances
+of exposure to multiple antibiotics. In support of our argument,
+Estrada-Garcia et al. (2005a, 2005b) found, in a study of Mexican chil-
+dren, that among all of the DEC categories, EAEC was signiﬁcantly
+more resistant to ampicillin and trimethoprim–sulfamethoxazole
+(Estrada-Garcia et al., 2005b). In a recently published study carried
+out in Peru, the prevalence of resistance to ampicillin, clotrimoxazole,
+tetracycline and nalidixic acid was signiﬁcantly higher in EAEC than
+in EPEC and ETEC (Ochoa et al., 2009b).
+
+In conclusion, our work represents the ﬁrst comprehensive study
+that evaluated the distribution, prevalence, and detection of virulence
+factors in DEC strains in more than 5000 samples of food and drinking
+water utilized for human consumption in Mexico. To the best of our
+knowledge, there has not been any outbreak of food borne DEC in
+Sinaloa for at least the last ten years. The protocol for evaluating
+DEC strains in food and water samples, as well as in E. coli strains
+isolated from cases of diarrhea, that was designed and validated in
+this study, is currently in use by our laboratory to monitor for the
+presence of these strains.
+
+Supplementary data to this article can be found online at http://
+
+dx.doi.org/10.1016/j.ijfoodmicro.2013.03.020.
+
+Acknowledgments
+
+This work was supported by grants from PROFAPI 2010/025,
+PROFAPI 2011/034 and CECyT 2008 to A.C.R. We thank the Depart-
+ment of Microbiology and Epidemiology, the Sinaloa State Public
+Health Laboratory, and Elizandra Quiñonez for their technical help.
+E.G.N. was supported by a scholarship from CONACYT (no. 241411)
+
+Conﬂict of interest: No conﬂict of interest to declare.
+
+References
+
+Ackers, M.L., Mahon, B.E., Leahy, E., Goode, B., Damrow, T., Hayes, P.S., Bibb, W.F., Rice,
+D.H., Barrett, T.J., Hutwagner, L., Grifﬁn, P.M., Slutsker, L., 1998. An outbreak
+of Escherichia coli O157:H7 infections associated with leaf lettuce consumption.
+Journal of Infectious Diseases 177, 1588–1593.
+
+Adachi, J.A., Jiang, Z.D., Mathewson, J.J., Verenkar, M.P., Thompson, S., Martinez-Sandoval, F.,
+Steffen, R., Ericsson, C.D., DuPont, H.L., 2001. Enteroaggregative Escherichia coli
+as a major etiologic agent in traveler's diarrhea in 3 regions of the world. Clinical
+Infectious Diseases 32, 1706–1709.
+
+Adachi, J.A., Mathewson, J.J., Jiang, Z.D., Ericsson, C.D., DuPont, H.L., 2002. Enteric patho-
+gens in Mexican sauces of popular restaurants in Guadalajara, Mexico, and Houston,
+Texas. Annals of Internal Medicine 136, 884–887.
+
+Amabile-Cuevas, C., 2010. Antibiotic resistance in Mexico: a brief overview of the
+current status and its causes. Journal of Infection in Developing Countries 4,
+126–131.
+
+Araujo, J.M., Tabarelli, G.F., Aranda, K.R., Fabbricotti, S.H., Fagundes-Neto, U., Mendes,
+C.M., Scaletsky, I.C., 2007. Typical enteroaggregative and atypical enteropathogenic
+types of Escherichia coli are the most prevalent diarrhea-associated pathotypes
+among Brazilian children. Journal of Clinical Microbiology 45, 3396–3399.
+
+Balague, C., Khan, A.A., Fernandez, L., Redolﬁ, A.L., Aquili, V., Voltattorni, P., Hofer, C.,
+Ebner, G., Duenas, S., Cerniglia, C.E., 2006. Occurrence of non-O157 shiga toxin-
+producing Escherichia coli in ready-to-eat food from supermarkets in Argentina.
+Food Microbiology 23, 307–313.
+
+BAM, 2002. Enumeration of Escherichia coli and the Coliform Bacteria. http://www.fda.
+gov/food/scienceresearch/laboratorymethods/bacteriologicalanalyticalmanualbam/
+ucm064948.htm (Chapter 4).
+
+Bangar, R., Mamatha, B., 2008. Identiﬁcation of enteroaggregative Escherichia coli in
+infants with acute diarrhea based on bioﬁlm production in Manipal, south India.
+Indian Journal of Medical Sciences 62, 8–12.
+
+Bengtsson, S., Berg, R., Danielsson, D., Lundmark, K.M., Nordbring, F., Sandler, O., 1966. A
+water-borne epidemic caused by enteropathogenic Escherichia coli. Lakartidningen
+63, 4499–4506.
+
+Black, R.E., 1990. Epidemiology of travelers' diarrhea and relative importance of various
+
+pathogens. Reviews of Infectious Diseases 12 (Suppl. 1), S73–S79.
+
+Bouckenooghe, A.R., Jiang, Z.D., De La Cabada, F.J., Ericsson, C.D., DuPont, H.L., 2002.
+Enterotoxigenic Escherichia coli as cause of diarrhea among Mexican adults and
+US travelers in Mexico. Journal of Travel Medicine 9, 137–140.
+
+Bradley, K.K., Williams, J.M., Burnsed, L.J., Lytle, M.B., McDermott, M.D., Mody, R.K.,
+Bhattarai, A., Mallonee, S., Pierceﬁeld, E.W., McDonald-Hamm, C.K., Smithee, L.K.,
+2012. Epidemiology of a large restaurant-associated outbreak of Shiga toxin-
+producing Escherichia coli O111:NM. Epidemiology and Infection 140,
+1644–1654.
+
+Canizalez-Roman, A., Gonzalez-Nuñez, E., Flores-Villaseñor, H., Vidal, J.E., Muro-Amador,
+S., Leon-Sicairos, N., 2013. Enteroaggregative and Enteropathogenic Escherichia coli
+are the most prevalent pathotypes among adults and children with acute diarrhea
+in Northwestern Mexico (in preparation).
+
+Castro-Rosas, J., Cerna-Cortes, J.F., Mendez-Reyes, E., Lopez-Hernandez, D., Gomez-
+Aldapa, C.A., Estrada-Garcia, T., 2012. Presence of faecal coliforms, Escherichia coli
+and diarrheagenic E. coli pathotypes in ready-to-eat salads, from an area where
+crops are irrigated with untreated sewage water. International Journal of Food
+Microbiology 156, 176–180.
+
+CDC, 2006. Centers for Disease Control and Prevention. Ongoing multistate outbreak of
+Escherichia coli serotype O157:H7 infections associated with consumption of fresh
+spinach—United States, September 2006. MMWR. Morbidity and Mortality Weekly
+Report 55, 1045–1046.
+
+Cerna-Cortes,
+
+J.F., Gomez-Aldapa, C.A., Rangel-Vargas, E., Torres-Vitela Mdel, R.,
+Villarruel-Lopez, A., Castro-Rosas, J., 2012. Presence of some indicator bacteria
+and diarrheagenic E. coli pathotypes on jalapeno and serrano peppers from popu-
+lar markets in Pachuca City, Mexico. Food Microbiology 32, 444–447.
+
+CLSI, 2011. Performance standards for antimicrobial susceptibility testing. Twenty-First
+Informational Suplement, vol. 31. Clinical and Laboratory Standards Institute M02-
+A10 and M07-A08.
+
+Cobeljic, M., Miljkovic-Selimovic, B., Paunovic-Todosijevic, D., Velickovic, Z., Lepsanovic,
+Z., Zec, N., Savic, D., Ilic, R., Konstantinovic, S., Jovanovic, B., Kostic, V., 1996.
+Enteroaggregative Escherichia coli associated with an outbreak of diarrhoea in a
+neonatal nursery ward. Epidemiology and Infection 117, 11–16.
+
+Contreras, C.A., Ochoa, T.J., Lacher, D.W., DebRoy, C., Navarro, A., Talledo, M.,
+Donnenberg, M.S., Ecker, L., Gil, A.I., Lanata, C.F., Cleary, T.G., 2010. Allelic variability
+of critical virulence genes (eae, bfpA and perA) in typical and atypical enteropatho-
+genic Escherichia coli in Peruvian children. Journal of Medical Microbiology 59,
+25–31.
+
+Cortes-Ortiz,
+
+I.A., Rodriguez-Angeles, G., Moreno-Escobar, E.A., Tenorio-Lara,
+
+J.M.,
+Torres-Mazadiego, B.P., Montiel-Vazquez, E., 2002. Outbreak caused by Escherichia
+coli in Chalco, Mexico. Salud Pública de México 44, 297–302.
+
+Cravioto, A., Gross, R.J., Scotland, S.M., Rowe, B., 1979. An adhesive factor found in
+strains of Escherichia belonging to the traditional infantile enteropathogenic sero-
+type. Current Microbiology 3, 95–99.
+
+Cravioto, A., Ortega, R., Rodriguez, P., Reyes, R.E., Lopez, D., Fernandez, G., 1985. Longi-
+tudinal study of intestinal colonization in a sample of rural Mexican children. I.
+Study design and initial ﬁndings during the neonatal period. Boletín Médico del
+Hospital Infantil de México 42, 287–296.
+
+Dallman, T., Smith, G.P., O'Brien, B., Chattaway, M.A., Finlay, D., Grant, K.A., Jenkins, C.,
+2012. Characterisation of a verocytotoxin-producing enteroaggregative Escherichia
+coli serogroup O111:H21 associated with a household outbreak in Northern Ireland.
+Journal of Clinical Microbiology 50 (12), 4116–4119. http://dx.doi.org/10.1128/
+JCM.02047-12 (Dec).
+
+Daniels, N.A., 2006. Enterotoxigenic Escherichia coli: traveler's diarrhea comes home.
+
+Clinical Infectious Diseases 42, 335–336.
+
+Daniels, N.A., Neimann, J., Karpati, A., Parashar, U.D., Greene, K.D., Wells, J.G., Srivastava, A.,
+Tauxe, R.V., Mintz, E.D., Quick, R., 2000. Traveler's diarrhea at sea: three outbreaks of
+waterborne enterotoxigenic Escherichia coli on cruise ships. Journal of Infectious Dis-
+eases 181, 1491–1495.
+
+Estrada-Garcia, T., Cerna, J.F., Thompson, M.R., Lopez-Saucedo, C., 2002. Faecal
+contamination and enterotoxigenic Escherichia coli
+in street-vended chili
+sauces in Mexico and its public health relevance. Epidemiology and Infection
+129, 223–226.
+
+Estrada-Garcia, T., Cerna, J.F., Paheco-Gil, L., Velazquez, R.F., Ochoa, T.J., Torres, J., DuPont, H.L.,
+2005a. Drug-resistant diarrheogenic Escherichia coli, Mexico. Emerging Infectious Dis-
+eases 11, 1306–1308.
+
+Estrada-Garcia, T., Lopez-Saucedo, C., Arevalo, C., Flores-Romo, L., Luna, O., Perez-
+Martinez, I., 2005b. Street-vended seafood: a risk for foodborne diseases in Mexico.
+The Lancet Infectious Diseases 5, 69–70.
+
+Estrada-Garcia, T., Lopez-Saucedo, C., Thompson-Bonilla, R., Abonce, M., Lopez-
+Hernandez, D., Santos, J.I., Rosado, J.L., DuPont, H.L., Long, K.Z., 2009. Association
+of diarrheagenic Escherichia coli Pathotypes with infection and diarrhea among
+Mexican children and association of atypical Enteropathogenic E. coli with acute
+diarrhea. Journal of Clinical Microbiology 47, 93–98.
+
+Flores-Villasenor, H., Canizalez-Roman, A., de la Garza, M., Nazmi, K., Bolscher, J.G.,
+Leon- Sicairos, N., 2012a. Lactoferrin and lactoferrin chimera inhibit damage
+caused by enteropathogenic Escherichia coli in HEp-2 cells. Biochimie 94, 1935–1942.
+Flores-Villasenor, H., Canizalez-Roman, A., Velazquez-Roman, J., Nazmi, K., Bolscher, J.G.,
+Leon-Sicairos, N., 2012b. Protective effects of lactoferrin chimera and bovine lactoferrin
+
+44
+
+A. Canizalez-Roman et al. / International Journal of Food Microbiology 164 (2013) 36–45
+
+in a mouse model of enterohaemorrhagic Escherichia coli O157:H7 infection. Biochem-
+ical Cell Biology 90, 405–411.
+
+Frank, C., Werber, D., Cramer, J.P., Askar, M., Faber, M., an der Heiden, M., Bernard, H.,
+Fruth, A., Prager, R., Spode, A., Wadl, M., Zoufaly, A., Jordan, S., Kemper, M.J.,
+Follin, P., Muller, L., King, L.A., Rosner, B., Buchholz, U., Stark, K., Krause, G., 2011.
+Epidemic proﬁle of Shiga-toxin-producing Escherichia coli O104:H4 outbreak in
+Germany. The New England Journal of Medicine 365, 1771–1780.
+
+Fujioka, M., Kasai, K., Miura, T., Sato, T., Otomo, Y., 2009. Rapid diagnostic method for
+the detection of diarrheagenic Escherichia coli by multiplex PCR. Japanese Journal
+of Infectious Diseases 62, 476–480.
+
+Gaulin, C., Levac, E., Ramsay, D., Dion, R., Ismail, J., Gingras, S., Lacroix, A., 2012.
+Escherichia coli O157:H7 outbreak linked to raw milk cheese in Quebec, Canada:
+use of exact probability calculation and casecase study approaches to foodborne
+outbreak investigation. Journal of Food Protection 75, 812–818.
+
+Ghosh, P.K., Ali, A., 2010. Isolation of atypical enteropathogenic Escherichia coli from
+children with and without diarrhoea in Delhi and the National Capital Region,
+India. Journal of Medical Microbiology 59, 1156–1162.
+
+Guiral, E., Mendez-Arancibia, E., Soto, S.M., Salvador, P., Fabrega, A., Gascon, J., Vila, J.,
+2011. CTX-M-15-producing enteroaggregative Escherichia coli as cause of travelers'
+diarrhea. Emerging Infectious Diseases 17, 1950–1953.
+
+Hilborn, E.D., Mermin, J.H., Mshar, P.A., Hadler, J.L., Voetsch, A., Wojtkunski, C., Swartz,
+M., Mshar, R., Lambert-Fair, M.A., Farrar, J.A., Glynn, M.K., Slutsker, L., 1999. A mul-
+tistate outbreak of Escherichia coli O157:H7 infections associated with consump-
+tion of mesclun lettuce. Archives of Internal Medicine 159, 1758–1764.
+
+Huang, D.B., Mohanty, A., DuPont, H.L., Okhuysen, P.C., Chiang, T., 2006. A review of an
+emerging enteric pathogen: enteroaggregative Escherichia coli. Journal of Medical
+Microbiology 55, 1303–1311.
+
+Itoh, Y., Nagano,
+
+I., Kunishima, M., Ezaki, T., 1997. Laboratory investigation of
+enteroaggregative Escherichia coli O untypeable:H10 associated with a massive
+outbreak of gastrointestinal illness. Journal of Clinical Microbiology 35, 2546–2550.
+Kaper, J.B., Nataro, J.P., Mobley, H.L., 2004. Pathogenic Escherichia coli. Nature Reviews.
+
+Microbiology 2, 123–140.
+
+Langiano, E., Ferrara, M., Lanni, L., Viscardi, V., Abbatecola, A.M., De Vito, E., 2012.
+Food safety at home: knowledge and practices of consumers. Zeitschrift fur
+Gesundheitswissenschaften 20, 47–57.
+
+Lanyi, B., Szita, J., Ringelhann, B., Kovach, K., 1959. Waterborne epidemic caused by
+Escherichia coli serotype 124:72-32 in Paradsasvar. Orvosi Hetilap 100, 1075–1077.
+Law, D., 2000. Virulence factors of Escherichia coli O157 and other Shiga toxin-
+
+producing E. coli. Journal of Applied Microbiology 88, 729–745.
+
+Lee, G.Y., Jang, H.I., Hwang, I.G., Rhee, M.S., 2009. Prevalence and classiﬁcation of
+pathogenic Escherichia coli isolated from fresh beef, poultry, and pork in Korea.
+International Journal of Food Microbiology 134, 196–200.
+
+Lopez-Saucedo, C., Cerna,
+
+J.F., Estrada-Garcia, T., 2010. Non-O157 shiga toxin-
+producing Escherichia coli is the most prevalent Diarrheagenic E. coli pathotype
+in street-vended taco dressings in mexico city. Clinical Infectious Diseases 50,
+450–451.
+
+Mattila, L., 1994. Clinical features and duration of traveler's diarrhea in relation to its
+
+etiology. Clinical Infectious Diseases 19, 728–734.
+
+McCollum, J.T., Williams, N.J., Beam, S.W., Cosgrove, S., Ettestad, P.J., Ghosh, T.S.,
+Kimura, A.C., Nguyen, L., Stroika, S.G., Vogt, R.L., Watkins, A.K., Weiss,
+J.R.,
+Williams, I.T., Cronquist, A., 2012. Multistate Outbreak of Escherichia coli O157:H7
+Infections Associated with In-Store Sampling of an Aged Raw-Milk Gouda Cheese,
+2010. Journal of Food Protection 75, 1759–1765.
+
+Mead, P.S., Grifﬁn, P.M., 1998. Escherichia coli O157:H7. Lancet 352, 1207–1212.
+Michino, H., Araki, K., Minami, S., Takaya, S., Sakai, N., Miyazaki, M., Ono, A., Yanagawa, H.,
+1999. Massive outbreak of Escherichia coli O157:H7 infection in schoolchildren in
+Sakai City, Japan, associated with consumption of white radish sprouts. American
+Journal of Epidemiology 150, 787–796.
+
+Nakajima, H., Yamazaki, M., Kariya, H., Ohata, R., 2005. Isolation of enteroaggregative
+Escherichia coli (EAggEC) from patients with diarrheal disease in an outbreak
+case of overseas tour. Kansenshōgaku Zasshi 79, 314–321.
+
+Nataro, J.P., Kaper, J.B., 1998. Diarrheagenic Escherichia coli. Clinical Microbiology
+
+Reviews 11, 142–201.
+
+Nataro, J.P., Kaper, J.B., Robins-Browne, R., Prado, V., Vial, P., Levine, M.M., 1987.
+Patterns of adherence of diarrheagenic Escherichia coli to HEp-2 cells. Pediatric
+Infectious Disease Journal 6, 829–831.
+
+Neil, K.P., Biggerstaff, G., MacDonald, J.K., Trees, E., Medus, C., Musser, K.A., Stroika, S.G.,
+Zink, D., Sotir, M.J., 2012. A novel vehicle for transmission of Escherichia coli O157:
+H7 to humans: multistate outbreak of E. coli O157:H7 infections associated with
+consumption of ready-to-bake commercial prepackaged cookie dough–United
+States, 200. Clinical Infectious Diseases 54, 511–518.
+
+Nguyen, R.N., Taylor, L.S., Tauschek, M., Robins-Browne, R.M., 2006. Atypical entero-
+pathogenic Escherichia coli infection and prolonged diarrhea in children. Emerging
+Infectious Diseases 12, 597–603.
+
+Nunes Mdo, R., Magalhaes, P.P., Macedo Ada, S., Franco, R.T., Penna, F.J., Mendes, E.N.,
+2012. Attaching and effacing Escherichia coli and Shiga toxin-producing E. coli in
+children with acute diarrhoea and controls in Teresina/PI, Brazil. Transactions of
+the Royal Society of Tropical Medicine and Hygiene 106, 43–47.
+
+O'Brien, A.D., Melton, A.R., Schmitt, C.K., McKee, M.L., Batts, M.L., Grifﬁn, D.E., 1993.
+Proﬁle of Escherichia coli O157:H7 pathogen responsible for hamburger-borne
+outbreak of hemorrhagic colitis and hemolytic uremic syndrome in Washington.
+Journal of Clinical Microbiology 31, 2799–2801.
+
+Ochoa, T.J., Ecker, L., Barletta, F., Mispireta, M.L., Gil, A.I., Contreras, C., Molina, M.,
+Amemiya, I., Verastegui, H., Hall, E.R., Cleary, T.G., Lanata, C.F., 2009a. Age-related
+susceptibility to infection with diarrheagenic Escherichia coli among infants from
+Periurban areas in Lima, Peru. Clinical Infectious Diseases 49, 1694–1702.
+
+Ochoa, T.J., Ruiz, J., Molina, M., Del Valle, L.J., Vargas, M., Gil, A.I., Ecker, L., Barletta, F.,
+Hall, E., Cleary, T.G., Lanata, C.F., 2009b. High frequency of antimicrobial drug resis-
+tance of diarrheagenic Escherichia coli in infants in Peru. The American Journal of
+Tropical Medicine and Hygiene 81, 296–301.
+
+Orskov, I., Orskov, F., Rowe, B., 1984. Six new E. coli O groups: O165, O166, O167, O168,
+O169 and O170. Acta Pathologica, Microbiologica, et Immunologica Scandinavica.
+Section B 92, 189–193.
+
+Ouyang-Latimer, J., Ajami, N.J., Jiang, Z.D., Okhuysen, P.C., Paredes, M., Flores, J., Dupont, H.L.,
+2010. Biochemical and genetic diversity of enterotoxigenic Escherichia coli associated
+with diarrhea in United States students in Cuernavaca and Guadalajara, Mexico,
+2004–2007. Journal of Infectious Diseases 201, 1831–1838.
+
+Paniagua, G.L., Monroy, E., Garcia-Gonzalez, O., Alonso, J., Negrete, E., Vaca, S., 2007.
+Two or more enteropathogens are associated with diarrhoea in Mexican children.
+Annals of Clinical Microbiology and Antimicrobials 6, 17.
+
+Paredes-Paredes, M., Okhuysen, P.C., Flores, J., Mohamed, J.A., Padda, R.S., Gonzalez-
+Estrada, A., Haley, C.A., Carlin, L.G., Nair, P., DuPont, H.L., 2011. Seasonality of
+diarrheagenic Escherichia coli pathotypes in the US students acquiring diarrhea in
+Mexico. Journal of Travel Medicine 18, 121–125.
+
+PHAC. Public Health Agency of Canada, 2009. Annual Summary of Laboratory Surveil-
+lance Data. Last accessed March 5, 2013 http://www.nml-lnm.gc.ca/NESP-PNSME/
+surveillance-2009-eng.html.
+
+PHAC. Public Health Agency of Canada, 2010. Annual Summary of Laboratory Surveil-
+lance. Last accessed March 5, 2013 http://www.nml-lnm.gc.ca/NESP-PNSME/
+surveillance-2010-eng.html#_Toc300651044.
+
+Rappelli, P., Maddau, G., Mannu, F., Colombo, M.M., Fiori, P.L., Cappuccinelli, P., 2001.
+Development of a set of multiplex PCR assays for the simultaneous identiﬁcation
+of enterotoxigenic, enteropathogenic, enterohemorrhagic and enteroinvasive
+Escherichia coli. The New Microbiologica 24, 77–83.
+
+Regua-Mangia, A.H., Gomes, T.A., Vieira, M.A., Irino, K., Teixeira, L.M., 2009. Molecular
+typing and virulence of enteroaggregative Escherichia coli strains isolated from
+children with and without diarrhoea in Rio de Janeiro city, Brazil. Journal of
+Medical Microbiology 58, 414–422.
+
+Rosas, I., Salinas, E., Martinez, L., Calva, E., Cravioto, A., Eslava, C., Amabile-Cuevas, C.F.,
+2006. Urban dust fecal pollution in Mexico City: antibiotic resistance and virulence
+factors of Escherichia coli. International Journal of Hygiene and Environmental
+Health 209, 461–470.
+
+Sainz, T., Wacher, C., Espinoza, J., Centurion, D., Navarro, A., Molina, J., Inzunza, A.,
+Cravioto, A., Eslava, C., 2001. Survival and characterization of Escherichia coli strains
+in a typical Mexican acid-fermented food. International Journal of Food Microbiol-
+ogy 71, 169–176.
+
+Scaletsky, I.C., Silva, M.L., Trabulsi, L.R., 1984. Distinctive patterns of adherence of
+enteropathogenic Escherichia coli to HeLa cells. Infection and Immunity 45,
+534–536.
+
+Scavia, G., Staffolani, M., Fisichella, S., Striano, G., Colletta, S., Ferri, G., Escher, M., Minelli, F.,
+Caprioli, A., 2008. Enteroaggregative Escherichia coli associated with a foodborne out-
+break of gastroenteritis. Journal of Medical Microbiology 57, 1141–1146.
+
+Schmidt, H., Karch, H., Beutin, L., 1994. The large-sized plasmids of enterohemorrhagic
+Escherichia coli O157 strains encode hemolysins which are presumably members of
+the E. coli alpha-hemolysin family. FEMS Microbiology Letters 117, 189–196.
+
+Stella, A.E., Maluta, R.P., Rigobelo, E.C., Marin, J.M., de Avila, F.A., 2012. Virulence genes
+in isolates of Escherichia coli from samples of milk and feces from dairy cattle.
+Journal of Food Protection 75, 1698–1700.
+
+Taylor, A.W., Coveney, J., Ward, P.R., Henderson, J., Meyer, S.B., Pilkington, R., Gill, T.K.,
+2012. Fruit and vegetable consumption - the inﬂuence of aspects associated with
+trust in food and safety and quality of food. Public Health Nutrition 15, 208–217.
+Trabulsi, L.R., Keller, R., Tardelli Gomes, T.A., 2002. Typical and atypical enteropatho-
+
+genic Escherichia coli. Emerging Infectious Diseases 8, 508–513.
+
+Tsen, H.Y., Lin, C.K., Chi, W.R., 1998. Development and use of 16S rRNA gene targeted
+PCR primers for the identiﬁcation of Escherichia coli cells in water. Journal of
+Applied Microbiology 85, 554–560.
+
+Valentini, S.R., Gomes, T.A., Falcao, D.P., 1992. Lack of virulence factors in Escherichia
+coli strains of enteropathogenic serogroups isolated from water. Applied and Envi-
+ronmental Microbiology 58, 412–414.
+
+Varela-Hernandez, J.J., Cabrera-Diaz, E., Cardona-Lopez, M.A., Ibarra-Velazquez, L.M.,
+Rangel-Villalobos, H., Castillo, A., Torres-Vitela, M.R., Ramirez-Alvarez, A., 2007.
+Isolation and characterization of Shiga toxin-producing Escherichia coli O157:H7
+and non-O157 from beef carcasses at a slaughter plant in Mexico. International
+Journal of Food Microbiology 113, 237–241.
+
+Velazquez-Roman,
+
+J., Leon-Sicairos, N., Flores-Villasenor, H., Villafana-Rauda, S.,
+Canizalez-Roman, A., 2012. Association of pandemic Vibrio parahaemolyticus O3:
+K6 present in the coastal environment of Northwest Mexico with cases of recur-
+rent diarrhea between 2004 and 2010. Applied and Environmental Microbiology
+78, 1794–1803.
+
+Vidal, J.E., Canizalez-Roman, A., Gutierrez-Jimenez, J., Navarro-Garcia, F., 2007. Molecu-
+lar pathogenesis, epidemiology and diagnosis of enteropathogenic Escherichia coli.
+Salud Pública de México 49, 376–386.
+
+Vigil, K.J., Jiang, Z.D., Chen, J.J., Palumbo, K.L., Galbadage, T., Brown, E.L., Yiang, J., Koo, H.,
+DuPont, M.W., Ericsson, C., Adachi, J.A., DuPont, H.L., 2009. Coliform and Escherichia
+coli contamination of desserts served in public restaurants from Guadalajara, Mex-
+ico, and Houston, Texas. The American Journal of Tropical Medicine and Hygiene
+80, 606–608.
+
+Watanabe, Y., Ozasa, K., Mermin, J.H., Grifﬁn, P.M., Masuda, K., Imashuku, S., Sawada, T.,
+1999. Factory outbreak of Escherichia coli O157:H7 infection in Japan. Emerging In-
+fectious Diseases 5, 424–428.
+
+Weintraub, A., 2007. Enteroaggregative Escherichia coli: epidemiology, virulence and
+
+detection. Journal of Medical Microbiology 56, 4–8.
+
+A. Canizalez-Roman et al. / International Journal of Food Microbiology 164 (2013) 36–45
+
+45
+
+WHO. World Health Organization Regional Ofﬁce for Europe, O. . Last accessed 2 De-
+cember 2012 http://www.euro.who.int/en/what-we-do/health-topics/emergencies/
+international-health-regulations/news/news/2011/06/outbreaks-of-e.-coli-o104h4-
+infection-update-26.
+
+Xiong, Y., Wang, P., Lan, R., Ye, C., Wang, H., Ren, J., Jing, H., Wang, Y., Zhou, Z., Bai, X.,
+Cui, Z., Luo, X., Zhao, A., Zhang, S., Sun, H., Wang, L., Xu, J., 2012. A novel Escherichia
+
+coli O157:H7 clone causing a major hemolytic uremic syndrome outbreak in China.
+PLoS One 7, e36144.
+
+Yatsuyanagi, J., Saito, S., Miyajima, Y., Amano, K., Enomoto, K., 2003. Characterization of
+atypical enteropathogenic Escherichia coli strains harboring the astA gene that
+were associated with a waterborne outbreak of diarrhea in Japan. Journal of Clini-
+cal Microbiology 41, 2033–2039.
+
+

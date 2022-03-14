@@ -1,0 +1,2782 @@
+Food Control 69 (2016) 160e170
+
+Contents lists available at ScienceDirect
+
+Food Control
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / f o o d c o n t
+
+Prevalence, antimicrobial resistance proﬁling and genetic diversity of
+Campylobacter jejuni and Campylobacter coli isolated from broilers at
+slaughter in China
+Xinfeng Han a, b, Dongmei Zhu a, Haimei Lai a, Hang Zeng a, Kang Zhou a, b, Likou Zou c,
+Congming Wu d, Guoquan Han a, b, Shuliang Liu a, b, *
+a College of Food Science, Sichuan Agricultural University, Ya'an 625014, PR China
+b Key Laboratory of Agricultural Products Processing and Preservation Engineering of Sichuan Province, Ya'an 625014, PR China
+c Laboratory of Microbiology of Dujiangyan Campus, Sichuan Agricultural University, Dujiangyan 611830, PR China
+d Beijing Key Laboratory of Detection Technology for Animal-Derived Food Safety, College of Veterinary Medicine, China Agricultural University, Beijing
+100013, PR China
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 4 December 2015
+Received in revised form
+26 April 2016
+Accepted 29 April 2016
+Available online 30 April 2016
+
+Keywords:
+Campylobacter
+Broiler
+Antimicrobial resistance
+Resistance determinant
+PFGE
+
+A total of 651 samples from broiler cecal samples, carcasses, carcass parts collected at the slaughterhouse
+level in Sichuan Province of China were examined for the occurrence of Campylobacter jejuni and
+Campylobacter coli. After conﬁrmed by species-speciﬁc multiplex PCR, the recovered isolates were
+examined for resistance to antimicrobials using an agar dilution method and investigated for the mu-
+tation of gyrA, tetO gene and V domain of 23S rRNA as well as the presence of class 1 integron and the
+associated gene cassettes. In addition, the genotype relatedness of the isolates was determined by
+pulsed-ﬁeld gel electrophoresis (PFGE) proﬁling. The prevalence of Campylobacter was 56.1% in cecal
+samples, 31.0% in carcasses and 17.0% in carcass parts, respectively. Among them, C. jejuni accounted for
+24.6% and C. coli occupied 20.0% of the samples. The strains of C. jejuni were most frequently resistant to
+ciproﬂoxacin (88.1%), followed by resistance to tetracycline (79.4%) and levoﬂoxacin (78.1%). Most of the
+C. coli isolates were resistant to ciproﬂoxacin (100%), tetracycline (98.5%), levoﬂoxacin (98.5%), clinda-
+mycin (98.5%) and erythromycin (93.9%). Antimicrobial resistance proﬁling showed that 93.7% of cam-
+pylobacters were multidrug resistant (MDR) strains. Moreover, class 1 integrons were detected in 98.6%
+of MDR campylobacters, among which 98.7% were positive for C. jejuni and 98.5% for C. coli. Three kinds
+of gene cassettes-associated amplicons were identiﬁed and the amplicons proﬁle of 1000e750e500
+e250 bp was the predominant pattern linked to the aminoglycoside resistance gene of aadA2. The
+presence of mutation in gyrA, tetO and 23S rRNA between C. jejuni and C. coli varied from 89.7% to 97.3%,
+96.6% to 94.1%, and 95.0% to 96.7%, respectively. Finally, the results of PFGE indicated that, 33 PFGE
+proﬁles were generated among 78 isolates of C. jejuni and the similarity level ranged from 42.1% to 99.1%.
+By contrast, 15 PFGE patterns were produced among 68 C. coli isolates sharing a similarity level of 54.0%
+e99.7%. Comparison of the PFGE and antimicrobial resistance proﬁles of the isolates reﬂected the high
+genetic diversity of Campylobacter tested. A poor correlation among the antimicrobial resistance patterns,
+resistance determinants and PFGE genotypes was observed in C. jejuni. Our study showed that there were
+several points of cross-contamination during broiler slaughter, and a high diversity of PFGE types in the
+Campylobacter isolates with high resistances to ciproﬂoxacin and tetracycline.
+
+© 2016 Elsevier Ltd. All rights reserved.
+
+* Corresponding author. College of Food Science, Sichuan Agricultural University,
+
+Ya'an 625014, PR China.
+
+E-mail address: lsliang999@163.com (S. Liu).
+
+http://dx.doi.org/10.1016/j.foodcont.2016.04.051
+0956-7135/© 2016 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+
+Campylobacter species have been recognized as the most
+frequently identiﬁed bacterial causes of human gastroenteritis in
+many developed and developing countries (Iovine, 2013; Pepe
+et al., 2009; Taboada, Clark, Sproston, & Carrillo, 2013). Although
+
+X. Han et al. / Food Control 69 (2016) 160e170
+
+161
+
+mortality is low, morbidity imparted by post-infectious sequelae
+such as Guillain-Barre syndrome, Reiter
+syndrome/reactive
+arthritis and irritable bowel syndrome is signiﬁcant (Humphrey,
+O'Brien, & Madsen, 2007;
+Iovine, 2013). The species most
+commonly associated with human infection is Campylobacter jejuni
+(80%e90%); followed by Campylobacter coli (5%e10%), but other
+Campylobacter species can also cause human infection (Rowe &
+Madden, 2014). Food animals, especially poultry, are the main
+reservoirs of C. jejuni and C. coli (Rasschaert, Houf, Van Hende, & De
+Zutter, 2006; Szczepanska et al., 2015).
+
+Campylobacter cause little or no clinical diseases in poultry, but
+poultry carcasses have been frequently contaminated in the
+slaughterhouse due to the high prevalence of Campylobacter in the
+intestinal tract of market-age poultry and can be transferred to
+human via poultry carcasses (Ellerbroek, Lienau, & Klein, 2010; van
+Gerwe, Bouma, Wagenaar, Jacobs-Reitsma, & Stegeman, 2010).
+There are several identiﬁed sources of C. jejuni infection, such as
+consumption of raw milk, untreated water, foods, direct contact
+with pets and farm animals (Denis et al., 2009; Humphrey et al.,
+2007). Different studies of risk factors, however, point to the
+handling or consumption of chicken meat as the main source of
+infection in humans (Humphrey et al., 2007; Sproston, Carrillo, &
+Boulter-Bitzer, 2014). Widespread carcass contamination occurs
+in the slaughterhouse by direct contact with intestinal content or
+with dirty contact surfaces such as rubber ﬁngers, conveyor belts
+and cutting tables (Melero, Juntunen, H€anninen, Jaime, & Rovira,
+2012). Contaminated food and subsequent illness are a huge eco-
+nomic burden, and processing control and prevention measures are
+of great importance (PerezePerez & Kienesberger, 2013).
+
+In recent years, there is an increasing trend of antimicrobial
+resistance in Campylobacter isolates worldwide, especially multi-
+drug resistant (MDR) strains within the food chain (Abdollahpour,
+Zendehbad, Alipour, & Khayatzadeh, 2015; Ma, Wang, Shen,
+Zhang, & Wu, 2014; Melero et al., 2012; Piccirillo, Dotto, Salata, &
+Giacomelli, 2013; Wieczorek, Denis, Lynch, & Osek, 2013). Some
+antimicrobials, such as quinolones and macrolides, have aroused
+the highest concern because of their signiﬁcance in human medi-
+cine. Most cases of campylobacteriosis are usually self-limiting and
+do not require hospitalization. Antibiotic therapy is required,
+however, when severe enteritis or complications are present, as
+well as when very young or elderly patients and pregnant women
+are infected (Ge, Wang, Sjolund-Karlsson, & McDermott, 2013). In
+these cases, the macrolide erythromycin is usually the ﬁrst-choice
+drug whereas ﬂuoroquinolones and, to a less extent, tetracycline
+is alternative option (Allos, 2001). The indiscriminate use of anti-
+biotics in animal husbandry and in the human population has
+leaded to an increase in antibiotic-resistant infections, which rep-
+resents a hazard to the effectiveness of antimicrobial treatment.
+Thus, monitoring and obtaining information on Campylobacter
+resistance is highly relevant to public health and the international
+trade.
+
+Among the resistance mechanisms of bacteria, integrons are
+now considered as efﬁcient vehicles for the transfer of resistance
+markers among unrelated bacterial populations, especially those
+Gram-negative bacteria groups (van Essen-Zandbergen, Smith,
+Veldman, & Mevius, 2007).
+Integron structures are naturally
+occurring gene expression systems that can capture and integrate
+one or more gene cassettes and convert them into functionally
+expressed genes. It is these gene cassettes that encode the resis-
+tance determinants to several antimicrobial agents. To date, nine
+classes of integrons have been described and class 1 integrons are
+clinically signiﬁcant (O'Halloran, Lucey, Cryan, Buckley, & Fanning,
+2004). Integron-like structures were reported in Campylobacter
+isolates, suggesting that gene cassettes encoding antimicrobial
+resistance may act as a possible vehicle for the dissemination of
+
+resistance among Campylobacter spp (Ekkapobyotin, Padungtod, &
+Chuanchuen, 2008; Lee et al., 2002; van Essen-Zandbergen et al.,
+2007).
+
+Horizontal transfer of gene cassettes together with any genetic
+modiﬁcation of pre-existing genes through point mutation or some
+other genetic event, are thought to be the main mechanisms
+contributing to bacterial resistance (O'Halloran et al., 2004). For
+Campylobacter spp., most variability of resistance is found among
+ﬂuoroquinolone, macrolides and tetracycline resistance, and it is
+important to examine the resistance determinants and their ge-
+netic composition as well as the resistance to antimicrobials. This
+might be very helpful to prevent the dissemination of resistance
+and for understanding the relationships in antimicrobial resistance
+between bacterial populations. In Campylobacter spp., the resis-
+tance to tetracycline is primarily mediated by a ribosomal protec-
+tion protein (tetO), which is transferred as plasmid-encoded gene
+(Gibreel et al., 2004), or in the chromosome where it is not self-
+mobile (Chopra & Roberts, 2001). For quinolones and macrolides,
+resistance has mainly been associated with target modiﬁcation in
+the quinolone resistance-determining region (QRDR) of the gyrA
+gene (Bakeli et al., 2008; Zirnstein, YU, Swaminathan, & Angulo,
+1999) or mutations at positions 2074 and 2075 (domain V) in the
+rrn gene, which encodes for 23S rRNA (Alonso et al., 2005; Kurincic,
+Botteldoorn, Herman, & Smole Mozina, 2007).
+
+Tracing the sources and understanding the epidemiology of
+Campylobacter infections is increasingly relying on molecular
+typing (Taboada et al., 2013). Pulsed-ﬁeld gel electrophoresis
+(PFGE) is a highly discriminatory technique which has been
+extensively used for the molecular typing of Campylobacter spp.,
+mainly for C. jejuni. However, compared with C. jejuni, far less
+typing studies have been published on other Campylobacter spp.,
+including C. coli. At the same time, important differences in expo-
+sure were identiﬁed with human C. jejuni and C. coli infections
+(Duarte et al., 2014; Ruiz-Castillo, Torres-Sanchez, & Aznar-Martín,
+2014), suggesting that studies should be conducted at the species
+level.
+
+Some recent studies have reported Campylobacter contamina-
+tion in chicken in European countries (Economou et al., 2015;
+Guyard-Nicodeme et al., 2015; Torralbo et al., 2015). However,
+from an extensive review of the international scientiﬁc literature,
+few reports were found on the occurrence and antimicrobial
+resistance of Campylobacter in chicken carcasses in China (Chen
+et al., 2010; Ma et al., 2014). Moreover, it is still less-known for
+the distribution of resistance determinants among Campylobacter
+isolates in China. While there were several studies describing the
+prevalence of C. jejuni and C. coli isolates from chickens, few have
+investigated the genotypes of the isolates from slaughter (Ma et al.,
+2014).
+
+This study aims to determine the prevalence of Campylobacter
+spp. in the processing of broiler slaughter, examine the resistance to
+several antimicrobials and characterize the common mechanisms
+of resistance to ﬂuoroquinolone, macrolide and tetracycline among
+the isolates. In addition, PFGE was performed to explore the di-
+versity and links of Campylobacter species within the slaughter
+processing.
+
+2. Materials and methods
+
+2.1. Collection of samples
+
+The investigation was conducted at one slaughterhouse from
+April 2012 to March 2013 in a vertically-integrated commercial
+poultry production continuum in Sichuan Province, China, in which
+more than 30 million broiler chickens were reared, slaughtered and
+sold per year. A total of 451 broiler cecal samples (one from each
+
+162
+
+X. Han et al. / Food Control 69 (2016) 160e170
+
+broiler), representing samples of broiler at the farm level, were
+collected after evisceration. One hundred samples were collected
+by aseptically swabbing on the surface of the carcasses at the
+evisceration stage, and one hundred samples were sampled by
+swabbing on the surface of the carcass parts at the cut-up stage.
+Then the swabs were immediately put into 3 ml of selective Bolton
+broth containing 5% of fresh sterile deﬁdrinated sheep blood. All of
+the samples were transported to the laboratory on ice within 3 h of
+collection and were analyzed as soon as possible.
+
+2.2.
+
+Isolation and identiﬁcation of Campylobacter
+
+For each cecal sample or selective enrichment broth, a loopful of
+fecal material was directly streaked onto modiﬁed Skirrow agar
+plate (Sigma, St. Louis, MO, USA) containing 5% fresh sterile sheep
+blood and Campylobacter supplement Ⅲ (Sigma), and then incu-
+bated at 42 C in a microaerophilic (5%O2, 10%CO2 and 85%N2)
+chamber for 48e72 h. One presumptive Campylobacter colony from
+each selective agar plate was subcultured and identiﬁcation was
+performed using standard microbiological and biochemical pro-
+cedures including Gram staining, production of catalase, oxidase
+according to ISO 10272-1:2006. The bacteria isolates that showed
+typical growth on mCCDA, were gram negative, had corkscrew-like
+darting motility, were oxidase positive and did not show growth at
+41.5 ± 0.5 C in aerobic conditions or at 25 C in microaerobic
+conditions, were considered as Campylobacter spp.
+
+2.3. DNA extraction and multiplex PCR identiﬁcation
+
+For each positive plate, up to three presumptive Campylobacter
+colonies were selected for further identiﬁcation using multiplex
+PCR (m-PCR). Campylobacter chromosomal DNA was extracted us-
+ing a MiniBEST Bacteria Genomic DNA Extraction Kit (Takara,
+Japan). PCR were conducted with three sets of primers (Table 1)
+speciﬁc for the simultaneous detection of the C. jejuni (the hipO
+gene target), C. coli (ceuE gene) and Campylobacter-speciﬁc 16S
+rRNA gene (positive control). The primers for identiﬁcation of hipO
+gene in this work were designed by Oligo 6.0 software. PCR was
+performed in a 25 mL mixture containing 2  PCR Mix 12.5 mL
+(Takara), DNA template 1.0 mL and a ﬁnal concentration of 0.8 mmol/
+L 16S rRNA primers, 0.4 mmol/L hipO primers and 0.2 mmol/L ceuE
+primers. Ampliﬁcation reactions were carried out using a DNA
+thermal cycler (C1000, Bio-rad, USA) with the following program:
+one cycle of 10 min at 95 C, 30 cycles each consisting of 30 s at
+95 C, 1 min and 30 s at 56 C, 1 min at 72 C and a ﬁnal extension
+step of 10 min at 72 C. Reference strains of C. jejuni (ATCC 33560)
+and C. coli (ATCC 33559) were used as positive controls and sterile
+distilled water was used as no template control (NTC). The PCR
+products were stained with 1% ethidium bromide and visualized
+under UV light after gel electrophoresis on 1.5% agarose gel. Where
+isolates from the same sample, only one of the isolates that
+belonged to the same species was selected for the subsequent
+analysis. All conﬁrmed isolates were stored at  80 C in Brain Heart
+Infusion (BHI) broth (Hangwei, Hangzhou, China) containing 20%
+glycerol.
+
+2.4. Antimicrobial susceptibility testing
+
+Antimicrobial susceptibility testing was performed by a stan-
+dard agar dilution method in Muller-Hinton agar supplemented
+with 5% sheep blood, as described by the Clinical and Laboratory
+Standards Institute (CLSI, 2010). The agar plates were incubated at
+42 C for 24 h under a microaerophilic atmosphere. The following
+antimicrobial agents were used: levoﬂoxacin (LEV), ciproﬂoxacin
+(CIP), streptomycin (STR), gentamicin (GEN), ﬂorfenicol (FLO),
+tetracycline (TET), clindamycin (CLI) and erythromycin (EM). All the
+antimicrobial agents were obtained from China Institute of Veter-
+inary Drug Control (Beijing, China). C. jejuni ATCC33560 was used as
+the quality control organism.
+The breakpoint value for erythromycin, ciproﬂoxacin, and
+tetracycline used in this study was determined as 32 mg/mL, 4 mg/
+mL and 16 mg/mL, respectively, according to Clinical and Laboratory
+Standards Institute (CLSI, 2010). For clindamycin, the susceptibility
+breakpoint (MIC, 8 mg/L) of the National Antimicrobial Resistance
+Monitoring System (NARMS) were used (http://www.cdc.gov/
+narms/). Since there is no breakpoint criteria for gentamicin and
+levoﬂoxacin for Campylobacter according to CLSI, the breakpoint
+value for gentamicin and levoﬂoxacin used in this study was that
+the MIC  16 mg/mL and 8 mg/mL for Enterobacteriaceae (CLSI, 2012).
+The breakpoint value for streptomycin and ﬂorfenicol were set as
+MIC  16 mg/mL and 32 mg/mL according to previous publications
+(Sahin et al., 2008; Zhang et al., 2014). Multidrug resistance was
+deﬁned as
+classes of
+antimicrobials.
+
+resistance to three or more (3)
+
+2.5.
+
+Integron analysis
+A random collection (n ¼ 146) of MDR Campylobacter isolates
+were investigated for the presence of class 1 integrons, genetic
+elements associated with the dissemination of antimicrobial
+resistance by PCR as described before (Table 2) (Ekkapobyotin et al.,
+2008). Each isolate was analyzed for the presence of gene cassettes
+associated with class 1 integron structures using a PCR assay
+described by the reference with modiﬁcations (Levesque et al.,
+2005). Generally, PCR assays were carried out in a ﬁnal volume of
+25 mL using 2  long Taq PCR MasterMix kit (Takara, Japan) ac-
+cording to the manufacturer's instructions in a C1000 Thermal
+Cycler (Bio-Rad, USA).
+Speciﬁc amplicons of gene cassettes fragments (n ¼ 20) were gel
+puriﬁed using QIAQuick Gel Extraction kit (Qiagen, Germany) and
+submitted for DNA sequencing (Takara, Japan). Then the resulting
+DNA sequences were compared with the GenBank Database using
+the Blast algorithm available at the National Center for Biotech-
+nology Information (NCBI) website (www.ncbi.nlm.nih.gov).
+
+2.6. Detection of tetO gene, analysis of mutations in 23S rRNA and
+QRDRs of gyrA gene
+
+PCR ampliﬁcation of tetO gene, 23S rRNA and the QRDRs of gyrA
+gene were performed using the primers listed in Table 2. For the
+ampliﬁcation of tetO gene, the PCR mixture was subjected to the
+
+Table 1
+PCR primers used for identiﬁcation of Campylobacter spp.
+
+Organism
+
+Campylobacter spp.
+
+C. jejuni
+
+C. coli
+
+Primer
+
+16S rRNA
+
+hipO
+
+ceuE
+
+Sequence (50/30)
+F: TCTAATGGCTTAACCATTAAAC
+R: GGACGGTAACTAGTTTAGTATT
+F: TGATGGCTTCTTCGGATAG
+R: CTAGCTTCGCATAATAACTTG
+F: ATTGAAAATTGCTCCAACTATG
+R: GATTTTATTATTTGTAGCAGCG
+
+Amplicon length (bp)
+
+Reference
+
+857
+
+600
+
+462
+
+(Denis et al., 1999)
+
+This study
+
+(Denis et al., 1999)
+
+X. Han et al. / Food Control 69 (2016) 160e170
+
+163
+
+Table 2
+Target genes, primers and annealing temperatures used for detection of integron, linked gene cassettes and resistance determinant genes.
+
+Target gene
+
+Integron 1
+
+Gene cassette
+
+tetO
+
+23S rRNA
+
+gyrA
+
+Primer sequences (50-30)
+Int1L-F: CAGGAGATCGGA AGACCT
+Int1L-R: TTGCAA ACCCTCACTGAT
+CS-F: GGCATCCAAGCAGCAAGC
+CS-R: AAGCAGACTTGACCTGAT
+tetO-F: GGCGTTTTGTTTATGTGCG
+tetO-R: ATGGACAACCCGACAGAAGC
+23SRNA-F: TTAGCTAATGTTGCCCGTACCG
+23SRNA-R: AGCCAACCTTTGTAAGCCTCCG
+ERY2075-R: TAGTAAAGGTCCACGGGGTCGC
+gyrA-F1: TTTTTAGCAAAGATTCTGAT
+gyrA-R1: CAAAGCATCATAAACTGCAA
+gyrA-R2: CAGTATAACGCATCGCAG
+
+Temperature (C)
+60
+
+Amplicon size (bp)
+
+Reference
+
+150
+
+(Ekkapobyotin et al., 2008)
+
+55
+
+55
+
+50
+
+49
+
+Varied length
+
+(Levesque et al., 2005)
+
+559
+
+697
+485
+
+265
+368
+
+(Gibreel et al., 2004)
+
+(Alonso et al., 2005)
+
+(Zirnstein et al., 1999)
+
+following thermal cycles: one cycle at 95 C for 5 min; 30 cycles of
+95 C for 45s, 55 C for 45s, and extension at 72 C for 1 min; and a
+ﬁnal extension at 72 C for 5min. For ampliﬁcation of 23S rRNA, the
+PCR conditions were according to the reference (Alonso et al., 2005)
+with modiﬁcations. The conserved forward primer 23SRNA-F was
+used in conjunction with the reverse mutation primer ERY2075 to
+detect A2075G mutation. In each reaction, an amplicon of 485bp
+could be expected, when the isolate carried the corresponding
+mutation. The annealing and extension conditions were changed to
+55 C for 30s and 72 C for 45s. Meanwhile, a fragment from 23S
+rRNA gene of C. jejuni and C. coli was used in this assay to generate a
+697 bp amplicon for DNA sequencing. Finally, the ampliﬁed PCR
+products were visualized by electrophoresis in a 2% agarose gel
+stained with ethidium bromide (2 mg/mL). In order to conﬁrm the
+mutation associated with resistance, the PCR products of the 23S
+rRNA were analyzed by DNA sequencing (Takara, Japan). Two C. coli
+isolates and two C.
+jejuni susceptible to erythromycin were
+included as controls.
+
+The detection of QRDR mutation was performed using mis-
+matched ampliﬁcation mutation assay (MAMA) PCR described by
+previous study (Zirnstein et al., 1999) with modiﬁcations. The PCR
+system was as following, a conserved forward primer (gyrAF1) was
+used in conjunction with the mutation primer (gyrAR1) to generate
+a 265 bp PCR product that was a positive indication of the presence
+of the Thr-86-Ile (ACA/ATA) mutation in the gyrA gene, and in
+parallel with a conserved reverse primer (gyrAR2) to produce a
+positive PCR control product of 368 bp with any Campylobacter gyrA
+gene. PCR conditions were as follows: initial denaturation was at
+95 C for 30s, 49 C for 30s, and 72 C for 30s. Ten-microliter ali-
+quots of each product were loaded onto horizontal, 2.0%, 0.5 Tris-
+borate-EDTA agarose gels and were stained with ethidium bro-
+mide for analysis after electrophoresis. Furthermore, the 265bp-
+sized DNA amplicons (n ¼ 10) were submitted for DNA sequencing
+(Takara,
+Japan) and the resulting DNA sequence data were
+compared with the published DNA sequences of C. jejuni and C. coli
+for gyrA corresponding area. Two C. coli isolates and two C. jejuni
+susceptible to ciproﬂoxacin were included as controls.
+
+buffer. Electrophoresis was performed in a CHEF-DR III system (Bio-
+Rad Laboratories), with initial switch time of 6.76 s; ﬁnal switch
+time of 38.35 s; 120angle; 6.0 V/cm gradient; at 14 C; running for
+19 h. After electrophoresis, gels were stained in a 40 mg/mL solution
+of ethidium bromide for 30 min and then washed with distilled
+water. Gels'
+images were visualized and captured with a UV
+transilluminator (Gel Doc XR, Bio-Rad).
+
+2.8. Statistical analysis
+
+PFGE results were analyzed using the BioNumerics software
+version 3.0 (Applied Maths), the banding patterns were clustered
+using Dice coefﬁcients with a 1.0% band position tolerance and 1.0%
+optimization. The unweighted pair-group method using arithmetic
+averages (UPGMA) was used to cluster patterns. Isolates with less
+than 85% similarity according to the dendrogram were clustered as
+separate genotypes.
+
+3. Results
+
+3.1. Occurrence of Campylobacter species
+
+Out of 651 samples from slaughter processing, 333 (51.2%) were
+presumed as positive for Campylobacter spp. according to the
+phenotype tests. The isolates were further conﬁrmed by m-PCR and
+the results indicated that C. jejuni was the predominant species
+(24.6%, n ¼ 160), followed by C. coli (20.0%, n ¼ 130). Eleven isolates
+could not be differentiated further. A total of 253 Campylobacter
+isolates were obtained from cecal samples, including 156 were
+positive for C. jejuni and 87 for C. coli. In addition, there were 12
+cecal samples which were simultaneously positive for both C. jejuni
+and C. coli. For the 100 samples from carcasses surface after evis-
+ceration, 31 (31%) samples were positive for Campylobacter spp.,
+among which 4 and 26 were identiﬁed as C. jejuni or C. coli,
+respectively (Table 3). Among 100 samples from carcass parts, 17
+(17%) were identiﬁed as positive for C. coli, none was identiﬁed as
+positive for C. jejuni.
+
+2.7. PFGE typing
+
+3.2. Antimicrobial susceptibility
+
+Pulsed-ﬁeld gel electrophoresis (PFGE) was performed to
+generate genomic DNA ﬁngerprinting proﬁles of C. jejuni and C. coli
+isolates using SmaI (Takara, Japan) according to the procedures
+developed by the Centers for Diseases Control and Prevention (CDC,
+http://www.cdc.gov/pulsenet/pathogens/campylobacter.html).
+Meanwhile, Salmonella H9812 as the reference marker (digested
+with XbaI). Agarose embedded DNA was digested for 2 h at 25 C
+with 40 U of SmaI. Resulting restriction fragments of Campylobacter
+isolates were separated by PFGE in 1% agarose gels with 0.5  TBE
+
+The results of antimicrobial susceptibility testing performed on
+the 160 C. jejuni and 130 C. coli isolates are presented in Table 4. For
+C. jejuni, resistance to CIP was the most common ﬁnding (88.1%),
+followed by resistance to TET (79.4%) and LEV (78.1%), to a less
+extent to FLO (16.3%). As for C. coli, most of the isolates were
+resistant to CIP (100%), followed by resistance to TET (98.5%), LEV
+(98.5%), CLI (98.5%) and EM (93.9%); few strains were resistant to
+STR (17.8%) and FLO (8.5%).
+
+Overall, all of 290 Campylobacter isolates (100%) were resistant
+
+164
+
+X. Han et al. / Food Control 69 (2016) 160e170
+
+Table 3
+Occurrence of Campylobacter species isolated from ceca, carcasses and carcass parts in the slaughterhouse.
+
+Sources of samples
+
+No. (%) of isolates
+
+Cecal samples
+Carcasses
+Carcass parts
+Total
+
+C. jejuni
+
+34.6% (156/451)
+4.0% (4/100)
+0 (0/100)
+
+24.6% (160/651)
+
+C. coli
+
+19.3% (87/451)
+26.0% (26/100)
+17.0% (17/100)
+20.0% (130/651)
+
+C. jejuni þ C. coli
+2.7% (12/451)
+0.4% (2/451)
+0 (0%100)
+3.1% (14/451)
+
+Campylobacter positive no.
+
+56.1% (253/451)
+31.0% (31/100)
+17.0% (17/100)
+
+to one or more antimicrobial agent. As many as two isolates (0.7%)
+were resistant to only one antimicrobial agent tested and 16 iso-
+lates (5.5%) showed resistance to two antimicrobial agents. Multi-
+drug resistance which was deﬁned as resistance to three or more
+drugs was found in 272 strains (93.8%) of Campylobacter isolates
+(Table 5). Moreover, 91.3% (146/160) of the C. jejuni isolates were
+MDR strains, which were mainly resistant to 3e6 kinds of antimi-
+crobial agents (12.64%, 13.95%, 97% and 9.30%, respectively). By
+contrast, MDR strains occupied 99.2% (129/130) of the C. coli iso-
+lates, which mainly showed resistance to 6 (32.23%) or 7 kinds
+(7.97%) of drugs.
+
+3.3. Class 1 integron and relevant gene cassettes for Campylobacter
+spp. isolates
+
+72
+
+isolates
+
+produced
+
+Consequently,
+
+Totally 146 MDR Campylobacter isolates were screened for the
+presence of class 1 integrons. As a result, class 1 integrons were
+found in 144 isolates (98.6%) among which 98.7% (77/78) were
+positive for C. jejuni and 98.5% (67/68) for C. coli isolates. Addi-
+tionally, all the intl1-positive strains were assayed for the presence
+of gene cassettes linked to class 1 integrons. The results indicated
+that 3 kinds of gene cassettes-associated amplicons were gener-
+ated.
+of
+1000e750e500e250 bp, which was the predominant pattern.
+Besides, 3 isolates produced amplicons of 1000e750 bp, and 3
+isolates produced an amplicon of 1000-bp (Table 6). Since the
+average size of a bacterial coding sequence is at least 800 bp,
+amplicons of 1.0 kb from 20 randomly selected isolates were pur-
+sued with further investigation, on the basis that these were more
+likely to contain a complete ORF corresponding to a potential gene.
+As a result, nucleotide sequencing and BLAST searches with larger
+ORF identiﬁed it as an aadA2-encoding aminoglycoside adenyl-
+transferase associated with the aminoglycoside resistance.
+
+amplicons
+
+3.4. Occurrence of tetO gene
+
+In the screening of tetracycline resistance genes among the
+isolates
+
+isolates, 94.6% (123/130) of
+
+tetracycline resistant
+
+Table 4
+Prevalence of antimicrobial resistance in Campylobacter isolates from chicken
+slaughtering process.
+
+Antimicrobial agents
+
+LEV
+CIP
+STR
+GEN
+FLO
+TET
+CLI
+EM
+
+Antimicrobial resistance rates of tested
+Campylobacter isolates % (n)a
+C. jejuni % (N ¼ 160)b
+78.1% (125)
+88.1 (141)
+43.8% (70)
+47.5% (76)
+16.3% (26)
+79.4% (127)
+68.1% (109)
+14.3% (23)
+
+C. coli % (N ¼ 130)b
+98.5% (128)
+100% (130)
+17.8% (23)
+90.8% (118)
+8.5% (11)
+98.5% (128)
+98.5% (128)
+93.9% (122)
+
+a n, the number of resistant Campylobacter isolates.
+b N, the number of Campylobacter isolates tested.
+
+(MIC  16) were positive for the carriage of tetO gene, but none of
+tetracycline-susceptible isolates did. The possession of tetO gene
+was found in 96.6% (57/59) of C. jejuni and 94.1% (64/68) of C. coli
+isolates, respectively.
+
+3.5. Mutations within 23S rRNA
+
+The conserved forward primer 23SRNA-F was used in conjunc-
+tion with the reverse mutation primer ERY2075-R to detect the
+A2075G mutation. An amplicon of 485 bp could be expected, when
+the isolates carried the corresponding mutation. Otherwise, the
+amplicon would not be acquired in wild-type strains because the
+last base in the 30 end of 23SRNA-R primer was not matching efﬁ-
+ciently with the corresponding position of wild-type strains. PCR
+ampliﬁcation and nucleotide sequences analysis of 23S rRNA was
+performed in erythromycin-resistant isolates to detect mutations
+associated with resistance to macrolides, and the results indicated
+that 96.4% of erythromycin-resistant strains possessed A2075G
+mutation in the V domain of 23S rRNA sequences. The presences of
+this mutation were detected in 95.0% of C. jejuni and in 96.7% of C.
+coli, respectively. No such mutation was observed in 23S rRNA of
+the erythromycin-sensitive control.
+
+3.6. Mutations within the QRDR of gyrA gene
+
+An examination of the gyrA DNA mutation in QRDR using MAMA
+PCR is convenient for the determination of the presence or absence
+of amino acid mutations in the QRDR. Isolates with the wild-type
+amino acid 86 codon (ACA, ciproﬂoxacin susceptible) were not
+ampliﬁed with the reverse mutation primer gyrAR1, whereas the
+isolates with the mutated amino acid 86 codon (ATA, ciproﬂoxacin
+resistant) generated a 265-bp PCR product with the gyrAR1 reverse
+mutation primer and the gyrAF1 forward conserved primer
+(Table 3). Conserved primers gyrAF1 and gyrAR2 generated a 368-
+bp gyrA PCR product with DNA isolated from all of the isolates in
+this study. Replacement of C256 with T leading to a Thr-86-Ile
+substitution in gyrA was the most common mutation, 93.1% (135/
+145) of ciproﬂoxacin-resistant Campylobacter isolates had a sub-
+stitution at amino acid position 86 of the gyrA protein due to a
+mutation of the DNA codon from ACA (threonine) to ATA (isoleu-
+cine). Totally, 97.3% (71/73) of C. jejuni isolates and 89.7% (61/68) of
+C. coli isolates possessed a Thr-86-Ile substitution in gyrA, however
+mutation of Thr-86-Ile was not found in ciproﬂoxacin sensitive
+Campylobcter strains. From DNA sequences analysis, 2 point mu-
+tations in gyrA were also identiﬁed in some isolates, which i.e. T-
+243-C and T-320-C were silent mutations.
+
+3.7. PFGE patterns of Campylobacter isolates
+
+A total of 78 C. jejuni and 68 C. coli isolates, representing isolates
+of different origins, species, resistance patterns and resistance de-
+terminants were selected for PFGE analysis after digestion by SmaI.
+As a result, 33 PFGE proﬁles were generated among 78 isolates
+of C. jejuni. The patterns consisted of 6e16 distinct fragments
+
+Table 5
+Antimicrobial resistant proﬁles of Campylobacter jejuni and C. coli from chicken slaughtering process.
+
+X. Han et al. / Food Control 69 (2016) 160e170
+
+165
+
+No. of antimicrobials (Classes)
+
+Resistance patterns
+
+1 (1)
+2 (2)
+2 (3)
+2 (4)
+2 (5)
+2 (6)
+3 (7)
+3 (8)
+3 (9)
+3 (10)
+3 (11)
+3 (12)
+3 (13)
+3 (14)
+3 (15)
+3 (16)
+3 (17)
+3 (18)
+4 (19)
+4 (20)
+4 (21)
+4 (22)
+4 (23)
+4 (24)
+4 (25)
+4 (26)
+4 (27)
+4 (28)
+4 (29)
+4 (30)
+4 (31)
+5 (32)
+5 (33)
+5 (34)
+5 (35)
+5 (36)
+5 (37)
+5 (38)
+5 (39)
+5 (40)
+6 (41)
+6 (42)
+6 (43)
+6 (44)
+6 (45)
+6 (46)
+6 (47)
+7 (48)
+7 (49)
+7 (50)
+7 (51)
+8(52)
+
+LEV
+TET CLI
+STR TET
+CIP CLI
+CIP GEN
+CIP LEV
+STR CLI EM
+GEN TET CLI
+LEV TET CLI
+LEV GEN STR
+CIP CLI EM
+CIP TET CLI
+CIP STR TET
+CIP GEN CLI
+CIP GEN STR
+CIP LEV CLI
+CIP LEV TET
+CIP LEV GEN
+GEN STR TET EM
+GEN STR TET CLI
+LEV TET CLI EM
+LEV GEN STR CLI
+LEV GEN STR TET
+CIP GEN STR CLI
+CIP GEN STR TET
+CIP LEV TET FLO
+CIP LEV TET CLI
+CIP LEV STR CLI
+CIP LEV GEN CLI
+CIP LEV GEN TET
+CIP LEV GEN STR
+LEV GEN STR TET CLI
+CIP GEN TET CLI EM
+CIP GEN STR TET CLI
+CIP LEV TET CLI FLO
+CIP LEV TET CLI EM
+CIP LEV STR TET CLI
+CIP LEV GEN TET CLI
+CIP LEV GEN STR CLI
+CIP LEV GEN STR TET
+CIP LEV TET CLI EM FLO
+CIP GEN STR TET CLI FLO
+CIP LEV STR TET CLI FLO
+CIP LEV GEN TET CLI EM
+CIP LEV GEN STR TET EM
+CIP LEV GEN STR TET CLI
+CIP GEN STR TET CLI EM
+LEV GEN STR TET CLI EM FLO
+CIP LEV GEN STR TET CLI FLO
+CIP LEV GEN TET CLI EM FLO
+CIP LEV GEN STR TET CLI EM
+CIP LEV GEN STR TET CLI EM FLO
+
+Cecal samples (n ¼ 243)
+2
+4
+2
+1
+4
+5
+1
+1
+1
+1
+1
+2
+1
+3
+5
+1
+21
+1
+1
+1
+1
+2
+2
+1
+4
+2
+23
+1
+1
+1
+5
+1
+1
+1
+7
+4
+6
+3
+1
+2
+1
+1
+3
+62
+1
+14
+1
+1
+7
+1
+19
+4
+
+Carcasses (n ¼ 30)
+
+Carcass parts (n ¼ 17)
+
+1
+
+3
+
+2
+
+1
+19
+
+1
+1
+2
+
+14
+
+3
+
+Table 6
+Patterns of gene cassettes of Campylobacter isolates from chicken slaughtering process.
+
+Gene cassettes pattern
+
+Amplicons
+
+Isolates types and no. (n)
+
+Isolates origin and no. (n)
+
+Pattern I
+PatternⅡ
+Pattern Ⅲ
+
+1000 bp
+1000e750 bp
+1000e750e500e250 bp
+
+C. jejuni (3)
+C. jejuni (3)
+C. jejuni (7), C. coli (65)
+
+JF (3)
+JF (3)
+JF (27), JH (28), JR (17)
+
+JF, cecal samples; JH, carcasses after evisceration; JR, carcasses after dissection. n, number of Campylobacter isolates.
+
+ranging in size from less than 20.5 kbe668.9 kb after SmaI diges-
+tion. The dendrogram, obtained from numerical analysis of macro-
+restriction patterns of C. jejuni isolates, is shown in Fig. 1. The
+similarity level of the C. jejuni isolates varied from 42.1% to 99.1%.
+We could identify three large clusters at the similarity level above
+50%. The ﬁrst cluster contained pattern 1 to 3 with 4 isolates, which
+shared a similarity level of 56.1%. The second cluster was identiﬁed
+
+with pattern 4 to 32 including 73 isolates, which occupied 93.6% of
+the isolates; the similarity level among them was 58.4%. Lastly, the
+third cluster was pattern 33 with only one isolates.
+
+The C. jejuni isolates were grouped into 19 unique PFGE patterns
+(PFGE patterns represented by a single strain) and 14 clusters (PFGE
+pattern represented by multiple strains). Among 78 C. jejuni isolates
+available, 74 isolates were recovered from cecal samples, only 4
+
+166
+
+X. Han et al. / Food Control 69 (2016) 160e170
+
+Pearson correlation (Opt:1.00%) [0.0%-100.0%]
+
+PFGE
+
+PFGE
+
+Strains 
+
+Genotypes 
+
+AMR patterns 
+
+0
+5
+
+0
+0
+1
+
+Resistance determinants 
+
+A          B              C          D          E 
+
+13-JF74
+12-JF20
+12-JF109
+12-JF59
+13-JF65
+13-JF63
+12-JF79
+JF-74
+12-JF17
+12-JF26
+12-JF52
+12-JF148
+12-JF174
+12-JF138
+12-JF122
+12-JF152
+12-JF68
+12-JF164
+13-JF64
+12-JF108
+13-JF93
+12-JF168
+12-JF150
+12-JF65
+12-JF153
+13-JF61
+12-JF22
+13-JF69
+12-JF165
+1-14
+12-JF163
+12-JF156
+12-JF119
+12-JF185
+13-JF80
+1-9
+1-11
+12-JF16
+12-JF183
+12-JF161
+12-JF187
+12-JF126
+12-JF154
+12-JF135
+12-JF110
+12-JF134
+12-JF136
+12-JF175
+12-JF189
+12-JF177
+13-JF62
+12-JF129
+12-JF128
+12-JF143
+12-JF178
+12-JF186
+12-JF182
+12-JF181
+12-JF139
+12-JF53
+12-JF137
+12-JF142
+12-JF112
+13-JF60
+12-JF21
+12-JF170
+1-5
+12-JF97
+12-JF123
+12-JF125
+12-JF57
+12-JF176
+12-JF7
+12-JF140
+12-JF132
+12-JF169
+12-JF2
+12-JF19
+
+1 JF-CJ
+2 JF-CJ
+3 JF-CJ
+3 JF-CJ
+4 JF-CJ
+4 JF-CJ
+5 JF-CJ
+6 JF-CJ
+7 JF-CJ
+7 JF-CJ
+7 JF-CJ
+7 JF-CJ
+7 JF-CJ
+7 JF-CJ
+7 JF-CJ
+8 JF-CJ
+9 JF-CJ
+10 JF-CJ
+11 JF-CJ
+11 JF-CJ
+11 JF-CJ
+11 JF-CJ
+11 JF-CJ
+12 JF-CJ
+13 JF-CJ
+14 JF-CJ
+14 JF-CJ
+14 JF-CJ
+15 JF-CJ
+15 JH-CJ
+15 JF-CJ
+15 JF-CJ
+16 JF-CJ
+17 JF-CJ
+18 JF-CJ
+19 JH-CJ
+19 JH-CJ
+19 JF-CJ
+19 JF-CJ
+20 JF-CJ
+20 JF-CJ
+20 JF-CJ
+20 JF-CJ
+21 JF-CJ
+21 JF-CJ
+22 JF-CJ
+23 JF-CJ
+24 JF-CJ
+24 JF-CJ
+24 JF-CJ
+24 JF-CJ
+24 JF-CJ
+24 JF-CJ
+24 JF-CJ
+25 JF-CJ
+25 JF-CJ
+25 JF-CJ
+25 JF-CJ
+25 JF-CJ
+25 JF-CJ
+25 JF-CJ
+25 JF-CJ
+26 JF-CJ
+26 JF-CJ
+27 JF-CJ
+28 JF-CJ
+28 JH-CJ
+28 JF-CJ
+28 JF-CJ
+28 JF-CJ
+29 JF-CJ
+30 JF-CJ
+31 JF-CJ
+31 JF-CJ
+31 JF-CJ
+31 JF-CJ
+32 JF-CJ
+33 JF-CJ
+
+CIP LEV GEN TET CLI EM
+LEV GEN STR TET CLI  EM FLO
+CIP LEV STR TET CLI FLO
+CIP LEV TET CLI EM
+CIP LEV TET CLI
+CIP LEV TET CLI EM FLO
+CIP LEV TET CLI FLO
+CIP LEV STR TET CLI
+CIP LEV TET CLI EM
+CIP LEV TET FLO
+CIP TET CLI
+CIP LEV GEN TET CLI 
+CIP GEN STR CLI
+LEV TET CLI EM
+CIP LEV TET 
+CIP LEV GEN STR TET CLI 
+CIP LEV STR TET CLI FLO
+CIP LEV GEN STR TET  
+CIP LEV GEN STR TET CLI EM  FLO
+CIP LEV STR TET CLI
+CIP LEV GEN TET CLI EM
+CIP STR TET
+CIP LEV TET CLI
+CIP LEV STR TET CLI FLO
+CIP LEV GEN CLI
+CIP LEV GEN STR TET CLI  EM FLO
+CIP LEV GEN STR TET CLI  FLO
+CIP LEV GEN STR TET CLI  EM
+GEN STR TET EM
+CIP LEV STR TET CLI FLO
+CIP LEV TET
+CIP LEV EM
+CIP LEV GEN STR  TET CLI FLO
+CIP LEV GEN STR TET CLI 
+CIP LEV GEN STR TET CLI EM 
+CIP LEV TET CLI FLO
+CIP LEV GEN STR  TET CLI EM FLO
+CIP LEV GEN TET CLI EM
+CIP LEV GEN STR TET EM
+CIP GEN CLI
+CIP GEN CLI
+GEN STR TET CLI
+CIP GEN CLI
+LEV GEN STR CLI
+CIP LEV STR CLI
+CIP GEN STR
+LEV GEN STR TET
+CIP LEV TET
+CIP LEV GEN STR TET CLI
+CIP GEN STR TET CLI
+CIP LEV GEN STR TET CLI  EM FLO
+CIP LEV GEN
+CIP LEV GEN STR CLI
+CIP LEV GEN STR TET CLI  FLO
+CIP GEN STR TET CLI FLO
+CIP LEV GEN STR TET CLI
+CIP GEN STR
+CIP LEV GEN STR
+LEV GEN STR
+CIP LEV TET CLI EM 
+LEV GEN STR CLI
+CIP LEV GEN STR TET
+CIP LEV CLI
+----
+CIP LEV TET FLO
+CIP GEN STR TET 
+CIP LEV TET CLI FLO
+STR CLI EM
+CIP LEV TET CLI FLO
+GEN TET CLI
+CIP TET CLI
+CIP GEN TET CLI EM
+CIP LEV TET CLI
+CIP LEV GEN STR
+CIP LEV GEN TET
+LEV GEN STR TET
+CIP LEV TET CLI
+LEV TET CLI
+
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+-
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
+-
+-
+-
+-
+-
+-
+-
+aadA2
+aadA2
+aadA2
+aadA2
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+aadA2
+-
+-
+aadA2
+-
+-
+-
+-
+-
+-
+-
+aadA2
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+aadA2
+-
+-
+-
+-
+aadA2
+-
+aadA2
+-
+-
+-
+aadA2
+-
+aadA2
+-
+-
+-
+-
+aadA2
+
++
+-
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+-
++
++
++
+-
++
++
++
++
++
++
++
++
++
+-
+
+-
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+-
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+-
++
++
++
++
++
++
++
++
++
++
++
++
+-
++
+
++
++
+-
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+-
++
++
++
++
++
++
+-
++
++
++
++
+-
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+-
++
++
++
++
++
++
++
+-
++
++
++
++
++
++
+
+Fig. 1. Dendrogram of SmaI PFGE types, antimicrobial resistance (AMR) patterns and determinant mutations of C. jejuni isolates recovered from cecal samples, carcasses at the
+slaughterhouse. 1e33, PFGE patterns. JF, cecal samples; JH, carcasses. A, integron1; B, gene cassettes; C, gyrA; D, tetO; E, 23S rRNA. þ, positive;  , negative. CIP, ciproﬂoxacin; STR,
+streptomycin; GEN, gentamicin; FLO, ﬂorfenicol; TET, tetracycline; CLI, clindamycin; EM, erythromycin; LEV, levoﬂoxacin.
+
+X. Han et al. / Food Control 69 (2016) 160e170
+
+167
+
+isolates were from carcasses. High genotype diversity was pre-
+sented among 74 isolates of C. jejuni from cecal samples, which
+revealed that the isolates were from a variety of ﬂocks. On the other
+hand, the isolates with identical genotypes may originate from
+different sources, such as strains of 12-JF165 and 1e14 in pattern 15,
+isolates in pattern 19 and 28, which indicated that strains may
+circulate from feces to the carcasses or environment.
+
+The most common one, pattern 25-CJ, was highlighted for 8
+isolates showing different antimicrobial resistant types. Besides,
+the 24-CJ PFGE proﬁle (7 isolates) was very similar to the ﬁrst one
+(80.1% of similarity). Moreover, the third PFGE proﬁle (7-CJ) shared
+by 7 isolates was clearly different from the two others. The analysis
+of the relatedness of the C. jejuni strains showed a poor correlation
+among PFGE proﬁles, antimicrobial resistance and determinant
+patterns. Generally, isolates with the same genetic resistance pat-
+terns belonged to different PFGE types and resistance patterns. On
+the other hand, 2 strains of C. jejuni (12-JF161 and 12-JF187) with
+identical genetic proﬁle displayed the same PFGE type and anti-
+microbial resistance proﬁle.
+
+In contrast to C. jejuni, 15 PFGE patterns were produced among
+68 C. coli isolates sharing a similarity level of 54.0%e99.7%, and each
+isolate yielded 7 to 14 distinct restriction fragments which varied
+from 20.5 kb to 668.9 kb in size after SmaI digestion (Fig. 2). The C.
+coli isolates were subdivided into 8 unique PFGE patterns and 7
+clusters. Twenty six isolates from cecal samples generated 12 PFGE
+patterns, 25 isolates from carcasses produced 8 PFGE types and 17
+isolates from carcass parts were subdivided into 5 genotypes. It
+seemed that the C. coli isolates were more closely related than the C.
+jejuni isolates.
+
+PFGE pattern of 4-CC dominated the proﬁles, which occupied
+44.1% of the isolates, including 30 isolates recovered from cecal
+samples (13 isolates), carcasses (12 isolates) and carcass parts (5
+isolates). The majority of the isolates in pattern 4-CC showed an
+identical resistance type. The second predominant proﬁle was
+pattern 11-CC, which accounted for 12 isolates recovered from cecal
+samples (1 isolates), carcasses (3 isolates) and carcass parts (8
+isolates). All the isolates clustered in pattern 11 showed the same
+resistance type and resistant determinants.
+
+Compared with C. jejuni, there is a number of C. coli isolates
+showing good relatedness among the PFGE pattern, the resistance
+type and determinants, such as PFGE pattern 4-CC, 6-CC, 8-CC and
+11-CC, which showed that C. coli isolates belonging to the same
+genotype could be recovered from different origins. These results
+may suggest that a C. coli clone circulates in the slaughter pro-
+cessing, or that the SmaI is not discriminative enough for this strain.
+
+4. Discussion
+
+In the present study, the higher prevalence of C. jejuni in broiler
+chickens is contrary to the earlier ﬁndings conducted in Shanghai of
+China (Ma et al., 2014) and many reports from other countries
+including Reunion Island, Grenada and Spain (Hariharan, Sharma,
+Chikweto, Matthew, & DeAllie, 2009; Henry, Reichardt, Denis, &
+Cardinale, 2011; Torralbo et al., 2015), where C. coli was reported
+to be the predominant Campylobacter species in broiler chickens.
+It was also found that Campylobacter strains were most
+commonly resistant to ciproﬂoxacin (88.1% for C. jejuni and 100% for
+C. coli), tetracycline (79.4% for C. jejuni and 98.5% for C. coli) and to a
+less extent to levoﬂoxacin (78.1% for C. jejuni and 98.5% for C. coli).
+There was an obvious difference in the resistance to erythromycin
+between C. jejuni (14.3%) and C. coli (93.9%). Recent susceptibility
+studies on Campylobacter from poultry performed in different
+countries indicate substantial variation among countries. Relatively
+high resistance rates in Campylobacter isolates from chicken were
+reported from Spain (Torralbo et al., 2015) and Iran (Zendehbad,
+
+Khayatzadeh, & Alipour, 2015); moderate rates were reported
+from Greece (Economou et al., 2015) and Poland (Andrzejewska,
+Szczepanska, Spica, & Klawe, 2015), whereas limited occurrence
+of antimicrobial resistance among was reported from France
+(Guyard-Nicodeme et al., 2015) and Grenada (Hariharan et al.,
+2009). These differences on occurrences of antimicrobial resis-
+tance maybe reﬂect the different national and regional policies on
+the use of antimicrobial agents for food animals. Regarding China,
+ﬂuoroquinolones, tetracyclines, macrolides and aminoglycosides
+are widely adopted to treat and prevent bacterial diseases in
+poultry, and the extensive and indiscriminate use of antimicrobials
+in broiler production has resulted in the high prevalence of anti-
+microbial resistance among Campylobacter species, which imposed
+a selective pressure on the emergence and spread of resistant
+Campylobacter isolates.
+
+The 290 Campylobacter strains, among which all but two were
+resistant to two or more antimicrobial agents, exhibited 52 kinds of
+resistance patterns. Moreover, 272 of the 290 (93.8%) Campylo-
+bacter isolates exhibited multi-drug resistance, higher than ﬁgures
+reported from other countries, including Poland (Andrzejewska
+et al., 2015), Iran (Dallal et al., 2010), Ethiopia (Kassa, Gebre-
+Selassie, & Asrat, 2007) and France (Payot, Dridi, Laroche,
+Federighi, & Magras, 2004). The majority (32.8%, 95/290) of the
+strains were attributed to the resistance pattern of CIP-LEV-GEN-
+TET-CLI-EM and to a lesser extent of CIP-LEV-TET-CLI (8.3%, 24/
+290). Considering by species, multidrug resistance was more
+prevalent among C. coli (99.2%) than C. jejuni (91.3%), consistent
+with results reported by others (Ma et al., 2014). As a result, the
+selective pressure will often lead to the development of corre-
+sponding resistance determinants that facilitate evasion of the
+inhibitory substances.
+
+So far, little is known about the status of integrons and related
+gene cassettes of broiler-originated Campylobacter in China as well
+as the determinant markers responsible for resistance to ﬂuo-
+roquinolone, tetracycline and erythromycin. In the present study,
+we reported the investigation of a large random collection of MDR
+Campylobacter for the presence of class 1 integrons. Consequently,
+98.6% of the campylobacters possessed class 1 integrons, and 52.7%
+(78/148) of the isolates were positive for the corresponding gene
+cassettes. According to the results, three distinct amplicon proﬁles
+were conﬁrmed and 1000bp-sized amplicons were investigated in
+an attempt to identify any potential coding sequences. Seventy
+eight isolates were associated with this particular amplicon which
+were present in both C. jejuni (16.7%) and C. coli (83.3%) isolates.
+Interestingly, this group predominantly consisted of C. coli species
+(83.3%, 65/78) isolated from cecal samples and carcasses, which
+attach an interpretation for the higher prevalence of MDR C. coli.
+Characterization of the 1000bp amplicon in randomly selected
+isolates (n ¼ 20) independently accounted for highly similar aadA2-
+encoding gene cassettes from C. jejuni and C. coli. This ﬁnding
+demonstrates that identical class 1 integron structures are present
+in different members of the same genus, suggesting that genetic
+exchange may have occurred in the gastrointestinal environment
+and plays an important role in the horizontal dissemination of
+antimicrobial resistance among the bacteria. Furthermore, the
+presence of class 1 integrons in several Campylobacter isolates may
+partly contribute to the high levels of resistance to streptomycin
+and gentamycin.
+
+The presence of tetO gene was detected in 94.6% (123/130) of
+tetracycline-resistant Campylobacter isolates. The high occurrence
+of tetO genes in these isolates represents a potential high tetracy-
+cline resistance in Campylobacter isolates obtained from poultry in
+China, because the tetO gene is the most commonly reported
+determinant conferring resistance to tetracycline in the Campylo-
+bacter genus, and in many previous study, this gene was detected in
+
+168
+
+X. Han et al. / Food Control 69 (2016) 160e170
+
+Pearson correlation (Opt:1.00%) [0.0%-100.0%]
+
+PFGE
+
+PFGE
+
+0
+6
+
+0
+8
+
+0
+0
+1
+
+Strains 
+
+Genotypes 
+
+AMR patterns
+
+Resistance determinants 
+
+A            B              C              D          E 
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+-
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
+-
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+-
+aadA2
+-
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+aadA2
+
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+-
++
++
++
++
++
++
++
++
+-
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+-
++
+-
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+-
++
++
++
++
++
++
++
++
++
++
++
++
+-
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
+13-JF89
+12-JF4
+R11
+1-1
+1-28
+13-JF8
+R9
+13-JF14
+13-JF23
+13-JF13
+13-JF12
+1-21
+1-18
+13-JF2
+R16
+R5
+1-31
+1-30
+1-15
+1-12
+R15
+R17
+1-29
+1-25
+1-3
+1-27
+13-JF6
+1-24
+13-JF5
+13-JF1
+R14
+13-JF7
+13-JF16
+13-JF10
+13-JF11
+13-JF17
+1-26
+13-JF15
+1-23
+1-13
+1-19
+13-JF4
+1-16
+R7
+13-JF3
+1-6
+1-2
+1-7
+12-JF3
+1-17
+12-JF91
+R1
+R2
+R13
+R12
+R6
+R8
+R10
+R3
+12-JF13
+1-20
+1-22
+1-10
+1-4
+R4
+13-JF9
+13-JF47
+13-JF56
+
+1 JF-CC
+2 JF-CC
+3 JR-CC
+3 JH-CC
+3 JF-CC
+3 JF-CC
+3 JR-CC
+4 JF-CC
+4 JF-CC
+4 JF-CC
+4 JF-CC
+4 JH-CC
+4 JH-CC
+4 JF-CC
+4 JR-CC
+4 JR-CC
+4 JH-CC
+4 JH-CC
+4 JH-CC
+4 JH-CC
+4 JR-CC
+4 JR-CC
+4 JH-CC
+4 JH-CC
+4 JH-CC
+4 JH-CC
+4 JF-CC
+4 JH-CC
+4 JF-CC
+4 JF-CC
+4 JR-CC
+4 JF-CC
+4 JF-CC
+4 JF-CC
+4 JF-CC
+4 JF-CC
+4 JH-CC
+5 JF-CC
+6 JH-CC
+6 JH-CC
+7 JH-CC
+8 JF-CC
+8 JH-CC
+8 JR-CC
+8 JF-CC
+9 JH-CC
+9 JH-CC
+9 JH-CC
+9 JF-CC
+9 JH-CC
+10 JF-CC
+11 JR-CC
+11 JR-CC
+11 JR-CC
+11 JR-CC
+11 JR-CC
+11 JR-CC
+11 JR-CC
+11 JR-CC
+11 JF-CC
+11 JH-CC
+11 JH-CC
+11 JH-CC
+12 JH-CC
+12 JR-CC
+13 JF-CC
+14 JF-CC
+15 JF-CC
+
+CIP LEV GEN TET CLI EM
+CIP LEV TET
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM FLO
+CIP LEV GEN TET CLI EM
+CIP LEV TET CLI FLO
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV TET CLI
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV TET CLI EM FLO
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN STR TET CLI EM 
+CIP LEV GEN TET CLI EM FLO
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV TET CLI FLO
+CIP LEV TET CLI FLO
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN STR TET CLI EM 
+CIP LEV TET CLI
+CIP LEV GEN STR TET CLI EM FLO
+CIP LEV TET CLI EM FLO
+CIP LEV GEN STR TET CLI EM 
+CIP LEV GEN TET CLI EM
+CIP LEV GEN STR TET CLI EM 
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN TET CLI EM
+CIP LEV GEN STR TET CLI EM 
+CIP LEV GEN TET CLI EM FLO
+CIP LEV GEN STR TET CLI EM 
+CIP LEV TET CLI EM
+CIP LEV GEN TET CLI EM
+
++
++
+-
++
++
++
++
++
++
++
++
+-
++
++
++
++
++
+-
++
+-
++
++
++
++
++
++
++
++
++
++
++
++
+-
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+-
++
++
++
++
++
++
++
++
++
+-
++
++
++
++
++
++
++
+
+Fig. 2. Dendrogram of SmaI PFGE types, antimicrobial resistance (AMR) pattern and determinant mutations of C. coli isolates recovered from cecal samples, carcasses and carcass
+parts at the slaughterhouse. 1e15, PFGE patterns. JF, cecal samples; JH, carcasses; JR, carcass parts. A, integron 1; B, gene cassettes; C, gyrA; D, tetO; E, 23S rRNA. þ, positive;  ,
+negative. CIP, ciproﬂoxacin; STR, streptomycin; GEN, gentamicin; FLO, ﬂorfenicol; TET, tetracycline; CLI, clindamycin; EM, erythromycin; LEV, levoﬂoxacin.
+
+all tetracycline-resistant Campylobacter spp. isolates (Perez-Boto,
+Herrera-Leon, Garcia-Pena, Abad-Moreno, & Echeita, 2014; Qin
+et al., 2011).
+
+Macrolide resistance in Campylobacter spp. has been mostly
+linked with C. coli isolates of swine origin (Qin et al., 2011). Poultry
+isolates seem to be more susceptible to this family of antimicro-
+bials, because macrolides are not so commonly used in antibiotic
+
+treatment of broilers as in swine. In this study, only 14.3% of C. jejuni
+isolates were resistant to erythromycin, however a relatively high
+resistance was found among C. coli isolates, with a high resistance
+level of 93.9%. Similar results were reported that C. coli showed a
+signiﬁcantly higher resistance to erythromycin than C.
+jejuni
+(Duarte et al., 2014; Ma et al., 2014; Torralbo et al., 2015). This
+phenomenon may suggest that C. coli was more robust than C. jejuni
+
+X. Han et al. / Food Control 69 (2016) 160e170
+
+169
+
+under the selective pressure or imply a potential transmission of
+drug resistance spreading across different hosts among C. coli iso-
+lates in the natural environments.
+
+The MAMA-PCR, providing a simple and rapid tool to screen for
+Campylobacter isolates resistant to ﬂuoroquinolones, is proved to
+have 100% agreement with MIC results and DNA sequence analysis
+(Alonso et al., 2005; Zirnstein et al., 1999). As a result of this study,
+93.1% of ciproﬂoxacin-resistant Campylobacter had a substitution at
+amino acid position 86 of the gyrA protein due to a point mutation
+of the DNA codon from ACA (threonine) to ATA (isoleucine). Totally,
+97.3% (71/73) of C. jejuni isolates and 89.7% of C. coli isolates (61/68)
+possessed a Thr-86-Ile substitution in gyrA, indicating that this
+mutation is more prevalent in C. jejuni than in C. coli. However,
+other ﬂuoroquinolone resistant strains showed absence of this kind
+of mutation, which might be explained by other mechanisms
+including decreased outer membrane permeability (K€ohler &
+Pechere, 2000) and an efﬂux system (Hungaro et al., 2015;
+Corcoran, Quinn, Cotter, & Fanning, 2005).
+
+As one of the most discriminatory molecular epidemiological
+tools available for bacterial ﬁngerprinting, PFGE proﬁles could
+indicate the occurrence of cross-contamination events at the
+slaughterhouse, where could enable the survival of different
+Campylobacter strains. In the present study, we found Campylo-
+bacter isolates on carcasses and/or carcass parts with identical
+macrorestriction proﬁles like those detected in cecal samples. The
+presence of several shared pulsotypes between cecal samples and
+carcasses surfaces indicates that fecal contamination at slaughter
+was frequent. For instance, the 4-CC and 11-CC pulsotype was
+observed in all samples (cecal contents, carcasses and carcass parts)
+originating from broilers reared in the same farm and slaughtered
+on the same day.
+It has been previously reported that
+campylobacter-negative ﬂocks were contaminated with campylo-
+bacters during transport and slaughter (Peyrat, Soumet, Maris, &
+Sanders, 2008; Takahashi, Shahada, Chuma, & Okamoto, 2006).
+For another, it could be possible that Campylobacter isolates on
+carcasses and parts with identical genotypes like those detected in
+cecal samples were farm-speciﬁc isolates as shown for housed
+broiler ﬂocks in a previous study (Klein, Beckmann, Vollmer, &
+Bartelt, 2007). Whereas, the isolates of C.
+jejuni which were
+mainly recovered from cecal samples and showed higher genetic
+diversity among strains were not isolated in the cut-up stage, and
+this may suggest that C. jejuni is much easier to enter the viable but
+non-culturable (VBNC) state than C. coli under the stress conditions.
+Campylobacter isolates with genotype patterns (6-CC, 7-CC)
+other than those found in cecal samples could be an indication of
+several contamination sources, e.g. strains from previously pro-
+cessed ﬂocks, if they persist in the wet and hot atmosphere of the
+slaughterhouse, contaminated carcasses of the examined chickens.
+In addition, other authors have suggested that campylobacters
+could be present in aerosols in different areas of the slaughter-
+house, including hanging, defeathering, evisceration and chilling
+(Melero et al., 2012). Furthermore, some strains are able to form
+bioﬁlms in vitro (Gunther Iv & Chen, 2009), and some can survive
+longer and resist inactivation by disinfectants in pre-existing bio-
+ﬁlms formed by other microorganisms (Trachoo & Frank, 2002).
+
+In conclusion, a relatively high level of contamination with
+Campylobacter spp. was present in the slaughterhouse, thus the
+maintenance of processing hygiene and regular microbiological
+inspection of carcasses are essential to minimize the cross-
+contamination. Besides, the antimicrobial resistance is common
+among Campylobacter strains from broilers in China, which calls for
+rational use of drugs and continued monitoring during the rearing
+stage. It is also important to raise consumer's awareness of correct
+handling and cooking of poultry meats to avoid cross contamina-
+tion at home before consumption.
+
+Acknowledgments
+
+This work was supported by the grants from the National Nat-
+ural Science Foundation of China (No.31400066) and the Special
+Scientiﬁc Research Fund of Agricultural Public Welfare Profession of
+China (No.200903055).
+
+Appendix A. Supplementary data
+
+Supplementary data related to this article can be found at http://
+
+dx.doi.org/10.1016/j.foodcont.2016.04.051.
+
+References
+
+Abdollahpour, N., Zendehbad, B., Alipour, A., & Khayatzadeh, J. (2015). Wild-bird
+feces as a source of Campylobacter jejuni infection in children's playgrounds in
+Iran. Food Control, 50(0), 378e381.
+
+Allos, B. M. (2001). Campylobacter jejuni infections: update on emerging issues and
+
+trends. Clinical Infectious Diseases, 32(8), 1201e1206.
+
+Alonso, R., Mateo, E., Churruca, E., Martinez, I., Girbau, C., & Fernandez-Astorga, A.
+(2005). MAMA-PCR assay for the detection of point mutations associated with
+high-level erythromycin resistance in Campylobacter jejuni and Campylobacter
+coli strains. Journal of Microbiological Methods, 63(1), 99e103.
+
+Andrzejewska, M., Szczepanska, B., Spica, D., & Klawe, J. J. (2015). Trends in the
+occurrence and characteristics of Campylobacter jejuni and Campylobacter coli
+isolates from poultry meat in Northern Poland. Food Control, 51(0), 190e194.
+
+Bakeli, G., Sato, K., Kumita, W., Saito, R., Ono, E., Chida, T., et al. (2008). Antimicrobial
+susceptibility and mechanism of quinolone resistance in Campylobacter jejuni
+strains isolated from diarrheal patients in a hospital in Tokyo. Journal of Infection
+and Chemotherapy, 14(5), 342e348.
+
+Chen, X., Naren, G.-W., Wu, C.-M., Wang, Y., Dai, L., Xia, L.-N., et al. (2010). Preva-
+lence and antimicrobial resistance of Campylobacter isolates in broilers from
+China. Veterinary Microbiology, 144(1e2), 133e139.
+
+Chopra, I., & Roberts, M. (2001). Tetracycline antibiotics: mode of action, applica-
+tions, molecular biology, and epidemiology of bacterial resistance. Microbiology
+and Molecular Biology Reviews, 65(2), 232e260.
+
+Clinical and Laboratory Standards Institute. (2010). Methods for antimicrobial dilu-
+tion and disk susceptibility testing of infrequently isolated or fastidious bacteria;
+Approved guideline-Second edition. M45eA2. Wayne, PA: Clinical and Laboratory
+Standards Institute.
+
+Clinical and Laboratory Standards Institute. (2012). Methods for dilution antimicro-
+bial susceptibility tests for bacteria that grow aerobically; Approved standard-
+Ninth edition (pp. M07eA9). Wayne, PA: Clinical and Laboratory Standards
+Institute.
+
+Corcoran, D., Quinn, T., Cotter, L., & Fanning, S. (2005). Relative contribution of
+target gene mutation and efﬂux to varying quinolone resistance in Irish
+Campylobacter isolates. FEMS Microbiology Letters, 253(1), 39e46.
+
+Dallal, M. M. S., Doyle, M. P., Rezadehbashi, M., Dabiri, H., Sanaei, M., Modarresi, S.,
+et al. (2010). Prevalence and antimicrobial resistance proﬁles of Salmonella
+serotypes, Campylobacter and Yersinia spp. isolated from retail chicken and beef,
+Tehran, Iran. Food Control, 21(4), 388e392.
+
+Denis, M., Chidaine, B., Laisney, M. J., Kempf, I., Rivoal, K., Megraud, F., et al. (2009).
+Comparison of genetic proﬁles of Campylobacter strains isolated from poultry,
+pig and Campylobacter human infections in Brittany, France. Pathologie Biologie
+(Paris), 57(1), 23e29.
+
+Denis, M., Soumet, C., Rivoal, K., Ermel, G., & Blivet, D. (1999). Development of a m-
+PCR assay for simultaneous identiﬁcation of Campylobacter jejuni and C. coli.
+Letters in Applied Microbiology, 29(6), 406e410.
+
+Duarte, A., Santos, A., Manageiro, V., Martins, A., Fraqueza, M. J., Caniça, M., et al.
+(2014). Human, food and animal Campylobacter spp. isolated in Portugal: high
+genetic diversity and antibiotic resistance rates. International Journal of Anti-
+microbial Agents, 44(4), 306e313.
+
+Economou, V., Zisides, N., Gousia, P., Petsios, S., Sakkas, H., Soultos, N., et al. (2015).
+Prevalence and antimicrobial proﬁle of Campylobacter isolates from free-range
+and conventional farming chicken meat during a 6-year survey. Food Control,
+56(0), 161e168.
+
+Ekkapobyotin, C., Padungtod, P., & Chuanchuen, R. (2008). Antimicrobial resistance
+of Campylobacter coli isolates from swine. International Journal of Food Micro-
+biology, 128(2), 325e328.
+
+Ellerbroek, L. I., Lienau, J. A., & Klein, G. (2010). Campylobacter spp. in broiler ﬂocks
+at farm level and the potential for cross-contamination during slaughter. Zoo-
+noses Public Health, 57(7e8), e81e88.
+
+van Essen-Zandbergen, A., Smith, H., Veldman, K., & Mevius, D. (2007). Occurrence
+and characteristics of class 1, 2 and 3 integrons in Escherichia coli, Salmonella
+and Campylobacter spp.
+in the Netherlands. The Journal of Antimicrobial
+Chemotherapy, 59(4), 746e750.
+
+van Gerwe, T., Bouma, A., Wagenaar, J. A., Jacobs-Reitsma, W. F., & Stegeman, A.
+(2010). Comparison of Campylobacter levels in crops and ceca of broilers at
+slaughter. Avian Diseases, 54(3), 1072e1074.
+
+Ge, B., Wang, F., Sjolund-Karlsson, M., & McDermott, P. F. (2013). Antimicrobial
+
+170
+
+X. Han et al. / Food Control 69 (2016) 160e170
+
+resistance in campylobacter: susceptibility testing methods and resistance
+trends. Journal of Microbiological Methods, 95(1), 57e67.
+
+Gibreel, A., Tracz, D. M., Nonaka, L., Ngo, T. M., Connell, S. R., & Taylor, D. E. (2004).
+Incidence of antibiotic resistance in Campylobacter jejuni isolated in Alberta,
+Canada, from 1999 to 2002, with special reference to tet(O)-mediated tetra-
+cycline resistance. Antimicrobial Agents and Chemotherapy, 48(9), 3442e3450.
+Guyard-Nicodeme, M., Rivoal, K., Houard, E., Rose, V., Quesne, S., Mourand, G., et al.
+(2015). Prevalence and characterization of Campylobacter jejuni from chicken
+meat sold in French retail outlets. International Journal of Food Microbiology,
+203(0), 8e14.
+
+Hariharan, H., Sharma, S., Chikweto, A., Matthew, V., & DeAllie, C. (2009). Antimi-
+crobial drug resistance as determined by the E-test in Campylobacter jejuni, C.
+coli, and C. lari isolates from the ceca of broiler and layer chickens in Grenada.
+Comparative Immunology Microbiology and Infectious Diseases, 32(1), 21e28.
+
+Henry, I., Reichardt, J., Denis, M., & Cardinale, E. (2011). Prevalence and risk factors
+for Campylobacter spp. in chicken broiler ﬂocks in Reunion Island (Indian
+Ocean). Preventive Veterinary Medicine, 100(1), 64e70.
+
+Humphrey, T., O'Brien, S., & Madsen, M. (2007). Campylobacters as zoonotic path-
+ogens: a food production perspective. International Journal of Food Microbiology,
+117(3), 237e257.
+
+Hungaro, H. M., Mendonça, R. C. S., Rosa, V. O., Badaro, A. C. L., Moreira, M. A. S., &
+Chaves, J. B. P. (2015). Low contamination of Campylobacter spp. on chicken
+carcasses in Minas Gerais state, Brazil: molecular characterization and antimi-
+crobial resistance. Food Control, 51(0), 15e22.
+
+Iovine, N. M. (2013). Resistance mechanisms in Campylobacter jejuni. Virulence, 4(3),
+
+230e240.
+
+Gunther Iv, N. W., & Chen, C.-Y. (2009). The bioﬁlm forming potential of bacterial
+
+species in the genus Campylobacter. Food Microbiology, 26(1), 44e51.
+
+Kassa, T., Gebre-Selassie, S., & Asrat, D. (2007). Antimicrobial susceptibility patterns
+of thermotolerant Campylobacter strains isolated from food animals in Ethiopia.
+Veterinary Microbiology, 119(1), 82e87.
+
+Klein, G., Beckmann, L., Vollmer, H. M., & Bartelt, E. (2007). Predominant strains of
+thermophilic Campylobacter spp. in a german poultry slaughterhouse. Interna-
+tional Journal of Food Microbiology, 117(3), 324e328.
+
+K€ohler, T., & Pechere, J.-C. (2000). Chapter 4-bacterial resistance to quinolones:
+mechanisms and clinical implications. In V. T. Andriole (Ed.), The quinolones (3rd
+ed., pp. 139e167). San Diego: Academic Press.
+
+Kurincic, M., Botteldoorn, N., Herman, L., & Smole Mozina, S. (2007). Mechanisms of
+erythromycin resistance of Campylobacter spp. isolated from food, animals and
+humans. International Journal of Food Microbiology, 120(1e2), 186e190.
+
+Lee, M. D., Sanchez, S., Zimmer, M., Idris, U., Berrang, M. E., & McDermott, P. F.
+(2002). Class 1 integron-associated Tobramycin-gentamicin resistance in
+Campylobacter jejuni isolated from the broiler chicken house environment.
+Antimicrobial Agents and Chemotherapy, 46(11), 3660e3664.
+
+Levesque, C., Piche, L., Larose, C., & Roy, P. H. (2005). PCR mapping of integrons
+reveals several novel combinations of resistance genes. Antimicrobial Agents and
+Chemotherapy, 39(1), 185e191.
+
+Ma, L., Wang, Y., Shen, J., Zhang, Q., & Wu, C. (2014). Tracking Campylobacter
+contamination along a broiler chicken production chain from the farm level to
+retail in China. International Journal of Food Microbiology, 181, 77e84.
+
+Melero, B., Juntunen, P., H€anninen, M.-L., Jaime, I., & Rovira, J. (2012). Tracing
+Campylobacter jejuni strains along the poultry meat production chain from farm
+to retail by pulsed-ﬁeld gel electrophoresis, and the antimicrobial resistance of
+isolates. Food Microbiology, 32(1), 124e128.
+
+O'Halloran, F., Lucey, B., Cryan, B., Buckley, T., & Fanning, S. (2004). Molecular
+characterization of class 1 integrons from Irish thermophilic Campylobacter spp.
+The Journal of Antimicrobial Chemotherapy, 53(6), 952e957.
+
+Payot, S., Dridi, S., Laroche, M., Federighi, M., & Magras, C. (2004). Prevalence and
+antimicrobial resistance of Campylobacter coli isolated from fattening pigs in
+France. Veterinary Microbiology, 101(2), 91e99.
+
+Pepe, T., De Dominicis, R., Esposito, G., Ventrone, I., Fratamico, P. M., & Cortesi, M. L.
+(2009). Detection of Campylobacter from poultry carcass skin samples at
+slaughter in Southern Italy. Journal of Food Protection, 72(8), 1718e1721.
+
+Perez-Boto, D., Herrera-Leon, S., Garcia-Pena, F.
+
+J. C., &
+Echeita, M. A. (2014). Molecular mechanisms of quinolone, macrolide, and
+
+J., Abad-Moreno,
+
+tetracycline resistance among Campylobacter isolates from initial stages of
+broiler production. Avian Pathology, 43(2), 176e182.
+
+Perez-Perez, G.
+
+I., & Kienesberger, S.
+
+In
+J. G. M. E. Potter (Ed.), Foodborne infections and intoxications (4th ed., pp.
+165e185). San Diego: Academic Press.
+
+(2013). Chapter 9-Campylobacter.
+
+Peyrat, M. B., Soumet, C., Maris, P., & Sanders, P. (2008). Recovery of Campylobacter
+jejuni from surfaces of poultry slaughterhouses after cleaning and disinfection
+procedures: analysis of a potential source of carcass contamination. Interna-
+tional Journal of Food Microbiology, 124(2), 188e194.
+
+Piccirillo, A., Dotto, G., Salata, C., & Giacomelli, M. (2013). Absence of class 1 and
+class 2 integrons among Campylobacter jejuni and Campylobacter coli isolated
+from poultry in Italy. The Journal of Antimicrobial Chemotherapy, 68(11),
+2683e2685.
+
+Qin, S.-S., Wu, C.-M., Wang, Y., Jeon, B., Shen, Z.-Q., Wang, Y., et al. (2011). Antimi-
+crobial resistance in Campylobacter coli isolated from pigs in two provinces of
+China. International Journal of Food Microbiology, 146(1), 94e98.
+
+Rasschaert, G., Houf, K., Van Hende, J., & De Zutter, L. (2006). Campylobacter
+contamination during poultry slaughter in Belgium. Journal of Food Protection,
+69(1), 27e33.
+
+(2014). CAMPYLOBACTER j
+
+In
+food microbiology (2nd ed., pp.
+
+introduction.
+
+Rowe, M. T., & Madden, R. H.
+
+C. A. B. L. Tortorello (Ed.), Encyclopedia of
+351e356). Oxford: Academic Press.
+
+Ruiz-Castillo, A., Torres-Sanchez, M. J., & Aznar-Martín, J. (2014). Molecular epide-
+miology and antimicrobial susceptibility of Campylobacter coli clinical isolates.
+Enfermedades Infecciosas y Microbiología Clínica, 32(7), 443e445.
+
+Sahin, O., Plummer, P. J., Jordan, D. M., Sulaj, K., Pereira, S., Robbe-Austerman, S.,
+et al. (2008). Emergence of a tetracycline-resistant Campylobacter jejuni clone
+associated with outbreaks of ovine abortion in the United States. Journal of
+Clinical Microbiology, 46(5), 1663e1671.
+
+Sproston, E. L., Carrillo, C. D., & Boulter-Bitzer, J. (2014). The quantitative and
+qualitative recovery of Campylobacter from raw poultry using USDA and Health
+Canada methods. Food Microbiology, 44(0), 258e263.
+
+Szczepanska, B., Kaminski, P., Andrzejewska, M., Spica, D., Kartanas, E., Ulrich, W.,
+et al. (2015). Prevalence, virulence, and antimicrobial resistance of Campylo-
+bacter jejuni and Campylobacter coli in white stork Ciconia ciconia in Poland.
+Foodborne Pathog Dis, 12(1), 24e31.
+
+Taboada, E. N., Clark, C. G., Sproston, E. L., & Carrillo, C. D. (2013). Current methods
+Journal of Microbiological
+
+for molecular typing of Campylobacter species.
+Methods, 95(1), 24e31.
+
+Takahashi, R., Shahada, F., Chuma, T., & Okamoto, K. (2006). Analysis of Campylo-
+bacter spp. contamination in broilers from the farm to the ﬁnal meat cuts by
+using restriction fragment length polymorphism of the polymerase chain re-
+action products. International Journal of Food Microbiology, 110(3), 240e245.
+
+Torralbo, A., Borge, C., Garcia-Bocanegra, I., Meric, G., Perea, A., & Carbonero, A.
+(2015). Higher resistance of Campylobacter coli compared to Campylobacter
+jejuni at chicken slaughterhouse. Comparative Immunology Microbiology and
+Infectious Diseases, 39, 47e52.
+
+Trachoo, N., & Frank, J. F. (2002). Effectiveness of chemical sanitizers against
+Journal of Food Protection, 65(7),
+
+Campylobacter jejuni-containing bioﬁlms.
+1117e1121.
+
+Wieczorek, K., Denis, E., Lynch, O., & Osek, J. (2013). Molecular characterization and
+antibiotic resistance proﬁling of Campylobacter isolated from cattle in Polish
+slaughterhouses. Food Microbiology, 34(1), 130e136.
+
+Zendehbad, B., Khayatzadeh, J., & Alipour, A. (2015). Prevalence, seasonality and
+antibiotic susceptibility of Campylobacter spp. isolates of retail broiler meat in
+Iran. Food Control, 53(0), 41e45.
+
+Zhang, M., Liu, X., Xu, X., Gu, Y., Tao, X., Yang, X., et al. (2014). Molecular subtyping
+and antimicrobial susceptibilities of Campylobacter coli isolates from diarrheal
+patients and food-producing animals in China. Foodborne Pathogens and Dis-
+eases, 11(8), 610e619.
+
+Zirnstein, G., YU, L., Swaminathan, B., & Angulo, F. (1999). Ciproﬂoxacin resistance in
+isolates detection of gyrA resistance mutations by
+Campylobacter jejuni
+mismatch ampliﬁcation mutation assay PCR and DNA sequence analysis. Journal
+of Clinical Microbiology, 37(10), 3276e3280.
+
+

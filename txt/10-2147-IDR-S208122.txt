@@ -1,0 +1,3128 @@
+Infection and Drug Resistance
+
+Open Access Full Text Article
+
+Dovepress
+
+open access to scientiﬁc and medical research
+
+O R I G I N A L R E S E A R C H
+
+Prevalence and molecular epidemiology
+characteristics of carbapenem-resistant Escherichia
+coli in Heilongjiang Province, China
+
+This article was published in the following Dove Press journal:
+Infection and Drug Resistance
+
+Ping Cheng1
+Fulei Li1
+Ruimeng Liu1
+Yuqi Yang1
+Tianshi Xiao1
+Muhammad Ishfaq1
+Guofeng Xu2
+Xiuying Zhang1
+1Heilongjiang Key Laboratory for Animal
+Disease Control and Pharmaceutical
+Development, Faculty of Basic Veterinary
+Science, College of Veterinary Medicine,
+Northeast Agricultural University,
+Harbin, Heilongjiang 150030, People’s
+Republic of China; 2First Department of
+Respiratory Disease, Inﬂammation and
+Allergic Diseases Research Unit,
+Afﬁliated Hospital of Southwest Medical
+University, Luzhou, Sichuan 646000,
+People’s Republic of China
+
+Correspondence: Xiuying Zhang
+Faculty of Basic Veterinary Science,
+College of Veterinary Medicine,
+Northeast Agricultural University, 600
+Changjiang Road, Xiangfang District,
+Harbin, Heilongjiang 150030, People’s
+Republic of China
+Tel +86 451 5519 0674
+Fax +86 451 5519 1200
+Email zhangxiuying@neau.edu.cn
+
+Guofeng Xu
+First Department of Respiratory Disease,
+Inﬂammation and Allergic Diseases
+Research Unit, Afﬁliated Hospital of
+Southwest Medical University, 25 Taiping
+Street, Luzhou, Sichuan 646000, People’s
+Republic of China
+Email 263545793@qq.com
+
+Objective: This retrospective study was conducted to determine the prevalence and mole-
+cular epidemiology characteristics of carbapenem-resistant Escherichia coli (CRE).
+Methods: A total of 593 Escherichia coli (E. coli) isolates were recovered from pigs and
+urban river from 2009 to 2014 in Heilongjiang Province of China. Forty CRE including 22
+strains isolated from fecal samples of pigs and 18 strains isolated from water samples were
+selected. PCR detection of resistance determinants, multi-locus sequence typing (MLST),
+pulsed-ﬁeld gel electrophoresis (PFGE), and phylogenetic groups were performed to char-
+acterize CRE isolates. Conjugation experiments, plasmid stability testing, PCR-based repli-
+con typing (PBRT), and PCR mapping were conducted to analyze blaNDM-carrying plasmids.
+In vitro time–growth studies and competition experiments were carried out to assess the
+ﬁtness impact of NDM carriage.
+Results: Five NDM-1-positive E. coli isolates were identiﬁed from water samples. Genetic
+environment analysis revealed that a cluster of genes (ISAba125-blaNDM-1-bleMBL-ΔtrpF)
+was detected in all of the NDM-1-positive isolates. Conjugation assays showed that blaNDM-1
+could be successfully transferred to E. coli J53 from 5 donor strains at frequencies of
+4.6×10−5 to 2.6×10−2. The plasmids from all transconjugants belonged to different plasmid
+replicon types including IncA/C (n=2), IncFII (n=1) and IncX3 (n=2). In vitro time–growth
+studies revealed that blaNDM-1 did not have a signiﬁcant
+impact on cell proliferation.
+Meanwhile, competition experiments showed that the acquisition of blaNDM-1 can place an
+energy burden on the bacterial host and incur ﬁtness cost. However, plasmid stability testing
+showed that blaNDM-1-carrying plasmid remained stable in the hosts after seven passages
+without antimicrobial selection.
+Conclusion: The study revealed the early molecular epidemiology and dissemination
+characteristics of CRE. In addition, the overall antimicrobial resistance in E. coli recovered
+from water samples is higher than the strains isolated from fecal samples of pigs.
+Furthermore, we isolated and identiﬁed ﬁve NDM-1-producing E. coli strains from water
+samples.
+Keywords: carbapenem-resistant, Escherichia coli, NDM-1, ﬁtness cost
+
+Introduction
+The rapid emergence and dissemination of multiple antimicrobial-resistant (MDR)
+bacteria have posed a signiﬁcant threat to global public health, which is commonly
+acknowledged to be caused by the indiscriminate, widespread and increasing use of
+antibiotics.1,2 The rising patient mortality and morbidity caused by MDR bacterial
+infections, and the growing antibiotic resistance even pose a challenge to the vast
+
+submit your manuscript | www.dovepress.com
+DovePress
+http://doi.org/10.2147/IDR.S208122
+
+Infection and Drug Resistance 2019:12 2505–2518
+
+2505
+© 2019 Cheng et al. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms.
+php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (http://creativecommons.org/licenses/by-nc/3.0/). By accessing the
+work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For
+permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).
+
+ Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 84.54.58.168 on 30-Aug-2019For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1Cheng et al
+
+Dovepress
+
+medical advancements made by antibiotics. Moreover, due
+to the dearth of novel classes of antibiotics entering the
+clinic, the phenomenon has been exacerbated over the past
+40 years.1
+
+The appearance of MDR bacteria from animals is a
+growing area of concern due to the potential possibility for
+transfer of resistant pathogens and commensal bacteria to
+the human population.3 Many studies demonstrated that
+the use of antibiotics can not only increase the level of
+resistance of pathogenic bacteria but also increase the level
+of resistance of commensal bacteria. Thus, the commensal
+bacteria are regarded as a reservoir of resistance genes for
+potential pathogenic bacteria. Some resistant commensal
+bacteria from food animals, such as zoonotic bacteria can
+reach the intestinal tract of humans through the contami-
+nated meat, milk, or eggs.3 E. coli is the most prevalent
+commensal bacteria in the intestinal tract of animals and
+humans, and many studies had shown that the animal and
+human infectious diseases may be also implicated with E.
+coli.4 Therefore, the level of resistance of E. coli is usually
+recognized as a good indicator for monitoring selection
+pressure by antibiotic use, prevalence of resistance, and for
+detecting the transfer of resistant bacteria or resistance
+genes from animals to humans and vice versa.3
+
+Carbapenems, a kind of β-lactams that have long
+served as reliable and potent agents against Gram-negative
+bacteria, and have been regarded as the last line for treat-
+ment of infections caused by MDR bacteria in clinics.5
+Due to the proliferation of MDR bacterial pathogens, the
+use of carbapenems such as imipenem, ertapenem, and
+meropenem in clinics has become more usually during
+the past two decades. Due to the increasing consumption
+of carbapenem, the carbapenem-resistant Gram-negative
+pathogens have been isolated worldwide.6 A common
+mechanism mediating carbapenem resistance in Gram-
+negative bacteria is the presence of carbapenemases, and
+many studies have reported various types of carbapene-
+mases, among which Class A (blaKPC), Class B (blaNDM,
+blaVIM, blaIMP), and Class D (blaOXA-48) types are the
+most common in Enterobacteriaceae.7
+
+Most of the genetic determinants for carbapenemases
+are commonly located on mobile genetic elements, such as
+plasmid, which make it feasible to transfer among various
+species of bacterial pathogens. The worldwide continuous
+emergence of carbapenemases in recent years has posed an
+increasing threat to the effectiveness of carbapenem. As an
+emerging carbapenemase, New Delhi metallo-lactamase
+(NDM) was identiﬁed in a broad-spectrum antibiotic-
+
+resistant strain of Klebsiella pneumonia isolated from a
+Swedish patient with a hospitalization history in India,
+which can mediate resistance to all β-lactams except for
+monobactams, and has been considered to have great
+potential to cause global health crisis.8
+
+Since 2009, the cases of MDR bacteria harboring blaNDM
+have been reported in almost all continents except
+Antarctica.9 In China, since the ﬁrst report of blaNDM in
+Acinetobacter baumannii isolates, with an increasing number
+of Enterobacteriaceae have been identiﬁed as carriers of the
+blaNDM.10 Though the prevalence of MDR bacteria harbor-
+ing blaNDM is low, numerous cases of clinical infection
+caused by NDM-producing isolates have been reported in
+several regions of China, which suggests the high transfer-
+ability of the blaNDM and the severity of infections caused by
+NDM producer.11 Worryingly, many reports regarding the
+detection and occurrence of blaNDM in some environmental
+compartments, containing hospital sewage, municipal waste-
+water, seepage, and tap water, indicate the risk that NDM-
+positive strains could widely disseminate the NDM-1 gene
+from medical origins.2,12
+
+In the present study, we examined the susceptibility of
+E. coli isolates recovered from fecal samples of pigs and
+water samples in the Heilongjiang province during 2009–
+2014. Additionally,
+characteristics of
+CREwere evaluated. Overall, our results demonstrated
+that
+the retrospective study on CRE was necessary to
+gain a better understanding of their molecular epidemiol-
+ogy characteristics and the rule of dissemination.
+
+the molecular
+
+Materials and methods
+Bacterial isolates and antimicrobial
+susceptibility testing
+This retrospective study was conducted to examine the
+prevalence and molecular epidemiology characteristics of
+CRE isolates. From June 2009 to July 2014, a total of 593
+E. coli including 488 isolates collected from 21 porcine
+farms in Heilongjiang Province of China, and 105 E. coli
+were recovered from water samples of an urban river in
+the city of Harbin, China from 2013 to 2014.
+
+The minimum inhibitory concentrations (MICs) for 22
+antimicrobial agents were determined by the broth microdilu-
+tion method following Clinical and Laboratory Standards
+Institute (CLSI) guidelines. The results for various β-lactams,
+aminoglycosides, carbapenems, ﬂuoroquinolones, and tetra-
+cyclines were interpreted according to CLSI guidelines; colis-
+tin and tigecycline were interpreted following European
+
+2506
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+Infection and Drug Resistance 2019:12
+
+ Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 84.54.58.168 on 30-Aug-2019For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1Dovepress
+
+Cheng et al
+
+Susceptibility
+
+on Antimicrobial
+
+Committee
+Testing
+(EUCAST) guidelines. E. coli strain ATCC 25922 was used
+as a quality control strain. The CRE isolates were screened for
+carbapenemase using the modiﬁed Hodge test (MHT). In
+addition, metallo-β-lactamase (MBL) production was detected
+by double-disk synergy tests (DDST), which were performed
+using the imipenem–EDTA as previously described.13
+
+Molecular detection of resistance genes
+Total DNA was extracted from all CRE isolates by the kit
+following the manufacturer's instruction. Carbapenemase
+genes (blaBIC, blaKPC, blaIMP, blaVIM, blaNDM, blaGIM,
+blaSPM, blaSIM, blaAIM, blaDIM, and blaOXA-48),14 extended
+spectrumβ-lactamase genes (blaTEM, blaSHV, blaCTX-M, and
+blaOXA), plasmid-mediated AmpC genes (blaMOX, blaCMY,
+blaDHA, blaACC, blaEBC, and blaFOX),15 16S rRNA methyl-
+transferases (armA, rmtA, rmtB, rmtC, rmtD, rmtE, and
+npmA),16 and quinolone resistance (qnrA, qnrB, qnrC,
+qnrD, qnrS, qepA, oqxAB, and aac(6′)-Ibcr) were examined
+by PCR.17 E. coli ATCC25922 was used for the quality
+control. Positive ampliﬁcations were subjected to Sangon
+sequencing (Sangon Company, Shanghai, China).
+
+PFGE and MLST
+Molecular typing of CRE isolates was performed by PFGE.
+Genomic DNA of the CRE was prepared in agarose blocks
+and was digested with restriction enzyme XbaI (TaKaRa
+Biotechnology, Dalian, China). DNA fragments were sepa-
+rated using a CHEF II D-Mapper XA PFGE system (Bio-
+Rad, Hercules, CA) with running conditions as described
+previously.18 MLST of CRE was conducted by PCR as
+previously described.19 The allelic proﬁles and sequence
+types were identiﬁed by amplifying and sequencing the
+seven housekeeping genes (adk, fumC, gyrB, icd, mdh,
+purA, recA) according to the reference website (https://enter
+obase.warwick.ac.uk/species/index/ecoli). The phylogenetic
+groups of CRE were determined by multiplex PCR
+analysis.20
+
+method.
+Incompatibility groups of plasmids extracted
+from transconjugants were determined by PCR-based repli-
+con typing as described previously.21,22 The transfer fre-
+quency of carbapenem resistance was determined as
+described in a previous report.23 Plasmid stability was
+assessed in daily serial passages of culture without antibio-
+tic and the culture daily analyzed for carbapenem resistance
+and conﬁrmed the presence of blaNDM-1 by PCR.24
+
+PCR mapping and sequencing were applied to analyze
+the blaNDM-1 genetic structure. The plasmid of pNDM-
+BJ01 (accession no. JQ001791) from Acinetobacter lwofﬁi
+and E. coli plasmid of pBJ01 (GenBank accession no.
+JX296013) were used as the references. The primers
+were used in this study as described previously.25
+
+Cloning of blaNDM-1
+To study the acquisition of plasmid with blaNDM-1 may
+have several effects on bacterial ﬁtness. The blaNDM-1 with
+native promoter (NP) was ampliﬁed by PCR using primers
+NP-NDM-F (5′-CGGGATCCCACCTCATGTTTGAATTC
+GC-3′) and NP-NDM-R (5′-CCCAAGCTTCTCTGTCAC
+ATCGAAATCGC-3′), then cloned into the pMD18-T vec-
+tor. The resulting plasmids were named pMD18-T/NP-
+NDM-1, which were transformed into E. coli DH5α by
+electrotransformation and conﬁrmed by PCR and DNA
+sequencing, subsequently.
+
+In vitro time–growth studies
+The bacterial strains pMD18-T/DH5α and pMD18-T/NP-
+NDM-1/DH5α were grown in LB and LB containing 4 μg/
+mL imipenem at 37°C and 200 rpm overnight, respectively.
+The bacterial suspension was then diluted based on absorbance
+at 600 nm and transferred to ﬂasks containing 10 mL LB. The
+ﬁnal concentration of inoculum was approximately 1×105
+CFU/mL. The bacterial strains with LB were incubated at
+37°C and 200 rpm for 12 hrs. Serial samples (at 30 mins, 1,
+1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5, 6, 7, 8, 9, 10, 11, and 12 hrs) were
+obtained in triplicate, and bacteria growth was monitored by
+measuring the OD600.
+
+Conjugation assay and genetic
+environment analysis of the blaNDM-1 gene
+The NDM-positive isolates were selected for conjugation
+experiment which was implemented by mix broth mating.5
+Enterobacterial repetitive intergenic consensus (ERIC)-
+PCR was used to further distinguish transconjugants from
+the donor strains. Antimicrobial susceptibility of transcon-
+jugants were determined using the broth microdilution
+
+In vitro growth competition experiments
+In vitro competition experiments between pMD18-T/
+DH5α and pMD18-T/NP-NDM-1/DH5α were performed
+as described previously.24 Exponentially growing cells of
+the corresponding pMD18-T/DH5α and pMD18-T/NP-
+NDM-1/DH5α were adjusted to a 1.0 McFarland standard,
+diluted 1:104 and then mixed in LB with a 1:1 ratio (time
+point zero). The mixture was inoculated into ﬂasks
+
+Infection and Drug Resistance 2019:12
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+2507
+
+ Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 84.54.58.168 on 30-Aug-2019For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1Cheng et al
+
+Dovepress
+
+containing 10 mL LB and grown at 37°C and 180 rpm for
+24 hrs. Serial 10-fold dilutions were plated in duplicate
+onto LBA alone and LBA with 4 μg/mL imipenem in order
+to determine the total colony forming unit (CFU) and the
+CFU of the mutant at 0 and 24 hrs, respectively. The
+number of CFU growing on antibiotic-supplemented
+LBA was subtracted from the number of CFU growing
+on antibiotic-free LBA to determine the number of suscep-
+tible cells in the mixed population. The relative ﬁtness is
+calculated using the ratio of the growth rate of the resistant
+cells to that of the susceptible.
+
+In vitro time–kill studies
+For the in vitro time–kill assay, ﬁve NDM-positive E. coli
+isolated from water samples were used as representative
+strains, E.coil ATCC25922 were chosen as control strain.
+The initial inoculum of 106 CFU/mL was incubated in
+antibiotic-supplemented imipenem at a concentration of 4
+μg/mL and antibiotic-free MH broth, respectively. In addi-
+tion, 100 μL of co-culture were collected at 0, 1, 2, 3, 4, 6,
+8, 12, and 24 hrs post-inoculation for bacterial counts. The
+100 μL of co-culture were serially diluted with 0.9 mL
+MH broth and plated onto MH agar plates then incubated
+at 37°C for 18–24 hrs. The CFU/mL was determined, and
+counts were performed in duplicate.
+
+Statistical analysis
+Frequency of antimicrobial resistance proﬁles between
+E. coli recovered from fecal samples of pigs and E. coli
+isolated from water samples was compared using the
+Pearson Chi-square test with the software SPSS 17.0,
+values of P<0.05 were considered signiﬁcant, and values
+of P<0.01 were considered markedly signiﬁcant.
+
+imipenem, meropenem, ertapenem, and colistin displaying
+low resistance rates (11.4–22.9%). E. coli isolated from
+fecal samples of pigs showed high resistance rates (63.5–
+96.7%) to gentamicin, ciproﬂoxacin, enroﬂoxacin, doxycy-
+cline, chloramphenicol, amoxicillin, and sulfamethoxazole/
+trimethoprim; moderate resistance rates (25.4–45.9%) to
+amikacin, cefoxitin, ceftazidime, aztreonam, cefotaxime,
+ceftiofur, ceftriaxone, and amoxicillin/clavulanic acid; and
+also showed low rates of resistance (1.2–2.1%) to imipe-
+nem, meropenem, ertapenem,
+tigecycline, and colistin.
+Moreover, among all E. coli, isolates from pigs showed
+signiﬁcantly higher resistance to ﬂorfenicol, enroﬂoxacin,
+and ciproﬂoxacin (P<0.01), while isolates from water sam-
+ples showed higher resistance to the rest of the tested anti-
+microbial
+doxycycline,
+chloramphenicol, and sulfamethoxazole/trimethoprim.
+
+tetracycline,
+
+agents
+
+except
+
+Antimicrobial susceptible patterns of CRE
+A total of 40 (6.74%, 40/593) non-duplicate E. coli isolates
+including 22 strains isolated from fecal samples of pigs and 18
+strains isolated from water samples, which exhibited resis-
+tance to imipenem, ertapenem, or meropenem were selected.
+All CRE isolates were resistant to amoxicillin but remained
+susceptible to tigecycline, the resistance rate to colistin is only
+10%. High resistance rates (>80%) were discovered among 40
+CRE isolates for amoxicillin/clavulanic acid, ceftiofur, cef-
+triaxone, cefotaxime, ceftazidime, gentamicin, tetracycline,
+chloramphenicol, ﬂorfenicol, and sulfamethoxazole/trimetho-
+prim. Relative low frequencies of resistance (55–72.5%) to
+cefoxitin, aztreonam, amikacin, doxycycline, enroﬂoxacin,
+and ciproﬂoxacin (as shown in Table 2).
+
+Results
+Bacterial strains and antimicrobial
+susceptibility testing
+In this study, a total of 593 E. coli were collected including
+488 E. coli recovered from fecal samples of pigs, 105 strains
+isolated from water samples of an urban river in the city of
+Harbin, China (Figure 1). The results of the in vitro anti-
+microbial susceptibility testing are shown in Tables 1 and
+S1. There was a high frequency (27.6–97.1%) of tigecy-
+cline, cefoxitin, cefotaxime, ceftazidime, gentamicin,
+aztreonam, ceftiofur, amoxicillin/clavulanic acid, doxycy-
+cline, ﬂorfenicol, chloramphenicol, and amoxicillin resis-
+tance in E. coli isolated from water samples, with only
+
+Prevalence of carbapenemase genes
+among CRE
+The results of MHT showed that 12 E. coli isolates includ-
+ing 5 strains isolated from fecal samples of pigs and 7
+strains isolated from water samples were positive or weak
+positive. The DDST using EDTA as an inhibitor was
+positive for 5 strains
+samples.
+Among the 40 CRE isolates, 5 (12.5%, 5/40) isolates
+were found to be blaKPC-2-positive including 3 strains
+isolated from water samples and 2 strains isolated from
+fecal samples of pigs. Interestingly, 5 blaNDM-1-positive
+were all isolated from water samples. Other carbapene-
+mase genes were not detected in all of the CRE isolates.
+
+isolated from water
+
+2508
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+Infection and Drug Resistance 2019:12
+
+ Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 84.54.58.168 on 30-Aug-2019For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1Dovepress
+
+Cheng et al
+
+N
+
+44 E. coli
+
+44 E. coli
+
+45 E. coli
+
+45 E. coli
+
+54 E. coli
+
+79 E. coli
+
+130 E. coli+ 105 E. coli (river)
+
+47 E. coli
+
+Figure 1 Sample collection sites in the map of Heilongjiang province. Numbers within pointers denote the number of E. coli isolated from each area.
+
+Presence of additional antibiotic
+resistance genes in CRE
+The frequency of the presence of additional antibiotic resis-
+tance genes in CRE isolates is shown in Figure 2. Overall,
+ESBL genes including blaCTX-M, blaTEM, blaSHV, and blaOXA
+were identiﬁed in 38, 25, 9, and 12 isolates, respectively.
+blaCTX-M was the most common ESBL gene in this study
+including blaCTX-M-3 (n=4), blaCTX-M-15 (n=12), blaCTX-M-55
+(n=8), blaCTX-M-64 (n=2), blaCTX-M-14 (n=13), blaCTX-M-27
+(n=2), blaCTX-M-65 (n=4), and blaCTX-M-125 (n=1). All blaOXA
+positive
+(n=9).
+Moreover, blaTEM-1 (n=21), blaTEM-52 (n=4), blaSHV-11
+(n=2), and blaSHV-12 (n=7) were identiﬁed. Only blaCMY-2
+(n=7) and blaCMY-30 (n=4) of AmpC gene were detected in 11
+strains. The plasmid-encoded 16S rRNA methylases armA
+(n=9) and rmtB (n=7) were detected in 16 isolates. The
+plasmid-mediated quinolone resistance genes oqxAB, qnrS,
+aac(6ʹ)-Ib-cr, and qepA were detected in 22, 16, 15 and 9
+isolates, respectively.
+
+isolates were identiﬁed as blaOXA-1
+
+Molecular typing of CRE
+PFGE and MLST for 40 CRE isolates were performed.
+Among 40 CRE isolates, 4 strains were untypable and the
+rest of 36 strains exhibited 19 different clusters as A~S
+
+clone type. The MLST analysis identiﬁed 23 different
+sequence types (STs) among 40 CRE isolates. The most
+commonly identiﬁed genotypes were ST131 and ST648
+(n=5), followed by ST38 and ST72 (n=3), whereas the
+isolates belonging to ST4 (n=2), ST34 (n=2), ST43
+(n=2), ST48 (n=2), ST167 (n=2), ST410 (n=2), ST10,
+ST23, ST315, ST405, ST25, ST69, ST169, ST251,
+ST252, ST745, ST1209, ST1454, and ST2324 were also
+identiﬁed. The NDM-1-producing E. coli isolates were
+divided into four STs, as ST72, ST131, ST167 (n=2),
+and ST410. The results of phylogenetic group for CRE
+revealed that 24 isolates were assigned to low virulence A
+type and B1 type, and the other 16 isolates were assigned
+to high virulence B2 and D type. Four NDM-1-producing
+CRE were divided to low virulence type, and only one
+belonged to high virulence type. (as shown in Figure 2)
+
+Transfer of carbapenem resistance
+All of the plasmids harboring blaNDM gene from 5 selected
+CRE isolates were successfully transferred to E. coli J53
+through conjugation at a frequency of 4.6×10−5
+to
+2.6×10−2. As shown in Table 3, all of the transconjugants
+exhibited multidrug resistance phenotypes which are simi-
+lar to those of the donor strains, and the susceptibility to
+the tested carbapenems reduced. PCR assays conﬁrmed
+
+Infection and Drug Resistance 2019:12
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+2509
+
+ Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 84.54.58.168 on 30-Aug-2019For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1Cheng et al
+
+Dovepress
+
+Table 1 Resistance rates of E. coli of different origin against 22 antimicrobial agents
+
+Antimicrobial
+agents
+
+E. coli isolated from pigs (n=488)
+
+E. coli isolated from river (n=105)
+
+P-value
+
+Number of resistant
+isolates
+
+Percentage
+(%)
+
+Number of resistant
+isolates
+
+Percentage
+(%)
+
+AMX
+AMC
+CEF
+CRO
+CTX
+CAZ
+FOX
+ATM
+IPM
+MEM
+ETP
+GEN
+AKN
+TET
+DOX
+CHL
+FLO
+ENR
+CIP
+SXT
+COL
+TGC
+
+464
+224
+212
+220
+188
+168
+129
+193
+6
+10
+13
+310
+124
+463
+402
+425
+465
+397
+380
+472
+10
+7
+
+95.1
+45.9
+43.4
+45.1
+38.5
+34.4
+26.4
+39.5
+1.2
+2.0
+2.7
+63.5
+25.4
+94.9
+82.3
+87.1
+95.3
+81.4
+77.9
+96.7
+2.1
+1.4
+
+102
+74
+72
+79
+53
+65
+34
+72
+11
+12
+15
+70
+28
+99
+86
+90
+87
+62
+56
+100
+24
+29
+
+97.1
+70.5
+68.6
+75.2
+50.5
+61.9
+32.4
+68.6
+10.5
+11.4
+14.3
+66.7
+26.7
+94.3
+81.9
+85.7
+82.9
+59.1
+53.3
+95.2
+22.9
+27.6
+
+>0.05
+<0.01**
+<0.01**
+<0.01**
+<0.05*
+<0.01**
+>0.05
+<0.01**
+<0.01**
+<0.01**
+<0.01**
+>0.05
+>0.05
+>0.05
+>0.05
+>0.05
+<0.01**
+<0.01**
+<0.01**
+>0.05
+<0.01**
+<0.01**
+
+Notes: The values of *P<0.05 were considered signiﬁcant, and values of **P<0.01 were considered markedly signiﬁcant.
+Abbreviations: AMX, amocicillin; AMC, amocicillin/clavulanic acid; CEF, ceftiofur; CRO, ceftriaxone; CTX, cefotaxime; CAZ, ceftazidime; FOX, cefoxitin; ATM, aztreonam;
+IPM, imipenem; MEM, meropenem; ETP, ertapenem; GEN, gentamicin; AKN, amikacin; TET, tetracycline; DOX, doxycycline; CHL, chloramphenicol; FLO, ﬂorfenicol; ENR,
+enroﬂoxacin; CIP, ciproﬂoxacin; SXT, sulfamethoxazole/trimethoprim; COL, colistin; TGC, tigecycline.
+
+that blaNDM-1 was successfully transferred to E. coli J53
+from CRE isolates along with other resistance genes, such
+as blaTEM-1, armA, and rmtB. The plasmids from all
+transconjugants belonged to different plasmid replicon
+types including IncA/C (n=2), IncFII (n=1), and IncX3
+(n=2). The results of plasmid stability testing showed
+that the ratio of CFU growing on antibiotic-supplemented
+LBA to CFU on antibiotic-free LBA was not statistically
+signiﬁcant (P>0.05) after seven passages.
+
+Genetic environments of blaNDM-1
+PCR mapping was performed to identify the genetic
+environment surrounding the blaNDM-1 gene in all of
+the ﬁve NDM-1-producing isolates. Sequence analysis of
+PCR products revealed that a cluster of genes (ISAba125-
+blaNDM-1-bleMBL-ΔtrpF) was detected in all of the ﬁve
+NDM-positive isolates. Two of the isolates contained a com-
+mon genomic structure around the blaNDM-1 (ISAba125-
+blaNDM-1-bleMBL-ΔtrpF-groES-groL-insE-ISAba125), which
+
+was similar to the genetic environment of the Acinetobacter
+lwofﬁi.
+
+In vitro growth curves
+To determine the effects of blaNDM-1 on the E. coli growth,
+growth curve experiments were conducted to assess the
+growth rates under noncompetitive conditions. As shown in
+Figure 3, the results showed that the curve patterns and
+growth rate of pMD18-T/DH5α and pMD18-T/NP-NDM-
+1/DH5α were almost similar. Additionally, it was found that
+the time to reach non-exponential growth was also similar.
+
+In vitro competition experiments
+In antibiotic-free environment, pMD18-T/NP-NDM-1/
+DH5α competed with pMD18-T/DH5α. As shown in
+Figure 4,
+the pMD18-T/NP-
+NDM-1/DH5α
+from
+E. coli (MJ2, MI19, MJ22, MJ26, and MJ90) showed a
+relative ﬁtness of 0.89±0.06, 0.88±0.07, 0.91±0.06, 0.86
+
+the results showed that
+blaNDM-1
+
+harboring
+
+originated
+
+2510
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+Infection and Drug Resistance 2019:12
+
+ Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 84.54.58.168 on 30-Aug-2019For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1Dovepress
+
+Cheng et al
+
+Table 2 Percentages of antimicrobial resistance in CRE of different origins
+
+Antimicrobial
+agents
+
+CRE isolated from pigs (n=22)
+
+CRE isolated from river (n=18)
+
+P-value
+
+Number of resistant
+isolates
+
+Percentage
+(%)
+
+Number of resistant
+isolates
+
+Percentage
+(%)
+
+AMX
+AMC
+CEF
+CRO
+CTX
+CAZ
+FOX
+ATM
+IPM
+MEM
+ETP
+GEN
+AKN
+TET
+DOX
+CHL
+FLO
+ENR
+CIP
+SXT
+COL
+TGC
+
+22
+20
+21
+21
+20
+19
+13
+9
+6
+10
+13
+18
+11
+21
+19
+21
+19
+19
+15
+21
+2
+0
+
+100
+90.9
+95.5
+95.5
+90.9
+86.4
+59.1
+40.9
+27.3
+45.5
+59.1
+81.8
+50
+95.5
+86.4
+95.5
+86.4
+86.4
+68.2
+95.5
+9.1
+0
+
+18
+17
+17
+18
+16
+14
+16
+14
+11
+12
+15
+16
+9
+16
+10
+17
+15
+8
+7
+18
+2
+0
+
+100
+94.4
+94.4
+100
+88.9
+77.8
+88.9
+77.8
+61.1
+66.7
+83.3
+88.9
+50
+88.9
+55.6
+94.4
+83.3
+44.4
+38.9
+100
+11.1
+0
+
+>0.05
+>0.05
+>0.05
+>0.05
+>0.05
+<0.05*
+<0.01**
+<0.01**
+<0.01**
+<0.01**
+<0.01**
+<0.05*
+>0.05
+<0.05*
+<0.01**
+>0.05
+>0.05
+<0.01**
+<0.01**
+>0.05
+>0.05
+>0.05
+
+Notes: The values of *P<0.05 were considered signiﬁcant, and values of **P<0.01 were considered markedly signiﬁcant.
+Abbreviations: CRE, carbapenem-resistant Escherichia coli.; AMX, amocicillin; AMC, amocicillin/clavulanic acid; CEF, ceftiofur; CRO, ceftriaxone; CTX, cefotaxime; CAZ,
+ceftazidime; FOX, cefoxitin; ATM, aztreonam; IPM, imipenem; MEM, meropenem; ETP, ertapenem; GEN, gentamicin; AKN, amikacin; TET, tetracycline; DOX, doxycycline;
+CHL, chloramphenicol; FLO, ﬂorfenicol; ENR, enroﬂoxacin; CIP, ciproﬂoxacin; SXT, sulfamethoxazole/trimethoprim; COL, colistin; TGC, tigecycline.
+
+0
+6
+
+0
+8
+
+0
+0
+1
+
+E. coli Xbal
+
+Strain Date Source ST PG Carbapenemase Other β-lactmases
+KPC-2 TEM-1 /CTX-M-3/SHV-12/CMY-2
+MJ9
+─
+MJ71
+NDM-1
+MJ26
+─
+MJ28
+NDM-1
+MJ22
+KPC-2
+MJ87
+NDM-1
+MJ2
+─
+MJ62
+─
+MJ64
+MJ90
+NDM-1
+─
+MJ93
+─
+MJ92
+MJ19
+NDM-1
+─
+MJ48
+─
+MJ46
+KPC-2
+MJ43
+─
+H5
+S1
+─
+─
+S3
+─
+S5
+─
+S12
+─
+Y21
+─
+Y24
+─
+H33
+─
+H38
+─
+H29
+─
+H14
+─
+M7
+D27
+─
+D8
+KPC-2
+Y12
+─
+─
+J5
+J9
+─
+─
+J19
+─
+J21
+H11
+KPC-2
+
+TEM-1/CTX-M-14
+CTX-M-15
+CTX-M-55
+TEM-1/CTX-M-15
+TEM-1/CTX-M-14
+TEM-1/CTX-M-55/OXA-1/CMY-30
+TEM-1/CTX-M-55/CTX-M-65/CMY-2
+TEM-1/CTX-M-15
+TEM-1/SHV-12/CTX-M-15
+CTX-M-15/CMY-30
+TEM-52/CTX-M-15/OXA-1
+TEM-1/CTX-M-14/CMY-2
+SHV-11/CTX-M-27
+TEM-52/CTX-M-64/OXA-1/CMY-2
+TEM-1/OXA-1/CTX-M-15
+TEM- 1/CTX-M-14/CTX-M-3
+CTX-M-15
+SHV-12
+TEM-52/CTX-M-14
+SHV-12/CTX-M-3/OXA-1
+TEM-1/CTX-M-65
+TEM-1/SHV-11/CTX-M-14/CTX-M-5/0XA-1/CMY-2
+CTX-M-14/CTX-M-15
+SHV-12/CTX-M-55
+TEM-1/CTX-M-27/OXA-1
+TEM-1/CTX-M-64
+TEM-52/CTX-M-15/OXA-1
+CMY-2
+TEM-1/CTX-M-14/0XA-1
+TEM-1/CTX-M-15/CTX-M-14/OXA-1/CMY-30
+TEM-1/CTX-M-14/CTX-M-55/OXA-1
+CTX-M-14/CTX-M-55
+TEM-1/CTX-M-65/CTX-M-55
+SHV-12/CTX-M-14/OXA-1
+CTX-M-65/CMY-2
+
+2013 Water
+2014
+Water
+2013
+Water
+2013
+Water
+2013
+Water
+Water
+2014
+Water
+2013
+Water
+2014
+Water
+2014
+2014
+Water
+2014
+Water
+2014
+Water
+Water
+2013
+2013
+Water
+2013
+Water
+Water
+2013
+2010
+Porcine
+Porcine
+2013
+2013
+Porcine
+Porcine
+2013
+2013
+Porcine
+2013
+Porcine
+2013
+Porcine
+2013
+Porcine
+2013
+Porcine
+2013
+Porcine
+2012
+Porcine
+2010
+Porcine
+Porcine
+2013
+Porcine
+2013
+Porcine
+2012
+2013
+Porcine
+Porcine
+2013
+Porcine
+2014
+2013
+Porcine
+Porcine
+2012
+
+STI31
+ST25
+ST167
+ST10
+ST167
+ST410
+ST131
+ST252
+ST131
+ST72
+ST72
+ST72
+ST410
+ST648
+ST648
+ST648
+ST1209
+ST38
+ST38
+ST38
+ST315
+ST648
+ST648
+ST43
+ST745
+ST34
+ST34
+ST169
+ST251
+ST405
+ST131
+ST48
+ST48
+ST4
+ST4
+ST69
+
+B2
+B1
+A
+A
+A
+A
+B2
+B1
+B2
+B1
+B1
+B1
+A
+D
+D
+D
+A
+D
+D
+D
+D
+D
+D
+B1
+B1
+A
+A
+D
+B1
+B1
+B2
+A
+A
+A
+A
+D
+
+16S rRNA
+
+methylase genes
+
+PMQR
+
+─
+─
+─
+─
+armA
+─
+armA
+rmtB
+rmtB
+─
+rmtB
+─
+─
+─
+─
+─
+─
+─
+─
+─
+rmtB
+armA
+rmtB
+─
+─
+─
+─
+─
+armA
+armA
+armA
+armA
+─
+─
+─
+─
+
+qnrS/aac(6’)-Ib-cr
+oqxAB/qnrS
+aac(6’)-Ib-cr
+oqxAB/aac(6’)-lb-cr
+oqxAB/qnrS/qepA
+qnrB
+oqxAB/qepNaac(6’)-Ib-cr
+oqxAB/qnrS
+oqxAB
+oqxAB/qnrS/aac(6’)-Ib-cr
+─
+oqxAB/qnrS/aac(6’))-Ib-cr
+qepA/qnrS
+aac(6’)-Ib-cr
+oqxAB/qnrS/qepA
+oqxAB/aac(6’)-Ib-cr
+qepA
+oqxAB/qnrS
+─
+oqxAB/qepA
+aac(6’)-Ib-cr
+oqxAB/qnrS/qepA
+oqxAB/qnrS
+─
+oqxAB/qnrS/aac(6’)-Ib-cr
+qnrS
+oqxAB
+oqxAB
+
+oqxAB/qepA
+oqxAB/qnrS
+oqxAB/qnrS/aac(6’)-Ib-cr
+qnrB/aac(6’)-Ib-cr
+qnrS/aac(6’)-Ib-cr
+─
+─
+qepA/aac(6’)-Ib-cr
+
+Figure 2 The molecular characteristics of CRE isolates.
+Abbreviations: PG, phylogenetic group; CRE, carbapenem-resistant Escherichia coli.
+
+Infection and Drug Resistance 2019:12
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+2511
+
+ Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 84.54.58.168 on 30-Aug-2019For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1Cheng et al
+
+Dovepress
+
+y
+c
+n
+e
+u
+q
+e
+r
+f
+
+r
+e
+f
+s
+n
+a
+r
+t
+/
+e
+p
+y
+t
+
+i
+
+d
+m
+s
+a
+l
+P
+
+s
+e
+n
+e
+g
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+R
+
+)
+l
+
+m
+/
+g
+μ
+(
+
+I
+
+C
+M
+
+j
+
+s
+t
+n
+a
+g
+u
+n
+o
+c
+s
+n
+a
+r
+t
+
+/
+i
+l
+
+o
+c
+
+.
+
+E
+
+j
+
+s
+t
+n
+a
+g
+u
+n
+o
+c
+s
+n
+a
+r
+t
+
+r
+i
+e
+h
+t
+
+d
+n
+a
+
+i
+l
+
+o
+c
+
+.
+
+E
+
+e
+v
+i
+t
+i
+s
+o
+p
+
+1
+-
+M
+D
+N
+5
+
+f
+
+o
+
+s
+c
+i
+t
+s
+i
+r
+e
+t
+c
+a
+r
+a
+h
+c
+
+e
+h
+T
+
+3
+
+l
+
+e
+b
+a
+T
+
+3
+−
+
+0
+1
+×
+7
+3
+
+.
+
+5
+−
+
+0
+1
+×
+6
+4
+
+.
+
+/
+
+C
+A
+c
+n
+
+I
+
+4
+−
+
+0
+1
+×
+2
+4
+
+.
+
+5
+−
+
+0
+1
+×
+6
+8
+
+.
+
+/
+
+C
+A
+c
+n
+
+I
+
+2
+−
+
+0
+1
+×
+6
+2
+
+.
+
+3
+X
+c
+n
+
+I
+
+I
+I
+F
+c
+n
+
+I
+
+3
+X
+c
+n
+
+I
+
+ʹ
+
+r
+c
+-
+b
+I
+-
+)
+6
+(
+c
+a
+a
+/
+A
+p
+e
+q
+/
+B
+A
+x
+q
+o
+/
+A
+m
+r
+a
+/
+0
+3
+-
+Y
+M
+C
+/
+1
+A
+X
+O
+/
+5
+5
+M
+X
+T
+C
+/
+1
+M
+E
+T
+/
+1
+M
+D
+N
+
+-
+
+-
+
+-
+
+-
+
+-
+
+S
+r
+n
+q
+/
+A
+p
+e
+q
+/
+B
+t
+m
+
+-
+
+-
+
+r
+/
+2
+-
+Y
+M
+C
+/
+4
+1
+M
+X
+T
+C
+/
+1
+M
+E
+T
+/
+1
+M
+D
+N
+
+-
+
+-
+
+-
+
+A
+m
+r
+a
+/
+1
+M
+E
+T
+/
+1
+M
+D
+N
+
+-
+
+B
+t
+m
+
+-
+
+r
+/
+1
+M
+E
+T
+/
+1
+M
+D
+N
+
+-
+
+A
+p
+e
+q
+/
+S
+r
+n
+q
+/
+B
+A
+x
+q
+o
+/
+A
+m
+r
+a
+/
+5
+1
+M
+X
+T
+C
+/
+1
+M
+E
+T
+/
+1
+M
+D
+N
+
+-
+
+-
+
+-
+
+-
+
+-
+
+A
+m
+r
+a
+/
+1
+M
+E
+T
+/
+1
+M
+D
+N
+
+-
+
+ʹ
+
+-
+
+r
+c
+-
+b
+I
+-
+)
+6
+(
+c
+a
+a
+/
+5
+1
+M
+X
+T
+C
+/
+1
+M
+D
+N
+
+-
+
+-
+
+-
+
+1
+M
+D
+N
+
+ʹ
+
+-
+
+r
+c
+-
+b
+I
+-
+)
+6
+(
+c
+a
+a
+/
+S
+r
+n
+q
+/
+B
+A
+x
+q
+o
+/
+5
+1
+M
+X
+T
+C
+/
+2
+1
+V
+H
+S
+/
+1
+M
+E
+T
+/
+1
+M
+D
+N
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+M
+E
+T
+/
+1
+M
+D
+N
+
+-
+
+M
+E
+M
+
+M
+P
+I
+
+P
+T
+E
+
+8
+2
+1
+
+4
+6
+
+8
+2
+1
+
+4
+6
+
+4
+6
+
+2
+3
+
+2
+3
+
+6
+1
+
+2
+3
+
+2
+3
+
+6
+1
+
+2
+3
+
+4
+6
+
+2
+3
+
+6
+1
+
+2
+3
+
+8
+
+8
+
+2
+3
+
+4
+6
+
+6
+5
+2
+
+6
+5
+2
+
+8
+2
+1
+
+8
+2
+1
+
+8
+2
+1
+
+4
+6
+
+4
+6
+
+2
+3
+
+8
+2
+1
+
+6
+5
+2
+
+.
+
+m
+e
+n
+e
+p
+a
+t
+r
+e
+
+P,
+T
+E
+
+;
+
+m
+e
+n
+e
+p
+o
+r
+e
+m
+
+,
+
+M
+E
+M
+
+;
+
+m
+e
+n
+e
+p
+m
+
+i
+
+3
+5
+J
+-
+2
+J
+M
+
+-
+i
+l
+
+o
+c
+
+9
+1
+J
+M
+
+-
+i
+l
+
+o
+c
+
+3
+5
+J
+-
+9
+1
+J
+M
+
+-
+i
+l
+
+o
+c
+
+2
+2
+J
+M
+
+-
+i
+l
+
+o
+c
+
+3
+5
+J
+-
+2
+2
+J
+M
+
+-
+i
+l
+
+o
+c
+
+3
+5
+J
+-
+6
+2
+J
+M
+
+-
+i
+l
+
+o
+c
+
+6
+2
+J
+M
+
+-
+i
+l
+
+o
+c
+
+0
+9
+J
+M
+
+-
+i
+l
+
+o
+c
+
+3
+5
+J
+-
+0
+9
+J
+M
+
+-
+i
+l
+
+o
+c
+
+2
+J
+M
+
+-
+i
+l
+
+o
+c
+
+.
+
+E
+
+.
+
+E
+
+.
+
+E
+
+.
+
+E
+
+.
+
+E
+
+.
+
+E
+
+.
+
+E
+
+.
+
+E
+
+.
+
+E
+
+.
+
+E
+
+i
+
+,
+
+M
+P
+
+I
+
+:
+s
+n
+o
+i
+t
+a
+i
+v
+e
+r
+b
+b
+A
+
+±0.06, and 0.84±0.06 at 95% conﬁdence intervals,
+respectively.
+
+In vitro time–kill studies
+As presented in Figure 5, the difference of growth curve
+patterns for all strains was not obvious in antibiotic-free
+MH broth, imipenem could hardly inhibit the growth of
+CRE isolates, but imipenem at 4 μg/mL could obviously
+inhibit the growth of control strain.
+
+Discussion
+Numerous retrospective and prospective studies revealed that
+the frequent use of antimicrobials as therapy and prophylaxis
+of infectious diseases or feed additives in animals could
+select high antimicrobial resistance in bacteria, which is
+becoming a serious issue in China.26 In the present study,
+all E. coli isolates including 488 E. coli strains isolated from
+fecal samples of pigs and 105 E. coli isolated from water
+samples were tested for their susceptibility to 22 antimicro-
+bial agents. The antimicrobial susceptibility test showed that
+most of the E. coli were multidrug resistant. Agreeing with
+previous studies,27 the isolates showed high resistance to
+most of the conventional antimicrobial agents, such as
+gentamicin,
+tetracycline, chloramphenicol, and trimetho-
+prim-sulfamethoxazole which are commonly used for the
+treatment of post-weaning diarrhea in pig farm.
+
+Overall, as shown in Table S2, the prevalence of CRE
+in river water isolates was higher than that in pig isolates
+(17.14% vs 4.51%). The prevalence of CRE was continu-
+ally increased in E. coli isolates of pig origins during the
+period of investigation (2009–2014), which increased from
+1.61% during 2009–2010 to 7.73% during 2013–2014 (as
+shown in Figure S1). The E. coli isolates from different
+regions have different prevalence of CRE, as Yichun
+(6.82%), Jiamusi (8.89%), Mudanjiang (4.26%), Harbin
+(5.38%),
+(3.70%).
+Speciﬁcally, the prevalence of CRE in isolates of swine
+origin from Hegan and Jixi was (0/89) (Table S2).
+
+and Daqing
+
+(5.06%),
+
+Suihua
+
+The remarkable ﬁnding in the present study was that
+there were signiﬁcant difference between strains isolated
+from fecal samples of pigs and water samples on resis-
+tance rates to antimicrobial agents. Comparing the fre-
+quency of resistance to these 22 antimicrobial agents,
+higher resistance rates to most of the tested antimicrobial
+agents were present in E. coli strains isolated from water
+samples than isolates originated from pigs. It was note-
+worthy that our study revealed that 22.9% and 27.6% of
+the strains recovered from water samples were resistant to
+
+2512
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+Infection and Drug Resistance 2019:12
+
+ Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 84.54.58.168 on 30-Aug-2019For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1Dovepress
+
+Cheng et al
+
+0
+0
+6
+D
+O
+
+1.6
+1.4
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+
+pMD18-T/DH5α
+pMD18-T/NP-NDM-1/DH5α
+
+0
+
+2
+
+4
+
+6
+
+Time (h)
+
+8
+
+10
+
+12
+
+Figure 3 The growth curves of pMD18-T/DH5α and pMD18-T/NP-NDM-1/DH5α.
+
+MJ2
+MJ19
+MJ22
+MJ26
+MJ90
+
+s
+s
+e
+n
+t
+i
+f
+ 
+e
+v
+i
+t
+a
+e
+R
+
+l
+
+1.1
+
+1.0
+
+0.9
+
+0.8
+
+0.7
+0.6
+
+0.5
+
+MJ2
+
+MJ22
+
+MJ26
+MJ19
+P-blaNDM-1-pMD8-T-DH5α
+
+MJ90
+
+Figure 4 Relative ﬁtness of pMD18-T/NP-NDM-1/DH5α. A relative ﬁtness of 1
+indicates that the harboring NDM-1 undergo no ﬁtness cost, whereas a ratio of
+greater than or less than 1 indicates increased or decreased ﬁtness. Data are means
+±SD (error bars).
+
+NDM+imipenem
+Growth curve
+Control+imipenem
+
+)
+L
+m
+u
+
+/
+
+f
+c
+(
+0
+1
+g
+o
+L
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Incubation time (h)
+
+Figure 5 Average time–kill curve of imipenem against 5 isolates of CRE. Data are
+means±SD (error bars).
+Abbreviations: CRE, carbapenem-resistant Escherichia coli; NDM, New Delhi
+metallo-lactamase.
+
+colistin and tigecycline, respectively. Due to the wide-
+spread and excessive use of antibiotics, the aquatic envir-
+onment has been contaminated by antibiotic, which is
+becoming a global problem.28 The antibiotic contamina-
+tion is associated with municipal sewage discharges and
+
+animal production wastewaters, which are constantly
+released into the aquatic environment along with various
+bacteria
+and
+antibiotics.29
+
+resistance
+
+genes
+
+carrying
+
+antibiotic
+
+In the present study, we isolated and identiﬁed 5 bla-
+NDM-carrying strains which were all isolated from water
+samples among 40 CRE, and we also detected 5 blaKPC-
+carrying strains including 3 strains isolated from water
+samples and 2 strains isolated from fecal samples of
+pigs, other carbapenemase genes were not detected in all
+of the CRE isolates. However, a meta surveillance per-
+formed in European countries demonstrated 71% of the
+CRE were carbapenemase-producing, together with a wide
+variety of carbapenemases were detected, which is contra-
+dicted with the ﬁndings of this work.30 Generally, the
+emergence and dissemination of the blaNDM have continu-
+ously increased worldwide. Furthermore, a multicenter
+study of the China CRE network showed that 74.4%
+were NDM producer among 39 CRE isolates, indicating
+that combating infections caused by this “superbug” is
+becoming a serious issue.31
+
+The genetic environments surrounding the blaNDM-1 gene
+were determined to be ISAba125- blaNDM-1-bleMBL-ΔtrpF in
+all of the NDM-positive isolates. The gene cluster (blaNDM-1-
+bleMBL-ΔtrpF) has been reported in E. coli plasmids (pNDM-
+HK, pBJ01, and pNDM_Dok01) and Acinetobacter lwofﬁi
+plasmids (pNDM-BJ01 and pNDM-BJ02), which was highly
+conserved.32 Some study demonstrated that blaNDM-1 and ble-
+MBL were under the control of the same promoter, and this
+structure may facilitate the spread of blaNDM-1 under the anti-
+biotics selective pressure.33 It has been showed that ISAba125
+could provide the 35 regions of the promoter sequence for
+blaNDM-1 in all reported cases.32 Two of the isolates contained
+a common genomic structure around the blaNDM-1 (ISAba125-
+
+Infection and Drug Resistance 2019:12
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+2513
+
+ Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 84.54.58.168 on 30-Aug-2019For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1Cheng et al
+
+blaNDM-1-bleMBL-ΔtrpF-groES-groL-insE-ISAba125), which
+was similar to the genetic environment of the Acinetobacter
+lwofﬁi,13 it revealed that the resistant plasmid could be trans-
+ferred between Enterobacteriaceae and Acinetobacter.
+
+among
+
+the Enterobacteriaceae
+
+It is now commonly accepted that the main risk factors
+for the rapid increase in the prevalence of CRE are the
+mobile genetic elements mediated blaNDM-1 transfer and
+clonal spread of strains which containing mobile resistance
+species.34
+elements
+Numerous studies showed that the blaNDM-1-like genes
+are predominantly detected in the ST131 and ST101 of
+E. coli, and ST11 of Klebsiella pneumonia, which sug-
+gested that the transmission of mobile resistance elements
+in CRE was associated with the sequence types of bacter-
+ial strains.35,36 In this study, four STs (ST131, ST167,
+ST410, and ST72) were identiﬁed among the ﬁve NDM-
+1-positive E. coli isolates. Two E. coli isolates (MJ22 and
+MJ26) recovered from two different locations of the river
+share the same ST (ST167), suggesting that they were
+clonally related. It has been demonstrated that ST131
+was the most prevalent strain type of E. coli worldwide,
+ST167 has strong association with clinical infections in
+China.37 Recently, some studies have reported several
+sporadic cases of clinical infections caused by NDM pro-
+ducers which were related to E. coli ST167 carrying
+blaNDM-5 in various parts of China.37
+
+The high efﬁciency of mobile resistance elements
+transfer facilitates the spread of blaNDM worldwide. In
+this study, conjugative assays revealed that all of the
+blaNDM-1 plasmids were successfully transferred to E.
+coli J53 from the 5 donors by conjugation. Furthermore,
+the plasmids from all transconjugants belonged to different
+plasmid replicon types including IncA/C (n=2), IncFII
+(n=1), and IncX3 (n=2). It has been demonstrated that
+the widespread blaNDM-1-carrying plasmid throughout the
+world was related to multiple replicon types, including
+IncX3, IncF, and IncA/C, etc. IncA/C belongs to broad-
+host range plasmid, which was predominantly reported for
+carrying blaNDM-1 as well as other resistance genes, and
+widely disseminated among Gram-negative bacteria
+worldwide.38 The identiﬁcation of the IncX3-type plasmid
+carrying the blaNDM-1 gene was ﬁrst reported in 2012 in
+multiple cities in China.39 Recently, numerous studies
+showed that IncX3 plasmids carrying different blaNDM
+variants were frequently found among clinical isolates,
+indicating that it is an important vector to facilitate the
+widespread of NDM in China.39
+
+Dovepress
+
+The impact of blaNDM-1 on growth and ﬁtness was
+assessed by comparing pMD18-T/DH5α and pMD18-T/
+NP-NDM-1/DH5α. No difference in growth between
+pMD18-T/DH5α and pMD18-T/NP-NDM-1/DH5α could
+be observed after 12 hrs, indicating that NDM-1 does not
+have a signiﬁcant impact on cell proliferation, which is in
+line with the previous study.40 The results of competition
+experiments demonstrated that the expression of blaNDM-1
+could bring energy burden on the host and cause ﬁtness
+cost, which is in agreement with the previous study that
+acquisition of blaNDM-1 plasmid could lead to a loss of
+ﬁtness for E. coli J53 receipt.40
+
+among
+
+detected
+
+resistance) were
+
+Conclusion
+In summary, the overall antimicrobial resistance in E. coli
+recovered from water samples is higher than the strains
+isolated from fecal samples of pigs. Genes encoding ﬁve
+different groups of resistance enzymes (carbapenemase,
+ESBL, 16S rRNA methyltransferases, Ampc, and quino-
+lone
+40 CRE.
+Furthermore, we isolated and identiﬁed ﬁve NDM-1-pro-
+ducing E. coli strains isolated from water samples. All of
+the plasmids harboring blaNDM-1 from ﬁve selected CRE
+isolates were successfully transferred to E. coli J53. The
+plasmids from all transconjugants belonged to different
+plasmid replicon types including IncA/C, IncFII, and
+IncX3. The carriage of blaNDM-1 did not have a signiﬁcant
+impact on cell proliferation but reduced ﬁtness of bacterial
+hosts. Therefore, studies on early epidemic characteristics
+of NDM-positive E. coli are necessary to provide compre-
+hensive, extensive, and clear information to optimize anti-
+biotic policy in endemic areas.
+
+Acknowledgment
+We thank the National Science and Technology Project
+and the National 13th Five-Year Key R&D Program
+Special Project (registration number: 2016YFD0501302)
+for providing ﬁnancial funding.
+
+Author contributions
+XZ and GX conceived and designed the experiments.
+PC FL, RL, TX, and YY performed the practical
+work, completed the experiments and analyzed the data.
+PC and MI wrote and revised the manuscript. All authors
+contributed to data analysis, drafting and revising the
+article, gave ﬁnal approval of the version to be published,
+and agree to be accountable for all aspects of the work.
+
+2514
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+Infection and Drug Resistance 2019:12
+
+ Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 84.54.58.168 on 30-Aug-2019For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1Dovepress
+
+Cheng et al
+
+Disclosure
+The authors report no conﬂicts of interest in this work.
+
+References
+1. Worthington RJ, Melander C. Combination approaches to combat
+multidrug-resistant bacteria. Trends Biotechnol. 2013;31(3):177–
+184. doi:10.1016/j.tibtech.2012.12.006
+
+2. Luo Y, Yang F, Mathieu J, Mao D, Wang Q, Alvarez P. Proliferation
+of multidrug-resistant New Delhi Metallo-β-lactamase genes in muni-
+cipal wastewater treatment plants in northern China. Environ Sci
+Technol Lett. 2014;1(1):26–30. doi:10.1021/ez400152e
+
+3. Bogaard AE, Van Den, Stobberingh EE. Epidemiology of resistance
+to antibiotics links between animals and humans. Int J Antimicrob
+Agents. 2000;14(4):327–335.
+
+4. Sáenz Y, Zarazaga M, As L B, Lantero M, Ruiz-Larrea F, Torres C.
+Antibiotic resistance in Escherichia coli isolates obtained from ani-
+mals, foods and humans in Spain. Int J Antimicrob Agents. 2001;18
+(4):353–358. doi:10.1016/S0924-8579(01)00422-8
+
+5. Bi R, Kong Z, Qian H, et al. High Prevalence of blaNDM variants among
+in northern Jiangsu Province,
+
+carbapenem-resistant Escherichia coli
+China. Front Microbiol. 2018;9:2704. doi:10.3389/fmicb.2018.02704
+
+6. Livermore DM. Has the era of untreatable infections arrived? J Antimicrob
+
+Chemother. 2009;64 Suppl 1:i29–i36. doi:10.1093/jac/dkp255
+
+7. Walsh TR. Emerging carbapenemases: a global perspective. Int J
+Antimicrob Agents. 2010;36 Suppl 3:S8–S14. doi:10.1016/S0924-
+8579(10)70004-2
+
+8. Yong D, Toleman MA, Giske CG, et al. Characterization of a new
+metallo-β-lactamase gene, blaNDM-1, and a novel erythromycin
+esterase gene carried on a unique genetic structure in Klebsiella
+pneumoniae sequence type 14 from India. Antimicrob Agents
+Chemother. 2009;53(12):5046–5054. doi:10.1128/AAC.00774-09
+
+9. Johnson AP, Woodford N. Global spread of antibiotic resistance: the
+example of New Delhi metallo-β-lactamase (NDM)-mediated carba-
+J Med Microbiol. 2013;62(Pt 4):499–513.
+penem resistance.
+doi:10.1099/jmm.0.052555-0
+
+10. Chen Y, Zhou Z, Jiang Y, Yunsong Y. Emergence of NDM-1-produ-
+cing Acinetobacter baumannii in China. J Antimicrob Chemother.
+2011;66(6):1255–1259. doi:10.1093/jac/dkr082
+
+11. Jing Y, Tan K, Rong Z, et al. Nosocomial outbreak of KPC-2- and
+NDM-1-producing Klebsiella pneumoniae in a neonatal ward: a
+retrospective study. BMC Infect Dis. 2016;16(1):563. doi:10.1186/
+s12879-016-1987-z
+
+12. Zong Z, Zhang X. blaNDM-1-carrying Acinetobacter johnsonii
+detected in hospital sewage. J Antimicrob Chemother. 2013;68
+(5):1007–1010. doi:10.1093/jac/dks505
+
+13. Hu H, Hu Y, Pan Y, et al. Novel plasmid and its variant harboring
+both a blaNDM-1 gene and type IV secretion system in clinical
+isolates of Acinetobacter lwofﬁi. Antimicrob Agents Chemother.
+2012;56(4):1698–1702. doi:10.1128/AAC.06199-11
+
+14. Ellington MJ, James K, Livermore DM, Neil W. Multiplex PCR for
+rapid detection of genes encoding acquired metallo-β-lactamases. J
+Antimicrob Chemother. 2007;59(2):321–322. doi:10.1093/jac/dkl481
+15. Favier C, Arlet G, Dallenne C, Costa AD, Decre D, Curie M.
+Development of a set of multiplex PCR assays for the detection of
+genes encoding important β-lactamases in Enterobacteriaceae. J
+Antimicrob Chemother. 2010;65(3):490–495. doi:10.1093/jac/dkp498
+16. Hu X, Xu B, Yang Y, et al. A high throughput multiplex PCR assay
+for simultaneous detection of seven aminoglycoside-resistance genes
+in Enterobacteriaceae. BMC Microbiol. 2013;13(1):58. doi:10.1186/
+1471-2180-13-58
+
+17. Ciesielczuk H, Hornsey M, Choi V, Woodford N, Wareham DW.
+Development and evaluation of a multiplex PCR for eight plasmid-
+mediated quinolone-resistance determinants. J Med Microbiol.
+2013;62(12):1823–1827. doi:10.1099/jmm.0.064428-0
+
+18. Gautom RK. Rapid pulsed-ﬁeld gel electrophoresis protocol for typ-
+ing of Escherichia coli O157: H7 and other gram-negative organisms
+in 1 day. J Clin Microbiol. 1997;35(11):2977–2980.
+
+19. Tartof SY, Solberg OD, Manges AR, Riley LW. Analysis of a uro-
+pathogenic Escherichia coli clonal group by multilocus sequence
+typing. J Clin Microbiol. 2005;43(12):5860–5864. doi:10.1128/
+JCM.43.12.5860-5864.2005
+
+20. Clermont O, Bonacorsi S, Bingen E. Rapid and simple determination
+of the Escherichia coli phylogenetic group. Appl Environ Microbiol.
+2000;66(10):4555–4558. doi:10.1128/aem.66.10.4555-4558.2000
+
+21. Carattoli A, Bertini A, Villa L, Falbo V, Hopkins KL, Threlfall EJ.
+Identiﬁcation of plasmids by PCR-based replicon typing. J Microbiol
+Methods. 2005;63(3):219–228. doi:10.1016/j.mimet.2005.03.018
+
+22. Johnson TJ, Bielak EM, Fortini D, et al. Expansion of the IncX
+plasmid family for improved identiﬁcation and typing of novel plas-
+mids in drug-resistant Enterobacteriaceae. Plasmid. 2012;68(1):43–
+50. doi:10.1016/j.plasmid.2012.03.001
+
+23. Liu YY, Wang Y, Walsh TR, et al. Emergence of plasmid-mediated
+colistin resistance mechanism MCR-1 in animals and human beings in
+China: a microbiological and molecular biological study. Lancet Infect
+Dis. 2016;16(2):161–168. doi:10.1016/S1473-3099(15)00424-7
+
+24. He T, Wei R, Zhang L, et al. Characterization of NDM-5-positive
+extensively resistant Escherichia coli isolates from dairy cows. Vet
+Microbiol. 2017;207:153–158. doi:10.1016/j.vetmic.2017.06.010
+
+25. Qin S, Fu Y, Zhang Q, et al. High incidence and endemic spread of
+NDM-1-positive Enterobacteriaceae in Henan Province, China.
+Antimicrob Agents Chemother. 2014;58(8):4275–4282. doi:10.1128/
+AAC.02813-13
+
+26. Liu JH, Wei SY, Ma JY, et al. Detection and characterisation of CTX-
+M and CMY-2 β-lactamases among Escherichia coli isolates from
+farm animals in Guangdong Province of China. Int J Antimicrob
+Agents. 2007;29(5):576–581. doi:10.1016/j.ijantimicag.2006.12.015
+27. Smith MG, Jordan D, Chapman TA, et al. Antimicrobial resistance
+and virulence gene proﬁles in multi-drug resistant enterotoxigenic
+Escherichia coli isolated from pigs with post-weaning diarrhoea. Vet
+Microbiol. 2010;145(3):299–307. doi:10.1016/j.vetmic.2010.04.004
+28. Brown KD, Kulis J, Thomson B, Chapman TH, Mawhinney DB.
+Occurrence of antibiotics in hospital, residential, and dairy efﬂuent,
+municipal wastewater, and the Rio Grande in New Mexico. Sci Total
+Environ. 2006;366(2):772–783. doi:10.1016/j.scitotenv.2005.10.007
+29. Michael I, Rizzo L, Mcardell CS, et al. Urban wastewater treatment plants
+as hotspots for the release of antibiotics in the environment: a review.
+Water Res. 2013;47(3):957–995. doi:10.1016/j.watres.2012.11.027
+
+30. Grundmann H, Glasner C, Albiger B, et al. Occurrence of carbape-
+nemase-producing Klebsiella pneumoniae and Escherichia coli in the
+European survey of carbapenemase-producing Enterobacteriaceae
+(EuSCAPE): a prospective, multinational study. Lancet Infect Dis.
+2017;17(2):153–163. doi:10.1016/S1473-3099(16)30257-2
+
+31. Zhang Y, Wang Q, Yin Y, et al. Epidemiology of carbapenem-resis-
+tant Enterobacteriaceae infections: report from China CRE Network.
+Antimicrob Agents Chemother. 2018;62(2):AAC.01882–17.
+
+32. Partridge SR, Iredell JR. Genetic contexts of blaNDM-1. Antimicrob
+Agents Chemother. 2012;56(11):6065–6067. doi:10.1128/AAC.00117-12
+33. Laurent D, Patrice N, Laurent P. Association of the emerging carba-
+penemase NDM-1 with a bleomycin resistance protein in
+Enterobacteriaceae and Acinetobacter baumannii. Antimicrob Agents
+Chemother. 2012;56(4):1693–1697. doi:10.1128/AAC.05583-11
+
+34. Lascols C, Hackel M, Marshall SH, et al. Increasing prevalence and
+dissemination of NDM-1 metallo-β-lactamase in India: data from the
+SMART study. J Antimicrob Chemother. 2011;66(9):1992–1997.
+doi:10.1093/jac/dkr240
+
+35. Gisele P, Schreckenberger PC, Pitout JDD. Characteristics of NDM-
+1-producing Escherichia coli isolates that belong to the successful
+and virulent clone ST131. Antimicrob Agents Chemother. 2011;55
+(6):2986–2988. doi:10.1128/AAC.01763-10
+
+Infection and Drug Resistance 2019:12
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+2515
+
+ Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 84.54.58.168 on 30-Aug-2019For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1Cheng et al
+
+Dovepress
+
+36. Giske CG, Inga FD, Chowdhury Mehedi H, et al. Diverse sequence
+types of Klebsiella pneumoniae contribute to the dissemination of
+blaNDM-1 in India, Sweden, and the United Kingdom. Antimicrob
+Agents Chemother.
+doi:10.1128/AAC.
+06142-11
+
+2012;56(5):2735–2738.
+
+37. Yang P, Xie Y, Feng P, Zong Z. blaNDM-5 carried by an IncX3
+plasmid in Escherichia coli sequence type 167. Antimicrob Agents
+Chemother. 2014;58(12):7548–7552. doi:10.1128/AAC.03911-14
+
+38. Johnson TJ, Lang KS. IncA/C plasmids: an emerging threat to human
+and animal health? Mob Genet Elements. 2012;2(1):55–58.
+doi:10.4161/mge.19626
+
+39. Ho PL, Li Z, Lo W, et al. Identiﬁcation and characterization of a
+incompatibility group X3 plasmid carrying blaNDM-1 in
+novel
+Enterobacteriaceae isolates with epidemiological links to multiple
+geographical areas in China. Emerg Microbes Infect. 2012;1(11):e39.
+doi:10.1038/emi.2012.33
+
+40. Göttig S, Riedel-Christ S, Saleh A, Kempf VA, Hamprecht A. Impact
+of blaNDM-1 on ﬁtness and pathogenicity of Escherichia coli and
+Klebsiella pneumoniae. Int J Antimicrob Agents. 2016;47(6):430–
+435. doi:10.1016/j.ijantimicag.2016.02.019
+
+2516
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+Infection and Drug Resistance 2019:12
+
+ Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 84.54.58.168 on 30-Aug-2019For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1Dovepress
+
+Supplementary materials
+
+Cheng et al
+
+)
+
+%
+
+(
+ 
+
+10
+
+8
+
+6
+
+4
+
+2009-2010
+2011-2012
+2013-2014
+
+E
+R
+C
+
+ 
+f
+o
+ 
+e
+g
+a
+t
+n
+e
+c
+r
+e
+
+2P
+
+0
+
+2009-2010
+
+2011-2012
+
+2013-2014
+
+Year
+
+Figure S1 Percentage of CRE isolated from fecal samples of pigs in different years.
+Abbreviation: CRE, carbapenem-resistant Escherichia coli.
+
+Table S1 Antimicrobial susceptibility of CRE strains to carbapenems antibiotic
+
+Antimicrobial agents
+
+Number (%) of
+resistant isolates
+
+CRE isolated from pigs (n=22)
+
+CRE isolated from river (n=18)
+
+MIC (μg/mL)
+
+Range MIC50 MIC90
+
+Number
+(%) of
+resistant
+isolates
+
+6 (27.3)
+10 (45.5)
+13 (59.1)
+
+MIC (μg/mL)
+
+Range MIC50 MIC90
+
+0.5–64
+0.5–128
+1–256
+
+4
+8
+8
+
+32
+128
+128
+
+Number
+(%) of
+resistant
+isolates
+
+11 (61.1)
+12 (66.7)
+15 (83.3)
+
+IPM
+MEM
+ETP
+
+17 (42.5)
+22 (55.0)
+28 (70.0)
+
+0.5–16
+0.5–16
+0.5–32
+
+1
+2
+2
+
+16
+16
+32
+
+Abbreviations: IPM, imipenem; MEM, meropenem; ETP, ertapenem.
+
+Table S2 Prevalence of CRE isolates in fecal samples of pigs and water samples from different regions of Heilongjiang province
+
+Yichun
+
+Hegan
+
+Jiamusi
+
+Jixi
+
+Mudanjiang
+
+Harbin
+
+Suihua
+
+Daqing
+
+Total
+
+Swine
+N collected samples
+N isolated E.coli
+N CRE (percentage)
+N NDM-positive
+Water
+N collected samples
+N isolated E.coli
+N CRE (percentage)
+N NDM-positive
+
+57
+44
+3 (6.82)
+0
+ND
+
+63
+44
+0 (0)
+0
+ND
+
+71
+45
+4 (8.89)
+0
+ND
+
+60
+45
+0 (0)
+0
+ND
+
+55
+47
+2 (4.26)
+0
+ND
+
+152
+130
+7 (5.38)
+0
+
+133
+105
+18 (17.14)
+5
+
+103
+79
+4 (5.06)
+0
+ND
+
+69
+54
+2 (3.70)
+0
+ND
+
+630
+488
+22 (4.51)
+0
+ND
+133
+105
+18 (17.14)
+
+Abbreviations: N, number of; ND, not determined.
+
+Infection and Drug Resistance 2019:12
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+2517
+
+ Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 84.54.58.168 on 30-Aug-2019For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1Cheng et al
+
+Dovepress
+
+Infection and Drug Resistance
+Publish your work in this journal
+
+Dovepress
+
+Infection and Drug Resistance is an international, peer-reviewed open-
+access journal that focuses on the optimal treatment of infection
+(bacterial, fungal and viral) and the development and institution of
+preventive strategies to minimize the development and spread of resis-
+tance. The journal is speciﬁcally concerned with the epidemiology of
+
+antibiotic resistance and the mechanisms of resistance development and
+diffusion in both hospitals and the community. The manuscript manage-
+ment system is completely online and includes a very quick and fair peer-
+review system, which is all easy to use. Visit http://www.dovepress.com/
+testimonials.php to read real quotes from published authors.
+
+Submit your manuscript here: https://www.dovepress.com/infection-and-drug-resistance-journal
+
+2518
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+Infection and Drug Resistance 2019:12
+
+ Infection and Drug Resistance downloaded from https://www.dovepress.com/ by 84.54.58.168 on 30-Aug-2019For personal use only.Powered by TCPDF (www.tcpdf.org)                               1 / 1

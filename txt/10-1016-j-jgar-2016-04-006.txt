@@ -1,0 +1,875 @@
+Journal  of  Global  Antimicrobial  Resistance  6  (2016)  108–112
+
+Contents  lists  available  at  ScienceDirect
+
+Journal  of  Global  Antimicrobial  Resistance
+
+j o  u  r n  a l  h  o m  e p  a g e :  w  w w . e l s  e v i e r . c  o  m / l o  c  a t e / j g  a r
+
+Molecular  characterisation  of  extended-spectrum  b-lactamase-  and
+plasmid  AmpC-producing  Escherichia  coli  strains  isolated  from  broilers
+in  Be´ jaı¨a,  Algeria
+
+Mohamed  Belmahdi a,b,  Soﬁane  Bakour a,c,  Charbel  Al  Bayssari c,  Abdelaziz  Touati a,
+Jean-Marc  Rolain c,*
+a Laboratoire  d’Ecologie  Microbienne,  FSNV,  Universite´ de  Be´jaı¨a,  06000  Be´jaı¨a,  Algeria
+b De´partement  de  Biologie,  FSNV,  Universite´ de  Djelfa,  17000  Djelfa,  Algeria
+c Unite´ de  recherche  sur  les  maladies  infectieuses  et  tropicales  e´mergentes  (URMITE),  UM  63,  CNRS  7278,  IRD  198,  INSERM  1095,  IHU  Me´diterrane´e  Infection,
+Faculte´ de  Me´decine  et  de  Pharmacie,  Aix-Marseille  Universite´,  Marseille,  France
+
+A  R  T  I  C  L  E 
+
+I  N  F  O
+
+A  B  S  T  R  A  C  T
+
+Article  history:
+Received  25  February  2016
+Received  in  revised  form  6  April  2016
+Accepted  7  April  2016
+
+Keywords:
+Escherichia  coli
+ESBL
+pAmpC
+ST5086
+Broilers
+Algeria
+
+isolates  recovered  from  healthy  broilers 
+
+This  study  aimed  to  characterise  the  molecular  support  of  antibiotic  resistance  in  expanded-spectrum
+in  Be´ jaı¨a,
+cephalosporin  (ESC)-resistant  Escherichia  coli 
+northeast  Algeria.  A  total  of  61  intestinal  swabs  from  slaughtered  broilers  from  four  regions  in  Be´ jaı¨a
+locality,  Algeria,  were  collected  between  February  and  April  2014,  from  which  20  ESC-resistant  E.  coli
+strains  were  isolated.  Escherichia  coli  isolates  were  identiﬁed  by  classical  biochemical  and  MALDI-TOF
+methods.  Antibiotic  susceptibility  testing  was  performed  using  disk  diffusion  and  Etest  methods.
+for  b-lactamases,  aminoglycoside-modifying  enzyme  (AME)-encoding  genes  and  qnr
+Screening 
+determinants  was  performed  by  PCR  and  sequencing.  Clonal  relatedness  was  determined  using
+molecular  typing  by  multilocus  sequence  typing  (MLST).  Antibiotic  susceptibility  testing  revealed  that
+the 
+isolates  showed  high  rates  of  resistance  (>90%)  to  amoxicillin,  amoxicillin/clavulanic  acid,
+piperacillin/tazobactam,  aztreonam,  ceftazidime,  streptomycin, 
+tobramycin,  nalidixic  acid  and
+ciproﬂoxacin.  Low  rates  of  resistance  were  observed  for  kanamycin  (35%),  amikacin  (30%),  cefoxitin
+(20%)  and  cefotaxime  (15%).  Molecular  characterisation  revealed  that  all  of  the  isolates  expressed  the
+blaTEM-1 gene.  Fourteen  of  them  harboured  the  blaSHV-12 gene,  two  harboured  the  blaCTX-M-1 gene  and  four
+isolates  harboured  blaCMY-2.  Screening  for  AME-encoding  genes  demonstrated  that  all  isolates  contained
+the  aadA  gene.  In  addition,  qnrA  was  detected  as  the  quinolone  resistance  determinant  in  13  isolates.
+MLST  revealed  four  known  sequence  types  (STs),  including  ST744,  ST38,  ST1011  and  ST2179,  as  well  as
+one  new  sequence  type  (ST5086).  Here  we  report  the  ﬁrst  study  describing  the  clonal  diversity  of
+extended-spectrum  b-lactamase  (ESBL)-  and  plasmid  AmpC-producing  E.  coli  isolated  from  healthy
+broilers  in  Algeria.
+ß  2016  International  Society  for  Chemotherapy  of  Infection  and  Cancer.  Published  by  Elsevier  Ltd.  All
+rights  reserved.
+
+1.  Introduction
+
+Escherichia  coli  is  a  common  commensal  of  the  intestinal  tract  of
+animals  and  humans  but  is  also  an  important  human  pathogen  [1].
+Currently,  several  studies  have  reported  many  cases  of  infection
+caused  by  multidrug-resistant  E.  coli  in  humans  and  animals  [1].
+Some  studies  have  raised  an  alarm  about  the  wide  presence  of
+
+* Corresponding  author.  Tel.:  +33  4  91  32  43  75;  fax:  +33  4  91  38  77  72.
+
+E-mail  address:  jean-marc.rolain@univ-amu.fr  (J.-M.  Rolain).
+
+extended-spectrum  b-lactamases  (ESBLs)  in  bacteria  recovered
+from  a  wide  diversity  of  animals  and  food  products  in  different
+countries  [2].  This  resistance  has  been  observed 
+in  strains
+originating  from  different  animal  species,  but  is  signiﬁcantly
+higher  in  strains  isolated  from  intensive  broiler  production  around
+the  world  [3].  Thus,  it  is  well  established  that  antibiotic-resistant
+bacteria  that  are  selected  in  chickens,  pigs  and  cattle  may  be
+transmitted  to  the  human  intestine  via  the  food  chain  as  well  as  in
+environmental  settings  [1].  The  role  of  pets  and  wild  animals  as
+reservoirs  of  antibiotic  resistance  genes  has  been  also  documented
+[4].  Resistant  bacteria  and  plasmids  bearing  resistance  genes  could
+
+http://dx.doi.org/10.1016/j.jgar.2016.04.006
+2213-7165/ß  2016  International  Society  for  Chemotherapy  of  Infection  and  Cancer.  Published  by  Elsevier  Ltd.  All  rights  reserved.
+
+M.  Belmahdi  et  al.  /  Journal  of  Global  Antimicrobial  Resistance  6  (2016)  108–112 
+
+109
+
+be  transferred  from  chicken  to  chicken  and  from  chicken  to
+humans  [5].  This  raises  public  health  concerns  as  the  intestinal
+microbiome  of  these  animals  might  serve  as  a  reservoir  for  ESBL/
+AmpC-encoding  resistance  genes  capable  of  being  transmitted  to
+humans  [5].  Transmission  via  the  food  chain  has  been  suggested,
+but  transmission  resulting  from  close  contact  between  humans
+and  animals  on  livestock  farms  is  also  plausible  [5].  This  suggests
+that  contact  with  broilers  and/or  the  farm  environment  could  be  a
+risk  factor  for  ESBL/AmpC  carriage  among  humans  [5].  Escherichia
+coli  isolates  resistant  to  oxyimino-cephalosporins  owing  to  the
+production  of  ESBLs  have  emerged  worldwide  and  a  number  of
+different  ESBL  genes,  such  as  the  blaSHV,  blaTEM and  blaCTX-M,  have
+been  identiﬁed  [1].  In  Algeria,  the  ﬁrst  report  of  the  presence  of
+CTX-M-like  enzymes  in  clinical  Enterobacteriaceae  isolates  was
+made  by  Touati  et  al.,  from  Be´ jaı¨a, northeast  Algeria  [6].  Detection
+of  the  SHV-12  enzyme  was  reported  for  the  ﬁrst  time  in  clinical
+isolates  in  Algeria  in  2008  by  Iabadene  et  al.  [7].  In  addition,  the
+CMY-2  enzyme  was  reported  for  the  ﬁrst  time  in  a  Salmonella
+enterica  serotype  Senftenberg  clinical  isolate  recovered  from  stools
+of  an  Algerian  child  [8].  In  poultry,  one  study  on  ESBL-producing
+E.  coli  from  avian  isolates  was  conducted  by  Meguenni  et  al.  [9].  The
+authors  cited  the  presence  of  the  ESBL  enzymes  CTX-M-1  and
+CTX-M-15  in  E.  coli  isolates  from  birds  in  the  Algerian  central
+regions  [9].
+
+The  objective  of  this  study  was  to  characterise  the  antibiotic
+resistance  determinants 
+in  expanded-spectrum  cephalosporin
+(ESC)-resistant  E.  coli  isolates  recovered  from  healthy  broilers  in
+Be´ jaı¨a,  Algeria.
+
+2.  Materials  and  methods
+
+2.1.  Sampling  and  strain  isolation
+
+A  total  of  61 
+
+intestinal  swabs  (inside  of  the  caecum)  of
+slaughtered  broilers  were  collected  from  four  poultry  farms  in  four
+regions  in  Be´ jaı¨a, Algeria  (30  from  the  Be´ jaı¨a region,  15  from  the
+Akbou  region,  13  from  the  Feraoun  region  and  3  from  the  Souk
+El-Te´ nine  region)  and  were  screened  for  the  presence  of  ESBL-
+producing  E.  coli  isolates  between  February  and  April  2014.  Each
+swab  was  incubated  for  24  h  at  37  8C  in  nutrient  broth  (Fluka,  St
+Louis,  MO)  for  enrichment.  They  were  subsequently  seeded  on
+eosin–methylene  blue  agar  (Fluka)  plates  supplemented  with
+2  mg/mL  ceftazidime  and  were  incubated  for  24  h  at  37  8C.  Isolates
+with  typical  E.  coli  morphology  were  selected  (one  per  sample)  and
+were  identiﬁed  by  classical  biochemical  methods  using  the  API  20E
+identiﬁcation  system  (bioMe´ rieux,  Marcy-l’E´ toile,  France)  and
+were  conﬁrmed  using 
+laser  desorption/
+ionisation 
+time-of-ﬂight  mass  spectrometry  (MALDI-TOF/MS)
+method  (Microﬂex;  Bruker  Daltonics  GmbH,  Bremen,  Germany)
+[10].
+
+the  matrix-assisted 
+
+2.2.  Antibiotic  susceptibility  testing
+
+(CA-SFM) 
+
+Antibiotic  susceptibility  testing  was  performed  on  Mueller–
+Hinton  (Fluka)  agar  by  the  standard  disk  diffusion  procedure  as
+described  by  the  Antibiogram  Committee  of  the  French  Society  for
+Microbiology 
+(http://www.sfm-microbiologie.org/).
+Eighteen  antibiotics  were  tested,  including  amoxicillin,  amoxicil-
+lin/clavulanic  acid,  piperacillin/tazobactam,  cefoxitin,  cefotaxime,
+ceftazidime,  cefepime,  aztreonam,  meropenem,  imipenem,  ami-
+kacin,  tobramycin,  streptomycin,  kanamycin,  gentamicin,  nalidixic
+acid,  ciproﬂoxacin  and  colistin 
+from  Bio-Rad,  Marnes-
+la-Coquette,  France).  Minimum  inhibitory  concentrations  (MICs)
+of  cefotaxime,  ceftazidime,  cefepime  and  ciproﬂoxacin  were
+determined  using  the  Etest  method  (AB  BIODISK,  Solna,  Sweden).
+Results  were  interpreted  according  to  CA-SFM  breakpoints.
+
+(all 
+
+2.3.  Phenotypic  extended-spectrum  b-lactamase  detection
+
+A  screening  test  for  ESBL  production  was  carried  out  on
+Mueller–Hinton  agar  by  the  double-disk  synergy  test  by  placing
+disks  of  aztreonam,  cefepime,  ceftazidime  and  cefotaxime  (30  mg
+each)  at  a  distance  of  20  mm  centre-to-centre  from  a  disk  with
+amoxicillin/clavulanic  acid 
+the
+inhibition  zone  between  the  disks  containing  amoxicillin/clavu-
+lanic  acid  and  cefotaxime  or  ceftazidime  indicated  the  presence  of
+ESBL  production  [11].
+
+(20/10  mg).  Enhancement  of 
+
+2.4.  Molecular  detection  of  antibiotic  resistance-encoding  genes
+
+PCR  ampliﬁcation  of  blaCTX-M,  blaTEM,  blaSHV,  blaPER,  blaVEB,
+blaGES,  blaCMY and  blaDHA genes  was  carried  out  by  PCR  as
+previously  described  [12].  PCR  screening  was  also  performed  for
+aminoglycoside-modifying  enzyme 
+[aac(3)-Ia,
+aac(60)-Ib,  aadA,  ant(200)-I  and  aph(30)-VI]  and  16S  rRNA  methylase
+genes  (armA  and  rmtA–F)  as  previously  described  [13]. 
+In
+addition,  the  plasmid-mediated  quinolone  resistance-encoding
+genes  qnr  and  aac(60)-Ib-cr  were  screened  as  previously  described
+[14,15].
+
+(AME)  genes 
+
+All  positive  PCR  products  obtained  were  sequenced  using
+BigDye1 terminator  chemistry  on  an  automated  ABI  3730
+automated  sequencer  (Applied  Biosystems,  Foster  City,  CA).
+
+2.5.  Multilocus  sequence  typing  (MLST)
+
+MLST  was  performed  on  the  20  ESC-resistant  E.  coli  isolates
+using  seven  housekeeping  genes  (adk,  fumC,  gyrB,  icd,  mdh,  purA
+and  recA)  according  to  the  E.  coli  MLST  database  (http://mlst.
+warwick.ac.uk/mlst/dbs/Ecoli).
+
+3.  Results
+
+3.1.  Bacterial  strains  and  antibiotic  susceptibility
+
+Among  the  61  broilers  sampled,  20  ESC-resistant  E.  coli  isolates
+were  selected  and  identiﬁed  by  API  20E  and  MALDI-TOF/MS.  Using
+the  double-disk  synergy  test,  ESBL  production  was  conﬁrmed  in  16
+of  the  20  ESC-resistant  E.  coli  isolates.
+
+streptomycin, 
+
+Results  of  antibiotic  susceptibility  testing  revealed  that  the
+isolates  showed  high  rates  of  resistance  (>90%)  to  amoxicillin,
+amoxicillin/clavulanic  acid,  piperacillin/tazobactam,  aztreonam,
+ceftazidime, 
+tobramycin,  nalidixic  acid  and
+ciproﬂoxacin.  Low 
+for
+kanamycin  (35%),  amikacin  (30%),  cefoxitin  (20%)  and  cefotaxime
+(15%).  All  isolates  remained  susceptible  to  gentamicin,  merope-
+nem,  imipenem  and  colistin.  MICs  for  cefotaxime,  ceftazidime,
+from  1  to  >256  mg/mL,
+cefepime  and  ciproﬂoxacin  ranged 
+2–48  mg/mL,  0.25–64  mg/mL  and  0.125–16  mg/mL,  respectively
+(Table  1).
+
+resistance  were  observed 
+
+rates  of 
+
+3.2.  Resistance  gene  determination
+
+All  E.  coli  isolates  tested  contained  the  blaTEM-1 gene.  Among
+them,  two  co-expressed  the  blaCTX-M-1 gene,  14  co-expressed  the
+blaSHV-12 gene  and  4  co-expressed  blaCMY-2 (Table  1).  Screening
+for  genes  encoding  AMEs  demonstrated  that  all  of  the  isolates
+contained  the  adenylyltransferase  gene  aadA  (Table  1).  None  of
+the  isolates  contained  either  the  aac(3)-Ia,  aac(60)-Ib,  aph(30)-VI,
+ant(200)-I  or  16S  rRNA  methylase  genes.  In  addition,  13  of  the
+isolates  tested  produced  the  qnrA-like  gene  (Table  1).  None  of
+the  isolates  produced  the  variant  aac(60)-Ib-cr.
+
+110
+
+M.  Belmahdi  et  al.  /  Journal  of  Global  Antimicrobial  Resistance  6  (2016)  108–112
+
+Table  1
+Characteristics  of  20  extended-spectrum  b-lactamase  (ESBL)-producing  Escherichia  coli  strains  isolated  in  broilers  from  Be´ jaı¨a regions,  Algeria.
+
+Strain  Date  of
+
+Locality 
+
+Resistance  proﬁle 
+
+MIC  (mg/mL) 
+
+bla  genes 
+
+isolation
+
+AME  and
+qnr  genes
+
+ST
+
+CTX 
+
+CAZ  FEP 
+
+CIP
+
+25/03/2014  Akbou 
+13/03/2014  Be´ jaı¨a
+13/03/2014  Be´ jaı¨a
+13/03/2014  Be´ jaı¨a
+13/03/2014  Be´ jaı¨a
+02/04/2014  Feraoun 
+02/04/2014  Feraoun 
+02/04/2014  Feraoun 
+02/04/2014  Feraoun 
+02/04/2014  Feraoun 
+02/04/2014  Feraoun 
+02/04/2014  Feraoun 
+02/04/2014  Feraoun 
+02/04/2014  Feraoun 
+02/04/2014  Feraoun 
+02/04/2014  Feraoun 
+02/04/2014  Feraoun 
+02/04/2014  Feraoun 
+
+AC14 
+BC23 
+BC28 
+BC3 
+BC8 
+FC1 
+FC10 
+FC11 
+FC12 
+FC13 
+FC2 
+FC3 
+FC4 
+FC5 
+FC6 
+FC7 
+FC8 
+FC9 
+SEC1B  30/03/2014  Souk  El-Te´ nine  AMX/AMC/TZP/CAZ/ATM/TOB/STR/KAN/NAL 
+SEC1J 
+
+AMX/AMC/TZP/CTX/FEP/ATM/TOB/STR/KAN/NAL/CIP 
+AMX/AMC/TZP/FOX/CAZ/ATM/TOB/STR/KAN/NAL/CIP 
+AMX/AMC/TZP/FOX/CAZ/TOB/STR/KAN/NAL/CIP 
+AMX/AMC/TZP/FOX/CAZ/ATM/AMK/TOB/STR/KAN/NAL/CIP 
+AMX/AMC/TZP/FOX/CAZ/ATM/TOB/STR/KAN/NAL/CIP 
+AMX/AMC/TZP/CAZ/ATM/AMK/TOB/STR/NAL/CIP 
+AMX/AMC/TZP/CAZ/ATM/TOB/STR/NAL/CIP 
+AMX/AMC/TZP/CTX/CAZ/ATM/AMK/TOB/STR/NAL/CIP 
+AMX/AMC/TZP/CAZ/ATM/TOB/STR/NAL/CIP 
+AMX/AMC/TZP/CAZ/ATM/TOB/STR/AMK/NAL/CIP 
+AMX/AMC/TZP/CTX/FEP/ATM/STR/AMK/NAL/CIP 
+AMX/AMC/TZP/CAZ/ATM/TOB/STR/NAL/CIP 
+AMX/AMC/TZP/CAZ/ATM/TOB/STR/NAL/CIP 
+AMX/AMC/TZP/CAZ/ATM/TOB/STR/NAL/CIP 
+AMX/AMC/TZP/CAZ/ATM/TOB/STR/NAL/CIP 
+AMX/AMC/TZP/CAZ/ATM/TOB/STR/NAL/CIP 
+AMX/AMC/TZP/CAZ/ATM/AMK/TOB/STR/NAL/CIP 
+AMX/AMC/TZP/CAZ/ATM/TOB/STR/NAL/CIP 
+
+30/03/2014  Souk  El-Te´ nine  AMX/AMC/TZP/CAZ/ATM/TOB/STR/KAN 
+
+4 
+>256 
+16 
+4 
+16 
+4 
+16 
+4 
+16 
+4 
+16 
+2 
+24 
+2 
+24 
+3 
+24 
+3 
+16 
+2 
+2 
+32 
+16 
+2 
+24 
+2 
+48 
+3 
+16 
+2 
+16 
+2 
+32 
+3 
+24 
+3 
+1 
+12 
+1.5  16 
+
+64 
+
+6 
+0.25 
+8 
+0.25  16 
+0.25  12 
+0.25  12 
+0.5 
+12 
+0.75  16 
+0.75  12 
+0.75 
+8 
+16 
+0.5 
+8 
+6 
+16 
+0.5 
+8 
+0.75 
+8 
+0.75 
+0.5 
+16 
+16 
+0.5 
+0.75 
+8 
+0.75  16 
+0.38 
+0.25 
+
+38
+CTX-M-1  +  TEM-1  aadA 
+744
+CMY-2  +  TEM-1 
+aadA 
+744
+CMY-2  +  TEM-1 
+aadA 
+744
+CMY-2  +  TEM-1 
+aadA 
+CMY-2  +  TEM-1 
+744
+aadA 
+aadA  +  qnrA  1011
+SHV-12  +  TEM-1 
+aadA  +  qnrA  1011
+SHV-12  +  TEM-1 
+aadA  +  qnrA  1011
+SHV-12  +  TEM-1 
+SHV-12  +  TEM-1 
+aadA  +  qnrA  1011
+SHV-12  +  TEM-1 
+aadA  +  qnrA  1011
+CTX-M-1  +  TEM-1  aadA  +  qnrA  2179
+aadA  +  qnrA  1011
+SHV-12  +  TEM-1 
+aadA  +  qnrA  1011
+SHV-12  +  TEM-1 
+aadA  +  qnrA  1011
+SHV-12  +  TEM-1 
+SHV-12  +  TEM-1 
+aadA  +  qnrA  1011
+aadA  +  qnrA  1011
+SHV-12  +  TEM-1 
+aadA  +  qnrA  1011
+SHV-12  +  TEM-1 
+aadA  +  qnrA  1011
+SHV-12  +  TEM-1 
+5086
+0.13  SHV-12  +  TEM-1 
+aadA 
+0.13  SHV-12  +  TEM-1 
+5086
+aadA 
+
+MIC,  minimum  inhibitory  concentration;  AME,  aminoglycoside-modifying  enzyme;  ST,  sequence  type;  CTX,  cefotaxime;  CAZ,;  ceftazidime;  FEP,  cefepime;  CIP,  ciproﬂoxacin;
+AMX,  amoxicillin;  AMC,  amoxicillin/clavulanic  acid;  TZP,  piperacillin/tazobactam;  ATM,  aztreonam;  TOB,  tobramycin;  STR,  streptomycin;  KAN,  kanamycin;  NAL,  nalidixic
+acid;  FOX,  cefoxitin;  AMK,  amikacin.
+
+3.3.  Multilocus  sequence  typing  results
+
+Five  different  sequence  types  (STs)  were  assigned  to  the  20  ESC-
+resistant  E.  coli  strains  isolated  from  four  Be´ jaı¨a  localities,  including
+four  known  STs  [ST744  (4  strains),  ST38  (1  strain),  ST1011
+(12  strains)  and  ST2179  (1  strain)]  and  one  new  ST  (ST5086)  in  two
+E.  coli  isolates  (Table  1;  Fig.  1).
+
+4.  Discussion
+
+Escherichia  coli  is  a  common  inhabitant  of  the  intestinal  tract  in
+humans  and  animals  and  can  be  easily  disseminated  in  different
+ecosystems  through  the  food  chain  and  via  water  [16].  Overuse  of
+antibiotics  in  food-source  animal  production  has  been  shown  to
+increase  the  risk  of  spread  of  antibiotic  resistance  [4].  ESBL-
+producing  Enterobacteriaceae  have  been  detected  in  patients,
+individuals  from  the  community,  meat, 
+livestock,  companion
+animals  and  the  environment.  Transmission  between  humans  and
+animals  might  occur  through  the  food  chain  [17].  In  this  context,
+our  study  was  conducted  to  investigate  the  occurrence  of  the  ESBL-
+producing  E.  coli  in  slaughtered  broiler  intestines.  The  results  of
+this  study  show  that  20  ESBL-positive  E.  coli  strains  were  isolated
+from  intestinal  swabs  of  61  slaughtered  broilers  in  four  regions  in
+Be´ jaı¨a, Algeria 
+(Fig.  1).  The  SHV-1,  TEM-1  and  OXA-type
+b-lactamases  have  been 
+in  E.  coli  and
+Salmonella  spp.  from  animals  and  food  of  animal  origin  in  Spain,
+Germany,  the  USA  and  the  UK  [18].  In  Tunisia,  Ben  Slama  et  al.  have
+reported  the  presence  of  CTX-M-1,  CTX-M-8,  CTX-M-14  and  TEM-1
+in  food  samples  (poultry  and  other  animals)  [19].
+
+frequently  described 
+
+In  Algeria,  very  few  studies  have  been  conducted  to  characterise
+antibiotic-resistant  strains  from  animals  and  food  of  animal  origin.
+Among  them,  one  study  on  ESBL-producing  avian  E.  coli  was
+conducted  by  Meguenni  et  al.  [9].  In  that  study,  the  authors
+reported  the  presence  of  CTX-M-1-  and  CTX-M-15-producing
+E.  coli  in  Algerian  central  regions  [9].  Hence,  the  originality  of  the
+present  study  is  the  detection,  in  addition  to  CTX-M-1,  of  the
+presence  of  SHV-12  associated  with  the  TEM-1  b-lactamase  from
+for  consumption  after
+E.  coli 
+slaughtering.  The  TEM-1  detected 
+in  all  of  the  strains  was
+associated  with  SHV-12  from  the  Feraoun  and  Souk  El-Te´ nine
+
+from  healthy  broilers 
+
+isolates 
+
+cities,  or  with  CTX-M-1  from  the  Akbou  and  Feraoun  cities,  or  with
+CMY-2  from  Be´ jaı¨a  City  (Table  1).  Dissemination  and  persistence  of
+CMY-2-encoding  plasmids  are  evident,  and  this  might  have  also
+been  contributed  by  the  geographical  transfer  of  the  CMY-2
+isolates  through  international  trade  in  food  animals  [20].  In  2006,
+Blanc  et  al.  reported  the  presence  of  CMY-2-encoding  plasmids  in
+E.  coli  from  poultry,  pig  and  rabbit  farms  in  Spain  [21].  In  Algeria,
+this  b-lactamase  has  only  been  detected  from  isolates  recovered  in
+the  clinical  setting  [22].  CMY-2  was  detected  in  four  isolates  of
+E.  coli  recovered  from  Be´ jaı¨a City.
+
+in  ESBL-producing  Enterobacteriaceae 
+
+Co-resistance  to  non-b-lactam  antibiotics  such  as  aminoglyco-
+sides 
+is  commonly  de-
+scribed  [20].  In  addition,  the  presence  of  ESBL  and  plasmid  AmpC
+(pAmpC)  genes  associated  with  AME  genes  has  been  reported  in
+other  studies  [16,19].
+
+Resistance  to  aminoglycosides  is  generally  mediated  by  AMEs,
+including  aminoglycoside  phosphotransferases,  acetyltransferases
+and  nucleotidyltransferases,  and  16S  rRNA  methylases  have  been
+reported  recently  among  Enterobacteriaceae,  Pseudomonas  spp.
+and  Acinetobacter  spp.  [23].  In  the  current  study,  the  acetyltrans-
+ferase  aadA  gene  was  identiﬁed  in  all  strains.  None  of  the  isolates
+contained  either  the  aac(3)-Ia,  aac(60)-Ib,  aph(30)-VI,  ant(200)-I  or
+16S  rRNA  methylase  genes.  The  aadA  gene  was  detected,  associated
+with  CTX-M-14a,  CTX-M-32  or  TEM  52,  from  E.  coli  in  poultry  by
+Costa  et  al.  in  their  prevalence  study  of  ESBL-producing  E.  coli
+isolates  in  faecal  samples  from  broilers  [24].  Plasmid-mediated
+quinolone  resistance  was  ﬁrst  identiﬁed  in  a  clinical  isolate  of
+Klebsiella  pneumoniae.  Recently,  a  new  mechanism  of  quinolone
+resistance  has  been  identiﬁed:  transfer  from  species  to  species  of  a
+plasmid  encoding  aac(60)-Ib-cr,  a  variant  of  aminoglycoside
+acetyltransferase  that  confers  reduced  susceptibility  to  ciproﬂox-
+acin  and  norﬂoxacin  by  N-acetylation  of  the  amino  nitrogen  on  its
+piperazinyl  substituent.  Genes  responsible  for  plasmid-mediated
+quinolone  resistance  are  thought  to  be  linked  to  ESBL  genes  [25].
+The  aac(60)-Ib-cr  gene  was  detected  from  E.  coli  in  poultry  by
+Agabou  et  al.  in  their  study  [1].  In  the  current  study,  in  addition  to
+ESBLs,  13  isolates  producing  CTX-M-1  or  SHV-12  were  found  to
+carry  a  qnrA-like  gene,  from  Feraoun  locality.  To  our  knowledge,
+the  qnrA  gene  has  not  yet  been  reported  in  Algeria.  In  China,  Xie
+et  al.  reported  the  presence  of  the  qnrA  gene  in  E.  coli  recovered
+
+M.  Belmahdi  et  al.  /  Journal  of  Global  Antimicrobial  Resistance  6  (2016)  108–112 
+
+111
+
+Fig.  1.  Different  localities  in  Be´ jaı¨a  region  where  the  ﬁve  groups  of  extended-spectrum  b-lactamase  (ESBL)-producing  Escherichia  coli  were  isolated.
+
+from  septicaemic  broilers.  Thus,  broilers  might  have  a  role  in  the
+transmission  of  resistance  genes  to  humans  [26].
+
+pathogenic  bacteria  but  also  in  the  endogenous  ﬂora  of  exposed
+individuals  (animals  and  humans)  or  populations  [37].
+
+The  study  of  antibiotic  resistance  in  strains  of  animal  origin  in
+Algeria  has  been  focused  on  cases  of  illness  caused  by  E.  coli
+[27,28].  The  STs  identiﬁed  in  the  current  study  were  ST744  (from
+Be´ jaı¨a  locality),  ST38  (from  Akbou  locality),  ST1011  and  ST2179
+(from  Feraoun  locality)  and  a  new  ST5086  (from  Souk  El-Te´ nine
+locality)  (Fig.  1).  Hasan  et  al.  isolated  CTX-M-1-  and  CTX-M-15-
+producing  E.  coli  ST744  from  domestic  chicken  in  Bangladesh  [29].
+Then,  ST744  with  CTX-M-1  was  reported  by  Guenther  et  al.  in  a
+bird  of  prey  E.  coli  in  Germany  [30].  ST38  was  also  reported  by  Vogt
+et  al.  in  meat-packing  plants  in  Switzerland  [31],  and  recently  by  Al
+Bayssari  et  al.  in  an  E.  coli  OXA-48-producer  in  fowl  from  Lebanon
+[32].  ST2179  was  detected  in  CTX-M-8-producing  E.  coli  in  buffalo
+[33]  and  in  CTX-M-15-producing  E.  coli  in  horses  from  Brazil  [34].
+ST744,  ST38  and  ST2179  have  been  identiﬁed  in  clinical  isolates  in
+three  hospitals  in  Hangzhou,  China  [35].  Escherichia  coli  ST1011
+should  be  evaluated  further  for  its  zoonotic  potential.  It  was
+detected 
+in  human  extraintestinal  pathogens  from  Brazil  by
+Maluta  et  al. 
+In  the  present  study,  ST1011  was  the
+predominant  ST  because  it  was  found  in  12  strains  (60%)  isolated
+from  the  Feraoun  locality.  Interestingly,  in  addition  to  the  four
+known  STs  obtained  in  this  study,  we  have  detected  a  new  ST
+(ST5086).  It  was  detected  in  two  TEM-1-  and  SHV-12-producing  E.
+coli  strains  isolated  from  Souk  El-Te´ nine  locality.
+
+[36]. 
+
+Antibiotic  usage 
+
+is  considered  the  most 
+
+important  factor
+promoting  the  emergence,  selection  and  dissemination  of  antibi-
+otic-resistant  micro-organisms  both  in  veterinary  and  human
+medicine.  Antibiotic  usage  selects  for  resistance  not  only 
+in
+
+Several  studies  have  shown  that  antimicrobial  use  in  food
+animals  contributes  to  the  selection  of  antimicrobial  resistance
+and  poses  risks  to  humans  because  of  transmission  of  resistant
+zoonotic  bacteria  via  the  food  chain  and  by  indirect  transfer  of
+resistance  genes  from  animals  to  man  [38].  At  slaughter,  resistant
+strains  from  the  gut  readily  soil  poultry  carcasses  and  as  a  result
+poultry  meats  are  often  contaminated  with  multiresistant  E.  coli;
+likewise,  eggs  become  contaminated  during 
+laying.  Hence,
+resistant  faecal  E.  coli  from  poultry  can 
+infect  humans  both
+directly  and  via  food.  These  resistant  bacteria  may  colonise  the
+human  intestinal  tract  and  may  also  contribute  resistance  genes  to
+human  endogenous  ﬂora  [37].
+
+Currently,  when  a  severe  clinical  infection  due  to  a  multidrug-
+resistant  pathogen  appears,  it  is  treated  with  colistin  [39].  In
+animals,  colistin  is  used  to  prevent  or  treat  infections  caused  by
+E.  coli  isolates.  In  addition,  this  antibiotic  is  administered  with  food
+during  or  post  weaning  of  animals  [40].  Colistin-resistant  bacteria
+in  animals  have  been  identiﬁed  in  many  countries.  Recently,  the
+emergence  of  plasmid-mediated  colistin  resistance  involving  the
+mcr-1  gene  from  bacteria  was  reported  in  many  countries  [41].  In
+Algeria,  colistin-resistant  E.  coli  isolates  with  the  associated  mcr-1
+gene  were  isolated  from  poultry.  This  is  worrying  because  colistin
+is  used  as  a  last  resort  to  treat  multidrug-resistant  pathogenic
+infections  [41].
+
+Finally,  we  conclude  that  broilers  can  be  a  reservoir  of  ESBL-  and
+pAmpC-producing  bacteria.  These  can  be  transmitted  by  direct
+contact  or  by  the  food  chain.  Surveillance  of  antibiotic  resistance  in
+
+112
+
+M.  Belmahdi  et  al.  /  Journal  of  Global  Antimicrobial  Resistance  6  (2016)  108–112
+
+commensal  bacteria  from  food-producing  animals  is  considered  to
+be  one  of  the  main  priorities.
+
+Funding
+
+This  work  was  partly 
+
+funded  by  CNRS  7278  and 
+
+IHU
+
+Me´ diterrane´ e  Infection  (Marseille,  France).
+
+Conﬂict  of  interest
+
+None  declared.
+
+Ethical  approval
+
+Not  required.
+
+Acknowledgements
+
+The  authors  thank  Linda  Hadjadj  for  technical  assistance  as  well
+as  all  those  who  participated  in  the  realisation  of  this  work.  The
+authors  also  thank  TradOnline  for  English  corrections.
+
+References
+
+[1]  Agabou  A,  Lezzar  N,  Ouchenane  Z,  Khemissi  S,  Satta  D,  Sotto  A,  et  al.  Clonal
+relationship  between  human  and  avian  ciproﬂoxacin-resistant  Escherichia  coli
+isolates  in  North-Eastern  Algeria.  Eur  J  Clin  Microbiol  Infect  Dis  2015;35:
+227–34.
+
+[2]  Machado  E,  Coque  TM,  Canto´ n  R,  Sousa  JC,  Peixe  L.  Antibiotic  resistance
+integrons  and  extended-spectrum  b-lactamases  among  Enterobacteriaceae
+isolates  recovered  from  chickens  and  swine  in  Portugal.  J  Antimicrob  Che-
+mother  2008;62:296–302.
+
+[3]  Depoorter  P,  Persoons  D,  Uyttendaele  M,  Butaye  P,  De  Zutter  L,  Dierick  K,  et  al.
+Assessment  of  human  exposure  to  3rd  generation  cephalosporin  resistant  E.
+coli  (CREC)  through  consumption  of  broiler  meat  in  Belgium.  Int  J  Food
+Microbiol  2012;159:30–8.
+
+[4]  Rolain  JM.  Food  and  human  gut  as  reservoirs  of  transferable  antibiotic  resis-
+
+tance  encoding  genes.  Front  Microbiol  2013;4:1–10.
+
+[5]  Huijbers  PMC,  Graat  EAM,  Haenen  APJ,  van  Santen  MG,  van  Essen-Zandbergen
+A,  Mevius  DJ,  et  al.  Extended-spectrum  and  AmpC  b-lactamase-producing
+Escherichia  coli  in  broilers  and  people  living  and/or  working  on  broiler  farms:
+prevalence,  risk  factors  and  molecular  characteristics.  J  Antimicrob  Chemother
+2014;69:2669–75.
+
+[6]  Touati  A,  Benallaoua  S,  Forte  D,  Madoux  J,  Brasme  L,  De  Champs  C.  First  report
+of  CTX-M-15  and  CTX-M-3  b-lactamases  among  clinical  isolates  of  Entero-
+bacteriaceae  in  Be´ jaia,  Algeria.  Int  J  Antimicrob  Agents  2006;27:397–402.
+
+[7]  Iabadene  H,  Messai  Y,  Ammari  H,  Ramdani-Bouguessa  N,  Lounes  S,  Bakour  R,
+et  al.  Dissemination  of  ESBL  and  Qnr  determinants  in  Enterobacter  cloacae  in
+Algeria.  J  Antimicrob  Chemother  2008;62:133–6.
+
+[8]  Koeck  JL,  Arlet  G,  Philippon  A,  Basmaciogullari  S,  Thien  HV,  Buisson  Y,  et  al.  A
+plasmid-mediated  CMY-2  b-lactamase  from  an  Algerian  clinical  isolate  of
+Salmonella  Senftenberg.  FEMS  Microbiol  Lett  1997;152:255–60.
+
+[9]  Meguenni  N,  Le  Devendec  L,  Jouy  E,  Bounar-Kechih  S,  Bakour  R,  Kempf  I.
+Caracte´ risation  mole´ culaire  de  souches  d’E.  coli  aviaires  productrices  de  BLSE
+isole´ es  de  la  re´ gion  Centre  d’Alge´ rie.  In:  32e` me  Re´ union  Interdisciplinaire  de
+chimiothe´ rapie  anti-infectieuse;  2012.
+
+[10]  Seng  P,  Drancourt  M,  Gouriet  F,  La  Scola  B,  Fournier  PE,  Rolain  JM,  et  al.
+Ongoing  revolution  in  bacteriology:  routine  identiﬁcation  of  bacteria  by
+matrix-assisted  laser  desorption  ionization  time-of-ﬂight  mass  spectrometry.
+Clin  Infect  Dis  2009;49:543–51.
+
+[11]  Jarlier  V,  Nicolas  MH,  Fournier  G,  Philippon  A.  Extended-broad-spectrum
+b-lactamases  conferring  transferable  resistance  to  newer  b-lactam  agents
+in  Enterobacteriaceae:  hospital  prevalence  and  susceptibility  patterns.  Rev
+Infect  Dis  1988;10:867–78.
+
+[12]  Kermas  R,  Touati  A,  Brasme  L,  Le  Magrex-Debar  E,  Mehrane  S,  Weill  FX,  et  al.
+Characterization  of  extended-spectrum  b-lactamase-producing  Salmonella
+enterica  serotype  Brunei  and  Heidelberg  at  the  Hussein  Dey  Hospital  in  Algiers
+(Algeria).  Foodborne  Pathog  Dis  2012;9:803–8.
+
+[13]  Mesli  E,  Berrazeg  M,  Drissi  M,  Bekkhoucha  SN,  Rolain  JM.  Prevalence  of
+carbapenemase-encoding  genes  including  New  Delhi  metallo-b-lactamase
+in  Acinetobacter  species,  Algeria.  Int  J  Infect  Dis  2013;17:739–43.
+
+[14]  Guillard  T,  Moret  H,  Brasme  L,  Carlier  A,  Vernet-Garnier  V,  Cambau  E,  et  al.
+Rapid  detection  of  qnr  and  qepA  plasmid-mediated  quinolone  resistance  genes
+using  real-time  PCR.  Diagn  Microbiol  Infect  Dis  2011;70:253–9.
+
+[15]  Park  CH,  Robicsek  A,  Jacoby  GA,  Sahm  D,  Hooper  DC.  Prevalence  in  the  United
+States  of  aac(60)-Ib-cr  encoding  a  ciproﬂoxacin-modifying  enzyme.  Antimicrob
+Agents  Chemother  2006;50:3953–5.
+
+[16]  Costa  D,  Laura  V,  Poeta  P,  Coelho  AC,  Matos  M,  Saenz  Y,  et  al.  Prevalence  of
+extended-spectrum  b-lactamase-producing  Escherichia  coli  isolates  in  faecal
+samples  of  broilers.  Vet  Microbiol  2009;138:339–44.
+
+[17]  Huijbers  PMC,  De  Kraker  M,  Graat  EAM,  van  Hoek  AHAM,  van  Santen  MG,  De
+Jong  MCM,  et  al.  Prevalence  of  extended-spectrum  b-lactamase-producing
+Enterobacteriaceae  in  humans  living  in  municipalities  with  high  and  low
+broiler  density.  Clin  Microbiol  Infect  2013;19:256–9.
+
+[18]  Carattoli  A.  Animal  reservoirs  for  extended  spectrum  b-lactamase  producers.
+
+Clin  Microbiol  Infect  2008;14:117–23.
+
+[19]  Ben  Slama  K,  Jouini  A,  Ben  Sallem  R,  Sergio  Somalo  Sa´ enz  Y,  Estepa  V,
+Boudabous  A,  et  al.  Prevalence  of  broad-spectrum  cephalosporin-resistant
+Escherichia  coli  isolates  in  food  samples  in  Tunisia,  and  characterization  of
+integrons  and  antimicrobial  resistance  mechanisms  implicated.  Int  J  Food
+Microbiol  2010;137:281–6.
+
+[20]  Li  XZ,  Mehrotra  M,  Ghimire  S,  Adewoye  L.  b-Lactam  resistance  and  b-lacta-
+
+mases  in  bacteria  of  animal  origin.  Vet  Microbiol  2007;121:197–214.
+
+[21]  Blanc  V,  Mesa  R,  Saco  M,  Lavilla  S,  Prats  G,  Miro  E,  et  al.  ESBL-  and  plasmidic
+class  C  b-lactamase-producing  E.  coli  strains  isolated  from  poultry,  pig  and
+rabbit  farms.  Vet  Microbiol  2006;118:299–304.
+
+[22]  Iabadene  H,  Messai  Y,  Ammari  H,  Alouache  S,  Verdet  C,  Bakour  R,  et  al.
+Prevalence  of  plasmid-mediated  AmpC  b-lactamases  among  Enterobacteria-
+ceae  in  Algiers  hospitals.  Int  J  Antimicrob  Agents  2009;34:340–2.
+
+[23]  Cho  YJ,  Moon  DC,  Jin  JS,  Choi  CH,  Lee  YC,  Lee  JC.  Genetic  basis  of  resistance  to
+aminoglycosides  in  Acinetobacter  spp.  and  spread  of  armA  in  Acinetobacter
+baumannii  sequence  group  1  in  Korean  hospitals.  Diagn  Microbiol  Infect  Dis
+2009;64:185–90.
+
+[24]  Costa  D,  Vinue´ d  L,  Poeta  P,  Coelhoa  AC,  Matos  M,  Saenz  Y,  et  al.  Prevalence  of
+extended-spectrum  b-lactamase-producing  Escherichia  coli  isolates  in  faecal
+samples  of  broilers.  Vet  Microbiol  2009;138:339–44.
+
+[25]  Kim  ES,  Jeong  JY,  Jun  JB,  Choi  SH,  Lee  SO,  Kim  MN,  et  al.  Prevalence  of  aac(60)-Ib-
+cr  encoding  a  ciproﬂoxacin  modifying  enzyme  among  Enterobacteriaceae
+blood  isolates  in  Korea.  Antimicrob  Agents  Chemother  2009;53:2643–5.
+
+[26]  Xie  R,  Huo  S,  Li  Y,  Chen  L,  Zhang  F,  Wu  X.  Molecular  epidemiological  survey  on
+quinolone  resistance  genotype  and  phenotype  of  Escherichia  coli  in  septicemic
+broilers  in  Hebei.  China.  Poult  Sci  2014;93:335–9.
+
+[27]  Benameur  Q,  Guemour  D,  Hammoudi  A,  Aoudia  H,  Aggad  H,  Humblet  MF,  et  al.
+Antimicrobial  resistance  of  Escherichia  coli  isolated  from  chickens  in  west  of
+Algeria.  Int  J  Sci  Basic  Appl  Res  2014;13:366–70.
+
+[28]  Messaı¨ CR,  Khelef  D,  Boukhors  KT,  Radji  N,  Goucem  R,  Hamdi  TM.  Antimicro-
+bial  susceptibility  of  Escherichia  coli  strains  isolated  from  broiler  chickens
+affected  by  colibacillosis  in  Setif.  Afr  J  Microbiol  Res  2013;7:2668–72.
+
+[29]  Hasan  B,  Sandegren  L,  Melhus  A,  Drobni  M,  Hernandez  J,  Waldenstro¨ m  J,  et  al.
+Antimicrobial  drug-resistant  Escherichia  coli  in  wild  birds  and  free-range
+poultry,  Bangladesh.  Emerg  Infect  Dis  2012;18:2055–8.
+
+[30]  Guenther  S,  Aschenbrenner  K,  Stamm  I,  Bethe  A,  Semmler  T,  Stubbe  A,  et  al.
+Comparable  high  rates  of  extended-spectrum-b-lactamase-producing  Escher-
+ichia  coli  in  birds  of  prey  from  Germany  and  Mongolia.  PLoS  ONE  2012;7:1–6.
+[31]  Vogt  D,  Overesch  G,  Endimiani  A,  Collaud  A,  Thomann  A,  Perreten  V.  Occur-
+rence  and  genetic  characteristics  of  third-generation  cephalosporin-resistant
+Escherichia  coli  in  Swiss  retail  meat.  Microb  Drug  Resist  2014;20:485–94.
+
+[32]  Al  Bayssari  C,  Olaitan  AO,  Dabboussi  F,  Hamze  M,  Rolain  JM.  Emergence  of
+OXA-48-producing  Escherichia  coli  clone  ST38  in  fowl.  Antimicrob  Agents
+Chemother  2015;59:745–6.
+
+[33]  Aizawa  J,  Neuwirt  N,  Barbato  L,  Neves  PR,  Leigue  L,  Padilha  J,  et  al.  Identiﬁca-
+tion  of  ﬂuoroquinolone-resistant  extended-spectrum  b-lactamase  (CTX-M-8)
+producing  Escherichia  coli  ST224,  ST2179  and  ST2308  in  buffalo  (Bubalus
+bubalis).  J  Antimicrob  Chemother  2014;69:2866–9.
+
+[34]  Leigue  L,  Warth  JG,  Melo  LC,  Silva  KC,  Moura  RA,  Barbato  L,  et  al.  MDR  ST2179-
+CTX-M-15  Escherichia  coli  co-producing  RmtD  and  AAC(60)-Ib-cr  in  a  horse
+with  extraintestinal 
+J  Antimicrob  Chemother  2015;70:
+1263–5.
+
+infection,  Brazil. 
+
+[35]  Cai  JC,  Zhang  R,  Hu  YY,  Zhou  HW,  Chen  GX.  Emergence  of  Escherichia  coli
+sequence  type  131  isolates  producing  KPC-2  carbapenemase  in  China.  Anti-
+microb  Agents  Chemother  2013;58:1146–52.
+
+[36]  Maluta  RP,  Logue  CM,  Casas  MRT,  Meng  T,  Guastalli  EAL,  Rojas  TC,  et  al.
+Overlapped  sequence  types  (STs)  and  serogroups  of  avian  pathogenic  (APEC)
+and  human  extra-intestinal  pathogenic  (ExPEC)  Escherichia  coli  isolated  in
+Brazil.  PLOS  ONE  2014;9:1–5.
+
+[37]  Van  Den  Bogaard  AE,  London  N,  Driessen  C,  Stobberingh  E.  Antibiotic  resis-
+tance  of  faecal  Escherichia  coli  in  poultry,  poultry  farmers  and  poultry  slaugh-
+terers.  J  Antimicrob  Chemother  2001;47:763–71.
+
+[38]  Guardabassi  L,  Schwarz  S,  Lloyd  DH.  Pet  animals  as  reservoirs  of  antimicrobial-
+
+resistant  bacteria.  J  Antimicrob  Chemother  2004;54:321–32.
+
+[39]  Rolain  JM,  Olaitan  AO.  Plasmid-mediated  colistin  resistance:  the  ﬁnal  blow  to
+
+colistin?  Int  J  Antimicrob  Agents  2016;47:4–5.
+
+[40]  Kempf  I,  Fleury  MA,  Drider  D,  Bruneau  M,  Sanders  P,  Chauvin  C,  et  al.  What  do
+we  know  about  resistance  to  colistin  in  Enterobacteriaceae  in  avian  and  pig
+production  in  Europe?  Int  J  Antimicrob  Agents  2013;42:379–83.
+
+[41]  Olaitan  AO,  Chabou  S,  Okdah  L,  Morand  S,  Rolain  JM.  Dissemination  of  the  mcr-
+
+1  colistin  resistance  gene.  Lancet  Infect  Dis  2016;16:147.
+
+

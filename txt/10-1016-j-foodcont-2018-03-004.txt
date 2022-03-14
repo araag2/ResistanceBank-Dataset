@@ -1,0 +1,3393 @@
+Accepted Manuscript
+
+Prevalence, sequence types, antibiotic resistance and, gyrA mutations of Salmonella
+isolated from retail fresh chicken meat in Singapore
+
+Ye Htut Zwe, Vivien Chia Yen Tang, Kyaw Thu Aung, Ramona Alikiiteaga Gutiérrez,
+Lee Ching Ng, Hyun-Gyun Yuk
+
+PII:
+DOI:
+Reference:
+
+S0956-7135(18)30101-4
+10.1016/j.foodcont.2018.03.004
+JFCO 6018
+
+To appear in:
+
+Food Control
+
+Received Date: 5 January 2018
+Revised Date: 27 February 2018
+Accepted Date: 1 March 2018
+
+Please cite this article as: Zwe Y.H., Yen Tang V.C., Aung K.T., Gutiérrez R.A., Ng L.C. & Yuk H.-G.,
+Prevalence, sequence types, antibiotic resistance and, gyrA mutations of Salmonella isolated from retail
+fresh chicken meat in Singapore, Food Control (2018), doi: 10.1016/j.foodcont.2018.03.004.
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to
+our customers we are providing this early version of the manuscript. The manuscript will undergo
+copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please
+note that during the production process errors may be discovered which could affect the content, and all
+legal disclaimers that apply to the journal pertain.
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Prevalence, sequence types, antibiotic resistance and, gyrA mutations of 
+
+Salmonella isolated from retail fresh chicken meat in Singapore 
+
+ 
+
+Ye Htut Zwe a, Vivien Chia Yen Tang a, Kyaw Thu Aung b,c, Ramona Alikiiteaga 
+
+Gutiérrez b, Lee Ching Ng b,d, Hyun-Gyun Yuk e,* 
+
+ 
+
+a Food Science and Technology Programme, Department of Chemistry, National 
+
+University of Singapore, Science Drive 4, Singapore 117543 
+
+b Environmental Health Institute, National Environment Agency, 11 Biopolis Way, 
+
+10 
+
+Helios Block #06-05/08 Singapore 138667 
+
+11 
+
+c School of Chemical and Biomedical Engineering, Nanyang Technological University, 
+
+12 
+
+62 Nanyang Drive Singapore 637459 
+
+13 
+
+d School of Biological Science, Nanyang Technological University, 60 Nanyang Drive 
+
+14 
+
+Singapore 637551 
+
+15 
+
+e Department of Food Science and Technology, Korea National University of 
+
+16 
+
+Transportation, 61 Daehak-ro, Jeungpyeong-gun, Chungbuk, Republic of Korea 27909 
+
+17 
+
+18 
+
+19 
+
+20 
+
+ 
+
+ 
+
+* Corresponding author. Department of Food Science and Technology, Korea National 
+
+ 
+
+21 
+
+University of Transportation, 61 Daehak-ro Jeungpyeong-gun, Chungbuk, Republic of 
+
+22 
+
+Korea 27909  
+
+23 
+
+Tel: +82-43-820-5244;  E-mail address: yukhg@ut.ac.kr (H.G. Yuk) 
+
+ 
+
+ 
+
+1 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT24 
+
+ABSTRACT 
+
+25 
+
+ 
+
+26 
+
+Salmonellosis, caused by multidrug-resistant Salmonella species, in particular, is one of 
+
+27 
+
+the leading notifiable foodborne diseases in Singapore and an emerging public health 
+
+28 
+
+concern worldwide. The objectives of this study were to determine the prevalence, 
+
+29 
+
+antibiotic resistance and the presence of gyrA and parC mutations in Salmonella isolated 
+
+30 
+
+from retail fresh chicken meat in Singapore. A significantly higher prevalence of 
+
+31 
+
+Salmonella was found in chicken meat from the wet markets (25%, 30/120), as compared 
+
+32 
+
+to supermarkets (12.7%, 19/150). The top four serovars isolated in this study were S. 
+
+33 
+
+Saintpaul (32.7%, 17/52), followed by S. Brancaster (21.2%, 11/52), S. Albany (11.5%, 
+
+34 
+
+6/52), and S. Stanley (9.6%, 5/52). More than 80% of Salmonella isolates exhibited 
+
+35 
+
+resistance to at least one of eleven antibiotics tested. The most common phenotypic 
+
+36 
+
+resistances exhibited were towards ampicillin (78.8%, 41/52), tetracycline and 
+
+37 
+
+chloramphenicol (61.5%, 32/52), sulfamethoxazole-trimethoprim (55.8%, 29/52) and 
+
+38 
+
+nalidixic acid (30.8%, 16/52). Of the 52 Salmonella isolates, 59.6% (31/52) were multi-
+
+39 
+
+drug resistant strains, resistant to 3 or more antibiotic classes. No mutation in parC gene 
+
+40 
+
+was found in any of the isolates that expressed phenotypic resistance or reduced 
+
+41 
+
+susceptibility towards quinolone and/or fluoroquinolone. Mutations at two different sites 
+
+42 
+
+of gyrA gene were found in 7 isolates, which further discriminates the quinolone 
+
+43 
+
+resistance genotype in Salmonella isolates from fresh chicken meat. Our findings provide 
+
+44 
+
+opportunities for risk assessment and management of salmonellosis and antibiotic-
+
+45 
+
+resistant Salmonella species in the country and the region.   
+
+46 
+
+ 
+
+ 
+
+2 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT47 
+
+Keywords: Salmonella, chicken, sequence types, antibiotic resistance, quinolone 
+
+48 
+
+resistance  
+
+ 
+
+ 
+
+3 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT49 
+
+50 
+
+51 
+
+1.  Introduction 
+
+ 
+
+Non-typhoidal salmonellosis caused by Salmonella is one of the most common 
+
+52 
+
+foodborne diseases worldwide. In the United States, salmonellosis has been estimated to 
+
+53 
+
+be responsible for 1 million illnesses and attributed to 400 deaths each year (Scallan, et 
+
+54 
+
+al., 2011), and up to 155,000 deaths globally (Majowicz, et al., 2010). In Singapore, non-
+
+55 
+
+typhoidal salmonellosis contributed  56% of all notifiable foodborne and waterborne 
+
+56 
+
+diseases from 2001 to 2010 (Kondakci & Yuk, 2012). The incidence (per 100,000 
+
+57 
+
+population) of non-typhoidal salmonellosis in Singapore has been rising from 26.5 in 
+
+58 
+
+2011 to 35.9 in 2015 due, in part, to the mandatory notification requirement of 
+
+59 
+
+salmonellosis implemented in 2008 (MOH, 2012, 2016; Zwe & Yuk, 2017).  
+
+60 
+
+Chicken meat is one of the most commonly implicated food for human salmonellosis 
+
+61 
+
+(Vandeplas, Dauphin, Beckers, Thonart, & Thewis, 2010). Owing to its ability to reside 
+
+62 
+
+in healthy chickens without causing illness (de Jong, et al., 2014), Salmonella may go 
+
+63 
+
+unnoticed in the farm, thereby posing the risk of salmonellosis through contaminated 
+
+64 
+
+chickens. 
+
+65 
+
+The administration of antibiotics in livestock as growth promoters has been a long-
+
+66 
+
+standing agricultural practice and is primarily associated with the emergence of antibiotic 
+
+67 
+
+resistance in foodborne and livestock-associated bacteria (Thames, Pruden, James, Ray, 
+
+68 
+
+& Knowlton, 2012). In particular, multidrug-resistant (MDR) Salmonella has been 
+
+69 
+
+consistently reported in food-producing animals and food globally in the recent decade 
+
+70 
+
+(Abd-Elghany, Sallam, Abd-Elkhalek, & Tamura, 2015; Anjum, et al., 2011; Lettini, et 
+
+71 
+
+al., 2016; Nguyen, et al., 2016; Oueslati, et al., 2016; Rodriguez-Rivera, et al., 2016), 
+
+ 
+
+4 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT72 
+
+resulting in humans being exposed to MDR Salmonella through food. Although mostly 
+
+73 
+
+causing self-limiting gastroenteritis, Salmonella infections can be invasive and potentially 
+
+74 
+
+fatal, especially in children, elderly and immunocompromised individuals (Arshad, et al., 
+
+75 
+
+2008). Administration of antibiotics becomes essential in these cases, with the drugs of 
+
+76 
+
+choice being fluoroquinolones in most cases (Kariuki, Gordon, Feasey, & Parry, 2015). 
+
+77 
+
+Hence, reports indicating evidence of increasing resistance to fluoroquinolones in 
+
+78 
+
+Salmonella (Lettini, et al., 2016; Veldman, et al., 2011; Zhang, et al., 2014) are of 
+
+79 
+
+concern because it could mean a limited choice of therapeutics in the near future. 
+
+80 
+
+   
+
+In Singapore, the Ministry of Health (MOH) annually reports surveillance data of 
+
+81 
+
+reported cases of human salmonellosis. However, to our knowledge, there is no report on 
+
+82 
+
+the contamination rates and antibiotic resistance of Salmonella in raw meat in Singapore. 
+
+83 
+
+Thus, the objectives of this study were to determine the prevalence, sequence 
+
+84 
+
+types/serovars and antibiotic resistance patterns of Salmonella from fresh chicken meat 
+
+85 
+
+available in wet markets and supermarkets in Singapore. Furthermore, possible 
+
+86 
+
+mechanisms of fluoroquinolone and quinolone resistance in Salmonella isolated from 
+
+87 
+
+chicken meat were investigated. Findings from this study may help authorities in 
+
+88 
+
+assessing the possible exposure risk of Salmonella from contaminated chicken meat for 
+
+89 
+
+developing risk mitigation measures, and in evaluating the risk of antibiotic resistance 
+
+90 
+
+hazard in the food supply chain in Singapore and elsewhere. In addition, they also serve 
+
+91 
+
+as valuable data points in future long-term surveillance programs of Salmonella 
+
+92 
+
+contamination patterns and/or antibiotic resistance patterns in the region.    
+
+93 
+
+ 
+
+94 
+
+2.  Materials and methods 
+
+ 
+
+5 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT95 
+
+96 
+
+97 
+
+98 
+
+ 
+
+2.1. Sample collection and preparation  
+
+ 
+
+Sample collection was done between June 2015 and April 2016. Two types of 
+
+99 
+
+markets, namely wet markets and supermarkets, were included in this study for sample 
+
+100 
+
+collection. A total of 120 fresh (chilled) chicken samples were collected (30 breasts, 30 
+
+101 
+
+drum sticks, 30 thighs, 30 whole) from more than 30 different poultry vendors across 10 
+
+102 
+
+wet markets. A total of 150 fresh (chilled) chicken meat samples were collected (30 
+
+103 
+
+breasts, 30 drum sticks, 30 minced, 30 thighs, 30 whole) from 9 outlets across 3 different 
+
+104 
+
+supermarket chains. Each sample of approximately 100 g was individually wrapped 
+
+105 
+
+separately in new and clean plastic bags and transported on ice to the Food Microbiology 
+
+106 
+
+Laboratory of the National University of Singapore. All samples were either tested 
+
+107 
+
+immediately, or stored at 4 ᵒC before being processed within 12 hours from the time of 
+
+108 
+
+collection.  
+
+109 
+
+ 
+
+110 
+
+2.2. Isolation and serogrouping of Salmonella species  
+
+111 
+
+112 
+
+ 
+
+Isolation of Salmonella from chicken meat samples was carried out according to the 
+
+113 
+
+ISO 6579:2002 (ISO, 2002) as performed previously (Zheng, Mikš-Krajnik, Yang, Xu, & 
+
+114 
+
+Yuk, 2014). Knives, steel trays and wooden chopsticks used to handle the chicken sample 
+
+115 
+
+during the portioning were all sterilized by autoclaving at 121 °C for 15 min in wrapped 
+
+116 
+
+aluminum foil prior to the experiment. The outer packaging of the samples was 
+
+117 
+
+decontaminated with 70% ethanol and left to dry in the biosafety cabinet (BSC; Esco 
+
+ 
+
+6 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT118 
+
+Class II, Type A2, E-Series, Esco Micro Pvt. Ltd., Singapore) before handling to prevent 
+
+119 
+
+cross-contamination from the outer packaging to the sample. A 25 g portion of each 
+
+120 
+
+sample was aseptically cut, portioned in the steel trays and weighed on a sterile Petri dish 
+
+121 
+
+in the BSC. Bones were not included in the portions in this experiment. For whole 
+
+122 
+
+chicken carcasses, the sample rinsate was obtained as recommended by the United States 
+
+123 
+
+Department of Agriculture in the document MLG 4.08 (USDA, 2014). Briefly, the whole 
+
+124 
+
+chicken carcass was transferred into a large sterile bag with a filter. A 400 ml of sterile 
+
+125 
+
+BPW was poured into the cavity of the carcass to rinse inside out with a rocking motion 
+
+126 
+
+for 1 min. A 30 ml portion of the sample rinsate was then transferred into a sterile bag 
+
+127 
+
+containing 30 ml of sterile BPW and incubated at 37 °C for 24 h. Up to three presumptive 
+
+128 
+
+Salmonella colonies from each of the xylose lysine deoxycholate agar (Oxoid) and 
+
+129 
+
+brilliant green agar (Oxoid) were plated onto nutrient agar (Oxoid) to analyze their 
+
+130 
+
+biochemical characteristics using API 20E (BioMérieux®, Inc., Marcy I’Etoile, France) 
+
+131 
+
+that were interpreted by APIWEB software (BioMérieux®). Only colonies that displayed 
+
+132 
+
+a ≥ 95% probability of being identified as Salmonella were taken for the study. If more 
+
+133 
+
+than one Salmonella colony with identical biochemical fingerprints were isolated from a 
+
+134 
+
+common sample, only one Salmonella colony per sample was chosen for further 
+
+135 
+
+characterization. Serogrouping of the Salmonella isolates was carried out using the 
+
+136 
+
+WellcolexTM Colour Salmonella Rapid Latex Agglutination Kit (Thermo Fisher 
+
+137 
+
+Scientific, Waltham, MA, USA) according to manufacturer’s instructions.  
+
+138 
+
+ 
+
+139 
+
+2.3. Multilocus sequence typing (MLST) of Salmonella species 
+
+140 
+
+ 
+
+ 
+
+7 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT141 
+
+Genomic DNA was extracted from the isolates using the GeneJET Genomic DNA 
+
+142 
+
+Purification Kit (Thermo Fisher Scientific). MLST was performed by amplifying and 
+
+143 
+
+sequencing the seven housekeeping gene fragments with primers as described in Table 1. 
+
+144 
+
+Amplifications were carried out in 50 µl reaction volume containing 10 µl of 5x Phusion 
+
+145 
+
+HF buffer (Thermo Fisher Scientific), 1 µl of 10 mM dNTP mix (1st BASE, Selangor, 
+
+146 
+
+Malaysia), 1 µl each of 10 µM forward and reverse primers and 0.5 µl of Phusion Hot 
+
+147 
+
+Start II Taq DNA polymerase (Thermo Fisher Scientific) topped up with 31.5 µl 
+
+148 
+
+nuclease-free water (Ambion®, Thermo Fisher Scientific). The PCR was performed as 
+
+149 
+
+follows: 98 °C for 30 sec followed by 35 cycles of denaturation (98 °C for 10 sec), 
+
+150 
+
+annealing (55 °C for 30 sec) and extension (72 °C for 30 sec). A final extension step was 
+
+151 
+
+carried out at 72 °C for 10 min using a Veriti 96 Well Thermal Cycler (Applied 
+
+152 
+
+Biosystems, Carlsbad, CA, USA). The PCR products were visualized by gel 
+
+153 
+
+electrophoresis in 2% agarose (1st BASE).  
+
+154 
+
+PCR amplicons of the MLST genes were purified using the GeneAll ExpinTM Gel 
+
+155 
+
+SV kit (GeneAll Biotechnology, Seoul, Korea) and sequenced with sequencing primers 
+
+156 
+
+as shown in Table 1 using capillary electrophoresis with Applied Biosystems® 
+
+157 
+
+3730/3730xl DNA Analyzer and BigDye Terminator v3.1 (Thermo Fisher Scientific). 
+
+158 
+
+The reference templates for the seven MLST genes were obtained from the University of 
+
+159 
+
+Warwick (UoW) MLST database (Warwick). Sequences of the PCR products were then 
+
+160 
+
+assembled using the SeqMan Pro version 8.0 (DNASTAR). The obtained consensus 
+
+161 
+
+sequence of each gene was then entered into the UoW MLST database to obtain the 
+
+162 
+
+corresponding allele number for each gene sequence. Sequence type (ST) of each 
+
+163 
+
+Salmonella isolate was obtained by entering in the combination of allele types of the 
+
+ 
+
+8 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT164 
+
+seven genes into the UoW MLST database. The corresponding serovar to the obtained ST 
+
+165 
+
+was then ascertained by referring to the database (Achtman, et al., 2012). Serovars of 
+
+166 
+
+ST3633 isolates that could not be ascertained with confidence from the database alone 
+
+167 
+
+were serotyped by slide agglutination test using Salmonella antisera (Bio-Rad 
+
+168 
+
+Laboratories, Hercules, CA, USA).  
+
+169 
+
+A dendrogram displaying the phylogenetic relationships between different 
+
+170 
+
+Salmonella isolates was constructed using Molecular Evolutionary Genetics Analysis 
+
+171 
+
+(MEGA) version 7.0, using the Neighbour-Joining (NJ) method based on concatenated 7 
+
+172 
+
+house-keeping genes determined by MLST.  
+
+173 
+
+ 
+
+174 
+
+2.4. Antibiotic susceptibility testing (AST) of Salmonella species 
+
+175 
+
+176 
+
+ 
+
+The antibiotic susceptibilities of the Salmonella isolates to 11 types across 7 classes 
+
+177 
+
+of antibiotics were tested using the disk diffusion method and the results were interpreted 
+
+178 
+
+according to the breakpoints described by the Clinical and Laboratory Standards Institute 
+
+179 
+
+(CLSI, 2014). The antibiotic disks (Oxoid) used in the study were as follows: 10 µg 
+
+180 
+
+ampicillin (AMP), 20 µg amoxicillin and 10 µg clavulanate (AMC), 30 µg ceftriaxone 
+
+181 
+
+(CRO), 30 µg tetracycline (TE), 5 µg ciprofloxacin (CIP), 10 µg norfloxacin (NOR), 30 
+
+182 
+
+µg nalidixic acid (NAL), 23.75 µg sulfamethoxazole and 1.25 µg trimethoprim (SXT), 30 
+
+183 
+
+µg chloramphenicol (C), 30 µg amikacin (AMK) and 10 µg gentamicin (CN). The 
+
+184 
+
+isolates were classified as either susceptible, intermediate or resistant as per the CLSI 
+
+185 
+
+breakpoints. Escherichia coli ATCC 25922 and Staphylococcus aureus ATCC 25923 
+
+186 
+
+were used as quality control organisms in the AST. A multidrug-resistant (MDR) isolate 
+
+ 
+
+9 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT187 
+
+was defined as an isolate exhibiting resistance towards three or more different antibiotic 
+
+188 
+
+classes as previously described (Nguyen, et al., 2016).  
+
+189 
+
+ 
+
+190 
+
+2.5. Detection of mutations in gyrA and parC genes 
+
+191 
+
+192 
+
+ 
+
+The genetic features associated with resistance of the isolates to quinolone and 
+
+193 
+
+fluoroquinolone were assessed as previously described by Šeputienė, et al. (2006). The 
+
+194 
+
+32 isolates that displayed either resistant or intermediate phenotype towards nalidixic 
+
+195 
+
+acid and/or ciprofloxacin was analyzed for the presence of any mutations in gyrA and 
+
+196 
+
+parC genes. The quinolone resistance determining region (QRDR) of gyrA and parC 
+
+197 
+
+were amplified using the primers (Table 1) in reaction volumes as per the MLST 
+
+198 
+
+methodology described in this study. The PCR protocol used for the amplification was as 
+
+199 
+
+described by Šeputienė, et al. (2006). The PCR products were purified and sequenced as 
+
+200 
+
+described previously. The reference templates of gyrA and parC were downloaded from 
+
+201 
+
+GenBank at the National Centre for Biotechnology Information (NCBI) website 
+
+202 
+
+(https://www.ncbi.nlm.nih.gov) from a S. Saintpaul whole genome with accession 
+
+203 
+
+number GCA_000170215.1. The PCR product sequences were then aligned to the 
+
+204 
+
+reference gene templates, trimmed and assembled as described previously and converted 
+
+205 
+
+into protein sequences using the online translation tool publicly available at ExPASy 
+
+206 
+
+(http://web.expasy.org/translate). The mutations in the QRDR of gyrA and parC amino 
+
+207 
+
+acid sequences leading to quinolone and fluoroquinolone resistance were assessed by 
+
+208 
+
+referring to a panel of known mutations previously compiled and published in 
+
+209 
+
+supplementary materials by Stoesser, et al. (2013). 
+
+ 
+
+10 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT210 
+
+ 
+
+211 
+
+2.6. Statistical analysis 
+
+212 
+
+213 
+
+ 
+
+Statistical comparison of the prevalence of Salmonella by market type and parts was 
+
+214 
+
+carried out using Fisher’s exact test available online at the GraphPad Software 
+
+215 
+
+(https://graphpad.com/quickcalcs/contingency1.cfm) with a significance level set at P < 
+
+216 
+
+0.05. The 95% confidence intervals were calculated using the Adjusted Wald method 
+
+217 
+
+available online at MeasuringU (https://measuringu.com/wald/).  
+
+218 
+
+ 
+
+219 
+
+3.  Results 
+
+220 
+
+ 
+
+221 
+
+3.1. Prevalence of Salmonella species in chicken meat from wet markets and 
+
+222 
+
+223 
+
+224 
+
+supermarkets  
+
+ 
+
+Of the 270 chicken meat samples collected from wet markets and supermarkets, 52 
+
+225 
+
+Salmonella isolates were obtained from 49 samples, resulting in a prevalence of 18.1% 
+
+226 
+
+(Table 2). Of the 49 samples detected with Salmonella, 30 samples were from wet 
+
+227 
+
+markets, while 19 samples were from supermarkets, resulting in a prevalence of 25.0% 
+
+228 
+
+(30/120) and 12.7% (19/150), respectively. The prevalence of Salmonella in chicken 
+
+229 
+
+meat from wet markets was significantly higher (P < 0.05) than that from supermarkets. 
+
+230 
+
+No significant difference (P ≥ 0.05) in the prevalence between different chicken parts 
+
+231 
+
+was observed.  
+
+ 
+
+11 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT232 
+
+A total of 11 different serovars were detected among the 52 Salmonella isolates, with 
+
+233 
+
+the four most frequently isolated serovars being S. Saintpaul (32.7%, 17/52), followed by 
+
+234 
+
+S. Brancaster (21.2%, 11/52), S. Albany (11.5%, 6/52), and S. Stanley (9.6%, 5/52) 
+
+235 
+
+(Table 3). A wider variety of serovars was isolated from the chicken meat samples 
+
+236 
+
+collected from wet markets (10 serovars) as compared to the samples from supermarkets 
+
+237 
+
+(3 serovars). S. Saintpaul and S. Brancaster were detected in both market types and 70% 
+
+238 
+
+(14/20) of all Salmonella isolates from supermarkets’ samples were S. Saintpaul as 
+
+239 
+
+opposed to 9.4% (3/32) of isolates from wet markets’ samples. Isolates of ST3633 were 
+
+240 
+
+found to be S. Albany from the slide agglutination test. 
+
+241 
+
+ 
+
+242 
+
+3.2. Distribution of sequence types and serovars based on MLST 
+
+243 
+
+244 
+
+ 
+
+A total of 12 distinct sequence types (STs) across 11 serovars were isolated in this 
+
+245 
+
+study (Fig. 1). Two distinct STs (292 and 3633) were found among the S. Albany 
+
+246 
+
+isolates. 
+
+247 
+
+ 
+
+248 
+
+3.3. Antibiotic resistance of Salmonella in fresh chicken meat 
+
+249 
+
+250 
+
+ 
+
+Antibiotic susceptibility testing (AST) revealed that 80.8% (42/52) of isolates were 
+
+251 
+
+resistant to at least one of the antibiotics tested in this study. The most common 
+
+252 
+
+phenotypic resistance exhibited was towards ampicillin followed by tetracycline, 
+
+253 
+
+chloramphenicol, sulfamethoxazole-trimethoprim and nalidixic acid (Fig. 2). Relatively 
+
+254 
+
+low resistance rates (< 10%) were found for ceftriaxone and ciprofloxacin while no 
+
+ 
+
+12 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT255 
+
+resistance towards amikacin and norfloxacin was found. Of the 52 isolates, 59.6% 
+
+256 
+
+(31/52) of them were multidrug resistant (MDR) isolates (Table 4). The percentage of 
+
+257 
+
+MDR isolates resistant to 3, 4, 5 and 6 classes of antibiotics were 1.9, 17.3, 28.8 and 
+
+258 
+
+11.5% respectively. All S. Albany isolates (n=6) were found to be resistant to at least five 
+
+259 
+
+different classes of antibiotics while all S. Agona isolates (n=4) were susceptible to all 
+
+260 
+
+antibiotics tested. One isolate of S. Albany was found to be resistant to 8 antibiotics with 
+
+261 
+
+a resistance phenotype of AMC-AMP-C-CRO-CIP-NA-SXT-TE. The most common 
+
+262 
+
+resistance phenotype among MDR isolates was AMP-C-SXT-TE (7 isolates, 13.5%) 
+
+263 
+
+followed by AMP-C-CN-SXT-TE (6 isolates, 11.5%) (Table 4).  
+
+264 
+
+ 
+
+265 
+
+3.4. Investigation of genetic resistance determinants to quinolones 
+
+266 
+
+ 
+
+ 
+
+267 
+
+  No mutation in the QRDR of parC gene was observed in any of the isolates tested 
+
+268 
+
+(Table 5). A gyrA mutation responsible for changing the aspartic acid to asparagine 
+
+269 
+
+residue at the 87th position (Asp87Asn) was found in S. Albany isolates (n=6) while a 
+
+270 
+
+mutation causing a change in serine to tyrosine residue at the 83rd position (Ser83Tyr) 
+
+271 
+
+was found in S. Give isolate (n=1).  S. Brancaster and S. Stanley isolates which displayed 
+
+272 
+
+a resistant phenotype to nalidixic acid did not display any mutations in either gyrA or 
+
+273 
+
+parC genes. One isolate (WB2) among S. Albany isolates carrying the Asp87Asn 
+
+274 
+
+mutation, and the S. Give isolate carrying the Ser83Tyr mutation, displayed phenotypic 
+
+275 
+
+resistance towards both nalidixic acid and ciprofloxacin. 
+
+276 
+
+ 
+
+277 
+
+4.  Discussion 
+
+ 
+
+13 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT278 
+
+ 
+
+279 
+
+ 
+
+To our knowledge, there is no other comparable published study on Salmonella 
+
+280 
+
+contamination rates of raw meat items in Singapore. Hence, the prevalence rate found in 
+
+281 
+
+this study could not be compared to any local past data to establish any trend. 
+
+282 
+
+Internationally, this Salmonella prevalence rate of 18.1% in raw chicken in Singapore is 
+
+283 
+
+lower compared to values reported in Vietnam (21.0 % to 65.3% in poultry; Huong, et al., 
+
+284 
+
+2006; Nguyen, et al., 2016; Phan, et al., 2005; Ta, et al., 2014; Van, Moutafis, Istivan, 
+
+285 
+
+Tran, & Coloe, 2007), Egypt (34% in chicken; Abd-Elghany, et al., 2015), Louisiana, 
+
+286 
+
+United States (21.7% in chicken; Lestari, Han, Wang, & Ge, 2009), Maryland, United 
+
+287 
+
+States (56% in chicken; Cui, Ge, Zheng, & Meng, 2005), Anatolia (34% in chicken; 
+
+288 
+
+Yildirim, Gonulalan, Pamuk, & Ertas, 2011), Mexico (35.3% in poultry; Miranda, 
+
+289 
+
+Mondragon, Martinez, Guarddon, & Rodriguez, 2009) and Penang, Malaysia (23.5% in 
+
+290 
+
+ducks; Adzitey, Rusul, & Huda, 2012). The prevalence found in this study is higher 
+
+291 
+
+compared to those in New Zealand (3% in chicken; Wong, Nicol, Cook, & MacDiarmid, 
+
+292 
+
+2007) and United Kingdom (4% in chicken; Meldrum & Wilson, 2007). However, in 
+
+293 
+
+these countries, Campylobacter species tend to be the main contaminant of raw chicken 
+
+294 
+
+instead (Baker, et al., 2006; Meldrum & Wilson, 2007). The lower Salmonella prevalence 
+
+295 
+
+rate in Singapore as compared to many countries could be attributed to the governance of 
+
+296 
+
+food safety and hygiene in Singapore by the combined efforts of the Agri-Food & 
+
+297 
+
+Veterinary Authority of Singapore (AVA) and the National Environment Agency (NEA) 
+
+298 
+
+as succinctly documented by Ludher (2015). 
+
+299 
+
+  Our study showed that the prevalence of Salmonella contamination in raw chicken 
+
+300 
+
+from wet markets was significantly higher than in those from the supermarkets. These 
+
+ 
+
+14 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT301 
+
+results suggest that the prevalence of Salmonella species may vary depending on the type 
+
+302 
+
+of retail establishments. Relatively inferior hygiene practices, such as cutting chicken 
+
+303 
+
+meat with shared knife and chopping board without proper cleaning, and displaying 
+
+304 
+
+chicken carcasses in the chillers without physical separation or individual packaging 
+
+305 
+
+could likely contribute to cross-contamination events leading to a significantly higher rate 
+
+306 
+
+of Salmonella contamination in fresh chicken meat sold in wet markets.  
+
+307 
+
+  We found that S. Saintpaul, S. Brancaster, S. Albany, and S. Stanley represented up to 
+
+308 
+
+75% of all the isolates in fresh chicken meat from wet markets and supermarkets. The 
+
+309 
+
+most prevalent serovar from raw chicken vary widely across studies: S. Corvallis and S. 
+
+310 
+
+Albany in Vietnam (Nguyen, et al., 2016; Ta, et al., 2014) and S. Enteritidis in Egypt and 
+
+311 
+
+China (Abd-Elghany, et al., 2015; Li, Zhou, & Miao, 2017), suggesting geography-
+
+312 
+
+dependent prevalence pattern of serovars. Based on Singapore’s Ministry of Health’s 
+
+313 
+
+epidemiological reports, the top four serovars in this study are attributed to approximately 
+
+314 
+
+10% of human salmonellosis cases in Singapore (MOH, 2015). On the other hand, 
+
+315 
+
+Salmonella Enteritidis, the most commonly reported serovar responsible for human 
+
+316 
+
+salmonellosis cases in the last decade in Singapore (Kondakci & Yuk, 2012), was not 
+
+317 
+
+detected in our cross-sectional study. This suggests that fresh chicken meat may not play 
+
+318 
+
+a major role in the epidemiology of salmonellosis due to S. Enteritidis in Singapore. 
+
+319 
+
+Further studies involving other food items such as eggs may be needed to explain the 
+
+320 
+
+observation. Alternatively, due to the detection limit of the culture method (1 CFU/25 g 
+
+321 
+
+or 0.04 CFU/g), any S. Enteritidis cells present in the fresh raw chicken below the 
+
+322 
+
+detection method may not be isolated but still might cause disease due to its higher 
+
+323 
+
+virulence (Teunis, et al., 2010).  
+
+ 
+
+15 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT324 
+
+ 
+
+In this study, we successfully used multilocus sequence typing (MLST) as an 
+
+325 
+
+alternative method to the conventional serotyping scheme of Salmonella isolates as 
+
+326 
+
+suggested by (Achtman, et al., 2012). This addressed the high cost needed to maintain a 
+
+327 
+
+large collection of ‘O’ and ‘H’ Salmonella antigens required in serotyping a wide array of 
+
+328 
+
+common and rare serovars alike. Although effective as a serotyping tool, the 
+
+329 
+
+determination of phylogeny using MLST may have some limitations in discriminating 
+
+330 
+
+power, due to the relatively low variable nature of the seven housekeeping genes. In our 
+
+331 
+
+study, apart from S. Albany which was isolated in the form of two different sequence 
+
+332 
+
+types (STs), for all other isolates, only one ST each was found for each serovar. In the 
+
+333 
+
+dendrograms based on MLST, isolates with identical STs are clustered together and no 
+
+334 
+
+further genotypic discrimination is possible even though they may be isolated from 
+
+335 
+
+different sources, market types and time period. An alternative genotyping method with a 
+
+336 
+
+higher resolution, such as whole genome sequencing (WGS) followed by the construction 
+
+337 
+
+of phylogenetic single nucleotide polymorphism (SNP) tree may help to determine the 
+
+338 
+
+genetic relationship between isolates of the same serovar from different sources as 
+
+339 
+
+previously demonstrated by Leekitcharoenphon, Nielsen, Kaas, Lund, and Aarestrup 
+
+340 
+
+(2014) and Holt, et al. (2010).  Nevertheless, isolates displaying different STs such as S. 
+
+341 
+
+Albany (ST292 and ST3633) in this study appeared to be genetically different and hence 
+
+342 
+
+can be discriminated based on MLST.   
+
+343 
+
+  We detected multidrug-resistant (MDR) Salmonella in 59.6% (31/52) of the isolates 
+
+344 
+
+obtained from fresh chicken meat sold in local wet markets and supermarkets. The most 
+
+345 
+
+common phenotypic resistance pattern among MDR isolates was AMP-C-SXT-TE. 
+
+346 
+
+Previous studies reported similar phenotypes in Salmonella isolates from food-producing 
+
+ 
+
+16 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT347 
+
+animals in Vietnam (Lettini, et al., 2016; Nguyen, et al., 2016; Ta, et al., 2014; Thai, 
+
+348 
+
+Hirai, Lan, & Yamaguchi, 2012; Thai & Yamaguchi, 2012; Tu, et al., 2015), Mexico 
+
+349 
+
+(Miranda, et al., 2009) and Thailand (Pulsrikarn, et al., 2012). The use of penicillin, 
+
+350 
+
+sulfonamides and tetracycline as primary treatment of various bacterial diseases in 
+
+351 
+
+poultry (Mathew, Cissell, & Liamthong, 2007; Singer & Hofacre, 2006) might have 
+
+352 
+
+contributed to the emergence of this phenotype as the dominant resistance pattern. 
+
+353 
+
+Considering the high rates of resistance towards these antibiotics found in this study and 
+
+354 
+
+several others, strict regulation and extensive education in the use of these drugs in 
+
+355 
+
+agriculture as well as in human and veterinary medicine should be implemented. This 
+
+356 
+
+will serve to prevent further emergence of resistance that could seriously limit their 
+
+357 
+
+usefulness in the near future. 
+
+358 
+
+ 
+
+To understand the genetic basis of resistance towards quinolone and fluoroquinolone 
+
+359 
+
+which are of clinical importance in the treatment of invasive salmonellosis (Acheson & 
+
+360 
+
+Hohmann, 2001), the presence of mutations of gyrA and parC in the QRDR were 
+
+361 
+
+assessed. There are several known mechanisms of resistance towards quinolones and 
+
+362 
+
+fluoroquinolones: target gene mutations, active efflux pumps, a decreased outer 
+
+363 
+
+membrane permeability and plasmid-mediated resistance genes (Hooper, 2001; Jacoby, 
+
+364 
+
+2005; Ruiz, 2003; Zgurskaya & Nikaido, 2000). In this study, we investigated the 
+
+365 
+
+stepwise mutations between alternating gene targets gyrA and parC (Hooper, 2001). We 
+
+366 
+
+found that S. Give (WB11) and S. Albany (WB2) isolates carried a single mutation in the 
+
+367 
+
+primary target (gyrA) but not in the secondary target (parC) despite exhibiting phenotypic 
+
+368 
+
+resistance to both nalidixic acid and ciprofloxacin (Table 5). This was not in agreement 
+
+369 
+
+with the findings of Šeputienė, et al. (2006) who reported that a first mutation in gyrA 
+
+ 
+
+17 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT370 
+
+gene conferred only nalidixic acid resistance while a second mutation in parC was 
+
+371 
+
+needed before developing ciprofloxacin resistance in Gram-negative bacteria. 
+
+372 
+
+Unexpected ciprofloxacin resistance in S. Give (WB11) and S. Albany (WB2) isolates in 
+
+373 
+
+this study in addition to the predicted resistance to nalidixic acid suggests the presence of 
+
+374 
+
+other resistance mechanisms synergistically at work with the gyrA mutation. 
+
+375 
+
+Furthermore, nalidixic acid resistance displayed by S. Stanley and S. Brancaster isolates 
+
+376 
+
+despite lack of any mutations in gyrA and parC genes also suggests the presence of other 
+
+377 
+
+resistance mechanisms such as the plasmid-borne qnr resistance genes. An investigation 
+
+378 
+
+of the presence of qnr genes should be carried out in these isolates next to further 
+
+379 
+
+establish a complete picture of quinolone resistance in these isolates.  
+
+380 
+
+ 
+
+381 
+
+5.  Conclusion 
+
+382 
+
+383 
+
+ 
+
+This is the first report from Singapore that determines the prevalence and antibiotic 
+
+384 
+
+resistance patterns of Salmonella isolated from retail fresh chicken meat. Significantly 
+
+385 
+
+higher prevalence of Salmonella contamination was found in chicken meat from the wet 
+
+386 
+
+markets than those from supermarkets, suggesting that the degree of Salmonella 
+
+387 
+
+contamination might be market type-dependent. Of the 52 Salmonella isolates, 59.6% 
+
+388 
+
+were multidrug resistant that exhibited high resistance rates towards ampicillin, 
+
+389 
+
+chloramphenicol, tetracycline and sulfamethoxazole-trimethoprim. Two different 
+
+390 
+
+mutations in gyrA, but no parC mutation, were found in quinolone-resistant Salmonella 
+
+391 
+
+isolates. The data provide opportunities for risk assessment and management of 
+
+392 
+
+antibiotic-resistant Salmonella in the country and the region.  
+
+ 
+
+18 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT393 
+
+ 
+
+394 
+
+Acknowledgements 
+
+395 
+
+ 
+
+396 
+
+This study was supported in part by the National University of Singapore (NUS), 
+
+397 
+
+and by the National Environment Agency (NEA), Singapore. The authors wish to thank 
+
+398 
+
+Professor Teo Yik Ying from the Saw Swee Hock School of Public Health, NUS for 
+
+399 
+
+guidance on the statistical analysis. No conflict of interest declared. 
+
+400 
+
+  
+
+401 
+
+References 
+
+402 
+
+ 
+
+403 
+
+Abd-Elghany, S. M., Sallam, K. I., Abd-Elkhalek, A., & Tamura, T. (2015). Occurrence, 
+
+404 
+
+405 
+
+genetic characterization and antimicrobial resistance of Salmonella isolated from 
+
+chicken meat and giblets. Epidemiology and Infection, 143(05), 997-1003. 
+
+406 
+
+Acheson, D., & Hohmann, E. L. (2001). Nontyphoidal salmonellosis. Clinical Infectious 
+
+407 
+
+Diseases, 32(2), 263-269. 
+
+408 
+
+Achtman,  M.,  Wain,  J.,  Weill,  F.X.,  Nair,  S.,  Zhou,  Z.,  Sangal,  V.,  Krauland,  M.  G., 
+
+409 
+
+410 
+
+Hale, J. L., Harbottle, H., & Uesbeck, A. (2012). Multilocus sequence typing as a 
+
+replacement for serotyping in Salmonella enterica. PLoS Pathog, 8(6), e1002776. 
+
+411 
+
+Adzitey,  F.,  Rusul,  G.,  &  Huda,  N.  (2012).  Prevalence  and  antibiotic  resistance  of 
+
+412 
+
+413 
+
+Salmonella  serovars  in  ducks,  duck  rearing  and  processing  environments  in 
+
+Penang, Malaysia. Food Research International, 45(2), 947-952. 
+
+414 
+
+Anjum,  M.  F.,  Choudhary,  S.,  Morrison,  V.,  Snow,  L.  C.,  Mafura,  M.,  Slickers,  P., 
+
+415 
+
+Ehricht,  R.,  &  Woodward,  M.  J.  (2011).  Identifying  antimicrobial  resistance 
+
+ 
+
+19 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT416 
+
+417 
+
+genes of human clinical relevance within Salmonella isolated from food animals 
+
+in Great Britain. Journal of Antimicrobial Chemotherapy, 66(3), 550-559. 
+
+418 
+
+Arshad, M. M., Wilkins, M. J., Downes, F. P., Rahbar, M. H., Erskine, R. J., Boulton, M. 
+
+419 
+
+420 
+
+421 
+
+L., Younus, M., & Saeed, A. M. (2008). Epidemiologic attributes of invasive non-
+
+typhoidal Salmonella infections in Michigan, 1995–2001. International Journal of 
+
+Infectious Diseases, 12(2), 176-182. 
+
+422 
+
+Baker,  M.,  Wilson,  N.,  Ikram,  R.,  Chambers,  S.,  Shoemack,  P.,  &  Cook,  G.  (2006). 
+
+423 
+
+424 
+
+425 
+
+Regulation of chicken contamination is urgently needed to control New Zealand's 
+
+serious  campylobacteriosis  epidemic.  The  New  Zealand  Medical  Journal 
+
+(Online), 119(1243), U2264. 
+
+426 
+
+CLSI.  (2014).  Performance  standards  for  antimicrobial  susceptibility  testing;  24th 
+
+427 
+
+informational supplement. CLSI document M100-S24. 
+
+428 
+
+Cui, S., Ge, B., Zheng, J., & Meng, J. (2005). Prevalence and antimicrobial resistance of 
+
+429 
+
+430 
+
+Campylobacter spp. and Salmonella serovars in organic chickens from Maryland 
+
+retail stores. Applied and Environmental Microbiology, 71(7), 4108-4111. 
+
+431 
+
+de  Jong,  A.,  Smet,  A.,  Ludwig,  C.,  Stephan,  B.,  De  Graef,  E.,  Vanrobaeys,  M.,  & 
+
+432 
+
+433 
+
+434 
+
+Haesebrouck, F. (2014). Antimicrobial susceptibility of Salmonella isolates from 
+
+healthy pigs and chickens (2008–2011). Veterinary Microbiology, 171(3-4), 298-
+
+306. 
+
+435 
+
+Holt, K. E., Baker, S., Dongol, S., Basnyat, B., Adhikari, N., Thorson, S., Pulickal, A. S., 
+
+436 
+
+437 
+
+438 
+
+ 
+
+Song,  Y.,  Parkhill,  J.,  &  Farrar,  J.  J.  (2010).  High-throughput  bacterial  SNP 
+
+typing  identifies  distinct  clusters  of  Salmonella  Typhi  causing  typhoid  in 
+
+Nepalese children. BMC Infectious Diseases, 10(1), 144. 
+
+20 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT439 
+
+Hooper,  D.  C.  (2001).  Emerging  mechanisms  of  fluoroquinolone  resistance.  Emerging 
+
+440 
+
+Infectious Diseases, 7(2), 337-341. 
+
+441 
+
+Huong, L. Q., Reinhard, F., Padungtod, P., Hanh, T. T., Kyule, M. N., Baumann, M. P., 
+
+442 
+
+443 
+
+& Zessin, K. H. (2006). Prevalence of Salmonella in retail chicken meat in Hanoi, 
+
+Vietnam. Annals of the New York Academy of Sciences, 1081(1), 257-261. 
+
+444 
+
+ISO. (2002). International Organization for Standardization 6579:2002(E). Microbiology 
+
+445 
+
+446 
+
+of  Food  and  Animal  Feeding  Stuffs  —  Horizontal  Method  for  the  Detection  of 
+
+Salmonella spp. 
+
+447 
+
+Jacoby,  G.  A.  (2005).  Mechanisms  of  resistance  to  quinolones.  Clinical  Infectious 
+
+448 
+
+Diseases, 41(Supplement 2), S120-S126. 
+
+449 
+
+Kariuki, S., Gordon, M. A., Feasey, N., & Parry, C. M. (2015). Antimicrobial resistance 
+
+450 
+
+and management of invasive Salmonella disease. Vaccine, 33, C21-C29. 
+
+451 
+
+Kondakci, T., & Yuk, H. G. (2012). Overview of foodborne outbreaks in the last decade 
+
+452 
+
+453 
+
+in  Singapore:  alarming  increase  in  nontyphoidal  salmonellosis.  Food  and 
+
+Beverage Asia. Pablo Publishing Pte Ltd., Singapore, 42-45. 
+
+454 
+
+Leekitcharoenphon, P., Nielsen, E. M., Kaas, R. S., Lund, O., & Aarestrup, F. M. (2014). 
+
+455 
+
+456 
+
+Evaluation  of  whole  genome  sequencing  for  outbreak  detection  of  Salmonella 
+
+enterica. PloS one, 9(2), e87991. 
+
+457 
+
+Lestari, S. I., Han, F., Wang, F., & Ge, B. (2009). Prevalence and antimicrobial resistance 
+
+458 
+
+459 
+
+of Salmonella serovars in conventional and organic chickens from Louisiana retail 
+
+stores. Journal of Food Protection, 72(6), 1165-1172. 
+
+460 
+
+Lettini, A. A., Vo Than, T., Marafin, E., Longo, A., Antonello, K., Zavagnin, P., Barco, 
+
+461 
+
+L.,  Mancin,  M.,  Cibin,  V.,  &  Morini,  M.  (2016).  Distribution  of  Salmonella 
+
+ 
+
+21 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT462 
+
+463 
+
+serovars and antimicrobial susceptibility from poultry and swine farms in central 
+
+Vietnam. Zoonoses and Public Health, 63(7), 569-576. 
+
+464 
+
+Li, S., Zhou, Y., & Miao, Z. (2017). Prevalence and antibiotic resistance of non-typhoidal 
+
+465 
+
+466 
+
+Salmonella isolated from raw chicken carcasses of commercial broilers and spent 
+
+hens in Tai’an, China. Frontiers in Microbiology, 8, 2106. 
+
+467 
+
+Ludher, E. (2015). A Case study of Singapore’s Smart Governance of Food.  
+
+468 
+
+Majowicz, S. E., Musto, J., Scallan, E., Angulo, F. J., Kirk, M., O'brien, S. J., Jones, T. 
+
+469 
+
+470 
+
+F.,  Fazil,  A.,  &  Hoekstra,  R.  M.  (2010).  The  global  burden  of  nontyphoidal 
+
+Salmonella gastroenteritis. Clinical Infectious Diseases, 50(6), 882-889. 
+
+471 
+
+Mathew,  A.  G.,  Cissell,  R.,  &  Liamthong,  S.  (2007).  Antibiotic  resistance  in  bacteria 
+
+472 
+
+473 
+
+associated with food animals: a United States perspective of livestock production. 
+
+Foodborne Pathogens and Disease, 4(2), 115-133. 
+
+474 
+
+Meldrum,  R.  J.,  &  Wilson,  I.  G.  (2007).  Salmonella  and  Campylobacter  in  United 
+
+475 
+
+476 
+
+Kingdom  retail  raw  chicken  in  2005.  Journal  of  Food  Protection,  70(8),  1937-
+
+1939. 
+
+477 
+
+Miranda,  J.  M.,  Mondragon,  A.  C.,  Martinez,  B.,  Guarddon,  M.,  &  Rodriguez,  J.  A. 
+
+478 
+
+479 
+
+(2009).  Prevalence  and  antimicrobial  resistance  patterns  of  Salmonella  from 
+
+different raw foods in Mexico. Journal of Food Protection, 72(5), 966-971. 
+
+480 
+
+MOH. (2012). Communicable Disease Surveillance in Singapore 2011. 
+
+481 
+
+MOH. (2015). Communicable Disease Surveillance in Singapore 2014. 
+
+482 
+
+MOH. (2016). Communicable Disease Surveillance in Singapore 2015. 
+
+483 
+
+Nguyen, D. T. A., Kanki, M., Nguyen, P. D., Le, H. T., Ngo, P. T., Tran, D. N. M., Le, 
+
+484 
+
+N. H., Dang, C. V., Kawai, T., Kawahara, R., Yonogi, S., Hirai, Y., Jinnai, M., 
+
+ 
+
+22 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT485 
+
+486 
+
+487 
+
+488 
+
+Yamasaki,  S.,  Kumeda,  Y.,  &  Yamamoto,  Y.  (2016).  Prevalence,  antibiotic 
+
+resistance,  and  extended-spectrum  and  AmpC  β-lactamase  productivity  of 
+
+Salmonella  isolates  from  raw  meat  and  seafood  samples  in  Ho  Chi  Minh  City, 
+
+Vietnam. International Journal of Food Microbiology, 236, 115-122. 
+
+489 
+
+Oueslati,  W.,  Rjeibi,  M.  R.,  Mhadhbi,  M.,  Jbeli,  M.,  Zrelli,  S.,  &  Ettriqui,  A.  (2016). 
+
+490 
+
+491 
+
+Prevalence,  virulence  and  antibiotic  susceptibility  of  Salmonella  spp.  strains, 
+
+isolated from beef in Greater Tunis (Tunisia). Meat Science, 119, 154-159. 
+
+492 
+
+Phan,  T.  T.,  Khai,  L.  T.  L.,  Ogasawara,  N.,  Tam,  N.  T.,  Okatani,  A.  T.,  Akiba,  M.,  & 
+
+493 
+
+494 
+
+Hayashidani, H. (2005). Contamination of Salmonella in retail meats and shrimps 
+
+in the Mekong Delta, Vietnam. Journal of Food Protection, 68(5), 1077-1080. 
+
+495 
+
+Pulsrikarn,  C.,  Chaichana,  P.,  Pornruangwong,  S.,  Morita,  Y.,  Yamamoto,  S.,  & 
+
+496 
+
+497 
+
+498 
+
+Boonmar,  S.  (2012).  Serotype,  antimicrobial  susceptibility,  and  genotype  of 
+
+Salmonella  isolates  from  swine  and  pork  in  Sa  Kaew  province,  Thailand.  The 
+
+Thai Journal of Veterinary Medicine, 42(1), 21-28. 
+
+499 
+
+Rodriguez-Rivera, L. D., Cummings, K. J., Loneragan, G. H., Rankin, S. C., Hanson, D. 
+
+500 
+
+501 
+
+502 
+
+L.,  Leone,  W.  M.,  &  Edrington,  T.  S.  (2016).  Salmonella  prevalence  and 
+
+antimicrobial susceptibility among dairy farm environmental samples collected in 
+
+Texas. Foodborne Pathogens and Disease, 13(4), 205-211. 
+
+503 
+
+Ruiz,  J.  (2003).  Mechanisms  of  resistance  to  quinolones:  target  alterations,  decreased 
+
+504 
+
+505 
+
+accumulation  and  DNA  gyrase  protection.  Journal  of  Antimicrobial 
+
+Chemotherapy, 51(5), 1109-1117. 
+
+ 
+
+23 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT506 
+
+Scallan, E., Hoekstra, R. M., Angulo, F. J., Tauxe, R. V., Widdowson, M.-A., Roy, S. L., 
+
+507 
+
+508 
+
+Jones,  J.  L.,  &  Griffin,  P.  M.  (2011).  Foodborne  illness  acquired  in  the  United 
+
+States—major pathogens. Emerging Infectious Diseases, 17(1), 7-15. 
+
+509 
+
+Šeputienė, V., Povilonis, J., Ružauskas, M., Virgailis, M., Žlabys, P., & Sužiedėlienė, E. 
+
+510 
+
+511 
+
+(2006). Quinolone resistance among Salmonella enterica and Escherichia coli in 
+
+Lithuania. Biologija(3), 74-78. 
+
+512 
+
+Singer,  R.  S.,  &  Hofacre,  C.  L.  (2006).  Potential  impacts  of  antibiotic  use  in  poultry 
+
+513 
+
+production. Avian Diseases, 50(2), 161-172. 
+
+514 
+
+Stoesser, N., Batty, E. M., Eyre, D.  W., Morgan, M.,  Wyllie, D. H., Del Ojo Elias, C., 
+
+515 
+
+516 
+
+517 
+
+518 
+
+Johnson, J. R., Walker, A. S., Peto, T. E. A., & Crook, D. W. (2013). Predicting 
+
+antimicrobial  susceptibilities  for  Escherichia  coli  and  Klebsiella  pneumoniae 
+
+isolates  using  whole  genomic  sequence  data.  Journal  of  Antimicrobial 
+
+Chemotherapy, 68(10), 2234-2244. 
+
+519 
+
+Ta, Y. T., Nguyen, T. T., To, P. B., Pham, D. X., Le, H. T. H., Thi, G. N., Alali, W. Q., 
+
+520 
+
+521 
+
+522 
+
+Walls,  I.,  &  Doyle,  M.  P.  (2014).  Quantification,  serovars,  and  antibiotic 
+
+resistance  of  Salmonella  isolated  from  retail  raw  chicken  meat  in  Vietnam. 
+
+Journal of Food Protection, 77(1), 57-66. 
+
+523 
+
+Teunis, P.  F. M., Kasuga, F., Fazil, A., Ogden, I. D., Rotariu, O., & Strachan, N. J. C. 
+
+524 
+
+525 
+
+(2010). Dose–response modeling of Salmonella using outbreak data. International 
+
+Journal of Food Microbiology, 144(2), 243-249. 
+
+526 
+
+Thai, T. H., Hirai, T., Lan, N. T., & Yamaguchi, R. (2012). Antibiotic resistance profiles 
+
+527 
+
+528 
+
+ 
+
+of  Salmonella  serovars  isolated  from  retail  pork  and  chicken  meat  in  North 
+
+Vietnam. International Journal of Food Microbiology, 156(2), 147-151. 
+
+24 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT529 
+
+Thai,  T. H., & Yamaguchi, R. (2012). Molecular characterization of antibiotic-resistant 
+
+530 
+
+531 
+
+Salmonella isolates from retail meat from markets in Northern Vietnam. Journal 
+
+of Food Protection, 75(9), 1709-1714. 
+
+532 
+
+Thames, C. H., Pruden, A., James, R. E., Ray, P. P., & Knowlton, K. F. (2012). Excretion 
+
+533 
+
+534 
+
+of  antibiotic  resistance  genes  by  dairy  calves  fed  milk  replacers  with  varying 
+
+doses of antibiotics. Frontiers in Microbiology, 3, 139. 
+
+535 
+
+Tu, L. T. P., Hoang, N. V. M., Cuong, N. V., Campbell, J., Bryant, J. E., Hoa, N. T., Kiet, 
+
+536 
+
+537 
+
+538 
+
+539 
+
+B.  T.,  Thompson,  C.,  Duy,  D.  T.,  &  Phat,  V.  V.  (2015).  High  levels  of 
+
+contamination  and  antimicrobial-resistant  non-typhoidal  Salmonella  serovars  on 
+
+pig  and  poultry  farms  in  the  Mekong  Delta  of  Vietnam.  Epidemiology  and 
+
+Infection, 143(14), 3074-3086. 
+
+540 
+
+USDA.  (2014).  Isolation  And  Identification  of  Salmonella  From  Meat,  Poultry, 
+
+541 
+
+Pasteurized Egg, and Catfish Products and Carcass and Environmental Sponges.  
+
+542 
+
+Van, T. T. H., Moutafis, G., Istivan, T., Tran, L. T., & Coloe, P. J. (2007). Detection of 
+
+543 
+
+544 
+
+545 
+
+Salmonella spp. in retail raw food samples from Vietnam and characterization of 
+
+their  antibiotic  resistance.  Applied  and  Environmental  Microbiology,  73(21), 
+
+6885-6890. 
+
+546 
+
+Vandeplas,  S.,  Dauphin,  R.  D.,  Beckers,  Y.,  Thonart,  P.,  &  Thewis,  A.  (2010). 
+
+547 
+
+548 
+
+Salmonella in chicken: current and developing strategies to reduce contamination 
+
+at farm level. Journal of Food Protection, 73(4), 774-785. 
+
+549 
+
+Veldman,  K.,  Cavaco,  L.  M.,  Mevius,  D.,  Battisti,  A.,  Franco,  A.,  Botteldoorn,  N., 
+
+550 
+
+551 
+
+ 
+
+Bruneau, M., Perrin-Guyomard, A., Cerny, T., & De Frutos Escobar, C. (2011). 
+
+International  collaborative  study  on 
+
+the  occurrence  of  plasmid-mediated 
+
+25 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT552 
+
+553 
+
+554 
+
+quinolone  resistance  in  Salmonella  enterica  and  Escherichia  coli  isolated  from 
+
+animals, humans, food and the environment in 13 European countries. Journal of 
+
+Antimicrobial Chemotherapy, 66(6), 1278-1286. 
+
+555 
+
+Warwick, U. o. MLST database at University of Warwick.  
+
+556 
+
+Wong,  T.  L.,  Nicol,  C.,  Cook,  R.,  &  MacDiarmid,  S.  (2007).  Salmonella  in  uncooked 
+
+557 
+
+retail meats in New Zealand. Journal of Food Protection, 70(6), 1360-1365. 
+
+558 
+
+Yildirim,  Y.,  Gonulalan,  Z.,  Pamuk,  S.,  &  Ertas,  N.  (2011).  Incidence  and  antibiotic 
+
+559 
+
+560 
+
+resistance  of  Salmonella  spp.  on  raw  chicken  carcasses.  Food  Research 
+
+International, 44(3), 725-728. 
+
+561 
+
+Zgurskaya,  H.  I.,  &  Nikaido,  H.  (2000).  Multidrug  resistance  mechanisms:  drug  efflux 
+
+562 
+
+across two membranes. Molecular Microbiology, 37(2), 219-225. 
+
+563 
+
+Zhang, Z., Meng, X., Wang, Y., Xia, X., Wang, X., Xi, M., Meng, J., Shi, X., Wang, D., 
+
+564 
+
+565 
+
+566 
+
+567 
+
+& Yang, B. (2014). Presence of qnr, aac (6′)-Ib, qep A, oqx AB, and mutations in 
+
+gyrase  and 
+
+topoisomerase 
+
+in  nalidixic  acid–resistant  Salmonella 
+
+isolates 
+
+recovered  from  retail  chicken  carcasses.  Foodborne  Pathogens  and  Disease, 
+
+11(9), 698-705. 
+
+568 
+
+Zheng, Q., Mikš-Krajnik, M., Yang, Y., Xu,  W., & Yuk, H. G. (2014). Real-time PCR 
+
+569 
+
+570 
+
+571 
+
+method  combined  with  immunomagnetic  separation  for  detecting  healthy  and 
+
+heat-injured Salmonella Typhimurium on raw duck wings. International Journal 
+
+of Food Microbiology, 186, 6-13. 
+
+572 
+
+Zwe, Y. H., & Yuk, H.  G. (2017).  Food quality  and safety in Singapore: microbiology 
+
+573 
+
+574 
+
+ 
+
+ 
+
+aspects. Food Quality and Safety, 1(2), 101-105. 
+
+26 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT575 
+
+ 
+
+ 
+
+ 
+
+27 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT576 
+
+Table 1. Primers used in this study. 
+
+Gene Target 
+
+Primer  
+
+Sequence (5'-3') 
+
+Amplicon 
+size (bp)  Reference 
+(Warwick) 
+ 
+826 
+
+(Warwick) 
+
+MLST amplification 
+aroC 
+
+ 
+dnaN 
+
+ 
+hemD 
+
+ 
+hisD 
+
+ 
+purE 
+
+ 
+sucA 
+
+ 
+thrA 
+
+aroCF 
+aroCR 
+dnaNF 
+dnaNR 
+hemDF 
+hemDR 
+hisDF 
+hisDR 
+purEF 
+purER 
+sucAF 
+sucAR 
+thrAF 
+thrAR 
+
+CCTGGCACCTCGCGCTATAC 
+CCACACACGGATCGTGGCG 
+ATGAAATTTACCGTTGAACGTGA  833 
+AATTTCTCATTCGAGAGGATTGC 
+ATGAGTATTCTGATCACCCG 
+ATCAGCGACCTTAATATCTTGCCA 
+GAAACGTTCCATTCCGCGCAGAC  894 
+CTGAACGGTCATCCGTTTCTG 
+ATGTCTTCCCGCAATAATCC 
+TCATAGCGTCCCCCGCGGATC 
+AGCACCGAAGAGAAACGCTG 
+GGTTGTTGATAACGATACGTAC 
+GTCACGGTGATCGATCCGGT 
+CACGATATTGATATTAGCCCG 
+
+ 
+643 
+
+ 
+510 
+
+MLST sequencing 
+aroC 
+
+ 
+dnaN 
+
+ 
+hemD 
+
+ 
+hisD 
+
+ 
+
+CCGATTCTCGGTAACCTGCT 
+
+aroC_sF1  GGCGTGACGACCGGCAC 
+aroC_sR1  AGCGCCATATGCGCCAC 
+dnaN_sF 
+dnaN_sR1  ACGCGACGGTAATCCGGG 
+hemD_sF2  GCCTGGAGTTTTCCACTG 
+hemD_sR  GACCAATAGCCGACAGCGTAG 
+hisD_sF 
+
+GTCGGTCTGTATATTCCCGG 
+
+28 
+
+666 
+
+ 
+852 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+purE 
+
+ 
+sucA 
+
+ 
+thrA 
+
+hisD_sR 
+GGTAATCGCATCCACCAAATC 
+purE_sF1  ACAGGAGTTTTAAGACGCATG 
+purE_sR1  GCAAACTTGCTTCATAGCG 
+sucA_sF1  CCGAAGAGAAACGCTGGATC 
+sucA_sR  GGTTGTTGATAACGATACGTAC 
+thrA_sF 
+ATCCCGGCCGATCACATGAT 
+thrA_sR1  ACCGCCAGCGGCTCCAGCA 
+
+Quinolone resistance-determining regions 
+gyrA  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+343 
+
+(Šeputienė, et al., 2006) 
+
+parC 
+  
+Abbreviations: aroC, chorismate synthase; dnaN, DNA polymerase III beta subunit; hemD, uroporphyrinogen III cosynthase; hisD, 
+
+  
+
+577 
+
+gyrAF 
+gyrAR 
+parCF 
+parCR 
+
+AAATCTGCCCGTGTCGTTGGT  
+GCCATACCTACTGCGATACC 
+GTGGTAGCGAAGAGGTGGTT  
+GACCGTGCG TTGCCGTTTAT  
+
+ 
+964 
+  
+
+578 
+
+histidinol dehydrogenase; purE, phosphoribosylaminoimidazole carboxylase; sucA, alpha ketoglutarate dehydrogenase; thrA, 
+
+579 
+
+aspartokinase + homoserine dehydrogenase; gyrA, DNA gyrase subunit A; parC, topoisomerase subunit A.
+
+ 
+
+29 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT580 
+
+581 
+
+ 
+Table 2. Prevalencea of Salmonella spp. isolated from chicken meat in Singapore. 
+
+No. of 
+
+No. (%) of Salmonella-positive 
+
+Variable 
+
+samples 
+
+sample 
+
+Overall 
+
+Market Type 
+
+Wet market 
+
+Supermarket 
+
+ 
+
+Parts 
+
+Breast 
+
+Drum Stick 
+
+Minced 
+
+Thigh 
+
+Whole 
+
+270 
+
+49 (18.1) 
+
+ 
+120 
+
+150 
+
+ 
+
+60 
+
+60 
+
+30 
+
+60 
+
+60 
+
+ 
+30 (25.0) A 
+
+19 (12.7) B 
+
+ 
+
+15 (25.0) A 
+
+9 (15.0) A 
+
+3 (10.0) A 
+
+13 (21.7) A 
+
+9 (15.0) A 
+
+95% CI (%) 
+
+14.0 – 23.2 
+
+18.1 – 33.5 
+
+8.2 – 19.0 
+
+ 
+
+15.7 - 37.3 
+
+7.9 - 26.3 
+
+2.7 - 26.4 
+
+13.0 - 33.8 
+
+7.9 - 26.3 
+
+582 
+
+aValues in columns within each variable that are followed by the same letter are not 
+
+583 
+
+significantly different (P ≥ 0.05). 
+
+584 
+
+585 
+
+ 
+
+ 
+
+ 
+
+ 
+
+30 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT586 
+
+Table 3. Salmonella serovars isolated from different types of markets. 
+
+Serovars 
+Saintpaul 
+Brancaster 
+Albany 
+Stanley 
+Agona 
+Typhimurium 
+Gaminara 
+Bovismorbificans 
+Give 
+Newport 
+Weltevreden 
+
+No. (%) of isolates 
+from wet markets 
+3 (5.8) 
+6 (11.5) 
+6 (11.5) 
+5 (9.6) 
+4 (7.7) 
+3 (5.8) 
+2 (3.8) 
+1 (1.9) 
+1 (1.9) 
+0 (0) 
+1 (1.9) 
+
+Total no. (%) 
+aRounded up to 100 
+
+32 (61.4) 
+
+587 
+
+588 
+
+ 
+
+ 
+
+No. (%) of isolates 
+from supermarkets 
+14 (26.9) 
+5 (9.6) 
+0 (0) 
+0 (0) 
+0 (0) 
+0 (0) 
+0 (0) 
+0 (0) 
+0 (0) 
+1 (1.9) 
+0 (0) 
+ 
+20 (38.4) 
+
+Total no. (%) 
+17 (32.7) 
+11 (21.2) 
+6 (11.5) 
+5 (9.6) 
+4 (7.7) 
+3 (5.8) 
+2 (3.8) 
+1 (1.9) 
+1 (1.9) 
+1 (1.9) 
+1 (1.9) 
+
+52 (100a) 
+
+ 
+
+31 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT589 
+
+Table 4. Phenotypic resistance patterns of Salmonella isolates from raw chicken meat. 
+
+Resistance phenotype  
+
+   Serovar (No. of isolates) 
+
+Susceptible 
+
+  Agona (4), Gaminara (2), Saintpaul (2), 
+
+Newport (1), Weltevreden (1) 
+
+No. of 
+antibiotic 
+classes 
+0 
+
+AMP 
+
+AMC-AMP 
+
+AMP-C 
+
+AMP-CRO 
+
+AMP-TE 
+
+C-CIP-NA-TE 
+
+AMP-C-SXT-TE 
+
+  Saintpaul (4) 
+
+  Saintpaul (1) 
+
+  Typhimurium (1) 
+
+  Saintpaul (3) 
+
+   Saintpaul (1), Typhimurium (1) 
+
+  Give (1)  
+
+  Stanley (4), Bovismorbificans (1), 
+
+Typhimurium (1), Brancaster (1) 
+
+AMC-AMP-C-CN-CRO 
+
+  Saintpaul (1) 
+
+AMC-AMP-C-SXT-TE 
+
+  Brancaster (1) 
+
+AMP-C-CN-SXT-TE 
+
+  Saintpaul (5), Brancaster (1) 
+
+AMP-C-NA-SXT-TE 
+
+  Albany (3), Stanley (1), Brancaster (1) 
+
+AMC-AMP-C-NA-SXT-TE 
+
+  Brancaster (3), Albany (1) 
+
+AMP-C-CN-NA-SXT-TE 
+
+  Brancaster (4), Albany (1) 
+
+AMP-AMC-C-CIP-CRO-NA-
+
+Albany (1) 
+
+SXT-TE 
+
+1 
+
+1 
+
+2 
+
+2 
+
+2 
+
+3 
+
+4 
+
+4 
+
+4 
+
+5 
+
+5 
+
+5 
+
+6 
+
+6 
+
+590 
+
+Abbreviations: AMC, Amoxicillin-clavulanate; AMP, Ampicillin; C, Chloramphenicol; 
+
+591 
+
+CIP, Ciprofloxacin; CN, Gentamicin; CRO, Ceftriaxone; NA, Nalidixic acid; SXT, 
+
+592 
+
+Sulfamethoxazole-trimethoprim; TE, Tetracycline.  
+
+ 
+
+ 
+
+32 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT593 
+
+Table 5. List of gyrA and parC mutations in quinolone and/or fluroquinolone resistant 
+
+594 
+
+isolates. 
+
+Serovar 
+
+NA 
+
+CIP 
+
+Sample  
+WB17a 
+M22b 
+M24 
+T24c 
+W24d 
+WW8A 
+WW8B 
+WW28A 
+WW22 
+WB11 
+WB2 
+WB22 
+WB23 
+WB24 
+WB25 
+WT5 
+Abbreviations: NA, Nalidixic acid; CIP, Ciprofloxacin; R, Resistant; S, Susceptible, I, 
+
+Stanley 
+R 
+Brancaster  R 
+Brancaster  R 
+Brancaster  R 
+Brancaster  R 
+Brancaster  R 
+Brancaster  R 
+Brancaster  R 
+Brancaster  R 
+Give 
+R 
+R 
+Albany 
+R 
+Albany 
+R 
+Albany 
+Albany 
+R 
+R 
+Albany 
+Albany 
+R 
+
+gyrA 
+mutation 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Ser83Tyr 
+Asp87Asn 
+Asp87Asn 
+Asp87Asn 
+Asp87Asn 
+Asp87Asn 
+Asp87Asn 
+
+parC 
+mutation 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+I 
+I 
+I 
+S 
+I 
+I 
+I 
+I 
+I 
+R 
+R 
+I 
+I 
+I 
+I 
+I 
+
+595 
+
+596 
+
+Intermediate;  aB denotes chicken breast meat sample while prefix W denotes wet market 
+
+597 
+
+sample; bM denotes mince chicken meat sample and the lack of prefix W denotes 
+
+598 
+
+supermarket sample; cT denotes thigh sample; dW denotes whole chicken sample. 
+
+599 
+
+600 
+
+ 
+
+ 
+
+ 
+
+ 
+
+33 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT601 
+
+Figure Legends 
+
+602 
+
+ 
+
+603 
+
+Figure 1. Neighbor-joining dendrogram based on concatenated nucleotide sequences of 7 
+
+604 
+
+house-keeping genes of Salmonella determined by multilocus sequence typing (MLST). 
+
+605 
+
+Bootstrap values of >50% shown on the branches are calculated after 1,000 replicates.  
+
+606 
+
+ 
+
+607 
+
+Figure 2. Frequency bar chart of percentage resistant Salmonella isolates to different 
+
+608 
+
+antibiotics.  
+
+609 
+
+ 
+
+ 
+
+ 
+
+34 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT6
+1
+7
+
+ 
+
+6
+1
+6
+
+ 
+
+6
+1
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+F
+i
+g
+
+.
+ 
+
+2
+
+ 
+
+3
+5
+
+ 
+
+6
+1
+3
+
+ 
+
+6
+1
+4
+
+ 
+
+ 
+
+6
+1
+2
+
+ 
+
+6
+1
+1
+
+ 
+
+6
+1
+0
+
+ 
+
+ 
+
+ 
+
+ 
+
+% of isolates resistant (n = 52)
+
+0
+
+1
+0
+
+2
+0
+
+3
+0
+
+4
+0
+
+5
+0
+
+6
+0
+
+7
+0
+
+8
+0
+
+9
+0
+
+7
+8
+8
+
+.
+
+6
+1
+5
+
+.
+
+6
+1
+5
+
+.
+
+5
+5
+8
+
+.
+
+Ampicillin
+
+Tetracycline
+
+Chloramphenicol
+
+Sulfamethoxazole
+
+-trimethoprim
+
+Nalidixic acid
+
+Gentamicin
+
+Amoxicillin-
+clavulanate
+
+Ceftriaxone
+
+9
+.
+6
+
+Ciprofloxacin
+
+3
+.
+8
+
+Amikacin
+
+Norfloxacin
+
+0
+.
+0
+
+.
+
+0
+0
+
+ 
+
+3
+0
+8
+
+.
+
+2
+3
+1
+
+.
+
+1
+5
+.
+4
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPTSupermarket
+Wet Market
+
+S. Saintpaul; ST 3602
+
+S. Typhimurium; ST 36
+
+S. Bovismorbificans; ST 1058
+
+S. Newport; ST 31
+
+S. Stanley; ST 29
+
+S. Welteverden; ST 365
+
+S. Brancaster; ST 2133
+
+S. Agona; ST 13
+
+S. Gaminara; ST 239
+
+S. Give; ST 516
+S. Albany; ST 292
+
+S. Albany; ST 3633
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT B23A_ChkBreast_SM_2015 B23B_ChkBreast_SM_2015 B26_ChkBreast_SM_2015 B27_ChkBreast_SM_2015 B28_ChkBreast_SM_2015 B29_ChkBreast_SM_2015 B3_ChkBreast_SM_2015 D6_ChkDrumStick_SM_2015 D7_ChkDrumStick_SM_2015 T6_ChkThigh_SM_2015 T8_ChkThigh_SM_2015 T9_ChkThigh_SM_2015 W11_ChkWhole_SM_2015 W13_ChkWhole_SM_2015 WD21_ChkDrumStick_WM_2016 WT26_ChkThigh_WM_2016 WW26_ChkWhole_WM_2016 WD24_ChkDrumStick_WM_2016 WT6_ChkThigh_WM_2016 WT7_ChkThigh_WM_2016 WD3_ChkDrumStick_WM_2016 W15_ChkWhole_SM_2015 WB17_ChkBreast_WM_2016 WT13_ChkThigh_WM_2016 WT15_ChkThigh_WM_2016 WT8_ChkThigh_WM_2016 WW28B_ChkWhole_WM_2016 WW19_ChkWhole_WM_2016 WW8A_ChkWhole_WM_2016 WW8B_ChkWhole_WM_2016 WW28A_ChkWhole_WM_2016 WW22_ChkWhole_WM_2016 WT4_ChkThigh_WM_2016 WD11_ChkDrumStick_WM_2016 W24_ChkWhole_SM_2015 T24_ChkThigh_SM_2015 M29_ChkMince_SM_2015 M24_ChkMince_SM_2015 M22_ChkMince_SM_2015 WD19_ChkDrumStick_WM_2016 WT14_ChkThigh_WM_2016 WB20_ChkBreast_WM_2016 WB19_ChkBreast_WM_2016 WD16_ChkDrumStick_WM_2016 WD17_ChkDrumStick_WM_2016 WB11_ChkBreast_WM_2016 WT5_ChkThigh_WM_2016 WB22_ChkBreast_WM_2016 WB23_ChkBreast_WM_2016 WB24_ChkBreast_WM_2016 WB25_ChkBreast_WM_2016 WB2_ChkBreast_WM_2016100100100100941001001000.001Highlights 
+
+•  Salmonella contamination was higher in the wet markets than supermarkets. 
+
+•  S. Saintpaul (32.7%) was most prevalent, followed by S. Brancaster (21.2%). 
+
+•  Multi-drug resistance rate of Salmonella was 60%. 
+
+•  Two separate mutations in gyrA for quinolone resistance were found. 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT

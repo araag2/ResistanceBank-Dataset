@@ -1,0 +1,1288 @@
+226
+
+Journal of Food Protection, Vol. 81, No. 2, 2018, Pages 226–232
+doi:10.4315/0362-028X.JFP-17-277
+Copyright Ó, International Association for Food Protection
+
+Research Paper
+
+Prevalence and Molecular Characterization of Antimicrobial
+
+Resistance in Escherichia coli Isolated from Raw Milk and Raw
+
+Milk Cheese in Egypt
+
+RABEE A. OMBARAK,1,2 ATSUSHI HINENOYA,2 ABDEL-RAHMAN M. ELBAGORY,3 AND SHINJI YAMASAKI2*
+
+1Faculty of Veterinary Medicine, University of Sadat City, Sadat City 32897, Egypt; 2Graduate School of Life and Environmental Sciences, Osaka Prefecture
+
+University, Osaka 598-8531, Japan; and 3Faculty of Veterinary Medicine, Menouﬁa University, Al Minufya 32511, Egypt
+
+MS 17-277: Received 19 May 2017/Accepted 21 September 2017/Published Online 11 January 2018
+
+ABSTRACT
+
+The goal of this study was to examine antimicrobial resistance and characterize the implicated genes in 222 isolates of
+Escherichia coli from 187 samples of raw milk and the two most popular cheeses in Egypt. E. coli isolates were tested for
+susceptibility to 12 antimicrobials by a disk diffusion method. Among the 222 E. coli isolates, 66 (29.7%) were resistant to one or
+more antimicrobials, and half of these resistant isolates showed a multidrug resistance phenotype (resistance to at least three
+different drug classes). The resistance traits were observed to tetracycline (27.5%), ampicillin (18.9%), streptomycin (18.5%),
+sulfamethoxazole-trimethoprim (11.3%), cefotaxime (4.5%), kanamycin (4.1%), ceftazidime (3.6%), chloramphenicol (2.3%),
+nalidixic acid (1.8%), and ciproﬂoxacin (1.4%). No resistance to fosfomycin and imipenem was observed. Tetracycline resistance
+genes tetA, tetB, and tetD were detected in 53 isolates, 9 isolates, and 1 isolate, respectively, but tetC was not detected.
+Aminoglycoside resistance genes strA, strB, aadA, and aphA1 were detected in 41, 41, 11, and 9 isolates, respectively.
+Sulfonamide resistance genes sul1, sul2, and sul3 were detected in 7, 25, and 3 isolates, respectively. Of 42 ampicillin-resistant
+isolates, blaTEM, blaCTX-M, and blaSHV were detected in 40, 9, and 3 isolates, respectively, and 10 (23.8%) ampicillin-resistant
+isolates were found to produce extended-spectrum b-lactamase. Each bla gene of extended-spectrum b-lactamase–producing E.
+coli was further subtyped to be blaCTX-M-15, blaCTX-M-104, blaTEM-1, and blaSHV-12. The class 1 integron was also detected in 28
+resistant isolates, and three different patterns were obtained by PCR-restriction fragment length polymorphism. Sequencing
+analysis of the variable region revealed that four isolates had dfrA12/orfF/aadA2, two had aadA22, and one had dfrA1/aadA1.
+These data suggest that antimicrobial-resistant E. coli are widely distributed in the milk production and processing environment in
+Egypt and may play a role in dissemination of antimicrobial resistance to other pathogenic and commensal bacteria.
+
+Key words: Antimicrobial resistance; Dairy products; Egypt; Escherichia coli
+
+for
+
+Worldwide antimicrobial resistance (AMR) is one of the
+most serious problems for both public and animal health,
+with inappropriate use of antimicrobial agents in humans
+and animals being one of the main causes of this problem (7,
+14). Food may act as a vector
+the transfer of
+antimicrobial-resistant bacteria to humans (53). Contamina-
+tion of foods with such bacteria could be a major public
+health threat because there is a possibility that genes
+encoding AMR determinants could be transferred to other
+bacteria of clinical signiﬁcance (48). The rapid dissemina-
+tion of the AMR genes among bacteria could be facilitated if
+these genes are encoded on mobile genetic elements such as
+transposons, and integrons (31, 45). Because
+plasmids,
+Escherichia coli acquires resistance easily and is a common
+inhabitant of the intestinal tract of humans and animals, E.
+coli has been selected as a sentinel organism in AMR
+surveillance studies (55).
+
+* Author for correspondence. Tel and Fax: þ81-72-463-5653; E-mail:
+shinji@vet.osakafu-u.ac.jp.
+
+to prevent
+
+The study of AMR in clinical and environmental
+the spread of multidrug-
+isolates is crucial
+resistant bacteria (50, 51).
+Information concerning the
+problem of AMR in the whole African continent is limited
+(56). Similar
+to many other developing and African
+countries, food hygiene and safety conditions in Egypt,
+speciﬁcally in the dairy sector, require more attention. In
+addition, AMR is exacerbated by the lack of stringent
+controls on antimicrobial use in human health as well as
+animal production systems (2), which increases the risk of
+emergence of foodborne microbes possessing an array of
+resistance genes. Egypt,
+times, has been
+considered to be one of
+the leading countries in the
+manufacture of dairy products. Dairy products, especially
+cheese, play an important role in the Egyptian diet (8, 18,
+23). Many people eat a certain amount of cheese at least
+once every day (47). However, very little is known about the
+prevalence of AMR and its molecular basis in bacteria
+isolated from Egyptian food.
+
+from ancient
+
+Therefore, the aim of the present study was to check for
+the presence of antimicrobial-resistant E. coli in Egyptian
+
+Journal of Food Protection 2018.81:226-232.Downloaded from jfoodprotection.org by Iowa State University on 01/23/19. For personal use only.J. Food Prot., Vol. 81, No. 2
+
+ANTIMICROBIAL RESISTANCE OF E. COLI FROM DAIRY PRODUCTS IN EGYPT
+
+227
+
+TABLE 1. Primers for detection of antimicrobial-resistant genes and for identiﬁcation of gene cassettes in the class 1 integron
+
+Target
+
+Primer
+
+Sequence 50 to 30
+
+Size (bp)
+
+Reference
+
+tetA
+
+tetB
+
+tetC
+
+tetD
+
+blaSHV
+
+blaTEM
+
+blaCTX-M
+
+aphA1
+
+aadA
+
+strA
+
+strB
+
+sul1
+
+sul2
+
+sul3
+
+intI1
+
+qacED1
+
+IntI1 variable region
+
+tetA-F
+tetA-R
+tetB-F
+tetB-R
+tetC-F
+tetC-R
+tetD-F
+tetD-R
+bla-SHV.SE
+bla-SHV.AS
+TEM-164.SE
+TEM-165.AS
+CTX-M-U1
+CTX-M-U2
+aphA1-F
+aphA1-R
+4F
+4Ra
+2Fa
+2Ra
+3Fa
+3Ra
+Sul1-Lb
+Sul1-Rb
+Sul2-Lb
+Sul2-Rb
+Sul3-Fc
+Sul3-Rc
+INT-1U
+INT-1D
+Qac-F
+Qac-R
+50-CS
+30-CS
+
+GCTACATCCTGCTTGCCTTC
+CATAGATCGCCGTGAAGAGG
+TTGGTTAGGGGCAAGTTTTG
+GTAATGGGCCAATAACACCG
+CTTGAGAGCCTTCAACCCAG
+ATGGTCGTCATCTACCTGCC
+AAACCATTACGGCATTCTGC
+GACCGGATACACCATCCATC
+ATGCGTTATATTCGCCTGTG
+TGCTTTGTTATTCGGGCCAA
+TCGCCGCATACACTATTCTCAGAATGA
+ACGCTCACCGGCTCCAGATTTAT
+ATGTGCAGYACCAGTAARGTKATGGC
+TGGGTRAARTARGTSACCAGAAYCAGCGG
+ATGGGCTCGCGATAATGTC
+CTCACCGAGGCAGTTCCAT
+GTGGATGGCGGCCTGAAGCC
+AATGCCCAGTCGGCAGCG
+CCTGGTGATAACGGCAATTC
+CCAATCGCAGATAGAAGGC
+ATCGTCAAGGGATTGAAACC
+GGATCGTAGAACATATTGGC
+GTGACGGTGTTCGGCATTCT
+TCCGAGAAGGTGATTGCGCT
+CGGCATCGTCAACATAACCT
+TGTGCGGATGAAGTCAGCTC
+GAGCAAGATTTTTGGAATCG
+CATCTGCAGCTAACCTAGGGCTTTGGA
+GTTCGGTCAAGGTTCTG
+GCCAACTTTCAGCACATG
+GGCTGGCTTTTTCTTGTTATCG
+TGAGCCCCATACCTACAAAGC
+TCGGGCATCCAAGCAGCAAGCGC
+TAAAAGCAGACTTGACCTGATAG
+
+210
+
+659
+
+418
+
+787
+
+747
+
+445
+
+593
+
+600
+
+525
+
+546
+
+509
+
+779
+
+721
+
+880
+
+923
+
+287
+
+Variable
+
+28
+
+28
+
+28
+
+28
+
+34
+
+34
+
+34
+
+48
+
+27
+
+27
+
+27
+
+27
+
+27
+
+27
+
+28
+
+40
+
+28
+
+dairy products, including raw milk and the two most popular
+cheeses, Karish and Ras, and to determine the antimicrobial
+susceptibility and genetic mechanisms of AMR.
+
+isolates were classiﬁed as susceptible, intermediate, and resistant
+according to the zone diameter interpretative standards recom-
+mendations by the Clinical and Laboratory Standards Institute (13).
+
+MATERIALS AND METHODS
+
+E. coli isolates. Two hundred twenty-two E. coli isolated and
+identiﬁed in our previous study (35) were used in this study. One
+hundred eleven isolates were from raw milk, and 89 and 22 isolates
+were isolated from Karish and Ras cheeses, respectively.
+
+Antimicrobial susceptibility test. Antimicrobial susceptibil-
+ity testing was carried out for each of the 222 E. coli isolates.
+Twelve different antimicrobials were tested by the disk diffusion
+method according to the Clinical and Laboratory Standards
+Institute guidelines (12). E. coli strain ATCC 25922 was used as
+a quality control. The following antimicrobials (BD, Franklin
+Lakes, NJ) were used: ampicillin (AMP; 10 lg), cefotaxime (CTX;
+30 lg), ceftazidime (CAZ; 30 lg), cefotaxime–clavulanic acid
+(CTX-CLA; 30 lg/10 lg), ceftazidime–clavulanic acid (CAZ-
+CLA; 30 lg/10 lg), imipenem (IPM; 30 lg), kanamycin (KAN; 30
+lg), streptomycin (STR; 10 lg),
+tetracycline (TET; 30 lg),
+ciproﬂoxacin (CIP; 5 lg), nalidixic acid (NAL; 30 lg),
+sulfamethoxazole-trimethoprim (SXT; 1.25 lg/23.75 lg), chlor-
+amphenicol (CHL; 30 lg), and fosfomycin (FOS; 50 lg). The
+
+ESBL detection. Ampicillin-resistant E. coli were examined
+for extended-spectrum b-lactamase (ESBL) production by the
+combination disk diffusion test using CTX or CAZ with or without
+CLA according to the Clinical and Laboratory Standards Institute
+criteria (12).
+
+resistance to one or more of
+
+Detection of AMR genes. Sixty-six E. coli
+
+isolates that
+exhibited phenotype of
+the
+antimicrobial agents tested, were examined for AMR genes
+respective to each phenotype. The presence of genes associated
+with tetracycline resistance (tetA, tetB, tetC, and tetD), b-lactam
+resistance (blaCTX-M, blaSHV, and blaTEM), aminoglycoside
+resistance (strA, strB, aadA [encoding streptomycin resistance]
+and aphA1 [encoding kanamycin resistance]), and sulfonamide
+resistance (sul1, sul2, and sul3) were detected by PCR as described
+previously (10, 28, 34, 48). Primer sequences and predicted sizes
+of PCR products of different AMR genes are listed in Table 1. The
+PCR products were analyzed by electrophoresis in 1.5% agarose
+gels (Seakem LE Agarose, Lonza, Basel, Switzerland), stained
+with ethidium bromide, and visualized under UV light by using a
+gel documentation system (Bio-Rad Laboratories, Hercules, CA).
+
+Journal of Food Protection 2018.81:226-232.Downloaded from jfoodprotection.org by Iowa State University on 01/23/19. For personal use only.228
+
+OMBARAK ET AL.
+
+J. Food Prot., Vol. 81, No. 2
+
+TABLE 2. Antimicrobial resistance of E. coli isolated from dairy
+products
+
+No. of isolates (n ¼ 222)
+
+Antimicrobial agenta
+
+Resistant
+
+Intermediate
+
+Susceptible
+
+TET
+AMP
+STR
+SXT
+CTX
+KAN
+CAZ
+CHL
+NAL
+CIP
+FOS
+IPM
+
+61
+42
+41
+25
+10
+9
+8
+5
+4
+3
+0
+0
+
+0
+9
+30
+2
+4
+34
+5
+0
+10
+8
+0
+0
+
+161
+171
+151
+195
+208
+179
+209
+217
+208
+211
+222
+222
+
+a TET,
+
+tetracycline (30 lg); AMP, ampicillin (10 lg); STR,
+streptomycin (10 lg); SXT, sulfamethoxazole-trimethoprim
+(1.25/23.75 lg); CTX, cefotaxime (30 lg); KAN, kanamycin
+(30 lg); CAZ, ceftazidime (30 lg); CHL, chloramphenicol (30
+lg); NAL, nalidixic acid (30 lg); CIP, ciproﬂoxacin (5 lg); FOS,
+fosfomycin (50 lg); IPM, imipenem (10 lg).
+
+DNA sequencing of blaCTX-M, blaSHV, and blaTEM genes.
+blaCTX-M, blaSHV, and blaTEM genes were PCR ampliﬁed from
+ampicillin-resistant isolates, and their products were sequenced to
+determine their subtypes as described previously (32, 34). In brief,
+the ampliﬁed products were puriﬁed using a Wizard SV Gel and
+PCR Clean-Up system (Promega, Fitchburg, WI) and sequenced
+on both DNA strands by using primers as described previously (32,
+34) and the BigDye Terminator v1.1 Cycle Sequencing kit
+(Thermo Fisher Scientiﬁc, Waltham, MA). The products were
+then puriﬁed using a CleanSEQ kit (Beckman Coulter, Beverly,
+MA) and subjected to sequencing in an ABI PRISM 3130-Avant
+Genetic analyzer (Thermo Fisher Scientiﬁc). The DNA sequence
+data were compared with those in the GenBank database
+(Nucleotide collection database [nr/nt]) by using the BLAST
+algorithm available at
+the National Center for Biotechnology
+Information Web site (www.ncbi.nlm.nih.gov). Multiple DNA
+alignments were performed by using ClustalW of the MegAlign
+program (DNASTAR software package, Lasergene, Madison, WI).
+
+Detection and sequencing of class 1 integron. Detection of
+the class 1 integron gene intI1 was done as described previously
+(28). In brief, the presence of the intI1 gene (encoding class 1
+integrase) was examined by PCR using a primer set of INT-1U and
+INT-1D (Table 1). The variable region of the class 1 integron was
+ampliﬁed using 50-CS and 30-CS primers (Table 1), and PCR
+products were puriﬁed and sequenced as described below. The
+presence of qacED1-sul1 genes in the 30 conserved region of the
+class 1 integron was also examined in all intI1-positive isolates as
+described by Sa´enz et al. (40).
+
+Typing and sequencing of the variable region of class 1
+integron genes. The PCR product for the variable region of the
+class 1 integron was gel-cut puriﬁed with a Wizard SV Gel and
+PCR Clean-Up system (Promega). The puriﬁed PCR products were
+subjected to restriction fragment length polymorphism (RFLP) by
+digesting with HinfI enzyme (TaKaRa Bio Inc., Shiga, Japan) as
+described previously (36). The digest showing the same restriction
+
+TABLE 3. Antimicrobial resistance patterns of E. coli isolates
+
+Resistance patterna
+
+No. of isolates
+
+TET
+AMP
+STR
+AMP-TET
+TET-STR
+CHL-STR
+AMP-TET-STR
+TET-KAN-STR
+AMP-CTX-STR
+AMP-SXT-TET-STR
+AMP-CHL-TET-STR
+AMP-TET-KAN-STR
+AMP-CHL-TET-KAN-STR
+AMP-CTX-CAZ-SXT-TET-STR
+AMP-SXT-TET-NAL-KAN-STR
+AMP-TET-NAL-CIP-KAN-STR
+AMP-CTX-SXT-TET-NAL-CIP-STR
+AMP-SXT-TET-NAL-CIP-KAN-STR
+AMP-CTX-CAZ-CHL-SXT-TET-KAN-STR
+
+Total
+
+16
+2
+1
+7
+4
+1
+3
+2
+1
+14
+1
+1
+1
+6
+1
+1
+1
+1
+2
+
+66
+
+a TET,
+
+tetracycline (30 lg); AMP, ampicillin (10 lg); STR,
+streptomycin (10 lg); CHL, chloramphenicol (30 lg); KAN,
+kanamycin (30 lg); CTX, cefotaxime (30 lg); SXT, sulfameth-
+oxazole–trimethoprim (1.25 lg/23.75 lg); CAZ, ceftazidime (30
+lg); NAL, nalidixic acid (30 lg); CIP, ciproﬂoxacin (5 lg).
+
+pattern was considered to be identical to each other, and one
+representative product of them was further sequenced.
+
+RESULTS
+
+Antimicrobial resistance phenotypes of E. coli
+isolates. Two hundred twenty-two E. coli
+isolates from
+raw milk, Karish cheese, and Ras cheese were tested for
+antimicrobial susceptibility to 12 antimicrobial agents. As
+shown in Table 2, 61, 42, 41, 25, 10, 9, 8, 5, 4, and 3 isolates
+of E. coli were resistant to TET (27.5%), AMP (18.9%),
+STR (18.5%), SXT (11.3%), CTX (4.5%), KAN (4.1%),
+CAZ (3.6%), CHL (2.3%), NAL (1.8%), and CIP (1.4%),
+respectively. None of them were resistant to FOS and IPM.
+Production of ESBLs was detected in 10 (23.8%) of 42
+AMP-resistant E. coli. The phenotypic resistance patterns of
+the E. coli are shown in Table 3. Among the 222 E. coli
+isolates, 66 (29.7%) were resistant
+to one or more
+antimicrobials; 33 (50%) of
+these 66 isolates showed
+multidrug resistance, i.e., they showed resistance to at least
+three different classes of antimicrobial agents.
+
+Antimicrobial resistance genotype of E. coli isolates.
+The distribution and type of genes encoding resistance for
+tetracycline, b-lactams, aminoglycosides (streptomycin and
+kanamycin), and sulfonamides in E. coli
+isolates are
+described in Table 4. Among 61 tetracycline-resistant E.
+coli, tetA, tetB, and tetD genes were detected in 53 isolates, 9
+isolates, and 1 isolate, respectively. Both tetA and tetB or
+tetA and tetD genes were detected in one isolate each (Table
+
+Journal of Food Protection 2018.81:226-232.Downloaded from jfoodprotection.org by Iowa State University on 01/23/19. For personal use only.J. Food Prot., Vol. 81, No. 2
+
+ANTIMICROBIAL RESISTANCE OF E. COLI FROM DAIRY PRODUCTS IN EGYPT
+
+229
+
+TABLE 4. Distribution of antimicrobial resistance genes in
+resistant E. coli
+
+TABLE 5. Antimicrobial resistance genotypes of E. coli isolates
+(n¼66)
+
+Positive isolate
+
+Genotype
+
+No. of isolates
+
+Antimicrobial agent
+
+(no. of resistant isolates)
+
+Resistance gene
+
+No.
+
+%
+
+Tetracycline (61)
+
+b-Lactam (42)
+
+Streptomycin (41)
+
+Kanamycin (9)
+Sulfonamides (25)
+
+tetA
+tetB
+tetD
+tetC
+blaTEM
+blaCTX-M
+blaSHV
+strA
+strB
+aadA
+aphA1
+sul2
+sul1
+sul3
+
+53
+9
+1
+0
+40
+9
+3
+41
+41
+11
+9
+25
+7
+3
+
+86.9
+14.8
+
+1.63
+0
+
+95.2
+21.4
+
+7.14
+
+100
+100
+
+26.8
+
+100
+100
+28
+12
+
+5). In contrast, tetC was not detected in any of the isolates
+tested.
+
+Among b-lactam resistance genes in 42 ampicillin-
+resistant E. coli, blaTEM, blaCTX-M, and blaSHV were
+detected in 40, 9, and 3 isolates, respectively (Table 4).
+Among 42 ampicillin-resistant E. coli, 10 were ESBL
+producers, and blaCTX-M, blaTEM, and blaSHV genes were
+detected in 9, 8, and 1 ESBL-producing E. coli, respectively
+(Supplemental Table S). Among them, ﬁve ESBL-producing
+E. coli carried both blaCTX-M and blaTEM genes and two
+carried blaCTX-M, blaTEM, and blaSHV genes (Supplemental
+Table S). Sequence analysis of blaCTX-M, blaTEM, and
+blaSHV genes in ESBL-producing E. coli (n ¼ 10) revealed
+that blaCTX-M was typed to be blaCTX-M-15 (eight isolates)
+and blaCTX-M-104 (one isolate) and that the blaTEM type was
+blaTEM-1. In contrast, blaSHV was typed to be blaSHV-12.
+blaCTX-M-15 alone was present in one isolate, and the same
+for blaCTX-M-104, whereas blaCTX-M-15 together with blaTEM-1
+was present in ﬁve isolates and blaCTX-M-15 together with
+blaTEM-1 and blaSHV-12 was present in two isolates.
+
+The strA, strB, and aadA genes encoding streptomycin
+resistance were detected in 41, 41, and 11 of 41
+streptomycin-resistant isolates, respectively (Table 4). The
+aphA1 gene encoding kanamycin resistance was detected in
+all kanamycin-resistant E. coli (Table 4). Different combi-
+nations of sulfonamide resistance genes such as sul1, sul2,
+and sul3 were detected in 25 sulfamethoxazole-trimetho-
+prim–resistant E. coli (Table 5). All isolates harbored the
+sul2 gene; seven (28%) harbored the sul1 gene, in addition
+to sul2; and three (12%) harbored sul3 with the sul2 gene
+(Tables 4 and 5).
+
+Prevalence and sequencing of integron genes. The
+class 1 integron was detected in 28 (42.4%) of the 66
+resistant isolates. Ampliﬁcation of the variable region of the
+class 1 integron resulted in three size fragments—1, 1.5, and
+2 kb—by PCR in 7 of the 28 intI1-positive isolates in which
+the qacED1-sul1 genes were also ampliﬁed (data not
+
+tetA
+tetB
+blaTEM
+tetA-blaTEM
+strA-strB
+tetA-tetB
+tetA-strA-strB
+strA-strB-blaCTX-M-15
+tetA-strA-strB-blaTEM
+tetA-strA-strB-aphA1
+tetA-strA-strB-sul2
+tetA-strA-strB-blaTEM-sul2
+tetB-strA-strB-blaTEM-sul2
+tetA-strA-strB-aphA1-blaTEM
+tetA-strA-strB-blaCTX-M-15-blaTEM-1-sul2
+tetB-strA-strB-aphA1-blaTEM-sul2
+tetA-tetD-strA-strB-blaTEM-sul2-sul3
+tetA-strA-strB-aadA-blaTEM-sul1-sul2
+tetA-strA-strB-aadA-blaCTX-M-104-sul1-sul2
+tetA-strA-strB-aadA-aphA1-blaTEM-sul2-sul3
+tetA-strA-strB-aadA-aphA1-blaTEM-sul1-sul2
+tetA-strA-strB-aadA-blaTEM-sul1-sul2-sul3
+tetA-strA-strB-aadA-aphA1-blaSHV-blaTEM-sul2-
+
+sul3
+
+tetA-strA-strB-aadA-aphA1-blaCTX-M-15-blaSHV-12-
+
+blaTEM-1-sul2-sul3
+
+Total
+
+12
+3
+2
+7
+2
+1
+3
+1
+3
+2
+1
+8
+2
+1
+5
+1
+1
+4
+1
+1
+1
+1
+
+1
+
+2
+
+66
+
+shown). RFLP showed that four of the 2-kb fragments and
+two of the 1-kb fragments gave the same RFLP patterns,
+indicating that each fragment in four and two strains was
+identical,
+respectively. Furthermore, sequencing analysis
+revealed that 2-, 1.5-, and 1-kb fragments contained dfrA12/
+orfF/aadA2, dfrA1/aadA1, and aadA22, respectively.
+
+DISCUSSION
+
+There have been very few published studies on the
+occurrence of antibiotic resistant bacteria in food samples in
+Egypt (2, 20, 21). In addition, the molecular characteristics
+of antibiotic-resistant bacteria from food samples in Egypt
+are almost unknown. To the best of our knowledge, this is
+the ﬁrst report regarding the comprehensive analysis of
+AMR and AMR genes in E. coli isolated from raw milk and
+raw milk cheese in Egypt.
+
+This study shows that AMR is widespread in E. coli in
+such products. The most prevalent resistance traits were
+tetracycline (27.5%)
+followed by ampicillin (18.9%),
+aminoglycosides (streptomycin, kanamycin) (18.5%), and
+sulfamethoxazole-trimethoprim (11.3%) (Table 2). These
+ﬁndings are in agreement with many studies from different
+countries that found that resistance to tetracycline, penicil-
+lins, aminoglycosides, and sulfonamides is generally the
+most prevalent among E. coli isolated from food products or
+healthy food-producing animals (15, 24, 33, 38, 39, 41, 44,
+48, 52). Different use patterns of antimicrobial agents are
+expected to have some impact on the distribution of AMR
+
+Journal of Food Protection 2018.81:226-232.Downloaded from jfoodprotection.org by Iowa State University on 01/23/19. For personal use only.230
+
+OMBARAK ET AL.
+
+J. Food Prot., Vol. 81, No. 2
+
+phenotypes and possible resistance determinants (1, 29). Our
+data on the distribution of resistance phenotypes support this
+hypothesis, as higher levels of resistance were observed to
+the common antimicrobials that have been widely used in
+Egypt. In most of the developing countries, including Egypt,
+the low cost and easy availability of these antibiotics are the
+main reasons behind their wide use to treat diseases,
+particularly diarrhea (49). In contrast, in this study, 2.3%
+of E. coli showed resistance to chloramphenicol. Chloram-
+phenicol has been banned and has not been approved for use
+in food-producing animals in many countries, but resistance
+to chloramphenicol still remains in Egypt.
+
+Multidrug resistance bacteria can come into contact
+with humans through the food supply (e.g., meat, ﬁsh, dairy
+products, and eggs) and direct contact with animals or
+indirectly through environmental pathways (4).
+In the
+present study, 50% of antimicrobial-resistant E. coli isolates
+showed resistance to more than three classes of antimicro-
+bials (Table 3). Moreover, all phenotypically resistant
+isolates (n ¼ 66) carried at
+least one AMR gene, and
+74.2% of these isolates carried multiple (two or more) AMR
+genes (Table 5). Among tetracycline resistance genes, tetA
+was detected in the highest frequency (86.9%), a ﬁnding that
+is in agreement with several previous studies (9, 19, 37, 51).
+The tetB and tetD genes were also detected in our study, but
+in a lower frequency than those reported previously (38). In
+this study, tetC was not detected in any isolates, although
+Srinivasan et al. (44) reported a high frequency of tetC in E.
+coli isolates from dairy cows with mastitis. The difference
+could be owing to the different sources of E. coli between
+these two studies.
+
+In agreement with the previous ﬁndings (11, 19, 21, 24,
+40, 48) that TEM b-lactamase was the most prevalent in
+ampicillin-resistant E. coli
+isolates from food and food-
+producing animals, all ampicillin-resistant E. coli (n ¼ 42)
+carried the blaTEM gene, except for two isolates (Supple-
+mental Table S). ESBL-producing E. coli have become a
+serious problem worldwide and blaCTX-M has been distrib-
+uted worldwide (42). However, little is known about ESBL-
+producing bacteria and the types of b-lactamases occurring
+in Egypt. In this study, 10 ESBL-producing E. coli were
+isolated from raw milk and Karish and Ras cheeses. Among
+them, nine blaCTX-M, eight blaTEM, and three blaSHV genes
+were detected. Furthermore, each b-lactamase gene was
+subtyped to be blaCTX-M-15, blaCTX-M-104, blaTEM-1, and
+blaSHV-12. blaCTXM-15, blaTEM-1, and blaSHV-12 genes have
+been previously reported in clinical E. coli isolates in Egypt
+(3, 17). The blaCTX-M-104 gene is a novel variant of blaCTX-M;
+it differs from blaCTX-M-14 by a point mutation that leads to a
+change of only one amino acid (N275S). This new
+blaCTX-M-14–like gene was reported for the ﬁrst time in an
+E. coli isolate from chicken in China (57), and more recently
+in an E. coli isolate from swine, also in China (30). Among
+10 ESBL-producing E. coli, three isolates were positive for
+either blaCTX-M-15, blaCTX-M-104, or blaTEM-1, and ﬁve
+isolates were positive for both blaCTX-M-15 and blaTEM-1,
+whereas two were positive for blaCTX-M-15, blaTEM-1, and
+blaSHV-12. E. coli isolates harboring b-lactamase genes such
+as blaCTX-M-15, blaTEM-1, and blaSHV-12 have been previ-
+ously reported from hospital waste water in India (16); to our
+
+this is the ﬁrst
+
+knowledge,
+isolates
+harboring this b-lactamase gene combination from food
+sources.
+
+report of E. coli
+
+All the 41 streptomycin-resistant isolates carried both
+strA and strB genes. Eleven of them carried strA/B along
+with aadA. The strA and strB genes were always present
+together in our isolates. This ﬁnding is in agreement with the
+results of other reports (29, 38, 44, 46). In this study, the
+sul2 gene was detected in all sulfamethoxazole-trimetho-
+prim–resistant E. coli followed by sul1 (28%) and sul3
+(12%) (Table 4). This tendency is in agreement with the data
+previously reported in E. coli isolates from food or animals
+(19, 22, 24, 40, 45).
+
+indicating that
+
+Integrons play a major role in the storage and spread of
+AMR among gram-negative bacteria (43). Class 1 integrons
+were detected in 42.4% of the resistant isolates (n ¼ 66)
+investigated in this study. All of them were phenotypically
+resistant to four different classes of antimicrobials, with the
+exception of one isolate that showed resistance to two
+classes only,
+the multidrug resistance
+observed in these isolates may be associated with the class
+1 integron. Furthermore, we observed that 24 of 28 intI1-
+positive isolates were sulfamethoxazole-trimethoprim resis-
+tant. However, when we analyzed the remaining four
+isolates for the presence of sulfonamide resistance genes,
+sul2 was detected in these four isolates and three of them
+also carried sul3, indicating that the class 1 integron is often
+associated with sul genes, as was reported previously (6).
+
+The trimethoprim resistance genes (dfrA1 and dfrA12)
+and aminoglycoside resistance genes (aadA1, aadA2, and
+aadA22) detected in this study were also previously reported
+in human E. coli isolates and food isolates (19, 21, 24, 25,
+40). Interestingly, the rare aminoglycoside resistance gene
+aadA22, which was reported for the ﬁrst time in an E. coli
+isolated from Egyptian Domiati cheese (21), was detected in
+two isolates from raw milk in this study. Twenty-one intI1-
+positive E. coli lacked the qacED1-sul1 region in the 30-
+conserved region of the class 1 integron. The existence of
+these defective integrons has been reported (5, 26, 54), and
+our
+laboratory is currently determining the complete
+structure and characterizing these integrons more precisely.
+Some of the multidrug-resistant strains isolated in this
+study were also found to be harboring virulence genes
+(Supplemental Table S). The presence of E. coli strains
+carrying resistance and virulence genes is worrisome as this
+could enhance the emergence of pathogens that might be
+difﬁcult to treat with antibiotics (10).
+
+results of
+
+In conclusion,
+
+this study highlight
+
+the
+importance of E. coli present in dairy products in Egypt as
+a reservoir for AMR E. coli and suggest that AMR genes
+carrying E. coli are widely distributed in the milk production
+and processing environment in Egypt. These AMR E. coli
+may play a role in dissemination of these genes to other
+pathogenic and commensal bacteria. The presence of
+multidrug-resistant strains is alarming, because such strains
+are considered a serious threat
+to public health. This
+potential threat emphasizes the need for effective hygienic
+and sanitation procedures in milk and cheese production and
+the wise use of antimicrobial agents in food-producing
+
+Journal of Food Protection 2018.81:226-232.Downloaded from jfoodprotection.org by Iowa State University on 01/23/19. For personal use only.J. Food Prot., Vol. 81, No. 2
+
+ANTIMICROBIAL RESISTANCE OF E. COLI FROM DAIRY PRODUCTS IN EGYPT
+
+231
+
+animals to reduce the risks of contamination with antibiotic
+resistant bacteria.
+
+ACKNOWLEDGMENT
+
+We thank Dr. Rupak K. Bhadra (Council of Scientiﬁc & Industrial
+Research-Indian Institute of Chemical Biology, Kolkata, India) for critically
+reading the manuscript.
+
+SUPPLEMENTAL MATERIAL
+
+Supplemental material associated with this article can be
+found online at: https://doi.org/10.4315/0362-028X.JFP-17-277.s1.
+
+REFERENCES
+
+1. Aarestrup, F. M. 1999. Association between the consumption of
+antimicrobial agents in animal husbandry and the occurrence of
+resistant bacteria among food animals. Int. J. Antimicrob. Agents
+12:279–285.
+
+2. Ahmed, A. M., T. Shimamoto, and T. Shimamoto. 2014. Character-
+ization of
+integrons and resistance genes in multidrug-resistant
+Salmonella enterica isolated from meat and dairy products in Egypt.
+Int. J. Food Microbiol. 189:39–44.
+
+3. Al-Agamy, M. H. M., M. S. Ashour, and I. Wiegand. 2006. First
+description of CTX-M b-lactamase–producing clinical Escherichia
+coli isolates from Egypt. Int. J. Antimicrob. Agents 27:545–548.
+
+4. Angulo, F., V. Nargund, and T. Chiller. 2004. An evidence of an
+association between use of antimicrobial agents in food animals and
+anti-microbial resistance among bacteria isolated from humans and
+the human health consequences of such resistance. J. Vet. Med. Ser. B
+51:374–379.
+
+5. Antunes, P., J. Machado, and L. Peixe. 2007. Dissemination of sul3-
+containing elements linked to class 1 integrons with an unusual 30-
+conserved sequence region among Salmonella isolates. Antimicrob.
+Agents Chemother. 51:1545–1548.
+
+6. Antunes, P., J. Machado, J. C. Sousa, and L. Peixe. 2005.
+Dissemination of sulfonamide resistance genes (sul1, sul2, and sul3)
+in Portuguese Salmonella enterica strains and relation with integrons.
+Antimicrob. Agents Chemother. 49:836–839.
+
+7. Authier, S., D. Paquette, O. Labrecque, and S. Messier. 2006.
+Comparison of susceptibility to antimicrobials of bacteria isolates
+from companion animals in a veterinary diagnostic laboratory in
+Canada between 2 time points 10 years apart. Can. Vet. J. 47:774–
+778.
+
+8. Awad, S., A. El-Attar, A. H. Ayad, and M. El-Soda. 2003.
+Characterisation of Egyptian Ras cheese. 1. Sensory evaluation,
+rheological, physico-chemical, properties and microbiological analy-
+sis. Egypt. J. Dairy Sci. 31:289–303.
+
+9. Ben Slama, K., A. Jouini, R. Ben Sallem, S. Somalo, Y. Sa´enz, V.
+Estepa, A. Boudabous, and C. Torres. 2010. Prevalence of broad-
+spectrum cephalosporin-resistant Escherichia coli
+isolates in food
+samples in Tunisia, and characterization of integrons and antimicro-
+Int. J. Food Microbiol.
+bial
+137:281–286.
+
+resistance mechanisms implicated.
+
+10. Boerlin, P., R. Travis, C. L. Gyles, R. Reid-Smith, N. Janecko, H.
+Lim, V. Nicholson, S. A. McEwen, R. Friendship, and M.
+Archambault. 2005. Antimicrobial resistance and virulence genes of
+Escherichia coli
+isolates from swine in Ontario. Appl. Environ.
+Microbiol. 71:6753–6761.
+
+11. Bri˜nas, L., M. Zarazaga, Y. Sa´enz, F. Ruiz-Larrea, and C. Torres.
+2002. b-Lactamases in ampicillin-resistant Escherichia coli isolates
+from foods, humans, and healthy animals. Antimicrob. Agents
+Chemother. 46:3156–3163.
+
+12. Clinical and Laboratory Standards Institute. 2012. Performance
+standards for antimicrobial disk susceptibility tests—approved
+standard, 11th ed. CLSI document M02-A11. Clinical and Laboratory
+Standards Institute, Wayne, PA.
+
+13. Clinical and Laboratory Standards Institute. 2013. Performance
+standards for antimicrobial susceptibility testing: twenty-third infor-
+
+mational supplement. CLSI document M100-S23. Clinical and
+Laboratory Standards Institute, Wayne, PA.
+
+14. Crump, J. A., T. J. Barrett, J. T. Nelson, and F. J. Angulo. 2003.
+Reevaluating ﬂuoroquinolone breakpoints for Salmonella enterica
+serotype Typhi and for non-Typhi Salmonellae. Clin. Infect. Dis.
+37:75–81.
+
+15. Danish Integrated Antimicrobial Resistance Monitoring and Research
+Programme. 2011. Use of antimicrobial agents and occurrence of
+antimicrobial resistance in bacteria from food animals, food and
+humans in Denmark. Available at: http://www.danmap.org/~/media/
+Projekt%20sites/Danmap/DANMAP%20reports/Danmap_2011.ashx.
+Accessed 20 October 2014.
+
+16. Diwan, V., S. P. Chandran, A. J. Tamhankar, C. St˚alsby Lundborg,
+Identiﬁcation of extended-spectrum b-
+and R. Macaden. 2012.
+lactamase and quinolone resistance genes in Escherichia coli isolated
+from hospital wastewater from central India. J. Antimicrob. Chemo-
+ther. 67:857–859.
+
+17. Fam, N., V. Leﬂon-Guibout, S. Fouad, L. Aboul-Fadl, E. Marcon, D.
+Desouky, I. El-Defrawy, A. Abou-Aitta, J. Klena, and M. H. Nicolas-
+Chanoine. 2011. CTX-M-15-producing Escherichia coli clinical
+isolates in Cairo (Egypt), including isolates of clonal complex ST10
+and clones ST131, ST73, and ST405 in both community and hospital
+settings. Microb. Drug Resist. 17:67–73.
+
+18. Fayed, A. E., A. M. Farahat, A. E. Metwally, M. S. Massoud, and A.
+Q. Emam. 2014. Health stimulating properties of the most popular
+soft cheese in Egypt Kariesh made using skimmed milk UF-retentate
+and probiotics. Acta Sci. Pol. Technol. Aliment. 13:359–373.
+
+19. Guerra, B., E. Junker, A. Schroeter, B. Malorny, S. Lehmann, and R.
+Helmuth. 2003. Phenotypic and genotypic characterization of
+antimicrobial resistance in German Escherichia coli isolates from
+cattle, swine and poultry. J. Antimicrob. Chemother. 52:489–492.
+
+20. Hammad, A. M., H. A. Hassan, and T. Shimamoto. 2015. Prevalence,
+antibiotic resistance and virulence of Enterococcus spp. in Egyptian
+fresh raw milk cheese. Food Control 50:815–820.
+
+21. Hammad, A. M., Y. Ishida, and T. Shimamoto. 2009. Prevalence and
+molecular characterization of ampicillin-resistant Enterobacteriaceae
+isolated from traditional Egyptian Domiati cheese. J. Food Prot.
+72:624–630.
+
+22. Hammerum, A. M., D. Sandvang, S. R. Andersen, A. M. Seyfarth, L.
+J. Porsbo, N. Frimodt-Moller, and O. E. Heuer. 2006. Detection of
+sul1, sul2 and sul3 in sulphonamide resistant Escherichia coli isolates
+obtained from healthy humans, pork and pigs in Denmark. Int. J.
+Food Microbiol. 106:235–237.
+
+24.
+
+23. Hegazy, N. M., M. M. Nasr, A. E. Fayed, and M. S. Youssef. 2012.
+Economics scale for processing of white soft cheese in Egypt. Egypt.
+J. Agric. Econ. 21:1079–1094.
+Jouini, A., K. Ben Slama, Y. Sa´enz, N. Klibi, D. Costa, L. Vinu´e, M.
+Zarazaga, A. Boudabous, and C. Torres. 2009. Detection of multiple-
+antimicrobial resistance and characterization of the implicated genes
+in Escherichia coli isolates from foods of animal origin in Tunis. J.
+Food Prot. 72:1082–1088.
+
+25. Kang, H. Y., Y. S. Jeong, J. Y. Oh, S. H. Tae, C. H. Choi, D. C.
+Moon, W. K. Lee, Y. C. Lee, S. Y. Seol, D. T. Cho, and J. C. Lee.
+2005. Characterization of antimicrobial
+resistance and class 1
+integrons found in Escherichia coli isolates from humans and animals
+in Korea. J. Antimicrob. Chemother. 55:639–644.
+
+26. Kiiru, J., P. Butaye, B. M. Goddeeris, and S. Kariuki. 2013. Analysis
+for prevalence and physical
+integrons, ISEcp1,
+ISCR1, Tn21 and Tn7 encountered in Escherichia coli strains from
+hospitalized and non-hospitalized patients in Kenya during a 19-year
+period (1992–2011). BMC Microbiol. 13:109.
+
+linkages amongst
+
+27. Kozak, G., P. Boerlin, N. Janecko, R. J. Reid-Smith, and C. Jardine.
+2009. Antimicrobial resistance in Escherichia coli isolates from swine
+and wild small mammals in the proximity of swine farms and in
+natural environments in Ontario, Canada. Appl. Environ. Micro-
+biol.75:559–566.
+
+28. Kumai, Y., Y. Suzuki, Y. Tanaka, K. Shima, R. K. Bhadra, S.
+Yamasaki, K. Kuroda, and G. Endo. 2005. Characterization of
+multidrug-resistance phenotypes and genotypes of Escherichia coli
+
+Journal of Food Protection 2018.81:226-232.Downloaded from jfoodprotection.org by Iowa State University on 01/23/19. For personal use only.232
+
+OMBARAK ET AL.
+
+J. Food Prot., Vol. 81, No. 2
+
+strains isolated from swine from an abattoir
+Epidemiol. Infect. 133:59–70.
+
+in Osaka, Japan.
+
+poultry food origin as reservoir of sulphonamide resistance genes and
+integrons. Int. J. Food Microbiol. 144:497–502.
+
+29. Lanz, R., P. Kuhnert, and P. Boerlin. 2003. Antimicrobial resistance
+and resistance gene determinants in clinical Escherichia coli from
+different animal species in Switzerland. Vet. Microbiol. 91:73–84.
+
+30. Liu, B. T., Q. E. Yang, L. Li, J. Sun, X. P. Liao, L. X. Fang, S. S.
+Yang, H. Deng, and Y. H. Liu. 2013. Dissemination and
+characterization of plasmids carrying oqxAB-bla CTX-M genes in
+Escherichia coli isolates from food-producing animals. PloS One
+8:e73947.
+
+31. Mazel, D. 2006. Integrons. Agents of bacterial evolution. Nat. Rev.
+
+Microbiol. 4:608–620.
+
+32. McGettigan, S. E., B. Hu, K. Andreacchio, I. Nachamkin, and P. H.
+Edelstein. 2009. Prevalence of CTX-M b-lactamases in Philadelphia,
+Pennsylvania. J. Clin. Microbiol. 47:2970–4.
+
+33. Meyer, E., C. Lunke, M. Kist, F. Schwab, and U. Frank. 2008.
+Antimicrobial resistance in Escherichia coli strains isolated from
+food, animals and humans in Germany. Infection 36:59–61.
+
+34. Monstein, H. J., A. ¨Ostholm-Balkhed, N. V. Nilsson, M. Nilsson, K.
+Dornbusch, and L. E. Nilsson. 2007. Multiplex PCR ampliﬁcation
+assay for rapid detection of blaSHV, blaTEM, and blaCTX-M genes in
+Enterobacteriaceae. APMIS 115:1400–1408.
+
+35. Ombarak, R. A., A. Hinenoya, S. P. Awasthi, A. Iguchi, A. Shima,
+A.-R. M. Elbagory, and S. Yamasaki. 2016. Prevalence and
+pathogenic potential of Escherichia coli isolates from raw milk and
+raw milk cheese in Egypt. Int. J. Food Microbiol. 221:69–76.
+
+36. Povilonis, J., V.
+
+ˇSeputiene˙, M. Ruˇzauskas, R.
+
+ˇSiugˇzdiniene˙, M.
+Virgailis, A. Pavilonis, and E. Suˇziede˙liene˙. 2010. Transferable class
+1 and 2 integrons in Escherichia coli and Salmonella enterica isolates
+of human and animal origin in Lithuania. Foodborne Pathog. Dis.
+7:1185–1192.
+
+37. Rasheed, M. U., N. Thajuddin, P. Ahamed, Z. Teklemariam, and K.
+Jamil. 2014. Antimicrobial drug resistance in strains of Escherichia
+coli isolated from food sources. Rev. Inst. Med. Trop. Sao Paulo
+56:341–346.
+
+38. Ryu, S. H., J. H. Lee, S. H. Park, M. O. Song, S. H. Park, H. W. Jung,
+G. Y. Park, S. M. Choi, M. S. Kim, Y. Z. Chae, S. G. Park, and Y. K.
+Lee. 2012. Antimicrobial resistance proﬁles among Escherichia coli
+strains isolated from commercial and cooked foods. Int. J. Food
+Microbiol. 159:263–266.
+
+39. Ryu, S. H., S. G. Park, S. M. Choi, Y. O. Hwang, H. J. Ham, S. U.
+Kim, Y. K. Lee, M. S. Kim, G. Y. Park, K. S. Kim, and Y. Z. Chae.
+2012. Antimicrobial resistance and resistance genes in Escherichia
+coli strains isolated from commercial ﬁsh and seafood. Int. J. Food
+Microbiol. 152:14–18.
+
+40. Sa´enz, Y., L. Bri˜nas, E. Dom´ınguez, J. Ruiz, M. Zarazaga, J. Vila,
+and C. Torres. 2004. Mechanisms of resistance in multiple-antibiotic-
+resistant Escherichia coli strains of human, animal, and food origins.
+Antimicrob. Agents Chemother. 48:3996–4001.
+
+41. Schroeder, C. M., D. G. White, B. Ge, Y. Zhang, P. F. McDermott, S.
+Ayers, S. Zhao, and J. Meng. 2003. Isolation of antimicrobial-
+resistant Escherichia coli from retail meats purchased in Greater
+Washington, DC, USA. Int. J. Food Microbiol. 85:197–202.
+
+42. Seyedjavadi, S. S., M. Goudarzi, and F. Sabzehali. 2016. Relation
+between blaTEM, blaSHV and blaCTX-M genes and acute urinary tract
+infections. J. Acute Dis. 5:71–76.
+
+43. Souﬁ, L., Y. Sa´enz, L. Vinu´e, M. S. Abbassi, E. Ruiz, M. Zarazaga,
+A. B. Hassen, S. Hammami, and C. Torres. 2011. Escherichia coli of
+
+44. Srinivasan, V., B. E. Gillespie, M. J. Lewis, L. T. Nguyen, S. I.
+Headrick, Y. H. Schukken, and S. P. Oliver. 2007. Phenotypic and
+resistance patterns of Escherichia coli
+genotypic antimicrobial
+isolated from dairy cows with mastitis. Vet. Microbiol. 124:319–328.
+45. Sunde, M., and M. Norstr¨om. 2006. The prevalence of, associations
+between and conjugal
+transfer of antibiotic resistance genes in
+Escherichia coli isolated from Norwegian meat and meat products. J.
+Antimicrob. Chemother. 58:741–747.
+
+46. Tang, X., C. Tan, X. Zhang, Z. Zhao, X. Xia, B. Wu, A. Guo, R.
+Zhou, and H. Chen. 2011. Antimicrobial resistances of extraintestinal
+pathogenic Escherichia coli isolates from swine in China. Microb.
+Pathog. 50:207–212.
+
+47. Todaro, A., F. A. Adly, and O. A. Omar. 2013. History, processing
+and quality enhancement of traditional Egyptian Kariesh cheese: a
+review. Food Sci. Technol. 1:1–6.
+
+48. Van, T. T. H., J. Chin, T. Chapman, L. T. Tran, and P. J. Coloe. 2008.
+raw meat and shellﬁsh in Vietnam: an analysis of
+isolations for antibiotic resistance and virulence
+
+Safety of
+Escherichia coli
+genes. Int. J. Food Microbiol. 124:217–223.
+
+49. Van, T. T. H., H. N. K. Nguyen, P. M. Smooker, and P. J. Coloe.
+2012. The antibiotic resistance characteristics of non-typhoidal
+Salmonella enterica isolated from food-producing animals, retail
+meat and humans in South East Asia. Int. J. Food Microbiol. 154:98–
+106.
+
+50. Van den Bogaard, A. E., and E. E. Stobberingh. 2000. Epidemiology
+of resistance to antibiotics. Links between animals and humans. Int. J.
+Antimicrob. Agents 14:327–335.
+
+51. Van Duijkeren, E., W. J. B. Wannet, D. J. Houwers, and W. van Pelt.
+2003. Antimicrobial susceptibilities of Salmonella strains isolated
+from humans, cattle, pigs, and chickens in The Netherlands from 1984
+to 2001. J. Clin. Microbiol. 41:3574–3578.
+
+52. Vasilakopoulou, A., M. Psichogiou, L. Tzouvelekis, P. T. Tassios, C.
+Kosmidis, G. Petrikkos, E. S. Roma, E. Charvalos, M. Passiotou, A.
+Avlami, and G. L. Daikos. 2009. Prevalence and characterization of
+class 1 integrons in Escherichia coli of poultry and human origin.
+Foodborne Pathog. Dis. 6:1211–1218.
+
+53. Verraes, C., S. Van Boxstael, E. Van Meervenne, E. Van Coillie, P.
+Butaye, B. Catry, M. A. de Schaetzen, X. Van Huffel, H. Imberechts,
+K. Dierick, G. Daube, C. Saegerman, J. De Block, J. Dewulf, and L.
+Herman. 2013. Antimicrobial resistance in the food chain: a review.
+Int. J. Environ. Res. Public Health 10:2643–2669.
+
+54. Vinu´e, L., Y. Sa´enz, S. Somalo, E. Escudero, M. A. Moreno, F. Ruiz-
+Larrea, and C. Torres. 2008. Prevalence and diversity of integrons and
+associated genes in faecal Escherichia coli isolates of healthy humans
+in Spain. J. Antimicrob. Chemother. 62:934–937.
+
+55. Von Baum, H., and R. Marre. 2005. Antimicrobial resistance of
+Escherichia coli and therapeutic implications. Int. J. Med. Microbiol.
+295:503–511
+
+56. World Health Organization. 2014. Antimicrobial resistance: global
+report on surveillance 2014. Available at: http://apps.who.int/iris/bit
+stream/10665/112642/1/9789241564748_eng.pdf. Accessed 29 Octo-
+ber 2014.
+
+57. Zheng, H., Z. Zeng, S. Chen, Y. Liu, Q. Yao, Y. Deng, X. Chena, L.
+Lva, C. Zhuoc, Z. Chena, and J.-H. Liu. 2012. Prevalence and
+characterisation of CTX-M b-lactamases amongst Escherichia coli
+isolates from healthy food animals in China. Int. J. Antimicrob.
+Agents 39:305–310.
+
+Journal of Food Protection 2018.81:226-232.Downloaded from jfoodprotection.org by Iowa State University on 01/23/19. For personal use only.

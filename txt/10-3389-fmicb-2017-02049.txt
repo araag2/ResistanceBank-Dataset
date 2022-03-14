@@ -1,0 +1,2010 @@
+ORIGINAL RESEARCH
+published: 24 October 2017
+doi: 10.3389/fmicb.2017.02049
+
+Staphylococcus aureus in Some
+Brazilian Dairy Industries: Changes
+of Contamination and Diversity
+
+Karen K. Dittmann1†, Luíza T. Chaul2†, Sarah H. I. Lee3, Carlos H. Corassin3,
+Carlos A. Fernandes de Oliveira3, Elaine C. Pereira De Martinis4, Virgínia F. Alves2,
+Lone Gram1* and Virginie Oxaran1
+
+1 Department of Biotechnology and Biomedicine, Technical University of Denmark, Kongens Lyngby, Denmark, 2 Faculty of
+Pharmacy, Federal University of Goiás, Goiânia, Brazil, 3 Faculty of Animal Science and Food Engineering, University of São
+Paulo, Ribeirão Preto, Brazil, 4 Faculty of Pharmaceutical Sciences of Ribeirão Preto, University of São Paulo, Ribeirão Preto,
+Brazil
+
+Staphylococcus aureus, a major food-poisoning pathogen, is a common contaminant
+in dairy industries worldwide, including in Brazil. We determined the occurrence of
+S. aureus in ﬁve dairies in Brazil over 8 months. Of 421 samples, 31 (7.4%) were
+positive for S. aureus and prevalence varied from 0 to 63.3% between dairies. Sixty-six
+isolates from the 31 samples were typed by Multi-Locus Sequence Typing to determine
+if these isolates were persistent or continuously reintroduced. Seven known sequence
+types (STs), ST1, ST5, ST30, ST97, ST126, ST188 and ST398, and four new ST were
+identiﬁed, ST3531, ST3540, ST3562 and ST3534. Clonal complex (CC) 1 (including
+the four new ST), known as an epidemic clone, was the dominant CC. However, there
+were no indications of persistence of particular ST. The resistance toward 11 antibiotic
+compounds was assessed. Twelve proﬁles were generated with 75.8% of strains being
+sensitive to all antibiotic classes and no Methicillin-resistant S. aureus (MRSA) strains
+were found. The enterotoxin-encoding genes involved in food-poisoning, e.g., sea,
+sed, see, and seg were targeted by PCR. The two toxin-encoding genes, sed and
+see, were not detected. Only three strains (4.5%) harbored seg and two of these
+also harbored sea. Despite the isolates being Methicillin-sensitive S. aureus (MSSA),
+the presence of CC1 clones in the processing environment, including some harboring
+enterotoxin encoding genes, is of concern and hygiene must have high priority to reduce
+contamination.
+
+Keywords: Staphylococcus aureus, dairy industry, food safety, MLST, antibiotic resistance, staphylococcal
+enterotoxin, Brazil
+
+INTRODUCTION
+
+Staphylococcus aureus is an important opportunistic pathogen that can cause infections in warm-
+blooded animals and is a leading cause of nosocomial infections in humans and bovine mastitis
+(Peton and Le Loir, 2014). S. aureus is also one of the most common causative agents of food-
+poisoning (Balaban and Rasooly, 2000; Le Loir et al., 2003; Hennekinne et al., 2012; Kadariya
+et al., 2014) leading to 241,000 illnesses per year in the United States (Scallan et al., 2011) and
+is one of the main agents implicated in foodborne diseases in Brazil (Gomes et al., 2013). In foods,
+enterotoxigenic strains of S. aureus can produce heat-stable and protease resistant staphylococcal
+
+Edited by:
+Danilo Ercolini,
+University of Naples Federico II, Italy
+
+Reviewed by:
+Giuseppe Spano,
+University of Foggia, Italy
+Kalliopi Rantsiou,
+Università degli Studi di Torino, Italy
+
+*Correspondence:
+Lone Gram
+gram@bio.dtu.dk
+
+†These authors have contributed
+equally to this work.
+
+Specialty section:
+This article was submitted to
+Food Microbiology,
+a section of the journal
+Frontiers in Microbiology
+
+Received: 13 December 2016
+Accepted: 06 October 2017
+Published: 24 October 2017
+
+Citation:
+Dittmann KK, Chaul LT, Lee SHI,
+Corassin CH,
+Fernandes de Oliveira CA,
+Pereira De Martinis EC, Alves VF,
+Gram L and Oxaran V (2017)
+Staphylococcus aureus in Some
+Brazilian Dairy Industries: Changes
+of Contamination and Diversity.
+Front. Microbiol. 8:2049.
+doi: 10.3389/fmicb.2017.02049
+
+Frontiers in Microbiology | www.frontiersin.org
+
+1
+
+October 2017 | Volume 8 | Article 2049
+
+Dittmann et al.
+
+S. aureus in Brazilian Dairy Industry
+
+enterotoxins (SE) causing one of the most common foodborne
+intoxications (Balaban and Rasooly, 2000; Dinges et al., 2000;
+Le Loir et al., 2003; Argudín et al., 2010) leading to rapid
+clinical symptoms such as abdominal cramps, nausea, emesis,
+and diarrhea (Le Loir et al., 2003; Murray, 2005). More than
+20 distinct SE have been described to date including SEA and
+SED (Jones et al., 2002; Asao et al., 2003; Kérouanton et al.,
+2007; Pinchuk et al., 2010; Sato’o et al., 2014; Solano et al.,
+2014; Arfatahery et al., 2016) responsible for the majority of
+staphylococcal food-poisoning (SFP), and also in fewer cases SEB,
+SEC, SEE, SEG, SEH, and SEI (Chen et al., 2004; Ikeda et al., 2005;
+Ostyn et al., 2010; Pinchuk et al., 2010). In 2012, 346 outbreaks
+caused by SE were reported in Europe (EFSA and ECDC, 2014).
+However, not every S. aureus strains carry SE-encoding genes
+(Lindberg et al., 2000; Le Loir et al., 2003) and the risk for human
+beings from diﬀerent S. aureus may thus vary.
+
+Staphylococcus aureus has been isolated from several foods
+including several ready-to-eat products (Asao et al., 2003; van
+Loo et al., 2007; Schmid et al., 2009; Ostyn et al., 2010; Rizek et al.,
+2011; Baumgartner et al., 2014; Hao et al., 2015) and improper
+staﬀ hygiene as well as poor surface sanitation are some of the
+main causes of cross-contamination (Hatakka et al., 2000; Asao
+et al., 2003; Lues and Van Tonder, 2007; André et al., 2008).
+S. aureus is capable of surviving on dry stainless steel and it can
+easily be transferred from sponges to stainless steel surfaces and
+subsequently to food products (Kusumaningrum et al., 2003). In
+the dairy industry, S. aureus can be introduced at almost every
+step of the production. Beside handlers and environment, the
+raw milk can be one route of introduction as a consequence of
+subclinical or clinical bovine mastitis. S. aureus can be shed into
+the milk (Kérouanton et al., 2007; Peton and Le Loir, 2014) and
+produce SE which represents one of the most common food safety
+concerns from raw milk products (Fagundes et al., 2010; Silveira-
+Filho et al., 2014). In addition, SE can be produced in the product
+during storage if conditions allow growth of S. aureus.
+
+Dairy production is an important
+
+industry worldwide.
+In Brazil, up to 30% of the milk production comes from
+small producers (Lee et al., 2012) and soft cheeses such
+as Minas frescal type are widely consumed. This particular
+cheese is non-ripened semi-fat and high moisture (Saboya
+et al., 1998) which oﬀers suitable growth conditions for many
+pathogens including S. aureus that has frequently been the
+cause of
+foodborne diseases (Veras et al., 2008). In 1996,
+the Brazilian Ministry of Agriculture (MAPA) implemented
+microbiological regulations for cheeses, subsequently extending
+speciﬁc maximum S. aureus contamination levels (e.g., 103
+CFU/g for coagulase positive staphylococci) for Minas frescal
+cheese (Ministério da Agricultura Brasil, 1997). However, our
+knowledge regarding S. aureus occurrence in Brazilian dairy
+plants is still limited.
+
+Besides food-poisoning, S. aureus is a major concern due to its
+ability to acquire antibiotic resistance genes and to disseminate
+and to withstand treatment (Khan et al., 2000a,b; Holden et al.,
+2004; de Lencastre et al., 2007; Pesavento et al., 2007). Methicillin-
+resistant Staphylococcus aureus (MRSA) strains are responsible
+for the majority of nosocomial infection worldwide (ECDC, 2014;
+EFSA and ECDC, 2014) and there is an increase in MRSA
+
+detection in the community, livestock environment and food
+(Normanno et al., 2007; van Loo et al., 2007; EFSA and ECDC,
+2014). Thus, despite being mostly problematic in infection, it
+raises concern that foods could potentially also be a vehicle
+of antibiotic resistant S. aureus strains. Epidemiological studies
+have been used to track the contamination origin and the
+diversity of clinical isolates for many years. However, particular
+focus has been on MRSA isolates (Chambers and Deleo, 2009).
+Randomly ampliﬁed polymorphic DNA (RAPD) has been used
+to determine the relatedness of S. aureus from cattle, pigs,
+chickens, and humans (Lee, 2003) concluding that humans can
+acquire MRSA infections from livestock via contaminated food
+products. This reinforces that contamination of dairy processing
+environment, milk and dairy products by S. aureus is a public
+health concern (Fagundes et al., 2010; Oliveira et al., 2011).
+However, few studies have assessed the global epidemiology of
+S. aureus of animal origin and their dissemination into the food
+chain (Lee et al., 2012; Sobral et al., 2012; Lima et al., 2013).
+Diﬀerent from RAPD and among the various molecular typing
+methods, multi-locus sequence typing (MLST) (Enright et al.,
+2000) provides global epidemiology data. Indeed, MLST can
+be used to track contamination sources, to indicate persistence
+of particular clones and to identify epidemic clones. However,
+studies investigating the molecular characteristic of S. aureus
+from dairy processing environment and dairy products in Brazil
+are scarce.
+
+The objectives of this study were: (i) to estimate the incidence
+of S. aureus contamination in the Brazilian dairy industry of
+the Southeast and Midwest regions, (ii) to determine the genetic
+diversity of the isolates by MLST as well as to evaluate their
+reoccurrence and eventually persistence, and (iii) to assess some
+of the virulence factors involved in health risk such as antibiotic
+resistance spreading by determining the antibiotic proﬁle, the
+hemolytic trend potential and to investigate the possible food-
+poisoning ability of the isolates by detecting the presence of
+enterotoxin encoding genes.
+
+MATERIALS AND METHODS
+
+Bacterial Strains and Growth Media
+Staphylococcus aureus isolates collected from Brazilian dairies
+were investigated in this study (Supplementary Table 1) and
+sampled as described in Section “Sampling Procedure and
+Detection of Putative S. aureus.” Isolation and phenotypic tests
+were performed using Brain–Heart Infusion (BHI) broth (Oxoid,
+United Kingdom), BHI agar [BHI broth, 1.5% agar (AppliChem,
+Germany)], Tryptic Soy Broth [TSB (Oxoid, United Kingdom)],
+Tryptic Soy Agar [TSA (Oxoid, United Kingdom)] supplemented
+with 0.6% yeast extract (TSAYE), DNase Test Agar with
+Methyl Green (Difco, Detroit, MI, United States), Mueller
+Hinton II Agar [MHA (BD Diagnostics, Franklin Lakes, NJ,
+United States)], Mannitol Salt Agar (MSA) and Baird Parker agar
+(Oxoid, United Kingdom) supplemented with egg-yolk emulsion
+(BP). Blood agar was prepared by supplementing TSA with
+deﬁbrinated sheep blood (Statens Serum Institut, Denmark) at
+5% (vol/vol). Unless otherwise speciﬁed, isolates were grown
+
+Frontiers in Microbiology | www.frontiersin.org
+
+2
+
+October 2017 | Volume 8 | Article 2049
+
+Dittmann et al.
+
+S. aureus in Brazilian Dairy Industry
+
+at 37◦C and liquid cultures were incubated under shaking
+conditions at 250 rpm. The isolates were stored in BHI containing
+20% (vol/vol) glycerol (Merck, Germany) at −80◦C.
+
+Processing Plants and Sample Collection
+Five dairy processing plants in São Paulo state and Minas Gerais
+state (Southeast region) and Goiás state (Midwest region) in
+Brazil were sampled over an 8 months period from December
+2013 to July 2014. In São Paulo state, two dairy plants were
+evaluated, one small-scale with a volume of 7,000 L cow’s milk
+processed per day from 60 producing farms, and the other of
+medium-scale that processed nearly 60,000 L per day collected
+from 150 farms. Two out of the three sampled dairies in Goiás
+state were small-scale dairies, processing about 3,000 L per day
+provided by around 30 farms. The third dairy was an artisanal
+cheese manufacturing plant, producing about 50 cheeses per day,
+using 250 L per day, supplied by just one cattle herd, raised on
+site where the cheese factory is located and using unpasteurized
+milk. Four categories of samples were investigated: raw material
+(bulked raw milk, pasteurized milk, brine, curd), food-contact
+surfaces (milk ﬁlter, vats, spatulas, paddle, knife, tank, picking
+machine strainer, hand handler, worker gloves, cheese box, shelf,
+gallon of milk, cloth mold, mold, plastic crates, curd tube,
+tables), non-food contact surfaces (pallet, wall, ﬂoor, drain, water,
+cleaning brush, sink, tables, gloves, and staﬀ’s boot), and ﬁnal
+product (cheese surfaces, cheese) as shown in Table 1 and
+Supplementary Table 1. The ﬁve dairies followed the same cheese
+processing procedure using milk and no lactic acid bacteria in the
+production. The milk was pasteurized except in one dairy where
+they used unpasteurized milk and it was chosen to represent this
+type of Brazilian dairy (corresponding to 20–40% of dairies in this
+country).
+
+Sampling Procedure and Detection of
+Putative S. aureus
+A total of 421 samples were collected at diﬀerent stages of
+processing following the method described by Oxaran et al.
+(2017). Brieﬂy, raw material (n = 46), food-contact surfaces
+(n = 161), non-food-contact surfaces (n = 96), and products
+(n = 118) (Table 1 and Supplementary Table 1) were sampled
+using swab or sponge or by taking 25 g of cheese. Samples were
+transferred to the laboratory in cooling boxes containing ice
+packs. Homogenized samples in PSW were diluted 10-fold and
+0.1 mL plated on BP to isolate putative S. aureus. After 24–48 h
+incubation at 35◦C, up to three characteristic colonies of S. aureus
+(typical black, convex colonies, and with halo) were puriﬁed on
+TSAYE and incubated at 35◦C for 24–48 h. Putative S. aureus
+isolates were stored for further analysis.
+
+Phenotypic Tests
+Shape and motility was determined by microscopy using an
+Olympus microscope (BX51). Gram-reaction was assessed by
+the 3% KOH method (Halebian et al., 1981). Catalase was
+tested using 3% hydrogen peroxide (Merck, Germany). Mannose
+fermentation and tolerance to high salt concentration was
+assessed on MSA incubated at 35◦C for 48 h (Chapman, 1945).
+
+DNase activity was tested on DNase Test Agar with Methyl Green
+incubated at 35◦C for 48 h. The production of free coagulase
+(Essers and Radebold, 1980) was tested using rabbit plasma
+(BioRad, France) and the presence of clumping factor as well as
+Protein A were tested using the Pastorex Staph−Plus Kit (BioRad,
+France) according to the manufacturer’s recommendations.
+
+DNA Manipulation
+Genomic DNA was extracted using the Dynabeads R(cid:13) DNA
+DIRECT Universal kit (Invitrogen) on a 24 h culture. For each
+PCR reaction, 1 µL of extracted genomic DNA was used with
+primers listed in Table 2. PCR for the species identiﬁcation and
+MLST were performed using the TEMPase Hot Start 2X Master
+Mix Blue II (Ampliqon, Denmark) and the Maxima Hot Start
+Taq Polymerase (Fermentas, Waltham, MA, United States) was
+used for toxin-encoding gene ampliﬁcation, both were performed
+in a 25 µL reaction following the manufacturer’s instruction.
+Reactions were done in a Veriti Thermal Cycler (Applied
+Biosystems, 96 Well Model 9902). PCR products were puriﬁed
+using 10 U Exonuclease I (Thermo Fisher Scientiﬁc, Waltham,
+MA, United States) and 0.5 U Fast Alkaline Phosphatase (Thermo
+Fisher Scientiﬁc, Waltham, MA, United States) and incubated
+at 37◦C for 15 min followed by an inactivation step at 85◦C for
+15 min (Werle et al., 1994). Macrogen Europe (The Netherlands)
+sequenced the gene fragments using the same primer used for the
+PCR ampliﬁcation.
+
+S. aureus Species Conﬁrmation
+The S. aureus identiﬁcation was conﬁrmed by 16S rRNA gene
+sequencing using primers 27F (Lane, 1991) and 1492R (Turner
+et al., 1999) (Table 2). The consensus sequence for each 16S rRNA
+locus was analyzed using the BLASTn algorithm on National
+Center for Biotechnology1.
+
+Multi-locus Sequence Typing
+The sequence type (ST) of each S. aureus isolate was determined
+by the method described by Enright et al.
+(2000). The
+internal fragment of seven housekeeping genes arcC (Carbamate
+kinase), aroE (shikimate dehydrogenase), glpF (glycerol kinase),
+gmk (guanylate kinase), pta (phosphate acetyltransferase),
+tpi (triosephosphate isomerase), yqiL (acetyle coenzyme A
+acetyltransferase), was ampliﬁed by PCR following the guideline
+on http://pubmlst.org/saureus/. The sequences were processed
+using CLC Main Workbench 7 (CLC Bio-Qiagen, Denmark) and
+analyzed using the S. aureus MLST database2 to assign the allele
+type and thus the ST. The proﬁles obtained including the new
+alleles and new proﬁles were submitted to the MLST database to
+contribute to the resource for S. aureus global epidemiology.
+
+Virulence Factor Phenotypes
+Hemolytic Activity
+Hemolytic activity was tested on blood agar incubated at 35◦C
+for 48 h and classiﬁed as α−hemolytic (partial hemolysis),
+
+1http://blast.ncbi.nlm.nih.gov/Blast.cgi
+2http://pubmlst.org/saureus/
+
+Frontiers in Microbiology | www.frontiersin.org
+
+3
+
+October 2017 | Volume 8 | Article 2049
+
+Dittmann et al.
+
+S. aureus in Brazilian Dairy Industry
+
+TABLE 1 | Distribution of samples collected in this study in ﬁve dairies between December 2013 and July 2014 in the states of São Paulo, Minas Gerais and Goiás
+(Brazil).
+
+Dairy
+
+Sampling date
+
+Number of samples per category
+
+Total
+
+Raw material
+
+Product
+
+Food contact surfaces
+
+Non-food contact surfaces
+
+Goiás state
+1
+2
+3
+
+December 2013
+February 2014
+March 2014
+July 2014
+
+Minas Gerais state
+4
+
+December 2013
+January 2014
+February 2014
+March 2014
+July 2014
+
+São Paulo state
+5
+
+December 2013
+January 2014
+February 2014
+March 2014
+July 2014
+
+Total
+
+4
+4
+4
+4
+
+3
+2
+3
+3
+3
+
+4
+3
+3
+3
+3
+46
+
+3
+9
+7
+9
+
+5
+7
+21
+9
+4
+
+11
+7
+9
+13
+4
+118
+
+9
+12
+13
+11
+
+9
+8
+21
+17
+11
+
+10
+7
+8
+15
+10
+161
+
+9
+5
+6
+6
+
+4
+6
+8
+14
+10
+
+5
+7
+4
+4
+8
+96
+
+25
+30
+30
+30
+
+21
+23
+53
+43
+28
+
+30
+24
+24
+35
+25
+421
+
+The samples are grouped according to the sample category, e.g., raw material, product, food-contact surfaces, and non-food-contact surfaces depending on the date
+and the sample category.
+
+TABLE 2 | List of primers used for the identiﬁcation of Staphylococcus aureus based on 16 rRNA gene locus sequencing and for detection of four toxin encoding genes
+involved in food-poisoning, e.g., sea, sed, see, and seg.
+
+Gene
+
+Species identiﬁcation
+16S rRNA
+
+Toxin
+sea
+
+sed
+
+see
+
+seg
+
+Primer
+
+27 F
+1492 R
+
+SA-U
+SA-A
+SED-1
+SED-2
+SEE-1
+SEE-2
+SEG-1
+SEG-2
+
+Sequence (5(cid:48)–3(cid:48))
+
+AGA GTT TGA TCM TGG CTC AG
+TAC GGY TAC CTT GTT ACG ACT T
+
+TGTATGTATGGAGGTGTAAC
+ATTAACCGAAGGTTCTGT
+GAATTAAGTAGTACCGCGCTAAATAATATG
+GCTGTATTTTTCCTCCGAGAGT
+CAAAGAAATGCTTTAAGCAATCTTAGGC
+CACCTTACCGCCAAAGCTG
+AATTATGTGAATGCTCAACCCGATC
+AAACTTATATGGAACAAAAGGTACTAGTTC
+
+Reference
+
+Lane, 1991
+Turner et al., 1999
+
+Sharma et al., 2000
+Sharma et al., 2000
+Jarraud et al., 2002
+Jarraud et al., 2002
+Jarraud et al., 2002
+Jarraud et al., 2002
+Jarraud et al., 2002
+Jarraud et al., 2002
+
+β−hemolytic (complete hemolysis), α(cid:48)−hemolytic (weak partial
+hemolysis) or γ−hemolytic (non−hemolytic bacteria).
+Antibiotic Susceptibility
+Overnight cultures were adjusted to 0.5 McFarland (Biomerieux,
+France) suspensions (corresponding to 1–3 × 108 CFU/mL) and
+were inoculated by swabbing onto MHA in 120 mm × 120 mm
+Petri dishes (Almeco, Denmark). Eleven antibiotic disks (Oxoid,
+United Kingdom), Penicillin G (PEN, 10 U), Erythromycin
+(ERM, 15 µg), Tetracycline (TET, 30 µg), Clindamycin (CLIN,
+2 µg), Gentamicin (GEN, 10 µg), Ciproﬂoxacin (CIP, 5 µg),
+Vancomycin (VAN, 5 µg), Trimethoprim-Sulfamethoxazole
+(SXT, 25 µg), Chloramphenicol (CAM, 30 µg), Cefoxitin (CEF,
+
+30 µg), Bacitracin (BAC, 10 U) were tested. The diameter of
+inhibition zones was determined after 16–20 h and after 24 h
+of incubation at 35◦C. The interpretation of the inhibition zone
+diameters was based on the EUCAST values (EUCAST, 2015)
+except for bacitracin and vancomycin inhibition zones which
+were compared to the Food and Drug Administration guidelines
+(FDA, 2006, 2009). S. aureus ATCC 25923 was used as control
+strain.
+
+Toxin-Encoding Gene Detection
+The presence of the genes encoding four toxins found in SFP was
+determined by PCR using the primers listed in Table 2. The most
+two common toxin encoding genes involved in SFP, sea and sed,
+
+Frontiers in Microbiology | www.frontiersin.org
+
+4
+
+October 2017 | Volume 8 | Article 2049
+
+Dittmann et al.
+
+S. aureus in Brazilian Dairy Industry
+
+and also the not so common SFP toxin encoding genes, see and
+seg, were targeted. The S. aureus strains ATCC 29213 (sea, seg),
+DSM 18588 (sed), DSM 18589 (see) were used as positive controls.
+
+RESULTS
+
+S. aureus Is a Contaminant of the
+Brazilian Dairy Industry
+Thirty-one of 421 samples were positive for S. aureus
+(Supplementary Table 1). Strains were isolated from between
+3 and 5 colonies from each sample showing typical S. aureus
+colony macroscopy on Baird Parker plates. A total of 66 isolates
+were identiﬁed as S. aureus being Gram positive, cocci shaped
+cells, catalase positive, DNase positive, growing in presence
+of high salt concentration, fermenting mannitol, as well as
+producing free and bound coagulase. The 16S rRNA gene
+sequencing conﬁrmed the S. aureus identiﬁcation for all 66
+isolates. Four out of ﬁve dairies were positive for S. aureus,
+leading to an overall contamination rate of 7.4% (n = 31).
+The average contamination rate varied among dairies from 0%
+(n = 0) in Dairy 1 to 63.3% (n = 19) in Dairy 2 (Table 3). The
+dairies 3, 4 and 5, had contamination rates of 8.3% (n = 5),
+1.2% (n = 2), and 3.6% (n = 5), respectively. Based on the
+overall contamination rate of S. aureus positive samples (n = 31),
+S. aureus was isolated in all four sampling categories (Table 3):
+raw material (10.9%), product (7.6%), food-contact surfaces
+(8.1%), and non-food-contact surfaces (4.2%).
+
+Prevalence of CC1 S. aureus Isolates in
+the Brazilian Dairy Industry
+Using MLST, the 66 S. aureus isolates were separated into 11 ST
+which were grouped into six clonal complexes (CCs) (Table 4).
+Of the 66 isolates, only 19 could be assigned to a known ST: ST1
+(n = 7), ST188 (n = 3), ST97 (n = 3), ST398 (n = 2), ST5 (n = 1),
+ST30 (n = 2), and ST126 (n = 1). Besides the seven known ST,
+four new ST were found according to the MLST database2. The
+four new STs were assigned to 47 of the isolates. Due to a single
+point mutation, the new ST3531 (n = 41), ST3534 (n = 1), and
+ST3540 (n = 2) harbored a new allele type of the yqiL locus, 508,
+gmk locus, 291, or glpF locus, 515, respectively. All new allele
+types and thus ST were recorded on the MLST database. All of
+the seven allele types of the new ST, ST3562 (n = 3), were already
+assigned but the concatenation was novel and the isolate proﬁle
+was submitted to the MLST database.
+
+Heterogeneous Distribution of ST among
+the Dairies
+ST3531 (n = 41) and ST3540 (n = 2) were only found in Dairy
+2 with ST3531 being the predominant type (n = 41 out of 44
+positive isolates). In this dairy, ST398 (n = 1) was also found. The
+ST3562 (n = 3) as well as ST5 (n = 1) and ST126 (n = 1) were
+speciﬁc to Dairy 3 and ST1 (n = 4) and ST97 (n = 2) were also
+identiﬁed. ST188 (n= 3), ST3534 (n= 1), and ST398 (n= 1) were
+isolated in Dairy 4. Dairy 5 was contaminated with ST1 (n = 3),
+ST30 (n = 2), and ST97 (n = 1).
+
+Does S. aureus Reoccur and Persist in
+the Brazilian Dairy Industry?
+The assigned ST were compared to the sampling points in each
+dairy and there was no correlation between particular ST at one
+speciﬁc sampling point. However, ST3531 was found at many
+diﬀerent sampling points (wall, curd, cloth mold, cheese surface,
+sink, handler’s hand, ﬂoor, brine, processing tank, cheese, and
+paddle) in Dairy 2 (Supplementary Table 2). ST1 was found
+at two diﬀerent sampling points both in Dairy 3 (curd and
+unpasteurized milk) and in Dairy 5 (bucket and cold chamber
+shelf). The results also showed that one sampling point, the
+unpasteurized milk (Dairy 3) was contaminated with S. aureus
+of three diﬀerent ST (ST1, ST126, ST97). The ST were compared
+to the sampling time points in each dairy. Only ST1 and ST30 in
+Dairy 3 and 5, respectively, were occurring at two diﬀerent time
+points indicating a re-introduction of these ST.
+
+Virulence Related Phenotypes
+Hemolytic Activity
+Out of the 66 isolates, 29 lysed the red blood cells completely
+and were β-hemolytic. Thirteen strains were α-hemolytic.
+Twenty-three isolates produced a weak α(cid:48)-hemolytic zone and
+one isolate (Sa8) did not display hemolytic activity, being
+γ−hemolytic (Supplementary Table 2).
+Antibiotic Susceptibility
+The 66 isolates were all
+susceptible to four antibiotics:
+trimethoprim-sulfamethoxazole, chloramphenicol, cefoxitin, and
+bacitracin (Table 5). Resistance toward one or more antibiotics
+was observed for 24.2% of the isolates (n = 16). Seven isolates
+were only resistant to one antibiotic being either ciproﬂoxacin
+(1.5%, n = 1) or penicillin G (9.1%, n = 6). Combination of
+resistance toward two to four antibiotics was observed for nine
+isolates (13.6%) (Table 5). None of the 66 isolates were methicillin
+resistant. No isolates were resistant to vancomycin but 21 isolates
+showed an intermediate tolerance to this antibiotic. One of
+the vancomycin intermediate tolerant isolates (Sa44) was also
+intermediate tolerant to tetracycline (Supplementary Table 2).
+
+Detection of Food-Poisoning Related Toxin-Encoding
+Genes
+Using PCR, none of the isolates was positive for detection of gene
+encoding toxins D and E, e.g., sed and see respectively. Three
+isolates out of 66 were positive for seg, including two isolates
+harboring both genes seg and sea (Supplementary Table 2).
+
+DISCUSSION
+
+Minas frescal cheese is a widely consumed soft cheese in Brazil
+and it has been associated with S. aureus food-poisoning (de
+Almeida Filho and Nader Filho, 2000; Araújo et al., 2002).
+Most of the dairies investigated in the present study were
+positive for S. aureus. This is in concordance with the general
+trend that this pathogen is a common contaminant of dairy
+industries worldwide, including Brazil (de Almeida Filho and
+Nader Filho, 2000; Araújo et al., 2002; Carvalho et al., 2007;
+
+Frontiers in Microbiology | www.frontiersin.org
+
+5
+
+October 2017 | Volume 8 | Article 2049
+
+Dittmann et al.
+
+S. aureus in Brazilian Dairy Industry
+
+TABLE 3 | Overall occurrence of S. aureus per dairy in the ﬁve dairies investigated grouped per sampling point category, e.g., raw material, product, food-contact
+surfaces, and non-food-contact surfaces.
+
+Number of positive samples/total number of samples (%)
+
+Dairy
+
+Raw material
+
+Product
+
+Food-contact surface
+
+Non-food-contact surface
+
+Total
+
+1
+2
+3
+4
+5
+Total
+
+0/4
+2/4
+3/8
+0/14
+0/16
+
+0/3
+8/9
+0/16
+0/46
+1/44
+
+0/9
+6/12
+1/24
+2/66
+4/50
+
+0/9
+3/5
+1/12
+0/42
+0/28
+
+5/46 (10.9)
+
+9/118 (7.6)
+
+13/161 (8.1)
+
+4/96 (4.2)
+
+0/25 (0)
+19/30 (63.3)
+5/60 (8.3)
+2/168 (1.2)
+5/138 (3.6)
+31/421 (7.4)
+
+TABLE 4 | MLST scheme of the S. aureus isolates from dairies in the Southeast and Midwest regions of Brazil.
+
+ST
+
+1
+188
+3531
+3534
+3540
+3562
+5
+30
+97
+126
+398
+
+Allele types
+
+CC
+
+Number of isolates
+
+Dairy
+
+arcC
+
+aroE
+
+glpF
+
+gmk
+
+pta
+
+1
+3
+1
+3
+1
+1
+1
+2
+3
+3
+3
+
+1
+1
+1
+1
+1
+1
+4
+2
+1
+68
+35
+
+1
+1
+1
+1
+515
+211
+1
+2
+1
+1
+19
+
+1
+8
+1
+291
+1
+1
+4
+2
+1
+4
+2
+
+1
+1
+1
+1
+1
+1
+12
+6
+1
+1
+20
+
+tpi
+
+1
+1
+1
+1
+1
+1
+1
+3
+5
+5
+26
+
+yqiL
+
+1
+1
+508
+1
+1
+1
+10
+2
+3
+40
+39
+
+1
+1
+1
+1
+1
+1
+5
+30
+97
+126
+398
+
+7
+3
+41
+1
+2
+3
+1
+2
+3
+1
+2
+
+3, 5
+4
+2
+4
+2
+3
+3
+5
+3, 5
+3
+2, 4
+
+Allele types of each locus, sequence types (ST) and clonal complex (CC) for the 66 S. aureus isolates sampled from the dairies are listed. For each ST, the number of
+isolates and the dairies are indicated.
+
+TABLE 5 | Number of isolates per antibiotic susceptibility proﬁle related to the sequence type (ST).
+
+Number of isolates
+
+Antibiotic susceptibility
+
+ST
+
+PEN
+
+ERM
+
+TET
+
+CLIN
+
+GEN
+
+CIP
+
+VAN
+
+SXT, CAM, CEF, BAC
+
+36
+14
+3
+2
+1
+1
+1
+2
+2
+1
+1
+2
+
+S
+S
+R
+R
+S
+R
+S
+R
+R
+R
+R
+R
+
+S
+S
+S
+S
+S
+S
+S
+R
+S
+R
+R
+R
+
+S
+S
+S
+S
+S
+I
+R
+S
+R
+S
+R
+R
+
+S
+S
+S
+S
+S
+S
+S
+S
+S
+R
+R
+R
+
+S
+S
+S
+S
+S
+S
+R
+S
+S
+S
+S
+S
+
+S
+S
+S
+S
+R
+S
+S
+S
+S
+S
+S
+S
+
+S
+I
+S
+I
+I
+I
+S
+S
+S
+I
+S
+I
+
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+
+3531,3540, 3562,126, 1
+
+1, 3531,3562
+
+5,3531,30
+
+30, 97
+3531
+3531
+
+1
+398
+188
+97
+97
+
+188,3534
+
+Sensitivity (S), intermediate tolerance (I), and resistance (R) was determined for all 11 antibiotics tested: Penicillin G (PEN), Erythromycin (ERM), Tetracycline (TET),
+Clindamycin (CLIN), Gentamicin (GEN), Ciproﬂoxacin (CIP), Vancomycin (VAN), Trimethoprim-Sulfamethoxazole (SXT), Chloramphenicol (CAM), Cefoxitin (CEF), and
+Bacitracin (BAC).
+
+André et al., 2008; Fagundes et al., 2010) where contamination
+rates can reach up to 77.0% (Araújo et al., 2002; André et al.,
+2008; Moraes et al., 2009). Here, we identiﬁed one dairy with
+a high level of contamination (63.3%, Dairy 2). The four other
+dairies had a lower contamination rate (from 0 to 8.3%) which
+
+is similar to the rate described by Lee et al. (2012) but lower
+than generally reported in the literature (Araújo et al., 2002).
+S. aureus was identiﬁed in all four sampling categories (raw
+material, product, food-contact surfaces, and non-food-contact
+surfaces) but the contamination rates varied. The highest overall
+
+Frontiers in Microbiology | www.frontiersin.org
+
+6
+
+October 2017 | Volume 8 | Article 2049
+
+Dittmann et al.
+
+S. aureus in Brazilian Dairy Industry
+
+contamination rate was observed for the raw material category
+(10.9%), however, only two out of the ﬁve dairies were positive
+for S. aureus presence in this category. This included S. aureus
+isolation from the milk in the only dairy producing cheese from
+unpasteurized milk (Dairy 3), however this type of dairy did
+not show the highest contamination rate of any of the other
+sampling categories. Contamination of raw milk by S. aureus has
+previously been reported and linked to milk from animals with
+mastitis (Jørgensen et al., 2005; da Costa Krewer et al., 2015).
+The frequency of S. aureus contamination of dairy cows is quite
+high in Brazil (da Costa Krewer et al., 2015) and this could
+also be one of the contamination sources for Dairy 3. However,
+this is likely not the only pathogen introduction route for all
+of the investigated dairies. The overall contamination rates of
+the food-contact surfaces and products were slightly lower than
+that of the raw material. Nevertheless, at least one food-contact
+surface sample was positive for S. aureus in all of the dairies
+where the pathogen was detected. S. aureus was also isolated
+from the handler’s hands, gloves, and utensils in three of the
+dairies (Dairy 2, 4, and 5). Several studies have reported that
+contamination by S. aureus is mainly due to transfer between
+handlers and the equipment thus incriminating the lack of
+good manufacturing practices (GMPs) (Lee et al., 2012; Kümmel
+et al., 2016). Altogether, it hints towards a human spread of the
+pathogen in the investigated dairies and a need for improvement
+in the hygienic practices. However, further monitoring is needed
+to conﬁrm this speculation.
+
+We typed the S. aureus isolates choosing MLST among the
+diﬀerent epidemiological methods that have previously been
+applied to study the relatedness of S. aureus isolates in food
+production plants (Tondo et al., 2000; Lee, 2003; Kérouanton
+et al., 2007; Rabello et al., 2007; Agersø et al., 2012; Lee et al.,
+2012; Yan et al., 2012; Shepheard et al., 2013; Rešková et al.,
+2014; McMillan et al., 2016). Indeed, MLST provide data that
+can be compared on a global scale and allow typing of important
+S. aureus clones such as ST398 involved in human and animal
+infections that are non-typable by the standard PFGE method
+(using smaI) due to DNA methylation (Bens et al., 2006). The
+66 isolates identiﬁed in this study belonged to six diﬀerent CC
+and to seven known ST (ST1, ST5, ST30, ST97, ST126, ST188,
+and ST398) and four new ST (ST3531, ST3534, ST3540, ST3562).
+According to the MLST database2 and previous studies on milk
+and dairy products, all of the known ST have previously been
+isolated in Brazil (Vivoni et al., 2006; Rabello et al., 2007; Silva
+et al., 2013, 2014). In three instances, more than one ST was
+identiﬁed from one single sample, e.g., ST3531 and ST3540 being
+identiﬁed from the same cheese surface sample (Supplementary
+Table 2), which shows that more than one S. aureus clone were
+present and thereby supports the requirement of analyzing more
+than one colony per sample (Mongkolrattanothai et al., 2011;
+Votintseva et al., 2014). We did not ﬁnd any indications of
+persistence as it has been seen in other studies (Koreˇnová et al.,
+2015) but our results indicate that S. aureus was continuously
+reintroduced into the dairies.
+
+The majority of the isolates (44 out of 66) including the four
+novel ST belonged to CC1. Although several other studies have
+found large diversity regarding S. aureus contamination (Oliveira
+
+et al., 2016), Silva et al. (2013) also found that CC1 (ST1) was
+the main contaminant of milk from Brazilian cows infected with
+mastitis due to MSSA and also identiﬁed a new ST belonging
+to CC1. So far, the clinically related data represents the largest
+amount of available data on S. aureus epidemiology in Brazil and
+using other molecular typing methods, it has been shown that the
+genetic diversity of this pathogen in Brazilian hospitals is limited
+(Teixeira et al., 1995) and thus is in concordance with our results
+observing a low genetic diversity as well as the predominance of
+the CC1. All together it reinforces that clinical clones are now
+spreading into other niches and potentially into the food industry
+(Pesavento et al., 2007; Choudhury et al., 2012). In addition,
+isolates from diﬀerent sampling points in one dairy (Dairy 2)
+belonged to the same ST3531, being per se epidemiologically
+related and thus suggesting a potential dissemination of one
+clone in the dairy. Investigating S. aureus from milk and the
+milking environment in São Paulo by PFGE (Lee et al., 2012),
+reached the same conclusion. To a lesser extent, the other ST
+belonging to diﬀerent CC observed in this study have been
+sporadically reported in bovine dairy or products. Of concern,
+ST398 has previously been described as a human public health
+threat in Europe due to its ability to disseminate in humans
+and pigs (Armand-Lefevre et al., 2005; Voss et al., 2005; Price
+et al., 2012) as well as its potential antibiotic resistance pattern.
+In Brazil, MRSA ST398 has been reported in bovine mastitis
+(Silva et al., 2014). The two ST398 isolates found in this study
+were MSSA, and in China, MSSA ST398 has also been found
+in food products (Yan et al., 2014; Li et al., 2015b). Although
+the main pathogenicity determinants of MSSA ST398 are still
+unknown, the presence of these isolates along the food processing
+chain is of concern for human health. Indeed, MSSA ST398 has
+recently been involved in human infections (Valentin-Domelier
+et al., 2011; Mediavilla et al., 2012; David et al., 2013). In
+previous reports from Brazilian dairies, ST1, ST97, and ST126
+were commonly identiﬁed (Rabello et al., 2007; Silva et al.,
+2013; Oliveira et al., 2016) and ST97 has also been found in
+dairies worldwide (Smith et al., 2005). ST126 that belongs to
+CC126 is usually associated with ruminants but not humans
+(Smith et al., 2005; Aires-de-Sousa et al., 2007; Rabello et al.,
+2007), hence, suggesting a bovine origin for those isolates. The
+ST5/CC5 was originally described in poultry infections but it
+can also be found among human isolates (Lowder et al., 2009).
+Moreover, ST5 was also present in dairy environments in the
+US (Matyi et al., 2013) and in the Brazilian dairy industry
+(Silva et al., 2013). Highlighted by those results, ST found
+in the dairy plants investigated here belonged to ST or CC
+previously involved into food-poisoning (ST1, ST5, ST30, and
+ST188) worldwide (Cha et al., 2006; Yan et al., 2012; Li et al.,
+2015a).
+
+Le Loir et al. (2003) have reported that 25% of S. aureus
+strains isolated from food are enterotoxigenic and staphylococcal
+enterotoxins are responsible for
+food-poisoning outbreaks
+worldwide including from dairy products (Do Carmo et al.,
+2004; Loncarevic et al., 2005). Here, a small number of strains
+(4.5%) harbored SE-encoding genes involved in SFP. The
+number of strains harboring SE-encoding genes varies, especially
+depending on the geographical area (Jørgensen et al., 2005;
+
+Frontiers in Microbiology | www.frontiersin.org
+
+7
+
+October 2017 | Volume 8 | Article 2049
+
+Dittmann et al.
+
+S. aureus in Brazilian Dairy Industry
+
+Neder et al., 2011; Riva et al., 2015) and has ranged from 0
+to 93.6% (Do Carmo et al., 2004; Fagundes et al., 2010; Rall
+et al., 2014; Silveira-Filho et al., 2014). SEA is the most prevalent
+toxin involved in SFP worldwide and sea as well as seb were
+the predominant SE-encoding genes found to cause SFP in
+Brazil (Veras et al., 2008). Here, only two isolates harbored sea,
+which is less frequent than previously reported. The second
+SE-encoding gene found in three isolates was seg. The seg/sei
+genes were recently reported to be the most prevalent among
+mastitis milking cows and cheese manufacturing in Brazil (Arcuri
+et al., 2010; Silveira-Filho et al., 2014). Linking ST to toxin gene
+presence, only ST5 and ST30 strains harbored SE-encoding genes
+in this study. In fact, assessing the MLST proﬁle to the toxigenic
+potential of S. aureus food sources in China (Chang et al., 2016)
+has illustrated the speciﬁc ability of ST5 strains to harbor and to
+produce SE while the other ST, including ST1, ST188, ST97 and
+ST398, did not, as we also noticed.
+
+Staphylococcus aureus
+
+is known for its ability to gain
+antimicrobial resistance and attention has been given to multi-
+drug as well as methicillin resistant strains and in particular to
+highly virulent MRSA strains. Several studies have shown that
+about 20% of the isolates were MRSA (Türkyilmaz et al., 2010;
+Riva et al., 2015), with in particular in Brazil methicillin resistance
+occurrence ranges from 5.5 to 37.2% in milk, dairy processing
+environment and dairy products (André et al., 2008; Silveira-
+Filho et al., 2014; Oliveira et al., 2016). However in this study,
+none of the isolates were classiﬁed as MRSA which corroborates
+with one previous study (Silveira-Filho et al., 2014). Additionally,
+no isolates were resistant toward vancomycin concurring with
+previous reports in the Brazilian dairy industry (André et al.,
+2008; Silveira-Filho et al., 2014; Oliveira et al., 2016). Hence,
+there are yet no indications of any multi-drug resistant MRSA
+emerging in the Brazilian dairy industry. The highest resistance
+rates were observed for penicillin G (20.9%), erythromycin
+(9.0%), and tetracycline (9.0%) similar to ﬁndings by Oliveira
+et al. (2016). Resistance to penicillin is frequently found in
+dairy herds worldwide, the occurrence rates ranging from 10
+to 70% of the isolates being resistant with in particular 47.6%
+in Uruguay and Argentina (Calvinho et al., 2002; Gianneechini
+et al., 2002) as well as 69.9% in Brazil (André et al., 2008).
+However, resistance to the widespread administration of these
+speciﬁc antibiotics to control and treat infections in dairy farms
+including mammary infections reached lower value here. Thus,
+in this speciﬁc region the use of β-lactams as antibiotic treatment
+may have only triggered the increase of resistance occurrence to
+β-lactams such as penicillin. Moreover, the co-resistance pattern
+of tetracycline and macrolide (erythromycin) has frequently been
+detected in ST1 (MRSA) in Italy (Battisti et al., 2010; Franco
+et al., 2011; Carfora et al., 2015) which corroborates with our
+data. Clindamycin, gentamicin, and ciproﬂoxacin are commonly
+used in Brazil to treat bovine mastitis and it has been suggested
+
+that these antibiotics trigger a selective pressure in dairy farms.
+Indeed, all of the isolates from dairy farms in Northeastern Brazil
+collected by Silveira-Filho et al. (2014) were resistant toward
+gentamicin and bacitracin. However, the resistance observed
+toward these antibiotics was very limited here as also observed by
+others (André et al., 2008). Nevertheless, the resistance to more
+than one antibiotic of some isolates, observed here, could pave
+the way of the resistant determinant dissemination.
+
+CONCLUSION
+
+Some Brazilian dairy processing plants and cheese products have
+frequent occurrence of S. aureus. The genetic diversity is low and
+could indicate a few sources of contamination and, if identiﬁed
+could form the basis for an intervention strategy.
+
+AUTHOR CONTRIBUTIONS
+
+Study concept and design: VO and LG. Planning and sampling
+at dairies: LC, SL, CC, EPDM, VA, and CFdO. Analysis and
+interpretation of data: KD, SL, LC, and VO. Drafting of the
+manuscript: VO. Critical revision of the manuscript: LG, KD,
+EPDM, VA, CC, VO, and CFdO.
+
+FUNDING
+
+The study was funded by the Danish Council for Strategic
+Research (project number 0603-00552B), the State of São Paulo
+Research Foundation/Fundação de Amparo à Pesquisa do Estado
+de São Paulo (FAPESP #2012/50507-1), The State of Goiás
+Research Foundation (FAPEG #2012/10267001047) and CAPES
+for the scholarship.
+
+ACKNOWLEDGMENTS
+
+This publication made use of the S. aureus MLST website (http:
+//pubmlst.org/saureus/) sited at the University of Oxford (Jolley
+and Maiden, 2010). The development of this site has been funded
+by the Wellcome Trust. Jette Melchiorsen and Vanessa Maciel de
+Souza are warmly acknowledged for their excellent technical help.
+
+SUPPLEMENTARY MATERIAL
+
+for this article can be found
+at: https://www.frontiersin.org/articles/10.3389/fmicb.
+
+The Supplementary Material
+online
+2017.02049/full#supplementary-material
+
+REFERENCES
+Agersø, Y., Hasman, H., Cavaco, L. M., Pedersen, K., and Aarestrup, F. M. (2012).
+Study of methicillin resistant Staphylococcus aureus (MRSA) in Danish pigs at
+
+slaughter and in imported retail meat reveals a novel MRSA type in slaughter
+pigs. Vet. Microbiol. 157, 246–250. doi: 10.1016/j.vetmic.2011.12.023
+
+Aires-de-Sousa, M., Parente, C. E. S. R., Vieira-da-Motta, O., Bonna, I. C. F.,
+Silva, D. A., and de Lencastre, H. (2007). Characterization of Staphylococcus
+
+Frontiers in Microbiology | www.frontiersin.org
+
+8
+
+October 2017 | Volume 8 | Article 2049
+
+Dittmann et al.
+
+S. aureus in Brazilian Dairy Industry
+
+aureus isolates from buﬀalo, bovine, ovine, and caprine milk samples collected
+in Rio de Janeiro State, Brazil. Appl. Environ. Microbiol. 73, 3845–3849.
+doi: 10.1128/AEM.00019-07
+
+André, M. C. D. P. B., Campos, M. R. H., Borges, L. J., Kipnis, A., Pimenta,
+F. C., and Seraﬁni, Á. B. (2008). Comparison of Staphylococcus aureus isolates
+from food handlers, raw bovine milk and Minas Frescal cheese by antibiogram
+and pulsed-ﬁeld gel electrophoresis following SmaI digestion. Food Control 19,
+200–207. doi: 10.1016/j.foodcont.2007.03.010
+
+Araújo, V. S., Pagliares, V. A., Queiroz, M. L., and Freitas-Almeida, A. C.
+(2002). Occurrence of Staphylococcus and enteropathogens in soft cheese
+commercialized in the city of Rio de Janeiro, Brazil. J. Appl. Microbiol. 92,
+1172–1177. doi: 10.1046/j.1365-2672.2002.01656.x
+
+Arcuri, E. F., Angelo, F. F., Guimarães, M. F. M., Talon, R., Borges, M., de, F.,
+et al. (2010). Toxigenic status of Staphylococcus aureus isolated from bovine
+raw milk and Minas frescal cheese in Brazil. J. Food Prot. 73, 2225–2231.
+doi: 10.4315/0362-028X-73.12.2225
+
+Arfatahery, N., Davoodabadi, A., Abedimohtasab, T., LeLoir, Y., Baron, F.,
+Gautier, M., et al. (2016). Characterization of toxin genes and antimicrobial
+susceptibility of Staphylococcus aureus isolates in ﬁshery products in Iran. Sci.
+Rep. 6:34216. doi: 10.1038/srep34216
+
+Argudín, M. Á., Mendoza, M. C., and Rodicio, M. R. (2010). Food poisoning
+and Staphylococcus aureus enterotoxins. Toxins 2, 1751–1773. doi: 10.3390/
+toxins2071751
+
+Armand-Lefevre, L., Ruimy, R., and Andremont, A. (2005). Clonal comparison of
+Staphylococcus aureus isolates from healthy pig farmers, human controls, and
+pigs. Emerg. Infect. Dis. 11, 711–714. doi: 10.3201/eid1105.040866
+
+Asao, T., Kumeda, Y., Kawai, T., Shibata, T., Oda, H., Haruki, K., et al. (2003).
+An extensive outbreak of staphylococcal food poisoning due to low-fat milk in
+Japan: estimation of enterotoxin A in the incriminated milk and powdered skim
+milk. Epidemiol. Infect. 130, 33–40. doi: 10.1017/S0950268802007951
+
+Balaban, N., and Rasooly, A. (2000). Staphylococcal enterotoxins. Int. J. Food
+
+Microbiol. 61, 1–10. doi: 10.1016/S0168-1605(00)00377-9
+
+Battisti, A., Franco, A., Merialdi, G., Hasman, H., Iurescia, M., Lorenzetti, R.,
+et al. (2010). Heterogeneity among methicillin-resistant Staphylococcus aureus
+from Italian pig ﬁnishing holdings. Vet. Microbiol. 142, 361–366. doi: 10.1016/
+j.vetmic.2009.10.008
+
+Baumgartner, A., Niederhauser, I., and Johler, S. (2014). Virulence and resistance
+gene proﬁles of Staphylococcus aureus strains isolated from ready-to-eat foods.
+J. Food Prot. 77, 1232–1236. doi: 10.4315/0362-028X.JFP-14-027
+
+Bens, C. C. P. M., Voss, A., and Klaassen, C. H. W. (2006). Presence of a
+novel DNA methylation enzyme in methicillin-resistant Staphylococcus aureus
+isolates associated with Pig farming leads to uninterpretable results in standard
+pulsed-ﬁeld gel electrophoresis analysis. J. Clin. Microbiol. 44, 1875–1876.
+doi: 10.1128/JCM.44.5.1875-1876.2006
+
+Calvinho, L. F., Toselli, F. G., Weimann, W. R., Canavesio, V. R., Neder,
+V. E., and Iguzquiza, I. A. (2002). Antimicrobial sensitivity of coagulase-
+positive staphylococcal strains isolated from bovine mastitis in the central dairy
+catchment area of Argentina. Rev. Argent. Microbiol. 34, 171–175.
+
+Carfora, V., Caprioli, A., Marri, N., Sagrafoli, D., Boselli, C., Giacinti, G., et al.
+(2015). Enterotoxin genes, enterotoxin production, and methicillin resistance
+in Staphylococcus aureus isolated from milk and dairy products in Central Italy.
+Int. Dairy J. 42, 12–15. doi: 10.1016/j.idairyj.2014.10.009
+
+Carvalho, J. D. G., Viotto, W. H., Kuaye, A. Y., Walkíria, V. H., and Kuaye, A. Y.
+(2007). The quality of Minas Frescal cheese produced by diﬀerent technological
+processes. Food Control 18, 262–267. doi: 10.1016/j.foodcont.2005.10.005
+
+Cha, J. O., Lee, J. K., Jung, Y. H., Yoo, J. I., Park, Y. K., Kim, B. S., et al.
+(2006). Molecular analysis of Staphylococcus aureus isolates associated with
+staphylococcal food poisoning in South Korea. J. Appl. Microbiol. 101, 864–871.
+doi: 10.1111/j.1365-2672.2006.02957.x
+
+Chambers, H. F., and Deleo, F. R. (2009). Waves of resistance: Staphylococcus
+aureus in the antibiotic Era. Nat. Rev. Microbiol. 7, 629–641. doi: 10.1038/
+nrmicro2200
+
+Chang, Y., Gao, H., Zhu, Z., Ye, S., Yang, Y., Shen, X., et al. (2016). High prevalence
+and properties of enterotoxin-producing Staphylococcus aureus ST5 strains of
+food sources in China. Foodborne Pathog. Dis. 13, 386–390. doi: 10.1089/fpd.
+2015.2085
+
+Chapman, G. H. (1945). The signiﬁcance of sodium chloride in studies of
+
+staphylococci. J. Bacteriol. 50, 201–203.
+
+Chen, T.-R., Chiou, C.-S., and Tsen, H.-Y. (2004). Use of novel PCR primers
+speciﬁc to the genes of staphylococcal enterotoxin G, H, I for the survey
+of Staphylococcus aureus strains isolated from food-poisoning cases and
+food samples in Taiwan. Int. J. Food Microbiol. 92, 189–197. doi: 10.1016/j.
+ijfoodmicro.2003.10.002
+
+Choudhury, R., Panda, S., and Singh, D. V. (2012). Emergence and dissemination
+of antibiotic resistance: a global problem. Indian J. Med. Microbiol. 30, 384–390.
+doi: 10.4103/0255-0857.103756
+
+da Costa Krewer, C., Santos Amanso, E., Veneroni Gouveia, G., de Lima Souza, R.,
+da Costa, M. M., and Aparecido Mota, R. (2015). Resistance to antimicrobials
+and bioﬁlm formation in Staphylococcus spp. isolated from bovine mastitis in
+the Northeast of Brazil. Trop. Anim. Health Prod. 47, 511–518. doi: 10.1007/
+s11250-014-0752-9
+
+David, M. Z., Siegel, J., Lowy, F. D., Zychowski, D., Taylor, A., Lee, C. J., et al.
+(2013). Asymptomatic carriage of sequence type 398, spa type t571 methicillin-
+susceptible Staphylococcus aureus
+in an urban jail: a newly emerging,
+transmissible pathogenic strain. J. Clin. Microbiol. 51, 2443–2447. doi: 10.1128/
+JCM.01057-13
+
+de Almeida Filho, E. S., and Nader Filho, A. (2000). Occurrence of Staphylococcus
+aureus in cheese made in Brazil. Rev. Saude Publica 34, 578–580. doi: 10.1590/
+S0034-89102000000600003
+
+de Lencastre, H., Oliveira, D., and Tomasz, A. (2007). Antibiotic resistant
+Staphylococcus aureus: a paradigm of adaptive power. Curr. Opin. Microbiol.
+10, 428–435. doi: 10.1016/j.mib.2007.08.003
+
+Dinges, M. M., Orwin, P. M., and Schlievert, P. M. (2000). Exotoxins of
+Staphylococcus aureus. Clin. Microbiol. Rev. 13, 16–34. doi: 10.1128/CMR.13.
+1.16-34.2000
+
+Do Carmo, L. S., Cummings, C., Linardi, V. R., Dias, R. S., De Souza, J. M.,
+De Sena, M. J., et al. (2004). A case study of a massive staphylococcal food
+poisoning incident. Foodborne Pathog. Dis. 1, 241–246. doi: 10.1089/fpd.2004.
+1.241
+
+ECDC (2014). Antimicrobial Resistance Surveillance in Europe 2013. Annual Report
+of the European Antimicrobial Resistance Surveillance Network (EARS-Net).
+Stockholm: European Centre for Disease Prevention and Control. doi: 10.2900/
+39777
+
+EFSA and ECDC (2014). The European Union Summary Report on Trends and
+Sources of Zoonoses, Zoonotic Agents and Food-borne Outbreaks in 2012. Parma:
+EFSA. doi: 10.2903/j.efsa.2014.3547
+
+Enright, M. C., Day, N. P. J., Davies, C. E., Peacock, S. J., and Spratt, B. G. (2000).
+Multilocus sequence typing for characterization of methicillin-resistant and
+methicillin-susceptible clones of Staphylococcus aureus. J. Clin. Microbiol. 38,
+1008–1015.
+
+Essers, L., and Radebold, K.
+
+(1980). Rapid and reliable identiﬁcation of
+Staphylococcus aureus by a latex agglutination test. J. Clin. Microbiol. 12,
+641–643.
+
+EUCAST (2015). The European Committee on Antimicrobial Susceptibility Testing.
+Breakpoint Tables for Interpretation of MICs and Zone Diameters. Version 5.0,
+2015. Available at: http://www.eucast.org
+
+Fagundes, H., Barchesi, L., Nader Filho, A., Ferreira, L. M., Oliveira, C. A. F., Filho,
+A. N., et al. (2010). Occurrence of Staphylococcus aureus in raw milk produced
+in dairy farms in Sao Paulo State, Brazil. Braz. J. Microbiol. 41, 376–380.
+doi: 10.1590/S1517-83822010000200018
+
+FDA (2006). U.S. Food & Drug Administration. Susceptibility Test Interpretive
+
+Criteria for Bacitracin. Silver Spring, MD: FDA.
+
+FDA (2009). U.S. Food & Drug Administration. Susceptibility Test Interpretive
+
+Criteria for Vancomycin. Silver Spring, MD: FDA.
+
+Franco, A., Hasman, H., Iurescia, M., Lorenzetti, R., Stegger, M., Pantosti, A., et al.
+(2011). Molecular characterization of spa type t127, sequence type 1 methicillin-
+resistant Staphylococcus aureus from pigs. J. Antimicrob. Chemother. 66,
+1231–1235. doi: 10.1093/jac/dkr115
+
+Gianneechini, R. E., Concha, C., and Franklin, A.
+
+(2002). Antimicrobial
+susceptibility of udder pathogens isolated from dairy herds in the west littoral
+region of Uruguay. Acta Vet. Scand. 43, 31–41. doi: 10.1186/1751-0147-43-31
+Gomes, B. C., Franco, B. D. G., de, M., and De Martinis, E. C. P. (2013).
+Microbiological food safety issues in Brazil: bacterial pathogens. Foodborne
+Pathog. Dis. 10, 197–205. doi: 10.1089/fpd.2012.1222
+
+Halebian, S., Harris, B., Finegold, S. M., and Rolfei, R. D. (1981). Rapid method
+that aids in distinguishing Gram-positive from gram-negative anaerobic rapid
+
+Frontiers in Microbiology | www.frontiersin.org
+
+9
+
+October 2017 | Volume 8 | Article 2049
+
+Dittmann et al.
+
+S. aureus in Brazilian Dairy Industry
+
+method that aids in distinguishing gram-positive from gram-negative anaerobic
+bacteria. J. Clin. Microbiol. 13, 444–448.
+
+Hao, D., Xing, X., Li, G., Wang, X., Zhang, M., Zhang, W., et al. (2015). Prevalence,
+toxin gene proﬁles, and antimicrobial resistance of Staphylococcus aureus
+isolated from quick-frozen dumplings. J. Food Prot. 78, 218–223. doi: 10.4315/
+0362-028X.JFP-14-100
+
+Hatakka, M., Björkroth, K. J., Asplund, K., Mäki-Petäys, N., and Korkeala, H. J.
+(2000). Genotypes and enterotoxicity of Staphylococcus aureus isolated from
+the hands and nasal cavities of ﬂight-catering employees. J. Food Prot. 63,
+1487–1491. doi: 10.4315/0362-028X-63.11.1487
+
+Hennekinne, J.-A., De Buyser, M.-L., and Dragacci, S. (2012). Staphylococcus aureus
+and its food poisoning toxins: characterization and outbreak investigation.
+FEMS Microbiol. Rev.
+10.1111/j.1574-6976.2011.
+00311.x
+
+815–836.
+
+doi:
+
+36,
+
+Holden, M. T. G., Feil, E. J., Lindsay, J. A., Peacock, S. J., Day, N. P. J.,
+Enright, M. C., et al. (2004). Complete genomes of two clinical Staphylococcus
+aureus strains: evidence for the rapid evolution of virulence and drug
+resistance. Proc. Natl. Acad. Sci. U.S.A. 101, 9786–9791. doi: 10.1073/pnas.04025
+21101
+
+Ikeda, T., Tamate, N., Yamaguchi, K., and Makino, S. (2005). Quantitative analysis
+of Staphylococcus aureus in skimmed milk powder by real-time PCR. J. Vet.
+Med. Sci. 67, 1037–1041. doi: 10.1292/jvms.67.1037
+
+Jarraud, S., Mougel, C., Thioulouse, J., Lina, G., Meugnier, H., Forey, F., et al.
+(2002). Relationships between Staphylococcus aureus genetic background,
+virulence factors, agr groups (alleles), and human disease. Infect. Immun. 70,
+631–641. doi: 10.1128/IAI.70.2.631-641.2002
+
+Jolley, K. A., and Maiden, M. C. (2010). BIGSdb: scalable analysis of bacterial
+the population level. BMC Bioinformatics 11:595.
+
+genome variation at
+doi: 10.1186/1471-2105-11-595
+
+Jones, T. F., Kellum, M. E., Porter, S. S., Bell, M., and Schaﬀner, W. (2002).
+An outbreak of community-acquired foodborne illness caused by methicillin-
+resistant Staphylococcus aureus. Emerg. Infect. Dis. 8, 82–84. doi: 10.3201/
+eid0801.010174
+
+Jørgensen, H.
+
+J., Mørk, T., Høgåsen, H. R., and Rørvik, L. M.
+
+(2005).
+Enterotoxigenic Staphylococcus aureus in bulk milk in Norway. J. Appl.
+Microbiol. 99, 158–166. doi: 10.1111/j.1365-2672.2005.02569.x
+
+Kadariya,
+
+J., Smith, T. C.,
+aureus and staphylococcal
+in public health. Biomed Res.
+827965
+
+(2014). Staphylococcus
+and Thapaliya, D.
+food-borne disease: an ongoing challenge
+Int. 2014:827965. doi: 10.1155/2014/
+
+Kérouanton, A., Hennekinne,
+
+J. A., Letertre, C., Petit, L., Chesneau, O.,
+Brisabois, A., et al. (2007). Characterization of Staphylococcus aureus strains
+associated with food poisoning outbreaks in France. Int. J. Food Microbiol. 115,
+369–375. doi: 10.1016/j.ijfoodmicro.2006.10.050
+
+Khan, S. A., Nawaz, M. S., Khan, A. A., and Cerniglia, C. E. (2000a).
+Transfer of erythromycin resistance from poultry to human clinical strains of
+Staphylococcus aureus. J. Clin. Microbiol. 38, 1832–1838.
+
+Khan, S. A., Nawaz, M. S., Khan, A. A., Steele, R. S., and Cerniglia, C. E. (2000b).
+Characterization of erythromycin-resistant methylase genes from multiple
+antibiotic resistant Staphylococcus spp isolated from milk samples of lactating
+cows. Am. J. Vet. Res. 61, 1128–1132.
+
+Koreˇnová,
+
+J., Rešková, Z., Véghová, A., and Kuchta, T.
+
+(2015). Tracing
+Staphylococcus aureus in small and medium-sized food-processing factories
+on the basis of molecular sub-species typing. Int. J. Environ. Health Res. 25,
+384–392. doi: 10.1080/09603123.2014.958135
+
+Kümmel, J., Stessl, B., Gonano, M., Walcher, G., Bereuter, O., Fricker, M., et al.
+(2016). Staphylococcus aureus entrance into the dairy chain: tracking S. aureus
+from dairy cow to cheese. Front. Microbiol. 7:1603. doi: 10.3389/fmicb.2016.
+01603
+
+Kusumaningrum, H. D., Riboldi, G., Hazeleger, W. C., and Beumer, R. R.
+(2003). Survival of foodborne pathogens on stainless steel surfaces and cross-
+contamination to foods. Int. J. Food Microbiol. 85, 227–236. doi: 10.1016/S0168-
+1605(02)00540-8
+
+Lane, D. J. J. (1991). “16S/23S rRNA sequencing,” in Nucleic Acid Techniques in
+Bacterial Systematics, eds E. Stackebrandt and M. Goodfellow (New York, NY:
+John Wiley & Sons), 115–175. doi: 10.1007/s00227-012-2133-0
+
+Le Loir, Y., Baron, F., and Gautier, M. (2003). Staphylococcus aureus and food
+
+Lee, J. H. (2003). Methicillin (oxacillin)-resistant Staphylococcus aureus strains
+isolated from major food animals and their potential transmission to humans.
+Appl. Environ. Microbiol. 69, 6489–6494. doi: 10.1128/AEM.69.11.6489-6494.
+2003
+
+Lee, S. H. I., Camargo, C. H., Gonçalves, J. L., Cruz, A. G., Sartori, B. T., Machado,
+M. B., et al. (2012). Characterization of Staphylococcus aureus isolates in milk
+and the milking environment from small-scale dairy farms of São Paulo, Brazil,
+using pulsed-ﬁeld gel electrophoresis. J. Dairy Sci. 95, 7377–7383. doi: 10.3168/
+jds.2012-5733
+
+Li, G., Wu, C., Wang, X., and Meng, J. (2015b). Prevalence and characterization of
+methicillin susceptible Staphylococcus aureus ST398 isolates from retail foods.
+Int. J. Food Microbiol. 196, 94–97. doi: 10.1016/j.ijfoodmicro.2014.12.002
+
+Li, G., Wu, S., Luo, W., Su, Y., Luan, Y., and Wang, X. (2015a). Staphylococcus
+aureus ST6-t701 isolates from food-poisoning outbreaks (2006-2013) in Xi’an,
+China. Foodborne Pathog. Dis. 12, 203–206. doi: 10.1089/fpd.2014.1850
+
+Lima, G. C., Loiko, M. R., Casarin, L. S., and Tondo, E. C. (2013). Assessing the
+epidemiological data of Staphylococcus aureus food poisoning occurred in the
+State of Rio Grande do Sul, Southern Brazil. Braz. J. Microbiol. 44, 759–763.
+doi: 10.1590/S1517-83822013005000063
+
+Lindberg, E., Nowrouzian, F., Adlerberth, I., and Wold, A. E. (2000). Long-time
+persistence of superantigen-producing Staphylococcus aureus strains in the
+intestinal microﬂora of healthy infants. Pediatr. Res. 48, 741–747. doi: 10.1203/
+00006450-200012000-00007
+
+Loncarevic, S., Jørgensen, H. J., Løvseth, A., Mathisen, T., and Rørvik, L. M. (2005).
+Diversity of Staphylococcus aureus enterotoxin types within single samples of
+raw milk and raw milk products. J. Appl. Microbiol. 98, 344–350. doi: 10.1111/j.
+1365-2672.2004.02467.x
+
+Lowder, B. V., Guinane, C. M., Ben Zakour, N. L., Weinert, L. A., Conway-
+Morris, A., Cartwright, R. A., et al. (2009). Recent human-to-poultry host jump,
+adaptation, and pandemic spread of Staphylococcus aureus. Proc. Natl. Acad. Sci.
+U.S.A. 106, 19545–19550. doi: 10.1073/pnas.0909285106
+
+Lues, J. F. R., and Van Tonder, I. (2007). The occurrence of indicator bacteria on
+hands and aprons of food handlers in the delicatessen sections of a retail group.
+Food Control 18, 326–332. doi: 10.1016/j.foodcont.2005.10.010
+
+Matyi, S. A., Dupre, J. M., Johnson, W. L., Hoyt, P. R., White, D. G., Brody, T., et al.
+(2013). Isolation and characterization of Staphylococcus aureus strains from a
+Paso del Norte dairy. J. Dairy Sci. 96, 3535–3542. doi: 10.3168/jds.2013-6590
+
+McMillan, K., Moore, S. C., McAuley, C. M., Fegan, N., and Fox, E. M. (2016).
+Characterization of Staphylococcus aureus isolates from raw milk sources in
+Victoria, Australia. BMC Microbiol. 16:169. doi: 10.1186/s12866-016-0789-1
+
+Mediavilla, J. R., Chen, L., Uhlemann, A.-C., Hanson, B. M., Rosenthal, M.,
+Stanak, K., et al. (2012). Methicillin-susceptible Staphylococcus aureus ST398,
+New York and New Jersey, USA. Emerg. Infect. Dis. 18, 700–702. doi: 10.3201/
+eid1804.111419
+
+Ministério da Agricultura Brasil (1997). Pecuária e Abastecimento, Portaria No.
+352, de 04/09/1997. Aprova o Regulamento Técnico para Fixacão de Identidade e
+Qualidade de Queijos Minas Frescal Diário Of. da União. Brasília: Ministério da
+Agricultura Brasil.
+
+Mongkolrattanothai, K., Gray, B. M., Mankin, P., Stanﬁll, A. B., Pearl, R. H.,
+Wallace, L. J., et al. (2011). Simultaneous carriage of multiple genotypes of
+Staphylococcus aureus in children. J. Med. Microbiol. 60, 317–322. doi: 10.1099/
+jmm.0.025841-0
+
+Moraes, P. M., Viçosa, G. N., Yamazi, A. K., Ortolani, M. B. T., and Nero, L. A.
+(2009). Foodborne pathogens and microbiological characteristics of raw milk
+soft cheese produced and on retail sale in Brazil. Foodborne Pathog. Dis. 6,
+245–249. doi: 10.1089/fpd.2008.0156
+
+Murray, R. J. (2005). Recognition and management of Staphylococcus aureus toxin-
+mediated disease. Intern. Med. J. 35(Suppl. 2), S106–S119. doi: 10.1111/j.1444-
+0903.2005.00984.x
+
+Neder, V. E., Canavesio, V. R., and Calvinho, L. F. (2011). Presence of
+enterotoxigenic Staphylococcus aureus in bulk tank milk from Argentine
+dairy farms. Rev. Argent. Microbiol. 43, 104–106. doi: 10.1590/S0325-
+75412011000200006
+
+Normanno, G., La Salandra, G., Dambrosio, A., Quaglia, N. C., Corrente, M.,
+Parisi, A., et al. (2007). Occurrence, characterization and antimicrobial
+resistance of enterotoxigenic Staphylococcus aureus isolated from meat and
+dairy products. Int. J. Food Microbiol. 115, 290–296. doi: 10.1016/j.ijfoodmicro.
+2006.10.049
+
+poisoning. Genet. Mol. Res. 2, 63–76.
+
+Frontiers in Microbiology | www.frontiersin.org
+
+10
+
+October 2017 | Volume 8 | Article 2049
+
+Dittmann et al.
+
+S. aureus in Brazilian Dairy Industry
+
+Oliveira, C. J. B., Tiao, N., de Sousa, F. G. C., de Moura, J. F. P., Santos Filho, L.,
+and Gebreyes, W. A. (2016). Methicillin-resistant Staphylococcus aureus from
+Brazilian dairy farms and identiﬁcation of novel sequence types. Zoonoses Public
+Health 63, 97–105. doi: 10.1111/zph.12209
+
+Oliveira, L. P., de, Soares e Barros, L. S., Silva, V. C., and Cirqueira, M. G. (2011).
+Study of Staphylococcus aureus in raw and pasteurized milk consumed in the
+Reconcavo area of the State of Bahia, Brazil. J. Food Process Technol. 2:128.
+doi: 10.4172/2157-7110.1000128
+
+Ostyn, A., De Buyser, M. L., Guillier, F., Groult, J., Felix, B., Salah, S., et al. (2010).
+First evidence of a food poisoning outbreak due to staphylococcal enterotoxin
+type E, France, 2009. Euro Surveill. 15:19528.
+
+Oxaran, V., Lee, S. H. I., Chaul, L. T., Corassin, C. H., Barancelli, G. V., Alves,
+V. F., et al. (2017). Listeria monocytogenes incidence changes and diversity in
+some Brazilian dairy industries and retail products. Food Microbiol. 68, 16–23.
+doi: 10.1016/j.fm.2017.06.012
+
+Pesavento, G., Ducci, B., Comodo, N., and Lo Nostro, A. (2007). Antimicrobial
+resistance proﬁle of Staphylococcus aureus isolated from raw meat: a research for
+methicillin resistant Staphylococcus aureus (MRSA). Food Control 18, 196–200.
+doi: 10.1016/j.foodcont.2005.09.013
+
+Peton, V., and Le Loir, Y. (2014). Staphylococcus aureus in veterinary medicine.
+
+Infect. Genet. Evol. 21, 602–615. doi: 10.1016/j.meegid.2013.08.011
+
+Pinchuk, I. V., Beswick, E. J., and Reyes, V. E. (2010). Staphylococcal enterotoxins.
+
+Toxins 2, 2177–2197. doi: 10.3390/toxins2082177
+
+Price, L. B., Stegger, M., Hasman, H., Aziz, M., Larsen, J., Andersen, P. S.,
+et al. (2012). Staphylococcus aureus CC398: host adaptation and emergence
+of methicillin resistance in livestock. mBio 3:e00520-12. doi: 10.1128/mBio.
+00305-11
+
+Rabello, R. F., Moreira, B. M., Lopes, R. M. M., Teixeira, L. M., Riley, L. W., and
+Castro, A. C. D. (2007). Multilocus sequence typing of Staphylococcus aureus
+isolates recovered from cows with mastitis in Brazilian dairy herds. J. Med.
+Microbiol. 56, 1505–1511. doi: 10.1099/jmm.0.47357-0
+
+Rall, V. L. M., Miranda, E. S., Castilho, I. G., Camargo, C. H., Langoni, H.,
+Guimarães, F. F., et al. (2014). Diversity of Staphylococcus species and
+prevalence of enterotoxin genes isolated from milk of healthy cows and cows
+with subclinical mastitis. J. Dairy Sci. 97, 829–837. doi: 10.3168/jds.2013-
+7226
+
+Rešková, Z., Koreˇnová, J., and Kuchta, T. (2014). Eﬀective application of multiple
+locus variable number of tandem repeats analysis to tracing Staphylococcus
+aureus in food-processing environment. Lett. Appl. Microbiol. 58, 376–383.
+doi: 10.1111/lam.12200
+
+Riva, A., Borghi, E., Cirasola, D., Colmegna, S., Borgo, F., Amato, E., et al. (2015).
+Methicillin-resistant Staphylococcus aureus in raw milk: prevalence, SCCmec
+typing, enterotoxin characterization, and antimicrobial resistance patterns.
+J. Food Prot. 78, 1142–1146. doi: 10.4315/0362-028X.JFP-14-531
+
+Rizek, C. F., Matté, M. H., Dropa, M., Mamizuka, E. M., de Almeida, L. M.,
+Lincopan, N., et al. (2011). Identiﬁcation of Staphylococcus aureus carrying the
+mecA gene in ready-to-eat food products sold in Brazil. Foodborne Pathog. Dis.
+8, 561–563. doi: 10.1089/fpd.2010.0706
+
+Saboya, L. V., Oliveira, A. J., Furtado, M. M., and Spadoti, L. M. (1998).
+Efeitos físico-químicos da adição de leite reconstituído na fabricação de
+queijo minas frescal. Ciên. Tecnol. Aliment. 18, 368–378. doi: 10.1590/S0101-
+20611998000400002
+
+Sato’o, Y., Omoe, K., Naito, I., Ono, H. K., Nakane, A., Sugai, M., et al. (2014).
+Molecular epidemiology and identiﬁcation of a Staphylococcus aureus clone
+causing food poisoning outbreaks in Japan. J. Clin. Microbiol. 52, 2637–2640.
+doi: 10.1128/JCM.00661-14
+
+Scallan, E., Hoekstra, R. M., Angulo, F. J., Tauxe, R. V., Widdowson, M.-A.,
+Roy, S. L., et al. (2011). Foodborne illness acquired in the United States—
+major pathogens. Emerg.
+Infect. Dis. 17, 7–15. doi: 10.3201/eid1701.
+091101
+
+Schmid, D., Fretz, R., Winter, P., Mann, M., Höger, G., Stöger, A., et al. (2009).
+Outbreak of staphylococcal food intoxication after consumption of pasteurized
+milk products, June 2007, Austria. Wien. Klin. Wochenschr. 121, 125–131.
+doi: 10.1007/s00508-008-1132-0
+
+Sharma, N. K., Rees, C. E. D., and Dodd, C. E. R. (2000). Development of a single-
+reaction multiplex PCR toxin typing assay for Staphylococcus aureus strains.
+Appl. Environ. Microbiol. 66, 1347–1353. doi: 10.1128/AEM.66.4.1347-1353.
+2000
+
+Shepheard, M. A., Fleming, V. M., Connor, T. R., Corander, J., Feil, E. J.,
+Fraser, C., et al. (2013). Historical zoonoses and other changes in host tropism
+of Staphylococcus aureus, identiﬁed by phylogenetic analysis of a population
+dataset. PLOS ONE 8:e62369. doi: 10.1371/journal.pone.0062369
+
+Silva, N. C. C., Guimarães, F. F., Manzi, M. P., Budri, P. E., Gómez-Sanz, E.,
+Benito, D., et al. (2013). Molecular characterization and clonal diversity of
+methicillin-susceptible Staphylococcus aureus in milk of cows with mastitis in
+Brazil. J. Dairy Sci. 96, 6856–6862. doi: 10.3168/jds.2013-6719
+
+Silva, N. C. C., Guimarães, F. F., Manzi, M. P., Júnior, A. F., Gómez-Sanz, E.,
+Gómez, P., et al. (2014). Methicillin-resistant Staphylococcus aureus of lineage
+ST398 as cause of mastitis in cows. Lett. Appl. Microbiol. 59, 665–669.
+doi: 10.1111/lam.12329
+
+Silveira-Filho, V. M., Luz, I. S., Campos, A. P. F., Silva, W. M., Barros, M. P. S.,
+Medeiros, E. S., et al. (2014). Antibiotic resistance and molecular analysis of
+Staphylococcus aureus isolated from cow’s milk and dairy products in northeast
+Brazil. J. Food Prot. 77, 583–591. doi: 10.4315/0362-028X.JFP-13-343
+
+Smith, E. M., Green, L. E., Medley, G. F., Bird, H. E., Fox, L. K., Schukken,
+Y. H., et al. (2005). Multilocus sequence typing of intercontinental bovine
+Staphylococcus aureus isolates. J. Clin. Microbiol. 43, 4737–4743. doi: 10.1128/
+JCM.43.9.4737-4743.2005
+
+Sobral, D., Schwarz, S., Bergonier, D., Brisabois, A., Feßler, A. T., Gilbert,
+F. B., et al. (2012). High throughput multiple locus variable number of
+tandem repeat analysis (MLVA) of Staphylococcus aureus from human,
+animal and food sources. PLOS ONE 7:e33967. doi: 10.1371/journal.pone.
+0033967
+
+Solano, C., Echeverz, M., and Lasa, I. (2014). Bioﬁlm dispersion and quorum
+
+sensing. Curr. Opin. Microbiol. 18, 96–104. doi: 10.1016/j.mib.2014.02.008
+
+Teixeira, L. A., Resende, C. A., Ormonde, L. R., Rosenbaum, R., Figueiredo, A. M.,
+de Lencastre, H., et al. (1995). Geographic spread of epidemic multiresistant
+Staphylococcus aureus clone in Brazil. J. Clin. Microbiol. 33, 2400–2404.
+
+Tondo, E. C., Guimarães, M. C., Henriques, J. A., and Ayub, M. A. (2000).
+Assessing and analysing contamination of a dairy products processing plant by
+Staphylococcus aureus using antibiotic resistance and PFGE. Can. J. Microbiol.
+46, 1108–1114. doi: 10.1139/cjm-46-12-1108
+
+Türkyilmaz, S., Tekbiyik, S., Oryasin, E., and Bozdogan, B. (2010). Molecular
+epidemiology and antimicrobial resistance mechanisms of methicillin-resistant
+Staphylococcus aureus isolated from bovine milk. Zoonoses Public Health 57,
+197–203. doi: 10.1111/j.1863-2378.2009.01257.x
+
+Turner, S., Pryer, K. M., Miao, V. P., and Palmer, J. D. (1999). Investigating deep
+phylogenetic relationships among cyanobacteria and plastids by small subunit
+rRNA sequence analysis. J. Eukaryot. Microbiol. 46, 327–338. doi: 10.1111/j.
+1550-7408.1999.tb04612.x
+
+Valentin-Domelier, A.-S., Girard, M., Bertrand, X., Violette, J., François, P.,
+Donnio, P.-Y., et al. (2011). Methicillin-susceptible ST398 Staphylococcus
+aureus
+for bloodstream infections: an emerging human-
+adapted subclone? PLOS ONE 6:e28369. doi:
+10.1371/journal.pone.
+0028369
+
+responsible
+
+van Loo, I. H. M., Diederen, B. M. W., Savelkoul, P. H. M., Woudenberg,
+J. H. C., Roosendaal, R., van Belkum, A., et al. (2007). Methicillin-resistant
+Staphylococcus aureus in meat products, the Netherlands. Emerg. Infect. Dis. 13,
+1753–1755. doi: 10.3201/eid1311.070358
+
+Veras, J. F., do Carmo, L. S., Tong, L. C., Shupp, J. W., Cummings, C., Dos Santos,
+D. A., et al. (2008). A study of the enterotoxigenicity of coagulase-negative
+and coagulase-positive staphylococcal isolates from food poisoning outbreaks
+in Minas Gerais, Brazil. Int. J. Infect. Dis. 12, 410–415. doi: 10.1016/j.ijid.2007.
+09.018
+
+Vivoni, A. M., Diep, B. A., de Gouveia Magalhães, A. C., Santos, K. R. N., Riley,
+L. W., Sensabaugh, G. F., et al. (2006). Clonal composition of Staphylococcus
+aureus isolates at a Brazilian university hospital: identiﬁcation of international
+circulating lineages. J. Clin. Microbiol. 44, 1686–1691. doi: 10.1128/JCM.44.5.
+1686-1691.2006
+
+Voss, A., Loeﬀen, F., Bakker, J., Klaassen, C., and Wulf, M. (2005). Methicillin-
+Infect. Dis. 11,
+
+in pig farming. Emerg.
+
+resistant Staphylococcus aureus
+1965–1966. doi: 10.3201/eid1112.050428
+
+Votintseva, A. A., Miller, R. R., Fung, R., Knox, K., Godwin, H., Peto,
+T. E. A., et al. (2014). Multiple-strain colonization in nasal carriers of
+Staphylococcus aureus. J. Clin. Microbiol. 52, 1192–1200. doi: 10.1128/JCM.
+03254-13
+
+Frontiers in Microbiology | www.frontiersin.org
+
+11
+
+October 2017 | Volume 8 | Article 2049
+
+Dittmann et al.
+
+S. aureus in Brazilian Dairy Industry
+
+Werle, E., Schneider, C., Renner, M., Völker, M., and Fiehn, W. (1994).
+Convenient single-step, one tube puriﬁcation of PCR products for direct
+sequencing. Nucleic Acids Res. 22, 4354–4355. doi: 10.1093/nar/22.20.
+4354
+
+Yan, X., Wang, B., Tao, X., Hu, Q., Cui, Z., Zhang, J., et al. (2012). Characterization
+of Staphylococcus aureus strains associated with food poisoning in Shenzhen,
+China. Appl. Environ. Microbiol. 78, 6637–6642. doi: 10.1128/AEM.
+01165-12
+
+Yan, X., Yu, X., Tao, X., Zhang, J. J., Zhang, B., Dong, R., et al. (2014). Staphylococcus
+aureus ST398 from slaughter pigs in northeast China. Int. J. Med. Microbiol. 304,
+379–383. doi: 10.1016/j.ijmm.2013.12.003
+
+Conﬂict of Interest Statement: The authors declare that the research was
+conducted in the absence of any commercial or ﬁnancial relationships that could
+be construed as a potential conﬂict of interest.
+
+Copyright © 2017 Dittmann, Chaul, Lee, Corassin, Fernandes de Oliveira, Pereira
+De Martinis, Alves, Gram and Oxaran. This is an open-access article distributed
+under the terms of the Creative Commons Attribution License (CC BY). The use,
+distribution or reproduction in other forums is permitted, provided the original
+author(s) or licensor are credited and that the original publication in this journal
+is cited, in accordance with accepted academic practice. No use, distribution or
+reproduction is permitted which does not comply with these terms.
+
+Frontiers in Microbiology | www.frontiersin.org
+
+12
+
+October 2017 | Volume 8 | Article 2049
+
+

@@ -1,0 +1,2700 @@
+MICROBIAL DRUG RESISTANCE
+Volume 00, Number 00, 2019
+ª Mary Ann Liebert, Inc.
+DOI: 10.1089/mdr.2018.0431
+
+Evaluating Dissemination Mechanisms
+
+of Antibiotic-Resistant Bacteria in Rural Environments
+in China by Using CTX-M-Producing Escherichia coli
+
+as an Indicator
+
+Huiyun Zou,1,* Beiwen Zheng,2,* Mingli Sun,3 Jakob Ottoson,4 Yubo Li,3 Bjo¨ rn Berglund,2,5 Xiaohui Chi,1
+
+Xiang Ji,1 Xuewen Li,1 Cecilia Sta˚ lsby Lundborg,6 and Lennart E. Nilsson5
+
+It is becoming increasingly recognized that the environment plays an important role both in the emergence and
+in dissemination of antibiotic-resistant bacteria (ARB), Mechanisms and factors facilitating this development
+are, however, not yet well understood. The high detection rate of CTX-M genes in environmental sources
+provides an opportunity to explore this issue. In this study, 88 CTX-M-producing Escherichia coli were isolated
+from 30 pig feces samples from 30 pig farms and 201 environmental samples. CTX-M-producing E. coli was
+detected with the following frequencies in the different types of samples: pig feces, 73%; river water, 64%; river
+sediment, 52%; wastewater, 31%; drinking water, 23%; outlet sediment, 21%; soil, 17%; and vegetables, 4.4%.
+Dissemination of CTX-M-producing E. coli to different environmental matrices was evaluated by analyzing the
+genetic relatedness of isolates from different environmental sources, and putative transmission routes through
+bird feces, pig feces, drinking water, river sediment, river water, and wastewater were hypothesized. Dis-
+semination through these routes is likely facilitated by anthropogenic activities and environmental factors. Wild
+birds as potential vectors for dissemination of CTX-M-producing E. coli have the capacity to spread ARB
+across long distances. Regional dissemination between different environmental matrices of CTX-M-producing
+E. coli increases the exposure risk of humans and animals in the area.
+
+Keywords: ESBL-producing E. coli, dissemination mechanism, multiple environmental matrices, animal
+
+Introduction
+
+A t present, antibiotic-resistant bacteria (ARB) consti-
+
+tute a great threat to human health worldwide. If the
+situation is left unchecked, it has been estimated that the
+global costs up until 2050 will be 100 trillion USD and an
+increase in deaths per year up to a staggering 10 million in
+2050.1 To prevent this development, and tackle the global
+challenge of antibiotic resistance, a ‘‘One Health’’ per-
+spective, which takes into account the connections between
+human and animal health and the environment, is required.2
+
+It is becoming increasingly recognized that the environ-
+ment functions as a reservoir of ARB and antibiotic resis-
+tance genes (ARGs), and plays an important role for the
+dissemination and evolution of these environmental con-
+taminants. ARGs can be readily transferred to humans
+through contaminated environmental matrices, which con-
+tribute to the dissemination and persistence of ARB in the
+general population.3 For example, environmental exposure
+to antibiotic-resistant Escherichia coli has been associated
+with fecal carriage in humans, including carriage of patho-
+genic E. coli, which further indicates the risk to humans
+
+1Department of Environment and Health, School of Public Health, Shandong University, Jinan, China.
+2State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment
+
+of Infectious Diseases, The First Afﬁliated Hospital, College of Medicine, Zhejiang University, Hangzhou, China.
+
+3Center of Disease Prevention and Control, Zhucheng City, Shandong Province, China.
+4National Food Agency, Department of Risk and Beneﬁt Assessment, Uppsala, Sweden.
+5Department of Clinical and Experimental Medicine, Linko¨ping University, Linko¨ping, Sweden.
+6Global Health—Health Systems and Policy: Medicines, Focusing Antibiotics, Department of Public Health Sciences, Karolinska
+
+Institutet, Stockholm, Sweden.
+
+*These two authors contributed equally to this work.
+
+1
+
+Downloaded by Queen Mary & Westfield Coll from www.liebertpub.com at 04/04/19. For personal use only. 2
+
+ZOU ET AL.
+
+posed by dissemination of ARB between different envi-
+ronmental matrices.4
+
+The dissemination mechanisms and risk factors pertaining
+to dissemination of ARB and ARGs are not well understood
+and need to be further elucidated to enable risk assessment
+and design of suitable interventions.5 To date, most studies
+focus on ARB and ARGs associated with clinical settings or
+animal breeding, whereas the environmental sector is usu-
+ally neglected. Furthermore, environmental studies on ARB
+and ARGs are usually limited by focusing on a single type
+of environmental matrix; studies simultaneously investi-
+gating multiple environmental sources are rarely undertak-
+en.6,7 Lastly, the detection rates of ARB and ARGs for
+resistance to last-resort antibiotics are relatively low, which
+increases the difﬁculty of drawing conclusions from the
+gathered data. For example, one study reported that the
+detection rate of total carbapenem-resistant gram-negative
+bacilli from a Swedish river downstream of a wastewater
+treatment plant was 4.5% and 2.5% in inﬂuent sewage water
+and environmental waters, respectively.8 Other studies have
+reported on a prevalence rate of 1.3–3.6% of the plasmid-
+mediated colistin resistance gene mcr-1 among isolates of
+E. coli from environmental samples.9,10 Therefore,
+the
+mentioned ARB are not suitable as biomarkers for envi-
+ronmental dissemination of ARB and ARGs across different
+environmental matrices.
+
+Extended-spectrum beta-lactamases (ESBLs) are enzymes
+that hydrolyze the b-lactam ring of penicillins and third-
+generation cephalosporins, such as cefotaxime and ceftazi-
+dime.11 Since the 2000s, CTX-M genes have become the
+predominant ESBL type.12 Among Enterobacteriaceae,
+E. coli is most frequently associated with production of
+ESBLs.13 E. coli is a commensal micro-organism and op-
+portunistic pathogen of the gastrointestinal tract in humans
+and many animals, and is particularly suited to disseminate
+ARGs in the environment through the fecal route.14 E. coli is
+also the most prevalently isolated Enterobacteriaceae from
+environmental sources, and is well adapted for survival
+outside of animal hosts.15 CTX-M-producing E. coli
+is
+widely disseminated and has been reported among various
+environmental matrices including river water, well water,
+municipal wastewater, soil, and vegetables.16–20 Accord-
+ingly, CTX-M-producing E. coli may be a suitable indicator
+for studying the mechanisms of environmental dissemina-
+tion of antibiotic resistance through fecal pollution.21 In
+this study, the prevalence and characteristics of CTX-M-
+producing E. coli among various environmental sources in a
+rural area of China were investigated to elucidate the dis-
+semination of ARB and ARGs among different animal and
+environmental matrices.
+
+Materials and Methods
+
+Sampling
+
+The study site is located in a region of rural Shandong
+province in eastern China. We chose to conduct the research
+in a rural area because household pigs live in proximity to
+humans and many residents work as farmers (i.e., they have
+extended periods of contact with animals and the environ-
+ment). Twelve villages that hold a number of available
+backyard pig farms were included in our study. In each
+village two to three households with backyard farms (de-
+
+ﬁned as harboring <50 pigs) with at least 1 pig were ran-
+domly selected. The pig farms chosen usually did not harbor
+other animals aside from pigs. Additional information re-
+garding the scale of the pig farming in the sampled villages
+is presented in Supplementary Table S1. During July and
+September 2015, 30 pig feces samples and 201 environ-
+mental samples were collected (Fig. 1) from 12 villages: vil-
+lages A (n = 27), B (n = 19), C (n = 15), D (n = 22), E (n = 19),
+F (n = 17), G (n = 19), H (n = 21), I (n = 19), J (n = 18), K
+(n = 16), and L (n = 19). The environmental samples col-
+lected were of wastewater (n = 36), outlet sediment (n = 14),
+river water (n = 25), river sediment (n = 25), drinking water
+(n = 43), soil (n = 23), vegetables (n = 23), bird feces (n = 6),
+and human waste (n = 6). The number of samples and
+types of samples are summarized in Table 1. The pig feces
+samples were collected from 30 pig farms (a single sample
+per farm) and were collected by pooling fresh pig drop-
+pings on the ground. Wastewater directly discharged from
+the pig farms (i.e., without treatment) were collected by
+using sterilized bottles. Samples of bird feces were only
+collected from village A; samples were collected twice
+daily for 3 days from the ground of a villager’s yard, which
+was frequented by swallows. Human waste samples were
+collected from public toilets, and since some villages lacked
+public toilets, only six samples of human waste from six
+villages were collected. Waste samples of animals and hu-
+mans were collected using the ESwab collection and
+transport system (Copan, Brescia, Italy). Water samples
+(from rivers, streams, and wells) were collected by gathering
+1 L of water in sterile glass bottles. The sediment samples
+were taken by a sediment grabber and the sediment cores
+were sliced into 5 cm layers. At least 30 grams of river
+sediment and soil samples from vegetable gardens were
+collected in sterile plastic bottles. Edible parts of different
+vegetables were collected in plastic bags, including beans
+(n = 10), cucumbers (n = 6), peppers (n = 3), celery (n = 2),
+and leeks (n = 2).
+
+All samples were put in cool boxes with ice packs (4–
+8°C) upon collection, and transported to the local CDC
+laboratory at the end of the day. Water samples were sub-
+jected to ﬁltration through 0.45 mm sterile membrane ﬁlters
+(Millipore, Billerica). After ﬁltration, membranes were
+transferred into ESwabs and stored at -80°C until cultiva-
+tion. Sediments (2.0 g) were homogenized in a ﬁvefold
+volume of sterile brain heart infusion broth (Oxoid, Ba-
+singstoke, UK). The vegetable samples were not washed,
+and the inedible or damaged parts were removed using a
+sterilized knife. The surface was sampled using the ESwab
+collection and transport system, and stored until analysis as
+described hereunder.
+
+Screening of samples for ESBL-producing E. coli
+
+Each sample was inoculated in brain heart infusion broth
+(Oxoid) and cultured at 37°C overnight. The enriched so-
+lutions were plated on ChromID ESBL agar (bioMe´rieux,
+Marcy l’Etoile, France) for 18–24 hours at 37°C to isolate
+potential ESBL-producing isolates. Screening was performed
+as previously described.22 Species conﬁrmation of pre-
+sumptive E. coli isolates was performed by using matrix-
+assisted laser desorption ionization time-of-ﬂight mass
+spectrometry. ESBL production was conﬁrmed by using the
+
+Downloaded by Queen Mary & Westfield Coll from www.liebertpub.com at 04/04/19. For personal use only. INDICATOR BACTERIA, DISSEMINATION MECHANISMS
+
+3
+
+FIG. 1. The sampling
+distribution of CTX-M-producing
+Escherichia coli among different
+environmental samples from a rural
+area in Shandong province, China.
+
+double disk diffusion method, using cefotaxime, ceftazidime,
+each alone and in combination with clavulanic acid ac-
+cording to the manufacturer’s protocol (Oxoid). E. coli
+ATCC 25922 was used as control strain.
+
+ously described.23 Four blaCTX-M subgroups (group 1, 2, 8,
+and 9) were discriminated by multiplex PCR assay as pre-
+viously described.24 PCR products were veriﬁed by se-
+quencing (BGI Company, Beijing, China).
+
+Genetic characterization of CTX-M genes
+
+Antibiotic susceptibility testing
+
+DNA was extracted from the ESBL isolates using Gentra
+Puregene Yeast/Bact. Kit (QIAGEN, Germany), following
+the manufacturer’s instructions. The presence of CTX-M
+genes was conﬁrmed by using a multiplex PCR as previ-
+
+The conﬁrmed CTX-M-producing isolates were cultured
+on blood agar, incubated overnight at 37°C, and then sub-
+jected to antibiotic susceptibility testing using agar dilution
+with Mu¨ller–Hinton agar (Oxoid), according to the Clinical
+
+Table 1. Samples from 10 Different Sources Were Collected from 12 Villages
+
+in Shandong Province, China, in 2015
+
+Village
+
+Human
+waste
+
+Bird
+feces
+
+Pig
+feces Wastewater
+
+Outlet
+
+sediment
+
+River
+water
+
+River
+
+sediment
+
+Drinking
+
+water
+
+Soil
+
+Vegetables
+
+Total
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+Total
+
+1 (1)
+0 (0)
+1 (1)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (1)
+0 (1)
+0 (1)
+1 (1)
+0 (0)
+3 (6)
+
+5 (6)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+5 (6) 22 (30)
+
+2 (1)
+5 (3)
+3 (3)
+1 (3)
+2 (3)
+0 (2)
+3 (3)
+1 (2)
+1 (3)
+3 (2)
+0 (2)
+1 (3)
+
+0 (4)
+1 (4)
+2 (3)
+2 (4)
+0 (3)
+1 (3)
+0 (3)
+1 (2)
+1 (3)
+0 (2)
+0 (2)
+3 (3)
+
+11 (36)
+
+0 (0)
+0 (0)
+1 (1)
+0 (0)
+0 (1)
+0 (1)
+0 (1)
+0 (5)
+0 (0)
+2 (2)
+0 (1)
+0 (2)
+3 (14)
+
+3 (3)
+2 (3)
+0 (1)
+2 (3)
+2 (2)
+0 (2)
+2 (2)
+2 (2)
+1 (2)
+2 (2)
+0 (2)
+0 (1)
+
+2 (3)
+2 (3)
+0 (1)
+2 (3)
+1 (2)
+1 (2)
+1 (2)
+1 (2)
+0 (2)
+3 (2)
+0 (2)
+0 (1)
+
+3 (5)
+2 (3)
+1 (3)
+2 (5)
+1 (4)
+0 (3)
+0 (4)
+0 (4)
+1 (4)
+0 (3)
+0 (2)
+0 (3)
+
+16 (25)
+
+13 (25)
+
+10 (43)
+
+1 (2)
+0 (2)
+0 (1)
+0 (2)
+1 (2)
+1 (2)
+0 (2)
+0 (1)
+0 (2)
+0 (2)
+0 (2)
+1 (3)
+4 (23)
+
+0 (2)
+0 (1)
+1 (1)
+0 (2)
+0 (2)
+0 (2)
+0 (2)
+0 (2)
+0 (2)
+0 (2)
+0 (2)
+0 (3)
+1 (23)
+
+17 (27)
+12 (19)
+9 (15)
+9 (22)
+7 (19)
+3 (17)
+6 (19)
+5 (21)
+4 (19)
+10 (18)
+1 (16)
+5 (19)
+
+88 (231)
+
+The number of samples positive for CTX-M-producing Escherichia coli are denoted in the table with the total number of samples
+
+collected given in parentheses.
+
+Downloaded by Queen Mary & Westfield Coll from www.liebertpub.com at 04/04/19. For personal use only. 4
+
+ZOU ET AL.
+
+FIG. 2. Distribution of CTX-M genes types among CTX-M-producing E. coli from a rural area in Shandong province,
+China. (a) Distribution of CTX-M gene types in different matrices; (b) distribution of CTX-M gene types in different
+villages; n represents the number of CTX-M-producing E. coli in different matrices and villages, respectively. (BF, bird
+feces; HW, human waste; F, pig feces; WW, wastewater; OS, outlet sediment; RW, river water; RS, river sediment; DW,
+drinking water; S, soil; V, vegetables).
+
+& Laboratory Standards Institute (CLSI, 2016), except for
+colistin, for which broth microdilution was used. The results
+were evaluated in accordance with the European Committee
+on Antimicrobial Susceptibility Testing (EUCAST) break-
+points version 8.1,a except for tetracycline and nitrofur-
+antoin, for which the CLSI breakpoints version 2017 was
+used, and ﬂorfenicol, for which the EUCAST epidemio-
+logical cutoff value was used. Multidrug resistance was
+deﬁned as acquired nonsusceptibility to at least one agent in
+three or more antimicrobial categories.25
+
+Molecular typing and determination of putative
+transmission routes
+
+For multilocus sequence typing of E. coli isolates, internal
+fragments of the seven housekeeping genes (adk, fumC,
+gyrB, icd, mdh, purA, and recA) were ampliﬁed by PCR
+from DNA, as previously described,26 and subsequently
+sequenced (BGI Company). Sequences were imported into
+the E. coli Multilocus sequence typing (MLST) database
+websiteb to determine sequence types (STs). A phylogenetic
+tree based on the concatenated MLST sequences was con-
+structed by using Molecular Evolutionary Genetics Analysis
+5. Annotation of the phylogenetic tree was performed with
+Interactive Tree of Life.c
+
+Preparation of DNA for pulsed-ﬁeld gel electrophoresis
+(PFGE) was performed as previously described.27,28 A den-
+drogram with the PFGE results was generated using BioNu-
+merics 6.1 (Applied Maths, Sint-Martens-Latem, Belgium).
+According to the Unweighted Pair group Method using
+Arithmetic average (UPGMA) cluster analysis, isolates were
+deﬁned as being of a related clone if dice similarity indices of
+the PFGE ﬁngerprints were >80%. Putative transmission
+routes of CTX-M-producing E. coli were determined by
+identifying related clones isolated from different sources.
+
+awww.eucast.org/
+bhttp://mlst.warwick.ac.uk/mlst/dbs/Ecoli
+chttp://itol.embl.de/
+
+Results
+
+A total of 88 CTX-M-producing E. coli were isolated
+from 231 samples (38%); CTX-M-producing E. coli was
+detected among all sample types. The detection rate was
+highest in pig feces (73%), followed by river water (64%),
+river sediment (52%), human waste (50%), wastewater
+(31%), drinking water (23%), outlet sediment (21%), soil
+(17%), and vegetables (4.4%) (Table 1). In addition, ﬁve
+CTX-M-producing E. coli were isolated from three samples
+of bird feces (two samples were isolated with four different
+CTX-M-producing E. coli).
+
+(n = 9),
+
+(n = 9), blaCTX-M-27
+
+Genes of the CTX-M-9 group were most frequently
+detected (n = 64), and blaCTX-M-14 (n = 35) was the predomi-
+nant genotype, followed by blaCTX-M-65 (n = 20), blaCTX-M-55
+(n = 10), blaCTX-M-15
+and
+blaCTX-M-3 (n = 5). blaCTX-M-14 was the most common CTX-
+M gene found in pig feces as well as some of the environ-
+mental sources sampled (human waste, bird feces, river
+water, river sediment, and vegetables), whereas blaCTX-M-65
+was the most common found in drinking water, soil, and
+outlet sediment, and blaCTX-M-55 was the most common
+CTX-M gene in E. coli from wastewater samples. The dis-
+tribution of CTX-M genes in different matrices and different
+villages is shown in Fig. 2. blaCTX-M-14 was found in all
+isolates except for those from villages F and L. blaCTX-M-65
+was predominant in villages E, F, and J, whereas blaCTX-M-
+27 was the main genotype in villages D and L.
+
+All CTX-M-producing E. coli isolates were cefotaxime
+resistant, and the majority (>80%) of these isolates were also
+resistant to tetracycline, trimethoprim–sulfamethoxazole, and
+ﬂorfenicol (Table 2). Fifty percent to 75% of the isolates were
+resistant
+to fosfomycin, piperacillin–tazobactam, cipro-
+ﬂoxacin, gentamicin, and amoxicillin–clavulanic acid; 43%
+was resistant to nitrofurantoin, and <25% of the isolates were
+resistant to colistin, ceftazidime, cefoxitin, and amikacin.
+Only one isolate was resistant to meropenem, whereas none
+of the isolates were resistant to tigecycline. All isolates were
+multidrug resistant.
+
+Downloaded by Queen Mary & Westfield Coll from www.liebertpub.com at 04/04/19. For personal use only. l
+a
+t
+o
+T
+
+0
+0
+1
+
+4
+9
+
+2
+8
+
+1
+8
+
+5
+7
+
+3
+7
+
+6
+6
+
+9
+5
+
+9
+5
+
+3
+4
+
+5
+2
+
+2
+2
+
+0
+2
+
+5
+
+.
+
+4
+
+1
+
+.
+
+1
+
+0
+
+s
+e
+l
+b
+a
+t
+e
+g
+e
+V
+
+)
+1
+(
+
+0
+0
+1
+
+0
+0
+1
+
+0
+0
+1
+
+0
+0
+1
+
+0
+0
+1
+
+0
+0
+1
+
+0
+0
+1
+
+0
+0
+1
+
+0
+0
+1
+
+0
+0
+1
+
+0
+0
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+l
+i
+o
+S
+
+)
+4
+(
+
+0
+0
+1
+
+5
+7
+
+5
+7
+
+5
+7
+
+5
+7
+
+5
+7
+
+5
+7
+
+5
+7
+
+0
+5
+
+0
+5
+
+5
+2
+
+5
+2
+
+5
+2
+
+0
+
+0
+
+0
+
+g
+n
+i
+k
+n
+i
+r
+D
+
+r
+e
+t
+a
+w
+
+)
+0
+1
+(
+
+r
+e
+v
+i
+R
+
+t
+n
+e
+m
+i
+d
+e
+s
+
+)
+3
+1
+(
+
+0
+0
+1
+
+0
+0
+1
+
+0
+9
+
+0
+6
+
+0
+9
+
+0
+7
+
+0
+6
+
+0
+3
+
+0
+8
+
+0
+6
+
+0
+2
+
+0
+5
+
+0
+3
+
+0
+1
+
+0
+
+0
+
+0
+0
+1
+
+0
+0
+1
+
+2
+9
+
+0
+0
+1
+
+9
+6
+
+9
+6
+
+2
+9
+
+5
+8
+
+2
+6
+
+6
+4
+
+5
+1
+
+8
+1
+
+1
+3
+
+0
+
+0
+
+0
+
+r
+e
+v
+i
+R
+
+r
+e
+t
+a
+w
+
+)
+6
+1
+(
+
+0
+0
+1
+
+8
+8
+
+6
+5
+
+1
+8
+
+8
+8
+
+1
+8
+
+0
+5
+
+0
+5
+
+4
+4
+
+3
+6
+
+1
+3
+
+9
+1
+
+8
+3
+
+3
+1
+
+3
+
+.
+
+6
+
+0
+
+t
+e
+l
+t
+u
+O
+
+t
+n
+e
+m
+i
+d
+e
+s
+
+r
+e
+t
+a
+w
+e
+t
+s
+a
+W
+
+)
+3
+(
+
+0
+0
+1
+
+0
+0
+1
+
+7
+6
+
+0
+0
+1
+
+0
+0
+1
+
+7
+6
+
+3
+3
+
+0
+
+3
+3
+
+3
+3
+
+7
+6
+
+3
+3
+
+3
+3
+
+0
+
+0
+
+0
+
+)
+1
+1
+(
+
+0
+0
+1
+
+0
+0
+1
+
+0
+0
+1
+
+1
+9
+
+3
+7
+
+1
+9
+
+6
+4
+
+6
+4
+
+4
+6
+
+8
+1
+
+6
+3
+
+8
+1
+
+0
+
+0
+
+0
+
+0
+
+g
+i
+P
+
+s
+e
+c
+e
+f
+
+)
+2
+2
+(
+
+0
+0
+1
+
+0
+0
+1
+
+6
+8
+
+2
+8
+
+8
+6
+
+4
+6
+
+7
+7
+
+4
+6
+
+5
+5
+
+6
+3
+
+8
+1
+
+1
+
+.
+
+9
+
+1
+
+.
+
+9
+
+0
+
+0
+
+0
+
+a
+
+n
+
+i
+
+s
+e
+c
+r
+u
+o
+S
+
+t
+n
+e
+r
+e
+f
+f
+i
+D
+m
+o
+r
+f
+
+d
+e
+t
+a
+l
+o
+s
+I
+
+i
+l
+o
+c
+
+.
+
+E
+
+g
+n
+i
+c
+u
+d
+o
+r
+P
+-
+M
+X
+T
+C
+
+-
+
+f
+o
+
+s
+e
+t
+a
+R
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+R
+
+c
+i
+t
+o
+i
+b
+i
+t
+n
+A
+
+)
+s
+e
+t
+a
+l
+o
+s
+i
+
+f
+o
+
+.
+
+o
+N
+
+(
+
+e
+c
+r
+u
+o
+s
+
+y
+b
+
+)
+
+%
+
+(
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+
+f
+o
+
+e
+t
+a
+R
+
+5
+1
+0
+2
+
+n
+
+i
+
+,
+
+i
+
+a
+n
+h
+C
+
+,
+
+e
+c
+n
+i
+v
+o
+r
+P
+
+g
+n
+o
+d
+n
+a
+h
+S
+
+f
+o
+
+a
+e
+r
+A
+l
+a
+r
+u
+R
+
+.
+
+2
+
+e
+l
+b
+a
+T
+
+d
+r
+i
+B
+
+s
+e
+c
+e
+f
+
+)
+5
+(
+
+0
+0
+1
+
+0
+8
+
+0
+6
+
+0
+6
+
+0
+6
+
+0
+6
+
+0
+8
+
+0
+8
+
+0
+8
+
+0
+4
+
+0
+2
+
+0
+4
+
+0
+2
+
+0
+2
+
+0
+
+0
+
+n
+a
+m
+u
+H
+
+e
+t
+s
+a
+w
+
+)
+3
+(
+
+7
+6
+
+0
+0
+1
+
+0
+0
+1
+
+3
+3
+
+3
+3
+
+7
+6
+
+7
+6
+
+7
+6
+
+0
+0
+1
+
+0
+
+0
+
+3
+3
+
+0
+
+0
+
+0
+
+0
+
+c
+i
+t
+o
+i
+b
+i
+t
+n
+A
+
+X
+T
+C
+
+T
+X
+S
+
+C
+F
+F
+
+F
+O
+F
+
+P
+Z
+T
+
+P
+I
+
+C
+
+E
+T
+
+N
+E
+G
+
+C
+M
+A
+
+L
+C
+
+F
+
+Z
+A
+C
+
+X
+O
+F
+
+K
+M
+A
+
+M
+E
+M
+
+C
+G
+T
+
+5
+
+;
+e
+t
+a
+n
+a
+l
+u
+v
+a
+l
+c
+/
+n
+i
+l
+l
+i
+c
+i
+x
+o
+m
+a
+
+,
+
+C
+M
+A
+
+;
+n
+i
+c
+a
+x
+o
+ﬂ
+o
+r
+p
+i
+c
+
+,
+
+P
+I
+C
+
+;
+
+m
+a
+t
+c
+a
+b
+o
+z
+a
+t
+/
+n
+i
+l
+l
+i
+c
+a
+r
+e
+p
+i
+p
+
+,
+
+P
+Z
+T
+
+;
+l
+o
+c
+i
+n
+e
+f
+r
+o
+ﬂ
+
+,
+
+C
+F
+F
+
+;
+n
+i
+c
+y
+m
+o
+f
+s
+o
+f
+
+,
+
+F
+O
+F
+
+;
+e
+l
+o
+z
+a
+x
+o
+h
+t
+e
+m
+a
+f
+l
+u
+s
+/
+
+m
+
+i
+r
+p
+o
+h
+t
+e
+m
+
+i
+r
+t
+
+,
+
+T
+X
+S
+
+;
+e
+n
+i
+l
+c
+y
+c
+a
+r
+t
+e
+t
+
+,
+
+E
+T
+
+;
+e
+m
+i
+x
+a
+t
+o
+f
+e
+c
+
+,
+
+X
+T
+C
+
+.
+e
+n
+i
+l
+c
+y
+c
+e
+g
+i
+t
+
+,
+
+C
+G
+T
+
+;
+
+m
+e
+n
+e
+p
+o
+r
+e
+m
+
+,
+
+M
+E
+M
+
+;
+n
+i
+c
+a
+k
+i
+m
+a
+
+,
+
+K
+M
+A
+
+;
+n
+i
+t
+i
+x
+o
+f
+e
+c
+
+,
+
+X
+O
+F
+
+;
+e
+m
+i
+d
+i
+z
+a
+t
+f
+e
+c
+
+,
+
+Z
+A
+C
+
+;
+n
+i
+t
+s
+i
+l
+o
+c
+
+,
+
+L
+C
+
+;
+n
+i
+o
+t
+n
+a
+r
+u
+f
+o
+r
+t
+i
+n
+
+,
+
+F
+
+;
+n
+i
+c
+i
+m
+a
+t
+n
+e
+g
+
+,
+
+N
+E
+G
+
+Downloaded by Queen Mary & Westfield Coll from www.liebertpub.com at 04/04/19. For personal use only. 6
+
+ZOU ET AL.
+
+A total of 57 STs were detected, including 2 new STs
+(Supplementary Fig. S1). The CTX-M-9 producers were
+distributed among 43 ST types (n = 64), whereas the CTX-
+M-1-producers were distributed among 18 ST types (n = 24).
+The most prevalent STs were ST10 (n = 10), ST48 (n = 7),
+ST3489 (n = 4), ST34 (n = 3), and ST1638 (n = 3). ST10 was
+the most common ST overall, and was found in pig feces,
+wastewater, drinking water, river water, and river sediment.
+Five isolates from wild birds belonged to ST216, ST542,
+ST1011, ST2807, and ST4633. In addition, two isolates
+(both belonging to ST2614) from pig waste belonged to
+phylogroup B2, whereas three isolates (belonging to ST38,
+ST174, and ST2309, respectively) from river sediment,
+wastewater, and drinking water, respectively, belonged to
+phylogroup D. The predominant STs were distributed over
+several villages; ST10 isolates were found in villages D
+(n = 4), L (n = 3), H (n = 1), I (n = 1), and J (n = 1); ST48
+isolates were found in villages C (n = 3), G (n = 2), F (n = 1),
+and H (n = 1); and ST3489-isolates were distributed in vil-
+lages B (n = 3) and G (n = 1). Isolates sharing STs were
+found in villages A, B, C, D, G, J, and L (Supplementary
+Fig. S2).
+
+The PFGE analysis revealed a high clonal diversity among
+the isolates, nevertheless, genetically related isolates could
+be determined based on the PFGE dendrogram (Supple-
+mentary Fig. S3). Twenty-three groups (consisting of two or
+more isolates) of related isolates were identiﬁed, with 18 of
+
+Table 3. Based on Genetic Relatedness
+as Determined by the Pulsed-Field Gel
+
+Electrophoresis Analysis (‡80% Homogeneity),
+23 Groups of Genetically Related Isolates were
+Determined, 18 Out of Which (VI–XXIII) Consisted
+
+of Two or More Isolates Originating
+
+from Different Environmental Sources
+
+Group
+
+Isolates (n)
+
+Isolation source
+
+Source village
+
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+XI
+XII
+XIII
+XIV
+XV
+XVI
+XVII
+XVIII
+IX
+XX
+XXI
+XXII
+XXIII
+
+2
+2
+2
+3
+2
+3
+3
+2
+2
+2
+6
+4
+4
+8
+6
+3
+3
+2
+3
+2
+2
+2
+2
+
+E, I
+B, F
+B
+G, J
+B
+E
+A, D, L
+A, L
+E, I
+A, J
+
+WW
+RS
+RW
+F
+F
+RW, RS
+BF, DW, WW
+RS, WW
+DW, F
+HW, RW
+DW, F, RW, WW A, B, D, H
+BF, RS, S, WW
+BF, HW, RW
+BF, F, RS, RW
+F, RW, WW
+DW, F, RW
+RS, RW, S
+OS, RW
+DW, F, WW
+DW, F
+DW, F
+F, RS
+DW, RS
+
+A, C, I, L
+A, C, K
+A, B, C, I
+D, G, H, I, J
+A, C, J
+A, D
+C, D
+B, C, D
+B, D
+E, G
+D, G
+B, L
+
+BF, bird feces; DW, drinking water; F, pig feces; HW, human
+waste; OS, outlet sediment; RS, river sediment; RW, river water; S,
+soil; WW, wastewater.
+
+the groups containing isolates originating from different
+environmental sources (Table 3). From all the villages, iso-
+lates genetically related to isolates from other villages could
+be determined.
+
+Discussion
+
+The highest detection rate of CTX-M-producing E. coli
+among all sample types was among pig fecal samples
+(73%), indicating that pig feces can be a source of wider
+dissemination of CTX-M-producing E. coli. A previous
+study on CTX-M-producing E. coli
+isolated from fecal
+samples in 21 pig farms in China reported a prevalence of
+43%.29 The detection rate of CTX-M-producing E. coli in
+river water in Taian city, China, was 53% in a previous
+study.30 Compared with these studies, the prevalence of
+CTX-M-producing E. coli in pig feces and river water (64%)
+was higher in the study area of this study. In the rural area of
+Laiwu, in the Shandong province, China, the prevalence of
+CTX-M-producing E. coli in well water has been reported as
+23%,31 which was similar to the results in this study. In rural
+areas, well water is essential in daily life for activities such
+as tooth brushing, bathing, and as drinking water for humans
+(usually after boiling) and pigs. Such activities could po-
+tentially increase the risk of dissemination of CTX-M-
+producing E. coli from the environment to humans and
+animals. Notably, CTX-M-producing E. coli was also de-
+tected in vegetables (4.4%). The vegetable samples were
+collected from edible parts that can be eaten fresh without
+preparation, such as cucumbers and pepper. Through
+vegetables, humans and animals can be exposed to CTX-M-
+producing E. coli in daily life. Three isolates of CTX-M-
+producing E. coli (50%) originated from six human waste
+samples, and ﬁve isolates of CTX-M-producing E. coli
+originated from three samples of bird feces (two samples
+were isolated with four different CTX-M-producing E. coli).
+Results similar to ours have been reported in a study in
+Sweden in which CTX-M-producing E. coli could be iso-
+lated from 47% of fecal samples from wild birds.32 Birds
+often live close to human settings and are exposed to our
+bacteria and antibiotic residues through, for example, garbage
+dumps, river, and agricultural areas. Thus, wild birds may be
+an important source and facilitator of ARB transmission.
+
+Notably, all of the CTX-M-producing E. coli isolated in
+this study (n = 88) displayed the multidrug resistance phe-
+notype, with rates of resistance to tetracycline, trimetho-
+prim–sulfamethoxazole, and ﬂorfenicol being particularly
+high (94%, 82%, and 81% respectively). blaCTX-M genes
+may also be selected by environmental exposure to non-b-
+lactam antibiotics, either by being physically linked on the
+same plasmid as other ARGs or by being carried by ARB
+to other antibiotics.33 A previous study in the
+resistant
+sampling area, conducted during the same period, showed
+that the various environmental compartments had levels of
+antibiotic contamination that may pose a risk for selection of
+ARB and ARGs, further emphasizing the risk of dissemi-
+nation of CTX-M-producing E. coli in the local area.34
+
+CTX-M enzymes are the most widely disseminated
+ESBLs worldwide, and among clinical isolates, CTX-M-14
+is the most common.35–37 CTX-M-65 has been frequently
+reported in E. coli isolated from humans and food-producing
+animals in China.38,39 In this study, 20 isolates carrying the
+
+Downloaded by Queen Mary & Westfield Coll from www.liebertpub.com at 04/04/19. For personal use only. INDICATOR BACTERIA, DISSEMINATION MECHANISMS
+
+7
+
+blaCTX-M-65 gene were detected in samples from pig feces,
+wastewater, soil, drinking water, and river water, implying
+that blaCTX-M-65 has been disseminated in pigs as well as in
+various environmental matrices inside and outside pig farms.
+blaCTX-M-55 is not frequently reported in environmental
+isolates from China, nevertheless, the gene was detected in
+this study among isolates belonging to six different STs
+(ST88, ST206, ST1844, ST2526, ST2973, and ST5020),
+showing that blaCTX-M-55 has disseminated among multiple
+E. coli lineages in this region.
+
+ST10 has been described from different sources world-
+wide, including river water, wastewater, pigs, chicken, and
+migratory birds.35,40–42 One study reported on the zoonotic
+potential of avian pathogenic isolates of E. coli belonging to
+the ST10 clonal complex (includes ST10 and ST48), which
+were associated with poultry and human cases of urinary
+tract infections and sepsis.43 In this study, one isolate from
+wild birds belonged to ST1011. E. coli belonging to ST1011
+have previously been reported both as extraintestinal path-
+ogenic E. coli isolated from humans and as avian pathogenic
+E. coli isolated from birds, suggesting the zoonotic potential
+through wild birds of CTX-M-producing E. coli.44 Isolates
+belonging to phylogroup B2 (ST2614) and phylogroup D
+(ST38, ST174, and ST2309) were also detected in this study.
+E. coli of phylogroups B2 and D can possess toxin functions
+and are commonly causative agents of urinary tract infec-
+tions.45 The presence of E. coli strains capable of causing
+urinary tract infections in the environment increases the
+exposure risk for humans.
+
+CTX-M genes are a form of environmental pollution re-
+sulting from anthropogenic activities, either by direct ex-
+posure of the environment to ARGs and ARB through waste
+or
+through emergence through environmental exposure
+to antibiotics of subtherapeutic levels.46 Thus, CTX-M-
+producing E. coli is potentially of use as an indicator to
+track contamination sources and dissemination of ARB and
+ARGs. In this study, genetic relatedness of isolates was
+determined by using the PFGE dendrogram (Supplementary
+Fig. S2), and putative dissemination routes were explored
+based on this phylogeny. The results showed that from all
+the sampled villages, isolates could be determined that were
+genetically related to isolates from other villages, indicating
+dissemination in the local geographical region (Table 3).
+Furthermore, 18 groups consisting of genetically related
+isolates of CTX-M-producing E. coli from different envi-
+ronmental sources were identiﬁed (Table 3). A large number
+of isolates with close relatives isolated from different en-
+vironmental sources were identiﬁed, suggesting a wide-
+spread dissemination of CTX-M-producing E. coli between
+environmental matrices in the local area. Pig feces and en-
+vironmental sources such as bird feces, drinking water, river
+sediment, river water, and wastewater had a particularly
+high number of isolates, which could be determined to have
+close relatives in other environmental matrices; from all
+these sources, isolates genetically related to isolates from
+each other of the aforementioned sources were identiﬁed
+(excepting that no isolates from bird feces was found that
+were closely related to any isolate from drinking water).
+These results suggest that these environmental matrices may
+serve as nodes through which dissemination of ARGs and
+ARB can occur. Although it is likely that transmission can
+occur in any direction from any of these environmental
+
+matrices, the methods employed in this study cannot es-
+tablish the direction of transmission. Nevertheless,
+is
+possible to speculate as to the likely routes and mechanisms
+of transmission (Supplementary Fig. S4).
+
+it
+
+Anthropogenic activities might modulate the environ-
+mental resistance gene pool and promote antibiotic resis-
+tance dissemination.46 Pig farms are often ﬂush cleaned with
+water, and pig fecal material can be discharged into the
+environment through the run-off water from the cleaning.47
+In addition, owing to the lack of management measures for
+livestock manure, the animal manure was directly piled up
+by the river in the study area. During rain, wastewater from
+the manure piles can be leached directly into the river, in-
+troducing large number of bacteria carrying different types of
+ARGs into the river water.48 For example, a high degree of
+homology was observed between isolates EC6 (river water,
+village A), EC8 (river water, village A), and EC41 (feces,
+village C). These results indicated that ARB from animal
+feces can spread not only to environmental matrices in the
+surrounding aquatic environment in the same village but also
+may spread through the aquatic route across villages.
+
+Rivers can likely function as vectors for ARGs and ARB
+transmission, either allowing the dissemination along the
+river to villages along its length, or to drinking water (well
+water) through leaching into groundwater. Previous studies
+have shown that environmental factors such as river direc-
+tion and aerosols can affect the dissemination of ESBL
+genes.49–52 Another study found that presence of CTX-M-
+producing E. coli in river water was found to be higher in
+regions with large number of animals being raised than in
+regions with lower number of animals being raised.53 In this
+study, genetically homologous isolates from river water
+were also observed in drinking water and wastewater of
+different villages, suggesting the possibility of dissemination
+through the river to other aquatic environments in the local
+area. For example, EC1 (drinking water, village A), EC22
+(drinking water, village B), and EC76 (river water, village
+H) showed high homology in the PFGE analysis, indicating
+that dissemination may have occurred between river water
+and drinking water (well water) between different villages.
+ARGs and ARB can also disseminate from river water to
+soil. For example, CTX-M-producing E. coli isolated from
+soil shared high homology with isolates collected from
+aquatic environments, which indicates that irrigation may
+facilitate dissemination of ARB between different environ-
+mental matrices (Supplementary Fig. S5). ARGs may mi-
+grate to deeper soil layers and contaminate groundwater
+through vertical transport.14 Animal manure is often applied
+to soil as fertilizer, thus contaminating the soil with ARB
+present in the animal manure.54 However, in this study, no
+dissemination of CTX-M-producing E. coli from pig feces
+to soil was indicated by the homology analysis. A possible
+explanation for this is that the soil and pig manure samples
+were collected during autumn, whereas the ﬁelds are gen-
+erally fertilized during spring. A failure to observe homol-
+ogous isolates in the two sample types could indicate either
+that the microbiota of the pigs had changed or that con-
+taminating soil through animal manure only gives rise to a
+transient presence of the ARB. A previous study investi-
+gated ARGs in soils from areas along the Pearl River irri-
+gated with wastewater, and concluded that wastewater was
+the primary source of antibiotics in the soil.55
+
+Downloaded by Queen Mary & Westfield Coll from www.liebertpub.com at 04/04/19. For personal use only. 8
+
+ZOU ET AL.
+
+Wild birds have been hypothesized to be reservoirs for
+ARB, and facilitators of antibiotic resistance dissemina-
+tion.35,56 In this study, CTX-M-producing E. coli isolated
+from wild bird feces were found to be related to isolates
+from animal waste, human waste, aquatic environments, and
+the soil, indicating that wild birds may be responsible for
+disseminating CTX-M-producing E. coli to these environ-
+mental matrices. Furthermore, isolates genetically related to
+isolates from wild birds were observed in different villages.
+For example, EC18, isolated from bird feces in village A,
+was closely related to EC36 (wastewater, village C) and
+EC87 (river sediment, village I). Village I is remotely lo-
+cated from both villages A and C, and all three villages lack
+a connection through river (Fig. 1). A possibility is that
+isolates may have spread between villages A, C, and I
+through birds;
+it had been previously shown that birds
+can carry CTX-M-producing E. coli from long distances
+while migrating and that an extensive dissemination be-
+tween individual birds can allow ARB to persist in dense
+bird populations.57 In addition, the isolate EC17 carrying
+blaCTX-M-14 gene from wild bird showed a signiﬁcant ge-
+netic homology to seven isolates carrying blaCTX-M-14 gene
+from different matrices (Supplementary Fig. S3). This indi-
+cates that both plasmid and clonal expansion may be impor-
+tant modes of dissemination for CTX-M genes in the area.
+
+Conclusion
+
+In this study, CTX-M-producing E. coli were detected in
+including drinking
+all sampled environmental matrices,
+water and vegetables. The prevalence of CTX-M-producing
+E. coli was relatively higher in pig feces and river water than
+shown in previous studies. Through drinking water and
+vegetables from edible parts, humans and animals can be
+exposed to CTX-M-producing E. coli in daily life. Positive
+samples were distributed over several villages. Dissemina-
+tion of CTX-M-producing E. coli to different environmental
+matrices was evaluated by analyzing the genetic relatedness
+of isolates from different environmental sources, and puta-
+tive transmission routes through bird feces, pig feces, drink-
+ing water, river sediment, river water, and wastewater were
+hypothesized. Dissemination through these routes is likely
+facilitated by anthropogenic activities and environmental
+factors. Wild birds as potential vectors for dissemination of
+CTX-M-producing E. coli have the capacity to spread ARB
+across long distances. The PFGE analysis indicated that both
+plasmid and clonal expansion may be important modes of
+dissemination for CTX-M genes in the area. Regional dis-
+semination between different environmental matrices of
+CTX-M-producing E. coli increases the exposure risk of
+humans and animals in the area.
+
+Acknowledgments
+
+The authors thank the IMPACT Consortium for its efforts
+in this project. This project was supported by the National
+Natural Science Foundation of China (Grant Nos. 41771499,
+81361138021), the Fundamental Research Funds of Shan-
+dong University (Grant No. 2018JC102), the Swedish Re-
+search Council, Public Health Agency of Sweden (Grant
+No. D0879801), and the Swedish Research Council Formas
+(Grant No. 2016-00640).
+
+Disclosure Statement
+
+No competing ﬁnancial interests exist.
+
+Supplementary Material
+
+Supplementary Figure S1
+Supplementary Figure S2
+Supplementary Figure S3
+Supplementary Figure S4
+Supplementary Table S1
+
+References
+
+1. O’Neill, J. 2014. Antimicrobial Resistance: Tackling a
+Crisis for the Health and Wealth of Nations. Review on
+Antimicrobial Resistance 2014, UK. http://amr-review.org.
+2. Robinson, T.P., D.P. Bu, J. Carrique-Mas, E.M. Fevre, M.
+Gilbert, D. Grace, S.I. Hay, J. Jiwakanon, M. Kakkar, S.
+Kariuki, R. Laxminarayan, J. Lubroth, U. Magnusson,
+P. Thi Ngoc, T.P. Van Boeckel, and M.E.J. Woolhouse.
+2016. Antibiotic resistance is the quintessential One Health
+issue. Trans. R. Soc. Trop. Med. Hyg. 110:377–380.
+
+3. Huijbers, P.M.C., E.A.M. Graat, A. van Hoek, and C. Veen-
+man. 2016. Transmission dynamics of extended-spectrum
+beta-lactamase and AmpC beta-lactamase-producing Escher-
+ichia coli in a broiler ﬂock without antibiotic use. Prev. Vet.
+Med. 131:12–19.
+
+4. Leonard, A.F.C., L. Zhang, A.J. Balfour, R. Garside, P.M.
+Hawkey, A.K. Murray, O.C. Ukoumunne, and W.H. Gaze.
+2018. Exposure to and colonisation by antibiotic-resistant
+E. coli in UK coastal water users: environmental surveil-
+lance, exposure assessment, and epidemiological study
+(Beach Bum Survey). Environ. Int. 114:326–333.
+
+5. Larsson, D.G.J., A. Andremont, J. Bengtsson-Palme, K.K.
+Brandt, A.M. de Roda Husman, P. Fagerstedt, J. Fick, C.F.
+Flach, W.H. Gaze, M. Kuroda, K. Kvint, R. Laxminarayan,
+C.M. Manaia, K.M. Nielsen, L. Plant, M.C. Ploy, C. Se-
+govia, P. Simonet, K. Smalla, J. Snape, E. Topp, A.J. van
+Hengel, D.W. Verner-Jeffreys, M.P.J. Virta, E.M. Welling-
+ton, and A.S. Wernersson. 2018. Critical knowledge gaps
+and research needs related to the environmental dimensions
+of antibiotic resistance. Environ. Int. 117:132–138.
+
+6. Daoud, Z., J. Farah, E.S. Sokhn, K.E. Kfoury, E. Dahdouh,
+K. Masri, C. Aﬁf, R.M. Abdel-Massih, and G.M. Matar.
+2018. Multidrug-resistant Enterobacteriaceae in lebanese
+hospital wastewater: Implication in the one health concept.
+Microb. Drug. Resist. 24:166–174.
+
+7. Purohit, M.R., S. Chandran, H. Shah, V. Diwan, A.J.
+Tamhankaret, and C. Sta˚lsby Lundborg. 2017. Antibiotic
+Resistance in an Indian Rural Community: A ‘‘One-Health’’
+Observational Study on Commensal Coliform from Hu-
+mans, Animals, and Water. Int. J. Environ. Res. Public
+Health 14:386.
+
+8. Khan, F.A., B. Hellmark, R. Ehricht, B. So¨derquist, and J.
+Jass. 2018. Related carbapenemase-producing Klebsiella,
+isolates detected in both a hospital and associated aquatic
+environment in Sweden. Eur. J. Clin. Microbiol. Infect. Dis.
+37:2241–2251.
+
+9. Runcharoen, C., K.E. Raven, S. Reuter, T. Kallonen, S.
+Paksanont, J. Thammachote, S. Anun, B. Blane, J. Parkhill,
+S.J. Peacock, and N. Chantratita. 2017. Whole genome
+sequencing of ESBL-producing Escherichia coli isolated
+from patients, farm waste and canals in Thailand. Genome.
+Med. 9:81.
+
+Downloaded by Queen Mary & Westfield Coll from www.liebertpub.com at 04/04/19. For personal use only. INDICATOR BACTERIA, DISSEMINATION MECHANISMS
+
+9
+
+10. Zurﬂuh, K., K. Kieffer, L. Poirel, P. Nordmann, and R.
+Stephan. 2016. Features of the mcr-1 cassette related to
+colistin resistance. Antimicrob. Agents Chemother. 60:
+6438–6439.
+
+11. Knothe, H., P. Shah, V. Krcmery, M. Antal, and S. Mit-
+suhashi. 1983. Transferable resistance to cefotaxime, ce-
+foxitin, cefamandole and cefuroxime in clinical isolates of
+Klebsiella pneumoniae and serratia marcescens. Infection
+11:315–317.
+
+12. Woerther, P.L., C. Burdet, E. Chachaty, and A. Andremont.
+2013. Trends in human fecal carriage of extended-spectrum
+b-lactamases in the community: toward the globalization of
+ctx-m. Clin. Microbiol. Rev. 26:744–758.
+
+13. Willemsen, I., S. Oomeet, C. Verhulst, A. Pettersson, K.
+Verduin, and J. Kluytmansal. 2015. Trends in extended
+spectrum beta-lactamase (ESBL) producing Enterobacteri-
+aceae and ESBL genes in a Dutch teaching hospital, mea-
+sured in 5 yearly point prevalence surveys (2010-2014).
+PLoS One. 10:e0141765.
+
+14. Huang, X., C. Liu, K. Li, F. Liu, D. Liao, L. Liu, G. Zhu,
+and J. Liao. 2013. Occurrence and distribution of veterinary
+antibiotics and tetracycline resistance genes in farmland
+soils around swine feedlots in Fujian Province, China.
+Environ. Sci. Pollut. Res. Int. 20:9066–9074.
+
+15. Haque, A., A. Yoshizumi, T. Sagaet, Y. Ishii, and Y.
+Tateda. 2014. ESBL-producing Enterobacteriaceae in en-
+vironmental water in Dhaka, Bangladesh. J. Infect. Che-
+mother. 20:735–737.
+
+16. Yamashita, N., Y. Katakawa, and H. Tanaka. 2017. Oc-
+currence of antimicrobial resistance bacteria in the Yodo
+River basin, Japan and determination of beta-lactamases
+producing bacteria. Ecotoxicol. Environ. Saf. 143:38–45.
+
+17. Sun, P., Z. Bi, M. Nilsson, B. Zheng, B. Berglund, C.
+Sta˚lsby Lundborg, S. Bo¨rjesson, X. Li, B. Chen, H. Yin,
+and L.E. Nilsson. 2017. Occurrence of blakpc-2, blactx-m,
+and mcr-1 in enterobacteriaceae from well water in rural
+china. Antimicrob. Agents Chemother. 61:02569–16.
+
+18. Lamba, M., and S.Z. Ahammad. 2017. Sewage treatment
+efﬂuents in Delhi: a key contributor of beta-lactam resistant
+bacteria and genes to the environment. Chemosphere. 188:
+249–256.
+
+19. Brower, C.H., S. Mandal, S. Hayer, M. Sran, A. Zehra, S.J.
+Patel, R. Kaur, L. Chatterjee, S. Mishra, B.R. Das, P. Singh,
+R. Singh, J.P.S. Gill, and R. Laxminarayan. 2017. The
+prevalence of extended-spectrum beta-lactamase-producing
+multidrug-resistant Escherichia coli in poultry chickens and
+variation according to farming practices in Punjab, India.
+Environ. Health. Perspect. 125:077015.
+
+20. Kraemer, J.G., J. Pires, M. Kueffer, E. Semaani, A. End-
+imiani, M. Hilty, and A. Oppliger. 2017. Prevalence of
+extended-spectrum beta-lactamase-producing Enterobac-
+teriaceae and Methicillin-Resistant Staphylococcus aureus
+in pig farms in Switzerland. Sci. Total Environ. 603–604:
+401–405.
+
+21. Guenther, S., C. Ewers, and L.H. Wieler. 2011. Extended-
+spectrum beta-lactamases producing E. coli in wildlife, yet
+another form of environmental pollution? Front. Microbiol.
+2:246.
+
+22. Sun, Q., Y. Wang, A. Hulth, Y. Xiao, L.E. Nilsson, X. Li,
+Z. Bi, Y. Liu, H. Yin, Y. Luo, M. Nilsson, C. Sun, Y. Zhu,
+B. Zheng, B. Chen, P. Sun, L. Ding, X. Xia, J. Ottosson, S.
+Lo¨fmarkm, O.J. Dyar, S. Bo¨rjesson, and C. Sta˚lsby Lund-
+borg. 2018. Study protocol for One Health data collections,
+analyses and intervention of the Sino-Swedish integrated
+
+multisectoral partnership for antibiotic resistance contain-
+ment (IMPACT). BMJ. Open. 8:e017832.
+
+23. Monstein, H.J., A. O¨ stholm-Balkhed, M.V. Nilsson, M.
+Nilsson, K. Dornbusch, and L.E. Nilsson. 2010. Multiplex
+PCR ampliﬁcation assay for the detection of bla shv, bla
+tem and bla ctx-m genes in Enterobacteriaceae. APMIS.
+115:1400–1408.
+
+24. Xu, L., V. Ensor, S. Gossain, K. Nye, and P. Hawkey. 2005.
+Rapid and simple detection of blactx-m genes by multiplex
+PCR assay. J. Med. Microbiol. 54:1183.
+
+25. Magiorakos, A.P., A. Srinivasan, R.B. Carey, Y. Carmeli,
+M.E. Falagas, and C.G. Giske, S. Harbarth, J.F. Hindler, G.
+Kahlmeter, B. Olsson-Liljequist, D.L. Paterson, L.B. Rice,
+J. Stelling, M.J. Struelens, A. Vatopoulos, J.T. Weber, and
+D.L. Monnet. 2012. Multidrug-resistant, extensively drug-
+resistant and pandrug-resistant bacteria: an international
+expert proposal for interim standard deﬁnitions for acquired
+resistance. Clin. Microbiol. Infect. 18:268–281.
+
+26. Wirth, T., D. Falush, R. Lan, F. Colles, P. Mensa, L.H.
+Wieler, H. Karch, P.R. Reeves, M.C. Maiden, H. Ochman,
+and M. Achtman. 2006. Sex and virulence in Escherichia
+coli: an evolutionary perspective. Mol. Microbiol. 60:
+1136–1151.
+
+27. Versalovic, J., T. Koeuth, and J.R. Lupski. 1991. Dis-
+tribution of repetitive DNA sequences in eubacteria and
+application to ﬁngerprinting of bacterial genomes. Nucleic.
+Acids. Res. 19:6823–6831.
+
+28. Zheng, B., J. Zhang, J. Ji, Y. Fang, P. Shen, C. Ying, J. Lv,
+Y. Xiao, and L. Li, 2015. Emergence of Raoultella or-
+nithinolytica coproducing IMP-4 and KPC-2 carbapene-
+mases in China. Antimicrob. Agents Chemother. 59:7086–
+7089.
+
+29. Xu, G., W. An, H. Wang, and X. Zhang. 2015. Prevalence
+and characteristics of extended-spectrum beta-lactamase
+genes in Escherichia coli isolated from piglets with post-
+weaning diarrhea in Heilongjiang province, China. Front.
+Microbiol. 6:1103.
+
+30. Li, S., W. Song, Y. Zhou, Y. Tang, Y. Gao, and Z.
+Miao. 2015. Spread of extended-spectrum beta-lactamase-
+producing Escherichia coli from a swine farm to the re-
+ceiving river. Environ. Sci. Pollut. Res. Int. 22:13033–13037.
+31. Zhang, H., Y. Gao, and W. Chang. 2016. Comparison of
+extended-spectrum beta-lactamase-producing Escherichia
+coli
+latrine
+wastewater in a rural area of China. Biomed. Res. Int. 2016:
+4343564.
+
+isolates from drinking well water and pit
+
+32. Hessman, J., C. Atterby, B. Olsen, and J.D. Jarhult. 2018.
+High prevalence and temporal variation of extended Spec-
+trum beta-lactamase-producing bacteria in Urban Swedish
+Mallards. Microb. Drug Resist. 24:822–829.
+
+33. Zurﬂuh, K., H. Hachler, N. Nuesch-Inderbinen, and R.
+Stephan. 2013. Characteristics of extended-spectrum beta-
+lactamase- and carbapenemase-producing Enterobacteriaceae
+isolates from rivers and lakes in Switzerland. Appl. Environ.
+Microb. 79:3021–3026.
+
+34. Hanna, N., P. Sun, Q. Sun, X. Li, X. Yang, X. Ji, H. Zou, J.
+Ottoson, L.E. Nilsson, B. Berglund, O. Dyar, A.J. Tam-
+hankar, and C. Sta˚lsby Lundborg. 2018. Presence of anti-
+biotic residues in various environmental compartments of
+Shandong province in eastern China: its potential for re-
+sistance development and ecological and human risk. En-
+viron. Int. 114:131–142.
+
+35. Mohsin, M., S. Raza, K. Schauﬂer, N. Roschanski, F.
+Sarwar, T. Semmler, P. Schierack, and S. Guenther. 2017.
+
+Downloaded by Queen Mary & Westfield Coll from www.liebertpub.com at 04/04/19. For personal use only. 10
+
+ZOU ET AL.
+
+High prevalence of CTX-M-15-type ESBL-producing
+E. coli from migratory avian species in Pakistan. Front.
+Microbiol. 8:2476.
+
+36. Rao, L., L. Lv, Z. Zeng, S. Chen, D. He, X. Chen, C. Wu,
+Y. Wang, T. Yang, P. Wu, Y. Liu, and L.H. Liu. 2015.
+Increasing prevalence of extended-spectrum cephalosporin-
+resistant Escherichia coli in food animals and the diversity
+of CTX-M genotypes during 2003-2012. Vet. Microbiol.
+172:534–541.
+
+37. Bevan, E.R., A.M. Jones, and P.M. Hawkey. 2017. Global
+epidemiology of CTX-M beta-lactamases: temporal and
+geographical shifts in genotype. J. Antimicrobial. Che-
+mother. 72:2145–2155.
+
+38. Wang, J., Z.L. Zeng, X.Y. Huang, Z.B. Ma, Z.W. Guo, L.C.
+Lv, Y.B. Xia, L. Zeng, Q.H. Song, and J.H. Liu. 2018.
+Evolution and comparative genomics of F33:A:B plasmids
+carrying blaCTX-M-55 or blaCTX-M-65 in Escherichia
+coli and Klebsiella pneumoniae isolated from animals, food
+products, and humans in China. Msphere. 3:e00137–18.
+
+39. Yang, X., W. Liu, Y. Liu, J. Wang, L. Lv, X. Chen, D. He,
+T. Yang, J. Hou, Y. Tan, L. Xing, Z. Zeng, and J.H. Liu.
+2014. F33: A-: B-, IncHI2/ST3, and IncI1/ST71 plasmids
+drive the dissemination of fosA3 and blaCTX-M-55/-14/
+-65 in Escherichia coli from chickens in China. Front.
+Microbiol. 5:688.
+
+40. Jorgensen, S.B., A.V. Soraas, L.S. Arnesen, T.M. Leegaard,
+A. Sundsfjord, and P.A. Jenum. 2017. A comparison of
+extended spectrum beta-lactamase producing Escherichia
+coli from clinical, recreational water and wastewater sam-
+ples associated in time and location. PLoS One. 12:
+e0186576.
+
+41. Moremi, N., E.V. Manda, L. Falgenhauer, H. Ghosh, C.
+Imirzalioglu, M. Matee, T. Chakraborty, and S.E. Mshana.
+2016. Predominance of CTX-M-15 among ESBL producers
+from environment and ﬁsh gut from the shores of lake
+victoria in Mwanza, Tanzania. Front. Microbiol. 7:1862.
+
+42. Nirupama, K.R., O.R. Vk, B.S. Pruthvishree, D.K. Sinha,
+M.S. Murugan, N. Krishnaswamy, and B.R. Singh. 2018.
+Molecular characterisation of blaoxa-48 carbapenemase-,
+extended-spectrum b-lactamase- and shiga toxin-producing
+Escherichia coli isolated from farm piglets in India. J.
+Glob. Antimicrob. Resist. 13:201–205.
+
+43. Giufre, M., C. Graziani, M. Accogli, I. Luzzi, L. Busani,
+and M. Cerquetti. 2012. Escherichia coli of human and
+avian origin: detection of clonal groups associated with
+ﬂuoroquinolone and multidrug resistance in Italy. J. Anti-
+microb. Chemother. 67:860–867.
+
+44. Maluta, R.P., C.M. Logue, M.R. Casas, T. Meng, E.A.
+Guastalli, T.C. Rojas, A.C. Montelli, T. Sadatsune, M. de
+Carvalho Ramos, L.K. Nolan, and W.D. da Silveira. 2014.
+Overlapped sequence types (STs) and serogroups of avian
+pathogenic (APEC) and human extra-intestinal. PLoS One.
+9:e105016.
+
+45. Farajzadah, A., S. Aslani, Hosseini, S.A., M. Amin, H.
+Goodarzi, N. Jomehzadeh, R. Ranjbar, M. Moradzadeh, S.
+Azarpira, M. Moradi, and M. Hashemzadeh. 2018. Phylo-
+typing based virulence associated genes and drug suscep-
+tibility of Uropathogenic Escherichia coli in urinary tract
+infection patients. J. Microbiol. Biotechnol. [Epub ahead of
+print]; DOI: 10.4014/jmb.1801.01031.
+
+46. Taca˜o, M., A. Correia, and I. Henriques. 2012. Resistance
+to broad-spectrum antibiotics in aquatic systems: anthro-
+
+pogenic activities modulate the dissemination of bla(ctx-
+m)-like genes. Appl. Environ. Microbiol. 78:4134–4140.
+
+47. Zhang, Q.Q., G.G. Ying, C.G. Pan, Y.S. Liu, and J.L. Zhao.
+2015. Comprehensive evaluation of antibiotics emission
+and fate in the river basins of China: source analysis,
+multimedia modeling, and linkage to bacterial resistance.
+Environ. Sci. Technol. 49:6772–6782.
+
+48. Amos, G.C., P.M. Hawkey, W.H. Gaze, and E.M. Wel-
+lington. 2014. Waste water efﬂuent contributes to the dis-
+semination of CTX-M-15 in the natural environment. J.
+Antimicrobial. Chemother. 69:1785–1791.
+
+49. Song, Q., D. Zhang, H. Gao, and J. Wu. 2018. Salmonella
+species’ persistence and their high level of antimicrobial
+resistance in ﬂooded man-made rivers in China. Microb.
+Drug. Resist. 00:1–8.
+
+50. Dohmen, W., H. Schmitt, M. Bonten, and D. Heederik.
+2017. Air exposure as a possible route for ESBL in pig
+farmers. Environ. Res. 155:359–364.
+
+51. von Salviati, C., H. Laube, B. Guerra, U. Roesler, and
+A. Friese. 2015. Emission of ESBL/AmpC-producing
+Escherichia coli from pig fattening farms to surrounding
+areas. Vet. Microbiol. 175:77–84.
+
+52. Schmithausen, R.M., S.V. Schulze-Geisthoevel, F. Stem-
+mer, M. El-Jade, M. Reif, S. Hack, A. Meilaender, G.
+Montabauer, R. Fimmers, M. Parcina, A. Hoerauf, M. Ex-
+ner, B. Petersen, G. Bierbaum, and I. Bekeredjian-Ding.
+2015. Analysis of transmission of MRSA and ESBL-E
+among pigs and farm personnel. PLoS One.10:e0138173.
+
+53. Chen, P., C. Hung, P. Huang, J. Chen, I. Huang, W. Chen,
+Y. Chiou, W. Hung, J. Wang, and M. Cheng. 2016. Char-
+acteristics of CTX-M extended-spectrum beta-lactamase
+producing Escherichia coli strains isolated from multiple
+rivers in southern taiwan. Appl. Environ. Microbiol. 82:
+1889–1897.
+
+54. Cheng, W., J. Li, Y. Wu, L. Xu, C. Su, Y. Qian, Y.G. Zhu,
+and H. Chen. 2016. Behavior of antibiotics and antibiotic
+resistance genes in eco-agricultural system: a case study. J.
+Hazard. Mater. 304:18–25.
+
+55. Pan, M., and L.M. Chu. 2017. Occurrence of antibiotics and
+antibiotic resistance genes in soils from wastewater irriga-
+tion areas in the Pearl River Delta region, southern China.
+Sci. Total Environ. 624:145.
+
+56. Atterby, C., S. Borjesson, S. Ny, J.D. Jarhult, S. Byfors, and
+J. Bonnedahl. 2017. ESBL-producing Escherichia coli in
+Swedish gulls-a case of environmental pollution from hu-
+mans? PLoS. One. 12:e0190380.
+
+57. Sandegren, L., J. Stedt, U. Lustig, J. Bonnedahl, D.I. An-
+dersson, and J.D. Jarhult. 2018. Long-term carriage and
+rapid transmission of extended spectrum beta-lactamase-
+producing E. coli within a ﬂock of Mallards in the absence
+of antibiotic selection. Environ. Microbiol. Rep. 10:576–
+582.
+
+Address correspondence to:
+Xuewen Li, PhD
+Department of Environment and Health
+School of Public Health
+Shandong University
+Jinan 250012
+China
+
+E-mail: lxw@sdu.edu.cn
+
+Downloaded by Queen Mary & Westfield Coll from www.liebertpub.com at 04/04/19. For personal use only. 

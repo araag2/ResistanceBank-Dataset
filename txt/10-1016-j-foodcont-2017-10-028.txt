@@ -1,0 +1,2293 @@
+Accepted Manuscript
+
+Prevalence, genetic characterization and biofilm formation in 
+staphylococcus aureus
+China
+
+ isolated from raw chicken meat at retail level in Nanjing, 
+
+vitro
+
+ of 
+
+Huawei Wang, Huhu Wang, Lijiao Liang, Xinglian Xu, Guanghong Zhou
+
+PII:
+
+DOI:
+
+S0956-7135(17)30513-3
+
+10.1016/j.foodcont.2017.10.028
+
+Reference:
+
+JFCO 5837
+
+To appear in:
+
+Food Control
+
+Received Date:
+
+26 July 2017
+
+Revised Date:
+
+22 October 2017
+
+Accepted Date:
+
+23 October 2017
+
+Please cite this article as: Huawei Wang, Huhu Wang, Lijiao Liang, Xinglian Xu, Guanghong Zhou, 
+Prevalence, genetic characterization and biofilm formation in 
+isolated from raw chicken meat at retail level in Nanjing, China, 
+foodcont.2017.10.028
+
+vitro staphylococcus aureus
+ 
+
+ (2017), doi: 10.1016/j.
+
+Food Control
+
+ of 
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to 
+our customers we are providing this early version of the manuscript. The manuscript will undergo 
+copyediting, typesetting, and review of the resulting proof before it is published in its final form. 
+Please note that during the production process errors may be discovered which could affect the 
+content, and all legal disclaimers that apply to the journal pertain.
+
+Highlights
+Prevalence and population of S. aureus in different raw chicken meats determined.
+Cuts and unpacked products showed relatively higher contamination of S. aureus.
+High homogenous genotypes acquired among various products.
+The low toxic gene existence suggested low potentiality of SFP.
+Presence of strong biofilm formation and 48% MDR needed to be highly concerned.
+
+2
+
+ACCEPTED MANUSCRIPT1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+Prevalence, genetic characterization and biofilm formation in vitro of staphylococcus aureus 
+
+isolated from raw chicken meat at retail level in Nanjing, China
+
+Huawei Wanga, Huhu Wangb, Lijiao Lianga, Xinglian Xua*, Guanghong Zhoua,b
+
+a National Center of Meat Quality and Safety Control, Nanjing Agricultural University, Nanjing 210095, P.R. 
+
+China
+
+b Jiangsu Collaborative Innovation Center of Meat Production and Processing, Quality and Safety Control, 
+
+Nanjing Agricultural University, Nanjing 210095, P.R. China
+
+* Corresponding author. Tel.: +86 25 84395939; fax: +86 25 84395730.
+
+E-mail address: xlxu@njau.edu.cn (X. Xu).
+
+ABSTRACT
+
+Staphylococcus  aureus  is  widespread  in  animal-origin  food,  particularly  for  raw  chicken  meat 
+
+products because of the direct exposure and cross-contamination at the breeding, slaughtering and 
+
+processing, transporting, storing and marketing stages. This study aims to determine the S. aureus 
+
+prevalence, antibiotic resistance (routine animal used and nosocomial treatment antibiotics) and 
+
+genetic  characterization  (e.g.  frequently  used  molecular  typing  methods  for  Staphylococcus 
+
+aureus, enterotoxin series, panton valentine leukocidin, toxic shock syndrome) among various raw 
+
+chicken  meat  products.  In  total,  464  raw  chicken  meat  products  were  collected  in  a  variety  of 
+
+conditions:  from  local  supermarkets  and  wet  markets;  between  summer  and  winter;  of  cut  and 
+
+whole carcass product types; stored at both low temperature and room temperature; and in both 
+
+packed and unpacked states. The overall prevalence of S. aureus was 11.5%, contamination level 
+
+of  S.  aureus  among  different  products  types  maintained  102-104  CFU/g,  clonal  complex  (CC)5 
+
+was the most common CC in various products (74.2%); every sequence type (ST) corresponded to 
+
+7
+
+ACCEPTED MANUSCRIPT23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+a single spa type, remarkably, spa typing did not show further discrimination based on MLST. 
+
+Toxin genetic distribution showed the existence of diverse atypical enterotoxin genes, sea, pvl and 
+
+tst  as  classical  and  critical  toxin  factors  were  absent  in  these  isolates.  Whereas,  penicillin-  and 
+
+tetracycline-resistant  isolates  were  common  in  products  with  skin,  cuts,  particularly,  extremely 
+
+strong  biofilm  formation  isolates  were  found  in  products  with  skin.  Our  investigation  indicates 
+
+that  cutting  process  and  packing  were  the  key  factors  for  the  contamination  of  S.  aureus, 
+
+suggesting  a  possible  critical  control  points  in  processing  and  marketing  stages.  Though  a 
+
+relatively  low  toxin  genetic  existence  suggests  low  virulence,  routine  antibiotic  resistance  and 
+
+high biofilm formation existence raise the need for concern over possibility of human infection.
+
+Keywords:
+
+Staphylococcus  aureus;  Raw  chicken  meat;  Genetic  characterization;  antimicrobial  resistance; 
+
+biofilm formation
+
+1. Introduction
+
+Staphylococcus  aureus  is  a  human  and  animal  host-specific  pathogen  involved  in  multiple 
+
+diseases  (Visciano,  et  al.,  2014).  It  is  regarded  as  one  of  the  world’s  leading  causes  of  food 
+
+consumption-related  disease  outbreaks  (Schelin,  et  al.,  2011).  Enterotoxic  S.  aureus  produces 
+
+multiple heat-stable extracellular enterotoxins which may lead to pathogenicity in Ready-To-Eat 
+
+(RTE)  foods  and  Ready-To-Cook  (RTC)  foods,  common  symptoms  of  Staphylococcal  food 
+
+poisoning (SFP) are vomiting, diarrhea, abdominal cramping and exhaustion (Ertas Onmaz, et al., 
+
+2015;  Normanno,  et  al.,  2005;  Puah,  Chua,  &  Tan,  2016;  Song,  et  al.,  2015).  Currently, 
+
+documented  food-borne  outbreaks  of  S.  aureus  intoxications  are  mostly  associated  with 
+
+consumption of contaminated food (Fetsch, et al., 2014; Kerouanton, et al., 2007).
+
+8
+
+ACCEPTED MANUSCRIPT45
+
+46
+
+47
+
+48
+
+49
+
+50
+
+51
+
+52
+
+53
+
+Raw chicken meat products as the worldwide leaders in consumed RTC meat are common in 
+
+slaughterhouses of all sizes (Abdalrahman, Stanley, Wells, & Fakhr, 2015), because of the daily 
+
+massive consumption, these products constitute a high potentiality of SFP through contamination 
+
+in further processing. As such, raw chicken meat products are uniquely predisposed to becoming 
+
+vehicles for potential transmission of pathogenic S. aureus to humans via food chain. Moreover, 
+
+the  amount  of  pathogenic  S.  aureus  recovered  from  food  remnants  is  generally  recognized  to 
+
+require a presence greater than 105 CFU/g to cause SFP (Fetsch, et al., 2014), depending on the 
+
+toxigenicity of the S.aureus strain, initial contamination level in processing units, transportation 
+
+time  and  temperature,  and  the  environmental  conditions  of  terminal  marketing  (Soriano,  Font, 
+
+54 Moltó, & Mañes, 2002). In addition, regarding public infections, multidrug resistance (MDR) is an 
+
+55
+
+56
+
+57
+
+58
+
+59
+
+60
+
+61
+
+62
+
+63
+
+64
+
+65
+
+66
+
+emerging  concern  among  all  kinds  of  food-origin  meat  (Petternel,  et  al.,  2014),  especially  for 
+
+antibiotics abuse at feeding stage.
+
+S. aureus presents an extensive sequence typing diversity associated with seven housekeeping 
+
+genes (arcC, aroE, glpF, gmk, pta, tpi and yqiL), Staphylococcal protein A (spa), and virulence 
+
+genetic  diversity  such  as  staphylococcal  enterotoxins  (se),  toxic  shock  syndrome  toxin  (tst), 
+
+extracellular thermo-stable nuclease (nuc), β-lactamase (bla), staphylococcal cassette chromosome 
+
+mec (SCCmec), and accessory gene regulators (agr) (Argudin, et al., 2012; Carfora, et al., 2015; 
+
+de Boer, et al., 2009; Omoe, et al., 2002; Zhang, et al., 2011). Enterotoxin genes acquired through 
+
+inheritance  or  horizontal  transformation,  form  pathogenic  islands  grouped  as  enterotoxin  gene 
+
+clusters  (egc)  or  organized  as  an  operon.  Additionally,  antimicrobial  resistance  is  conditionally 
+
+acquired via plasmids or thansposons carrying antibiotic resistance genes or mutations, especially 
+
+methicillin-resistant S. aureus (MRSA) harboring methcillin-resistant (mec) gene, can be grouped 
+
+9
+
+ACCEPTED MANUSCRIPT67
+
+68
+
+69
+
+70
+
+71
+
+72
+
+73
+
+74
+
+75
+
+76
+
+77
+
+78
+
+79
+
+80
+
+81
+
+82
+
+83
+
+84
+
+85
+
+86
+
+87
+
+88
+
+according to SCCmec typing (Song, et al., 2015).
+
+Therefore,  it  is  important  to  investigate  the  prevalence,  antimicrobial  resistance  and  genetic 
+
+diversity  of  S.  aureus  in  chicken  meat  products  at  a  retail  level  among  diverse  marketing  and 
+
+storage conditions. The basic data of S. aureus contamination in raw chicken meat products would 
+
+contribute to improve the microbial quality of such products. Samples were classified based on 
+
+different markets, brands (including nameless and well-known brands), cutting and packing types 
+
+to determine their influence on the contamination of S. aureus.
+
+2. Materials and Methods
+
+2.1. Sample collection
+
+Out of 464 raw chicken meat samples were collected from randomly selected supermarkets and 
+
+wet  markets  in  Nanjing,  China,  Samples  were  chosen  with  the  aim  of  obtaining  a  variety  of 
+
+brands,  markets,  cuts  (breast,  wings,  drumsticks  and  whole  carcass)  and  storage  conditions.  In 
+
+supermarkets, raw chicken meat products were stored on ice, and in refrigerators with or without 
+
+tray packing. In wet markets, unpacked raw chicken meat products were frozen or stored at room 
+
+temperature (RT). Each sample was transported to the laboratory on ice in sterilized bag in order 
+
+to avoid cross-contamination.
+
+2.2. Quantification of S.aureus
+
+Quantification of coagulase-positive staphylococci (CPS) was performed as described by 
+
+China’s National food Safety Standard-Food for microbiological examination of S. aureus 
+
+(GB4789.10-2010). Briefly, 25 g of product was mixed with 225 ml sterilized saline and 
+
+homogenized in a stomacher masticator, then homogenates were serially diluted with sterilized 
+
+saline. Subsequently, 0.3 ml, 0.3 ml and 0.4 ml of each dilution was streaked onto Baird Parker 
+
+10
+
+ACCEPTED MANUSCRIPT89
+
+90
+
+91
+
+92
+
+93
+
+94
+
+95
+
+96
+
+97
+
+98
+
+99
+
+100
+
+101
+
+102
+
+103
+
+104
+
+105
+
+106
+
+107
+
+108
+
+109
+
+110
+
+agar with 5% egg yolk and tellurite emulsion (Beijing Land Bridge Tech Co., Ltd., China), 
+
+thereafter, 2 or 3 consecutive dilutions were chosen for each sample, with 37℃  cultivation for 48 
+
+h. Typical S. aureus colonies based on morphology were counted for calculation. 
+
+The formulae for quantification were as described below:
+
+a- Only one dilution had colonies in consecutive dilutions.
+
+b- The low dilution selected has more than 200 colonies, while following high dilutions have 
+
+fewer than 20 colonies.
+
+The two above conditions accorded:
+
+T=ABC𝑑
+
+                                                                       
+
+(1)
+
+where  T  is  S.  aureus  colonies  in  sample,  A  is  typical  colonies  at  one  dilution,  B  is  coagulase 
+
+positive colonies at one dilution, C is colonies subjected to coagulase test at one dilution, and d is 
+
+the dilution factor.
+
+c- Consecutive dilutions both had 20-200 colonies accord:
+
+T=(A1B1/C1+A2B2/C2)1.1𝑑
+
+                                                
+
+(2)
+
+where T is S. aureus colonies in sample, A1 and A2 are typical colonies at low dilution and high 
+
+dilution respectively, B1 and B2 are coagulase positive colonies at low dilution and high dilution 
+
+respectively. C1 and C2 are colonies subjected to coagulase test at low dilution and high dilution 
+
+respectively, 1.1 is the coefficient, and d is the dilution factor (low dilution).
+
+2.3. Identification of S. aureus
+
+For  further  exact  identification  of  S.  aureus,  3–5  presumptive  colonies  on  each  plate  were 
+
+picked  to  inoculate  TSB  medium  for  overnight  culturing  at  37℃,  carried  out  with  VITEK2 
+
+automated system (BioMerieux, France), and hemolytic and coagulase test (Beijing Land Bridge 
+
+11
+
+ACCEPTED MANUSCRIPT111
+
+112
+
+113
+
+114
+
+115
+
+116
+
+117
+
+118
+
+Technology LTD., China). Genomic DNA of S. aureus isolates were extracted and purified using 
+
+commercial bacteria DNA extraction and purification kits (Tiangen Biotech Co., Ltd., China). S. 
+
+aureus genus specific primers (multiplex PCR targeting nuc1, coa and staphylococcal specific 16S 
+
+rRNA) were used for molecular identification (Perillo, et al., 2012).
+
+2.4. Molecular typing
+
+PCR for Multi-Locus Sequence Typing (MLST) and Staphylococcal protein A (spa) typing of 
+
+recovered S. aureus were performed according to public primers (synthesized by Sango Co., Ltd., 
+
+China)  and  procedures.  Amplicons  were  sequenced  followed  by  sequences  alignment  on  the 
+
+119 MLST  website  (http://www.mlst.net)  and  Ridom  Spa  Server  (http://spaserver.ridom.de/) 
+
+120
+
+121
+
+122
+
+123
+
+124
+
+125
+
+126
+
+127
+
+128
+
+129
+
+130
+
+131
+
+132
+
+separately.  Further  analysis  for  clonal  complexes  (CC)  of  allelic  types  was  also  defined  as 
+
+described  previously  (Normanno,  G.,  2015).  In  addition,  agr  genotyping  was  carried  out  as 
+
+described  by  (Song,  et  al.,  2015),  and  staphylococcal  cassette  SCCmec  types  for  methicillin-
+
+resistant  Staphylococcus  aureus  (MRSA)  were  analyzed  using  multiplex  PCR  as  described 
+
+previously (Zhang, et al., 2011).
+
+2.5. Virulence and antimicrobial resistance genetic characterization
+
+Virulence  and  antimicrobial  resistance  genetic  characterization  of  S.  aureus  isolates  were 
+
+screened by simplex PCR assay for eighteen enterotoxins (sea, seb, sec, sed, see, seg, seh, sei, sej, 
+
+sek, sel, sem, sen, seo, sep, seq, ser, seu), panton-valentine leucocidin (pvl), exfoliatins (eta, etb, 
+
+etd), toxic shock syndrome toxin (tst), and penicillin (blaZ) and methicillin resistance (mecA). The 
+
+colistin  resistant  gene  mcr-1  was  also  considered  for  its  horizontal  transfer  potentiality  in  wild 
+
+complex  microfora  (Liu,  et  al.,  2016).  Primers  used  are  listed  in  Table  1.  Amplicon  of  each 
+
+positive toxin gene sequenced to confirm PCR accuracy.
+
+12
+
+ACCEPTED MANUSCRIPT133
+
+134
+
+135
+
+136
+
+137
+
+138
+
+139
+
+140
+
+141
+
+142
+
+143
+
+144
+
+145
+
+146
+
+147
+
+148
+
+149
+
+150
+
+151
+
+152
+
+153
+
+154
+
+2.6. Antimicrobial susceptibility
+
+Out  of  12  antimicrobial  agents  were  selected  for  standardized  disc  diffusion  test  on  Muller-
+
+Hinton  agar.  These  commercial  discs  were  vancomycin  (30  μg),  chloromycetin  (30  μg), 
+
+clindamycin (2 μg), gentamicin (10 μg), kanamycin (30 μg), streptomycin (10 μg), tetracycline (30 
+
+μg), erythromycin (15 μg), penicillin (10 U), oxacillin (1 μg) and spectinomycin (100 μg). ATCC 
+
+25923 was used as quality control. Breakpoints were established for each antibiotic according to 
+
+the Clinical and Laboratory Standards Institute (CLSI, 2014), and MDR (Multi Drug Resistance) 
+
+was defined as three or more classes of antibiotic resistance or methicillin resistance (Petternel, et 
+
+al., 2014).
+
+2.7. Biofilm formation in vitro
+
+The biofilm-forming ability (BFA) was assayed using TSB culturing in polystyrene microtiter 
+
+plates,  followed  by  crystal  violet  dying  procedure  adhering  to  standards  set  out  in  a  previous 
+
+report (Vázquez-Sánchez, Cabo, Ibusquiza, & Rodríguez-Herrera, 2014) with slight modification. 
+
+Culture condition was 37℃  for 48 h, optimal density (OD) at 595 nm wavelength was measured 
+
+at  the  end  time  point,  and  ATCC  6538  was  used  as  biofilm  positive  control  (Peeters,  Nelis,  & 
+
+Coenye,  2008).  Three  independent  experiments  were  performed  in  triplicate.  BFA  was  assayed 
+
+using formulae based on previously reports (Ruiz, Barragan, Sesena, & Palop, 2016):
+
+BFA=(𝑎 -𝑐)(𝑏 -𝑐)
+
+                                                         
+
+(3)
+
+where strong BFA was defined as value  ＞2; a, b and c are OD values of isolates, ATCC 6538 
+
+and blank well as positive and negative control respectively. 
+
+2.8. Statistical analysis
+
+The quantification of CPS was graphed using GraphPad prism 5.0 (GraphPad Software, Inc., 
+
+13
+
+ACCEPTED MANUSCRIPT155
+
+156
+
+157
+
+158
+
+159
+
+160
+
+161
+
+162
+
+163
+
+164
+
+165
+
+166
+
+167
+
+168
+
+169
+
+170
+
+171
+
+172
+
+173
+
+174
+
+175
+
+176
+
+USA),SPSS 17.0 were employed for statistical analysis as follow: a Pearson’s chi-square test was 
+
+carried  out  for  comparison  of  prevalence  of  CPS,  one-way  ANOVA  was  used  to  test  the 
+
+significant difference of quantification of CPS. eBUST v.3 was used for locus variant analysis by 
+
+allelic types of MLST, and the Fisher exact test was used for genetic distribution among different 
+
+products categories. Significant difference was determined at a 5% confidence interval.
+
+3. Results
+
+3.1. Prevalence and quantification of CPS
+
+As shown in Table 2, out of 464 raw chicken meat products collected from local supermarkets 
+
+(288) and wet markets (176), 53 (11.5%) samples showed the presence of CPS as determined by 
+
+BP-EY agar, hemolytic and coagulase tests. A Chi-squared test of independence indicated that the 
+
+overall prevalence of CPS in supermarkets (37/288) and in wet markets (16/176) did not differ 
+
+significantly (p＞0.05). Because there was no significant difference between them, samples from 
+
+supermarkets and wet markets were combined for further analysis. The prevalence of CPS did not 
+
+differ significantly (p＞0.05) between packed and unpacked products, or between those stored at 
+
+room  temperature  and  low  temperature.  However,  there  was  a  significant  difference  (p＜0.05) 
+
+between products with skin (drumstick, wings and whole carcass products) and products without 
+
+skin, also between cuts (drumstick, wings and breast) and whole carcass products.
+
+According to China’s National Food Safety Standard-Food microbiological examination of S. 
+
+aureus  (GB4789.10-2010),  the  population  of  S.  aureus  was  quantified  as  a  range  of  different 
+
+values for each different categories of raw chicken meat. As showed in Fig.1, all types remained 
+
+the  contamination  level  range  from102  to  104  CFU/g.  comparatively,  Refrigerated  types  had 
+
+significant  lower  contamination  compared  to  RT  stored  products  (p＜0.05),  among  them, 
+
+14
+
+ACCEPTED MANUSCRIPT177
+
+178
+
+179
+
+180
+
+181
+
+182
+
+183
+
+184
+
+185
+
+186
+
+187
+
+188
+
+189
+
+190
+
+191
+
+192
+
+193
+
+194
+
+195
+
+196
+
+197
+
+198
+
+unpacked  types  showed  significant  higher  contamination  compared  to  packed  ones  (p＜0.05). 
+
+Nevertheless, RT stored types were only sold in wet markets, the influence of setting cannot be 
+
+differentiated between supermarkets and wet markets, moreover, cuts and whole carcass, products 
+
+with and without skin had no significant difference in various contamination levels. 
+
+3.2. Genotypes
+
+Previous studies which have characterized S. aureus isolates from food-related materials have 
+
+rarely regarded the overlap among these isolates (Merz, Stephan, & Johler, 2016; Normanno, et 
+
+al.,  2007;  Perillo,  et  al.,  2012).For  several  typical  colonies  using  the  method  of  molecular 
+
+distribution on a single plate, the only discrimination made was antibiotics susceptibility profiles 
+
+(Perillo, et al., 2012). To avoid repeats during calculation, our study defined a single S. aureus 
+
+isolate  based  on  ST,  spa  type,  agr  type,  antimicrobial  resistance  and  virulence  genes  profiles. 
+
+Totally,  31  single  strains  were  determined  among  53  CPS,  as  shown  in  Table  3,  31  isolates 
+
+grouped into six MLST types. The most prevalent genotype was ST1 (16/31), followed by ST12 
+
+(6/31), ST2315 (3/31), ST5 (2/31), ST7 (2/31) and ST8 (2/31). eBURST v.3 analysis showed that 
+
+ST1, ST5, ST8 and ST2315 were grouped into one CC5, but ST7 and ST12 were solely founded 
+
+by CC7 and CC12 respectively. Every ST corresponded to a single spa type. ST1 corresponded to 
+
+t127, ST5 to t002, ST7 to t091, ST8 to t9101, ST12 to t213 and ST2315 to t11687. In addition, 
+
+agr typing revealed that, ⅠⅡ and Ⅲ types were identified in isolates except typeⅣ, Ⅲ type was 
+
+the most common agr type (16/31), followed by typeⅡ (11/31) and type Ⅰ (8/31).
+
+   Regarding  genotypes  distribution  among  different  products  types,  since  each  ST  type  had 
+
+consistent one-to-one match with spa type, the distribution of genotypes were considered based on 
+
+CC.  Overall,  isolates  from  diverse  product  types  exhibited  a  high  degree  of  heterogeneity,  the 
+
+15
+
+ACCEPTED MANUSCRIPT199
+
+200
+
+201
+
+202
+
+203
+
+204
+
+205
+
+206
+
+207
+
+208
+
+209
+
+210
+
+211
+
+212
+
+213
+
+214
+
+215
+
+216
+
+217
+
+218
+
+219
+
+220
+
+existence of CC5 were found in every product type. Cuts had higher existence of CC5 compared 
+
+with whole carcasses; same results were obtained in packed types compared with unpacked types, 
+
+products with or without skin, refrigerated and RT stored types. CC12 was mainly distributed in 
+
+refrigerated and unpacked types.
+
+For  toxic  gene  distribution,  seh  (16/31),  sec  (10/31)  and  sel  (10/31)  had  relatively  higher 
+
+existence  among  isolates,  compared  with  other  enterotoxins  genes  seb,  seg,  sei,  sem,  sen  and 
+
+seo(all  less  than  5/31).  Notably,  sea,  tst  and  pvl  as  classical  toxin  genes  were  absent  in  these 
+
+isolates, sek, seq or seu were absent neither. Meanwhile, common presence of bla (27/31) geneand 
+
+absence of mec gene confirmed the antibiotic susceptibility. For toxic gene distribution in products 
+
+categories, regarding combined calculation of prevalence of CPS, both number and diversity of 
+
+toxin genes in cuts or low temperature products were shown to be significantly higher than whole 
+
+chicken or room temperature products, especially for sec, seh, and sel.
+
+3.3. Antimicrobial susceptibility
+
+Antimicrobial  susceptibility  testing  showed  that  all  S.aureus  isolates  were  susceptible  to 
+
+gentamycin, oxacillin, cefaclor and vancomycin. Antibiotics Resistance associated with product 
+
+types are shown in Table 4, 27 (87.1%) and 26 (83.9%) of 31 isolates were resistant to penicillin 
+
+and  tetracycline  respectively,  followed  by  11  (35.5%)  isolates  resistant  to  ciprofloxacin,  10 
+
+(32.3%)  to  erythromycin.  Only  several  isolates  were  resistant  to  streptomycin  (9.7%), 
+
+chloromycetin  (9.7%),  clindamycin  (3.2%)  and  kanamycin  (3.2%).  In  addition,  15  (48.4%) 
+
+isolates showed MDR phenotypes like TC-P-CIP, TC-P-E, TC-CIP-E, TC-P-CIP-E and S-TC-P 
+
+resistance.
+
+A combined comparison was carried out in products categories, it showed that tetracycline and 
+
+16
+
+ACCEPTED MANUSCRIPT221
+
+222
+
+223
+
+224
+
+225
+
+226
+
+227
+
+228
+
+229
+
+230
+
+231
+
+232
+
+233
+
+234
+
+235
+
+236
+
+237
+
+238
+
+239
+
+240
+
+241
+
+242
+
+erythromycin  resistance  rates  are  significantly  higher  in  skin,  cuts  and  low  temperature  stored 
+
+products compared with breast, whole carcass and room temperature products respectively. The 
+
+existence of penicillin resistance was significantly higher in skin and low temperature products 
+
+than  in  breast  and  room  temperature  products;  however,  other  antibiotic  resistances  were 
+
+randomly distributed because of low performance of resistance.
+
+3.4. Biofilm formation ability
+
+As shown in Table 5, six isolates showed strong BFA, while the BFA of other isolates were 
+
+either similar to ATCC 6538 or biofilm-forming negative (data not shown). Among them, two 
+
+isolates (Sa02 and Sa05) had extremely strong BFA which were both isolated from chicken meat 
+
+products with skin, found in supermarket and wet market respectively.
+
+4. Discussion
+
+Studies  of  S.aureus  related  to  food  generally  focus  on  fish,  dairy,  poultry,  livestock  and 
+
+handling  contacts  (Carfora,  et  al.,  2015;  de  Boer,  et  al.,  2009;  Li,  Wu,  Wang,  &  Meng,  2015; 
+
+Lozano, Gharsa, Ben Slama, Zarazaga, & Torres, 2016; Normanno, et al., 2005; Normanno, et al., 
+
+2007; Simon & Sanjeev, 2007; Yan, et al., 2012). In the past decade, though relevant reports have 
+
+demonstrated that the high prevalence of S.aureus in chicken products (Abdalrahman, et al., 2015; 
+
+Fijalkowski,  Peitler,  &  Karakulska,  2016;  Thapaliya,  et  al.,  2017),  different  processing  units, 
+
+storage temperature, retailing environment and product types may cause a diverse contamination 
+
+level of S. aureus, which has rarely been considered in previous studies. Therefore, there is a great 
+
+practical  significance  to  the  investigation  of  the  prevalence  of  S.aureus  among  various  raw 
+
+chicken meat products according to different environmental conditions.
+
+The results of this study indicated that different retail environments (i.e. supermarkets and wet 
+
+17
+
+ACCEPTED MANUSCRIPT243
+
+244
+
+245
+
+246
+
+247
+
+248
+
+249
+
+250
+
+251
+
+252
+
+253
+
+254
+
+255
+
+256
+
+257
+
+258
+
+259
+
+260
+
+261
+
+262
+
+263
+
+264
+
+markets)  had  no  significant  influence  on  the  prevalence  of  CPS  in  raw  chicken  meat  samples. 
+
+Significant  difference  of  prevalence  of  CPS  occurred  between  room  temperature  and  low 
+
+temperature stored products, same result was obtained in the quantification of CPS, presumably, 
+
+this  is  because  environmental  temperature  has  a  critical  influence  on  the  growth  of  bacteria. 
+
+Besides, there were significant differences of prevalence of CPS between products with or without 
+
+skin, cuts or whole carcass, this indicates that original contamination of CPS in processing units is 
+
+the  decisive  influential  factor  in  CPS  contamination  (Normanno,  et  al.,  2005;  Soriano,  et  al., 
+
+2002), particularly because of cross-contamination between handling, equipment contact surface 
+
+and  meat  surface  (Habib,  et  al.,  2012;  You,  et  al.,  2016).  The  quantification  of  CPS  among 
+
+different  products  indicated  that  packing  process  is  the  main  cause  of  significant  difference  of 
+
+contamination  level  of  CPS  among  various  types.  In  brief,  the  key  factors  influencing 
+
+contamination  of  S.aureus  on  raw  chicken  meat  were  cutting  and  packing  processes,  each  of 
+
+which was significant. This study’s findings should be used to highlight processing and storing 
+
+standards  considering  these  condition  changes  had  an  effect  on  the  microflora  of  meat,  that  is, 
+
+cutting and packing process was the main influential factors because further handling processes 
+
+have increased the opportunity for cross-contamination (Ertas Onmaz, et al., 2015).
+
+Quantification  of  S.  aureus  revealed  that  S.  aureus  isolated  from  samples  show  a  highly 
+
+similarity of molecular typing, CC5 and t127 were widely distributed in every type of products, 
+
+which is in agreement with previously report (Merz, et al., 2016), however, spa typing did not 
+
+show a further discrimination compared with ST typing (KITAI, et al., 2005). Different sampling 
+
+markets  and  package  types  had  no  influence  on  the  genotype  distribution  among  products 
+
+categories.  As  for  virulence  gene  detection,  the  prevalence  of  atypical  enterotoxins,  and  the 
+
+18
+
+ACCEPTED MANUSCRIPT265
+
+266
+
+267
+
+268
+
+269
+
+270
+
+271
+
+272
+
+273
+
+274
+
+275
+
+276
+
+277
+
+absence of classical toxin genes including sea, pvl and tst, revealed a relatively less toxigenicity 
+
+compared  with  previous  reports  associated  with  chicken  meat  products  (Abdalrahman,  et  al., 
+
+2015; Fijalkowski, et al., 2016; Lozano, et al., 2016; Song, et al., 2015; Wang, et al., 2013).
+
+As  for  phenotypic  characterization  of  antimicrobial  resistance  and  BFA,  Antimicrobial 
+
+susceptibility  tests  showed  a  general  penicillin  and  tetracycline  resistance  and  frequent  MDR, 
+
+which is in agreement with previous studies (Jamali, Paydar, Radmehr, Ismail, & Dadrasnia, 2015; 
+
+Puah,  et  al.,  2016;  Thapaliya,  et  al.,  2017),  suggested  an  increasing  common  penicillin  and 
+
+tetracycline  resistance  in  S.  aureus  isolated  from  food-related  samples  worldwide.  More 
+
+importantly,  the  presence  of  nearly  half  of  isolates  showed  MDR  and  extremely  strong  BFA 
+
+isolates need to be highly concerned regarding the possibility of severe infections.
+
+In  summary,  low  prevalence  and  virulence  genetic  existence  of  S.  aureus  among  different 
+
+chicken  meat  products  at  retail  level  was  mostly  attributed  to  the  holistic  improvements  in  the 
+
+handling and sanitary procedures (Bai, Ma, Yang, Zhao, & Gong, 2007), and adaptation of Good 
+
+278 Manufacturing  Practices  (GMP)  and  Hazard  Analysis  and  Critical  Control  Points  (HACCP)  in 
+
+279
+
+280
+
+281
+
+282
+
+283
+
+284
+
+285
+
+286
+
+processing units (Jin, Zhou, & Ye, 2008; Soriano, et al., 2002; Tompkin, 1994). In addition, the 
+
+wide  application  of  cold  chain  logistics  conception  (particularly  with  RFID  [Radio  Frequency 
+
+Identification]  technology)  ensured  the  effective  control  of  microbial  growth  from  processing 
+
+units  to  terminal  marketing  (Raab,  et  al.,  2008;  TANG  &  QIAN,  2008).  These  developed 
+
+decontamination and hygienic strategies provided an efficient microbial control among the whole 
+
+poultry meat processing chain, guaranteeing a low homogeneous S. aureus contamination in raw 
+
+chicken meat products.
+
+Acknowledgments
+
+19
+
+ACCEPTED MANUSCRIPT287
+
+This project was supported by the China Agricultural Research System (CARS-42).
+
+20
+
+ACCEPTED MANUSCRIPTReferences
+
+Abdalrahman, L. S., Stanley, A., Wells, H., & Fakhr, M. K. (2015). Isolation, Virulence, and Antimicrobial 
+Resistance  of  Methicillin-Resistant  Staphylococcus  aureus  (MRSA)  and  Methicillin  Sensitive 
+Staphylococcus aureus (MSSA) Strains from Oklahoma Retail Poultry Meats. Int J Environ Res 
+Public Health, 12(6), 6148-6161.
+
+Argudin,  M.  A.,  Mendoza,  M.  C.,  Gonzalez-Hevia,  M.  A.,  Bances,  M.,  Guerra,  B.,  &  Rodicio,  M.  R. 
+(2012).  Genotypes,  exotoxin  gene  content,  and  antimicrobial  resistance  of  Staphylococcus 
+aureus strains recovered from foods and food handlers. Appl Environ Microbiol, 78(8), 2930-
+2935.
+
+Bai,  L.,  Ma,  C.-l.,  Yang,  Y.-s.,  Zhao,  S.-k.,  &  Gong,  S.-l.  (2007).  Implementation  of  HACCP  system  in 
+
+China: A survey of food enterprises involved. Food Control, 18(9), 1108-1112.
+
+Carfora,  V.,  Caprioli,  A.,  Marri,  N.,  Sagrafoli,  D.,  Boselli,  C.,  Giacinti,  G.,  Giangolini,  G.,  Sorbara,  L., 
+Dottarelli, S., Battisti, A., & Amatiste, S. (2015). Enterotoxin genes, enterotoxin production, 
+and methicillin resistance in Staphylococcus aureus isolated from milk and dairy products in 
+Central Italy. International Dairy Journal, 42, 12-15.
+
+de  Boer,  E.,  Zwartkruis-Nahuis,  J.  T.,  Wit,  B.,  Huijsdens,  X.  W.,  de  Neeling,  A.  J.,  Bosch,  T.,  van 
+Oosterom,  R.  A.,  Vila,  A.,  &  Heuvelink,  A.  E.  (2009).  Prevalence  of  methicillin-resistant 
+Staphylococcus aureus in meat. Int J Food Microbiol, 134(1-2), 52-56.
+
+Ertas  Onmaz,  N.,  Abay,  S.,  Karadal,  F.,  Hizlisoy,  H.,  Telli,  N.,  &  Al,  S.  (2015).  Occurence  and 
+antimicrobial resistance of Staphylococcus aureus and Salmonella spp. in retail fish samples 
+in Turkey. Mar Pollut Bull, 90(1-2), 242-246.
+
+Fetsch,  A.,  Contzen,  M.,  Hartelt,  K.,  Kleiser,  A.,  Maassen,  S.,  Rau,  J.,  Kraushaar,  B.,  Layer,  F.,  & 
+Strommenger, B. (2014). Staphylococcus aureus food-poisoning outbreak associated with the 
+consumption of ice-cream. Int J Food Microbiol, 187, 1-6.
+
+Fijalkowski,  K.,  Peitler,  D.,  &  Karakulska,  J.  (2016).  Staphylococci  isolated  from  ready-to-eat  meat  - 
+Identification, antibiotic resistance and toxin gene profile. Int J Food Microbiol, 238, 113-120.
+Habib, I., Berkvens, D., De Zutter, L., Dierick, K., Van Huffel, X., Speybroeck, N., Geeraerd, A. H., & 
+Uyttendaele,  M.  (2012).  Campylobacter  contamination  in  broiler  carcasses  and  correlation 
+with slaughterhouses operational hygiene inspection. Food Microbiol, 29(1), 105-112.
+
+Jamali, H., Paydar, M., Radmehr, B., Ismail, S., & Dadrasnia, A. (2015). Prevalence and antimicrobial 
+resistance of Staphylococcus aureus isolated from raw milk and dairy products. Food Control, 
+54, 383-388.
+
+Jin,  S.,  Zhou,  J.,  &  Ye,  J.  (2008).  Adoption  of  HACCP  system  in  the  Chinese  food  industry:  A 
+
+comparative analysis. Food Control, 19(8), 823-828.
+
+Kerouanton, A., Hennekinne, J. A., Letertre, C., Petit, L., Chesneau, O., Brisabois, A., & De Buyser, M. L. 
+(2007).  Characterization  of  Staphylococcus  aureus  strains  associated  with  food  poisoning 
+outbreaks in France. Int J Food Microbiol, 115(3), 369-375.
+
+KITAI, S., SHIMIZU, A., KAWANO, J., SATO, E., NAKANO, C., KITAGAWA, H., FUJIO, K., MATSUMURA, K., 
+YASUDA,  R.,  &  INAMOTO,  T.  (2005).  Prevalence  and  characterization  of  Staphylococcus 
+aureus  and  enterotoxigenic  Staphylococcus  aureus  in  retail  raw  chicken  meat  throughout 
+Japan. Journal of Veterinary Medical Science, 67(3), 269-274.
+
+Li, G., Wu, C., Wang, X., & Meng, J. (2015). Prevalence and characterization of methicillin susceptible 
+
+Staphylococcus aureus ST398 isolates from retail foods. Int J Food Microbiol, 196, 94-97.
+
+21
+
+ACCEPTED MANUSCRIPTLiu, Y.-Y., Wang, Y., Walsh, T. R., Yi, L.-X., Zhang, R., Spencer, J., Doi, Y., Tian, G., Dong, B., Huang, X., 
+Yu, L.-F., Gu, D., Ren, H., Chen, X., Lv, L., He, D., Zhou, H., Liang, Z., Liu, J.-H., & Shen, J. (2016). 
+Emergence of plasmid-mediated colistin resistance mechanism MCR-1 in animals and human 
+beings  in  China:  a  microbiological  and  molecular  biological  study.  The  Lancet  Infectious 
+Diseases, 16(2), 161-168.
+
+Lozano,  C.,  Gharsa,  H.,  Ben  Slama,  K.,  Zarazaga,  M.,  &  Torres,  C.  (2016).  Staphylococcus  aureus  in 
+Animals and Food: Methicillin Resistance, Prevalence and Population Structure. A Review in 
+the African Continent. Microorganisms, 4(1), 12.
+
+Merz, A., Stephan, R., & Johler, S. (2016). Genotyping and DNA microarray based characterization of 
+
+Staphylococcus aureus isolates from rabbit carcasses. Meat Sci, 112, 86-89.
+
+Normanno,  G.,  Firinu,  A.,  Virgilio,  S.,  Mula,  G.,  Dambrosio,  A.,  Poggiu,  A.,  Decastelli,  L.,  Mioni,  R., 
+Scuota, S., Bolzoni, G., Di Giannatale, E., Salinetti, A. P., La Salandra, G., Bartoli, M., Zuccon, 
+F.,  Pirino,  T.,  Sias,  S.,  Parisi,  A.,  Quaglia,  N.  C.,  &  Celano,  G.  V.  (2005).  Coagulase-positive 
+Staphylococci  and  Staphylococcus  aureus  in  food  products  marketed  in  Italy.  Int  J  Food 
+Microbiol, 98(1), 73-79.
+
+Normanno, G., La Salandra, G., Dambrosio, A., Quaglia, N. C., Corrente, M., Parisi, A., Santagada, G., 
+Firinu, A., Crisetti, E., & Celano, G. V. (2007). Occurrence, characterization and antimicrobial 
+resistance of enterotoxigenic Staphylococcus aureus isolated from meat and dairy products. 
+Int J Food Microbiol, 115(3), 290-296.
+
+Omoe, K., Ishikawa, M., Shimoda, Y., Hu, D. L., Ueda, S., & Shinagawa, K. (2002). Detection of seg, seh, 
+and  sei  genes  in  Staphylococcus  aureus  Isolates  and  Determination  of  the  Enterotoxin 
+Productivities of S. aureus Isolates Harboring seg, seh, or sei Genes. J Clin Microbiol, 40(3), 
+857-862.
+
+Peeters, E., Nelis, H. J., & Coenye, T. (2008). Comparison of multiple methods for quantification of 
+
+microbial biofilms grown in microtiter plates. J Microbiol Methods, 72(2), 157-165.
+
+Perillo,  J.,  Ceccarelli,  D.,  Spagnoletti,  M.,  Lollai,  S.,  Cappuccinelli,  P.,  &  Colombo,  M.  M.  (2012). 
+resistant 
+
+Molecular  characterization  of  enterotoxigenic  and  borderline  oxacillin 
+Staphylococcus strains from ovine milk. Food Microbiol, 32(2), 265-273.
+
+Petternel,  C.,  Galler,  H.,  Zarfel,  G.,  Luxner,  J.,  Haas,  D.,  Grisold,  A.  J.,  Reinthaler,  F.  F.,  &  Feierl,  G. 
+(2014).  Isolation  and  characterization  of  multidrug-resistant  bacteria  from  minced  meat  in 
+Austria. Food Microbiol, 44, 41-46.
+
+Puah,  S.  M.,  Chua,  K.  H.,  &  Tan,  J.  A.  (2016).  Virulence  Factors  and  Antibiotic  Susceptibility  of 
+Staphylococcus aureus Isolates in Ready-to-Eat Foods: Detection of S. aureus Contamination 
+and a High Prevalence of Virulence Genes. Int J Environ Res Public Health, 13(2).
+
+Raab, V., Bruckner, S., Beierle, E., Kampmann, Y., Petersen, B., & Kreyenschmidt, J. (2008). Generic 
+model for the prediction of remaining shelf life in support of cold chain management in pork 
+and poultry supply chains. Journal on Chain and Network Science, 8(1), 59-73.
+
+Ruiz,  P.,  Barragan,  I.,  Sesena,  S.,  &  Palop,  M.  L.  (2016).  Is  staphylococci  population  from  milk  of 
+
+healthy goats safe? Int J Food Microbiol, 238, 146-152.
+
+Schelin, J., Wallin-Carlquist, N., Cohn, M. T., Lindqvist, R., Barker, G. C., & Radstrom, P. (2011). The 
+formation of Staphylococcus aureus enterotoxin in food environments and advances in risk 
+assessment. Virulence, 2(6), 580-592.
+
+Simon,  S.  S.,  &  Sanjeev,  S.  (2007).  Prevalence  of  enterotoxigenic  Staphylococcus  aureus  in  fishery 
+
+products and fish processing factory workers. Food Control, 18(12), 1565-1568.
+
+22
+
+ACCEPTED MANUSCRIPTSong, M., Bai, Y., Xu, J., Carter, M. Q., Shi, C., & Shi, X. (2015). Genetic diversity and virulence potential 
+of Staphylococcus aureus isolates from raw and processed food commodities in Shanghai. Int 
+J Food Microbiol, 195, 1-8.
+
+Soriano, J. M., Font, G., Moltó, J. C., & Mañes, J. (2002). Enterotoxigenic staphylococci and their toxins 
+
+in restaurant foods. Trends in Food Science & Technology, 13(2), 60-67.
+
+TANG, X.-y., & QIAN, Y.-z. (2008). Situation of Meat Cold Chain Logistics in China and Development 
+
+Countermeasures [J]. Food Science, 10, 158.
+
+Thapaliya, D., Forshey, B. M., Kadariya, J., Quick, M. K., Farina, S., O’Brien, A., Nair, R., Nworie, A., 
+Hanson, B., & Kates, A. (2017). Prevalence and molecular characterization of Staphylococcus 
+aureus in commercially available meat over a one-year period in Iowa, USA. Food Microbiol, 
+65, 122-129.
+
+Tompkin, R. (1994). HACCP in the meat and poultry industry. Food Control, 5(3), 153-161.
+Vázquez-Sánchez, D., Cabo, M. L., Ibusquiza, P. S., & Rodríguez-Herrera, J. J. (2014). Biofilm-forming 
+ability  and  resistance  to  industrial  disinfectants  of  Staphylococcus  aureus  isolated  from 
+fishery products. Food Control, 39, 8-16.
+
+Visciano, P., Pomilio, F., Tofalo, R., Sacchini, L., Saletti, M. A., Tieri, E., Schirone, M., & Suzzi, G. (2014). 
+Detection of methicillin-resistant Staphylococcus aureus in dairy cow farms. Food Control, 46, 
+532-538.
+
+Wang, X., Tao, X., Xia, X., Yang, B., Xi, M., Meng, J., Zhang, J., & Xu, B. (2013). Staphylococcus aureus 
+and methicillin-resistant Staphylococcus aureus in retail raw chicken in China. Food Control, 
+29(1), 103-106.
+
+Yan, X., Wang, B., Tao, X., Hu, Q., Cui, Z., Zhang, J., Lin, Y., You, Y., Shi, X., & Grundmann, H. (2012). 
+Characterization  of  Staphylococcus  aureus  strains  associated  with  food  poisoning  in 
+Shenzhen, China. Appl Environ Microbiol, 78(18), 6637-6642.
+
+You,  Y.,  Leahy,  K.,  Resnick,  C.,  Howard,  T.,  Carroll,  K.  C.,  &  Silbergeld,  E.  K.  (2016).  Exposure  to 
+pathogens among workers in a poultry slaughter and processing plant. Am J Ind Med, 59(6), 
+453-464.
+
+Zhang,  W.,  Hao,  Z.,  Wang,  Y.,  Cao,  X.,  Logue,  C.  M.,  Wang,  B.,  Yang,  J.,  Shen,  J.,  &  Wu,  C.  (2011). 
+Molecular  characterization  of  methicillin-resistant  Staphylococcus  aureus  strains  from  pet 
+animals and veterinary staff in China. The Veterinary Journal, 190(2), e125-e129.
+
+23
+
+ACCEPTED MANUSCRIPTg
+/
+U
+F
+C
+ 
+g
+o
+l
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+a
+
+a
+
+b
+
+b
+
+c
+
+d
+
+f
+
+ef
+
+e
+
+f
+
+B1
+
+B2
+
+B3
+
+C1
+
+C4
+
+D1
+
+D2
+
+D3
+
+F1
+
+F4
+
+Type of products
+
+Fig.1. Quantification of coagulase-positive staphylococci in raw chicken meat products types
+
+B , C and D represent exposed on ice, refrigerated with tray packing, and refrigerated without packing products in 
+supermarkets  respectively,  F  represents  room  temperature  stored  without  packing  products  in  wet  markets. 
+Consecutive numbers 1, 2, 3 and 4 represent drumstick, wings, breast and whole carcass respectively. Different 
+lower-case letters represent statistical significance among different products types(p﹤0.05).
+
+30
+
+ACCEPTED MANUSCRIPTTable 1 Primers used in this study
+
+Gene
+16S
+
+coa
+
+nuc
+
+sea
+
+seb
+
+sec
+
+sed
+
+see
+
+seg
+
+seh
+
+sei
+
+sej
+
+sek
+
+sel
+
+sem
+
+sen
+
+seo
+
+sep
+
+seq
+
+ser
+
+seu
+
+Sequence (5′-3′)
+CCACCTTCCTCCGGTTTGTCACC
+AACTCTGTTATTAGGGAAGAA
+ACCACAAGGTACTGAATCAACG
+TGCTTTCGATTGTTCGATGC
+TGAAGTCAAATAAATCGCTTGC
+CCCTTTTCCACTAATTCCTTATTGT
+CCTTTGGAAACGGTTAAAACG
+TCTGAACCTTCCCATCAAAAAC
+TGTATGGTGGTGTAACTGAGCA
+CCCGTTTCATAAGGTGAGTTGT
+CTCAAGAACTAGACATAAAAGCTAGG
+TCAAAATCGGATTAACATTATCC
+GTGGTGAAATAGATAGGACTGC
+ATATGAAGGTGCTCTGTGG
+CTGGAGGCACACCAAATAAA
+TCCGTGTAAATAATGCCTTGC
+AAGTAGACATTTTTGGCGTTCC
+AGAACCATCAAACTCGTATAGC
+CAACTGCTGATTTAGCTCAG
+GTCGAATGAGTAATCTCTAGG
+CAACTCGAATTTTCAACAGGTACC
+CAGGCAGTCCATCTCCTG
+TGCACCTCCTCTCTGCGCCT
+AGTGCATTGTAACGCCCCCGT
+TAGGTGTCTCTAATAATGCCA
+TAGATATTCGTTAGTAGCTG
+GCTTTCTGGAAGACCGTATCCTGTG
+GGCGATGTAGGTCCAGGAAACCT
+ATGCTGTAGATGTATATGGTCTAAG
+CGTCCTTATAAGATATTTCTACATC
+ATGAGATTGTTCTACATAGCTGCAAT
+AACTCTGCTCCCACTGAAC
+TGTAGTGTAAACAATGCATATGCAAATG
+TTATGTAAATAAATAAACATCAATATGATGTC
+TTAGACAAACCTATTATCATAATGG
+TATTATCATGTAACGTTACACCGCC
+AAGAGGTAACTGCTCAAG
+TTATTCAGTCTTCTCATATG
+AAACCAGATCCAAGGCCTGGAG
+TCACATTTGTAGTCAGGTGAACTT
+TAAAATAAATGGCTCTAAAATTGATGG
+ATCCGCTGAAAAATAGCATTGAT
+
+23
+
+Reference
+(Perillo, et al., 2012)
+
+(Perillo, et al., 2012)
+
+(Perillo, et al., 2012)
+
+(Omoe, et al., 2002)
+
+This study
+
+(Perillo, et al., 2012)
+
+(Perillo, et al., 2012)
+
+This study
+
+(Omoe, et al., 2002)
+
+(Perillo, et al., 2012)
+
+(Perillo, et al., 2012)
+
+This study
+
+(Perillo, et al., 2012)
+
+(Perillo, et al., 2012)
+
+(Li, Wu, Wang, & Meng, 2015)
+
+(Li, et al., 2015)
+
+(Li, et al., 2015)
+
+(Li, et al., 2015)
+
+(Li, et al., 2015)
+
+(Li, et al., 2015)
+
+(Li, et al., 2015)
+
+ACCEPTED MANUSCRIPTtst
+
+pvl
+
+bla
+
+mecA
+
+spa
+
+agrⅠ
+
+agrⅡ
+
+agrⅢ
+
+agrⅣ
+
+GCTTGCGACAACTGCTACAG
+TGGATCCGTCATTCATTGTTAT
+ATCATTAGGTAAAATGTCTGGACATGATCCA
+GCATCAAGTGTATTGGATAGCAAAAGC
+ACTTCAACACCTGCTGCTTTC
+TGACCACTTTTATCAGCAACC
+TGGCTATCGTGTCACAATCG
+CTGGAACTTGTTGAGCAGAG
+
+TAA AGACGATCC TTCGGTGAGC
+CAGCAGTAGTGCCGTTTGCTT
+ATGCACATGGTGCACATGC
+GTCACAAGTACTATAAGCTG CGAT
+ATGCACATGGTGCACATGC
+TATTACTAATTGAAAAGTGCCATAGC
+ATGCACATGGTGCACATGC
+GTAATGTAATAGCTTGTATAATAATACCCAG
+ATGCACATGGTGCACATGC
+CGATAATGCCGTAATACCCG
+
+(Perillo, et al., 2012)
+
+(Li, et al., 2015)
+
+(Li, et al., 2015)
+
+(Vazquez-Sanchez, Lopez-
+Cabo, Saa-Ibusquiza, & 
+Rodriguez-Herrera, 2012)
+(Normanno, et al., 2015)
+
+(Li, et al., 2015)
+
+(Li, et al., 2015)
+
+(Li, et al., 2015)
+
+(Li, et al., 2015)
+
+24
+
+ACCEPTED MANUSCRIPTTable 2 Prevalence of coagulase positive staphylococci (CPS) in raw chicken meat at retail level
+
+Type of 
+products
+
+Frozen with 
+plastic bagging
+Drumstick
+0/24
+Wings
+0/24
+Breast
+N/A
+Whole carcass N/A
+
+Supermarket (288)
+
+Wet market (176)
+
+Exposed 
+on ice
+12/24
+5/24
+1/24
+0/16
+
+Refrigerated with 
+tray packing
+6/24
+0/24
+0/24
+2/16
+
+Refrigerated 
+without packing
+4/24
+3/24
+N/A
+4/16
+
+Frozen without 
+packing
+0/32
+N/A
+0/16
+0/16
+
+  RT stored 
+without packing
+7/32
+0/32
+0/32
+9/16
+
+25
+
+ACCEPTED MANUSCRIPTTable 3 Genotype distribution of S.aureus associated with raw chicken meat product categories
+
+Genotype
+
+source
+
+Total
+
+Refrigerated  without 
+packing
+b
+a
+1(5),
+3(5),
+1(12
+1(12
+)
+)
+
+d
+2(5)
+
+RT 
+stored 
+without packing
+a
+4(5)
+
+d
+4(5)
+
+3(1),
+1(12
+)
+
+1(1),
+1(12
+)
+
+3(t1
+27),
+1(t2
+13)
+
+1(t2
+13),
+1(t1
+27)
+
+1(1),1
+(5)
+
+3(1),1
+(5)
+
+2(1),2
+(2315)
+
+1(t213
+),1(t00
+2)
+
+3(t127
+),1(t00
+2)
+
+2(t127
+),2(t11
+687)
+
+23(5),6(12
+),2(7)
+
+16(1),2(5)
+,2(7),2(8),
+6(12),3(23
+15)
+16(t127),2
+(t002),2(t0
+91),2(8),6
+(t213),3(t1
+1687)
+
+CC
+
+ST
+
+spa
+
+Refrigerated with tray 
+packing
+a
+1(5*),
+1(12)
+
+b
+5(5)
+
+c
+1(5)
+
+1(12),
+1(1)
+
+4(1),
+1(8)
+
+1(23
+15)
+
+1(t213
+),1(t12
+7)
+
+1(t1
+168
+7)
+
+4(t1
+27),
+1(t9
+101)
+
+1(8)
+
+d
+1(5)
+
+Exposed  on 
+ice
+a
+3(12
+),2(7
+),1(5
+)
+3(12
+),2(7
+),1(1
+)
+3(t2
+13),
+2(t0
+91),
+1(t1
+27)
+6
+2
+3
+1
+
+1(t9
+101)
+
+1
+1
+
+1
+
+3
+
+3
+
+2
+
+1
+
+1
+1
+
+1
+
+1
+
+2
+
+1
+1
+
+1
+
+4
+
+1
+3
+
+1
+
+1
+
+4
+1
+
+4
+
+2
+2
+
+2
+2
+
+1
+1
+
+4
+
+1
+3
+
+1
+
+1
+1
+
+1
+
+27
+4
+11
+16
+
+blaZ
+agrⅠ
+agrⅡ 1
+agrⅢ 1
+agrⅣ
+seb
+sec
+sed
+see
+seg
+seh
+sei
+sej
+sel
+sem
+sen
+seo
+sep
+ser
+a  represents  drumstick,  b  represents  wings,  c  represents  breast,  d  represents  whole  carcass.  *  the  number  in 
+parentheses represents genotype of CC, ST or spa.
+
+5
+10
+2
+2
+5
+16
+5
+2
+10
+5
+5
+5
+2
+2
+
+1
+1
+1
+1
+
+2
+2
+2
+2
+
+1
+1
+1
+
+1
+1
+1
+
+1
+1
+1
+
+1
+3
+1
+
+1
+
+1
+
+1
+
+4
+
+3
+
+1
+
+1
+
+1
+
+1
+1
+
+1
+
+1
+
+1
+
+2
+2
+2
+
+4
+
+2
+
+1
+
+1
+
+26
+
+ACCEPTED MANUSCRIPTTable 4 Antimicrobial resistance profiles of S.aureus isolated from raw chicken meat categories
+
+Source 
+
+Supermarket
+
+Wet market
+
+Refrigerated  with 
+tray packing
+
+Drumstick
+
+Wings
+
+Breast
+
+Exposed on ice
+
+Drumstick
+
+Whole carcass
+
+Drumstick
+
+Wings
+
+Whole carcass
+
+Drumstick
+
+Whole carcass
+
+Refrigerated 
+without packing
+
+Room 
+temperature 
+without packing
+Total (31 isolates)
+
+Antimicrobial resistance profiles
+TC
+CM K
+3
+
+P
+2
+
+C
+
+1
+
+2
+
+2
+
+2
+
+5
+
+1
+
+2
+
+2
+
+3
+
+3
+
+3
+
+4
+
+1
+
+6
+
+1
+
+4
+
+2
+
+1
+
+3
+
+3
+
+26 
+
+27
+
+3
+
+1
+
+1
+
+1
+
+1
+
+S
+
+1
+
+1
+
+1
+
+E
+1
+
+1
+
+1
+
+1
+
+2
+
+1
+
+1
+
+2
+
+CIP
+1
+
+2
+
+1
+
+1
+
+1
+
+2
+
+3
+
+11
+
+10
+
+3
+
+TC-tetracycline, P-penicillin, C-chloromycetin, CM-clindamycin, K-kanamycin, CIP-ciprofloxacin, E-
+erythromycin, S-streptomycin.
+
+27
+
+ACCEPTED MANUSCRIPTTable 5 S.aureus isolates with strong biofilm formation ability (BFA) cultured in vitro related to 
+
+raw chicken meat product categories
+
+Source
+Supermarket
+
+Refrigerated without packing
+
+Exposed on ice
+
+Wet market
+
+Room temperature without packing
+
+* Data shown as BFA mean±standard deviation.
+
+Drumstick
+Whole carcass
+Drumstick
+Whole carcass
+Drumstick
+
+Strain
+Sa01
+Sa02
+Sa03
+Sa04
+Sa05
+Sa06
+
+BFA*
+2.372±0.03
+8.741±0.06
+2.380±0.09
+2.247±0.08
+10.313±0.00
+4.756±0.05
+
+28
+
+ACCEPTED MANUSCRIPTReference
+Li, G., Wu, C., Wang, X., & Meng, J. (2015). Prevalence and characterization of methicillin susceptible 
+
+Staphylococcus aureus ST398 isolates from retail foods. Int J Food Microbiol, 196, 94-97.
+
+Normanno, G., Dambrosio, A., Lorusso, V., Samoilis, G., Di Taranto, P., & Parisi, A. (2015). Methicillin-
+resistant  Staphylococcus  aureus  (MRSA)  in  slaughtered  pigs  and  abattoir  workers  in  Italy. 
+Food Microbiol, 51, 51-56.
+
+Omoe, K., Ishikawa, M., Shimoda, Y., Hu, D. L., Ueda, S., & Shinagawa, K. (2002). Detection of seg, seh, 
+and  sei  genes  in  Staphylococcus  aureus  Isolates  and  Determination  of  the  Enterotoxin 
+Productivities of S. aureus Isolates Harboring seg, seh, or sei Genes. J Clin Microbiol, 40(3), 
+857-862.
+
+Perillo,  J.,  Ceccarelli,  D.,  Spagnoletti,  M.,  Lollai,  S.,  Cappuccinelli,  P.,  &  Colombo,  M.  M.  (2012). 
+resistant 
+
+Molecular  characterization  of  enterotoxigenic  and  borderline  oxacillin 
+Staphylococcus strains from ovine milk. Food Microbiol, 32(2), 265-273.
+
+Vazquez-Sanchez, D., Lopez-Cabo, M., Saa-Ibusquiza, P., & Rodriguez-Herrera, J. J. (2012). Incidence 
+and  characterization  of  Staphylococcus  aureus  in  fishery  products  marketed  in  Galicia 
+(Northwest Spain). Int J Food Microbiol, 157(2), 286-296.
+
+29
+
+ACCEPTED MANUSCRIPT

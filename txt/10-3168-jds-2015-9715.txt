@@ -1,0 +1,9628 @@
+J. Dairy Sci. 98:1–14
+http://dx.doi.org/10.3168/jds.2015-9715
+© American Dairy Science Association®, 2015.
+
+Diversity and antimicrobial susceptibility profiling of staphylococci 
+isolated from bovine mastitis cases and close human contacts
+T. Schmidt,*†1 M. M. Kock,*‡ and M. M. Ehlers*‡
+*Department of Medical Microbiology, University of Pretoria, Pretoria 0001, South Africa
+†Allerton Provincial Veterinary Laboratory, KwaZulu-Natal Department of Agriculture and Rural Development, Cascades 3202, South Africa
+‡Tshwane Academic Division, National Health Laboratory Service, Pretoria 0001, South Africa
+
+ABSTRACT
+
+The  objectives  of  this  study  were  to  examine  the 
+diversity of Staphylococcus spp. recovered from bovine 
+intramammary infections and humans working in close 
+contact with the animals and to evaluate the suscepti-
+bility of the staphylococcal isolates to different antimi-
+crobials. A total of 3,387 milk samples and 79 human 
+nasal  swabs  were  collected  from  13  sampling  sites  in 
+the KwaZulu-Natal province of South Africa. In total, 
+146 Staph. aureus isolates and 102 coagulase-negative 
+staphylococci (CNS) were recovered from clinical and 
+subclinical  milk  samples.  Staphylococcus aureus  was 
+isolated from 12 (15.2%) of the human nasal swabs and 
+95 representative CNS were recovered for further char-
+acterization. The CNS were identified using multiplex-
+PCR  assays,  matrix-assisted  laser  desorption/ioniza-
+tion  time-of-flight  mass  spectrometry  (MALDI-TOF 
+MS),  and  tuf  gene  sequencing.  Seven  Staphylococcus 
+spp. were identified among the CNS of bovine origin, 
+with  Staph. chromogenes  (78.4%)  predominating.  The 
+predominant  CNS  species  recovered  from  the  human 
+nasal swabs was Staph. epidermidis (80%) followed by 
+Staph. chromogenes (6.3%). The antimicrobial suscepti-
+bility of all staphylococcal isolates was evaluated using 
+disk diffusion and was supplemented by screening for 
+specific  antimicrobial  resistance  genes.  Ninety-eight 
+(67.1%)  Staph. aureus  isolates  of  bovine  origin  were 
+pansusceptible;  39  (26.7%)  isolates  were  resistant  to 
+a single class, and 7 (4.8%) isolates were resistant to 
+2 classes of antimicrobials. Two Staph. aureus (1.4%) 
+isolates were multidrug-resistant. Resistance to penicil-
+lin was common, with 28.8% of the bovine and 75% of 
+the human Staph. aureus isolates exhibiting resistance. 
+A similar observation was made with the CNS, where 
+37.3% of the bovine and 89.5% of the human isolates 
+were  resistant  to  penicillin.  Multidrug-resistance  was 
+
+Received April 16, 2015.
+Accepted June 8, 2015.
+1 Corresponding author: Tracy.Schmidt@kzndard.gov.za
+
+1
+
+common  among  the  human  CNS,  with  39%  of  the 
+isolates  exhibiting  resistance  to  3  or  more  classes  of 
+antimicrobials. The antimicrobial susceptibility results 
+suggest  that  resistance  among  staphylococci  causing 
+bovine intramammary infections in South Africa is un-
+common and not a significant cause for concern. In con-
+trast, antimicrobial resistance was frequently observed 
+in  staphylococcal  isolates  of  human  origin,  highlight-
+ing a possible reservoir of resistance genes. Continued 
+monitoring  of  staphylococcal  isolates  is  warranted  to 
+monitor changes in the susceptibility of isolates to dif-
+ferent classes of antimicrobials.
+Key words:  Staphylococcus spp., bovine mastitis, an-
+timicrobial resistance, close human contact
+
+INTRODUCTION
+
+Bovine  mastitis,  or  inflammation  of  the  mammary 
+gland,  is  one  of  the  most  common  and  economically 
+important diseases affecting the dairy industry world-
+wide (Barkema et al., 2006). Mastitis primarily occurs 
+in response to microbial infections, although chemical, 
+physical, or traumatic factors may also lead to inflam-
+mation. A variety of bacteria have been implicated in 
+bovine IMI (Gentilini et al., 2000), with staphylococci 
+being considered one of the most significant and preva-
+lent groups (Pyörälä et al., 2011).
+
+Staphylococcus aureus is a contagious udder pathogen 
+that readily spreads between cows at milking (Akineden 
+et al., 2001). The main source of the bacterium is milk 
+from infected quarters, with milking machine teat lin-
+ers playing a significant role in the transmission of the 
+bacteria among cows and mammary quarters (Zadoks 
+et  al.,  2002).  It  is  imperative  that  infected  cows  are 
+promptly  identified  so  that  appropriate  control  mea-
+sures can be implemented to curb bacterial transmis-
+sion (Barkema et al., 2006). Other Staphylococcus spp., 
+the so-called CNS, have traditionally been regarded as 
+opportunistic pathogens of minor importance. This per-
+ception has arisen because mastitis caused by CNS is 
+very mild and usually remains subclinical (Tenhagen et 
+al., 2006). However, the significance of the CNS is being 
+
+2
+
+SCHMiDT eT AL.
+
+reassessed because, in many countries including South 
+Africa, CNS have become the most common bacteria 
+isolated from bovine IMI (Petzer et al., 2009; Taponen 
+and Pyörälä, 2009; Piessens et al., 2011; Sampimon et 
+al., 2011).
+
+At present, the CNS group comprises 51 species and 
+25 subspecies (LPSN, 2015). In routine mastitis diag-
+nostic  laboratories,  CNS  are  usually  not  identified  to 
+the species level but are reported as a single group (Ta-
+ponen  et  al.,  2012).  Consequently,  limited  knowledge 
+is available regarding the epidemiology, pathogenicity, 
+and  relative  importance  of  different  species  in  this 
+group.  Research  emanating  primarily  from  European 
+countries has suggested that some of the CNS species re-
+covered from IMI are specifically adapted to the udder, 
+whereas  other  species  are  environmental  opportunists 
+that only sporadically cause infections (Taponen, 2008; 
+Thorberg et al., 2009; Piessens et al., 2011). Accurate 
+identification  of  CNS  is  paramount  in  order  for  the 
+epidemiology of the different species to be elucidated 
+and appropriate control strategies to be implemented in 
+dairy herds where CNS mastitis is a problem (Sawant 
+et al., 2009). Although the importance of species-level 
+identification  of  CNS  is  recognized,  the  heterogeneity 
+of the species within this group presents challenges in 
+diagnostic  laboratories.  Biochemical  identification  of 
+staphylococcal  isolates  is  labor  intensive  because  of 
+the large number of tests required to differentiate the 
+number of species within the genus (Vanderhaeghen et 
+al.,  2015).  Furthermore,  commercial  phenotyping  sys-
+tems have been found to have limited accuracy when 
+identifying CNS of veterinary origin, presumably due to 
+the limited number of veterinary isolates incorporated 
+into the databases (Zadoks and Watts, 2009). Matrix-
+assisted laser desorption/ionization time-of-flight mass 
+spectrometry  (MALDI-TOF  MS)  has  been  used 
+successfully to identify mastitis pathogens (Barreiro et 
+al., 2010; El Behiry et al., 2013); however, the capital 
+costs of the instrumentation limit the use of MALDI-
+TOF MS to specialized research facilities (Wieser et al., 
+2012). Molecular methods, such as PCR and sequencing 
+of housekeeping genes, have been shown to have higher 
+discriminatory  power,  reproducibility,  and  typeability 
+than  conventional  phenotyping  methods  and  are  now 
+recommended  for  the  accurate  identification  of  CNS 
+(Zadoks and Watts, 2009). Amplification and sequenc-
+ing of the tuf gene, which encodes the elongation factor 
+Tu, has been used successfully to differentiate CNS spe-
+cies (Capurro et al., 2009).
+
+Antimicrobials are commonly used for the treatment 
+of cows with IMI or as a preventative measure during 
+the dry-cow period (Sawant et al., 2009). Staphylococ-
+cus aureus  is  intrinsically  susceptible  to  most  classes 
+
+of  antimicrobials  but  has  the  extraordinary  potential 
+to  develop,  or  acquire,  resistance  to  virtually  any 
+antimicrobial  to  which  it  is  exposed  (Chambers  and 
+DeLeo, 2009). Many of the genes encoding antimicro-
+bial  resistance  determinants  reside  on  mobile  genetic 
+elements,  which  can  be  exchanged  between  bacteria 
+of  the  same  or  different  species  occupying  the  same 
+ecological niche (Lindsay and Holden, 2006). This is of 
+great clinical significance, as the transfer of resistance 
+genes can lead to the emergence of more resistant and 
+virulent bacterial strains (Lindsay and Holden, 2006). 
+Although  less  pathogenic  than  Staph.  aureus,  CNS 
+often  exhibit  greater  resistance  to  antimicrobials  and 
+also  have  a  greater  tendency  to  develop  multidrug 
+resistance (MDR) (Taponen and Pyörälä, 2009). The 
+CNS are believed to serve as reservoirs of antimicrobial 
+resistance genes, which can transfer and integrate into 
+the genome of Staph. aureus (Otto, 2013; Vitali et al., 
+2014).
+
+Evaluating the antimicrobial susceptibility of staphy-
+lococcal  isolates  recovered  from  IMI  is  important 
+to  guide  therapeutic  treatment  of  infected  animals 
+(Barkema et al., 2006). Moreover, monitoring the an-
+timicrobial resistance of Staphylococcus spp. in animals 
+is  important  from  a  public  health  perspective.  The 
+proximity  of  humans  and  animals  in  the  dairy  envi-
+ronment  presents  opportunities  for  the  transmission 
+of bacteria between animal and human hosts (Juhász-
+Kaszanyitzky  et  al.,  2007).  The  recent  description  of 
+livestock-associated methicillin-resistant Staph. aureus 
+(LA-MRSA; Graveland et al., 2011) and Staph. aure-
+us strains harboring a novel methicillin-resistance gene, 
+mecC (García-Álvarez et al., 2011), have renewed pub-
+lic concerns regarding the role of animals, particularly 
+livestock,  as  a  reservoir  and  source  of  antimicrobial-
+resistant  bacteria,  which  can  infect  humans  (Fitzger-
+ald, 2012). Both LA-MRSA and Staph. aureus strains 
+harboring  the  mecC  gene  have  been  recovered  from 
+bovine milk samples in several studies (Vanderhaeghen 
+et al., 2010; García-Álvarez et al., 2011; Unnerstad et 
+al., 2013). Inasmuch as the zoonotic transfer of bacteria 
+is of concern from a human health perspective, the re-
+verse scenario—the anthroponotic transfer of bacteria 
+from humans to animals—warrants equal consideration 
+(Fitzgerald, 2012). It is therefore important that bacte-
+rial populations at the animal–human interface should 
+be monitored.
+
+Antimicrobial-resistant  Staph.  aureus,  particularly 
+methicillin-resistant Staph. aureus (MRSA), represent 
+a significant public health burden in both hospital and 
+community settings worldwide (Chambers and DeLeo, 
+2009). The treatment options for infected patients are 
+complicated by the fact that MRSA strains are MDR 
+
+Journal of Dairy Science Vol. 98 No. 9, 2015
+
+PROFiLiNG STAPHYLOCOCCi CAUSiNG MASTiTiS
+
+3
+
+because they carry other resistance genes on the cas-
+sette  chromosome  harboring  the  mecA  gene  (Holmes 
+and  Zadoks,  2011).  Resistance  to  frontline  antimicro-
+bials  such  as  the  glycopeptide  vancomycin  has  been 
+documented and the alarming lack of new antimicrobi-
+als is a cause of great concern (Pantosti et al., 2007). 
+Significant efforts are therefore aimed at conserving ex-
+isting antimicrobials by promoting good antimicrobial 
+stewardship in both human healthcare and veterinary 
+medicine (Morley et al., 2005).
+
+The purpose of this research was to investigate the 
+diversity of Staphylococcus spp. responsible for IMI in 
+South African dairy cows and to assess the susceptibil-
+ity of the different species to antimicrobials commonly 
+used  in  the  veterinary  field  as  well  as  antimicrobials 
+relevant to human medicine. Concomitantly, individu-
+als  working  in  close  contact  with  the  animals  were 
+sampled and the diversity and susceptibility profiles of 
+staphylococcal isolates determined and compared with 
+staphylococcal species of animal origin.
+
+MATERIALS AND METHODS
+
+Sample Collection and Processing
+
+Ethical clearance for this investigation was obtained 
+from  the  Animal  Ethics  Committee,  Faculty  of  Vet-
+erinary Science, University of Pretoria (H010–13) and 
+the University of Pretoria, Faculty of Health Sciences 
+Research Ethics Committee (No.295/2013).
+
+KwaZulu-Natal (KZN) is 1 of 9 provinces in the Re-
+public of South Africa. Commercial dairy herds (n = 9; 
+identified by the letters A, B, C, E, F, G, I, J, and L), 
+communal animal herds (n = 2; collectively identified 
+by the letter M), and agriculture college herds (n = 2; 
+identified by the letters D and H) in KZN were recruited 
+to participate in this study through private and state 
+veterinarians in the province. Participation was volun-
+tary. For commercial dairy herds, the sole criterion for 
+inclusion in this study was a history of staphylococcal 
+mastitis. Because of the limited number of agriculture 
+college herds in the province and the limited accessibil-
+ity to communal animals, no specific selection criteria 
+could  be  implemented.  Herd  sizes  ranged  from  95  to 
+1,450 (commercial herds), 40 to 50 (agriculture college 
+herds), and 3 to 8 (communal herds). A single sampling 
+was carried out at each site between October 2013 and 
+March 2014.
+
+Milk  samples  were  aseptically  collected  into  sterile 
+sample tubes following cleaning and disinfection of the 
+teat ends and stripping of the first 2 to 3 squirts of milk. 
+At each of the sampling sites, close-contact workers in-
+cluding animal owners, dairy laborers, and veterinary 
+
+practitioners were approached and asked to participate 
+in  the  study  by  providing  a  self-collected  nasal  swab 
+(Copan,  Brescia,  Italy).  Following  collection,  all  milk 
+samples and nasal swab specimens were packed on ice 
+and transported to the laboratory.
+
+All  milk  samples  were  visually  inspected  following 
+receipt  in  the  laboratory.  Milk  samples  showing  any 
+visual  evidence  of  abnormality,  such  as  the  presence 
+of  clots,  flakes  or  blood,  were  classed  as  clinical.  No 
+SCC  was  performed  on  clinical  samples.  All  milk 
+samples  with  a  normal  appearance  were  analyzed  by 
+flow cytometry using a Somacount instrument (Bentley 
+Instruments, Chaska, MN), and the number of somatic 
+cells per milliliter of sample was determined.
+
+Microbiological Analysis of Milk Samples  
+and Nasal Specimens
+
+Ten microliters of each milk sample was inoculated 
+onto  one  quadrant  of  a  Columbia  blood  agar  plate 
+(Oxoid,  Basingstoke,  UK)  supplemented  with  5% 
+ovine  blood.  Culture  plates  were  incubated  (NuAire, 
+Plymouth, MN) at 37°C for 48 h. Nasal specimens were 
+transferred to brain heart infusion broth (Oxoid) and 
+incubated at 37°C overnight before being streaked onto 
+Columbia  blood  agar  (Oxoid)  supplemented  with  5% 
+ovine blood, BBL Columbia nalidixic acid agar (Bec-
+ton  Dickinson,  Sparks,  MD),  and  oxacillin-resistance 
+screening  agar  (Oxoid).  All  plates  were  incubated  at 
+37°C for 48 h before being examined for the presence 
+of  staphylococcal-like  colonies  (Quinn  et  al.,  1999). 
+Preliminary testing of staphylococcal isolates included 
+Gram staining and testing for catalase production. All 
+catalase-positive,  gram-positive,  coccus-shaped  bacte-
+rial isolates were tentatively identified as Staphylococ-
+cus  spp.  and  tested  for  coagulase  production  using 
+rabbit plasma (Bio-Rad, Hercules, CA) and for clump-
+ing  factor  using  a  commercial  latex  agglutination  kit 
+(Pastorex StaphPlus kit, Bio-Rad (Quinn et al., 1999).
+Only  staphylococcal  isolates  recovered  from  milk 
+samples with an SCC ≥200,000 cells/mL were selected 
+for further characterization. Additional selection crite-
+ria for CNS included the occurrence of isolates in pure 
+growth and the presence of 5 or more colonies (≥500 
+cfu/mL of milk) on primary culture. When more than 
+one type of CNS was isolated from different quarters of 
+the same cow, based on phenotypic appearance, both 
+isolates were retained for further testing. With respect 
+to the staphylococcal isolates recovered from human na-
+sal swabs, all Staph. aureus isolates were retained along 
+with representative CNS colonies from each individual. 
+All isolates were stored in 25% glycerol (Merck, Darm-
+stadt, Germany) at −80°C (NuAire) until required.
+
+Journal of Dairy Science Vol. 98 No. 9, 2015
+
+4
+Identification of Staphylococci and Screening  
+for mecA and pvl Genes Using PCR
+
+SCHMiDT eT AL.
+
+One or two bacterial colonies were suspended in 50 µL 
+of sterile deionized water. Bacterial DNA was extracted 
+using the DNeasy blood and tissue kit (Qiagen, Hilden, 
+Germany)  in  accordance  with  the  manufacturer’s  in-
+structions.  All  staphylococcal  isolates  were  amplified 
+using a multiplex PCR assay (multiplex 1) to confirm 
+genus identification, to identify Staph. aureus isolates, 
+and to simultaneously screen isolates for the methicillin 
+resistance gene, mecA, and the Panton-Valentine leuko-
+cidin encoding gene, pvl. Each PCR assay was carried 
+out in a 25-µL volume comprising 1× PCR buffer (Pro-
+mega, Madison, WI), 0.3 mM deoxynucleotide triphos-
+phate mixture (Promega), 3 mM MgCl2 (Promega), 0.2 
+µM of each primer, 1.5 U of HotStart GoTaq (Promega) 
+and 2 µL of DNA extract. Reactions were cycled in a 
+MJ Mini thermocycler (BioRad, Chaska, MN) with the 
+following  parameters:  initial  denaturation  (95°C  for  2 
+min) followed by 30 cycles of amplification (94°C for 45 
+s, 51°C for 90 s, and 72°C for 90 s) and ending with a 
+final extension step at 72°C for 10 min. A positive con-
+trol and negative control (deionized water) was set up 
+with every batch of PCR samples amplified. Details of 
+all oligonucleotide primers and PCR controls are sum-
+marized in Table 1. The PCR products were resolved in 
+a 1.5% agarose gel (SeaKem, Lonza, Rockland, ME), in 
+1× Tris-borate-EDTA (TBE) buffer (Melford, Ipswich, 
+UK). Following staining in a 1 µg/mL ethidium bromide 
+solution (BioRad), the PCR products were visualized 
+and documented (UVIPro, Uvitec, Cambridge, UK).
+
+Speciation of CNS Using PCR, MALDI-TOF MS,  
+and tuf Gene Sequencing
+
+Following  genus-specific  identification,  CNS  were 
+identified  to  the  species  level  using  a  combination  of 
+methods. All test isolates were amplified using 1 of 2 
+multiplex PCR assays (multiplex 2 and 3) based on the 
+origin  of  the  isolates.  Reactions  were  prepared  in  25-
+µL volumes using the Qiagen Multiplex PCR kit and 
+amplified according to the manufacturer’s instructions. 
+The PCR products were analyzed as described above 
+with the exception that a 1.8% agarose gel (SeaKem, 
+Lonza) was used to resolve the PCR amplicons.
+
+With the exception of one bovine CNS isolate that 
+failed  to  grow,  overnight  cultures  of  all  isolates  were 
+preserved  in  chromatography-grade  ethanol  (Merck) 
+and submitted for MALDI-TOF MS analysis (Bruker 
+Daltonics GmbH, Bremen, Germany). Coagulase-nega-
+tive staphylococcal isolates that could not be identified 
+using the multiplex-PCR assay or MALDI-TOF MS or 
+
+Journal of Dairy Science Vol. 98 No. 9, 2015
+
+where discordant species identifications were obtained 
+using  the  2  methods  were  analyzed  further  using  tuf 
+gene  sequencing.  The  tuf  gene  was  amplified  accord-
+ing to the method described by Heikens and coworkers 
+(2005), and PCR amplicons were submitted to Inqaba 
+Biotechnical Industries (Pretoria, South Africa) for se-
+quencing. Consensus sequences were analyzed in Gen-
+Bank and cut-off values for the percentage of identity 
+were adjusted to ≥97% sequence similarity.
+
+Antimicrobial Susceptibility Testing  
+of Staphylococcal Isolates
+
+The antimicrobial susceptibility of the staphylococcal 
+test isolates to 15 antimicrobials was carried out using 
+the agar disk-diffusion method according to the Clini-
+cal and Laboratory Standards Institute (CLSI, 2008). 
+The antibiotics tested (Oxoid) included amoxicillin and 
+clavulanate (20 µg/10 µg), ampicillin (10 µg), cefoxi-
+tin  (30  µg),  ceftaroline  (30  µg),  cephalothin  (30  µg), 
+clindamycin (2 µg), erythromycin (15 µg), gentamicin 
+(10 µg), linezolid (30 µg), moxifloxacin (5 µg), penicil-
+lin (10 U), streptomycin (10 µg), tetracycline (30 µg), 
+and  trimethoprim/sulfamethoxazole  (1.25/23.75  µg). 
+The  clindamycin  and  erythromycin  disks  were  placed 
+within 25 mm of each other on the agar surface to facil-
+itate the detection of inducible clindamycin resistance 
+or  the  “D-effect”  (Fiebelkorn  et  al.,  2003).  A  control 
+isolate, Staph. aureus ATCC 25923, was tested together 
+with  each  batch  of  field  isolates  to  ensure  the  valid-
+ity of the test results. The zone measurements for all 
+antimicrobials, with the exception of fusidic acid and 
+streptomycin,  were  compared  with  CLSI  breakpoints 
+based  on  data  derived  from  human  medicine  (CLSI, 
+2008, 2014). In the case of fusidic acid, the breakpoint 
+recommended  by  the  European  Committee  on  Anti-
+microbial Susceptibility Testing (EUCAST, 2014) was 
+used and for streptomycin a breakpoint of ≥14 mm was 
+used  as  described  by  Kim  and  coworkers  (2004)  and 
+Shittu and Lin (2006). The production of β-lactamase 
+by  Staph.  aureus  isolates  was  determined  by  examin-
+ing the edge of the zone of inhibition surrounding the 
+penicillin disk. Isolates showing abrupt, heaped edges 
+were recorded as being resistant to penicillin, irrespec-
+tive of the zone diameter (CLSI, 2014). Beta-lactamase 
+production  by  CNS  isolates  was  determined  using 
+nitrocefin-impregnated  sticks  (Oxoid)  in  accordance 
+with the manufacturer’s instructions.
+
+Resistance categories were defined based on recom-
+mendations  made  by  Schwarz  and  coworkers  (2010). 
+Briefly,  isolates  showing  susceptibility  to  all  classes 
+of  antimicrobials  tested  were  termed  pansusceptible; 
+isolates  showing  resistance  to  1  or  2  classes  or  anti-
+
+PROFiLiNG STAPHYLOCOCCi CAUSiNG MASTiTiS
+
+5
+
+)
+6
+0
+0
+2
+(
+ 
+.
+l
+a
+ 
+t
+e
+ 
+e
+r
+u
+C
+c
+M
+
+l
+
+)
+0
+1
+0
+2
+(
+ 
+.
+l
+a
+ 
+t
+e
+ 
+i
+k
+a
+s
+a
+S
+
+)
+6
+0
+0
+2
+(
+ 
+.
+l
+a
+ 
+t
+e
+ 
+e
+r
+u
+C
+c
+M
+
+l
+
+)
+6
+0
+0
+2
+(
+ 
+.
+l
+a
+ 
+t
+e
+ 
+e
+r
+u
+C
+c
+M
+
+l
+
+)
+1
+1
+0
+2
+(
+ 
+.
+l
+a
+ 
+t
+e
+ 
+e
+m
+o
+h
+S
+
+2
+s
+e
+n
+e
+g
+o
+m
+o
+r
+h
+c
+ 
+.
+h
+p
+a
+t
+S
+
+)
+2
+1
+0
+2
+(
+ 
+.
+l
+a
+ 
+t
+e
+ 
+g
+n
+a
+i
+h
+C
+
+)
+2
+1
+0
+2
+(
+ 
+.
+l
+a
+ 
+t
+e
+ 
+g
+n
+a
+i
+h
+C
+
+ 
+
+C
+C
+T
+A
+ 
+s
+u
+c
+i
+t
+y
+l
+o
+m
+e
+a
+h
+ 
+.
+h
+p
+a
+t
+S
+
+)
+1
+1
+0
+2
+(
+ 
+.
+l
+a
+ 
+t
+e
+ 
+e
+m
+o
+h
+S
+
+ 
+
+C
+C
+T
+A
+ 
+s
+n
+a
+l
+u
+m
+
+i
+s
+ 
+.
+h
+p
+a
+t
+S
+
+C
+C
+T
+A
+ 
+s
+i
+d
+i
+m
+r
+e
+d
+i
+p
+e
+ 
+.
+h
+p
+a
+t
+S
+
+ 
+s
+u
+e
+r
+u
+a
+ 
+.
+h
+p
+a
+t
+S
+
+2
+s
+u
+e
+r
+u
+a
+ 
+.
+h
+p
+a
+t
+S
+
+3
+2
+9
+5
+2
+ 
+C
+C
+T
+A
+
+2
+s
+u
+e
+r
+u
+a
+ 
+.
+h
+p
+a
+t
+S
+
+ 
+s
+u
+s
+o
+l
+y
+x
+ 
+.
+h
+p
+a
+t
+S
+
+1
+7
+9
+9
+2
+ 
+C
+C
+T
+A
+
+0
+7
+9
+9
+2
+
+ 
+i
+r
+e
+n
+r
+a
+w
+
+ 
+.
+h
+p
+a
+t
+S
+
+2
+s
+i
+n
+i
+m
+o
+h
+ 
+.
+h
+p
+a
+t
+S
+
+4
+5
+4
+9
+4
+ 
+C
+C
+T
+A
+
+ 
+s
+i
+t
+i
+p
+a
+c
+ 
+.
+h
+p
+a
+t
+S
+
+1
+6
+6
+5
+3
+ 
+C
+C
+T
+A
+
+e
+n
+o
+N
+
+ 
+s
+u
+e
+r
+u
+a
+ 
+.
+h
+p
+a
+t
+S
+
+2
+s
+u
+e
+r
+u
+a
+ 
+.
+h
+p
+a
+t
+S
+
+3
+1
+2
+9
+2
+ 
+C
+C
+T
+A
+
+1
+5
+8
+7
+2
+
+8
+2
+2
+2
+1
+
+ 
+.
+l
+a
+ 
+t
+e
+ 
+n
+e
+s
+l
+e
+i
+N
+m
+l
+o
+h
+r
+e
+t
+s
+e
+V
+
+-
+
+)
+2
+1
+0
+2
+(
+ 
+.
+l
+a
+ 
+t
+e
+ 
+r
+e
+g
+g
+e
+t
+S
+
+)
+9
+9
+9
+1
+(
+
+)
+1
+1
+0
+2
+(
+ 
+.
+l
+a
+ 
+t
+e
+ 
+i
+k
+a
+t
+o
+r
+i
+H
+
+)
+1
+1
+0
+2
+(
+ 
+.
+l
+a
+ 
+t
+e
+ 
+i
+k
+a
+t
+o
+r
+i
+H
+
+)
+1
+1
+0
+2
+(
+ 
+.
+l
+a
+ 
+t
+e
+ 
+i
+k
+a
+t
+o
+r
+i
+H
+
+)
+5
+0
+0
+2
+(
+ 
+.
+l
+a
+ 
+t
+e
+ 
+s
+n
+e
+k
+i
+e
+H
+
+)
+1
+1
+0
+2
+(
+ 
+.
+l
+a
+ 
+t
+e
+ 
+e
+m
+o
+h
+S
+
+ 
+
+)
+3
+0
+0
+2
+(
+ 
+.
+l
+a
+ 
+t
+e
+ 
+r
+e
+g
+n
+e
+m
+m
+o
+r
+t
+S
+
+)
+3
+0
+0
+2
+(
+ 
+.
+l
+a
+ 
+t
+e
+ 
+r
+e
+g
+n
+e
+m
+m
+o
+r
+t
+S
+
+)
+3
+0
+0
+2
+(
+ 
+.
+l
+a
+ 
+t
+e
+ 
+r
+e
+g
+n
+e
+m
+m
+o
+r
+t
+S
+
+)
+3
+9
+9
+1
+(
+ 
+.
+l
+a
+ 
+t
+e
+ 
+k
+r
+a
+l
+C
+
+)
+3
+9
+9
+1
+(
+ 
+.
+l
+a
+ 
+t
+e
+ 
+k
+r
+a
+l
+C
+
+9
+9
+2
+1
+5
+ 
+C
+C
+T
+A
+ 
+s
+i
+l
+a
+c
+e
+a
+f
+ 
+.
+
+E
+
+ 
+s
+i
+l
+a
+c
+e
+a
+f
+ 
+s
+u
+c
+c
+o
+c
+o
+r
+e
+t
+n
+E
+
+1
+2
+2
+0
+0
+7
+ 
+C
+C
+T
+A
+
+2
+s
+u
+e
+r
+u
+a
+ 
+.
+h
+p
+a
+t
+S
+
+2
+s
+u
+e
+r
+u
+a
+ 
+.
+h
+p
+a
+t
+S
+
+2
+s
+u
+e
+r
+u
+a
+ 
+.
+h
+p
+a
+t
+S
+
+ 
+
+5
+ 
+,
+4
+ 
+,
+3
+ 
+,
+2
+ 
+,
+1
+
+e
+c
+n
+e
+r
+e
+f
+e
+R
+
+l
+o
+r
+t
+n
+o
+c
+ 
+e
+v
+i
+t
+i
+s
+o
+P
+
+ 
+x
+e
+l
+p
+i
+t
+l
+u
+M
+
+ 
+ 
+
+R
+C
+P
+
+y
+a
+s
+s
+a
+
+ 
+ 
+
+R
+C
+P
+
+ 
+f
+o
+ 
+e
+z
+i
+S
+
+)
+p
+b
+(
+ 
+t
+c
+u
+d
+o
+r
+p
+
+1
+)
+′
+3
+ 
+–
+ 
+′
+5
+(
+ 
+e
+c
+n
+e
+u
+q
+e
+s
+ 
+r
+e
+m
+
+i
+r
+P
+
+s
+e
+t
+a
+l
+o
+s
+i
+ 
+s
+u
+c
+c
+o
+c
+o
+l
+y
+h
+p
+a
+t
+S
+ 
+f
+o
+ 
+n
+o
+i
+t
+a
+z
+i
+r
+e
+t
+c
+a
+r
+a
+h
+c
+ 
+d
+n
+a
+ 
+n
+o
+i
+t
+a
+c
+i
+f
+i
+t
+n
+e
+d
+i
+ 
+e
+h
+t
+ 
+r
+o
+f
+ 
+d
+e
+s
+u
+ 
+s
+r
+e
+m
+
+i
+r
+p
+ 
+R
+C
+P
+
+ 
+f
+o
+ 
+s
+l
+i
+a
+t
+e
+D
+
+ 
+.
+1
+ 
+e
+l
+b
+a
+T
+
+1
+
+1
+
+1
+
+2
+
+3
+ 
+,
+2
+
+2
+
+2
+
+3
+ 
+,
+2
+
+2
+
+3
+
+3
+
+x
+e
+l
+p
+n
+U
+
+i
+
+4
+
+4
+
+4
+
+4
+
+5
+
+5
+
+5
+
+6
+5
+7
+
+9
+5
+3
+
+3
+3
+4
+
+0
+1
+3
+
+2
+2
+2
+
+1
+7
+2
+
+0
+8
+1
+
+2
+7
+4
+
+0
+3
+1
+
+9
+9
+9
+
+7
+7
+1
+
+5
+2
+5
+
+2
+1
+4
+
+7
+1
+5
+
+8
+3
+1
+
+3
+3
+4
+
+8
+5
+1
+
+0
+6
+3
+
+7
+2
+2
+
+0
+3
+0
+,
+1
+
+A
+C
+C
+T
+A
+G
+T
+A
+C
+A
+G
+G
+T
+C
+T
+G
+T
+A
+A
+A
+A
+T
+G
+G
+A
+T
+T
+A
+C
+T
+A
+
+C
+G
+A
+A
+A
+A
+C
+G
+A
+T
+A
+G
+G
+T
+T
+A
+T
+G
+T
+G
+A
+A
+C
+T
+A
+C
+G
+
+A
+C
+A
+A
+G
+A
+A
+G
+G
+G
+A
+T
+T
+A
+T
+T
+G
+T
+C
+T
+C
+A
+A
+
+C
+C
+A
+C
+T
+G
+T
+T
+T
+G
+G
+C
+C
+T
+C
+C
+T
+T
+C
+C
+A
+C
+C
+
+G
+G
+T
+C
+T
+T
+A
+G
+T
+A
+T
+C
+G
+T
+T
+C
+G
+C
+T
+
+C
+G
+A
+T
+A
+C
+C
+A
+T
+C
+T
+T
+G
+T
+A
+A
+C
+C
+G
+
+A
+A
+T
+A
+G
+C
+C
+T
+G
+C
+A
+A
+G
+T
+C
+A
+G
+T
+A
+A
+A
+G
+A
+T
+G
+
+A
+A
+T
+C
+T
+G
+G
+C
+T
+T
+T
+G
+T
+T
+A
+C
+A
+C
+C
+T
+T
+A
+A
+C
+C
+
+C
+T
+C
+A
+A
+A
+C
+A
+A
+A
+T
+A
+G
+A
+A
+G
+A
+C
+C
+A
+T
+G
+C
+G
+
+C
+G
+T
+A
+C
+C
+G
+A
+G
+C
+A
+A
+C
+A
+T
+T
+T
+A
+T
+T
+A
+C
+
+T
+G
+T
+T
+A
+G
+C
+T
+T
+C
+T
+T
+C
+A
+T
+T
+T
+G
+C
+T
+T
+C
+G
+A
+
+C
+A
+G
+T
+T
+A
+C
+A
+C
+T
+C
+G
+A
+A
+C
+A
+C
+G
+A
+A
+A
+A
+
+G
+A
+A
+C
+T
+A
+T
+G
+A
+A
+A
+A
+G
+A
+G
+G
+T
+G
+C
+G
+A
+G
+A
+A
+
+A
+C
+T
+T
+T
+A
+T
+G
+A
+T
+G
+T
+A
+A
+T
+A
+G
+C
+G
+G
+A
+A
+
+G
+G
+T
+T
+G
+A
+A
+A
+A
+A
+C
+T
+A
+C
+C
+A
+T
+A
+G
+C
+T
+
+T
+A
+A
+C
+A
+A
+G
+G
+C
+T
+G
+A
+T
+T
+C
+G
+C
+T
+G
+G
+
+T
+C
+C
+A
+C
+T
+A
+C
+T
+C
+T
+A
+A
+C
+G
+A
+G
+C
+A
+C
+
+C
+C
+T
+C
+C
+A
+T
+A
+T
+T
+C
+A
+T
+T
+A
+T
+A
+C
+C
+G
+C
+
+A
+T
+A
+A
+C
+G
+T
+T
+G
+A
+A
+A
+A
+T
+A
+A
+G
+A
+T
+A
+A
+G
+T
+A
+C
+
+A
+A
+C
+T
+A
+G
+C
+A
+T
+A
+A
+T
+C
+G
+C
+A
+A
+T
+T
+T
+C
+C
+C
+C
+
+C
+T
+C
+C
+G
+C
+A
+A
+G
+A
+T
+T
+C
+G
+G
+A
+A
+A
+A
+A
+A
+A
+G
+
+C
+G
+A
+C
+T
+T
+T
+T
+G
+C
+C
+T
+T
+T
+T
+C
+T
+A
+G
+A
+A
+G
+
+A
+A
+T
+G
+G
+T
+C
+T
+T
+C
+C
+A
+T
+G
+A
+C
+T
+T
+T
+A
+C
+C
+
+C
+T
+T
+C
+G
+T
+A
+T
+C
+C
+G
+T
+T
+T
+A
+G
+A
+G
+A
+A
+
+C
+G
+A
+C
+T
+A
+T
+T
+T
+T
+C
+A
+C
+C
+A
+G
+T
+T
+C
+G
+
+ 
+
+A
+A
+A
+A
+A
+A
+C
+G
+T
+C
+C
+T
+C
+C
+T
+A
+C
+C
+G
+C
+C
+
+A
+G
+G
+A
+G
+C
+G
+A
+G
+G
+C
+C
+A
+A
+A
+C
+A
+G
+T
+G
+
+T
+G
+A
+T
+A
+A
+T
+G
+G
+A
+T
+A
+A
+C
+A
+G
+C
+G
+A
+T
+G
+
+A
+T
+C
+C
+T
+C
+C
+A
+A
+A
+T
+A
+A
+C
+A
+G
+T
+G
+A
+T
+G
+
+C
+G
+G
+G
+A
+A
+T
+A
+A
+C
+G
+A
+G
+A
+A
+C
+C
+T
+A
+A
+T
+
+A
+T
+C
+A
+C
+C
+A
+A
+T
+A
+C
+T
+A
+T
+C
+A
+C
+A
+C
+C
+G
+
+A
+T
+C
+T
+G
+T
+G
+C
+G
+G
+T
+C
+C
+T
+G
+T
+A
+T
+A
+C
+
+A
+A
+G
+A
+C
+A
+T
+T
+A
+G
+C
+G
+A
+G
+G
+T
+G
+A
+
+C
+G
+G
+G
+A
+C
+A
+A
+A
+A
+C
+G
+A
+T
+G
+T
+T
+T
+G
+C
+
+C
+A
+C
+C
+G
+T
+T
+C
+C
+A
+A
+T
+G
+A
+G
+C
+A
+A
+C
+G
+
+G
+C
+A
+G
+A
+A
+A
+T
+T
+T
+A
+C
+C
+G
+G
+G
+A
+C
+A
+T
+
+C
+C
+A
+C
+A
+A
+C
+T
+A
+T
+G
+T
+G
+G
+T
+C
+T
+T
+T
+G
+
+C
+G
+T
+T
+A
+T
+T
+A
+G
+T
+A
+T
+C
+C
+G
+C
+A
+T
+C
+A
+
+G
+G
+G
+A
+T
+A
+C
+C
+A
+T
+T
+T
+C
+T
+T
+C
+G
+Y
+A
+G
+
+T
+C
+T
+T
+A
+T
+G
+C
+A
+G
+G
+A
+G
+T
+T
+G
+A
+C
+C
+G
+
+ 
+s
+e
+n
+e
+g
+o
+m
+o
+r
+h
+c
+ 
+.
+h
+p
+a
+t
+S
+
+ 
+s
+u
+c
+i
+t
+y
+l
+o
+m
+e
+a
+h
+ 
+.
+h
+p
+a
+t
+S
+
+L
+S
+E
+o
+r
+g
+
+A
+d
+o
+s
+
+ 
+s
+n
+a
+l
+u
+m
+
+i
+s
+ 
+.
+h
+p
+a
+t
+S
+
+ 
+s
+u
+s
+o
+l
+y
+x
+ 
+.
+h
+p
+a
+t
+S
+
+L
+S
+E
+o
+r
+g
+
+ 
+s
+i
+d
+i
+m
+r
+e
+d
+i
+p
+e
+ 
+.
+h
+p
+a
+t
+S
+
+ 
+i
+r
+e
+n
+r
+a
+w
+
+ 
+.
+h
+p
+a
+t
+S
+
+ 
+s
+i
+n
+i
+m
+o
+h
+ 
+.
+h
+p
+a
+t
+S
+
+ 
+s
+i
+t
+i
+p
+a
+c
+ 
+.
+h
+p
+a
+t
+S
+
+p
+a
+g
+
+r
+d
+r
+
+c
+u
+n
+
+c
+u
+n
+
+c
+u
+n
+
+f
+u
+t
+
+t
+e
+g
+r
+a
+t
+ 
+e
+n
+e
+G
+
+A
+N
+R
+r
+ 
+S
+6
+1
+
+F
+/
+S
+ 
+k
+u
+
+l
+
+A
+c
+e
+m
+
+c
+u
+n
+
+Z
+a
+l
+b
+
+C
+c
+e
+m
+
+A
+n
+a
+v
+
+B
+n
+a
+v
+
+M
+t
+e
+t
+
+K
+t
+e
+t
+
+D
+h
+p
+a
+-
+A
+c
+a
+a
+
+Journal of Dairy Science Vol. 98 No. 9, 2015
+
+.
+)
+a
+c
+i
+r
+f
+A
+ 
+h
+t
+u
+o
+S
+ 
+,
+a
+i
+r
+o
+t
+e
+r
+P
+(
+ 
+s
+e
+i
+r
+t
+s
+u
+d
+n
+I
+ 
+l
+a
+c
+i
+n
+h
+c
+e
+t
+o
+i
+B
+ 
+a
+b
+a
+q
+n
+I
+ 
+y
+b
+ 
+d
+e
+z
+i
+s
+e
+h
+t
+n
+y
+s
+ 
+e
+r
+e
+w
+ 
+s
+r
+e
+m
+
+i
+r
+p
+ 
+l
+l
+
+A
+
+.
+e
+t
+a
+l
+o
+s
+i
+ 
+d
+l
+e
+i
+f
+ 
+d
+e
+i
+f
+i
+r
+e
+V
+
+1
+
+2
+
+6
+
+SCHMiDT eT AL.
+
+microbials were termed resistant; and isolates showing 
+resistance to 3 or more classes of antimicrobials were 
+termed MDR.
+
+PCR Screening of Staphylococcal Isolates  
+for Antimicrobial Resistance Determinants
+
+Staphylococcal  isolates  were  screened  for  a  com-
+bination  of  7  antimicrobial  resistance  genes  using  2 
+multiplex  PCR  assays.  Reactions  were  prepared  in 
+25-µL  volumes  using  the  Qiagen  Multiplex  PCR  kit 
+and included primers specific for the blaZ, mecC, vanA, 
+and vanB (multiplex 4) and tetK, tetM, and aacA-aphD 
+(multiplex  5)  genes.  Amplification  of  PCR  reactions 
+was carried out in a MJ Mini thermocycler (BioRad) 
+using  the  thermocycling  conditions  recommended  by 
+the kit manufacturer. Electrophoresis was carried out 
+as described above.
+
+RESULTS
+
+Microbiological Analysis
+
+A total of 3,387 milk samples from 1,374 cows and 
+79 human nasal swab specimens were collected from 13 
+dairy herds. One hundred forty-six Staph. aureus and 
+102 CNS isolates cultured from the milk samples ful-
+filled the selection criteria and were retained for further 
+analysis. Staphylococcus aureus was recovered from 12 
+(15.2%) of the human nasal swabs. All 12 Staph. aureus 
+isolates  and  the  95  CNS  isolates  recovered  from  the 
+nasal swabs were retained for analysis.
+
+Identification of Staphylococci and Screening  
+for mecA and pvl Genes by PCR
+
+All  of  the  analyzed  staphylococcal  isolates  were 
+genotypically  identified  as  Staphylococcus  spp.  using 
+the first multiplex PCR assay. Furthermore, all of the 
+isolates phenotypically identified as Staph. aureus were 
+confirmed to be Staph. aureus using the same multiplex 
+PCR  assay.  None  of  the  bovine  or  human  staphylo-
+coccal  isolates  was  positive  for  the  Panton-Valentine 
+leucocidin-encoding  gene,  pvl.  Fifteen  CNS  of  human 
+origin tested positive for the mecA gene.
+
+Speciation of CNS Using PCR, MALDI-TOF MS,  
+and tuf Gene Sequencing
+
+A combination of 2 multiplex PCR assays and MAL-
+DI-TOF MS was used to identify the 102 CNS isolates 
+of bovine origin and 95 CNS isolates of human origin. 
+Five bovine isolates originating from 2 farms were not 
+
+identified  using  either  the  multiplex  PCR  assay  or 
+MALDI-TOF MS and were analyzed further using tuf 
+gene  sequencing.  The  consensus  tuf  DNA  sequences 
+of  the  5  isolates  showed  99  to100%  agreement  with 
+sequences  already  deposited  in  GenBank  (accession 
+no.  EU571021.1).  The  sequences  corresponded  to  an 
+unidentified Staphylococcus species recovered from bo-
+vine mastitis cases deposited by Capurro and coworkers 
+(2009).
+
+A  further  9  CNS  were  analyzed  using  tuf  gene  se-
+quencing to confirm the species identification obtained 
+using MALDI-TOF MS. The percentage distribution of 
+CNS species isolated from both the milk samples and 
+human specimens is presented in Table 2. Seven differ-
+ent Staphylococcus spp. were identified among the CNS 
+isolates of bovine origin, with the majority of the isolates 
+being identified as Staph. chromogenes (78.4%). Other 
+species identified included Staph. xylosus (4.9%), Staph. 
+hyicus  (3.9%),  Staph.  simulans  (3.9%),  Staph. haemo-
+lyticus  (1.9%),  Staph.  lugdunensis  (0.9%),  and  Staph. 
+epidermidis (0.9%). Nine species were identified among 
+the  CNS  recovered  from  the  human  specimens,  with 
+Staph. epidermidis  (80%),  Staph. chromogenes  (6.3%), 
+and Staph. haemolyticus (5.3%) predominating.
+
+Antimicrobial Susceptibility Testing  
+of Staphylococcal Isolates
+
+All  staphylococcal  isolates  were  evaluated  for  sus-
+ceptibility to antimicrobials used for the treatment of 
+bovine IMI as well as antimicrobials relevant to human 
+medicine.  The  antimicrobial  susceptibility  profiles  of 
+the Staph. aureus isolates of bovine and human origin 
+are summarized in Table 3. Isolates showing intermedi-
+ate  susceptibility  were  grouped  together  with  isolates 
+showing resistance to the antimicrobial evaluated.
+
+The  Staph.  aureus  isolates  of  bovine  origin  were 
+divided into 8 antibiotypes based on their susceptibil-
+ity  patterns  to  the  different  classes  of  antimicrobials 
+evaluated. Ninety-eight (67.1%) Staph. aureus isolates 
+of bovine origin were susceptible to all of the antimi-
+crobial classes evaluated (pansusceptible). Thirty-nine 
+(26.7%)  isolates  were  resistant  to  a  single  class  of 
+antimicrobials,  whereas  7  (4.8%)  were  resistant  to  2 
+classes. Two (1.4%) Staph. aureus isolates, from differ-
+ent  herds,  exhibited  MDR.  One  of  these  isolates  was 
+resistant to the β-lactams penicillin and ampicillin, as 
+well as tetracycline and potentiated sulfonamides. The 
+second MDR isolate showed resistance to penicillin and 
+ampicillin, tetracycline, and streptomycin. The Staph. 
+aureus isolates of human origin were divided into 4 an-
+tibiotypes. Three (25%) of the 12 Staph. aureus isolates 
+were  pansusceptible;  4  Staph.  aureus  isolates  (33.3%) 
+
+Journal of Dairy Science Vol. 98 No. 9, 2015
+
+PROFiLiNG STAPHYLOCOCCi CAUSiNG MASTiTiS
+
+7
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+)
+5
+2
+(
+ 
+1
+
+)
+0
+2
+(
+ 
+1
+
+)
+0
+.
+5
+(
+ 
+4
+
+)
+5
+2
+(
+ 
+1
+
+)
+2
+(
+ 
+2
+
+)
+9
+.
+4
+(
+ 
+5
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+)
+0
+0
+1
+(
+ 
+1
+
+)
+5
+.
+7
+(
+ 
+6
+
+)
+1
+(
+ 
+1
+
+)
+8
+.
+8
+(
+ 
+9
+
+)
+5
+2
+(
+ 
+1
+
+)
+0
+4
+(
+ 
+2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+)
+0
+0
+1
+(
+ 
+1
+
+)
+0
+5
+(
+ 
+1
+
+)
+0
+0
+1
+(
+ 
+1
+
+)
+0
+5
+(
+ 
+1
+
+)
+0
+0
+1
+(
+ 
+1
+
+)
+0
+0
+1
+(
+ 
+1
+
+)
+3
+.
+1
+4
+(
+ 
+3
+3
+
+)
+3
+.
+1
+4
+(
+ 
+3
+3
+
+)
+5
+.
+2
+(
+ 
+2
+
+)
+4
+.
+8
+7
+(
+ 
+0
+8
+
+)
+0
+4
+(
+ 
+2
+
+)
+0
+4
+(
+ 
+2
+
+)
+3
+.
+6
+3
+(
+ 
+7
+3
+
+)
+3
+.
+7
+3
+(
+ 
+8
+3
+
+)
+9
+.
+1
+(
+ 
+2
+
+)
+0
+0
+1
+(
+ 
+2
+0
+1
+
+2
+d
+e
+t
+a
+u
+l
+a
+v
+e
+ 
+l
+a
+i
+b
+o
+r
+c
+i
+m
+
+i
+t
+n
+A
+
+D
+Z
+L
+
+D
+F
+
+S
+
+N
+E
+G
+
+E
+
+A
+D
+
+F
+X
+M
+
+T
+X
+S
+
+T
+E
+T
+
+F
+K
+
+X
+O
+F
+
+C
+M
+A
+
+P
+M
+A
+
+N
+E
+P
+
+ 
+1
+
+ 
+)
+
+%
+
+(
+ 
+.
+o
+N
+
+R
+D
+M
+
+ 
+f
+o
+
+s
+e
+t
+a
+l
+o
+s
+i
+
+ 
+.
+o
+n
+ 
+l
+a
+t
+o
+T
+
+ 
+f
+o
+ 
+)
+
+%
+
+(
+
+s
+e
+t
+a
+l
+o
+s
+i
+
+n
+o
+i
+t
+a
+c
+i
+f
+i
+t
+n
+e
+d
+i
+ 
+.
+p
+p
+s
+
+ 
+s
+u
+c
+c
+o
+c
+o
+l
+y
+h
+p
+a
+t
+S
+
+ 
+ 
+d
+n
+a
+ 
+n
+i
+g
+i
+r
+O
+
+d
+e
+t
+a
+u
+l
+a
+v
+e
+ 
+s
+l
+a
+i
+b
+o
+r
+c
+i
+m
+
+i
+t
+n
+a
+ 
+t
+n
+e
+r
+e
+f
+f
+i
+d
+ 
+e
+h
+t
+ 
+o
+t
+ 
+S
+N
+C
+ 
+n
+a
+m
+u
+h
+ 
+d
+n
+a
+ 
+e
+n
+i
+v
+o
+b
+ 
+f
+o
+ 
+)
+s
+e
+s
+e
+h
+t
+n
+e
+r
+a
+p
+ 
+n
+i
+ 
+
+%
+
+ 
+;
+.
+o
+n
+(
+ 
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+ 
+c
+i
+p
+y
+t
+o
+n
+e
+h
+P
+
+ 
+.
+2
+ 
+e
+l
+b
+a
+T
+
+)
+0
+5
+(
+ 
+1
+
+)
+0
+0
+1
+(
+ 
+2
+
+)
+7
+.
+6
+1
+(
+ 
+1
+
+)
+3
+.
+1
+(
+ 
+1
+
+)
+9
+.
+3
+(
+ 
+3
+
+)
+7
+.
+6
+1
+(
+ 
+1
+
+)
+7
+.
+9
+1
+(
+ 
+5
+1
+
+)
+0
+0
+1
+(
+ 
+1
+
+)
+0
+4
+(
+ 
+2
+
+)
+7
+.
+6
+1
+(
+ 
+1
+
+)
+9
+.
+7
+(
+ 
+6
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+)
+9
+.
+3
+(
+ 
+3
+
+)
+0
+8
+(
+ 
+4
+
+)
+5
+.
+9
+3
+(
+ 
+0
+3
+
+)
+0
+0
+1
+(
+ 
+5
+
+)
+8
+.
+5
+1
+(
+ 
+2
+1
+
+)
+0
+0
+1
+(
+ 
+5
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+)
+0
+0
+1
+(
+ 
+1
+
+)
+1
+.
+7
+6
+(
+ 
+1
+5
+
+)
+0
+0
+1
+(
+ 
+5
+
+)
+0
+0
+1
+(
+ 
+1
+
+)
+0
+0
+1
+(
+ 
+1
+
+)
+0
+0
+1
+(
+ 
+2
+
+)
+2
+.
+4
+6
+(
+ 
+1
+6
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+)
+3
+.
+5
+(
+ 
+4
+
+)
+4
+.
+3
+9
+(
+ 
+1
+7
+
+)
+4
+.
+3
+9
+(
+ 
+1
+7
+
+)
+0
+0
+1
+(
+ 
+1
+
+)
+3
+.
+3
+8
+(
+ 
+5
+
+)
+0
+0
+1
+(
+ 
+1
+
+)
+3
+.
+3
+8
+(
+ 
+5
+
+)
+0
+0
+1
+(
+ 
+5
+
+)
+0
+0
+1
+(
+ 
+1
+
+)
+0
+0
+1
+(
+ 
+1
+
+)
+0
+0
+1
+(
+ 
+5
+
+)
+0
+0
+1
+(
+ 
+1
+
+)
+0
+0
+1
+(
+ 
+1
+
+)
+7
+.
+6
+1
+(
+ 
+1
+
+)
+2
+.
+8
+3
+(
+ 
+9
+2
+
+)
+0
+0
+1
+(
+ 
+5
+
+)
+0
+0
+1
+(
+ 
+1
+
+)
+0
+5
+(
+ 
+1
+
+)
+
+%
+0
+5
+(
+ 
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+ 
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+)
+9
+.
+0
+(
+ 
+1
+
+)
+9
+.
+1
+(
+ 
+2
+
+)
+9
+.
+3
+(
+ 
+4
+
+)
+9
+.
+0
+(
+ 
+1
+
+)
+9
+.
+3
+(
+ 
+4
+
+)
+9
+.
+4
+(
+ 
+5
+
+)
+9
+.
+4
+(
+ 
+5
+
+)
+1
+.
+1
+(
+ 
+1
+
+)
+3
+.
+6
+(
+ 
+6
+
+)
+0
+8
+(
+ 
+6
+7
+
+)
+3
+.
+5
+(
+ 
+5
+
+)
+1
+.
+1
+(
+ 
+1
+
+)
+1
+.
+1
+(
+ 
+1
+
+)
+1
+.
+1
+(
+ 
+1
+
+)
+1
+.
+2
+(
+ 
+2
+
+)
+1
+.
+2
+(
+ 
+2
+
+s
+e
+n
+e
+g
+o
+m
+o
+r
+h
+c
+ 
+.
+h
+p
+a
+t
+S
+ 
+
+s
+i
+d
+i
+m
+r
+e
+d
+i
+p
+e
+ 
+.
+h
+p
+a
+t
+S
+ 
+
+s
+u
+c
+i
+t
+y
+l
+o
+m
+e
+a
+h
+ 
+.
+h
+p
+a
+t
+S
+ 
+
+s
+i
+s
+n
+e
+n
+u
+d
+g
+u
+l
+ 
+.
+h
+p
+a
+t
+S
+ 
+
+s
+n
+a
+l
+u
+m
+
+i
+s
+ 
+.
+h
+p
+a
+t
+S
+ 
+
+s
+u
+s
+o
+l
+y
+x
+ 
+.
+h
+p
+a
+t
+S
+ 
+
+.
+p
+p
+s
+ 
+s
+u
+c
+c
+o
+c
+o
+l
+y
+h
+p
+a
+t
+S
+ 
+
+s
+u
+c
+i
+y
+h
+ 
+.
+h
+p
+a
+t
+S
+ 
+
+e
+n
+i
+v
+o
+B
+
+n
+a
+m
+u
+H
+
+l
+a
+t
+o
+T
+
+s
+e
+n
+e
+g
+o
+m
+o
+r
+h
+c
+ 
+.
+h
+p
+a
+t
+S
+ 
+
+s
+i
+d
+i
+m
+r
+e
+d
+i
+p
+e
+ 
+.
+h
+p
+a
+t
+S
+ 
+
+s
+u
+c
+i
+t
+y
+l
+o
+m
+e
+a
+h
+ 
+.
+h
+p
+a
+t
+S
+ 
+
+s
+i
+s
+n
+e
+n
+u
+d
+g
+u
+l
+ 
+.
+h
+p
+a
+t
+S
+ 
+
+s
+i
+n
+i
+m
+o
+h
+ 
+.
+h
+p
+a
+t
+S
+ 
+
+s
+i
+t
+i
+p
+a
+c
+ 
+.
+h
+p
+a
+t
+S
+ 
+
+s
+u
+i
+d
+e
+m
+r
+e
+t
+n
+i
+d
+u
+e
+s
+p
+ 
+.
+h
+p
+a
+t
+S
+ 
+
+s
+n
+a
+l
+u
+m
+
+i
+s
+ 
+.
+h
+p
+a
+t
+S
+ 
+
+i
+r
+u
+i
+c
+s
+ 
+.
+h
+p
+a
+t
+S
+ 
+
+l
+a
+t
+o
+T
+
+)
+1
+.
+1
+(
+ 
+1
+
+)
+1
+.
+2
+(
+ 
+2
+
+)
+2
+.
+3
+(
+ 
+3
+
+)
+0
+.
+0
+2
+(
+ 
+9
+1
+
+)
+5
+.
+9
+(
+ 
+9
+
+)
+4
+.
+7
+(
+ 
+7
+
+)
+8
+.
+6
+3
+(
+ 
+5
+3
+
+)
+9
+.
+7
+1
+(
+ 
+7
+1
+
+)
+2
+.
+4
+(
+ 
+4
+
+)
+4
+.
+8
+8
+(
+ 
+4
+8
+
+)
+5
+.
+9
+8
+(
+ 
+5
+8
+
+)
+0
+.
+9
+3
+(
+ 
+7
+3
+
+)
+0
+0
+1
+(
+ 
+5
+9
+
+ 
+;
+e
+l
+o
+z
+a
+x
+o
+h
+t
+e
+m
+a
+f
+l
+u
+s
+ 
+d
+n
+a
+ 
+m
+
+i
+r
+p
+o
+h
+t
+e
+m
+
+i
+r
+t
+ 
+
+ 
+
+=
+T
+X
+S
+ 
+;
+e
+n
+
+i
+l
+c
+y
+c
+a
+r
+t
+e
+t
+ 
+
+ 
+
+=
+T
+E
+T
+
+i
+
+ 
+;
+n
+h
+t
+o
+l
+a
+h
+p
+e
+c
+ 
+=
+ 
+F
+K
+
+ 
+
+ 
+;
+n
+i
+t
+i
+x
+o
+f
+e
+c
+ 
+=
+X
+O
+F
+ 
+;
+d
+i
+c
+a
+ 
+c
+i
+n
+a
+l
+u
+v
+a
+l
+c
+/
+n
+
+i
+l
+l
+i
+c
+i
+x
+o
+m
+a
+ 
+=
+C
+M
+A
+
+ 
+
+ 
+;
+n
+
+i
+l
+l
+i
+c
+i
+p
+m
+a
+ 
+=
+P
+M
+A
+
+ 
+
+ 
+;
+n
+
+i
+l
+l
+i
+c
+i
+n
+e
+p
+ 
+=
+N
+E
+P
+
+ 
+
+ 
+.
+d
+
+i
+l
+o
+z
+e
+n
+
+i
+l
+ 
+
+ 
+
+=
+D
+Z
+L
+ 
+;
+d
+i
+c
+a
+ 
+c
+i
+d
+i
+s
+u
+f
+ 
+
+ 
+
+=
+D
+F
+ 
+;
+n
+i
+c
+y
+m
+o
+t
+p
+e
+r
+t
+s
+ 
+=
+ 
+S
+ 
+;
+n
+i
+c
+i
+m
+a
+t
+n
+e
+g
+ 
+=
+N
+E
+G
+
+ 
+
+ 
+;
+n
+i
+c
+y
+m
+o
+r
+h
+t
+y
+r
+e
+ 
+=
+E
+
+ 
+
+ 
+;
+n
+i
+c
+y
+m
+a
+d
+n
+
+i
+l
+c
+ 
+=
+A
+D
+
+ 
+
+ 
+;
+n
+i
+c
+a
+x
+o
+l
+f
+i
+x
+o
+m
+=
+ 
+F
+X
+M
+
+ 
+
+2
+
+.
+)
+s
+e
+s
+s
+a
+l
+c
+ 
+l
+a
+i
+b
+o
+r
+c
+i
+m
+
+i
+t
+n
+a
+ 
+3
+≥
+ 
+o
+t
+ 
+t
+n
+a
+t
+s
+i
+s
+e
+r
+(
+ 
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+ 
+g
+u
+r
+d
+i
+t
+l
+u
+M
+
+1
+
+Journal of Dairy Science Vol. 98 No. 9, 2015
+
+8
+
+SCHMiDT eT AL.
+
+T
+P
+C
+
+D
+Z
+L
+
+D
+F
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+0
+
+)
+1
+.
+7
+6
+(
+ 
+8
+9
+
+2
+d
+e
+t
+a
+u
+l
+a
+v
+e
+ 
+l
+a
+i
+b
+o
+r
+c
+i
+m
+
+i
+t
+n
+A
+
+N
+E
+G
+
+E
+
+A
+D
+
+F
+X
+M
+
+T
+X
+S
+
+T
+E
+T
+
+F
+K
+
+X
+O
+F
+
+C
+M
+A
+
+P
+M
+A
+
+N
+E
+P
+
+ 
+f
+o
+ 
+s
+e
+s
+s
+a
+l
+c
+ 
+f
+o
+ 
+.
+o
+N
+
+ 
+s
+l
+a
+i
+b
+o
+r
+c
+i
+m
+
+i
+t
+n
+a
+
+ 
+)
+
+%
+
+(
+ 
+.
+o
+N
+
+ 
+s
+e
+t
+a
+l
+o
+s
+i
+ 
+f
+o
+
+ 
+h
+c
+i
+h
+w
+ 
+o
+t
+
+ 
+h
+t
+i
+w
+
+ 
+s
+a
+w
+ 
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+
+ 
+c
+i
+p
+y
+t
+o
+n
+e
+h
+p
+
+d
+e
+t
+c
+e
+t
+e
+d
+
+n
+r
+e
+t
+t
+a
+p
+
+ 
+n
+i
+g
+i
+r
+o
+ 
+f
+o
+ 
+m
+r
+a
+f
+ 
+,
+s
+e
+i
+c
+e
+p
+S
+
+)
+s
+e
+t
+a
+l
+o
+s
+i
+ 
+f
+o
+ 
+.
+o
+n
+(
+
+s
+t
+s
+o
+h
+ 
+n
+a
+m
+u
+h
+ 
+d
+n
+a
+ 
+e
+n
+i
+v
+o
+b
+ 
+m
+o
+r
+f
+ 
+d
+e
+r
+e
+v
+o
+c
+e
+r
+ 
+s
+e
+t
+a
+l
+o
+s
+i
+ 
+s
+u
+e
+r
+u
+a
+ 
+s
+u
+c
+c
+o
+c
+o
+l
+y
+h
+p
+a
+t
+S
+ 
+f
+o
+ 
+1
+y
+t
+i
+l
+i
+
+b
+i
+t
+p
+e
+c
+s
+u
+s
+ 
+c
+i
+p
+y
+t
+o
+n
+e
+h
+P
+
+ 
+.
+3
+ 
+e
+l
+b
+a
+T
+
+Journal of Dairy Science Vol. 98 No. 9, 2015
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+0
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+0
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+0
+
+S
+
+R
+
+S
+
+R
+
+R
+
+R
+
+S
+
+)
+2
+.
+8
+(
+ 
+2
+1
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+0
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+0
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+0
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+0
+
+S
+
+S
+
+S
+
+S
+
+0
+
+S
+
+S
+
+S
+
+S
+
+0
+
+S
+
+S
+
+S
+
+S
+
+0
+
+S
+
+S
+
+S
+
+S
+
+0
+
+S
+
+S
+
+S
+
+S
+
+0
+
+S
+
+S
+
+S
+
+S
+
+0
+
+S
+
+S
+
+S
+
+S
+
+0
+
+S
+
+S
+
+S
+
+S
+
+0
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+)
+7
+.
+0
+(
+ 
+1
+
+R
+
+S
+
+S
+
+S
+
+R
+
+R
+
+R
+
+)
+7
+.
+2
+(
+ 
+4
+
+S
+
+S
+
+S
+
+R
+
+)
+3
+.
+8
+(
+ 
+1
+
+S
+
+S
+
+R
+
+R
+
+)
+6
+.
+1
+4
+(
+ 
+5
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+0
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+0
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+0
+
+S
+
+S
+
+S
+
+S
+
+0
+
+S
+
+S
+
+S
+
+S
+
+0
+
+S
+
+S
+
+S
+
+S
+
+0
+
+S
+
+S
+
+R
+
+R
+
+S
+
+R
+
+R
+
+)
+8
+.
+8
+2
+(
+ 
+2
+4
+
+S
+
+S
+
+R
+
+R
+
+S
+
+R
+
+R
+
+)
+8
+.
+8
+2
+(
+ 
+2
+4
+
+S
+
+R
+
+R
+
+R
+
+)
+5
+7
+(
+ 
+9
+
+S
+
+R
+
+R
+
+R
+
+)
+5
+7
+(
+ 
+9
+
+1
+
+1
+
+1
+
+2
+
+2
+
+3
+
+3
+
+ 
+ 
+
+0
+
+1
+
+2
+
+3
+
+ 
+
+)
+7
+.
+0
+(
+ 
+1
+
+)
+7
+.
+2
+(
+ 
+4
+
+)
+3
+.
+3
+2
+(
+ 
+4
+3
+
+)
+1
+.
+4
+(
+ 
+6
+
+)
+7
+.
+0
+(
+ 
+1
+
+)
+7
+.
+0
+(
+ 
+1
+
+)
+7
+.
+0
+(
+ 
+1
+
+)
+0
+0
+1
+(
+ 
+6
+4
+1
+
+)
+3
+.
+3
+3
+(
+ 
+4
+
+)
+3
+.
+3
+3
+(
+ 
+4
+
+)
+3
+.
+8
+(
+ 
+1
+
+)
+5
+2
+(
+ 
+3
+
+)
+0
+0
+1
+(
+ 
+2
+1
+
+ 
+;
+e
+l
+o
+z
+a
+x
+o
+h
+t
+e
+m
+a
+f
+l
+u
+s
+ 
+d
+n
+a
+ 
+m
+
+i
+r
+p
+o
+h
+t
+e
+m
+
+i
+r
+t
+ 
+
+ 
+
+=
+T
+X
+S
+ 
+;
+e
+n
+
+i
+l
+c
+y
+c
+a
+r
+t
+e
+t
+ 
+
+ 
+
+=
+T
+E
+T
+
+i
+
+ 
+;
+n
+h
+t
+o
+l
+a
+h
+p
+e
+c
+ 
+=
+ 
+F
+K
+
+ 
+
+ 
+;
+n
+i
+t
+i
+x
+o
+f
+e
+c
+ 
+=
+X
+O
+F
+ 
+;
+d
+i
+c
+a
+ 
+c
+i
+n
+a
+l
+u
+v
+a
+l
+c
+/
+n
+
+i
+l
+l
+i
+c
+i
+x
+o
+m
+a
+ 
+=
+C
+M
+A
+
+ 
+
+ 
+;
+n
+
+i
+l
+l
+i
+c
+i
+p
+m
+a
+ 
+=
+P
+M
+A
+
+ 
+
+ 
+;
+n
+
+i
+l
+l
+i
+c
+i
+n
+e
+p
+ 
+=
+N
+E
+P
+
+ 
+
+.
+e
+n
+
+i
+l
+o
+r
+a
+t
+f
+e
+c
+ 
+=
+T
+P
+C
+
+ 
+
+ 
+;
+d
+
+i
+l
+o
+z
+e
+n
+
+i
+l
+ 
+
+ 
+
+=
+D
+Z
+L
+ 
+;
+d
+i
+c
+a
+ 
+c
+i
+d
+i
+s
+u
+f
+ 
+
+ 
+
+=
+D
+F
+ 
+;
+n
+i
+c
+y
+m
+o
+t
+p
+e
+r
+t
+s
+ 
+=
+ 
+S
+ 
+;
+n
+i
+c
+i
+m
+a
+t
+n
+e
+g
+ 
+=
+N
+E
+G
+
+ 
+
+ 
+;
+n
+i
+c
+y
+m
+o
+r
+h
+t
+y
+r
+e
+ 
+=
+E
+
+ 
+
+ 
+;
+n
+i
+c
+y
+m
+a
+d
+n
+
+i
+l
+c
+ 
+=
+A
+D
+
+ 
+
+ 
+;
+n
+i
+c
+a
+x
+o
+l
+f
+i
+x
+o
+m
+=
+ 
+F
+X
+M
+
+ 
+
+ 
+ 
+,
+)
+9
+(
+ 
+
+ 
+,
+)
+5
+1
+(
+ 
+D
+
+ 
+,
+)
+3
+(
+ 
+C
+
+ 
+,
+)
+3
+(
+ 
+A
+
+)
+3
+1
+(
+ 
+L
+ 
+,
+)
+4
+(
+ 
+I
+ 
+,
+)
+3
+(
+ 
+H
+
+G
+
+ 
+,
+)
+0
+2
+(
+ 
+F
+ 
+,
+)
+8
+2
+(
+ 
+E
+
+ 
+
+ 
+
+)
+1
+(
+ 
+A
+
+)
+1
+(
+ 
+B
+
+ 
+,
+)
+1
+(
+ 
+
+G
+
+ 
+,
+)
+1
+(
+ 
+L
+ 
+,
+)
+3
+(
+ 
+I
+ 
+
+)
+4
+1
+(
+ 
+I
+ 
+,
+)
+7
+(
+ 
+
+G
+
+ 
+,
+)
+3
+1
+(
+ 
+B
+
+)
+2
+(
+ 
+F
+ 
+,
+)
+1
+(
+ 
+E
+
+ 
+,
+)
+1
+(
+ 
+A
+
+e
+n
+i
+v
+o
+B
+
+)
+1
+(
+ 
+L
+ 
+
+)
+1
+(
+ 
+
+G
+
+ 
+
+)
+1
+(
+ 
+L
+ 
+
+)
+1
+(
+ 
+J
+ 
+,
+)
+1
+(
+ 
+C
+
+)
+1
+(
+ 
+
+M
+
+ 
+,
+)
+1
+(
+ 
+E
+
+ 
+,
+)
+1
+(
+ 
+B
+
+ 
+,
+)
+1
+(
+ 
+D
+
+ 
+,
+)
+1
+(
+ 
+A
+
+)
+2
+(
+ 
+J
+ 
+,
+)
+1
+(
+ 
+F
+ 
+,
+)
+1
+(
+ 
+B
+
+s
+e
+t
+a
+l
+o
+s
+i
+ 
+f
+o
+ 
+.
+o
+N
+
+ 
+
+)
+1
+(
+ 
+L
+ 
+
+s
+e
+t
+a
+l
+o
+s
+i
+ 
+f
+o
+ 
+.
+o
+N
+
+ 
+
+n
+a
+m
+u
+H
+
+.
+t
+n
+a
+t
+s
+i
+s
+e
+r
+ 
+=
+R
+
+ 
+
+ 
+;
+e
+l
+b
+i
+t
+p
+e
+c
+s
+u
+s
+ 
+=
+ 
+S
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+
+PROFiLiNG STAPHYLOCOCCi CAUSiNG MASTiTiS
+
+9
+
+were  resistant  to  a  single  class  of  antimicrobials;  and 
+a further 4 isolates (33.3%) were resistant to 2 classes 
+of  antimicrobials.  A  single  Staph.  aureus  isolate  was 
+found to be MDR, showing resistance to penicillin and 
+ampicillin, as well as tetracycline and the potentiated 
+sulfonamides.  None  of  the  Staph.  aureus  isolates  of 
+bovine or human origin showed resistance to cefoxitin 
+(surrogate for methicillin and other penicillinase-resis-
+tant β-lactams), ceftaroline, cephalothin, clindamycin, 
+erythromycin,  fusidic  acid,  gentamicin,  linezolid,  or 
+moxifloxacin.
+
+The antimicrobial susceptibility of the different CNS 
+species of bovine and human origin are summarized in 
+Tables 2 and 4. Phenotypic resistance to penicillin and 
+ampicillin  was  observed  in  37.3%  of  the  bovine  CNS 
+isolates and 89.5% of the human CNS isolates. Among 
+the 102 bovine CNS isolates evaluated, only 2 Staph. 
+chromogenes (1.9%) isolates showed MDR. None of the 
+bovine  CNS  isolates  showed  phenotypic  resistance  to 
+cefoxitin, cephalothin, clindamycin, erythromycin, gen-
+tamicin, linezolid, or moxifloxacin. By comparison, 37 
+(39%) of the human CNS isolates were MDR. The resis-
+tance profiles of the MDR isolates are detailed in Table 
+4.  None  of  the  CNS  isolates  of  human  origin  showed 
+phenotypic resistance to cephalothin or linezolid. The 
+15 human CNS isolates, which tested positive for the 
+presence  of  the  mecA  gene  using  the  first  multiplex 
+PCR assay and were subsequently identified as Staph. 
+epidermidis (n = 12) and Staph. haemolyticus (n = 5), 
+were found to be phenotypically resistant to cefoxitin.
+
+PCR Screening of Staphylococcal Isolates  
+for Antimicrobial Resistance Determinants
+
+The blaZ gene was detected in 172 of the 355 (48.5%) 
+staphylococcal isolates examined. All 172 isolates were 
+found to be resistant to penicillin when tested pheno-
+typically. Two isolates, 1 Staph. sciuri (human origin) 
+and  1  Staph.  chromogenes  (bovine  origin),  that  were 
+found  to  be  phenotypically  resistant  to  penicillin  did 
+not test positive for the blaZ gene using the multiplex 
+PCR assay. None of the staphylococcal isolates tested 
+positive  for  the  presence  of  the  tetM  gene.  The  tetK 
+gene  was  detected  in  76  of  79  (96.2%)  isolates  that 
+were phenotypically resistant to tetracycline. Three of 
+the  staphylococcal  isolates  that  were  phenotypically 
+resistant to tetracycline did not carry either the tetK or 
+tetM gene. Nine isolates of human origin (4 Staph. epi-
+dermidis, 5 Staph. haemolyticus) tested positive for the 
+presence of the aminoglycoside resistance determinant 
+aacA-aphD. None of the bovine isolates were found to 
+be  carrying  this  specific  gene.  None  of  the  staphylo-
+coccal isolates were positive for the mecC gene or the 
+vancomycin resistance determinants vanA and vanB.
+
+DISCUSSION
+
+Staphylococci  are  a  common  cause  of  bovine  IMI 
+worldwide, including South Africa (Petzer et al., 2009). 
+This study was not designed to carry out a prevalence 
+study but rather to facilitate the collection of a represen-
+tative number of staphylococcal isolates from different 
+dairy  operations  in  KZN  for  further  characterization. 
+Consequently, the selection of participating commercial 
+dairy herds was based on the criterion that each of the 
+herds  had  a  history  of  IMI  caused  by  Staphylococcus 
+spp.
+
+A combination of methods was used to identify the 
+CNS  isolates  of  bovine  and  human  origin.  This  ap-
+proach was used to improve the accuracy of bacterial 
+identification  at  the  species  level.  The  predominant 
+CNS species recovered from the milk samples analyzed 
+in this study was Staph. chromogenes, which accounted 
+for 78.4% of the isolates examined. The proportion of 
+different Staphylococcus species recovered from bovine 
+IMI has varied between studies carried out in different 
+countries.  In  general,  Staph. chromogenes,  Staph. hae-
+molyticus,  Staph.  epidermidis,  Staph.  simulans,  and 
+Staph. xylosus are usually among the most commonly 
+isolated species (Vanderhaeghen et al., 2015). In Swe-
+den, Persson-Waller and coworkers (2011) found Staph. 
+chromogenes (24%) and Staph. epidermidis (22%) to be 
+the most common CNS species identified among a col-
+lection  of  isolates  assembled  from  2  national  mastitis 
+surveys. A study in Switzerland reported Staph. xylosus 
+(36.0%) and Staph. chromogenes (16.8%) to be among 
+the  most  common  CNS  causing  mastitis  (Frey  et  al., 
+2013). In the United States, Park and coworkers (2011) 
+identified 11 CNS species from cases of mastitis, with 
+Staph.  chromogenes  (72.2%),  Staph.  xylosus  (9.1%), 
+and  Staph.  haemolyticus  (6.1%)  being  the  most  com-
+mon species identified. It has been suggested that the 
+distribution of CNS species causing IMI is herd-specific 
+and may be influenced by specific management prac-
+tices that may vary between countries (Thorberg et al., 
+2009; Supré et al., 2011). Species-level epidemiological 
+studies conducted in European dairy herds have shown 
+that Staph. chromogenes is a more specific udder patho-
+gen than the other CNS and tends to cause persistent 
+IMI  (Supré  et  al.,  2011).  Staphylococcus  chromogenes 
+was also found to have a significant effect on the SCC 
+of infected quarters, comparable to counts induced by 
+Staph. aureus infections (Supré et al., 2011).
+
+Five  of  the  CNS  isolates  remained  unidentified  fol-
+lowing PCR, MALDI-TOF MS, and sequencing of the 
+tuf  gene.  All  5  of  the  isolates  had  the  same  tuf  gene 
+sequence  and  in  all  likelihood  are  the  same  species. 
+The  tuf  gene  sequence  showed  99  to  100%  similarity 
+with sequence data deposited by Capurro and cowork-
+
+Journal of Dairy Science Vol. 98 No. 9, 2015
+
+10
+
+SCHMiDT eT AL.
+
+D
+Z
+L
+
+D
+F
+
+S
+
+N
+E
+G
+
+S
+
+S
+
+R
+
+S
+
+E
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+R
+
+R
+
+3
+
+3
+d
+e
+t
+a
+u
+l
+a
+v
+e
+ 
+l
+a
+i
+b
+o
+r
+c
+i
+m
+
+i
+t
+n
+A
+
+A
+D
+
+F
+X
+M
+
+T
+X
+S
+
+T
+E
+T
+
+F
+K
+
+X
+O
+F
+
+C
+M
+A
+
+P
+M
+A
+
+N
+E
+P
+
+ 
+s
+e
+s
+s
+a
+l
+c
+ 
+f
+o
+ 
+.
+o
+N
+
+ 
+l
+a
+i
+b
+o
+r
+c
+i
+m
+
+i
+t
+n
+a
+ 
+f
+o
+
+d
+e
+t
+c
+e
+t
+e
+d
+ 
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+
+ 
+f
+o
+ 
+m
+r
+a
+F
+
+2
+n
+i
+g
+i
+r
+o
+
+)
+2
+(
+ 
+D
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+R
+
+R
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+S
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+4
+
+2
+
+3
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+R
+
+R
+
+R
+
+R
+
+S
+
+R
+
+R
+
+R
+
+R
+
+S
+
+R
+
+R
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+R
+
+R
+
+S
+
+S
+
+R
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+R
+
+S
+
+S
+
+S
+
+R
+
+R
+
+S
+
+R
+
+S
+
+S
+
+S
+
+R
+
+R
+
+S
+
+S
+
+R
+
+R
+
+R
+
+S
+
+R
+
+R
+
+S
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+S
+
+S
+
+R
+
+S
+
+S
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+S
+
+R
+
+S
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+R
+
+S
+
+S
+
+R
+
+S
+
+S
+
+R
+
+S
+
+S
+
+R
+
+R
+
+R
+
+S
+
+R
+
+R
+
+R
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+4
+
+4
+
+4
+
+4
+
+4
+
+4
+
+4
+
+5
+
+5
+
+6
+
+4
+
+4
+
+5
+
+3
+
+3
+
+ 
+,
+)
+1
+(
+ 
+D
+
+ 
+,
+)
+3
+(
+ 
+C
+
+ 
+,
+)
+1
+(
+ 
+A
+
+)
+1
+(
+M
+
+ 
+,
+)
+1
+(
+ 
+L
+ 
+,
+)
+1
+(
+ 
+J
+
+)
+1
+(
+ 
+J
+ 
+,
+)
+1
+(
+ 
+A
+
+)
+1
+(
+ 
+L
+ 
+,
+)
+1
+(
+ 
+H
+
+ 
+,
+)
+1
+(
+ 
+A
+
+)
+1
+(
+ 
+F
+
+)
+1
+(
+ 
+A
+
+)
+1
+(
+ 
+A
+
+)
+1
+(
+ 
+A
+
+)
+1
+(
+ 
+E
+
+)
+1
+(
+ 
+F
+
+)
+1
+(
+ 
+H
+
+)
+1
+(
+ 
+J
+
+)
+1
+(
+ 
+A
+
+)
+1
+(
+ 
+E
+
+)
+1
+(
+ 
+E
+
+)
+1
+(
+ 
+I
+
+)
+1
+(
+ 
+J
+
+)
+1
+(
+ 
+J
+
+)
+1
+(
+ 
+J
+
+)
+1
+(
+ 
+H
+
+)
+1
+(
+ 
+H
+
+)
+1
+(
+ 
+
+M
+
+)
+1
+(
+ 
+C
+
+)
+1
+(
+ 
+E
+
+)
+1
+(
+ 
+C
+
+ 
+,
+)
+1
+(
+ 
+A
+
+)
+1
+(
+ 
+J
+ 
+,
+)
+1
+(
+ 
+E
+
+s
+e
+n
+e
+g
+o
+m
+o
+r
+h
+c
+ 
+.
+h
+p
+a
+t
+S
+ 
+
+s
+i
+d
+i
+m
+r
+e
+d
+i
+p
+e
+ 
+.
+h
+p
+a
+t
+S
+ 
+
+ 
+s
+u
+c
+c
+o
+c
+o
+l
+y
+h
+p
+a
+t
+S
+ 
+
+s
+e
+n
+e
+g
+o
+m
+o
+r
+h
+c
+ 
+
+ 
+
+n
+a
+m
+u
+H
+
+e
+n
+i
+v
+o
+B
+
+s
+e
+i
+c
+e
+p
+s
+ 
+d
+n
+a
+ 
+n
+i
+g
+i
+r
+O
+
+s
+u
+c
+i
+t
+y
+l
+o
+m
+e
+a
+h
+ 
+.
+h
+p
+a
+t
+S
+ 
+
+s
+i
+n
+i
+m
+o
+h
+ 
+.
+h
+p
+a
+t
+S
+ 
+
+i
+r
+u
+i
+c
+s
+ 
+.
+h
+p
+a
+t
+S
+ 
+
+ 
+;
+e
+l
+o
+z
+a
+x
+o
+h
+t
+e
+m
+a
+f
+l
+u
+s
+ 
+d
+n
+a
+ 
+m
+
+i
+r
+p
+o
+h
+t
+e
+m
+
+i
+r
+t
+ 
+
+ 
+
+=
+T
+X
+S
+ 
+;
+e
+n
+
+i
+l
+c
+y
+c
+a
+r
+t
+e
+t
+ 
+
+ 
+
+=
+T
+E
+T
+
+i
+
+ 
+;
+n
+h
+t
+o
+l
+a
+h
+p
+e
+c
+ 
+=
+ 
+F
+K
+
+ 
+
+ 
+;
+n
+i
+t
+i
+x
+o
+f
+e
+c
+ 
+=
+X
+O
+F
+ 
+;
+d
+i
+c
+a
+ 
+c
+i
+n
+a
+l
+u
+v
+a
+l
+c
+/
+n
+
+i
+l
+l
+i
+c
+i
+x
+o
+m
+a
+ 
+=
+C
+M
+A
+
+ 
+
+ 
+;
+n
+
+i
+l
+l
+i
+c
+i
+p
+m
+a
+ 
+=
+P
+M
+A
+
+ 
+
+ 
+;
+n
+
+i
+l
+l
+i
+c
+i
+n
+e
+p
+ 
+=
+N
+E
+P
+
+ 
+
+.
+d
+
+i
+l
+o
+z
+e
+n
+
+i
+l
+ 
+
+ 
+
+=
+D
+Z
+L
+ 
+;
+d
+i
+c
+a
+ 
+c
+i
+d
+i
+s
+u
+f
+ 
+
+ 
+
+=
+D
+F
+ 
+;
+n
+i
+c
+y
+m
+o
+t
+p
+e
+r
+t
+s
+ 
+=
+ 
+S
+ 
+;
+n
+i
+c
+i
+m
+a
+t
+n
+e
+g
+ 
+=
+N
+E
+G
+
+ 
+
+ 
+;
+n
+i
+c
+y
+m
+o
+r
+h
+t
+y
+r
+e
+ 
+=
+E
+
+ 
+
+ 
+;
+n
+i
+c
+y
+m
+a
+d
+n
+
+i
+l
+c
+ 
+=
+A
+D
+
+ 
+
+ 
+;
+n
+i
+c
+a
+x
+o
+l
+f
+i
+x
+o
+m
+=
+ 
+F
+X
+M
+
+ 
+
+.
+s
+e
+s
+e
+h
+t
+n
+e
+r
+a
+p
+ 
+n
+i
+ 
+s
+e
+t
+a
+l
+o
+s
+i
+ 
+f
+o
+ 
+r
+e
+b
+m
+u
+N
+
+.
+t
+n
+a
+t
+s
+i
+s
+e
+r
+ 
+=
+R
+
+ 
+
+ 
+;
+e
+l
+b
+i
+t
+p
+e
+c
+s
+u
+s
+ 
+=
+ 
+S
+1
+
+2
+
+3
+
+1
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+ 
+g
+u
+r
+d
+ 
+e
+l
+p
+i
+t
+l
+u
+m
+ 
+g
+n
+w
+o
+h
+s
+ 
+s
+e
+t
+a
+l
+o
+s
+i
+ 
+S
+N
+C
+
+i
+
+ 
+f
+o
+ 
+s
+e
+l
+i
+f
+o
+r
+p
+ 
+l
+a
+i
+b
+o
+r
+c
+i
+m
+
+i
+t
+n
+A
+
+ 
+.
+4
+ 
+e
+l
+b
+a
+T
+
+Journal of Dairy Science Vol. 98 No. 9, 2015
+
+PROFiLiNG STAPHYLOCOCCi CAUSiNG MASTiTiS
+
+11
+
+ers  (2009),  which  interestingly  belonged  to  an  isolate 
+recovered  from  mastitic  milk  samples  in  Finland.  In 
+recent  years,  several  new  Staphylococcus  species  have 
+been described. Supré and coworkers (2010) described 
+a novel Staphylococcus species, Staph. devriesei, which 
+had  been  isolated  from  bovine  teat  apices  as  well  as 
+milk  from  study  herds  in  Belgium  and  the  Nether-
+lands. Taponen and coworkers (2012) published details 
+describing  a  new,  previously  unidentified  Staphylococ-
+cus  species,  named  Staph. agnetis.  Isolates  represent-
+ing  this  newly  described  species  were  recovered  from 
+bovine  milk  samples  (Taponen  et  al.,  2012).  Further 
+genotyping  studies  will  be  undertaken  to  identify  the 
+unidentified  Staphylococcus  spp.  recovered  from  the 
+milk samples analyzed in the current study.
+
+The  predominant  CNS  recovered  from  the  human 
+nasal swab samples was Staph. epidermidis. This is not 
+surprising as Staph. epidermidis is a known commensal 
+forming part of the natural microflora on human skin 
+(Thorberg et al., 2006). Molecular typing studies con-
+ducted  by  Thorberg  and  coworkers  (2006)  in  Sweden 
+showed that Staph. epidermidis isolates recovered from 
+cases of mastitis were genotypically identical to those 
+recovered from the skin of milkers. This observation led 
+them to suggest that Staph. epidermidis is a zoonotic 
+organism. In contrast to the high prevalence of Staph. 
+epidermidis in the human swab samples analyzed in the 
+current study, only one of the bovine isolates tested was 
+identified as Staph. epidermidis. This may indicate that 
+Staph. epidermidis is not a significant causative agent 
+of IMI in our study area.
+
+Overall, 15.2% of the humans sampled in this study 
+were found to harbor Staph. aureus. It is reported that 
+approximately  20%  of  healthy  human  individuals  are 
+persistent carriers of Staph. aureus, 30% are intermit-
+tent carriers, and 50% of individuals are never colonized 
+by  Staph. aureus  (Kluytmans  and  Struelans,  2009; 
+Graveland et al., 2011). Nasal carriage of Staph. aureus 
+is  recognized  as  a  risk  factor  for  acquiring  infections 
+and  additionally  plays  a  role  in  the  dissemination  of 
+Staph. aureus in hospitals and the community (Zriouil 
+et al., 2012).
+
+The β-lactam antibiotics penicillin and ampicillin are 
+used  extensively  for  the  prevention  and  treatment  of 
+IMI in dairy cows (IVS, 2015). In South Africa, more 
+than half of the intramammary preparations available 
+for use comprise penicillin or ampicillin with or without 
+dihydrostreptomycin  (IVS,  2015).  Furthermore,  many 
+of  the  preparations  are  available  to  farmers  over  the 
+counter, making it difficult to monitor and control an-
+timicrobial usage. In our study, resistance to penicillin 
+was the most commonly detected resistance, with 28.8% 
+of  Staph.  aureus  and  37.3%  of  CNS  isolates  showing 
+phenotypic resistance to penicillin. This scenario paral-
+
+lels reports from other countries. Pyörälä and coworkers 
+(2011) indicated that generally between one-third and 
+two-thirds of bovine Staph. aureus isolates are resistant 
+to penicillin, with lower percentages being reported in 
+countries where strict antimicrobial policies have been 
+implemented. Differences in the levels of bacterial re-
+sistance documented between studies are influenced by 
+sampling strategies and bacterial populations but also 
+by differences in test methodology and the use of dif-
+ferent interpretation criteria (Barkema et al., 2006). It 
+is therefore suggested that comparisons between stud-
+ies  be  restricted  to  studies  that  have  used  the  same 
+methodology  and  interpretation  criteria  (Schwarz  et 
+al., 2010).
+
+It is of great significance, from both an animal and 
+a public health perspective, that none of the staphylo-
+coccal isolates of bovine origin exhibited resistance to 
+cefoxitin, the in vitro surrogate for examining the phe-
+notypic susceptibility of isolates to methicillin (CLSI, 
+2014).  Several  studies  have  reported  on  the  presence 
+of  methicillin-resistant  staphylococci  in  milk  samples, 
+raising  concerns  over  milk  as  a  source  of  methicillin-
+resistant  bacteria.  In  Switzerland,  47%  of  the  CNS 
+isolates  evaluated  in  vitro  were  found  to  be  resistant 
+to oxacillin (Frey et al., 2013). Vanderhaeghen and co-
+workers (2010) found that almost 10% of herds sampled 
+in Belgium to have cases of mastitis caused by MRSA. 
+The  in-herd  prevalence  of  MRSA  varied  between  0 
+and 7.4%. Furthermore, all strains had characteristics 
+typical of the zoonotic LA-MRSA strains belonging to 
+clonal complex (CC) 398.
+
+In South Africa, antimicrobial susceptibility data are 
+sparse. Three studies have reported on the occurrence 
+of  MRSA  from  cases  of  bovine  mastitis  with  preva-
+lence rates varying between 1.1 and 93.2% (Petzer et 
+al., 2007; Ateba et al., 2010; Schmidt, 2011). The high 
+prevalence of 93.2% noted in one study is largely attrib-
+utable to the sampling approach and the small sample 
+size (Ateba et al., 2010). None of the studies confirmed 
+the presence of the mecA gene in the isolates exhibit-
+ing phenotypic resistance. Generally, it is accepted that 
+screening for mecA is the most reliable method for the 
+detection  of  methicillin  resistance  in  staphylococcal 
+isolates.  Performing  only  phenotypic  tests  has  previ-
+ously  led  to  the  reporting  of  both  false-positive  and 
+false-negative results (Vanderhaeghen et al., 2010).
+
+Phenotypic  resistance  to  antimicrobials  other  than 
+penicillin  and  ampicillin  was  not  common  among  the 
+bovine staphylococcal isolates evaluated in our study. A 
+low percentage of Staph. aureus (8.2%) and CNS (4.9%) 
+isolates exhibited phenotypic resistance to streptomy-
+cin.  Resistance  to  tetracycline  was  also  noted,  with 
+2.7% of the Staph. aureus and 8.8% of the CNS isolates 
+showing  phenotypic  resistance  to  this  antimicrobial. 
+
+Journal of Dairy Science Vol. 98 No. 9, 2015
+
+12
+
+SCHMiDT eT AL.
+
+The observed resistance coincides with the availability 
+of both of these antimicrobials in intramammary prepa-
+rations in South Africa (IVS, 2015). None of the bovine 
+Staph.  aureus  or  CNS  isolates  exhibited  resistance  to 
+cephalothin,  clindamycin,  erythromycin,  linezolid,  or 
+moxifloxacin, and only 2 isolates, 1 Staph. hyicus and 
+1 Staph. xylosus, were found to be phenotypically resis-
+tant to fusidic acid. The aforementioned antimicrobials 
+have  limited  application  in  veterinary  medicine  but 
+are used in human medicine to treat different types of 
+staphylococcal infections (Lowy, 2013).
+
+Multidrug resistance was more common among the 
+CNS than the Staph. aureus isolates and more common 
+among human isolates than bovine isolates. In total, 37 
+(39%) of the CNS isolates of human origin were MDR, 
+whereas  only  2  Staph.  chromogenes  isolates  of  bovine 
+origin were MDR. Two Staph. aureus isolates of bovine 
+origin were MDR, whereas only a single Staph. aureus 
+isolate  from  the  human  nasal  swabs  was  found  to  be 
+MDR.  Interestingly,  the  human  MDR  Staph.  aureus 
+was isolated from a farm laborer on the same farm as 
+the  MDR  bovine  Staph.  aureus  isolate  and  displayed 
+the  same  antimicrobial  susceptibility  profile.  Future 
+genotyping studies will be undertaken to determine the 
+genetic  relatedness  of  the  bovine  and  human  isolates 
+and investigate possible bacterial transmission between 
+hosts.
+
+Antimicrobial  susceptibility  testing  of  isolates  was 
+supplemented  by  screening  for  specific  antimicrobial 
+resistance  genes.  None  of  the  staphylococcal  isolates 
+evaluated  were  shown  to  carry  the  vanA  and  vanB 
+genes, which confer vancomycin resistance to isolates. 
+Considering the importance and reliance on vancomy-
+cin  for  the  treatment  of  MRSA  infections  in  human 
+medicine, the lack of vancomycin resistance markers in 
+both the bovine and human staphylococci analyzed in 
+our study is therefore positive.
+
+The correlation between the phenotypic susceptibil-
+ity of isolates to penicillin with the presence of the blaZ 
+gene was not absolute. A Staph. sciuri isolate of human 
+origin and a Staph. chromogenes isolate of bovine origin 
+were found to be phenotypically resistant to penicillin 
+but negative for the presence of the blaZ gene. A possible 
+explanation for this discrepancy could be a mutation of 
+the primer-annealing site that prevented amplification. 
+All staphylococcal test isolates were also screened for 
+the presence of 2 tetracycline resistance determinants: 
+tetK  and  tetM.  The  tetK  gene  was  detected  in  the 
+majority of the isolates showing phenotypic resistance 
+to tetracycline, whereas tetM was not detected. Three 
+isolates, 2 Staph. chromogenes and 1 Staph. haemolyti-
+cus, that were phenotypically resistant to tetracycline 
+tested negative for the presence of both tetK and tetM. 
+This discrepancy could be due to the presence of other 
+
+Journal of Dairy Science Vol. 98 No. 9, 2015
+
+tetracyclin-resistance  encoding  genes,  such  as  tetL  or 
+tetO, or due to a mutation in the primer-annealing site. 
+The  discrepancies  observed  between  the  phenotypic 
+susceptibility of our test isolates and PCR screening for 
+resistance genes highlight some of the shortcomings as-
+sociated with the molecular detection of antimicrobial 
+resistance. In many cases, antimicrobial resistance can 
+be mediated by several different genes and mechanisms, 
+some of which are still undescribed (Fluit et al., 2001).
+One  of  the  specific  limitations  associated  with  the 
+determination  of  the  antimicrobial  susceptibility  of 
+veterinary bacterial isolates is the fact that there are 
+currently very few antimicrobial breakpoints validated 
+specifically  for  use  with  isolates  of  veterinary  origin 
+(Schwarz  et  al.,  2010).  At  present,  interpretive  data 
+are only available for the testing of mastitis pathogens 
+against ceftiofur, penicillin-novobiocin, and pirlimycin 
+(CLSI, 2008). The latter antimicrobial is currently not 
+registered for use in South Africa (IVS, 2015). Because 
+of the lack of data, it is common practice to make use of 
+breakpoints derived from human medicine to interpret 
+in vitro data. This is not ideal and should be considered 
+when interpreting results.
+
+CONCLUSIONS
+
+This  study  provides  insight  into  the  diversity  of 
+Staphylococcus  spp.  causing  IMI  in  cows  in  South 
+African dairy herds and communal animals. The pre-
+dominance of S. chromogenes among the CNS isolates 
+warrants further investigation to elucidate the epidemi-
+ology and virulence characteristics of strains circulat-
+ing within herds. This study further demonstrated that 
+antimicrobial  resistance  among  Staphylococcus  spp. 
+causing  IMI  was  generally  low.  These  results  suggest 
+the responsible usage of antimicrobials on dairy farms 
+or the existence of management practices that do not 
+favor  the  accumulation  of  resistance  genes,  or  both. 
+Because of the propensity of staphylococci to acquire 
+antimicrobial resistance through the genetic exchange 
+of  DNA  with  compatible  strains  occupying  the  same 
+microbiological niche, continued monitoring of bacterial 
+populations is necessary.
+
+ACKNOWLEDGMENTS
+
+The  authors  thank  the  University  of  Pretoria, 
+RESCOM, the National Research Foundation (NRF) of 
+South Africa, and the KZN Department of Agriculture 
+&  Rural  Development  (South  Africa)  for  financially 
+supporting  this  work.  The  MALDI-TOF  MS  work  is 
+based on the research supported in part by the NRF of 
+South Africa (Grant UID 74426). Finally, the authors 
+extend  their  thanks  and  appreciation  to  S.  Monecke 
+
+PROFiLiNG STAPHYLOCOCCi CAUSiNG MASTiTiS
+
+13
+
+(Institute  for  Medical  Microbiology  and  Hygiene,  TU 
+Dresden, Dresden, Germany) for his kind contribution 
+of Staph. aureus control cultures.
+
+REFERENCES
+
+Akineden,  Ö.,  C.  Annemüller,  A.  Hassan,  C.  Lämmler,  W.  Wolter, 
+and  M.  Zschöck.  2001.  Toxin  genes  and  other  characteristics  of 
+Staphylococcus  aureus  isolates  from  milk  of  cows  with  mastitis.  
+Clin. Diagn. Lab. Immunol.  8:959–964.
+
+Ateba, C. N., M. Mbewe, M. S. Moneoang, and C. C. Bezuidenhout. 
+2010. Antibiotic-resistant Staphylococcus aureus isolated from milk 
+in the Mafikeng area, North West Province, South Africa.  S. Afr. 
+J. Sci.  106. http://dx.doi.org/10.4102/sajs.v106i11/12.243.
+
+Barkema,  H.  W.,  Y.  H.  Schukken,  and  R.  N.  Zadoks.  2006.  Invited 
+review: The role of cow, pathogen, and treatment regimen in the 
+therapeutic success of bovine Staphylococcus aureus mastitis.  J. 
+Dairy Sci.  89:1877–1895.
+
+Barreiro, J. R., C. R. Ferreira, G. B. Sanvido, M. Kostrzewa, T. Maier, 
+B. Wegemann, V. Böttcher, M. N. Eberlin, and M. V. dos Santos. 
+2010. Short communication: Identification of subclinical cow mas-
+titis pathogens in milk by matrix-assisted laser desorption/ioniza-
+tion time-of-flight mass spectrometry.  J. Dairy Sci.  93:5661–5667.
+Capurro, A., K. Artursson, K. Persson Waller, B. Bengtsson, H. Erics-
+son-Unnerstad, and A. Aspán. 2009. Comparison of a commercial-
+ized phenotyping system, antimicrobial susceptibility testing, and 
+tuf gene sequenced-based genotyping for species-level identification 
+of coagulase-negative staphylococci isolated from cases of bovine 
+mastitis.  Vet. Microbiol.  134:327–333.
+
+Chambers, H. F., and F. R. DeLeo. 2009. Waves of resistance: Staphy-
+lococcus aureus in the antibiotic era.  Nat. Rev. Microbiol.  7:629–
+641.
+
+Chiang, Y.-C., H.-C. Lu, S.-C. Li, Y.-H. Chang, H.-Y. Chen, C.-W. 
+Lin, and H.-Y. Tsen. 2012. Development of PCR primers and a 
+DNA macroarray for the simultaneous detection of major Staph-
+ylococcus  species  using  groESL  gene.    Foodborne  Pathog.  Dis.  
+9:249–257.
+
+Clark,  N.  C.,  R.  C.  Cooksey,  B.  C.  Hill,  J.  M.  Swenson,  and  F.  C. 
+Tenover.  1993.  Characterization  of  glycopeptide-resistant  en-
+terococci  from  U.S.  hospitals.    Antimicrob.  Agents  Chemother.  
+37:2311–2317.
+
+CLSI  (Clinical  Laboratory  Standards  Institute).  2008.  Performance 
+Standards for Antimicrobial Disk and Dilution Susceptibility Tests 
+for Bacteria Isolated From Animals–Third Edition: Vol. 28, No. 8. 
+Approved Standard M31–A3. Clinical Laboratory Standards Insti-
+tute, Wayne, PA.
+
+CLSI  (Clinical  Laboratory  Standards  Institute).  2014.  Performance 
+Standards for Antimicrobial Susceptibility Testing: Twenty-fourth 
+International Supplement. CLSI document M100–S24: Vol. 34, No. 
+1. Clinical Laboratory Standards Institute, Wayne, PA.
+
+El  Behiry,  A.,  R.  M.  Zahran,  E.  Marzouk,  and  M.  Al-Dabib.  2013. 
+Phenotypical and mass spectral assessment methods for identifica-
+tion  of  some  contagious  mastitis  pathogens.    Am.  J.  Microbiol.  
+4:32–41.
+
+EUCAST (European Committee on Antimicrobial Susceptibility Test-
+ing). 2014. Breakpoint tables for the interpretation of MICs and 
+zone diameters. Version 4.0, 2014. http://www.eucast.org.
+
+Fiebelkorn, K. R., S. A. Crawford, M. L. McElmeel, and J. H. Jor-
+gensen. 2003. Practical disk diffusion method for detection of in-
+ducible clindamycin resistance in Staphylococcus aureus and coag-
+ulase-negative staphylococci.  J. Clin. Microbiol.  41:4740–4744.
+
+Fitzgerald,  J.  R.  2012.  Livestock-associated  Staphylococcus  aureus: 
+Origin,  evolution  and  public  health  threat.    Trends  Microbiol.  
+20:192–198. http://dx.doi.org/10.1016/j.tim.2012.01.006.
+
+Fluit, A. C., M. R. Visser, and F.-J. Schmitz. 2001. Molecular detec-
+tion of antimicrobial resistance.  Clin. Microbiol. Rev.  14:836–871.
+Frey, Y., J. P. Rodriguez, A. Thomann, S. Schwendener, and V. Per-
+reten.  2013.  Genetic  characterization  of  antimicrobial  resistance 
+in coagulase-negative staphylococci from bovine mastitis milk.  J. 
+Dairy Sci.  96:2247–2257.
+
+García-Álvarez, L., M. Holden, H. Lindsay, C. Webb, D. Brown, M. 
+Curran, E. Walpole, K. Brooks, D. Pickard, C. Teale, J. Parkhill, 
+S. Bentley, G. Edwards, E. Girvan, A. Kearns, B. Pichon, R. Hill, 
+A. Larsen, R. Skov, S. Peacock, D. Maskell, and M. Holmes. 2011. 
+Methicillin-resistant Staphylococcus aureus with a novel mecA ho-
+mologue in human and bovine populations in the UK and Den-
+mark: A descriptive study.  Lancet Infect. Dis.  11:595–603.
+
+Gentilini, E., G. Denamiel, P. Llorente, S. Godaly, M. Rebuelto, and 
+O. DeGregorio. 2000. Antimicrobial susceptibility of Staphylococ-
+cus aureus isolated from bovine mastitis in Argentina.  J. Dairy 
+Sci.  83:1224–1227.
+
+Graveland, H., B. Duim, E. van Duijkeren, D. Heederik, and J. Wa-
+genaar.  2011.  Livestock-associated  methicillin-resistant  Staphylo-
+coccus  aureus  in  animals  and  humans.    Int.  J.  Med.  Microbiol.  
+301:630–634.
+
+Heikens, E., A. Fleer, A. Paauw, A. Florijn, and A. Fluit. 2005. Com-
+parison  of  genotypic  and  phenotypic  methods  for  species-level 
+identification  of  clinical  isolates  of  coagulase-negative  staphylo-
+cocci.  J. Clin. Microbiol.  43:2286–2290.
+
+Hirotaki, S., T. Sasaki, K. Kuwahara-Arai, and K. Hiramatsu. 2011. 
+Rapid and accurate identification of human-associated staphylo-
+cocci by use of multiplex PCR.  J. Clin. Microbiol.  49:3627–3631.
+Holmes, M. A., and R. N. Zadoks. 2011. Methicillin resistant S. aureus 
+in human and bovine mastitis.  J. Mammary Gland Biol. Neopla-
+sia  16:373–382.
+
+IVS. 2015. Index of Veterinary Specialities. Vol 53. Hirt and Carter, 
+
+Durba, South Africa.
+
+Juhász-Kaszanyitzky, É., S. Jánosi, P. Somogyi, Á. Dán, L. van der 
+Graaf-van  Bloois,  E.  van  Duijkeren,  and  J.  Wagenaar.  2007. 
+MRSA  transmission  between  cows  and  humans.    Emerg.  Infect. 
+Dis.  13:630–632.
+
+Kim, H. B., H.-C. Jang, H. J. Nam, Y. S. Lee, B. S. Kim, W. B. Park, 
+K.  D.  Lee,  Y.  J.  Choi,  S.  W.  Park,  M.  D.  Oh,  E.-C.  Kim,  and 
+K. W. Choe. 2004. In vitro activities of 28 antimicrobial agents 
+against Staphylococcus aureus isolates from tertiary-care hospitals 
+in Korea: A nationwide survey.  Antimicrob. Agents Chemother.  
+48:1124–1127.
+
+Kluytmans, J., and M. Struelans. 2009. Methicillin-resistant Staphylo-
+
+coccus aureus in the hospital.  BMJ  338:b364.
+
+Lindsay, J. A., and M. T. G. Holden. 2006. Understanding the rise of 
+the superbug: Investigation of the evolution and genomic variation 
+of Staphylococcus aureus.  Funct. Integr. Genomics  6:186–201.
+
+Lowy, F. 2013. Staphylococcal infections. Pages 159–170 in Harrison’s 
+Principles of Internal Medicine. 18th ed. D. L. Longo, A. S. Fauci, 
+D. L., Kasper, S. L. Hauser, J. J. Jameson, and J. Loscalzo, ed. 
+McGraw-Hill, New York, NY.
+
+LPSN. 2015. List of Prokaryotic Names with Standing in Nomenclature. 
+Accessed  Apr.  8,  2015.  http://www.bacterio.net/staphylococcus.
+html.
+
+McClure, J.-A., J. M. Conly, V. Lau, S. Elsayed, T. Louie, W. Hutchins, 
+and  K.  Zhang.  2006.  Novel  Multiplex  PCR  assay  for  detection 
+of  staphylococcal  virulence  marker  Panton-Valentine  leukocidin 
+genes  and  simultaneous  discrimination  of  methicillin-susceptible 
+from –resistant staphylococci.  J. Clin. Microbiol.  44:1141–1144.
+Morley, P. S., M. D. Apley, T. E. Besser, D. P. Burney, P. J. Fedorka-
+Cray, M. G. Papich, J. L. Traub-Dargatz, and J. S. Weese. 2005. 
+Antimicrobial  drug  use  in  veterinary  medicine.    J.  Vet.  Intern. 
+Med.  19:617–629.
+
+Otto, M. 2013. Coagulase-negative staphylococci as reservoirs of genes 
+
+facilitating MRSA infection.  BioEssays  35:4–11.
+
+Pantosti, A., A. Sanchini, and M. Monaco. 2007. Mechanisms of an-
+tibiotic  resistance  in  Staphylococcus  aureus.    Future  Microbiol.  
+2:323–334.
+
+Park, J.-Y., L. K. Fox, K. S. Seo, M. A. McGuire, Y. H. Park, F. R. 
+Rurangirwa, W. M. Sischo, and G. A. Bohach. 2011. Comparison 
+of phenotypic and genotypic methods for the species identification 
+of coagulase-negative staphylococcal isolates from bovine intrama-
+mmary infections.  Vet. Microbiol.  147:142–148.
+
+Persson Waller, K., A. Aspán, A. Nyman, Y. Persson, and U. G. An-
+dersson. 2011. CNS species and antimicrobial resistance in clinical 
+and subclinical bovine mastitis.  Vet. Microbiol.  152:112–116.
+
+Journal of Dairy Science Vol. 98 No. 9, 2015
+
+14
+
+SCHMiDT eT AL.
+
+cus species affect udder health more than others.  J. Dairy Sci.  
+94:2329–2340.
+
+Taponen, S. 2008. Bovine mastitis caused by coagulase-negative staph-
+
+ylococci. Doctoral Diss. Univ. Helsinki, Helsinki, Finland.
+
+Taponen, S., and S. Pyörälä. 2009. Coagulase-negative staphylococci 
+as cause of bovine mastitis – not so different from Staphylococcus 
+aureus?  Vet. Microbiol.  134:29–36.
+
+Taponen, S., K. Supré, V. Piessens, E. Van Coillie, S. De Vliegher, and 
+J. M. K. Koort. 2012. Staphylococcus agnetis sp. nov., a coagulase-
+variable species from bovine subclinical and mild clinical mastitis.  
+Int. J. Syst. Evol. Microbiol.  62:61–65.
+
+Tenhagen, B. A., G. Koster, J. Wallmann, and W. Heuwieser. 2006. 
+Prevalence of mastitis pathogens and their resistance against anti-
+microbial agents in dairy cows in Brandenburg, Germany.  J. Dairy 
+Sci.  89:2542–2551.
+
+Thorberg,  B.  M.,  M.  L.  Danielsson-Tham,  U.  Emanuelson,  and  K. 
+Persson  Waller.  2009.  Bovine  subclinical  mastitis  caused  by  dif-
+ferent  types  of  coagulase-negative  staphylococci.    J.  Dairy  Sci.  
+92:4962–4970.
+
+Thorberg,  B.  M.,  I.  Kühn,  F.  Aarestrup,  B.  Brändström,  P.  Jons-
+son, and M.-L. Danielsson-Tham. 2006. Pheno- and genotyping of 
+Staphylococcus epidermidis isolated from bovine milk and human 
+skin.  Vet. Microbiol.  115:163–172.
+
+Unnerstad, H. E., B. Bengtsson, M. Horn af Rantzien, and S. Börjes-
+son.  2013.  Methicillin-resistant  Staphylococcus  aureus  containing 
+mecC in Swedish dairy cows.  Acta Vet. Scand.  55:6 http://dx.doi.
+org/10.1186/1751-0147-55-6.
+
+Vanderhaeghen, W., T. Cerpentier, C. Adriaensen, J. Vicca, K. Her-
+mans,  and  P.  Butaye.  2010.  Methicillin-resistant  Staphylococcus 
+aureus  (MRSA)  ST398  associated  with  clinical  and  subclinical 
+mastitis in Belgian cows.  Vet. Microbiol.  144:166–171.
+
+Vanderhaeghen,  W.,  S.  Piepers,  F.  Leroy,  E.  Van  Coillie,  F.  Haese-
+brouck, and S. De Vliegher. 2015. Identification, typing, ecology 
+and  epidemiology  of  coagulase  negative  staphylococci  associated 
+with ruminants.  Vet. J.  203:44–51. http://dx.doi.org/10.1016/j.
+tvjl.2014.11.001.
+
+Vesterholm-Nielsen, M., M. Larsen, J. Olsen, and F. Aarestrup. 1999. 
+Occurrence  of  the  blaZ  gene  in  penicillin  resistant  Staphylococ-
+cus aureus isolated from bovine mastitis in Denmark.  Acta Vet. 
+Scand.  40:279–286.
+
+Vitali, L. A., D. Petrelli, A. Lamikanra, M. Prenna, and E. O. Akinkun-
+mi. 2014. Diversity of antibiotic resistance genes and staphylococ-
+cal cassette chromosome mec elements in faecal isolates of coagu-
+lase-negative staphylococci from Nigeria.  BMC Microbiol.  14:106.
+Wieser,  A.,  L.  Schneider,  J.  Jung,  and  S.  Schubert.  2012.  MALDI-
+TOF MS in microbiological diagnostics – identification of microor-
+ganisms and beyond (mini review).  Appl. Microbiol. Biotechnol.  
+93:965–974.
+
+Zadoks, R. N., W. B. van Leeuwen, D. Kreft, L. K. Fox, H. W. Barke-
+ma,  Y.  H.  Schukken,  and  A.  van  Belkum.  2002.  Comparison  of 
+Staphylococcus aureus from bovine and human skin, milking equip-
+ment, and bovine milk by phage typing, pulsed-field gel electro-
+phoresis, and binary typing.  J. Clin. Microbiol.  40:3894–3902.
+
+Zadoks, R. N., and J. L. Watts. 2009. Species identification of coag-
+ulase-negative staphylococci: Genotyping is superior to phenotyp-
+ing.  Vet. Microbiol.  134:20–28.
+
+Zriouil,  S.  B.,  M.  Bekkali,  and  K.  Zerouali.  2012.  Epidemiology  of 
+Staphylococcus aureus infections and nasal carriage at the Ibn Ro-
+chd  University  hospital  center,  Casablanca,  Morocco.    Braz.  J. 
+Infect. Dis.  16:279–283.
+
+Petzer, I.-M., J. Karzis, T. J. van der Schans, J. C. Watermeyer, and 
+M. Smither. 2007. Antibiotic efficacy against staphylococcal ud-
+der pathogens in dairy cows in South Africa from 2000 to 2006. 
+Pages 33–49. Livestock Health and Production Group of the South 
+African Veterinary Association Congress. Vetlink, Pretoria, South 
+Africa.
+
+Petzer, I.-M., J. Karzis, J. Watermeyer, T. J. van der Schans, and R. 
+van  Reenen.  2009.  Trends  in  udder  health  and  emerging  masti-
+togenic pathogens in South African dairy herds.  J. S. Afr. Vet. 
+Assoc.  80:17–22.
+
+Piessens, V., E. van Coillie, B. Verbist, K. Supre, G. Braem, A. van 
+Nuffel, and L. de Vuyst. 2011. Distribution of coagulase-negative 
+Staphylococcus species from milk and environment of dairy cows 
+differs between herds.  J. Dairy Sci.  94:2933–2944.
+
+Pyörälä,  S.,  H.  Simojoki,  and  S.  Taponen.  2011.  News  about  mas-
+titis-causing staphylococci. European Buiatrics Forum, Marseille, 
+France.
+
+Quinn, P. J., M. E. Carter, B. Markey, and G. R. Carter. 1999. Staph-
+ylococcus species. Pages 118–126 in Clinical Veterinary Microbiol-
+ogy. Mosby, Madrid, Spain.
+
+Sampimon, O. C., T. Lam, D. Mevius, Y. Schukken, and R. Zadoks. 
+2011. Antimicrobial susceptibility of coagulase-negative staphylo-
+cocci isolated from bovine milk samples.  Vet. Microbiol.  150:173–
+179.
+
+Sasaki, T., S. Tsubakishita, Y. Tanaka, A. Sakusabe, M. Ohtsuka, S. 
+Hirotaki, T. Kawakami, T. Fukata, and K. Hiramatsu. 2010. Mul-
+tiplex-PCR method for species identification of coagulase-positive 
+staphylococci.  J. Clin. Microbiol.  48:765–769.
+
+Sawant,  A.  A.,  B.  E.  Gillespie,  and  S.  Oliver.  2009.  Antimicrobial 
+susceptibility of coagulase-negative Staphylococcus species isolated 
+from bovine milk.  Vet. Microbiol.  134:73–81.
+
+Schmidt, T. 2011. In vitro antimicrobial susceptibility of Staphylococ-
+cus aureus strains from dairy herds in KwaZulu-Natal.  J. S. Afr. 
+Vet. Assoc.  82:76–79.
+
+Schwarz, S., P. Silley, S. Simjee, N. Woodford, E. van Duijkeren, A. 
+Johnson, and W. Gaastra. 2010. Editorial: Assessing the antimi-
+crobial susceptibility of bacteria obtained from animals.  J. Anti-
+microb. Chemother.  65:601–604.
+
+Shittu, A. O., and J. Lin. 2006. Antimicrobial susceptibility patterns 
+and characterization of clinical isolates of Staphylococcus aureus in 
+KwaZulu-Natal province, South Africa.  BMC Infect. Dis.  6:125.
+
+Shome, B. R., S. Das Mitra, M. Bhuvana, N. Krithiga, D. Velu, R. 
+Shome, S. Isloor, S. B. Barbuddhe, and H. Rahman. 2011. Multi-
+plex PCR assay for species identification of bovine mastitis patho-
+gens.  J. Appl. Microbiol.  111:1349–1356.
+
+Stegger, M., P. Anderson, A. Kearns, B. Pichon, M. Holmes, G. Ed-
+wards, F. Laurent, C. Teale, R. Skov, and A. Larsen. 2012. Rapid 
+detection, differentiation and typing of methicillin-resistant Staph-
+ylococcus aureus harbouring either mecA or the new mecA homo-
+logue mecALGA251.  Clin. Microbiol. Infect.  18:395–400.
+
+Strommenger, B., C. Kettlitz, G. Werner, and W. Witte. 2003. Mul-
+tiplex PCR assay for simultaneous detection of nine clinically rel-
+evant antibiotic resistance genes in Staphylococcus aureus.  J. Clin. 
+Microbiol.  41:4089–4094.
+
+Supré, K., S. De Vliegher, I. Cleenwerck, K. Engelbeen, S. Van Trap-
+pen, S. Piepers, O. S. Sampimon, R. N. Zadoks, P. De Vos, and F. 
+Haesebrouck. 2010. Staphylococcus devriesei sp. nov., isolated from 
+teat apices and milk of dairy cows.  Int. J. Syst. Evol. Microbiol.  
+60:2739–2744.
+
+Supré, K., F. Haesebrouck, R. N. Zadoks, M. Vaneechoutte, S. Piepers, 
+and  S.  De  Vliegher.  2011.  Some  coagulase-negative  Staphylococ-
+
+Journal of Dairy Science Vol. 98 No. 9, 2015
+
+

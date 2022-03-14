@@ -1,0 +1,5778 @@
+Journal of Applied Microbiology ISSN 1364-5072
+
+O R I G I N A L A R T I C L E
+Isolation and characterization of Salmonella in pork
+samples collected from retail and wholesale markets in
+each season from 2016 to 2018 in Wuhan, China
+
+Z. Zhu1, Q. Huang1, X. Hong1, X. Chen1, Y. Lu1, Z. Chen2, C. Wang2, X. Meng1, Q. Xu1 and S. Li1
+
+1 Key Laboratory of Preventive Veterinary Medicine in Hubei Province, College of Veterinary Medicine, Huazhong Agricultural University,
+
+Wuhan, P.R. China
+
+2 Wuhan Agricultural Comprehensive Law Enforcement Inspector Corps, Wuhan, P.R. China
+
+Keywords
+antimicrobial resistance, multi-locus sequence
+typing, pork, prevalence, Salmonella.
+
+Correspondence
+Shaowen Li, College of Veterinary Medicine,
+Huazhong Agricultural University, Wuhan
+430070, P.R. China.
+E-mail: lishaowen@mail.hzau.edu.cn
+
+Zhihao Zhu, Qi Huang and Xuan Hong
+contributed equally to this work.
+
+2019/1751: received 30 September 2019,
+revised 27 October 2019 and accepted 3
+November 2019
+
+doi:10.1111/jam.14515
+
+Abstract
+
+(1768%, 644/3642)
+
+Aims: To investigate the prevalence and characteristics of Salmonella in pork
+on sale in Wuhan, Central China.
+Methods and Results: A total of 4744 pork samples were collected from retail
+or wholesale markets in each season from 2016 to 2018. The samples showed
+an overall Salmonella prevalence of 1954% (927/4744), among which the
+samples collected in 2017 (2167%, 428/1975) possessed a signiﬁcantly higher
+prevalence than those collected in 2016 (1861%, 209/1123) (P = 0047) or
+2018 (1751%, 290/1656) (P = 0002), and the samples collected in winter
+showed the lowest prevalence (1586%, 177/1116). The Salmonella prevalence
+was signiﬁcantly higher among samples from retail markets (2568%, 283/1102)
+(P = 0000). Antimicrobial
+than wholesale markets
+resistance of 922 Salmonella strains was tested by determining the minimal
+inhibitory concentrations using a broth microdilution method. The strains
+revealed that 9892% (912/922) were resistant
+the
+antimicrobial agents, and 8004% (738/922) were resistant to three or more
+antimicrobials (MDR). Resistance to sulfamethoxazole/trimethoprim (8991%),
+and ampicillin (7169%) was predominant. The
+tetracycline
+proportion of MDR strains in 2017 (9362%, 396/423) was signiﬁcantly higher
+than that in 2016 (6316%, 132/209) (P = 0000) or 2018 (6966%, 202/290)
+(P = 0000). No signiﬁcant difference was observed in the proportions of MDR
+strains between wholesale markets (7607%, 213/280) and retail markets
+(8053%, 517/642) (P = 0075). Multi-locus sequence typing for 554 of the
+isolates
+(STs), among which ST40
+(3827%, 212/554), ST34 (1841%, 102/554) and ST469 (1446%, 79/554) were
+dominant.
+Conclusions: A high risk of Salmonella prevalence and antimicrobial resistance
+was observed in pork in Wuhan. The risk varies between different sampling
+years, seasons and market types.
+Signiﬁcance and Impact of the Study: Providing baseline data on Salmonella
+contamination in pork on sale in Central China.
+
+(8720%)
+
+revealed 20 different
+
+sequence types
+
+to at
+
+least one of
+
+Introduction
+
+Salmonella is an intracellular bacterial pathogen that can
+infect a wide range of hosts (Campos et al. 2019). It has
+
+been recognized as one of the most important bacterial
+pathogens causing foodborne illness worldwide,
+leading
+to millions of human infections or deaths (Oh and Park,
+2017; Lamas et al. 2018). Food contamination is the main
+
+Journal of Applied Microbiology 128, 875--883 © 2019 The Society for Applied Microbiology
+
+875
+
+Salmonella contamination in pork
+
+Z. Zhu et al.
+
+route of Salmonella infection, which was estimated by the
+World Health Organization, accounting for 643 million
+disability-adjusted life years (DALY) through food con-
+tamination alone (Kirk et al. 2015).
+
+Salmonella is of high genetic diversity, comprising two
+species Salmonella bongori and Salmonella enterica, of
+which the latter consists of six subspecies. S. enterica
+subsp. enterica, containing over 2600 serotypes, is of great
+signiﬁcance for public health and veterinary clinics (Liu
+et al., 2011; Gal-Mor et al. 2014). Serotyping of Sal-
+monella strains was
+traditionally performed by using
+immunological approaches based on reactions to speciﬁc
+surface antigens (Herrera-Leon et al. 2004; McQuiston
+et al. 2004). Multiplex PCR assay has been developed for
+simultaneous detection of different serovars (Jean-Gilles
+Beaubrun et al. 2012; Park and Ricke, 2015). Multi-locus
+sequence typing (MLST), which is based on the sequence
+variations of multiple Salmonella housekeeping genes, has
+been well-established and has been considered as a
+replacement for Salmonella serotyping (Achtman et al.
+2012; Ranieri et al. 2013; Cai et al. 2016). Currently,
+whole-genome sequencing is becoming more and more
+popular for Salmonella typing (Gimour et al. 2013; Ron-
+holm et al. 2016; Ibrahim and Morin, 2018).
+
+the issue of antimicrobial
+
+Another concern regarding the risk of Salmonella in
+food safety is
+resistance.
+Antimicrobial resistance has become a global problem
+attracting unprecedented attention (Michael and Schwarz,
+2016). Foodborne pathogens like Salmonella can directly
+result in disease in humans. Once they become highly
+resistant
+their risk to public
+health can be very high (Chang et al. 2016).
+
+to antimicrobial agents,
+
+The gastrointestinal tract of pigs is a common reser-
+voir for Salmonella. Some nontyphoidal Salmonella can
+colonize pigs without symptoms, but can cause gastroen-
+teritis to humans. The prevalence of Salmonella in pig
+samples varies
+in different countries. Generally, Sal-
+monella was detected at a higher prevalence in develop-
+ing countries than in developed ones (Campos et al.
+2019). In the EU in 2017, the overall Salmonella preva-
+lence in pigs and pork was 127 and 158% respectively
+(European Food Safety Authority and European Centre
+for Disease Prevention and Control (EFSA and ECDC)
+2018). However, the prevalence was shown to vary from
+293 to 731% in Asian countries (Ma et al. 2017;
+Patchanee et al. 2017; Zhang et al. 2018). Even in some
+high income countries, for example the United States,
+the prevalence of Salmonella in faecal
+from
+swine reportedly reached up to 50% in sows and 35% in
+market
+swine (Campos et al. 2019). Moreover, Sal-
+monella can be found in complex environmental and
+ecological niches and even survive in harsh environments
+(Yang et al. 2014a; Yang et al. 2014b). Consequently,
+
+samples
+
+Salmonella contamination may occur along the whole
+pork production chain.
+
+China is the biggest country in the world for pig farm-
+ing as well as pork consumption. Therefore, it is of great
+signiﬁcance to investigate the prevalence of Salmonella in
+ﬁnished pork which can provide baseline data concerning
+the risk of Salmonella to human. Several such studies
+have been performed to investigate Salmonella contami-
+nation in pork in China. The prevalence differs greatly as
+revealed by these studies which range from 322 to 731%
+(Ma et al. 2017; Zhang et al. 2018). Moreover, there is no
+study to investigate the Salmonella prevalence in mar-
+keted pork in Central China, which is important pig
+farming and pork supplying base. This
+study was
+designed to conduct a cross-sectional epidemiological
+investigation on the prevalence and characteristics of Sal-
+monella in pork on sale from 2016 to 2018 in Wuhan,
+Central China.
+
+Materials and methods
+
+Sample collection and Salmonella isolation
+
+The method for Salmonella isolation was modiﬁed
+according to the Chinese National standard (GB4789.4-
+2010). Pork samples (about 10 samples from each stall,
+20 g of each sample) were collected from different mar-
+kets in Wuhan at each season during 2016–2018, stored
+in sterile tubes at 4°C and quickly delivered to the lab.
+The samples were homogenized in 100 ml of buffered
+peptone water medium and then incubated overnight at
+37°C for pre-enrichment. The pre-enriched broths were
+1 : 100 subcultured into 10 ml of tetrathionate broth,
+which were cultured by shaking at 42°C for 18–24 h. The
+genomic DNA was extracted from the enriched broths
+(Naas et al. 2007), and used as the template for PCR
+ampliﬁcation of invA gene (Rahh et al. 1992). The Sal-
+monella positive broths were then streaked onto bismuth
+sulﬁte agar plates which were incubated at 37°C for 24 h.
+The positive Salmonella colonies were further detected
+using PCR ampliﬁcation of invA gene. One Salmonella
+isolate was obtained from each sample.
+
+Antimicrobial resistance testing
+
+Antimicrobial resistance was tested by determining mini-
+mal
+inhibitory concentration (MIC) values using the
+broth microdilution method according to the guidelines
+of the Clinical and Laboratory Standards Institute (CLSI,
+2013). Eight antimicrobial agents were selected, including
+ampicillin (AMP), cefotaxime (CEF), gentamicin (GEN),
+amoxicillin/clavulanic acid (AMC),
+tetracycline (TET),
+sulfamethoxazole/trimethoprim
+ciproﬂoxacin
+
+(CIP),
+
+876
+
+Journal of Applied Microbiology 128, 875--883 © 2019 The Society for Applied Microbiology
+
+Z. Zhu et al.
+
+Salmonella contamination in pork
+
+(SXT) and chloramphenicol (CHL), which represent eight
+major classes of antimicrobial agents important to both
+veterinary and human medicine. The isolates resistant to
+at
+least one antimicrobial agent were deﬁned to be
+antimicrobial resistant (AMR) and those resistant to three
+or more were deﬁned to be multi-drug-resistant (MDR).
+Escherichia coli ATCC 25922 was used as the quality con-
+trol strain.
+
+Multi-locus sequence typing
+MLST of the Salmonella isolates collected during 2016–
+2017 were performed according to the scheme published
+on the MLST home page (http://enterobase.warwick.ac.
+uk/species/senterica/allele_st_search). Brieﬂy, a fresh bac-
+terial colony was
+subjected to crude genomic DNA
+extraction as described above which was used as a tem-
+plate to amplify the seven Salmonella housekeeping genes
+(aroC, dnaN, hemD, hisD, purE, sucA, thrA) using the
+primers listed in Table 1. Based on the sequences of the
+PCR products, the sequence types (STs) were identiﬁed
+with MEGA software (ver. 5.0). eBURST was used to inves-
+tigate the genetic relationship of STs.
+
+Table 1 Primers used in this study
+
+Genes
+
+Primers for ampliﬁcation
+
+Primers for sequencing
+
+aroC
+
+dnaN
+
+F: CCTGGCACCTCG
+CGCTATAC
+R: CCACACACGGAT
+
+CGTGGCG
+
+F:ATGAAATTTACCGTT
+GAACGTGA
+R: AATTTCTCATTCGAG
+
+AGGATTGC
+
+hemD F: ATGAGTATTCTGA
+
+hisD
+
+purE
+
+sucA
+
+thrA
+
+TCACCCG
+R: ATCAGCGACCTTAAT
+
+ATCTTGCCA
+
+F: GAAACGTTCCATTC
+CGCGCAGAC
+R: CTGAACGGTCATC
+
+CGTTTCTG
+
+F: ATGTCTTCCCGCA
+ATAATCC
+R: TCATAGCGTCCCC
+
+CGCGGATC
+
+F: AGCACCGAAGAG
+AAACGCTG
+R: GGTTGTTGATAACG
+
+ATACGTAC
+
+F: GTCACGGTGATCG
+ATCCGGT
+R: CACGATATTGATA
+
+TTAGCCCG
+
+F: GGCACCAGTATTGGCCTGCT
+R: CATATGCGCCACAATGTGTTG
+
+F: CCGATTCTCGGTAACCTGCT
+R: CCATCCACCAGCTTCGAGGT
+
+F: GTGGCCTGGAGTTTTCCACT
+R: GACCAATAGCCGACAGC
+
+GTAG
+
+F: GTCGGTCTGTATATTCCCGG
+R: GGTAATCGCATCCACGAAATC
+
+F: CGCATTATTCCGGCGCGTGT
+R: CGCGGATCGGGATTTTCCAG
+
+F: AGCACCGAAGAGAAACGCTG
+R: GGTTGTTGATAACGATACGTAC
+
+F: ATCCCGGCCGATCACATGAT
+R: CTCCAGCAGCCCCTCTTTCAG
+
+Statistical analysis
+
+All statistical analyses were performed using SPSS 19.0.0
+software (SPSS Inc., Chicago, IL). Ninety-ﬁve percent
+conﬁdence intervals were calculated using the method
+described by Ross
+signiﬁcance
+between percentages of different groups was compared
+using the chi-squared test (v2) (SPSS, crosstable), and
+P < 005 was taken as signiﬁcantly different.
+
+(2003).The
+
+statistical
+
+Results
+
+A total of 4744 pork samples collected from wholesale
+and retail markets during 2016–2018 were subjected to
+Salmonella detection. As shown in Table 2, the overall
+Salmonella prevalence was 1954% (927/4744). The Sal-
+monella prevalence was signiﬁcantly higher for the sam-
+ples collected in 2017 (2167%, 428/1975) than in 2016
+(1861%, 209/1123) (P = 0047) or 2018 (1751%, 290/
+1656) (P = 0002); while no signiﬁcant difference was
+observed between the prevalence of samples collected in
+2016 and in 2018 (P> 005). In terms of different seasons,
+the samples collected in winter showed the lowest Sal-
+monella prevalence (1586%, 177/1116), which was signif-
+icantly lower than those collected in spring (2194%, 249/
+and autumn (2089%, 267/1278)
+1135)
+(P = 0002). Further analyses between pork samples from
+different types of markets showed that the Salmonella
+prevalence was
+signiﬁcantly higher for retail markets
+(2568%, 819/1102) than for wholesale markets (1768%,
+644/3642) (P = 0000).
+
+(P = 0000)
+
+showed that apart
+
+from 10 isolates
+
+Five Salmonella-positive pork samples collected from
+supermarkets in 2017 were lost, so a total of 922 Sal-
+monella strains were obtained from the Salmonella-posi-
+tive samples (Table S1). MIC determination of all the
+(108%)
+strains
+which were sensitive to all the eight antimicrobial agents
+tested, the remaining 912 isolates (9892%) were resis-
+tant to at least one of the antimicrobial agents, among
+which the proportion of MDR strains reached up to
+8004% (738/922) (Table 3). Among these MDR strains,
+285% (21/738), 1030% (76/738), 2004% (170/738),
+2263% (167/738), 2141% (158/738) and 1978% (146/
+738) were resistant to eight, seven, six, ﬁve, four and
+three of the antimicrobial agents respectively (Fig. 1a).
+The most
+for SXT
+(8991%, 840/922), followed by TET (8720%, 804/922),
+AMP (7169%, 661/922), CHL (4967%, 458/922), GEN
+(3438%,
+304/922), CIP
+(3167%, 292/922) and CEF (1106%, 102/922) (Table 3).
+As shown in Fig. 1b, 60 different MDR patterns were
+identiﬁed, among which the dominant ones were AMP-
+GEN-TET-SXT-CIP-CHL (103/729, 1413%),
+followed
+
+317/922), AMC (3297%,
+
+frequently detected AMR was
+
+Journal of Applied Microbiology 128, 875--883 © 2019 The Society for Applied Microbiology
+
+877
+
+Salmonella contamination in pork
+
+Z. Zhu et al.
+
+Table 2 Salmonella prevalence among the samples from different
+years, seasons and market types
+
+No.
+samples
+
+No. positive
+samples
+
+4744
+
+927
+
+Prevalence
+
+Proportion (%)
+1954
+1861a
+2167b
+1751a
+2194A
+1926B
+2089AB
+1586C
+1768
+2568
+
+a
+
+b
+
+95% CI
+184–207
+164–210
+199–236
+157–194
+196–245
+171–216
+187–232
+138–181
+165–190
+231–284
+
+209
+428
+290
+
+249
+234
+267
+177
+
+644
+283
+
+Factors
+
+Total
+Years
+2016
+2017
+2018
+
+Seasons
+Spring
+Summer
+Autumn
+Winter
+
+1123
+1975
+1656
+
+1135
+1215
+1278
+1116
+
+Market types
+
+Wholesale
+Retail
+
+3642
+1102
+
+CI, conﬁdence intervals.
+Numbers shared different letter (a, b and c, or A, B and C, or a and
+b) indicated signiﬁcant difference, and numbers shared same letter
+indicated no signiﬁcant difference.
+
+those
+
+isolated
+
+in
+
+2016
+
+(6316%,
+
+by AMP-TET-SXT-CHL (89/729, 1221%), AMP-GEN-
+TET-SXT-CHL (62/729, 850%)
+and AMP-TET-SXT
+(53/729, 727%). The proportion of MDR strains iso-
+lated in 2017 (9362%, 396/423) was signiﬁcantly higher
+than
+132/209)
+(P = 0000) or 2018 (6966%, 202/290) (P = 0000). The
+proportions of strains resistant to all the antimicrobial
+agents, except SXT and AMC, were also signiﬁcantly
+higher among the strains isolated in samples collected
+in 2017 than those in 2016 or 2018 (P < 005), suggest-
+ing a higher prevalence of
+resistance
+among the strains from samples of 2017. The strains
+isolated in winter were more frequently identiﬁed to be
+MDR (9045%, 161/178);
+those isolated in summer
+showed the lowest MDR proportion (6468%, 152/235).
+No signiﬁcant difference was observed regarding the
+proportions of MDR strains between isolates
+from
+wholesale markets (7607%, 213/280) and from retail
+markets (8053%, 517/642) (P = 0075). (Table 2).
+
+antimicrobial
+
+To accurately identify the Salmonella strains, all the
+632 isolates obtained during 2016–2017 were subject to
+MLST, among which 78 isolates could not be classiﬁed
+into any ST. As shown in Fig. 2, a total of 20 STs were
+identiﬁed for
+the 554 isolates, among which ST40
+(3827%, 212/554), ST34 (1841%, 102/554) and ST469
+(1446%, 79/554) were dominant. A signiﬁcant difference
+was observed between the prevalence of ST40 and ST34
+(P = 0000), ST34 and ST469 (P = 0000), as well as
+ST155 and ST543 (P = 0000) (Fig. 2). For the strains
+belonging to these dominant STs,
+the most prevalent
+resistance was to TET and the least prevalent one was to
+
+CEF (Table 3). The proportion of MDR strains among
+the ST40 group was similar to that among the ST34 or
+ST469 group (P > 005) (Table 3). Dominant MDR pat-
+terns among ST40 and ST34 strains were AMP-GEN-
+TET-SXT-CIP-CHL, AMP-TET-SXT-CHL and AMP-
+GEN-TET-SXT-CHL; while the most frequently detected
+MDR pattern among ST496 strains was AMP-TET-SXT,
+followed by AMP-TET-SXT-CHL and AMP-TET-SXT-
+CIP-CHL (Table 4). Strains from retail markets and
+wholesale markets comprised 15 and 17 different STs
+respectively (Fig. 3). Apart from that ST1249, ST1498
+and ST434 were only detected in strains from retail mar-
+kets, and that ST13, ST1543, ST358, ST489 and ST1628
+were speciﬁc for wholesale market strains, the remaining
+STs were identiﬁed in both retail market strains and
+wholesale market strains (Fig. 3). The prevalence of ST34
+among wholesale market strains was signiﬁcantly higher
+than that among retail market strains (P = 0000); while
+the prevalence of the other shared STs was not signiﬁ-
+cantly different between strains from wholesale and retail
+markets (P > 005).
+
+Discussion
+
+stage (slaughter) and postharvest
+
+Salmonella-contaminated pork is one of
+the leading
+causes of foodborne illness. Salmonella contamination can
+happen at several stages along the pork production chain,
+including the preharvest (holding period on the farm),
+harvest
+stage (pork
+preparation) (Bonardi, 2017; Campos et al. 2019). In this
+study, we investigated the contamination of Salmonella
+by collecting a total of 4744 pork samples from retail and
+wholesale markets in Wuhan, Central China, in each sea-
+son during 2016–2018. The overall prevalence of Sal-
+monella was 1954%. Similar studies have been performed
+in other regions of China which showed diverse out-
+comes. Ma et al. (2017) reported that 322% of the pork
+samples collected during 2015–2016 in Sichuan province
+were positive for Salmonella. Zhang et al. (2018) reported
+that 731% of the pork samples collected in Guangdong
+province were shown to be Salmonella positive. These
+results indicate that the prevalence differs among pro-
+vinces in China. Moreover, compared with the situation
+in EU countries where Salmonella surveillance and con-
+trol programs have been established (European Food
+Safety Authority and European Center
+for Disease
+Prevention and Control (EFSA and ECDC), 2018), the
+Salmonella prevalence among pork samples in China was
+very high, suggesting that effective measures for Sal-
+monella control should be taken to decrease the risk of
+Salmonella contamination.
+
+To determine the factors affecting the Salmonella
+the prevalence was
+
+prevalence among pork samples,
+
+878
+
+Journal of Applied Microbiology 128, 875--883 © 2019 The Society for Applied Microbiology
+
+Z. Zhu et al.
+
+Salmonella contamination in pork
+
+6
+
+8
+
+0
+
+0
+
+7
+
+8
+
+3
+
+8
+
+6
+
+1
+
+2
+
+7
+
+9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+8
+–
+3
+7
+7
+
+
+
+
+
+,
+4
+0
+0
+8
+
+1
+
+
+
+3
+1
+–
+0
+9
+
+
+
+
+
+,
+6
+0
+1
+1
+
+R
+D
+M
+
+F
+E
+C
+
+9
+6
+–
+6
+6
+5
+
+
+
+
+
+,
+6
+1
+3
+6
+
+
+
+9
+8
+–
+6
+2
+
+
+
+,
+4
+7
+5
+
+
+
+6
+9
+–
+3
+1
+9
+
+
+
+
+
+,
+2
+6
+3
+9
+
+8
+
+
+
+8
+1
+–
+9
+1
+1
+
+
+
+
+
+,
+7
+3
+5
+1
+
+6
+7
+–
+3
+4
+6
+
+
+
+
+
+,
+6
+6
+9
+6
+
+9
+
+
+
+1
+1
+–
+4
+5
+
+
+
+,
+2
+6
+8
+
+
+
+9
+8
+–
+7
+0
+8
+
+
+
+
+
+,
+9
+1
+5
+8
+
+0
+7
+–
+5
+8
+5
+
+
+
+
+
+,
+8
+6
+4
+6
+
+5
+8
+–
+7
+5
+7
+
+
+
+
+
+,
+5
+4
+0
+8
+
+4
+9
+–
+1
+6
+8
+
+
+
+
+
+,
+5
+4
+0
+9
+
+0
+
+1
+
+2
+
+3
+
+
+
+
+
+
+
+
+
+6
+1
+–
+8
+7
+
+
+
+
+
+,
+3
+9
+1
+1
+
+5
+1
+–
+0
+7
+
+
+
+
+
+,
+6
+0
+1
+1
+
+4
+1
+–
+8
+6
+
+
+
+
+
+,
+3
+5
+0
+1
+
+5
+1
+–
+1
+6
+
+
+
+
+
+,
+7
+6
+0
+1
+
+3
+8
+–
+5
+7
+7
+
+
+
+
+
+,
+3
+5
+0
+8
+
+7
+
+
+
+5
+1
+–
+5
+0
+1
+
+
+
+
+
+,
+8
+0
+3
+1
+
+1
+8
+–
+0
+1
+7
+
+
+
+
+
+,
+7
+0
+6
+7
+
+
+
+3
+9
+–
+5
+3
+
+
+
+,
+3
+4
+6
+
+
+
+2
+9
+–
+3
+3
+8
+
+
+
+
+
+,
+4
+7
+7
+8
+
+0
+
+
+
+4
+1
+–
+9
+5
+
+
+
+,
+1
+9
+9
+
+
+
+0
+9
+–
+0
+6
+7
+
+
+
+
+
+,
+3
+3
+3
+8
+
+3
+
+
+
+6
+2
+–
+9
+0
+1
+
+
+
+
+
+,
+3
+6
+8
+1
+
+1
+9
+–
+2
+5
+7
+
+
+
+
+
+,
+4
+5
+3
+8
+
+8
+
+
+
+4
+2
+–
+1
+8
+
+
+
+
+
+,
+6
+4
+6
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7
+4
+3
+–
+7
+8
+2
+
+8
+0
+3
+–
+0
+9
+1
+
+6
+5
+5
+–
+0
+6
+4
+
+
+
+9
+1
+1
+–
+4
+5
+
+
+
+7
+5
+4
+–
+3
+3
+3
+
+3
+9
+2
+–
+3
+8
+1
+
+6
+7
+3
+–
+3
+6
+2
+
+8
+7
+3
+–
+0
+4
+2
+
+3
+7
+3
+–
+0
+0
+3
+
+4
+2
+3
+–
+9
+1
+2
+
+0
+1
+6
+–
+5
+7
+4
+
+9
+9
+4
+–
+5
+0
+3
+
+5
+3
+4
+–
+3
+2
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,
+7
+6
+
+,
+8
+8
+
+,
+3
+8
+
+
+
+
+
+
+
+1
+3
+
+4
+2
+
+0
+5
+
+I
+
+P
+C
+
+,
+2
+6
+8
+
+
+
+,
+1
+5
+
+,
+3
+8
+
+,
+5
+9
+
+,
+0
+9
+
+,
+4
+6
+
+,
+4
+1
+
+,
+5
+2
+
+,
+0
+2
+
+,
+1
+9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+3
+
+3
+2
+
+1
+3
+
+0
+3
+
+3
+3
+
+7
+2
+
+4
+5
+
+0
+4
+
+2
+3
+
+0
+
+9
+
+2
+
+2
+
+9
+
+9
+
+9
+
+2
+
+2
+
+7
+
+4
+
+4
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C
+M
+A
+
+N
+E
+G
+
+L
+H
+C
+
+6
+3
+–
+9
+9
+2
+
+
+
+
+
+,
+7
+9
+2
+3
+
+
+
+5
+7
+3
+–
+3
+
+6
+3
+–
+0
+4
+2
+
+
+
+
+
+,
+4
+1
+0
+3
+
+
+
+4
+8
+3
+–
+7
+
+4
+2
+–
+5
+6
+1
+
+
+
+
+
+,
+3
+3
+0
+2
+
+
+
+0
+3
+5
+–
+5
+
+9
+5
+–
+7
+7
+4
+
+
+
+
+
+,
+5
+4
+3
+5
+
+
+
+1
+0
+2
+–
+6
+
+1
+3
+–
+8
+0
+2
+
+
+
+
+
+,
+4
+3
+6
+2
+
+
+
+3
+0
+5
+–
+8
+
+3
+3
+–
+3
+2
+2
+
+
+
+
+
+,
+9
+0
+8
+2
+
+
+
+0
+7
+2
+–
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+3
+
+,
+8
+3
+
+5
+2
+
+,
+6
+0
+
+3
+4
+
+,
+3
+2
+
+1
+1
+
+,
+6
+8
+
+7
+3
+
+,
+3
+0
+
+6
+1
+
+,
+0
+7
+
+1
+4
+–
+3
+0
+3
+
+
+
+
+
+,
+9
+0
+6
+3
+
+
+
+
+
+6
+9
+3
+–
+1
+8
+2
+
+,
+3
+8
+
+1
+5
+–
+5
+6
+3
+
+
+
+
+
+,
+2
+8
+3
+4
+
+
+
+0
+6
+4
+–
+5
+
+5
+3
+–
+0
+8
+2
+
+
+
+
+
+,
+2
+6
+1
+3
+
+
+
+3
+2
+4
+–
+7
+
+1
+4
+–
+4
+0
+3
+
+
+
+
+
+,
+7
+0
+6
+3
+
+
+
+1
+0
+3
+–
+9
+
+9
+2
+–
+8
+7
+1
+
+
+
+
+
+,
+8
+5
+3
+2
+
+
+
+1
+0
+6
+–
+5
+
+7
+2
+–
+8
+1
+1
+
+
+
+
+
+,
+1
+6
+9
+1
+
+
+
+8
+2
+6
+–
+1
+
+7
+2
+–
+2
+0
+1
+
+
+
+
+
+,
+9
+9
+8
+1
+
+
+
+7
+3
+3
+–
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+3
+
+,
+6
+7
+
+4
+3
+
+,
+7
+4
+
+9
+1
+
+.
+0
+0
+
+6
+4
+
+,
+0
+3
+
+3
+4
+
+,
+4
+9
+
+4
+1
+
+,
+5
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+3
+
+2
+3
+
+8
+4
+
+5
+1
+
+4
+4
+
+1
+2
+
+3
+3
+
+8
+3
+
+8
+3
+
+5
+2
+
+3
+5
+
+2
+5
+
+4
+2
+
+9
+
+9
+
+5
+
+5
+
+5
+
+6
+
+8
+
+2
+
+3
+
+6
+
+7
+
+4
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+5
+–
+4
+6
+4
+
+
+
+
+
+,
+7
+6
+9
+4
+
+
+
+6
+4
+7
+–
+8
+
+7
+4
+–
+4
+4
+3
+
+
+
+
+
+,
+5
+1
+1
+4
+
+
+
+6
+1
+7
+–
+6
+
+0
+7
+–
+4
+1
+6
+
+
+
+
+
+,
+6
+9
+5
+6
+
+
+
+6
+3
+9
+–
+0
+
+7
+3
+–
+7
+6
+2
+
+
+
+
+
+,
+7
+0
+2
+3
+
+
+
+4
+4
+5
+–
+8
+
+6
+5
+–
+9
+3
+4
+
+
+
+
+
+,
+1
+2
+0
+5
+
+
+
+9
+4
+8
+–
+8
+
+4
+4
+–
+0
+2
+3
+
+
+
+
+
+,
+0
+3
+8
+3
+
+
+
+3
+1
+6
+–
+5
+
+9
+5
+–
+7
+7
+4
+
+
+
+
+
+,
+6
+7
+3
+5
+
+
+
+9
+6
+7
+–
+0
+
+5
+6
+–
+5
+0
+5
+
+
+
+
+
+,
+7
+8
+7
+5
+
+
+
+7
+8
+8
+–
+6
+
+5
+5
+–
+5
+7
+4
+
+
+
+
+
+,
+0
+4
+1
+5
+
+
+
+1
+8
+7
+–
+4
+
+1
+5
+–
+8
+9
+3
+
+
+
+
+
+,
+1
+7
+5
+4
+
+
+
+3
+0
+7
+–
+0
+
+4
+7
+–
+1
+2
+6
+
+
+
+
+
+,
+0
+4
+8
+6
+
+
+
+9
+8
+8
+–
+0
+
+0
+7
+–
+2
+1
+5
+
+
+
+
+
+,
+8
+7
+0
+6
+
+
+
+1
+6
+9
+–
+3
+
+5
+5
+–
+1
+3
+3
+
+
+
+
+
+,
+0
+3
+4
+4
+
+
+
+9
+0
+9
+–
+7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+6
+
+,
+9
+6
+
+
+
+1
+7
+
+8
+5
+
+
+
+,
+7
+0
+5
+6
+
+P
+M
+A
+
+8
+8
+
+,
+8
+7
+
+2
+4
+
+,
+2
+6
+
+4
+7
+
+,
+4
+8
+
+8
+4
+
+,
+9
+8
+
+6
+6
+
+,
+3
+4
+
+7
+7
+
+,
+5
+1
+
+1
+7
+
+,
+7
+7
+
+9
+5
+
+,
+4
+6
+
+9
+7
+
+,
+6
+9
+
+4
+8
+
+,
+0
+2
+
+3
+7
+
+,
+8
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+9
+
+8
+4
+
+9
+7
+
+4
+5
+
+1
+7
+
+3
+8
+
+4
+7
+
+4
+6
+
+3
+8
+
+0
+9
+
+2
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+9
+8
+–
+0
+5
+7
+
+6
+9
+8
+–
+8
+9
+7
+
+4
+8
+9
+–
+0
+5
+9
+
+2
+0
+8
+–
+2
+0
+7
+
+8
+3
+8
+–
+4
+3
+7
+
+9
+1
+9
+–
+4
+3
+8
+
+2
+3
+9
+–
+8
+5
+8
+
+2
+8
+9
+–
+7
+1
+9
+
+5
+8
+8
+–
+1
+3
+8
+
+8
+3
+9
+–
+9
+6
+8
+
+8
+8
+9
+–
+6
+3
+9
+
+4
+9
+9
+–
+8
+0
+9
+
+9
+9
+9
+–
+0
+0
+9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,
+0
+2
+7
+8
+
+
+
+,
+9
+6
+4
+8
+
+
+
+,
+9
+6
+6
+9
+
+T
+E
+T
+
+
+
+0
+3
+9
+–
+3
+
+
+
+5
+7
+7
+–
+1
+
+
+
+7
+7
+9
+–
+8
+
+
+
+,
+7
+1
+5
+7
+
+
+
+0
+0
+0
+1
+–
+3
+
+
+
+,
+0
+6
+8
+7
+
+
+
+,
+6
+6
+7
+8
+
+
+
+,
+7
+4
+9
+8
+
+
+
+,
+4
+9
+4
+9
+
+
+
+,
+3
+8
+5
+8
+
+
+
+,
+6
+3
+0
+9
+
+
+
+,
+3
+2
+6
+9
+
+
+
+,
+0
+1
+5
+9
+
+
+
+,
+4
+9
+4
+9
+
+
+
+9
+4
+9
+–
+8
+
+
+
+1
+5
+9
+–
+9
+
+
+
+9
+1
+9
+–
+0
+
+
+
+2
+8
+9
+–
+7
+
+
+
+6
+3
+9
+–
+3
+
+
+
+8
+3
+9
+–
+9
+
+
+
+8
+3
+9
+–
+5
+
+
+
+7
+0
+9
+–
+0
+
+
+
+9
+0
+9
+–
+7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+8
+
+,
+1
+1
+
+5
+6
+
+,
+9
+2
+
+3
+9
+
+,
+4
+7
+
+7
+9
+
+,
+2
+6
+
+7
+8
+
+,
+6
+3
+
+7
+8
+
+,
+9
+4
+
+4
+8
+
+,
+7
+9
+
+1
+9
+
+,
+4
+9
+
+9
+8
+
+,
+3
+4
+
+6
+8
+
+,
+6
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+9
+
+)
+2
+2
+9
+
+=
+
+n
+(
+
+l
+
+a
+t
+o
+T
+
+1
+7
+
+5
+9
+
+8
+9
+
+1
+9
+
+1
+9
+
+7
+8
+
+4
+9
+
+1
+9
+
+0
+9
+
+)
+9
+0
+2
+
+=
+
+n
+(
+
+)
+3
+2
+4
+
+=
+
+n
+(
+
+7
+1
+0
+2
+
+)
+0
+9
+2
+
+=
+
+n
+(
+
+8
+1
+0
+2
+
+)
+3
+4
+2
+
+=
+
+n
+(
+
+)
+5
+3
+2
+
+=
+
+n
+(
+
+r
+e
+m
+m
+u
+S
+
+n
+m
+u
+t
+u
+A
+
+)
+6
+6
+2
+
+=
+
+n
+(
+
+)
+8
+7
+1
+
+=
+
+n
+(
+
+s
+e
+p
+y
+t
+
+t
+e
+k
+r
+a
+M
+
+r
+e
+t
+n
+W
+
+i
+
+s
+n
+o
+s
+a
+e
+S
+
+g
+n
+i
+r
+p
+S
+
+6
+1
+0
+2
+
+s
+r
+a
+e
+Y
+
+)
+2
+4
+6
+
+=
+
+n
+(
+
+)
+0
+8
+2
+
+=
+
+n
+(
+
+l
+i
+
+a
+t
+e
+R
+
+l
+
+e
+a
+s
+e
+o
+h
+W
+
+l
+
+t
+n
+a
+n
+m
+o
+d
+
+i
+
+e
+e
+r
+h
+t
+
+p
+o
+T
+
+5
+8
+
+,
+2
+6
+
+9
+8
+
+s
+T
+S
+
+
+
+6
+7
+
+,
+3
+3
+
+3
+7
+
+,
+8
+2
+
+
+
+
+
+3
+8
+
+2
+8
+
+)
+2
+1
+2
+
+=
+
+n
+(
+
+)
+2
+0
+1
+
+=
+
+n
+(
+
+)
+9
+7
+
+=
+
+n
+(
+
+9
+6
+4
+T
+S
+
+4
+3
+T
+S
+
+0
+4
+T
+S
+
+T
+X
+S
+
+s
+r
+o
+t
+c
+a
+F
+
+,
+L
+H
+C
+
+;
+
+m
+
+i
+r
+p
+o
+h
+t
+e
+m
+
+l
+
+i
+r
+t
+/
+e
+o
+z
+a
+x
+o
+h
+t
+e
+m
+a
+f
+l
+u
+s
+
+,
+T
+X
+S
+
+i
+
+;
+n
+c
+a
+x
+o
+ﬂ
+o
+r
+p
+c
+
+i
+
+,
+P
+C
+
+I
+
+;
+e
+n
+
+i
+l
+
+c
+y
+c
+a
+r
+t
+e
+t
+
+,
+T
+E
+T
+
+i
+
+;
+d
+c
+a
+
+i
+
+l
+
+c
+n
+a
+u
+v
+a
+c
+/
+n
+
+l
+
+i
+l
+l
+i
+
+i
+
+c
+x
+o
+m
+a
+
+,
+
+C
+M
+A
+
+i
+
+i
+
+;
+n
+c
+m
+a
+t
+n
+e
+g
+
+,
+
+N
+E
+G
+
+i
+
+;
+e
+m
+x
+a
+t
+o
+f
+e
+c
+
+,
+F
+E
+C
+
+;
+n
+
+i
+l
+l
+i
+
+i
+
+c
+p
+m
+a
+
+,
+P
+M
+A
+
+;
+s
+l
+a
+v
+r
+e
+t
+n
+
+i
+
+e
+c
+n
+e
+d
+ﬁ
+n
+o
+c
+
+,
+I
+
+C
+1
+
+1
+
+.
+s
+e
+p
+y
+t
+
+e
+c
+n
+e
+u
+q
+e
+s
+
+,
+s
+T
+S
+
+;
+t
+n
+a
+t
+s
+i
+s
+e
+r
+
+g
+u
+r
+d
+-
+i
+t
+l
+u
+m
+
+,
+R
+D
+M
+
+i
+
+;
+l
+o
+c
+n
+e
+h
+p
+m
+a
+r
+o
+h
+c
+
+l
+
+)
+I
+
+C
+%
+5
+9
+
+d
+n
+a
+%
+n
+o
+i
+t
+r
+o
+p
+o
+r
+p
+(
+
+i
+
+s
+l
+a
+b
+o
+r
+c
+m
+
+i
+
+i
+t
+n
+a
+
+t
+n
+e
+r
+e
+f
+f
+i
+d
+
+o
+t
+
+t
+n
+a
+t
+s
+i
+s
+e
+r
+
+i
+
+s
+n
+a
+r
+t
+s
+
+f
+o
+
+l
+
+e
+c
+n
+e
+a
+v
+e
+r
+P
+
+3
+
+e
+l
+b
+a
+T
+
+Journal of Applied Microbiology 128, 875--883 © 2019 The Society for Applied Microbiology
+
+879
+
+Salmonella contamination in pork
+
+Z. Zhu et al.
+
+(a)
+
+)
+
+%
+
+i
+
+(
+ 
+s
+n
+a
+r
+t
+s
+ 
+R
+D
+M
+ 
+g
+n
+o
+m
+a
+
+l
+
+ 
+e
+c
+n
+e
+a
+v
+e
+r
+P
+
+(b)
+
+s
+e
+
+t
+
+l
+
+a
+o
+s
+i
+ 
+f
+
+o
+ 
+r
+e
+b
+m
+u
+N
+
+25·00
+
+20·00
+
+15·00
+
+10·00
+
+5·00
+
+0·00
+
+120
+
+100
+
+103
+
+89
+
+2·85
+
+8
+
+23·04
+
+22·63
+
+21·41
+
+19·78
+
+10·30
+
+7
+
+6
+
+5
+
+Number of antimicrobial agents
+
+4
+
+3
+
+80
+
+60
+
+40
+
+20
+
+0
+
+I
+
+-
+
+L
+H
+C
+P
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+N
+E
+G
+P
+M
+A
+
+-
+
+62
+
+53
+
+4240
+
+3130 292927
+
+22 21
+
+18
+
+1512
+
+8 8 8 8 7 7 4 4 3 3 3 3 3 3 3
+
+22
+
+2 2 2 2 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+T
+X
+S
+-
+T
+E
+T
+-
+P
+M
+A
+
+T
+X
+S
+-
+T
+E
+T
+-
+C
+M
+A
+
+H
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+P
+M
+A
+
+L
+H
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+N
+E
+G
+P
+M
+A
+
+-
+
+T
+X
+S
+-
+T
+E
+T
+-
+C
+M
+A
+P
+M
+A
+
+-
+
+L
+H
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+C
+M
+A
+P
+M
+A
+
+-
+
+I
+
+-
+
+L
+H
+C
+P
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+C
+M
+A
+P
+M
+A
+
+-
+
+I
+
+-
+
+L
+H
+C
+P
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+P
+M
+A
+
+I
+
+-
+
+L
+H
+C
+P
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+N
+E
+G
+C
+M
+A
+P
+M
+A
+
+-
+
+-
+
+L
+H
+C
+-
+T
+X
+S
+-
+T
+E
+T
+
+I
+
+-
+
+L
+H
+C
+P
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+N
+E
+G
+-
+F
+E
+C
+P
+M
+A
+
+-
+
+I
+
+-
+
+L
+H
+C
+P
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+N
+E
+G
+-
+F
+E
+C
+C
+M
+A
+P
+M
+A
+
+-
+
+-
+
+-
+
+T
+X
+S
+C
+M
+A
+P
+M
+A
+
+-
+
+L
+H
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+C
+M
+A
+
+L
+H
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+N
+E
+G
+C
+M
+A
+P
+M
+A
+
+-
+
+-
+
+T
+X
+S
+-
+T
+E
+T
+-
+N
+E
+G
+C
+M
+A
+P
+M
+A
+
+-
+
+-
+
+I
+
+-
+
+L
+H
+C
+P
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+F
+E
+C
+C
+M
+A
+P
+M
+A
+
+-
+
+-
+
+L
+H
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+N
+E
+G
+-
+F
+E
+C
+C
+M
+A
+P
+M
+A
+
+-
+
+-
+
+T
+X
+S
+-
+T
+E
+T
+-
+F
+E
+C
+P
+M
+A
+
+-
+
+L
+H
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+F
+E
+C
+P
+M
+A
+
+-
+
+I
+
+-
+
+L
+H
+C
+P
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+T
+E
+C
+P
+M
+A
+
+-
+
+I
+
+P
+C
+-
+T
+X
+S
+-
+T
+E
+T
+
+I
+
+P
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+P
+M
+A
+
+T
+X
+S
+-
+T
+E
+T
+-
+N
+E
+G
+P
+M
+A
+
+-
+
+L
+H
+C
+-
+T
+E
+T
+-
+N
+E
+G
+P
+M
+A
+
+-
+
+I
+
+P
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+C
+M
+A
+P
+M
+A
+
+-
+
+I
+
+-
+
+H
+C
+P
+C
+-
+T
+E
+T
+-
+N
+E
+G
+P
+M
+A
+
+-
+
+L
+H
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+N
+E
+G
+-
+F
+E
+C
+P
+M
+A
+
+-
+
+T
+X
+S
+-
+T
+E
+T
+-
+F
+E
+C
+C
+M
+A
+P
+M
+A
+
+-
+
+-
+
+I
+
+-
+
+-
+
+L
+H
+C
+P
+C
+-
+T
+X
+S
+N
+E
+G
+C
+M
+A
+P
+M
+A
+
+-
+
+-
+
+-
+
+-
+
+T
+X
+S
+N
+E
+G
+C
+M
+A
+P
+M
+A
+
+-
+
+I
+
+-
+
+-
+
+L
+H
+C
+P
+C
+-
+T
+X
+S
+N
+E
+G
+-
+F
+E
+C
+C
+M
+A
+P
+M
+A
+
+-
+
+-
+
+T
+E
+T
+-
+C
+M
+A
+P
+M
+A
+
+-
+
+-
+
+L
+H
+C
+-
+T
+X
+S
+C
+M
+A
+P
+M
+A
+
+-
+
+I
+
+-
+
+L
+H
+C
+P
+C
+-
+T
+X
+S
+C
+M
+A
+P
+M
+A
+
+-
+
+-
+
+L
+H
+C
+-
+T
+E
+T
+-
+P
+M
+A
+
+T
+X
+S
+-
+F
+E
+C
+P
+M
+A
+
+-
+
+T
+X
+S
+-
+T
+E
+T
+-
+N
+E
+G
+-
+F
+E
+C
+P
+M
+A
+
+-
+
+L
+H
+C
+-
+T
+X
+S
+P
+M
+A
+
+-
+
+I
+
+P
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+N
+E
+G
+P
+M
+A
+
+-
+
+L
+H
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+N
+E
+G
+
+L
+H
+C
+-
+T
+X
+S
+-
+F
+E
+C
+C
+M
+A
+
+-
+
+T
+X
+S
+-
+T
+E
+T
+-
+N
+E
+G
+C
+M
+A
+
+-
+
+I
+
+-
+
+L
+H
+C
+P
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+C
+M
+A
+
+I
+
+-
+
+L
+H
+C
+P
+C
+-
+T
+X
+S
+N
+E
+G
+P
+M
+A
+
+-
+
+-
+
+I
+
+-
+
+L
+H
+C
+P
+C
+-
+T
+X
+S
+-
+F
+E
+C
+P
+M
+A
+
+-
+
+I
+
+-
+
+L
+H
+C
+P
+C
+-
+T
+X
+S
+N
+E
+G
+P
+M
+A
+
+-
+
+-
+
+L
+H
+C
+-
+T
+E
+T
+-
+C
+M
+A
+P
+M
+A
+
+-
+
+T
+X
+S
+-
+T
+E
+T
+-
+N
+E
+G
+-
+F
+E
+C
+C
+M
+A
+P
+M
+A
+
+-
+
+-
+
+I
+
+-
+
+L
+H
+C
+P
+C
+-
+T
+X
+S
+-
+F
+E
+C
+C
+M
+A
+P
+M
+A
+
+-
+
+-
+
+-
+
+T
+E
+T
+-
+F
+E
+C
+C
+M
+A
+P
+M
+A
+
+-
+
+L
+H
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+F
+E
+C
+C
+M
+A
+P
+M
+A
+
+-
+
+-
+
+I
+
+-
+
+-
+
+L
+H
+C
+P
+C
+C
+M
+A
+P
+M
+A
+
+-
+
+I
+
+P
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+F
+E
+C
+C
+M
+A
+P
+M
+A
+
+-
+
+-
+
+I
+
+P
+C
+-
+T
+X
+S
+P
+M
+A
+
+T
+X
+S
+-
+T
+E
+T
+-
+F
+E
+C
+
+-
+
+I
+
+P
+C
+-
+T
+E
+T
+-
+N
+E
+G
+
+L
+H
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+F
+E
+C
+
+I
+
+-
+
+L
+H
+C
+P
+C
+-
+T
+X
+S
+-
+T
+E
+T
+-
+N
+E
+G
+
+Multi-drug resistance (MDR) patterns
+
+Figure 1 Antimicrobial resistance proﬁles. (a) Proportions of strains resistant to the indicated amounts of antimicrobial agents. (b) Prevalence of
+different multi-drug resistant (MDR) patterns. AMP: ampicillin; CEF: cefotaxime; GEN: gentamicin; AMC: amoxicillin/clavulanic acid; TET: tetracy-
+cline; CIP: ciproﬂoxacin; SXT: sulfamethoxazole/trimethoprim; CHL: chloramphenicol.
+
+compared between samples from different years, seasons
+and markets. It was revealed that the prevalence was
+higher among samples collected in 2017 than that in
+2016 or 2018. The samples collected in winter showed the
+lowest Salmonella contamination proportion; while the
+prevalence was signiﬁcantly higher among the samples
+collected in spring and autumn, suggesting that season
+may be an important factor determining the prevalence
+of Salmonella. It was also observed that pork samples
+from retail markets possessed a signiﬁcantly higher
+
+prevalence of Salmonella than those from wholesale mar-
+indicating that the environment may also be an
+kets,
+important
+factor leading to Salmonella contamination.
+This is supported by the previous study that Salmonella
+in the environment can cause the contamination of pork
+(Bonardi, 2017). It is also possible that the difference in
+the prevalence of Salmonella between pork samples from
+retail and wholesale markets was attributed to the differ-
+ent origin of pig farms or slaughterhouses. This was sup-
+ported by a study suggesting an association between loads
+
+880
+
+Journal of Applied Microbiology 128, 875--883 © 2019 The Society for Applied Microbiology
+
+Z. Zhu et al.
+
+Salmonella contamination in pork
+
+250
+
+***
+
+212
+
+ns
+
+*
+
+***
+
+l
+
+s
+e
+t
+a
+o
+s
+i
+ 
+f
+o
+ 
+r
+e
+b
+m
+u
+N
+
+200
+
+150
+
+100
+
+50
+
+0
+
+ST40
+
+Figure 2 Number of different sequence types
+(STs) of Salmonella strains. ‘*’ and ‘***’
+indicate P < 005 and P < 0001 respectively.
+ns, no signiﬁcance.
+
+102
+
+79
+
+56
+
+20 20 15 10 10 8
+ST516
+ST543
+ST64
+
+ST463
+
+ST19
+
+ST32
+
+ST34
+
+ST469
+
+ST155
+
+6
+
+3
+
+3
+
+3
+
+2
+
+1
+
+1
+
+1
+
+1
+
+1
+
+ST1543
+ST684
+
+ST1628
+ST29
+
+ST1249
+ST1498
+ST358
+ST13
+ST434
+
+ST489
+
+Sequence type
+
+Table 4 Prevalence of predominant MDR patterns among different STs of strains (proportion% and 95% CI)
+
+Predominant MDR patterns
+
+AMP-GEN-TET-SXT-CIP-CHL
+AMP-TET-SXT-CHL
+AMP-GEN-TET-SXT-CHL
+AMP-TET-SXT
+AMP-TET-SXT-CIP-CHL
+
+ST40 (n = 212)
+2311, 174–288
+943, 55–134
+802, 43–117
+330, 09–57
+519, 22–82
+
+ST34 (n = 102)
+1863, 109–263
+1078, 47–169
+1078, 47–169
+392, 01–78
+196, 08–47
+
+ST469 (n = 79)
+886, 25–153
+1139, 42–186
+380, 05–81
+1899, 102–278
+1139, 42–186
+
+CI, conﬁdence intervals; AMP, ampicillin; GEN, gentamicin; TET, tetracycline; CIP, ciproﬂoxacin; SXT, sulfamethoxazole/trimethoprim; CHL, chlo-
+ramphenicol; MDR, multi-drug resistant.
+
+)
+
+%
+
+(
+ 
+
+l
+
+e
+c
+n
+e
+a
+v
+e
+r
+P
+
+50·00
+45·00
+40·00
+35·00
+30·00
+25·00
+20·00
+15·00
+10·00
+5·00
+0·00
+
+ST40
+
+Figure 3 Prevalence of different sequence
+types (STs) between Salmonella strains from
+retail markets (
+markets (
+
+). ***P < 0001.
+
+) and from wholesale
+
+***
+
+ST34
+
+ST469
+
+ST155
+
+ST19
+
+ST32
+
+ST463
+
+ST516
+
+ST543
+
+ST64
+
+ST684
+
+ST1249
+ST29
+
+ST1498
+ST434
+
+ST1543
+ST358
+ST13
+
+ST1628
+ST489
+
+Sequence type
+
+of Salmonella in pigs and contamination in carcasses
+(Pesciaroli et al. 2017).
+
+In this study, we successfully isolated 922 Salmonella
+isolates from pork samples. Antimicrobial susceptibility
+testing showed that the strains were of very high levels of
+antimicrobial resistance, in which 9892% of them were
+resistant to at least one antimicrobial agent, and up to
+8004% of the strains were MDR. High-levels of antimi-
+crobial resistance among pig Salmonella isolates have also
+
+been reported in several other studies (Cai et al. 2016; Jiu
+et al., 2017; Zhang et al. 2018). However, compared with
+these studies, the overall antimicrobial resistance among
+strains isolated in this study is even higher, indicating an
+increasing AMR prevalence or a varied distribution
+between different regions.
+the individual
+antimicrobial reagent tested, SXT (9111%) was the most
+prevalent, followed by TET (8720%) and AMP (7169%).
+The Salmonella strains from human also exhibited high
+
+In terms of
+
+Journal of Applied Microbiology 128, 875--883 © 2019 The Society for Applied Microbiology
+
+881
+
+Salmonella contamination in pork
+
+Z. Zhu et al.
+
+proportions of resistance to tetracycline and ampicillin
+(Xu et al. 2019). It is worth noting that the overall MDR
+proportion and resistance to some dominant individual
+antimicrobial agents among strains isolated in 2017 are
+signiﬁcantly higher than those in 2016 or 2018. More-
+over, the strains isolated in winter revealed the highest
+MDR proportion and the strains isolated in summer
+exhibited the lowest MDR proportion. These differences
+among different years and seasons may be related to the
+utilization status of antimicrobials in pig husbandry and
+veterinary clinics, which should be further investigated.
+
+Further MLST analysis showed that an overall of 20
+STs were identiﬁed, suggesting the high diversity of Sal-
+monella in pork. Among them, ST40 (3827%), ST34
+(1841%) and ST469 (1446%) were dominant. These
+results are consistent with some other studies showing
+that ST40 and ST34 are the most prevalent STs among
+pig isolates in China (Ma et al. 2017). It is worth noting
+that ST469, which has been spreading in European coun-
+tries, is becoming more prevalent in pork samples from
+its ﬁrst detection in China (Ma et al. 2017; Patchanee
+et al. 2017). Our results also revealed that the ST distri-
+butions were similar between strains from retail markets
+and wholesale markets, except that ST34 was more preva-
+lent among wholesale market strains, indicating similar
+risk of Salmonella contamination between the two differ-
+ent markets.
+
+In conclusion, our results demonstrate high risk of
+prevalence and antimicrobial resistance of Salmonella in
+pork for sale in Wuhan, Central China during 2016–
+2018. Of the 3 years, the risk of prevalence and multi-
+drug resistance was the highest in 2017. Among the four
+seasons,
+the lowest prevalence and highest multi-drug
+resistance were both observed in winter. Pork from retail
+markets possesses higher prevalence than that
+from
+wholesale markets, and there is no signiﬁcant difference
+in antimicrobial resistance between samples from the two
+types of markets.
+
+Acknowledgements
+
+We thank the ofﬁcial veterinarians at Wuhan Agricultural
+Comprehensive Law Enforcement Inspector Corps for the
+help in sampling.
+
+Funding
+
+This work was supported by the National Key Research and
+Development Program of China (2018YFD0500500),
+the
+Special Fund for Agro-scientiﬁc Research in the Public Inter-
+est in China (201403054) and the Fundamental Research
+Funds for the Central Universities (2662018QD003).
+
+Conﬂict of Interest
+
+The authors declare that the research was conducted in
+the absence of any commercial or ﬁnancial relationships
+that could be construed as a potential conﬂict of interest.
+
+References
+
+Achtman, M., Wain, J., Weill, F.X., Nair, S., Zhou, Z., Sangal,
+
+V., Krauland, M.G., Hale, J.L. et al. (2012) Multilocus
+sequence typing as a replacement for serotyping in
+Salmonella enterica. PLoS Pathog 8, e1002776.
+
+Bonardi, S. (2017) Salmonella in the pork production chain
+
+and its impact on human health in the European Union.
+Epidemiol Infect 145, 1513–1526.
+
+Cai, Y., Tao, J., Jiao, Y., Fei, X., Zhou, L., Wang, Y., Zheng,
+H., Pan, Z. et al. (2016) Phenotypic characteristics and
+genotypic correlation between Salmonella isolates from a
+slaughterhouse and retail markets in Yangzhou, China. Int
+J Food Microbiol 222, 56–64.
+
+Campos, J., Mourao, J., Peixe, L. and Antunes, P. (2019) Non-
+
+typhoidal Salmonella in the pig production chain: a
+comprehensive analysis of its impact on human health.
+Pathogens 8 pii, E19.
+
+Chang, Y.C., Scaria, J., Ibraham, M., Doiphode, S., Chang, Y.F.,
+
+Sultan, A. and Mohammed, H.O. (2016) Distribution and factors
+associated with Salmonella enterica genotypes in a diverse
+population of humans and animals in Qatar using multi-locus
+sequence typing (MLST). J Infect Public Health 9, 315–323.
+
+CLSI (2013) Performance Standards for Antimicrobial Disk and
+
+Dilution Susceptibility Tests for Bacterial Isolated from
+Animals; Approved Standard-Fourth Edition. VET01-A4.
+Wayne, PA: Clinical and Laboratory Standards Institute.
+
+European Food Safety Authority and European Centre for
+
+Disease Prevention and Control (EFSA and ECDC) (2018)
+The European Union summary report on trends and
+sources of zoonoses, zoonotic agents and food-borne
+outbreaks in 2017. EFSC J 16, 5500.
+
+Gal-Mor, O., Boyle, E.C. and Grassl, G.A. (2014) Same species,
+
+different diseases: how and why typhoidal and non-
+typhoidal Salmonella enterica serovars differ. Front
+Microbiol 5, 391.
+
+GB4789.4-2010. National food safety standard. Food
+
+microbiological examination: Salmonella (in Chinese).
+
+Gilmour, M.W., Graham, M., Reimer, A. and Van Domselaar,
+G. (2013) Public health genomics and the new molecular
+epidemiology of bacterial pathogens. Public Health
+Genomics 16, 25–30.
+
+Herrera-Leon, S., McQuiston, J.R., Usera, M.A., Fields, P.I.,
+Garaizar, J. and Echeita, M.A. (2004) Multiplex PCR for
+distinguishing the most common phase-1 ﬂagellar antigens
+of Salmonella spp. J Clin Microbiol 42, 2581–2586.
+
+Ibrahim, G.M. and Morin, P.M. (2018) Salmonella serotyping
+using whole genome sequencing. Front Microbiol 9, 2993.
+
+882
+
+Journal of Applied Microbiology 128, 875--883 © 2019 The Society for Applied Microbiology
+
+Z. Zhu et al.
+
+Salmonella contamination in pork
+
+Jean-Gilles Beaubrun, J., Cheng, C.M., Chen, K.S., Ewing, L.,
+Wang, H., Agpaoa, M.C., Huang, M.C., Dickey, E. et al.
+(2012) The evaluation of a PCR-based method for
+identiﬁcation of Salmonella enterica serotypes from
+environmental samples and various food matrices. Food
+Microbiol 31, 199–209.
+
+Jiu, Y., Zhu, S., Khan, S.B., Sun, M., Zou, G., Meng, X., Wu,
+
+B., Zhou, R. et al. (2017) Phenotypic and genotypic
+resistance of Salmonella isolates from healthy and diseased
+pigs in China during 2008–2015. Microbiol Drug Resist 23,
+651–659.
+
+Kirk, M.D., Pires, S.M., Black, R.E., Caipo, M., Crump, J.A.,
+
+Devleesschauwer, B., Dopfer, D., Fazil, A. et al. (2015)
+World Health Organization estimates of the global and
+regional disease burden of 22 foodborne bacterial,
+protozoal, and viral diseases, 2010: a data synthesis. PLoS
+Med 12, e1001921.
+
+Lamas, A., Miranda, J.M., Regal, P., Vazquez, B., Franco, C.M.
+
+and Cepeda, A. (2018) A comprehensive review of non-
+enterica subspecies of Salmonella enterica. Microbiol Res
+206, 60–73.
+
+Liu, W.B., Liu, B., Zhu, X.N., Yu, S.J. and Shi, X.M. (2011)
+
+Diversity of Salmonella isolates using serotyping and
+multilocus sequence typing. Food Microbiol 28, 1182–1189.
+Ma, S., Lei, C., Kong, L., Jiang, W., Liu, B., Men, S., Yang, Y.,
+
+Cheng, G. et al. (2017) Prevalence, antimicrobial
+resistance, and relatedness of Salmonella isolated from
+chickens and pigs on farms, abattoirs, and markets in
+Sichuan province, China. Foodborne Pathog Dis 14, 667–
+677.
+
+using a WGS data approach. Int J Food Microbiol 254, 18–
+24.
+
+Pesciaroli, M., Cucco, L., De Luca, S., Massacci, F.R., Maresca,
+
+C., Medici, L., Paniccia, M., Scoccia, E. et al. (2017)
+Association between pigs with high caecal Salmonella loads
+and carcass contamination. Int J Food Microbiol 242, 82–
+86.
+
+Rahn, K., De Grandis, S.A., Clarke, R.C., McEwen, S.A., Galan,
+
+J.E., Ginocchio, C., Curtiss, R. III and Gyles, C.L. (1992)
+Ampliﬁcation of an invA gene sequence of Salmonella
+typhimurium by polymerase chain reaction as a speciﬁc
+method of detection of Salmonella. Mol Cell Probes 6,
+271–279.
+
+Ranieri, M.L., Shi, C., Moreno Switt, A.I., den Bakker, H.C.
+
+and Wiedmann, M. (2013) Comparison of typing methods
+with a new procedure based on sequence characterization
+for Salmonella serovar prediction. J Clin Microbiol 51,
+1786–1797.
+
+Ronholm, J., Nasheri, N., Petronella, N. and Pagotto, F.
+
+(2016) Navigating microbiological food safety in the era of
+whole-genome sequencing. Clin Microbiol Rev 29, 837–
+857.
+
+Ross, T.D. (2003) Accurate conﬁdence intervals for binomial
+
+proportion and Poisson rate estimation. Comput Biol Med
+33, 509–531.
+
+Xu, H., Zhang, W., Guo, C., Xiong, H., Chen, X., Jiao, X., Su,
+
+J., Mao, L. et al. (2019) Prevalence, serotypes, and
+antimicrobial resistance proﬁles among Salmonella isolated
+from food catering workers in Nantong, China. Foodborne
+Pathog Dis 16, 346–351.
+
+McQuiston, J.R., Parrenas, R., Ortiz-Rivera, M., Gheesling, L.,
+
+Yang, Y., Kadim, M.I., Khoo, W.J., Zheng, Q., Setyawati, M.I.,
+
+Brenner, F. and Fields, P.I. (2004) Sequencing and
+comparative analysis of ﬂagellin genes ﬂiC, ﬂjB, and ﬂpA
+from Salmonella. J Clin Microbiol 42, 1923–1932.
+
+Michael, G.B. and Schwarz, S. (2016) Antimicrobial resistance
+in zoonotic nontyphoidal Salmonella: an alarming trend?
+Clin Microbiol Infect 22, 968–974.
+
+Naas, T., Oxacelay, C. and Nordmann, P. (2007) Identiﬁcation
+
+of CTX-M-type extended-spectrum-beta-lactamase genes
+using real-time PCR and pyrosequencing. Antimicrob
+Agents Chemother 51, 223–230.
+
+Oh, J.H. and Park, M.K. (2017) Recent trends in Salmonella
+
+outbreaks and emerging technology for biocontrol of
+Salmonella using phages in foods: a review. J Microbiol
+Biotechnol 27, 2075–2088.
+
+Park, S.H. and Ricke, S.C. (2015) Development of multiplex
+
+PCR assay for simultaneous detection of Salmonella genus,
+Salmonella subspecies I, Salm. Enteritidis, Salm.
+Heidelberg and Salm. Typhimurium. J Appl Microbiol 118,
+152–60.
+
+Patchanee, P., Eiamsam-Ang, T., Vanaseang, J., Boonkhot, P.
+
+and Tadee, P. (2017) Determination of regional
+relationships among Salmonella spp. isolated from retail
+pork circulating in the Chiang Mai municipality area
+
+Shin, Y.J., Lee, S.C. and Yuk, H.G. (2014a) Membrane
+lipid composition and stress/virulence related gene
+expression of Salmonella Enteritidis cells adapted to lactic
+acid and trisodium phosphate and their resistance to
+lethal heat and acid stress. Int J Food Microbiol 191, 24–
+31.
+
+Yang, Y., Khoo, W.J., Zheng, Q., Chung, H.J. and Yuk, H.G.
+(2014b) Growth temperature alters Salmonella Enteritidis
+heat/acid resistance, membrane lipid composition and
+stress/virulence related gene expression. Int J Food
+Microbiol 172, 102–109.
+
+Zhang, L., Fu, Y., Xiong, Z., Ma, Y., Wei, Y., Qu, X.,
+Zhang, H., Zhang, J. et al. (2018) Highly prevalent
+multidrug-resistant Salmonella from chicken and pork
+meat at retail markets in Guangdong, China. Front
+Microbiol 9, 2104.
+
+Supporting Information
+
+Additional Supporting Information may be found in the
+online version of this article:
+
+Table S1. The background of all 922 isolates tested.
+
+Journal of Applied Microbiology 128, 875--883 © 2019 The Society for Applied Microbiology
+
+883
+
+

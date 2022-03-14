@@ -1,0 +1,3371 @@
+Moawad et al. Gut Pathog  (2018) 10:39  
+https://doi.org/10.1186/s13099-018-0266-5
+
+Gut Pathogens
+
+Open Access
+
+RESEARCH
+Antimicrobial resistance 
+in Enterobacteriaceae from healthy broilers 
+in Egypt: emergence of colistin-resistant 
+and extended-spectrum β-lactamase-producing 
+Escherichia coli
+
+Amira A. Moawad1,2*, Helmut Hotzel1, Heinrich Neubauer1, Ralf Ehricht4,5, Stefan Monecke4,5,6, 
+Herbert Tomaso1, Hafez M. Hafez3, Uwe Roesler7 and Hosny El‑Adawy1,8* 
+
+Abstract 
+Background:  Poultry remains one of the most important reservoir for zoonotic multidrug resistant pathogens. The 
+global rise of antimicrobial resistance in Gram‑negative bacteria is of reasonable concern and demands intensified 
+surveillance.
+Methods:  In 2016, 576 cloacal swabs were collected from 48 broiler farms located in five governorates in northern 
+Egypt. Isolates of Enterobacteriaceae could be cultivated on different media and were identified by MALDI‑TOF MS 
+and PCR. Escherichia coli isolates were genotyped by DNA‑microarray‑based assays. The antimicrobial susceptibility 
+to 14 antibiotics was determined and resistance‑associated genes were detected. The VITEK‑2 system was applied 
+for phenotypical confirmation of extended‑spectrum β‑lactamase‑producing isolates. The determination of colistin 
+resistance was carried out phenotypically using E‑test and genotypically using PCR for detection of the mcr‑1 gene.
+Results:  Out of 576 samples, 72 representatives of Enterobacteriaceae were isolated and identified as 63 E. coli (87.5%), 
+5 Enterobacter cloacae (6.9%), 2 Klebsiella pneumoniae (2.8%) and 2 Citrobacter spp. (2.8%). Seven out of 56 cultivated E. 
+coli (12.5%) were confirmed as ESBL‑producing E. coli and one isolate (1.8%) as ESBL/carbapenemase‑producing E. coli. 
+Five out of 63 E. coli isolates (7.9%) recovered from different poultry flocks were phenotypically resistant to colistin and 
+harboured mcr‑1 gene.
+Conclusions:  This is the first study reporting colistin resistance and emergence of multidrug resistance in Enterobac-
+teriaceae isolated from healthy broilers in the Nile Delta region, Egypt. Colistin‑resistant E. coli in poultry is of public 
+health significance. The global rise of ESBL‑ and carbapenemase‑producing Gram‑negative bacteria demands intensi‑
+fied surveillance. ESBL‑producing E. coli in poultry farms in Egypt are of major concern that emphasizes the possibil‑
+ity of spread of such strains to humans. The results also reinforce the need to develop strategies and to implement 
+specific control procedures to reduce the use of antibiotics.
+Keywords:  Enterobacteriaceae, Antibiotic resistance, DNA microarray, ESBL, Colistin, Broiler
+
+*Correspondence:  amira.moawad@fli.de; hosny.eladawy@fli.de 
+1 Friedrich‑Loeffler‑Institut (Federal Research Institute for Animal Health), 
+Institute of Bacterial Infections and Zoonoses, Naumburger Str. 96a, 
+07743 Jena, Germany
+Full list of author information is available at the end of the article
+
+© The Author(s) 2018. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License 
+(http://creat iveco mmons .org/licen ses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, 
+provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, 
+and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creat iveco mmons .org/
+publi cdoma in/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Moawad et al. Gut Pathog  (2018) 10:39 
+
+Page 2 of 12
+
+Background
+Poultry and their products are considered the main vehi-
+cle for pathogenic bacteria such as Salmonella (S.) sero-
+vars,  Escherichia  (E.)  coli  and  Klebsiella  (K.)  spp.  that 
+cause foodborne infections in humans [1–3].
+
+The  prevalence  of  highly  antibiotic-resistant  E.  coli 
+was recorded in poultry meat more frequently than in all 
+other kinds of meat [4, 5].
+
+Extended-spectrum β-lactamases (ESBLs) are plasmid-
+encoded enzymes found in Gram-negative bacteria espe-
+cially in Enterobacteriaceae conferring resistance to first, 
+second  and  third  generation  cephalosporins  while  they 
+are inhibited by clavulanic acid [6–10].
+
+ESBL-producing  Enterobacteriaceae  have  emerged 
+as pathogens in both poultry and humans [7, 11]. Many 
+ESBL-producers are additionally multiresistant to non-β-
+lactam antibiotics, including fluoroquinolones, aminogly-
+cosides,  trimethoprim,  tetracyclines,  sulfonamides  and 
+chloramphenicols [12, 13]. Resistance to cephalosporins 
+is  mediated  by  ampicillin  class  C  β-lactamases  (AmpC 
+β-lactamase) and encoded by blaCMY genes [14, 15]. Car-
+bapenems are still the drugs of choice to treat infections 
+with  ESBL-producing  Enterobacteriaceae  in  humans 
+[16] and their increasing use reinforces the probability of 
+resistance  development  to  carbapenems  among  Entero-
+bacteriaceae [17–19]. The coexistence of multiple ESBL 
+and  carbapenemase  genes  as  well  as  other  antibiotic 
+resistance determinants on mobile elements is of a major 
+concern that might lead to the emergence of organisms 
+with resistance to all antibiotics [6, 20, 21].
+
+Most  ESBLs  encoding  genes  in  bacteria  of  clinical 
+interest  are  located  on  plasmids  [22].  These  plasmids 
+may also carry genes encoding resistance to other drug 
+classes  including  aminoglycosides  and  fluoroquinolones 
+[23].  Transmission  of  ESBLs  genes  can  occur  either  by 
+emerging bacterial clones or by horizontal gene transfer. 
+In the latter case, plasmids containing resistance genes, 
+spread  between  bacteria  [22].  Colistin  recently  gained 
+attention as a last-resort antibiotic for treatment of infec-
+tions caused by multidrug resistant Gram-negative bac-
+teria. In veterinary practice, colistin is a drug of choice 
+for  the  treatment  of  frequent  digestive  tract  infections 
+caused  by  E.  coli  in  food-producing  animals  [24].  The 
+irrational use of colistin in veterinary practice may be the 
+main  cause  of  the  increasing  rate  of  colistin  resistance. 
+Recently, the emergence of colistin resistance has caused 
+great  concern  [25,  26]  and  resistance  mediated  by  the 
+plasmid-borne mcr-1 gene has been detected worldwide 
+in Enterobacteriaceae [27].
+
+In some countries, antimicrobials are used in the poul-
+try  industry  for  treatment  of  diseased  animals,  preven-
+tion  of  diseases  and  promotion  of  growth  [28–30].  In 
+Egypt, E. coli infections are considered as one of the most 
+
+serious  diseases  leading  to  economic  losses  in  poultry 
+production [31].
+
+Unfortunately, there are no legislations in Egypt regu-
+lating the use of antibiotics. Some of them such as tet-
+racycline, quinolones and beta-lactams are still used for 
+non-therapeutic uses [32]. This improper use of antimi-
+crobials leads to rapid selection of multiresistant strains 
+of Enterobacteriaceae in poultry and plays a key role in 
+the spread of antibiotic-resistant bacteria along the food 
+chain to humans [33–35].
+
+In recent years, matrix-assisted laser desorption/ioni-
+zation  time-of-flight  mass  spectrometry  (MALDI-TOF 
+MS) has been applied as a wide-range technique for bac-
+terial  identification  [36].  Microarray  systems  are  well-
+established tools for rapid genotypic characterization of 
+bacteria  and  identification  of  resistance  and  virulence-
+associated determinants [37]. The data can be obtained 
+in a single experiment with the benefit of saving time and 
+money [38–40]. The broth microdilution method proved 
+to be an easy and reliable method for determination of 
+the minimum inhibitory concentration (MIC) of antibi-
+otics and can be used as an alternative technique to agar 
+diffusion test [41–43].
+
+The use of a rapid molecular assay as an alternative to 
+phenotypic  detection  was  proved  to  be  a  useful  option 
+for detection of antibiotic resistance to frequently applied 
+antimicrobial agents in poultry production [43].
+
+The objective of this study was to gain insight into the 
+antimicrobial  susceptibility  of  Enterobacteriaceae,  espe-
+cially E. coli originating from healthy broilers from dif-
+ferent districts in northern Egypt and to understand its 
+public  health  significance.  In  addition,  the  prevalence 
+of  ESBL/carbapenemase-producing  E.  coli  and  colistin 
+resistance were investigated.
+
+Methods
+Isolation and characterization of bacterial strains
+During  2016,  576  cloacal  swabs  were  randomly  col-
+lected  from  apparently  healthy  broilers  housed  in  48 
+farms  located  in  five  governorates,  namely:  Dakahlia, 
+Kafr El-Sheikh, Damietta, Gharbiya and Sharkiya, in the 
+Nile Delta region, Egypt. An overview about investigated 
+poultry  farms,  the  number  of  birds  and  the  number  of 
+collected samples are given in Table 1. Sampling was car-
+ried out using sterile cotton swabs. The collected samples 
+were transported at 4 °C to the laboratory for microbio-
+logical examination. The samples were enriched in Buff-
+ered Peptone Water at 37 °C for 24 h and then streaked 
+on  MacConkey  Agar  and  Eosin  Methylene  Blue  (EMB) 
+Agar  (Oxoid,  Manchester,  UK),  followed  by  further 
+incubation at 37 °C for 24 h. For identification of ESBL-
+producing  Enterobacteriaceae,  the  enriched  bacterial 
+
+Moawad et al. Gut Pathog  (2018) 10:39 
+
+Page 3 of 12
+
+Table 1  Overview about investigated poultry farms and the number of collected samples
+
+Governorate
+
+Dakahlia
+
+Sharkiya
+
+Gharbiya
+
+Damietta
+
+Kafr El‑Sheikh
+
+No. of farms
+No. of birds
+No. of samples
+
+20
+58,000
+232
+
+5
+18,000
+72
+
+4
+12,000
+48
+
+9
+28,000
+112
+
+10
+28,000
+112
+
+Total
+
+48
+144,000
+576
+
+cultures were cultivated on Brilliance™ ESBL agar (Oxoid 
+GmbH, Wesel, Germany) at 37 °C for 24 h.
+
+Identification by MALDI‑TOF MS
+Isolates  were  identified  using  MALDI-TOF  MS  [44]. 
+Interpretation of results was performed according to the 
+manufacturer’s  recommendation:  score  of  ≥ 2.3  repre-
+sented reliable species level identification; score 2.0–2.29, 
+probable species level identification; score 1.7–1.9, prob-
+able genus level identification, and score ≤ 1.7 was con-
+sidered an unreliable identification [45].
+
+DNA extraction and purification
+Genomic  DNA  was  extracted  from  bacterial  cultures 
+using  High  Pure  PCR  Template  Purification  Kit  (Roche 
+Diagnostics,  Mannheim,  Germany)  according  to  the 
+instructions of the manufacturer.
+
+Identification of E. coli isolates using PCR
+The identified E. coli isolates were confirmed at species 
+level using a specific PCR assay targeting 16S rRNA genes 
+with primers ECO-1 (5′-GAC CTC GGT TTA GTT CAC 
+AGA-3′)  and  ECO-2  (5′-CAC  ACG  CTG  ACG  CTG 
+ACC A-3′) which geared from previous study by Seidavi 
+et al. [46]. The PCR reaction was carried out with the fol-
+lowing amplification conditions: An initial denaturation 
+step at 96 °C for 60 s was followed by 35 cycles of dena-
+turation (96 °C for 15 s), annealing (58 °C for 60 s) and 
+extension (72 °C at 45 s) with a final extension at 72 °C 
+for 60 s. PCR resulted in 585 bp amplicons. PCR prod-
+ucts  were  analyzed  on  a  1.5%  agarose  gel,  stained  with 
+ethidium bromide and visualized under UV light.
+
+Genoserotyping of E. coli isolates using microarray assay
+The  serotypes  of  E.  coli  isolates  were  determined  using 
+the  E.  coli  SeroGenoTyping  AS-1  Kit  (Alere  Technolo-
+gies GmbH, Jena, Germany). Five microliters of extracted 
+RNA-free DNA (with a concentration of at least 100 ng/
+μl) were biotin-labeled by a primer extension amplifica-
+tion using E. coli SeroGenoTyping AS-1 Kit according to 
+manufacturer’s  instructions.  The  procedures  for  multi-
+plex labelling, hybridization and data analysis were car-
+ried out as described in a previous study [47].
+
+Phenotypic antibiotic susceptibility testing
+The  antibiotic  susceptibility  testing  of  all  isolates  was 
+performed with the MICRONAUT system using com-
+mercial  96-well  microtiter  plates  (Merlin,  Bornheim, 
+Germany) as recommended by the manufacturer. This 
+system allowed the determination of minimum inhibi-
+tory concentrations (MICs) of 14 antimicrobial agents 
+(Tables 2, 3) in serial dilutions of the antibiotics. Over-
+night grown bacteria were suspended in NaCl solution 
+(0.9%) to obtain a turbidity corresponding to a McFar-
+land  standard  of  0.5  (Dr.  Lange,  CADAS  photometer 
+30,  Berlin,  Germany).  One  hundred  microliters  of  the 
+suspension  were  diluted  with  10  ml  of  Mueller–Hin-
+ton broth (Oxoid GmbH) resulting in a concentration 
+of  approximately   106–107  colony  forming  units  (cfu)/
+ml. In total, 100 µl of the inoculum were given in each 
+well  of  the  plate.  After  sealing  the  plates,  they  were 
+incubated for 18 h to 24 h at 37 °C. Reading of plates 
+was done with a photometer (Merlin) at a wavelength 
+of 620 nm. An optical density of > 0.1 was interpreted 
+as an indication of growth. MICs were interpreted with 
+the advanced expert system MCN-6 (Merlin) using the 
+guidelines of the German Institute for Standardization 
+(Deutsches Institut für Normung, Berlin, Germany). E. 
+coli ATCC 25922, E. coli ATCC 35218 and K. pneumo-
+niae ATCC 700603 were used as quality controls.
+
+Vitek‑2 system
+All  suspected  ESBL  isolates  were  subsequently  con-
+firmed  using  an  automated  microdilution  system 
+(VITEK-2, bioMérieux Deutschland GmbH, Nürtingen, 
+Germany)  according  to  the  instructions  of  the  manu-
+facturer.  For  this  study,  the  test  card  AST-N289  was 
+used that included the following antibiotics: piperacil-
+lin  (PIP),  piperacillin/tazobactam  (TZP),  cefotaxime 
+(CTX), ceftazidime (CAZ), cefepime (FEB), aztreonam 
+(ATM),  imipenem  (IMP),  meropenem  (MEM),  ami-
+kacin  (AMK),  gentamicin  (GEN),  tobramycin  (TOP), 
+ciprofloxacin  (CIP),  moxifloxacin  (MXF),  tigecycline 
+(TGC), fosfomycin (FOS), colistin (CT) and trimetho-
+prim/sulfamethoxazole (T/S).
+
+Moawad et al. Gut Pathog  (2018) 10:39 
+
+Table 2  Antibiotic susceptibility of 56 Escherichia coli isolates from broilers using broth microdilution test
+
+Antibiotic
+
+Class
+
+Penicillin (PEN)
+Erythromycin (ERY)
+Rifampicin (RAM)
+Trimethoprim/sulfamethoxazole (T/S)
+Streptomycin (STR)
+Tetracycline (TET)
+Ceftazidime (CAZ)
+Amoxicillin/clavulanic acid (AMC)
+Chloramphenicol (CMP)
+Ciprofloxacin (CIP)
+Gentamicin (GEN)
+Levofloxacin (LEV)
+Amikacin (AMK)
+Imipenem (IMP)
+
+S susceptible, I intermediate, R resistant
+
+β‑Lactam
+Macrolide
+Ansamycin
+Diaminopyrimidine/sulfonamide
+Aminoglycoside
+Tetracycline
+β‑Lactam (cephalosporin)
+β‑Lactam/β‑lactamase inhibitor
+Non‑classified
+Fluoroquinolone
+Aminoglycoside
+Fluoroquinolone
+Aminoglycoside
+β‑Lactam (carbapenem)
+
+S
+
+0
+1
+1
+19
+12
+24
+24
+29
+41
+38
+38
+35
+43
+48
+
+I
+
+1
+1
+1
+1
+14
+4
+9
+12
+2
+6
+7
+13
+7
+7
+
+R
+
+55
+54
+54
+36
+30
+28
+23
+15
+13
+12
+11
+8
+6
+1
+
+Page 4 of 12
+
+Resistance 
+rate (%)
+
+98.2
+96.4
+96.4
+64.3
+53.6
+50.0
+41.1
+26.8
+23.2
+21.4
+19.6
+14.3
+10.7
+1.8
+
+Table 3  Antibiotic  susceptibility  of  9  Enterobacteriaceae  isolates  other  than  E.  coli  from  broilers  using  broth 
+microdilution test
+
+Antibiotic
+
+Enterobacter 
+cloacae (n = 5)
+R
+S
+
+I
+
+Resistance 
+rate (%)
+
+Penicillin (PEN)
+Erythromycin (ERY)
+Rifampicin (RAM)
+Trimethoprim/sulfamethoxazole (T/S)
+Streptomycin (STR)
+Tetracycline (TET)
+Ceftazidime (CAZ)
+Amoxicillin/clavulanic acid (AMC)
+Chloramphenicol (CMP)
+Ciprofloxacin (CIP)
+Gentamicin (GEN)
+Levofloxacin (LEV)
+Amikacin (AMK)
+Imipenem (IMP)
+
+S susceptible, I intermediate, R resistant
+
+0
+0
+0
+2
+1
+4
+3
+1
+4
+4
+4
+4
+5
+4
+
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+
+5
+5
+5
+3
+4
+1
+1
+4
+1
+1
+1
+1
+0
+0
+
+100
+100
+100
+60.0
+80.0
+20.0
+20.0
+80.0
+20.0
+20.0
+20.0
+20.0
+0.0
+0.0
+
+Citrobacter spp. 
+(n = 2)
+S
+
+R
+
+I
+
+Resistance 
+rate (%)
+
+Klebsiella 
+pneumoniae (n = 2)
+S
+
+R
+
+I
+
+Resistance 
+rate (%)
+
+0
+1
+0
+0
+0
+1
+0
+1
+2
+2
+2
+2
+1
+2
+
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+
+2
+1
+2
+1
+2
+1
+2
+0
+0
+0
+0
+0
+1
+0
+
+100
+50.0
+100
+50.0
+100
+50.0
+100
+0.0
+0.0
+0.0
+0.0
+0.0
+50.0
+0.0
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+1
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+0
+0
+
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+0.0
+0.0
+
+Detection of antibiotic resistance and virulence‑associated 
+genes of E. coli isolates by microarray analysis
+Antimicrobial  resistance  (AMR)  genotypes  and  other 
+resistance  genes  were  ascertained  using  the  CarbDe-
+tect AS-2 Kit and E. coli PanType AS-2 Kit, respectively 
+(Alere Technologies GmbH). The data were automatically 
+summarized by the “result collector”, a software tool pro-
+vided by Alere Technologies GmbH. An antibiotic resist-
+ance genotype was assigned to be a carrier of a group of 
+
+genes  which  have  been  described  to  confer  resistance 
+to  a  family  of  antibiotics  (e.g.,  the  genotype  “blaCTX-
+M1/15,  blaTEM”  conferring  resistance  to  3rd  generation 
+cephalosporins).
+
+The  detection  of  virulence-associated  genes  was  per-
+formed using E. coli PanType AS-2 Kit (Alere Technolo-
+gies  GmbH).  Twenty-eight  different  combinations  of 
+genes  encoding  virulence  factors  associated  with  adhe-
+sion,  fimbriae  production,  secretion  systems,  SPATE 
+
+Moawad et al. Gut Pathog  (2018) 10:39 
+
+Page 5 of 12
+
+(serine  protease  auto-transporters),  toxins  and  miscel-
+laneous  genes  were  detected.  The  genes  were  detected 
+and analysed by the “result collector”, a software tool pro-
+vided by Alere Technologies GmbH.
+
+Determination of colistin resistance
+All identified E. coli isolates were tested for presence of 
+plasmid-mediated mcr-1 gene using PCR [27]. Briefly, a 
+PCR with 25 µL reaction mixture using CLR5-F (5′-CGG 
+TCA  GTC  CGT  TTG  TTC-3′)  and  CLR5-R  (5′-CTT 
+GGT CGG TCT GTA GGG-3′) was performed with the 
+following  amplification  conditions:  initial  denaturing  at 
+96 °C for 60 s was followed by 35 cycles of denaturing at 
+96 °C for 15 s, annealing at 55 °C for 60 s and extension 
+at 72 °C for 30 s. PCR was finished by final extension at 
+72 °C for 60 s. Amplicons (308 bp) were analyzed on 1.5% 
+agarose  gel,  stained  with  ethidium  bromide  and  visual-
+ized under UV light.
+
+For isolates possessing mcr-1 gene, MICs were deter-
+mined  with  RUO  E-test  colistin  CO  256  according  to 
+the  manufacturer’s  guidelines  (bioMérieux  Deutschland 
+GmbH).  Briefly,  an  overnight  bacterial  suspension  in 
+Mueller–Hinton  broth  was  adjusted  to  a  density  of 
+McFarland 0.5 evenly streaked on Mueller–Hinton agar 
+was  dry,  an  E-test®  colistin  strip  (concentration  range 
+plates to ensure uniform growth. Once the agar surface 
+from 0.016 to 256 μg/ml) was applied to the plate with 
+sterile  forceps.  The  MIC  was  determined  after  aerobic 
+incubation for 20 h at 37 °C as the point, where inhibition 
+of bacterial growth intersected the E-test strip. Accord-
+ing to clinical breakpoints given by EUCAST, an isolate 
+was defined as resistant to colistin when the MIC value 
+was > 2 µg/ml [48].
+
+Results
+Isolation and identification of Enterobacteriaceae
+Out of 576 samples, 72 Enterobacteriaceae isolates were 
+identified by MALDI-TOF MS. The isolates were classi-
+fied as 63 E. coli (87.5%), 5 Enterobacter cloacae (6.9%), 
+2 K. pneumoniae (2.8%) and 2 Citrobacter spp. (2.8%).
+
+Seven  out  of  63  E.  coli  isolates  could  not  be  re-culti-
+vated  for  testing  of  antibiotic  resistance  after  applying 
+MALDI-TOF  MS  (11.1%),  while  DNA  was  extracted 
+from preserving solution for further identification.
+
+Antimicrobial susceptibility testing
+The results of phenotypic antibiotic susceptibility testing 
+of 56 re-cultivated E. coli isolates were given in Table 2. 
+E. coli isolates showed high resistance rates to penicillin, 
+erythromycin and rifampicin with 98.2, 96.4 and 96.4%, 
+respectively.  Resistance  rates  to  other  tested  antibiotics 
+were between 10.7% for amikacin and 64.3% for trimeth-
+oprim/sulfamethoxazole. Only one E. coli isolate (1.8%) 
+
+was resistant to imipenem (Tables 2 and 6). Fifty-five out 
+of 56 E. coli isolates (98.2%) were resistant to antibiotics 
+of at least three different classes of antimicrobial agents 
+and thus they were defined as multidrug resistant isolates 
+(Table 2).
+
+The antimicrobial susceptibility profiles for other spe-
+cies of Enterobacteriaceae were presented in Table 3. All 
+5 Enterobacter cloacae isolates were resistant to penicil-
+lin,  erythromycin  and  rifampicin.  Two  Citrobacter  spp. 
+isolates  were  resistant  to  penicillin,  rifampicin,  strepto-
+mycin and ceftazidime. Two K. pneumoniae strains were 
+sensitive to amikacin and imipenem but resistant to the 
+rest of the antibiotics tested.
+
+Genoserotyping of E. coli isolates using microarray analysis
+Three  out  of  63  E.  coli  isolates  (4.8%)  were  determined 
+as O91 and O15; in all other cases O type determination 
+failed.  H  antigen  types  were  identified  for  all  isolates. 
+Seventeen different types of H antigens (H1, H2, H4, H5, 
+H6, H7, H8, H10, H11, H16, H19, H21, H26, H28, H32, 
+H34 and H51) were detected. H21 (14 isolates), H28 (10 
+isolates) and H51 (8 isolates) are being the most common 
+types.
+
+Detection of antibiotic resistance determinants in E. coli 
+by microarray analysis
+Several resistance genes were identified in 15 phenotypi-
+cally resistant E. coli using microarray analysis (Table 4). 
+The  isolates  were  originated  from  four  districts  located 
+in  four  provinces,  namely  Dakahliya  (n = 7),  Damietta 
+(n = 3), Gharbiya (n = 3) and Kafr El-Sheikh (n = 4). Fre-
+quently  identified  resistance  genes  were  aadA1  associ-
+ated  with  resistance  to  aminoglycosides  (n = 12),  sul2 
+responsible for sulphonamide resistance (n = 10) and floR 
+connected with resistance to chloramphenicol (n = 10).
+In this study, five E. coli isolates harboured qnrS gene 
+while  one  isolate  possessed  qnrB  gene  associated  with 
+quinolone  resistance.  In  two  phenotypically  ciprofloxa-
+cin-resistant E. coli, qnrS gene was detected (Table 4).
+
+The sul and dfrA genes associated with sulphonamides/
+trimethoprim  resistance  were  detected  in  16  and  13  E. 
+coli isolates, respectively (Table 4). Meanwhile, sul3 gene 
+corresponding to sulphonamide resistance was amplified 
+in two susceptible E. coli to sulphonamide/trimethoprim.
+Eleven  E.  coli  phenotypically  resistant  to  tetracycline 
+were harboured one or more tet genes (tetA, tetB or tetC) 
+(Table  4).  Chloramphenicol  resistance-associated  genes 
+catA1, catB3, cmlA1 and floR were detected in 13 E. coli 
+isolates.  Out  of  13  chloramphenicol  resistant  isolates, 
+10 isolates harboured one or more resistance genes. The 
+cmlA1  gene  was  detected  once  in  an  E.  coli  strain  that 
+was phenotypically susceptible to chloramphenicol.
+
+Moawad et al. Gut Pathog  (2018) 10:39 
+
+Page 6 of 12
+
+Table 4  Genoserotypes  and  resistance  profiles  of  Escherichia  coli  isolates  possessed  resistance  genes  from  different 
+farms in four districts in Egypt
+
+District
+
+Isolate
+
+O‑type H‑type Virulence genes
+
+Resistance genes
+
+Phenotypic resistance
+
+ESBL
+
+qnrS, tetA, blaTEM
+sul3, cmlA1, floR, aadA1, 
+aphA, strB, mphA, mrx, 
+blaTEM
+
+TET, RAM, ERY, PEN
+CIP, TET, CMP, RAM, GEN, STR, 
+
+ERY, PEN
+
+sul1, sul2, dfrA12, tetA, floR, 
+aadA1, mphA, mrx, blaCMY, 
+blaTEM
+
+CIP, LEV, T/S, TET, CMP, RAM, 
+GEN, STR, ERY, PEN, AMP, 
+CAZ
+
+sul3, dfrA12, cmlA1, aadA1, 
+
+mphA, mrx
+
+CIP, LEV, T/S, CMP, RAM, STR, 
+
+ERY, PEN, AMP
+
+Dakahliya (n = 7)
+
+16CS0049 –
+16CS0070 –
+
+16CS0071 –
+
+16CS0078 –
+16CS0740 –
+
+16CS0744 –
+
+16CS0772 –
+
+16CS0069 –
+
+16CS0743 –
+
+16CS0752 –
+
+Damietta (n = 3)
+
+Gharbiya (n = 3)
+
+16CS0747 –
+
+16CS0761 –
+
+16CS0762 –
+
+Kafr El‑sheikh (n = 4) 16CS0067 15
+
+16CS0075 –
+
+16CS0755 –
+
+16CS0774 –
+
+5
+51
+
+21
+
+4
+26
+
+51
+
+51
+
+51
+
+51
+
+6
+
+32
+
+51
+
+51
+
+1
+
+51
+
+10
+
+1
+
+hemL
+ipfA, cma, hemL, intl1, iroN, iss
+
+ipfA, cma, intl1, iroN, iss
+
+hemL, intl1, iss
+cif, espA, espF_O103H2, espJ, 
+
+nleA, nleB, O157:H7, tccP, 
+astA, hemL, intl1, tir, eae
+
+cma, hemL, intl1, iroN
+
+ipfA, mchF, hemL, intl1, iroN, 
+
+iss
+
+cma, intl1, iroN, iss
+
+mchF, hemL, intl1, iroN, iss
+
+iha, prfB, sat, hemL, intl1
+
+hemL, intl1, ireA
+
+hemL, intl1, iroN, iss
+
+ipfA, mchF, hemL, intl1, intl2, 
+
+iroN, iss
+
+prfB, senB, hemL, iss
+
+ipfA, cma, hemL, intl1, iroN, iss
+
+sul2, dfrA14, tetA, strB
+sul1, sul2, sul3, dfrA14, tetA, 
+
+cmlA1, floR, arr, aadA1, 
+aadB, ant2, aphA, strB, 
+mphA, mrx, blaOXA‑7
+
+sul3, dfrA1, dfrA14, tetA, 
+cmlA1, aadA1, aphA, 
+mphA, mrx, blaCMY, blaTEM
+
+qnrS, sul2, dfrA17, tetB, catA1, 
+
+floR, aadA1, aadA4, strB, 
+blaTEM, blaCTX‑M9
+
+sul2, dfrA17, tetB, catA1, 
+
+aadA4, blaTEM
+
+sul1, sul3, dfrA12, cmlA1, 
+
+floR, aac6, aac6 lb, aadA1, 
+aadA2, aphA, mphA, 
+mrx, blaCTX‑M1/blaCTX‑M15, 
+blaOXA‑1, blaTEM
+
+qnrS, sul3, tetA, cmlA1, floR, 
+arr, aadA1, blaOXA‑7, blaSHV, 
+blaTEM
+
+qnrS, sul2, dfrA1, dfrA17, tetA, 
+
+tetC, catA1, floR, aadA1, 
+aadA4, aphA, strB, ereA, 
+blaTEM, blaLAP‑1
+
+sul2, dfrA1, dfrA17, tetA, tetB, 
+
+tetC, catA1, floR, aadA1, 
+aadA4, aphA, strB, ereA, 
+blaTEM
+
+qnrS, sul1, sul2, dfrA7, dfrA17, 
+
+dfrA19, tetA, aadA4, strA, 
+strB, mphA, mrx, blaTEM
+sul3, cmlA1, floR, aadA1, 
+
+aphA, mphA, blaTEM
+
+T/S, TET, RAM, STR, ERY, PEN
+CIP, T/S, TET, CMP, RAM, GEN, 
+
+STR, ERY, PEN, AMP
+
+CIP, T/S, TET, RAM, GEN, STR, 
+
+ERY, PEN, AMP, CAZ
+
+CIP, T/S, TET, CMP, RAM, GEN, 
+
+STR, ERY, PEN, AMP, CAZ
+
++
+
+CIP, T/S, TET, CMP, RAM, STR, 
+
+ERY, PEN
+
+not determined
+
+T/S, TET, CMP, RAM, GEN, STR, 
+
+ERY, PEN AMP, CAZ
+
+CIP, LEV, T/S, TET, CMP, RAM, 
+
+GEN, STR, ERY, PEN, AMP
+
+not determined
+
+T/S, TET, RAM, GEN, STR, ERY, 
+
+PEN
+
+CIP, TET, CMP, RAM, GEN, STR, 
+
+ERY, PEN
+
+CIP, LEV, T/S, TET, CMP, RAM, 
+GEN, STR, ERY, PEN, AMP, 
+CAZ
+
++
+
++
+
++
+
++
+
++
+
++
+
+prfB, cme, intel1, iroN, iss
+
+sul2, sul3, dfrA1, cmlA1, floR, 
+aadA1, aphA, ereA, blaTEM
+
+ipfA, prfB, tsh, mchF, hemL, 
+
+ireA, iroN, iss
+
+qnrB, sul1, sul2, dfrA7, dfrA17, 
+dfrA19, tetB, aphA, blaDHA‑1
+
+T/S, TET, RAM, STR, ERY, PEN, 
+
+AMP, CAZ
+
+Ten  different  genes  (aac6,  aac6Ib,  aadA1,  aadA2, 
+aadA4, aadB, ant2, aphA, strA and strB) associated with 
+aminoglycoside  resistance  were  detected  in  14  out  of 
+phenotypically tested E. coli isolates (Table 4). All isolates 
+harbouring at least one of described genes were pheno-
+typically resistant to streptomycin, but four of them were 
+
+susceptible to gentamicin (Tables 3, 4). All isolates with 
+aminoglycoside resistance-associated genes were suscep-
+tible to amikacin.
+
+Genes  associated  with  macrolide  resistance  (ereA, 
+mphA, mrx) were identified in 9 phenotypically resistant 
+E.  coli  to  erythromycin.  The  rifampicin  resistance  gene 
+
+Moawad et al. Gut Pathog  (2018) 10:39 
+
+Page 7 of 12
+
+arr  was  identified  in  only  2  phenotypically  rifampicin 
+resistant isolates.
+
+Fifteen out of 63 E. coli isolates (23.8%) harboured one 
+or more ESBL, narrow-spectrum β-lactamase (NSBL) or 
+AmpC β-lactamase genes. The gene blaTEM was found in 
+13 DNAs of E. coli isolates (20.6%), blaCMY and blaOXA-7 
+were  detected  in  2  samples  each  (3.2%)  and  blaSHV, 
+blaOXA-1,  blaCTX-M1/15  and  blaDHA-1  were  found  in  one 
+isolate (1.6%).
+
+The correlation between the genotypic and phenotypic 
+antimicrobial  resistance  of  E.  coli  was  demonstrated  in 
+Table 4.
+
+Thirteen out of 15 isolates harbouring bla genes were 
+analyzed  using  the  VITEK-2  (Table  5).  Two  samples 
+could  not  be  tested,  as  they  could  not  be  re-cultivated. 
+All isolates possessing beta-lactam resistance genes were 
+resistant to piperacillin, while one isolate was susceptible 
+to moxifloxacin. All isolates were susceptible to fosfomy-
+cin. The narrow-spectrum beta-lactamase gene blaOXA-1 
+was detected once in one ESBL isolates originated from 
+poultry farm in Damietta.
+
+Genotypic and phenotypic identification of resistance 
+to colistin
+Plasmid-mediated  colistin  resistance  gene  mcr-1  was 
+detected in 5 out of 63 E. coli (8.0%) using a PCR assay. 
+All  of  them  were  phenotypically  confirmed  as  resistant 
+to colistin using E-test (Table 6). All colistin resistant E. 
+coli isolates were phenotypically resistant to rifampicin, 
+penicillin and erythromycin but were susceptible to car-
+bapenems. The colistin-resistant isolates originated from 
+different  poultry  flocks  in  Dakahliya,  Kafr  El-Sheikh, 
+Damietta and Gharbiya (Table 6).
+
+Microarray analysis concerning virulence‑associated genes
+The virulence genes detected by microarray were differ-
+ently distributed all over the isolated E. coli. One isolate 
+16CS0740 isolated from poultry farm in Dakahliya har-
+boured 7 genes of virulence-associated secretion system: 
+cif,  espA,  espF_O103H2,  espJ,  nleA,  nleB  O157:H7  and 
+tccP.
+
+eae  and  iha  genes,  involved  in  adhesion,  were  identi-
+fied  in  16CS0740  and  16CS0752,  repectively.  Two  iso-
+lates  harboured  serine  protease  autotransporter  genes. 
+16CS0774  carried  tsh  while  16CS0775  had  pic  and  vat 
+genes.
+
+Several  toxin  genes  were  detected  in  13  E.  coli  iso-
+lates  including  astA,  cma,  hlyE,  mchF,  sat  and  senB. 
+Each of these isolates carried only one toxin gene except 
+16CS0775 which harboured mchF, hlyE and cma. Nine-
+teen out of 63 E. coli isolates (30.2%) harboured lpfA and 
+3 others carried prfB fimbrae virulence gene. Miscellane-
+ous genes encoding virulence factors as hemL, intI1, ireA, 
+iroN, iss and tir genes were identified in 45 (71.4%), 10 
+(15.9%), 3 (4.8%), 9 (14.3%), 36 (57.1%) and 1 (1.6%) of 63 
+isolates, respectively.
+
+The distribution of virulence-associated genes in E. coli 
+isolates  possessed  antimicrobial  resistance-associated 
+genes was demonstrated in Table 4.
+
+Discussion
+Escherichia coli is a commensal pathogen of the intesti-
+nal tract of young and adult poultry [49]. Among healthy 
+chickens,  10  to  15%  of  intestinal  coliform  bacteria  may 
+belong to potentially pathogenic serotypes of E. coli [50].
+The identification of bacterial foodborne pathogens of 
+zoonotic  significance  using  rapid,  accurate  and  reliable 
+
+Table 5  Results of antimicrobial resistance testing using VITEK-2 system
+
+Isolate
+
+PIP
+
+TZP
+
+CTX
+
+CAZ
+
+FEB ATM IMP MEM AMK GEN TOB
+
+CIP MXF
+
+TGC 
+
+FOS
+
+CT
+
+T/S
+
+16CS0049
+16CS0070
+16CS0071
+16CS0075
+16CS0743
+16CS0744
+16CS0747
+16CS0761
+16CS0772
+16CS0774
+16CS0067
+16CS0740
+16CS0755
+
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+
+I
+I
+I
+I
+I
+I
+R
+I
+R
+I
+I
+I
+I
+
+S
+S
+R
+S
+S
+R
+R
+R
+R
+I
+S
+S
+R
+
+S
+S
+R
+S
+S
+R
+R
+I
+R
+R
+S
+S
+R
+
+S
+S
+I
+S
+S
+I
+I
+I
+I
+I
+S
+S
+I
+
+S
+S
+R
+S
+S
+R
+R
+I
+R
+R
+S
+S
+R
+
+S
+S
+S
+S
+S
+S
+I
+S
+S
+S
+S
+S
+S
+
+S
+S
+S
+S
+S
+S
+I
+S
+S
+S
+S
+S
+S
+
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+I
+S
+S
+
+S
+R
+R
+R
+S
+R
+R
+R
+R
+S
+R
+R
+R
+
+S
+R
+R
+R
+S
+R
+R
+R
+R
+S
+R
+R
+R
+
+I
+R
+R
+R
+R
+R
+I
+R
+R
+S
+S
+R
+R
+
+R
+R
+R
+R
+R
+R
+R
+R
+R
+S
+R
+R
+R
+
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+I
+
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+
+S
+S
+S
+R
+S
+R
+S
+S
+S
+S
+S
+S
+S
+
+S
+S
+R
+S
+R
+R
+S
+R
+R
+R
+R
+R
+R
+
+No ESBL
+No ESBL
+ESBL
+No ESBL
+No ESBL
+ESBL
+ESBL/Carba
+ESBL
+ESBL
+ESBL
+No ESBL
+No ESBL
+ESBL
+
+PIP piperacillin, TZP piperacillin/tazobactam, CTX cefotaxime, CAZ ceftazidime, FEB cefepime, ATM aztreonam, IMP imipenem, MEM meropenem, AMK amikacin, GEN 
+gentamicin, TOB tobramycin, CIP ciprofloxacin, MXF moxifloxacin, TGC  tigecycline, FOS fosfomycin, CT colistin, T/S trimethoprim/sulfamethoxazole
+
+Moawad et al. Gut Pathog  (2018) 10:39 
+
+Page 8 of 12
+
+e
+s
+a
+m
+e
+n
+e
+p
+a
+b
+r
+a
+C
+
+L
+B
+S
+E
+
+e
+u
+l
+a
+v
+C
+M
+
+I
+
+ 
+
+1
+‑
+r
+c
+m
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+ 
+c
+i
+p
+y
+t
+o
+n
+e
+h
+P
+
+ 
+
+s
+e
+n
+e
+g
+e
+c
+n
+e
+u
+r
+i
+V
+
+l
+
+ 
+
+s
+e
+n
+e
+g
+e
+c
+n
+a
+t
+s
+i
+s
+e
+R
+
+n
+e
+g
+i
+t
+n
+a
+‑
+H
+
+n
+e
+g
+i
+t
+n
+a
+‑
+O
+
+m
+r
+a
+F
+
+e
+t
+a
+r
+o
+n
+r
+e
+v
+o
+G
+
+e
+t
+a
+l
+o
+s
+I
+
+s
+e
+t
+a
+l
+o
+s
+i
+ 
+i
+l
+
+ 
+
+o
+c
+ 
+.
+E
+g
+n
+i
+c
+u
+d
+o
+r
+p
+-
+e
+s
+a
+m
+e
+n
+e
+p
+a
+b
+r
+a
+c
+d
+n
+a
+ 
+t
+n
+a
+t
+s
+i
+s
+e
+r
+-
+n
+i
+t
+s
+i
+l
+
+ 
+
+ 
+
+o
+c
+ 
+f
+o
+n
+o
+i
+t
+a
+z
+i
+r
+e
+t
+c
+a
+r
+a
+h
+C
+
+ 
+
+ 
+
+6
+e
+l
+b
+a
+T
+
+e
+v
+i
+t
+a
+g
+e
+N
+
+e
+v
+i
+t
+i
+s
+o
+P
+
+ 
+
+4
+≥
+
+I
+
+ 
+
+K
+E
+T
+V
+y
+b
+d
+n
+
+ 
+
+I
+
+ 
+
+K
+E
+T
+V
+y
+b
+d
+n
+
+ 
+
+e
+v
+i
+t
+a
+g
+e
+N
+
+e
+v
+i
+t
+a
+g
+e
+N
+
+I
+
+ 
+
+K
+E
+T
+V
+y
+b
+d
+n
+
+ 
+
+I
+
+ 
+
+K
+E
+T
+V
+y
+b
+d
+n
+
+ 
+
+I
+
+ 
+
+K
+E
+T
+V
+y
+b
+d
+n
+
+ 
+
+I
+
+ 
+
+K
+E
+T
+V
+y
+b
+d
+n
+
+ 
+
+e
+v
+i
+t
+i
+s
+o
+P
+
+e
+v
+i
+t
+i
+s
+o
+P
+
+ 
+
+6
+≥
+
+2
+3
+≥
+
+ 
+
+ 
+
+6
+≥
+
+ 
+
+4
+≥
+
+d
+n
+
++
+
++
+
++
+
++
+
++
+
+−
+
+ 
+,
+
+R
+T
+S
+
+ 
+,
+
+N
+E
+G
+
+ 
+,
+
+M
+A
+R
+
+ 
+,
+
+T
+E
+T
+
+ 
+,
+
+ 
+
+S
+/
+T
+P,
+C
+
+I
+
+ 
+
+Z
+A
+C
+P,
+M
+A
+
+ 
+,
+
+N
+E
+P
+
+ 
+,
+
+Y
+R
+E
+
+N
+o
+r
+i
+ 
+,
+
+1
+l
+t
+n
+
+i
+ 
+,
+
+L
+m
+e
+h
+
+ 
+,
+
+a
+m
+c
+
+M
+E
+T
+a
+b
+
+l
+
+ 
+,
+Y
+M
+C
+a
+b
+
+l
+
+ 
+,
+
+ 
+,
+x
+r
+m
+A
+h
+p
+m
+
+ 
+,
+
+A
+h
+p
+a
+
+ 
+,
+
+1
+A
+d
+a
+a
+
+ 
+,
+
+l
+
+1
+A
+m
+c
+
+ 
+,
+
+A
+t
+e
+t
+ 
+,
+
+4
+1
+A
+
+r
+f
+d
+
+ 
+,
+
+1
+A
+
+r
+f
+d
+
+ 
+,
+
+l
+
+3
+u
+s
+
+N
+E
+P
+
+ 
+,
+
+Y
+R
+E
+
+ 
+,
+
+R
+T
+S
+
+ 
+,
+
+M
+A
+R
+
+ 
+,
+
+T
+E
+T
+
+ 
+,
+
+S
+/
+T
+
+s
+s
+i
+ 
+,
+
+1
+l
+t
+n
+
+i
+ 
+,
+
+L
+m
+e
+h
+
+B
+r
+t
+s
+ 
+,
+
+A
+t
+e
+t
+ 
+,
+
+4
+1
+A
+
+r
+f
+d
+
+ 
+,
+
+l
+
+2
+u
+s
+
+ 
+,
+
+N
+E
+G
+
+ 
+,
+
+ 
+
+M
+A
+R
+P,
+M
+C
+
+ 
+,
+
+T
+E
+T
+P,
+C
+
+ 
+
+I
+
+N
+E
+P
+
+ 
+,
+
+Y
+R
+E
+
+ 
+,
+
+R
+T
+S
+
+s
+s
+i
+ 
+,
+
+N
+o
+r
+i
+ 
+,
+
+1
+l
+t
+n
+
+i
+ 
+,
+
+L
+m
+e
+h
+
+ 
+,
+
+a
+m
+c
+
+ 
+,
+
+1
+A
+d
+a
+a
+
+ 
+,
+
+R
+o
+fl
+
+ 
+,
+
+l
+
+1
+A
+m
+c
+ 
+,
+
+l
+
+3
+u
+s
+
+M
+E
+T
+a
+b
+
+l
+
+ 
+,
+
+A
+h
+p
+m
+A
+h
+p
+a
+
+ 
+,
+
+ 
+
+Z
+A
+C
+P,
+M
+A
+N
+E
+P
+
+ 
+
+ 
+,
+
+Y
+R
+E
+
+ 
+,
+
+R
+T
+S
+
+ 
+,
+
+N
+E
+G
+
+ 
+,
+
+ 
+
+M
+A
+R
+P,
+M
+C
+
+ 
+,
+
+T
+E
+T
+
+ 
+,
+
+S
+/
+T
+
+C
+M
+A
+
+ 
+,
+
+N
+E
+P
+
+ 
+,
+
+Y
+R
+E
+
+ 
+,
+
+M
+A
+R
+
+N
+E
+P
+
+ 
+,
+
+Y
+R
+E
+
+ 
+,
+
+M
+A
+R
+
+ 
+,
+
+T
+E
+T
+
+ 
+
+F,
+h
+c
+m
+E
+y
+l
+h
+
+ 
+,
+
+ 
+,
+
+a
+m
+c
+ 
+,
+t
+a
+v
+ 
+,
+c
+p
+
+i
+
+s
+s
+i
+ 
+,
+
+N
+o
+r
+i
+ 
+,
+
+A
+e
+r
+i
+ 
+,
+
+L
+m
+e
+h
+
+A
+e
+r
+i
+ 
+,
+
+1
+l
+t
+n
+
+i
+ 
+,
+
+L
+m
+e
+h
+
+L
+m
+e
+h
+
+ 
+,
+V
+H
+S
+a
+b
+
+l
+
+ 
+,
+
+7
+‑
+A
+X
+O
+a
+b
+
+l
+
+ 
+,
+
+1
+A
+d
+a
+a
+
+ 
+,
+r
+r
+a
+
+ 
+,
+
+R
+o
+fl
+
+ 
+,
+
+l
+
+1
+A
+m
+c
+ 
+,
+
+A
+t
+e
+t
+ 
+,
+
+l
+
+3
+u
+s
+ 
+,
+
+S
+r
+n
+q
+
+M
+E
+T
+a
+b
+
+l
+
+–
+
+–
+
+1
+5
+
+4
+
+1
+5
+
+4
+
+1
+2
+
+2
+3
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2
+/
+6
+1
+
+a
+y
+
+i
+l
+
+h
+a
+k
+a
+D
+
+8
+7
+0
+0
+S
+C
+6
+1
+
+9
+
+4
+
+6
+
+4
+
+i
+
+h
+k
+e
+h
+S
+‑
+l
+E
+ 
+r
+f
+a
+K
+
+5
+7
+0
+0
+S
+C
+6
+1
+
+i
+
+a
+t
+t
+e
+m
+a
+D
+
+5
+7
+7
+0
+S
+C
+6
+1
+
+i
+
+a
+t
+t
+e
+m
+a
+D
+
+6
+3
+0
+0
+S
+C
+6
+1
+
+i
+
+a
+y
+b
+r
+a
+h
+G
+
+7
+4
+7
+0
+S
+C
+6
+1
+
+9
+
+a
+y
+
+i
+l
+
+h
+a
+k
+a
+D
+
+4
+4
+7
+0
+S
+C
+6
+1
+
+Moawad et al. Gut Pathog  (2018) 10:39 
+
+Page 9 of 12
+
+tools such as MALDI-TOF MS is mandatory for public 
+health surveillance [44, 51].
+
+In 2016, 576 cloacal swabs were collected from 48 poul-
+try  farms  located  in  5  governorates  in  northern  Egypt. 
+The samples were screened for multidrug resistant bac-
+teria and investigated for the antimicrobial resistance of 
+E. coli. Seven out of 56 E. coli isolates (12.5%) were pro-
+ducing ESBLs. To analyze the underlying molecular anti-
+microbial resistance mechanism, all E. coli isolates were 
+genotyped using the multiplex microarray technique.
+
+The results of this study were in accordance with previ-
+ous reports which demonstrated a high prevalence of E. 
+coli in poultry farms and their environment in Egypt [34, 
+52–54].
+
+In previous studies on broiler chickens in Egypt, high 
+phenotypic  resistance  rates  were  found  to  penicillin, 
+rifampicin, erythromycin, trimethoprim/sulphamethoxa-
+zole,  streptomycin  and  tetracycline  [53].  Antimicrobial 
+resistance rates in this study for amoxicillin (26.8%), gen-
+tamicin  (19.6%)  and  imipenem  (1.8%)  were  lower  than 
+those of E. coli isolates from poultry reported in Egypt 
+[53], in China [55], in United States [56], in Korea [57], 
+in United Kingdom [58], in Australia [59] and in Portu-
+gal  [60].  In  the  present  investigation,  the  most  striking 
+finding was that E. coli isolates showed a low resistance 
+rate to fluoroquinolones (ciprofloxacin (21.4%) and levo-
+floxacin (14.3%)). Cephalosporins are the first-line anti-
+microbials  for  treating  human  bacterial  infections  [61]. 
+In addition, a considerable resistance to ceftazidime was 
+detected  among  E.  coli  isolates  from  healthy  broilers 
+(41.1%).
+
+In  this  study,  one  carbapenem-resistant  isolate  (1.8%) 
+was  found  within  all  E.  coli  isolates.  A  higher  rate  was 
+determined  with  retail  chicken  meat,  11.3%  carbapene-
+mase-producing  Enterobacteriaceae  including  E.  coli  in 
+Egypt in a previous study [62].
+
+Few  reports  discussed  prevalence  of  ESBL-producing 
+E. coli isolated from healthy birds in Egypt. Here, ESBL 
+and/or  AmpC  β-lactamase-producing 
+isolates  were 
+detected in seven out of tested 56 E. coli (12.5%) isolated 
+from healthy broilers. Two ESBL-producing strains were 
+isolated  from  one  farm  in  Gharbiya  governorate  (Farm 
+4) while five other isolates could be recovered from dif-
+ferent  farms  in  Dakahliya  and  Kafr  El-Sheikh  governo-
+rates. Two of the ESBL-producing isolates 16CS0740 and 
+16CS0747  from  Dakahliya  and  Gharbiya,  respectively 
+were  additionally  carrying  blaOXA-7  gene  characteristic 
+for β-lactamase-producing bacteria (Table 4).
+
+In a previous study in 2017, only 6% ESBL-producing 
+E.  coli  were  detected  in  colibacillosis  diseased  poultry 
+in four different Egyptian governorates [63]. In contrast, 
+ESBL/AmpC  β-lactamase-producing  E.  coli  were  found 
+in all 50 investigated Dutch broiler farms [64]. In Sweden 
+
+34.0%  of  broilers  carried  ESBL/AmpC  β-lactamase-
+producing E. coli in their guts [65]. In Malaysia 48.8% of 
+isolates  which  were  recovered  from  retail  poultry  meat 
+markets were ESBL-AmpC positive [66].
+
+The prevalence of ESBLs has been found to be variable 
+worldwide with Asian countries having the highest rates 
+[67].
+
+In  this  study,  the  most  prevalent  resistance  gene  was 
+blaTEM, which was identified in 85.7% of ESBL and AmpC 
+β-lactamase-producing  isolates.  blaCMY-2  was  found  in 
+2  of  ESBL  and  AmpC  β-lactamase-producing  isolates. 
+blaOXA-7  was  found  in  2  of  ESBL  producing  isolates. 
+While blaCTX-M9, blaCTX-M1-15, blaOXA-1, blaDHA-1, blaLAP-1 
+and blaSHV were identified only in one ESBL-producing 
+E. coli isolate.
+
+The  resistance-associated  genes  blaTEM,  blaSHV,  and 
+blaCMY  were  previously  reported  in  Enterobacteriaceae 
+isolated from septicaemic broilers [68] and from humans 
+[69, 70] in Egypt.
+
+In  this  study,  blaTEM  resistance  gene  was  detected  in 
+20.6%  of  E.  coli  isolates.  This  result  was  in  accordance 
+with  previous  reports  in  China  [71,  72].  blaCMY  was 
+detected in 3.5% of 56 E. coli isolates while the prevalence 
+of blaCMY-2 amongst E. coli isolates from broilers in Japan 
+was 69.5% [73]. In Belgium, 49.0% of ceftiofur-resistant 
+E.  coli  isolates  derived  from  five  broiler  farms  carried 
+blaCMY-2  [74].  Moreover,  12.1%  of  avian  pathogenic  E. 
+coli strains and 9.5% of strains recovered from meat were 
+found positive as carriers of blaCTX-M in Palestine [75].
+
+qnrB and qnrS genes associated with quinolone resist-
+ance were detected in one and five isolates, respectively, 
+which is lower than described previously in E. coli iso-
+lated from chickens in China [72, 76]. On the other hand, 
+qnrA,  qnrB,  and  qnrS  genes  were  detected  in  0.75,  3.9 
+and 5.1%, respectively of E. coli from chicken samples in 
+China [77].
+
+Many  studies  found  similarities  between  virulence-
+associated  genes  in  human  and  avian  E.  coli  isolates 
+including iss, fliC, iha and ireA genes [78].
+
+In  a  previous  study,  the  virulence  genes  iroN,  ompT, 
+iss, iutA, and hlyF were detected in 80.2% of isolated E. 
+coli [68]. In this study, only 9 (16.7%) of the 56 E. coli iso-
+lates carried 2 genes (iroN, iss) together characteristic for 
+avian pathogenic E. coli.
+
+The mcr-1 gene is now reported all over the world in 
+Enterobacteriaceae from animals, food and humans [79]. 
+In 2015, first time mcr-1 gene was detected in livestock 
+and  raw  meat  samples  in  addition  to  human  beings  in 
+China [27]. In this study, five E. coli isolates (8.9%) were 
+phenotypically resistant to colistin and harboured mcr-1 
+gene associated with colistin resistance. This result was 
+higher than reported in E. coli isolates from pigs, poultry 
+and turkey in France with 0.5, 1.8 and 5.9%, respectively 
+
+Moawad et al. Gut Pathog  (2018) 10:39 
+
+Page 10 of 12
+
+[80] and 5.6% of E. coli isolates from broilers in Germany 
+[81], while it was lower than in E. coli isolates from poul-
+try in China [27].
+
+In  previous  studies  conducted  in  China  and  Austria, 
+the  majority  of  phenotypically  colistin-resistant  E.  coli 
+isolates carried the mcr-1 gene [82, 83].
+
+Ethics approval and consent to participate
+Not applicable.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub‑
+lished maps and institutional affiliations.
+
+Received: 29 May 2018   Accepted: 12 September 2018
+
+Conclusion
+To the best of our knowledge, this study is the first report 
+discussing the antibiotic susceptibility profiles of Entero-
+bacteriaceae  and  ESBL-producing  E.  coli  isolated  from 
+healthy  broilers  in  the  Nile  Delta  in  Egypt.  The  emer-
+gence of colistin-resistant E. coli isolates in poultry is of 
+public  health  significance  and  considered  as  potential 
+source  of  transmission  of  plasmid-mediated  mcr-1  to 
+humans.  It  was  shown  that  molecular  biological  meth-
+ods such as microarray investigation are reliable and fast 
+tools for detection of geno-serotypes, resistance- and vir-
+ulence-associated determinants.
+
+The results reinforce the need to develop surveillance 
+strategies and to implement specific control procedures 
+to  reduce  the  use  of  antibiotics  and  subsequently  the 
+development of antimicrobial resistance by over-/misuse 
+of antibiotic agents.
+Authors’ contributions
+AAM, HH, HMH, RE, SM and HE participated in the conception and design of 
+the study. AAM, HH and HE performed farm and laboratory work. AAM, HH, 
+HN, HT, RE, SM, HMH and HE analyzed the data and drafted the manuscript. 
+HN, HT, UR and HMH participated in manuscript revision. All authors read and 
+approved the final manuscript.
+
+Author details
+1 Friedrich‑Loeffler‑Institut (Federal Research Institute for Animal Health), Insti‑
+tute of Bacterial Infections and Zoonoses, Naumburger Str. 96a, 07743 Jena, 
+Germany. 2 Provincial Laboratory, Institute of Animal Health Research, 
+Mansoura, Egypt. 3 Institute for Poultry Diseases, Free University Berlin, König‑
+sweg 63, 14163 Berlin, Germany. 4 Alere Technologies GmbH, Löbstedter Str. 
+103‑105, 07749 Jena, Germany. 5 InfectoGnostics Research Campus Jena e. V., 
+Philosophenweg 7, 07743 Jena, Germany. 6 Institute for Medical Microbiology 
+and Hygiene, Medical Faculty Carl Gustav Carus, Technische Universität Dres‑
+den, Fetscherstr. 74, 01307 Dresden, Germany. 7 Institute for Animal Hygiene 
+and Environmental Health, Free University Berlin, Robert‑von Ostertag‑Str. 
+7‑13, 14163 Berlin, Germany. 8 Faculty of Veterinary Medicine, Kafrelsheikh 
+University, Kafr El‑Sheikh 33516, Egypt. 
+
+Acknowledgements
+The authors thank B. Hofmann and P. Methner at the Friedrich‑Loeffler‑Institut 
+and I. Engelmann at Alere Technologies GmbH for their cooperation and tech‑
+nical assistance. The authors thank Animal Health Research Institute, Mansoura 
+Laboratory for its great effort in sample collection and preparation.
+
+Competing interests
+None of the authors of this paper has a financial or personal relationship with 
+other people or organisations that could inappropriately influence or bias the 
+content of the paper. RE and SM are employees of Alere Technologies GmbH.
+
+Availability of data
+All the data supporting the results are presented in the main manuscript.
+
+Consent for publication
+Not applicable.
+
+References
+ 1.  Apata DF. Antibiotic resistance in poultry. Int J Poult Sci. 2009;8:404–8.
+ 2.  Helmy YA, El‑Adawy H, Abdelwhab EM. A comprehensive review of com‑
+mon bacterial, parasitic and viral zoonoses at the human‑animal interface 
+in Egypt. Pathogens. 2017;6:33.
+
+ 3.  Hafez HM, Hauck R. Zoonoses with public health relevance in poultry. 
+
+Zoonoses—infections affecting humans and animals. Netherland: 
+Springer; 2015.
+
+ 4.  NARMS. Retail meat report of national antimicrobial resistance monitor‑
+
+ing system. NARMS; 2012. p. 60–75.
+
+ 5.  Rasheed MU, Thajuddin N, Ahamed P, Teklemariam Z, Jamil K. Antimi‑
+crobial drug resistance in strains of Escherichia coli isolated from food 
+sources. Rev Inst Med Trop São Paulo. 2014;56:341–6.
+
+ 6.  Bush K, Jacoby GA. Updated functional classification of beta‑lactamases. 
+
+Antimicrob Agents Chemother. 2010;54:969–76.
+
+ 7.  Bradford PA. Extended‑spectrum beta‑lactamases in the 21st century: 
+characterization, epidemiology, and detection of this important resist‑
+ance threat. Clin Microbiol Rev. 2001;14:933–51.
+
+ 8.  Giamarellou H. Multidrug resistance in Gram‑negative bacteria that pro‑
+duce extended‑spectrum beta‑lactamases (ESBLs). Clin Microbiol Infect. 
+2005;4:1–16.
+
+ 9.  Rawat D, Nair D. Extended‑spectrum beta‑lactamases in Gram negative 
+
+bacteria. J Glob Infect Dis. 2010;2:263–74.
+
+ 10.  Shaikh S, Fatima J, Shakil S, Rizvi SM, Kamal MA. Antibiotic resistance and 
+
+extended spectrum beta‑lactamases: types, epidemiology and treat‑
+ment. Saudi J Biol Sci. 2015;22:90–101.
+
+ 11.  Paterson DL. Resistance in gram‑negative bacteria: Enterobacteriaceae. 
+
+Am J Med. 2006;119:520–58.
+
+ 12.  Livermore DM, Canton R, Gniadkowski M, Nordmann P, Rossolini GM, 
+
+Arlet G, et al. CTX‑M: changing the face of ESBLs in Europe. J Antimicrob 
+Chemother. 2007;59:165–74.
+
+ 13.  Karisik E, Ellington MJ, Pike R, Warren RE, Livermore DM, Woodford N. 
+
+Molecular characterization of plasmids encoding CTX‑M‑15 beta‑lacta‑
+mases from Escherichia coli strains in the United Kingdom. J Antimicrob 
+Chemother. 2006;58:665–8.
+
+ 14.  Folster JP, Pecic G, Bolcen S, Theobald L, Hise K, Carattoli A, et al. Char‑
+
+acterization of extended‑spectrum cephalosporin‑resistant Salmonella 
+enterica serovar Heidelberg isolated from humans in the United States. 
+Foodborne Pathog Dis. 2010;7:181–7.
+
+ 15.  Folster JP, Grass JE, Bicknese A, Taylor J, Friedman CR, Whichard JM. 
+
+Characterization of resistance genes and plasmids from outbreaks and 
+illness clusters caused by Salmonella resistant to ceftriaxone in the United 
+States, 2011–2012. Microb Drug Resist. 2017;23:188–93.
+
+ 16.  Zhanel GG, Wiebe R, Dilay L, Thomson K, Rubinstein E, Hoban DJ, et al. 
+
+Comparative review of the carbapenems. Drugs. 2007;67:1027–52.
+
+ 17.  Canton R, Akova M, Carmeli Y, Giske CG, Glupczynski Y, Gniadkowski M, 
+et al. Rapid evolution and spread of carbapenemases among Enterobac-
+teriaceae in Europe. Clin Microbiol Infect. 2012;18:413–31.
+
+ 18.  Nordmann P, Dortet L, Poirel L. Carbapenem resistance in Enterobacte-
+
+riaceae: here is the storm! Trends Mol Med. 2012;18:263–72.
+
+ 19.  Pitout JD. Infections with extended‑spectrum beta‑lactamase‑producing 
+Enterobacteriaceae: changing epidemiology and drug treatment choices. 
+Drugs. 2010;70:313–33.
+
+ 20.  Pitout JD. Extraintestinal pathogenic Escherichia coli: an update on anti‑
+
+microbial resistance, laboratory diagnosis and treatment. Expert Rev Anti 
+Infect Ther. 2012;10:1165–76.
+
+ 21.  Hussain A, Ranjan A, Nandanwar N, Babbar A, Jadhav S, Ahmed N. 
+
+Genotypic and phenotypic profiles of Escherichia coli isolates belonging 
+
+Moawad et al. Gut Pathog  (2018) 10:39 
+
+Page 11 of 12
+
+to clinical sequence type 131 (ST131), clinical non‑ST131, and fecal 
+non‑ST131 lineages from India. Antimicrob Agents Chemother. 
+2014;58:7240–9.
+
+ 22.  Brolund A. Overview of ESBL‑producing Enterobacteriaceae from a Nordic 
+
+perspective. Infect Ecol Epidemiol. 2014;4:24555.
+
+ 23.  Perez F, Bonomo RA. Can we really use beta‑lactam/beta‑lactam inhibitor 
+
+combinations for the treatment of infections caused by extended‑spec‑
+trum beta‑lactamase‑producing bacteria? Clin Infect Dis. 2012;54:175–7.
+ 24.  Timmerman T, Dewulf B, Feyen CB, Opsomer G, Kruif AD, Maes D. Quanti‑
+fication and evaluation of antimicrobial drug use in group treatments for 
+fattening pigs in Belgium. Prev Vet Med. 2006;74:251–63.
+
+ 25.  Biswas S, Brunel JM, Dubus JC, Reynaud‑Gaubert M, Rolain JM. Colistin: an 
+
+update on the antibiotic of the 21st century. Expert Rev Anti Infect Ther. 
+2012;10:917–34.
+
+ 41.  Luber P, Bartelt E, Genschow E, Wagner J, Hahn H. Comparison of broth 
+
+microdilution, E Test, and agar dilution methods for antibiotic suscep‑
+tibility testing of Campylobacter jejuni and Campylobacter coli. J Clin 
+Microbiol. 2003;41:1062–8.
+
+ 42.  Luber P, Wagner J, Hahn H, Bartelt E. Antimicrobial resistance in 
+
+Campylobacter jejuni and Campylobacter coli strains isolated in 1991 and 
+2001–2002 from poultry and humans in Berlin. Germany Antimicrob 
+Agents Chemother. 2003;47:3825–30.
+
+ 43.  El‑Adawy H, Hotzel H, Düpre S, Tomaso H, Neubauer H, Hafez HM. Deter‑
+
+mination of antimicrobial sensitivities of Campylobacter jejuni isolated 
+from commercial turkey farms in Germany. Avian Dis. 2012;56:685–92.
+ 44.  Bizzini A, Greub G. Matrix‑assisted laser desorption ionization time of 
+
+flight mass spectrometry, a revolution in clinical microbial identification. 
+Clin Microbiol Infect. 2010;16:1614–9.
+
+ 26.  Giamarellou H. Epidemiology of infections caused by polymyxin‑resistant 
+
+ 45.  Paauw A, Jonker D, Roeselers G, Heng JM, Mars‑Groenendijk RH, Trip H, 
+
+pathogens. Int J Antimicrob Agents. 2016;48:614–21.
+
+ 27.  Liu YY, Wang Y, Walsh TR, Yi LX, Zhang R, Spencer J, et al. Emergence of 
+
+plasmid‑mediated colistin resistance mechanism MCR‑1 in animals and 
+human beings in China: a microbiological and molecular biological study. 
+Lancet Infect Dis. 2016;16:161–8.
+
+ 28.  Yang H, Chen S, White DG, Zhao S, McDermott P, Walker R, et al. Charac‑
+
+terization of multiple‑antimicrobial‑resistant Escherichia coli isolates from 
+diseased chickens and swine in China. J Clin Microbiol. 2004;42:3483–9.
+ 29.  Aidara‑Kane A. Containment of antimicrobial resistance due to use of 
+
+antimicrobial agents in animals intended for food: WHO perspective. Rev 
+Sci Tech. 2012;31:277–87.
+
+et al. Rapid and reliable discrimination between Shigella species and 
+Escherichia coli using MALDI‑TOF mass spectrometry. Int J Med Microbiol. 
+2015;305:446–52.
+
+ 46.  Seidavi A, Mirhosseini SZ, Shivazad M, Chamani M, Sadeghi AA, Pourseify 
+
+R. Detection and investigation of Escherichia coli in contents of duode‑
+num, jejunum, ileum and cecum of broilers at different ages by PCR. 
+AsPac J Mol Biol Biotechnol. 2010;18:321–6.
+
+ 47.  Braun SD, Monecke S, Thurmer A, Ruppelt A, Makarewicz O, Pletz M, 
+et al. Rapid identification of carbapenemase genes in gram‑negative 
+bacteria with an oligonucleotide microarray‑based assay. PLoS ONE. 
+2014;9:e107079.
+
+ 30.  Roy Chowdhury P, McKinnon J, Wyrsch E, Hammond JM, Charles IG, 
+
+ 48.  EUCAST. Breakpoint tables for interpretation of MICs and zone diameters. 
+
+Djordjevic SP. Genomic interplay in bacterial communities: implications 
+for growth promoting practices in animal husbandry. Front Microbiol. 
+2014;5:394.
+
+ 31.  Tivendale KA, Logue CM, Kariyawasam S, Jordan D, Hussein A, Li G, et al. 
+Avian‑pathogenic Escherichia coli strains are similar to neonatal menin‑
+gitis E. coli strains and are able to cause meningitis in the rat model of 
+human disease. Infect Immun. 2010;78:3412–9.
+
+ 32.  WHO. Report on the consultative meeting on antimicrobial resistance for 
+
+countries in the Eastern Mediterranean Region:from policies to action. 
+In: WHO, editor. Consultative meeting on antimicrobial resistance for 
+countries in the Eastern Mediterranean Region: from policies to action 
+Sharm El Sheikh, Egypt: World Health Organization, Regional Office for 
+the Eastern Mediterranean. Berlin: World Health Organization; 2014. p. 
+8–9.
+
+ 33.  Moawad AA, Hotzel H, Awad O, Tomaso H, Neubauer H, Hafez HM, et al. 
+
+Occurrence of Salmonella enterica and Escherichia coli in raw chicken and 
+beef meat in northern Egypt and dissemination of their antibiotic resist‑
+ance markers. Gut Pathog. 2017;9:57–69.
+
+In: The European Committee on Antimicrobial Susceptibility Testing. 
+2017. p. 11.
+
+ 49.  Wooley RE, Brown J, Gibbs PS, Nolan LK, Turner KR. Effect of normal intes‑
+
+tinal flora of chickens on colonization by virulent colicin V‑producing, 
+avirulent, and mutant colicin V‑producing avian Escherichia coli. Avian Dis. 
+1994;38:141–5.
+
+ 50.  Nolan LK, Barnes HJ, Vaillancourt JP, Abdul‑Aziz T, Logue CM. Colibacil‑
+
+losis. In: Swayne D, editor. Diseases of poultry. 13th ed. Ames: Iowa State 
+University Press; 2013. p. 751–806.
+
+ 51.  O’Hara CM. Manual and automated instrumentation for identification of 
+
+Enterobacteriaceae and other aerobic Gram‑negative bacilli. Clin Micro‑
+biol Rev. 2005;18:147–62.
+
+ 52.  Yousef SA, Ammar AM, Ahmed DA. Serological and molecular typing of 
+
+avian pathogenic E. coli originating from outbreaks of colibacillosis in 
+chicken flocks. Int J Sci Res. 2015;4:2082–8.
+
+ 53.  Mohamed MA, Shehata MA, Rafeek E. Virulence genes content and 
+
+antimicrobial resistance in Escherichia coli from broiler chickens. Vet Med 
+Int. 2014;2014:195189.
+
+ 34.  Dahshan H, Abd‑Elall AM, Megahed AM, Abd‑El‑Kader MA, Nabawy EE. 
+
+ 54.  Roshdy H, Abd El‑Aziz S, Refai M. Incidence of E. coli in chickens and 
+
+Veterinary antibiotic resistance, residues, and ecological risks in envi‑
+ronmental samples obtained from poultry farms. Egypt. Environ Monit 
+Assess. 2015;187:2.
+
+ 35.  El‑Sharkawy H, Tahoun A, El‑Gohary AEA, El‑Abasy M, El‑Khayat F, Gillespie 
+
+T, et al. Epidemiological, molecular characterization and antibiotic resist‑
+ance of Salmonella enterica serovars isolated from chicken farms in Egypt. 
+Gut Pathog. 2017;9:8.
+
+ 36.  Croxatto A, Prod’hom G, Greub G. Applications of MALDI‑TOF mass 
+
+spectrometry in clinical diagnostic microbiology. FEMS Microbiol Rev. 
+2012;36:380–407.
+
+ 37.  Michael Dunne WJ, Pouseele H, Monecke S, Ehricht R, van Belkum A. 
+Epidemiology of transmissible diseases: array hybridization and next 
+generation sequencing as universal nucleic acid‑mediated typing tools. 
+Infect Genet Evol. 2017;63:332–45.
+
+ 38.  Dally S, Lemuth K, Kaase M, Rupp S, Knabbe C, Weile J. DNA microarray for 
+
+genotyping antibiotic resistance determinants in Acinetobacter bauman-
+nii clinical isolates. Antimicrob Agents Chemother. 2013;57:4761–8.
+
+ 39.  Braun SD, Ahmed MF, El‑Adawy H, Hotzel H, Engelmann I, Weiß D, et al. 
+Surveillance of extended‑spectrum beta‑lactamase‑producing Escheri-
+chia coli in dairy cattle farms in the Nile delta, Egypt. Front Microbiol. 
+2016;7:1020.
+
+ 40.  El‑Adawy H, Hotzel H, Tomaso H, Neubauer H, Taboada EN, Ehricht R, et al. 
+
+Detection of genetic diversity in Campylobacter jejuni isolated from a 
+commercial turkey flock using flaA typing, MLST analysis and microarray 
+assay. PLoS ONE. 2013;8:e51582.
+
+ducks in different governorates in Egypt. In: 1st Conf Anim Health Res Inst 
+Assoc. Cairo. 2012, p. 420–6.
+
+ 55.  Yang W, Moore IF, Koteva KP, Bareich DC, Hughes DW, Wright GD. TetX is a 
+
+flavin‑dependent monooxygenase conferring resistance to tetracycline 
+antibiotics. J Biol Chem. 2004;279:52346–52.
+
+ 56.  Johnson JR, Kuskowski MA, Smith K, O’Bryan TT, Tatini S. Antimicrobial‑
+resistant and extraintestinal pathogenic Escherichia coli in retail foods. J 
+Infect Dis. 2005;191:1040–9.
+
+ 57.  Kim J, Bae IK, Jeong SH, Chang CL, Lee CH, Lee K. Characterization of IncF 
+plasmids carrying the blaCTX‑M‑14 gene in clinical isolates of Escherichia coli 
+from Korea. J Antimicrob Chemother. 2011;66:1263–8.
+
+ 58.  Randall LP, Clouting C, Horton RA, Coldham NG, Wu G, Clifton‑Hadley FA, 
+et al. Prevalence of Escherichia coli carrying extended‑spectrum beta‑lac‑
+tamases (CTX‑M and TEM‑52) from broiler chickens and turkeys in Great 
+Britain between 2006 and 2009. J Antimicrob Chemother. 2011;66:86–95.
+
+ 59.  Obeng AS, Rickard H, Ndi O, Sexton M, Barton M. Antibiotic resistance, 
+
+phylogenetic grouping and virulence potential of Escherichia coli isolated 
+from the faeces of intensively farmed and free range poultry. Vet Micro‑
+biol. 2012;154:305–15.
+
+ 60.  Mendonca N, Figueiredo R, Mendes C, Card RM, Anjum MF, da Silva GJ. 
+
+Microarray evaluation of antimicrobial resistance and virulence of Escheri-
+chia coli isolates from Portuguese poultry. Antibiotics. 2016;5:4.
+
+ 61.  Lei T, Tian W, He L, Huang XH, Sun YX, Deng YT, et al. Antimicrobial resist‑
+ance in Escherichia coli isolates from food animals, animal food products 
+and companion animals in China. Vet Microbiol. 2010;146:85–9.
+
+Moawad et al. Gut Pathog  (2018) 10:39 
+
+Page 12 of 12
+
+ 62.  Abdallah HM, Reuland EA, Wintermans BB, Al Naiemi N, Koek A, Abdelwa‑
+
+hab AM, et al. Extended‑spectrum beta‑lactamases and/or carbapene‑
+mases‑producing Enterobacteriaceae isolated from retail chicken meat in 
+Zagazig, Egypt. PLoS ONE. 2015;10:e0136052.
+
+ 63.  El‑Shazly DA, Nasef SA, Mahmoud FF, Jonas D. Expanded spectrum 
+
+beta‑lactamase producing Escherichia coli isolated from chickens with 
+colibacillosis in Egypt. Poult Sci. 2017;96:2375–84.
+
+ 64.  Huijbers PM, Graat EA, Haenen AP, van Santen MG, van Essen‑Zandber‑
+gen A, Mevius DJ, et al. Extended‑spectrum and AmpC beta‑lactamase‑
+producing Escherichia coli in broilers and people living and/or working 
+on broiler farms: prevalence, risk factors and molecular characteristics. J 
+Antimicrob Chemother. 2014;69:2669–75.
+
+ 65.  Börjesson S, Egervärn M, Lindblad M, Englund S. Frequent occurrence of 
+extended‑spectrum beta‑lactamase‑ and transferable AmpC beta‑lacta‑
+mase‑producing Escherichia coli on domestic chicken meat in Sweden. 
+Appl Environ Microbiol. 2013;79:2463–6.
+
+ 66.  Aliyu AB, Saleha AA, Jalila A, Zunita Z. Risk factors and spatial distribution 
+of extended spectrum beta‑lactamase‑producing Escherichia coli at retail 
+poultry meat markets in Malaysia: a cross‑sectional study. BMC Public 
+Health. 2016;16:699.
+
+ 67.  Hawkey PM. Prevalence and clonality of extended‑spectrum beta‑lacta‑
+
+mases in Asia. Clin Microbiol Infect. 2008;1:159–65.
+
+ 68.  Ahmed AM, Shimamoto T, Shimamoto T. Molecular characterization 
+of multidrug‑resistant avian pathogenic Escherichia coli isolated from 
+septicemic broilers. Int J Med Microbiol. 2013;303:475–83.
+
+Salmonella enterica and Escherichia coli isolated from broilers in southern 
+Japan. Poult Sci. 2013;92:1641–9.
+
+ 74.  Smet A, Martel A, Persoons D, Dewulf J, Heyndrickx M, Catry B, et al. 
+Diversity of extended‑spectrum beta‑lactamases and class C beta‑
+lactamases among cloacal Escherichia coli isolates in Belgian broiler farms. 
+Antimicrob Agents Chemother. 2008;52:1238–43.
+
+ 75.  Qabajah M, Awwad E, Ashhab Y. Molecular characterisation of Escherichia 
+
+coli from dead broiler chickens with signs of colibacillosis and ready‑to‑
+market chicken meat in the West Bank. Br Poult Sci. 2014;55:442–51.
+
+ 76.  Li Y, Chen L, Wu X, Huo S. Molecular characterization of multidrug‑resist‑
+ant avian pathogenic Escherichia coli isolated from septicemic broilers. 
+Poult Sci. 2015;94:601–11.
+
+ 77.  Huang SY, Dai L, Xia LN, Du XD, Qi YH, Liu HB, et al. Increased prevalence 
+
+of plasmid‑mediated quinolone resistance determinants in chicken 
+Escherichia coli isolates from 2001 to 2007. Foodborne Pathog Dis. 
+2009;6:1203–9.
+
+ 78.  Johnson TJ, Logue CM, Johnson JR, Kuskowski MA, Sherwood JS, Barnes 
+
+HJ, et al. Associations between multidrug resistance, plasmid content, 
+and virulence potential among extraintestinal pathogenic and com‑
+mensal Escherichia coli from humans and poultry. Foodborne Pathog Dis. 
+2012;9:37–46.
+
+ 79.  Wang X, Liu Y, Qi X, Wang R, Jin L, Zhao M, et al. Molecular epidemiology 
+
+of colistin‑resistant Enterobacteriaceae in inpatient and avian isolates 
+from China: high prevalence of mcr‑negative Klebsiella pneumoniae. Int J 
+Antimicrob Agents. 2017;50:536–41.
+
+ 69.  Al‑Agamy MH. Phenotypic and molecular characterization of extended‑
+
+ 80.  Perrin‑Guyomard A, Bruneau M, Houee P, Deleurme K, Legrandois P, 
+
+spectrum beta‑lactamases and AmpC beta‑lactamases in Klebsiella 
+pneumoniae. Pak J Pharm Sci. 2013;26:291–8.
+
+ 70.  Fam N, Gamal D, El Said M, El Defrawy I, El Dadei E, El Attar S, et al. Preva‑
+lence of plasmid‑mediated ampC genes in clinical isolates of Enterobac‑
+teriaceae from Cairo, Egypt. Br Microbiol Res J. 2013;3:525–37.
+
+ 71.  Yuan L, Liu JH, Hu GZ, Pan YS, Liu ZM, Mo J, et al. Molecular characteri‑
+zation of extended‑spectrum beta‑lactamase‑producing Escherichia 
+coli isolates from chickens in Henan Province, China. J Med Microbiol. 
+2009;58:1449–53.
+
+ 72.  Li L, Wang B, Feng S, Li J, Wu C, Wang Y, et al. Prevalence and characteris‑
+tics of extended‑spectrum beta‑lactamase and plasmid‑mediated fluo‑
+roquinolone resistance genes in Escherichia coli isolated from chickens in 
+Anhui province, China. PLoS ONE. 2014;9:e104356.
+
+ 73.  Shahada F, Chuma T, Kosugi G, Kusumoto M, Iwata T, Akiba M. Distribu‑
+tion of extended‑spectrum cephalosporin resistance determinants in 
+
+ 81. 
+
+Poirier C, et al. Prevalence of mcr‑1 in commensal Escherichia coli from 
+French livestock, 2007 to 2014. Euro Surveill. 2016;21:30135.
+Irrgang A, Roschanski N, Tenhagen BA, Grobbel M, Skladnikiewicz‑Ziemer 
+T, Thomas K, et al. Prevalence of mcr‑1 in E. coli from livestock and food in 
+Germany, 2010–2015. PLoS ONE. 2016;11:e0159863.
+
+ 82.  Huang X, Yu L, Chen X, Zhi C, Yao X, Liu Y, et al. High prevalence of colistin 
+
+resistance and mcr‑1 gene in Escherichia coli isolated from food animals 
+in China. Front Microbiol. 2017;8:562.
+
+ 83.  Allerberger F, Weissensteiner G, Springer B, Schlagenhaufen C, Lassnig H, 
+Ruppitsch W, et al. Plasmid‑mediated colistin‑resistance in Escherichia coli 
+isolated from poultry and broiler meat in Austria in 2016. Int J Infect Dis. 
+2016;53:36–7.
+
+• fast, convenient online submission •  thorough peer review by experienced researchers in your ﬁeld•  rapid publication on acceptance•  support for research data, including large and complex data types•  gold Open Access which fosters wider collaboration and increased citations  maximum visibility for your research: over 100M website views per year •  At BMC, research is always in progress.Learn more biomedcentral.com/submissionsReady to submit your research ?  Choose BMC and benefit from: 

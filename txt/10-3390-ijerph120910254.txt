@@ -1,0 +1,2195 @@
+Int. J. Environ. Res. Public Health 2015, 12, 10254-10275; doi:10.3390/ijerph120910254 
+
+ 
+OPEN ACCESS
+International Journal of 
+Environmental Research and 
+
+Public Health 
+
+ISSN 1660-4601 
+www.mdpi.com/journal/ijerph 
+
+Article 
+Detection of Antibiotic Resistant Staphylococcus aureus from 
+Milk: A Public Health Implication 
+
+Muyiwa Ajoke Akindolire 1,†, Olubukola Oluranti Babalola 1,2,† and Collins Njie Ateba 1,2,†,* 
+
+1  Department of Biological Sciences, School of Environmental and Health Sciences, Faculty of 
+Agriculture, Science and Technology, North-West University, Mmabatho, Mafikeng Campus, 
+South Africa; E-Mails: bonajoke@yahoo.com (M.A.A.); olubukola.babalola@nwu.ac.za (O.O.B.) 
+
+2  Food Security and Safety Niche Area, Faculty of Agriculture, Science and Technology, North-West 
+
+University, Mmabatho, Mafikeng 2735, South Africa 
+
+†  These authors contributed equally to this work. 
+
+*  Author to whom correspondence should be addressed; E-Mail: atebacollins1@hotmail.com;  
+
+Tel.: +27-18-389-2247 (ext. 892247); Fax: +27-18-389-2247. 
+
+Academic Editors: Mieke Uyttendaele, Eelco Franz and Oliver Schlüter 
+
+Received: 24 June 2015 / Accepted: 15 August 2015 / Published: 25 August 2015 
+ 
+
+Abstract: The aim of this study was to investigate the occurrence, antibiotic susceptibility 
+profiles, and virulence genes determinants of S. aureus isolated from milk obtained from 
+retail outlets of the North-West Province, South Africa. To achieve this, 200 samples of raw, 
+bulk and pasteurised milk were obtained randomly from supermarkets, shops and some farms 
+in the North-West Province between May 2012 and April 2013. S. aureus was isolated and 
+positively identified using morphological (Gram staining), biochemical (DNase, catalase, 
+haemolysis and rapid slide agglutination) tests, protein profile analysis (MALDI-TOF mass 
+spectrometry)  and  molecular  (nuc  specific  PCR)  methods.  The  antimicrobial  resistance 
+profiles of the isolates were determined using the phenotypic agar diffusion method. Genes 
+encoding enterotoxins, exfoliative toxins and collagen adhesins were also screened using 
+PCR. Among all the samples examined, 30 of 40 raw milk samples (75%), 25 of 85 bulk 
+milk  samples  (29%)  and  10  of  75  pasteurised  milk  samples  (13%)  were  positive  for  S. 
+aureus. One hundred and fifty-six PCR-confirmed S. aureus isolates were obtained from 75 
+contaminated milk samples. A large proportion (60%–100%) of the isolates was resistant to 
+penicillin  G,  ampicillin,  oxacillin,  vancomycin,  teicoplanin  and  erythromycin.  On  the 
+
+Int. J. Environ. Res. Public Health 2015, 12 
+ 
+
+10255 
+
+contrary, low level resistance (8.3%–40%) was observed for gentamicin, kanamycin and 
+sulphamethoxazole. Methicillin resistance was detected in 59% of the multidrug resistant 
+isolates and this was a cause for concern. However, only a small proportion (20.6%) of these 
+isolates possessed PBP2a which codes for Methicillin resistance in S. aureus. In addition, 
+32.7% of isolates possessed the sec gene whereas the sea, seb sed, see, cna, eta, etb genes 
+were not detected. The findings of this study showed that raw, bulk and pasteurised milk in 
+the North-West Province is contaminated with toxigenic and multi-drug resistant S. aureus 
+strains. There is a need to implement appropriate control measures to reduce contamination 
+as well as the spread of virulent S. aureus strains and the burden of disease in humans. 
+
+Keywords: Staphylococcus aureus; MALDI-TOF mass spectrometry; methicillin resistance; 
+nuc specific PCR; virulence genes 
+
+ 
+
+1. Introduction 
+
+Milk is high in nutrients such as vitamins, proteins, lactose, fat, minerals and water. It plays an important 
+role in assisting individuals meet their nutrient requirements [1–4]. It has been reported worldwide that 
+foods of animal origin, particularly milk and other dairy products, are often associated with food-borne 
+diseases if proper sanitary and health care procedures are not implemented during the production and 
+marketing of these products [5–7]. This is mainly due to the fact that milk may serve as an excellent 
+medium  for  the  survival  and  growth  of  many  different  types  of  pathogenic  microorganisms.  Milk  is 
+regarded as a potential vehicle for the transmission of bacteria, including staphylococci to humans [8,9]. 
+Staphylococci are bacteria that easily grow and establish themselves as commensals on the skin and 
+mucous membranes of warm-blooded animals [10–14]. In line with this, a number of coagulase positive 
+and coagulase negative species have been isolated from humans and animals [11,12,15–17]. However, 
+S. aureus is well known as a pathogen in both human and animal medicine, and it is currently considered 
+as  one  of  the  world’s  most  important  pathogens  [18].  S.  aureus  is  known  to  cause  a  number  of 
+pathological  conditions  in  humans  and  animals  that  range  from  mild  skin  infections,  bacteremia, 
+systemic diseases, osteomyelitis to the more complicated toxic shock syndrome and staphylococcal food 
+poisoning (SFP) [18–20]. 
+
+S. aureus is reported to be one of the most common causative agents of food poisoning associated 
+with the consumption of raw milk and milk products [21]. Foodstuff contamination may occur directly 
+from infected food-producing animals or may result from poor hygiene during production processes, or 
+the retail and storage of food, since humans may also harbour microorganisms [8,9,22]. As such, food 
+products such as milk, cheese, yoghurt and other dairy products have been implicated as potential sources 
+for  the  transmission  of  the  pathogen  to  humans  [8].  Moreover,  foods  contaminated  with  antibiotic 
+resistant bacteria represent ideal vehicles for the transmission of antibiotic resistant strains [23,24]. 
+
+Antimicrobial  resistance  is  an  important  health  problem  worldwide  [25,26].  The  development  of 
+resistance, both in human and animal bacterial pathogens, has been ascribed to the extensive therapeutic 
+use  of  antimicrobials  or  with  their  use  as  growth  promoters  in  animal  feed  production  [27–30]. 
+
+ 
+
+10256 
+
+Int. J. Environ. Res. Public Health 2015, 12 
+ 
+Methicillin-resistant S. aureus (MRSA) was first described in 1961, shortly after the introduction of 
+methicillin [31]. S. aureus becomes methicillin resistant by acquisition of the mecA gene which encodes 
+a  modified  penicillin  binding  protein  (PBP2a)  that  has  a  low  affinity  for  β-lactams  [8,32,33].  The 
+modified PBP2a in MRSA isolates is therefore capable of replacing the biosynthetic functions of normal 
+penicillin binding proteins even in the presence of β-lactam antibiotics, thereby preventing cell lysis. As 
+such, S. aureus strains producing PBP2a are resistant to all β-lactam antibiotics [32] as well as other 
+classes of antibiotics. Since the development of MRSA, vancomycin has been used as the antibiotic of 
+choice to treat infections caused by S. aureus strains that are resistant to methicillin and oxacillin. In 
+addition, the emergence of vancomycin-resistant S. aureus has been reported in some studies [16,34,35]. 
+The multi-drug resistant S. aureus strains may have an increased ability to spread, especially if they 
+are also enhanced with virulence genes. This does not only provide therapeutic challenges for clinicians 
+but may be very detrimental to human health [36]. The study was designed to determine the occurrence 
+of S. aureus and MRSA strains in milk products obtained from some supermarkets, shops and farms in 
+the North West Province of South Africa. Moreover, the possible health risks to consumers based on the 
+presence of virulence genes and antibiotic resistance profiles of the isolates were also investigated. 
+
+2. Experimental Section 
+
+2.1. Study Design 
+
+A cross-sectional study design was used to determine the bacteriological analysis of raw, tank and 
+
+pasteurised milk in the North-West Province of South Africa. 
+
+2.2. Study Site 
+
+This study was conducted in Mafikeng town, North-West Province of South Africa. The province has 
+an estimated population of 3,509,953 million inhabitants [37]. The North-West province is located in 
+the north of South Africa, on the Botswana border. It is surrounded by the Kalahari desert to the west, 
+Gauteng province to the east, and the Free State to the south. 
+
+2.3. Sample Collection 
+
+From May 2012 to April 2013, a total of 200 milk samples including raw, bulk and pasteurised milk 
+were randomly collected from 18 sources (supermarkets, shops and farms) in the four districts of the 
+North-West province of South Africa (Table 2). Two to five (the number depends on the size of the 
+district) representative stores were chosen in each district for sampling. Each milk sample (500 mL) was 
+collected, labelled properly, kept at 4 °C in an insulated ice box and transported to the laboratory for 
+analysis. Upon arrival in the laboratory, samples were analysed for S. aureus within 4 h of collection. 
+
+2.4. Enrichments and Isolation of S. aureus 
+
+Isolation  of  S.  aureus  was  done  as  described  [38].  Isolation  involved  a  non-selective  enrichment 
+procedure [39] where a 5 mL aliquot of each milk sample was mixed with 5 mL double strength Trypticase 
+Soy Broth (TSB) (Biolab, Wadeville, South Africa). This preparation was incubated for 3 h at 37 °C. Ten 
+
+ 
+
+Int. J. Environ. Res. Public Health 2015, 12 
+ 
+milliliters of a single-strength TSB supplemented with 20% NaCl was later added and incubated for 24 h 
+at 37 °C. Aliquots of 0.1 mL were spread-plated onto mannitol salt agar (MSA) (Biolab, Modderfontein, 
+South Africa). The plates were incubated aerobically at 37 °C for 24 h. Presumptive S. aureus colonies 
+that were yellow in colour from each MSA (Biolab, Modderfontein, South Africa) plate were sub-cultured 
+onto  fresh  MSA  (Biolab,  Modderfontein,  South  Africa)  plates  for  isolate  purification  and  incubated 
+aerobically at 37 °C for 24 h. Isolates were retained for further identification. 
+
+10257 
+
+2.5. Bacterial Identification 
+
+Presumptive  S.  aureus  colonies  were  identified  by  standard  microbiological  tests  which  included 
+Gram-staining; catalase testing (using 3% hydrogen peroxide); slide agglutination test; DNase test; and 
+the oxidation and fermentation of mannitol salt agar (Biolab, Modderfontein, South Africa) [40]. 
+
+2.5.1. Biochemical Identification of Staphylococci 
+
+Isolates were Gram-stained using standard techniques [41]. Colonies that were Gram-positive cocci, 
+arranged in clusters, were further identified. S. aureus isolates were screened for DNase production using 
+the  DNase  agar  (Fluka®  Analytical:  Sigma-Aldrich  Chemie  GmbH,  Buchs,  Switzerland)  [42],  the 
+catalase test [43], haemolysin test using 5% (w/v) sheep blood agar [44] and slide agglutination test 
+using  the  PASTOREXTM  STAPH-PLUS  (Bio-Rad  Laboratories  Diagnostics  Group,  Redmond,  WA, 
+USA)  which  facilitates  simultaneous  detection  of  bound  coagulase  also  known  as  clumping  factor; 
+protein  A;  and  capsular  polysaccharides  that  are  specific  for  S.  aureus.  All  tests  were  performed 
+according to standard guidelines and S. aureus (ATCC® 25923) was used as a positive control in each 
+test protocol. 
+
+2.6. Determination of the Identities of Isolates using the Matrix-Assisted Laser Desorption/Ionization 
+Mass Spectrometry (MALDI-TOF MS) 
+
+Pure isolates were sub-cultured on MSA agar and plates incubated at 37 °C for 24 h. The plates were 
+transported to the Microbiology Laboratory of the University of Pretoria (South Africa) for MALDI-TOF 
+MS analysis by the equipment specialist using standard protocols and procedures. The MALDI Biotyper 
+identifies  organisms  using  the  Matrix-Assisted  Laser  Desorption/Ionization  Mass  Spectrometry  by 
+measuring the unique protein fingerprint of highly abundant proteins in an organism. The characteristic 
+patterns  of  these  proteins  are  used  to  reliably  identify  the  particular  microorganism  by  matching  the 
+respective patterns with an extensive open database. Analysis was performed and isolates identified to 
+species level. 
+
+2.7. Molecular Identification by PCR 
+
+2.7.1. DNA Extraction 
+
+Genomic DNA was extracted using a ZR Genomic DNATM–Tissue MiniPrep kit (Zymo Research 
+Corp, Irvine, CA, USA). The extraction protocol used was as instructed by the manufacturer. The quality 
+and quantity of the extracted genomic DNA was determined using a Nanodrop 2000 Spectrophotometer 
+
+ 
+
+Int. J. Environ. Res. Public Health 2015, 12 
+ 
+(Thermo Scientific, Waltham, MA, USA) and diluted to a working concentration of 50 ng/μL. The eluted 
+DNA was stored at −20 °C and used for molecular identification of the isolates. 
+
+10258 
+
+2.7.2. 16S rRNA Specific PCR for the Detection of Staphylococci 
+
+The identities of organisms belonging to the genus staphylococci were determined using a 16S rRNA 
+specific PCR assay that amplifies the 16S rRNA gene sequence specific for staphylococci [45]. Primer 
+sequences used are shown in Table 1. PCR was conducted using a C1000 Touch Thermal Cycler (Bio-
+Rad, Johannesburg, South Africa) and the cycling conditions were an initial denaturation at 94 °C for 5 
+min; followed by 30 cycles of 94 °C for 30 seconds, 64 °C for 30 seconds, 72 °C for 60 seconds and a 
+final elongation step of 72 °C for 5 min. The PCR products were stored at 4 °C and later separated by 
+agarose gel electrophoresis. 
+
+2.7.3. Specific PCR for the Identification of Staphylococcus aureus 
+
+The  identities  of  S.  aureus  isolates  were  confirmed  using  a  specific  PCR  that  targeted  the 
+thermonuclease (nuc) gene specific for S. aureus [46] using primers sequences listed in Table 1. PCR 
+was conducted using a C1000 Touch Thermal Cycler (Bio-Rad, Johannesburg, South Africa) and the 
+cycling  conditions  utilized  were  initial  denaturation  of  94  °C  for  5  min;  followed  by  30  cycles  of  
+94 °C for 30 seconds, 55 °C for 30 seconds, 72 °C for 60 seconds and a final elongation step of 72 °C 
+for 5 min. The PCR products were stored at 4 oC and later separated by agarose gel electrophoresis. After 
+identification, each S. aureus strain was stored at −80 °C in Brain Heart Infusion broth (BHI) (Oxoid, 
+Basingstoke, UK) with glycerol (15% v/v). 
+
+2.8. Multiplex Polymerase Chain Reaction (PCR) Detection of Gene Sequences that Encode Virulence 
+Determinants in S. aureus 
+
+Multiplex PCR was used to screen for the presence of genes encoding different virulent determinants: 
+staphylococcal  enterotoxins  A  to  E  (sea,  seb,  sec,  sed  and  see)  [47],  exfoliative  toxins  A  and  B  
+(eta and etb) [48] and cna gene [49]. Primer sequences used for the PCR assays are listed in Table 1.  
+Two sets of multiplex PCR mixes containing enterotoxins A to E primers and another with eta, etb and 
+cna  primers  were  prepared.  Each  of  the  multiplex  PCR  mix  contained  10–50  ng  of  template  DNA,  
+1.5 µL of 25 mM MgCl2 (Promega Corporation, Madison, USA), 1.5 µL of 5 × Green Go Taq® reaction 
+buffer (Promega Corporation, Madison, WI, USA), 12.5 µL of 2 × PCR master mix (Thermo Scientific, 
+Johannesburg, Sounth Africa) and 50 pmol of each primer (Inqaba Biotech, Pretoria, Sounth Africa). 
+The volume of this reaction mixes was adjusted to 25 µL with nuclease free water. DNA amplification 
+was carried out in a C1000 Touch Thermal Cycler (Bio-Rad, Johannesburg, South Africa) with the 
+following cycling conditions: an initial denaturation of 94 °C for 5 min was followed by 35 cycles of 
+amplification (denaturation at 94 °C for 2 min, annealing at 57 °C for 2 min and extension at 72 °C for 
+1 min), ending with a final extension at 72 °C for 7 min. 
+ 
+
+ 
+
+ 
+
+Int. J. Environ. Res. Public Health 2015, 12 
+ 
+2.9. Agarose Gel Electrophoresis of DNA Extracted and PCR Products 
+
+10259 
+
+DNA extracted and PCR products were separated by electrophoresis on a 0.8% (w/v) and 2% (w/v) 
+agarose (Sigma-Aldrich, Seakme®, Rockland, ME, USA) gel. A 100 bp or 1 kb DNA ladder (Fermentas, 
+Glen Burnie, GB, USA) was included in all PCR and fingerprinting gels as a molecular weight standard. 
+ChemiDocTM MP Imaging system (Bio-Rad, Hercules, CA, USA) was used to visualise and capture  
+the images. 
+
+Table 1. Oligonucleotide primers used for molecular identification and multiplex detection 
+of virulence determinant genes. 
+
+Primer  
+16S rRNA F 
+16S rRNA R 
+Nuc F 
+Nuc R 
+Sea F 
+Sea R 
+Seb F 
+Seb R 
+Sec F 
+Sec R 
+Sed F 
+Sed R 
+See F 
+See R 
+Eta F 
+Eta R 
+Etb F 
+Etb R 
+Cna F 
+Cna R 
+
+Sequence 
+GTAGGTGGCAAGCGTTACC 
+CGCACATCAGCGTCAG 
+GCGATTGATGGTGGATACGGT 
+AGCCAAGCCTTGACGAACTAAAGC 
+GGTTATCAATGTGCGGGTGG 
+CGGCACTTTTTTCTCTTCGG 
+GTATGGTGGTGTAACTGAGC 
+CCAAATAGTGACGAGTTAGG 
+AGATGAAGTAGTTGATGTGTATGG 
+CACACTTTTAGAATCAACCG 
+CCAATAATAGGAGAAAATAAAAG 
+ATTGGTATTTTTTTTCGTTC 
+AGGTTTTTTCACAGGTCATCC 
+CTTTTTTTTCTTCGGTCAATC 
+ATATCAACGTGAGGGCTCTAGTAC 
+ATGCAGTCAGCTTCTTACTGCTA 
+CACACATTACGGATAATGCAAG 
+TCAACCGAATAGAGTGAACTTATCT 
+AAAGCGTTGCCTAGTGGAGA 
+AGTGCCTTCCCAAACCTTTT 
+
+Target Gene 
+16S rRNA 
+
+ 
+
+Nuc 
+
+ 
+
+Sea 
+
+ 
+
+Seb 
+
+ 
+
+Sec 
+
+ 
+
+Sed 
+
+ 
+
+See 
+
+ 
+Sta 
+ 
+
+Etb 
+
+Can 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Amplicon Size (bp) 
+
+228 
+
+ 
+
+279 
+
+ 
+
+102 
+
+ 
+
+164 
+
+ 
+
+451 
+
+ 
+
+278 
+
+ 
+
+209 
+
+ 
+
+1155 
+
+ 
+
+604 
+
+192 
+
+2.10. Determination of the Antibiotic Resistance Profiles of S. aureus Isolates 
+
+Antibiotic Disc Susceptibility Test, Detection of Multiple Antibiotic Resistant (MAR) Phenotypes and 
+Penicillin Binding Protein (PBP2a) 
+
+An antibiotic susceptibility test was performed using the Kirby-Bauer disc diffusion method [50]. 
+Susceptibilities of the isolates to a panel of 11 different antimicrobial agents that include penicillin G 
+(10  μg),  oxacillin  (5  μg),  ampicillin  (10  μg),  streptomycin  (10  μg),  kanamycin  (30  μg),  gentamicin  
+(10 μg), erythromycin (15 μg), oxytetracycline (30 μg), vancomycin (30 μg), teicoplanin (30 μg) and 
+sulphamethoxazole  (15  μg)  (Mast  Diagnostics,  Merseyside,  UK)  were  determined.  The  test  was 
+performed and results were interpreted according to standard guidelines [51]. All isolates were tested for 
+the  production  of  PBP2a,  the  protein  encoded  by  mecA,  using  the  PBP2a  latex  agglutination  assay  
+(Bio-Lab, Pretoria, South Africa) that employs a serological procedure for the detection of Methicillin 
+
+ 
+
+Int. J. Environ. Res. Public Health 2015, 12 
+ 
+and Oxacillin resistant S. aureus. The test was performed as instructed by the manufacturer. The MAR 
+phenotypes were generated for isolates resistant to three and more antibiotics using the abbreviations 
+that appear on antibiotic discs [52]. A methicillin susceptible S. aureus (ATCC® 25923) and an MRSA 
+strain (ATCC® 43300) were used as a negative and positive control, respectively. 
+
+10260 
+
+3. Results 
+
+3.1. Presumptive Detection of Staphylococcus Species in Milk Samples Based on Cultural Characteristics 
+
+A total of 200 milk samples were collected and screened for the presence of Staphylococcus species. 
+This comprised of 40 samples from raw milk, 85 from tank milk and 75 from pasteurised milk. The 
+bacterium was detected in 75% (30/40), 29% (25/85), 13% (10/75) of raw milk (RM), tank milk (TM) 
+and pasteurised milk (PM), respectively. The overall occurrence of S. aureus contamination in the milk 
+samples was 32.5% (65/200).  
+
+A  total  of  380  isolates  obtained  from  the  contaminated  milk  samples  were  screened  for  the 
+characteristics of S. aureus. Only isolates that satisfied both preliminary and confirmatory biochemical 
+tests, such as Gram staining, catalase test, slide agglutination test, DNase test were considered. A large 
+proportion 56% (211/380) of the isolates were positively identified by using the slide agglutination test. 
+All the isolates were Gram-positive and catalase-positive and a large number 65% (138/211) of the 
+isolates  were  positive  for  DNase  production.  The  majority  of  the  isolates  74%  (156/211)  showed 
+haemolytic  activity  on  sheep  blood  agar  plates:  50%  (78/156)  of  the  haemolytic  S  aureus  isolates 
+produced  α-haemolysin  while  44%  (69/156)  displayed  β-haemolysis  and  6%  (9/156)  were  α  and  
+β-haemolytic. The results revealed that S. aureus was frequently isolated from milk samples obtained 
+from the North-West Province. Although all the milk samples were contaminated with S. aureus, isolates 
+obtained from Coligny, Wolmaranstad, Lehurutshe and Madibogo were not positively identified by the 
+slide agglutination test and thus not included in the study. The results in Tables 5A and 5B indicate the 
+number  of  isolates  screened  from  the  different  sampling  areas  and  those  that  were  positive  for  the 
+different tests. All the isolates that were positively identified as S. aureus by the slide agglutination test 
+were subjected to confirmatory identification using molecular methods. In this study, staphylococci were 
+detected in all the different types of milk samples analysed. Bacteria were more frequently isolated from 
+raw milk than tank milk and pasteurised milk obtained from the supermarkets. 
+
+3.2. Molecular Characterisation of S. aureus Isolates from Milk 
+
+3.2.1. Specific PCR for the Identification of Staphylococcus aureus 
+
+A total of 211 S. aureus isolates that were positively identified by the Staph Xtra Latex agglutination 
+test  were  subjected  to  specific  simplex  PCR  analysis  for  the  detection  of  16S  rRNA  gene  and  the  
+S. aureus thermonuclease (nuc) gene. The 16S rRNA gene is specific for the genus Staphylococcus while 
+the  nuc  gene  is  species  specific  for  S.  aureus.  A  Figure  of  a  2%  (w/v)  agarose  gel  depicting  the  
+16S rRNA gene fragments amplified by PCR using genomic DNA extracted from S. aureus isolates was 
+reported as Supplementary Material. The 16S rRNA and nuc gene fragments with the expected amplicon 
+sizes of 228bp and 279bp were respectively obtained and the agarose gel pictures were reported as 
+
+ 
+
+Int. J. Environ. Res. Public Health 2015, 12 
+ 
+Supplementary Material. Table 2 shows the number of isolates screened from the different sampling 
+sites and those that were positive for the targeted genes. 
+
+10261 
+
+As shown in Table 2, the proportion of isolates that was positive for the 16S rRNA gene (100%) PCR 
+analysis was higher than those that possessed the nuc gene (74%). This is not surprising since the nuc 
+gene is more specific in detecting isolates belonging to the species S. aureus compared to the 16S rRNA 
+gene  that  is  common  to  the  genus  Staphylococcus  and  will  detect  other  Staphylococcus  species  in 
+addition to S. aureus. 
+
+3.2.2. Detection of Virulence Genes in Staphylococcus aureus Isolates 
+
+A  total  of  156  S.  aureus  isolates  were  subjected  to  multiplex  PCR  analysis  for  the  detection  of 
+virulence genes. Results obtained are shown in Table 2. Only the sec virulence gene was amplified from 
+isolates screened and the sea, seb, sed, see, cna, eta and etb genes were not detected in any of the isolates. 
+Generally, 51 (32.7%) of the isolates possessed the sec gene and a large proportion of the isolates were 
+obtained from Rooigrond (47%) and Disaneng (24%). None of the isolates from Rustenburg, Mabule, 
+Taung and Lehurutshe possessed the sec virulence determinant. A 2% (w/v) agarose gel depicting the 
+sec virulence gene fragments amplified by PCR using genomic DNA extracted from S. aureus isolates 
+was reported as Supplementary Material. Amplicons obtained were of the expected sizes (451 bp). 
+
+Table 2. Areas where milk samples were collected and number of S. aureus isolates positive 
+for the 16S rRNA, nuc and virulence gene determinants. 
+
+Sample Source 
+
+ 
+
+ 
+
+Number 
+of Isolates 
+
+Tested 
+
+16S rRNA 
+
+gene 
+
+Number of Isolates Positive for the Targeted Genes 
+
+nuc 
+gene 
+
+sea 
+gene 
+
+seb 
+gene 
+
+sec 
+gene 
+
+see 
+gene 
+
+sed 
+gene 
+
+cna 
+gene 
+
+eta 
+gene 
+
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+
+10 
+
+15(15)* 
+
+15(15)* 
+20(15)* 
+
+Coligny 
+
+Carletonville 
+Potchefstroom 
+Wolmaranstad 
+
+Zeerust 
+
+Swartruggens 
+Rustenburg 
+Rooigrond 
+Mabule 
+Mafikeng 
+Disaneng 
+Taung 
+Vryburg 
+Setlagole 
+
+Stella 
+
+Madibogo 
+Lehurutshe 
+
+Tshidilamolomo 
+
+Total 
+
+ 
+16 
+8 
+ 
+12 
+11 
+18 
+34 
+10 
+15 
+30 
+6 
+20 
+12 
+12 
+ 
+5 
+2 
+211 
+
+ 
+16 
+8 
+ 
+12 
+11 
+18 
+34 
+10 
+15 
+30 
+6 
+20 
+12 
+12 
+ 
+5 
+2 
+211 
+
+ 
+12 
+6 
+ 
+10 
+5 
+15 
+30 
+5 
+12 
+24 
+5 
+14 
+8 
+8 
+ 
+0 
+2 
+156 
+
+ 
+0 
+0 
+ 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+0 
+0 
+ 
+
+ 
+0 
+0 
+ 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+0 
+0 
+ 
+
+ 
+2 
+1 
+ 
+2 
+1 
+0 
+24 
+0 
+4 
+12 
+0 
+2 
+1 
+1 
+ 
+0 
+1 
+51 
+
+ 
+0 
+0 
+ 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+0 
+0 
+ 
+
+ 
+0 
+0 
+ 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+0 
+0 
+ 
+
+ 
+0 
+0 
+ 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+0 
+0 
+ 
+
+10 
+10 
+10 
+10 
+10 
+10 
+10 
+ 
+* Number of raw milk samples collected from the different areas based on availability. 
+
+etb 
+gene 
+
+ 
+0 
+0 
+ 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+0 
+0 
+ 
+
+ 
+0 
+0 
+ 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+0 
+0 
+ 
+
+3.3. Identification of S. aureus Isolates Using the MALDI-TOF Mass Spectrometry 
+
+A total of 36 S. aureus isolates that were positive for the 16S rRNA gene and the nuc gene PCR 
+analysis  were  subjected  to  the  MALDI  Biotyper  identification  tool  using  the  Matrix-Assisted  Laser 
+Desorption/Ionization  Mass  Spectrometry.  Using  the  isolates  obtained  from  the  present  study  as 
+
+ 
+
+Int. J. Environ. Res. Public Health 2015, 12 
+ 
+unknowns, highly reproducible mass spectral profiles were obtained and compared with those of the 
+reference  spectra  deposited  in  an  extensive  open  database.  Unique  protein  fingerprints  of  highly 
+abundant proteins in each isolate were obtained. A representation of the proteins profiles, peaks and 
+mass  spectral  profiles  of  representative  S.  aureus  isolates  from  milk  obtained  from  Rooigrond  was 
+reported as Supplementary Material. The identities of isolates obtained after analysis and the scores used 
+to determine the reliability of the technique in classifying an isolate as member of a particular genus and 
+species are shown in Table 3. All the isolates were positively identified as S. aureus to species level. 
+
+10262 
+
+Table  3.  Number  of  S.  aureus  isolates  positively  identified  using  the  MALDI  
+Biotyper technique. 
+
+Isolate Number 
+
+Score Value 
+
+1RO3 
+1RO4 
+1RO5 
+1RO6 
+1RO9 
+2RO1 
+2RO2 
+2RO4 
+2RO5 
+3RO1 
+3RO2 
+3RO3 
+3RO6 
+3RO9 
+4R1 
+4R2 
+4R3 
+4R4 
+4R5 
+14Z1 
+15Z1 
+16Z1 
+16Z2 
+20Z1 
+20Z2 
+20Z3 
+20Z4 
+21Z1 
+21Z2 
+22Z1 
+22Z2 
+22Z3 
+22Z4 
+6S3 
+6S1 
+7S1 
+
+ 
+
+2.234 
+2.097 
+2.223 
+2.068 
+2.076 
+2.234 
+2.259 
+2.124 
+2.232 
+2.177 
+2.31 
+2.255 
+2.048 
+1.921 
+2.288 
+2.338 
+2.224 
+2.249 
+2.296 
+2.228 
+2.188 
+2.086 
+2.254 
+2.129 
+2.127 
+2.179 
+2.109 
+2.215 
+2.291 
+2.165 
+2.113 
+2.163 
+2.069 
+2.027 
+2.129 
+2.194 
+
+Identity Based on MALDI-TOF MS Analysis 
+
+Best Match 
+
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+Staphylococcus aureus 
+
+Int. J. Environ. Res. Public Health 2015, 12 
+ 
+
+10263 
+
+As shown in Table 3, the score value for best match organism of all the isolates screened ranged from 
+2.027 to 2.338 indicating a reliable genus and species identification. Moreover, the greatest peak density or 
+hits of mass ions were detected at about m/z 2800 and all the isolates correctly identified to genus and species 
+level as S. aureus. Generally, all the isolates showed similar profiles and it is suggested that the consistent 
+mass ions at m/z 2000 to m/z 10000 appear to be biomarkers specific for the S. aureus specie. When the nuc 
+specific PCR and the MALDI-TOF MS data were compared, it was evident that both could be used for 
+correct identification of bacteria isolates under controlled laboratory and experimental conditions. 
+
+3.4. Antibiotic Resistance of S. aureus Isolates from Milk Samples 
+
+A total 156 S. aureus isolates from milk obtained from different sampling sites in the North-West 
+Province that possessed the nuc gene were tested to evaluate their susceptibilities against a panel of  
+11 antimicrobial agents. Data depicting the susceptibilities of the isolates were presented in percentages 
+as  shown  in  Table  4.  A  large  proportion  (60%–100%)  of  the  S.  aureus  isolates  obtained  from 
+Carletonville,  Potchefstroom  and  Zeerust  were  resistant  to  penicillin  G,  ampicillin,  oxacillin, 
+streptomycin, vancomycin, and erythromycin. In addition, a similarly large proportion of isolates from 
+Swartruggens, Rustenburg, Stella, Setlagole, Vryburg, Taung and Disaneng were resistant to penicillin 
+G and oxacillin (Table 4). Despite the fact that a relatively large proportion (50%–71%) of the isolates 
+from  Vryburg,  Setlagole  and  Disaneng  were  resistant  to  gentamicin,  on  the  contrary,  only  a  small 
+proportion (8.3%–40%) of isolates from the other stations sampled were resistant to this antimicrobial 
+agent. With the exception of Disaneng, Carletonville and Potchefstroom all isolates obtained from the 
+other sample sites were highly susceptible to kanamycin. Similar low level resistance was observed 
+against sulphamethoxazole (Table 4). A cause for concern is the fact that multiple antibiotic resistant 
+(MAR) isolates that are also resistant to oxacillin were detected in this study. These isolates could serve 
+as reservoirs for the transmission and spread of antibiotic resistant determinants within a population. 
+
+3.5. Latex Agglutination Assay for the Detection of Penicillin Binding Protein 2a (PBP2a) in S. aureus 
+Isolates from Milk Samples 
+
+A total of 92 MAR antibiotic resistant S. aureus strains isolated from milk obtained from different 
+sampling sites in the North-West Province were subjected to a serological test using the Latex PBP2a 
+test kit. This aim was to detect PBP2a which is used to identify Methicillin resistance in S. aureus and 
+the Latex technology provides an alternative to the PCR technique to detect the mecA gene product 
+serologically. All the 92 isolates were resistant to oxacillin based on the antibiotic disc susceptibility 
+test. Results obtained are shown in Table 5. Despite the fact that only a small proportion (19) 20.6% of 
+the  isolates  were  positively  identified  to  possess  the  gene  responsible  for  Methicillin  resistance  in  
+S. aureus, the presence of this gene was a cause for concern. Moreover, the ability to determine whether 
+a test is positive or not depends on the person interpreting the results and therefore the actual occurrence 
+of PBP2a may be higher than the reported value. Consequently, the isolates were also screened by PCR 
+analysis for the mecA gene. 
+ 
+
+ 
+
+ 
+
+Int. J. Environ. Res. Public Health 2015, 12 
+ 
+
+10264 
+
+Table  4.  The  number  and  percentages  of  S.  aureus  isolates  from  various  sampling  sites 
+resistant to different antibiotics. 
+
+Sampling Area 
+Carletonville 
+NT = 12 
+Potchefstroom 
+NT = 6 
+Zeerust 
+NT = 10 
+Swartruggens 
+NT =5 
+Rustenburg 
+NT = 15 
+Stella 
+NT = 8 
+Setlagole 
+NT = 8 
+Vryburg 
+NT = 14 
+Taung 
+NT = 5 
+Disaneng 
+NT = 24 
+Mafikeng 
+NT = 11 
+Mabule 
+NT = 5 
+Rooigroond 
+NT = 30 
+Tshidilamolomo 
+NT = 2 
+
+ 
+NR 
+% 
+NR 
+% 
+NR 
+% 
+NR 
+% 
+NR 
+% 
+NR 
+% 
+NR 
+% 
+NR 
+% 
+NR 
+% 
+NR 
+% 
+NR 
+% 
+NR 
+% 
+NR 
+% 
+NR 
+% 
+
+PG 
+12 
+100 
+6 
+100 
+10 
+100 
+5 
+100 
+15 
+100 
+8 
+100 
+8 
+100 
+14 
+100 
+5 
+100 
+17 
+71 
+9 
+82 
+4 
+80 
+9 
+30 
+2 
+100 
+
+AMP  OX 
+12 
+12 
+100 
+100 
+6 
+6 
+100 
+100 
+9 
+10 
+90 
+100 
+4 
+3 
+60 
+80 
+11 
+15 
+100 
+73 
+4 
+3 
+50 
+38 
+4 
+7 
+88 
+50 
+10 
+6 
+43 
+71 
+1 
+0 
+20 
+0 
+23 
+18 
+75 
+96 
+1 
+9 
+9 
+82 
+3 
+1 
+20 
+60 
+5 
+9 
+30 
+17 
+0 
+1 
+50 
+0 
+
+S 
+7 
+58 
+4 
+67 
+7 
+70 
+5 
+100 
+8 
+53 
+4 
+50 
+3 
+38 
+8 
+57 
+0 
+0 
+19 
+79 
+8 
+73 
+4 
+80 
+9 
+30 
+1 
+50 
+
+K 
+6 
+50 
+3 
+50 
+4 
+40 
+1 
+20 
+3 
+20 
+0 
+0 
+2 
+25 
+6 
+43 
+0 
+0 
+17 
+71 
+5 
+45 
+0 
+0 
+8 
+27 
+0 
+0 
+
+GM  VA  TEC 
+1 
+8.3 
+1 
+17 
+3 
+30 
+0 
+0 
+5 
+33 
+2 
+25 
+5 
+63 
+10 
+71 
+2 
+40 
+14 
+58 
+1 
+9 
+0 
+0 
+3 
+10 
+0 
+0 
+
+3 
+25 
+6 
+100 
+10 
+100 
+4 
+80 
+15 
+100 
+7 
+88 
+5 
+63 
+9 
+64 
+5 
+40 
+12 
+50 
+11 
+100 
+4 
+80 
+25 
+83 
+0 
+0 
+
+10 
+83 
+6 
+100 
+9 
+90 
+4 
+80 
+15 
+100 
+5 
+63 
+5 
+63 
+9 
+64 
+2 
+40 
+11 
+46 
+7 
+64 
+2 
+40 
+24 
+80 
+1 
+50 
+
+TE 
+8 
+66.7 
+0 
+0 
+2 
+20 
+3 
+60 
+9 
+60 
+7 
+88 
+8 
+100 
+13 
+93 
+5 
+40 
+11 
+46 
+8 
+73 
+4 
+80 
+19 
+63 
+0 
+0 
+
+E 
+12 
+100 
+6 
+100 
+10 
+10 
+5 
+100 
+9 
+60 
+3 
+38 
+6 
+75 
+7 
+50 
+0 
+0 
+13 
+54 
+11 
+100 
+5 
+100 
+19 
+63 
+1 
+50 
+
+SMX 
+
+0 
+0 
+1 
+17 
+1 
+10 
+1 
+20 
+3 
+20 
+3 
+38 
+6 
+75 
+8 
+57 
+0 
+0 
+4 
+17 
+4 
+36 
+1 
+20 
+3 
+10 
+0 
+0 
+
+PG = penicillin G; Amp = ampicillin; OX = oxacillin; S = streptomycin; K = kanamycin; GM = gentamicin; 
+VA  =  vancomycin;  TEC  =  teicoplanin,  TE=tetracycline,  E  =  erythromycin,  SMX  =  sulphamethoxazole.  
+NT = Number tested; NR = number resistant. 
+
+3.6. Multiple Antibiotic Resistance Phenotypes of S. aureus Isolates from Milk Samples 
+
+Multiple antibiotic resistance (MAR) phenotypes were generated from 110 S. aureus isolates showing 
+resistance to three or more antibiotics [52]. Data indicating the predominant MAR phenotypes are shown 
+in Table 6. The MAR phenotype PG-AMP-VA-TEC-TE-E was observed in 60% of isolates from Taung, 
+while 25% of those from Mafikeng displayed this phenotype. The MAR phenotypes PG-AMP-OX-S-
+VA-TEC-E  was  dominant  among  50%,  30%  and  29%  of  samples  from  Potchefstroom,  Zeerust  and 
+Carletonville,  respectively.  The  predominant  MAR  phenotypes  for  isolates  from  raw  milk  from 
+Disaneng and pasteurized milk from Vryburg were PG-AMP-OX-S-K-CN-VA-TEC-E and PG-AMP-
+SK-VA-TEC-TE-E-SMX obtained at 20% and 30%, respectively. These results reveal that MAR S. 
+
+ 
+
+Int. J. Environ. Res. Public Health 2015, 12 
+ 
+aureus were isolated from milk samples. It is therefore suggested that these MAR isolates may have 
+severe health implications in individuals who consume such milk products. 
+
+10265 
+
+Table 5. Proportion of S. aureus isolates from various sampling sites that were positive for 
+the PBP2a Latex agglutination test. 
+
+Sample Source 
+Carletonville 
+Potchefstroom 
+
+Zeerust 
+
+Swartruggens 
+Rustenburg 
+Rooigrond 
+Mafikeng 
+Vryburg 
+Setlagole 
+
+Stella 
+Mabule 
+Disaneng 
+
+Total 
+
+Number of Isolates Tested 
+
+Number of Isolates Positive for the PBP2’ Test 
+
+12 
+5 
+9 
+3 
+12 
+5 
+4 
+7 
+5 
+5 
+3 
+22 
+92 
+
+3 
+2 
+2 
+1 
+2 
+0 
+0 
+1 
+0 
+3 
+0 
+5 
+19 
+
+Table 6. Predominant multiple antibiotic resistance (MAR) phenotypes for S. aureus isolates 
+from milk. 
+
+Sampling Area 
+
+Phenotypes 
+
+Number 
+Observed 
+
+Percentage (%) Observed 
+
+Carletonville (N= 7) 
+
+Potchefstroom (N = 4)  
+Zeerust (N = 10)  
+
+Rustenburg (N= 10) 
+
+Stella  (N = 5)  
+
+Setlagole (N = 4)  
+
+Vryburg (N = 10) 
+
+Taung (N = 5) 
+
+Disaneng (N = 20) 
+
+Mafikeng (N = 8)  
+Mabule ( N = 4) 
+
+PG-AMP-OX-S-K-VA-TEC-E  
+PG-AMP-OX-S-VA-TEC-E  
+PG-AMP-OX-VA-TEC-E 
+PG-AMP-OX-S-VA-TEC-E 
+PG-AMP-OX-S-VA-TEC-E 
+PG-AMP-OX-S-VA-TEC-TE-E-SMX  
+PG-AMP-S-GM-VA-TEC-TE-E 
+PG-AMP-OX-S-K-VA-TEC-TE-E-SMX 
+PG-AMP-OX-S-K-GM-TEC-TE-E-
+SMX 
+PG-AMP-OX-S-K-GM-TE-E-SMX  
+PG-AMP-S-K-VA-TEC-TE-E-SMX  
+PG-AP-OX-K-GM-VA-TEC-TE 
+PG-AMP-VA-TEC-TE-E 
+PG-AMP-OX-S-K-GM-VA-TEC-TE-E  
+PG-AMP-OX-S-K-GM-TE-E  
+PG-AMP-OX-S-K-GM-VA-TEC-E  
+PG-AMP-OX-S-K-GM-TEC-E-SMX  
+AMP-OX-S-K-GM 
+PG-AMP-VA-TEC-TE-E 
+PG-AMP-S-VA-TEC-TE-E-SMX 
+
+ 
+
+3 
+2 
+2 
+2 
+3 
+2 
+3 
+1 
+1 
+
+2 
+3 
+2 
+3 
+2 
+3 
+4 
+3 
+2 
+2 
+1 
+
+ 
+
+ 
+
+43 
+29 
+29 
+50 
+30 
+20 
+30 
+20 
+25 
+
+20 
+30 
+20 
+60 
+10 
+15 
+20 
+15 
+10 
+25 
+25 
+
+Int. J. Environ. Res. Public Health 2015, 12 
+ 
+
+Table 6. Cont. 
+
+Sampling Area 
+
+Phenotypes 
+
+10266 
+
+Number 
+Observed 
+
+Percentage (%) Observed 
+
+2 
+3 
+2 
+2 
+2 
+1 
+
+7 
+10 
+7 
+7 
+7 
+50 
+
+OX-VA-TEC-E 
+VA-TEC-E 
+VA-TEC-TE 
+OX-VA-TEC-TE 
+VA-TEC-TE-E 
+PG-AMP-S-VA-TEC 
+
+Rooigrond (N = 30) 
+
+Tshidilamolomo (N = 
+2) 
+
+PG  =  penicillin  G;  AMP  =  ampicillin;  OX  =  oxacillin;  S  =  streptomycin;  K  =  kanamycin;  GM  =  gentamicin;  
+VA = vancomycin; TEC = teicoplanin; TE = tetracycline; E = erythromycin; SMX = sulphamethoxazole. 
+
+4. Discussion 
+
+The primary objective of this study has been to isolate and identify S. aureus from milk obtained from 
+supermarkets, shops and farms around the North-West Province, South Africa. The main motivation is 
+that  food-borne  pathogens,  including  S.  aureus,  have  been  isolated  from  milk  and  dairy  products 
+worldwide [53–56]. Moreover, a baseline study previously conducted in the area revealed the presence 
+of S. aureus in milk collected from a communal farm and two commercial farms [35]. Despite the fact 
+that outbreaks and even sporadic cases of staphylococcal food poisoning have rarely been reported to 
+date in South Africa, the pathogen has been isolated from milk and food products in the area [35,56]. 
+This therefore indicates that there is a possibility of transmitting S. aureus and their associated virulence 
+determinants to consumers when unpasteurised milk or its associated products are consumed as is the 
+case in some rural communities in the North West Province of South Africa. 
+
+Reasonable attention has been given to pathogenic S. aureus strains, especially those equipped with 
+virulence factors even in developed countries that have proper public health facilities [5,57,58]. There is 
+currently little information on the occurrence of this pathogen and its associated virulence determinants 
+in South Africa [35,56]. Data on the occurrence of S. aureus and MRSA in South Africa among animals 
+and humans is limited and the determination of its presence in milk may provide an indication of the 
+health risks associated with the consumption of these products and serve as a tool for assessing its public 
+health  risks.  Previous  studies  have  evaluated  the  presence  of  S.  aureus  in  milk  using  conventional 
+microbiology  methods  [35].  The  present  study  is  the  first  in  the  area  in  which  a  combination  of 
+phenotypic,  genotypic  and  proteomic  tools  were  used  to  concurrently  determine  the  occurrence, 
+antibiotic resistance profiles and virulence gene profiles of S. aureus strains isolated from milk samples 
+obtained from retail outlets and farms in the North-West Province, South Africa. Data obtained could 
+provide options for developing S. aureus control strategies in the study area. 
+
+In  the  present  study,  the  overall  presence  of  the  pathogen  was  32.5%  among  samples  screened. 
+However, the proportion of S. aureus was higher (75%) in raw milk than in pasteurised milk (29%). This 
+observation was not surprising although it is a cause for concern. The presence of these bacteria, after 
+pasteurisation,  can  be  attributed  to  inefficacy  of  the  thermal  process  or  post-process  contamination. 
+Similar observations have been noticed in which there was a high occurrence of S. aureus from raw and 
+pasteurised  milk  [5,49,59,60].  However,  contrary  to  observations  made  in  some  studies,  lower 
+proportions of the pathogen have been reported [61,62]. It is therefore suggested that the occurrence of 
+
+ 
+
+Int. J. Environ. Res. Public Health 2015, 12 
+ 
+S.  aureus  in  milk  samples  greatly  depends  on  the  methods  used  for  isolation,  the  sample  size  and 
+geographical region. 
+
+10267 
+
+In  this  study,  the  Pastorex  Staph-plus  serological  assay,  amplification  of  Staphylococcus  genus 
+specific 16S rRNA gene fragment and the thermo nuclease gene (nuc) specific for S. aureus, and the 
+MALDI-TOF mass spectrometry were used for positive identification of S. aureus strains. Traditionally, 
+bacteria species are identified using phenotypic traits based on results obtained for biochemical tests. 
+Despite the fact that biochemical protocols and assays are constantly being refined, results obtained from 
+these  tests  are  usually  not  very  reliable,  and  are  time  consuming  [63].  The  matrix-assisted  laser 
+desorption/ionisation  time  of  light  mass  spectrometry  (MALDI-TOF  MS)  of  intact  cells  has  been 
+reported  to  be  an  attractive  alternative  method  that  is  accurate,  rapid,  and  requires  minimal  sample 
+preparation time for the correct identification of bacteria isolates. 
+
+Different studies have been conducted in which various identification tools were employed for detecting 
+S. aureus [62–64]. Regardless of the isolation and identification techniques employed, the presence of 
+these pathogens in milk highlights the need for both strict farm management practices and proper sanitary 
+procedures to be implemented during milking operations such as storage, handling and transportation, 
+which are considered to be critical points for S. aureus cross contamination. It is therefore suggested that 
+the presence of S. aureus in pasteurised milk samples that have not gone past their expiry dates could be 
+attributed to improper handling and holding temperatures during the storage and retail of the products. 
+
+Another  objective  of  the  study  was  to  determine  and  compare  the  antibiotic  resistance  profiles  of  
+S. aureus strains isolated from milk samples which may enter the food chain and be transmitted to humans. 
+A motivation for this is that recent studies have revealed an increasing trend towards the occurrence of 
+multiple antibiotic resistant S. aureus isolates worldwide [8,35,65]. S. aureus isolates that harbour multiple 
+antibiotic  resistant  traits  have  been  reported  to  negatively  impact  on  the  treatment  of  staphylococcal 
+infections, especially in immune-compromised individuals, the elderly and young children [66]. In the 
+present study, multiple antibiotic resistant S. aureus strains defined as isolates resistant to three or more 
+antibiotics  were  obtained  in  a  large  proportion  of  milk  samples  analysed.  Development  of  multiple 
+antibiotic resistance among most of these isolates may be attributed to the acquisition of resistance (R-
+factor) which is plasmid-mediated [67]. Usually, S. aureus is known to contain a number of multiple 
+antibiotic  resistant  plasmids  that  may  account  for  the  phenotypes  observed  [67].  In  general,  a  large 
+proportion (60%–100%) of the isolates from different areas and sample types were resistant to penicillin 
+G,  ampicillin,  oxacillin,  streptomycin, vancomycin, tetracycline and erythromycin.  Similar  patterns  of 
+resistance have been reported against S. aureus in previous studies [65,68]. 
+
+The misuse of antibiotics in dairy farms is currently known to be one of the major factors responsible 
+for the emergence of drug resistant bacteria worldwide. Ampicillin and tetracycline are mostly used on 
+dairy cattle farms in the study area and this may account for the resistance levels observed. Furthermore, 
+isolates  that  are  resistant  to  ampicillin  may  cross-select  for  resistance  to  other  β-lactam  antibiotics 
+including  penicillin  and  ampicillin  resistant  isolates  may  portray  β-lactam  characteristics  and 
+phenotypes. Despite the fact that erythromycin and vancomycin are not used in the area, it has been 
+reported that the use of macrolides tylosin and avoparcin as growth promoters in animals was associated 
+with the emergence of Erythromycin and vancomycin resistance in S. aureus [69]. 
+
+Contrary  to  the  above  trends,  smaller  proportions  (22.8%–28%)  of  the  isolates  were  resistant  to 
+Gentamicin,  Kanamycin  and  sulphamethoxazole.  Similar  observations  have  been  previously  
+ 
+
+10268 
+
+Int. J. Environ. Res. Public Health 2015, 12 
+ 
+reported [63,70]. In addition, these trends may be due to the fact that the antimicrobial agents are rarely or 
+not used at all in animal and human medicine.  However, a cause for concern was the detection of 
+oxacillin resistant S. aureus isolates in the study using the antibiotic disc susceptibility phenotypic assay 
+despite the fact that the drug is rarely used in both human and animal medicine worldwide. Similar 
+observations have been reported for S. aureus from animals, humans, food and water sources [60,62]. 
+Methicillin resistance in staphylococci is due to the presence of the mecA gene that encodes for an altered 
+penicillin-binding protein 2a (PBP2a) and therefore, has reduced affinity for β-lactam antibiotics [16]. 
+However, in the present study, only a small proportion (12.1%) of the isolates that exhibited phenotypic 
+resistance to Oxacillin expressed the PBP2a and thus carried the mecA gene. Similar observations have 
+previously been reported and it is suggested that in some S. aureus strains, phenotypic resistance to 
+oxacillin is not intrinsically mediated by the mecA gene [48,71,72], but it is executed through other 
+mechanisms.  This  non-mecA  mediated  resistance  is  caused  by  modifications  to  the  penicillin  binding 
+proteins, which results in hyper-production of beta-lactamase or methicillinase enzymes [71]. However, the 
+detection of non-mecA, S. aureus strains that are phenotypically resistant to oxacillin and methicillin are 
+known to pose serious health concerns and are of great clinical relevance [72]. Moreover, these non-mecA S. 
+aureus strains are still classified as MRSA isolates [72]. Therefore, epidemiological investigations are needed 
+to constantly monitor the antibiotic resistance profile of S. aureus strains isolated from different sources 
+in a given area and to implement reliable genetic tracking tools that would facilitate the detection of 
+point source contamination within the food chain. This would greatly reduce the transmission of these 
+pathogens to consumers and reduce the incidence of staphylococcal infections in humans. 
+
+A further objective of the study was to determine the presence of staphylococcal virulence genes that 
+include  enterotoxin  genes,  exfoliative  genes  and  collagen  adhesin  (cna)  genes  using  specific  PCR 
+analysis.  Enterotoxin  genes  are  known  to  be  the  major  virulence  factors  of  S.  aureus  and  therefore 
+responsible for most of the pathogenicity observed in humans, especially when the pathogen is consumed 
+in food products [18]. These toxins are known to modulate immune response through super antigen 
+activity and various diseases caused by strains that produce them [73]. 
+
+Previous reports designed to detect these toxin genes (enterotoxins, eta and etb genes) in S. aureus 
+revealed great diversity of these genes among isolates from different areas [74,75]. Despite the fact that 
+in  the  present  study  32%  of  isolates  tested  possessed  the  sec  gene,  none  of  the  other  virulence 
+determinants were detected.  This is not very surprising since the sec gene has been previously reported 
+to be the most prevalent virulence factor among S. aureus isolates [75,76]. However, the detection of S. 
+aureus strains that harbour the sec virulence gene indicates that these isolates have the potential to cause 
+either sporadic cases or food borne outbreaks of infections [68]. 
+
+Similar to previous reports, none of the eta, etb and cna virulence genes were detected in this 
+study [57,77]. In S. aureus, the exfoliative toxin genes are associated with bullous impetigo [78] 
+while the collagen adhesin protein (cna) gene mediates the binding of clinical isolates to host specific 
+matrix [73]. The cna gene is frequently associated with clinical S. aureus isolates, although it has 
+also been detected in isolates from both food and environmental sources [75]. Moreover, the cna 
+gene product is not easily detected S. aureus strains by PCR analysis [79]. 
+
+In the present study, isolates were assayed for other putative virulence factors including haemolytic 
+activity,  the  presence  of  the  coagulase  enzyme  and  DNase  production  that  enhance  the  pathogenic 
+characteristics of S. aureus isolates [80]. All the isolates were positive for coagulase activity, which enables 
+ 
+
+Int. J. Environ. Res. Public Health 2015, 12 
+ 
+them to promote the clotting of fibrin in the blood stream and this is a mechanism by which pathogens 
+protect themselves from destruction during infection [81]. It is therefore suggested that these isolates may 
+present health complications to humans if consumed in contaminated milk or its associated products. 
+
+10269 
+
+5. Conclusions 
+
+In the present study, S. aureus was successfully isolated from milk samples and a large proportion of 
+S. aureus isolates exhibited resistance towards the 11 different antibiotics tested. Thus, it is evident that 
+most of the isolates possessed multiple antibiotic resistance (MAR) attributes. Though the development 
+of antibiotic resistant determinants in S. aureus is associated with the uncontrolled usage of antibiotics 
+in human and veterinary medicine, the incidence of drug-resistant S. aureus in raw, tank and pasteurised 
+milk samples warrants closer monitoring. 
+
+The MAR isolates obtained in this study possessed a number of virulence factors such as haemolysin, 
+coagulase, DNase, catalase, but only few of them carried the enterotoxin gene (sec). This supports the 
+notion that though the epidemiological statistics of milk-borne diseases are unavailable, milk products 
+possess pathogenic S. aureus strains and may be cause foodborne diseases in consumers. In addition, the 
+sec gene was found to be the predominant enterotoxin gene in this genetically diverse South African 
+milk isolates and the presence of this gene is not genotype specific. 
+
+Acknowledgments 
+
+This study was funded by the North-West University, Mafikeng Campus, South Africa. We would 
+like to thank the University of Pretoria—South Africa and NRF for their assistance with MALDI-TOF 
+mass spectrometry analysis. 
+
+Author Contributions 
+
+CNA  designed  the  concept;  MA  performed  the  laboratory  experiments;  CNA  supervised  the 
+
+laboratory bench work; OOB, MA and CNA all participated in writing the manuscript. 
+
+Conflicts of Interest 
+
+The authors declare no conflict of interest. 
+
+References 
+
+1.  Swaisgood,  H.E.  Protein  and  amino  acid  composition  of  bovine  milk.  In  Handbook  of  Milk 
+
+Composition. Jensen, R.C. Ed.; Academic Press: London, UK, 1995; pp. 464–467. 
+
+2.  Haug, A.; Hostmark, A.T.; Harstad, O.M. Bovine milk in human nutrition—A review. Lipids Health 
+
+Dis. 2007, 6, 1–16. 
+
+3.  Ebringer,  L.;  Ferenčík,  M.;  Krajčovič,  J.  Beneficial  health  effects  of  milk  and  fermented  dairy 
+
+products—Review. Folia Microbiol. 2008, 53, 378–394. 
+
+4.  Michaelidou, A.M. Factors influencing nutritional and health profile of milk and milk products. 
+
+Small Rumin. Res. 2008,79, 42–50. 
+
+ 
+
+Int. J. Environ. Res. Public Health 2015, 12 
+ 
+5. 
+
+Jørgensen, H.J.; Mørk, T.; Høgasen, H.R.; Rørvik, L.M. Enterotoxigenic Staphylococcus aureus in 
+bulk milk in Norway. J. Microb. Biotechnol. 2005, 99, 158–166. 
+
+10270 
+
+6.  Havelaar,  A.H.;  Brul,  S.;  de  Jong,  A.;  de  Jonge,  R.;  Zwietering,  M.H.;  Ter  Kuile,  B.H.  Future 
+
+challenges to microbial food safety. Int. J. Food Microbiol. 2010, 139, S79–S94. 
+
+7.  Newell, D.G.; Koopmans, M.; Verhoef, L.; Duizer, E.; Aidara-Kane, A.; Sprong, H.; Opsteegh, M.; 
+Langelaar, M.; Threfall, J.; Scheutz, F.; et al. Food-borne diseases—The challenges of 20 years ago 
+still persist while new ones continue to emerge. Int. J. Food Microbiol. 2010,139, S3–S15. 
+
+8.  Normanno, G.; La Salandra, G.; Dambrosio, A.; Quaglia, N.; Corrente, M.; Parisi, A.; Santagada, G.; 
+Firinu,  A.;  Crisetti,  E.;  Celano,  G.  Occurrence,  characterization  and  antimicrobial  resistance  of 
+enterotoxigenic Staphylococcus aureus isolated from meat and dairy products. Int. J. Food Microbiol. 
+2007, 115, 290–296. 
+
+9.  Huong, B.T.M.; Mahmud, Z.H.; Neogi, S.B.; Kassu, A.; Nhien, N.V.; Mohammad, A.; Yamato, M.; 
+Ota, F.; Lam, N.T.; Dao, H.T.A. Toxigenicity and genetic diversity of Staphylococcus aureus isolated 
+from Vietnamese ready-to-eat foods. Food Control 2010, 21, 166–171. 
+
+10.  Evans, C.A.; Smith, W.M.; Johnston, E.A.; Giblett, E.R. Bacterial Flora of the Normal Human Skin. 
+
+J. Invest. Dermatol. 1950, 15, 305–324. 
+
+11.  Neely, A.N.; Maley, M.P. Survival of enterococci and staphylococci on hospital fabrics and plastic. 
+
+J. Cli. Microbiol. 2000, 38, 724–726. 
+
+12.  Rasmussen, T.; Kirkeby, L.; Poulsen, K.; Reinholdt, J.; Kilian, M. Resident aerobic microbiota of 
+
+the adult human nasal cavity. APMIS 2000, 108, 663–675. 
+
+13.  Guardabassi,  L.;  Schwarz,  S.;  Lloyd,  D.H.  Pet  animals  as  reservoirs  of  antimicrobial-resistant 
+
+bacteria Review. J. Antimicrob. Chemother. 2004, 54, 321–332. 
+
+14.  Westh,  H.;  Zinn,  C.S.;  Rosdahl,  V.T.  An  international  multicenter  study  of  antimicrobial 
+consumption and resistance in Staphylococcus aureus isolates from 15 hospitals in 14 countries. 
+Microb. Drug Resist. 2004, 10, 169–176. 
+
+15.  Nagase, N.; Sasaki, A.; Yamashita, K.; Shimizu, A.; Wakita, Y.; Kitai, S.; Kawano, J. Isolation and 
+species distribution of staphylococci from animal and human skin. J. Vet. Med. Sci. 2002, 64, 245–250. 
+16.  Lee, J.H. Methicillin (oxacillin)-resistant Staphylococcus  aureus strains  isolated  from  major  food 
+animals and their potential transmission to humans. Appl. Environ. Microbiol. 2003, 69, 6489–6494. 
+17.  van Duijkeren, E.; Box, A.; Heck, M.; Wannet, W.; Fluit, A. Methicillin-resistant staphylococci 
+
+isolated from animals. Vet. Microbiol. 2004, 103, 91–97. 
+
+18.  Le Loir, Y.; Baron, F.; Gautier, M. Staphylococcus aureus and food poisoning. Genet. Mol. Res. 
+
+2003, 2, 63–76. 
+
+19.  Lina, G.; Piémont, Y.; Godail-Gamot, F.; Bes, M.; Peter, M.O.; Gauduchon, V.; Vandenesch, F.; 
+Etienne,  J.  Involvement  of  panton-valentine  leukocidin—Producing  Staphylococcus  aureus  in 
+primary skin infections and pneumonia. Genet. Mol. Res. 1999, 29, 1128–1132. 
+
+20.  Hageman,  J.C.;  Uyeki,  T.M.;  Francis,  J.S.;  Jernigan,  D.B.;  Wheeler,  J.G.;  Bridges,  C.B.; 
+Barenkamp,  S.J.;  Sievert,  D.M.;  Srinivasan,  A.;  Doherty,  M.C.  Severe  community-acquired 
+pneumonia due to Staphylococcus aureus, 2003–04 influenza season. Emerg. Infect. Dis. 2006, 12, 
+894–899. 
+
+ 
+
+Int. J. Environ. Res. Public Health 2015, 12 
+ 
+21.  Spanu, V.; Spanu, C.; Virdis, S.; Cossu, F.; Scarano, C.; de Santis, E.P.L. Virulence factors and 
+genetic variability of Staphylococcus aureus strains isolated from raw sheep’s milk cheese. Int. J. 
+Food Microbiol. 2012, 153, 53–57. 
+
+10271 
+
+22.  Vázquez-Sánchez, D.; López-Cabo, M.; Saá-Ibusquiza, P.; Rodríguez-Herrera, J.J. Incidence and 
+characterization  of  Staphylococcus  aureus  in  fishery  products  marketed  in  Galicia  (Northwest 
+Spain). Int. J. Food Microbiol. 2012, 157, 286–296. 
+
+23.  Angulo, F.; Nargund, V.; Chiller, T. Evidence of an Association between Use of Anti-microbial 
+Agents in Food Animals and Anti-Microbial Resistance among Bacteria Isolated from Humans and 
+the Human Health Consequences of Such Resistance. J. Vet. Med. 2004, 51, 374–379. 
+
+24.  Phillips, I.; Casewell, M.; Cox, T.; de Groot, B.; Friis, C.; Jones, R.; Nightingale, C.; Preston, R.; 
+Waddell, J. Does the use of antibiotics in food animals pose a risk to human health? A critical review 
+of published data. J. Antimicrob. Chemother. 2004, 53, 28–52. 
+
+25.  Carmeli,  Y.;  Troillet,  N.;  Karchmer,  A.W.;  Samore,  M.H.  Health  and  economic  outcomes  of 
+
+antibiotic resistance in Pseudomonas aeruginosa. Arch. Intern. Med. 1999, 159, 1127–1132. 
+
+26.  Cosgrove, S.E. The relationship between antimicrobial resistance and patient outcomes: Mortality, 
+
+length of hospital stay, and health care costs. Genet. Mol. Res. 2006, 42, S82–S89. 
+
+27.  Hsueh, P.R.; Chen, W.H.; Luh, K.T. Relationships between antimicrobial use and antimicrobial 
+resistance in Gram-negative bacteria causing nosocomial infections from 1991–2003 at a university 
+hospital in Taiwan. Int. J. Antimicrob. Agents 2005, 26, 463–472. 
+
+28.  Rogues,  A.M.;  Dumartin,  C.;  Amadéo,  B.;  Venier,  A.G.;  Marty,  N.;  Parneix,  P.;  Gachie,  J.P. 
+Relationship  between  rates  of  antimicrobial  consumption  and  the  incidence  of  antimicrobial 
+resistance  in  Staphylococcus  aureus  and  Pseudomonas  aeruginosa  isolates  from  47  French 
+hospitals. Infect. Control. Hosp. Epidemiol. 2007, 28, 1389–1395. 
+
+29.  Sapkota,  A.R.;  Lefferts,  L.Y.;  McKenzie,  S.;  Walker,  P.  What  do  we  feed  to  food-production 
+animals? A review of animal feed ingredients and their potential impacts on human health. Environ. 
+Health Perspect. 2007, 663–670. 
+
+30.  Silbergeld,  E.K.;  Graham,  J.;  Price,  L.B.  Industrial  food  animal  production,  antimicrobial 
+
+resistance, and human health. Annu. Rev. Public Health 2008, 29, 151–169. 
+31.  Jevsons, M.P. Celbenin-resistant staphylococci. Br. Med. J. 1961, 1, 24–25. 
+32.  Lim,  D.;  Strynadka,  N.C.  Structural  basis  for  the  β-lactam  resistance  of  PBP2a  from  
+
+methicillin-resistant Staphylococcus aureus. Nat. Struct. MolBiol. 2002, 9, 870–876. 
+
+33.  Fuda,  C.;  Suvorov,  M.;  Vakulenko,  S.B.;  Mobashery,  S.  The  basis  for  resistance  to  β-lactam 
+antibiotics by penicillin-binding protein 2a of methicillin-resistant Staphylococcus aureus. J. Biol. 
+Chem. 2004, 279, 40802–40806. 
+
+34.  Tenover,  F.C.;  Weigel,  L.M.;  Appelbaum,  P.C.;  McDougal,  L.K.;  Chaitram,  J.;  McAllister,  S.; 
+Clark,  N.;  Killgore,  G.;  O’Hara,  C.M.;  Jevitt,  L.  Vancomycin-resistant  Staphylococcus  aureus 
+isolate from a patient in Pennsylvania. Antimicrob. Agents and Chemother. 2004, 48, 275–280. 
+
+35.  Ateba,  C.N.;  Mbewe,  M.;  Moneoang,  M.S.;  Bezuidenhout,  C.C.  Antibiotic-resistant 
+Staphylococcus  aureus  isolated  from  milk  in  the  Mafikeng  Area,  North  West  province,  South 
+Africa. S. Afr. J. Sci. 2010, 106, 1–6. 
+
+ 
+
+ 
+
+ 
+
+Int. J. Environ. Res. Public Health 2015, 12 
+ 
+36.  Chakraborty, S.P.; KarMahapatra, S.; Bal, M.; Roy, S. Isolation and Identification of Vancomycin 
+Resistant  Staphylococcus  aureus  from  Post  Operative  Pus  Sample.  Available  online: 
+http://ajms.alameenmedical.org/ArticlePDFs/AJMS.4.2.2011%20p%20152-168.pdf  (assessed  on 
+18 August 2015). 
+
+10272 
+
+37.  Map  of 
+
+the  North-West  Province.  Available  online:  http://www.places.co.za/maps/ 
+
+north_west_map.html (accessed on 22 August 2015). 
+
+38.  Bergdoll, M.S.; Wong, A.L. Staphylococcus. In Encyclopedia of Food Science, Food Technology 
+and Nutrition, Macrae, R., Robinsons, R., Michele, S., Eds.; Academic Press Inc.: New York, NY, 
+USA, 1993; pp. 5551–5556. 
+
+39.  Sperber, W.A.; Moorman, M.A.; Freier, T.A. Cultural Methods for the Enrichment and Isolation of 
+Microorganisms.  In  Compendium  of  Methods  for  the  Microbiological  Examination  of  Foods; 
+Downes, F.P., Ito, K., Eds.; American Public Health Association: Washington DC, USA, 2001. 
+
+40.  Pelisser, M.R.; Klein, C.S.; Ascoli, K.R.; Zotti, T.R.; Arisi, A.C.M. Ocurrence of Staphylococcus 
+aureus  and  multiplex  pcr  detection  of  classic  enterotoxin  genes  in  cheese  and  meat  products.  
+Braz. J. Microbiol. 2009, 40, 145–148. 
+
+41.  Cruickshank,  R.;  Duguid,  J.P.;  Marmion,  B.R.;  Swain,  R.H.  Medical  Microbiology,  12th  ed.; 
+
+Churchill-Living Stone: London, UK, 1975. 
+
+42.  Winn, W.C.; Stephen, A.; Janda, W.; Koneman, E.; Procop, G.; Schreckenberger, P.; Woods, G. 
+Koneman’s Color Atlas and Textbook of Diagnostic Microbiology; Lippincott Williams & Wilkins: 
+Philadelphia, PA, USA, 2006. 
+
+43.  Thomas, M. A blue peroxide slide catalase test. Mon. Bull. Minist. Health 1963, 22, 124–125. 
+44.  Turkyilmaz, S.; Kaya, O. Determination of some virulence factors in Staphylococcus spp. isolated 
+
+from various clinical samples. Turk. J. Vet. Anim. Sci. 2006, 30, 127–132. 
+
+45.  Løvseth, A.; Loncarevic, S.; Berdal, K. Modified multiplex PCR method for detection of pyrogenic 
+
+exotoxin genes in staphylococcal isolates. J. Clin. Microbiol. 2004, 42, 3869–3872. 
+
+46.  Maes, N.; Magdalena, J.; Rottiers, S.; de Gheldre, Y., Struelens, M. Evaluation of a triplex PCR 
+assay to discriminate Staphylococcus aureus from coagulase-negative staphylococci and determine 
+methicillin resistance from blood cultures. J. Clin. Microbiol. 2002, 40, 1514–1517. 
+
+47.  Peles,  F.;  Wagner,  M.;  Varga,  L.;  Hein,  I.;  Rieck,  P.;  Gutser,  K.;  Keresztúri,  P.;  Kardos,  G.; 
+Turcsányi, I.; Béri, B. Characterization of Staphylococcus aureus strains isolated from bovine milk 
+in Hungary. Int. J. Food Microbiol. 2007, 118, 186–193. 
+
+48.  Mehrotra, M.; Wang, G.; Johnson, W.M. Multiplex PCR for Detection of Genes for Staphylococcus 
+aureus  Enterotoxins,  Exfoliative  Toxins,  Toxic  Shock  Syndrome  Toxin  1,  and  Methicillin 
+Resistance. J. Clin. Microbiol. 2000, 38, 1032–1035. 
+
+49.  Montanaro, L.; Renata Arciola, C.; Baldassarri, L.; Borsetti, E. Presence and expression of collagen 
+adhesin  gene  (cna)  and  slime  production  in  Staphylococcus  aureus  strains  from  orthopaedic 
+prosthesis infections. Biomaterials 1999, 20, 1945–1949. 
+
+50.  Bauer,  A.W.  Kirby,  W.M.;  Sherris,  J.C.;  Turck,  M.  Antibiotic  susceptibility  testing  by  a 
+
+standardized single disk method. Am. J. Clin. Pathol. 1996, 45, 493–496. 
+
+51.  Performance  Standards  for  Antimicrobial  Susceptibility  Testing;  17th  Supplement,  Approved 
+http//www.microbiolab-bg.com/wp-
+
+Standard 
+content/uploads/2015/05/CLSI.pdf (accessed on 22 August 2015). 
+
+(M100-S17). 
+
+2007.  Available 
+
+online: 
+
+ 
+
+Int. J. Environ. Res. Public Health 2015, 12 
+ 
+52.  Rota, C.; Yanguela, J.; Blanco, D.; Carramilana, J.J.; Arino, A.; Herrera, A. High prevalence of 
+multiple  resistance  to  antibiotics  in  144  listeria  isolates  from  Spanish  dairy  and  meat  products.  
+J. Food Prot. 1996, 59, 938–943. 
+
+10273 
+
+53.  Løvseth, A.; Loncarevic, S.; Berdal, K. Modified multiplex PCR method for detection of pyrogenic 
+
+exotoxin genes in staphylococcal isolates. J. Clin. Microbiol. 2004, 42, 3869–3872. 
+
+54.  Jones,  T.F.;  Kellum,  M.E.;  Porter,  S.S.;  Bell,  M.;  Schaffner,  W.  An  outbreak  of  
+community-acquired  foodborne  illness  caused  by  methicillin-resistant  Staphylococcus  aureus. 
+Emerg. Infect. Dis. 2002, 8, 82–84. 
+
+55.  O’Ferrall-Berndt, M. A comparison of selected public health criteria in milk from milk-shops and 
+
+from a national distributor. J. S. Afr. Vet. Assoc. 2003, 74, 35–40. 
+
+56.  Akineden, Ö.; Hassan, A.A.; Schneider, E.; Usleber, E. Enterotoxigenic properties of Staphylococcus 
+
+aureus isolated from goats’ milk cheese. Int. J. Food Microbiol. 2008, 124, 211–216. 
+
+57.  Argudin,  M.;  Tenhagen,  B.A.;  Fetsch,  A.;  Sachsenröder,  J.;  Käsbohrer,  A.;  Schroeter,  A.;  
+Hammerl, J.A.; Hertwig, S.; Helmuth, R.; Bräunig, J. Virulence and resistance determinants of 
+German Staphylococcus aureus ST398 isolates from nonhuman sources. Appl. Environ. Microbiol. 
+2011, 77, 3052–3060. 
+
+58.  Intrakamhaeng,  M.;  Komutarin,  T.;  Pimpukdee,  K.;  Aengwanich,  W. 
+
+Incidence  of  
+enterotoxin-producing MRSA in bovine mastitis cases, bulk milk tanks and processing plants in 
+Thailand. J. Anim. Vet. Adv. 2012, 11, 655–661. 
+
+59.  Kamal,  R.M.;  Bayoumi,  M.A.;  Abd  El  Aal,  S.F.A.  MRSA  detection  in  raw  milk,  some  dairy 
+
+products and hands of dairy workers in Egypt, a mini-survey. Food Control 2013, 33, 49–53. 
+
+60.  Zouharova, M.; Rysanek, D. Multiplex PCR and RPLA Identification of Staphylococcus aureus 
+
+enterotoxigenic strains from bulk tank milk. Zoonoses Public Health 2008, 55, 313–319. 
+
+61.  Mirzaei,  H.;  Tofighi,  A.;  Sarabi,  H.K.;  Farajli,  M.  Prevalence  of  Methicillin-Resistant 
+Staphylococcus aureus in Raw Milk and Dairy Products in Sarab by Culture and PCR Techniques. 
+J. Anim. Vet. Adv. 2011, 10, 3107–3111. 
+
+62.  Pereira, V.; Lopes, C.; Castro, A.; Silva, J.; Gibbs, P.; Teixeira, P. Characterization for enterotoxin 
+production, virulence factors, and antibiotic susceptibility of Staphylococcus aureus isolates from 
+various foods in Portugal. Food Microbiol. 2009, 26, 278–282. 
+
+63.  Gücükoğlu,  A.;  Onur  Kevenk,  T.;  Uyanik,  T.;  Çadirci,  Ö.;  Terzi,  G.;  Alişarli,  M.  Detection  of 
+enterotoxigenic Staphylococcus aureus in raw milk and dairy products by multiplex PCR. J. Food 
+Sci. 2012, 77, M620–M623. 
+
+64.  Andrighetto, C.; Knijff, E.; Lombardi, A.; Torriani, S.; Vancanneyt, M.; Kersters, K.; Swings, J.; 
+Dellaglio, F. Phenotypic and genetic diversity of enterococci isolated from italian cheeses. J. Dairy 
+Res. 2001, 68, 303–316. 
+
+65.  Pesavento, G.; Ducci, B.; Comodo, N. Antimicrobial resistance profile of Staphylococcus aureus 
+isolated from raw meat: A research for methicillin resistant Staphylococcus aureus (MRSA). Food 
+Control 2007, 18, 196–200. 
+
+66.  Ito,  T.;  Okuma,  K.;  Ma,  X.X.;  Yuzawa,  H.;  Hiramatsu,  K.  Insights  on  antibiotic  resistance  of 
+Staphylococcus aureus from its whole genome: Genomic island SCC. Drug Resist. Updat. 2003,  
+6, 41–52. 
+
+ 
+
+Int. J. Environ. Res. Public Health 2015, 12 
+ 
+67.  Yamamoto,  T.;  Hung,  W.C.;  Takano,  T.;  Nishiyama,  A.  Genetic  nature  and  virulence  of 
+
+10274 
+
+community-associated methicillin-resistant Staphylococcus aureus. BioMedicine 2013, 3, 2–18. 
+
+68.  Kérouanton, A.; Hennekinne, J.; Letertre, C.; Petit, L.; Chesneau, O.; Brisabois, A.; de Buyser, M. 
+Characterization  of  Staphylococcus  aureus  strains  associated  with  food  poisoning  outbreaks  in 
+France. Int. J. Food Microbiol. 2007, 115, 369–375. 
+
+69.  Boerlin, P.; Burnens, A.P.; Frey, J.; Kuhnert, P.; Nicolet, J. Molecular epidemiology and genetic 
+linkage of macrolide and aminoglycoside resistance in Staphylococcus intermedius of canine origin. 
+Vet. Microbiol. 2001, 79, 155–169. 
+
+70.  Aydin, A.; Sudagidan, M.; Muratoglu, K. Prevalence of staphylococcal enterotoxins, toxin genes 
+and genetic-relatedness of foodborne Staphylococcus aureus strains isolated in the Marmara Region 
+of Turkey. Int. J. Food Microbiol. 2011, 148, 99–106. 
+
+71.  Oliveira, D.C.; de Lencastre, H. Multiplex PCR strategy for rapid identification of structural types 
+and variants of the mec element in methicillin-resistant Staphylococcus aureus. Antimicrob. Agents 
+Chemother. 2002, 46, 2155–2161. 
+
+72.  Swenson,  J.M.;  Lonsway,  D.;  McAllister,  S.;  Thompson,  A.;  Jevitt,  L.;  Zhu,  W.;  Patel,  J.B. 
+Detection  of  mecA-mediated  resistance  using  reference  and  commercial  testing  methods  in  a 
+collection  of  Staphylococcus  aureus  expressing  borderline  oxacillin  MICs.  Diagn.  Microbiol. 
+Infect. Dis. 2007, 58, 33–39. 
+
+73.  Peacock,  S.J.;  Moore,  C.E.;  Justice,  A.;  Kantzanou,  M.;  Story,  L.;  Mackie,  K.;  O’Neill,  G.;  
+Day,  N.P.  Virulent  combinations  of  adhesin  and  toxin  genes  in  natural  populations  of 
+Staphylococcus aureus. Infect. Immun. 2002, 70, 4987–4996. 
+
+74.  Fueyo,  J.;  Martın,  M.;  Gonzalez-Hevia,  M.;  Mendoza,  M.  Enterotoxin  production  and  DNA 
+fingerprinting in Staphylococcus aureus isolated from human and food samples. Relations between 
+genetic types and enterotoxins. Int. J. Food Microbiol. 2001, 67, 139–145. 
+
+75.  Mašlanková, J.; Pilipčincová, I.; Tkáčiková, L. Pheno and genotyping of Staphylococcus aureus 
+
+isolates of sheep origin. Acta Vet. Brno. 2009, 78, 345–352. 
+
+76.  Scherrer,  D.;  Corti,  S.;  Muehlherr,  J.;  Zweifel,  C.;  Stephan,  R.  Phenotypic  and  genotypic 
+characteristics of Staphylococcus aureus isolates from raw bulk-tank milk samples of goats and 
+sheep. Vet. Microbiol. 2004, 101,101–107. 
+
+77.  Karahan, M.; Açık, M.N.; Cetinkaya, B. Investigation of toxin genes by polymerase chain reaction 
+in Staphylococcus aureus strains isolated from bovine mastitis in Turkey. Foodborne Pathog. Dis. 
+2009, 6, 1029–1035. 
+
+78.  Rogolsky, M. Non-enteric toxins of Staphylococcus aureus. Microbiol. Rev.1979, 43, 320–336. 
+79.  Zecconi,  A.;  Scali,  F.  Staphylococcus  aureus  virulence  factors  in  evasion  from  innate  immune 
+
+defenses in human and animal diseases. Immunol. Lett. 2013, 150, 12–22. 
+
+80.  Pavlov, D.; de Wet, C.M.E.; Grabow, W.O.K.; Ehlers, M.M. Potentially pathogenic features of 
+heterotrophic plate count bacteria isolated from treated and untreated drinking water. Int. J. Food 
+Microbiol. 2004, 92, 275–287. 
+
+ 
+
+ 
+
+ 
+
+Int. J. Environ. Res. Public Health 2015, 12 
+ 
+81.  Gillapsy, A.F.; Landolo, J.J. Staphylococcus. In The Desk Encyclopedia of Microbiology, 2nd ed.; 
+
+10275 
+
+Schaechter, M., Ed.; Elsevier Academic Press: San Diego, CA, USA, 2009. 
+
+©  2015  by  the  authors;  licensee  MDPI,  Basel,  Switzerland.  This  article  is  an  open  access  article 
+distributed  under 
+license 
+(http://creativecommons.org/licenses/by/4.0/). 
+
+the  Creative  Commons  Attribution 
+
+the 
+
+terms  and  conditions  of 
+
+ 
+
+

@@ -1,0 +1,650 @@
+Arch  Med Vet  47,  245-249  (2015)
+
+COMUNICACIÓN
+
+Detección de los genes mecA, mecR1 y mecI en cepas de Staphylococcus aureus resistentes 
+
+a meticilina de origen bovino aisladas en unidades de producción lechera familiar, 
+
+México#
+
+Detection of mecA, mecI and mecR1 genes in methicillin-resistant Staphylococcus aureus  
+
+strains of bovine origin isolated from Family Dairy Farms, Mexico
+
+M López-Vázqueza, JS Martínez-Castañedaa, M Talavera-Rojasa,  
+
+JJ Valdez-Alarcónb, V Velázquez-Ordóñeza*
+
+aCentro de Investigación y Estudios Avanzados en Salud Animal, Facultad de Medicina Veterinaria y Zootecnia,  
+
+Universidad Autónoma del Estado de México, Toluca, estado de México, México.
+
+bCentro Multidisciplinario de Estudios en Biotecnología, Facultad de Medicina Veterinaria y Zootecnia,  
+
+Universidad Michoacana de San Nicolás de Hidalgo, Tarímbaro, Michoacán, México.
+
+SUMMARY
+
+In Mexico, as in other countries, Staphylococcus aureus is one of the main pathogens causing bovine Mastitis. This disease is usually treated with 
+β-lactam antibiotics; however, in Mexico there are some reports of resistant Staphylococcus aureus to these antibiotics. The molecular mechanisms of 
+methicillin-resistant Staphylococcus aureus have not been widely studied yet. In this study, we identified Staphylococcus aureus isolated from bovines 
+by detecting the femB gene, while resistance to β-lactam antibiotics was determined by in vitro antimicrobial susceptibility, and the genes blaZ, mecA, 
+as well as regulator genes mecR1 and mecI, were identified by PCR. The results showed Staphylococcus aureus presenting higher resistance to β-lactam 
+antibiotics and to erythromycin. The blaZ gene was identified in only 38 isolates (44.7%). Four Staphylococcus aureus isolates carried the mecA gene 
+and were considered as methicillin-resistant Staphylococcus aureus; they were grouped as follows according to their regulator genes: one carried both 
+mecI and mecR1genes (group A); in two of them neither the mecI gene nor the mecR1 gene (PB domain) were found (group C); and one isolate did 
+not carry any regulator gene (group D). In conclusion, we identified the presence of methicillin-resistant Staphylococcus aureus and Staphylococcus 
+aureus resistant to β-lactam antibiotics in family dairy production in the State of Mexico. This resistance might be regulated by different genotypes of 
+the mecA, mecR1 and mecI genes present in methicillin-resistant Staphylococcus aureus.
+
+Key words: Staphylococcus aureus, methicillin-resistant, mecA gene, bovine.
+
+RESUMEN
+
+En México como en otros países, Staphylococcus aureus es uno de los principales patógenos causantes de mastitis bovina. El tratamiento de esta 
+enfermedad se realiza principalmente con antibióticos β-lactámicos; sin embargo, en México existen estudios de Staphylococcus aureus resistente a este 
+tipo de antibióticos, actualmente los mecanismos moleculares de Staphylococcus aureus resistente a meticilina no han sido ampliamente estudiados. En 
+este trabajo se identificó Staphylococcus aureus aislados de bovinos mediante la detección del gen femB, utilizando ambos métodos, microbiológicos 
+convencionales y moleculares. La resistencia a los antibióticos β-lactámicos fue determinada por pruebas de susceptibilidad antimicrobiana in vitro y 
+por PCR de los genes blaZ, mecA y los genes reguladores mecR1 y mecI. Los resultados mostraron una mayor resistencia de Staphylococcus aureus a los 
+antibióticos β-lactámicos y a la eritromicina, solamente 38 (44,7%) de los aislamientos fueron positivos al gen blaZ. Por otro lado, cuatro Staphylococcus 
+aureus fueron positivos al gen mecA considerados como SARM, los que por la detección de sus genes reguladores se agruparon de la siguiente forma: 
+uno fue positivo a los genes mecI y mecR1 (grupo A), dos no presentaron el gen mecI ni el dominio PB del gen mecR1 (grupo C) y uno no mostró ningún 
+gen regulador (grupo D). En conclusión, se identificó la presencia de Staphylococcus aureus resistente a la meticilina en unidades de producción lechera 
+familiar en el estado de México, y su resistencia a los antibióticos β-lactámicos. Esta resistencia podría estar regulada por diferentes genotipos de los 
+genes mecA, mecR1 y mecI presentes en Staphylococcus aureus resistente a la meticilina.
+
+Palabras clave: Staphylococcus aureus, resistencia a meticilina, gen mecA, bovino.
+
+Aceptado: 16.10.2014.
+# 
+
+Financiado por la Universidad Autónoma del Estado de México 
+(UAEM), bajo el proyecto de investigación clave 3484/2013CHT 
+y SEP-PROMEP, fortalecimiento de cuerpos académicos 2010.
+
+*  Km 15,5 Carretera Panamericana Toluca-Atlacomulco, Toluca, 
+
+estado de México, México C.P. 50200; vvo@uaemex.mx
+
+245
+
+INTRODUCCIÓN 
+
+En México la producción lechera familiar es un sis-
+tema predominante, caracterizada por la explotación del 
+ganado en pequeñas superficies, manejo tradicional no 
+tecnificado con ordeño manual; instalaciones rústicas 
+y escasas medidas de higiene1 (Méndez y Cazarín y col 
+2000); estas condiciones de las unidades de producción y 
+la mala higiene durante el ordeño contribuyen al desarrollo 
+de infecciones intramamarias; principalmente producidas 
+por Staphylococcus aureus (S. aureus) (Ávila y Gutiérrez 
+2002). Este agente patógeno es considerado como el princi-
+pal causante de la mastitis bovina en las unidades lecheras 
+familiares en diferentes regiones de México (Manjarrez y 
+col 2012, Castañeda y col 2013). Uno de los principales 
+problemas para el control de la mastitis producida por S. 
+aureus se relaciona con diferentes niveles de resistencia a 
+los antibióticos, particularmente a los β-lactámicos. Existen 
+diferentes mecanismos por los que S. aureus ha adquirido 
+resistencia a este grupo de antibióticos; uno es la hiper-
+producción de β-lactamasa, otro es la modificación de las 
+proteínas de unión a las penicilinas y resistencia intrínseca 
+a meticilina, la que ha sido ampliamente estudiada, esta 
+característica de resistencia se observa en S. aureus que 
+incorporaron a su genoma el gen mecA. Una situación que 
+actualmente constituye una alerta epidemiológica a nivel 
+mundial, debido a la emergencia de S. aureus resistente 
+a la meticilina (SARM) (Daka y col 2012, Kumar y col 
+2011). De esta forma los SARM producen una proteína 
+de unión a la penicilina denominada PBP2a, codificada 
+por el gen mecA; esta proteína mantiene la integridad de 
+la pared celular durante el crecimiento y la división de las 
+bacterias cuando las enzimas habituales son inhibidas por 
+los antibióticos β-lactámicos. La transcripción del gen mecA 
+es regulada por los genes mecR1 que codifica la proteína 
+de transducción de señal (MecR1), y mecI que codifica 
+la proteína represora de transcripción (MecI) (Hiramatsu 
+y col 2002). Además, los genes blaR1 y blaI reguladores 
+del gen blaZ que codifica para la resistencia a la penici-
+lina participan en la corregulación de la transcripción del 
+gen mecA (Lewis y Dyke 2000). La transcripción del gen 
+mecA se produce cuando la proteína MecR1 se expone a 
+los β-lactámicos con su dominio extracelular de unión a 
+penicilina (PB), activando su dominio citoplásmico (MS) 
+en forma de proteasa; a continuación se escinde la proteína 
+represora MECI, la que bloquea la región operadora del 
+gen mecA expresando la PBP2a (Zhang y col 2001). Los 
+genes mecR1 y mecI han sido identificados en S. aureus 
+de origen humano (Weller 1999, Petinaki y col 2001) y 
+bovino (Lee 2006). En México se ha identificado SARM 
+en bovinos con mastitis, pero la identificación del gen 
+
+mecA y sus elementos regulatorios mecR1 y mecI aún no 
+han sido estudiados. Por lo tanto, el objetivo de este estu-
+dio fue determinar la frecuencia de SARM que poseen el 
+gen mecA en bovinos de unidades de producción lechera 
+familiar, ubicadas en el estado de México.
+
+MATERIAL Y MÉTODOS
+
+Se realizó un muestreo estratificado en los municipios de 
+Temoaya, Tenango del Valle, Toluca y Zinacantepec, estado 
+de México. El tamaño de la muestra se calculó basándose 
+en la población de vacas lecheras2; una prevalencia del 
+23% de S. aureus (Manjarrez y col 2012), un intervalo de 
+confianza del 95% y error estimado del 5% (Thrusfield, 
+1990). El muestreo se realizó en 27 explotaciones leche-
+ras caracterizadas por un tamaño de 6-25 vacas, manejo 
+tradicional y ordeño manual. Se recolectaron 302 mues-
+tras de leche, las que se obtuvieron de los cuatro cuartos 
+glandulares de manera aséptica (NMC 1999), procedente 
+de vacas en diferentes etapas de lactación y número de 
+parto, sin signos de mastitis.
+
+Para el aislamiento de S. aureus las muestras se inocu-
+laron en placas de agar sangre (BD Bioxon, México) y agar 
+sal manitol (BD Bioxon, México), a 37 °C por 24 horas. 
+La identificación fenotípica se basó en las características 
+morfológicas  de  las  colonias  (Bautista-Trujillo  y  col 
+2013) y en los resultados de las pruebas de coagulasa, 
+catalasa y tinción de Gram. La confirmación de S. aureus 
+se llevó a cabo por PCR mediante la detección del gen 
+femB (cuadro 1). Como cepas controles se utilizaron: S. 
+aureus ATCC 25923 y S. epidermidis ATCC 12228. La 
+sensibilidad in vitro se realizó por el método de difusión 
+en disco, empleando los siguientes antibióticos (Bio-Rad, 
+México): Penicilina, Ampicilina, Oxacilina, Cefoxitina, 
+Amoxicilina/Ácido clavulánico, Gentamicina, Tetraciclina, 
+Eritromicina, Trimetoprim-sulfametoxazol, Cefalotina, 
+Cefuroxima, Cefotaxima, Ceftazidima. Los aislamientos 
+resistentes a oxacilina se sometieron a la prueba de oxa-
+cillin agar screen (CLSI 2012). 
+
+Se determinaron los genes blaZ (Schnellmann y col 
+2006) y mecA (Kobayashi y col 1994) (cuadro 1). Las 
+cepas positivas al gen mecA se sometieron a una PCR para 
+detectar los genes mecR1 y mecI. Se utilizaron los partidores 
+mecR1A para el dominio citoplásmico (MS) y mecR1B para 
+el dominio de unión a la penicilina (PB) del gen mecR1 
+(Kobayashi y col 1996). La mezcla de reacción de la PCR 
+consistió en 100 ng de ADN, 200 µM de cada dNTP, 10 
+µM de los partidores excepto para los partidores femB 13 
+µM, 1U de GoTaq® Flexi DNA Polymerase (Promega, 
+USA), 1,5 mM de MgCl2 y Buffer 10X, las condiciones 
+de amplificación están indicadas en el cuadro 1. Se utilizó 
+
+1  Méndez y Cazarín MD, RT Rascón, DV Arreola. 2000. Evaluación 
+productiva, de efecto ambiental y de problemas relevantes en explo-
+taciones lecheras de pequeña escala. Livest Res Rural Dev 12:http://
+www.cipav.org.co/lrrd/lrrd12/1/manu121.htm.
+
+2 
+
+INEGI, Instituto Nacional de Estadística Geografía e Informática. 
+Estados Unidos Mexicanos. 2007. Censo Agropecuario. http://www3.
+inegi.org.mx/sistemas/tabuladosbasicos/default.aspx?c=17177&s=est. 
+(Agosto 2011)
+
+246
+
+LÓPEZ-VÁZQUEZ Y COLCuadro 1.  Secuencias de los partidores utilizados en la PCR y condiciones de amplificación.
+ 
+
+Sequences of the primers used for PCR and amplification conditions.
+
+Secuencia de nucleótidos (5’à3’)
+
+Tamaño am-
+plicón (pb)
+
+Condiciones de amplificación 
+
+Referencia
+
+533
+
+651
+
+310
+
+236
+
+481
+
+772
+
+Desnaturalización inicial: 94 °C 
+
+por 5 min; desnaturalización 
+94 °C por 1 min; alineación: 
+55 °C por 1 min; extensión: 
+
+72 °C por 2 min 30 ciclos, y ex-
+tensión final a 72 °C por 7 min.
+
+Desnaturalización inicial: 94 °C 
+
+por 5 min; desnaturalización 
+97 °C por 1 min; alineación: 
+57 °C por 1 min; extensión: 
+72 °C por 2 min 30 ciclos, y  
+extensión final a 72 °C por  
+
+7 min.
+
+Desnaturalización inicial: 94 °C 
+
+por 3 min; desnaturalización 
+94 °C por 1 min; alineación: 
+50 °C por 1 min; extensión: 
+72 °C por 1 min 30 ciclos, y  
+extensión final a 72 °C por  
+
+5 min. 
+
+Kobayashi y col 
+
+(1994)
+
+Kobayashi y col 
+
+(1996)
+
+Schnellmann y 
+
+col ( 2006)
+
+prueba de oxacillin agar screen se obtuvieron 13 aislados 
+positivos, los que podrían ser candidatos a SARM. Los 13 
+aislados fueron analizados por PCR para la identificación 
+del gen mecA, los resultados de la PCR indicaron que 
+la prueba de sensibilidad in vitro fue más eficiente para 
+identificar aislados SARM porque los cuatro aislados 
+candidatos seleccionados por esta prueba fueron los únicos 
+que presentaron amplificación del gen mecA. 
+
+La resistencia a los antibióticos β-lactámicos por S. 
+aureus fue concordante con lo informado por Ochoa-
+Zarzosa y col (2008) y Daka y col (2012); sin embargo, 
+los perfiles de estos antibióticos fueron diferentes en los 
+tres estudios, mientras que Ochoa-Zarzosa y col (2008) 
+observaron que todos sus aislados de S. aureus fueron re-
+sistentes a ampicilina, ceftazidima y penicilina. Daka y col 
+(2012) observaron una mayor resistencia a los antibióticos 
+β-lactámicos, eritromicina y vancomicina. 
+
+En algunos estudios se ha informado que aislados de 
+S. aureus sensibles a los antibióticos β-lactámicos portan 
+el gen mecA; por lo tanto, para determinar si aislados de 
+S. aureus sensibles a los antibióticos β-lactámicos y los 
+resistentes a los mismos portaban el gen mecA, la prueba 
+de PCR se realizó en los 85 aislados de este estudio, y 
+los resultados indicaron que solo aquellos aislados re-
+sistentes fueron positivos a este gen. Solo en tres de los 
+cuatro SARM identificados el gen mecR1 fue positivo, y 
+de estos solo en uno amplificaron las dos regiones y solo 
+en dos amplificó únicamente la región citoplasmática. Las 
+PCR fueron valoradas utilizando como control la cepa 
+
+247
+
+Gen
+
+mecA
+
+femB
+
+mecR1A
+(dominio 
+
+MS)
+
+mecR1B
+(dominio 
+
+PB)
+mecI
+
+Sentido: AAAATCGATGGTAAAGGTTGGC
+
+Antisentido: AGTTCTGCAGTACCGGATTTGC
+
+Sentido:TTACAGAGTTAACTGTTACC 
+
+Antisentido: ATACAAATCCAGCACGCTCT
+
+Sentido:GTCTCCACGTTAATTCCATT
+
+Antisentido:GTCGTTCATTAAGATATGACG
+
+Sentido:AAGCACCGTTACTATCTGCACA
+
+Antisentido:GAGTAAATTTTGGTCGAATGCC
+
+Sentido:AATGGCGAAAAAGCACAACA
+
+Antisentido: GACTTGATTGTTTCCTCTGTT
+
+blaZ
+
+Sentido: CAGTTCACATGCCAAAGAG
+Antisentido:TACACTCTTGGCGGTTTC
+
+la cepa control S. aureus ATCC 43300. La clasificación 
+de los genes reguladores se realizó de acuerdo con Suzuki 
+y col (1993), donde los SARM fueron agrupados con 
+relación a la detección de los genes: grupo A, aquellos 
+que contenían los genes reguladores; grupo B, los que 
+no portaron el gen mecI; grupo C, donde el gen mecI y el 
+dominio PB del gen mecRI estaban suprimidos y grupo 
+D, aquellos que carecieron de los genes reguladores. Los 
+resultados fueron evaluados mediante la prueba de T con 
+el paquete estadístico IBM SPSS Statistics versión 20.
+
+RESULTADOS Y DISCUSIÓN 
+
+De las 302 muestras de leche obtenidas solo en 85 
+(28,1%) se obtuvo aislamientos de S. aureus; mediante 
+pruebas bacteriológicas todos los aislados fueron positivos 
+al gen femB. La frecuencia de S. aureus obtenida en este 
+estudio fue concordante con la frecuencia de aislamientos 
+de S. aureus en condiciones semejantes en otras regiones 
+de México (Manjarrez y col 2012, Ochoa-Zarzosa y col 
+2008). Para identificar SARM utilizamos la prueba de 
+sensibilidad in vitro y la prueba de oxacillin agar screen; 
+los perfiles obtenidos en la primera prueba se muestran en 
+el cuadro 2; brevemente, en relación con la resistencia para 
+antibióticos β-lactámicos 38 (44,7%) fueron resistentes a 
+penicilina, de estos 17 (20%) también fueron resistentes 
+a oxacilina y solo 4 (4,7%) fueron también resistentes a 
+cefoxitina, por tanto estos cuatro aislados fueron seleccio-
+nados como candidatos a ser SARM; mientras que en la 
+
+Staphylococcus aureus, RESISTENCIA A METICILINA, GEN MECA, BOVINOCuadro 2.  Sensibilidad in vitro a los antibióticos de Staphylococcus aureus.
+ 
+
+In vitro sensitivity to antibiotics of Staphylococcus aureus.
+
+Antibióticos 
+
+No. (%) aislamientos sensibles 
+
+No. (%) aislamientos 
+
+intermedios 
+
+No. (%) aislamientos 
+
+resistentes 
+
+Penicilinad
+Oxacilinae
+Cefoxitinaa
+Ampicilinaf
+Amoxicilina/ácido clavulanicob
+Cefotaximag
+Ceftazidimah
+Cefuroximab
+Cefalotinab
+Gentamicinaac
+Eritromicinai
+Tetraciclinaj
+Trimetoprim-sulfametoxazolc
+
+47 (55,3)
+62 (73,0)
+81 (95,3)
+42 (49,4)
+76 (89,4)
+49 (57,7)
+1 (1,2)
+73 (85,9)
+75 (88,2)
+81 (95,4)
+26 (30,6)
+58 (68,2)
+85 (100,0)
+
+Las literales desiguales tienen diferencias estadísticas significativas (P < 0,05).
+Los antibióticos β-lactámicos están marcados en negritas.
+
+0 (0)
+6 (7,0)
+0 (0)
+0 (0)
+0 (0)
+
+12 (14,1)
+6 (7,0)
+2 (2,3)
+4 (4,8)
+2 (2,3)
+21 (24,7)
+2 (2,3)
+0 (0)
+
+38 (44,7)
+17 (20,0)
+4 (4,7)
+43 (50,6)
+9 (10,6)
+24 (28,2)
+78 (91,8)
+10 (11,8)
+6 (7,0)
+2 (2,3)
+38 (44,7)
+25 (29,5)
+
+0 (0)
+
+Cuadro 3.  Identificación de los genes reguladores en cepas de Staphylococcus aureus resistentes a meticilina.
+ 
+
+Identification of regulatory genes in methicillin-resistant Staphylococcus aureus strains.
+
+Cepa
+
+ATCC43300
+25
+15
+113
+20
+
+Producto de PCR
+
+mecA
+
+mecR1A(MS)
+
+mecR1B(PB)
+
+mecI
+
+Clasificación*
+
++
++
++
++
++
+
++
++
++
++
+–
+
++
++
+–
+–
+–
+
++
++
+–
+–
+–
+
+A
+A
+C
+C
+D
+
+(+)Presencia del gen; (-) ausencia del gen; *clasificación propuesta por Suzuky y col (1993).
+
+ATCC 43300 en la cual amplificaron ambas regiones. 
+En el caso del gen mecI este solo fue identificado en una 
+cepa (cuadro 3). Estos resultados coinciden con estudios 
+anteriores, donde se identificó al gen mecI en menor pro-
+porción (Weller y col 1999, Lee 2006). Felten y col (2002) 
+observaron que el 92,8% de los aislados de S. aureus que 
+portaban el gen mecR1 podría estar truncado, y no portar 
+el gen mecI; lo que podría permitir la expresión del gen 
+mecA independiente de mecRI 
+
+En este estudio, también se identificó un SARM ne-
+gativo a los genes mecR1 y mecI, este hallazgo ha sido 
+descrito por Petinaki y col (2001) y Felten y col (2002). 
+Este hallazgo indica que el gen mecA puede expresarse en 
+forma constitutiva en ausencia de los genes reguladores. 
+De esta forma la clasificación de los aislados SARM 
+que identificamos se estableció como sigue: una cepa (25%) 
+se clasificó en el grupo A, dos cepas (50%) al grupo C 
+y una (25%) al grupo D (cuadro 3). Estos resultados son 
+diferentes a los informados por Kobayashi y col (1996), 
+
+donde el 94,3% de los SARM correspondieron al grupo 
+A, el 2,5% al grupo B y D y 0,8% al grupo C. 
+
+Futuros  estudios  sobre  SARM  de  origen  animal 
+son necesarios para dilucidar su diversidad genética en 
+nuestro país. En conclusión, los SARM identificados en 
+las unidades de producción lechera familiar en el estado 
+de México muestran diferentes genotipos en cuanto a la 
+distribución de los genes mecA, mecR1 y mecI; además 
+este es el primer estudio que reporta la existencia de la 
+expresión inducida y constitutiva de la PBP2a debido a 
+diferentes genotipos en los genes reguladores del gen mecA 
+en SARM en vacas lecheras en México.
+
+AGRADECIMIENTOS
+
+Se agradece al Consejo Nacional de Ciencia y Tecnología (CONACyT) 
+por la beca otorgada a Margarita López Vázquez, con número de registro 
+becario 265008, para cursar los estudios de Maestría en el Programa de 
+Maestría y Doctorado en Ciencias Agropecuarias y Recursos Naturales 
+de la Universidad Autónoma del Estado de México (PCARN-UAEM).
+
+248
+
+LÓPEZ-VÁZQUEZ Y COLREFERENCIAS
+
+Ávila TS, CA Gutiérrez. 2002. Comparación del estado de la ubre 
+y la calidad sanitaria de la leche de vacas ordeñadas manual o 
+mecánicamente. Vet Méx 33, 387-394.
+
+Bautista-Trujillo  GU,  JL  Solorio-Rivera,  I  Rentería-Solórzano,  
+SI Carranza-Germán, JA Bustos-Martínez, RI Arteaga-Garibay,  
+VM Baizabal-Aguirre, M Cajero-Juárez, A Bravo-Patiño, JJ Valdéz-
+Alarcón. 2013. Performance of culture media for the isolation and 
+identification of Staphylococcus aureus from bovine mastitis. J Med 
+Microbiol 62, 369-376.
+
+Castañeda VH, S Jäger, W Wolter, M Zschöck, MA Castañeda Vazquez, 
+A El-Sayed. 2013. Isolation and identification of main mastitis 
+pathogens in Mexico. Arq Bras Med Vet Zootec 65, 377-382.
+
+CLSI, Clinical and Laboratory Standards Institute. 2012. Performance 
+Standards for Antimicrobial Susceptibility Testing. Twenty-second 
+Informational Supplement M100-S22. CLSI, Wayne, PA, USA.
+
+Daka D, S G/silassie, D Yihdego. 2012. Antibiotic-resistance Staphylococcus 
+aureus isolated from cow’s milk in the Hawassa area, South Ethiopia. 
+Ann Clin Microbiol Antimicrob 11, 26. 
+
+Felten  A,  B  Grandry,  PH  Lagrange,  I  Casin.  2002.  Evaluation  of 
+three techniques for detection of low-level methicillin-resistant 
+Staphylococcus  aureus (MRSA): a disk diffusion method with 
+cefoxitin and moxalactam, the vitek 2 System, and the MRSA-screen 
+latex agglutination test. J Clin Microbiol 40, 2766-2771.
+
+Hiramatsu K, Y Katayama, H Yuzawa, T Ito. 2002. Molecular genetics 
+of methicillin resistant Staphylococcus aureus. Int J Med Microbiol 
+292, 67-74.
+
+Kobayashi N, H Wu, K Kojima, K Taniguchp, S Urasawa, N Uehara, 
+Y Omizu, Y Kishi, A Yagihashi, I Kurokawa. 1994. Detection of 
+mecA, femA, and femB genes in clinical strains of Staphylococci 
+using polymerase chain reaction. Epidemiol Infect 113, 259-266.
+
+Kobayashi  N,  K  Taniguchi,  K  Kojima,  S  Urasawa,  N  Uehara,  
+Y Omizu, Y Kishi, A Yagihashi, I Kurokawa, N Watanabe. 1996. 
+Genomic diversity of mec regulator genes in methicillin resistant 
+Staphylococcus aureus and Staphylococcus epidermidis. Epidemiol 
+Infect 117, 289-295.
+
+Kumar  R,  BR  Yadav,  RS  Singh.  2011.  Antibiotic  resistance  and 
+pathogenicity factors in Staphylococcus aureus isolated from mastitic 
+Sahiwal cattle. J Biosci 36, 175-188.
+
+Lee JH. 2006. Occurrence of methicillin-resistant Staphylococcus aureus 
+strains from cattle and chicken, and analyses of their mecA, mecR1 
+and mecI genes. Vet Microbiol 114, 155-159.
+
+Lewis RA, KG Dyke. 2000. mecI represses synthesis from the beta-
+lactamase operon of Staphylococcus aureus. J Antimicrob Chemother 
+45, 139-144.
+
+Manjarrez LAM, ZS Díaz, GF Salazar, CB Valladares, CAC Gutiérrez, 
+PA Barbabosa, RM Talavera, FMU Alonso, OV Velázquez. 2012. 
+Identificación  de  biotipos  de Staphyloccocus  aureus en  vacas 
+lecheras de producción familiar con mastitis subclínica en la región 
+centro-este del Estado de México. Rev Mex Cienc Pecu 3, 265-274.
+NMC, National Mastitis Council. 1999. Laboratory handbook on bovine 
+
+mastitis. National Mastitis Council Inc 2820 Madison, USA.
+
+Ochoa-Zarzosa A, PD Loeza-Lara, F Torres-Rodríguez, H Loeza-Ángeles, 
+N  Mascot-Chiquito,  S  Sánchez-Baca,  JE  López-Meza.  2008. 
+Antimicrobial susceptibility and invasive ability of Staphylococcus 
+aureus isolates from mastitis from dairy backyard systems. Antonie 
+van Leeuwenhoek 94, 199-206.
+
+Petinaki  E,  A  Arvaniti,  G  Dimitracopoulos,  I  Spiliopoulou.  2001. 
+Detection of mecA, mecR1 and mecI genes among clinical isolates 
+of methicillin-resistant staphylococci by combined polymerase chain 
+reactions. J Antimicrob Chemother 47, 297-304.
+
+Schnellmann  C,  V  Gerber,  A  Rossano,  V  Jaquier,  Y  Panchaud,  
+MG Doherr, A Thomann, R Straub, V Perreten. 2006. Presence of 
+new mecA and mph(C) variants conferring antibiotic resistance in 
+Staphylococcus spp. isolated from the skin of horses before and after 
+clinic admission. J Clin Microbiol 44, 4444-4454.
+
+Suzuki  E,  K  Kuwahara-Arai,  JF  Richardson,  K  Hiramatsul.  1993. 
+Distribution  of mec  regulator  genes  in  methicillin-resistant 
+Staphylococcus clinical strains. Antimicrob Agents Chemother 37, 
+1219-1226.
+
+Thrusfield  M.  1990. Epidemiologia  Veterinaria.  Editorial  Acribia. 
+
+Zaragoza, España, Pp 194-195.
+
+Weller  TMA.  1999.  The  distribution  of mecA,  mecR1  and  mecI 
+and sequence analysis of mecI  and the mec  promoter region in 
+staphylococci expressing resistance to methicillin. J Antimicrob 
+Chemother 43, 15-22.
+
+Zhang HZ, CJ Hackbarth, KM Chansky, HF Chambers. 2001. A proteolytic 
+transmembrane signaling pathway and resistance to beta-lactams in 
+staphylococci. Science 291, 1962-1965. 
+
+249
+
+Staphylococcus aureus, RESISTENCIA A METICILINA, GEN MECA, BOVINO

@@ -1,0 +1,1780 @@
+ORIGINAL RESEARCH
+published: 04 December 2017
+doi: 10.3389/fmicb.2017.02254
+
+Prevalence and Antibiotic Resistance
+against Tetracycline in
+Campylobacter jejuni and C. coli in
+Cattle and Beef Meat from Selangor,
+Malaysia
+
+Jayasekara M. K. J. K. Premarathne 1, 2*, Aimi S. Anuar 1, Tze Young Thung 1,
+Dilan A. Satharasinghe 3, 4, Nuzul Noorahya Jambari 5, Noor-Azira Abdul-Mutalib 5,
+John Tang Yew Huat 6, Dayang F. Basri 7, Yaya Rukayadi 1, Yoshitsugu Nakaguchi 8,
+Mitsuaki Nishibuchi 8 and Son Radu 1, 9*
+
+1 Faculty of Food Science and Technology, Food Safety Research Center, Universiti Putra Malaysia, Seri Kembangan,
+Malaysia, 2 Department of Livestock and Avian Science, Faculty of Livestock, Fisheries and Nutrition, Wayamba University of
+Sri Lanka, Kuliyapitiya, Sri Lanka, 3 Institute of Bio Science, Universiti Putra Malaysia, Seri Kembangan, Malaysia,
+4 Department of Basic Veterinary Science, Faculty of Veterinary Medicine and Animal Science, University of Peradeniya,
+Peradeniya, Sri Lanka, 5 Food Safety Research Center (FOSREC), Faculty of Food Science and Technology, Universiti Putra
+Malaysia, Seri Kembangan, Malaysia, 6 Faculty of Food Technology, Universiti Sultan Zainal Abidin, Kuala Terengganu,
+Malaysia, 7 Faculty of Health Sciences, School of Diagnostic and Applied Health Sciences, Universiti Kebangsaan Malaysia,
+Kuala Lumpur, Malaysia, 8 Center for Southeast Asian Studies, Kyoto University, Kyoto, Japan, 9 Laboratory of Food Safety
+and Food Integrity, Institute of Tropical Agriculture and Food Security, Universiti Putra Malaysia, Seri Kembangan, Malaysia
+
+Campylobacter is a major foodborne pathogen frequently associated with human
+bacterial gastroenteritis in the world. This study was conducted to determine the
+prevalence and antibiotic resistance of Campylobacter spp. in the beef food system in
+Malaysia. A total of 340 samples consisting of cattle feces (n = 100), beef (n = 120) from
+wet markets and beef (n = 120) from hypermarkets were analyzed for Campylobacter
+spp. The overall prevalence of Campylobacter was 17.4%, consisting of 33% in cattle
+fecal samples, 14.2% in raw beef from wet market and 7.5% in raw beef from the
+hypermarket. The multiplex-polymerase chain reaction (PCR) identiﬁed 55% of the strains
+as C. jejuni, 26% as C. coli, and 19% as other Campylobacter spp. A high percentage
+of Campylobacter spp. were resistant to tetracycline (76.9%) and ampicillin (69.2%),
+whilst low resistance was exhibited to chloramphenicol
+(7.6%). The MAR Index of
+Campylobacter isolates from this study ranged from 0.09 to 0.73. The present study
+indicates the potential public health risk associated with the beef food system, hence
+stringent surveillance, regulatory measures, and appropriate interventions are required
+to minimize Campylobacter contamination and prudent antibiotic usage that can ensure
+consumer safety.
+
+Keywords: Campylobacter, prevalence, beef, antibiotic suspetibility, MPN-PCR
+
+INTRODUCTION
+
+Thermophilic Campylobacter is a major bacterial pathogen that causes foodborne infections around
+the world (EFSA, 2011; WHO, 2012). C. jejuni and C. coli have been identiﬁed as the most
+common species that lead to campylobacteriosis (Silva et al., 2011). The high incidence rate
+of campylobacteriosis can be associated with the low minimal infective dose of thermophilic
+
+Edited by:
+
+Giovanna Suzzi,
+
+Università di Teramo, Italy
+
+Reviewed by:
+
+Beatrix Stessl,
+
+Veterinärmedizinische Universität
+
+Wien, Austria
+
+Heriberto Fernandez,
+
+Universidad Austral de Chile, Chile
+
+*Correspondence:
+
+Jayasekara M. K. J. K. Premarathne
+
+krissjayaruk@yahoo.com
+
+Son Radu
+
+son@upm.edu.my
+
+Specialty section:
+
+This article was submitted to
+
+Food Microbiology,
+
+a section of the journal
+
+Frontiers in Microbiology
+
+Received: 04 July 2017
+
+Accepted: 31 October 2017
+
+Published: 04 December 2017
+
+Citation:
+
+Premarathne JMKJK, Anuar AS,
+
+Thung TY, Satharasinghe DA,
+
+Jambari NN, Abdul-Mutalib N-A,
+
+Huat JTY, Basri DF, Rukayadi Y,
+
+Nakaguchi Y, Nishibuchi M and
+
+Radu S (2017) Prevalence and
+
+Antibiotic Resistance against
+
+Tetracycline in Campylobacter jejuni
+
+and C. coli in Cattle and Beef Meat
+
+from Selangor, Malaysia.
+
+Front. Microbiol. 8:2254.
+
+doi: 10.3389/fmicb.2017.02254
+
+Frontiers in Microbiology | www.frontiersin.org
+
+1
+
+December 2017 | Volume 8 | Article 2254
+
+Premarathne et al.
+
+Campylobacter in Cattle and Beef Meat in Malaysia
+
+Campylobacter which is around 500–800 cells (Nachamkin et al.,
+2008). Campylobacter spp. colonize the enteric tract of birds,
+sheep, cattle and pigs (Stanley and Jones, 2003; Humphrey et al.,
+2007). Food originated from animals act as the primary source of
+Campylobacter infection (Doorduyn et al., 2010).
+
+Reduce
+
+susceptibility
+
+of
+
+signiﬁcantly
+
+aﬀect
+
+pathogens
+public
+
+foodborne
+global
+
+to
+antimicrobials
+health
+(Chatre et al., 2010; Aarestrup, 2015). Increasing resistance
+in Campylobacter to antimicrobials particularly to tetracycline,
+erythromycin, and (ﬂuoro)quinolones (Gaudreau and Gilbert,
+2003; Zhu et al., 2006) was associated with reduce response
+to therapy leading to higher morbidity and mortality rates in
+humans (Zhu et al., 2006).
+
+Campylobacter a major public health concern around the
+world, especially in developed countries and these countries have
+Campylobacter surveillance systems (Scallan et al., 2011; EFSA
+and ECDC, 2014). Even in the South-East Asia, Campylobacter
+is becoming a key foodborne pathogen (Premarathne et al.,
+2017). According to a hospital-based study conducted by Lee
+and Puthucheary (2002), Campylobacter spp. was reported at 5%
+prevalence level and placed among the ﬁrst ﬁve causative agents
+associated with child’s diarrhea. Furthermore, Campylobacter
+were reported in humans from Indonesia (Tjaniadi et al., 2003),
+Lao People’s Democratic Republic (Yamashiro et al., 1998),
+Singapore (Chau et al., 2016), and Thailand (Bodhidatta et al.,
+2013). Singapore is the only South-East Asian country that
+performs national surveillance of Campylobacter infection in
+humans. Estimation and control of campylobacteriosis in South-
+East Asian countries, including Malaysia, is hindered due to
+insuﬃcient regulations for food safety and inadequate data
+on epidemiology of Campylobacter cases (Premarathne et al.,
+2017). Therefore, prevalence and antimicrobial resistance of
+Campylobacter are important to be assessed in these countries.
+
+In Malaysia, beef is sold in traditional wet markets and
+modern hypermarkets (Chamhuri and Batt, 2013). Beef available
+in wet markets were supplied by locally slaughtered and dressed
+cattle at
+the municipal abattoir or none-abattoir premises
+(Marimuthu et al., 2015). The wet markets were operated for a
+short time around 6 h per day and were able to provide fresh meat
+every day (Tang et al., 2009). The hypermarkets oﬀered chilled
+or frozen meat that locally produced or from imported beef
+(Ariﬀ et al., 2015). According to a consumer survey, Malaysians
+considered that fresh meat is more succulent, healthier and assure
+the halalness. Therefore, they preferred purchasing meat from
+wet markets over hypermarkets (Chamhuri and Batt, 2013).
+
+Naturally Campylobacter are present in cattle; therefore,
+feces can contaminate the beef carcasses during slaughtering
+(Hakkinen et al., 2007). Further, a study conducted in Malaysisa
+found that C. jejuni can survive in food processing environments
+through formation of bioﬁlms (Teh et al., 2014). The prevalence
+of Campylobacter species in poultry (Tang et al., 2009; Mansouri-
+Najand et al., 2012; Rejab et al., 2012), duck (Nor Faiza et al.,
+2013) and salad vegetables (Chai et al., 2007) have been reported
+in Malaysia. However, limited data exist on the prevalence of
+Campylobacter in other food commodities, including beef food
+system. Impelled by scarcity of data, this study was conducted
+to determine the prevalence of Campylobacter in the beef
+
+food system together with assessing the antibiogram proﬁles of
+Campylobacter spp.
+
+MATERIALS AND METHODS
+
+Bacterial Strains
+In this study C. jejuni ATCC 33221 and C. coli ATCC 33559 were
+used as the positive controls.
+
+Sample Collection
+A total of 100 fecal samples were collected from apparently
+healthy beef cattle in three diﬀerent farms, while purchased 120
+chilled beef samples from hypermarkets (n = 6) and 120 fresh
+beef samples from wet markets (n = 6) in Selangor, Malaysia. All
+collected samples were immediately transported to the laboratory
+in ice and processed within the same day of sample collection.
+
+Sample Processing
+The standardized and published protocol by Chai et al. (2007)
+and Tang et al. (2009) was used for sample processing. A 10 g
+portion of the sample was aseptically placed in a stomacher bag
+containing 90 mL Bolton broth base (Merck KGaA, Darmstadt,
+Germany) and homogenized using a stomacher lab-blender
+(Interscience, France) at normal speed for 60 s. The Bolton
+broth was supplemented with Bolton broth selective supplement
+contained Vancomycin, Cefoperazone, Trimethoprim Lactate
+and Amphotericin B (Merck KGaA) and 5% lysed horse blood.
+
+Control samples were prepared only with supplemented
+Bolton broth and inoculated with C. jejuni ATCC 33221 and
+C. coli ATCC 33559. The controls and samples were incubated
+at 42◦C for 48 h under microaerophilic conditions comprised of
+8–10% (v/v) CO2 and 5–6% (v/v) O2 generated by the Anaerocult
+C system (Merck KGaA) in an anaerobic jar.
+
+Microbiological Isolation
+After incubation, a loop full of the enriched sample was streaked
+in duplicates onto modiﬁed charcoal-cefoperazone-deoxycholate
+agar (mCCDA; Merck KGaA) with CCDA selective supplement
+contained Cefoperazone and Amphotericin B (Merck KGaA) and
+incubated microaerobically (Anaerocult C system; Merck KGaA)
+for 48 h at 42◦C. Presumptive identiﬁcation of Campylobacter
+colonies was based on ISO method that includes (ISO, 2006a,b);
+oxidase test, catalase test, gram-staining and typical microscopic
+Campylobacter morphology. The presumptive colonies were
+conﬁrmed by using PCR (Polymerase Chain Reaction) assay.
+
+MPN-Enrichment
+Campylobacter cells were counted using the MPN method with
+triplicate of three 10-fold dilution series prepared by transferring
+100 µL of homogenized sample into 900 µL of Bolton broth
+base (Merck KGaA) supplemented with Bolton broth selective
+supplements. A control tube was prepared with supplemented
+Bolton broth and inoculated with C. jejuni ATCC 33221 and
+C. coli ATCC 33559. The MPN tubes were incubated at 42◦C
+for 48 h under microaerophilic conditions generated by the
+Anaerocult C system (Merck KGaA) in an anaerobic jar.
+
+Frontiers in Microbiology | www.frontiersin.org
+
+2
+
+December 2017 | Volume 8 | Article 2254
+
+Premarathne et al.
+
+Campylobacter in Cattle and Beef Meat in Malaysia
+
+DNA Extraction
+Bacterial DNA was extracted from the enriched sample tubes and
+presumptive bacterial colonies using boiled-cell method (Tang
+et al., 2009). Brieﬂy, enriched samples in the tubes were pelleted
+by centrifuging at 10,000 × g for 10 min. The supernatant was
+carefully removed, next the pellet was washed once with 500 µL
+sterile distilled water and harvested bacterial cells were suspended
+in 500 µL of sterile TE buﬀer (pH 8.0). Bacterial cells were lysed
+by subjecting to boiling for 10 min, followed by rapid cooling at
+−20◦C for 10 min. Next the sample was centrifuged at 10,000 × g
+for 10 min. Finally, the supernatant containing bacterial DNA
+was stored at −20◦C until used in PCR.
+
+PCR Identiﬁcation
+All MPN tubes were subjected to identiﬁcation of Campylobacter
+spp. by multiplex PCR reaction using primers speciﬁc for
+Campylobacter genes, C. jejuni and C. coli (Table 1).
+
+The PCR was carried out in 25 µL reactions, and each reaction
+contained 5 µL of 5× PCR buﬀer (Promega, USA); 3 µL of
+25 mM MgCl2 (Promega, USA); 1 U Taq Polymerase (Promega,
+USA); 1 µL of 10 mM deoxynucleoside triphosphate (dNTP) mix
+(Promega, USA); 1 µM of forward and reverse primer (Sigma,
+UK) and 5 µL of template DNA.
+
+The cycling conditions were set as follows on the VeritiTM
+96-Well Thermal Cycler (Applied Biosystems, USA),
+initial
+denaturing at 94◦C for 4 min followed by 33 cycles of denaturing
+at 94◦C for 1 min, annealing at 50◦C for 1 min and extension at
+72◦C for 1 min followed by ﬁnal extension at 72◦C for 5 min.
+
+of
+
+A 5 µL
+
+all PCR amplicons were
+
+horizontally
+electrophoresed through a 1.25% agarose gel stained with
+ethidium bromide in 1× Tris-acetate-EDTA (TAE) (1 mM
+EDTA, 40 mM Tris-acetate) buﬀer at 90 V for 40 min.
+The agarose gel was visualized under ultraviolet (UV) light
+transilluminator (SynGene, Frederick, USA) and photographed.
+In each gel a positive control, non-template control and a
+DNA-molecular marker (100-bp ladder) (Vivantis Technologies,
+Malaysia) were included. The DNA extracted from C. coli (ATCC
+33559) and C. jejuni (ATCC 33560) were used as the positive
+controls, while PCR mixture without DNA template was used as
+the non-template control.
+
+Antibiotic Susceptibility Testing
+conducted using
+Antimicrobial
+following antimicrobial
+impregnated disks (Oxoid, England,
+UK); ampicillin (AMP; 10 µg), cephalothin (CEF; 30 µg),
+(CHL; 30 µg), ciproﬂoxacin (CIP; 5 µg),
+chloramphenicol
+
+susceptibility
+
+tests were
+
+5 µg),
+
+erythromycin (ERY;
+
+15 µg),
+enroﬂoxacin (ENR;
+gentamicin (GEN; 10 µg), norﬂoxacin (NORr; 10 µg), nalidixic
+acid (NAL; 30 µg), sterptomycin (STR; 25 µg), and tetracycline
+(TET; 30 µg) according to the standard Kirby- Bauer disk
+diﬀusion method (Bauer et al., 1966) and performed according
+to the recommendations of the Clinical Laboratory Standards
+Institute (Clinical and Laboratory Standards Institute, 2012).
+
+All isolates were revived from glycerol stocks using Bolton
+broth supplemented with 5% lysed horse blood. The suspensions
+were incubated for 48 h at 42◦C under microaerophilic
+conditions. Revived cultures were grown in Brain heart infusion
+(BHI: Merck KGaA) broth at 42◦C under microaerophilic
+conditions for 24 h and the turbidity of the suspension was
+adjusted to 0.5 McFarland standard (Clinical and Laboratory
+Standards Institute, 2012). Then the culture was swabbed
+uniformly using sterile cotton swabs onto MH agar plates
+(Merck KGaA) supplemented with 5% horse blood. The plates
+were incubated under microaerophilic conditions (Anaerocult C
+system; Merck KGaA) at 37◦C for 48 h. C. jejuni ATCC 33560 and
+C. coli ATCC 33559 were used as reference strains.
+
+The diameters of the inhibition zones around the antibiotic
+disk were measured. The breakpoints used to categorize isolates
+as susceptible (s), intermediate (i) and resistant (r) were based
+on CLSI recommendations (Clinical and Laboratory Standards
+Institute, 2012). As there were no CLSI recommendations
+for Campylobacter
+the standards assigned to the
+Enterobacteriaceae family were used as breakpoints to interpret
+Campylobacter resistance.
+
+strains,
+
+Multiple Antimicrobial Resistance (MAR)
+Indexing
+Multi-resistance of Campylobacter isolates were quantiﬁed using
+the MAR indexing.
+
+MAR index = a/b
+
+where “a” indicate the number of antimicrobials to which the
+particular isolate was resistant and “b” indicate the total number
+of antimicrobials to which the particular isolate was tested
+(Krumperman, 1983).
+
+Statistical Analysis
+The diﬀerence in prevalence level between the two detection
+methods (MPN_plating and MPN_PCR) and various sample
+types obtained from cattle, wet market and hypermarket were
+analyzed using Pearson chi-square test (X2 test). The results were
+
+TABLE 1 | PCR primers set used for detection of Campylobacter spp., C. jejuni and C. coli.
+
+Targeted species
+
+Targeted gene
+
+Sequence 5′-3′
+
+Amplicon size (bp)
+
+References
+
+Campylobacter
+
+Cadf
+
+F:TTG AAG GTA ATT TAG ATA TG
+
+R:CTA ATA CCT AAA GTT GAA AC
+
+C. jejuni
+
+C. coli
+
+Oxidoreductase subunit
+
+F:ATG AAA AAA TAT TTA GTT TTT GCA
+
+Ceu
+
+R:ATT TTA TTA TTT GTA GCA GCG
+
+F:CAA ATA AAG TTA GAG GTA GAA TGT
+
+R:GGA TAA GCA CTA GCT AGC TGA T
+
+400
+
+160
+
+894
+
+Konkel et al., 1999
+
+Winters and Slavik, 1995
+
+Gonzalez et al., 1997
+
+Frontiers in Microbiology | www.frontiersin.org
+
+3
+
+December 2017 | Volume 8 | Article 2254
+
+Premarathne et al.
+
+Campylobacter in Cattle and Beef Meat in Malaysia
+
+considered statistically signiﬁcant at P < 0.05 at 95% conﬁdence
+level.
+
+RESULTS
+
+Culture-Based Detection and Colony
+Conﬁrmation Applying PCR Method
+Presumptive Campylobacter spp. were detected in 8% (8 of 100
+samples) of the cattle feces samples and 1.6% (4 of 240) of the
+beef meat samples and all presumptive isolates were conﬁrmed
+as Campylobacter spp. by PCR.
+
+MPN-Plating Media Based Enumeration
+The prevalence of Campylobacter spp. in cattle and beef meat
+samples determined by using the MPN-plating is presented in
+Table 2. The MPN-plating detected Campylobacter spp. in 3.5%
+of the total samples (Table 2). Campylobacter was detected only
+in 8 out of 100 fecal samples, including C. jejuni in 5% and
+C. coli in 2% of the fecal samples. The prevalence of C. jejuni was
+signiﬁcantly higher (P ≤ 0.05) than the C. coli in fecal samples.
+
+The majority (66%) of isolates were identiﬁed as C. jejuni and
+the remainder as C. coli (34%). Campylobacter spp. were detected
+only in 2% of the beef samples from wet and hypermarket by
+the MPN-plating method. The MPN-plating found C. jejuni
+and C. coli in 0.8% of beef samples from wet and hypermarket
+(Table 2). The prevalence of Campylobacter spp. was statistically
+not signiﬁcant (P ≤ 0.05) between the wet and hypermarkets.
+However, the prevalence of Campylobacter spp. in fecal samples
+was signiﬁcantly higher (P ≤ 0.05) than that in beef samples.
+
+MPN-PCR-Based Enumeration
+The prevalence of Campylobacter spp determined by using the
+MPN-PCR method is presented in Table 3. Based on the MPN-
+PCR results Campylobacter spp. was detected in 59 (17.4%) of
+the total 340 examined samples. Detection of Campylobacter
+spp. by MPN-PCR method was signiﬁcantly higher (P ≤ 0.05)
+comparative to the MPN-plating (Table 3).
+
+The MPN-PCR method detected Campylobacter in 33 out
+of 100 cattle fecal samples. According to the MPN-PCR, fecal
+samples contained 16, 8, and 5% of C. jejuni, both Campylobacter
+spp. and C. coli respectively. The prevalence of C. jejuni was
+signiﬁcantly higher (P ≤ 0.05) than the C. coli in fecal samples.
+
+Campylobacter was detected in a total of 17/120 (14.2%) beef
+from wet markets and in 9/120 (7.5%) beef from hypermarkets
+(Table 3). The predominant species of Campylobacter detected in
+
+beef samples from wet market (55%) was C. jejuni and remainder
+was C. coli (20%) and other Campylobacter spp. (25%). Similarly,
+at the hypermarket, C. jejuni was the most prevalent (67%)
+while C. coli and other Campylobacter spp. were detected in
+22 and 11% of the beef samples respectively. The prevalence of
+Campylobacter spp. was statistically not signiﬁcant (P ≤ 0.05)
+between the wet and hypermarkets.
+
+Campylobacter
+
+concentration in cattle
+
+and beef was
+enumerated using the MPN method (Table 4). The highest
+number of Campylobacter found in fecal samples from cattle,
+including 3-460 MPN/g of C. jejuni and 3-43 MPN/g of C. coli
+and 3-75 MPN/g of other thermophilic Campylobacter spp. Beef
+from wet markets observed to carry Campylobacter spp. in the
+range of 3-75 MPN/g while the beef samples from hypermarkets
+harbored low Campylobacter spp. concentration ranged from 3
+to 15 MPN/g.
+
+Antimicrobial Resistance Testing
+Eleven antimicrobials named under the diﬀerent antimicrobial
+groups were employed in this study to determine the resistance
+of Campylobacter isolates. All the isolates were resistant at least
+one or more antimicrobials (Table 5). Antimicrobial resistance
+pattern among the tested Campylobacter spp. Indicated that
+majority of the isolates were resistant to tetracycline (76.9%)
+and ampicillin (69.2%). Least resistance was observed for
+chloramphenicol
+(7.6%), cephalothin (15.4%), ciproﬂoxacin
+(15.4%) and gentamicin (15.4%).
+
+The MAR index of Campylobacter species that were isolated
+from the current study indicate in Table 6. Campylobacter species
+exhibited 7 diﬀerent antibiotic resistant patterns with MAR
+index ranging from 0.09 to 0.73. The highest MAR index was
+0.73 and showed S, E, En, Na, Nor, Te, C, Amp resistant
+pattern. Meanwhile, lowest MAR index of 0.09 was demonstrated
+in isolates that indicate resistance to Te or Amp (Table 5).
+Moreover, 53.8% of the isolates were resistant to the three or more
+antimicrobials and demonstrated the Multi Drug Resistance
+(MDR).
+
+DISCUSSION
+
+Though the prevalence of Campylobacter in chicken and
+broilers was well documented in Malaysia; no or limited
+information was available for Campylobacter in other animals
+and food commodities, particularly for cattle and beef in the
+
+TABLE 2 | Culture-based detection of Campylobacter spp. in cattle and beef.
+
+Source
+
+Sample Sample C. jejuni C. coli C. jejuni/ OTC
+
+Total
+
+type
+
+size
+
+C. coli
+
+TABLE 3 | MPN-PCR based detection of Campylobacter spp. in cattle and beef.
+
+Source
+
+Sample Sample C. jejuni C. coli C. jejuni/ OTC
+
+Total
+
+type
+
+size
+
+C. coli
+
+Beef cattle
+
+Feces
+
+Wet market
+
+Beef
+
+Hyper market Beef
+
+100
+
+120
+
+120
+
+16 (16)
+
+5 (5)
+
+8 (8)
+
+4 (4)
+
+33 (33)
+
+8 (6.7)
+
+1 (0.8)
+
+3 (2.5)
+
+5 (4.2) 17 (14.2)
+
+6 (5)
+
+2 (1.7)
+
+0 (0)
+
+0 (0)
+
+9 (7.5)
+
+Beef cattle
+
+Feces
+
+Wet market
+
+Beef
+
+Hyper market Beef
+
+100
+
+120
+
+120
+
+16 (16)
+
+5 (5)
+
+8 (8)
+
+4 (4)
+
+33 (33)
+
+8 (6.7)
+
+1 (0.8)
+
+3 (2.5)
+
+5 (4.2) 17 (14.2)
+
+6 (5)
+
+2 (1.7)
+
+0 (0)
+
+0 (0)
+
+9 (7.5)
+
+Total
+
+340
+
+30 (8.8) 8 (6.7)
+
+11 (9.2) 10 (8.2) 59 (17.4)
+
+Total
+
+340
+
+30 (8.8) 8 (6.7)
+
+11 (9.2) 10 (8.2) 59 (17.4)
+
+OTC, Other thermophilic Campylobacter spp.
+
+OTC, Other thermophilic Campylobacter spp.
+
+Frontiers in Microbiology | www.frontiersin.org
+
+4
+
+December 2017 | Volume 8 | Article 2254
+
+Premarathne et al.
+
+Campylobacter in Cattle and Beef Meat in Malaysia
+
+TABLE 4 | Concentration of Campylobacter spp. in cattle and beef.
+
+Source
+
+Sample type
+
+Positive sample no
+
+C. jejuni
+
+C. coli
+
+OTC
+
+Max
+
+Med
+
+Min
+
+Max
+
+Med
+
+Min
+
+Max
+
+Med
+
+Min
+
+Farm
+
+Wet market
+
+Hyper market
+
+Feces
+
+Beef
+
+Beef
+
+33
+
+17
+
+9
+
+460
+
+29
+
+6.1
+
+6.2
+
+3.6
+
+3
+
+3
+
+3
+
+3
+
+43
+
+3.6
+
+15
+
+6.1
+
+3
+
+9.3
+
+3
+
+3
+
+3.6
+
+75
+
+75
+
+ND
+
+15
+
+21
+
+ND
+
+3
+
+3
+
+ND
+
+Max, Maximum; Med, Median; Min, Minimum; OTC, Other thermophilic Campylobacter spp., ND, not detected.
+
+TABLE 5 | The frequency of antibiotic drug resistance in Campylobacter spp.
+
+TABLE 6 | Multiple antibiotic resistance (MAR) index of Campylobacter spp.
+
+Antibiotic group
+
+Resistance
+proﬁle
+
+Aminoglycosides
+
+Gentamycin
+
+Macrolides
+
+Quinolones and
+Fluoroquinolones
+
+Streptomycin
+
+Erythromycin
+
+Ciproﬂoxacin
+
+Enroﬂoaxacin
+
+Nalidixix acid
+
+Norﬂoaxacin
+
+2 (15.4)
+
+3 (23.1)
+
+4 (30.8)
+
+2 (15.4)
+
+5 (38.5)
+
+7 (53.8)
+
+4 (30.8)
+
+Tetracyclines
+
+Tetracycline
+
+10 (76.9)
+
+Chloramphenicol
+
+Chloramphenicol
+
+1 (7.6)
+
+Penicillins
+
+Cephalexins
+
+Ampicillin
+
+Cephalothin
+
+9 (69.2)
+
+2 (15.4)
+
+Resistant isolates
+
+MAR Campylobacter
+
+Isolate Antibiogram
+
+No %
+
+C. jejuni
+
+C. coli
+
+index spp.
+
+1
+
+1
+
+1
+
+2
+
+2
+
+4
+
+2
+
+5
+
+0
+
+5
+
+0
+
+1
+
+2
+
+3
+
+0
+
+3
+
+3
+
+2
+
+5
+
+1
+
+4
+
+2
+
+0.09
+
+0.09
+
+0.09
+
+0.09
+
+0.18
+
+0.18
+
+0.27
+
+0.36
+
+0.55
+
+0.55
+
+0.64
+
+0.64
+
+0.73
+
+C. jejuni
+
+C. coli
+
+C. jejuni
+
+C. jejuni
+
+C. jejuni
+
+C. jejuni
+
+C. jejuni
+
+C. coli
+
+C. coli
+
+C. jejuni
+
+C. coli
+
+C. jejuni
+
+C. coli
+
+code
+
+CF3
+
+BH158
+
+CF58
+
+CF85
+
+CF47
+
+TET
+
+TET
+
+TET
+
+AMP
+
+NAL, AMP
+
+BH70
+
+TET, AMP
+
+BW188 NAL, TET, AMP
+
+CF46
+
+NAL, TET, AMP, CEF
+
+BW189 STR, ERY, ENR, TET, AMP, CEF
+
+CF70
+
+CF84
+
+CF84
+
+CF69
+
+NAL, CIP, ENR, NOR, TET, AMP
+
+GEN, ERY, ENR, NAL, NOR, TET, AMP
+
+GEN, STR, ERY, CIP, ENR, NAL, NOR
+
+STR, ERY, ENR, NAL, NOR, TET, CHL, AMP
+
+country. Therefore, the present study aimed to address the
+prevalence, concentration and antimicrobial resistant proﬁles
+of thermophilic Campylobacter species present in cattle fecal
+samples and beef.
+
+The overall prevalence of thermophilic Campylobacter spp.
+in fecal samples of apparently healthy cattle was 33% (Table 2).
+Findings of this study was similar to the previous ﬁndings
+reported on prevalence level of Campylobacter spp. in cattle from
+countries including; Japan (39.6%) (Haruna et al., 2013) and
+Chile (35.9%) (Fernández and Hitschfeld, 2009). Sanad et al.
+(2011) found only 19.2% prevalence level in samples collected
+from feedlot, mature cows and bulls presented for slaughter
+across USA. Meanwhile, low mean Campylobacter prevalence
+level of 5.6% (Nonga et al., 2010) and 13.2% (Karikari et al.,
+2017) was reported from Tanzania and Ghana respectively.
+However, a study conducted in 5 diﬀerent states in the U.S.
+reported a high prevalence (72.2%) of Campylobacter in feedlot
+cattle (Tang et al., 2017). While, 75–83.3% Campylobacter
+prevalence level was reported in dairy cattle from Lithuania
+(Ramonaite et al., 2013). Therefore, this study also contributes
+to prior discussions that cattle can act as a potential reservoir
+for transmitting Campylobacter spp.
+into the food system
+(Karenlampi et al., 2007; Cha et al., 2017). In the present
+study, C. jejuni (58.5%) was the predominantly isolated organism
+in cattle followed by C. coli (31.7%), and other thermophilic
+Campylobacter spp. The prevalence of C. jejuni and C. coli
+detected in this study was consistent with previous studies
+
+(Haruna et al., 2013). However, Karikari et al. (2017) reported
+higher prevalence level of C. coli (47.8%) comparatively C. jejuni
+was detected in 35.8% samples. Similarly, C. jejuni was detected
+in 35.2% cattle feacal samples with a high prevelance of C. coli
+(72.9%) (Sanad et al., 2011). However, Okunlade et al. (2015)
+reported low C. coli prevalence (20.4%) level in rectal swabs
+collected from cattle from Ibadan, Oyo State, Nigeria. A study
+conducted in Michigan, USA reported 69.2% prevalence level
+for C.
+jejuni (Cha et al., 2017). Other Campylobacter spp.
+(0.09%) detected in this study needs to be further characterized.
+Diﬀerences in the reported prevalence level can be resultant
+due to geographical
+location, sample size and method of
+analysis.
+
+The low contamination frequency of Campylobacter species
+detected in beef in this study was in agreement with recent
+studies. The Campylobacter prevalence of fresh beef samples
+from Poland was 10.1% in Korsak et al. (2015), 16.2% in
+retail ground beef from Saskatchewan, Canada (Trokhymchuk
+et al., 2014) and 17.4% in whole beef cuts from retail shops
+in USA (Vipham et al., 2012). Meanwhile, some studies
+conducted previously could only detect very low Campylobacter
+contamination level in beef, including 1.9% in Tanzania (Nonga
+et al., 2010) and 3.3% in Belgium (Ghaﬁr et al., 2007). Chilling
+reduce the surface humidity of red meat which can be related
+to low prevalence level Campylobacter in beef compared to
+chicken as Campylobacter is very sensitive to dehydration (Silva
+
+Frontiers in Microbiology | www.frontiersin.org
+
+5
+
+December 2017 | Volume 8 | Article 2254
+
+Premarathne et al.
+
+Campylobacter in Cattle and Beef Meat in Malaysia
+
+fresh meat
+
+et al., 2011). The current study detected high Campylobacter
+prevalence in beef from wet markets (14.2%) comparative to
+beef from hypermarkets (7.5%) can be associated with the
+availability of
+in the wet markets in Malaysia.
+Fresh meat is sold without chilling in the wet markets as it
+is considered fresh and succulent since it retains moisture.
+This may facilitate the survival of Campylobacter on raw
+red meat. Further, the low hygienic conditions in the wet
+markets (Chamhuri and Batt, 2013) may also contribute to
+the comparatively higher Campylobacter contamination rate
+and increase the potential for cross contamination. Moreover,
+no-abattoir slaughtering procedures (Marimuthu et al., 2015)
+can also result in high contamination of beef in wet markets
+with Campylobacter. We speculate that the main reason for
+the diﬀerence of Campylobacter prevalence in cattle and
+beef from various countries can be the result of diﬀerences
+in sampling methods, storage duration, microbiological and
+molecular methods employed. The results of this study indicate
+that not only cattle but also beef can be a potential reservoir for
+Campylobacter infection.
+
+Findings of this study reported that Campylobacter spp. in
+cattle range from 460-3 MPN/g, while a lower concentration
+was detected in beef (29-3 MPN/g). Further this study was in
+line with Nielsen (2002) who reported that mean Campylobacter
+concentration in cattle feces was 126 MPN/g. A study conducted
+by Stanley et al. (1998) observed a maximum of Campylobacter
+the level of 6.3 × 107 MPN/g in cattle.
+concentration at
+Campylobacter concentration in cattle intestine can be lower than
+that of broilers (Stanley and Jones, 2003). However, owed to a
+very low infective dose of Campylobacter the reported prevalence
+and concentration indicate the potential of contaminating beef
+during slaughter procedure. Therefore, proper sanitary and food
+safety measures should be implemented to ensure safety of
+beef. Further, an upward trend was observed among Malaysian
+consumers toward higher value meat such as beef and mutton
+(Yeong-Sheng et al., 2008). Therefore, beef can be a potential
+source of Campylobacter infection and need more attention
+focused on improving safety.
+
+can be
+
+Isolation and
+
+culture based methods
+
+identiﬁcation of Campylobacter
+
+using
+challenging
+conventional
+due to the fastidious growth requirements and discrepancies
+in biochemical tests (Nachamkin et al., 2008). Application of
+molecular methods for identiﬁcation of foodborne pathogens has
+increasingly used for food samples to complement conventional
+microbiological methods owing to its rapid turnaround time
+and sensitivity (Inglis and Kalischuk, 2003). In this study,
+detection of Campylobacter
+spp. using PCR method was
+higher than plating on mCCDA agar. Previous studies on
+the prevalence of
+foodborne pathogens in food indicate a
+diﬀerence between the ﬁndings through the molecular biological
+methods comparative to ﬁndings of culturing methods (Inglis
+and Kalischuk, 2003; Chai et al., 2007; Tang et al., 2009).
+When growth conditions are not
+favorable Campylobacter
+cells can transition from vegetative stage into a viable but
+in which the bacteria cannot
+non-culturable (VBNC) state,
+be cultured using conventional culture methods
+(Oliver,
+2010; Ramamurthy et al., 2014). The molecular ampliﬁcation
+
+techniques can overcome the limitation of detecting VBNC
+cells with providing high speciﬁcity and sensitivity (Singh et al.,
+2011).
+
+isolated from raw beef
+
+The high resistance detected in Campylobacter
+
+isolates
+against tetracycline in the current study was consistent with
+previously reported work. (Hong et al., 2007; Kashoma et al.,
+2015). Hong et al. (2007) reported that 93.4% Campylobacter
+strains from Korean beef samples were resistant to multiple
+antimicrobials and detected high resistance to tetracycline
+(94.6%). Campylobacter
+in Iran
+demonstrated the highest resistance to tetracycline (Rahimi
+et al., 2013). Campylobacter resistance to the tetracycline was
+mainly mediated through tet (O) plasmid (Pratt and Korolik,
+2005) and worldwide 60–100% C.
+jejuni and C. coli were
+reported to carry tetracycline-resistant plasmids (Lee et al.,
+1994; Kim et al., 2010). High resistance to tetracycline in
+this study may be resultant due to tet (O) plasmid; however
+Campylobacter isolates from Malaysia need further investigation
+on prevalence and resistance proﬁle of
+(O) plasmid.
+Similar to ﬁndings from the current study, the majority of
+the Campylobacter strains from food animals in Tanzania
+were resistant to ampicillin (70.3%) (Kashoma et al., 2015).
+Inherently resistance can be overserved in Campylobacter strains
+to β-lactams including ampicillin (Engberg, 2006; Li et al.,
+2007) which may be contributory to high ampicillin resistance
+observed in this study. The high resistance to tetracycline
+and ampicillin detected in this study could be associated
+with frequent usage of those antimicrobials in humans and
+animal husbandry (Chopra and Roberts, 2001; Hao et al.,
+2014).
+
+tet
+
+observed
+
+for
+
+Least
+
+resistance was
+
+gentamicin (1.8%)
+
+chloramphenicol,
+ciproﬂoxacin and gentamicin. Similarly low
+cephalothin,
+resistance was detected against
+and
+chloramphenicol (4.5%) in the Campylobacter isolates from
+Tanzania (Kashoma et al., 2015). Further, Campylobacter spp.
+isolated from raw meat in Iran were resistant to gentamicin and
+chloramphenicol 3.2 and 6.5%, respectively (Rahimi et al., 2013).
+Contrary to the current study, Campylobacter isolates in beef
+from Korea showed high resistant to ciproﬂoxacin (95.9%) and
+nalidixic acid (94.6%) in Hong et al. (2007). Discrepancies and
+similarities in antibiotic resistance patterns can be attributed
+to variation in sample type, sampling procedure, type and
+frequency of antibiotic usage in animal husbandry practices and
+human therapy.
+
+In the current study multiple antibiotic resistances was
+detected only in 53.8% of the isolates. Slightly higher multiple
+antibiotic resistance was observed in Campylobacter isolates
+from broilers in Malaysia (Saleha, 2002) and beef liver from
+USA (Noormohamed and Fakhr, 2014). The present study,
+46.2% Campylobacter isolates reported to have a MAR less
+than 0.2. A bacterium that has a MAR index less than
+0.2 has been identiﬁed to be isolated from animals that
+antimicrobials were seldom used. While,
+the strain has
+a MAR index greater than 0.2 considered to be originated
+from producing animals
+for
+contamination (Marian et al., 2012). According to the National
+Pharmaceutical Control Bureau (NPCB) of the Ministry of
+
+that have a high potential
+
+if
+
+Frontiers in Microbiology | www.frontiersin.org
+
+6
+
+December 2017 | Volume 8 | Article 2254
+
+Premarathne et al.
+
+Campylobacter in Cattle and Beef Meat in Malaysia
+
+Health, Malaysia, more than 97 antimicrobials have been
+registered for use in producing animals in Malaysia. However,
+comparative to poultry, a lower number of products has been
+registered to be used in cattle. The MAR index detected
+in Campylobacter isolates from cattle and beef of this study
+may be associated with low frequency of antibiotic usage in
+cattle compared to poultry in Malaysia. However, multiple
+antibiotic resistances associated with isolates from cattle and
+beef exacerbate the public health concern associated with
+Campylobacter infections.
+
+and application of good veterinary practices to minimize the
+likelihood of emerging superbugs.
+
+AUTHOR CONTRIBUTIONS
+
+JP and AA conducted the experiment. TT and DS did the data
+analysis. JP prepared the manuscript. NJ, N-AA-M, JH, DB, YR,
+YN, MN, and SR supervised and assisted in the preparation of the
+manuscript. NJ and N-AA-M provided consumables.
+
+FUNDING
+
+CONCLUSION
+
+Based on the ﬁndings of this study indicate the importance
+of considering the potential public health risk associated
+with Campylobacter in the beef
+food system in Malaysia.
+Therefore, implementation of good hygienic practices at the
+farm,
+level can minimize the
+Campylobacter contamination. Furthermore, the presence of
+multiple antibiotic resistant Campylobacter spp. urge the prudent
+use of antimicrobials in animal husbandry, farmer awareness
+
+slaughterhouse, and retail
+
+The authors wish to acknowledge the Malaysian Ministry of
+Higher Education for the ﬁnancial support through Fundamental
+Research Grant Scheme (FRGS-02-01-14-1475FR) under the
+project FRGS/1/2014/SG05/UPM/01/2 and Fund for Research
+on international cooperation in medical science, Research on
+global health issues, Health and Labor Science Research Grants,
+the Ministry of Health, Labor, Kyoto University Research
+Coordination Alliance, Japan, and by Kakenhi Grant-in-Aid for
+Scientiﬁc Research and from the Japan Society for the Promotion
+of Sciences.
+
+REFERENCES
+
+Aarestrup, F. M. (2015). The livestock reservoir for antimicrobial resistance: a
+personal view on changing patterns of risks, eﬀects of interventions and the
+way forward. Philos. Trans. R. Soc. B 370:20140085. doi: 10.1098/rstb.2014.0085
+Ariﬀ, O. M., Sharifah, N. Y., and Haﬁdz, A. W. (2015). Status of beef industry of
+Malaysia. Mal. J. Anim. 18, 1–21. Available online at: http://www.msap.my/pdf/
+mjas_18_2/1.Status-Ariﬀ_r4-2.pdf
+
+L.,
+
+Bauer, A. W., Kirby, W. M. M., Sherris, J. C., and Turck, M. (1966). Antibiotic
+susceptibility testing by a standardized single disk method. Am. J. Clin. Path.
+45, 493.
+Bodhidatta,
+
+Serichantalergs, O., Bangtrakulnonth, A.,
+Wongstitwilairung, B., McDaniel, P., et al. (2013). Bacterial pathogens
+isolated from raw meat and poultry compared with pathogens isolated from
+children in the same area of rural Thailand. Southeast Asian J. Trop. Med.
+Public Health 44, 259–272. Available online at: https://pdfs.semanticscholar.
+org/b58b/d0c295026cbd8fb674f1a00db4ca80e3b498.pdf
+
+Srijan, A.,
+
+Cha, W., Mosci, R. E., Wengert, S. L., Vargas, C. V., Rust, S. R., Bartlett, P. C., et al.
+(2017). Comparing the genetic diversity and antimicrobial resistance proﬁles
+of Campylobacter jejuni recovered from cattle and humans. Front. Microbiol.
+8:818. doi: 10.3389/fmicb.2017.00818
+
+Chai, L. C., Robin, T., Ragavan, U. M., Gunsalam, J. W., Bakar, F. A., Ghazali, F. M.,
+et al. (2007). Thermophilic Campylobacter spp. in salad vegetables in Malaysia.
+Int. J. Food Microbiol. 117, 106–111. doi: 10.1016/j.ijfoodmicro.2007.02.014
+
+Chamhuri, N., and Batt, P.
+
+(2013). Exploring the factors inﬂuencing
+consumers’ choice of retail store when purchasing fresh meat in Malaysia. Int.
+Food Agribus. Man. 16, 99–122. Available online at: https://www.ifama.org/
+resources/Documents/v16i3/Chamhuri-Batt.pdf
+
+J.
+
+Chatre, P., Haenni, M., Meunier, D., Botrel, M. A., Calavas, D., and Madec, J.
+(2010). Prevalence and antimicrobial resistance of Campylobacter jejuni and
+Campylobacter coli isolated from cattle between 2002 and 2006 in France.
+J. Food Prot. 73, 825–831. doi: 10.4315/0362-028X-73.5.825
+
+Chau, M. L., Hartantyo, S. H. P., Yap, M., Kang, J. S. L., Aung, K. T., Gutiérrez,
+R. A., et al. (2016). Diarrheagenic pathogens in adults attending a hospital in
+Singapore. BMC Infect. Dis. 16:1. doi: 10.1186/s12879-016-1354-0
+
+Chopra, I., and Roberts, M. (2001). Tetracycline antibiotics: mode of action,
+applications, molecular biology, and epidemiology of bacterial resistance.
+Microbiol. Mol. Biol. Rev. 65, 232–260. doi: 10.1128/MMBR.65.2.232-260.2001
+
+Clinical and Laboratory Standards Institute (2012). Performance Standards for
+Antimicrobial Susceptibility Testing; Twenty-Second Informational Supplement
+M11- S22. Wayne, PA: CLSI.
+
+Doorduyn, Y., Van Den Brandhof, W. E., Van Duynhoven, Y. T. H. P., Wannet,
+W. J. B., and Van Pelt, W. (2010). Risk factors for indigenous Campylobacter
+jejuni and Campylobacter coli
+infections in The Netherlands: a case-
+control study. Epidemiol. Infect. 138, 1391–1404. doi: 10.1017/S09502688100
+0052X
+
+Engberg, J. (2006). Contributions to the epidemiology of Campylobacter infections.
+Dan. Med. Bull. 53, 361–389. Available online at: http://www.danmedj.dk/
+dmb_2006/0406/0406-disputatser/DMB3853.pdf
+
+European Food Safety Authority (EFSA) (2011). Analysis of
+
+the baseline
+survey on the prevalence of Campylobacter in broiler batches and of
+Campylobacter and Salmonella on broiler carcasses in the EU. EFSA J. 8, 1503
+doi: 10.2903/j.efsa.2011.2017
+
+European Food Safety Authority (EFSA) and European Centre for Disease
+Prevention and Control (ECDC) (2014). The European Union summary report
+on trends and sources of zoonoses, zoonotic agents and food-borne outbreaks
+in 2012. EFSA J. 12:3547. doi: 10.2903/j.efsa.2014.3547
+
+Fernández, H., and Hitschfeld, M. (2009). Occurrence of Campylobacter jejuni and
+Campylobacter coli and their biotypes in beef and dairy cattle from the south of
+Chile. Braz. J. Microbiol. 40, 450–454. doi: 10.1590/S1517-83822009000300005
+Gaudreau, C., and Gilbert, H. (2003). Antimicrobial resistance of Campylobacter
+in 1998 to 2001
+jejuni
+in Montreal, Canada. Antimicrob. Agents Chemother. 47, 2027–2029.
+doi: 10.1128/AAC.47.6.2027-2029.2003
+
+isolated from humans
+
+strains
+
+subsp.
+
+jejuni
+
+Ghaﬁr, Y., China, B., Dierick, K., De Zutter, L., and Daube, G. (2007). Seven-year
+survey of Campylobacter contamination in meat at diﬀerent production stages
+in Belgium. Int. J. Food Microbiol. 116, 111–120. doi: 10.1016/j.ijfoodmicro.
+2006.12.012
+
+Gonzalez, I., Grant, K. A., Richardson, P. T., Park, S. F., and Collins, M. D.
+(1997). Speciﬁc identiﬁcation of the enteropathogens Campylobacter jejuni and
+Campylobacter coli by using a PCR test based on the ceuE gene encoding a
+putative virulence determinant. J. Clin. Microbiol. 35, 759–763.
+
+Hakkinen, M., Heiska, H., and Hanninen, M. L.
+
+(2007). Prevalence of
+Campylobacter spp. in cattle in Finland and antimicrobial susceptibilities of
+bovine Campylobacter jejuni strains. Appl. Environ. Microbiol. 73, 3232–3238.
+doi: 10.1128/AEM.02579-06
+
+Frontiers in Microbiology | www.frontiersin.org
+
+7
+
+December 2017 | Volume 8 | Article 2254
+
+Premarathne et al.
+
+Campylobacter in Cattle and Beef Meat in Malaysia
+
+Hao, H., Cheng, G., Iqbal, Z., Ai, X., Hussain, H. I., Huang, L., et al. (2014). Beneﬁts
+and risks of antimicrobial use in food-producing animals. Front. Microbiol.
+5:288. doi: 10.3389/fmicb.2014.00288
+
+Haruna, M., Sasaki, Y., Murakami, M., Mori, T., Asai, T., Ito, K., et al. (2013).
+Prevalence and antimicrobial resistance of Campylobacter isolates from beef
+cattle and pigs in Japan. J. Vet. Med. Sci. 75, 625–628. doi: 10.1292/jvms.
+12-0432
+
+Hong, J., Berrang, M. E., Liu, T., Hofacre, C. L., Sanchez, S., Wang, L., et al.
+(2007). Prevalence and antibiotic resistance of Campylobacter spp. isolated
+from chicken meat, pork, and beef in Korea, from 2001 to 2006. J. Food Prot.
+70, 860–866. doi: 10.4315/0362-028X-70.4.860
+
+monocytogenes isolated from raw and ready-to-eat foods in Malaysia. Food
+Control 28, 309–314. doi: 10.1016/j.foodcont.2012.05.030
+
+Marimuthu, M., Adamu, L., Abdullah, F. F. J., Abubakar, M., and Mohammed,
+K. (2015). Antimicrobial residues in beef animals slaughtered in abattoir and
+non-abattoir small holders slaughter houses in negeri sembilan, Malaysia.
+Alexandria J. Vet. Sci. 44, 1–8. doi: 10.5455/ajvs.167605
+
+Nachamkin, I., Szymanski, M. C., and Blaser, J. M. (2008). Campylobacter, 3rd Edn.
+
+Washington, DC: ASM Press.
+
+Nielsen, E. M.
+
+(2002). Occurrence and strain diversity of
+
+thermophilic
+campylobacters in cattle of diﬀerent age groups in dairy herds. Lett. Appl.
+Microbiol. 35, 85–89. doi: 10.1046/j.1472-765X.2002.01143.x
+
+Humphrey, T., O’Brien, S., and Madsen, M. (2007). Campylobacter as zoonotic
+pathogens: a food production perspective. Int. J. Food Microbiol. 117, 237–257.
+doi: 10.1016/j.ijfoodmicro.2007.01.006
+
+Nonga, H. E., Sells, P., and Karimuribo, E. D. (2010). Occurrences of thermophilic
+Campylobacter in cattle slaughtered at Morogoro municipal abattoir, Tanzania.
+Trop Anim. Health Prod. 42, 73. doi: 10.1007/s11250-009-9387-7
+
+Inglis, G. D., and Kalischuk, L. D. (2003). Use of PCR for direct detection of
+Campylobacter species in bovine feces. Appl. Environ. Microbiol. 69, 3435–3447.
+doi: 10.1128/AEM.69.6.3435-3447.2003
+
+Noormohamed, A., and Fakhr, M. (2014). Molecular Typing of Campylobacter
+jejuni and Campylobacter coli isolated from various retail meats by MLST and
+PFGE. Foods 3, 82–93. doi: 10.3390/foods3010082
+
+ISO (2006a). Microbiology of Food and Animal Feeding Stuﬀs – Horizontal Method
+for Detection and Enumeration of Campylobacter spp. – Part 1: Detection
+Method. Geneva: International organization for standardization.
+
+ISO (2006b). Microbiology of Food And Animal Feeding Stuﬀs – Horizontal Method
+for Detection and Enumeration of Campylobacter spp. – part 2: Colony-Count
+Technique. Geneva: International organization for standardization.
+
+Karenlampi, R., Rautelin, H., and Hänninen, M. L. (2007). Longitudinal study
+of Finnish Campylobacter jejuni and C. coli isolates from humans, using
+multilocus sequence typing, including comparison with epidemiological data
+and isolates from poultry and cattle. Appl. Environ. Microbiol. 73, 148–155.
+doi: 10.1128/AEM.01488-06
+
+Nor Faiza, S., Saleha, A. A., Jalila, A., and Fauziah, N. (2013). Research note
+occurrence of campylobacter and salmonella in ducks and duck eggs in
+Selangor, Malaysia. Trop. Biomed. 30, 155–158. Available online at: http://
+msptm.org/ﬁles/155_-_158_Saleha_A_A.pdf
+
+Okunlade, A. O., Ogunleye, A. O., Jeminlehin, F. O., and Ajuwape, A. T. P. (2015).
+Occurrence of Campylobacter species in beef cattle and local chickens and
+their antibiotic proﬁling in Ibadan, Oyo State, Nigeria. Afr. J Microbiol. Res.
+9, 1473–1479. doi: 10.5897/AJMR2014.7105
+
+Oliver,
+
+J. D.
+
+(2010). Recent ﬁndings on the viable but nonculturable
+415–425.
+
+in pathogenic bacteria. FEMS Microbiol. Rev.
+
+34,
+
+state
+doi: 10.1111/j.1574-6976.2009.00200.x
+
+Karikari, A. B., Obiri-Danso, K., Frimpong, E. H., and Krogfelt, K. A. (2017).
+Antibiotic resistance of campylobacter recovered from faeces and carcasses of
+healthy livestock. BioMed. Res. Int. 2017:4091856. doi: 10.1155/2017/4091856
+
+Pratt, A., and Korolik, V.
+
+(2005). Tetracycline resistance of Australian
+Campylobacter jejuni and Campylobacter coli isolates. J. Antimicrob. Chemother
+55, 452–460. doi: 10.1093/jac/dki040
+
+Kashoma, I. P., Kassem, I. I., Kumar, A., Kessy, B. M., Gebreyes, W., Kazwala,
+R. R., et al. (2015). Antimicrobial resistance and genotypic diversity of
+Campylobacter isolated from pigs, dairy, and beef cattle in Tanzania. Front.
+Microbiol. 6:1240. doi: 10.3389/fmicb.2015.01240
+
+Premarathne, J. M. K. J. K., Satharasinghe, D. A., Huat, J. T. Y., Basri, D. F.,
+Rukayadi, Y., Nakaguchi, Y., et al. (2017). Impact of human Campylobacter
+infections in South-East Asia: the contribution of the poultry sector. Crit. Rev.
+Food Sci. Nutr. 57, 3971–3986. doi: 10.1080/10408398.2016.1266297
+
+Kim,
+
+J. M., Hong,
+
+J., Bae, W., Koo, H. C., Kim, S. H., and Park, Y.
+H. (2010). Prevalence, antibiograms, and transferable tet (O) plasmid of
+Campylobacter jejuni and Campylobacter coli
+isolated from raw chicken,
+pork, and human clinical cases in Korea. J. Food Prot. 73, 1430–1437.
+doi: 10.4315/0362-028X-73.8.1430
+
+Konkel, M. E., Gray, S. A., Kim, B. J., Garvis, S. G., and Yoon, J. (1999).
+Identiﬁcation of the enteropathogens Campylobacter jejuni and Campylobacter
+coli based on the cadF virulence gene and its product. J. Clin. Microbiol. 37,
+510–517.
+
+Korsak, D., Ma´ckiw, E., Rozynek, E., and Zyłowska, M. (2015). Prevalence
+turkey, pork, and beef meat
+J. Food Prot. 78, 1024–1028.
+
+of Campylobacter spp.
+in Poland between 2009 and 2013.
+doi: 10.4315/0362-028X.JFP-14-353
+
+in retail chicken,
+
+Krumperman, P. H. (1983). Multiple antibiotic resistance indexing of Escherischia
+coli to identify high-risk sources of fecal contamination of food. Appl. Environ.
+Microbiol. 46, 165–170.
+
+Lee, C. Y., Tai, C. L., Lin, S. C., and Chen, Y. T. (1994). Occurrence of plasmids
+and tetracycline resistance among Campylobacter jejuni and Campylobacter
+coli isolated from whole market chickens and clinical samples. Int. J. Food
+Microbiol. 24, 161–170. doi: 10.1016/0168-1605(94)90115-5
+
+Lee, W. S., and Puthucheary, S. D. (2002). Bacterial enteropathogens isolated in
+childhood diarrhoea in Kuala Lumpur–the changing trend. Med. J. Malaysia,
+57, 24–30. Available online at: http://www.e-mjm.org/2002/v57n1/Childhood_
+Diarrhoea.pdf
+
+Li, X. Z., Mehrotra, M., Ghimire, S., and Adewoye, L. (2007). β-Lactam resistance
+and β-lactamases in bacteria of animal origin. Vet. Microbiol. 121, 197–214.
+doi: 10.1016/j.vetmic.2007.01.015
+
+Mansouri-Najand, L., Saleha, A. A., and Wai, S. S. (2012). Prevalence of multidrug
+resistance Campylobacter jejuni and Campylobacter coli in chickens slaughtered
+in selected markets, Malaysia. Trop. Biomed. 29, 231–238. Available online at:
+http://www.msptm.org/ﬁles/231_-_238_Saleha_A_A.pdf
+
+Marian, M. N., Aminah, S. S., Zuraini, M. I., Son, R., Maimunah, M., Lee, H.
+Y., et al. (2012). MPN-PCR detection and antimicrobial resistance of Listeria
+
+Rahimi, E., Ameri, M., Alimoradi, M., Chakeri, A., and Bahrami, A. R.
+(2013). Prevalence and antimicrobial resistance of Campylobacter jejuni
+and Campylobacter coli isolated from raw camel, beef, and water buﬀalo
+meat in Iran. Comp. Clin. Path. 22, 467–473. doi: 10.1007/s00580-012-
+1434-5
+
+Ramamurthy, T., Ghosh, A., Pazhani, G. P., and Shinoda, S. (2014). Current
+perspectives on viable but non-culturable (VBNC) pathogenic bacteria. Front.
+Public Health 2:103. doi: 10.3389/fpubh.2014.00103
+
+Ramonaite, S., Rokaityte, A., Tamuleviˇciene, E., Malakauskas, A., Alter, T., and
+Malakauskas, M. (2013). Prevalence, quantitative load and genetic diversity of
+Campylobacter spp. in dairy cattle herds in Lithuania. Acta. Vet. Scand. 55:87.
+doi: 10.1186/1751-0147-55-87
+
+Rejab, S. B. M., K. H., Zessin, R., and Fries, and, P., Patchanee (2012).
+Campylobacter in chicken carcasses and slaughterhouses in Malaysia. Southeast
+Asian J. Trop. Med. Public Health 43, 96–104. Available online at: http://www.
+tm.mahidol.ac.th/seameo/2012-43-1/13-5196.pdf
+
+Saleha, A. A.
+
+(2002).
+
+from broiler chickens in Malaysia.
+
+Isolation and characterization of Campylobacter
+J. Poult. Sci. 1, 94–97.
+
+Int.
+
+jejuni
+doi: 10.3923/ijps.2002.94.97
+
+Sanad, Y. M., Kassem, I. I., Abley, M., Gebreyes, W., LeJeune, J. T., and
+Rajashekara, G. (2011). Genotypic and phenotypic properties of cattle-
+associated Campylobacter and their implications to public health in the USA.
+PLoS ONE 6:e25778. doi: 10.1371/journal.pone.0025778
+
+Scallan, E., Griﬃn, P. M., Angulo, F. J., Tauxe, R. V., and Hoekstra, R. M. (2011).
+Foodborne illness acquired in the United States–unspeciﬁed agents. Emerg.
+Infect. Infect. Dis. 17, 16–22. doi: 10.3201/eid1701.P21101
+
+Silva, J., Leite, D., Fernandes, M., Mena, C., Gibbs, P. A., and Teixeira, P. (2011).
+Campylobacter spp. as a foodborne pathogen: a review. Front. Microbiol. 2:200.
+doi: 10.3389/fmicb.2011.00200
+
+Singh, H., Rathore, R. S., Singh, S., and Cheema, P. S. (2011). Comparative
+isolation and PCR based assay for detection of
+in food and faecal samples. Braz. J. Microbiol. 42,
+
+analysis of cultural
+Campylobacter jejuni
+181–186. doi: 10.1590/S1517-83822011000100022
+
+Frontiers in Microbiology | www.frontiersin.org
+
+8
+
+December 2017 | Volume 8 | Article 2254
+
+Premarathne et al.
+
+Campylobacter in Cattle and Beef Meat in Malaysia
+
+Stanley, K. N., Wallace, J. S., Currie, J. E., Diggle, P. J., and Jones, K. (1998).
+Seasonal variation of thermophilic campylobacters in lambs at slaughter.
+J. Appl. Microbiol. 84, 1111–1116.
+
+Stanley, K., and Jones, K. (2003). Cattle and sheep farms as reservoirs of
+Campylobacter. J. Appl. Microbiol. 94, 104S–113S. doi: 10.1046/j.1365-2672.
+94.s1.12.x
+
+Tang, J. Y. H., Mohamad Ghazali, F., Abdul Aziz, S., Nishibuchi, M., and Radu,
+S. (2009). Comparison of thermophilic Campylobacter spp. occurrence in two
+types of retail chicken samples. Int. Food Res. J. 16, 277–288. Available online
+at: http://www.ifrj.upm.edu.my/16%20(3)%202009/2[1]%20John.pdf
+
+Tang, Y., Meinersmann, R. J., Sahin, O., Wu, Z., Dai, L., Carlson, J., et al.
+(2017). Wide but variable distribution of a hypervirulent Campylobacter jejuni
+clone in beef and dairy cattle in the United States. Appl. Environ. Microbiol.
+83:AEM.01425-17. doi: 10.1128/AEM.01425-17
+
+Teh, A. H. T., Lee, S. M., and Dykes, G. A. (2014). Does Campylobacter jejuni
+form bioﬁlms in food-related environments? Appl. Environ. Microbiol. 80,
+5154–5160. doi: 10.1128/AEM.01493-14
+
+Tjaniadi, P., Lesmana, M., Subekti, D., Machpud, N., Komalarini, S., Santoso,
+W., et al. (2003). Antimicrobial resistance of bacterial pathogens associated
+with diarrheal patients in Indonesia. Am. J. Trop. Med. Hyg. 68, 666–670.
+Available online at: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.
+558.4922&rep=rep1&type=pdf
+
+Trokhymchuk, A., Waldner, C., Chaban, B., Gow, S., and Hill, J. E. (2014).
+Prevalence and diversity of Campylobacter species in Saskatchewan retail
+ground beef. J. Food Prot. 77, 2106–2110. doi: 10.4315/0362-028X.JFP-14-247
+
+Vipham, J. L., Brashears, M. M., Loneragan, G. H., Echeverry, A., Brooks, J. C.,
+Chaney, W. E., et al. (2012). Salmonella and Campylobacter baseline in retail
+ground beef and whole-muscle cuts purchased during 2010 in the United States.
+J. Food Prot. 75, 2110–2115. doi: 10.4315/0362-028X.JFP-12-077
+
+Winters, D. K., and Slavik, M. F.
+
+(1995). Evaluation of a PCR based
+assay
+in chicken
+washes. Mol. Cell. Probes 9, 307–310. doi: 10.1016/S0890-8508(95)
+91556-7
+
+detection of Campylobacter
+
+for
+
+speciﬁc
+
+jejuni
+
+World Health Organization
+Campylobacteriosis. Report
+Organization. Utrecht; Geneva.
+
+(WHO)
+(2012). The Global View of
+of Expert Consultation, World Health
+
+Yamashiro, T., Nakasone, N., Higa, N., Iwanaga, M., Insisiengmay, S., Phounane,
+T., et al. (1998). Etiological study of diarrheal patients in Vientiane, Lao People’s
+Democratic Republic. J. Clin. Microbiol. 36, 2195–2199.
+
+Yeong-Sheng, T., Mohamed Arshad, F., Shamsudin, M. N., Mohamed, Z., and
+Radam, A. (2008). Demand for Meat Quantitu and Quality in Malaysia:
+Implications to Australia. Munich: University Library of Munich.
+
+Zhu, J., Zhang, Y., Hua, X., Hou, J., and Jiang, Y. (2006). Antibiotic resistance
+in Campylobacter. Rev. Med. Microbiol. 17, 107–121. doi: 10.1097/MRM.
+0b013e3280c4d106
+
+Conﬂict of Interest Statement: The authors declare that the research was
+conducted in the absence of any commercial or ﬁnancial relationships that could
+be construed as a potential conﬂict of interest.
+
+Copyright © 2017 Premarathne, Anuar, Thung, Satharasinghe, Jambari, Abdul-
+Mutalib, Huat, Basri, Rukayadi, Nakaguchi, Nishibuchi and Radu. This is an open-
+access article distributed under the terms of the Creative Commons Attribution
+License (CC BY). The use, distribution or reproduction in other forums is permitted,
+provided the original author(s) or licensor are credited and that the original
+publication in this journal is cited, in accordance with accepted academic practice.
+No use, distribution or reproduction is permitted which does not comply with these
+terms.
+
+Frontiers in Microbiology | www.frontiersin.org
+
+9
+
+December 2017 | Volume 8 | Article 2254
+
+

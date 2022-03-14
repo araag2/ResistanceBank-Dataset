@@ -1,0 +1,858 @@
+Veterinary Microbiology 217 (2018) 7–12
+
+Contents lists available at ScienceDirect
+
+Veterinary Microbiology
+
+journal homepage: www.elsevier.com/locate/vetmic
+
+Extended-spectrum beta-lactamase-producing Escherichia coli and Klebsiella
+pneumoniae in local and imported poultry meat in Ghana
+Daniel Eibacha,⁎, Denise Dekkera,b, Kennedy Gyau Boahenc, Charity Wiafe Akentenc,
+Nimako Sarpongc, Cristina Belmar Camposd, Laura Bernekingd, Martin Aepfelbacherd,
+Ralf Krumkampa,b, Ellis Owusu-Daboc, Jürgen Maya,b
+a Bernhard Nocht Institute for Tropical Medicine (BNITM), Bernhard-Nocht-Str. 74, 20359 Hamburg, Germany
+b German Centre for Infection Research (DZIF), Hamburg-Borstel-Luebeck, Germany
+c Kumasi Centre for Collaborative Research in Tropical Medicine (KCCR), Kumasi, Ghana
+d Institute of Medical Microbiology, Virology and Hygiene, University Medical Centre Hamburg-Eppendorf (UKE), Martinstr. 52, 20246 Hamburg, Germany
+
+T
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Poultry
+Drug resistance
+Microbial drug resistance
+Enterobacteriaceae
+Ghana
+
+Antibiotic use in animal husbandry has raised concerns on the spread of resistant bacteria. Currently animal
+products are traded globally with unprecedented ease, which has been challenging the control of antimicrobial
+resistance. This study aims to detect and characterize extended-spectrum beta-lactamase (ESBL)-producing
+Escherichia coli and Klebsiella pneumoniae from imported and locally produced poultry products sold in Ghana.
+Local and imported chicken meat was collected from 94 stores and markets throughout Kumasi (Ghana) and
+cultured on selective ESBL screening agar. Phenotypic ESBL-producing E. coli and K. pneumoniae isolates were
+conﬁrmed by combined disc test and further characterized by antibiotic susceptibility testing, ampliﬁcation of
+the blaCTX-M, blaTEM and blaSHV genes as well as multilocus sequence typing (MLST) and linked to the country of
+origin.
+
+Out of 200 meat samples, 71 (36%) samples revealed 81 ESBL-producing isolates (46 E. coli and 35 K.
+pneumoniae), with 44% (30/68) of local poultry and 31% (41/132) of imported products being contaminated.
+Most ESBL-producing isolates harboured the blaCTX-M-15 gene (61/81, 75%) and the dominant Sequence Types
+(ST) were ST2570 (7/35, 20%) among K. pneumoniae and ST10 (5/46, 11%) among E. coli.
+
+High numbers of ESBL-producing bacteria, particularly on local but also imported poultry meat, represent a
+potential source for human colonization and infection as well as spread within the community. Surveillance
+along the poultry production-food-consumer chain would be a valuable tool to identify sources of emerging
+multidrug resistant pathogens in Ghana.
+
+1. Background
+
+The use of antimicrobial drugs in animal husbandry for the treat-
+ment and prevention of infectious diseases or as growth promoters have
+contributed to the spread of multidrug resistant bacteria (Chantziaras
+et al., 2014). As common causes of nosocomial and community infec-
+tions among humans, multidrug resistant Escherichia coli and Klebsiella
+pneumoniae are of particular interest (Mathers et al., 2015). Worryingly,
+prevalence rates for extended-spectrum beta-lactamase (ESBL)/AmpC-
+producing E. coli in poultry meat have exceeded 90% in industrialized
+countries such as France, the Netherlands and Spain (Leverstein-van
+Hall et al., 2011; Egea et al., 2012; Casella et al., 2017).
+
+There is increasing evidence for the transmission of ESBL genes,
+plasmids and E. coli isolates from poultry to humans, most likely
+
+through the food chain (Leverstein-van Hall et al., 2011). Other studies
+have shown that ESBL-producing E. coli causing extraintestinal infec-
+tions in humans originated from meat products, particularly poultry
+(Lazarus et al., 2014). Consequently, the European Food Safety Au-
+thority (EFSA) declared the presence of ESBL-producing E. coli in
+poultry meat a signiﬁcant hazard to public health (EFSA, 2012) and
+jointly, the EFSA and the European Medicines Agency (EMA) recently
+advocated measures to reduce antimicrobial agents in animal hus-
+bandry in the European Union (Murphy et al., 2017).
+
+In contrast to industrialized countries, the extent of poultry meat
+contamination with ESBL-producing E. coli in Sub-Saharan Africa is not
+suﬃciently monitored and the use of antimicrobials remains largely
+unregulated (Maron et al., 2013). Apart from inappropriate drug ap-
+plications without prescriptions, antimicrobial use
+for growth
+
+⁎ Corresponding author.
+E-mail address: eibach@bnitm.de (D. Eibach).
+
+https://doi.org/10.1016/j.vetmic.2018.02.023
+Received 27 October 2017; Received in revised form 15 January 2018; Accepted 17 February 2018
+0378-1135/ © 2018 Elsevier B.V. All rights reserved.
+
+D. Eibach et al.
+
+Veterinary Microbiology 217 (2018) 7–12
+
+Fig. 1. Sampling locations in the city of Kumasi, Ghana. Blue dots represent supermarkets (n = 75), where imported meat was collected. Red dots represent the open markets (n = 19), on
+which local meat was purchased. Map data was retrieved from https://www.openstreetmap.org. (For interpretation of the references to colour in this ﬁgure legend, the reader is referred
+to the web version of this article.)
+
+promotion has been regarded as a major problem (Okeke et al., 1999;
+Adzitey, 2013; Van Boeckel et al., 2015). Despite this, recent studies
+from Sub-Saharan Africa found only 11% of Ghanaian and no Nigerian
+poultry samples to be contaminated with ESBL-producing E. coli
+(Rasmussen et al., 2015; Ojo et al., 2016). Imported poultry meat from
+industrialized countries may therefore rather be contributing to the
+spread of ESBL-producing bacteria within Sub-Saharan Africa, as pro-
+posed by studies from Gabon and Ghana (Schaumburg et al., 2014;
+Rasmussen et al., 2015). The signiﬁcance of the poultry trade for the
+international dissemination of antimicrobial resistances has been illu-
+strated not only for the transmission of ESBL-producing bacteria, but
+also just recently for mcr-1-mediated colistin resistance (Dhanji et al.,
+2010; Grami et al., 2016). With poultry products being traded globally
+with unprecedented ease, the control of antimicrobial resistance is
+challenging, in particular in Sub-Saharan Africa, where surveillance
+systems do not exist.
+
+This study aims to characterize and compare ESBL-producing E. coli
+and K. pneumoniae from imported and locally produced poultry pro-
+ducts sold in Ghana in order to identify potential sources for the
+emergence of antimicrobial resistant bacteria.
+
+2. Methods
+
+2.1. Study site and sampling procedure
+
+The study was conducted from May to December 2015 in Kumasi,
+with roughly 2.5 million inhabitants the second largest city in Ghana
+and the capital of the Ashanti region. Throughout the city 75 super-
+markets, selling imported frozen poultry meat, were identiﬁed (Fig. 1,
+blue location marks). Each supermarket was visited once during the
+study period. One piece of frozen poultry meat was purchased in each
+store. In case stores sold meat imported from diﬀerent countries, one
+piece from each country was acquired. The origin of the imported meat
+was retrieved from the packaging. Local Ghanaian poultry meat was
+purchased from 19 diﬀerent open markets, where each trader was
+visited only once (Fig.1, red location marks). Approximately 15 g of
+each meat sample were immediately put into sterile homogenizer bags
+and kept refrigerated during transport to the laboratory.
+
+2.2. ESBL detection and antibiotic susceptibility testing
+
+On arrival in the laboratory, the sample was homogenized with a
+pestle and incubated overnight in 100 mL of Brain Heart Infusion (BHI)
+
+8
+
+Veterinary Microbiology 217 (2018) 7–12
+
+D. Eibach et al.
+
+broth. 100 μL were then plated onto two selective MacConkey agar
+plates containing 1 mg/L ceftazidime and 1 mg/L cefotaxime. All mor-
+phologically diﬀerent colonies (never exceeding four colonies) were
+identiﬁed biochemically using the analytical proﬁle index test (API 20E,
+bioMérieux, Marcy L’Etoile, France) and conﬁrmed by MALDI-TOF
+mass spectrometry (Bruker, Billerica, USA). For all E. coli and K.
+pneumoniae isolates ESBL production was conﬁrmed by the combined
+disk test using cefotaxime and ceftazidime alone and in combination
+with clavulanic acid (Becton, Dickinson and Company, Sparks, MD,
+USA) as described before by the European Committee on Antimicrobial
+Susceptibility Testing (EUCAST, the EUCAST guideline on detection of
+resistance mechanisms v 1.0 (2013-12-11)).
+
+Antimicrobial susceptibility testing was performed with the VITEK 2
+system using AST-N111 cards (bioMérieux, Marcy L’Etoile, France) for
+imipenem, meropenem, gentamicin, cipro-
+cefotaxime, ceftazidime,
+ﬂoxacin
+(cotrimoxazole).
+Breakpoints for Enterobacteriaceae were applied according to the 2016
+EUCAST guidelines (http://www.eucast.org).
+
+trimethoprim/sulfamethoxazole
+
+and
+
+2.3. ESBL genotyping and multilocus sequence typing (MLST)
+
+All isolates with ESBL phenotypes were screened for the presence of
+the blaCTX-M, blaTEM and blaSHV genes by Polymerase Chain Reaction
+(PCR) and subsequent sequencing, as described before (Belmar Campos
+et al., 2014). Group speciﬁc primers were used for ampliﬁcation and
+sequencing to further distinguish blaCTX-M positive isolates (Belmar
+Campos et al., 2014). The resulting sequences were identiﬁed by
+comparison with known sequences using the NCBI BLAST (http://blast.
+ncbi.nlm.nih.gov) and the Lahey Clinic Database (http://www.la-
+hey.org/studies/). MLST was conducted for all ESBL-producing E. coli
+and K. pneumoniae isolates according to previously published 7-loci
+protocols (Diancourt et al., 2005; Wirth et al., 2006).
+
+2.4. Epidemiological analysis
+
+Categorical variables were described as frequencies and percen-
+tages. The association of ESBL positivity with meat import was calcu-
+lated using the prevalence ratio (PR) along with the 95%-conﬁdence
+interval (CI). All data analyses were performed with Stata 14 (StataCorp
+LP, College Station, USA). The map was created with R statistical
+software (https://www.R-project.org/) using the osmar package
+(Eugster and Schlesinger et al., 2012). Data for the Kumasi map (Fig. 1)
+was retrieved from https://www.openstreetmap.org.
+
+3. Results
+
+A total of 200 meat samples, consisting of 68 samples from local
+Ghanaian poultry and 132 samples from imported poultry meat, were
+collected from open markets and supermarkets across Kumasi (Fig. 1).
+The majority of imported meat samples originated from the Nether-
+lands (n = 38; 29%), Brazil (n = 31; 23%) and the United States
+(n = 31; 23%) (Fig. 2). Imported poultry meat from Belgium (n = 8),
+Germany (n = 3) Poland (n = 3), Ireland (n = 2) and Turkey (n = 1)
+was less commonly purchased. For 15 imported products the country of
+origin could not be identiﬁed.
+
+Among the 200 meat samples, 71 (36%) were screened positive for
+ESBL-producing bacteria, with 46 E. coli and 35 K. pneumoniae isolates
+being detected. Nine meat samples were positive with both species, and
+one sample revealed two diﬀerent K. pneumoniae isolates. With 44%
+(n = 30) of Ghanaian meat samples and 31% (n = 41) of imported
+meat samples being contaminated with ESBL-producing bacteria, no
+clear diﬀerence between those two sampling groups was detected (PR
+0.81, 95% CI 0.64–1.03), although country-speciﬁc prevalences varied
+slightly. Looking at meat-exporting countries from which more than
+ﬁve samples have been collected, the highest ESBL rates were detected
+in Belgian (n = 7/8; 88%), Brazilian (n = 10/31; 32%) and Dutch
+
+Fig. 2. ESBL prevalence by country. Proportions of ESBL-producing Escherichia coli or
+Klebsiella pneumoniae detected in meat samples are seperated by country of origin.
+*Countries from which less than ﬁve meat samples were collected are summarized under
+“Other”: One ESBL-producing isolate each was found in meat samples from Germany
+(n = 3) and Poland (n = 3). No ESBL-producing isolate was found among meat from
+Ireland (n = 2) and Turkey (n = 1).
+
+(n = 10/38; 26%) meat products (Fig. 2).
+
+The most frequently identiﬁed ESBL genotype was CTX-M-15, with
+67% of E. coli (31/46) and 86% of K. pneumoniae (30/35) isolates
+harbouring blaCTX-M-15 (Table 1). CTX-M-15 was followed in frequency
+by CTX-M-1 (11%; 5/46) and CTX-M-2 (9%; 4/46) genotypes among E.
+coli and CTX-M-14 (6%; 2/35) and SHV-12 (6%; 2/35) genotypes
+among K. pneumoniae (Table 1).
+
+Concomitant resistance to ciproﬂoxacin was detected in 56 of the 81
+ESBL-producing isolates (69%) distributed to 59% of E. coli and 83% of
+K. pneumoniae isolates. In comparison to E. coli, K. pneumoniae isolates
+also revealed higher resistance rates for the antibiotics gentamicin
+(13% vs. 49%) and trimethoprim/sulfamethoxazole (72% vs. 91%). All
+tested isolates were susceptible to carbapenems (Table 1).
+
+MLST analysis revealed high strain diversity with 22 and 32 dif-
+ferent sequence types (ST) detected in K. pneumoniae and E. coli isolates,
+respectively. The most frequent STs in K. pneumoniae were ST2570
+(n = 7; 20%), ST147 (n = 3; 9%) and ST15 (n = 3; 9%), which com-
+prise 65% of all Ghanaian Klebsiella isolates. One Klebsiella isolate
+presented with a new allele (pgi allele 182) and two other isolates re-
+vealed a new allele proﬁle, which could not be allocated to any known
+ST. These strains were assigned the new ST numbers ST2734, ST2741
+and ST2956 in the K. pneumoniae MLST database (http://bigsdb.
+pasteur.fr/klebsiella/klebsiella.html). Among E. coli ST10 (n = 5;
+11%), ST38 (n = 3; 7%) and ST155 (n = 3; 7%) predominated. Based
+on the MLST analysis no ST clusters could be attributed to any speciﬁc
+importing country (Table 2).
+
+4. Discussion
+
+The study results demonstrate high contamination rates with ESBL-
+producing E. coli and K. pneumoniae for local Ghanaian (44%) and
+imported poultry meat (31%). A previous study from Ghana found
+
+9
+
+D. Eibach et al.
+
+Veterinary Microbiology 217 (2018) 7–12
+
+Table 1
+ESBL genotypes and antibiotic susceptibility of ESBL-producing Escherichia coli and Klebsiella pneumoniae by country of orgin.
+
+Country of origin
+
+ESBL genotypes (n)
+
+Resistance types§
+
+ESBL E. coli
+Belgium (n = 6)
+Brazil (n = 8)
+Germany (n = 1)
+Ghana (n = 19)
+Netherlands (n = 3)
+Poland (n = 1)
+USA (n = 4)
+Unknown (n = 4)
+ESBL K. pneumoniae
+Belgium (n = 1)
+Brazil (n = 5)
+Ghana (n = 17)
+Netherlands (n = 7)
+USA (n = 4)
+Unknown (n = 1)
+
+CTX-M-1 (1), CTX-M-15 (1), CTX-M-32 (1), SHV-2a (2), TEM-52c (1)
+CTX-M-1 (1), CTX-M-2 (2), CTX-M-15 (5)
+CTX-M-1 (1)
+CTX-M-1 (1), CTX-M-15 (17), CTX-M-27 (1)
+CTX-M-15 (3)
+CTX-M-15 (1)
+CTX-M-2 (2), CTX-M-15 (1), CTX-M-27 (1)
+CTX-M-1 (1), CTX-M-15 (3)
+
+CTX-M-15 (1)
+CTX-M-15 (5)
+CTX-M-14 (2), CTX-M-15 (13), SHV-12 (2)
+CTX-M-15 (7)
+CTX-M-15 (3), SHV-2a (1)
+CTX-M-3 (1)
+
+only ESBL
+n(%)
+
+Cip
+n(%)
+
+Gen
+n(%)
+
+Sxt
+n(%)
+
+CipGen
+n(%)
+
+CipGenSxt
+n(%)
+
+CipSxt
+n(%)
+
+GenSxt
+n(%)
+
+1 (17)
+0 (0)
+0 (0)
+1 (5)
+1 (33)
+0 (0)
+0 (0)
+1 (25)
+
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+1 (25)
+1 (100)
+
+0 (0)
+0 (0)
+0 (0)
+4 (21)
+0 (0)
+0 (0)
+2 (50)
+0 (0)
+
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+1 (25)
+0 (0)
+
+0 (0)
+2 (25)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+
+1 (17)
+2 (25)
+0 (0)
+6 (32)
+0 (0)
+1 (100)
+0 (0)
+3 (75)
+
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+
+1 (17)
+1 (13)
+0 (0)
+1 (5)
+0 (0)
+0 (0)
+1 (25)
+0 (0)
+
+0 (0)
+4 (80)
+4 (24)
+4 (57)
+2 (50)
+0 (0)
+
+3 (50)
+3 (38)
+1 (100)
+7 (37)
+2 (67)
+0 (0)
+1 (25)
+0 (0)
+
+0 (0)
+0 (0)
+13 (76)
+1 (14)
+0 (0)
+0 (0)
+
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+0 (0)
+
+1 (100)
+1 (20)
+0 (0)
+2 (29)
+0 (0)
+0 (0)
+
+§ Cip: ciproﬂoxacin; Gen: gentamicin; Sxt: trimethoprim/sulfamethoxazole; all isolates were tested susceptible to imipenem and meropenem.
+
+signiﬁcantly less ESBL bacteria among local poultry (11%) compared to
+imports (21%) from Brazil and the United States, suggesting the inter-
+national food trade as an important source for the spread of multidrug
+resistant bacteria (Rasmussen et al., 2015). With an even higher ESBL
+rate among international poultry products, the present study apparently
+reinforces this hypothesis. However, in contrast to other studies, the
+results presented here show that ESBL contamination of local meat
+exceeds that of most importing countries. Considering the variable
+ESBL prevalences from each country, it might be misleading to hold the
+international poultry trade in general responsible for introducing ESBL-
+carrying bacteria into Ghana. Instead rather country-speciﬁc data
+should be monitored. According to United Nations data (https://
+comtrade.un.org) the USA, Belgium, Brazil and the Netherlands are
+the main poultry meat importers, having contributed to 66% of poultry
+imports to Ghana in 2016 and comprising 82% of imported specimens
+in this sample collection. The high ESBL rate from Belgium meat sam-
+ples is particularly alarming. Previously, not only on-farm antimicrobial
+
+Table 2
+Multilocus sequence types for ESBL-producing Escherichia coli and Klebsiella pneumoniae
+isolates by country of origin.
+
+Country of origin
+
+Sequence Type (ST)
+
+ESBL E. coli
+Belgium (n = 6)
+
+Brazil (n = 8)
+
+Germany (n = 1)
+Ghana (n = 19)
+
+Netherlands (n = 3)
+Poland (n = 1)
+USA (n = 4)
+Unknown (n = 4)
+ESBL K. pneumoniae
+Belgium (n = 1)
+Brazil (n = 5)
+Ghana (n = 17)
+
+Netherlands (n = 7)
+
+USA (n = 4)
+Unknown (n = 1)
+
+ST10 (1), ST46 (1), ST101 (1), ST162 (1), ST665 (1),
+ST2197 (1)
+ST10 (1), ST38 (1), ST48 (1), ST131 (1), ST617 (1),
+ST648 (1), ST1706 (1), ST3268 (1)
+ST174 (1)
+ST10 (2), ST38 (1), ST69 (2), ST155 (2), ST193 (2),
+ST215 (1), ST218 (1), ST540 (1), ST617 (1), ST656 (1),
+ST710 (1), ST1421 (1), ST1722 (1), ST1973 (1), ST2325
+(1)
+ST38 (1), ST196 (1), ST1487 (1)
+ST540 (1)
+ST156 (1), ST354 (1), ST2309 (2)
+ST10 (1), ST57 (1), ST155 (1), ST196 (1)
+
+ST1418 (1)
+ST39 (1), ST753 (1), ST1526 (1) ST2734 (1), ST2956 (1)
+ST15 (3), ST39 (1), ST147 (2), ST261 (1), ST307 (1),
+ST336 (1), ST1798 (1), ST2390 (1), ST2570 (6)
+ST16 (1), ST29 (1), ST307 (1), ST429 (1), ST1436 (1),
+ST2171 (1), ST2741 (1)
+ST147 (1), ST394 (1), ST1035 (1), ST2570 (1)
+ST1035 (1)
+
+therapy, such as oﬀ-label ceftiofur use until 2010 (Dierikx et al., 2013),
+but also management factors, such as hygienic conditions and feeding
+procedures, have been considered responsible for the emergence of
+multidrug resistant bacteria on Belgian farms (Persoons et al., 2011). A
+study from France suggested that even ﬁve years after a drastic re-
+duction of ceftiofur use, high ESBL prevalences were still detectable in
+farm animals (Casella et al., 2017).
+
+Equally worrying are the high ESBL rates among local poultry. So
+far two studies from West Africa have investigated the contamination of
+poultry meat with ESBL E. coli, with 0% (sample size: n = 116) detected
+in Nigeria between 2008 and 2014 and 11% (sample size: n = 36) in
+Ghana in 2015 (Rasmussen et al., 2015; Ojo et al., 2016). Hence, the
+41% of ESBL-producing E. coli found in the present study may indicate
+an increasing trend, however proportions are still lower than reported
+from European countries, such as Spain (93%) or the Netherlands
+(80%) (Overdevest et al., 2011; Egea et al., 2012). The easy, un-
+regulated access and inappropriate use of antibiotics has recently been
+suggested to contribute to increasing antimicrobial resistance in Ghana
+(Yevutsey et al., 2017). This alarming development should encourage
+Ghanaian policy makers and public health authorities to enforce reg-
+ulations on food hygiene and use of antibiotics, as proposed before
+(Annan-Prah et al., 2012).
+
+As one of the globally predominant STs in the poultry population,
+ST10 is the most frequently detected ST among E. coli isolates (Huijbers
+et al., 2014; Rasmussen et al., 2015; Ojo et al., 2016). Only one E. coli
+isolate from Brazil belonged to ST131, the ST responsible for an esti-
+mated 40–80% of extra-intestinal infections with ESBL-producing E. coli
+worldwide (Nicolas-Chanoine et al., 2014). Among K. pneumoniae,
+ST2570 is most prevalent with six isolates from Ghanaian and one
+isolate from imported meat (United States). To the authors’ knowledge
+ST2570 has never been isolated in poultry or patients from Sub-Saharan
+Africa before, but due to insuﬃcient data from this region its relevance
+is diﬃcult to determine. Due to the high diversity of STs and the rela-
+tively low case number for each country, the phylogenetic analysis is
+not able to identify any country-speciﬁc ST clusters.
+
+CTX-M-15 is the most prevalent ESBL genotype among E. coli and K.
+pneumoniae in this study, similar to what has been previously reported
+for poultry meat and faecal samples from West Africa (Rasmussen et al.,
+2015; Ojo et al., 2016). Interestingly, all the Dutch isolates harboured
+the blaCTX-M-15 gene, although studies from the Netherlands show a
+predominance of blaCTX-M-1 among retail poultry meat (Leverstein-van
+Hall et al., 2011; Overdevest et al., 2011). This ﬁnding could be ex-
+plained by changing epidemiological patterns, but also by the
+
+10
+
+D. Eibach et al.
+
+Veterinary Microbiology 217 (2018) 7–12
+
+complexity in tracing back an isolate to a deﬁnite animal, environ-
+mental or human source. Local as well as imported poultry could have
+been contaminated at all stages of the food processing chain including
+processing, packing and distribution, a factor requiring consideration
+when attributing a geographical source to isolates. Nevertheless, re-
+gardless of a contaminating source, ESBL-producing bacteria on poultry
+meat may represent a risk for the end consumer, eventually leading to
+the colonization of the intestinal tract or severe infections (Lazarus
+et al., 2014).
+
+Highly relevant for clinical practice is the substantial number of
+isolates with coexisting ESBL production and resistance to trimetho-
+prim/sulfamethoxazole (80%) or ciproﬂoxacin (69%) in this study. A
+recent meta-analysis from Tanzania revealed very similar co-resistance
+numbers in animal samples and several studies have demonstrated the
+coexistence of plasmid-mediated quinolone resistance (PMQR) and
+ESBL genes on the same plasmid (Strahilevitz et al., 2009; Fortini et al.,
+2011; Seni et al., 2017). This study however, does not allow any con-
+clusions on a potential linkage of diﬀerent plasmid-mediated resistance
+genes. Nevertheless, this issue needs to be addressed in future studies,
+as those multidrug resistant strains may spread rapidly under antibiotic-
+speciﬁc selective pressure and would drastically reduce the already
+limited spectrum of available antibiotics for severe infections in the
+Sub-Saharan region (Eibach et al., 2016). If transmission of antibiotic
+resistance between poultry and human reservoirs is driven mainly by
+the spread of plasmids, as suggested previously, the importance of the
+bacteria’s genetic background, including STs, may be negligible (de
+Been et al., 2014).
+
+5. Conclusion
+
+High numbers of ESBL-producing bacteria, particularly on local but
+also imported poultry meat, represent a potential source for human
+exposure. Spread within the community might lead to severe infections
+with multidrug resistant bacteria for which no antibiotic treatment is
+available in Ghana. In order to monitor the sources of emerging mul-
+tidrug resistant pathogens, surveillance along the poultry production-
+food-consumer chain, integrating animal and human health, should be
+implemented. Surveillance activities should be combined with a more
+stringently regulated use of antibiotics on local poultry farms and in-
+creased awareness of
+the population.
+Internationally, advocacy for a reduction of antimicrobial drug use in
+animal husbandry must be reinforced.
+
+food hygiene
+
+amongst
+
+Funding
+
+This work was supported by the German Centre for Infection
+
+Research (DZIF).
+
+Conﬂict of interest
+
+The authors declare no conﬂict of interest
+
+Acknowledgements
+
+The authors would like to thank Anja Gödicke and Doris Winter for
+technical assistance and Lisa Reigl for the excellent administrative
+support. We also thank Anna Jaeger for organizing the data manage-
+ment.
+
+References
+
+Adzitey, F., 2013. Animal and meat production in Ghana-an overview. J. World’s Poult.
+
+Res. 3, 1–4.
+
+Annan-Prah, A., Agbemaﬂe, E., Tetteh, P.A., Arkorli, S.Y., 2012. Antibiotic use, abuse and
+
+their public health implications: the contributory role of management ﬂaws in the
+poultry industry in two agro-ecological zones in Ghana. J. Vet. Adv. 2, 199–208.
+
+Belmar Campos, C., Fenner, I., Wiese, N., Lensing, C., Christner, M., Rohde, H.,
+
+11
+
+Aepfelbacher, M., Fenner, T., Hentschke, M., 2014. Prevalence and genotypes of
+extended spectrum beta-lactamases in Enterobacteriaceae isolated from human stool
+and chicken meat in Hamburg, Germany. Int. J. Med. Microbiol. 304, 678–684.
+http://dx.doi.org/10.1016/j.ijmm.2014.04.012.
+
+Casella, T., Nogueira, M.C.L., Saras, E., Haenni, M., Madec, J.-Y., 2017. High prevalence
+
+of ESBLs in retail chicken meat despite reduced use of antimicrobials in chicken
+production, France. Int. J. Food Microbiol. 257, 271–275. http://dx.doi.org/10.
+1016/j.ijfoodmicro.2017.07.005.
+
+Chantziaras, I., Boyen, F., Callens, B., Dewulf, J., 2014. Correlation between veterinary
+antimicrobial use and antimicrobial resistance in food-producing animals: a report on
+seven countries. J. Antimicrob. Chemother. 69, 827–834. http://dx.doi.org/10.1093/
+jac/dkt443.
+
+de Been, M., Lanza, V.F., de Toro, M., Scharringa, J., Dohmen, W., Du, Y., Hu, J., Lei, Y.,
+Li, N., Tooming-Klunderud, A., Heederik, D.J.J., Fluit, A.C., Bonten, M.J.M., Willems,
+R.J.L., de la Cruz, F., van Schaik, W., 2014. Dissemination of cephalosporin resistance
+genes between Escherichia coli strains from farm animals and humans by speciﬁc
+plasmid lineages. PLoS Genet. 10, e1004776. http://dx.doi.org/10.1371/journal.
+pgen.1004776.
+
+Dhanji, H., Murphy, N.M., Doumith, M., Durmus, S., Surman Lee, S., Hope, R., Woodford,
+N., Livermore, D.M., 2010. Cephalosporin resistance mechanisms in Escherichia coli
+isolated from raw chicken imported into the UK. J. Antimicrob. Chemother. 65,
+2534–2537. http://dx.doi.org/10.1093/jac/dkq376.
+
+Diancourt, L., Passet, V., Verhoef, J., Grimont, P.A.D., Brisse, S., 2005. Multilocus se-
+
+quence typing of Klebsiella pneumoniae nosocomial isolates. J. Clin. Microbiol. 43,
+4178–4182. http://dx.doi.org/10.1128/JCM.43.8.4178-4182.2005.
+
+Dierikx, C.M., van der Goot, J.A., Smith, H.E., Kant, A., Mevius, D.J., 2013. Presence of
+
+ESBL/AmpC-producing Escherichia coli in the broiler production pyramid: a de-
+scriptive study. PLoS One 8, e79005. http://dx.doi.org/10.1371/journal.pone.
+0079005.
+
+EFSA, 2012. Scientiﬁc opinion on the public health hazards to be covered by inspection of
+
+meat (poultry). EFSA J. 10, 2741. http://dx.doi.org/10.2903/j.efsa.2012.2741.
+
+Egea, P., López-Cerero, L., Torres, E., Gómez-Sánchez, M., del, C., Serrano, L., Navarro
+Sánchez-Ortiz, M.D., Rodriguez-Baño, J., Pascual, A., 2012. Increased raw poultry
+meat colonization by extended spectrum beta-lactamase-producing Escherichia coli
+in the south of Spain. Int. J. Food Microbiol. 159, 69–73. http://dx.doi.org/10.1016/
+j.ijfoodmicro.2012.08.002.
+
+Eibach, D., Belmar Campos, C., Krumkamp, R., Al-Emran, H.M., Dekker, D., Boahen, K.G.,
+
+Kreuels, B., Adu-Sarkodie, Y., Aepfelbacher, M., Park, S.E., Panzner, U., Marks, F.,
+May, J., 2016. Extended spectrum beta-lactamase producing Enterobacteriaceae
+causing bloodstream infections in rural Ghana, 2007-2012. Int. J. Med. Microbiol.
+306, 249–254. http://dx.doi.org/10.1016/j.ijmm.2016.05.006.
+
+Eugster, M.J.A., Schlesinger, T., 2012. Osmar : OpenStreetMap and R. R J. 5, 53–64.
+Fortini, D., Fashae, K., García-Fernández, A., Villa, L., Carattoli, A., 2011. Plasmid-
+mediated quinolone resistance and β-lactamases in Escherichia coli from healthy
+animals from Nigeria. J. Antimicrob. Chemother. 66, 1269–1272. http://dx.doi.org/
+10.1093/jac/dkr085.
+
+Grami, R., Mansour, W., Mehri, W., Bouallègue, O., Boujaâfar, N., Madec, J.-Y., Haenni,
+
+M., 2016. Impact of food animal trade on the spread of mcr-1 -mediated colistin
+resistance, Tunisia, July 2015. Eurosurveillance 21, 30144. http://dx.doi.org/10.
+2807/1560-7917.ES.2016.21.8.30144.
+
+Huijbers, P.M., Graat, E.A., Haenen, A.P., van Santen, M.G., van Essen-Zandbergen, A.,
+Mevius, D.J., van Duijkeren, E., van Hoek, A.H., 2014. Extended-spectrum and AmpC
+-lactamase-producing Escherichia coli in broilers and people living and/or working
+on broiler farms: prevalence, risk factors and molecular characteristics. J.
+Antimicrob. Chemother. 69, 2669–2675. http://dx.doi.org/10.1093/jac/dku178.
+
+Lazarus, B., Paterson, D.L., Mollinger, J.L., Rogers, B.A., 2014. Do human extraintestinal
+Escherichia coli infections resistant to expanded-spectrum cephalosporins originate
+from food-producing animals? A systematic review. Clin. Infect. Dis. 60, 439–452.
+http://dx.doi.org/10.1093/cid/ciu785.
+
+Leverstein-van Hall, M.A., Dierikx, C.M., Cohen Stuart, J., Voets, G.M., van den
+
+Munckhof, M.P., van Essen-Zandbergen, A., Platteel, T., Fluit, A.C., van de Sande-
+Bruinsma, N., Scharinga, J., Bonten, M.J.M., Mevius, D.J., National ESBL surveillance
+group, 2011. Dutch patients, retail chicken meat and poultry share the same ESBL
+genes, plasmids and strains. Clin. Microbiol. Infect. 17, 873–880. http://dx.doi.org/
+10.1111/j.1469-0691.2011.03497.x.
+
+Maron, D., Smith, T.J., Nachman, K.E., 2013. Restrictions on antimicrobial use in food
+animal production: an international regulatory and economic survey. Glob. Health 9,
+48. http://dx.doi.org/10.1186/1744-8603-9-48.
+
+Mathers, A.J., Peirano, G., Pitout, J.D.D., 2015. The role of epidemic resistance plasmids
+
+and international high-risk clones in the spread of multidrug-resistant
+Enterobacteriaceae. Clin. Microbiol. Rev. 28, 565–591. http://dx.doi.org/10.1128/
+CMR.00116-14.
+Murphy, D., Ricci, A., Auce, Z., Beechinor, J.G., Bergendahl, H., Breathnach, R., Bureš, J.,
+Duarte Da Silva, J.P., Hederová, J., Hekman, P., Ibrahim, C., Kozhuharov, E., Kulcsár,
+G., Lander Persson, E., Lenhardsson, J.M., Mačiulskis, P., Malemis, I., Markus- Cizelj,
+L., Michaelidou- Patsia, A., Nevalainen, M., Pasquali, P., Rouby, J., Scheﬀerlie, J.,
+Schlumbohm, W., Schmit, M., Spiteri, S., Srčič, S., Taban, L., Tiirats, T., Urbain, B.,
+Vestergaard, E., Wachnik- Święcicka, A., Weeks, J., Zemann, B., Allende, A., Bolton,
+D., Chemaly, M., Fernandez Escamez, P.S., Girones, R., Herman, L., Koutsoumanis, K.,
+Lindqvist, R., Nørrung, B., Robertson, L., Ru, G., Sanaa, M., Simmons, M., Skandamis,
+P., Snary, E., Speybroeck, N., Ter Kuile, B., Wahlström, H., Baptiste, K., Catry, B.,
+Cocconcelli, P.S., Davies, R., Ducrot, C., Friis, C., Jungersen, G., More, S., Muñoz
+Madero, C., Sanders, P., Bos, M., Kunsagi, Z., Torren Edo, J., Brozzi, R., Candiani, D.,
+Guerra, B., Liebana, E., Stella, P., Threlfall, J., Jukes, H., 2017. EMA and EFSA joint
+scientiﬁc opinion on measures to reduce the need to use antimicrobial agents in
+animal husbandry in the European Union, and the resulting impacts on food safety
+
+D. Eibach et al.
+
+Veterinary Microbiology 217 (2018) 7–12
+
+(RONAFA). EFSA J. 15. http://dx.doi.org/10.2903/j.efsa.2017.4666.
+
+Nicolas-Chanoine, M.-H., Bertrand, X., Madec, J.-Y., 2014. Escherichia coli ST131, an
+intriguing clonal group. Clin. Microbiol. Rev. 27, 543–574. http://dx.doi.org/10.
+1128/CMR.00125-13.
+Ojo, O.E., Schwarz, S., Michael, G.B., 2016. Detection and characterization of extended-
+spectrum β-lactamase-producing Escherichia coli from chicken production chains in
+Nigeria. Vet. Microbiol. 194, 62–68. http://dx.doi.org/10.1016/j.vetmic.2016.04.
+022.
+
+Okeke, I.N., Lamikanra, A., Edelman, R., 1999. Socioeconomic and behavioral factors
+
+leading to acquired bacterial resistance to antibiotics in developing countries. Emerg.
+Infect. Dis. 5, 18–27. http://dx.doi.org/10.3201/eid0501.990103.
+
+Overdevest, I., Willemsen, I., Rijnsburger, M., Eustace, A., Xu, L., Hawkey, P., Heck, M.,
+
+Savelkoul, P., Vandenbroucke-Grauls, C., van der Zwaluw, K., Huijsdens, X.,
+Kluytmans, J., 2011. Extended-spectrum β-lactamase genes of Escherichia coli in
+chicken meat and humans, The Netherlands. Emerg. Infect. Dis. 17, 1216–1222.
+http://dx.doi.org/10.3201/eid1707.110209.
+
+Persoons, D., Haesebrouck, F., Smet, A., Herman, L., Heyndrickx, M., Martel, A., Catry, B.,
+
+Berge, A.C., Butaye, P., Dewulf, J., 2011. Risk factors for ceftiofur resistance in
+Escherichia coli from Belgian broilers. Epidemiol. Infect. 139, 765–771. http://dx.
+doi.org/10.1017/S0950268810001524.
+
+Rasmussen, M.M., Opintan, J.A., Frimodt-Møller, N., Styrishave, B., 2015. Beta-lactamase
+producing Escherichia coli isolates in imported and locally produced chicken meat
+from Ghana. PLoS One 10, e0139706. http://dx.doi.org/10.1371/journal.pone.
+0139706.
+
+Schaumburg, F., Alabi, A.S., Frielinghaus, L., Grobusch, M.P., Köck, R., Becker, K., Issifou,
+S., Kremsner, P.G., Peters, G., Mellmann, A., 2014. The risk to import ESBL-producing
+Enterobacteriaceae and Staphylococcus aureus through chicken meat trade in Gabon.
+BMC Microbiol. 14, 286. http://dx.doi.org/10.1186/s12866-014-0286-3.
+
+Seni, J., Moremi, N., Matee, M., van der Meer, F., DeVinney, R., Mshana, S.E., D Pitout,
+
+J.D., 2017. Preliminary insights into the occurrence of similar clones of extended-
+spectrum beta-lactamase-producing bacteria in humans, animals and the environ-
+ment in Tanzania: a systematic review and meta-analysis between 2005 and 2016.
+Zoonoses Public Health 65 (1), 1–10. http://dx.doi.org/10.1111/zph.12387.
+
+Strahilevitz, J., Jacoby, G.A., Hooper, D.C., Robicsek, A., 2009. Plasmid-mediated qui-
+nolone resistance: a multifaceted threat. Clin. Microbiol. Rev. 22, 664–689. http://
+dx.doi.org/10.1128/CMR.00016-09.
+
+Van Boeckel, T.P., Brower, C., Gilbert, M., Grenfell, B.T., Levin, S.A., Robinson, T.P.,
+
+Teillant, A., Laxminarayan, R., 2015. Global trends in antimicrobial use in food an-
+imals. Proc. Natl. Acad. Sci. U. S. A. 112, 5649–5654. http://dx.doi.org/10.1073/
+pnas.1503141112.
+
+Wirth, T., Falush, D., Lan, R., Colles, F., Mensa, P., Wieler, L.H., Karch, H., Reeves, P.R.,
+Maiden, M.C.J., Ochman, H., Achtman, M., 2006. Sex and virulence in Escherichia
+coli: an evolutionary perspective. Mol. Microbiol. 60, 1136–1151. http://dx.doi.org/
+10.1111/j.1365-2958.2006.05172.x.
+
+Yevutsey, S.K., Buabeng, K.O., Aikins, M., Anto, B.P., Biritwum, R.B., Frimodt-Møller, N.,
+Gyansa-Lutterodt, M., 2017. Situational analysis of antibiotic use and resistance in
+Ghana: policy and regulation. BMC Public Health 17, 896. http://dx.doi.org/10.
+1186/s12889-017-4910-7.
+
+12
+
+

@@ -1,0 +1,4280 @@
+Sharma et al. Ann Clin Microbiol Antimicrob  (2017) 16:65 
+DOI 10.1186/s12941-017-0242-9
+
+Annals of Clinical Microbiology
+and Antimicrobials
+
+Open Access
+
+RESEARCH
+Coagulase gene polymorphism, 
+enterotoxigenecity, biofilm production, 
+and antibiotic resistance in Staphylococcus 
+aureus isolated from bovine raw milk in North 
+West India
+
+Vishnu Sharma1, Sanjita Sharma1*, Dinesh Kumar Dahiya1, Aarif Khan1, Manisha Mathur1 and Aayushi Sharma2
+
+Abstract 
+Background:  Staphylococcus aureus is the predominant bacterium responsible for various diseases in animals and 
+humans. Preventive strategies could be better implemented by understanding the prevalence, genetic patterns, and 
+the presence of enterotoxin and biofilm-producing genes along with the antibiotic susceptibility of this organism. 
+This study was conducted in Rajasthan, the northwestern state of India, holding the largest population of cattle that 
+makes it the second largest milk producer in India and no such prior information is available on these aspects.
+Methods:  A total of 368 individual quarter bovine raw milk samples were collected from 13 districts of Rajasthan, and 
+screened for the presence of S. aureus. Microbiological and molecular approaches were followed for bacterial identi-
+fication. Genetic diversity was determined by polymerase chain reaction-restriction fragment length polymorphism 
+(PCR–RFLP) of coagulase gene (coa), whereas enterotoxin and biofilm-producing genes were studied by PCR analysis. 
+Antibiotic strips were employed to study the antibiotic resistance among strains.
+Results:  In all, 73 S. aureus strains were obtained from 368 bovine raw milk samples out of that only 30 showed the 
+presence of coa. Nine types of coa patterns ranging from 730 to 1130 bp were observed among these isolates. PCR–
+RFLP of coa distinguished the isolates into 15 genotypic patterns, of which patterns I, IV, V, and VI were predominant. 
+Of the isolates, 30% were positive for sec, 10% for sea, and 3.3% for seb; these genes are responsible for enterotoxin 
+production, whereas all isolates were found positive for icaAD and eno. The prevalence rates of other biofilm-pro-
+ducing genes fnbA, clfB, ebpS, sasG, fnbB, sasC, cna, bap, fib and, bbp were 97, 93, 90, 80, 80, 77, 53, 27, 10, and 6.6%, 
+respectively. Twenty-seven (90%) strains were multidrug resistant, of which 15 were methicillin resistant. Maximum 
+sensitivity was reported for kanamycin and it could be considered as a drug of choice for controlling S. aureus medi-
+ated cattle infections in the studied regions.
+Conclusions:  Overall, these strains could cause several diseases to humans, insisting the need for developing a 
+stricter hygiene program for improving milking practices and animal health.
+Keywords:  Staphylococcus aureus, Coagulase gene polymorphism, RFLP, Biofilm, Enterotoxin, Antibiotic susceptibility
+
+*Correspondence:  drsanjitas@gmail.com 
+1 Advanced Milk Testing Research Laboratory, Postgraduate Institute 
+of Veterinary Education and Research, Rajasthan University of Veterinary 
+and Animal Sciences at Bikaner, B-2 Bypass, Shiprapath, Mansarovar, 
+Jaipur 302020, Rajasthan, India
+Full list of author information is available at the end of the article
+
+© The Author(s) 2017. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License 
+(http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, 
+provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, 
+and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Sharma et al. Ann Clin Microbiol Antimicrob  (2017) 16:65 
+
+Page 2 of 14
+
+Background
+The  dairy  sector  in  India  has  grown  substantially  over 
+the  years,  making  India  the  world’s  largest  producer  of 
+milk [1], and Rajasthan, the northwestern state of India, 
+has the largest number of cattle that makes it the second 
+largest milk producer in India [2]. However, the yield of 
+animals within the state is not satisfactory due to various 
+production diseases and is understood as the major fac-
+tor responsible for economic losses to the dairy industry 
+in India [3, 4].
+
+Subclinical mastitis (SCM) with no sign of inflamma-
+tion is more severe than clinical forms and is responsible 
+for a huge loss to the dairy industry [5, 6]. Staphylococcus 
+aureus is a part of the normal gut microbiota [7] but is 
+also  a  predominant  microorganism  implicated  in  clini-
+cal  mastitis  and  SCM  [8]  and  is  difficult  to  eliminate. 
+The pathogenic strains of S. aureus are generally coagu-
+lase  positive  and  reported  to  cause  illness  in  their  host 
+around the world [9]. From the infected udders, S. aureus 
+directly  passes  into  the  raw  milk  and  affects  the  qual-
+ity of milk and makes the milk less suitable for further 
+product formulations (e.g., cheese, paneer [a soft, white 
+cheese]). In India, 85% of total milk produced is handled 
+by  the  noncommercial  sector  [1].  Therefore,  the  direct 
+consumption and transformation of such milk into tra-
+ditional  dairy  foods  increase  the  chances  of  associated 
+infections  because  of  improper  storage  and  transporta-
+tion facilities. The hygiene present in dairies and the lit-
+eracy of handlers about safe milk production in Rajasthan 
+are  below  satisfactory  level  [10].  For  the  effective  con-
+trol measures of S. aureus, its genetic characterization is 
+necessary [11, 12]. Coagulase gene (coa) typing has been 
+proven  to  be  the  most  successful  method  to  discrimi-
+nate isolates at the strain level, recovered from different 
+regions, mainly because of simple, accurate, and repro-
+ducible  results  obtained  with  this  technique  over  other 
+methods [13–15].
+
+Multiple virulence factors have been suspected for the 
+pathogenicity of S. aureus, among which the production 
+of  enterotoxins  and  toxic  shock  syndrome  toxin–1  and 
+the ability to form biofilms are important and worrisome 
+for the food industry [16, 17]. Staphylococcal enterotox-
+ins (SEs) are heat-stable; therefore, they may retain their 
+biological  activity  even  after  pasteurization  and  various 
+processing  steps.  An  accidental  ingestion  of  SEs  causes 
+several gastrointestinal disorders in the host [18].
+
+Biofilm-producing  S.  aureus  strains,  especially  the 
+enterotoxigenic  and  antibiotic-resistant  ones,  are  the 
+major  cause  of  several  persistent  bacterial  diseases  in 
+the livestock sector, including mastitis [19]. During bio-
+film formation, initially, the bacteria adhere to each other 
+by polysaccharide intercellular adhesion (PIA) and then 
+propagate. The PIA is under the control of the icaADBC 
+
+operon, and the strains possessing this gene cluster have 
+been reported as strong biofilm producers [20]. In addi-
+tion, several other surface markers have been reported to 
+play a crucial role in biofilm formation, specifically called 
+as  microbial  surface  components  recognizing  adhesive 
+matrix molecules (MSCRAMMs) such as collagen-bind-
+ing protein (Cna) and elastin-binding protein (Ebps). The 
+formation  of  biofilm  also  provides  a  shielding  effect  to 
+the bacterium from antibiotic attacks.
+
+To  tackle  S.  aureus-mediated  infections,  antibiotics 
+are used by veterinary professionals but their therapeu-
+tic outcomes are nearly insignificant because of the stub-
+born  nature  of  the  pathogen  [21].  The  frequent  use  of 
+antibiotics leads to the evolution of antibiotic-resistance 
+genes in S. aureus that can be easily transferred among 
+healthier commensals and to other animals and humans 
+by  close  interactions  [9].  Studying  the  response  of  S. 
+aureus to different relevant antibiotics gives the present 
+drug resistance scenario from a region and the measure 
+of associated risk factors. In addition, it may also help in 
+selecting a more effective drug from a veterinary clinical 
+point of view.
+
+Therefore,  the  aims  of  this  study  were  to  check  the 
+prevalence  of  S.  aureus  from  bovine  raw  milk  sam-
+ples  and  determine  the  genetic  heterogeneity,  virulence 
+potential,  and  antimicrobial  susceptibility  of  S.  aureus 
+from different regions of Rajasthan. These tasks were per-
+formed to generate useful information for field veterinar-
+ians and policy makers to form strategies for controlling 
+S. aureus-mediated infections and ultimately improving 
+the quality of milk.
+
+Methods
+Milk sampling and microbiological analysis
+From May 2014 to November 2015, 368 individual quarter 
+bovine raw milk samples were collected from 13 districts 
+of  Rajasthan,  India  (Fig.  1).  The  samples  were  randomly 
+taken  from  clinically  healthy  animals.  The  samples  were 
+collected  from  different  dairy  herds,  and  before  sam-
+pling, the teats of animals were cleaned with cotton balls 
+soaked  with  70%  alcohol  and  the  first  few  milliliters  of 
+milk were discarded. The samples were maintained at 4 °C 
+before processing in a laboratory. The samples were seri-
+ally diluted in 2% peptone water, and 100 µL of each sam-
+ple  was  poured  onto  S.  aureus  chromogenic  agar  plates 
+(HiMedia Laboratories, Mumbai, India) containing poly-
+myxin B (50 unit/mL). After 24-h of incubation at 37 °C, 
+Staphylococcus  colonies  showing  blue-green  color  from 
+each sample were transferred to brain heart infusion (BHI) 
+broth. The chromogenic mixture present in the medium 
+is specifically cleaved by S. aureus to produce blue-green 
+colonies, which are clearly visible against the opaque back-
+ground. For reconfirmation, the cultures were streaked on 
+
+Sharma et al. Ann Clin Microbiol Antimicrob  (2017) 16:65 
+
+Page 3 of 14
+
+Fig. 1  Map of Rajasthan India showing the districts from where sampling was carried out
+
+Mannitol salt agar and Baird Parker agar plates (Himedia 
+Laboratories). Next, the colonies were examined for mor-
+phology after Gram staining and were confirmed using the 
+API  Staph  kit  (bioMeriux,  Marcy-l’Etoile,  France).  Con-
+firmed  S.  aureus  colonies  were  examined  for  coagulase 
+activity by tube plasma agglutination test. The presump-
+tively  identified  S.  aureus  colonies  were  maintained  at 
+−80 °C in glycerol stocks for further analysis. A single col-
+ony was picked per positive sample and used to determine 
+the prevalence rate among different samples. The isolates 
+were coded conforming to their origin.
+
+DNA extraction and purification
+Genomic DNA was extracted from a freshly grown cul-
+ture  in  BHI  broth  by  using  a  modified  method  [22]. 
+Briefly, 2 mL of overnight grown culture was centrifuged 
+at 12,000×g for 10 min to form pellets. Afterwards, the 
+pellets  were  resuspended  in  200  µL  of  sucrose  EDTA 
+Tris  (SET)  buffer  containing  lysostaphin  (100  µg/mL; 
+Sigma, St. Louis, Missouri, USA) and lysozyme (100 µg/
+mL; Amersco, Solon, USA) for 1 h at 37 °C. The remain-
+ing  procedure  was  similar  as  described  elsewhere 
+[22].  The  extracted  DNA  was  examined  for  purity  and 
+
+concentration using a microplate reader at 260 nm and 
+thereafter stored at −20 °C.
+All conventionally identified S. aureus were ascertained 
+by  species-specific  primers  (F  5′-CCATGTGTAGCGG 
+TGAAATG–3′  and  R  5′-TAAGGTTCTTCGCGTTG 
+CTT–3′) obtained from the 16S rRNA region of S. aureus 
+(GenBank  accession  number:  KF993676.1)  by  using 
+Primer  3  plus  software.  A  25-µL  PCR  reaction  mixture 
+consisting of 12.5 µL of 2X DreamTaq Green PCR Master 
+Mix (Thermo Scientific, Mumbai, India), 0.5 µM of each 
+primer, and 1 µL of template DNA was prepared and per-
+formed  in  a  SureCycler  8800  Thermal  Cycler  (Agilent 
+Technologies, New Delhi, India). Following program was 
+used for PCR cycles: 2 min at 95 °C, followed by 35 cycles 
+of 30 s at 95 °C, 45 s at 57 °C, and 60 s at 72 °C with a final 
+extension of 10 min at 72 °C. A PCR product of approxi-
+mately 306 bp signifies the presence of S. aureus isolates.
+Using an earlier protocol, coa was identified in the S. 
+aureus  isolates  [23].  The  amplified  products  were  elec-
+trophoresed  on  2.0%  agarose  gel  at  100  V  for  1  h  and 
+photographed  in  a  gel  documentation  system  (BioRad 
+Laboratories, Gurgaon, India). A suitable ladder was used 
+as the size marker during electrophoresis.
+
+Sharma et al. Ann Clin Microbiol Antimicrob  (2017) 16:65 
+
+Page 4 of 14
+
+Restriction enzyme digestion of PCR‑amplified coa product
+Of the PCR-amplified coa product, 10 µL was mixed with 
+17 µL of nuclease-free water, 2 µL of buffer Tango, and 
+1 µL of AluI (Thermo Scientific) and incubated at 37 °C 
+for 1 h for digestion. The digested products were resolved 
+on 2.0% agarose gel and examined in a gel documenta-
+tion  system.  A  100–1500-bp  ladder  (Promega,  Wiscon-
+sin, USA) was used as the size marker for analyzing the 
+digested coa fragments.
+
+The  generated  Coa-RFLP  patterns  were  analyzed  by 
+the BioNumerics (version 7.6) software package (Applied 
+Maths,  Sint-Martens-Latem,  Belgium).  A  dendrogram 
+was  prepared  by  using  the  Dice-coefficient  and  the 
+unweighted pair group method with arithmetic averages 
+as the cluster analysis method.
+
+Reproducibility testing
+PCR reproducibility was analyzed by testing five isolates 
+for five consecutive days. The PCR–RFLP reproducibility 
+of coa was determined by digesting four products twice 
+with the AluI enzyme.
+
+Calculating numerical index of discrimination
+A numerical index equation was used to determine the 
+discriminatory power of the typing method as described 
+previously [24]. The following formula was used:
+
+D = 1 −
+
+1
+
+N (N − 1)
+
+s
+(cid:31)
+j=1
+
+nj(nj − 1)
+
+where D = discriminatory index, s = total number of dif-
+ferent types, nj = number of isolates representing each 
+type,  and  N  =  total  number  of  isolates  in  the  sample 
+population.
+
+Detection of enterotoxin and biofilm genes
+The  amplification  of  the  genes  coding  for  enterotoxins 
+and  biofilm  production  (Table  1)  was  performed  using 
+the multiplex PCR method [25, 26].
+
+Determination of minimum inhibitory concentration
+The  minimum  inhibitory  concentration  (MIC)  of  all  S. 
+aureus isolates was determined using E-strips as per the 
+manufacturer’s  instructions  after  adjusting  their  OD  to 
+McFarland  0.5  as  disclosed  previously  [27].  The  results 
+obtained  were  analyzed  according  to  CLSI  guidelines 
+[28].  The  MIC  E-strips  (0.016–256  µg/mL)  (HiMedia 
+Laboratories)  were  used  for  susceptibility  observation. 
+The antimicrobials used were according to the informa-
+tion collected from the field veterinarians and practicing 
+clinicians. S. aureus ATCC 29213 was used as the refer-
+ence  strain  for  quality  control.  Methicillin-resistant  S. 
+aureus  (MRSA)-positive  strains  were  further  confirmed 
+
+on HiCrome MeReSa Agar (HiMedia Laboratories) and 
+validated by the amplification of mecA by PCR [29].
+
+Results
+Out of 368 bovine raw milk samples, S. aureus contami-
+nation  was  present  in  73  (19.84%)  samples  (Table 2)  as 
+revealed  by  media  plating  analysis.  All  73  isolates  were 
+found as S. aureus in API analysis. Out of the 73 isolates, 
+30  (41.1%)  showed  coagulase  activity  and  were  further 
+confirmed  as  S.  aureus  by  PCR.  Furthermore,  all  these 
+phenotypically coagulase-positive S. aureus scored posi-
+tive for coa during PCR analysis (Fig. 2). Nine types of 
+coa patterns ranging from 730 to 1130 bp were observed 
+(Table 3), and the sizes, 820 and 920 bp, were the most 
+predominantly  noticed  product  sizes,  accounting  alto-
+gether for 67% of the total coa-positive isolates (Table 3). 
+Twenty-seven  isolates  depicted  one  PCR  band  while 
+three  isolates  (15,  17,  and  19)  depicted  double  bands 
+(Fig. 2). The polymorphism in coa was studied by RFLP 
+(Fig. 3), where fifteen (I–XV) RFLP patterns (Table 3 and 
+Fig. 4) were observed. RFLP patterns I, IV, V, and VI were 
+the dominant patterns being noticed in three (10%), three 
+(10%),  six  (20%),  and  four  (13.3%)  isolates,  respectively 
+(Table 3). The isolates with the most predominant pattern 
+(V)  displayed  two  DNA  fragments  of  540  and  260  bp. 
+The isolates with pattern VI had DNA fragments of 565 
+and 270 bp. The isolates with patterns I and IV had DNA 
+fragments of 430 and 260 bp and 528 and 250 bp, respec-
+tively. Rest all other remaining patterns were shown by a 
+single (II, VII, X, XI, XII, and XIV) or two (VIII, IX, and 
+XIII)  isolates.  The  reproducibility  of  the  PCR  products 
+and coa PCR–RFLP was demonstrated with 100% of the 
+repeatedly  tested  isolates;  however,  the  results  showed 
+some variations in the intensity of bands.
+
+The  discriminatory  index  for  the  AluI  RFLP  method 
+was about 0.80, indicating a fair discriminatory power of 
+this method for typing S. aureus. Further RFLP analysis 
+classified the 30 S. aureus strains into five major clusters 
+designated as A, B, C, D, and E (Fig. 4). The dendrogram 
+depicted  that  cluster  A  was  40%  similar  to  other  clus-
+ters  (B-D)  and  was  composed  of  isolates  obtained  from 
+eight  regions.  Cluster  B  was  52%  identical  with  clus-
+ters C to E and was composed of isolates obtained from 
+three regions. Similarly, cluster C with approximately 82% 
+identity with clusters D and E included isolates from four 
+regions. Cluster D was composed of five isolates obtained 
+from two regions. The remaining cluster E was composed 
+of only one isolate that was derived from a totally different 
+region.
+
+Of  the  analyzed  enterotoxin  genes,  30%  isolates  were 
+positive for sec, 10% for sea, and 3.3% for seb (Table 4). 
+No isolate was detected harboring the remaining entero-
+toxin genes.
+
+Sharma et al. Ann Clin Microbiol Antimicrob  (2017) 16:65 
+
+Page 5 of 14
+
+Table 1  Primers used for detection of S. aureus enterotoxin and biofilm genes
+
+Gene
+
+Primer sequence (5′–3′)
+
+Product size (bp)
+
+Multiplex PCR set
+
+A
+
+A
+
+A
+
+A
+
+A
+
+B
+
+B
+
+B
+
+seaa
+
+seba
+
+seca
+
+seda
+
+seea
+
+etaa
+
+etba
+
+tsta
+
+bapb
+
+bbpb
+
+cnab
+
+clfAb
+
+clfBb
+
+ebpSb
+
+enob
+
+fibb
+
+fnbpAb
+
+fnbpBb
+
+icaADb
+
+icaBCb
+
+sasCb
+
+sasGb
+
+GGTTATCAATGTGCGGGTGG
+CGGCACTTTTTTCTCTTCGG
+GTATGGTGGTGTAACTGAGC
+CCAAATAGTGACGAGTTAGG
+AGATGAAGTAGTTGATGTGTATGG
+CACACTTTTAGAATCAACCG
+CCAATAATAGGAGAAAATAAAAG
+ATTGGTATTTTTTTTCGTTC
+AGGTTTTTTCACAGGTCATCC
+CTTTTTTTTCTTCGGTCAATC
+GCAGGTGTTGATTTAGCATT
+AGATGTCCCTATTTTTGCTG
+ACAAGCAAAAGAATACAGCG
+GTTTTTGGCTGCTTCTCTTG
+ACCCCTGTTCCCTTATCATC
+TTTTCAGTATTTGTAACGCC
+GAGCCAAGACAAAGGTGAAG
+GTAGCCATAGCACGGAACAT
+CTTAGCAGTTCAACAGGGTG
+TTGGCTTTATTGTGATGGTC
+CGATAACATCTGGGAATAAA
+ATAGTCTCCACTAGGCAACG
+AGTACCAAATGAGGCTGTTC
+AAATGCTACTTCGTTGTCCC
+CACTTACTTTACCGCTACTTTC
+AACGAGCAATACCACTACAACAG
+GGTGAACCTGAACCGTAG
+CTGGCAAGGCGAATAACT
+GTCGTGCATTAGTACCATCAGG
+TTTCCAACCATCCCAGTCG
+AGATGCGAGCGAAGGGTA
+TAAACGAAACTAAGTTGACTGC
+TCCGCCGAACAACATACC
+TCAAGCACAAGGACCAAT
+TCTGCGTTATGAGGATTT
+ACAGTAGAGGAAAGTGGG
+TGGCTACTGGGATACTGATA
+TGGAAATGCGACAAGAACTA
+GCCTATCCTTATGGCTTGA
+TGGAATCCGTCCCATCTC
+AGAATGAAGTCCGATAGAGT
+AATCATACAGATGGCAATAC
+TATCAACACTTCCGTAACCTTC
+CGTCAGTCACTCATAACGCAGA
+
+102
+
+164
+
+451
+
+278
+
+209
+
+93
+
+226
+
+326
+
+873
+
+1662
+
+716
+
+796
+
+968
+
+661
+
+812
+
+347
+
+952
+
+452
+
+520
+
+182
+
+936
+
+159
+
+a  Represents the enterotoxin genes while b depicts the biofilm genes
+
+Regarding  biofilm-encoding  genes,  all  isolates  typed 
+100% positive for icaAD, icaBC, and eno (Table 5). The 
+prevalence  rates  of  fnbA,  clfB,  ebpS,  sasG,  fnbB,  sasC, 
+cna, bap, fib, and bbp were 97, 93, 90, 80, 80, 53, 77, 27, 
+10,  and  6.6%,  respectively.  Low  prevalence  was  noticed 
+for clfA (3.3%) as only one isolate was found positive for 
+this gene.
+
+Antibiotic susceptibility test revealed that 27 (90%) iso-
+lates were resistant to penicillin, 23 (77%) to ampicillin, 
+
+17 (57%) to amikacin, 15 (50%) to oxacillin, 12 (40%) to 
+ciprofloxacin,  9  (30%)  to  azithromycin,  and  7  (23%)  to 
+piperacillin (Table 6). Five (17%) isolates showed resist-
+ance to linezolid and tetracycline; 3 (10%) to gatifloxacin 
+and rifampicin; 2 (7%) to ceftazidime, chloramphenicol, 
+and  norfloxacin;  and  1  (3%)  to  gentamicin,  teicoplanin, 
+and  vancomycin  (Table  6).  Intermediate  resistance  to 
+amikacin,  azithromycin,  ceftazidime,  ceftriaxone,  chlo-
+ramphenicol,  ciprofloxacin,  gatifloxacin,  gentamicin, 
+
+Sharma et al. Ann Clin Microbiol Antimicrob  (2017) 16:65 
+
+Page 6 of 14
+
+Table 2  Details  of  samples  contaminated  with  S.  aureus 
+and their prevalence
+
+Sampling districts/
+regions
+
+No. of raw milk 
+samples collected
+
+No. of positive  
+samples (% prevalence)
+
+Ajmer
+Bharatpur
+Bhilwara
+Bikaner
+Chittorgarh
+Hanumangarh
+Jaipur
+Mount Abu
+Pali
+Sirohi
+Sikar
+Shri-Ganganagar
+Udaipur
+Total
+
+28
+28
+28
+28
+28
+28
+30
+28
+28
+30
+28
+28
+28
+368
+
+4 (1.09)
+7 (1.90)
+3 (0.82)
+2 (0.54)
+4 (1.09)
+7 (1.90)
+5 (1.36)
+8 (2.17)
+6 (1.63)
+13 (3.53)
+5 (1.36)
+6 (1.63)
+3 (0.82)
+73 (19.84)
+
+teicoplanin, and vancomycin was shown by 1 (3%), 1 (3%), 
+2 (7%), 3 (10%), 2 (7%), 4 (13%), 3 (10%), 1 (3%), 1 (3%), 
+and  3  (10%)  isolates,  respectively.  Twenty-seven  (90%) 
+of  the  strains  tested  showed  multiple  drug  resistance 
+
+(complete or intermediate) to three or more antibiotics. 
+All isolates were completely (100%) sensitive to kanamy-
+cin.  Additionally,  15  strains  were  resistant  to  oxacillin, 
+penicillin, and ampicillin along with other antibiotics and 
+were considered as MRSA strains [9]. All 15 strains fur-
+ther showed their presence on MeReSa Agar and found 
+positive for mecA (Fig. 5).
+
+Discussion
+In this study, the prevalence, genetic patterns, pathogenic 
+potential, and antibiotic susceptibility of S. aureus recov-
+ered from 13 districts of Rajasthan, India, were discussed. 
+Our results indicated that 19.84% of milk samples were 
+positive for S. aureus, and to the best of our knowledge, 
+this  is  the  first  comprehensive  study  from  Rajasthan. 
+Similar findings concerning the prevalence of S. aureus 
+in  bovine  raw  milk  samples  were  reported  from  differ-
+ent sub-parts of India; however, the prevalence rate var-
+ied greatly among the studies [30–36]. Of note, moderate 
+prevalence was reported in the present study. We posit 
+that inadequate hygiene and inferior management prac-
+tices facilitate the entry of microorganisms to udders and 
+concomitantly the shedding of microorganisms into milk.
+The phenotypic method is not sufficient for categoriz-
+ing  between  coagulase-positive  and  -negative  S.  aureus 
+
+Fig. 2  Agarose gel electrophoresis of the coagulase gene (coa). Lane M; 100–1500 bp molecular marker, 1-STRMCOR7 (920 bp), 
+2-STRMPL47(730 bp), 3-STRMSH56 (820 bp), 4-STRMBHL57 (750 bp), 5-STRMSH58 (820 bp), 6-STRMHMO59 (1060 bp), 7-STRMUDZ70 (920 bp), 
+8-STRMSH73 (820 bp), 9-STRMSH74 (820 bp), 10-STRMHMO79 (920 bp), 11-STRMSH37 (920 bp), 12-STRMSH42 (920p), 13-STRMMA11 (820 bp), 
+14-STRMMA20 (820p), 15-STRMUDZ2 (1130 bp) 16-STRMMA3 (820 bp), 17-STRMSGNR64 (1130 bp), 18-STRMSGNR19 (1130 bp), 19-STRMUDZ6 
+(1130 bp), 20-STRMBKN5 (820 bp), 21-STRMSK96 (820 bp), 22-STRMSK98 (820 bp), 23-STRMSK100 (820 bp), 24-STRMBP11 (820 bp), 25-STRMB12 
+(820 bp), 26-STRMJ102 (820 bp), 27-STRMJ3 (820 bp), 28-STRMP23 (920 bp), 29-STRMSGNR9 (880 bp), 30-STAJM33 (800 bp)
+
+Sharma et al. Ann Clin Microbiol Antimicrob  (2017) 16:65 
+
+Page 7 of 14
+
+Table 3  Genotype distributions of S. aureus cultures obtained from different regions of Rajasthan and their RFLP pat-
+terns
+
+Coa gene PCR  
+product (bp)
+
+RFLP pattern
+
+n
+
+Isolate name
+
+Isolated region
+
+Genotype code/ 
+distinct RFLP pattern
+
+730
+750
+800
+820
+820
+
+820
+
+820
+820
+880
+920
+920
+920
+920
+940
+1060
+1130
+
+1130
+1130
+
+430-260
+620
+420-240
+528-250
+540-260
+
+565-270
+
+430-260
+440-360
+420-330
+440-260-170
+420-330
+462-373
+425-260
+452-273-186
+540-350
+445-360-170
+
+452-370-175
+460-380-182
+
+1
+1
+1
+3
+6
+
+4
+
+1
+1
+1
+2
+1
+1
+1
+1
+1
+2
+
+1
+1
+
+STRMPL47
+STRMBHL57
+STAJM33
+STRMBP12, STRMJ102, STRMJ3
+STRMMA20, STRMMA3, STRMSK96, 
+
+STRMSK 98, STRMSK100, STRMBP11
+
+STRMSH56, STRMSH58, STRMSH73, 
+
+STRMSH74
+STRMMA11
+STRMBKN5
+STRMSGNR9
+STRMSH37, STRMSH42
+STRMPL23
+STRMHMO79
+STRMCOR7
+STRMUDZ70
+STRMHMO59
+STRMSGNR19, STRMUDZ6
+
+STRMSGNR64
+STRMUDZ2
+
+PL; Pali
+BHL; Bhilwara
+AJM; Ajmer
+BP; Bharatpur, J; Jaipur
+SH; Sirohi MA; Mount abu, SK; 
+
+Sikar, BP; Bharatpur
+
+SH; Sirohi
+
+MA; Mount abu
+BKN; Bikaner
+SGNR; Shri-Ganganagar
+SH; Sirohi
+PL: Pali
+HMO; Hanumangarh
+COR; Chittorgarh
+UDZ; Udaipur
+HMO; Hanumangarh
+SGNR; Shri-Ganganagar, UDZ; 
+
+Udaipur
+
+SGNR; Shri-Ganganagar
+UDZ; Udaipur
+
+I
+II
+III
+IV
+V
+
+VI
+
+I
+VII
+VIII
+IX
+VIII
+X
+I
+XI
+XII
+XIII
+
+XIV
+XV
+
+Fig. 3  RFLP of the coagulase gene (coa) after digestion with AluI. Lane M; 100–1500 bp molecular marker, 1-STRMCOR7, 2-STRMPL47, 3-STRMSH56, 
+4-STRMBHL57, 5-STRMSH58, 6-STRMHMO59, 7-STRMUDZ70, 8-STRMSH73, 9-STRMSH74, 10-STRMHMO79, 11-STRMSH37, 12-STRMSH42, 
+13-STRMMA11, 14-STRMMA20, 15-STRMUDZ2, 16-STRMMA3, 17-STRMSGNR64, 18-STRMSGNR19, 19-STRMUDZ6, 20-STRMBKN5, 21-STRMSK96, 
+22-STRMSK98, 23-STRMSK100, 24-STRMBP11, 25-STRMB12, 26-STRMJ102, 27-STRMJ3, 28-STRMP23, 29-STRMSGNR9, 30-STAJM33
+
+Sharma et al. Ann Clin Microbiol Antimicrob  (2017) 16:65 
+
+Page 8 of 14
+
+Fig. 4  Dendrogram showing genetic heterogeneity among S. aureus isolates on the basis of the coa gene polymorphism
+
+isolates [37]. Therefore, we examined the isolates for the 
+coa presence by PCR. Nine coa PCR types were obtained, 
+signifying  considerable  variation  among  the  S.  aureus 
+types  and  this  finding  is  in  agreement  with  others  [14, 
+23, 38]. The precise reason for this high rate of polymor-
+phism  observed  among  the  strains  is  debatable.  How-
+ever, because of the presence of a series of 81-bp tandem 
+repeats in the 3′-end region of coa, the high rate of poly-
+morphism possibly alters the antigenic properties of the 
+gene.  Therefore,  the  gene’s  conformity  is  possibly  rec-
+ognized as the topmost reason behind the failure in the 
+action of neutralizing antibodies [39]. A double band for 
+coa was also visualized among three isolates, indicating 
+the existence of distinct allelic forms of coa. The appro-
+priate  reason  behind  this  distinct  coa  pattern  is  linked 
+
+to the production of more than one immunologic form 
+of the coagulase protein by some S. aureus isolates [23], 
+although  this  pattern  is  rarely  observed  and  only  a  few 
+authors have reported it [38, 40].
+
+In the present study, the digestion of the different coa 
+amplicons  with  AluI  reveals  considerable  genetic  vari-
+ability as it classifies them into 15 patterns. The findings 
+are  similar  to  those  of  others  [14,  23,  41]  who  found  a 
+considerable  degree  of  variability  in  coa  RFLP  patterns 
+after digestion with the same enzyme, although the sizes 
+of  PCR  products  obtained  here  were  almost  different 
+from those in earlier studies. Besides, the typing method 
+opted  for  the  discrimination  was  found  full-proof  as  it 
+displayed a fairly good discriminatory power, i.e., of 0.80 
+and is supported by the findings of Sarvari et al. [15] who 
+
+Sharma et al. Ann Clin Microbiol Antimicrob  (2017) 16:65 
+
+Page 9 of 14
+
+sea
+
+seb
+
+sec
+
+Table 4  Results of enterotoxins genes in S. aureus isolates
+Isolates (n = 30)
+STRMPL47
+STRMPL23
+STRMBHL57
+STAJM33
+STRMSH56
+STRMSH58
+STRMSH73
+STRMSH74
+STRMSH37
+STRMSH42
+STRMMA20
+STRMMA3
+STRMMA11
+STRMSK96
+STRMSK 98
+STRMSK100
+STRMBP11
+STRMBP12
+STRMJ102
+STRMJ3
+STRMBKN5
+STRMSGNR9
+STRMSGNR19
+STRMSGNR64
+STRMCOR7
+STRMHMO79
+STRMHMO59
+STRMUDZ70
+STRMUDZ2
+STRMUDZ6
+Occurrence (%)
+
++
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+3.3
+
+–
+–
++
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++
+–
+–
+–
+–
+–
+–
++
+–
+–
+–
+–
+–
+–
+10
+
+–
+–
++
+–
++
+–
+–
++
+–
+–
+–
+–
++
+–
+–
+–
++
+–
+–
+–
++
+–
+–
++
+–
+–
++
++
+–
+–
+30
+
+sed
+
+see
+
+eta
+
+etb
+
+tst
+
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+0
+
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+0
+
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+0
+
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+0
+
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+0
+
+obtained a discriminatory index of 0.82 among S. aureus 
+isolates.
+
+As  mentioned  earlier,  the  study  segregated  all  30  S. 
+aureus  isolates  into  five  clusters  (A–E),  among  which 
+patterns  I,  IV,  V,  and  VI  were  predominant.  Most  pat-
+terns belonged to clusters A and C. This indicates weak 
+to no heterogeneity in the AluI recognition sites among 
+the isolates of these predominant patterns. Momtaz et al. 
+[14] found that out of 42 coa-positive S. aureus isolates, 
+31 (73.8%) belonged to genotype pattern I and 11 (26%) 
+to II. Likewise, in another study [39], pattern I was found 
+predominant. These findings support our results and jus-
+tify that in a particular geographical region a predominant 
+genotype is present because of prevailing favorable envi-
+ronmental conditions. Besides, the internal resistance of 
+strains toward the host immune system also substantially 
+
+plays  an  important  role  in  the  strain’s  dominance.  The 
+predominant isolates from a region have possibly evolved 
+mechanisms to bypass the host phagocytosis than the iso-
+lates with rare genotypes [42, 43]. Furthermore, the exist-
+ence of a similar RFLP pattern for intra-regional strains in 
+genotypes, I, IV, V, VI, VIII, IX, and XIII suggests the pos-
+sibility of transmission of some strains from one region to 
+another during the transportation of milk.
+
+Next,  we  tested  all  isolates  for  enterotoxin-producing 
+genes  and  none  of  them  from  Ajmer,  Jaipur,  and  Chit-
+torgarh  regions  scored  positive  for  these  genes.  In  our 
+study, the genes for toxins (sed, see, eta, etb, and tst) were 
+not amplified in any of the 30 isolates. Enterotoxins con-
+tribute  to  the  pathogenesis  of  S.  aureus  by  modulating 
+immunity  and  susceptibility  to  antibiotics  resulting  in 
+the onset of many diseases [44]. The reports concerning 
+
+Sharma et al. Ann Clin Microbiol Antimicrob  (2017) 16:65 
+
+Page 10 of 14
+
+icaAD
+
+icaBC
+
+clfB
+
+clfA
+
+fnbA
+
+fnbB
+
+Table 5  Results of adhesion genes typed in S. aureus isolates
+Isolates (n = 30)
+STRMPL47
+STRMPL23
+STRMBHL57
+STAJM33
+STRMSH56
+STRMSH58
+STRMSH73
+STRMSH74
+STRMSH37
+STRMSH42
+STRMMA20
+STRMMA3
+STRMMA11
+STRMSK96
+STRMSK 98
+STRMSK100
+STRMBP11
+STRMBP12
+STRMJ102
+STRMJ3
+STRMBKN5
+STRMSGNR9
+STRMSGNR19
+STRMSGNR64
+STRMCOR7
+STRMHMO79
+STRMHMO59
+STRMUDZ70
+STRMUDZ2
+STRMUDZ6
+Occurrence (%)
+
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+100
+
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+100
+
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+3.3
+
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+–
++
++
++
++
++
++
++
+–
++
++
++
+93
+
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+–
++
++
++
++
++
++
++
++
++
++
++
+97
+
++
++
++
++
++
++
++
++
++
+–
++
+–
++
++
++
++
++
++
+–
++
+–
++
++
+–
++
++
+–
++
++
++
+80
+
+ebpS
+
+eno
+
+fib
+
+sasG
+
+sasC
+
+bbp
+
+bap
+
+cna
+
++
++
++
++
++
++
++
++
++
+–
++
++
++
++
++
++
++
++
+–
++
++
++
++
++
++
++
+–
++
++
++
+90
+
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+100
+
+–
+–
++
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++
+–
+–
+–
+–
++
+–
+–
+–
+–
+–
+–
+–
+–
+10
+
+–
++
++
++
++
++
++
++
++
++
++
+–
++
++
++
++
++
++
+–
++
++
++
++
+–
++
++
+–
++
++
+–
+80
+
+–
+–
++
+–
++
++
+–
++
++
+–
+–
+–
++
++
+–
++
++
++
+–
++
+–
++
++
+–
++
++
+–
+–
++
+–
+53
+
+–
+–
++
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+6.6
+
+–
+–
++
+–
+–
+–
+–
++
+–
+–
+–
+–
+–
+–
+–
+–
++
++
+–
+–
+–
++
++
+–
+–
++
+–
+–
++
+–
+27
+
+–
++
++
+–
++
++
++
++
++
+–
++
+–
++
++
++
++
++
++
+–
++
++
++
++
++
++
++
+–
++
++
+–
+77
+
+the  presence  of  enterotoxin-producing  genes  (sea,  seb, 
+sec, sed, and see) among S. aureus strains isolated from 
+milk  of  animals  with  bovine  mastitis  concur  with  our 
+findings [44]. Here, we did not find the presence of eta 
+and etb exfoliative genes, and these results are in agree-
+ment  with  previous  studies  [11,  44,  45],  which  inferred 
+that S. aureus strains isolated from animals with mastitis 
+were rarely found positive for exfoliative toxins. Similarly, 
+the  presence  of  tsst–1  was  not  observed  in  any  isolate, 
+although its prevalence in isolates from cattle with masti-
+tis was reported in conjunction with sec and sed [44].
+
+Most  information  about  the  ability  of  S.  aureus  to 
+form  biofilms  is  restricted  to  the  isolates  recovered 
+from  clinical  studies  or  medical  devices,  and  insuffi-
+cient  information  is  available  for  bovine  milk-derived 
+isolates.  Therefore,  we  studied  MSCRAMM  genes  to 
+
+understand their prevalence. The products of these genes 
+aid  the  bacterium  to  adhere  to  the  host  components 
+and  produce  biofilm.  Previous  studies  on  MSCRAMM 
+genes  in  Enterococcus  faecium,  S.  saprophyticus,  and  S. 
+aureus  mention  that  instead  of  their  active  role  in  bio-
+film development, some gene products are also involved 
+in  pathogenesis.  Here,  a  great  diversity  in  the  presence 
+of  biofilm-producing  genes  was  observed  among  the 
+isolates  recovered  from  different  regions.  The  complete 
+dominance was observed for icaAD and eno responsible 
+for  polysaccharide  intracellular  adhesion  and  laminin-
+binding proteins that have a crucial role in bovine mas-
+titis pathogenesis [46]. These findings are in agreement 
+with  previous  studies  [26,  45,  47]  that  reported  higher 
+prevalence rates for these genes. fnbA and fnbB that are 
+usually  associated  with  invasive  diseases  [48]  were  also 
+
+Sharma et al. Ann Clin Microbiol Antimicrob  (2017) 16:65 
+
+Page 11 of 14
+
+‑
+o
+c
+n
+a
+V
+
+n
+i
+c
+y
+m
+
+I
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+I
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+I
+
+S
+
+S
+
+S
+
+‑
+a
+r
+t
+e
+T
+
+n
+
+i
+l
+c
+y
+c
+
+‑
+o
+c
+i
+e
+T
+
+i
+
+n
+n
+a
+l
+p
+
+n
+i
+c
+p
+m
+a
+f
+i
+R
+
+‑
+r
+e
+p
+P
+
+i
+
+n
+
+i
+l
+l
+i
+c
+a
+
+‑
+i
+n
+e
+P
+
+n
+
+i
+l
+l
+i
+c
+
+‑
+a
+x
+O
+
+n
+
+i
+l
+l
+i
+c
+
+‑
+a
+x
+o
+fl
+
+‑
+r
+o
+N
+
+n
+i
+c
+
+‑
+e
+n
+i
+L
+
+d
+
+i
+l
+
+o
+z
+
+‑
+a
+n
+a
+K
+
+n
+i
+c
+y
+m
+
+n
+i
+c
+i
+m
+a
+t
+
+‑
+n
+e
+G
+
+‑
+i
+t
+a
+G
+
+‑
+a
+x
+o
+fl
+
+n
+i
+c
+
+‑
+o
+r
+p
+C
+
+i
+
+‑
+a
+x
+o
+fl
+
+n
+i
+c
+
+l
+
+‑
+o
+h
+C
+
+‑
+
+m
+a
+r
+
+‑
+n
+e
+h
+p
+
+l
+
+o
+c
+i
+
+‑
+x
+a
+i
+r
+t
+
+‑
+f
+e
+C
+
+e
+n
+o
+
+‑
+f
+e
+C
+
+‑
+i
+z
+a
+t
+
+e
+m
+d
+
+i
+
+‑
+o
+r
+h
+t
+i
+z
+A
+
+n
+i
+c
+y
+m
+
+‑
+i
+p
+m
+A
+
+n
+
+i
+l
+l
+i
+c
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+I
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+R
+
+S
+
+R
+
+R
+
+R
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+S
+
+R
+
+R
+
+S
+
+R
+
+R
+
+R
+
+R
+
+R
+
+S
+
+R
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+R
+
+S
+
+R
+
+R
+
+R
+
+S
+
+R
+
+S
+
+R
+
+R
+
+S
+
+R
+
+R
+
+S
+
+R
+
+R
+
+R
+
+S
+
+S
+
+S
+
+R
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+R
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+I
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+I
+
+S
+
+S
+
+S
+
+S
+
+R
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+I
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+I
+
+S
+
+S
+
+S
+
+R
+
+S
+
+R
+
+S
+
+S
+
+I
+
+I
+
+S
+
+R
+
+R
+
+S
+
+S
+
+R
+
+R
+
+I
+
+R
+
+R
+
+R
+
+S
+
+R
+
+R
+
+I
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+I
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+I
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+I
+
+S
+
+S
+
+S
+
+I
+
+S
+
+S
+
+I
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+I
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+I
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+S
+
+R
+
+R
+
+S
+
+R
+
+I
+
+S
+
+R
+
+S
+
+R
+
+R
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+R
+
+R
+
+R
+
+R
+
+S
+
+R
+
+R
+
+R
+
+S
+
+R
+
+R
+
+R
+
+S
+
+R
+
+R
+
+R
+
+R
+
+S
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+S
+
+R
+
+S
+
+R
+
+R
+
+‑
+x
+o
+m
+A
+
+v
+a
+l
+c
+y
+
+R
+
+S
+
+R
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+R
+
+R
+
+S
+
+R
+
+‑
+i
+
+m
+A
+
+n
+i
+c
+a
+k
+
+R
+
+S
+
+I
+
+R
+
+R
+
+S
+
+R
+
+R
+
+R
+
+S
+
+R
+
+R
+
+R
+
+S
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+S
+
+S
+
+S
+
+S
+
+R
+
+S
+
+S
+
+S
+
+S
+
+i
+
+s
+c
+i
+t
+o
+b
+i
+t
+n
+A
+
+6
+2
+
+3
+0
+
+1
+0
+
+5
+2
+
+0
+
+5
+0
+
+8
+2
+
+1
+0
+
+1
+0
+
+7
+2
+
+0
+
+3
+0
+
+3
+2
+
+0
+
+7
+0
+
+3
+0
+
+0
+
+7
+2
+
+5
+1
+
+0
+
+5
+1
+
+8
+2
+
+0
+
+2
+0
+
+5
+2
+
+0
+
+5
+0
+
+0
+3
+
+0
+
+0
+
+8
+2
+
+1
+0
+
+1
+0
+
+4
+2
+
+3
+0
+
+3
+0
+
+4
+1
+
+4
+0
+
+2
+1
+
+6
+2
+
+2
+0
+
+2
+0
+
+7
+2
+
+3
+0
+
+0
+
+6
+2
+
+2
+0
+
+2
+0
+
+0
+2
+
+1
+0
+
+9
+0
+
+7
+0
+
+0
+
+3
+2
+
+2
+2
+
+0
+
+8
+0
+
+2
+1
+
+1
+0
+
+7
+1
+
+ 
+
+s
+e
+t
+a
+l
+o
+s
+I
+
+ 
+
+)
+0
+3
+=
+n
+(
+
+ 
+
+7
+4
+L
+P
+M
+R
+T
+S
+
+3
+2
+L
+P
+M
+R
+T
+S
+
+7
+5
+L
+H
+B
+M
+R
+T
+S
+
+6
+5
+H
+S
+M
+R
+T
+S
+
+8
+5
+H
+S
+M
+R
+T
+S
+
+3
+7
+H
+S
+M
+R
+T
+S
+
+4
+7
+H
+S
+M
+R
+T
+S
+
+7
+3
+H
+S
+M
+R
+T
+S
+
+2
+4
+H
+S
+M
+R
+T
+S
+
+3
+3
+M
+J
+A
+T
+S
+
+0
+2
+A
+M
+M
+R
+T
+S
+
+3
+A
+M
+M
+R
+T
+S
+
+1
+1
+A
+M
+M
+R
+T
+S
+
+6
+9
+K
+S
+M
+R
+T
+S
+
+ 
+
+8
+9
+K
+S
+M
+R
+T
+S
+
+0
+0
+1
+K
+S
+M
+R
+T
+S
+
+1
+1
+P
+B
+M
+R
+T
+S
+
+2
+1
+P
+B
+M
+R
+T
+S
+
+2
+0
+1
+J
+M
+R
+T
+S
+
+3
+J
+M
+R
+T
+S
+
+9
+R
+N
+G
+S
+M
+R
+T
+S
+
+5
+N
+K
+B
+M
+R
+T
+S
+
+9
+1
+R
+N
+G
+S
+M
+R
+T
+S
+
+4
+6
+R
+N
+G
+S
+M
+R
+T
+S
+
+9
+5
+O
+M
+H
+M
+R
+T
+S
+
+9
+7
+O
+M
+H
+M
+R
+T
+S
+
+0
+7
+Z
+D
+U
+M
+R
+T
+S
+
+7
+R
+O
+C
+M
+R
+T
+S
+
+2
+Z
+D
+U
+M
+R
+T
+S
+
+6
+Z
+D
+U
+M
+R
+T
+S
+
+e
+v
+i
+t
+i
+s
+n
+e
+S
+
+i
+
+e
+t
+a
+d
+e
+m
+r
+e
+t
+n
+
+I
+
+t
+n
+a
+t
+s
+i
+s
+e
+R
+
+s
+e
+t
+a
+l
+o
+s
+i
+ 
+s
+u
+e
+r
+u
+a
+
+ 
+
+ 
+.
+S
+ 
+f
+o
+s
+n
+r
+e
+t
+t
+a
+p
+y
+t
+i
+l
+i
+
+ 
+
+ 
+
+b
+i
+t
+p
+e
+c
+s
+u
+s
+c
+i
+t
+o
+b
+i
+t
+n
+A
+
+i
+
+ 
+
+ 
+
+6
+e
+l
+b
+a
+T
+
+Sharma et al. Ann Clin Microbiol Antimicrob  (2017) 16:65 
+
+Page 12 of 14
+
+with chronic bovine mastitis, was present in 7% of iso-
+lates. This finding is consistent with the observations of 
+Darwish and Asfour [45], who observed the presence of 
+bap in 2.5 and 4.4% of S. aureus and coagulase-negative S. 
+aureus isolates, respectively. Another gene fib, elucidated 
+to have a crucial role in binding to extracellular matrix 
+fibrinogen, was also detected in 10% of isolates. This find-
+ing is different from the findings of Pereyra et al. [50] and 
+Zuniga et al. [53] who reported a higher prevalence of 90 
+and  71.7%,  respectively.  Altogether,  our  results  suggest 
+that most strains had the biofilm-forming ability, which 
+may facilitate in establishing intramammary gland infec-
+tions in cattle. Moreover, this property varies from strain 
+to  strain  and  depends  on  the  genetic  composition  and 
+geographical evolution.
+
+In  the  present  study,  the  observed  antibiotic  resist-
+ance  level  was  relatively  high  (90%)  and  two  strains 
+(STRMSH74  and  STRMBP12)  from  Sirohi  and  Bharat-
+pur, respectively, were found to be most resistant. MRSA-
+positive strains were observed from each area except for 
+Pali, Bhilwara, and Hanumangarh; this finding is in agree-
+ment with studies reporting varied MRSA prevalence in 
+bovine milk [9, 43, 54]. No similarities in resistance pat-
+terns  were  observed  among  the  strains  from  different 
+regions except for one strain each from Jaipur (STRMJ3) 
+and  Bikaner  (STRMBKN5).  The  inconsistencies  in  the 
+resistance profile observed might be due to the excessive, 
+indiscriminate use of a particular antibiotic in each geo-
+graphical region for combating infections. This fact was 
+established by similar findings in studies undertaken in 
+the United States and European countries, where a lower 
+resistance  profile  among  S.  aureus  isolates  was  noticed 
+because of stricter use of antibiotics in veterinary practice 
+[54]. In Rajasthan, β-lactams, macrolides, aminopenicil-
+lins, cephalosporins, aminoglycosides, fluoroquinolones, 
+tetracyclines,  and  amphenicols  are  frequently  used  in 
+veterinary clinical practices. However, resistance toward 
+the less commonly used antibiotics such as vancomycin, 
+teicoplanin, and rifampicin in veterinary practice is not 
+fully understood. This is possibly due to the contamina-
+tion from human handlers [18], as strains with rare and 
+high  antibiogram  patterns  were  generally  isolated  from 
+hospital settings because of a high antimicrobial pressure 
+[54].  Earlier,  vancomycin-resistant  enterococci  strains 
+were  isolated  from  tertiary  care  hospitals  in  Rajasthan 
+[55,  56],  and  it  was  proved  that  the  gene  cluster  VanA 
+was transferable from E. faecalis to S. aureus [57]. Simi-
+larly, teicoplanin-resistant S. aureus strains were reported 
+from  a  hospital  in  Jaipur,  Rajasthan  [57].  Thus,  consid-
+erable attention is needed for treating the vancomycin-
+resistant MRSA-induced infection. Based on our results, 
+all  strains  were  sensitive  to  kanamycin,  and  it  could  be 
+the drug of choice to treat S. aureus mediated infections.
+
+Fig. 5  Agarose gel photograph showing the MRSA positive samples. 
+Lane M; 100–3000 bp molecular marker, 1-STRMSH74, 2-STRMSH37, 
+3-STRMMA20, 4-STRMMA3, 5-STRMMA11, 6-STRMSK98, 7-STRMBP11, 
+8-STRMBP12, 9-STRMJ3, 10-STRMBKN5, 11-STRMSGNR19, 
+12-STRMSGNR64, 13-STRMUDZ2, 14-STRMUDZ2, 15-STRMUDZ6
+
+found abundantly (97 and 80%, respectively) among the 
+isolates in this study; these rates are comparable to those 
+in other studies [20, 26]. Similarly, clfB encoding an Fn-
+binding protein that facilitates S. aureus to establish nasal 
+colonization [49] was also present in most (93%) strains. 
+Proteins  EbpS,  SasG,  and  SasC,  which  play  a  consider-
+able  role  in  maintaining  cell  density,  biofilm  accumula-
+tion, and intercellular adhesion, were present in 90, 80, 
+and 53% of isolates, respectively. These findings are com-
+parable and in complete agreement with the findings of 
+Tang et al. [26] who noticed a high prevalence of these 
+genes. Another collagen-binding protein, Cna, which has 
+been associated with virulence potential in rabbit models 
+[48], was identified in 77% of isolates; this value is com-
+parably higher than that reported by Pereyra et al. [50] 
+but lower than others [20, 26]. Gene bbp, which is often 
+found in the clinical strains of S. aureus and linked with 
+bone infections, was only typed in a few (6.6%) isolates. 
+The result is in accordance with the findings of Kot et al. 
+[51] and Puacz et al. [52] who detected the presence of 
+bbp in a few isolates of mastitis origin. Gene bap, whose 
+protein was probably the first protein elucidated to have 
+a  role  in  biofilm  formation  in  S.  aureus  and  associated 
+
+Sharma et al. Ann Clin Microbiol Antimicrob  (2017) 16:65 
+
+Page 13 of 14
+
+Overall,  our  results  clearly 
+
+indicate  that  bovine 
+raw  milk  samples  collected  from  different  regions  of 
+Rajasthan  were  contaminated  with  coagulase-positive 
+strains of S. aureus. Considerable variability in coa was 
+observed, and genotypes I, IV, V, and VI were predomi-
+nant. The close similarity in the RFLP pattern among the 
+isolates  of  different  regions  suggested  the  transmission 
+of isolates from one place to another by various means. 
+The presence of enterotoxin and biofilm-producing genes 
+among these strains poses a potential public health risk, 
+as these strains may be implicated in milk-borne intoxi-
+cations. Furthermore, the presence of multidrug-resistant 
+and MRSA strains indicates the improper use of antibiot-
+ics for mastitis control and is a growing health concern 
+globally.  However,  all  strains  were  found  susceptible  to 
+kanamycin, and it can be referred to as a drug of choice 
+in case of mastitis infections in the regions included in 
+the study. The information generated here might be use-
+ful for concerned veterinarians in improving cattle health 
+and  designing  strategies  for  better  and  safe  milk  pro-
+duction.  This  will  not  only  lower  the  risk  of  associated 
+food poisoning but also prevent the spread of antibiotic 
+resistance in the regions. Future research is warranted to 
+establish the relationship between the presence of these 
+strains  in  milk  and  their  ability  to  cause  infections  in 
+humans.
+Authors’ contributions
+SS and VS provide the financial support, proof-read the manuscript. DKD 
+conceived the idea and wrote the manuscript and proof-read it. AK, MM and 
+AS perform the experiments and help in proof-reading. All authors read and 
+approved the final manuscript.
+
+Author details
+1 Advanced Milk Testing Research Laboratory, Postgraduate Institute of Veteri-
+nary Education and Research, Rajasthan University of Veterinary and Animal Sci-
+ences at Bikaner, B-2 Bypass, Shiprapath, Mansarovar, Jaipur 302020, Rajasthan, 
+India. 2 Sawai Man Singh Medical College, Jaipur 302004, Rajasthan, India. 
+
+Acknowledgements
+This study was supported by Rashtriya Krishi Vikas Yojana (RKVY), Government 
+of Rajasthan, India.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Availability of data and materials
+All data supporting the conclusions.
+
+Consent for publication
+All authors agreed for publication.
+
+Ethics approval and consent to participate
+Before collecting milk samples from cattle, oral consent was obtained from 
+the farmers or dairy owners. As per the Indian laws, there is no requirement 
+to seek any permission for milk sample collection from animals. Besides, milk 
+samples were collected by a trained veterinary professional. In addition, we 
+confirmed that the study does not involve any endangered species and no 
+animals were involved in the experiments.
+
+Funding
+We did not receive any specific funding for conducting this research.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.
+
+Received: 26 May 2017   Accepted: 13 September 2017
+
+References
+ 1. 
+
+FAO. A report on milk and milk products. Food and agri-
+cultural organization, United States. 2013. www.
+milkproduction.com/Library/Editorial-articles/
+FAO-Food-Outlook-Nov-2013—Milk-and-Milk-products/.
+
+ 2.  Ministry of Agricultural. State/UT-wise estimates of Milk Produc-
+
+tion, Government of India. 2015. https://data.gov.in/catalog/
+stateut-wise-estimates-milk-production.
+
+ 3.  Reshi AA, Husain I, Bhat S, Rehman MU, Razak R, Bilal S, Mir MR. Bovine 
+
+mastitis as an evolving disease and its impact on the dairy industry. Int J 
+Curr Res Rev. 2015;7(5):48–55.
+
+ 4.  Motwani KT. Mastitis in dairy cattle in India. In Social Science Research 
+
+Network. 2011. doi:10.2139/ssrn.1798382.
+
+ 5.  Kader M, Samad M, Saha S, Taleb M. Prevalence and etiology of subclini-
+
+ 6. 
+
+cal mastitis with antibiotic sensitivity to isolated organisms among milch 
+cows in Bangladesh. Indian J Dairy Sci. 2002;55(4):218–23.
+Seegers H, Fourichon C, Beaudeau F. Production effects related 
+to mastitis and mastitis economics in dairy cattle herds. Vet Res. 
+2003;34(5):475–91.
+
+ 7.  Dahiya DK, Renuka MP, Puniya M, Shandilya UK, Dhewa T, Kumar N, Kumar 
+
+S, Puniya AK, Shukla P. Gut microbiota modulation and its relationship 
+with obesity using prebiotic fibers and probiotics: a review. Front Micro-
+biol. 2017;8:563.
+Sahu B, Mukherjee R, Kumar A, Kumar A, Sahu J. Prevalence of coagulase 
+gene positive Staphylococcus aureus bovine mastitis in three distinct 
+geoclimatic regions of India. Buffalo Bull. 2014;33(2):208–14.
+
+ 8. 
+
+ 9.  Daka D, Yihdego D. Antibiotic-resistance Staphylococcus aureus isolated 
+from cow’s milk in the Hawassa area, South Ethiopia. Ann Clin Microbiol 
+Antimicrob. 2012;11(1):26.
+
+ 10.  Sharma S, Sharma V, Dahiya DK, Khan A, Mathur M, Sharma A. Prevalence, 
+virulence potential, and antibiotic susceptibility profile of Listeria monocy-
+togenes isolated from bovine raw milk samples obtained from Rajasthan, 
+India. Foodborne Pathog Dis. 2017;14(3):132–40.
+
+ 11.  Salasia SIO, Lammler C. Comparative studies on pheno-and genotypic 
+
+properties of Staphylococcus aureus isolated from bovine subclinical 
+mastitis in central Java in Indonesia and Hesse in Germany. J Vet Sci. 
+2004;5(2):103–9.
+
+ 12.  Omuse G, Zyl KN, Hoek K, Abdulgader S, Kariuki S, Whitelaw A, Revathi G. 
+Molecular characterization of Staphylococcus aureus isolates from various 
+healthcare institutions in Nairobi, Kenya: a cross sectional study. Ann Clin 
+Microbiol Antimicrob. 2016;15(1):51.
+
+ 13.  Acosta A, Guelfer E, Ruiz A, Mota RA, Uffo O, Gomes-Filho MA, Barbosa 
+
+SBP. Molecular subtyping of Staphylococcus aureus isolated from bovine 
+mastitis in Pernambuco State, Brazil. Comp Clin Path. 2014;23(4):1037–41.
+ 14.  Momtaz H, Tajbakhsh E, Rahimi E, Momeni M. Coagulase gene polymor-
+
+phism of Staphylococcus aureus isolated from clinical and sub-clinical 
+bovine mastitis in Isfahan and Chaharmahal va Bakhtiari provinces of Iran. 
+Comp Clin Path. 2011;20(5):519–22.
+
+ 15.  Sarvari J, Bazargani A, Kandekar-Ghahraman MR, Nazari-Alam A, 
+
+Motamedifar M. Molecular typing of methicillin-resistant and methicillin-
+susceptible Staphylococcus aureus isolates from Shiraz teaching hospitals 
+by PCR-RFLP of coagulase gene. Iran J Microbiol. 2014;6(4):246–52.
+
+ 16.  Oliver SP, Jayarao BM, Almeida RA. Foodborne pathogens in milk and 
+
+the dairy farm environment: food safety and public health implications. 
+Foodborne Pathog Dis. 2005;2(2):115–29.
+
+ 17.  Srey S, Jahid IK, Ha S-D. Biofilm formation in food industries: a food safety 
+
+concern. Food Control. 2013;31(2):572–85.
+
+ 18.  Al-Ashmawy MA, Sallam KI, Abd-Elghany SM, Elhadidy M, Tamura T. 
+
+Prevalence, molecular characterization, and antimicrobial susceptibility 
+of methicillin-resistant Staphylococcus aureus isolated from milk and dairy 
+products. Foodborne Pathog Dis. 2016;13(3):156–62.
+
+Sharma et al. Ann Clin Microbiol Antimicrob  (2017) 16:65 
+
+Page 14 of 14
+
+ 19.  Fox L, Zadoks R, Gaskins C. Biofilm production by Staphylococ-
+
+cus aureus associated with intramammary infection. Vet Microbiol. 
+2005;107(3):295–9.
+
+ 20.  Tang J, Chen J, Li H, Zeng P, Li J. Characterization of adhesin genes, 
+staphylococcal nuclease, hemolysis, and biofilm formation among 
+Staphylococcus aureus strains isolated from different sources. Foodborne 
+Pathog Dis. 2013;10(9):757–63.
+
+ 21.  J-p Li, H-j Zhou. Yuan L, He T, Hu S-h. Prevalence, genetic diversity, and 
+
+antimicrobial susceptibility profiles of Staphylococcus aureus isolated 
+from bovine mastitis in Zhejiang Province, China. J Zhejiang Univ Sci B. 
+2009;10(10):753–60.
+
+discriminate arbekacin-resistant methicillin-resistant Staphylococcus 
+aureus strains. J Clin Microbiol. 2007;45(2):607–9.
+
+ 41.  Abdulghany HM, Khairy RM. The Frequency of methicillin-resistant 
+
+Staphylococcus aureus and coagulase gene polymorphism in Egypt. Int J 
+Bacteriol. 2014;2014:1–6.
+
+ 42.  Moon J, Lee A, Kang H, Lee E, Joo Y, Park YH, Kim M, Koo H. Antibiogram 
+and coagulase diversity in staphylococcal enterotoxin-producing Staphy-
+lococcus aureus from bovine mastitis. J Dairy Sci. 2007;90(4):1716–24.
+
+ 43.  Kumar R, Yadav B, Singh R. Antibiotic resistance and pathogenicity factors 
+
+in Staphylococcus aureus isolated from mastitic Sahiwal cattle. J Biosci. 
+2011;36(1):175–88.
+
+ 22.  Dahiya DK, Puniya AK. Isolation, molecular characterization and screening 
+
+ 44.  El-Sayed A, Alber J, Lammler C, Jager S, Woter W, Vázquez H. Comparative 
+
+of indigenous lactobacilli for their abilities to produce bioactive conju-
+gated linoleic acid (CLA). J Food Sci. 2017;54(3):792–801.
+
+ 23.  Goh SH, Byrne S, Zhang J, Chow A. Molecular typing of Staphylococcus 
+aureus on the basis of coagulase gene polymorphisms. J Clin Microbiol. 
+1992;30(7):1642–5.
+
+ 24.  Hunter PR, Gaston MA. Numerical index of the discriminatory ability 
+
+of typing systems: an application of Simpson’s index of diversity. J Clin 
+Microbiol. 1988;26(11):2465–6.
+
+ 25.  Mehrotra M, Wang G, Johnson WM. Multiplex PCR for detection of 
+
+genes for Staphylococcus aureus enterotoxins, exfoliative toxins, toxic 
+shock syndrome toxin 1, and methicillin resistance. J Clin Microbiol. 
+2000;38(3):1032–5.
+
+ 26.  Tang J, Chen J, Liu J, Zhang R, Yang R, Chen L. Effects of different cultiva-
+tion conditions on Staphylococcus aureus biofilm formation and diversity 
+of adhesin genes. J Food Saf. 2012;32(2):210–8.
+
+ 27.  Dahiya DK, Puniya AK. Evaluation of survival, free radical scavenging and 
+human enterocyte adherence potential of lactobacilli with anti-obesity 
+and anti-inflammatory cla isomer-producing attributes. J Food Process 
+Preserv. 2015;39(6):2866–77.
+
+ 28.  CLSI. M100-S25 performance standards for antimicrobial susceptibility 
+
+testing; Twenty-fifth informational supplement; 2015.
+
+ 29.  Stegger A, Andersen P, Kearns A, Pichon B, Holmes M, Edwards G, Laurent 
+
+F, Teale C, Skov R, Larsen A. Rapid detection, differentiation and typing 
+of methicillin-resistant Staphylococcus aureus harbouring either mecA 
+or the new mecA homologue mecALGA251. Clin Microbiol Infect. 
+2012;18(4):395.
+
+ 30.  Lingathurai S, Vellathurai P. Bacteriological quality and safety of raw cow 
+
+milk in Madurai. South India. Webmed Cent Microbiol. 2013;1:1–10.
+
+ 31.  Sadashiv S, Kaliwal B. Antibiotic resistance of Staphyloccocus aureus and 
+Coagulase negative Staphylococci (CNS) isolated from bovine mastitis in 
+the region of North Karnataka, India. World J Pharm Res. 2013;3:571–86.
+ 32.  Sharma S, Khan A, Dahiya DK, Jain J, Sharma V. Prevalence, identification 
+and drug resistance pattern of Staphylococcus aureus and Escherichia coli 
+isolated from raw milk samples of jaipur city of Rajasthan. J Pure Appl 
+Microbiol. 2015;9(1):341–8.
+
+ 33.  Sudhanthiramani S, Swetha CS, Bharathy S. Prevalence of antibiotic resist-
+ant Staphylococcus aureus from raw milk samples collected from the local 
+vendors in the region of Tirupathi, India. Vet world. 2015;8(4):478–81.
+ 34.  Kumar R, Prasad A. Detection of E. coli and Staphylococcus in milk and 
+
+study on genotypic properties of Staphylococcus aureus isolated from 
+clinical and subclinical mastitis in Mexico. Vet Mex. 2006;37(2):165–79.
+
+ 45.  Darwish SF, Asfour HA. Investigation of biofilm forming ability in Staphylo-
+cocci causing bovine mastitis using phenotypic and genotypic assays. Sci 
+World J. 2013;2013:1–9.
+
+ 46.  Raza A, Muhammad G, Sharif S, Atta A. Biofilm producing Staphylococcus 
+
+aureus and bovine mastitis: a review. Mol Microbiol Res. 2013;3(1):1–8.
+
+ 47.  Salgado-Ruiz T, Rodríguez A, Gutiérrez D, Martínez B, García P, Espinoza-
+
+Ortega A, Martínez-Campos A, Lagunas-Bernabé S, Vicente F, Arriaga-
+Jordán C. Molecular characterization and antimicrobial susceptibility of 
+Staphylococcus aureus from small-scale dairy systems in the highlands of 
+Central México. Dairy Sci Technol. 2015;95(2):181–96.
+
+ 48.  Mulcahy ME, Geoghegan JA, Monk IR, O’Keeffe KM, Walsh EJ, Foster TJ, 
+McLoughlin RM. Nasal colonisation by Staphylococcus aureus depends 
+upon clumping factor B binding to the squamous epithelial cell envelope 
+protein loricrin. PLoS Pathog. 2012;8(12):e1003092.
+
+ 49.  Nakakido M, Aikawa C, Nakagawa I, Tsumoto K. The staphylococcal 
+
+elastin-binding protein regulates zinc-dependent growth/biofilm forma-
+tion. J Biochem. 2014;156(3):155–62.
+
+ 50.  Pereyra EA, Picech F, Renna MS, Baravalle C, Andreotti CS, Russi R, 
+
+Calvinho LF, Diez C, Dallard BE. Detection of Staphylococcus aureus adhe-
+sion and biofilm-producing genes and their expression during internali-
+zation in bovine mammary epithelial cells. Vet Microbiol. 2016;183:69–77.
+
+ 51.  Kot B, Szweda P, Frankowska-Maciejewska A, Piechota M, Wolska K. 
+
+Virulence gene profiles in Staphylococcus aureus isolated from cows with 
+subclinical mastitis in eastern Poland. J Dairy Res. 2016;83(2):228–35.
+ 52.  Puacz E, Ilczyszyn WM, Kosecka M, Buda A, Dudziak W, Polakowska K, 
+
+Panz T, Białecka A, Kasprowicz A, Lisowski A. Clustering of Staphylococcus 
+aureus bovine mastitis strains from regions of Central-Eastern Poland 
+based on their biochemical and genetic characteristics. Pol J Vet Sci. 
+2015;18(2):333–42.
+
+ 53.  Zuniga E, Melville PA, Saidenberg AB, Laes MA, Gonsales FF, Salaberry 
+
+SR, Gregori F, Brandao PE, Santos FG, Lincopan NE. Occurrence of genes 
+coding for MSCRAMM and biofilm-associated protein Bap in Staphylococ-
+cus spp. isolated from bovine subclinical mastitis and relationship with 
+somatic cell counts. Microb Pathog. 2015;89:1–6.
+
+ 54.  Li L, Zhou L, Wang L, Xue H, Zhao X. Characterization of methicillin-
+
+resistant and-susceptible staphylococcal isolates from bovine milk in 
+Northwestern China. PLoS ONE. 2015;10(3):e0116699.
+
+milk products in and around Pantnagar. Pak J Nutr. 2010;1(3):151–2.
+
+ 55.  Atray D, Sharma A, Atray M. Prevalence of enterococci and its antibiotic 
+
+resistance in various clinical samples at tertiary care hospital in Southern 
+Rajasthan, India. Int J Res Med Sci. 2017;4(8):3413–6.
+
+ 56.  Sood S, Gupta R. Antibiotic resistance pattern of community acquired 
+
+uropathogens at a tertiary care hospital in Jaipur, Rajasthan. Indian J 
+Comm Med. 2012;37(1):39–44.
+
+ 57.  Sharma KD, Saini RP, Karthik L. Current trends of antibiotic resistance in 
+
+clinical isolates of Staphylococcus aureus. Front Biol. 2014;9(4):287–90.
+
+ 35.  Thaker H, Brahmbhatt M, Nayak J, Thaker HC. Isolation and identification 
+
+of Staphylococcus aureus from milk and milk products and their drug 
+resistance patterns in Anand, Gujarat. Vet World. 2013;6(1):10–3.
+
+ 36.  Vieira-da-Motta O, Folly MM, Sakyiama CCH. Detection of different 
+
+Staphylococcus aureus strains in bovine milk from subclinical mastitis 
+using PCR and routine techniques. Braz J Microbiol. 2001;32(1):27–31.
+
+ 37.  da Silva ER, da Silva N. Coagulase gene typing of Staphylococcus aureus 
+
+isolated from cows with mastitis in southeastern Brazil. Can J Vet Res. 
+2005;69(4):260–4.
+
+ 38.  Saei HD, Ahmadi M, Mardani K, Batavani R. Molecular typing of 
+
+Staphylococcus aureus isolated from bovine mastitis based on polymor-
+phism of the coagulase gene in the north west of Iran. Vet Microbiol. 
+2009;137(1):202–6.
+
+ 39.  Schwarzkopf A, Karch H. Genetic variation in Staphylococcus aureus 
+
+coagulase genes: potential and limits for use as epidemiological marker. J 
+Clin Microbiol. 1994;32(10):2407–12.
+Ishino K, Tsuchizaki N, Ishikawa J, Hotta K. Usefulness of PCR-restriction 
+fragment length polymorphism typing of the coagulase gene to 
+
+ 40. 
+
+

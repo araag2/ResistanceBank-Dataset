@@ -1,0 +1,2083 @@
+International Journal of Food Microbiology 181 (2014) 77–84
+
+Contents lists available at ScienceDirect
+
+International Journal of Food Microbiology
+
+j o u r n a l h o m e p a g e : w ww . e l s e v i e r . c o m/ l o c a t e / i j f o od m i c r o
+
+Short communication
+Tracking Campylobacter contamination along a broiler chicken
+production chain from the farm level to retail in China
+Licai Ma a, Yang Wang a, Jianzhong Shen a, Qijing Zhang b,⁎, Congming Wu a,⁎⁎
+a Beijing Key Laboratory of Detection Technology for Animal-Derived Food Safety, College of Veterinary Medicine, China Agricultural University, Beijing 100193, P. R. China
+b Department of Veterinary Microbiology and Preventive Medicine, College of Veterinary Medicine, Iowa State University, Ames, IA 50011, USA
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 26 October 2013
+Received in revised form 20 April 2014
+Accepted 21 April 2014
+Available online 28 April 2014
+
+Keywords:
+Campylobacter
+Antimicrobial Resistance
+Molecular Typing
+Broiler Chickens
+Food Safety
+
+This study was conducted to determine the prevalence and distribution of Campylobacter species along a broiler
+production chain from farm to retail, and to evaluate the antimicrobial resistance proﬁle of Campylobacter iso-
+lates. A total of 259 Campylobacter isolates (C. jejuni n = 106, C. coli n = 153) were isolated from broiler ceca sam-
+ples (72.5%, 103/142), broiler carcasses (34.1%, 46/135), and retail broiler meat (31.3%, 40/128) samples collected
+in Shanghai, China. Minimal inhibitory concentrations of six antimicrobials were determined using the agar dilu-
+tion method. High prevalence of resistance to ciproﬂoxacin (C. jejuni: 99.1%;C. coli: 100%) and tetracycline
+(C. jejuni: 100%;C. coli: 98.7%) was detected among the C. jejuni and C. coli isolates. The vast majority of C. coli
+were resistant to clindamycin (92.2%), gentamicin (95.4%), and erythromycin (94.1%), but only 25.5%, 53.8%,
+and 16.0% of C. jejuni exhibited resistance to these three antimicrobials, respectively. In contrast, the prevalence
+of ﬂorfenicol resistance in C. jejuni (37.7%) was signiﬁcantly higher than that in C. coli (7.8%) (P b 0.05). It is note-
+worthy that all Campylobacter isolates were resistant to one or more antimicrobials, and 71.7% of C. jejuni and
+98.0% of C. coli isolates exhibited multi-drug resistance (resistant to three or more antimicrobials). Fifty-ﬁve
+C. jejuni and sixty C. coli isolates, selected from different production stages, species, and antimicrobial resistance
+patterns, were analyzed by pulsed ﬁeld gel electrophoresis (PFGE), among which 15 unique PFGE patterns (PFGE
+patterns represented by a single strain) and 31 clusters (PFGE patterns represented by multiple strains) were de-
+tected. Furthermore, nearly all of the PFGE patterns of the Campylobacter strains isolated from retail broiler meats
+overlapped with those of the strains from ceca and slaughterhouse carcasses. Together, these ﬁndings revealed
+the high prevalence of Campylobacter species in a broiler chicken production chain, and the concerning situation
+of antimicrobial resistance in Campylobacter species. The ﬁndings also indicated that Campylobacter isolates from
+retail broiler meats were associated with fecal contamination in the slaughterhouse, underlying the need for im-
+proved measures for reducing carcass contamination in slaughter plants.
+
+© 2014 Elsevier B.V. All rights reserved.
+
+1. Introduction
+
+Campylobacter species, especially C. jejuni and C. coli, are the most fre-
+quently identiﬁed foodborne bacteria causing gastroenteritis throughout
+the world (Coker et al., 2002). Although most campylobacteriosis occurs
+as self-limiting enteritis, more severe and long-lasting cases, particularly
+in immune-comprised patients, may require antibiotic treatment
+(Gibreel et al., 2004). The macrolides erythromycin and azithromycin
+are the antimicrobials of choice when therapeutic intervention is war-
+ranted. Other antibiotic options include ﬂuoroquinolones (ciproﬂoxacin),
+
+Abbreviations: PFGE, pulsed ﬁeld gel electrophoresis; MIC, minimum inhibitory con-
+centration; QC, quality control; MDR, multi-drug resistance; “F”, Florfenicol; “C”,
+Ciproﬂoxacin; “T”, Tetracycline; “L”, Clindamycin; “G”, Gentamicin; “E”, Erythromycin.
+
+⁎ Correspondence to: Q. Zhang, College of Veterinary Medicine, Iowa State University,
+
+Ames, IA 50011, USA. Tel.: +1 515 294 2038; fax: +1 515 294 8500.
+⁎⁎ Correspondence to: C. Wu, College of Veterinary Medicine, China Agricultural
+University, Beijing 100193, China. Tel.: +86 10 62733378; fax: +86 10 62731032.
+
+E-mail address: wucm@cau.edu.cn (C. Wu).
+
+aminoglycosides (gentamicin), and tetracyclines (Wardak et al., 2007).
+Campylobacter species are increasingly resistant to these clinically impor-
+tant antibiotics, which compromises clinical therapy and presents a
+major threat to public health (Anderson et al., 2001; Cox and Popken,
+2006). Use of antimicrobials in animal husbandry contributes to the se-
+lection of antibiotic resistant Campylobacter strains that are transmitted
+to humans through the food chain (Radostits and Rubinstein, 2002).
+
+Epidemiological studies have demonstrated that handling and con-
+sumption of contaminated poultry meat, particularly chicken products,
+are a major source of human Campylobacter species infections (Samuel
+et al., 2004; Wingstrand et al., 2006). Broiler chickens have been
+regarded as one of the main reservoirs of Campylobacter species, and
+the colonization level of Campylobacter species in broiler ceca can
+reach as high as 109 CFU/g (Stern et al., 2008). Carcass contamination
+usually occurs directly via leakage of intestinal contents during the
+slaughtering process (Elvers et al., 2011). Studies have been conducted
+to investigate the prevalence and antimicrobial susceptibility of
+poultry-associated Campylobacter species, and most of them have
+
+http://dx.doi.org/10.1016/j.ijfoodmicro.2014.04.023
+0168-1605/© 2014 Elsevier B.V. All rights reserved.
+
+78
+
+L. Ma et al. / International Journal of Food Microbiology 181 (2014) 77–84
+
+Table 1
+Antimicrobial testing ranges, MIC QC ranges, and breakpoints used for antimicrobial susceptibility testing by agar dilution for Campylobacter species.
+
+Antimicrobial agents
+
+Florfenicol
+Ciproﬂoxacin
+Tetracycline
+Clindamycin
+Gentamicin
+Erythromycin
+
+Test ranges
+(μg/mL)a
+
+0.06–128
+0.03–512
+0.06–512
+0.03–512
+0.06–512
+0.06–512
+
+MIC QC ranges
+(μg/mL)
+
+0.25–2
+0.06–0.5
+0.25–1
+0.125–0.5
+
+0.5–4
+
+1–8
+
+MIC breakpoints (μg/mL)b
+
+S
+≤4
+≤1
+≤4
+≤2
+≤2
+≤8
+
+I
+
+8
+2
+8
+4
+4
+16
+
+R
+≥16
+≥4
+≥16
+≥8
+≥8
+≥32
+
+a Agar dilution QC ranges of C. jejuni ATCC33560 approved by the CLSI (2008).
+b MIC breakpoints used in this study are those recommended by the CLSI (2008). S, susceptible; I, intermediate; R, resistant.
+
+reported the emergence of resistant strains (Andersen et al., 2006; Osaili
+et al., 2011). In China, an active surveillance system to monitor the prev-
+alence and antimicrobial resistance of Campylobacter species from farm
+to retail is not yet available, and little information has been reported on
+Campylobacter species in chicken (Chen et al., 2010). The prevalence
+and distribution of Campylobacter species along the broiler production
+chain are unknown in China, which hamper the implementation of
+interventions.
+
+To collect information concerning Campylobacter in poultry produc-
+tion in China, this study tracked Campylobacter contamination in ceca,
+carcasses, and retail meats of a broiler production chain in Shanghai,
+China. The isolates were proﬁled for antimicrobial susceptibility, and
+PFGE was employed to explore the diversity and linkage of Campylobacter
+species isolates from different production stages.
+
+2. Materials and methods
+
+2.1. Sample collection
+
+The investigation was conducted during October and November of
+2012 in a vertically-integrated commercial poultry production continu-
+um in Shanghai, China, in which more than 1,000,000 broiler chickens
+were reared, slaughtered, and sold per year. A total of 142 broiler
+cecal samples (one from each broiler), representing samples of broiler
+at the farm level, were collected at a slaughterhouse after evisceration.
+One hundred and thirty-ﬁve whole broiler carcasses were also sampled
+at the end of the processing steps (after chilling) in the slaughterhouse.
+Furthermore, 128 whole broiler chicken carcasses were randomly col-
+lected from two supermarkets. All of the samples were transported to
+the laboratory on ice within 3 h of collection and were analyzed imme-
+diately. Although the samples collected from the three stages were
+probably derived from different broiler ﬂocks, they belonged to the
+same broiler production chain from farm to retail.
+
+2.2. Isolation and Identiﬁcation of Campylobacter species
+
+For each cecal sample, a loopful of fecal material was directly
+streaked onto a Campylobacter selective agar plate (Sigma, St. Louis,
+MO, USA) containing 5% fresh sterile deﬁbrinated sheep blood and
+Campylobacter supplement III (Sigma), and then incubated at 42 °C in
+a microaerophilic chamber (10% CO2, 5% O2, 85% N2) for 48–72 h
+(Chen et al., 2010).
+
+Each whole broiler carcass obtained from the slaughterhouse or su-
+permarkets was put into a sterile bag containing 100 mL of nutrient
+broth no. 2 (CM0067; Oxoid, Basingstoke, UK). The carcass was mas-
+saged for 1 min, then 25 mL of the rinsate was added to 225 mL of
+Preston broth (nutrient broth no. 2 CM0067, Campylobacter selective
+supplement SR0117E, and Campylobacter growth supplement
+SR0232E; Oxoid) containing 5% deﬁbrinated sheep blood. The broth
+was then incubated for 4 h at 37 °C, and an additional 44 h at 42 °C
+under microaerophilic conditions. A loopful of broth was then streaked
+onto a Campylobacter selective agar plate and incubated for 48–72 h at
+42 °C under microaerophilic conditions. For each positive plate, up to
+three presumptive Campylobacter colonies were selected for further
+identiﬁcation using multiplex PCR, as previously described (Keramas
+et al., 2003), and API-Campy kits (BioMerieux, Marcy l'Etoile, France).
+A primer set speciﬁc for the C. jejuni hippuricase gene and the primer
+sets for the 16S/23S rRNA internal regions were used in the multiplex
+PCR to identify C. jejuni and C. coli, respectively. Where isolates from
+the same sample, only one of the isolates that belonged to the same spe-
+cies and had the same antibiotic resistance pattern was selected for the
+subsequent analysis. All conﬁrmed isolates were stored at −80 °C in
+Brain Heart Infusion broth (Land-bridge, Beijing, China) containing
+20% (v/v) glycerol.
+
+2.3. Antibiotic susceptibility testing
+
+Antimicrobial susceptibility testing was performed using a standard
+agar dilution method in Mueller–Hinton agar supplemented with 5%
+sheep blood, as described by the Clinical and Laboratory Standards Insti-
+tute (CLSI, 2008). The agar plates were incubated at 42 °C for 24 h under
+a microaerophilic atmosphere. The following antimicrobial agents were
+used: ﬂorfenicol, ciproﬂoxacin, tetracycline, clindamycin, gentamicin,
+and erythromycin. All the antimicrobial agents were obtained from
+the China Institute of Veterinary Drug Control (Beijing, China). C. jejuni
+ATCC33560 was used as the quality control organism. Breakpoints for
+each antimicrobial agent and quality control (QC) minimum inhibitory
+concentration (MIC) ranges with ATCC 33560 are shown in Table 1.
+
+2.4. Pulsed ﬁeld gel electrophoresis (PFGE)
+
+PFGE analysis was performed as previously described (Ribot et al.,
+2001), using SmaI as the restriction endonuclease and Salmonella
+H9812 as the reference marker (digested with XbaI) (Hunter et al.,
+
+Table 2
+Prevalence of Campylobacter species isolated from ceca, slaughterhouse carcasses, and retail broiler meats in Shanghai, China.
+
+Samples
+
+No. (%) of positive samples
+
+No. of Campylobacter isolates
+
+Broiler ceca
+Slaughterhouse carcasses
+Retail broiler meats
+Total
+
+C. jejuni
+
+40 (28.2%, 40/142)
+14 (10.4, 14/135)
+9 (7.0%, 9/128)
+63 (15.6%, 63/405)
+
+C. coli
+
+46 (32.4%, 46/142)
+24 (17.8%, 24/135)
+28 (21.9%, 28/128)
+98 (24.2%, 98/405)
+
+C. jejuni + C. coli
+
+17 (12.0%, 17/142)
+8 (5.9%, 8/135)
+3 (2.3%, 3/128)
+28 (6.9%, 28/405)
+
+C. jejuni
+
+69
+23
+14
+106
+
+C. coli
+
+88
+33
+32
+153
+
+L. Ma et al. / International Journal of Food Microbiology 181 (2014) 77–84
+
+79
+
+2005). PFGE results were analyzed using the InfoQuest FP software ver-
+sion 4.5 (Bio-Rad Laboratories), and the banding patterns were clus-
+tered using Dice coefﬁcients with a 2% band position tolerance and
+1.5% optimization. A PFGE pattern was deﬁned as a group of strains
+with a Dice coefﬁcient similarity of 85% or greater, and the PFGE pattern
+represented by multiple strains was a PFGE cluster.
+
+2.5. Statistical analysis
+
+Prevalence and frequency of antimicrobial resistance proﬁles of
+Campylobacter isolates obtained from different stages were compared
+using the Chi-square test in the statistical software SPSS 17.0
+(SPSS Inc, Chicago, IL, USA). Differences were considered signiﬁcant at
+P b 0.05.
+
+3. Results and Discussion
+
+3.1. Incidence of Campylobacter species
+
+Overall, 103 of the 142 (72.5%) cecal samples tested positive
+(Table 2) for Campylobacter species, and 17 of the 142 (12.0%) positive
+samples were positive for both C. jejuni and C. coli, indicating the high
+prevalence of Campylobacter in broiler ceca. Considering that only
+three colonies were picked from each positive plate, the real positive
+rate for both species might be even higher. A total of 157 Campylobacter
+isolates were obtained from ceca, including 69 C. jejuni and 88 C. coli.
+Among the 135 broiler carcasses from the slaughterhouse, 46
+(34.1%)
+species
+(Table 2). A total of 56 Campylobacter isolates were acquired, in-
+cluding 23 C. jejuni and 33 C. coli isolates. For the 128 broiler
+
+tested positive for Campylobacter
+
+samples
+
+Table 3
+Distribution of MIC for six antimicrobials in C. jejuni isolated from ceca, slaughterhouse carcasses, and retail broiler meats in Shanghai, China.
+
+Distribution (No. of isolates) of MIC (µg/mL)a
+
+32
+
+64
+
+128
+
+256
+
+≥512
+
+Antimicrobials
+
+Samples
+
+Florfenicol
+
+Broiler ceca
+
+Slaughterhouse carcasses
+
+Retail broiler meats
+
+Ciprofloxacin
+
+Broiler ceca
+
+Slaughterhouse carcasses
+
+Retail broiler meats
+
+Tetracycline 
+
+Broiler ceca
+
+Slaughterhouse carcasses
+
+Retail broiler meats
+
+Clindamycin
+
+Broiler ceca
+
+Slaughterhouse carcasses
+
+Retail broiler meats
+
+Gentamicin
+
+Broiler ceca
+
+Slaughterhouse carcasses
+
+Retail broiler meats
+
+Erythromycin
+
+Broiler ceca
+
+Slaughterhouse carcasses
+
+Retail broiler meats
+
+≤0.25
+
+0.5
+
+1
+
+2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+7
+
+1
+
+1
+
+5
+
+3
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+3
+
+5
+
+3
+
+10
+
+8
+
+4
+
+13
+
+2
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+5
+
+4
+
+2
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+15
+
+22
+
+7
+
+7
+
+9
+
+3
+
+1
+
+15
+
+14
+
+4
+
+0
+
+2
+
+0
+
+3
+
+1
+
+11
+
+2
+
+6
+
+4
+
+8
+
+3
+
+4
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+7
+
+0
+
+0
+
+0
+
+1
+
+0
+
+2
+
+2
+
+2
+
+8
+
+29
+
+16
+
+23
+
+6
+
+4
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+6
+
+1
+
+0
+
+0
+
+0
+
+0
+
+8
+
+0
+
+1
+
+2
+
+4
+
+0
+
+6
+
+0
+
+1
+
+0
+
+0
+
+4
+
+1
+
+0
+
+0
+
+0
+
+0
+
+7
+
+0
+
+0
+
+2
+
+4
+
+0
+
+2
+
+3
+
+3
+
+3
+
+2
+
+3
+
+2
+
+1
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+6
+
+2
+
+11
+
+7
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+MIC50/MIC90
+
+Resistant
+
+(µg/mL)
+
+isolatesb
+
+8/16
+
+26(37.7%)
+
+8/64
+
+10(43.5%)
+
+8/16
+
+4(28.6%)
+
+128/256
+
+69(100%)
+
+64/256
+
+22(95.7%)
+
+128/256
+
+14(100%)
+
+1
+
+4
+
+0
+
+0
+
+0
+
+0
+
+-c
+
+-c
+
+-c
+
+18
+
+21
+
+25
+
+4
+
+6
+
+-c
+
+-c
+
+-c
+
+2
+
+0
+
+0
+
+3
+
+3
+
+5
+
+3
+
+0
+
+1
+
+0
+
+0
+
+31
+
+18
+
+256/512
+
+69(100%)
+
+8
+
+5
+
+0
+
+0
+
+0
+
+3
+
+6
+
+9
+
+1
+
+0
+
+128/512
+
+23(100%)
+
+256/512
+
+14(100%)
+
+2/512
+
+22(31.9%)
+
+0.5/16
+
+4(17.4%)
+
+1/2
+
+1(7.1%)
+
+11
+
+12
+
+26
+
+256/512
+
+49(71.0%)
+
+1
+
+1
+
+3
+
+0
+
+0
+
+2
+
+0
+
+5
+
+2
+
+0
+
+0
+
+3
+
+5
+
+1
+
+1
+
+0.5/128
+
+3(13.0%)
+
+0.5/512
+
+5(35.7%)
+
+2/256
+
+13(18.8%)
+
+1/256
+
+3(13.0%)
+
+2/8
+
+1(7.1%)
+
+aThin vertical lines indicate the breakpoint between susceptible and intermediate isolates. Thick vertical lines indicate the breakpoint between intermediate and resistant isolates.
+bNumbers in parentheses indicate the percentages.
+c No data available.
+
+80
+
+L. Ma et al. / International Journal of Food Microbiology 181 (2014) 77–84
+
+Table 4
+Distribution of MIC for six antimicrobials in C. coli isolated from ceca, slaughterhouse carcasses, and retail broiler meats in Shanghai, China.
+
+Distribution (No. of isolates) of MIC (µg/mL)a
+
+MIC50/MIC90
+
+Resistant
+
+Antimicrobials
+
+Samples
+
+Florfenicol 
+
+Broiler ceca
+
+Slaughterhouse carcasses
+
+Retail broiler meats
+
+Ciprofloxacin
+
+Broiler ceca
+
+Slaughterhouse carcasses
+
+Retail broiler meats
+
+Tetracycline 
+
+Broiler ceca
+
+Slaughterhouse carcasses
+
+Retail broiler meats
+
+Clindamycin
+
+Broiler ceca
+
+Slaughterhouse carcasses
+
+Retail broiler meats
+
+Gentamicin
+
+Broiler ceca
+
+Slaughterhouse carcasses
+
+Retail broiler meats
+
+Erythromycin
+
+Broiler ceca
+
+Slaughterhouse carcasses
+
+Retail broiler meats
+
+≤0.25
+
+0.5
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+2
+
+0
+
+1
+
+3
+
+1
+
+0
+
+1
+
+6
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+5
+
+0
+
+0
+
+2
+
+0
+
+0
+
+2
+
+0
+
+1
+
+2
+
+58
+
+8
+
+20
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+2
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+4
+
+11
+
+10
+
+10
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+8
+
+6
+
+9
+
+2
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+4
+
+1
+
+0
+
+0
+
+0
+
+2
+
+0
+
+0
+
+16
+
+32
+
+64
+
+128
+
+256
+
+≥512
+
+(µg/mL)
+
+isolatesb
+
+5
+
+5
+
+0
+
+0
+
+9
+
+1
+
+2
+
+0
+
+0
+
+2
+
+5
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+11
+
+3
+
+1
+
+1
+
+1
+
+0
+
+32
+
+11
+
+0
+
+0
+
+0
+
+37
+
+4
+
+-c
+
+-c
+
+-c
+
+6
+
+6
+
+2
+
+17
+
+10
+
+35
+
+31
+
+8
+
+16
+
+2
+
+13
+
+6
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0
+
+0
+
+7
+
+1
+
+4
+
+2
+
+1
+
+0
+
+0
+
+8
+
+8
+
+3
+
+1
+
+0
+
+0
+
+6
+
+7
+
+3
+
+1
+
+7
+
+12
+
+11
+
+0
+
+0
+
+0
+
+41
+
+10
+
+16
+
+32
+
+13
+
+7
+
+8
+
+11
+
+-c
+
+-c
+
+-c
+
+1
+
+0
+
+1
+
+3
+
+4
+
+1
+
+76
+
+8
+
+15
+
+35
+
+10
+
+10
+
+47
+
+12
+
+12
+
+2/8
+
+6(6.8%)
+
+4/16
+
+6(18.2%)
+
+2/4
+
+0(0.0%)
+
+64/128
+
+88(100%)
+
+64/256
+
+33(100%)
+
+128/256
+
+32(100%)
+
+16/256
+
+86(97.7%)
+
+128/512
+
+33(100%)
+
+32/256
+
+32(100%)
+
+512/512
+
+81(92.0%)
+
+32/512
+
+30(90.9%)
+
+64/512
+
+30(93.8%)
+
+256/512
+
+83(94.3%)
+
+256/512
+
+32(97.0%)
+
+256/512
+
+31(96.9%)
+
+256/512
+
+81(92.0%)
+
+256/512
+
+32(97.0%)
+
+256/512
+
+31(96.9%)
+
+aThin vertical lines indicate the breakpoint between susceptible and intermediate isolates; thick vertical lines indicate the breakpoint between intermediate and resistant isolates.
+bNumbers in parentheses indicate the percentages.
+cNo data available.
+
+carcass samples obtained from supermarkets, 40 (31.3%) samples
+tested positive for Campylobacter species and 59 Campylobacter
+isolates were obtained, among which 14 and 32 were identiﬁed
+as C. jejuni and C. coli, respectively (Table 2). The prevalence of
+Campylobacter species in retail broiler carcasses was lower than
+that in carcasses from the slaughterhouse, but the difference was
+not statistically signiﬁcant (P = 0.63). After packaging, the broiler
+meats were immediately transported to supermarkets at 4 °C. The
+short time of exposure to air and favorable temperature conditions
+might help Campylobacter species to survive, which could explain
+the similar prevalence rates between slaughterhouse carcasses
+and retail carcasses.
+
+Interestingly, this study found that C. coli (59.1%, 153/259) was
+more prevalent than C. jejuni (40.9%, 106/259) (Table 2). Two recent
+investigations by our laboratory carried out in Shandong and Henan
+Provinces, China, in 2011 and 2013 also showed similar ﬁndings
+(unpublished data). Similar results, showing that C. coli was the pre-
+dominant Campylobacter species in broiler intestinal tracts, were
+also reported in Grenada (Hariharan et al., 2009) and Reunion Island
+(Henry et al., 2011). However, the higher prevalence of C. coli in
+broiler chickens is contrary to the ﬁndings in an earlier study con-
+ducted in Shandong Province (Chen et al., 2010) and in many reports
+from other countries, such as Hungary (Damjanova et al., 2011),
+Ethiopia (Ewnetu and Mihret, 2010), and Korea (Kang et al., 2006),
+
+L. Ma et al. / International Journal of Food Microbiology 181 (2014) 77–84
+
+81
+
+Table 5
+Antimicrobial resistance rates of Campylobacter species isolated from the broiler
+production chain.
+
+Antimicrobials
+
+Florfenicol
+Ciproﬂoxacin
+Tetracycline
+Clindamycin
+Gentamicin
+Erythromycin
+
+Antimicrobial resistance rates of tested Campylobacter
+isolates % (n)a
+
+C. jejuni % (N = 106)b
+
+C. coli % (N = 153)b
+
+37.7%(40)
+99.1%(105)
+100%(106)
+25.5%(27)
+53.8%(57)
+16.0%(17)
+
+7.8%(12)
+100%(153)
+98.7%(151)
+92.2%(141)
+95.4%(146)
+94.1%(144)
+
+a n, the number of resistant Campylobacter isolates.
+b N, the number of Campylobacter isolates tested.
+
+where C. jejuni was reported to be the predominant Campylobacter
+species in broiler chickens. The new information from our present
+work may indicate that C. coli
+is becoming the predominant
+Campylobacter species in chickens in China.
+
+3.2. Antimicrobial susceptibility
+
+All of the 259 Campylobacter isolates (106 C. jejuni and 153 C. coli)
+were subjected to antimicrobial susceptibility testing against six antimi-
+crobial agents belonging to six different antimicrobial classes. The re-
+sults are presented in Tables 3 and 4. All 259 Campylobacter isolates
+recovered from the broiler production chain were resistant to at least
+one of the tested antimicrobial agents. Notably, nearly all of the isolates
+were resistant to ciproﬂoxacin (C. jejuni: 99.1%;C. coli: 100%) and tetra-
+cycline (C. jejuni: 100%;C. coli: 98.7%) (Table 5). These results are consis-
+tent with a previous ﬁnding that nearly 100% of Campylobacter isolates
+from broiler chickens in China were resistant to ciproﬂoxacin and tetra-
+cycline (Chen et al., 2010). Moreover, the vast majority of C. coli isolates
+were also resistant to clindamycin (92.2%), gentamicin (95.4%), and
+erythromycin (94.1%). Furthermore, 121 of the 153 (79.1%) C. coli iso-
+lates exhibited high-level (MIC ≥ 256 μg/mL) erythromycin resistance.
+Compared to those of C. coli, the resistance rates of C. jejuni to
+clindamycin (25.5%), gentamicin (53.8%), and erythromycin (16.0%)
+were relatively low. The lowest resistance observed in these Campylo-
+bacter species was to ﬂorfenicol. Interestingly, the prevalence of
+ﬂorfenicol resistance in C. jejuni isolates (37.7%) was signiﬁcantly higher
+
+than that in C. coli (7.8%) (P b 0.05). The variation in antimicrobial resis-
+tance between C. jejuni and C. coli might be attributed to their intrinsic
+ability to develop resistance to these antimicrobials (Chen et al.,
+2010). In addition, compared to C. jejuni from the other two sources,
+the isolates obtained from broiler cecal samples exhibited the highest
+resistance to clindamycin (31.9%), gentamicin (71.0%), and erythromy-
+cin (18.8%). The variation in prevalence of antimicrobial resistance
+among Campylobacter isolates derived from different production stages
+could be explained by the speculation that antibiotic resistance might
+has a ﬁtness cost to the organism and therefore affects survival during
+the production process, which will be examined in future studies.
+
+Antimicrobial resistance patterns of C. jejuni and C. coli isolates are
+outlined in Table 6. The 259 Campylobacter strains exhibited 15 antimicro-
+bial resistance patterns. It is alarming that all but one of the Campylobacter
+isolates were resistant to two or more antimicrobials. Furthermore, 228 of
+the 259 (88.0%) Campylobacter isolates exhibited multi-drug resistance,
+higher than ﬁgures reported from other countries, including Northern
+Ireland (25.0%) (Wilson, 2003), France (37.0%) (Payot et al., 2004),
+Canada (29.7%) (Varela et al., 2007), and Korea (56.1%) (Shin and Lee,
+2010). Considering resistance by species, multi-drug resistance was
+higher among C. coli (98.0%, 150/153) than C. jejuni (71.7%, 76/106), con-
+sistent with results reported by others (Noormohamed and Fakhr, 2012).
+For the C. coli isolates from all three production stages, there was a single
+predominant antimicrobial resistance pattern: C-T-L-G-E (resistant to cip-
+roﬂoxacin, tetracycline, clindamycin, gentamicin, and erythromycin). In
+contrast, the antimicrobial resistance patterns of C. jejuni varied across
+the broiler production chain, and the major common patterns were C-T
+and F-C-T (Table 6).
+
+In China, ﬂuoroquinolones, tetracyclines, macrolides, and aminogly-
+cosides are commonly used to treat and prevent bacterial diseases in
+poultry. Most of these antimicrobials are readily available to producers,
+who may not necessarily consult with veterinarians prior to their use.
+Hence, inappropriate use of antimicrobials likely occurs on farms. The
+high prevalence of antimicrobial resistance in Campylobacter species
+could be attributed to extensive use of antimicrobials in broiler chicken
+production, which select for the emergence and spread of antimicrobial
+resistant Campylobacter isolates. It is worth noting that a high preva-
+lence of ﬂorfenicol resistance in C. jejuni was observed in this study.
+Florfenicol resistance in Campylobacter species is rarely reported world-
+wide (Ozawa et al., 2012; Perez-Boto et al., 2013), and the high preva-
+lence in China might be caused by use of ﬂorfenicol in food-producing
+
+Table 6
+Antimicrobial resistance patterns of Campylobacter species isolated from the broiler production chain and the number of isolates selected for PFGE for each resistance patterns.
+
+Antimicrobial resistance patterns a
+
+C. jejuni (m = 55)e
+
+C. coli (m = 60)e
+
+F-C-T-L-G-E
+C-T-L-G-E
+F-C-T-L-G
+F-C-T-G
+C-T-L-G
+C-T-L-E
+F-C-T-L
+C-T-G-E
+C-L-G-E
+F-C-T
+C-T-G
+C-T-L
+C-L-G
+C-T
+T
+MDR(%)c
+
+Farm
+(n = 69)b
+
+2.9% (1)e
+14.5% (2)e
+5.8% (1)e
+21.7%d(3)e
+7.2% (3)e
+0
+0
+1.4% (1)e
+0
+7.2% (2)e
+17.4% (3)e
+1.4% (0)e
+0
+20.3%d (5)e
+0
+71.7%
+
+Slaughterhouse
+(n = 23)b
+
+Supermarket
+(n = 14)b
+
+0
+8.7% (2)e
+0
+4.3% (1)e
+0
+4.3% (1)e
+4.3% (0)e
+0
+0
+34.8%d(8)e
+0
+0
+0
+39.1%d (7)e
+4.3% (1)e
+
+0
+7.1% (1)e
+0
+14.3% (2)e
+0
+0
+0
+0
+0
+21.4%d (3)e
+14.3% (2)e
+0
+0
+42.9%d (6)e
+0
+
+Farm
+(n = 88)b
+
+4.5% (0)e
+81.8%d (14)e
+0
+1.1% (0)e
+1.1% (1)e
+3.4% (2)e
+0
+1.1% (1)e
+1.1% (0)e
+1.1% (0)e
+2.3% (0)e
+0
+1.1% (1)e
+1.1% (1)e
+0
+98.0%
+
+Slaughterhouse
+(n = 33)b
+
+18.2% (3)e
+72.7%d (15)e
+0
+0
+0
+0
+0
+6.1% (1)e
+0
+0
+0
+0
+0
+3.0% (1)e
+0
+
+Supermarket
+(n = 32)b
+
+0
+93.8%d (19)e
+0
+0
+0
+0
+0
+3.1% (0)e
+0
+0
+0
+0
+0
+3.1% (1)e
+0
+
+a abbreviations of antimicrobial agents: F, ﬂorfenicol; C, ciproﬂoxacin; T, tetracycline; L, clindamycin; G, gentamicin; E, erythromycin.
+b The number of Campylobacter isolates.
+c The multi-drug resistance rates of C. jejuni and C. coliisolates from the broiler production chain.
+d The bold text indicates the major resistance patterns (N20%).
+e Number in parentheses indicate the number of Campylobacter isolates selected for PFGE analysis for each antimicrobial resistance pattern.
+
+82
+
+L. Ma et al. / International Journal of Food Microbiology 181 (2014) 77–84
+
+Fig. 1. Dendrogram of SmaI PFGE patterns of 55 C. jejuni isolates. “Farm” indicates the isolates from cecal samples; “Slaughterhouse” indicates isolates from slaughterhouse carcasses; and
+“Supermarket” indicates the isolates from retail broiler meats. Abbreviations of antimicrobial agents: “F”, Florfenicol; “C”, Ciproﬂoxacin; “T”, Tetracycline; “L”, Clindamycin; “G”, Gentami-
+cin; and “E”, Erythromycin;.
+
+animals. Another important ﬁnding of this study is the extremely high
+prevalence of multidrug resistance in the C. coli isolates, which could ex-
+plain why C. coli is replacing C. jejuni to become the predominant
+Campylobacter species in chickens in China. Thus, we speculate that
+C. coli is intrinsically more adaptable to antimicrobial treatment, and
+the extensive use of antimicrobials in broiler production may have fa-
+vorably selected C. coli over C. jejuni.
+
+3.3. PFGE patterns of Campylobacter isolates
+
+A total of 55 C. jejuni and 60 C. coli isolates, representing isolates of
+different production stages, species, and antimicrobial resistance pat-
+terns, were selected for PFGE analysis (Table 6). The 55 C. jejuni isolates
+
+were grouped into 6 unique PFGE patterns (PFGE patterns represented
+by a single strain) and 17 clusters (PFGE patterns represented by multi-
+ple strains), while the 60 C. coli isolates were grouped into 9 unique
+PFGE patterns and 14 clusters. Slaughterhouse samples carried the
+most PFGE patterns (29 patterns), followed by retail samples (23 pat-
+terns), and cecal samples (19 patterns). With the exception of the
+strains with C. jejuni cluster m and unique pattern 15, and C. coli cluster
+2 strains, which were only detected in retail samples, the PFGE patterns
+of most of the Campylobacter isolates from retail broiler meats were also
+found in strains from ceca or slaughter carcasses (Fig. 1 and Fig. 2), indi-
+cating that the majority of Campylobacter contamination of retail broiler
+meats occurred in the processing plants. For example, PFGE pattern q of
+C. jejuni, and PFGE patterns 6 and 10 of C. coli were found in all three
+
+L. Ma et al. / International Journal of Food Microbiology 181 (2014) 77–84
+
+83
+
+stages of the production chain. Campylobacter contamination of car-
+casses occurs during multiple steps of slaughtering,
+including
+defeathering, evisceration, and water chilling (Franchin et al., 2005). It
+has been suggested that the most effective mitigation strategy is a com-
+bination of chemical decontamination of carcasses and technical mea-
+sures to reduce fecal contamination during slaughtering (Havelaar
+et al., 2005).
+
+In summary, this study represents the ﬁrst report describing the
+prevalence and antimicrobial resistance of Campylobacter species in a
+broiler chicken production chain in China. There is currently no infor-
+mation about the prevalence of Campylobacter species in humans in
+
+Shanghai, China. Thus, it will be very informative to investigate the rela-
+tionship between Campylobacter species collected from animals and
+humans, and this topic requires further study. The high prevalence of
+Campylobacter in broiler chickens necessitates the implementation of
+improved intervention measures at the production and processing
+levels to minimize the occurrence of contamination. In addition, antimi-
+crobial resistance was highly prevalent in Campylobacter species, and
+the majority of Campylobacter isolates were resistant to multiple anti-
+microbials, with high MIC values. The prevalence of antimicrobial resis-
+tance in Campylobacter species can be attributed to extensive use of
+antimicrobials in the broiler chicken production system in China. It
+
+Fig. 2. Dendrogram of SmaI PFGE patterns of 60 C. coli isolates. “Farm” indicates the isolates from cecal samples; “Slaughterhouse” indicates isolates from slaughterhouse carcasses; and
+“Supermarket” indicates the isolates from retail broiler meats. Abbreviations of antimicrobial agents: “F”, Florfenicol; “C”, Ciproﬂoxacin; “T”, Tetracycline; “L”, Clindamycin; “G”, Gentami-
+cin; and “E”, Erythromycin;.
+
+84
+
+L. Ma et al. / International Journal of Food Microbiology 181 (2014) 77–84
+
+has been reported that resistant Campylobacter strains can be transmit-
+ted to humans through the food chain (Endtz et al., 1991; Hurd et al.,
+2008), which poses a serious risk for treatment failure. Given that con-
+taminated broiler meat is the major source of human Campylobacter in-
+fections (Guerin et al., 2007), prudent measures for antimicrobial usage
+and active surveillance systems should be established to contain the
+prevalence and spread of antimicrobial resistant Campylobacter in
+chickens. Furthermore, most strains from retail broiler meats had the
+same antimicrobial resistance proﬁles and PFGE patterns as those
+from the previous stages of the production chain. These ﬁndings have
+important implications for the control of Campylobacter contamination
+in the food chain, and provide useful information for antimicrobial resis-
+tance risk assessment in poultry.
+
+Acknowledgements
+
+This work was supported by Key Projects in the National Science &
+Technology Pillar Program during the Twelfth Five-year Plan Period
+(2012BAK01B02), the National Natural Science Foundation of China
+(U1031004), the Special Fund for Agro-scientiﬁc Research in the Public
+Interest (201203040), and the Research Fund for the Doctoral Program
+of Higher Education of China (20100008120001).
+
+References
+
+Andersen, S.R., Saadbye, P., Shukri, N.M., Rosenquist, H., Nielsen, N.L., Boel, J., 2006. Anti-
+microbial resistance among Campylobacter jejuni isolated from raw poultry meat at
+retail level in Denmark. Int. J. Food Microbiol. 107, 250–255.
+
+Anderson, S.A., Yeaton Woo, R.W., Crawford, L.M., 2001. Risk assessment of the impact on
+human health of resistant Campylobacter jejuni from ﬂuoroquinolone use in beef cat-
+tle. Food Control 12, 13–25.
+
+Chen, X., Naren, G.W., Wu, C.M., Wang, Y., Dai, L., Xia, L.N., Luo, P.J., Zhang, Q., Shen, J.Z.,
+2010. Prevalence and antimicrobial resistance of Campylobacter isolates in broilers
+from China. Vet. Microbiol. 144, 133–139.
+
+Clinical and Laboratory Standards Institute, 2008. Performance standards for antimicrobi-
+al disk and dilution susceptibility tests for bacteria isolated from animals; informa-
+tional supplement. CLSI document M31-A3Clinical and Laboratory Standards
+Institute, Wayne, PA.
+
+Coker, A.O.,
+
+Isokpehi, R.D., Thomas, B.N., Amisu, K.O., Obi, C.L., 2002. Human
+
+campylobacteriosis in developing countries. Emerg. Infect. Dis. 8, 237–244.
+
+Cox, L.A.T., Popken, D.A., 2006. Quantifying potential human health impacts of animal an-
+
+tibiotic use: Enroﬂoxacin and macrolides in chickens. Risk Anal. 26, 135–146.
+
+Damjanova, I., Jakab, M., Farkas, T., Meszaros, J., Galántai, Z., Turcsányi, I., Bistyák, A.,
+Juhász, Á., Pászti, J., Kiss, I., 2011. From farm to fork follow-up of thermotolerant Cam-
+pylobacters throughout the broiler production chain and in human cases in a Hungar-
+ian county during a ten-months period. Int. J. Food Microbiol. 150, 95–102.
+
+Elvers, K.T., Morris, V.K., Newell, D.G., Allen, V.M., 2011. Molecular tracking, through pro-
+cessing, of Campylobacter strains colonizing broiler ﬂocks. Appl. Environ. Microbiol.
+77, 5722–5729.
+
+Endtz, H.P., Ruijs, G.J., van Klingeren, B., Jansen, W.H., van der Reyden, T., Mouton, R.P.,
+1991. Quinolone resistance in Campylobacter isolated from man and poultry follow-
+ing the introduction of ﬂuoroquinolones in veterinary medicine. J. Antimicrob.
+Chemother. 27, 199–208.
+
+Ewnetu, D., Mihret, A., 2010. Prevalence and antimicrobial resistance of Campylobacter
+isolates from humans and chickens in Bahir Dar, Ethiopia. Foodborne Pathog. Dis. 7,
+667–670.
+
+Franchin, P.R., Aidoo, K.E., Batista, C.R.V., 2005. Sources of poultry meat contamination
+
+with thermophilic Campylobacter before slaughter. Braz. J. Microbiol. 36, 157–162.
+
+Gibreel, A., Tracz, D.M., Nonaka, L., Ngo, T.M., Connell, S.R., Taylor, D.E., 2004. Incidence of
+antibiotic resistance in Campylobacter jejuni isolated in Alberta, Canada, from 1999 to
+2002, with special reference to tet(O)-mediated tetracycline resistance. Antimicrob.
+Agents Chemother. 48, 3442–3450.
+
+Guerin, M.T., Martin, W., Reiersen, J., Berke, O., McEwen, S.A., Bisaillon, J.R., Lowman,
+R., 2007. A farm-level study of risk factors associated with the colonization of
+
+broiler ﬂocks with Campylobacter spp. in Iceland, 2001–2004. Acta Vet. Scand.
+49, 18.
+
+Hariharan, H., Sharma, S., Chikweto, A., Matthew, V., DeAllie, C., 2009. Antimicrobial drug
+resistance as determined by the E-test in Campylobacter jejuni, C. coli, and C. lari iso-
+lates from the ceca of broiler and layer chickens in Grenada. Comp. Immunol.
+Microbiol. Infect. Dis. 32, 21–28.
+
+Havelaar, A.H., Nauta, M.J., Mangen, M.J.J., de Koeijer, A.G., Bogaardt, M.J., Evers, E.G.,
+Jacobs-Reitsma, W.F., Pelt, W., van Wagenaar, J.A., de Wit, G.A., van der Zee, H.,
+2005. Costs and beneﬁts of controlling Campylobacter in the Netherlands—integrating
+risk analysis, epidemiology and economics. RIVM Report 250911009/2005.
+
+Henry, I., Reichardt, J., Denis, M., Cardinale, E., 2011. Prevalence and risk factors for
+Campylobacter spp. in chicken broiler ﬂocks in Reunion Island (Indian Ocean). Prev.
+Vet. Med. 100, 64–70.
+
+Hunter, S.B., Vauterin, P., Lambert-Fair, M.A., Van Duyne, M.S., Kubota, K., Graves, L.,
+Wrigley, D., Barrett, T., Ribot, E., 2005. Establishment of a universal size standard
+strain for use with the PulseNet standardized pulsed-ﬁeld gel electrophoresis proto-
+cols: Converting the national databases to the new size standard. J. Clin. Microbiol. 43,
+1045–1050.
+
+Hurd, H.S., Enoe, C., Sorensen, L., Wachman, H., Corns, S.M., Bryden, K.M., Grenier, M.,
+2008. A stochastic assessment of the public health risks of the use of macrolide anti-
+biotics in food animals. Risk Anal. 28, 695–710.
+
+Kang, Y.-S., Cho, Y.-S., Yoon, S.-K., Yu, M., Kim, C.-M., Lee, J.-O., Pyun, Y.-R., 2006. Preva-
+lence and antimicrobial resistance of Campylobacter jejuni and Campylobacter coli iso-
+lated from raw chicken meat and human stools in Korea. J. Food Prot. 69, 2915–2923.
+Keramas, G., Bang, D.D., Lund, M., Madsen, M., Rasmussen, S.E., Bunkenborg, H., Telleman,
+P., Christensen, C.B., 2003. Development of a sensitive DNA microarray suitable for
+rapid detection of Campylobacter spp. Mol. Cell. Probes 17, 187–196.
+
+Noormohamed, A., Fakhr, M.K., 2012. Incidence and antimicrobial resistance proﬁling of
+Campylobacter in retail chicken livers and gizzards. Foodborne Pathog. Dis. 9,
+617–624.
+
+Osaili, T.M., Alaboudi, A.R., Al-Akhras, R.R., 2011. Prevalence and antimicrobial susceptibil-
+ity of Campylobacter spp. in live and dressed chicken in Jordan. Foodborne Pathog.
+Dis. 9 (1), 54–58.
+
+Ozawa, M., Makita, K., Tamura, Y., Asai, T., 2012. Associations of antimicrobial use with an-
+timicrobial resistance in Campylobacter coli from grow-ﬁnish pigs in Japan. Prev. Vet.
+Med. 106, 295–300.
+
+Payot, S., Avrain, L., Magras, C., Praud, K., Cloeckaert, A., Chaslus-Dancla, E., 2004. Relative
+contribution of target gene mutation and efﬂux to ﬂuoroquinolone and erythromycin
+resistance, in French poultry and pig isolates of Campylobacter coli. Int. J. Antimicrob.
+Agents 23, 468–472.
+
+Perez-Boto, D., Garcia-Pena, F.J., Abad-Moreno, J.C., Echeita, M.A., 2013. Antimicrobial sus-
+ceptibilities of Campylobacter jejuni and Campylobacter coli strains isolated from two
+early stages of poultry production. Microb. Drug Resist. 19, 323–330.
+
+Radostits, O.M., Rubinstein, E., 2002. The therapeutic use of ﬂuoroquinolones in poultry:
+The effect on Campylobacter and the potential human health consequences. Int. J. In-
+fect. Dis. 6 (Supplement 3), S49–S52.
+
+Ribot, E.M., Fitzgerald, C., Kubota, K., Swaminathan, B., Barrett, T.J., 2001. Rapid pulsed-
+ﬁeld gel electrophoresis protocol for subtyping of Campylobacter jejuni. J. Clin.
+Microbiol. 39, 1889–1894.
+
+Samuel, M.C., Vugia, D.J., Shallow, S., Marcus, R., Segler, S., McGivern, T., Kassenborg, H.,
+Reilly, K., Kennedy, M., Angulo, F., 2004. Epidemiology of sporadic Campylobacter in-
+fection in the United States and declining trend in incidence, FoodNet 1996–1999.
+Clin. Infect. Dis. 38, S165–S174.
+
+Shin, E., Lee, Y., 2010. Characterization of erythromycin-resistant porcine isolates of
+
+Campylobacter coli. Microb. Drug Resist. 16, 231–239.
+
+Stern, N.J., Eruslanov, B.V., Pokhilenko, V.D., Kovalev, Y.N., Volodina, L.L., Perelygin, V.V.,
+Mitsevich, E.V., Mitsevich, I.P., Borzenkov, V.N., Levchuk, V.P., 2008. Bacteriocins re-
+duce Campylobacter jejuni colonization while bacteria producing bacteriocins are in-
+effective. Microb. Ecol. Health Dis. 20, 74–79.
+
+Varela, N.P., Friendship, R., Dewey, C., 2007. Prevalence of resistance to 11 antimicrobials
+among Campylobacter coli isolated from pigs on 80 grower-ﬁnisher farms in Ontario.
+Can. J. Vet. Res. 71, 189.
+
+Wardak, S., Szych, J., Zasada, A.A., Gierczyński, R., 2007. Antibiotic resistance of Campylobacter
+jejuni and Campylobacter coli clinical isolates from Poland. Antimicrob. Agents
+Chemother. 51, 1123–1125.
+
+Wilson, I.G., 2003. Antibiotic resistance of Campylobacter in raw retail chickens and
+
+imported chicken portions. Epidemiol. Infect. 131, 1181–1186.
+
+Wingstrand, A., Neimann, J., Engberg, J., Nielsen, E.M., Gerner-Smidt, P., Wegener, H.C.,
+Mølbak, K., 2006. Fresh chicken as main risk factor for campylobacteriosis,
+Denmark. Emerg. Infect. Dis. 12, 280.
+
+

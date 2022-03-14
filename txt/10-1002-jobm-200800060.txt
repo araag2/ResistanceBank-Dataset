@@ -1,0 +1,1096 @@
+310 
+
+Research Paper 
+
+Journal of Basic Microbiology 2009, 49, 310 – 317 
+
+Characterization of verotoxigenic Escherichia coli (VTEC) 
+isolates from faeces of small ruminants and environmental 
+samples in Southern Jordan 
+
+Khaled A. Tarawneh1, Nafe’ M. Al-Tawarah1, Adel H. Abdel-Ghani2, Ahmed M. Al-Majali3  
+and Khaled M. Khleifat1 
+
+1  Department of Biology, Mutah University, Mutah, Karak, Jordan 
+2  Department of Plant Production, Mutah University, Mutah, Karak, Jordan 
+3  Department of Clinical Veterinary Medicine, JUST University, Irbid, Jordan 
+
+This study was conducted to determine the prevalence rate of VTEC in slaughtered sheep and 
+goats and to evaluate the contamination rate of VTEC in slaughterhouses and butchers’ shops 
+in southern Jordan. 201 E. coli isolates from animals’ faecal samples and 33 E. coli isolates from 
+slaughterhouse/butcher shop samples were characterized by multiplex PCR (mPCR) reaction for 
+detection  of  stx1,  stx2,  eae A  and  E-hly  A  virulent  genes.  Twenty-six  virulent  E.  coli  isolates  
+were  characterized  by  mPCR  to  seven  different  virulent  patterns:  stx1,  stx1+stx2,  stx1+eae A, 
+stx1+E-hly A,  stx1+eae A+E-hly A,  eae A  and  E-hly A.  It  was  found  that  VTEC  comprised  6.4%  and 
+21%  of  the  total  E. coli  isolates  from  slaughtered  small  ruminants  and  slaughterhouses/ 
+butchers’  shops,  respectively.  The  VTEC  comprised  76.2%  of  the  virulent  isolates.  The 
+proportion  of  stx1:stx1+stx2  patterns  was  19 : 1.  It  was  found  that  the  characterized  complex 
+VTEC  (containing  eae A  and/or  E-hly A)  possessed  three  virulence  patterns,  including  (VTEC) 
+stx1+eae A, (VTEC/EHEC) stx1+E-hly A and (VTEC/EHEC) stx1+eae A+E-hly A in percentages of 30%, 
+25% and 10%, respectively, in relation to the total VTEC isolates. Only two VTEC isolates were 
+characterized as E. coli O157 and O26 serotypes, as highly pathogenic strains. Each of the O157 
+and O26 VTEC isolates was in a percentage of 0.4% in relation to the total E. coli isolates with 
+virulent patterns stx1, eae A and E-hly A. The rest of the VTEC isolates were non-O157 VTEC. The 
+antibiotic sensitivity test showed that the isolated VTEC was highly sensitive to gentamicin and 
+co-trimoxazole and highly resistant to tetracycline and ampicillin. 
+
+Keywords: Escherichia coli / O157 / VTEC / PCR 
+
+Received: February 15, 2008; accepted: August 08, 2008 
+
+DOI 10.1002/jobm.200800060 
+
+Introduction1 
+
+Verotoxigenic  (Shigatoxeginic)  Escherichia  coli  (VTEC) 
+strains have wide notoriety [1]. More than 200 different 
+O,  H  serotypes  of  STEC/VTEC  serotypes  have  been  iso-
+lated  and  the  number  associated  with  human  illness 
+exceeds 100 [2, 3]. A majority of the reported outbreaks 
+and  sporadic  cases  of  such  illnesses  have  been  associ-
+ated  with  serotype  O157 : H7  [4].  In  a  survey  of  cattle 
+
+                               
+Correspondence:  Prof.  Khaled  A  Tarawneh,  Department  of  Biology, 
+Mutah University, Mutah, Karak, 61710, Jordan 
+E-mail: tarawneh@mutah.edu.jo 
+Phone: 00962 32372380 ex 4222 
+Fax: 0096232375540 
+
+and sheep presented for slaughter at abattoirs in Great 
+Britain,  4.7%  of  cattle  and  1.7%  of  sheep  contained  
+E. coli O157 in the faeces [5]. 
+  A  few  studies  have  demonstrated  that  animals  in-
+cluding  cows,  sheep,  goats  and  pigs  are  reservoirs  for 
+different  VTEC  strains  [6 – 8].  Evidence  has  suggested 
+that VTEC is better adapted to persist in the alimentary 
+tract  of  sheep  than  other  pathotypes  of  E. coli  [9].  Most 
+VTEC  infections  in  humans  are  connected  to  the  con-
+sumption  of  contaminated  food  and  water,  but  trans-
+mission  by  contact  with  infected  farm  animals  and 
+person-to-person  contact  has  also  been  documented 
+[10]. VTEC is capable of producing toxins active in Vero-
+cells  in  vitro  named  verotoxins  (also  called  shiga-like 
+
+© 2009 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim 
+
+ 
+
+www.jbm-journal.com 
+
+Journal of Basic Microbiology 2009, 49, 310 – 317 
+
+Characterization of verotoxigenic Escherichia coli isolates 
+
+311 
+
+toxins  “stx”)  [11].  Two  kinds  of  stx  can  be  produced  by 
+VTEC:  stx1  and  stx2  [12].  The  biological  effects  of  stx 
+take  place  generally  once  it  is  bound  to  a  target  eu-
+karyotic  cell  membrane.  Toxin  molecules  are  thought 
+to  be  internalized  by  a  process  of  receptor-mediated 
+endocytosis [13, 14]. 
+  The production of stx alone may not be sufficient for 
+VTEC to cause disease [15]. Other virulence factors may 
+play  a  role  in  VETC  pathogenicity,  including  intimin 
+(encoded by the  eae  A gene), which is required for inti-
+mate  adherence  of  these  pathogens  to  tissue  culture 
+cells  and  formation  of  the  attaching  and  effacing  (A/E) 
+lesion [16]. The formation of A/E lesions is mediated by 
+multiple  genes  called  the  Locus  of  Enterocyte  Efface-
+ment  (LEE)  [17].  Another  virulence  factor  that  contrib-
+utes  to  VTEC  pathogenicity  is  the  60-MDa  plasmid-
+borne enterohaemolysin  A  gene (encoded by the E-hly A 
+gene). 
+  The  VETC  of  serotype  O157  or  those  that  have  spe-
+cific  combinations  of  virulence  factors  appear  to  be 
+more virulent in mankind [12]. VTEC can be associated 
+with  different  diseases  in  humans,  including  haemor-
+rhagic  colitis  (HC),  which  is  characterized  by  bloody 
+diarrhoea,  haemolytic-uraemic  syndrome  (HUS),  which 
+may  result  in  life-threatening  sequelae  (renal  failure) 
+and  thrombotic  thrombocytopenic  purpora 
+(TTP), 
+through  which  the  central  nervous  system  is  mainly 
+affected [18]. 
+  Ruminants are an important reservoir of pathogenic 
+VTEC  and  human  infections  are  frequently  associated 
+with  direct  or  indirect  contact  with  ruminant  faeces. 
+Strategies  to  reduce  the  prevalence  of  VTEC  in  rumi-
+nants  should  lower  the  incidence  of  human  infection 
+[19]. The need for hygienic meat production has gained 
+importance, due to awareness among consumers about 
+health risks associated with contaminated meat [20]. 
+  The main  objective of this  study was  to characterize 
+VTEC  strains  isolated  from  the  faeces  of  small  rumi-
+nants  and  environmental  samples  from  the  southern 
+part of Jordan. 
+
+Materials and methods 
+
+Study design 
+During a period between June and October 2006, a sin-
+gle  faecal  sample  was  obtained  from  233  slaughtered 
+sheep  and  169  goats  respectively  (Fig. 1).  Samples  were 
+collected  randomly  from  six  slaughterhouses  and  16 
+butchers’ shops, located in the southern part of Jordan. 
+Faecal  samples  were  collected  by  obtaining  colon  con-
+tents  from  each  slaughtered  animal;  by  ligation  of  the 
+
+colon  in  two  sites  5 – 10 cm  long,  then  transections 
+from  these  ends.  Thus,  we  avoided  the  contamination 
+of faecal samples from slaughterhouse or butcher shop 
+sites.  The  intestinal  sample  (in  between  the  two  ends) 
+was transferred immediately, on ice, within two to four 
+hours  to  the  laboratory.  Samples  were  collected  over  a 
+period of five months, during which two collection sites 
+per  week  were  selected  randomly  within  one  gover-
+norate.  Information  on  the  sources  of  slaughtered  ani-
+mals was recorded. 
+ 
+In  addition  to  the  faecal  contents,  57  drag  swabs 
+(Solar  Biologicals  Inc.,  New  York,  USA)  from  six  differ-
+ent  slaughterhouses  and  16  butchers’  shops  were  col-
+lected  and  tested  for  VTEC  presence.  Drag  swabs  were 
+obtained from the walls and floors of the premises. The 
+visits to the premises were sudden, and no cleaning was 
+intentionally  practised  before  sampling.  Drag  swabs 
+were  carefully  opened  and  floors  and  walls  were 
+swabbed  in  a  circular  motion.  The  swabs  were  placed 
+directly  in  bags  that  contained  special  transfer  media. 
+After incubation for 24 hours, swabs were sub-cultured 
+in the enrichment media. 
+
+Sample processing 
+In  the  case  of  the  intestinal  samples,  the  colon  was 
+opened aseptically and the faecal matter was harvested. 
+Approximately  1 g  from  each  sample  was  inoculated 
+into  9 ml  MacConkey  broth  (DIFCO,  MD,  USA  )  supple-
+mented  with  cefixime  (0.05 mg/l).  After  incubation  at 
+37 °C  for  24 h,  a  loopful  was  streaked  on  sorbitol  Mac-
+Conkey  (DIFCO,  MD,  USA)  agar  medium  supplemented 
+with  cefexime  (0.05  mg/l)  (CSMAC)  and  SMAC  agar  
+[21].  The  plates  were  incubated  at  37 °C  for  24 h.  Both 
+sorbitol-fermenting  colonies  (small  red/pink)  and  non-
+fermenting  colonies  (colourless)  were  selected  for  con-
+formation.  The  number  of  colonies  selected  varied  for 
+each sample, but as a general rule one to three colonies 
+were  taken.  E. coli  suspected  colonies  were  inoculated  
+in  tryptic  soy  slants  and  incubated  for  24 h  at  37 °C  
+and  then  stored  at  4 °C.  E. coli  isolates  were  identified  
+by  phenotypic  characterization  and  conventional  bio-
+chemical activities using an IMViC test (a positive iden-
+tification of E. coli required results to be positive for the 
+indole  and  methyl  red  test,  negative  for  the  Voges-
+Proskauer and citrate utilization tests). All materials for 
+the IMViC tests were obtained from DIFCO, MD, USA. 
+  Drag  swabs  were  processed  similarly.  The  morpho-
+logical characteristics of bacterial isolates were studied  
+and  their  biochemical  identity  was  determined  using 
+the  REMEL  kit  (RapIDTM  ONE  and  RapIDTM  NF  plus  sys- 
+tems)  procedure.  All  the  VTEC  isolates  were  screened 
+for  lack  of  β-glucuronidase  production,  which  is  con-
+
+© 2009 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim 
+
+www.jbm-journal.com 
+
+312 
+
+K. A. Tarawneh et al. 
+
+Journal of Basic Microbiology 2009, 49, 310 – 317 
+
+sidered  one  of  the  major  biochemical  markers  of  the 
+serotype O157. 
+
+DNA isolation and purification  
+DNA  was  isolated  and  purified  from  all  the  obtained  
+E. coli isolates (234 isolates) using a commercially avail-
+able  kit  (Bio-Basic  LtD,  Ontario,  Canada).  Primarily, 
+bacterial  isolates  and  reference  strains  were  cultivated 
+in  10 ml  MacConkey  broth  and  incubated  at  37  °C  for 
+12 h.  A  suspension  of  8  108  cells/ml  was  used  in  the 
+DNA  isolation  processes.  The  quantity  of  the  isolated 
+DNA  was  measured  by  DNA  spectrophotometry  (Bio-
+chrom, London, U. K.) at a 260 nm wavelength. 
+
+Multiplex PCR for detection of stx1, stx2, eae A  
+and E-hly A 
+Polymerase  chain  reaction  (using  MyCycler,  Bio-Rad, 
+USA) was carried out for each sample in a total volume 
+of  25 μl,  containing  1 μl  of  extracted  nucleic  acid  tem-
+plates  (either  from  the  original  DNA  samples  (70 –  
+100 ng/μl) or diluted samples 1 : 10, 1 : 20, 1 : 30 and 1 : 40) 
+from both cultures and reference strains. In addition to 
+DNA,  the  PCR  mixture  was  composed  of  2.5 μl  of  Taq 
+reaction  buffer  (final  concentration  1 mM),  4 μl  of 
+MgSO4 (Boehringer Mannheim, Germany) (final concen-
+tration  3.2 mM),  0.5 μl  of  deoxynucleoside  triphos-
+phates (dNTPs) mixture (Bio-basic Ltd, Ontario, Canada) 
+(final  concentration  50 μM)  and  0.2 μl  of  Taq  DNA  po-
+lymerase  (Bio-basic  Ltd,  Ontario,  Canada)  (1U).  The 
+primers used in this study and PCR conditions were as 
+reported  by  Fagan  et  al.  1999  [22]  (see  Table 1).  Ten 
+pmol from each of the primer templates were added to 
+the PCR mixture mentioned above. 
+  The PCR conditions consisted of an initial 95 °C dena-
+turation  step  for  3  min  followed  by  35  cycles  of  95 °C 
+for  20 sec  (denaturation  step),  58 °C  for  40 sec  (anneal-
+ing  step),  and  72 °C  for  90 sec  (elongation  step).  The 
+final  extension  cycle  was  followed  by  72 °C  incubation 
+for  5 min.  Amplified  DNA  fragments  were  resolved  by 
+gel  electrophoresis  (Labenet,  Taiwan)  using  2%  agarose 
+  
+
+Table 1.  Primers used for RT-PCR. 
+
+Primer  Direction  Primer sequence ( 5′ → 3′) 
+
+Fragment 
+size (bp) 
+
+Forward 
+
+E-hly A  Forward 
+ 
+Reverse 
+stx1 
+ 
+stx2 
+ 
+eae A 
+ 
+
+Forward 
+
+Reverse 
+
+Reverse 
+
+Forward 
+
+Reverse 
+
+ACGATGTGGTTTATTCTGGA 
+
+165 
+
+CTTCACGTGACCATACATAT 
+
+ 
+
+ACACTGGATGATCTCAGTGG 
+
+614 
+
+CTGAATCCCCCTCCATTATG 
+
+ 
+
+CCATGACAACGGACAGCAGTT 
+
+779 
+
+CCTGTCAACTGAGCAGCACTTTG   
+
+GTGGCGAATACTGGCGAGACT 
+
+890 
+
+CCCCATTCTTTTTCACCGTCG 
+
+ 
+
+gels in Trisborate EDTA (TBE) buffer. Gels were stained 
+with  0.5 μg  of  ethidium  bromide  per  ml.  The  running 
+time  was  90 – 120 min  at  voltage  120 mV.  Finally,  gels 
+were  visualized  and  photographed  by  UV  illuminator 
+system (Alphainnotech, USA) [22]. For each gel, the first 
+lane  was  specified  for  a  100 bp  DNA  ladder  (Bio-Basic, 
+Canada), the second lane and the third lane were speci-
+fied  for  positive  and  negative  control.  All  other  PCR 
+reagents were purchased from Bio-Basic, Canada. 
+
+Serotyping of the isolated VTEC 
+Serotyping  for  the  O157,  O26,  and  O111  serotypes  of 
+VTEC  that  were  characterized  by  mPCR  E.  coli  was  per-
+formed  using  antibody-based  rapid  slide  agglutination 
+assays (Denka-Seiken, Tokyo, Japan). 
+
+Antimicrobial susceptibility testing 
+The isolated bacteria were tested for their susceptibility 
+to eight antimicrobials, as set by the National Commit-
+tee for Clinical Laboratory standards, using a disc diffu-
+sion  method  [23].  The  susceptibility  of  characterized 
+isolates  to  the  most  commonly  used  antibiotics  in  the 
+treatment of VTEC/EHEC infection in Jordan was tested. 
+A  total  of  eight  antimicrobial  agents  were  included  
+in  this  study.  The  concentration  (μg/disc)  of  the  used 
+antibiotics  are:  Ampicillin  (AMP,  10),  co-trimoxazole 
+(trimethoprim/sulfamethoxazole) 
+1.25/23.75), 
+ciprofloxacin  (CIP,  5),  gentamicin  (GEN,  10),  nalidixic 
+acid  (NAL,  30),  nitrofurantoin  (NIT,  30),  tetracycline 
+(TET,  30)  and  chloromphenicol  (CHL,  30).  All  antibio- 
+tic  discs  were  purchased  from  SPAN  Diagnostic  Ltd,  
+Udhna, India. 
+
+(COT, 
+
+Results and discussion 
+
+A  total  of  464  bacterial  isolates  were  recovered  from 
+the sheep and goat faecal samples. From the 464 recov-
+ered  bacteria,  287  (62%)  were  identified  as  E.  coli  iso-
+lates  (Fig. 1).  By  the  conventional  method,  88  (30%)  of  
+E. coli  isolates  were  suspected  as  O157  through  their 
+phenotypical  characteristics  on  CSMAC  agar 
+(non-
+sorbitol  fermenters  forming;  colourless  colonies  on 
+CSMAC  agar).  A  total  of  79  bacterial  isolates  were  re-
+covered  from  slaughterhouses  and  butchers’  shops. 
+Fifty  (64%)  of  the  79  isolates  were  identified  conven-
+tionally as E. coli. 
+ 
+In a total of 201 E. coli that were isolated from slaugh-
+tered sheep (150) and goats (51), 18 (9%) were character-
+ized  by  mPCR  as  having  one  or  more  of  the  virulence 
+genes: stx1, stx2, E-hly A and eae A (Figs. 2 and 3). VTEC 
+comprised  13  (72%)  of   the  total  number of the charac- 
+
+© 2009 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim 
+
+www.jbm-journal.com 
+
+Journal of Basic Microbiology 2009, 49, 310 – 317 
+
+Characterization of verotoxigenic Escherichia coli isolates 
+
+313 
+
+300
+
+250
+
+200
+
+265
+
+233
+
+Fecal Samples
+
+207
+
+205
+
+199
+
+Isolates
+
+169
+
+E.coli Isolates
+
+l
+
+s
+a
+m
+n
+a
+
+i
+
+ 
+f
+
+o
+
+ 
+r
+e
+b
+m
+u
+N
+
+150
+
+100
+
+50
+
+0
+
+Animal Shed E.coli Isolates
+
+80
+
+78
+
+Sheep
+
+Goats
+
+Animal Species
+
+ 
+
+Figure 1.  Relative numbers of the collected slaughtered sheep and goats fecal samples, suspected isolates, identified E. coli isolates and 
+the number of animals that shed E. coli from the southern part of Jordan. 
+ 
+
+terized E. coli isolates (Table 2). VTEC was isolated from 
+slaughtered sheep and goats with the same percentage 
+(6%). VTEC was also isolated from slaughtered animals 
+regardless  of  the  sources  of  those  animals,  that  is,  
+either  local  or  imported  (Table 3).  Other  pathotypes  of 
+E. coli  were  characterized  by  mPCR-like,  EPEC  (+eae  A) 
+and  EHEC  (+hly  A)  in  a  total  of  two  (11%)  and  three 
+(16%),  respectively,  from  the  total  number  of  virulent 
+isolated E. coli (Table 2). 
+ 
+
+  According  to  the  slide  agglutination  serotyping,  of 
+the  13  suspected  VTEC  that  were  isolated,  one  be- 
+longed  to  the  O157  serotype  and  another  belonged  to 
+the  serotype  O26.  Both  O157  and  O26  have  the  geno-
+type  stx1,  E-hly  A  and  eae.  The  rest  of  the  isolates  
+were  serotypes  other  than  O157  or  O26.  All  the  VTEC 
+isolates  were  screened  for  β-glucuronidase  production. 
+Only  the  O157  isolate  lacked  the  β-glucuronidase  pro-
+duction. 
+
+Figure 2.  Amplification products of stx1, eae A and E-hly A. lane 1; 100 bp ladder, lane 2: negative control (ATCC 25922), lane 3; positive 
+control (EHEC C4193-1), lane 4; +stx1 and +eae A, lane 5; +stx1 and +E-hly A, lane 6; +stx1, lane 7 and 8; negative, lane 9; +E-hly A and 
+lane 10; +eae A and stx1. 
+
+ 
+
+© 2009 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim 
+
+www.jbm-journal.com 
+
+314 
+
+K. A. Tarawneh et al. 
+
+Journal of Basic Microbiology 2009, 49, 310 – 317 
+
+ 
+
+Figure 3.  Amplification  products  of  stx1  and  stx2  genes.  Lane  1; 
+100bp  ladder,  lane  2;  negative  control  (ATCC  25922),  lane  3; 
+positive control (EHEC C 4193–1), lane 4; stx1, lane 5; stx1 & stx2. 
+ 
+
+Table 2.  Virulence genes profile(s), detection rates and sources 
+of VTEC isolates. 
+
+Virulence 
+genes                        
+
+ sheep    goat 
+
+stx1 
+stx1+stx2 
+stx1+eae A 
+stx1+E-hly A 
+stx1+E-hly A+eae A 
+E-hly A 
+eae A 
+
+   3 
+   1 
+   3 
+   1 
+   2 
+   2 
+   0 
+
+ (slaughterhouses/ 
+ butcher shops)        
+
+ total 
+
+ 3 
+ 0 
+ 2 
+ 2 
+ 0 
+ 0 
+ 1 
+
+   6 
+   1 
+   6   
+   5 
+   2 
+   3 
+   3 
+
+ 
+
+  0 
+  0 
+  1 
+  2 
+  0 
+  1 
+  2 
+
+  6 
+
+–  32.3%  [26],  16%  [27]  and  6.1%  [28]  –  which  is  in  ac-
+cordance  with  our  result.  In  the  case  of  slaughtered 
+animals, VTEC was isolated from sheep and goats with 
+the  same  percentage  (about  6%)  (Table 2).  This  result 
+demonstrates  that  both  sheep  and  goats  are  important 
+reservoirs  of  VTEC,  as  has  been  suggested  [1].  Further-
+more,  VTEC  isolates  comprised  21%  (7/33)  of  the  total  
+E. coli  isolates  from  slaughterhouses  and  butchers’ 
+shops  (Table 2).  None  of  the  seven  VTEC  isolates  from 
+slaughterhouses  and  butchers’  shops  were  stereotyped 
+as  O157,  O26  or  O111.  VTEC  contamination  in  slaugh-
+ter  sites  is  related  to  poor  hygiene  and  non-activated 
+sanitary measurements. 
+  VTEC  isolated  either  from  slaughtered  animals, 
+slaughterhouses or butchers’ shops possessed genes for 
+E-hlyA  and/or  eaeA  in  65%  of  the  total  VTEC  isolates 
+(Table 2).  This  type  of  VTEC  is  called  complex  VTEC. 
+Complex  VTEC  is  more  commonly  recovered  from  the 
+faeces of humans with HUS and HC than VTEC strains 
+that do not possess these accessory virulence genes [29]. 
+Complex  VTEC  possessing  the  E-hly  A  gene  has  been 
+described as EHEC; the role of stx in EHEC pathogenesis 
+in  ruminants  is  unclear  [30].  Contamination  of  slaugh-
+terhouses with complex VTEC, regardless of the source 
+of VTEC, and the high prevalence rate of complex VTEC 
+in slaughtered sheep and goats will increase the rate of 
+meat  contamination.  Consequently,  the  probability  of 
+human  infection  with  complex  VTEC  will  increase. 
+Epidemiological  and  comprehensive  studies  have  sug-
+gested  that  the  level  of  contamination  with  complex 
+VTEC is linked primarily to the level of intestinal infec-
+tion,  the  faecal  excretion  of  these  pathogens  and  the 
+general hygiene of slaughterhouses and butchers’ shops 
+[31].  Thus,  routine  microbiologic  testing  performed  in 
+slaughterhouses  and  butchers’  shops  can  be  beneficial 
+in  terms  of  diminishing  food  contamination  before  it 
+reaches consumers. 
+  Among  the  isolated  VTEC,  only  one  isolate  had  the 
+stx2  gene,  in  a  percentage  of  5%,  while  the  other  iso-
+lates  genetically  had  the  stx1  gene  in  a  percentage  of  
+
+ 26 
+
+ 8 
+
+ 12 
+
+TOTAL 
+ 
+ 
+ 
+In  this  study,  VTEC  was  found  in  13  (6.5%)  of  the 
+investigated  E.  coli  isolates  from  slaughtered  sheep  and 
+goats (Tables 2 and 3). This supports the hypothesis that 
+sheep  and  goats  are  important  reservoirs  of  VTEC.  A 
+number  of  studies  have  demonstrated  that  animals, 
+including  cows,  sheep  and  goats,  are  reservoirs  for  dif-
+ferent  VTEC  strains  that  have  been  associated  with 
+human  illness  [24, 25].   In  fact,   the  prevalence  rates  of 
+VTEC in sheep and goats varied among different studies  
+ 
+ 
+ 
+Table 3.  Characterization of suspected VTEC isolates on CSMAC agar, clinical findings and sources of isolates. 
+
+VTEC/tested 
+E. coli isolates 
+
+13/201 
+
+7/33 
+
+VTEC source 
+
+Serotyping 
+
+Clin. finding 
+
+Animal source 
+
+O157 
+
+O26 
+
+ND* 
+
+Nor. 
+
+Inf. 
+
+Loc. 
+
+Imp. 
+
+S : 10 
+G : 3 
+
+SL : 7 
+BO : 0 
+
+1 
+0 
+
+0 
+– 
+
+1 
+ 
+
+ 
+– 
+
+8 
+3 
+
+7 
+– 
+
+9 
+3 
+
+– 
+– 
+
+1 
+0 
+
+– 
+– 
+
+4 
+3 
+
+– 
+– 
+
+6 
+0 
+
+– 
+– 
+
+* Not determined; S: sheep; G: goat; SL: slaughterhouse; BO: butcher shop. 
+
+© 2009 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim 
+
+www.jbm-journal.com 
+
+Journal of Basic Microbiology 2009, 49, 310 – 317 
+
+Characterization of verotoxigenic Escherichia coli isolates 
+
+315 
+
+Table 4.  Antibiotic susceptibility profile (s) of seven different isolated virulent VTEC. 
+
+Virulent patterns 
+
+Antibiotic agents 
+
+Stx1 
+Stx1+stx2 
+stx1+eae A 
+stx1+E-hly A 
+stx1+E-hly A+eae A 
+E-hly A 
+eae A 
+
+AMP 
+
+CIP 
+
+COT 
+
+GEN 
+
+NAL 
+
+NIF 
+
+TET 
+
+CHL 
+
++ 
++/– 
++ 
++ 
++ 
+– 
++/– 
+
++ 
+– 
++/– 
+– 
+– 
++/– 
++ 
+
+– 
+– 
++/– 
+– 
+– 
+– 
++/– 
+
+– 
+– 
+– 
+– 
++/– 
+– 
+– 
+
++/– 
+– 
++/– 
++ 
++ 
++/– 
+– 
+
++/– 
++/– 
+– 
++/– 
+– 
++/– 
++ 
+
++ 
++ 
++/– 
++ 
++ 
+– 
++ 
+
+–/+ 
+– 
++/– 
++ 
++/– 
+– 
++/– 
+
+AMP,  ampicillin;  CIP,  ciprofloxacin;  COT,  co–trimoxazole;  GEN,  gentamicin;  NAL,  nalidixic  acid;  NIF,  nitrofurantoin;  TET, 
+tetracycline; CHL, chloromphencol; +, resistant; +/–, partially sensitive; –, sensitive. 
+ 
+
+95%. In contrast, a study that was performed in Austra-
+lia suggested that 41 of 45 VTEC isolates produced stx1 
+and  23  produced  stx2  [32].  In  fact,  a  study  was  con-
+ducted  with  PCR  to  characterize  VTEC  containing  stx1 
+and/or  stx2.  The  stx1  family  is  very  homogenous,  but 
+stx2  is  a  more  heterogeneous  group  than  stx1  and  the 
+stx2  variants  described  so  far  are  stx2,  stx2c,  stx2d,  stx2e 
+and  stx2f  [33].  The  sources  of  the  slaughtered  animals 
+revealed  that  VTEC  had  been  shedding  from  slaugh-
+tered  sheep  and  goats,  regardless  of  their  source,  that 
+is, either local or imported (Table 3). Thus, future inves-
+tigation  into  VTEC  epidemiology  must  be  undertaken 
+in small ruminants, regardless of the animals’ sources. 
+We  found  that  90%  (9/10)  of  VTEC  isolated  from  the 
+sheep  was  shed  from  the  young  (6 – 10  months)  rather 
+than from old sheep. This result could be explained by 
+a longitudinal study of VTEC in sheep which suggested 
+that  the  prevalence  rate  of  VTEC  declines  with  an  in-
+crease in age [29]. 
+  Table 4  shows  the  results  of  antibiotic  sensitivity 
+patterns  for  seven  virulent  patterns  of  E.  coli  isolates. 
+The multiple antibiotic susceptibility (MAS) of different 
+virulent patterns, stx1, stx1+stx2, stx1+eae A, stx1+E-hly A, 
+stx1+ E-hly A+eae A, E-hly A and  eae  A, were 25%, 62.5%, 
+25%, 37.5%, 37.5%, 62.5% and 25%, respectively. 
+  Resistance  to  ampicillin  and  tetracycline  was  pre- 
+sent  in  85%  of  the  VTEC  isolated  patterns,  while  the 
+resistance  to  chloromphenicol,  nitrofurantoin  and 
+nalidixic  acid  occurred  in  71%,  to  ciprofloxacin  in  
+57%,  to  co-trimoxazole  in  28%  and  to  gentamicin  in 
+14%.  It  is  worth  mentioning  that  ampicillin  and  tetra-
+cycline  are  used  without  control  in  livestock,  which 
+could in part  explain the  high  resistance  to these anti-
+biotics. 
+  We studied the effect of some antibiotics on the dif-
+ferent  virulence  patterns  of  E. coli  isolates,  using  the 
+antibiotics commonly used in the Jordanian market for 
+treatment of EHEC/VTEC infection (Table 4). Obviously, 
+
+the controlled use of antimicrobial agents is a prerequi-
+site  to  limiting  the  emergence  of  drug-resistant  bacte-
+ria, as recommended [23]. Previous studies have shown 
+a  high  prevalence  of  antibiotic  resistance  among  some 
+antibiotics, ampicillin and tetracycline [34, 35]. A study 
+conducted  in  the  USA  about  antibiotic  resistance 
+showed  that  most  E.  coli  isolates  were  susceptible  to  
+(co-trimoxazole)  trimethoprim/sulfamethoxazole,  gen-
+tamicin  and  ciprofoloxacin  [36].  This  study  also  re-
+vealed  that  VTEC  isolates  were  highly  susceptible  to 
+gentamicin  and  co-trimoxazole,  with  moderate  sus- 
+ceptibility  to  ciprofloxacin.  However,  VTEC  patterns 
+showed resistance among some antibiotics tested, such 
+as  tetracycline  and  ampicillin,  which  are  commonly 
+used in Jordan (Table 4). In fact, the resistance ability of 
+many  VTEC  patterns  is  related  to  the  transfer  of  plas-
+mid-encoded  resistance  to  anti-microbial  agents.  The 
+possibility  of  transfer  of  resistance  genes  between  bac-
+teria  in  natural  habitats  has  recently  attracted  a  lot  of 
+attention [37]. 
+
+References 
+
+  [1]  Mainil, J. and Daube, G., 2005. Verotoxigenic Esherichia coli 
+from  animals,  humans  and  food:  who’s  who?  J.  Appl.  
+Microbiol., 98, 1332 – 1339. 
+
+  [2]  Boyce, T.G., Swerdlow, D.L. and Griffin, P.M., 1995. Esche-
+richia  coliO157 : H7  and  the  hemolytic-uremic  syndrome. 
+N. Engl. J. Med., 333, 364 – 368. 
+
+  [3]  Beutin,  L.,  Geier,  D.,  Zimmermann,  S.,  Aleksic,  S.,  Gilles-
+pie,  H.A.  and  Whittam,  S.T.,  1997.  Epidemiological  rela-
+tedness and clonal types of natural populations of Escheri-
+chia  coli  strains  producing  Shiga  toxins  in  separate 
+populations of cattle and sheep. Appl. Environ. Microbiol., 
+63, 2175 – 2180. 
+
+  [4]  Nataro, J.P. and Kaper, J.B.. 1998. Diarrheagenic Escherichia 
+
+coli. Clin Microbiol Rev., 11, 142 – 201. 
+
+  [5]  Paiba, G.A., Gibbens, J.C., Pascoe, S.J.S., et al., 2002. Faecal 
+carriage  of  verotoxin-producing  Escherichia  coli  O157  in 
+
+© 2009 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim 
+
+www.jbm-journal.com 
+
+316 
+
+K. A. Tarawneh et al. 
+
+Journal of Basic Microbiology 2009, 49, 310 – 317 
+
+cattle  and  sheep  at  slaughter  in  Great  Britain.  Vet.  Rec., 
+150, 593 – 598. 
+
+  [6]  Arthur,  T.M.,  Barkocy-Gallagher,  G.A.,  Rivera-Betancourt, 
+M., and Koohmaraie, M. 2002. Prevalence and characteri-
+zation  of  non-O157  Shiga  toxinproducing  Escherichia  coli 
+on carcasses in commercial beef cattle processing plants. 
+Appl. Environ. Microbiol., 68, 4847 – 4852. 
+
+[20]  Yashoda,  K.P.,  Sachinra,  N.M.,  Sakhare,  P.Z.  and  Nara- 
+simha,  R.D.,  2000.  Microbiological  quality  of  hygieni- 
+cally  processed  buffalo  carcasses.  Food  Control,  11,  217 –
+224. 
+
+[21]  Chapman,  P.A.,  Siddons,  C.A.,  Zadik,  P.M.  and  Jewes,  L., 
+1991.  An  improved  selective  medium  for  the  isolation  of 
+Escherichia coli O157. J. Med. Microbiol., 35, 107 – 110. 
+
+  [7]  Johnsen, G., Wasteson, Y., Heir, E., Berget, O.I. and Herik-
+stad,  H.,  2001.  Escherichia  coli  O157 : H7  in  faeces  from  
+cattle,  sheep  and  pigs  in  the  southwest  part  of  Norway 
+during  1998  and  1999.  Int.  J.  Food  Microbiol.,  65,  193 –
+200. 
+
+[22]  Fagan,  P.K.,  Horitzky,  M.A.,  Bettelheim,  K.A.  and  Djord-
+jevic,  S.P.,  1999.  Detection  of  Shiga-like  toxin  (stx1  and 
+stx2),  intimin  (eaeA),  and  enterohemorrhagic  Escherichia  
+coli  (EHEC)  hemolysin  (EHEC  hlyA)  genes  in  animal  feces 
+by multiplex PCR. Appl. Environ. Microbiol., 2, 868 – 872. 
+
+  [8]  Sheng,  H.,  Davis,  M.A.,  Knecht,  H.J.,  Hancock,  D.D.,  Don-
+kersgoed, J.V. and Hovde, C.J., 2005. Characterization of a 
+shiga 
+intimin-,  and  enterotoxin  hemolysin-
+producing Escherichia coli ONT : H25 strain commonly isola-
+ted  from  healthy  cattle.  J.  Clin.  Microbiol.,  43,  3213 –
+3220. 
+
+toxin-, 
+
+  [9]  Cornick  N.A.,  Booher,  S.L.,  Casey,  T.A.  and  Moon,  H.W., 
+2000.  Persistent  colonization  of  sheep  by  Escherichia  coli 
+O157 : H7 and other E. coli pathotypes. Appl. Environ. Mic-
+robiol., 66, 4926 – 4934. 
+
+[10]  Karmali, M.A., 1989. Infection by verocytotoxin-producing 
+
+Escherichia coli. Clin. Microbiol. Rev., 2, 5 – 38. 
+
+[23]  National  Committee  for  Clinical  Laboratory  Standards, 
+2005.  Methods  for  dilution  antimicrobial  susceptibility 
+tests for bacteria that grow aerobically; 15th ed. Approved 
+standard (M100-S15), 25, No. 1. Wayne, PA: NCCLS. 
+
+[24]  Beutin,  L.,  Geier,  D.,  Steinrück,  H.,  Zimmermann,  S.  and 
+Scheutz, F., 1993. Prevalence and some properties of vero-
+toxin  (Shiga-like  toxin)  producing  Escherichia  coli  in  seven 
+different species of healthy domestic animals. J. Clin. Mi-
+crobiol., 31, 2483 – 2488. 
+
+[25]  Fegan,  N.  and  Desmarchelier,  P.,  1999.  Shiga  toxin-
+producing Escherichia coli in sheep and preslaughter lambs 
+in eastern Australia. Lett. Appl. Microbiol., 28, 335 – 339. 
+
+[11]  Konowalchuck,  J.,  Speirs,  J.I.  and  Stavric,  S.,  1977.  Vero 
+response  to  a  cytotoxin  of  Esherichia  coli.  Infect.  Immun., 
+18, 775 – 779. 
+
+[26]  Adesiyun, A.A. and Kaminijolo, J.S., 1994. Prevalence and 
+epidemiology of selected enteric infections of livestock in 
+Trinidad. Prev. Vet. Med., 19, 151 – 165. 
+
+[12]  Paton,  A.W.  and  Paton,  J.C.,  1998.  Detection  and  charac-
+terization of shiga toxigenic Esherichia coli by using multi-
+plex  PCR  assays  for  stx1,  stx2,  eae  A,  enterohemorrhagic  
+E.  coli  hly,  rfb  O111,  and  rfb  O157.  J.  Clin.  Microbiol.,  36, 
+598 – 602. 
+
+[13]  Sandvig, K. and van Deurs, B., 1996. Endocytosis, intracel-
+lular  transport,  and  cytotoxic  action  of  Shiga  toxin  and 
+ricin. Physiol. Rev., 76, 949 – 966. 
+
+[14]  Mainil,  J.,  1999.  Shiga/verocytotoxins  and  Shiga/vero- 
+toxigenic  Escherichia  coli  in  animals.  Vet.  Res.,  30,  235 –
+257. 
+
+[15]  Beutin,  L.,  Geiger,  D.,  Zimmermann,  S.  and  Karch,  H., 
+1995. Virulence markers of Shiga-like toxin-producing Es-
+cherichia  coli  strains  originating  from  healthy  domestic 
+animals  of  different  species.  J.  Clin.  Microbiol.,  33,  631 –
+635. 
+
+[16]  Mckee,  M.L.  and  O’Brien,  A.D.,  1996.  Truncated  entero-
+hemorrhagic  Escherichia  coli  (EHEC)  O157 : H7  intimin 
+(Eae A) fusion proteins promote adherence of EHEC strains 
+to HEp-2 cells. Infect. Immun., 37, 2225 – 2233. 
+
+[17]  McDaniel,  T.K.,  Jarvis,  KG.,  Donnenberg,  M.S.  and  Kaper, 
+J.B.,  1995.  A  genetic  locus  of  enterocyte  effacement  con-
+served  among  diverse  enterobacterial  pathogens.  Proc. 
+Natl. Acad. Sci. USA, 92, 1664 – 1668. 
+
+[18]  Griffin,  P.M.,  1995.  Escherichia  coli  O157 : H7  and  other 
+enterohemorrhagic  Escherichia  coli.  Emerging.  Infec.  Dis., 
+4, 739 – 761. 
+
+[19]  Stevens, M.P., van Diemen, P.M., Frankel, G., Phillips, A.D. 
+and  Wallis,  T.S.,  2002.  Efa1  influences  colonisation  of  
+the  bovine  intestine  by  Shiga  toxin-producing  Escherichia 
+coli  serotypes  O5  and  O111.  Infect.  Immun.,  70,  5158 –
+5166. 
+
+[27]  Orden,  J.A.,  Quiteria,  R.S.,  Blanco,  M.,  Blanco,  J.E.,  Mora, 
+A.,  Cid,  D.,  Gonzalez,  E.A.,  Blanco,  J.  and  Fuente,  R.D., 
+2002.  Prevalence  and  characterization  of  vero  cytotoxin-
+producing  Esherichia  coli  isolated  from  diarrhoeic  and 
+healthy  sheep  and  goats.  Epidemiol.  Infect.,  130,  313 –
+321. 
+
+[28]  Wary,  C.,  McLaren,  I.M.  and  Carroll,  P.J.,  1993.  Esherichia 
+coli  isolated  from  farms  animals  in  England  and  Wales 
+between 1986 and 1991. Vet. Res., 133, 439 – 442. 
+
+[29]  Djordjevic,  S.P.,  Ramachandran,  V.,  Bettelheim,  K.A., 
+Vanselow,  B.A.,  Holst,  P.,  Bailey,  G.  and  Hornitzky,  M.A., 
+2004.  Serotypes  and  virulence  gene  profiles  of  Shiga  to-
+xin-producing Escherichia coli strains isolated from feces of 
+Pasture-Fed  and  Lot-Fed  sheep.  Appl.  Environ.  Microbiol., 
+70, 3910 – 3917. 
+
+[30]  Stevens,  M.P.,  van  Diemen,  P.M.,  Francis,  D.P.,  Jones,  W. 
+and  Wallis,  T.S.,  2002.  Options  for  the  control  of  entero-
+haemorrhagic  Escherichia  coli  in  ruminants.  Microbiology, 
+148, 3767 – 3778. 
+
+[31]  Elmali, M., Ulukanli, Z., Yaman, H., Tuzcu, M., Genctav K. 
+and  Cavli,  P.,  2005.  A  seven  month  survey  for  the  detec-
+tion  of  E.  coli  O157 : H7  from  ground  beef  samples  in  the 
+markets of turkey. Pak. J. Nutrition, 4, 158 – 161. 
+
+[32]  Bettelheim,  K.A.,  2000.  Role  of  non-O157  VTEC.  J.  Appl, 
+
+Microbiol., 88, 38 – 50. 
+
+[33]  Schmidt, H. and Karch, H., 1996. Enterohemolytic pheno-
+types  and  genotypes  of  Shiga  toxin-producing  Escherichia 
+coli  O111  strains  from  patients  with  diarrhea  and  homo-
+lytic-uremic syndrome. J. Clin. Microbiol., 34, 2364 – 2367. 
+
+[34]  Shehabi,  A.A.,  Bulos,  N.K.  and  Hajjaj,  K.G.,  2003.  Charac-
+terization  of  diarrhoeagenic  Eschericia  coli  isolates  in  Jor-
+danian children. Scand. J. Infec. Dis., 35, 368 – 371. 
+
+© 2009 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim 
+
+www.jbm-journal.com 
+
+Journal of Basic Microbiology 2009, 49, 310 – 317 
+
+Characterization of verotoxigenic Escherichia coli isolates 
+
+317 
+
+[35]  Kim, J.Y., Kim, S.H., Kwon, N.H., Bae, W.K., Lim, J.Y., Koo, 
+H.C.,  Kim,  J.M.,  Noh,  K.M.,  Jung,  W.K.,  Park,  K.T.  and 
+Park, Y.H., 2005. Isolation and identification of Escherichia 
+coli  O157 : H7  using  different  detection  methods  and  mo-
+lecular determination by multiplex PCR and RAPD. J. Vet. 
+Sci., 6, 7 – 19. 
+
+[36]  Galland,  J.C.,  Hyatt,  D.R.,  Crupper,  S.S.  and  Acheson, 
+D.W.,  2001.  Prevalence,  antibiotic  susceptibility,  and  di-
+versity  of  Escherichia  coli  O157:H7  isolates  from  longitudi-
+
+nal study of beef cattle feedlots. Appl. Environ. Microbiol., 
+67, 1619 – 1627. 
+
+[37]  Harakeha,  S.,  Yassinea,  H.,  Ghariosb,  M.,  Barbourc,  E., 
+Hajjara,  S.  El-Fadeld,  M.,  Toufeilib,  I.  and  Tannousb,  R., 
+2005.  Isolation,  molecular  characterization  and  antimic-
+robial  resistance  patterns  of  Salmonella  and  Escherichia  coli 
+isolates  from  meat-based  fast  food  in  Lebanon.  Sci.  Total 
+Environ., 341, 33 – 44. 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+© 2009 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim 
+
+www.jbm-journal.com 
+
+ 
+

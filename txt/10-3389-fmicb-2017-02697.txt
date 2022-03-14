@@ -1,0 +1,1834 @@
+ORIGINAL RESEARCH
+published: 11 January 2018
+doi: 10.3389/fmicb.2017.02697
+
+Prevalence, Virulence Genes and
+Antimicrobial Resistance Proﬁles of
+Salmonella Serovars from Retail Beef
+in Selangor, Malaysia
+
+Tze Y. Thung 1*, Son Radu 1, 2*, Nor A. Mahyudin 1, Yaya Rukayadi 1, Zunita Zakaria 3,
+Nurzaﬁrah Mazlan 4, Boon H. Tan 5, Epeng Lee 1, 2, Soo L. Yeoh 1, 2, Yih Z. Chin 1,
+Chia W. Tan 1, Chee H. Kuan 6, Dayang F. Basri 7 and Che W. J. Wan Mohamed Radzi 8
+
+1 Department of Food Science, Faculty of Food Science and Technology, Universiti Putra Malaysia, Serdang, Malaysia,
+2 Laboratory of Food Safety and Food Integrity, Institute of Tropical Agriculture and Food Security (ITAFoS), Universiti Putra
+Malaysia, Serdang, Malaysia, 3 Department of Veterinary Pathology and Microbiology, Faculty of Veterinary Medicine,
+Universiti Putra Malaysia, Serdang, Malaysia, 4 Department of Diagnostic and Allied Science, Faculty of Health and Life
+Science, Management and Science University, Shah Alam, Malaysia, 5 Division of Applied Biomedical Sciences and
+Biotechnology, School of Health Sciences, International Medical University, Kuala Lumpur, Malaysia, 6 Department of
+Agricultural and Food Science, Faculty of Science, Universiti Tunku Abdul Rahman, Kampar, Malaysia, 7 Novel Antibiotic
+Laboratory, School of Diagnostic and Applied Health Sciences, Faculty of Health Sciences, Universiti Kebangsaan Malaysia,
+Kuala Lumpur, Malaysia, 8 Department of Science and Technology Studies, Faculty of Science, University of Malaya, Kuala
+Lumpur, Malaysia
+
+The aim of the present study was to investigate the prevalence of Salmonella spp.,
+Salmonella Enteritidis and Salmonella Typhimurium in retail beef from different retail
+markets of Selangor area, as well as,
+to assess their pathogenic potential and
+antimicrobial resistance. A total of 240 retail beef meat samples (chuck = 60; rib = 60;
+round = 60; sirloin = 60) were randomly collected. The multiplex polymerase chain
+reaction (mPCR) in combination with the most probable number (MPN) method was
+employed to detect Salmonella spp., S. Enteritidis and S. Typhimurium in the meat
+samples. The prevalence of Salmonella spp., S. Enteritidis and S. Typhimurium in
+240 beef meat samples were 7.50, 1.25, and 0.83%, respectively. The microbial
+loads of total Salmonella was found in the range of <3 to 15 MPN/g. Eight different
+serovars of Salmonella were identiﬁed among the 23 isolates, and S. Agona was the
+predominant serovar (26.09%). Interestingly, all the Salmonella isolates were resistant to
+penicillin, erythromycin and vancomycin, but the sensitivity was observed for tetracycline,
+gentamicin and amoxicillin/clavulanic acid. All 23 isolates were resistant to at least
+three antibiotics. Two S. Typhimurium isolates (8.70%) exhibited the highest multiple
+antibiotic resistance (MAR) index value of 0.56 which shown resistance to nine antibiotics.
+PCR analysis of virulence genes showed that all Salmonella isolates (100%) were
+positive for the invA gene. Meanwhile, pefA was only identiﬁed in S. Enteritidis and
+S. Typhimurium. The ﬁndings in this study indicate that retail beef products tested were
+widely contaminated with multi-drug resistant (MDR) Salmonella and various virulence
+genes are present among the isolated Salmonella serovars.
+
+Edited by:
+
+Giovanna Suzzi,
+
+Università di Teramo, Italy
+
+Reviewed by:
+
+Milan Zivko Balti ´c,
+
+Faculty of Veterinary Medicine,
+
+University of Belgrade, Serbia
+
+Giorgia Perpetuini,
+
+Università di Teramo, Italy
+
+*Correspondence:
+
+Tze Y. Thung
+
+upmtty@yahoo.com
+
+Son Radu
+
+son@upm.edu.my
+
+Specialty section:
+
+This article was submitted to
+
+Food Microbiology,
+
+a section of the journal
+
+Frontiers in Microbiology
+
+Received: 22 July 2017
+
+Accepted: 26 December 2017
+
+Published: 11 January 2018
+
+Citation:
+
+Thung TY, Radu S, Mahyudin NA,
+
+Rukayadi Y, Zakaria Z, Mazlan N,
+
+Tan BH, Lee E, Yeoh SL, Chin YZ,
+
+Tan CW, Kuan CH, Basri DF and
+
+Wan Mohamed Radzi CWJ (2018)
+
+Prevalence, Virulence Genes and
+
+Antimicrobial Resistance Proﬁles of
+
+Salmonella Serovars from Retail Beef
+
+in Selangor, Malaysia.
+
+Front. Microbiol. 8:2697.
+
+doi: 10.3389/fmicb.2017.02697
+
+Keywords: beef meat, Salmonella, multiplex PCR, prevalence, antimicrobial resistance, virulence gene
+
+Frontiers in Microbiology | www.frontiersin.org
+
+1
+
+January 2018 | Volume 8 | Article 2697
+
+Thung et al.
+
+Salmonella Serovars in Retail Beef
+
+INTRODUCTION
+
+The intestinal epithelium infection known as salmonellosis is
+caused by the genus Salmonella. The major pathogenic serovars
+of Salmonella enterica that
+infect humans from a variety
+of diﬀerent food products include Salmonella Enteritidis and
+Salmonella Typhimurium (Kramarenko et al., 2014; Yang et al.,
+2016; Ed-dra et al., 2017). In the USA over 40,000 salmonellosis
+cases are reported each year and foods of animal origin are
+considered to be the most likely source of Salmonella (Finstad
+et al., 2012). It is well known that human Salmonella infections
+are associated with many diﬀerent kinds of food, including beef
+meat and beef meat products (Brichta-Harhay et al., 2008; Sallam
+et al., 2014). Hence, the presence of Salmonella in beef at the
+slaughter level and at the market is a signiﬁcant food safety risk.
+Sensitive and speciﬁc methods with shorter turnaround
+time for the detection and identiﬁcation of Salmonella are
+needed to reduce testing-related laboratory costs. Therefore,
+multiplex polymerase chain reaction (mPCR) uses few pairs of
+primers simultaneously detecting diﬀerent pathogens in the same
+samples has the potential as a reliable and eﬀective method
+(Pui et al., 2011). Previously, a detection method consist of
+mPCR and the most probable number (MPN) method has
+successfully been performed to detect and identify S. Enteritidis
+and S. Typhimurium in chicken meat (Thung et al., 2016).
+Indeed, the mPCR-MPN method has widely been used to detect
+and enumerate food-borne pathogens such as Campylobacter
+spp. (Chai et al., 2007), Listeria monocytogenes (Kuan et al., 2013)
+and Vibrio parahaemolyticus (Tan et al., 2017). Recently, gold
+nanoparticle-aptamer-based localized surface plasmon resonance
+(LSPR) sensing chip was developed to enable the ultra-sensitive
+and selective detection of S. Typhimurium in pork meat (Oh
+et al., 2017).
+
+In general, bacterial virulence factors have a crucial role
+for systemic infections. The pathogenicity of Salmonella strains
+has been related to numerous virulence genes present in the
+chromosomal Salmonella pathogenicity islands (SPIs) (Nayak
+et al., 2004). Genes such as invA and hilA, found in SPI, allow
+Salmonella to invade epithelial cells (Cardona-Castro et al.,
+2002; Nayak et al., 2004). Besides, Salmonella outer proteins
+(sops) (SPI eﬀector protein) encoded by sop gene have relevance
+to Salmonella virulence (Huehn et al., 2010). Meanwhile,
+the plasmid encoded ﬁmbriae (pefA) gene contributes to the
+adhesion of Salmonella to epithelial cells (Murugkar et al.,
+2003). Other chromosomal gene like stn, codes for enterotoxin
+production has been shown to be a causative agent of diarrhea
+(Huehn et al., 2010). In addition, virulence plasmids carrying
+virulence genes such as the spv operon (Salmonella plasmid
+virulence) contribute to the colonization of deeper tissues among
+other functions (Swamy et al., 1996).
+
+To date, the emergence and spread of antimicrobial resistance
+among zoonotic Salmonella has become a public health threat
+(Sallam et al., 2014). Importantly, Salmonella strains having
+“clinically important resistance” to some agents like extended-
+spectrum cephalosporins and ﬂuoroquinolones, have been
+isolated from livestock (Li et al., 2013). In most developing
+countries, misuse and overuse of antibiotics has contributed
+
+to the increasing trend of multi-resistance in Salmonella (Ed-
+dra et al., 2017). In Selangor (center of Peninsular Malaysia),
+although some reports were found based on the prevalence of
+Salmonella in diﬀerent types of foods, but limited information
+on the surveillance study of Salmonella spp., S. Enteritidis and S.
+Typhimurium in beef meat at retail level are available. Therefore,
+the aim of this study was to assess the prevalence, virulence genes
+and antimicrobial resistance of Salmonella serovars isolated from
+retail beef meat in Selangor area.
+
+MATERIALS AND METHODS
+
+Collection of Meat Sample
+Four diﬀerent parts of beef meat samples (chuck = 60; rib = 60;
+round = 60; sirloin = 60) with a total number of 240 were
+collected from retail markets (wet markets and hypermarkets)
+in Selangor area over 9 months period from September 2014 to
+May 2015 (approximately 25 to 27 samples per month). The retail
+meat samples were kept in sterile stomacher bags and transferred
+to the laboratory for further analysis.
+
+Enrichment and Most Probable Number
+(MPN) Method
+Ten gram of meat sample was homogenized for 50 s using a
+stomacher after added in 90 mL of sterile buﬀered peptone water
+(BPW) (Merck, Darmstadt, Germany). Then, the suspension was
+diluted up to 1,000-fold with 10-fold serial. Later, MPN method
+(three-tube) was performed by transferring 1 mL of each dilution
+into three replicate tubes with 10 mL of Rappaport-Vasiliadis
+(RV) broth (Merck, Darmstadt, Germany) each, and followed
+by overnight incubation at 37◦C under aerobic conditions. The
+turbid MPN tubes were selected for subsequent DNA extraction
+using the boiled-cell method as described previously (Chai et al.,
+2007).
+
+the primer pair used for
+
+5′-GCCAACCATTGCTAAATTGGCGCA-3′
+
+5′-TGTGTTTTATCTGATGCAAGAGG-3′
+et
+
+Multiplex PCR Conditions
+For mPCR detection, three primer pairs were used to identify
+randomly selected-sequence of unknown function gene (429
+bp) for Salmonella spp., sdfI gene (304 bp) for S. Enteritidis,
+and ﬂiC gene (620 bp) for S. Typhimurium. The sequences
+targeting random sequence
+of
+5′-
+were
+GGTAGAAATTCCCAGCGGGTACTGG-3′
+al.,
+1999), whereas the primer pair used for targeting the sdfI
+gene were
+and
+5′-TGAACTACGTTCGTTCTTCTGG-3′
+al.,
+followed by the primer pair used for targeting the
+2004),
+5′-CGGTGTTGCCCAGGTTGGTAAT-3′
+gene were
+ﬂiC
+and 5′-ACTGGTAAAGATGGCT-3′
+(Soumet et al., 1999).
+We optimized the mPCR reaction conditions by a series of
+preliminary experiments so that the three independent PCR
+reactions can be performed in the same tube with the detection
+limit of 105 cfu/mL (data not shown). The optimized mPCR
+reaction mixture (25 µL) contained 2 µL of DNA template,
+5 µL of 5× PCR buﬀer, 2.5 µL of 25 mM MgCl2, 0.5 µL of 10
+mM deoxynucleotide triphosphate (dNTP), 0.5 µL of 1.2 µM
+primer mix and 14.2 µL of deionized water. The mixture was
+
+and
+et
+
+(Soumet
+
+(Alvarez
+
+Frontiers in Microbiology | www.frontiersin.org
+
+2
+
+January 2018 | Volume 8 | Article 2697
+
+Thung et al.
+
+Salmonella Serovars in Retail Beef
+
+then treated with 0.3 µL (1.5 U) Taq DNA polymerase. PCR
+ampliﬁcation was performed in triplicate with the following
+conditions: initial denaturation at 94◦C for 2 min, 30 cycles
+of denaturation at 94◦C for 45 s, annealing at 53◦C for 1 min,
+extension at 72◦C for 1 min and ﬁnal extension at 72◦C for 7
+min. The positive controls used were S. Typhimurium ATCC
+14028 and S. Enteritidis ATCC 13076. Escherichia coli ATCC
+25922 was used as a negative control.
+
+Isolation and Identiﬁcation of Salmonella
+The turbid MPN tubes were conﬁrmed to be Salmonella by
+plating on selective CHROMagar Salmonella (CHROMagar
+Microbiology, Paris, France) and Xylose Lysine Deoxycholate
+(XLD) (Merck, Darmstadt, Germany) agar plates, and incubated
+at 37◦C for 24 h. All the Salmonella isolates were then serotyped
+by slide agglutination using polyvalent “O” and “H” antisera (BD,
+Franklin Lakes, USA) at Veterinary Research Institute (VRI),
+Ipoh, Malaysia in accordance with the Kauﬀmann-White scheme.
+
+Antimicrobial Resistance Proﬁles
+The antimicrobial susceptibility was evaluated according to
+Clinical and Laboratory Standarts Institude (2012) by using disc
+diﬀusion method. Brieﬂy, isolates were cultured aerobically in 10
+mL Mueller-Hinton (MH) broth (Merck, Darmstadt, Germany)
+at 37◦C for 24 h. Overnight cultures, grown on MH broth (OD
+adjusted to 0.5 MacFarland unit), were swabbed evenly with
+sterile non-toxic cotton swab on MH agar plates and left to dry
+for 2 to 4 min. Then, antimicrobial sensitivity discs were placed
+on the culture by using a disk dispenser and incubated at 37◦C
+for 24 h. The tested antimicrobials were amoxicillin/clavulanic
+acid (AMC, 30 µg), amoxycillin (AML, 30 µg), ceftazidime
+(CAZ, 30 µg), cephazolin (KZ, 30 µg), ciproﬂoxacin (CIP, 5
+µg), erythromycin (E, 15 µg), chloramphenicol (C, 30 µg),
+ampicillin (AMP, 10 µg), penicillin (P, 10 µg), streptomycin
+(S, 10 µg), tetracycline (TE, 30 µg), kanamycin (K, 30 µg),
+gentamicin (CN, 10 µg), vancomycin (VA, 30 µg), nalidixic
+acid (NA, 30 µg), and suphamethoxazole/trimethoprim (SXT,
+25 µg) (Oxoid, Hamphire, United Kingdom). The multiple
+antibiotic resistance (MAR) index was calculated as “a/b,”
+where “a” the number of antibiotics for a particular isolate
+was resistant and “b” the total number of antibiotics tested
+(Krumperman, 1983).
+
+Detection of Virulence Genes
+All Salmonella isolates collected in this study were screened for
+the presence of virulence genes using PCR. The primers, the size
+in base pairs of the respective ampliﬁcation products and the
+references used for detection of six virulence genes are presented
+in Table 1. The virulence genes under study were invA, pefA, hilA,
+sopB, stn, and spvC. Positive (S. Typhimurium ATCC 14028 and
+S. Enteritidis ATCC 13076) and negative control (E. coli ATCC
+25922) were conducted in the detection procedure. To evaluate
+the reproducibility of the experiments, PCR ampliﬁcation and
+electrophoresis experiments were carried out in triplicate.
+
+Statistical Analysis
+All measurements were carried out in triplicate. Minitab (v. 14)
+statistical package (Minitab Inc., State College, PA) was used
+to determine if there was any signiﬁcant diﬀerence between
+the prevalence of Salmonella in beef meat from wet market
+and hypermarket. For all analysis, P < 0.05 was considered
+signiﬁcant.
+
+RESULTS
+
+Prevalence of Salmonella in Beef
+The target genes speciﬁc to Salmonella spp., S. Enteritidis and
+S. Typhimurium produced amplicons at 429, 304, and 620 bp,
+respectively. Figure 1 shows the result of gel electrophoresis
+comparing various combinations of the PCR primer sets and
+verifying the mPCR established for the current study consists of
+three independent and speciﬁc PCR reactions. Of the 240 retail
+beef meat samples tested, the contamination rates were 7.50%
+(n = 18), 1.25% (n = 3), and 0.83% (n = 2) for Salmonella
+spp., S. Enteritidis and S. Typhimurium, respectively (Table 2).
+Beef part round was the major reservoir for Salmonella, with
+prevalence rate of 16.67% (n = 60). The prevalence of Salmonella
+spp. in wet markets (10.00%) were signiﬁcantly higher than
+hypermarkets (5.00%) (P < 0.05). As shown in Table 3, the
+highest microbial loads of Salmonella was found in Salmonella
+spp. (15.0 MPN/g), followed by S. Enteritidis (3.6 MPN/g) and S.
+Typhimurium (3.6 MPN/g).
+
+Antimicrobial Resistance Proﬁles
+Antibiotic sensitivity testing was performed for the 23 isolated
+Salmonella strains, which included S. Enteritidis (n = 3),
+S. Typhimurium (n = 2), S. Agona (n = 6), S. Anatum
+(n = 3), S. London (n = 3), S. Newport (n = 3), S. Stanley
+(n = 1), and S. Weltevreden (n = 2). As shown in Table 4,
+three antibiotics gentamicin, amoxicillin/clavulanic acid, and
+tetracycline were eﬀective (100%) to all isolates. In this study,
+resistance to erythromycin, penicillin and vancomycin were seen
+in 100% of S. Enteritidis, S. Typhimurium, S. Agona, S. Anatum,
+S. London, S. Newport, S. Stanley and S. Weltevreden isolates.
+As shown in Table 5, the highest MAR index value of 0.56
+was found in two S. Typhimurium isolates. Observation from
+the presence study indicated that all Salmonella isolates were
+multi-drug resistant (MDR) strains, which showed resistance to
+three antibiotics (penicillin, vancomycin and erythromycin) or
+more. Nine Salmonella isolates (39.13%) mainly from S. Agona
+and S. Newport were resistant to four antibiotics, and three
+S. Enteritidis (13.04%) were resistant to at least ﬁve of the
+antibiotics.
+
+Distribution of Virulence Genes among
+Salmonella Isolates
+All 23 Salmonella isolates were tested by PCR for the presence
+of virulence genes. The invasion gene operon invA was detected
+in all Salmonella isolates (Table 6). Regarding the diﬀerent
+frequencies of hilA, sopB, and stn genes among diﬀerent serovars,
+a clear diﬀerence was noticed in the occurrence of these genes
+among the isolates; S. London and S. Stanley did not show the
+
+Frontiers in Microbiology | www.frontiersin.org
+
+3
+
+January 2018 | Volume 8 | Article 2697
+
+Thung et al.
+
+Salmonella Serovars in Retail Beef
+
+TABLE 1 | PCR primers used for ampliﬁcation of virulence genes in Salmonella isolates.
+
+Virulence genes
+
+Primer sequence (5′-3′)
+
+Size (bp)
+
+Reference
+
+invA
+
+pefA
+
+hilA
+
+sopB
+
+stn
+
+spvC
+
+F- TATCGCCACGTTCGGCAA
+
+R- TCGCACCGTCAAAGGAACC
+
+F- TGTTTCCGGGCTTGTGCT
+
+R- CAGGGCATTTGCTGATTCTTCC
+
+F- CGGAAGCTTATTTGCGCCATGCTGAGGTAG
+
+R- GCATGGATCCCCGCCGGCGAGAT TGTG
+
+F- TCAGAAGRCGTCTAACCACTC
+
+R- TACCGTCCTCATGCACACTC
+
+F- TTGTGTCGCTATCACTGGCAACC
+
+R- ATTCGTAACCCGCTCTCGTCC
+
+F- CGGAAATACCATCAAATA
+
+R- CCCAAACCCATACTTACTCTG
+
+275
+
+700
+
+854
+
+517
+
+617
+
+669
+
+Nayak et al., 2004
+
+Murugkar et al., 2003
+
+Cardona-Castro et al., 2002
+
+Huehn et al., 2010
+
+Murugkar et al., 2003
+
+Swamy et al., 1996
+
+FIGURE 1 | Representative ampliﬁcation of random sequence, sdfI gene and ﬂiC gene for identiﬁcation of Salmonella spp. (429 bp), S. Enteritidis (304 bp) and
+S. Typhimurium (620 bp), respectively. Lane M: 100-bp DNA ladder; Lane 1: mixture of Salmonella spp. and S. Typhimurium (positive); Lane 2: Salmonella spp. and
+S. Enteritidis (positive); Lane 3 to Lane 8: meat samples examined; and Lane 9: negative control.
+
+presence of sopB gene. Furthermore, pefA gene was present in 3
+of the 23 isolates tested (13.04%), comprising S. Enteritidis (one
+isolate) and S. Typhimurium (two isolates). Overall, the serovars
+tested showed at least three virulence-associated genes.
+
+DISCUSSION
+
+Results of investigations of retail beef meat samples do provide
+an estimate of the prevalence of Salmonella in retail shops. The
+high incidence of Salmonella in wet markets of the present
+study indicated poor sanitary condition in the food processing
+environment and lack of better personal hygiene of food handlers
+during product preparation. High incidence of Salmonella in
+wet markets was observed in the previous study of Thung et al.
+(2016), who found higher prevalence of Salmonella in retail
+chicken meat samples. An additional factor underlying potential
+diﬀerences in prevalence between wet markets and hypermarkets
+was that the storage temperature of the samples (Donado-Godoy
+et al., 2012). Meanwhile, the presence of Salmonella in retail beef
+meat might be due to the production system and conditions,
+
+hygienic slaughter, and transport before sale. In this study, the
+incidence of Salmonella in beef meat samples (9.58%, n = 240)
+was higher than the incidence (2.16%, n = 417) in Poland
+(Wieczorek and Osek, 2013) and less than the incidence (39.87%,
+n = 158) in North Vietnam (Thai et al., 2012). This could be
+due to the geographical variation such as climate and feed. On
+the other hand, prevalence of Salmonella has been reported in
+other food products in Malaysia. For example, Salmonella spp.
+and S. Typhimurium were detected in sliced fruits (such as
+papaya, watermelon, mango, sapodilla, jackfruit, dragon fruit and
+honeydew) (Pui et al., 2011), and vegetables (such as cabbage,
+carrot, capsicum, cucumber, lettuce and tomato) (Elexson et al.,
+2011). Besides, Najwa et al. (2015) have shown that Salmonella
+spp., S. Typhimurium and S. Enteritidis were detected in diﬀerent
+types of local salad known as ulam (such as kacang botol, kacang
+panjang, pegaga nyonya, and selom).
+
+In the present study, a combined MPN-mPCR was used to
+load (MPN/g) which can facilitate
+quantify the microbial
+the
+enumeration of Salmonella spp., S. Enteritidis and
+S. Typhimurium in the meat samples within a short period. The
+
+Frontiers in Microbiology | www.frontiersin.org
+
+4
+
+January 2018 | Volume 8 | Article 2697
+
+Thung et al.
+
+Salmonella Serovars in Retail Beef
+
+TABLE 2 | Prevalence of Salmonella spp., Salmonella Enteritidis and Salmonella Typhimurium in beef meat samples using MPN-mPCR method.
+
+Beef part
+
+Wet markets
+
+na
+
+30
+
+30
+
+30
+
+30
+
+Chuck
+
+Rib
+
+Round
+
+Sirloin
+
+No. of positive sample
+
+Salmonella spp.
+
+S. Enteritidis
+
+S. Typhimurium
+
+3 (10.0%)b
+
+3 (10.0%)
+
+4 (13.3%)
+
+2 (6.7%)
+
+0 (0.0%)
+
+0 (0.0%)
+
+1 (3.3%)
+
+1 (3.3%)
+
+0 (0.0%)
+
+0 (0.0%)
+
+1 (3.3%)
+
+0 (0.0%)
+
+n
+
+30
+
+30
+
+30
+
+30
+
+Hypermarkets
+
+No. of positive sample
+
+Salmonella spp.
+
+S. Enteritidis
+
+S. Typhimurium
+
+2 (6.7%)
+
+0 (0.0%)
+
+2 (6.7%)
+
+2 (6.7%)
+
+0 (0.0%)
+
+0 (0.0%)
+
+1 (3.3%)
+
+0 (0.0%)
+
+0 (0.0%)
+
+0 (0.0%)
+
+1 (3.3%)
+
+0 (0.0%)
+
+Total
+
+120
+
+12 (10.0%)
+
+2 (1.7%)
+
+1 (0.8%)
+
+120
+
+6 (5.0%)
+
+1 (0.8%)
+
+1 (0.8%)
+
+aNumber of samples.
+bPercentage of positive samples.
+
+TABLE 3 | Microbial loads of Salmonella spp., Salmonella Enteritidis and Salmonella Typhimurium (MPN/g) in beef meat samples using MPN-mPCR method.
+
+Beef part
+
+Wet markets
+
+Hypermarkets
+
+Salmonella spp.
+
+S. Enteritidis
+
+S. Typhimurium
+
+Salmonella spp.
+
+S. Enteritidis
+
+S. Typhimurium
+
+Mina Medb Maxc Min Med Max Min Med Max Min Med Max Min Med Max Min Med Max
+
+Chuck
+
+Rib
+
+Round
+
+Sirloin
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+7.4
+
+7.4
+
+15
+
+3.6
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+3.6
+
+3.6
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+3.6
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+3.6
+
+<3
+
+3.6
+
+3.6
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+3.6
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+<3
+
+3.6
+
+<3
+
+aMinimum MPN/g value.
+bMedian MPN/g value.
+cMaximum MPN/g value.
+
+TABLE 4 | Antimicrobial susceptibility pattern of Salmonella isolates.
+
+Antimicrobial agent
+
+No. of isolates tested
+
+Antibiogram pattern of Salmonella isolates
+
+Resistant (%)
+
+Intermediate (%)
+
+Sensitive (%)
+
+Amoxycillin (30 µg)
+
+Ampicillin (10 µg)
+
+Amoxicillin/Clavulanic acid (30 µg)
+
+Cephazolin (30 µg)
+
+Ceftazidime (30 µg)
+
+Chloramphenicol (30 µg)
+
+Ciproﬂoxacin (5 µg)
+
+Erythromycin (15 µg)
+
+Gentamicin (10 µg)
+
+Kanamycin (30 µg)
+
+Penicillin (10 µg)
+
+Nalidixic acid (30 µg)
+
+Streptomycin (10 µg)
+
+Suphamethoxazole/trimethoprim (25 µg)
+
+Tetracycline (30 µg)
+
+Vancomycin (30 µg)
+
+23
+
+23
+
+23
+
+23
+
+23
+
+23
+
+23
+
+23
+
+23
+
+23
+
+23
+
+23
+
+23
+
+23
+
+23
+
+23
+
+4 (17.39)
+
+11 (47.83)
+
+–
+
+2 (8.70)
+
+–
+
+7 (30.43)
+
+5 (21.74)
+
+23 (100)
+
+–
+
+–
+
+23 (100)
+
+–
+
+–
+
+4 (17.39)
+
+–
+
+23 (100)
+
+4 (17.39)
+
+8 (34.78)
+
+–
+
+2 (8.70)
+
+5 (21.74)
+
+13 (56.52)
+
+5 (21.74)
+
+–
+
+–
+
+2 (8.70)
+
+–
+
+2 (8.70)
+
+2 (8.70)
+
+6 (26.09)
+
+–
+
+–
+
+15 (65.22)
+
+4 (17.39)
+
+23 (100)
+
+19 (82.60)
+
+18 (78.26)
+
+3 (13.05)
+
+13 (56.52)
+
+–
+
+23 (100)
+
+21 (91.30)
+
+–
+
+21 (91.30)
+
+21 (91.30)
+
+13 (56.52)
+
+23 (100)
+
+–
+
+molecular ampliﬁcation techniques can overcome the limitation
+of detecting viable but non-culturable (VBNC) cells with
+providing high speciﬁcity and sensitivity (Pui et al., 2011). The
+
+procedure of the MPN-mPCR should be familiar to laboratory
+personnel since it has been extensively used in academic
+research as well as in industrial settings. Previous studies have
+
+Frontiers in Microbiology | www.frontiersin.org
+
+5
+
+January 2018 | Volume 8 | Article 2697
+
+Thung et al.
+
+Salmonella Serovars in Retail Beef
+
+TABLE 5 | The antibiotic resistance proﬁle patterns and multiple antibiotic resistance (MAR) index of Salmonella isolates.
+
+Antibiotic resistance proﬁlesa
+
+MAR index
+
+Salmonella
+
+serovar
+
+S. Enteritidis
+
+S. Enteritidis
+
+AMP, C, E, P, SXT, VA
+
+AMP, C, E, P, VA
+
+S. Typhimurium
+
+AML, AMP, KZ, C,CIP, E, P, SXT, VA
+
+S. Agona
+
+S. Agona
+
+S. Agona
+
+S. Agona
+
+S. Anatum
+
+S. Anatum
+
+S. Anatum
+
+S. London
+
+S. London
+
+S. Newport
+
+S. Newport
+
+S. Stanley
+
+S. Enteritidis
+
+AMP, E, P, VA
+
+AMP, E, P, VA
+
+AMP, E, P, VA
+
+AMP, E, P, VA
+
+E, P, VA
+
+E, P, VA
+
+E, P, VA
+
+E, P, VA
+
+E, P, VA
+
+CIP, E, P, VA
+
+CIP, E, P, VA
+
+E, P, VA
+
+AMP, C, E, P, SXT, VA
+
+S. Typhimurium
+
+AML, AMP, KZ, C, CIP, E, P, SXT, VA
+
+S. Agona
+
+S. Agona
+
+S. London
+
+S. Newport
+
+S. Weltevreden
+
+S. Weltevreden
+
+AMP, E, P, VA
+
+AMP, E, P, VA
+
+E, P, VA
+
+CIP, E, P, VA
+
+AML, C, E, P, VA
+
+AML, C, E, P, VA
+
+Isolate no.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+Retail
+
+market
+
+Wet market
+
+Wet market
+
+Wet market
+
+Wet market
+
+Wet market
+
+Wet market
+
+Wet market
+
+Wet market
+
+Wet market
+
+Wet market
+
+Wet market
+
+Wet market
+
+Wet market
+
+Wet market
+
+Wet market
+
+Hypermarket
+
+Hypermarket
+
+Hypermarket
+
+Hypermarket
+
+Hypermarket
+
+Hypermarket
+
+Hypermarket
+
+Hypermarket
+
+Source
+
+Round
+
+Sirloin
+
+Round
+
+Chuck
+
+Rib
+
+Rib
+
+Rib
+
+Round
+
+Round
+
+Sirloin
+
+Chuck
+
+Chuck
+
+Round
+
+Round
+
+Sirloin
+
+Round
+
+Round
+
+Chuck
+
+Round
+
+Chuck
+
+Round
+
+Sirloin
+
+Sirloin
+
+0.38
+
+0.31
+
+0.56
+
+0.25
+
+0.25
+
+0.25
+
+0.25
+
+0.19
+
+0.19
+
+0.19
+
+0.19
+
+0.19
+
+0.25
+
+0.25
+
+0.19
+
+0.38
+
+0.56
+
+0.25
+
+0.25
+
+0.19
+
+0.25
+
+0.31
+
+0.31
+
+aAML, Amoxycillin; AMP, Ampicillin; KZ, Cephazolin; C, Chloramphenicol; CIP, Ciproﬂoxacin; E, Erythromycin; P, Penicillin; SXT, Suphamethoxazole/trimethoprim; VA, Vancomycin.
+
+TABLE 6 | Virulence genes proﬁles of Salmonella isolates.
+
+Gene
+
+Number of Salmonella serovars positive for virulence genes
+
+S. Enteritidis
+
+S. Typhimurium
+
+S. Agona
+
+S. Anatum
+
+S. London
+
+S. Newport
+
+S. Stanley
+
+S. Weltevreden
+
+(3)
+
+(2)
+
+(6)
+
+(3)
+
+(3)
+
+(3)
+
+(1)
+
+(2)
+
+invA
+
+pefA
+
+hilA
+
+sopB
+
+stn
+
+spvC
+
+3
+
+1
+
+3
+
+2
+
+3
+
+0
+
+2
+
+2
+
+2
+
+1
+
+1
+
+0
+
+6
+
+0
+
+4
+
+6
+
+3
+
+0
+
+3
+
+0
+
+3
+
+1
+
+1
+
+0
+
+3
+
+0
+
+3
+
+0
+
+2
+
+0
+
+3
+
+0
+
+1
+
+2
+
+3
+
+0
+
+1
+
+0
+
+1
+
+0
+
+1
+
+0
+
+2
+
+0
+
+2
+
+2
+
+2
+
+0
+
+Total (%)
+
+(23)
+
+23 (100)
+
+3 (13.04)
+
+19 (82.61)
+
+14 (60.87)
+
+16 (69.57)
+
+0 (0)
+
+described detection methods that successfully combined MPN
+with mPCR to enumerate bacteria such as Campylobacter,
+Listeria monocytogenus, and Vibrio parahaemolyticus in samples
+(Kuan et al., 2017; Premarathne et al., 2017; Tan et al., 2017).
+Worth to note that beef meat products by their nature, undergo
+extensive processing and handling during their production,
+may also increase the risk of contamination (Thung et al.,
+2016). Typically, improper or ineﬀective cleaning of chopping
+boards, tables and knives does play a role in harboring and
+multiplying the organism. Cross-contamination may occur when
+microorganisms are transferred from one surface to another,
+
+possibly leading to contamination of other safe meat or clean
+equipment. Salmonella contamination was common in retail
+meats such as beef, pork and lamb, which could be a potential
+vehicle for transmitting Salmonella to humans (Yang et al.,
+2010). Thus, implementation and maintenance of some control
+measures like the good manufacturing practices (GMP) and
+hazard analysis and critical control point (HACCP), as well as
+further strengthening the education of food processors will be
+necessary, for reducing Salmonella contamination.
+
+Due to clinical signiﬁcance, determining or Salmonella
+resistance or otherwise to antimicrobial agents is critical for
+
+Frontiers in Microbiology | www.frontiersin.org
+
+6
+
+January 2018 | Volume 8 | Article 2697
+
+Thung et al.
+
+Salmonella Serovars in Retail Beef
+
+these antibiotics
+
+treatment during outbreaks. High resistance of Salmonella
+isolates to erythromycin, penicillin and vancomycin in this
+ﬁnding are of clinical concern and could be the result
+of widespread use of
+in Selangor area.
+Similarly, high percentage of penicillin and erythromycin
+resistance were observed in diﬀerent Salmonella serovars
+which isolated from retail meat products
+such as beef
+burger, ground beef and fresh beef (Sallam et al., 2014).
+Interestingly, there were no Salmonella serovars resistant to
+amoxicillin/clavulanic acid, ceftazidime, gentamicin, kanamycin,
+nalidixic acid, streptomycin, and tetracycline.
+In contrast,
+resistance to tetracycline was observed among the serovars of
+S. Enteritidis and S. Typhimurium isolated from retail beef
+meat samples (Yang et al., 2010). Previously, a study in China
+demonstrated that all the Salmonella strains (n = 83) were
+sensitive to amoxicillin/clavulanic acid, while 98.80 and 92.77%
+were observed for gentamicin and tetracycline, respectively
+(Dong et al., 2014). In fact, MDR Salmonella serovars are
+considered to be more virulent than non-MDR Salmonella
+(Nayak et al., 2004; Dong et al., 2014). High percentages of
+antimicrobial resistant Salmonella serovars from retail meat
+products have been reported worldwide by several researchers
+(Yang et al., 2010; Thai et al., 2012; Sallam et al., 2014). In
+Malaysia, such observation was also reported by Geidam et al.
+(2012), where they were able to detect MDR Salmonella in the
+poultry environment in Selangor region. In this study, MDR
+Salmonella isolates are prevalent in both retail markets. Hence,
+more attention should be focused on the supervision and control
+of antimicrobial use, typically in the agriculture and human
+health care sectors in Malaysia.
+
+Accordingly, the virulence of bacteria is inﬂuenced by both
+antimicrobial resistance and the presence of virulence genes
+(Huehn et al., 2010; Dong et al., 2014). The emergence of
+MDR strains of Salmonella are mainly based on the factors
+of genetic and biochemical mechanisms in order to enhance
+their survivability by preserving their drug resistance genes
+(Yang et al., 2010). Regarding the virulence factors that were
+analyzed, S. Enteritidis, S. Typhimurium, S. Agona, S. Anatum,
+S. Newport, and S. Weltevreden isolates showed a broader range
+of pathogenicity determinants as compared to other serovars.
+The most common virulence gene which present in Salmonella,
+invA gene, was used as PCR target gene for detection of
+Salmonella (Nayak et al., 2004; Dong et al., 2014). On the
+other hand, an OmpR/ToxR transcriptional regulator encoded
+
+by the hilA gene to activate the expression of invasion genes
+was shown to play an important role in Salmonella virulence
+(Cardona-Castro et al., 2002). In this study, the PCR screening
+using hilA-targeted Salmonella-speciﬁc primers showed a clear
+abundance of this virulence gene was detected in 19 of 23
+analyzed strains (82.61%),
+irrespective of their serovars. In
+addition, similar results have been reported by Murugkar et al.
+(2003) who found that the chromosomally encoded virulent
+stn gene was widely distributed in all the isolated serovars.
+This strengthens to our present ﬁnding; the stn gene was
+prevalent among the isolated Salmonella serovars by PCR-based
+assay (69.57%). Several studies have shown that the Salmonella
+virulence plasmid plays an important role in human disease
+(Swamy et al., 1996).
+
+In summary, this study has shown that a combined MPN-
+mPCR method was a reliable and useful for rapid screening of
+Salmonella from retail beef meat. Our results indicate that retail
+beef meat act as reservoirs in harboring multiple Salmonella
+serovars, where cross-contamination might be occurred during
+processing and at the retail
+level. S. Agona was the most
+common serotype found in retail beef. Moreover, the recovered
+Salmonella isolates exhibiting multi-drug resistant and multiple
+virulence genes, which constitute a possible risk to humans
+from consumption of these products. Therefore, it is important
+to manage the use of antimicrobial agents in livestock now,
+to prevent the acquisition and increased resistance to recent
+molecules in order to ﬁght against the vertical and horizontal
+transfer of MDR strains. Alternatively,
+is necessary for
+developing more eﬀective intervention strategies such as green
+control method using bacteriophages as controlling measure
+in the food chain in order to reduce the risk of food-borne
+diseases.
+
+it
+
+AUTHOR CONTRIBUTIONS
+
+All authors listed have made a substantial, direct and intellectual
+contribution to the work, and approved it for publication.
+
+ACKNOWLEDGMENTS
+
+This research was funded by Fundamental Research Grant
+Scheme from the Ministry of Education, Malaysia (FRGS
+5524559) and the Putra Grant of Universiti Putra Malaysia (GP-
+IPS 9438703).
+
+REFERENCES
+
+Alvarez, J., Sota, M., Vivanco, A. B., Perales, I., Cisterna, R., Rementeria, A.,
+et al. (2004). Development of a multiplex PCR technique for detection and
+epidemiological typing of Salmonella in human clinical samples. J. Clin.
+Microbiol. 42, 1734–1738. doi: 10.1128/JCM.42.4.1734-1738.2004
+
+Brichta-Harhay, D. M., Guerini, M. N., Arthur, T. M., Bosilevac,
+
+J. M.,
+Kalchayanand, N., Shackelford, S. D., et al. (2008). Salmonella and Escherichia
+coli O157:H7 contamination on hides and carcasses of cull cattle presented for
+slaughter in the United States: an evaluation of prevalence and bacterial loads
+by immunomagnetic separation and direct plating methods. Appl. Environ.
+Microbiol. 74, 6289–6297. doi: 10.1128/AEM.00700-08
+
+Cardona-Castro, N., Restrepo-Pineda, E., and Correa-Ochoa, M.
+
+(2002).
+in serovars of Salmonella enterica
+1153–1156.
+
+97,
+
+Detection of hilA gene sequences
+subspecies
+doi: 10.1590/S0074-02762002000800016
+
+enterica. Mem.
+
+Inst. Oswaldo Cruz
+
+Chai, L. C., Tunung, R., Usha, M. R., Jurin, W. G., Bakar, F. A., Ghazali, F. M., et al.
+(2007). Thermophilic Campylobacter spp. in salad vegetables in Malaysia. Int.
+J. Food Microbiol. 117, 106–111. doi: 10.1016/j.ijfoodmicro.2007.02.014
+
+Clinical and Laboratory Standarts Institude (CLSI) (2012). Performance Standards
+
+for Antimicrobial disk Susceptibility Tests. Wayne, PA: CLSI.
+
+Donado-Godoy, P., Clavijo, V., Leon, M., Tafur, M. A., Gonzales, S., Hume, M.,
+et al. (2012). Prevalence of Salmonella on retail broiler chicken meat carcasses
+in Colombia. J. Food Prot. 75, 1134–1138. doi: 10.4315/0362-028X.JFP-11-513
+
+Frontiers in Microbiology | www.frontiersin.org
+
+7
+
+January 2018 | Volume 8 | Article 2697
+
+Thung et al.
+
+Salmonella Serovars in Retail Beef
+
+Dong, P., Zhu, L., Mao, Y., Liang, R., Niu, L., Zhang, Y., et al. (2014).
+Prevalence and proﬁle of Salmonella from samples along the production
+line
+in Chinese beef processing plants. Food Control. 38, 54–60.
+doi: 10.1016/j.foodcont.2013.09.066
+
+Ed-dra, A., Filali, F. R., Karraouan, B., El Allaoui, A., Aboulkacem, A., and
+Bouchrif, B. (2017). Prevalence, molecular and antimicrobial resistance of
+Salmonella isolated from sausages in Meknes, Morocco. Microb. Pathog. 105,
+340–345. doi: 10.1016/j.micpath.2017.02.042
+
+Elexson, N., Chai, L. C., Pui, C. F., Tunung, R., Ubong, A., Tuan Zainazor, T. C.,
+et al. (2011). Simultaneous detection of Salmonella spp., Salmonella Enteritidis
+and Salmonella Typhimurium in raw salad vegetables and vegetarian burger
+patties. Food Nutr. Sci. 2, 1077–1081. doi: 10.4236/fns.2011.210144
+
+Finstad, S., O’Bryan, C. A., Marcy,
+
+J. A., Crandall, P. G., and Ricke,
+S. C. (2012). Salmonella and broiler processing in the United States:
+relationship to foodborne salmonellosis. Food Res.
+Int. 45, 789–794.
+doi: 10.1016/j.foodres.2011.03.057
+
+Geidam, Y. A., Zakaria, Z., Aziz, S. A., Bejo, S. K., Abu, J., and Omar,
+S. (2012). High prevalence of multi-drug resistant bacteria in selected
+poultry farms in Selangor, Malaysia. Asian J. Anim. Vet. Adv. 7, 891–897.
+doi: 10.3923/ajava.2012.891.897
+
+Huehn, S., La Ragione, R. M., Anjum, M., Saunders, M., Woodward, M. J., Bunge,
+C., et al. (2010). Virulotyping and antimicrobial resistance typing of Salmonella
+enterica serovars relevant to human health in Europe. Foodborne Pathog. Dis. 7,
+523–535. doi: 10.1089/fpd.2009.0447
+
+Kramarenko, T., Nurmoja,
+
+I., Karssin, A., Meremae, K., Horman, A.,
+and Roasto, M.
+and serovar diversity of
+Salmonella in various food products in Estonia. Food Control. 42, 43–47.
+doi: 10.1016/j.foodcont.2014.01.032
+
+(2014). The prevalence
+
+Krumperman, P. H. (1983). Multiple antibiotic resistance indexing of Escherichia
+coli to indentify high-risk sources of fecal contamination of foods. Appl.
+Environ. Microbiol. 46, 165–170.
+
+Kuan, C. H., Rukayadi, Y., Ahmad, S. H., Wan Mohamed Radzi, C. W. J.,
+Thung, T. Y., Premarathne, J. M. K. J. K., et al. (2017). Comparison of the
+microbiological quality and safety between conventional and organic vegetables
+sold in Malaysia. Front. Microbiol. 8:1433. doi: 10.3389/fmicb.2017.01433
+
+Kuan, C. H., Wong, W. C., Pui, C. F., Mahyudin, N. A., Tang, J. Y. H., Nishibuchi,
+M., et al. (2013). Prevalence and quantiﬁcation of Listeria monocytogenes in
+beef oﬀal at retail level in Selangor, Malaysia. Braz. J. Microbiol. 44, 1169–1172.
+doi: 10.1590/S1517-83822014005000002
+
+Li, R., Lai, J., Wang, Y., Liu, S., Li, Y., Liu, K., et al. (2013). Prevalence
+and characterization of Salmonella species isolated from pigs, ducks and
+chickens in Sichuan Province, China. Int. J. Food Microbiol. 163, 14–18.
+doi: 10.1016/j.ijfoodmicro.2013.01.020
+
+Murugkar, H. V., Rahman, H., and Dutta, P. K. (2003). Distribution of virulence
+genes in Salmonella serovars isolated from man and animals. Indian J. Med. Res.
+117, 66–70.
+
+Najwa, M. S., Rukayadi, Y., Ubong, A., Loo, Y. Y., Chang, W. S., Lye, Y. L.,
+et al. (2015). Quantiﬁcation and antibiotic susceptibility of Salmonella spp.,
+Salmonella Enteritidis and Salmonella Typhimurium in raw vegetables (ulam).
+Int. Food Res. J. 22, 1761–1769.
+
+Nayak, R., Stewart, T., Wang, R. F., Lin, J., Cerniglia, C. E., and Kenney, P.
+B. (2004). Genetic diversity and virulence gene determinants of antibiotic-
+resistance Salmonella isolated from preharvest turkey production sources. Int.
+J. Food Microbiol. 91, 51–62. doi: 10.1016/S0168-1605(03)00330-1
+
+Oh, S. Y., Heo, N. S., Shukla, S., Cho, H. J., Vilian, A. T. E., Kim, J., et al. (2017).
+Development of gold nanoparticle-aptamer-based LSPR sensing chips for the
+rapid detection of Salmonella Typhimurium in pork meat. Sci. Rep. 7:10130.
+doi: 10.1038/s41598-017-10188-2
+
+Premarathne, J. M. K. J. K., Anuar, A. S., Thung, T. Y., Satharasinghe, D.
+A., Jambari, N. N., Abdul Mutalib, N. A., et al. (2017). Prevalence and
+antibiotic resistance against tetracycline in Campylobacter jejuni and C. coli
+in cattle and beef meat from Selangor, Malaysia. Front. Microbiol. 8:2254.
+doi: 10.3389/fmicb.2017.02254
+
+Pui, C. F., Wong, W. C., Chai, L. C., Elexson, N., Farinazleen, M. G., Cheah, Y. K.,
+et al. (2011). Simultaneous detection of Salmonella spp., Salmonella Typhi and
+Salmonella Typhimurium in sliced fruits using multiplex PCR. Food Control.
+22, 337–342. doi: 10.1016/j.foodcont.2010.05.021
+
+Sallam, K. I., Mohammed, M. A., Hassan, M. A., and Tamura, T. (2014). Prevalence,
+molecular identiﬁcation and antimicrobial resistance proﬁle of Salmonella
+serovars isolated from retail beef products in Mansoura, Egypt. Food Control.
+38, 209–214. doi: 10.1016/j.foodcont.2013.10.027
+
+Soumet, C., Ermel, G., Rose, N., Rose, V., Drouin, P., Salvat, G., et al. (1999).
+Evaluation of a multiplex PCR assay for simultaneous identiﬁcation of
+Salmonella sp., Salmonella Enteritidis and Salmonella Typhimurium from
+environmental swabs of poultry houses. Lett. Appl. Microbiol. 28, 113–117.
+doi: 10.1046/j.1365-2672.1999.00488.x
+
+Swamy, S. C., Barnhart, H. M., Lee, M. D., and Dreesen, D. W. (1996). Virulence
+determinantsinvA and spvC in Salmonellae isolated from poultry products,
+wastewater, and human sources. Appl. Environ. Microbiol. 62, 3768–3771.
+
+Tan, C. W., Malcolm, T. T. H., Kuan, C. H., Thung, T. Y., Chang, W. S.,
+Loo, Y. Y., et al. (2017). Prevalence and antimicrobial susceptibility of Vibrio
+parahaemolyticus isolated from Short Mackerels (Rastrelliger brachysoma) in
+Malaysia. Front. Microbiol. 8:1087. doi: 10.3389/fmicb.2017.01087
+
+Thai, T. H., Hirai, T., Lan, N. T., Shimada, A., Ngoc, P. T., and Yamaguchi,
+R. (2012). Antimicrobial resistance of Salmonella serovars isolated from beef
+at retail markets in the North Vietnam. J. Vet. Med. Sci. 74, 1163–1169.
+doi: 10.1292/jvms.12-0053
+
+Thung, T. Y., Mahyudin, N. A., Basri, D. F., Wan Mohamed Radzi, C. W.,
+Nakaguchi, Y., Nishibuchi, M., et al. (2016). Prevalence and antibiotic resistance
+of Salmonella Enteritidis and Salmonella Typhimurium in raw chicken meat at
+retail markets in Malaysia. Poult. Sci. 95, 1888–1893. doi: 10.3382/ps/pew144
+
+Wieczorek, K., and Osek, J. (2013). Prevalence and characterisation of Salmonella
+in slaughtered cattle and beef in Poland. Bull. Vet. Inst. Pulawy. 57, 607–611.
+doi: 10.2478/bvip-2013-0103
+
+Yang, B., Qu, D., Zhang, X., Shen,
+
+(2010).
+Prevalence and characterization of Salmonella serovars in retail meats
+of marketplace in Shaanxi, China. Int.
+J. Food Microbiol. 141, 63–72.
+doi: 10.1016/j.ijfoodmicro.2010.04.015
+
+J., Cui, S., Shi, Y., et al.
+
+Yang, X., Huang, J., Wu, Q., Zhang, J., Liu, S., Guo, W., et al. (2016).
+Prevalence, antimicrobial resistance and genetic diversity of Salmonella
+isolated from retail ready-to-eat foods in China. Food Control. 60, 50–56.
+doi: 10.1016/j.foodcont.2015.07.019
+
+Conﬂict of Interest Statement: The authors declare that the research was
+conducted in the absence of any commercial or ﬁnancial relationships that could
+be construed as a potential conﬂict of interest.
+
+The reviewer GP and handling Editor declared their shared aﬃliation.
+
+Copyright © 2018 Thung, Radu, Mahyudin, Rukayadi, Zakaria, Mazlan, Tan, Lee,
+Yeoh, Chin, Tan, Kuan, Basri and Wan Mohamed Radzi. This is an open-access
+article distributed under the terms of the Creative Commons Attribution License (CC
+BY). The use, distribution or reproduction in other forums is permitted, provided the
+original author(s) or licensor are credited and that the original publication in this
+journal is cited, in accordance with accepted academic practice. No use, distribution
+or reproduction is permitted which does not comply with these terms.
+
+Frontiers in Microbiology | www.frontiersin.org
+
+8
+
+January 2018 | Volume 8 | Article 2697
+
+

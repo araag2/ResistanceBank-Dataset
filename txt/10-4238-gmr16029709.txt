@@ -1,0 +1,692 @@
+Phenotypic and genotypic characterization of 
+Staphylococcus aureus isolates in milk from 
+flocks diagnosed with subclinical mastitis
+
+A.R.E.O. Xavier1, A.C. Almeida2, C.N. Souza2, L.M.V Silva2, A.X.A. Ruas2, 
+D.A. Sanglard3, A.F.M. Júnior 1, A.M.E. Oliveira4 and M.A.S. Xavier1
+
+1Laboratório de Bioprospecção e Recursos Genéticos, 
+Centro de Ciências Biológicas e da Saúde, 
+Universidade Estadual de Montes Claros, Montes Claros, MG, Brasil
+2Laboratório de Sanidade Animal, Centro de Pesquisa em Ciências Agrárias, 
+Instituto de Ciências Agrárias, Universidade Federal de Minas Gerais, 
+Montes Claros, MG, Brasil
+3Laboratório de Biotecnologia, Centro de Pesquisa em Ciências Agrárias, 
+Montes Claros, Instituto de Ciências Agrárias, 
+Universidade Federal de Minas Gerais, MG, Brasil
+4Instituto de Ciências Agrárias, Universidade Federal de Uberlândia, 
+Uberlândia, MG, Brasil
+
+Corresponding author: A.R.E.O. Xavier
+E-mail: ericsson_aerc@yahoo.com.br
+
+Genet. Mol. Res. 16 (2): gmr16029709
+Received April 24, 2017
+Accepted May 22, 2017
+Published June 29, 2017
+DOI http://dx.doi.org/10.4238/gmr16029709
+
+Copyright © 2017 The Authors. This is an open-access article distributed under the terms of 
+the Creative Commons Attribution ShareAlike (CC BY-SA) 4.0 License.
+
+ABSTRACT.  The  Staphylococcus  aureus  is  the  most  common 
+isolated  microorganism  in  ruminant  animal  species  diagnostic  with 
+clinical  or  subclinical  mastitis.  Dairy  herds  with  these  diseases 
+can  transfer  S.  aureus  into  the  milk  supply,  which  can  lead  to  food 
+poisoning in humans. The objective of this study was to evaluate the 
+profile of antimicrobial susceptibility, the presence of femA gene, the 
+genetic relationships among isolates of S. aureus obtained from milk 
+
+Genetics and Molecular Research 16 (2): gmr16029709
+
+2
+
+originating  from  flocks  diagnosed  with  subclinical  mastitis  in  nine 
+rural properties in the northern of Minas Gerais State. To this end, 498 
+samples of bovine milk tested positive for the California mastitis test 
+(CMT)  were  subjected  to  morphological  methods  and  biochemical 
+patterns  for  microbiological  presumptive  identification  of  S.  aureus. 
+The PCR test with the genetic marker femA was used to confirm the 
+species  S.  aureus. All  the  26  isolates  presumptively  identified  as  S. 
+aureus amplified a fragment of 132 bp corresponding to the femA gene. 
+The profile of antimicrobial susceptibility was performed according to 
+the disk-diffusion methodology and two isolates were susceptible to all 
+the antibiotics tested. The drug multiresistence was found in 80.76% 
+of the isolates. The determination of the genetic profile and the clonal 
+relationship among the isolates was performed by the method of DNA 
+RAPD-PCR polymorphism. The S. aureus isolates were divided into 
+two  groups  with  26  distinct  subgroups. The  analysis  of  RAPD-PCR 
+showed  no  genetic  diversity  among  them,  heterogeneous  profile  and 
+absence of clonality.
+
+Key words: Genetic diversity; femA gene; RAPD; Resistance; 
+Antimicrobials; Staphylococcus aureus
+
+INTRODUCTION
+
+The bovine mastitis is one of the most common diseases occurring in dairy cattle and 
+its main feature is the inflammation of the mammary glands (Viguier et al., 2009; Song et al., 
+2016). The disease occurs in two ways: clinical and subclinical mastitis. The clinical one has 
+evident characteristics in its expression, but the subclinical mastitis requires complementary 
+examinations, such as the California mastitis test (CMT) and somatic cell counts in milk (SCC) 
+(Pantoja et al., 2009; Silva and Nogueira, 2010; Rall et al., 2014). The subclinical mastitis has 
+special importance as it goes unnoticed and affects in a great extent the production’s animal 
+(Bhati et al., 2016). As a result of bovine mastitis, there are low production levels, poor quality 
+and/or discard of milk that generate economic losses in the dairy cattle industry (Viguier et al., 
+2009; Song et al., 2016).
+
+A  wide  variety  of  microbial  agents  may  be  involved  with  the  etiology  of  bovine 
+mastitis, however, Staphylococcus aureus is the most prevalent in intramammary infections 
+being related to more than 80% of the cases (Pellegrino et al., 2011; Song et al., 2016). Although 
+fungi and algae have been observed in cow milk diagnosed with clinical mastitis, 90% of 
+isolates are represented by bacteria, including those belonging to the genera Staphylococcus, 
+Streptococcus and coliforms (Ganda et al., 2016).
+
+Prevention and treatment programs to mastitis include the use of antimicrobials in 
+dairy cattle flocks in an attempt to eliminate the disease (Pellegrino et al., 2011; Silva et al., 
+2012; Teixeira et al., 2014). However, the indiscriminate use of antibiotics, which can lead to 
+drug multiresistance and the risk of the presence of its residues in the milk, has turned mastitis 
+an important disease to public health (Ganda et al., 2016). The correct identification of the 
+mastitis pathogen is an important factor for the treatment and prophylaxis of this infection. 
+DNA-based  molecular  typing  methods  are  more  efficient  and  have  high  sensitivity  and 
+
+A.R.E.O. Xavier et al.Genetics and Molecular Research 16 (2): gmr160297093
+
+specificity for the identification of microorganisms (Tel and Bozkaya, 2012; Rahman et al., 
+2016). The identification of S. aureus at the species level can be performed by PCR through 
+detection of the femA (factor essential for methicillin resistance) gene. This gene codes for a 
+protein of 48-50 kDa, which is recognized as a specific factor and chromosomally coded in 
+this pathogen, being involved in the structure of the bacterial cell wall (Rodrigues da Silva and 
+Silva, 2005; Teixeira et al., 2014). S. aureus is well known for having resistance to antimicrobial 
+agents, which may lead to complications for the treatment of their infections besides increasing 
+the treatment costs. One of these resistances is coded by the mecA (methicilin resistance) 
+gene,  which  confers  resistance  to  all  beta-lactamases  including  methicillin,  oxacillin  and 
+cephalosporins (Nemeghaire et al., 2014).
+
+Several molecular typing methods have been used in order to investigate the bovine 
+mastitis epidemiology at the level of subspecies. They include methods of comparative typing 
+based on standard electrophoretic bands, typing methods of libraries and genome sequencing. 
+Among the typing methods based on fingerprint, PCR-RFLP, RAPD-PCR, ERIC-PCR, BOX-
+PCR,  and  REP-PCR  have  been  described  as  simple  and  quick  techniques  for  taxonomic 
+and  epidemiological  analyses  of  several  species  of  the  genus  Staphylococcus  (Bergonier 
+et al., 2014; Idil and Bilkay, 2014; Rahman et al., 2016; Ławniczek-Wałczyk et al., 2017). 
+Epidemiological molecular studies have contributed significantly to the understanding of the 
+sources, routes of transmission and prognosis for many pathogens that cause bovine mastitis, 
+as well as to understand the mechanisms of adaptation to the host and the causes of the disease 
+(Supré et al., 2011; McMillan et al., 2016).
+
+The objective of this study was to recognize the antimicrobial susceptibility profile of 
+S. aureus obtained from bovine milk with subclinical mastitis, as well as to characterize the 
+molecular and epidemiological profile of the isolates.
+
+MATERIAL AND METHODS
+
+Bacterial isolates and profile of antimicrobial sensitivity
+
+Nine properties of rural producers in the municipalities of Janaúba (AG e NP), Icaraí 
+de Minas (CC, GU and VA), Porteirinha (MU), Matias Cardoso (MC), Bocaiúva (TR), and 
+São João da Lagoa (SL) in northern of Minas Gerais State were chosen, whose geographical 
+location is shown in Figure 1.
+
+The milk collection in these properties was performed from January to April 2016. In 
+each animal, before milking, CMT for the diagnosis of subclinical mastitis was perfomed. The 
+CMT test was performed in all the lactating dairy cows and from the 15th day postpartum, 
+a commercial product was used, specific to the test, and each teat was classified as: negative 
+(-),  mild  reaction  (+),  moderate  (++),  and  severe  (+++),  in  accordance  with  the  intensity 
+of the gel. The positive milk samples for CMT were selected and sent to the Laboratory of 
+Animal Health from the Institute of Agricultural Sciences of the Federal University of Minas 
+Gerais for microbiological analysis. The genus-level identification of isolates was obtained by 
+microbiological standard analyses, including biochemical and enzymatic tests complying with 
+the Clinical Laboratory Standard Institute (CLSI) standardized in the Microbiology Laboratory 
+(Gram  staining,  catalase  test,  coagulase  test,  and  the  DNAse  test).  The  susceptibility  to 
+several classes of antibiotics was determined by the disk diffusion method according to CLSI 
+(Wayne, 2016) using the following antimicrobials (Laborclin): 10 μg gentamicin (GEN), 300 
+
+Phenotypic and genotypic characterization of S. aureusGenetics and Molecular Research 16 (2): gmr16029709μg nitrofurantoin (NIT), 10 μg amikacin (AMI), 10 μg amoxicillin (AMO), 10U penicillin 
+G  (PEN),  30  μg  cefoxitin  (CFO),  1  μg  oxacillin  (OXA),  5  μg  ciprofloxacin  (CIP),  10  μg 
+ampicillin (AMP), and 30 μg cephalothin (CFL). A standard strain of S. aureus ATCC 25923 
+was used as a positive control. The S. aureus isolates were stored at -20°C in the BHI medium 
+(Prodimol Biotechnology) containing 20% glycerol.
+
+4
+
+Figure 1. Political map and geographic coordinates of rural properties where Staphylococcus aureus were isolated 
+in  milk  samples  from  bovines  diagnosed  with  subclinical  mastitis.  Matias  Cardoso  (14°51'20''S,  43°54'50''W) 
+Porteirinha (15°44'38''S, 43°1'29''W), Janaúba (15°48'13''S, 43°19'3''W), Bocaiúva (17°6'55''S, 43°49'16''W), São 
+João da Lagoa (16°46'42''S, 16°46'42''W), and Icaraí de Minas (16°11'46''S, 44°53'59''W). Source: Image generated 
+by Google Maps.
+
+DNA extraction and PCR analysis for the detection of the femA gene
+
+The cryopreserved isolates of S. aureus were reactivated by sowing in the BHI medium 
+(Prodimol Biotechnology) and incubated at 37°C for 24 h. The grown bacterial cultures were 
+sent to the Laboratory of Biotechnology of Federal University of Minas Gerais, where they 
+were subjected to DNA extraction using the digestion method by K- proteinase followed by 
+phenol-chloroform (Barea et al., 2004) with some modifications. A volume of 1.5 mL of each 
+culture of S. aureus was centrifuged at 5000 rpm for 3 min. The supernatant was discarded and 
+the bacterial cell pellet ressuspended in 400 μL buffer of digestion (0.9% NaCl, 0.2 M EDTA 
+and 20 mg/mL proteinase K). It was added 40 μL SDS at 20% and the samples incubated in 
+a water bath at 60°C for 10 min and then cooled at room temperature. The DNA precipitation 
+
+A.R.E.O. Xavier et al.Genetics and Molecular Research 16 (2): gmr160297095
+
+was performed with 1 V of phenol and 1 V of isoamyl alcohol: chloroform (1:24), followed by 
+centrifugation, for 5 min, at 10,000 rpm. The aqueous phase was transferred to new tube, where 
+2V of 100% ice-cold ethanol and 0.1 M NaCl were added. The samples were incubated for 
+10 min on ice and then centrifuged at 14,000 rpm for 10 min. The supernatant was discarded 
+and the sedimented DNA after drying process was resuspended in preserving buffer (10 mM, 
+pH 8.0 TRIS, 5 mM EDTA) and stored at -20ºC. The integrity and quantification of extracted 
+DNAs were checked by agarose gel electrophoresis at 1.0%. This material was used in the 
+PCR and RAPD-PCR performed in the Bioprospecting and Genetic Resources Laboratory in 
+the State University of Montes Claros. All the primers used in this study were synthesized by 
+Integrated DNA Technology, USA.
+
+Genus-level  identification  of  S.  aureus  strains  was  performed  by  tracking 
+the  presence  of  the  femA  through  PCR  technique.  The  pair  of  primers  FemA1-
+5'AAAAAAGCACATAACAAGCG3' and FemA2-5'GATAAAGAAGAACCAGCAG3' were 
+used and the PCR conditions according to Teixeira et al. (2014). The reactions were carried out 
+in a mix containing 1X Taq buffer from the Kappa kit PCR, MgCl2 (2.5 mM), deoxynucleotides 
+(1 μM), Taq Polymerase Kappa (0.5 U), 1.25 μM of each primer, and 50 ng bacterial DNA in 
+a final total reaction volume of 25 μL. The 132-base pair expected amplicons were visualized 
+on 1.5% agarose gel stained with ethidium bromide and photographed and documented.
+
+RAPD-PCR and statistical analysis
+
+The characterization of the genetic profile and the clonal relationship among the S. aureus 
+isolates were performed using the RAPD-PCR technique. For the RAPD-PCR, oligonucleotide 
+S232 was used and the PCR conditions described in the literature for the polymorphism analysis 
+intra- and interspecies of S. aureus (Idil and Bilkay, 2014). The reactions were carried out in a 
+mix containing 1X Taq buffer from the Kappa kit PCR, MgCl2 (2.5 mM), deoxy nucleotides 
+(1 μM), Taq Polymerase Kappa (0.5 U), 1 μM of each primer and 250 ng of bacterial DNA 
+in a final total reaction volume of 25 μL. The amplicons were visualized on 1.5% agarose gel 
+stained with ethidium bromide and photographed and documented. The analysis of the profiles 
+of DNAs amplification obtained through RAPD-PCR was performed by visual inspection of two 
+observers and transformed into binary data in a matrix, according to the presence (1) or absence 
+(0) of bands. To assess the genetic relationship among the isolates the matrix was subjected to 
+grouping analysis by the nearest neighbor method (UPGMA or unweight pair-group method 
+with arithmetic mean) based on the Pearson correlation coefficient for automatic generation of 
+the dendrogram using the statistical program 2008 Statistical Package (MVSP) version 3.12h 
+(GeoMem, Barrow in Furness, United Kindgom).
+
+Ethical aspects
+
+This study was performed following ethical standards approved by the Ethics and 
+Animal  Experimentation  Committe  from  the  Federal  University  of  Minas  Gerais,  under 
+Protocol No. 145/2013.
+
+RESULTS AND DISCUSSION
+
+In this study, 26 isolates from 498 samples of bovine milk tested positive for the CMT, 
+
+Phenotypic and genotypic characterization of S. aureusGenetics and Molecular Research 16 (2): gmr16029709originating from 9 different rural properties in northern Minas Gerais were initially identified 
+as S. aureus by standard morphological and biochemical methods. The isolate identification 
+was confirmed through the femA gene PCR of S. aureus. All the S. aureus (N = 26) exhibited a 
+132-base pair amplicon specific species (Figure 2) corresponding to the genetic marker femA.
+
+6
+
+Figure 2. PCR for the detection of the femA gene among Staphylococcus aureus isolated from bovine milk with 
+subclinical mastitis. Lane 1: negative control (absence of DNA). Lane 2: positive control (S. aureus ATCC 25923 
+strain). Lanes 3, 4, 5, 6, and 7: isolates 1 to 5 from the rural propriety NP (municipality of Janaúba). Lane 5: 
+marker of molecular weight of 100 base pairs DNA (Ludwig). Lanes 8 to 15: isolates 1 to 8 from the rural propriety 
+(municipality of Bocaiúva). The size of the 100-base pair marker is indicated on the left. The expected amplified 
+fragment of 132-base pairs of the corresponding femA gene is indicated on the right in the gel.
+
+This marker has been described in the literature as a signature sequence for genotyping 
+of S. aureus isolates (Rodrigues da Silva and Silva, 2005; Teixeira et al., 2014; Oliveira et al., 
+2016), which corroborates the results of the genus and species of microorganisms identified in 
+this study as S. aureus.
+
+The  antimicrobial  susceptibility  test  showed  that  S.  aureus  isolated  from  cases  of 
+bovine subclinical mastitis in Northern rural properties from Minas Gerais exhibited varying 
+degrees of antimicrobial resistance (Table 1).
+
+They  were  resistant  to  amikacin  (2.60%),  amoxicillin  (76.03%),  ampicillin  (80.76%), 
+cephalothin (2.60%), cefoxitin (15.38%), penicillin (92.30%), and oxacillin (2.6%). The isolates 
+NP4 and TR5 showed sensitivity to all antibiotics to which they were tested, however, the drug 
+multiresistance was found in 80.76% (21/26) of the isolates (Table 1). Similar results regarding the 
+percentage of S. aureus isolates multiresistant to drugs were found in a study by Silva et al. (2012).
+S.  aureus  isolated  from  animals  with  clinical  and  subclinical  mastitis  exhibit  high 
+rates of resistance to beta-lactam antibiotics (Kalmus et al., 2011; El Behiry et al., 2012; Silva 
+et al., 2012; Jagielski et al., 2014; Schmidt et al., 2015). A considerable rate of simultaneous 
+resistance  to  beta-lactamases  amoxicillin,  ampicillin  and  penicillin  was  found  in  69.03% 
+(18/26) of S. aureus isolates in this study (Table 1). Silva et al. (2012) analyzing the sensitivity 
+profile in vitro of S. aureus isolates of bovine subclinical mastitis found a simultaneous rate of 
+resistance to penicillin and ampicillin of 66%. These authors suggested that the same resistance 
+mechanism is responsible for the inactivation of the tested drugs.
+
+A.R.E.O. Xavier et al.Genetics and Molecular Research 16 (2): gmr16029709Table 1. Phenotypic characterization of antibiotic resistance, femA gene tracking and genetic profile analysis of 
+the 26 Staphylococcus aureus isolated from bovine milk with subclinical mastitis in different rural properties 
+in Northern Minas Gerais.
+
+7
+
+Isolates 
+
+Isolation date  Municipality in Minas Gerais  Antimicrobials resistance profilea 
+
+femA gene 
+
+Genetic Profile - RAPD-PCR 
+Genotype 
+
+Group 
+
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+
+02/26/2016 
+02/26/2016 
+02/26/2016 
+02/26/2016 
+02/26/2016 
+4/19/2016 
+4/19/2016 
+4/19/2016 
+4/19/2016 
+4/19/2016 
+4/19/2016 
+4/19/2016 
+4/19/2016 
+4/20/2016 
+4/20/2016 
+4/20/2016 
+4/20/2016 
+1/29/2016 
+1/30/2016 
+1/30/2016 
+2/24/2016 
+1/7/2016 
+1/7/2016 
+1/7/2016 
+1/12/2016 
+1/28/2016 
+
+NP1 
+NP2 
+NP3 
+NP4 
+NP5 
+TR1 
+TR2 
+TR3 
+TR4 
+TR5 
+TR6 
+TR7 
+TR8 
+MC1 
+MC2 
+MC3 
+MC4 
+GU1 
+CC1 
+CC2 
+AG1 
+MU1 
+MU2 
+MU3 
+SL1 
+VA1 
+ 
+aAMO = amoxicillin; AMP = ampicillin; CFL = cephaloxitin; CFO = cefoxitin; PEN = penicillin; OXA = oxacillin; 
+S = sensitive to all the tested antibiotic. More details in materials and methods.
+
+PEN, CFO, AMP 
+PEN 
+AMO, PEN, CFO, GEN, 
+S 
+AMP 
+AMO, PEN, AMP 
+AMO, PEN, AMP 
+AMO, PEN, AMP 
+AMO, PEN, AMP 
+S 
+PEN, AMP 
+AMO, PEN, AMP 
+AMO, PEN, AMP 
+AMO, PEN, AMP 
+AMO, PEN, AMP 
+PEN 
+AMO, PEN, AMP 
+AMO, PEN, AMP 
+AMO, PEN, AMP, AMI 
+AMO, PEN, AMP 
+AMO, PEN, CFO, AMP 
+AMO, PEN, AMP 
+AMO, PEN, AMP 
+AMO, PEN, AMP 
+AMO, PEN, CFO, OXA, AMP, CFL 
+AMO, PEN, AMP 
+
+Janaúba 
+Janaúba 
+Janaúba 
+Janaúba 
+Janaúba 
+Bocaiuva 
+Bocaiuva 
+Bocaiuva 
+Bocaiuva 
+Bocaiuva 
+Bocaiuva 
+Bocaiuva 
+Bocaiuva 
+Matias Cardoso 
+Matias Cardoso 
+Matias Cardoso 
+Matias Cardoso 
+Icaraí de Minas 
+Icaraí de Minas 
+Icaraí de Minas 
+Janaúba 
+Muganga 
+Muganga 
+Muganga 
+Bocaiuva 
+Icaraí de Minas 
+
+D 
+C 
+B 
+V 
+A 
+R 
+D 
+C 
+M 
+K 
+L 
+J 
+I 
+H 
+G 
+F 
+Q 
+B 
+A 
+U 
+T 
+O 
+P 
+N 
+E 
+S 
+
+II 
+II 
+II 
+I 
+II 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+
+Animals  chronically  infected  are  reservoires  of  penicillin  resistant  S.  aureus  and 
+disseminate this phenotype. This dissemination associated with low rate of microbiological 
+cure of mastitis caused by this microorganism allows animals chronically infected remain in 
+the flock and spread resistant strains to other animals (Taponen et al., 2003; Barkema et al., 
+2006; Silva et al., 2012).
+
+The  sensitivity  determination  to  in  vitro  antimicrobial  agents  may  not  reflect  the 
+real pathogen profile when in real contact with the drug (Silva et al., 2012). However, the 
+determination of the S. aureus susceptibility profile from bovine mastitis before antibiotics 
+can be helpful in choosing the most adequate drug for the treatment of the disease. In addition, 
+the recognition of effective mechanisms for the disease control could be established (Wang et 
+al., 2016).
+
+In  farms,  pathogenic  strains  of  microorganisms  may  originate  from  a  variety  of 
+sources, including the animal itself. These strains can easily pass from one source to another 
+through  different  routes  of  transmission,  which  include:  contact  between  animals,  stalls, 
+milking equipment, and the milkers’ hands (McMillan et al., 2016). Genotypic methods may 
+be  employed  to  obtain  information  regarding  the  potential  infection  sources  and  routes  of 
+diseases transmission. The random amplification of polymorphic DNA analysis (RAPD) is 
+a technique that allows to analyze the genetic diversity among S. aureus isolates (Idil and 
+Bilkay, 2014; Rahman et al., 2016; Wang et al., 2016). In this study, the genotypic analysis 
+of 26 isolates carrying the femA gene employing the RAPD technique produced 16 distinct 
+fragments (Figure 3).
+
+Phenotypic and genotypic characterization of S. aureusGenetics and Molecular Research 16 (2): gmr160297098
+
+Figure 3. RAPD-PCR for the genetic profile determination of Staphylococcus aureus isolated from bovine milk 
+in different proprieties of Northern Minas Gerais. Lane M: Marker of molecular weight of 100-base pairs DNA 
+(Ludwig).  Nucleus  rural  propriety:  NP  -  municipality  of  Janaúba:  isolates  NP1  to  NP5.  TR  -  municipality  of 
+Bocaiúva: isolates TR1 to TR8. MC - municipality of Matias Cardoso isolates MC1 to MC4.
+
+For band-sharing analysis, the bands in a range between 250 to 3000 base pairs were 
+considered. The binary matrix made by visual observation on the presence or absence of these 
+bands further submitted to the UPGMA analysis based on Pearson’s coefficient generated a 
+dendrogram of genetic relationships among S. aureus isolates (Figure 4).
+
+Figure 4. Dendrogram of genetic relationships of Staphylococcus aureus (N = 26) isolated from bovine milk of 
+with subclinical mastitis obtained by RAPD-PCR. The 26 isolates distributed into 2 groups (I and II) according to 
+UPGMA analysis based on Pearson’s coefficient.
+
+A.R.E.O. Xavier et al.Genetics and Molecular Research 16 (2): gmr160297099
+
+These  isolates  were  grouped  into  two  different  groups  of  which  84.61%  (22/26) 
+profile of group I and 15.39% (04/26) of Group II. Still according to the Pearson’s correlation 
+coefficient, it was possible to determine 26 different genotypes (IA to IU and IIA to IID), 
+which showed a substantial variation of S. aureus genotypes not only among isolates from 
+different rural properties, but also from those isolated in the same flock. (Figure 4 and Table 
+1). Wang et al. (2016), when analyzing RAPD polymorphism of S. aureus isolates recovered 
+from cows with mastitis in China, obtained similar results to this study.
+
+No clonality was verified among the 26 S. aureus isolates carrying the femA gene. 
+Profiles with Pearson’s coefficient of 0.87 were found among strains of S. aureus isolated 
+from flocks of the same rural property [clone IM (isolate TR4) and clone IL (isolate TR6)], 
+as well as from rural properties, but located in the same municipality [clone IA (isolate CC1) 
+and clone IB (isolate GU1)] (Figure 4 and Table 1). The bands sharing analysis among these 
+isolates revealed the presence or absence of 1 or 3 bands in disagreement, which leads the 
+authors to hypothesize possible mutation among the isolates. Carvalho et al. (2016) analyzing 
+the  genetic  profile  of  nosocomial  isolates  of  Acinetobacter  baumannni  through  DNA 
+polymorphism analysis by ERIC-PCR also suggested the same hypothesis for isolates with 
+high genetic similarity.
+
+Two isolates originated from different rural proprieties and municipalities (Janaúba 
+and Bocaiuva) sensitive to all the tested antibiotics [NP4 (clone (I-V) and TR5 (clone I-K)] 
+showed  low  similarity  among  themselves,  with  Pearson’s  coefficient  of  0.35  (Figure  4 
+and Table 1). However, the comparison of the genetic relationship (Pearson’s coefficient 
+equal to 0.75) between the isolate TR5 sensitive to the tested antibiotics (clone I-K) and 
+the multi-resistant TR-7 isolate (clone I-J) originated from the same rural property revealed 
+the absence of correlation between the phenotypic susceptibility profile to antibiotics and 
+the characterization of the genetic profile through RAPD-based polymorphism analysis for 
+these isolates.
+
+Idil and Biklay (2014) evaluated the use of the RAPD-PCR technique for clonality 
+determination  among  nosocomial  S.  aureus  isolates  resistant  to  methicillin. According  to 
+their  findings  the  combination  of  more  than  a  RAPD  primer  can  provide  a  greater  power 
+of discrimination among isolates of this species. In this study, we used the oligonucleotide 
+S232 designed by Idil and Biklay (2014). Despite of the different origin and non-resistance to 
+methicillin, the band profile obtained with the RAPD-PCR was similar to those authors. The 
+combination of one or more RAPD primers could produce results with different similarity 
+profiles. Nevertheless, it was possible to evidence it as a useful tool for future epidemiological 
+studies using a higher number of samples to be isolated in herds in the studied region. It is 
+possible to conclude that the femA species-specific for S. aureus was efficient for genotypic 
+confirmation  of  isolates  identified  by  standard  microbiological  analyses  in  this  study. The 
+antimicrobial  susceptibility  test  displayed  varying  resistance  degrees  among  the  isolates. 
+Nonetheless, it was considerable the simulateneous resistance rate to beta-lactams. There was 
+a wide variation in the genotypes of S. aureus isolates, not only among those isolated from 
+different rural properties, but also in the same flock. This wide genomic variation added to 
+resistance to antimicrobials herein tested is a reason for concern about animal public health in 
+the Minas Gerais regions where the microorganisms were isolated. The knowledge on the S. 
+aureus genetic diversity and the antimicrobial resistance profile of dairy breeds may be useful 
+as a tool for decision making in the implementation of control measures and prevention of 
+clinical mastitis and or subclinical in milking environments.
+
+Phenotypic and genotypic characterization of S. aureusGenetics and Molecular Research 16 (2): gmr1602970910
+
+Conflicts of interest
+
+The authors declare no conflict of interests.
+
+ACKNOWLEDGEMENTS
+
+Research  supported  by  Conselho  Nacional  de  Desenvolvimento  Científico  e 
+Tecnológico (CNPq), Fundação de Amparo à Pesquisa do Estado de Minas Gerais (Fapemig) 
+(#APQ-01786-13), and the Dean’s Office for Research studies of UFMG.
+
+REFERENCES
+
+Barea  JA,  Pardini  MIMC  and  Gushiken  T  (2004).  Extração  de  DNA  de  materiais  de  arquivo  e  fontes  escassas  para 
+utilização  em  reação  de  polimerização  em  cadeia  (PCR).  Rev.  Bras.  Hematol.  Hemoter.  26:  274-281  https://doi.
+org/10.1590/S1516-84842004000400008.
+
+Barkema HW, Schukken YH and Zadoks RN (2006). Invited Review: The role of cow, pathogen, and treatment regimen in 
+the therapeutic success of bovine Staphylococcus aureus mastitis. J. Dairy Sci. 89: 1877-1895 https://doi.org/10.3168/
+jds.S0022-0302(06)72256-1.
+
+Bergonier  D,  Sobral  D,  Feßler AT,  Jacquet  E,  et  al.  (2014).  Staphylococcus  aureus  from  152  cases  of  bovine,  ovine 
+and caprine mastitis investigated by Multiple-locus variable number of tandem repeat analysis (MLVA). Vet. Res. 
+(Faisalabad) 45: 97-104 https://doi.org/10.1186/s13567-014-0097-4.
+
+Bhati T, Nathawat P, Sharma SK, Yadav R, et al. (2016). Polymorphism in spa gene of Staphylococcus aureus from bovine 
+
+subclinical mastitis. Vet. World 9: 421-424 https://doi.org/10.14202/vetworld.2016.421-424.
+
+Carvalho AA, Cardoso LL, Nogueira HS, Menezes EV, et al. (2016). Characterization and molecular epidemiology of 
+extensively prevalent nosocomial isolates of drug-resistant Acinetobacter spp. Genet. Mol. Res. 15: gmr.15038608. 
+http://dx.doi.org/10.4238/gmr.15038608
+
+El Behiry A, Schlenker G, Szabo I and Roesler U (2012). In vitro susceptibility of Staphylococcus aureus strains isolated 
+from cows with subclinical mastitis to different antimicrobial agents. J. Vet. Sci. 13: 153-161 https://doi.org/10.4142/
+jvs.2012.13.2.153.
+
+Ganda EK, Bisinotto RS, Decter DH and Bicalho RC (2016). Evaluation of an on-farm culture system (accumast) for fast 
+identification of milk pathogens associated with clinical mastitis in dairy cows. PLoS One 11: e0155314 https://doi.
+org/10.1371/journal.pone.0155314.
+
+Idil N and Bilkay IS (2014). Application of RAPD-PCR for determining the clonality of methicillin resistant Staphylococcus 
+aureus  isolated  from  different  hospitals.  Braz.  Arch.  Biol.  Technol.  57:  548-553  https://doi.org/10.1590/S1516-
+8913201402116.
+
+Jagielski T, Puacz E, Lisowski A, Siedlecki P, et al. (2014). Short communication: Antimicrobial susceptibility profiling 
+and genotyping of Staphylococcus aureus isolates from bovine mastitis in Poland. J. Dairy Sci. 97: 6122-6128 https://
+doi.org/10.3168/jds.2014-8321.
+
+Kalmus P, Aasmäe B, Kärssin A, Orro T, et al. (2011). Udder pathogens and their resistance to antimicrobial agents in dairy 
+
+cows in Estonia. Acta Vet. Scand. 53: 4 https://doi.org/10.1186/1751-0147-53-4.
+
+Ławniczek-Wałczyk A, Gołofit-Szymczak M, Cyprowski M, Stobnicka A, et al. (2017). Monitoring of bacterial pathogens 
+at workplaces in power plant using biochemical and molecular methods. Int. Arch. Occup. Environ. Health 90: 285-
+295 https://doi.org/10.1007/s00420-017-1197-z.
+
+McMillan K, Moore SC, McAuley CM, Fegan N, et al. (2016). Characterization of Staphylococcus aureus isolates from 
+
+raw milk sources in Victoria, Australia. BMC Microbiol. 16: 169-180 https://doi.org/10.1186/s12866-016-0789-1.
+
+Nemeghaire  S, Argudín  MA,  Haesebrouck  F  and  Butaye  P  (2014).  Epidemiology  and  molecular  characterization  of 
+methicillin-resistant Staphylococcus aureus nasal carriage isolates from bovines. BMC Vet. Res. 10: 153-161 https://
+doi.org/10.1186/1746-6148-10-153.
+
+Oliveira  SP,  Xavier AREO,  Souza  CN,  Cunha  GSP,  et  al.  (2016).  Identificação  genotípica  de  Staphylococcus  aureus 
+
+multiresistentes a drogas isolados de animais de produção. Cad. Ciênc. Agrá. 8: 45-51.
+
+Pantoja JC, Hulland C and Ruegg PL (2009). Somatic cell count status across the dry period as a risk factor for the 
+development  of  clinical  mastitis  in  the  subsequent  lactation.  J.  Dairy  Sci.  92:  139-148  https://doi.org/10.3168/
+jds.2008-1477.
+
+A.R.E.O. Xavier et al.Genetics and Molecular Research 16 (2): gmr1602970911
+
+Pellegrino  MS,  Frola  ID,  Odierno  LM  and  Bogni  CI  (2011).  Mastitis  bovina:  resistencia  a  antibióticos  de  cepas  de 
+
+Staphylococcus aureus asiladas de leche. REDVET. Rev. Electrón. Vet. 12: 1-14.
+
+Rahman MM, Hunter HN, Prova S, Verma V, et al. (2016). The Staphylococcus aureus methicillin resistance factor fmtA is 
+
+a D-amino esterase that acts on teichoic acids. MBio 7: e02070-e15 https://doi.org/10.1128/mBio.02070-15.
+
+Rall VL, Miranda ES, Castilho IG, Camargo CH, et al. (2014). Diversity of Staphylococcus species and prevalence of 
+enterotoxin genes isolated from milk of healthy cows and cows with subclinical mastitis. J. Dairy Sci. 97: 829-837 
+https://doi.org/10.3168/jds.2013-7226.
+
+Schmidt T, Kock MM and Ehlers MM (2015). Diversity and antimicrobial susceptibility profiling of staphylococci isolated 
+from bovine mastitis cases and close human contacts. J. Dairy Sci. 98: 6256-6269 https://doi.org/10.3168/jds.2015-
+9715.
+
+Rodrigues da Silva E and da Silva N (2005). Coagulase gene typing of Staphylococcus aureus isolated from cows with 
+
+mastitis in southeastern Brazil. Can. J. Vet. Res. 69: 260-264.
+
+Silva  ER,  Pereira  AMG,  Moraes  WS,  Santoro  KR,  et  al.  (2012).  Perfil  de  sensibilidade  antimicrobiana  in  vitro  de 
+Staphylococcus aureus isolado de mastite subclínica bovina. Rev. Bras. Saúde Prod. Anim. 13: 701-711 https://doi.
+org/10.1590/S1519-99402012000300010.
+
+Silva MVM and Nogueira JL (2010). Mastite: controle e profilaxia no rebanho bovino. Rev. Cient. Elet. Med. Vet. 15: 1-13.
+Song M, He Y, Zhou H, Zhang Y, et al. (2016). Combined analysis of DNA methylome and transcriptome reveal novel 
+candidate genes with susceptibility to bovine Staphylococcus aureus subclinical mastitis. Sci. Rep. 6: 29390 https://
+doi.org/10.1038/srep29390.
+
+Supré K, Haesebrouck F, Zadoks RN, Vaneechoutte M, et al. (2011). Some coagulase-negative Staphylococcus species 
+
+affect udder health more than others. J. Dairy Sci. 94: 2329-2340 https://doi.org/10.3168/jds.2010-3741.
+
+Taponen S, Jantunen A, Pyörälä E and Pyörälä S (2003). Efficacy of targeted 5-day combined parenteral and intramammary 
+treatment of clinical mastitis caused by penicillin-susceptible or penicillin-resistant Staphylococcus aureus. Acta Vet. 
+Scand. 44: 53-62. https://doi.org/10.1186/1751-0147-44-53
+
+Teixeira JP, Silva N, Fonseca LM and Costa GM (2014). Uso de PCR Duplex para detecção dos genes femA e mecA e 
+determinação da concentração inibitória mínima (CIM) em Staphylococcus aureus isolados de leite cru. Rev. Inst. 
+Adolfo Lutz 73: 272-279 10.18241/0073-98552014731615.
+
+Tel OY and Bozkaya F (2012). Identifying the Bacteria Causing Ovine Gangrenous Mastitis and Detection of Staphylococcus 
+
+aureus in Gangrenous Milk by PCR. Kafkas Univ. Vet. Fak. Derg. 18: 401-406 10.9775/kvfd.2011.5556.
+
+Viguier C, Arora S, Gilmartin N, Welbeck K, et al. (2009). Mastitis detection: current trends and future perspectives. 
+
+Trends Biotechnol. 27: 486-493 https://doi.org/10.1016/j.tibtech.2009.05.004.
+
+Wang D, Zhang L, Zhou X, He Y, et al. (2016). Antimicrobial susceptibility, virulence genes, and randomly amplified 
+polymorphic DNA analysis of Staphylococcus aureus recovered from bovine mastitis in Ningxia, China. J. Dairy Sci. 
+99: 9560-9569 https://doi.org/10.3168/jds.2016-11625.
+
+Wayne  PA  (2016).  Performance  standards  for  antimicrobial  susceptibility  testing.  Clinical  and  Laboratory  Standards 
+
+Institute (CLSI). 26th informational supplement (CLSI document M100S).
+
+Phenotypic and genotypic characterization of S. aureusGenetics and Molecular Research 16 (2): gmr16029709

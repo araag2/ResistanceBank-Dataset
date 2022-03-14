@@ -1,0 +1,3400 @@
+Infection, Genetics and Evolution 29 (2015) 82–90
+
+Contents lists available at ScienceDirect
+
+Infection, Genetics and Evolution
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / m e e g i d
+
+Molecular and phylogenetic characterization of multidrug resistant
+extended spectrum beta-lactamase producing Escherichia coli isolated
+from poultry and cattle in Odisha, India
+
+Debasish Kar, Samiran Bandyopadhyay
+Pramod K. Nanda, Bimalendu Mondal, Premanshu Dandapat, Arun K. Das, Tapan K. Dutta 2,
+Subhasish Bandyopadhyay, Raj Kumar Singh 3
+Eastern Regional Station, Indian Veterinary Research Institute, 37 Belgachia Road, Kolkata 700 037, India
+
+⇑
+, Debaraj Bhattacharyya, Indranil Samanta 1, Achintya Mahanti 1,
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 25 June 2014
+Received in revised form 24 October 2014
+Accepted 1 November 2014
+Available online 7 November 2014
+
+Keywords:
+Cattle
+E. coli
+ESBL
+India
+Poultry
+
+The present study was undertaken to determine the occurrence and characterization of extended
+spectrum beta-lactamase (ESBL) producing Escherichia coli isolated from cattle and poultry in Odisha,
+India. Of 316 E. coli isolated from 305 samples (170 fecal samples from poultry and 135 milk samples
+from cattle), a total of 18 E. coli isolates were conﬁrmed as ESBL producers by combination disc method
+and ESBL E-test. The isolates were resistant to oxyimino cephalosporins and monobactam as revealed by
+disc diffusion assay and determination of minimum inhibitory concentration. Resistance against other
+antibiotics was frequently noted as well. Further, beta-lactamase genes viz., blaSHV, blaCTXM, blaTEM
+and blaampC were detected in 17, 13, 9 and 2 isolates, respectively in PCR. Of the 18 ESBL strains, 16 were
+positive for class I integron (int1), nine of them carried sulphonamide resistance gene (sul1) and one
+harbored quinolone resistance gene (qnrB). Virulence markers for extraintestinal pathogenic E. coli like
+astA, tsh and iucD were also present in 4, 3 and 3 isolates, respectively. All the PCR ampliﬁed products
+were cloned and subjected to sequencing for homology analysis and data were submitted to gene bank.
+Sequence analysis of the ampliﬁed variable regions of class 1 integron of four representative isolates
+revealed the presence of aadA2 and dfrA12 gene cassettes conferring resistance to aminoglycosides and
+trimethoprim, respectively. Most of the ESBL producing strains emerged as single lineage through
+phylogenetic analysis by RAPD and ERIC PCR. This is the ﬁrst ever systemic study on multidrug resistant
+ESBL producing E. coli in food producing animals from India.
+
+Ó 2014 Elsevier B.V. All rights reserved.
+
+1. Introduction
+
+Emergence and dissemination of extended spectrum beta-lacta-
+mase (ESBL) producing Escherichia coli were mostly reported from
+nosocomial outbreaks, but in recent days, these are also being
+reported from community infections as well (Oteo et al., 2010).
+More importantly, detection of ESBL producing E. coli in food pro-
+ducing animals and edible animal products has become a serious
+cause of concern for the consumers (Geser et al., 2012; Machado
+et al., 2008). This poses a great challenge to medical and veterinary
+
+⇑ Corresponding author.
+
+E-mail addresses: samiranicar@rediffmail.com, sbandyo@ivri.res.in, samiranvet@
+
+gmail.com (S. Bandyopadhyay).
+
+1 Department of Microbiology, WBUAFS, Kolkata 700 037, India.
+2 Department of Microbiology, C.V.Sc., CAU, Aizwal, Mizoram, India.
+3 Director, IVRI (Deemed University), Izatnagar 243 122, Bareilly, UP, India.
+
+http://dx.doi.org/10.1016/j.meegid.2014.11.003
+1567-1348/Ó 2014 Elsevier B.V. All rights reserved.
+
+practitioners, as these ESBL producing E. coli can inactivate beta-
+lactam antibiotics containing oxyimino group, especially the 3rd
+and 4th generation cephalosporins and monobactam (Oteo et al.,
+2010). Added to this, ESBL producers are also resistant to other
+antibiotics such as ﬂuoroquinones, aminoglycosides and trimetho-
+prim–sulfamethoxazole (Machado et al., 2008; Pasom et al., 2013;
+Rath et al., 2014).
+
+In India, ESBL producing E. coli have been reported in hospital-
+ized patients, from various states over the last few years (Dutta
+et al., 2013; Mukherjee et al., 2013; Oberoi et al., 2013; Rath
+et al., 2014). In spite of this, no systematic study on ESBL producing
+Enterobacteriaceae has been conducted in food animals in India
+despite the fact that both animals and human share a close rela-
+tionship. Besides, indiscriminate use of antibiotics in livestock
+often establishes selection pressure for emergence of several anti-
+biotic resistant strains, including ESBL producers in animals. By
+this, these animals not only act as a mere reservoir but at times
+
+D. Kar et al. / Infection, Genetics and Evolution 29 (2015) 82–90
+
+83
+
+may transmit these pathogens to human beings through direct and
+indirect contact. Furthermore, the presence of various cardinal vir-
+ulence genes in ESBL producers may increase the pathogenicity
+and complicate the therapeutic strategy (Dutta et al., 2013).
+
+Under these circumstances, the present study was undertaken
+to determine the occurrence of ESBL producing E. coli in poultry
+and cattle from different districts of Odisha, India and their further
+characterization through drug resistance pattern, identiﬁcation of
+ESBL and other putative virulence genes, randomly ampliﬁed poly-
+morphic DNA PCR (RAPD PCR) and enterobacterial repetitive inter-
+genic consensus polymerase chain reaction (ERIC PCR).
+
+2. Materials and methods
+
+2.1. Sample collection and isolation of E. coli
+
+A total of three hundred and ﬁve (n = 305) samples (170 poultry
+feces and 135 cattle milk) were collected from ﬁve different dis-
+tricts of Odisha (India) during July 2013 to March 2014 (Table 1).
+Out of 170 fecal samples, 33 were from healthy and 137 were from
+diarrheic birds. Of the 135 milk samples, 23 were from apparently
+healthy cow without any evidence of mastitis and 112 samples
+were from cattle with clinical and subclinical mastitis (determined
+by somatic cell count). All the samples were collected in sterile col-
+lection vials and transported to laboratory maintaining proper cold
+chain for isolation and biochemical characterization of E. coli fol-
+lowing standard procedure (Quinn et al., 1994).
+
+2.2. Phenotypic conﬁrmation for extended spectrum beta-lactamase
+production by E. coli isolates
+
+For phenotypic conﬁrmation of ESBL production, all the con-
+ﬁrmed E. coli isolates were screened for their susceptibility to 3rd
+and 4th generation cephalosporins and monobactam by disc diffu-
+sion method using the commercially available discs (BD BBL™,
+India) of cefpodoxime (CPD 10 lg), ceftazidime
+USA/HiMedia,
+(CAZ 30 lg), cefotaxime (CTX 30 lg), cefepime (CPM 30 lg) and
+aztreonam (ATZ 30 lg). The isolates exhibiting reduced suscepti-
+bility to any of these antibiotics were further subjected to combi-
+nation disc method and ESBL E-test (Andrews, 2012).
+
+2.3. Antimicrobial susceptibility testing
+
+Antimicrobial susceptibility testing of all the phenotypically
+conﬁrmed ESBL producing E. coli strains was performed by
+standard disc diffusion method against 19 different antibiotic discs
+[BD BBL™, USA/HiMedia, India] representing 10 diverse classes;
+amikacin (AK 30 lg), amoxicillin–clavulanic acid (AMC 20/10 lg),
+ceftriaxone (CTR 30 lg), cefepirome (CFP 30 lg), ceftizoxime
+(CZX 30 lg), cefepime–tazobactam (CPT 80/10 lg), chlorampheni-
+col (C 30 lg), ciproﬂoxacin (CIP 5 lg), co-trimoxazole (COT 1.25/
+23.75 lg), gatiﬂoxacin (GAT 5 lg), imipenem (IMP 10 lg), levoﬂox-
+acin (LE 5 lg), lomeﬂoxacin (LOM 10 lg), norﬂoxacin (NX 10 lg),
+piperacillin–tazobactam (PIT 100/10 lg), polymyxin B (PB 300 U),
+tetracycline (TE 30 lg) and tobramycin (TOB 10 lg). The isolates
+were categorized as sensitive, intermediately resistant or resistant
+based on the results interpreted following the recommendations of
+CLSI (2014).
+
+2.4. Phenotypic assays for detection of AmpC beta-lactamase,
+carbapenemase and metallo-beta-lactamase production
+
+All the ESBL producing isolates were subjected to cefoxitin–
+cloxacillin double disc synergy (CC-DDS) test and AmpC beta-
+lactamase (ACBL) detection E-test (HiMedia, India) for phenotypic
+
+1
+
+e
+l
+b
+a
+T
+
+)
+l
+a
+m
+n
+a
+
+i
+
+e
+h
+t
+
+f
+o
+
+s
+u
+t
+a
+t
+s
+(
+
+s
+r
+e
+c
+u
+d
+o
+r
+p
+
+L
+B
+S
+E
+
+)
+n
+(
+
+s
+e
+t
+a
+l
+o
+s
+i
+
+i
+l
+o
+c
+
+.
+
+E
+
+e
+l
+t
+t
+a
+C
+
+)
+n
+(
+
+s
+e
+l
+p
+m
+a
+s
+
+k
+l
+i
+
+m
+e
+l
+t
+t
+a
+C
+
+)
+n
+(
+
+s
+e
+t
+a
+l
+o
+s
+i
+
+i
+l
+o
+c
+
+.
+
+E
+
+y
+r
+t
+l
+u
+o
+P
+
+)
+n
+(
+
+s
+e
+l
+p
+m
+a
+s
+
+l
+a
+c
+e
+f
+
+y
+r
+t
+l
+u
+o
+P
+
+s
+a
+e
+r
+a
+
+g
+n
+
+i
+l
+p
+m
+a
+S
+
+s
+t
+c
+i
+r
+t
+s
+i
+D
+
+L
+S
+
+T
+
+M
+C
+S
+
+M
+C
+
+C
+H
+
+T
+
+M
+C
+S
+
+M
+C
+
+C
+H
+
+T
+
+B
+D
+
+B
+H
+
+T
+
+B
+D
+
+B
+H
+
+)
+B
+D
+(
+
+5
+1
+C
+E
+P
+
+)
+
+M
+C
+(
+
+1
+C
+E
+M
+
+)
+B
+D
+(
+
+2
+C
+E
+P
+
+)
+B
+H
+(
+
+4
+C
+E
+P
+
+,
+)
+B
+D
+(
+
+,
+)
+B
+D
+(
+
+)
+B
+D
+(
+
+1
+C
+E
+P
+
+3
+C
+E
+P
+
+9
+C
+E
+P
+
+)
+B
+D
+(
+
+0
+1
+C
+E
+P
+
+,
+)
+
+M
+C
+S
+(
+
+2
+C
+E
+M
+
+)
+B
+D
+(
+
+2
+1
+C
+E
+P
+
+,
+)
+B
+D
+(
+
+)
+B
+D
+(
+
+1
+1
+C
+E
+P
+
+3
+1
+C
+E
+P
+
+–
+
+)
+B
+D
+(
+
+)
+B
+D
+(
+
+7
+C
+E
+P
+
+8
+C
+E
+P
+
+,
+)
+B
+D
+(
+
+,
+)
+B
+D
+(
+
+5
+C
+E
+P
+
+6
+C
+E
+P
+
+)
+B
+D
+(
+
+)
+B
+D
+(
+
+4
+1
+C
+E
+P
+
+6
+1
+C
+E
+P
+
+–
+
+2
+
+9
+
+5
+
+9
+
+0
+
+7
+
+6
+
+3
+
+3
+
+4
+
+5
+
+1
+1
+
+0
+
+3
+
+2
+
+2
+
+0
+
+4
+
+8
+
+4
+
+2
+
+2
+
+2
+
+3
+
+1
+
+4
+
+2
+
+5
+
+0
+
+3
+
+2
+
+1
+
+1
+
+1
+
+2
+
+1
+
+8
+1
+
+4
+6
+
+2
+3
+
+3
+2
+
+1
+
+2
+
+1
+
+2
+
+0
+
+0
+
+1
+
+1
+
+0
+
+0
+
+0
+
+1
+
+9
+
+5
+1
+
+7
+1
+
+2
+1
+
+4
+1
+
+8
+
+4
+1
+
+7
+1
+
+7
+
+1
+1
+
+5
+
+5
+
+0
+1
+
+5
+3
+1
+
+9
+
+1
+1
+
+9
+
+8
+
+6
+
+9
+
+3
+1
+
+5
+
+7
+
+2
+
+2
+
+5
+
+2
+
+4
+
+1
+
+3
+
+0
+
+4
+
+2
+
+1
+
+3
+
+2
+
+1
+
+3
+
+4
+
+2
+
+2
+
+3
+
+2
+
+1
+
+2
+
+1
+
+1
+
+1
+
+2
+
+2
+
+2
+3
+
+4
+2
+
+7
+1
+
+9
+1
+
+7
+
+0
+3
+
+1
+3
+
+2
+2
+
+3
+2
+
+2
+1
+
+7
+1
+
+8
+1
+
+8
+2
+
+2
+2
+
+2
+1
+
+6
+1
+
+7
+
+2
+2
+
+7
+2
+
+1
+2
+
+3
+2
+
+9
+
+4
+1
+
+2
+1
+
+4
+
+2
+
+5
+
+3
+
+0
+
+8
+
+4
+
+1
+
+0
+
+3
+
+3
+
+6
+
+1
+2
+
+8
+1
+
+5
+1
+
+2
+1
+
+5
+
+2
+2
+
+9
+1
+
+6
+1
+
+4
+1
+
+7
+
+2
+1
+
+9
+
+8
+1
+
+6
+1
+
+2
+1
+
+0
+1
+
+4
+
+6
+1
+
+5
+1
+
+4
+1
+
+3
+1
+
+5
+
+8
+
+6
+
+3
+
+2
+
+3
+
+2
+
+1
+
+6
+
+4
+
+2
+
+1
+
+2
+
+4
+
+3
+
+a
+g
+n
+a
+r
+a
+t
+s
+A
+
+l
+a
+p
+o
+g
+i
+
+h
+k
+a
+S
+
+r
+u
+p
+i
+l
+a
+S
+
+i
+l
+a
+i
+N
+
+p
+o
+G
+
+k
+c
+a
+t
+t
+u
+C
+
+i
+r
+u
+P
+
+a
+l
+n
+a
+J
+
+a
+d
+r
+u
+h
+K
+
+r
+a
+d
+a
+s
+
+a
+d
+r
+u
+h
+K
+
+r
+a
+g
+a
+n
+a
+j
+n
+a
+h
+B
+
+r
+u
+p
+a
+r
+t
+a
+h
+C
+
+r
+a
+w
+s
+e
+l
+a
+J
+
+t
+o
+k
+i
+l
+a
+h
+K
+
+o
+r
+o
+S
+
+e
+r
+o
+s
+a
+l
+a
+B
+
+m
+a
+j
+n
+a
+G
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+8
+
+6
+2
+
+3
+2
+
+2
+5
+2
+
+3
+1
+2
+
+9
+3
+
+0
+7
+1
+
+7
+3
+1
+
+3
+3
+
+l
+a
+t
+o
+T
+
+.
+l
+a
+t
+o
+t
+
+:
+T
+
+,
+s
+i
+t
+i
+t
+s
+a
+m
+
+l
+a
+c
+i
+
+n
+
+i
+l
+c
+b
+u
+s
+
+:
+
+M
+C
+S
+
+,
+s
+i
+t
+i
+t
+s
+a
+m
+
+l
+a
+c
+i
+
+n
+
+i
+l
+c
+
+:
+
+M
+C
+
+,
+
+e
+l
+t
+t
+a
+c
+
+y
+h
+t
+l
+a
+e
+h
+
+:
+C
+H
+
+,
+s
+d
+r
+i
+b
+
+c
+i
+e
+h
+r
+r
+a
+i
+d
+
+:
+B
+D
+
+,
+s
+d
+r
+i
+b
+
+y
+h
+t
+l
+a
+e
+h
+
+:
+B
+H
+
+.
+
+a
+i
+d
+n
+I
+
+,
+
+a
+h
+s
+i
+d
+O
+
+f
+o
+
+s
+t
+c
+i
+r
+t
+s
+i
+d
+
+t
+n
+e
+r
+e
+f
+f
+i
+d
+
+n
+i
+
+e
+l
+t
+t
+a
+c
+
+d
+n
+a
+
+y
+r
+t
+l
+u
+o
+p
+m
+o
+r
+f
+
+i
+l
+o
+c
+
+a
+i
+
+h
+c
+i
+r
+e
+h
+c
+s
+E
+
+g
+n
+
+i
+c
+u
+d
+o
+r
+p
+
+L
+B
+S
+E
+
+f
+o
+
+n
+o
+i
+t
+a
+l
+o
+s
+I
+
+84
+
+D. Kar et al. / Infection, Genetics and Evolution 29 (2015) 82–90
+
+conﬁrmation of ACBL production following previously described
+protocol (Polsfuss et al., 2011). Further, all the imipenem resistant
+ESBL producers were subjected to modiﬁed hodge test (MHT) and
+combination disc diffusion test (CDDT) [IMP-10 lg and IMP-10 lg
++ EDTA-750 lg] to conﬁrm carbapenemase and metallo-beta-
+lactamase (MBL) production (Birgy et al., 2012).
+
+2.5. Determination of minimum inhibitory concentration
+
+Minimum inhibitory concentration (MIC) of
+
+cefotaxime,
+ceftazidime, ceftriaxone and aztreonam for all the phenotypically
+conﬁrmed ESBL producers were determined using Hi-comb MIC test
+strip (HiMedia, India), with concentration gradient of 0.1–240 and
+0.001–30 lg/ml on Mueller Hinton Agar plate.
+
+2.6. PCR based detection of antimicrobial resistance and putative
+virulence genes
+
+DNA was extracted from bacterial isolates conﬁrmed for ESBL
+production by standard heat lysis protocol and were analyzed for
+the presence of major beta-lactamase genes – blaCTXM, blaSHV,
+blaTEM, blaOXA 1 and blaOXA 2 (Bhattacharjee et al., 2007),
+blaampC (Shahid et al., 2012), plasmid mediated quinolone
+resistance (PMQR) determinants such as qnrA, qnrB and qnrS
+(Ciesielczuk et al., 2013), class I integron [int 1] (Levesque et al.,
+1995), sulphonamide resistance [sul1] (Kerrn et al., 2002) genes,
+cardinal virulence markers for shiga toxin producing E. coli (STEC;
+stx 1 and stx 2), enteropathogenic E. coli (EPEC: eaeA), enterohem-
+olysin (hlyA), and extraintestinal pathogenic E. coli (ExPEC) such as
+papC, iucD, tsh, astA, cnf 1 and 2, f17 and sfaDE (Bandyopadhyay
+et al., 2012; Ewers et al., 2009; Van Bost et al., 2003) by PCR. Details
+regarding oligonucleotide primers and PCR conditions used are
+illustrated in Table 2. All the PCR reactions were performed either
+in Gene Amp PCR system or in Veriti 96-Well thermal cycler
+(Applied Biosystems, USA). The ampliﬁed products were visualized
+by a gel documentation system after electrophoresis in 1.5% (w/v)
+agarose gel containing ethidium bromide (0.5 lg/ml, Sigma, USA).
+
+2.7. Cloning and sequencing
+
+Ampliﬁed PCR products were puriﬁed using gel puriﬁcation kit
+(Fermentas, USA) and cloned in pGMET-Easy vector (Promega,
+Madison, WI, USA) or pTZ57/R (Fermentas, USA). The plasmids
+containing the expected insert were sequenced using the BigDye
+TerminatorÒ v3.1 Cycle Sequencing Kit (Applied Biosystems Inc.,
+Foster City, CA, USA) on an automated sequencer (Applied
+Biosystems 3130 Genetic Analyzer) following the manufacturer’s
+instructions. After sequencing, homology searches were made
+using BLAST algorithm available at http://blast.ncbi.nlm.nih.
+gov/Blast.cgi.
+
+2.8. Phylogenetic analysis of the ESBL producing E. coli by RAPD PCR
+and ERIC PCR
+
+All the conﬁrmed ESBL producing E. coli isolates were subjected
+to RAPD PCR and ERIC PCR following the PCR conditions
+(Bandyopadhyay et al., 2012; Mohapatra and Mazumder, 2008)
+described in Table 2. After electrophoresis in 2% (w/v) agarose
+gel containing ethidium bromide (0.5 lg/ml), images were taken
+by the gel documentation system and analyzed using the Doc-itLs
+image analysis software (UVP, USA). By comparing the differences
+in the banding pattern, phylogenetic relationship among the
+isolates was established. An unrooted phylogenetic tree was
+made using neighbor-joining method to illustrate the degree of
+genetic divergence and similarity among the ESBL producing
+E. coli isolates.
+
+2.9. Statistical analysis
+
+Occurrence of ESBL producers in respect to the animals (poultry
+and cattle) and districts was compared by v2 test using the SPSS
+17.0 software.
+
+3. Results
+
+Of all the 305 samples screened, 316 isolates (poultry 252;
+cattle milk 64) were conﬁrmed as E. coli based on morphological
+and biochemical tests (Table 1).
+
+A total of 18 E. coli isolates, from 16 different poultry fecal and 2
+cattle milk samples were putatively identiﬁed as ESBL producers
+by phenotypic screening tests viz., combination disc method and
+ESBL E-test (Table 3). Of 16 ESBL producing isolates from poultry,
+15 were from diarrheic cases and one was from healthy poultry
+(PEC 4). However, both the ESBL producers (MEC 1 and MEC 2)
+were isolated from mastitic milk only. All the 18 ESBL producers
+were resistant (100%) to ceftriaxone, ceftazidime, cefotaxime,
+aztreonam, cefpodoxime, cefepirome, ceftizoxime, tobramycin,
+lomeﬂoxacin and polymyxin B as revealed by disc diffusion assay.
+Resistance to other antibiotics such as amoxicillin–clavulanic acid
+(94%), piperacillin + tazobactam (94%), co-trimoxazole (88%), levo-
+ﬂoxacin (88%), ciproﬂoxacin (83%), norﬂoxacin (78%), teteracycline
+(77%), gatiﬂoxacin (72%), cefepime (66%), chloramphenicol (61%),
+cefepime–tazobactam (61%), imipenem (27%) and amikacin (22%)
+was also noted (Table 3). The range of MIC values of cefotaxime
+(5 to >240 lg/ml), ceftazidime (30 to >240 lg/ml), ceftriaxone
+(0.01 to >240 lg/ml) and aztreonam (0.1 to >60 lg/ml) for the
+conﬁrmed ESBL producers indicating their resistance to cephalo-
+sporins and monobactam are given in Table 3. Only two of the ESBL
+producers (PEC 10 and MEC 2) were conﬁrmed for ACBL
+production.
+
+All the 18 isolates were further subjected to PCR and sequenc-
+ing analysis for detection of beta-lactamase genes – blaSHV (Acces-
+sion No: KJ715877), blaTEM (Accession No: KF906263) and
+blaCTXM (Accession No: KJ851209). The genes blaSHV, blaCTXM
+and blaTEM were detected in 17, 13 and 9 isolates, respectively
+(Table 3). Two of the ESBL producers (PEC 10 and MEC 2), which
+were phenotypically conﬁrmed as ACBL producers, also carried
+the blaampC gene. Sixteen of the 18 ESBL producers (88.88%) were
+found positive for int1 in PCR and nine of them carried sul1 gene
+(Accession No: KJ801663). To identify the gene cassettes in the
+class I integron, the class I variable zone was ampliﬁed using
+primers 50-CS/30-CS (Table 2) and ampliﬁed products of 1009 bp
+(PEC-6), 1590 bp (PEC 16), 1913 bp (PEC 9) and 1915 bp (PEC 4)
+from four representative isolates were cloned and sequenced. Class
+I integron from all these isolates – PEC 4 (Accession No: KJ851208),
+PEC 6 (Accession No: KJ775803), PEC 9 (Accession No: KM403389)
+and PEC 16 (Accession No: KM272943) was found to carry the gene
+cassette encoding aminoglycoside adenyltransferase A enzyme
+(aadA2) conferring resistance to aminoglycosides and spectinomy-
+cin. Additionally, the class I integron of PEC 4, PEC 9 and PEC 16
+harbored gene cassette encoding for dihydrofolate reductase
+(dfrA12) responsible for resistance to trimethoprim. Among the
+PMQR genes (qnrA, qnrB and qnrS), only qnrB (Accession No:
+KJ872635) was detected in one isolate (PEC 14) from poultry
+(Table 3). None of the 18 ESBL producing E. coli carried character-
+istic virulence genes of STEC (stx 1, stx 2) and EPEC (eaeA) and hlyA.
+However, virulence markers for ExPEC were detected in few
+isolates. Four isolates (PEC 3, PEC 14, PEC 15 and PEC 16) were
+positive for astA gene, three each for tsh (PEC 11, PEC 12 and PEC
+13) and iucD (PEC 11, PEC 13 and PEC 16) genes [Accession Nos:
+KJ697771 and KJ715876], respectively. Two isolates (PEC 11 and
+PEC 13) carried both tsh and iucD whereas one isolate (PEC 16)
+was positive for both astA and iucD genes (Table 3).
+
+Table 2
+PCR condition and oligonucleotide primers used in the study
+
+SL
+
+Genes
+
+Oligonucleotide sequence (50–30)
+
+PCR condition
+
+Amplicon size
+(bp)
+
+References
+
+Accession number
+obtained
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+blaTEM
+
+F: ATG AGT ATT CAA CAT TTC CG
+
+R: CTG ACA GTT ACC AAT GCT TA
+
+blaCTXM F: CAATGTGCAGCACCAAGTAA
+
+R: CGCGATATCGTTGGTGGTG
+
+blaSHV
+
+F: AGG ATT GAC TGC CTT TTT G
+R: ATT TGC TGA TTT CGC TCG
+
+blaampC
+
+qnrA
+
+qnrB
+
+qnrS
+
+Sul 1
+
+papC
+
+tsh
+
+iucD
+
+CNF 2
+
+F: CCC CGC TTA TAG AGC AAC AA
+R: TCA ATG GTC GAC TTC ACA CC
+F: ATT TCT CAC GCC AGG ATT TG
+R: GAT CGG CAA AGG TTA GGT CA
+
+F: GAT CGT GAA AGC CAGAAAGG
+R: ATG AGC AAC GAT GCC TGG TA
+
+F: GCA AGT TCA TTG AAC AGG GT
+R: TCT AAA CCG TCG AGT TCG GCG
+
+F: CGG CGT GGG CTA CCT GAACG
+R: GCC GAT CGC GTG AAG TTC CG
+
+F: ACGGCTGTACTGCAGGGTGTGGCG
+R: ATATCCTTTCTGCAGGGATGCAATA
+
+F: ACTATTCTCTGCAGGAAGT
+R: CCTTCCGATGTTCTGAACGT
+
+F: AAA ACTGACATCGGATGGC
+R: GTATTTGTGGCAACGCAGAA
+
+F: TATCATACGGCAGGAGGAAGCACC
+R: GTCACAATAGACAATAATTTTCCG
+
+CNF1/2
+
+F: TTATATAGTCGTCAAGATGGA
+R: CACTAAGCTTTACAATATTGA
+
+F17A
+
+SfaD-E
+
+F: GCAGAAAATTCAATTTATCCTTGG
+R: CTGATAAGCGATGGTGTAATTAAC
+
+F: CTCCGGAGAACTGGGTGCATCTTAC
+R: CGGAGGAGTAATTACAAACCTGGCA
+
+astA
+
+F: CCATCAACACAGTATATCCGA
+
+R: GGTCGCGAGTGACGGCTTTGT
+
+95  5 m/95  1 m – 55  1 m – 72  1 m
+(35 Cycles)/72  10 m
+
+95  5 m/95  30 s – 65  30 s – 72  30 s (5
+Cycles)
+95  30 s – 62  30 s – 72  30 s (10 Cycles)/
+95  30 s – 60  30 s – 72  30 s (15 Cycles)/
+95  30 s – 58  30 s – 72  30 s (15 Cycles)/
+72  10 m
+94  5 m/94  30 s – 60  30s – 72  30 s
+(20 Cycles)/94  30 s – 58  30 s – 72  30 s
+(10 Cycles)/72  10 m
+94  5 m/94  30 s – 57  30s – 72  30 s
+(30 Cycles)/72  10 m
+95  5 m/
+95  30 s – 56  1 m – 72  1 m (35 Cycles)/
+72  10 m
+95  5 m/
+95  30 s – 56  1 m – 72  1 m (35 Cycles)/
+72  10 m
+95  5 m/
+95  30 s – 56  1 m – 72  1 m (35 Cycles)/
+72  10 m
+95  5 m/
+95  30 s – 65  1 m – 72  1 m (35 Cycles)/
+72  10 m
+94  5 m/
+94  1 m – 63  1 m – 72  3 m (30 Cycles)/
+72  10 m
+94  4 m/
+94  30 s – 57  30 s – 68  3 m (20 Cycles)/
+94  30 s – 57  30 s – 72  3 m (15 Cycles)/
+72  10 m
+94  3 m/
+94  1 m – 60  1 m – 72  1 m (35 Cycles)/
+72  7 m
+94  3 m/
+94  1 m – 60  1 m – 72  1 m (35 Cycles)/
+72  7 m
+94  3 m/
+94  1 m – 60  1 m – 72  1 m (35 Cycles)/
+72  7 m
+95  5 m/
+95  1 m – 57  1 m – 72  1 m (35 Cycles)/
+72  7 m
+95  5 m/
+95  1 m – 57  1 m – 72  1 m (35 Cycles)/
+72  7 m
+95  5 m/
+
+95  30 s – 55  1 m – 72  1 (35 Cycles)/
+72  10 m
+
+760
+
+537
+
+410
+
+119
+
+867
+
+540
+
+393
+
+631
+
+516
+
+476
+
+428
+
+433
+
+328
+
+824
+
+253
+
+Bhattacharjee et al. (2007)
+
+KF906263
+
+Dutta et al. (2013)
+
+KJ851209
+
+Bhattacharjee et al. (2007)
+
+KJ715877
+
+Shahid et al. (2012)
+
+KM502567
+
+Ciesielczuk et al. (2013)
+
+N
+
+Ciesielczuk et al., 2013
+
+KJ872635
+
+Ciesielczuk et al. (2013)
+
+N
+
+Kerrn et al. (2002)
+
+KJ801663
+
+Van Bost et al. (2003)
+
+N
+
+Ewers et al. (2009)
+
+KJ697771
+
+Van Bost et al. (2003)
+
+KJ715876
+
+1,243
+
+Van Bost et al. (2003)
+
+Van Bost et al. (2003)
+
+Van Bost et al. (2003)
+
+Van Bost et al. (2003)
+
+N
+
+N
+
+N
+
+N
+
+D
+
+.
+
+K
+a
+r
+
+e
+t
+
+a
+l
+.
+
+/
+
+I
+n
+f
+e
+c
+t
+i
+o
+n
+
+,
+
+G
+e
+n
+e
+t
+i
+c
+s
+
+a
+n
+d
+
+E
+v
+o
+l
+u
+t
+i
+o
+n
+
+2
+9
+
+(
+2
+0
+1
+5
+)
+
+8
+2
+–
+9
+0
+
+8
+5
+
+Bandyopadhyay et al. (2012)
+
+Detected but no Accession number
+assigned
+
+(continued on next page)
+
+Table 2 (continued)
+
+SL
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+Int 1
+
+Stx 1
+
+R: AAGCAGACTTGACCTGA
+
+F: GGTCAAGGATCTGGATTTCG
+R: ACATGCGTGTAAATCATCGTC
+
+F: ATAAATCGCCATTCGTTGACTAC
+R: AGAACGCCCACTGAGATCATC
+
+Stx 2
+
+F: GGCACTGTCTGAAACTGCTCC
+
+R: TCGCCAGTTATCTGACATTCTG
+
+eaeA
+
+F: GACCCGGCACAAGCATAAGC
+R: CCACCTGCAGCAACAAGAGG
+
+hlyA
+
+F: GCATCATCAAGCGTACGTTCC
+
+R: AATGAGCCAAGCTGGTTAAGCT
+
+RAPD
+
+GTGGTGGTGGTGGTG
+
+ERIC
+
+F: ATGTAAGCTCCTGGGGAGCG
+
+R: ATGTAAGCTCCTGGGGAGCG
+
+481
+
+180
+
+255
+
+384
+
+534
+
+94  30 s – 55  1 m – 72  1 m (35 Cycles)/
+72  10 m
+94  5 m/
+94  30 s – 60  20 s – 72  1 m (35 Cycles)/
+72  10 m
+95  5 m/
+95  30 s – 65  1 m – 72  1 m (15 Cycles)/
+95  30 s – 60  1 m – 72  1 m (20 Cycles)/
+72  10 m
+95  5 m/
+95  30 s – 65  1 m – 72  1 m (15 Cycles)/
+95  30 s – 60  1 m – 72  1 m (20 Cycles)/
+72  10 m
+95  5 m/
+95  30 s – 65  1 m – 72  1 m (15 Cycles)/
+95  30 s – 60  1 m – 72  1 m (20 Cycles)/
+72  10 m
+95  5 m/
+95  30 s – 65  1 m – 72  1 m (15 Cycles)/
+95  30 s – 60  1 m – 72  1 m (20 Cycles)/
+72  10 m
+95  5 m/95  1 m – 45  1 m – 72  2 m (15
+Cycles)/95  1 m – 40  1 m – 72  2 m (20
+Cycles)/72  10 m
+95  5 m/
+92  30 s – 52  1 m – 72  10 m (20 Cycles)/
+92  30 s – 45  40 s – 72  10 m (20 Cycles)/
+72  10 m
+
+N: negative in PCR; NA: not applicable.
+
+Genes
+
+Oligonucleotide sequence (50–30)
+
+Int ICS
+
+F: GGCATCCAAGCAGCAAG
+
+PCR condition
+
+94  5 m/
+
+Amplicon size
+(bp)
+
+References
+
+Variable
+
+Levesque et al., 1995
+
+Accession number
+obtained
+
+KJ851208
+KJ775803
+KM403389
+KM403389
+KM272943
+
+Bandyopadhyay et al. (2012)
+
+N
+
+Mohapatra and Mazumder
+(2008)
+
+NA
+
+Bandyopadhyay et al. (2012)
+
+NA
+
+8
+6
+
+D
+
+.
+
+K
+a
+r
+
+e
+t
+
+a
+l
+.
+
+/
+I
+n
+f
+e
+c
+t
+i
+o
+n
+
+,
+
+G
+e
+n
+e
+t
+i
+c
+s
+
+a
+n
+d
+
+E
+v
+o
+l
+u
+t
+i
+o
+n
+
+2
+9
+
+(
+2
+0
+1
+5
+)
+
+8
+2
+–
+9
+0
+
+Table 3
+Antibiotic resistance and virulent gene proﬁle and drug resistance pattern of ESBL producing Escherichia coli isolates from poultry and cattle in Odisha, India.
+
+Isolate proﬁle
+
+Isolate
+
+PEC1
+PEC2
+
+PEC3
+
+PEC4
+
+PEC5
+PEC6
+
+PEC7
+
+PEC8
+
+PEC9
+PEC 10
+PEC 11
+
+PEC 12
+PEC 13
+
+PEC 14
+PEC 15
+PEC 16
+MEC 1
+MEC 2
+
+CC-DDS and
+ACBL E-test
+
+District
+Khurda  
+Khurda  
+
+Khurda  
+
+Khurda  
+
+Cuttack  
+Cuttack  
+
+Cuttack  
+
+Cuttack  
+
+Balasore  
+Balasore +
+ 
+Puri
+
+Puri
+Puri
+
+ 
+ 
+
+Ganjam  
+Khurda  
+Ganjam  
+Khurda  
+Balasore +
+
+Virulence and antibiotic
+resistance determinants
+
+Antibiotic resistance proﬁle
+
+MIC (lg/mL)
+
+CPD CTR CAZ CTX CFP ATZ CPM CIP AMC TE COT C IMP TOB CZX CPT GAT NX LOM LE PB PIT AK CTX CAZ CTR
+
+ATZ
+
+R
+
+R
+
+R
+
+R
+
+R
+R
+
+blaTEM, blaCTXM, int1, sul1 R
+blaTEM, blaCTXM, blaSHV,
+R
+int1
+blaTEM, blaCTXM, blaSHV,
+int1, sul1, astA,
+blaTEM, blaCTXM, blaSHV,
+int1
+blaTEM, blaSHV, int1, sul1
+blaTEM, blaCTXM, blaSHV,
+int1, sul1
+blaTEM, blaCTXM, blaSHV,
+int1
+blaTEM, blaCTXM, blaSHV,
+int1, sul1
+blaSHV, int1, sul1
+blaSHV, blaampC, int1
+blaCTXM, blaSHV, int1, tsh,
+iucD, sul1
+blaCTXM, blaSHV, int1, tsh
+blaCTXM, blaSHV, int1, tsh,
+iucD, sul1
+blaSHV, int1, qnrB, astA, sul1 R
+blaCTXM, blaSHV, astA
+R
+blaCTXM, blaSHV, astA, iucD R
+R
+blaSHV, int1
+blaTEM, blaCTXM, blaSHV,
+R
+blaampC, int1
+
+R
+R
+R
+
+R
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+R
+
+R
+R
+
+R
+R
+R
+R
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+R
+
+R
+R
+
+R
+R
+R
+R
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+R
+
+R
+R
+
+R
+R
+R
+R
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+R
+
+R
+R
+
+R
+R
+R
+R
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+R
+
+R
+R
+
+R
+R
+R
+R
+R
+
+R
+S
+
+S
+
+I
+
+R
+I
+
+R
+
+R
+
+R
+R
+R
+
+I
+R
+
+S
+R
+R
+R
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+R
+
+I
+R
+
+R
+R
+R
+I
+S
+
+R
+R
+
+R
+
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+R
+
+R
+R
+
+R
+R
+R
+I
+R
+
+R
+R
+
+R
+
+I
+
+R
+R
+
+I
+
+R
+
+R
+R
+R
+
+R
+R
+
+R
+R
+R
+S
+S
+
+R
+R
+
+R
+
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+R
+
+R
+R
+
+R
+R
+R
+I
+S
+
+R I
+R I
+
+R R
+
+R I
+
+R I
+R I
+
+S S
+
+R I
+
+I R
+R I
+R I
+
+R R
+I
+I
+
+I
+S
+S S
+R R
+S R
+S S
+
+R
+R
+
+R
+
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+R
+
+R
+S
+
+S
+S
+S
+R
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+R
+
+R
+R
+
+R
+R
+R
+R
+R
+
+R
+R
+
+R
+
+S
+
+R
+R
+
+S
+
+S
+
+R
+S
+R
+
+R
+R
+
+R
+R
+R
+R
+R
+
+R
+S
+
+R
+
+R
+
+R
+R
+
+R
+
+R
+
+R
+S
+R
+
+R
+R
+
+S
+R
+S
+R
+S
+
+R
+S
+
+R
+
+R
+
+R
+R
+
+R
+
+R
+
+R
+I
+R
+
+R
+S
+
+R
+R
+I
+R
+S
+
+R
+R
+
+R
+
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+R
+
+R
+S
+
+R
+R
+S
+R
+R
+
+R
+I
+
+R
+
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+R
+
+R
+R
+
+R
+R
+R
+R
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+R
+
+R
+R
+
+R
+R
+I
+R
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+
+R
+
+R
+
+R
+R
+R
+
+R
+R
+
+R
+R
+R
+R
+R
+
+S
+S
+
+S
+
+I
+
+I
+I
+
+I
+
+I
+
+S
+R
+S
+
+I
+R
+
+S
+R
+R
+R
+R
+
+10 240
+10
+60
+
+60
+5
+0.01 60
+
+5 240
+
+30
+
+5
+
+60
+
+0.01
+
+60 240 240
+5
+5
+
+30
+
+60
+
+10
+
+60
+
+30
+
+10 240
+5 240
+60
+30
+
+60
+
+30
+
+10
+10
+30
+
+10 240
+10
+60
+
+0.1
+5
+
+5
+
+5
+
+60
+5
+
+60
+
+60
+
+5
+10
+60
+
+5
+5
+
+5
+5 240
+5 240
+5 240
+240 240
+
+30 240
+10
+10
+30
+0.1
+
+0.1
+5
+30
+60
+60
+
+R: resistant; I: intermediately resistant; S: sensitive; AK: amikacin; AMC: amoxicillin–clavulanic acid; ATZ: aztreonam; AZM: azithromycin; C: chloramphenicol; CTR: ceftriaxone; CFP: cefepirome; CZX: ceftizoxime; CPT:
+cefepime–tazobactam; CPD: cefpodoxime; CAZ: ceftazidime; CTX: cefotaxime; CPM: cefepime; CIP: ciproﬂoxacin; COT: co-trimoxazole; GAT: gatiﬂoxacin; IMP: imipenem; LE: levoﬂoxacin; LOM: lomeﬂoxacin; NX: norﬂoxacin;
+PIT: piperacillin–tazobactam; PB: polymyxinB; TE: tetracycline; TOB: tobramycin.
+
+D
+
+.
+
+K
+a
+r
+
+e
+t
+
+a
+l
+.
+
+/
+
+I
+n
+f
+e
+c
+t
+i
+o
+n
+
+,
+
+G
+e
+n
+e
+t
+i
+c
+s
+
+a
+n
+d
+
+E
+v
+o
+l
+u
+t
+i
+o
+n
+
+2
+9
+
+(
+2
+0
+1
+5
+)
+
+8
+2
+–
+9
+0
+
+8
+7
+
+88
+
+D. Kar et al. / Infection, Genetics and Evolution 29 (2015) 82–90
+
+Fig. 1. Phylogenetic analysis of ESBL producing Escherichia coli isolates isolated from poultry and cattle in Odisha (India). The neighbor-joining method was used to
+summarize the similarity of RAPD PCR proﬁles of the strains in a dendrogram containing ﬁve major clusters (A–E).
+
+Fig. 2. Phylogenetic analysis of ESBL producing Escherichia coli isolates isolated from poultry and cattle in Odisha (India). The neighbor-joining method was used to
+summarize the similarity of ERIC PCR proﬁles of the strains in a dendrogram containing four major clusters (A–D).
+
+All the 18 ESBL producing strains were characterized by RAPD
+and ERIC PCR to determine the genetic diversity and phylogenetic
+relationship among the strains. In RAPD, all the isolates were type-
+able and produced amplicon size ranging from 268 to 2322 bp
+(Fig. 1) and were grouped in ﬁve different clusters (A–E). Of them,
+cluster A (PEC 5), B (PEC 14) and E (MEC 1) contained one isolate in
+each clade. Most of the poultry isolates were placed under the two
+sub-clusters of cluster D. All the strains were typeable with ERIC
+PCR with ampliﬁed fragment size ranging from 104 to 3222 bp
+(Fig. 2). Upon analysis, all the 18 isolates were distributed in 4 clus-
+ters (A–D) wherein cluster A (MEC1) and cluster D (PEC2) harbored
+one isolate in each clade. In cluster B, 4 poultry isolates (PEC 13,
+PEC 14, PEC 15 and PEC 16) were grouped with one cattle isolate
+(MEC 2). It is interesting to note that, 11 poultry isolates were
+grouped in a single cluster (C), and six of them in two separate
+groups [(PEC4, PEC 6, PEC 7 and PEC 8); (PEC 9 and PEC 11)]
+produced similar band pattern.
+
+4. Discussion
+
+In recent past, there has been increased resistance to beta-
+lactam antibiotics due to plasmid mediated acquisition of ESBL
+
+producing genes predominantly by E. coli and Klebsiella of Entero-
+bacteriaceae family. Although most of the studies conducted on
+ESBL producers are conﬁned within the hospital premises, focus
+should also be given on its occurrence and dissemination in food
+producing animals as recent reports by several researchers also
+indicate its presence in chicken meat and raw milk (Geser et al.,
+2012; Lyhs et al., 2012). However, this knowledge is so far limited
+in India. Hence, the present study was undertaken to study the
+occurrence of multidrug resistant (MDR) ESBL producing E. coli in
+poultry and cattle in Odisha (India).
+
+coli
+
+in poultry (16 of 170 samples) was
+
+In total, ESBL producing E. coli were detected in 5.9% (18 of 305)
+of cattle milk and poultry fecal samples screened from ﬁve differ-
+ent districts of Odisha. There was no signiﬁcant difference in the
+occurrence of ESBL producers in different districts (p = 0.9,
+v2 = 0.89, df = 4). However, the occurrence of ESBL producing
+signiﬁcantly
+E.
+(p = 0.0057, v2 = 7.6, df = 1) higher than in cattle (2 of 135 samples)
+(Table 1). There is hardly any report available in livestock sector
+from India to corroborate with our ﬁndings. Even in a recent study
+conducted in backyard poultry in a neighboring state by this group
+of authors, no such ESBL producing E. coli were found (Samanta et al.,
+2014). Although occurrence of New Delhi metallo-beta-lactamase
+and ESBL producing E. coli was reported in bovine mastitis
+
+D. Kar et al. / Infection, Genetics and Evolution 29 (2015) 82–90
+
+89
+
+(Ghatak et al., 2013), such report did not elaborate on sampling
+pattern or size and prevalence rate. In contrast, the occurrence of
+ESBL producing E. coli has been increasingly reported in human
+patients over last few years from various states of India including
+Odisha (Mukherjee et al., 2013; Oberoi et al., 2013; Rath et al.,
+2014). In this study, two of ESBL producing isolates were conﬁrmed
+as ACBL producers by CC-DDS test and PCR. Although, no report on
+prevalence of ACBL producing E. coli in cattle or poultry are avail-
+able from India till date, such coproduction of ESBL and ACBL is
+not uncommon among human isolates (Oberoi et al., 2013).
+
+Although, full sequencing of the b-lactamase genes was not per-
+formed in the present study, some indications can be deduced from
+the sequences of the PCR products. In particular, sequence analysis
+of blaSHV gene detected in 17 ESBL producers in this study revealed
+to have two substitutions [G238S + E240K] usually found in SHV-
+12. The SHV-12 allele has been reported in almost all the ESBL pro-
+ducing Enterobacteriaceae across the globe which indicates that it is
+possibly a part of worldwide disseminating mobile element
+(Schmitt et al., 2007). Similarly, BLAST analysis of the ampliﬁed
+blaCTX-M gene indicated that the ESBL producers of the present
+study possibly carried the genes for CTX-M-15 enzyme which
+has been widely reported among ESBL isolates from various
+countries including India (Muzaheed et al., 2009). In contrast, the
+blaTEM sequence (KF906263) obtained in this study signiﬁcantly
+aligned with TEM-1, a non-ESBL enzyme. However,
+it is not
+uncommon to detect TEM-1 among ESBL producers, as several
+TEM-1 variants were also reported to confer ESBL properties in
+previous studies (Diwan et al., 2012). Furthermore, 13 of the 18
+ESBL producers which carried blaTEM gene were also positive for
+blaSHV and or blaCTX-M genes. Therefore, the possible role of these
+genes either alone or in combination for ESBL production cannot be
+ruled out.
+
+Integrons are important genetic elements responsible for car-
+riage and spread of antibiotic resistance determinants including
+ESBL enzymes. Most of the ESBL isolates (16/18; 88.88%) in this
+study carried class I integron with or without the virulence genes
+associated with extra-intestinal infection such as astA, tsh and iucD
+(Table 3). It is in corroboration with previous ﬁndings where class I
+integron was detected in large proportion of ESBL producing ExPEC
+isolated from human patients with urinary tract infection (Sun
+et al., 2013). Sequence analysis of the ampliﬁed variable region of
+class I integron revealed that the integrons possessed dfrA12 and
+aadA2 gene cassettes conferring resistance to trimethoprim and
+streptomycin as reported by several researchers previously (Sun
+et al., 2013). This kind of gene cassette arrangement may be
+responsible for emergence of multiple drug resistance among ESBL
+producers isolated in this study.
+
+Emergence of PMQR has been reported worldwide and is being
+documented in ESBL producers in recent days (Pasom et al., 2013).
+In the present study, none of the ESBL producing E. coli, except PEC
+14 having qnrB, was found positive for any of the qnr markers
+despite the fact that most of them were resistant to ﬂuoroquino-
+lones tested in this study. Role of other resistance mechanisms like
+mutations in the quinolone resistance determining region or pres-
+ence of aac(60)-Ib-cr gene could also be one of the possible reasons
+for ﬂuoroquinolone resistance as documented earlier in India
+(Diwan et al., 2012). Further, majority of the ESBL producing iso-
+lates in the present study were susceptible to amikacin (78%)
+and imipenem (73%) which is in agreement with a recent ﬁnding
+from Bhopal (Shashwati et al., 2014). Although, few isolates were
+resistant or intermediately resistant to imipenem, none were carb-
+apenemase or MBL producer as evidenced by MHT and CDDT. Fur-
+thermore, none of them were positive for blaNDM gene. Such
+carbapenem resistance could have resulted from high expression
+of ACBL or ESBL in combination with porin loss (Cohen Stuart
+and Leverstein-Van Hall, 2010). Remarkably, all the ESBL producers
+
+of this study were resistant to amoxicillin–clavulanic acid and
+polymyxin B. Various mechanisms like overproduction of beta-lac-
+tamases (TEM and SHV), inhibitor-resistant TEM beta-lactamase or
+penicillinase and ACBL (as detected in 2 isolates) are believed to
+trigger AMC resistance in E. coli isolates (Belmar-Liberato et al.,
+2011). Although resistance to polymyxin B is rare among
+Gram-negative bacteria, this has been recently detected in an
+E. coli isolate possessing CTX-M-15 enzyme from human patient
+(Urban et al., 2011). Indiscriminate use of polymyxin B or other
+related antimicrobial peptide like colistin (polymyxin E) in poultry
+for Gram negative infections may have led to selection of
+polymyxin-resistant ESBL producing E. coli, probably due to
+altered membrane permeability or efﬂux mechanism (Urban
+et al., 2011).
+
+Various virulence markers of ExPEC like tsh, iucD and astA were
+detected in few ESBL producing E. coli strains from poultry in the
+present study (Table 3). This ﬁnding cannot be compared as the
+occurrence of virulence markers of ExPEC in ESBL producers is
+rarely reported. However, in our previous study in the backyard
+poultry sector of West Bengal, about 14.3% of the E. coli isolates
+were found positive for astA gene; although they did not possess
+other virulence or beta-lactamase genes probably due to
+differences in the rearing practices of poultry in backyard farming
+(Samanta et al., 2014). Likewise, Lyhs et al. (2012) could not detect
+any ESBL producing ExPEC from poultry in Finland. In contrast,
+ESBL producing ExPEC was reported from dogs and cats in
+Switzerland (Huber et al., 2013). Detection of ExPEC markers
+among ESBL producers is a serious public health concern as such
+resistant ExPEC may contaminate the poultry meat and upon
+consumption by human beings may cause serious extraintestinal
+infection.
+
+In general, phylogenetic analysis using RAPD and ERIC PCR was
+found effective for determination of genomic diversity among the
+ESBL producing E. coli strains. Few isolates displayed almost iden-
+tical phylogenetic picture using both the tools. Two sets of poultry
+isolates (PEC 9, PEC 10 and PEC 11; PEC 3 and PEC 5) were placed in
+same sub-clusters in both the RAPD and ERIC PCR based dendro-
+grams. Likewise, poultry isolates (PEC 14, PEC 15 and PEC 16) were
+also grouped together with the cattle isolate (MEC 2). Altogether, it
+indicated genetic relatedness among these isolates despite the fact
+that they were isolated from different animals and different areas
+of Odisha. Furthermore, the cattle isolate (MEC 1) was placed in a
+separate cluster in both the tools (cluster E in RAPD and cluster A in
+ERIC) indicating the possibility of a distinct ancestral lineage of this
+isolate. Interestingly, the isolates (PEC4, PEC 6, PEC 7 and PEC 8)
+which produced similar band pattern in ERIC PCR were differenti-
+ated by RAPD. In contrast, the isolates (PEC 8 and PEC 12) grouped
+in one sub-cluster in RAPD were placed in separate clusters in ERIC
+PCR. The incongruity of the two tools may have reﬂected the differ-
+ence of the target regions of the tools as randomly selected parts of
+the chromosome are explored in RAPD PCR whereas the intergenic
+regions of polycistronic operons or untranslated regions upstream
+or downstream of open reading frames are screened by ERIC PCR
+(Bandyopadhyay et al., 2012). Although, no RAPD/ERIC speciﬁc
+proﬁle could be established based on the source (host) of isolation,
+virulence pattern or resistance gene proﬁle, both the tools were
+effective for differentiation of ESBL producing E. coli isolates, as
+most of the strains emerged as single lineage using both the typing
+methods. This is in corroboration with our previous observations
+among the E. coli
+isolates from poultry and other bovines
+(Bandyopadhyay et al., 2012; Mahanti et al., 2013; Samanta
+et al., 2014).
+
+This is the ﬁrst ever systematic study on occurrence and
+characterization of MDR ESBL producing E. coli from food produc-
+ing animals in India. Some of these isolates also harbored virulence
+markers of ExPEC which is really a grave public health concern.
+
+90
+
+D. Kar et al. / Infection, Genetics and Evolution 29 (2015) 82–90
+
+Further study is required to ﬁnd out the nature of selective pres-
+sure instrumental in promoting the recombination of such viru-
+lence and resistance genes in animals.
+
+Appendix A. Supplementary data
+
+Supplementary data associated with this article can be found, in
+the online version, at http://dx.doi.org/10.1016/j.meegid.2014.
+11.003.
+
+References
+
+Andrews, J., 2012. Detection of extended-spectrum beta-lactamases (ESBLs) in
+E. coli and Klebsiella species. Brit. Soc. Antimicrob. Chemother., http://
+bsac.org.uk/wp-content/uploads/2012/02/Ecoliklebsiella.pdf.
+
+Bandyopadhyay, S., Lodh, C., Sarkar, M., Ghosh, M.K., Bera, A.K., Bhattacharyya, D.,
+Mondal, D.K., Baruah, K.K., 2012. Prevalence, molecular ﬁngerprinting and drug
+resistance proﬁle of enterovirulent Escherichia coli isolates from free-ranging
+yaks of Tawang district, Arunachal Pradesh, India. Trop. Anim. Health Product.
+44, 1063–1072.
+
+Belmar-Liberato, R., Gonzalez-Canga, A., Tamame-Martin, P., Escribano-Salazar, M.,
+2011. Amoxicillin and amoxicillin–clavulanic acid resistance in veterinary
+medicine – the situation in Europe: a review. Vet. Med. 56, 473–485.
+
+Bhattacharjee, A., Sen, M.R., Anupurba, S., Prakash, P., Nath, G., 2007. Detection of
+isolates of
+
+OXA-2 group extended-spectrum-b-lactamase-producing clinical
+Escherichia coli from India. J. Antimicrob. Chemother. 60, 703–704.
+
+Birgy, A., Bidet, P., Genel, N., Doit, C., Decré, D., Arlet, G., Bingen, E., 2012. Phenotypic
+screening of carbapenemases and associated b-lactamases in carbapenem-
+resistant Enterobacteriaceae. J. Clin. Microbiol. 50, 1295–1302.
+
+Ciesielczuk, H., Hornsey, M., Choi, V., Woodford, N., Wareham, D., 2013.
+Development and evaluation of a multiplex PCR for eight plasmid-mediated
+quinolone-resistance determinants. J. Med. Microbiol. 62, 1823–1827.
+
+CLSI, 2014. Performance standards for antimicrobial susceptibility testing, Clinical
+and Laboratory Standard Institute. CLSI document, Wayne, PA, pp. M100–S124.
+Cohen Stuart, J., Leverstein-Van Hall, M.A., 2010. Guideline for phenotypic screening
+and conﬁrmation of carbapenemases in Enterobacteriaceae. Int. J. Antimicrob.
+Agents 36, 205–210.
+
+Diwan, V., Chandran, S.P., Tamhankar, A.J., Lundborg, C.S., Macaden, R., 2012.
+Identiﬁcation of extended-spectrum b-lactamase and quinolone resistance
+genes in Escherichia coli isolated from hospital wastewater from central India. J.
+Antimicrob. Chemother. 67, 857–859.
+
+Dutta, T.K., Warjri, I., Roychoudhury, P., Lalzampuia, H., Samanta, I., Joardar, S.N.,
+Bandyopadhyay, S., Chandra, R., 2013. Extended spectrum b-lactamase
+producing Escherichia coli
+isolate possessing the shiga toxin gene (stx1)
+belonging to the O64 serogroup associated with human disease in India. J.
+Clin. Microbiol. 51, 2008–2009.
+
+Ewers, C., Antão, E.-M., Diehl, I., Philipp, H.C., Wieler, L.H., 2009. Intestine and
+environment of the chicken as reservoirs for extraintestinal pathogenic Escherichia
+coli strains with zoonotic potential. Appl. Environ. Microbiol. 75, 184–192.
+
+Geser, N., Stephan, R., Hachler, H., 2012. Occurrence and characteristics of
+extended-spectrum beta-lactamase (ESBL) producing Enterobacteriaceae in
+food producing animals, minced meat and raw milk. BMC Vet. Res. 8, 21.
+
+Ghatak, S., Singha, A., Sen, A., Guha, C., Ahuja, A., Bhattacharjee, U., Das, S., Pradhan,
+N.R., Puro, K., Jana, C., Dey, T.K., Prashantkumar, K.L., Das, A., Shakuntala, I.,
+Biswas, U., Jana, P.S., 2013. Detection of New Delhi metallo-beta-lactamase and
+extended-spectrum beta-lactamase genes in Escherichia coli
+isolated from
+mastitic milk samples. Transbound. Emerg. Dis. 60, 385–389.
+
+Huber, H., Zweifel, C., Wittenbrink, M.M., Stephan, R., 2013. ESBL-producing
+uropathogenic Escherichia coli isolated from dogs and cats in Switzerland. Vet.
+Microbiol. 162, 992–996.
+
+Kerrn, M., Klemmensen, T., Frimodt-Møller, N., Espersen, F., 2002. Susceptibility of
+Danish Escherichia coli strains isolated from urinary tract infections and
+bacteraemia,
+sul genes
+conferring sulphonamide
+resistance. J. Antimicrob. Chemother. 50, 513–516.
+
+and distribution of
+
+Levesque, C., Piche, L., Larose, C., Roy, P.H., 1995. PCR mapping of integrons reveals
+several novel combinations of resistance genes. Antimicrob. Agents Chemother.
+39, 185–191.
+
+Lyhs, U., Ikonen, I., Pohjanvirta, T., Raninen, K., Perko-Makela, P., Pelkonen, S., 2012.
+Extraintestinal pathogenic Escherichia coli in poultry meat products on the
+Finnish retail market. Acta Vet. Scand. 54, 64.
+
+Machado, E., Coque, T.M., Canton, R., Sousa, J.C., Peixe, L., 2008. Antibiotic resistance
+integrons and extended-spectrum beta-lactamases among Enterobacteriaceae
+isolates recovered from chickens and swine in Portugal.
+J. Antimicrob.
+Chemother. 62, 296–302.
+
+Mahanti, A., Samanta, I., Bandyopadhyay, S., Joardar, S.N., Dutta, T.K., Batabyal, S.,
+Sar, T.K., Isore, D.P., 2013. Isolation, molecular characterization and antibiotic
+resistance of Shiga Toxin-Producing Escherichia coli (STEC) from buffalo in India.
+Lett. Appl. Microbiol. 56, 291–298.
+
+Mohapatra, B., Mazumder, A., 2008. Comparative efﬁcacy of ﬁve different rep-PCR
+methods to discriminate Escherichia coli populations in aquatic environments.
+Water Sci. Technol. 58, 537.
+
+Mukherjee, M., Basu, S., Mukherjee, S.K., Majumder, M., 2013. Multidrug resistance
+and extended spectrum beta-lactamase production in uropathogenic E. coli
+which were isolated from hospitalized patients in Kolkata, India. J. Clin. Diagn.
+Res. 7, 449–453.
+
+Muzaheed, Doi, Y., Adams-Haduch, J.M., Shivannavar, C.T., Paterson, D.L., Gaddad,
+S.M., 2009. Faecal carriage of CTX-M-15-producing Klebsiella pneumoniae in
+patients with acute gastroenteritis. Indian J. Med. Res. 129, 599–602.
+
+Oberoi, L., Singh, N., Sharma, P., Aggarwal, A., 2013. ESBL, MBL and Ampc beta
+lactamases producing superbugs havoc in the intensive care units of Punjab
+India. J. Clin. Diagn. Res. 7, 70–73.
+
+Oteo, J., Bautista, V., Lara, N., Cuevas, O., Arroyo, M., Fernandez, S., Lazaro, E., de
+Abajo, F.J., Campos, J., 2010. Parallel increase in community use of fosfomycin
+and resistance to fosfomycin in extended-spectrum beta-lactamase (ESBL)-
+producing Escherichia coli. J. Antimicrob. Chemother. 65, 2459–2463.
+
+Pasom, W., Chanawong, A., Lulitanond, A., Wilailuckana, C., Kenprom, S., Puang-
+Ngern, P., 2013. Plasmid-mediated quinolone resistance genes, aac (60)-Ib-cr,
+qnrS, qnrB, and qnrA, in urinary isolates of Escherichia coli and Klebsiella
+pneumoniae at a teaching hospital, Thailand.
+Infect. Dis. 66, 428–
+432.
+
+Jap.
+
+J.
+
+Polsfuss, S., Bloemberg, G.V., Giger, J., Meyer, V., Bottger, E.C., Hombach, M., 2011.
+Practical approach for reliable detection of AmpC beta-lactamase-producing
+Enterobacteriaceae. J. Clin. Microbiol. 49, 2798–2803.
+
+Quinn, P.J., Carter, M., Markey, B., Carter, G.R., 1994. Clinical Veterinary
+
+Microbiology. Mosby Wolfe, Wolfe, UK.
+
+Rath, S., Dubey, D., Sahu, M.C., Padhy, R.N., 2014. Surveillance of ESBL producing
+multidrug resistant Escherichia coli in a teaching hospital in India. Asian Pac. J.
+Trop. Dis. 4, 140–149.
+
+Samanta, I., Joardar, S.N., Das, P.K., Das, P., Sar, T.K., Dutta, T.K., Bandyopadhyay, S.,
+Batabyal, S.,
+Isore, D.P., 2014. Virulence repertoire, characterization, and
+antibiotic resistance pattern analysis of Escherichia coli isolated from backyard
+layers and their environment in India. Avian Dis. 58, 39–45.
+
+Schmitt, J., Jacobs, E., Schmidt, H., 2007. Molecular characterization of extended-
+spectrum beta-lactamases in Enterobacteriaceae from patients of two hospitals
+in Saxony, Germany. J. Med. Microbiol. 56, 241–249.
+
+Shahid, M., Sobia, F., Singh, A., Khan, H.M., 2012. Concurrent occurrence of blaampC
+families and blaCTX-M genogroups and association with mobile genetic
+elements ISEcp1, IS26, ISCR1, and sul1-type class 1 integrons in Escherichia
+coli and Klebsiella pneumoniae isolates originating from India. J. Clin. Microbiol.
+50, 1779–1782.
+
+Shashwati, N., Kiran, T., Dhanvijay, A., 2014. Study of extended spectrum b-
+lactamase producing Enterobacteriaceae and antibiotic coresistance in a tertiary
+care teaching hospital. J. Nat. Sci. Biol. Med. 5, 30–35.
+
+Sun, J., Zheng, F., Wang, F., Wu, K., Wang, Q., Chen, Q., Yu, S., Rui, Y., 2013. Class 1
+Integrons in urinary isolates of extended spectrum beta-lactamase producing
+Escherichia coli and Klebsiella pneumoniae in southern China during the past ﬁve
+years. Microb. Drug Resist. 19, 289–294.
+
+Urban, C., Tiruvury, H., Mariano, N., Colon-Urban, R., Rahal, J.J., 2011. Polymyxin-
+resistant clinical isolates of Escherichia coli. Antimicrob. Agents Chemother. 55,
+388–389.
+Van Bost, S.,
+
+J., 2003. Multiplex PCRs for
+identiﬁcation of necrotoxigenic Escherichia coli. J. Clin. Microbiol. 41, 4480–
+4482.
+
+Jacquemin, E., Oswald, E., Mainil,
+
+

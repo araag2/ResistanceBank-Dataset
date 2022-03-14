@@ -1,0 +1,1303 @@
+Original research
+published: 09 January 2017
+doi: 10.3389/fpubh.2016.00287
+
+Occurrence of hybrid Escherichia 
+coli strains carrying shiga Toxin  
+and heat-stable Toxin in livestock  
+of Bangladesh
+
+Fatema-Tuz Johura1, Rozina Parveen1, Atiqul Islam1, Abdus Sadique1, Md Niaz Rahim1, 
+Shirajum Monira1, Anisur R. Khan2, Sunjukta Ahsan2, Makoto Ohnishi3, Haruo Watanabe3, 
+Subhra Chakraborty4, Christine M. George4, Alejandro Cravioto1, Armando Navarro5, 
+Badrul Hasan6 and Munirul Alam1*
+
+1 International Center for Diarrheal Disease Research, Bangladesh (icddr,b), Dhaka, Bangladesh, 2 Department of 
+Microbiology, University of Dhaka, Dhaka, Bangladesh, 3 National Institute of Infectious Diseases, Tokyo, Japan, 4 Johns 
+Hopkins Bloomberg School of Public Health, Baltimore, MD, USA, 5 Department of Public Health, Faculty of Medicine, 
+Universidad Nacional Autónoma de Mexico, Mexico City, Mexico, 6 Infectious Disease, Department of Medical Sciences, 
+Uppsala University, Uppsala, Sweden
+
+Shiga  toxin-producing  Escherichia  coli  (STEC)  and  enterotoxigenic  E.  coli  (ETEC)  are 
+important  causes  of  diarrhea  in  humans  and  animals  worldwide.  Although  ruminant 
+animals  are  the  main  source  of  STEC,  diarrhea  due  to  this  pathotype  is  very  low  in 
+Bangladesh  where  ETEC  remains  the  predominant  group  associated  with  childhood 
+diarrhea. In the present study, E. coli strains (n = 35) isolated from Bangladesh livestock 
+(goats, sheep, and cattle) and poultry (chicken and ducks) were analyzed for the pres-
+ence  of  major  virulence  factors,  such  as  Shiga  toxins  (STX-1  and  STX-2),  heat-labile 
+toxin, and heat-stable toxins (STa and STb). Multiplex polymerase chain reaction results 
+revealed 23 (66%) E. coli strains to be virulent possessing either sta (n = 5), stx (stx1, 
+n = 8; stx2, n = 2), or both (n = 8) genes in varying combinations. Thirty-four percent 
+(8/23)  of  strains  from  livestock  were  hybrid  type  that  carried  both  stx  (either  stx1  or 
+stx2) and ETEC-specific enterotoxin gene sta. Serotyping results revealed that the ETEC 
+strains  belonged  to  five  serotypes,  namely  O36:H5,  O174:H−,  O152:H8,  O109:H51, 
+and O8:H21, while the STEC-producing strains belonged to serotypes O76:H19 (n = 3), 
+O43:H2  (n =  2),  O87:H16  (n =  2),  OR:H2  (n =  1),  O110:H16  (n =  1),  and  O152:H8 
+(n = 1). The STEC–ETEC hybrid strains belonged to serotypes O76:H19 (n = 3), O43:H2 
+(n = 2), O87:H16, OR:H2, and O152:H8. Forty percent (2/5) of the ETEC and 20% (2/10) 
+of the STEC strains were multidrug resistant with the highest drug resistance (50%) being 
+found in the hybrid strains. Molecular fingerprinting determined by pulsed-field gel elec-
+trophoresis and cluster analyses by dendrogram revealed that, genetically, STEC–ETEC 
+hybrid strains were highly heterogeneous. Multidrug-resistant E. coli STEC–ETEC hybrid 
+strains in domesticated animals pose a public health threat for humans in Bangladesh.
+
+Keywords: shiga-toxin, enterotoxin, livestock, hybrid, multidrug resistant, PFge
+
+Edited by: 
+Mohiuddin Md. Taimur Khan,  
+Washington State University, USA
+
+Reviewed by: 
+M. Jahangir Alam,  
+University of Houston, USA  
+Nehreen Majed,  
+University of Asia Pacific, Bangladesh
+
+*Correspondence:
+Munirul Alam  
+munirul@icddrb.org
+
+Specialty section: 
+This article was submitted to 
+Environmental Health,  
+a section of the journal  
+Frontiers in Public Health
+
+Received: 13 October 2016
+Accepted: 19 December 2016
+Published: 09 January 2017
+
+Citation: 
+Johura FT, Parveen R, Islam A, 
+Sadique A, Rahim MN, Monira S, 
+Khan AR, Ahsan S, Ohnishi M, 
+Watanabe H, Chakraborty S, 
+George CM, Cravioto A, Navarro A, 
+Hasan B and Alam M (2017) 
+Occurrence of Hybrid Escherichia coli 
+Strains Carrying Shiga Toxin and 
+Heat-Stable Toxin in Livestock of 
+Bangladesh.  
+Front. Public Health 4:287.  
+doi: 10.3389/fpubh.2016.00287
+
+Frontiers in Public Health  |  www.frontiersin.org
+
+1
+
+January 2017  |  Volume 4  |  Article 287
+
+Johura et al.
+
+inTrODUcTiOn
+
+Escherichia  coli  is  commonly  regarded  as  a  non-pathogenic 
+beneficial  inhabitant  of  the  gastrointestinal  tract  but  several 
+pathogenic  strains  acquired  specific  virulence  factors  that 
+are accountable for a variety of intestinal and extra intestinal 
+diseases, including diarrhea, acute inflammation, hemorrhagic 
+colitis, urinary tract infections, septicemia, and neonatal men-
+ingitis  (1–4).  Based  on  virulence  traits,  major  diarrheagenic 
+E. coli pathogroups include shigatoxigenic E. coli, enterotoxi-
+genic E. coli (ETEC), enteropathogenic E. coli, enteroinvasive 
+E. coli, and enteroaggregative E. coli (EAEC) (3). Shiga toxin-
+producing  E.  coli  (STEC)  is  a  pathogen  of  significant  public 
+health  concern  and  infection  by  this  strain  can  result  in  a 
+spectrum  of  outcomes  ranging  from  asymptomatic  carriage 
+to severe diarrhea, as well as bloody diarrhea and hemolytic-
+uremic  syndrome  (HUS)  (5).  The  disease  causing  ability  of 
+STEC  is  associated  with  the  production  of  phage-encoded 
+Shiga-like  toxins  (Stx),  which  are  classified  into  two  major 
+families,  Stx1  and  Stx2  (encoded  by  stx1  and  stx2  genes)  on 
+the basis of toxin neutralization assays and sequence analysis 
+of stx genes. ETEC is the leading cause of diarrhea in travelers 
+from industrialized countries and children living in low-income 
+countries.  ETEC  bacteria  are  largely  defined  by  the  presence 
+of  the  plasmid-encoded  heat-labile  (LT)  and/or  heat-stable  
+(STa/STb) toxins (3).
+
+Ruminants,  especially  cattle,  sheep,  and  goat  are  the  main 
+source of STEC for humans and play an important role in the 
+epidemiology of human infections (6). Meat contamination can 
+facilitate transmission of pathogenic E. coli occurring through 
+unhygienic slaughtering and poor food handling. Screening and 
+characterization of animal STEC helps to identify the origin of 
+human STEC infections. Despite the fact that over 400 STEC 
+serotypes have been identified, only a subset of these have been 
+correlated to human illness (7). Most outbreaks of hemorrhagic 
+colitis and HUS have been associated with STEC O157 strains 
+(5). There are outbreaks reported that are caused by non-O157 
+(8); infections caused by some non-O157 serotypes have also 
+been  frequently  associated  with  severe  illness  in  humans.  In 
+some  geographic  areas,  STEC  non-O157  strains  are  more 
+commonly isolated than STEC O157 strains from persons with 
+diarrhea or HUS (9). Antimicrobial resistance patterns may be 
+an additional epidemiological marker for surveys of non-O157 
+SETC (10).
+
+In human, ETEC strains are associated with one of the most 
+frequent (sometimes fatal) causes of childhood diarrhea in the 
+developing countries and an important causative agent of trave-
+ler’s diarrhea (3). ETEC is also a major cause of severe diarrheal 
+disease in suckling and weanling animals (11). ETEC infections 
+are transmitted through the fecal–oral route. Exposure to ETEC 
+usually comes from contaminated food and drinking water (3). A 
+close genetic relationship has been found between ETEC strains 
+belonging to certain serotypes with diarrhea, which suggest that 
+serotype  analysis  can  be  coupled  with  genetic  typing  to  study 
+strain  clustering  in  epidemiologic  and  pathogenic  studies.  To 
+assess the potential public health risk posed by ETEC and STEC, 
+the  detection  of  virulence  factors,  such  as  heat-stable  toxin  a 
+
+(STa), heat-stable toxin b (STb), heat-labile toxin (LT), stx1, and 
+stx2, is recommended (12–16).
+
+Shigatoxigenic  E.  coli  and  other  diarrheagenic  E.  coli  are 
+capable of acquiring virulence and related genes via horizontal 
+gene transfer leading to the development of pathogroups differ-
+ent from the pre-existing ones (17). Such divergent pathogroups 
+are often reported using different terminology such as “hybrid” 
+(18), “blended virulence profiles,” and “virulence combination” 
+(19). Several studies have reported coexisting STEC- and ETEC-
+associated virulence genes in E. coli strains of human, animal, and 
+environmental origins (17, 20–25). The notorious sprout-borne 
+outbreak  strain  O104:H4  in  Germany  possessed  EAEC-  and 
+STEC-associated virulence genes (18) pointing to the possibil-
+ity of extremely pathogenic strains emerging over a short time 
+period (26).
+
+In Bangladesh, the prevalence of STEC in hospitalized patients 
+with  diarrhea  is  very  low  (0.5%)  (27),  but  it  was  somewhat 
+higher  among  community  cases  with  diarrhea  (1.9%)  (27).  In 
+Bangladesh,  the  predominant  group  of  E.  coli  associated  with 
+childhood diarrhea is ETEC, which accounts for approximately 
+20% of all diarrheal cases (28). Animals seem to be the potential 
+carrier for pathogenic E. coli but there is little data available con-
+cerning animal reservoirs, epidemiology, human pathogenicity, 
+and drug resistance profiles of STEC and ETEC in Bangladesh. In 
+the present study, we report the existence of multidrug-resistant 
+E. coli strains belonging to STEC, ETEC, and a newly emerged 
+STEC–ETEC  hybrid  in  domesticated  animals,  which  pose  a 
+potential public health threat for humans in Bangladesh.
+
+MaTerials anD MeThODs
+
+sample collection, isolation, and 
+identification of E. coli
+Rectal (livestock) and cloacal (bird) samples were collected from 
+a  total  of  35  different  livestock  [goat  (n =  19),  sheep  (n =  9), 
+cattle (n = 2)] and poultry [chicken (n = 3) and duck (n = 2)] 
+between June and August 2007 from the district of Mymensingh, 
+Bangladesh. Sterile cotton swabs were used for the collection of 
+rectal  and  cloacal  samples.  After  collection,  the  cotton  swabs 
+were  dipped  into  Carry-Blair  media  and  stored  in  a  cool  box 
+(4°C). Immediately after sampling, all samples were transported 
+to  the  laboratory  for  analysis.  All  samples  were  streaked  onto 
+MacConkey agar (Difco), and the plates were incubated overnight 
+at 37°C. Bright pink lactose-fermenting colonies were selected as 
+presumptive E. coli. These colonies were again grown on eosin 
+methylene blue agar to examine for the production green colonies 
+with a metallic sheen. One presumptive colony per sample was 
+identified by biochemical tests, as described before (29).
+
+Polymerase chain reaction (Pcr) 
+amplification of Virulence genes
+DNA was extracted from isolated colonies suggestive of E. coli, 
+as described previously (30). The samples were then subjected to 
+molecular analysis of ETEC (sta, stb, elt) and STEC (stx1, stx2) 
+virulence genes using multiplex PCR. The PCR assay conditions 
+are described in Table 1. Each amplification was conducted in a 
+
+Frontiers in Public Health  |  www.frontiersin.org
+
+2
+
+January 2017  |  Volume 4  |  Article 287
+
+Hybrid E. coli in LivestockJohura et al.
+
+TaBle 1 | Primer sequences for STa, STb, LT, Stx1, and Stx2 genes, binding temperature, size of the amplification product, and reference of each 
+primer used.
+
+Primers
+
+sequence
+
+annealing temperature (°c)
+
+size of the amplification 
+
+reference
+
+STa
+
+STb
+
+LT
+
+Stx1
+
+Stx2
+
+TCC CCT CTT TTA GTC AGT CAA CTG
+GCA CAG GCA GGA TTA CAA CAA AGT
+GCA ATA AGG TTG AGG TGA T
+GCC TGC AGT GAG AAA TGG AC
+TTA CGG CGT TAC TAT CCT CTC TA
+GGT CTC GGT CAG ATA TGT GAT TC
+AGA GCG ATG TTA CGG TTT G
+TTG CCC CCA GAG TGG ATG
+TGG GTT TTT CTT CGG TAT C
+GAC ATT CTG GTT GAC TCT CTT
+
+57
+
+55
+
+product (bp)
+
+163
+
+368
+
+275
+
+388
+
+807
+
+Ngeleka et al. (12)
+
+Lortie et al. (13)
+
+Furrer et al. (14)
+
+Jackson et al. (15)
+
+Jackson et al. (16)
+
+volume of 20 µl containing the following reagents: 1 µl template 
+DNA,  0.5  µl  dNTP  (Invitrogen,  Carlsbad,  CA,  USA)  solution 
+(10 mmol 1−1), 1.0 µl of each primer at 5 pmol l−1, 0.6 µl Taq 
+DNA polymerase solution (Invitrogen) (1.5 U μl−1), 2.0 µl PCR 
+reaction buffer solution (10×) with 0.8 µl MgCl2 (50 mmol l−1), 
+and presterilized ultrapure water (Milli-Q) to 20 µl. This mixture 
+was processed in a thermocycler at 94°C for 4 min (denaturation), 
+followed by 30 cycles at 94°C for 1 min (denaturation), annealing 
+temperature (specific for each primer) for 1 min (binding), and 
+at 72°C for 1.5 min (extension). Complete extension of the Taq 
+DNA polymerase was performed at 72°C for 7 min. An aliquot of 
+this reaction containing only water without DNA was used as a 
+negative control. Two multiplex PCR tests were carried out; one 
+for the primer set LT, STa, and STb and the other for the primer 
+set Stx1 and Stx2.
+
+serotyping
+The  rabbit  antisera  against  O1  to  O187strains  were  prepared 
+in  rabbits  (SERUNAM)  according  to  procedures  described  by 
+Ewing (31). The E. coli O1 to O172 strains were obtained from 
+the  Laboratory  of  Gastrointestinal  Pathogens,  Department  of 
+Gastrointestinal, Emerging and Zoonotic Infections, Centre for 
+Infections, Health Protection Agency, London, UK, and the E. coli 
+O173 to O186 strains (32) were obtained from the Statens Serum 
+Institute, Copenhagen.
+
+The strains were serotyped by agglutination assay (33) using 
+96-well micro titer plates and rabbit serum (SERUNAM) obtained 
+against 187 somatic antigens and 53 flagellar antigens for E. coli.
+
+antibiotic susceptibility
+Susceptibility to antibiotics was performed by disk diffusion, as 
+described by Bauer et al. (34) and the Clinical and Laboratory 
+Standards  Institute  (35)  (CLSI),  using  commercial  antibiotic 
+discs.  Thirteen  antibiotics  (Oxoid,  UK)  were  employed:  eryth-
+romycin  (E,  15  µg);  gentamicin  (CN,  10  µg);  trimethoprim/
+sulfamethoxazole (SXT, 30 µg), tetracycline (TE, 30 µg), ampicil-
+lin (AMP, 30 µg), streptomycin (S, 10 µg), azithromycin (AZM, 
+15  µg),  nalidixic  acid  (NA,  30  µg),  ciprofloxacin  (CIP,  5  µg), 
+ceftriaxone  (CRO,  30  µg),  cefixime  (CFM,  5  µg),  mecillinam 
+(MEL,  25  µg),  and  cephalothin  (KF,  30  µg).  Characterizations 
+of  the  resistance  or  susceptibility  profiles  of  the  isolates  were 
+
+determined by measuring the inhibitory zone and comparing it 
+with an established interpretative chart to determine sensitivity 
+to each antibiotic.
+
+Pulsed-Field gel electrophoresis (PFge)
+Whole agarose-embedded genomic DNA from the E. coli isolates 
+was prepared. PFGE was carried out using a contour-clamped 
+homogeneous electrical field (CHEF-DRII) apparatus (Bio-Rad), 
+according to procedures described previously (36). Genomic DNA 
+of the test strains and Salmonella enterica serovar Braenderup was 
+digested using XbaI, with fragments employed as molecular size 
+markers.  Restriction  fragments  were  separated  in  1%  pulsed-
+field-certified agarose in 0.5× TBE (Tris–borate–EDTA) buffer. 
+Post-electrophoresis  gel  treatment  included  both  gel-staining 
+and  de-staining.  The  DNA  was  visualized  using  a  UV  transil-
+luminator, and images were digitized via a one-dimensional gel 
+documentation system (Bio-Rad).
+
+PFge analysis
+The fingerprint pattern in the gel was analyzed using a computer 
+software package, Bionumeric (Applied Maths, Belgium, version 
+3.1).  After  background  subtraction  and  gel  normalization,  the 
+fingerprint  patterns  were  typed  according  to  banding  similar-
+ity  and  dissimilarity,  using  the  Dice  similarity  coefficient  and 
+unweighted-pair  group  method  employing  average  linkage 
+(UPGMA) clustering, as recommended by the manufacturer. The 
+results were graphically represented as dendrograms.
+
+resUlTs
+
+Phenotypic characteristics of E. coli
+All the E. coli strains (n = 35) included in this study produced 
+bright  pink  colonies  on  MacConkey  and  green  colonies  with 
+metallic sheen on EMB agar plates. All strains gave biochemical 
+reactions typical of E. coli.
+
+Virulence gene Profile
+Among the 35 E. coli strains isolated from livestock and poultry 
+in the present study, 23 (66%) (goats: 17, sheep: 4, chicken: 1, and 
+ducks: 1) carried virulence genes, such as, sta and stx, either stx1 
+or stx2, but did not carry stb or elt genes, as confirmed by PCR 
+
+Frontiers in Public Health  |  www.frontiersin.org
+
+3
+
+January 2017  |  Volume 4  |  Article 287
+
+Hybrid E. coli in LivestockJohura et al.
+
+TaBle 2 | serotypes, virulence gene, and drug resistance pattern of E. coli isolated from livestock samples in 2007, Bangladesh.
+
+no. of isolates
+
+Virulence genes
+
+serotype
+
+resistance pattern
+
+source
+
+Sta
+
+Stb 
+
+Lt
+
+Stx1
+
+Stx2
+
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+5
+2
+1
+2
+1
+1
+
++
++
+−
++
+−
++
++
+−
++
+−
+−
++
+−
++
+−
++
+−
+−
++
+−
++
+−
+−
++
+−
++
+−
+
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+
+−
++
++
++
++
++
++
++
++
++
+−
+−
+−
+−
++
++
+−
++
+−
++
++
+−
+−
+−
+−
+−
+−
+
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
++
++
++
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+
+O36:H5
+O43:H2
+O43:H2
+O43:H2
+O76:H19
+O76:H19
+O76:H19
+O76:H19
+O76:H19
+O76:H19
+O87:H16
+O87:H16
+O87:H16
+O174:H−
+OR:H2
+OR:H2
+ND
+O110:H16
+O152:H8
+O152:H8
+O152:H8
+ND
+ND
+O109:H51
+ND
+O8:H21
+ND
+
+ER, AZMR
+ER
+ER
+ER, AZMR, SR
+ER
+ER, KFR
+Sensitive to all antibiotics
+ER
+ER, AZMR, SR
+ER, AZMR, SR, KFR
+ER
+ER, SXTR, AZMR
+ER, SXTR, AZMR, SR
+ER, SXTR, AZMR, KFR
+ER
+ER, CIPR, SXTR, NAR, AZMR, TER, KFR
+ND
+ER
+ER, SR
+Sensitive to all antibiotics
+Sensitive to all antibiotics
+ND
+ND
+ER, CIPR, SXTR, NAR, AZMR
+ND
+ER, AZMR
+ND
+
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Sheep
+Sheep
+Sheep
+Sheep
+Sheep
+Cattle
+Chicken
+Chicken
+Duck
+Duck
+
+E, erythromycin; AZM, azithromycin; S, streptomycin; KF, cephalothin; SXT, trimethoprim/sulfamethoxazole; CIP, ciprofloxacin; NA, nalidixic acid; TE, tetracycline; R, resistant;  
+ND, not done.
+
+(Table 2). Of the 23 strains carrying toxin genes, 5 (22%) had sta, 
+and 10 (44%) had stx genes. Of the 10 E. coli carrying stx gene, 
+8 (80%) harbored only stx1, and 2 (20%) had only stx2. Eight 
+of the 23 (34%) toxigenic strains were hybrid of which 7 (88%) 
+possessed both sta and stx1, while the remaining strain carried 
+both sta and stx2 (Table 2). None of the strains tested presented 
+elt or stb.
+
+serotyping of E. coli
+Based on serotyping, the 23 toxigenic E. coli strains belonged to 
+10 different O serogroups [O8 (n = 1), O36 (n = 1), O43 (n = 4), 
+O76 (n = 6), O87 (n = 3), O109 (n = 1), O110 (n = 1), O152 
+(n = 3), O174 (n = 1), and OR (n = 2)] and 8 different H seo-
+groups [H2 (n = 6), H5 (n = 1), H8 (n = 3), H16 (n = 4), H19 
+(n = 6), H21 (n = 1), H51 (n = 1), and H− (n = 1)]. E. coli strains 
+carrying  virulence  genes  belonged  to  10  different  serotypes: 
+O36:H5 (n = 1), O43:H2 (n = 4), O76:H19 (n = 6), O87:H16 
+(n = 3), O174: H− (n = 1), OR: H2 (n = 2), O110:H16 (n = 1), 
+O152:H8 (n = 3), O109:H51 (n = 1), and O8:H21 (n = 1). None 
+of the tested strains belonged to the EHEC serogroup, as they 
+did not agglutinate with the antisera specific for O157 (Table 2). 
+The ETEC strains (n = 5) belonged to five different serotypes: 
+O36:H5,  O174:  H−,  O152:H8,  O109:H51,  and  O8:H21,  while 
+the  STEC  strains  (n =  10)  belonged  to  six  different  serotypes: 
+O76:H19 (30%), O43:H2 (20%), O87:H16 (20%), OR: H2 (10%), 
+O110:H16 (10%), and O152:H8 (10%) (Figure 1). In the order of 
+
+prevalence of the STEC–ETEC hybrid strains (n = 8), O76:H19 
+was  the  most  prevalent  (37.5%)  serotype,  followed  by  O43:H2 
+(25%), O87:H16 (12.5%), OR: H2 (12.5%), and O152:H8 (12.5%) 
+(Figure 1).
+
+antibiotic assay
+Antibiotic susceptibility assay was performed for the 23 toxigenic 
+strains only, and the results showed 87% of the strains to be resist-
+ant to erythromycin, 43% to azithromycin, 22% to streptomycin, 
+22%  to  trimethoprim/sulfamethoxazole,  17%  to  cephalothin, 
+9% to ciprofloxacin, 9% to nalidixic acid, and 4% to tetracycline 
+(Table 2). All E. coli strains were sensitive to gentamicin, ampicil-
+lin, ceftriaxone, cefixime, and mecillinam. Results also revealed 
+40% (2/5) of the ETEC and 20% (2/10) of the STEC strains to be 
+multidrug resistant (MDR) showing resistance to erythromycin, 
+trimethoprim/sulfamethoxazole,  azithromycin,  cephalothin, 
+ciprofloxacin, and nalidixic acid. The highest MDR was found in 
+the hybrid strains, accounting for 50% (4/8) (Table 2), although 
+the strains varied in their patterns of response to the different 
+drugs tested.
+
+Overall drug response results revealed 11 different resistance 
+patterns among the three pathogroups of E. coli (ETEC, STEC, 
+and hybrids of STEC–ETEC). Resistance patterns I (ER, SR), II 
+(ER, AZMR), III (ER, SXTR, AZMR, KFR), and IV (ER, CIPR, SXTR, 
+NAR, AZMR) were found in ETEC; resistance patterns V (ER), VI 
+(ER, AZMR, SR, KFR), and VII (ER, SXTR, AZMR, SR) in STEC; and 
+
+Frontiers in Public Health  |  www.frontiersin.org
+
+4
+
+January 2017  |  Volume 4  |  Article 287
+
+Hybrid E. coli in LivestockJohura et al.
+
+FigUre 1 | Percentage of different serotypes of three E. coli pathogroups [enterotoxigenic E. coli (eTec), sTec, and eTec–sTec hybrid] from 
+livestock animals (goat and sheep) and poultry (chicken and duck) in Bangladesh.
+
+pattern V (ER), VIII (ER, KFR), IX (ER, AZMR, SR), X (ER, SXTR, 
+AZMR), and XI (ER, CIPR, SXTR, NAR, AZMR, TER, KFR) among 
+the STEC–ETEC hybrid pathotypes (Table 3).
+
+PFge and cluster analysis
+The XbaI-digested genomic DNAs of the E. coli strains carrying 
+virulence genes from animal and poultry were subjected to PFGE 
+to determine genetic relatedness and clonal origin. The number 
+of fragments generated by restriction digestion with XbaI varied 
+between  14  and  19,  and  the  molecular  size  of  the  fragments 
+ranged from 30 to 600 kb. Diverse PFGE patterns obtained from 
+the 23 toxigenic E. coli strains (Figure 2) belonged to multiple 
+small sub-clusters (Figure 2) when dendrograms were prepared 
+with PFGE images by the BioNeumeric software (Applied Maths) 
+using dice similarity coefficient and UPGMA. Although the E. 
+coli strains exhibited high genetic heterogeneity in the PFGE pat-
+terns, four hybrid strains belonging to serotype O76:H19 formed 
+a small tight cluster, suggesting that genetically, they are closely 
+related.
+
+DiscUssiOn
+
+TaBle 3 | antibiotic resistance profiles of the toxigenic E. coli (n = 23) 
+isolates.
+
+Pathotype/virulence gene
+
+Type antibiotic resistance profile no. of 
+strains
+
+Enterotoxigenic Escherichia 
+coli (ETEC) (sta+, n = 5)
+
+STEC (stx1+ or stx2+, n = 10)
+
+STEC–ETEC hybrid (sta+ and 
+stx1+ or stx2+, n = 8)
+
+I
+II
+III
+IV
+V
+VI
+VII
+
+V
+VIII
+IX
+X
+XI
+
+ER, SR
+ER, AZMR
+ER, SXTR, AZMR, KFR
+ER, CIPR, SXTR, NAR, AZMR
+ER
+ER, AZMR, SR, KFR
+ER, SXTR, AZMR, SR
+Sensitive to all antibiotics
+ER
+ER, KFR
+ER, AZMR, SR
+ER, SXTR, AZMR
+ER, CIPR, SXTR, NAR, AZMR, 
+TER, KFR
+Sensitive to all antibiotics
+
+1
+2
+1
+1
+7
+1
+1
+1
+1
+1
+2
+1
+1
+
+2
+
+E, erythromycin; AZM, azithromycin; S, streptomycin; KF, cephalothin; SXT, 
+trimethoprim/sulfamethoxazole; CIP, ciprofloxacin; NA, nalidixic acid; TE, tetracycline;  
+R, resistant.
+
+Occurrence of hybrid of sTec and eTec 
+strains
+Enterotoxigenic E. coli and Shiga toxin-producing E. coli (STEC) 
+are  notorious  pathogens  associated  with  severe  diarrhea  and 
+
+HUS  in  humans.  Although  E.  coli  constitutes  an  important 
+component  of  normal  gut  bacterial  flora,  many  studies  have 
+shown the non-toxigenic strains to harbor a number of different 
+virulence factors and to be diarrheagenic (17, 18, 37). Here, we 
+present data showing the prevalence of E. coli strains carrying 
+
+Frontiers in Public Health  |  www.frontiersin.org
+
+5
+
+January 2017  |  Volume 4  |  Article 287
+
+Hybrid E. coli in LivestockJohura et al.
+
+FigUre 2 | Pulsed-field gel electrophoresis (PFge) patterns of Xbai-digested genomic Dna of potentially pathogenic E. coli strains (n = 23) isolated 
+from different livestock’s animal and poultry of Bangladesh in 2007. Serotypes, source, and virulence gene content are indicated. The dendrogram was 
+prepared by the BioNeumeric software (Applied Maths) using dice similarity coefficient and unweighted-pair group method employing average linkage of the PFGE 
+images of the E. coli strains. The scale bar at the top (left) indicates similarity coefficient (%).
+
+an ETEC-specific gene, sta, and STEC-specific gene, stx, which 
+included either stx1 or stx2 in the gut of livestock and poultry in 
+Bangladesh. This study also presents data showing for the first 
+time that a significant proportion (8/23) of the toxigenic E. coli 
+strains from livestock were MDR and hybrid type carrying both 
+stx (either stx1 or stx2) and ETEC-specific enterotoxin gene, sta. 
+The presence of such a high percentage of MDR hybrid type E. 
+coli strains in livestock poses a potential health threat to people 
+of Bangladesh.
+
+Virulence gene Profiling of E. coli strains
+Results  obtained  in  this  study  confirmed  that  a  very  high 
+proportion  of  the  E.  coli  strains  (66%)  deriving  from  differ-
+ent  livestock  are  toxigenic,  carrying  either  sta,  stx,  or  both  in 
+varying combinations. What is most important to note is that 
+a significant proportion of E. coli in livestock was confirmed to 
+be ETEC, including 22% carrying the sta gene only, 44% STEC 
+(harboring only stx gene; either stx1 or stx2), and 35% hybrid 
+comprising both est and stx. ETEC is an important cause of diar-
+rhea in humans and animals in the low-income countries and is 
+the main cause of diarrhea in travelers to low-income countries 
+(1). One study carried out in Spain reported a high incidence of 
+ETEC (30%) in piglets with diarrhea (38). A study carried out 
+in Bangladesh revealed 61% of the E. coli strains isolated from 
+the  aquatic  environment  carried  the  est  gene  (39).  Zoonotic 
+and environmental transmission may be the reason ETEC is the 
+predominant group of E. coli associated with childhood diarrhea 
+
+in Bangladesh (28). The occurrence of ETEC in farm animals 
+has  always  been  of  great  public  health  importance  as  animals 
+excreting pathogenic bacteria can contaminate water bodies in 
+and around the area they are reared and in many ways can be 
+related to human diseases. This may be one reason why ETEC is 
+largely a pathogen of low-income countries where access to safe 
+drinking water is often low.
+
+STEC strains can cause bloody diarrhea known as haemor-
+rhagic  colitis,  non-bloody  diarrhea,  and  HUS  (1).  The  data 
+presented  in  this  study  provide  evidence  that  livestock  is  an 
+important  reservoir  for  STEC  carrying  either  stx1  or  stx2.  A 
+study  carried  out  in  Bangladesh  reported  37.9%  of  buffalo, 
+20.1% of cows, and 10.0% of goats were positive for STEC (40). 
+Our data appear to concur with 44% (n = 10) of livestock E. coli 
+isolated  mostly  from  goats  (80%,  8/10  or  35%,  8/23)  revealed 
+STEC, either stx1 or stx2. Our results also appear to agree with 
+those from a study carried out in Vietnam that showed STEC to 
+account for 27% of E. coli isolated from buffalos, 23% from cattle, 
+and 38.5% from goats (41). Although water plays an important 
+role in the transmission of pathogenic bacteria, a study carried 
+out  in  Bangladesh  reported  the  presence  of stx  only  in  1.25% 
+of the E. coli strains isolated from natural aquatic environments 
+(39).  STEC-associated  diarrhea  is  also  very  low  compared  to 
+that  of  other  enteric  pathogens,  including Vibrio  cholerae  and 
+ETEC in Bangladesh (27). This low prevalence of STEC as the 
+etiology of diarrhea could be due to STEC-specific antibodies 
+in the human population, as this pathotype is present in a high 
+
+Frontiers in Public Health  |  www.frontiersin.org
+
+6
+
+January 2017  |  Volume 4  |  Article 287
+
+Hybrid E. coli in LivestockJohura et al.
+
+proportion of E. coli occurring in domesticated livestock, such 
+as goats and sheep, although it was not found in poultry, and 
+only  rarely  in  surface  water  samples  (39).  The  low  prevalence 
+in natural surface water could be related to the incompetence 
+of the STEC strains to survive beyond their livestock reservoirs 
+(cattle, sheep, and goats) (6). Despite the low prevalence of STEC 
+infections in Bangladesh (27), the virulence potential of these 
+livestock strains to emerge as a novel STEC pathogen cannot be 
+ruled out.
+
+In the present study, 34% of the toxigenic livestock E. coli 
+strains were hybrid as those carried toxin genes present in two 
+different pathotypes; stx and est. Notably, majority of these hybrid 
+strains (7/8) carried both sta and stx 1, while one strain carried 
+both sta and stx2 genes. This finding is not unique to our study 
+as a number of past studies have shown hybrid strains carrying 
+virulence marker genes of two different E. coli pathotypes (17), 
+nonetheless, in a significantly lower frequency (2%) than that we 
+observed in Bangladesh. Clinically linked STEC–ETEC hybrid 
+E. coli strains from Brazil, Denmark, France, Germany, Great 
+Britain, Mexico, and the United States were shown to harbor 
+virulence  markers  for  two  or  three  different  pathotypes  (17). 
+In a study in Germany, 0.6% of the human STEC isolates pos-
+sessed stx2g and estIa (37). Serotype O100:H of a STEC–ETEC 
+hybrid strain carrying stx2 and estIa genes was isolated from 
+contaminated  drinking  water  during  an  outbreak  in  Finland 
+(22). A later study reported a STEC strain carrying stx1a and 
+estIa from cattle in Burkina Faso (42). Although no data exist on 
+the virulence potential of STEC–ETEC hybrid strains isolated 
+from livestock in Bangladesh, the widespread distribution and 
+clinical  relevance  worldwide  might  indicate  their  virulence 
+potential.
+
+serodiversity
+In the present study, serotyping results revealed that the ETEC 
+strains belonged to five different serotypes: O36:H5, O174:H−, 
+O152:H8,  O109:H51,  and  O8:H21.  No  sero-specificity  was 
+observed  for  these  ETEC  strains  as  there  was  no  relationship 
+between the serotypes and the type of toxin genes (st or lt) they 
+possessed. Likewise, the STEC strains belonged to six different 
+serotypes (O76:H19, O43:H2, O87:H16, OR: H2, O110:H16, and 
+O152:H8); STEC O157:H7 serotype was not present among the 
+tested strains. Moreover, the STEC serotypes did not belong to 
+any of the serotypes of the big six groups (O26, O45, O103, O111, 
+O121,  and  O145)  in  the  present  study  (43).  STEC  non-O157 
+isolates  have  been  shown  to  be  important  pathogens  despite 
+having  been  underreported  because  in  many  laboratories,  the 
+facilities to isolate, identify, and characterize this pathotype do 
+not  exist  (40).  One  report  suggested  that  some  non-O157:H7 
+STEC strains cause human illness and likely account for 20–50% 
+of STEC infections (an estimated 37,000 cases) annually in the 
+United States (44). In our study, we have identified eight E. coli 
+strains  that  were  hybrids  and  carried  virulence  genes  STEC–
+ETEC, which are largely restricted to five serotypes (O76:H19, 
+O43:H2,  O87:H16,  OR:  H2,  and  O152:H8).  Several  other 
+studies  reported  STEC–ETEC  hybrid  strains;  however,  unlike 
+our  study,  the  serotypes  were  O2:H27,  O101:H−,  O15:H16, 
+O74:H28, O116:H28, O128:H8, O136:H12, O141:H8, O168:H8, 
+
+OX182:H16, OX182:H− in Finland (23), O139, O149, O116, and 
+OSB9 in Japan (24), O100:H− in United States (21), and O2:H2 
+in Burkina Faso (42).
+
+antibiotic resistance Profile
+Resistance to antimicrobial agents can be a useful epidemiologi-
+cal marker for ETEC, STEC, and STEC–ETEC hybrid strains. In 
+this study, the highest antimicrobial resistance was found against 
+erythromycin  87%  (20/23)  followed  by  azithromycin  43% 
+(10/23). In the present study, a significant proportion of ETEC 
+and STEC strains were MDR with the highest MDR [50% (4/8)] 
+being observed in STEC–ETEC hybrid strains. Since 1950s, anti-
+biotics have been used in animal feed to ensure healthy livestock, 
+prevent infections, and excel growth. Such indiscriminate use of 
+antibiotics resulted in the widespread antibiotic resistance in bac-
+teria (21). Erythromycin resistance during the 1990s compelled 
+clinicians to switch to azithromycin as the drug of choice in the 
+treatment  of  cholera  (45)  and  watery  (cholera-like)  diarrhea 
+caused by ETEC (46, 47).
+
+PFge analysis
+As  shown  earlier  by  Vu-Khac  et  al.  (48),  a  high  degree  of 
+genetic  polymorphisms  was  observed  from  the  PFGE  profiles 
+of the STEC non-O157 and ETEC strains in the present study. 
+Similarly, a high degree of heterogeneity was also observed with 
+the STEC–ETEC hybrid strains, as the pulsotypes were different 
+for strains belonging to the same serotypes, suggesting that they 
+were  unlikely  to  be  of  a  single  ancestral  origin.  A  few  strains 
+showing identical PFGE patterns, however, suggest close clonal 
+relatedness.
+
+cOnclUsiOn
+
+This  study  is  the  first  to  show  livestock  as  the  reservoir  
+for  multidrug  resistant  hybrid  type  E.  coli  strains  carrying 
+both stx and st found in Shiga toxin-producing E. coli (STEC) 
+and  ETEC,  respectively,  in  Bangladesh.  Serotyping  results 
+revealed that none of the E. coli STEC–ETEC hybrid strains 
+were  O157:H7  but  belonged  to  serotypes  O76:H19,  O43:H2, 
+O87:H16,  OR:H2,  and  O152:H8  and  were  heterogeneous 
+genetically as confirmed by PFGE of XbaI-digested genomic 
+DNA  and  cluster  analyses  by  dendrogram.  Although  there 
+may be some sorts of immunity toward Shiga toxin-producing 
+E.  coli  existing  among  the  healthy  human  population  of  
+Bangladesh (49), as they live in close proximity to the domes-
+ticated  animals,  multidrug  resistant  STEC–ETEC  hybrid  E. 
+coli strains occurring in domesticated animals deserve careful 
+attention as they can pose even greater public health threat for 
+the people of Bangladesh.
+
+aUThOr cOnTriBUTiOns
+
+AK, MO, HW, and MA contributed to the design of the study, 
+manuscript  revision,  and  final  approval  of  version  to  be  pub-
+lished. F-TJ designed, implemented, and performed the study in 
+the laboratory and wrote the manuscript. SC, CG, AC, SM, SA, 
+BH, and AN contributed to revising the manuscript critically for 
+
+Frontiers in Public Health  |  www.frontiersin.org
+
+7
+
+January 2017  |  Volume 4  |  Article 287
+
+Hybrid E. coli in LivestockJohura et al.
+
+important intellectual content. RP, AI, AS, and MR performed 
+the study in the laboratory. All the authors read and approved the 
+final manuscript.
+
+acKnOWleDgMenTs
+
+icddr,b  gratefully  acknowledges  the  following  donors  for  
+providing  unrestricted  support:  Governments  of  the  People’s 
+Republic of Bangladesh, Global Affairs Canada (GAC), Swedish 
+
+International Development Cooperation Agency (Sida), and the 
+Department for International Development (UK Aid).
+
+FUnDing
+
+MA  acknowledges  NIH  grant  #R01AI039129  for  supporting  
+him.  This  research  study  was  supported  jointly  by  icddr,b, 
+University  of  Dhaka,  and  the  National  Institutes  of  Infectious 
+Diseases (NIID), Japan.
+
+reFerences
+
+1.  Kaper  JB,  Nataro  JP,  Mobley  HLT.  Pathogenic  Escherichia  coli.  Nat  Rev 
+
+Microbiol (2004) 2:123–40. doi:10.1038/nrmicro818 
+
+2.  Levine  MM.  Escherichia  coli  that  cause  diarrhea:  enterotoxigenic,  entero-
+pathogenic, enteroinvasive, enterohemorrhagic, and enteroadherent. J Infect 
+Dis (1987) 155(3):377–89. doi:10.1093/infdis/155.3.377 
+
+3.  Nataro JP, Kaper JB. Diarrheagenic Escherichia coli. Clin Microbiol Rev (1998) 
+
+11:142–201. 
+
+4.  Ørskov F, Ørskov I. Escherichia coli serotyping and disease in man and ani-
+
+mals. Can J Microbiol (1992) 38:699–704. doi:10.1139/m92-115 
+
+5.  Tarr PI, Gordon CA, Chandler WL. Shiga-toxin-producing Escherichia coli 
+and haemolytic uraemic syndrome. Lancet (2005) 365:1073–86. doi:10.1016/
+S0140-6736(05)71144-2 
+
+6.  Griffin PM, Tauxe RV. The epidemiology of infections caused by Escherichia 
+coli O157:H7, other enterohemorrhagic E. coli, and the associated hemolytic 
+uremic syndrome. Epidemiol Rev (1991) 13:60–98. 
+
+7.  Blanco  M,  Blanco  JE,  Mora  A,  Dahbi  G,  Alonso  MP,  González  EA,  et  al. 
+Serotypes,  virulence  genes,  and  intimin  types  of  Shiga  toxin  (verotoxin)- 
+producing  Escherichia  coli  isolates  from  cattle  in  Spain  and  identification 
+of  a  new  intimin  variant  gene  (eaeζ).  J Clin  Microbiol  (2004)  42:645–51. 
+doi:10.1128/JCM.42.2.645-651.2004 
+
+8.  Luna-Gierke RE, Griffin PM, Gould LH, Herman K, Bopp CA, Strockbine 
+N,  et  al.  Outbreaks  of  non-O157  Shiga  toxin-producing  Escherichia  coli 
+infection:  USA.  Epidemiol  Infect  (2014)  142(11):2270–80.  doi:10.1017/
+S0950268813003233 
+
+9.  Pradel N, Livrelli V, Champs CDe, Palcox JB, Reynaud A, Scheutz F, et al. 
+Prevalence  and  characterization  of  Shiga  toxin-producing  Escherichia  coli 
+isolated from cattle, food, and children during a one-year prospective study 
+in France. J Clin Microbiol (2000) 38:1023–31.
+
+10.  Izumikawa K, Hirakata Y, Yamaguchi T, Yoshida R, Nakano M, Matsuda J, 
+et  al.  Analysis  of  genetic  relationships  and  antimicrobial  susceptibility  of 
+Verotoxin-producing Escherichia coli strains isolated in Nagasaki Prefecture, 
+Japan in 1996. Microbiol Immunol (1998) 42:677–81. doi:10.1111/j.1348-0421. 
+1998.tb02339.x 
+
+11.  Nagy B, Fekete PZ. Enterotoxigenic Escherichia coli (ETEC) in farm animals. 
+
+Vet Res (1999) 30:259–84. 
+
+12.  Ngeleka  M,  Pritchard  J,  Appleyard  G,  Middleton  DM,  Fairbrother  JM. 
+Isolation and association of Escherichia coli AIDA-I/STb, rather than EAST1 
+pathotype, with diarrhea in piglets and antibiotic sensitivity of isolates. J Vet 
+Diagn Invest (2003) 15:242–52. doi:10.1177/104063870301500305 
+
+13.  Lortie LA, Dubreuil JD, Harel J. Characterization of Escherichia coli strains 
+producing heatstable enterotoxin b (STb) isolated from humans with diarrhea. 
+J Clin Microbiol (1991) 29:656–9. 
+
+14.  Furrer B, Candrian U, Luthy J. Detection and identification of E. coli produc-
+ing heat-labile enterotoxin type I by enzymatic amplification of a specific DNA 
+fragment. Lett Appl Microbiol (1990) 10:31–4. doi:10.1111/j.1472-765X.1990.
+tb00088.x 
+
+15.  Jackson  MP,  Neill  RJ,  O’Brien  AD,  Holmes  RK,  Newland  JW.  Nucleotide 
+sequence analysis and comparison of the structural gene for Shiga-like toxin 
+I  and  Shiga-like  toxin  II  encoded  by  bacteriophages  from  Escherichia  coli 
+933.  FEMS  Microbiol  Lett  (1987)  44:109–14.  doi:10.1111/j.1574-6968.1987.
+tb02252.x 
+
+16.  Jackson  MP,  Newland  JW,  Holmes  RK,  O’Brien  AD.  Nucleotide  sequence 
+analysis  of  the  structural  genes  for  Shiga-like  toxin  I  encoded  by 
+
+bacteriophage  933J  from  Escherichia  coli.  Microb  Pathog  (1987)  2:147–53. 
+doi:10.1016/0882-4010(87)90106-9 
+
+17.  Müller  D,  Greune  L,  Heusipp  G,  Karch  H,  Fruth  A,  Tschape  H,  et  al. 
+Identification of unconventional intestinal pathogenic Escherichia coli isolates 
+expressing intermediate virulence factor profiles by using a novel single-step 
+multiplex  PCR.  Appl  Environ  Microbiol  (2007)  73:3380–90.  doi:10.1128/
+AEM.02855-06 
+
+18.  Mellmann  A,  Harmsen  D,  Cummings  CA,  Zentz  EB,  Leopold  SR,  Rico 
+A,  et  al.  Prospective  genomic  characterization  of  the  German  enterohe-
+morrhagic  Escherichia  coli  O104:H4  outbreak  by  rapid  next  generation 
+sequencing technology. PLoS One (2011) 6:e22751. doi:10.1371/journal.pone. 
+0022751 
+
+19.  Bielaszewska  M,  Mellmann  A,  Zhang  W,  Kock  R,  Fruth  A,  Bauwens  A, 
+et  al.  Characterisation  of  the  Escherichia  coli  strain  associated  with  an 
+outbreak  of  haemolytic  uraemic  syndrome  in  Germany,  2011:  a  microbio-
+logical study. Lancet Infect Dis (2011) 11:671–6. doi:10.1016/S1473-3099(11) 
+70165-7 
+
+20.  Vu-Khac  H,  Holoda  E,  Pilipcinec  E,  Blanco  M,  Blanco  JE,  Dahbi  G,  et  al. 
+Serotypes, virulence genes, intimin types and PFGE profiles of Escherichia 
+coli isolated from piglets with diarrhoea in Slovakia. Vet J (2007) 174:176–87. 
+doi:10.1016/j.tvjl.2006.05.019 
+
+21.  Fratamico  PM,  Bhagwat  AA,  Injaian  L,  Fedorka-Cray  PJ. Characterization 
+of Shiga toxin-producing Escherichia coli strains isolated from swine feces. 
+Foodborne Pathog Dis (2008) 5:827–38. doi:10.1089/fpd.2008.0147 
+
+22.  Lienemann  T,  Pitkanen  T,  Antikainen  J,  Molsa  E,  Miettinen  I,  Haukka  K, 
+et al. Shiga toxin producing Escherichia coli O100:H-:stx2e in drinking water 
+contaminated by waste water in Finland. Curr Microbiol (2011) 62:1239–44. 
+doi:10.1007/s00284-010-9832-x 
+
+23.  Nyholm  O,  Heinikainen  S,  Pelkonen  S,  Hallanvuo  S,  Haukka  K,  Siitonen 
+A.  Hybrids  of  shigatoxigenic  and  enterotoxigenic  E.  coli  (STEC/ETEC) 
+among human and animal isolates in Finland. Zoonoses Public Health (2015) 
+62:518–24. doi:10.1111/zph.12177 
+
+24.  Kusumoto  M,  Hikoda  Y,  Fujii  Y,  Murata  M,  Miyoshi  H,  Ogura  Y,  et  al. 
+Emergence of a multidrug-resistant Shiga toxin-producing enterotoxigenic E. 
+coli lineage in diseased swine in Japan. J Clin Microbiol (2016) 54(4):1074–81. 
+doi:10.1128/JCM.03141-15 
+
+25.  Leonard SR, Mammel MK, Rasko DA, Lacher DW. Hybrid Shiga toxin-pro-
+ducing and enterotoxigenic Escherichia sp. cryptic lineage 1 strain 7v harbors 
+a hybrid plasmid. Appl Environ Microbiol (2016) 82(14):4309–19. doi:10.1128/
+AEM.01129-16 
+
+26.  EFSA.  Urgent  advice  on  the  public  health  risk  of  Shiga  toxin  producing 
+Escherichia  coli  in  fresh  vegetables.  EFSA  J  (2011)  9:2274.  doi:10.2903/ 
+j.efsa.2011.2274 
+
+27.  Islam  MA,  Heuvelink  AE,  de  Boer  E,  Sturm  PD,  Beumer  RR,  Zwietering 
+MH,  et  al.  Shiga  toxin-producing  Escherichia  coli  isolated  from  patients 
+with diarrhea in Bangladesh. J Med Microbiol (2007) 56:380–5. doi:10.1099/
+jmm.0.46916-0 
+
+28.  Qadri F, Svennerholm AM, Faruque AS, Sack RB. Enterotoxigenic Escherichia 
+coli  in  developing  countries:  epidemiology,  microbiology,  clinical  features, 
+treatment and prevention. Clin Microbiol Rev (2005) 18:465–83. doi:10.1128/
+CMR.18.3.465-483.2005 
+
+29.  Feng  P,  Weagant  SD,  Grand  MA.  Enumeration  of  Escherichia  coli  and  the 
+coliform  bacteria.  Bacteriological  Analytical  Manual  Online.  Chapter  4. 
+(2002).  Available 
+from:  http://www.fda.gov/Food/FoodScienceResearch/
+LaboratoryMethods/ucm064948.htm
+
+Frontiers in Public Health  |  www.frontiersin.org
+
+8
+
+January 2017  |  Volume 4  |  Article 287
+
+Hybrid E. coli in LivestockJohura et al.
+
+30.  Keskimaki M, Eklund M, Personen H, Heiskanen T, Siitonen A, Study Group. 
+EPEC, EAEC and STEC in stool specimens: prevalence and molecular epide-
+miology of isolates. Diagn Microbiol Infect Dis (2001) 40:151–6. doi:10.1016/
+S0732-8893(01)00265-6 
+
+31.  Ewing  WH.  Edwards  and  Ewing’s  Identification  of  Enterobacteriaceae.  New 
+
+York: Elsevier (1986).
+
+32.  Scheutz  F,  Cheasty  T,  Woodward  D,  Smith  HR.  Designation  of  O174  and 
+O175 to temporary O groups OX3 and OX7, and six new E. coli O groups that 
+include verocytotoxin producing E. coli (VTEC): O176, O177, O178, O179, 
+O180  and  O181.  APMIS  (2004)  112:569–84.  doi:10.1111/j.1600-0463.2004.
+apm1120903.x 
+
+33.  Ørskov F, Ørskov I. Serotyping of Escherichia coli. In: Bergan T, editor. Methods 
+
+in Microbiology (Vol. 14), London: Academic Press (1984). p. 43–112.
+
+34.  Bauer  AW,  Kirby  WM,  Sheris  JC,  Turck  M.  Antibiotics  susceptibility  
+testing  by  standardized  single  disk  method.  Am  J Clin  Pathol  (1966) 
+1966(45):493–6. 
+
+35.  Clinical  and  Laboratory  Standards  Institute.  Performance  Standards  for 
+Antimicrobial  Disk  Susceptibility  Tests;  Approved  Standard-11th  Edition, 
+Document M02-A11. Wayne, PA: Clinical and Laboratory Standards Institute 
+(2012).
+
+36.  Ribot EM, Fair MA, Gautom R, Cameron DN, Hunter SB, Swaminathan B, 
+et  al.  Standardization  of  pulsed-field  gel  electrophoresis  protocols  for  the 
+subtyping of Escherichia coli O157:H7, Salmonella, and Shigella for PulseNet. 
+Foodborne Pathog Dis (2006) 3:59–67. doi:10.1089/fpd.2006.3.59 
+
+37.  Prager R, Fruth A, Busch U, Tietze E. Comparative analysis of virulence genes, 
+genetic diversity, and phylogeny of Shiga toxin 2g and heat-stable enterotoxin 
+STIa  encoding  Escherichia  coli  isolates  from  humans,  animals,  and  envi-
+ronmental sources. Int J Med Microbiol (2011) 301(3):181–91. doi:10.1016/ 
+j.ijmm.2010.06.003 
+
+38.  Blanco  J,  Blanco  M,  Garabal  JI,  Gonzalez  EA.  Enterotoxins,  colonization 
+factors and serotypes of enterotoxigenic Escherichia coli from humans and 
+animals. Microbiologia (1991) 7:57–72. 
+
+39.  Alam M, Hasan NA, Ahsan S, Pazhani P, Tamura K, Ramamurthy T, et al. 
+Phenotypic and molecular characterization of Escherichia coli isolated from 
+aquatic environment of Bangladesh. Microbiol Immunol (2006) 50(5):359–70. 
+doi:10.1111/j.1348-0421.2006.tb03802.x 
+
+40.  Islam  MA,  Mondol  AS,  Boer  ED,  Beumer  RR,  Zwietering  MH,  Talukder 
+KA, et al. Prevalence and genetic characterization of Shiga toxin-producing 
+Escherichia coli isolates from slaughtered animals in Bangladesh. Appl Environ 
+Microbiol (2008) 74:5414–21. doi:10.1128/AEM.00854-08 
+
+41.  Vu-Khac  H,  Cornick  NA.  Prevalence  and  genetic  profiles  of  Shiga  toxin- 
+producing  Escherichia  coli  strains  isolated  from  buffaloes,  cattle,  and 
+
+goats  in  central  Vietnam.  Vet  Microbiol  (2008)  126:356–63.  doi:10.1016/ 
+j.vetmic.2007.07.023 
+
+42.  Martikainen O, Kagambega A, Bonkoungou IJ, Barro N, Siitonen A, Haukka 
+K. Characterization of shigatoxigenic Escherichia coli strains from Burkina 
+Faso. Foodborne Pathog Dis (2012) 9:1015–21. doi:10.1089/fpd.2012.1228 
+
+43.  Brooks JT, Sowers EG, Wells JG, Greene KD, Griffin PM, Hoekstra RM, et al. 
+Non-O157  Shiga  toxin-producing  Escherichia  coli  infections  in  the  United 
+States, 1983–2002. J Infect Dis (2005) 192:1422–9. doi:10.1086/466536 
+
+44.  Mead PS, Slutsker L, Dietz V, McCaig LF, Bresee JS, Shapiro C, et al. Food-
+related illness and death in the United States. Emerg Infect Dis (1999) 5:607–25. 
+doi:10.3201/eid0505.990502 
+
+45.  Bhattacharya  MK,  Dutta  D,  Ramamurthy  T,  Sarkar  D,  Singharoy  A, 
+Bhattacharya SK. Azithromycin in the treatment of cholera in children. Acta 
+Paediatr (2003) 92:676–8. doi:10.1111/j.1651-2227.2003.tb00598.x 
+
+46.  Burans JP, Podgore J, Mansour MM, Farah AH, Abbas S, Abu-Elyazeed R, et al. 
+Comparative trial of erythromycin and sulphatrimethoprim in the treatment 
+of tetracycline-resistant Vibrio cholerae O1. Trans R Soc Trop Med Hyg (1989) 
+83(6):836–8. doi:10.1016/0035-9203(89)90347-7 
+
+47.  Saha D, Karim MM, Khan WA, Ahmed S, Salam MA, Bennish ML. Single-
+dose azithromycin for the treatment of cholera in adults. N Engl J Med (2006) 
+354(23):2452–62. doi:10.1056/NEJMoa054493 
+
+48.  Vu-Khac  H,  Holoda  E,  Pilipcinec  E,  Blanco  M,  Blanco  JE,  Mora  A,  et  al. 
+Serotypes,  virulence  genes,  and  PFGE  profiles  of  Escherichia  coli  isolated 
+from pigs with postweaning diarrhoea in Slovakia . BMC Vet Res (2006) 2:10. 
+doi:10.1186/1746-6148-2-10 
+
+49.  Mirza N. Immune Response to Shiga Toxin Producing Escherichia coli: Detection 
+of  Antibodies  against  Outer  Membrane  Proteins  of  the  Bacteria  in  Healthy 
+Population  of  Bangladesh.  MS  thesis.  Brac  University,  Dhaka,  Bangladesh 
+(2015).
+
+Conflict of Interest Statement: The authors declare that the research was con-
+ducted in the absence of any commercial or financial relationships that could be 
+construed as a potential conflict of interest.
+
+Copyright © 2017 Johura, Parveen, Islam, Sadique, Rahim, Monira, Khan, Ahsan, 
+Ohnishi,  Watanabe,  Chakraborty,  George,  Cravioto,  Navarro,  Hasan  and  Alam. 
+This is an open-access article distributed under the terms of the Creative Commons 
+Attribution License (CC BY). The use, distribution or reproduction in other forums 
+is permitted, provided the original author(s) or licensor are credited and that the 
+original publication in this journal is cited, in accordance with accepted academic 
+practice. No use, distribution or reproduction is permitted which does not comply 
+with these terms.
+
+Frontiers in Public Health  |  www.frontiersin.org
+
+9
+
+January 2017  |  Volume 4  |  Article 287
+
+Hybrid E. coli in Livestock

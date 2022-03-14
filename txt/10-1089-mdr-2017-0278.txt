@@ -1,0 +1,1140 @@
+MICROBIAL DRUG RESISTANCE
+Volume 00, Number 00, 2018
+ª Mary Ann Liebert, Inc.
+DOI: 10.1089/mdr.2017.0278
+
+VETERINARY MICROBIOLOGY
+
+Molecular Characterization and Clonal Diversity
+
+of Methicillin-Resistant and -Susceptible
+Staphylococcus aureus Isolates of Milk
+of Cows with Clinical Mastitis in Tunisia
+
+Amira Klibi,1 Ahlem Jouini,1 Paula Go´ mez,2 Khouloud Slimene,1 Sara Ceballos,2
+
+Carmen Torres,2 and Abderrazek Maarouﬁ1
+
+The aim of this study was to determine the genetic lineages, and the frequency of antibiotic resistance and virulence
+determinants in methicillin-resistant Staphylococcus aureus (MRSA) and methicillin-susceptible S. aureus
+(MSSA) isolates recovered from milk of cows with clinical mastitis. Three hundred milk samples from bovine with
+clinical mastitis were obtained from 30 dairy farms in different regions of Tunisia. Fifteen of the 300 tested samples
+contained S. aureus (5%), in three cases were MRSA. Isolates (one/sample) were typed (S. aureus protein A [spa],
+multilocus sequence typing and accessory gene regulator [agr]). The presence of resistance and virulence genes was
+analyzed by PCR. The three MRSA isolates contained mecA and blaZ genes (one of them also the msr(A) gene), and
+carried the enterotoxin gene sen; they were typed as t10381-ST4114 or t267-ST4120, and corresponded to agr type-
+I. Twelve MSSA isolates were recovered and harbored the blaZ (7 strains) or erm(C) genes (1 strain). The MSSA
+isolates presented seven different spa-types, associated to new sequence types (STs): t426-ST4118, t267-ST4120,
+t1773-ST4115, t509-ST4119, t529-ST4117, t2844-ST4113, and t2802-ST4112; most isolates (8/12) were typed as
+t267/ST4120. All S. aureus isolates were scn-negative, except one MSSA of lineage ST4119 that exhibited the
+immune evasion cluster type D, and harbored the seg, sei, sem, seo, and seu enterotoxin genes. Four MSSA isolates
+carried the toxic shock syndrome toxin 1 gene (tst). S. aureus (including MRSA) is an important cause of bovine
+mastitis, showing isolates with high genetic diversity and high content in virulence genes.
+
+Keywords: MRSA, MSSA, resistance and virulence genes, spa-typing, MLST, bovine mastitis
+
+Introduction
+
+M ethicillin-resistant Staphylococcus aureus
+
+(MRSA) is one of main opportunistic pathogens at
+the hospital level, and some speciﬁc lineages are emerging
+in livestock animals and in related farmers. MRSA repre-
+sent a signiﬁcant public health problem because it could
+be transferred to humans through the food chain, and could
+contaminate milk and dairy products causing foodborne ill-
+ness.1 In addition, animals could carry S. aureus implicated in
+zoonotic infections. Moreover, S. aureus is a well-known
+etiological agent of bovine mastitis resulting in important
+economic losses in dairy industry worldwide, due to reduced
+milk production, milk discard, premature slaughter, and an-
+tibiotic usage.2,3
+
+The overuse of antimicrobial agents in human and vet-
+erinary medicine could favor the emergence and dissemi-
+nation of multidrug-resistant bacteria, including MRSA. S.
+aureus and MRSA have been recovered from dairy cattle,
+and also from bovine milk. Milk could be contaminated with
+these microorganisms either by direct excretion from udders
+with clinical staphylococcal mastitis, or by indirect con-
+tamination from the environment. Indeed, these bacteria
+could survive for several months during handling and con-
+servation processing in bulk tank.4–6
+
+Methicillin resistance in S. aureus is conferred by the ex-
+pression of the mecA gene, which also causes resistance to
+most b-lactams.7,8 b-Lactam resistance in S. aureus is an
+important cause of treatment failure of human and animal
+infections. The horizontal transfer of antimicrobial resistance
+
+1Laboratory of Epidemiology and Veterinary Microbiology, Group of Bacteriology and Biotechnology Developement, Pasteur Institute
+
+of Tunis, Unive´rsite´ de Tunis El Manar, Tunis, Tunisia.
+
+2Area of Biochemistry and Molecular Biology, University of La Rioja, Logron˜o, Spain.
+
+1
+
+Downloaded by Tufts University package NERL from www.liebertpub.com at 07/27/18. For personal use only. 2
+
+KLIBI ET AL.
+
+genes between livestock and human-associated isolates is an
+increasing public health concern.9 MRSA strains were ﬁrst
+reported in animals in 1972, causing bovine mammary in-
+fections. Later, more MRSA strains were detected in farm
+animals (such as cattle, pigs, or poultry) and the zoonotic risk
+of transmission to humans was demonstrated.9 Due to this
+zoonotic risk to humans from MRSA associated to food-
+producing animals, it is important to assess the importance of
+milk from bovine mastitis cases in the transmission of MRSA
+in the animal–human interface.8 Moreover,
+in
+methicillin-susceptible S. aureus (MSSA) has also increased
+in recent years, as published reports have proven that MSSA
+can also be implicated in important infections and may help
+to explain the appearance and evolution of the different
+MRSA lineages.3
+
+interest
+
+S. aureus isolates can contain a diversity of virulence
+factors, being of special relevance the Panton-Valentine
+leukocidin (PVL), the toxic shock syndrome toxin 1 (TSST)
+and the staphylococcal enterotoxins (SE). These virulence
+factors could have a role in skin and soft tissue infections in
+humans or animals, and these could also be associated with
+cases of severe pneumonia and food poisoning.10 The ex-
+pression of virulence genes is under the control of a global
+quorum-sensing regulator system, named agr (accessory
+gene regulator).10 Bioﬁlm formation in S. aureus is due to
+the expression of the intercellular adhesion gene A (icaA)
+and it is considered as an important virulence factor in bo-
+vine mastitis.11
+
+To develop an effective control and treatment of bovine
+mastitis, it is important to study the prevalence, genetic
+diversity, antimicrobial resistance, and virulence of S. au-
+reus that cause clinical mastitis. Currently, these types of
+data are not available for bovine mastitis in Tunisia. Thus,
+the goals of this study were to determine the genetic line-
+ages, incidence of antibiotic resistance, and content in vir-
+ulence determinants of S. aureus isolates from cows with
+clinical mastitis in Tunisia.
+
+Materials and Methods
+
+Bovine milk sample collection
+
+Three hundred milk samples were collected from cows
+showing symptoms of clinical mastitis (one sample/cow).
+Samples were obtained in 30 farms with intensive breeding
+across different regions in North and South of Tunisia
+during October 2013 to September 2014. The farms impli-
+cated in the study were involved in the production of milk
+for self-consumption, cheese production, and milk-bottling.
+Each cow was clinically diagnosed for the appearance of
+general clinical signs related to udder and teats and presence
+of any gross abnormalities like ﬁbrosis,
+inﬂammatory
+swellings, pain, visible injury or lesion, atrophy of the tis-
+sue, and teat blindness. The milk sample was observed for
+changes regarding color, odor, and consistency. The pres-
+ence of clots, ﬂakes, blood, and other consistent changes
+were indicators of clinical mastitis along with udder and teat
+morphological changes. A milk sample of one infected
+quarter was obtained from the 300 tested mastitis cows by
+veterinarians. Before taking the milk samples, teats were
+washed thoroughly and dried. They were then sprayed with
+70% ethanol, the ﬁrst few squirts of milk were discarded,
+and 30 ml milk samples were collected in sterile tubes. The
+
+milk samples were then transferred to the laboratory in
+cooler and immediately processed. It is important to note
+that the studied cows did not receive any antibiotic therapy.
+
+Isolation and identiﬁcation of S. aureus isolates
+
+An aliquot of 10 ml of each 30 ml milk sample was
+streaked onto Oxacillin Resistance Screening Agar Base
+medium (Oxoid) for MRSA recovery. In parallel, 1 ml of
+milk sample was added in 9 ml to sterile saline solution for
+serial dilutions, then they were seeded on Baird Parker
+(Biolife) for S. aureus recovery. Plates were incubated at
+37°C for 24–48 hours. Isolates with typical S. aureus mor-
+phology were selected (one per sample) and identiﬁed by
+classical biochemical methods [Gram staining, oxydase,
+catalase, DNase, and ability to coagulate rabbit plasma (Bio-
+Rad)].12 Molecular identiﬁcation was performed by species-
+speciﬁc PCR ampliﬁcation of nuc gene.12 S. aureus ATCC
+43300 was used as control strain.
+
+Antimicrobial susceptibility testing
+
+Susceptibility to 15 antimicrobial agents was performed
+using the disk-diffusion method in accordance with the Clin-
+ical and Laboratory Standards Institute (CLSI) recommenda-
+tions. Antimicrobial agents tested (charge in mg) were as
+follows: penicillin (10), oxacillin (1), cefoxitin (30), kana-
+mycin (30), gentamicin (10), tobramycin (10), tetracycline
+(30), chloramphenicol (30),
+trimethoprim–sulfamethoxazol
+(1.25/23.75), erythromycin (15), clindamycin (2), cipro-
+ﬂoxacin (5), vancomycin (30), and teicoplanin (30).13 Meth-
+odology and guidelines for streptomycin (10 mg/disk) were as
+recommended by the French Society for Microbiology (www
+.sfm.asso.fr). Moreover, erythromycin-resistant strains were
+tested for induction of clindamycin resistance, as described
+previously.14
+
+Detection of the mecA gene
+
+The presence of the mecA gene was studied by PCR in all
+oxacillin and/or cefoxitin-resistant isolates, as previously de-
+scribed.12 S. aureus ATCC 43300 was used as control strain.
+
+Molecular typing of S. aureus isolates
+
+S. aureus protein A (spa)-Typing was performed in all
+S. aureus isolates (n = 15). The polymorphic X region of spa
+gene was ampliﬁed by PCR and sequences were analyzed
+using Ridom Staph-Type software version 1.5.21 (Ridom
+GmbH). It automatically detects spa repeats and assigns a
+spa-type according to http://spaserver.ridom.de/. Identiﬁca-
+tion of agr allele group (I–IV) was determined by PCR as
+described earlier.15 Multilocus Sequence Typing (MLST)
+was performed for all S. aureus isolates, as described pre-
+viously.16 The allelic proﬁle of each strain was obtained by
+sequencing internal fragments of seven unlinked house-
+keeping genes (carbamate kinase [arcC], shikimate dehy-
+drogenase [aroE], glycerol kinase [glpF], guanylate kinase
+[gmk], phosphate acetyl transferase [pta], triosephosphate
+isomerase [tpi], and acetyl coenzyme A acetyltransferase
+[yqiL]). Alleles of the seven genes deﬁned the allelic proﬁle,
+which corresponded to a sequence type (ST), assigned by
+the S. aureus MLST database (https://pubmlst.org/saureus).
+
+Downloaded by Tufts University package NERL from www.liebertpub.com at 07/27/18. For personal use only. HIGH GENETIC DIVERSITY IN MRSA/MSSA IN BOVINE MASTITIS
+
+3
+
+Detection of antimicrobial resistance genes
+
+Results
+
+resistance genes
+
+Detection of antimicrobial
+
+[blaZ,
+erm(A), erm(B), erm(C), erm(T), msr(A), msr(B), mph(A),
+mph(C), tet(K), tet(M), and tet(L)] was investigated in re-
+sistant and intermediate isolates by speciﬁc PCRs.12 Positive
+and negative controls from the collection of the University
+of La Rioja were used in each PCR assay.
+
+Detection of staphylococcal toxin genes
+and bioﬁlm production
+
+All isolates were tested by PCR for the presence of eight
+genes coding for staphylococcal enterotoxins (sea, see, seg,
+sei, sem, sen, seo, and seu), toxic shock syndrome toxin 1
+(tst), leukocidin of Panton Valentine (PVL, lukF-lukS-PV),
+and exfoliative ETA and ETB toxins (etA and etB).12 Fur-
+thermore, the presence of genes coding for the formation of
+bioﬁlm in human and bovine mammary gland S. aureus
+infections contained in the ica operon (icaA, icaB) was
+determined by PCR.11
+
+Detection of the immune evasion gene cluster
+
+All isolates were tested by PCR for the presence of ﬁve
+genes (scn, chp, sak, sea, and sep) of the immune evasion
+cluster (IEC) system. These genes are enclosed in the u3
+bacteriophage and encode the IEC system, which helps
+bacteria to survive in the human host by evading the innate
+immune system. Detected alleles allowed the classiﬁcation
+of seven IEC types (from A to G), as previously reported.17
+The presence of all these genes were tested using primers
+and conditions as previously described.17
+
+Prevalence of S. aureus (MRSA and MSSA)
+
+Isolates were collected from milk samples of cows with
+symptoms of clinical mastitis across different regions in North
+and South of Tunisia. Of the 300 samples tested, 83 milk
+samples showed the growth of staphylococci and one isolate
+per sample was further characterized. Fifteen of these 83
+strains (18%) were identiﬁed as S. aureus since they presented
+the ability to coagulate bovine plasma and were conﬁrmed by a
+species-speciﬁc nuc PCR strategy. The S. aureus isolates were
+recovered from 15 different cows of seven different farms.
+Only three of these isolates were MRSA, recovered from cows
+of two different farms (31 milk samples were tested in these
+two MRSA-positive farms) (Table 1). MRSA isolates con-
+tained the mecA gene, as evidenced by PCR.
+
+Molecular typing of MRSA/MSSA isolates
+
+The characteristics of S. aureus isolates in this study are
+
+shown in Table 1.
+
+Among MRSA, two different spa-types were detected: (1)
+two strains were typed as t267 with a new ST4120; (2) one
+strain showed a new spa-type and a new ST (t10381/
+ST4114). All MRSA strains belonged to agr type-I.
+
+The 12 MSSA isolates recovered in this study were typed
+by MLST (one isolate of each spa-type), and seven different
+spa-types were detected: t267/ST4120 (six isolates), and
+t426/ST4118,
+t529/ST4117,
+t2844/ST4113, and t2802/ST4112 (one isolate, each one).
+All STs detected revealed novel alleles or novel allele
+combinations (Table 2).
+
+t1773/ST4115,
+
+t509/ST4119,
+
+Table 1. Resistance Proﬁle, Multilocus Sequence Type, spa-Type, agr, Immune Evasion Cluster,
+
+Resistance and Virulence Genes Detected
+
+Strain
+
+MRSA strain
+EC44BP+
+
+EC159BP+
+EC39+O
+
+MSSA strain
+
+EC4BP+
+EC88 BP+
+EC89.2BP+
+EC160 BP-
+EC87 BP+
+EC91 BP+
+EC 156 BP+
+EC76 BP+
+EC142 BP+
+
+EC 166 BP+
+EC144 BP-
+
+EC 164BP+
+
+Farm
+number
+
+spa-type
+of isolates
+
+Sequence-
+
+type
+
+agr-
+type
+
+Antibiotic resistance
+
+phenotypea
+
+Resistance
+
+genes
+
+detected
+
+Virulence
+
+genes
+
+detected
+
+IECb
+
+12
+
+5
+5
+
+1
+5
+5
+5
+6
+8
+12
+5
+12
+
+12
+13
+
+11
+
+t10381
+
+ST4114
+
+t267
+t267
+
+t426
+t267
+t267
+t267
+t267
+t267
+t267
+t1773
+t509
+
+t2802
+t529
+
+ST4120
+ST4120
+
+ST4118
+ST4120
+ST4120
+ST4120
+ST4120
+ST4120
+ST4120
+ST4115
+ST4119
+
+ST4112
+ST4117
+
+I
+
+I
+I
+
+PEN, OXA,
+
+STR, ERY
+
+PEN, STR, OXA
+PEN, OXA
+
+blaZ, mecA,
+
+sen
+
+msrA
+
+blaZ, mecA sen
+blaZ, mecA sen
+
+PEN
+PEN, STR
+PEN, STR
+PEN, STR
+PEN, STR
+PEN
+STR
+
+—
+—
+
+—
+—
+
+blaZ
+blaZ
+blaZ
+blaZ
+blaZ
+blaZ
+
+—
+—
+—
+
+—
+—
+
+—
+—
+—
+
+—
+—
+
+tst
+
+sen
+tst
+seg, sei, sem,
+
+seo, seu
+
+tst,, seg, sei,
+
+sem, seu
+
+t2844
+
+ST4113
+
+PEN, ERY, TET
+
+blaZ ermC tst
+
+—
+
+—
+—
+
+—
+—
+—
+—
+—
+—
+—
+—
+
+scn, sak, sea
+
+(IEC type D)
+
+—
+
+—
+
+aERY, erythromycin; FOX, cefoxitin; OXA, oxacillin; PEN, penicillin; STR, streptomycin; TET, tetracycline.
+bIEC, genes of IEC (type).
+IEC, immune evasion cluster; MRSA, methicillin-resistant Staphylococcus aureus; MSSA, methicillin-susceptible S. aureus; ST, sequence type.
+
+Downloaded by Tufts University package NERL from www.liebertpub.com at 07/27/18. For personal use only. 4
+
+KLIBI ET AL.
+
+Table 2. New Sequence Types Detected Among Staphylococcus aureus Isolates of the Study
+
+Strains arcC aroE glp gmK pta
+
+tpi yqil Sequence-type
+
+Associations with other lineages
+
+EC166
+EC164
+EC44
+EC76
+EC144
+EC4
+EC142
+EC160
+
+3
+37
+3
+6
+16
+3
+1
+3
+
+1
+1
+1
+57
+72
+1
+101
+261
+
+1
+1
+1
+45
+414
+322
+1
+1
+
+211
+1
+1
+2
+43
+37
+4
+37
+
+1
+33
+24
+
+5 137
+3
+5
+5
+3
+52
+278 95
+59
+52 67
+5
+3
+10
+1
+5
+3
+
+169
+122
+1
+
+4112
+4113
+4114
+4115
+4117
+4118
+4119
+4120
+
+DLV ST97, ST115, ST124
+DLV ST97, ST205, ST71
+CC97 (SLV ST97, ST205, ST458)
+SLV ST700 (DLV of ST130)
+DLV ST351, ST504 (TLV ST151, founder of CC151)
+DLV ST124, ST3274 (eBURST ST124 to CC5)
+SLV ST487 (DLV ST5)
+SLV ST124, ST693
+
+CC, clonal complex; DLV, double locus variant; SLV, single locus variant; TLV, triple locus variant.
+
+Antimicrobial resistance of MRSA/MSSA isolates
+
+Seven MSSA isolates showed penicillin resistance and
+harbored the blaZ gene, one isolate was erythromycin-resistant
+and harbored the erm(C) gene, and another isolate was
+tetracycline-resistant but was negative for tet(M), tet(L), and
+tet(K) genes. All three MRSA strains carried the mecA gene,
+and the blaZ gene, and one of the isolates was erythromycin-
+resistant and contained the msr(A) gene (Table 1). All MRSA
+and MSSA isolates were susceptible to tobramycin, chloram-
+phenicol, gentamicin, ciproﬂoxacin, clindamycin, kanamycin,
+trimethoprim-sulfamethoxazole, vancomycin, and teicoplanin
+(Table 1).
+
+Virulence genes and IEC proﬁle MRSA/MSSA isolates
+
+The presence of virulence genes in MRSA and MSSA
+isolates is shown in Table 1. MRSA isolates were negative
+for all tested toxin genes except for the enterotoxin sen gene,
+which was detected in all of them. MRSA isolates were
+negative for the genes of the IEC system. For MSSA isolates,
+only one strain of lineage ST4119 was positive for scn, sak,
+and sea genes and exhibited the human-associated IEC-type
+D. Besides, this strain harbored a combination of ﬁve genes
+encoding enterotoxins (seg, sei, sem, seo, and seu). Another
+strain harbored the combination of four enterotoxins genes
+(seg, sei, sem, and seu) was detected. The remaining 11
+MSSA isolates were IEC-negative. Four MSSA isolates car-
+ried the toxic shock syndrome toxin 1 gene (tst) (26.7%), and
+none of them was lukF-lukS-PV, etA, or etB positive. MRSA
+and MSSA isolates were negative for the intercellular adhe-
+sion genes icaA and icaB.
+
+Discussion
+
+To the best of our knowledge, there are no published data
+concerning MRSA from bovine mastitis in Tunisia, more-
+over, this type of data are also scarce in other African
+counties.18,19 S. aureus is an important etiological agent of
+mastitis in cattle worldwide.4,8,20 Its presence in bovine
+mastitis milk has been studied in Brazil, Poland, China, and
+several other countries.1,21,22 In addition, the emergence and
+spread of MRSA and MSSA is becoming a major animal
+and public health problem.
+
+In this study, a low percentage of milk samples from
+clinical bovine mastitis carried S. aureus (5%). Other
+staphylococcal strains, as coagulase-negative staphylococci,
+were also detected in these samples (data not shown). The
+mecA gene was found in three of these 15 S. aureus isolates
+
+recovered (20%), representing 1% of total milk samples
+tested. MRSA represents a public health threat since it can
+be transmitted to farm workers and veterinarians after
+contact with infected animals.23 It could be also accidentally
+transmitted after consumption of contaminated milk.
+
+MRSA was rarely detected as a causing agent of bovine
+mastitis in several countries such as Finland (1.5%) and
+Germany (4.4%)9,24 with similar prevalence to our study.
+However, it was more frequently detected in Brazil (23%),
+Turkey (17.5%), and China (47.6%)7,25,26; differences in
+sample sizes, seasons, or geographical locations might ex-
+plain these discrepancies. In Tunisia, few studies have
+covered the prevalence of MRSA and MSSA in meat
+products, healthy humans, or animals.12,27–29
+
+b-Lactam antibiotics are widely used for the intramam-
+mary treatment of bovine mastitis in Tunisia, which could
+contribute to the dissemination of resistant strains for these
+agents. In our study, 10 S. aureus isolates were penicillin-
+resistant and harbored the blaZ gene. Furthermore, penicillin
+resistance of S. aureus from bovine mastitis has been in-
+creasingly reported throughout the world. The low frequency
+of tetracycline (one strain) or erythromycin resistances [two
+strains: one MSSA with erm(C), and one MRSA with
+msr(A)] detected among our isolates, was in agreement with
+previously published data from Poland.21 While, higher fre-
+quency of resistance was reported in China and Iran with
+erm(C) as predominant erythromycin resistance gene, and
+tet(M) and tet(K) tetracycline-resistant genes.1,4 All MRSA
+and MSSA isolates were fully susceptible to chlorampheni-
+col, gentamicin, ciproﬂoxacin, clindamycin, tobramycin sul-
+famethoxazole/trimethoprim, vancomycin, and teicoplanin.
+Similar results were found in Poland,21 while other studies
+reported a multi-resistance proﬁle for S. aureus isolated from
+bovine mastitis milk.30 These low resistance rates of S. au-
+reus in Tunisia compared to other countries could be ex-
+plained by the low use of antibiotics. Similarly, in a recent
+Tunisian study, the analysis of bovine milk of healthy animals
+revealed low antimicrobial resistance among S. aureus iso-
+lates, except for penicillin, and most isolates corresponded to
+clonal complex 97 (CC97).31
+
+The virulence gene tst, which encodes toxic shock syn-
+drome toxin, was identiﬁed in four MSSA isolates (26.7%).
+This super antigen has been suggested to enhance the persis-
+tence of bovine intrammamary infection; however, their role
+as virulence factor in bovine mastitis is still speculative.32,33
+In this study genes encoding for enterotoxins, of rele-
+vance in food safety, were identiﬁed. Indeed, six of our
+strains (40%) harbored genes included into the egc operon
+
+Downloaded by Tufts University package NERL from www.liebertpub.com at 07/27/18. For personal use only. HIGH GENETIC DIVERSITY IN MRSA/MSSA IN BOVINE MASTITIS
+
+5
+
+(seg-sei-sem,seu or seg-sei-sem-seo,seu or sen), but no strain
+showed the complete operon (seg, sei, sem, sen, seu, and
+seo). Similar data about the absence of one or more genes in
+the egc cluster have been previously reported. Moreover,
+other studies also reported that the distribution of the SE-
+encoding genes might vary among S. aureus strains isolated
+from bovine mastitis. Thus, the prevalence of SE encoding
+genes may vary depending on the geographical location.34
+The presence of isolates with genes encoding toxins in-
+volved in human infections in the milk of cows with mastitis
+might represent a potential risk for human health. In our
+study, MSSA isolates harbored more virulence genes than
+MRSA isolates. The lukF-lukS-PV, etA, and etB genes have
+not been detected in S. aureus strains isolated from bovine
+mastitis in previous studies.8
+
+Interestingly, most of the MSSA isolates (11/12) and all
+MRSA isolates of this study lacked the IEC system; only one
+strain of lineage ST4119 carried the IEC gene cluster (type
+D). The IEC system is a set of genes that allows evasion of
+the human defenses that are associated with strains of human
+origin. Its presence or absence in S. aureus strains isolated
+from milk mastitis bovine is very important, since it gives us
+information about the possible origin of the isolates (human
+or animal origin).10 As expected, most of our MSSA/MRSA
+isolates lacked the IEC human marker; we cannot exclude the
+human origin of the MSSA strain IEC-positive.
+
+In this study, molecular typing revealed a high diversity
+of new genetic lineages among the S. aureus isolates in
+MSSA and MRSA strains that cause bovine mastitis. Eight
+new different STs were identiﬁed and they represented a
+single and double locus variants of ST97, ST700, ST351,
+ST124, or ST487 (Table 2). The spa-type t267 was the most
+prevalent among our isolates, similar data were reported in a
+previous report in India.35
+
+Among MRSA, two strains were typed as t267 with a new
+ST4120, and were isolated from two cows of the same farm;
+the other MRSA strain, typed as t10381/ST4114, was ob-
+tained from another farm. It is interesting to remark that six
+MSSA isolates recovered from milk samples of mastitis
+cows of four different farms, were also typed as t267-
+ST4120; It appears that this speciﬁc clone, both as MRSA
+and MSSA, is circulating in dairy farms causing bovine
+mastitis in Northern Tunisia. CC ST4120 is a single locus
+variant of ST124, included in CC5, being this CC frequently
+detected in human infections.36 MSSA of lineages CC5-
+ST5/-ST8/-ST15 and MRSA of lineages CC5-ST5/-ST8
+appears to occur frequently in African hospital environ-
+ments, with CC5 being the most prevalent CC for MSSA
+and MRSA across Africa.36
+
+In addition, three new STs detected in one MRSA (ST4114)
+and two MSSA strains (ST4112/ST4113) represent single or
+double locus variants of ST97 related to CC97. According to
+a recent study, the lineage ST97 can evolve to various ST
+through active locus mutation; in this sense, ST71 may have
+originated from ST97, and both ST71 and ST97 belong to
+CC97, which includes mainly strains of clinical and subclinical
+bovine mastitis all over the world.37
+
+In Tunisia, few reports have described the detection of S.
+aureus in samples of non-human origins. For instance, in
+healthy animals (such as sheep, donkey, pet) the CCs
+identiﬁed from MRSA and MSSA isolates were CC1, CC6,
+CC22, CC72, CC130, CC80, or CC522, among others.12,28
+
+Moreover, MSSA isolates of CC97 have been previously
+reported in healthy bovine milk in Tunisia.30
+
+In relation with MRSA of human origin in Tunisia, the
+lineage CC80 was mostly found among clinical isolates,
+although other lineages have been also reported, as CC5,
+CC8, or CC45, among others.38–41 Moreover, MRSA-ST80-
+t203 has been detected in healthy humans.26
+
+In this study, we found that similar to what was reported
+previously, all our MRSA isolates belonged to agr-type
+I.21,42 It has been previously found that S. aureus strains
+belonging to agr group I have a greater ability of invading
+epithelial cells and persistence in the mammary gland. This
+suggests that agr-I containing strains might be more effec-
+tive at causing clinical or subclinical mastitis than strains of
+other groups.43
+
+Conclusion
+
+To conclude, we show that S. aureus, both MSSA and
+MRSA, is a cause of bovine mastitis in Tunisian dairy
+farms. These isolates were genetically diverse, with seven
+new STs, and presented low resistance rates for most anti-
+biotics, except b-lactams. Many MSSA isolates carried the
+tst and/or enterotoxin genes that are responsible for toxic
+shock syndrome and food poisoning. Our study gives im-
+portant information to know the implication of S. aureus in
+bovine mastitis at dairy farms in the analyzed region, which
+is important for designing strategic plans for surveillance,
+control, prevention, and treatment of staphylococcal masti-
+tis. Our ﬁndings emphasize the risk of transmission of these
+microorganisms to humans through direct contact with cows
+or through the consumption of milk with mastitis and its
+serious effects on food safety and public health.
+
+Ethics Statement
+
+The study underwent ethical review and was given ap-
+proval by the Bio-Medical Ethics Animal Committee at
+Pasteur Institute of Tunis.
+
+Acknowledgments
+
+This work was supported by internal collaborative pro-
+ject of Pasteur Institute of Tunis and the Tunisian Ministry
+of Higher Education, Scientiﬁc Research and Technology
+(LR11IPT03). The experimental part performed in the
+University of La Rioja (Spain) was ﬁnanced by project
+SAF2016-76571-R of the Agencia Estatal de Investigacio´n
+(AEI) of Spain and the Fondo Europeo de Desarrollo Re-
+gional (FEDER). Sara Ceballos has a predoctoral fellow-
+ship of the University of La Rioja (Spain). We thank Dr.
+R.B. Elandolsi Laboratory of Epidemiology and Veterinary
+Microbiology of Pasteur Institute of Tunis for providing
+samples.
+
+Disclosure Statement
+
+No competing ﬁnancial interests exist.
+
+References
+
+1. Wang, D., Z. Wang, Z. Yan, J. Wu, T. Ali, J. Li, Y. Lv, and
+B. Han. 2015. Bovine mastitis Staphylococcus aureus: anti-
+biotic susceptibility proﬁle, resistance genes and molecular
+
+Downloaded by Tufts University package NERL from www.liebertpub.com at 07/27/18. For personal use only. 6
+
+KLIBI ET AL.
+
+typing of methicillin-resistant and methicillin-sensitive
+strains in China. Infect. Genet. Evol. 31:9–16.
+
+2. Vanderhaeghen, W., S. Piepers, F. Leroy, E. Van Coillie, F.
+Haesebrouck, and S. De Vliegher. 2015. Identiﬁcation,
+typing, ecology and epidemiology of coagulase negative
+staphylococci associated with ruminants. Vet. J. 203:44–51.
+3. Silva, N.C., F.F. Guimara˜es, M.P. Manzi, P.E. Budri, E.
+Go´mez-Sanz, D. Benito, H. Langoni, V.L. Rall, and C.
+Torres. 2013. Molecular characterization and clonal diversity
+of methicillin-susceptible Staphylococcus aureus in milk of
+cows with mastitis in Brazil. J. Dairy. Sci. 96:6856–6862.
+
+4. Jamali, H., B. Radmehr, and S. Ismail. 2014. Short com-
+munication: prevalence and antibiotic resistance of Sta-
+phylococcus aureus isolated from bovine clinical mastitis.
+J. Dairy. Sci. 97:2226–2230.
+
+5. Lim, S.K., H.M. Nam, G.C. Jang, H.S. Lee, S.C. Jung, and
+T.S. Kim. 2013. Transmission and persistence of
+methicillin-resistant Staphylococcus aureus in milk, envi-
+ronment, and workers in dairy cattle farms. Foodborne
+Pathog. Dis. 10:731–736.
+
+6. Peles, F., M. Wagner, L. Varga, I. Hein, P. Rieck, K.
+Gutser, P. Keresztu´ri, G. Kardos, I. Turcsa´nyi, B. Be´ri, and
+A. Szabo´. 2007. Characterization of Staphylococcus aureus
+strains isolated from bovine milk in Hungary. Int. J. Food
+Microbiol. 118:186–193.
+
+7. Bardiau, M., K. Yamazaki, J.N. Duprez, B. Taminiau, J.G.
+Mainil, and I. Ote. 2013. Genotypic and phenotypic char-
+acterization of methicillin-resistant Staphylococcus aureus
+(MRSA) isolated from milk of bovine mastitis. Lett. Appl.
+Microbiol. 57:181–186.
+
+8. Turkyilmaz, S., S. Tekbiyik, E. Oryasin, and B. Bozdogan.
+2010. Molecular epidemiology and antimicrobial resistance
+mechanisms of methicillin-resistant Staphylococcus aureus
+isolated from bovine milk. Zoonoses Public Health. 57:
+197–203.
+
+9. Brody, T., A.S. Yavatkar, Y. Lin, J. Ross, A. Kuzin, and M.
+Kundu. 2008. Horizontal gene transfers link a human
+MRSA pathogen to contagious bovine mastitis bacteria.
+PLoS One 3:e3074.
+
+10. Jarraud, S., C. Mougel, J. Thioulouse, G. Lina, H. Meug-
+nier, F. Forey, X. Nesme, J. Etienne, and F. Vandenesch.
+2002. Relationships between Staphylococcus aureus ge-
+netic background, virulence factors, agr groups (alleles),
+and human disease. Infect. Immun. 70:631–641.
+
+11. Chavhan, S.K., D.R. Kalorey, A.A. Nagdive, H.J. Purohit,
+S.B. Barbuddhe, and N.V. Kurkure. 2011. Molecular
+characterization of intercellular adhesion gene in Staphy-
+lococcus aureus
+isolated from bovine mastitic milk.
+Trop. Anim. Health Prod. 44:247–252.
+
+12. Gharsa, H., K. Ben Slama, C. Lozano, E. Gomez-Sanz, N.
+Klibi, R. Ben Sallem, P. Gomez, M. Zarazaga, A. Boudabous,
+and C. Torres. 2012. Prevalence, antibiotic resistance, viru-
+lence traits and genetic lineages of Staphylococcus aureus in
+healthy sheep in Tunisia. Vet. Microbiol. 156:367–373.
+
+13. Clinical and Laboratory Standards Institute. 2015. Perfor-
+mance standards for antimicrobial susceptibility testing;
+Twenty-ﬁfth informational supplement. Clinical and La-
+boratory Standards Institute document M100-S25, CLSI,
+Wayne, PA.
+
+14. Steward, C.D., P.M. Raney, A.K. Morrell, P.P. Williams,
+L.K. McDougal, L. Jevitt, J.J. McGowan, and F.F. Tenover.
+2005. Testing for induction of clindamycin resistance in
+erythromycin-resistant isolates of Staphylococcus aureus. J.
+Clin. Microbiol. 43:1716–1721.
+
+15. Shopsin, B., B. Mathema, P. Alcabes, B. Said-Salim, G.
+Lina, A. Matsuka, J. Martinez, and N. Kreiswirth. 2003.
+Prevalence of agr speciﬁcity groups among Staphylococcus
+aureus strains colonizing children and their guardians. J.
+Clin. Microbiol. 41:456–459.
+
+16. Harmsen, D., H. Claus, W. Witte, J. Rothganger, H. Claus,
+D. Turnwald, and U. Vogel. 2003. Typing of methicillin-
+resistant Staphylococcus aureus in a university hospital
+setting by using novel software for spa repeat determination
+and database management. J. Clin. Microbiol. 41:5442–
+5448.
+
+17. Benito, D., P. Gomez, C. Lozano, V. Estepa, E. Gomez-
+Sanz, M. Zarazaga, and C. Torres. 2014. Genetic lineages,
+antimicrobial resistance, and virulence in Staphylococcus
+aureus of meat samples in Spain: analysis of immune
+evasion cluster (IEC) genes. Foodborne. Pathog. Dis. 11:
+354–356.
+
+18. Saidi, R., Z. Cantekin, D. Khelef, Y. Ergu¨n, H. Solmaz, and
+R. Kaidi. 2015. Antibiotic susceptibility and molecular
+identiﬁcation of antibiotic resistance genes of staphylococci
+isolated from bovine mastitis in Algeria. Vet. Dergi. Kaf-
+kas. 21:513–520.
+
+19. Schmidt, T., M.M. Kock, and M.M. Ehlers. 2017. Mole-
+cular characterization of Staphylococcus aureus isolated
+from bovine mastitis and close human contacts in South
+African dairy herds: genetic diversity and inter-species host
+transmission. Front. Microbiol. 6:8–511.
+
+20. Abebe, R., H. Hagere, A. Mesele, M. Bekele, and A.
+Kassahun. 2016. Bovine mastitis: prevalence, risk factors
+and isolation of Staphylococcus aureus in dairy herds at
+Hawassa milk shed, South Ethiopia. BMC Vet. Res. 12:
+270.
+
+21. Jagielski, T., E. Puacz, A. Lisowski, P. Siedlecki, W.
+Dudziak, J. Mie˛dzobrodzki, and H. Krukowski. 2014. Short
+communication: antimicrobial susceptibility proﬁling and
+genotyping of Staphylococcus aureus isolates from bovine
+mastitis in Poland. J. Dairy. Sci. 97:6122–6128.
+
+22. Silva, N.C., F.F. Guimaraes, M.P. Manzi, A. Fernandes
+Junior, E. Gomez-Sanz, P. Gomez, H. Langoni, V.L.M.
+Rall, and C. Torres. 2014. Methicillin-resistant Staphylo-
+coccus aureus of lineage ST398 as cause of mastitis in
+cows. Lett. Appl. Microbiol. 59:665–669.
+
+23. Lee, J.H. 2003. Methicillin (oxacillin)-resistant Staphylo-
+coccus aureus strains isolated from major food animals and
+their potential
+transmission to humans. Appl. Environ.
+Microbiol. 69:6489–6494.
+
+24. Gindonis, V., S. Taponen, A.L. Myllyniemi, S. Pyo¨ra¨la¨, S.
+Nyka¨senoja, S. Salmenlinna, L. Lindholm, and M. Rantala.
+2013. Occurrence and characterization of methicillin re-
+sistant staphylococci from bovine mastitis milk samples in
+Finland. Acta Vet. Scand. 55:61.
+
+25. Guimara˜es, F.F., M.P. Manzi, S.F. Joaquim, V.B. Richini-
+Pereira, and H. Langoni. 2017. Short communication:
+outbreak of methicillin-resistant Staphylococcus aureus
+(MRSA)-associated mastitis in a closed dairy herd. J.
+Dairy. Sci. 100:726–730.
+
+26. Pu, W., Y. Su, J. Li, C. Li, Z. Yang, H. Deng, and C. Ni.
+2014. High incidence of oxacillin-susceptible mecA-
+positive Staphylococcus aureus (OS-MRSA) associated
+with bovine mastitis in China. PLoS One. 9:e88134.
+
+27. Ben Slama, K., H. Gharsa, N. Klibi, A. Jouini, C. Lozano,
+E. Go´mez-Sanz, M. Zarazaga, A. Boudabous, and C.
+Torres. 2011. Nasal carriage of Staphylococcus aureus in
+healthy humans with different
+levels of contact with
+
+Downloaded by Tufts University package NERL from www.liebertpub.com at 07/27/18. For personal use only. HIGH GENETIC DIVERSITY IN MRSA/MSSA IN BOVINE MASTITIS
+
+7
+
+animals in Tunisia: genetic lineages, methicillin resistance,
+and virulence factors virulence. Eur J. Clin. Microbiol.
+Infect. Dis. 30:499–508.
+
+28. Chairat, S., H. Gharsa, C. Lozano, E. Gomez-Sanz, P.
+Gomez, M. Zarazaga, A. Boudabous, C. Torres, and K. Ben
+Slama. 2015. Characterization of Staphylococcus aureus
+from raw meat samples in Tunisia: detection of clonal
+lineage ST398 from the African continent. Foodborne Pa-
+thog. Dis. 12:686–692.
+
+29. Gharsa, H., R. Ben Sallem, K. Ben Slama, E. Gomez-Sanz,
+C. Lozano, A. Jouini, N. Klibi, M. Zarazaga, A. Bouda-
+bous, and C. Torres. 2012. High diversity of genetic line-
+ages and virulence genes in nasal Staphylococcus aureus
+isolates from donkeys destined to food consumption in
+Tunisia with predominance of the ruminant associated
+CC133 lineage. BMC. Vet. Res. 8:203.
+
+30. Seixas, R., J.P. Santos, R. Bexiga, C.L. Vilela, and M.
+Oliveira. 2014. Short communication: antimicrobial resis-
+tance and virulence characterization of methicillin-resistant
+staphylococci isolates from bovine mastitis cases in Por-
+tugal. J. Dairy. Sci. 97:340–344.
+
+31. Ben Said, M., M.S. Abbassi, V. Bianchini, S. Sghaier, P.
+Cremonesi, A. Romano`, V. Gualdi, A. Hassen, and M.
+Luini. 2016. Genetic characterization and antimicrobial-
+resistance of Staphylococcus aureus isolated from bovine
+milk in Tunisia. Lett. Appl. Microbiol. 63:473–481.
+
+32. Akineden, O., C. Annemuller, AA. Hassan, C. Lammler,
+W. Wolter, and M. Zschock. 2001. Toxin genes and other
+characteristics of Staphylococcus aureus isolates from milk
+of cows with mastitis. Clin. Diagn. Immunol. 8:959–964.
+33. Schuberth, H.J., C. Krueger, H. Zerbe, E. Bleckmann, and
+W. Leibold. 2001. Characterization of leukocytotoxic and
+superantigen-like factors produced by Staphylococcus au-
+reus isolates from milk of cows with mastitis. Vet. Mi-
+crobiol. 82:187–199.
+
+34. Larsen, H.D., F.M. Aarestrup, and N.E. Jensen. 2002.
+Geographical variation in the presence of genes encoding
+superantigenic exotoxins and betahemolysin among Sta-
+phylococcus aureus isolated from bovine mastitis in Europe
+and USA. Vet. Microbiol. 85:61–67.
+
+35. Mitra, S.D., D. Velu, M. Bhuvana, N. Krithiga, A. Bane-
+rjee, R. Shome, H. Rahman, S.K. Ghosh, and B.R. Shome.
+2013. Staphylococcus aureus spa type t267, clonal ancestor
+of bovine subclinical mastitis in India. J. Appl. Microbiol.
+114:1604–1615.
+
+36. Abdulgader, S.M., A.O. Shittu, M.P. Nicol, and M. Kaba.
+2015. Molecular epidemiology of methicillin resistant
+Staphylococcus aureus in Africa: a systematic review.
+Front. Microbiol. 6, 348.
+
+37. Zhang, L., Y. Li, H. Bao, R. Wei, Y. Zhou, H. Zhang, and
+R. Wang. 2016. Population structure and antimicrobial
+proﬁle of Staphylococcus aureus strains associated with
+bovine mastitis in China. Microb. Pathog. 97:103–109.
+
+38. Ben Nejma, M., A. Merghni, and M. Mastouri. 2014.
+Genotyping of methicillin resistant Staphylococcus aureus
+strains isolated from hospitalized children. Int. J. Pediatric.
+2014:314316.
+
+39. Kechrid, A., M. Pe´rez-Va´zquez, H. Smaoui, D. Hariga, M.
+Rodrı´guez-Ban˜os, A. Vindel, F. Baquero, R. Canto´n, and R.
+Del Campo. 2011. Molecular analysis of community-
+acquired methicillin-susceptible and resistant Staphylo-
+coccus aureus isolates recovered from bacteraemic and
+osteomyelitis infections in children from Tunisia. Clin.
+Microbiol. Infect. 17:1020–1026.
+
+40. Mariem, B.J., T. Ito, M. Zhang, J. Jin, S. Li, B.B. Ilhem, H.
+Adnan, X. Han, and K. Hiramatsu. 2013. Molecular char-
+acterization of methicillin-resistant Panton-Valentine leuko-
+cidin positive Staphylococcus aureus clones disseminating in
+Tunisian hospitals and in the community. BMC. Microbiol.
+13:2.
+
+41. Elhani, D., H. Gharsa, D. Kalai, C. Lozano, P. Go´mez, J.
+Boutheina, M. Aouni, F. Barguellil, C. Torres, and K. Ben
+Slama. 2013. Clonal lineages detected amongst tetracycline-
+resistant meticillin-resistant Staphylococcus aureus isolates
+of a Tunisian hospital, with detection of lineage ST398.
+J. Med. Microbiol. 64:623–629.
+
+42. Fessler, A., C. Scott, K. Kadlec, R. Ehricht, S. Monecke,
+and S. Schwarz. 2010. Characterization of methicillin-
+resistant Staphylococcus aureus ST398 from cases of bo-
+vine mastitis. J. Antimicrob. Chemother. 65:619–625.
+
+43. Buzzola, F.R., L.P. Alvarez, L.P. Tuchscherr, M.S. Barba-
+gelata, M.S. Lattar, L. Calvinho, and D.O. Sordelli. 2007.
+Differential abilities of capsulated and non-capsulated Sta-
+phylococcus aureus isolate from diverse agr groups to in-
+vade mammary epithelial cells. Infect. Immun. 7:886–891.
+
+Address correspondence to:
+Ahlem Jouini, PhD
+Laboratory of Epidemiology and Veterinary Microbiology
+Group of Bacteriology and Biotechnology Developement
+Pasteur Institute of Tunis
+13 Place Pasteur-BP 74
+Belve´de`re
+Tunis 1002
+Tunisia
+
+E-mail: ahlem.jouini@pasteur.rns.tn
+
+Downloaded by Tufts University package NERL from www.liebertpub.com at 07/27/18. For personal use only. 

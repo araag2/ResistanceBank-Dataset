@@ -1,0 +1,2637 @@
+Accepted Manuscript
+
+Population structure and antimicrobial profile of Staphylococcus aureus strains
+associated with bovine mastitis in China
+
+Lili Zhang, Yuchen Li, Hongduo Bao, Ruicheng Wei, Yan Zhou, Hui Zhang, Ran
+Wang
+
+PII:
+DOI:
+Reference:
+
+S0882-4010(15)30237-0
+10.1016/j.micpath.2016.06.005
+YMPAT 1853
+
+To appear in: Microbial Pathogenesis
+
+Received Date: 19 December 2015
+Revised Date: 30 May 2016
+Accepted Date: 1 June 2016
+
+Please cite this article as: Zhang L, Li Y, Bao H, Wei R, Zhou Y, Zhang H, Wang R, Population structure
+and antimicrobial profile of Staphylococcus aureus strains associated with bovine mastitis in China,
+Microbial Pathogenesis (2016), doi: 10.1016/j.micpath.2016.06.005.
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to
+our customers we are providing this early version of the manuscript. The manuscript will undergo
+copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please
+note that during the production process errors may be discovered which could affect the content, and all
+legal disclaimers that apply to the journal pertain.
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+ 
+
+Population structure and antimicrobial profile of Staphylococcus 
+
+aureus strains associated with bovine mastitis in China 
+
+Lili Zhanga, Yuchen Lia, Hongduo Baoa, Ruicheng Weia, Yan Zhoua, Hui 
+
+Zhanga, Ran Wanga, * 
+
+a Key Laboratory of Control Technology and Standard for Agro-product Safety and Quality 
+
+Ministry  of  Agriculture,  Key  Laboratory  of  Food  Quality  and  Safety  of  Jiangsu 
+
+Province-State Key Laboratory Breeding Base, Institute of Food Quality and Safety, Jiangsu 
+
+Academy of Agricultural Sciences, Nanjing 210014, China 
+
+10 
+
+*Corresponding author: Wangran2001@126.com 
+
+11 
+
+                            Dr. Ran Wang 
+
+12 
+
+                            Institute of Food Safety & Detection 
+
+13 
+
+                            Jiangsu Academy of Agricultural Sciences, Nanjing 210014, P.R. China 
+
+14 
+
+                            Tel.: 86 25 84391617 
+
+15 
+
+                            Fax: 86 25 84391617 
+
+16 
+
+ 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+
+31 
+
+32 
+
+33 
+
+34 
+
+35 
+
+36 
+
+37 
+
+38 
+
+39 
+
+40 
+
+41 
+
+42 
+
+43 
+
+44 
+
+45 
+
+46 
+
+47 
+
+48 
+
+49 
+
+ 
+
+Abstract 
+
+Staphylococcus  aureus  is  a  significant  bacterial  pathogen  associated  with 
+
+bovine mastitis. The aim of the present study was to investigate and characterize 
+
+of S. aureus strains isolated from the milk of cows suffering from mastitis in the 
+
+mid-east of China. Among the 200 milk samples analyzed, 58 were positive for 
+
+S. aureus, of these isolates, 11 isolates were methicillin-resistant Staphylococcus 
+
+aureus (MRSA). All of the 58 S. aureus strains were classified in agr group I, 
+
+while  seven  different  sequence  type  (ST)  patterns  were  identified  and  among 
+
+them  the  most  common  was  ST630  followed  by  ST188.  All  of  the  S.  aureus 
+
+isolates belonging to ST630 were resistant to more than four antimicrobials, and 
+
+22.2%  of  isolates  belonging  to  ST188  were  resistant  to  eight  antimicrobials. 
+
+Interestingly, while strong biofilm producers demonstrated higher resistance to 
+
+multiple  antimicrobials,  they  exhibited  lower  intracellular  survival  rates.  The 
+
+results  of  this  study  illustrated  the  distribution,  antimicrobial  susceptibility 
+
+profiles, genotype, and the ability of biofilm production and mammary epithelial 
+
+cells invasion of these S. aureus isolates. This study can provide the basis for the 
+
+development  of  a  disease  prevention  program  in  dairy  farms  to  reduce  the 
+
+potential risk in both animal and human health. 
+
+Key  words:  Staphylococcus  aureus;  bovine  mastitis;  MLST  typing;  biofilm 
+
+production; invasion assay. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT50 
+
+51 
+
+52 
+
+53 
+
+54 
+
+55 
+
+56 
+
+57 
+
+58 
+
+59 
+
+60 
+
+61 
+
+62 
+
+63 
+
+64 
+
+65 
+
+66 
+
+67 
+
+68 
+
+69 
+
+70 
+
+71 
+
+72 
+
+73 
+
+74 
+
+75 
+
+76 
+
+1. Introduction 
+
+Milk  production  is  an  important  branch  of  the  Chinese  agribusiness  and 
+
+China has become the third largest milk producing  country in the world, even 
+
+though most Asians are lactose intolerant. As the most important disease in the 
+
+dairy industry worldwide, bovine mastitis can cause heavy economic burdens in 
+
+dairy herds [1]. In China, several studies have reported the isolation of S. aureus 
+
+in  milk  samples  from  cows  with  mastitis  [2-5];  however,  data  related  to 
+
+molecular  typing,  biofilm  production  ability  and  the  invasion  of  mammary 
+
+epithelial cells by S. aureus from milk samples are scarce. 
+
+Because  of  the  acquisition  of  the  mecA  gene,  many  S.  aureus  can  be 
+
+methicillin resistance (MRSA), which can cause important therapeutic problems 
+
+when  implicated  in  human  or  animal  infections.  However,  interests  in 
+
+methicillin-susceptible S. aureus (MSSA) have also increased in recent years, as 
+
+published  reports  have  proven  that  MSSA  can  also  be  implicated  in  important 
+
+infections and may help to explain the appearance and evolution of the different 
+
+MRSA  lineages  [6].  Many  different  molecular  typing  methods  have  been 
+
+developed for MSSA and MRSA genetic relevance study, such as phage typing 
+
+[7],  pulsed  field  gel  electrophoresis  (PFGE)  [8];  multilocus  sequence  typing 
+
+(MLST)  [9],  polymorphism  of  protein  A  gene  (spa  typing)  [8]  and  accessory 
+
+gene regulator gene (agr typing) [10]. 
+
+The  pathogenesis  of  S.  aureus  infection  is  very  complex  and  worthy  of 
+
+making  further  research.  Biofilm  formation  can  impair  the  action  of  both  the 
+
+host  immune  system  and  the  antimicrobial  agent,  which  represents  one  of  the 
+
+most  important  survival  mechanisms  of  bacteria  persistently  colonizing  the 
+
+extracellular  niche  [11].  S.  aureus  can  produce  a  wide  range  of  extracellular 
+
+toxins,  virulence  factors,  several  exfoliatins  and  enterotoxins,  which  represent 
+
+risks  for  humans  and  animals,  as  they  are  associated  with  severe  infections. 
+
+ 
+
+3 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT77 
+
+78 
+
+79 
+
+80 
+
+81 
+
+82 
+
+83 
+
+84 
+
+85 
+
+86 
+
+87 
+
+88 
+
+89 
+
+90 
+
+91 
+
+92 
+
+93 
+
+94 
+
+95 
+
+96 
+
+97 
+
+98 
+
+99 
+
+100 
+
+101 
+
+102 
+
+103 
+
+Nevertheless,  S.  aureus is also known to penetrate, survive, and even multiply 
+
+within  a  large  variety  of  eukaryotic  cells,  such  as  the  epithelial  cells  of  the 
+
+mammary gland or the immune cells [12]. This survival within the intracellular 
+
+niche  protects  the  bacteria  from  the  antibiotics  commonly  used  in  mastitis 
+
+treatment, and also enables them to persist in the host for a long time without 
+
+causing apparent inflammation [13, 14].   
+
+The aim of the present work was thus to identify S. aureus strains gathered 
+
+in  2014  from  bovine  mastitis  milk  in  Jiangsu,  China.  S.  aureus  strains  were 
+
+studied further through agr-typing, MLST, antimicrobial susceptibilities, biofilm 
+
+production and an invasion assay.   
+
+2. Materials and methods 
+
+2.1. Sample collection   
+
+In our study, samples were  collected  from three dairy farms, located in the 
+
+north, center, and south areas, respectively, of Jiangsu Province in the year 2014. 
+
+The three farms represent typical dairy production practices in each region. Milk 
+
+samples  were  taken  from  cows  with  clinical  mastitis,  which  manifested  as 
+
+decreased  milk  production,  color  change  of  the  milk,  and  inflammation  of  the 
+
+udder. Cotton swabs soaked in 70% ethanol were used to disinfect the surfaces 
+
+of teats. The first few streams of milk were discarded. Then a milk sample was 
+
+collected into a 10-ml sterile plastic tube. The collected samples were kept in a 
+
+cooler with ice and transported to the laboratory within 8 hours. 
+
+2.2. Bacterial isolation and identification 
+
+Isolation  and  identification  of  S.  aureus  were  performed  according  to 
+
+China’s National Technical Standard GB4789.10-2010. After incubation at 37°C 
+
+for  24  h  on  Baird-Parker  agar  plates  with  5%  egg  yolk  and  tellurite  (BPA, 
+
+Beijing  Land  Bridge  Technology  Ltd.,  Beijing,  China),  up  to  two  presumptive 
+
+colonies (black colonies surrounded by 2–5-mm clear zones) were selected from 
+
+ 
+
+4 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT104 
+
+105 
+
+106 
+
+107 
+
+108 
+
+109 
+
+110 
+
+111 
+
+112 
+
+113 
+
+114 
+
+115 
+
+116 
+
+117 
+
+118 
+
+119 
+
+120 
+
+121 
+
+122 
+
+123 
+
+124 
+
+125 
+
+126 
+
+127 
+
+128 
+
+129 
+
+130 
+
+a S. aureus-positive milk sample. Putative S. aureus isolates were further tested 
+
+for  hemolytic  and  coagulase  activities,  followed  by  PCR  to  identify  the  S. 
+
+aureus specific gene nuc1 [15]. All bacteria were routinely confirmed by the API 
+
+STAPH® identification system (bioMe´rieux, Marcy l’Etoile, France). 
+
+S.  aureus  strains  were  tested  for  methicillin  resistance  using  the  disc 
+
+diffusion  method  outlined  in  the  Clinical  Laboratory  Institute  Standards 
+
+guidelines CLSI (M100-S25, 2015). Moreover, the mecA gene, which has been 
+
+shown to confer methicillin resistance to S. aureus (MRSA), was also detected 
+
+by PCR using primers described previously [16]. Only when the isolates  were 
+
+both mecA positive and cefoxitin resistant, which can be classified as MRSA. 
+
+2.3. Antimicrobial susceptibility testing   
+
+Antimicrobial  resistance  was  determined  by  agar  disk  diffusion  tests  on 
+
+Müeller-Hinton agar plates according to CLSI (M100-S25, 2015). In the agar disk 
+
+diffusion  tests,  the  isolates  were  tested  against  a  total  of  13  antimicrobials  as 
+
+follows: penicillin (P, 15 µg), ampicillin (AMP, 10 µg), azithromycin (AZM, 15 µg), 
+
+cephalothin  (KF,  30  µg),  cefotaxime  (CTX,  30  µg),  ciprofloxacin  (CIP,  5  µg), 
+
+clindamycin  (DA,  2µg),  gentamicin  (CN,  10  µg),  kanamycin  (KAN,  5  µg), 
+
+ofloxacin (OFX, 5 µg), streptomycin (STR, 10 µg), tetracycline (TET, 30 µg) and 
+
+sulfamethoxazole  (SXT,  25  µg).  In  addition,  susceptibility 
+
+tests  against 
+
+vancomycin were performed using an MIC method according to CLSI guidelines. 
+
+The standard reference strains S. aureus ATCC29213 and ATCC25923 served as 
+
+quality control strains in every test run. 
+
+2.4. Genomic DNA extraction   
+
+A single colony of S. aureus was inoculated into LB culture medium, and 
+
+the  culture  was  shaken  overnight  at  37°C.  Then  the  culture  was  used  for 
+
+preparation of  genomic  DNA using the TIANamp Bacteria DNA Kit (Tiangen 
+
+Biotech Co., Ltd, Beijing, China) according to the manufacturer’s instructions. 
+
+ 
+
+5 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT131 
+
+132 
+
+133 
+
+134 
+
+135 
+
+136 
+
+137 
+
+138 
+
+139 
+
+140 
+
+141 
+
+142 
+
+143 
+
+144 
+
+145 
+
+146 
+
+147 
+
+148 
+
+149 
+
+150 
+
+151 
+
+152 
+
+153 
+
+154 
+
+155 
+
+156 
+
+157 
+
+2.5. agr genotyping 
+
+The  agr  allele  types  (Ⅰ-Ⅳ)  were  determined  by  multiplex  PCR  as 
+
+described [17]. In brief, multiplex PCRs were performed on 2 µl of DNA using 
+
+Taq DNA polymerase (Yeasen Biotechnoligy Co. Ltd., Shanghai, China) and 1 
+
+µM of each of the following primers: Pan (5′-ATG CAC ATG GTG CAC ATG 
+
+C-3′),  agr1  (5′-GTC  ACA  AGT  ACT  ATA  AGC  TGC  GAT-3′),  agr2  (5′-TAT 
+
+TAC TAA TTG AAA AGT GGC CAT AGC-3′), agr3 (5′-GTA ATG TAA TAG 
+
+CTT GTA TAA TAA TAC CCA G-3′), and agr4 (5′-CGA TAA TGC CGT AAT 
+
+ACC  CG-3′).  Amplifications  were  performed  with  the  following  PCR 
+
+programme: 1 cycle at 94°C for 1 min; 26 cycles at 94°C for 30 s, 55°C for 30 s, 
+
+and 72°C for 1 min; and finally 1 cycle at 72°C for 10 min. All PCR products 
+
+were  separated  using  gel  electrophoresis  on  1.5%  agarose  gels,  stained  with 
+
+ethidium bromide and visualized under UV light.   
+
+2.6. Multilocus sequence typing (MLST)   
+
+MLST was carried out as described previously [9]. Specifically, the MLST 
+
+analysis was conducted by sequencing fragments of seven house-keeping genes 
+
+(arcC,  aroE,  glpF,  gmk,  pta,  tpi  and  yqiL).  Allele  number  and  sequence  types 
+
+(STs)  were 
+
+assigned 
+
+by 
+
+using 
+
+the 
+
+S. 
+
+aureus  MLST  website 
+
+(http://saureus.mlst.net).   
+
+2.7. Biofilm production   
+
+Biofilm  formation  was  evaluated  by  spectrophotometry  in  microplates 
+
+using safranin staining [18]. The quantitative classification of biofilm production 
+
+was based on cut-off values (ODc) and average OD values [19], leading to four 
+
+categories of strains: OD ≤ ODc = not a biofilm producer; ODc < OD ≤ 2ODc = 
+
+weak  biofilm  producer;  2ODc  ≤  OD  ≤  4ODc  =  moderate  biofilm  producer;  4 
+
+OD < OD = strong biofilm producer.   
+
+2.8. Invasion assay   
+
+ 
+
+6 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT158 
+
+159 
+
+160 
+
+161 
+
+162 
+
+163 
+
+164 
+
+165 
+
+166 
+
+167 
+
+168 
+
+169 
+
+170 
+
+171 
+
+172 
+
+173 
+
+174 
+
+175 
+
+176 
+
+177 
+
+178 
+
+179 
+
+180 
+
+181 
+
+182 
+
+183 
+
+184 
+
+Bovine mammary epithelial cells (MAC-T) were used for in vitro bacterial 
+
+internalization assays as previously described [18, 20, 21].   
+
+2.9. Statistical analysis   
+
+The  antimicrobial  resistance  of  S.  aureus  was  analyzed  using  GraphPad 
+
+PRIM  software  (version  5.02  for  Windows;  GraphPad  software  Inc.).  To 
+
+illustrate  the  evolutionary  relatedness  of  S.  aureus  isolates,  a  population 
+
+snapshot  of  the  comparison  of  the  MLST  results  of  our  sequence  types  (STs) 
+
+with published STs was made using eBURST software, version 3.0 (Feil et al., 
+
+2004). A maximum likelihood tree was constructed with these STs to determine 
+
+phylogenies.  The  best-fit  substitution  model  was determined  using  MEGA  4.0 
+
+[22],  and  the  likelihood  of  each  model  was  measured  with  the  Bayesian 
+
+information  criterion  and  corrected  with  the  Akaike  information  criterion.  The 
+
+TrN93  model  with  a  discrete  gamma  distribution  (zG)  allowing  for  invariant 
+
+sites (zI) was used in the complete genome analysis. 
+
+3. Results 
+
+3.1. Isolation and identification of S. aureus 
+
+Among  the  200  milk  samples  analyzed,  58  (29.0%)  were  positive  for  S. 
+
+aureus, including 26 from Nanjing, 5 from Suzhou and 27 from Yangzhou. Of 
+
+these 58 isolates, 11 isolates (19.0%, 11/58) harbored the mecA gene and were 
+
+resistant to cefoxitin, thus were MRSA. All of these were isolated from a dairy 
+
+farm  in  Yangzhou.  Besides  this,  6  S.  aureus  isolates  (10.3%,  6/58)  showed 
+
+resistance to cefoxitin but did not carry the mecA gene. 
+
+3.2. Antimicrobial resistance phenotypes   
+
+Figure  1  shows  the  susceptibility  of  58  S.  aureus  isolates  to  21 
+
+antimicrobial agents. The most of the isolates were resistant to ampicillin (53/58, 
+
+91.4%) and penicillin (53/58, 91.4%), followed by ciprofloxacin (31/58, 53.4%), 
+
+kanamycin  (24/58,  34.5%)  and  streptomycin  (13/58,  22.4%),  and  to  a  lesser 
+
+ 
+
+7 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT185 
+
+186 
+
+187 
+
+188 
+
+189 
+
+190 
+
+191 
+
+192 
+
+193 
+
+194 
+
+195 
+
+196 
+
+197 
+
+198 
+
+199 
+
+200 
+
+201 
+
+202 
+
+203 
+
+204 
+
+205 
+
+206 
+
+207 
+
+208 
+
+209 
+
+210 
+
+211 
+
+extent  tetracycline  (11/58,  19.0%),  azithromycin  (10/58,  17.2%),  clindamycin 
+
+(6/58,  10.3%)  and  ofloxacin  (6/58,  10.3%)  (Fig.1).  However,  no  isolates  were 
+
+resistant to cephalothin and vancomycin, and the S. aureus isolates showed low 
+
+resistance  to  cefotaxime  and  sulfamethoxazole  (resistance  rate  ranged  from 
+
+1.7% to 3.5%) (Fig.1). Fifty-five (94.8%) S. aureus isolates were resistant to at 
+
+least  one  antimicrobial  and  the  percentage  of  resistance  to  1–3  antimicrobials 
+
+was  72.4%  (Table  1).  In  particular,  approximately  22.4%  of  isolates  was 
+
+resistant to ≥ 5 antimicrobials (Table 1).   
+
+Fifty-five  resistant  S.  aureus  isolates  belonging  to  20  drug-resistance 
+
+patterns  were  identified,  with  the  most  frequent  being  resistant  to  AMP  CIP 
+
+KAN P (15/55, 17.3%), and 9 MRSA isolates belonged to this drug-resistance 
+
+pattern (Table 1). In addition, other resistance patterns such as AMP P (11/55, 
+
+19.0%)  and  AMP  CIP  OFX  P  (5/55,  9.1%)  were  also  wide  spread.  Though 
+
+various  resistance  patterns  were  identified,  certain  drugs  resistance  (such  as: 
+
+AMP,  CIP,  KAN,  P)  were  found  in  different  resistance  patterns.  In  addition, 
+
+four strains isolated from Suzhou were resistant to eight antibiotics (AMP AZM 
+
+CIP CN DA P S TET) (Table 1).   
+
+3.3. agr-typing and MLST   
+
+Through multiplex PCR, the agr alleles were successfully identified in 58 
+
+isolates. All of the isolates were classified as agr I (Table 2). From the MLST 
+
+results,  seven  different  ST  patterns  were  identified  among  the  58  S.  aureus 
+
+isolates  (Table  1).  ST630  and  ST188  were  the  prominent  STs  in  this  study, 
+
+represented by 24 and 18 S. aureus isolates respectively, followed by ST97, ST6 
+
+and ST71, while one strain displayed ST1 and one strain displayed ST5 (Table 
+
+1).   
+
+With the less stringent group definition of 5/7 shared alleles, five clusters 
+
+of linked STs CC (clonal complex) were displayed in the snapshot, along with 
+
+ 
+
+8 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT212 
+
+213 
+
+214 
+
+215 
+
+216 
+
+217 
+
+218 
+
+219 
+
+220 
+
+221 
+
+222 
+
+223 
+
+224 
+
+225 
+
+226 
+
+227 
+
+228 
+
+229 
+
+230 
+
+231 
+
+232 
+
+233 
+
+234 
+
+235 
+
+236 
+
+237 
+
+238 
+
+two unlinked STs (Fig.2). Through cluster analysis, four clonal complexes CC1, 
+
+CC5,  CC97  and  CC188 were  found.  ST97  was  the  primary  founder  of  CC-97 
+
+and ST-71 was one of the SLVs (single-loucus) of it. CC-97 was the largest CC 
+
+with  21  SLVs.  However,  we  also  found  an  uneven  distribution  of  STs  in  the 
+
+three  cities  and  each  city  had  its  own  particular  STs.  For  example,  ST97  and 
+
+ST6  were  only  found  in  Nanjing,  while  ST630  and  ST71  were  identified  in 
+
+Yangzhou (Fig.2). 
+
+Phylogenetic  trees  revealed  the  relationship  between  our  ST  types  with 
+
+other ST types identified in mastitis milk in China (Fig.2). By cluster analysis, all 
+
+unique STs were separated into two big clusters and our ST types (isolates from 
+
+Jiangsu)  all  belonged  to  A  clusters,  including  most  of  the  mastitis-related  ST 
+
+types in China (Fig.3). ST-97 was closely related to ST-71 in A clusters, which 
+
+were widely distributed in China, except Shandong province (Fig.3). It also had 
+
+the nearer evolutionary  distance with the clinic and subclinical  mastitis -related 
+
+ST types in Xinjiang, Zhejiang, Jiangsu and Neimeng. The genetic relationships 
+
+among other STs in both clusters were far, especially ST-2166, which had the 
+
+farthest genetic distance with other ST types in B cluster (Fig.3). 
+
+3.4. Biofilm production   
+
+In TSBglc, only three strains (5.2%) did not produce any biofilm, while the 
+
+majority were biofilm producers, respectively weak (n = 1, 1.7%), moderate (n = 
+
+7, 12.1%) or strong (n = 47, 81.0%) producers (Table 2).   
+
+3.5 Invasion assay 
+
+We  observed  that  54  strains  (93.1%)  showed  an  invasion  rate  lower  than 
+
+1% of the initial inoculum, while only four strains (6.9%) showed an invasion 
+
+rate greater than 1% (Table 2). We found that these four strains showed a high 
+
+invasion rate in MAC-T cells, formed no or a weak biofilm in TSBglc. In contrast, 
+
+most  strains  showed  a  low  invasion  rate  in  MAC-T  cells  and  formed  a  strong 
+
+ 
+
+9 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT239 
+
+biofilm in TSBglc (Table 2). 
+
+240 
+
+241 
+
+242 
+
+243 
+
+244 
+
+245 
+
+246 
+
+247 
+
+248 
+
+249 
+
+250 
+
+251 
+
+252 
+
+253 
+
+254 
+
+255 
+
+256 
+
+257 
+
+258 
+
+259 
+
+260 
+
+261 
+
+262 
+
+263 
+
+264 
+
+265 
+
+4. Discussion 
+
+Many previous studies showed that members of the genus Staphylococcus 
+
+were the major causative agent of bovine mastitis in China (Cao et al., 2010; Liu 
+
+et al., 2007). In this study, we characterized 58 S. aureus isolates from bovine 
+
+mastitis  milk  samples  collected  from  Jiangsu  province  in  China.  The  overall 
+
+prevalence of S. aureus contamination was approximately 29.0%. This result is 
+
+higher than that of a previous study conducted in China [4] and other developing 
+
+countries,  such  as  Turkey  and  Brazil  [6,  23].  Moreover,  the  S.  aureus 
+
+contamination rate was higher than that in developed European countries and the 
+
+United  States  [24,  25].  Different  sampling  seasons,  sampling  procedures,  and 
+
+isolation methods could affect the S. aureus prevalence results. Better sanitation 
+
+in  cow  fairy,  use  of  preharvest  surveillance  and  control  of  S.  aureus  may 
+
+account for the lower contamination rates in developed countries. 
+
+Antimicrobial resistance in S. aureus has become a significant public health 
+
+concern. The antimicrobial resistance level in our study was relatively high. In 
+
+the  present  study,  the  highest  rates  of  antimicrobial  resistance  were  against 
+
+ampicillin  and  penicillin  (both  91.4%),  which  are  the  most  widely  used 
+
+antimicrobials  in  the  treatment  of  bovine  mastitis.  This  result  was  somewhat 
+
+expected  and  agreed  with  previous  reports  from  China  and  Brazil  [3,  26]. 
+
+However,  the  high  rate  of  ciprofloxacin,  streptomycin  and  ofloxacin  resistance 
+
+observed in this study is of concern. These antimicrobial agents are still widely 
+
+used in human therapy in China because of their low cost and ready availability. 
+
+Therefore,  resistance  to  these  antimicrobials  by  foodborne  pathogens  may 
+
+generate problems for human disease treatment. 
+
+Our results indicated that 94.8% of the S. aureus isolates were resistant to 
+
+at least one antimicrobial agent. Thirteen out of 58 staphylococcal isolates were 
+
+ 
+
+10 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT266 
+
+267 
+
+268 
+
+269 
+
+270 
+
+271 
+
+272 
+
+273 
+
+274 
+
+275 
+
+276 
+
+277 
+
+278 
+
+279 
+
+280 
+
+281 
+
+282 
+
+283 
+
+284 
+
+285 
+
+286 
+
+287 
+
+288 
+
+289 
+
+290 
+
+291 
+
+292 
+
+resistant to five or more antimicrobial classes including most of the commonly 
+
+used antimicrobials in the region (Table 1). These results were similar to those 
+
+previously  reported  in  China  [4,  5].  However,  several  clinical  studies  have 
+
+reported lower levels of antimicrobial resistance among mastitic S. aureus in the 
+
+United States and in European countries [27]. The uncontrolled use of antibiotic 
+
+in the region could be a reason for the spread of multidrug-resistant isolates. In 
+
+chronic and localized infections like mastitis, this may largely be dependent on 
+
+the  bacterium’s  ability  to  form  biofilms  in  which  bacterial  cells  can  evade  the 
+
+antibiotic  and  host  defenses  employed  to  inhibit  colonization  and  subsequent 
+
+infections [28]. In the present study, most of the S. aureus isolates (47/58, 81.0%) 
+
+were  strong  biofilm  producers.  This  may  be  one  of  the  reasons  why  the 
+
+antimicrobial resistance level was relatively high in our study. Moreover, 90.0% 
+
+of  MRSA  isolates  could  form  biofilms  in  TSBglc.  Importantly,  MRSA  isolates 
+
+that form biofilms also develop resistance to all the commonly used antibiotics 
+
+to which the planktonic bacteria are susceptible . 
+
+MLST  results  revealed  that  ST630  was  the  most  common  genotype  in 
+
+isolates  recovered  from  milk  in  this  study.  According  to  the  S.  aureus  MLST 
+
+database  (http://saureus.mlst.net),  strains  belonging  to  ST630  have  appeared 
+
+only in bulk milk in Japan. ST1 and ST5, reported previously in major human S. 
+
+aureus infections in Asia, Africa and Europe, were found in mastitis milk for the 
+
+first  time  in  our  study.  However,  ST97,  which  were  represented  by  seven 
+
+isolates  in  our  study,  has  been  reported  extensively  in  clinical  and  subclinical 
+
+mastitis  milk  in  multiple  regions  in  China.  ST97  can  form  various  ST  types 
+
+through  active  locus  mutation.  For  example,  ST71  may  have  originated  from 
+
+ST97, and both ST71 and ST97 belong to CC-97, which includes mainly strains 
+
+of  clinical  and  subclinical  bovine  mastitis  all  over  the  world  (Fig.  2).  ST71 
+
+found in this study was reported for the first time in Asia. It was only found in 
+
+ 
+
+11 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT293 
+
+294 
+
+295 
+
+296 
+
+297 
+
+298 
+
+299 
+
+300 
+
+301 
+
+302 
+
+303 
+
+304 
+
+305 
+
+306 
+
+307 
+
+308 
+
+309 
+
+310 
+
+311 
+
+312 
+
+313 
+
+314 
+
+315 
+
+316 
+
+317 
+
+318 
+
+319 
+
+Europe  and may  appear  from the single-locus mutation of ST97. Phylogenetic 
+
+analyses revealed that the majority of STs in our study all belonged to cluster A 
+
+and  showed  a  close  genetic  relationship  (Fig.  3).  This  supports  the  hypothesis 
+
+that S. aureus is a clonal organism and spreads from cow to cow. In our study, 
+
+isolates  belonging  to  ST630  were  frequently  associated  with  the  ACKP  type 
+
+(resistance to AMP, CIP, Kan, and Penicillin) and all MRSA isolates belonged 
+
+to the ST type. This indicated the frequent emergence of ST630 S. aureus with 
+
+high  resistance  rate  in  China  [2].  The  increasing  prevalence  of  the  MDR  S. 
+
+aureus ST630 clone will pose a considerable threat to the control of clinical S. 
+
+aureus infections.   
+
+Investigation  of  MRSA  from  farm  animals  has  intensified  all  over  the 
+
+world  during  recent  years.  However,  limited  information  is  available  for  the 
+
+genetic  characterization  of  MRSA  from  dairy  cows  in  China  [5,  29].  In  the 
+
+present  study,  using  phenotypic  and  genotypic  methods,  11  MRSA  were 
+
+identified from 58 S. aureus isolates. All these MRSA were found in Yangzhou 
+
+city.  We  have  learned  that  β-lactams  were  widely  used  for  the  treatment  and 
+
+prevention of bovine mastitis in this farm. Although effective, the massive use 
+
+of these antimicrobials may exert a selection pressure favoring the emergence of 
+
+methicillin-resistant  S.  aureus  strains.  Meanwhile,  we  also  found  five 
+
+phenotype-positive  MRSA 
+
+isolates,  which  were  mecA  negative.  The 
+
+mecA-negative but phenotype-positive MRSA have been previously reported in 
+
+Turkey  and  India  [30,  31].  Recently,  the  presence  of  mecA-negative  MRSA 
+
+strains in bovine milk samples has also been reported in China [32]. In our study 
+
+the mecA-negative MRSA strains showed high levels of antimicrobial resistance, 
+
+and  possessed  a  multi-drugs  resistant  phenotype  AMP  CIP  OFX  P  (Table  1). 
+
+However,  most  of  the  previous  studies  were  based  on  genotype  tests  for 
+
+identifying MRSA, which may misidentify these isolates as methicillin-sensitive 
+
+ 
+
+12 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT320 
+
+321 
+
+322 
+
+323 
+
+324 
+
+325 
+
+326 
+
+327 
+
+328 
+
+329 
+
+330 
+
+331 
+
+332 
+
+333 
+
+334 
+
+335 
+
+336 
+
+337 
+
+338 
+
+339 
+
+340 
+
+341 
+
+342 
+
+343 
+
+344 
+
+345 
+
+346 
+
+S.  aureus  (MSSA)  and  underestimate  the  true  prevalence  of  MRSA.  Thus,  a 
+
+combination  of  genotypic  and  phenotypic  tests  is  necessary  to  avoid  false 
+
+positive or false negative results in identifying MRSA. 
+
+In the present study, the 58 isolates were classified as  agr  I by multiplex 
+
+PCR (Table 2). This finding agrees with a previous observation, where 88% of 
+
+the bovine S. aureus strains were classified in agr group I [33]. It was revealed 
+
+that the bovine S. aureus strains in Jiangsu area mainly belonged to agr group I. 
+
+Similarly,  a  study  of  human  S.  aureus  showed  that  agr  group  I  was  prevalent 
+
+among clinical strains [34]. The agr group has been frequently associated with 
+
+MAC-T  cell  invasion  and  in  vivo  persistence.  In  fact,  agr  group  I  S.  aureus 
+
+strains  show  a  higher  invasion  rate  than  other  agr  groups  [18].  Moreover,  agr 
+
+group I S. aureus strains, which were cap5-positive but tested negative in vitro 
+
+for CP5 ELISA, showed a high invasion rate in MAC-T cells and formed a weak 
+
+biofilm in TSBglc [18]. However, previous studies have obtained different results. 
+
+They  showed  that  there  was  no  association  of  the  capsular  phenotype  with 
+
+biofilm  formation  of  S.  aureus  strains  from  clinical  bovine  mastitis  [35]. 
+
+Oliveira et al. (2011) suggested that S. aureus invasion levels were not related to 
+
+biofilm formation. In the present study, four strains showed a high invasion rate 
+
+in  MAC-T  cells  and  formed  no  or  weak  biofilms  in  TSBglc.  In  contrast,  most 
+
+strains showed a low invasion rate in MAC-T cells and formed strong biofilms 
+
+in TSBglc. 
+
+The present study describes the epidemiology and characteristic of S. aureus 
+
+from  milk  samples  in  Jiangsu  located  in  the  mid-east  of  China.  However,  the 
+
+study  design  and  in  particular  the  less  number  of  sampling  area  and  samples 
+
+limit the conclusions regarding correlate properties of which may be associated 
+
+with  persistent  mastitis.  Further  research  is  essential  to  using  a  larger  strain 
+
+collection  with  isolates  associated  cow  mastitis  from  more  farms  and  more 
+
+ 
+
+13 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT347 
+
+348 
+
+349 
+
+350 
+
+351 
+
+352 
+
+353 
+
+354 
+
+355 
+
+356 
+
+357 
+
+358 
+
+359 
+
+360 
+
+361 
+
+362 
+
+363 
+
+364 
+
+365 
+
+366 
+
+367 
+
+368 
+
+369 
+
+370 
+
+371 
+
+372 
+
+diverse  geographical  locations  in  China,  which  can  provide  the  basis  for  the 
+
+development  of  a  disease  prevention  program  in  dairy  farms  to  reduce  the 
+
+potential risk in both animal and human health.   
+
+Conflict of interest 
+
+There are no conflicts of interest. 
+
+Acknowledgments 
+
+We  thank  Dr.  Honglin  Jiang  for  providing  MAC-T  cells.  This  work  was 
+
+supported by the Natural Science Foundation of Jiangsu Province (BK20140458) 
+
+and  the  Jiangsu  Agricultural  Science  and  Technology  Foundation  [CX 
+
+(14)5062].   
+
+ 
+
+References 
+
+[1]  McDougall  S,  Parker  KI,  Heuer  C,  Compton  CW.  A  review  of  prevention  and  control  of 
+
+heifer mastitis via non-antibiotic strategies. Veterinary microbiology. 2009;134:177-85. 
+
+[2]  Xie  Y,  He  Y,  Gehring  A,  Hu  Y,  Li  Q,  Tu  SI,  et  al.  Genotypes  and  toxin  gene  profiles  of 
+
+Staphylococcus aureus clinical isolates from China. PloS one. 2011;6:e28276. 
+
+[3] Gao J, Ferreri M, Yu F, Liu X, Chen L, Su J, et al. Molecular types and antibiotic resistance 
+
+of  Staphylococcus  aureus  isolates  from  bovine  mastitis  in  a  single  herd  in  China.  Veterinary 
+
+journal. 2012;192:550-2. 
+
+[4]  Li  L,  Zhou  L,  Wang  L,  Xue  H,  Zhao  X.  Characterization  of  methicillin-resistant  and 
+
+-susceptible  staphylococcal  isolates  from  bovine  milk  in  northwestern  china.  PloS  one. 
+
+2015;10:e0116699. 
+
+[5] Wang D, Wang Z, Yan Z, Wu J, Ali T, Li J, et al. Bovine  mastitis  Staphylococcus aureus: 
+
+antibiotic  susceptibility  profile,  resistance  genes  and  molecular  typing  of  methicillin-resistant 
+
+and  methicillin-sensitive  strains  in  China.  Infection,  genetics  and  evolution  :  journal  of 
+
+molecular epidemiology and evolutionary genetics in infectious diseases. 2015;31:9-16. 
+
+ 
+
+14 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT373 
+
+374 
+
+375 
+
+376 
+
+377 
+
+378 
+
+379 
+
+380 
+
+381 
+
+382 
+
+383 
+
+384 
+
+385 
+
+386 
+
+387 
+
+388 
+
+389 
+
+390 
+
+391 
+
+392 
+
+393 
+
+394 
+
+395 
+
+396 
+
+397 
+
+398 
+
+399 
+
+[6] Silva NC, Guimaraes FF, Manzi MP, Budri PE, Gomez-Sanz E, Benito D, et al. Molecular 
+
+characterization and clonal diversity of methicillin-susceptible Staphylococcus aureus in milk of 
+
+cows with mastitis in Brazil. Journal of dairy science. 2013;96:6856-62. 
+
+[7]  Roberson  JR,  Fox  LK,  Hancock  DD,  Gay  JM,  Besser  TE.  Sources  of  intramammary 
+
+infections  from  Staphylococcus  aureus  in  dairy  heifers  at  first  parturition.  Journal  of  dairy 
+
+science. 1998;81:687-93. 
+
+[8] Buzzola FR, Quelle L, Gomez MI, Catalano M, Steele-Moore L, Berg D, et al. Genotypic 
+
+analysis  of  Staphylococcus  aureus  from  milk  of  dairy  cows  with  mastitis  in  Argentina. 
+
+Epidemiology and infection. 2001;126:445-52. 
+
+[9]  Enright  MC,  Day  NP,  Davies  CE,  Peacock  SJ,  Spratt  BG.  Multilocus  sequence  typing  for 
+
+characterization  of  methicillin-resistant  and  methicillin-susceptible  clones  of  Staphylococcus 
+
+aureus. Journal of clinical microbiology. 2000;38:1008-15. 
+
+[10]  Ote  I,  Taminiau  B,  Duprez  JN,  Dizier  I,  Mainil  JG.  Genotypic  characterization  by 
+
+polymerase  chain  reaction  of  Staphylococcus  aureus  isolates  associated  with  bovine  mastitis. 
+
+Veterinary microbiology. 2011;153:285-92. 
+
+[11]  Melchior  MB,  Vaarkamp  H,  Fink-Gremmels  J.  Biofilms:  a  role  in  recurrent  mastitis 
+
+infections? Veterinary journal. 2006;171:398-407. 
+
+[12] Kerro Dego O, van Dijk JE, Nederbragt H. Factors involved in the early pathogenesis of 
+
+bovine  Staphylococcus  aureus  mastitis  with  emphasis  on  bacterial  adhesion  and  invasion.  A 
+
+review. The Veterinary quarterly. 2002;24:181-98. 
+
+[13] Boulanger  D,  Bureau  F,  Melotte  D,  Mainil  J,  Lekeux  P.  Increased  nuclear  factor  kappaB 
+
+activity in milk cells of mastitis-affected cows. Journal of dairy science. 2003;86:1259-67. 
+
+[14] Garzoni C, Kelley WL. Staphylococcus aureus: new evidence for intracellular persistence. 
+
+Trends in microbiology. 2009;17:59-65. 
+
+[15] Brakstad OG, Aasbakk K, Maeland JA. Detection of Staphylococcus aureus by polymerase 
+
+chain reaction amplification of the nuc gene. Journal of clinical microbiology. 1992;30:1654-60. 
+
+[16]  Perez-Roth  E,  Claverie-Martin  F,  Villar  J,  Mendez-Alvarez  S.  Multiplex  PCR  for 
+
+ 
+
+15 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT400 
+
+401 
+
+402 
+
+403 
+
+404 
+
+405 
+
+406 
+
+407 
+
+408 
+
+409 
+
+410 
+
+411 
+
+412 
+
+413 
+
+414 
+
+415 
+
+416 
+
+417 
+
+418 
+
+419 
+
+420 
+
+421 
+
+422 
+
+423 
+
+424 
+
+425 
+
+426 
+
+simultaneous identification of Staphylococcus aureus and detection of methicillin and mupirocin 
+
+resistance. Journal of clinical microbiology. 2001;39:4037-41. 
+
+[17] Gilot P, Lina G, Cochard T, Poutrel B. Analysis of the genetic variability of genes encoding 
+
+the  RNA  III-activating  components  Agr  and  TRAP  in  a  population  of  Staphylococcus  aureus 
+
+strains isolated from cows with mastitis. Journal of clinical microbiology. 2002;40:4060-7. 
+
+[18] Bardiau M, Detilleux J, Farnir F, Mainil JG, Ote I. Associations between properties linked 
+
+with  persistence  in  a  collection  of  Staphylococcus  aureus  isolates  from  bovine  mastitis.  Vet 
+
+Microbiol. 2014;169:74-9. 
+
+[19]  Stepanovic  S,  Vukovic  D,  Hola  V,  Di  Bonaventura  G,  Djukic  S,  Cirkovic  I,  et  al. 
+
+Quantification  of  biofilm  in  microtiter  plates:  overview  of  testing  conditions  and  practical 
+
+recommendations  for  assessment  of  biofilm  production  by  staphylococci.  APMIS  :  acta 
+
+pathologica, microbiologica, et immunologica Scandinavica. 2007;115:891-9. 
+
+[20] Boulanger D, Brouillette E, Jaspar F, Malouin F, Mainil J, Bureau F, et al. Helenalin reduces 
+
+Staphylococcus aureus infection in vitro and in vivo. Veterinary microbiology. 2007;119:330-8. 
+
+[21]  Brouillette  E,  Grondin  G,  Shkreta  L,  Lacasse  P,  Talbot  BG.  In  vivo  and  in  vitro 
+
+demonstration that Staphylococcus aureus is an intracellular pathogen in the presence or absence 
+
+of fibronectin-binding proteins. Microbial pathogenesis. 2003;35:159-68. 
+
+[22] Tamura K, Dudley J, Nei M, Kumar S. MEGA4: Molecular Evolutionary Genetics Analysis 
+
+(MEGA) software version 4.0. Molecular biology and evolution. 2007;24:1596-9. 
+
+[23]  Karahan  M,  Acik  MN,  Cetinkaya  B.  Investigation  of  toxin  genes  by  polymerase  chain 
+
+reaction  in  Staphylococcus  aureus  strains  isolated  from  bovine  mastitis  in  Turkey.  Foodborne 
+
+pathogens and disease. 2009;6:1029-35. 
+
+[24]  Pol  M,  Ruegg  PL.  Treatment  practices  and  quantification  of  antimicrobial  drug  usage  in 
+
+conventional and organic dairy farms in Wisconsin. Journal of dairy science. 2007;90:249-61. 
+
+[25] Stalder U, Stephan R, Corti S, Bludau M, Maeschli A, Klocke P, et al. Short communication: 
+
+Staphylococcus aureus isolated from colostrum of dairy heifers represent a closely related group 
+
+exhibiting highly homogeneous genomic and antimicrobial resistance features. Journal of dairy 
+
+ 
+
+16 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT427 
+
+428 
+
+429 
+
+430 
+
+431 
+
+432 
+
+433 
+
+434 
+
+435 
+
+436 
+
+437 
+
+438 
+
+439 
+
+440 
+
+441 
+
+442 
+
+443 
+
+444 
+
+445 
+
+446 
+
+447 
+
+448 
+
+449 
+
+450 
+
+451 
+
+452 
+
+453 
+
+science. 2014;97:4997-5000. 
+
+[26] Castelani L, Pilon LE, Martins T, Pozzi CR, Arcaro JR. Investigation of biofilm production 
+
+and icaA and icaD genes in Staphylococcus aureus isolated from heifers and cows with mastitis. 
+
+Animal science journal = Nihon chikusan Gakkaiho. 2015;86:340-4. 
+
+[27] Graveland H, Duim B, van Duijkeren E, Heederik D, Wagenaar JA. Livestock-associated 
+
+methicillin-resistant  Staphylococcus  aureus  in  animals  and  humans.  International  journal  of 
+
+medical microbiology : IJMM. 2011;301:630-4. 
+
+[28]  Mah  TF,  O'Toole  GA.  Mechanisms  of  biofilm  resistance  to  antimicrobial  agents.  Trends 
+
+Microbiol. 2001;9:34-9. 
+
+[29]  Pu  W,  Su  Y,  Li  J,  Li  C,  Yang  Z,  Deng  H,  et  al.  High  incidence  of  oxacillin-susceptible 
+
+mecA-positive  Staphylococcus  aureus  (OS-MRSA)  associated  with  bovine  mastitis  in  China. 
+
+PloS one. 2014;9:e88134. 
+
+[30]  Turutoglu  H,  Hasoksuz  M,  Ozturk  D,  Yildirim  M,  Sagnak  S.  Methicillin  and 
+
+aminoglycoside resistance in Staphylococcus aureus isolates from bovine mastitis and sequence 
+
+analysis of their mecA genes. Veterinary research communications. 2009;33:945-56. 
+
+[31]  Kumar  R,  Yadav  BR,  Singh  RS.  Genetic  determinants  of  antibiotic  resistance  in 
+
+Staphylococcus  aureus  isolates  from  milk  of  mastitic  crossbred  cattle.  Current  microbiology. 
+
+2010;60:379-86. 
+
+[32] Wang X, Wang X, Wang Y, Guo G, Usman T, Hao D, et al.  Antimicrobial resistance and 
+
+toxin  gene  profiles  of  Staphylococcus  aureus  strains  from  Holstein  milk.  Letters  in  applied 
+
+microbiology. 2014;58:527-34. 
+
+[33]  Buzzola  FR,  Alvarez  LP,  Tuchscherr  LP,  Barbagelata  MS,  Lattar  SM,  Calvinho  L,  et  al. 
+
+Differential  abilities  of  capsulated  and  noncapsulated  Staphylococcus  aureus  isolates  from 
+
+diverse agr groups to invade mammary epithelial cells. Infection and immunity. 2007;75:886-91. 
+
+[34]  Dufour  P,  Jarraud  S,  Vandenesch  F,  Greenland  T,  Novick  RP,  Bes  M,  et  al.  High  genetic 
+
+variability of the agr locus in Staphylococcus species. Journal of bacteriology. 2002;184:1180-6. 
+
+[35] Babra C, Tiwari JG, Pier G, Thein TH, Sunagar R, Sundareshan S, et al. The persistence of 
+
+ 
+
+17 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT454 
+
+455 
+
+biofilm-associated  antibiotic  resistance  of  Staphylococcus  aureus  isolated  from  clinical  bovine 
+
+mastitis cases in Australia. Folia microbiologica. 2013;58:469-74. 
+
+456 
+
+ 
+
+457 
+
+458 
+
+459 
+
+460 
+
+461 
+
+462 
+
+463 
+
+464 
+
+465 
+
+466 
+
+467 
+
+468 
+
+469 
+
+Figure legends 
+
+Fig.  1.  Distribution  of  antimicrobial  resistance  towards  different  classes  of 
+
+antibiotics among the 58 Staphylococcus aureus isolates in 2014.   
+
+Fig. 2. Population snapshot of all STs related to bovine mastitis included in the 
+
+MLST  database  for  Staphylococcus  aureus.  The  snapshot  displays 
+
+the 
+
+evolutionary  relationships  among  STs  found  in  this  study  and  those  in  the 
+
+database (all ST associated with bovine mastitis worldwide). The STs identified 
+
+in  this  study  are  marked  in  red.  The  STs  grouped  based  on  the  less  stringent 
+
+definition of five of seven shared alleles are connected by lines. 
+
+Fig.  3.  Maximum  composite  likelihood  tree  showing  the  genetic  relationships 
+
+among  the  merged  sequences  of  seven  housekeeping  gene  fragments  from 
+
+Staphylococcus  aureus  recovered  in  this  study  and  the  ST  type  reported  in 
+
+China. 
+
+ 
+
+18 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPTTable 1. Profile diversity of Staphylococcus aureus isolates based on MLST, serotyping, antimicrobial resistance, biofilm formation and intracellular survival 
+
+ST ( n=58) 
+
+Allele profiles 
+
+MecA 
+
+FOX 
+
+City 
+
+Antimicrobial resistancea 
+
+No. of isolates 
+
+Biofilm formation   
+
+Intracellular survival 
+
+<1% 
+
+>1% 
+
+Weak 
+n=1   
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+
+Moderate 
+n=7 
+0 
+0 
+0 
+1 
+1 
+1 
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+
+Strong 
+n=47 
+1 
+1 
+3 
+0 
+0 
+0 
+1 
+0 
+1 
+0 
+0 
+1 
+1 
+6 
+
+Nj 
+Nj 
+Nj 
+Nj 
+Yz 
+Yz 
+Yz 
+Nj 
+Nj 
+Nj 
+Nj 
+Nj 
+Nj 
+Nj 
+
+(1,1,1,1,1,1,1) 
+(1,4,1,4,12,1,10) 
+(12,4,1,4,12,1,3) 
+ 
+(18,1,1,1,1,5,3) 
+ 
+ 
+(3,1,1,1,1,5,3) 
+ 
+ 
+ 
+ 
+ 
+(3,1,1,8,1,1,1) 
+
+AMP P 
+AMP KAN P 
+AMP P 
+AMP P 
+AMP CIP CN OFX P S 
+AMP CN P S 
+AMP P S 
+AMP CN P TET 
+AMP AZM CN P TET 
+AMP AZM KAN CN P S TET 
+AMP P S TET 
+AMP P TET 
+SXT 
+AMP P 
+
+ST1 ( n=1) 
+ST5 ( n=1) 
+ST6 ( n=4) 
+ 
+ST71 ( n=3) 
+ 
+ 
+ST97 ( n=7) 
+ 
+ 
+ 
+ 
+ 
+ST188 
+( n=18) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ST630 
+( n=24) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+aAntimicrobial resistance: P, penicillin; AMP, ampicillin; AZM, azithromycin; KF, cephalothin; CTX, cefotaxime; CIP, ciprofloxacin; DA, clindamycin; CN, gentamicin; KAN, 
+kanamycin; OFX, ofloxacin; STR, streptomycin; TET, tetracycline; SXT, sulfamethoxazole; VA, vancomycin. 
+ 
+
+AMP AZM CIP CN DA P S TET 
+AMP AZM CIP CN DA P S 
+AMP AZM CIP DA P TET 
+AMP KAN P S 
+AMP KAN P 
+KAN 
+ 
+ 
+AMP AZM CIP KAN P S 
+
+AMP AZM CIP KAN P S   
+AMP CIP CTX KAN P 
+AMP CIP CTX KAN P   
+AMP CIP KAN P 
+AMP CIP KAN P 
+AMP CIP KAN P   
+AMP CIP OFX P 
+AMP CIP OFX P   
+
+ 
+ 
+ 
+ 
+ 
+ 
+(3,1,1,4,4,3) 
+
+1 
+1 
+3 
+1 
+1 
+1 
+1 
+2 
+1 
+1 
+1 
+1 
+1 
+6 
+
+4 
+1 
+1 
+1 
+1 
+1 
+2 
+1 
+1 
+
+1 
+1 
+1 
+5 
+1 
+9 
+4 
+1 
+
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+1 
+0 
+0 
+0 
+
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+
+1 
+1 
+3 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+0 
+1 
+1 
+6 
+
+4 
+1 
+1 
+1 
+1 
+1 
+2 
+0 
+1 
+
+Sz 
+Sz 
+Nj 
+Nj 
+Nj 
+Nj 
+Nj 
+Nj 
+Yz 
+
+4 
+1 
+1 
+1 
+1 
+1 
+2 
+0 
+1 
+
+1 
+0 
+1 
+5 
+0 
+9 
+4 
+0 
+
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+
+0 
+1 
+0 
+0 
+1 
+0 
+0 
+0 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
++ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
++ 
+ 
++ 
+ 
+ 
++ 
++ 
++ 
+
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
++ 
+ 
++ 
+ 
+ 
++ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Yz 
+Yz 
+Yz 
+Yz 
+Yz 
+Yz 
+Yz 
+Yz 
+
+No 
+n=3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+2 
+0 
+0 
+1 
+0 
+0 
+0 
+
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+
+1 
+1 
+1 
+5 
+1 
+9 
+4 
+0 
+
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+Table 2. MLST, MRSA, agr group, biofilm formation and intracellular survival frequency distribution 
+ 
+
+   
+
+   
+
+      
+
+      
+
+Biofilm formation 
+
+      
+
+MLST 
+ 
+ST1 
+1 
+ST5 
+1 
+ST6 
+4 
+ST71 
+3 
+ST97 
+7 
+ST188  18 
+ST630  24 
+Total 
+58 
+Intracellular survival 
+ 
+
+MRSA 
+0 
+0 
+0 
+0 
+0 
+0 
+11 
+11 
+
+   
+
+   
+
+   
+
+agr I  No  Weak    Moderate  Strong 
+1 
+1 
+4 
+3 
+7 
+18 
+24 
+58 
+<1% 
+>1% 
+
+1 
+1 
+3 
+1 
+3 
+17 
+21 
+47 
+40 
+0 
+
+0 
+0 
+1 
+2 
+1 
+1 
+2 
+7 
+9 
+1 
+
+0 
+0 
+0 
+0 
+3 
+0 
+0 
+3 
+4 
+2 
+
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+1 
+1 
+1 
+
+a: Intracellular survival is presented as the % of the initial inoculum.   
+ 
+
+Intracellular 
+survivala 
+<1% 
+1 
+1 
+4 
+3 
+5 
+17 
+23 
+54 
+ 
+
+>1% 
+0 
+0 
+0 
+0 
+2 
+1 
+1 
+4 
+ 
+
+ 
+
+ 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPTHighlights 
+
+The 58 (29.0%) S. aureus strains causing bovine mastitis were isolated from Jiangsu 
+
+of China, and 19.0% was MRSA. 
+
+All of the 58 S. aureus isolates were classified in agr group I. 
+
+ST630 and ST188 were the prominent STs in this study. 
+
+Approximately 22.4% of isolates was resistant to ≥ 5 antimicrobials. 
+
+Most strains showed a low invasion rate in MAC-T cells and formed a strong biofilm 
+
+in TSBglc. 
+
+MANUSCRIPT ACCEPTEDACCEPTED MANUSCRIPT

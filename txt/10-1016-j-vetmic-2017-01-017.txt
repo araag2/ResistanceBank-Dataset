@@ -1,0 +1,872 @@
+Veterinary  Microbiology  201  (2017)  183–187
+
+Contents  lists  available  at  ScienceDirect
+
+Veterinary  Microbiology
+
+j o u r n a l  h o m e p a g e :  w w w . e l s e  v i e  r . c o m / l o c a t e  / v e  t m i c
+
+Short  communication
+Characterization  of  pig-associated  methicillin-resistant  Staphylococcus
+aureus
+
+Jun  Lia,b,  Nansong  Jianga,  Yuebin  Kec,  Andrea  T.  Feßlerb,  Yang  Wanga,
+Stefan  Schwarza,b,d,*,  Congming  Wua,**
+a Beijing  Advanced  Innovation  Center  for  Food  Nutrition  and  Human  Health,  College  of  Veterinary  Medicine,  China  Agricultural  University,  Beijing  100193,  PR
+China
+b Institute  of  Farm  Animal  Genetics,  Friedrich-Loefﬂer-Institut  (FLI),  Neustadt-Mariensee,  Germany
+c Key  Laboratory  of  Genetics  &  Molecular  Medicine  of  Shenzhen,  Shenzhen  Center  for  Disease  Control  and  Prevention,  Shenzhen  518055,  PR  China
+d Institute  of  Microbiology  and  Epizootics,  Department  of  Veterinary  Medicine,  Freie  Universität  Berlin,  Robert-von-Ostertag-Straße  7-13,  14163  Berlin,
+Germany
+
+A  R  T  I  C  L  E 
+
+I  N  F  O
+
+A  B  S  T  R  A  C  T
+
+Article  history:
+Received  27  November  2016
+Received  in  revised  form  30  December  2016
+Accepted  1  January  2017
+
+Keywords:
+LA-MRSA
+Pig
+Multi-resistance
+Molecular  typing
+
+Livestock-associated  methicillin-resistant  Staphylococcus  aureus  (LA-MRSA)  have  been  reported  in
+various  countries  worldwide.  However,  although  China  is  one  of  the  biggest  pig  and  pork  producers,
+large-scale  studies  on  pig-associated  LA-MRSA  from  China  are  scarce.  The  aims  of  this  study  were  to
+analyze  2420  non-duplicate  samples  collected  from  pigs  at  swine  farms  and  slaughterhouses  in  different
+regions  in  China  during  2014  for  the  prevalence  of  pig-associated  MRSA  and  to  determine  the
+antimicrobial  resistance  pheno-  and  genotypes  of  the  respective  isolates.  MRSA  isolates  were  identiﬁed
+in  270  (11.2%)  samples.  The  isolates  were  characterized  by  antimicrobial  susceptibility  testing,  multilocus
+sequence  typing  (MLST),  spa  typing,  pulsed-ﬁeld  gel  electrophoresis  (PFGE)  and  screening  for  resistance
+genes.  All  MRSA  isolates  belonged  to  the  clonal  complex  9  and  spa  type  t899,  but  showed  variable  PFGE
+patterns.  All 
+isolates  were  non-susceptible  to  oxacillin,  cefoxitin,  clindamycin,  chloramphenicol,
+ﬂorfenicol,  ciproﬂoxacin,  and  valnemulin.  High  rates  of  resistance  were  also  observed  for  tetracycline
+(99.6%),  erythromycin  (97.0%),  quinupristin-dalfopristin  (97.0%),  and  gentamicin  (80.4%).  Three  linezolid-
+non-susceptible  isolates  containing  the  multi-resistance  gene  cfr  and  nine  rifampicin-non-susceptible
+b-lactams  was  exclusively  associated  with
+isolates  with  mutations  in  rpoB  were  detected.  Resistance  to 
+mecA,  while  phenicol  resistance  was  mainly  attributable  to  fexA,  except  in  the  three  cfr-positive  isolates.
+The  pleuromutilin-lincosamide-streptogramin  A  resistance  gene  lsa(E)  was  identiﬁed  in  all  MRSA
+isolates,  and  no  other  pleuromutilin  resistance  genes,  except  cfr  in  three  isolates,  were  detected.  Pigs  are
+the  most  important  hosts  of  LA-MRSA  in  China.  Screening  for  pig-associated  MRSA  is  necessary  to
+monitor  changes  in  epidemiology  and  characteristics  of  these  important  pathogens.
+
+©  2017  Elsevier  B.V.  All  rights  reserved.
+
+1.  Introduction
+
+Staphylococcus  aureus  is  a  commensal  opportunistic  pathogen
+present 
+in  both  healthy  and  diseased  humans  and  animals.
+Methicillin-resistant  S.  aureus  (MRSA)  is  considered  to  be  the
+
+*  Corresponding  author  at:  Institute  of  Microbiology  and  Epizootics,  Department
+of  Veterinary  Medicine,  Freie  Universität  Berlin,  Robert-von-Ostertag-Straße  7-13,
+14163  Berlin,  Germany.
+**  Corresponding  author  at:  Beijing  Advanced 
+for  Food
+Nutrition  and  Human  Health,  College  of  Veterinary  Medicine,  China  Agricultural
+University,  Beijing  100193,  PR  China.
+
+Innovation  Center 
+
+E-mail  addresses:  stefan.schwarz@u-berlin.de  (S.  Schwarz),  wucm@cau.edu.cn
+
+(C.  Wu).
+
+http://dx.doi.org/10.1016/j.vetmic.2017.01.017
+0378-1135/©  2017  Elsevier  B.V.  All  rights  reserved.
+
+most  important  cause  of  nosocomial  and  community-acquired
+infections  worldwide  (Woodford  and  Livermore,  2009).  MRSA
+evolved  from  methicillin-susceptible  S.  aureus  by  acquisition  of
+mecA.  Livestock-associated  MRSA  (LA-MRSA)  was 
+ﬁrst  detected  in
+2004  in  the  Netherlands  and  France,  and  has  since  gained  much
+attention  (Armand-Lefevre  et  al.,  2005;  Voss  et  al.,  2005).  The
+prevalence  and  spread  of  LA-MRSA  differs  geographically.  The
+predominant  clonal  complex  (CC)  in  Europe  and  USA  is  CC398,
+with  most  strains  belonging  to  sequence  type  (ST)  398,  whereas  in
+Asia,  CC9  strains  are  most  common  with  ST9  being  the  most
+prevalent  sequence  type  (Chuang  and  Huang,  2015).
+
+Further  studies  of  LA-MRSA  showed  that  it  was  prevalent  in  a
+wide  range  of  animal  species,  particularly  in  pigs  (Weese,  2010;
+Wendlandt  et  al.,  2013a).  Human 
+infections  caused  by  pig-
+
+184 
+
+J.  Li  et  al.  /  Veterinary  Microbiology  201  (2017)  183–187
+
+associated  MRSA  indicated  that  pigs  are  an  important  reservoir  for
+MRSA,  and  that  these  bacteria  are  transferred  to  people  via
+occupational  exposure 
+the
+potential  risk  of  transmission  of  LA-MRSA  between  animals  and
+humans  is  a  growing  health  concern.  For  this  reason,  ongoing
+surveillance  is  necessary  for  combating  the  further  dissemination
+of  LA-MRSA.
+
+(Fitzgerald,  2012).  Thus, 
+
+to  pigs 
+
+To  date,  there  have  been  few  reports  regarding  pig-associated
+MRSA  in  mainland  China.  In  2008,  dust  samples  from  nine  farrow-
+to-ﬁnish  pig  farms  in  Sichuan  Province  were  screened  for  MRSA,
+and  samples  from 
+ﬁve  of  the  nine  farms  were  MRSA-positive
+(Wagenaar  et  al.,  2009).  In  the  same  year,  the 
+ﬁrst  study  on  the
+prevalence  of  MRSA  colonization  of  pigs  in  mainland  China  was
+conducted,  and  reported  a  LA-MRSA  isolation  rate  in  pigs  of  11.4%
+(Cui  et  al.,  2009).  In  2009,  nasal  swabs  were  collected  from  590  pigs
+in  two  slaughterhouses  in  northeastern  China,  and  38  (6.4%)
+samples  were  MRSA-positive.  All  MRSA  isolates  in  this  study  were
+identiﬁed  as  ST9  (Yan  et  al.,  2014).  MRSA  from  pigs  has  also  been
+reported  in  Hong  Kong,  which  imports  pigs  from  mainland  China,
+with  prevalence  varying  between  16  and  39.3%  (Guardabassi  et  al.,
+2009;  Ho  et  al.,  2012a,b).  In  these  cases,  all  pig-associated  MRSA
+strains  belonged  to  CC9  and  showed  spa  type  t899.
+
+The  aims  of  the  present  study  were:  (i)  to  investigate  the
+prevalence  of  MRSA  colonization  of  pigs  in  mainland  China  in  2014,
+(ii)  to  examine  the  phenotype  and  genotype  of  antimicrobial
+resistance  in  pig-associated  MRSA  isolates,  and  (iii)  to  determine
+the  molecular  characteristics  of  pig-associated  MRSA.
+
+2.  Materials  and  methods
+
+2.1.  Sample  collection
+
+During  June  and  July  2014,  a  total  of  2420  non-duplicate  nasal
+swabs  were  collected  from  pig  farms  and  slaughterhouses  in
+Shanghai  (n  =  251,  samples  from  two  slaughterhouses),  Henan
+(n  =  870,  samples  from  one  pig  farm  and  one  slaughterhouse),
+Ningxia  (n  =  473,  samples  from  one  slaughterhouse  and  two  pig
+farms),  and  Shandong  (n  =  826,  samples  from  25  pig  farms),  China.
+The  pig  farms  and  slaughterhouses  were  selected  at  random  from
+the  intensive  pig  farms  or  slaughterhouses  in  each  region,  but  were
+widely  dispersed  geographically.  Farm  samples  were  collected
+from 
+from
+slaughterhouses  were  collected  immediately  after  slaughter  from
+individual  pigs.  For  each  slaughterhouse,  samples  were  collected
+over  the  course  of  a  single  day.  All  nasal  swabs  were  placed  into
+tubes  containing  1  ml  of  7.5%  sodium  chloride  broth,  which
+contained  0.5%  beef  powder,  7.5%  sodium  chloride  and  1.0%
+peptone,  before  being  transported  to  the  laboratory.
+
+ﬁnishing  pigs  of  different  herds,  while  samples 
+
+2.2.  MRSA  isolation  and  identiﬁcation
+
+The  sodium  chloride  broths  containing 
+
+the  swabs  were
+incubated  at  37 C  for  24  h.  Following  incubation,  cultures  were
+plated  onto  S.  aureus  selective  agar  plates  (CHROMagar  Staph
+aureus,  Becton  Dickinson  GmbH,  Paris,  France)  supplemented  with
+4  mg/L  cefoxitin.  Following  incubation  for  24  h  at  37 C,  any  pink/
+mauve  colonies  were  selected  as  suspected  S.  aureus  isolates.
+Further  identiﬁcation  was  performed  by  multiplex-PCR  analysis,  as
+described  previously  (Louie  et  al.,  2002).
+
+2.3.  Antimicrobial  susceptibility  testing
+
+Antimicrobial  susceptibility  testing  was  performed  using  both
+the  broth  microdilution  and  disk  diffusion  methods  according  to
+documents  VET01-S4  and  M100-S25  of  the  Clinical  and  Laboratory
+Standards  Institute  (CLSI,  2015a,b).  The  following  antimicrobial
+
+mg),  gentamicin  (10 
+
+agents  were  tested:  oxacillin,  cefoxitin,  clindamycin,  erythromycin,
+chloramphenicol, 
+ﬂorfenicol,  linezolid,  and  vancomycin  for  broth
+mg),  quinu-
+microdilution,  and  rifampicin  (5 
+mg),  and  ciproﬂoxacin
+pristin/dalfopristin  (15 
+(5 
+for  disk
+diffusion.  To  examine  pleuromutilin  resistance,  all  pig-associated
+MRSA  isolates  identiﬁed  in  this  study  were  screened  on  brain  heart
+infusion  agar  (AOBOX,  Beijing,  China)  plates  containing  1  mg/L
+valnemulin.
+
+mg),  tetracycline  (30 
+from  Oxoid  (Basingstoke,  UK), 
+
+mg),  all  obtained 
+
+2.4.  Resistance  gene  detection
+
+In  addition  to  the 
+
+b-lactam  resistance  genes  mecA  and  mecC,  all
+pig-associated  MRSA  isolates  were  also  screened  by  PCR  for  the
+presence  of  the  following  resistance  genes:  fexA,  fexB,  cfr,  optrA,  lsa
+(E),  lsa(B),  vga(A),  vga(B),  vga(C),  vga(D),  vga(E),  vga(E)v,  and  vga
+(A)LC (Ho  et  al.,  2012a;  Wendlandt  et  al.,  2015a,b;  Li  et  al.,  2016)
+accounting  for  resistance  to  phenicols,  oxazolidinones,  pleuro-
+mutilins,  lincosamides,  and/or  streptogramin  A  antibiotics.
+
+2.5.  Molecular  typing
+
+Pulsed-ﬁeld  gel  electrophoresis  (PFGE)  with  SmaI  was  used  to
+characterize  all  isolates.  An  80%  cutoff  was  used  to  deﬁne  a  PFGE
+cluster.  One  or  two  isolates  from  each  PFGE  pattern  were  selected
+from  each  region  of  China  for  use  as  representative  isolates  for
+multilocus  sequence  typing  (MLST)  and  spa  typing.  MLST  was
+conducted  by  amplifying  and  sequencing  fragments  of  seven
+housekeeping  genes  (arcC,  aroE,  glpF,  gmk,  pta,  tpi,  and  yqiL)
+(Enright  et  al.,  2000).  The  MLST  type  was  determined  by
+comparison  with  the  sequences  deposited  in  the  online  MLST
+database 
+typing  was
+performed  by  amplifying  and  sequencing  the  variable  repeat
+region  of  the  spa  gene,  which  was  then  compared  with  the  spa
+sequences  of  the  respective  online  database  (http://spa.ridom.de/)
+(Harmsen  et  al.,  2003).
+
+(http://saureus.beta.mlst.net/).  The  spa 
+
+3.  Results
+
+3.1.  Prevalence  of  pig-associated  MRSA
+
+MRSA  was  identiﬁed  in  270  (11.2%)  of  the  2420  samples.  The
+prevalence  of  MRSA  differed  signiﬁcantly  between  the  different
+regions:  Shanghai  (46.6%),  Henan  (5.2%),  Ningxia  (3.6%),  and
+Shandong  (12.0%).  MRSA  isolates  were  identiﬁed  at  a  particularly
+high  rate  from  both  of  the  slaughterhouses  in  Shanghai,  and  were
+present  in  samples  from  14/25  farms  in  Shandong.  However,
+isolation  rates  were  much  lower  in  samples  from  Henan  and
+Ningxia  provinces  (Table  S1).
+
+3.2.  Antimicrobial  susceptibility  testing
+
+All  270  pig-associated  MRSA  isolates  were  non-susceptible  to
+oxacillin,  cefoxitin,  clindamycin,  chloramphenicol, 
+ﬂorfenicol,  and
+ciproﬂoxacin.  Moreover,  all  of  the  isolates  grew  on  selective  plates
+containing  1  mg/L  valnemulin.  High  resistance  rates  were  also
+observed  for  tetracycline  (99.6%),  erythromycin  (97.0%),  quinu-
+pristin-dalfopristin  (97.0%),  and  gentamicin  (80.4%).  Nine  rifampi-
+cin-non-susceptible  MRSA  isolates  (two  from  Shanghai  and  seven
+from  Shandong)  were  identiﬁed.  Two  isolates  from  Shanghai  and
+one  from  Shandong  were  non-susceptible  to  linezolid.  All  of  the
+isolates  were  susceptible  to  vancomycin  (Table  1).
+
+J.  Li  et  al.  /  Veterinary  Microbiology  201  (2017)  183–187 
+
+185
+
+Table  1
+Antimicrobial  resistance  proﬁles  of  pig-associated  methicillin-resistant  Staphylococcus  aureus  isolates  from  different  regions.
+
+Antimicrobial  category 
+
+Antimicrobial  agent 
+
+Shanghai  (n  =  113) 
+
+Henan  (n  =  45) 
+
+Ningxia  (n  =  17) 
+
+Shandong  (n  =  95)
+
+b-lactams 
+
+Macrolides 
+Lincosamides 
+Phenicols 
+
+Tetracyclines 
+Fluoroquinolones 
+Streptogramins 
+Aminoglycosides 
+Ansamycins 
+Glycopeptides 
+Oxazolidinones 
+
+Oxacillin 
+Cefoxitin 
+Erythromycin 
+Clindamycin 
+Chloramphenicol 
+Florfenicol 
+Tetracycline 
+Ciproﬂoxacin 
+Quinupristin-dalfopristin 
+Gentamicin 
+Rifampicin 
+Vancomycin 
+Linezolid 
+
+NS 
+
+113 
+113 
+112 
+113 
+113 
+113 
+112 
+113 
+112 
+77 
+2 
+0 
+2 
+
+S 
+
+0 
+0 
+1 
+0 
+0 
+0 
+1 
+0 
+1 
+36 
+111 
+113 
+111 
+
+NS 
+
+45 
+45 
+45 
+45 
+45 
+45 
+45 
+45 
+45 
+30 
+0 
+0 
+0 
+
+S 
+
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+15 
+45 
+45 
+45 
+
+NS 
+
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+17 
+15 
+0 
+0 
+0 
+
+S 
+
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+2 
+17 
+17 
+17 
+
+NS 
+
+95 
+95 
+88 
+95 
+95 
+95 
+95 
+95 
+88 
+95 
+7 
+0 
+1 
+
+S
+
+0
+0
+7
+0
+0
+0
+0
+0
+7
+0
+88
+95
+94
+
+NS  =  non-susceptible  (intermediate  +  resistant);  S  =  susceptible.
+
+3.3.  Resistance  gene  detection
+
+The  presence  of  genes  conferring  resistance  to 
+
+b-lactams,
+phenicols,  oxazolidinones,  pleuromutilins,  lincosamides,  and/or
+streptogramin  A  antibiotics  was  conﬁrmed  by  PCR.  Most  of  the
+resistance  genes  were  homogeneously  distributed  among  all
+b-lactams  was  exclusively  associated  with
+isolates.  Resistance  to 
+the  presence  of  mecA;  no  mecC  carriers  were  identiﬁed.  The
+pleuromutilin-lincosamide-streptogramin  A  resistance  gene  lsa(E)
+was  identiﬁed  in  all  of  the  MRSA  isolates,  and  no  other  pleuro-
+mutilin  resistance  genes,  except  cfr  in  three  isolates,  were  detected.
+Three 
+isolates  contained  the  multi-
+resistance  gene  cfr,  which  confers  resistance 
+to  phenicols,
+lincosamides,  oxazolidinones,  pleuromutilins,  and  streptogramin
+A.  Most  of  the  phenicol-resistant 
+isolates,  except  the  three
+cfr-positive  isolates,  harbored  fexA.  None  of  the  isolates  contained
+the 
+ﬂorfenicol  resistance  gene  fexB,  or  the  novel  oxazolidinone-
+phenicol  resistance  gene  optrA.
+
+linezolid-non-susceptible 
+
+3.4.  Molecular  typing
+
+The  270  isolates  were  assigned  to  11  PFGE  types  (A–K).  PFGE
+types  A  (40.7%),  C  (19.6%),  and  D  (10.7%)  accounted  for  71.0%  of  the
+isolates.  Two  PFGE  patterns,  types  B  and  D,  were  detected  in  all  four
+geographic  regions,  while  PFGE  patterns  H,  I,  and  K,  each  with  only
+one  or  two  isolates,  were  more  unevenly  distributed  (Table  2).
+Based  on  the  PFGE  typing  results,  44  isolates  belonging  to  different
+PFGE  patterns  and  originating  from  each  of  the  four  regions  were
+selected  as  representative  isolates  for  MLST  and  spa  analyses.
+Except  one  isolate  from  Henan,  which  was  ST1376-t899,  all  of  the
+other  representative  isolates  were  ST9-t899  (Fig.  1).  ST1376  is  a
+single  locus  variant  of  ST9  (allele  73  instead  of  allele  3  in  aroE)  and
+also  belongs  to  CC9.
+
+4.  Discussion
+
+This  study  investigated  pig-associated  MRSA  using  a  large
+number  of  samples  collected  from  four  different  geographical
+areas  in  China.  The  results  indicated  a  higher  average  prevalence  of
+nasal  MRSA  carriage  of  pigs  in  China  (11.2%)  compared  with  other
+Asian  countries,  including  Japan  (0.9%,  1/115  samples)  (Baba  et  al.,
+2010),  Malaysia  (1.4%,  5/360  samples)  (Neela  et  al.,  2009),  and
+South  Korea  (3.2%,  21/657  samples)  (Lim  et  al.,  2012).  Possible
+explanations  for  the  increased  prevalence  include  differences  in
+the  isolation  methods,  livestock  density,  antimicrobial  usage,  and
+management  systems  between  China  and  other  Asian  countries.
+However,  compared  with  previous  studies  in  China,  the  average
+prevalence  of  nasal  carriage  of  pig-associated  MRSA  in  this  study
+
+in  the  two  slaughterhouses 
+
+was  similar  to  that  described  in  a  study  conducted  in  2008  (11.4%),
+in  which  samples  were  also  collected  from  both  pig  farms  and
+slaughterhouses  (Cui  et  al.,  2009).  This  observation  suggested  that
+the  average  nasal  carriage  rate  of  MRSA  was  rather  stable  during
+recent  years  in  China.  However,  differences  were  seen  between  the
+MRSA  prevalence  in  the  different  regions  investigated  with  highest
+prevalence  being  detected 
+from
+Shanghai.  It  has  been  shown  that  pigs  can  become  colonized  with
+MRSA  in  the  short  period  of  time  between  transportation  from  the
+farm  to  the  slaughterhouse  (Broens  et  al.,  2011).  A  longitudinal
+study  showed  that  pigs  from  a  MRSA-negative  farm  became  MRSA-
+positive  after  co-transportation  with  MRSA-positive  pigs  (Bang-
+erter  et  al.,  2016).  This  may  explain  the  higher  prevalence  of  MRSA
+at  the  slaughterhouses  in  Shanghai  in  this  study  as  well  as  in
+another  study  in  which  samples  were  only  collected  from  one
+slaughterhouse  (Ho  et  al.,  2012b).  Compared  with  other  regions,
+pigs  from  Ningxia  had  a  much  lower  prevalence  of  MRSA  carriage.
+A  possible  reason  for  this  could  be  the  lower  livestock  density  and
+the  different  dietary  habits  in  this  region.
+
+in  commercial 
+
+All  of  the  pig-associated  MRSA  isolates  in  this  study  were
+multidrug-resistant.  Antimicrobial  agents  are  used  in  the  rearing  of
+food-producing  animals  not  only  for  prevention  and  treatment  of
+disease,  but  also  for  growth  promotion.  Based  on  the  records  of
+antibiotic  usage 
+farms,  antimicrobial  agents,
+including  enroﬂoxacin,  tetracycline,  oxytetracycline,  chlortetracy-
+cline,  lincomycin,  and  tiamulin,  are  commonly  used  in  pig  farming
+in  China.  The  use  of  these  antibiotics  may  inﬂuence  the  antibiotic
+resistance  patterns  of  pig-associated  MRSA.  Our  previous  study
+showed  that  rifampicin-non-susceptibility  of  the  isolates  from
+Shanghai  and  Shandong  was  caused  by  mutations  in  the  gene  rpoB.
+These  mutations  may  occur  spontaneously  or  originate  from  co-
+selection  in  the  presence  of 
+ﬂuoroquinolones  (Li  et  al.,  2016).
+Unexpectedly,  all  of  the  pig-associated  MRSA  isolates  identiﬁed  in
+this  study  carried  the  multiresistance  gene  lsa(E)  which  confers
+resistance  to  lincosamides,  pleuromutilins  and  streptogramin  A
+antibiotics.  The  location  of  lsa(E)  on  a  plasmid  may  play  a  role  in  its
+persistence  and  dissemination  (Li  et  al.,  2013;  Wendlandt  et  al.,
+
+Table  2
+Pulsed-ﬁeld  gel  electrophoresis  patterns  of  pig-associated  methicillin-resistant
+Staphylococcus  aureus  isolates  collected  from  different  regions.
+
+region 
+
+PFGE  pattern
+
+Shanghai 
+Henan 
+Ningxia 
+Shandong 
+total  no. 
+
+A 
+
+43 
+12 
+0 
+55 
+110 
+
+B 
+
+14 
+5 
+1 
+5 
+25 
+
+C 
+
+23 
+18 
+0 
+12 
+53 
+
+D 
+
+17 
+1 
+1 
+10 
+29 
+
+E 
+
+0 
+4 
+2 
+6 
+12 
+
+F 
+
+6 
+4 
+13 
+0 
+23 
+
+J 
+
+0 
+0 
+0 
+5 
+5 
+
+H 
+
+0 
+1 
+0 
+0 
+1 
+
+I 
+
+1 
+0 
+0 
+0 
+1 
+
+G 
+
+9 
+0 
+0 
+0 
+9 
+
+K
+
+0
+0
+0
+2
+2
+
+186 
+
+J.  Li  et  al.  /  Veterinary  Microbiology  201  (2017)  183–187
+
+Fig.  1.  PFGE  patterns  and  ST-spa  types  of  representative  isolates  selected  from  different  regions.  80%  cutoff  was  used  to  deﬁne  a  PFGE  cluster.
+
+2013b,  2015b).  Linezolid-non-susceptible  isolates  containing  the
+phenicol-lincosamide-oxazolidinone-pleuromutilin-streptogra-
+min  A  resistance  gene  cfr  were  detected  in  two  different  regions.
+Although  clindamycin  and  linezolid  are  not  approved  for  use  in  pig
+farming,  selective  pressure 
+from  other  antibiotics,  such  as
+lincomycin, 
+ﬂorfenicol  and  tiamulin,  that  are  widely  used  in
+food-producing  animals  could  promote  the  spread  of  cfr. 
+In
+
+addition,  the  emergence  and  dissemination  of  these  multidrug-
+resistant  isolates  in  pigs  pose  a  signiﬁcant  risk  to  people  with
+continuous  exposure  to  livestock.
+
+As  shown  by  the  PFGE  typing  results,  each  region  had  its  own
+predominant  PFGE  pattern.  The  appearance  of  MRSA  isolates  with
+the  same  PFGE  pattern  in  different  regions  implied  an  exchange  of
+MRSA  strains  between  the  regions,  most  likely  through  the  transfer
+
+J.  Li  et  al.  /  Veterinary  Microbiology  201  (2017)  183–187 
+
+187
+
+of  animals.  MLST  and  spa  typing  were  used  as  basic  typing  tools  for
+tracing  the  evolutionary  origin  and  spread  of  MRSA,  but  their
+discriminatory  power  appeared  too  limited  for  pig-associated
+MRSA  in  China.  Although  the  PFGE  patterns  of  the  isolates  showed
+more  variation  than  was  observed  by  MLST  and  spa  typing,  new
+technologies,  such  as  next  generation  sequencing,  may  provide
+better  options  for  understanding  the  origin,  transmission  and
+evolution  of  LA-MRSA.  Therefore,  these  advanced  technologies  will
+be  included  in  our  further  studies  of  the  origin  and  spread  of  pig-
+associated  MRSA  in  China.
+
+5.  Conclusion
+
+In  the  present  study  conducted  in  2014,  the  nasal  carriage  rate
+of  MRSA  in  pigs  (11.2%)  was  similar  compared  to  that  reported  by
+Cui  and  co-workers  in  2008  (11.4%)  (Cui  et  al.,  2009).  ST9-t899  was
+still  the  predominant  clonal  type  of  LA-MRSA  isolates  in  China,  and
+the  pig-associated  MRSA  isolates  identiﬁed  in  this  study  showed
+resistance  to  a  wide  range  of  antibiotics.  Signiﬁcantly,  all  of  the
+isolates  carried  the  multi-resistance  gene  lsa(E),  with  three  isolates
+also  harboring  the  multi-resistance  gene  cfr.  As  zoonotic  infections
+caused  by  MRSA  ST9  have  been  reported  in  the  Netherlands
+(van  Loo  et  al.,  2007)  and  in  China  (Liu  et  al.,  2009),  ongoing
+surveillance  is  needed  to  detect  changes  in  the  characteristics  and
+epidemiology  of  these  strains.
+
+Funding
+
+This  study  was 
+
+ﬁnancially  supported  by  the  grants  from  the
+National  Natural  Science  Foundation  of  China  (31472237  and
+31370046),  and  the  German  Federal  Ministry  of  Education  and
+Research  (BMBF)  through  the  German  Aerospace  Center  (DLR),
+grant  number  01KI1301D  (MedVet-Staph  2).
+
+Appendix  A.  Supplementary  data
+
+Supplementary  data  associated  with  this  article  can  be  found,
+in  the  online  version,  at  http://dx.doi.org/10.1016/j.vetmic.2017.
+01.017.
+
+References
+
+Armand-Lefevre,  L.,  Ruimy,  R.,  Andremont,  A.,  2005.  Clonal  comparison  of
+
+Staphylococcus  aureus  isolates  from  healthy  pig  farmers,  human  controls,  and
+pigs.  Emerg.  Infect.  Dis.  11,  711–714.
+
+Baba,  K.,  Ishihara,  K.,  Ozawa,  M.,  Tamura,  Y.,  Asai,  T.,  2010.  Isolation  of  meticillin-
+resistant  Staphylococcus  aureus  (MRSA)  from  swine  in  Japan.  Int.  J.  Antimicrob.
+Agents  36,  352–354.
+
+Bangerter,  P.D.,  Sidler,  X.,  Perreten,  V.,  Overesch,  G.,  2016.  Longitudinal  study  on  the
+colonisation  and  transmission  of  methicillin-resistant  Staphylococcus  aureus  in
+pig  farms.  Vet.  Microbiol.  183,  125–134.
+
+Broens,  E.M.,  Graat,  E.A.,  Van  der  Wolf,  P.J.,  Van  de  Giessen,  A.W.,  De  Jong,  M.C.,  2011.
+Transmission  of  methicillin  resistant  Staphylococcus  aureus  among  pigs  during
+transportation  from  farm  to  abattoir.  Vet.  J.  189,  302–305.
+
+Clinical  and  Laboratory  Strandards  Institute,  2015a.  Performance  Standands  for
+Antimicrobial  Susceptibility  Testing;  Twenty-Fifth  Information  Supplement
+M100-S25.  Clinical  and  Laboratory  Strandards  Institute,  Wayne,  PA.
+
+Clinical  and  Laboratory  Strandards  Institute,  2015b.  Performance  Standards  for
+
+Antimicrobial  Disk  and  Dilution  Susceptibility  Tests  for  Bacteria  Isolated  from
+Animals.  CLSI  Supplement  VET01-S,  3rd  ed.  Clinical  and  Laboratory  Strandards
+Institute,  Wayne,  PA.
+
+Chuang,  Y.Y.,  Huang,  Y.C.,  2015.  Livestock-associated  meticillin-resistant
+
+Staphylococcus  aureus  in  Asia:  an  emerging  issue?  Int.  J.  Antimicrob.  Agents  45,
+334–340.
+
+Cui,  S.,  Li,  J.,  Hu,  C.,  Jin,  S.,  Li,  F.,  Guo,  Y.,  Ran,  L.,  Ma,  Y.,  2009.  Isolation  and
+
+characterization  of  methicillin-resistant  Staphylococcus  aureus  from  swine  and
+workers  in  China.  J.  Antimicrob.  Chemother.  64,  680–683.
+
+Enright,  M.C.,  Day,  N.P.,  Davies,  C.E.,  Peacock,  S.J.,  Spratt,  B.G.,  2000.  Multilocus
+
+sequence  typing  for  characterization  of  methicillin-resistant  and  methicillin-
+susceptible  clones  of  Staphylococcus  aureus.  J.  Clin.  Microbiol.  38,  1008–1015.
+Fitzgerald,  J.R.,  2012.  Livestock-associated  Staphylococcus  aureus:  origin,  evolution
+
+and  public  health  threat.  Trends  Microbiol.  20,  192–198.
+
+Guardabassi,  L.,  O’Donoghue,  M.,  Moodley,  A.,  Ho,  J.,  Boost,  M.,  2009.  Novel  lineage  of
+methicillin-resistant  Staphylococcus  aureus,  Hong  Kong.  Emerg.  Infect.  Dis.  15,
+1998–2000.
+
+Harmsen,  D.,  Claus,  H.,  Witte,  W.,  Rothganger,  J.,  Claus,  H.,  Turnwald,  D.,  Vogel,  U.,
+
+2003.  Typing  of  methicillin-resistant  Staphylococcus  aureus  in  a  university
+hospital  setting  by  using  novel  software  for  spa  repeat  determination  and
+database  management.  J.  Clin.  Microbiol.  41,  5442–5448.
+
+Ho,  J.,  O’Donoghue,  M.,  Guardabassi,  L.,  Moodley,  A.,  Boost,  M.,  2012a.
+
+Characterization  of  methicillin-resistant  Staphylococcus  aureus  isolates  from  pig
+carcasses  in  Hong  Kong.  Zoonoses  Publ.  Health  59,  416–423.
+
+Ho,  P.L.,  Chow,  K.H.,  Lai,  E.L.,  Law,  P.Y.,  Chan,  P.Y.,  Ho,  A.Y.,  Ng,  T.K.,  Yam,  W.C.,  2012b.
+
+Clonality  and  antimicrobial  susceptibility  of  Staphylococcus  aureus  and
+methicillin-resistant  S.  aureus  isolates  from  food  animals  and  other  animals.  J.
+Clin.  Microbiol.  50,  3735–3737.
+
+Li,  B.,  Wendlandt,  S.,  Yao,  J.,  Liu,  Y.,  Zhang,  Q.,  Shi,  Z.,  Wei,  J.,  Shao,  D.,  Schwarz,  S.,
+
+Wang,  S.,  Ma,  Z.,  2013.  Detection  and  new  genetic  environment  of  the
+pleuromutilin-lincosamide-streptogramin  A  resistance  gene  lsa(E)  in
+methicillin-resistant  Staphylococcus  aureus  of  swine  origin.  J.  Antimicrob.
+Chemother.  68,  1251–1255.
+
+Li,  J.,  Feßler,  A.,  Jiang,  N.,  Fan,  R.,  Wang,  Y.,  Wu,  C.,  Shen,  J.,  Schwarz,  S.,  2016.
+
+Molecular  basis  of  rifampicin  resistance  in  multi-resistant  porcine  livestock-
+associated  methicillin-resistant  Staphylococcus  aureus.  J.  Antimicrob.
+Chemother  71,  3313–3315.
+
+Lim,  S.K.,  Nam,  H.M.,  Jang,  G.C.,  Lee,  H.S.,  Jung,  S.C.,  Kwak,  H.S.,  2012.  The 
+
+ﬁrst
+
+detection  of  methicillin-resistant  Staphylococcus  aureus  ST398  in  pigs  in  Korea.
+Vet.  Microbiol.  155,  88–92.
+
+Liu,  Y.,  Wang,  H.,  Du,  N.,  Shen,  E.,  Chen,  H.,  Niu,  J.,  Ye,  H.,  Chen,  M.,  2009.  Molecular
+evidence  for  spread  of  two  major  methicillin-resistant  Staphylococcus  aureus
+clones  with  a  unique  geographic  distribution  in  Chinese  hospitals.  Antimicrob.
+Agents  Chemother.  53,  512–518.
+
+Louie,  L.,  Goodfellow,  J.,  Mathieu,  P.,  Glatt,  A.,  Louie,  M.,  Simor,  A.E.,  2002.  Rapid
+detection  of  methicillin-resistant  staphylococci  from  blood  culture  bottles  by
+using  a  multiplex  PCR  assay.  J.  Clin.  Microbiol.  40,  2786–2790.
+
+Neela,  V.,  Mohd  Zafrul,  A.,  Mariana,  N.S.,  van  Belkum,  A.,  Liew,  Y.K.,  Rad,  E.G.,  2009.
+Prevalence  of  ST9  methicillin-resistant  Staphylococcus  aureus  among  pigs  and
+pig  handlers  in  Malaysia.  J.  Clin.  Microbiol.  47,  4138–4140.
+
+van  Loo,  I.,  Huijsdens,  X.,  Tiemersma,  E.,  de  Neeling,  A.,  van  de  Sande-Bruinsma,  N.,
+Beaujean,  D.,  Voss,  A.,  Kluytmans,  J.,  2007.  Emergence  of  methicillin-resistant
+Staphylococcus  aureus  of  animal  origin  in  humans.  Emerg.  Infect.  Dis.  13,  1834–
+1839.
+
+Voss,  A.,  Loeffen,  F.,  Bakker,  J.,  Klaassen,  C.,  Wulf,  M.,  2005.  Methicillin-resistant
+
+Staphylococcus  aureus  in  pig  farming.  Emerg.  Infect.  Dis.  11,  1965–1966.
+
+Wagenaar,  J.A.,  Yue,  H.,  Pritchard,  J.,  Broekhuizen-Stins,  M.,  Huijsdens,  X.,  Mevius,  D.
+J.,  Bosch,  T.,  Van  Duijkeren,  E.,  2009.  Unexpected  sequence  types  in  livestock
+associated  methicillin-resistant  Staphylococcus  aureus  (MRSA):  MRSA  ST9  and  a
+single  locus  variant  of  ST9  in  pig  farming  in  China.  Vet.  Microbiol. 139,  405–409.
+Weese,  J.S.,  2010.  Methicillin-resistant  Staphylococcus  aureus  in  animals.  ILAR  J.  51,
+
+233–244.
+
+Wendlandt,  S.,  Feßler,  A.T.,  Monecke,  S.,  Ehricht,  R.,  Schwarz,  S.,  Kadlec,  K.,  2013a.
+The  diversity  of  antimicrobial  resistance  genes  among  staphylococci  of  animal
+origin.  Int.  J.  Med.  Microbiol.  303,  338–349.
+
+Wendlandt,  S.,  Lozano,  C.,  Kadlec,  K.,  Gomez-Sanz,  E.,  Zarazaga,  M.,  Torres,  C.,
+Schwarz,  S.,  2013b.  The  enterococcal  ABC  transporter  gene  lsa(E)  confers
+combined  resistance  to  lincosamides,  pleuromutilins  and  streptogramin  A
+antibiotics  in  methicillin-susceptible  and  methicillin-resistant  Staphylococcus
+aureus.  J.  Antimicrob.  Chemother.  68,  473–475.
+
+Wendlandt,  S.,  Kadlec,  K.,  Feßler,  A.T.,  Schwarz,  S.,  2015a.  Identiﬁcation  of  ABC
+
+transporter  genes  conferring  combined  pleuromutilin-lincosamide-
+streptogramin  A  resistance  in  bovine  methicillin-resistant  Staphylococcus
+aureus  and  coagulase-negative  staphylococci.  Vet.  Microbiol.  177,  353–358.
+
+Wendlandt,  S.,  Shen,  J.,  Kadlec,  K.,  Wang,  Y.,  Li,  B.,  Zhang,  W.J.,  Feßler,  A.T.,  Wu,  C.,
+Schwarz,  S.,  2015b.  Multidrug  resistance  genes  in  staphylococci  from  animals
+that  confer  resistance  to  critically  and  highly  important  antimicrobial  agents  in
+human  medicine.  Trends  Microbiol.  23,  44–54.
+
+Woodford,  N.,  Livermore,  D.M.,  2009.  Infections  caused  by  Gram-positive  bacteria:  a
+
+review  of  the  global  challenge.  J.  Infect.  59  (Suppl.  1),  S4–S16.
+
+Yan,  X.,  Yu,  X.,  Tao,  X.,  Zhang,  J.,  Zhang,  B.,  Dong,  R.,  Xue,  C.,  Grundmann,  H.,  Zhang,  J.,
+2014.  Staphylococcus  aureus  ST398  from  slaughter  pigs  in  northeast  China.  Int.  J.
+Med.  Microbiol.  304,  379–383.
+
+

@@ -1,0 +1,1159 @@
+588
+
+NOTE / NOTE
+
+Virulence properties and antimicrobial
+susceptibility of Shiga toxin-producing Escherichia
+coli strains isolated from healthy cattle from
+Parana´ State, Brazil
+
+Caroline P. Pigatto, Ruben P. Schocken-Iturrino, Emanuel M. Souza,
+Fa´ bio O. Pedrosa, Larissa Comarella, Kinue Irino, Maria Aideˆ M.F. Kato,
+Soˆ nia M.S.S. Farah, Jose´ F. Warth, and Cyntia M.T. Fadel-Picheth
+
+Abstract: The presence of Shiga toxin-producing Escherichia coli (STEC) strains in feces samples of cattle was determined
+using the cytotoxicity assay on Vero cells and a screening PCR system to detect stx genes. The STEC isolates were sero-
+typed, tested for antimicrobial susceptibility, and analyzed for virulence genes using multiplex PCR. The verocytotoxin-
+producing E. coli – reverse passive latex agglutination (VTEC–RPLA) assay was also used to detect Shiga toxin production.
+The frequency of cattle shedding STEC was 36%. The isolates belonged to 33 different serotypes, of which O10:H42,
+O98:H41, and O159:H21 had not previously been associated with STEC. The most frequent serotypes were ONT:H7 (10%),
+O22:H8 (7%), O22:H16 (7%), and ONT:H21 (7%). Most of the strains (96%) were susceptible to all antimicrobial agents
+tested. Shiga toxin was detected by the VTEC–RPLA assay in most (89%) of the STEC strains. The frequency of virulence
+markers was as follows: stx1, 10%; stx2, 43%; stx1 plus stx2, 47%; ehxA, 44%; eae, 1%; and saa, 38%. Several strains belong
+to serotypes associated with human disease, and most of them carried a stx2-type gene, suggesting that they represent a risk
+to human health. The screening PCR assay showed fewer false-negative results for STEC than the Vero-cell assay and is
+suitable for laboratory routine.
+
+Key words: STEC, stx genes, virulence genes, Shiga toxin, antimicrobial susceptibility.
+Re´sume´ : La pre´sence de souches d’Escherichia coli produisant la toxine de Shiga (STEC) dans des e´chantillons fe´caux
+du veau a e´te´ de´termine´e par un essai de cytotoxicite´ sur les cellules Vero et par un criblage par PCR afin de de´tecter les
+ge`nes stx. Le typage se´rologique des isolats de STEC a e´te´ re´alise´, leur sensibilite´ antimicrobienne a e´te´ teste´e, et la pre´-
+sence de ge`nes de virulence a e´te´ analyse´e par PCR multiplex. L’essai VTEC–RPLA a aussi e´te´ utilise´ pour de´tecter la
+production de toxine de Shiga. La fre´quence de libe´ration de STEC par le veau e´tait de 36 %. Les isolats appartenaient a`
+33 types se´rologiques, dont les types O10:H42, O98:H41 et O159:H21 qui n’avaient jamais e´te´ associe´s auparavant avec
+les STEC. Les types se´rologiques les plus fre´quents e´taient ONT:H7 (10 %), O22:H8 (7 %), O22:H16 (7 %) et ONT:H21
+(7 %). La plupart des souches (96 %) e´taient sensibles a` tous les agents antimicrobiens teste´s. La toxine de Shiga a e´te´ de´-
+
+Received 30 October 2007. Revision received 8 March 2008. Accepted 1 May 2008. Published on the NRC Research Press Web site at
+cjm.nrc.ca on 27 June 2008.
+
+C.P. Pigatto. Department of Veterinary Medicine, Federal University of Parana´, Setor de Cieˆncias Agra´rias, Rua dos Funciona´rios,
+1540 Juveveˆ, Curitiba, PR 80035-050, Brazil; Department of Medical Pathology, Federal University of Parana´, Avenida Lotha´rio
+Meissner, 632 Jardim Botaˆnico, Curitiba, PR 80210-170, Brazil; Department of Veterinary Pathology, Sa˜o Paulo State University
+(UNESP), Professor Paulo Donato Castellane s/n Km 5 Rural, Jaboticabal, SP 14884-900, Brazil.
+R.P. Schocken-Iturrino. Department of Veterinary Pathology, Sa˜o Paulo State University (UNESP), Professor Paulo Donato Castellane
+s/n Km 5 Rural, Jaboticabal, SP 14884-900, Brazil.
+E.M. Souza and F.O. Pedrosa. Department of Biochemistry and Molecular Biology, Federal University of Parana´, Centro Polite´cnico,
+C.P. 19046, Curitiba, PR 81531-990, Brazil.
+L. Comarella and C.M.T. Fadel-Picheth.1 Department of Medical Pathology, Federal University of Parana´, Avenida Lotha´rio Meissner,
+632 Jardim Botaˆnico, Curitiba, PR 80210-170, Brazil.
+K. Irino and M.A.M.F. Kato. Adolfo Lutz Institute, Avenida Dr Arnaldo, 351, Pinheiros, Sa˜o Paulo, SP 01246902, Brazil.
+S.M.S.S. Farah. Department of Medical Pathology, Federal University of Parana´, Avenida Lotha´rio Meissner, 632 Jardim Botaˆnico,
+Curitiba, PR 80210-170, Brazil; Central Laboratory of Parana´ State, Sa˜o Jose´ dos Pinhais, PR, Brazil.
+J.F. Warth. Department of Veterinary Medicine, Federal University of Parana´, Setor de Cieˆncias Agra´rias, Rua dos Funciona´rios,
+1540 Juveveˆ, Curitiba, PR 80035-050, Brazil.
+1Corresponding author (e-mail: fpicheth@ufpr.br).
+
+Can. J. Microbiol. 54: 588–593 (2008)
+
+doi:10.1139/W08-046
+
+# 2008 NRC Canada
+
+Pigatto et al.
+
+589
+
+tecte´e par l’essai VREC–RPLA dans la plupart des souches STEC (89 %). La fre´quence des marqueurs de virulence e´tait
+la suivante : stx1, 10 %; stx2, 43 %; stx1 et stx2, 47 %; ehxA, 44 %; eae, 1 %; et saa, 38 %. Plusieurs souches appartien-
+nent a` des types se´rologiques associe´s a` la maladie chez l’humain et plusieurs d’entre elles comportaient un ge`ne de type
+stx2, ce qui sugge`re qu’elles constituent un risque pour la sante´ humaine. L’essai de criblage par PCR a pre´sente´ moins de
+re´sultats faussement ne´gatifs dans la de´tection des STEC comparativement a` l’essai sur les cellules Vero, et est approprie´
+pour des tests de laboratoire de routine.
+
+Mots-cle´s : STEC, ge`nes stx, ge`nes de virulence, toxine de Shiga, sensibilite´ antimicrobienne.
+
+[Traduit par la Re´daction]
+
+______________________________________________________________________________________
+
+Shiga toxin-producing Escherichia coli (STEC) strains are
+an important cause of food-borne disease, representing a
+serious problem to public health in several countries. These
+organisms are associated with sporadic cases and outbreaks
+of diarrhea, hemorrhagic colitis, and hemolytic uremic syn-
+drome (WHO/CSR/APH 1998; Mainil and Daube 2005).
+More than 400 serotypes of STEC have been described, and
+over 150 implicated in human disease (WHO/CSR/APH
+1998; Zweifel et al. 2005). The main virulence factor of
+STEC is the Shiga toxin (Stx) of which 2 major types, Stx1
+and Stx2, exist; variant forms have also been described. In
+addition to Stx, STEC may also carry genes such as eae,
+which is encoded in the pathogenicity island LEE (locus of
+enterocyte effacement), coding for
+the adhesin intimin,
+which mediates the production of attaching and effacing le-
+sions on intestinal mucosa; and ehxA that codes for entero-
+hemolysin (Mainil and Daube 2005). The Saa protein
+(STEC auto agglutinating adhesin), coded by the saa gene,
+is also a putative virulence factor in LEE-negative strains
+(Paton et al. 2001).
+
+Since STEC strains have biochemical properties similar to
+those of E. coli from normal enteric flora the detection of
+Shiga toxins, using the cytotoxicity assay in Vero cells or
+immunological tests, or the presence of genes coding for
+these toxins are alternatives to identify such strains (Karch
+et al. 1999; Bettelheim and Beutin 2003).
+
+Cattle are the major reservoir of STEC, and the fecal con-
+tamination of meat during slaughter is the main route by
+which these pathogens enter the food supply (Meng and
+Doyle 1998). The dispersion of manure in the environment
+and its use as fertilizer can also be a source of food contam-
+ination (Caprioli et al. 2005). Few epidemiologic studies on
+the occurrence of STEC have been conducted in Brazil, and
+most of these report isolates from the Sa˜o Paulo and Rio de
+Janeiro states (Cerqueira et al. 1999; Leomil et al. 2003;
+Irino et al. 2005). Parana´ State has a cattle herd composed
+of approximately 10 million animals (www.agricultura.gov.
+br), while the herd of the whole of the South region consti-
+tutes about 15% (30 million animals) of the Brazilian herd,
+most of which have been raised in an extensive grazing sys-
+tem, based on free-range pasture.
+
+In this work, the presence of STEC in beef cattle from
+Parana´ State of southern Brazil was determined using a
+PCR screening system and the cytotoxicity assay in Vero
+cells. STEC strains were differentiated by serotype; antimi-
+crobial susceptibility; stx typing; and the presence of eae,
+ehxA, and saa genes. Three serotypes (O10:H42, O98:H41,
+and O159:H21), out of 33 found in the cattle samples, were
+not previously associated with production of Shiga toxin and
+
+may represent a yet unidentified potential hazard for human
+health.
+
+Swabs of rectal feces from 190 healthy cattle (140 adults
+and 50 calves less than 2 months old), extensively grazed,
+from 43 different localities of Parana´ State, were collected
+from slaughterhouses from December 2002 to November
+2003. Samples from up to 5 randomly chosen animals from
+each location were collected. Swabs containing the fecal
+samples were transported in Cary–Blair medium and within
+6 h were cultured on sorbitol–MacConkey agar. For each
+sample, up to 10 colonies, including sorbitol-negative and
+sorbitol-positive colonies, were selected and identified using
+the following biochemical tests: acid from glucose, gas from
+glucose, H2S, urease, L-tryptophane deaminase,
+indole,
+lysine decarboxylase, and motility. Those confirmed as
+E. coli were tested for Shiga toxin production using the
+cytotoxicity assay in Vero cells (Gentry and Dalrymple
+1980) and for
+the presence of stx genes by using a
+screening PCR protocol (Lin et al. 1993) with primers
+LinF (5’ GAACGAAATAATTTATATGT 3’) and LinR
+(5’ TTTGATTGTTAC(A/C)GTCAT 3’). DNA was ex-
+tracted by the boiling method (Olsvik and Strockbine
+1993). A multiplex PCR protocol was used to detect the
+stx1, stx2, eae, ehxA, and saa genes (Paton and Paton
+2002);
+this assay was used twice for each strain. For
+strains in which doubt persisted, PCR with a single pri-
+mer pair was used. STEC O157:H7 (EDL 933) and
+E. coli ATCC 25922 were used as positive and negative
+controls, respectively. In addition, the VTEC–RPLA Seiken
+(Denka Seiken Co. Ltd., Tokyo, Japan) was performed ac-
+cording to the manufacturer’s instructions, to a maximum
+extract dilution of 1:16. Titres higher than 1:4 were consid-
+ered positive for Shiga toxin.
+
+Of 190 stool samples analyzed, 69 (36%) were positive
+for STEC that were found only in adult cattle. Most of the
+strains were sorbitol positive (Table 1). Samples from 3 ani-
+mals had 2 different STEC strains isolated with distinct sor-
+bitol reactions, belonging to different serotypes and carrying
+distinct sets of virulence markers, producing a total of 72
+STEC strains. Animals shedding STEC were found in 27
+(63%) of the 43 localities. There was a clear difference in
+STEC frequency according to the period of collection—
+summer having the highest frequency (56%) and winter the
+lowest
+frequency of STEC during
+summer was also described in other studies (Karch et al.
+1999). The overall frequency (36%) was similar to that
+found in Rio de Janeiro (Cerqueira et al. 1999) but higher
+in Sa˜o Paulo (Leomil et al. 2003; Irino et al.
+than that
+2005), both in the southeast of Brazil. Studies conducted in
+
+(26%). The highest
+
+# 2008 NRC Canada
+
+590
+
+Can. J. Microbiol. Vol. 54, 2008
+
+Table 1. Characteristics of Shiga toxin-producing Escherichia coli (STEC) strains isolated from Brazilian cattle.
+
+Serotype*
+O6:H34
+O10:H42
+
+O17:H41
+O22:H8
+
+O22:H16
+
+O41:H2
+O74:H42
+O79:H–
+O82:H8
+
+O98:H41
+O110:H2
+
+O113:H21
+
+O117:H8
+O124:H11
+O159:H21
+O174:H21
+
+O175:H21
+O178:H19
+
+O179:H8
+O181:H4
+ONT:H2
+
+ONT:H7
+
+ONT:H8
+ONT:H10
+ONT:H12
+
+ONT:H16
+
+ONT:H21
+
+Sorbitol
+fermentation
++
++
++
+–
++
++
++
++
++
++
+–
+–
+–
+–
++
+–
++
++
+–
+–
++
++
++
++
+–
+–
++
++
++
++
++
++
++
+–
++
++
++
++
++
++
++
++
++
+–
++
++
++
++
+–
++
++
++
++
+–
++
++
+–
+
+Vero cell
+assay
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+–
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
+PCR{
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+–
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
+N
+1
+1
+1
+1
+1
+2
+2
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+VTEC assay{
+Stx2 (1:4)
+NR
+Stx1 Stx2 (‡1:16)
+Stx1 (1:8)
+Stx1 Stx2 (‡1:16/1:8)
+Stx2 (1:8)
+Stx2 (‡1:16)
+Stx2 (1:8)
+Stx2 (‡1:16)
+Stx1 Stx2 (‡1:16/1:8)
+Stx1 Stx2 (‡1:16)
+Stx1 Stx2 (‡1:16/1:4)
+Stx1 Stx2 (‡1:16)
+Stx2 (‡1:16)
+Stx1 Stx2 (‡1:16/1:8)
+Stx1 Stx2 (‡1:16)
+Stx2 (‡1:16)
+Stx1 Stx2 (‡1:16)
+Stx1 (‡1:16)
+Stx1 (‡1:16)
+Stx1 Stx2 (‡1:16)
+Stx2 (‡1:16)
+Stx1 Stx2 (‡1:16)
+Stx1 Stx2 (‡1:16)
+Stx1 (‡1:16)
+NR
+Stx1 (1:4)
+Stx1 Stx2 (‡1:16)
+Stx2 (‡1:16)
+NR
+Stx1 Stx2 (‡1:16)
+Stx2 (‡1:16)
+Stx1 Stx2 (‡1:16)
+Stx2 (‡1:16)
+Stx2 (‡1:16)
+Stx2 (‡1:16)
+Stx2 (‡1:16)
+Stx2 (‡1:16)
+Stx2 (1:8)
+Stx2 (‡1:16)
+NR
+Stx1 (‡1:16)
+Stx1 Stx2 (‡1:16)
+Stx1 Stx2 (‡1:16)
+NR
+Stx1 Stx2 (‡1:16)
+NR
+Stx1 Stx2 (‡1:16/1:8)
+Stx2 (1:8)
+Stx2 (‡1:16)
+Stx1 Stx2 (‡1:16)
+Stx1 Stx2 (‡1:16)
+Stx2 (‡1:16)
+Stx2 (‡1:16)
+NR
+Stx1 Stx2 (‡1:16)
+Stx1 Stx2 (‡1:16)
+
+Virulence markers
+stx2
+stx1 stx2
+stx1 stx2
+stx1 ehxA saa
+stx1 stx2 ehxA saa
+stx2
+stx2
+stx2 saa
+stx2
+stx1 stx2
+stx1 stx2
+stx1 stx2 ehxA
+stx1 stx2 ehxA
+stx2
+stx1 stx2 ehxA saa
+stx1 stx2 ehxA saa
+stx2 ehxA
+stx1 stx2 ehxA saa
+stx1 stx2
+stx1 stx2
+stx1 stx2 ehxA saa
+stx2 ehxA saa
+stx1 stx2
+stx1 stx2 ehxA
+stx1 stx2
+stx1
+stx1
+stx1 stx2 ehxA saa
+stx2
+stx1 stx2
+stx1 stx2 ehxA saa
+stx2
+stx1 stx2 ehxA
+stx2 ehxA saa
+stx2 saa
+stx2
+stx2 saa
+stx2 ehxA saa
+stx2
+stx2 ehxA saa
+stx2 ehxA saa
+stx1 ehxA saa
+stx1 stx2 saa
+stx1 stx2 saa
+stx1 ehxA saa
+stx1 stx2 ehxA saa
+stx1 stx2
+stx1 stx2 ehxA
+stx2
+stx2
+stx1 stx2 ehxA
+stx1 stx2 ehxA saa
+stx2
+stx2
+stx2
+stx1 stx2
+stx1 stx2 ehxA
+
+Susceptibility§
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+Tci
+S
+S
+S
+Tci
+Tci
+S
+S
+
+# 2008 NRC Canada
+
+Pigatto et al.
+
+Table 1 (concluded).
+
+Serotype*
+ONT:H25
+
+ONT:H38
+ONT:H41
+ONT:H–
+OR:H10
+OR:H18
+ND
+
+Sorbitol
+fermentation
+–
++
++
++
++
++
++
++
++
++
+
+Vero cell
+assay
++
++
++
++
++
++
++
++
++
+–
+
+PCR{
++
++
++
++
++
++
++
++
++
++
+
+N
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+VTEC assay{
+Stx2 (‡1:16)
+Stx1 Stx2 (‡1:16)
+Stx1 Stx2 (‡1:16)
+Stx1 (‡1:16)
+Stx2 (‡1:16)
+Stx2 (‡1:16)
+Stx2 (‡1:16)
+Stx1 (‡1:16)
+Stx1 Stx2 (‡1:16)
+Stx1 Stx2 (‡1:16)
+
+Note: +, positive reaction; –, negative reaction.
+*ONT, not typeable; OR, rough; ND, not determined.
+{Detection of stx gene by screening PCR.
+{VTEC–RPLA assay, titres are shown in parentheses. NR, not reagent.
+§S, susceptible to all antimicrobial agents tested; Tci, tetracycline intermediate.
+
+591
+
+Virulence markers
+stx2 saa
+stx1 stx2
+stx1 stx2 ehxA saa
+stx1 ehxA saa
+stx2
+stx2 ehxA saa
+stx2
+stx1 eaeA ehxA
+stx1 stx2 ehxA
+stx1 stx2 ehxA saa
+
+Susceptibility§i
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+
+states from southern Brazil reported STEC frequencies of
+49% and 39% in Rio Grande do Sul (Moreira et al. 2003;
+Timm et al. 2007) and 59% in Parana´ (Farah et al. 2007).
+The higher frequency of STEC in cattle of Parana State re-
+lated by Farah and co-workers could be associated with the
+period, early autumn, and localities in which the samples
+were collected. Our studies indicate that there is seasonal
+variation in the frequency of STEC recovery from cattle,
+and further work will be necessary to clarify the reasons.
+Considering that in the present work samples were collected
+for 1 year, these results could reflect a better estimate of
+STEC occurrence. It was also observed that the distribution
+of cattle shedding STEC was not uniform in the different re-
+gions of the State—the highest frequencies (68%) were
+found in cities of the northwest, the lowest (18%) in the
+southeast. This should be related to differences in the cli-
+mate and (or) management of the cattle.
+
+STEC strains were serotyped using O (O1 to O181) and H
+(H1 to H56) antisera prepared at the Adolfo Lutz Institute,
+Sa˜o Paulo, Brazil. The strains were classified into 33 distinct
+groups according to the serotyping reactions (Table 1), of
+which, O10:H42, O98:H41, and O159:H21 had not previ-
+ously been associated with STEC. Except for serotypes
+O79:H–, O110:H2, O117:H8, O124:H11, O181:H4,
+ONT:H38, and OR:H10, and those not previously associated
+with STEC, all other serotypes have been associated with
+human infection (Prager et al. 2005; http://www.
+microbionet.com.au/vtectable.htm; http://www.lugo.usc.es/
+ecoli/SEROTIPOSHUM.htm). The most frequent serotypes
+were ONT:H7 (10%), O22:H8 (7%), O22:H16 (7%), and
+ONT:H21 (7%). Strains ONT:H7 and O22:H8 were also pre-
+dominant in the studies by Farah et al. (2007) and Timm et
+al. (2007) in cattle from the Parana´ and Rio Grande do Sul
+states but not in other states in Brazil; on the other hand,
+serotype O22:H16 was found to be among the most common
+serotype isolated in the Rio de Janeiro and Sa˜o Paulo states
+(Cerqueira et al. 1999; Aidar-Ugrinovich et al. 2007). This
+suggests that different serotypes may prevail
+in different
+geographic regions of this country. The finding that serotype
+O111 is the most frequently isolated from human infections
+(Vaz et al. 2004) and cattle from Sa˜o Paulo State (Irino et
+
+this
+
+al. 2005; Aidar-Ugrinovich et al. 2007), though it was not
+found in cattle from other states (Cerqueira et al. 1999;
+Moreira et al. 2003; Farah et al. 2007; Timm et al. 2007),
+supports
+suggestion. Serotypes ONT:H7, O22:H8,
+O22:H16, and ONT:H21 were already associated with hu-
+man disease (http://www.microbionet.com.au/vtectable.htm,
+http://www.lugo.usc.es/ecoli/SEROTIPOSHUM.htm); how-
+ever,
+to our knowledge, human infection in Brazil asso-
+ciated with these serotypes was not reported, although they
+are commonly found in cattle from this country. One possi-
+bility is that the strains prevalent in Brazil have a low level
+of virulence.
+
+the
+
+strains
+
+The susceptibility pattern of the STEC strains was deter-
+mined by the disk diffusion method (National Committee
+for Clinical Laboratory Standards 2000), using the following
+antimicrobials:
+ampicillin, cephalothin, chloramphenicol,
+ciprofloxacin, gentamicin, imipenem, nalidixic acid, nitro-
+furantoin,
+tetracycline, and trimethoprim–
+streptomycin,
+sulfamethoxazole. Most
+(96%) were
+of
+susceptible to all antimicrobials tested (Table 1). Three
+strains showed an intermediate response to tetracycline.
+None of the strains were resistant to any of the antimicro-
+bials tested, which is in contrast to the resistance level found
+in STEC isolated from cattle in other countries (Maidhof et
+al. 2002; Schroeder et al. 2002; Mora et al. 2005). However,
+a high frequency of susceptibility was also found in STEC
+strains isolated from cattle from Sa˜o Paulo State, and among
+the strains that showed resistance to antimicrobials, all of
+them were resistant to tetracycline (Cergole-Novella et al.
+2006). The low level of resistance found may be associated
+with the fact that the most common cattle management sys-
+tem is free roaming on grassland, and food supplement con-
+taining antibiotics is not a common practice (www.seab.pr.
+gov.br) possibly due to its high cost in this country.
+
+The virulence markers were found in 11 different combi-
+nations (Table 1), the most frequent being stx2 (27%) and
+then stx1 stx2 and stx1 stx2 ehxA saa (16% each). The high
+frequency of the stx2 gene (89%) suggests a potential hazard
+for human health, since stx2 is related to higher virulence
+(Boerlin et al. 1999; Beutin et al. 2004). The eae gene was
+found in only one strain and in association with stx1 and
+
+# 2008 NRC Canada
+
+592
+
+Can. J. Microbiol. Vol. 54, 2008
+
+ehxA. The presence of stx2 plus eae is associated with a
+more severe form of the human disease (Boerlin et al.
+1999; Beutin et al. 2004). Although certain serotypes of
+STEC lacking the eae gene may also cause severe disease,
+this result suggests that the low prevalence of the stx2 eae
+genotype may be related to the rare occurrence of hemolytic
+uremic syndrome in Brazil (Guth et al. 2002). The saa gene
+was found only in 28 (38%) strains, so other types of adhe-
+sins may be involved in the adhesion mechanisms of these
+strains. The ehxA gene was found in 32 (44%) strains, 22 of
+which tested positive for the saa gene, indicating a signifi-
+cant association between these genes of plasmid origin
+(Paton et al. 2001).
+
+Some of the strains belonging to the same serotype car-
+ried different complements of virulence genes (Table 1), in-
+dicating genetic and biochemical diversity of the isolates
+which may differ in the ability to cause disease. Thus sero-
+typing is not enough to define virulence and virulence genes
+should be identified in the epidemiologic surveys to better
+evaluate the risk that STEC strains represent
+to human
+health.
+
+Divergent results between the cytotoxicity assay in Vero
+cells and the PCR screening assay for stx genes were ob-
+served in 3 strains (Table 1). The multiplex PCR assay re-
+vealed that 2 of these strains contained copies of stx1 plus
+stx2, but by the cytotoxicity assay they were false negatives,
+although Stx expression was detected by the VTEC–RPLA
+assay (Table 1). Only one false negative in the PCR screen-
+ing was latter shown to have the stx1 gene by multiplex
+PCR, and a weak reaction for Stx1 was observed in the im-
+munoassay. This suggests the presence of a stx1 allele not
+recognized by the primers used in the screening PCR.
+Although there was no significant difference when the re-
+sults of the Vero cell and PCR screening assays were com-
+pared by the c2 test (c2 = 0.04, P = 0.83), the latter offers
+clear advantages for routine use, since it is easier to per-
+form,
+less expensive, and allows faster detection of stx-
+containing bacteria.
+
+Sixty-five strains (90%) reacted positively in the VTEC–
+RPLA assay. Three of the strains identified as producing
+Stx1 by the VTEC–RPLA assay were found to contain stx1
+plus stx2 genes by the multiplex PCR. The 7 STEC strains
+for which the VTEC–RPLA assay was negative (Table 1)
+were shown to carry stx1 plus stx2, stx2, or stx1; all these
+strains were positive in the Vero cell assay, indicating that
+they produce active Shiga toxin and that the negative result
+observed in the VTEC–RPLA is probably due to a Stx var-
+iant not recognized by the antibodies used in the assay or to
+a low level of expression. Negative results for strains har-
+boring variants of stx2 were already observed for VTEC–
+RPLA assay (Beutin et al. 2004), and substantial differences
+in the amount of Stx produced by strains with various stx
+alleles were found by Orth et al. (2007).
+
+In conclusion, this work showed the presence of serotypes
+of STEC associated with human disease in cattle from Par-
+ana´ State. All strains belonged to non-O157 serogroups,
+which may explain the prevalence of non-O157 serogroups
+in human infections by STEC in Brazil (Vaz et al. 2004;
+Cergole-Novella et al. 2006), and most of them were suscep-
+tible to all the antimicrobials tested. Although most of the
+strains presented a stx2-type gene, they may be less virulent,
+
+since they do not contain the eae gene. The low level of vir-
+ulence of these strains could explain why, in Brazil, STEC
+are associated with uncomplicated diarrhea, and why cases
+of severe disease such as hemorrhagic colite and hemolytic
+uremic syndrome are so rare. However, lateral transfer of
+virulence genes may give rise to new STEC strains with un-
+predictable behavior. Thus, although some of these strains
+have not been associated with severe disease in humans,
+they can represent a potential hazard for human health.
+
+Acknowledgements
+
+We thank Conselho Nacional de Desenvolvimento Cientı´-
+fico e Tecnolo´gico (CNPQ) and Coordenac¸a˜o de Aperfei-
+c¸oamento de Pessoal de Nı´vel Superior
+for
+support by scholarships, and M. Geoffrey Yates for critical
+reading of the manuscript and suggestions.
+
+(CAPES)
+
+References
+Aidar-Ugrinovich, L., Blanco, J., Blanco, M., Blanco, J.E., Leomil,
+L., Dahbi, G., et al. 2007. Serotypes, virulence genes, and inti-
+min types of Shiga toxin-producing Escherichia coli (STEC)
+and enteropathogenic E. coli (EPEC) isolated from calves in
+Sa˜o Paulo, Brazil. Int. J. Food Microbiol. 115: 297–306. doi:10.
+1016/j.ijfoodmicro.2006.10.046. PMID:17292501.
+
+Bettelheim, K.A., and Beutin, L. 2003. Rapid laboratory identification
+and characterization of verocytotoxigenic (Shiga toxin producing)
+Escherichia coli (VTEC/STEC). J. Appl. Microbiol. 95: 205–217.
+doi:10.1046/j.1365-2672.2003.02031.x. PMID:12859750.
+
+Beutin, L., Krause, G., Zimmermann, S., Kaulfuss, S., and Gleier,
+K. 2004. Characterization of Shiga toxin-producing Escheri-
+chia coli strains isolated from human patients in Germany
+over a 3-year period. J. Clin. Microbiol. 42: 1099–1108.
+doi:10.1128/JCM.42.3.1099-1108.2004. PMID:15004060.
+
+Boerlin, P., McEwen, S.A., Boerlin-Petzold, F., Wilson, J.B.,
+Johnson, R.P., and Gyles, C.L. 1999. Associations between viru-
+lence factors of Shiga-toxin producing Escherichia coli and
+disease in humans. J. Clin. Microbiol. 37: 497–503. PMID:
+9986802.
+
+Caprioli, A., Morabito, S., Bruge`re, H., and Oswald, E. 2005.
+Enterohaemorrhagic Escherichia coli:
+emerging issues on
+virulence and modes of transmission. Vet. Res. 36: 289–311.
+doi:10.1051/vetres:2005002. PMID:15845227.
+
+Cergole-Novella, M.C.C., Nishimura, L.S., Irino, K., Vaz, T.M.I.,
+Castro, A.F.P., Leomil, L., and Guth, B.E.C. 2006. Stx genotypes
+and antimicrobial resistance profiles of Shiga toxin-producing
+Escherichia coli strains isolated from human infections, cattle
+and foods in Brazil. FEMS Microbiol. Lett. 259: 234–239.
+doi:10.1111/j.1574-6968.2006.00272.x. PMID:16734785.
+
+Cerqueira, A.M., Guth, B.E., Joaquim, R.M., and Andrade, J.R.
+1999. High occurrence of Shiga toxin-producing Escherichia
+coli (STEC) in healthy cattle in Rio de Janeiro State, Brazil.
+Vet. Microbiol. 70: 111–121. doi:10.1016/S0378-1135(99)
+00123-6. PMID:10591502.
+
+Farah, S.M.S.S., Souza, E.M., Pedrosa, F.O., Irino, K., Silva, L.R.,
+Rigo, L.U., et al. 2007. Phenotypic and genotypic traits of Shiga
+toxin-producing Escherichia coli strains isolated from beef cat-
+tle from Parana´ State, southern Brazil. Lett. Appl. Microbiol.
+44: 607–612. doi:10.1111/j.1472-765X.2007.02123.x. PMID:
+17576221.
+
+Gentry, M.K., and Dalrymple, J.M. 1980. Quantitative microtiter
+cytotoxicity assay for Shigella toxin. J. Clin. Microbiol. 12:
+361–366. PMID:7012172.
+
+# 2008 NRC Canada
+
+Pigatto et al.
+
+593
+
+Guth, B.E.C., Souza, R.L., Vaz, T.M.I., and Irino, K. 2002. First
+Shiga toxin-producing Escherichia coli isolate from a patient
+with hemolytic uremic syndrome, Brazil. Emerg. Infect. Dis. 8:
+535–536. PMID:11996695.
+
+Irino, K., Kato, M.A.M.F., Vaz, T.M.I., Ramos,
+
+I.I., Souza,
+M.A.C., Cruz, A.S., et al. 2005. Serotypes and virulence mar-
+kers of Shiga toxin-producing Escherichia coli (STEC) isolated
+from dairy cattle in Sa˜o Paulo State, Brazil. Vet. Microbiol. 105:
+29–36. doi:10.1016/j.vetmic.2004.08.007. PMID:15607081.
+
+Karch, H., Bielaszewska, M., Bitzan, M., and Schmidt, H. 1999.
+Epidemiology and diagnosis of Shiga toxin-producing Escheri-
+chia coli infections. Diagn. Microbiol. Infect. Dis. 34: 229–243.
+doi:10.1016/S0732-8893(99)00031-0. PMID:10403103.
+
+Leomil, L., Aidar-Ugrinovich, L., Guth, B.E.C.,
+
+Irino, K.,
+Vettorato, M.P., Onuma, D.L., and Castro, A.F.P. 2003.
+Frequency of Shiga toxin-producing Escherichia coli (STEC)
+isolates among diarreic and non-diarreic calves in Brazil. Vet.
+97:
+Microbiol.
+doi:10.1016/j.vetmic.2003.08.002.
+PMID:14637042.
+
+103–109.
+
+Lin, Z., Kurazono, H., Yamasaki, S., and Takeda, Y. 1993. Detec-
+tion of various variant verotoxin genes in Escherichia coli by
+polymerase chain reaction. Microbiol. Immunol. 37: 543–548.
+PMID:8231968.
+
+Maidhof, H., Guerra, B., Abbas, S., Elsheikha, H.M., Whittam, T.S.,
+and Beutin, L. 2002. A multiresistant clone of Shiga toxin-
+producing Escherichia coli O118:H16 is spread in cattle and
+humans over different European countries. Appl. Environ. Micro-
+biol. 68: 5834–5842. doi:10.1128/AEM.68.12.5834-5842.2002.
+PMID:12450802.
+
+Mainil, J.G., and Daube, G. 2005. Verotoxigenic Escherichia coli
+from animals, humans and foods: Who’s who? J. Appl. Micro-
+biol. 98: 1332–1344. doi:10.1111/j.1365-2672.2005.02653.x.
+PMID:15916647.
+
+Meng, J., and Doyle, M.P. 1998. Microbiology of Shiga toxin-
+producing Escherichia coli
+In Escherichia coli
+O157:H7 and other Shiga toxin-producing E. coli strains. Edited
+by J.B. Kaper and A.D. O’Brien. ASM Press, Washington, DC,
+USA. pp. 229–235.
+
+in foods.
+
+Mora, A., Blanco, J.E., Blanco, M., Alonso, M.P., Dhabi, G.,
+Echeita, A., et al. 2005. Antimicrobial resistance of Shiga toxin
+(verotoxin)-producing Escherichia coli O157:H7 and non-O157
+strains isolated from humans, cattle, sheep and food in Spain.
+Res. Microbiol. 156: 793–806. doi:10.1016/j.resmic.2005.03.006.
+PMID:15921895.
+
+Moreira, C.N., Pereira, M.A., Brod, C.S., Rodrigues, D.P.,
+Carvalhal, J.B., and Aleixo, J.A.G. 2003. Shiga toxin-producing
+Escherichia coli (STEC) isolated from healthy dairy cattle in
+southern Brazil. Vet. Microbiol. 93: 179–183. doi:10.1016/
+S0378-1135(03)00041-5. PMID:12695042.
+
+National Committee for Clinical Laboratory Standards. 2000. Per-
+formance standards for antimicrobial disk susceptibility tests,
+
+7th edition approved standard M2-A7. Committee for Clinical
+Laboratory Standards, Wayne, Pennsylvania, USA.
+
+Olsvik, O., and Strockbine, N.A. 1993. PCR detection of heat-
+stable and Shiga-like toxin genes in Escherichia coli. In Diag-
+nostic molecular microbiology principles and applications. Edi-
+ted by D.H. Persing, T.F. Smith, F.C. Tenover, and T.J. White.
+ASM Press, Washington, DC, USA. pp. 271–276.
+
+Orth, D., Grif, K., Khan, A.B., Naim, A., Dierich, M.P., and
+Wu¨rzner, R. 2007. The Shiga toxin genotype rather than the
+amount of Shiga toxin or the cytotoxicity of Shiga toxin in vitro
+correlates with the appearance of the hemolytic uremic syn-
+drome. Diagn. Microbiol. Infect. Dis. 59: 235–242. doi:10.1016/
+j.diagmicrobio.2007.04.013. PMID:17931818.
+
+Paton, A.W., and Paton, J.C. 2002. Direct detection and characteri-
+zation of Shiga toxigenic Escherichia coli by multiplex PCR for
+stx1, stx2, eae, ehxA, and saa. J. Clin. Microbiol. 40: 271–274.
+doi:10.1128/JCM.40.1.271-274.2002. PMID:11773130.
+
+Paton, A.W., Srimanote, P., Woodrow, M.C., and Paton, J.C. 2001.
+Characterization of Saa, a novel autoagglutinating adhesin pro-
+duced by locus of enterocyte effacement-negative Shiga-toxigenic
+Escherichia coli strains that are virulent for humans. Infect. Im-
+mun. 69: 6999–7009. doi:10.1128/IAI.69.11.6999-7009.2001.
+PMID:11598075.
+
+Prager, R., Annemu¨ller, S., and Tscha¨pe, H. 2005. Diversity of
+virulence patterns among shiga toxin-producing Escherichia coli
+from human clinical cases — need for more detailed diagnos-
+tics. Int. J. Med. Microbiol. 295: 29–38. doi:10.1016/j.ijmm.
+2004.12.009. PMID:15861814.
+
+Schroeder, C.M., Meng, J., Zhao, S., DebRoy, C., Torcolini, J.,
+Zhao, C., et al. 2002. Antimicrobial resistance of Escherichia
+coli O26, O103, O111, O128, and O145 from animals and hu-
+mans. Emerg. Infect. Dis. 8: 1409–1414. PMID:12498656.
+
+Timm, C.D., Irino, K., Gomes, T.A.T., Vieira, M.M., Guth, B.E.C.,
+Vaz, T.M.I., et al. 2007. Virulence markers and serotypes of
+Shiga toxin-producing Escherichia coli, isolated from cattle in
+Rio Grande do Sul, Brazil. Lett. Appl. Microbiol. 44: 419–425.
+doi:10.1111/j.1472-765X.2006.02085.x. PMID:17397481.
+
+Vaz, T.M.I., Irino, K., Kato, M.A.M.F., Dias, A.M.G., Gomes,
+T.A.T., Medeiros, M.I.C., et al. 2004. Virulence properties and
+characteristics of Shiga toxin-producing Escherichia coli in Sa˜o
+Paulo, Brazil, from 1976 through 1999. J. Clin. Microbiol. 42:
+903–905. doi:10.1128/JCM.42.2.903-905.2004. PMID:14766885.
+WHO/CSR/APH. 1998. Zoonotic non-O157 Shiga toxin-producing
+Escherichia coli (STEC). Report of a WHO Scientific Working
+Group Meeting, 98.8. World Health Organization.
+
+Zweifel, C., Schumacher, S., Blanco, M., Blanco, J.E., Tasara, T.,
+Blanco, J., and Stephan, R. 2005. Phenotypic and genotypic
+characteristics of non-O157 Shiga toxin-producing Escherichia
+coli (STEC) from Swiss cattle. Vet. Microbiol. 105: 37–45.
+doi:10.1016/j.vetmic.2004.10.007. PMID:15607082.
+
+# 2008 NRC Canada
+
+

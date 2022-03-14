@@ -1,0 +1,1280 @@
+Received:
+13 April 2018
+Revised:
+22 September 2018
+Accepted:
+5 December 2018
+
+Cite as: Adem Hiko,
+Herlinde Irsigler,
+Lieselotte Br€autigam,
+Gobena Ameni,
+Reinhard Fries,
+Baumann Maximilian.
+Antimicrobial resistance and
+genotypic proﬁles of
+Salmonella Saintpaul isolated
+along beef processing and
+distribution continuum.
+Heliyon 4 (2018) e01025.
+doi: 10.1016/j.heliyon.2018.
+e01025
+
+Antimicrobial resistance and
+genotypic proﬁles of
+Salmonella Saintpaul isolated
+along beef processing and
+distribution continuum
+
+Adem Hiko a,b,c,∗, Herlinde Irsigler a, Lieselotte Br€autigam a, Gobena Ameni b,
+Reinhard Fries a, Baumann Maximilian a
+a Institute of Meat Hygiene and Technology, Panel Veterinary Public Health and FAO Reference Center for
+Veterinary Public Health, Freie Universit€at Berlin, Br€ummerstraße 10, 14195 Berlin, Germany
+
+b Akililu Lemma Institute of Pathobiology, 1176, Addis Ababa University, Ethiopia
+
+c College of Veterinary Medicine, Haramaya University, Po. Box 298, Ethiopia
+
+∗ Corresponding author.
+E-mail address: adex.2010ph@gmail.com (A. Hiko).
+
+Abstract
+
+Salmonella Saintpaul (SSa) is increasingly reported from food and foodborne
+outbreak cases. Pulsed ﬁeld gel electrophoresis (PFGE) is used for screening and
+tracking of Salmonella infections. Widespread use of antimicrobial agents in
+in antimicrobial resistant Salmonella
+humans and food animals could result
+serotypes. The aim of this study was to characterize S. Saintpaul (n ¼ 28)
+isolated from various sampling locations at abattoir and meat processing plant
+lines in Ethiopia for phenotypic antimicrobial resistance and genotypic diversity,
+and to track its transfer routes. Sampling location, steps and occasions were
+considered for each isolate description. Antimicrobial sensitivity testing was
+performed against seven diﬀerent antimicrobial agents using disc diﬀusion
+method. PFGE with XbaIÒ enzymatic genomic digestion with BioNumericsÒ
+analysis was used for genotypic diversity. Of all the isolates tested, only 17.9%
+were pan susceptible, and 82.1% were resistant to at least one and at most to
+three antimicrobials. All isolates were susceptible to gentamycin, trimethoprim-
+
+https://doi.org/10.1016/j.heliyon.2018.e01025
+2405-8440/Ó 2018 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Article Nowe01025
+
+sulfamethoxazol and trimethoprim. Resistance to oxytetracycline (82.2%) was
+predominant followed by 3.6% resistance to each of chloramphenicol, neomycin
+and polymyxin B. PFGE analysis revealed three distinguishable clusters of
+pulsotypes but the majority of the isolates (25/28) belonged to cluster-I (SSaX1-
+4) pulsotype. Indistinguishable/similar cluster of (SSaX 1-4) isolates among and
+between sampling location, steps and occasions were observed. Majorities of S.
+Saintpaul (88%) in the cluster-I pulsotype were resistant to oxytetracycline. Our
+study indicated that oxytetracycline resistance is very common among the S.
+Saintpaul isolates studied; and the isolates were diverse with similar resistance
+proﬁles within the same genomic pulsotypes. Transfer of S. Saintpaul within,
+between and across sampling locations, during the same or diﬀerent occasion
+were determined from SSaX 1-4 pulsotype while cluster-II (SSaX5) indicates
+transfer from abattoir to butchery. The unique isolate in cluster-III (SSaX6)
+shows the presence of other possible source of S. Saintpaul for the beef chain
+contamination.
+
+Keywords: Food science, Food safety, Microbiology
+
+1. Introduction
+
+Salmonella species are inhabitant of the intestinal tract of animals and distributed in
+the environment which results in increasing prevalence in the global food chain and
+their virulence [1]. Their adaptability properties favors easy transmission result in an
+enormous medical, public health and economic impact worldwide [1, 2]. CDC [3]
+reported a total of 84 persons infected with the outbreak strain of Salmonella Saint-
+paul with 28% of ill hospitalized and no deaths were reported. Due to contamination
+with Salmonella, Mead et al. [4] estimated a huge proportion of infections. case-
+fatality rates of 43% and 10% for immunocompromised and 5% and 0% for non-
+immunocompromised due to non-typhoid Salmonella in respective of infants and
+children were also reported by Sirinavin et al. [5]. Characterization of Salmonella
+involves utilization of combined phenotype and/or genotypic techniques for the dif-
+ferentiation of strains speciﬁc spices and sub spices [6]. Serology based on surface
+antigen [7], phage typing based on bacteriophage host proﬁle [8], antimicrobial sus-
+ceptibility and biotypes of Salmonella strain [9] were used for phenotypic character-
+ization. Pulsed ﬁeld gel electrophoresis (PFGE) and whole-genome sequencing [10,
+11] are used for genetic discrimination of Salmonella isolates including S. Saintpaul
+from outbreaks and epidemiological investigations [12, 13]. In Ethiopia, little infor-
+mation is available on the status of food safety where there is a ttradition raw meat
+consumption which could carry risks of infection with zoonotic agents [14, 15],
+where diﬀerent Salmonella serotypes were isolated from food animal, food and pro-
+duction environment [14, 15, 16, 17, 18, 19, 20] with antimicrobial resistance test on
+
+2
+
+https://doi.org/10.1016/j.heliyon.2018.e01025
+2405-8440/Ó 2018 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Article Nowe01025
+
+isolates [21] in Ethiopia. However, survey on genotypic diversity and transfer route
+investigation were scares in the country. The aim of this study was to characterize S.
+Saintpaul isolated from various sources at abattoir and meat processing plant in
+Ethiopia for phenotypic antimicrobial resistance and genotypic diversity as well as
+tracking its transfer routes along meat production and processing lines.
+
+2. Materials and methods
+
+2.1. Sampling, sample source and locations
+
+The studied strains were originated from diﬀerent samples collected from abattoir at
+Addis Ababa City and from processing plant line at Bishoftu town, 47 Km from East
+of Addis Ababa City. Following the beef production and supply procedure chain
+described by FAO [22], diﬀerent samples were collected from abattoir line and
+the beef processing plant line. A total of 237 and 431 samples were aseptically
+collected from the abattoir and the processing plant lines respectively (Table 1).
+
+2.2. Laboratory procedure
+
+2.2.1. Bacterial isolation
+
+Bacterial isolation was conducted at Food Hygiene and Microbiology Laboratory,
+Akililu Lemma Institute of Pathobiology, Addis Ababa University, Ethiopia
+following standard protocols [7]. Pre-enrichment was performed using one portion
+of sample by volume or gram was homogenized with 10 portions of buﬀer peptone
+water (BPW) (Merck, Germany) at 1:10 proportion. From the pre-enriched samples,
+0.1 ml and 1 ml was transferred to 10 ml of Rappaport-Vassiliadis (RV) medium
+(Oxoid Hampshire, England) and 10 ml of Muller Kaufmann tetrathionate with
+novobiocin (MKTTn) (Merck) broths respectively for selective enrichment. RV
+and MKTTn broth cultures were then incubated at 43 C and 37 C respectively
+for 18-24 hrs. A loop full was plated on Brilliant phenol lactose sucrose agar
+(BPLS) (Merck) and Xylose lactose TergitolÔ 4 (XLT4) (Merck) in parallel and
+incubated at 37 C for 24 hrs and 48 hrs, respectively. Presumptive colonies based
+on their characteristic morphological appearances on the selective agar plates were
+sub-cultured onto standard-I nutrient agar (Merck) and biochemically conﬁrmed
+for serotyping.
+
+2.2.2. Serotyping
+
+The isolates were serotyped at Microbiology Laboratory, Institute of Meat Hygiene
+and Technology, Panel Veterinary Public Health, FAO Reference Center for Veter-
+inary Public Health, Freie Universit€at Berlin, Germany. Serotyping was performed
+
+3
+
+https://doi.org/10.1016/j.heliyon.2018.e01025
+2405-8440/Ó 2018 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Table 1. Description of studied sample origin, location, type and numbers used for isolation of Salmonella
+Saintpaul along studied beef lines in Ethiopia.
+
+Line
+
+Origin of sample
+
+Sampling location
+
+Sample type
+
+No. of samples
+
+Article Nowe01025
+
+Abattoir line Abattoir
+
+Environment
+
+ARM*
+
+Butchers’
+Total
+
+Processing
+plant line
+
+Processing plant
+
+Environment
+
+Supermarkets
+
+ARM*
+
+Total
+
+Grand total
+*ARM ¼ Animal-related materials.
+
+Personnel’s hands
+Aprons
+Knives
+Tap water
+Hooks
+Rooms
+Refrigerators
+Meat transport trucks
+Stunning
+Evisceration
+Quality inspection
+Beef for public consumption Retailed meat sample
+
+Swabs from hands
+Swabs from aprons
+Swabs from knives
+Water samples
+Swabs from hooks
+Swabs from rooms
+Swabs from refrigerators
+Swabs from trucks
+Animal feces
+Mesenteric lymph node samples
+Raw meat samples
+
+Personnel’s hands
+Aprons
+Knives
+Cutting plates
+Tap water
+Working tables
+Room ﬂoors
+Refrigerators
+Spices
+Spice-weighing equipment
+Grinder
+Cutter
+Mixer
+Filler/Stuﬀer
+Subtotal
+Before processing
+Supermarket A
+Supermarket B
+Supermarket C
+Supermarket D
+Supermarket E
+Supermarket F
+Supermarket G
+Supermarket H
+Subtotal
+
+Swabs from hands
+Swabs from aprons
+Swabs from knives
+Swabs from plates
+Samples from water
+Swabs from tables
+Swabs from rooms
+Swabs from refrigerators
+Samples from spices
+Swabs from SWE
+Swabs from grinders
+Swabs from cutters
+Swabs from mixers
+Swabs from ﬁllers
+
+Samples from raw meat
+Samples from product
+Samples from product
+Samples from product
+Samples from product
+Samples from product
+Samples from product
+Samples from product
+Samples from product
+
+13
+14
+13
+12
+11
+17
+10
+11
+34
+34
+3
+34
+237
+
+19
+16
+15
+13
+17
+17
+16
+15
+15
+15
+9
+9
+9
+9
+194
+118
+15
+15
+15
+14
+15
+15
+15
+15
+119
+431
+
+668
+
+using Salmonella antisera (Siﬁn, Berlin, Germany) with O-antigens and H-antigens
+agglutination test [7].
+
+2.2.3. Antimicrobial resistance testing
+
+All of the isolates were tested for their phenotypic antimicrobial resistance by agar
+disc diﬀusion method with antimicrobial impregnated discs (Oxoid, Hampshire, En-
+gland) against polymyxin-B (PB; 300 U), trimethoprim-sulfamethoxazole (STX;
+
+4
+
+https://doi.org/10.1016/j.heliyon.2018.e01025
+2405-8440/Ó 2018 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Article Nowe01025
+
+1.25/23.75 mg), chloramphenicol (C; 50 mg), gentamycin (G; 10 mg), trimethoprim
+(W; 5 mg), neomycin (N; 10 mg) and oxytetracycline (OT; 30 mg). Antimicrobial
+resistance tests were performed on Mueller-Hinton agar (Oxoid) according to Bauer
+Kirby agar disc diﬀusion [23] following Clinical Laboratory Standards Institute’s
+protocol [24]. The isolates were sub-cultured onto standard-I nutrient agar (Merck)
+and incubated at 37 C for 24 hrs. They were then inoculated into 3 ml of brain heart
+infusion broth (BHI) (Merck) and again incubated for 1 hr at 37 C. The inoculum
+density was standardized to 0.5 McFarland standard; from which 0.1 ml was spread
+onto Mueller-Hinton agar (Oxoid). After the plates were allowed to absorb the mois-
+ture; antimicrobial impregnated discs were applied; and the plates were incubated at
+35  2 C for 16-18 hr. Based on the diameter of zone inhibition for Enterobacteri-
+aceae, results were recorded as susceptible, intermediate or resistant [24].
+
+2.2.4. Pulsed ﬁled gel electrophoresis (PFGE) procedure
+
+The PFGE examination of the isolates were performed following PulseNet protocol
+[11] at Molecular Biology Laboratory, Institute of Meat Hygiene and Technology,
+Panel Veterinary Public Health, FAO Reference Center for Veterinary Public
+Health, Freie Universit€at Berlin, Germany. Agarose-embedded whole genomic
+DNA of the isolates was digested with the restriction enzyme XbaIÒ (60 U) (Roche
+Diagnostics GmbH, Germany) enzymatic restriction. DNA fragments were sepa-
+rated by PFGE in agarose gels. S. Braenderup STSAL82 (Merck, Germany) was
+used as a reference strain. A 50e1000 kb Pulse markerTM (Sigma-Aldrich Co,
+USA), test strains and refernce strain were loaded into 1.2% Pulsed Field Certiﬁed
+AgaroseÒ gel. The gel running condition was set with initial pulse switch time of
+2.2 seconds and the ﬁnal pulse switch time of 63.8 seconds under 200 V (6 V/
+cm) voltage for 20 hrs at 14 C according to Pulse Net [11]. Then, the gel was stained
+with 1 mg/l ethidium bromide solution for 20-30 min on a horizontal shaker
+(CertomatÒU) and twice de-stained with distilled water for 20 min. The PFGE ﬁles
+were processed using BioNumericsÒ Ver. 6.6 software (Applied Maths BVBA, Kor-
+trijk, Belgium).
+
+2.3. Data analysis
+
+Phenotypic antimicrobial resistance proﬁles and genotypic diversity were combined
+in data entry for analysis. Antimicrobial susceptibility and resistance proﬁles were
+presented as percentage. The PFGE results were analyzed by using BioNumericsÒ
+Version 6.6 software (Applied Maths BVBA, Kortrijk, Belgium) with optimization
+of 1.0 and position tolerance of 1.5. For beef line S. Saintpaul transfer route deter-
+mination, considerations were made on sampling occasion/batch (date of sampling),
+sample source and locations in the studied beef production lines.
+
+5
+
+https://doi.org/10.1016/j.heliyon.2018.e01025
+2405-8440/Ó 2018 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Article Nowe01025
+
+3. Results and discussion
+
+3.1. Occurrence and drug resistance proﬁle of S. Saintpaul
+
+Except the hooks swab samples which was not positive for S. Saintpaul, all other sam-
+pling locations were found positive ranging from 2.9% from MLN to 36.4% from beef
+transport truck in the abattoir line. However, only one isolate (0.23%) of S. Saintpaul
+from total 431 samples at beef processing plant line which is 0.8% in raw beef was
+observed with other samples being negative for the serotype (Table 2). This ﬁnding
+indicates abattoir is highly contaminated and can act as sources of microbial patho-
+gens including S. Saintpaul. The single isolate observed on meat at processing plant
+line also show transfer of Salmonella via raw beef. Regardless of number, observing
+the 28 isolates of S. Saintpaul from diﬀerent meat production and processing environ-
+mental, animal and beef product locations indicates wide distribution of this serotype
+in Ethiopia. The present ﬁnding was consistent with the 45 (38.8%) [19] from camel
+and its meat, one isolate [17] from minced beef, 14.8% [20], 4.3% [18] in minced beef
+from supermarkets previously reported in Ethiopia showing its distribution and occur-
+rence in meat and its production area in the country. S. Saintpaul was also reported as
+dominant serotype 20 (76.9%) of all isolates from poultry in Ethiopia [25].
+
+The pan (100%) susceptible of strain to gentamicin, trimethoprim and trimethoprim-
+sulfamethoxazol (Table 3) show the eﬀectiveness of these antimicrobials for treat-
+ment of cases of S. Saintpaul in Ethiopia. Kikuvi et al. [26] also showed eﬀectiveness
+of trimethoprim-sulfamethoxazol against Salmonella isolate including S. Saintpaul
+
+Table 2. Salmonella Saintpaul positive samples along studied beef line in
+Ethiopia.
+
+Source/origin
+
+Sampling location
+
+No. of examined samples
+
+No. (%) Positive
+
+Abattoir Environment
+
+Personnel related swab samples
+
+Personnel hands
+Aprons
+Knives
+Tap water
+Device related swab samples
+
+Hooks samples
+Rooms ﬂoor samples
+Refrigerator
+
+Beef transport truck
+Subtotal
+
+Animal feces
+MLN* sample
+Raw beef
+Subtotal
+
+Abattoir Animal related
+
+Butchery
+
+Retail meat sample
+
+13
+14
+13
+12
+
+11
+17
+10
+11
+101
+
+34
+34
+34
+102
+
+34
+
+4 (30.8)
+1 (7.1)
+1 (7.8)
+1 (8.3)
+
+0
+4 (23.5)
+1 (10.0)
+4 (36.4)
+16 (15.8)
+
+2 (5.9)
+1 (2.9)
+2 (5.9)
+5 (4.9)
+
+6 (17.6)
+
+Beef PPL**
+1 (0.8)
+*Mesentric lymph node; PPL ¼ Processing plant line; ** Salmonella Saintpaul was not isolated from
+other samples.
+
+Raw meat sample
+
+118
+
+6
+
+https://doi.org/10.1016/j.heliyon.2018.e01025
+2405-8440/Ó 2018 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Article Nowe01025
+
+Table 3. Phenotypic drug susceptibility/resistant proﬁle of the isolated S.
+Saintpaul isolated from beef line in Ethiopia.
+
+Types of Drug used
+
+Concentration of drugs used Salmonella Saintpaul (n [ 28)
+
+Polymyxin B
+
+Gentamycin
+
+Chloramphenicol
+
+Trimethoprim
+
+PB 300 IU
+
+CN 10 mg
+
+C 50 mg
+
+W 5 mg
+
+Trimethoprim-sulfamethoxazol STX 1.25/23.75 mg
+
+Neomycin
+
+N 10 mg
+
+Oxytetracycline
+Note: S* ¼ susceptible; I* ¼ intermediate; R* ¼ resistance.
+
+OT 30 mg
+
+S* No. (%)
+
+I* No. (%) R* No. (%)
+
+27 (96.4)
+
+28 (100)
+
+27 (96.4)
+
+28 (100)
+
+28 (100)
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1 (3.6)
+
+0
+
+1 (3.6)
+
+0
+
+0
+
+16 (57.1)
+
+11 (39.3)
+
+1 (3.6)
+
+3 (10.7)
+
+2 (7.1)
+
+23 (82.2)
+
+isolated from pig in Kenya. However, Beutlich et al. [27] reported 78% intermediate
+or full resistance of S. Saintpaul to gentamicin and 11% resistance to trimethoprim.
+The observation of one isolate (3.6%) resistant to chloramphenicol in this study
+was similar to reports of Kikuvi et al. [26] who reported one resistant isolate from
+Kenya and ﬁve (9%) Beutlich et al. [27] from Germany. On the other hand, the
+82.2% resistant isolates to oxytetracycline in the present study was higher than the re-
+ported in other studies from Kenya [26] and 31% [27] from Germany. The high resis-
+tant isolates to oxytetracycline in this investigation could be due to frequent uses of
+this drug where it is marketed as ‘broad spectrum antibiotic. The popular and widely
+uses of oxytetracycline in the veterinary sector in global [28] and in Ethiopia with
+associated resistance [29], were reported, too. A total of 26/28 (82.1%) of the isolates
+were resistant to at least one and at most to three antimicrobials. The present ﬁnding
+was lower than the phenotypic and genotypic proﬁles isolates resistant for one or more
+antimicrobials among the 76 isolates (2.18%) reported [30] among Non-typhoidal S.
+Enterica. High frequencies of resistance to tetracycline 26.27%were also reported [30]
+in Non-typhoidal S. Enterica. Presence of single to multiple drug resistant Salmonella
+isolates including S. Saintpaul was also reported from poultry in Ethiopia [25].
+
+3.2. Genomic diversity and phenotypic drug resistance proﬁle of
+S. Saintpaul
+
+Using genotypic PFGE and phenotypic drug susceptibility/resistance proﬁles, three
+diﬀerent clusters of S. Saintpaul were observed along the beef production and process-
+ing lines. Sibhat et al. [16] investigated Salmonella prevalence in abattoir and
+
+7
+
+https://doi.org/10.1016/j.heliyon.2018.e01025
+2405-8440/Ó 2018 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+PFGE XbaI
+
+PFGE XbaI
+
+kb
+
+0
+6
+
+0
+8
+
+0
+0
+1
+
+0
+0
+5
+1
+
+0
+0
+0
+1
+
+.
+
+0
+0
+0
+0
+7
+
+.
+
+0
+0
+0
+0
+6
+
+.
+
+0
+0
+0
+0
+5
+
+.
+
+0
+0
+0
+0
+4
+
+.
+
+0
+0
+0
+5
+3
+
+.
+
+0
+0
+0
+0
+3
+
+.
+
+0
+0
+0
+5
+2
+
+.
+
+0
+0
+0
+0
+2
+
+.
+
+0
+0
+0
+5
+1
+
+.
+
+0
+0
+0
+0
+1
+
+98.3
+
+97.9
+
+95.2
+
+59.3
+
+51.7
+
+Article Nowe01025
+
+Key
+5319.
+5321.
+5324.
+5335.
+5337.
+5338.
+5339.
+5344.
+5345.
+5346.
+5348.
+5349.
+5351.
+5353.
+5355.
+5356.
+5343.
+5359.
+5360.
+5327.
+5363.
+5358.
+5336.
+5347.
+5352.
+5320.
+5330.
+
+Serovars
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+S. Saintpaul
+
+Sample
+Hand Sw.
+Room
+Truck  
+Hand Sw.
+Apron
+Room
+Truck  
+Truck  
+Truck  
+Refrigera.
+Hand Sw.
+Hand Sw.
+Meat
+Fecal 
+Fecal 
+MLN 
+Meat
+Meat
+Meat
+Meat
+water 
+Meat
+Knife 
+Room
+Meat
+Room
+Meat
+
+Source
+Abattoir
+Abattoir
+Abattoir
+Abattoir
+Abattoir
+Abattoir
+Abattoir
+Abattoir
+Abattoir
+Abattoir
+Abattoir
+Abattoir
+Abattoir
+Abattoir
+Abattoir
+Abattoir
+Butchery
+Butchery
+Butchery
+Butchery
+Abattoir
+Butchery
+Abattoir
+Abattoir
+Abattoir
+Abattoir
+Butchery
+
+Batch
+3rd
+3rd
+3rd
+4th
+4th
+4th
+4th
+11th
+11th
+11th
+11th
+11th
+11th
+11th
+11th
+11th
+4th
+11th
+11th
+3rd
+17th
+11th
+4th
+11th
+11th
+3rd
+3rd
+
+Code
+2
+-
+-
+7
+7
+-
+-
+-
+-
+-
+8
+9
+22
+23
+26
+22
+19
+23
+25
+5
+-
+22
+7
+-
+23
+-
+8
+
+pulsotyp
+SSaX2
+SSaX2
+SSaX2
+SSaX2
+SSaX2
+SSaX2
+SSaX2
+SSaX2
+SSaX2
+SSaX2
+SSaX2
+SSaX2
+SSaX2
+SSaX2
+SSaX2
+SSaX2
+SSaX2
+SSaX2
+SSaX2
+SSaX1
+SSaX3
+SSaX3
+SSaX4
+SSaX4
+SSaX4
+SSaX5
+SSaX6
+
+Fig. 1. PFGE analysis of S. Saintpaul isolates from a cattle abattoir line, Addis Ababa, Ethiopia,
+2011e2012. Hand Sw ¼ hand swabs; MLN ¼ mesenteric lymphnode sample; Refrigera. ¼ chilling
+room sample.
+
+recommend the need for further analysis of isolates using PFGE clustering as a tool to
+assess the epidemiological and genotypic diversity in Ethiopia. Thus, the present
+study shows 51.3e100% genomic relatedness of the 28 (27 from abattoir and 1
+from processing plant line) S. Saintpaul. They are diﬀered into three (3) diﬀerent clus-
+ters of pulsotypes1 consisted of 25 isolates in cluster-I, 2 isolates in cluster-II and 1
+isolate in cluster-III (Fig. 1). These diﬀerent clusters shows the genotypic diversity
+of S. Saintpaul in Ethiopia. Regardless of sample source and geographic distribution,
+high degree of genetic diversity of S. Saintpaul were also reported by Kerouanton et al.
+[31] showing 20 pulsotypes among the 30 isolates. Moreover, 82 of the 159 isolates
+from animals, food of animal origin and humans shows only 42.6% similarity [32].
+
+About 88% of the isolates within cluster-I were resistant to oxytetracycline with mul-
+tiple drug resistance proﬁle of C-OT-PB in one of them but one isolate resistant to N
+and OT (Fig. 2). Besides their genotypic similarity, 22 (88%) of the 25 isolates in
+cluster-I shows resistant to oxytetracycline but all (100%) of isolates in cluster II
+shows susceptibility to oxytetracycline. This indicated the phenotypical drug
+response similarity of isolates within a cluster.
+
+1 Unless otherwise indicated terms for: pulsotype(s) ¼ PFGE pattern(s) ¼ cluster(s) ¼ clone(s) ¼ PFGE
+type are interchangeably used in this article.
+
+8
+
+https://doi.org/10.1016/j.heliyon.2018.e01025
+2405-8440/Ó 2018 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Article Nowe01025
+
+Fig. 2. Dendrogram and resistance proﬁles of S. Saintpaul isolated from beef abattoir and processing
+plant line. X ¼ cluster-I; Y ¼ cluster-II; Z ¼ cluster-III. Drug code for which the isolate resistant:
+C ¼ Chloramphenicol; OT ¼ Oxytetracycline; PB ¼ Polymyxin B; N ¼ Neomycin.
+
+3.3. Tracking and tracing the possible sources and transfer
+routes
+
+The 95.2% PFGE genomic similarity among isolates in cluster-I (Fig. 1) indicates the
+occurrence indistinguishable S. Saintpaul in diﬀerent sampling occasion/batch and
+location including on personal hand, the abattoir room, in animal feces, meat trans-
+porting truck and on the meat. All of isolates within this cluster are from abattoir line.
+This indicated highly contamination of the abattoir with similar clonal of S. Saint-
+paul. Laconch et al. [33] conﬁrming spread of a single clone of Salmonella serotype
+over a large geographical area. Using 2000 isolates, Sandvang et al. [34] the spread
+between farms, survival and transmission of speciﬁc clone of Salmonella enterica
+serotype Typhimurium using their identical PFGE patterns among the fecal and
+environmental isolates from pig production farms units. Using PFGE generated
+whole genome mapping data, Fey et al. [13] tracked the distinguishable S. Saintpaul
+serotype from outbreak in relation to the temporal periods.
+
+3.4. PFGE as tool for determining the Salmonella source and
+tracing its transfer routes
+
+The present possible sources, contamination and transfer routs of the studied S. Saint-
+paul was assessed. PulseNet [11] recommended PFGE as a tool for tracking and trace
+of sources of pathogens in food and outbreaks. The signiﬁcantly high (95.2%)
+
+9
+
+https://doi.org/10.1016/j.heliyon.2018.e01025
+2405-8440/Ó 2018 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Article Nowe01025
+
+genotypic PFGE similarities among S. Saintpaul within cluster-I indicates the
+possible transfer of the agent during the same or diﬀerent sampling occasions as
+well as across locations in the abattoir line to the level of consumer supply at the
+butcheries. Fey et al. [13] used to track and trace the sources of Salmonella strains
+for the outback in time period using their PFGE indistinguishable properties. One
+of isolate obtained from abattoir room in cluster-II was found indistinguishable
+from an isolate from processing plant line (Fig. 1). This indicates abattoir could be
+the sources of beef contamination which extended to the processing plant. In fact,
+the studied abattoir is one of sources of raw beef for the processing plant. Using
+PFGE enzymatic digestion and clustering into close relationship among the phage
+types of Salmonella, sources of isolates were conﬁrmed [33], spread between loca-
+tions, the survival and the transmission of Salmonella were determined [34] from
+an outbreaks on temporal periods [13]. Kagambega et al. [35] also try to asses poten-
+tially transmit of some of the same Salmonella serotypes from wild animals to hu-
+mans using the same techniques in the Burkina Faso. On the other hand the one
+PFGE distinguishable S. Saintpaul in cluster-III was observed in beef at butchery.
+This indicates the possibility of contamination of raw beef at public supply location
+from other sources along the handling steps or at supply stages. Such occurrence, dis-
+tribution and transfer of S. Saintpaul within a particular studied meat production and
+processing lines in Ethiopia indicates the need for further investigation for other se-
+rotypes and pathogens based on geographical region, during particular period of time
+in the country [13, 32].
+
+4. Conclusion
+
+Our study indicated that phenotypic oxytetracycline resistance was very common
+among the S. Saintpaul isolated from Ethiopia. The serotype was also found diverse
+having similar genotypic and phenotypic (drug susceptibility/resistance proﬁles)
+within the same genomic pulsotypes. Moreover, the presence and transfer of indistin-
+guishable S. Saintpaul serotype within same sampled location, during same and/or
+diﬀerent sampling occasion along beef abattoir line were observed. Transfer of the
+serotype from abattoir to the butchery shop and the beef processing plant via raw
+beef were conﬁrmed using PFGE. Contamination of beef line from other possible sour-
+ces with S. Saintpaul serotype indicates the risk of public acquiring infection. Hygiene
+application along the beef production and processing line with regular drug susceptibly
+test may reduce risks posed for contamination with Salmonella and public infection.
+
+Declarations
+
+Author contribution statement
+
+Adem Hiko: Conceived and designed the experiments; Performed the experiments;
+Analyzed and interpreted the data; Wrote the paper.
+
+10
+
+https://doi.org/10.1016/j.heliyon.2018.e01025
+2405-8440/Ó 2018 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Article Nowe01025
+
+Herlinde Irsigler, Lieselotte Br€autigam: Performed the experiments; Analyzed and
+interpreted the data.
+
+Gobena Ameni: Conceived and designed the experiments.
+
+Reinhard Fries: Contributed reagents, materials, analysis tools or data.
+
+Baumann Maximilian: Analyzed and interpreted the data; Wrote the paper.
+
+Funding statement
+
+This research did not receive any speciﬁc grant from funding agencies in the public,
+commercial, or not-for-proﬁt sectors.
+
+Competing interest statement
+
+The authors declare no conﬂict of interest.
+
+Additional information
+
+No additional information is available for this paper.
+
+Acknowledgements
+
+We appreciate the cooperation of Addis Ababa City Abattoir, the Beef Processing
+Plant and the Addis Ababa City Supermarkets during sample collection. Ethiopian
+Engineering Capacity Building was also appreciated for facilitation of the research.
+
+References
+
+[1] K. Mølbak, J.E. Olsen, H.C. Wegener, Salmonella infections, in: Foodborne
+
+Infections. Foodborne Infections and Intoxications, 2006, pp. 57e114, 3e.
+
+[2] B. Nielsen, Salmonella spp. Microbiological safety of meat, in: W.K. Jensen,
+C. Devine, M. Dikeman (Eds.), Encyclopedia of Meat Sciences Volume 2,
+Elsevier Ltd. Amsterdam., 2004, pp. 779e781.
+
+[3] CDC Multistate Outbreak of Salmonella Saintpaul Infections Linked to Im-
+ported Cucumbers (Final Update), Center for Disease Control and Prevention
+(CDC), 2013, pp. 1e5. June 20, 2013, cdc.gov/salmonella/saintpaul-04-13/
+index.html.
+
+[4] P.S. Mead, L. Slutsker, V. Dietz, L.F. McCaig, J.S. Bresee, C. Shapiro,
+P.M. Griﬃn, R.V. Tauxe, Food-related illness and death in the United States,
+Emerg. Infect. Dis. 5 (1999) 607e625.
+
+11
+
+https://doi.org/10.1016/j.heliyon.2018.e01025
+2405-8440/Ó 2018 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Article Nowe01025
+
+[5] S. Sirinavin, P. Jayanetra, A. Thakkinstian, Clinical and prognostic categoriza-
+tion of extra intestinal non-typhoidal Salmonella infections in infants and chil-
+dren, Clin. Infect. Dis. 29 (1999) 1151e1156.
+
+[6] M.R. Adams, M.O. Moss, Food Microbiology, second ed., Royal Society of
+
+Chemistry, New York, 2000, p. 448. trove.nla.gov.au/work/6815814.
+
+[7] P.A.D. Grimont, F. Weill, Antigenic Formulae of the Salmonella Serovars
+2007, ninth ed., WHO Collaborating Centre for Reference and Research on
+Salmonella, 2007, pp. 1e167.
+
+[8] J.M. Jay, M.J. Loessner, D.H. Golden, Modern food Microbiology,
+
+in:
+D.R. Heldman (Ed.), The Food Science Text Series, seventh ed., Springer Sci-
+ence Pub., New York, USA, 2005.
+
+[9] WHO, Biochemical identiﬁcation of Salmonella and Shigella using an abbre-
+viated Panel of tests, in: A WHO Network Building Capacity to Detect, Con-
+trol and Prevent Foodborne and Other Enteric Infections from Farm to Table,
+Laboratory Protocol: Enteric Diseases Laboratory Branch Centers for Disease
+Control and Prevention, Atlanta, GA; USA, 2010, pp. 1e45.
+
+[10] M.J. Miller, Whole-genome mapping: a new paradigm in strain-typing Tech-
+
+nology, J. Clin. Microbiol. 51 (2013) 1066e1070.
+
+[11] PulseNet, Standard Operating Procedure for PulseNet PFGE of Escherichia
+coli O157:H7, Escherichia coli Non-O157 (STEC), Salmonella Serotypes,
+Shigella Sonnei and Shigella Flexneri, 2013. PNL05 Last Updated December
+2017, cdc.gov/pulsenet/pdf/ecoli-shigella-salmonella-pfge-protocol-508c.pdf.
+
+[12] E. Liebana, D. Guns, L. Garcia-Migura, M.J. Woodward, F.A. Clifton-Hadley,
+R.H. Davies, Molecular typing of Salmonella serotypes prevalent in animals in
+England: assessment of methodology,
+J. Clin. Microbiol. 39 (2001)
+3609e3616.
+
+[13] P.D. Fey, P.C. Iwen, E.B. Zentz, A.M. Briska, J.K. Henkhaus, K.A. Bryant,
+M. A Larson, R.K. Noel, S.H. Hinrichsa, Assessment of whole-genome map-
+ping in a well-deﬁned outbreak of Salmonella enterica serotype saintpaul, J.
+Clin. Microbiol. 50 (2012) 3063e3065.
+
+[14] A. Hiko, D. Asrat, G. Zewde, Occurrence of Escherichia coli O157:H7 in
+retail raw meat products in Ethiopia, J. Inf. Develop. Ctries. 2 (2008)
+389e393. PMID: 19745509.
+
+[15] C. Nyeleti, G. Hildebrandt, J. Kleer, B. Molla, Prevalence of Salmonella in
+Ethiopian cattle and minced beef, Berl. Munch. Tierarztl. Wochenschr. 113
+(2000) 431e434. PMID: 11153222.
+
+12
+
+https://doi.org/10.1016/j.heliyon.2018.e01025
+2405-8440/Ó 2018 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Article Nowe01025
+
+[16] B. Sibhat, B.M. Zewde, A. Zerihun, A. Muckle, L. Cole, P. Boerlin, E. Wilkie,
+A. Perets, K. Mistry, W.A. Gebreyes, Salmonella serovars and antimicrobial
+resistance proﬁles in beef cattle, slaughterhouse personnel and slaughterhouse
+environment in Ethiopia, Zoonoses Pub. Hlth. 10 (2011) 1863e2378.
+
+[17] E. Zewdu, P. Cornelius, Antimicrobial resistance pattern of Salmonella sero-
+types isolated from food items and personnel in Addis Ababa, Ethiopia, Trop.
+Anim. Health Prod. 41 (2009) 241e249.
+
+[18] G. Ejeta, B. Molla, D. Alemayehu, A. Muckle, Salmonella serotypes isolated
+from minced meat beef, mutton and pork in Addis Ababa, Ethiopia, Revue
+Med. Vet. 11 (2004) 547e551. revmedvet.com/artdes-us.php?id¼1272.
+
+[19] B. Molla, A. Mohammed, W. Salah, Salmonella prevalence and distribution of
+serotypes in apparently healthy slaughtered camels (Camelus dromedarius) in
+Eastern Ethiopia, Trop. Anim. Health Prod. 36 (2004) 451e458.
+
+[20] B. Tibaijuka, B. Molla, G. Hildebrandt, J. Kleer, Occurrence of Salmonella in
+retail raw chicken products in Ethiopia, Berl Munch Tierarztl Wochenschr 116
+(2003) 55e58. PMID: 12592931.
+
+[21] B. Molla, W. Salah, D. Alemayehu, A. Mohammed, Antimicrobial resistance
+pattern of Salmonella serotypes isolated from apparently healthy slaughtered
+camels (Camelus dromedarius) in eastern Ethiopia, Berl. Munch. Tierarztl.
+Wochenschr. 117 (2004) 39e45. PMID: 14964122.
+
+[22] FAO, Meat Processing Technology for Small- to Medium-scale Producers,
+
+South West Paciﬁc, 2007/20 version, 2007.
+
+[23] A.W. Bauer, W.M.M. Kirby, J.C. Sherris, M. Turck, Antibiotic susceptibility
+testing by standard single disc method, Am. J. Clin. Pathol. 45 (1966)
+493e496. PMID: 5325707.
+
+[24] CLSI, Performance Standard for Antimicrobial Disk and Dilution Susceptibil-
+ity Tests for Bacterial Isolation from Animal, Clinical and Laboratory Stan-
+dards Institute (CLSI), 2007.
+
+[25] T. Eguale, Non-typhoidal Salmonella serovars in poultry farms in central
+Ethiopia: prevalence and antimicrobial resistance, BMC Vet. Res. 14 (2018)
+217.
+
+[26] G.M. Kikuvi, J.N. Ombui, E.S. Mitema, Serotypes and antimicrobial resis-
+tance proﬁles of Salmonella isolates from pigs at slaughter in Kenya, J. Infect
+Dev Ctries. 4 (2010) 243e248.
+
+[27] J. Beutlich,
+
+I. Rodríguez, A. Schroeter, A. K€asbohrer, R.B. Helmuth,
+A. Guerra, Predominant multidrug-resistant Salmonella enterica serovar
+
+13
+
+https://doi.org/10.1016/j.heliyon.2018.e01025
+2405-8440/Ó 2018 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Article Nowe01025
+
+saintpaul clonal line in German Turkey and related food products, Appl. Env’t
+Microbiolo. 76 (2011) 3657e3667.
+
+[28] C.N. Ateba, C.C. Bezuidenhout, Characterisation of Escherichia coli O157
+strains from humans, cattle and pigs in the North-West Province, South Africa,
+Int. J. Food Microbiol. 128 (2008) 181e188.
+
+[29] DACA, Antimicrobial Use, Resistance and Containment Baseline Survey Syn-
+theses of Findings, Drug Administration and Control Authority, Addis Ababa,
+Ethiopia, 2009 (2009).
+
+[30] S. Neuert, S. Nair, M.R. Day, M. Doumith, P.M. Ashton, K.C. Mellor,
+T.J. Dallman, Prediction of phenotypic antimicrobial resistance proﬁles from
+whole genome sequences of non-typhoidal Salmonella enterica, Front. Micro-
+biol. 9 (2018) 592.
+
+[31] A. Kerouanton, M. Marault, R. Lailler, F.-X. Weill, C. Feurer, E. Espie,
+A. Brisabois, Pulsed-ﬁeld gel electrophoresis subtyping database for food-
+borne Salmonella enterica serotype discrimination, Foodborne Patho. Dies.
+4 (2007) 294e303.
+
+[32] D. Wasyl, M. Zając, D.K. Brown, H. Kuronen, K.V.D. Zwaluw,
+A. Hoszowski, Molecular epidemiology of Salmonella enterica serovar saint-
+paul isolated from animals, food and humans in 12 European countries, Bull.
+Vet. Inst. Pulawy 56 (2012) 459e466.
+
+[33] I. Laconcha, D.-L. Baggesen, A. Rementeria, J. Garaizar, Genotypic character-
+ization by PFGE of Salmonella enterica serotype enteritidis phage types 1, 4,
+6, and 8 isolated from animal and human sources in three European countries,
+Vet. Microbiol. 75 (2000) 155e165.
+
+[34] D. Sandvang, L.B. Jensen, D.-L. Baggesen, S.B. Baloda, Persistence of a Sal-
+monella enterica serotype typhimurium clone in Danish pig production units
+and farmhouse environment studied by pulsed ﬁeld gel electrophoresis
+(PFGE), FEMS Microbiol. Lett. 187 (2000) 21e25.
+
+[35] A. Kagambega, T. Lienemann, L. Aulu, A.S. Traore, N. Barro, A. Siitonen,
+K. Haukka, Prevalence and characterization of Salmonella Enterica from the
+feces of cattle, poultry, swine and hedgehogs in Burkina Faso and their com-
+parison to human Salmonella isolates, BMC Microbiol. 13 (2013) 253.
+
+14
+
+https://doi.org/10.1016/j.heliyon.2018.e01025
+2405-8440/Ó 2018 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+

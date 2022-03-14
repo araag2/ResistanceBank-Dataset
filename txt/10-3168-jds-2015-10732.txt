@@ -1,0 +1,1111 @@
+J. Dairy Sci. 99:1–9
+http://dx.doi.org/10.3168/jds.2015-10732
+© American Dairy Science Association®, 2016.
+
+Virulence profile and genetic variability of Staphylococcus 
+aureus isolated from artisanal cheese
+M. A. Ferreira,* L. G. Bernardo,* L. S. Neves,† M. R. H. Campos,* J. Lamaro-Cardoso,† and M. C. P. André†1
+*Faculty of Nutrition, and
+†Tropical Pathology and Public Health Institute, Federal University of Goiás, Goiânia 74605-050, Brazil
+
+ABSTRACT
+
+The  objectives  of  this  study  were  to  characterize 
+Staphylococcus  aureus  isolated  from  artisanal  and  in-
+dustrialized  Minas  frescal  cheeses,  to  determine  their 
+antimicrobial  susceptibility  profile  as  well  as  the  ge-
+netic  similarity  among  the  isolates.  The  isolates  were 
+also  tested  for  staphylococcal  enterotoxin  genes  and 
+other  virulence  factors.  Fifty-six  artisanal  raw  milk 
+cheeses sold at street fairs and 10 industrialized cheeses 
+commercialized  in  supermarkets  of  Goiânia,  Goiás, 
+were analyzed. Staphylococcus aureus was confirmed in 
+19 samples (33.9%) of artisanal cheese by detection of 
+femA gene, in which 29 isolates were obtained. These 
+isolates were submitted to the antimicrobial suscepti-
+bility test and classified into 9 different profiles (A–I). 
+Thirteen  isolates  (44.8)  were  resistant  to  penicillin 
+and 3 (10.3) to tetracycline, with 2 (7.4) resistant to 
+both.  The  multiplex  PCR  technique  was  performed 
+to detect virulence genes that code for the production 
+of  hemolysins  (Hla  and  Hlb),  toxic  shock  syndrome 
+toxin (TSST-1), exfoliative toxins (ETa and ETb), and 
+staphylococcal enterotoxins [SE; SEA–SEE, SEG–SEJ, 
+SEM–SEO]. All the isolates amplified for the hla gene 
+and 14 (48.3%) for the hlb gene. The seh gene was the 
+most frequently detected (n = 11, 37.9%), followed by 
+seo gene (n = 3; 10.3%). In one isolate (3.4%), 4 entero-
+toxins  genes  were  detected,  and  in  another,  6  (3.4%) 
+were  detected.  The  comparison  performed  by  pulsed-
+field gel electrophoresis of the 29 isolates revealed 18 
+genotypic profiles, which were grouped into 5 clusters. 
+The  genotyping  found  high  genetic  similarity  among 
+the isolates. Identical isolates were obtained from dif-
+ferent samples and one sample showed more than one 
+genetically different isolate. The high prevalence of S. 
+aureus in the Minas Frescal cheese samples, as well as 
+the detection of toxin encoding genes identified in this 
+study, warns of the necessity to reduce the contamina-
+
+Received December 8, 2015.
+Accepted February 29, 2016.
+1 Corresponding author: mcporfirio@hotmail.com
+
+1
+
+tion levels in this type of cheese through monitoring and 
+controlling the production and trade of the product.
+Key  words: 
+antimicrobial resistance, staphylococcal enterotoxin
+
+Staphylococcus 
+
+aureus, 
+
+cheese, 
+
+INTRODUCTION
+
+ 
+
+Staphylococcus aureus is one of the most important 
+human  and  animal  pathogens.  It  has  a  broad  set  of 
+virulence mechanisms associated with infectivity, pro-
+duction of toxins, and antimicrobial resistance (Argu-
+din et al., 2010).
+
+Some  strains  of  S.  aureus  can  produce  toxins  that 
+are  members  of  pyrogenic  toxin  superantigen  family, 
+such as the staphylococcal toxic shock syndrome toxin 
+(TSST-1), which is responsible for generating an im-
+mune hyper-response in the host and has already been 
+detected in S. aureus isolated from foods (Cha et al., 
+2007).  These  bacteria  can  produce  exfoliative  toxins, 
+which promote the cleavage of the skin extract, caus-
+ing severe cutaneous syndromes (Zschöck et al., 2005). 
+Most  strains  secrete  enzymes  and  cytotoxins  that  in-
+clude coagulase and 4 hemolysins (α, β, gamma, and 
+delta).  Alpha  and  β  hemolysins  (Hla  and  Hlb)  are 
+dermonecrotic and neurotoxic, turn off the immune sys-
+tem by direct cytotoxic effect, and degrade soft tissues 
+(Vandenesch et al., 2012).
+
+Among the toxins produced by S. aureus, staphylococ-
+cal enterotoxins are a concern, because when produced 
+in  foods  staphylococcal  enterotoxins  can  cause  food 
+poisoning, which is one of the most prevalent foodborne 
+diseases around the world (ECDC, 2015). These toxins 
+present emetic activity and are called classic staphylo-
+coccal enterotoxins (SE; SEA–SEE), which occur more 
+frequently  in  cases  and  outbreaks  of  food  poisoning, 
+along with other more recently identified (SEG, SEH, 
+SEI, SER, and SET (Wallin-Carlquist et al., 2010; Xu 
+and  McCormick,  2012).  In  addition  to  these,  other 
+enterotoxins called staphylococcal enterotoxin-like pro-
+teins (SEl) include the SEl J, K, L, M, N, O, P, Q, S, 
+U, and V. Although the SEl toxins are homologous and 
+structurally similar to the staphylococcal enterotoxins, 
+
+2
+
+FERREIRA ET AL.
+
+emesis activity has not yet been confirmed in humans 
+(Xu and McCormick, 2012).
+
+Staphylococcus aureus was the second most common 
+pathogen  responsible  for  foodborne  diseases  in  Brazil 
+between 2000 and 2014. Milk and its derivatives were 
+among the foods most frequently involved in outbreaks 
+of foodborne diseases (ANVISA, 2015).
+
+Minas  frescal  cheese  is  one  of  the  most  consumed 
+cheeses  in  Brazil  and  presents  high  susceptibility  to 
+microbiological and proteolytic changes due to its high 
+moisture  content  and  handling  (Chalita  et  al.,  2009). 
+According  to  Brazilian  law,  this  type  of  cheese  must 
+be produced in dairy industry with pasteurized milk. 
+However, this food is also manufactured from raw milk 
+and  marketed  in  the  informal  sector,  without  regula-
+tion and sanitary supervision. For these reasons, it is 
+frequently  involved  in  the  transmission  of  pathogenic 
+bacteria  and  staphylococcal  food  poisoning  outbreaks 
+(Dorigon, 2010).
+
+Additionally, bacteria isolated from foods of animal 
+origin  may  show  resistance  to  several  antimicrobial 
+agents used to treat diseases, which may influence the 
+effectiveness for treatment (Delsol et al., 2010; Araújo 
+et al., 2011).
+
+The aims of the study were to (1) evaluate the preva-
+lence of S. aureus in artisanal and industrialized Minas 
+frescal  cheese  sold  in  the  municipality  of  Goiânia, 
+Brazil;  (2)  determine  the  antimicrobial  susceptibility 
+profile of the isolates; (3) molecularly characterize the 
+isolates for the presence of virulence genes and genetic 
+similarity  by  macrorestriction  analysis  using  pulsed-
+field gel electrophoresis (PFGE).
+
+MATERIALS AND METHODS
+
+Cheese Sampling
+
+In  this  study,  56  artisanal  and  10  industrialized 
+samples of Minas frescal cheese were purchased from re-
+tail sale sites along the market streets and from super-
+markets,  respectively,  in  the  municipality  of  Goiânia, 
+Goiás, Brazil, from June to August 2012. All samples 
+were immediately transported to the laboratory in a re-
+frigerated box (4 to 8°C) and kept at 4°C until analysis.
+
+Isolation of Coagulase-Positive Staphylococci
+
+To 
+
+enumerate 
+
+coagulase-positive 
+
+staphylococci 
+(CPS), the samples were processed by surface plating 
+on Baird-Parker agar with egg yolk tellurite emulsion 
+and  incubated  at  37°C  for  48  h  under  aerobic  condi-
+tions. Up to 5 typical or atypical (or both) presumptive 
+colonies were selected and tested using standard micro-
+
+Journal of Dairy Science Vol. 99 No. 11, 2016
+
+biological procedures such as Gram staining, catalase, 
+and  thermostable  nuclease  detection.  The  coagulase 
+production  was  performed  by  tube  test  using  rabbit 
+serum  (Bennett  and  Lancette,  2001).  A  pure  culture 
+of  each  isolate  was  kept  frozen  at  −80°C  for  further 
+analysis.
+
+Antimicrobial Susceptibility Test–Disk  
+Diffusion Method
+
+All  CPS  isolates  were  subjected  to  an  antimicro-
+bial  susceptibility  test  by  the  disc  diffusion  method 
+on  Müeller  Hinton  agar  (CLSI,  2015).  Penicillin  (10 
+UI), cefoxitin (30 µg), trimethoprim/sulfamethoxazole 
+(1.25/23.75 µg), rifampin (5 µg), ciprofloxacin (5 µg), 
+tetracycline (30 µg), erythromycin (15 µg), quinupris-
+tin/dalfopristin (15 µg), and clindamycin (2 µg) were 
+used  as  antimicrobial  agents.  Staphylococcus  aureus 
+ATCC 25923 was used as a reference strain for antimi-
+crobial susceptibility testing.
+
+DNA Extraction
+
+The  DNA  extraction  procedure  was  performed  ac-
+cording to Aires-de-Sousa et al. (2007). The pure cul-
+ture was thawed and streaked onto Tryptone Soya Agar 
+culture  and  incubated  at  35°C  for  18  to  24  h.  Three 
+to 4 colonies were suspended in 50 µL of TE 1× buf-
+fer (10 mM Tris, 1 mM EDTA, pH 8.0) with 1 µL of 
+lysostaphin (10 mg/mL) and incubated at 37°C. After 
+30 min, cell suspensions were placed in a boiling-water 
+bath at 95°C for 15 min. Then, 150 µL of H2O Milli-Q 
+was added and the solution was centrifuged (13,000 × 
+g) for 5 min at 4°C. The resulting supernatants were 
+used as DNA templates in the PCR reactions.
+
+Identification of Staphylococcus aureus
+
+The CPS isolates were screened by PCR for the pres-
+ence of femA gene, which is specific for S. aureus, accord-
+ing to Mehrotra et al. (2000). The primers used for gene 
+amplification  were  femA-F:  5′AAAAAAGCACATAA-
+CAAGCG  3′  and  femA-R:  5′GATAAAGAAGAAAC-
+CAGCAG 3′, to obtain a 132-bp amplicon.
+
+The PCR reaction was performed in a reaction mix-
+ture  with  a  final  volume  of  50  µL  containing  10  µL 
+of  5×  reaction  buffer  [20  mM  Tris-HCl  (pH  8.4),  50 
+mM KCl], 1.5 mM MgCl2, 100 µM of each dNTP, 0.2 
+mM of femA primers, 2.5 U of Taq polymerase, and 20 
+ng of template DNA. The volume of this mixture was 
+adjusted to 50 µL with sterile deionized water. As posi-
+tive controls, PCR reactions were carried out in paral-
+
+STAPHYLOCOCCUS AUREUS FROM ARTISANAL CHEESE
+
+3
+
+lel  and  contained  template  DNA  extracted  from  the 
+standard strains of S. aureus ATCC 25923. The PCR 
+was  performed  under  the  following  conditions:  initial 
+denaturation at 94°C for 5 min, subsequently followed 
+by 35 cycles at 94°C for 2 min, 57°C for 2 min, and 72°C 
+for 1 min, with a final extension of 7 min at 72°C. The 
+amplified products were detected by electrophoresis on 
+1.5% gel agarose containing ethidium bromide (0.5 µg/
+mL). The electrophoresis was carried out at 100 V for 
+1  h.  The  PCR  products  were  visually  examined  and 
+photographed under UV illumination.
+
+Detection of Virulence Genes
+
+The multiplex PCR technique was performed on all 
+S. aureus isolates to detect virulence genes that code 
+for the production of hemolysins (Hla and Hlb), TSST-
+1, exfoliative toxins (ETa and ETb), and enterotoxins 
+(SEA–SEE, SEG–SEJ, SEM–SEO), through 4 sequen-
+tial  reactions,  according  to  Jarraud  et  al.  (2002)  and 
+Holtfreter  et  al.  (2007)  with  modifications.  All  the 
+
+primer pairs used in this study and the multiplex reac-
+tions are listed in Table 1.
+
+The PCR reactions were performed in a total volume 
+of 25 µL containing reaction buffer (5×; 10 mM Tris-
+HCl, pH 7.5, 1 mM EDTA, pH 8.0), 5.0 mM MgCl2, 
+100 mM of dNTP, 150 to 400 nM of each primer, 1.0 
+U of Taq DNA polymerase, and 10 to 20 ng of DNA 
+template.
+
+The PCR samples were subjected to amplification us-
+ing a thermocycler (Axygen, Tewksbury, MA) accord-
+ing  to  the  following  program:  initial  denaturation  at 
+95°C for 15 min, followed by 35 cycles of denaturation 
+at 95°C for 30 s, annealing at 56°C for 30 s, 72°C for 50 
+s, and a final extension at 72°C for 10 min. Amplicons 
+were separated by 1.5% agarose gel electrophoresis in 
+1×  Tris-borate-EDTA  (TBE)  at  100  V  for  90  min 
+and  viewed  under  Gel  Doc  XR  UV  transilluminator 
+(Bio-Rad Laboratories, Hercules, CA). The gel images 
+were  analyzed  with  the  QuantityOne  software  (Bio-
+Rad Laboratories) after ethidium bromide (0.5 µg/mL) 
+staining.
+
+Table 1. Primers used in multiplex PCR reactions for virulence gene detection1
+
+Primer2
+
+ 
+
+Sequence (5′–3′)
+
+bp
+
+  Reaction
+
+I
+
+III
+
+IV
+
+180
+
+II
+
+300
+
+482
+
+404
+
+576
+
+180
+
+297
+
+TTCACTATTTGTAAAAGTGTCAGACCCACT
+TACTAATGAATTTTTTTATCGTAAGCCCTT
+GTAAAGTTACAGGTGGCAAAACTTG
+CATATCATACCAAAAAGTATTGCCGT
+ATTCTATTAAGGACACTAAGTTAGGGA
+ATCCCGTTTCATAAGGCGAGT
+CTCAAGGTGATATTGGTGTAGG
+AAAAAACTTACAGGCAGTCCATCTC
+AGTTTGTGTAAGAAGTCAAGTGTAGA
+ATCTTTAAATTCAGCAGATATTCCATCTAAC
+TAACCTCAGACATATATACTTCTTAACG
+AGTATCATAAAGTTGATTGTTTTCATGCAG
+CAAAGAAATGCTTTAAGCAATCTTAGGC
+CACCTTACCGCCAAAGCTG
+CAGATAAAGAGCTTTATACACACATTAC
+AGTGAACTTATCTTTCTATTGAAAAACACTC
+ACTGTAGGAGCTAGTGCATTTGT
+TGGTACTTTTGTCTATCTTTTTCATCAAC
+CTATTAATCTTTGGGTTAATGGAGAAC
+TTCAGTTTCGACAGTTTTGTTGTCAT
+GAATTAAGTAGTACCGCGCTAAATAATATG
+GCTGTATTTTTCCTCCGCTAAATAATATG
+AATTATGTGAATGCTCAACCCGATC
+AAACTTATATGGAACSSSSGGTACTAGTTC
+CTGATTACTATCCAAGAAATTCGATTG
+CTTTCCAGCCTACTTTTTTATCAGT
+GTGCACTTACTGACAATAGTGC
+GTTGATGAGTAGCTACCTTCAGT
+CAATCACATCATATGCGAAAGCAG
+CATCTACCCAAACATTAGCACC
+GAAAAAAGTCTGAATTGCAGGGAACA
+CAAATAAATCGTAATTAACCGAAGGTTC
+ATGAGATTGTTCTACATAGCTGCAAT
+AACTCTGCTCCCACTGAAC
+
+TSST F
+TSST R
+SEC F
+SEC R
+SEB F
+SEB R
+SEI F
+SEI R
+SEO F
+SEO R
+SEJ F
+SEJ R
+SEE F
+SEE R
+ETB F
+ETB R
+ETA F
+ETA R
+SEM F
+SEM R
+SED F
+SED R
+SEG F
+SEG R
+HLA F
+HLA R
+HLB F
+HLB R
+SEH F
+SEH R
+SEA F
+SEA R
+SEN F
+SEN R
+1Source: Jarraud et al., 2002.
+2TSST = toxic shock syndrome toxin; ET = exfoliative toxin; HLA = hemolysin A; HLB = hemolysin B; SE 
+= staphylococcal enterotoxin. F = forward; R = reverse. 
+
+326
+
+492
+
+560
+
+680
+
+612
+
+190
+
+376
+
+642
+
+209
+
+309
+
+ 
+
+Journal of Dairy Science Vol. 99 No. 11, 2016
+
+4
+Molecular Subtyping of S. aureus Isolates
+
+FERREIRA ET AL.
+
+S. aureus Identification
+
+Strains identified as S. aureus by PCR were submit-
+ted  to  PFGE  using  20  U  of  SmaI  restriction  enzyme 
+according to Chung et al. (2000). Electrophoretic run 
+was  performed  in  0.5×  TBE  buffer  (90  mM  Tris,  90 
+mM boric acid, and 2 mM EDTA) using CHEF DRII 
+System  (Bio-Rad  Laboratories,  Hercules,  CA),  under 
+the following conditions: 6 V/cm for 22 h, pulse times 
+from  5  to  35  s  at  14°C.  Staphylococcus  aureus  strain 
+NCTC 8325 was used as the reference standard.
+
+After being run, the gels were stained with ethidium 
+bromide  (0.5  µg/mL)  and  viewed  with  a  UV  trans-
+illuminator.  Gel  images  were  captured  by  Molecular 
+ImagerGelDoc  XR  (Bio-Rad)  and  analyzed  with  the 
+BioNumerics  program  (version  5.1;  AppliedMaths, 
+Ghent,  Belgium).  Clustering  was  performed  by  un-
+weighted pair group method using arithmetic averages. 
+Similarity of strains was estimated using the Dice cor-
+relation  coefficient  with  0.7%  optimization  and  1.0% 
+tolerance setting. For clustering of strains, a cut-off of 
+80% was applied (Carriço et al., 2005). Identical PFGE 
+profiles  (100%  of  similarity)  were  defined  as  a  pulso-
+type.  Gels  were  also  analyzed  by  visual  examination 
+of  the  banding  patterns  to  differentiate  between  the 
+undistinguishable  closely  related  strains,  which  were 
+possibility related or unrelated (Tenover et al., 1995).
+
+RESULTS AND DISCUSSION
+
+Coagulase-Positive Staphylococci
+
+From 10 industrialized Minas frescal cheese samples 
+analyzed, 2 (20.0%) presented CPS counts higher than 
+the  limits  established  as  maximum  legal  limit  (1.0  × 
+103 cfu/g) by Brazilian legislation (Brasil, 2001). The 
+artisanal Minas frescal cheese was found to be poten-
+tially hazardous to public health because levels of con-
+tamination ranged from 1.2 × 103 to 1.5 × 107 cfu/g in 
+19 (33.9%) of the evaluated samples. Eight (14.3%) of 
+them were higher than 105 cfu/g, presenting a high risk 
+of food poisoning (Balaban and Rasooly, 2000).
+
+The presence of CPS in cheeses made from pasteur-
+ized  milk  may  indicate  a  failure  in  pasteurization  or 
+recontamination after pasteurization due to insufficient 
+hygienic and sanitary practices (O’Brien et al., 2009). 
+High  counts  of  CPS  in  raw  milk  cheese  are  expected 
+because that milk can be contaminated directly from 
+the  production  environment,  infected  animal,  or  food 
+handler (Spanu et al., 2014). Variable results have been 
+observed by other authors in samples obtained in Bra-
+zil such as 21.0% in Bahia and 31.2% in Pernambuco 
+(Evêncio-Luz et al., 2012) and 54.2% in Goiás (André 
+et al., 2008).
+
+Journal of Dairy Science Vol. 99 No. 11, 2016
+
+Of the 19 samples of artisanal and 2 of industrialized 
+cheeses  that  were  positive  for  CPS,  29  isolates  were 
+identified as S. aureus by phenotypic characterization 
+and femA detection. All of these isolates were recovered 
+from artisanal cheeses.
+
+The presence of S. aureus in fresh raw milk cheeses 
+is a frequent finding around the world, and the preva-
+lence varies, for example, 2.2% (Vitale et al., 2015) and 
+35.0% (Bianchi et al., 2014) in Italy, 10.9% (Jamali et 
+al., 2015) and 45.0% (Saadat et al., 2014) in Iran, 37.5% 
+in  Turkey  (Gücükoğlu  et  al.,  2012),  54.2%  in  Brazil 
+(André et al., 2008), and 69.0% in Sweden (Rosengren 
+et al., 2010). In Switzerland, between 1996 and 2006, 
+63.6% of the staphylococcal food poisoning outbreaks 
+reported  were  associated  with  cheese  consumption 
+(Baumgartner, 2008).
+
+The handmade process in Brazil does not involve the 
+step of milk pasteurization, which is very important for 
+the quality control and safety of this product. André et 
+al. (2008) observed that the main source of contamina-
+tion of the final product was the raw milk used in its 
+production, compared with strains isolated from han-
+dlers in artisanal cheese produced in the Goiás State, 
+Brazil.
+
+Antimicrobial Susceptibility Profile
+
+The  resistance  patterns  of  S.  aureus  to  the  tested 
+antimicrobial agents are presented in Table 2. The tests 
+demonstrated the susceptibility of all S. aureus isolates 
+to cefoxitin, trimethoprim-sulfamethoxazole, rifampin, 
+and erythromycin. Twelve (41.4%) isolates were suscep-
+tible to all 9 antimicrobials tested, and 13 (44.8%) and 
+3 (10.3%) were resistant to penicillin and tetracycline, 
+respectively.  Intermediate  susceptibility  was  observed 
+in one isolate (3.4%) for ciprofloxacin and clindamycin 
+and in 5 (17.2%) for quinupristin/dalfopristin.
+
+In  this  study,  12  isolates  (41.4%)  were  resistant  to 
+1, and 2 isolates (6.9%) were resistant to 2 antimicro-
+bial  agents.  The  resistance  to  penicillin  remains  the 
+most  common,  as  observed  in  other  studies  (André 
+et  al.,  2008;  Spanu  et  al.,  2014;  Jamali  et  al.,  2015). 
+The prevalence of resistance to β-lactam antibiotics is 
+frequent  in  S.  aureus  strains  obtained  from  milk  and 
+related products as reported by Daka et al. (2012), Hu 
+et al. (2013), and Xu et al. (2014).
+
+Several  mechanisms  are  involved  in  β-lactam  resis-
+tance, such as production of penicillinases or alteration 
+of the target protein (Spanu et al., 2014). We did not 
+find  any  isolate  resistant  to  cefoxitin,  indicating  that 
+the high resistance to penicillin observed should be as 
+result of β-lactamase production.
+
+STAPHYLOCOCCUS AUREUS FROM ARTISANAL CHEESE
+
+5
+
+Table 2. Antimicrobial susceptibility profile of Staphylococcus aureus isolated from artisanal raw milk cheeses sold in Brazilian street fairs
+
+Sample isolates1
+
+  Susceptibility profile2
+
+  Phenotype
+
+Q3.2, Q12.2, Q12.3, Q15.2, Q18.1, Q18.3, Q34.3, Q35.2, Q35.3, Q35.4, Q44, Q45
+Q9.2, Q9.3, Q14, Q15.3, Q24.3, Q36, Q46, Q49, Q56
+Q34.2, Q35.1
+Q3.1
+Q17
+Q27
+Q24.2
+Q11
+Q54
+1Q = raw milk cheese.
+2S = susceptible; R = resistant; I = intermediate.
+3Sequence of antimicrobials tested: penicillin, cefoxitin, trimethoprim/sulfamethoxazole, rifampim, ciprofloxacin, tetracycline, erytromycin, qui-
+nupristin/dalfopristin, clindamycin.
+
+SSSSSSSSS3
+RSSSSSSSS
+SSSSSSSIS
+SSSSSRSSS
+SSSSSSSSI
+RSSSSRSIS
+RSSSSSSIS
+RSSSISSIS
+RSSSSRSSS
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+
+Tetracycline resistance observed in this study (10.3%) 
+was also found in Italy by Spanu et al. (2014) in strains 
+isolated  from  cheese  (10.6%).  Tetracycline  is  used  in 
+intensive livestock production, which may explain the 
+resistance  observed  in  the  literature  in  bacteria  ob-
+tained  from  animal  products  (Schneider  et  al.,  2009; 
+Lee et al., 2014).
+
+According to the patterns generated by the antimi-
+crobial susceptibility tests, the 29 isolates were grouped 
+into  9  distinct  profiles,  A  to  I  (Table  2).  Profile  A 
+grouped 13 isolates (44.8%), and profile B grouped 9 
+(31.0%).
+
+Detection of Virulence Genes
+
+Staphylococcus  aureus  groups  are  characterized  by 
+different virulence factors and by large variations in the 
+presence of these virulence genes (Aydin et al., 2011). 
+In this study, the presence of tst, eta, and etb genes was 
+not found in the isolates. The hla gene was found in all 
+isolates, and hlb gene was found in 14 (48.3%) of them 
+(Table 3). Silva et al. (2012) also found 100.0% of he-
+molytic activity among S. aureus isolated from bovine 
+mastitis and most of them presented co-production of 
+toxins.
+
+According to Lo et al. (2011), the cytolysin produc-
+tion, including hemolysins, determines the pathogenic-
+ity  of  several  bacterial  agents  and  is  associated  with 
+
+the pathogenesis of diseases caused by S. aureus. The 
+hemolysins can be produced by the most S. aureus iso-
+lates (Burnside et al., 2010).
+
+The synergistic effect between α and β hemolysins is 
+recognized as a determinant of the severity of S. aureus 
+diseases, particularly bovine mastitis, with great abil-
+ity of the pathogen to persist in the mammary gland, 
+which  may  contaminate  the  milk  and  milk  products 
+(Aarestrup  et  al.,  1999).  The  Hlb  is  characteristic  of 
+isolates obtained from bovine mammary gland; there-
+fore, the findings suggest the probable source of cheeses 
+contamination evaluated in this study.
+
+From  29  S.  aureus  isolates,  13  (44.8%)  presented 
+genes  coding  for  enterotoxins.  The  seh  gene  was  the 
+most frequently detected (n = 11, 37.9%), followed by 
+the seo gene (n = 3; 10.3%), seg, sem, sen genes (n = 2; 
+6.9%), and sec, sei genes (n = 1; 3.4%). In one isolate 
+(3.4%), 4 genes coding for SEG and SEl M, N, and O 
+were detected. In another isolate (3.4%), 6 genes were 
+present  (staphylococcal  enterotoxins  C,  G,  I  and  SEl 
+M,  N,  O).  Both  the  isolates  were  obtained  from  the 
+same artisanal raw milk cheese (Table 3).
+
+The identification of new staphylococcal enterotoxins 
+and SEl greatly increases the frequency of enterotoxi-
+genic  S.  aureus  isolates,  which  suggests  an  improve-
+ment on pathogenic potential of this bacteria (Bianchi 
+et  al.,  2014).  Among  the  staphylococcal  enterotoxins, 
+SEH has been responsible for staphylococcal food poi-
+
+Table 3. Virulence genes detected in Staphylococcus aureus isolated from artisanal raw milk cheeses sold in Brazilian street fairs
+
+Sample isolates
+
+Q3.1, Q3.2, Q9.2, Q9.3, Q15.2, Q17, Q27, Q34.3, Q35.1, Q35.4, Q36, Q49
+Q11, Q45
+Q12.3, Q14, Q15.3, Q18.1, Q34.2, Q35.2, Q35.3, Q56.2
+Q24.2
+Q24.3
+Q46
+Q12.2, Q18.3, Q44, Q54
+
+  Virulence genes
+
+hla+hlb
+hla+hlb+seh
+hla+seh
+hla+seg+sem+sen+seo
+hla+sec+seg+sei+sem+sen+seo
+hla+seh+seo
+hla
+
+Journal of Dairy Science Vol. 99 No. 11, 2016
+
+6
+
+FERREIRA ET AL.
+
+soning involving milk products (Jørgensen et al., 2005; 
+Ostyn  et  al.,  2010).  Ikeda  et  al.  (2005)  described  an 
+outbreak due to the consumption of reconstituted milk, 
+which was contaminated with enterotoxigenic S. aureus 
+producing SEA and SEH. Another outbreak was attrib-
+uted to SEH produced by S. aureus in mashed potatoes 
+made with raw milk (Jørgensen et al., 2005).
+
+The SEH has been described as the most prevalent 
+staphylococcal  enterotoxin  in  bovine  milk.  Liu  et  al. 
+(2014), who analyzed 116 isolates from bovine mastitis, 
+detected the seh gene in 36.3% and sec gene in 3.4% 
+isolates. This is similar to the results obtained in the 
+present  study,  and  reinforces  the  possible  source  of 
+cheese contamination. Bianchi et al. (2014) evaluating 
+milk  products  found  genes  sea,  sed,  and  sec  in  23.1, 
+47.0, and 12.9% of the isolates, respectively, as well as 
+the genes seg, seh, sei, sej, sep, and ser in 33.3, 4.7, 34.5, 
+46.7, 1.17, and 52.5%, respectively.
+
+Several studies focused on the detection of genes cod-
+ing  classical  staphylococcal  enterotoxins  (SEA–SEE). 
+In those studies, the major prevalence was observed for 
+the sea gene, although at low percentages such as 12.8% 
+(Spanu et al., 2014), 5.0% (Saadat et al., 2014), 4.8% 
+(Gücükoğlu  et  al.,  2012),  2.2%  (Vitale  et  al.,  2015), 
+and 1.6% (Ertas et al., 2010). Our study expanded the 
+investigation for 7 more staphylococcal enterotoxins or 
+SEl (G, H, I, J, M, N, O), and we observed that only 
+sec gene among the classical staphylococcal enterotox-
+ins was detected in 3.4% of the cheese samples. This 
+fact demonstrates the importance of searching for other 
+staphylococcal enterotoxins, especially in S. aureus ob-
+tained from food samples.
+
+The presence of enterotoxins in milk products is con-
+sidered a potential risk to public health. Several factors 
+such  as  processing  failures,  inadequate  refrigeration, 
+improper  hygienic  practices,  and  contamination  after 
+processing  are  associated  with  S.  aureus  multiplica-
+tion and enterotoxin production (Saadat et al., 2014). 
+Therefore,  the  establishment  and  implementation  of 
+safety regulations is essential to prevent staphylococcal 
+food poisoning.
+
+supplier in different street fairs. André et al. (2008) and 
+Tondo et al. (2000) found more diversity among isolates 
+obtained from dairy products in the Middle West and 
+Southern Brazil.
+
+We observed that some samples (Q3, Q9, Q15, Q18, 
+Q24,  Q35)  presented  more  than  one  genetically  dis-
+tinct  isolate,  and  genetically  identical  isolates  (100% 
+similarity)  were  obtained  from  different  samples.  As 
+demonstrated in Figure 1, one sample (Q35) contained 
+4 isolates that, although grouped in the same cluster, 
+presented  distinct  pulsotypes,  different  susceptibility, 
+or  different  virulence  profile.  This  observation  shows 
+that during the cheese production chain, contamination 
+could occur from several sources in the milk and cheese 
+production  environment,  as  well  as  from  the  animal 
+or  food  handler  (Spanu  et  al.,  2014).  This  could  be 
+minimized if hygienic processing was intensified to pre-
+vent cross-contamination among the potential sources 
+of food contamination.
+
+All  11  S.  aureus  isolates  harboring  the  seh  gene, 
+obtained  from  10  different  samples,  were  grouped  in 
+cluster  1,  which  demonstrates  high  similarity  among 
+these  isolates,  although  they  were  isolated  from  sam-
+ples produced in distinct places at different times. The 
+genes coding for other staphylococcal enterotoxins (C, 
+G,  I,  M,  N,  O),  detected  in  2  isolates  obtained  from 
+the same sample, were grouped in cluster 3 with 92.7% 
+similarity. It has been demonstrated that the seh gene 
+is the most prevalent in S. aureus isolates from bovine 
+mastitis (Liu et al., 2014). The present study found the 
+seh gene in 37.9% of the S. aureus isolated from raw 
+milk cheeses, which indicates the most probable source 
+of the bacteria for the product was the bovine milk.
+
+The  association  of  distinct  molecular  typing  tech-
+niques is helpful to improve the knowledge about the 
+dynamics of infections caused by S. aureus. The com-
+bination of PFGE with PCR is an important tool for 
+epidemiological diagnosis as well as to understand the 
+patterns of pathogen transmission and sources of pos-
+sible food contamination (Said et al., 2010).
+
+Molecular Subtyping of S. aureus
+
+The comparison of the 29 S. aureus isolated during 
+the study were performed by PFGE. The isolates were 
+assigned to 18 pulsotypes and grouped into 5 clusters 
+(each cluster grouped 2 or more isolates with ≥80% of 
+similarity; Figure 1). Cluster 1 grouped 20 isolates ob-
+tained from 13 different raw milk cheese samples. The 
+other 4 clusters grouped 2 isolates each, and one isolate 
+was not related to any cluster. This shows high genetic 
+similarity  among  the  isolates.  This  similarity  can  be 
+explained by a possible sale of products from the same 
+
+Journal of Dairy Science Vol. 99 No. 11, 2016
+
+CONCLUSIONS
+
+The presence of S. aureus above the limit established 
+by  law  and  at  levels  compatible  with  the  production 
+of enterotoxins in artisanal raw milk cheeses points to 
+the potential risk to public health. Consumption of this 
+product is still widespread in Brazil; therefore, an effec-
+tive reduction of contamination levels could be achieved 
+by improving sanitation and hygiene procedures. The 
+consumption  of  artisanal  raw  milk  cheese  should  be 
+considered a potential risk of foodborne disease because 
+genes coding for enterotoxin production were detected. 
+The identification of enterotoxins, other than the classic 
+
+STAPHYLOCOCCUS AUREUS FROM ARTISANAL CHEESE
+
+7
+
+Figure 1. Clonal relationships, virulence, and susceptibility profile of Staphylococcus aureus isolated from raw milk cheese, established with 
+SmaI pulsed-field gel electrophoresis analysis. ID = sample identification; SP = susceptibility profile; CL = cluster; Hla = hemolysin A; Hlb = 
+hemolysin B; SE = staphylococcal enterotoxin.
+
+ones, highlights the importance of expanding research 
+to detect these virulence factors for food safety assur-
+ance.  The  combination  of  genotypic  and  phenotypic 
+methods used helps to trace the origin of the strains. 
+The virulence pattern observed in most of the isolates 
+led us to conclude that the contamination of traditional 
+and artisanal raw milk cheese with S. aureus, despite 
+the handmade production, is probably of animal origin. 
+Therefore, milk pasteurization, as recommended by the 
+supervisory agencies, should solve most of the problem.
+
+ACKNOWLEDGMENTS
+
+This research was funded by Coordenação de Aper-
+
+feiçoamento de Pessoal de Nível Superior (CAPES).
+
+REFERENCES
+
+Aarestrup, F. M., H. D. Larsen, N. H. Eriksen, C. S. Elsberg, and N. E. 
+Jensen. 1999. Frequency of alpha- and beta-haemolysin in Staphy-
+lococcus aureus of bovine and human origin. A comparison between 
+pheno- and genotype and variation in phenotypic expression. AP-
+
+Journal of Dairy Science Vol. 99 No. 11, 2016
+
+8
+
+FERREIRA ET AL.
+
+MIS  107:425–430.  http://dx.doi.org/10.1111/j.1699-0463.1999.
+tb01576.x.
+
+Aires-de-Sousa,  M.,  C.  E.  Parente,  O.  Vieira-Da-Motta,  I.  C.  Bon-
+na,  D.  A.  Silva,  and  H.  de  Lencastre.  2007.  Characterization  of 
+Staphylococcus aureus isolates from buffalo, bovine, ovine, and cap-
+rine milk samples collected in Rio de Janeiro State, Brazil. Appl. 
+Environ.  Microbiol.  73:3845–3849.  http://dx.doi.org/10.1128/
+AEM.00019-07.
+
+André, M. C. D. P. B., M. R. H. Campos, L. J. Borges, A. Kipnis, F. 
+C. Pimenta, and A. B. Serafini. 2008. Comparison of Staphylococ-
+cus aureus isolates from food handlers, raw bovine milk and Minas 
+Frescal cheese by antibiogram and pulsed-field gel electrophoresis 
+following SmaI digestion. Food Contr. 19:200–207. http://dx.doi.
+org/10.1016/j.foodcont.2007.03.010.
+
+ANVISA (Agência Nacional de Vigilância Sanitária). 2015. Vigilância 
+Epidemiológica  das  Doenças  Transmitidas  por  Alimentos–VE-
+DTA.  Accessed  Nov.  14,  2015.  http://u.saude.gov.br/images/
+pdf/2015/novembro/09/Apresenta----o-dados-gerais-DTA-2015.
+pdf.
+
+Araújo, J. M., M. Galdino, and S. M. Amaral. 2011. MRSA de origem 
+
+comunitária. Resid. Ped. 1:39–40.
+
+Argudin, M. A., M. C. Mendoza, and M. R. Rodicio. 2010. Food poi-
+soning  and  Staphylococcus  aureus  enterotoxins.  Toxins  (Basel) 
+2:1751–1773. http://dx.doi.org/10.3390/toxins2071751.
+
+Aydin,  A.,  M.  Sudagidan,  and  K.  Muratoglu.  2011.  Prevalence  of 
+staphylococcal  enterotoxins,  toxin  genes  and  genetic-relatedness 
+of  foodborne  Staphylococcus  aureus  strains  isolated  in  the  Mar-
+mara Region of Turkey. Int. J. Food Microbiol. 148:99–106. http://
+dx.doi.org/10.1016/j.ijfoodmicro.2011.05.007.
+
+Balaban, N., and A. Rasooly. 2000. Staphylococcal enterotoxins. Int. 
+J.  Food  Microbiol.  61:1–10.  http://dx.doi.org/10.1016/S0168-
+1605(00)00377-9.
+
+Baumgartner, A. 2008. Outbreaks with microbial contaminated food-
+stuffs  in  Switzerland  1994–2006.  Bull.  Swiss  Federal  Off.  Public 
+Health 32:562–568.
+
+Bennett,  R.  W.,  and  G.  A.  Lancette.  2001.  Staphylococcus  aureus. 
+Chapter 12 in Bacteriological Analytical Methods. US Food and 
+Drug  Administration.  Accessed  Feb.  22,  2012.  http://www.fda.
+gov/Food/FoodScienceResearch/LaboratoryMethods/ucm071429.
+htm.
+
+Bianchi, D. M., S. Gallina, A. Bellio, F. Chiesa, T. Civera, and L. de 
+Castelli. 2014. Enterotoxin gene proﬁles of Staphylococcus aureus 
+isolated from milk and dairy products in Italy. Lett. Appl. Micro-
+biol. 58:190–196. http://dx.doi.org/10.1111/lam.12182.
+
+Brasil. 2001. Ministério da Saúde. Resolução nº 12, de 02 de janeiro 
+de 2001. Regulamento Técnico sobre Padrões Microbiológicos para 
+Alimentos. Diário Oficial da República Federativa do Brasil, Bra-
+sília, DF.
+
+Burnside, K., A. M. Lembo, M. de Los Reyes, A. Iljuk, N. T. Binhtran, 
+J. E. Connelly, W. J. Lin, B. Z. Schmidt, A. R. Richardson, F. C. 
+Fang, W. A. Tao, and L. Rajagopal. 2010. Regulation of hemoly-
+sin expression and virulence of Staphylococcus aureus by a serine/
+threonine kinase and phosphatase. PLoS ONE 5:e11071. http://
+dx.doi.org/10.1371/journal.pone.0011071.
+
+Carriço,  J.  A.,  F.  R.  Pinto,  C.  Simas,  S.  Nunes,  N.  G.  Sousa,  N. 
+Frazao,  H.  de  Lencastre,  and  J.  S.  Almeida.  2005.  Assessment 
+of band-based similarity coefficients for automatic type and sub-
+type classification of microbial isolates analyzed by pulsed-field gel 
+electrophoresis.  J.  Clin.  Microbiol.  43:5483–5490.  http://dx.doi.
+org/10.1128/JCM.43.11.5483-5490.2005.
+
+Cha, J., S. B. Vakulenko, and S. Mobashery. 2007. Characterization of 
+the beta-lactam antibiotic sensor domain of the MecR1 signal sen-
+sor/transducer  protein  from  Methicillin-Resistant  Staphylococcus 
+aureus. Biochemistry 46:7822–7831.
+
+Chalita, M. A. N., R. O. P. Silva, R. H. V. Petti, and C. R. L. Silva. 
+2009. Algumas considerações sobre a fragilidade das concepções de 
+qualidade no mercado de queijos no Brasil. Inf. Econ. 39:77–88.
+
+Chung, M., H. de Lencastre, P. Matthews, A. Tomasz, I. Adamsson, 
+M.  Aires  De  Sousa,  and  T.  Camou.  2000.  Molecular  typing  of 
+methicillin-resistant Staphylococcus aureus by pulsed-field gel elec-
+trophoresis: Comparison of results obtained in a multilaboratory 
+
+Journal of Dairy Science Vol. 99 No. 11, 2016
+
+effort using identical protocols and MRSA strains. Microb. Drug 
+Resist. 6:189–198.
+
+CLSI  (Clinical  and  Laboratory  Standards  Institute).  2015.  Perfor-
+mance Standards for Antimicrobial Susceptibility Testing, Twen-
+ty-fifth  Informational  Supplement.  CLSI  document  M100-  S25. 
+Wayne, PA.
+
+Daka, D., G. S. Solomon, and D. Yihdego. 2012. Antibiotic-resistance 
+Staphylococcus  aureus  isolated  from  cow’s  milk  in  the  Hawassa 
+area,  South  Ethiopia.  Ann.  Clin.  Microbiol.  Antimicrob.  11:26. 
+http://dx.doi.org/10.1186/1476-0711-11-26.
+
+Delsol,  A.  A.,  D.  E.  Halfhide,  M.  C.  Bagnall,  L.  P.  Randall,  V.  I. 
+Enne,  M.  J.  Woodward,  and  J.  M.  Roe.  2010.  Persistence  of  a 
+wild  type  Escherichia  coli  and  its  multiple  antibiotic-resistant 
+(MAR)  derivatives  in  the  abattoir  and  on  chilled  pig  carcasses. 
+Int. J. Food Microbiol. 140:249–253. http://dx.doi.org/10.1016/j.
+ijfoodmicro.2010.03.023.
+
+Dorigon,  C.  2010.  O  Mercado  Informal  dos  Produtos  Coloniais  da 
+Região  Oeste  de  Santa  Catarina.  V  ENEC  -  Encontro  Nacional 
+de Estudos do Consumo I Encontro Luso-Brasileiro de Estudos do 
+Consumo Tendências e ideologias do consumo no mundo contem-
+porâneo. Accessed Oct. 10, 2014. http://estudosdoconsumo.com.
+br/wpcontent/uploads/2010/09/1.3-_Clovis_Dorigon1.pdf.
+
+ECDC (European Centre for Disease Prevention and Control). 2015. 
+The  European  Union  summary  report  on  trends  and  sources  of 
+zoonoses,  zoonotic  agents  and  food-borne  outbreaks  in  2013. 
+EFSA J. 13:162.
+
+Ertas, N., Z. Gonulalan, Y. Yildirim, and E. Kum. 2010. Detection of 
+Staphylococcus aureus enterotoxins in sheep cheese and dairy des-
+serts by multiplex PCR technique. Int. J. Food Microbiol. 142:74–
+77. http://dx.doi.org/10.1016/j.ijfoodmicro.2010.06.002.
+
+Evêncio-Luz, L., J. V. Lima-Filho, and J. Evêncio-Neto. 2012. Occur-
+rence of Salmonella sp. and coagulase-positive Staphylococci in raw 
+eggs and coalho cheese: Comparative study between two cities of 
+Brazil’s northeast. Braz. J. Microbiol. 43:1463–1466.
+
+Gücükoğlu,  A.,  T.  O.  Kevenk,  T.  Uyanik,  Ö.  Çadirci,  G.  Terzi, 
+and  M.  Alişarli.  2012.  Detection  of  enterotoxigenic  Staphylococ-
+cus  aureus  in  raw  milk  and  dairy  products  by  multiplex  PCR. 
+J.  Food  Sci.  77:M620–M623.  http://dx.doi.org/10.1111/j.1750-
+3841.2012.02954.x.
+
+Holtfreter, S., D. Grumann, M. Schmudde, H. T. T. Nguyen, P. Eichler, 
+B.  Strommenger,  K.  Kopron,  J.  Kolata,  S.  Giedrys-Kalemba,  I. 
+Steinmetz,  W.  Witte,  and  B.  M.  Bröker.  2007.  Clonal  distribu-
+tion  of  superantigen  genes  in  clinical  Staphylococcus  aureus  iso-
+lates. J. Clin. Microbiol. 45:2669–2680. http://dx.doi.org/10.1128/
+JCM.00204-07.
+
+Hu, S. K., S. Y. Liu, W. F. Hu, T. L. Zheng, and J. G. Xu. 2013. Mo-
+lecular biological characteristics of Staphylococcus aureus isolated 
+from  food.  Eur.  Food  Res.  Technol.  236:285–291.  http://dx.doi.
+org/10.1007/s00217-012-1887-4.
+
+Ikeda, T., N. Tamate, K. Yamaguchi, and S. Makino. 2005. Mass out-
+break of food poisoning disease caused by small amounts of staphy-
+lococcal enterotoxins A and H. Appl. Environ. Microbiol. 71:2793–
+2795. http://dx.doi.org/10.1128/AEM.71.5.2793-2795.2005.
+
+Jamali,  H.,  M.  Paydar,  B.  Radmehr,  S.  Ismail,  and  A.  Dadrasnia. 
+2015.  Prevalence  and  antimicrobial  resistance  of  Staphylococcus 
+aureus  isolated  from  raw  milk  and  dairy  products.  Food  Contr. 
+54:383–388. http://dx.doi.org/10.1016/j.foodcont.2015.02.013.
+
+Jarraud, S., C. Mougel, J. Thioulouse, G. Lina, H. Meugnier, F. Forey, 
+X. Nesme, J. Etienne, and F. Vandenesch. 2002. Relationships be-
+tween Staphylococcus aureus genetic background, virulence factors, 
+agr groups (alleles), and human disease. Infect. Immun. 70:631–
+641. http://dx.doi.org/10.1128/IAI.70.2.631-641.2002.
+
+Jørgensen, H. J., T. Mørk, D. A. Caugant, A. Kearns, and L. M. Rør-
+vik. 2005. Genetic variation among Staphylococcus aureus strains 
+from  Norwegian  bulk  milk.  Appl.  Environ.  Microbiol.  71:8352–
+8361. http://dx.doi.org/10.1128/AEM.71.12.8352-8361.2005.
+
+Lee, M., E. Shin, and Y. Lee. 2014. Antimicrobial resistance and in-
+tegron  profiles  in  multidrug-resistant  Escherichia  coli  isolates 
+from  pigs.  Foodborne  Pathog.  Dis.  11:988–997.  http://dx.doi.
+org/10.1089/fpd.2014.1795.
+
+STAPHYLOCOCCUS AUREUS FROM ARTISANAL CHEESE
+
+9
+
+Liu, Y., W. Chen, T. Ali, R. Alkasir, J. Yin, G. Liu, and B. Han. 2014. 
+Staphylococcal enterotoxin H induced apoptosis of bovine mam-
+mary epithelial cells in vitro. Toxins (Basel) 6:3552–3567. http://
+dx.doi.org/10.3390/toxins6123552.
+
+Lo,  C.  W.,  Y.  K.  Lai,  Y.  T.  Liu,  R.  L.  Gallo,  and  C.  M.  Huang. 
+2011. Staphylococcus aureus hijacks a skin commensal to intensify 
+its virulence: Immunization targeting β-hemolysin and camp fac-
+tor. J. Invest. Dermatol. 131:401–409. http://dx.doi.org/10.1038/
+jid.2010.319.
+
+Mehrotra, M., G. Wang, and W. M. Johnson. 2000. Multiplex PCR for 
+detection of genes for Staphylococcus aureus enterotoxins, exfolia-
+tive  toxins,  toxic  shock  syndrome  toxin  1,  and  methicillin  resis-
+tance. J. Clin. Microbiol. 38:1032–1035.
+
+O’Brien,  M.,  K.  Hunt,  S.  McSweeney,  and  K.  Jordan.  2009.  Occur-
+rence of foodborne pathogens in Irish farmhouse cheese. Food Mi-
+crobiol. 26:910–914. http://dx.doi.org/10.1016/j.fm.2009.06.009.
+
+Ostyn, A., M. L. De Buyser, F. Guillier, J. Groult, B. Felix, S. Salah, 
+G. Delmas, and J. A. Hennekinne. 2010. First evidence of a food 
+poisoning  outbreak  due  to  staphylococcal  enterotoxin  type  E, 
+France, 2009. Euro Surveill. 15:19528.
+
+Rosengren,  A.,  A.  Fabricius,  B.  Guss,  S.  Sylvén,  and  R.  Lindqvist. 
+2010.  Occurrence  of  foodborne  pathogens  and  characterization 
+of Staphylococcus aureus in cheese produced on farm-dairies. Int. 
+J.  Food  Microbiol.  144:263–269.  http://dx.doi.org/10.1016/j.
+ijfoodmicro.2010.10.004.
+
+Saadat, Y. R., A. A. I. Fooladi, R. Shapouri, M. M. Hosseini, and Z. 
+D.  Khiabani.  2014.  Prevalence  of  enterotoxigenic  Staphylococcus 
+aureus, in organic milk and cheese in Tabriz, Iran. Iran. J. Micro-
+biol. 6:345–349.
+
+Said, K. B., J. Ismail, J. Campbell, M. R. Mulvey, A. Bourgault, S. 
+Messier, and X. Zhao. 2010. Regional profiling for determination 
+of genotype diversity of mastitis-specific Staphylococcus aureus lin-
+eage in Canada by use of clumping factor, a pulsed-field gel elec-
+trophoresis, and spa typing. J. Clin. Microbiol. 48:375–386. http://
+dx.doi.org/10.1128/JCM.01768-09.
+
+Schneider,  R.  N.,  A.  Nadvorny,  and  V.  Schmidt.  2009.  Perfil  de  re-
+sistência antimicrobiana de isolados de Escherichia coli obtidos de 
+águas superficiais e subterrâneas, em área de produção de suínos. 
+Biotemas. 22:11–17.
+
+Silva, E. R., T. R. M. Silva, A. M. G. Pereira, A. C. Machado, and 
+K. R. Santoro. 2012. Produção de hemolisinas por Staphylococcus 
+
+aureus isolados de casos de mastite bovina subclínica. Acta Vet. 
+Brasilica 6:118–123.
+
+Spanu, V., C. Scarano, F. Cossu, C. Spanu, and E. P. L. de Santis. 
+2014. Antibiotic resistance traits and molecular subtyping of Staph-
+ylococcus aureus isolated from raw sheep milk cheese. J. Food Sci. 
+79:M2066–M2071. http://dx.doi.org/10.1111/1750-3841.12590.
+
+Tenover, F. C., R. D. Arbeit, R. V. Goering, P. A. Mickelsen, B. A. 
+Murray, D. H. Persing, and B. Swaminathan. 1995. Interpreting 
+chromosomal  DNA  restriction  patterns  produced  by  pulsed-field 
+gel electrophoresis: criteria for bacterial strain typing. J. Clin. Mi-
+crobiol. 33:2233–2239.
+
+Tondo, E. C., M. C. Guimarães, J. A. Henriques, and M. A. Ayub. 
+2000. Assessing and analysing contamination of a dairy products 
+processing  plant  by  Staphylococcus  aureus  using  antibiotic  resis-
+tance and PFGE. Can. J. Microbiol. 46:1108–1114.
+
+Vandenesch, F., G. Lina, and T. Henry. 2012. Staphylococcus aureus 
+hemolysins,  bi-component  leukocidins,  and  cytolytic  peptides: 
+A  redundant  arsenal  of  membrane-damaging  virulence  factors? 
+Front.  Cell.  Infect.  Microbiol.  2:12.  http://dx.doi.org/10.3389/
+fcimb.2012.00012.
+
+Vitale,  M.,  M.  L.  Scatassa,  C.  Cardamone,  G.  Oliveri,  C.  Piraino, 
+R. Alduina, and C. Napoli. 2015. Staphylococcal food poisoning 
+case and molecular analysis of toxin genes in Staphylococcus aureus 
+strains isolated from food in Sicily, Italy. Foodborne Pathog. Dis. 
+12:21–23. http://dx.doi.org/10.1089/fpd.2014.1760.
+
+Wallin-Carlquist, N., D. Marta, E. Borch, and P. Råadströom. 2010. 
+Prolonged  expression  and  production  of  Staphylococcus  aureus 
+enterotoxin  A  in  processed  pork  meat.  Int.  J.  Food  Microbiol. 
+141:S69–S74. http://dx.doi.org/10.1016/j.ijfoodmicro.2010.03.028.
+Xu, J., C. Shi, M. Song, X. Xu, P. Yang, G. Paoli, and X. Shi. 2014. 
+Phenotypic and genotypic antimicrobial resistance traits of food-
+borne Staphylococcus aureus isolates from Shanghai. J. Food Sci. 
+79:M635–M642. http://dx.doi.org/10.1111/1750-3841.12405.
+
+Xu, S. X., and J. K. McCormick. 2012. Staphylococcal superantigens 
+in  colonization  and  disease.  Front.  Cell.  Infect.  Microbiol.  2:52. 
+http://dx.doi.org/10.3389/fcimb.2012.00052.
+
+Zschock, M., B. Kloppert, W. Wolter, H. P. Hamann, and C. Lammler. 
+2005.  Pattern  of  enterotoxin  genes  seg,  seh,  sei  and  sej  positive 
+Staphylococcus aureus isolated from bovine mastitis. Vet. Micro-
+biol. 108:243–249. http://dx.doi.org/10.1016/j.vetmic.2005.02.012.
+
+Journal of Dairy Science Vol. 99 No. 11, 2016
+
+

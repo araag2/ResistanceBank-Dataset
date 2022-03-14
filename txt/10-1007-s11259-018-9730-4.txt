@@ -1,0 +1,1337 @@
+Veterinary Research Communications
+https://doi.org/10.1007/s11259-018-9730-4
+
+ORIGINAL ARTICLE
+
+Antibiotic susceptibility of Staphylococcus aureus isolated
+from subclinical bovine mastitis cases and in vitro
+efficacy of bacteriophage
+
+Diego F. Varela-Ortiz 1 & José E. Barboza-Corona 2,3 & Joaquín González-Marrero 4 &
+Ma. Fabiola León-Galván 2,3 & Mauricio Valencia-Posadas 2,5 & Alma A. Lechuga-Arana 6 &
+Cynthia G. Sánchez-Felipe 7 & Fernanda Ledezma-García 7 & Abner J. Gutiérrez-Chávez 2,5
+
+Received: 11 January 2018 /Accepted: 19 July 2018
+# Springer Nature B.V. 2018
+
+Abstract
+Staphylococcus aureus is an opportunistic pathogen that may cause severe infections in livestock, and represents the major cause
+of mastitis in dairy cows. Currently, instead of using antibiotics, new strategies are sought to reduce this clinical health problem.
+The aim of this study was to determine the efficacy of phage therapy to kill S. aureus strains obtained from farms located at the
+State of Guanajuato, México. Thirty-six S. aureus strains from cow milk with subclinical mastitis were isolated and identified,
+and the susceptibility to antibiotics and four phages also isolated in this work was tested. It was found that more of 90% of S.
+aureus isolates were not susceptible to six or more antibiotics, and 100% were resistant to penicillin, dicloxacillin, cefotaxime,
+ampicillin and cephalothin, and 81 and 77%, to tetracycline and cefuroxime, respectively. Fortunately, 100% of S. aureus isolates
+were susceptible to phages used in this work, which was detected as clear zones using specific phage. It was shown for the first
+time, that phages used in this study are active against pathogenic S. aureus and might be incorporated into the therapy as an
+important tool for the control of staphylococcal bovine mastitis, specially to antibiotic-resistant S. aureus strains isolated in farm
+located at the state of Guanajuato, México; and its use might be extended to other regions inside or outside the country.
+
+Keywords Bovine mastitis . Bacteriophage . Staphylococcus aureus . Multi-resistance pattern . Spot test
+
+Introduction
+
+Mastitis is the inflammation of the mammary gland caused by
+pathogen agents. This disease is one of the largest production
+
+concerns in the dairy industry worldwide (Halasa et al. 2007).
+Mastitis can be caused by a plethora of pathogenic microor-
+ganisms, where at least 137 agents are known to cause the
+disease, such as Streptococcus agalactiae, Esherichia coli,
+
+* Abner J. Gutiérrez-Chávez
+
+ajgutierrez@ugto.mx; guca731023@hotmail.com
+
+Cynthia G. Sánchez-Felipe
+https://www.cobbysa.com.mx
+
+Fernanda Ledezma-García
+https://www.cobbysa.com.mx
+
+3 Campus Irapuato-Salamanca, División de Ciencias de la Vida,
+
+Departamento de Alimentos, Universidad de Guanajuato,
+36500 Irapuato, Guanajuato, Mexico
+
+4
+
+Instituto Politécnico Nacional, UPIIG, 36275 Silao, Guanajuato,
+Mexico
+
+5 Campus Irapuato-Salamanca, División de Ciencias de la Vida,
+
+Departamento de Veterinaria y Zootecnia, Universidad de
+Guanajuato, 36500 Irapuato, Guanajuato, Mexico
+
+1
+
+Estudiante de la Unidad Profesional Interdisciplinaria de Ingeniería
+Campus Guanajuato, Ingeniería Farmacéutica, IPN,
+36275 Silao, Guanajuato, Mexico
+
+6
+
+Estudiante de la Universidad de Guanajuato, Campus
+Irapuato-Salamanca, División de Ciencias de la Vida, Posgrado en
+Biociencias, 36500 Irapuato, Guanajuato, Mexico
+
+2 Campus Irapuato-Salamanca, División de Ciencias de la Vida,
+
+Posgrado en Biociencias, Universidad de Guanajuato,
+36500 Irapuato, Guanajuato, Mexico
+
+7 Consultoría en Biotecnología, Bioingeniería y Servicios Asociados,
+S. A. de C. V. (COBBYSA), 37548 San Miguel León, Guanajuato,
+Mexico
+
+among others. However, staphylococci remain the main etio-
+logical factor of bovine mastitis in many dairy herds (Sender
+et al. 2017). Staphylococcus aureus is considered an agent
+responsible for contagious intramammary infection (IMI) in
+cattle, which is of major interest due to the low cure rate of S.
+aureus infections by antibiotic treatment and its ability to per-
+sist in a herd in the form of undetected, subclinical infections
+(Sears and McCarthy 2003). Currently, the most common
+method of treatment of bovine mastitis is the administration
+of antibiotics. However, this kind of strategy has shown some
+disadvantages including: low cure rate, increasing occurrence
+of resistance, and the presence of antibiotics residues in the
+milk (Gomes and Henriques 2016). Another problem of hu-
+manity faces is the rapid increase of antibiotic resistance seen
+amongst pathogenic microorganisms (Michael et al. 2014),
+which is increased by the marked reduction in the develop-
+ment of novel antibiotics (Norrby et al. 2005).
+
+The necessity of identifying novel methods to combat in-
+fections caused by antibiotic resistant bacteria is increasing
+each year. In this sense, bacteriophage represent an excellent
+alternative to attack multi-resistant bacteria. Bacteriophages
+(phages) are viruses able to specifically infect and kill the host
+bacterial species (Haq et al. 2012). They coevolve with their
+hosts optimizing its spread and release mechanisms from the
+bacterial cell to the environment and cause (in the case of lytic
+bacteriophages) lysis of the bacteria. They are also a major
+driving force in S. aureus evolution as a pathogen since many
+virulence genes are mobilized between different strains by
+means of transduction (Xia and Wolz 2014). In this work,
+the objective was to determine for the first time, the efficacy
+of phage therapy to kill S. aureus strains obtained from farms
+located at the State of Guanajuato, México. This study dem-
+onstrated that 100% of antibiotic resistant S. aureus isolates
+were susceptible to phages used in this work.
+
+Material and methods
+
+Study area and herds
+
+The study was carried out in three municipalities from the
+State of Guanajuato, Mexico: Apaseo El Grande, Huanimaro
+and Silao, located in the central region of Mexico.
+Geographically, there are three climatic zones defined in
+Guanajuato with a pleasant climate with temperatures ranging
+from 11.7 to 24.2 °C, an average altitude of 2015 m above sea
+level, and annual average rainfall of 635 mm. Guanajuato is
+located at west longitude 99°40′–102°6′ and north latitude
+21°51′–19°55′. Three small commercial dairy herds were in-
+cluded in this study, which were selected for convenience
+based on the readiness to participate in the research and the
+existence of productive and reproductive data at the sampling
+time. The livestock facilities, nutritional system and practical
+
+Vet Res Commun
+
+management of cows, including milking, was similar among
+of them, and were classified as intensive production dairy
+herds, according to Villamar and Olivera (2005). Most herds
+were Holstein-Friesian breed type with different herd sizes.
+
+Animals and milk sampling
+
+Foremilk samples were collected for California Mastitis Test
+(CMT) scoring, evaluation of the milk appearance in all lac-
+tation cows, including a total of 454 animals, following the
+method described by Schalm and Noorlander (1957). To de-
+termine local signs of mastitis, milk color and consistency
+were assessed as normal or changed (flakes, clots and
+discoloration).
+
+Somatic cell count and bacteriological analysis
+
+The somatic cell count (SCC) of the milk was measured using
+a DeLaval cell counter DCC™ (DeLaval, Sweden) as de-
+scribed by Kawai et al. (2013). Once quarter by subclinical
+mastitis has been identified, teat was disinfected with swabs
+soaked in 70% (v/v) ethyl alcohol. Then, 10–15 mL milk
+samples were collected in sterile caped tubes and numbered,
+according to standard procedures by the National Mastitis
+Council (Hogan et al. 1999). Samples were immediately
+transported to the Microbiology laboratory under cold chain.
+Sixty milk samples from udder quarters affected by SCM
+were sent to microbiological analysis. Milk samples were se-
+−3) with PBS buffer (137 mM NaCl,
+rially diluted (10
+10 mM Na2HPO4, 2.7 mM KCl and 1.8 mM KH2PO4,
+pH 7.2). For isolation of S. aureus, diluted samples were in-
+oculated in Staph 110 (Merck™, Darmstadt, Germany) and
+incubated at 37 °C for 72 h in aerobic conditions. Culture
+plates that showed three or more different colonies, were
+discarded and registered as contaminated sample (Hogan et
+al. 1999). Preliminary selection of bacterial strains was carried
+out using colony morphology, color, and Gram stain; after
+that, isolates were grown in Luria-Bertani (LB) broth at
+37 °C for 72 h, and stocks were prepared in LB broth with
+20% (v/v) glycerol. Bacterial stocks were stored at −80 °C and
+used for further experiments.
+
+−1 to 10
+
+Microbial molecular typing
+
+Extraction of genomic DNA was carried out by picking one
+colony from fresh culture plate by using the PowerSoil®
+DNA Isolation Kit (Mo Bio Laboratories Inc., Carlsbad, CA,
+USA). The 16S rDNA was amplified by colony-PCR using 10
+pM of the universal oligonucleotide set that amplifies both
+bacterial domains: forward UBF 5’-AGAGTTTGATCCTG
+GCTGAG-3′ and reverse 1492 R5´-GGTTACCTTGTTAC
+GACTT-3′. For the amplification of 16S rDNA a proof fidelity
+enzyme (BioRad) was used under the following conditions:
+
+Vet Res Commun
+
+5 min at 95 °C; 30 cycles of 30 s at 95 °C, 30 s at 58 °C, and 1:
+30 min at 72 °C; and finally, 5 min at 72 °C. An aliquot of 5
+µL of amplicons was subjected to electrophoresis in 1% aga-
+rose gels and stained with ethidium bromide to visualize the
+amplified products.
+
+Antibiotic susceptibility testing
+
+Isolates were suspended in 5 mL LB broth at 37 °C to achieve
+an absorbance at 600 nm of ~ a 0.5 based on McFarland
+standard. Bacterial cultures were distributed uniformly on
+Mueller-Hinton agar (Difco, BD, Sparks, MD) by using sterile
+swabs, and susceptibilities to an assortment of antibiotics were
+determined by standard disk-diffusion assays for Gram-
+positive bacteria (Bio-Rad, Hercules, CA, USA). Zones of
+inhibition (in mm) were recorded after ∼18 h of incubation
+at 35–37 °C. The zones of inhibition were determined and
+compared with the standards of performance of the supplier
+to determine whether the tested strain was sensitive (S), inter-
+mediate (I), or resistant (R). Twelve antibiotics were used to
+test Gram-positive bacteria: Penicillin (PE), dicloxacillin
+(DC), pefloxacin (PEF), cefuroxime (CXM), gentamicin
+(GE), cefotaxime (CTX); sulfamethoxazole-trimethoprim
+(SXT), tetracycline (TE), ampicillin (AM), erythromycin
+(E), ceftazidime (CAZ), and cephalothin (CF).
+
+Bacteriophage isolation and propagation
+
+The isolation of bacteriophage was performed as described
+previously by Kutter and Sulakvelidze (Kutter and
+Sulakvelidze 2005) using apathogenic S. aureus strain. Two
+milk samples and udder skin scraping sterile cotton swab from
+diagnosed cows with clinical mastitis were obtained and cen-
+trifuged in a bench-top centrifuge at 10,000 g for 10 min to
+4 °C. The supernatant was filter-sterilized (0.22 μm pore di-
+ameter) and stored at 4 °C. The filtered supernatant was added
+in the 5 mL of LB broth with S. aureus apathogenic strain
+exponential middle phase and the samples were incubated to
+37 °C to 120 rpm. After 18 h, samples were centrifugated to
+3000 rpm for 10 min to eliminated residues of bacterial. Five
+chloroform drops were added to the supernatant and main-
+tained at 4 °C.
+
+To confirm the presence of phages and evaluated their
+lytic mechanism, the Spot Test method was carried out as
+described by Wommack et al. (2009). In brief, 100 μL of
+S. aureus apathogenic strain broth in the final exponential
+phase was subjected to plaque by extension in the LB
+solid agar. Samples were incubated at 37 °C for 24 h,
+and the lytic activities were registered by mean display
+of clear zone of inhibition. Four isolated strains of bacte-
+riophages were obtained, and their identification was
+done. Phages with the widest inhibition zone (lytic activ-
+ity) were selected to perform in vitro assays.
+
+Bacteriophage susceptibility analysis
+
+The phage range activity was determined by the the spot test
+method (Armon and Kott 1993) against the tweeny-seven dif-
+ferent isolates of S. aureus obtained in this work. The exper-
+imental groups were performed according to the three-
+different grade of purification of S. aureus phage lysate solu-
+tions in order to obtain the best purification procedure. Process
+1, low purification level (lysate 1); process 2, medium purifi-
+cation level (lysate 2); process 3, high purification level (lysate
+3). The experimental groups were performed using the three-
+different grade of purification of S. aureus phage lysate solu-
+tions and according to the factors that influence the phage
+efficiency in the udder: excipient (physiological saline solu-
+tion, PBS and propylene glycol), phage concentration (0.3, 0.5
+and 0.8 mL) and pH (5, 7 and 8). Soft agar (3–5 mL) with
+100 μL of an overnight bacterial culture and equal volume of
+CaCl2 (300 mM) were gently vortexed and spread on the
+surface of hard agar. Single drops of each phage lysate were
+spotted on the inoculated hard agar plates, and plates were
+incubated overnight at 30 °C (Wommack et al. 2009).
+Bacterial sensitivity was judged visually by spot clarity; clear
+(+) or no reaction (−). Assays were repeated in triplicate.
+
+Statistical analysis
+
+Data were analyzed with and analysis of variance (ANOVA)
+with a completely random factorial design. The model includ-
+ed four factors: lysate (three purified level phage), vehicle
+(three levels: saline solution, PBS and propylene glycol),
+phage concentration (three levels: 0.3, 0.5 and 0.8 mL) and
+pH (three levels: 5, 7 and 8); test was carried out in triplicated.
+Hence, the database was integrated for a total of 243 data (3
+lysates × 3 excipient × 3 concentrations × 3 pH’s × 3 replica-
+tions). In this model the first order interactions were evaluated,
+and the means comparison was done with the Tukey method
+(P < 0.05). Data were analyzed with the Statgraphics
+Centurion Program v.16.1.
+
+Results and discussion
+
+Bacterial isolates
+
+Using preliminary bacterial
+identification protocols, such
+as colony morphology, color, and Gram stain, it was ob-
+tained thirty-six putative S. aureus isolates (60%). Based
+on 16 s rDNA sequences, it was confirmed that isolates
+were S. aureus. These strains were catalase positive, and
+displayed response of mannitol sensitivity and β-hemolysis
+tests (24%).
+
+Similar result was mentioned by Salgado-Ruiz et al.
+(2015), which carry out a study in small farms in the highlands
+
+of Central Mexico and they found between 52 to 66% of milk
+samples were positive for S. aureus. Several reports have
+shown that this bacterium is an important pathogen responsi-
+ble for contagious intramammary infections (IMI) in cattle
+worldwide (Sears and McCarthy 2003), and remains as a mi-
+croorganism of central interest for the dairy industry and vet-
+erinary medicine in the herds.
+
+Antibiotic susceptibility patterns
+
+All tested isolates exhibited a perceptible degree of resistance
+to antibiotics. Tweenty four S. aureus isolated of this study
+(66.6%) showed resistance from six to nine antimicrobial
+agents, mostly to penicillin, dicloxacillin, cefotaxime, ampi-
+cillin and cephalothin while resistance to ten or more antimi-
+crobial agents was found in 12 isolates (33.3%). Only some S.
+aureus strains showed a low susceptibility (44–58%) to
+gentamycin, pefloxacin, sulfamethoxazole-trimethoprim and
+erythromycin. Special consideration showed S. aureus isolat-
+ed that were detected with intermediate susceptibility in a
+range of 10 to 32% (Table 1). The microorganisms were main-
+ly resistant to penicillin, dicloxacillin, cefotaxime, ampicillin
+and cephalothin (100%), while they showed resistance to tet-
+racycline and cefuroxime in 81 and 77%, respectively.
+
+The antimicrobial resistance level in this study was serious-
+ly high. In the present study, the highest rates of antimicrobial
+resistance were against to all β-lactam antibiotic group
+(Fig. 1), which are the most widely used antimicrobials in
+the treatment of bovine mastitis. Similar results were obtained
+by Zhang and Buckling (2012) who indicated that 94.8% of
+the S. aureus isolates were resistant to at least one antimicro-
+bial agent, particularly ampicillin and penicillin. León-Galván
+et al. (2015) and Barboza-Corona et al. (2009) found that 60 to
+90% of microorganisms isolated from clinical and subclinical
+bovine mastitis, were resistant to β-lactam antibiotics.
+According to Jensen and Lyon (2009) S. aureus resistance to
+multiple antimicrobial agents is driven by the acquisition of
+mobile genetic elements such as plasmids, transposable genet-
+ic elements (insertion sequences and transposons). These ge-
+netic elements incorporate preformed antimicrobial resistance
+determinants and are exchanged between bacterial strains/
+species via horizontal gene transfer. Since 1940’s it was dem-
+onstrated the original penicillin-resistant strains through ac-
+tion of β-lactamase, which hydrolyzed β-lactam ring of this
+antibiotic class. Today, is known that the β-lactamase struc-
+tural gene (blaZ) is present on Tn552-like transposons or rem-
+nants thereof. These elements are commonly carried by β-
+lactamase/heavy-metal resistance plasmids. Chromosomal-
+mediated resistance could result from integration of plasmids
+carrying Tn552-like elements or from only insertion of these
+elements (Jensen and Lyon 2009).
+
+In Mexico, it is very common that, at the end of period of
+lactation in dairy cattle, farmers use a prophylactic dose of
+
+Vet Res Commun
+
+antibiotics (i.e., penicillin and cephalosporins) into the udder
+(León-Galván et al. 2015). Although the use of antibiotics to
+prevent mastitis is a common practice, it is obvious that this
+procedure might generate penicillin-resistant microorganisms
+(Rushton et al. 2014). Furthermore, uncontrolled use of anti-
+biotics for therapeutic and nutritive purposes has brought
+about the emergence of pathogenic bacteria resistant to most
+of currently available antimicrobial agents (Brnakova and
+Godany 2005). Antibiotic resistance in S. aureus is also a
+growing concern, with the overall rates of antimicrobial resis-
+tance in bovine S. aureus isolates varying widely by region
+(Makovec and Ruegg 2003; Pitkala et al. 2004; Sabour et al.
+2004). The main explanation of this is because the treatment
+of Staphylococcus infections, which is largely based on anti-
+biotics, bacteria are increasingly acquiring resistance to com-
+monly used drugs (Zhang et al. 2016). More than a decade
+ago, the Center of Disease Control (CDC) (2008) reported that
+approximately 95% of hospital staphylococcal (‘staph’) infec-
+tions failed to respond to first-line antibiotics. The need for a
+better knowledge about encoded bacterial resistance systems,
+their prevalence and genetic variation, and establishment of
+collections of bacteria containing as large part of this variation
+it is very important (Khan and Nilsson 2015). Therefore, this
+suggests that genetic background and their susceptibility pat-
+tern may be considered for the design of modern strategies to
+control of S. aureus infections in the dairy farms (Barrera-
+Rivas et al. 2017).
+
+Bacteriophage susceptibility
+
+The effect of phage infection on isolates obtained in this study
+was observed in the 100% of S. aureus samples by mean
+display of clear zone of inhibition. It was showed a global
+mean of 17.5 mm of inhibition diameter (Table 2). The lytic
+activity of bacteriophages solution seems like more suitable
+used in this study showed a variable range of inhibition diam-
+eter from 10.4 to 23.3 mm according to different factor and
+levels evaluated, however all of them registered significant
+differences (p < 0.01) (Table 2). It is necessary to emphasize
+that the solution that registered the widest inhibition halo
+(23.3 mm) was phage prepared solution corresponding to the
+highest grade of purification (lysate solution No. 3, propylene
+glycol excipient 3, high concentration (0.8 mL), and alkaline
+pH (8.0) (p < 0.000). The development of clear zones of lysis
+against S. aureus using specific phage lysate, clearly indicated
+that the phage was lytic. These in vitro results indicated that
+the use of bacteriophage to control S. aureus could be an
+alternative for bovine subclinical mastitis cases, which should
+be tested in further studies.
+
+One of the alternative approaches of how eliminate patho-
+gens from the mammary gland is the use of bacteriophages
+(Brnakova and Godany 2005). Several studies carried out in in
+vitro, murine and in vivo or clinical assays have been
+
+Vet Res Commun
+
+Table 1 S. aureus strains isolated
+from dairy cattle and their
+susceptibility to antibiotics
+
+S. aureus
+
+Antibiotics
+
+Number
+
+PE
+
+DC
+
+PEF
+
+CXM
+
+GE
+
+CTX
+
+SXT
+
+TE
+
+AM
+
+SA1
+SA2
+SA3
+SA4
+SA5
+SA6
+SA7
+SA8
+SA9
+SA10
+SA11
+SA12
+SA13
+SA14
+SA15
+SA16
+SA17
+SA18
+SA19
+SA20
+SA21
+SA22
+SA23
+SA24
+SA25
+SA26
+SA27
+SA28
+SA29
+SA30
+SA31
+SA32
+SA33
+SA34
+SA35
+SA36
+
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+
+S
+S
+I
+S
+I
+R
+I
+S
+S
+I
+S
+S
+I
+S
+S
+S
+S
+I
+R
+R
+S
+R
+S
+S
+I
+S
+S
+S
+R
+I
+S
+S
+S
+I
+S
+I
+
+I
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+I
+R
+R
+R
+S
+R
+R
+R
+R
+R
+R
+I
+R
+R
+S
+I
+R
+R
+R
+R
+
+S
+I
+R
+R
+R
+R
+S
+S
+S
+R
+S
+S
+I
+S
+S
+S
+S
+S
+R
+S
+S
+R
+I
+R
+S
+S
+S
+S
+R
+S
+S
+S
+I
+R
+R
+R
+
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+
+S
+R
+R
+R
+R
+R
+R
+S
+S
+R
+I
+I
+R
+I
+S
+S
+S
+S
+R
+R
+S
+R
+I
+R
+S
+R
+S
+I
+R
+R
+S
+S
+R
+R
+R
+R
+
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+I
+I
+R
+I
+R
+R
+S
+R
+R
+R
+R
+R
+I
+R
+R
+R
+S
+R
+R
+R
+R
+R
+
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+
+E
+
+S
+S
+S
+I
+R
+R
+R
+S
+I
+S
+R
+S
+S
+R
+S
+S
+R
+I
+R
+R
+S
+R
+R
+R
+R
+S
+S
+R
+R
+R
+S
+S
+S
+S
+I
+R
+
+CAZ
+
+CF
+
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+
+R resistant, S susceptible, I intermediate, PE Penicillin, DC dicloxacillin, PEF pefloxacin, CXM cefuroxime, GE
+gentamicin, CTX cefotaxime, SXT sulfamethoxazole-trimethoprim, TE tetracycline, AM ampicillin, E erythromy-
+cin, CAZ ceftazidime, CF cephalothin
+
+demonstrated important results by means the high efficacy of
+the bacteriophages on S. aureus isolated from bovine mastitis
+(Capparelli et al. 2007; Kwiatek et al. 2012; Schmelcher et al.
+2012; Mishra et al. 2013; Hamza et al. 2016; Becker et al.
+2016; Fan et al. 2016). Similar results were obtained for staph-
+ylococcal isolates from bovine mastitis and human’s hand
+samples with high frequency of antibiotic resistance obtained
+from small farms in the highlands of Central Mexico, which
+
+were tested against members of two phage families
+[Siphoviridae (phi11, phiIPLA88 and phiIPLA35) and
+Myoviridae (phiIPLA-RODI and phiIPLA-C1C)]. The in
+vitro effectivity of bacteriophage to infect and lyse the S.
+aureus isolates, showed and important percentage of efficacy
+of inhibition growth of S. aureus isolated; however, it was
+mentioned a phage-resistance event from two S. aureus
+human’s hand isolates (Salgado-Ruiz et al. 2015).
+
+Vet Res Commun
+
+Fig. 1 Percentage of sensitivity in vitro by standard disk diffusion
+(BioRad®) of different antibiotics against to S. aureus strains isolated
+from bovine mastitis. Graphic bars represent the percentage of sensitive
+(white), intermediate (grey), or resistant (black). Penicillin (PE),
+
+dicloxacillin (DC), pefloxacin (PEF), cefuroxime (CXM), gentamicin
+(GE), cefotaxime (CTX), sulfamethoxazole-trimethoprim (SXT), tetracy-
+cline (TE), ampicillin (AM), erythromycin (E), ceftazidime (CAZ), ceph-
+alothin (CF)
+
+Zoonotic transfer of pathogenic bacteria, either through
+direct contact or via the food chain, represents a serious threat
+to public health (Boss et al. 2015), which is also particularly
+true for zoonotic pathogens such as S. aureus that may infect
+humans (Chroboczek et al. 2013) or that display resistance to
+antimicrobials used in humans (Garcia-Alvarez et al. 2011;
+Leverstein-van Hall et al. 2011). The treatment of bacterial
+infections could benefit from our extensive knowledge of
+the genetics and evolution of antibiotic resistance, coupled
+with a promising alternative therapeutic agent that could act
+as a powerful enhancer (Torres-Barceló and Hochberg 2016).
+
+Conclusion
+
+The pathological role of S. aureus in bovine mastitis has in-
+creased inevitably and there is an urgent need to highlight the
+threat to both animal and human health. However, the in vitro
+susceptibility of S. aureus isolated from subclinical mastitis
+cases to phage infection was of 100% of efficacy in this study.
+Alternative approaches based on bacteriophages has proved to
+be useful as potential tool to eliminate the pathogen from
+cattle, particularly, the several problems associated with the
+control of bovine mastitis using phage therapy and can
+
+Table 2 Antimicrobial
+susceptibility of 27 S. aureus
+strains isolated from subclinical
+bovine mastitis by Spot test using
+three bacteriophage prepared
+solution
+
+Factor
+Global mean
+
+Level
+All
+
+Number
+243
+
+Lysate
+
+Excipient
+
+Concentration
+
+pH
+
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+2
+3
+
+81
+81
+81
+81
+81
+81
+81
+81
+81
+81
+81
+81
+
+Mean
+17.5761
+
+13.0
+18.4198
+21.3086
+18.3333
+21.8272
+12.5679
+10.4568
+18.8889
+23.3827
+14.963
+18.5432
+19.2222
+
+Lower limit
+
+Upper limit
+
+P-value
+
+11.3644
+16.7842
+19.6731
+16.6978
+20.1916
+10.9323
+8.82123
+17.2533
+21.7472
+13.3274
+16.9077
+17.5867
+
+14.6356
+20.0553
+22.9442
+19.9689
+23.4627
+14.2035
+12.0923
+20.5244
+25.0183
+16.5985
+20.1788
+20.8578
+
+0.000
+
+0.000
+
+0.000
+
+0.006
+
+Lysate (three purified phages level), excipient (1: saline solution, 2:PBS and 3:propylene glycol), phage concen-
+tration (1: 0.3, 2:0.5 and 3:0.8 mL) and pH (1:5, 2:7 and 3:8)
+Means by least squares (with 95.0% confidence intervals)
+
+Vet Res Commun
+
+represent an alternative to conventional antibiotic control of
+multi-resistance bacterial infections. Our in vitro studies
+showed encouraging results but more tests, namely in vivo,
+are still critical and this is probably a result of the shortage of
+more in-depth research.
+
+Acknowledgments The authors thank students and colleagues of
+University of Guanajuato and Promoción de la Cultura y la Educación
+Superior del Bajío, A.C for their technical support during this study. They
+appreciate the contribution of the producers to this study as well.
+
+Funding This research was supported by Grants from CONACyT 2017
+(PEI-241362) and Consultoría en Biotecnología, Bioingeniería y
+Servicios Asociados, S.A de C.V. (COBBYSA).
+
+Compliance with ethical standards
+
+Animal studies Animal studies were carried out humanely and accord-
+ing to national and international Animal Care and Use Committee
+protocols.
+
+Conflict of interests All the authors declare no conflict of interest re-
+garding this manuscript.
+
+References
+
+Armon R, Kott Y (1993) A simple, rapid and sensitive presence/absence
+detection test for bacteriophage in drinking water. J Appl Bacteriol
+74:490–496
+
+Barboza-Corona JE, de la Fuente-Salcido N, Alva-Murillo N, Ochoa-
+Zarzosa A, Lopez-Meza JE (2009) Activity of bacteriocins synthe-
+sized by Bacillus thuringiensis against Staphylococcus aureus iso-
+lates associated to bovine mastitis. Vet Microbiol 138:179–183
+
+Barrera-Rivas CI, Valle-Hurtado NA, González-Lugo GM, Baizabal-
+Aguirre VM, Bravo-Patiño A, Cajero-Juárez M, Valdez-Alarcón JJ
+(2017) Bacteriophage therapy: an alternative for the treatment of
+Staphylococcus aureus infections in animals and animal models.
+In: Enany S (Ed) Frontiers in Staphylococcus aureus, InTech,
+https://doi.org/10.5772/65761
+
+Becker SC, Roach DR, Chauhan VS, Shen Y, Foster-Frey J, Powell AM,
+Bauchan G, Lease RA, Mohammadi H, Harty WJ, Simmons C,
+Schmelcher M, Camp M, Dong S, Baker JR, Sheen TR, Doran
+KS, Pritchard DG, Almeida RA, Nelson DC, Marriott I, Lee JC,
+Donovan DM (2016) Triple-acting lytic enzyme treatment of drug-
+resistant and intracellular Staphylococcus aureus. Sci Rep 6:25063.
+https://doi.org/10.1038/srep25063
+
+Boss R, Cosandey A, Luini M, Artursson K, Bardiau M, Breitenwieser F,
+Hehenberger E, Lam T, Mansfeld M, Michel A, Mösslacher G,
+Naskova J, Nelson S, Podpečan O, Raemy A, Ryan E, Salat O,
+Zangerl P, Steiner A, Graber HU (2015) Bovine Staphylococcus
+aureus: subtyping, evolution, and zoonotic transfer. J Dairy Sci
+99(1):515–528. https://doi.org/10.3168/jds.2015-9589
+
+Brnakova Z, Godany JF (2005) The use of bacteriophages in eliminating
+Polyresistant strains of Staphylococcus aureus and Streptococcus
+agalactiae. Folia Microbiol 50(3):187–194
+
+Capparelli R, Parlato M, Borriello G, Salvatore P, Iannelli D (2007)
+Experimental phage therapy against Staphylococcus aureus in mice.
+Antimicrob Agents Chemother 51:2765–2773. https://doi.org/10.
+1128/AAC.01513-06
+
+Centers for Disease Control, Prevention (2008) Overview of health care
+associated MRSA. Department of Health and Human Services, U.S.
+
+Chroboczek T, Boisset S, Rasigade JP, Tristan A, Bes M, Meugnier H,
+Vandenesch F, Etienne J, Laurent F (2013) Clonal complex 398
+methicillin susceptible Staphylococcus aureus: a frequent unspecial-
+ized human pathogen with specific phenotypic and genotypic char-
+acteristics. PLoS One 8:e68462
+
+Fan J, Zeng Z, Mai K, Yang Y, Feng J, Bai Y, Sun B, Xie Q, Tong Y, Ma J
+(2016) Preliminary treatment of bovine mastitis caused by
+Staphylococcus aureus, with Trx-SA1, recombinant endolysin of
+S. aureus bacteriophage IME-SA1. Vet Microbiol 191:65–71.
+https://doi.org/10.1016/j.vetmic.2016.06.001
+
+Garcia-Alvarez L, Holden MT, Lindsay H, Webb CR, Brown DF, Curran
+MD, Walpole E, Brooks K, Pickard DJ, Teale C, Parkhill J, Bentley
+SD, Edwards GF, Girvan EK, Kearns AM, Pichon B, Hill RL,
+Larsen AR, Skov RL, Peacock SJ, Maskell DJ, Holmes MA
+(2011) Methicillin resistant Staphylococcus aureus with a novel
+mecA homologue in human and bovine populations in the UK and
+Denmark: a descriptive study. Lancet Infect Dis 11:595–603
+
+Gomes F, Henriques M (2016) Control of bovine mastitis: old and recent
+therapeutic approaches. Curr Microbiol 72:377–382. https://doi.org/
+10.1007/s00284-015-0958-8
+
+Halasa T, Huijps K, Osteras O, Hogeveen H (2007) Economic effects of
+
+bovine mastitis and mastitis management. Vet Q 29:18–31
+
+Hamza A, Perveen S, Abbas Z, Rehman SU (2016) The lytic SA phage
+demonstrate bactericidal activity against mastitis causing
+Staphylococcus aureus. Open Life Sci 11:39–45. https://doi.org/
+10.1515/biol-2016-0005
+
+Haq IU, Chaudhry WN, Akhtar MN, Andleeb S, Qadri I (2012)
+Bacteriophages and their implications on future biotechnology: a
+review. Virol J 9:9. https://doi.org/10.1186/1743-422X-9-9
+
+Hogan JS, Gonzales RN, Harmon RJ, Nickerson SC, Oliver SP, Smith
+KL (1999) Laboratory handbook on bovine mastitis. National
+Mastitis Council Inc, Madison
+
+Jensen SO, Lyon RB (2009) Genetic of antimicrobial resistance in
+
+Staphylococcus aureus. Future Microbiol 4(5):565–582
+
+Kawai K, Hayashi T, Kiku Y, Chiba T, Nagahata H, Higuchi H, Obayashi
+T, Itoh S, Onda K, Arai S, Sato R, Oshida T (2013) Reliability in
+somatic cell count measurement of clinical mastitis milk using
+DeLaval cell counter. Anim Sci J 84:805–807
+
+Khan MM, Nilsson AS (2015) Isolation of phages for phage therapy: a
+comparison of spot tests and efficiency of plating analyses for de-
+termination of host range and efficacy. PLoS One 10(3):e0118557
+Kutter E, Sulakvelidze A (2005) Bacteriophage therapy in humans. In:
+Kutter E, Sulakvelidze A (eds) Bacteriophages: biology and appli-
+cations. CRC Press, Boca Raton, pp 377–428
+
+Kwiatek M, Parasion S, Mizak L, Gryko R, Bartoszcze M, Kocik J (2012)
+Characterization of a bacteriophage, isolated from a cow with mas-
+titis, that is lytic against Staphylococcus aureus strains. Arch Virol
+157:225–234. https://doi.org/10.1007/s00705-011-1160-3
+
+León-Galván MF, Barboza-Corona JE, Lechuga-Arana AA, Valencia-
+Posadas M, Aguayo DD, Cedillo-Pelaez C, Martínez-Ortega EA,
+Gutierrez-Chavez AJ (2015) Molecular detection and sensitivity to
+antibiotics and bacteriocins of pathogens isolates from bovine mas-
+titis in family dairy herds of central Mexico. Biomed Res Int 2015:
+615153–615159. https://doi.org/10.1155/2015/615153
+
+Leverstein-van Hall MA, Dierikx CM, Cohen SJ, Voets GM, van den
+Munckhof MP, van Essen-Zandbergen A, Platteel T, Fluit AC,
+Sande-Bruinsma N, Scharinga J, Bonten MJ, Mevius DJ (2011)
+Dutch patients, retail chicken meat and poultry share the same
+ESBL genes, plasmids and strains. Clin Microbiol Infect 17:873–880
+Makovec JA, Ruegg PL (2003) Antimicrobial resistance of bacteria iso-
+lated from dairy cow milk samples submitted for bacterial culture: 8,
+905 samples (1994–2001). J Am Vet Med Assoc 222:1582–1589
+
+Michael CA, Dominey-Howes D, Labbate M (2014) The antimicrobial
+resistance crisis: causes, consequences, and management. Front
+Public Health 2:145. https://doi.org/10.3389/fpubh.2014.00145
+
+Mishra AK, Rawat M, Viswas KN, Abhishek KS, Reddy M (2013)
+Expression and lytic efficacy assessment of the Staphylococcus
+aureus phage SA4 lysin gene. J Vet Sci 14:37–43
+
+Norrby SR, Nord CE, Finch R (2005) Lack of development of new
+antimicrobial drugs: a potential serious threat to public health.
+Lancet Infect Dis 5:115–119. https://doi.org/10.1016/S1473-
+3099(05)01283-1
+
+Pitkala A, Haveri M, Pyorala S, Myllys V, Honkanen-Buzalski T (2004)
+Bovine mastitis in Finland 2001—prevalence, distribution of bacte-
+ria, and antimicrobial resistance. J Dairy Sci 87:2433–2441
+
+Rushton J, Pinto Ferreira J, Stark KD (2014) Antimicrobial resistance: the
+
+use of antimicrobials. OECD Food, Agric Fish Papers 68
+
+Sabour PM, Gill JJ, Lepp D, Pacan JC, Ahmed R, Dingwell R, Leslie K
+(2004) Molecular typing and distribution of Staphylococcus aureus iso-
+lates in eastern Canadian dairy herds. J Clin Microbiol 42:3449–3455
+Salgado-Ruiz TB, Rodríguez A, Gutiérrez D, Martínez B, García P,
+Espinoza-Ortega A, Martínez-Campos AR, Lagunas-Bernabé S,
+Vicente F, Arriaga-Jordán CM (2015) Molecular characterization
+and antimicrobial susceptibility of Staphylococcus aureus from
+small-scale dairy systems in the highlands of Central México.
+Dairy Sci Technol 95:181–196
+
+Schalm O, Noorlander D (1957) Experiments and observations leading to
+the development of California mastitis test. J Am Vet Med Assoc
+130(5):199–204
+
+Schmelcher M, Powell AM, Becker SC, Camp MJ, Donovan DM (2012)
+Chimeric phage lysins act synergistically with lysostaphin to kill
+mastitis-causing Staphylococcus aureus in murine mammary
+
+Vet Res Commun
+
+glands. Appl Environ Microbiol 78:2297–2305. https://doi.org/10.
+1128/AEM.07050-11
+
+Sears PM, McCarthy KK (2003) Management and treatment of staphy-
+lococcal mastitis. Vet Clin North Am Food Anim Pract 19:171–185
+Sender G, Pawlik A, Korwin-Kossakowska A (2017) Current concepts
+on the impact of coagulase-negative staphylococci causing bovine
+mastitis as a threat to human and animal health – a review. Anim Sci
+Paper Rep 35(2):123–135
+
+Torres-Barceló C, Hochberg ME (2016) Evolutionary rationale for phages as
+
+complements of antibiotics. Trends Microbiol 24(4):249–256
+
+Villamar AL, Olivera CE (2005) Situacion Actual y Perspectiva de la
+Produccion de Leche de Bovino en Mexico, Coordinacion General
+de Ganaderıa. Secretarıa de Agricultura, Ganaderıa, Desarrollo
+Rural, Pesca y Alimentacion, Mexico City, Mexico
+
+Wommack KE, Williamson KE, Helton RR, Bench SR, Winget DM
+(2009) Methods for the isolation of viruses from environmental
+samples. Methods Mol Biol 501:3–14
+
+Xia G, Wolz C (2014) Phages of Staphylococcus aureus and their impact
+on host evolution. Infect Genet Evol 21:593–601. https://doi.org/10.
+1016/j.meegid.2013.04.022
+
+Zhang QG, Buckling A (2012) Phages limit the evolution of bacterial antibi-
+
+otic resistance in experimental microcosms. Evol Appl 5:575–582
+
+Zhang L, Li Y, Bao H, Wei R, Zhou Y, Zhang H, Wang R (2016)
+Population structure and antimicrobial profile of Staphylococcus
+aureus strains associated with bovine mastitis in China. Microb
+Pathog 97:103e109
+
+

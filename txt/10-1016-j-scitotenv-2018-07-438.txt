@@ -1,0 +1,1778 @@
+Science of the Total Environment 647 (2019) 362–368
+
+Contents lists available at ScienceDirect
+
+Science of the Total Environment
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / s c i t o t e n v
+
+Escherichia coli used as a biomarker of antimicrobial resistance in pig
+farms of Southern Brazil
+Maiara Cristiane Brisola a,⁎, Regiane Boaretto Crecencio a, Dinael Simão Bitner b, Angélica Frigo b,
+Luana Rampazzo b, Lenita Moura Stefani c, Gláucia Amorim Faria d
+a Post Graduation Program in Animal Science, State University of Santa Catarina (UDESC), Western Center of Education, Chapecó, Santa Catarina, Brazil
+b Graduate in Animal Science, State University of Santa Catarina (UDESC), Western Center of Education, Chapecó, Santa Catarina, Brazil
+c Department of Animal Science, State University of Santa Catarina (UDESC), Western Center of Education, Chapecó, Santa Catarina, Brazil
+d Department of Mathematics, Paulista State University Júlio de Mesquita Filho (UNESP), Ilha Solteira, São Paulo, Brazil
+
+H I G H L I G H T S
+
+G R A P H I C A L A B S T R A C T
+
+• Prevalence of E. coli in fecal, water and
+soil samples of swine farms from South-
+ern Brazil
+
+• Phenotypic proﬁle of resistance and
+multiresistance of strains of E. coli to
+ﬁve classes of antimicrobials
+
+• Detection of Extended Spectrum Beta-
+
+lactamases (ESBLs) in E. coli strains
+
+• Coexistence of ESBLs and qnr genes in
+phenotypically ESBL-producing isolates
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 29 March 2018
+Received in revised form 29 May 2018
+Accepted 30 July 2018
+Available online 31 July 2018
+
+Editor: Henner Hollert
+
+Keywords:
+Escherichia coli
+ESBLs
+Fecal contamination
+Fluoroquinolones
+Resistance
+
+The objective of this study was to verify the presence of antimicrobial resistant strains of Escherichia coli in pig
+farms and to use it as a biomarker to evaluate phenotypic and genotypic proﬁles of antimicrobial susceptibility,
+as well as the presence of Extended Spectrum Beta-lactamases (ESBLs) and ﬂuoroquinolone resistance genes.
+Several samples (n = 306) collected from swine farms (n = 100) of Southern Brazil were used for E. coli isola-
+tion: 103 of swine feces, 105 of water, and 98 of soil. E. coli isolates were submitted to the disk-diffusion test to
+verify their antimicrobial susceptibility, to disk-approximation test to detect ESBL-producers, and to PCR analysis
+to search for ESBLs genes (blaCTY-M2, blaSHV-1, blaTEM-1, blaCTX-M2, blaOXA-1, blaPSE-1) and quinolone resis-
+tance genes (qnrA, qnrB and qnrS). The percentage of E. coli isolates found in feces, water and soil samples was
+66.02%, 30.48% and 35.71%, respectively. The highest percentages of resistance were obtained for sulfamethoxa-
+zole associated with trimethoprim (63.70%), colistin (45.19%) and enroﬂoxacin (39.26%). Regarding the levels of
+multidrug resistance, 37.04% of the isolates were resistant to three or more classes of antimicrobials. The most
+common proﬁle (16%) of multirresistance was GEM-SUT-ENO-COL. The index of multiple resistance to antimi-
+crobials (IRMA) was above 0.2 in 78% of the multiresistant isolates. Out of 135 E. coli isolates, 7.41% was ESBL-
+producers, of which 50% showed the blaCMY-M2 gene, 40% the blaTEM-1 and 70% the qnrS gene. Of non-ESBL-
+producing strains resistant to enroﬂoxacin, 13.04% were positives for qnrS gene. These results demonstrated
+
+⁎ Corresponding author at: State University of Santa Catarina, Street Beloni Trombeta Zanin, 680E, Chapecó city, Santa Catarina State 89815630, Brazil.
+
+E-mail address: maiarabrisola@yahoo.com.br (M.C. Brisola).
+
+https://doi.org/10.1016/j.scitotenv.2018.07.438
+0048-9697/© 2018 Elsevier B.V. All rights reserved.
+
+M.C. Brisola et al. / Science of the Total Environment 647 (2019) 362–368
+
+363
+
+the presence of fecal contamination in the environment, in addition to high resistance indexes for several antimi-
+crobials, including beta-lactams and ﬂuoroquinolones, which was conﬁrmed by the genetic detection of ESBLs
+and qnr genes.
+
+© 2018 Elsevier B.V. All rights reserved.
+
+1. Introduction
+
+Brazil is one of the largest animal protein producer, with 3.3 million tons
+of pork meat produced in 2017, where 600 thousand tons were exported to
+more than 70 different countries (ABPA, 2017). In 2016, the state of Santa
+Catarina (Southern Brazil) accounted for 38% of all exported Brazilian
+pork meat (EPAGRI, 2017). However, high concentration of animal produc-
+tion can lead to environmental problems, such as soil saturation caused by
+animal waste and also soil and water contamination by pathogenic micro-
+organisms (Silva et al., 2015).
+
+Contaminated water and soil may spread pathogenic microorgan-
+isms, and the bacterium Escherichia coli can be used as a biomarker of
+environmental contamination. E. coli is a commensal microorganism
+of the gastrointestinal tract of humans and many animals that can
+cause diseases and the spread antimicrobial resistance genes (Caldorin
+et al., 2013). It is indicated as a biomarker due to its abundance and di-
+rect contact with the gastrointestinal tract of animals, being susceptible
+to all environmental conditions of this organ, such as feed, additives and
+performance enhancers (Rochelle-Newall et al., 2015).
+
+Recently, bacteria isolated from many environments have been
+identiﬁed as important reservoirs of resistance genes that can be
+transferred to other pathogens through mobile elements, such as
+genes that encode the production of Extended Spectrum Beta-
+lactamases (ESBLs), confering resistance to beta-lactam antibiotics
+(Jiang et al., 2011). These same mobile elements confer resistance
+to quinolones and ﬂuoroquinolones through genes encoding the
+production of proteins capable of protecting the bacterium from
+drug action (Yeh et al., 2017).
+
+Cephalosporins and ﬂuoroquinolones are widely used in human and
+animal medicine and are classiﬁed as “critically important antimicro-
+bials” by the World Health Organization (WHO, 2014). Although Santa
+Catarina State has been a state with a large pork meat production for
+many decades, little is known regarding its antimicrobial resistance sta-
+tus. In this sense, the objective of this work was to isolate E. coli from
+feces, water and soil of farms with swine production in order to evaluate
+its phenotypic proﬁle of antimicrobial susceptibility, as well as to corre-
+late the presence of ESBLs and qnr genes in beta-lactam and ﬂuoroquin-
+olone resistant strains of E. coli.
+
+2. Materials and methods
+
+2.1. Sampling and E. coli isolation
+
+A total of 306 samples were collected from March 2016 to May 2017
+(103 samples of swine feces, 105 of water and 98 samples of soil) from
+rural farms (n = 100) with pork production in many cities (n = 20) of
+Santa Catarina state, mainly in the municipalities of Seara and
+Xavantina, where the highest volume of meat production takes place
+(EPAGRI, 2017). The identiﬁcation and origin of the samples are de-
+scribed in Tables 3, 4 and 5. The samples were conditioned in sterilized
+bottles and transported under refrigeration to the laboratory. E.coli iso-
+lation was performed according to the technique of Quinn et al. (2005)
+with some adaptations, where the samples were incubated in lactosate
+broth (1:10) for 24 h at 36 ± 1 °C. They were then seeded in petri dishes
+containing Eosin Methylene Blue Agar (EMB) and MacConkey Agar and
+incubated at 36 ± 1 °C for 24 h. The colonies with green metallic char-
+acteristics on EMB Agar and pink on MacConkey Agar were submitted
+to biochemical tests (Urea Base Agar, TSI Agar, Sim Medium Agar and
+Agar Simmons Citrate) and subsequently incubated at 36 ± 1 °C for
+24 h. After biochemical conﬁrmation of the colony as E. coli, it was incu-
+bated in microtubes containing Tryptone Soya Agar medium at 36 ± 1
+°C for 24 h and stored −20 °C after the addition of steril glycerol.
+
+2.2. Antimicrobial susceptibility test
+
+For the antimicrobial susceptibility test, the methodology approved
+by the Clinical and Laboratory Standards Institute (CLSI, 2018) and the
+National Agency for Sanitary Surveillance (ANVISA, 2003) was used,
+which is included in the Normative Instruction M-2 A-8 Antimicrobial
+Susceptibility by Disk Diffusion, where ﬁve classes of antimicrobials
+(ATBs) with different mechanisms of action were tested, with the se-
+lected antimicrobials commonly used in swine production in Brazil:
+beta-lactams (amoxicillin associated with clavulanic acid 30 μg - AMC)
+and third-generation cephalosporin (ceftiofur 30 μg - CTF),
+ﬂuoroquinolones (enroﬂoxacin 5 μg - ENO), aminoglycosides (gentami-
+cin 10 μg - GEM), sulfonamides (trimethoprim associated with sulfa-
+methoxazole 25 μg - SUT) and polymyxins (colistin 10 μg - COL) by
+
+Table 1
+Genes of resistance related to extended-spectrum beta-lactamases (ESBLs), primers, conditions for their ampliﬁcation and sizes of each expected fragment (bp).
+
+Gene
+
+blaCMY-2
+
+blaSHV-1
+
+blaTEM-1
+
+blaCTX-M2
+
+blaOXA-1
+
+blaPSE-1
+
+AmpC
+
+Nucleotide sequence
+
+(F) TGG CCG TTG CCG TTA TCT AC
+(R) CCC GTT TTA TGC ACC CAT GA
+(F) GGC CGC GTA GGC ATG ATA GA
+(R) CCC GGC GAT TTG CTG ATT TC
+(F) CAG CGG TAA GAT CCT TGA GA
+(R) ACT CCC CGT CGT GTA GAT AA
+(F) GGC GTT GCG CTG ATT AAC AC
+(R) TTG CCC TTA AGC CAC GTC AC
+(F) AAT GGC ACC AGA TTC AAC TT
+(R) CTT GGC TTT TAT GCT TGA TG
+(F) TGC TTC GCA ACT ATG ACT AC
+(R) AGC CTG TGT TTG AGC TAG AT
+(F) AAC ACA CTG ATT GCG TCT GAC
+(R) CTG GGC CTC ATC GTC AGT TA
+
+PCR conditions
+95 °C - 10 min; 95 °C - 30 s; 55 °C - 1 min; 72 °C - 1 min; 72 °C - 7 min; 4 °C - ∞
+
+Cycles
+
+30
+
+bp
+
+870
+
+714
+
+643
+
+486
+
+595
+
+438
+
+95 °C – 9.5 min; 95 °C – 45 s; 59 °C - 45 s; 72 °C - 1 min; 72 °C - 7 min; 4 °C - ∞
+
+40
+
+1226
+
+364
+
+M.C. Brisola et al. / Science of the Total Environment 647 (2019) 362–368
+
+Table 2
+Genes of the qnr family related to ﬂuoroquinolone resistance, primers, conditions for their ampliﬁcation and expected fragment sizes (bp).
+
+Gene
+
+qnrA
+
+qnrB
+
+qnrS
+
+Nucleotide sequence
+
+(F) TCAGCAAGAGGATTTCTCA
+(R) GGCAGCACTATTACTCCCA
+(F) GATCGTGAAAGCCAGAAAGG
+(R) ACGATGCCTGGTAGTTGTCC
+(F) ACGACATTCGTCAACTGCAA
+(R) TAAATTGGCACCCTGTAGGC
+
+Conditions for PCR
+94 °C – 5 min; 94 °C - 45 s; 48 °C - 45 s; 72 °C – 1 min; 72 °C – 5 min; 4 °C - ∞
+
+94 °C – 5 min; 94 °C - 45 s; 53 °C - 45 s; 72 °C – 1 min; 72 °C – 5 min; 4 °C - ∞
+
+Cycles
+
+32
+
+32
+
+bp
+
+627
+
+469
+
+417
+
+the company DME® (Specialized Microbiological Diagnostics). After
+24 h of incubation, the halo of bacterial growth inhibition was mea-
+sured, and the bacterium was classiﬁed according to the tables de-
+scribed by CLSI (2018) as resistant, intermediate or susceptible. A
+sample of E. coli ATCCA® 25922 was used as control.
+
+ceftriaxone (CRO) (30 μg) and cefepime (CPM) (30 μg), were subse-
+quently incubated at 37 °C ± 1 for 24 h. A sample of E. coli ATCC®
+25922 was used as control. After incubation, strains positives for ESBLs
+were veriﬁed by the presence of a “ghost zone”, represented by the en-
+largement of the zone of inhibition between the disks used.
+
+2.3. Multiple Drug Resistance (MDR) and Multiple Antimicrobial Resistance
+Index (IRMA)
+
+The most prevalent multidrug resistance (MDR) proﬁles were also
+observed from disk-diffusion data, where it was possible to determine
+the number of E. coli isolates that were considered multiresistant (con-
+comitant resistance to three or more classes of antimicrobials) (Frye and
+Cray, 2007). The Multiple Antimicrobial Resistance Index (IRMA) was
+calculated according to the methodology described by Krumperman
+(1983), which shows the relationship between the number of resistant
+antimicrobials and the total number of classes tested. IRMA can be used
+to identify the risk of transmission to humans, where strains with values
+above 0.2 are considered of high risk.
+
+2.4. Disk-approach test for detection of ESBLs
+
+The disk-approximation test was performed to detect ESBL-
+producers according to Jarlier et al. (1988). E. coli was inoculated into
+a tube containing 3 ml of lactose broth and incubated at 37 °C ± 1 for
+8 h or until the turbidity level reached 0.5 on the McFarland scale.
+Using a sterile swab moistened in the bacterial suspension, the sample
+was inoculated smoothly in all directions of the plate containing
+Muller-Hinton agar, and with the aid of a ﬂared and cooled clamp, the
+disks containing each antimicrobial were placed between a distance of
+25 mm. The disks used for this test were: clavulanic acid-amoxicillin
+(AMC) (30 μg) in the center of the plate to visualize the synergism of
+the beta-lactamase inhibitor clavulanic acid with the other antimicro-
+bials: azetreonam (ATM) (30 μg); ceftazidime (CAZ) (30 μg);
+
+2.5. DNA extraction and ampliﬁcation by Polymerase Chain Reaction (PCR)
+to search for genes related to the production of ESBLs and resistance to
+ﬂuoroquinolones
+
+For the detection of resistance genes related to beta-lactams, DNA
+was extracted from E. coli ESBL-producers using the PureLink® Genomic
+DNA for Puriﬁcation of Genomic DNA kit (Invitrogen, Life Technologies,
+Carlsbad). PCR was performed for the following ESBLs genes: blaCMY-
+M2, blaSHV-1, blaTEM-1, blaCTX-M2, blaOXA-1, blaPSE-1 and AmpC
+using a BioRad brand T100TM Thermal Cycler® equipment. Reactions
+were performed as recommended by Platinum® PCR SuperMix
+(Invitrogen, Life Technologies, Carlsbad, USA). The primers used and
+the conditions for ampliﬁcation of these genes were used according to
+Chen et al. (2004) and conditions for ampliﬁcation of the AmpC gene
+were performed according to Alcaine et al. (2010) (Table 1).
+
+Due to the fact that ESBLs genes are usually in the same plasmid that
+confers resistance to quinolones and the later be easily spread through-
+out the environment, we searched for qnrA, qnrB and qnrS genes in
+E. coli isolates resistant to enroﬂoxacin and ESBL-producers (Moumoni
+et al., 2017). The primers used (Yue et al., 2008), as well as PCR condi-
+tions are described in Table 2. These genes were selected due to the
+great use of related antimicrobials (ﬂuoroquinolones and beta-
+lactams) and the coexistence of these genes in the same plasmids, facil-
+itating the dispersion of these genes among bacterial strains (Yue et al.,
+2008).
+
+As a positive control for the PCR reaction, a Salmonella Heidelberg
+sample was used for ampliﬁcation of the invA gene previously detected,
+where the ampliﬁcation conditions were obtained as described by Singh
+
+Table 3
+Description of swine fecal samples collected for E. coli isolation from swine farms of Southern Brazil and their antimicrobial resistance proﬁle.
+
+City
+
+Source samples N°
+
+Seara
+
+Total
+Xavantina
+
+Nursery
+Termination
+Gestation
+Maternity
+
+Nursery
+Termination
+Gestation
+Maternity
+
+Total
+Other cities Nursery
+
+Termination
+Gestation
+Maternity
+
+Total
+Grand total
+
+Samples
+
+8 (7.77%)
+9 (8.74%)
+15 (14.56%)
+19 (18.45%)
+51 (49.52%)
+4 (3.88%)
+12 (11.65%)
+9 (8.74%)
+12 (11.65%)
+37 (35.92%)
+0
+12 (11.65%)
+2 (1.94%)
+1 (0.97%)
+15 (14.56%)
+103 (100%)
+
+N°
+Positives
+
+6 (5.83%)
+8 (7.77%)
+11 (10.69%)
+16 (15.54%)
+41 (39.83%)
+3 (2.91%)
+4 (3.87%)
+5 (4.86%)
+8 (7.77%)
+20 (19.43%)
+0
+4 (3.87%)
+2 (1.94%)
+1 (0.97%)
+7 (6.80%)
+68 (66.02%)
+
+Beta-lactams
+
+Aminoglycosides
+
+Sulfonamides
+
+Fluoroquinolones
+
+Polymixins MDRa
+
+AMC
+
+CTF
+
+GEM
+
+SUT
+
+ENO
+
+COL
+
+1 (1.47%)
+1 (1.47%)
+1 (1.47%)
+4 (5.88%)
+7 (10.29%)
+0
+0
+0
+0
+0
+0
+1 (1.47%)
+0
+0
+1 (1.47%)
+8 (11.76%)
+
+0
+2 (2.94%)
+5 (7.35%)
+5 (7.35%)
+12 (17.65%)
+2 (2.94%)
+0
+0
+1 (1.47%)
+3 (4.41%)
+0
+0
+2 (2.94%)
+0
+2 (2.94%)
+17 (25%)
+
+1 (1.47%)
+2 (2.94%)
+5 (7.35%)
+6 (8.82%)
+14 (20.59%)
+1 (1.47%)
+0
+1 (1.47%)
+2 (2.94%)
+4 (5.88%)
+0
+3 (4.41%)
+1 (1.47%)
+0
+4 (5.88%)
+22 (32.35%)
+
+4 (5.88%)
+8 (11.76%)
+8 (11.76%)
+11 (16.19%)
+31 (45.59%)
+3 (4.41%)
+2 (2.94%)
+3 (4.41%)
+6 (8.82%)
+14 (20.58%)
+0
+4 (5.88%)
+2 (2.94%)
+0
+6 (8.82%)
+51 (75%)
+
+4 (5.88%)
+5 (7.35%)
+4 (5.88%)
+9 (13.24%)
+22 (32.35%)
+3 (4.41%)
+1 (1.47%)
+3 (4.41%)
+3 (4.41%)
+10 (14.70%)
+0
+3 (4.41%)
+2 (2.94%)
+0
+5 (7.35%)
+37 (54.41%)
+
+4 (5.88%)
+3 (4.41%)
+6 (8.82%)
+7 (10.29%)
+20 (29.41%)
+3 (4.41%)
+1 (1.47%)
+0
+2 (2.94%)
+6 (8.82%)
+0
+1 (1.47%)
+1 (1.47%)
+1 (1.47%)
+3 (4.41%)
+29 (42.65%)
+
+2 (2.94%)
+4 (5.88%)
+5 (7.35%)
+10 (14.71%)
+21 (30.88%)
+3 (4.41%)
+0
+0
+2 (2.94%)
+5 (7.35%)
+0
+3 (4.41%)
+2 (2.94%)
+0
+5 (7.35%)
+31 (45.59%)
+
+Beta-lactams (amoxicillin associated with clavulanic acid - AMC) and third generation cephalosporin (ceftiofur - CTF); Fluoroquinolones (enroﬂoxacin - ENO); Aminoglycosides (genta-
+micin - GEM); Sulfonamides (trimethoprim associated to sulfamethoxazole - SUT) and polymyxins (colistin - COL).
+
+a Resistance to more than 3 classes.
+
+Table 4
+Description of water samples collected for E. coli isolation from swine farms of Southern Brazil and their antimicrobial resistance proﬁle.
+
+M.C. Brisola et al. / Science of the Total Environment 647 (2019) 362–368
+
+365
+
+Beta-lactams
+
+Aminoglycosides
+
+Sulfonamides
+
+Fluoroquinolones
+
+Polymixins
+
+MDR*
+
+AMC
+
+CTF
+
+GEM
+
+SUT
+
+ENO
+
+COL
+
+0
+0
+0
+1 (3.13%)
+1 (3.13%)
+1 (3.13%)
+0
+0
+3 (9.38%)
+0
+0
+0
+3 (9.38%)
+0
+1 (3.13%)
+1 (3.13%)
+0
+5 (15.63%)
+0
+1 (3.13%)
+1 (3.13%)
+2 (6.25%)
+1 (3.13%)
+0
+0
+0
+5 (15.63%)
+13 (40.63%)
+
+0
+0
+0
+2 (6.25%)
+1 (3.13%)
+1 (3.13%)
+0
+0
+4 (12.50%)
+1 (3.13%)
+0
+0
+0
+0
+1 (3.13%)
+0
+0
+2 (6.25%)
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6 (18.75%)
+
+0
+0
+0
+3 (9.38%)
+0
+2 (6.25%)
+0
+0
+5 (15.63%)
+1 (3.13%)
+0
+0
+1 (3.13%)
+0
+0
+0
+0
+2 (6.25%)
+0
+0
+1 (3.13%)
+1 (3.13%)
+1 (3.13%)
+0
+0
+0
+3 (9.38%)
+10 (31.25%)
+
+0
+0
+0
+2 (6.25%)
+0
+1 (3.13%)
+0
+0
+3 (9.38%)
+1 (3.13%)
+0
+0
+1 (3.13%)
+0
+0
+0
+0
+2 (6.25%)
+0
+0
+1 (3.13%)
+1 (3.13%)
+0
+0
+0
+0
+2 (6.25%)
+7 (21.88%)
+
+1 (3.13%)
+0
+0
+2 (6.25%)
+0
+1 (3.13%)
+0
+0
+4 (12.50%)
+1 (3.13%)
+0
+0
+1 (3.13%)
+0
+1 (3.13%)
+0
+0
+3 (9.38%)
+0
+0
+0
+0
+0
+0
+0
+0
+0
+7 (21.88%)
+
+3. Results
+
+3.1. Isolation of E. coli and the antimicrobial susceptibility test
+
+Tables 3, 4, and 5 show the percentage of E. coli isolation, as well as
+the proﬁle for antimicrobial resistance. Out of 306 samples studied,
+44.12% (135/306) were positives for E. coli and 66.02% (68/103) were
+from swine fecal samples, 30.48% (32/105) from water and 35.71%
+(35/98) from soil. Overall, bacterial resistance was 82.96% (112/135) ac-
+cording to the disk diffusion test, that is, the samples were resistant for
+at least one of the studied antimicrobial. The highest overall percentages
+of resistance was for fecal samples and to sulfamethoxazole associated
+with trimethoprim (63.70% and 75%, respectively), colistin (45.19%
+
+Cities
+
+Source samples N°
+
+Seara
+
+Total
+Xavantina
+
+Well
+Pond
+Drinkers
+Font
+River
+Artesian well
+Caxambu font
+Cistern
+
+Well
+Pond
+Drinkers
+Font
+River
+Artesian well
+Caxambu font
+Cistern
+
+Total
+Other cities Well
+Pond
+Drinkers
+Font
+River
+Artesian well
+Caxambu font
+Cistern
+
+Total
+Grand total
+⁎ MDR - Multiple Drug Resistance
+
+Samples
+
+3 (2.86%)
+1 (0.95%)
+1 (0.95%)
+11 (10.48%)
+2 (1.90%)
+13 (12.38%)
+2 (1.90%)
+2 (1.90%)
+35 (33.33%)
+1 (0.95%)
+2 (1.90%)
+0
+10 (9.52%)
+1 (0.95%)
+6 (5.71%)
+1 (0.95%)
+0
+21 (20.00%)
+10 (9.52%)
+5 (4.76%)
+5 (4.76%)
+22 (20.95%)
+6 (5.71%)
+2 (1.90%)
+0
+0
+49 (46.67%)
+105 (100%)
+
+N°
+Positives
+
+1 (0.95%)
+0
+0
+5 (4.76%)
+2 (1.90%)
+3 (2.86%)
+0
+0
+11 (10.48%)
+1 (0.95%)
+0
+0
+4 (3.81%)
+0
+3 (2.86%)
+1 (0.95%)
+0
+9 (8.57%)
+1 (0.95%)
+2 (1.90%)
+2 (1.90%)
+5 (4.76%)
+1 (0.95%)
+1 (0.95%)
+0
+0
+12 (11.41%)
+32 (30.46%)
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1 (3.13%)
+0
+1 (3.13%)
+0
+0
+1 (3.13%)
+1 (3.13%)
+0
+0
+0
+0
+2 (6.25%)
+3 (9.38%)
+
+0
+0
+0
+0
+0
+1 (3.13%)
+0
+0
+1 (3.13%)
+1 (3.13%)
+0
+0
+0
+0
+1 (3.13%)
+0
+0
+2 (6.25%)
+0
+0
+0
+1 (3.13%)
+0
+0
+0
+0
+1 (3.13%)
+4 (12.50%)
+
+and Mustapha (2013) (95 °C for 10 min, 40 cycles of denaturation by 95
+°C for 15 s, annealing and extension 60 °C for 45 s). The negative control
+of the ampliﬁcation reactions consisted of a sample containing all re-
+agents without DNA.
+
+2.6. Electrophoresis
+
+To visualize PCR ampliﬁcation products, the gel electrophoresis (1%)
+technique stained with Ludwig®-brand ethidium bromide, and a mo-
+lecular marker of 100 bp at 2 kbp of ProteoLadder® brand at 110 V,
+150 mA, 110 W for 60 min in the Loccus LPS 300 HC source was used.
+Then, the gel was read in a photodocumentador with UV light, Loccus
+brand, with L-PIXEX photodocumentation system.
+
+Table 5
+Description of soil samples collected for E. coli isolation from swine farms of Southern Brazil and their antimicrobial resistance proﬁle.
+
+Cities
+
+Source samples
+
+N°
+Samples
+
+N°
+Positives
+
+Beta-lactams
+
+Aminoglycosides
+
+Sulfonamides
+
+Fluoroquinolones
+
+Polymixins MDR*
+
+AMC
+
+CTF
+
+GEM
+
+SUT
+
+ENO
+
+COL
+
+Seara
+
+Total
+Xavantina
+
+Total
+Other cities
+
+Pasture
+Vegetable garden
+Agriculture
+Hillside
+Near the Facilities
+
+Pasture
+Vegetable garden
+Agriculture
+Hillside
+Near the Facilities
+
+Pasture
+Vegetable garden
+Agriculture
+Hillside
+Near the Facilities
+
+Total
+Grand total
+⁎ MDR - Multiple Drug Resistance
+
+7 (7.14%)
+1 (1.02%)
+11 (11.22%)
+10 (10.20)
+2 (2.04%)
+31 (31.63%)
+0
+1 (1.02%)
+15 (15.31%)
+2 (1.02%)
+0
+18 (18.37%)
+8 (8.16%)
+3 (3.06%)
+15 (15.31%)
+17 (17.35%)
+6 (6.12%)
+49 (50.00%)
+98 (100%)
+
+3 (3.06%)
+0
+4 (4.08%)
+5 (5.10%)
+0
+12 (12.24%)
+0
+1 (1.02%)
+7 (7.14%)
+0
+0
+8 (8.16%)
+4 (4.08%)
+0
+3 (3.06%)
+4 (4.08%)
+4 (4.08%)
+15 (15.31%)
+35 (35.71%)
+
+1 (2.86%)
+0
+1 (2.86%)
+2 (5.71%)
+0
+4 (11.43%)
+0
+0
+0
+0
+0
+0
+1 (2.86%)
+0
+0
+1 (2.86%)
+1 (2.86%)
+3 (8.57%)
+7 (20%)
+
+0
+0
+1 (2.86%)
+1 (2.86%)
+0
+2 (5.71%)
+0
+0
+0
+0
+0
+0
+0
+0
+1 (2.86%)
+2 (5.71%)
+1(2.86%)
+4 (11.43%)
+6 (17.14%)
+
+0
+0
+4 (11.43%)
+1 (2.86%)
+0
+5 (14.29%)
+0
+1 (2.86%)
+0
+0
+0
+1 (2.86%)
+1 (2.86%)
+0
+0
+2 (5.71%)
+1 (2.86%)
+4 (11.43%)
+10 (28.57%)
+
+3 (8.57%)
+0
+3 (8.57%)
+3 (8.57%)
+0
+9 (25.71%)
+0
+1 (2.86%)
+4 (11.43%)
+0
+0
+5 (14.29%)
+2 (5.71%)
+0
+2 (5.71%)
+2 (5.71%)
+2 (5.71%)
+8 (22.86%)
+22 (62.86%)
+
+1 (2.86%)
+0
+3 (8.57%)
+1 (2.86%)
+0
+5 (14.29%)
+0
+0
+2 (5.71%)
+0
+0
+2 (5.71%)
+0
+0
+0
+1 (2.86%)
+2 (5.71%)
+3 (8.57%)
+10 (28.57%)
+
+3 (8.57%)
+0
+4 (11.43%)
+3 (8.57%)
+0
+10 (28.57%)
+0
+0
+2 (5.71%)
+0
+0
+2 (5.71%)
+0
+0
+2 (5.71%)
+4 (11.43%)
+3 (8.57%)
+9 (25.71%)
+21 (60%)
+
+3 (8.57%)
+0
+3(8.57%)
+2 (5.71%)
+0
+8 (22.85%)
+0
+0
+1 (2.86%)
+0
+0
+1 (2.86%)
+0
+0
+1 (2.86%)
+2 (5.71%)
+1(2.86%)
+4 (11.43%)
+12 (34.29%)
+
+M.C. Brisola et al. / Science of the Total Environment 647 (2019) 362–368
+
+366
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Swine feces
+Water
+Soil
+
+AMC
+
+CTF
+
+GEM
+
+SUT
+
+ENO
+
+COL
+
+Fig. 1. Proﬁle of antimicrobial resistance of E. coli isolated from different sources (swine
+feces, water and soil) from swine farms of Southern Brazil. Beta-lactams (amoxicillin asso-
+ciated with clavulanic acid - AMC) and third generation cephalosporin (ceftiofur - CTF);
+Fluoroquinolones (enroﬂoxacin - ENO); Aminoglycosides (gentamicin - GEM); Sulfon-
+amides (trimethoprim associated to sulfamethoxazole - SUT) and polymyxins (colistin -
+COL).
+
+and 42.65%, respectively) and enroﬂoxacin (39.26% and 54.41%, respec-
+tively) (Fig. 1). For water and soil, the highest resistance indices were
+for sulfamethoxazole associated with trimethoprim (40.63% and
+62.86%, respectively) and colistin (31.25% and 60%, respectively), with
+increased resistance to beta-lactams (21.88% and 37.14%, respectively).
+Regarding the levels of multidrug resistance (MDR), it was possible
+to observe that 37.04% (50/135) of the isolates were resistant to at
+least three different classes of antimicrobials, where strains from feces
+represented 62% (31/50) of all multiresistant isolates (Table 6).
+
+3.2. Multiple Drug Resistance (MDR) proﬁles and Multiple Antimicrobial
+Resistance Index (IRMA)
+
+Table 6 shows the most prevalent multidrug resistance (MDR) pro-
+ﬁles and the Multiple Antimicrobial Resistance Index (IRMA) obtained
+through the disk-diffusion test of E. coli strains. The main
+multirresistance proﬁles observed were A (GEM-SUT-ENO-COL) with
+16% (8/50) of the multiresistant samples, followed by B [CTF-GEM-
+SUT-ENO-COL] and C [SUT-ENO-COL] with 12% (6/50). Regarding the
+IRMA results, 78% (39/50) of the multirresistant strains showed values
+above 0.2, indicating a high potential risk of transmission to humans. In-
+dividually, the B (six isolates) and I (two isolates) proﬁles showed IRMA
+values of 1, that is, the isolates were resistant to all classes of antimicro-
+bials tested.
+
+3.3. Disk-approximation test for ESBLs
+
+Out of 135 isolates submitted to the disk-approximation test, it was
+
+possible to visualize the “phantom zone” in 7.41% (10/135).
+
+3.4. Polymerase Chain Reaction (PCR) to investigate genes related to ESBLs
+and resistance to ﬂuoroquinolones
+
+The gene blaCMY-M2 was detected in 50% (5/10) of the ESBLs-
+producers, followed by the blaTEM-1 genes in 40% (4/10) and AmpC
+with 20% (2/10) (Table 7). However, the genes blaSHV-1, blaCTX-M2,
+blaOXA-1 and blaPSE-1 were not detected. For the genes that confer re-
+sistance to the ﬂuoroquinolones, PCR results showed a prevalence of
+70% (7/10) for the qnrS gene. The qnrA and qnrB genes were not de-
+tected in the E. coli strains ESBL-producers.
+
+Table 8 shows the PCR results for the enroﬂoxacin-resistant strains
+(n = 46 since 53 isolates were resistant to enroﬂoxacin and seven
+were ESBL-producers, which were previously analyzed), where 13.04%
+of the strains had the presence of qnrS gene (6/46). The qnrB and qnrA
+genes were not detected.
+
+4. Discussion
+
+Approximately one third of the water samples were contaminated
+with fecal material. da Malheiros et al. (2009) evaluated the bacteriolog-
+ical contamination of groundwater in the Western region of Santa
+Catarina and found that 75.94% of them were unﬁt for human consump-
+tion, demonstrating a high microbiological load in the water sources in
+this region. Several factors can contribute to the contamination of water
+in rural properties, such as the inefﬁcient management of human and
+animal waste, as well as the lack of hygiene or protection against ro-
+dents and wild animals (Satake et al., 2012). The presence of E. coli in
+fecal samples of swine can easily be explained by the fact that this bac-
+terium is part of the intestinal microbiota, responsible for maintaining
+the intestinal balance, with the exception of some pathogenic strains
+that are classiﬁed according to some traits of virulence (Romer et al.,
+2012). Some studies demonstrated the ability of this bacterium to sur-
+vive and grow for long periods of time in the environment (Bradford
+et al., 2013).
+
+Another important point to note is the percentage of E. coli
+multiresistant since a third of the isolates showed resistance to at least
+three classes of antimicrobials and 78% of the multiresistant strains
+showed IRMA values above 0.2, representing a high risk of transmission
+to humans (Krumperman, 1983). Resistance to antimicrobial sulfa-
+methoxazole associated with trimethoprim has been widely reported
+in cases of diarrhea in piglets caused by E. coli and also in commensal
+E. coli isolated from swine and the environment (Costa, 2006). The anti-
+microbial colistin has been widely used as a growth promoter, however
+recent detections of mcr-1 genes conferring bacterial resistance to this
+
+Table 6
+Main proﬁles of Multiple Drug Resistance (MDR) and Multiple Antimicrobial Resistance Indexa (IRMA) of E. coli isolates from swine feces, water and soil.
+
+Identiﬁcationproﬁle
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J,K,L,M,N,O,P,Q,R,S,T
+
+Proﬁle of MDR
+
+GEM-SUT-ENO-COL
+CTF-GEM-SUT-ENO-COL
+SUT-ENO-COL
+CTF-GEM-SUT-COL
+AMC-SUT-COL
+CTF-SUT-ENO
+GEM-SUT-COL
+GEM-SUT-ENO
+AMC-CTF-GEM-SUT-ENO-COL
+Othersb
+
+Isolated fountain
+
+Feces (4), soil (3), water (1)
+Feces (3), soil (2), water (1)
+Feces (4), soil (2)
+Feces (3), soil (1)
+Feces (1), soil (2), water (1)
+Feces (4)
+Feces (1), soil (1), water (1)
+Feces (2)
+Feces (1), soil (1)
+Feces (8), soil (1), water (2)
+
+IRMA
+
+0.80
+1
+0.60
+0.80
+0.60
+0.60
+0.60
+0.60
+1
+0.17
+
+Total
+
+8/50
+6/50
+6/50
+4/50
+4/50
+4/50
+3/50
+2/50
+2/50
+1/50
+
+%
+
+16
+12
+12
+8
+8
+8
+6
+4
+4
+2
+
+% - percentage of samples; Beta-lactams (amoxicillin associated with clavulanic acid - AMC) and third generation cephalosporin (ceftiofur - CTF); Fluoroquinolones (enroﬂoxacin - ENO);
+Aminoglycosides (gentamicin - GEM); Sulfonamides (trimethoprim associated to sulfamethoxazole - SUT) and polymyxins (colistin - COL).
+
+a Strains with IRMA values above 0.2 are considered to be at high risk of resistance transmission (Krumperman, 1983).
+b MDR proﬁle that correspond to only 1 (one) isolated.
+
+M.C. Brisola et al. / Science of the Total Environment 647 (2019) 362–368
+
+367
+
+Table 7
+Multiple Antimicrobial Resistance Index (IRMA) and detection of blaTEM-1, blaCMY-M2, AmpC and qnrS genes by PCR in E. coli ESBL-producer isolated from swine farms of Southern Brazil.
+
+Isolate ID
+
+Source
+
+Collection site
+
+142
+148
+152
+162
+165
+168
+184
+192
+
+Feces
+Feces
+Feces
+Feces
+Feces
+Feces
+Feces
+Feces
+
+Maternity
+Termination
+Maternity
+Gestation
+Nursery
+Gestation
+Gestation
+Maternity
+
+City
+
+Seara
+Seara
+Seara
+Seara
+Seara
+Seara
+Seara
+Seara
+
+IRMA
+
+blaTEM-1
+
+blaCMY-M2
+
+0.6
+0.2
+0.8
+0.4
+1
+0.8
+0.4
+1
+
+X
+
+X
+
+X
+
+X
+
+X
+X
+
+X
+X
+X
+
+AmpC
+
+X
+
+X
+
+qnrS
+
+X
+X
+X
+X
+X
+X
+X
+
+antibiotic mediated by plasmids lead the Brazilian government to ban
+its use (Brazil, 2016).
+
+Xiong et al. (2015) reported high concentrations of enroﬂoxacin, cip-
+roﬂoxacin and norﬂoxacin in environments fertilized with animal
+waste, which could explain the signiﬁcant antimicrobial resistance
+rates found in our study. In enterobacteria, one of the major mechanism
+of resistance to quinolones and ﬂuoroquinolones is mediated by plas-
+mids that carry genes responsible for the synthesis of proteins that in
+turn block topoisomerases (Hu et al., 2017). These same plasmids may
+contain other resistance genes, such as those conferring resistance to
+beta-lactams and cephalosporins, through the production of ESBLs
+(Jacoby et al., 2014). In this context, more than 400 ESBLs have been de-
+scribed so far and are usually derived from point mutations of the TEM,
+SHV and CTX-M groups, with 183, 134 and 103 variants, respectively
+(Barguigua et al., 2011). Abraham (2015) evaluated the resistance of
+114 E. coli isolated from pigs and detected 14.91% resistance to amoxicil-
+lin associated with clavulanic acid and 2.63% to ceftiofur, which were
+lower than those found in this study (25% and 11.76% for ceftiofur and
+amoxicillin associated with clavulanic acid, respectively). These data
+suggest that selective pressure in animal production may explain
+these ﬁndings, especially in regions with high rates of pig breeding
+(Gebreyes et al., 2017). Signiﬁcant resistance indices to beta-lactam
+were detected in E. coli strains isolated from water and soil samples. In
+a study by Jiang et al. (2011), in which the highest prevalence and dis-
+tribution of multirresistant E. coli isolates in China were reported,
+27.3% of the water isolates and 18.8% from soil showed resistance to
+amoxicillin, demonstrating the widespread of resistant bacteria
+(Egervarn et al., 2017). The lack of Brazilian data related to this matter
+indicates the need for further studies for better evaluation of the envi-
+ronmental contamination by resistant microorganisms in order to en-
+hance surveillance and to establish preventive measures.
+
+The most prevalent ESBL gene described in previous studies from
+several sources was CTX-M and its variants CTX-M-2, CTX-M-8 and
+CTX-M-9 (da Silva and Lincopan, 2012). However, in our study the
+blaCMY-M2 gene was the most prevalent, being positive for 50% of the
+phenotypically ESBL-producing isolates, followed by the blaTEM-1
+gene, demonstrating the emergence of other ESBLs encoding genes, in-
+creasing concerns about the emergence and spread of these genetic mo-
+bile elements. The usual use of
+third and fourth generation
+cephalosporins as therapy or food additives in pig production may se-
+lect high bacterial resistance (Gao et al., 2015), and a matter of growing
+concern is that genes encoding ESBLs are frequently found (Xu et al.,
+2015), a fact related to the results obtained in our study, where out of
+
+Table 8
+Results of Multiple Antimicrobial Resistance Index (IRMA) and detection of qnrS gene by
+PCR in enroﬂoxacin resistant E. coli isolated from swine farms of Southern Brazil.
+
+Isolated
+
+Source
+
+Collection point
+
+City
+
+IRMA
+
+qnrS
+
+177
+179
+189
+232
+273
+277
+
+Feces
+Feces
+Feces
+Feces
+Feces
+Feces
+
+Maternity
+Maternity
+Maternity
+Nursery
+Maternity
+Termination
+
+Seara
+Seara
+Seara
+Xavantina
+Xavantina
+Xavantina
+
+0.8
+1
+0.6
+1
+0.4
+0.4
+
+X
+X
+X
+X
+X
+X
+
+ten E. coli ESBLS-producers, seven showed the qnrS gene, and 142 iso-
+lates showed, concomitantly, the genes blaTEM, blaCMY-M2, AmpC
+and qnrS. The identiﬁcation of ESBL genes encoding ESBLs in E. coli iso-
+lates of environmental origin enhances the need for adequate rural san-
+itation, considering the possibility of contamination of water and food
+with resistant microorganisms. Brazil and the Western region of Santa
+Catarina are important producers of pork meat, and the possibility to
+disseminate these genes to other pathogenic microorganisms through
+mobile genetic elements such as plasmids, integrons and transposons
+by bacterial conjugation can considerably affect animal production, as
+well as human health.
+
+5. Conclusion
+
+It is possible to conclude that most of the strains of E. coli isolated
+were resistant to antimicrobials and carry genes of resistance to quino-
+lones, ﬂuoroquinolones and ESBLs and because of that they are resistant
+to these antimicrobials. Considering that Brazil is a large meat producer
+with unknown status regarding the antimicrobial resistance our ﬁnd-
+ings are important for public health. In addition, the dissemination of re-
+sistance genes between strains of the same species or even between
+different species may cause serious diseases in humans and animals
+with difﬁcult treatment, highlighting the need of rational use of antimi-
+crobials and adequate animal waste treatment.
+
+Acknowledgments
+
+The authors thank the Brazilian National Council for Scientiﬁc and
+Technological Development (CNPq) for the ﬁnancial support (Universal
+grant) and Dr. Stefani's fellowship. They also acknowledge the Coordi-
+nation for the Improvement of Higher Education Personnel (CAPES)
+and the Scientiﬁc and Technological Research Support Foundation of
+Santa Catarina State (FAPESC) for two Master's fellowships.
+
+References
+
+ABPA. Brazilian Association of Animal Protein, 2017. Summary of the pig sector. Available
+at:. http://abpa-br.com.br/setores/suinocultura/resumo, Accessed date: 23 October
+2017.
+
+Abraham, S., 2015. First detection of extended-spectrum cephalosporin- and
+ﬂuoroquinolone-resistant Escherichia coli in Australian food-producing animals.
+J. Glob. Antimicrob. Resist. 3, 273–277.
+
+Alcaine, S.D., Sukhnanand, S.S., Warnick, L.D., Su, W.L., Mcgann, P., Mcdonough, P.,
+Wiedmann, M., 2010. Ceftiofur-resistant Salmonella strains isolated from dairy
+farms represent multiple widely distributed subtypes that evolved by independent
+horizontal gene transfer. Antimicrob. Agents Chemother. 49 (10).
+
+ANVISA - National Agency of Sanitary Surveillance, 2003. Standardization of the Sensitiv-
+ity Tests to Antimicrobial by Disc-diffusion: Approved Standard. eighth edition.
+(Brazil).
+
+Barguigua, A., El Otmani, F., Talmi, M., Bourjilat, F., Haouzane, F., Zerouali, K., et al., 2011.
+Characterization of extended-spectrum beta-lactamase-producing Escherichia coli
+and Klebsiella pneumoniae isolates from the community in Morocco. J. Med. Microbiol.
+60, 1344–1352.
+
+Bradford, S.A., Morales, V.L., Zhang, W., Harvey, R.W., Packman, A.I., Mohanran, A., Welty,
+C., 2013. Transport and fate of microbial pathogens in agricultural settings. Crit. Rev.
+Environ. Sci. Technol. 43, 775–893.
+
+Brazil, 2016. Normative Instruction N 45, Dated November 22, 2016 (Ofﬁcial Journal of
+
+the Union).
+
+368
+
+M.C. Brisola et al. / Science of the Total Environment 647 (2019) 362–368
+
+Caldorin, M., Almeida, I.A.Z., Peresi, J.T.M., Alves, E.C., 2013. Occurrence of shiga toxin-
+producing Escherichia coli (STEC) in Brazil and its importance in public health.
+Boletim Epidemiológico Paulista. vol. 10, pp. 4–20.
+
+Chen, S., Zhao, S., White, D.G., Schroeder, C.M., Lu, R., Yang, H., Mcdermott, P.F., Ayers, S.,
+Meng, J., 2004. Characterization of meats Salmonella serovars isolated from retail
+multiple-antimicrobial-resistant. Appl. Environ. Microbiol. 1, 1–7.
+
+Clinical and Laboratory Standarts Institute – CLSI, 2018. Performance standarts for antimi-
+
+crobial susceptibility testing. Twenty-ﬁfth Informational Supplement.
+
+Costa, M.M.D., 2006. Epidemiological, molecular and antimicrobial resistance proﬁle
+of Escherichia coli isolated from pig farms in Southern Brazil. Pesqui. Vet. Bras.
+26, 5–8.
+
+Egervarn, M., Englund, S., Ljunge, M., Wiberg, C., Finn, M., Lindblad, M., Borjesson, S., 2017.
+Unexpected common occurence of transferable extended spectrum cephalosporinase
+producing Escherichia coli in Swedish surface waters used for drinking water supply.
+Sci. Total Environ. 587–588, 466–472.
+
+EPAGRI - Company of Agricultural Research and Rural Extension of Santa Catarina State,
+2017. Production of beef, pork and chickens slaughtered, Brazil and Santa Catarina
+from 2007 to 2016. Available at:. http://www.epagri.sc.gov.br/?page_id=2623,
+Accessed date: 23 February 2018.
+
+Frye, J.G., Cray, P.J., 2007. Prevalence, distribution and characterization of ceftiofur resis-
+tance in Salmonella enterica isolated from animals in the USA from 1999 to 2003.
+Int. J. Antimicrob. Agents 30, 134–142.
+
+Gao, L., Tan, Y., Zhang, X., Hu, J., Miao, Z., Wei, L., Chai, T., 2015. Emissions of Escherichia coli
+carring extended-spectrum beta-lactamase resistance from pig farms to the sur-
+rounding environmental. Int. J. Environ. Res. Public Health 12, 4203–4213.
+
+Gebreyes, W.A., Wittum, T., Habing, G., Alali, W., Usui, M., Suzuki, S., 2017. Chapter 4:
+spread of antibiotic resistance in food animal production systems. Foodborne Dis-
+eases, 3rd ed., pp. 105–130.
+
+Hu, Y.S., Shin, S., Park, Y.H., Park, K.T., 2017. Prevalence and mechanism of ﬂuoroquino-
+lone resistance in Escherichia coli isolated from swine feces in Korea. J. Food Prot.
+80, 1145–1151.
+
+Jacoby, G.A., Strahilevitz, J., Hooper, D.C., 2014. Plasmid-mediated quinolone resistance.
+
+Microbiol. Spectr. 2, 1–24.
+
+Jarlier, V., Nicolas, M.H., Fournier, G., Philippon, A., 1988. Extended broad-spectrum beta-
+lactamases conferring transferable resistance to newer beta-lactam agents in Entero-
+bacteriaceae: hospital prevalence and susceptibility patterns. Rev. Infect. Dis. 10,
+867–878.
+
+Jiang, H.X., Lu, D.H., Chen, Z.L., Wang, X.M., Chen, J.R., Liu, Y.H., Liao, X.P., Liu, J.H., Zeng, Z.L.,
+2011. High prevalence and widespread distribuition of multi-resistant Escherichia coli
+isolates in pigs and poultry in China. Vet. J. 187, 99–103.
+
+Krumperman, P.H., 1983. Multiple antibiotic resistance indexing of Escherichia coli to
+identify high-risk sources of fecal contamination of foods. Appl. Environ. Microbiol.
+46, 165–170.
+
+da Malheiros, P.S., Schäfer, D.F., Herbert, I.M., Capuani, S.M., Da Silva, E.M., Sardiglia, C.U.,
+Scapin, D., Rossi, E.M., Brandelli, A., 2009. Bacteriological Contamination of Ground-
+water of the Western Area of Santa Catarina, Brazil. 68. Revista Instituto Adolf Lutz,
+pp. 305–308.
+
+Moumoni, A., Diagbouga, S., Nadembéga, C., Dabiré, A.M., Salah, F., Obiri-yeboah, D.,
+Soubéiga, S.T., Ouattara, A.K., Zohoncon, T., Djigma, F., Langendorf, C., Simporé, J.,
+2017. Quinolone resistance (qnr) genes in fecal carriage of extended spectrum
+beta-lactamases producing enterobacteria isolated from children in Niger. Curr. Res.
+Microbiol. Biotechnol. 5, 953–957.
+
+Quinn, P.J., Markey, B.K., Carter, M.E., Donnelly, W.J.C., 2005. In: Weiss, L.H.N., Weiss,
+R.D.M. (Eds.), Infectious Veterinary Microbiology and Disease. Porto Alegre, Artmed,
+p. 12.
+
+Rochelle-Newall, E., Nguyen, T.M., Sengtaheuanghoung, O., Ribolzi, O., 2015. A short re-
+view of fecal indicator bacteria in tropical aquatic ecosystems: knowledge gaps and
+future directions. Front. Microbiol. 6, 308.
+
+Romer, A., Wieler, L.H., Schierack, P., 2012. Analyses of intestinal commensal Escherichia
+coli strains from wild boars suggest adaptation to conventional pig production condi-
+tions. Vet. Microbiol. 161, 122–129.
+
+Satake, F.M., Assunção, A.W.A., Lopes, L.L.G., Amaral, L.A., 2012. Water Quality in Rural
+Properties Located in the Hydrographic Basin of the Rich Stream, Jaboticabal, SP.
+ARS Veterinária, Jaboticabal, SP. vol. 28, 1 pp. 48–55.
+
+da Silva, K.C., Lincopan, N., 2012. Epidemiology of extended-spectrum beta-lactamases in
+Brazil: clinical impact and implications for agribusiness. J. Bras. Patol. Med. Lab. 48,
+91–99.
+
+Silva, C., Oliveira, A., Bezerra, P., Evangelista, J., 2015. Escherichia coli in swine. Clinical as-
+
+pects. A review. Rev. Bras. Hig. Sanid. Anim. 9, 123–131.
+
+Singh, P., Mustapha, A., 2013. Multiplex TaqMan detection of pathogenic and multi-drug
+
+resistant Salmonella. Int. J. Food Microbiol. 2, 213–218.
+
+World Health Organization, 2014. Antimicrobial Resistance: Global Report os Surveillance
+
+2014. WHO, Geneva, Switzerland.
+
+Xiong, W., Sun, Y., Ding, X., Zhang, Y., Zhong, X., Liang, W., Zeng, Z., 2015. Responses of
+plasmid-mediated quinolone resistance genes and bacterial taxa to (ﬂuoro)quino-
+lones-containing manure in arable soil. Chemosphere 119, 473–478.
+
+Xu, G., Na, W., Wang, H., Zhang, X., 2015. Prevalence and characteristics of extended-
+spectrum Beta-lactamase genes in Escherichia coli isolated from piglets with post-
+weaning diarrhea in Heilongjiang province, China. Front. Microbiol. 6, 1–9.
+
+Yeh, J.C., Lo, D.Y., Chang, S.K., Chou, C.C., Kuo, H.C., 2017. Prevalence of plasmid-mediated
+quinolone resistance in Escherichia coli isolated from diseased animals in Taiwan.
+J. Vet. Med. Sci. 79, 730–735.
+
+Yue, L., Jiang, H.X., Liao, X.P., Liu, J.H., Li, S.J., Chen, X.Y., Chen, C.X., Lu, D.H., Liu, Y.H., 2008.
+Prevalence of plasmid-mediated quinolone resistance qnr genes in poultry and swine
+clinical isolates os Escherichia coli. Vet. Microbiol. 132, 414–420.
+
+

@@ -1,0 +1,1368 @@
+Beyene et al. BMC Res Notes  (2017) 10:171 
+DOI 10.1186/s13104-017-2487-y
+
+BMC Research Notes
+
+RESEARCH ARTICLE
+Prevalence and antimicrobial resistance 
+profile of Staphylococcus in dairy farms, abattoir 
+and humans in Addis Ababa, Ethiopia
+
+Open Access
+
+Takele Beyene1,2*†, Halefom Hayishe1, Fikru Gizaw3, Ashenafi Feyisa Beyi1,4†, Fufa Abunna5, Bedaso Mammo6, 
+Dinka Ayana7, Hika Waktole6 and Reta Duguma Abdi5,8†
+
+Abstract 
+Background:  Staphylococcus species cause mastitis and wound infection in livestock and food poisoning in humans 
+through ingestion of contaminated foods, including meat and dairy products. They are evolving pathogens in that 
+they readily acquire drug resistance, and multiple drug-resistant (MDR) isolates are increasing in human and veterinary 
+healthcare. Therefore, this study was conducted to evaluate the prevalence of Staphylococci and their drug resistance 
+in dairy farms and abattoir settings of Addis Ababa.
+Methods:  In this cross-sectional study, 193 samples of milk, meat, equipment and humans working in the dairy farms 
+and abattoir were collected (dairy farms = 72 and abattoir sources = 121). Staphylococcus isolation and identification 
+at the species level was done according to ISO-6888-3 using biochemical characteristics. An antimicrobial susceptibil-
+ity test was conducted for 43 of the isolates using 15 antimicrobial agents commonly used for humans and livestock 
+by the Kirby Bauer disk diffusion method following CLSI guidelines.
+Results:  Staphylococcus organism were isolated from 92 (47.7%) of the total 193 samples, 50% in the dairy farms 
+and 46.3% in the abattoir. The isolated species were S. aureus (n = 31; 16.1%), S. intermedius (n = 21; 10.9%), S. hyicus 
+(n = 16; 8.3%), and coagulase negative Staphylococcus (CNS) (n = 24; 12.4%). Gentamycin was effective drug as all 
+isolates (n = 43; 100%) were susceptible to it and followed by kanamycin (n = 39; 90.7%). However, the majority of 
+the isolates showed resistance to penicillin-G (95.3%), nalidixic acid (88.4%), cloxacillin (79.1%), vancomycin (65.1%) 
+and cefoxitin (55.8%). Of the 15 S. aureus tested for drug susceptibility, 73.3% of them were phenotypically resistant to 
+vancomycin (VRSA) and all of the 15 isolates showed multi-drug resistance (MDR) to >3 drugs. Also, all of the tested 
+CNS (100%), S. hyicus (100%) and the majority of S. intermedius isolates (88.9%) developed MDR.
+Conclusion:  Alarmingly, the Staphylococcus isolates circulating in the dairy farms and abattoir in the study area 
+harbor MDR. High level of Staphylococcus species isolation from personnel and equipment besides food (meat and 
+milk) samples in dairy farms and abattoir settings reveals that the hygiene practice in the dairy farm and abattoir is 
+substandard. Prudent drug use and improved hygienic practice is recommended in the dairy farms and abattoir to 
+safeguard the public from the risk of acquiring infections and MDR pathogenic Staphylococcus.
+Keywords:  Abattoir, Antimicrobial susceptibility, Dairy farms, Food safety, Humans, Multi-drug resistance, 
+Staphylococcus, VRSA
+
+*Correspondence:  takele.beyene@aau.edu.et 
+†Takele Beyene, Ashenafi Feyisa Beyi and Reta Duguma Abdi are 
+contributed equally to this work
+1 Department of Biomedical Sciences, College of Veterinary Medicine 
+and Agriculture, Addis Ababa University, Bishoftu, Ethiopia
+Full list of author information is available at the end of the article
+
+© The Author(s) 2017. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License 
+(http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, 
+provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, 
+and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Beyene et al. BMC Res Notes  (2017) 10:171 
+
+Page 2 of 9
+
+Background
+The  genus  Staphylococcus  comprises  of  several  species 
+and  subspecies  [1].  The  genus  is  broadly  grouped  into 
+two, namely, coagulase- positive and coagulase-negative 
+Staphylococcus (CNS) [2, 3]. CNS consists of a group of 
+various  Staphylococcus  species  that  affect  diverse  host 
+ranges. Some of them have evolved to cause mastitis in 
+farm animals [4] whilst some species colonize post-sur-
+gical  wounds  (or  cause  infections  in  immunocompro-
+mised people) in humans [3]. Of the coagulase-positive 
+Staphylococci group, the three major pathogenic ones are 
+S. aureus, S. intermedius and S. hyicus [5, 6]. These three 
+species  are  associated  in  many  diverse  and  specialized 
+forms with healthy and diseased farm animals and most 
+of  common  pet  animals  [5].  They  are  the  major  patho-
+gen causing mastitis although have tropism to different 
+body  parts  of  various  hosts  [5,  7,  8].  They  are  versatile 
+pathogens  with  the  ability  to  transfer  between  humans 
+and livestock [6, 9, 10]. In human, they cause mild skin 
+infection to more severe diseases such as pneumonia and 
+septicemia [11]. In animals, their frequent involvement in 
+mastitis results in contamination of milk and dairy prod-
+ucts. They may found in a variety of locations in the dairy 
+farms, abattoirs, food-processing units and on the body 
+parts of the animals [12]. Staphylococci are also respon-
+sible for contamination of food products, food spoilage, 
+reduction  of  food  safety  and  shelf  life  and  cause  food-
+borne  poisoning  via  production  of  deadly  enterotoxins 
+[13–17]. Infected individuals are the source of Staphylo-
+cocci  food  contamination  and  intoxication  at  any  point 
+along the food chain [18]. Staphylococcal food poisoning 
+has been reported as third cause of food-borne illnesses 
+in the world [19].
+
+Food  is  also  an  important  vehicle  for  the  transfer  of 
+antimicrobial resistant (AMR) factor to intestinal tract of 
+consumers very efficiently [20, 21]. AMR has become the 
+main public health burden worldwide [22]. Further trans-
+fer of AMR bacteria to humans via the food chain [23] 
+and from livestock has been well documented [8]. In this 
+context, livestock, milk and meat may serve as reservoirs 
+for  human  infections  by  AMR  Staphylococcus  strains, 
+thus allowing these microorganisms to persist and spread 
+in  the  community.  Up  to  now,  many  researchers  have 
+focused on the spread of resistant S. aureus in clinical set-
+ting [11, 24]. However, only handful of studies have been 
+conducted about the presence of AMR in food animals in 
+Ethiopia [25, 26] and moreover, S. intermedius, S. hyicus 
+and CNS have been poorly studied. Multiple-drug resist-
+ant  (MDR)  staphylococcal  isolates  such  as  methicillin-
+resistant S. aureus (MRSA) have been isolated primarily 
+from human, and also from animal samples [27, 28]. A 
+study conducted by Schmidt et al. [29] in the KwaZulu-
+Natal  province  of  South  Africa  have  reported  humans 
+
+working with farm animals carry far more AMR Staphy-
+lococci than the farm animals they work with [29]. Thus, 
+the  transfer  of  AMR  strains  of  Staphylococcus  between 
+humans and cows may result in serious health problems.
+In  Ethiopia,  irrational  antimicrobial  use  and  misuse 
+behavior  is  frequent  [30],  which  could  exacerbate  the 
+AMR issue in the country. The limited study on Staphy-
+lococcus  species  isolated  from  chicken-related  samples 
+in central and southern Ethiopia [31, 32] and Salmonella 
+from  cattle-related  samples  in  south-eastern  Ethiopia 
+[33]  have  reported  an  alarming  level  of  MDR  in  both 
+bacteria. However, a good estimate of the magnitude of 
+the prevalence of Staphylococcus species and their AMR 
+pattern for both human and animals are hardly available 
+in Ethiopia. Therefore, the aims of this study were to (i) 
+isolate and identify Staphylococcus species in dairy farms 
+and  slaughterhouses  in  Addis  Ababa  via  sampling  ani-
+mals, food (milk and meat), farm and abattoir equipment 
+and  personnel,  (ii)  determine  their  prevalence  distribu-
+tion within farm and abattoir in different sample types, 
+and  (iii)  evaluate  antimicrobial  susceptibility  profile  of 
+Staphylococcus species.
+
+Methods
+Study area and design
+This cross-sectional study was conducted from October 
+2013 to April 2014 at Addis Ababa, which is situated at 
+latitude  of  9°3′  and  38°43′  East  [34].  Samples  were  col-
+lected from randomly selected dairy farms (dairy cows, 
+farm personnel and dairy equipment) and Addis Ababa 
+abattoir  enterprise  (slaughtered  cattle,  abattoir  per-
+sonnel  and  abattoir  materials).  Hygienic  practices  of 
+the  pre-milking,  milking  and  post  milking  activities  of 
+dairy farms and pre-slaughtering, slaughtering and post 
+slaughtering  activities  were  assessed  using  a  structured 
+questionnaire.
+
+Sample types, collection, transportation and storage
+Overall, 193 samples were collected; samples from dairy 
+farms included raw pooled udder milk (n = 40), tank milk 
+(n = 8), pooled tank swabs (n = 8), pooled bucket swabs 
+(n = 8) and pooled milkier hand swabs (n = 8). From the 
+abattoir carcass swabs (n = 103), pooled slaughter lines 
+swab from hanging materials (n = 6), pooled knife swabs 
+(n = 6), pooled hand swabs (n = 6) were collected.
+Samples  were  collected  aseptically  from  each  critical 
+point. Raw milk samples were collected from two critical 
+points, from the cows’ udder and milking bucket together 
+with milkiers’ hand and container swabs. The swabbing 
+was done before milk sampling using sterile swabs. From 
+the abattoir, a pooled carcass swab included neck, fore-
+legs, thoracic, abdomen, and hind legs. In addition, the 
+slaughter  personnel’s  hands,  surface  of  meat-cutting 
+
+Beyene et al. BMC Res Notes  (2017) 10:171 
+
+Page 3 of 9
+
+equipment  and  slaughter  line  were  swabbed  [35]  and 
+each swab was kept in a different material.
+
+For  every  swab  sample,  a  sterile  single  screw  capped 
+tube  filled  with  4  ml  of  buffered  peptone  water  (BPW) 
+was used. Prior to sampling, swab tips were moistened in 
+the BPW and during sampling, the swab was rotated and 
+rubbed against the sampled surface several times. After 
+completion  of  swabbing,  the  swab  was  placed  inside  a 
+screw-capped  tube  containing  BPW  and  transported 
+using a cold chain to Microbiology laboratory of College 
+of  Veterinary  Medicine  and  Agriculture,  Addis  Ababa 
+University and stored at +4 °C for a maximum of 24 h 
+until it was cultured [35].
+
+Study methodology
+Bacterial culture and species identification
+The  techniques  recommended  by  the  International 
+Organization  for  Standardization,  ISO  6888-3:  2003 
+[35]  was  employed  for  the  isolation  and  identification 
+of  Staphylococcus  species  from  abattoir  and  farm  sam-
+ples. Final identification of Staphylococci organisms and 
+species assignment were done based on Gram staining, 
+hemolysis  of  blood  agar,  catalase  test,  sugar  fermenta-
+tion test, oxidase test, coagulase test, oxidation–fermen-
+tation test, and growth on mannitol salt agar and Purple 
+agar base [35]. The biochemical test types used and the 
+responses  of  Staphylococci  species  to  the  biochemical 
+tests were summarized as shown in Table 1.
+
+Antimicrobial sensitivity test
+Disc  diffusion  testing  was  performed  for  Staphylococcal 
+isolates  in  accordance  with  the  Clinical  and  Laboratory 
+Standards  Institute  (CLSI)  (2008)  [36].  One  representa-
+tive antimicrobial agent from each subclass of commonly 
+used  antimicrobials  for  treatment  of  bovine  mastitis  or 
+considered as important antimicrobial agents for human 
+was  selected  for  susceptibility  testing.  The  phenotypic 
+antimicrobial  sensitivity  response  of  each  isolate  was 
+evaluated  using  panel  of  15  antimicrobial  discs.  The 
+
+used  antimicrobial  agents  included  15  μg  erythromy-
+cin (E), 10 μg streptomycin (S), 50 μg nitrofurantoin (F), 
+10 unit penicillin-G (P), 5 μg ciprofloxacin (CIP), 25 μg 
+sulfamethoxazole-trimethoprim  (SXT),  5  μg  cloxacillin 
+(OB), 30 μg cefoxitin (FOX), 30 μg chloramphenicol (C), 
+30  μg  tetracycline  (TE),  10  μg  gentamycin  (CN),  30  μg 
+vancomycin (VA), 30 μg kanamycin (K), 30 μg amoxicillin 
+(AML), and 30 μg nalidixic acid (NA). All the discs were 
+purchased from Oxoid, UK. The diameters of the zone of 
+inhibition around the disks were measured to the nearest 
+millimeter using rulers. The isolates were classified as sus-
+ceptible, intermediate and resistant according to the inter-
+pretative standards of CLSI (2008) [36]. Isolates showing 
+resistance  to  three  or  more  antimicrobial  subclass  were 
+considered as multiple drug resistant (MDR) [37].
+
+Data analysis
+Data was analyzed using SPSS software package (SPSS 20.0 
+for window 7, SPSS Inc, Chicago, Illinois). The proportions 
+of Staphylococcus isolates in samples from the abattoir and 
+dairy farms were computed. The Chi square (χ2) test was 
+used to determine the difference in proportions of Staphy-
+lococcus  among  different  sample  types  and  sources.  The 
+significance level of α = 0.05 was taken as a cut-off value.
+Results
+Our  personal  observation  during  sample  collection 
+showed that dairy farms and abattoir workers practiced 
+substandard  hygiene.  The  number  of  Staphylococcus 
+species isolated from personnel and equipment in dairy 
+farms and abattoir was presented in Table 2.
+
+Out of 193 samples, Staphylococci were isolated from 
+92 (47.7%) samples, 36 from the dairy farms and 56 from 
+the abattoir. The proportion of Staphylococcus isolates in 
+the sample sources and types varied, but not significant 
+(P > 0.05). Based on the biochemical tests, the predomi-
+nant species was S. aureus (n = 31; 16.1%), followed by 
+CNS (n = 24; 12.4%), S. intermedius (n = 21; 10.9%) and 
+S. hyicus (n = 16; 8.3%) (Table 2).
+
+Table 1  Differential tests used for identification of Staphylococcus species and their reactions
+
+Staphylococcus 
+species
+
+Hemolysis
+
+Pigment 
+production
+
+Gram 
+stain
+
+Coagulase 
+test
+
+Catalase 
+test
+
+OF test
+
+Fermentation 
+of sugar
+
+MSA
+
+PAB
+
+Susceptibility to  
+polymyxin B 
+(300 unit)
+
++
++
+–
+–
+
++
+–
+–
+–
+
++
++
++
+–
+
+S. aureus
+S. intermidius
+S. hyicus
+CNS
++, 90% or more strains are positive; ±, 90% or more strains are weakly positive; −, 90% or more strains are negative
+CNS coagulase negative staphylococcus, F fermentative, OF oxidation–fermentation, MSA mannitol salt agar, PAB Purple agar base, R resistant, S susceptible, NP not 
+performed
+
+R
+S
+R
+NP
+
++
++
++
++
+
++
++
++
++
+
+F
+F
+F
+F
+
++
+±
+–
+–
+
++
+±
+–
+–
+
+Beyene et al. BMC Res Notes  (2017) 10:171 
+
+Page 4 of 9
+
+Table 2  Proportions of Staphylococcus species isolated (n = 92) from dairy farms and abattoirs in Addis Ababa, Ethiopia
+Total N (%)
+Sample source
+
+S. intermedius N (%)
+
+S. aureus N (%)
+
+Sample type
+
+S. hyicus N (%)
+
+CNS N (%)
+
+Abattoir
+
+Farm
+
+AHS
+KS
+SLS
+CS
+BS
+FHS
+TM
+TS
+UM
+Total
+χ2 (P value)
+
+0 (0.0)
+2 (33.3)
+2 (33.3)
+12 (11.7)
+2 (25.0)
+2 (25.0)
+2 (25.0)
+1 (12.5)
+8 (20.0)
+31 (16.1)
+7.2 (0.5)
+
+0 (0.0)
+2 (33.3)
+0 (0.0)
+13 (12.6)
+0 (0.0)
+1 (12.5)
+0 (0.0)
+1 (12.5)
+4 (10.0)
+21 (10.9)
+6.9 (0.5)
+
+0 (0.0)
+1 (16.7)
+0 (0.0)
+9 (8.7)
+0 (0.0)
+1 (12.5)
+1 (12.5)
+0 (0.0)
+4 (10.0)
+16 (8.3)
+3.6 (0.9)
+
+1 (16.7)
+0 (0.0)
+3 (50.0)
+11 (10.7)
+1 (12.5)
+1 (12.5)
+1 (12.5)
+2 (25.0)
+4 (10.0)
+24 (12.4)
+10.4 (0.2)
+
+1 (16.7)
+5 (83.3)
+5 (83.3)
+45 (43.7)
+3 (37.5)
+5 (62.5)
+4 (50.0)
+4 (50.0)
+20 (50.0)
+92 (47.7)
+10.2 (0.2)
+
+AHS hand swab from abattoir, CNS coagulase negative Staphylococcus, KS knives swab, SLS slaughter line swab, CS carcass swab, BS bucket swab, FHS hand swabs from 
+farm, TM tanks milk, TS tanks swab, UM udder milk, N number
+
+Staphylococcus isolates from dairy farm
+The  36  (50.0%)  isolates  identified  as  Staphylococci  spe-
+cies  from  dairy  settings  were  tested  for  species  assign-
+ment using biochemical characteristics. The majority of 
+them were S. aureus (n = 15; 20.8%), followed by CNS 
+(n = 9; 12.5%), S. intermedius (n = 6; 8.3%) and S. hyicus 
+(n = 6; 8.3%). The frequency of isolation of Staphylococ-
+cus varied between sample types and ranged from 37.5 to 
+62.5%. Highest prevalence was observed in milkier hand 
+swabs (62.5%), however, the difference was not significant 
+(P > 0.05) (Table 2).
+
+Staphylococcus isolates from abattoir
+As indicated above from 121 abattoir source samples, 56 
+(46.3%) isolates of Staphylococcus species were isolated. 
+These isolates were grouped by biochemical test into S. 
+aureus (n = 16; 13.2%), CNS (n = 15; 12.4%), S. interme-
+dius (n = 15; 12.4%), and S. hyicus (n = 10; 8.3%). The 
+frequency of isolation of Staphylococcus varied between 
+sample types and ranged from 16.7 to 83.3%. The results 
+showed  a  comparatively  higher  prevalence  in  knife  and 
+slaughter hanging material swabs, each with 83.3%. This 
+difference was statistically significant (P < 0.05).
+
+Staphylococcus isolates from personnel
+Staphylococcus  was  isolated  from  14  hand  swabs  from 
+dairy farm workers (n = 8) and abattoir workers (n = 6). 
+Staphylococcus  species  was  isolated  from  six  (42.9%) 
+hand swab samples. The six isolates identified using bio-
+chemical characteristics as S. aureus (n = 2; 14.3%), CNS 
+(n = 2; 14.3%), S. intermedius (n = 1; 7.1%), and S. hyi-
+cus (n = 1; 7.1%). The results showed a relatively higher 
+prevalence in farm milkier hand swab having five (83.3%) 
+compared to the one isolate (16.7%) from abattoir work-
+ers’ hand swab. However, the difference was not statisti-
+cally significant (P > 0.05).
+
+Antimicrobial susceptibility testing
+Overall,  antimicrobial  susceptibility  test  was  performed 
+on  43  Staphylococcus  isolates.  Eighteen  (41.9%)  isolates 
+were  from  farms  and  25  (58.1%)  from  abattoir.  The  43 
+isolates  tested  comprised  of  S.  aureus  (n =  15;  34.9%), 
+CNS (n = 13; 30.2%), S. intermedius (n = 9; 20.9%), and 
+S. hyicus (n = 6; 14.0%). Penicillin-G (P) resistance was 
+the  highest  widespread  resistance  recorded  among  the 
+isolates in this study (n = 41 isolates; 95.3%), followed by 
+NA 38 (88.4%), OB 34 (79.1%), VA 28 (65.1%) and FOX 
+24  (55.8%).  Conversely,  lower  resistance  was  recorded 
+against  K  with  39  (90.7%)  susceptible  and  four  (9.3%) 
+intermediates  (Table  3).  Of  the  15  antibiotics  tested, 
+CN was currently the most effective drug as all of the 43 
+(100.0%)  isolates  were  susceptible.  Among  the  isolates 
+resistant to VA, S. aureus and CNS contributed for 39.3% 
+(11/28) and 32.1% (9/28), respectively.
+In this study, all of the S. aureus (n = 15; 100%), CNS 
+(n = 13; 100%) and S. hyicus (n = 6; 100%) isolates exhib-
+ited  MDR  as  each  isolate  at  least  resistant  to  >3  drugs 
+simultaneously.  Among  the  nine  S.  intermedius  isolates 
+tested,  8  (88.9%)  of  them  exhibited  MDR.  Alarmingly, 
+some  isolates  of  Staphylococcus  species  demonstrated 
+resistance to 13 different antimicrobial subclasses (MDR) 
+at a time as shown in Table 4. The comparison of AMR 
+patterns among various sample types showed there was 
+not statistically significant differences (P > 0.05).
+
+Discussion
+Both coagulase-positive Staphylococci and CNS are com-
+mensal opportunistic infections of animals and humans 
+[38].  They  cause  superficial  skin  infection,  mastitis  and 
+severe  invasive  diseases  in  farm  animals  and  wound 
+infections  in  humans  [3,  5].  They  are  also  well  known 
+for  their  food  poisoning  via  their  enterotoxins  [9,  13–
+17] and for their ability to acquire AMR [38]. However, 
+
+Beyene et al. BMC Res Notes  (2017) 10:171 
+
+Page 5 of 9
+
+Table 3  Antimicrobial  susceptibility  profile  of  Staphylococcus  isolates  (n =  43)  from  dairy  farms  and  abattoir  in  Addis 
+Ababa, Ethiopia
+
+Drug
+
+Susceptible N (%)
+
+Intermediate N (%)
+
+Resistant N (%)
+
+Amoxicillin (AML)
+Cefoxitin (FOX)
+Chloramphenicol (C)
+Ciprofloxacin (CIP)
+Cloxacillin (OB)
+Erythromycin (E)
+Gentamicin (CN)
+Kanamycin (K)
+Nalidixic acid (NA)
+Nitrofurantoin (F)
+Penicillin-G (P)
+Streptomycin (S)
+Sulfamethoxazole-trimethoprim (SXT)
+Tetracycline (TE)
+Vancomycin (VA)
+
+Key: N number
+
+33 (76.7)
+19 (44.2)
+27 (62.8)
+37 (85.0)
+9 (20.9)
+14 (32.6)
+43 (100.0)
+39 (90.7)
+4 (9.3)
+14 (32.6)
+2 (4.7)
+29 (67.4)
+33 (76.7)
+26 (60.5)
+15 (34.9)
+
+0 (0.0)
+0 (0.0)
+6 (14.0)
+5 (11.6)
+0 (0.0)
+9 (20.9)
+0 (0.0)
+4 (9.3)
+1(2.3)
+8 (18.6)
+0 (0.0)
+7 (16.3)
+1 (2.3)
+2 (4.6)
+0 (0.0)
+
+10 (23.3)
+24 (55.8)
+10 (23.3)
+1 (2.3)
+34 (79.1)
+20 (46.5)
+0 (0.0)
+0 (0.0)
+38 (88.4)
+21 (48.8)
+41 (95.3)
+7 (16.3)
+9 (20.9)
+15 (34.9)
+28 (65.1)
+
+Table 4  Multiple drug-resistance profile of Staphylococci isolates
+
+Number of drugs  
+showing resistance
+
+0
+3
+4
+5
+6
+7
+8
+9
+10
+13
+Total
+% with MDR
+χ2 (P value)
+
+Frequency
+
+Number and % of
+
+1
+3
+5
+9
+8
+7
+5
+3
+1
+1
+43
+
+S. aureus
+
+0 (0.0)
+1 (6.7)
+3 (20.0)
+4 (26.7)
+2 (13.3)
+2 (13.3)
+2 (13.3)
+1 (6.7)
+0 (0.0)
+0 (0.0)
+15 (100)
+15 (34.9)
+3.89  (0.91)
+
+S. intermedius
+
+S. hyicus
+
+CNS
+
+1 (11.1)
+1 (11.1)
+1 (11.1)
+2 (22.2)
+2 (22.2)
+0 (0.0)
+1 (11.1)
+0 (0.0)
+0 (0.0)
+1 (11.1)
+9 (100)
+8 (18.6)
+10.84 (0.287)
+
+0 (0.0)
+1 (16.7)
+0 (0.0)
+2 (33.3)
+1 (16.7)
+1 (16.7)
+0 (0.0)
+1 (16.7)
+0 (0.0)
+0 (0.0)
+6 (100)
+6 (14.0)
+4.51 (0.875)
+
+0 (0.0)
+0 (0.0)
+1 (7.7)
+1 (7.7)
+3 (23.1)
+4 (30.8)
+2 (15.4)
+1 (7.7)
+1 (7.7)
+0 (0.0)
+13 (100)
+13 (30.2)
+9.13 (0.426)
+
+CNS coagulase negative Staphylococcus, MDR multiple drug-resistance
+
+Total %
+
+2.3
+7.0
+11.6
+20.9
+18.6
+16.3
+11.6
+7.0
+2.3
+2.3
+100
+97.7 (100)
+
+a  good  estimate  of  the  magnitude  of  the  prevalence  of 
+Staphylococcus species and their AMR pattern in differ-
+ent  livestock  production  settings,  in  foods  of  livestock 
+origin, and in humans involved in handling of the foods 
+are poorly available in Ethiopia. Therefore, this study was 
+conducted  to  evaluate  the  prevalence  of  Staphylococci 
+and their drug resistance in dairy farms and abattoir set-
+tings of Addis Ababa.
+
+In  this  study,  the  overall  prevalence  of  Staphylococci 
+was  47.7%  of  193  tested  samples  collected  from  dairy 
+farm  and  abattoir  settings,  suggesting  the  significant 
+
+association  of  Staphylococci  species  with  livestock.  The 
+Staphylococci prevalence was higher at both dairy farm 
+(50.0%)  and  abattoir  (46.3%)  settings.  The  substandard 
+hygienic practices during pre-milking, milking and post 
+milking  activities  in  dairy  farms  might  have  contrib-
+uted.  Milk  hygiene  and  udder-cleaning  operation  was 
+insufficiently  conducted  in  Ethiopia  triggering  flare  up 
+of  mastitis  [39].  In  this  regard,  poor  pre-milking  udder 
+preparations  could  play  an  important  part  in  the  con-
+tamination  of  milk  during  milking  [40,  41].  Similarly, 
+poor  hygienic  practice  was  noticed  in  pre-slaughtering, 
+
+Beyene et al. BMC Res Notes  (2017) 10:171 
+
+Page 6 of 9
+
+slaughtering  and  post  slaughtering  activities  within  the 
+abattoir  during  this  study.  In  this  regards,  15.4%  of  the 
+abattoir  workers  had  no  health  certificate  and  11.3%  of 
+the butchers did not use protective clothes. There was no 
+hot water, sterilizer and cooling facility in the abattoir in 
+Ethiopia [42].
+
+The  higher  prevalence  of  Staphylococci  at  both  dairy 
+farm and abattoir settings in this study, indicating its (i) 
+serious economic, animal welfare, food safety and pub-
+lic  health  problem  and  (ii)  association  to  livestock  for 
+its  transmission  between  animals  and  humans  in  live-
+stock farm setting. Similar findings in its association with 
+livestock  have  been  reported  from  elsewhere  [43,  44]. 
+The predominant Staphylococci species detected in this 
+study were S. aureus (16.1%), followed by CNS (12.4%), 
+S. intermedius (10.9%), and S. hyicus (8.3%). These four 
+Staphylococci species group are said to be the most path-
+ogenic [5]. Furthermore, some animal-associated clones 
+within these species group appear to have the capacity to 
+colonize and cause disease in multiple host species [45]. 
+They are versatile pathogens with the ability to transfer 
+between  humans  and  different  livestock  [6,  9,  10]  with 
+a possible switch from one-to-another host species [44, 
+46].
+
+The  Staphylococci  species  resilience  characteristics 
+might be revealed in their ability to appear in a variety 
+of locations in this study. In this regard, we isolated them 
+from  bucket  swab  (37.5%),  tanks  swab  (50.0%),  tanks 
+milk (50.0%), udder milk (50.0%), and milkier hand swabs 
+(62.5%)  in  diary  settings.  We  also  isolated  them  from 
+carcass  meat  (43.7%),  abattoir  workers’  hand  (16.7%), 
+knife (83.3%) and slaughter hanging material (83.3%) in 
+abattoir  settings.  Interestingly,  16.7%  of  abattoir  work-
+ers  and  83.3%  of  milkier  personnel  carry  Staphylococci 
+in their hand. It has been reported that about one-third 
+of  humans  carry  Staphylococci  in  their  nasal  cavity 
+[46].  Thus,  frequently  washing  of  the  abattoir  slaugh-
+terers hand could be the possible factor responsible for 
+the  relatively  low  prevalence  of  Staphylococcus  in  abat-
+toir.  In  this  study,  Staphylococcus  isolates  were  isolated 
+more  from  carcass  meat  swab  from  slaughtered  cattle 
+than any other samples. This could be attributed to the 
+higher sample size of the carcass meat samples than oth-
+ers. The higher number of personnel workers at abattoir 
+might  have  also  contributed  to  carcass  contamination. 
+In general, our result revealed the substandard milk and 
+meat  hygiene  and  personnel  and  equipment  hygiene 
+practices  in  dairy  farms  and  abattoirs  during  handling, 
+storage and processing of foods of livestock origin. Our 
+finding agrees with the previous report from dairy farms, 
+slaughterhouses, food-processing units and on the body 
+parts of the animals and humans [12, 47]. For example, S. 
+aureus (13.2%), CNS (12.4%), S. intermedius (12.4%), and 
+
+S. hyicus (8.3%) were isolated from abattoir including car-
+cass meat. Isolation of these Staphylococci species from 
+meat demonstrated that they have entered the food chain 
+to affect the food safety and public health [48, 49]. Con-
+tamination of milk and meat by them could lead to food 
+poisoning through production of Staphylococcal entero-
+toxins. Available literature indicated that 62.9% of isolates 
+from sheep milk [50] and 15–55.9% of isolates from dairy 
+products  [16,  51–53]  produce  enterotoxin  with  marked 
+geographical  differences.  Although  this  is  beyond  the 
+scope of our paper, the culture of raw milk and raw meat 
+consumption  in  Ethiopia  might  be  potential  sources  of 
+Staphylococcal enterotoxin food poisonings to the public.
+The prevalence of S. aureus in 193 tested samples was 
+31(16.1%).  S.  aureus  was  isolated  from  nearly  all  sam-
+ple  types  with  different  proportion,  but  not  from  abat-
+toir  slaughter  worker’s  hand  swab  (0.0%).  This  finding 
+is  similar  with  the  17.2%  prevalence  in  Egypt  [54]  and 
+19.5%  from  human  and  animal  sources  [55],  but  lower 
+than 75% in bovine bulk milks [56], 68% [14], 61.3% [57], 
+40% [58] and 82.2% from cheeses made from raw cow’s 
+milk [59]. The 10.9% S. intermedius prevalence detected 
+in our study was similar with the 13% in cheese samples 
+[59]  but  higher  than  the  2%  in  milk  and  milk  product 
+samples  [58].  Similarly,  the  prevalence  of  S.  hyicus  was 
+8.3% in our study. Almost half of the total isolates were 
+isolated from carcass swab. It was higher than the 4% in 
+milk and milk product samples [58] and 4.5% in cheeses 
+[59]. CNS was the second most isolated species next to 
+S. aureus in this study. It was isolated from almost all the 
+samples except in knife swab. The predominant propor-
+tion of CNS was isolated from carcass swab. The overall 
+prevalence of CNS was 12.4%, which was lower than the 
+54% in raw milk of cattle in Mongolia [60] and 29% [59]. 
+The high number of CNS isolation in the current study 
+may be indicator for poor hygienic practices in the dairy 
+farms and abattoir. CNS is a part of the normal teat skin 
+flora,  mucosa  of  humans  and  animals,  and  also  found 
+free living in the environment [61, 62]. In the past, CNS 
+was often regarded as skin flora opportunists. However, 
+recent data indicate that they are associated with several 
+subclinical and clinical infections [63].
+
+Of  43  isolates,  42  (97.7%)  had  resistance  to  at  least 
+one of the 15 antimicrobials tested. It had been reported 
+that  about  90%  of  S.  aureus  isolated  from  patients  was 
+found resistant in 1980s [64]. The antimicrobials we cur-
+rently evaluated could be subjectively classified into four 
+based on magnitude of resistance recorded in this study. 
+These  include  (i)  highly  effective  antimicrobials  where 
+all  isolates  were  susceptible,  (ii)  effective  antimicrobials 
+as  >95%  isolates  were  susceptible,  (iii)  still  usable  anti-
+microbials as >50% of isolates were susceptible, and (iv) 
+not  recommended  for  use  as  >55%  of  the  isolates  were 
+
+Beyene et al. BMC Res Notes  (2017) 10:171 
+
+Page 7 of 9
+
+resistant. In this regard, the general drug use policy rec-
+ommends antimicrobials for use especially for treatment 
+of infection in humans only if less than half (<55%) of the 
+isolates are resistant [65].
+
+Accordingly, CN and K are the most effective antimi-
+crobials as all of the 43 Staphylococci isolates were sus-
+ceptible to both in this study. In fact, four (9.3%) of the 43 
+isolates had intermediate breakpoint response to K. Our 
+finding  was  similar  to  earlier  studies  in  other  countries 
+[55,  66,  67].  Few  isolates  had  resistance  to  CIP  (2.3%), 
+thus,  fits  to  the  second  antimicrobial  category  listed 
+above.  Third,  resistant  among  isolates  ranges  between 
+16.3  and  48.8%  for  some  antimicrobials  in  this  study. 
+Antimicrobials  in  this  group  include  S  (16.3%),  SXT 
+(20.9%), AML (23.3%), C (23.3%), TE (34.9%), E (46.5%), 
+and F (48.8%). Our finding is comparable to the findings 
+of others [26], but contrary to the findings in Taiwan [47]. 
+Fourth, >55% of the Staphylococci isolates had resistance 
+to cefoxitin (55.8%), VA (65.1%), OB (79.1%), NA (88.4%), 
+and P (95.3%). The resistance value recorded to P (95.3%) 
+was the highest in this study. In another study in different 
+geographical areas showed that it was 87.2% in Ethiopia 
+[68], 80% in Sweden [69], 57% in Iran [70], 50% in Fin-
+land [71], and 23% in West India [72]. In a separate study, 
+70–73% of S. aureus strains isolated from various foods 
+were resistant to β-lactam such as P and ampicillin [73]. 
+Penicillin (P) and other β-lactam antibiotics are the most 
+commonly used antimicrobials for the treatment of infec-
+tion  of  mastitis  in  veterinary  practice  in  Ethiopia  [64]. 
+The higher prevalence of penicillin resistant isolate could 
+be, therefore, related to prolonged, improper and indis-
+criminate usage as suggested by some authors [64, 74].
+
+Overall,  all  (100%)  of  S.  aureus,  CNS,  and  S.  hyicus 
+(whilst  88.9%  of  S.  intermedius)  isolates  had  resistance 
+to >3 antimicrobials (MDR) of all the tested drugs. The 
+share of MDR isolate by Staphylococci species among 43 
+isolates was 34.9% S. aureus, 30.2% CNS, 20.9% S. inter-
+medius, and 14.0% S. hyicus (Table 3) although it was not 
+significantly  different  between  Staphylococcus  species. 
+Most of MDR was primarily due to P, NA, OB, VA and 
+FOX in this study. This finding is higher than the study 
+result of Moon et al. [75] who reported that about two 
+out of 21 S. aureus has been reported to be resistant to >3 
+of  non-β-lactam  antimicrobials  including  P  and  E  [75]. 
+Furthermore,  higher  MDR  was  observed  in  our  study 
+than  (79%)  among  isolates  reported  in  Korea  [76]  and 
+at  Jimma  Hospital,  Ethiopia  (80%)  [77].  The  abundance 
+of  MDR  Staphylococci  isolated  from  milk  (farm),  meat 
+(abattoir),  equipment  and  humans  could  pose  a  risk  to 
+public health. Transfer of antimicrobial resistant bacteria 
+to humans has been reported via the food chain [23] and 
+from livestock [8]. AMR is a major public health burden 
+worldwide  [22].  Staphylococcus  strains  have  developed 
+
+MDR worldwide with broad diversity in prevalence rate 
+in different regions [37].
+
+Conclusions
+The  present  study  revealed  high  proportion  of  Staphy-
+lococcus  species  (47.7%)  (S.  aureus,  S.  intermedius,  S. 
+hyicus  and  CNS)  in  dairy  farms  and  abattoir  settings 
+at  Addis  Ababa.  Higher  proportion  of  isolation  rate  of 
+Staphylococcus  species  from  farm  and  abattoir  person-
+nel signals the existence of poor hygienic practices and 
+consequently, its public health implication. All the tested 
+isolates for antimicrobial susceptibility showed resistance 
+to at least three antimicrobial agents except one S. inter-
+midius isolate susceptible to all tested drugs. The isolates 
+also showed good susceptibility profile to CN, K, and CIP, 
+but resistance was observed against P, NA, OB, VA and 
+FOX. Moreover, MDR was also observed against some of 
+the commonly used antimicrobial agents. Thus, improv-
+ing hygienic measures in the dairy farms as well as within 
+the abattoir must be effected to safeguard the public from 
+risk of staphylococcal food poisoning and acquiring MDR 
+isolates.  Additionally,  future  research  should  consider 
+identifying  Staphylococcus  enterotoxins  from  milk  and 
+meat and genes responsible for AMR in Ethiopia.
+
+Abbreviations
+AML: amoxicillin; AMR: antimicrobial resistance; BAP: blood agar plates; BPW: 
+buffer peptone water; C: chloramphenicol; CFU: colony forming units; CI: 
+confidence interval; CIP: ciprofloxacin; CN: gentamycin; CNS: coagulase-
+negative Staphylococcus; E: erythromycin; ELFA: enzyme-linked fluorescent 
+assay; F: nitrofurantoin; FOX: cefoxitin; ISO: International standard organiza-
+tion; K: kanamycin; MSA: mannitol salt agar; µm: micrometer; MDR: multidrug 
+resistance; NA: nalidixic acid; NaCl: sodium chloride; NAP: nutrient agar plates; 
+OB: cloxacillin; P: penicillin-G; PAB: Purple agar base; S: streptomycin; SEs: 
+Staphylococcal enterotoxins; SXT: sulfamethoxazole-trimethoprim; TE: tetracy-
+cline; TSB: tryptone soya broth; VA: vancomycin; VRSA: vancomycin resistant 
+Staphylococcus aureus.
+
+Authors’ contributions
+RDA, AFB, FA and TB developed the research idea. HH and FG contributed to 
+collecting the materials. TB, FA, AFB, DA and RDA coordinated and supervised 
+the study. TB, HH, and FG conducted laboratory investigations. TB, FG, FA, 
+AFB, BM, HW and RDA provided valuable information on the subject of data 
+analysis and the design of the study. TB and HH drafted the manuscript. TB, 
+AFB and RDA revised the manuscript. All authors read and approved the final 
+manuscript.
+
+Author details
+1 Department of Biomedical Sciences, College of Veterinary Medicine 
+and Agriculture, Addis Ababa University, Bishoftu, Ethiopia. 2 Department 
+of Pharmacology and Clinical Pharmacy, College of Health Sciences, Addis 
+Ababa University, Addis Ababa, Ethiopia. 3 School of Veterinary Medicine, 
+Samara University, Samara, Ethiopia. 4 Department of Animal Sciences, Univer-
+sity of Florida, Gainesville, FL, USA. 5 Department of Clinical Studies, College 
+of Veterinary Medicine and Agriculture, Addis Ababa University, Bishoftu, 
+Ethiopia. 6 Department of Microbiology, Immunology and Veterinary Public 
+Health, College of Veterinary Medicine and Agriculture, Addis Ababa Univer-
+sity, Bishoftu, Ethiopia. 7 Department of Veterinary parasitology and pathol-
+ogy, College of Veterinary Medicine and Agriculture, Addis Ababa University, 
+Bishoftu, Ethiopia. 8 Department of Animal Sciences, University of Tennessee, 
+Knoxville, TN, USA. 
+
+Beyene et al. BMC Res Notes  (2017) 10:171 
+
+Page 8 of 9
+
+Acknowledgements
+This study was funded by Addis Ababa University. The support of the Addis 
+Ababa abattoir enterprise, dairy farm owners and individuals working in the 
+study dairy farms and abattoir is appreciated.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Availability of data and materials
+All data generated or analyzed during this study are included in the "Result".
+
+Ethics approval and consent to participate
+This study was granted an ethical approval from the College of Veterinary 
+Medicine and Agriculture Institutional Research and Review Committee. 
+Human samples were collected following prior explanation of the objectives 
+of the study to the farm workers, and sampled based on their consent. Confi-
+dentiality of the participants was maintained using unique code.
+
+Funding
+Addis Ababa University provided fund for this study.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.
+
+Received: 8 January 2016   Accepted: 20 April 2017
+
+References
+ 1.  Kwok AY, Chow AW. Phylogenetic study of Staphylococcus and Macro-
+
+ 2. 
+
+coccus species based on partial hsp60 gene sequences. Int J Syst Evolut 
+Microbiol. 2003;53(1):87–92.
+Sasaki T, Tsubakishita S, TanakaY Sakusabe A, Ohtsuka M, Hirotaki S, et al. 
+Multiplex-PCR method for species identification of coagulase-positive 
+staphylococci. J Clin Microbiol. 2010;48(3):765–9.
+
+ 3.  Becker K, Heilmann C, Peters G. Coagulase-negative staphylococci. Clin 
+
+Microbiol Rev. 2014;27(4):870–926.
+
+ 4.  Pyörälä S, Taponen S. Coagulase-negative staphylococci—emerging 
+
+mastitis pathogens. Vet Microbiol. 2009;134(1):3–8.
+
+ 5.  Devriese LA. Staphylococci in healthy and diseased animals. J Appl Bacte-
+
+ 6. 
+
+riol. 1990;19:71S–80S.
+Tanner MA, Everett CL, Youvan DC. Molecular phylogenetic evidence for 
+noninvasive zoonotic transmission of Staphylococcus intermedius from a 
+canine pet to a human. J Clin Microbiol. 2000;38(4):1628–31.
+
+ 7.  Oliver S, Jayarao B, Almeida R. Food borne pathogens in milk and the 
+
+dairy farm environment food safety and public health implications. 
+Foodbourne Pathog Dis. 2005;2:115–29.
+
+ 8.  Graveland H, Duim B, Van Duijkeren E, Heederik D, Wagenaar JA. Live-
+stock-associated methicillin-resistant Staphylococcus aureus in animals 
+and humans. Int J Med Microbiol. 2011;301(8):630–4.
+Takeuchi S, Kobayashi Y, Morozumi T, Niibori S. Isolation and some 
+properties of Staphylococcus hyicus subsp. hyicus from pigs, chickens and 
+cows. Jpn J Vet Sci. 1985;47(5):841–3.
+
+ 9. 
+
+ 10.  Zadoks R, Van Leeuwen H, Barkema O, Sampimon H, Verbrugh Y, Schuk-
+ken H, et al. Application of pulsed-field gel electrophoresis and binary 
+typing as tools in veterinary clinical microbiology and molecular epide-
+miologic analysis of bovine and human Staphylococcus aureus isolates. J 
+Clin Microbiol. 2000;38:1931–9.
+
+ 11.  Ateba C, Mbewe M, Moneoang M, Bezuidenhout C. Antibiotic resistant 
+
+Staphylococcus aureus isolated from milk in the Mafikeng Area, North 
+West province South Africa. S Afr J Sci. 2010;106:12–3.
+
+ 12.  Roberson JR, Fox LK, Hancock DD, Gay JM, Besser TE. Ecology of Staphy-
+lococcus aureus isolated from various sites on dairy farms1. J Dairy Sci. 
+1994;77(11):3354–64.
+
+ 13.  Adesiyun AA, Tatini SR, Hoover DG. Production of enterotoxin (s) by 
+
+Staphylococcus hyicus. Vet Microbiol. 1984;9(5):487–95.
+
+ 14.  Loir Y, Baron F, Gautier M. Staphylococcus aureus and food poisoning. 
+
+Genet Mol Res. 2003;2:63–76.
+
+ 15.  Rho M, Schaffner D. Microbial risk assessment of staphylococcal food 
+
+poisoning. J Food Microbiol. 2007;116:332–8.
+
+ 16.  Smith K. Food borne pathogenic microorganisms and natural tox-
+ins. Food and Drug Administration. Center Food Safety. Appl Nutr. 
+2007;10:119–50.
+
+ 18. 
+
+ 17.  Hennekinne JA, De Buyser ML, Dragacci S. Staphylococcus aureus and its 
+food poisoning toxins: characterization and outbreak investigation. FEMS 
+Microbiol Rev. 2012;36(4):815–36.
+Institute of Food Technologists (IFT). Bacteria associated with foodborne 
+diseases. Scientific status summary. The Society for Food Science and 
+Technology; 2004. http://www.ift.org/Knowledge-Center/Read-IFT-
+Publications/Science-Reports/Scientific-Status-Summaries/Bacteria-
+Associated-with-Foodborne-Diseases.aspx. Accessed 16 Feb 2017.
+
+ 19.  Alharbi A, Ibrahim ASS, Al-Salamah AA. Prevalence of various enterotoxins 
+
+among clinical Staphylococcus aureus strains isolated from food borne 
+poisoning patients. J Pure Appl Microbiol. 2014;8(4):379–88.
+
+ 20.  Sørum H, L’Abée-Lund TM. Antibiotic resistance in food-related bacteria-a 
+
+result of interfering with the global web of bacterial genetics. Int J Food 
+Microbiol. 2002;78(1):43–56.
+
+ 21.  Pesavento G, Ducci B, Comodo N, Nostro AL. Antimicrobial resistance 
+
+profile of Staphylococcus aureus isolated from raw meat: a research 
+for methicillin resistant Staphylococcus aureus (MRSA). Food Control. 
+2007;18(3):196–200.
+
+ 22.  Thirapatsakun T. Mastitis management. In: Hunt, Chantalakhana, editors. 
+
+Small holder dairying in the tropics. Nairobi: ILRI; 1999. p. 299–339.
+
+ 23.  Angulo F, Nargund V, Chiller T. Evidence of an association between use of 
+antimicrobial agents in food animals and antimicrobial resistance among 
+bacteria isolated from humans and human health consequences of such 
+resistance. J Vet Med. 2004;51:374–9.
+
+ 24.  De Silva M, Carvalho SM, Wisplinghoff H, Hall GO, Tallent S, Wallace S, et al. 
+
+Clonal spread of methicillin resistant Staphylococcus aureus in a large 
+geographic area of the United States. J Hosp Infect. 2003;53:103–10.
+
+ 25.  Sori H, Zerihun A, Abdicho S. Dairy cattle mastitis in and around Sebeta, 
+
+Ethiopia. J Appl Vet Med. 2005;3:1525–30.
+
+ 26.  Hailemariam M, Shibeshi W, Molla B, Moges A, Kiros T. Antimicrobial sus-
+ceptibility profile of mastitis isolates from cows in three major Ethiopian 
+dairies. Rev Med Vet. 2005;176(7):391–4.
+
+ 27.  Lee J, Jeong J, Park Y, Choi S, Kim Y, Chae J, et al. Evaluation of the 
+
+methicillin resistant Staphylococcus aureus (MRSA) screen latex agglu-
+tination test for detection of MRSA of animal origin. J Clin Microbiol. 
+2004;42:2780–2.
+
+ 28.  Asao T, Kumeda Y, Kawai T, Shibata T, Oda H, Haruki K, et al. An extensive 
+outbreak of staphylococcal food poisoning due to low-fat milk in Japan: 
+estimation of enterotoxin A in the incriminated milk and powdered skim 
+milk. Epidemiol Infect. 2003;130:33–40.
+
+ 29.  Schmidt T, Kock MM, Ehlers MM. Diversity and antimicrobial susceptibility 
+
+profiling of staphylococci isolated from bovine mastitis cases and close 
+contacts. J Dairy Sci. 2015;98(9):6256–69.
+
+ 30.  Beyene T, Endalamaw D, Tolossa Y, Feyisa A. Evaluation of rational use of 
+veterinary drugs especially antimicrobials and anthelmintics in Bishoftu, 
+Central Ethiopia. BMC Res Notes. 2015;8(1):482.
+
+ 31.  Tessema FA, Duguma R, Beyene T, Bihonegn A, Worku T, Adugna B, et al. 
+
+Drug resistance pattern of Staphylococcus in poultry in Central and 
+Southern Ethiopia. Global J Sci Front Res. 2016;16(2):31–6.
+
+ 32.  Abunna F, Bedasa M, Beyene T, Ayana D, Mamo B, Duguma R. Salmonella: 
+isolation and antimicrobial susceptibility tests on isolates collected from 
+poultry farms in and around Modjo, Central Oromia, and Ethiopia. JAPSC. 
+2016;5(2):21–35.
+
+ 33.  Beyene T, Yibeltie H, Chebo B, Abunna F, Beyi AF, Mammo B, Ayana D, 
+Duguma R. Identification and antimicrobial susceptibility profile of sal-
+monella isolated from selected dairy farms, abattoir and humans at Asella 
+town, Ethiopia. J Vet Sci Technol. 2016;7(3):320.
+
+ 34.  CSA (Central Statistical Authority). Statistical abstract. Federal Democratic 
+
+ 35. 
+
+Republic of Ethiopia; 2006.
+ISO 6888-3:2003. Microbiology of food and animal feeding stuffs horizon-
+tal method for the detection and identification of Staphylococci. Part 3. 
+Geneva, Switzerland. J Food Microbiol. 2003;64:361–66.
+
+Beyene et al. BMC Res Notes  (2017) 10:171 
+
+Page 9 of 9
+
+ 36.  CLSI. Performance standards for antimicrobial disk and dilution sus-
+
+ceptibility tests for bacteria isolated from animals. Clin Lab Stand Inst. 
+2008;28:M31–3.
+
+ 37.  Normanno G, LaSalandra G, Dambroise A, Quaglia N, Corrente M, Parisi 
+
+A, et al. Occurrence, characterization for enterotoxigenic Staphylococ-
+cus aureus isolated from meat and dairy product. J Food Microbiol. 
+2007;115:290–6.
+
+ 38.  Morgenstern M, Erichsen C, Hackl S, Mily J, Militz M, Friederichs J, 
+
+et al. Antibiotic resistance of commensal Staphylococcus aureus and 
+coagulase-negative staphylococci in an international cohort of surgeons: 
+a prospective point-prevalence study. PLoS ONE. 2016;11(2):e0148437.
+
+ 39.  Getaneh AM, Gebremedhin EZ. Meta-analysis of the prevalence of masti-
+tis and associated risk factors in dairy cattle in Ethiopia. Trop Anim Health 
+Prod. 2017. doi:10.1007/s11250-017-1246-3.
+
+ 40.  Anderson K, Pritchard D. An update on Staphylococcus aureus mastitis. 4th 
+ed. San Francisco: Benjamin/Cummings Publishing Company; 2008. p. 38.
+
+ 58.  Bendahou A, Lebbadi M, Ennanei L, Essadqui F, Abid M. Characterization 
+
+of Staphylococcus species isolated from raw milk and milk products (lben 
+and jben) in North Morocco. J Infect Dis Dev Ctries. 2008;2:218–25.
+ 59.  Lamprell H, Villard L, Chamba J, Beuvier E, Borges E, Maurin F, et al. 
+
+Identification and biotyping of coagulase positive Staphylococci (CPS) 
+in ripened French raw milk cheeses and its in vitro ability to produce 
+enterotoxins. Res Vet Med. 2004;155:92–6.
+
+ 60.  Tsegmed U. Staphylococci isolated from raw milk of yak and cattle in 
+Mongolia. Studies on the occurrence, characterization, detection of 
+enterotoxin and antimicrobial susceptibility profile of the isolates. Upp-
+sala: Swedish University of Agricultural Sciences, Master’s Thesis; 2006.
+
+ 61.  Kloos W, Bannerman T. Update on clinical significance of coagulase nega-
+
+tive Staphylococci. Clin Microbiol Rev. 1994;7:117–40.
+
+ 62.  Lourdes M, Cunha R, Sinzato Y, Silveira L. The medical significance and 
+
+identification of coagulase negative Staphylococci. J Clin Microbiol. 
+2004;99:855–60.
+
+ 41.  Rowe J. Milk quality and mastitis. Small ruminant for mixed practitioner. 
+
+ 63.  Shah M. Molecular pathogenesis of Staphylococcus aureus and other 
+
+Western Veterinary Conference, Lasvagas; 1999. pp. 152–6.
+
+Staphylococci. J Appl Bacteriol. 2003;59:207–21.
+
+ 42.  Haileselassie M, Taddele H, Adhana K, Kalayou S. Food safety knowledge 
+and practices of abattoir and butchery shops and the microbial profile of 
+meat in Mekelle City, Ethiopia. Asian Pac J Trop Biomed. 2013;3(5):407–12.
+ 43.  Fluit AC. Livestock-associated Staphylococcus aureus. Clin Microbiol Infect. 
+
+2012;18(8):735–44.
+
+ 44.  Verkade E, Kluytmans J. Livestock-associated Staphylococcus aureus 
+CC398: animal reservoirs and human infections. Infect Genet Evol. 
+2014;21:523–30.
+
+ 45.  Fitzgerald JR. Livestock-associated Staphylococcus aureus: origin, evolu-
+
+tion and public health threat. Trends Microbiol. 2012;20(4):192–8.
+
+ 46.  Sakwinska O, Giddey M, Moreillon M, Morisset D, Waldvogel A, Moreillon 
+P.  Staphylococcus aureus host range and human-bovine host shift. Appl 
+Environ Microbiol. 2011;77(17):5908–15.
+
+ 47.  Ma Y, Chang SK, Chou CC. Characterization of bacterial susceptibility 
+
+isolates in sixteen dairy farms in Taiwan. J Dairy Sci. 2006;1:55–6.
+
+ 48.  Blaiotta G, Ercolini D, Pennacchia C, Fusco V, Casaburi A, Pepe O, Villani 
+
+F. PCR detection of staphylococcal enterotoxin genes in Staphylococ-
+cus spp. strains isolated from meat and dairy products. Evidence for 
+
+new variants of seG and seI in S. aureus AB‐8802. J Appl Microbiol. 
+
+2004;97(4):719–30.
+
+ 49.  Zell C, Resch M, Rosenstein R, Albrecht T, Hertel C, Götz F. Characterization 
+
+of toxin production of coagulase-negative staphylococci isolated from 
+food and starter cultures. Int J Food Microbiol. 2008;127(3):246–51.
+
+ 50.  Bautista L, Gaya P, Medina M, Nunez M. A quantitative study of entero-
+toxin production by sheep milk Staphylococci. App Environ Microbiol. 
+1988;54:566–9.
+
+ 51.  Martın M, Fueyo J, Gonzalez M, Mendoza M. Genetic procedures for iden-
+
+tification of enterotoxigenic strains of Staphylococcus aureus from three 
+food poisoning outbreaks. J Food Microbiol. 2004;94:279–86.
+
+ 52.  Morandi S, Brasca M, Lodi R, Cremonesi P, Castiglioni B. Detection of clas-
+sical enterotoxins and identification of enterotoxin genes in Staphylococ-
+cus aureus from milk and dairy products. Vet Microbiol. 2007;124:66–72.
+
+ 53.  Salandra G, Goffredo E, Pedarra C, Nardella M, Parisi A, Dambrosio A, et al. 
+
+Occurrence, characterization and antimicrobial resistance pattern of 
+Staphylococcus species isolated from dairy products in southern Italy. Int 
+J Food Microbiol. 2008;9:327–60.
+
+ 54.  Seedy E, El-Shabrawy F, Hakim M, Dorgham A, Ata S, Nagwa S, et al. 
+
+Recent techniques used for isolation and characterization of Staphylococ-
+cus aureus from mastitic cows. Am J Sci. 2010;6:1–8.
+
+ 55.  Jakee J, Ata S, Nagwa M, Sahar BA, Elgabry ZE, El-Said GW. Characteristics 
+of Staphylococcus aureus strains isolated from human and animal sources. 
+Am-Euras J Agri Environ Sci. 2008;4:221–9.
+
+ 56.  Jorgensen H, Mork T, Rorvik L. The occurrence of Staphylococcus aureus 
+
+on a farm with small scale production of raw milk cheese. J Dairy Sci. 
+2005;88:3810–7.
+
+ 57.  Hein I, Jorgensen H, Loncarevic S, Wagner M. Quantification of Staphylo-
+
+coccus aureus in unpasteurized bovine and caprine milk by real-time PCR. 
+Res Microbiol. 2005;156:554–63.
+
+ 64.  Mekuria A, Asrat D, Woldeamanuel Y, Tefera G. Identification and antimi-
+
+crobial susceptibility of Staphylococcus aureus isolated from milk samples 
+of dairy cows and nasal swabs of farm workers in selected dairy farms 
+around Addis Ababa Ethiopia. Afr J Microbiol Res. 2013;7(27):3501–10.
+
+ 65.  Nihal Y, Sumru C, Sinem B. Antimicrobial resistance profile of Staphylococ-
+cus aureus isolated from clinical samples and foods of animal origin. Food 
+Pathog Dis. 2011;8:427–31.
+
+ 66.  Edward M, Anna K, Michal K, Henryka L, Krystyna K. Antimicrobial 
+
+susceptibility of Staphylococci isolated from mastitic cows. Bull Vet Inst. 
+2002;46:289–94.
+
+ 67.  Gentilini E, Danamiel A, Betancor M, Rebuelto M, Fermepin R, Detorrest R. 
+Antimicrobial susceptibility of coagulase negative Staphylococci isolated 
+from bovine mastitis in Argentina. J Dairy Sci. 2002;85:1913–7.
+
+ 68.  Sori T, Hussien J, Bitew M. Prevalence and susceptibility assay of Staphylo-
+coccus aureus isolated from bovine mastitis in dairy farms in Jimma town 
+South West Ethiopia. J Anim Vet Adv. 2011;10:745–9.
+
+ 69.  Landin H. Treatment of mastitis in Swedish dairy production. Svensk Vet. 
+
+2006;58:19–25 (in Swedish with English summary).
+
+ 70.  Gooraninejad S, Ghorbanpoor M, Salati A. Antibiotic susceptibility of 
+Staphylococci isolated from bovine sub-clinical mastitis. Pak J Biol Sci. 
+2007;10:2781–3.
+
+ 71.  Myllys V, Asplund K, Brofeld E, Koski HV, Buzalski HT. Bovine mastitis in 
+
+Finland in 1988 and 1995. Changes in prevalence and antimicrobial resist-
+ance. Acta Vet Scand. 1998;39:119–26.
+
+ 72.  Adesiyun A. Characteristics of Staphylococcus aureus strains isolated from 
+bovine mastitic milk: bacteriophage and antimicrobial agent susceptibil-
+ity and enterotoxigenecity. J Vet Med. 1994;42:129–39.
+
+ 73.  Pereira V, Lopes C, Castro A, Silva J, Gibbs P, Teixeira P. Characterization for 
+
+enterotoxins production, virulence factors and antibiotic susceptibility 
+of Staphylococcus aureus isolates from various food in Portugal. Food 
+Microbiol. 2009;26:278–82.
+
+ 74.  Jaims E, Montros L, Renata D. Epidemiology of drug resistance; the case 
+
+of Staphylococcus aureus and coagulase negative Staphylococci infec-
+tions. Salud Pub Mex. 2002;44:108–12.
+
+ 75.  Moon J, Lee A, Jaw S. Comparison of antibiogram, staphylococcal entero-
+
+toxin productivity, and coagulase genotypes among Staphylococcus 
+aureus isolated from animal and vegetable sources in Korea. J Food Prot. 
+2007;70:2541–8.
+
+ 76.  Chao G, Zhou X, Jiao X. Prevalence and antimicrobial resistance of food 
+
+borne pathogens isolated from food products in China. Food borne 
+Pathog Dis. 2007;4:277–84.
+
+ 77.  Balta B, Derbie F. Nasal carriage of methicillin resistant Staphylococcus 
+
+aureus strains among inpatients of Jimma hospital, South Western Ethio-
+pia. Ethiop J Health Sci. 2003;13:30–40.
+
+

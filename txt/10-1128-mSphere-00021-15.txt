@@ -1,0 +1,1283 @@
+RESEARCH ARTICLE
+Applied and Environmental Science
+crossmark
+
+Received 1 October 2015 Accepted 28
+December 2015 Published 10 February 2016
+Citation Braykov NP, Eisenberg JNS, Grossman
+M, Zhang L, Vasco K, Cevallos W, Muñoz D,
+Acevedo A, Moser KA, Marrs CF, Foxman B,
+Trostle J, Trueba G, Levy K. 2016. Antibiotic
+resistance in animal and environmental
+samples associated with small-scale poultry
+farming in northwestern Ecuador. mSphere
+1(1):e00021-15. doi:10.1128/mSphere.00021-
+15.
+Editor Timothy M. LaPara, University of
+Minnesota
+Copyright © 2016 Braykov et al. This is an
+open-access article distributed under the terms
+of the Creative Commons Attribution 4.0
+International license.
+Address correspondence to Karen Levy,
+karen.levy@emory.edu.
+
+Antibiotic Resistance in Animal and
+Environmental Samples Associated with
+Small-Scale Poultry Farming in
+Northwestern Ecuador
+
+Betsy Foxman,b James Trostle,g Gabriel Trueba,e
+
+Nikolay P. Braykov,a Joseph N. S. Eisenberg,b Marissa Grossman,a Lixin Zhang,c,d
+Karla Vasco,e William Cevallos,e,f Diana Muñoz,e Andrés Acevedo,e Kara A. Moser,b
+Karen Levyh
+Carl F. Marrs,b
+Program in Population Biology, Ecology and Evolution, Emory University, Atlanta, Georgia, USAa; Department
+of Epidemiology, University of Michigan, Ann Arbor, Michigan, USAb; Department of Epidemiology &
+Biostatistics, Michigan State University, East Lansing, Michigan, USAc; Department of Microbiology and
+Molecular Genetics, Michigan State University, East Lansing, Michigan, USAd; Instituto de Microbiología,
+Universidad San Francisco de Quito, Quito, Ecuadore; Universidad Central del Ecuador, Quito, Ecuadorf;
+Department of Anthropology, Trinity College, Hartford, Connecticut, USAg; Department of Environmental
+Health, Emory University, Atlanta, Georgia, USAh
+
+The effects of animal agriculture on the spread of antibiotic resistance
+ABSTRACT
+(AR) are cross-cutting and thus require a multidisciplinary perspective. Here we use
+ecological, epidemiological, and ethnographic methods to examine populations of
+Escherichia coli circulating in the production poultry farming environment versus the
+domestic environment in rural Ecuador, where small-scale poultry production em-
+ploying nontherapeutic antibiotics is increasingly common. We sampled 262 “pro-
+duction birds” (commercially raised broiler chickens and laying hens) and 455
+“household birds” (raised for domestic use) and household and coop environmental
+samples from 17 villages between 2010 and 2013. We analyzed data on zones of in-
+hibition from Kirby-Bauer tests, rather than established clinical breakpoints for AR, to
+distinguish between populations of organisms. We saw signiﬁcantly higher levels of
+AR in bacteria from production versus household birds;
+resistance to either
+amoxicillin-clavulanate, cephalothin, cefotaxime, and gentamicin was found in 52.8%
+of production bird isolates and 16% of household ones. A strain jointly resistant to
+the 4 drugs was exclusive to a subset of isolates from production birds (7.6%) and
+coop surfaces (6.5%) and was associated with a particular purchase site. The preva-
+lence of AR in production birds declined with bird age (P ⬍ 0.01 for all antibiotics
+tested except tetracycline, sulﬁsoxazole, and trimethoprim-sulfamethoxazole). Farm-
+ing status did not impact AR in domestic environments at the household or village
+level. Our results suggest that AR associated with small-scale poultry farming is pres-
+ent in the immediate production environment and likely originates from sources
+outside the study area. These outside sources might be a better place to target con-
+trol efforts than local management practices.
+
+In developing countries, small-scale poultry farming employing anti-
+IMPORTANCE
+biotics as growth promoters is being advanced as an inexpensive source of protein
+and income. Here, we present the results of a large ecoepidemiological study exam-
+ining patterns of antibiotic resistance (AR) in E. coli isolates from small-scale poultry
+production environments versus domestic environments in rural Ecuador, where
+such backyard poultry operations have become established over the past decade.
+Our previous research in the region suggests that introduction of AR bacteria
+through travel and commerce may be an important source of AR in villages of this
+region. This report extends the prior analysis by examining small-scale production
+chicken farming as a potential source of resistant strains. Our results suggest that AR
+
+Volume 1 Issue 1 e00021-15
+
+msphere.asm.org 1
+
+Braykov et al.
+
+strains associated with poultry production likely originate from sources outside the
+study area and that these outside sources might be a better place to target control
+efforts than local management practices.
+KEYWORDS: antibiotic resistance, epidemiology, microbial ecology
+
+Antibiotic resistance (AR) is a growing public health concern in the United States (1)
+
+and globally (2). The overuse and misuse of antibiotics in human medicine (3, 4)
+and in animal agriculture, where the vast majority of antimicrobials are used (5),
+contribute to the evolution and spread of antibiotic-resistant pathogens (6). Farmed
+animals and the broader environment can serve as reservoirs of AR genes that can be
+exchanged across species (7–10). Numerous resistance genes in human pathogens
+have environmental origins (11), and the environmental resistome is enriched and
+mobilized when soil and water are contaminated with runoff from farms (12) or with
+antibiotic residues (5, 13). Multiple pathways link AR in these reservoirs to human
+health; epidemiological studies going back to the 1970s show an association between
+antibiotic use on farms and colonization with livestock-associated strains in workers
+(14) and surrounding communities (15).
+
+Although restricted in developed countries (16), the nontherapeutic use of antibi-
+otics in animal husbandry is increasing in many developing countries, fueled by the
+rapid growth of poultry production that relies heavily on antibiotics for growth pro-
+motion (17, 18). Backyard poultry farming is promoted as an economic development
+and nutrition supplementation strategy in Africa, Asia, and Latin America (19, 20). Given
+the sustained global increase in poultry and concurrent use of agricultural antibiotics,
+there is a need for studies examining connections between animals in intensive
+production and the surrounding environment and potential human health impacts,
+especially where animals are raised in close proximity to human communities.
+
+In this report, we compare and examine AR data from Escherichia coli populations
+circulating in poultry production versus domestic environments in a ﬁeld site in rural
+Northwest Ecuador. Our previous research suggests that introduction of AR bacteria
+from outside sources may be an important source of AR in villages of this region (21).
+This report extends the prior analysis by more closely analyzing one potential source of
+AR, small-scale production chicken farming.
+
+RESULTS
+Quantitative characterization of poultry production. Monthly census surveys
+showed wide variability in the number of production birds raised over time. Of the 17
+villages for which monthly data were available, 15 were categorized based on the
+maximum number of birds recorded by our surveillance surveys (i.e., the intensity of
+production in the villages) during the study period (high intensity, ⬎500 birds, n ⫽ 4;
+medium intensity, 150 to 500 birds, n ⫽ 7; low intensity, ⬍150 birds, n ⫽ 4; no data
+available, n ⫽ 2; see Fig. S1 in the supplemental material). Poultry production was
+intermittent in all of the villages, with periods when no broilers were raised.
+In
+high-intensity villages, the size of ﬂocks rarely exceeded 500 during the surveys. At the
+time of sampling visits, birds were actively farmed in 10 villages.
+
+Qualitative characterization of poultry production. Ethnographic interviews
+conﬁrmed that poultry production varied widely over time and in scale: while some
+households periodically maintained ﬂocks of ~10 birds, others housed up to several
+hundred. Most backyard coops were located within 50 m of houses in raised open
+structures or directly below the family home. Two villages in the region had large
+facilities (for housing up to 1,500 birds of multiple ages) built with foreign and local
+government aid, located away from other houses, and run cooperatively by a group of
+community members.
+
+Ethnography also conﬁrmed that poultry production in this region is highly inter-
+mittent and characterized by “boom and bust” cycles. Development projects commonly
+provide training, birds, and initial supplies. However, once outside support is with-
+
+Volume 1 Issue 1 e00021-15
+
+msphere.asm.org 2
+
+Antibiotic Resistance in Small-Scale Poultry Farming
+
+TABLE 1 Counts of E. coli isolates collected from 17 villages in Esmeraldas Province,
+Ecuador, in 2010 to 2013 classiﬁed by sample typea
+
+Sample type
+or age of bird
+Poultry
+
+Household
+Production
+⬍2 wks
+3–5 wks
+⬎6 wks
+Data not available
+
+Environment
+
+Household water
+Household soil
+Coop soil
+Household surfaces
+Coop surface
+
+No. of
+E. coli
+isolates
+1,875
+1,089
+786
+297
+165
+216
+108
+
+1,460
+326
+863
+96
+98
+77
+
+No. of
+samples
+622
+360
+262
+105
+62
+76
+37
+
+529
+144
+265
+34
+54
+32
+
+No. of
+households
+226
+206
+35
+10
+13
+10
+13
+
+190
+114
+187
+17
+46
+14
+
+No. of
+villages
+17
+17
+10
+6
+6
+7
+5
+
+17
+17
+17
+6
+8
+5
+
+aProduction bird data include broilers and laying hens.
+
+drawn, production may become unsustainable due to lack of reinvestment in the ﬂock,
+outbreaks of diseases, and other factors negatively impacting yield. Another major
+driver of variability in poultry farming is the ﬂuctuating demand inherent in the market.
+This is particularly true in remote communities where markets are seasonal or episodic
+and driven by demand during holidays.
+
+Additional ethnographic details about poultry production in the region, as well as
+results of the chemical analysis of poultry feed, can be found in the supplemental
+material.
+
+Sample characterization and susceptibility breakpoints. Counts of isolates
+and samples positive for E. coli included in the analysis are shown in Table 1. Household
+birds (n ⫽ 360) were sampled in all 17 villages, and production birds (n ⫽ 262) were
+actively being raised in 10 villages at the time of sampling. Environmental samples were
+collected from all 17 villages. The frequency and timing of sampling events for study
+sites are shown in Table S2 and Fig. S2 in the supplemental material. For all drugs, the
+custom breakpoint was lower than the ofﬁcial susceptible one, but for most drugs, the
+custom breakpoints were in the intermediate range as deﬁned by CLSI. Table S3 shows
+the ofﬁcial resistant and susceptible breakpoints deﬁned by CLSI, the custom break-
+point values estimated using our approach and subsequently applied in the analysis,
+and the percentage of isolates that would be classiﬁed as resistant under each scenario.
+Details of the ﬁtted mixture models are available in Fig. S3.
+
+Antibiotic resistance in poultry samples. (i) Production versus household
+poultry. Production birds,
+including broilers and laying hens, had high levels of
+resistance and a notably higher proportion of resistant isolates than household birds
+(resistance data were deﬁned using our custom breakpoints). Resistance to tetracycline
+was detected in 78% of production birds and 34% of household birds. More than half
+of the production bird isolates were resistant to sulﬁsoxazole and trimethoprim-
+sulfamethoxazole (69% and 63%, respectively) compared to 20% and 17%, respectively,
+of the isolates from household birds (Table 2). The lowest resistance was to gentamicin
+(16% of production and 1% of household bird isolates) and amoxicillin/clavulanate
+(18% and 2%, respectively). The difference between production and household bird
+isolates was statistically signiﬁcant (P ⬍ 0.01) for all drugs according to the results of
+analysis performed using generalized linear mixed models with a binomial identity link
+function (GLMM-logit) and was also reﬂected in the data showing signiﬁcantly lower
+zones of inhibition (P ⬍ 0.01 for all drugs according to the results determined for
+continuous outcome measures using GLMM and analysis of variance [GLMM-ANOVA])
+(Fig. 1).
+
+Examining the differences in the modality of zone distributions, we observed a
+phenotypic pattern of AR unique to production birds. Distributions for amoxicillin/
+
+Volume 1 Issue 1 e00021-15
+
+msphere.asm.org 3
+
+Braykov et al.
+
+TABLE 2 Percentages of E. coli isolates resistant to a panel of 12 antibiotics classiﬁed by
+sample typea
+
+% of E. coli isolates resistant to:
+
+Sample type
+Poultry
+
+Production
+(n ⫽ 786)
+Household
+
+(n ⫽ 1,089)
+
+Environment
+
+Household water
+
+(n ⫽ 326)
+
+Household soil
+
+(n ⫽ 863)
+
+Coop soil
+
+(n ⫽ 96)
+
+Household surfaces
+
+(n ⫽ 98)
+
+Coop surfaces
+
+(n ⫽ 77)
+
+AMC AM CTX CF
+TMP
+9.01
+19.79 40.27 52.64 36.32
+18.32 44.91 24.55 22.52 28.37 29.64 29.52 15.78 36.39 69.08 78.12 63.23
+
+26.24 13.44 10.61 15.68 16.11 15.89 7.25
+
+TE
+
+G
+
+C
+
+CIP
+
+ENO GM S
+
+2.30
+
+12.76 5.42
+
+2.02
+
+6.52
+
+6.34
+
+6.06
+
+1.10
+
+7.81
+
+19.47 34.25 16.90
+
+6.44
+18.97 6.03
+12.27 26.38 4.60
+
+5.41
+7.05
+10.12 6.13
+
+4.52
+4.29
+
+4.59
+4.60
+
+3.01
+2.15
+
+6.71
+4.60
+
+23.29 31.30 20.89
+26.07 29.14 23.01
+
+4.17
+
+15.30 5.45
+
+2.32
+
+6.14
+
+3.36
+
+3.36
+
+2.67
+
+4.98
+
+18.19 27.46 15.87
+
+4.17
+
+17.71 8.33
+
+8.33
+
+9.38
+
+7.29
+
+7.29
+
+5.21
+
+12.50 35.42 53.13 35.42
+
+2.04
+
+20.41 3.06
+
+2.04
+
+6.12
+
+1.02
+
+1.02
+
+0.00
+
+9.18
+
+24.49 28.57 19.39
+
+15.58 28.57 19.48 20.78 19.48 19.48 19.48 11.69 24.68 51.95 59.74 51.95
+
+aNumbers show percentages of isolates classiﬁed as resistant based on their zone of inhibition. Categorical
+interpretation is based on breakpoints derived as described in Materials and Methods. The number of isolates
+tested for each sample type is shown in Table 1. AMC, amoxicillin/clavulanate, AM, ampicillin; CTX, cefotaxime; CF,
+cephalothin; C, chloramphenicol; CIP, ciproﬂoxacin; ENO, enroﬂoxacin; GM, gentamicin; S, streptomycin; G,
+sulﬁsoxazole; TE, tetracycline; TMP, trimethoprim.
+
+clavulanate, cefotaxime, cephalothin, and gentamicin, shown in the top row of Fig. 1,
+showed bimodal tendencies for production birds, suggesting a mixed population of
+susceptible and resistant strains. Household birds had a unimodal distribution, with the
+exclusive presence of strains susceptible to these drugs. We refer here to this particular
+phenotypic pattern as a “production bird signature,” as this pattern suggests the
+presence of resistant phenotypes unique to production birds and not found in house-
+hold birds. In contrast, distributions for all other drugs were bimodal for both types of
+poultry, suggesting that the same resistance phenotype is present in both samples,
+although the resistance phenotype was more prevalent in production birds for all
+drugs.
+
+Resistance to at least one of the production signature drugs was present in 52.8%
+of production and 16% of household bird isolates during all sampling visits across all
+sites. Simultaneous resistance to the four drugs was found in 7.3% (57/786) of produc-
+tion bird isolates. While the phenotype was recovered in every quarter of the study
+period when poultry were sampled, 32 of the isolates were from one particular ﬂock of
+chicks aged 10 to 14 days and purchased from a large city outside the immediate study
+area.
+
+(ii) Production birds by age. The prevalence of resistant phenotypes tended to
+decrease with bird age (Fig. 2) for all drugs (P ⬍ 0.05 by GLMM-ANOVA) except those
+with the highest resistance levels (i.e., sulﬁsoxazole, trimethoprim-sulfamethoxazole,
+and tetracycline). This suggests that production birds are already colonized with strains
+resistant to some drugs when they are purchased and that this carriage declines with
+age. Age data were not available for household birds, but in comparisons of 105 birds
+of the youngest group (⬍2 weeks) to all 360 household ones, the production birds
+showed pronounced, characteristic differences in the modality of distributions (i.e., a
+“production signature”);
+the oldest group
+(⬎6 weeks), the modalities of the distributions did not differ (see Fig. S4A and B in the
+supplemental material). However, older production birds still retained resistance levels
+that were signiﬁcantly higher than those determined for the household ones (P ⬍ 0.01
+by GLMM-ANOVA and GLMM-logit).
+
+in comparisons among 76 birds of
+
+(iii) Production birds by point of purchase. Information on the purchase source
+of ﬂocks was available for 38 of 105 production birds of age ⬍2 weeks. The prevalence
+
+Volume 1 Issue 1 e00021-15
+
+msphere.asm.org 4
+
+Antibiotic Resistance in Small-Scale Poultry Farming
+
+FIG 1 Kernel density estimates of inhibition zones and categorical interpretation of susceptibility tests of E. coli isolates.
+Distributions for samples from production birds (broilers and laying hens; n ⴝ 786 isolates from 262 birds) are shown in red, and
+distributions for household birds (n ⴝ 1,089 isolates from 360 birds) are shown in blue; overlapping portions are shown in gray.
+Percentages of resistant isolates in each sample are shown in corresponding colors. Larger zones of inhibition indicate that the
+isolate was less susceptible. Dashed lines show the custom susceptibility breakpoint that was derived from the use of a mixture
+model and was used to derive that categorical interpretation. Dotted lines show the consensus Clinical and Laboratory Standards
+Institute (CLSI) clinical breakpoints (46, 47).
+
+of AR among these samples differed by the location where chicks were purchased
+(Fig. 3). This trend was signiﬁcant for 11 of the 12 drugs (P ⬍ 0.01 by GLMM-logit).
+Resistance, particularly to the production bird signature drugs (shown in the top row of
+Fig. 3), was always highest for chicks purchased in town B, a large city outside the
+immediate study area. Resistance in broilers from towns B and C decreased with age
+(see Fig. S5 in the supplemental material). For town A, the direction of the change
+depended on the initial starting levels. Irrespective of source, the trend was for levels
+of resistance in older birds to converge toward those shown by domestic birds. Data
+forms used during sampling recorded only the town from which the birds were sourced
+and not the speciﬁc stores. However, the ﬁeld workers noted no more than 5 stores,
+and usually 1 to 3, in each of the 3 towns. Our ethnographic interviews with a veterinary
+store owner in town B revealed that he regularly supplemented the chicks’ drinking
+water with antibiotics as soon as they arrived at his shop and before resale to
+customers. The variation in resistance patterns could be at the level of the town or,
+more likely, at that of a particular veterinary store.
+
+(iv) Production birds with added antibiotics in water. Detailed surveys on
+poultry rearing practices were available for 96 production birds in 20 households in
+nine villages. Farmers reported administering penicillin plus streptomycin, tetracycline,
+sulfonamide, sulfamethazine plus trimethoprim, piperacillin, erythromycin, sulbactam,
+and/or enroﬂoxacin. Of 20 farming households surveyed in detail about poultry-raising
+practices, 16 (80%) reported supplementation with antibiotics beyond what is already
+available in feed. No signiﬁcant differences were observed between birds with and
+
+Volume 1 Issue 1 e00021-15
+
+msphere.asm.org 5
+
+Braykov et al.
+
+FIG 2 Categorical resistance of E. coli isolates from production birds (broilers and laying hens) classified by age of bird. Age data are based on results
+of surveys conducted at time of sample collection. n ⴝ 678 isolates from 225 birds had age available (n ⴝ 297 isolates from 105 birds aged <2 weeks;
+n ⴝ 165 isolates from 62 birds aged 3 to 5 weeks; n ⴝ 216 isolates from 76 birds aged >6 weeks). Black dots show the frequency of resistant isolates
+for each age group and transparent ones the frequency of resistant isolates for birds of unknown age (n ⴝ 108 isolates from 37 birds). Resistance
+categorization data are based on custom breakpoints. A generalized linear mixed-effects model of the zone of inhibition regressed against age, with bird
+category included as a random effect, showed a significant decline in resistance (P < 0.05) for all drugs with the exception of sulfisoxazole (P ⴝ 0.65),
+trimethoprim (P ⴝ 0.66), and tetracycline (P ⴝ 0.8).
+
+without reported supplemental antibiotic administration (P ⬎ 0.05 for all drugs by
+GLMM-ANOVA and GLMM-logit).
+
+Antibiotic resistance in environmental samples. (i) Surface isolates from
+coops and households. Resistance patterns in isolates from birds in coops were
+similar to the patterns in those from production birds but different from the patterns
+in household isolates. Surface isolates from coops showed higher resistance levels than
+surface isolates from the domestic environment (P ⬍ 0.05 by GLMM-logit and GLMM-
+ANOVA, with the exception of ampicillin and chloramphenicol) (Fig. 4). In addition,
+surface isolates from coops exhibited the production bird signature pattern of resis-
+tance (shown in the top row of Fig. 4). Simultaneous resistance to the four signature
+drugs was detected in 5 of 72 recovered isolates (6.5%), all from the same site where
+the ﬂock of chicks with high prevalence of the same strain was sampled.
+
+(ii) Water and soil isolates by farming history of household. Using household
+survey data on past experiences with production poultry farming in all villages, we
+divided households into those that had farmed production birds within the previous
+year, those that had farmed production birds over 1 year before the sampling event,
+and those that had never farmed production birds. We saw no differences in inhibition
+zone proﬁles, and their categorical interpretations showed no signiﬁcant differences
+across groups for household water samples and only minor differences across groups
+for household soil samples (see Fig. S6A and B in the supplemental material).
+
+(iii) Water and soil isolates by farming history of village. We were also
+interested in whether poultry farming had an effect on AR proﬁles at a larger scale.
+Using the monthly survey data on poultry production, villages were categorized into
+high-, medium-, and low-intensity farming sites, respectively deﬁned as ⬎400 broilers,
+100 to 400 broilers, and ⬍100 broilers raised in the year prior to environmental
+
+Volume 1 Issue 1 e00021-15
+
+msphere.asm.org 6
+
+Antibiotic Resistance in Small-Scale Poultry Farming
+
+FIG 3 Antibiotic resistance in E. coli isolates from production birds (broilers and laying hens) of age <2 weeks by purchase location. Locations are based
+on results of surveys conducted at the time of sample collection. Resistance categorization data are based on custom breakpoints. The data from town
+A (n ⴝ 34 isolates from 12 samples) and town C (n ⴝ 24 isolates from 9 samples) were significantly different (P < 0.05) from the data from town B (n ⴝ
+48 isolates from 17 samples) by GLMM-ANOVA and GLMM-logit. n ⴝ 106 isolates from 38 samples.
+
+sampling. Again, we saw only minor differences in inhibition zone proﬁles and their
+categorical interpretations across these village groups for household water and soil
+samples (see Fig. S7A and B in the supplemental material).
+
+Cluster analysis of resistance patterns across all sample sources. To visualize
+the relative similarities of AR patterns across all sample types, we performed hierarchi-
+cal clustering analysis using the normalized zones of inhibition. A dendrogram, which
+includes bootstrap support values (Fig. 5), shows that production bird and coop surface
+isolates form a clade distinct from that seen with household birds, water, and soil
+isolates. Coop soils and cloacal isolates from household birds raised in villages with
+active farming are closest to the production bird phenotypic pattern.
+
+DISCUSSION
+This study used a multidisciplinary approach to examine populations of E. coli circu-
+lating in the production versus domestic environment in the context of small-scale
+poultry farming in rural Ecuador. We observed high levels of AR in both the production
+and household contexts, although the isolates
+from production-environment-
+associated samples showed substantially higher levels of resistance than isolates from
+domestic-environment-associated samples. Production birds exhibited a phenotypic
+pattern distinct from that seen with household birds, and this signature pattern was
+also prevalent in poultry coops but not in domestic environments. Levels of AR were
+higher among younger birds and were associated with a particular source of chicks;
+both ﬁndings suggest introduction from outside sources. Poultry farming status was
+not associated with AR in isolates from domestic environments in comparisons of
+
+Volume 1 Issue 1 e00021-15
+
+msphere.asm.org 7
+
+Braykov et al.
+
+FIG 4 Kernel density estimates of inhibition zone profiles and categorical interpretation of susceptibility tests for E. coli isolates
+from household and coop surfaces and from production birds (broilers and laying hens). Kernel density estimates for the
+distributions of isolates from coop (red) and household (blue) and production bird (dashed purple) samples are shown;
+overlapping coop and household portions are colored in gray. Percentages of resistant isolates in each sample are shown in
+corresponding colors. Dashed vertical lines show the custom susceptibility breakpoint that was derived from the use of a mixture
+model and was used to derive that categorical interpretation. Larger zones of inhibition indicate that the isolate was less
+susceptible. Dotted lines show the consensus clinical breakpoints used by the Clinical and Laboratory Standards Institute (CLSI)
+(46, 47). For coops, n ⴝ 77 isolates from 32 samples; for households, n ⴝ 90 isolates from 54 samples; for production birds, n ⴝ
+786 isolates from 262 birds.
+
+farming to nonfarming households or across villages with different farming intensity
+levels. These results suggest that AR strains associated with poultry production likely
+originate from sources outside the study area and that these outside sources might be
+a better target for control efforts than local management practices.
+
+Phenotypic resistance in production environments. In the E. coli isolates that
+we recovered from production birds, we found high levels of resistance to drugs used
+in human medicine,
+in particular, tetracycline, trimethoprim-sulfamethoxazole, and
+sulfamethoxazole, to which over half of the isolates were resistant. Rates of resistance
+to broad-spectrum antibiotics amoxicillin/clavulanate (23% by CLSI breakpoint and
+18.3% by custom breakpoint) and ciproﬂoxacin (32% and 30%, respectively) were
+substantially higher than those found via abattoir surveillance carried out on industrial
+farms in the United States (9% and ⬍1%, respectively) (22) and in Canada (8%
+resistance to nalidixic acid) (23). We found relatively high levels of resistance to
+broad-spectrum antibiotics even in the household environment, particularly in drinking
+water, where the proportion of isolates resistant to amoxicillin/clavulanate, ampicillin,
+and cephalothin, drugs used for human medicine, was higher than in household birds.
+Surprisingly, resistance to chloramphenicol was uncommon, although our chemical
+analysis showed it to be an additive to commercial feed.
+
+In line with studies from other regions in the world, AR in intensively farmed animals
+tends to be higher than in free-range or organically raised varieties (24–27). For
+example, a study of 20 poultry ﬂocks with over 500 birds from Germany found that
+
+Volume 1 Issue 1 e00021-15
+
+msphere.asm.org 8
+
+Antibiotic Resistance in Small-Scale Poultry Farming
+
+FIG 5 Hierarchical clustering by sample type and location. Data are based on resistance profiles of 3,860 E. coli
+isolates of environmental and poultry samples. Numbers show P values from multiscale bootstrap resampling
+performed with n ⴝ 1,000 replications.
+
+resistance rates and mean MICs of bacteria isolated from organic keeping systems had
+lower values than those from conventional ones, especially for E. coli. E. coli and
+isolates from free-range Tibetan pigs (n ⫽ 232) had lower levels of
+enterococcal
+resistance, particularly to tetracycline and other antibiotics known to be used in
+farming, than those from intensively raised pigs in other parts of China (28).
+
+Resistance to amoxicillin/clavulanate, cefotaxime, cephalothin, and gentamicin was
+speciﬁc to production bird isolates. Because AR is passed from the chickens to the
+immediate production environment, poultry production may serve as a source of
+occupational exposure to AR strains of bacteria. Results of a genotypic analysis of
+human isolates from the same study system (K. A. Moser, L. Zhang, I. Spicknall, N.
+Braykov, K. Levy, C. F. Marrs, B. Foxman, G. Trueba, W. Cevallos, J. Trostle, and J. N. S.
+Eisenberg, unpublished data) point to a molecular basis for these phenotypic group-
+ings. Isolates from human chicken farmers had an elevated prevalence of the int1 gene
+platform, which was associated with increased resistance to amoxicillin-clavulanate,
+cephalotin, cefotaxime, and gentamicin; isolates resistant to these drugs were almost
+exclusively found in production birds (29).
+
+Extrinsic sources of resistance. We did not detect differences between birds
+reportedly receiving antibiotic supplements in the diet, in addition to what is already
+present in commercially mixed feed. While this counters the results of other studies (30,
+31), the exposure in our data was based on self-reporting and is therefore subject to
+recall and/or misclassiﬁcation bias. We ﬁnd more evidence in support of the alternative
+explanation that production chickens are colonized with resistant strains in the hatch-
+eries prior to their arrival in village coops.
+
+The decline of resistance with production bird age suggests that farmed poultry
+start their growth cycle precolonized with antibiotic-resistant bacteria rather than
+acquiring resistance in the village environment as a result of any particular farming
+practice. This pattern has been previously reported in the literature. For example, a
+study of 293 E. coli isolates collected from French laying hens reported higher carriage
+in younger birds of blaCTX-M genes that confer resistance to most beta-lactam antibi-
+otics (32). A large case-control study in Canada of 197 isolates from broilers sampled
+longitudinally and exposed to different antibiotic regimens also found an overall
+decrease in the prevalence of resistance between days 7 and 35 in both cases and
+controls and a concurrent decrease in carriage of the int1 integron and tet gene (30).
+
+Volume 1 Issue 1 e00021-15
+
+msphere.asm.org 9
+
+Braykov et al.
+
+One possible explanation for age-dependent AR is that there is a dilution effect: the
+selection pressure of a ﬁxed dose of antimicrobial becomes weaker as animals increase
+in mass. Another is that AR strains are “age adapted” to the physiology of younger
+hosts: an experimental study of neonatal calves supports this hypothesis, as animals
+inoculated with susceptible and resistant E. coli strains shed signiﬁcantly greater
+concentrations of the latter, suggesting a ﬁtness advantage for AR strains (33).
+
+While the overall decline in resistance prevalence appears to be part of the normal
+course of E. coli community dynamics or changes in the host’s physiology, we also
+found that certain phenotypes such as the production bird signature are imported from
+outside the study villages. This ﬁnding is supported by the data indicating that chicks
+purchased from one particular town, a large regional center where the owner of one of
+the town’s few veterinary stores reported heavily supplementing the chicks with
+antibiotics, were several times more likely to be resistant to all drugs, especially the
+ones with the production bird signature.
+
+The potential of young animals to act as sources of AR suggests that local manage-
+ment practices should focus on poultry hatcheries and sources along the distribution
+chain to control the spread of AR associated with small-scale poultry farming. Treat-
+ment of breeding hens with antibiotics may pass AR bacteria vertically from the hen to
+the egg and chick, even if no antibiotics are administered in ovo and/or to the chicks.
+Risks of exposure to poultry farms. We found that samples from surfaces of
+poultry coops had resistance proﬁles most similar to those of samples from production
+birds. The high rates of AR that we observed on the surfaces of poultry production
+facilities in these villages may present a more localized occupational risk for acquisition
+of AR by poultry farmers and have the potential to impact humans living in the
+communities through contact with farmers as well as poultry consumption. In a related
+study in the villages under study here, we found that human fecal samples from poultry
+farmers exhibited higher levels of phenotypic and genotypic (class-1 integron) resis-
+tance, with the prevalence of int1 among farmers of production birds over twice as high
+as the prevalence among those who raised household ones (Moser et al., unpublished).
+This suggests that occupational exposure to poultry farming is associated with the
+carriage of more-resistant strains, similarly to what has been found in larger-scale
+industrial operations (15, 24, 34). The idea that farming is an occupational risk for AR is
+supported by literature dating back to the 1970s (14; see also a review in reference 35).
+Our ﬁndings with respect to AR and coop surfaces suggest that direct handling of birds
+is a potential route of transmission.
+
+While we did observe the production signature for AR in the immediate production
+environment, this signature production pattern of AR did not occur in the domestic
+environment, suggesting that AR selected for by poultry production systems is limited
+to the production environment. It is possible that the frequency of sampling and the
+culturing methods that we used did not offer enough power to detect the effect of
+added systemic antibiotics that other studies have reported (24, 30, 36, 37). However,
+it is also possible that the intermittent nature of intensive production does not result
+in sufﬁcient pressure to affect bacterial populations within the household environment.
+The variability of intensity of poultry farming across space and time has implications for
+the spread of AR in this region and likely plays a role in limiting the impact of farming
+to the immediate production environment. Many of the drivers of the “boom and bust”
+nature of the enterprise that we identiﬁed through ethnography, such as access to
+capital and seasonality in markets as barriers to reinvestment, are likely at work in other
+developing regions as well.
+
+Our ﬁnding that chloramphenicol is present in commercial poultry is disconcerting.
+The use of the drug in human medicine has been limited due to concerns over
+development of aplastic anemia, a potentially fatal bone marrow disorder. Chloram-
+phenicol use in food animal is not approved in developed countries as studies have
+shown residues in meat in concentrations sufﬁcient to suppress bone marrow devel-
+opment (38).
+
+Volume 1 Issue 1 e00021-15
+
+msphere.asm.org 10
+
+Antibiotic Resistance in Small-Scale Poultry Farming
+
+Sensitivity of results to custom breakpoints. This study utilized unique inter-
+disciplinary methods to provide insights into the ecology of AR at the interface of
+humans and animals. Unlike most environmental studies that summarize AR using
+clinical antibiogram methods, we used the full phenotypic resistance proﬁle (i.e., the full
+distribution of zones of inhibition), which is a cost-effective way to study the epide-
+miology of drug-resistant strains in the absence of molecular data (39, 40). Analyzing
+the distribution of zone diameters in addition to categorical interpretations allowed us
+to identify a signature phenotypic pattern unique to production birds that suggested
+that AR associated with poultry production likely originates outside the studied com-
+munities.
+
+We used modeling techniques to classify isolates into resistant and susceptible
+bacterial populations after observing from our empirical data that the preestablished
+breakpoints did not accurately reﬂect the distributions of zones of inhibition in the
+bacterial populations in our study. Our approach is not suitable for classifying clinical
+isolates, as it disregards pharmacokinetic and pharmacodynamics properties of antibi-
+otics, but was better suited to ecological studies because of its ability to empirically
+distinguish between the populations of bacteria in our samples. While our major
+conclusions were not sensitive to the use of custom susceptibility criteria, we show that
+the use of clinical breakpoints may misclassify over 30% of isolates for some antibiotics
+(amoxicillin/clavulanate, cephalothin, streptomycin, and enroﬂoxacin), potentially lead-
+ing to problems in the interpretation of results (see Table S3 in the supplemental
+material). In these cases, use of the CLSI breakpoints would have resulted in classifying
+as resistant the isolates that were more likely to belong to the susceptible population.
+This point is well illustrated by comparing the results for enroﬂoxacin and ciproﬂoxacin:
+the zones of inhibition for these antibiotics, both ﬂuoroquinolones, had a Person
+correlation of 0.951, and one would therefore expect the proportions of isolates
+resistant to the two antibiotics to be similar. The use of CLSI breakpoints would have
+classiﬁed 24% of the isolates as enroﬂoxacin resistant and 12.4% as ciproﬂoxacin
+resistant, while our custom breakpoints yielded frequencies of 10.9% and 11%, respec-
+tively.
+
+Study limitations and avenues for future research. This study was limited by
+several factors. First, because of the nature of our visits to the villages, we were unable
+to exploit the wide variability in animal densities over time to look more closely at the
+correlation between temporal variability and resistance patterns. Second, our analysis
+relies on phenotypic resistance data, and we therefore did not have the opportunity to
+account for the multiple genetic determinants and expression patterns that underlie
+resistance. Third, we did not test for resistance to two of the three antibiotics that our
+chemical analysis found in the poultry feed—virginiamycin and lincomycin, both
+narrow-spectrum antibiotics active against Gram-positive bacteria and not against
+E. coli. Fourth, we used E. coli as a sentinel organism and relied on culture-based
+methods, capturing only a fraction of the complex, multilevel interactions between
+environment, host, microorganism, and horizontally transferred genetic elements. Fu-
+ture similar studies could use a metagenomic approach to characterize the diversity of
+environmental and animal reservoirs as well as the patterns and mechanisms of
+resistance gene exchange between these bacterial communities (7).
+
+Despite these limitations, our report provides a multidisciplinary, ecological frame-
+work and a large data set to characterize the prevalence of resistance among animals
+and household environments in the context of small-scale farming. This type of analysis
+is needed to understand the implications of the expansion of small-scale poultry
+farming in developing countries currently promoted as an economic development
+strategy.
+
+MATERIALS AND METHODS
+Study area. The study was conducted between August 2010 and July 2013 in a rural region of
+Esmeraldas Province, in northern coastal Ecuador. Community members primarily consume untreated
+surface source water, and sanitation facilities are inadequate (41). Our research team has been working
+in a total of 31 communities in this region since 2003; the study sites and region are described in detail
+
+Volume 1 Issue 1 e00021-15
+
+msphere.asm.org 11
+
+Braykov et al.
+
+elsewhere (21, 42). The present study was conducted in a subset of 17 villages where we were able to
+collect environmental and animal samples.
+
+Ethnography. To understand the sociocultural context of the sampling and biological analysis,
+ethnographers conducted structured interviews with local stakeholders. Information was gathered on
+the practices, organization, economics, and history of poultry farming, including antibiotic use and the
+rearing and consumption of different kinds of birds.
+
+Household surveys. We visited villages monthly to record the total number of production birds in
+each community. In addition, we conducted a detailed survey within 10 days of sample collection on the
+type, size, age, origin, and intended use of ﬂocks, the brands and types of feed used, and the use of
+supplementation with antibiotics.
+
+Informed consent was obtained from all participating households. The Institutional Review Boards of
+the University of Michigan, Universidad San Francisco de Quito, Trinity College, and Emory University
+approved all interactions with human subjects.
+
+Sample collection and laboratory analysis. In villages with production poultry farming, teams
+visited (i) all households with active poultry coops and (ii) an equivalent number of nonfarming
+households that were located far from coops. If villages had no poultry farming at the time of the visit,
+3 to 10 nonfarming households were chosen at random, depending on the size of the village. Additional
+details on study design, populations, and sample collection methods are available in the supplemental
+material.
+
+Poultry samples. The communities were visited 1 to 4 times between August 2010 and November
+2013 to sample “production birds” and “household birds.” Production birds included breeds of laying
+hens raised for egg production or broiler chickens that are raised in coops for 6 to 7 weeks before
+slaughter. These birds eat formulated feed containing antibiotics and are also commonly given antibi-
+otics as prophylaxis via water. Capacities of coops ranged from ~50 to ~100 birds of a single age for a
+typical single household coop to ~1,000 birds of multiple ages for the group facility. Thirteen households
+in seven villages were engaged in rearing production birds. In each coop, we sampled ﬁve production
+birds of each age group (categorized in weeks of age).
+
+Household birds included varietals not intended for commercial sale that are not held in coops, that
+eat scraps and ground maize rather than formula feed, and that do not receive antibiotics. We sampled
+5 to 10 household birds from each village, regardless of whether the villagers were actively engaged in
+production poultry farming.
+
+For all birds, we collected cloacal samples using sterile swabs that were placed in Cary Blair transport
+medium (Becton, Dickinson, Franklin Lakes, NJ) and streaked directly on MacConkey lactose (MKL) agar
+for isolation.
+
+Environmental samples. Samples from household drinking water, soil from house surroundings,
+and kitchen surfaces were collected from households associated with production or household birds in
+order to characterize the domestic environment. In addition, soil and surface samples were collected
+from coops in order to characterize the production environment.
+
+Household water. During the ﬁrst half of the study period, between August 2010 and January 2012,
+we collected 50-ml water samples from two different household storage containers in Whirl-Pak bags
+(Nasco Corp., Fort Atkinson, WI) in the same manner that water was dispensed for drinking. If there was
+only one drinking water container available, then the second sample was taken from water used to wash
+dishes or bathe. For the remainder of the study period, only one sample per household was obtained
+from drinking containers in order to reduce sampling effort, as there were no notable differences in the
+E. coli isolates recovered across repeated samples. Samples were processed using membrane ﬁltration for
+isolation of E. coli.
+
+Soil. During the ﬁrst half of the study period, we collected two samples of approximately 15 cm3 from
+around the house and from around the poultry coop, if one was present. Soil from just below the surface
+was placed into a conical tube using a sterile plastic spoon that was discarded after use. Samples were
+stored on ice until processing in the laboratory was performed (within 4 to 6 h). For the second part of
+the study period, only a single sample was obtained from the household yard, due to the rarity of coops
+and difﬁculty in recovering E. coli from these samples.
+
+Surfaces. During the ﬁrst half of the study period, we collected household surface samples from two
+locations, namely, where food was prepared (e.g., a cutting board) and where food was eaten (e.g., a
+table). A 28-by-30-cm plastic stencil was used to deﬁne a consistent sampling area. Two surface samples
+from the inside or outside the coop, which was usually constructed from cement or wood, were also
+taken using the same procedures. Surface samples were plated directly onto Chromocult agar and
+streaked for isolation. For the second part of the study period, surface samples were not collected due
+to the low rate of isolate recovery.
+
+Sample processing. Samples were ﬁrst plated on Chromocult agar, and then presumptive E. coli
+colonies were transferred onto MacConkey lactose (MKL) agar for conﬁrmation before replating on
+Chromocult was performed to ensure pure isolates. We selected up to four E. coli colonies from soil and
+fecal samples and two from water and surface samples to test for AR. More isolates from soil samples
+than from water or surfaces were used because we expected higher microbial diversity in soil. Antibiotic
+sensitivity was assessed using the Kirby-Bauer disc diffusion method (43) and 12 antibiotics: ampicillin,
+amoxicillin/clavulanate, cefotaxime, cephalothin, chloramphenicol, ciproﬂoxacin, enroﬂoxacin, gentami-
+cin, streptomycin, sulﬁsoxazole, trimethoprim-sulfamethoxazole, and tetracycline (Becton, Dickinson,
+Franklin Lakes, NJ). Zones of inhibition were measured after a 24-h incubation period using digital
+calipers.
+
+Volume 1 Issue 1 e00021-15
+
+msphere.asm.org 12
+
+Antibiotic Resistance in Small-Scale Poultry Farming
+
+Statistical analysis. Our main outcome of interest was the zone of inhibition around each of the
+tested antimicrobial discs. A secondary outcome was the categorical
+interpretation of the zone
+(susceptible or nonsusceptible), based on custom breakpoints that we deﬁned based on zone size
+distributions.
+
+Most studies of AR construct antibiograms using categorical interpretations (susceptible, resistant) of
+MICs or corresponding disc diffusion zones of inhibition based on externally deﬁned consensus break-
+points set by organizations such as the U.S. Clinical and Laboratory Standards Institute (CLSI) or its
+European equivalent (EUCAST). However, these breakpoints have limited utility in distinguishing be-
+tween distinct populations of organisms in circulation. Because the primary objective of our study was
+to understand the ecological dynamics of AR E. coli within production and domestic environments in our
+study villages, we took advantage of the full data on the distributions of zones of inhibition of each
+antibiotic for all isolates in order to gain additional insights into the populations of E. coli in the different
+environments that we sampled.
+
+We used differences in the modalities of zone distributions to identify populations of isolates with
+distinct phenotypic resistance patterns. Where we classiﬁed isolates as resistant or susceptible, we used
+empirically derived custom susceptibility breakpoints, because examination of the distributions of the
+zones of inhibition showed that the externally deﬁned breakpoints based on wild-type cutoff values (44)
+did not accurately reﬂect the local population of E. coli strains. These custom breakpoints have limited
+clinical utility, but they improved our ability to distinguish between populations of bacteria in our
+sample. More details on the analytical methods to deﬁne susceptibility breakpoints are available in the
+supplemental material.
+
+Distributions suggested a population of all resistant or all susceptible bacteria when Hartigans’ dip
+statistic (which measures multimodality in a sample) had a P value of ⬎0.1, failing to reject the null
+hypothesis of unimodality, or when the estimated proportion of a component in a mixture was lower
+than 0.01. Otherwise, the distributions were considered bimodal, suggesting a mixture of susceptible and
+resistant bacterial populations.
+
+We compared the kernel density estimates of zone distributions and the percentages of nonsuscep-
+tible isolates across categories of interest. We used generalized linear mixed models (GLMM) to model
+the outcome of AR. An identity link function was used for continuous outcome measures (inhibition zone
+size; GLMM-ANOVA) and a binomial one for the categorical interpretation of the zones (susceptible and
+nonsusceptible; GLMM-logit). In all speciﬁcations, we used nested random effects with various intercepts
+and slopes for analysis at the sample, household, and village levels to capture unobserved heterogeneity
+between the multiple levels and to account for repeated sampling.
+
+The resistance proﬁle for each isolate was also used to perform hierarchical cluster analysis. We
+normalized the zones of inhibition, computed Euclidean distances between isolates, and ran a hierar-
+chical clustering algorithm with an agglomeration method based on the average distance between
+categories, implemented in R’s ﬂashClust package (45). Support values were calculated via multiscale
+bootstrap resampling with n ⫽ 1,000 replications.
+
+All analyses were carried out in R version 3.0.1 (R Foundation for Statistical Computing, Vienna,
+
+Austria).
+
+Poultry feed samples. Prior to the start of the study, we sampled seven varieties of the most
+commonly sold brand of feed (Nutril) from a veterinary store in the central trading city of Borbón in July
+2009. Every type of feed sold was sampled, including starter, fattening, and ﬁnishing feed for broilers and
+layer hens. Samples were tested for the presence of the following antibiotics using mass spectrometry
+techniques: lincomycin, virginiamycin, bacitracin, ﬂavomycin, avilomycin, tylosin, nitrofurantoin, chlor-
+amphenicol, tetracycline, sulfamethazine, and sulfathiazole. With the exception of nitrofurantoin, the ﬁrst
+eight drugs in the panel belong to antibiotic classes that are exclusively used to treat and prevent
+infections with Gram-positive bacteria and therefore were not included in susceptibility testing of E. coli
+isolates (see Table S1 in the supplemental material for details).
+
+SUPPLEMENTAL MATERIAL
+Supplemental material for this article may be found at http://dx.doi.org/10.1128/
+mSphere.00021-15.
+
+Text S1, DOCX ﬁle, 0.02 MB.
+Figure S1, DOCX ﬁle, 0.01 MB.
+Figure S2, DOCX ﬁle, 0.02 MB.
+Figure S3, DOCX ﬁle, 0.02 MB.
+Figure S4, DOCX ﬁle, 0.2 MB.
+Figure S5, DOCX ﬁle, 0.4 MB.
+Figure S6, DOCX ﬁle, 0.03 MB.
+Figure S7, DOCX ﬁle, 0.6 MB.
+Table S1, DOCX ﬁle, 0.5 MB.
+Table S2, DOCX ﬁle, 0.01 MB.
+Table S3, DOCX ﬁle, 0.02 MB.
+
+Volume 1 Issue 1 e00021-15
+
+msphere.asm.org 13
+
+Braykov et al.
+
+ACKNOWLEDGMENTS
+We thank the Ecología, Desarrollo, Salud y Sociedad (EcoDESS) project research team
+for their invaluable contributions to data collection and laboratory personnel at Uni-
+versidad San Francisco de Quito and the University of Michigan for their efforts in
+sample processing.
+
+This work was supported by National Institute of Allergy and Infectious Diseases
+grants no. R01AI050038 and 1K01AI103544 and by the National Science Foundation
+(Ecology and Evolution of Infectious Diseases program grant no. 08119234).
+
+The content is solely the authors’ responsibility and does not necessarily represent
+
+the ofﬁcial views of the National Institutes of Health.
+
+FUNDING INFORMATION
+National Science Foundation Ecology and Evolution of Infectious Diseases provided
+funding to Nikolay P. Braykov, Joseph N. S. Eisenberg, Marissa Grossman, Lixin Zhang,
+William Cevallos, Karla Vasco, Diana Muñoz, Andrés Acevedo, Kara A. Moser, Carl F.
+Marrs, Betsy Foxman, James A. Trostle, Gabriel Trueba, Karen Levy under grant number
+08119234. HHS | NIH | National Institute of Allergy and Infectious Diseases (NIAID)
+provided funding to Nikolay P. Braykov, Joseph N. S. Eisenberg, Marissa Grossman, Lixin
+Zhang, William Cevallos, Karla Vasco, Diana Muñoz, Andrés Acevedo, Kara A. Moser, Carl
+F. Marrs, Betsy Foxman, James A. Trostle, Gabriel Trueba, Karen Levy under grant
+number R01AI050038. HHS | NIH | National Institute of Allergy and Infectious Diseases
+(NIAID) provided funding to Karen Levy under grant number 1K01AI103544.
+
+REFERENCES
+1. U.S. Centers for Disease Control and Prevention. 2013. Antibiotic
+
+resistance threats in the United States 2013. CDC, Atlanta, GA.
+
+2. World Health Organization (WHO). 2014. Antimicrobial resistance:
+
+global report on surveillance 2014. WHO, Geneva, Switzerland.
+
+3. Turnidge J, Christiansen K. 2005. Antibiotic use and resistance---
+proving the obvious. Lancet 365:548 –549. http://dx.doi.org/10.1016/
+S0140-6736(05)70770-4.
+
+4. Bergman M, Huikko S, Huovinen P, Paakkari P, Seppälä H, Finnish
+Study Group for Antimicrobial Resistance(FiRe Network). 2006. Mac-
+rolide and azithromycin use are linked to increased macrolide resistance
+in Streptococcus pneumoniae. Antimicrob Agents Chemother 50:
+3646 –3650. http://dx.doi.org/10.1128/AAC.00234-06.
+
+5. Sarmah AK, Meyer MT, Boxall AB. 2006. A global perspective on the
+use, sales, exposure pathways, occurrence, fate and effects of veterinary
+antibiotics (VAs) in the environment. Chemosphere 65:725–759. http://
+dx.doi.org/10.1016/j.chemosphere.2006.03.026.
+
+6. Silbergeld EK, Graham J, Price LB. 2008. Industrial food animal pro-
+duction, antimicrobial resistance, and human health. Annu Rev Public
+H e a l t h 2 9 : 1 5 1 – 1 6 9 . h t t p : / / d x . d o i . o r g / 1 0 . 1 1 4 6 /
+annurev.publhealth.29.020907.090904.
+
+7. Forsberg KJ, Reyes A, Wang B, Selleck EM, Sommer M, Dantas G.
+2012. The shared antibiotic resistome of soil bacteria and human patho-
+gens. Science 337:1107–1111. http://dx.doi.org/10.1126/
+science.1220761.
+
+8. Baquero F, Tedim AP, Coque TM. 2013. Antibiotic resistance shaping
+multi-level population biology of bacteria. Front Microbiol 4:15. http://
+dx.doi.org/10.3389/fmicb.2013.00015.
+
+9. Perry JA, Wright GD. 2013. The antibiotic resistance “mobilome”:
+searching for the link between environment and clinic. Front Microbiol
+4:138. http://dx.doi.org/10.3389/fmicb.2013.00138.
+
+10. Finley RL, Collignon P, Larsson DG, McEwen SA, Li X-Z, Gaze WH,
+Reid-Smith R, Timinouni M, Graham DW, Topp E. 2013. The scourge
+of antibiotic resistance: the important role of the environment. Clin
+Infect Dis 57:704 –710. http://dx.doi.org/10.1093/cid/cit355.
+
+11. Wright GD. 2010. Antibiotic resistance in the environment: a link to the
+clinic? Curr Opin Microbiol 13:589 –594. http://dx.doi.org/10.1016/
+j.mib.2010.08.005.
+
+12. Davis MF, Price LB, Liu CM, Silbergeld EK. 2011. An ecological per-
+spective on U.S. industrial poultry production: the role of anthropogenic
+ecosystems on the emergence of drug-resistant bacteria from agricul-
+tural environments. Curr Opin Microbiol 14:244 –250. http://dx.doi.org/
+10.1016/j.mib.2011.04.003.
+
+13. Ding G-C, Radl V, Schloter-Hai B, Jechalke S, Heuer H, Smalla K,
+
+Schloter M. 2014. Dynamics of soil bacterial communities in response to
+repeated application of manure containing sulfadiazine. PLoS One
+9:e92958. http://dx.doi.org/10.1371/journal.pone.0092958.
+
+14. Levy SB, FitzGerald GB, Macone AB. 1976. Changes in intestinal ﬂora
+of farm personnel after introduction of a tetracycline-supplemented
+feed on a farm. N Engl J Med 295:583–588. http://dx.doi.org/10.1056/
+NEJM197609092951103.
+
+15. Neyra RC, Frisancho JA, Rinsky JL, Resnick C, Carroll KC, Rule AM,
+Ross T, You Y, Price LB, Silbergeld EK. 2014. Multidrug-resistant and
+methicillin-resistant Staphylococcus aureus (MRSA) in hog slaughter and
+processing plant workers and their community in North Carolina (USA).
+Environ Health Perspect 122:471– 477. http://dx.doi.org/10.1289/
+ehp.1306741.
+
+16. U.S. Food and Drug Administration. 2013. Guidance for industry the
+judicious use of medically important antimicrobial drugs in food-
+producing animals. USDA, Washington, DC.
+
+17. Collignon P, Wegener HC, Braam P, Butler CD. 2005. The routine use
+of antibiotics to promote animal growth does little to beneﬁt protein
+undernutrition in the developing world. Clin Infect Dis 41:1007–1013.
+http://dx.doi.org/10.1086/433191.
+
+18. Dibner JJ, Richards JD. 2005. Antibiotic growth promoters in
+agriculture: history and mode of action. Poult Sci 84:634 – 643. http://
+dx.doi.org/10.1093/ps/84.4.634.
+
+19. Agricultural Research Council. 2010. Fowls for Africa. Agricultural Re-
+
+search Council, Pretoria, South Africa.
+
+20. Food and Agriculture Organization. 2011. A global agenda of action in
+support of sustainable livestock sector development. FAO, Rome, Italy.
+21. Eisenberg JN, Goldstick J, Cevallos W, Trueba G, Levy K, Scott J,
+Percha B, Segovia R, Ponce K, Hubbard A, Marrs C, Foxman B, Smith
+DL, Trostle J. 2012.
+In-roads to the spread of antibiotic resistance:
+regional patterns of microbial transmission in northern coastal Ecuador.
+J R Soc Interface 9:1029 –1039. http://dx.doi.org/10.1098/rsif.2011.0499.
+22. United States Department of Agriculture. 2011. Annual animal Report,
+National Antimicrobial Resistance Monitoring System (NARMS). USDA,
+Washington, DC.
+
+23. Public Health Agency of Canada. 2012. Canadian integrated program
+for antimicrobial resistance surveillance (CIPARS) annual report. Public
+Health Agency of Canada, Ottawa, Ontario, Canada.
+
+24. Van den Bogaard AE, London N, Driessen C, Stobberingh EE. 2001.
+Antibiotic resistance of faecal Escherichia coli in poultry, poultry farmers
+and poultry slaughterers. J Antimicrob Chemother 47:763–771.
+
+25. Obeng AS, Rickard H, Ndi O, Sexton M, Barton M. 2012. Antibiotic
+resistance, phylogenetic grouping and virulence potential of Escherichia
+
+Volume 1 Issue 1 e00021-15
+
+msphere.asm.org 14
+
+Antibiotic Resistance in Small-Scale Poultry Farming
+
+coli
+isolated from the faeces of intensively farmed and free range
+poultry. Vet Microbiol 154:305–315. http://dx.doi.org/10.1016/
+j.vetmic.2011.07.010.
+
+26. Young I, Rajic´ A, Wilhelm BJ, Waddell L, Parker S, McEwen SA. 2009.
+Comparison of the prevalence of bacterial enteropathogens, potentially
+zoonotic bacteria and bacterial resistance to antimicrobials in organic
+and conventional poultry, swine and beef production: a systematic
+Infect 137:1217–1232. http://
+review and meta-analysis. Epidemiol
+dx.doi.org/10.1017/S0950268809002635.
+
+27. Walk ST, Mladonicky JM, Middleton JA, Heidt AJ, Cunningham JR,
+Bartlett P, Sato K, Whittam TS. 2007. Inﬂuence of antibiotic selection
+on genetic composition of Escherichia coli populations from conven-
+tional and organic dairy farms. Appl Environ Microbiol 73:5982–5989.
+http://dx.doi.org/10.1128/AEM.00709-07.
+
+28. Li P, Wu D, Liu K, Suolang S, He T, Liu X, Wu C, Wang Y, Lin D. 2014.
+Investigation of antimicrobial resistance in Escherichia coli and entero-
+cocci isolated from Tibetan pigs. PLoS One 9:e95623. http://dx.doi.org/
+10.1371/journal.pone.0095623.
+
+29. Rowe-Magnus DA, Guerout A-M, Mazel D. 2002. Bacterial resistance
+evolution by recruitment of super-integron gene cassettes. Mol Micro-
+biol 43:1657–1669. http://dx.doi.org/10.1046/j.1365-2958.2002.02861.x.
+30. Diarra MS, Silversides FG, Diarrassouba F, Pritchard J, Masson L, Brous-
+seau R, Bonnet C, Delaquis P, Bach S, Skura BJ, Topp E. 2007. Impact of
+feed supplementation with antimicrobial agents on growth performance of
+broiler chickens, Clostridium perfringens and enterococcus counts, and
+antibiotic resistance phenotypes and distribution of antimicrobial resistance
+isolates. Appl Environ Microbiol 73:
+determinants in Escherichia coli
+6566–6576. http://dx.doi.org/10.1128/AEM.01086-07.
+
+31. Bonnet C, Diarrassouba F, Brousseau R, Masson L, Topp E, Diarra
+MS. 2009. Pathotype and antibiotic resistance gene distributions of
+Escherichia coli isolates from broiler chickens raised on antimicrobial-
+supplemented diets. Appl Environ Microbiol 75:6955– 6962. http://
+dx.doi.org/10.1128/AEM.00375-09.
+
+32. Chauvin C, Le Devendec L, Jouy E, Le Cornec M, Francart S, Marois-
+Créhan C, Kempf I. 2013. National prevalence of resistance to third-
+generation cephalosporins in Escherichia coli isolates from layer ﬂocks in
+France. Antimicrob Agents Chemother 57:6351– 6353. http://dx.doi.org/
+10.1128/AAC.01460-13.
+
+33. Khachatryan AR, Hancock DD, Besser TE, Call DR. 2004. Role of
+calf-adapted Escherichia coli in maintenance of antimicrobial Drug re-
+sistance in dairy calves. Appl Environ Microbiol 70:752–757. http://
+dx.doi.org/10.1128/AEM.70.2.752-757.2004.
+
+34. Alali WQ, Scott HM, Norby B. 2010. Assessing the similarity of antimi-
+crobial resistance phenotypes among fecal Escherichia coli isolates from
+two aggregated occupational cohorts of humans versus swine using
+cluster analysis and multivariate statistics. Prev Vet Med 94:77– 83.
+http://dx.doi.org/10.1016/j.prevetmed.2009.11.014.
+
+35. Marshall BM, Levy SB. 2011. Food animals and antimicrobials: impacts
+
+on human health. Clin Microbiol Rev 24:718 –733. http://dx.doi.org/
+10.1128/CMR.00002-11.
+
+36. Avrain L, Humbert F, L’Hospitalier R, Sanders P, Vernozy-Rozand C,
+Kempf I. 2003. Antimicrobial resistance in Campylobacter from broilers:
+association with production type and antimicrobial use. Vet Microbiol
+96:267–276. http://dx.doi.org/10.1016/j.vetmic.2003.07.001.
+
+37. Martins da Costa P, Oliveira M, Ramos B, Bernardo F. 2011. The
+impact of antimicrobial use in broiler chickens on growth performance
+and on the occurrence of antimicrobial-resistant Escherichia coli. Livest
+Sci 136:262–269. http://dx.doi.org/10.1016/j.livsci.2010.09.016.
+38. Settepani JA. 1984. The hazard of using chloramphenicol
+
+in food
+
+animals. J Am Vet Med Assoc 184:930 –931.
+
+39. Krumperman PH. 1983. Multiple antibiotic resistance indexing of Esch-
+erichia coli to identify high-risk sources of fecal contamination of foods.
+Appl Environ Microbiol 46:165–170.
+
+40. Sayah RS, Kaneene JB, Johnson Y, Miller R. 2005. Patterns of antimi-
+crobial resistance observed in Escherichia coli isolates obtained from
+domestic- and wild-animal fecal samples, human septage, and surface
+water. Appl Environ Microbiol 71:1394 –1404. http://dx.doi.org/10.1128/
+AEM.71.3.1394-1404.2005.
+
+41. Levy K, Nelson KL, Hubbard A, Eisenberg JN. 2012. Rethinking indi-
+cators of microbial drinking water quality for health studies in tropical
+developing countries: case study in northern coastal Ecuador. Am J Trop
+Med Hyg 86:499 –507. http://dx.doi.org/10.4269/ajtmh.2012.11-0263.
+
+42. Eisenberg JN, Cevallos W, Ponce K, Levy K, Bates SJ, Scott JC,
+Hubbard A, Vieira N, Endara P, Espinel M, Trueba G, Riley LW,
+Trostle J. 2006. Environmental change and infectious disease: how new
+roads affect the transmission of diarrheal pathogens in rural Ecuador.
+Proc Natl Acad Sci U S A 103:19460 –19465. http://dx.doi.org/10.1073/
+pnas.0609431104.
+
+43. Bauer AW, Kirby WM, Sherris JC, Turck M. 1966. Antibiotic suscepti-
+bility testing by a standardized single disk method. Am J Clin Pathol
+45:493– 496.
+
+44. Wiggins BA. 1996. Discriminant analysis of antibiotic resistance patterns
+in fecal streptococci, a method to differentiate human and animal
+sources of fecal pollution in natural waters. Appl Environ Microbiol
+62:3997– 4002.
+
+45. Langfelder P, Horvath S. 2012. Fast R functions for robust correlations
+and hierarchical clustering. J Stat Softw 46:pii:i11. http://dx.doi.org/
+10.18637/jss.v046.i11.
+
+46. Clinical and Laboratory Standards Institute. 2009. Performance stan-
+dards for antimicrobial disk and dilution susceptibility tests for bacteria
+isolated from animals. Approved standard M31-A4 (vol. 28). Clinical and
+Laboratory Standards Institute, Wayne, PA.
+
+47. Clinical and Laboratory Standards Institute. 2012. Performance stan-
+dards for antimicrobial susceptibility testing; 22nd informational supple-
+ment. CLSI M100-S22. Clinical and Laboratory Standards Institute,
+Wayne, PA.
+
+Volume 1 Issue 1 e00021-15
+
+msphere.asm.org 15
+
+

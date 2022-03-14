@@ -1,0 +1,1730 @@
+Accepted Manuscript
+
+Identification and characterization of plasmid-mediated quinolone
+resistance determinants in Enterobacteriaceae isolated from
+healthy poultry in Brazil
+
+Joseane Cristina Ferreira, Rafael Antonio Casarin Penha Filho,
+Ana Paula Yorika Kuaye, Leonardo Neves Andrade, Angelo
+Berchieri Junior, Ana Lúcia Costa Darini
+
+PII:
+DOI:
+Reference:
+To appear in:
+Received date:
+Revised date:
+Accepted date:
+
+S1567-1348(18)30047-9
+https://doi.org/10.1016/j.meegid.2018.02.003
+MEEGID 3404
+Infection, Genetics and Evolution
+23 October 2017
+9 January 2018
+3 February 2018
+
+Please cite this article as: Joseane Cristina Ferreira, Rafael Antonio Casarin Penha Filho,
+Ana Paula Yorika Kuaye, Leonardo Neves Andrade, Angelo Berchieri Junior, Ana Lúcia
+Costa Darini
+Identification and characterization of plasmid-mediated quinolone
+resistance determinants in Enterobacteriaceae isolated from healthy poultry in Brazil. The
+address for the corresponding author was captured as affiliation for all authors. Please
+check if appropriate. Meegid(2017), https://doi.org/10.1016/j.meegid.2018.02.003
+
+,
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As
+a service to our customers we are providing this early version of the manuscript. The
+manuscript will undergo copyediting, typesetting, and review of the resulting proof before
+it is published in its final form. Please note that during the production process errors may
+be discovered which could affect the content, and all legal disclaimers that apply to the
+journal pertain.
+
+ACCEPTED MANUSCRIPT
+
+1 
+
+ 
+
+Identification  and  characterization  of  Plasmid-Mediated  Quinolone 
+
+Resistance  determinants  in  Enterobacteriaceae  isolated  from  healthy 
+
+poultry in Brazil 
+
+ 
+
+Joseane Cristina Ferreiraa, Rafael Antonio Casarin Penha Filhob, Ana Paula Yorika 
+
+Kuayea, Leonardo Neves Andrade a, Angelo Berchieri Juniorb, Ana Lúcia Costa Dariniª* 
+
+a School of Pharmaceutical Sciences of Ribeirão Preto – São Paulo University (USP), 
+
+Ribeirão Preto, SP, 14040-903, Brazil 
+
+b School of Agricultural and Veterinary Sciences – São Paulo State University 
+
+(UNESP), Jaboticabal, SP, 14884-900, Brazil 
+
+Addresses: 
+
+ 
+
+ 
+
+ACCEPTED MANUSCRIPT
+
+* Corresponding author 
+
+Address for correspondence: 
+
+Ana Lúcia Costa Darini 
+
+Departamento de Análises Clínicas, Toxicológicas e Bromatológicas, Faculdade de 
+
+Ciências Farmacêuticas de Ribeirão Preto, Universidade de São Paulo (USP), Ribeirão 
+
+Preto, SP, 14040-903, Brasil 
+
+phone +55 16 33154291; fax +55 16 33154725 
+
+e-mail: aldarini@fcfrp.usp.br 
+
+ 
+
+Running title: PMQR in Enterobacteriaceae from poultry 
+
+Keywords: qnr, PMQR, food-producing animal, chicken, ColE-like plasmid 
+
+ACCEPTED MANUSCRIPT
+
+2 
+
+ 
+
+Abstract 
+
+The expression of plasmid-mediated quinolone resistance (PMQR) genes confer 
+
+low-level quinolone and fluoroquinolones resistance alone. However, the association to 
+
+chromosomal  resistance  mechanisms  determines  an  expressively  higher  resistance  in 
+
+Enterobacteriaceae.  These  mechanisms  are  horizontally  disseminated  within  plasmids 
+
+and  have  contributed  to  the  emergence  of  bacteria  with  reduced  susceptibility  or 
+
+resistant  to  therapies  worldwide.  The  epidemiological  characterization  of  PMQR 
+
+dissemination are highly relevant in the scientific and medical context, to investigate the 
+
+dissemination  within  enterobacteria,  from  different  populations,  including  humans  and 
+
+food-producing  animals.  In  the  present  study,  200  Enterobacteriaceae  isolates  were 
+
+harvested  from  poultry  with  cloacal  swabs  and  identified  as  Escherichia  coli  (90.5%), 
+
+Escherichia  fergusonii  (5.5%),  Klebsiella  oxytoca  (2.5%)  and  Klebsiella  pneumoniae 
+
+ACCEPTED MANUSCRIPT
+
+(1.5%).  Among  isolates  evaluated,  46  (23%)  harboured  PMQR  genes  including  qnrB 
+
+(43/200),  qnrS  (2/200)  and  aac(6’)-Ib-cr  (1/200).  All  isolates  carrying  PMQR  genes 
+
+showed  multidrug-resistance  phenotype.  The  36  E.  coli  isolates  showed  18  different 
+
+PFGE types. All E. fergusonii isolates showed the same PFGE type. The two Klebsiella 
+
+oxytoca belonged to two different PFGE types. The phylogenetic groups A, B1, and D 
+
+were  found  among  the  E.  coli  harboring  PMQR  genes.  Based  on  the  phylogenetic 
+
+analysis and PFGE, the population structure of E. coli isolates was diverse, even within 
+
+the  same  farm.  All  isolates  carrying  qnrB  and  qnrS  genes  also  harboured  ColE-like 
+
+plasmids.  The  Southern  blot  hybridization  using  the  S1-PFGE  revealed  that  the  qnrB 
+
+gene  were  located  on  low  molecular  weight  plasmids,  smaller  than  10Kb.  Resistance 
+
+plasmids  were  sequenced  and  showed  100%  identity  with  plasmid  pPAB19-3.  The 
+
+association of PMQR genes with mobile genetic elements, such as transferable plasmids 
+
+,favour the selection and dissemination of (fluoro) quinolones resistant bacteria among 
+
+ACCEPTED MANUSCRIPT
+
+3 
+
+ 
+
+food-producing  animals,  and  may  play  an  important  role  in  the  current  increased 
+
+prevalence of resistant bacteria in different environments reported worldwide. 
+
+ 
+
+Introduction 
+
+The introduction of fluoroquinolones in clinical therapies occurred in the 1980s 
+
+and the advantage of oral administration associated with the bactericidal activity against 
+
+Gram-negative  microorganisms  contributed  to  the  frequent  election  of  this  class  of 
+
+antimicrobials  to  treat  infections  caused  by  Escherichia  coli,  Salmonella  and  other 
+
+Enterobacteriaceae in humans and animals, to date. (Dalhoff, 2012; Vanni et al., 2014; 
+
+fluoroquinolone 
+
+ACCEPTED MANUSCRIPT
+
+(QRDR),  may  change  the  antibiotic  target  site,  consequently  reducing  the  therapeutic 
+
+efficacy.  This  mechanism  associated  to  the  expression  of  plasmid-mediated  quinolone 
+
+resistance  (PMQR)  genes  increases  the  resistance  level  of  the  bacteria,  frequently 
+
+reaching  impracticable  minimal  inhibitory  concentration  (MIC)  (Harada  and  Asai, 
+
+2010) (Gagliotti et al., 2008). The main PMQR determinants reported are the qnr genes 
+
+(qnrA, qnrB, qnrC, qnrD and qnrS) that mediate resistance to quinolones by protecting 
+
+the antimicrobial  target  protein,  type  II  DNA topoisomerases, from  the  action of  these 
+
+antimicrobials  (Rodriguez-Martinez  et  al.,  2011).  Moreover,  there  are  other  PMQR 
+
+determinants,  for  example,  aac(6’)-Ib–cr  genes,  which  codify  acetyltransferase,  an 
+
+aminoglycoside  modifying  enzyme  able  to  acetylate  fluoroquinolones  due  to  the  “–cr 
+
+variant” and the QepA and OqxAB efflux pump proteins, that decrease susceptibility to 
+
+hydrophilic  fluoroquinolones.  The  expression  of  these  genes  associated  with  other 
+
+Zawack et al., 2016). 
+
+Among  different 
+
+resistance  mechanisms,  chromosomal 
+
+mutations  in  gyrA  and/or  parC  genes  in  quinolone-resistance-determining  region 
+
+ACCEPTED MANUSCRIPT
+
+4 
+
+ 
+
+resistance  mechanisms,  such  as  alteration  of  the  target  site,  porin  alterations,    and 
+
+overexpression of chromosomal efflux systems have been contributing to the increased 
+
+level of quinolone resistance as well as the selection of resistant clones in enterobacteria 
+
+(Strahilevitz et al., 2009; Tamang et al., 2011).  
+
+The  prevalence  of  qnrB  genes 
+
+than  other  qnr  genes 
+
+in 
+
+al., 2011). This gene has been reported in plasmids IncN, IncX and small rolling-circle-
+
+replication  (RCR)  plasmids  (Carattoli,  2013).  The  Xer-mediated  site-specific 
+
+Enterobacteriaceae isolates from human, animal, and environment (Poirel et al., 2012) 
+
+with 
+
+about 
+
+80 
+
+Lahey  website 
+
+(http://www.lahey.org/qnrStudies/),  currently.  The  qnrB19  gene  has  been  reported 
+
+worldwide in Enterobacteriaceae isolated from healthy humans, clinical infections and 
+
+food-producing  animals  (Dionisi  et  al.,  2009;  Karczmarczyk  et  al.,  2010;  Pallecchi  et 
+
+in 
+
+the 
+
+alleles 
+
+assigned 
+
+different 
+
+is  higher 
+
+ACCEPTED MANUSCRIPT
+
+recombination  is  often  identified  in  RCR  plasmids,  especially  ColE1,  and  has  been 
+
+suggested as the source of acquisition of the resistance gene (Tran et al., 2012). Most of 
+
+the  qnr-carrying  plasmids  share  high  similarity  with  ColE1  replicon  (Carattoli,  2013). 
+
+This  study  was  conducted  to  evaluate  the  the  prevalence  of  PMQR  determinants  and 
+
+characterize  plasmids  harbouring  these  genes  in  Enterobacteriaceae  isolated  from 
+
+poultry in Brazil. 
+
+ 
+
+Materials and Methods 
+
+Isolation of bacteria 
+
+From  2011  to  2012,  a  total  of  200  isolates  were  screened  from  200  healthy  chickens 
+
+from two different poultry Farms in Sao Paulo State, Brazil. The procedure for sampling 
+
+was previously approved by the Institutional Animal Use and  Ethics Committee (Proc. 
+
+n. 12.1.248.53.7). The cloacal swab samples were seeded onto MacConkey agar plates 
+
+ACCEPTED MANUSCRIPT
+
+5 
+
+ 
+
+containing  ciprofloxacin  (2µg/mL)  and  incubated  for  24h/37ºC.  Colonies  were 
+
+identified  by  biochemical  standard  methods,  confirmed  by  API  20E  test  (BioMérieux, 
+
+France)  and,  in  some  cases,  the  identification  was  performed  by  VITEK®2 
+
+(BioMérieux, France). 
+
+Screening of PMQR genes by multiplex PCR 
+
+ 
+
+ 
+
+(Applied Biosystems, USA) with the same primers used for PCR.  
+
+The total genomic DNA of the isolates was extracted as described previously (Bolano et 
+
+al., 2001), and used in the PCR for the identification of the PMQR genes in all isolates. 
+
+The  genes  qnrA,  qnrB,  qnrS  (Cattoir  et  al.,  2007),  qnrC,  qnrD  (Wang  et  al.,  2009), 
+
+acc(6’)-Ib-cr  ,qepA  and  oqxAB  (Minarini  et  al.,  2008)  were  searched  as  previously 
+
+described. Both strands of the amplicons were sequenced using the ABI 3730 sequencer 
+
+ACCEPTED MANUSCRIPT
+
+Antimicrobial susceptibility 
+
+The antimicrobial susceptibility of E. coli isolates with PMQR genes were assessed by 
+
+agar  disk  diffusion  method  following  the  recommendations  by  Clinical  Laboratory 
+
+Standards  Institute  (CLSI,  2002),  using  breakpoints  recommended  by  CLSI  (CLSI, 
+
+2013).  Fifteen  antimicrobial  drugs  (Oxoid,  UK)  were  tested:  amoxillin/clavulanic  acid 
+
+(20/10µg), piperacillin/tazobactam (100/10µg), cefotaxime (30µg), ceftazidime (30µg), 
+
+cefepime (30µg), cefoxitin (30µg), aztreonam (30µg), ertapenem (10µg), nalidixic acid 
+
+(30µg),  ciprofloxacin  (5µg),  levofloxacin  (5µg),  enrofloxacin  (5µg),  tetracycline 
+
+(30µg),  gentamicin 
+
+(10µg), 
+
+trimethoprim-sulfamethoxazole 
+
+(1.25/23.75µg)  and 
+
+chloramphenicol  (30µg). Multidrug-resistance  (MDR) phenotype  was characterized by 
+
+non-susceptibility  or  resistance  to  at  least  one  agent  in  three  or  more  antimicrobial 
+
+classes (Canton and Ruiz-Garbajosa, 2011; Magiorakos et al., 2012).  
+
+ACCEPTED MANUSCRIPT
+
+6 
+
+ 
+
+ 
+
+Pulsed-field gel electrophoresis (PFGE) 
+
+Genomic  DNA  of  qnr  positive  E.  coli  isolates  were  digested  with  restriction  enzyme 
+
+XbaI  (Fermentas,  USA)  and  the  macrorestriction  separation  was  carried  out  using 
+
+pulsed-field  gel  electrophoresis  (PFGE)  in  the  CHEF-DRIII  System  (Bio-Rad 
+
+Laboratories, USA). The assay was performed in 1,2% agarose PFGE  gels at 6.0V/cm 
+
+with  an  initial/final  switch  time  of  10/40  sec  and  an  angle  of  120°  at  14°C  for  24  h. 
+
+Macrorestriction  patterns  were  analysed  using  the  BioNumerics  5.0  software  (Applied 
+
+Maths,  USA).  Relationship  among  PFGE-types  was  analysed  by  the  Dice  similarity 
+
+index to obtain a dendrogram with clusters. The dendrogram was constructed using the 
+
+unweighted-pair  group  method  using  average  linkage  algorithm  (UPGMA).  The 
+
+minimum threshold value for similar PFGE patterns was defined at 85%. 
+
+ACCEPTED MANUSCRIPT
+
+ 
+
+ 
+
+Phylogenetic Analysis 
+
+The phylogenetic groups were determined according to the previously described method 
+
+(Clermont et al., 2000), classifying isolates to one of the four phylogenetic groups (A, 
+
+B1, B2, or D) based on the presence  of chuA, yjaA genes and TspE4C2 DNA fragment. 
+
+Plasmid replicon typing 
+
+Plasmids  were  investigated  by  PCR-based  Replicon  Typing  (PBRT)  method  using 
+
+primers for 18 major incompatibility (Inc) groups described (FIA, FIB, FIC, HI2, I1-I, 
+
+L/M,  N,  P,  W,  T,  A/C,  K,  B/O,  X,  Y,  F,  FIIA,  HI1)  among  Enterobacteriaceae  as 
+
+described  previously  (Carattoli  et  al.,  2005).  ColE  plasmids  were  also  searched  by 
+
+previously  described  method  (Garcia-Fernandez  et  al.,  2009).  The  Inc  groups  were 
+
+ACCEPTED MANUSCRIPT
+
+7 
+
+ 
+
+determined  in  parental  strains  to  characterize  all  plasmids,  including  the  non-
+
+conjugative.  
+
+ 
+
+Determination of the PMQR 
+
+To  determine  the  plasmids  harboring  the  PMQR  genes,  PFGE  was  performed,  after 
+
+digestion  with  S1  nuclease  (S1-PFGE).  The  Lambda  Ladder  PFG  Marker  and  Low 
+
+Range PFG Marker (Biolabs, USA) were used as size standards. The Southern blot and 
+
+hybridization were performed using DNA probes specific for quinolone resistance genes 
+
+prepared  with  AlkPhos  Direct  Labeling  and  Detection  System  with  CDP-Star  (GE 
+
+ACCEPTED MANUSCRIPT
+
+to  manufacturer 
+
+The  plasmids  were  extracted  using  PureYieldTM  Plasmid  Miniprep  System  (Promega, 
+
+USA),  according 
+
+instructions.  The  ColE-like  plasmids  were 
+
+characterized using the PCR-based method described elsewhere (Pallecchi et al., 2010). 
+
+The  complete  sequence  of  these  plasmids  was  obtained  by  Sanger  sequencing  method 
+
+(ABI  3730  sequencer,  Applied  Biosystems,  USA)  and  analysed  using  Chromas  Pro 
+
+(Technelysium,  Australia)  and  BLAST 
+
+(http://www.ncbi.nlm.nih.gov/BLAST/) 
+
+Healthcare Life Sciences, USA) (Sambrook et al., 1989). 
+
+ 
+
+Characterization of ColE-like plasmids 
+
+softwares. 
+
+ 
+
+Results and Discussion 
+
+ 
+
+Antimicrobial resistance has been exponentially noticed in Enterobacteriaceae isolated 
+
+from  infected  (Dalhoff,  2012)  and  colonized  humans  (Woerther  et  al.,  2013)  and  also 
+
+from  food  and  food-producing  animals  (Bardon  et  al.,  2013;  Clemente  et  al.,  2015; 
+
+(3/200).  
+
+ACCEPTED MANUSCRIPT
+
+8 
+
+ 
+
+Liebana  et  al.,  2013;  Szmolka  et  al.,  2011;  Tamang  et  al.,  2011).  Two  hundred 
+
+ciprofloxacin resistant Enterobacteriaceae isolates were isolated from 200 cloacal swabs 
+
+streaked  on  MacConkey  agar  plates,  selecting  one  colony  per  plate  after  incubation. 
+
+Among  the  identified  isolates,  90.5%  were  E.  coli  (181/200),  5.5%  Escherichia 
+
+fergusonni (11/200), 2.5% Klebsiella oxytoca (5/200) and 1.5% Klebsiella pneumoniae 
+
+ 
+
+Out  of  200  Enterobacteriaceae  isolates  examined  in  this  study,  23%  (46/200) 
+
+carried PMQR genes including qnrB (43/200), qnrS (2/200) and  aac(6’)-Ib-cr (1/200). 
+
+Among Qnr-producing isolates carrying qnrB, 33 were E. coli isolates (qnrB19, n=29; 
+
+qnrB5,  n=4),  7  E.  fergusonii  (qnrB19),  2  K.  oxytoca  (qnrB19)  and  1  K.  pneumoniae 
+
+(qnrB19).  The  qnrS1  was  found  in  two  E.  coli  isolates  and  aac(6’)-Ib-cr  gene  was 
+
+found in one E. coli isolate (Table 1). None isolate was positive for qnrA, qnrC, qnrD, 
+
+ACCEPTED MANUSCRIPT
+
+Nordmann,  2009;  Rodriguez-Martinez  et  al.,  2011;  Strahilevitz  et  al.,  2009).  The 
+
+qnrB19 (n=39) was the  most prevalent  gene detected in  our study, followed by  qnrB5 
+
+(n=4).  The  gene  qnrB19  was  reported  in  other  countries,  in  E.  coli  from  chickens, 
+
+2011;  Literak  et  al.,  2013;  Oh  et  al.,  2016)  than  described  in  the  present  study.  Our 
+
+results  show  a  high  prevalence  of  qnrB19  in  poultry  produced  for  meat  consumption. 
+
+There is  few data about  PMQR  determinants  either in  humans or in animals in  Brazil, 
+
+therefore  the  prevalence  of  these  genes  is  poorly  understood.  Another  study  in  Brazil, 
+
+also  reported  the  gene  qnrB19  carried  by  ColE-like  plasmids  in  four  ExPEC  isolates 
+
+from poultry (Cunha et al., 2017). 
+
+qepA and oqxAB genes. In our work, the most prevalent PMQR determinant was qnrB 
+
+(n=43),  found  in  different  bacterial  species.  Other  research  groups  have  also  reported 
+
+this  gene  as  the  most  frequent  PMQR  determinant,  followed  by  qnrS  (Cattoir  and 
+
+however,  in  most  cases,  in  lower  prevalence  (Ben  Sallem  et  al.,  2014;  Fortini  et  al., 
+
+ACCEPTED MANUSCRIPT
+
+9 
+
+ 
+
+In  this  study,  all  isolates  carrying  PMQR  genes  (46/46)  showed  MDR 
+
+phenotype.  Among  these  isolates,  the  resistance  to  antibiotics  tested  was:  amoxicillin-
+
+clavulanic  acid  (100%),  cefotaxime  (100%),  ceftazidime  (56%),  cefepime  (15%), 
+
+cefoxitin  (63%),  aztreonam  (41%),  nalidixic  acid  (NAL  100%),  ciprofloxacin  (CIP 
+
+None isolate showed resistance to piperacillin/tazobactam and ertapenem (Table 1 e 2). 
+
+NAL,  CIP  and  LEV  are  mainly  used  to  treat  urinary  tract  infections  and  respiratory 
+
+infections  in  human  patients.  However,  ENR  is  a  fluoroquinolone  exclusively 
+
+developed  for  use  in  veterinary  medicine  (Lopez-Cadenas  et  al.,  2013)  and  has  been 
+
+extensively  used  as  a  prophylactic  measure  in  poultry  farms,  to  reduce  intestinal 
+
+infections  by  Salmonella  and  other  pathogens,  which  may  have  contributed  for  the 
+
+91%),  levofloxacin  (LEV  82%),  enrofloxacin  (ENR  100%),  tetracycline  (89%), 
+
+gentamicin (24%), trimethoprim-sulfamethoxazole (63%), and chloramphenicol (46%). 
+
+ACCEPTED MANUSCRIPT
+
+selection of fluoroquinolone resistance among these animals. Furthermore, the oral use 
+
+of  ENR  also  contributes  for  selection  of  resistance  to  non-quinolone  antimicrobials  in 
+
+commensal  E.  coli  isolated  from  chickens  (Jurado  et  al.,  2015).  The  use  of  other 
+
+antibiotic  classes,  such  as  beta-lactam  antibiotics,  could  advantage  co-selection  of 
+
+fluoroquinolones non-susceptible E. coli from retail poultry (Ingram et al., 2013), when 
+
+mobile  genetic  elements  (MGE),  carrying  multiple  antimicrobial  determinants  are 
+
+involved, as explained elsewhere (Canton and Ruiz-Garbajosa, 2011). 
+
+ 
+
+As shown in Table 1, the 36 E. coli isolates carrying PMQR genes exhibited 18 
+
+different  PFGE types. The  qnrB resistance  genes  (qnrB19 and  qnrB5) were present  in 
+
+different  E.  coli  isolates  classified  in  showed  15  PFGE  types  (A  to  O),  demonstrating 
+
+the  dissemination  of  the  resistance  gene  within  a  diverse  bacterial  population.  Among 
+
+the different PFGE types the major cluster "E" included 12 isolates producing qnrB19. 
+
+Two different PFGE types were found in the two E. coli isolates carrying qnrS1 (Q and 
+
+ACCEPTED MANUSCRIPT
+
+10 
+
+ 
+
+R). The E. coli carrying aac(6’)-Ib-cr belonged to a different PFGE type (P). Results in 
+
+Table 2, show that all E. fergusonii carrying qnrB19 belonged to the same PFGE type 
+
+(Ef  A).  Although,  the  two  Klebsiella  oxytoca  isolates  carrying  qnrB19  were  from 
+
+different PFGE types (Table 2). The evaluation of the resistant E. coli population from 
+
+farm 1 and farm 2 shows nine different PFGE types in each farm, carrying the resistance 
+
+genes, without any common PFGE type shared between farms. These findings suggest 
+
+that  the  dissemination  of  the  resistance  genes  is  most  likely  associated  to  MGE  (e.g. 
+
+plasmids),  exchanged  among  different  isolates,  rather  than  with  a  unique  resistant 
+
+isolate prevailing. The phylogenetic groups A, B1, and D were found among the E. coli 
+
+harboring  PMQR  genes.  Most  isolates  were  identified  in  the  phylogenetic  group  A 
+
+(50%), other 42% of the isolates were classified in the phylogenetic group D and 8% of 
+
+the  isolates  were  identified  phylogenetic  group  B1  (Table  1).  None  of  the  isolates 
+
+ACCEPTED MANUSCRIPT
+
+belonged  phylogenetic  group  B2.  In  addition,  14  qnrB19-producing  belonged  to 
+
+phylogenetic  group  D.  Based  on  the  phylogenetic  analysis  and  PFGE,  the  population 
+
+structure  of  E.  coli  isolates  was  diverse,  even  within  the  same  poultry  farm, 
+
+characterizing  a  non-clonal  dissemination  and  demonstrating  the  potential  of  these 
+
+genes  and  MGEs  to  be  maintained  by  different  E.  coli  populations.  Isolates  within 
+
+phylogenetic group B2 reported, as the most virulent, frequently causing infections were 
+
+not  detected.  Nevertheless,  among  the  phylogenetic  groups  identified  in  the  present 
+
+work, group D has also been involved in extraintestinal infections, causing concerns in 
+
+clinical  settings.  The  phylogenetic  groups  A  and  B1  are  considered  less  virulent, 
+
+however, were also described in human extraintestinal infections (Pitout, 2012). . 
+
+As shown in Table 1, in all isolates, the qnrB and qnrS genes were harboured on 
+
+ColE-like plasmids. Moreover, 43 E. coli isolates carrying qnrB in ColE-like plasmids, 
+
+also carried other replicon types, including IncHI1 (n = 1), IncI1 (n = 2), IncFIA (n = 3), 
+
+ACCEPTED MANUSCRIPT
+
+11 
+
+ 
+
+IncFIB (n = 17), IncFIC (n = 2), IncF (n = 22), IncK (n = 12) and IncB/O (n = 2).   E. 
+
+coli  isolates  harboring  qnrS1  showed  the  presence  of  IncHI1  (n  =  1),  IncI1  (n  =  2), 
+
+IncFIB (n = 2) IncF (n = 2) and IncA/C (n =1). The E. coli isolate carrying aac(6’)-Ib-cr 
+
+showed  IncFIB,  IncF,  and  IncY,  however  it  was  not  possible  to  determine  which 
+
+plasmid harboured this gene. As shown in Table 2, E. fergusonii isolates carrrying qnrB 
+
+gene in ColE-like plasmids, also harboured IncHI1 (n = 4), IncI1 (n = 7) and IncF (n = 
+
+8). K. oxytoca  isolates harboring qnrB also  showed the replicon types  IncFIB (n  = 2), 
+
+IncI1 (n = 7) and IncF (n = 8).  
+
+PFGE-types and phylogenetic groups, suggests the evidence of lateral gene transfer.. 
+
+number  JN985534).  The  sequenced  plasmids  were  determined  as  ColE-like  plasmids 
+
+The Southern blot hybridization using the S1-PFGE revealed that the qnrB19 and qnrB5 
+
+genes were located on low-molecular weight plasmids, smaller than 10Kb.The plasmids 
+
+sequences from isolates carrying qnrB19 gene were analyzed using Genebank database 
+
+tools,  and  100%  identity  with  plasmid  pPAB19-3  was  found  (GenBank  accession 
+
+ACCEPTED MANUSCRIPT
+
+and the size was 2,989 bp. The ColE-like backbone found included regions for plasmid 
+
+replication  and  mobilization.  The  qnr  region  was  located  near  the  Xer  specific 
+
+recombination site. The ISEcp1 was found in these plasmids downstream from psp gene 
+
+(activator  of  the  stress-inducible)  and  from  qnr  gene.  Moreover,  the  presence  of  this 
+
+MGE  in  different  poultry  Farms,  bacterial  species  and  E.  coli  isolates  of  different 
+
+ 
+
+The  ColE  plasmids  identified  in  all  our  isolates  shared  the  same  genetic 
+
+sequence  as  those  reported  in  E.  coli  from  hospital,  in  Argentina,  which  has  been 
+
+circulating since 2007 in that country (Tran et al., 2012). However, now we report this 
+
+replicon  associated  to  PMQR  determinants  in  isolates  from  food-producing  poultry  in 
+
+Brazil, suggesting the capacity to disseminate. Moreover, it has been proposed that this 
+
+RCR plasmid arrangement could play a role in the evolution of plasmids and present a 
+
+ACCEPTED MANUSCRIPT
+
+12 
+
+ 
+
+model  for  DNA  swapping  between  plasmid  DNA  mediated  by  site-specific 
+
+recombination  events  at  oriT  and  a  Xer  target  site  (Tran  et  al.,  2012).  The  plasmids 
+
+pPAB19-1, pPAB19-2, pPAB19-3 (pPAB19-3 also detected here), and pPAB19-4 share 
+
+extensive  homology  among  themselves  and  with  other  previously  described  small 
+
+qnrB19-harboring plasmids (Tran et al., 2012).  
+
+ 
+
+Overall,  as  summarized 
+
+in  Table  1  and  2,  a  high  prevalence  of 
+
+Enterobacteriaceae,  including  E.  coli,  E.  fergusonii  and  K.  oxytoca,  were  found 
+
+carrying  PMQR  determinant  genes  harbored  in  ColE-like  plasmids.  Moreover,  these 
+
+isolates  also  harbored  other  important  replicon  types.  The  increased  resistance  to 
+
+quinolones and fluoroquinolones, determined by  PMQR  genes, was noticed in  isolates 
+
+ACCEPTED MANUSCRIPT
+
+ 
+
+ 
+
+ 
+
+  
+
+Conclusion 
+
+ 
+
+that  also  showed  resistance  to  other  important  antibiotics  such  as  AMC,  CTX,  CAZ, 
+
+ATM, GEN, CHL, TET. These characteristics were present in a diverse population of E. 
+
+coli,  as  shown  by  PFGE  and  phylogeny,  demonstrating  that  this  dissemination  of 
+
+resistance has a non-clonal nature. The concern about the dissemination of PMQR genes 
+
+is  that these  genes may  facilitate the selection of higher levels  of quinolone resistance 
+
+(Jacoby  et  al.,  2014).  It  is  difficult  to  determine  the  incidence  and  prevalence  of  this 
+
+plasmid carrying these genes, however, silent dissemination may be occurring in many 
+
+ecological settings and in different countries in South America. 
+
+ 
+
+A  high  prevalence  of  PMQR  determinants  was  found  in  Enterobacteriaceae 
+
+isolated from healthy chickens. Different Enterobacteriaceae harboured these genes and 
+
+the  genes  were  found  in  two  poultry  Farms,  showing  the  dissemination  of  resistant 
+
+bacteria  in  food-producing  animals,  which  may  play  an  important  role  in  the  current 
+
+increased  prevalence  of  MDR  bacteria  in  different  environments  reported  worldwide. 
+
+ACCEPTED MANUSCRIPT
+
+13 
+
+ 
+
+Therefore, the surveillance of resistant genes in the food chain is considered a key point 
+
+to assist in the control of antimicrobial resistance. 
+
+ 
+
+Conflict of interest statement 
+
+None to declare. 
+
+ 
+
+Acknowledgements 
+
+ 
+
+ 
+
+References 
+
+We  would  like  to  thank  DVM,  Mark  Ishi,  who  contributed  for  sampling  in  poultry 
+
+Farms,  Dr.  Luke  Richards  for  his  kind  review  of  the  text  and  São  Paulo  Research 
+
+Foundation (FAPESP) for the constant support for our research (Grant n. 2014/14494-
+
+8).  Rafael.  Penha  Filho,  (FAPESP,  grant  2016/12293-0),  São  Paulo  Research 
+
+Foundation  (FAPESP).  L.N.A.  was  supported  by  post-doctoral  fellowship,  from 
+
+National Council for Scientific and Technological Development (CNPq/PNPD 2015).  
+
+ACCEPTED MANUSCRIPT
+
+Bardon, J., Husickova, V., Chroma, M., Kolar, M., 2013. Prevalence and characteristics 
+
+of Escherichia coli strains producing extended-spectrum beta -lactamases in slaughtered 
+
+animals in the Czech Republic. J. Food Protect. 76, 1773-1777. 
+
+Ben Sallem, R., Ben Slama, K., Rojo-Bezares, B., Porres-Osante, N., Jouini, A., Klibi, 
+
+N., Boudabous, A., Saenz, Y., Torres, C., 2014. IncI1 plasmids carrying bla(CTX-M-1) or 
+
+bla(CMY-2)  genes  in  Escherichia  coli  from  healthy  humans  and  animals  in  Tunisia. 
+
+Microb. Drug Resist. 20, 495-500. 
+
+IJMM 303, 298-304. 
+
+219-228. 
+
+Carattoli,  A.,  Bertini,  A.,  Villa,  L.,  Falbo,  V.,  Hopkins,  K.L.,  Threlfall,  E.J.,  2005. 
+
+Identification  of  plasmids  by  PCR-based  replicon  typing.  J.  Microbiol.  Methods  63, 
+
+ACCEPTED MANUSCRIPT
+
+14 
+
+ 
+
+Bolano, A., Stinchi, S., Preziosi, R., Bistoni, F., Allegrucci, M., Baldelli, F., Martini, A., 
+
+Cardinali,  G.,  2001.  Rapid  methods  to  extract  DNA  and  RNA  from  Cryptococcus 
+
+neoformans. Fems Yeast Res. 1, 221-224. 
+
+Canton, R., Ruiz-Garbajosa, P., 2011. Co-resistance: an opportunity for the bacteria and 
+
+resistance genes. Curr. Opin. Pharmacol. 11, 477-485. 
+
+Carattoli,  A.,  2013.  Plasmids  and  the  spread  of  resistance.  Int.  J.  Med.  Microbiol.  : 
+
+Cattoir,  V.,  Nordmann,  P.,  2009.  Plasmid-mediated  quinolone  resistance  in  gram-
+
+negative bacterial species: an update. Curr. Med. Chem. 16, 1028-1046. 
+
+Cattoir, V., Poirel, L., Rotimi, V., Soussy, C.J., Nordmann, P., 2007. Multiplex PCR for 
+
+detection  of  plasmid-mediated  quinolone  resistance  qnr  genes  in  ESBL-producing 
+
+ACCEPTED MANUSCRIPT
+
+enterobacterial isolates. J. Antimicrob. Chemother. 60, 394-397. 
+
+Clemente, L., Manageiro, V., Jones-Dias, D., Correia, I., Themudo, P., Albuquerque, T., 
+
+Geraldes,  M.,  Matos,  F.,  Almendra,  C.,  Ferreira,  E.,  Canica,  M.,  2015.  Antimicrobial 
+
+susceptibility  and  oxymino-beta-lactam  resistance  mechanisms  in  Salmonella  enterica 
+
+and Escherichia coli isolates from different  animal  sources.  Res. Microbiol. 166, 574-
+
+583. 
+
+Clermont,  O.,  Bonacorsi,  S.,  Bingen,  E.,  2000.  Rapid  and  simple  determination  of  the 
+
+Escherichia coli phylogenetic group. Appl. Environ. Microbiol. 66, 4555-4558. 
+
+CLSI, 2002. Performance Standards for Antimicrobial Disk and Dilution Susceptibility 
+
+Tests  for  Bacteria  Isolated  from  Animals;  Approved  Standard—Second  Edition,  CLSI 
+
+Document M31-A2. 
+
+Antimicrob. Agents Chemother. 61. 
+
+Dalhoff,  A.,  2012.  Resistance  surveillance  studies:  a  multifaceted  problem--the 
+
+fluoroquinolone example. Infect. 40, 239-262. 
+
+ACCEPTED MANUSCRIPT
+
+15 
+
+ 
+
+CLSI,  2013.  Performance  Standards  for  Antimicrobial  Susceptibility  Testing;  Twenty-
+
+Third Informational Supplement.  CLSI document M100-S23. Wayne, PA: Clinical and 
+
+Laboratory Standards Institute. 
+
+Cunha, M.P., Lincopan, N., Cerdeira, L., Esposito, F., Dropa, M., Franco, L.S., Moreno, 
+
+A.M.,  Knobl,  T.,  2017.  Coexistence  of  CTX-M-2,  CTX-M-55,  CMY-2,  FosA3,  and 
+
+QnrB19  in  Extraintestinal  Pathogenic  Escherichia  coli  from  Poultry  in  Brazil. 
+
+Dionisi, A.M., Lucarelli, C., Owczarek, S., Luzzi, I., Villa, L., 2009. Characterization of 
+
+the  plasmid-borne  quinolone  resistance  gene  qnrB19  in  Salmonella  enterica  serovar 
+
+Typhimurium. Antimicrob. Agents and Chemother 53, 4019-4021. 
+
+Fortini,  D.,  Fashae,  K.,  Garcia-Fernandez,  A.,  Villa,  L.,  Carattoli,  A.,  2011.  Plasmid-
+
+mediated  quinolone  resistance  and  beta-lactamases  in  Escherichia  coli  from  healthy 
+
+ACCEPTED MANUSCRIPT
+
+animals from Nigeria. J. Antimicrob. Chemother. 66, 1269-1272. 
+
+Gagliotti, C., Buttazzi, R., Sforza, S., Moro, M.L., 2008. Resistance to fluoroquinolones 
+
+and treatment failure/short-term relapse of community-acquired urinary tract infections 
+
+caused by Escherichia coli. J. Infect. 57, 179-184. 
+
+Garcia-Fernandez,  A.,  Fortini,  D.,  Veldman,  K.,  Mevius,  D.,  Carattoli,  A.,  2009. 
+
+Characterization  of  plasmids  harbouring  qnrS1,  qnrB2  and  qnrB19  genes  in 
+
+Salmonella. J. Antimicrob. Chemother. 63, 274-281. 
+
+Harada,  K.,  Asai,  T.,  2010.  Role  of  antimicrobial  selective  pressure  and  secondary 
+
+factors on antimicrobial resistance prevalence in Escherichia coli from food-producing 
+
+animals in Japan. J. Biomed. Biotechnol. 2010, 180682. 
+
+ACCEPTED MANUSCRIPT
+
+16 
+
+ 
+
+Ingram, P.R., Rogers, B.A., Sidjabat, H.E., Gibson, J.S., Inglis, T.J., 2013. Co-selection 
+
+may  explain  high  rates  of  ciprofloxacin  non-susceptible  Escherichia  coli  from  retail 
+
+poultry  reared  without  prior  fluoroquinolone  exposure.  J.  Med.  Microbiol.  62,  1743-
+
+1746. 
+
+Jacoby,  G.A.,  Strahilevitz,  J.,  Hooper,  D.C.,  2014.  Plasmid-mediated  quinolone 
+
+resistance. Microbiol. Spectr. 2. 
+
+Lett. 313, 10-19. 
+
+Jurado, S., Medina, A.,  de la  Fuente, R., Ruiz-Santa-Quiteria, J.A., Orden, J.A., 2015. 
+
+Resistance to non-quinolone antimicrobials in commensal Escherichia coli isolates from 
+
+chickens treated orally with enrofloxacin. Japan. J. Vet. Res 63, 195-200. 
+
+Karczmarczyk,  M.,  Martins,  M.,  McCusker,  M.,  Mattar,  S.,  Amaral,  L.,  Leonard,  N., 
+
+Aarestrup,  F.M.,  Fanning,  S.,  2010.  Characterization  of  antimicrobial  resistance  in 
+
+Salmonella  enterica  food  and  animal  isolates  from  Colombia:  identification  of  a 
+
+qnrB19-mediated quinolone resistance marker in two novel serovars. FEMS Microbiol. 
+
+ACCEPTED MANUSCRIPT
+
+Liebana,  E.,  Carattoli,  A.,  Coque,  T.M.,  Hasman,  H.,  Magiorakos,  A.P.,  Mevius,  D., 
+
+Peixe,  L.,  Poirel,  L.,  Schuepbach-Regula,  G.,  Torneke,  K.,  Torren-Edo,  J.,  Torres,  C., 
+
+Threlfall,  J.,  2013.  Public  health  risks  of  enterobacterial  isolates  producing  extended-
+
+spectrum  beta-lactamases  or  AmpC  beta-lactamases  in  food  and  food-producing 
+
+animals:  an  EU  perspective  of  epidemiology,  analytical  methods,  risk  factors,  and 
+
+control options. Clin. Infect. Dis. 56, 1030-1037. 
+
+Literak,  I.,  Reitschmied,  T.,  Bujnakova,  D.,  Dolejska,  M.,  Cizek,  A.,  Bardon,  J., 
+
+Pokludova,  L.,  Alexa,  P.,  Halova,  D.,  Jamborova,  I.,  2013.  Broilers  as  a  source  of 
+
+quinolone-resistant  and  extraintestinal  pathogenic  Escherichia  coli  in  the  Czech 
+
+Republic. Microb. Drug Resist. 19, 57-63. 
+
+ACCEPTED MANUSCRIPT
+
+17 
+
+ 
+
+Lopez-Cadenas, C., Sierra-Vega, M., Garcia-Vieitez, J.J., Diez-Liebana, M.J., Sahagun-
+
+Prieto,  A.,  Fernandez-Martinez,  N.,  2013.  Enrofloxacin:  pharmacokinetics  and 
+
+metabolism in domestic animal species. Curr. Drug Metabol. 14, 1042-1058. 
+
+Magiorakos, A.P., Srinivasan, A., Carey, R.B., Carmeli, Y., Falagas, M.E., Giske, C.G., 
+
+Harbarth,  S.,  Hindler,  J.F.,  Kahlmeter,  G.,  Olsson-Liljequist,  B.,  Paterson,  D.L.,  Rice, 
+
+L.B.,  Stelling,  J.,  Struelens,  M.J.,  Vatopoulos,  A.,  Weber,  J.T.,  Monnet,  D.L.,  2012. 
+
+Multidrug-resistant,  extensively  drug-resistant  and  pandrug-resistant  bacteria:  an 
+
+international  expert  proposal  for  interim  standard  definitions  for  acquired  resistance. 
+
+ACCEPTED MANUSCRIPT
+
+Pallecchi,  L., Riccobono, E., Mantella, A., Fernandez, C., Bartalesi, F., Rodriguez, H., 
+
+Gotuzzo,  E.,  Bartoloni,  A.,  Rossolini,  G.M.,  2011.  Small  qnrB-harbouring  ColE-like 
+
+plasmids widespread in commensal enterobacteria from a remote Amazonas population 
+
+not exposed to antibiotics. J. Antimicrob. Chemother. 66, 1176-1178. 
+
+Pallecchi,  L.,  Riccobono,  E.,  Sennati,  S.,  Mantella,  A.,  Bartalesi,  F.,  Trigoso,  C., 
+
+Gotuzzo, E., Bartoloni, A., Rossolini, G.M., 2010. Characterization of small ColE-like 
+
+plasmids  mediating  widespread  dissemination  of  the  qnrB19  gene  in  commensal 
+
+enterobacteria. Antimicrob. Agents Chemother. 54, 678-682. 
+
+Pitout,  J.D.,  2012.  Extraintestinal  Pathogenic  Escherichia  coli:  A  Combination  of 
+
+Virulence with Antibiotic Resistance. Front. Microbiol. 3, 9. 
+
+Clin. Microbiol. Infect. 18, 268-281. 
+
+Minarini,  L.A.,  Poirel,  L.,  Cattoir,  V.,  Darini,  A.L.,  Nordmann,  P.,  2008.  Plasmid-
+
+mediated  quinolone  resistance  determinants  among  enterobacterial  isolates  from 
+
+outpatients in Brazil. J Antimicro Chemother 62, 474-478. 
+
+Oh, J.Y., Kwon, Y.K., Tamang, M.D., Jang, H.K., Jeong, O.M., Lee, H.S., Kang, M.S., 
+
+2016.  Plasmid-Mediated  Quinolone  Resistance  in  Escherichia  coli  Isolates  from  Wild 
+
+Birds and Chickens in South Korea. Microb. Drug Resist. 22, 69-79. 
+
+ACCEPTED MANUSCRIPT
+
+18 
+
+ 
+
+Poirel,  L.,  Cattoir,  V.,  Nordmann,  P.,  2012.  Plasmid-Mediated  Quinolone  Resistance; 
+
+Interactions  between  Human,  Animal,  and  Environmental  Ecologies.  Front.  Microbiol 
+
+3, 24. 
+
+Rodriguez-Martinez, J.M., Cano, M.E., Velasco, C., Martinez-Martinez, L., Pascual, A., 
+
+2011. Plasmid-mediated quinolone resistance: an update. J. Infect. Chemother. 17, 149-
+
+182. 
+
+Sambrook, J., Fritsch, E., Maniatis, T., 1989. Molecular Cloning: a Laboratory Manual. 
+
+2nd ed. NewYork: Cold Spring Harbor Laboratory Press  ed. 
+
+ACCEPTED MANUSCRIPT
+
+Strahilevitz,  J.,  Jacoby,  G.A.,  Hooper,  D.C.,  Robicsek,  A.,  2009.  Plasmid-mediated 
+
+quinolone resistance: a multifaceted threat. Clin. Microbiol Rev. 22, 664-689. 
+
+Szmolka,  A.,  Fortini,  D.,  Villa,  L.,  Carattoli,  A.,  Anjum,  M.F.,  Nagy,  B.,  2011.  First 
+
+report  on  IncN  plasmid-mediated  quinolone  resistance  gene  qnrS1  in  porcine 
+
+Escherichia coli in Europe. Microb. Drug Resist. 17, 567-573. 
+
+Tamang, M.D., Nam, H.M., Kim, A., Lee, H.S., Kim, T.S., Kim, M.J., Jang, G.C., Jung, 
+
+S.C.,  Lim,  S.K.,  2011.  Prevalence  and  mechanisms  of  quinolone  resistance  among 
+
+selected  nontyphoid  Salmonella  isolated  from  food  animals  and  humans  in  Korea. 
+
+Foodborne Pathog.Dis. 8, 1199-1206. 
+
+Tran, T., Andres, P., Petroni, A., Soler-Bistue, A., Albornoz, E., Zorreguieta, A., Reyes-
+
+Lamothe, R., Sherratt, D.J., Corso, A., Tolmasky, M.E., 2012. Small plasmids harboring 
+
+qnrB19: a model for plasmid evolution mediated by site-specific recombination at oriT 
+
+and Xer sites. Antimicrob. Agents Chemother. 56, 1821-1827. 
+
+Vanni, M., Meucci, V., Tognetti, R., Cagnardi, P., Montesissa, C., Piccirillo, A., Rossi, 
+
+A.M.,  Di  Bello,  D.,  Intorre,  L.,  2014.  Fluoroquinolone  resistance  and  molecular 
+
+ACCEPTED MANUSCRIPT
+
+19 
+
+ 
+
+characterization  of  gyrA  and  parC  quinolone  resistance-determining  regions  in 
+
+Escherichia coli isolated from poultry. Poult Sci. 93, 856-863. 
+
+Wang,  M.,  Guo,  Q.,  Xu,  X.,  Wang,  X.,  Ye,  X.,  Wu,  S.,  Hooper,  D.C.,  2009.  New 
+
+plasmid-mediated quinolone resistance gene, qnrC, found in a clinical isolate of Proteus 
+
+mirabilis. Antimicrob. Agents Chemother. 53, 1892-1897. 
+
+Woerther, P.L., Burdet, C., Chachaty, E., Andremont, A., 2013. Trends in human fecal 
+
+carriage  of  extended-spectrum  beta-lactamases 
+
+globalization of CTX-M. Clin. Microbiol. Rev. 26, 744-758. 
+
+the  community: 
+
+toward 
+
+the 
+
+Zawack, K., Li, M., Booth, J.G., Love, W., Lanzas, C., Grohn, Y.T., 2016. Monitoring 
+
+Antimicrobial Resistance in the Food Supply Chain and Its Implications for FDA Policy 
+
+Initiatives. Antimicrob Agents Chemother 60, 5302-5311. 
+
+ 
+
+in 
+
+ACCEPTED MANUSCRIPT
+
+ACCEPTED MANUSCRIPT
+
+20 
+
+ 
+
+Table1. Phenotypic and genotypic characteristics of PMQR-harboring E. coli isolates from poultry 
+
+Isolates 
+
+Species 
+
+Farm 
+
+Resistance 
+
+PMQR gene 
+
+Plasmid family 
+
+Phylogenetic Group  PFGE-type 
+
+157a 
+167 
+166a 
+109 
+107 
+110 
+112 
+115 
+125a 
+127 
+135 
+138 
+141b 
+148 
+149 
+114b 
+122 
+176 
+39a 
+74 
+91 
+123b 
+136 
+146 
+105 
+147 
+86 
+106 
+143 
+12 
+
+ 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+1 
+1 
+1 
+2 
+2 
+2 
+2 
+2 
+1 
+2 
+2 
+1 
+
+AMC,CTX,CAZ,FOX,NAL,CIP,LEV,GEN,TET,SXT 
+AMC,CTX,FOX,NAL,CIP,LEV,GEN,TET,SXT 
+AMC,CTX,CAZ,FOX,NAL,CIP,LEV,GEN,TET,SXT 
+AMC,CTX,CAZ,FOX,NAL,CIP,LEV,TET,SXT 
+AMC,CTX,CAZ,FOX,NAL,CIP,LEV,TET,SXT,CHL 
+AMC,CTX,CAZ,FOX,NAL,CIP,LEV,TET,SXT,CHL 
+AMC,CTX,CAZ,FOX,NAL,CIP,LEV,TET,CHL 
+AMC,CTX,CAZ,ATM,FOX,NAL,CIP,LEV,TET,CHL 
+AMC,CTX, NAL,CIP,LEV,TET,CHL 
+AMC,CTX,CAZ,ATM,FOX,NAL,CIP,LEV,TET,CHL 
+AMC,CTX,CAZ,ATM,FOX,NAL,CIP,LEV,TET,CHL 
+AMC,CTX,CAZ,ATM,FOX,NAL,CIP,LEV,TET,CHL 
+AMC,CTX,FOX,NAL,CIP,LEV,TET,CHL 
+AMC,CTX,CAZ,ATM,FOX,NAL,CIP,LEV,TET,CHL 
+AMC,CTX,CAZ,ATM,FOX,NAL,CIP,LEV,TET,CHL 
+AMC,CTX,CAZ,ATM,FOX,NAL,CIP,LEV,TET,CHL 
+AMC,CTX,CAZ,ATM,FOX,NAL,CIP,LEV,TET,CHL 
+AMC,CTX,CAZ,FOX,NAL,CIP,LEV,GEN,TET,SXT 
+AMC,CTX,CAZ,FOX,NAL,CIP,LEV 
+AMC,CTX,CAZ,ATM,FOX,NAL,CIP,LEV,TET 
+AMC,CTX,CAZ, FOX,NAL,CIP,LEV 
+AMC,CTX,NAL,CIP,LEV,GEN,TET 
+AMC,CTX,FOX,NAL,CIP,LEV,GEN,TET 
+AMC,CTX,NAL,CIP,LEV,GEN,TET 
+AMC,CTX,FOX,NAL,CIP,LEV,GEN,TET 
+AMC,CTX,FOX,NAL,CIP,LEV,GEN,TET 
+AMC,CTX,ATM,NAL,CIP,LEV,GEN,TET 
+AMC,CTX,CAZ,FOX,NAL,CIP,LEV,GEN,TET,SXT 
+AMC,CTX,FOX,NAL,CIP,LEV,SXT 
+AMC,CTX,CAZ,ATM,FOX,NAL,CIP,LEV,CHL 
+
+T
+
+P
+
+A
+
+E
+
+D   M
+
+E
+
+C
+
+C
+
+U
+
+A
+
+N
+
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB5 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB5 
+qnrB19 
+qnrB19 
+qnrB19 
+
+ 
+
+R IP
+
+C
+
+S
+
+ColE, HI1, I1, F 
+ColE, FIB, F 
+ColE, FIB, F 
+ColE, K 
+ColE, FIB, F 
+ColE, F 
+ColE, FIB, F 
+ColE, FIB, F 
+ColE, FIB, F 
+ColE, FIB, F 
+ColE, FIB, F 
+ColE, FIB, F 
+ColE, FIB, F 
+ColE, FIB, F 
+ColE, FIB, F 
+ColE, FIB, F 
+ColE FIB, F 
+ColE, FIA, FIB, F 
+ColE, K, B/O 
+ColE, K 
+ColE, K 
+ColE, K 
+ColE, K 
+ColE, K 
+ColE, FIA 
+ColE, K 
+ColE, FIB, FIC, F 
+ColE, FIA, F 
+ColE, K 
+ColE, FIC, K, F 
+
+T
+
+A 
+A 
+A 
+A 
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+A 
+A 
+A 
+A 
+A 
+A 
+A 
+A 
+A 
+D 
+A 
+A 
+
+A 
+A 
+B 
+C 
+D 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+F 
+G 
+G 
+G 
+H 
+H 
+H 
+H 
+H 
+N 
+I 
+J 
+K 
+
+ACCEPTED MANUSCRIPT
+
+21 
+
+ 
+
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+E.coli 
+
+1 
+1 
+1 
+1 
+1 
+1 
+
+37 
+89 
+82 
+49a 
+01 
+93 
+AMC: amoxicillin-clavulanic  acid, CTX: cefotaxime,  CAZ:  ceftazidime, FEP: cefepime,  FOX: cefoxitin,  ATM:  aztreonam, NAL :  nalidixic acid,  CIP ciprofloxacin, 
+LEV: levofloxacin,  
+TET: tetracycline, CHL: chloramphenicol, SXT: trimethoprim-sulfamethoxazole, GEN: gentamicin. The plasmids that carried PMQR genes are underlined. 
+
+AMC,CTX,CAZ,ATM,FOX,NAL,CIP,LEV,TET, 
+AMC,CTX,CAZ,ATM,FEP,NAL,CIP,LEV,TET,CHL 
+AMC, CTX,FEP,NAL,CIP,TET 
+AMC,CTX,CAZ,ATM,FEP,NAL,CIP,LEV,TET,SXT,CHL  aac(6’)-Ib-cr  FIB, F,Y 
+AMC,CTX,CAZ,ATM,FEP,NAL,CIP,TET 
+AMC,CTX,ATM,FEP,NAL,CIP,LEV,TET,SXT,CHL 
+
+ColE, K, B/O 
+ColE, F 
+ColE, I1, FIB, F 
+
+qnrS1 
+qnrS1 
+
+ColE, I1, FIB, F, A/C 
+ColE, HI1, I1, FIB, F 
+
+qnrB19 
+qnrB5 
+qnrB5 
+
+S
+
+U
+
+N
+
+A
+
+D   M
+
+E
+
+T
+
+P
+
+E
+
+C
+
+C
+
+A
+
+A 
+B1 
+A 
+B1 
+B1 
+A 
+
+L 
+M 
+O 
+P 
+Q 
+R 
+
+T
+
+R IP
+
+C
+
+ACCEPTED MANUSCRIPT
+
+22 
+
+ 
+
+Table 2. Phenotypic and genotypic characteristics of PMQR-harboring K. oxytoca,  K.pneumoniae and E.fergusonii isolates from poultry 
+
+Isolates 
+
+Species 
+Identified 
+
+Farms 
+
+Resistance 
+
+PMQR gene 
+
+Plasmid family 
+
+PFGE 
+
+ 
+
+E
+
+T
+
+P
+
+E
+
+C
+
+C
+
+A
+
+K. oxytoca 
+K. oxytoca 
+K.pneumoniae 
+E.fergusonii 
+E.fergusonii 
+E.fergusonii 
+E.fergusonii 
+E.fergusonii 
+E.fergusonii 
+E.fergusonii 
+
+121a 
+137a 
+108a 
+117c 
+123a 
+151c 
+156b 
+157b 
+169b 
+171b 
+AMC: amoxicillin-clavulanic  acid, CTX: cefotaxime,  CAZ:  ceftazidime, FEP: cefepime,  FOX: cefoxitin,  ATM:  aztreonam, NAL :  nalidixic acid,  CIP ciprofloxacin, 
+LEV: levofloxacin, TET: tetracycline, CHL: chloramphenicol, SXT: trimethoprim-sulfamethoxazole, GEN: gentamicin. The the plasmids that carried PMQR genes are 
+underlined. 
+
+AMC,CTX,CAZ,FOX,NAL,CIP,LEV,TET,CHL 
+AMC,CTX,CAZ,ATM,FOX,FEP,NAL,CIP,LEV,TET,SXT,CHL 
+AMC,CTX,NAL,CIP,LEV,TET,SXT,CHL 
+AMC,CTX,NAL,CIP,LEV,TET,SXT 
+AMC,CTX,NAL,CIP,LEV,TET,CHL 
+AMC,CTX,NAL,CIP,LEV,TET,SXT,CHL 
+AMC,CTX,NAL,CIP,LEV,TET,SXT 
+AMC,CTX,CAZ,NAL,CIP,LEV,TET 
+AMC,CTX,NAL,CIP,LEV,TET,SXT 
+AMC,CTX,NAL,CIP,LEV,TET,SXT 
+
+Ko A 
+ Ko B 
+Kp A 
+Ef A 
+Ef A 
+Ef A 
+Ef A 
+Ef A 
+Ef A 
+Ef A 
+
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+qnrB19 
+
+S
+
+U
+
+R IP
+
+ColE, FIB, F 
+ColE, I1 
+ColE 
+ColE, I1, F 
+ColE, HI1, I1, F 
+ColE, HI1, I1, F 
+ColE, HI1, I1, F 
+ColE, HI1, I1, F 
+ColE, I1, F 
+ColE, I1, F 
+
+C
+
+T
+
+N
+
+A
+
+D   M
+
+ACCEPTED MANUSCRIPT
+
+23 
+
+ 
+
+Highlights 
+
+ 
+
+ 
+
+  Evaluation  of  antimicrobial  resistance  in  enterobacteria  from  commercial 
+
+chickens 
+
+  High  prevalence  of  PMQR  determinants  in  Enterobacteriaceae  isolated  from 
+
+  Multidrug resistance (MDR) in commensal Enterobacteriaceae carrying PMQR 
+
+  Dissemination of PMQR occurred by ColE-like plasmids 
+  Characterization of plasmids carrying qnrB genes 
+
+healthy chickens 
+
+determinants 
+
+ACCEPTED MANUSCRIPT
+
+

@@ -1,0 +1,1179 @@
+1591
+
+Journal of Food Protection, Vol. 82, No. 9, 2019, Pages 1591–1597
+https://doi.org/10.4315/0362-028X.JFP-19-001
+Copyright Ó, International Association for Food Protection
+
+Research Note
+
+Prevalence and Characteristics of Quinolone Resistance in
+Salmonella Isolated from Retail Foods in Lanzhou, China
+
+QIWEI CHEN,1,2 XIONGWEI GONG,2 FUYING ZHENG,2 PENG JI,1 ZIWEN YUAN,1 YONGSHENG LIU,2 AND
+
+YANMING WEI1*
+
+1Institute of Traditional Chinese Veterinary Medicine, College of Veterinary Medicine, Gansu Agricultural University, Lanzhou 730070, People’s Republic
+of China; and 2State Key Laboratory of Veterinary Etiological Biology, Lanzhou Veterinary Research Institute, Chinese Academy of Agricultural Sciences,
+
+No. 1 Xujiaping, Yanchangbao, Lanzhou 730046, People’s Republic of China
+
+MS 19-001: Received 1 January 2019/Accepted 5 May 2019/Published Online 21 August 2019
+
+ABSTRACT
+
+The aim of this study was to determinate the prevalence of Salmonella in retail foods and its resistance to quinolones in
+retail foods in Lanzhou, People's Republic of China. In this work, 2,182 food samples, collected from March 2015 to December
+2018, were analyzed to detect Salmonella and then analyzed for serotype distribution, quinolone resistance, and quinolone-
+resistant gene detection. The ﬁndings demonstrate that the overall prevalence of Salmonella in these food categories was low. A
+total of 41 (1.9%) of 2,182 food samples were found to be positive for Salmonella. Ten distinct serovars were identiﬁed, and
+Salmonella Derby, Salmonella Anatum, and Salmonella Enteritidis were the most prevalent serovars. According to the broth
+microdilution test, the resistance percentages were 90.2% to nalidixic acid, 39.0% to enroﬂoxacin, 41.5% to ciproﬂoxacin,
+29.3% to oﬂoxacin, and 26.8% to levoﬂoxacin. Among the quinolone-resistant isolates, 12 strains had a single mutation in gyrA
+at codon 83 (Ser!Phe) or codon 87 (Asp!Asn or Asp!Gly). Five isolates had one parC mutation (Ser80!Arg) and one or
+two gyrA hot spot mutations. qnr genes were found in seven isolates (ﬁve qnrB and two qnrD), and the aac(60)-Ib gene in seven
+isolates. Two isolates carry both qnrB and aac(60)-Ib-cr genes. Based on these results, a low prevalence of Salmonella
+contamination in retail foods was found, but it might play a potential risk factor in the spread of quinolone-resistant Salmonella
+strains in the Lanzhou region.
+
+ Salmonella serovars Derby, Anatum, and Enteritidis were most prevalent from retail foods in Lanzhou.
+ Certain strains harbored quinolone-resistant genes.
+ Those strains may play an important role in disseminating drug resistance.
+ Considering these points, those strains may represent a public health risk.
+
+HIGHLIGHTS
+
+Key words: Plasmid-mediated quinolone resistance; Prevalence; Quinolone resistance–determining region mutation;
+Resistance; Salmonella
+
+Salmonellosis is one of the most widespread foodborne
+diseases that is a serious public health problem in many
+parts of the world (34, 35). Salmonella is a rod-shaped,
+gram-negative bacterium belonging to the Enterobacteria-
+ceae family. This genus includes more than 2,600 serovars
+the various food sources—
+(18, 45).
+particularly foods of animal origin, such as pork, beef,
+poultry, mutton, egg, and milk—can lead to human
+infection (47).
+
+In most cases,
+
+Antimicrobial resistance of Salmonella is still one of
+the major global health problems (14, 15). In addition,
+multidrug resistance to Salmonella (18, 25) has rapidly
+evolved, posing a challenge for chemotherapy treatment and
+treatment of certain illnesses (e.g., Salmonella gastroenter-
+
+* Author for correspondence. Tel and Fax: þ86-931-7631229; E-mail:
+weiym@gsau.edu.cn.
+
+itis) (28). The increasing prevalence of multidrug resistance
+to Salmonella and resistance to clinically important
+antibiotics has been an emerging problem in the People's
+Republic of China and other countries (24). Therefore, the
+severity of multidrug resistance to Salmonella is of
+particular concern (1, 31). Antimicrobial-resistant Salmo-
+nella emerges from the uncontrolled use of antimicrobial
+drugs to treat or to prevent diseases and promote growth in
+large-scale animal production, such as poultry, pigs, sheep,
+and cattle. These matters have enhanced the need for
+epidemiological studies describing the prevalence and
+patterns of resistance in Salmonella (21, 27).
+
+In veterinary and human medicine, quinolones, partic-
+ularly ﬂuoroquinolones, are generally used for the treatment
+of multidrug-resistant Salmonella because of their spectrum
+antimicrobial activity in vivo (33). In Salmonella, DNA
+gyrase (gyrA and gyrB) and topoisomerase IV gene (parC
+
+Journal of Food Protection 2019.82:1591-1597.Downloaded from jfoodprotection.org by UNIV OF MASSACHUSETTS LIBRARY on 11/06/19. For personal use only.1592
+
+CHEN ET AL.
+
+J. Food Prot., Vol. 82, No. 9
+
+TABLE 1. Prevalence of Salmonella in food samples collected in Lanzhou, northwest China, in 2015 to 2018
+
+No. of positive samples/total no. of samples (%)
+
+Food type
+
+2015
+
+2016
+
+2017
+
+2018
+
+4-Yr total
+
+Raw meat
+
+Pork
+Beef
+Mutton
+Chicken
+
+Cooked meat products
+
+Roasted meats
+Sauced meats
+Sausage
+
+Other products
+
+Yogurt
+Raw milk
+Egg
+
+Total
+
+3/92 (3.3)
+2/41 (4.8)
+1/47 (2.1)
+3/25 (1.2)
+
+1/40 (2.5)
+0/36 (0)
+0/29 (0)
+
+0/62 (0)
+0/80 (0)
+1/33 (3)
+
+2/46 (4.3)
+2/82 (2.4)
+3/94 (3.2)
+5/75 (6.6)
+
+1/39 (2.6)
+1/70 (1.4)
+0/60 (0)
+
+0/31 (0)
+0/75 (0)
+2/66 (3)
+
+11/485 (2.3)
+
+16/638 (2.5)
+
+and parE) point mutations are directly related to quinolone
+resistance. These target genes are called quinolone resis-
+tance–determining regions (QRDRs). Various determinants
+of plasmid-mediated quinolone resistance (PMQR) have
+been discovered. It is believed that resistance to quinolones
+is mediated by two mechanisms (12). PMQR has three
+parts: resistance efﬂux pump (e.g., qepA and oqxAB), qnr
+gene families (qnrA, qnrB, qnrC, qnrD, and qnrS), and the
+aac(60)-Ib-cr gene (modiﬁed aminoglycoside acetyltrans-
+ferase gene) (20). QRDR mutation isolates and PMQR-
+positive isolates present a different level of resistance to
+quinolones. Therefore, we emphasize the importance of
+studying these genes.
+
+Lanzhou is an economic and political center in Gansu
+province, located in western China. This area is the core
+area of ‘‘One Belt and One Road’’ (a national strategy to
+eliminate trade barriers, establish a free-trade area, and
+promote investment and trade cooperation between the
+countries along the Silk Road); thus, it attracts a range of
+tourists and trading partners from around the world. Better
+monitoring of public health issues in food production is
+needed to reduce the high incidence of Salmonella isolates
+in food. There have been several studies on the antimicro-
+bial resistance of foodborne Salmonella isolates in China (5,
+10, 21, 27, 48), but the lack of data on the prevalence of
+Salmonella in the city of Lanzhou led us to undertake this
+study. Thus, the objective of this study was to determine
+prevalence and contamination levels, serotype distribution,
+quinolone resistance, and drug-targeted gene mutations of
+Salmonella in different food products obtained in Lanzhou
+to obtain data for quantitative risk assessments of
+Salmonella in these foods.
+
+MATERIALS AND METHODS
+
+Specimen collection and isolate identiﬁcation. From March
+2015 to December 2018, 2,182 samples of retail foods were
+collected monthly from open-air markets and supermarkets in four
+urban area in Lanzhou city. As shown in Table 1, these retail foods
+were raw meat (pork, beef, mutton, and chicken), cooked meat
+
+2/63 (3.2)
+1/30 (3.3)
+2/70 (2.9)
+3/100 (3)
+
+0/58 (0)
+0/44 (0)
+0/56 (0)
+
+0/62 (0)
+0/72 (0)
+1/66 (1.5)
+
+9/621 (1.4)
+
+1/23 (4.3)
+0/62 (0)
+1/24 (4.2)
+1/75 (1.3)
+
+0/29 (0)
+0/33 (0)
+0/42 (0)
+
+0/31 (0)
+0/66 (0)
+1/53 (1.9)
+
+4/438 (0.9)
+
+8/224
+6/215
+7/235
+12/275
+
+(3.6)
+(2.7)
+(2.9)
+(4.4)
+
+2/166
+1/183
+0/187
+
+(1.2)
+(0.5)
+(0)
+
+0/186
+0/293
+5/218
+
+(0)
+(0)
+(2.3)
+
+41/2,182 (1.9)
+
+products (roasted meats, sauced meats, and sausages), yogurt, raw
+milk, and eggs. Samples were collected within the framework of
+the inspection procedures of the food authorities and ofﬁcial
+control by the health authorities. Each sample was marked, placed
+in a separate sterile tube, and transported to laboratories
+immediately in an ice chest.
+
+Isolation of Salmonella was performed using standard
+procedures described in a national standard of the People’s
+Republic of China (GB/T 4789.4-2003) (29). Speciﬁc steps were
+as follows: each sample (25 g of solids and 5 mL of liquid) was
+placed in a separate sterile shaker ﬂask and washed with 225 mL
+of buffered peptone water with vigorous shaking for 5 min. The
+rinse was incubated at 378C in a water bath with shaking at 200
+rpm for 8 h, and then 10 mL of buffered peptone water was added
+to 100 mL of selenite cystine broth at 378C for 16 to 24 h. A loop
+of inoculum from the selenite cystine broth was streaked onto
+Salmonella-Shigella agar or xylose lysine deoxycholate agar
+(CHROMagar, Shanghai, China) and incubated for 16 to 24 h at
+378C. Presumptive strains were picked from each plate by testing
+in triple sugar iron and lysine-iron agar slants and incubated for 16
+to 24 h at 368C. Isolates with typical Salmonella phenotypes were
+conﬁrmed using API 20E test strips (bioMerieuxVitek, Marcy
+l’Etoile, France). Salmonella isolates were stored in Luria-Bertani
+broth containing 10% glycerol at  808C until used.
+
+Serotyping. All Salmonella isolates were serotyped by the
+slide agglutination method using commercial O and H antisera
+(Difco, BD, Detroit, MI), according to the manufacturer’s
+instructions.
+
+Antimicrobial susceptibility testing. Antimicrobial suscep-
+tibility was evaluated using the broth microdilution method and
+according to Clinical and Laboratory Standards Institute guide-
+lines (7). As quality control, Escherichia coli ATCC 25922 was
+tested in each run. This test was performed using representatives
+of the quinolone class for veterinary therapeutic use, such as
+nalidixic acid (NAL), ciproﬂoxacin (CIP), enroﬂoxacin (ENO),
+oﬂoxacin (OFL), and levoﬂoxacin (LVX). The isolates were
+classiﬁed as susceptible or resistant according to the interpretative
+standards recommended by the Clinical and Laboratory Standards
+Institute (7).
+
+Journal of Food Protection 2019.82:1591-1597.Downloaded from jfoodprotection.org by UNIV OF MASSACHUSETTS LIBRARY on 11/06/19. For personal use only.J. Food Prot., Vol. 82, No. 9
+
+SALMONELLA CHARACTERIZATION IN RETAIL FOODS FROM LANZHOU
+
+1593
+
+TABLE 2. Distribution of Salmonella serotypes in retail foods
+
+No. of positive samples
+
+Salmonella serotype
+
+Pork
+
+Beef
+
+Mutton
+
+Chicken
+
+Cooked meat
+
+products
+
+Yogurt
+
+Egg
+
+Total no. (%)
+
+Typhimurium
+Enteritidis
+Derby
+Agona
+Anatum
+Kentucky
+London
+Senftenberg
+Heidelberg
+Stanley
+Untypeable
+
+Total
+
+1
+1
+2
+1
+
+3
+
+8
+
+1
+2
+1
+
+1
+
+1
+
+6
+
+1
+1
+2
+
+1
+
+1
+
+1
+7
+
+2
+2
+2
+
+3
+1
+
+1
+1
+
+12
+
+1
+2
+
+2
+
+5
+
+5 (12.2)
+7 (17.1)
+11 (26.8)
+1 (2.4)
+7 (17.1)
+1 (2.4)
+1 (2.4)
+5 (12.2)
+1 (2.4)
+1 (2.4)
+1 (2.4)
+41 (100)
+
+0
+
+2
+
+1
+
+3
+
+PCR ampliﬁcation and DNA sequencing. All isolates were
+analyzed using PCR assays for the QRDRs of gyrA, gyrB, parC,
+and parE (17, 38, 43, 49) and PMQR determinants (qnrA, qnrB,
+qnrD, qnrS, and aac(60)-Ib-cr). The primers have been described
+in previous studies (11, 32, 38, 43, 47). To prepare genomic DNA,
+the bacterial suspension was collected and heated at 1008C for 10
+min and then incubated on ice for 10 min. The samples were then
+centrifuged (Thermo Pico17, Thermo Scientiﬁc, Waltham, MA) at
+13,800 3 g for 5 min. The supernatants were collected and stored
+at 48C until further use. The QRDRs genes were ampliﬁed by PCR
+under the following cycling conditions: 5 min for predenaturation
+at 958C, followed by 35 cycles of 30 s at 958C, 30 s at an annealing
+temperature of 568C, a 30-s extension at 728C, and a ﬁnal
+extension step of 10 min at 728C. The PMQR genes were
+ampliﬁed by PCR performed under the following conditions: one
+cycle of predenaturation at 958C for 5 min, followed by 35 cycles
+at 958C for 30 s; annealing at 548C for qnrA and qnrB; annealing at
+568C for qnrD and qnrS and at 568C for aac(60)-Ib-cr for 30 s; an
+extension at 728C for 30 s; and a ﬁnal extension at 728C for 10
+min. All PCR products were sequenced by the Nanjing Genscript
+Biology Co. Sequence data were then analyzed by DNA Star, and
+the sequences were compared with reference sequences from the
+National Center for Biotechnology Information’s GenBank.
+
+Statistical analysis. The chi-square test was used for data
+analysis using SPSS software (SPSS Inc., Chicago, IL), and a P
+value less than 0.05 was considered signiﬁcant.
+
+RESULTS
+
+Prevalence and serotyping of Salmonella in retail
+food products. Table 1 shows the prevalence of Salmonella
+in various food categories in Lanzhou from March 2015 to
+December 2018. A total of 2,182 food samples were taken
+from the Lanzhou food industry and at the retail level.
+During this 4-year period, 41 (1.9%) of 2,182 food samples
+were found to be positive for Salmonella. The annual
+overall prevalence of Salmonella-positive food samples
+differed signiﬁcantly (P , 0.05) between years compared
+with 2018, varying between 0.9 and 2.5% yearly. The
+overall 4-year prevalence of Salmonella in raw meat
+products was 3.5% in the 949 investigated food samples
+
+and 0.5% in the 536 analyzed cooked meat samples.
+Salmonella was isolated from raw eggs (positive investi-
+gated samples, 2.3%), raw pork (3.6%), raw beef (2.7%),
+raw mutton (2.9%), raw chicken (4.4%), roasted meats
+(1.2%), and sauced meats (0.5%). All sausage, yogurt, and
+raw milk were Salmonella negative from 2015 to 2018. In
+the Salmonella
+short,
+prevalence was signiﬁcantly (P , 0.05) lower in some
+food categories than the 4-year mean prevalence in that
+category (Table 1).
+
+in some single years (2018),
+
+Ten serovars were identiﬁed among the 41 isolates, and
+1 isolate from the mutton samples was untypeable (Table 2).
+The top ﬁve serovars were Salmonella Derby (n ¼ 11,
+26.8%), Salmonella Anatum (n ¼ 7, 17.1%), Salmonella
+Enteritidis (n ¼ 7, 17.1%), Salmonella Typhimurium (n ¼ 5,
+12.2%), and Salmonella Senftenberg (n ¼ 5, 12.2%).
+Salmonella London was detected only in mutton samples.
+Salmonella Heidelberg and Salmonella Stanley were
+detected only in chicken samples. Various serovars were
+identiﬁed in other
+In addition,
+Salmonella Derby and Salmonella Senftenberg were the
+serovars isolated from cooked meat samples.
+
+types of
+
+retail
+
+foods.
+
+Antimicrobial susceptibility. Among these 41 iso-
+lates, 4 isolates were sensitive to all
+tested quinolones
+(including NAL), 17 (41.5%) isolates were resistant to CIP,
+16 (39.0%) isolates were resistant to ENO, 12 (29.3%)
+isolates were resistant to OFL, and 11 (26.8%) isolates were
+resistant to LVX in the broth microdilution test. A total of
+37 (90.2%) isolates were resistant to NAL (data not shown).
+The broth microdilution test identiﬁed 58.5% (24 of 41) of
+isolates with decreased susceptibility to CIP (MICs between
+0.125 and 0.5 mg/mL), 60.9% (25 of 41) with decreased
+susceptibility to ENO, 70.7% (29 of 41) with decreased
+susceptibility to OFL, and 73.2% (30 of 41) with decreased
+susceptibility to LVX (MICs between 0.25 and 1 mg/mL).
+The resistance proﬁle obtained with the microdilution test
+showed that 11 (26.8%) isolates were resistant to all tested
+quinolones, 4 (9.7%) were resistant to CIP and NAL, 4
+
+Journal of Food Protection 2019.82:1591-1597.Downloaded from jfoodprotection.org by UNIV OF MASSACHUSETTS LIBRARY on 11/06/19. For personal use only.1594
+
+CHEN ET AL.
+
+J. Food Prot., Vol. 82, No. 9
+
+TABLE 3. Distribution of PMQR genes and mutations in gyrA, gyrB, parC, and parE genes in Salmonella isolates recovered from retail
+foods with quinolone-resistant characteristicsa
+
+QRDR mutation
+
+Strain
+
+Source
+
+Salmonella serotype
+
+gyrA
+
+gyrB
+
+parC
+
+parE
+
+PMQR
+
+Resistance proﬁle (MIC)
+
+Pork
+Pork
+Pork
+Pork
+Beef
+Beef
+
+LZS003
+LZS011
+LZS023
+LZS025
+LZS029
+LZS033
+LZS035 Mutton
+LZS099 Mutton
+LZS102 Mutton
+Chicken
+LZS103
+LZS179
+Chicken
+Chicken
+LZS199
+Chicken
+LZS204
+Chicken
+LZS211
+LZS214
+Chicken
+Chicken
+LZS217
+Chicken
+LZS219
+Chicken
+LZS220
+Egg
+LZS222
+LZS230
+Egg
+Egg
+LZS233
+
+Typhimurium
+Enteritidis
+Derby
+Senftenberg
+Enteritidis
+Typhimurium
+Typhimurium
+Derby
+Enteritidis
+Kentucky
+Derby
+Typhimurium
+Typhimurium
+Anatum
+Enteritidis
+Enteritidis
+Heidelberg
+Derby
+Enteritidis
+Anatum
+Derby
+
+WT WT
+WT WT
+WT WT
+WT WT
+WT WT
+WT WT
+WT
+WT WT
+WT WT
+WT WT
+WT WT
+
+D87N
+D87N
+WT
+WT
+WT
+D87G
+D87N
+WT
+WT
+WT
+D87N
+S83F/D87N WT
+D87G
+WT
+WT WT
+WT
+S83F
+WT
+D87N
+WT WT
+WT WT
+WT
+D87N
+WT WT
+S83F/D87N WT
+WT
+D87N
+
+WT WT
+WT WT
+
+WT
+WT
+WT
+WT
+WT
+WT
+S80R WT
+WT
+WT
+WT
+WT
+S80R WT
+S80R WT
+WT
+S80R WT
+WT
+WT
+WT
+S80R WT
+WT
+WT
+
+aac(60)-Ib-cr
+aac(60)-Ib-cr
+
+qnrD
+
+aac(60)-Ib-cr
+
+qnrB
+qnrB/aac(60)-Ib-cr
+qnrD
+
+aac(60)-Ib-cr
+qnrB
+
+qnrB
+qnrB/aac(60)-Ib-cr
+
+aac(60)-Ib-cr
+
+CIP NAL ENO LVX OFL
+CIP NAL ENO LVX OFL
+CIP NAL
+CIP NAL ENO
+NAL ENO
+CIP NAL
+CIP NAL ENO LVX OFL
+NAL ENO
+CIP NAL ENO
+NAL ENO
+CIP NAL ENO LVX OFL
+CIP NAL ENO LVX OFL
+CIP NAL ENO LVX OFL
+CIP NAL
+CIP NAL ENO LVX OFL
+CIP NAL ENO LVX OFL
+NAL ENO
+CIP NAL ENO LVX OFL
+CIP NAL ENO LVX OFL
+CIP NAL
+CIP NAL ENO LVX OFL
+
+a QRDR, quinolone resistance–determining regions; PMQR, plasmid-mediated quinolone resistance; WT, wild type; CIP, ciproﬂoxacin;
+
+NAL, nalidixic acid; ENO, enroﬂoxacin; LVX, levoﬂoxacin; OFL, oﬂoxacin.
+
+(9.7%) were resistant to ENO and NAL, 1 (2.4%) was
+resistant to CIP, ENO, and NAL, and 1 (2.4%) was resistant
+to CIP, NAL, and OFL (Table 3).
+
+Analysis of QRDR mutation and detection of
+PMQR. According to antimicrobial susceptibility, 21
+isolates of Salmonella were selected for detection of the
+QRDR mutation (gyrA, gyrB, parC, and parE) and PMQR.
+The distributions of QRDR gene mutations and PMQR are
+listed in Table 3. Eight isolates had wild-type gyrA, gyrB,
+parC, and parE. Twelve isolates had a single mutation in
+gyrA at codon 83 (Ser!Phe) or codon 87 (Asp!Asn or
+Asp!Gly). Five isolates had one parC mutation
+(Ser80!Arg) and one or two gyrA hot spot mutations
+(Table 3). None of the mutations presented in the gyrB and
+parE genes. The detection of resistance genes showed seven
+isolates carrying the aac(60)-Ib-cr gene, ﬁve carrying the
+qnrB gene, and two carrying the qnrD gene. Among these,
+11 isolates were resistant to all tested quinolones; 6 strains
+were recovered from chicken samples, 2 were recovered
+from egg samples, 2 were recovered from pork samples, and
+1 was recovered from mutton samples. The most prevalent
+qnr-positive serovars were Salmonella Typhimurium and
+Salmonella Enteritidis. None of the isolates presented the
+qnrA, qnrC, and qnrE genes. Seven gyrA mutation-positive
+and qnr-positive isolates presented the aac(60)-Ib-cr gene in
+association (Table 3): three Salmonella Typhimurium, three
+Salmonella Enteritidis, and one Salmonella Derby.
+
+DISCUSSION
+
+Drug-resistant bacteria isolated from food has been
+resistance in human
+considered a potential source of
+pathogens, particularly Salmonella.
+is possible for
+resistant bacteria from animals to be transmitted to a human
+subject. Surveillance of the resistance rates among food-
+borne pathogens of animal-based retail foods is clearly
+important in management and risk assessment.
+
+It
+
+In the present study, 41 (1.9%) Salmonella-positive
+samples were recovered from 2,182 retail food products in
+Lanzhou, China. This result was similar to previous reports
+showing Salmonella occurrence of 2.32% in 2000 (40),
+3.32% in 2001, 3.55% in 2002 (39), 2.2% in 2014 (26), and
+3.5% in 2016 (47) but lower than results from retail foods in
+Shaanxi province (9.6% (36)) and cooked meat products in
+Henan province (9.0% (48)). This rate is signiﬁcantly lower
+than the prevalence of Salmonella in food products reported
+from other provinces in China, which was 20.9% in Hebei
+province (5), 36.8% in Shaanxi province (46), and 27.8% in
+Sichuan province (27). Salmonella in retail food products
+was at a low or negative level in some areas of China (6,
+42). No Salmonella was isolated from yogurt, in agreement
+with previous reports (45).
+
+In this study, 10 serovars were isolated from retail
+foods, dominated by Salmonella Derby (26.8%), Salmonella
+Anatum (17.1%), Salmonella Enteritidis (17.1%), Salmo-
+nella Typhimurium (12.2%), and Salmonella Senftenberg
+(12.2%). Among them, Salmonella Enteritidis and Salmo-
+nella Anatum were the most common serovars isolated from
+
+Journal of Food Protection 2019.82:1591-1597.Downloaded from jfoodprotection.org by UNIV OF MASSACHUSETTS LIBRARY on 11/06/19. For personal use only.J. Food Prot., Vol. 82, No. 9
+
+SALMONELLA CHARACTERIZATION IN RETAIL FOODS FROM LANZHOU
+
+1595
+
+chicken samples. Salmonella Senftenberg was the most
+common serovar isolated from pork samples, and untype-
+able serovars were isolated from mutton samples. In China,
+a previous study reported that Salmonella Senftenberg and
+Salmonella Anatum were the common serovar from cooked
+meat products in Henan province; Salmonella Derby and
+Salmonella Enteritidis were also detected (48). Another
+previous study reported that Salmonella Derby, Salmonella
+Meleagridis, Salmonella Enteritidis, and Salmonella Senf-
+tenberg were the dominant serovars from retail foods in
+China (47). Other countries report Salmonella as well. In
+Thailand, Salmonella Enteritidis and Salmonella Derby
+were isolated as common serovars from retail foods (2). In
+Estonia, only Salmonella Enteritidis and Salmonella Infantis
+were isolated as common serovars from retail foods (22). In
+Myanmar, Salmonella Albany, Salmonella Kentucky, Sal-
+monella Braenderup, and Salmonella Indiana were isolated
+as common serovars from retail foods (30). In Brazil, 26
+Salmonella serovars were identiﬁed. Salmonella Typhimu-
+rium was the predominant serovar, followed by Salmonella
+Enteritidis and Salmonella Muenchen (33). However,
+Salmonella Derby, Salmonella Enteritidis, and Salmonella
+Anatum were the commonly identiﬁed serovars in the
+present study. In addition, these common serovars were
+frequently observed in clinical Salmonella in China,
+suggesting an association between Salmonella food poison-
+ing and salmonellosis (24, 47).
+
+In the current study, Salmonella isolated from cooked
+meat showed a lesser degree of quinolone resistance than
+that from other samples, whereas Salmonella isolated from
+chicken and egg showed a greater degree of quinolone
+resistance than that from other samples (Table 3). It was
+observed that 11 isolates—4 Salmonella Typhimurium, 3
+Salmonella Derby, and 4 Salmonella Enteritidis isolates—
+exhibited resistance to CIP, NAL, ENO, LVX, and OFL.
+These strains are of particular clinical concern, because
+quinolones are drugs of choice for treating salmonellosis
+(10, 44). This ﬁnding reveals that these strains would not be
+disrupted by all commonly used antimicrobial agents during
+therapy, which indicates a potentially serious impact on
+human health. These ﬁndings may not be surprising, Since
+the 1980s, a large number of quinolones have been used
+broadly in veterinary medicine in China (12, 18, 35).
+Previous research showed that Salmonella was primary in
+chickens and has been speciﬁcally resistant to quinolones
+since 2000 (39).
+
+in the gyrA gene,
+
+The main mechanisms of quinolone resistance in
+Salmonella have been attributed to several point mutations
+in the QRDR genes (gyrA, gyrB, parC, and parE) and the
+PMQR genes. In Salmonella, similar to other bacteria
+species, the hot spot mutations associated with resistance to
+quinolones occur
+resulting from
+substitutions of Ser83 with Tyr, Ala, or Phe and of Asp87
+with Tyr, Gly, or Asn (13). For E. coli (16), Pseudomonas
+aeruginosa (4), Riemerella anatipestifer (36), and Actino-
+bacillus pleuropneumoniae (41), mutations of QRDR at
+different sites affect
+levels of resistance to
+quinolone, and coinstantaneous mutations in gyrA and parC
+genes produce high levels of quinolone resistance. In the
+present study, we found that
+two isolates had double
+
+to different
+
+mutations (Ser83!Phe or Asp87!Asn) in the gyrA gene
+and nine isolates had a single mutation (Asp87!Asn or
+Asp87!Gly) in the gyrA gene. For parC, ﬁve resistant
+strains had a mutation at Ser80!Arg, and there are one or
+two gyrA hot spot mutations. In agreement with previous
+studies, multiple mutants generally had higher MICs than
+mutants with a single mutation in the QRDR (3, 9, 12).
+
+In many previous studies, the qnrA, qnrB, qnrS, qnrD,
+and aac(6 0)-Ib-cr PMQR had decreasing or
+limiting
+susceptibility to quinolone (13, 16, 20). In this study, we
+found a high prevalence of isolates carrying PMQR genes
+(29.2%, 12 of 41). The most prevalent serovars associated
+with the presence of PMQR genes were Salmonella
+Typhimurium (4 of 12) and Salmonella Enteritidis (4 of
+12). Two isolates presented an association between qnrB
+and aac(60)-Ib-cr genes. A similar study has been reported
+by Park et al. (32) in the United States. Consistent with
+these ﬁndings, Xu et al. (44) investigated qnr and aac(60)-Ib
+genes in Enterobacter cloacae in China. Kim et al. (19)
+studied enterobacterium isolated from clinical samples in
+Korea, and Pribul et al. (33) studied Salmonella isolates
+from the food chain in Brazil. The qnrB, qnrD, and aac(60)-
+Ib-cr genes have been reported to be widely distributed
+among intestinal bacteria. Consequently, all these Salmo-
+nella-positive retail food products represented a high risk
+for the consumers (8, 19). Therefore, the Chinese food
+safety management should implement further surveillance
+for
+Insights into the resistance
+mechanism from this study will guide the development of
+proper therapy and countermeasures (23).
+
+food products.
+
+retail
+
+In conclusion, our study is the ﬁrst report of the
+prevalence of Salmonella in retail food products in Lanzhou
+city. Diversity was observed in the isolated serotypes, with
+Salmonella Derby, Salmonella Anatum, and Salmonella
+Enteritidis as the predominant serotypes. High resistance to
+quinolone was detected. The quinolone resistance of poultry
+products is particularly serious, indicating that numerous
+antimicrobial agents commonly used in chicken are
+ineffective. We also found that several hot spot mutations
+associated with resistance to quinolones occur in the gyrA
+and parC gene, and a high prevalence of isolates carrying
+PMQR genes was detected. The increased detection of
+QRDR mutation and PMQR in Salmonella, is a serious
+problem in public health and must be monitored constantly.
+This information may provide useful data for the develop-
+ment of public health policies and effective strategies to
+ensure the security of China’s food products.
+
+ACKNOWLEDGMENTS
+
+This research was supported by the National Natural Science
+Foundation of China (31602087, 31472234, and 31602102), Youth
+Science and Technology Fund of Gansu Province (1606RJYA281), and
+China Agriculture Research System-37 (CARS-37).
+
+REFERENCES
+
+1. Aguilar-Montes de Oca, S., M. Talavera-Rojas, E. Soriano-Vargas, J.
+Barba-Leon, J. Vazquez-Navarrete, J. Acosta-Dibarrat, and C.
+Salgado-Miranda. 2018. Phenotypic and genotypic proﬁle of clinical
+and animal multidrug-resistant Salmonella enterica isolates from
+Mexico. J. Appl. Microbiol. 124:67–74.
+
+Journal of Food Protection 2019.82:1591-1597.Downloaded from jfoodprotection.org by UNIV OF MASSACHUSETTS LIBRARY on 11/06/19. For personal use only.1596
+
+CHEN ET AL.
+
+J. Food Prot., Vol. 82, No. 9
+
+2. Akbar, A., and A. K. Anal. 2015. Isolation of Salmonella from ready-
+to-eat poultry meat and evaluation of its survival at low temperature,
+microwaving and simulated gastric ﬂuids. J. Food Sci. Technol.
+52:3051–3057.
+
+3. An, R., S. Alshalchi, P. Breimhurst, J. Munoz-Aguayo, C. Flores-
+Figueroa, and S. Vidovic. 2017. Strong inﬂuence of livestock
+environments on the emergence and dissemination of distinct
+multidrug-resistant phenotypes among the population of non-
+typhoidal Salmonella. PLoS One 12:e0179005.
+
+4. Ball, K. R., J. E. Rubin, M. Chirino-Trejo, and P. M. Dowling. 2008.
+Antimicrobial resistance and prevalence of canine uropathogens at
+the Western College of Veterinary Medicine Veterinary Teaching
+Hospital, 2002–2007. Can. Vet. J. 49:985–990.
+
+5. Chao, G., X. Zhou, X. Jiao, X. Qian, and L. Xu. 2007. Prevalence
+and antimicrobial resistance of foodborne pathogens isolated from
+food products in China. Foodborne Pathog. Dis. 4:277–284.
+
+6. Chen, J., Q. Gu, and C. Liu. 2014. Monitoring results on food-borne
+pathogens in food in Shanghai from 2011 to 2012. Shanghai J. Prev.
+Med. 26:169–172.
+
+7. Clinical and Laboratory Standards Institute. 2015. Performance
+standards for the antimicrobial susceptibility testing: twenty-ﬁfth
+informational supplement. CLSI document M100-S26. Clinical and
+Laboratory Standards Institute, Wayne, PA.
+
+8. Cloeckaert, A., and S. Schwarz. 2001. Molecular characterization,
+spread and evolution of multidrug resistance in Salmonella enterica
+Typhimurium DT104. Vet. Res. 32:301–310.
+
+9. Costa, R. G., M. L. Festivo, M. S. Araujo, E. M. Reis, N. S. Lazaro,
+and D. P. Rodrigues. 2013. Antimicrobial susceptibility and serovars
+of Salmonella circulating in commercial poultry carcasses and
+poultry products in Brazil. J Food Prot. 76:2011–2017.
+
+10. Cui, S., J. Li, Z. Sun, C. Hu, S. Jin, F. Li, Y. Guo, L. Ran, and Y. Ma.
+2009. Characterization of Salmonella enterica isolates from infants
+and toddlers in Wuhan, China. J. Antimicrob. Chemother. 63:87–94.
+11. Cui, X., J. Wang, C. Yang, B. Liang, Q. Ma, S. Yi, H. Li, H. Liu, P.
+Li, Z. Wu, J. Xie, L. Jia, R. Hao, L. Wang, Y. Hua, S. Qiu, and H.
+Song. 2015. Prevalence and antimicrobial resistance of Shigella
+ﬂexneri serotype 2 variant in China. Front. Microbiol. 6:435.
+
+12. Curcio, D. 2014. Multidrug-resistant gram-negative bacterial infec-
+tions: are you ready for the challenge? Curr. Clin. Pharmacol. 9:27–38.
+13. Dimitrov, T., A. A. Dashti, O. Albaksami, E. E. Udo, M. M. Jadaon,
+and M. J. Albert. 2009. CIP-resistant Salmonella enterica serovar
+Typhi from Kuwait with novel mutations in gyrA and parC genes. J.
+Clin. Microbiol. 47:208–211.
+
+14. Eguale, T., J. Birungi, D. Asrat, M. N. Njahira, J. Njuguna, W. A.
+Gebreyes, J. S. Gunn, A. Djikeng, and E. Engidawork. 2017. Genetic
+markers associated with resistance to beta-lactam and quinolone
+antimicrobials in non-typhoidal Salmonella isolates from humans and
+animals in central Ethiopia. Antimicrob. Resist. Infect. Control 6:13.
+15. Gebreyes, W. A., and C. Altier. 2002. Molecular characterization of
+multidrug-resistant Salmonella enterica subsp. enterica serovar
+Typhimurium isolates from swine. J. Clin. Microbiol. 40:2813–2822.
+16. Gibson, J. S., R. N. Cobbold, M. T. Kyaw-Tanner, P. Heisig, and D. J.
+Trott. 2010. Fluoroquinolone resistance mechanisms in multidrug-
+resistant Escherichia coli isolated from extraintestinal infections in
+dogs. Vet. Microbiol. 146:161–166.
+
+17. Giraud, E., A. Brisabois, J. L. Martel, and E. Chaslus-Dancla. 1999.
+Comparative studies of mutations in animal isolates and experimental
+in vitro- and in vivo-selected mutants of Salmonella spp. suggest a
+counterselection of highly ﬂuoroquinolone-resistant strains in the
+ﬁeld. Antimicrob. Agents Chemother. 43:2131–2137.
+
+18. Karkey, A., G. E. Thwaites, and S. Baker. 2018. The evolution of
+antimicrobial resistance in Salmonella Typhi. Curr. Opin. Gastro-
+enterol. 34:25–30.
+
+19. Kim, J. H., J. K. Cho, and K. S. Kim. 2013. Prevalence and
+characterization of plasmid-mediated quinolone resistance genes in
+Salmonella isolated from poultry in Korea. Avian Pathol. 42:221–
+229.
+
+20. Kim, S. Y., S. K. Lee, M. S. Park, and H. T. Na. 2016. Analysis of the
+ﬂuoroquinolone antibiotic resistance mechanism of Salmonella
+enterica isolates. J. Microbiol. Biotechnol. 26:1605–1612.
+
+21. Kong, X. X., C. Dong, H. Ji, Y. Wang, C. C. Bao, X. Huo, and H. M.
+Qian. 2017. [Antimicrobial resistance and molecular subtypes of
+Salmonella Typhi and Salmonella paratyphoid isolates from Jiangsu
+province, 2012–2015]. Zhonghua Liu Xing Bing Xue Za Zhi
+38:1546–1550.
+
+22. Kramarenko, T., I. Nurmoja, A. Kärssin, K. Meremäe, A. Hörman,
+and M. Roasto. 2014. The prevalence and serovar diversity of
+Salmonella in various food products in Estonia. Food Control 42:43–
+47.
+
+23. Kumar, M., S. Dahiya, P. Sharma, S. Sharma, T. P. Singh, A. Kapil,
+and P. Kaur. 2015. Structure based in silico analysis of quinolone
+resistance in clinical isolates of Salmonella Typhi from India. PLoS
+One 10:e0126560.
+
+24. Lekshmi, M., P. Ammini, S. Kumar, and M. F. Varela. 2017. The
+food production environment and the development of antimicrobial
+resistance in human pathogens of animal origin. Microorganisms
+5:E11.
+
+25. Levy, S. B., and B. Marshall. 2004. Antibacterial
+
+resistance
+worldwide: causes, challenges and responses. Nat. Med. 10:S122–
+S129.
+
+26. Luo, Y., S. Xiao, G. Li, L. Huang, W. Lei, and Q. Luo. 2014.
+Surveillance on the foodborne pathogens in Shaoyang, 2010–2012.
+Henan Journal of Preventive Medicine 25:195–198.
+
+27. Ma, S., C. Lei, L. Kong, W. Jiang, B. Liu, S. Men, Y. Yang, G.
+Cheng, Y. Chen, and H. Wang. 2017. Prevalence, antimicrobial
+resistance, and relatedness of Salmonella isolated from chickens and
+pigs on farms, abattoirs, and markets in Sichuan province, China.
+Foodborne Pathog. Dis. 14:667–677.
+
+28. Majowicz, S. E., J. Musto, E. Scallan, F. J. Angulo, M. Kirk, S. J.
+O’Brien, T. F. Jones, A. Fazil, R. M. Hoekstra, and International
+Collaboration on Enteric Disease ‘‘Burden of Illness’’ Studies. 2010.
+The global burden of nontyphoidal Salmonella gastroenteritis. Clin.
+Infect. Dis. 50:882–889.
+
+29. Ministry of Health of the People’s Republic of China (MOH),
+Standardization Administration of the People’s Republic of China
+food hygiene—
+(SAC). 2003. Microbiological examination of
+examination of Salmonella. GB/T 4789.4-2003. MOH, SAC, Beijing.
+30. Moe, A. Z., P. Paulsen, D. Pichpol, R. Fries, H. Irsigler, M. P. O.
+Baumann, and K. N. Oo. 2017. Prevalence and antimicrobial
+resistance of Salmonella isolates from chicken carcasses in retail
+markets in Yangon, Myanmar. J. Food Prot. 80:947–951.
+
+31. Odoch, T., Y. Wasteson, T. L’Abee-Lund, A. Muwonge, C. Kankya,
+L. Nyakarahuka, S. Tegule, and E. Skjerve. 2017. Prevalence,
+antimicrobial susceptibility and risk factors associated with non-
+typhoidal Salmonella on Ugandan layer hen farms. BMC Vet. Res.
+13:365.
+
+32. Park, C. H., A. Robicsek, G. A. Jacoby, D. Sahm, and D. C. Hooper.
+2006. Prevalence in the United States of aac(60)-Ib-cr encoding a
+ciproﬂoxacin-modifying enzyme. Antimicrob. Agents Chemother.
+50:3953–3955.
+
+33. Pribul, B. R., M. L. Festivo, M. S. Rodrigues, R. G. Costa, E. C.
+Rodrigues, M. M. de Souza, and D. D. Rodrigues. 2017.
+Characteristics of quinolone resistance in Salmonella spp. isolates
+from the food chain in Brazil. Front. Microbiol. 8:299.
+
+34. Scallan, E., R. M. Hoekstra, F. J. Angulo, R. V. Tauxe, M. A.
+Widdowson, S. L. Roy, J. L. Jones, and P. M. Grifﬁn. 2011.
+Foodborne illness acquired in the United States—major pathogens.
+Emerg. Infect. Dis. 17:7–15.
+
+35. Shao, D., Z. Shi, J. Wei, and Z. Ma. 2011. A brief review of
+
+foodborne zoonoses in China. Epidemiol. Infect. 139:1497–1504.
+
+36. Shi, Y., B. Yang, J. Shi, S. Zhi, M. Xi, and J. Shen. 2011. Study on
+the contamination status of Salmonella in retail meat and read to eat
+salad in the middle districts of Shaanxi province. Acta Agric. Boreali-
+occidentalis Sin. 20:22–27.
+
+37. Sun, N., J. H. Liu, F. Yang, D. C. Lin, G. H. Li, Z. L. Chen, and Z. L.
+Zeng. 2012. Molecular characterization of
+the antimicrobial
+resistance of Riemerella anatipestifer isolated from ducks. Vet.
+Microbiol. 158:376–383.
+
+38. Wang, J., Y. Li, X. Xu, B. Liang, F. Wu, X. Yang, Q. Ma, C. Yang, X.
+Hu, H. Liu, H. Li, C. Sheng, J. Xie, X. Du, R. Hao, S. Qiu, and H.
+
+Journal of Food Protection 2019.82:1591-1597.Downloaded from jfoodprotection.org by UNIV OF MASSACHUSETTS LIBRARY on 11/06/19. For personal use only.J. Food Prot., Vol. 82, No. 9
+
+SALMONELLA CHARACTERIZATION IN RETAIL FOODS FROM LANZHOU
+
+1597
+
+Song. 2017. Antimicrobial resistance of Salmonella enterica serovar
+Typhimurium in Shanghai, China. Front. Microbiol. 8:510.
+
+39. Wang, M., L. Ran, Z. Wang, and Z. Li. 2004. Study on national
+active monitoring for
+food borne pathogens and antimicrobial
+resistance in China 2001. J. Hyg. Res. 33:49–54. (In Chinese with
+English abstract.)
+
+40. Wang, M., Z. Wang, D. Bao, and L. Ran. 2002. Food contamination
+monitoring and analysis in 2000 in China. Chin. J. Food Hyg. 14:3–
+8. (In Chinese with English abstract.)
+
+41. Wang, Y. C., J. P. Chan, K. S. Yeh, C. C. Chang, S. L. Hsuan, Y. M.
+Hsieh, Y. C. Chang, T. C. Lai, W. H. Lin, and T. H. Chen. 2010.
+Molecular characterization of enroﬂoxacin resistant Actinobacillus
+pleuropneumoniae isolates. Vet. Microbiol. 142:309–312.
+
+42. Wen, J., H. Liang, G. Dai, H. Wang, H. Zhu, and X. Lin. 2013
+Analysis of foodborne pathogen contamination in ready-to-eat meat
+products in Guangdong province from 2008 to 2011. Chin. J. Food
+Hyg. 25:68–70.
+
+43. Xiong, X., E. H. Bromley, P. Oelschlaeger, D. N. Woolfson, and J.
+Spencer. 2011. Structural insights into quinolone antibiotic resistance
+mediated by pentapeptide repeat proteins: conserved surface loops
+direct the activity of a Qnr protein from a gram-negative bacterium.
+Nucleic Acids Res. 39:3917–3927.
+
+44. Xu, X. B., Z. A. Yuan, H. M. Jin, W. J. Xiao, B. K. Gu, M. Chen, L.
+Ran, B. W. Diao, Z. G. Cui, Q. H. Hu, and B. Kan. 2009. [Study on
+
+the epidemiological characteristics and molecular typing of Salmo-
+nella enterica subsp. enterica serovar Senftenberg in Shanghai].
+Zhonghua Liu Xing Bing Xue Za Zhi 30:933–937.
+
+45. Yan, H., L. Li, M. J. Alam, S. Shinoda, S. Miyoshi, and L. Shi. 2010.
+Prevalence and antimicrobial resistance of Salmonella in retail foods
+in northern China. Int. J. Food Microbiol. 143:230–234.
+
+46. Yang, B., D. Qu, X. Zhang, J. Shen, S. Cui, Y. Shi, M. Xi, M. Sheng,
+S. Zhi, and J. Meng. 2010. Prevalence and characterization of
+Salmonella serovars in retail meats of marketplace in Shaanxi, China.
+Int. J. Food Microbiol. 141:63–72.
+
+47. Yang, X., J. Huang, Q. Wu, J. Zhang, S. Liu, W. Guo, S. Cai, and S.
+Yu. 2016. Prevalence, antimicrobial resistance and genetic diversity
+of Salmonella isolated from retail ready-to-eat foods in China. Food
+Control 60:50–56.
+
+48. Yu, T., X. Jiang, Q. Zhou, J. Wu, and Z. Wu. 2014. Antimicrobial
+resistance, class 1 integrons, and horizontal transfer in Salmonella
+isolated from retail food in Henan, China. J. Infect. Dev. Ctries.
+8:705–711.
+
+49. Zhou, Y. Q., Z. M. Pan, Y. C. Li, X. L. Kang, X. Q. Wang, S. Z.
+Geng, Z. Y. Liu, X. N. Jiao, and X. F. Liu. 2013. Epidemiological
+analysis of Salmonella isolates recovered from food animals and
+humans in eastern China. Food Res. Int. 54:223–229.
+
+Journal of Food Protection 2019.82:1591-1597.Downloaded from jfoodprotection.org by UNIV OF MASSACHUSETTS LIBRARY on 11/06/19. For personal use only.

@@ -1,0 +1,1013 @@
+J. Dairy Sci. 100:1–8
+https://doi.org/10.3168/jds.2017-13370
+© American Dairy Science Association®, 2017.
+
+Prevalence, antimicrobial susceptibility, and molecular characterization 
+of Staphylococcus aureus isolated from dairy herds in northern China
+Huimin Liu,*†1 Songli Li,*†1 Lu Meng,*†1 Lei Dong,*† Shengguo Zhao,*† Xinyi Lan,*† Jiaqi Wang,*†  
+and Nan Zheng*†2
+*Ministry of Agriculture Laboratory of Quality and Safety Risk Assessment for Dairy Products (Beijing), Institute of Animal Science, Chinese 
+Academy of Agricultural Sciences, Beijing 100193, P. R. China
+†Ministry of Agriculture–Milk and Dairy Product Inspection Center (Beijing), Beijing 100193, P. R. China
+
+ABSTRACT
+
+Staphylococcus aureus is one of the main pathogens 
+involved  in  dairy  cow  mastitis.  Monitoring  of  antibi-
+otic use would prove useful to assess the risk of Staph. 
+aureus  in  raw  milk.  The  objective  of  this  work  was 
+to  investigate  the  prevalence  of  Staph.  aureus  strains 
+isolated from raw milk in northern China, and to char-
+acterize  antimicrobial  susceptibility  of  these  strains 
+and  their  key  virulence  genes.  In  total,  195  raw  milk 
+samples  were  collected  from  195  dairy  farms  located 
+in 4 cities of northern China from May to September 
+2015. Out of 195 samples, 54 (27.7%) were positive for 
+Staph. aureus. Among these 54 samples, 54 strains of 
+Staph. aureus were isolated, and 16 strains were identi-
+fied as methicillin-resistant Staph. aureus. The strains 
+exhibited high percentages of resistance to penicillin G 
+(85.2%), ampicillin (79.6%), and erythromycin (46.3%). 
+Moreover,  72%  of  the  strains  showed  resistance  to 
+more  than  one  antimicrobial  agent.  Overall,  63%  of 
+penicillin-resistant strains possessed the blaZ gene, and 
+60%  of  the  erythromycin-resistant  strains  possessed 
+erm(A),  erm(B),  erm(C),  msr(A),  or  msr(B)  genes 
+with  8  different  gene  patterns.  All  isolates  resistant 
+to  gentamicin,  kanamycin,  and  oxacillin  carried  the 
+aac6’-aph2”, ant(4’)-Ia, and mecA genes, respectively. 
+Two  tet(M)-positive  isolates  carried  specific  genes  of 
+the Tn916-Tn1545 transposon. The most predominant 
+virulence  genes  were  sec,  sea,  and  pvl,  which  encode 
+staphylococcal enterotoxins (sec and sea) and Panton-
+Valentine  leukocidin,  respectively.  Thirty-two  isolates 
+(59.2%)  harbored  one  or  more  virulence  genes.  The 
+majority of Staph. aureus strains were multidrug resis-
+tant and carried multiple virulence genes, which may 
+pose a risk to public health. Our data indicated that 
+
+Received June 21, 2017.
+Accepted July 20, 2017.
+1 These authors contributed equally.
+2 Corresponding author: zhengnan_1980@126.com
+
+1
+
+antimicrobial resistance of Staph. aureus was prevalent 
+in dairy herds in northern China, and that antibiotics, 
+especially penicillin G and ampicillin, to treat mastitis 
+caused by Staph. aureus should be used with caution in 
+northern China.
+Key  words:  antimicrobial  resistance,  enterotoxins, 
+northern China, raw milk, Staphylococcus aureus
+
+INTRODUCTION
+
+ 
+
+Staphylococcus aureus is one of the main pathogens 
+involved in dairy cow and goat mastitis worldwide, and 
+it is an important opportunistic pathogen in raw milk 
+(Cavicchioli et al., 2015; Wang et al., 2016). Staphylo-
+coccus aureus IMI results in significant economic losses 
+due to reduced milk production and poor milk quality 
+(Stapels et al., 2014), and Staph. aureus infections are 
+related  to  the  expression  of  virulence  factors.  Many 
+virulence factors have been found in Staph. aureus iso-
+lated from bovine mastitis, including toxic shock syn-
+drome toxin-1 (TSST-1), enterotoxins, enterotoxin-like 
+exfoliative toxin, and Panton-Valentine leukocidin (Kot 
+et al., 2016; Wang et al., 2016). These virulence factors 
+are  highly  stable  to  heat  or  proteolytic  enzymes  and 
+help bacteria to survive and multiply in the mammary 
+gland (de Freitas Guimarães et al., 2013).
+
+Antimicrobial therapy is an important tool in masti-
+tis control programs, but Staph. aureus responds poorly 
+to therapy with antimicrobial agents (Gomes and Hen-
+riques, 2016). Staphylococcus aureus is a pathogen with 
+a remarkable ability to withstand antimicrobial agents 
+and evade the human immune system. By recognizing 
+the  resistance  mechanisms  of  Staph.  aureus,  effective 
+measures  in  mastitis  control  programs  can  be  estab-
+lished. Intrinsic resistance and acquired resistance have 
+been shown to contribute to the ability of Staph. aureus 
+to  survive  specific  antimicrobial  stress  (Baym  et  al., 
+2016). It possesses numerous intrinsic factors that limit 
+the effectiveness of specific antimicrobial agents (Raja-
+gopal et al., 2016) and can develop acquired resistance 
+to many other antimicrobial agents by carrying various 
+
+2
+
+LIU ET AL.
+
+resistance traits on plasmids or transposons (Chajecka-
+Wierzchowska et al., 2015). Acquired antimicrobial re-
+sistance has a transmission potential to humans (Ruegg 
+et al., 2015). Therefore, monitoring antimicrobial resis-
+tance in Staph. aureus from raw milk is very important 
+in order to predict the rate and type of antimicrobial 
+resistance development and to make decisions regard-
+ing antibiotic treatments of animals from a food safety 
+standpoint.
+
+Studies  of  antimicrobial  resistance  and  virulence 
+traits  in  Staph.  aureus  have  been  performed  in  milk 
+of bovines with mastitis in several countries, including 
+Turkey,  Brazil,  Iran,  and  India,  as  well  as  the  mid-
+east of China (Gundogan and Avci, 2014; Cavicchioli 
+et  al.,  2015;  Jamali  et  al.,  2015;  Mistry  et  al.,  2016; 
+Zhang et al., 2016). However, reports on the incidence 
+of  antimicrobial  resistance  of  Staph.  aureus  from  raw 
+milk in dairy herds in northern China are very limited. 
+Continuous monitoring of antimicrobial resistance and 
+virulence  profiles  of  Staph.  aureus  could  be  useful  to 
+assess the risk of Staph. aureus in raw milk in north-
+ern  China.  Therefore,  the  objective  of  this  work  was 
+to  investigate  the  prevalence  of  Staph.  aureus  strains 
+isolated from dairy herds in northern China from May 
+
+to  September  2015,  and  to  characterize  these  strains 
+by antimicrobial susceptibility and key virulence genes.
+
+MATERIALS AND METHODS
+
+Collection of Samples
+
+A total of 195 raw milk samples were collected from 
+195 dairy farms located in major dairy-production cities 
+of northern China (herd size ≥300, milking frequency 
+2–3  times  per  day,  no  clinical  mastitis)  from  May  to 
+September  2015  (average  daily  temperature  >20°C). 
+We  collected  75  samples  from  Hohhot,  50  from  Bei-
+jing, 40 from Harbin, and 30 from Jinan (Figure 1). All 
+samples were collected from the milk tank, transferred 
+into  sterile  bottles,  and  transported  immediately  to 
+laboratory at 4°C for bacteriological analysis.
+
+Isolation and Identification of Staph. aureus
+
+For  isolation  and  detection  of  Staph.  aureus,  each 
+sample (10 mL) was added to 90 mL of sterile peptone 
+water and homogenized. The samples were placed onto 
+Baird-Parker agar supplemented with 5% egg yolk and 
+
+Figure 1. Map of sampling locations. The 4 shaded regions are the main dairy-producing areas in northern China. In total, 75 samples were 
+
+collected from Hohhot, 50 from Beijing, 40 from Harbin, and 30 from Jinan.
+
+Journal of Dairy Science Vol. 100 No. 11, 2017
+
+CHARACTERIZATION OF STAPH. AUREUS FROM DAIRY HERDS IN NORTHERN CHINA
+
+3
+
+tellurite (Beijing Land Bridge Technology Ltd., Beijing, 
+China).  The  plates  were  incubated  for  24  to  48  h  at 
+37°C. Colonies with typical black appearance and sur-
+rounded  by  a  clear  zone  were  enumerated  as  Staph. 
+aureus.
+
+Molecular Characterization of Staph. aureus
+
+Presumptive colonies were confirmed by PCR detec-
+tion (Bio-Rad S1000, Bio-Rad Laboratories, Hercules, 
+CA) of the Staph. aureus-specific thermonuclease gene 
+(nuc; Supplemental Table S1, https:// doi .org/ 10 .3168/ 
+jds .2017 -13370). All isolates were stored at −80°C until 
+use.
+
+Genomic DNA of the Staph. aureus isolates was ex-
+tracted using the InstaGene Matrix DNA extraction kit 
+(Bio-Rad  Laboratories)  following  the  manufacturer’s 
+instructions.  The  PCR  reactions  were  performed  us-
+ing the EmeraldAmp Max PCR Master Mix kit (Ta-
+kara, Dalian, China) and followed the manufacturer’s 
+instructions.  Briefly,  25-μL  reactions  were  prepared, 
+containing  12.5  μL  of  2×  EmeraldAmp  Max  PCR 
+Master Mix kit (Takara), 1 μL of extracted DNA, 10 
+pmol  of  each  primer,  and  ultrapure  water  (Takara). 
+The amplification conditions were as follows: 94°C for 
+1 min; 37 cycles of 94°C for 1 min, 55°C for 30 s, and 
+72°C for 90 s; and 72°C for 3.5 min for a final extension 
+step. Negative controls (without DNA template) and a 
+positive control (Staph. aureus ATCC 6538 template) 
+were included in all PCR assays.
+
+Phenotypic Detection of Antimicrobial Resistance
+
+Antimicrobial  susceptibility  patterns  for  recovered 
+Staph. aureus isolates were determined by the agar disc 
+diffusion method according to the guidelines of the Clin-
+ical Laboratory Standard Institute (Bauer et al., 1966; 
+CLSI, 2012). Penicillin G (10U), amoxicillin-clavulanic 
+acid (20/10 μg), tobramycin (10 μg), tetracycline (30 
+μg), gentamicin (10 μg), azithromycin (15 μg), oxacillin 
+(1  μg),  streptomycin  (10  μg),  cefoxitin  (30  μg),  oxy-
+tetracycline (30 μg), clindamycin (2 μg), erythromycin 
+(15 μg), ampicillin (10 μg), chloramphenicol (30 μg), 
+quinupristin-dalfopristin (15 μg), ciprofloxacin (5 μg), 
+kanamycin (30 μg), and trimethoprim-sulfamethoxazole 
+(1.25/23.75 μg) were used as antimicrobial agents (Ox-
+oid,  Basingstoke,  UK).  Staphylococcus  aureus  ATCC 
+6538  and  Escherichia  coli  ATCC  25922  were  used  as 
+quality  controls  in  each  run.  The  experiment  was  re-
+peated twice.
+
+Antimicrobial Resistance Genes
+
+Antimicrobial  resistance  genes  to  penicillin  (blaZ 
+and mecA), cefoxitin (cfxA and mecA), aminoglycoside 
+
+(aac6’-aph2”,  ant(6)-Ia,  aph3’-IIIa),  chloramphenicol 
+(fexA  and  catA),  tetracycline  [tet(K),  tet(L),  tet(M) 
+and  tet(O)],  erythromycin  [erm(A),  erm(B),  erm(C), 
+msr(A), and msr(B)], streptomycin [ant(6)-Ia], quinu-
+pristin-dalfopristin  [vga(A)  and  vga(B)],  and  oxacillin 
+(mecA)  resistance  genes,  as  well  as  the  multidrug-
+resistance gene (cfr) were tested by PCR in all Staph. 
+aureus strains (Supplemental Table S1https:// doi .org/ 
+10 .3168/ jds .2017 -13370).
+
+Detection of Virulence Determinants
+
+The genes encoding staphylococcal enterotoxins (sea, 
+seb,  sec,  sed,  see,  seg,  seh,  sei,  sek,  sel,  ser,  ses,  sej, 
+and  set),  enterotoxin-like  (selm,  selo,  selp,  and  selu), 
+toxic-shock  syndrome  toxin  (tst-1),  exfoliative  toxin 
+genes  (eta  and  etb),  and  Panton-Valentine  leukocidin 
+(pvl) were detected by PCR. Amplified products were 
+analyzed  using  1.5%  agarose  gel  electrophoresis  and 
+visualized  by  staining  with  SYBR  Safe  DNA  Stain 
+gel (Invitrogen, Carlsbad, CA). The information of all 
+primers used for PCR is shown in Supplemental Table 
+S1 (https:// doi .org/ 10 .3168/ jds .2017 -13370).
+
+RESULTS
+
+Prevalence of Staph. aureus
+
+In the present study, 54 strains of Staph. aureus were 
+isolated from raw milk, including 24 strains (32%) in 75 
+Hohhot samples, 8 strains (26.7%) in 30 Jinan samples, 
+11 strains (27.5%) in 40 Harbin samples, and 11 strains 
+(22.0%) in 50 Beijing samples.
+
+Antimicrobial Susceptibility Testing
+
+The 54 isolates of Staph. aureus were tested for sus-
+ceptibility to 18 antimicrobial agents by using the disc 
+diffusion  method.  Antimicrobial  resistance  was  most 
+frequently observed to penicillin G (85.2%), followed by 
+resistance to ampicillin (79.6%), erythromycin (46.3%), 
+cefoxitin  (42.6%),  clindamycin  (35.2%),  azithromy-
+cin  (35.2%),  ciprofloxacin  (29.6%),  oxacillin  (29.6%), 
+sulfamethoxazole-trimethoprim  (20.4%),  kanamycin 
+(14.8%), oxytetracycline (14.8%), tetracycline (13.0%), 
+gentamicin  (11.1%),  streptomycin  (9.26%),  chloram-
+phenicol  (7.41%),  tobramycin  (5.56%),  quinupristin-
+dalfopristin  (3.7%),  and  amoxicillin-clavulanic  acid 
+(0%) (Table 1). Among the 54 Staph. aureus isolates, 
+resistance to β-lactams (47.4%) was the most frequently 
+observed, followed by resistance to macrolides (40.8%) 
+and lincomycin (35.2%). Conversely, a low percentage 
+of  antimicrobial  resistance  was  observed  for  chloram-
+phenicol (7.41%) and streptogramin (3.7%).
+
+Journal of Dairy Science Vol. 100 No. 11, 2017
+
+4
+
+LIU ET AL.
+
+Table 1. Antibiotic resistance of Staphylococcus aureus strains isolated from raw milk in northern China
+
+Antibiotic class
+
+  Antibiotic
+
+Strains, no. (%)
+
+β-Lactams
+ 
+ 
+ 
+ 
+Macrolides
+ 
+Lincomycin
+Quinolones
+Sulfonamides
+Tetracyclines
+ 
+Aminoglycosides
+ 
+ 
+ 
+Streptogramin
+Chloramphenicol
+Resistant to 1 antimicrobial agent
+Resistant to 2 antimicrobial agents
+Multi-drug resistant
+
+Penicillin G
+Ampicillin
+Cefoxitin
+Oxacillin
+Amoxicillin-clavulanic acid
+Erythromycin
+Azithromycin
+Clindamycin
+Ciprofloxacin
+Sulfamethoxazole-trimethoprim
+Oxytetracycline
+Tetracycline
+Kanamycin
+Gentamicin
+Streptomycin
+Tobramycin
+Quinupristin-dalfopristin
+Chloramphenicol
+
+46 (85.2)
+43 (79.6)
+23 (42.6)
+16 (29.6)
+0 (0)
+25 (46.3)
+19 (35.2)
+19 (35.2)
+16 (29.6)
+11 (20.4)
+8 (14.8)
+7 (13.0)
+8 (14.8)
+6 (11.1)
+5 (9.26)
+3 (5.56)
+2 (3.7)
+4 (7.41)
+4 (7.4)
+6 (11.1)
+33 (61.1)
+
+Moreover, 72.2% of isolates showed resistance to 2 or 
+more antibiotics. Two of the isolates were resistant to 
+12 of the 18 antibiotics tested, and 11 strains (20.4%) 
+were  susceptible  to  all  tested  antimicrobial  agents. 
+Sixteen isolates (29.6%) were identified as methicillin-
+resistant strains by antimicrobial susceptibility (oxacil-
+lin  resistance).  All  methicillin-resistant  Staph.  aureus 
+(MRSA)  showed  resistance  (100%)  to  cefoxitin  and 
+penicillin.
+
+genes  were  not  detected  in  chloramphenicol-resistant 
+strains. The ant(6)-Ia gene was not detected in strep-
+tomycin-resistant strains; and vga(A) and vga(B) genes 
+were not detected in quinupristin-dalfopristin-resistant 
+strains. Furthermore, the correlations between resistant 
+phenotypes and genotypes for tetracycline, gentamicin, 
+kanamycin, and oxacillin were 100%.
+
+Distribution of Virulence Genes
+
+Screening of Antimicrobial Resistance Genes
+
+The  results  of  antimicrobial  resistance  genes  detec-
+tion  are  presented  in  Table  2.  All  Staph.  aureus  iso-
+lates  resistant  to  gentamicin,  kanamycin,  and  oxacil-
+lin  carried  aac6’-aph2”,  ant(4’)-Ia,  and  mecA  genes, 
+respectively. The blaZ, cfxA, and ant(4’)-Ia genes were 
+detected in 63, 56.5, and 66.7% of penicillin-resistant, 
+cefoxitin-resistant,  and  tobramycin-resistant  isolates, 
+respectively. The tet(K), tet(M), and tet(L) genes were 
+found  alone  or  together  with  others  in  the  following 
+percentages  of  the  isolates:  tet(K)  (14.3%),  tet(M) 
+(42.9%),  tet(K)+tet(L)  (28.6%),  and  tet(M)+tet(L) 
+(14.3%).  The  tet(L)  gene  was  detected  together  with 
+tet(K) and tet(M) in the same isolates. No tetracycline-
+resistant  isolates  harbored  the  tet(O)  gene.  Addition-
+ally, 2 tet(M)-positive strains carried a Tn916-Tn1545 
+transposon gene. The erythromycin-resistant isolates (n 
+= 25) harbored erm(B) (3 isolates, 12%), erm(C) (4 iso-
+lates, 16%), msr(A) (1 isolate, 4%), erm(B) and erm(C) 
+(3 isolates, 12%), erm(C) and erm(A) (1 isolate, 4%), 
+erm(C) and msr(A) (2 isolates, 8%), and erm(C) and 
+msr(B) genes (1 isolate, 4%). However, fexA and catA 
+
+As  shown  in  Table  3,  the  most  predominant  toxin 
+genes were sec (12/54, 22.2%), followed by sea (8/54, 
+14.8%), pvl (8/54, 14.8%), tst (8/54, 14.8%), sej (7/54, 
+13.0%), selp (6/54, 11.1%), ses (5/54, 9.3%), seg (5/54, 
+9.3%),  sei  (4/54,  7.4%),  sed  (4/54,  7.4%),  seb  (3/54, 
+5.6%),  ser  (1/54,  1.9%),  eta  (1/54,  1.9%),  see  (1/54, 
+1.9%),  and  set  (1/54,  1.9%).  The  seh,  sek,  sel,  selm, 
+selo, selu, and etb genes were not detected in the Staph. 
+aureus isolates.
+
+As  shown  in  Table  4,  59.2%  of  the  strains  (32/54) 
+harbored  one  or  more  virulence  genes,  and  40.7%  of 
+the  strains  (22/54)  did  not  detect  any  of  the  above 
+virulence  genes.  Among  the  32  Staph.  aureus  strains, 
+one  strain  harbored  6  virulence  genes  together:  seg, 
+sec, tst, sea, selp, and pvl . Three isolates harbored 4 
+virulence genes with 2 different gene patterns, and the 
+combination of seg, sec, tst, and sea was the dominant 
+gene pattern. Eight isolates harbored 3 virulence genes 
+with 8 different gene patterns. Nine isolates harbored 
+2  virulence  genes  with  7  different  gene  patterns,  and 
+the combinations of sei and pvl or sei and sej was the 
+dominant  gene  pattern.  Eleven  isolates  possessed  one 
+virulence gene with 7 different gene patterns.
+
+Journal of Dairy Science Vol. 100 No. 11, 2017
+
+CHARACTERIZATION OF STAPH. AUREUS FROM DAIRY HERDS IN NORTHERN CHINA
+
+5
+
+Table  2.  Antimicrobial  resistance  genes  identified  in  Staphylococcus  aureus  strains  isolated  from  raw  milk 
+samples from northern China
+
+Antibiotic
+
+  Resistance gene
+
+No. (%) of positive 
+
+strains
+
+Penicillin G
+ 
+Cefoxitin
+ 
+Tobramycin
+Gentamicin
+Chloramphenicol
+ 
+Tetracycline
+ 
+ 
+ 
+ 
+Erythromycin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kanamycin
+Oxacillin
+Streptomycin
+Quinupristin-dalfopristin
+
+blacZ
+mecA
+cfxA
+mecA
+ant(4’)-Ia
+aac6’-aph2”
+fexA
+catA
+tet(K)
+tet(K) + tet(L)
+tet(M)
+tet(M) + tet(L)
+tet(O)
+erm(B)
+erm(B) + erm(C)
+erm(C)
+erm(C) + erm(A)
+erm(C) + msr(A)
+erm(C) + msr(B)
+msr(A)
+erm(A), msr(B), or both
+ant(4’)-Ia
+mecA
+ant(6)-Ia
+vga(A), vga(B), or both
+
+29 (63)
+0
+13 (56.5)
+0
+2 (66.7)
+6 (100)
+0
+0
+1 (14.3)
+2 (28.6)
+3 (42.9)
+1 (14.3)
+0
+3 (12)
+3 (12)
+4 (16)
+1 (4)
+2 (8)
+1 (4)
+1 (4)
+0
+8 (100)
+16 (100)
+0
+0
+
+DISCUSSION
+
+In  the  present  study,  25.8%  (54/195)  of  raw  milk 
+samples  were  positive  for  Staph.  aureus  in  raw  milk. 
+These  results  are  significantly  lower  than  in  previous 
+reports,  which  indicated  that  the  occurrence  rate  of 
+Staph.  aureus  in  raw  milk  was  83%  in  Turkey  (Bar-
+tolomeoli  et  al.,  2009),  66.7%  in  Malaysia  (Andre  et 
+al., 2008), 56% in Brazil (Gundogan and Avci, 2014), 
+and 41.0% in Italy (Traversa et al., 2015). In contrast, 
+a much lower occurrence rate (12.4%) of Staph. aureus 
+
+was  found  in  raw  milk  in  Iran  (Jamali  et  al.,  2015). 
+Overall, the results of our current study indicate that 
+Staph.  aureus  is  common  in  raw  milk  collected  from 
+dairy herds throughout northern China. Major sources 
+of  Staph.  aureus  in  raw  milk  might  include  infected 
+cows and inappropriate hygiene conditions (Jamali, et 
+al., 2015). Further research is ongoing and will explore 
+methods of controlling Staph. aureus occurrence in raw 
+milk.
+
+In our analysis, 72.2% of isolates showed resistance 
+to  2  or  more  antibiotics,  and  61.1%  of  Staph.  aureus 
+
+Table  3.  Virulence  genes  identified  in  Staphylococcus  aureus  strains  isolated  from  raw  milk  samples  from 
+northern China (n = 54)
+
+Class of toxin
+
+  Type of toxin
+
+  Gene
+
+No. (%) of positive 
+
+strains
+
+Enterotoxins
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Enterotoxin-like
+Toxic-shock syndrome toxin
+Exfoliative toxins
+Panton-Valentine leukocidin
+
+Enterotoxin A
+Enterotoxin B
+Enterotoxin C
+Enterotoxin D
+Enterotoxin E
+Enterotoxin G
+Enterotoxin I
+Enterotoxin R
+Enterotoxin S
+Enterotoxin T
+Enterotoxin J
+Enterotoxin-like protein P
+Toxic-shock syndrome toxin
+Exfoliative toxin A
+Panton-Valentine leukocidin
+
+sea
+seb
+sec
+sed
+see
+seg
+sei
+ser
+ses
+set
+sej
+selp
+tst-1
+eta
+pvl
+
+8 (14.8)
+3 (5.6)
+12 (22.2)
+4 (7.4)
+1 (1.9)
+5 (9.3)
+4 (7.4)
+1 (1.9)
+5 (9.3)
+1 (1.9)
+7 (13.0)
+6 (11.1)
+8 (14.8)
+1 (1.9)
+8 (14.8)
+
+Journal of Dairy Science Vol. 100 No. 11, 2017
+
+6
+
+LIU ET AL.
+
+Table 4. Multiple gene patterns identified in Staphylococcus aureus strains isolated from raw milk samples 
+from northern China
+
+No. of toxin genes
+
+  Genotypes
+
+No. of isolates
+
+Total
+
+6
+4
+
+3
+
+2
+
+1
+
+seg, sec, tst, sea, selp, pvl
+sec, tst, sea, pvl
+seg, sec, tst, sea
+sec, eta, pvl
+sed, sei, pvl
+sed, seg, sej
+see, sec, sea
+seg, sec, selp
+sej, sec, selp
+sej, selp, sea
+sec, tst, sea
+sea, sei
+sea, sed
+seg, tst
+sei, sej
+sei, pvl
+sei, sec
+sei, tst
+sec
+sed
+seg
+sej
+ser
+seb
+pvl
+
+1
+3
+
+8
+
+9
+
+11
+
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+1
+1
+1
+2
+1
+1
+2
+3
+1
+
+isolates  showed  multidrug  resistance  (MDR),  which 
+was much higher than reported in other studies. Other 
+researchers  have  reported  lower  rates  of  MDR  Staph. 
+aureus  (Haran  et  al.,  2012;  Jamali  et  al.,  2015).  The 
+high  prevalence  of  drug-resistant  Staph.  aureus  from 
+raw milk—the raw material for dairy products—should 
+be considered a potential risk to human health in north-
+ern China. Moreover, we investigated antibiotic use for 
+mastitis in northern China in our previous survey, and 
+found  that  6  antibiotics  (penicillin,  ampicillin,  cipro-
+floxacin,  sulfamethoxazole-trimethoprim,  gentamicin, 
+and streptomycin) are commonly used in dairy mastitis 
+therapy (data not shown). In the current study, most 
+of the Staph. aureus strains showed a high percentage 
+of  antimicrobial  resistance  to  penicillin,  ampicillin, 
+ciprofloxacin, and sulfamethoxazole-trimethoprim. The 
+results  indicated  a  correlation  between  antibiotic  use 
+and antimicrobial resistance. Similar findings were re-
+ported by Saini et al. (2012), who found that herd-level 
+use of certain antimicrobials administered for mastitis 
+treatment was positively associated with antimicrobial 
+resistance  in  isolates  from  a  clinical  mastitis  sample. 
+Data on antibiotic susceptibility of Staph. aureus can 
+be helpful in choosing the most suitable antibiotic for 
+mastitis treatment (Wang et al., 2016). Based on the 
+high  percentage  of  resistance  to  penicillin  and  ampi-
+cillin,  these  antibiotics  should  be  used  with  caution 
+for mastitis caused by Staph. aureus in dairy herds in 
+northern China.
+
+Methicillin-resistant  Staph.  aureus  is  an  emerging 
+pathogen in livestock animals that is readily transfer-
+able to humans that are in contact with livestock. In 
+this study, 16 isolates (29.6%) were identified as MRSA 
+by antimicrobial susceptibility, and all MRSA isolates 
+showed resistance to cefoxitin and penicillin, which is 
+similar  to  findings  of  several  prior  studies  (Bhargava 
+and Zhang, 2012; Chajecka-Wierzchowska et al., 2015). 
+The  MRSA  resistance  was  caused  by  the  expression 
+of a modified penicillin-binding protein (PBP), named 
+PBP2A, with reduced affinity for β-lactam antimicrobi-
+al agents. For MRSA, β-lactams cannot bind to native 
+PBP2A,  so  synthesis  of  peptidoglycan  and  bacterial 
+growth occur normally (Diaz et al., 2016).
+
+Tetracylines are broad-spectrum antimicrobial agents 
+frequently used in the treatment of infections in cattle 
+(Chajecka-Wierzchowska  et  al.,  2016).  In  our  study, 
+13.9%  of  Staph.  aureus  isolates  showed  resistance  to 
+tetracylines. The high prevalence of resistance to tet-
+racycline  has  been  reported  previously  among  Staph. 
+aureus  isolates  from  different  sources  (Andre  et  al., 
+2008; Gundogan and Avci, 2014; Jamali et al., 2015). 
+Moreover,  tetracycline  resistance  can  be  conferred  by 
+genes encoding efflux proteins TetK and TetL or ribo-
+somal protection proteins TetM, TetO, and TetS (Huys 
+et al., 2004). In our study, all the tetracycline-resistant 
+isolates  harbored  at  least  one  tetracycline  resistance 
+determinant, of which tet(M) was most frequent. These 
+results are in agreement with the findings of Bhargava 
+
+Journal of Dairy Science Vol. 100 No. 11, 2017
+
+CHARACTERIZATION OF STAPH. AUREUS FROM DAIRY HERDS IN NORTHERN CHINA
+
+7
+
+and Zhang (2012), who detected tet(M) in 64.3% of in-
+vestigated strains. In the current study, tet(M)-positive 
+isolates carried the transposon and tet(M) was the most 
+prevalent  tet  gene  detected  among  the  tetracycline-
+resistant  Staph.  aureus  isolates.  Several  studies  have 
+shown that the spread of resistance to antimicrobial is 
+largely due to the acquisition of plasmids or transpo-
+sons (Lopatkin et al., 2016; Pehrsson et al., 2016).
+
+In this study, the correlation between resistant phe-
+notypes  and  genotypes  for  tetracycline,  gentamicin, 
+kanamycin, and oxacillin was 100%. Genotypic predic-
+tion  of  resistance  relies  on  highly  curated  databases 
+of known resistance determinants and cannot identify 
+new mechanisms. Therefore, testing phenotypic suscep-
+tibility is still necessary to fully account for resistance 
+and  predict  new  mechanisms  of  resistance  (Zhao  et 
+al.,  2015).  Knowing  which  antimicrobial  resistance 
+genes  are  present  in  bacterial  populations  is  critical 
+to  developing  new  strategies  to  combat  antimicrobial 
+resistance, including improving antimicrobial resistance 
+and implementing surveillance programs for foodborne 
+diseases.
+
+Another  important  factor  in  the  pathogenesis  of 
+Staph.  aureus  infections  is  virulence.  Once  enterotox-
+ins are produced, they generally retain their biological 
+activity  even  after  heat  treatment  (Cavicchioli  et  al., 
+2015). In the present study, 19 staphylococcal entero-
+toxin  genes  were  tested,  and  60.3%  of  Staph.  aureus 
+isolates harbored one or more of these virulence genes. 
+The  enterotoxin  gene  distribution  in  Staph.  aureus 
+isolates  from  raw  milk  could  provide  epidemiological 
+information for public health and food safety. The sec, 
+sea, pvl, and tst genes were frequently detected in iso-
+lates from raw milk in our study. The most frequently 
+reported virulence gene in Staph. aureus from goat milk 
+is  the  sec  gene  (Cavicchioli  et  al.,  2015);  tst  and  sec 
+are usually detected together from goat and ovine milk 
+(Xing et al., 2016); and pvl is usually detected in Staph. 
+aureus from raw milk. The pvl gene plays an important 
+role in pathogenesis with a strong ability to stimulate 
+cytolysis  of  neutrophils,  apoptosis,  and  production  of 
+pro-inflammatory molecules (Liu, 2009). This suggests 
+that attention should be paid not only to classical en-
+terotoxins in raw milk and other dairy products, but 
+also to other virulence factors detected among patho-
+genic staphylococci.
+
+CONCLUSIONS
+
+This  study  assessed  the  antimicrobial  resistance 
+of  Staph.  aureus  strains  isolated  from  raw  milk  in 
+northern China. Our data indicate that Staph. aureus 
+is  prevalent  in  raw  milk  from  herds  in  the  northern 
+region. The detected Staph. aureus strains exhibited a 
+
+high percentage of antimicrobial resistant and carried 
+multiple  virulence  genes.  Therefore,  it  is  important 
+to  monitor  the  use  of  antimicrobial  agents  and  the 
+potential  transfer  of  antimicrobial  resistance  genes  in 
+northern China. Penicillin G and ampicillin for mastitis 
+caused by Staph. aureus should be used with caution in 
+dairy herds in northern China. Further studies should 
+be carried out to evaluate the possibility of acquiring, 
+transferring, and transmitting antimicrobial resistance 
+genes among Staph. aureus.
+
+ACKNOWLEDGMENTS
+
+This research was supported by Project of Risk As-
+sessment on raw milk (GJFP2016008, Beijing, China) 
+Special Fund for Agro-scientific Research in the Public 
+Interest  (201403071,  Beijing,  China),  The  Agricul-
+tural  Science  and  Technology  Innovation  Program 
+(ASTIP-IAS12, Beijing, China) Fundamental Research 
+Funds for the Central Non-profit Research Institution 
+(2015ywf-zd-3,  Beijing,  China),  and  Modern  Agro-
+Industry Technology Research System of the PR China 
+(CARS-37, Beijing, China).
+
+REFERENCES
+
+Andre, M. C. D. P. B., M. R. H. Campos, L. J. Borges, A. Kipnis, F. 
+C. Pimenta, and A. I. B. Serafini. 2008. Comparison of Staphylo-
+coccus aureus isolated from food handlers, raw bovine milk, and 
+minas frescal cheese by antibiotics and pulsed-field gel electropho-
+resis following sma digestion. Food Contr. 19:200–207.
+
+Bartolomeoli, I., M. Maifreni, F. Frigo, G. Urli, and M. Marino. 2009. 
+Occurrence and characterization of Staphylococcus aureus isolated 
+from raw milk for cheese making. Int. J. Dairy Technol. 62:366–
+371.
+
+Bauer, A. W., W. M. Kirby, J. C. Sherris, and M. Turck. 1966. Anti-
+biotic susceptibility testing by a standardized single disk method. 
+Am. J. Clin. Pathol. 45:493–496.
+
+Baym, M., L. K. Stone, and R. Kishony. 2016. Multidrug evolution-
+ary strategies to reverse antibiotic resistance. Science 351:aad3292.
+Bhargava, K., and Y. Zhang. 2012. Muitidrug-resistant coagulase-neg-
+ative staphylococci in food animals. J. Appl. Microbiol. 113:1027–
+1036.
+
+Cavicchioli, V. Q., T. M. Scatamburlo, A. K. Yamazi, F. A. Pieri, and 
+L.  A.  Nero.  2015.  Occurrence  of  Salmonella,  Listeria  monocyto-
+genes and enterotoxigenic Staphylococcus in goat milk from small 
+and medium-sized farms located in Minas Gerais State, Brazil. J. 
+Dairy Sci. 98:8386–8390.
+
+Chajecka-Wierzchowska, W., A. Zadernowska, and L. Laniewska-Tro-
+kenheim. 2016. Virulence factors, antimicrobial resistance and bio-
+film formation in Enterococcus spp. isolated from retail shrimps. 
+Food Sci. Technol. 69:117–122.
+
+Chajecka-Wierzchowska,  W.,  A.  Zadernowska,  B.  Nalepa,  M.  Sier-
+pinska,  and  L.  Laniewska-Trokenheim.  2015.  Coagulase-negative 
+staphylococci  (CoNS)  isolated  from  ready-to-eat  food  of  animal 
+origin-phenotypic and genotypic antibiotic resistance. Food Micro-
+biol. 46:222–226.
+
+CLSI.  2012.  Performance  standards  for  antimicrobial  susceptibility 
+testing. Document M100–S22. Clinical and Laboratory Standards 
+Institute (CLSI), Wayne, PA.
+
+de Freitas Guimarães, F., D. B. Nobrega, V. B. Richini-Pereira, P. M. 
+Marson,  and  H.  Langoni.  2013.  Enterotoxin  genes  in  coagulase-
+
+Journal of Dairy Science Vol. 100 No. 11, 2017
+
+8
+
+LIU ET AL.
+
+negative and coagulase-positive staphylococcus isolated from bo-
+vine milk. J. Dairy Sci. 96:2866–2872.
+
+Diaz, R., E. Ramalheira, V. Afreixo, and B. Gago. 2016. Methicillin-
+resistant  Staphylococcus  aureus  carrying  the  new  mecC  gene—A 
+meta-analysis. Diagn. Microbiol. Infect. Dis. 84:135–140.
+
+Gomes, F., and M. Henriques. 2016. Control of bovine mastitis: Old 
+
+and recent therapeutic approaches. Curr. Microbiol. 72:377–382.
+
+Gundogan, N., and E. Avci. 2014. Occurrence and antibiotic resistance 
+of  Escherichia  coli,  Staphylococcus  aureus  and  Bacillus  cereus  in 
+raw  milk  and  dairy  products  in  Turkey.  Int.  J.  Dairy  Technol. 
+67:562–569.
+
+Haran, K. P., S. M. Godden, D. Boxrud, S. Jawahir, J. B. Bender, and 
+S.  Sreevatsan.  2012.  Prevalence  and  characterization  of  Staphy-
+lococcus aureus, including methicillin-resistant Staphylococcus au-
+reus, isolated from bulk tank milk from Minnesota dairy farms. J. 
+Clin. Microbiol. 50:688–695.
+
+Huys, G., K. D’Haene, J. M. Collard, and J. Swings. 2004. Prevalence 
+and molecular characterization of tetracycline resistance in Entero-
+coccus isolates from food. Appl. Environ. Microbiol. 70:1555–1562.
+Jamali,  H.,  M.  Paydar,  B.  Radmehr,  S.  Ismail,  and  A.  Dadrasnia. 
+2015.  Prevalence  and  antimicrobial  resistance  of  Staphylococcus 
+aureus  isolated  from  raw  milk  and  dairy  products.  Food  Contr. 
+54:383–388.
+
+Kot,  B.,  P.  Szweda,  A.  Frankowska-Maciejewska,  M.  Piechota,  and 
+K. Wolska. 2016. Virulence gene profiles in Staphylococcus aureus 
+isolated from cows with subclinical mastitis in eastern Poland. J. 
+Dairy Res. 83:228–235.
+
+Liu, G. Y. 2009. Molecular pathogenesis of Staphylococcus aureus in-
+
+fection. Pediatr. Res. 65:71R–77R.
+
+Lopatkin, A. J., S. Q. Huang, R. Smith, J. K. Srimani, T. Sysoeva, S. 
+Bewick, D. K. Karig, and L. C. You. 2016. Antibiotics as a selec-
+tive driver for conjugation dynamics. Nat. Microbiol. 1:16044.
+
+Mistry, H., P. Sharma, S. Mahato, R. Saravanan, P. A. Kumar, and 
+V.  Bhandari.  2016.  Prevalence  and  characterization  of  oxacillin 
+susceptible mecA-positive clinical isolates of Staphylococcus aureus 
+causing bovine mastitis in India. PLoS One 11:e0162256.
+
+Pehrsson, E. C., P. Tsukayama, S. Patel, M. Mejia-Bautista, G. Sosa-
+Soto, K. M. Navarrete, M. Calderon, L. Cabrera, W. Hoyos-Aran-
+go, M. T. Bertoli, D. E. Berg, R. H. Gilman, and G. Dantas. 2016. 
+Interconnected microbiomes and resistomes in low-income human 
+habitats. Nature 533:212–216.
+
+Rajagopal, M., M. J. Martin, M. Santiago, W. Lee, V. N. Kos, T. Mer-
+edith, M. S. Gilmore, and S. Walker. 2016. Multidrug intrinsic re-
+sistance factors in Staphylococcus aureus identified by profiling fit-
+ness within high-diversity transposon libraries. MBio 7:e00950-16.
+Ruegg, P. L., L. Oliveira, W. Jin, and O. Okwumabua. 2015. Pheno-
+typic  antimicrobial  susceptibility  and  occurrence  of  selected  re-
+sistance genes in gram-positive mastitis pathogens isolated from 
+Wisconsin dairy cows. J. Dairy Sci. 98:4521–4534.
+
+Saini,  V.,  J.  T.  McClure,  D.  T.  Scholl,  T.  J.  DeVries,  and  H.  W. 
+Barkema. 2012. Herd-level association between antimicrobial use 
+and antimicrobial resistance in bovine mastitis Staphylococcus au-
+reus isolates on Canadian dairy farms. J. Dairy Sci. 95:1921–1929.
+Stapels, D. A. C., K. X. Ramyar, M. Bischoff, M. van Kockritz-Blick-
+wede, F. J. Milder, M. Ruyken, J. Eisenbeis, W. J. McWhorter, 
+M. Herrmann, K. P. M. van Kessel, B. V. Geisbrecht, and S. H. M. 
+Rooijakkers. 2014. Staphylococcus aureus secretes a unique class of 
+neutrophil serine protease inhibitors. Proc. Natl. Acad. Sci. USA 
+111:13187–13192.
+
+Traversa, A., G. R. Gariano, S. Gallina, D. M. Bianchi, R. Orusa, L. 
+Domenis,  P.  Cavallerio,  L.  Fossati,  R.  Serra,  and  L.  Decastelli. 
+2015.  Methicillin  resistance  in  Staphylococcus  aureus  strains  iso-
+lated from food and wild animal carcasses in Italy. Food Microbiol. 
+52:154–158.
+
+Wang, D., L. M. Zhang, X. Z. Zhou, Y. L. He, C. H. Yong, M. L. Shen, 
+O.  Szenci,  and  B.  Han.  2016.  Antimicrobial  susceptibility,  viru-
+lence genes, and randomly amplified polymorphic DNA analysis of 
+Staphylococcus aureus recovered from bovine mastitis in Ningxia, 
+China. J. Dairy Sci. 99:9560–9569.
+
+Xing, X. M., Y. Zhang, Q. Wu, X. Wang, W. P. Ge, and C. M. Wu. 
+2016.  Prevalence  and  characterization  of  Staphylococcus  aureus 
+isolated  from  goat  milk  powder  processing  plants.  Food  Contr. 
+59:644–650.
+
+Zhang, L. L., Y. C. Li, H. D. Bao, R. C. Wei, Y. Zhou, H. Zhang, and 
+R. Wang. 2016. Population structure and antimicrobial profile of 
+Staphylococcus  aureus  associated  with  bovine  mastitis  in  China. 
+Microb. Pathog. 97:103–109.
+
+Zhao, S., G. H. Tyson, Y. Chen, C. Li, S. Mukherjee, S. Young, C. 
+Lam, J. P. Folster, J. M. Whichard, and P. F. McDermott. 2015. 
+Whole genome sequencing analysis accurately predicts antimicro-
+bial resistance phenotypes in Campylobacter. Appl. Environ. Mi-
+crobiol. 82:459–466.
+
+Journal of Dairy Science Vol. 100 No. 11, 2017
+
+

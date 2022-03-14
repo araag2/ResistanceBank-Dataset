@@ -1,0 +1,1047 @@
+Molecular and Cellular Probes xxx (2016) 1e6
+
+Contents lists available at ScienceDirect
+
+Molecular and Cellular Probes
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / y m c p r
+
+Original research article
+Serogenotyping and antimicrobial susceptibility testing of Salmonella
+spp. isolated from retail meat samples in Lagos, Nigeria
+Stella Smith a, *, Sascha Braun b, e, 1, Faith Akintimehin c, Toun Fesobi d, Moses Bamidele a,
+Akitoye Coker c, Stefan Monecke b, e, f, Ralf Ehricht b, e
+a Molecular Biology and Biotechnology Division, Nigerian Institute of Medical Research, Yaba, Lagos, Nigeria
+b Alere Technologies GmbH, Jena, Germany
+c College of Medicine, University of Lagos, Lagos, Nigeria
+d Public Health Division, Nigerian Institute of Medical Research, Yaba, Lagos, Nigeria
+e InfectoGnostics Research Campus, Jena, Germany
+f TU Dresden, Institute for Medical Microbiology and Hygiene, Dresden, Germany
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Microarray-based serogenotyping, antimicrobial susceptibility tests and the detection of relevant resis-
+tance genes were performed on isolates of Salmonella spp. from retail meat samples obtained in Lagos,
+Nigeria.
+
+Out of 151 meat samples, 33 Salmonella isolates were obtained. Nine different Salmonella serovars (S.
+Amoutive, S. Bargny, S. Drac, S. Ealing, S. Urbana, S. Hadar, S. Nyborg, S. Anatum and S. Havana) were
+identiﬁed by microarray-based serogenotyping and conﬁrmed afterwards using classical serotyping.
+Antibiotic susceptibility tests with 17 antibiotics showed that almost all isolates were fully susceptible to
+this panel.
+
+The results of this study indicated a high prevalence of Salmonella in retail meat, the presence of some
+previously rather rarely described Serovars in retail meat samples from Lagos, and a need to monitor for
+Salmonella and their antibiotic resistance determinants. The microarray-based system used herein
+proved to be perfectly suited as epidemiological tool to replace classical serotyping.
+
+© 2016 Elsevier Ltd. All rights reserved.
+
+Article history:
+Received 23 February 2016
+Received in revised form
+22 April 2016
+Accepted 24 April 2016
+Available online xxx
+
+Keywords:
+Salmonella
+Africa
+DNA-based microarray
+Retail meat
+Genotyping
+Serotyping
+Serogenotyping
+
+1. Introduction
+
+Food-borne salmonellosis is one of the most prevalent zoonotic
+diseases worldwide. It often follows consumption of contaminated
+animal products, which usually originate from infected animals
+used in food production or from post mortem contamination of
+carcasses and/or meat [1]. Salmonella infections of live animals,
+including cattle, swine and sheep, arise from intensive rearing
+practices and from the use of contaminated feeds [2]. Stress asso-
+ciated with transport of the animals to an abattoir augments
+shedding of Salmonella by carrier animals, and this may contribute
+
+* Corresponding author.
+
+E-mail addresses: stellaismith@yahoo.com (S. Smith), sascha.braun@clondiag.
+com (S. Braun), akintimehinopeoluwas@yahoo.com (F. Akintimehin), wuratoun@
+yahoo.co.uk (T. Fesobi), mosesbamidele@yahoo.com (M. Bamidele), aocoker@
+hotmail.com (A. Coker),
+ralf@
+clondiag.com (R. Ehricht).
+
+stefan.monecke@clondiag.com (S. Monecke),
+
+1 Contributed equally.
+
+to the spread of the organism to other animals in the slaughter
+plants [3].
+
+Serotyping is an epidemiological tool for Salmonella character-
+ization helping to determine identity/non-identity of isolates to
+enable detection of case clusters and outbreaks and to link human
+cases to e.g. brands or batches of foodstuff [4]. Therefore, it is
+pertinent to carry out serotyping for all culture conﬁrmed cases of
+Salmonella infection. For typing, a scheme was developed that bases
+on antigenic variations affecting O (somatic) as well as H (ﬂagellar)
+antigens. The number of Salmonella spp. serotypes covered by this
+so-called White-Kaufmann-LeMinor scheme expanded from 44
+serovars known in 1934 to 2587 serovars currently known [5,6].
+
+Currently, 46 Salmonella O-serogroups have been described. The
+genes of the O-antigen, ﬂippase (wzx) and polymerase (wzy), are
+highly variable and speciﬁc for their respective serogroup [7e9].
+For the H-antigen, there are two known ﬂagella structural genes,
+ﬂiC and ﬂjB,which are highly conserved at their 50 and 30 ends and
+variable in their central regions [10].
+
+Aside from the fact that classical serotyping is labor intensive,
+
+http://dx.doi.org/10.1016/j.mcp.2016.04.001
+0890-8508/© 2016 Elsevier Ltd. All rights reserved.
+
+Please cite this article in press as: S. Smith, et al., Serogenotyping and antimicrobial susceptibility testing of Salmonella spp. isolated from retail
+meat samples in Lagos, Nigeria, Molecular and Cellular Probes (2016), http://dx.doi.org/10.1016/j.mcp.2016.04.001
+
+2
+
+S. Smith et al. / Molecular and Cellular Probes xxx (2016) 1e6
+
+time consuming and expensive (requiring 250 sera to characterize
+2500 serovars), this method is certainly out of reach of most lab-
+oratories, especially in the developing countries. As an alternative
+method, serogenotyping using unique DNA sequence information
+for identiﬁcation, is highly reproducible, accessible and can easily
+be standardized worldwide. This has led to the development of
+different molecular typing systems such as DNA sequencing ap-
+proaches [11], microarrays [7e9] and ligation-based microarrays
+[12]. Some are however fraught with the challenges of typing only a
+small sub-set of serotypes and are also expensive and/or labor
+intensive to be implemented in diagnostic or public health
+laboratories.
+
+In Nigeria, there are limited data on the prevalence of Salmonella
+serovars causing disease in humans as well as of those that can be
+encountered in livestock or food products. Only the study by Fashae
+et al. (2010) gave information on the serovars prevalent in humans
+as well as animals, and the authors found different serovars present
+in both the human and animal isolates, with some rare otherwise
+serovars predominating amongst the animal and human isolates
+[13]. Another study from the city of Maiduguri, Nigeria, described
+observations of the rare serovar S. Hiduddify that was isolated from
+chicken and poultry meat [14]. According to the report by Akinyemi
+et al. (2015) [15], the Salmonella spp. isolated from patients in Lagos,
+Nigeria with pyrexia and gastroenteritis were S. Enteritidis, S. Par-
+atyphi and S. Typhi, while Ifeanyi et al. (2014) [16], isolated S.
+Enteritidis, S. Zanzibar and S. Brancanstar from diarrhoeic children
+in Abuja, Nigeria. Another report from North west Nigeria, showed
+cases of S. Typhi, S. Paratyphi A, S. Arizonae, S. Typhimurium and S.
+Enteritidis amongst children and adults presenting with pyrexia
+and gastroenteritis Abdullahi et al. (2013) [17].
+
+To our best knowledge, this is the ﬁrst study for Lagos, Nigeria
+that investigates the direct isolation of Salmonella from retail meat
+purchased in different market places. All isolates conﬁrmed as
+Salmonella were subsequently serogenotyped using the technique
+developed previously [8], as well as screened phenotypically and
+genotypically for antimicrobial susceptibility patterns. The main
+aim of this study was to evaluate the microarray-based technique to
+supplement or to replace the classical serotyping as epidemiolog-
+ical tool in countries where standardized sera are too expensive
+and/or unavailable.
+
+2. Materials and methods
+
+2.1. Sample collection, bacterial isolation and preliminary
+identiﬁcation
+
+One hundred and ﬁfty one samples of meat, consisting of beef
+(n ¼ 81), chicken (n ¼ 30), pork (n ¼ 16), and goat (n ¼ 24) from
+different parts of these animals, were purchased from various ab-
+attoirs and markets in six locations of different local government
+areas (LGA) in different districts of Lagos city. This included facilities
+in the towns of Mushin (in the Mushin LGA; n ¼ 64), Yaba (Main-
+land LGA; n ¼ 40), Ketu (Kosofe LGA; n ¼ 16), Berger (Ikeja LGA;
+n ¼ 9), Ojota (Kosofe LGA; n ¼ 5) and Surulere (Surulere LGA;
+n ¼ 17). All samples were collected between May and August
+2013into sterile plastic containers at room temperature and
+transferred to the laboratory within 2 h of collection. Each sample
+was stored at 4 C and put up for culture within 2 h. Brieﬂy, 10 g of
+each meat sample were homogenized in 90 ml of sterile Rappaport-
+Vasiliadis enrichment broth (Oxoid, Basingstoke, UK) using a sterile
+homogenizer in a sterile bottle. The homogenized samples were
+incubated at 37 C for 18e24 h. An inoculation loop of the ho-
+mogenate was inoculated onto Deoxycholate Citrate Agar (DCA,
+Oxoid Limited, Basingstoke, UK), at 37 C for 18e24 h. Colonies
+were subsequently subcultured and incubated at 37 C for 24 h on
+
+Salmonella-Shigella-Agar (SSA, Oxoid Limited, Basingstoke, UK) in
+order to obtain discrete pure colonies. Colony material of all isolates
+was Gram stained to verify that they were Gram-negative bacilli.
+Isolates were further identiﬁed on XLD agar by identifying colony
+morphology that was oxidase negative, non-lactose fermenters and
+hydrogen producers (colonies with black dots). Thirty-three iso-
+lates identiﬁed presumptively as Salmonella spp. were conﬁrmed
+using the Salm-SeroGenoTyping AS-1 Kit (Alere Technologies
+GmbH,
+Jena, Germany) and the VITEK 2 system (BioMerieux,
+Nuertingen, Germany).
+
+2.2. Serogenotyping of Salmonella serovars
+
+Isolates were cultivated on tryptone-yeast agar (TY-agar), and
+genomic DNA was extracted using the Qiagen DNeasy Blood &
+Tissue Kit (Qiagen GmbH, Hilden, Germany) according to the
+manufacturer's instructions. If necessary, DNA was concentrated to
+at least 100 ng/ml using a Speed Vac centrifuge (Eppendorf,
+Hamburg, Germany) at 1400 rpm at 30 C for 30 min. All isolates
+were genotyped by the array-based serogenotyping assay Salm-
+SeroGenoTyping AS-1 Kit according to manufacturer's
+in-
+structions. The DNA-based microarray used includes 255 different
+targets to analyze O- and H-phases and assign the genotype to the
+antigenic formula according to the White-Kauffmann-LeMinor
+scheme. Additionally, the genus-speciﬁc genes invA (M90846.1),
+galF (X56793.1) and manC (X59886.1) were used as marker to
+identify genus Salmonella. With this microarray-based method, 132
+different Salmonella serovars could be identiﬁed. Also, 77 targets
+were included that were related to antimicrobial resistance. Details
+of used targets and software analysis are described in Ref. [8].
+
+After DNA isolation, a multiplex linear DNA ampliﬁcation was
+used for site-speciﬁc internal labelling of the corresponding target
+region using dUTP linked biotin as a marker. Brieﬂy, the linear
+ampliﬁcation steps included 5 min of initial denaturation at 96 C,
+followed by 50 cycles with 20 s of annealing at 50 C, 40 s of
+elongation at 72 C, and 60 s of denaturation at 96 C. This reaction
+results in a multitude of speciﬁcally ampliﬁed, single-stranded,
+biotin-labeled DNA molecules for subsequent hybridization to the
+corresponding DNA microarray built in the ArrayStrips delivered
+with Salm-SeroGenoTyping AS-1 Kit. The ArrayStrips were placed
+in a BioShaker iQ thermomixer (Q. Instruments, Jena, Germany) and
+subsequently washed with 200 ml of de-ionized water for 5 min at
+55C/550 rpm and with 100 ml hybridization buffer C1 for 5 min at
+55C/550 rpm. All liquids were always completely removed using a
+soft plastic pipette to avoid scratching of the chip surface. In a
+separate tube, 10 ml of the labeled, single-stranded DNA were
+diluted in 90 ml hybridization buffer C1. The hybridization was
+carried out at 55 C, shaking at 550 rpm for 1 h. After hybridization,
+the ArrayStrips were washed twice for 5 min with 200 ml washing
+buffer C2 at 45 C, shaking at 550 rpm. Peroxidase-streptavidin
+conjugate C3 was diluted 1:100 in buffer C4. A total of 100 ml of
+this mixture was added to each cavity of the ArrayStrip, and sub-
+sequently incubated for 10 min at 30 C and 550 rpm. Afterwards,
+washing was carried out twice at 550 rpm with 200 ml C5 washing
+buffer at 30 C, with each step performed for 5 min. Visualization
+was achieved by adding 100 ml of a locally precipitating dye, D1, to
+the ArrayStrips. Microarrays were analyzed using the ArrayMate
+device with IconoClust version 3.2r1. Results, including serovar
+assignment and identiﬁcation of AMR genes, are then described in
+detail
+in the result-HTML-ﬁles (supplementary information 1).
+Microarray raw data of all
+isolates are provided in the
+supplementary information 2. Classical serotyping using slide
+agglutination was carried out by the National Reference Laboratory
+for Salmonellosis in Cattle, at the Friedrich-Loefﬂer-Institute (FLI,
+Jena, Germany), according to ISO 6579:2002 [12].
+
+Please cite this article in press as: S. Smith, et al., Serogenotyping and antimicrobial susceptibility testing of Salmonella spp. isolated from retail
+meat samples in Lagos, Nigeria, Molecular and Cellular Probes (2016), http://dx.doi.org/10.1016/j.mcp.2016.04.001
+
+S. Smith et al. / Molecular and Cellular Probes xxx (2016) 1e6
+
+3
+
+2.3. Antimicrobial susceptibility testing
+
+All Salmonella isolates were tested using an automated suscep-
+tibility testing technique (VITEK 2, bioMerieux, Nuertingen, Ger-
+many). Brieﬂy, all isolates were cultured overnight on TY-agar for
+12 h at 37 C. Single colonies were used to prepare a 0.5 McFarland
+standard solution in 0.45% saline. This solution was used to load
+VITEK 2 cards AST-N289 (bioMerieux REF NO. 415 057). Nalidixic
+acid was additionally tested using the disk diffusion method in
+accordance with National Committee for Clinical Laboratory Stan-
+dards [18].
+
+resistance genes sul1 and sul2 were found in two isolates from beef
+assigned as S. Amoutive (Nig-082) and S. Ealing (Nig-149), respec-
+tively. These genes are known to mediate resistance to sulfameth-
+oxazole. Phenotypic tests for sulfamethoxazole were not performed
+since the VITEK AST-N289 panel considered only co-trimoxazole,
+i.e., a combination of trimethoprim and sulfamethoxazole, and
+isolates were found to be susceptible to co-trimoxazole.
+
+Other resistance genes covered by the described test were not
+found using the Salm-SeroGenoTyping Kit. The isolates S. Amoutive
+(Nig-082), S. Bargny (Nig-129-2), S. Ealing (Nig-077), S. Drac (Nig-
+107) and S. Havana (Nig-009) were resistant to nalidixic acid.
+
+2.4. Statistical tests
+
+4. Discussion
+
+Statistical tests were performed to discriminate the prevalence
+of Salmonella isolates between study sites and type of meat. The
+signiﬁcance (p) were conducted using the Fisher's exact test on
+Refs. [19,20].
+
+3. Results
+
+Out of the 151 food samples collected, 33 samples (21.8%) were
+tested positive for Salmonella. All obtained isolates (n ¼ 33) were
+conﬁrmed as Salmonella using the Salm-SeroGenoTyping AS-1 Kit
+and the VITEK 2 System, and were tested positive for invA, galF and
+manC as species marker for Salmonella using the microarray tech-
+nique (Table 1).
+
+(18/81) of identiﬁed Salmonella isolates originated from beef.
+Smaller numbers originated from chicken (10/30), goat (4/24) and
+pork (1/16). Table 1 show all details, including host species and
+sampling site, for each single isolate of Salmonella spp.
+
+The isolates were identiﬁed to belong to nine different serovars.
+S. Amoutive was the most common serovar accounting for 24.2%
+(n ¼ 8), and it was present in all meat samples (Table 1). The isolates
+from beef samples included: S. Anatum (n ¼ 3), S. Ealing (n ¼ 4), S.
+Havana (n ¼ 1), S. Nyborg (n ¼ 2), S. Urbana (n ¼ 1), S. Bargny
+(n ¼ 3), and S. Amoutive (n ¼ 4). The isolates from chicken samples
+included: S. Anatum (n ¼ 1), S. Hadar (n ¼ 1), S. Drac (n ¼ 2), S.
+Havana (n ¼ 1), S. Amoutive (n ¼ 2), S. Bargny (n ¼ 2) and S. Nyborg
+(n ¼ 1). The only isolate obtained from pork was S. Amoutive.
+Isolates from goat included: S. Anatum (n ¼ 1), S. Ealing (n ¼ 1), S.
+Amoutive (n ¼ 1) and S. Drac (n ¼ 1). In the present study S. Hadar
+was only found in samples from chicken while S. Urbana was
+unique in samples collected from beef. S. Drac was found in both,
+goat and chicken samples. The serogenotyping results were
+conﬁrmed by classical serotyping using agglutination (Table 1)
+indicating that all Salmonella isolates were correctly typed using
+the Salm-SeroGenoTyping AS-1 Kit.
+
+Due to missing O-antigen signals of three isolates, analyses via
+the PatternMatch algorithm (as described in Ref. [8]) could be not
+performed. Nevertheless, all three isolates showed the same H-
+antigens signals; H1:l,w and H2:e,n,x. Classical analysis for all three
+isolates by serotyping yielded the O-antigen O:47. The serological
+results for H-antigens H1 and H2 were in concordance with the
+results of the array-based serogenotyping. These isolates were
+assigned as S. Drac (47:l,w:e,n,x).
+
+Antibiotic susceptibility testing revealed that only S. Amoutive
+isolate Nig-120 and S. Nyborg isolate Nig-135 were resistant to
+ampicillin, while S. Amoutive isolate Nig-120 was also resistant to
+ampicillin/sulbactam, cefuroxime, cefuroxime-axetil, cefotaxime
+and ceftazidime (supplementary information 3). No beta-lactamase
+gene to which this phenotype possibly could be attributed was
+found in these two isolates. All other isolates were sensitive to the
+17 antimicrobials included into the AST-N289 panel and did not
+yield signals for the resistance markers screened. However, the
+
+To our best knowledge this is the ﬁrst report about Salmonella in
+retail meat from Lagos, Nigeria. The results of our study showed
+that Salmonella spp. were more isolated from beef than any other of
+the food source sampled during the time period in this study.
+Nevertheless, statistical analyses yielded no signiﬁcant differences
+in the prevalence of Salmonella between chicken, pork, beef and
+goat (p ¼ 0.19, Fisher's Exact test). However, differed the prevalence
+of Salmonella signiﬁcant between different study sites (p ¼ 0.005,
+Fisher's Exact test).
+
+Food samples from Ojota (Kosofe LGA) market were found to
+have the highest number of Salmonella spp. (3 of 5 samples). This
+high prevalence could be explained by the low number of samples
+collected and also due to the fact that all the samples were collected
+from the same market with a common abattoir. Food samples from
+Surulere (Surulere) (9/17 samples) and Ketu/Ojota (Kosofe) (7/21
+samples) were found to have very high prevalence of Salmonella.
+Although Surulere is not close to Ketu/Ojota, the latter two are close
+to each other and could likely to have been supplied by the same
+abattoirs. However, Surulere is one of the dirty regions in Lagos city,
+hence the high prevalence of Salmonella spp.
+
+S. Nyborg and S. Urbana were peculiar to Mushin (Mushin LGA)
+area, while S. Hadar was found only in Berger (Ikeja LGA). Both LGAs
+are far from each other and markets where the samples were taken
+might have been supplied from different abattoirs. In a study from
+South West and North East of Nigeria, S. Kentucky was isolated from
+their chicken isolates in 4.9% of samples [21]. In our study S. Ken-
+tucky was not found in the meat samples. Fashae et al., [13] re-
+ported S. Virchow to be more prevalent (71.0%) among their chicken
+isolates, in contrast to our study where we did not isolate any S.
+Virchow in chicken or other food samples. Interestingly, none of the
+Salmonella serovars isolated from the chicken farms during the
+Fashae study [13] belonged to the same serovars as those from
+chicken in our study. The absence of serovars S. Kentucky and S.
+Virchow might be related to the samples and sampling method. In
+both studies [13,21] only fecal samples taken from living animals in
+poultry farms were analyzed. In contrast, in the present study
+samples were taken directly from different abattoirs and markets
+where the chicken was already handled. The source of sampling
+makes a big difference as contaminations with other Salmonella
+serovars may occur during processing. Nevertheless, other param-
+eters like the geographic distance, temporal changes (i.e., a change
+of the population structure during several years), seasonal vari-
+ability, local outbreak situations, and/or different races or breeds of
+chicken could play a major role for the serovar composition.
+
+In another study from Africa, Burkina Faso, S. Drac was isolated
+from feces of cattle [22]. In our study S. Drac was isolated from
+chicken and goat meat samples, collected in three closely located
+LGAs (Surulere, Mushin and Mainland). We assume that all three
+markets were supplied from the same major abattoir and
+contamination with S. Drac occurs during the slaughtering process.
+In a study from Tunisia, S. Hadar was isolated from poultry meat
+
+Please cite this article in press as: S. Smith, et al., Serogenotyping and antimicrobial susceptibility testing of Salmonella spp. isolated from retail
+meat samples in Lagos, Nigeria, Molecular and Cellular Probes (2016), http://dx.doi.org/10.1016/j.mcp.2016.04.001
+
+4
+
+S. Smith et al. / Molecular and Cellular Probes xxx (2016) 1e6
+
+Table 1
+Sample source and Salmonella enterica spp. enterica serovars according to sites.
+
+Sample
+source
+
+District Lagos city
+(LGAa)
+
+Number of
+isolates
+
+Results of microarray-based serotyping
+
+Species
+
+Serovar
+
+Serogroup Antigenic formula
+
+Bargny
+
+Ealing
+
+28:d:1,5
+
+8,20:i:1,5
+
+Amoutive M (O:28)
+
+C2eC3
+(O:8)
+O (O:35)
+
+S.e.
+enterica
+S.e.
+enterica
+S.e.
+enterica
+S.e.
+enterica
+S.e. enterica Amoutive M (O:28)
+S.e. enterica Anatum E1 (O:3,10) 3,{10}{15}
+
+35:g,m,s:-
+
+Nyborg
+
+E1 (O:3,10) 3,{10}{15}:e,h:1,7
+
+28:d:1,5
+
+S.e. enterica Anatum E1 (O:3,10) 3,{10}{15}
+
+{15,34}:e,h:1,6
+
+S.e. enterica Anatum E1 (O:3,10) 3,{10}{15}
+
+{15,34}:e,h:1,6
+
+S.e. enterica Ealing
+S.e. enterica Ealing
+S.e. enterica Havana
+S.e. enterica Urbana
+
+O (O:35)
+O (O:35)
+G (O:13)
+N (O:30)
+
+{15,34}:e,h:1,6
+35:g,m,s:-
+35:g,m,s:-
+1,13,23:f,g,[s]:-
+30:b:e,n,x
+
+S.e. enterica Amoutive M (O:28)
+S.e. enterica Amoutive M (O:28)
+S.e. enterica Anatum E1 (O:3,10) 3,{10}{15}
+
+28:d:1,5
+28:d:1,5
+
+S.e. enterica Bargny
+
+S.e. enterica Bargny
+
+S.e. enterica Drac
+S.e. enterica Drac
+S.e. enterica Hadar
+
+S.e. enterica Havana
+S.e. enterica Nyborg
+
+{15,34}:e,h:1,6
+8,20:i:1,5
+
+8,20:i:1,5
+
+C2eC3
+(O:8)
+C2eC3
+(O:8)
+n.d.
+n.d.
+C2eC3
+(O:8)
+G (O:13)
+E1 (O:3,10) 3,{10}{15}:e,h:1,7
+
+n.d.:l,v:e,n,x
+n.d.:l,v:e,n,x
+6,8:z10:e,n,x
+
+1,13,23:f,g,[s]:-
+
+S.e. enterica Amoutive M (O:28)
+S.e. enterica Anatum E1 (O:3,10) 3,{10}{15}
+
+28:d:1,5
+
+S.e. enterica Drac
+S.e. enterica Ealing
+
+n.d.
+O (O:35)
+
+{15,34}:e,h:1,6
+n.d.:l,v:e,n,x
+35:g,m,s:-
+
+S.e. enterica Amoutive M (O:28)
+
+28:d:1,5
+
+Results of classical serotypingb
+
+O-
+antigen
+
+H1-
+antigen
+
+H2-
+antigen
+
+28
+
+8,20
+
+d
+
+i
+
+1,5
+
+1,5
+
+3,10
+
+e,h
+
+1,7
+
+35
+13,23
+30
+
+g,m,s
+f,g
+b
+
+e
+e
+e,n,x
+
+3,10
+
+e,h
+
+1,6
+
+47
+47
+8
+
+l,v
+l,v
+z10
+
+e,n,x
+e,n,x
+e,n,x
+
+47
+
+l,v
+
+e,n,x
+
+invA/galF/
+manC
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+þ/þ/þ
+
+Beef
+
+Beef
+
+Beef
+
+Beef
+
+Beef
+Beef
+
+Beef
+
+Beef
+
+Beef
+Beef
+Beef
+Beef
+
+Surulere (Surulere)
+
+Surulere (Surulere)
+
+Mushin (Surulere)
+
+Mushin (Mushin)
+
+Yaba (Mainland)
+Ketu (Kosofe)
+
+Mushin (Mushin)
+
+Ojota (Kosofe)
+
+Surulere (Surulere)
+Yaba (Mainland)
+Mushin (Mushin)
+Mushin (Mushin)
+
+Chicken
+Chicken
+Chicken
+
+Ojota (Kosofe)
+Yaba (Mainland)
+Ketu (Kosofe)
+
+Chicken
+
+Surulere (Surulere)
+
+Chicken
+
+Yaba (Mainland)
+
+Chicken
+Chicken
+Chicken
+
+Chicken
+Chicken
+
+Goat
+Goat
+
+Goat
+Goat
+
+Pork
+
+Mushin (Mushin)
+Yaba (Mainland)
+Berger (Ikeja)
+
+Ketu (Kosofe)
+Mushin (Mushin)
+
+Mushin (Mushin)
+Ketu (Kosofe)
+
+Surulere (Surulere)
+Mushin (Mushin)
+
+Ojota (Kosofe)
+1
+Total number of isolates 33
+
+3
+
+3
+
+2
+
+2
+
+1
+1
+
+1
+
+1
+
+1
+1
+1
+1
+
+1
+1
+1
+
+1
+
+1
+
+1
+1
+1
+
+1
+1
+
+1
+1
+
+1
+1
+
+a LGA: Local government area.
+b Classical serotyping was done for at least one serovar which was detected by the Salm-SeroGenoTyping AS-1 Kit. All Isolates belonging to serovar S. Drac were tested by
+
+classical serotyping.
+
+[23]. Also in our study one S. Hadar serovar was isolated from a
+chicken sample collected from a market in Berger (Ikeja LGA).
+
+Antimicrobial susceptibility testing showed that the isolates S.
+Amoutive Nig-120 and S. Nyborg Nig-135 were resistant to ampi-
+cillin, with S. Amoutive Nig-120 being resistant also to ampicillin/
+sulbactam, cefuroxime, cefuroxime-axetil, cefotaxime and ceftazi-
+dime. In this study all isolates were sensitive to oﬂoxacin and cip-
+roﬂoxacin. A report by Akinyemi et al. [24], in 2003 from Lagos,
+Nigeria (although from humans and typhoid fever patients), stated
+the fact that oﬂoxacin and ciproﬂoxacin are the drugs of choice for
+S. Typhi, current ﬁndings also from humans show that our local
+Salmonella spp. are still sensitive to oﬂoxacin and ciproﬂoxacin
+[16,17]. Our data also reported all Salmonella isolates to be sensitive
+against both antibiotics. All isolates were sensitive to tetracycline,
+which is contrary to that reported by both Fashae et al. (2010) and
+Adeyanju & Ishola [25] (which was also from South West of Nigeria)
+in which the majority of chicken isolates were resistant to tetra-
+cycline (93%) [13]. Data are not available to compare the possibil-
+ities for this discrepancy. Other Nigerian studies by Refs. [13,21,23]
+with isolates from poultry, showed high prevalence rates of
+
+resistance to nalidixic acid and high level of reduced susceptibility
+to ciproﬂoxacin, in contrast to our study, where the isolates were all
+sensitive to ciproﬂoxacin with only ﬁve isolates (15.2%) resistant to
+nalidixic acid. These results could be due to unregulated use of
+antibiotics in our environment, coupled with different sample
+types and different years of isolation. Although S. Amoutive isolate
+Nig-120 was resistant to 2nd and 3rd generation cephalosporins as
+identiﬁed by phenotypically VITEK 2 system, analysis of the isolate
+revealed no antibiotic resistance genes (i.e., blaCTX-M-1/15 or
+blaOXA) which normally mediated such a phenotype. Possible ex-
+planations are that i) there was a beta-lactamase gene present in
+the isolate that was not covered by the microarray at all, or ii) that a
+primer or probe binding site of a beta-lactamase gene was signiﬁ-
+cantly altered hindering detection by the array or that iii) another
+mechanism like a multidrug-resistance efﬂux pump [26] mediated
+the resistance. The resistance genes sul1 and sul2 found in S.
+Amoutive (Nig-082) and S. Ealing (Nig-149) are known to mediate
+resistance to sulfamethoxazole. Phenotypic tests
+(VITEK 2)
+considered only co-trimoxazole and isolates were found to be
+susceptible to co-trimoxazole. This could be explained by the fact
+
+Please cite this article in press as: S. Smith, et al., Serogenotyping and antimicrobial susceptibility testing of Salmonella spp. isolated from retail
+meat samples in Lagos, Nigeria, Molecular and Cellular Probes (2016), http://dx.doi.org/10.1016/j.mcp.2016.04.001
+
+S. Smith et al. / Molecular and Cellular Probes xxx (2016) 1e6
+
+5
+
+that resistance to co-trimoxazole requires the presence of both, sul
+and dfrA genes. The gene dfrA was not detected in both isolates.
+These results show once again the limitations of molecular tests
+[27]. Genotypes as deﬁned by molecular assays do not always
+reﬂect the phenotype and vice versa, not for all phenotypes the
+responsible genes are detected. Therefore, a direct comparison of
+phenotype and genotype is necessary to validate a molecular assay
+[28e30]. The different results between this study and other studies
+regarding population structure and antibiotic resistance could be
+explained by the samples described in this study. Salmonella iso-
+lated from fecal samples of industrial livestock farming may be
+more resistant to antibiotics due to the high tasks of antibiotics in
+such areas. In this study Salmonella were isolated from handled
+meat of different animals and the sources of Salmonella contami-
+nation are unknown. We assume that the Salmonella population
+structure described in this study differs in their resistance in
+comparison to isolates from livestock farming.
+
+5. Conclusion
+
+from living animals
+
+To our knowledge this study is the ﬁrst report of serogenotyping
+of food samples in Lagos Nigeria. Previously studies about Salmo-
+nella were mainly conducted in industrial animal farms using
+samples
+[13,21,31]. The prevalence of
+conﬁrmed Salmonella spp. amongst the samples tested was about
+21.8%. To our opinion, such a percentage of handled and retailed
+meat is alarmingly high. Therefore, any handled meat should be
+regularly monitored. Serovars, that are rare elsewhere, were iso-
+lated from these food samples, and occurred in all the food types. In
+addition, resistance was detected amongst our chicken and beef
+isolates, with isolates from Ketu/Ojota and Surulere having the
+highest prevalence. Continuous monitoring of antibiotic resistance
+should be carried out in these areas to prevent further spread of
+antibiotic resistant Salmonella. Taken together, microarray-based
+serogenotyping is a method which is affordable, easy to perform
+around different laboratories all over the world and easily to extend
+and adapt. The increasing availability of sequencing data will
+improve the technology rapidly.
+
+Competing interests
+
+SDB, RE and SM are employees of Alere Technologies, the
+company that manufactures the microarrays also used in this study.
+This has no inﬂuence on study design, data collection and analysis,
+and this does not alter the authors' adherence to all the Molecular
+and Cellular Probes policies on sharing data and materials. The
+other authors declare that no competing interests exist.
+
+Authors contribution
+
+SIS and SDB conceived of the study, and participated in its
+design and coordination. SDB and RE carried out the geno- and
+serotyping. SDB carried out the antimicrobial resistance pattern by
+VITEK 2. FOA, TWF, MB and AOC participated in preliminary design
+as well as bacteriological analysis of part of the study. SIS, SDB, SM
+and RE drafted the manuscript. All authors read and approved the
+ﬁnal manuscript.
+
+Acknowledgements
+
+We thank Ullrich Methner (FLI, Jena, Germany) and Silke Keiling
+(FLI, Jena, Germany) for support with the classical serotyping of the
+Salmonella isolates, Keri Clack (Alere, Jena, Germany) for proof
+reading the manuscript, Annett Reibig (Alere, Jena, Germany) for
+excellent technical support, Christina Braun for continuous support
+
+as well as for proof reading of the manuscript.
+
+Appendix A. Supplementary data
+
+Supplementary data related to this article can be found at http://
+
+dx.doi.org/10.1016/j.mcp.2016.04.001.
+
+References
+
+[1] D. Alemayehu, B. Molla, A. Muckle, Prevalence and antimicrobial resistance
+pattern of Salmonella isolates from apparently healthy slaughtered cattle in
+Ethiopia, Trop. Anim. Health Prod. 35 (2003) 309e319.
+
+[2] J.Y. D'Aoust, Psychrotrophy and foodborne Salmonella, Int. J. Food Microbiol.
+
+13 (1991) 207e215.
+
+[3] A.C. Baird-Parker, Foodborne salmonellosis, Lancet 336 (1990) 1231e1235.
+[4] C. Dorneles, J.M. Correa, S. Mendes, S. Haas, M.L. Tiba, R. Campanher, Micro-
+biological analysis of the foods involved in foodborne disease outbreaks
+occurring in the Rio Grande do Sul State, Rev. Bras. Biocienc. 8 (2010) 44e48.
+[5] Anonymous, The genus Salmonella lignieres, 1900, J. Hyg. (Lond) 34 (1934)
+
+333e350.
+
+[6] P.A. Grimont, F.X. Weill, Antigenic Formulae of the Salmonella Serovars, ninth
+ed., WHO Collaborating Centre for Reference and Research on Salmonella,
+Paris, 2007.
+
+[7] K. Ballmer, B.M. Korczak, P. Kuhnert, P. Slickers, R. Ehricht, H. H€achler, Fast
+DNA serotyping of Escherichia coli by use of an oligonucleotide microarray,
+J. Clin. Microbiol. 45 (2007) 370e379.
+
+[8] S.D. Braun, A. Ziegler, U. Methner, P. Slickers, S. Keiling, S. Monecke, et al., Fast
+DNA serotyping and antimicrobial resistance gene determination of Salmo-
+nella enterica with an oligonucleotide microarray-based assay, PLoS One 7
+(2012) e46489.
+
+[9] K. Franklin, E.J. Lingohr, C. Yoshida, M. Anjum, L. Bodrossy, C.G. Clark, et al.,
+Rapid genoserotyping tool for classiﬁcation of Salmonella serovars, J. Clin.
+Microbiol. 49 (2011) 2954e2965.
+
+[10] B.J. Masten, T.M. Joys, Molecular analyses of the Salmonella g... ﬂagellar anti-
+
+gen complex, J. Bacteriol. 175 (1993) 5359e5365.
+
+[11] S. Sukhnanand, S. Alcaine, L.D. Warnick, W.L. Su, J. Hof, M.P. Craver, et al., DNA
+sequence-based subtyping and evolutionary analysis of selected Salmonella
+enterica serotypes, J. Clin. Microbiol. 43 (2005) 3688e3698.
+
+[12] P. Wattiau, T. Weijers, P. Andreoli, C. Schliker, H.V. Veken, H.M. Maas, et al.,
+Evaluation of the Premi Test Salmonella, a commercial
+low-density DNA
+microarray system intended for routine identiﬁcation and typing of Salmo-
+nella enterica, Int. J. Food Microbiol. 123 (2008) 293e298.
+
+[13] K. Fashae, F. Ogunsola, F.M. Aarestrup, R.S. Hendriksen, Antimicrobial sus-
+ceptibility and serovars of Salmonella from chickens and humans in Ibadan,
+Nigeria, J. Infect. Dev. Ctries. 4 (2010) 484e494.
+
+[14] I.A. Raufu, R.S. Hendriksen, J.A. Ameh, F.M. Aarestrup, Occurrence and char-
+acterization of Salmonella Hiduddify from chickens and poultry meat in
+Nigeria, Foodborne Pathog. Dis. 6 (2009) 425e430.
+
+[15] K.O. Akinyemi, B.A. Iwalokun, O.O. Alafe, S.A. Mudashiru, C. Fakorede, blaCTX-
+M-I group extended spectrum beta lactamase-producing Salmonella typhi
+from hospitalized patients in Lagos, Nigeria, Infect. Drug Resist. 8 (2015)
+99e106.
+
+[16] C.I. Ifeanyi, B.E. Bassey, N.F. Ikeneche, N. Al-Gallas, Molecular characterization
+and antibiotic resistance of Salmonella in children with acute gastroenteritis in
+Abuja, Nigeria, J. Infect. Dev. Ctries. 8 (2014) 712e719.
+
+[17] B. Abdullahi, K. Abdulfatai,
+
+I. Mzungu, H.I.D. Muhammad,
+A.O. Abdulsalam, Antibiotic susceptibility patterns and characterization of
+clinical Salmonella serotypes in Katsina State, Nigeria, Afr. J. Microbiol. 8
+(2014) 915e921.
+
+J.R. Wartu,
+
+[18] NCCLS, Performance Standards for Antimicrobial Susceptibility Testing: 11th
+Informational Supplement, Approved Standard M2-A7 and M7-A5, seventh
+ed., 2001. Wayne, Pennsylvania.
+
+[19] R-Development-Core-Team, R: A Language and Environment for Statistical
+Computing, R Foundation for Statistical Computing, Vienna, Austria, 2008,
+ISBN 3-900051-07-0. http://www.R-project.org.
+
+[20] R.A. Fisher, On the interpretation of X2 from contingency tables, and the
+
+calculation of P, J. R. Stat. Soc. 85 (1922) 87e94.
+
+[21] I.A. Raufu, K. Fashae, J.A. Ameh, A. Ambali, F.T. Ogunsola, A.O. Coker, et al.,
+Persistence of ﬂuoroquinolone-resistant Salmonella enterica serovar Kentucky
+from poultry and poultry sources in Nigeria, J. Infect. Dev. Ctries. 8 (2014)
+384e388.
+
+[22] A. Kagambega, T. Lienemann, L. Aulu, A.S. Traore, N. Barro, A. Siitonen, et al.,
+Prevalence and characterization of Salmonella enterica from the feces of cattle,
+poultry, swine and hedgehogs in Burkina Faso and their comparison to human
+Salmonella isolates, BMC Microbiol. 13 (2013) 253.
+
+[23] L. Souﬁ, Y. Saenz, M. de Toro, M.S. Abbassi, B. Rojo-Bezares, L. Vinue, et al.,
+Phenotypic and genotypic characterization of Salmonella enterica recovered
+from poultry meat in Tunisia and identiﬁcation of new genetic traits, Vector
+Borne Zoonotic Dis. 12 (2012) 10e16.
+
+[24] K.O. Akinyemi, S.I. Smith, A.O. Oyefolu, A.O. Coker, Multidrug resistance in
+Salmonella enterica serovar typhi isolated from patients with typhoid fever
+complications in Lagos, Nigeria, Public Health 119 (2005) 321e327.
+
+Please cite this article in press as: S. Smith, et al., Serogenotyping and antimicrobial susceptibility testing of Salmonella spp. isolated from retail
+meat samples in Lagos, Nigeria, Molecular and Cellular Probes (2016), http://dx.doi.org/10.1016/j.mcp.2016.04.001
+
+6
+
+S. Smith et al. / Molecular and Cellular Probes xxx (2016) 1e6
+
+[25] G.T. Adeyanju, O. Ishola, Salmonella and Escherichia coli contamination of
+poultry meat from a processing plant and retail markets in Ibadan, Oyo State,
+Nigeria, Springerplus 3 (2014) 1e9.
+
+[26] L.J. Piddock, Multidrug-resistance efﬂux pumps - not just for resistance, Nat.
+
+Rev. Microbiol. 4 (2006) 629e636.
+
+[27] A. Lauri, P.O. Mariani, Potentials and limitations of molecular diagnostic
+
+methods in food safety, Genes Nutr. 4 (2009) 1e12.
+
+[28] S.D. Braun, S. Monecke, A. Thurmer, A. Ruppelt, O. Makarewicz, M. Pletz, et al.,
+Rapid identiﬁcation of carbapenemase genes in gram-negative bacteria with
+an oligonucleotide microarray-based assay, PLoS One 9 (2014) e102232.
+
+[29] L. Geue, S. Monecke, I. Engelmann, S. Braun, P. Slickers, R. Ehricht, Rapid
+microarray-based DNA genoserotyping of Escherichia coli, Microbiol. Immu-
+nol. 58 (2014) 77e86.
+
+[30] L. Geue, B. Stieber, S. Monecke, I. Engelmann, F. Gunzer, P. Slickers, et al.,
+Development of a rapid microarray-based DNA subtyping assay for the alleles
+of Shiga toxins 1 and 2 of Escherichia coli, J. Clin. Microbiol. 52 (2014)
+2898e2904.
+
+[31] H. Barua, P.K. Biswas, K.E. Olsen, J.P. Christensen, Prevalence and character-
+ization of motile Salmonella in commercial layer poultry farms in Bangladesh,
+PLoS One 7 (2012) e35914.
+
+Please cite this article in press as: S. Smith, et al., Serogenotyping and antimicrobial susceptibility testing of Salmonella spp. isolated from retail
+meat samples in Lagos, Nigeria, Molecular and Cellular Probes (2016), http://dx.doi.org/10.1016/j.mcp.2016.04.001
+
+

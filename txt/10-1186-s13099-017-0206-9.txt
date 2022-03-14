@@ -1,0 +1,3676 @@
+Moawad et al. Gut Pathog  (2017) 9:57 
+DOI 10.1186/s13099-017-0206-9
+
+Gut Pathogens
+
+RESEARCH
+Occurrence of Salmonella enterica 
+and Escherichia coli in raw chicken and beef 
+meat in northern Egypt and dissemination 
+of their antibiotic resistance markers
+
+Open Access
+
+Amira A. Moawad1,2, Helmut Hotzel1, Omnia Awad4, Herbert Tomaso1, Heinrich Neubauer1, Hafez M. Hafez5 
+and Hosny El‑Adawy1,3* 
+
+Abstract 
+Background:  The global incidence of foodborne infections and antibiotic resistance is recently increased and con‑
+sidered of public health concern. Currently, scarcely information is available on foodborne infections and ESBL associ‑
+ated with poultry and beef meat in Egypt.
+Methods:  In total, 180 chicken and beef meat samples as well as internal organs were collected from different 
+districts in northern Egypt. The samples were investigated for the prevalence and antibiotic resistance of Salmonella 
+enterica serovars and Escherichia coli. All isolates were investigated for harbouring class 1 and class 2 integrons.
+Results:  Out of 180 investigated samples 15 S. enterica (8.3%) and 21 E. coli (11.7%) were isolated and identified. 
+S. enterica isolates were typed as 9 S. Typhimurium (60.0%), 3 S. Paratyphi A (20.0%), 2 S. Enteritidis (13.3%) and 1 S. 
+Kentucky (6.7%). Twenty‑one E. coli isolates were serotyped into O1, O18, O20, O78, O103, O119, O126, O145, O146 
+and O158. The phenotypic antibiotic resistance profiles of S. enterica serovars to ampicillin, cefotaxime, cefpodoxime, 
+trimethoprim/sulphamethoxazole and tetracycline were 86.7, 80.0, 60.0, 53.3 and 40.0%, respectively. Isolated E. coli 
+were resistant to tetracycline (80.9%), ampicillin (71.4%), streptomycin, trimethoprim/sulphamethoxazole (61.9% 
+for each) and cefotaxime (33.3%). The dissemination of genes coding for ESBL and AmpC β‑lactamase in S. enterica 
+isolates included blaCTX‑M (73.3%), blaTEM (73.3%) and blaCMY (13.3%). In E. coli isolates blaTEM, blaCTX‑M and blaOXA were 
+identified in 52.4, 42.9 and 14.3%, respectively. The plasmid‑mediated quinolone resistance genes identified in S. 
+enterica were qnrA (33.3%), qnrB (20.0%) and qnrS (6.7%) while qnrA and qnrB were detected in 33.3% of E. coli isolates. 
+Class 1 integron was detected in 13.3% of S. enterica and in 14.3% of E. coli isolates. Class 2 integron as well as the 
+colistin resistance gene mcr‑1 was not found in any of E. coli or S. enterica isolates.
+Conclusions:  This study showed high prevalence of S. enterica and E. coli as foodborne pathogens in raw chicken and 
+beef meat in Nile Delta, Egypt. The emergence of antimicrobial resistance in S. enterica and E. coli isolates is of public 
+health concern in Egypt. Molecular biological investigation elucidated the presence of genes associated with antibi‑
+otic resistance as well as class 1 integron in S. enterica and E. coli.
+Keywords:  Salmonella, Escherichia coli, Antibiotic resistance, Integron, Egypt
+
+*Correspondence:  hosny.eladawy@fli.de 
+1 Friedrich‑Loeffler‑Institut, Institute of Bacterial Infections and Zoonoses, 
+Naumburger Str. 96a, 07743 Jena, Germany
+Full list of author information is available at the end of the article
+
+© The Author(s) 2017. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License 
+(http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, 
+provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, 
+and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Moawad et al. Gut Pathog  (2017) 9:57 
+
+Page 2 of 13
+
+Background
+In spite of the improved technology and hygienic prac-
+tices in developed countries at all stages of poultry and 
+beef meat production, foodborne infections remain as a 
+continuous threat to human and animal health. Escheri-
+chia  (E.)  coli  and  S.  enterica  serovars  are  the  dominant 
+members of Enterobacteriaceae causing foodborne infec-
+tions. The expansion of antibiotic resistance in bacteria is 
+also an emerging public health hazard due to the com-
+promised efficacy in the treatment of infectious diseases 
+[1].
+
+The  continuous  exposure  of  bacterial  strains  by 
+β-lactams  has  led  to  dynamic  and  massive  production 
+and  mutation  of  β-lactamases  [2].  Extended-spectrum 
+β-lactamases (ESBLs) are derived from point mutations 
+in  the  blaTEM-1  and  blaSHV-1  β-lactamase  genes,  which 
+cannot hydrolyse cephamycins and are inhibited by cla-
+vulanic  acid  [3],  while  ampicillin  class  C  β-lactamase 
+(AmpC)  enzymes  are  active  on  cephamycins  as  well  as 
+oxyiminocephalosporins  and  monobactams  [4].  ESBLs 
+are mostly located on mobile genetic elements (plasmids 
+or  integrons),  which  can  facilitate  their  mobility  from 
+bacterial species to others by horizontal gene transfer [5].
+In  Egypt,  Salmonella  isolates  from  chicken  meat  and 
+organs  showed  high  resistance  to  different  antibiotic 
+classes  [6–8]  where  also,  ESBL-producing  E.  coli  were 
+isolated from retail chicken meat and dairy products in 
+Egypt [9, 10].
+
+Quinolones considered as drugs of choice for treatment 
+of human infections caused by Gram-negative bacteria. 
+However,  resistance  to  quinolones  has  been  emerged 
+over the time due to misuse and/or overdose of drugs in 
+human  and  veterinary  practice  [11].  Plasmid-mediated 
+quinolone resistance (PMQR) represented by quinolone 
+resistance (qnr) genes is widely distributed among bacte-
+ria [12–14].
+
+resistance determinants by integrons stimulates the rapid 
+evolution of multidrug resistances (MDR) among Gram-
+negative bacteria [16]. Among five main integron classes, 
+integrons  1  and  2  are  most  frequent  in  Gram-negative 
+bacteria.  More  than  70  different  antibiotic  resistance 
+genes have been characterized within integrons [16].
+
+Colistin  as  antimicrobial  substance  was  used  against 
+Gram-negative bacteria. Its usage has been limited due to 
+its systemic toxicity but it was re-introduced as a last-line 
+option in treatment of human infections [17, 18].
+
+This  study  aimed  to  discuss  the  prevalence,  serotyp-
+ing,  antibiotic  resistance  and  characterization  of  resist-
+ance-associated genes in S. enterica serovars and E. coli 
+isolated from beef and poultry meat products in the Nile 
+Delta, Egypt.
+
+Methods
+Sampling, isolation and identification of bacteria
+One  hundred  and  eighty  samples  were  randomly  col-
+lected  aseptically  (90  chicken  and  90  beef  meat  and 
+organs)  from  slaughterhouses  and  markets  in  four  dis-
+tricts  in  northern  Egypt  (Dakahlia,  Damietta,  Kafr  El-
+Sheikh  and  Gharbia  governorates).  Briefly,  30  samples 
+of freshly slaughtered chickens and 30 samples of native 
+frozen chickens from restaurants and supermarkets (each 
+15  from  breast  and  from  thigh  muscles  and  skin)  were 
+taken. Thirty samples of organs (gizzard and liver) were 
+collected from freshly slaughtered chickens. In addition, 
+30  beef  meat  samples  of  freshly  slaughtered  carcasses 
+(neck,  brisket,  flank  and  rump  muscles)  were  obtained 
+from slaughterhouses. Thirty samples from locally frozen 
+beef meat, collected from supermarkets and restaurants 
+and  30  samples  from  organs  (liver,  spleen  and  heart) 
+from freshly slaughtered animals were used in this study 
+(Tables 1, 2). 
+
+Ten grams of each meat and organ sample were incised 
+using  sterile  scalpel  and  forceps,  transported  immedi-
+ately to the laboratory in ice bags, then transferred into 
+sterile  homogenizer  flask  containing  45  ml  of  nutri-
+ent  broth  (Oxoid,  Manchester,  UK).  The  mixture  was 
+
+Integrons  are  genetic  elements  able  to  capture  indi-
+vidual antibiotic resistance genes including β-lactamases 
+encoding  genes  and  stimulate  their  transcription  and 
+expression  [15].  The  capture  and  spread  of  antibiotic 
+
+Table 1  Sources, number of S. enterica isolates and results of their serovar identification
+
+Serovar
+
+Poultry
+
+Fresh meat
+(n = 30)
+
+S. Typhimurium 2
+S. Paratyphi A
+0
+1
+S. Enteritidis
+1
+S. Kentucky
+Total
+4
+
+Frozen meat
+(n = 30)
+0
+1
+0
+0
+1
+
+Fresh organs
+(n = 30)
+1
+1
+0
+0
+2
+
+Total
+n (%)
+
+3 (3.3)
+2 (6.7)
+1 (3.3)
+1 (3.3)
+7 (7.8)
+
+Beef
+
+Fresh meat
+(n = 30)
+3
+0
+1
+0
+4
+
+Frozen meat
+(n = 30)
+1
+0
+0
+0
+1
+
+Fresh organs
+(n = 30)
+2
+1
+0
+0
+3
+
+Total
+n (%)
+
+6 (6.7)
+1 (3.3)
+1 (3.3)
+0 (0)
+8 (8.8)
+
+(Poultry + beef)
+n (%)
+
+9 (60.0)
+3 (20.0)
+2 (13.3)
+1 (6.7)
+15 (100)
+
+Moawad et al. Gut Pathog  (2017) 9:57 
+
+Page 3 of 13
+
+Table 2  Sources, number of E. coli isolates and results of their serogroup identification
+
+Serogroup
+
+O1
+O18
+O20
+O78
+O103
+O119
+O126
+O145
+O146
+O158
+Total
+
+Fresh poultry 
+meat
+(n = 30)
+1
+2
+1
+1
+0
+1
+0
+0
+0
+0
+6
+
+Frozen poultry 
+meat
+(n = 30)
+1
+1
+–
+0
+0
+–
+0
+0
+1
+0
+3
+
+Fresh poultry 
+organs
+(n = 30)
+0
+1
+1
+0
+0
+–
+1
+1
+0
+0
+4
+
+Fresh beef 
+meat
+(n = 30)
+0
+0
+–
+1
+0
+1
+0
+0
+0
+1
+3
+
+Frozen beef 
+meat
+(n = 30)
+0
+0
+–
+1
+1
+–
+1
+0
+0
+1
+4
+
+Fresh beef 
+organs
+(n = 30)
+0
+0
+–
+1
+0
+–
+0
+0
+0
+0
+1
+
+Total number 
+of isolates
+
+% of E. coli 
+isolates
+
+2
+4
+2
+4
+1
+2
+2
+1
+1
+2
+21
+
+9.5
+19
+9.5
+19
+4.8
+9.5
+9.5
+4.8
+4.8
+9.5
+100
+
+allowed to stand for 15 min at room temperature. From 
+each sample, 1 ml was added to 9 ml of buffered peptone 
+water (Oxoid) for E. coli cultivation and 9 ml of Rappa-
+port–Vassiliadis  broth  (Oxoid)  for  S.  enterica  isolation. 
+After  aerobic  incubation  at  37  °C  overnight,  a  loop-
+ful  from  Rappaport–Vassiliadis  broth  was  streaked  on 
+xylose lysine deoxycholate (XLD) agar (Oxoid) and from 
+buffered peptone water on eosin methylene blue (EMB) 
+agar (Oxoid). The inoculated plates were incubated aer-
+obically  at  37  °C  for  18–24  h.  Suspected  colonies  were 
+identified  biochemically  using  API  20E  (bioMérieux, 
+Marcy-l’Étoile, France).
+
+All biochemically confirmed Salmonella isolates were 
+serotyped on the basis of somatic (O) and flagellar (H) 
+antigens  by  slide  agglutination  test  using  commercial 
+antisera (SIFIN, Berlin, Germany) following Kauffman–
+White scheme [19]. Serological identification of E. coli 
+was carried out using slide agglutination method using 
+commercial  antisera  (SIFIN).  The  serotyping  was  car-
+ried out at the Serology Unit, Animal Health Research 
+Institute,  Dokki,  Egypt,  and  the  Bacteriology  Labora-
+tory, Central Laboratories of Ministry of Health, Cairo, 
+Egypt.
+
+DNA extraction and purification
+The identified bacterial cultures were cultivated in Luria–
+Bertani (LB) broth (Oxoid) at 37 °C overnight. DNA was 
+extracted  and  purified  using  DNeasy  Blood  and  Tissue 
+Kits  (Qiagen,  Manchester,  UK)  according  to  the  manu-
+facturer’s instructions.
+
+Molecular identification of S. enterica serovars and E. coli
+The isolated strains were further identified as S. enterica 
+and  E.  coli  using  PCR  assays.  The  amplification  targets 
+and  primers  (Eurofins,  Yokohama,  Japan)  are  listed  in 
+
+Table  3.  All  phenotypically  identified  S.  enterica  sero-
+vars were tested for harbouring ompC gene. Isolated E. 
+coli were confirmed by species-specific PCR targeting the 
+16S rRNA genes and resulting in a 585 bp amplicon. PCR 
+assays used in this study resulted in Salmonella, S. Ente-
+ritidis and S. Typhimurium specific products of 204, 304 
+and 401 bp length, respectively.
+
+The PCR protocol consisted of the following steps: (i) 
+an initial denaturation step of 2 min at 95 °C; (ii) 30 cycles 
+with 1 cycle consisting of 1 min at 95 °C, 1 min at 57 °C, 
+and  2  min  at  72  °C;  and  (iii)  a  final  elongation  step  of 
+5 min at 72 °C.
+
+Five-microliter aliquots of reaction mixture were run in 
+electrophoreses  using  1.5%  agarose  gels  (Nippon  Gene, 
+Tokyo, Japan) and visualized under UV light after ethid-
+ium bromide staining.
+
+Determination of antimicrobial susceptibility profiles
+The  antimicrobial  susceptibility  was  determined  using 
+the Kirby–Bauer disc diffusion test [20]. Briefly, one col-
+ony picked up, streaked on Mueller–Hinton blood agar 
+(Oxoid) and incubated at 37 °C overnight. Bacterial col-
+onies were suspended in 0.9% NaCl to obtain a McFar-
+land turbidity of 0.5 (Dr. Lange, photometer CADAS 30, 
+Berlin, Germany) containing 1–2  × 108 colony-forming 
+units (CFU)/ml of E. coli strain ATCC 25922. Three hun-
+dred μl of the suspension were spread onto the surface of 
+a Mueller–Hinton agar plate (Oxoid) using a sterile swab. 
+The antimicrobial discs (Oxoid) of thirteen clinically used 
+antibiotics, which are used in the Egyptian poultry and 
+cattle farms (Tables 4, 5) were distributed onto the sur-
+face of the Mueller–Hinton agar plates using a multi-disc 
+dispenser  (Oxoid).  The  plates  were  incubated  at  37  °C 
+overnight. The diameters of inhibition zones were meas-
+ured using sliding calipers and interpreted using standard 
+
+Moawad et al. Gut Pathog  (2017) 9:57 
+
+Page 4 of 13
+
+Table 3  PCR primers, their sequences and amplification targets used in this study
+
+Primer
+
+Sequence (5′–3′)
+
+Amplicon size (bp)
+
+Amplification target
+
+References
+
+GAC CTC GGT TTA GTT CAC AGA
+CAC ACG CTG ACG CTG ACC A
+ATC GCT GAC TTA TGC AAT CG
+CGG GTT GCG TTA TAG GTC TG
+TGT GTT TTA TCT GAT GCA AGA GG
+TGA ACT ACG TTC GTT CTT CTG G
+TTG TTC ACT TTT TAC CCC TGA A
+CCC TGA CAG CCG TTA GAT ATT
+
+ATA AAA TTC TTG AAG ACG AAA
+GAC AGT TAC CAA TGC TTA ATC
+TCA ACT TTC AAG ATC GCA
+GTG TGT TTA GAA TGG TGA
+ATT AAG CCC TTT ACC AAA CCA
+AAG GGT TGG GCG ATT TTG CCA
+GAT CGG ATT GGA GAA CCA GA
+ATT TCT GAC CGC ATT TCC AT
+CGC TTT GCG ATG TGC AG
+ACC GCG ATA TCG TTG GT
+CCA GAA TAA GGA ATC CCA TG
+GCC GTC TAA GGC GAT AAA C
+GAC AGC CTC TTT CTC CAC A
+TGG AAC GAA GGC TAC GTA
+ACG GAA CTG ATT TCA TGA TG
+GAA AGG AGG CCC AAT ATC CT
+TTA TCT CCC TGT TAG CCA CC
+GAT TTG CTG ATT TCG CTC GG
+
+E. coli, Salmonella enterica and Salmonella serovar identification
+ ECO‑f
+ ECO‑r
+ OMPCF
+ OMPCR
+ ENTF
+ ENTR
+ TYPHF
+ TYPHR
+β‑Lactamases
+ TEM‑F
+ TEM‑R
+ OXA‑F
+ OXA‑R
+ OXA‑F‑2
+ OXA‑R‑2
+ OXA‑23‑F
+ OXA‑23‑R
+ CTX‑M‑F
+ CTX‑M‑R
+ CTX‑M‑F2
+ CTX‑M‑R2
+ CMY‑F
+ CMY‑R
+ CMY‑F2
+ CMY‑R2
+ SHV‑F
+ SHV‑R
+Integrons
+ 5′‑CS
+ 3′‑CS
+ hep74
+ hep51
+Plasmid‑mediated quinolone resistance gene
+ qnrA‑F
+ qnrA‑R
+ qnrB‑F
+ qnrB‑R
+ qnrS‑F
+ qnrS‑R
+Plasmid‑mediated colistin resistance gene
+ CLR5‑F
+ CLR5‑R
+
+GGC ATC CAA GCA GCA AG
+AAG CAG ACT TGA CCT GA
+CGG GAT CCC GGA CGG CAT GCA CGA TTT GTA
+GAT GCC ATC GCA AGT ACG AG
+
+ATT TCT CAC GCC AGG ATT TG
+GAT CGG CAA AGG TTA GGT CA
+GAT CGT GAA AGC CAG AAA GG
+ACG ATG CCT GGT AGT TGT CC
+ACG ACA TTC GTC AAC TGC AA
+TAA ATT GGC ACC CTG TAG GC
+
+CGG TCA GTC CGT TTG TTC
+CTT GGT CGG TCT GTA GGG
+
+585
+
+204
+
+304
+
+401
+
+1080
+
+591
+
+501
+
+550
+
+1007
+
+795
+
+152
+
+491
+
+516
+
+469
+
+417
+
+308
+
+E. coli
+
+Salmonella genus
+
+S. Enteritidis
+
+S. Typhimurium
+
+blaTEM
+
+blaOXA
+
+Whole blaOXA
+
+blaOXA‑23
+
+blaCTX‑M
+
+Whole blaCTX‑M
+
+blaCMY
+
+Whole blaCMY
+
+blaSHV
+
+Class 1 integron
+
+Class 2 integron
+
+qnrA
+
+qnrB
+
+qnrS
+
+mcr‑1
+
+[67]
+
+[68]
+
+[68]
+
+[68]
+
+[69]
+
+[69]
+
+[69]
+
+[25]
+
+[69]
+
+[69]
+
+[69]
+
+[69]
+
+[69]
+
+[69]
+
+[69]
+
+[69]
+
+[69]
+
+[69]
+
+[24]
+
+Moawad et al. Gut Pathog  (2017) 9:57 
+
+Page 5 of 13
+
+ 
+
+d
+e
+s
+u
+
+ 
+
+s
+e
+t
+a
+l
+o
+s
+i
+ 
+
+a
+c
+i
+r
+e
+t
+n
+e
+
+ 
+.
+S
+
+ 
+
+5
+1
+
+ 
+f
+o
+
+ 
+
+s
+e
+l
+fi
+o
+r
+p
+y
+t
+i
+l
+i
+
+ 
+
+b
+i
+t
+p
+e
+c
+s
+u
+s
+
+ 
+l
+a
+i
+b
+o
+r
+c
+i
+m
+
+i
+t
+n
+a
+
+ 
+
+c
+i
+p
+y
+t
+o
+n
+e
+h
+p
+d
+n
+a
+
+ 
+
+ 
+
+1
+1
+0
+2
+
+ 
+
+ 
+,
+I
+S
+L
+C
+o
+t
+ 
+g
+n
+d
+r
+o
+c
+c
+a
+
+i
+
+ 
+
+s
+t
+n
+e
+g
+a
+
+ 
+l
+a
+i
+b
+o
+r
+c
+i
+m
+
+i
+t
+n
+a
+
+ 
+f
+o
+
+ 
+
+s
+e
+u
+l
+a
+v
+
+i
+
+ 
+t
+n
+o
+p
+k
+a
+e
+r
+B
+
+y
+d
+u
+t
+s
+s
+i
+h
+t
+ 
+n
+
+ 
+
+i
+
+ 
+
+ 
+
+4
+e
+l
+b
+a
+T
+
+)
+
+%
+7
+(
+ 
+1
+
+)
+
+%
+7
+(
+ 
+1
+
+–
+
+–
+
+)
+
+%
+0
+0
+1
+(
+ 
+5
+1
+
+)
+
+%
+3
+5
+(
+ 
+8
+
+)
+
+%
+7
+6
+(
+ 
+0
+1
+
+)
+
+%
+0
+2
+(
+ 
+3
+
+)
+
+%
+7
+(
+ 
+1
+
+–
+
+–
+
+)
+
+%
+0
+2
+(
+ 
+3
+
+S
+
+–
+
+–
+
+)
+5
+1
+(
+ 
+a
+
+l
+
+l
+l
+e
+n
+o
+m
+a
+S
+ 
+l
+a
+t
+o
+T
+
+I
+
+R
+
+)
+
+%
+7
+4
+(
+ 
+7
+
+)
+
+%
+3
+1
+(
+ 
+2
+
+)
+
+%
+3
+1
+(
+ 
+2
+
+)
+
+%
+0
+4
+(
+ 
+6
+
+)
+
+%
+7
+6
+(
+ 
+0
+1
+
+)
+
+%
+7
+6
+(
+ 
+0
+1
+
+)
+
+%
+7
+4
+(
+ 
+7
+
+)
+
+%
+3
+3
+(
+ 
+5
+
+)
+
+%
+3
+7
+(
+ 
+1
+1
+
+)
+
+%
+7
+6
+(
+ 
+0
+1
+
+)
+
+%
+7
+6
+(
+ 
+0
+1
+
+)
+
+%
+0
+6
+(
+ 
+9
+
+)
+
+%
+6
+2
+(
+ 
+4
+
+–
+
+)
+
+%
+3
+5
+(
+ 
+8
+
+)
+
+%
+7
+8
+(
+ 
+3
+1
+
+)
+
+%
+0
+8
+(
+ 
+2
+1
+
+)
+
+%
+0
+6
+(
+ 
+9
+
+)
+
+%
+6
+2
+(
+ 
+4
+
+)
+
+%
+3
+3
+(
+ 
+5
+
+)
+
+%
+7
+(
+ 
+1
+
+)
+
+%
+3
+3
+(
+ 
+5
+
+)
+
+%
+6
+2
+(
+ 
+4
+
+)
+
+%
+0
+4
+(
+ 
+6
+
+)
+
+%
+3
+5
+(
+ 
+8
+
+–
+
+–
+
+–
+
+ 
+i
+
+h
+p
+y
+t
+a
+r
+a
+P
+
+ 
+.
+
+S
+
+)
+3
+(
+ 
+
+A
+
+ 
+
+y
+k
+c
+u
+t
+n
+e
+K
+
+ 
+.
+
+S
+
+)
+1
+(
+
+ 
+
+s
+i
+d
+i
+t
+i
+r
+e
+t
+n
+E
+
+ 
+.
+
+S
+
+)
+2
+(
+
+i
+
+‑
+u
+m
+h
+p
+y
+T
+
+ 
+.
+
+S
+
+)
+9
+(
+ 
+
+m
+u
+i
+r
+
+S
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2
+
+3
+
+3
+
+1
+
+–
+
+1
+
+–
+
+–
+
+I
+
+1
+
+–
+
+–
+
+2
+
+2
+
+1
+
+1
+
+–
+
+–
+
+2
+
+3
+
+2
+
+3
+
+1
+
+R
+
+2
+
+3
+
+3
+
+1
+
+1
+
+2
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2
+
+S
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+I
+
+–
+
+–
+
+1
+
+1
+
+1
+
+1
+
+1
+
+–
+
+1
+
+1
+
+–
+
+–
+
+–
+
+–
+
+R
+
+1
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+1
+
+1
+
+1
+
+S
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2
+
+2
+
+1
+
+1
+
+–
+
+–
+
+–
+
+–
+
+I
+
+2
+
+–
+
+–
+
+1
+
+2
+
+2
+
+–
+
+–
+
+1
+
+1
+
+1
+
+1
+
+–
+
+1
+
+R
+
+–
+
+2
+
+2
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+1
+
+2
+
+1
+
+S
+
+–
+
+–
+
+1
+
+–
+
+1
+
+–
+
+4
+
+9
+
+6
+
+1
+
+–
+
+–
+
+–
+
+3
+
+I
+
+4
+
+2
+
+1
+
+2
+
+5
+
+6
+
+5
+
+–
+
+3
+
+7
+
+6
+
+7
+
+6
+
+2
+
+R
+
+5
+
+7
+
+7
+
+7
+
+3
+
+3
+
+–
+
+–
+
+–
+
+1
+
+3
+
+2
+
+3
+
+4
+
+S
+
+I
+
+R
+
+)
+
+m
+m
+
+(
+ 
+r
+e
+t
+e
+m
+a
+i
+d
+e
+n
+o
+Z
+
+ 
+
+)
+g
+μ
+(
+ 
+.
+c
+n
+o
+C
+
+t
+n
+e
+g
+a
+ 
+l
+a
+i
+b
+o
+r
+c
+i
+m
+
+i
+t
+n
+A
+
+ 
+
+s
+s
+a
+l
+c
+c
+i
+t
+o
+b
+i
+t
+n
+A
+
+i
+
+8
+1
+≥
+
+7
+1
+≥
+
+6
+2
+≥
+
+1
+2
+≥
+
+1
+2
+≥
+
+3
+2
+≥
+
+8
+1
+≥
+
+4
+1
+≥
+
+1
+2
+≥
+
+1
+2
+≥
+
+9
+1
+≥
+
+5
+1
+≥
+
+5
+1
+≥
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+≥
+
+7
+1
+–
+4
+1
+
+6
+1
+–
+4
+1
+
+5
+2
+–
+3
+2
+
+0
+2
+–
+8
+1
+
+0
+2
+–
+8
+1
+
+2
+2
+–
+0
+2
+
+7
+1
+–
+3
+1
+
+3
+1
+–
+2
+1
+
+0
+2
+–
+6
+1
+
+0
+2
+–
+8
+1
+
+8
+1
+–
+4
+1
+
+4
+1
+–
+2
+1
+
+4
+1
+–
+2
+1
+
+3
+
+3
+1
+≤
+
+3
+1
+≤
+
+2
+2
+≤
+
+7
+1
+≤
+
+7
+1
+≤
+
+9
+1
+≤
+
+2
+1
+≤
+
+1
+1
+≤
+
+5
+1
+≤
+
+7
+1
+≤
+
+3
+1
+≤
+
+1
+1
+≤
+
+1
+1
+≤
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4
+≤
+
+0
+2
+
+0
+1
+
+0
+3
+
+0
+2
+
+0
+3
+
+0
+3
+
+0
+3
+
+0
+1
+
+5
+
+5
+
+0
+3
+
+0
+1
+
+0
+3
+
+5
+2
+
+l
+
+e
+o
+z
+a
+x
+o
+h
+t
+e
+m
+a
+h
+p
+u
+s
+/
+
+l
+
+i
+
+n
+c
+y
+m
+o
+t
+p
+e
+r
+t
+S
+
+e
+n
+
+i
+l
+
+c
+y
+c
+a
+r
+t
+e
+T
+
+m
+
+i
+r
+p
+o
+h
+t
+e
+m
+
+i
+r
+T
+
+l
+
+e
+d
+i
+s
+o
+c
+y
+g
+o
+n
+m
+A
+
+i
+
+e
+n
+
+i
+l
+
+c
+y
+c
+a
+r
+t
+e
+T
+
+i
+
+e
+d
+m
+a
+n
+o
+h
+p
+u
+S
+
+l
+
+i
+
+ 
+
+d
+c
+a
+c
+x
+d
+
+i
+
+i
+
+i
+l
+
+a
+N
+
+i
+
+e
+m
+x
+o
+d
+o
+p
+f
+e
+C
+
+i
+
+e
+m
+d
+i
+z
+a
+t
+f
+e
+C
+
+e
+n
+o
+x
+a
+i
+r
+t
+f
+e
+C
+
+i
+
+e
+m
+x
+a
+t
+o
+f
+e
+C
+
+n
+i
+r
+o
+p
+s
+o
+a
+h
+p
+e
+C
+
+l
+
+l
+
+i
+
+o
+c
+n
+e
+h
+p
+m
+a
+r
+o
+h
+C
+
+l
+
+i
+
+n
+c
+a
+x
+o
+fl
+o
+r
+p
+C
+
+i
+
+i
+
+n
+c
+a
+x
+o
+fl
+o
+r
+n
+E
+
+n
+i
+t
+s
+i
+l
+
+o
+C
+
+s
+u
+o
+e
+n
+a
+
+l
+l
+
+e
+c
+s
+i
+
+M
+
+i
+
+l
+
+e
+n
+o
+o
+n
+u
+q
+o
+r
+o
+u
+F
+
+l
+
+i
+
+i
+
+ 
+
+d
+c
+a
+c
+n
+a
+u
+v
+a
+c
+–
+n
+
+l
+
+l
+
+i
+l
+l
+i
+
+c
+y
+x
+o
+m
+A
+
+n
+
+i
+l
+l
+i
+
+i
+
+c
+p
+m
+A
+
+n
+
+i
+l
+l
+i
+
+i
+
+c
+n
+e
+P
+
+t
+n
+a
+t
+s
+i
+s
+e
+r
+ 
+R
+
+ 
+,
+
+i
+
+e
+t
+a
+d
+e
+m
+r
+e
+t
+n
+
+i
+ 
+I
+ 
+,
+
+e
+v
+i
+t
+i
+s
+n
+e
+s
+ 
+S
+
+Moawad et al. Gut Pathog  (2017) 9:57 
+
+Page 6 of 13
+
+Table 5  Breakpoint values of antimicrobial agents according to CLSI, 2011 and phenotypic antimicrobial susceptibility 
+profiles of E. coli isolates used in this study
+
+Antibiotic class
+
+Antimicrobial agent
+
+Conc. (μg) Zone diameter (9)
+
+E. coli (21)
+
+Resistance rate
+
+Poultry 
+(15)
+
+Beef (6) Total (21)
+
+Poultry Beef Total
+
+R
+
+I
+
+S
+
+R
+
+I
+
+S
+
+R I
+
+S R
+
+I
+
+S %
+
+%
+
+%
+
+Penicillin
+
+Cephalosporin
+
+Miscellaneous
+
+Fluoroquinolone
+
+Aminoglycoside
+Tetracycline
+Sulphonamide
+
+20
+Amoxycillin–clavulanic acid
+10
+Ampicillin
+30
+Cefotaxime
+20
+Cefpodoxime
+30
+Ceftazidime
+30
+Ceftriaxone
+30
+Chloramphenicol
+10
+Colistin
+5
+Ciprofloxacin
+5
+Enrofloxacin
+30
+Nalidixic acid
+10
+Streptomycin
+Tetracycline
+30
+Trimethoprim/sulphamethoxazole 25
+
+S sensitive, I intermediate, R resistant
+
+3 3 – 13 7
+1
+≤ 13 14–17 ≥ 18 10 4
+3 3 – 15 5
+1
+≤ 13 14–16 ≥ 17 12 2
+1 3 2 7
+7
+≤ 22 23–25 ≥ 26 6
+2
+2 4 – 5
+12 –
+≤ 17 18–20 ≥ 21 3
+– 6 – 5
+≤ 17 18–20 ≥ 21 5
+9
+1
+1 3 2 4
+7
+5
+≤ 19 20–22 ≥ 23 3
+3
+9
+≤ 12 13–17 ≥ 18 3
+1 1 4 4
+14 – – 6 –
+1
+≤ 11 12–13 ≥ 14 –
+≤ 15 16–20 ≥ 21 4
+3
+8
+2 2 2 6
+1 4 1 3
+5
+≤ 17 18–20 ≥ 21 2
+8
+1 2 3 6
+12 3
+≤ 13 14–18 ≥ 19 5
+4 2 – 13 7
+1
+≤ 11 12–14 ≥ 15 9
+5
+5 1 – 17 4
+–
+≤ 11 12–14 ≥ 15 12 3
+≥ 2 10 2
+≤ 4
+3
+3 – 3 17 2
+
+66.7
+80.0
+40.0
+20.0
+33.3
+20.0
+20.0
+
+1
+1
+10 4
+16 –
+15 1
+8
+9
+10 7
+20 –
+1
+10 26.7
+5
+13.3
+9
+9
+33.3
+14 6
+60.0
+1
+80.0
+–
+6
+66.7
+
+3
+
+50.0
+50.0
+16.7
+33.3
+0
+16.7
+16.7
+–
+33.3
+16.7
+16.7
+66.7
+83.3
+50.0
+
+61.9
+71.4
+33.3
+23.8
+23.8
+19.0
+19.0
+–
+28.6
+14.3
+28.6
+61.9
+81.0
+81.0
+
+break points according to Clinical and Laboratory Stand-
+ards Institute [21].
+
+The  antimicrobial  susceptibility  of  colistin  was  deter-
+mined  by  disc  diffusion  susceptibility  testing  using 
+colistin  discs  (Oxoid)  containing  10  μg.  The  disc  zone 
+diameters was interpreted according to previous report 
+[22].
+
+Molecular detection of antimicrobial resistance associated 
+genes
+Escherichia  coli  and  S.  enterica  isolates  were  tested  for 
+β-lactamase-encoding  genes  blaTEM,  blaSHV,  blaCTX-M, 
+blaOXA  and  blaCMY  by  PCR  using  universal  primers  for 
+the  corresponding  gene  families  (Table  3)  as  described 
+previously  [23].  PCR  amplification  was  also  used  for 
+screening  of  plasmid-mediated  quinolone  resistance 
+genes qnrA, qnrB and qnrS.
+
+For  detection  of  variants  of  blaTEM,  blaSHV,  blaCTX-M, 
+blaOXA and blaCMY amplified PCR fragments were puri-
+fied  from  agarose  gels  using  Nucleospin  Gel  Extraction 
+Kit  (Macherey–Nagel,  Düren,  Germany).  The  products 
+were sequenced and the sequencing results were analyzed 
+using BLAST (http://blast.ncbi.nlm.nih.gov/blast.cgi).
+
+Colistin  resistance  associated  gene  mcr-1was  identi-
+fied using a PCR assay (Table 3) as described by Liu et al. 
+[24].  PCR  for  detection  of  carbapenemases  blaOXA-23 
+gene  was  performed  using  OXA-23-F  and  OXA-23-R 
+
+(Table 3). PCR reaction and conditions were performed 
+according to Braun et al. [25].
+
+Detection and sequencing of class 1 and class 2 integrons
+PCR assays for detection of class 1 and class 2 integrons 
+were  performed  using  primers  given  in  Table  3  and 
+yielded PCR fragments that were purified from agarose 
+gels  using  Nucleospin  Gel  Extraction  Kit  (Macherey–
+Nagel, Düren, Germany). The products were sequenced 
+in Genome Centre, Gifu University, Japan. The sequenc-
+ing results were analyzed using BLAST (http://blast.ncbi.
+nlm.nih.gov/blast.cgi).
+
+Results
+Out  of  180  examined  samples  15  S.  enterica  (8.3%)  (7 
+from poultry and 8 from beef) (Table 1) as well as 21 E. 
+coli (11.7%) (15 from poultry and 6 from beef) (Table 2) 
+were isolated and identified using bacteriological meth-
+ods and biochemical characterization.
+
+Serological characterization of S. enterica and E. coli
+Fifteen  isolated  S.  enterica  were  typed  as  9  S.  enterica 
+serovar Typhimurium (60.0%; 3 from chicken and 6 from 
+beef), 3 S. enterica Paratyphi A (20.0%; 2 from chickens 
+and 1 from beef), 2 S. enterica serovar Enteritidis (13.3%; 
+1 from chicken and 1 from beef) and 1 S. enterica serovar 
+Kentucky (6.7%) from chicken sample (Table 1).
+
+Moawad et al. Gut Pathog  (2017) 9:57 
+
+Page 7 of 13
+
+Twenty-one E. coli isolates were characterized as 4 O18 
+(19.0%) and 4 O78 (19.0%) serotypes. Other serotypes are 
+given in Table 2.
+
+Molecular identification of Salmonella serovars
+All  15  recovered  S.  enterica  serovars  harboured  ompC 
+gene, which confirms Salmonella genus. Nine S. enterica 
+serovar Typhimurium (60.0%) and two S. enterica serovar 
+Enteritidis (13.3%) were identified by means of serovar-
+specific  bands  using  PCR  (Table  3).  Four  other  isolates 
+could not be typed with PCR method (26.7%).
+
+Determination of antimicrobial susceptibility profiles
+The results of determination of antimicrobial resistance 
+of  S.  enterica  and  E.  coli  isolates  to  thirteen  antibiotics 
+are given in Tables 4 and 5. Most of the S. enterica iso-
+lates showed resistance to ampicillin (87.0%) and cefotax-
+ime (80.0%) and all were susceptible to chloramphenicol, 
+colistin and ciprofloxacin. Resistance to other antibiotics 
+was shown in Table 4.
+
+Seven  isolates  of  S.  enterica  serovar  Typhimurium 
+were resistant to ampicillin, cefotaxime and cefpodoxime 
+(77.8%), while 6 isolates (66.7%) were highly sensitive to 
+ciprofloxacin. Resistance to other antibiotics was weaker 
+developed.
+
+Both S. enterica serovar Enteritidis isolates were resist-
+ant  to  ampicillin,  cefotaxime  and  tetracycline.  Addi-
+tionally,  one  isolate  showed  resistance  to  streptomycin, 
+nalidixic  acid,  trimethoprim/sulphamethoxazole  and 
+streptomycin.
+
+In  addition  to  the  entire  resistance  to  ampicillin  and 
+cefotaxime, majority of the S. enterica serovar Paratyphi 
+A  isolates  were  resistant  to  amoxicillin–clavulanic  acid, 
+ceftriaxone and trimethoprim/sulphamethoxazole.
+
+Salmonella  enterica  serovar  Kentucky  isolate  showed 
+no  pronounced  susceptibility  to  any  of  the  tested  anti-
+biotics and was resistant to six of them (Table 4). Seven 
+out of 15 S. enterica serovars (46.7%) revealed phenotypic 
+multidrug resistance exhibiting by resistance to three or 
+more classes of antibiotics (Table 4).
+
+Escherichia  coli  isolates  showed  resistance  to  tetra-
+trimethoprim/sul-
+cycline,  ampicillin,  streptomycin, 
+phamethoxazole  and  amoxicillin–clavulanic  acid  with 
+80.9, 71.4, 61.9, 61.9 and 61.9%, respectively. Ten (47.6%), 
+9 (42.8%) and 9 (42.8%) isolates were susceptible to cip-
+rofloxacin,  enrofloxacin  and  ceftriaxone,  respectively. 
+All  tested  isolates  were  susceptible  to  colistin.  Thirteen 
+E.  coli  isolates  (61.9%)  were  characterized  as  multidrug 
+resistant (Table 5).
+
+The multidrug resistance of isolated Salmonella and E. 
+
+coli was shown in Tables 6 and 7, respectively. 
+
+Molecular detection of resistance‑associated genes
+Six  of  8  screened  resistance-associated  genes  were 
+detected in S. enterica serovars by PCR (Table 6). Eleven 
+(73.3%)  isolates  harboured  blaCTX-M  gene  (1,  3  and  14) 
+associated  with  cefotaxime  resistance  and  11  (73.3%) 
+isolates  harboured  blaTEM-1  gene  associated  with  peni-
+cillin and narrow spectrum β-lactamase resistance. Five 
+(33.3%)  isolates  harboured  quinolone  resistance  gene 
+
+Table 6  Phenotypic resistance and resistance determinants found in S. enterica isolates in this study
+
+Source
+
+Serovar
+
+Resistance phenotype
+
+Resistance genes/class 1 integrons
+
+Poultry
+ Fresh poultry meat
+ Fresh poultry meat
+ Fresh poultry meat
+ Fresh poultry meat
+ Fresh poultry organs (liver)
+ Fresh poultry organs (liver)
+ Frozen poultry meat
+Beef
+ Fresh beef meat
+ Fresh beef meat
+ Fresh beef meat
+ Fresh beef meat
+ Fresh beef organs (spleen)
+ Fresh beef organs (liver)
+ Fresh beef organs (liver)
+ Frozen beef meat
+
+Typhimurium CPD, CTX, NAL
+Typhimurium AMC, AMP, CPD
+Enteritidis
+Kentucky
+Typhimurium AMC, AMP, CPD, CRO, CTX, NAL, T/S
+Paratyphi A
+Paratyphi A
+
+AMC, AMP, CAZ CRO, CTX, T/S
+AMC, AMP, CRO, CTX, T/S
+
+AMP, CTX, TET
+AMC, AMP, NAL, STR, TET, T/S
+
+blaCTX‑M‑1, qnrA, qnrB, qnrS
+blaTEM‑1
+blaCTX‑M‑1, blaTEM‑1
+blaTEM‑1, qnrA
+blaCTX‑M‑1, blaTEM‑1, qnrA, dfrA15, dfrA17
+blaCTX‑M‑14, blaTEM‑1
+blaCTX‑M‑14, blaTEM‑1
+
+blaCTX‑M‑1
+blaCTX‑M‑1
+blaCTX‑M‑3, blaTEM‑1
+blaCMY‑2, blaCTX‑M‑1, blaTEM‑1, qnrA, qnrB
+blaCTX‑M‑14, blaTEM‑1
+–
+blaTEM1
+blaCMY‑2, blaCTX‑M‑1, blaTEM1, qnrA, qnrB, aadA2
+AMC amoxycillin–clavulanic acid, AMP ampicillin, CAZ ceftazidime, CPD cefpodoxime, CRO chloramphenicol, CTX cefotaxime, ENR enrofloxacin, NAL nalidixic acid, STR 
+streptomycin, TET tetracycline, T/S trimethoprim/sulphamethoxazole
+
+Typhimurium AMP, CAZ, CTX
+Typhimurium AMP, CAZ, CRO, CTX
+Typhimurium AMC, CPD, CTX, TET, T/S
+Enteritidis
+Typhimurium AMP, CPD, CTX, STR,TET, T/S
+Typhimurium AMC, AMP, CPD
+Paratyphi A
+AMP, CPD, CTX
+Typhimurium AMC, AMP, CAZ, CPD, CRO, CTX, ENR, NAL, STR, TET, T/S
+
+AMP, CPD, CTX, NAL, STR, TET, T/S
+
+Moawad et al. Gut Pathog  (2017) 9:57 
+
+Page 8 of 13
+
+Table 7  Phenotypic resistance and resistance determinants found in E. coli isolates in this study
+
+Source
+
+E. coli serotype Resistance phenotype
+
+Resistance genes/class 1 integron
+
+Poultry
+ Fresh poultry meat
+ Fresh poultry meat
+ Fresh poultry meat
+ Fresh poultry meat
+ Fresh poultry meat
+ Fresh poultry meat
+ Fresh poultry organs (liver)
+
+ Fresh poultry organs (liver)
+ Fresh poultry organs  
+
+(gizzard)
+
+ Fresh poultry organs (liver)
+ Frozen poultry meat
+ Frozen poultry meat
+ Frozen poultry
+ Frozen poultry meat
+ Frozen organ poultry
+
+Beef
+ Fresh beef meat
+ Fresh beef meat
+ Fresh beef organs (liver)
+
+ Frozen beef meat
+ Frozen beef meat
+ Frozen beef meat
+
+O1
+O18
+O18
+O78
+O119
+O20
+O18
+
+O126
+O20
+
+O145
+O1
+O18
+078
+O146
+078
+
+O119
+O158
+O78
+
+O103
+O126
+O158
+
+STR, TET
+AMP, CIP, CPD, NAL, STR, TET, T/S
+AMC, AMP, CHL, CIP, CRO, CTX, NAL, STR, TET, T/S
+AMC, AMP, CAZ, TET, T/S
+AMC, AMP, CAZ, CTX, STR, TET, T/S
+AMC, AMP, CPD, TET, T/S
+AMC, AMP, CAZ, CHL, CIP, CRO, CTX, ENR, NAL, STR, 
+
+TET, T/S
+
+–
+qnrA, qnrB
+blaCTX‑M‑1, blaOXA‑1, qnrA, qnrB
+blaCTX‑M‑1, blaTEM‑1
+blaCTX‑M‑14, blaTEM‑104
+blaCTX‑M1, blaOXA‑1, blaTEM‑1
+blaCTX‑M‑1, blaTEM‑104,qnrA, qnrB, dfrA1‑orf
+
+AMP, CTX, STR
+AMC, AMP, STR, T/S
+
+CAZ, TET
+CTX, NAL, TET
+AMC, AMP, STR, TET, T/S
+AMC, AMP, CPD
+AMC, AMP, TET, T/S
+AMC, AMP, CAZ, CHL, CIP, CRO, CTX, ENR, NAL, STR, 
+
+TET, T/S
+
+blaCTX‑M‑1
+blaTEM‑1
+
+–
+qnrA, qnrB
+blaOXA‑1, blaTEM‑1
+
+blaTEM‑1
+blaCTX‑M‑14,blaTEM‑1, qnrA, qnrB, dfrA15
+
+CPD
+CPD, TET
+AMC, AMP, CHL, CIP, CRO, CTX, ENR, NAL, STR, TET, 
+
+T/S
+
+–
+–
+blaCTX‑M‑1, blaTEM‑104, qnrA, qnrB, dfrA1, dfrA1‑orf
+
+STR, TET
+AMC, AMP, CIP, STR, TET, T/S
+AMC, AMP, STR, TET, T/S
+
+blaCTX‑M‑1
+blaTEM‑1, qnrA, qnrB
+blaTEM‑1
+
+AMC amoxycillin–clavulanic acid, AMP ampicillin, CAZ ceftazidime, CPD cefpodoxime, CRO chloramphenicol, CTX cefotaxime, ENR enrofloxacin, NAL nalidixic acid, STR 
+streptomycin, TET tetracycline, T/S trimethoprim/sulphamethoxazole
+
+A  (qnrA),  while  3  (20.0%),  2  (13.3%)  and  1  (6.7%)  of  S. 
+enterica serovars possessed qnrB, blaCMY and qnrS genes, 
+respectively. blaOXA associated with resistance to ampi-
+cillin  and  cephalothin  and  blaSHV  associated  with  plas-
+mid-mediated  ampicillin  resistance  were  not  found  in 
+any isolate.
+
+In E. coli isolates, 5 of 8 screened resistance-associated 
+genes were detected by PCR (Table 7). Eleven (52.4%) out 
+of 21 isolates harboured blaTEM (1 and 104), while blaCTX-
+M (1 and 14) was detected in 9 isolates (42.9%). Seven iso-
+lates (33.3%) carried qnrA and qnrB and in three isolates 
+(14.3%) blaOXA-1 was detected. Genes blaCMY, blaSHV and 
+qnrS were not detected in any of the E. coli isolates.
+
+Plasmid-mediated  colistin  resistance  gene  mcr-1  and 
+carbapenemase  resistance  gene  blaOXA-23  were  not 
+identified  neither  in  S.  enterica  nor  in  E.  coli  isolates 
+using PCR assay.
+
+Integron gene cassettes and DNA sequencing
+Class 1 integron was detected in two isolates of S. Typh-
+imurium using PCR (Table 6). The inserted gene cassettes 
+
+identified  three  types  of  antimicrobial  resistance  genes 
+associated  with  class  1  integron:  dihydrofolate  reduc-
+tase types (dfrA15 and dfrA17) which confer resistance 
+to  trimethoprim,  and  aminoglycoside  adenyltransferase 
+type aadA2 that confers resistance to streptomycin and 
+spectinomycin.
+
+Three E. coli isolates of serotypes O18, O78 and O78 
+were harbouring class 1 integron (Table 7). The inserted 
+gene cassettes identified three types of class 1 integron. 
+The identified antimicrobial resistance genes were dihy-
+drofolate  reductase  types;  dfrA1,  dfrA15  and  dfrA1-orf 
+which confer resistance to trimethoprim.
+
+All S. enterica and E. coli isolates were negative for class 
+
+2 integrons.
+
+Discussion
+Salmonellosis  and  Salmonella  infections  considered  as 
+critical threats to human and animal health. In this study, 
+the  prevalence  of  S.  enterica  serovars  in  chicken  and 
+beef meat was 8.3%, which was considerably lower than 
+incidence  rates  that  reported  in  Ethiopia  (12.0%  in  raw 
+
+Moawad et al. Gut Pathog  (2017) 9:57 
+
+Page 9 of 13
+
+meat) [26], Canary islands (16.5% in chicken meat) [27], 
+Northwestern  Spain  (17.9%  in  chicken)  [28],  Ethiopia 
+(17.9% in chicken and giblets) [29], and Egypt (10.0% in 
+poultry meat) [7]. On the other hand, it was higher than 
+reported previously in meat products in Egypt (6.6%) and 
+in ground beef in the United States (4.2%) [30, 31].
+
+In  total,  S.  enterica  serovar  Typhimurium  was  the 
+dominant serovar. These results were in accordance with 
+previous study from chicken products in Cambodia and 
+Thailand  [32].  Controversially,  S.  enterica  serovar  Ente-
+ritidis  was  the  dominant  serotype  in  imported  frozen 
+poultry  samples  from  Brazil  to  Canary  Islands  and  in 
+chicken carcasses in Spain [27, 28]. Salmonella enterica 
+serovar  Kentucky  was  frequently  detected  in  samples 
+coming from US to Canary Islands [27].
+
+Prevalence of E. coli in chicken meat and organs was 
+16.7%  which  was  lower  than  in  Nigeria  (43.4%)  in  fro-
+zen poultry meat [33] but higher than in Korea (4.9% in 
+poultry meat) [34]. Prevalence of E. coli in beef meat was 
+6.7%, while in Korea and Iran were found 4.1 and 29.0%, 
+respectively [34, 35].
+
+In this study, 19.0% of E. coli isolates typed as O78 was 
+mainly from poultry products, while in China, O78 was 
+identified  in  60.0%  of  E.  coli  isolated  from  chicken  and 
+ducks [36]. E. coli type O158 identified in 9.5% only in 
+beef meat while O158 detected in 22.7% of food isolates 
+in Chile [37].
+
+Bacterial antimicrobial resistance is a global emerging 
+
+problem of public health concern.
+
+In  the  current  study,  a  high  percentage  of  S.  enterica 
+serovars  were  resistant  to  ampicillin  and  cefotaxime. 
+The resistance to other antimicrobial agents was variable 
+while all isolates were sensitive to chloramphenicol and 
+ciprofloxacin.  The  results  were  in  a  partial  accordance 
+with results of previous reports stating that all S. enterica 
+isolated  from  chicken  meat  and  beef  were  sensitive  to 
+ciprofloxacin  [38].  72.4%  of  Salmonella  isolates  in  Thai 
+meat  products  were  resistant  to  ampicillin  while  71.0% 
+of  isolates  in  Cambodian  meat  products  were  resistant 
+to sulfamethoxazole [32]. Controversially, S. enterica iso-
+lated from animals and food of animal origin in Italy were 
+highly resistant to ampicillin, chloramphenicol, strepto-
+mycin  and  tetracycline  [39]  and  all  Salmonella  isolated 
+from beef in Tunisia were susceptible to amoxicillin and 
+clavulanic acid [40].
+
+In total, 46.7% of S. enterica serovars showed multidrug 
+resistance,  which  was  higher  than  resistance  of  Salmo-
+nella isolated from raw chicken (31.0%) in Pennsylvania 
+during [41]. Less multidrug resistant S. enterica isolates 
+(6.0%) were identified in cattle hides and carcasses in the 
+US [42].
+
+The  results  of  this  study  showed  that  the  antimicro-
+bial resistance of E. coli isolated from poultry was higher 
+
+than  from  beef  to  the  most  of  tested  antibiotics.  The 
+high  resistance  to  tetracycline,  ampicillin,  amoxycillin–
+clavulanic  acid,  trimethoprim/sulphamethoxazole  and 
+streptomycin in this study was in agreement with previ-
+ous reports conducted in Egypt [10, 43] and Algeria [44]. 
+While in Spain, most of E. coli isolated from diarrhoeic 
+and  healthy  lambs  were  highly  resistant  to  tetracycline 
+and streptomycin but show lower resistance to ampicillin 
+[45]. Most of E. coli isolates in this study were sensitive 
+to enrofloxacin, chloramphenicol and ceftriaxone which 
+is in agreement with previous results in Spain [45].
+
+In this study, 61.9% of E. coli isolates were multidrug 
+resistant.  Similar  results  reported  previously  in  Ghana 
+and US [23, 46].
+
+Most of the phenotypically antibiotic resistant S. enter-
+ica  serovars  carried  antibiotic  resistance  marker  genes 
+associated with β-lactams and quinolones.
+
+The  β-lactamase  encoding  gene  blaTEM  conferring 
+resistance  to  penicillins  and  first-generation  cephalo-
+sporins was detected in 73.3% of S. enterica serovars and 
+in 76.9% of ampicillin-resistant isolates which is signifi-
+cantly high in comparison to 57.3% (blaTEM-1) in S. enter-
+ica isolated from retail chickens in China [47]. Another 
+β-lactamase  encoding  gene  blaCMY-2,  an  AmpC  beta-
+lactamase gene that confers resistance to a wide variety 
+of β-lactam antibiotics detected in 13.3% of isolates. In 
+contrast,  in  4.7%  of  S.  enterica  serovars  Typhimurium 
+and Enteritidis originated from diseased broilers in Egypt 
+blaCMY-2 was identified [48] and all resistant S. enterica 
+serovar  Typhimurium  isolated  from  retail  meat  in  US 
+were harbouring blaCMY [49]. The same gene could not 
+be detected previously in any S. enterica serovar Typh-
+imurium isolated from chicken meat in Egypt [8].
+
+blaCTX-M  could  be  identified  in  73.3%  of  isolated  S. 
+enterica serovars. In 24.0 and 18.8% of different Salmo-
+nella  serovars  isolated  from  retail  chicken  carcasses  in 
+China, blaCTX-M-15 and blaCTX-M-3 were detected, respec-
+tively [47].
+
+The  blaSHV  is  responsible  for  the  plasmid-mediated 
+ampicillin  resistance  and  β-lactamase  encoding  genes 
+blaOXA  conferring  resistance  to  ampicillin  and  cepha-
+lothin not detected in any of S. enterica serovars in this 
+study. This result was in accordance with a result for S. 
+enterica  serovar  Typhimurium  isolated  from  chicken 
+meat in Egypt [8]. In contrast, 30.2% of ESBL-producing 
+Salmonella isolated from raw chicken carcasses in China 
+were harbouring blaOXA-1 [47].
+
+Although  none  of  S.  enterica  serovars  were  pheno-
+typically resistant to ciprofloxacin, qnrA, qnrB and qnrS 
+genes were detected in 33.3, 20.0 and 6.7%, respectively in 
+all S. enterica serovars and in 100, 60.0 and 20.0%, respec-
+tively in S. enterica resistant to nalidixic acid. A different 
+result  showed  that  1.16%  of  nalidixic  acid-resistant  S. 
+
+Moawad et al. Gut Pathog  (2017) 9:57 
+
+Page 10 of 13
+
+enterica serovars isolated from animal products in Tuni-
+sia carried qnr gene [50]. In other studies in China qnrA, 
+qnrB and qnrS genes detected with low percentage in S. 
+enterica serovar Enteritidis isolated from retail raw poul-
+try [51, 52].
+
+The blaTEM gene was detected in 52.3% of all isolated 
+E. coli and in 73.3% of ampicillin-resistant isolates. Other 
+studies detected blaTEM in 97.1 and 75.0% of E. coli iso-
+lates from lambs in Spain and meat products in Cambo-
+dia, respectively [32, 45]. In China, blaTEM was identified 
+in 7.8% of ESBL-producing E. coli recovered from meat 
+products [53].
+
+The β-lactamase encoding gene blaCMY was not found 
+in  any  of  the  isolated  E.  coli.  In  contrast,  blaCMY-2  was 
+detected  in  89.0%  E.  coli  isolated  from  poultry  meat  in 
+Denmark  [54]  and  in  12.5%  of  ESBL-producing  E.  coli 
+isolated from meat products in Cambodia [32].
+
+The  blaCTX-M  detected  in  42.9%  of  E.  coli  isolated 
+in  this  study.  In  Ghana  50.0%  of  ESBL-producing  E. 
+coli  isolates  from  meat  harboured  blaCTX-M  [46]  while 
+these β-lactamase encoding genes blaCTX-M-15 and blaCTX-
+M-9  were  detected  rarely  (1.6%)  in  E.  coli  isolates  from 
+meat products in China [53].
+
+The blaSHV gene was not found in any of the E. coli iso-
+lates. Controversially, previous studies detected blaSHV in 
+9.4, 5.3 and 2.0% in meat products in China, broiler chick-
+ens and chicken carcasses in Iran, respectively [53, 55, 56].
+blaOXA-1  was  detected  in  14.3%  of  the  E.  coli  isolates 
+which  is  in  contrast  with  previous  report  conducted  in 
+retail meat in US where the gene could not be identified 
+[23].
+
+The  most  common  carbapenemase 
+
+types  were 
+blaOXA-23  and  blaOXA-48  accounting  for  47%  of  all 
+identified  carbapenemase  genes  [25,  57].  In  this  study, 
+blaOXA-23 was not identified in all isolated strains.
+
+In isolated E. coli, qnrA and qnrB detected in 33.3% of 
+isolates,  all  nalidixic  acid  and/or  ciprofloxacin  resistant 
+isolates harboured both genes. While qnrB and qnrS were 
+identified in 10.4% of nalidixic acid resistant E. coli iso-
+lated from Algerian retail chicken meat [44] and in 10.0% 
+of E. coli isolates obtained from bovine carcasses in Mex-
+ico  [58].  In  contrast,  qnrA,  qrnB  and  qrnS  genes  could 
+not be identified in enrofloxacin-resistant E. coli strains 
+from poultry in Mexico [59].
+
+The presence of genetic elements such as integrons and 
+transposons  are  often  associated  with  multi-resistant 
+phenotypes among Salmonella isolates [60]. In this study, 
+class 1 integron detected in 13.3% of S. enterica serovars. 
+The  identified  gene  cassettes  were  dfrA15,  dfrA17  and 
+aadA2. In previous studies, class 1 integron identified in 
+90.0%  of  multi-drug  resistant  Salmonella  isolates  from 
+retail chicken meat in Japan and the identified genes cas-
+settes  were  dfrA1,  dfrA7,  aadA1,  aadB,  and  catB3  [61, 
+
+62]. The gene cassettes of class 1 integron which detected 
+in Salmonella spp. isolated from poultry meat in Egypt 
+were harbouring aac (3)-Id, aadA2, aadA4, aadA7, sat, 
+dfrA15,  lnuF  and  estX  resistance  genes  [7].  In  a  study 
+conducted in Portugal, 75.0% of S. enterica isolated from 
+different sources including food products had one or two 
+class 1 integrons [63].
+
+The identified gene cassettes of class 1 integron dfrA1, 
+dfrA15 and dfrA1-orf which confer resistance to trimeth-
+oprim were identified in 14.3% of E. coli isolated in this 
+study. This is in agreement with E. coli isolates from retail 
+chickens  in  Japan  [62]  and  in  1.9  and  11.4%  of  isolates 
+from Thai and Cambodian meat samples obtained from 
+slaughterhouses  and  fresh  markets  and  the  most  com-
+mon gene cassette was dfrA12-aadA2 [32].
+
+Class  2  integrons  were  not  detected  in  all  isolates  of 
+this study which is in contrast to 5.6% positive samples in 
+Egypt [10].
+
+In  this  study,  mcr-1  gene  associated  with  colistin 
+resistance was neither detected in S. enterica nor E. coli 
+isolates.  This  result  was  in  agreement  with  the  result 
+reported by Doumith et al. [64] who investigated 24,000 
+isolates  of  Enterobacteriaceae  from  food  and  humans 
+including S. enterica and E. coli and found only 15 mcr-1 
+positive  isolates.  Recently,  Quesada  et  al.  identified  the 
+gene mcr-1 in nine S. enterica and E. coli isolates from 
+poultry and swine for the first time in Spain [65]. Jayol 
+et  al.  found  the  mcr-1  in  13%  of  E.  coli  and  S.  enterica 
+[66]. Considering the frequent use of colistin in animal 
+production and the importance of this antimicrobial for 
+the control of multi-resistant Gram-negative nosocomial 
+infections  in  humans,  monitoring  the  dissemination  of 
+resistance to colistin is mandatory.
+
+In  conclusion,  the  results  of  this  study  showed  high 
+prevalence of S. enterica and E. coli as foodborne patho-
+gens isolated from poultry and beef meat in Egypt. The 
+emergence of antimicrobial resistance of S. enterica and 
+E. coli isolates is of public concerns in Egypt. Significant 
+resistance  was  detected  to  penicillin,  cephalosporins, 
+tetracycline and sulphonamides. Dissemination of ESBL 
+and  AmpC-β-lactamase  resistance-associated  genes  in 
+S. enterica and E. coli was determined. Presence of class 
+1  integron  in  S.  enterica  and  E.  coli  and  genes  associ-
+ated with antibiotic resistance was also confirmed. Class 
+2 integron was not detected in any isolate. Further work 
+should  be  performed  to  characterize  S.  enterica  and  E. 
+coli isolates of animal and human origin from the same 
+region  sharing  the  same  resistance  markers  in  order  to 
+highlight  potential  horizontal  gene  transfer  by  these 
+zoonotic organisms.
+Authors’ contributions
+AAM participated in the conception and design of the study. AAM performed 
+the farm and laboratory work. AAM, HH, HE, HT, HN and HMH analyzed the 
+
+Moawad et al. Gut Pathog  (2017) 9:57 
+
+Page 11 of 13
+
+data and wrote the manuscript and contributed to manuscript discussion. All 
+authors read and approved the final manuscript.
+
+Author details
+1 Friedrich‑Loeffler‑Institut, Institute of Bacterial Infections and Zoonoses, 
+Naumburger Str. 96a, 07743 Jena, Germany. 2 Bacteriology department, Animal 
+Health Research Institute (AHRI), Mansoura branch, Mansoura, 35516, Egypt. 
+3 Faculty of Veterinary Medicine, Kafrelsheikh University, Kafr El‑Sheikh 33516, 
+Egypt. 4 Faculty of Veterinary Medicine, Mansoura University, Mansoura, Egypt. 
+5 Institute of Poultry Diseases, Free University Berlin, Berlin, Germany. 
+
+Acknowledgements
+The authors thank technical assistants at Kafrelsheikh University for their excel‑
+lent technical assistance. The authors thank Animal Health Research Institute, 
+Mansoura Laboratory for its great effort in sample collection and preparation.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Availability of data
+All the data supporting the results presented in the main manuscript.
+
+Consent for publication
+Not applicable.
+
+Ethics approval and consent for participate
+This study was carried out in strict accordance with the recommendations of 
+the, Egyptian Network of Research Ethics Committees (ENREC) which com‑
+plies with the international laws and regulation regarding ethical considera‑
+tions in research.
+
+Funding
+This study was done without any specific funding.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub‑
+lished maps and institutional affiliations.
+
+Received: 23 June 2017   Accepted: 10 October 2017
+
+References
+ 1.  Helmy Y, El‑Adawy H, Abdelwhab E. A comprehensive review of common 
+
+bacterial, parasitic and viral zoonoses at the human–animal interface in 
+Egypt. Pathogens. 2017;6:33.
+
+ 2.  Pitout J, Laupland K. Extended‑spectrum beta‑lactamase‑producing 
+
+Enterobacteriaceae: an emerging public‑health concern. Lancet Infect Dis. 
+2008;8:159–66.
+
+ 3.  Bush K, Jacoby GA. Updated functional classification of β‑lactamases. 
+
+Antimicrob Agents Chemother. 2010;54:969–76.
+ 4. 
+Jacoby GA. AmpC β‑lactamases. Clin Microbiol Rev. 2009;22:161–82.
+ 5.  Pfeifer Y, Cullik A, Witte W. Resistance to cephalosporins and carbap‑
+enems in Gram‑negative bacterial pathogens. Int J Med Microbiol. 
+2010;300:371–9.
+
+ 6.  Abd‑Elghany SM, Sallam KI, Abd‑Elkhalek A, Tamura T. Occurrence, 
+
+genetic characterization and antimicrobial resistance of Salmo-
+nella isolated from chicken meat and giblets. Epidemiol Infect. 
+2015;143:997–1003.
+
+ 7.  Gharieb RM, Tartor YH, Khedr MH. Non‑typhoidal Salmonella in poultry 
+
+meat and diarrhoeic patients: prevalence, antibiogram, virulotyping, 
+molecular detection and sequencing of class I integrons in multidrug 
+resistant strains. Gut Pathog. 2015;7:15–81.
+
+ 8.  Ahmed HA, El‑Hofy FI, Shafik SM, Abdelrahman MA, Elsaid GA. Char‑
+acterization of virulence‑associated genes, antimicrobial resistance 
+genes, and class 1 integrons in Salmonella enterica serovar Typhimurium 
+isolates from chicken meat and humans in Egypt. Foodborne Pathog Dis. 
+2016;13:281–8.
+
+ 9.  Abdallah HM, Reuland EA, Wintermans BB, Al Naiemi N, Koek A, Abdelwa‑
+hab AM, et al. Extended‑spectrum β‑lactamases and/or carbapenemases‑
+producing Enterobacteriaceae isolated from retail chicken meat in 
+Zagazig, Egypt. PLoS ONE. 2015;10:e0136052.
+
+ 10.  Ahmed AM, Shimamoto T. Molecular analysis of multidrug resistance in 
+Shiga toxin‑producing Escherichia coli O157:H7 isolated from meat and 
+dairy products. Int J Food Microbiol. 2015;193:68–73.
+
+ 11.  Andriole VT. The quinolones: past, present, and future. Clin Infect Dis. 
+
+2005113‑19.
+
+ 12.  Flach CF, Boulund F, Kristiansson E, Larsson DJ. Functional verification of 
+
+computationally predicted qnr genes. Ann Clin Microbiol Antimicrob. 
+2013;12:34.
+
+ 13.  Guan X, Xue X, Liu Y, Wang J, Wang Y, Wang K, et al. Plasmid‑mediated 
+
+quinolone resistance—current knowledge and future perspectives. J Int 
+Med Res. 2013;41:20–30.
+
+ 14.  Robicsek A, Jacoby GA, Hooper DC. The worldwide emergence of 
+
+plasmid‑mediated quinolone resistance. Lancet Infect Dis. 2006;6:629–40.
+
+ 15.  Hanau‑Bercot B, Podglajen I, Casin I, Collatz E. An intrinsic control 
+
+element for translational initiation in class 1 integrons. Mol Microbiol. 
+2002;44:119–30.
+
+ 16.  Rowe‑Magnus DA, Guerout AM, Mazel D. Bacterial resistance evolu‑
+tion by recruitment of super‑integron gene cassettes. Mol Microbiol. 
+2002;43:1657–69.
+
+ 17.  Tzouvelekis L, Markogiannakis A, Piperaki E, Souli M, Daikos G. Treating 
+
+infections caused by carbapenemase‑producing Enterobacteriaceae. Clin 
+Microbiol Infect Dis. 2014;20:862–72.
+
+ 18.  Sun S, Negrea A, Rhen M, Andersson D. Genetic analysis of colistin resist‑
+
+ance in Salmonella enterica serovar Typhimurium. Antimicrob Agents 
+Chemother. 2009;53:2298–305.
+
+ 19.  Popoff MY, Bockemuhl J, Gheesling LL. Supplement 2002 (no. 46) to the 
+
+Kauffmann–White scheme. Res Microbiol. 2004;155:568–70.
+
+ 20.  Bauer AW, Kirby WM, Sherris JC, Turck M. Antibiotic susceptibility testing 
+
+by a standardized single disk method. Am J Clin Pathol. 1966;45:493–6.
+
+ 21.  CLSI. Performance standards for antimicrobial susceptibility testing; 
+
+twenty‑first informational supplement: CLSI document M100‑S21. CLSI. 
+2011;31:42–51.
+
+ 22.  Maalej S, Meziou M, Rhimi F, Hammami A. Comparison of disc diffusion, 
+Etest and agar dilution for susceptibility testing of colistin against Entero-
+bacteriaceae. Lett Appl Microbiol. 2011;53:546–51.
+
+ 23.  Zhao S, Blickenstaff K, Bodeis‑Jones S, Gaines SA, Tong E, McDermott PF. 
+Comparison of the prevalences and antimicrobial resistances of Escheri-
+chia coli isolates from different retail meats in the United States, 2002 to 
+2008. Appl Environ Microbiol. 2012;78:1701–7.
+
+ 24.  Liu Y, Wang Y, Walsh T, Yi LX, Zhang R, Spencer J, et al. Emergence of 
+
+plasmid‑mediated colistin resistance mechanism MCR‑1 in animals and 
+human beings in China: a microbiological and molecular biological study. 
+Lancet Infect Dis. 2016;16:161–8.
+
+ 25.  Braun S, Monecke S, Thurmer A, Ruppelt A, Makarewicz O, Pletz M, 
+
+et al. Rapid identification of carbapenemase genes in gram‑negative 
+bacteria with an oligonucleotide microarray‑based assay. PLoS ONE. 
+2014;9:e102232.
+
+ 26.  Ejo M, Garedew L, Alebachew Z, Worku W. Prevalence and antimicro‑
+
+bial resistance of Salmonella isolated from animal‑origin food items in 
+Gondar, Ethiopia. Biomed Res Int. 2016;4290506:15–20.
+
+ 27.  Hernandez T, Sierra A, Rodriguez‑Alvarez C, Torres A, Arevalo MP, Calvo M, 
+et al. Salmonella enterica serotypes isolated from imported frozen chicken 
+meat in the Canary islands. J Food Prot. 2005;68:2702–6.
+
+ 28.  Capita R, Alonso‑Calleja C, Prieto M. Prevalence of Salmonella enterica 
+serovars and genovars from chicken carcasses in slaughterhouses in 
+Spain. J Appl Microbiol. 2007;103:1366–75.
+
+ 29.  Tibaijuka B, Molla B, Hildebrandt G, Kleer J. Occurrence of Salmonellae in 
+retail raw chicken products in Ethiopia. Berl Munch Tierarztl Wochenschr. 
+2003;116:55–8.
+
+ 30.  Ahmed AM, Shimamoto T. Isolation and molecular characteriza‑
+tion of Salmonella enterica, Escherichia coli O157:H7 and Shigella 
+spp. from meat and dairy products in Egypt. Int J Food Microbiol. 
+2014;169:M405–10.
+
+ 31.  Bosilevac JM, Guerini MN, Kalchayanand N, Koohmaraie M. Prevalence 
+and characterization of salmonellae in commercial ground beef in the 
+United States. Appl Environ Microbiol. 2009;75:1892–900.
+
+Moawad et al. Gut Pathog  (2017) 9:57 
+
+Page 12 of 13
+
+ 32.  Trongjit S, Angkititrakul S, Tuttle RE, Poungseree J, Padungtod P, Chuan‑
+chuen R. Prevalence and antimicrobial resistance in Salmonella enterica 
+isolated from broiler chickens, pigs and meat products in Thailand‑Cam‑
+bodia border provinces. Microbiol Immunol. 2017;61:23–33.
+
+ 33.  Adeyanju GT, Ishola O. Salmonella and Escherichia coli contamination of 
+poultry meat from a processing plant and retail markets in Ibadan, Oyo 
+State, Nigeria. Springerplus. 2014;3:139.
+
+ 34.  Lee GY, Jang HI, Hwang IG, Rhee MS. Prevalence and classification of 
+
+pathogenic Escherichia coli isolated from fresh beef, poultry, and pork in 
+Korea. Int J Food Microbiol. 2009;134:196–200.
+
+isolated from food‑animal products in Tunisia. Foodborne Pathog Dis. 
+2013;10:813–9.
+
+ 51.  Wang Y, Yang B, Wu Y, Zhang Z, Meng X, Xi M, et al. Molecular charac‑
+
+terization of Salmonella enterica serovar Enteritidis on retail raw poultry 
+in six provinces and two National cities in China. Food Microbiol. 
+2015;46:74–80.
+
+ 52.  Zhang Z, Meng X, Wang Y, Xia X, Wang X, Xi M, et al. Presence of qnr, 
+
+aac(6′)‑Ib, qepA, oqxAB, and mutations in gyrase and topoisomerase in 
+nalidixic acid‑resistant Salmonella isolates recovered from retail chicken 
+carcasses. Foodborne Pathog Dis. 2014;11:698–705.
+
+ 35.  Momtaz H, Dehkordi FS, Hosseini MJ, Sarshar M, Heidari M. Serogroups, 
+
+ 53.  Li L, Ye L, Kromann S, Meng H. Occurrence of extended‑spectrum 
+
+virulence genes and antibiotic resistance in Shiga toxin‑producing 
+Escherichia coli isolated from diarrheic and non‑diarrheic pediatric 
+patients in Iran. Gut Pathog. 2013;5:1757–4749.
+
+ 36.  Wang S, Meng Q, Dai J, Han X, Han Y, Ding C, et al. Development of an 
+allele‑specific PCR assay for simultaneous sero‑typing of avian patho‑
+genic Escherichia coli predominant O1, O2, O18 and O78 strains. PLoS 
+ONE. 2014;9:e96904.
+
+ 37.  Alexandre M, Prado V, Ulloa MT, Arellano C, Rios M. Detection of entero‑
+hemorrhagic Escherichia coli in meat foods using DNA probes, enzyme‑
+linked immunosorbent assay and polymerase chain reaction. J Vet Med B 
+Infect Dis Vet Public Health. 2001;48:321–30.
+
+ 38.  Larkin C, Poppe C, McNab B, McEwen B, Mahdi A, Odumeru J. Antibiotic 
+
+resistance of Salmonella isolated from hog, beef, and chicken carcass 
+samples from provincially inspected abattoirs in Ontario. J Food Prot. 
+2004;67:448–55.
+
+ 39.  Perugini AG, Carullo MR, Esposito A, Caligiuri V, Capuano F, Galiero G, et al. 
+
+Characterization of antimicrobial resistant Salmonella enterica serovars 
+Enteritidis and Typhimurium isolates from animal and food in Southern 
+Italy. Vet Res Commun. 2010;34:387–92.
+
+ 40.  Oueslati W, Rjeibi MR, Mhadhbi M, Jbeli M, Zrelli S, Ettriqui A. Prevalence, 
+virulence and antibiotic susceptibility of Salmonella spp. strains, isolated 
+from beef in Greater Tunis (Tunisia). Meat Sci. 2016;119:154–9.
+
+ 41.  M’Ikanatha NM, Sandt CH, Localio AR, Tewari D, Rankin SC, Whichard 
+JM, et al. Multidrug‑resistant Salmonella isolates from retail chicken 
+meat compared with human clinical isolates. Foodborne Pathog Dis. 
+2010;7:929–34.
+
+ 42.  Brichta‑Harhay DM, Arthur TM, Bosilevac JM, Kalchayanand N, Shackelford 
+
+SD, Wheeler TL, et al. Diversity of multidrug‑resistant Salmonella enterica 
+strains associated with cattle at harvest in the United States. Appl Environ 
+Microbiol. 2011;77:1783–96.
+
+ 43.  Ahmed AM, Shimamoto T, Shimamoto T. Molecular characterization 
+of multidrug‑resistant avian pathogenic Escherichia coli isolated from 
+septicemic broilers. Int J Med Microbiol. 2013;303:475–83.
+
+B‑lactamases, plasmid‑mediated quinolone resistance, and disinfect‑
+ant resistance genes in Escherichia coli isolated from ready‑to‑eat meat 
+products. Foodborne Pathog Dis. 2017;14:109–15.
+
+ 54.  Hansen KH, Bortolaia V, Nielsen CA, Nielsen JB, Schonning K, Agerso Y, 
+
+et al. Host‑specific patterns of genetic diversity among IncI1‑Igamma and 
+IncK plasmids encoding CMY‑2 B‑lactamase in Escherichia coli isolates 
+from humans, poultry meat, poultry, and dogs in Denmark. Appl Environ 
+Microbiol. 2016;82:4705–14.
+
+ 55.  Jafari RA, Motamedi H, Maleki E, Ghanbarpour R, Mayahi M. Phylogenetic 
+
+typing and detection of extended‑spectrum B‑lactamases in Escheri-
+chia coli isolates from broiler chickens in Ahvaz, Iran. Vet Res Forum. 
+2016;7:227–33.
+
+ 56.  Bagheri M, Ghanbarpour R, Alizade H. Shiga toxin and beta‑lactamases 
+
+genes in Escherichia coli phylotypes isolated from carcasses of broiler 
+chickens slaughtered in Iran. Int J Food Microbiol. 2014;177:16–20.
+ 57.  Kaase M. Carbapenemases in gram‑negative bacteria. Current data 
+
+and trends of resistance resulting from the work of national reference 
+centres. Bundesgesundheitsbl Gesundheitsforsch Gesundheitsschutz. 
+2012;55:1401–4.
+
+ 58.  de Oca SAM, Talavera‑Rojas M, Soriano‑Vargas E, Barba‑Leon J, Vazquez‑
+Navarrete J. Determination of extended spectrum β‑lactamases/AmpC 
+B‑lactamases and plasmid‑mediated quinolone resistance in Escherichia 
+coli isolates obtained from bovine carcasses in Mexico. Trop Anim Health 
+Prod. 2015;47:975–81.
+
+ 59.  Del Rio‑Avila C, Rosario C, Arroyo‑Escalante S, Carrillo‑Casas EM, Diaz‑
+
+Aparicio E, Suarez‑Guemes F, et al. Characterisation of quinolone‑resistant 
+Escherichia coli of 1997 and 2005 isolates from poultry in Mexico. Br Poult 
+Sci. 2016;57:494–500.
+
+ 60.  Guerra B, Soto S, Helmuth R, Mendoza MC. Characterization of a self‑
+transferable plasmid from Salmonella enterica serotype Typhimurium 
+clinical isolates carrying two integron‑borne gene cassettes together 
+with virulence and drug resistance genes. Antimicrob Agents Chemother. 
+2002;46:2977–81.
+
+ 44.  Laarem M, Barguigua A, Nayme K, Akila A, Zerouali K, El Mdaghri N, et al. 
+
+ 61.  Ahmed AM, Ishida Y, Shimamoto T. Molecular characterization of anti‑
+
+Occurrence of plasmid‑mediated quinolone resistance and virulence 
+genes in avian Escherichia coli isolates from Algeria. J Infect Dev Ctries. 
+2017;11:143–51.
+
+ 45.  Medina A, Horcajo P, Jurado S, De la Fuente R, Ruiz‑Santa‑Quiteria JA, 
+
+Dominguez‑Bernal G, et al. Phenotypic and genotypic characterization of 
+antimicrobial resistance in enterohemorrhagic Escherichia coli and atypi‑
+cal enteropathogenic E. coli strains from ruminants. J Vet Diagn Investig. 
+2011;23:91–5.
+
+ 46.  Rasmussen MM, Opintan JA, Frimodt‑Moller N, Styrishave B. Beta‑
+
+lactamase producing Escherichia coli isolates in imported and locally 
+produced chicken meat from Ghana. PLoS ONE. 2015;10:e0139706.
+
+ 47.  Qiao J, Zhang Q, Alali WQ, Wang J, Meng L, Xiao Y, et al. Characterization 
+
+of extended‑spectrum β‑lactamases (ESBLs)‑producing Salmonella in 
+retail raw chicken carcasses. Int J Food Microbiol. 2017;248:72–81.
+
+ 48.  Ahmed AM, Shimamoto T. Genetic analysis of multiple antimicrobial 
+
+resistance in Salmonella isolated from diseased broilers in Egypt. Micro‑
+biol Immunol. 2012;56:254–61.
+
+ 49.  Folster JP, Tolar B, Pecic G, Sheehan D, Rickert R, Hise K, et al. Characteriza‑
+
+tion of blaCMY plasmids and their possible role in source attribution of 
+Salmonella enterica serotype Typhimurium infections. Foodborne Pathog 
+Dis. 2014;11:301–6.
+
+ 50.  Al‑Gallas N, Abbassi MS, Gharbi B, Manai M, Ben Fayala MN, Bichihi R, et al. 
+Occurrence of plasmid‑mediated quinolone resistance determinants and 
+rmtB gene in Salmonella enterica serovar Enteritidis and Typhimurium 
+
+microbial resistance in Salmonella isolated from animals in Japan. J Appl 
+Microbiol. 2009;106:402–9.
+
+ 62.  Ahmed AM, Shimabukuro H, Shimamoto T. Isolation and molecular 
+
+characterization of multidrug‑resistant strains of Escherichia coli and Sal-
+monella from retail chicken meat in Japan. J Food Sci. 2009;74:1750–3841.
+
+ 63.  Antunes P, Machado J, Peixe L. Characterization of antimicrobial resist‑
+ance and class 1 and 2 integrons in Salmonella enterica isolates from 
+different sources in Portugal. J Antimicrob Chemother. 2006;58:297–304.
+ 64.  Doumith M, Godbole G, Ashton P, Larkin L, Dallman T, Day M, et al. Detec‑
+
+tion of the plasmid‑mediated mcr‑1 gene conferring colistin resistance 
+in human and food isolates of Salmonella enterica and Escherichia coli in 
+England and Wales. J Antimicrob Chemother. 2016;71:2300–5.
+
+ 65.  Quesada A, Ugarte‑Ruiz M, Iglesias M, Porrero M, Martinez R, Florez‑Cuad‑
+rado D, et al. Detection of plasmid mediated colistin resistance (MCR‑1) in 
+Escherichia coli and Salmonella enterica isolated from poultry and swine in 
+Spain. Res Vet Sci. 2016;105:134–5.
+
+ 66.  Jayol A, Nordmann P, Lehours P, Poirel L, Dubois V. Comparison of meth‑
+
+ods for detection of plasmid‑mediated and chromosomally encoded 
+colistin resistance in Enterobacteriaceae. Clin Microbiol Infect Dis. 
+2017;S1198‑743X:30291–4.
+
+ 67.  Seidavi A, Mirhosseini SZ, Shivazad M, Chamani M, Sadeghi AA, Pourseify 
+
+R. Detection and investigation of Escherichia coli in contents of duode‑
+num, jejunum, ileum and cecum of broilers at different ages by PCR. 
+Asia‑Pac J Mol Biol Biotechnol. 2010;18:321–6.
+
+Moawad et al. Gut Pathog  (2017) 9:57 
+
+Page 13 of 13
+
+ 68.  Alvarez J, Sota M, Vivanco AB, Perales I, Cisterna R, Rementeria A, et al. 
+
+Development of a multiplex PCR technique for detection and epidemio‑
+logical typing of Salmonella in human clinical samples. J Clin Microbiol. 
+2004;42:1734–8.
+
+ 69.  Ahmed AM, Motoi Y, Sato M, Maruyama A, Watanabe H, Fukumoto Y, 
+et al. Zoo animals as reservoirs of gram‑negative bacteria harboring 
+integrons and antimicrobial resistance genes. Appl Environ Microbiol. 
+2007;73:6686–90.
+
+•  We accept pre-submission inquiries •  Our selector tool helps you to ﬁnd the most relevant journal•  We provide round the clock customer support •  Convenient online submission•  Thorough peer review•  Inclusion in PubMed and all major indexing services •  Maximum visibility for your researchSubmit your manuscript atwww.biomedcentral.com/submitSubmit your next manuscript to BioMed Central and we will help you at every step:

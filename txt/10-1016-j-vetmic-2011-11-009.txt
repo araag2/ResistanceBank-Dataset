@@ -1,0 +1,2944 @@
+Veterinary Microbiology 156 (2012) 367–373
+
+Contents lists available at SciVerse ScienceDirect
+
+Veterinary Microbiology
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / v e t m i c
+
+Prevalence, antibiotic resistance, virulence traits and genetic lineages
+of Staphylococcus aureus in healthy sheep in Tunisia§
+Haythem Gharsa a, Karim Ben Slama a, Carmen Lozano b, Elena Go´ mez-Sanz b, Naouel Klibi a,
+Rym Ben Sallem a, Paula Go´ mez b, Myriam Zarazaga b, Abdellatif Boudabous a,
+Carmen Torres b,*
+a Laboratoire des Microorganismes et Biomole´cules Actives, Faculte´ des Sciences de Tunis, Universite´ Tunis-El Manar, 2092 Tunis, Tunisia
+b A´rea de Bioquı´mica y Biologı´a Molecular, Universidad de La Rioja, Madre de Dios 51, 26006 Logron˜o, Spain
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Article history:
+Received 15 September 2011
+Received in revised form 4 November 2011
+Accepted 10 November 2011
+
+Keywords:
+Staphylococcus aureus
+Methicillin-resistance
+PVL
+TSST
+
+Nasal swabs of 163 healthy sheep were obtained from two farms and one abattoir in
+Tunisia during 2010. Samples were inoculated in Baird Parker agar and ORSAB medium for
+Staphylococcus aureus and methicillin-resistant S. aureus (MRSA) recovery, respectively.
+MRSA was detected in 5 of these 163 samples (3%) in ORSAB medium, and one isolate per
+sample was further studied. MRSA isolates were mecA-positive, typed as ST153-CC80-
+t044-agrIII, and contained blaZ, ant(6)-Ia, aph(30)-IIIa, erm(C), tet(K), and fusB genes
+encoding penicillin, streptomycin, kanamycin, erythromycin, tetracycline and fusidic acid
+resistance, respectively. These MRSA isolates showed indistinguishable or closely related
+PFGE-patterns and harboured the lukF/lukS gene encoding the Panton-Valentine leukocidin
+and the luk-ED, hla, hld, and hlgv genes. Methicillin-susceptible S. aureus (MSSA) were
+recovered in 68 of the 163 samples (41.7%) and one isolate per sample was characterized.
+Most of MSSA (82.4%) showed susceptibility to the tested antibiotics with exceptions:
+penicillin (6%, carrying blaZ gene), tetracycline (19%, carrying tet(K) gene) and fusidic acid
+(9%). The following toxin-genes were identiﬁed among MSSA: tst (53 isolates), luk-M (52),
+luk-ED, hla, hlb, hld and hlgv (67), hlg (1), sec (49), sel (52), and the egc-cluster-like sen-sem-
+sei-seo-seg (1). Ten spa-types (two of them new ones) and nine sequence types (six new
+ones) were detected among the 73 S. aureus isolates, and they were ascribed to agr types I
+and III. All MRSA and MSSA isolates were able to coagulate bovine plasma and MRSA
+harboured the immune-evasion-gene-cluster type E. Conclusions. Nares of healthy sheep
+could be a reservoir of PVL-positive community-associated-MRSA and also of TSST-positive
+S. aureus isolates, with potential implications in public health.
+
+ß 2011 Elsevier B.V. All rights reserved.
+
+1. Introduction
+
+Staphylococcus aureus is an important pathogen that can
+colonize the nares of different animals, including farm
+animals (Weese and Duijkeren, 2009). This microorganism
+
+§ Part of the results of this manuscript has been presented in the 21st
+
+ECCMID/27th ICC held in Milan, Italy 7–10 May 2011.
+
+* Corresponding author. Tel.: +34 941299750; fax: +34 941299721.
+
+E-mail addresses: carmen.torres@unirioja.es,
+
+carmen.torres@daa.unirioja.es (C. Torres).
+
+0378-1135/$ – see front matter ß 2011 Elsevier B.V. All rights reserved.
+doi:10.1016/j.vetmic.2011.11.009
+
+is able to produce a wide range of extracellular toxins and
+virulence factors. Strains producing the Panton-Valentine
+leukocidin (PVL), the toxic shock syndrome toxin (TSST),
+and staphylococcal enterotoxins (SE) pose a risk for
+humans and animals being associated with skin and soft
+tissue infections and even with cases of severe pneumonia
+(Jarraud et al., 2002; Francis et al., 2005). It is also relevant
+to consider that the transmission of S. aureus is possible
+either by direct contact with animals or through con-
+taminated food as milk or cheese (Vautor et al., 2005).
+
+Of particular concern is methicillin-resistant S. aureus
+(MRSA) which is resistant to most of beta-lactams. MRSA
+
+368
+
+H. Gharsa et al. / Veterinary Microbiology 156 (2012) 367–373
+
+strains usually harbour multiple antimicrobial resistance
+genes what constitutes an important clinical problem due to
+the limited therapeutic options left (Fluit et al., 2001). The
+ﬁrst cases of MRSA in animals were reported in 1972 from
+bovine mammary infections. Thereafter, more MRSA strains
+were detected in cattle and the number of reported cases is
+recently increasing. Moreover, MRSA has been described in
+other animal species such as horses, dogs and pigs, among
+others (Weese and Duijkeren, 2009; Madec and Haenni,
+2010) but data about MRSA in sheep remain scarce. In the
+last years, a livestock-associated genetic lineage of MRSA
+(LA-MRSA) of the sequence type ST398 has emerged in farm
+animals, especially in pigs, and human infections owing to
+this clonal lineage have also been reported (Kock et al., 2009;
+Lozano et al., 2011). Recent cases of infections related to
+strains of porcine origin (clone ST398) have highlighted the
+possibility of transference of MRSA from animals to humans
+(Madec and Haenni, 2010; Lozano et al., 2011). In addition,
+data on MRSA (and mainly non-ST398 MRSA) in other
+animal species than pigs are still scarce.
+
+So far, few data do exist about the genetic lineages of S.
+aureus or the prevalence of MRSA that colonize nares of
+healthy sheep (Vautor et al., 2005; Alzohairy, 2011).
+Additionally, as far as we know, no previous studies of this
+type have been performed in animals in Tunisia and very few
+in other African countries (Elbir et al., 2010). There are only
+data about the prevalence and lineages of S. aureus in
+healthy humans with different level of contact with farms or
+domestic animals in that country (Ben Slama et al., 2011).
+Sheep is an important agriculture animal species in Tunisia
+as well as in other Northern African countries. Therefore, the
+present study was undertaken to determine the carriage
+rate, resistance mechanisms, virulence traits, and genetic
+lineages of nasal S. aureus of healthy sheep in Tunisia.
+
+2. Materials and methods
+
+2.1. Sampling and microbiological isolation
+
+Nasal swabs of 163 healthy sheep were obtained in two
+farms (59 animals) and in one big abattoir (104 animals)
+that receive sheep from farms of all Tunisia. Samples were
+obtained during March–May 2010.
+
+Swabs were incubated in Tryptone Soy Broth (TSB) for
+48 h and then, they were subcultured on Baird Parker agar
+(BD) and ORSAB medium (Oxacillin Resistance Screening
+Agar Base, Oxoid) for 24–48 h, for S. aureus and MRSA
+recovery, respectively. S. aureus suggestive colonies were
+initially identiﬁed by conventional methods [Gram-stain-
+ing, catalase test, oxidase test, DNase production, and
+ability to coagulate rabbit plasma (BioRad)]. S. aureus
+identiﬁcation was then conﬁrmed by ampliﬁcation of the
+species-speciﬁc nuc gene (Go´ mez-Sanz et al., 2010).
+
+All isolates were tested for their capacity to coagulate
+bovine plasma (Sigma–Aldrich) following standard meth-
+odology (Guinane et al., 2010).
+
+2.2. Antimicrobial susceptibility testing
+
+Susceptibility to 18 antimicrobial agents was per-
+formed using the disk-diffusion method in accordance
+
+with the Clinical and Laboratory Standards Institute
+recommendations (CLSI, 2010). Antimicrobial agents
+tested were (charge in mg/disk): penicillin (10), oxacillin
+(1), cefoxitin (30), kanamycin (30), gentamicin (10),
+tobramycin (10), tetracycline (30), chloramphenicol (30),
+trimethoprim–sulfamethoxazole (1.25/23.75), erythromy-
+cin (15), clindamycin (2), amikacin (30), ciproﬂoxacin (5),
+mupirocin (5), vancomycin (30), teicoplanin (30), fusidic
+acid (10) and streptomycin (10). Double-disk diffusion test
+(D-test) with erythromycin and clindamycin disks was
+implemented in all isolates to detect inducible clindamy-
+cin resistance.
+
+2.3. Detection of mecA gene and SCCmec-typing
+
+The presence of the mecA gene was studied by PCR in all
+oxacillin and/or cefoxitin resistant isolates (Zhang et al.,
+2004). The SCCmec-typing was performed for mecA
+positive isolates by a multiplex PCR strategy as previously
+described (Kondo et al., 2007).
+
+2.4. Detection of antimicrobial resistance genes
+
+The ribosomal methylases encoded by erm(A), erm(B)
+and erm(C) genes, which confer resistance to erythromy-
+cin and clindamycin, and the efﬂux pump encoded by
+msr(A) gene, conferring resistance to erythromycin, were
+studied by PCR in erythromycin-resistant
+isolates
+(Go´ mez-Sanz et al., 2010). In addition, tet(K), tet(M) and
+tet(L) genes conferring resistance to tetracycline, blaZ
+gene to penicillin, fusB and fusC genes to fusidic acid, and
+aph(30)-IIIa and ant(6)-Ia genes to kanamycin and
+streptomycin, were studied by PCR in all antimicrobial-
+resistant S. aureus isolates (Go´ mez-Sanz et al., 2010).
+Mutations in elongation factor G were determined by
+sequence analysis of fusA in all fusidic acid-resistant
+isolates (O’Neill et al., 2002).
+
+2.5. Pulsed-ﬁeld-gel-electrophoresis (PFGE)
+
+All S. aureus isolates were characterized by PFGE with
+SmaI restriction enzyme digestion as previously described
+(Bouzaiane et al., 2008). Samples were run on 1% agarose
+gel in 0.5% TBE buffer at 14 8C on a CHEF DR-II PFGE system
+by using an initial switching time of 5 s which was
+increased to 40 s during 20 h at 6 V/cm. The DNA
+ﬁngerprints generated by PFGE were analyzed with visual
+method and by the digitalized method by Gel-Pro version
+3.1 software. The obtained results were submitted to MVSP
+software generating dendrogram according to simple
+matching coefﬁcient and UPGMA algorithm.
+
+2.6. Other molecular typing methods of S. aureus isolates
+
+Spa-typing was performed in all S. aureus isolates as
+elsewhere described (Harmsen et al., 2003). The poly-
+morphic X region of spa gene was ampliﬁed by PCR, and
+sequences were analyzed using Ridom Staph-Type soft-
+ware version 1.5.21 (Ridom GmbH), which automatically
+detects spa repeats and assigns a spa-type according to
+http://spaserver.ridom.de/.
+
+H. Gharsa et al. / Veterinary Microbiology 156 (2012) 367–373
+
+369
+
+Identiﬁcation of agr allele group (I–IV) was determined
+by multiplex PCR as earlier described (Shopsin et al., 2003).
+Multilocus-sequence-typing (MLST) was performed in
+selected S. aureus isolates (in all 5 MRSA and in one
+isolate of each detected spa-type). The allelic proﬁle of
+each strain was obtained by sequencing internal frag-
+ments of 7 unlinked housekeeping genes (arcC, aroE, glpF,
+gmk, pta, tpi, and yqiL). Alleles of the 7 genes deﬁned
+the allelic proﬁle, which corresponded to a sequence
+type (ST) assigned by the MLST database (http://
+www.mlst.net).
+
+2.7. Detection of staphylococcal toxin genes
+
+All isolates were tested by PCR for the presence of 18
+genes coding for staphylococcal enterotoxins (sea, seb, sec,
+sed, see, seg, seh, sei, sej, sek, sel, sem, sen, seo, sep, seq, ser and
+seu), tst gene encoding the TSST (Hwang et al., 2007), lukS-
+lukF genes encoding PVL leukocidin,
+lukE-lukD genes
+encoding the bicomponent leukotoxin LukE-LukD, lukM
+gene encoding leukocidin M, as well as eta and etb genes
+encoding exfoliative ETA and ETB toxins, respectively, and
+hla, hlb, hld, hlg and hlgv genes encoding haemolysin toxins
+(Jarraud et al., 2002).
+
+2.8. Detection of the immune-evasion-gene-cluster (IEC)
+
+All isolates were tested by PCR for the presence of six
+genes (chp, sak, sea, sep, scn and hlb) encoding the IEC, that
+allows its classiﬁcation into seven IEC types (from A to G),
+as previously reported (Van Wamel et al., 2006).
+
+3. Results
+
+3.1. Field survey results for S. aureus isolates from sheep
+
+Among the 163 nasal samples of sheep tested in this
+study, 73 of them were positive for S. aureus recovery
+(44.8%), and one isolate per sample was further studied.
+Five of these S. aureus isolates were MRSA (3% of tested
+animals), and the remaining 68 isolates were MSSA (41.7%
+of tested animals).
+
+3.2. Characteristics of MRSA detected in this study
+
+All 5 MRSA isolates showed indistinguishable or
+closely related patterns and they were ascribed to spa-
+type t044, sequence type ST153 (included in clonal
+complex CC80) and agrIII (Fig. 1 and Table 1). The SCCmec
+cassette of these 5 MRSA was not typeable by the
+employed methods in this study. These strains presented
+resistance, in addition to beta-lactams, to streptomycin,
+kanamycin, erythromycin, and clindamycin (inducible
+type) and four of them to tetracycline and fusidic acid, and
+harboured the genes blaZ, ant(6)-Ia, aph(30)-IIIa, erm(C),
+tet(K), and fusB, respectively. The fusA gene identiﬁed in
+the 4 fusidic-acid-resistant MRSA isolates did not show
+mutations in its sequence that could justify this resistance
+phenotype. Additionally, they also contained the lukS-lukF
+genes encoding the Panton-Valentine leukocidin, as well
+as the luk-ED, hla, hld and hlgv virulence genes. These
+
+MRSA strains also presented the ability to coagulate
+bovine plasma. In addition, they carried the sak, hlb and
+scn genes and were classiﬁed into the immune-evasion-
+gene-cluster IEC type E.
+
+3.3. Characteristics of MSSA detected in this study
+
+The characteristics of the 68 MSSA isolates recovered in
+this study are shown in Table 1. All 68 MSSA were
+submitted to spa-typing and 9 different spa-types were
+detected (number of isolates): t1534 (18), t1773 (19),
+t3576 (17), t5428 (6), t967 (4), t267 (1), and t223 (1), with
+two new ones registered as t7579 (1) and t7630 (1).
+
+Ampliﬁcation of the agr locus showed that agr group I
+was predominant (detected in 47 of 68 MSSA isolates,
+69.1%), being the remaining isolates ascribed to agr group
+III.
+
+Analysis of SmaI macrorestriction proﬁles of the 68
+MSSA isolates revealed 16 different PFGE patterns (Fig. 1).
+These patterns were classiﬁed from S2 to S17, each
+deﬁning a clone. The pulsotype S9 was the most frequently
+detected one (26% of isolates, 19 isolates), followed by the
+pulsotype S4b (12.3% of isolates, 9 isolates) and pulsotype
+S2b (11% of isolates, 8 isolates). PFGE showed a high
+clonality among strains with the same spa-type, except in
+the strains belonging to spa-type t3576 which were
+ascribed to 5 different pulsotypes.
+
+Eight different sequence-types were identiﬁed by MLST
+among MSSA, six of them being new and registered as
+ST2056, ST2057, ST2076, ST2078, ST2079, and ST2083
+(Table 1).
+
+All MSSA strains presented the ability to coagulate
+bovine plasma. Only one of the 68 MSSA isolates carried
+the genes of the IEC system and the positive strain
+contained the genes sak, chp, hlb and scn, and consequently
+was classiﬁed into the IEC type B, according to previously
+referred criteria (Van Wamel et al., 2006). This IEC-positive
+strain belonged to sequence type ST2076.
+
+3.4. Characterization of antimicrobial resistance mechanisms
+and virulence genes among MSSA
+
+Most of MSSA (82.4%) showed susceptibility to the
+tested antimicrobial agents, with the following exceptions:
+penicillin (6% of isolates, carrying blaZ gene), tetracycline
+(19%, carrying tetK gene), and fusidic acid (9%). All 5 MRSA
+and 68 MSSA isolates showed susceptibility to vancomy-
+cin,
+tobramycin, mupirocin,
+chloramphenicol, amikacin, ciproﬂoxacin and trimetho-
+prim-sulfamethoxazole.
+
+teicoplanin, gentamicin,
+
+Fifty-three of 68 MSSA carried the tst gene (78%),
+encoding TSST, and none of them were PVL positive. Other
+virulence genes carried by MSSA isolates were: luk-M (61
+isolates, 89,7%), luk-ED, hla, hlb, hld, and hlgv (67 isolates,
+98,5%), hlg (1 isolate, 1,5%), sec (48 isolates, 70,6%), sel (51
+isolates, 75%), and the ecg cluster-like: sen-sem-sei-seo-seg
+(1 isolate, 1,5%). In contrast, 13 virulence genes were
+absent among our staphylococci: sea, seb, sek, sep, seq, see,
+seu, seh, sed, sej, ser, eta and etb.
+
+No relation was found between the presence of
+
+virulence genes and antimicrobial resistance.
+
+370
+
+H. Gharsa et al. / Veterinary Microbiology 156 (2012) 367–373
+
+Fig. 1. Dendrogram showing the grouping of 73 S. aureus isolates from sheep using PFGE. Similarities are based on simple matching coefﬁcient and UPGMA
+algorithm of SmaI macrorestriction proﬁles obtained by PFGE.
+
+[
+(
+F
+i
+g
+.
+_
+1
+)
+T
+D
+$
+F
+I
+G
+]
+H. Gharsa et al. / Veterinary Microbiology 156 (2012) 367–373
+
+371
+
+4
+B
+s
+u
+f
+
+,
+)
+C
+(
+m
+r
+e
+
+,
+4
+)
+K
+(
+t
+e
+t
+
+,
+
+a
+I
+-
+)
+6
+(
+t
+n
+a
+
+4
+A
+F
+
+,
+
+C
+C
+
+,
+
+E
+
+,
+
+A
+K
+
+3
+A
+F
+
+R
+N
+
+0
+1
+)
+K
+(
+t
+e
+t
+
+,
+1
+Z
+a
+l
+b
+
+)
+K
+(
+t
+e
+t
+
+,
+
+Z
+a
+l
+b
+
+)
+K
+(
+t
+e
+t
+
+)
+K
+(
+t
+e
+t
+
+,
+
+Z
+a
+l
+b
+
+0
+1
+E
+T
+
+A
+F
+
+E
+T
+
+R
+N
+
+,
+1
+P
+
+E
+T
+
+,
+
+P
+
+1
+A
+F
+
+R
+N
+
+1
+P
+
+E
+T
+
+,
+
+P
+
+R
+N
+
+0
+
+,
+
+a
+I
+I
+I
+-
+)
+3
+(
+h
+p
+a
+
+,
+
+Z
+a
+l
+b
+
+,
+
+A
+c
+e
+m
+
+,
+
+S
+
+,
+4
+E
+T
+
+,
+
+X
+O
+
+,
+
+X
+F
+
+,
+
+P
+
+d
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+
+E
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+B
+
+–
+
+–
+
+–
+
+–
+
+v
+g
+l
+h
+
+,
+
+l
+
+d
+h
+
+,
+
+l
+
+b
+h
+
+,
+
+a
+l
+h
+
+,
+
+M
+-
+k
+u
+
+l
+
+,
+
+D
+E
+-
+k
+u
+
+l
+
+,
+4
+1
+l
+e
+s
+-
+3
+1
+c
+e
+s
+-
+t
+s
+t
+
+v
+g
+l
+h
+
+,
+
+l
+
+d
+h
+
+,
+
+a
+l
+h
+
+,
+
+F
+k
+u
+l
+-
+S
+k
+u
+
+l
+
+,
+
+D
+E
+-
+k
+u
+
+l
+
+v
+g
+l
+h
+
+v
+g
+l
+h
+
+,
+
+l
+
+d
+h
+
+,
+
+l
+
+b
+h
+
+,
+
+a
+l
+h
+
+,
+
+M
+-
+k
+u
+
+l
+
+,
+
+D
+E
+-
+k
+u
+
+l
+
+,
+l
+e
+s
+-
+c
+e
+s
+-
+t
+s
+t
+
+,
+
+l
+
+d
+h
+
+,
+
+l
+
+b
+h
+
+,
+
+a
+l
+h
+
+,
+
+M
+-
+k
+u
+
+l
+
+,
+
+D
+E
+-
+k
+u
+
+l
+
+,
+l
+e
+s
+-
+c
+e
+s
+-
+t
+s
+t
+
+v
+g
+l
+h
+
+,
+
+l
+
+d
+h
+
+,
+
+l
+
+b
+h
+
+,
+
+a
+l
+h
+
+,
+
+M
+-
+k
+u
+
+l
+
+,
+
+D
+E
+-
+k
+u
+
+l
+
+v
+g
+l
+h
+
+,
+
+l
+
+d
+h
+
+,
+
+l
+
+b
+h
+
+,
+
+a
+l
+h
+
+,
+
+M
+-
+k
+u
+
+l
+
+,
+
+D
+E
+-
+k
+u
+
+l
+
+,
+5
+1
+l
+e
+s
+-
+5
+1
+c
+e
+s
+-
+t
+s
+t
+
+v
+g
+l
+h
+
+,
+
+l
+
+d
+h
+
+,
+
+l
+
+b
+h
+
+v
+g
+l
+h
+
+,
+
+a
+l
+h
+
+,
+
+l
+
+d
+h
+
+,
+
+l
+
+b
+h
+
+,
+
+a
+l
+h
+
+,
+
+M
+-
+k
+u
+
+l
+
+,
+
+D
+E
+-
+k
+u
+
+l
+
+,
+
+M
+-
+k
+u
+
+l
+
+,
+
+D
+E
+-
+k
+u
+
+l
+
+,
+l
+e
+s
+-
+8
+1
+c
+e
+s
+-
+t
+s
+t
+
+v
+g
+l
+h
+
+,
+
+l
+
+d
+h
+
+,
+
+l
+
+b
+h
+
+,
+
+a
+l
+h
+
+,
+
+M
+-
+k
+u
+
+l
+
+,
+
+D
+E
+-
+k
+u
+
+l
+
+,
+l
+e
+s
+-
+c
+e
+s
+-
+t
+s
+t
+
+v
+g
+l
+h
+
+,
+
+l
+
+d
+h
+
+,
+
+l
+
+b
+h
+
+,
+
+a
+l
+h
+
+,
+
+M
+-
+k
+u
+L
+
+,
+
+D
+E
+-
+k
+u
+
+l
+
+o
+e
+s
+-
+n
+e
+s
+-
+
+m
+e
+s
+-
+i
+e
+s
+-
+g
+e
+s
+
+,
+t
+s
+t
+
+v
+g
+l
+h
+
+v
+g
+l
+h
+
+,
+
+l
+
+d
+h
+
+,
+
+l
+
+d
+h
+
+,
+
+l
+
+b
+h
+
+,
+
+l
+
+b
+h
+
+,
+
+a
+l
+h
+
+,
+
+D
+E
+-
+k
+u
+
+l
+
+,
+
+a
+l
+h
+
+,
+
+D
+E
+-
+k
+u
+
+l
+
+I
+I
+I
+
+I
+
+I
+
+I
+I
+I
+
+I
+I
+I
+
+I
+I
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+7
+1
+S
+
+,
+
+4
+1
+S
+
+,
+
+2
+1
+S
+
+,
+
+b
+2
+S
+
+,
+
+a
+2
+S
+
+b
+6
+1
+S
+
+,
+
+a
+6
+1
+S
+
+,
+
+7
+S
+
+6
+S
+
+0
+1
+S
+
+3
+1
+S
+
+5
+S
+
+a
+4
+S
+
+b
+4
+S
+
+1
+1
+S
+
+3
+S
+
+9
+S
+
+e
+6
+5
+0
+2
+T
+S
+
+0
+0
+7
+T
+S
+
+e
+6
+7
+0
+2
+T
+S
+
+0
+0
+7
+T
+S
+
+e
+9
+7
+0
+2
+T
+S
+
+e
+3
+8
+0
+2
+T
+S
+
+e
+8
+7
+0
+2
+T
+S
+
+6
+7
+4
+1
+T
+S
+
+5
+1
+S
+
+,
+
+8
+S
+
+,
+
+b
+4
+S
+
+,
+
+a
+4
+S
+
+e
+7
+5
+0
+2
+T
+S
+
+4
+3
+5
+1
+t
+
+4
+3
+5
+1
+t
+
+4
+3
+5
+1
+t
+
+e
+9
+7
+5
+7
+t
+
+e
+0
+3
+6
+7
+t
+
+3
+7
+7
+1
+t
+
+6
+7
+5
+3
+t
+
+6
+7
+5
+3
+t
+
+8
+2
+4
+5
+t
+
+7
+6
+9
+t
+
+7
+6
+2
+t
+
+3
+2
+2
+t
+
+b
+1
+S
+
+,
+
+a
+1
+S
+
+3
+5
+1
+T
+S
+
+4
+4
+0
+t
+
+5
+
+5
+1
+
+2
+
+1
+
+1
+
+1
+
+9
+1
+
+6
+1
+
+1
+
+6
+
+4
+
+1
+
+1
+
+e
+d
+e
+t
+c
+e
+t
+e
+d
+
+s
+e
+n
+e
+g
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+R
+
+c
+i
+t
+o
+i
+b
+i
+t
+n
+a
+
+f
+o
+
+e
+p
+y
+t
+o
+n
+e
+h
+P
+
+c
+e
+p
+y
+t
+
+C
+E
+I
+
+d
+e
+t
+c
+e
+t
+e
+d
+
+s
+e
+n
+e
+g
+
+n
+i
+x
+o
+T
+
+e
+p
+y
+t
+
+r
+g
+a
+
+n
+r
+e
+t
+t
+a
+p
+
+E
+G
+F
+P
+
+b
+T
+S
+L
+M
+
+e
+p
+y
+t
+-
+a
+p
+s
+
+s
+e
+t
+a
+l
+o
+s
+i
+
+.
+
+o
+N
+
+a
+.
+a
+i
+s
+i
+n
+u
+T
+
+n
+i
+
+p
+e
+e
+h
+s
+
+y
+h
+t
+l
+a
+e
+h
+m
+o
+r
+f
+
+d
+e
+r
+e
+v
+o
+c
+e
+r
+
+s
+e
+t
+a
+l
+o
+s
+i
+
+A
+S
+S
+M
+8
+6
+
+d
+n
+a
+
+A
+S
+R
+M
+5
+
+e
+h
+t
+
+f
+o
+
+s
+c
+i
+t
+s
+i
+r
+e
+t
+c
+a
+r
+a
+h
+c
+
+c
+i
+p
+y
+t
+o
+n
+e
+g
+
+d
+n
+a
+
+c
+i
+p
+y
+t
+o
+n
+e
+h
+P
+
+1
+
+e
+l
+b
+a
+T
+
+4. Discussion
+
+The high recovery rate of S. aureus detected among
+nasal samples of healthy sheep in this study (44.8%),
+including PVL-positive MRSA isolates, is of relevance and
+represents, to our knowledge, the ﬁrst study of this type
+performed in Tunisia. Previous works carried out in France
+and in Saudi Arabia in healthy sheep showed a lower nasal
+carriage of S. aureus (29% and 37.5%, respectively) (Vautor
+et al., 2005; Alzohairy, 2011).
+
+The 5 MRSA strains recovered in our study were typed
+as ST153-t044 (single-locus variant of ST80), and agr type
+III, and harboured the genes encoding PVL. ST153 belongs
+to the clonal complex CC80, one of the major PVL-positive
+community acquired-MRSA lineages disseminated world-
+wide. It is of interest to remark that the clone CC80-t044
+detected in our animal samples were frequently detected
+among community associated-MRSA in Tunisia in a
+previous study (Ben Nejma et al., 2008), as well as in
+other countries (Deurenberg and Stobberingh, 2008). In
+addition, the unique MRSA detected in healthy humans in
+Tunisia in a previous study (a veterinarian working with
+farm animals) was of the same clonal complex CC80
+(although of different sequence type and spa-type) (Ben
+Slama et al., 2011). Some authors refer that S. aureus of the
+clone CC80 frequently shows resistance to tetracycline,
+streptomycin, kanamycin and fusidic acid (with the
+presence of the gene fusB), but not to gentamicin (McLaws
+et al., 2011), as four of the 5 MRSA isolates detected in our
+study.
+
+Eight STs were identiﬁed among the MSSA strains, with
+6 new STs detected. There are few data about the two
+remaining already-known STs but there seems to be an
+association between these clonal
+lineages and farm
+animals. ST700 detected in 20 of our MSSA isolates was
+previously identiﬁed in one strain recovered from one goat
+and belongs to CC130, which animal origin has been
+suggested (Shore et al., 2011). ST1476 lineage detected in
+one of our MSSA isolates belongs to CC97, which is mainly
+related to ruminants. This ST and CC have been also
+identiﬁed in Italian pig holdings and in Spanish pigs
+(Battisti et al., 2010; Go´ mez-Sanz et al., 2010).
+
+Additionally, no MRSA ST398 was detected among our
+strains, clonal lineage related to farm animals (Go´ mez-
+Sanz et al., 2010; Lozano et al., 2011). This genetic lineage is
+mostly detected among pigs and cattle, and as far as we
+know,
+it has not been previously identiﬁed in sheep
+samples.
+
+There is association between speciﬁc lineages of S.
+aureus and speciﬁc animal species. For Islamic countries, as
+it is the case of Tunisia, that do not consume pork, sheep is
+a very important agriculture animal species and the meat
+of sheep represents half of the total red meat consumed in
+Tunisia, according to recent published data (Brahmi et al.,
+2010). Important differences in the type of agricultural
+animals and type of consumed red meat do exist in
+European countries comparing to those of the Islamic
+culture.
+
+The capacity of coagulate bovine plasma detected in our
+MRSA and MSSA isolates is a characteristic previously
+reported for small ruminants and bovine S. aureus ecovars
+
+.
+t
+p
+i
+r
+c
+s
+r
+e
+p
+u
+s
+
+n
+
+i
+
+d
+e
+t
+a
+c
+i
+d
+n
+
+i
+
+s
+i
+
+c
+i
+t
+s
+i
+r
+e
+t
+c
+a
+r
+a
+h
+c
+
+s
+i
+
+h
+t
+
+h
+t
+i
+
+w
+s
+e
+t
+a
+l
+o
+s
+i
+
+f
+o
+
+r
+e
+b
+m
+u
+n
+
+e
+h
+t
+
+d
+n
+a
+m
+e
+h
+t
+
+f
+o
+
+e
+m
+o
+s
+
+y
+l
+n
+o
+
+t
+u
+b
+
+,
+
+d
+e
+t
+a
+c
+i
+d
+n
+i
+
+c
+i
+t
+s
+i
+r
+e
+t
+c
+a
+r
+a
+h
+c
+
+e
+h
+t
+
+d
+e
+t
+n
+e
+s
+e
+r
+p
+
+p
+u
+o
+r
+g
+
+e
+h
+t
+
+f
+o
+
+s
+e
+t
+a
+l
+o
+s
+i
+
+e
+h
+t
+
+l
+l
+a
+
+t
+o
+n
+
+,
+s
+e
+s
+a
+c
+
+e
+m
+o
+s
+
+n
+I
+
+.
+
+d
+e
+t
+c
+e
+t
+e
+d
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+
+o
+n
+
+:
+R
+N
+
+.
+
+d
+i
+c
+a
+
+c
+i
+d
+i
+s
+u
+f
+
+:
+A
+F
+
+.
+
+d
+n
+a
+
+n
+i
+c
+y
+m
+a
+d
+n
+i
+l
+c
+
+:
+C
+C
+
+,
+
+n
+i
+c
+y
+m
+o
+r
+h
+t
+y
+r
+e
+
+:
+E
+
+,
+
+n
+i
+c
+y
+m
+a
+n
+a
+k
+
+:
+A
+K
+
+,
+
+n
+i
+c
+y
+m
+o
+t
+p
+e
+r
+t
+s
+
+:
+S
+
+,
+
+e
+n
+
+i
+l
+c
+y
+c
+a
+r
+t
+e
+t
+
+:
+E
+T
+
+,
+
+n
+
+i
+t
+i
+x
+o
+f
+e
+c
+
+:
+X
+F
+
+,
+
+n
+
+i
+l
+l
+i
+c
+a
+x
+o
+
+:
+X
+O
+
+;
+n
+
+i
+l
+l
+i
+c
+i
+n
+e
+p
+
+:
+P
+
+.
+
+m
+e
+h
+t
+
+f
+o
+
+l
+l
+a
+
+r
+o
+f
+
+d
+e
+m
+r
+o
+f
+r
+e
+p
+
+s
+a
+w
+T
+S
+L
+M
+h
+c
+i
+h
+w
+
+r
+o
+f
+
+A
+S
+R
+M
+5
+
+e
+h
+t
+
+f
+o
+
+n
+o
+i
+t
+p
+e
+c
+x
+e
+
+e
+h
+t
+
+h
+t
+i
+
+w
+
+,
+
+i
+
+d
+e
+n
+m
+r
+e
+t
+e
+d
+
+s
+a
+w
+e
+p
+y
+t
+
+a
+p
+s
+
+h
+c
+a
+e
+
+f
+o
+
+e
+t
+a
+l
+o
+s
+i
+
+e
+n
+o
+
+f
+o
+
+T
+S
+L
+M
+e
+h
+T
+
+.
+
+n
+i
+a
+r
+t
+s
+
+s
+i
+h
+t
+
+r
+o
+f
+
+e
+v
+i
+t
+a
+g
+e
+n
+
+e
+r
+e
+w
+m
+e
+t
+s
+y
+s
+
+e
+h
+t
+
+f
+o
+
+s
+e
+n
+e
+g
+
+d
+e
+t
+s
+e
+t
+
+x
+i
+s
+
+l
+l
+a
+
+,
+
+–
+
+C
+E
+I
+
+.
+)
+6
+0
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+
+l
+e
+m
+a
+W
+n
+a
+V
+o
+t
+
+g
+n
+i
+d
+r
+o
+c
+c
+a
+
+i
+
+d
+e
+n
+m
+r
+e
+t
+e
+d
+
+s
+a
+w
+e
+p
+y
+t
+
+C
+E
+I
+
+e
+h
+T
+
+.
+
+d
+e
+t
+a
+c
+i
+d
+n
+i
+
+s
+a
+
+d
+e
+r
+e
+t
+s
+i
+g
+e
+r
+
+d
+n
+a
+
+d
+e
+t
+c
+e
+t
+e
+d
+
+e
+r
+e
+w
+s
+e
+p
+y
+t
+
+e
+c
+n
+e
+u
+q
+e
+s
+
+r
+o
+
+s
+e
+p
+y
+t
+-
+a
+p
+s
+
+w
+e
+N
+
+a
+
+b
+
+c
+
+d
+
+e
+
+372
+
+H. Gharsa et al. / Veterinary Microbiology 156 (2012) 367–373
+
+(Guinane et al., 2010); the referred authors associated this
+capacity with the presence of a novel staphylococcal
+pathogenicity island (SaPlov2), which was detected in their
+study in S. aureus strains of the clonal complex CC133, a
+well adapted clone to the bovine ecosystem. According to
+our results, it seems that other clonal complexes recovered
+from sheep might harbour this SaPlov2 element or similar
+ones, due to the fact that all our strains (of clonal
+complexes different from CC133) showed also the capacity
+to coagulate bovine plasma.
+
+Beside the presence of lukS-lukF genes, coding for PVL
+toxin in the 5 MRSA isolates, several other virulence genes
+were detected in our MSSA isolates. The high percentage of
+tst-positive strains detected in our study (78% of MSSA) is
+in agreement with the results found by other authors in
+sheep (Vautor et al., 2009), but it is higher than the results
+obtained in MSSA strains from human nasal samples (Ben
+Slama et al., 2011).
+
+Remarkably, most of the strains which harboured the tst
+gene also contained the luk-M, luk-ED, sec and sel genes.
+These genes might be either located in the same or
+associated genetic element or be somehow related to the
+identiﬁed clonal lineages. A relation among tst, sec and sel
+genes has been observed in many studies and it is known
+that there is a pathogenic island which encodes them
+(SaPI2) (Orden et al., 1992). On the other hand, the operon
+egc (enterotoxin gene cluster) which contains the seg-sei-
+sem-sen-seo genes (Hwang et al., 2007; Vautor et al., 2009)
+was only detected in one of our strains. This cluster is
+considered as a putative source of superantigen in S.
+aureus, being a possible source of new SE genes which are
+responsible for the horizontal transfer of virulence and/or
+antimicrobial resistance genes among S. aureus strains
+(Jarraud et al., 2001; U´ beda et al., 2005). Studies on MSSA
+human strains have detected a higher prevalence of this
+operon and it seems to be linked to the clonal background
+(Holtfreter et al., 2007). All strains except for the one which
+harboured the egc cluster presented hla, hld and hlgv genes,
+and 93% of them the hlb gene. These toxins are produced by
+most of S. aureus strains (Dinges et al., 2000). No positive
+strains were obtained for the remaining toxin genes tested
+(sea, seb, sek, sep, seq, see, seu, seh, sed, sej, ser, eta and etb).
+All our MRSA strains (typed as ST153) and one of the 68
+MSSA strains (typed as ST2076) carried the IEC system
+(type E or B). In previous studies it has been documented
+that IEC has an extremely high incidence among clinical
+human S. aureus strains (Van Wamel et al., 2006).
+According with our results, it seems that this IEC system
+is very scarcely distributed in MSSA sheep isolates but in
+those MRSA ones. This system is mobilized by bacter-
+iophages that integrate the genes of IEC cluster in the gene
+hlb of S. aureus (Van Wamel et al., 2006).
+
+Most of our MSSA showed susceptibility to the
+antimicrobials tested with few exceptions. The low level
+of penicillin resistance detected among our isolates
+contrast with the high frequency of this type of resistance
+reported for human isolates, even in commensal ones (Ben
+Slama et al., 2011; Lozano et al., 2011). The ﬁnding of
+tetracycline resistance among 23% of our S. aureus isolates
+could be explained by the high use of this antibiotic in
+animal industry. In regards to fusidic acid resistance, the
+
+rate found in different countries is very variable, with
+percentages ranging from 0.3% to 52.5% (Chen et al., 2010).
+No mutations in elongation factor G have been detected in
+the fusA sequences of the analyzed fusidic acid resistant S.
+aureus isolates.
+
+In conclusion, the nares of healthy sheep could be a
+reservoir of PVL-positive MRSA isolates and also of S.
+aureus isolates carrying tst, sec and sel genes. More studies
+should be performed in the future to gain knowledge in the
+genetic lineages of S. aureus circulating among healthy
+animals, as well as in the capacity of these strains to
+produce virulence factors, due to the risk of animal-to-
+human bacterial transference.
+
+Acknowledgements
+
+This study has been possible thank to an Integrated
+Action and a project ﬁnanced by the Agencia Espan˜ ola de
+Cooperacio´ n Internacional al Desarrollo (AECID) from the
+Ministerio de Asuntos Exteriores of Spain and from the
+Tunisian Ministry of Higher Education and Scientiﬁc
+Research. C. Lozano has a predoctoral fellowship from
+the Ministerio de Ciencia e Innovacio´ n of Spain, E. Go´ mez-
+Sanz a predoctoral fellowship from the Gobierno de La
+Rioja and P. Go´ mez a fellowship Colabora (2010/08) of the
+Gobierno de La Rioja of Spain. We acknowledge the
+cooperation of the company Ellouhoum (Production and
+Marketing of the meat in Tunisia) for sample collection.
+
+References
+
+Alzohairy, M., 2011. Colonization and antibiotic susceptibility pattern of
+methicillin resistance Staphylococcus aureus (MRSA) among farm
+animals in Saudi Arabia. J. Bacteriol. Res. 3, 63–68.
+
+Battisti, A., Franco, A., Merialdi, G., Hasman, H., Iurescia, M., Lorenzetti, R.,
+Feltrin, F., Zini, M., Aarestrup, F.M., 2010. Heterogeneity among
+methicillin resistant Staphylococcus aureus from Italian pig ﬁnishing
+holdings. Vet. Microbiol. 142, 361–366.
+
+Ben Nejma, M., Mastouri, M., Bel Hadj Jrad, B., Nour, M., 2008. Char-
+acterization of ST80 Panton-Valentine leukocidin-positive commu-
+nity-acquired methicillin-resistant Staphylococcus aureus clone in
+Tunisia. Diagn. Microbiol. Infect. Dis., doi:10.1016/j. diagmicrobio.
+2008.02.010.
+
+Ben Slama, K., Gharsa, H., Klibi, N., Jouini, A., Lozano, C., Go´ mez-Sanz, E.,
+Zarazaga, M., Boudabous, A., Torres, C., 2011. Nasal carriage of Sta-
+phylococcus aureus in healthy humans with different levels of contact
+with animals in Tunisia: genetic lineages, methicillin resistance, and
+virulence factors. Eur. J. Clin. Microbiol. Infect. Dis. 30, 499–508.
+
+Bouzaiane, O., Abbassi, M., Gtari, M., Belhaj, O., Jedidi, N., Ben Hassen, A.,
+Hassen, A., 2008. Molecular typing of staphylococcal communities
+isolated during municipal solid waste composting process. Ann.
+Microbiol. 58, 387–394.
+
+Brahmi, M.A., Khaldi, R., Khaldi, G., 2010. L’e´ levage ovin extensif en
+Tunisie: disponibilite´ s alimentaires et innovations pour la valorisa-
+tion des ressources fourrage` res locales. In: Inov. Devlop. Durab. Agr.
+ISDA 2010, Montpellier, 28–30 Juin 2010.
+
+Chen, H.J., Hung, W.C., Tseng, S.P., Tsai, J.C., Hsueh, P.R., Teng, L.J., 2010.
+Fusidic acid resistance determinants in Staphylococcus aureus clinical
+isolates. Antimicrob. Agents Chemother. 54, 4985–4991.
+
+CLSI, 2010.In: Performance Standards for Antimicrobial Susceptibility
+Testing: Eighteenth Informational Supplement. CLSI Document
+M100-18 CLSI, Wayne, PA, USA.
+
+Deurenberg, R.H., Stobberingh, E.E., 2008. The evolution of Staphylococcus
+
+aureus. Infect. Genet. Evol. 8, 747–763.
+
+Dinges, M.M., Orwin, P.M., Schlievert, P.M., 2000. Exotoxins of Staphylo-
+
+coccus aureus. Clin. Microbiol. Rev. 13, 16–34.
+
+Elbir, H., Feil, E.J., Drancourt, M., Roux, V., El Sanusi, S.M., Eshag, M.,
+Colque-Navarro, P., Kuhn, I., Flock, J.-I., 2010. ovine clone ST1464: a
+predominant genotype of Staphylococcus aureus subsp. anaerobicus
+isolated from sheep in Sudan. J. Infect. Dev. Countries 4, 235–238.
+
+H. Gharsa et al. / Veterinary Microbiology 156 (2012) 367–373
+
+373
+
+Fluit, A.C., Wielders, C.L., Verhoef, J., Schmitz, F.J., 2001. Epidemiology and
+susceptibility of 3,051 Staphylococcus aureus isolates from 25 uni-
+versity hospitals participating in the European Sentry Study. J. Clin.
+Microbiol. 39, 3727–3732.
+
+Francis, J.S., Doherty, M.C., Lopatin, U., Johnston, C.P., Sinha, G., Ross, T.,
+Cai, M., Hansel, N.N., Perl, T., Ticehurst, J.R., Carroll, K., Thomas, D.L.,
+Nuermberger, E., Bartlett, J.G., 2005. Severe community-onset pneu-
+monia in healthy adults caused by methicillin-resistant Staphylococ-
+cus aureus carrying the Panton-Valentine leucocidin genes. Clin.
+Infect. Dis. 1, 100–107.
+
+Go´ mez-Sanz, E., Torres, C., Lozano, C., Ferna´ ndez-Pe´ rez, R., Aspiroz, C.,
+Ruiz-Larrea, F., Zarazaga, M., 2010. Detection, molecular character-
+ization, and clonal diversity of methicillin-resistant Staphylococcus
+aureus CC398 and CC97 in Spanish slaughter pigs of different age
+groups. Food. Pathog. Dis. 7, 1269–1277.
+
+Guinane, C.M., Ben Zakour, N.L., Tormo-Mas, M.A., Weinert, L.A., Lowder,
+B.V., Cartwright, R.A., Smyth, D.S., Smyth, C.J., Lindsay, J.A., Gould, K.A.,
+Witney, A., Hinds, J., Bollback, J.P., Rambaut, A., Penade´ s, J.R., Fitzger-
+ald, J.R., 2010. Evolutionary genomics of Staphylococcus aureus reveals
+insights into the origin and molecular basis of ruminant host adapta-
+tion. Genome Biol. E 2, 454–466.
+
+Harmsen, D., Claus, H., Witte, W., Rothganger, J., Claus, H., Turnwald, D.,
+Vogel, U., 2003. Typing of methicillin-resistant Staphylococcus aureus
+in a university hospital setting by using novel software for spa repeat
+determination and database management. J. Clin. Microbiol. 41,
+5442–5448.
+
+Holtfreter, S., Grumann, D., Schmudde, M., Nguyen, H.T., Eichler, P.,
+Strommenger, B., Kopron, K., Kolata, J., Giedrys-Kalemba, S., Stein-
+metz, I., Witte, W., Bro¨ ker, B.M., 2007. Clonal distribution of super-
+antigen genes in clinical Staphylococcus aureus isolates.
+J. Clin.
+Microbiol. 45, 2669–2680.
+
+Hwang, S.Y., Kim, S.H., Jang, E.J., Kwon, N.H., Park, Y.K., Koo, H.C., Jung,
+W.K., Kim, J.M., Park, Y.H., 2007. Novel multiplex PCR for the detection
+of the Staphylococcus aureus superantigen and its application to raw
+meat isolates in Korea. Int. J. Food Microbiol. 117, 99–105.
+
+Jarraud, S., Mougel, C., Thioulouse, J., Lina, G., Meugnier, H., Forey, F.,
+Nesme, X., Etienne, J., Vandenesch, F., 2002. Relationships between
+Staphylococcus aureus genetic background, virulence factors, agr
+groups (alleles), and human disease. Infect. Immun. 70, 631–641.
+
+Jarraud, S., Peyrat, M.A., Lim, A., Tristan, A., Bes, M., Mougel, C., Etienne, J.,
+Vaqndesesch, F., Bonneville, M., Lina, G., 2001. egc, a highly prevalent
+operon of enteroxin gene, forms a putative nursery of superantigens
+in Staphylococcus aureus. J. Immunol. 166, 669–677.
+
+Kock, R., Harlizius, J., Bressan, N., Laerberg, R., Wieler, L.H., Witte, W.,
+Deurenberg, R.H., Voss, A., Becker, K., Friedrich, A.W., 2009. Preva-
+lence and molecular characteristics of methicillin-resistant Staphy-
+lococcus aureus (MRSA) among pigs on German farms and import of
+livestock-related MRSA into hospitals. Eur. J. Clin. Microbiol. Infect.
+Dis. 28, 1375–1382.
+
+Kondo, Y., Ito, T., Ma, X.X., Watanabe, S., Kreiswirth, B.N., Etienne, J.,
+Hiramatsu, K., 2007. Combination of multiplex PCRs for staphylococ-
+cal cassette chromosome mec type assignment: rapid identiﬁcation
+system for mec, ccr, and major differences in junkyard regions. Anti-
+microb. Agents Chemother. 51, 264–274.
+
+Lozano, C., Aspiroz, C., Charlez, L., Go´ mez-Sanz, E., Toledo, M., Zarazaga,
+M., Torres, C., 2011. Skin lesion by methicillin-resistant Staphylo-
+coccus aureus ST398-t1451 in a Spanish pig farmer: possible trans-
+mission from animals to humans. Vector Borne Zoonotic Dis. 11,
+605–607.
+
+Madec, J.Y., Haenni, M., 2010. Methicillin-resistant Staphylococcus aureus
+(MRSA) among animals in France: prevalence and co-resistance. Bull.
+Acad. Ve´ t. France 163, 275–280.
+
+McLaws, F.B., Larsen, A.R., Skov, R.L., Chopra, I., O´ Neill, A.J., 2011.
+Distribution of fusidic acid resistance determinants in methicil-
+lin-resistant Staphylococcus aureus. Antimicrob. Agents Chemother.
+55, 1173–1176.
+
+O’Neill, A.J., Bostock, M., Moita, A.M., Chopra, I., 2002. Antimicrobial
+activity and mechanisms of resistance to cepahalosporin P1, an
+antibiotic related to fusidic acid.
+J. Antimicrob. Chemother. 50,
+839–848.
+
+Orden, J.A., Goyache, J., Hernandez, J., Domenech, A., Suarez, G., Gomez-
+Lucia, E., 1992. Detection of enterotoxins and TSST-1 secreted by
+Staphylococcus aureus isolated from ruminant mastitis. Comparison of
+ELISA and immunoblot. J. Appl. Bacteriol. 72, 486–489.
+
+Shopsin, B., Herring, S., Kreiswirth, B.N., 2003. Hospital-acquired and
+Clin. Infect. Dis. 37,
+
+community-derived: the future of MRSA?
+151–152 author reply 152.
+
+Shore, A.C., Deasy, E.C., Slickers, P., Brennan, G., O’Connell, B., Monecke, S.,
+Ehricht, R., Coleman, D.C., 2011. Detection of staphylococcal cassette
+chromosome mec type XI carrying highly divergent mecA, mecI,
+mecR1, blaZ, and ccr genes in human clinical isolates of clonal complex
+130 methicillin-resistant Staphylococcus aureus. Antimicrob. Agents
+Chemother. 55, 3765–3773.
+
+U´ beda, C., Maiques, E., Knecht, E., Lasa, I., Novick, R.P., Penade´ s, J., 2005.
+Antibiotic-induced SOS response promotes horizontal dissemination
+of pathogenicity island-encoded virulence factors in staphylococci.
+Mol. Microbiol. 56, 836–844.
+
+Van Wamel, W.J.B., Rooijakkers, S.H.M., Ruyken, M., Van Kessel, K.P.M.,
+Van Strijp, J.A.G., 2006. The innate immune modulators staphylococ-
+cal complement inhibitor and chemotaxis inhibitory protein of Sta-
+on b-hemolysin-converting
+phylococcus
+bacteriophages. J. Bacteriol. 188, 1310–1315.
+
+located
+
+aureus
+
+are
+
+Vautor, E., Abadie, G., Guibert, J.M., Chevalier, N., Pe´ pin, M., 2005. Nasal
+carriage of Staphylococcus aureus in dairy sheep. Vet. Microbiol. 106,
+235–239.
+
+Vautor, E., Magnone, V., Rios, G., Brigand, K.L., Bergonier, D., Lina, G.,
+Meugnier, H., Barbry, P., Thie´ ry, R., Pe´ pin, M., 2009. Genetic differ-
+ences among Staphylococcus aureus isolates from dairy ruminant
+species: a single-dye DNA microarray approach. Vet. Microbiol.
+133, 105–114.
+
+Weese, J.S., Duijkeren, V.E., 2009. Methicillin-resistant Staphylococcus
+aureus and Staphylococcus pseudintermedius in veterinary medicine.
+Vet. Microbiol. 140, 418–429.
+
+Zhang, K., Sparling, J., Chow, B.L., Elsayed, S., Hussain, Z., Church, D.L.,
+Gregson, D.B., Louie, T., Conly, J.M., 2004. New quadriplex PCR assay
+for detection of methicillin and mupirocin resistance and simulta-
+neous discrimination of Staphylococcus aureus from coagulase-nega-
+tive staphylococci. J. Clin. Microbiol. 42, 4947–4955.
+
+

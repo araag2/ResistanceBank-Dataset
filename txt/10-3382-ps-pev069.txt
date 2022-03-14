@@ -1,0 +1,1229 @@
+Antibiotic resistance proﬁles among mesophilic aerobic bacteria in Nigerian
+
+chicken litter and associated antibiotic resistance genes1
+
+Olayeni Stephen Olonitola,2,∗ Nicole Fahrenfeld,† and Amy Pruden‡
+
+∗Department of Microbiology, Ahmadu Bello University, Zaria KD 810006, Nigeria; †Department of Civil and
+Environmental Engineering, Rutgers, The State University of New Jersey, 96 Frelinghuysen Road, Piscataway,
+NJ 08854; and ‡Via Department of Civil and Environmental Engineering, Virginia Tech, Blacksburg, VA 24061
+
+ABSTRACT The effect of global antibiotic use prac-
+tices in livestock on the emergence of antibiotic re-
+sistant pathogens is poorly understood. There is a
+paucity of data among African nations, which suffer
+from high rates of antibiotic resistant infections among
+the human population. Escherichia (29.5%), Staphylo-
+coccus (15.8%), and Proteus (15.79%) were the domi-
+nant bacterial genera isolated from chicken litter from
+four different farms in Zaria, Nigeria, all of which
+contain human pathogenic members. Escherichia iso-
+lates were uniformly susceptible to augmentin and ce-
+furoxime, but resistant to sulfamethoxazole (54.5%),
+ampicillin (22.7%), ciprofloxacin (18.2%), cephalothin
+(13.6%) and gentamicin (13.6%). Staphylococcus iso-
+lates were susceptible to ciprofloxacin, gentamicin, and
+
+sulfamethoxazole, but resistant to tetracycline (86.7%),
+erythromycin (80%), clindamycin (60%), and penicillin
+(33.3%). Many of the isolates (65.4%) were resistant
+to multiple antibiotics, with a multiple antibiotic re-
+sistance index (MARI) ≥ 0.2. sul1, sul2, and vanA
+were the most commonly detected antibiotic resis-
+tance genes among the isolates. Chicken litter asso-
+ciated with antibiotic use and farming practices in
+Nigeria could be a public health concern given that
+the antibiotic resistant patterns among genera con-
+taining pathogens indicate the potential
+for antibi-
+otic treatment failure. However, the MARI values
+were generally lower than reported for Escherichia
+coli
+from intensive poultry operations in industrial
+nations.
+
+Key words: antibiotics, antibiotic resistance, chicken, MARI, Nigeria
+
+INTRODUCTION
+
+Antibiotic resistance is one of the greatest human
+health challenges of our time and the case has been
+made that the world is dangerously close to a return
+to the pre-antibiotic era (Chander et al., 2007). There
+is growing concern and evidence (Rinsky et al., 2013)
+that agricultural antibiotic use may be contributing sig-
+nificantly to increased rates of antibiotic resistance. In
+many countries, the majority of antibiotics used are
+administered to livestock, and in the United States
+and many countries the majority is for prophylactic
+purposes or to stimulate growth promotion. Of par-
+ticular concern are antibiotics that are used both in
+
+C(cid:3) 2015 Poultry Science Association Inc.
+Received June 11, 2014.
+Accepted January 17, 2015.
+1The authors express appreciation to the Council for International
+Exchange of Scholars/Institute of International Education, U.S. De-
+partment of State (Fulbright Scholars), and the Embassy of the United
+States of America, Abuja, Nigeria, for the award of the Fulbright
+African Research Scholar Program (ARSP) grant to enable Olayeni
+Stephen Olonitola participation in this study at Virginia Tech, Blacks-
+burg, VA. Financial support was provided by the Institute of Critical
+Technology and Applied Science at Virginia Tech (TSTS 11–26).
+
+2Corresponding author: olonisteve@gmail.com
+
+1
+
+2015 Poultry Science 00:1–8
+http://dx.doi.org/10.3382/ps/pev069
+
+human and livestock medicine, such as third gener-
+ation cephalosporins (Collignon et al., 2013), though
+even use of distinct antibiotics poses a risk for cross-
+selection or coselection of resistance to human antibi-
+otics (Hedges and Shannon, 1984) and can stimulate
+horizontal gene transfer [i.e., transfer of antibiotic re-
+sistance genes (ARG) among bacteria] (Gillings and
+Stokes, 2012).
+
+Livestock populations have been found to be reser-
+voirs of several critical antibiotic resistant human
+pathogens, including vancomycin-resistant Enterococci
+(Bates, 1997). In many other countries and much of the
+developing world, the use of antibiotics in livestock is
+unregulated and a prescription is not required even for
+human use (Hart and Kariuki, 1998). In general, an-
+tibiotic use in livestock in Africa (Siwela et al., 2007) is
+unrestricted. Thus, antibiotic use practices vary widely
+across the globe and there is an opportunity to learn
+about their general effects by comparing antibiotic re-
+sistance patterns among livestock from different regions
+of the world. In particular, although much effort has
+been directed at improving the poor circumstances of
+public health in Africa, little is known about the status
+of antimicrobial resistance in African livestock popula-
+tions or potential linkages to human illness.
+
+2
+
+STEPHEN OLONITOLA ET AL.
+
+Poultry are of particular interest given their re-
+ported linkage with vancomycin-resistant Enterococci
+infections in humans in European studies (Hayes et al.,
+2004). Unlike the intensive poultry farming as practiced
+essentially in urban settings, “free range” farming is
+the major form in the rural and peri-urban areas of
+Nigeria where modern facilities such as electricity sup-
+plies are not available, and is usually intended for lo-
+cal consumption (Ajala et al., 2008). It involves ex-
+tensive rearing of birds around households on a small
+to medium scale basis, allows for extensive movement
+(outside of nonconfining enclosures) and exposure to
+sunlight, and requires affordable capital inputs since
+the birds feed mainly by scavenging. Also local breeds
+of bird (Gallus domesticus) are mostly used. The turn-
+over rates are high and the protein needs of the poor
+households are partially met. It is also thought to
+be a relatively sustainable and cost effective practice.
+Large scale poultry farming is usually practiced in ur-
+ban areas where available lands for extensive rearing
+of birds are lacking (Kperegbeyi et al., 2009). This
+practice is also sometimes called commercial or in-
+dustrial poultry farming, and involves thousands of
+birds grown in complete confinement (battery system
+or deep litter system). The main characteristics of
+large scale poultry farms are: use of exotic breeds of
+birds, use of specially formulated feeds, use of vac-
+cines, and availability of electricity (Kperegbeyi et al.,
+2009).
+
+Unfortunately, antibiotic use policies are rarely en-
+forced in Nigeria and antibiotics are widely used in
+poultry farming without oversight (Nsofor et al., 2013;
+Okonko et al., 2010). Recent surveys (n = 30) in-
+dicated that >83% of poultry farmers use tetracy-
+clines, 50% use tylosin, 40% use gentamicin, and
+<30% use enrofloxacin, ciprofloxacin, penicillin, strep-
+tomycin, furazolidone, chloramphenicol, and ampicil-
+llin (Nsofor et al., 2013). In the southeastern region of
+Nigeria, antimicrobial agents were reportedly incorpo-
+rated directly into poultry feeds, and available with-
+out veterinary consult (Nsofor et al., 2013). Among
+the antibiotics available, tetracycline appears to be
+the most widely used in African poultry feeds and
+in some instances as much as 100% of the bacterial
+isolates from these feeds were resistant to the antibi-
+otics tested (i.e., ampicillin, ampiclox, carbenicillin,
+ceflaximide, chloramphenicol, ciprocin, ciprofloxacin,
+cotrimoxazole, erythromycin, floxapen, gentamicin, lin-
+cocin, norfloxacin, ofloxacin, penicillin, polymyxin B,
+reflacine, rifampicin, streptomycin, tetracycline, and
+vancomycin) (Okonko et al., 2010). These findings are
+similar to those from other parts of the country such as
+in northeastern Nigeria (Geidam et al., 2012). These
+workers observed varying levels of resistances to an-
+tibiotics among bacteria isolated from chicken in their
+studies. This suggests that antibacterial resistances in
+isolates associated with poultry farms are rampant
+in Nigeria and portend dangers of treatment failures
+in cases of infection with such isolates. The demand for
+
+poultry is growing in Nigeria, and the resulting poultry
+litter is used for fertilizing crops and in fisheries.
+
+The purpose of this study was to examine the antibi-
+otic resistance patterns among mesophilic chicken lit-
+ter bacteria isolated from four different farms in Zaria,
+northwestern Nigeria. Of particular interest were the
+distributions of ARGs in the Escherichia and Staphylo-
+coccus genera, which contain several pathogenic mem-
+bers of concern to human health and are increasingly
+subject to antibiotic treatment failure. Knowledge of
+the distribution of antibiotic resistant bacteria and
+ARGs in chicken litter from representative Nigerian
+chicken farms can provide a point of comparison to
+countries with varying rearing and antibiotic use prac-
+tices. Further, identification of potential pathogens that
+are resistant to important human antibiotics indicates
+the need for greater attention on ways to prevent and
+control the spread of antibiotic resistance from livestock
+operations in developing countries with few antibiotic
+use restrictions.
+
+MATERIALS AND METHODS
+
+Sample Collection
+
+Four hundred fresh (nonrepeat) poultry fecal drop-
+pings were aseptically collected in sterile McCartney
+bottles from layers in 2 commercial/intensive chicken
+farms [Department of Animal Science poultry farm,
+Main Campus, Ahmadu Bello University (i.e., CM) and
+Accord Farms, Batch C (i.e., C)] and 2 small scale
+free range farms [Fulani Rarer (i.e., FR) and Area F
+quarter (i.e., F)] between the hours of 7 and 9 AM
+over a period of 6 wk (June 4 to July 13, 2012). The
+farms are located in different parts of Zaria metropolis
+(Table 1). Samples were immediately transported on ice
+to the laboratory for analyses (Adeleke and Omafuvbe,
+2011; Siwela et al., 2007). A total of 250 samples were
+randomly selected for the current study.
+
+Isolation and Identiﬁcation of Bacterial
+Strains
+
+Ten grams of
+
+fecal droppings were homogenized
+with 90 mL maximum recovery diluents (MRD,
+Oxoid) to obtain 1:10 dilution. Serial dilutions were
+prepared up to 10−5. A volume of 0.1 mL of the
+10−3, 10−4, and 10−5 dilutions were plated out on the
+following agar media for maximum recovery of aero-
+bic mesophilic bacteria: mannitol salt agar-CM0085,
+Oxoid (Hampshire, United Kingdom) (Staphylococcus
+and related organisms), bile-aesculin agar-CM0888,
+Oxoid (Enterococcus), MacConkey agar-CM 0115,
+Oxoid and Salmonella–Shigella agar-CM0099, Oxoid
+(Enterobacteriaceae). The agar plates were incubated
+at 37◦C for up to 24 h. Representative colonies were se-
+lected based on their morphological characteristics and
+purified on nutrient agar. Tentative biochemical iden-
+tification of isolates was carried out based on standard
+
+ANTIBIOTIC RESISTANCE IN NIGERIAN POULTRY LITTER
+
+3
+
+Table 1. Information about the 4 farms from where samples were collected.
+
+Antibiotic used
+
+Feed
+
+Breed of bird
+
+Life stage
+
+Age of farm
+
+Farm
+identifier
+
+CM1
+
+C2
+
+FR3
+
+Oxytetracycline,
+tylosin, neomycin,
+chloramphenicol
+Gentamicin,
+doxycycline,
+chloramphenicol,
+tylosin, neomycin,
+amoxycillin
+None
+
+Self-compounding OR
+Hybreed, Vitalfeed,
+Animal Care, Sovetfeed
+Self-compounding OR
+vitafeed, Robson feed,
+Hybreed
+
+Isa brown, Black harco
+
+15 mo
+
+>30 yr
+
+Nova Nera (brown)
+
+14 mo
+
+12 yr
+
+Local grain chaffs
+
+Local breeds5
+
+ND
+
+ND
+
+ND
+
+ND
+
+Farming practice
+description
+
+Intensive, deep litter
+farming system
+
+Intensive, deep litter
+farming system
+
+Extensive, local
+scavenging,
+supplemented with
+local grain chaffs
+Extensive, local
+scavenging,
+supplemented with
+local grain chaffs
+
+F4
+
+None
+
+Local grain chaffs
+
+Local breeds5
+
+1CM = Department of Animal Science Poultry Farm, Ahmadu Bello University, Zaria, Nigeria.
+2C = Accord Farms, Kwangila, Zaria (Batch C birds).
+3FR = Fulani Rearer, Hayin Dogo, Zaria.
+4F = Area F (household farm), Zaria.
+5Birds likely coming in contact with commercial feed wastes/antibiotics while roaming.
+
+procedures (Cheesbrough, 2006). Isolates were identi-
+fied by sequencing the 16S rRNA gene, as described
+below.
+
+Antibiotic Susceptibility Studies
+
+The agar disc diffusion method as recommended
+by CLSI (2006) was employed. In all, 17 antibiotics
+were selected and screened for their inhibitory ef-
+fects on the isolates based on the procedures of CLSI
+(2006) and as reported by other workers (Olonitola
+et al., 2007). Escherichia isolates were tested for re-
+sistance to amoxicillin/clavulanic acid (Aug), ampi-
+cillin (Amp), cefotaxime (Cef), cephalothin (Cep),
+ciprofloxacin (Cip), gentamicin (Gen), nitrofurantoin
+(Nit), and trimethoprim/sulphamethoxazole (Cot).
+Staphylococcus isolates were tested for resistance to
+Cip, clindamycin (Cli), erythromycin (Ery), Gen, lin-
+zolid (Lin), oxacillin (Oxa), penicillin (Pen), quino-
+pristin/dalfopristin (Qui), rifampicin (Rif), tetracy-
+cline (Tet), Cot, and vancomycin (Van).
+
+Multiple Antibiotics Resistance Indexing of
+Isolates
+
+Multiple antibiotic resistance indexing (MARI) was
+based on the procedures of Krumperman (1983). MARI
+is defined as a/b where “a” represents the number of
+antibiotics to which an isolate is resistant and “b” the
+number of antibiotics against which the isolate is tested.
+An MARI ≥ 0.2 is regarded to have originated from
+environments where antibiotics are frequently used.
+
+Molecular Studies
+Individual colonies,
+
+in duplicate, were suspended
+in molecular biology grade water (10 μL), boiled for
+
+10 min, and this solution was used directly for PCR.
+Prior to Sanger sequencing (Virginia Bioinformat-
+ics Institute, Blacksburg, VA), samples were ampli-
+fied using 8F/1492R primers targeting the V3 re-
+gion of the 16S rRNA gene (Weisburg et al., 1991).
+Duplicate sequences were aligned and trimmed us-
+ing DNA Baser
+(Heracle BioSoft S.R.L., Pitesti,
+Romania) with settings for low quality sequences.
+Multiple sequence alignment was performed using
+ClustalW and maximum likelihood trees were con-
+structed in MEGA5 (Tamura et al., 2011). The Ba-
+sic Local Alignment Search Tool (BLAST) alignment
+tool (http://www.ncbi.nlm.nih.gov/BLAST/) was used
+to identify sequences in GenBank with the highest sim-
+ilarity to the isolated bacteria. BLAST classifications
+were verified using the Ribosomal Database Project
+(Wang et al., 2007). Sequences are available in Euro-
+pean Molecular Biology Laboratory (EMBL) under ac-
+cession number LK985325-LK985383.
+
+Testing for presence of ARGs was performed as previ-
+ously described (Pei et al., 2006) in 25 μL reactions with
+MasterTaq polymerase (5 Prime, Gaithersburg, MD)
+for ermF (Chen et al., 2007), mecA (Volkmann et al.,
+2004), sul1 (Pei et al., 2006), sul2 (Pei et al., 2006),
+tet(O) (Aminov et al., 2001), tet(W) (Aminov et al.,
+2001), and vanA (Clark et al., 1993). These genes were
+selected to represent a range of ARG representing genes
+related to antibiotics used at some of the test sites (e.g.,
+tet genes for tetracycline, ermF gene for macrolides, and
+mecA for methicillin) and vanA given that it is consid-
+ered an antibiotic of last resort. No template controls
+were included in each run. Detection of ARGs was con-
+firmed by agarose gel electrophoresis.
+
+Analysis of Similarity (ANOSIM) analysis was per-
+formed on transformed ARG presence/absence data
+and antibiotic susceptibility data using Primer 6 statis-
+tical software (PrimerE, Ivy Bridge, United Kingdom).
+
+4
+
+STEPHEN OLONITOLA ET AL.
+
+Table 2. Observed resistance rates among isolates to each
+antibiotic tested.
+
+Table 3. Escherichia resistance patterns for A) ARG and B)
+susceptibility tests.
+
+Antibiotics
+
+Amoxicillin/clavulanic acid (Aug)
+Ampicillin (Amp)
+Cefotaxime (Cef)
+Cephalothin (Cep)
+Ciprofloxacin (Cip)
+Clindamycin (Cli)
+Erythromycin (Ery)
+Gentamicin (Gen)
+Linzolid (Lin)
+Nitrofurantoin (Nit)
+Oxacillin (Oxa)
+Penicillin (Pen)
+Quinopristin/dalfopristin (Qui)
+Rifampicin (Rif)
+Tetracycline (Tet)
+Trimethoprim/sulphamethoxazole
+(Cot)
+Vancomycin (Van)
+
+Escherichia
+% resistant,
+
+n = 22
+
+Staphylococcus
+% resistant,
+
+n = 15
+
+0
+22.7
+0
+13.6
+18.2
+
+13.6
+
+4.5
+
+54.5
+
+0
+60.0
+80.0
+0
+13.3
+
+13.3
+33.3
+26.7
+13.3
+86.7
+0
+
+13.3
+
+RESULTS
+
+Identiﬁcation of Culturable Bacteria and
+Their Antibiotic Resistance Patterns
+
+Culturable aerobic mesophilic bacteria in the chicken
+droppings were found to be dominated by Es-
+cherichia (29.47%), Staphylococcus (15.79%), and Pro-
+teus (15.79%), based on 16S rRNA gene sequencing
+of a representative subset of isolates (95 out of 250).
+Other common isolates (>9%) were highest in sequence
+similarity to Alcaligenes, Pseudomonas, Salmonella,
+Enterobacter, Klebsiella, and Bacillus. Some of the less
+commonly encountered genera included Consenzaea,
+Providencia, Lysinibacillus, and Wohlfartiimonas.
+
+A broad range of antimicrobial
+
+resistance pat-
+terns were observed among the isolates (Tables 2–4).
+Escherichia were uniformly susceptible to augmentin
+and cefotaxime, while Staphylococcus were uni-
+formly susceptible to ciprofloxacin, gentamicin, and
+trimethoprim/sulfamethoxazole. Over eighty percent of
+Staphylococcus isolates were resistant to tetracycline
+(Table 2). Many of the isolates were characterized by a
+MARI ≥ 0.2 (Figure 1). Multiple antibiotic resistance
+was extreme with one particular Staphylococcus isolate,
+which was resistant to 9 antibiotics (Table 4). Among
+the ARGs tested, the most commonly identified were
+sul1, sul2, and vanA (Tables 3 and 4).
+
+Comparison of Antibiotic Resistance
+Patterns across Farms
+
+ANOSIM analysis of disc and ARG resistance suites
+indicated that there was a difference in antibiotic re-
+sistance patterns between CM and F (P = 0.001) and
+CM and FR (P = 0.012) sample sites for Escherichia.
+In contrast, no differences in resistance patterns were
+observed between C and either F (P = 0.30) or FR
+
+A
+
+Number of
+
+ARGs present
+
+Number of
+isolates with
+
+pattern
+
+0
+1
+2
+
+3
+
+5
+11
+7
+
+4
+
+B
+
+Number of
+antibiotics
+
+Number of
+isolates with
+
+pattern
+
+0
+1
+
+2
+
+4
+5
+
+7
+7
+
+6
+
+1
+1
+
+Resistance pattern (number
+isolates exhibiting pattern)
+
+None
+sul1 (1); sul2 (5); vanA (5)
+sul1/sul2 (1); sul1/vanA (2);
+sul2/vanA (4)
+sul1/sul2/vanA (4)
+Resistance pattern (number
+isolates exhibiting pattern)
+
+None
+Amp1 (1), Cep2 (1), Cot3 (4),
+Nit4 (1)
+Amp/Cot (3); Gen5/Cot (1);
+Cip6/Cot (2)
+Cep/Cip/Gen/Cot
+Amp/Cep/Cip/Gen/Cot
+
+1Amp = Ampicillin.
+2Cep = Cephalothin.
+3Cot = Trimethoprim/sulphamethoxazole.
+4Nit = Nitrofurantoin.
+5Gen = Gentamicin.
+6Cip = Ciprofloxacin.
+
+Table 4. Staphylococcus resistance patterns for A) ARG and
+B) susceptibility tests.
+
+Resistance pattern (number
+isolates exhibiting pattern)
+
+None
+sul2 (1); vanA (1)
+sul1/vanA (1); sul2/vanA (1)
+Resistance pattern (number
+isolates exhibiting pattern)
+
+None
+Tet1
+Tet/Ery2
+Oxa3/Pen4/Rif5 (1);
+Ery/Qui6/Tet (1);
+Cli7/Ery/Tet (5)
+Cli/Ery/Pen/Tet
+Cli/Ery/Pen/Qui/Tet
+Cli/Ery/Lin8/Pen/Qui/
+Tet/Van9
+Cli/Ery/Lin/Oxa/Pen/Rif/
+Qui/Tet/Van
+
+A
+
+B
+
+Number of
+
+ARGs present
+
+Number of
+isolates with
+
+pattern
+
+0
+1
+2
+
+6
+2
+2
+
+Number of
+antibiotics
+
+Number of
+isolates with
+
+pattern
+
+0
+1
+2
+3
+
+4
+5
+7
+
+9
+
+1
+1
+2
+7
+
+1
+1
+1
+
+1
+
+1Tet = Tetracycline.
+2Ery = Erythromycin.
+3Oxa = Oxacillin.
+4Pen = Penicillin.
+5Rif = Rifampicin.
+6Qui = Quinopristin/dalfopristin.
+7Cli = Clindamycin.
+8Lin = Linzolid.
+9Van = Vancomycin.
+
+(P = 0.35) sites for Escherichia. There was a differ-
+ence (P = 0.022) between commercial farm CM and
+free range farm FR for the Staphylococcus isolates.
+
+Staphylococcus isolates from free range farms were
+resistant to zero or 3 antibiotics, while isolates from
+
+ANTIBIOTIC RESISTANCE IN NIGERIAN POULTRY LITTER
+
+5
+
+imal Science Farm and Accord Farms 4 isolates con-
+tained one ARG and 4 contained 2 ARGs. ARGs were
+detected in neither of 2 Staphylococcus isolates from the
+Area F farm/Fulani Rearer farm, while resistance pat-
+terns of zero, one, and 2 ARGs were each observed in
+4 isolates from the Accord Farms/Department of An-
+imal Science farm. For Staphylococcus, one strain was
+vancomycin resistant and tested positive for the vanA
+gene, 2 strains had the gene but were susceptible to
+vancomycin, and one strain displayed resistance to van-
+comycin but the vanA gene was not detected. Of the 22
+Escherichia isolates tested for both susceptibility and
+ARGs, 8 were resistant to Cot and contained the sul2
+gene, 4 were resistant to Cot and contained both sul1
+and sul2 genes, while the rest demonstrated no resis-
+tance to Cot and either contained the sul1 and sul2
+genes (one isolate), contained sul2 gene (3 isolates), or
+contained neither sul gene tested (6 isolates). In con-
+trast, no resistance to Cot was observed in Staphylococ-
+cus isolates while 2 isolates tested positive for the sul2
+gene and one carried the sul1 gene.
+
+DISCUSSION
+
+This study provides insight into the status of an-
+timicrobial resistance in poultry litter in northwestern
+Nigeria. This part of the world is of particular interest
+given that antimicrobials are widely used in livestock
+and poorly controlled and that little data is available on
+the effects of varying rearing practices. Further, human
+populations in Africa are susceptible to relatively high
+rates of antibiotic resistance bacterial infection (Pablos-
+M´endez et al., 1998). Thus, a larger concern is not just
+the presence of potentially pathogenic bacteria resis-
+tant to antibiotics in poultry litter, but their poten-
+tial to spread through the environment and to humans,
+given the local farming practices. Others have observed,
+in both developing and industrialized nations, that a
+wide range of ARGs from agricultural operations can
+disseminate and persist in affected environments (Pei
+et al., 2006). In particular, high levels of ARGs have
+been measured in poultry litter from intensive poultry
+facilities (Diarrassouba et al., 2007).
+
+Association of Genera Isolated with
+Human Pathogens
+
+Of particular concern is that many of bacterial
+genera isolated are associated with important human
+pathogens. The identification of the isolates obtained
+were generally consistent with a previous report from
+Ile-Ife, southwestern Nigeria (Adeleke and Omafuvbe,
+2011), though a few differences were noted. In partic-
+ular, Corynebacterium, Acinetobacter, and Aeromonas
+were reported in the Ile-Ife study and not found
+in the present study, while Providentcia, Cocenzaea,
+Lysinibacillus, Wolhfahrtiimonas, Klebsiella, and En-
+terobacter were encountered in this study, but not the
+
+Figure 1. Multiple antibiotic resistance index (MARI) for A) Es-
+
+cherichia (N = 22), B) Staphylococcus isolates (N = 15).
+
+the commercial/intensive farms (Department of Ani-
+mal Science Farm and Accord Farms) were resistant to
+one to 7 antibiotics. No resistance was the most com-
+monly observed pattern for isolates from the free range
+farms (Fulani Rearer Farm and Area F Farm); however
+the isolates with the highest MARI, those resistant to 4
+of 5 antibiotics, were also observed from the free range
+farms. The most commonly observed resistance pattern
+for isolates from the commercial farms was to one an-
+tibiotic (n = 6).
+
+Escherichia isolated from free range farms (9 isolates
+total) were resistant to zero up to 5 antibiotics, with no
+resistance the most commonly observed pattern (4 iso-
+lates). Escherichia isolated from commercial farms (13
+isolates) were resistant to zero to 3 antibiotics with re-
+sistance to one antibiotic the most commonly observed
+(6 isolates). Therefore, while Escherichia isolates with
+the highest MARI were found on free range farms, a
+higher incidence of resistance (10/13 on commercial vs.
+5/9) was observed for isolates from commercial farms.
+Of the 7 ARGs investigated in this study (ermF,
+mecA, sul1, sul2, tetO, tetW, and vanA) only sul1, sul2,
+and vanA were detected. For Escherichia, sul1, sul2,
+and vanA were detected in isolates on each type of farm.
+Most isolates from the Area F farm/Fulani Rearer farm
+(7/15) contained one ARG, for the Department of An-
+
+6
+
+STEPHEN OLONITOLA ET AL.
+
+Ile-Ife study. These discrepancies could be affected
+by the geographical differences (Ile-Ife is in south-
+western Nigeria) (Ojo et al., 2012) or differences in
+isolation techniques. Nonetheless, most of the univer-
+sally reported organisms in poultry fecal samples, in-
+cluding Escherichia, Shigella, Staphylococcus, Proteus,
+Salmonella, and Bacillus were isolated in both stud-
+ies. In addition, the 2 studies encountered higher num-
+bers of Gram negative than Gram positive bacteria, as
+might be expected given these bacteria are normal flora
+of the intestinal tract of poultry birds (Hemen et al.,
+2012). Interestingly, some of the bacteria encountered,
+including Bacillus, Escherichia, Staphylococcus, Pseu-
+domonas, and Salmonella have been isolated liberally
+from commercial chicken feeds in Calabar, the south-
+ernmost geopolitical zone of Nigeria (Okonko et al.,
+2010), suggesting that potentially pathogenic antibiotic
+resistant bacteria could easily be circulated via feeding
+operations.
+
+Observed Patterns of Antibiotic Resistance
+and Implications
+
+This study confirms that resistant strains of sev-
+eral bacteria are circulating in Nigerian poultry op-
+erations, as reported in other studies (Nsofor et al.,
+2013). Escherichia displayed a high rate of resis-
+tance to trimethoprim/sulfamethoxazole (tested on
+same disc) (54.5%), ampicillin (22.7%), ciprofloxacin
+(18.2%), cephalothin (13.6%), and gentamicin (13.6%).
+However, the resistance rates among isolates in the
+present study appear to be generally lower than some of
+those previously reported cases in Nigeria, which ranged
+from 60 to 100% resistances in most instances (Geidam
+et al., 2012; Ojo et al., 2012). The lower percentage
+resistance observed in the current study may be due
+to the fact that laying hens were studied, rather than
+broilers. van den Bogaard et al. (2001) reported that
+bacterial infections occur less frequently in layers than
+in young broilers and consequently less antibiotics tend
+to be used.
+
+While a high level of indiscriminate use of antimi-
+crobials in animals has been reported, due to weak en-
+forcement of antibiotic use policies (Ojo et al., 2012),
+findings of the current study suggest that overuse of an-
+tibiotics may not be prominent on medium/small scale
+poultry farms in northwestern Nigeria. This may be in
+part because use of antibiotics in laying birds presents
+additional cost to farmers that may not present benefits
+for outputs of laying hens. Still, the rate of Escherichia
+resistances observed in the present study agree with
+those reported in Australia (Obeng et al., 2012), where
+use of antimicrobials in animal production is regu-
+lated and enforced. Studies of intensive chicken farms in
+north east Georgia, United States indicated that 75%
+of E. coli isolates from chicken litter were resistant to
+3 or more antibiotics (Smith et al., 2007), whereas the
+present study noted 91% of isolates to be resistant to
+
+2 or fewer antibiotics. This is consistent with observa-
+tions of lower rates of antibiotic resistance on organic
+versus commercial poultry farms in the United States
+(Sapkota et al., 2011).
+
+The observed resistance rate to the fluoroquinolone
+antibiotic, ciprofloxacin (18.2%), is comparable to the
+16.7% reported by Ojo et al. (2012), but is in contrast
+to 0% resistance reported by some researchers (Olaitan
+et al., 2011). Flouroquinolones are not used in animal
+production in Nigeria, due to the high costs, but pos-
+sible exposure to less potent and adulterated antibi-
+otics by humans sharing the same environments with
+the farm animals may be responsible for the possible
+emergence of resistance to these less misused antibi-
+otics (Nsofor and Iroegbu, 2012). This study indicates
+that even resistance to important human antibiotics not
+used in livestock is possible when such antibiotics are
+not being used and the need for comprehensive control
+strategies. ANOSIM analysis indicated that patterns of
+resistance were not necessarily strongly associated with
+sample origin and therefore known antibiotic use; how-
+ever, it is expected given a larger sample size such pat-
+terns may become apparent given a larger sample size.
+In this study, resistances to the tested antibiotics
+were even higher in Staphylococcus than in Escherichia.
+These findings are in agreement with Suleiman et al.
+(2013) and further support the fact that antimicrobial
+drug resistance rates among pathogen-containing gen-
+era are a concern in Nigeria. This is corroborated by the
+MARI of the bacterial isolates in the present study. At
+least 61.5% (Staphylococcus) and 33.3% (Escherichia) of
+the isolates were characterized by a MARI ≥ 0.2, which
+is usually an indication that the isolates originated from
+environments where antibiotics are frequently used
+(Krumperman, 1983). It is also interesting to note that
+65.4% of the Staphylococcus isolates expressed multiple
+resistances to at least 3 antibiotics, particularly among
+strains isolated from intensive/commercial farms where
+antibiotic use is more common. Multiple antibiotic re-
+sistances have previously been reported in Staphylococ-
+cus in Nigeria (Okonko et al., 2010), suggesting that it
+is probably a common occurrence around the country.
+
+Distribution of Targeted ARGs
+
+Of the 7 ARGs investigated in this study, only sul1,
+sul2, and vanA were detected. The ARG vanA was the
+most frequently detected among Staphylococcus (30%),
+while sul2 was the most frequently detected in Es-
+cherichia (77.2%). Still, vanA was detected in 68.2%
+of Escherichia isolates.
+
+Vancomycin is a narrow spectrum inhibitor of cell
+wall synthesis in bacteria. Vancomycin is widely used
+to treat many life-threatening human infections caused
+by Gram positive bacteria (Sanakal and Kaliwal, 2011).
+Resistance to vancomycin is mediated by the vanA gene
+in Staphylococcus aureus (Chang et al., 2003) and it
+was detected in 3 Staphylococcus isolates in the present
+
+ANTIBIOTIC RESISTANCE IN NIGERIAN POULTRY LITTER
+
+7
+
+study. Detection of the vanA gene where resistance was
+not demonstrated may be due to bacteria harboring an
+inactive or damaged gene that is not longer functional,
+which is possible given the length of insert the vanA
+protocol targets. These results may indicate other genes
+are involved in vancomycin resistance given that strains
+displayed resistance without the gene.
+
+Although vancomycin resistance is not indicated for
+Escherichia, because it is a Gram negative bacterium,
+several isolates carried the vanA gene. This suggests
+that carrier strains that do not express resistance could
+mediate horizontal gene transfer of resistance to criti-
+cally important antibiotics (Kristiansson et al., 2011).
+The genes sul1 and sul2 were frequently detected in
+this study and detection of sul2 was often associated
+with resistance to sulfamethoxazole. No isolates demon-
+strated resistance to sulfamethoxaole without the detec-
+tion of sul1 or sul2, but sul1 and sul2 were also detected
+in some isolates that did not demonstrate resistance
+to sulfamethoxaole. This indicates that ARGs may be
+present, but inactive. Others have noted that sulfon-
+amide resistance is common in bacteria from swine and
+chickens (Kozak et al., 2009).
+
+The mecA gene encodes resistance to methicillin.
+Although some of the Staphylococcus isolates were
+resistant to oxacillin, none of them carried mecA
+gene. Previous studies in Zaria, Nigeria, also failed to
+detect the mecA gene, even in confirmed Methicillin-
+resistant Staphylococcus aureus (MRSA) (Olayinka
+et al., 2009; Olonitola et al., 2007), thus it was sug-
+gested by Olayinka et al. (2009) that the MRSA phe-
+notype observed in their isolates was not the classical
+mecA-mediated resistance, but most probably due to
+hyperproduction of β-lactamase.
+
+In the case of tetracyclines, several genes confer re-
+sistance by various mechanisms, whereas this study in-
+vestigated the ribosomal protection factors tet(O) and
+tet(W) and did not find them to be present in any of the
+strains. Others have observed tet(A) and tet(B) in com-
+mercial broiler chicken litter from British Columbia,
+Canada (Diarrassouba et al., 2007).
+
+The ermF gene confers resistance to macrolides, lin-
+cosamides, and streptogramin B (Chung et al., 1999).
+While several of the isolates displayed resistance to ery-
+thromycin and clindamycin, the ermF gene was not
+detected in any of the Staphylococcus isolates. Thus,
+another gene may be responsible for the observed resis-
+tance or the resistance was phenotypic in nature (Bae
+et al., 2007).
+
+CONCLUSIONS
+
+Antibiotic
+
+resistance patterns were profiled in
+mesophilic aerobic bacterial isolates obtained from free
+range and commercial chicken farms in Zaria, north-
+western Nigeria, a part of the world with little data
+to address the effect of farming practices on antibiotic
+resistance. Of particular concern was that genera con-
+taining pathogenic members were the most commonly
+
+identified and that many of the antibiotic resistance
+patterns indicated multiple antibiotic resistance and
+potential for antibiotic treatment failure. Vancomycin
+resistance was common among Staphylococcus isolates
+and the vanA gene was the most frequently detected
+of the ARGs assayed. Observed resistance rates in Es-
+cherichia were lower than those observed in litter from
+commercial chicken operations reported in industrial-
+ized nations; however, Nigerian practices may increase
+the potential for transfer to humans. For example, free
+range farming practices, may present benefits from high
+turnover rates and low animal counts per acre, but in-
+crease potential for human contact and infection trans-
+fer compared to commercial farms. Further study is rec-
+ommended to demonstrate which farming practices best
+reduce antibiotic resistance levels and minimize the po-
+tential to spread to humans.
+
+REFERENCES
+
+Adeleke, E., and B. Omafuvbe. 2011. Antibiotic resistance of aerobic
+mesophilic bacteria isolated from poultry faeces. Res. J. Micro-
+biol. 6:356–365.
+
+Ajala, M. K., B. I. Nwagu, and E. O. Otchere. 2008. Socio-economics
+of free-range poultry production among agropastoral women in
+Giwa local government area of Kaduna State, Nigeria. Nigerian
+Vet. J. 28:11–18.
+
+Aminov, R., N. Garrigues-Jeanjean, and R. Mackie. 2001. Molecular
+ecology of tetracycline resistance: Development and validation of
+primers for detection of tetracycline resistance genes encoding
+ribosomal protection proteins. Appl. Environ. Microbiol. 67:22–
+32.
+
+Bae, S. Y., J. S. Kim, J.-A. Kwon, S.-Y. Yoon, C. S. Lim, K. N.
+Lee, Y. Cho, Y. K. Kim, and C. K. Lee. 2007. Phenotypes and
+genotypes of macrolide-resistant Streptococcus pyogenes isolated
+in Seoul, Korea. J. Med. Microbiol. 56:229–235.
+
+Bates, J. 1997. Epidemiology of vancomycin-resistant enterococci in
+the community and the relevance of farm animals to human in-
+fection. J. Hosp. Infect. 37:89–101.
+
+Chander, Y., S. C. Gupta, S. M. Goyal, and K. Kumar. 2007. An-
+
+tibiotics: Has the magic gone? J Sci. Food Agric. 87:739–742.
+
+Chang, S., D. M. Sievert, J. C. Hageman, M. L. Boulton, F. C. Ten-
+over, F. P. Downes, S. Shah, J. T. Rudrik, G. R. Pupp, and W. J.
+Brown. 2003. Infection with vancomycin-resistant Staphylococcus
+aureus containing the vanA resistance gene. New Engl. J. Med.
+348:1342–1347.
+
+Cheesbrough, M. 2006. District Laboratory Practice in Tropical
+
+Countries. Cambridge Univ. Press, Cambridge, UK.
+
+Chen, J., Z. Yu, F. C. Michel, T. Wittum, and M. Morrison.
+2007. Development and application of real-time PCR assays for
+quantification of erm genes conferring resistance to macrolides-
+lincosamides-streptogramin B in livestock manure and manure
+management systems. Appl. Environ. Microbiol. 73:4407–4416.
+
+Chung, W. O., K. Young, Z. Leng, and M. C. Roberts. 1999. Mo-
+bile elements carrying ermF and tetQ genes in Gram-positive
+and Gram-negative bacteria. J. Antimicrob. Chemother. 44:
+329–335.
+
+Clark, N. C., R. C. Cooksey, B. C. Hill, J. M. Swenson, and
+F. C. Tenover. 1993. Characterization of glycopeptide-resistant
+enterococci from U.S. hospitals. Antimicrob. Agents Chemother.
+37:2311–2317.
+
+Clinical and Laboratory Standards Institute (CLSI). 2006. Perfor-
+mance Standards for Antimicrobial Disk Susceptibility Tests; Ap-
+proved standard M2-A9. 26.
+
+Collignon, P., F. Aarestrup, R. Irwin, and S. McEwen. 2013. Human
+deaths and third-generation cephalosporin use in poultry, Europe.
+Emerg. Infect. Dis 19:1339–40.
+
+Diarrassouba, F., M. S. Diarra, S. Bach, P. Delaquis, J. Pritchard, E.
+Topp, and B. J. Skura. 2007. Antibiotic resistance and virulence
+
+8
+
+STEPHEN OLONITOLA ET AL.
+
+genes in commensal Escherichia coli and Salmonella isolates from
+commercial broiler chicken farms. J. Food Prot. 70:1316–1327.
+
+Geidam, Y. A., A. G. Ambali, and P. A. Onyeyili. 2012. Detec-
+tion and antibiotic sensitivity pattern of avian pathogenic Es-
+cherichia coli strains among rural chickens in the arid region of
+north-eastern Nigeria. Vet. World. 5:325–329
+
+Gillings, M. R., and H. W. Stokes. 2012. Are humans increasing
+
+bacterial evolvability? Trends Ecol. Evolut. 27:346–352.
+
+Hart, C. A., and S. Kariuki. 1998. Antimicrobial resistance in devel-
+
+oping countries. Br. Med. J. 317:647–650.
+
+Hayes, J. R., L. L. English, L. E. Carr, D. D. Wagner, and S. W.
+Joseph. 2004. Multiple-antibiotic resistance of Enterococcus spp.
+isolated from commercial poultry production environments. Appl.
+Environ. Microbiol. 70:6005–6011.
+
+Hedges, R. W., and K. P. Shannon. 1984. Resistance to apramycin
+in Escherichia coli isolated from animals: Detection of a novel
+aminoglycoside-modifying enzyme. J. Gen. Microbiol. 130:473–
+482.
+
+Hemen, J. T., J. T. Johnson, E. E. Ambo, V. S. Ekam, M. O. Odey,
+and W. A. Fila. 2012. Multi-antibiotic resistance of some Gram
+negative bacterial isolates from poultry litters of selected farms
+in Benue State. Int. J. Sci. Technol. 3:543–547.
+
+Kozak, G. K., D. L. Pearl, J. Parkman, R. J. Reid-Smith, A. Deckert,
+and P. Boerlin. 2009. Distribution of sulfonamide resistance genes
+in Escherichia coli and Salmonella isolates from swine and chick-
+ens at abattoirs in Ontario and Qu´ebec, Canada. Appl. Environ.
+Microbiol. 75:5999–6001.
+
+Kperegbeyi, J., J. Meye, and E. Ogboi. 2009. Local chicken pro-
+duction: Strategy of household poultry development in coastal
+regions of Niger Delta, Nigeria. Af. J. Gen. Agric. 5:17–20.
+
+Kristiansson, E., J. Fick, A. Janzon, R. Grabic, C. Rutgersson,
+B. Weijdeg˚ard, H. S¨oderstr¨om, and D. G. J. Larsson. 2011. Py-
+rosequencing of antibiotic-contaminated river sediments reveals
+high levels of resistance and gene transfer elements. PLoS ONE
+6:e17038.
+
+Krumperman, P. H. 1983. Multiple antibiotic resistance indexing of
+Escherichia coli to identify high-risk sources of fecal contamina-
+tion of foods. Appl. Environ. Microbiol. 46:165–170.
+
+Nsofor, C. A., and C. U. Iroegbu. 2012. Antibiotic resistance pro-
+file of Escherichia coli isolated from apparently healthy domestic
+livestock in south-east Nigeria. J. Cell An. Biol. 6:129–135.
+
+Nsofor, C. A., I. O. Olatoye, E. A. Amosun, C. U. Iroegbu, M. A.
+Davis, L. H. Orfe, and D. R. Call. 2013. Escherichia coli from
+Nigeria exhibit a high prevalence of antibiotic resistance where
+reliance on antibiotics in poultry production is a potential con-
+tributing factor. Af. J. Microbiol. Res. 7:4646–4654.
+
+Obeng, A. S., H. Rickard, O. Ndi, M. Sexton, and M. Barton. 2012.
+Antibiotic resistance, phylogenetic grouping and virulence po-
+tential of Escherichia coli isolated from the faeces of intensively
+farmed and free range poultry. Vet. Microbiol. 154:305–315.
+
+Ojo, O. E., O. G. Ogunyinka, M. Agbaje, J. O. Okuboye, O. O.
+Kehinde, and M. A. Oyekunle. 2012. Antibiogram of Enterobac-
+teriaceae isolated from free-range chickens in Abeokuta, Nigeria.
+Vet. Arch. 82:577–589.
+
+Okonko, I., A. Nkang, E. Fajobi, O. Mejeha, A. Udeze, B. Motayo, A.
+Ogun, T. Ogunnusi, and T. Babalola. 2010. Incidence of multi-
+drug resistant (MDR) organisms in some poultry feeds sold in
+Calabar metropolis, Nigeria. Electron. J. Environ. Agric. Food
+Chem. 9:514–532.
+
+Olaitan, J. O., O. B. Shittu, and A. A. Akinliba. 2011. Antibiotic
+resistance of enteric bacteria isolated from duck droppings. J.
+Appl. Biosci. 45:3008–3018.
+
+Olayinka, B. O., A. T. Olayinka, A. F. Obajuluwa, J. A. Onaolapo,
+and P. F. Olurinola. 2009. Absence of mecA gene in methicillin-
+resistant Staphylococcus aureus isolates. Int. J. Infect. Dis. 3:49–
+56.
+
+Olonitola, O. S., B. O. Olayinka, and J. A. Onanolapo. 2007. Absence
+of mecA gene in methicillin resistant Staphlococcus aureus isolated
+from non-hospital sources in Zaria, Nigeria. Int. J. Nat. Appl. Sci.
+3:160–164.
+
+Pablos-M´endez, A., M. C. Raviglione, A. Laszlo, N. Binkin, H. L.
+Rieder, F. Bustreo, D. L. Cohn, C. S. Lambregts-van Weezen-
+beek, S. J. Kim, and P. Chaulet. 1998. Global surveillance for
+antituberculosis-drug resistance, 1994–1997. New Engl. J. Med.
+338:1641–1649.
+
+Pei, R., S.-C. Kim, K. H. Carlson, and A. Pruden. 2006. Effect
+of river landscape on the sediment concentrations of antibiotics
+and corresponding antibiotic resistance genes (ARG). Water Res.
+40:2427–2435.
+
+Rinsky, J. L., M. Nadimpalli, S. Wing, D. Hall, D. Baron, L. B.
+Price, J. Larsen, M. Stegger, J. Stewart, and C. D. Heaney.
+2013. Livestock-associated methicillin and multidrug resistant
+Staphylococcus aureus is present among industrial, not antibiotic-
+free livestock operation workers in North Carolina. PLoS ONE
+8:e67641.
+
+Sanakal, R. D., and B. B. Kaliwal. 2011. Vancomycin resistance genes
+in various organisms–An in silico study. Int. J. Biomet. Bioin-
+form. 5:111–129.
+
+Sapkota, A. R., R. M. Hulet, G. Zhang, P. McDermott, E. L. Kin-
+ney, K. J. Schwab, and S. W. Joseph. 2011. Lower prevalence
+of antibiotic-resistant Enterococci on U.S. conventional poultry
+farms that transitioned to organic practices. Environ. Health Per-
+spect. 119: 1622–1628.
+
+Siwela, A., F. Matsaure, T. Ncube, O. Olonitola, and G. Best. 2007.
+A comparison of antibiotic resistance in microorganisms isolated
+from chicken and ostrich faeces in Bulawayo, Zimbabwe. Int. J.
+Biol. Chem. Sci. 1:158–164.
+
+Smith, J. L., D. J. V. Drum, Y. Dai, J. M. Kim, S. Sanchez, J. J.
+Maurer, C. L. Hofacre, and M. D. Lee. 2007. Impact of antimicro-
+bial usage on antimicrobial resistance in commensal Escherichia
+coli strains colonizing broiler chickens. Appl. Environ. Microbiol.
+73:1404–1414.
+
+Suleiman, A., L. Zaria, H. Grema, and P. Ahmadu. 2013. Antimi-
+crobial resistant coagulase positive Staphylococcus aureus from
+chickens in Maiduguri, Nigeria. Sokoto J. Vet. Sci. 11:51–55.
+
+Tamura, K., D. Peterson, G. Stecher, M. Nei, and S. Kumar. 2011.
+MEGA5: Molecular evolutionary genetics analysis using maxi-
+mum likelihood, evolutionary distance, and maximum parsimony
+methods. Mol. Biol. Evol. 28:2731–2739.
+
+Van den Bogaard, A., N. London, C. Driessen, and E. Stobber-
+ingh. 2001. Antibiotic resistance of faecal Escherichia coli in
+poultry, poultry farmers and poultry slaughterers. J. Antimicrob.
+Chemother. 47:763–771.
+
+Volkmann, H., T. Schwartz, P. Bischoff, S. Kirchen, and U. Obst.
+2004. Detection of clinically relevant antibiotic-resistance genes
+in municipal wastewater using real-time PCR (TaqMan). J. Mi-
+crobiol. Meth. 56:277–286.
+
+Wang, Q., G. M. Garrity, J. M. Tiedje, and J. R. Cole. 2007. Na¨ıve
+Bayesian classifier for rapid assignment of rRNA sequences into
+the new bacterial taxonomy. Appl. Environ. Microbiol. 73:5261–
+5267.
+
+Weisburg, W. G., S. M. Barns, D. A. Pelletier, and D. J. Lane.
+1991. 16S ribosomal DNA amplification for phylogenetic study.
+J. Bacteriol. 173:697–703.
+
+

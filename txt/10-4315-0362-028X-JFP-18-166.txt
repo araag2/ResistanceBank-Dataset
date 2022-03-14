@@ -1,0 +1,1017 @@
+1748
+
+Journal of Food Protection, Vol. 81, No. 11, 2018, Pages 1748–1754
+doi:10.4315/0362-028X.JFP-18-166
+Copyright Ó, International Association for Food Protection
+
+Research Note
+
+Presence of Multidrug-Resistant Shiga Toxin–Producing
+Escherichia coli, Enteropathogenic Escherichia coli, and
+
+Enterotoxigenic Escherichia coli on Fresh Cheeses from Local
+
+Retail Markets in Mexico
+
+MAR´IA C. DE LA ROSA-HERN ´ANDEZ,1 ARTURO CADENA-RAM´IREZ,1 ALEJANDRO T ´ELLEZ-JURADO,1
+
+CARLOS A. G ´OMEZ-ALDAPA,2 ESMERALDA RANGEL-VARGAS,2 EDGAR ARTURO CH ´AVEZ-URBIOLA,3,4
+
+AND JAVIER CASTRO-ROSAS2*
+
+1Universidad Polit´ecnica de Pachuca, Carretera Pachuca–Ciudad Sahag´un Kil´ometro 20, Ex-Hacienda de Santa Ba´rbara, C.P. 43830, Zempoala, Hidalgo,
+M´exico; 2 ´Area Acad´emica de Qu´ımica and 3 ´Area Acad´emica de Ciencias de la Tierra y Materiales, Instituto de Ciencias Ba´sicas e Ingenier´ıa (ICBI), Ciudad
+del Conocimiento (CC), Universidad Aut´onoma del Estado de Hidalgo (UAEH), Carretera Pachuca-Tulancingo Kil´ometro 4.5, C.P. 42184, Mineral de la
+
+Reforma, Hidalgo, M´exico; and 4Catedra´tico CONACyT, Consejo Nacional de Ciencia y Tecnolog´ıa, Avenida Insurgentes Sur 1582, Colonia Cr´edito
+
+Constructor, Delegaci´on Benito J´uarez C.P. 03940, Ciudad de M´exico, M´exico
+
+MS 18-166: Received 17 April 2018/Accepted 20 July 2018/Published Online 1 October 2018
+
+ABSTRACT
+
+Cheesemaking is one of the most important industries in Mexico. Among all the Mexican cheeses, fresh cheeses are the most
+popular and most consumed cheese in Mexico and Latin America. However, in Mexico fresh cheese is frequently made with
+unpasteurized milk and sold in public markets. This may increase the risk for contamination of dairy products with pathogenic
+bacteria. The presence of multidrug-resistant pathogenic bacteria in food is an important public health concern. Diarrheagenic
+Escherichia coli pathotypes (DEPs) are foodborne bacteria. This study investigated the presence of indicator bacteria and
+multidrug-resistant DEPs in fresh cheeses. A total of 120 fresh cheese samples were collected from public markets in the city of
+Pachuca, Mexico. The samples were analyzed for presence of fecal coliforms (FC), E. coli, and antibiotic resistant DEPs. FC and
+E. coli were analyzed using the most-probable-number technique. DEPs were identiﬁed using two multiplex PCR methods.
+Susceptibility to 16 antibiotics was tested for the isolated DEPs strains by the standard assay. The frequency of FC, E. coli, and
+DEPs in the cheese samples was 50, 40, and 19%, respectively. The identiﬁed DEPs included Shiga toxin–producing E. coli
+(STEC; 8%), enteropathogenic E. coli (EPEC; 6%), and enterotoxigenic E. coli (ETEC; 5%). All isolated strains exhibited
+resistance to at least ﬁve antibiotics. One, one, two, and three STEC strains were resistant to 14, 12, 11, and 10 antibiotics,
+respectively. One strain of EPEC was resistant to 11 antibiotics, three EPEC strains to 9, and one strain to 7. One, one, and two
+strains of ETEC were resistant to 10, 8, and 7 antibiotics, respectively. The results of the present study indicate that fresh cheeses
+made with unpasteurized milk could be a risk for consumers, both for native people and visitors to Mexico.
+
+Key words: Antibiotic resistant; Cheese; Enteropathogenic Escherichia coli; Enterotoxigenic Escherichia coli; Escherichia coli
+pathotypes; Shiga toxin–producing Escherichia coli
+
+Fresh cheeses such as panela and adobera are made from
+whole or low-fat cow’s milk curd via casein coagulation with
+rennet, in many cases without thermal treatment (35). These
+cheeses have a high moisture content, a light ﬂavor, no rind,
+and a short shelf life, and they require refrigeration (36). The
+fresh cheeses are produced in coagulation vats using enzymes
+and/or acids. Once curdled, the whey is drained off; the large
+cheese clumps are removed, milled into curds, and salted; and
+the ﬁnished cheese is packed in plastic bags for sale (16). In
+Mexico, different types of fresh cheeses are made, including
+panela, fresco, ranchero, Oaxaca, asadero, mozzarella, morral,
+adobera, cottage, and cream (45). However, panela and
+
+* Author for correspondence. Tel: þ52 771 717 2000, Ext 6501; Fax:
+þ52 771 717 2000, Ext 6502; E-mail: jcastro@uaeh.edu.mx.
+
+adobera are the types most widely sold in the Mexican
+market.
+
+According to the Food and Agriculture Organization of
+the United Nations (FAO), for the period 2015 to 2024,
+Mexico will maintain 11th place in dairy production,
+producing approximately 13,021,600 L of milk per year
+for every 1,000 head of dairy cows. Cow’s milk is used to
+make diverse dairy derivatives, with approximately 17%
+used for artisan products like sweets and cheeses (28, 45). In
+the State of Hidalgo, Mexico, milk production amounts to
+411.1 million L per year; this is marketed as unpasteurized
+milk or is used for industrial and artisanal production of
+cheeses. Nonetheless, approximately 56% of milk produc-
+tion is used for the production of fresh handmade cheese.
+Many fresh cheese producers in Mexico use unpasteurized
+raw milk because they believe that the native microbiota of
+
+Journal of Food Protection 2018.81:1748-1754.Downloaded from jfoodprotection.org by Iowa State University on 03/26/19. For personal use only.J. Food Prot., Vol. 81, No. 11
+
+PRESENCE OF MULTIDRUG-RESISTANT E. COLI PATHOTYPES ON CHEESES
+
+1749
+
+Indeed,
+
+raw milk confers pleasant aromas and ﬂavors to the ﬁnal
+product. In addition, a signiﬁcant proportion of consumers
+also prefer fresh cheeses made with raw milk (45). However,
+dairy products made from unpasteurized milk represent a
+risk to public health due to their pathogenic bacteria content
+(41).
+there are reports of disease outbreaks
+associated with consumption of fresh Mexican-style cheeses
+made with unpasteurized milk (13, 33). Most of these
+outbreaks have been associated with Listeria monocytogenes
+(33), Salmonella (13), and Brucella (1). Escherichia coli
+O157:H7 is not common in dairy products but has been
+responsible for outbreaks of diseases caused by consumption
+of cheese made from unpasteurized milk (16). There are no
+reports of disease outbreaks by E. coli pathotypes other than
+the E. coli O157:H7 serotype associated with consumption
+of fresh cheeses from unpasteurized milk.
+
+(EIEC), enteroaggregative E. coli
+
+However, a recent outbreak of entero-aggregative-
+hemorrhagic E. coli
+in several European countries (6)
+highlights the importance of detecting diarrheagenic E. coli
+pathotypes (DEPs) in various raw foods, such as fresh
+cheeses made from unpasteurized milk. DEPs are classiﬁed
+based on their virulence traits: enterotoxigenic E. coli
+(ETEC), enteropathogenic E. coli (EPEC), enteroinvasive E.
+coli
+(EAEC), diffuse
+adherent E. coli (DAEC), Shiga toxin–producing E. coli
+(STEC), and entero-aggregative-hemorrhagic E. coli (EA-
+HEC). The STEC pathotype includes E. coli O157:H7;
+serogroups other than O157 are known as non-O157 STEC.
+DEPs are the major cause of diarrhea in developed countries
+and in visitors from regions where DEPs are not endemic
+(18, 19, 39). In Mexico, DEPs have been associated with
+diarrheal diseases both in native children (18) and visitors to
+Mexico (43).
+
+In addition to this problem, the emergence of antibiotic-
+resistant pathogenic bacteria in food has recently been
+reported, which represents an additional public health
+concern. The emergence of antibiotic-resistant pathogenic
+bacteria is associated with the use of antibiotics in animals
+raised for milk and meat production. Resistant bacteria can
+be transmitted to humans through foods, particularly those
+of animal origin such as fresh cheeses made from
+unpasteurized milk (20).
+
+No data exist on the presence of multidrug-resistant
+DEPs in fresh cheeses sold in Mexico. The objective of this
+study was to quantify the presence of fecal coliforms (FC),
+E. coli, and multidrug-resistant STEC, EPEC, ETEC, EIEC,
+and EAEC in fresh cheeses from public markets in Mexico.
+
+MATERIALS AND METHODS
+
+Fresh cheese samples. A total of 120 cheese samples were
+collected over a 5-month study period. Cheese samples were
+purchased from six dairy retailers in each of three public markets
+(18 retailers). The public markets of Pachuca sampled were
+Primero de Mayo, Benito Jua´rez, and the Central de Abastos.
+Samples were purchased every 3 weeks from each retailer,
+resulting in 18 samples per day. Each fresh cheese sample was a
+single circular unit weighing approximately 500 g. At the time of
+purchase, the cheeses were in their original packaging under
+refrigeration. Samples were placed in sterile plastic bags and
+then in a refrigerated container containing frozen gel bags for
+
+transport to the laboratory. They were analyzed within 2 h after
+purchase.
+
+Sample preparation. In the laboratory, each fresh cheese
+sample (500 g) was placed in a sterile plastic bag and then
+manually rubbed for 2 min to powder and homogenize the sample.
+Afterward, 100 g of powdered cheese sample (subsample) was
+added to a sterile plastic bag and 900 mL of sterilized peptone
+water (0.1%; Bioxon, Mexico City, Mexico) was added to the bag.
+The subsample was manually rubbed for 2 min while in the sealed
+bag. Decimal dilutions were prepared using the above diluent. The
+samples were analyzed to detect the presence of FC and E. coli,
+according to U.S. Food and Drug Administration Bacteriological
+Analytical Manual (BAM) (50), and to detect STEC, EPEC,
+ETEC, EIEC, EAEC, and EHEC, exactly as previously described
+(23).
+
+Microbiological analysis. Quantiﬁcation of FC and E. coli
+was performed by the most-probable-number (MPN) technique
+exactly as described in BAM (50). Brieﬂy, from the homogenized
+sample, decimal dilutions were performed in 0.1% sterilized
+peptone water, and dilutions were inoculated into tubes containing
+lactose broth (Bioxon) and Durham tubes. After incubation at 378C
+for 48 h,
+lactose broth tubes with bacterial growth and gas
+production were transferred to tubes containing 2% brilliant green
+bile lactose broth (Bioxon). After incubation at 44.5 6 28C for 48
+h, the tubes that were positive for growth and gas production were
+considered positive for FC. The quantiﬁcation of FC was
+performed using the MPN tables (50). The value obtained was
+expressed as MPN of FC per gram. Tubes that were positive for FC
+were used to identify indole formation (50). All tubes that were
+positive for indole and gas production were streaked onto eosin
+methylene blue (Bioxon) agar. Two to three presumptive E. coli
+colonies were selected from eosin methylene blue plates and
+biochemically characterized by the indole, methyl red, Voges-
+Proskauer, and citrate test (Bioxon). Biochemical conﬁrmation of
+presumptive E. coli
+isolates was done with the API 20E test
+(bioM´erieux, Hazelwood, MO). Conﬁrmation of a single colony
+such as E. coli is known to be sufﬁcient to consider that the
+respective MPN tube is positive for E. coli. The concentration of E.
+coli was calculated using the MPN tables (50). All conﬁrmed E.
+coli strains were streaked on tryptic soy agar slant tubes, incubated
+at 378C for 24 h, and maintained at 3 to 58C until they were used
+for PCRs.
+
+Multiplex PCRs for DEP locus identiﬁcation. All E. coli
+strains isolated and conﬁrmed by biochemical tests were analyzed
+using two multiplex PCRs to identify several genetic loci
+associated with diarrheagenic E. coli, exactly as previously
+described (23). Brieﬂy,
+the ﬁrst multiplex PCR identiﬁes the
+following loci: heat-stable and heat-labile enterotoxins (ST and
+LT) for ETEC, intimin (eaeA) bundle-forming pilus for EPEC,
+Shiga toxins 1 and 2 (stx1, stx2) and intimin (eaeA) for STEC, and
+invasion-associated loci for EIEC. The second multiplex PCR
+identiﬁes three EAEC plasmid-borne virulence genes, including
+the master regulon (aggR), dispersin (aap), and the autotransporter
+Tol C (aatA). STEC isolates were further characterized by the
+expression of O157 lipopolysaccharide and H7 ﬂagellar antigens,
+using only the E. coli O157:H7 latex agglutination test kit (RIM E.
+coli O157:H7 latex assay kit, Remel, Lenexa, KS). The MPN for
+STEC, EPEC, and ETEC was calculated following the MPN
+method as described above (50).
+
+Journal of Food Protection 2018.81:1748-1754.Downloaded from jfoodprotection.org by Iowa State University on 03/26/19. For personal use only.1750
+
+DE LA ROSA-HERN ´ANDEZ ET AL.
+
+J. Food Prot., Vol. 81, No. 11
+
+TABLE 1. Minimum, maximum, and median frequencies and
+values of indicator microorganism and DEPs in samples of fresh
+cheesesa
+
+Microorganism or
+microbial group
+
+Minimum Maximum Median
+
+Frequency (%)
+
+,3.01
+,3.0
+,3.0
+
+Fecal coliforms
+E. coli
+DEPs
+a Values given as most probable number per gram; n ¼ 120. DEP,
+diarrheagenic E. coli pathotype.
+
+1,100
+1,100
+1,100
+
+141
+14
+,3.0
+
+50
+40
+19
+
+Antibiotic susceptibility testing. All DEP isolates were
+screened for antibiotic sensitivity to 16 different antibiotics using a
+disk diffusion test as described by the Clinical and Laboratory
+Standards Institute (12). The strains isolated from the cheese
+samples were cultivated in tryptic soy broth at 358C for 24 h. For
+each, dilutions were made in peptone diluent and were plated on
+Mueller-Hinton agar using the surface extension technique.
+Afterward, paper disks containing the following antibiotics were
+placed at speciﬁc concentrations (all lg/mL): amikacin (30),
+amoxicillin-clavulanic acid (20/10), ampicillin (10), ceftriaxone
+(30), chloramphenicol
+(30), ciproﬂoxacin (5), colistin (10),
+erythromycin (15), gentamicin (10), kanamycin (30), nalidixic
+acid (30), neomycin (10), streptomycin (10), sulﬁsoxazole (250),
+tetracycline (30), and trimethoprim-sulfamethoxazole (1.25/23.75).
+The petri dishes were incubated at 358C for 24 h, and then the
+diameter of the inhibition zone formed was measured (12).
+
+RESULTS AND DISCUSSION
+
+Fifty percent of the samples presented evidence of poor
+hygiene practices. The frequency of FC, E. coli, and DEPs
+was 50, 40, and 19%, respectively (Table 1). The FC values
+ranged from ,3.0 to 1,100 MPN/g. However, median
+values indicate that, although some samples had elevated
+levels of FC, most samples had low values. The FC
+frequency was lower than the values reported in a study of
+cheeses from markets located in Sao Paolo, Brazil, which
+found 93% of samples positive (4); similarly, Ara ´ujo et al.
+(3) reported FC in 82.2% of cheese samples from markets in
+the City of Rio de Janeiro, Brazil. However, Trmˇci´c et al.
+(49) analyzed 273 cheese samples from markets located in
+New York and found FC in 55.3% of the samples.
+
+On the other hand, in general, the concentrations of E.
+coli found in the cheese samples were lower than those
+reported by Guzma´n et al. (24), who obtained values greater
+than 1,100 MPN/g in samples of fresh cheeses from the
+municipal markets of the State of Tabasco, Mexico.
+
+In the present study, a total of 420 E. coli colonies were
+isolated from the 120 cheese samples. This is because a
+colony of E. coli was isolated from each tube positive for E.
+coli obtained by the MPN procedure. All 420 E. coli
+colonies were analyzed by PCR, and 125 colonies were
+identiﬁed as DEPs. These results were used to calculate the
+MPN of STEC, EPEC, and ETEC as described in ‘‘Materials
+and Methods.’’ Note that all DEP colonies isolated from the
+same cheese sample by the MPN procedure were considered
+as only one DEP strain. Thus, 23 DEP strains were isolated
+from all 120 cheese samples.
+
+The identiﬁed DEPs included STEC (8%), EPEC (6%),
+and ETEC (5%) (Table 2). Note that neither EIEC nor
+EAEC were detected in any cheese sample. In the positive
+samples,
+the concentration of DEPs ranged from 3.6 to
+1,100 MPN/g (Table 2).
+
+No E. coli O157: H7 was detected in any STEC-
+positive sample. This result agrees with previous reports in
+which the serotype O157:H7 was not detected in any STEC-
+positive food samples in Mexico (11, 21–23, 48). Ruminant
+animals, especially cattle, are a primary reservoir of E. coli
+O157:H7 and other EHEC pathogens (16, 39, 47). Many
+human E. coli O157:H7 outbreaks have been linked to food
+products derived from animals (such as cheeses) or to
+contact with ruminant animals or their wastes. However, it
+has been reported that the prevalence of E. coli O157 in
+cattle and humans in Mexico is lower (8, 40) than that
+reported in the United States. Because E. coli O157
+outbreaks related with food products derived from animals
+and cattle carriage of E. coli O157 are closely linked (10,
+16), it appears that the low presence of E. coli O157 in food
+in Mexico might be related to the lower prevalence of E. coli
+O157 in Mexican cattle.
+
+The ETEC frequency obtained in the present study is
+similar to that reported by Jaafar et al. (31), who obtained
+ETEC strains from 8.33% of 60 cheese samples collected
+from different locations in Baghdad, Iraq. Similarly, for
+STEC, the values obtained were similar to those reported by
+Elhadidy and Mohammed (17), who found that 7% of
+samples of cheese made from raw milk in Mansoura, Egypt,
+were positive. However,
+the EPEC frequencies obtained
+were lower than those reported by Najand and Ghanbarpour
+(38), who identiﬁed EPEC in 19.84% of Iranian soft cheese
+samples.
+
+As for the identiﬁed locus, the stx2 locus was detected in
+four strains and the stx1 locus in six strains of STEC (Table
+2). stx1 and stx2 were not simultaneously detected in any
+strain. This result agrees with previous reports in which the
+stx2 locus was present at lower rates than the stx1 locus in
+STEC strains isolated from different foods in Mexico (11,
+21–23, 48). Other researchers have also reported a higher
+prevalence of stx1 than stx2 in non-O157 and O157 STEC
+strains isolated from patients and food (26).
+
+STEC strains are human pathogens associated with
+foodborne diseases; some may cause hemorrhagic colitis,
+which in some cases may progress to hemolytic-uremic
+syndrome (HUS) (39). Ruminants, mainly dairy cattle, are
+the predominant reservoir of STEC (10). The pathogenesis
+of STEC is associated with different virulence factors such
+as Shiga toxins (stx1 and stx2) (39). stx1 and stx2 strains have
+been reported to cause different degrees and types of tissue
+damage (34); stx2 is more toxic than stx1 for human renal
+endothelial cells (34). Also, Orth et al. (42) have mentioned
+that stx2 strains are associated with high virulence and the
+ability to cause HUS, whereas stx1 strains are associated
+with a milder course of the disease (non-HUS). Other major
+virulence determinants in STEC include the locus of the
+gene encoding the outer membrane adhesin, intimin (eae),
+mediating a close contact between STEC or EPEC with
+intestinal epithelial cells (30). However, some strains of
+eaeA-negative STEC can cause HUS and occasional
+
+Journal of Food Protection 2018.81:1748-1754.Downloaded from jfoodprotection.org by Iowa State University on 03/26/19. For personal use only.J. Food Prot., Vol. 81, No. 11
+
+PRESENCE OF MULTIDRUG-RESISTANT E. COLI PATHOTYPES ON CHEESES
+
+1751
+
+TABLE 2. Identiﬁed DEPs, loci, concentrations of DEPs, and patterns of resistance to antibiotics per positive cheese sample, according to
+market of origina
+
+Positive
+sampleb
+
+DEP
+
+identiﬁedc
+
+Locus
+
+identiﬁedd
+
+Concn
+
+(MPN/g)
+
+Resistance to antibiotics (no. of antibiotics: resistance pattern)e
+
+9.2
+
+3.6
+
+150
+460
+
+3.6
+
+1,100
+460
+
+9.2
+9.2
+
+1,100
+11
+460
+460
+460
+460
+240
+150
+
+stx2
+stx1
+stx1
+eaeA
+eaeA
+eaeA
+ST
+ST
+stx1
+stx1
+stx2
+stx2
+eaeA
+eaeA
+ST
+ST
+stx2
+stx1
+stx1
+eaeA
+eaeA
+eaeA
+ST
+
+STEC
+STEC
+STEC
+EPEC
+EPEC
+EPEC
+ETEC
+ETEC
+STEC
+STEC
+STEC
+STEC
+EPEC
+EPEC
+ETEC
+ETEC
+STEC
+STEC
+STEC
+EPEC
+EPEC
+EPEC
+ETEC
+
+14: AMC-AMK-ERY-GEN-COL-K-NEO-STR-SXT-AMP-TCY-CIP-SOX-CHL
+11: AMC-AMK-ERY-GEN-COL-K-NEO-STR-SXT-AMP-NAL
+10: AMC-AMK-ERY-GEN-COL-K-NEO-STR-SXT-AMP
+9: AMC-AMK-ERY-GEN-COL-K-CIP-SOX-NAL
+6: AMC-AMK-ERY-GEN-COL-K
+6: AMC-AMK-ERY-GEN-COL-K
+7: AMC-AMK-ERY-GEN-COL-K-STX
+10: AMC-AMK-ERY-GEN-COL-K-SXT-TCY-CIP-CRO
+11: AMC-AMK-ERY-GEN-COL-K-NEO-STR-SXT-AMP-SOX
+10: AMC-AMK-ERY-GEN-COL-NEO-STR-SXT-AMP-TCY
+12: AMC-AMK-ERY-GEN-COL-K-NEO-STR-SXT-AMP-CIP-SOX
+8: AMC-AMK-ERY-GEN-COL-K-NEO-STR
+9: AMC-AMK-ERY-GEN-COL-NEO-STR-NAL-CRO
+9: AMC-AMK-ERY-GEN-COL-K-NEO-STR-TCY
+5: AMC-AMK-ERY-GEN-COL
+7: AMC-AMK-ERY-GEN-COL-STX-CRO
+10: AMC-AMK-ERY-GEN-COL-NEO-STR-AMP-NAL-CHL
+7: AMC-AMK-ERY-GEN-COL-K-NEO
+6: AMC-AMK-ERY-GEN-COL-K
+11: AMC-AMK-ERY-GEN-COL-K-NEO-STR-TCY-CIP-CRO
+5: AMC-AMK-ERY-GEN-COL
+7: AMC-AMK-ERY-GEN-COL-K-TCY
+8: AMC-AMK-ERY-GEN-COL-K-NEO-AMP
+
+CA1
+CA12
+CA112
+CA7
+CA11
+CA24
+CA17
+CA118
+BJ55
+BJ78
+BJ22
+BJ35
+BJ98
+BJ60
+BJ41
+BJ58
+PM16
+PM49
+PM68
+PM8
+PM27
+PM72
+PM32
+a DEP, diarrheagenic E. coli pathotype; MPN, most probable number. n ¼ 120.
+b CA, Central de Abastos market; BJ, Benito Juarez market; PM, Primero de Mayo market.
+c STEC, Shiga toxin–producing E. coli; EPEC, enteropathogenic E. coli; ETEC, enterotoxigenic E. coli.
+d ST, heat-stable enterotoxin.
+e AMC, amoxicillin–clavulanic acid; AMK, amikacin; ERY, erythromycin; GEN, gentamicin; COL, colistin; K, kanamycin; NEO,
+neomycin; STR, streptomycin; SXT, trimethoprim-sulfamethoxazole; AMP, ampicillin; TCY, tetracycline; CIP, ciproﬂoxacin; SOX,
+sulﬁsoxazole; CHL, chloramphenicol; NAL, nalidixic acid; CRO, ceftriaxone.
+
+1,100
+240
+11
+460
+240
+1,100
+
+outbreaks (44, 50). It has been postulated that these strains
+of eaeA-negative STECs have other putative factors
+associated with adherence and virulence (14, 44).
+
+EPEC strains have been responsible for outbreaks of
+diarrhea in both developed and developing countries (19,
+39). EPEC strains have been isolated from various animal
+species, such as bovine, goats, sheep, chickens, pigeons, and
+seagulls (15). Typical EPEC strains contain both the eaeA
+and bundle-forming pilus locus, whereas atypical EPEC
+strains contain only eaeA (27). Unlike typical EPEC strains
+found only in humans, atypical strains of EPEC from
+different animal species have been isolated (15).
+
+ETEC represents another major cause of diarrhea for
+those who live in developing countries and for visitors from
+regions where ETEC is not endemic (traveler’s diarrhea)
+(39). ETECs are of human origin and,
+therefore, are
+indicators of fecal contamination. However, ETEC has been
+isolated from pigs and cattle (37). ETEC is usually
+transmitted by contaminated food. The ETEC pathotype
+has been isolated in Mexico from jalape ˜no and serrano
+peppers (11) and carrot juice (48).
+
+Although in general
+
+the minimum infective dose
+estimated for these three DEPs is high (106 to 108 cells),
+the three DEPs found in the cheeses analyzed were at
+concentrations that should be considered as a potential risk
+
+for the consumer. The concentration is reported per gram, so
+if a person consumes 100 g of cheese, their exposure is
+increased 100 times.
+
+Many countries have implemented new hygiene rules
+and safety systems to reduce the health risks associated with
+cheese consumption, owing to the high number of outbreaks
+that have occurred and the severity of infections caused by
+the pathogens involved in such outbreaks. An additional
+safety concern is the resistance of pathogenic bacteria to
+antibiotics, which increases the risk and severity of the
+disease (7).
+
+All DEP strains isolated from the cheese samples
+showed resistance to at least ﬁve antibiotics: amoxicillin–
+clavulanic acid, amikacin, erythromycin, gentamicin, and
+colistin (Table 2). One, one, two, and three STEC strains
+were resistant to 14, 12, 11, and 10 antibiotics, respectively.
+One strain of EPEC was resistant to 11 antibiotics, another
+three EPEC strains to 9, and one strain to 7. One, one, and
+two ETEC strains were resistant to 10, 8, and 7 antibiotics,
+(5)
+respectively (Table 2). Similarly, Bonyadian et al.
+reported percentages of resistance of 30, 36, 23.4, and
+4.25%, respectively, for gentamicin, nalidixic acid, ampi-
+cillin, and streptomycin in strains of EAEC isolated from
+artisanal cheeses from dairy farms in Iran. On the other
+hand, Miranda et al. (35) reported similar results for strains
+
+Journal of Food Protection 2018.81:1748-1754.Downloaded from jfoodprotection.org by Iowa State University on 03/26/19. For personal use only.1752
+
+DE LA ROSA-HERN ´ANDEZ ET AL.
+
+J. Food Prot., Vol. 81, No. 11
+
+of E. coli
+isolated from Arz ´ua-Ulloa organic cheeses
+obtained from markets in Spain; they observed a resistance
+to ampicillin, streptomycin, ciproﬂoxacin, and gentamicin in
+37, 25, 8, and 4% of E. coli strains, respectively.
+
+Hassan and Elmalt (25) isolated strains of ETEC from
+47.8% of Egyptian cheese samples. Antibiotic resistance
+was observed to nalidixic acid (42.9%), ampicillin (32.7%),
+tetracycline (22.4%),
+trimethoprim-sulfamethoxazole
+(14.3%), ciproﬂoxacin (4.1%), and cefoxitin (2%). Also,
+the present study agrees with previous reports that showed
+antibiotics to have limited efﬁcacy against strains of DEPs
+isolated from different sources, such as dairy products,
+vegetables, meats, ﬁsh and shellﬁsh, and human feces (9, 18,
+47). However,
+in the present study, most of the strains
+isolated were sensitive to chloramphenicol and ceftriaxone,
+whereas all strains were resistant to amoxicillin–clavulanic
+acid, amikacin, erythromycin, gentamicin, and colistin.
+These results also coincide with a study in which strains
+of DEPs isolated from different foods, including vegetables,
+were sensitive to chloramphenicol and nalidixic acid (9).
+Also, strains of E. coli O157:H7 resistant to chloramphen-
+icol have been isolated from raw milk of cattle, goats, and
+sheep in Greece (47).
+
+The recent emergence of multidrug-resistant bacteria
+may be due to abuse in the use of various antibiotics at
+veterinary and human levels. At the veterinary level, they are
+often used as growth factors; they are also used to control
+various bacterial infections in humans and animals (2, 51).
+Note that owing to the abuse of antibiotics in cattle, these
+could be present in meat or milk, e.g., Ibarra et al. (29)
+reported the presence of sulphonamides in milk samples.
+
+In Mexico, there are no previous reports of the presence
+of DEPs resistant to antibiotics in cheeses. However, the
+presence of multidrug-resistant DEPs has been reported in
+other foods (21, 22). The presence of STEC and uropatho-
+genic E. coli
+in fresh artisanal cheeses made with
+unpasteurized milk has also been reported in Tabasco state,
+Mexico (24).
+
+Note that all antibiotics tested in this study are used in
+human medicine. In fact, most of these antibiotics are
+considered ‘‘critically important’’ or ‘‘very important’’ for
+human medicine by the World Health Organization (51);
+thus, their use should be restricted. However, almost all
+types of antibiotics available to humans have also been used
+in animal production (2, 51), and resistance to antibiotics has
+been increasingly identiﬁed in pathogenic bacteria of
+animals (32). Evidence from around the world has increased
+in recent years, that the use of antibiotics in agriculture is an
+important factor that conditions the resistance of bacteria to
+antibiotics (46). However, although animal products are
+considered to be the main foods containing such antibiotic-
+resistant bacteria and genes, contamination occurring during
+the preparation, handling, and processing of fresh food of
+both animal and plant origin is becoming a concern.
+
+Like other raw foods, cheeses made from unpasteurized
+milk are potential vehicles for pathogens such as multidrug-
+resistant strains of DEPs. In the production of fresh cheeses,
+multiple sources of contamination with pathogenic micro-
+organisms may occur during the collection and transport of
+milk, and also during the processing, packaging, distribu-
+
+tion, and marketing of cheeses. Once incorporated into food
+preparation, cheeses made from unpasteurized milk can be
+sources of cross-contamination. In addition, the personal
+hygiene of the food handler is also an important factor of
+contamination.
+
+The results of the present study indicate that fresh
+cheeses made with unpasteurized milk could be a risk for the
+consumers in the Hidalgo state and for neighboring states.
+Also,
+the prevention and control of health risks by
+multidrug-resistant DEP strains require the incorporation
+and consistent application of good milking and manufactur-
+ing practices throughout the milk production process and
+during the production of the cheese, until its sale. To the best
+of our knowledge, this is the ﬁrst report in the literature on
+the presence of multidrug-resistant STEC, EPEC, and ETEC
+strains in fresh cheeses sold in Mexico.
+
+ACKNOWLEDGMENTS
+
+This research was funded by the Fondos Mixtos de Fomento a la
+Investigaci´on Cient´ıﬁca y Tecnol´ogica, Consejo Nacional de Ciencia y
+Tecnolog´ıa—Gobierno del Estado de Hidalgo, Mexico (grant no. 192649).
+
+REFERENCES
+
+1. Altekruse, S. F., B. B. Timbo, J. C. Mowbray, N. H. Bean, and M. E.
+Potter. 1998. Cheese-associated outbreaks of human illness in the
+United States, 1973 to 1992: sanitary manufacturing practices protect
+consumers. J. Food Prot. 61:1405–1407.
+
+2. Anonymous. 2011. Trends in the sales of veterinary antimicrobial
+agents in nine European countries (2005–2009). Available at: www.
+ema.europa.eu/docs/en_GB/document_library/Report/2011/09/
+WC50011239.pdf. Accessed 4 September 2017.
+
+3. Ara´ujo, V. S., V. A. Pagliares, M L. P. Queiroz, and A. A. C. Freitas.
+2002. Occurrence of Staphylococcus and enteropathogens in soft
+cheese commercialized in the city of Rio de Janeiro, Brazil. J. Appl.
+Microbiol. 92:1172–1177.
+
+4. Baranceli, G. V., C. A. F. Oliveira, C. H. Corassin, T. M. Camargo,
+M. G. Santos, L. C. M. Novotny, and E. Porto. 2014. Occurrence of
+Escherichia coli and coliforms in minas cheese plants from Sa˜o
+Paulo, Brazil. J. Adv. Dairy. Res. 2:1–4. doi:org/10.4172/2329-
+888X.1000120.
+
+5. Bonyadian, M., H. Moshtaghi, and M. T. Akhavan. 2014. Molecular
+characterization and antibiotic resistance of enterotoxigenic and
+entero-aggregative Escherichia coli
+isolated from raw milk and
+unpasteurized cheeses. Vet. Res. Forum 5:29–34.
+
+6. Buchholz, U., H. Bernard, D. Werber, M. M. B ¨ohmer, C.
+Remschmidt, H. Wilking, Y. Deler´e, M. der Heiden, C. Adlhoch, J.
+Dreesman, J. Ehlers, S. Ethelberg, M. Faber, C. Frank, G. Fricke, M.
+Greiner, M. H¨ohle, S. Ivarsson, U. Jark, M. Kirchner, J. Koch, G.
+Krause, P. Luber, B. Rosner, K. Stark, and M. K¨uhne. 2011. German
+outbreak of Escherichia coli O104:H4 associated with sprouts. N.
+Engl. J. Med. 365:1763–1770.
+
+7. Caballero, G. F. J., J. M. Cisneros, R. Luque, T. M. Torres, F.
+Gamboa, F. D´ıez, J. L. Villanueva, C. R. P´erez, J. Pasquau, D.
+Merino, A. Menchero, D. Mora, R. M. A. L´opez, and A. Vergara.
+1998. Comparative study of bacteremias caused by Enterococcus spp.
+resistance to gentamicin. J. Clin.
+with and without high-level
+Microbiol. 36:520–525.
+
+8. Callaway, T. R., R. C. Anderson, G. Tellez, C. Rosario, G. M. Nava,
+C. Eslava, M. A. Blanco, M. A. Quiroz, A. Olgu´ın, M. Herradora, T.
+S. Edrington, K. J. Genovese, R. B. Harvey, and D. J. Nisbet. 2004.
+Prevalence of Escherichia coli O157 in cattle and swine in central
+Mexico. J. Food Prot. 67:2274–2276.
+
+9. Canizalez, R. A., N. E. Gonzalez, J. E. Vidal, V. H. Flores, and S. N.
+Le ´on. 2013. Prevalence and antibiotic resistance proﬁles of
+diarrheagenic Escherichia coli strains isolated from food items in
+northwestern M´exico. Int. J. Food Microbiol. 164:36–45.
+
+Journal of Food Protection 2018.81:1748-1754.Downloaded from jfoodprotection.org by Iowa State University on 03/26/19. For personal use only.J. Food Prot., Vol. 81, No. 11
+
+PRESENCE OF MULTIDRUG-RESISTANT E. COLI PATHOTYPES ON CHEESES
+
+1753
+
+10. Caprioli, A., S. Morabito, H. Brugere, and E. Oswald. 2005.
+Enterohaemorrhagic Escherichia coli: emerging issues on virulence
+and modes of transmission. Vet. Res. 36:289–311.
+
+11. Cerna-Cortes, J. F., C. A. G´omez-Aldapa, E. Rangel-Vargas, M. R.
+Torres-Vitela, A. Villarruel-L´opez, and J. Castro-Rosas. 2012.
+Presence of some indicator bacteria and diarrheagenic E. coli
+pathotypes on jalape˜no and serrano peppers from popular markets
+in Pachuca city, Mexico. Food Microbiol. 32:444–447.
+
+12. Clinical and Laboratory Standards Institute. 2005. Performance
+standards for antimicrobial susceptibility testing; twenty-ﬁfth infor-
+mational supplement. CLSI, Wayne, PA.
+
+13. Cody, S. H., S. L. Abbott, A. A. Marﬁn, B. Schulz, P. Wagner, K.
+Robbins, J. C. Mohle-Boetani, and D. J. Vugia. 1999. Two outbreaks
+of multidrug-resistant Salmonella serotype Typhimurium DT104
+infections linked to raw-milk cheese in northern California. JAMA
+(J. Am. Med. Assoc.) 281:1805–1810.
+
+14. Cookson, A. L., J. Bennett, F. T. Carter, and G. T. Attwood. 2007.
+Intimin subtyping of Escherichia coli: concomitant carriage of
+multiple intimin subtypes from forage-fed cattle and sheep. FEMS
+Microbiol. Lett. 272:163–171.
+
+15. Cort´es, C., R. De la Fuente, J. Blanco, M. Blanco, J. E. Blanco, G.
+Dhabi, A. Mora, P. Justel, A. Contreras, A. Sa´nchez, J. C. Corrales,
+and J. A. Orden. 2005. Serotypes, virulence genes and intimin types
+of verotoxin-producing Escherichia coli and enteropathogenic E. coli
+isolated from healthy dairy goats in Spain. Vet. Microbiol. 110:67–76.
+16. Durch, J., T. Ringhand, K. Manner, M. Barnett, M. Proctor, S.
+Ahrabi-Fard, J. Davis, and D. Boxrud. 2000. Outbreak of Escherichia
+coli O157:H7 infection associated with eating fresh cheese curds—
+Wisconsin, June 1998. JAMA (J. Am. Med. Assoc.) 284:2991–2992.
+17. Elhadidy, M., and M. A. Mohammed. 2012. Shiga toxin–producing
+from raw milk cheese in Egypt: prevalence,
+to stress conditions. Lett.
+
+Escherichia coli
+molecular characterization and survival
+Appl. Microbiol. 56:120–127.
+
+18. Estrada-Garcia, T., J. F. Cerna, L. Paheco-Gil, R. F. Velazquez, T. J.
+Ochoa, J. Torres, and H. L. DuPont. 2005. Drug resistant
+diarrheogenic Escherichia coli, Mexico. Emerg.
+Infect. Dis.
+11:1306–1308.
+
+19. Estrada-Garcia, T., C. Lopez-Saucedo, R. Thompson-Bonilla, M.
+Abonce, D. Lopez-Hernandez, J. I. Santos, J. L. Rosado, and H. L.
+DuPont. 2009. Association of diarrheagenic Escherichia coli
+pathotypes with infection and diarrhea among Mexican children and
+association of atypical enteropathogenic E. coli with acute diarrhea. J.
+Clin. Microbiol. 47:93–98.
+
+20. European Food Safety Authority. 2008. Report from the task force on
+zoonoses data collection including guidance for harmonized moni-
+toring and reporting of antimicrobial
+resistance in commensal
+Escherichia coli and Enterococcus spp. from food animals. EFSA J.
+6:141–144.
+
+21. G´omez-Aldapa, C. A., J. F. Cerna-Cort´es, E. Rangel-Vargas, M. R.
+Torres-Vitela, A. Villarruel-L´opez, J. E. Guti´errez-Alca´ntara, and J.
+Castro-Rosas. 2016. Presence of multidrug-resistant shiga toxin-
+producing Escherichia coli, enteropathogenic E. coli and enterotoxi-
+genic E. coli, on raw nopalitos (Opuntia ﬁcus-indica L.) and in
+nopalitos salads from local retail markets in Mexico. Foodborne
+Pathog. Dis. 13:269–224.
+
+22. G´omez-Aldapa, C. A., J. A. Segovia-Cruz, J. F. Cerna-Cort´es, E.
+Rangel-Vargas, L. P. Salas-Rangel, E. J. Guti´errez-Alca´ntara, and J.
+Castro-Rosas. 2016. Prevalence and behavior of multidrug-resistant
+shiga toxin-producing Escherichia coli, enteropathogenic E. coli and
+enterotoxigenic E. coli on coriander. Food Microbiol. 59:97–103.
+
+23. G´omez-Aldapa, C. A., M. R. Torres-Vitela, O. A. Acevedo-Sandoval,
+E. Rangel-Vargas, A. Villarruel-L´opez, and J. Castro-Rosas. 2013.
+Presence of Shiga toxin–producing Escherichia coli, enteroinvasive
+E. coli, enteropathogenic E. coli, and enterotoxigenic E. coli on
+tomatoes. J. Food Prot. 76:1621–1625.
+
+24. Guzma´n, H. R., R. A. Contreras, V. R. Herna´ndez, M. I. P´erez, M. A.
+L ´opez, B. Z. Mussaret, and G. T. Estrada. 2016. Mexican
+unpasteurised fresh cheeses are contaminated with Salmonella spp.,
+non-O157 Shiga toxin producing Escherichia coli and potential
+
+uropathogenic E. coli strains: a public health risk. Int. J. Food
+Microbiol. 237:10–16.
+
+25. Hassan, S. A., and L. M. Elmalt. 2008. Informally raw milk and
+Kareish cheese investigation on the occurrence of
+toxigenic
+Escherichia coli in Qena city, Egypt with emphasis on molecular
+characterization. Ass. Univ. Bull. Environ. Res. 11:35–42.
+
+26. Hedican, E. B., C. Medus, J. M. Besser, B. A. Juni, B. Koziol, C.
+Taylor, and K. E. Smith. 2009. Characteristics of O157 versus non-
+O157 Shiga toxin-producing Escherichia coli infections in Minnesota,
+2000–2006. Clin. Infect. Dis. 49:358–364.
+
+27. Hernandes, R. T., W. P. Elias, M. A. Vieira, and T. A. Gomes. 2009.
+An overview of atypical enteropathogenic Escherichia coli. FEMS
+Microbiol. Lett. 297:137–149.
+
+29.
+
+28. Hernandez, G., and A. Hernandez. 2015. Dairy and products annual.
+Mexico expecting a recovery in milk production in MY2016.
+Available at: https://gain.fas.usda.gov/Recent%20GAIN%
+20Publications/Dairy%20and%20Products%20Annual_Mexico%
+20City_Mexico_10-27-2015.pdf. Accessed 26 June 2018.
+Ibarra, I. S., J. M. Miranda, J. A. Rodriguez, C. Nebot, and A.
+Cepeda. 2014. Magnetic solid phase extraction followed by high-
+performance liquid chromatography for the determination of sul-
+phonamides in milk samples. Food Chem. 157:511–517.
+Ito, K., M. Lida, M. Yamazaki, K. Moriya, S. Moroishi, J.
+Yatsuyanagi, T. Kurazono, N. Hirut, and O. A. Ratchtrachenchai.
+2007. Intimin types determined by heteroduplex mobility assay of
+intimin gene (eae)-positive Escherichia coli strains. J. Clin. Micro-
+biol. 45:1038–1041.
+Jaafar, M. M., H. O. Kready, S. K. Khalid, and A. Mahmood. 2016.
+Isolation and identiﬁcation of toxigenic strains of E. coli from local
+cheese and evaluate their resistance to antibiotics. J. Genet. Environ.
+Resour. Conserv. 2:109–113. Available at: http://jgerc.com/wp-
+content/uploads/2017/12/7-6.pdf. Accessed 20 August 2018.
+
+30.
+
+31.
+
+32. Katsuda, K., M. Kohmoto, O. Mikami, and I. Uchida. 2009.
+Antimicrobial resistance and genetic characterization of ﬂuoroquin-
+olone resistant Mannheimia haemolytica isolates from cattle with
+bovine pneumonia. Vet. Microbiol. 139:74–79.
+
+33. Linnan, M. J., L. Mascola, X. Dong Lou, V. Goulet, S. May, C.
+Salminen, D. W. Hird, M. L. Yonekura, P. Hayes, R. Weaver, A.
+Audurier, B. D. Plikaytis, S. L. Fannin, A. Kleks, and C. V. Broome.
+1988. Epidemic listeriosis associated with Mexican-style cheese. N.
+Engl. J. Med. 319:823–828.
+
+34. Louise, C. B., S. A. Kaye, B. Boyd, C. A. Lingwood, and T. G. Obrig.
+1995. Shiga toxin associated hemolytic uremic syndrome: effect of
+sodium butyrate on sensitivity of human umbilical vein endothelial
+cells to shiga toxin. Infect. Immun. 63:2766–2769.
+
+35. Miranda, J. M., A. Mondrag´on, B. I. Va´zquez, C. A. Fente, A.
+Cepeda, and C. M. Franco. 2009. Microbiological quality and
+resistance of Escherichia coli and Staphylococcus
+antimicrobial
+aureus isolated from conventional and organic ‘‘Arz´ua-Ulloa’’ cheese.
+CyTA J. Food 7:103–110.
+
+36. Moreno, R. I., A. Enriquez, G. Garc´ıa, and H. G. Acedo. 2007.
+Prevalence, types, and geographical distribution of Listeria monocy-
+togenes from a survey of retail queso fresco and associated cheese
+processing plants and dairy farms in Sonora, Mexico. J. Food Prot.
+70:2596–2601.
+
+37. Nagy, B., and P. Z. Fekete. 2005. Enterotoxigenic Escherichia coli in
+
+veterinary medicine. Int. J. Med. Microbiol. 295:443–454.
+
+38. Najand, L. M., and R. Ghanbarpour. 2007. A study on enteropatho-
+genic Escherichia coli isolated from domestic Iranian soft cheese. Vet.
+Arh. 76:531–536.
+
+39. Nataro, J. P., and J. B. Kaper. 1998. Diarrheagenic Escherichia coli.
+
+Clin. Microbiol. Rev. 11:142–201.
+
+40. Navarro, A., C. Eslava, U. Hernandez, J. L. Navarro-Henze, M.
+Aviles, G. Garcia-de la Torre, and A. Cravioto. 2003. Antibody
+responses to Escherichia coli O157 and other lipopolysaccharides in
+healthy children and adults. Clin. Diag. Lab. Immunol. 10:797–801.
+41. Oliver, S. P., B. M. Jayarao, and R. A. Almeida. 2005. Foodborne
+pathogens in milk and the dairy farm environment: food safety and
+public health implications. Foodborne Pathog. Dis. 2:115–129.
+
+Journal of Food Protection 2018.81:1748-1754.Downloaded from jfoodprotection.org by Iowa State University on 03/26/19. For personal use only.1754
+
+DE LA ROSA-HERN ´ANDEZ ET AL.
+
+J. Food Prot., Vol. 81, No. 11
+
+42. Orth, D., K. Grif, A. B. Khan, A. Naim, M. P. Dierich, and R.
+Wurzner. 2007. The shiga toxin genotype rather than the amount of
+shiga toxin or the cytotoxicity of shiga toxin in vitro correlates with
+the appearance of the hemolytic uremic syndrome. Diagn. Microbiol.
+Infect. Dis. 59:235–242.
+
+43. Paredes-Paredes, M., P. C. Okhuysen, J. Flores, J. A. Mohamed, R. S.
+Padda, A. Gonza´lez-Estrada, C. A. Haley, L. G. Carlin, P. Nair, and
+H. L. DuPont. 2011. Seasonality of diarrheagenic Escherichia coli
+pathotypes in the U.S. students acquiring diarrhea in Mexico. J.
+Travel Med. 18:121–125.
+
+44. Paton, W. A., C. M. Woodrow, R. M. Doyle, J. A. Lanser, and J. C.
+Paton. 1999. Molecular characterization of a shiga toxigenic
+Escherichia coli O113:H21 strain lacking eae responsible for a
+cluster of cases of hemolytic-uremic syndrome. J. Clin. Microbiol.
+37:3357–3361.
+
+45. Secretar´ıa de Agricultura, Ganader´ıa, Desarrollo Rural, Pesca y
+Alimentaci´on. 2010. Situaci´on actual y perspectiva de la producci´on
+de leche de bovino en M´exico 2010, p. 34–43. Claridades
+Agropecuarias. No. 207. Available at: http://www.infoaserca.gob.
+mx/claridades/revistas/207/ca207-34.pdf. Accessed 26 June 2018.
+
+46. Silbergeld, E. K., J. Graham, and L. B. Price. 2008. Industrial food
+animal production, antimicrobial resistance, and human health. Annu.
+Rev. Public Health 29:151–169.
+
+47. Solomakos, N., A. Govaris, A. S. Angelidis, S. Pournaras, A. R.
+Burriel, S. K. Kritas, and D. K. Papageorgiou. 2009. Occurrence,
+virulence genes and antibiotic resistance of Escherichia coli O157
+isolated from raw bovine, caprine and ovine milk in Greece. Food
+Microbiol. 26:865–871.
+
+48. Torres-Vitela, M. R., C. A. G´omez-Aldapa, J. F. Cerna-Cort´es, A.
+Villarruel-L ´opez, E. Rangel-Vargas, and J. Castro-Rosas. 2013.
+Presence of indicator bacteria, diarrheagenic E. coli pathotypes and
+Salmonella in fresh carrot juice from Mexican restaurants. Lett. Appl.
+Microbiol. 56:180–185.
+
+49. Trmˇci´c, A., K. Chauhan, D. J. Kent, R. D. Ralyea, N. H. Martin, K. J.
+Boor, and M. Wiedmann. 2016. Coliform detection in cheese is
+associated with speciﬁc cheese characteristics, but no association was
+found with pathogen detection. J. Dairy Sci. 99:6105–6120.
+
+50. U.S. Food and Drug Administration. 2002. Bacteriological analytical
+manual online: enumeration of Escherichia coli and the coliform
+bacteria. Available at: https://www.fda.gov/food/foodscienceresearch/
+laboratorymethods/ucm064948.htm. Accessed 26 June 2018.
+
+51. World Health Organization. 2000. Global principles for
+
+the
+containment of antimicrobial resistance in animals intended for food.
+Available at: http://apps.who.int/iris/bitstream/handle/10665/68931/
+WHO_CDS_CSR_APH_2000.4.pdf?sequence¼1&isAllowed¼y. Ac-
+cessed 26 June 2018.
+
+Journal of Food Protection 2018.81:1748-1754.Downloaded from jfoodprotection.org by Iowa State University on 03/26/19. For personal use only.

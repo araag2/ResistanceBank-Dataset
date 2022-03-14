@@ -1,0 +1,1447 @@
+ 
+
+Received:	9	February	2017   
+
+DOI: 10.1111/zph.12427
+
+O R I G I N A L   A R T I C L E
+
+Phenotypic and genotypic comparison of salmonellae from 
+diarrhoeic and healthy humans and cattle, Nigeria
+
+K. Fashae1  | P. Leekitcharoenphon2 | R. S. Hendriksen2
+
+1Department of Microbiology, University of 
+Ibadan, Ibadan, Nigeria
+2WHO Collaborating Center for Antimicrobial 
+Resistance in Food borne Pathogens and 
+European Union Reference Laboratory for 
+Antimicrobial Resistance, National Food 
+Institute, Technical University of Denmark, 
+Kgs. Lyngby, Denmark
+
+Correspondence
+Kayode Fashae, Department of Microbiology, 
+University of Ibadan, Ibadan, Nigeria.
+Email: fashaekayode@yahoo.com
+
+Summary
+The sources and modes of transmission of non- typhoidal Salmonella particularly zo-
+onotic transmission are poorly understood in Africa. This study compared phenotypic 
+and genotypic characteristics of Salmonellae isolated from cattle and humans. Faecal 
+samples of diarrhoeic patients (n = 234), and a healthy population (n = 160), beef cattle 
+at slaughter (n = 250), farms (n = 72) and market (n = 100) were cultured for salmonel-
+lae and serotyping and antimicrobial susceptibility were determined. Whole- genome 
+sequence typing (WGST) of selected isolates and bioinformatic analysis were used to 
+identify the multilocus sequence type (MLST), plasmid replicons, antimicrobial resist-
+ance genes and genetic relatedness by single nucleotide polymorphism (SNP) analysis. 
+The Salmonella isolates, diarrhoeic patients (n = 17), healthy population (n = 13), cattle 
+(abattoir,  n = 67;  farms,  n = 10;  market  n = 5),  revealed  49  serovars;  some  serovars 
+were common to humans and cattle. Rare serovars were prevalent: Colindale (cattle 
+and humans); Rubislaw and Bredeney (humans); and Dublin, Give, Eastbourne, Hadar, 
+Marseille, Sundsvall, Bergen, Ekotedo, Carno and Ealing (cattle). The sequence types 
+(ST)  include  ST  584,  ST  198,  ST  562  and  ST  512  for  S.  Colindale,  S.  Kentucky  S. 
+Rubislaw and S. Urbana, respectively. Clonal cluster shared by cattle and human WGST 
+isolates was not found. Antimicrobial resistance rates were generally low and towards 
+only chloramphenicol, ampicillin, gentamicin, ciprofloxacin, tetracycline and strepto-
+mycin, range 2.7% (chloramphenicol) to 8.9% (streptomycin). Multiply resistant iso-
+lates included serovars Kentucky, 4,5,12:i:-  and Typhimurium. The study presents a 
+baseline description of the prevalence, serotypes, antimicrobial resistance phenotypes 
+and genetic relatedness of Salmonella isolated from healthy and diarrhoeic humans, 
+and cattle at harvest, on farm and at market. Cattle are a reservoir of diverse salmonel-
+lae with shared serovars with humans, but WGST does not support zoonotic transmis-
+sion.  Further  study  with  larger  samples  is  recommended  to  determine  whether 
+epidemiological link exists between cattle and humans.
+
+K E Y W O R D S
+cattle, gastroenteritis, human, multilocus sequence type, Nigeria, Salmonella, single nucleotide 
+polymorphism
+
+Zoonoses Public Health. 2017;1–11.	
+
+wileyonlinelibrary.com/journal/zph	
+
+	 | 	1
+
+© 2017 Blackwell Verlag GmbH2  |    
+
+1 |  INTRODUCTION
+
+Salmonella infections generally present as self- limiting gastroenteritis. 
+Non- typhoidal Salmonella is a major cause of gastroenteritis estimated 
+at  93.8  million  cases  and  155,000  deaths  globally  (Majowicz  et al., 
+2010). Of the over 2,500 Salmonella serovars, the few causing infec-
+tions are dominated by S. Typhimurium (ST) and S. Enteritidis (SE) glob-
+ally. There are sparse data on prevalent Salmonella serovars associated 
+with gastroenteritis in humans in sub- Saharan Africa, but ST and SE 
+and S. Collindale have been reported prevalent in Kenya and Gambia 
+(Dione, Ikumapayi, Saha, Mohammed, & Geerts, 2011; Kariuki et al., 
+2006; O’Reilly, Jaron, Ochieng, Nyaguara, & Tate, 2012). Reports on 
+Salmonella serovars associated with gastroenteritis in Nigeria are few 
+(Ifeanyi, Bassey, Ikeneche, & Al- Gallas, 2014; Raufu et al., 2013) and 
+limited by small sample size and geographical location.
+
+The  routes  of  transmission  of  Salmonella  include  animals, water, 
+foods, person- to- person contact and the environment. While in the 
+developed countries, the majority of human Salmonella infection are 
+foodborne  (Jackson,  Griffin,  Cole,  Walsh,  &  Chai,  2013;  Majowicz 
+et al.,  2010),  the  relative  importance  of  the  transmission  routes  in 
+Africa is poorly understood (Dione et al., 2011; Kariuki et al., 2006). 
+Source attribution studies based on genomic subtyping have the po-
+tential to provide valuable information (Onsari & MacLennan, 2014) 
+but  are  scarcely  performed  in  Nigeria  (Leekitcharoenphon  et al., 
+2016); serotyping, which might not translate to genetic similarity, has 
+been used (Raufu et al., 2013).
+
+Food animals (like cattle) play a significant role in the epidemiology 
+of Salmonella, because they act as reservoirs and excrete salmonellae 
+in their faeces (Rodriguez- Rivera et al., 2014); therefore, the meat and 
+meat  products  can  be  contaminated  during  slaughter  and  process-
+ing, posing health risks; infections can also result from cattle contact 
+(Cummings et al., 2012; Leekitcharoenphon et al., 2016). Beef cattle 
+are  an  important  potential  source  of  salmonellae  in  Nigeria  as  they 
+are widely consumed. The potential for zoonotic transmission is fur-
+ther increased given limited capacity for sanitation and comingling of 
+livestock with human population. Subtyping Salmonella remains key to 
+identify sources of human infections for implementation of interven-
+tions and control measures. Next- generation sequencing technologies 
+have made whole- genome sequencing (WGS) of foodborne bacterial 
+pathogens a realistic and superior alternative to traditional subtyping 
+methods;  routine,  real- time  and  widespread  application  of  WGS  in 
+food safety and public health is now possible (Deng, den Bakker, & 
+Hendriksen, 2016). WGS evaluation of salmonellae isolated from hu-
+mans and cattle is therefore warranted to lay the foundation for being 
+able to use WGS for source attribution in this part of the world.
+
+Antimicrobial resistance has increased and is widespread, hence 
+a  public  health  concern  (Crump,  Sjölund- Karlsson,  Gordon,  &  Parry, 
+2015)  with  indiscriminate  use  of  antimicrobials  being  a  factor 
+(Collignon, Powers, Chiller, Aidara- Kane, & Aarestrup, 2009) and calls 
+for continuous surveillance and control.
+
+This  study  elucidated  the  prevalence,  serotypes  and  antimicro-
+bial  resistance  phenotypes  of  salmonellae  and  genetic  relatedness 
+(using WGS) of shared serovars isolated from healthy and diarrhoeic 
+
+Impacts
+•  There  was  some  overlap  between  the  Salmonella  sero-
+
+types observed between humans and cattle.
+
+•  But the WGS data do not support an epidemiological link 
+
+between the strains from humans and cattle.
+
+•  Further study is needed to determine whether an epide-
+
+miological link exists.
+
+humans and cattle at harvest, cattle at market and on farms in Nigeria, 
+focusing at establishing baseline data to eventually make trace- back 
+possible.
+
+2 |  MATERIALS AND METHODS
+
+2.1 | Collection of faecal samples
+
+Faecal  samples  were  randomly  collected  from  human  cases  of  di-
+arrhoea  (n = 234),  apparently  healthy  pregnant  women  attending 
+an  antenatal  clinic  at  Adeoyo  Hospital  (n = 160)  and  beef  cattle  at 
+slaughter  (n = 250),  cattle  market  (n = 100)  and  two  cattle  farms 
+(n = 30;  n = 42,  respectively)  (Figure 1).  Faecal  samples  were  col-
+lected  between  September  2011  and  August  2013:  cattle  (2011–
+2012), pregnant women (2011) and diarrhoeic cases (April 2012 to 
+October 2013). The cattle faecal samples were obtained from Bodija 
+abattoir where most cattle were slaughtered and butchered for con-
+sumption by the population of Ibadan; the Akinyele cattle market was 
+one of the main markets while the cattle farms were chosen based 
+on accessibility. The human diarrhoeic samples were obtained from 
+three  hospitals  (Adeoyo  and  Oni  and  Son  General  and  University 
+College Hospitals) and a Mokola Primary Health Centre 111 of the 
+patients were females and 143 were less than 15 years old. Figure 1 
+(map)  shows  the  hospitals,  primary  health  centre,  Bodija  abattoir, 
+cattle market and cattle farms where faecal samples were collected. 
+Informed consent (written or verbal) of all human subjects was ob-
+tained; parents or guardians of children gave informed consent on 
+behalf of the children. At slaughter, cattle faecal samples were col-
+lected into sterile bottles from the cattle rectum using a pair of gloves 
+per animal by the veterinarians on duty at the abattoir, while the cat-
+tle  faecal  samples  collected  from  the  farms  and  market  were  ran-
+domly obtained from the floor.
+
+2.2 | Isolation of Salmonella
+
+Each  5 g  of  faecal  sample  was  inoculated  into  25 ml  of  selenite  F 
+broth (Lab M, Lancashire, UK) and incubated aerobically at 37°C for 
+24 hr (Fashae, Ogunsola, Aarestrup, & Hendriksen, 2010). Thereafter, 
+a loopful of the broth was plated onto Salmonella-Shigella agar (SSA; 
+Lab  M)  by  streaking  and  the  SSA  plate  was  then  incubated  aerobi-
+cally at 37°C for 24 hr. Then, presumptive Salmonella colonies from 
+the SSA plate were re- subcultured by streaking onto fresh SSA plates 
+
+FASHAE Et Al.    |  3
+
+FIGURE 1 Hospitals (H1 to H4), public health centre (PHC), farms (F1 and F2), abattoir (AB), and cattle market (M) where faecal samples 
+were collected. [Colour figure can be viewed at wileyonlinelibrary.com]
+
+and  incubated  as  above  for  purification.  All  presumptive  Salmonella 
+isolates were then identified  by standard methods  (Cowan & Steel, 
+1974);  isolates  that  were  Gram- negative  rods,  oxidative  negative, 
+
+glucose  fermenters,  non- lactose  fermenters  and  hydrogen  sulphide 
+producers  were  subjected  to  serotyping  for  the  identification  of 
+Salmonella serovars.
+
+FASHAE Et Al.4  |    
+
+2.3 | Serotyping of Salmonella isolates
+
+Only 85 of the 112 biochemically confirmed isolates were serotyped 
+by slide agglutination using Salmonella polyvalent and monovalent O 
+and  H  antisera  (Diagnostic  Pasteur,  Paris,  France)  according  to  the 
+Kauffmann–White  classification  scheme  (Grimont  &  Weill,  2007). 
+These included 40 of the cattle isolates and all others.
+
+2.4 | Antimicrobial susceptibility testing of 
+Salmonella isolates
+
+The susceptibility of all the 112 Salmonella isolates to 12 antimicro-
+bials  was  determined  by  disc  diffusion  method  on  Mueller- Hinton 
+agar  (Merck,  Hamburg,  Germany)  plates  according  to  the  Clinical 
+and Laboratory Standards Institute (CLSI) guidelines (CLSI M02- A12, 
+2015a). The Escherichia coli ATCC 25922 was used as the quality con-
+trol  strain.  The  antimicrobial  discs  (Oxoid,  Basingstoke,  Hampshire, 
+UK)  tested  were  ampicillin  (10 μg),  cefotaxime  (30 μg),  ceftazidime 
+(30 μg),  ceftriaxone  (30 μg),  chloramphenicol  (30 μg),  ciprofloxacin 
+(5 μg), gentamicin (10 μg), nalidixic acid (30 μg), streptomycin (10 μg), 
+sulphonamides (300 μg), tetracycline (30 μg) and trimethoprim (5 μg). 
+Diameters of zones inhibition were measured with a ruler and inter-
+preted  by  the  CLSI  guidelines  (CLSI  M100- S25  2015b).  Salmonella 
+isolates  with  ciprofloxacin  disc  diffusion  zones  of  inhibition  in  the 
+intermediate  range  (<30 mm)  were  interpreted  as  showing  reduced 
+susceptibility to ciprofloxacin (CLSI M100- S25b).
+
+2.5 | Whole- genome sequencing
+
+Genomes of the following isolates of S. Colindale (n = 7), S. Rubislaw 
+(n = 3),  S.  Urbana  (n = 2),  S.  Agama  (n = 2)  and  S.  Kentucky  (n = 4) 
+(selected  based  on  isolation  from  more  than  one  source  or  multi-
+plicity  of  isolates  and  cost  consideration)  were  sequenced  using  a 
+Illumina MiSeq platform (Illumina, Inc., San Diego, CA) as described 
+earlier  (Hendriksen  et al.,  2015).  The  quality  of  the  reads  was  as-
+sessed using the FastQC quality control tool (http://www.bioinfor-
+matics.babraham.ac.uk/projects/fastqc/), reads with a quality score 
+of below 20 were filtered out, and all the remaining reads were as-
+sembled using the assembler pipeline (version 1.4) available from the 
+Center for Genomic Epidemiology (CGE) (http://cge.cbs.dtu.dk/ser-
+vices/all.php). Raw sequence data were submitted to the European 
+Nucleotide  Archive  (http://www.ebi.ac.uk/ena)  under  study  ac-
+cession  no.:  PRJEB21564  (http://www.ebi.ac.uk/ena/data/view/ 
+PRJEB21564). A complete list of genomic sequence data is available 
+in the Table S1. The assembled sequences were analysed to identify 
+the MLST sequence type (ST) for Salmonella enterica, plasmid repli-
+cons and acquired antimicrobial resistance genes using the pipelines 
+mlst (version 1.7), plasmidfinder (version 1.2, 80% threshold for %ID) 
+and  resfinder  (version  2.1,  80%  threshold  for  %ID/60%  minimum 
+length) available from CGE (Carattoli et al., 2014; Larsen et al., 2012; 
+Zankari et al., 2012). Single nucleotide polymorphisms (SNPs) were 
+determined  using  the  pipeline  csi  phylogeny  (version  1.4)  available 
+from  the  CGE  (http://cge.cbs.dtu.dk/services/all.php).  The  refer-
+ence genomes used for SNP analysis were S. Colindale (HD 3A), one 
+
+of the contemporary isolates due to lack of appropriate reference 
+genome; others were S. Kentucky Str CMV 29188 and S. Rubislaw 
+Str  10717.  The  pipeline  is  a  suite  of  different  public  programmes. 
+The reads were aligned against the genome of S. Colindale (HD 3A), 
+S. Kentucky Str CMV 29188 or S. Rubislaw Str 10717 depending on 
+the Salmonella serovar using the Burrows- Wheeler Aligner (bwa) ver-
+sion 0.7.2 (Li & Durbin, 2009). SNP calling was by samtools version 
+0.1.18  (Li  et al.,  2009)  “mpileup”  commands.  Subsequently,  SNPs 
+were  selected  when  meeting  the  following  criteria:  (i)  a  minimum 
+distance of 15 bps between each SNP (pruning); (ii) a minimum of 
+10% of the average depth; (iii) the mapping quality was above 30; (iv) 
+the SNP quality was more than 20; and (v) all indels were excluded. 
+The qualified SNPs from each genome were concatenated to a single 
+alignment corresponding to position of the reference genome. The 
+concatenated sequences were subjected to tree construction using 
+maximum likelihood from FastTree (Price, Dehal, & Arkin, 2010).
+
+2.6 | Ethical approval
+
+The study was approved by the Ethic Committee of the Ministry of 
+Health, Ibadan, Oyo State and University of Ibadan.
+
+3 |  RESULTS
+
+3.1 | Salmonella serovars distribution
+
+Overall  Salmonella  prevalence  was  13.7%  (n = 112);  the  serotyped 
+isolates revealed 49 serovars from both the human and cattle sources 
+(Table 1).  The  prevalence  varied  with  source:  the  highest  was  ob-
+served in beef cattle at slaughter (n = 67; 26.8%) followed by healthy 
+women (n = 13; 8.1%) and diarrhoeic humans (n = 17; 7.3%) with cat-
+tle at the market having the least prevalence (n = 5; 0.5%). Cattle at 
+slaughter also had the highest serovar diversity (n = 28) followed by 
+diarrhoeic humans (n = 13) and healthy women (n = 9) (Table 1). The 
+least serovar diversity was observed in cattle at the market (n = 3).
+
+S. Colindale and S. Rubislaw co- predominated (each with a prev-
+alence  of  17.6%)  in  diarrhoeic  humans.  S.  Bredeney  (n = 3;  23%) 
+predominated  in  healthy women;  S.  Dublin  (n = 5;  13%)  in  cattle  at 
+slaughter;  S.  Ekotedo  co- predominated with  S.  Carno  in  one  of  the 
+cattle  farms  (n = 3;  33%  each)  while  S.  Ekotedo  was  also  the  only 
+Salmonella  isolated  in  the  other  farm.  In  the  cattle  market,  both  S. 
+Kentucky and S. Ealing co- predominated (n = 2; 40% each). There was 
+overlapping  of  Salmonella  serovars  between  humans  and  cattle  and 
+also between the diarrhoeic patients and healthy women; such sero-
+vars  included  Colindale,  Give,  Corvallis,  Oranienburg  and  Kentucky. 
+Furthermore,  one  isolate  of  serovar  4,5,12:i:-   (monophasic  variant 
+of S. Typhimurium) was recovered from a diarrhoeic woman and a S. 
+Typhimurium isolate from a healthy woman.
+
+3.2 | Antimicrobial susceptibility testing of 
+Salmonella isolates
+
+Only 9.8% (11/112) of the Salmonella isolates showed resistance to 
+at least one of the tested antimicrobials (Table 1). The antimicrobial 
+
+FASHAE Et Al.TABLE 1 Salmonella serovars distribution from the different sources
+
+Sources of isolation
+
+Serovars
+
+Abattoir
+
+Market
+
+Farm 1
+
+Farm 2
+
+Healthy women
+
+Diarrhoeic humans
+
+Total
+
+    |  5
+
+4,5,12: i: - 
+43: d:- 
+6,7,d
+Agama
+Agoueve
+Altendorf
+Bere
+Bergen
+Bredney
+Butantan
+Carno
+Chandans
+Chester
+Colindale
+Corvallis
+Dakar
+Derby
+Dublin
+Ealing
+Eastbourne
+Ekotedo
+Essen
+Gatehead
+Give
+Glostrup
+Hadar
+Hato
+Houtenae ser.44:z4z23:- 
+Johannesburg
+Kentucky
+Kibusi
+Kingston
+Liverpool
+Livingstone
+Marseille
+Muenster
+Nigeria
+Oranienburg
+Plymouth
+Poona
+Rough
+Typhimurium
+Rubislaw
+Stanleyville
+
+0
+0
+1
+0
+1
+1
+1
+2
+0
+0
+0
+0
+1
+2
+0
+0
+1
+5
+0
+3
+0
+0
+0
+3
+0
+2
+1
+1
+1
+0
+0
+1
+0
+1
+2
+1
+0
+1
+1
+0
+1
+0
+0
+1
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+1
+0
+0
+0
+0
+3
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+
+1
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+1
+0
+3
+0
+1
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+3
+0
+
+1
+1
+1
+2
+1
+1
+1
+2
+3
+1
+3
+1
+1
+7
+2
+1
+1
+5
+2
+3
+4
+1
+1
+4
+1
+2
+1
+1
+1
+4
+1
+1
+1
+1
+2
+1
+1
+2
+1
+1
+1
+1
+3
+1
+
+(Continues)
+
+FASHAE Et Al.6  |    
+
+TABLE 1 (Continued)
+
+Sources of isolation
+
+Serovars
+
+Sundsvall
+Takoradi
+Tees
+Urbana
+Worthington
+Total
+
+Abattoir
+
+Market
+
+Farm 1
+
+Farm 2
+
+Healthy women
+
+Diarrhoeic humans
+
+Total
+
+2
+1
+1
+0
+1
+40
+
+0
+0
+0
+0
+0
+5
+
+0
+0
+0
+0
+0
+1
+
+0
+0
+0
+0
+0
+9
+
+0
+0
+0
+2
+0
+13
+
+0
+0
+0
+0
+0
+17
+
+2
+1
+1
+2
+1
+85
+
+resistance  was  observed  only  towards  ampicillin,  chloramphenicol, 
+ciprofloxacin, gentamicin, streptomycin and tetracycline with resist-
+ance prevalences ranging from chloramphenicol (n = 3, 2.7%) to strep-
+tomycin (n = 10, 8.9%).
+
+The majority (83.3%) of the resistant isolates was obtained from 
+the healthy women and comprised six serovars while all the three 
+resistant isolates from cattle were S. Kentucky. All the ciprofloxacin- 
+resistant isolates were also belonging to S. Kentucky, while one S. 
+Corvallis isolate, obtained from a healthy woman, showed reduced 
+susceptibility  to  ciprofloxacin.  Furthermore,  seven  (63.6%)  of  the 
+resistant  isolates  showed  multidrug  resistance  (MDR)  (resistance 
+to	≥3	antimicrobials);	majority	(57.1%)	of	the	MDR	isolates	were	S. 
+Kentucky (Table 2).
+
+3.3 | Whole- genome sequence analysis
+
+All the human and cattle isolates of S. Colindale except one (cattle) 
+showed the same MLST loci and alleles; aroC- 6, dnaN- 18, hemD- 46, 
+hisD- 124, pure- 2, sucA- 175, thrA- 12; ST 584. The only exceptional 
+isolate (cattle, DE 34) was a single locus variant with an alteration in 
+allele dnaN- 116, unknown ST (Figure 2).
+
+Two of the S. Kentucky isolates (cattle) showed the MLST loci and 
+alleles;  aroC- 76,  dnaN- 14,  hemD- 2,  hisD- 77,  purE- 64,  sucA- 64,  thrA- 
+67; ST 198. The remaining two isolates (human and cattle; AK 584 and 
+
+HD 68L) were single locus and double loci variants with alterations in 
+alleles  hisD- 517  and  aroC- 174  and  hisD- 100,  respectively,  unknown 
+ST (Figure 3). One of the S. Rubislaw isolates showed MLST and alleles 
+aroC- 37, dnaN- 4, hemD- 46, hisD- 205, pure- 8, sucA- 175, thrA- 164; ST 
+562. The remaining two isolates, HD 41G and HD 43H, were two and 
+three loci variants, with alterations in alleles dnaN- 180 and pure- 134; and 
+aroC- 166, dnaN- 180 and pure- 134, respectively, unknown ST (Figure 4). 
+The S. Urbana isolates showed ST 512 and those of S. Agama, unknown 
+ST.
+
+The  phylogenetic  SNP  analysis  (maximum- likelihood  trees; 
+branch length represents SNP distance and the distance is related 
+to the scale below each tree) revealed no clonal cluster shared by 
+human and cattle Salmonella isolates (Figures 2 and 3); the isolates 
+generally formed individual lineages, with pairwise SNP differences 
+of	 ≥48	 (S.  Colindale with  the  exception  of  two  human  diarrhoeic 
+isolates	HD	34E	and	HD	32D)	and	≥60	(S. Kentucky) showing exis-
+tence of different genetic subpopulations of strains (Figures 2 and 
+3). Nevertheless, the two human diarrhoeic isolates (HD 34E and 
+HD 32D) were, however, genetically related, separated by only five 
+SNPs (Figure 2). All the human isolates of S. Rubislaw were genet-
+ically different revealing individual lineages with pairwise- genome 
+differences of 38 to 24,090 SNPs (Figure 4).
+
+Antimicrobial resistance genes were only detected in the WGST 
+MDR  Kentucky  isolates,  and  these  correlated  with  the  observed 
+
+TABLE 2 Antimicrobial susceptibility of the  Salmonella isolates
+
+Serovars
+
+4,5,12:i:- 
+Kentucky
+Corvallis
+Liverpool
+Bredeney
+Typhimurium
+Colindale
+Kibusi
+Others
+Total
+
+No. 
+isolates
+
+1
+4
+1
+1
+1
+1
+1
+1
+101
+112
+
+No. (%) of isolates resistant to antimicrobials
+
+Sources
+
+Ampicillin
+
+Chloramphenicol
+
+Gentamicin
+
+Streptomycin
+
+Tetracycline
+
+Ciprofloxacin
+
+Diarrhoea
+Diarrhoea/cattle
+Healthy women
+Healthy women
+Healthy women
+Healthy women
+Healthy women
+Healthy women
+
+1 (100.0)
+1 (25.0)
+1 (00.0)
+0 (0.0)
+0 (0.0)
+1 (100.0)
+0 (0.0)
+0 (0.0)
+0 (0.0)
+4 (3.6)
+
+1 (100.0)
+0 (0.0)
+1 (100.0)
+0 (0.0)
+0 (0.0)
+1 (100.0)
+0 (0.0)
+0 (0.0)
+0 (0.0)
+3 (2.7)
+
+0 (0.0)
+4 (100.0)
+0 (0.0.)
+0 (0.0)
+0 (0.0)
+0 (0.0)
+0 (0.0)
+0 (0.0)
+0 (0.0)
+4 (3.6)
+
+1 (100.0)
+4 (100.0)
+1 (100.0)
+1 (00.0)
+1 (100.0)
+1 (100.0)
+1 (100.0)
+0 (0.0)
+0 (0.0)
+10 (8.9)
+
+0 (0.0)
+4 (100.0)
+0 (0.0)
+0 (0.0)
+0 (0.0)
+0 (0.0)
+0 (0.0)
+1 (100.0)
+0 (0.0)
+5 (4.5)
+
+0 (0.0)
+4 (100.0)
+0 (0.0)
+0 (0.0)
+0 (0.0)
+0 (0.0)
+0 (0.0)
+0 (0.0)
+0 (0.0)
+4 (3.6)
+
+FASHAE Et Al.FIGURE 2 Phylogenetic tree of S. 
+Colindale isolates
+
+- ST 584
+
+- ST 584
+
+- unknown ST
+
+- ST 584
+
+- ST 584
+
+    |  7
+
+- ST 584
+
+- ST 584
+
+- unknown ST
+
+- unknown ST
+
+- ST 198
+
+- ST 198
+
+FIGURE 3 Phylogenetic tree of S. 
+Kentucky isolates
+
+antimicrobial resistance phenotypes: blaTEM-1B (ampicillin), aac(3)-Id 
+(gentamicin),  aadA7,  strA,  strB  (streptomycin)  and  tetA  (tetracy-
+cline). No resistance gene was detected using the WGST in serovars: 
+Colindale, Urbana and Agama isolates (all were pansusceptible). The 
+blaTEM-1B gene was detected in the only one Kentucky isolate from a 
+diarrhoeic human. Plasmid replicons were not detected.
+
+4 |  DISCUSSION
+
+This study showed cattle at harvest to be a reservoir of salmonellae, har-
+bouring diverse serovars, many of which are important potential human 
+pathogens. Although there was some overlap between the serotypes 
+observed  between  cattle  and  humans,  genetic  relatedness  does  not 
+
+FASHAE Et Al.8  |    
+
+- unknown ST
+
+- unknown ST
+
+- ST 562
+
+FIGURE 4 Phylogenetic tree of S. 
+Rubislaw isolates
+
+support  zoonotic  transmission  or  epidemiological  link.  More  data  are 
+needed before concluding on the epidemiological link between the two 
+populations. The observation of serovar overlap contrasted with reports 
+from some African countries (Dione et al., 2011; Kariuki et al., 2006).
+
+This study marks the first isolation of some serovars in cattle in 
+Nigeria; S. Ekotedo, S. Bere, S. Begen and S. Takoradi that have been 
+implicated  in  human  infections  but  never  cultured  from  non- human 
+sources or cattle (Collard & Sen, 1960) suggesting cattle as the reser-
+voir and probable source.
+
+Other potential pathogens were found in cattle but not in hu-
+mans in the present study: S. Dublin, an important causative agent of 
+human invasive salmonellosis in Nigeria (Fashae et al., 2010; Obaro 
+et al., 2015); S. Hadar, S. Muester, S. Stanleyville, S. Johanesburg, S. 
+Livingstone and S. Chester (Harrois et al., 2014; Ktari et al., 2009); 
+S.  Ealing  (Rowe  et al.,  1987);  S.  Kingston  (Filip,  Chihu- Amparan, 
+Coman, Velázquez, & Silva, 2004); S. Eastbourne (Craven, Mackel, 
+Baine, Barker, & Gangarosa, 1975); S. Worthington (Kapoor et al., 
+2006) and S. Essen and S. Hato (Osman, Marouf, & Alatfeehy, 2013). 
+S.  Dublin  is  the  third  commonest  cause  of  Salmonella  bacteremia 
+after both S. Typhimurium and S. Enteritidis in Nigeria; accounting 
+for  18%  (in  a  south- western  city)  and  5%  (in  the  Federal  Capital 
+Territory  and  a  north- western  city)  of  cases  (Fashae  et al.,  2010; 
+Obaro et al., 2015). S. Stanleyville and S. Johanesburg are probably 
+persistent in cattle in Nigeria (Collard & Sen, 1960).
+
+Overall,  rare  serovars  were  prevalent  in  the  human  infections 
+with S. Colindale, S. Rubislaw, S. Bredeney and S. Urbana being the 
+
+prevalent serovars. These serovars were less prevalent in human in-
+fections  some  decades  ago  (Collard  &  Sen,  1960),  thus  indicating 
+persistence and increased public health importance. Interestingly, S. 
+Colindale is also prevalent in cattle in this study; the similar prevalence 
+in  pigs  in  Nigeria  (Fashae  &  Hendriksen,  2014)  suggests  dissemina-
+tion in food animals; therefore, food animals are probable source of 
+infection. Other probable sources of S. Colindale are poultry and well 
+water  (Dekker  et al.,  2015; Tabo  et al.,  2013).  It  is  noteworthy  that 
+S.  Colindale  was  also  prevalent  in  human  gastroenteritis  in  Gambia 
+(Dione et al., 2011) and was associated with bacteremia (Kalonji et al., 
+2015;  Obaro  et al.,  2015).  Cattle  are  also  reservoirs  of  S.  Rubislaw 
+coupled with pigs (Collard & Sen, 1960; Fashae & Hendriksen, 2014) 
+though found only in humans in this study. The serovars S. Bredeney 
+and  S.  Urbana  in  addition  to  others  that were  found  presently  only 
+in humans were probably contracted from sources other than cattle 
+(Fashae & Hendriksen, 2014; Fashae et al., 2010; Smith et al., 2016). 
+The occurrence of S. Give in gastroenteritis and its high prevalence in 
+cattle is also noteworthy; the prevalence is comparable to that in pigs 
+in Nigeria (Fashae & Hendriksen, 2014); therefore, this serovar is prob-
+ably an important animal pathogen in Nigeria (Higgins et al., 1997).
+
+The healthy women carriers constitute public health risk as they 
+excreted  some  clinical  important  serovars;  S.  Bredeney  (Cormican 
+et al.,  2002;  Moore  et al.,  2003),  S.  Urbana  (Kocianová  et al.,  2010; 
+Minami et al., 2004), S. Orianieburg (Werber et al., 2005), S. Corvalis 
+(Langendorf et al., 2015) and S. Typhimurium (Im et al., 2016).This cou-
+pled with the high Salmonella carriage rate suggests the importance 
+
+FASHAE Et Al.of person- to- person Salmonella transmission (Im et al., 2016) particu-
+larly intrafamilial spread (Niizuma,  Terada, Matsuda, Ogita, & Kataoka, 
+2002).
+
+Furthermore, 
+
+the  S.  Typhimurium  monophasic  variants 
+4,5,12:i:- , S. 43:d:- , S. Gatehead, S. Corvallis, S. Liverpool, S. Dakar 
+and S. Kibusi serovars found only in humans are being reported for 
+the  first  time  in  humans  in  Nigeria.  Human  infection  by  serovar 
+4,5,12:i:-  (monophasic variant of S. Typhimurium) indicates the oc-
+currence of this emerging epidemic pathogen in Nigeria thus war-
+ranting surveillance.
+
+The prevalence of rare serovars corroborates reports from some 
+African  countries  (Harrois  et al.,  2014;  Osman  et al.,  2013), while  it 
+contrasts  with  others  (Bonkoungou  et al.,  2013;  Langendorf  et al., 
+2015;  Moyo  et al.,  2011),  suggesting  complex  epidemiology  of 
+Salmonella in Africa which may complicate the control. The observed 
+different  serovar  patterns  are  probably  a  reflection  of  local  climatic 
+conditions, culture and animal husbandry.
+
+The S. Colindale strains were divided into more than one MLST as 
+a result of a single locus variation with a maximum pairwise- genome 
+difference of 77 SNPs suggesting a monomorphic serovar like S. Typhi 
+(Hendriksen et al., 2015); this conclusion should be taken with cau-
+tion as good reference genome and more temporal and spatial strains 
+(presently unavailable) are required for confirmation. Both S. Kentucky 
+and S. Rubislaw strains were also divided into more than one MLST 
+based on variation in one to two (S. Kentucky) and two to three (S. 
+Rubislaw) loci suggesting polymorphic serovars. With the collection of 
+contemporary strains of the serovars Kentucky and Rubislaw diverg-
+ing greatly from the corresponding reference genome by 27,879 SNPs 
+and 32,675 SNPs, respectively, it indicates polymorphic serovars.
+
+Phylogenetic SNP analysis of Salmonella isolates of the shared se-
+rovars (observed between cattle and humans) revealed circulation of 
+different  genetic  populations  of  strains  indicating  lack  of  epidemio-
+logical link; however, this requires confirmation by large contempora-
+neous isolates. The genetic relatedness of the two human diarrhoeic 
+isolates (HD 34E and HD 32D) separated by only five SNPs (Figure 1) 
+indicates clonal dissemination.
+
+The overall low prevalence of antimicrobial resistance is notewor-
+thy; this coupled with the finding of rare Salmonella serovars suggests 
+exposure from environment with less antimicrobial selective pressure 
+such as reptiles.
+
+These findings underscore the importance of cattle at harvest as 
+an important reservoir of salmonellae; therefore, the sources of cattle 
+infection need to be identified for targeted control measures. Cattle 
+could be infected through feeds, water, grazing pasture and the envi-
+ronment. Indiscriminate grazing of cattle in open and unhygienic pas-
+ture and drinking of water from contaminated streams and rivers is 
+common in this environment. Cattle are also allowed to stray on the 
+streets  scavenging  domestic  and  market wastes.  Biosecurity  of  cat-
+tle farms is also poor as they are bushy and not properly fenced to 
+prevent infestation by small animals like rodents and reptiles coupled 
+with poor hygienic condition of the farms. All these factors should be 
+a focus of regulatory policies by appropriate Government Agencies to 
+safeguard public health.
+
+    |  9
+
+This study is limited by small sample size and evaluation of only 
+some of the Salmonella isolates by WGST due to cost. Furthermore, 
+one  faecal  sample  was  evaluated  per  individual  instead  of  multiple 
+samples  which  enhances  isolation  of  Salmonella. The  time  span  be-
+tween collection of animal and human samples could be responsible 
+for  lack  of  clonal  clusters  formed  by  cattle  and  human  Salmonella 
+isolates.
+
+5 |  CONCLUSION
+
+The study provides baseline data of Salmonella (human and cattle) 
+prevalence, ST, antimicrobial resistance phenotypes and genetic re-
+latedness, laying the framework for using WGS for source attribu-
+tion in Nigeria, but more analysis is needed of Salmonella isolated 
+from a broader array of sample types to further facilitate this ap-
+plication of WGS. There is need for continuous antimicrobial resist-
+ance surveillance.
+
+ACKNOWLEDGEMENTS
+
+We appreciate Fatma Aderibigbe, Tayo Akinsete, Asishia, Esther Enigah, 
+Seun Ohu and Muyiwa Akerele for helping in sample collection and Dr. 
+Olutoyin Fashae for assistance with the map. The following were appre-
+ciated for support during implementation of the project: late Prof. A.A. 
+Oni, Mrs Kolade, Mrs Ogunleye, Mrs Nwachukwu and Mr Odekanmi 
+of Medical Microbiology and Parasitology, University College Hospital; 
+medical  doctors  and  laboratory  staff  of  Oni  and  Sons  Hospital;  and 
+nurses at Adeoyo Hospital and Mokola Primary Health Centre.
+
+ORCID
+
+K. Fashae 
+
+ http://orcid.org/0000-0001-8580-8591 
+
+REFERENCES
+
+Bonkoungou, I. J. O., Haukka, K., Österblad, M., Hakanen, A. J., Traoré, A. S., 
+Barro, N., & Siitonen, A. (2013). Bacterial and viral etiology of childhood 
+diarrhea in Ouagadougou, Burkina Faso. BMC Pediatrics, 13, 36. https://
+doi.org/10.1186/1471-2431-13-36
+
+Carattoli, A., Zankari, E., Garcia-Fernandez, A., Volby, L. M., Lund, O., Villa, 
+L.,  …  Hasman,  H.  (2014).  PlasmidFinder  and  pMLST:  In  silico  detec-
+tion and typing of plasmids. Antimicrobial Agents Chemotherapy, 58(7), 
+3895-3903. https://doi.org/10.1128/AAC.02412-14
+
+Clinical and Laboratory Standards Institute (2015a). Performance standards 
+for antimicrobial disk susceptibility tests; Approved Standard – twelfth 
+Edition. CLSI document M02-A12. Wayne, PA: Clinical and Laboratory 
+Standards Institute.
+
+Clinical and Laboratory Standards Institute (2015b). Performance standards 
+for antimicrobial disk susceptibility testing; Twenty-Fifth Edition informa-
+tional supplement. CLSI document M100-S25. Wayne, PA: Clinical and 
+Laboratory Standards Institute.
+
+Collard,  P.,  &  Sen,  R.  (1960).  Serotypes  of  Salmonella  at  Ibadan,  Nigeria 
+with special note of the new serotypes isolated from Nigeria. Journal 
+Infectious  Diseases,  106(3),  270–275.  https://doi.org/10.1093/
+infdis/106.3.270
+
+FASHAE Et Al.10  |    
+
+Collignon, P., Powers, J. H., Chiller, T. M., Aidara-Kane, A., & Aarestrup, F. M. 
+(2009). World Health Organization ranking of antimicrobials according 
+to their importance in human medicine: A critical step for developing 
+risk management strategies for the use of antimicrobials in food pro-
+duction  animals.  Clinical  Infectious  Diseases,  49(1),  132–141.  https://
+doi.org/10.1086/599374
+
+Cormican,  M.,  DeLappe,  N.,  O’Hare,  C.,  Doran,  G.,  Morris,  D.,  Corbett-
+Feeney, G., … Moore, J. (2002). Salmonella enterica serotype Bredeney: 
+Antimicrobial  susceptibility  and  molecular  diversity  of  isolates  from 
+Ireland and Northern Ireland. Applied Environmental Microbiology, 68(1), 
+181–186. https://doi.org/10.1128/AEM.68.1.181-186.2002
+
+Cowan, S. T., & Steel, K. J. (1974). Manual for the identification of medical 
+
+bacteria (pp. 28–106). Cambridge, MA: University Press.
+
+Craven, P. C., Mackel, D. C., Baine, W. B., Barker, W. H., & Gangarosa, E. 
+J.  (1975).  International  outbreak  of  Salmonella  Eastbourne  infection 
+traced to contaminated chocolate. Lancet, 1(7910), 788–792. https://
+doi.org/10.1016/S0140-6736(75)92446-0
+
+Crump, J. A., Sjölund-Karlsson, M., Gordon, M. A., & Parry, C. M. (2015). 
+Epidemiology, clinical presentation, laboratory diagnosis, antimicrobial 
+resistance, and antimicrobial management of invasive Salmonella infec-
+tions.  Clinical  Microbiology,  28(4),  901–937.  https://doi.org/10.1128/
+CMR.00002-15
+
+Cummings,  K. J., Warnick,  L.  D.,  Davis,  M. A.,  Eckmann,  K.,  Gröhn, Y. T., 
+Hoelzer, K., … Besser, T. E. (2012). Farm animal contact as risk factor 
+for  transmission  of  bovine- associated  Salmonella  subtypes.  Emerging 
+Infectious  Diseases,  18(12),  1929–1936.  https://doi.org/10.3201/
+eid1812.110831
+
+Dekker, D. M., Krumkamp, R., Sarpong, N., Frickmann, H., Boahen, K. G., 
+Frimpong, M., … May, J. (2015). Drinking water from dug wells in rural 
+ghana–salmonella  contamination,  environmental  factors,  and  geno-
+types.  International  Journal  Environmental  Research  and  Public  Health, 
+12(4), 3535–3546. https://doi.org/10.3390/ijerph120403535
+
+Deng,  X.,  den  Bakker,  H.  C.,  &  Hendriksen,  R.  S.  (2016).  Genomic  epi-
+demiology:  whole- genome- sequencing- powered  surveillance  and 
+outbreak  investigation  of  foodborne  bacterial  pathogens.  Annual 
+Review Food Science Technology, 7, 353–374. https://doi.org/10.1146/
+annurev-food-041715-033259
+
+Dione, M. M., Ikumapayi, U. N., Saha, D., Mohammed, N. L., & Geerts, S. 
+(2011).  Clonal  differences  between  non- typhoidal  Salmonella  (NTS) 
+recovered  from  children  and  animals  living  in  close  contact  in  The 
+Gambia.  PLoS  Neglected  Tropical  Diseases,  5(5),  e1148.  https://doi.
+org/10.1371/journal.pntd.0001148
+
+Fashae, K., & Hendriksen, R. S. (2014). Diversity and antimicrobial suscep-
+tibility of Salmonella enterica serovars isolated from pig farms in Ibadan, 
+Nigeria.  Folia  Microbiologica,  59(1),  69–77.  https://doi.org/10.1007/
+s12223-013-0270-6
+
+Fashae,  K.,  Ogunsola,  F.,  Aarestrup,  F.  M.,  &  Hendriksen,  R.  S.  (2010). 
+Antimicrobial susceptibility and serovars of Salmonella from chickens 
+and humans in Ibadan, Nigeria. Journal Infection in Developing Countries, 
+4(8), 484–494. https://doi.org/10.3855/jidc.909
+
+Filip, R., Chihu-Amparan, V., Coman, G., Velázquez, M. E., & Silva, J. (2004). 
+Molecular characterization of beta- lactam resistance of Salmonella iso-
+lates from pediatric patients in Romania. Journal Chemotherapy, 16(4), 
+337–342. https://doi.org/10.1179/joc.2004.16.4.337
+
+Grimont, P. A. D., & Weill, F. X. (2007). Antigenic formulae of the Salmonella se-
+rovars (9th ed.) Paris, France: World Health Organization Collaboration 
+Centre for Reference and Research on Salmonella and Institut Pasteur.
+Harrois,  D.,  Breurec,  S.,  Seck,  A.,  Delaune,  A.,  Le  Hello,  S.,  Gandara,  P., 
+…  Weill,  F.  X.  (2014).  Prevalence  and  characterization  of  extended- 
+spectrum  b- lactamase- producing  clinical  Salmonella  enterica  isolates 
+in Dakar, Senegal, from 1999 to 2009. Clinical Microbiology Infection, 
+20,  O109–O116.  https://doi.org/10.1111/1469-0691.12339.  doi: 
+10.1111/1469-0691.12339
+
+Hendriksen,  R.  S.,  Leekitcharoenphon,  P.,  Lukjancenko,  O.,  Lukwesa-
+Musyani,  C.,  Tambatamba,  B.,  Mwaba,  J.,  …  Mwansa,  J.  C.  (2015). 
+
+Genomic  signature  of  multidrug- resistant  Salmonella  enterica  sero-
+var Typhi  isolates  related  to  a  massive  outbreak  in  Zambia  between 
+2010 and 2012. Journal Clinical Microbiology, 53, 262–272. https://doi.
+org/10.1128/JCM.02026-14
+
+Higgins,  R.,  Desilets,  A.,  Cantin,  M.,  Messier,  S.,  Khakhria,  R.,  lsmafl,  J., 
+…  Caron,  H.  (1997).  Outbreak  of  Salmonella  give  in  the  province  of 
+Quebec. Canadian Veterinary Journal, 38, 780–781.
+
+Ifeanyi, C., Bassey, B. E., Ikeneche, N. F., & Al-Gallas, N. (2014). Molecular 
+characterization and antibiotic resistance of Salmonella in children with 
+acute gastroenteritis in Abuja, Nigeria. Journal Infection in Developing 
+Countries, 8(6), 712–719. https://doi.org/10.3855/jidc.4185
+
+Im, J., Nichols, C., Bjerregaard-Andersen, M., Sow, A. G., Løfberg, S., Tall, 
+A., … von Kalckreuth, V. (2016). Prevalence of Salmonella excretion in 
+stool: a community survey in 2 sites, Guinea- Bissau and Senegal. Clinical 
+Infectious Diseases, 62(Suppl 1), S50–S55. https://doi.org/10.1093/cid/
+civ789
+
+Jackson, B. R., Griffin, P. M., Cole, D., Walsh, K. A., & Chai, S. J. (2013). 
+Outbreak- associated Salmonella enterica serotypes and food commod-
+ities,  United  States,  1998–2008.  Emerging  Infectious  Diseases,  19(8), 
+1239–1244. https://doi.org/10.3201/eid1908.121511
+
+Kalonji, L. M., Post, A., Phoba, M., Falay, D. I., Ngbonda, D., Muyembe, J. J., … 
+Jacobs, J. (2015). Invasive Salmonella infections at multiple surveillance 
+sites  in  the  Democratic  Republic  of  the  Congo,  2011–2014.  Clinical 
+Infectious Diseases, 61(Suppl 4), S346–S353. https://doi.org/10.1093/
+cid/civ713
+
+Kapoor, L., Eideh, H. K., Ahmad, S., Lal, P., Deb, M., & Thukral, S. S. (2006). 
+Molecular  typing  of  Salmonella  enterica  serotype  Worthington  iso-
+lates from infantile diarrhoea. Indian Journal Medical Research, 123(5), 
+691–696.
+
+Kariuki,  S.,  Revathi,  V.,  Kariuki,  N.,  Kiiru,  J.,  Mwituria,  J.,  Muyodi,  J., 
+…  Hart,  C.  A.  (2006).  Invasive  multidrug- resistant  non- typhoidal 
+Salmonella  infections  in  Africa:  Zoonotic  or  anthroponotic  trans-
+mission?  Journal  Medical  Microbiology,  55,  585–591.  https://doi.
+org/10.1099/jmm.0.46375-0
+
+Kocianová,  H.,  Litvová,  S.,  Stefkovicová,  M.,  Gavacová,  D.,  Rovný,  I., 
+Glosová, L., & Hudecková, H. (2010). Exotic pets as a potential source 
+of Salmonella. Epidemiologie Mikrobiologie Imunologie, 59(1), 9–12.
+
+Ktari, S., Arlet, G., Verdet, V., Jaoua, S., Kachrid, A., Redjeb, S. B., … Hammami, 
+A.  (2009).  Molecular  epidemiology  and  genetic  environment  of  ac-
+quired bla ACC- 1 in Salmonella enterica serotype Livingstone causing a 
+large nosocomial outbreak in Tunisia. Microbial Drug Resistance, 15(4), 
+279–286. https://doi.org/10.1089/mdr.2009.0035
+
+Langendorf,  C.,  Le  Hello, V.,  Moumouni, A.,  Gouali,  M., Abdoul-Aziz,  M., 
+Grais, R. F., … Page, A. L. (2015). Enteric bacterial pathogens in children 
+with diarrhea in Niger: diversity and antimicrobial resistance. PLoS One, 
+10(3), e0120275. https://doi.org/10.1371/journal.pone.0120275
+
+Larsen, M. V., Cosentino, S., Rasmussen, S., Friis, C., Hasman, H., Marvig, 
+R. L., … Lund, O. (2012). Multilocus sequence typing of total- genome- 
+sequenced  bacteria.  Journal  Clinical  Microbiology,  50,  1355–1361. 
+https://doi.org/10.1128/JCM.06094-11
+
+Leekitcharoenphon, P., Raufu, I., Nielsen, M. T., Lund, B. S. R., Ameh, J. A., 
+Ambali, A. G., … Hendriksen, R. S. (2016). Investigating Salmonella Eko 
+from various sources in Nigeria by whole genome sequencing to iden-
+tify the source of human infections. PLoS One, 11(5), e0156212 eCol-
+lection. https://doi.org/10.1371/journal.pone.0156212
+
+Li,  H.,  &  Durbin,  R.  (2009).  Fast  and  accurate  short  read  alignment with 
+Burrows- Wheeler  transform.  Bioinformatics,  25,  1754–1760.  https://
+doi.org/10.1093/bioinformatics/btp324
+
+Li, H., Handsaker, B., Wysoker, A., Fennell, T., Ruan, J., Homer, N., … 1000 
+Genome  Project  Data  Processing  Subgroup  (2009).  The  Sequence 
+Alignment/Map  format  and  SAMtools.  Bioinformatics,  25(15),  2078–
+2079. https://doi.org/10.1093/bioinformatics/btp352
+
+Majowicz,  S.  E.,  Musto, J.,  Scallan,  E., Angulo,  F. J.,  Kirk,  M.,  O’Brien,  S. 
+J.,  …  Hoekstra,  R.  M.  (2010).  International  Collaboration  on  Enteric 
+Disease Burden of Illness’ Studies. The global burden of nontyphoidal 
+
+FASHAE Et Al.Salmonella gastroenteritis.  Clinical Infectious Diseases,  50(6),  882–889. 
+https://doi.org/10.1086/650733
+
+Minami, K., Yanagawa, T., Okuda, M.,  Suzuki,  H., Tamura, A., & Izumi, G. 
+(2004). Cerebrospinal fluid cytokines in Salmonella urbana encephalop-
+athy. Tohoku Journal Experimental Medicine, 203(2), 129–132. https://
+doi.org/10.1620/tjem.203.129
+
+Moore, J. E., Murray, L., Fanning, S., Cormican, M., Daly, M., Delappe, N., … 
+Murphy, P. G. (2003). Comparison of phenotypic and genotypic char-
+acteristics  of  Salmonella  bredeney  associated  with  a  poultry- related 
+outbreak of gastroenteritis in Northern Ireland. Journal Infection, 47(1), 
+33–39. https://doi.org/10.1016/S0163-4453(03)00040-9
+
+Moyo, S. J., Gro, N., Matee, M. I., Kitundu, J., Myrmel, H., Mylvaganam, H., 
+… Langeland, N. (2011). Age specific aetiological agents of diarrhoea in 
+hospitalized children aged less than five years in Dar es Salaam, Tanzania. 
+BMC Pediatrics, 11, 19. https://doi.org/10.1186/1471-2431-11-19
+
+Niizuma, T.,  Terada, K., Matsuda, K., Ogita, S., & Kataoka, S. (2002). Intrafamilial 
+transmission of Salmonella oranienburg. Pediatrics International, 44(4), 
+391–393. https://doi.org/10.1046/j.1442-200x.2002.01582.x
+
+Obaro,  S.  K.,  Hassan-Hanga,  F.,  Olateju,  E.  K.,  Umoru,  D.,  Lawson,  L., 
+Olanipekun, G., … Fey, P. D. (2015). Salmonella bacteremia among chil-
+dren in Central and Northwest Nigeria, 2008- 2015. Clinical Infectious 
+Diseases, 61(Suppl 4), S325–S331. https://doi.org/10.1093/cid/civ745
+Onsari,  R.  S.,  &  MacLennan,  C. A.  (2014).  New  genomics  studies  to  un-
+derstand  the  link  between  nontyphoidal  Salmonella  bacteremia  and 
+gastroenteritis in Africa. Journal Infection in Developing Countries, 8(2), 
+252–253. https://doi.org/10.3855/jidc.4377
+
+O’Reilly,  C.  E.,  Jaron,  P.,  Ochieng,  B.,  Nyaguara,  A.,  &  Tate,  J.  E.  (2012). 
+Risk  factors  for  death  among  children  less  than  5  years  old  hospi-
+talized  with  diarrhea  in  rural  Western  Kenya,  2005–2007:  A  cohort 
+study. PLoS Medicine, 9(7), e1001256. https://doi.org/10.1371/journal.
+pmed.1001256
+
+Osman, K. M., Marouf, S. H., & Alatfeehy, N. (2013). Antimicrobial resis-
+tance and virulence- associated genes of Salmonella enterica subsp. en-
+terica serotypes Muenster, Florian, Omuna, and Noya strains isolated 
+from  clinically  diarrheic  humans  in  Egypt.  Microbial  Drug  Resistance, 
+19(5), 370–377. https://doi.org/10.1089/mdr.2012.0151
+
+Price, M. N., Dehal, P. S., & Arkin, A. P. (2010). FastTree 2 – approximately 
+maximum  likelihood  trees  for  large  alignments.  PLoS  One,  5,  e9490. 
+https://doi.org/10.1371/journal.pone.0009490
+
+Raufu, I., Bortolaia, V., Svendsen, C. A., Ameh, J. A., Ambali, A. G., Aarestrup, 
+F. M., & Hendriksen, R. S. (2013). The first attempt of an active inte-
+grated  laboratory- based  Salmonella  surveillance  programme  in  the 
+north- eastern  region  of  Nigeria.  Journal  Applied  Microbiology,  115, 
+1059–1067. https://doi.org/10.1111/jam.12304
+
+    |  11
+
+Rodriguez-Rivera,  L.  D.,  Wright,  E.  M.,  Siler,  J.  D.,  Elton,  M.,  Cummings, 
+K.  J.,  Warnick,  L.  D.,  &  Wiedmann,  M.  (2014).  Subtype  analysis 
+of Salmonella isolated from subclinically infected dairy cattle and dairy 
+farm environments reveals the presence of both human-  and bovine- 
+associated  subtypes.  Veterinary  Microbiology,  170(3–4),  307–316. 
+https://doi.org/10.1016/j.vetmic.2014.02.013
+
+Rowe, Begg., B.N., T., Hutchinson, D. N., Dawkins, H. C., Gilbert, R. J., Jacob, 
+M., … Jepson, M. (1987). Salmonella ealing infections associated with 
+consumption of infant dried milk. Lancet, 2(8564):900–903. https://doi.
+org/10.1016/s0140-6736(87)91384-5
+
+Smith,  S.,  S.  Braun,  S.,  Akintimehin,  F.,  Fesobi,  T.,  Bamidele,  M.,  Coker, 
+A.,  …  Ehricht,  R.  (2016).  Serogenotyping  and  antimicrobial  suscep-
+tibility testing of Salmonella spp. isolated from retail meat samples in 
+Lagos, Nigeria. Molecular and Cellular Probes, 30, 189–194. https://doi.
+org/10.1016/j.mcp.2016.04.001 [Epub ahead of print].
+
+Tabo,  D.  A.,  Diguimbaye,  C.  D.,  Granier,  S.  A.,  Moury,  F.,  Brisabois,  A., 
+Elgroud, R., & Millemann, Y. (2013). Prevalence and antimicrobial resis-
+tance of non- typhoidal Salmonella serotypes isolated from laying hens 
+and broiler chicken farms in N’Djamena, Chad. Veterinary Microbiology, 
+166(1–2), 293–298. https://doi.org/10.1016/j.vetmic.2013.05.010
+
+Werber, D., Dreesman, J., Feil, F., van Treeck, U., Fell, G., Ethelberg, S., … 
+Ammon, A. (2005). International outbreak of Salmonella Oranienburg 
+due to German chocolate Dirk. BMC Infectious Diseases, 5, 7. https://
+doi.org/10.1186/1471-2334-5-7
+
+Zankari,  E.,  Hasman,  H.,  Cosentino,  S.,  Vestergaard,  M.,  Rasmussen,  S., 
+Lund, O., … Larsen, M. V. (2012). Identification of acquired antimicrobial 
+resistance genes. Journal Antimicrobial Chemotherapy, 67, 2640–2644. 
+https://doi.org/10.1093/jac/dks261
+
+SUPPORTING INFORMATION
+
+Additional  Supporting  Information  may  be  found  online  in  the 
+ supporting information tab for this article. 
+
+How to cite this article: Fashae K, Leekitcharoenphon P, 
+Hendriksen RS. Phenotypic and genotypic comparison of 
+salmonellae from diarrhoeic and healthy humans and cattle, 
+Nigeria. Zoonoses Public Health. 2017;00:1–11.  
+https://doi.org/10.1111/zph.12427
+
+FASHAE Et Al.

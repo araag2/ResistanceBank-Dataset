@@ -1,0 +1,1226 @@
+Food Control 33 (2013) 378e384
+
+Contents lists available at SciVerse ScienceDirect
+
+Food Control
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / f o o d c o n t
+
+Occurrence, antimicrobial resistance and bioﬁlm formation
+of Salmonella isolates from a chicken slaughter plant in China
+Huhu Wang a, Keping Ye a, Xinru Wei a, Jinxuan Cao b, Xinglian Xu a, *, Guanghong Zhou a
+a Key Lab. of Meat Processing and Quality Control, Ministry of Education, College of Food Science and Technology, Nanjing Agricultural University,
+Nanjing 210095, PR China
+b College of Life Science and Biotechnology, Ningbo University, Ningbo 315211, PR China
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 20 November 2012
+Received in revised form
+21 March 2013
+Accepted 23 March 2013
+
+Keywords:
+Salmonella
+Occurrence
+Antibiotic resistance
+Bioﬁlm formation
+
+An investigation was undertaken to determine the occurrence, antibiotic resistance and bioﬁlm formation
+of Salmonella spp. isolated from a chicken slaughter plant in Anhui, China. A total of 104 samples (52 from
+chicken carcasses and 52 from processing contact-surfaces) were collected from three processing points in
+a chicken slaughterhouse. The 23 isolates (22.1%, 23/104) were conﬁrmed for Salmonella and belonged to
+six different serotypes, including S. Indiana (n ¼ 9), S. Infantis (n ¼ 4), S. Derby (n ¼ 3), S. Heidelberg (n ¼ 2),
+S. Agona (n ¼ 2) and S. Typhimurium (n ¼ 1), whereas two isolates (n ¼ 2) were non-typable. Signiﬁcant
+differences in occurrence were found between post-evisceration, post-chilling and post-grading
+processing points. A total of 20 (87%, 20/23) isolates were resistant to at least one antibiotic, of which 19
+isolates (95%, 19/20) showed 13 multiple antibiotic resistance patterns against 11 different antibiotics.
+Resistance to ampicillin (78.3%, 18/23) was the most common. The multiple antibiotic resistance (MAR)
+index varied from 0.27 to 0.91. The Salmonella isolates from the chicken plant and from humans in the same
+area who were suffering Salmonella infections showed similar antimicrobial resistance patterns, namely
+resistance to ampicillin, trimethoprim/sulfamethoxazole, gentamicin, chloramphenicol and tretracycline,
+and abbreviated as “ATsGCT”. Meanwhile, Salmonella isolates exhibited variation in bioﬁlm-forming
+behavior with regards to the incubation media and serotypes, a relatively high bioﬁlm production was
+observed for S. Agona incubated in MTLB (meat thawing-loss broth) at 72 h. There was no signiﬁcant
+correlation between antimicrobial resistance and bioﬁlm formation of isolates. Our ﬁndings provide
+baseline information on the distribution of Salmonella serovars in this plant, and provide support to the
+need for improved farming practice and for more prudent use of antimicrobial agents.
+
+Ó 2013 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+
+Salmonella spp. is a globally widespread food-borne pathogen,
+and its outbreaks are commonly associated with the consumption of
+contaminated food such as eggs, poultry meat and pork. In EU, Sal-
+monella has become the major cause of food poisoning (EFSA-ECDC,
+2012a), while in the USA, contaminated food with Salmonella has
+resulted in numerous recalls and outbreaks during 2012 that have
+been addressed by the U.S. Department of Agriculture and Center for
+Disease Control and Prevention (www.fda.gov/Safety/Recalls).
+
+Recently, much research interest has been drawn to the high
+occurrence, and antimicrobial resistance of Salmonella in livestock
+for food products, which may have the potential to transmit to
+humans through the food chain. Epidemiological studies have
+
+* Corresponding author. Tel.: þ86 025 84395939; fax: þ86 025 84395730.
+
+E-mail address: xlxu@njau.edu.cn (X. Xu).
+
+0956-7135/$ e see front matter Ó 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.foodcont.2013.03.030
+
+implicated foods of animal origin as the major vehicles associated
+with illnesses caused by Salmonella (Dallal et al., 2010). Despite the
+occurrence of Salmonella in raw and retail cooked meats have
+previously been reported (Cook, Odumeru, Lee, & Pollari, 2012;
+Fearnley, Raupach Lagala, & Cameron, 2011), information on the
+occurrence of Salmonella at slaughter facilities is limited, even
+though it is considered as the main source of cross-contamination.
+Investigation of occurrence of Salmonella in slaughter plants may
+aid in optimizing HACCP strategy and ensure meat safety in China.
+Furthermore, investigation of the occurrence and distribution of
+Salmonella at different slaughter processing stations would be of
+beneﬁt for the study of the quantitative exposure assessment of
+Salmonella in chicken meat.
+
+Emergence of multiple resistance of Salmonella isolates and
+special antimicrobial resistance patterns have raised increasing
+concern among governments all over the world (Chao, Zhou, Jiao,
+Qian, & Xu, 2007; EFSA-ECDC, 2012b; Thong & Modarressi, 2011).
+The link between antimicrobial resistance of Salmonella isolates and
+
+H. Wang et al. / Food Control 33 (2013) 378e384
+
+379
+
+outbreaks of human poisoning has already been demonstrated
+(Folster et al., 2012). In China, human foodborne illnesses have been
+associated with the antimicrobial resistance of Salmonella isolates
+(Ran et al., 2011; Yu, Chen, Yu, Li, et al., 2011; Yu, Chen, Yu, Pan, et al.,
+2011), especially the antibiotic-resistant Salmonella Typhimurium
+and Salmonella Enteritidis have caused human suffering from
+serious diarrhoea,
+the general resistance antibiotics included
+chloramphenicol, ampicillin, tetracycline, sulfamethoxazole, genta-
+micin etc., and the common multiple resistance patterns were
+ACTsT type (resistance to at least ampicillin, chloramphenicol,
+trimethoprim/sulfamethoxazole, and tetracycline). Therefore, moni-
+toring of Salmonella occurrence and its antimicrobial resistance in
+the meat-food supply, especially for raw meat in the slaughter
+plant, is necessary because of the public health implications of a
+potential spread of antimicrobial resistant Salmonella.
+
+Salmonella can grow as surface-associated aggregates on food
+contact-surfaces and equipment (Chia, Goulter, McMeekin, Dykes,
+& Fegan, 2009), commonly referred to as bioﬁlms. The cells in
+bioﬁlms are potential sources of contamination of food products.
+Bioﬁlms may play a crucial role in the survival of Salmonella under
+unfavorable environmental conditions, such as in animal slaugh-
+terhouses and processing plants. To date, relatively little research
+has examined the ability of bioﬁlm formation of Salmonella isolated
+from slaughter plants under the conditions commonly encoun-
+tered. Moreover, the relationship between antimicrobial resistance
+and the ability of Salmonella isolates to form bioﬁlms is unknown.
+The present study was therefore carried out to (i) determine the
+occurrence and distribution of Salmonella at processing points at a
+chicken slaughterhouse, (ii) identify the antimicrobial resistance
+patterns and the ability of bioﬁlm formation of Salmonella isolates,
+and (iii) evaluate the correlation between number of isolates
+resistant to antibiotics and bioﬁlm formation of Salmonella isolates.
+
+2. Materials and methods
+
+2.1. Sample collection
+
+A total of 104 samples, collected from chicken carcass surfaces
+(n ¼ 52) and processing contact-surfaces (n ¼ 52), were obtained
+from three processing points (post-evisceration point n ¼ 40, post-
+chilling point n ¼ 32 and post-grading point n ¼ 32) at a chicken
+slaughter plant in Anhui Province (China), during September 2011
+(Fig. 1). The samples were collected on each Wednesday of three
+consecutive weeks (35, 35 and 34 samples at each time, respec-
+tively). At each collection point, the number of the samples from
+carcass surfaces was the same as that of the samples from pro-
+cessing surfaces. The sample collection were performed according
+to the standard methods recommended by USDA-FSIS, which
+involved rinsing the whole chicken carcass with 400 mL buffered
+peptone water
+(BPW) and swabbing the contacted-surfaces
+(including evisceration equipment, transport belts and cutting
+
+Fig. 1. The slaughter processing of chicken in plant and sampling points (gray pane).
+
+boards) with swabs moistened with 0.1% BPW (Adzitey, Rusul, &
+Huda, 2012). BPW was used as the pre-enrichment broth.
+
+2.2.
+
+Identiﬁcation of isolates
+
+Salmonella isolates were identiﬁed according to the China na-
+tional food safety standard methods e Food microbiological ex-
+amination: Salmonella (GB 4789.4-2010). Tetrathionate broth base
+(TTB) and selenite cystine (SC) broth were used as the selective
+enrichment broth, and xylose lysine desoxycholate agar (XLD) and
+bismuth sulﬁte agar (BS) were used as the plating media. All culture
+media were obtained from Luqiao (Luqiao Technology Co. Ltd.,
+China). Isolates were further identiﬁed by colony morphology,
+biochemical characterization and special virulence genes (invA and
+hilA) ofSalmonella , the two virulence genes were detected by PCR
+(primers of invA: F-tcg tcat tcc att acc tac c, R-aaa cgt tga aaa act gag
+ga; primers of hilA: F-cgc cgg cga gat tgt gag ta, R-aga ctc tcg gat tga
+acc tga) (Jacobsen & Holben, 2007; McCabe, Burgess, O’Regan, et al.,
+2011). Isolates were then serotyped with speciﬁc O and H Salmo-
+nella antisera, and classiﬁed according to the KauffmaneWhite
+scheme.
+
+2.3. Screening for antimicrobial resistance
+
+Antimicrobial susceptibility testing was determined by the disk
+diffusion method on Mueller-Hinton agar, using 11 different anti-
+biotics belonging to 7 different classes. The antibiotics used were as
+follows, penicillins (ampicillin, 10 mg), cephalosporins (cefalothin,
+30 mg; cefoxitin, 30 mg; ceftriaxone, 30 mg), aminoglycosides (ami-
+kacin, 30 mg; gentamicin, 30 mg), tetracyclines (tetracycline, 30 mg),
+quinolones (ciproﬂoxacin, 5 mg; enroﬂoxacin, 5 mg), amphenicols
+(chloramphenicol, 5 mg), sulfonamides (compound sulfamethoxa-
+zole (trimethoprim/sulfamethoxazole), 1.25/23.75 mg). The results
+were interpreted according to the standard of “Performance stan-
+dards for antimicrobial susceptibility testing” recommended by
+Clinical and Laboratory Standard Institute (CLSI) of USA. The strain
+Escherichia coli ATCC 25922 was used as quality control strain. The
+antimicrobial resistance of each isolate was performed with three
+repetitions. The multiple antibiotic resistance (MAR) index was
+calculated with previous method (Adzitey et al., 2012) and by
+employing the following formula: MAR index ¼ (Number of resis-
+tance antibiotics per isolate)/(total number of antibiotics tested).
+Isolates classiﬁed as intermediate on the basis of the inhibition
+zone were considered as sensitive for the MAR index (Singh, Yadav,
+Singh, & Bharti, 2010).
+
+2.4. Preparation of inocula
+
+Isolates were individually cultured and sub-cultured (37 C,
+24 h) in tryptic soytone broth (TSB). Cells were centrifuged, and cell
+pellets were washed three times with phosphate buffered saline
+(PBS, pH 7.2). Each pellet was resuspended in PBS and adjusted to a
+ﬁnal concentration of 108 CFU/mL. In order to simulate contami-
+nation of surfaces in meat processing plants, chicken meat
+thawing-loss broth (MTLB) was used as a culture medium. It was
+prepared as described previously (Midelet & Carpentier, 2002). The
+protein content of MTLB was adjusted to a ﬁnal concentration of
+5 mg/mL using the Biuret protein assay.
+
+2.5. Bioﬁlm assay
+
+An aliquot (20 mL, 107 CFU/mL) of each isolated culture was
+transferred to 180 mL of fresh TSB or MTLB in a 96-well polystyrene
+microplate. The microplates were then incubated at 18 C and the
+bioﬁlm was assayed at 24 h and 72 h. The two broths, devoid of
+
+380
+
+H. Wang et al. / Food Control 33 (2013) 378e384
+
+bacterial inocula, served as negative controls. Following incubation,
+wells were rinsed three times with sterile de-ionized water and the
+plates were air-dried for 45 min, and then each well was stained
+with 200 mL of 0.25% (wt/vol) crystal violet for 30 min (Kim & Wei,
+2009). The staining solution was then removed, and the wells were
+rinsed three times with sterile de-ionized water. The crystal violet
+bound to the bioﬁlm was then solubilized with 200 mL of 95%
+ethanol for 30 min. The absorbance was measured at 570 nm
+(Silagyi, Kim, Lo, & Wei, 2009).
+
+2.6. Statistical analysis
+
+The chi-square test was performed to compare the occurrence of
+Salmonella spp. between different processing points. Pearson’s and
+Spearman’s correlations between number of isolates resistant to
+antibiotics and amount of bioﬁlm formation was determined using
+SPSS 13.0 (SPSS Inc, Chicago, IL, USA). In all cases, the level of sta-
+tistical signiﬁcance was p < 0.05.
+
+3. Results
+
+3.1. The occurrence of Salmonella spp.
+
+Fig. 2. Occurrence of contamination of Salmonella spp. Chi-square test (Fisher) was
+performed on samples at each processing point, values with different lower-case
+letters (a and b) at each processing point are signiﬁcant different (p < 0.05).
+
+Of the samples tested, 22% (23/104) were positive for Salmonella.
+In addition to identiﬁcation of the isolates by biochemical charac-
+terization, we further identiﬁed them by detecting invA and hilA
+genes, which are commonly used as the PCR diagnostic targets for
+Salmonella in the food industry and research ﬁelds (Joshi et al.,
+2009; McCabe, Burgess, Walsh, et al., 2011). The results (Table 1)
+indicated that all the 23 isolates were positive for detection of invA
+and hilA genes. These isolates were serotyped into 6 serovars
+(Table 1), including S. Indiana (n ¼ 9), S. Derby (n ¼ 3), S. Heidelberg
+(n ¼ 2), S. Agona (n ¼ 2), S. Infantis (n ¼ 4), S. Typhimurium (n ¼ 1).
+However, two isolates (n ¼ 2) obtained from processing contacted-
+surfaces which were conﬁrmed for Salmonella spp. by biochemical
+characterization and detection of virulence genes were non-
+typable. 19% (10/52) and 25% (13/52) of Salmonella were identi-
+ﬁed from chicken carcasses and from contact-surfaces, respectively.
+S. Heidelberg and S. Typhimurium were identiﬁed only in samples
+from contact-surfaces (Table 1).
+
+The presence of Salmonella in post-evisceration, post-chilling
+and post-grading processing points are presented in Fig. 2. There
+was signiﬁcant variation (p < 0.05) in the occurrence of Salmonella
+at the different processing points, where incidence levels decreased
+with progress through the plant. Compared to the occurrence at the
+
+post-evisceration point (35%), the occurrence of Salmonella signif-
+icantly (p < 0.05) decreased at post-chilling (19%) and post-grading
+(9%) points. However, compared to the decrease of occurrence at
+post-chilling point associating with the low occurrence of car-
+casses, the decrease of occurrence at post-grading point mainly
+resulted from the low occurrence of processing surfaces.
+
+3.2. Antimicrobial resistance
+
+Of 23 isolates, 78% of isolates were resistant to ampicillin
+(Table 2). 13% were resistant
+to cefoxitin and ciproﬂoxacin,
+respectively. In addition, 74% of isolates was resistant to cefalothin,
+61% to ceftriaxone, 74% to compound sulfamethoxazole, 39% to
+amikacin, 48% to gentamicin, 61% to chloramphenicol, 39% to
+enroﬂoxacin and 70% to tetracycline (Table 2). There were great
+differences in antimicrobial resistance for each of the Salmonella
+serovars (Table 2). It was found that S. Indiana, S. Typhimurium and
+S. Heidelberg showed the highest percentage of resistance, fol-
+lowed by S. Agona and S. Derby. Three S. Infantis isolates (C6, C8 and
+C19) were susceptible to all tested antibiotics (Table 3).
+
+Of 23 isolates, 20 showed resistance to antibiotics, 19 of
+which showed multiple resistances. One isolate (C23, belonging to
+
+Table 1
+Sources and serotypes of Salmonella spp. isolates.
+
+Serotypes
+
+InvA
+
+hilA
+
+Isolates
+
+Sources
+
+Isolates
+
+Sources
+
+C1
+
+C2
+C5
+C12
+C13
+C15
+C16
+C18
+C21
+
+CS
+
+PS
+PS
+PS
+CS
+PS
+CS
+PS
+CS
+
+Sampling
+area
+PC
+
+PC
+PC
+PE
+PE
+PE
+PE
+PE
+PE
+
+Indiana
+(9)
+
+þ
+
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+
+þ
+
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+
+C9
+
+C10
+C4
+C11
+C6
+C8
+C19
+C23
+C17
+
+CS
+CS
+PS
+
+C3
+C7
+C22
+CS, carcass surfaces; PS, processing contact-surfaces; þ, positive detection of gene by PCR.
+PE, post-evisceration point; PC, post-chilling point; PG, post-grading point.
+
+Derby (3)
+
+PC
+PE
+PG
+
+þ
+þ
+þ
+
+þ
+þ
+þ
+
+C14
+C20
+
+Sampling
+area
+PE
+
+PC
+PE
+PC
+PE
+PE
+PG
+PG
+PE
+
+PE
+PE
+
+Serotypes
+
+InvA
+
+hilA
+
+Heidelberg (2)
+
+Agona (2)
+
+Infantis (4)
+
+Typhimurium
+(1)
+Unknown (2)
+
+þ
+
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+
+þ
+þ
+
+þ
+
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+þ
+
+þ
+þ
+
+PS
+
+PS
+CS
+PS
+CS
+CS
+PS
+CS
+PS
+
+PS
+PS
+
+H. Wang et al. / Food Control 33 (2013) 378e384
+
+381
+
+Table 2
+Percentage Salmonella serovars resistant to different antibiotics.
+
+Serotypes
+
+Percentage of each serotype resistant to each antibiotic (%)
+
+AMP
+100 (9/9)a
+Indiana
+67 (2/3)
+Derby
+100 (2/2)
+Heidelberg
+100 (2/2)
+Agona
+Infantis
+0 (0/4)
+Typhimurium 100 (1/1)
+100 (2/2)
+Non-typable
+Overall (%)
+78 (18/23)
+
+CEF
+100 (9/9)
+33 (1/3)
+100 (2/2)
+100 (2/2)
+0 (0/4)
+100 (1/1)
+100 (2/2)
+74 (17/23)
+
+FOX
+11 (1/9)
+0 (0/3)
+0 (0/2)
+100 (2/2)
+0.0 (0/4)
+0.0 (0/1)
+0 (0/2)
+13 (3/23)
+
+CRO
+78 (7/9)
+0 (0/3)
+100 (2/2)
+100 (2/2)
+0 (0/4)
+100 (1/1)
+100 (2/2)
+61 (14/23)
+
+AMK
+67 (6/9)
+0.0 (0/3)
+50 (1/2)
+0 (0/2)
+0 (0/4)
+0 (0/1)
+100 (2/2)
+39 (9/23)
+
+GEN
+67 (6/9)
+0 (0/3)
+100 (2/2)
+0 (0/2)
+0 (0/4)
+100 (1/1)
+100 (2/2)
+48 (11/23)
+
+TET
+89 (8/9)
+100 (3/3)
+100 (2/2)
+0 (0/2)
+0 (0/4)
+100 (1/1)
+100 (2/2)
+70 (16/23)
+
+CIP
+
+0 (0/9)
+0 (0/3)
+0 (0/2)
+0 (0/2)
+0 (0/4)
+100 (1/1)
+100 (2/2)
+13 (3/23)
+
+ENX
+56 (5/9)
+0 (0/3)
+50 (1/2)
+0 (0/2)
+0 (0/4)
+100 (1/1)
+100 (2/2)
+39 (9/23)
+
+CHL
+89 (8/9)
+33 (1/3)
+100 (2/2)
+0 (0/2)
+0 (0/4)
+100 (1/1)
+100 (2/2)
+61 (14/23)
+
+COSMZ
+89 (8/9)
+67 (2/3)
+100 (2/2)
+50 (1/2)
+25 (1/4)
+100 (1/1)
+100 (2/2)
+74 (17/23)
+
+Overall (%)
+
+67 (67/99)
+27 (9/33)
+73 (16/22)
+41 (9/22)
+2 (1/44)
+82 (9/11)
+91 (20/22)
+
+AMP, ampicillin; CEF, cefalothin; FOX, cefoxitin; CRO, ceftriaxone; AMK, amikacin; GEN, gentamicin; TET, tetracycline; CIP, ciproﬂoxacin; ENX, enroﬂoxacin; CHL, chloram-
+phenicol; COSMZ, compound sulfamethoxazole.
+
+a No. of isolates resistant to a particular antibiotic.
+
+S. Infantis) was only resistant to compound sulfamethoxazole, and
+13 different patterns of resistance were observed (Table 3). It was
+observed that isolates from processing surfaces showed resistance
+to as many as 10 antibiotics, in comparison to isolates from carcass
+surfaces, which were resistant to 1e5 antibiotics, except for C1
+(belonging to S. Indiana) isolate which was resistant to 8 antibiotics.
+The maximum and average multiple antibiotic resistance (MAR)
+indices of isolates were 0.91 and 0.52, respectively, and the MAR
+index of other isolates ranged from 0.27 to 0.82.
+
+3.3. Bioﬁlm formation
+
+The amounts of bioﬁlm formation of Salmonella isolates were
+signiﬁcantly inﬂuenced by the types of growth media and incuba-
+tion time (data not shown). Bioﬁlm formation of these isolates was
+serotype dependent. Relatively high amounts of bioﬁlm were pro-
+duced by S. Agona (C4), S. Infantis (C6 and C19), S. Indiana (C13 and
+C16) isolates.
+
+3.4. Correlation between number of isolates resistance to
+antibiotics and the ability to produce bioﬁlm
+
+A preliminary correlation analysis was carried out to determine
+whether any relationship existed between the number of isolates
+resistance to antibiotics and the ability of Salmonella isolates to
+form bioﬁlm. The Pearson’s and Spearman’s correlation coefﬁcients
+were shown in Table 4. The ﬁndings suggested that no signiﬁcant
+correlation (p > 0.05) existed between bioﬁlm formation and the
+number of antimicrobial resistant isolates.
+
+4. Discussion
+
+(www.cdc.gov/salmonella/outbreaks.html).
+
+Poultry foods are generally considered to be at a higher risk
+for Salmonella contamination than other foods. In 2012, several
+outbreaks of Salmonella have been associated with poultry meat and
+products
+During
+chicken slaughter, Salmonella from the gastro-intestinal tract of
+chickens carrying pathogens can contaminate the carcasses and
+the processing line (Rostagno, Wesley, Trampel, & Hurd, 2006).
+Although efforts at controlling Salmonella have concentrated pri-
+marily on controlling contamination within the slaughterhouse, a
+high proportion of carcasses are still found to be contaminated with
+Salmonella. In our survey, we identiﬁed six different serotypes of
+Salmonella (23 isolates), S. Indiana was the common serotype, fol-
+lowed by S. Infantis. As similar to our observation, a survey con-
+ducted by Yang et al. (2010) in China also found that S. Indiana was
+the common serotype, followed by S. Infantis. In our study, the
+occurrence of Salmonella from processing surfaces (25%, 13/52) was
+higher than from chicken carcasses (19%,10/52). A survey conducted
+by Adzitey et al. (2012) showed a similar incidence of surface
+contamination for Salmonella (23.5%) in a poultry processing envi-
+ronment. However, a higher occurrence was observed in another
+study (Antunes, Réu, Sousa, Peixe, & Pestana, 2003), where 60% of
+poultry meat was contaminated with Salmonella. The high occur-
+rence in poultry meat products indicates that the production sys-
+tems and processing environments of poultry meat may facilitate
+the presence of Salmonella in the ﬁnal products. In our ﬁndings
+(Fig. 2), the occurrence signiﬁcantly decreased at the post-grading
+point, however, there were still 3% Salmonella of the carcasses
+
+Table 3
+Multiple antibiotic resistance patterns of Salmonella isolates.
+
+Serotypes and isolates
+
+No. of antibiotics
+
+Multiple antibiotic resistance pattern
+
+S. Infantis (C8, C6 and C19)
+S. Infantis (C23)
+S. Indiana (C21)
+S. Derby (C7)
+S. Derby (C22)
+S. Derby (C3)
+S. Agona (C4)
+S. Agona (C11)
+S. Indiana (C13)
+S. Heidelberg (C10)
+S. Indiana (C5 and C16)
+S. Indiana (C10
+S. Heidelberg (C9)
+S. Indiana (C2)
+S. Indiana (C12, C18 and C15)
+S. Typhimurium (C17)
+Serotype unknown (C14 and C20)
+
+0
+1
+3
+
+4
+5
+
+8
+
+9
+
+10
+
+Susceptible to all tested antibiotics
+COSMZ
+AMP þ CEF þ FOX
+TET þ COSMZ þ CHL
+TET þ COSMZ þ AMP
+TET þ AMP þ CEF
+CRO þ AMP þ CEF þ FOX
+CRO þ AMP þ COSMZ þ CEF þ FOX
+TET þ AMP þ COSMZ þ CEF þ CHL
+TET þ CRO þ AMK þ AMP þ COSMZ þ CEF þ GEN þ CHL
+AMK þ ENX þ TET þ CRO þ AMP þ COSMZ þ CEF þ CHL
+TET þ ENX þ CRO þ AMP þ COSMZ þ CEF þ GEN þ CHL
+TET þ ENX þ CRO þ AMK þ AMP þ COSMZ þ CEF þ GEN þ CHL
+CIP þ TET þ ENX þ CRO þ AMP þ COSMZ þ CEF þ GEN þ CHL
+CIP þ TET þ ENX þ CRO þ AMK þ AMP þ COSMZ þ CEF þ GEN þ CHL
+
+No. (%)
+of isolates
+3 (13.04)
+1 (4.35)
+4 (17.39)
+
+1 (4.35)
+2 (8.70)
+
+6 (26.09)
+
+4 (17.39)
+
+2 (8.70)
+
+MAR
+index
+0
+0.09
+0.27
+
+0.36
+0.45
+
+0.73
+
+0.82
+
+0.91
+
+AMP, ampicillin; CEF, cefalothin; FOX, cefoxitin; CRO, ceftriaxone; AMK, amikacin; GEN, gentamicin; TET, tetracycline; CIP, ciproﬂoxacin; ENX, enroﬂoxacin; CHL, chloram-
+phenicol; COSMZ, compound sulfamethoxazole.
+
+382
+
+H. Wang et al. / Food Control 33 (2013) 378e384
+
+Table 4
+Pearson’s and Spearman’s correlations between number of isolates resistant to an-
+tibiotics and amount of bioﬁlm formation during incubation at 18 C for all isolates.
+
+No. of isolates
+
+resistant to antibiotics
+
+24 h-TSB
+72 h-TSB
+24 h-MTLB
+
+Bioﬁlm formation
+
+24 h-TSB
+a0.082
+
+72 h-TSB
+a0.191
+
+24 h-MTLB
+a0.081
+
+72 h-MTLB
+a0.203
+
+b0.453*
+
+b0.805**
+b0.554**
+
+b0.183
+b0.715**
+b0.406
+
+*, p < 0.05; **, p < 0.01; 24 h or 48 h-TSB or MTLB indicated that the bioﬁlm was
+incubated in TSB or meat thawing-loss broth (MTLB) for 24 h or 72 h.
+
+a Spearman correlation.
+b Pearson’s correlation.
+
+positive in the ﬁnal products at the post-grading point (Fig. 2),
+which was the last stage before packaging the product. This is not
+acceptable according to the food safety standard of China (NY 5034-
+2005), and the residual Salmonella may cause serious cross-
+contamination during the subsequent retail process and cause
+serious risk to public health. The presence of Salmonella on products
+and contacted-surface indicated that appropriate hygienic mea-
+sures should be applied to control Salmonella in this slaughter plant.
+In our study, 87% (20/23) of the isolates were resistance to at
+least one of the antibiotic tested, and 95% (19/20) of the isolates
+showed multiple resistance (Table 3). The most common serotype
+(S. Indiana) showed multi-drug resistant phenotypes, which also
+appear to be widely available in China (Lu et al., 2011). Multidrug
+resistant phenotypes also emerged in another four serotypes (S.
+Derby, S. Heidelberg, S. Agona and S. Typhimurium). The presence of
+multiple-resistant isolates in meat may cause serious human
+poisoning, the isolates may be transferred from meat to humans, not
+only through direct contact but also indirectly. This indirect transfer
+involves mainly consumption of meat or other food contaminated
+with Salmonella (Depoorter et al., 2012), because antibiotic resis-
+tance genes frequently are located on mobile genetic elements.
+Horizontal gene transfer between food bacteria and human intes-
+tinal bacteria has been demonstrated, not only in vitro, but also
+in vivo (Dahl et al., 2007; Smet et al., 2010). The hypothesis of
+transfer of resistant Salmonella from livestock, via the consumption
+of meat to humans, has been conﬁrmed, and the link between
+antimicrobial resistant S. Typhimurium from pork and outbreaks of
+human poisoning has already been demonstrated (Van Boxstael
+et al., 2012). In our study, 14 isolates of multiple-resistant Salmo-
+nella were resistant to 5e10 antibiotics, and showed 8 types of
+resistance patterns, with the maximum MAR index of isolates being
+0.91 (Table 3). Similar serotype and multidrug resistant patterns of
+Salmonella isolate from human foodborne illness have been iden-
+tiﬁed in surrounding areas of this slaughter plant (Ran et al., 2011;
+Yu, Chen, Yu, Li, et al., 2011). Notably, the S. Typhimurium identiﬁed
+in our study showed the multiple resistance patterns quietly similar
+to the S. Typhimurium isolates found in human foodborne illness in
+surrounding areas, especially the multiple resistance patterns of
+ATsGCT type (resistance to at least ampicillin, trimethoprim/sulfa-
+methoxazole, gentamicin, chloramphenicol and tetracycline),
+which has been associated with serious diarrhoea (Yu, Chen, Yu,
+Pan, et al., 2011). There may be some relationship between the
+chicken meat contaminated by Salmonella in this plant and the
+diarrhoea infection in surrounding areas, because the plant, which
+was a large-scale chicken slaughtering and processing plant, sup-
+plied the vast majority of chicken meat consumption to consumers
+in surrounding areas. The contaminated chicken meat or other food
+contact with the chicken meat may be the source of infection.
+
+Ampicillin resistance has been observed amongst the Salmonella
+isolates from poultry products (Adzitey et al., 2012; Antunes et al.,
+2003). In our study, a total of 78% of the Salmonella isolates were
+
+found to be resistant to ampicillin (Table 2), but this was much
+lower than that reported in isolates from foods from Poland where
+93% were ampicillin-resistant (Wasyl & Hoszowski, 2012). This high
+antimicrobial resistance may result from extensive use or misuse of
+penicillins, which has been used for therapeutics of infectious
+diseases in animal feeds. Cephalosporins are usually grouped into
+“generations” by their antimicrobial properties. In our study, we
+found that 74%, 13% and 61% isolates were resistance to cefalothin
+(ﬁrst generation), cefoxitin (second generation) and ceftriaxone
+(third generation), respectively (Table 2). Compared to resistance to
+ceftriaxone, we found a lower incidence of resistance to cefoxitin;
+this may be caused by less use of this second generation cephalo-
+sporin in therapeutics of infections, because the third generation
+cephalosporin drugs were the common choice in treating life-
+threatening systemic infection of animals in China (Lei et al., 2010).
+Two antibiotics of the aminoglycoside class were assayed in the
+present study. Unlike the high incidence of resistance to amikacin
+(39%) and gentamicin (47%) in our study, a very low incidence
+(<2.5%) of resistance was observed by Chao et al. (2007). High
+resistance to tetracyclines (70%) was observed in our study. Tetra-
+cyclines are not only used as treatments in veterinary medicine, but
+also as a growth enhancer in poultry production. This practice has
+greatly promoted the occurrence of antimicrobial-resistant isolates.
+Compared to our study (70%), a higher incidence (100%) of resis-
+tance to tetracyclines was reported by Glenn et al. (2011), however,
+a lower incidence (13%) was observed by Mezali and Hamdi (2012)
+in meat and meat products isolates.
+
+In this study, the isolates showed resistance to two antibiotics
+from the quinolones class, namely ciproﬂoxacin (13%) and enro-
+ﬂoxacin (40%). The low incidence of resistance to ciproﬂoxacin has
+also been observed in other studies. Only 3% of Salmonella isolated
+from the retail meats was resistance to ciproﬂoxacin according to a
+survey in Malaysia (Chia et al., 2009), and 100% of Salmonella iso-
+lates isolated from meat were susceptible to ciproﬂoxacin (Singh,
+Agarwal, Tiwari, & Singh, 2012). Although the resistance of quino-
+lone in Salmonella remains low, outbreaks of quinolone-resistant
+Salmonella infections have been reported in the United States
+(CDC, 2010). In our study, we found high incidences of resistance
+against chloramphenicol, a class of amphenicols (61%), and the
+compound sulfamethoxazole, a class of sulfonamides (74%). The
+two antibiotics are commonly used as veterinary medicines in
+livestock production. Recently, an increasing occurrence of resis-
+tance to the two antibiotics have already been demonstrated in
+many countries (Glenn et al., 2011; Iossiﬁdou, Abrahim, Soultos,
+Triantaﬁllou, & Koidis, 2012; Marrero-Ortiz et al., 2012; Van
+Boxstael et al., 2012). The appearance of antimicrobial resistant
+Salmonella isolates may result in serious human and livestock in-
+fections, and effective strategies and new legislation must be
+established to ensure a decrease in the appearance of antimicrobial
+resistant isolates.
+
+Recently, attachment and bioﬁlm formation of
+
+food-borne
+pathogens has become one of the central areas of food safety
+research because of the likelihood of potential cross-contamination
+and serious food safety problems. Previous studies have demon-
+strated that there was a correlation between bioﬁlm formation
+in vitro using polystyrene micro-wells and bioﬁlm formation on
+several surfaces commonly encountered in food facilities (Patel &
+Sharma, 2010; Vestby, Møretrø, Langsrud, Heir, & Nesse, 2009).
+So, we evaluated the ability of bioﬁlm formation of Salmonella
+isolates by polystyrene micro-wells methods, which allows large
+numbers of isolates under different conditions to be studied at the
+same time. In our study, a meat-based medium (MTLB) which is
+equivalent to that likely to be found in meat processing facilities
+and a laboratory medium (TSB, optimal for Salmonella growth)
+were tested at 18 C for their inﬂuence on bioﬁlm formation of
+
+H. Wang et al. / Food Control 33 (2013) 378e384
+
+383
+
+Salmonella isolates. The temperature of 18 C was selected as it is a
+common temperature found in meat processing facilities in China.
+Using meat-based medium as a substrate for assessing the Salmo-
+nella attachment may be useful for obtaining more realistic results
+than the use of a specialized laboratory medium when considering
+the nutrient availability in foods and their interactions with the
+surrounded environment. High inter-isolate variation in behavior
+of the formation of Salmonella bioﬁlm was observed with regards to
+the incubation media and incubation time, and this is consistent
+with previous reports (Díez-García, Capita, & Alonso-Calleja, 2012;
+Saa, Cabo, & Rodriguez, 2009). Compared to the incubation in TSB,
+most of the isolates showed large differences in bioﬁlm formation
+incubated in MTLB. Our results provided some information for
+further supporting the contention that studying bioﬁlm formation
+using a laboratory medium (TSB) has limited signiﬁcance to the
+understanding of bioﬁlm formation under the processing and
+handling conditions that are present in the meat industry. The
+bioﬁlm formation in our study indicated that Salmonella isolates
+had the potential for attachment on contact-surfaces in a meat
+processing environment. The attachment Salmonella may result in
+serious problems for the meat industry.
+
+We found there was no correlation between them (Table 4).
+Such a relationship has been described for other bacteria, although
+the ﬁndings were sometimes inconsistent and the correlations
+were species-dependent. Chen et al. (2010) showed that there was
+no correlation between bioﬁlm-forming ability and drug resistance
+patterns of E. coli. However, another study demonstrated that there
+was a signiﬁcant positive correlation between antibiotics resistance
+and bioﬁlm-forming ability of Pseudomonas aeruginosa (Fricks-
+Lima et al., 2011).
+
+In conclusion, this study demonstrated that the occurrence of
+Salmonella in a chicken processing plant was relatively high, a total
+of 23 isolates of Salmonella belonging to 6 serotypes were identi-
+ﬁed, including S. Indiana, S. Derby, S. Heidelberg, S. Agona, S.
+Infantis and S. Typhimurium. All
+isolates showed 13 multiple
+antibiotic resistance patterns against 11 different antibiotics. The
+percentages of antibiotic resistance ranged from 13% to 78%, and
+the MAR index varied from 0.09 to 0.91. Meanwhile, our results
+showed that the amounts of bioﬁlm were generally related to the
+speciﬁc isolates and incubation media. Although samples were
+obtained from only one processing plant, the results provide useful
+information regarding the extent of contamination by Salmonella
+and serovars in raw chicken and their ability to persist in the pro-
+cessing environment and resist antibiotics. This has signiﬁcant
+implications for the food safety and public heath of consumers in
+China or other countries which may import the product. Clearly,
+further studies with additional
+isolates originating from both
+chicken meat products and infected humans need to be conducted
+in order to reveal the epidemiological characteristics of Salmonella,
+and the relationship between Salmonella isolates from chicken
+meat and outbreaks of human salmonellosis.
+
+Acknowledgments
+
+We are very grateful to Prof. Ron Tume from CSIRO, Animal, Food
+and Health Sciences, Australia for his valuable advice and for
+assistance with language. This study was supported by China
+Agriculture Research System (CARS-42) funded by the China Min-
+istry of Agriculture.
+
+References
+
+Adzitey, F., Rusul, G., & Huda, N. (2012). Prevalence and antibiotic resistance of
+Salmonella serovars in ducks, duck rearing and processing environments in
+Penang, Malaysia. Food Research International, l45, 947e952.
+
+Antunes, P., Réu, C., Sousa, J. C., Peixe, L., & Pestana, N. (2003). Incidence of Sal-
+monella from poultry products and their susceptibility to antimicrobial agents.
+International Journal of Food Microbiology, 82, 97e103.
+
+CDC, The Centers for Disease Control and Prevention. (2010). National Antimicrobial
+Resistance Monitoring System for enteric bacteria (NARMS): Human isolates ﬁnal
+report, 2008. Atlanta, GA: The Centers for Disease Control and Prevention.
+
+Chao, G. X., Zhou, X. H., Jiao, X. A., Qian, X. Q., & Xu, L. (2007). Prevalence and
+antimicrobial resistance of foodborne pathogens isolated from food products in
+China. Foodborne Pathogens and Disease, 4, 277e284.
+
+Chen, C. X., Liao, X. P., Jiang, H. X., Zhu, H. Q., Yue, L., Li, S. J., et al. (2010). Charac-
+teristics of Escherichia coli bioﬁlm production, genetic typing, drug resistance
+pattern and gene expression under aminoglycoside pressures. Environmental
+Toxicology and Pharmacology, 30, 5e10.
+
+Chia, T. W. R., Goulter, R. M., McMeekin, T., Dykes, G. A., & Fegan, N. (2009).
+Attachment of different Salmonella serovars to materials commonly used in a
+poultry processing plant. Food Microbiology, 26, 853e859.
+
+Cook, A., Odumeru, J., Lee, S., & Pollari, F. (2012). Campylobacter, Salmonella, Listeria
+monocytogenes, Verotoxigenic Escherichia coil, and Escherichia coil occurrence,
+enumeration, and subtypes on retail chicken breasts with and without skin.
+Journal of Food Protection, 75, 34e40.
+
+Dahl, K. H., Mater, D. D., Flores, M. J., Johnsen, P. J., Midtvedt, T., & Corthier, G. (2007).
+Transfer of plasmid and chromosomal glycopeptides resistance determinants
+occurs more readily in the digestive tract of mice than in vitro and exconjugants
+can persist stably in vivo in the absence of glycopeptide selection. The Journal of
+Antimicrobial Chemotherapy, 59, 478e486.
+
+Dallal, M. M. S., Doyle, M. P., Rezadehbashi, M., Dabiri, H., Sanaei, M., Modarresi, S.,
+et al. (2010). Prevalence and antimicrobial resistance proﬁles of Salmonella
+serotypes, Campylobacter and Yersinia spp. isolated from retail chicken and beef,
+Tehran, Iran. Food Control, 21, 388e392.
+
+Depoorter, P., Persoons, D., Uyttendaele, M., Butaye, P., De Zutter, L., Dierick, K., et al.
+(2012). Assessment of human exposure to 3rd generation cephalosporin
+resistant E. coli (CREC) through consumption of broiler meat in Belgium. In-
+ternational Journal of Food Microbiology, 159, 30e38.
+
+Díez-García, M., Capita, R., & Alonso-Calleja, C. (2012). Inﬂuence of serotype on the
+growth kinetics and the ability to form bioﬁlms of Salmonella isolates from
+poultry. Food Microbiology, 31, 173e180.
+
+EFSA-ECDC, European Food Safety Authority and European Centre for Disease
+Prevention and Control. (2012a). The European Union summary report on
+trends and sources of zoonoses, zoonotic agents and food-borne outbreaks in
+2010. EFSA Journal, 10, 2597.
+
+EFSA-ECDC, European Food Safety Authority and European Centre for Disease
+Prevention and Control. (2012b). The European Union summary report on
+antimicrobial resistance in zoonotic and indicator bacteria from humans, ani-
+mals and food in 2010. EFSA Journal, 10, 2598.
+
+Fearnley, E., Raupach, J., Lagala, F., & Cameron, S. (2011). Salmonella in chicken meat,
+eggs and humans, Adelaide, South Australia, 2008. International Journal of Food
+Microbiology, 146, 219e227.
+
+Folster, J. P., Pecic, G., Singh, A., Duval, B., Rickert, R., Ayers, S., et al. (2012). Char-
+acterization of extended-spectrum cephalosporin-resistant Salmonella enterica
+serovar Heidelberg isolated from food animals, retail meat, and humans in the
+United States 2009. Foodborne Pathogens and Disease, 9, 638e645.
+
+Fricks-Lima, J., Hendrickson, C. M., Allgaier, M., Allgaier, M., Zhuo, H., Wiener-
+Kronish, J. P., et al. (2011). Differences in bioﬁlm formation and antimicrobial
+resistance of Pseudomonas aeruginosa isolated from air ways of mechanically
+ventilated patients and cysticﬁbrosis patients. International Journal of Antimi-
+crobial Agents, 37, 309e315.
+
+Glenn, L. M., Lindsey, R. L., Frank, J. F., Meinersmann, R. J., Englen, M. D., Paula, J.,
+et al. (2011). Analysis of antimicrobial resistance genes detected in multidrug
+resistant Salmonella enterica serovar Typhimurium isolated from food animals.
+Microbial Drug Resistance, 17, 407e418.
+
+Iossiﬁdou, E. G., Abrahim, A., Soultos, N. D., Triantaﬁllou, E. A., & Koidis, P. A. (2012).
+Antimicrobial resistance proﬁles in Salmonella spp. and Escherichia coli isolates
+from turkey samples in Northern Greece. Annals Microbiology, 62, 623e628.
+
+Jacobsen, C. S., & Holben, W. E. (2007). Quantiﬁcation of mRNA in Salmonella sp.
+seeded soil and chicken manure using magnetic capture hybridization RT-PCR.
+Journal of Microbiological Methods, 69, 315e321.
+
+Joshi, R., Janagama, H., Dwivedi, H. P., Senthil Kumar, T. M. A., Jaykus, L. A.,
+Schefers, J., et al. (2009). Selection, characterization, and application of DNA
+aptamers for the capture and detection of Salmonella enterica serovars. Molec-
+ular and Cellular Probes, 23, 20e28.
+
+Kim, S., & Wei, C. (2009). Molecular characterization of bioﬁlm formation and
+attachment of Salmonella enterica serovar Typhimurium DT104 on food contact
+surfaces. Journal of Food Protection, 72, 1841e1847.
+
+Lei, T., Tian, W., He, L., Huang, X. H., Sun, Y. X., Deng, Y. T., et al. (2010). Antimicrobial
+resistance in Escherichia coli isolates from food animals, animal food products
+and companion animals in China. Veterinary Microbiology, 146, 85e89.
+
+Lu, Y., Wu, C. M., Wu, G. J., Zhao, H. Y., He, T., Cao, X. Y., et al. (2011). Prevalence of
+antimicrobial resistance among Salmonella isolates from chicken in China.
+Foodborne Pathogens and Disease, 8, 45e53.
+
+McCabe, E. M., Burgess, C. M., O’Regan, E., McGuinnessc, S., Barryc, T., Fanning, S.,
+et al. (2011). Development and evaluation of DNA and RNA real-time assays for
+food analysis using the hilA gene of Salmonella enterica subspecies enterica.
+Food Microbiology, 28, 447e456.
+
+McCabe, E. M., Burgess, C. M., Walsh, D., McGuinnessc, S., Barryc, T., Fanning, S., et al.
+(2011). Validation of DNA and RNA real-time assays for food analysis using the
+
+384
+
+H. Wang et al. / Food Control 33 (2013) 378e384
+
+hilA gene of Salmonella enterica serovars. Journal of Microbiological Methods, 84,
+19e26.
+
+Marrero-Ortiz, R., Han, J., Lynne, A. M., David, D. E., Stemper, M. E., Farmer, D., et al.
+(2012). Genetic characterization of antimicrobial resistance in Salmonella
+enterica serovars isolated from dairy cattle in Wisconsin. Food Research Inter-
+national, 45, 962e967.
+
+Mezali, L., & Hamdi, T. M. (2012). Prevalence and antimicrobial resistance of Sal-
+monella isolated from meat and meat products in Algiers (Algeria). Foodborne
+Pathogens and Disease, 9, 522e529.
+
+Midelet, G., & Carpentier, B. (2002). Transfer of microorganisms, including Listeria
+monocytogenes, from various materials to beef. Applied and Environmental
+Microbiology, 8, 4015e4024.
+
+Patel, J., & Sharma, M. (2010). Differences in attachment of Salmonella enterica
+serovars to cabbage and lettuce leaves. International Journal of Food Microbi-
+ology, 139, 41e47.
+
+Ran, L., Wu, S. Y., Gao, Y. J., Zhang, X., Feng, Z. J., Wang, Z. J., et al. (2011). Laboratory-
+based surveillance of nontyphoidal Salmonella infections in China. Foodborne
+Pathogens and Disease, 8, 921e927.
+
+Rostagno, M. H., Wesley, I. V., Trampel, D. W., & Hurd, H. S. (2006). Salmonella
+prevalence in market-age turkeys on farm and at slaughter. Poultry Science, 85,
+1838e1842.
+
+Saa, P., Cabo, M. L., & Rodriguez, J. J. (2009). Effects of mussel processing soils on the
+adherence of Listeria monocytogenes to polypropylene and stainless Steel.
+Journal of Food Protection, 72, 1885e1890.
+
+Silagyi, K., Kim, S. H., Lo, Y. M., & Wei, C. (2009). Production of bioﬁlm and quorum
+sensing by Escherichia coli O157:H7 and its transfer from contact surfaces to
+meat, poultry, ready-to-eat deli, and produce products. Food Microbiology, 26,
+514e519.
+
+Singh, S., Agarwal, R. K., Tiwari, S. C., & Singh, H. (2012). Antibiotic resistance pattern
+among the Salmonella isolated from human, animal and meat in India. Tropical
+Animal Health and Production, 44, 665e674.
+
+Singh, S., Yadav, A. S., Singh, S. M., & Bharti, P. (2010). Prevalence of Salmonella in
+chicken eggs collected from poultry farms and marketing channels and their
+antimicrobial resistance. Food Research International, 43, 2027e2030.
+
+Smet, A., Martel, A., Persoons, D., Dewulf, J., Heyndrickx, M., Herman, L., et al. (2010).
+Broad-spectrum b-lactamases among enterobacteriaceae of animal origin:
+molecular aspects, mobility and impact on public health. FEMS Microbiology
+Reviews, 34, 295e316.
+
+Thong, K. L., & Modarressi, S. (2011). Antimicrobial resistant genes associated with
+Salmonella from retail meats and street foods. Food Research International, 44,
+2641e2646.
+
+Van Boxstael, S., Dierick, K., Van Huffel, X., Uyttendaele, M., Berkvens, D., &
+Herman, L. (2012). Comparison of antimicrobial resistance patterns and phage
+types of Salmonella Typhimurium isolated from pigs, pork and humans in
+Belgium between 2001 and 2006. Food Research International, 45, 913e918.
+
+Vestby, L. K., Møretrø, T., Langsrud, S., Heir, E., & Nesse, L. (2009). Bioﬁlm forming
+abilities of Salmonella are correlated with persistence in ﬁsh meal and feed
+factories. BMC Veterinary Research, 5, 20e25.
+
+Wasyl, D., & Hoszowski, A. (2012). First isolation of ESBL-producing Salmonella and
+emergence of multiresistant Salmonella Kentucky in turkey in Poland. Food
+Research International, l45, 958e961.
+
+Yang, B., Qu, D., Zhang, X., Shen, J. L., Cui, S. H., Shi, Y., et al. (2010). Prevalence and
+characterization of Salmonella serovars in retail meats of marketplace in Shanxi,
+China. International Journal of Food Microbiology, 141, 63e72.
+
+Yu, F. Y., Chen, Q., Yu, X. J., Li, Q. Q., Ding, B. X., Yang, L. H., et al. (2011). High prevalence
+of extended-spectrum beta lactamases among Salmonella enterica Typhimurium
+isolates from pediatric patients with diarrhea in China. PLoS One, 6, 16801.
+Yu, F. Y., Chen, Q., Yu, X. J., Pan, J. Y., Li, Q. Q., Yang, L. H., et al. (2011). High prevalence
+of plasmid-mediated quinolone resistance determinant aac(60)-Ib-cr amongst
+Salmonella enterica serotype Typhimurium isolates from hospitalised paediatric
+patients with diarrhoea in China. International Journal of Antimicrobial Agents,
+37, 152e155.
+
+

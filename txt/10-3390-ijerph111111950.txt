@@ -1,0 +1,978 @@
+Int. J. Environ. Res. Public Health 2014, 11, 11950-11963; doi:10.3390/ijerph111111950 
+
+ 
+OPEN ACCESS
+International Journal of 
+Environmental Research and 
+
+Public Health 
+
+ISSN 1660-4601 
+www.mdpi.com/journal/ijerph 
+
+Article 
+Occurrence of Virulence Genes Associated with Diarrheagenic 
+Escherichia coli Isolated from Raw Cow’s Milk from  
+Two Commercial Dairy Farms in the Eastern Cape Province, 
+South Africa 
+Lesley-Anne Caine 1, Uchechukwu U. Nwodo 1, Anthony I. Okoh 1, Roland N. Ndip 1,2  
+and Ezekiel Green 1,* 
+
+1  Departments of Biochemistry and Microbiology, University of Fort Hare, Private Bag X1314,  
+
+Alice 5700, South Africa; E-Mails: 200906584@ufh.ac.za (L.C.); UNwodo@ufh.ac.za (U.U.N.); 
+AOkoh@ufh.ac.za (A.I.O.); RNdip@ufh.ac.za (R.N.N.) 
+
+2  Department of Microbiology and Parasitology, Faculty of Science, University of Buea,  
+
+P.O. Box 63, Buea, Cameroon; E-Mail: ndip3@yahoo.com 
+
+*  Author to whom correspondence should be addressed; E-Mail: EGreen@ufh.ac.za;  
+
+Tel.: +27-406-022-682 (ext. 2682); Fax: +27-866-219-191. 
+
+External Editor: Paul B. Tchounwou 
+
+Received: 8 September 2014; in revised form: 5 November 2014 / Accepted: 10 November 2014 /  
+Published: 18 November 2014 
+ 
+
+Abstract:  Escherichia  coli  remains  a  public  health  concern worldwide as an organism that 
+causes diarrhea and its reservoir in raw milk may play an important role in the survival and 
+transport of pathogenic strains. Diarrheagenic E. coli strains are diverse food-borne pathogens 
+and  causes  diarrhea  with  varying  virulence  in  humans.  We  investigated  the  prevalence  of 
+pathogenic  E.  coli  in  raw  milk  from  two  commercial  dairy  farms.  Four  hundred  raw  milk 
+samples,  200  from  each  dairy  farm,  were  screened  for  the  presence  of  fliCH7,  eagR,  ial,  
+eagg,  lt,  and  papC  genes.  In  dairy  farm  A,  100  E.  coli  were  identified  based  on  culture,  
+oxidase and Gram staining, while 88 isolates from dairy farm B were identified in the same 
+manner. Gene detection showed fliCH7 27 (54%) to be the highest gene detected from farm A 
+and  lt  2  (4%)  to  be  the  lowest.  The  highest  gene  detected  in  dairy  farm  B  was  fliCH7  16 
+(43.2%) and papC 1 (2.7%) was the least. The amplification of pathogenic genes associated 
+with diarrheagenic E. coli from cows’ raw milk demonstrates that potentially virulent E. coli 
+strains are widely distributed in raw milk and may be a cause of concern for human health.  
+
+Int. J. Environ. Res. Public Health 2014, 11 
+ 
+
+Keywords: Escherichia coli; virulence markers; raw milk 
+
+11951 
+
+ 
+
+1. Introduction 
+
+Escherichia coli is a commensal in the intestines of a variety of animals, including man. However, 
+diarrhoeal diseases caused by the pathogenic strains of this species can be debilitating and sometimes 
+fatal [1]. The mechanisms involved in the disease processes and virulence attributes have been used to 
+differentiate pathogenic strains of E. coli and is divided into diarrhoeal pathogens causing diarrhoea 
+(diarrhoeagenic  E.  coli)  and  extraintestinal  E.  coli  (ExPEC)  [2]  based  on  the  site  of  infection. 
+However, E. coli pathotypes may cause three main types of infections: sepsis/meningitis, enteric and 
+diarrheal diseases, and urinary tract infections [3].  
+
+Enteric pathogens have been broadly divided into enterotoxigenic E. coli (ETEC), enteropathogenic 
+E.  coli  (EPEC),  enteroinvasive  E.  coli  (EIEC),  enterohaemorrhagic  E.  coli  (EHEC)  have  been 
+established, while enteroaggregative E. coli (EAEC), diffusely adherent E. coli, necrotoxic E. coli, and 
+cell-detaching  E.  coli  [4].  Two  additional  E.  coli  pathotypes,  collectively  called  extraintestinal 
+pathogenic E. coli [5] are responsible for extraintestinal infections. Extraintestinal pathogenic E. coli 
+consist  of  uropathogenic E.  coli  (UPEC)  causing  urinary  tract  infections, E.  coli  strains  that  causes 
+septicaemia, and neonatal meningitis associated E. coli (MNEC) [6]. In all E. coli isolates the uidA 
+gene, which codes for the β-glucuronidase enzyme, serve as a target for fluorogenic PCR detection of 
+E. coli in approximately 95% of naturally occurring E. coli. 
+
+Epidemiology, treatment, pathogenesis, and clinical manifestations can be used to preliminary identify 
+each pathotype [7]. However, more researchers are using molecular methods such as polymerase chain 
+reaction  to  identify  pathotypes.  EPEC  pathotype  has  been  sub-divided  into  typical  and  atypical  EPEC 
+depending  on  their  adhesion  mechanisms  in  human  epithelial  cells  [8].  Typical  EPEC’s  adhesion  is 
+mediated by bfpA found in the EPEC adhesion factors type plasmid (EAF) that makes the organism to 
+adhere to human epithelia cells in a localized manner [8]. The presence of locus of enterocyte effacement 
+has been used to identify atypical EPEC. This locus codes for the gene of attaching and effacing, eae.  
+This gene enables the bacteria to adhere and destroy human intestinal enterocytes [9].  
+
+Enteroaggregative  E.  coli,  producing  enteroaggregative  mechanisms  that  promotes  diarrhea  in 
+humans are coded for by the eagR, the master regulator of EAEC virulence, controls the expression  
+of adherence factors, a dispersin protein, and a cluster of genes encoded on the EAEC chromosome.  
+One  of  the  most  common  clinical  manifestations  of  EAEC  infection  is  watery  diarrhea,  
+usually unaccompanied by blood or mucus. 
+
+EIEC  is  characterized  by  the  destruction  of  the  colonic  epithelium  caused  by  the  inflammatory 
+response induced upon invasion of the mucosa by EIEC [10] using the ial (marker for invasivity) gene. 
+ETEC are important causes of total diarrheal episodes worldwide. These strains cause diarrhea through 
+the action of enterotoxins: the heat-labile (LT) and heat-stable (ST) enterotoxins. Some strains may 
+express  an  LT  only,  an  ST  only,  or  both  an  LT  and  an  ST  coded  for  by  lt  and  st  in  the  plasmid. 
+Adenylate cyclase is activated by LT, causing diarrhea while guanylyl cyclase in intestinal epithelial 
+
+Int. J. Environ. Res. Public Health 2014, 11 
+ 
+cells is activated by ST causing fluid secretion. E. coli strains that are capable of producing both LT 
+and ST toxins (ETEC) can cause severe diarrhea [11].  
+
+11952 
+
+Enterohaemorrhagic E. coli (EHEC) is associated with foodborne outbreaks in the developed world 
+and can cause bloody diarrhoea, haemorrhagic colitis (HC) and the Haemolytic Uraemic Syndrome 
+(HUS) due to the elaboration of Shiga toxin (Stx). In EHEC strains, stx-genes are typically found in 
+transmissible lambdoid bacteriophages [12]. Other virulence factors such as membrane protein intimin, 
+encoded by the eae gene, fliCH7 encoding flagella antigen H7 and enterohaemolysin, encoded by the 
+HlyA gene [13] have been identified.  
+
+Virulence  factors  such  as  toxins  (cytotoxic  necrotizing  factors  and  hemolysin),  adhesins  (P 
+fimbriae, afrimbriae, type 1 fimbriae, S and F1C fimbriae), polysaccharide coatings (group II capsules) 
+and siderophores (the aerobactin system) [14,15], associated UPEC are thought to be responsible for 
+the  pathogenic  potential  of  the  organism.  Specific  adhesins  that  mediates  specific  adhesion  can  be 
+differentiated  based  on  the  receptor  binding  specificity.  The  most  significant  mannose-resistant 
+adhesins are the P fimbriae encoded by E. coli pap (pyelonephritis associated pilus) operon. However, 
+they are expressed by few E. coli serotypes [16]. Uropathogenic E. coli strains have been identified by 
+detecting urovirulence factors including those mentioned earlier using conventional PCR [15]. 
+
+Discriminating various E. coli pathotypes from cattle and their products have been greatly studied 
+in  the  last  two  decades  with  biomolecular  techniques  favoured  over  serology  in  detection  of  
+E.  coli  pathotypes  because  they  are  more  sensitive  and  specific  [17‒21].  It  therefore  became  the 
+objective of this study to find the prevalence of E. coli virulence genes from two dairy farms in the 
+Eastern Cape, South Africa.  
+
+2. Experimental Section 
+
+2.1. Study Sites 
+
+Eastern  Cape  Province  is  one  of  the  poorest  and  second  largest  provinces  in  South  Africa  and 
+mainly  comprised  of  rural  settlements,  it  is  also  the  “livestock”  province  of  the  country  carrying  
+46%  of  South  Africa’s  goats,  28%  sheep,  and  21%  cattle.  Dairy  farm  A  has  been  in  operation  
+since 2007, it has 800 dairy cows and produces about 10,000 L of milk per day which is bought by one 
+of the biggest milk companies in South Africa. Dairy farm A has a rotary milking parlour whereas 
+dairy farm B has an in-line milking system. Both dairy farms are located in the Eastern Cape Province. 
+Dairy farm B has been in operation since 2008, it has 600 dairy cows and produces about 8000 L of 
+milk per day.  
+
+2.2. Isolation and Identification 
+
+We collected 400 raw milk samples from individual lactating cows showing clinical and subclinical 
+signs of mastitis from the chosen two dairy farms (200 (100 from clinical and 100 from subclinical 
+mastitis) from farm A and 200 (100 from clinical and 100 from subclinical mastitis) from farm B).  
+Clinical mastitis occurs when visible signs of inflammation are observed in the udder of the cow or  
+the teats; while Subclinical mastitis is more subtle in that no signs of infection are visible this requires 
+regular  monitoring  and  laboratory  testing.  Subclinical  mastitis  was  determined  using  California 
+
+11953 
+
+Int. J. Environ. Res. Public Health 2014, 11 
+ 
+Mastitis Test. Samples were collected according to the in-house procedure on each farm. Briefly, each 
+milking station has a small collection bottle with a little hole for sample collection that is open and 
+closed using a tap. The bottles are washed after each individual cow’s milking session. The samples 
+were collected from that tap. The samples were cultured on selective medium Violet red bile—mug 
+agar (Merck, Johannesburg, South Africa) and incubated at 37 °C for 24 h. The plates were checked 
+under UV light at 360–370 nm after 24 h of incubation. Light blue fluorescence indicates the presence 
+of  E.  coli  [22,23].  Biochemical  tests  including  Gram  staining,  catalase  and  oxidase  test  were 
+performed.  Those  organisms  that  were  Gram  negative,  catalase  positive  and  oxidase  negative  were 
+identified using API 20E (BioMerieux, Marcy I’Etiole, France) following manufacturer’s instructions.  
+
+2.3. DNA Extraction 
+
+DNA was extracted from identified E. coli and from a positive control strains for E. coli (ATCC 
+8739, South African Bureau of Standards (SABS), No. ESC 20) purchased from South African Bureau 
+of Standards, Pretoria, South Africa. DNA extraction was done following the method of Maugeri et al. 
+[24] and Lopez Saucedo et al. [25]. Briefly, single colonies of presumptive E. coli grown overnight at 
+37 °C on EMBA plates were picked, suspended in 200 μL of sterile distilled water, vortexed for 2 min 
+using MS2 Minishaker (Digisystem Laboratory Instruments Inc., New Taipei City, Taiwan). The cells 
+were then centrifuged for 10 min at 13,000 rpm (ThermoFisher Scientific, Schwerte, Germany). Five 
+hundred microliters (500 µL) distilled water was pipetted into the eppendorf tubes, vortexed and the 
+cells were lysed using a heat on Dri-Block DB.2A (Techne, Johannesburg, South Africa) for 15 min at 
+100 °C. The cell debris were removed by centrifugation at 10,000 rpm for 5 min using a MiniSpin 
+microcentrifuge (ThermoFisher Scientific). The supernatant was used as a template in the PCR assay 
+immediately after extraction. 
+
+2.4. Detection of Virulence Genes in E. coli Isolates 
+
+Oligonucleotide  primers  targeting  the  uidA  gene  were  used  to  confirm  the  isolates  in  the 
+polymerase chain reaction with the conditions as shown in Table 1. PCR assay was carried out in a 25 
+μL  reaction  volume  containing  a  24  µL  of  2×master  mix  (containing  0.05  U/µL  of  Taq  DNA 
+polymerase, reaction buffer, 4 mM MgCl2, and 0.4 mM of each dNTP) and 1µL of template DNA. 
+Oligonucleotide  primers  targeting  the  fliCH7  gene  encoding  for  structural  flagella  antigen  H7  in 
+Enterohemorrhagic E.  coli, eagR  gene encoding for antiaggregative protein of Enteroaggregative E. 
+coli, ial gene encoding for invasion-associated locus of Enteroinvasive E. coli, eae gene encoding for 
+Enteropathogenic E. coli intimin, lt gene encoding for heat-labile toxins found in Enterotoxigenic E. 
+coli and papC gene characterizing uropathogenic E. coli were used in the polymerase chain reaction 
+following the conditions in Table 1. The positive control for uidA was E. coli ATCC 8739 (SABS No. 
+ESC  20)  purchased 
+in  Pretoria;  
+positive  control  for  the  eagR  gene  is  DSM  10974,  DSM  10973  for  lt  gene,  DSM  4618  for  papC,  
+DSM 8695 for eae gene and DSM 9025 for ial gene and where all purchased from Leibniz-Institut  
+DSMZ—Deutsche  Sammlung  von  Mikroorganismen  und  Zellkulturen,  Braunschweig,  Germany. 
+However the positive control for fliCh7 gene (EHEC) was not available at the time of purchase.  
+
+the  South  African  Bureau  of  Standards 
+
+from 
+
+Int. J. Environ. Res. Public Health 2014, 11 
+ 
+
+Table 1. Primer sequences and expected size of PCR amplified gene targets of the pathogenic strains of Escherichia coli. 
+Amplicon 
+Size (bp) 
+
+Primer Sequence (5′–3′) 
+
+Conditions 
+
+11954 
+
+References 
+
+Target 
+Strain  
+
+Target 
+Gene 
+
+E. coli 
+
+UidA 
+
+AAAACGGCAAGAAAAAGCAG 
+ACGCGTGGTTAACAGTCTTGCG 
+
+EHEC 
+
+flicH7 
+
+TACCATCGCAAAAGCAAC TCC  
+GTCGGCAACGTTAGTGATACC 
+
+EIEC 
+
+Ial 
+
+CTGGATGGTATGGTGAGG 
+GGAGGCCAATTATTTCC 
+
+EAEC 
+
+EagR 
+
+AGACTCTGGCGAAAGACTGTATC  
+ATGGCTGTCTGTAATAGATGAGAAC 
+
+EPEC 
+
+EaeA 
+
+TCAATGCAGTTCCGTTATCAGT 
+GTAAAGTCCGTTACCCCAACC TG 
+
+ETEC 
+
+Lt 
+
+GCACACGGA GCTCCTCAGTC 
+TCCTTCATCCTTTCAATGGCTT 
+
+UPEC 
+
+PapC 
+
+GACGGCTGTACTGCAGGGTGTGGCG 
+ATATCCTTTCTGCAGGGATGCAATA 
+
+ 
+
+An initial 2 min of denaturation at 94 °C followed by 25 cycles of 94 °C 
+for 1 min, 58 °C for 1 min and 72 °C for 2 min. Amplified products were 
+held at 4 °C after amplification. 
+Initial denaturation at 95 °C for 15 min followed by 35 cycles of heat 
+denaturation at 94 °C for 45 sec, primer annealing at 55 °C for 45 sec and 
+DNA extension at 68 °C for 2 min. After the last cycle the samples were 
+kept at 72 °C for 5 min to complete synthesis of all strands. 
+1 cycle for 2 min at 50 °C, 1 cycle for 5 min at 95 °C, 40 cycles for  
+45 sec at 95 °C, 45 sec at 55 °C and 45 sec at 72 °C and a final extension 
+step for 10 min at 72 °C to complete synthesis of all strands. 
+Initial denaturation at 95 °C for 15 min followed by 35 cycles of heat 
+denaturation at 94 °C for 45 sec, primer annealing at 55 °C for 45 sec  
+and DNA extension at 68 °C for 2 min. A final elongation step at 72 °C  
+for 5 min. 
+An initial denaturation step at 94 °C for 5 min, followed by 36 cycles of  
+94 °C for 35 sec, annealing at 62 °C for 30 sec and elongation at 72 °C for 
+1 min. A final elongation step at 72 °C for 5 min. 
+An initial denaturation step at 94 °C for 5 min, followed by 36 cycles of  
+94 °C for 35 sec, annealing at 62 °C for 30 sec and elongation at 72 °C  
+for 1 min. A final elongation step at 72 °C for 5 min. 
+An initial denaturation step at 94 °C for 5 min, followed by 36 cycles of  
+94 °C for 35 sec, annealing at 62 °C for 30 sec and elongation at 72 °C  
+for 1 min. A final elongation step at 72 °C for 5 min. 
+
+147 
+
+[26] 
+
+230 
+
+[27] 
+
+700 
+
+[28] 
+
+194 
+
+[29] 
+
+482 
+
+218 
+
+328 
+
+[28] 
+
+[28] 
+
+[30] 
+
+Int. J. Environ. Res. Public Health 2014, 11 
+ 
+2.5. Gel Electrophoresis 
+
+11955 
+
+The PCR products (10 μL aliquots) were resolved in 1.8% agarose gel containing 5 μL ethidium 
+bromide in 1× TAE buffer (40 mM Tris-HCl, 20 mM Na-acetate, 1 mM EDTA, pH 8) [27,31] before 
+being visualized and photographed under the Alliance 4.7 XD-79 System (Uvitec, Cambridge, UK).  
+A 100-bp DNA ladder was included on each gel as a molecular size standard. The electrophoresis was 
+carried out at 100 V for 1 h. 
+
+3. Results and Discussion 
+
+3.1. Isolation and Identification 
+
+3.1.1. Biochemical Confirmation  
+
+There were 100 (50%) Gram negative rods, catalase positive and oxidase negative in dairy farm A 
+samples and 88 (44%) in dairy farm B. In dairy farm A, 72 (72%) were identified as E. coli using  
+API 20E while dairy farm B, showed 68 (77%) E. coli (Table 2). Species identity by API ranged from 
+76.8% to 99.9% in dairy farm B and 76.8% to 100% in dairy farm A.  
+
+Table  2.  Table  showing  how  organisms  were  identified  from  biochemical  tests  to 
+molecular conformation. 
+
+Farms 
+
+Number of Samples 
+Clinical 
+Mastitis 
+
+Mastitis 
+
+Sub-Clinical 
+
+G (-ve)  
+Rods 
+
+Cat  
+(pos) 
+
+Ox 
+(neg) 
+
+API 
+20E 
+
+uidA Gene 
+
+100 
+100 
+
+A 
+B 
+Legends:  G  (-ve)  =  Gram  Negative;  Cat  (pos)  =  Catalase  positive;  Ox  (neg)  =  Oxidase  negative.  
+All Gram negative rods were obtained from cows showing Clinical Mastitis. 
+
+100 
+100 
+
+100 
+88 
+
+100 
+88 
+
+100 
+88 
+
+72 
+68 
+
+50 
+37 
+
+3.1.2. Molecular Characterization of E. coli 
+
+Isolates  that  were  Gram  negative,  oxidase  negative,  and  catalase  positive  were  screened  for  
+E. coli uidA gene using PCR assays. Dairy farm B showed 50 (57.5%) uidA gene amplification while 
+dairy  farm  A  showed  37  (42.5%)  amplification  (Table  2;  Figure  1).  Amplification  of  several  genes 
+representing E. coli pathotypes is shown in Figure 1. The E. coli isolates that were positive by PCR  
+for fliCH7, eae, lt, papC, ial, and eagR genes are summarized in Table 3. Dairy farm A had the highest 
+amount of virulence genes compared to dairy farm B except for lt gene, usually found in ETEC which 
+was higher (13.5%) in farm B. The target gene of E. coli O157:H7 (fliCH7) was noticed in the isolates 
+obtained from both dairy farms in high amounts in comparison to other virulence genes. Farm A is situated 
+next  to  a  wastewater  treatment  plant  and  the  discharged  final  effluent  is  used  to  clean  the  clusters, 
+milking  machines,  milking  utensils  and  the  floor  of  the  milking  parlour  this  could  explain  the  
+high  occurrence  of  pathogenic  E.  coli  in  this  farm.  Also  the  milking  parlour  is  cleaned  once  a  day  
+in this farm, whereas in farm B it is cleaned twice a day after every milking activity. Cattle faeces were 
+
+ 
+
+Int. J. Environ. Res. Public Health 2014, 11 
+ 
+observed around the farm floor, milking and feeding equipments. Poor hygiene of feeding equipment 
+and contaminated feed plays an important role in milk contamination. 
+
+11956 
+
+Table 3. Occurrence of pathogenic E. coli isolates from two dairy farms as indicated by 
+presence of the target gene marker. 
+
+Location 
+
+Dairy farm A 
+Dairy farm B 
+
+Total 
+
+Amplified Genes 
+
+uidA 
+
+50 (57.5%) 
+37 (42.5%) 
+87 (100%) 
+
+fliCH7 
+27 (54%) 
+16 (43.2%) 
+43 (49%) 
+
+eae 
+
+9 (18%) 
+9 (24.3%) 
+18 (21%) 
+
+lt 
+
+2 (4%) 
+5 (13.5%) 
+7 (8%) 
+
+papC 
+3 (6%) 
+1 (2.7%) 
+4 (4.6%) 
+
+Ial 
+
+4 (8%) 
+2 (5.4%) 
+ 6 (7%) 
+
+eagR 
+5 (10%) 
+4 (10.8%) 
+9 (10.3%) 
+
+Figure 1. A representative gel showing all the genes amplified in this study.  
+
+M  1  2 
+
+3 
+
+4 
+
+5
+
+6
+
+7
+
+8
+
+9
+
+700bp 
+
+482bp 
+328bp 
+230bp 
+218bp 
+197bp 
+147bp 
+
+ 
+
+M = A 100bp molecular marker; 1 = positive controls of 6 of the amplified genes (band 1—E. coli ATCC 
+8739;  band  2—DSM  10974  (EAEC);  band  3—DSM  10973  (ETEC);  band  4—DSM  4618  (UPEC);  
+band  5—DSM  8695  (EPEC);band  6—DSM  9025  (EIEC));  2  =  negative  control  (PCR  assayed  nuclease  
+free water); 3 = uid gene (E. coli); 4 = eagg (EAEC) gene; 5 = fliCh7 (EHEC) gene, 6 = lt (ETEC) gene;  
+7 = papC (UPEC); 8 = eae (EPEC) gene; 9 = ial (EIEC) gene. 
+
+Mastitis in lactating dairy cows is commonly caused by E. coli strains. The severity and course of 
+mastitis differs enormously depending on the individual cow’s response. However, the strain virulence 
+may  also  play  a  role.  The  ability  of  E.  coli  to  pick  up  DNA  from  the  environment  and  therefore 
+virulence  genes  are  well  demonstrated  [32].  E.  coli  has  been  regarded  as  an  indicator  of  fecal 
+contamination  [33],  however,  in  the  milk  industry;  it  is  regarded  as  poor  hygiene  indicator  and 
+insufficient sanitary practices during milking [34]. Raw unpasteurized milk can be an important source 
+of food-borne pathogens because it harbors a variety of microorganisms while bulk tank raw milk may 
+be contaminated by udder excretion of infected animals [35]. Unpasteurized milk is used to produce 
+ 
+
+Int. J. Environ. Res. Public Health 2014, 11 
+ 
+several types of cheese [35,36]. Consumption of unpasteurized and pasteurized milk has been blamed 
+for disease in humans [37]. 
+
+11957 
+
+3.1.3. Virulence Genes from E. coli Isolates in Raw Cow’s Milk 
+
+Different virulence genes were isolated from E. coli in diarrheic stools and water [38]. We based 
+our  selection  of  virulence  genes  for  this  study  on  their  association  with  E.  coli  strains  causing  
+extra-intestinal and intestinal infections. There are no biochemical difference between bovine mastitis 
+E.  coli  strains  and  faecal  strains.  Approximately  30.3%  of  the  isolates  in  our  study  did  not  show 
+amplification  of  examined  genes.  This  might  be  indication  that  E.  coli  strains  associated  with 
+mammary  gland  infections  may  use  different  mechanisms  to  cause  diseases  [39].  In  another  study,  
+E.  coli  isolates  (10.7%)  from  bovine  mastitis  were  found  to  have  a  single  virulence  gene  [40].  
+Several  virulence  factors  have  been  identified  in  bovine  mastitis  associated  E.  coli  isolates  [41]  
+but many bovine mastitis isolates lack any of the virulence factors [42].  
+
+In our study all of the isolates were stx1 and stx 2 negative. This result is similar to the results of [43,44] 
+where stx1 and 2 were not detected from bovine mastitis. This might not be a true reflection of the 
+results since sub-types of stx 1 and stx 2 were not tested. The fliCH7 gene is one of the genes used as a 
+marker  to  identify  E.  coli  O157:H7  [45]  has  been  amplified  from  27  (54%)  samples  from  farm  A  
+and  16  (43.2%)  from  dairy  farm  B.  This  gene  has  also  been  isolated  in  E.  coli  from  water  by  
+Okoh  and  Osode  [46].  Although  fliCH7  gene’s  associated  with  mastitis  has  not  been  isolated  from 
+cows with mastitis in South Africa, its association with severe clinical symptoms, including hemolytic 
+colitis,  hemolytic-uremic  syndrome  (HUS)  and  diarrhea  have  been  well  established  [47,48].  
+Yogurt made on a farm from pasteurized milk was implicated in people affected by E. coli O157:H7, 
+causing HUS cases among children [49]. Therefore, its presence in raw milk is a cause for concern. 
+
+The lt gene which encodes for heat-labile toxin, found in Enterotoxigenic E. coli [50] was amplified 
+from 2 (4 %) isolates in dairy farm B and 5 (13.5%) dairy farm A. These results are different from 
+what Frank et al. [51] reported (3.2%) of ETEC strains in milk and milk products. As far as we know 
+heat-labile  toxin  has  never  been  shown  to  be  associated  with  mastitis.  However,  the  organism  that 
+produces heat-labile toxin, Enterotoxigenic E. coli (ETEC), causes infantile and travelers’ in humans 
+from developed to underdeveloped countries [52]. Contaminated food including milk and water serves 
+as a route of infection for ETEC [53]. The disease manifests as a severe cholera-like syndrome [53,54]. 
+This gene has also been detected E. coli from water [38]. 
+
+The ial gene (a marker for the virulence plasmid pInv) which is found in Enteroinvasive E. coli was 
+also  amplified  from  4  (8%)  isolates  in  dairy  farm  A  and  2  (5.4%)  isolates  from  dairy  farm  B. 
+Contaminated food and water have been implicated in the transmission of EIEC [55,56] even though 
+person-to-person cases of EIEC have been noted [57]. When this organism is ingested, invasion and 
+adhesion of the epithelial cells in the intestine mediated by the ial gene occurs. The characteristics of 
+the illness are the appearance of blood and mucus in a condition called colitis of infected individuals [58]. 
+Diarrhea, abdominal cramps, fever, a generalized malaise, vomiting, chills, are some of the symptoms. 
+Outbreaks have been associated with hamburger meat and unpasteurized milk [59]. This is the first report 
+where  EIEC  has  been  isolated  from  raw  milk  in  the  Eastern  Cape  Province  of  South  Africa. 
+Enteroaggregative E. coli was isolated and eagR amplified from 5 (10%) isolates in dairy farm A and  
+
+ 
+
+Int. J. Environ. Res. Public Health 2014, 11 
+ 
+4 (10.8%) isolates from dairy farm B. Human clinical, animal, and environmental samples are some  
+of  the  samples  where  this  organism  has  been  increasingly  isolated  and  characterized  around  the  
+world  [60,61].  However,  frequencies  of  Enteroaggregative  Escherichia  coli  among  cattle  in  the  
+Eastern Cape Province, South Africa, are not known.  
+
+11958 
+
+The virulence factor, eae, is associated with EPEC strains, defined as Stx-negative E. coli strains 
+able to cause “attaching and effacing” (A/E) lesions, and also characterized by bacterial adherence to 
+the  intestinal  epithelium  intimately  [62].  The  eaeA  and  bfp  genes  have  been  used  for  identification  
+of EPEC [63]. In our study, the ratio of eae was 9 (24.3%) in dairy farm B and 9 (18%) isolates in 
+dairy farm A. However, in our study, we did not find any evidence of bfp in all the isolates tested.  
+Our  results  inform  us  that  the  isolated  organisms  were  atypical  EPEC  as  they  lacked  the  gene  bfp.  
+The  presence  of  this  pathogen  in  milk  proved  to  be  variable  in  different  regions.  In  Brazil,  
+Aleixo and Aver [64] reported EPEC in 25% milk samples while 26 (27.7%) from bulk milk were 
+EPEC in Trinidad [65]. These values were higher than the 3.09% reported by Holko et al. [66] from 
+Slovakia and that of Altalhi and Hussen [41], Saudi Arabia. EPEC strains are the oldest recognized 
+category of diarrheagenic E. coli [67] and are well known prominent cause of diarrhea, particularly  
+in children in less developed countries [68]. 
+
+Uropathogenic  E.  coli  (UPEC)  which  contain  papC  characterized  as  one  of  the  pathogenic  gene 
+associated with the adhesion of UPEC to the upper urinary tract in humans [2] was amplified in three 
+(6%) isolates from dairy farm A and one (2.7%) isolate in dairy farm B. The papC gene was reported 
+to  be  associated  with  persistent  mastitis  by  Dogan  et  al.  [69].  Ingestion  of  milk  contaminated  with 
+UPEC it can lead to cystitis in the bladder and acute pyelonephritis in the kidneys [3,70]. 
+
+Act, No. 54 of 1972 in South Africa governs the safety of milk, and sets standards to which milk 
+and dairy products, foodstuffs, cosmetics and disinfection must conform to. According to this Act milk 
+may not contain pathogenic organisms, extraneous matter, any inflammatory product or any substance 
+which may render it unfit for consumption. Bacteriologically it may not contain more than 20 coliforms or 
+any E. coli per mL. This study indicates that raw milk samples from both dairy farm A and dairy farm B 
+were not complying with the act and could be a course for public health concern as some pathogenic 
+genes known to be associated with diarheagenic E. coli were detected.  
+
+4. Conclusions  
+
+The  results  obtained  in  this  study  shows  that  raw  cow’s  milk  available  to  consumers  in  the  
+Eastern Cape, South Africa was contaminated with the pathogen E. coli. Regular washing of milker’s 
+hands  and  animal  udders  together  with  sterilization  of  utensils  and  dairy  equipment,  is  highly 
+recommended as strict preventive measures. This might help in suppression of mastitis disease from 
+the herd. Teaching and training programs for those working at the dairies can possibly improve the 
+situation. 
+
+Acknowledgments 
+
+The National Research Foundation (NRF) of South Africa for funding this study. 
+
+ 
+
+ 
+
+ 
+
+Int. J. Environ. Res. Public Health 2014, 11 
+ 
+Author Contributions 
+
+11959 
+
+Lesley-Anne Caine designed and supervised the experiment as well as the bacteriological analysis 
+and  drafted  the  manuscript.  Ezekiel  Green  was  the  project  leader  of  Mastitis  investigation  and 
+performed  the  field  work,  designed  and  supervised  the  experiment  as  well  as  the  bacteriological 
+analysis.  Uchechukwu  Uchechukwu  Nwodo  performed  the  molecular  experiments  and  analysis. 
+Anthony Ifeanyi Okoh and Roland Ndip Ndip added value through introduction of critical technical 
+considerations. All authors read and approved the final manuscript. 
+
+Conflicts of Interest 
+
+The authors declare no conflict of interest. 
+
+References  
+
+1.  Bélanger,  L.A.;  Garenaux,  J.;  Harel,  M.;  Boulianne,  E.;  Dozois,  C.  Escherichia  coli  from  
+animal  reservoirs  as  a  potential  source  of  human  extraintestinal  pathogenic  Escherichia  coli.  
+Fems Immunol. Med. Microbiol. 2011, 62, 1–10.  
+
+2.  Croxall,  G.;  Hale,  J.;  Weston,  V.;  Manning,  G.;  Cheetham,  P.;  Achtman,  M.;  McNally,  A. 
+Molecular  epidemiology  of  extraintestinal  pathogenic  Escherichia  coli  isolates  from  a  regional 
+cohort of elderly patients highlights the prevalence of ST131 strains with increased antimicrobial 
+resistance  in  both  community  and  hospital  care  settings.  J.  Antimicrob.  Chemother.  2011,  66, 
+2501–2508.  
+
+3.  Croxen, M.A.; Finlay, B.B. Molecular mechanisms of Escherichia coli pathogenicity. Nat. Rev. 
+
+2010, 26–38. 
+
+4.  Kaper, J.B.; Nataro, J.P.; Mobley, H.L.T. Pathogenic Escherichia coli. Nat. Rev. Microbiol. 2004, 
+
+2, 123–140. 
+
+5.  Russo, T.A.; Johnson, J.R. Proposal for a new inclusive designation for extraintestinal pathogenic 
+
+isolates of Escherichia coli: ExPEC. J. Infect. Dis 2002, 181, 1753–1754. 
+
+6.  Bekal, S.; Brousseau, R.; Masson, L.; Préfontaine, G.; Fairbrother, J.M.; Harel, J. Rapid identification 
+of Escherichia coli pathotypes by virulence gene detection with DNA microarray. J. Clin. Microbiol. 
+2003, 41, 2113–2125.  
+
+7.  Huang,  D.B.;  Mohanty,  A.;  DuPont,  H.L.;  Okhuysen,  P.C.;  Chiang,  T.  A  review  of  emerging 
+
+enteric pathogen: Enteroaggregative Escherichia coli. J. Med. Microbiol. 2006, 1303–1311. 
+
+8.  Trabulsi, L.R.; Keller, R.; Gomes, T.A.T. Typical and atypical enteropathogenic Escherichia coli. 
+
+Emerg. Infect. Dis. 2002, 8, 508–513. 
+
+9.  Campellone,  K.G.  Cytoskeleton-modulating  effectors  of  enteropathogenic  and  enterohaemorrhagic 
+
+Escherichia coli: Tir, EspFU and actin pedestal assembly. Febs J. 2010, 277, 2390–2402. 
+
+10.  Parsot,  C.  Shigella  spp.  and  enteroinvasive  Escherichia  coli  pathogenicity  factors.  Fems 
+
+Microbiol. Lett. 2005, 252, 11–18. 
+
+11.  Piekrard,  D.;  Stevens,  D.;  Moriau,  L.;  Lior,  H.;  Lauwers,  S.  Isolation  and  virulence  factors  of 
+Verocytotoxin producing Escherichia coli in human stool samples. Clin. Microbiol. Infec. 1997, 3, 
+531–540. 
+
+ 
+
+Int. J. Environ. Res. Public Health 2014, 11 
+ 
+12.  Bielaszewska, M.; Middendorf, B.; Kock, R.; Friedrich, A.W.; Fruth, A.; Karch, H.; Schmidt, A.; 
+Mellmann,  A.  Shiga  toxin-negative  attaching  and  effacing  Escherichia  coli:  Distinct  clinical 
+associations with bacterial phylogeny and virulence traits and inferred in-host pathogen evolution. 
+Clin. Infect. Dis. 2008, 47, 208–217. 
+
+11960 
+
+13.  Stephan,  R.;  Schumacher,  S.;  Corti,  S.;  Krause,  G.;  Danuser,  J.;  Beutin,  L.  Prevalence  and 
+characteristics  of  shiga  toxin-producing  Esherichia  coli  in  Swiss  raw  milk  cheeses  collected  at 
+producer level. J. Dairy Sci. 2008, 91, 2561–2565.  
+
+14.  Arisoy, M.; Ayasev, D.; Ekim, M. Detection of virulence factors of Escherichia coli from children 
+
+by multiplex polymerase chain reaction. Int. J. Clin Pract. 2006, 60, 170–173.  
+
+15.  Yamamoto, S. Molecular epidemiology of uropathogenic Escherichia coli. J. Infect. Chemother. 
+
+2007, 13, 68–73. 
+
+16.  Hagan, E.C.; Mobley, H.L. Uropathogenic Escherichia coli outer membrane antigens expressed 
+
+during urinary tract infection. Infect. Immun. 2007, 75, 3941–3949. 
+
+17.  Belanger, S.D.; Boissinot, M.; Menard, C.; Picard, F.J.; Bergeron, M.G. Rapid detection of Shiga 
+toxin-producing bacteria in feces by multiplex PCR with molecular beacons on the smart cycler. 
+J. Clin. Microbiol. 2002, 40, 1436–1440. 
+
+18.  Gilgen, M.; Hubner, P.; Hofelen, C.; Luthy, J.; Candrian, U. PCR-based detection of verotoxin 
+
+producing Esherichia. coli (VTEC) in ground beef. Res. Microbiol. 1998, 149, 145–154. 
+
+19.  Fagan,  P.K.;  Hornitzky,  M.A.;  Bettelheim,  K.A.;  Djordjevic,  S.P.  Detection  of  Shiga-like  toxin  
+(stx1  and  stx2),  intimin  (eaeA),  and  enterohemorrhagic  Escherichia  coli  (EHEC)  hemolysin  
+(EHEC hlyA) genes in animal feces by multiplex PCR. Appl. Environ. Microbiol. 1999, 65, 868–872.  
+20.  Rappelli, P.; Maddau, G.; Mannu, F.; Colombo, M.; Fiori, P.L.; Cappuccinelli, P. Development of  
+a set of multiplex PCR assays for the simultaneous identification of enterotoxigenic, enteropathogenic, 
+enterohemorrhagic and enteroinvasive Escherichia coli. New Microbiol. 2001, 24, 77–83. 
+
+21.  Chapman,  P.A.;  Cerdan,  A.;  Malo,  A.T.;  Ellin,  M.;  Ashton,  R.;  Harkin,  M.A.  Escherichia  coli 
+O157  in  cattle  and  sheep  at  slaughter,  on  beef  and  lamb  carcasses  and  in  raw  beef  and  
+lamb products in south Yorkshire, UK. Int. J. Food Microbiol. 2001, 64, 139–150. 
+
+22.  Chirsten, G.L.; Davidson, P.M.; McAllister, J.S.; Roth, L.A. Coliform and other indicator bacteria.  
+In  Standard  Methods  for  the  Examination  of  Dairy  Products,  16th  ed.;  Marshall,  R.T.,  ed.;  
+American Public Health Association: Washington, DC, USA, 1993; Chapter 7, pp. 247–269.  
+
+23.  Houghtby,  G.A.;  Maturin,  L.J.;  Koenig,  E.K.  Microbiological  count  methods.  In  Standard 
+Methods for the Examination of Dairy Products, 16th ed.; Marshall, R.T., Ed.; American Public 
+Health Association: Washington, DC, USA, 1993; Chapter 6, pp. 213–246.  
+
+24.  Maugeri, T.L.; Carbone, M.; Fera, M.T.; Irrera, G.P.; Gugliandolo, C. Distribution of potentially 
+pathogenic  bacteria  as  free-living  and  plankton-associated  in  a  marine  coastal  zone.  J.  Appl. 
+Microbiol. 2004, 97, 354–361. 
+
+25.  López-Saucedo, C.; Cerna, J.F.; Villegas-Sepulveda, N.; Thompson, R.; Velazquez, F.R.; Toress, J.; 
+Tarr,  P.I.;  Estrada-Garda,  T.  Single  multiplex  polymerase  chain  reaction  to  detect  diverse  loci 
+associated with diarrhoeagenic Escherichia coli. Emerg. Infect. Dis. 2003, 9, 127–131.  
+
+26.  Tsai,  L.Y.;  Palmer,  C.L.;  Sangeermano,  L.R.  Detection  of  Escherichia  coli  in  sludge  by 
+
+polymerase chain reaction. Appl. Environ. Microbiol. 1993, 59, 353–357. 
+
+ 
+
+Int. J. Environ. Res. Public Health 2014, 11 
+ 
+27.  Wang, G.; Clifford, G.C.; Frank, G.R. Detection in Escherichia coli of the genes encoding the 
+major virulence factors, the genes defining the O157:H7 serotype, and components of the type 2 
+shiga toxin family by multiplex PCR. J. Clin. Microbiol. 2002, 40, 3613–3619. 
+
+11961 
+
+28.  Stacy-Phipps, S.J.; Mecca, J.; Weiss, J.B. Multiplex PCR assay and simple preparation method for 
+stool  specimens  detect  enterotoxigenic  Escherichia  coli  DNA  during  the  course  of  infection.  
+J. Clin. Microbiol. 1995, 33, 1054–1059. 
+
+29.  Kong, R.Y.C.; Lee, S.K.Y.; Law, T.W.F.; Law, S.H.W.; Wu, R.S.S. Rapid detection of six types 
+
+of bacterial pathogens in marine waters by multiplex PCR. Water Res. 2002, 36, 2802–2812. 
+
+30.  Vidal,  R.;  Vidal,  M.;  Lagos,  R.;  Levine,  M.;  Prado,  V.  Multiplex  PCR  for  diagnosis  of  enteric 
+
+infections associated with diarrheagenic Escherichia coli. J. Clin. Microbiol. 2004, 42, 1787–1789. 
+
+31.  Cagney, C.H.; Crowley, G.; Duffy, J.J.; Sheridan, S.; O’Brien, E.; Carney, W.M.; Anderson, D.A.; 
+Dowell, I.; Blair, S.; Bisho, R.H. Prevalence and numbers of Escherichia coli O157:H7 in minced 
+beef  and  beef  burgers  from  butcher  shops  and  supermarkets  in  the  Republic  of  Ireland.  
+J. Food Microbiol. 2004, 21, 203–212. 
+
+32.  Dozois,  C.M.;  Curtiss,  R.,  3rd.  Pathogenic  diversity  of  Escherichia  coli  and  the  emergence  of 
+
+exotic’ islands in the gene stream. Vet. Res. 1999, 30, 157–179. 
+
+33.  Odonkor, S.T.; Ampofi, J.K. Escherichia coli as an indicator of bacteriological quality of water: 
+
+An overview. Microbiol. Res. 2013, 4, 1–11. 
+
+34.  Farzan,  A.;  Friendship,  R.M.;  Cook,  A.;  Pollari,  F.  Occurrence  of  Salmonella,  Campylobacter, 
+Yersinia enterocolitica, Escherichia coli O157 and Listeria monocytogenes in swine. Zoonoses Public 
+Health 2010, 57, 388–396. 
+
+35.  Oliver, S.P.; Jayarao, B.M.; Almedia, R.A. Food borne pathogens in milk and the dairy environment 
+
+food safety and public health implications. Foodborne Pathog. Dis. 2005, 2, 1115–1129. 
+
+36.  Collins,  C.H.;  Lyne,  P.M.;  Grange,  J.  Microbiological  Methods;  Collins,  C.H.,  Lyne,  P.M., 
+
+Grange, J., Falkinham III, J. O., Eds.; Butterworth-Heinemann: London, UK, 1995. 
+
+37.  Guh, A.; Phan, Q.; Nelson, R.; Purviance, K.; Milardo, E.; Kinney, S.; Mshar, P.; Kasacek, W.; 
+Cartter,  M.  Outbreak  of  Escherichia  coli  O157  associated  with  raw  milk,  Connecticut,  2008.  
+Clin. Infect. Dis. 2010, 51, 1411–1417.  
+
+38.  Okoh,  A.I.;  Osode,  A.N.  Enterotoxigenic  Escherichia  coli  (ETEC):  A  recurring  decimal  in 
+
+infants’ and travelers’ diarrhea. Rev. Environ. Health 2008, 23, 135–148. 
+
+39.  Blum,  S.;  Sela,  N.;  Heller,  E.D.;  Sela,  S.;  Leitner,  G.  Identification  of  a  bovine  mastitis 
+
+Escherichia coli subset. Vet. Microbiol. 2008, 132, 135–148. 
+
+40.  Wenz, J.R.; Barrington, G.M.; Garry, F.B.; Ellis, R.P.; Magnuson, R.J. Escherichia coli isolates 
+serotypes,  genotypes,  and  virulence  genes  and  clinical  coliform  mastitis  severity.  J.  Dairy  Sci. 
+2006, 89, 3408–3412. 
+
+41.  Altalhi,  A.D.;  Hassan,  S.A.  Bacterial  quality  of  raw  milk  investigated  by  Escherichia  coli  and 
+
+isolates analysis for specific virulence-gene markers. Food Control 2009, 20, 913–917.  
+
+42.  Ghanbarpour,  R.;  Oswald,  E.  Phylogenetic  distribution  of  virulence  genes  in  Escherichia  coli 
+
+isolated from bovine mastitis in Iran. Res. Vet. Sci. 2010, 88, 6–10. 
+
+43.  Bean, A.; Williamson, J.; Cursons, R.T. Virulence genes of Escherichia coli strains isolated from 
+
+mastitic milk. J. Vet. Med. B-Infect. Dis. Vet. Public Health 2004, 51, 285–287. 
+
+ 
+
+Int. J. Environ. Res. Public Health 2014, 11 
+ 
+44.  Dogan,  B.;  Klaessig,  S.;  Rishniw,  M.;  Almeida,  R.A.;  Oliver,  S.P.;  Simpson,  K.;  Schukken,  Y.H. 
+Adherent and invasive Escherichia coli are associated with persistent bovine mastitis. Vet. Microbiol. 
+2006, 116, 270–282. 
+
+11962 
+
+45.  Kumar,  A.;  Grover,  S.;  Batish,  B.K.  Application  of  multiplex  PCR  assay  based  on  uidR  and 
+fliCH7  genes  for  detection  of  Escherichia  coli  O157:H7  in  milk.  J.  General  Appl.  Microbiol. 
+2013, 59, 11‒19. 
+
+46.  Osode, A.N.; Okoh, A.I. Survival of free-living and plankton-associated Escherichia coli in the 
+final effluents of a waste water treatment facility in a peri-urban community of the Eastern Cape 
+Province of South Africa. Afr. J. Micobiol. Res. 2010, 4, 1424–1432. 
+
+47.  Bettelheim, K.A. Role of non-O157 VTEC. J. Appl. Microbiol. 2000, 88, S38–S50. 
+48.  Elliott, E.J.; Robins-Browne, R.M.; O’Loughlin, E.V.; Bennett-Wood, V.; Bourke, J.; Henning, P.; 
+Hogg, G.G.; Knight, J.; Pouch, H.; Redmond, D. Nationwide study of haemolytic uraemic syndrome: 
+Clinical, microbiological, and epidemiological features. Arch. Dis Child. 2001, 85, 125–131. 
+
+49.  Murinda,  S.E.;  Nguyen,  L.T.;  Man,  H.M.;  Almedia,  R.A.  Detection  of  sorbitol  negative  
+coli,  Listeria  monocytogenes,  
+and 
+Campylobacter jejuni and Salmonella species in dairy farm environments. Foodborne Pathog. Dis. 
+2004, 1, 97–104. 
+
+toxin-producing  Escherichia 
+
+sorbitol-positive 
+
+shiga 
+
+50.  Ruan, X.; Crupper, S.S.; Schultz, B.D.; Robertson, D.C.; Zhang, W. Escherichia coli expressing 
+EAST1 toxin did not cause an increase of cAMP or cGMP levels in cells, and no diarrhea in 5-day 
+old gnotobiotic pigs. PLoS One 2012, doi:10.1371/journal.pone.0043203. 
+
+51.  Frank,  V.;  Hahn,  G.;  Tolle,  A.  Incidence and  identification  of  enterotoxigenic  Escherichia  coli 
+
+strains in milk and milk products. Zentral. Bakteriol. Microbiol. Hyg. 1984, 257, 51–59. 
+
+52.  Ericsson, C.D. Travelers’ diarrhea. Int. J. Antimicrobial Agents 2003, 21, 116–124. 
+53.  Foodborne Disease Outbreaks: Guidelines for Investigation and Control; World Health Organization: 
+
+Geneva, Switzerland, 2007; p. 21. 
+
+54.  Evans, D.J.; Evans, D.G., Jr. Colonization factor antigens of human pathogens. Current topics—
+
+Escherichia coli in diarrheal disease. Microbiol. Immun. 1990, 151, 129–145. 
+
+55.  Gordillo, M.E.; Reeve, G.R.; Pappas, J.; Mathewson, J.J.; DuPont, H.L.; Murray, B.E. Molecular 
+characterization of strains of enteroinvasive Escherichia coli O143, including isolates from a large 
+outbreak in Houston, Texas. J. Clin. Microbiol. 1992, 30, 889–893. 
+
+56.  Marier, R.; Wells, J.G.; Swanson, R.C.; Dalthan, W.; Mehlman, I.J. An outbreak of enteropathogenic 
+Escherichia coli food borne disease traced to imported French cheese. Lancet 1973, 302, 1376–1378. 
+57.  Harris, J.R.; Mariano, J.; Wells, J.G.; Payne, B.J.; Donnell, H.D.; Cohen, M.L. Person-to-person 
+transmission  in  an  outbreak  of  enteroinvasive  Escherichia  coli.  Amer.J.  Epidemol.  1985,  122, 
+245–252. 
+
+58.  Todar, K. Pathogenic Escherichia coli. In Todar’s Online Textbook on Bacteriology; Department 
+
+of Bacteriology, University of Wisconsin: Madison, WI, USA, 2008. 
+
+59.  Lan,  R.;  Alles,  M.C.;  Donohoe,  K.;  Martinez,  M.B.;  Reeves,  P.R.  Molecular  evolutionary 
+relationships  of  enteroinvasive  Escherichia  coli  and  Shigella  spp.  Infect.  Immun.  2004,  72,  
+5080–5088.  
+ 
+
+ 
+
+ 
+
+Int. J. Environ. Res. Public Health 2014, 11 
+ 
+60.  Kahali,  S.;  Sarkar,  B.;  Rajendran,  K.;  Khanam,  J.;  Nandy,  S.R.K.;  Bhattacharya,  S.K.; 
+Ramamurthy,  T.  Virulence  characteristics  and  molecular  epidemiology  of  enteroaggregative 
+Escherichia coli isolates from hospitalized diarrheal patients in Kolkata, India. J. Clin. Microbiol. 
+2004, 42, 4111–4120. 
+
+11963 
+
+61.  Yamamoto, T.; Nakazawa, M. Detection and sequences of the Enteroaggregative Escherichia coli 
+heat-stable enterotoxin 1 gene in enterotoxigenic E. coli strains isolated from piglets and calves 
+with diarrhea. J. Clin. Microbiol. 1997, 35, 223–227. 
+
+62.  Vallance,  B.A.;  Finlay,  B.B.  Exploitation  of  host  cells  by  enteropathogenic  Escherichia  coli.  
+
+Proc. Nat. Acad. Sci. USA 2000, 97, 8799–8806. 
+
+63.  Bugarel, M.; Martin, A.; Fach, P.; Beutin, L. Virulence profiling of enterohemorrhagic (EHEC) 
+and enteropathogenic (EPEC) Escherichia coli strains: A basis of molecular risk assessment of 
+atypical and typical EPEC strains. BMC Micobiol. 2011, 11, doi:10.1186/1471-2180-11-142 
+
+64.  Aleixo, J.A.; Aver, G.P. Prevalence of enteropathogenic and enterotoxigenic Escherichia coli in 
+
+foods of animal origin in southern Brazil. Ciência. Rural 1996, 26, 1121–1129. 
+
+65.  Adesiyun, A.; Webb, L.; Romain, H.; Kaminjolo, J. Prevalence and characteristics of strains of 
+Escherichia coli isolated from milk and feces of cows on dairy farms in Trinidad. J. Food Protect. 
+1997, 60, 174–181. 
+
+66.  Holko,  I.;  Bisova,  T.;  Holkova,  Z.;  Kmet,  V.  Virulence  markers  of  Escherichia  coli  strains 
+isolated from traditional cheeses made from unpasteurised sheep milk in Slovakia. Food Control 
+2006, 17, 393–396. 
+
+67.  Zuber,  M.  E.  coli:  Serotypes  other  than  O157:H7;  MSPH  DOH,  Regional  Epidemiologist: 
+
+Tallahasse FL, USA, 1999. 
+
+68.  Tennant,  S.M.;  Tauschek,  M.;  Azzopardi,  K.;  Bigham,  A.;  Bennett-Wood,  V.;  Hartland,  E.L.;  
+Qi,  W.;  Whittam,  T.S.;  Robins-Browne,  R.M.  Characterization  of  atypical  enteropathogenic  
+E. coli strains of clinical origin. BMC Microbiol. 2009, 9, doi:10.1186/1471-2180-9-117.  
+
+69.  Dogan, B.; Rishniw, M.; Bruant, G.; Harel, J.; Schukken, Y.H.; Simpson, K.W. Phylogroup and 
+lpfA influence epithelial invasion by mastitis associated Escherichia coli. Vet. Microbiol. 2012, 
+159, 163–170. 
+
+70.  Alteri, C.J.; Hagan, E.C.; Sivick, K.E.; Smith, S.N.; Mobley, H.L.T. Mucosal immunization with 
+iron  receptor  antigens  protects  against  urinary  tract  infection.  PLoS  Pathog.  2009,  5, 
+doi:10.13711/journal.ppat.1000586.  
+
+©  2014  by  the  authors;  licensee  MDPI,  Basel,  Switzerland.  This  article  is  an  open  access  article 
+distributed  under 
+license 
+(http://creativecommons.org/licenses/by/4.0/). 
+
+the  Creative  Commons  Attribution 
+
+the 
+
+terms  and  conditions  of 
+
+ 
+
+

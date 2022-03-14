@@ -1,0 +1,512 @@
+ARTICLE IN PRESS
+
+International Journal of Antimicrobial Agents ■■ (2016) ■■–■■
+
+Contents lists available at ScienceDirect
+
+International Journal of Antimicrobial Agents
+
+journal homepage: www.elsevier.com/locate/ijantimicag
+
+Short Communication
+Characterisation of multidrug-resistant Shiga toxin-producing
+Escherichia coli cultured from pigs in China: co-occurrence of
+extended-spectrum β-lactamase- and mcr-1-encoding genes
+on plasmids
+Li Bai a, Daniel Hurley b, Juan Li c, Qiong Meng d, Juan Wang e, Séamus Fanning a,b,*,1,
+Yanwen Xiong c,**
+a Key Laboratory of Food Safety Risk Assessment, Ministry of Health, China National Center for Food Safety Risk Assessment, Beijing, China
+b UCD–Centre for Food Safety, School of Public Health, Physiotherapy and Sports Science, University College Dublin, Belﬁeld, Dublin 4, Ireland
+c Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, State Key Laboratory for Infectious Disease Prevention and Control,
+National Institute for Communicable Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Changping, Beijing, China
+d Zhejiang Provincial Center for Disease Control and Prevention, Zhejiang, China
+e College of Veterinary Medicine, Northwest A&F University, No. 22 Xinong Road, Yangling, Shaanxi 712100, China
+
+A R T I C L E
+
+I N F O
+
+A B S T R A C T
+
+Article history:
+Received 21 April 2016
+Accepted 25 June 2016
+
+Keywords:
+Shiga toxin-producing Escherichia coli
+STEC
+Colistin resistance
+Food-producing animals
+mcr-1
+China
+
+Identiﬁcation of Enterobacteriaceae harbouring the plasmid-mediated transferable colistin resistance gene
+mcr-1 presents a new challenge to public health. The aim of this study was to characterise multidrug-
+resistant Shiga toxin-producing Escherichia coli (STEC) harbouring the mcr-1 gene on plasmids cultured
+from pigs in China. Using CHROMagar™ ECC plates combined with stx gene detection by PCR, 93 STEC
+were recovered from 326 faecal, 351 small intestine content and 326 colon content samples taken from
+healthy pigs in 2011 and 2012 in China. This study, in which ten colistin-resistant isolates with minimum
+inhibitory concentrations (MICs) of 8–12 mg/L were identiﬁed and found to be positive by PCR for the
+mcr-1 gene, is a follow-up to an earlier investigation. Plasmid proﬁling by S1-nuclease digestion followed
+by pulsed-ﬁeld gel electrophoresis (PFGE) identiﬁed several high-molecular-weight plasmids and these
+were typed by PCR-based replicon typing (PBRT). Two of the ten isolates, namely STEC-CQ09 (O116:H11/
+CC23/ST88) and CQ10 (O2:H32/ST3628), were selected for further study as described in this report.
+
+© 2016 Elsevier B.V. and International Society of Chemotherapy. All rights reserved.
+
+1. Introduction
+
+Plasmids carrying antimicrobial resistance-encoding genes
+can arise from multiple sources and be disseminated by horizon-
+tal gene transfer. This feature limits the available chemotherapeutic
+treatment options, leading to an ever-increasing reliance on
+compounds such as tigecycline and colistin. The increase in
+
+* Corresponding author. Key Laboratory of Food Safety Risk Assessment,
+Ministry of Health, China National Center for Food Safety Risk Assessment, Beijing,
+China. Fax: +353-1 716 2869.
+
+E-mail address: sfanning@ucd.ie (S. Fanning).
+
+** Corresponding author. Collaborative Innovation Center for Diagnosis and
+Treatment of Infectious Diseases, State Key Laboratory for Infectious Disease
+Prevention and Control, National Institute for Communicable Disease Control and
+Prevention, Chinese Center for Disease Control and Prevention, Changping, Beijing,
+China. Fax: +86 10 5890 0748.
+
+E-mail address: xiongyanwen@icdc.cn (Y. Xiong).
+
+1 Present address: UCD–Centre for Food Safety, University College Dublin, Room
+
+S1.04, Belﬁeld, Dublin D04 N2E5, Ireland.
+
+carbapenemase-producing Enterobacteriaceae has resulted in a
+greater reliance on the use of polymyxin B and polymyxin E (co-
+listin), with the inevitable risk of emerging resistance among bacteria
+[1]. Colistin belongs to the family of polymyxins, which are cat-
+ionic polypeptides, that target the lipid A component of the
+lipopolysaccharide (LPS) structure. These compounds have a broad
+spectrum of activity against Gram-negative bacteria [1]. Colistin is
+indicated for use in food-producing animals and very low rates of
+resistance have been reported. Where resistance does arise, asso-
+ciated mechanisms, until recently, have been mediated by
+chromosomally located genes (e.g. pmrAB, phoPQ and its negative
+regulator mgrB) [2]. A transferrable colistin resistance-encoding gene,
+mcr-1, has been detected in food, animals and humans in different
+species across the word [1,3–6]. Considering the importance of co-
+listin in the treatment in human infections and its use in food-
+producing animals in China and elsewhere, identiﬁcation of the mcr-1
+gene in food-producing animals presents a new challenge to vet-
+erinary public health.
+
+Shiga toxin-producing Escherichia coli (STEC) is recognised as an
+important human pathogen causing diarrhoea, haemorrhagic colitis
+
+http://dx.doi.org/10.1016/j.ijantimicag.2016.06.021
+0924-8579/© 2016 Elsevier B.V. and International Society of Chemotherapy. All rights reserved.
+
+Please cite this article in press as: Li Bai, et al., Characterisation of multidrug-resistant Shiga toxin-producing Escherichia coli cultured from pigs in China: co-occurrence of extended-
+spectrum β-lactamase- and mcr-1-encoding genes on plasmids, International Journal of Antimicrobial Agents (2016), doi: 10.1016/j.ijantimicag.2016.06.021
+
+2
+
+L. Bai et al. / International Journal of Antimicrobial Agents ■■ (2016) ■■–■■
+
+ARTICLE IN PRESS
+
+and haemolytic–uraemic syndrome [7]. Swine play an important
+role as a carrier of this pathogen [8]. In this study, 93 STEC iso-
+lates were retrospectively assessed for the presence of the mcr-1
+gene by PCR [1]. The MCR-1 resistance mechanism appears to have
+spread to extended-spectrum β-lactamase (ESBL)-producing STEC
+cultured from pigs.
+
+2. Materials and methods
+
+2.1. Bacterial study collection
+
+In an earlier study, 93 STEC were collected from 326 faecal, 351
+small intestine content and 326 colon content samples taken from
+healthy pigs between May 2011 and August 2012 at sites located
+in Beijing, Chongqing and Guizhou Province in China. One gram of
+each sample was enriched in 5 mL of modiﬁed tryptone soya broth
+supplemented with novobiocin (10 mg/L) (Oxoid Ltd., Basingstoke,
+UK) and was incubated at 37 °C for 18–24 h. Isolation of STEC micro-
+organisms was carried out using CHROMagar™ ECC plates
+(CHROMagar, White City, OR) combined with the stx PCR detec-
+tion method [8].
+
+2.2. Detection of the mcr-1 gene by standard PCR
+
+Primers for the mcr-1 gene as described previously were used
+
+to screen the study isolates [1].
+
+2.3. Antimicrobial susceptibility testing
+
+Antimicrobial susceptibility testing was performed for all mcr-
+1-positive isolates by agar disk diffusion (Oxoid Ltd.; Thermo Fisher
+Scientiﬁc Inc.). The minimum inhibitory concentration (MIC) of co-
+listin (Sigma, St Louis, MO) was determined by broth dilution
+according the European Committee on Antimicrobial Susceptibil-
+ity Testing (EUCAST) (http://www.eucast.org; accessed 22 March
+2016). E. coli ATCC 25922 was included as a quality control strain.
+Results were interpreted according to the criteria of the Clinical and
+Laboratory Standards Institute (CLSI) [9] and EUCAST.
+
+2.4. Plasmid proﬁling
+
+Plasmid DNA proﬁles of ten colistin-resistant STEC isolates and
+their corresponding transconjugants were obtained using the S1-
+nuclease pulsed-ﬁeld gel electrophoresis (PFGE) molecular subtyping
+method [10].
+
+2.5. PCR-based replicon typing (PBRT)
+
+Eighteen pairs of primers were used to determine the plasmid
+incompatibility (Inc) types by PBRT using puriﬁed genomic DNA as
+template [11].
+
+2.6. Conjugation-based mating experiments and veriﬁcation
+
+Two of the mcr-1-positive STEC isolates (STEC-CQ09 and -CQ10)
+were selected for conjugation experiments and were analysed in-
+dividually for their ability to transfer the colistin resistance gene
+to the plasmid-free recipient E. coli J53 (sodium azide-resistant). Con-
+jugation experiments were carried out using a broth mating protocol
+[10]. Antimicrobial susceptibility tests were again performed to
+conﬁrm plasmid transfer, followed by S1-nuclease PFGE, PBRT and
+PCR as described previously.
+
+2.7. Whole-genome sequencing (WGS) and phylogenetic analysis
+
+Genomic DNA was sequenced using an Illumina HiSeq 2500 plat-
+form (Illumina, San Diego, CA) generating 90-bp paired-end reads
+from a library with an average insert size of 500 bp and a total
+amount of quality-ﬁltered raw sequence of >550 Mbp per isolate.
+Reads were assembled de novo using SOAPdenovo v.2.04 [12]. The
+core genome-based phylogeny was determined by Harvest Suite [13]
+and a maximum composite likelihood phylogenetic tree was
+generated by MEGA v.6 software (http://www.megasoftware.net/)
+using E. coli MG1655 as reference. Accession numbers were as-
+signed as follows: FLOA01000000 (STEC-CQ09); and FLOF01000000
+(STEC-CQ10).
+
+3. Results and discussion
+
+Among the previous isolate collection of 93 STEC, 10 colistin-
+resistant isolates were identiﬁed and were denoted as STEC-
+CQ01, -CQ02, -CQ03, -CQ04, -CQ05, -CQ06, -CQ07, -CQ08, -CQ09,
+-CQ10. The mcr-1 gene was identiﬁed by PCR in all ten of these iso-
+lates. The colistin-resistant isolates were additionally resistant to
+several compounds in different antimicrobial classes including
+aminoglycosides, aminopenicillins, cephalosporins, ﬂuoroquinolones,
+phenicols, tetracyclines, trimethoprim and sulphonamides (Table 1).
+S1-nuclease-based PFGE proﬁling experiments identiﬁed small and
+large plasmids ranging in size from 40 kbp to 250 kbp in the ten
+colistin-resistant isolates, of which STEC-CQ01, -CQ02, -CQ03, -CQ04,
+-CQ05, -CQ06, -CQ07, -CQ08 and -CQ10 had an indistinguishable
+
+Table 1
+Characteristics of colistin-resistant Shiga toxin-producing Escherichia coli (STEC) isolated from pig faecal samples and their phylogenetic group, sequence type (ST), plasmid
+content and incompatibility (Inc) group(s) along with their antimicrobial resistance proﬁles and minimum inhibitory concentration (MIC) to colistin.
+
+STEC isolate
+
+Phylogroup
+
+ST
+
+Plasmid(s)
+(kbp)
+
+PBRT based on
+WGS
+
+ESBL type
+
+Antimicrobial
+resistance proﬁle
+
+Colistin MIC
+(mg/L)
+
+CQ09 (O116:H11)
+
+A
+
+ST88
+
+CQ10 (O2:H32)a
+
+A
+
+ST3628
+
+241, 224, 206,
+186, 90, 68, 44
+
+248, 124, 94,
+66
+
+IncI2, IncHI2,
+IncHI2A, IncA/C,
+IncFIB, IncFIC,
+IncX1, IncFII
+
+IncFIC, IncHI2,
+IncHI2A, IncN,
+IncFIB, IncX4
+
+CTX-M-55
+
+CTX-M-65
+
+AMC, AMP, ATM, CHL,
+CIP, CRO, COL, CTX,
+CXM, NIT, FEP, KAN, KF,
+NAL, NOR, PIP, STR,
+SAM, SXT, TET
+AMP, ATM, CHL, CRO,
+COL, CTX, CXM, NIT,
+KAN, KF, NAL, PIP, STR,
+SXT, TET
+
+12
+
+8
+
+Additional resistance
+determinants identiﬁed based
+on WGS
+
+aadA1, aadA2, aph(3′)-Ia, strAB,
+sul1, sul2, sul3, tet(A), dfrA12,
+ermB, mphA, cmlA1, ﬂoR
+
+aadA1, aadA2, aph(3′)-Ia, strAB,
+tet(A), dfrA12, dfrA14, cmlA1,
+ﬂoR, qnrS1, oqxA
+
+PBRT, PCR-based replicon typing; WGS, whole-genome sequencing; ESBL, extended-spectrum β-lactamase; AMC, amoxicillin/clavulanic acid; AMP, ampicillin; ATM, aztreonam;
+CHL, chloramphenicol; CIP, ciproﬂoxacin; CRO, ceftriaxone; COL, colistin; CTX, cefotaxime; CXM, cefuroxime; NIT, nitrofurantoin; FEP, cefepime; KAN, kanamycin; KF, cefalotin;
+NAL, nalidixic acid; NOR, norﬂoxacin; PIP, piperacillin; STR, streptomycin; SAM, ampicillin/sulbactam; SXT, trimethoprim/sulfamethoxazole; TET, tetracycline.
+
+a STEC-CQ01, -CQ02, -CQ03, -CQ04, -CQ05, -CQ06, -CQ07 and -CQ08 had the same phylogroup, ST, plasmids, ESBL type, antimicrobial resistance proﬁle and colistin MIC
+
+as STEC-CQ10.
+
+Please cite this article in press as: Li Bai, et al., Characterisation of multidrug-resistant Shiga toxin-producing Escherichia coli cultured from pigs in China: co-occurrence of extended-
+spectrum β-lactamase- and mcr-1-encoding genes on plasmids, International Journal of Antimicrobial Agents (2016), doi: 10.1016/j.ijantimicag.2016.06.021
+
+ARTICLE IN PRESS
+
+L. Bai et al. / International Journal of Antimicrobial Agents ■■ (2016) ■■–■■
+
+3
+
+plasmid proﬁle (data not shown). Similarly, data from the previ-
+ous study showed that nine of the ten colistin-resistant isolates had
+the same sequence types (STs) and produced near indistinguish-
+able pulsotypes following macrorestriction analysis (data not shown).
+Based on these results, STEC-CQ09 (O116:H11/CC23/ST88) and STEC-
+CQ10 (O2:H32/ST3628) were selected for further investigation,
+including conjugation-based mating experiments and WGS fol-
+lowed by subsequent data mining for selected features.
+
+Broth microdilution was used to determine the MIC of colistin
+and MICs values of 8–12 mg/L were recorded (Table 1). The genome
+sequences of STEC-CQ09 and -CQ10 isolates were queried for the
+presence of the mcr-1 gene and both were found to possess this gene;
+a feature that was conﬁrmed by use of a previously described PCR
+assay [1]. The mcr-1 gene sequence was located in the same genetic
+context as that previously reported, being distal to insertion se-
+quence element ISApl1 (Supplementary Figs S1 and S2). Analysis of
+the sequence data obtained from STEC-CQ09 and -CQ10 separate-
+ly identiﬁed a 1626-bp contig that contained the mcr-1-encoding
+gene and that was a perfect match with the structure reported by
+Liu et al [1]. The colistin resistance genes of STEC-CQ09 and -CQ10
+were successfully transferred by conjugation into sodium azide-
+resistant E. coli J53. The transfer frequency for STEC-CQ09 was
+1.6 × 10–2, which is similar to that reported previously [1], but was
+lower in the case of STEC-CQ10 (2.2 × 10–7). Analysis of the plasmid
+proﬁles in these transconjugants identiﬁed an IncI2 replicon type
+in the STEC-CQ09(T) transconjugant and IncN and IncHI2 replicon
+types in the STEC-CQ10(T) transconjugant. Additional mutations in
+other genes reported to be associated with colistin resistance were
+also identiﬁed, including the two-component sensor systems phoP/
+phoQ and pmrA/pmrB, and in the case of STEC-CQ09 mutations were
+detected in the phosphatidylethanolamine transferase-encoding eptB
+gene that mediates modiﬁcation of the outer Kdo (3-deoxy-d-
+manno-octulosonic acid) monosaccharides of LPS [2].
+
+One of the isolates (STEC-CQ09) was found to be resistant to most
+of the drug classes tested (Table 1). Based on WGS, several resistance-
+encoding genes were identiﬁed and these included: AmpC
+β-lactamases encoded by blaCMY-2, blaCFE-1 in STEC-CQ09 and blaCMY-104
+in STEC-CQ10; and EBSL-encoding genes including blaCTX-M-55 in STEC-
+CQ09 and blaCTX-M-65 with blaTEM-1 in STEC-CQ10, which has been
+reported in other countries among different Enterobacteriaceae along
+with co-resistance to other antimicrobial compounds such as ESBLs
+or metallo-β-lactamases [4,14,15]. Data obtained from PCR-based
+genotyping assays [10] carried out on the remaining eight isolates
+showed that these carried the same ESBL genes as identiﬁed in STEC-
+CQ10. Streptomycin resistance-encoding genes strAB were also found
+along with aadA1, aadA2 and aph(3′)-Ia in both of the sequenced
+isolates; as well as sulphonamide resistance encoded by sul1 and
+sul3 along with sul2 in STEC-CQ09; and tetracycline resistance encoded
+by tet(A) in both isolates. Genotypes associated with trimethoprim
+resistance were encoded by dfrA12 in both isolates along with dfrA14
+in STEC-CQ10. The ermB and mphA genes were identiﬁed in STEC-
+CQ09, which encode resistance to erythromycin. Two phenicol
+resistance eﬄux transporters cmlA1 and ﬂoR were identiﬁed in all
+isolates and the latter gene has also been reported in an mcr-1 E. coli
+isolate [16], where it was located distal to the IS6100 element in
+STEC-CQ09, a feature that has been previously reported and one that
+may contribute to the dissemination of this genotype, following use
+of this compound in swine production. All ten colistin-resistant iso-
+lates were co-resistant to nalidixic acid, and in the case of STEC-
+CQ09, this isolate was additionally resistant to ciproﬂoxacin and
+norﬂoxacin (Supplementary Table S1) with mutations being iden-
+tiﬁed in target genes associated with the type II topoisomerase-
+encoding genes (gyrA, parC and parE). In the case of STEC-CQ10, two
+plasmid-mediated quinolone resistance (PMQR) determinants (qnrS1
+and oqxA) were identiﬁed, which were also reported to be co-
+located on the mcr-1 plasmid in one isolate from Vietnam [17].
+
+Both of the sequenced isolates were found to carry virulence-
+encoding genes, including stx2e and ehxA, along with the fedF-
+encoding gene that is responsible for the production of adhesive
+ﬁmbriae. In addition, the sepA gene was one of the plasmid pAA-
+encoded virulence genes found in STEC-CQ10. Other virulence-
+related genes identiﬁed included the sta- and stb-encoding genes
+(which elaborate the component elements of the heat-stable toxin)
+and the lpfA gene that encodes ﬁmbrial adhesins, both of which were
+identiﬁed in the genome of STEC-CQ09 alone.
+
+4. Conclusion
+
+Liu et al identiﬁed the plasmid-borne gene mcr-1 encoding re-
+sistance to colistin with a high prevalence among E. coli isolates
+cultured from pig populations in China [1]. This same gene has sub-
+sequently been reported in other countries among different
+Enterobacteriaceae along with co-resistance to other antimicro-
+bial compounds such as ESBLs or metallo-β-lactamases [4,14,15].
+The outbreak reported in 2011, which was ﬁrst detected in Germany,
+was linked to STEC O104 that contained an ESBL complex (CTX-M-
+15) and β-lactamase-encoding TEM-1 [7]. Of note, in this study, STEC-
+CQ09 and -CQ10 were both positive for stx2e and fedF together with
+being phenotypically resistant to ESBLs and colistin. Although STEC
+harbouring stx2e affects animals and rarely causes illness in humans
+[18], assessment of the transfer frequencies and features support-
+ing the maintenance of mobile genetic elements containing the mcr-1
+gene in human-associated E. coli and other Gram-negative patho-
+gens is crucial to fully delineate the impact of these ﬁndings. These
+data also highlight the need to monitor the use of colistin in the
+treatment of both human and animal populations as well as the need
+for active resistance surveillance to support improvements in in-
+fection control practices to limit its further dissemination.
+
+Funding: This work was supported by the National Natural Science
+Foundation of China [81402685] and the Beijing Talents Fund
+[2015000021223ZK35].
+
+Competing interests: None declared.
+Ethical approval: Not required.
+
+Appendix. Supplementary data
+
+Supplementary data associated with this article can be found,
+
+in the online version, at doi:10.1016/j.ijantimicag.2016.06.021.
+
+References
+
+[1] Liu YY, Wang Y, Walsh TR, Yi LX, Zhang R, Spencer J, et al. Emergence of
+plasmid-mediated colistin resistance mechanism MCR-1 in animals and human
+beings in China: a microbiological and molecular biological study. Lancet Infect
+Dis 2016;16:161–8.
+
+[2] Olaitan AO, Morand S, Rolain JM. Mechanisms of polymyxin resistance: acquired
+
+and intrinsic resistance in bacteria. Front Microbiol 2014;5:643.
+
+[3] Suzuki S, Ohnishi M, Kawanishi M, Akiba M, Kuroda M. Investigation of a
+plasmid genome database for colistin-resistance gene mcr-1. Lancet Infect Dis
+2016;16:284–5.
+
+[4] Falgenhauer L, Waezsada SE, Yao Y, Imirzalioglu C, Kasbohrer A, Roesler U, et al.
+Colistin resistance gene mcr-1 in extended-spectrum β-lactamase-producing
+and carbapenemase-producing Gram-negative bacteria in Germany. Lancet
+Infect Dis 2016;16:282–3.
+
+[5] Hasman H, Hammerum AM, Hansen F, Hendriksen RS, Olesen B, Agerso Y,
+et al. Detection of mcr-1 encoding plasmid-mediated colistin-resistant
+Escherichia coli isolates from human bloodstream infection and imported
+chicken meat, Denmark. Euro Surveill 2015;2015:20. doi:10.2807/1560-
+7917.ES.2015.20.49.30085.
+
+[6] Olaitan AO, Chabou S, Okdah L, Morand S, Rolain JM. Dissemination of the mcr-1
+
+colistin resistance gene. Lancet Infect Dis 2016;16:147.
+
+[7] Frank C, Werber D, Cramer JP, Askar M, Faber M, an der Heiden M, et al.
+Epidemic proﬁle of Shiga-toxin-producing Escherichia coli O104:H4 outbreak
+in Germany. N Engl J Med 2011;365:1771–80.
+
+[8] Meng Q, Bai X, Zhao A, Lan R, Du H, Wang T, et al. Characterization of Shiga
+toxin-producing Escherichia coli isolated from healthy pigs in China. BMC
+Microbiol 2014;14:5.
+
+Please cite this article in press as: Li Bai, et al., Characterisation of multidrug-resistant Shiga toxin-producing Escherichia coli cultured from pigs in China: co-occurrence of extended-
+spectrum β-lactamase- and mcr-1-encoding genes on plasmids, International Journal of Antimicrobial Agents (2016), doi: 10.1016/j.ijantimicag.2016.06.021
+
+4
+
+L. Bai et al. / International Journal of Antimicrobial Agents ■■ (2016) ■■–■■
+
+ARTICLE IN PRESS
+
+[9] Clinical and Laboratory Standards Institute. Performance standards for
+antimicrobial susceptibility testing; twenty-fourth informational supplement.
+Document M100-S24. Wayne, PA: CLSI; 2014.
+
+[10] Bai L, Zhao J, Gan X, Wang J, Zhang X, Cui S, et al. Emergence and diversity of
+Salmonella enterica serovar Indiana isolates with concurrent resistance to
+ciproﬂoxacin and cefotaxime from patients and food-producing animals in
+China. Antimicrob Agents Chemother 2016;60:3365–71.
+
+[11] Carattoli A, Bertini A, Villa L, Falbo V, Hopkins KL, Threlfall EJ. Identiﬁcation
+of plasmids by PCR-based replicon typing. J Microbiol Methods 2005;63:219–28.
+[12] Luo R, Liu B, Xie Y, Li Z, Huang W, Yuan J, et al. SOAPdenovo2: an empirically
+improved memory-eﬃcient short-read de novo assembler. Gigascience
+2012;1:18.
+
+[13] Treangen TJ, Ondov BD, Koren S, Phillippy AM. The Harvest suite for rapid
+core-genome alignment and visualization of thousands of intraspeciﬁc microbial
+genomes. Genome Biol 2014;15:524.
+
+[14] Du H, Chen L, Tang YW, Kreiswirth BN. Emergence of the mcr-1 colistin
+resistance gene in carbapenem-resistant Enterobacteriaceae. Lancet Infect Dis
+2016;16:287–8.
+
+[15] Haenni M, Poirel L, Kieffer N, Chatre P, Saras E, Metayer V, et al. Co-occurrence
+of extended spectrum β lactamase and MCR-1 encoding genes on plasmids.
+Lancet Infect Dis 2016;16:281–2.
+
+[16] Poirel L, Kieffer N, Liassine N, Thanh D, Nordmann P. Plasmid-mediated
+carbapenem and colistin resistance in a clinical isolate of Escherichia coli. Lancet
+Infect Dis 2016;16:281.
+
+[17] Malhotra-Kumar S, Xavier BB, Das AJ, Lammens C, Hoang HT, Pham NT, et al.
+Colistin-resistant Escherichia coli harbouring mcr-1 isolated from food animals
+in Hanoi, Vietnam. Lancet Infect Dis 2016;16:286–7.
+
+[18] Malhotra-Kumar S, Xavier BB, Das AJ, Lammens C, Butaye P, Goossens H. Colistin
+resistance gene mcr-1 harboured on a multidrug resistant plasmid. Lancet Infect
+Dis 2016;16:283–4.
+
+Please cite this article in press as: Li Bai, et al., Characterisation of multidrug-resistant Shiga toxin-producing Escherichia coli cultured from pigs in China: co-occurrence of extended-
+spectrum β-lactamase- and mcr-1-encoding genes on plasmids, International Journal of Antimicrobial Agents (2016), doi: 10.1016/j.ijantimicag.2016.06.021
+
+

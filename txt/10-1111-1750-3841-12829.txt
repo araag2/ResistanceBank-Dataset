@@ -1,0 +1,1411 @@
+Prevalence and Characterization of Salmonella
+Isolated from Chicken Meat in Turkey
+
+Belgin Siriken, Haldun T¨urk, Tuba Yildirim, Belma Durupinar, and Irfan Erol
+
+Abstract: This study was conducted in a Turkish province to investigate the presence of Salmonella spp. in 150 chicken
+meat samples using 2 phenotyping techniques: classic culture technique (CCT) and immunomagnetic separation (IMS).
+For the conﬁrmation of the isolates at molecular levels, invA gene was detected in these isolates. The presence of invA,
+class 1 (Cls1) integrons, and integrase (Int1) genes was demonstrated by PCR assay; and the resistance of the isolated
+Salmonella spp. strains to antibiotics was determined by disk diffusion test. All the cultural and PCR results were evaluated
+together; Salmonella spp. were detected in a total of 64 (42.66%) chicken meat samples. Contamination rate was higher
+in carcasses (53.33%, n = 75) than in meat pieces (32%, n = 75). When results of standard culture were compared with
+IMS technique, IMS (n = 54) showed a clear superiority over the CCT (n = 38). A very high resistance rate (ࣙ89.28%)
+to vancomycin, tetracycline, streptomycin, or nalidixic acid was found. Trimethoprim-sulfamethoxazole resistance was
+present in 32.14%. Relatively lower incidence of resistance (ࣘ8.33%) to gentamicin, chloramphenicol, ampicillin, and
+ceftriaxone was observed. Concurrent resistance to at least 4 antibiotics was detected in 92.85% of the isolates. Cls1
+integrons and Int1 were positive in 80.95% and 95.23% of the isolates, respectively. However, Int1 alone was detected
+in 15.47% (n = 13). In conclusion, the high prevalence of Salmonella spp. in chicken meat may pose a potential public
+health risk, and the presence of antibiotic-resistant Salmonella spp. isolate together with Cls1 integron and/or integrase
+might play an important role in horizontal antibiotic gene transfer.
+
+M
+
+:
+
+Keywords: antibiotic resistance, chicken meat, integron, Salmonella
+
+&
+
+S
+a
+f
+e
+t
+y
+
+l
+
+i
+
+F
+o
+o
+d
+M
+c
+r
+o
+b
+o
+o
+g
+y
+
+i
+
+In this study, the presence of Salmonella spp. in 150 chicken meat samples, the presence of invA,
+Practical Application:
+antibiotic properties, and carriage of class I integrons and integrase genes were investigated. High prevalence of Salmonella
+spp. in consumed chicken meat can risk of public health from several ways due to (i) causing foodborne salmonellosis,
+(ii) multiple antibiotic resistance properties, (iii) potential transfer of drug resistance genes to other members of the
+Enterobacteriaceae and humans via Cls1 integron and/or integrase genes, and (iv) a very high resistance rate to nalidixic
+acid (initial steps of the development of ciproﬂoxacin resistance).
+
+Introduction
+
+Increasing poultry meat production and consumption is associ-
+ated with certain public health problems. Salmonella spp. are also a
+serious safety concern for the food industry particularly for poul-
+try and public health. According to CDC (2007; 2010) data, each
+year nearly one million people are affected through consumption
+of food contaminated with Salmonella spp. (CDC 2011). Similarly,
+EFSA (European Food Safety Authority) (2010) has reported that
+salmonellosis was the most common reported zoonotic disease in
+humans accounting for 131468 conﬁrmed human cases. In the
+same report, Salmonella spp. were most often detected in fresh
+broiler (5.1%), turkey (5.6%), and pig meat (0.7%). Also, many
+studies in Turkey (Erol and others 2004; Efe and G¨um¨us¸soy 2005;
+Yazıcıo˘glu and others 2005; Hadimli and others 2006; Tano˘glu
+
+MS 20141724 Submitted 10/16/2014, Accepted 2/3/2015. Author Siriken is
+with Dept. of Water Products Diseases, Faculty of Veterinary Medicine, Ondokuz
+Mayis Univ., Samsun, Turkey. Author T¨urk is with Ondokuz Mayıs ˙Ilc¸e Gıda ve
+Tarım Hayvancılık M¨ud¨url¨u˘g¨u, H¨uk¨umet Kona˘gı, Ondokuz Mayıs, Samsun, Turkey.
+Author Yildirim is with Dept. of Biology, Faculty of Science, Univ. of Amasya, Amasya,
+Turkey. Author Durupinar is with Dept. of Medical Microbiology, Faculty of Medicine,
+Ondokuz Mayıs Univ., Kurupelit Campus, Samsun, Turkey. Author Erol is President
+of Food Control, Ministry of Food Agriculture and Livestock, Ankara, Turkey. Direct
+inquiries to author Siriken (E-mail: bsiriken@omu.edu.tr; bsiriken@yahoo.com).
+
+2008) and in other countries (Capita and others 2003; Salehi and
+others 2005; Bada-Alambedji and others 2006; Minami and others
+2010; Aslam and others 2012; Kim and others 2012; Ta and others
+2012; Thai and others 2012) have showed a high prevalence (up
+to 88.4%) of contamination with Salmonella spp. in chicken meat
+samples.
+
+In addition to the problem of food-borne salmonellosis, recent
+increase in global antibiotic resistance poses serious public health
+issues and increased economic burden due to increased morbid-
+ity and mortality in animals and humans. In the United States,
+the newly released 10th National Antimicrobial Resistance Mon-
+itoring System (NARMS) report describes alarming increases in
+antibiotic-resistant bacteria found on retail meats. The report has
+also conﬁrmed that 80% of all antibiotics used in the United States
+are used not in humans but on food animals, most of which are
+perfectly healthy (NARMS 2011). Multidrug resistance (MDR) in
+bacteria has been associated with the use of antimicrobials for mul-
+tiple purposes including treatment, prophylaxis (prevention), and
+growth promotion/increased feed efﬁciency in animals (McEwen
+and Fedorka-Cray 2002). Aside these purposes, an overwhelming
+majority of the antibiotics are used in primary animal produc-
+tion. The World Health Organization (2002) has also reported
+that about half of the antimicrobials produced globally is used in
+animal food, and according to data from Europe, approximately
+
+M1044 Journal of Food Science r Vol. 80, Nr. 5, 2015
+
+C(cid:2) 2015 Institute of Food Technologists R(cid:2)
+doi: 10.1111/1750-3841.12829
+Further reproduction without permission is prohibited
+
+Characterization Salmonella chicken meat . . .
+
+100 mg of antimicrobials are used in animals produced for per kg
+of meat for human consumption. Obviously, antimicrobial resis-
+tance in bacteria and the spread of antibiotic resistance via meat
+consumption have potentially serious implications from a global
+public health viewpoint (Ribot and others 2002).
+
+Reservoirs of antibiotic resistance can interact between different
+ecological systems, and potential transfer of resistant bacteria or
+resistant genes from animals to humans may occur through the
+food chain (Witte 2000). In addition, mobile genetic elements
+in Salmonella strains, such as plasmids, transposons, and integrons
+play an important role in the evolution and dissemination of MDR
+(Boyd and others 2002).
+
+Integrons are one of the genetic elements involved in the acqui-
+sition of antibiotic resistance. There are 2 main groups of integrons:
+Mobile integrons (MIs), related to antibiotic resistance cassettes,
+and Chromosomal Integrons (Cls), not related to antibiotic resis-
+tance with a few exceptions (Cambray and others 2010). Mobility
+of MIs is deﬁned as being associated with mobile genetic elements
+(transposons or plasmids). Integrons are thus ideally suited for the
+dissemination and recombination of antimicrobial drug-resistance
+genes. Five different classes (Cls1 to Cls5) of MIs have been de-
+ﬁned based on the sequence of the encoded integrases. Although
+only Cls1, 2, and 3 have been historically involved in the spread of
+multiresistance phenotypes, all 5 classes have been associated with
+antibiotic-resistance determinants. Cls1 integrons are the most
+widespread and clinically important, as they are detected in 22%
+to 59% of Gram-negative clinical isolates (Mazel 2006) and among
+genus of Salmonella (Michael and others 2006). The presence of
+integrase gene (Int1) is known to be an essential part of all inte-
+grons. A functional integrase is necessary to continue the catalytic
+process for the insertion/deletion of gene cassettes (Hanau-Bercot
+and others 2002). It is also known that the presence of integrase
+is potentially indicative of strains capable of recruiting antibiotic
+resistance genes (Di Conza and Gutkind 2010).
+
+The invA gene is speciﬁc for the Salmonella spp. (Chen and
+Grifﬁths 2001), thus, it constitutes a suitable PCR target in di-
+agnostic applications (Rhan and others 1992). In addition to this
+property, it is also a virulence gene. Virulence genes encode prod-
+ucts that assist the organisms in expressing its virulence in the host
+cells. There are several virulent genes (sef, pef, spv, mgtC, sop, stn, pip
+A, B, D, and so on) have been among Salmonella species (Murugkar
+and others 2003) and of these, invA gene, a member of genetic lo-
+cus (Salmonella Pathogenity Island 1-SPI1), allows Salmonella spp.
+to enter cultured epithelial cells. It is the ﬁrst gene of an operon
+consisting of at least 2 additional invasion genes (Gal´an and others
+1992). Lilic and others (2010) reported that the Salmonella pro-
+tein InvA is one of the most highly conserved proteins of this
+core of critical the type III secretion system (T3SS) components.
+A number of Gram-negative bacterial pathogens utilize a highly
+specialized nanomachine termed as the T3SS to achieve a re-
+markable translocation of bacterial proteins across the cytoplasmic
+membranes and directly into the cytoplasm of the host organism
+(Cornelis 2006).
+
+The aim of this study is to investigate (i) the presence of
+Salmonella spp. in chicken meat samples using 2 different methods:
+classic culture technique (CCT) and immunomagnetic separation
+(IMS) technique, and superiority over the other, (ii) to employ
+a conﬁrmatory PCR assay, (iii) to determine antibiotic resistance
+proﬁle of the isolates, and (iv) to detect Cls1 integron and integrase
+genes (Int1) of the isolates.
+
+Materials and Methods
+Sample collection
+
+In the present study, a total of 150 chicken meat samples (75 car-
+casses and 75 pieces of meat) randomly collected from supermar-
+kets in Samsun province between 2008 and 2009 were analyzed.
+The samples represented 12 different chicken meat producers in
+Turkey. All samples were transported under refrigerated conditions
+and were tested immediately for Salmonella spp.
+
+Isolation procedure
+
+For the 2 isolation methods, CCT and IMS, each whole chicken
+carcass was aseptically transferred to a sterile polyethylene bag
+and 225 mL Buffered peptone water (BPW-Oxoid, CM0509,
+Basingstoke, UK) was added to the samples for the pre-enrichment
+step. The carcasses were rinsed for 2 min (Baumgart 1986). Then,
+carcasses were removed aseptically and the remaining rinsate in the
+sampling bags was incubated at 37 ˚C for 24 h. Also, each piece
+of meat samples (25 g) were transferred to a sterile polyethylene
+bag containing 225 mL BPW, then homogenized (Interscience-
+bagmixer 400, Saint Nom, France) and incubated at 37 ˚C for
+24 h. After the incubation, 0.1 mL of pre-enrichment broth was
+added to 10 mL Rappaport Vassiliadis (RV) enrichment broth
+(RV-Broth-Oxoid, CM0669, Basingstoke, UK) and incubated at
+42.5 ˚C for 24 h for selective enrichment. Afterwards, they were
+streaked onto the media for CCT and IMS technique. The cul-
+ture was streaked onto Brilliant green (Modiﬁed) agar (BGA-
+Oxoid CM 329, Suppl. SR 87, Basingstoke, UK) and incubated
+for up to 48 h at 37°C. After the incubation about 5 colonies sus-
+pected of being Salmonella spp. from each plate were selected and
+subcultured onto Tripticase Soy Agar (TSA-Oxoid-CM 131-L21,
+Basingstoke, UK). The IMS procedure was applied using immuno-
+magnetic beads coated with anti-Salmonella antibody (Dynabeads
+anti-Salmonella; Dynal A.S., Norway) according to the manufac-
+turer’s instructions. Brieﬂy, 20 µL of Dynabeads anti-Salmonella
+was added to a 1.5-mL eppendorf tube. Then, 1 mL of selective
+enrichment sample was added to it. The tube was loaded into
+the Dynal Magnetic Concentrator (MPC-S rack) which removed
+the magnetic plate. It was inverted 5 times to mix the sample
+and beads and incubated at room temperature for 10 min. The
+magnetic plate was inserted into the MPCTM-S and 3 min were
+allowed for proper recovery of the beads. After that, the tube cap
+was opened, and the supernatant, as well as the remaining liquid in
+the tube, was aspirated and discarded carefully. The magnetic plate
+from the MPC-S was removed and 1 mL of wash buffer (PBS-
+Tween- Phosphate Buffered Saline in Tween 20, Sigma, P3563)
+was added into each eppendorf tube. The tube’s cap was closed and
+the rack was inverted again several times to resuspend the beads.
+The same procedure was applied 2 more times. At the end of the
+IMS procedure, 100 mL of wash buffer was added to resuspend
+the beads-bacteria complex, and ﬁnally 50 µL of resuspended
+complex was spread onto BGA plates.
+
+Identiﬁcation procedure
+
+tests
+
+(oxidase test,
+
+Colonies were identiﬁed by Gram staining and standard bio-
+chemical
+iron agar-CM277;
+lysine iron agar-CM 381; urease test-urea Agar, CM 53; Sim-
+mons citrate-CM155, and ONPG-disc- DD13 ONPG). All the
+media that was used were provided by Oxoid Ltd., Basingstoke,
+United Kingdom. Presence of Salmonella spp. in the samples was
+
+triple sugar
+
+Vol. 80, Nr. 5, 2015 r Journal of Food Science M1045
+
+l
+
+i
+
+y
+g
+o
+o
+b
+o
+r
+c
+M
+d
+o
+o
+F
+
+i
+
+y
+t
+e
+f
+a
+S
+
+&
+
+:
+
+M
+
+Characterization Salmonella chicken meat . . .
+
+Table 1–Primers used in this study.
+
+Ampliﬁed
+
+invA (genus speciﬁc)
+
+Class 1
+Integron
+Integrase
+(IntI1)
+
+Oligonucleotid sequence
+
+Products (bp)
+
+Reference
+
+F 5’ – GTG AAA TTA TCG CCA CGT TCG GGC AA -3’
+R 5’ – TCA TCG CAG CGT CAA AGG AAC -3’
+5’ GGC ATC CAA GCA GCA AG 3’
+5’ AAG CAG ACT TGA CCT GA 3’
+5’ CCT CCC GCA CGA TGA TC 3’
+5’ TCC ACG CAC TGT CAG GC 3’
+
+284
+
+Varied
+
+280
+
+Rahn and others (1992)
+
+Bass and others (1999)
+
+Bass and others (1999)
+
+tested using previously reported methods (Andrews and Hammack
+2011). Conﬁrmation was based on agglutination with Salmonella
+spp. antisera polyvalent antiserum (Difco 2264-47-2), and subse-
+quent reconﬁrmation was done using Microbact-Gram-Negative
+Bacillus Identiﬁcation System (Oxoid, GNB 24 E).
+
+M
+
+:
+
+&
+
+S
+a
+f
+e
+t
+y
+
+l
+
+i
+
+F
+o
+o
+d
+M
+c
+r
+o
+b
+o
+o
+g
+y
+
+i
+
+Figure 1–The determination of the invA gene in the Salmonella strains
+isolated from chicken meat samples using PCR technique. M: Marker; 1, 2,
+3, and 4 invA gene positive isolate.
+
+Figure 2–Number of Salmonella spp. positive samples detected by 2 tech-
+niques. A total 64 Salmonella spp. positive samples; 54 samples detected
+in using IMS and conﬁrmed using PCR assay, 38 samples detected in using
+CCT and conﬁrmed using PCR assay.
+
+M1046 Journal of Food Science r Vol. 80, Nr. 5, 2015
+
+All the isolates were stored at –80 ˚C in cryovials containing
+Brain heart infusion broth containing 25% glycerol (BHI-Oxoid
+CM0225).
+
+Single Target PCR Assay for the Veriﬁcation of Salmonella
+spp.
+
+PCR analysis. DNA templates used for PCR were prepared
+by boiling bacterial cultures. For the detection of genus-speciﬁc
+invA gene (Rham and others 1992) of Salmonella spp., a single
+target PCR assay described by Salehi and others (2005) was used.
+S. Typhimurium (ATCC 14028) was used as a positive control.
+During the procedures, a gradient thermocycler (Bio Rad-MJ
+Mini-PTC-1148, Singapore) was used.
+
+Detection of class 1 integron (Cls1) and integrase (IntI1)
+genes
+
+The single target assays for each gene were applied according to
+
+the method described by Bass and others (1999).
+
+The nucleotide sequences (invA, Cls1, and class 1integrase) of
+the primers and the predicted product sizes are depicted in Table 1.
+
+Antimicrobial susceptibility testing
+
+The susceptibilities of the isolates to gentamicin (10 µg),
+vancomycin (30 µg), chloramphenicol (30 µg), trimethoprim-
+sulfamethoxazole (25 µg), streptomycin (10 µg), ceftriaxone
+(30 µg), tetracycline (30 µg), nalidixic acid (30 µg), or ampi-
+cillin (10 µg) were determined using the Kirby-Bauer disc diffu-
+sion method. The resistance levels were evaluated the deﬁnitions
+proposed by Clinical and Laboratory Standards Institute (CLSI
+2007, 2010) as follows: susceptible (S), intermediate-resistant (I), or
+resistant (R).
+
+Chi-square test was employed to compare the resistant and sus-
+ceptibility isolates against the antibiotics. P < 0.001 was considered
+as statistically signiﬁcant.
+
+Results
+
+All the cultural and PCR results (Figure 1) were evaluated
+together, and 86 Salmonella spp. were detected in a total of 64
+(42.66%) chicken meat samples (in 40 [53.33%] of the carcass and
+in 24 [32%] of the meat piece samples). The study results are
+shown in Figure 2. When results of standard culture technique
+were compared with the IMS technique, IMS technique could
+detect Salmonella spp. in 54 (36.00%) samples (32 carcasses and 22
+meat pieces) and the CCT method could detect Salmonella spp.
+in 38 (25.33%) samples (23 carcasses, 15 meat pieces). Although
+Salmonella spp. were detected in 3 chicken meat samples using IMS
+technique, invA gene was not determined.
+
+to vancomycin (98.8%),
+
+The antibiotic susceptibility testing showed higher resistance
+rates
+strepto-
+mycin (89.28%), and nalidixic acid (89.28%). Resistance to
+trimethoprim-sulfamethoxazole was present in 32.14% of the
+isolates. In contrast, lower rates of resistance were observed for
+
+tetracycline (91.66%),
+
+Characterization Salmonella chicken meat . . .
+
+Table 2–Antibiotics resistance proﬁles of the Salmonella isolates.
+
+Antibiotics
+
+Gentamicin (10 µg)
+
+Vancomycin (30 µg)
+
+Chloramphenicol (30 µg)
+
+Trimethoprim-sulfamethoxazole (25 µg)
+
+Streptomycin (10 µg)
+
+Ceftriaxone (30 µg)
+
+Tetracycline (30 µg)
+
+Nalidixic acid (30 µg)
+
+Ampicillin (10 µg)
+
+R
+(n)
+(%)
+
+4/84
+(4.76)
+83/84
+(98.8)
+6/84
+(7.14)
+27/84
+(32.14)
+
+75
+
+(89.28)
+1/84
+(1.19)
+77/84
+(91.66)
+75/84
+(89.28)
+7/84
+(8.33)
+
+I
+(n)
+(%)
+
+_
+
+_
+
+_
+
+_
+
+(7.14)
+
+6
+
+_
+
+_
+
+_
+
+_
+
+S
+(n)
+(%)
+
+80
+
+1
+
+78
+
+57
+
+3
+
+83
+
+7
+
+9
+
+(95.24)
+
+(1.19)
+
+(92.86)
+
+(67.86)
+
+(10.72)
+
+(98.81)
+
+(8.34)
+
+(10.72)
+
+77
+
+(91.67)
+
+gentamicin (4.76%), chloramphenicol (7.14%), ampicillin (8.33%),
+and ceftriaxone (1.19%). Statistically signiﬁcant differences were
+determined between the antibiotics and the resistance of Salmonella
+strains to the analyzed antibiotics (P < 0.001) (Table 2).
+
+Multiple resistances (ࣙ4 antibiotics) were found in 78 out of 84
+(92.85%) isolates. One isolate was resistant to all antibiotics tested,
+except
+for trimethoprim-sulfamethoxazole; 2 isolates (2.38%)
+were resistant to 7 antibiotics, 6 isolates (7.14%) to 6 antibiotics,
+21 (25%) isolates to 5 antibiotics (vancomycin, trimethoprim-
+sulfamethoxazole, streptomycin, tetracycline, nalidixic acid), 45
+(53.7%) isolates to 4 antibiotics (vancomycin, streptomycin, tetra-
+cycline, and nalidixic acid), 1 isolate to 3 antibiotics, 2 isolates to 2
+antibiotics, and the other 3 isolates to a single antibiotic (Table 3).
+Cls1 integrons were present in 80.95% (68/84) of the isolates
+with product patterns between 400 bp and 1200 bp, most being
+900 bp or 1100 bp (Figure 3). The isolates also demonstrated
+more than one Cls1. In total, 80 (95.23%) isolates carried Int1
+(Figure 3). This gene also existed in 67 (79.76%) of 68 isolates
+containing Cls1. However, integrase gene alone was present in
+13 (15.47%) isolates. Thus, most of the isolates (n = 81) carried
+Cls1 integron or Int1. Although 4 isolates did not carry any Cls1
+integron or Int1, they were resistant to 4 antibiotics (vancomycin,
+streptomycin, tetracycline, and nalidixic acid).
+
+Discussion
+
+Global incidence of Salmonella spp. infections in humans has
+shown a drastic increase in recent years. According to a Salmonella
+Atlas in the United States, it is estimated that 1.2 million salmonel-
+losis occurs each year, with more than 23000 hospitalizations and
+450 deaths (CDC 2013). Therefore, it is not surprising to observe
+the plenitude of studies in other countries, as well as in Turkey,
+that aim to examine the prevalence of Salmonella spp. contamina-
+tion in chicken meat. Some of the results from these studies are
+summarized in Table 4 and 5. As can be seen from these results,
+Salmonella spp. were included in 4.2% to 88.4% of the cases. Similar
+to our ﬁndings, the generally high isolation rate of Salmonella spp.
+in chicken meat samples indicates the fact that chicken meat has
+been one of the most important sources of human salmonellosis.
+The wide variation in these study ﬁndings mentioned above
+factors including geographical
+
+may be due to a number of
+
+l
+
+i
+
+y
+g
+o
+o
+b
+o
+r
+c
+M
+d
+o
+o
+F
+
+i
+
+:
+
+M
+
+y
+t
+e
+f
+a
+S
+
+&
+
+location, methodological differences, seasonal variations, as well
+as farming and slaughtering conditions. In the present study, IMS
+was able to detect Salmonella spp. in 54 (36.00%) samples and the
+CCT method was able to detect Salmonella spp. in 38 (25.33%)
+samples. When the results of the standard culture were compared
+with the results from the IMS technique, the IMS showed a clear
+superiority over the CCT (Figure 3). The reason may depend
+on eliminating competitive ﬂora. A similar advantage for this ap-
+proach has previously been emphasized by other authors including
+Cudjoe and Krona (1997). Success of the isolation is also deter-
+mined by the selective enrichment broth used. For example, the
+IMS-RV broth combination has been reported to provide a higher
+isolation rate than direct IMS methods without selective enrich-
+ment (Ribeiro and others 2002). Success of isolation is also de-
+pendent on certain other factors such as the sampling site (skin
+or meat piece), sampling either from the whole carcass or meat
+pieces, or the swap technique used. In a study by Capita and others
+(2003), an isolation rate of 49% has been detected for Salmonella
+spp. in chicken meat, compared to 55% in chicken skin. In our
+study, a higher isolation rate was found in whole chicken carcasses
+(n = 41) than in meat piece samples.
+Antimicrobial resistance represents a serious public health prob-
+lem. Food may act as a vector for the transfer of antimicrobial
+resistant bacteria and antimicrobial resistance genes to humans
+(Verraes and others 2013). The present study, as well as other study
+results reported from around the world, also supports this view. For
+instance, from Turkey, Yazıcıo˘glu and others (2005) have found
+that among 58 Salmonella spp. isolates of avian origin, the most
+common resistance rates were observed against nalidixic acid and
+streptomycin. Kılınc¸ and Aydın (2006) have reported that none
+of the 61 Salmonella spp. isolates were resistant to trimethoprim-
+sulfamethoxazole, tetracycline and gentamicin, while 12 (19.67%)
+out of 61 isolates were resistant to ampicillin. Although the results
+of the present study are similar to that of Yazıcıo˘glu and oth-
+ers (2005), they were in contrast with those of Kılınc¸ and Aydın
+(2006). In our study, following vancomycin, the highest resistance
+rates were observed against tetracycline (91.66%), streptomycin
+(89.28%), and nalidixic acid (89.28%). One possible reason for the
+high incidence of tetracycline and streptomycin resistance may be
+the use of subtherapeutic doses of these antimicrobials (particularly
+tetracycline) in feeds.
+
+Ceftriaxone is a member of cephalosporin family of antibiotics
+which are especially important from several aspects (Yan and others
+2002). In the present study, only a single Salmonella spp. isolate
+showed resistance to ceftriaxone.
+
+Nalidixic acid plays a role in the initial steps of the development
+of ciproﬂoxacin resistance and a very high rate of nalidixic acid
+resistance was observed in the isolates in our study (89.28%), where
+resistance to ciproﬂoxacin was not tested.
+
+According to EFSA (2013), in 2011, a total of 8 European
+Member Countries (MSs) have reported that the resistance levels
+of broiler meat origin Salmonella spp. to ampicillin, sulfonamides,
+and tetracyclines were high at 20.6%, 44.8%, and 43.7%, respec-
+tively. The results of the study showed that the resistance rates were
+8.33% (ampicillin), 32.14% (trimethoprim-sulfamethoxazole), and
+91.66% (tetracyclines). In contrast to ciproﬂoxacin resistance rates
+(50.1% and 1.19% ceftriaxone resistance rates for MSs Coun-
+tries and the present study results, respectively), resistance rates to
+nalidixic acid in the present study were relatively higher (89.28%)
+than the rates (48.8%) found in 8 MSs countries. Similar results
+from both this and the studies of MSs Countries were obtained
+for chloramphenicol and gentamicin.
+
+Vol. 80, Nr. 5, 2015 r Journal of Food Science M1047
+
+Characterization Salmonella chicken meat . . .
+
+Table 3–Distribution of antibiotic-resistance rates among Salmonella spp. isolates.
+
+Nr of
+isolates
+
+1
+
+2
+
+3
+
+1
+
+2
+
+21
+45
+2
+1
+1
+2
+3
+
+Ratio
+(%)
+
+1.19
+
+2.38
+
+3.57
+
+1.19
+
+2.38
+
+25.00
+53.57
+2.38
+1.19
+1.19
+2.38
+3.57
+
+Nr of
+
+resistance
+antibiotics
+
+8
+
+7
+
+6
+
+6
+
+6
+
+5
+4
+4
+4
+3
+2
+1
+
+Gentamicin, vancomycin, chloramphenicol, trimethoprim-sulfamethoxazole,
+
+streptomycin, tetracycline, nalidixic acid
+
+Vancomycin, trimethoprim-sulfamethoxazole, treptomycin, tetracycline, nalidixic acid,
+
+Vancomycin, trimethoprim-sulfamethoxazole, treptomycin, tetracycline, nalidixic acid,
+
+ampicillin
+
+ampicillin
+
+Resistance antibiotics names
+
+Gentamicin, vancomycin, chloramphenicol, streptomycin, ceftriaxone, tetracycline,
+
+nalidixic acid, ampicillin
+
+Vancomycin, chloramphenicol, trimethoprim-sulfamethoxazole, streptomycin,
+
+tetracycline, nalidixic acid
+
+Vancomycin, trimethoprim-sulfamethoxazole, streptomycin, tetracycline, nalidixic acid
+Vancomycin, streptomycin, tetracycline, nalidixic acid
+Vancomycin, chloramphenicol, streptomycin, ampicillin
+Gentamicin, vancomycin, chloramphenicol, tetracycline
+Vancomycin, trimethoprim-sulfamethoxazole, streptomycin
+Vancomycin, streptomycin
+Vancomycin
+
+M
+
+:
+
+&
+
+S
+a
+f
+e
+t
+y
+
+i
+
+F
+o
+o
+d
+M
+c
+r
+o
+b
+o
+o
+g
+y
+
+i
+
+l
+
+Table 4–Salmonella spp. prevalence and dominate serotypes in chicken meats, Turkey.
+
+Provinces of Turkey
+
+Sources (n)
+
+Prevalence
+
+Dominate serotypes
+
+References
+
+Ankara
+
+Konya
+
+Ankara
+
+Ankara
+
+Ankara
+
+Chicken skin, leg and brisket meats)
+(n = 200)
+Chicken meats
+(n = 168)
+Chicken neck and meat
+(n = 662)
+
+Boriler skin, leg and brisket meats
+(n = 50)
+Chicken carcass
+(n = 69)
+
+%16
+
+%32.73
+
+%8.7
+
+%26
+%18
+%16
+%88.4
+
+–
+
+–
+
+S. Enteritidis
+S. Virchow
+S. Typhimurium
+
+Tano˘glu (2008)
+
+Hadimli and others (2006)
+
+Yazıcıo˘glu and others (2005)
+
+Efe and G¨um¨us¸soy (2005)
+
+Erol and others (2004)
+
+MDR to the traditional ﬁrst-line antibiotics such as ampicillin,
+chloramphenicol, and trimethoprim-sulfamethoxazole has been
+deﬁned for Salmonella enterica (Crump and Minz 2010). Although
+resistance to 2 of these 3 antibiotics was found in the same isolates
+in our study, no triple resistance against these 3 antibiotics in the
+same isolate was observed. According to CDC (2007) report, the
+most common S. enterica multidrug-resistance pattern in 2004 was
+
+ACSSuT (resistance to ampicillin, chloramphenicol, streptomycin,
+sulfamethoxazole, and tetracycline). In this report, multiple drug
+resistance (ࣙ4 antibiotics) has found in all 78 isolates. In our study,
+30 of the isolates were resistant to at least 5 antibiotics and other
+48 isolates were resistant to 4 antibiotics (Table 3).
+
+Molecular analysis of the isolates was used to determine the
+presence of some characteristics that are associated with the
+
+Figure 3–The determination of the integron
+(Cls1) (A Picture) and integrase gene (IntI) (B
+Picture) in the Salmonella strains isolated from
+chicken meat samples. A Picture—Lane 1:
+1100 bp Cls1 positive samples, Lane M: Marker
+(100 bp: between 100 and 3000 bp), Lane 2:
+Cls1 negative samples, Lane 3: 1100 bp Cls1
+positive samples; B Picture—Lanes 4, 5, and 6:
+integrase positive samples, Lane M: Marker
+(100 bp), Lanes 7 and 8: integrase positive
+samples.
+
+M1048 Journal of Food Science r Vol. 80, Nr. 5, 2015
+
+Characterization Salmonella chicken meat . . .
+
+Table 5–Salmonella spp prevalence and dominate serotypes in chicken meats, World.
+
+Country
+
+Vietnam
+
+North
+Vietnam
+
+South
+Korea
+Canada
+
+Thailand
+
+Senegal
+
+Persia
+
+Spain
+America
+
+Part of chicken meat
+
+Prevalence
+
+Dominate serotypes
+
+References
+
+Chicken carcass
+(n = 1000)
+Chicken meat
+(n = 268)
+
+Chicken meat
+(n = 210)
+Chicken meat
+(n = 206)
+Chicken carcass
+(n = 109)
+Chicken carcasses
+(n = 120)
+Chicken carcass
+(n = 192)
+Chicken carcass and pieces meat
+Chicken carcass
+(n = 212)
+
+45.9%
+
+42.9%
+
+57.4%
+
+40%
+
+57%
+
+62.5%
+
+15.6%
+
+49%
+4.2%
+
+–
+
+S. Anatum
+S. Infantis
+S. Derby
+S. Enteritidis
+S. Montevideo
+S. Hadar
+
+Ta and others (2012)
+
+Thai and others (2012)
+
+Kim and others (2012)
+
+Aslam and others (2012)
+
+Minami and others (2010)
+
+Salmonella spp. S. Kentuchy
+
+Bada-Alambedji and others (2006)
+
+–
+
+Salehi and others (2005)
+
+Capita and others (2003)
+Zhao and others (2001)
+
+presence of antimicrobial resistance. It has been reported that
+MDR among Salmonella serotypes and other clinical isolates is
+often associated with the presence of Cls1 integrons (Leverstein-
+van and others 2002; Wannaprasat and others 2011). The presence
+of genes within integrons coding for antibiotic resistance and the
+association of antibiotic resistance phenotypes with the presence
+of integrons has been documented by several authors (Miko and
+others 2005). The present study results also showed that 80.95%
+and 95.23% of the Salmonella spp. isolates were found to carry Cls1
+integron and Int1, respectively. So, we can say that these MDR
+Salmonella spp. isolates can be transferable to humans via chicken
+meat or can spread to environment. Similar results have been re-
+ported from Germany, Spain, UK, Japan, China, Ethiopia, and
+Iran where the prevalence of Cls1 integrons among the MDR
+Salmonella serovars isolated from various types of sources such as
+food of animal origin and human materials were found 11% and
+65% (Guerra and others 2000; Randall and others 2004; Zhang
+and others 2004; Ahmed and others 2005; Miko and others 2005;
+Molla and others 2007; Firoozeh and others 2011). Another aspect
+is that the presence of resistant Salmonella spp. isolates in conjunc-
+tion with the detection of Cls1 integron and/or Int1 in this study
+suggests that antimicrobial resistance may be attributed to a rela-
+tively high number of resistant strains circulating in the chicken
+farms.
+
+In the present study, we checked for the presence of invA gene to
+conﬁrm the Salmonella spp. genetically (Chen and Griﬁths 2001).
+In addition to concerns previously expressed, invA gene also plays
+an important role in the invasion of Salmonella to the host tissue
+(Khan and others 2000). In this study, a cocktail consisting of
+the 5 Salmonella spp. isolates obtained from the present study was
+prepared to test for their effects on human colon adenocarcinoma
+cells (HT-29) in vitro. We found that these isolates had the ability
+to adhere to and invade into human colon adenocarcinoma cells
+(HT-29) (unpublished data).
+
+Conclusion
+
+Salmonellosis and the antimicrobial resistant in the bacteria in
+veterinary and human medicine constitute a big global problem
+that includes Turkey. The data presented in this study demon-
+strated that retail chicken meat samples were commonly contam-
+inated with Salmonella spp. Therefore, chicken meat may be a
+potential vehicle of transmission of the bacteria to humans. In
+
+addition, data from the present study also showed that most of
+the Salmonella spp. isolates were resistant to multiple antimicrobial
+drugs. Class 1 integron and integrase genes were also present in
+a total 80.95% and 95.23% Salmonella spp. isolates. The role of
+integrons as mobile genetic elements playing a central role in hor-
+izontal transfer of antibiotic resistance has been well documented.
+Also, Cls1 integron (transferable plasmids) are considered to be the
+main mechanism for the rapid spread of multidrug-resistant phe-
+notypes among Salmonella spp. and other Gram-negative bacteria
+(Labbate and others 2009). So, the high prevalence of integron
+in drug- or multidrug-resistant Salmonella spp. in our study indi-
+cated that these mobile genetic elements were common among
+Salmonella spp. and drug resistance could be associated with the
+presence of class 1 integrons in Salmonella spp. As a consequence,
+transfer of antimicrobial resistance genes between Salmonella iso-
+lates after ingestion by humans may occur.
+
+Acknowledgment
+
+A part of this study was a doctoral thesis, which was supported
+by Ondokuz Mayis Univ. in Samsun, Turkey under the Scientiﬁc
+Research Project Program (Project Nr: VET-065).
+
+Author Contributions
+
+Belgin Siriken contributed substantially for the study designing,
+all of the laboratory study stage, data analysis and interpretation of
+the results, and manuscript writing and design. Haldun T¨urk col-
+lected samples and all of the laboratory study stage except molec-
+ular study, data analysis, and interpretation of the results data with
+Siriken. Tuba Yıldırım supported language correction and an-
+timicrobial evaluation of the isolates. Belma Durupınar supported
+evaluation of antimicrobial resistant data of the isolates and writ-
+ing levels of this section and tables. ˙Irfan Erol supported evaluation
+data and manuscript design.
+
+References
+Ahmed AA, Nakano H, Shimamoto T. 2005. Molecular characterization of integrons in non-
+typhoid Salmonella serovars isolated in Japan: description of an unusual class 2 integron. J
+Antimicrob Chemother 55:371–4.
+
+Andrews WH, Hammack TS. 2011. Food and Drug Administration. Bacteriological Analytical
+Manual Online. Chapter 5: Salmonellae 2003. Available from: http://www.fda.gov/Food/
+ScienceResearch/LaboratoryMethods/BacteriologicalAnalyticalManualBAM/ucm070149.
+htm. Accessed July 2011.
+
+Aslam M, Checkley S, Avery B, Chalmers G, Bohaychuk V, Gensler G, Reid-Smith R, Boerlin
+P. 2012. Phenotypic and genetic characterization of antimicrobial resistance in Salmonella
+serovars isolated from retail meats in Alberta, Canada. Food Microbiol 32(1):110–7.
+
+Vol. 80, Nr. 5, 2015 r Journal of Food Science M1049
+
+i
+
+y
+g
+o
+o
+b
+o
+r
+c
+M
+d
+o
+o
+F
+
+i
+
+l
+
+y
+t
+e
+f
+a
+S
+
+&
+
+:
+
+M
+
+M
+
+:
+
+&
+
+S
+a
+f
+e
+t
+y
+
+l
+
+i
+
+F
+o
+o
+d
+M
+c
+r
+o
+b
+o
+o
+g
+y
+
+i
+
+Characterization Salmonella chicken meat . . .
+
+Bada-Alambedji R, Fofana A, Seydi M, Akakpo AJ. 2006. Antimicrobial resistance of Salmonella
+
+isolated from poultry carcasses in Dakar (Senegal). Brazilian J Microbiol 37:510–5.
+
+Bass L, Liebert CA, Lee MD, Summers AO, White DG, Thayer SG, Maurer JJ. 1999. Incidence
+and characterization of integrons, genetic elements mediating multiple-drug resistance, in
+Avian Escherichia coli. Antimicrob Agents Chemother 43(12):2925–9.
+
+Baumgart J. 1986. Mikrobiologisehe Ulltersuchung voll Lebensmitteln. B Behr’s Verlag,
+
+GmbH&Co., Berlin und Hamburg.
+
+Boyd D, Cloeckaert A, Chaslus-Dancla E, Mulvey MR. 2002. Characterization Variant
+Salmonella genomic island 1 multidrug resistance regions from serovars Typhimurium DT104
+and Agona. Antimicrob Agents Chemother 46(6):1714–22.
+
+Cambray G, Guerout AM, Mazel D. 2010. Integron Annu Rev Genet 44:141–66.
+Capita R, Alvares-Astorga M, Alonso-Calleja C, Moreno B, Del Camino Garcia-Fernandez M.
+2003. Ocurrence of Salmonellae in retail chicken carcasses and their products in Spain. Int J
+Food Microbiol 81:169–73.
+
+CDC (Centers for Disease Control and Prevention). 2007. “National Antimicrobial Resistance
+Monitoring System for Enteric Bacteria (NARMS): human isolates ﬁnal report, 2004. Atlanta:
+The Centers,” 2007.
+
+CDC (Centers for Disease Control and Prevention). 2011. Salmonella. Available from: http://
+
+www.cdc.gov/salmonella/, 2010. Accessed July 2011.
+
+CDC (Centers for Disease Control and Prevention). 2013. An Atlas of Salmonella in the United
+States, 1968–2011: Laboratory-based enteric disease surveillance. Atlanta, Ga.: US Dept. of
+Health and Human Services.
+
+Chen G, Griﬁths MW. 2001. Detection of Salmonella and simultaneous detection of Salmonella
+and Shiga-like toxin-producing Escherichia coli using the magnetic capture hybridization poly-
+merase chain reaction. Lett Appl Microbiol 32:7–11.
+
+Clinical and Laboratory Standards Institute (CLSI). 2007. “Performance Standards for Antimi-
+
+crobial Susceptibility Testing,” Twentieth Informational Supplement, M100-S20.
+
+Clinical and Laboratory Standards Institute (CLSI). 2010. Performance Standards for Antimicro-
+
+bial Susceptibility Testing. Twentieth Informational Supplement. M100-S20.
+
+Cornelis GR. 2006. The type III secretion injectisome. Nature Rev Microbiol 4:811–25.
+Crump JA, Minz ED. 2010. Global trends in typhoid and paratyphoid fever. Clin Infect Dis
+Cudjoe KS, Krona R. 1997. Detection of Salmonella from raw food samples using Dynabeads R(cid:2)
+
+50(2):241–6.
+
+anti-Salmonella and a conventional reference method. Int J Food Microbiol 37:55–62.
+
+Di Conza AJ, Gutkind GO. 2010. Integrons: gene collectors. Rev Argent Microbiol 42(1):
+
+63–78.
+
+Efe M, G¨um¨us¸soy KS. 2005. Ankara garnizonunda t¨uketime sunulan tavuk etlerinin mikrobiy-
+
+olojik analizi. J Health Sci 14(3):151–7.
+
+EFSA (European Food Safety Authority). 2010. The community summary report on trends and
+sources of zoonoses, zoonotic agents and foodborne out-breaks in the European Union in
+2008. EFSA J 8(1):1496.
+
+EFSA (European Food Safety Authority). 2013. EU summary report on antimicrobial resistance
+in zoonotic and indicator bacteria from humans, animals and foods 2011. EFSA J 11(5):3196.
+Erol ˙I, Yurtyeri A, Hildebrandt G, Kleer J, Bilir Ormancı S, Koluman, A. 2004. Salmonella’ların
+pilic¸ karkaslarından k¨ult¨ur tekni˘gi ve immunomanyetik PCR ile karsılas¸tırmalı olarak saptan-
+ması,” 1.Ulusal Veteriner Gıda Hijyeni Kongresi, 29 Eyl¨ul-1 Ekim, pp 29–38.
+
+Firoozeh F, Zahraei-Salehi T, Shahcheraghi F, Karimi V, Aslani AA. 2011. Characterization
+of class I integrons among Salmonella enteric serovar Enteritidis isolated from humans and
+poultry. FEMS Immunol Med Microbiol 64:237–43.
+
+Gal´an JE, Ginocchio C, Costeas P. 1992. Molecular and functional characterization of the
+Salmonella invasion gene invA: homology of InvA to members of a new protein family. J
+Bacteriol 174(13):4338–49.
+
+Guerra B, Soto S, Cal S, Mendoza MC. 2000. Antimicrobial resistance and spread of class 1
+
+integrons among Salmonella serotypes. Antimicrob Agents Chemother 44:2166–9.
+
+Hadimli HH, Erganis¸ O, G¨uner A, ¨Ozt¨urk D, Kav K. 2006. Konya ilinde perakende satıs¸a
+sunulan tavuk etlerinde Salmonella spp. ve Campylobacter spp. varlı˘gının aras¸tırılması. Vet Bil
+Der (Vet Sci J) 22:3–4.
+
+Hanau-Bercot B, Podglajen I, Casin I, Collatz E. 2002. An intrinsic control element for trans-
+
+lational initiation in class 1 integrons. Mol Microbiol 44:119–30.
+
+Khan AA, Nawaz MS, Khan SA, Cerniglia CE. 2000. Detection of multidrug-resistant Salmonella
+typhimurium DT104 by multiplex polymerase chain reaction. FEMS Microbiol Lett 182:
+355–60.
+
+Kılınc¸ ¨U, Aydın F. 2006. Kayseri y¨oresindeki tavukc¸uluk is¸letmelerinden toplanan tavuklardan
+izole edilen Salmonella t¨urlerinin antibiyotiklere duyarlılıkları. Erciyes ¨Univ Sa˘glık Bil Der
+(Erciyes Unv Health Sci J) 15:35–40.
+
+Kim MS, Lim TH, Jang JH, Lee DH, Kim BY, Kwon JH, Choi SW, Noh JY, Hong YH, Lee
+SB, Yang SY, Lee HJ, Lee JB, Park SY, Choi IS, Song CS. 2012. Prevalence and antimicrobial
+resistance of Salmonella species isolated from chicken meats produced by different integrated
+broiler operations in Korea. Poultry Sci 91(9):2370–5.
+
+Labbate M, Case RJ, Stokes HW. 2009. The integron/gene cassette system: an active player in
+
+bacterial adaptation. Methods Mol Biol 532:103–25.
+
+Leverstein-van MAH, Box ATA, Blok HE, Paauw A, Fluit A, Verhoef J. 2002. Evidence of
+extensive interspecies transfer of integron-mediated antimicrobial resistance genes among
+multidrug-resistant Enterobacteriaceae in clinical setting. J Infect Dis 186:49–56.
+
+Lilic M, Quezada CM, Stebbins CE. 2010. A conserved domain in type III secretion links the
+cytoplasmic domain of InvA to elements of the basal body. Acta Crystallogr D Biol Crystallogr
+66(6):709–13.
+
+Mazel D. 2006. Integrons: agents of bacterial evolution. Nat Rev Microbiol 4:608–20.
+McEwen SA, Fedorka-Cray PJ. 2002. Antimicrobial use and resistance in animals. Clin Infect
+
+Dis 34(3):S93–106.
+
+Michael GB, Butaye P, Cloeckaert A, Schwarz S. 2006. Genes and mutations conferring an-
+
+timicrobial resistance in Salmonella: an update. Microbes Infect 2006;8:1898–914.
+
+Miko A, Pries K, Schroeter A, Helmeth R. 2005. Molecular mechanisms of resistance in
+multidrug-resistant serovars of Salmonella enterica isolated from foods in Germany. J Antimicrob
+Chemother 56:1025–33.
+
+Minami A, Chaicumpa W, Chongsa-Nguan M, Samosornsuk S, Monden S, Takeshi K, Makino
+S, Kawamoto K. 2010. Prevalence of foodborne pathogens in open markets and supermarkets
+in Thailand. Food Control 21:221–6.
+
+Molla B, Miko A, Pries K, Hildebrandt G, Kleer J, Schroeter A, Helmuth R. 2007. Class 1
+integrons and resistance gene cassettes among multidrug resistant Salmonella serovars isolated
+from slaughter animals and foods of animal origin in Ethiopia. Acta Tropica 103:142–9.
+
+Murugkar HV, Rahman H, Dutta PK. 2003. Distribution of virulence genes in Salmonella
+
+serovars isolated from man & animals. Indian J Med Res 117:66–70.
+
+NARMS (National Antimicrobial Resistance Monitoring System). 2011. NARMS Retail Meat
+Annual Report 2011. Available from: http://www.fda.gov/downloads/AnimalVeterinary/
+SafetyHealth/AntimicrobialResistance/NationalAntimicrobialResistanceMonitoringSystem/
+UCM334834.pdf. Accessed October 2014.
+
+Rahn K, De Grandis SA, Clarke RC, McEwen SA, Gal´an JE, Ginocchio C, Curtiss R,
+Gyles CL. 1992. Ampliﬁcation of an invA gene sequence of Salmonella typhimurium by poly-
+merase chain reaction as a speciﬁc method of detection of Salmonella. Mol Cell Probes 6(4):
+271–9.
+
+Randall LP, Cooles SW, Osborn MK, Piddock LJV, Woodward MJ. 2004. Antibiotic resistance
+genes, integrons and multiple antibiotic resistance in thirty-ﬁve serotypes of Salmonella enterica
+from humans and animals in the UK. J Antimicrobiol Chemother 53:208–16.
+
+Ribeiro AR, Nascımento VP, Cardoso MO, Santos LR, Rocha SLS. 2002. Utilization of
+immunomagnetic separation for detection of Salmonella in raw broiler parts. Braz J Microbiol
+33:339–41.
+
+Ribot E, Wierzba RK, Angulo FJ, Barrett TJ. 2002. Salmonella enterica serotype Typhimurium
+DT104 isolated from humans, United States, 1985, 1990, and 1995. Emerg Infect Dis 8:
+387–91.
+
+Salehi TZ, Mahzounieh M, Saeedzadeh A. 2005. Detection of invA gene in isolated Salmonella
+
+from broilers by PCR method. Int J Poultry Sci 4(8):557–9.
+
+Ta YT, Nguyen TT, To PB, Pham da X, Le HTH, Alali WQ, Walls I, Lo Fo, Wonq MD, Doyle
+MP. 2012. Prevalence of Salmonella on chicken carcasses from retail markets in Vietnam. J
+Food Prot 75(10):1851–4.
+
+Tano˘glu BT. 2008. Erzincan garnizonunda t¨uketime sunulan tavuk ve hindi etlerinden konva-
+nsiyonel k¨ult¨ur ve molek¨uler (PCR) metodla Salmonella spp.’nin tes¸hisi. Erciyes ¨Universitesi
+Sa˘glık Bilimleri Enstit¨us¨u, Kayseri, Y¨uksek Lisans Tezi.
+
+Thai TH, Hirai T, Lan NT, Yamaguchi R. 2012. Antibiotic resistance proﬁles of Salmonella
+serovars isolated from retail pork and chicken meat in North Vietnam. Int J Food Microbiol
+156(2):147–51.
+
+Verraes C, Van Boxstael S, Van Meervenne E, Van Coillie E, Butaye P, Catry B, de Schaetzen
+M-A, Van Huffel X, Imberechts H, Dierick K, Daube G, Saegerman C, De Vlock J, Dewulf
+J, Herman L. 2013. Antimicrobial resistance in the food chain: a review. Int J Environ Res
+Public Health 10:2643–69.
+
+Wannaprasat W, Padungtodb P, Chuanchuena R. 2011. Class 1 integrons and virulence genes
+
+in Salmonella enterica isolates from pork and humans. Int J Antimicrob Agents 37:457–61.
+
+Witte W. 2000. Selective pressure by antibiotic use in livestock. Int J Antimicrob Agents 16:
+
+S19–24.
+
+Yan JJ, Chiu CK, Ko WC, Chuang CL, Wu JJ. 2002. Ceftriaxone- resistant Salmonella enter-
+ica serovar Hadar: evidence for interspecies transfer of blaCMY-2 in a Taiwanese university
+hospital. J Formos Med Assoc 101:665–8.
+
+Yazıcıo˘glu N, Kaya K, Ayaz Y, S¸en S, ¨Ozk¨ok S, Aksoy M, Yavuz MK, Kaplan YZ, Tunca
+S¸T, Vural S¸, Evgin N, Karakoc¸ SR, Miro˘glu M, Turut N. 2005. Kanatlı kesimhanelerinin
+parc¸alama ¨unitelerinden alınan boyun ve kanat ¨orneklerinden Salmonella izolasyonu, seroti-
+plendirmesi ve antibiyotik direnc¸lili˘ginin saptanması. Etlik Vet Mik Der (Etlik Vet Microbiol
+J) 16(1–2):23–6.
+
+Zhang H, Shi L, Li L, Guo S, Zhang X, Yamasaki S, Miyoshi S, Shinoda S. 2004. Identiﬁcation
+and characterization of class 1 integron resistance gene cassettes among Salmonella strains
+isolated from healthy humans in China. Microbiol Immunol 48(9):639–45.
+
+Zhao C, Ge B, Villena J, Sudler R, Yeh E, Zhao S, White DG, Wagner D, Meng J. 2001.
+Prevalence of Campylobacter spp., Escherichia coli and Salmonella serovars in retail chicken,
+turkey, pork, and beef from the greater Washington, D.C., area. Appl Environ Microbiol 67:
+5431–6.
+
+M1050 Journal of Food Science r Vol. 80, Nr. 5, 2015
+
+

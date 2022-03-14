@@ -1,0 +1,2053 @@
+Journal of Antimicrobial Chemotherapy Advance Access published March 8, 2015
+ 
+
+J Antimicrob Chemother
+doi:10.1093/jac/dkv053
+
+Prevalence and risk factors for carriage of antimicrobial-resistant
+Escherichia coli on household and small-scale chicken farms in the
+
+Mekong Delta of Vietnam
+
+NGUYEN Vinh Trung1–3*, Juan J. CARRIQUE-MAS3,4, NGO Thi Hoa3,4, HO Huynh Mai5, HA Thanh Tuyen3,
+
+James I. CAMPBELL3,4, NGUYEN Thi Nhung3, HOANG Ngoc Nhung3, PHAM Van Minh3, Jaap A. WAGENAAR6,7,
+
+Anita HARDON8, THAI Quoc Hieu5 and Constance SCHULTSZ1–3
+
+1Department of Medical Microbiology, Academic Medical Center, University of Amsterdam, Amsterdam, The Netherlands; 2Department of
+Global Health-Amsterdam Institute for Global Health and Development, Academic Medical Center, University of Amsterdam, Amsterdam,
+The Netherlands; 3Oxford University Clinical Research Unit, Centre for Tropical Medicine, Ho Chi Minh City, Vietnam; 4Centre for Tropical
+Medicine, Nufﬁeld Department of Medicine, University of Oxford, Oxford, UK; 5Sub-Department of Animal Health, My Tho, Tien Giang,
+
+Vietnam; 6Department of Infectious Diseases and Immunology, Faculty of Veterinary Medicine, Utrecht University, Utrecht,
+The Netherlands; 7Central Veterinary Institute of Wageningen UR, Lelystad, The Netherlands; 8Center for Social Science and
+
+Global Health, University of Amsterdam, Amsterdam, The Netherlands
+
+*Corresponding author. Tel: +84-8-39241761; Fax: +84-8-39238904; E-mail: trungnv@oucru.org
+
+Received 8 October 2014; returned 17 December 2014; revised 27 January 2015; accepted 6 February 2015
+
+Objectives: To describe the prevalence of antimicrobial resistance among commensal Escherichia coli isolates on
+household and small-scale chicken farms, common in southern Vietnam, and to investigate the association of
+antimicrobial resistance with farming practices and antimicrobial usage.
+
+Methods: We collected data on farming and antimicrobial usage from 208 chicken farms. E. coli was isolated
+from boot swab samples using MacConkey agar (MA) and MA with ceftazidime, nalidixic acid or gentamicin.
+Isolates were tested for their susceptibility to 11 antimicrobials and for ESBL production. Risk factor analyses
+were carried out, using logistic regression, at both the bacterial population and farm levels.
+
+Results: E. coli resistant to gentamicin, ciproﬂoxacin and third-generation cephalosporins was detected on 201
+(96.6%), 191 (91.8%) and 77 (37.0%) of the farms, respectively. Of the 895 E. coli isolates, resistance to genta-
+micin, ciproﬂoxacin and third-generation cephalosporins was detected in 178 (19.9%), 291 (32.5%) and 29
+(3.2%) of the isolates, respectively. Ciproﬂoxacin resistance was signiﬁcantly associated with quinolone usage
+(OR¼2.26) and tetracycline usage (OR¼1.70). ESBL-producing E. coli were associated with farms containing
+ﬁsh ponds (OR¼4.82).
+Conclusions: Household and small farms showed frequent antimicrobial usage associated with a high prevalence
+of resistance to the most commonly used antimicrobials. Given the weak biocontainment, the high prevalence of
+resistant E. coli could represent a risk to the environment and to humans.
+
+Keywords: antimicrobial use, antimicrobial resistance, poultry, treatment incidence
+
+Introduction
+
+Antimicrobials are extensively used in animal farming with the
+aim of treating and preventing animal diseases, as well as
+improving growth performance.1 The overuse of antimicrobials
+in food-animal farming is an important factor contributing to
+the emergence and dissemination of antimicrobial-resistant
+
+organisms in animal production systems, and contributes at
+an unknown level to the overall problem of antimicrobial resist-
+ance (AMR) in human medicine.2 The use of ﬂuoroquinolones,
+aminoglycosides and third-generation cephalosporins in animal
+farming is of particular concern, since these are among the most
+important antimicrobials currently available to treat serious
+human infections.3
+
+# The Author 2015. Published by Oxford University Press on behalf of the British Society for Antimicrobial Chemotherapy.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/
+4.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+1 of 9
+
+D
+o
+w
+n
+l
+o
+a
+d
+e
+d
+
+ 
+
+ 
+f
+r
+o
+m
+h
+t
+t
+p
+:
+/
+/
+j
+a
+c
+.
+o
+x
+f
+o
+r
+d
+j
+o
+u
+r
+n
+a
+l
+s
+.
+
+o
+r
+g
+/
+ 
+b
+y
+
+ 
+
+g
+u
+e
+s
+t
+ 
+
+o
+n
+M
+
+ 
+
+a
+r
+c
+h
+
+ 
+
+2
+7
+
+,
+ 
+
+2
+0
+1
+5
+
+Nguyen et al.
+
+Commensal Escherichia coli organisms are commonly used to
+monitor the prevalence of AMR in livestock and poultry, since they
+reﬂect well the selective pressure on Gram-negative enteric bac-
+teria.4,5 AMR determinants present in E. coli that are selected or
+ampliﬁed on farms may spread to humans through direct contact,
+by the consumption of meat or indirectly through environmental
+pathways.6 Furthermore, some animal-derived E. coli strains can
+also be pathogenic to humans or may act as a donor of AMR genes
+to other pathogenic Enterobacteriaceae.7,8
+
+A number of studies have demonstrated an overall higher
+prevalence of AMR among chicken E. coli compared with human
+E. coli isolates7,9 and have incriminated chickens as a source of
+ﬂuoroquinolone-resistant, extraintestinal pathogenic E. coli infec-
+tions in humans.7,10 Because of this, the recently observed
+increase in plasmid-mediated resistance to ﬂuoroquinolones
+among E. coli of chicken origin is of concern.5,11 Human infections
+caused by microorganisms that are resistant to third- and fourth-
+generation cephalosporins owing to the acquisition of ESBL genes
+have increased rapidly worldwide since they were ﬁrst described in
+1989. Recent reports have shown the presence of ESBL-producing
+E. coli in poultry12 – 14 and a great level of molecular similarity
+between ESBL-producing E. coli from chicken meat and humans,
+suggesting that chickens are a major source of this.15 – 17 A rise in
+aminoglycoside resistance in Gram-negative microorganisms has
+been described in European and Asian countries.18 In Vietnam,
+antimicrobials including ﬂuoroquinolones and aminoglycosides
+are extensively used in large-scale pig and poultry farming,19 – 21
+and a high prevalence of AMR to the two classes of antimicrobials
+has been observed in both commensal and zoonotic bacteria from
+farms and meat.22,23
+
+Vietnam is an agricultural country with around 70% of the
+population living in rural areas. Around 40% of households
+engage in poultry-raising,24 and 94% of these 8 million house-
+holds have a ﬂock size of ,50 chickens.25 Little is known about
+the prevalence of AMR in E. coli in such relatively small production
+systems or about its potential association with antimicrobial use
+and other farming practices. It is often assumed that, compared
+with larger farms, backyard farms use fewer antimicrobial drugs
+and more often feed their chickens with by-products instead of
+(often medicated) commercial feed. We therefore carried out a
+survey to investigate the prevalence of AMR in E. coli indicator bac-
+teria in Vietnamese household and small chicken farms, with the
+aims of: (i) estimating the prevalence of E. coli resistant to key
+antimicrobials, with a focus on ﬂuoroquinolones, aminoglycosides
+and third-generation cephalosporins; and (ii) identifying risk fac-
+tors for the faecal carriage of antimicrobial-resistant E. coli in
+chickens, including demographics, management practices and
+antimicrobial usage.
+
+Methods
+Study population
+With an area of 2481 km2, the province of Tien Giang (Vietnam) is home to
+(cid:2)1.67 million people and (cid:2)5.96 million chickens. For logistical reasons, the
+study was conducted in 3 districts (My Tho, Cho Gao and Chau Thanh) out
+of the 10 in the province as they contain 44.5% of the total chicken popu-
+lation of the province. The study population consisted of 208 chicken
+farms, equally divided into two strata according to the number of chickens
+per farm: ≥10–200 (‘household’ farms) and .200–2000 (‘small’ farms, in
+contrast to large scale farms with .2000 chickens). To avoid regional
+
+biases in the sampling, 34 farms from each of the four strata (district-farm
+size combinations) in Cho Gao and My Tho and 36 farms from each of the
+two strata in Chau Thanh were selected.
+
+The number of farms to be sampled from each commune (the lower
+administrative unit within a district) was calculated with a probability
+that was directly proportional to the number of farms in that commune
+according to the Vietnamese rural, agricultural and ﬁshery census in
+2006.26 Farms were randomly sampled from each chosen commune.
+Farmers refusing to participate were replaced by the next eligible farm.
+
+Written informed consent was obtained from all farmers prior to par-
+ticipation in the study. The study was approved by the Sub-Department of
+Animal Health (SDAH) and the Peoples’ Committee of Tien Giang Province.
+
+Data collection
+The farm visits were evenly distributed over the period March 2012 to April
+2013 to avoid seasonal effects. Data on antimicrobial usage and farm
+management practices were collected using a structured questionnaire,
+which was conceived in a workshop including local facilitators and was
+tested in the ﬁeld prior to sampling (available as Supplementary data at
+JAC Online). The questionnaire was aimed at the person with primary
+responsibility for chicken husbandry and contained both open and closed
+questions. This person was asked about details of the administration of
+any antibacterial formulation from restocking until the date of the visit
+for farms applying all-in-all-out (AIAO) systems, and for a ﬁxed period of
+90 days for the remaining farms not practising AIAO.
+
+SDAH staff gathered data on each antibacterial formulation adminis-
+tered (excluding coccidiostats and antiparasitic and antifungal drugs),
+including the commercial name of the product, the presentation and
+the number of containers used. To facilitate the farmers’ recall, open dis-
+cussions were initiated after inspecting the medicine cabinet for all pro-
+ducts present that contained antibacterial formulations. This approach
+is analogous to the medicine cabinet survey used in human medicine,
+which has been shown to be highly effective in obtaining information on
+the community usage of antimicrobial drugs.27
+
+Sample collection
+From each ﬂock, naturally pooled chicken faeces were collected from rep-
+resentative sections of the chicken pens/houses using two (household
+farms) or three (small farms) pairs of boot swabs attached to footwear.
+For unconﬁned ﬂocks, boot swab samples were collected from the areas
+where the chickens roosted at night. Boot swabs were used to walk at least
+30 steps on areas where fresh droppings were visible. For ﬂocks housed on
+stilts or caged ﬂocks where it was not possible to use boot swabs, visible
+faecal material was collected using two to three hand-held gauze swabs,
+which were similar in size to the boot swabs, each collecting material from
+at least 10 different locations.
+
+The swab samples were immediately stored at 48C, transferred to the
+laboratory in Ho Chi Minh City and cultured within 24 h after sample col-
+lection. Both the interviews and the faecal sample collection were con-
+ducted by trained veterinarians from Tien Giang SDAH.
+
+E. coli isolation
+A ﬁxed volume (225 mL) of buffered peptone water was added to each
+gauze or boot swab in a separate container and was then manually
+shaken. A volume of 1 mL from each container was pipetted and pooled
+into a sample. From this pooled sample, 1 mL was further diluted
+1:1000 in saline solution, and 50 mL of this suspension was plated onto
+MacConkey agar without supplement and MacConkey agar supplemented
+with ceftazidime (2 mg/L) to select for isolates with reduced susceptibility
+to third-generation cephalosporins, nalidixic acid (16 mg/L) to select for
+isolates with reduced susceptibility to quinolones, or gentamicin (8 mg/L)
+
+2 of 9
+
+D
+o
+w
+n
+l
+o
+a
+d
+e
+d
+
+ 
+
+ 
+f
+r
+o
+m
+h
+t
+t
+p
+:
+/
+/
+j
+a
+c
+.
+o
+x
+f
+o
+r
+d
+j
+o
+u
+r
+n
+a
+l
+s
+.
+
+o
+r
+g
+/
+ 
+b
+y
+
+ 
+
+g
+u
+e
+s
+t
+ 
+
+o
+n
+M
+
+ 
+
+a
+r
+c
+h
+
+ 
+
+2
+7
+
+,
+ 
+
+2
+0
+1
+5
+
+Prevalence and risk factors for carriage of antimicrobial-resistant E. coli on chicken farms in Vietnam
+
+JAC
+
+to select for isolates with reduced susceptibility to gentamicin. This was
+then incubated at 378C overnight. The total number of suspect E. coli col-
+onies was counted for each plate. A random selection of ﬁve (MacConkey
+agar not supplemented) and two (MacConkey agar supplemented with
+antimicrobial drugs) presumptive E. coli colonies of different morphologies
+were subcultured and were identiﬁed as E. coli using standard biochemical
+tests (hydrogen sulphide production, carbohydrate fermentation, urease
+test, nitrate reductase test, methyl red test, motility test and indole test)
+and/or API 20E (bioMe´rieux, France). Isolates conﬁrmed as E. coli were
+tested for their antimicrobial susceptibility.
+
+Antimicrobial susceptibility testing
+For the determination of antimicrobial susceptibility, the disc diffusion
+method was performed and interpreted according to breakpoints as
+deﬁned by the CLSI.28 The following antimicrobials were tested at the
+given disc content: ampicillin (10 mg), ceftriaxone (30 mg), ceftazidime
+(30 mg), amoxicillin/clavulanic acid (30 mg), chloramphenicol (30 mg),
+ciproﬂoxacin (5 mg), trimethoprim/sulfamethoxazole (1.25/23.75 mg),
+gentamicin (10 mg), amikacin (30 mg), tetracycline (30 mg) and merope-
+nem (10 mg). The potential production of ESBLs, as indicated by resistance
+to ceftriaxone and/or ceftazidime and by an inhibitory effect of clavulanic
+acid, was conﬁrmed using a double disc diffusion test according to CLSI
+guidelines. Strains with an intermediate susceptible result were considered
+resistant. An MDR strain was deﬁned as a strain resistant to at least three
+different classes of antimicrobials. A farm was deﬁned as ‘positive’ for a
+resistant E. coli if at least one E. coli isolate resistant to the antimicrobial
+drug under study was cultured from MacConkey agar either with or with-
+out supplementation with antimicrobial drugs. Quality controls for identi-
+ﬁcation and susceptibility testing were performed on a weekly basis
+according to CLSI guidelines.
+
+Since all the MacConkey agar plates (i.e. with or without supplementa-
+tion with antimicrobial drugs) were streaked using an identical inoculum,
+the counts of E. coli-like colonies on each plate were used to determine the
+proportion of colonies resistant to ceftazidime, gentamicin and nalidixic
+acid in relation to the total E. coli population for each farm.
+
+Data analyses
+Since the study was designed as a stratiﬁed survey with a ﬁxed number of
+farms in each stratum, not all the study units (farms) had the same prob-
+ability of being selected. The prevalence of resistance to each antimicrobial
+of a randomly selected isolate cultured from non-selective plates, as well
+as the prevalence of resistance by farm, was adjusted for the stratiﬁed sur-
+vey design by assigning a stratum-speciﬁc sampling weight (Wi) to each
+observation unit (either isolate or farm) using the following equation:
+Wi¼NT/Ni, where NT is the total number of farms in the three study districts
+(29106) and Ni is the number of farms in each stratum sampled (i¼1 . . .6).
+Standard errors were corrected to take into account potential similarities
+of prevalence between the farms in each stratum.29
+
+The frequency of antimicrobial treatment was quantiﬁed by calculating
+the treatment incidence (TI) as previously described.30 The TI is deﬁned
+as the number of chickens per 1000 that are treated daily with one DDD
+of each antimicrobial administered on each farm using the following
+formula:
+
+TI =
+
+[total amount of antimicrobial administered (mg)]
+
+[DDDs (mg/kg)×number of days at risk
+×total weight of chickens on farm (kg)]
+
+The total amount of an antimicrobial administered was calculated using:
+(i) the total consumption as reported by the farmer (i.e. the number of con-
+tainers of antimicrobial-containing products used); (ii) the concentration
+of the product; and (iii) the reporting usage period.
+
+The animal DDD was estimated based on the dosage mentioned in the
+drug’s instruction leaﬂet. In case the medication was dissolved in drinking
+water or feed, the dosage as indicated by the manufacturer was standar-
+dized to mg/kg chicken body weight, given that an average chicken con-
+sumes 190 mL of water and 80 g of feed per day. The average weight of
+one chicken was considered to be 1 kg.31 The Anatomical Therapeutic
+Chemical classiﬁcation system for veterinary medicinal products (ATCvet)32
+was used for antimicrobial drug identiﬁcation.
+
+To determine the risk factors associated with resistance that are con-
+sidered of clinical importance for human medicine, we modelled the prob-
+ability of a randomly selected E. coli isolate from any given farm for the
+following three outcomes: (i) resistance to ciproﬂoxacin; (ii) resistance to
+gentamicin; and (iii) multidrug resistance. This was carried out by building
+hierarchical generalized linear mixed regression models with the term
+‘farm’ modelled as a random effect.
+
+For the outcome ‘resistance to third-generation cephalosporins’, where
+we observed a very low probability of resistance among individual ran-
+domly selected E. coli isolates (3.2%), culture results from supplemented
+and unsupplemented plates were combined and standard logistic regres-
+sion models were built to model the probability of the presence of resistant
+strains on the farm.
+
+To build each model, a total of 42 variables were ﬁrst tested in univari-
+able analyses, including factors describing the farms (production type, size
+and presence of other animals), farmers’ demographic factors, husbandry
+factors and antimicrobial usage (see the Supplementary data for all the
+variables that were included). Variables were considered as a candidate
+for multivariable analysis based on their biological plausibility and a
+P value ,0.15 in the univariable analyses. Candidate variables were ranked
+by their degree of signiﬁcance and were included in the models starting
+with the most signiﬁcant and using a stepwise forward approach.33 In
+the ﬁnal multivariable models, variables were retained if their P value
+was ,0.05. All
+interactions between all signiﬁcant variables in the
+model were assessed.
+
+All statistical analyses were performed using the packages epicalc and
+
+survey with R statistical software (http://www.r-project.org).
+
+Results
+Description of farm demographic and management
+factors
+Of the 104 household farms, 76.0% raised chickens for meat,
+whereas 23.1% raised chickens with a mixed purpose (meat
+and eggs). In contrast, 60.6% of the 104 small farms raised
+egg-laying ﬂocks and 38.5% raised meat chickens (Table 1). The
+conﬁnement of chickens in pens or houses for 24 h per day was
+more common in small farms compared with household farms
+(89.4% versus 1.9%, respectively) (P,0.001). The percentage of
+small farms that used commercial feed (99.0%) was greater
+than the percentage of household farms that followed this prac-
+tice (70.2%) (P,0.001).
+
+Prevalence of AMR in E. coli isolates
+A total of 895 E. coli isolates were recovered from unsupplemen-
+ted MacConkey agar. The crude (unadjusted) and adjusted preva-
+lence of resistance in the E. coli isolates are presented in Table 2.
+Among these randomly selected E. coli isolates, the adjusted
+prevalence of resistance to ciproﬂoxacin was 24.2% (Table 2).
+The adjusted prevalence of resistance to gentamicin was 15.0%
+and to ‘any third-generation cephalosporin’ (ceftazidime and/or
+ceftriaxone) was 3.1% (Table 2). A total of 81.3% of isolates
+were MDR (Table 2).
+
+3 of 9
+
+D
+o
+w
+n
+l
+o
+a
+d
+e
+d
+
+ 
+
+ 
+f
+r
+o
+m
+h
+t
+t
+p
+:
+/
+/
+j
+a
+c
+.
+o
+x
+f
+o
+r
+d
+j
+o
+u
+r
+n
+a
+l
+s
+.
+
+o
+r
+g
+/
+ 
+b
+y
+
+ 
+
+g
+u
+e
+s
+t
+ 
+
+o
+n
+M
+
+ 
+
+a
+r
+c
+h
+
+ 
+
+2
+7
+
+,
+ 
+
+2
+0
+1
+5
+
+Nguyen et al.
+
+Table 1. Characteristics of 208 chicken farms in Tien Giang province, Vietnam, studied between March 2012 and April 2013
+
+Variable
+
+Age of farm manager (years), median (IQR)
+
+Male farm manager, no. of farms (%)
+
+Level of education attained, no. of farms (%)
+
+up to primary school
+secondary school
+higher
+
+No. of chickens, median (IQR)
+
+Production type, no. of farms (%)
+
+meat
+eggs
+mixed purpose
+
+Age of chickens (weeks), median (IQR)
+
+AIAO system, no. of farms (%)
+
+Chickens conﬁned in pen/house 24 h per day, no. of farms (%)
+
+Source of day-old chickens, no. of farms (%)
+
+hatched on farm
+local hatchery
+company hatchery
+other
+
+Presence of animals other than chickens, no. of farms (%)
+
+duck(s)
+pig(s)
+cattle/buffalo(s)
+dog(s)
+cat(s)
+ﬁsh/ﬁsh pond(s)
+
+Change shoes/boots before entering pen/house, no. of farms (%)
+
+Foot bath/foot dip at entrance, no. of farms (%)
+
+Use of commercial feed, no. of farms (%)
+
+Use of antimicrobials, no. of farms (%)
+
+Household farms (n¼104)
+
+Small farms (n¼104)
+
+46 (40–55)
+
+59 (56.7)
+
+38 (36.5)
+40 (38.5)
+26 (25.0)
+
+75 (63–120)
+
+79 (76.0)
+
+1 (1.0)
+
+24 (23.1)
+
+15 (8–20)
+
+32 (30.8)
+
+2 (1.9)
+
+59 (58.4)
+23 (22.8)
+
+8 (7.9)
+
+11 (10.9)
+
+103 (99.0)
+47 (45.2)
+54 (51.9)
+22 (21.2)
+97 (93.3)
+58 (55.8)
+65 (62.5)
+
+53 (51.0)
+
+43 (41.3)
+
+73 (70.2)
+
+49 (47.1)
+
+43 (37–52)
+
+77 (74.0)
+
+18 (17.3)
+54 (51.9)
+32 (30.8)
+
+1500 (1000–1900)
+
+40 (38.5)
+63 (60.6)
+1 (1.0)
+
+20 (8–32)
+
+68 (65.4)
+
+93 (89.4)
+
+10 (11.2)
+19 (21.3)
+59 (66.3)
+1 (1.1)
+
+97 (93.3)
+27 (26.0)
+42 (40.4)
+15 (14.4)
+83 (79.8)
+54 (51.9)
+54 (51.9)
+
+90 (86.5)
+
+82 (78.8)
+
+103 (99.0)
+
+72 (69.2)
+
+Prevalence of antimicrobial-resistant E. coli on
+chicken farms
+E. coli isolates resistant to tetracycline, trimethoprim/sulfameth-
+oxazole, chloramphenicol and ampicillin were detected on
+100% of farms. Isolates resistant to gentamicin (98.2%), amoxi-
+cillin/clavulanic acid (95.0%) and ciproﬂoxacin (92.8%) were also
+prevalent at most farms, whereas isolates resistant to ceftriaxone
+(44.6%), ceftazidime (44.2%) and amikacin (22.3%) were less
+common. At least one ESBL-producing E. coli isolate was recov-
+ered from 20.6% of farms. MDR E. coli isolates were identiﬁed at
+all farms (Table 2).
+
+population in each farm was estimated and is depicted in
+Figure 1. Colonies resistant to gentamicin and nalidixic acid
+accounted for 100% of E. coli-like colonies for 9 (4.3%) and 32
+(15.4%) farms, respectively.
+
+Antimicrobial usage
+The TIs of different classes of antimicrobial drugs are shown in
+Table 3. The mean TI was highest for tetracyclines (90.8) followed
+by macrolides (73.3), penicillins (52.1) and polymyxins (51.3)
+(Table 3). The TI for overall antimicrobial drug consumption was
+370.6, meaning that, on average per day, 371 chickens out of
+1000 were treated with one DDD of an antimicrobial drug.
+
+Proportion of E. coli isolates showing resistance by farms
+The proportion of E. coli isolates that were resistant to ceftazidime,
+gentamicin and nalidixic acid in relation to the total E. coli
+
+Risk factor analyses
+The use of quinolones (OR¼ 2.26) and tetracyclines (OR¼ 1.70)
+was signiﬁcantly associated with ciproﬂoxacin resistance in
+
+4 of 9
+
+D
+o
+w
+n
+l
+o
+a
+d
+e
+d
+
+ 
+
+ 
+f
+r
+o
+m
+h
+t
+t
+p
+:
+/
+/
+j
+a
+c
+.
+o
+x
+f
+o
+r
+d
+j
+o
+u
+r
+n
+a
+l
+s
+.
+
+o
+r
+g
+/
+ 
+b
+y
+
+ 
+
+g
+u
+e
+s
+t
+ 
+
+o
+n
+M
+
+ 
+
+a
+r
+c
+h
+
+ 
+
+2
+7
+
+,
+ 
+
+2
+0
+1
+5
+
+Prevalence and risk factors for carriage of antimicrobial-resistant E. coli on chicken farms in Vietnam
+
+JAC
+
+Table 2. Prevalence of AMR in E. coli isolates and on chicken farms without and with sampling adjustment in Tien Giang province, Vietnam
+
+Antimicrobial
+
+Tetracycline
+Trimethoprim/sulfamethoxazole
+Chloramphenicol
+Gentamicin
+Amikacin
+Ciproﬂoxacin
+Ampicillin
+Amoxicillin/clavulanic acid
+Ceftazidime
+Ceftriaxone
+Third-generation cephalosporinsc
+ESBL-conﬁrmed
+Meropenem
+MDRd
+
+E. coli isolatesa (n¼895)
+
+Farmsb (n¼208)
+
+prevalence of
+resistance (%)
+
+adjusted prevalence (%)
+
+(95% CI)
+
+prevalence of
+resistance (%)
+
+adjusted prevalence (%)
+
+(95% CI)
+
+93.4
+69.7
+68.1
+19.9
+5.4
+32.5
+86.0
+47.9
+2.0
+2.5
+3.2
+0.2
+0
+
+85.3
+
+91.1 (88.4–93.7)
+67.0 (62.7–71.3)
+61.2 (57.1–65.4)
+15.0 (11.8–18.1)
+5.4 (3.5–7.4)
+24.2 (20.3–28.1)
+83.2 (79.5–87.0)
+44.2 (39.6–48.9)
+1.9 (0.4–3.5)
+2.2 (0.7–3.7)
+3.1 (1.3–4.9)
+0.4 (0–1.1)
+
+0
+
+81.3 (77.8–84.8)
+
+100
+100
+99.0
+96.6
+22.1
+91.8
+100
+95.7
+31.2
+35.1
+37.0
+14.9
+
+0
+100
+
+100 (100–100)
+100 (100–100)
+100 (99.9–100)
+98.2 (95.0–100)
+22.3 (13.1–31.5)
+92.8 (87.2–98.4)
+100 (100–100)
+95.0 (89.7–100)
+44.2 (33.1–55.3)
+44.6 (33.5–55.7)
+45.9 (34.8–57.0)
+20.6 (11.5–29.7)
+
+0
+
+100 (100–100)
+
+aPrevalence of resistance among E. coli isolates randomly picked from unsupplemented MacConkey agar plates representing an unbiased snapshot of
+the E. coli population.
+bPrevalence of resistance among chicken farms based on the isolation of resistant E. coli using selective MacConkey agar containing ceftazidime,
+gentamicin or nalidixic acid.
+cCeftazidime and/or ceftriaxone.
+dResistant to at least three different classes of antimicrobial drugs.
+
+D
+o
+w
+n
+l
+o
+a
+d
+e
+d
+
+ 
+
+ 
+f
+r
+o
+m
+h
+t
+t
+p
+:
+/
+/
+j
+a
+c
+.
+o
+x
+f
+o
+r
+d
+j
+o
+u
+r
+n
+a
+l
+s
+.
+
+o
+r
+g
+/
+ 
+b
+y
+
+ 
+
+g
+u
+e
+s
+t
+ 
+
+o
+n
+M
+
+ 
+
+a
+r
+c
+h
+
+150
+
+s 100
+m
+r
+a
+f
+ 
+f
+o
+
+ 
+.
+
+o
+
+50N
+
+0
+
+0
+
+10 20 30 40
+E. coli resistant to ceftazidime (%)
+
+50 60 70 80 90 100
+
+0
+
+10 20 30 40
+E. coli resistant to gentamicin (%)
+
+50 60 70 80 90 100
+
+150
+
+s 100
+m
+r
+a
+f
+ 
+f
+o
+
+ 
+.
+
+o
+
+50N
+
+0
+
+150
+
+s 100
+m
+r
+a
+f
+ 
+f
+o
+
+ 
+.
+
+o
+
+50N
+
+0
+
+0
+
+10 20 30 40
+E. coli resistant to nalidixic acid (%)
+
+50 60 70 80 90 100
+
+Figure 1. Distribution of the percentage of E. coli isolates resistant to ceftazidime, gentamicin and nalidixic acid across all farms (n¼208).
+
+ 
+
+2
+7
+
+,
+ 
+
+2
+0
+1
+5
+
+5 of 9
+
+Nguyen et al.
+
+Table 3. TI of different classes of antimicrobial drugs used on household and small-scale chicken farms in Tien Giang province, Vietnam (n¼208)
+
+Class of antimicrobial
+druga
+
+Name of antimicrobial drug
+
+No. of farms using
+
+antimicrobial
+
+Mean TI
+
+Standard
+deviation
+
+Tetracyclines
+Macrolides
+Polymyxins
+Penicillins
+Quinolones
+Aminoglycosides
+Amphenicols
+Sulphonamides
+Lincosamides
+Spectinomycin
+Trimethoprim
+Pleuromutilins
+All classes
+
+doxycycline, oxytetracycline, tetracycline
+tylosin, tilmicosin, erythromycin, spiramycin
+colistin
+ampicillin, amoxicillin
+ﬂumequine, oxolinic acid, norﬂoxacin, enroﬂoxacin
+neomycin, gentamicin, apramycin, streptomycin
+ﬂorfenicol, thiamphenicol
+sulfamethoxazole, sulfadimidine, sulfadimethoxine, sulfamerazine
+lincomycin
+spectinomycin
+trimethoprim
+tiamulin
+all antimicrobials
+
+aClasses were based on ATCvet classiﬁcation.
+
+52
+40
+39
+33
+19
+15
+13
+10
+4
+4
+2
+1
+121
+
+90.8
+73.3
+51.3
+52.1
+44.3
+8.0
+6.4
+15.5
+8.5
+10.0
+0.3
+0.1
+370.6
+
+608.9
+582.0
+234.2
+383.1
+304.9
+40.7
+54.2
+140.6
+81.9
+85.0
+2.9
+1.0
+1447.4
+
+Table 4. Risk factors for resistance to ciproﬂoxacin, resistance to gentamicin and multidrug resistance in 895 randomly selected E. coli isolates recovered
+from 208 chicken farms (Tien Giang province, Vietnam)
+
+Outcome
+
+Ciproﬂoxacin resistancea
+
+Gentamicin resistanceb
+
+Multidrug resistancee,f
+
+Variable
+
+small farm (baseline¼household farm)
+use of commercial feed
+change shoes/boots practice
+AIAO system
+use of quinolones
+use of tetracyclines
+interaction ‘small farm’ and ‘change shoes/boots’
+interaction ‘use of commercial feed’ and ‘AIAO’
+
+use of tetracyclines
+presence of cat(s)
+change shoes/boots practice
+day-old chickens from other sourcesc
+use of lincosamides
+log(density)d
+chicken purpose (baseline¼egg-laying chicken)
+
+meat chicken
+mixed chicken
+
+use of commercial feed
+log(density)
+years of experience in chicken farming
+
+OR
+
+6.42
+1.87
+2.43
+0.17
+2.26
+1.70
+0.22
+10.99
+
+1.99
+0.44
+2.41
+4.93
+4.74
+1.32
+
+9.88
+5.03
+
+2.49
+1.28
+0.96
+
+95% CI
+
+2.74–15.03
+1.06–3.30
+1.44–4.09
+0.02–1.28
+1.20–4.25
+1.05–2.76
+0.09–0.55
+1.38–87.7
+
+1.17–3.36
+0.24–0.82
+1.27–4.59
+1.22–19.97
+1.18–18.97
+1.02–1.69
+
+5.32–18.33
+1.81–14.01
+
+1.14–4.14
+1.06–1.54
+0.93–0.99
+
+P
+
+,0.001
+0.032
+,0.001
+0.086
+0.011
+0.031
+0.001
+0.024
+
+0.011
+0.010
+0.007
+0.026
+0.028
+0.034
+
+,0.001
+0.002
+
+0.001
+0.008
+0.004
+
+aIntercept: 22.60 (SEM+0.28).
+bIntercept: 25.79 (SEM+0.74).
+cBaseline¼day-old chickens from industrial hatchery companies. Other sources include local hatcheries, markets and neighbours.
+dNumber of chickens per m2.
+eIntercept: 1.41 (SEM+0.28).
+fResistant to at least three different classes of antimicrobial drugs.
+
+E. coli isolates (Table 4). A small farm size and farming strategies
+including the use of commercial feed, the non-practising of an
+AIAO system and a change shoes/boots practice were all
+
+associated with ciproﬂoxacin resistance, but these associations
+were not independent (Table 4). We observed signiﬁcant interac-
+tions between small farm size and the practice of changing
+
+6 of 9
+
+D
+o
+w
+n
+l
+o
+a
+d
+e
+d
+
+ 
+
+ 
+f
+r
+o
+m
+h
+t
+t
+p
+:
+/
+/
+j
+a
+c
+.
+o
+x
+f
+o
+r
+d
+j
+o
+u
+r
+n
+a
+l
+s
+.
+
+o
+r
+g
+/
+ 
+b
+y
+
+ 
+
+g
+u
+e
+s
+t
+ 
+
+o
+n
+M
+
+ 
+
+a
+r
+c
+h
+
+ 
+
+2
+7
+
+,
+ 
+
+2
+0
+1
+5
+
+Prevalence and risk factors for carriage of antimicrobial-resistant E. coli on chicken farms in Vietnam
+
+JAC
+
+shoes/boots (OR¼0.22) as well as between the usage of commer-
+cial feed and use of the AIAO method (OR¼10.99).
+Lincosamide (OR¼ 4.74) and tetracycline (OR¼ 1.99) usage
+was associated with resistance to gentamicin in E. coli isolates.
+In addition, farming strategies, including a change shoes/boots
+practice (OR¼ 2.41), the purchase of day-old chickens from
+sources other than industrial hatchery companies (local hatcheries,
+markets, neighbours etc.) (OR¼ 4.93) and raising chickens for
+meat or mixed (meat and egg) purposes, but not solely for
+egg-laying purposes, (OR¼ 9.88 and OR¼ 5.03, respectively)
+were associated with the isolation of gentamicin-resistant E.
+coli. A high density of chickens (number of chickens per m2) was
+associated with both gentamicin resistance and multidrug resist-
+ance. We observed a 32% and 28% increase in the odds of isolat-
+ing gentamicin-resistant or MDR E. coli, respectively, for a one unit
+increase in chicken density (chickens per m2). The use of commer-
+cial feed was also associated with the isolation of MDR E. coli
+(OR¼2.49). The risk of carriage of MDR E. coli was decreased by
+4.0% for a one unit increase in the farmer’s number of years of
+experience of chicken-farming.
+The presence of ﬁsh pond(s) (OR¼2.93, 95% CI¼1.11–7.76)
+and the usage of any antimicrobial drug (OR¼ 2.80, 95%
+CI¼ 1.08 – 7.28) were associated with resistance to third-
+generation cephalosporins in E. coli. The presence of ﬁsh pond(s)
+(OR¼4.82, 95% CI¼1.27–18.27), the purchase of day-old chick-
+ens from other sources (local hatcheries, markets, neighbours
+etc.) compared with day-old chickens from industrial hatchery
+companies (OR¼ 13.02, 95% CI¼ 1.89 – 89.61) and having a
+change shoes/boots practice on the farm (OR¼ 3.4, 95%
+CI¼ 0.98 – 11.81) were associated with the presence of ESBL-
+producing E. coli on the farm.
+
+Discussion
+This study demonstrated a very high (81.3%) prevalence of MDR
+E. coli isolated from household and small-scale chicken farms in
+an unbiased study population in the Mekong Delta of Vietnam.
+The prevalence of resistance to both ciproﬂoxacin (24.2%) and
+gentamicin (15.0%) was substantial, while resistance to third-
+generation cephalosporins (3.1%) was of a much lower level.
+The prevalence of resistance among chicken farms based on the
+isolation of resistant E. coli using selective culture media was very
+high (Table 2). Our results indicate a generally higher or similar
+prevalence of AMR among chicken E. coli isolates from Vietnam
+to commonly used antimicrobials (tetracycline, chloramphenicol,
+ampicillin and gentamicin) compared with results from industria-
+lized countries.34 – 36 Data from seven European countries suggest
+a higher prevalence of ciproﬂoxacin resistance (57.6%), while data
+from ﬁve European countries indicate a higher prevalence of cef-
+tazidime resistance (11.1%) in chickens in these countries.37
+Although such comparisons should be interpreted with caution
+because of differences in sampling methods as well as differences
+in the breakpoints used for interpreting susceptibility test results
+between studies from different regions, the high prevalence of
+AMR observed in these backyard farms in Vietnam is striking and
+unexpected.
+
+The observed high prevalence of AMR reﬂects the common
+use of antimicrobial products for therapeutic and prophylactic
+purposes, as found in our survey on antimicrobial drug usage.
+
+Even though there was a large variation in TI between farms
+and between antimicrobial drugs, the TI of any antimicrobial
+drug usage calculated in our study (370.6) was much higher
+than the TI calculated for countries with industrial broiler produc-
+tion such as Belgium (131.8), the Netherlands (82.2) and Denmark
+(8.2).30,38 However, such comparisons should be interpreted
+with caution given the differences in study design. In addition,
+most of these products were available without prescription in a
+pilot survey across 20 veterinary drug stores in the area (data
+not shown).
+
+We found statistical associations between the usage of quino-
+lones and tetracyclines and ciproﬂoxacin resistance, as well as
+between the usage of tetracyclines and lincosamides and re-
+sistance to gentamicin. Other ﬁeld studies have also demon-
+strated that the use of quinolones selects for the carriage of
+quinolone-resistant E. coli in poultry.4,39 The association between
+tetracycline use and quinolone resistance may be explained by an
+effect of tetracycline-induced mutations in the mar operon result-
+ing in an overexpression of MarA, which increases resistance to
+multiple drugs including quinolones.40 Finally, the co-selection
+of resistance determinants, encoded by genes located on mobile
+elements such as integrons, could explain the observed associ-
+ation between the usage of tetracyclines and lincomycin, which
+is often formulated in combination with spectinomycin, and
+resistance to gentamicin.41 We acknowledge the limitations in
+obtaining accurate usage data derived from a cross-sectional
+study design. Recall biases with regard to data on usage may
+have introduced error with an unknown impact on the observed
+associations. In addition, we tried to use the TIs of different anti-
+microbials as continuous variables in the risk factor analyses.
+However, we did not succeed in achieving a stable model with
+these continuous variables and as a result we had to consider
+them as binary variables for the analyses. Despite these limita-
+tions, our study provides a unique view on antimicrobial drug
+usage and associated AMR in backyard chicken farms in Vietnam.
+The use of commercial feed was associated with an increased
+risk of ﬂuoroquinolone resistance and multidrug resistance, in
+agreement with a study on turkey farms in Europe,39 and reﬂects
+the fact that in Vietnam commercial poultry feed is commonly
+medicated with antimicrobials.42 In this study, we randomly
+collected 25 feed samples from 25 different chicken farms
+and tested these for the presence of antimicrobial agents
+(Premi-Test, R-Biopharm AG). Antimicrobial compound(s) were
+detected in all the feed samples (data not shown). The test does
+not, however, allow a further identiﬁcation of the antimicrobial
+compounds that were present or their concentrations in the feed.
+Independent of antimicrobial drug or medicated feed usage,
+there was mixed evidence of an association between the intensi-
+ﬁcation of chicken production and AMR. For example, E. coli
+isolates from household farms had clearly lower levels of cipro-
+ﬂoxacin resistance than isolates from small farms, and an
+increase in density of the chickens was associated with gentami-
+cin resistance and multidrug resistance. In contrast, AIAO sys-
+tems, which were more commonly observed at the larger farms,
+decreased the risk of ciproﬂoxacin resistance, while the purchase
+of day-old chickens from company hatcheries and the production
+of layer ﬂocks were associated with lower levels of gentamicin
+resistance, in line with studies in Europe that have reported a
+much lower level of gentamicin resistance in layer chickens com-
+pared with broiler chickens.37
+
+7 of 9
+
+D
+o
+w
+n
+l
+o
+a
+d
+e
+d
+
+ 
+
+ 
+f
+r
+o
+m
+h
+t
+t
+p
+:
+/
+/
+j
+a
+c
+.
+o
+x
+f
+o
+r
+d
+j
+o
+u
+r
+n
+a
+l
+s
+.
+
+o
+r
+g
+/
+ 
+b
+y
+
+ 
+
+g
+u
+e
+s
+t
+ 
+
+o
+n
+M
+
+ 
+
+a
+r
+c
+h
+
+ 
+
+2
+7
+
+,
+ 
+
+2
+0
+1
+5
+
+Nguyen et al.
+
+We did not ﬁnd evidence of any usage of third-generation
+cephalosporins on any chicken farm surveyed. However,
+in
+Vietnam, cephalosporins are among the antimicrobial classes
+most commonly used in human medicine.43,44 It is therefore pos-
+sible that there may have been a transmission of resistance deter-
+minants from humans or other species (e.g. pigs) to chickens,
+which would explain the observed, albeit low-prevalence, resist-
+ance to ceftazidime and ceftriaxone. We found that the presence
+of an integrated ﬁsh pond at a farm was associated with the iso-
+lation of third-generation cephalosporin-resistant and ESBL-pro-
+ducing E. coli. We speculate that this association was related to
+the contact of the chicken with ﬁsh pond water, which would
+underscore the relevance of human activities for AMR in poultry,
+since a relatively high proportion of households in the rural
+areas of the Mekong Delta do not have latrines that meet estab-
+lished hygiene standards in terms of their construction, operation
+and maintenance.45 A recent study in China suggested that the
+presence of ESBL-positive Enterobacteriaceae in ﬁsh farms was
+likely to have originated from contamination with human sew-
+age.46 Further comparisons of isolates from humans, chickens
+and ﬁsh ponds should help to elucidate this relationship.
+
+We have identiﬁed several potential risk factors for AMR in
+household and small-scale farms in southern Vietnam, which
+include antimicrobial usage, farm management practices and
+environmental risks. Given the existing low levels of ‘biocontain-
+ment’ on these farms and the rare use of personal protective
+equipment for farming personnel when dealing with the animals,
+as well as the fact that there is a great degree of overlap between
+the farming and the household environments, the risks of trans-
+mission of antimicrobial-resistant E. coli posed to both farmers
+and the communities living in the proximity of chicken farms are
+likely to be high. These need to be properly assessed in order to
+formulate effective strategies to limit the further development
+of resistance to safeguard human health.
+
+Acknowledgements
+Part of this work was presented at the Twenty-third European Congress of
+Clinical Microbiology and Infectious Diseases, Berlin, Germany, 2013
+(Abstract 1671).
+
+We would like to thank the staff at the Sub-Department of Animal
+Health of Tien Giang and the District Veterinary Station of the
+participating districts for their support in sample and data collection. We
+also thank Dr Inge van Geijlswijk (Pharmacy, Faculty of Veterinary
+Medicine, Utrecht, The Netherlands) for her advice on calculating
+antimicrobial consumption.
+
+Funding
+This work was funded by ZonMW/WOTRO (number 205100012), The
+Netherlands and the Wellcome Trust, UK (089276/Z/09/Z).
+
+Transparency declarations
+None to declare.
+
+8 of 9
+
+Supplementary data
+Supplementary data are available at JAC Online (http://jac.oxfordjournals.
+org/).
+
+References
+1 Page SW, Gautier P. Use of antimicrobial agents in livestock. Rev Sci Tech
+2012; 31: 145–88.
+2 Marshall BM, Levy SB. Food animals and antimicrobials: impacts on
+human health. Clin Microbiol Rev 2011; 24: 718–33.
+3 WHO. Critically Important Antimicrobials for Human Medicine. http://
+www.who.int/foodsafety/publications/antimicrobials-third/en/.
+4 da Costa PM, Belo A, Goncalves J et al. Field trial evaluating changes in
+prevalence and patterns of antimicrobial resistance among Escherichia coli
+and Enterococcus spp. isolated from growing broilers medicated with enro-
+ﬂoxacin, apramycin and amoxicillin. Vet Microbiol 2009; 139: 284–92.
+5 de Jong A, Stephan B, Silley P. Fluoroquinolone resistance of Escherichia
+coli and Salmonella from healthy livestock and poultry in the EU. J Appl
+Microbiol 2011; 112: 239–45.
+6 Aarestrup FM, Wegener HC, Collignon P. Resistance in bacteria of the
+food chain: epidemiology and control strategies. Expert Rev Anti Infect
+Ther 2008; 6: 733–50.
+7 Johnson JR, Kuskowski MA, Menard M et al. Similarity between human
+and chicken Escherichia coli isolates in relation to ciproﬂoxacin resistance
+status. J Infect Dis 2006; 194: 71–8.
+8 Hammerum AM, Heuer OE. Human health hazards from antimicrobial-
+resistant Escherichia coli of animal origin. Clin Infect Dis 2009; 48: 916–21.
+9 Miles TD, McLaughlin W, Brown PD. Antimicrobial resistance of Escherichia
+coli isolates from broiler chickens and humans. BMC Vet Res 2006; 2: 7.
+10 Literak I, Reitschmied T, Bujnakova D et al. Broilers as a source of
+quinolone-resistant and extraintestinal pathogenic Escherichia coli in the
+Czech Republic. Microb Drug Resist 2013; 19: 57–63.
+11 Huang SY, Dai L, Xia LN et al. Increased prevalence of plasmid-
+mediated quinolone resistance determinants in chicken Escherichia coli
+isolates from 2001 to 2007. Foodborne Pathog Dis 2009; 6: 1203–9.
+12 Yuan L, Liu JH, Hu GZ et al. Molecular characterization of extended-
+spectrum b-lactamase-producing Escherichia coli isolates from chickens
+in Henan Province, China. J Med Microbiol 2009; 58: 1449–53.
+13 Randall LP, Mueller-Doblies D, Lemma FL et al. Characteristics of cipro-
+ﬂoxacin and cephalosporin resistant Escherichia coli isolated from turkeys
+in Great Britain. Br Poult Sci 2013; 54: 96–105.
+14 Kola A, Kohler C, Pfeifer Y et al. High prevalence of extended-spectrum-
+b-lactamase-producing Enterobacteriaceae in organic and conventional
+retail chicken meat, Germany. J Antimicrob Chemother 2012; 67: 2631–4.
+15 Overdevest I, Willemsen I, Rijnsburger M et al. Extended-spectrum
+b-lactamase genes of Escherichia coli in chicken meat and humans, The
+Netherlands. Emerg Infect Dis 2011; 17: 1216–22.
+16 Leverstein-van Hall MA, Dierikx CM, Cohen Stuart J et al. Dutch patients,
+retail chicken meat and poultry share the same ESBL genes, plasmids and
+strains. Clin Microbiol Infect 2011; 17: 873–80.
+17 Depoorter P, Persoons D, Uyttendaele M et al. Assessment of human
+exposure to 3rd generation cephalosporin resistant E. coli (CREC) through con-
+sumption of broiler meat in Belgium. Int J Food Microbiol 2012; 159 : 30–8.
+18 Yamane K, Wachino J, Doi Y et al. Global spread of multiple aminogly-
+coside resistance genes. Emerg Infect Dis 2005; 11: 951–3.
+19 Dang PK, Saegerman C, Douny C et al. First survey on the use of anti-
+biotics in pig and poultry production in the Red River Delta region of
+Vietnam. Food and Public Health 2013; 3: 247–56.
+
+D
+o
+w
+n
+l
+o
+a
+d
+e
+d
+
+ 
+
+ 
+f
+r
+o
+m
+h
+t
+t
+p
+:
+/
+/
+j
+a
+c
+.
+o
+x
+f
+o
+r
+d
+j
+o
+u
+r
+n
+a
+l
+s
+.
+
+o
+r
+g
+/
+ 
+b
+y
+
+ 
+
+g
+u
+e
+s
+t
+ 
+
+o
+n
+M
+
+ 
+
+a
+r
+c
+h
+
+ 
+
+2
+7
+
+,
+ 
+
+2
+0
+1
+5
+
+Prevalence and risk factors for carriage of antimicrobial-resistant E. coli on chicken farms in Vietnam
+
+JAC
+
+20 CDDEP. Situation Analysis: Antibiotic Use and Resistance in Vietnam.
+http://www.cddep.org/sites/default/ﬁles/vn_report_web_1_8.pdf.
+21 Carrique-Mas JJ, Trung NV, Hoa NT et al. Antimicrobial usage in chicken
+production in the Mekong Delta of Vietnam. Zoonoses Public Health
+2014; 61: 1–9.
+22 Van TT, Moutaﬁs G, Tran LT et al. Antibiotic resistance in food-borne
+bacterial contaminants in Vietnam. Appl Environ Microbiol 2007; 73:
+7906–11.
+23 Carrique-Mas JJ, Bryant JE, Cuong NV et al. An epidemiological investi-
+gation of Campylobacter in pig and poultry farms in the Mekong delta of
+Vietnam. Epidemiol Infect 2014; 142: 1425–36.
+24 PRISE. A General Review and a Description of the Poultry Production in
+Vietnam. http://orbi.ulg.ac.be/bitstream/2268/157619/1/2008_Review_
+Poultry_Prod_Vietnam.PDF.
+25 Burgos S, Hong Hanh PT, Roland-Holst D et al. Characterization
+of poultry production systems in Vietnam. Int J Poult Sci 2007; 6: 709–12.
+26 General Statistics Ofﬁce of Vietnam. Results of the 2006 Rural,
+Agricultural and Fishery Census. Hanoi, Vietnam: Statistical Publishing
+House, 2007.
+27 WHO. How to Investigate the Use of Medicines by Consumers. http://
+www.who.int/drugresistance/Manual1_HowtoInvestigate.pdf.
+28 Clinical and Laboratory Standards Institute. Performance Standards for
+Antimicrobial Susceptibility Testing: Twenty-ﬁrst Informational Supplement
+M100-S21. CLSI, Wayne, PA, USA, 2011.
+29 Dohoo I, Martyn W, Stryhn H. Veterinary Epidemiologic Research. 2nd
+edn. Charlottetown, Canada: AVC Inc., 2010.
+30 Persoons D, Dewulf J, Smet A et al. Antimicrobial use in Belgian broiler
+production. Pre Vet Med 2012; 105: 320–5.
+31 MARAN 2009. Monitoring of Antimicrobial Resistance and
+Antibiotic Usage in Animals in the Netherlands in 2009. http://edepot.wur.
+nl/165958.
+32 WHO Collaborating Centre for Drug Statistics Methodology. Guidelines
+for ATCvet Classiﬁcation 2015. http://www.whocc.no/ﬁlearchive/publications/
+2015_atcvet_guidelines.pdf.
+33 Hosmer D, Lemeshow S, Sturdivant R. Applied Logistic Regression. 3rd
+edn. Hoboken, NJ, USA: John Wiley & Sons Inc., 2013.
+34 Tadesse DA, Zhao S, Tong E et al. Antimicrobial drug resistance in
+Escherichia coli from humans and food animals, United States, 1950 –
+2002. Emerg Infect Dis 2012; 18: 741–9.
+
+35 Persoons D, Dewulf J, Smet A et al. Prevalence and persistence of anti-
+microbial resistance in broiler indicator bacteria. Microb Drug Resist
+2010; 16: 67–74.
+36 Ozaki H, Esaki H, Takemoto K et al. Antimicrobial resistance in fecal
+Escherichia coli isolated from growing chickens on commercial broiler
+farms. Vet Microbiol 2012; 150: 132–9.
+37 European Food Safety Authority and ECDC. The European Union
+Summary Report on Antimicrobial Resistance in Zoonotic and Indicator
+Bacteria From Humans, Animals and Food in 2012. http://ecdc.europa.eu/
+en/publications/Publications/antimicrobial-resistance-in-zoonotic-and-
+indicator-bacteria-summary-report-2012.pdf.
+38 Bondt N, Jensen VF, Puister-Jansen LF et al. Comparing antimicrobial
+exposure based on sales data. Pre Vet Med 2013; 108: 10–20.
+39 Jones EM, Snow LC, Carrique-Mas JJ et al. Risk factors for antimicrobial
+resistance in Escherichia coli
+found in GB turkey ﬂocks. Vet Rec
+2013; 173: 422.
+40 Ruiz C, Levy SB. Many chromosomal genes modulate MarA-mediated
+multidrug resistance in Escherichia coli. Antimicrob Agents Chemother
+2010; 54: 2125–34.
+41 Toleman MA, Bennett PM, Walsh TR. ISCR elements: novel gene-
+capturing systems of the 21st century? Microbiol Mol Biol Rev 2006; 70:
+296–316.
+42 Dang ST, Petersen A, Van Truong D et al. Impact of medicated feed
+on the development of antimicrobial resistance in bacteria at inte-
+grated pig-ﬁsh farms in Vietnam. Appl Environ Microbiol 2011; 77:
+4494 – 8.
+43 Nguyen KV, Thi Do NT, Chandna A et al. Antibiotic use and resistance in
+emerging economies: a situation analysis for Viet Nam. BMC Public Health
+2013; 13: 1158.
+44 Nga DT, Chuc NT, Hoa NP et al. Antibiotic sales in rural and urban phar-
+macies in northern Vietnam: an observational study. BMC Pharmacol
+Toxicol 2014; 15: 6.
+45 Van Minh H, Nguyen-Viet H, Thanh NH et al. Assessing willingness to
+pay for improved sanitation in rural Vietnam. Environ Health Prev Med
+2013; 18: 275–84.
+46 Jiang HX, Tang D, Liu YH et al. Prevalence and characteristics
+of b-lactamase and plasmid-mediated quinolone resistance genes
+in Escherichia coli
+isolated from farmed ﬁsh in China. J Antimicrob
+Chemother 2012; 67: 2350–3.
+
+9 of 9
+
+D
+o
+w
+n
+l
+o
+a
+d
+e
+d
+
+ 
+
+ 
+f
+r
+o
+m
+h
+t
+t
+p
+:
+/
+/
+j
+a
+c
+.
+o
+x
+f
+o
+r
+d
+j
+o
+u
+r
+n
+a
+l
+s
+.
+
+o
+r
+g
+/
+ 
+b
+y
+
+ 
+
+g
+u
+e
+s
+t
+ 
+
+o
+n
+M
+
+ 
+
+a
+r
+c
+h
+
+ 
+
+2
+7
+
+,
+ 
+
+2
+0
+1
+5
+
+

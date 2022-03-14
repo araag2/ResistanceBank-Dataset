@@ -1,0 +1,1166 @@
+Zhang et al. Gut Pathog  (2017) 9:62 
+DOI 10.1186/s13099-017-0209-6
+
+Gut Pathogens
+
+RESEARCH
+Genotypic diversity, antimicrobial 
+resistance and biofilm-forming abilities 
+of Campylobacter isolated from chicken 
+in Central China
+
+Open Access
+
+Tengfei Zhang1,3†, Jun Dong1,2,4†, Yiluo Cheng1,2, Qin Lu1,3, Qingping Luo1,3, Guoyuan Wen1,3, Guoping Liu2,4* 
+and Huabin Shao1,2,3*
+
+Abstract 
+Background:  Campylobacter is considered to be the leading cause of human bacterial gastroenteritis, of which poul-
+try is the main reservoir. Campylobacter contaminated chicken products are a major cause of human Campylobacter 
+infection. In this study, the prevalence of Campylobacter in chicken in central China was investigated, and the geno-
+typic diversity, antimicrobial resistance and biofilm of these isolates were characterized.
+Results:  A total of 206 Campylobacter isolates, including 166 C. jejuni and 40 C. coli, were isolated from chicken farms 
+and live poultry markets in central China. Multilocus sequence typing and phylogenetic analysis showed that the 
+Campylobacter isolates had diverse genetic backgrounds, which covered most of the dominant clone complexes 
+(CCs) reported throughout China. The most prevalent CCs were CC-464, CC-1150, CC-353, and CC-828. All the iso-
+lates showed resistance to norfloxacin, ciprofloxacin and Cefazolin, and a prevalent resistance to fluoroquinolones, 
+β-lactams and tetracyclines was also observed. Among all the isolates, 133 strains showed the ability to form biofilm, 
+thereinto, the isolates in two genetic branches, mainly including CC-21, CC-48, CC-677 and CC-45, showed a signifi-
+cantly lower ability to form biofilm than other genetic branches (p < 0.05). However, in general, the ability to form 
+biofilm varied among different genetic branches, suggesting a complex genetic background to biofilm formation, but 
+not only the genetic lineages. Compared with the strains unable to form biofilm, biofilm-producing strains possessed 
+a significantly higher resistance to ampicillin, neomycin, sulfamethoxazole, amikacin, clindamycin and erythromycin 
+(p < 0.05).
+Conclusions:  To the best of our knowledge, this is the first report on the relationship of the genotypic diversity, 
+antimicrobial resistance and biofilm-forming abilities of Campylobacter isolated from chicken in Central China, which 
+showed the potential importance of biofilm in antimicrobial resistance. This study will help us better understand the 
+epidemiology and antimicrobial resistance of Campylobacter.
+Keywords:  Campylobacter, Prevalence, Antibiotic resistance, Genotype lineage, Biofilm
+
+*Correspondence:  hhaaiieerr@163.com; shhb1961@163.com 
+†Tengfei Zhang and Jun Dong authors contributed equally to this work
+1 Key Laboratory of Prevention and Control Agents for Animal Bacteriosis, 
+Institute of Animal Husbandry and Veterinary, Hubei Academy 
+of Agricultural Sciences, Wuhan, China
+2 College of Animal Science, Yangtze University, Jingzhou, China
+Full list of author information is available at the end of the article
+
+© The Author(s) 2017. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License 
+(http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, 
+provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, 
+and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Zhang et al. Gut Pathog  (2017) 9:62 
+
+Page 2 of 10
+
+Background
+Campylobacter is considered to be the leading cause of 
+human bacterial gastroenteritis worldwide [1], account-
+ing for an estimated 500 million infections per year glob-
+ally [2]. In severe cases of C. jejuni infection, individuals 
+may develop post infection complications associated with 
+Guillain Barré Syndrome [3]. In North China, 36 cases of 
+Guillain Barré Syndrome, resulted from C. jejuni infec-
+tion, were reported in 2007 [4].
+
+Campylobacter species, mainly including C. jejuni and 
+C. coli, widely colonize in the intestinal tract of wild and 
+domesticated animals and birds [5–7]. Chicken is one of 
+the most popular animal-based food sources worldwide, 
+which is also the reservoir of Campylobacter. Campylo-
+bacter-contaminated chicken products are a major cause 
+of human Campylobacter infection [8], which highlights 
+its potential public health threat. Several epidemiologic 
+studies on Campylobacter have been carried out in some 
+parts of China. From 2008 to 2014, Wang et al. reported 
+that the positive rates of C. jejuni and C. coli were 18.1 
+and  19.0%  respectively  in  five  provinces  of  China  [9]. 
+Zhang et al. analyzed the genetic diversity of the C. jejuni 
+isolates in Eastern China by multilocus sequence typing 
+(MLST) and identified 94 sequence types (STs) belong-
+ing to 18 clonal complexes (CCs) [10]. However, data on 
+the prevalence and genetic diversity of Campylobacter is 
+still limited in China, especially central China, which is 
+an important transportation junction.
+
+Moreover,  Campylobacter  isolates  have  raised  great 
+concerns  due  to  a  frequent  emergence  of  resistance  to 
+fluoroquinolone, erythromycin, and other drugs [11, 12], 
+which limits treatment alternatives. Therefore, analysis of 
+antimicrobial resistance of Campylobacter in the poultry 
+industry will contribute to managing cognate infections 
+and mitigating the emergence of antimicrobial resistant 
+strains.  Recent  years,  the  multidrug-resistant  Campy-
+lobacter have been frequently isolated, and a high anti-
+microbial  resistance  rate  of  Campylobacter,  especially 
+to  fluoroquinolone,  has  been  reported  in  many  areas 
+[13–15].  Multi-drug  resistance  of  Campylobacter  is 
+more severe in China where the resistance to fluoroqui-
+nolones was reported to be as high as 98% in some areas 
+[16, 17]. Although some of the mechanisms accounting 
+for antimicrobial resistance in Campylobacter have been 
+revealed  [11,  18,  19],  some  possible  factors  may  also 
+attribute to the raise of antimicrobial resistance, such as 
+the ability of biofilm formation.
+
+Our  previous  study  has  shown  that  the  Campylobac-
+ter positive rate was 17.2%, with bacterial count varying 
+from 3.6 to 360 most-probable-number (MPN)/g in the 
+positive samples of chicken meats collected from markets 
+in central China [20]. Studying the prevalence of Campy-
+lobacter in live chicken and their surroundings will help 
+
+us  further  control  these  pathogens.  In  this  study,  we 
+investigated the prevalence, antimicrobial resistance and 
+genetic diversity of Campylobacter strains isolated from 
+chicken farms and markets in central China, which is one 
+of the most important livestock and poultry circulation 
+centers. We also tested the biofilm-forming ability of the 
+Campylobacter isolates and analyzed the potential corre-
+lation among biofilm formation, genotypes, and antimi-
+crobial resistance.
+
+Methods
+Sampling and isolation of Campylobacter
+From  2012  to  2016,  a  total  of  817  samples,  including 
+317 anal swabs, 15 soils and 12 aerosols collected from 
+chicken farms, and 448 anal swabs, 15 soils and 10 aero-
+sols collected from live poultry markets, were collected 
+in central China (3 farms and 4 markets in Hubei, 2 farms 
+and 3 markets in Henan, 2 farms and 2 markets in Jiangxi 
+and 1 farm and 2 markets in Anhui). In each sampling 
+site,  35–45  anal  swabs  were  collected.  In  parts  of  sam-
+pling sites, 2 aerosol samples and 3 soil samples were col-
+lected. Freshly collected anal swabs or soils were kept into 
+Cary-Blair modified transport media (AMRESCO, USA). 
+Aerosols (375 L/sample) were collected using BioSamper 
+(SKC  Ltd,  USA).  The  samples  were  transported  to  the 
+laboratory for Campylobacter isolation. The samples were 
+resuspended in PBS which were used to inoculate Bolton 
+broth  containing  Campylobacter  growth  and  selective 
+supplements (Oxoid, England) and incubated at 42 °C for 
+24 h in air tight jars containing the AnaeroPack (Mitsubi-
+shi, Japan) to generate a microaerobic condition. 100 µl of 
+the culture was spread onto a modified charcoal cefoper-
+azone deoxycholate agar (mCCDA, Oxoid) plate contain-
+ing Campylobacter selective supplements and incubated 
+for 48 h at 42 °C under microaerobic condition [21]. The 
+suspected Campylobacter colonies were further purified 
+and identified by PCR as described [22]. C. jejuni and C. 
+coli  were  differentiated  by  hippuric  acid  hydrolysis  test 
+and  PCR  test  [6].  The  identified  Campylobacter  strains 
+were stored at − 80 °C in MH broth containing 30% (v/v) 
+glycerol.
+
+Antibiotic resistance profiles
+The  antibiotic  susceptibility  of  the  isolates  was  deter-
+mined by the disk diffusion method on Mueller-Hinton 
+Agar (MHA, Oxoid) according to the Clinical and Labo-
+ratory  Standards  Institute  Standards  guidelines  [23].  A 
+total  of  11  antibiotics  were  tested,  including  ampicillin 
+(Amp, 10 μg), Ceftriaxone (Cet, 30 μg), Cefazolin (Cez, 
+30 μg), amikacin (Ami, 30 μg), Neomycin (Neo, 30 μg), 
+tetracycline (Tet, 10 μg), sulfamethoxazole (Sul, 300 μg), 
+clindamycin (Cli, 10 μg), erythromycin (Ery, 10 μg), cip-
+rofloxacin (Cip, 5 μg) and norfloxacin (Nor, 10 μg). After 
+
+Zhang et al. Gut Pathog  (2017) 9:62 
+
+Page 3 of 10
+
+incubation for 24 h at 37 °C, the diameters (in mm) of 
+the inhibition zones were measured. E. coli strain ATCC 
+25922 and C. jejuni strain ATCC 33560 were used as the 
+quality control.
+
+Biofilm assays
+Biofilm formation was assessed as described [24]. Briefly, 
+overnight cultured cells were adjusted to an  OD590nm of 
+0.1  in  Brucella  medium  (Oxoid)  supplemented  with  5% 
+(v/v) chicken juice. To allow biofilm formation, 1 ml of 
+the  cell  culture  was  added  to  a  24-well  polystyrene  tis-
+sue culture plate (Corning) which was incubated at 37 °C 
+under  microaerobic  condition  for  48  h  before  stain-
+ing. For crystal violet staining, cells were discarded and 
+each well was washed with water, and the plate was then 
+dried at 60 °C for 30 min. One milliliter of 1% crystal vio-
+let  solution  was  added  to  each  well,  and  the  plate  was 
+incubated on a rocker at room temperature for 30 min. 
+Unbound  crystal  violet  was  washed  off  with  water  and 
+the  plate  was  dried  at  37  °C.  Bound  crystal  violet  was 
+dissolved  in  20%  (v/v)  acetone-containing  ethanol  for 
+10 min. The dissolved crystal violet was then poured into 
+cuvettes and  OD630nm was measured. All the tests were 
+performed in triplicate. Three wells were subject to the 
+same  treatment  but  without  bacteria  inoculated,  which 
+were used as the negative control. The cutoff OD value 
+(ODc) was defined as two times of the negative control 
+value as previously reported [25, 26]. Based on the OD 
+values,  strains  were  classified  into  the  following  three 
+categories: non-biofilm producer (OD ≤ ODc), weak bio-
+film producer (ODc < OD ≤ 2 × ODc) and strong biofilm 
+producer (2 × ODc < OD).
+MLST typing
+In order to determine the genetic diversity of the Campy-
+lobacter  isolates  and  their  relationship,  MLST  analysis 
+
+was  carried  out  as  previously  described  [27].  Briefly, 
+genomic DNA was extracted using MiniBEST Universal 
+Genomic  DNA  Extraction  Kit  (TaKaRa,  Dalian,  China) 
+according  to  the  manufacturer’s  instructions.  MLST 
+analysis  was  conducted  by  sequencing  seven  Campylo-
+bacter housekeeping genes (aspA, glnA, gltA, glyA, pgm, 
+tkt,  and  uncA).  The  primers  sets  for  these  seven  genes 
+and  their  amplification  conditions  were  used  as  previ-
+ously described [27]. Amplification products were puri-
+fied  and  sequenced.  Allele  numbers,  sequence  types 
+(STs)  and  clonal  complexes  (CCs)  were  assigned  using 
+the Campylobacter MLST database (http://pubmlst.org/
+Campylobacter/).  Novel  STs  were  submitted  to  MLST 
+database and assigned new numbers. Consensus network 
+of the calculated tree was constructed by SliptsTree 4 ver-
+sion 1.2 using the multi-aligned core genome sequence of 
+the different STs.
+
+Statistical analysis
+Chi  square  was  used  to  determine  the  significance  of 
+resistance rates in different biofilm-forming groups and 
+to compare the isolation rates of C. jejuni and C. coli. For 
+analyzing the biofilm-forming abilities, the mean OD val-
+ues (mean ± SEM) of isolates in each clade were calcu-
+lated, and two-tailed t tests were used to determine the 
+significance  of  the  biofilm-forming  abilities  in  different 
+clades p < 0.05 was considered statistically significant.
+
+Results
+Prevalence of Campylobacter
+As shown in Table 1, 206 Campylobacter strains (positive 
+rate 25.2%) were isolated, including 156 C. jejuni and 38 
+C. coli from anal swab samples, 5 C. jejuni and 2 C. coli 
+from soil samples, and 5 C. jejuni from aerosol samples. 
+The isolation rate of C. jejuni was higher than that of C. 
+coli (20.3% vs 4.9%, p = 0.000). Among these isolates, 66 
+
+Table 1  The prevalence of Campylobacter in chicken farms and poultry markets in central China
+
+Sources
+
+Sampling site (no.)
+
+No. of positive samples/collected samples
+
+Chicken farms
+
+Poultry markets
+
+Total
+
+Hubei (3)
+Henan (2)
+Anhui (2)
+Jiangxi (1)
+Hubei (4)
+Henan (3)
+Anhui (2)
+Jiangxi (2)
+
+Anal swabs
+
+Soils
+
+Aerosols
+
+Total
+
+C. jejuni
+
+C. coli
+
+C. jejuni
+
+C. coli
+
+C. jejuni
+
+C. coli
+
+C. jejuni
+
+C. coli
+
+23/112
+12/83
+15/82
+9/40
+32/167
+31/117
+19/86
+15/78
+156/765
+
+8/112
+5/83
+4/82
+1/40
+9/167
+4/117
+4/86
+3/78
+38/765
+
+1/9
+1/6
+N/A
+N/A
+1/9
+2/6
+N/A
+N/A
+5/30
+
+0/9
+1/6
+N/A
+N/A
+1/9
+0/6
+N/A
+N/A
+2/30
+
+4/8
+1/4
+N/A
+N/A
+0/6
+0/4
+N/A
+N/A
+5/22
+
+0/8
+0/4
+N/A
+N/A
+0/6
+0/4
+N/A
+N/A
+0/22
+
+66/344
+
+19/344
+
+100/473
+
+21/473
+
+166/817
+
+40/817
+
+Zhang et al. Gut Pathog  (2017) 9:62 
+
+Page 4 of 10
+
+C. jejuni (positive rate 19.2%) and 19 C. coli (positive rate 
+5.5%) were isolated from the 344 samples collected from 
+poultry farms, and 100 C. jejuni (positive rate 21.1%) and 
+21 C. coli (positive rate 4.4%) were isolated from the 473 
+samples collected from live poultry markets.
+
+Genetic diversity of Campylobacter
+MLST was performed to determine the genetic diversity 
+and clonal origins of the Campylobacter isolates, and the 
+details  of  MLST  results  have  been  listed  in  Additional 
+file 1: Table S1. As shown in Fig. 1, 206 isolates contained 
+a total of 72 different STs in our test. Among these iso-
+lates, 146 out of the 206 isolates possessed 50 different 
+STs  which  belonged  to  15  CCs.  The  remaining  60  iso-
+lates  belonged  to  22  different  unassigned  STs.  40  novel 
+STs harboring 106 isolates were isolated for the first time. 
+CC-464  was  the  most  frequently  isolated  clonal  com-
+plex  which  contained  33  isolates  belonging  to  ten  STs, 
+and accounted for 16.0% (33/206) of all the isolates. The 
+major clonal complexes also included CC-1150 (n = 25, 
+12.1%),  CC-353  (n  =  22,  10.7%)  and  CC-828  (n  =  16, 
+7.8%). The isolates collected from markets covered 61 STs 
+belonging to 12 CCs and unassigned, while those isolated 
+from chicken farms harbored 45 STs belonging to 12 CCs 
+and unassigned.
+
+All the STs were classified into five major clades (Fig. 1). 
+Clade 1 covered most of the isolates, including the two 
+major clonal complexes CC-464 and CC-353. All of the 
+C. coli isolates belonging to CC-1150 and CC-828 were 
+clustered in clade 2. The isolates recovered from chicken 
+markets and farms shared nine out of the fifteen clonal 
+complexes  and  all  the  clades  contained  isolates  recov-
+ered from chicken farms and markets, suggesting that the 
+isolates collected from the two places might share same 
+origins.
+
+Antimicrobial resistance profiles of Campylobacter
+As shown in Fig. 2a, all of the C. jejuni and C. coli iso-
+lates showed resistance to norfloxacin, ciprofloxacin and 
+Cefazolin. A high rate of resistance to tetracycline, cef-
+triaxone  and  ampicillin  has  also  been  observed  for  the 
+isolates, among which 89.69% of the C. jejuni and 90.24% 
+of the C. coli were resistant to tetracycline; 82.42% of the 
+C. jejuni and 97.56% of the C. coli were resistant to cef-
+triaxone; and 76.36.5% of the C. jejuni and 82.93% of the 
+C. coli were resistant to ampicillin. The isolates showed a 
+relative low rate of resistance to amikacin (4.85% of the 
+C. jejuni and 21.95% of the C. coli), neomycin (10.91% of 
+the C. jejuni and 14.63% of the C. coli), and erythromycin 
+(12.12% of the C. jejuni and 26.83% of the C. coli). Except 
+for  sulfamethoxazole  and  the  three  drugs  which  all  the 
+isolates were resistant to, the resistance rates of C. jejuni 
+were lower than that of C. coli in this study.
+
+As shown in Fig. 2b, all the isolates were resistant to 
+at least three tested antimicrobial agents, among which 
+95.1% of the isolates were resistant to more than five anti-
+biotics. There were four C. jejuni and two C. coli strains 
+that were resistant to all the eleven antimicrobial agents 
+tested.  However,  one  C.  jejuni  strain  showed  sensitiv-
+ity  to  most  of  the  antibiotics,  which  was  only  resistant 
+to three of antimicrobial agents tested. In general, most 
+of the isolates were resistant to 5–7 antimicrobial agents 
+tested.  The  most  frequent  multidrug  resistance  pattern 
+was resistance to ciprofloxacin, norfloxacin, tetracycline, 
+ampicillin,  ceftriaxone  and  cefazolin,  which  covered  54 
+isolates (Additional file 1: Table S1).
+
+Biofilm formation of Campylobacter isolates
+The  cutoff  OD  value  (ODc)  to  define  a  biofilm  pro-
+ducer was determined as  OD630nm = 0.279 as previously 
+described [26]. The  OD630nm values generated by crystal 
+violet  staining  of  each  isolate  were  listed  in  Additional 
+file 1: Table S1. Based on the biofilm-forming ability, 206 
+Campylobacter  isolates  were  classified  to  three  groups 
+(Table 2, Fig. 3). Seventy-three isolates (35.4%) were iden-
+tified  as  non-biofilm  producers   (OD630  ≤  0.279),  while 
+133  isolates  (64.6%)  were  biofilm  producers.  Among 
+these biofilm producers, 113 isolates were weak biofilm 
+producers (0.279 < OD630 ≤ 0.558) and 20 isolates were 
+strong biofilm producers  (OD630 > 0.558). All the soil iso-
+lates and aerosol isolates were biofilm producers.
+
+Correlation between biofilm formation and antimicrobial 
+resistance
+As shown in Table 2, both biofilm producers and non-
+biofilm  producers  showed  a  high  rate  of  resistance  to 
+ceftriaxone,  cefazolin,  tetracycline  and  two  fluoroqui-
+nolones  drugs  including  ciprofloxacin  and  norfloxacin. 
+However, compared with non-biofilm producers, biofilm 
+producers possessed a higher rate of resistance to ampi-
+cillin  (88.0%  vs  58.9%, p =  0.000),  neomycin  (18.0%  vs 
+2.7%, p = 0.002) and sulfamethoxazole (48.9% vs 8.2%, 
+p = 0.000). Moreover, all of the non-biofilm producers 
+were  sensitive  to  amikacin,  clindamycin  and  erythro-
+mycin.  In  contrast,  strong  biofilm  producers  showed 
+a resistance rate of more than 90% to clindamycin and 
+erythromycin.  Six  isolates,  which  were  resistant  to  all 
+the  types  of  antibiotics  tested,  were  biofilm  producers. 
+Among  them,  four  out  of  the  six  isolates  were  strong 
+biofilm  producers  (Additional  file  1:  Table  S1).  These 
+results  suggested  that  the  ability  of  biofilm  formation 
+had a positive correlation with antimicrobial resistance 
+of  the  Campylobacter  isolates.  However,  there  was  an 
+exception that compared with the non-biofilm produc-
+ers, the biofilm producers showed a lower rate of resist-
+ance to tetracycline.
+
+Zhang et al. Gut Pathog  (2017) 9:62 
+
+Page 5 of 10
+
+Fig. 1  The genetic relationships of all STs in this study. All the STs were clustered to five major clades. The CCs and the numbers of strains isolated 
+from chicken farms and poultry markets respectively in each ST were also listed. The numbers of strains isolated from soils (marked with “S”) or 
+aerosols (marked with “A”) were listed in bracket
+
+Zhang et al. Gut Pathog  (2017) 9:62 
+
+Page 6 of 10
+
+Fig. 2  Antimicrobial resistance of Campylobacter isolates. a Resistance rates of C. jejuni and C. coli isolates to 11 agents; b multidrug resistance of C. 
+jejuni and C. coli isolates to 11 agents
+
+Table 2  Antimicrobial resistance of Campylobacter isolates with different biofilm-forming abilities
+
+Classes
+
+Members
+
+Biofilm strong isolates (n = 20)
+No. of resistant 
+isolates
+
+Resistance rates 
+(%)
+
+Biofilm weak isolates (n = 113)
+Resistance 
+No. of resistant 
+isolates
+rates (%)
+
+Biofilm negative isolates (n = 73)
+Resistance rates 
+No. of resistant 
+isolates
+(%)
+
+β-lactams
+
+Ampicillin
+Ceftriaxone
+Cefazolin
+Aminoglycosides Neomycin
+Amikacin
+Tetracycline
+Sulfamethoxa-
+
+Tetracyclines
+Sulfonamides
+
+zole
+
+Fluoroquinones
+
+Lincosamides
+Macrolides
+
+Ciprofloxacin
+Norfloxacin
+Clindamycin
+Erythromycin
+
+19
+19
+20
+11
+8
+16
+19
+
+20
+20
+19
+18
+
+100
+95.0
+100
+55.0
+40.0
+80.0
+95.0
+
+100
+100
+95.0
+90.0
+
+98
+97
+113
+13
+9
+99
+46
+
+113
+113
+26
+13
+
+85.8
+85.8
+100.0
+11.5
+8.0
+84.1
+40.7
+
+100.0
+100.0
+23.0
+11.5
+
+43
+60
+73
+2
+0
+70
+6
+
+73
+73
+0
+0
+
+58.9
+82.2
+100.0
+2.7
+0
+95.9
+8.2
+
+100.0
+100.0
+0
+0
+
+Correlation between biofilm formation and genotypes
+As  shown  in  Figs.  1  and  3,  206  Campylobacter  isolates 
+fell  into  five  clades,  of  which  clade  1  and  2  had  more 
+members  than  the  other  clades.  The  mean  OD  values 
+in  each  clade  were  as  follows:  clade  1  =  0.37  ±  0.01, 
+clade  2  =  0.37  ±  0.02,  clade  3  =  0.25  ±  0.04,  clade 
+4 = 0.26 ± 0.03 and clade 5 = 0.31 ± 0.03. Although all 
+of the strong biofilm producers were present in clade 1 
+and clade 2, strains in these two clades exhibited different 
+levels  of  abilities  to  form  biofilm,  which  suggested  that 
+the ability of biofilm formation varied among the domi-
+nant  genotypes  of  Campylobacter.  75%  of  the  strains 
+(20/25) in clade 3 and clade 4 were non-biofilm produc-
+ers and the ability of biofilm-formation of the strains in 
+these two clades was significantly lower than that of the 
+
+other  clades  (clade  3  vs  clade  1,  p  =  0.007;  clade  3  vs 
+clade 2, p = 0.013; clade 4 vs clade 1, p = 0.012; clade 4 
+vs clade 2, p = 0.020). Strains which belonged to CC-21, 
+CC-48,  CC-677,  CC-45  and  a  few  unassigned  isolates 
+were included in these two clades.
+
+Discussion
+Poultry  are  recognized  as  a  main  reservoir  of  Campy-
+lobacter.  Consumption  of  poultry  is  considered  to  be 
+an  important  cause  of  human  infection  with  Campy-
+lobacter,  and  leads  to  extensive  spread  antimicrobial 
+resistance  [28].  In  this  study,  Campylobacter  strains 
+were isolated from 25.2% of the samples collected from 
+chicken farms and markets, including 166 C. jejuni and 
+40  C.  coli.  According  to  several  previous  reports,  the 
+
+Zhang et al. Gut Pathog  (2017) 9:62 
+
+Page 7 of 10
+
+in  the  same  region  [21].  Most  of  these  CCs  (CC-464, 
+CC-1150,  CC-353  and  CC-828)  were  also  frequently 
+identified  in  diarrhea  patients  worldwide  [33,  34].  In 
+North  China,  the  most  frequently  isolated  clonal  com-
+plexes  were  CC-21,  CC-353,  CC-354  and  CC-443  [31, 
+35], while the dominant clonal complexes of C. coli were 
+CC-828 and CC-1150 [36]. In East China, the most com-
+mon ST type of the Campylobacter strains isolated from 
+human and food was ST-353, while the dominant ST type 
+from chicken and food was ST-354 [10]. In Guangdong, 
+a province in southern China, the dominant clonal com-
+plex was CC-828 [37]. It seems that the dominant clonal 
+complexes  of  Campylobacter  were  discrepant  in  differ-
+ent regions. However, most of the CCs reported in these 
+regions  had  been  isolated  in  our  study,  which  may  be 
+because  central  China,  where  all  the  samples  were  col-
+lected, is one of the most important livestock and poultry 
+circulation centers in our country.
+
+A  total  of  40  novel  STs  were  identified  in  this  study. 
+Genetic  relationship  analysis  showed  that  different 
+sources  of  isolates  have  a  crossed  distribution  in  each 
+clonal group and most of the novel STs only have a minor 
+variation with a close phylogenetic relationship to known 
+CCs. Selection forces, such as differences in temperature, 
+structure  and  biochemical  and  immunological  habitats, 
+may accelerate the evolution to gain the ability to persist 
+in different enteric environments and survive in different 
+environments  during  transmission.  Clade  1  and  2  con-
+tained lots of small genetic branches, which may be due 
+to the adaptive evolution of isolates in these two clades 
+occurred more frequently in our investigated regions.
+
+Another  more  important  selection  pressure  might 
+be the usage of antibiotics, which could cause heritable 
+genetic mutations and horizontal resistance gene trans-
+fer, leading to serious antimicrobial resistance in Campy-
+lobacter [11, 38]. More seriously, some of the antibiotics 
+to which the Campylobacter isolates were resistant were 
+used  as  therapeutic  drugs  in  severe  cases  of  infection 
+[39]. Although resistance rates varied in different regions, 
+in general high resistance rates, especially to fluoroqui-
+nolones, were found in most of the studies in China. For 
+example,  in  Zhang  et  al.’s  study,  the  resistance  rate  of 
+Campylobacter  to  ciprofloxacin  was  100%,  and  94%  to 
+tetracycline,  61%  to  erythromycin,  and  50%  to  ampicil-
+lin [36]. Chen et al. reported that more than 98% of the 
+tested Campylobacter isolates were resistant to quinolo-
+nes  and  tetracycline  [40].  Even  as  early  as  in  2002,  the 
+prevalence  of  quinolone  resistance  of  the  isolates  had 
+been  up  to  85.9%  in  Hong  Kong  [41].  Low  resistance 
+rates  of  Campylobacter  were  only  reported  in  North-
+west  China  [42].  In  our  study,  a  very  high  resistance 
+rate to β-lactams, tetracyclines and fluoroquinones was 
+observed (Fig. 2), and a high resistance rate to the other 
+
+Fig. 3  Biofilm-forming abilities of Campylobacter isolates belonging 
+to different clonal complexes. The bottom broken lines indicate the 
+cutoff value (ODc = 0.279) and twofold cutoff value (ODc = 0.558). 
+Based on the OD values, the strains were classified in three cat-
+egories: non-biofilm producer (OD ≤ ODc), weak biofilm producer 
+(ODc < OD ≤ 2 × ODc) and strong biofilm producer (2 × ODc < OD)
+
+positive detection rate of Campylobacter in poultry farms 
+varies largely between different regions, ranging from 2 
+to 100%, and the prevalence of Campylobacter is lower in 
+Scandinavian countries than in other European countries, 
+North America, and developing countries [29]. China is 
+the biggest developing country in which a diverse preva-
+lence rate has also been reported in different parts of the 
+country. For example, Huang et al. revealed that C. jejuni 
+was frequently detected in poultry, with an average isola-
+tion rate of up to 18.61% [30]. Wang et al. showed that 
+the positive rates of C. jejuni and C. coli were 18.1 and 
+19.0% respectively in chicken in five provinces of China 
+[9]. In Tianjin, the contamination rates of C. jejuni and 
+other Campylobacter species were 13.7 and 5.7% respec-
+tively [31]. In this study, our data showed that the positive 
+rate of C. jejuni was a bit higher than most of the other 
+studies carried out in China. We also found that Campy-
+lobacter existed in the soils and aerosols of chicken farms 
+and markets, suggesting that the pathogens were widely 
+spreading  between  host  and  surroundings.  This  situa-
+tion  makes  it  harder  for  us  to  control  Campylobacter 
+infection. A prevalence and risk assessment of C. jejuni 
+in chicken in China suggested that key efforts should be 
+made, especially in chick breeding and chicken prepara-
+tion processes [32].
+
+In our study, MLST analysis showed a total of 72 dif-
+ferent  STs  belonging  to  15  CCs  and  some  unassigned 
+clonal complexes. The major clonal complexes included 
+CC-464,  CC-1150,  CC-353,  and  CC-828,  which  were 
+similar  to  our  previous  investigation  on  chicken  meat 
+
+Zhang et al. Gut Pathog  (2017) 9:62 
+
+Page 8 of 10
+
+drugs, such as erythromycin, was also found in the strong 
+biofilm producers (Table 2). Our previous study showed 
+that all of the fluoroquinolone-resistant strains contained 
+a  Thr-86-Ile  substitution  in  GyrA,  and  that  the  CmeR-
+Box  variations  increased  the  expression  of  CmeABC 
+efflux pump which led to the high resistance [43]. Over-
+expression of drug efflux pump may not only contribute 
+to  fluoroquinolones  resistance,  but  also  increase  resist-
+ance to other drugs [44–46]. Bacteria exposing in efflux 
+inhibitors or mutants in efflux pumps showed decreased 
+biofilm, which suggested that efflux pumps also contrib-
+uted to their biofilm formation [47, 48]. Although more 
+resistance mechanisms need to be revealed, efflux pumps 
+seem to play important roles in antimicrobial resistance 
+as well as biofilm formation.
+
+Biofilms  are  sessile  communities  of  bacterial  cells 
+enclosed  in  a  self-produced  extracellular  polysaccha-
+ride  matrix,  which  plays  an  important  role  in  evad-
+ing  host  immune  clearance  and  resisting  antimicrobial 
+agents, leading to persistent and chronic infections [26]. 
+Campylobacter may form a monospecies biofilm, which 
+protects them from environmental stress, including anti-
+biotic  treatment  [24].  In  our  tested  strains,  64.6%  were 
+identified  to  be  biofilm  producers.  Comparing  with  the 
+non-biofilm producers, the biofilm producers possessed 
+a  higher  resistance  rate  to  ampicillin,  neomycin,  sul-
+famethoxazole, amikacin, clindamycin and erythromycin. 
+Although studies on the correlation between biofilm and 
+antimicrobial resistance were limited in Campylobacter, 
+positive  impact  of  biofilm  on  reducing  the  permeation 
+of  ampicillin  has  been  reported  in  other  bacteria  [49]. 
+Some regulators, such as LuxS, have also been reported 
+to  be  linked  to  biofilm  formation  and  antimicrobial 
+resistance  in  some  bacteria  [50].  We  found  an  excep-
+tion that the resistance rate to tetracycline was higher in 
+non-biofilm  producing  isolates  than  in  biofilm  produc-
+ing strains, it may be due to the high distribution of the 
+resistance genes in non-biofilm producing isolates, such 
+as tet [51]. It is interesting that all of the soil isolates and 
+aerosol isolates were biofilm producers, which suggested 
+that biofilm might be an important factor to help strain 
+to survive in the surroundings as well as in the host. Our 
+study on the biofilm-forming characteristics of Campylo-
+bacter isolates would help us understand the increasing 
+resistance to antibiotics of Campylobacter as well as their 
+pathogenicity to host.
+
+In clade 3 and clade 4, 75% of the strains (20/25) were 
+non-biofilm producers and the biofilm-forming abilities 
+in  these  two  clades  were  significantly  lower  than  other 
+clades (p < 0.05). The closely related strains may have a 
+common ancestor, and STs developing from one biofilm-
+forming  ST  origin  may  share  better  biofilm-forming 
+ability.  The  correlation  of  the  origin  and  phylogenetic 
+
+relationship between their C. jejuni isolates and biofilm-
+forming  abilities  has  also  been  reported  [52].  Previous 
+studies also showed that some gene variants were asso-
+ciated with different C. jejuni multilocus sequence types, 
+such as fspA [53] and capA [54]. The association between 
+biofilm  related  genes  and  multilocus  sequence  types 
+needs to be further studied. However, isolates within the 
+same clade also exhibited varied abilities to form biofilm 
+in our study. Ben et al. analyzed the genome sequences of 
+strains with different biofilm-forming abilities, and found 
+that three genes were associated with the increased bio-
+film  formation  in  CC-21  and  43  genes  in  CC-45,  but 
+there was no overlap between these two CCs [55]. These 
+results suggested a complex genetic correlation between 
+genetic background and biofilm formation.
+
+Conclusions
+In  the  present  study,  a  high  prevalence  and  genotypic 
+diversity  were  observed  in  the  Campylobacter  strains 
+isolated  in  chicken  in  central  China.  We  analyzed  the 
+correlation  among  biofilm-forming  abilities,  MLST 
+genotype  and  antimicrobial  resistance,  which  revealed 
+a  positive  correlation  between  resistance  rate  and  the 
+ability  of  biofilm-forming.  This  study  will  help  us  bet-
+ter  understand  the  epidemiology  and  resistance  of 
+Campylobacter.
+Additional file
+
+Additional file 1: Table S1. The details of each Campylobacter isolates.
+
+Abbreviations
+MLST: multilocus sequence typing; STs: sequence types; CCs: clonal 
+complexes.
+
+Author’ contributions
+The experiments were performed mainly by JD, TZ, YC and QL, and some 
+experiments were performed with the help of QL and GW, TZ, JD and GL per-
+formed the data analysis. The study was designed by HS and GL. All authors 
+read and approved the final manuscript.
+
+Author details
+1 Key Laboratory of Prevention and Control Agents for Animal Bacteriosis, 
+Institute of Animal Husbandry and Veterinary, Hubei Academy of Agricultural 
+Sciences, Wuhan, China. 2 College of Animal Science, Yangtze University, Jin-
+gzhou, China. 3 Hubei Key Laboratory of Animal Embryo and Molecular Breed-
+ing, Institute of Animal and Veterinary Science, Hubei Academy of Agricultural 
+Sciences, Wuhan, China. 4 The Cooperative Innovation Center for Sustainable 
+Pig Production, Wuhan, China. 
+
+Acknowledgements
+Not applicable.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Availability of data and materials
+The authors declare that all data supporting the findings of this study are 
+available within the article.
+
+Zhang et al. Gut Pathog  (2017) 9:62 
+
+Page 9 of 10
+
+Consent for publication
+Not applicable.
+
+Ethics approval and consent to participate
+The experiments were approved by the Ethics Committee of Hubei Academy 
+of Agricultural Sciences according to Hubei Province Laboratory Animal Man-
+agement Regulations—2005.
+
+Funding
+This study was supported by Chinese Key Research and Development Plan 
+(2016YFD0500505), Chinese Special Fund for Agro-scientific Research in the 
+Public Interest (201303044) and Chinese Agriculture Research System (CARS-
+41-G13). CAAS Basic Research Business Expenses (Y2017PT50).
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.
+
+Received: 11 September 2017   Accepted: 23 October 2017
+
+References
+ 1.  Coker AO, Isokpehi RD, Thomas BN, Amisu KO, Obi CL. Human campylo-
+bacteriosis in developing countries. Emerg Infect Dis. 2002;8(3):237–44.
+Epps SV, Harvey RB, Hume ME, Phillips TD, Anderson RC, Nisbet DJ. 
+Foodborne Campylobacter: infections, metabolism, pathogenesis and 
+reservoirs. Int J Environ Res Public Health. 2013;10(12):6292–304.
+
+ 2. 
+
+ 3.  Goodfellow JA, Willison HJ. Guillain-Barre syndrome: a century of pro-
+
+gress. Nat Rev Neurol. 2016;12(12):723–31.
+
+ 4.  Ye Y, Zhu D, Wang K, Wu J, Feng J, Ma D, Xing Y, Jiang X. Clinical and elec-
+
+trophysiological features of the 2007 Guillain-Barre syndrome epidemic in 
+northeast China. Muscle Nerve. 2010;42(3):311–4.
+
+ 5.  Blaser MJ, LaForce FM, Wilson NA, Wang WL. Reservoirs for human campy-
+
+lobacteriosis. J Infect Dis. 1980;141(5):665–9.
+
+ 6.  Keller JI, Shriver WG. Prevalence of three campylobacter species, C. jejuni, 
+
+C. coli, and C. lari, using multilocus sequence typing in wild birds of the 
+Mid-Atlantic region, USA. J Wildl Dis. 2014;50(1):31–41.
+
+ 7.  Weis AM, Miller WA, Byrne BA, Chouicha N, Boyce WM, Townsend AK. 
+Prevalence and pathogenic potential of campylobacter isolates from 
+free-living, human-commensal american crows. Appl Environ Microbiol. 
+2014;80(5):1639–44.
+
+ 8.  Horrocks SM, Anderson RC, Nisbet DJ, Ricke SC. Incidence and ecology of 
+
+Campylobacter jejuni and coli in animals. Anaerobe. 2009;15(1–2):18–25.
+
+ 9.  Wang Y, Dong Y, Deng F, Liu D, Yao H, Zhang Q, Shen J, Liu Z, Gao Y, 
+
+Wu C, Shen Z. Species shift and multidrug resistance of Campylobacter 
+from chicken and swine, China, 2008–14. J Antimicrob Chemother. 
+2015;71(3):666–9.
+
+ 10.  Zhang G, Zhang X, Hu Y, Jiao XA, Huang J. Multilocus sequence types of 
+
+Campylobacter jejuni isolates from different sources in eastern China. Curr 
+Microbiol. 2015;71(3):341–6.
+Iovine NM. Resistance mechanisms in Campylobacter jejuni. Virulence. 
+2013;4(3):230–40.
+
+ 11. 
+
+ 12.  Hao H, Dai M, Wang Y, Peng D, Liu Z, Yuan Z. 23S rRNA mutation A2074C 
+
+conferring high-level macrolide resistance and fitness cost in Campylo-
+bacter jejuni. Microb Drug Resist. 2009;15(4):239–44.
+
+ 13.  Klein-Jobstl D, Sofka D, Iwersen M, Drillich M, Hilbert F. Multilocus 
+
+sequence typing and antimicrobial resistance of Campylobacter jejuni 
+isolated from Dairy Calves in Austria. Front Microbiol. 2016;7:72.
+
+ 14.  Bakeli G, Sato K, Kumita W, Saito R, Ono E, Chida T, Okamura N. Antimicro-
+
+bial susceptibility and mechanism of quinolone resistance in Campylo-
+bacter jejuni strains isolated from diarrheal patients in a hospital in Tokyo. 
+J Infect Chemother. 2008;14(5):342–8.
+
+ 15.  Tang Y, Sahin O, Pavlovic N, LeJeune J, Carlson J, Wu Z, Dai L, Zhang Q. 
+
+Rising fluoroquinolone resistance in Campylobacter isolated from feedlot 
+cattle in the United States. Sci Rep. 2017;7(1):494.
+
+ 16.  Bai Y, Cui S, Xu X, Li F. Enumeration and characterization of Campylobacter 
+species from retail chicken carcasses in Beijing, China. Foodborne Pathog 
+Dis. 2014;11(11):861–7.
+
+ 17.  Nguyen TN, Hotzel H, El-Adawy H, Tran HT, Le MT, Tomaso H, Neubauer H, 
+
+Hafez HM. Genotyping and antibiotic resistance of thermophilic Campy-
+lobacter isolated from chicken and pig meat in Vietnam. Gut Pathog. 
+2016;8:19.
+
+ 18.  Yao H, Liu D, Wang Y, Zhang Q, Shen Z. High prevalence and predomi-
+nance of the aph (2 ″)-If gene conferring aminoglycoside resistance in 
+Campylobacter. Antimicrob Agents Chemother. 2017;61(5):e00112–7.
+ 19.  Tang Y, Dai L, Sahin O, Wu Z, Liu M, Zhang Q. Emergence of a plasmid-
+
+borne multidrug resistance gene cfr(C) in foodborne pathogen Campylo-
+bacter. J Antimicrob Chemother. 2017;72(6):1581–8.
+
+ 20.  Zhang T, Luo Q, Chen Y, Li T, Wen G, Zhang R, Luo L, Lu Q, Ai D, Wang H, 
+
+et al. Molecular epidemiology, virulence determinants and antimicrobial 
+resistance of Campylobacter spreading in retail chicken meat in Central 
+China. Gut Pathog. 2016;8:48.
+
+ 21.  Zhang A, Song L, Liang H, Gu Y, Zhang C, Liu X, Zhang J, Zhang M. 
+
+Molecular subtyping and erythromycin resistance of Campylobacter in 
+China. J Appl Microbiol. 2016;121(1):287–93.
+
+ 22.  Tang JY, Nishibuchi M, Nakaguchi Y, Ghazali FM, Saleha AA, Son R. Transfer 
+of Campylobacter jejuni from raw to cooked chicken via wood and plastic 
+cutting boards. Lett Appl Microbiol. 2011;52(6):581–8.
+
+ 23.  Serichantalergs O, Pootong P, Dalsgaard A, Bodhidatta L, Guerry P, Tribble 
+DR, Anuras S, Mason CJ. PFGE, Lior serotype, and antimicrobial resistance 
+patterns among Campylobacter jejuni isolated from travelers and US mili-
+tary personnel with acute diarrhea in Thailand, 1998-2003. Gut Pathog. 
+2010;2(1):15.
+
+ 24.  Brown HL, Reuter M, Salt LJ, Cross KL, Betts RP, van Vliet AH. Chicken juice 
+
+enhances surface attachment and biofilm formation of Campylobacter 
+jejuni. Appl Environ Microbiol. 2014;80(22):7053–60.
+
+ 25.  Yi K, Rasmussen AW, Gudlavalleti SK, Stephens DS, Stojiljkovic I. Biofilm 
+formation by Neisseria meningitidis. Infect Immun. 2004;72(10):6132–8.
+ 26.  Jin H, Zhou R, Kang M, Luo R, Cai X, Chen H. Biofilm formation by field 
+
+isolates and reference strains of Haemophilus parasuis. Vet Microbiol. 
+2006;118(1–2):117–23.
+
+ 27.  Dingle KE, Colles FM, Wareing DR, Ure R, Fox AJ, Bolton FE, Bootsma HJ, 
+Willems RJ, Urwin R, Maiden MC. Multilocus sequence typing system for 
+Campylobacter jejuni. J Clin Microbiol. 2001;39(1):14–23.
+
+ 28.  Skarp CPA, Hanninen ML, Rautelin HIK. Campylobacteriosis: the role of 
+
+poultry meat. Clin Microbiol Infect. 2016;22(2):103–9.
+
+ 29.  Sahin O, Kassem II, Shen Z, Lin J, Rajashekara G, Zhang Q. Campy-
+
+lobacter in poultry: ecology and potential interventions. Avian Dis. 
+2015;59(2):185–200.
+
+ 30.  Huang JL, Xu HY, Bao GY, Zhou XH, Ji DJ, Zhang G, Liu PH, Jiang F, 
+
+Pan ZM, Liu XF, et al. Epidemiological surveillance of Campylobacter 
+jejuni in chicken, dairy cattle and diarrhoea patients. Epidemiol Infect. 
+2009;137(8):1111–20.
+
+ 31.  Ma H, Su Y, Ma L, Li P, Du X, Golz G, Wang S, Lu X. Prevalence and charac-
+terization of Campylobacter jejuni isolated from retail chicken in Tianjin. 
+China. J Food Prot. 2017;80(6):1032–40.
+
+ 32.  Wang J, Guo YC, Li N. Prevalence and risk assessment of Campylobacter 
+
+jejuni in chicken in China. Biomed Environ Sci. 2013;26(4):243–8.
+
+ 33.  Piccirillo A, Giacomelli M, Salata C, Bettanello S, De Canale E, Palu G. 
+
+ 34. 
+
+Multilocus sequence typing of Campylobacter jejuni and Campylobacter 
+coli from humans and chickens in North-eastern Italy. New Microbiol. 
+2014;37(4):557–62.
+Ioannidou V, Ioannidis A, Magiorkinis E, Bagos P, Nicolaou C, Legakis N, 
+Chatzipanagiotou S. Multilocus sequence typing (and phylogenetic 
+analysis) of Campylobacter jejuni and Campylobacter coli strains isolated 
+from clinical cases in Greece. BMC Res Notes. 2013;6:359.
+
+ 35.  Zhang M, Gu Y, He L, Ran L, Xia S, Han X, Li H, Zhou H, Cui Z, Zhang J. 
+Molecular typing and antimicrobial susceptibility profiles of Campy-
+lobacter jejuni isolates from north China. J Med Microbiol. 2010;59(Pt 
+10):1171–7.
+
+ 36.  Zhang M, Liu X, Xu X, Gu Y, Tao X, Yang X, Yan G, Zhang J. Molecular 
+
+subtyping and antimicrobial susceptibilities of Campylobacter coli isolates 
+from diarrheal patients and food-producing animals in China. Foodborne 
+Pathog Dis. 2014;11(8):610–9.
+
+Zhang et al. Gut Pathog  (2017) 9:62 
+
+Page 10 of 10
+
+ 37.  Liu D, Deng F, Gao Y, Yao H, Shen Z, Wu C, Wang Y, Shen J. Dissemination 
+
+ 47.  Kvist M, Hancock V, Klemm P. Inactivation of efflux pumps abolishes 
+
+of erm(B) and its associated multidrug-resistance genomic islands in 
+Campylobacter from 2013 to 2015. Vet Microbiol. 2017;204:20–4.
+
+ 38.  Hao H, Yuan Z, Shen Z, Han J, Sahin O, Liu P, Zhang Q. Mutational and 
+
+transcriptomic changes involved in the development of macrolide 
+resistance in Campylobacter jejuni. Antimicrob Agents Chemother. 
+2013;57(3):1369–78.
+
+ 39.  Zhu XH, Tian L, Cheng ZJ, Liu WY, Li S, Yu WT, Zhang WQ, Xiang X, Sun 
+
+ZY. Viral and bacterial etiology of acute diarrhea among children under 
+5 years of age in Wuhan. China. Chin Med J (Engl). 2016;129(16):1939–44.
+ 40.  Chen X, Naren GW, Wu CM, Wang Y, Dai L, Xia LN, Luo PJ, Zhang Q, Shen 
+JZ. Prevalence and antimicrobial resistance of Campylobacter isolates in 
+broilers from China. Vet Microbiol. 2010;144(1–2):133–9.
+
+ 41.  Chu YW, Chu MY, Luey KY, Ngan YW, Tsang KL, Kam KM. Genetic related-
+ness and quinolone resistance of Campylobacter jejuni strains isolated in 
+2002 in Hong Kong. J Clin Microbiol. 2004;42(7):3321–3.
+
+ 42.  Wang X, Zhao S, Harbottle H, Tran T, Blickenstaff K, Abbott J, Meng J. 
+
+Antimicrobial resistance and molecular subtyping of Campylobacter jejuni 
+and Campylobacter coli from retail meats. J Food Prot. 2011;74(4):616–21.
+
+ 43.  Zhang T, Cheng Y, Luo Q, Lu Q, Dong J, Zhang R, Wen G, Wang H, Luo 
+L, Liu G et al. Correlation between gyrA and CmeR Box polymorphism 
+and fluoroquinolone resistance in Campylobacter jejuni isolates in China. 
+Antimicrob Agents Chemother 2017;61(7):e00422-17.
+
+ 44.  Lin J, Martinez A. Effect of efflux pump inhibitors on bile resistance and 
+
+in vivo colonization of Campylobacter jejuni. J Antimicrob Chemother. 
+2006;58(5):966–72.
+
+ 45.  Mavri A, Smole Mozina S. Effects of efflux-pump inducers and genetic 
+
+variation of the multidrug transporter cmeB in biocide resistance of 
+Campylobacter jejuni and Campylobacter coli. J Med Microbiol. 2013;62(Pt 
+3):400–11.
+
+ 46.  Su CC, Yin L, Kumar N, Dai L, Radhakrishnan A, Bolla JR, Lei HT, Chou TH, 
+Delmar JA, Rajashankar KR, et al. Structures and transport dynamics of a 
+Campylobacter jejuni multidrug efflux pump. Nat Commun. 2017;8(1):171.
+
+bacterial biofilm formation. Appl Environ Microbiol. 2008;74(23):7376–82.
+
+ 48.  Teh AHT, Lee SM, Dykes GA. Identification of potential Campylobacter 
+
+jejuni genes involved in biofilm formation by EZ-Tn5 Transposome 
+mutagenesis. BMC Res Notes. 2017;10(1):182.
+
+ 49.  Shen L, Yuan X, Shen W, He N, Wang Y, Lu H, Lu Y. Positive impact of 
+
+biofilm on reducing the permeation of ampicillin through membrane for 
+membrane bioreactor. Chemosphere. 2014;97:34–9.
+
+ 50.  Li L, Xu Z, Zhou Y, Li T, Sun L, Chen H, Zhou R. Analysis on Actinobacillus 
+
+pleuropneumoniae LuxS regulated genes reveals pleiotropic roles of LuxS/
+AI-2 on biofilm formation, adhesion ability and iron metabolism. Microb 
+Pathog. 2011;50(6):293–302.
+
+ 51.  Abdi-Hachesoo B, Khoshbakht R, Sharifiyazdi H, Tabatabaei M, Hos-
+seinzadeh S, Asasi K. Tetracycline resistance genes in Campylobacter 
+jejuni and C. coli isolated from poultry carcasses. Jundishapur J Microbiol. 
+2014;7(9):e12129.
+
+ 52.  Kudirkiene E, Cohn MT, Stabler RA, Strong PC, Serniene L, Wren BW, 
+Nielsen EM, Malakauskas M, Brondsted L. Phenotypic and genotypic 
+characterizations of Campylobacter jejuni isolated from the broiler meat 
+production process. Curr Microbiol. 2012;65(4):398–406.
+
+ 53.  de Haan CP, Kivisto R, Hanninen ML. Association of Campylobacter jejuni 
+Cj0859c gene (fspA) variants with different C. jejuni multilocus sequence 
+types. Appl Environ Microbiol. 2010;76(20):6942–3.
+
+ 54.  Flanagan RC, Neal-McKinney JM, Dhillon AS, Miller WG, Konkel ME. Exami-
+
+nation of Campylobacter jejuni putative adhesins leads to the identifica-
+tion of a new protein, designated FlpA, required for chicken colonization. 
+Infect Immun. 2009;77(6):2399–407.
+
+ 55.  Pascoe B, Meric G, Murray S, Yahara K, Mageiros L, Bowen R, Jones NH, 
+
+Jeeves RE, Lappin-Scott HM, Asakura H, et al. Enhanced biofilm formation 
+and multi-host transmission evolve from divergent genetic backgrounds 
+in Campylobacter jejuni. Environ Microbiol. 2015;17(11):4779–89.
+
+•  We accept pre-submission inquiries •  Our selector tool helps you to ﬁnd the most relevant journal•  We provide round the clock customer support •  Convenient online submission•  Thorough peer review•  Inclusion in PubMed and all major indexing services •  Maximum visibility for your researchSubmit your manuscript atwww.biomedcentral.com/submitSubmit your next manuscript to BioMed Central and we will help you at every step:

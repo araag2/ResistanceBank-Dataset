@@ -1,0 +1,1237 @@
+MICROBIAL DRUG RESISTANCE
+Volume 00, Number 00, 2017
+ª Mary Ann Liebert, Inc.
+DOI: 10.1089/mdr.2017.0127
+
+EPIDEMIOLOGY
+
+Antibiotic Resistance in Salmonella from Retail Foods
+
+of Animal Origin and Its Association
+
+with Disinfectant and Heavy Metal Resistance
+
+Wenwen Deng,1 Yuan Quan,2 Shengzhi Yang,1 Lijuan Guo,1 Xiuli Zhang,3 Shuliang Liu,4
+Shujuan Chen,4 Kang Zhou,4 Li He,4 Bei Li,5 Yunfu Gu,1 Shaohua Zhao,6 and Likou Zou1
+
+This study aims to demonstrate the antibiotic resistance and its association with disinfectant and heavy metal
+resistance in 152 Salmonella isolates recovered from retail foods of animal origins. Susceptibility testing
+demonstrated that 92.8% isolates were resistant to at least one antibiotic, and the resistance was highest to
+oxytetracycline (80.9%), followed by trimethoprim (64.5%), amoxicillin (28.9%), ampicillin (28.3%), levo-
+ﬂoxacin (21.7%), ciproﬂoxacin (16.4%), and gentamicin (10.5%), respectively. The blaTEM and tetA genes
+(44.7%) were commonly present. The qacF and qacED1 genes were detected in 18.4% and 8.6% of all isolates.
+The Cu-resistance genes pcoR, pcoC, and pcoA were the most prevalent (20.4–40.8%), followed by Hg-
+resistance gene merA (17.8%) and As-resistance genes arsB (6.6%). The antibiotic resistance was highly
+associated with disinfectant or certain heavy metal resistance genes. Most notably, the association among Cu-
+resistance genes ( pcoC, pcoR), disinfectant resistance genes (qacF, qacED1), and tetracycline and sulfonamide
+resistance genes (tet, sul) was signiﬁcant ( p < 0.05). Pulsed-ﬁeld gel electrophoresis revealed that Salmonella
+isolates was associated with supermarkets indicating the possibility of crosscontamination in farms or pro-
+cessing environment. This study indicated that retail meats may be a reservoir for the dissemination of
+antibiotic-resistant Salmonella and using disinfectants for decontamination or metals in livestock may provide a
+pressure for coselecting strains with acquired resistance to other antimicrobials.
+
+Keywords: antibiotic, disinfectant, heavy metal, resistance, Salmonella
+
+Introduction
+
+S almonella is recognized as a common bacterial cause
+
+of foodborne diarrheal illness worldwide.1–3 Every year,
+*42,000 cases of salmonellosis are reported through the
+Centers for Disease Control and Prevention in the United
+States; these cases have resulted in high morbidity and eco-
+nomic costs.4,5 In China, the increase in consumption of food
+products of animal origin also increased potential exposure to
+Salmonella.6,7 The genus Salmonella encompasses a large
+taxonomic group with more than 2,600 different serotypes.8
+Although all serotypes of Salmonella may be regarded as po-
+tential human pathogens, the vast majority of infections are
+
+caused by a limited number of serotypes, of which Salmonella
+Enteritidis and Salmonella Typhimurium are the two most
+common serotypes associated with gastrointestinal disease
+in humans.9,10
+
+Approaches to prevent and control salmonellosis in
+livestock have been dependent on the use of antibiotics for
+many years. However, numerous antibiotic-resistant bacte-
+ria have been reported in different countries.11–13 Most of
+the antibiotic-resistant Salmonella are of zoonotic origin and
+acquire their resistance in food animal hosts, which might
+cause human infections through the food chain.14 Therefore,
+antibiotic resistance in pathogenic bacteria from animals can
+be a serious threat to public health.15
+
+1Department of Applied Microbiology, College of Resources, Sichuan Agricultural University, Chengdu, People’s Republic of China.
+2Clinical Laboratory, Taizhou Second People’s Hospital, Jiangyan, People’s Republic of China.
+3Inspection and Testing Center, Henan Center for Disease Control and Prevention, Zhengzhou, People’s Republic of China.
+4College of Food Science, Sichuan Agricultural University, Ya’an, Sichuan, People’s Republic of China.
+5Lab of Microbiology, Dujiangyan Campus of Sichuan Agricultural University, Dujiangyan, Sichuan, People’s Republic of China.
+6Division of Animal and Food Microbiology, Ofﬁce of Research, Center for Veterinary Medicine, U.S. Food and Drug Administration,
+
+Laurel, Maryland.
+
+1
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 10/20/17. For personal use only.2
+
+DENG ET AL.
+
+Disinfectants are extensively used to control infection and/
+or microbial contamination in food manufacturing facilities
+and environments. Among the different disinfectants currently
+available, quaternary ammonium compounds (QACs), such as
+benzalkonium chloride (BC) and cetylpyridinium chloride
+(CTPC), are used extensively because these compounds are
+nonirritating and noncorrosive with little toxicity and high
+antimicrobial efﬁcacy over a wide pH range.16,17 The wide use
+and misuse of QACs in food environments can impose a se-
+lective pressure for bacteria and contribute to the emergence of
+disinfectant-resistant microbes.18
+
+Metal-containing
+
+antimicrobial
+
+compounds with
+
+or
+growth-promoting activity are also widely used as feed ad-
+ditive in food animals.19,20 Copper sulfate and organic ar-
+senicals (e.g., phenylarsonic acid) are agents for therapy and
+growth, and mercury compounds have been usually used as
+disinfectants in food animal-producing environment for a
+number of years.20,21 Due to its stable and persistent features,
+when heavy metals accumulate to critical concentrations, they
+potentially trigger resistance to emerge within the food ani-
+mal hosts. The heavy metal resistance genes (HMRGs) have
+also been identiﬁed in different environments. The genes that
+are responsible for resistance to arsenic (arsA), copper
+(copB), and zinc (czrC) have been observed in methicillin-
+resistant Staphylococcus aureus isolated from livestock.20
+Meanwhile, the genes czcA and arsB for cobalt and arsenic
+resistance,
+respectively, have been found in municipal
+wastewater treatment plants and associated with antibiotic
+resistance genes (ARGs).22 Furthermore, the HMRGs appear
+to be predominantly plasmid mediated.21,23
+
+Previously studies demonstrated that a relationship be-
+tween the acquisition of HMRGs and ARGs, and antibiotic
+resistance may arise through coresistance or crossresistance
+to metals or coregulation of resistance pathways.20,24,25 The
+disinfectant resistance genes, as well as HMRGs, are com-
+monly located in mobile genetic elements (MGEs).23,26,27
+The widespread use of disinfectants has raised concerns
+over their possible involvement
+in the development of
+antimicrobial resistance, particularly coresistance to antibi-
+otics.27,28 Therefore, under the pressure of concomitant use
+of antibiotics, heavy metals, and disinfectants, the potential
+coselection of resistance genes and the spread of acquired
+resistance is enhanced.22,29 However, little information was
+known about the occurrence of disinfectant and heavy metal
+resistance in Salmonella isolated from retail foods of animal
+origin. The current study investigated the prevalence of
+antibiotic, disinfectant, and heavy metal resistance in Sal-
+monella isolates, determined the associations between anti-
+biotic resistance and the presence of disinfectant (QACs)
+and/or HMRGs, and explored the genetic relatedness of
+Salmonella from retail foods of animal origin.
+
+Materials and Methods
+
+Sampling
+
+A total of 327 raw meat samples,
+
+including pork
+(n = 137), chicken (n = 91), and beef (n = 99) were purchased
+from supermarkets in Sichuan Province between July 2013
+and December 2014. The samples were aseptically collected
+in sterilized plastic bags and kept cold during transport from
+the supermarket to the laboratory.
+
+Salmonella isolation and serotyping
+
+The methods described by the United States Department of
+Agriculture Food Safety and Inspection Service were used to
+isolate Salmonella from retail foods of animal origin.30 Brieﬂy,
+25 g portions of the products were used for culturing. Each
+sample was placed in separate sterile Erlenmeyer ﬂasks with
+225 ml buffered peptone water and incubated at 37°C in a water
+bath with shaking at 120 rpm for 6 h. After pre-enrichment, 10
+and 1 ml of pre-enriched rinses were transferred to 100 ml each
+of the tetrathionate (TT; Beijing Land Bridge Technology Co.,
+Ltd., Beijing, China) and Rappaport-Vassiliadis (RV; Beijing
+Land Bridge Technology Co., Ltd.) broths, respectively, and
+incubated at 42°C in a water bath with shaking at 160 rpm for
+24 h. One loopful of overnight TT broth culture was streaked
+onto xylose lysine tergitol agar plates (Beijing Land Bridge
+Technology Co., Ltd.), whereas the RV broth was streaked
+onto agar of xylose lysine deoxycholate (Beijing Land Bridge
+Technology Co., Ltd.) and incubated at 37°C for 24 h.
+
+Three presumptive Salmonella colonies from each plate
+were inoculated onto triple sugar iron (Beijing Land Bridge
+Technology Co., Ltd.) and urea agar slants (Beijing Land
+Bridge Technology Co., Ltd.).30 After 24 h of incubation at
+35°C,
+isolates with typical Salmonella phenotypes were
+conﬁrmed by polymerase chain reaction (PCR). The PCR
+assays for identiﬁcation of Salmonella were described pre-
+viously.30 A 284 bp PCR product targeting invA was ampli-
+ﬁed using the primers invA 139 (5¢-GTGAAATTATCGCCA
+CGTTCGGGCAA-3¢) and invA 141 (5¢-TCATCGCACCGT
+CAAAGGAACC-3¢). Amplicons were sequenced by Shang-
+hai Sangon Bioengineering Co., Ltd. Nucleotide sequences
+were analyzed using BLAST software, which is available at
+the National Center for Biotechnology Information web-site
+(www.ncbi.nlm.nih.gov). If more than one isolate from each
+sample was Salmonella positive, only one was randomly se-
+lected and included in this study.31 Conﬁrmed isolates were
+stored in Tryptone Soya Broth (Hangzhou Microbial Reagent
+Co., Ltd.) containing 20% glycerol at -80°C until use. All
+isolates were further serotyped using commercial antisera
+purchased from Statens Serum Institute, Denmark, as de-
+scribed by the manufacturer.
+
+Antibiotic resistance in Salmonella
+
+The tested antibiotics were as follows: amoxicillin (AMX),
+amoxicillin/clavulanic acid (AMC), ampicillin (AMP), ceftio-
+fur (EFT), oxytetracycline (OTC), ciproﬂoxacin (CIP), levo-
+ﬂoxacin (LEV), trimethoprim (TMP), and gentamicin (GEN),
+all of which were purchased from Hangzhou Microbial Reagent
+Co., Ltd. The minimum inhibitory concentrations (MICs) were
+determined by using the agar dilution method, and breakpoints
+for antibiotic susceptible and/or resistant were determined as
+recommended by the Clinical and Laboratory Standards In-
+stitute (CLSI).32 Escherichia coli ATCC 25922 and E. coli
+ATCC 35218 were used as the quality control strains. The re-
+sistance genes were examined through PCR using speciﬁc oli-
+gonucleotide primers as described previously.33–39 All results
+were conﬁrmed by at least two independent experiments.
+
+Disinfectant resistance in Salmonella
+
+The disinfectants tested were BC (Chengdu Best-Reagent
+Company, Chengdu, China; ‡98% purity) and CTPC ( J&K
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 10/20/17. For personal use only.DISINFECTANT AND HEAVY METAL RESISTANCE
+
+3
+
+Chemical; ‡98% purity). The MICs of disinfectants were
+determined using the agar dilution method recommended by
+the CLSI.24,32 The range of concentrations used to determine
+the MICs of both disinfectants were 0.125 to 1,024 mg/L.
+E. coli ATCC 10536 was used as the quality control strain.
+The disinfectants’ resistance genes [sugE(p), qacED1, qacE,
+qacF, and qacG] were ampliﬁed and sequenced as described
+previously.27
+
+Detection of HMRGs
+
+The 17 different HMRGs encoding for 9 heavy metal
+resistance were detected by PCR based on published
+methods.19–21,23,29,40–46 The positive controls that carried
+the resistance genes were conﬁrmed using PCR followed by
+sequence analysis (Sangon Biotech, Shanghai, China).
+
+Pulsed-ﬁeld gel electrophoresis
+
+All the isolates were selected for pulsed-ﬁeld gel elec-
+trophoresis (PFGE) analysis using the PulseNet protocol
+(www.cdc.gov/pulsenet/PDF/ecoli-shigella-salmonella-pfge-
+protocol-508c.pdf). The XbaI-digested DNA fragments were
+analyzed using 1% agarose gels and a CHEF MAPPER
+electrophoresis system (Bio-Rad, Hercules, CA). The elec-
+trophoresis conditions were as previously described.47 Sal-
+monella enterica serovar, Braenderup H9812, was used as a
+marker. PFGE results were analyzed by BioNumerics soft-
+ware, and banding patterns were compared using Dice co-
+efﬁcients with a 1.5% band position tolerance.
+
+Data analysis
+
+Chi-squared test of independence or Fisher’s exact test
+was performed to analyze data using SPSS v.12 (SPSS, Inc.,
+1989–2003). A p-value less than 0.05 was considered sta-
+tistically signiﬁcant for comparison.
+
+Results
+
+Prevalence and serotypes of Salmonella
+
+Of the 327 retail meat samples, 46.5% (n = 152) were
+contaminated with Salmonella. The most common prevalence
+was observed in pork (n = 75, 54.7%), followed by chicken
+(n = 43, 47.3%) and beef (n = 34, 34.3%), respectively.
+
+Among the 152 Salmonella isolates, 21 Salmonella se-
+rotypes were detected. Salmonella Derby was the most
+prevalent (28.9%, n = 44), followed by Salmonella Typhi-
+murium (15.8%, n = 24), Salmonella Rissen (15.8%, n = 24),
+Salmonella Enteritidis (9.9%, n = 15), and Salmonella Lon-
+don (5.9%, n = 9). The top ﬁve serotypes accounted for more
+than 75% of the strains.
+
+The distribution of serotypes varied by meat
+
+types
+(Table 1). In chicken, the predominant serotypes were Sal-
+monella Enteritidis (34.9%, n = 15), Salmonella Derby
+(18.6%, n = 8), and Salmonella Typhimurium (9.3%, n = 4).
+including Salmonella Enteritidis, Salmonella
+Six serotypes,
+Agona, Salmonella Corvallis, Salmonella Hadar, Salmonella
+Indiana, and Salmonella Kouka, were only isolated from
+chicken. For pork samples, most isolates were contaminated
+with Salmonella Derby (32.0%, n = 24), followed by Salmonella
+Rissen (24.0%, n = 18), and Salmonella Typhimurium (14.7%,
+n = 11). The Uganda and Waycross serotypes were only detected
+in pork. In beef samples, the top three serotypes were Salmonella
+Derby (35.3%, n = 12), Salmonella Typhimurium (26.5%, n = 9),
+and Salmonella Rissen (8.8%, n = 3), whereas Salmonella Al-
+bany and Salmonella Give were only detected in beef.
+
+Phenotype and genotype of antibiotic
+resistance in Salmonella
+
+In general, 92.8% (n = 141) Salmonella isolates demon-
+strated resistance to at least one antibiotic and 43.4% (n = 66)
+were multidrug resistant (MDR, resistance to at least three
+classes of antibiotics). As shown in Fig. 1, of all the resistant
+isolates, 80.9% (n = 123) were resistant to OTC, followed by
+TMP (64.5%, n = 98), AMX (28.9%, n = 44), AMP (28.3%,
+n = 43), LEV (21.7%, n = 33), CIP (16.4%, n = 25), and GEN
+(10.5%, n = 16). Moreover, 48 resistance proﬁles were ob-
+served in the resistant isolates, and the top three frequent
+resistance proﬁles were OTC (17.7%, n = 25), OTC–TMP
+(17.7%, n = 25), and AMX–OTC–TMP (11.3%, n = 16). The
+frequency of antibiotic resistance varied depending on meat
+types (Fig. 1) and serotypes (Fig. 2). Notably, of the isolates
+from pork, 97.3% (n = 73) showed resistance to antibiotics,
+followed by 94.1% (n = 32) in beef, and 83.7% (n = 36) in
+chicken. The prevalence of MDR Salmonella also was
+highest in pork (49.3%, n = 37), followed by chicken (44.2%,
+n = 19) and beef (n = 10, 29.4%). Besides, the prevalence of
+
+Table 1. Serotypes of Salmonella from Different Retail Meats
+
+Chicken
+
+Salmonella Enteritidis
+Salmonella Derby
+Salmonella Typhimurium
+Salmonella Agona
+Salmonella Rissen
+Salmonella Hadar
+Salmonella Anatum
+Salmonella Indiana
+Salmonella Kouka
+Salmonella Meleagridis
+Salmonella Kedougou
+Salmonella Norwich
+Salmonella Corvallis
+Salmonella Bareilly
+
+% (n)
+
+34.9 (15)
+18.6 (8)
+9.3 (4)
+7.0 (3)
+7.0 (3)
+4.7 (2)
+2.3 (1)
+2.3 (1)
+2.3 (1)
+2.3 (1)
+2.3 (1)
+2.3 (1)
+2.3 (1)
+2.3 (1)
+
+Pork
+
+% (n)
+
+Beef
+
+% (n)
+
+Salmonella Derby
+32.0 (24)
+Salmonella Rissen
+24.0 (18)
+Salmonella Typhimurium 14.7 (11)
+Salmonella London
+Salmonella Anatum
+Salmonella Clackamas
+Salmonella Meleagridis
+Salmonella Norwich
+Salmonella Bareilly
+Salmonella Uganda
+Salmonella Waycross
+
+9.3 (7)
+8.0 (6)
+4.0 (3)
+2.7 (2)
+1.3 (1)
+1.3 (1)
+1.3 (1)
+1.3 (1)
+
+35.3 (12)
+
+Salmonella Derby
+Salmonella Typhimurium 26.5 (9)
+Salmonella Rissen
+8.8 (3)
+Salmonella London
+5.9 (2)
+Salmonella Kumas
+5.9 (2)
+Salmonella Clackamas
+3.0 (1)
+Salmonella Albany
+3.0 (1)
+Salmonella Bareilly
+3.0 (1)
+Salmonella Kedougou
+3.0 (1)
+Salmonella Meleagridis
+3.0 (1)
+Salmonella Give
+3.0 (1)
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 10/20/17. For personal use only.4
+
+DENG ET AL.
+
+FIG. 1. Antibiotic resistance of Salmo-
+nella isolated from different meat types.
+OTC, oxytetracycline; TMP, trimethoprim;
+AMX, amoxicillin; AMP, ampicillin; EFT,
+ceftiofur; AMC, amoxicillin/clavulanic acid;
+LEV, levoﬂoxacin; CIP, ciproﬂoxacin; and
+GEN, gentamicin; MDR, multidrug resis-
+tance.
+
+Phenotype and genotype of disinfectant
+resistance in Salmonella
+
+Figure 4 showed the distribution of the MICs of disin-
+fectants in Salmonella isolates from different retail meats.
+Our results revealed that the MICs of CTPC were 8 to
+256 mg/L and BC were 8 to 128 mg/L. Generally, most
+Salmonella isolates exhibited MICs of 128 mg/L for CTPC
+(79.4%, n = 102) and BC (58.6%, n = 89). The chicken iso-
+lates (90.7%, n = 39) had higher MICs (128 mg/L) for BC
+than those from the beef (79.4%, n = 27) and pork (48.0%,
+n = 36) isolates ( p < 0.001). Meanwhile, 76.0% (n = 57) of
+the isolates that originated from pork had higher MICs
+(128 mg/L) for CTPC than the 53.5% (n = 23) from chicken
+and the 20.6% (n = 9) from beef ( p < 0.001). The MIC50
+values and MIC90 values were the same in the isolates from
+different meat types (128 mg/L). In addition, the MIC ranges
+varied in the top ﬁve serotypes.
+
+The qacF and qacED1 gene was detected in 18.4% (n = 28)
+and 8.6% (n = 13) of all the isolates, whereas the qacE, qacG,
+and sugE(p) genes were not detected in any isolates (Fig. 3b).
+The qacF was found the highest frequency in pork (24%,
+n = 18) and Salmonella Rissen (26.1%, n = 6). The qacED1
+gene was found the highest frequency in chicken (16.3%,
+n = 7) and Salmonella Rissen (26.1%, n = 6).
+
+Prevalence of HMRGs
+
+Totally, 58.55% (n = 89) of the isolates carried at least one
+HMRG. The Cu-resistance genes pcoR, pcoC, and pcoA
+were the most common, accounting for 43.4% (n = 66),
+40.8% (n = 62), and 20.4% (n = 31), respectively (Fig. 3c).
+Besides, 17.8% (n = 27) and 6.6% (n = 10) of the isolates
+
+resistance to OTC and TMP was observed signiﬁcantly
+higher in pork isolates than in beef and chicken isolates
+( p < 0.001), whereas a higher prevalence of resistance to
+AMP was observed in the isolates from chicken than from
+pork and beef isolates ( p < 0.001). Interestingly, all Salmo-
+nella Typhimurium (n = 24) were resistant to at least one
+antibiotic, and high frequency of antibiotic resistance to LEV
+( p < 0.001) and CIP ( p < 0.05) was observed in Salmonella
+London compared with the other serotypes.
+
+isolates. Of
+
+common in b-lactam-resistant
+
+As shown in Fig. 3a, the blaTEM (44.7%, n = 34) gene was
+most
+the
+aminoglycoside-resistant isolates, the ant(3")-Ia gene was
+detected in highest frequency (50%, n = 8). In tetracycline-
+resistant isolates, tetA (44.7%, n = 55) was the most prevalent.
+Notably, the prevalence of sul1, sul2, and sul3 were the same
+(20.4%, n = 20) in trimethoprim-resistant isolates. Only the
+qnrA gene was detected in 40% (n = 14) of quinolone-resistant
+isolates. Moreover, 68 ARGs combinations were observed in
+Salmonella, and the top three frequent resistance gene com-
+binations were tetA (5.3%, n = 8), tetC (4.6%, n = 7), tetG
+(3.3%, n = 5), and tetA-tetG (3.3%, n = 5).
+
+The prevalence of ARGs also varied by meat types and
+serotypes. The tetracycline-resistant genes, tetA, tetG, and
+tetC, were the most common genes in pork (46.7%, n = 35),
+beef (35.3%, n = 12), and chicken (37.3%, n = 16) isolates.
+Among different meat types, the prevalence of trimethoprim
+resistance genes and aminoglycoside resistance genes in
+pork isolates was the highest. Among different serotypes,
+Salmonella Rissen contained all ARGs genes tested and the
+prevalence of tetA, sul1, sul3, blaCTX-M, and ant(3")-Ia
+were the highest. However, most ARGs were absent in the
+isolates of Salmonella Enteritidis.
+
+FIG. 2. Antibiotic resistance of Salmo-
+nella isolated from different serotypes.
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 10/20/17. For personal use only.DISINFECTANT AND HEAVY METAL RESISTANCE
+
+5
+
+(a) Frequency of anti-
+
+FIG. 3.
+biotic resistance genes of Salmonella
+in different retail meats. (b) Fre-
+quency of disinfectant resistance
+genes of Salmonella in different
+retail meats. (c) Frequency of heavy
+metal resistance genes of Salmonella
+in different retail meats.
+
+carried the Hg-resistance gene merA, and As-resistance
+gene arsB, respectively. A total of 14 gene combinations
+were found in all isolates. The top three resistance gene
+combinations were pcoC (n = 14), pcoR (n = 14), and pcoC-
+pcoR (n = 14) (Supplementary Table S1; Supplementary
+Data are available online at www.liebertpub.com/mdr).
+
+The distribution of the gene combinations varied by meat
+types and serotypes. The pork isolates possessed most types
+of the gene combinations, in which pcoC (14.7%, n = 11)
+
+and pcoC-pcoR (13.3%, n = 10) were the main genotypes.
+The pcoR (11.6%, n = 5) and pcoC-pcoR (7.0%, n = 3) were
+the top two gene combinations in chicken isolates. The pcoR
+(14.7%, n = 5) and pcoR-pcoA-pcoC (14.7%, n = 5) were the
+top two gene combinations in beef isolates. The pcoC and
+pcoR were found in high prevalence in Salmonella Rissen
+(75.0%, n = 18). The merA and arsB were found in a fre-
+quency of 34.9% (n = 8) in Salmonella Typhimurium, and
+pcoA was detected in 47.8% (n = 11) of Salmonella
+
+FIG. 4. Distribution of quaternary ammo-
+nium compound MICs of disinfectants in
+Salmonella isolates from different retail
+meats. The corresponding values of BC and
+CTPC for the control strains were 16 and
+16 mg/L, respectively. BC, benzalkonium
+chloride; CTPC, cetylpyridinium chloride;
+MIC, minimum inhibitory concentration.
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 10/20/17. For personal use only.6
+
+DENG ET AL.
+
+Typhimurium. In Salmonella Rissen, only Cu-resistance
+genes were found, and only one isolate of Salmonella En-
+teritidis had the merA gene.
+
+Association between disinfectant
+and antibiotic resistance
+
+Most notably,
+
+the presence of disinfectant resistance
+genes was signiﬁcantly associated with the trimethoprim
+and the related resistance genes sul ( p < 0.05) (Supple-
+mentary Table S2). Among the qacF- and qacED1-positive
+isolates, 100% (n = 28) and 93.3% (n = 12) of the isolates
+were resistant to at least one antibiotic, and 64.3% (n = 18)
+and 46.2% (n = 6) of the isolates were MDR, respectively.
+the qacF-positive isolates contained b-lactam resis-
+All
+tance genes and 85.7% (n = 24) had trimethoprim resistance
+genes. Meanwhile, 84.6% (n = 11) and 61.5% (n = 8) of the
+qacED1-positive isolates possessed b-lactam and sulfon-
+amide resistance genes, respectively.
+
+Association between HMRGs
+and antibiotic resistance
+
+In general, we found association between the presence of
+HMRGs and antibiotic resistance or ARGs ( p < 0.05 or
+<0.001) (Supplementary Table S2). The gene pcoA was
+signiﬁcantly associated with antibiotic resistance and the
+genes, including b-lactam and blaTEM, tetracycline and
+tetA, tetB, tetC, and aminoglycosides and ant(3")-Ia. The
+pcoC gene was signiﬁcantly associated with the resistance to
+trimethoprim and sul3, and tetracycline and tetG. The pcoR
+gene was associated with tetracycline resistance and the
+genes tetA, tetC, and tetG. Moreover, the association among
+merA and tetracycline resistance and the gene tetG was
+signiﬁcant. No signiﬁcant association was observed between
+the presence of arsB and antibiotic resistance.
+
+More particularly, the association among tetracycline resis-
+tance genes, disinfectant resistance genes, and Cu-resistance
+genes pcoC or pcoR, and sulfonamide resistance genes, dis-
+infectant resistance genes, and Cu-resistance genes, pcoC or
+pcoR, was signiﬁcant ( p < 0.05).
+
+PFGE typing
+
+Up to 41 distinct PFGE clusters (using a cutoff value of 70%)
+were identiﬁed among the 152 Salmonella isolates (Supple-
+mentary Fig. S1). The dendrogram showed that isolates of the
+same serotypes were clustered together, except for a few in-
+dividual isolates. The most common cluster 21 was comprised
+of 16 isolates of Salmonella Derby. Similar results were ob-
+tained in cluster 9 (Salmonella Typhimurium) and cluster 6
+(Salmonella Rissen). PFGE clusters were also associated with
+supermarkets. In cluster 41, two Salmonella Anatum isolates
+originated from the same supermarket (WH). Moreover, 75%
+(n = 12) of the Salmonella Derby isolates (cluster 21) were
+obtained from the same supermarket located in different areas
+(including QJ, CJ, JJ, JJ1, and WJ). Similarly, cluster1, 12, 25,
+and 37 were clearly associated with the sampling supermarkets
+regardless of location. In addition, some PFGE clusters were
+also associated with meat types. For example, PFGE clusters
+10, 22, and 40 were comprised of isolates recovering from pork,
+whereas clusters 1 and 28 were from chicken, and cluster 17
+from beef. Thus, PFGE revealed that the Salmonella isolates
+
+were associated with the meat types and sampling supermar-
+kets, indicating the possibility of crosscontamination in farms
+or processing environments. PFGE results also indicated that
+the resistance genes were widely distributed in isolates with
+different meat types and serotypes.
+
+Discussion
+
+Generally, Salmonella Derby, Salmonella Typhimurium,
+and Salmonella Rissen were the most common serotypes in
+our study, followed by Salmonella Enteritidis and Salmo-
+nella London. Salmonella Enteritidis and Salmonella Ty-
+phimurium were of the most common serotypes associated
+with human infections from food of animal origins and have
+been found among human isolates in Italy,48 Spain,49 and
+United States.50,51 Gantzhorn et al.52 reported that Salmo-
+nella Derby and Salmonella Typhimurium were the most
+prevalent serotypes in Danish pig slaughterhouses. Salmo-
+nella Enteritidis and Salmonella London were the common
+prevalent serotypes in retail meats as well.7,13 In our study,
+Salmonella Enteritidis was only identiﬁed with high fre-
+quency in chicken, which was also the most prevalent se-
+rotype in chicken meat
+in the Shandong and Shaanxi
+province, China.7,53 Higher carriage of these Salmonella
+serotypes by animals may contribute to the contamination of
+retail meats in human food supply.
+
+The increase of antimicrobial resistance in Salmonella
+from retail meats has become a common problem world-
+wide.13,53–55 Antibiotic resistance was common among the
+Salmonella isolates, particularly a high level of resistance to
+tetracycline (80.9%) and trimethoprim (64.5%). Similarly,
+the most frequent resistance proﬁle of Salmonella isolated
+from pork and chicken meats in North Vietnam was tetra-
+cycline (58.5%), followed by sulfonamides (58.1%).54 The
+Food and Drug Administration (FDA) has conﬁrmed that
+Salmonella isolated from food animals showed highest re-
+sistance to tetracycline and sulfonamides.56 The globaliza-
+tion of trade in retail meats could allow resistant Salmonella
+spread to different countries, which might increase the risk
+of the emergence and accumulation of antibiotic resistance
+worldwide. The Salmonella isolates from pork in our study
+showed higher resistance to antibiotics than from beef and
+chicken. All Salmonella Typhimurium isolates were resis-
+tant to at least one antibiotic. The results showed that the
+frequency of antibiotic resistance may be related with meat
+types and serotypes.54,55
+
+The blaTEM, ant(3")-Ia, and tetA genes were the most
+common in b-lactam-, aminoglycoside-, and tetracycline-
+resistant genes in our isolates, respectively. A similar result
+was reported by Yahiaoui et al.,57 in which blaTEM was the
+most frequent b-lactam-resistant gene in E. coli. Moreover,
+a high prevalence of tetA (55.6%),
+tetB (91.7%), and
+ant(3")-Ia (67.5%) genes were observed in the S. enterica
+isolated from chicken and quail carcasses.58 The distribution
+of ARGs varied by meat types. The genes tetA, tetG, and
+tetC, were the most common genes in pork, beef, and
+chicken isolates, respectively. There was a higher preva-
+lence of trimethoprim- and gentamicin-resistant genes found
+in pork isolates than in chicken and beef isolates. Bacci
+et al.58 also observed that a higher percentage of the ant(3")-
+Ia gene in Salmonella spp. isolated from quail and chicken
+carcasses than in those isolated from chicken meat, and the
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 10/20/17. For personal use only.DISINFECTANT AND HEAVY METAL RESISTANCE
+
+7
+
+tetA and tetB genes were more frequent in chicken meat and
+carcasses isolates, respectively.
+
+The majority of the Salmonella isolates showed MICs of
+128 mg/L for CTPC (79.4%) and BC (58.6%). Our previous
+study demonstrated that 67.5% and 52.6% of the E. coli iso-
+lated from retail meats exhibited MICs of 4 to 128 and 32 mg/
+L for CTPC and BC, respectively.59 In China, the disinfection
+requirements for a slaughterhouse (SB/T-10660-2012) stip-
+ulated the dosage of QACs in the range of 0.015% to 0.1% for
+slaughterhouses and meat production facilities. However, a
+previous study reported the increasing use of QACs with high
+concentration (10%), and susceptibilities to QACs have ap-
+parently increased among the bacteria isolated from retail
+meats or their production environments.18,52,59 The disin-
+fectant resistance genes qacF and qacED1 were detected in
+18.4% and 8.6% of all the isolates, respectively. The qacF and
+qacED1 genes were less common in E. coli isolated from
+retail meats.27,59 However, these two genes were located in
+MEGs and linked (coexisted) with different ARGs showing
+coresistance.27 The widespread use of disinfectant may pro-
+vide a selective environment for different degrees of adaptive
+resistance to Salmonella.
+
+To best of our knowledge, limited research focused on the
+prevalence of varied HMRGs in Salmonella isolated from
+retail meats. The copper (228 mg/kg) and zinc (297 mg/kg)
+concentrations in feed of livestock and poultry were ex-
+cessive in Liaoning, China. Comparing with the maximum
+limit value in Chinese standard (GB15199-94, GB13106-91),
+the copper concentration in chicken was twice as the stan-
+dards and the zinc concentration obviously exceeded the
+limit.60 While in Jiangsu province, concentrations of zinc and
+copper in animal feeds were 15.9–2041.8 and undetected–
+392.1 mg/kg, respectively.61 Moreover, unlike antibiotics and
+QACs that are biodegradable through microorganisms,62–64
+heavy metals are not subject to degradation and can subse-
+quently represent a long-term selection pressure, which po-
+tentially contributes to the development and maintenance of
+resistance genes.65 The Cu-resistance genes pcoR (43.42%),
+pcoC (40.79%), and pcoA (20.39%) were relatively higher
+than the Hg resistance gene merA (17.76%) and As resistance
+genes arsB (6.58%). Argudı´n et al.20 found that among the
+methicillin-resistant S. aureus isolated from livestock, 4.1%,
+0.3%, 23.4%, and 62.7% were positive for the genes arsA
+(As), cadD (Ca), copB (Cu), and czrC (Zn/Ca), respectively.
+The difference of genes in frequency may be related to the
+use of metal compounds as feed supplements at different
+farms. In addition, HMRGs have been observed in other
+environments. The genes of mer operon (merRTPABDE)
+were detected in Aeromonas salmonicida isolates recovered
+from juvenile Atlantic salmon (Salmo salar) aquaculture.66
+Besides, Roosa et al.29 observed seven HMRGs (arsB, copA,
+czcA, czcC, czcD, nccA, and pbrT) among the DNA of
+sediments. The environment of origin (e.g., animal hus-
+bandry, sediments, or slaughter house) of the bacterial com-
+munity might be a factor that contributes to the spread of
+HMRGs.22
+
+In general, we found signiﬁcant associations among
+HMRGs, disinfectant resistance genes, antibiotic resistance,
+and related genes ( p < 0.05). The HMRGs and ARGs, as
+well as the disinfectant resistant genes we tested, were
+usually located on MGEs, such as plasmid pRJ1004, trans-
+poson Tn4380, and Tn501.21,23,27,67,68 Besides, a higher
+
+proportion of plasmids hosted by Salmonella tended to carry
+the three classes of genes on the same plasmids.69 The
+MGEs may potentially accrue different resistance genes
+through coresistance 22,62 and could be efﬁciently spread
+through bacteria community. We investigated the disinfec-
+tant resistance genes that were signiﬁcantly associated with
+the sulfonamide resistance genes ( p < 0.05). The class 1
+integron contains the gene qacED1 and sul1 resistance,70
+and coresistance may also occur involving the qacED1,
+aadA2, and sul1 located in Tn5045.68
+
+Besides, the association between the presence of HMRGs
+and antibiotic resistance and related ARGs was signiﬁcant
+( p < 0.05). Osman et al.71 isolated an aquatic bacterium
+harboring a plasmid which contained genes conferring re-
+sistance to antibiotics and metals Cr and Co. The IncA/C
+plasmid isolated from Aeromonas salmonicida subsp., sal-
+monicida carried mer and multiple ARGs.66 The association
+among Cu-resistant genes ( pcoA and pcoR), disinfectant-
+resistant genes, and tetracycline- and sulfonamide-resistant
+genes was signiﬁcant ( p < 0.05). Both Hg-resistance genes
+(merRTPCADE) and several antimicrobial-encoding genes
+(sul1, qacED1, aadA1, and blaOXA-1) have been identiﬁed
+on plasmid pUO-StVR2 in Salmonella Typhimurium and
+these are linked with Transposon 21.72 Whole genome se-
+quencing was performed in our study and will conﬁrm the
+location of these genes in the near future.
+
+Conclusions
+
+In conclusion, this study demonstrated that antimicrobial
+resistance was common among the Salmonella isolates from
+retail food of animal origin. Antibiotic, disinfectant, and
+heavy metal resistance varied by meat types and serotypes.
+The antibiotic resistance was highly associated with disin-
+fectant or HMRGs. The farms or processing environment
+may be a major source for crosscontamination with Sal-
+monella. Therefore, the retail meats may be a reservoir for
+the dissemination of antibiotic-resistant Salmonella and
+using disinfectants for decontamination or metals in live-
+stock may provide a pressure for coselecting strains with
+acquired resistance to other antimicrobials.
+
+Acknowledgments
+
+This work was supported by the National Natural Science
+Foundation of China (31400066, 31671954), Science and
+Technology Department of Sichuan province (2017JY0118),
+and the Program for Changjiang Scholars and Innovative
+Research Team in University (IRT13083). The authors are
+grateful to Dr. Maureen Davidson for helpful comments and
+article review.
+
+Disclaimer
+
+The views expressed in this article are those of the au-
+thor(s) and do not necessarily reﬂect the ofﬁcial policy of
+the Department of Health and Human Services, the U.S. Food
+and Drug Administration, or the U.S. Government. Reference
+to any commercial materials, equipment, or process does not
+in any way constitute approval, endorsement, or recommen-
+dation by the Food and Drug Administration.
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 10/20/17. For personal use only.8
+
+DENG ET AL.
+
+Disclosure Statement
+
+No competing ﬁnancial interests exist.
+
+References
+
+1. Herikstad, H., Y. Motarjemi, and R.V. Tauxe. 2002. Sal-
+monella surveillance: a global survey of public health ser-
+otyping. Epidemiol. Infect. 129:1–8.
+
+2. Lazcka, O., F.J. Del Campo, and F.X. Munoz. 2007. Pa-
+thogen detection: a perspective of traditional methods and
+biosensors. Biosens. Bioelectron. 22:1205–1217.
+
+3. Park, S.H., S.Y. Choi, H.Y. Kim, Y.S. Kim, B.S. Kim, L.R.
+Beuchat, and J.H. Ryu. 2015. Fate of mesophilic aerobic
+bacteria and Salmonella enterica on the surface of eggs as
+affected by chicken feces, storage temperature, and relative
+humidity. Food Microbiol. 48:200–205.
+
+4. Stevens, A., A. Kerouanton, M. Marault, Y. Millemann,
+A. Brisabois, J.O. Cavin, and B. Dufour. 2008. Epide-
+miological analysis of Salmonella enterica from beef
+sampled in the slaughterhouse and retailers in Dakar
+(Senegal) using pulsed-ﬁeld gel electrophoresis and anti-
+biotic susceptibility testing. Int. J. Food Microbiol. 123:
+191–197.
+
+5. Voetsch, A.C., T.J. Van Gilder, F.J. Angulo, M.M. Farley,
+S. Shallow, R. Marcus, P.R. Cieslak, V.C. Deneen, and
+R.V. Tauxe. 2004. FoodNet estimate of the burden of ill-
+ness caused by nontyphoidal Salmonella infections in the
+United States. Clin. Infect. Dis. 38:127–134.
+
+6. Xia, S., R.S. Hendriksen, Z. Xie, L. Huang, J. Zhang, W.
+Guo, B. Xu, L. Ran, and F.M. Aarestrup. 2009. Molecular
+characterization and antimicrobial susceptibility of Salmo-
+nella isolates from infections in humans in Henan Province,
+China. J. Clin. Microbiol. 47:401–409.
+
+7. Yang, B.W., Q. Dong, X.L. Zhang, J.L. Shen, S.H. Cui, Y.
+Shi, M.L. Xi, M. Sheng, S. Zhi, and J.H. Meng. 2010.
+Prevalence and characterization of Salmonella serovars in
+retail meats of marketplace in Shaanxi, China. Int. J. Food
+Microbiol. 141:63–72.
+
+8. Grimont, P.A.D., and F.X. Weill. 2007. Antigenic formulae
+of the Salmonella serovars. WHO Collaborating Centre for
+Reference and Research on Salmonella, Institut Pasteur,
+Paris, France.
+
+9. Braden, C.R. 2006. Salmonella enterica serotype En-
+teritidis and eggs: a national epidemic in the United States.
+Clin. Infect. Dis. 43:512–517.
+
+10. Zhao, S.H., S. Qaiyumi, S. Friedman, R. Singh, S.L. Foley,
+D.G. White, P.F. McDermott, T. Donkar, C. Bolin, and S.
+Munro. 2003. Characterization of Salmonella enterica se-
+rotype Newport isolated from humans and food animals. J.
+Clin. Microbiol. 41:5366–5371.
+
+11. El Allaoui, A., F. Rhazi Filali, A. Derouich, B. Karraoua,
+N. Ameur, and B. Bouchrif. 2013. Prevalence of Salmo-
+nella serovars isolated from Turkey carcasses and giblets in
+Mekne`s-Morocco. J. World’s Poult. Res. 3:93–98.
+
+12. Garcia-Migura, L., R.S. Hendriksen, L. Fraile, and F.M.
+Aarestrup. 2014. Antimicrobial resistance of zoonotic and
+commensal bacteria in Europe: the missing link between
+consumption and resistance in veterinary medicine. Vet.
+Microbiol. 170:1–9.
+
+13. Sallam, K.I., M.A. Mohammed, M.A. Hassan, and T. Ta-
+mura. 2014. Prevalence, molecular identiﬁcation and anti-
+microbial resistance proﬁle of Salmonella serovars isolated
+from retail beef products in Mansoura, Egypt. Food Con-
+trol. 38:209–214.
+
+14. Threlfall, E.J. 2002. Antimicrobial drug resistance in Sal-
+monella: problems and perspectives in food- and water-
+borne infections. FEMS Microbiol. Rev. 26:141–148.
+
+15. Zou, L.K., H.N. Wang, B. Zeng, A.Y. Zhang, J.N. Li, X.T.
+Li, G.B. Tian, K. Wei, Y.S. Zhou, C.W. Xu, and Z.R. Yang.
+2011. Phenotypic and genotypic characterization of b-
+lactam resistance in Klebsiella pneumoniae isolated from
+swine. Vet. Microbiol. 149:139–146.
+
+16. Chaidez, C., J. Lopez, and N. Castro-del Campo. 2007.
+Quaternary ammonium compounds: an alternative disin-
+fection method for fresh produce wash water. J. Water
+Health 5:329–333.
+
+17. Langsrud, S., and G. Sundheim. 1997. Factors contributing
+to the survival of poultry associated Pseudomonas spp.
+exposed to a quaternary ammonium compound. J. Appl.
+Microbiol. 82:705–712.
+
+18. Braoudaki, M., and A.C. Hilton. 2004. Adaptive resistance
+to biocides in Salmonella enterica and Escherichia coli
+O157 and cross-resistance to antimicrobial agents. J. Clin.
+Microbiol. 42:73–78.
+
+19. Cavaco, L.M., H. Hasman, and F.M. Aarestrup. 2011. Zinc
+resistance of Staphylococcus aureus of animal origin is
+strongly associated with methicillin resistance. Vet. Mi-
+crobiol. 150:344–348.
+
+20. Argudı´n, M.A., B. Lauzat, B. Kraushaar, P. Alba, Y.
+Agerso, L. Cavaco, P. Butaye, M.C. Porrero, A. Battisti,
+B.A. Tenhagen, A. Fetsch, and B. Guerra. 2016. Heavy
+metal and biocidal agent resistance genes among livestock-
+associated methicillin-resistant Staphylococcus aureus iso-
+lates. Vet. Microbiol. 191:88–95.
+
+21. Trajanovska, S., M.L. Britz, and M. Bhave. 1997. Detection
+of heavy metal ion resistance genes in Gram-positive and
+Gram-negative bacteria isolated from a lead-contaminated
+site. Biodegradation 8:113–124.
+
+22. Cesare, D.A., E.M. Eckert, S. D’Urso, R. Bertoni, D.C. Gillan,
+R. Wattiez, and G. Corno. 2016. Co-occurrence of integrase 1,
+antibiotic and heavy metal resistance genes in municipal
+wastewater treatment plants. Water Res. 94:208–214.
+
+23. Abou-Shanab, R.A., P.V. Berkum, and J.S. Angle. 2007.
+Heavy metal resistance and genotypic analysis of metal
+resistance genes in gram-positive and gram-negative bac-
+teria present in Ni-rich serpentine soil and in the rhizo-
+sphere of Alyssum murale. Chemosphere 68:360–367.
+
+24. Matyar, F., A. Kaya, and S. Dincer. 2008. Antibacterial
+agents and heavy metal resistance in Gram-negative bac-
+teria isolated from seawater, shrimp and sediment in Is-
+kenderun Bay, Turkey. Sci. Total Environ. 407:279–285.
+
+25. Ji, X.L., Q.H. Shen, F. Liu, J. Ma, G. Xu, Y.L. Wang, and
+M.H. Wu. 2012. Antibiotic resistance gene abundances
+associated with antibiotics and heavy metals in animal
+manures and agricultural soils adjacent
+to feedlots in
+Shanghai; China. J. Hazard. Mater. 235–236:178–185.
+
+26. Chuanchuen, R., S. Khemtong, and P. Padungtod. 2007.
+Occurrence of qacE/qacED1 genes and their correlation
+with class 1 integrons in Salmonella enterica isolates from
+poultry and swine. Southeast Asian J. Trop. Med. Public
+Health. 38:855–862.
+
+27. Zou, L.K., J.H. Meng, P.F. McDermott, F. Wang, Q.R.
+Yang, G.J. Cao, M. Hoffmann, and S.H. Zhao. 2014. Pre-
+sence of biocidal agent resistance genes in Escherichia coli
+isolated from retail meats in the USA. J. Antimicrob.
+Chemother. 69:2644–2649.
+
+28. Bragg, R., A. Jansen, M. Coetzee, W. van der Westhuizen,
+and C. Boucher. 2014. Bacterial resistance to Quaternary
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 10/20/17. For personal use only.DISINFECTANT AND HEAVY METAL RESISTANCE
+
+9
+
+Ammonium Compounds (QAC) biocidal agents. Adv. Exp.
+Med. Biol. 808:1–13.
+
+29. Roosa, S., R. Wattiez, E. Prygiel, L. Lesven, G. Billon, and
+D.C. Gillan. 2014. Bacterial metal resistance genes and
+metal bioavailability in contaminated sediments. Environ.
+Pollut. 189:143–151.
+
+30. Cui, S.H., J. Zheng, and J.H. Meng. 2006. An improved
+method for rapid isolation of Salmonella against Proteus in
+chicken carcasses. J. Food Saf. 26:49–61.
+
+31. Vo, A.T.T., E.V. Duijkeren, A.C. Fluit, M.E.O.C. Heck, A.
+Verbruggen, H.E.M. Mass, and W. Gaastra. 2006. Distribu-
+tion of Salmonella enterica serovars from humans, livestock
+and meat in Vietnam and the dominance of Salmonella
+Typhimurium phage type 90. Vet. Microbiol. 113:153–158.
+32. Clinical and Laboratory Standards Institute (CLSI). 2016.
+Performance Standards
+for Antimicrobial Susceptibility
+Testing: Twenty-Fifth Informational Supplement, Document
+M100-S25. Clinical and Laboratory Standards Institute,
+Wayne, PA.
+
+33. Kim, J., Y. Kwon, H. Pai, J.W. Kim, and D.T. Cho. 1998.
+Survey of Klebsiella pneumoniae strains producing extended-
+spectrum b-lactamases: prevalence of SHV-12 and SHV-2a
+in Korea. J. Clin. Microbiol. 36:1446–1449.
+
+34. Essack, S.Y., L.M. Hall, D.G. Pillay, M.L. McFadyen, and
+D.M. Livermore. 2001. Complexity and diversity of Klebsiella
+pneumoniae strains with extended-spectrum b-lactamases
+isolated in 1994 and 1996 at a teaching hospital in Durban,
+South Africa. Antimicrob. Agents Chemother. 45:88–95.
+
+35. Edelstein, M., M. Pimkin, I. Palagin, I. Edelstein, and L.
+Stratchounski. 2003. Prevalence and molecular epidemi-
+ology of CTX-M extended-spectrum b-lactamase- produc-
+ing Escherichia coli and Klebsiella pneumoniae in Russian
+hospitals. Antimicrob. Agents Chemother. 47:3724–3732.
+36. Furushita, M., T. Shiba, T. Maeda, M. Yahata, A. Kaneoka,
+Y. Takahashi, K. Torii, T. Hasegawa, and M. Ohta. 2003.
+Similarity of tetracycline resistance genes isolated from ﬁsh
+farm bacteria to those from clinical isolates. Appl. Environ.
+Microbiol. 69:5336–5342.
+
+37. Robicsek, A., J. Strahilevitz, D.F. Sahm, G.A. Jacoby, and
+D.C. Hooper. 2006. qnr Prevalence in ceftazidime-resistant
+Enterobacteriaceae isolates from the United States. Anti-
+microb. Agents Chemother. 50:2872–2874.
+
+38. Kim, H.B., C.H. Park, C.J. Kim, E.C. Kim, G.A. Jacoby,
+and D.V. Hooper. 2009. Prevalence of plasmid-mediated
+quinolone resistance determinants over a 9-year period.
+Antimicrob. Agents Chemother. 53:639–645.
+
+39. Zhang, A.Y., H.N. Wang, G.B. Tian, Y. Zhang, X. Yang, Q.Q.
+Xia, J.N. Tang, and L.K. Zou. 2009. Phenotypic and genotypic
+characterisation of antimicrobial resistance in faecal bacteria
+from 30 Giant pandas. Int. J. Antimicrob. Agents. 33:456–460.
+40. Misra, T.K., N. Brown, D.C. Fritzinger, R.D. Pridmore,
+W.M. Barnes, L. Haberstroh, and S. Silver. 1984. Mercuric
+ion-resistance operons of plasmid R100 and transposon
+Tn501: the beginning of the operon including the regula-
+tory region and the ﬁrst two structural genes. Proc. Natl
+Acad. Sci. U. S. A. 81:5975–5979.
+
+41. Nies, D.H., A. Nies, L. Chu, and S. Silver. 1989. Expres-
+sion and nucleotide sequence of a plasmid-determined di-
+valent cation efﬂux system from Alcaligenes eutrophus.
+Proc. Natl Acad. Sci. U. S. A. 86:7351–7355.
+
+42. Nies, A., D.H. Nies, and S. Silver. 1990. Nucleotide se-
+quence and expression of a plasmid-encoded chromate re-
+sistance determinant from Alcaligenes eutrophus. J. Biol.
+Chem. 265:5648–5653.
+
+43. Rensing, C., B. Mitra, and B.P. Rosen. 1998. The zntA gene
+of Escherichia coli encodes a Zn(II)-translocating P-type
+ATPase. Proc. Natl. Acad. Sci. U. S. A. 94:14326–14331.
+44. Borremans, B., J.L. Hobman, A. Provoost, N.L. Brown, and
+D. van der Lelie. 2001. Cloning and functional analysis of
+the pbr lead resistance determinant of Ralstonia metalli-
+durans CH34. J. Bacteriol. 183:5651–5658.
+
+45. Badar, U., N. Ahmed, E. Shoeb, and G.M. Gadd. 2014.
+Identiﬁcation of the pco operon in Enterobacter species
+isolated from contaminated soil. Int. J. Adv. Biol. Res. 3:
+227–233.
+
+46. Fierros-Romero, G., M. Go´mez-Ramı´rez, G.E. Arenas-
+Isaac, R.C. Pless, and N.G. Rojas-Avelizapa. 2016. Iden-
+tiﬁcation of Bacillus megaterium and Microbacterium li-
+quefaciens genes involved in metal resistance and metal
+removal. Can. J. Microbiol. 62:505–513.
+
+47. Ribot, E.M, M.A. Fair, R. Gautom, D.N. Cameron, S.B.
+Hunter, B. Swaminathan, and T.J. Barrett. 2006. Standar-
+dization of pulsed-ﬁeld gel electrophoresis protocols for the
+subtyping of Escherichia coli O157:H7, Salmonella, and
+Shigella for PulseNet. Foodborne Pathog. Dis. 3:59–61.
+
+48. Frasson, I., S. Bettanello, E.D. Canale, S.N. Richter, and G.
+Palu`. 2016. Serotype epidemiology and multidrug resis-
+tance patterns of Salmonella enterica infecting humans in
+Italy. Gut Pathog 8:26–32.
+
+49. A´ lvarez-Ferna´ndez, E., C. Alonso-Calleja, C. Garcı´a-
+Ferna´ndez, and R. Capita. 2012. Prevalence and antimi-
+crobial resistance of Salmonella serotypes isolated from
+poultry in Spain: comparison between 1993 and 2006. Int.
+J. Food Microbiol. 153:281–287.
+
+50. Sarwari, A.R., L.S. Magder, P. Levine, A.M. McNamara, S.
+Knower, G.L. Armstrong, R. Etzel, J. Hollingsworth, Jr.,
+and J.G. Morris. 2001. Serotype distribution of Salmonella
+isolates from food animals after slaughter differs from that
+of isolates found in humans. J. Infect. Dis. 183:1295–1299.
+51. Hur, J., C. Jawale, and J.H. Lee. 2012. Antimicrobial re-
+sistance of Salmonella isolated from food animals: a re-
+view. Food Res. Int. 45:819–830.
+
+52. Gantzhorn, M.R., K. Pedersen, J.E. Olsen, and L.E.
+Thomsen. 2014. Biocide and antibiotic susceptibility of
+Salmonella isolates obtained before and after cleaning at
+six Danish pig slaughterhouses. Int. J. Food Microbiol.
+181:53–59.
+
+53. Yin, M.Y., B.W. Yang, Y. Wu, L. Wang, H.T. Wu, T.
+Zhang, and G. Tuohetaribayi. 2016. Prevalence and char-
+acterization of Salmonella enterica serovar in retail meats
+in market place in Uighur, Xinjiang, China. Food Control.
+64:165–172.
+
+54. Lai, J., C.M. Wu, C.B. Wu, J. Qi, Y. Wang, H.Y. Wang,
+Y.Q. Liu, and J.Z. Shen. 2014. Serotype distribution and
+antibiotic resistance of Salmonella in food-producing ani-
+mals in Shandong province of China, 2009 and 2012. Int. J.
+Food Microbiol. 180:30–38.
+
+55. Thai, T.H., T. Hirai, N.T. Lan, and R. Yamaguchi. 2012.
+Antibiotic resistance proﬁles of Salmonella serovars iso-
+lated from retail pork and chicken meat in North Vietnam.
+Int. J. Food Microbiol. 156:147–151.
+
+56. Zhao, S.H., P.F. Mcdermott, S. Friedman, S. Qaiyumi, J.
+Abbott, C. Kiessling, S. Ayers, R. Singh, S. Hubert, J. Sofos,
+and D.G. White. 2006. Characterization of antimicrobial-
+resistant Salmonella from imported foods. J. Food Protect.
+69:500–507.
+
+57. Yahiaoui, M., F. Robin, R. Bakour, M. Hamidi, R. Bonnet,
+and Y. Messai. 2015. Antibiotic resistance, virulence, and
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 10/20/17. For personal use only.10
+
+DENG ET AL.
+
+genetic background of community-acquired uropathogenic
+Escherichia coli from Algeria. Microb. Drug Resist. 21:
+516–526.
+
+associated with carriage of an IncA/C plasmid similar to the
+Salmonella enterica plasmid pSN254. J. Antimicrob. Che-
+mother. 61:1221–1228.
+
+58. Bacci, C., E. Boni, I. Alpigiani, E. Lanzoni, S. Bonardi, and
+F. Brindani. 2012. Phenotypic and genotypic features of
+antibiotic resistance in Salmonella enterica isolated from
+chicken meat and chicken and quail carcasses. Int. J. Food
+Microbiol. 160:16–23.
+
+59. Zhang, A.Y., X.M. He, Y. Meng, L.J. Guo, M. Long, H.
+Yu, B. Li, L.Q. Fan, S.L. Liu, H.N. Wang, and L.K. Zou.
+2016. Antibiotic and biocidal agent resistance of Escher-
+ichia coli isolated from retail meats in Sichuan, China.
+Microb. Drug Resist. 22:80–87.
+
+60. Jiang, X.J., R.F. Dong, and R.M. Zhao. 2011. Meat prod-
+ucts and soil pollution caused by livestock and poultry feed
+additive in Liaoning, China. J. Environ. Sci. 23:135–137.
+61. Wang, H., Y.H. Dong, Y.Y. Yang, G.S. Toor, and X.M.
+Zhang. 2013. Changes in heavy metal contents in animal
+feeds and manures in an intensive animal production region
+of China. J. Environ. Sci. 25:2435–2442.
+
+62. Oh, S., Z. Kurt, D. Tsementzi, M.R. Weigand, M. Kim, J.K.
+Hatt, M. Tandukar, S.G. Pavlostathis, J.C. Spain, and K.T.
+Konstantinidis. 2014. Microbial community degradation of
+widely used quaternary ammonium biocidal agents. Appl.
+Environ. Microbiol. 80:5892–5900.
+
+63. Tezel, U., and S.G. Pavlostathis. 2015. Quaternary ammo-
+nium biocidal agents: microbial adaptation, degradation
+and ecology. Curr. Pin. Biotechnol. 33:296–304.
+
+64. Pan, M., and L.M. Chu. 2016. Adsorption and degradation
+of ﬁve selected antibiotics in agricultural soil. Sci. Total
+Environ. 545–546:48–56.
+
+65. Baker-Austin, C., M.S. Wright, R. Stepanauskas, and J.V.
+McArthur. 2006. Co-selection of antibiotic and metal re-
+sistance. Trends Microbiol. 14:176–182.
+
+66. McIntosh, D., M. Cunningham, B. Ji, F.A. Fekete, E.M. Parry,
+S.E. Clark, Z.B. Zalinger, I.C. Gilg, G.R. Danner, K.A.
+Johnson, M. Beattie, and R. Ritchie. 2008. Transferable,
+multiple antibiotic and mercury resistance in Atlantic Cana-
+dian isolates of Aeromonas salmonicida subsp. salmonicida is
+
+67. Bruins, M.R., S. Kapil, and F.W. Oehme. 2000. Microbial
+resistance to metals in the environment. Ecotoxicol. En-
+viron. Saf. 45:198–207.
+
+68. Petrova, M., Z. Gorlenko, and S. Mindlin. 2011. Tn5045, a
+novel integron-containing antibiotic and chromate resis-
+tance transposon isolated from a permafrost bacterium.
+Res. Microbiol. 162:337–345.
+
+69. Pal, C., J. Bengtsson-Palme, E. Kristiansson, and D.G.J.
+Larsson. 2015. Co-occurrence of resistance genes to anti-
+biotics, biocides and metals reveals novel insights into their
+co-selection potential. BMC Genomics. 16:964–977.
+
+70. Buffet-Bataillon, S., A.L. Jeune, S.L. Gall-David, M.
+Bonnaure-Mallet, and A. Jolivet-Gougeon. 2012. Mole-
+cular mechanisms of higher MICs of antibiotics and qua-
+for Escherichia coli
+ternary ammonium compounds
+isolated from bacteraemia. J Antimicrob. Chemother. 67:
+2837–2842.
+
+71. Osman, O., H. Tanguichi, K. Ikeda, P. Park, S. Tanabe-
+Hosoi, and S. Nagata. 2010. Copper-resistant halophilic
+bacterium isolated from the polluted Maruit Lake. Egypt. J.
+Appl. Microbiol. 108:1459–1470.
+
+72. Yu, Z.Y., L. Gunn, P. Wall, and S. Fanning. 2017. Anti-
+microbial resistance and its association with tolerance to
+heavy metals in agriculture production. Food Microbiol.
+64:23–32.
+
+Address correspondence to:
+Likou Zou, PhD
+Department of Applied Microbiology
+College of Resources
+Sichuan Agricultural University
+Chengdu 611130
+People’s Republic of China
+
+E-mail: zoulikou@sicau.edu.cn
+
+Downloaded by Gothenburg University Library from online.liebertpub.com at 10/20/17. For personal use only.

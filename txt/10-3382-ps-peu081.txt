@@ -1,0 +1,2031 @@
+A temporal study of Salmonella enterica serotypes from broiler farms in Brazil
+
+Daiane Voss-Rech,∗,1 Clarissa S. L. Vaz,∗ Luana Alves,† Arlei Coldebella,∗ Joice A. Le˜ao,‡
+
+D´alia P. Rodrigues,§ and Alberto Back‡
+
+∗Empresa Brasileira de Pesquisa Agropecu´aria - Embrapa Su´ınos e Aves, Caixa Postal 21, 89700-000, Conc´ordia,
+Santa Catarina, Brazil; †Funda¸c˜ao Universidade do Contestado, Rua Vitor Sopelsa, 3000, 89700-000, Conc´ordia,
+Santa Catarina, Brazil; ‡Laborat´orio MercoLab, Rua Maring´a, 2388, 85816-280 Cascavel, Paran´a, Brazil; and
+
+§Funda¸c˜ao Oswaldo Cruz, Av. Brasil, 4365, 21040-900, Rio de Janeiro, Rio de Janeiro, Brazil
+
+study
+
+present
+
+analyzes
+
+ABSTRACT The
+the
+characteristics of Salmonella spp. from broiler chicken
+farms in Brazil. In total, 82 Salmonella spp. strains
+were characterized by serotyping, determining suscep-
+tibility to antimicrobials, and using pulsed-field gel elec-
+trophoresis (PFGE). Fifteen Salmonella serotypes were
+identified, among which Minnesota (40.24%), Infantis
+(14.63%), Heidelberg (7.31%), Senftenberg (6.09%),
+and Mbandaka (6.09%) were the most
+frequent.
+Salmonella Minnesota occurred mostly in the state of
+Mato Grosso do Sul and in one of the broiler companies
+surveyed. Approximately 60% of the strains were re-
+sistant to at least one of the antimicrobials tested.
+From these isolates, 17.07% were resistant to only
+one antimicrobial (tetracycline or streptomycin), and
+
+9.75% were resistant to 3 or more antimicrobial
+classes. Thirteen resistance profiles were character-
+ized, the most frequent of which were the resis-
+tance to tetracycline (15.85%); to the combination of
+trimethroprim with sulfamethoxazole, and tetracycline
+(10.97%); and to the combination of streptomycin
+and tetracycline (9.75%). Multiple correspondence
+analysis revealed that susceptibility or resistance of
+the analyzed strains and also particular Salmonella
+serotypes were associated with broiler-producing com-
+panies where the samples were collected. Strains
+presented high intraserotype genetic variability, as
+shown by the 64 PFGE profiles, suggesting the exis-
+tence of several contamination sources in the surveyed
+farms.
+
+Key words: Salmonella, poultry, antimicrobial resistance, PFGE
+
+INTRODUCTION
+
+Salmonellosis is one of the most complex zoonoses af-
+fecting worldwide public health. The over 2,600 known
+serotypes are found in a wide variety of animal reser-
+voirs, and they are especially resilient, surviving in di-
+verse environments, which explains their high potential
+to spread (EFSA, 2014). Broiler flocks are among the
+main Salmonella reservoirs and are an important means
+of transmission of the bacteria (Verge et al., 2005;
+Foley et al., 2008; FAO-WHO, 2009; Tabo et al., 2013).
+Therefore, the consumption of chicken is considered a
+risk factor for Salmonella infections in humans (FAO-
+WHO, 2009). Another important aspect surrounding
+the transmission of pathogens by animal-source foods
+is the likely dispersion of antimicrobial-resistant strains.
+The use of antimicrobials in both human and veteri-
+nary medicine promotes selective pressure, favoring the
+emergence of resistant strains and narrowing the choice
+of therapeutically efficacious drugs that are available
+
+C(cid:2) 2015 Poultry Science Association Inc.
+Received July 16, 2014.
+Accepted October 30, 2014.
+1Corresponding author: daiane.rech@embrapa.br
+
+433
+
+2015 Poultry Science 94:433–441
+http://dx.doi.org/10.3382/ps/peu081
+
+(Verge et al., 2005; Muhammad et al., 2010; Barrow
+et al., 2012; Hur et al., 2012; Lai et al., 2014). The most
+common problems linked with antimicrobial resistance
+include morbidity, mortality, and the costs associated
+with diseases (Muhammad et al., 2010).
+
+Due to the existence of several potential contami-
+nation sources, such as environment, transportation,
+equipment,
+litter, vectors, water and feed, the con-
+trol of Salmonella on broiler farms is a difficult task
+(Foley et al., 2008; FAO-WHO, 2009). In an attempt
+to ensure flock health and the innocuousness of poul-
+try products in Brazil, the Ministry of Agriculture,
+Livestock and Food Supply (MAPA) has implemented
+the Poultry Health National Plan (PNSA), which in-
+cludes Salmonella control initiatives in the country’s
+poultry industry. The procedures designed for breeder
+farms aim to control the transmission of S. Pullorum,
+S. Gallinarum, S. Enteritidis, and S. Typhimurium
+based on measures that include vaccination, sanitary
+culling, and termination of the incubation of eggs laid
+by birds of infected breeder flocks, depending on the
+category of bird involved (Brasil, 2003). MAPA has
+also implemented regular flock surveillance to detect
+S. Enteritidis, S. Typhimurium, and Salmonella spp.
+
+D
+o
+w
+n
+l
+o
+a
+d
+e
+d
+
+ 
+
+ 
+f
+r
+o
+m
+h
+t
+t
+p
+:
+/
+/
+p
+s
+.
+o
+x
+f
+o
+r
+d
+j
+o
+u
+r
+n
+a
+l
+s
+.
+o
+r
+g
+/
+ 
+a
+t
+ 
+
+S
+o
+u
+t
+h
+e
+r
+n
+M
+
+ 
+
+e
+t
+h
+o
+d
+i
+s
+t
+ 
+
+U
+n
+i
+v
+e
+r
+s
+i
+t
+y
+
+ 
+
+o
+n
+M
+
+ 
+
+a
+r
+c
+h
+
+ 
+
+2
+8
+
+,
+ 
+
+2
+0
+1
+5
+
+434
+
+VOSS-RECH ET AL.
+
+in broilers before slaughter (Brasil, 2009). However,
+Salmonella epidemiology is quite complex; therefore,
+other serotypes that are also able to colonize the intesti-
+nal tract of broilers and contaminate carcasses during
+slaughter and processing may circulate in the broiler
+production chain, posing an extra challenge to mini-
+mizing the risks to the end consumers.
+
+Studies to survey and track the pathogen may be
+useful in Salmonella prevention and control programs,
+which require scientific knowledge of the phenotypic
+and genotypic diversity of the serotypes detected on
+farms. In recent decades, traditional Salmonella typ-
+ing methods, such as serotyping and phage typing,
+have been complemented by molecular assays that af-
+ford higher discrimination and reproducibility (Tenover
+et al., 1995; Verge et al., 2005). Among these, pulsed-
+field gel electrophoresis (PFGE) is considered the gold
+standard for the molecular subtyping of Salmonella,
+with a proven contribution to investigations on the ori-
+gin and spread of the pathogen (Ribot et al., 2006;
+Favier et al., 2013; Yang et al., 2013).
+
+In Brazil, there are few studies published about
+nontyphoidal Salmonella serotypes on broiler farms,
+and those we do have are from several years ago
+(Tavechio et al., 2002; Kanashiro et al., 2005). Other
+studies have foucused only on S. Enteritidis due to pub-
+lic health issues (Oliveira et al., 2005; Ribeiro et al.,
+2007; Vaz et al., 2010). Therefore, additional
+infor-
+mation is needed to better understand the current
+distribution of Salmonella serotypes in broiler farms.
+More information is also needed to evaluate the im-
+pact of the official control program on the Brazilian
+poultry industry. The objectives of this study were to
+1) determine the serotype and genotype diversity of
+Salmonella spp. isolates collected from broiler farms
+managed by different large-scale broiler-producing com-
+panies in Brazil, 2) analyze the antimicrobial resistance
+profile of these strains, and 3) test the relationship be-
+tween the serotypes and antimicrobial resistance pro-
+files and the broiler-producing companies where the
+isolates were detected.
+
+MATERIALS AND METHODS
+
+Sampling
+
+This study comprised a total of 1,543 drag swabs re-
+ceived at the laboratory between 2009 and 2010 for
+salmonellosis diagnosis on commercial broiler farms.
+Samples were taken from broiler farms from 10 com-
+panies with integrated production systems in the states
+of Santa Catarina, Paran´a, and Mato Grosso do Sul as
+part of the Salmonella surveillance program in flocks.
+These states accounted for 50.82% of the broiler pro-
+duction in Brazil
+in 2013 (UBABEF, 2014). A sin-
+gle broiler house was sampled at each farm. Each
+sample consisted of a pool of 2 drag swabs collected with
+sterile disposable socks moistened with 1% buffered
+peptone water (BPW) and worn over the boots. Then
+
+the collector walked along the broiler house, from wall
+to wall. Next, the socks were placed in a sterile plas-
+tic bag that was transported to the laboratory on ice
+and processed within 48 h from sampling. All surveyed
+broiler flocks were grown from breeder flocks vaccinated
+against S. Enteritidis.
+
+Salmonella Isolation, Identiﬁcation,
+and Serotyping
+
+The MAPA-recommended isolation protocol was
+used (Brasil, 1995). Drag swabs were pre-enriched in
+brain heart infusion broth (BHI; Difco, Detroit, MI)
+at 37oC for 18 to 24 h. Aliquots of this cultivation
+medium were individually inoculated in tetrathionate
+broth (Difco) and Rappaport-Vassiliadis broth (Difco),
+incubated at 42oC for 18 to 24 h, streaked on bril-
+liant green agar (Difco) and Rambach agar (Becton
+Dickinson, Franklin Lakes, NJ), and incubated at 37oC
+for 24 h. Suspected colonies were confirmed by biochem-
+ical and seroagglutination assays in polyvalent antigen
+on a slide. The isolates were preserved at –70oC until
+use.
+
+Complete antigenic characterization and serotype
+identification were carried out in the National Reference
+Laboratory for Cholera and Enteric Diseases, Oswaldo
+Cruz Institute (FIOCRUZ, Rio de Janeiro, RJ, Brazil)
+with the rapid slide agglutination test using the somatic
+and flagellar antisera produced by the laboratory.
+
+Determination of Antimicrobial
+Susceptibility
+
+Antimicrobial susceptibility was determined by the
+disk diffusion method according to the Clinical and
+Laboratory Standards Institute (CLSI, 2008). The
+measurement and interpretation of
+inhibition halos
+was performed using the criteria defined in the ap-
+proved standards M31-A3 (CLSI, 2008) and M100-
+S21 (CLSI, 2011), when appropriate. The Escherichia
+coli ATCC 35922 strain was used to ensure the va-
+lidity of the testing. The following antibiotic disks
+(DME, Niter´oi, Rio de Janeiro, Brazil) were used:
+amoxicillin with clavulanic acid, 20/10 µg (Amc); cef-
+tiofur, 30 µg (Cef); ciprofloxacin, 5 µg (Cip); col-
+istin, 10 µg (Ct); enrofloxacin, 5 µg (Enr); strepto-
+mycin, 10 µg (Str); fosfomycin, 200 µg (Fos); gentam-
+icin, 10 µg (Gen); norfloxacin, 10 µg (Nor); trimetho-
+prim with sulfamethoxazole, 23.75/1.25 µg (Ts); and
+tetracycline, 30 µg (Tet). Strains that presented resis-
+tance to 3 or more classes of antimicrobials were con-
+sidered multiresistant (Schwarz et al., 2010).
+
+Pulsed-ﬁeld Gel Electrophoresis
+
+Isolates were genotyped by DNA macrorestriction
+analysis using 40 U of the enzyme Xba I (New Eng-
+land Biolabs, Beverly, MA) followed by PFGE, as
+
+D
+o
+w
+n
+l
+o
+a
+d
+e
+d
+
+ 
+
+ 
+f
+r
+o
+m
+h
+t
+t
+p
+:
+/
+/
+p
+s
+.
+o
+x
+f
+o
+r
+d
+j
+o
+u
+r
+n
+a
+l
+s
+.
+o
+r
+g
+/
+ 
+a
+t
+ 
+
+S
+o
+u
+t
+h
+e
+r
+n
+M
+
+ 
+
+e
+t
+h
+o
+d
+i
+s
+t
+ 
+
+U
+n
+i
+v
+e
+r
+s
+i
+t
+y
+
+ 
+
+o
+n
+M
+
+ 
+
+a
+r
+c
+h
+
+ 
+
+2
+8
+
+,
+ 
+
+2
+0
+1
+5
+
+SALMONELLA IN BRAZILIAN BROILER FARMS
+
+435
+
+previously described (Ribot et al., 2006). S. Ty-
+phimurium LT2 was used as a size standard. Restric-
+tion fragments were electrophoresed in certified 1.2%
+PFGE agarose gels (Bio-Rad, Hercules, CA) in tris-
+borate buffer (TBE; Tris-borate 0.045 M, EDTA 0.001
+M) at 14oC using the CHEF Mapper XA system (Bio-
+Rad), with an initial switch time of 2.2 s and a final
+switch time of 63.8 s at 6 V/s for 18 h. Gels were stained
+in ethidium bromide (1 μg/mL) and visualized under
+UV light. Images were captured using a digital cam-
+era, and macrorestriction patterns were compared using
+Bionumerics 4.0 software (version 6.1) (Applied Maths,
+Sint-Martens-Latem, Belgium). The similarity was cal-
+culated by the Dice coefficient with a 1.7% tolerance.
+A dendrogram was generated by cluster analysis using
+the unweighted pair group method with arithmetic av-
+erages (UPGMA). Strains sharing the same number
+and position of DNA macrorestriction fragments were
+considered to belong to the same genotype.
+
+Multiple Correspondence Analysis
+
+Descriptive analyses were carried out to reveal the
+origin and phenotypic characteristics (serogroups and
+antimicrobial resistance) of the strains. These analyses
+were followed by a multiple correspondence analysis to
+evaluate how broiler-producing companies, Salmonella
+serogroups, and resistance to each chosen antimicrobial
+drug were related. The illustrative variables, Salmonella
+serogroups and number of antimicrobials to which resis-
+tance were observed, were plotted against the generated
+profile map. The multiple correspondence analysis was
+carried out using Syst`eme Pour Analyse de Donn´ees
+(SPAD) software, PC version (Centre International de
+Statistique et d’Informatique Appliqu´es, Saint-Mand´e,
+
+France), taking into account only the companies where
+five or more Salmonella strains were isolated.
+
+RESULTS
+
+Salmonella Isolates and Serotyping
+
+In total, 82 Salmonella spp. strains were isolated out
+of 1,543 analyzed samples. A total of 15 serotypes were
+identified, of which Minnesota, Infantis, Heidelberg,
+Senftenberg, and Mbandaka were the most common, in
+this order. Five strains were identified as the Salmonella
+enterica subspecies enterica and presented the following
+antigen formulae: O:4,5:-:1,2 (2/82); O:13,23:i:- (1/82);
+O:4,5 (1/82); and O:9,12 (1/82).
+
+S. Minnesota was the most frequent serotype in
+the samples from the state of Mato Grosso do Sul
+(33/38, 86.8%). Four other serotypes were detected in
+the same state. In Paran´a, 13 serotypes were identi-
+fied, among which S. Infantis was the most prevalent
+(10/29, 34.5%). In the state of Santa Catarina, 10 dif-
+ferent serotypes were detected, and S. Senftenberg was
+the most common (5/15, 33.3%).
+
+Antimicrobial Susceptibility of Strains
+
+Of the analyzed strains, 49 isolates (59.75%) pre-
+sented resistance to 1 or more antimicrobials (Table 1).
+Of these, 14 (17.07%) were resistant to 1 drug, and
+24 (29.26%) were resistant to 2 drugs. Multiresistance
+was observed in 8 isolates, 7 isolates (8.53%) were re-
+sistant to 3 antimicrobial classes, and 1 isolate (1.22%)
+was resistant to 4 antimicrobial classes. All of the
+characterized strains were susceptible to fosfomycin,
+
+Table 1. Frequency of Salmonella serotypes and distribution according to antimicrobial
+resistance in broilers farms in Brazil.
+
+D
+o
+w
+n
+l
+o
+a
+d
+e
+d
+
+ 
+
+ 
+f
+r
+o
+m
+h
+t
+t
+p
+:
+/
+/
+p
+s
+.
+
+o
+x
+f
+o
+r
+d
+j
+o
+u
+r
+n
+a
+l
+s
+.
+
+o
+r
+g
+/
+ 
+a
+t
+ 
+
+S
+o
+u
+t
+h
+e
+r
+n
+M
+
+ 
+
+e
+t
+h
+o
+d
+i
+s
+t
+ 
+
+U
+n
+i
+v
+e
+r
+s
+i
+t
+y
+
+ 
+
+o
+n
+M
+
+ 
+
+a
+r
+c
+h
+
+ 
+
+2
+8
+
+,
+ 
+
+2
+0
+1
+5
+
+1Number of strains that were sensitive (0) or resistant to up to 4 antimicrobial classes.
+2Incomplete antigenic formula.
+
+15
+
+26
+
+7
+
+1
+
+Resistance pattern1
+
+3
+
+1
+
+2
+
+4
+
+1
+
+12
+
+1
+
+1
+
+1
+
+6
+
+1
+
+14
+4
+1
+4
+
+1
+
+1
+
+1
+
+Serotypes
+
+O group
+
+Isolates (%)
+
+O:21 (L)
+Minnesota
+O:7 (C1)
+Infantis
+O:4 (B)
+Heidelberg
+O:1,3,19 (E4)
+Senftenberg
+O:7 (C1)
+Mbandaka
+Schwarzengrund O:4 (B)
+O:4 (B)
+Bredeney
+O:18 (K)
+Cerro
+O:3,10 (E1)
+Anatum
+O:4,5:-:1,22
+O:4 (B)
+O:3,10 (E1)
+Orion
+O:7 (C1)
+Livingstone
+O:4 (B)
+Saintpaul
+O:4 (B)
+Agona
+O:13,23:i:-2
+O:13 (G)
+O:4,52
+O:4 (B)
+O:9,122
+O:9 (D1)
+O:3,10 (E1)
+London
+Ohio
+O:7 (C1)
+Total
+
+33 (40.24)
+12 (14.63)
+6 (7.31)
+5 (6.09)
+5 (6.09)
+4 (4.87)
+2 (2.44)
+2 (2.44)
+2 (2.44)
+2 (2.44)
+1 (1.22)
+1 (1.22)
+1 (1.22)
+1 (1.22)
+1 (1.22)
+1 (1.22)
+1 (1.22)
+1 (1.22)
+1 (1.22)
+82
+
+0
+
+1
+8
+4
+
+4
+3
+1
+1
+2
+2
+1
+
+1
+1
+1
+1
+1
+1
+33
+
+Resistant isolates (%)
+
+32 (39.02)
+4 (4.87)
+2 (2.44)
+5 (6.09)
+1 (1.22)
+1 (1.22)
+1 (1.22)
+1 (1.22)
+0
+0
+0
+1 (1.22)
+1 (1.22)
+0
+0
+0
+0
+0
+0
+49 (59.75)
+
+436
+
+VOSS-RECH ET AL.
+
+Figure 1. Frequency (%) of antimicrobial resistance in Salmonella isolates from broiler farms in Brazil. Tet: tetracycline; Str: streptomycin;
+fosfomycin;
+
+Ts: trimethoprim with sulfamethoxazole; Cef: ceftiofur; Amc: amoxicillin with clavulanic acid; Gen: gentamicin; Fos:
+Nor: norfloxacin; Enr: enrofloxacin; Ct: colistin; Cip: ciprofloxacin.
+
+norfloxacin, enrofloxacin, colistin, and ciprofloxacin
+(Figure 1).
+
+Thirteen different resistance profiles were identified
+(Figure 2), the most frequent of which were resis-
+tance to tetracycline only (15.85%), to the combina-
+tion tetracycline and trimethoprim with sulfamethox-
+azole (10.97%), and to the combination streptomycin
+and tetracycline (9.75%).
+
+The Relationship between Phenotypic
+Patterns and the Origin of Strains
+
+Figure 3 shows the profile map generated by the
+multiple correspondence analysis. On the bottom right,
+broiler-producing companies 1, 5, and 6 were associated
+with antimicrobial susceptibility and with serogroups
+E1, C1, D1, and G, respectively. Susceptibility to
+trimethoprim with sulfamethoxazole and to strepto-
+mycin was associated with serogroups B and K, re-
+spectively. On the bottom left, Salmonella strains of
+serogroup L (S. Minnesota) were closely associated
+with company 3, just as serogroup E4 (S. Senftenberg)
+was linked to company 4. In this group, companies 2,
+3, and 4 were associated with resistance to tetracy-
+cline, trimethoprim with sulfamethoxazole, and strep-
+tomycin, respectively. Because only one strain was re-
+sistant to 5 antimicrobials (4 classes) (Table 1), there
+was no direct association between this isolate and the
+company plotted on the map.
+
+Salmonella Genotype Diversity
+
+PFGE differentiated the strains analyzed into 64
+genotypes (Figure 2), of which 30 were identified in the
+33 S. Minnesota strains, 8 in the 12 S. Infantis strains, 3
+in the 6 S. Heidelberg strains, and 2 in the 5 S. Senften-
+berg strains. The samples of the other serotypes were
+of a single genotype. All of the genotyped Salmonella
+
+serotypes presented PFGE profiles distinct from the
+other serotypes. Most strains of S. Minnesota, S.
+Infantis, S. Heidelberg, S. Senftenberg, and S. Mban-
+daka formed specific clusters. S. Minnesota presented
+the highest intraserotype genetic diversity, shown by
+the number of obtained PFGE profiles, and only 3 of
+these genotypes were shared by more than one strain.
+In spite of this variability, most S. Minnesota strains
+formed one main cluster, with similarity levels over
+70% (Figure 2). Six strains (7.31%) of the serotypes
+Ohio (1), Saintpaul (1), Cerro (2), Schwarzengrund (1),
+and Salmonella enterica subspecies enterica (O:9,12)
+could not be genotyped using the protocol adopted in
+the present study. The samples that were genotyped
+presented between 9 and 18 bands, whose sizes varied
+between 35 and 821 kb (data not shown).
+
+DISCUSSION
+
+The present study identified several nontyphoidal
+Salmonella strains isolated from drag swabs collected
+from broiler farms in 3 Brazilian states. In total, 15
+serotypes were identified and found to be distributed
+unevenly in the surveyed region. S. Minnesota was
+the most commonly isolated strain (40.24%), followed
+by S. Infantis (14.63%), S. Heidelberg (7.31%), S.
+Senftenberg (6.09%), and S. Mbandaka (6.09%)
+(Table 1). However, most S. Minnesota strains were
+from a single broiler-producing company (company 3)
+in the state of Mato Grosso do Sul, suggesting the re-
+gional predominance and distribution of this serotype.
+The variability of serotypes by geographical area has
+also been reported by Yang et al. (2013).
+
+S. Minnesota has been considered one of the most
+prevalent serotypes in laying hens in Chad (Tabo et al.,
+2013) and also in broiler farms in Belgium (CODA-
+CERVA, 2014). However, it is rarely responsible for hu-
+man salmonellosis outbreaks worldwide (CDC, 2013a,b;
+EFSA, 2014). In contrast, S. Infantis is one of the
+
+D
+o
+w
+n
+l
+o
+a
+d
+e
+d
+
+ 
+
+ 
+f
+r
+o
+m
+h
+t
+t
+p
+:
+/
+/
+p
+s
+.
+o
+x
+f
+o
+r
+d
+j
+o
+u
+r
+n
+a
+l
+s
+.
+o
+r
+g
+/
+ 
+a
+t
+ 
+
+S
+o
+u
+t
+h
+e
+r
+n
+M
+
+ 
+
+e
+t
+h
+o
+d
+i
+s
+t
+ 
+
+U
+n
+i
+v
+e
+r
+s
+i
+t
+y
+
+ 
+
+o
+n
+M
+
+ 
+
+a
+r
+c
+h
+
+ 
+
+2
+8
+
+,
+ 
+
+2
+0
+1
+5
+
+SALMONELLA IN BRAZILIAN BROILER FARMS
+
+437
+
+D
+o
+w
+n
+l
+o
+a
+d
+e
+d
+
+ 
+
+ 
+f
+r
+o
+m
+h
+t
+t
+p
+:
+/
+/
+p
+s
+.
+o
+x
+f
+o
+r
+d
+j
+o
+u
+r
+n
+a
+l
+s
+.
+o
+r
+g
+/
+ 
+a
+t
+ 
+
+S
+o
+u
+t
+h
+e
+r
+n
+M
+
+ 
+
+e
+t
+h
+o
+d
+i
+s
+t
+ 
+
+U
+n
+i
+v
+e
+r
+s
+i
+t
+y
+
+ 
+
+o
+n
+M
+
+ 
+
+a
+r
+c
+h
+
+ 
+
+2
+8
+
+,
+ 
+
+2
+0
+1
+5
+
+Figure 2. XbaI PFGE and antimicrobial resistance patterns of Salmonella enterica isolates from broiler farms in Brazil. Tet: tetracycline;
+Str: streptomycin; Ts: trimethoprim with sulfamethoxazole; Cef: ceftiofur; Amc: amoxicillin with clavulanic acid; Gen: gentamicin;
+Fos: fosfomycin; Nor: norfloxacin; Enr: enrofloxacin; Ct: colistin; Cip: ciprofloxacin.
+
+438
+
+VOSS-RECH ET AL.
+
+Figure 3. Map of the multiple correspondence analysis describing associations among Salmonella serogroups, antimicrobial resistance patterns,
+and broiler-producing companies sampled in Brazil. BPC: broiler-producing company; AR: number of antimicrobials to which resistance was
+observed; S : sensitive;R: resistant;Amc : amoxicillin with clavulanic acid; Cef: ceftiofur; Str: streptomycin; Gen: gentamicin; Ts: trimethoprim
+with sulfamethoxazole; Tet: tetracycline.
+
+serotypes that is regularly surveyed in breeder flocks
+in the European Union because it has been in-
+volved in salmonellosis outbreaks in member countries
+(CODA-CERVA, 2014 ; EFSA,2014). In turn, S. Hei-
+delberg was listed among the 4 most commonly isolated
+serotypes in broiler chickens and humans in the United
+States from 1970 to 2009 (CDC, 2013a). In Brazil, S.
+Heidelberg, S. Senftenberg, and S. Mbandaka have been
+identified in broiler chickens for years (Tavechio et al.,
+2002; Kanashiro et al., 2005; Duarte et al., 2009), but
+there are no data concerning their occurrence in out-
+breaks of salmonellosis in humans because the causal
+serotype has not been characterized in most of these
+events. Due to the multifactorial nature of Salmonella
+transmission in the food chain, it is often not possible
+to establish a correlation between the most prevalent
+serotypes in poultry and the most common ones impli-
+cated in officially reported human salmonellosis.
+
+In the past two decades, S. Enteritidis was the pre-
+dominant serotype in poultry flocks, broiler meat, and
+table eggs in Brazil (Tavechio et al., 2002; Kanashiro
+et al., 2005; Ribeiro et al., 2007; Duarte et al., 2009; Vaz
+et al., 2010); however, it was not found in this study.
+In fact, the gradual reduction in S. Enteritidis fre-
+quency, in comparison to other nontyphoidal serotypes
+isolated on broiler farms, has become apparent in our
+laboratory during this period. This reduction may be
+a consequence of Salmonella control programs imple-
+mented by the Brazilian poultry industry. In addition
+to the strict biosecurity measures adopted, the immune
+prophylaxis of breeder flocks with inactivated vaccines
+against S. Enteritidis began in 2003 under official super-
+vision (Brasil, 2003), which may have helped reduce its
+prevalence in broilers. The immunity given by vaccina-
+
+tion also protects against antigenically similar serotypes
+(Foley et al., 2011) and may have led to a drop in the
+prevalence of related Salmonella serotypes. Actually, in
+the present study, we identified only one isolate from
+serogroup D (Table 1) that was antigenically related
+to S. Enteritidis. It is estimated that when the preva-
+lence of one serotype falls, other serotypes emerge and
+take over its ecological niche (Verge et al., 2005; Foley
+et al., 2008; Barrow et al., 2012). In Belgium, after the
+implementation of vaccination as part of an integrated
+control strategy for S. Enteritidis, several Salmonella
+serotypes have emerged, taking over its former eco-
+logical niche and subsequently disappearing (Jasson &
+Butaye, 2012). Notably, a rise in the occurrence of S.
+Minnesota has been seen in Belgium, from 2% in 2009
+to 17.6% in 2012, when it became the second most com-
+mon serotype in poultry (CODA-CERVA, 2014).
+
+Regarding antimicrobial resistance, 59.75% of the
+evaluated strains were resistant to one or more cho-
+sen antimicrobials (Table 1). Multiresistance to 3 or
+4 classes of antimicrobials was identified in 9.75%
+of the strains. The highest levels of resistance were
+found for tetracycline, streptomycin, and trimethro-
+prim/sulfamethoxazole (Figure 1). Different antimicro-
+bial resistance levels have been identified in Salmonella
+spp. isolated from poultry worldwide. In Brazil, these
+levels have been shown to vary between 56% and 100%
+(Oliveira et al., 2005; Cardoso et al., 2006; Duarte
+et al., 2009; Vaz et al., 2010). In the United States,
+74.1% of strains isolated from chicken meat have been
+found resistant to antimicrobials and, as in the present
+study, the highest resistance frequencies were observed
+for tetracycline (65.8%) (USDA, 2012). Salmonella
+strains isolated from chicken have presented resistance
+
+D
+o
+w
+n
+l
+o
+a
+d
+e
+d
+
+ 
+
+ 
+f
+r
+o
+m
+h
+t
+t
+p
+:
+/
+/
+p
+s
+.
+o
+x
+f
+o
+r
+d
+j
+o
+u
+r
+n
+a
+l
+s
+.
+o
+r
+g
+/
+ 
+a
+t
+ 
+
+S
+o
+u
+t
+h
+e
+r
+n
+M
+
+ 
+
+e
+t
+h
+o
+d
+i
+s
+t
+ 
+
+U
+n
+i
+v
+e
+r
+s
+i
+t
+y
+
+ 
+
+o
+n
+M
+
+ 
+
+a
+r
+c
+h
+
+ 
+
+2
+8
+
+,
+ 
+
+2
+0
+1
+5
+
+SALMONELLA IN BRAZILIAN BROILER FARMS
+
+439
+
+frequencies of 70.4% and 99.1% in China (Yang et al.,
+2013; Lai et al., 2014) and 100% in Argentina (Favier
+et al., 2013) and Spain ( ´Alvarez-Fernad´ez et al., 2012).
+However, these results should be compared with care
+due to the effect of variation in factors, such as method-
+ology, antimicrobials tested, and origin of the strains
+(Schwarz et al., 2010).
+
+The high frequency of resistance to tetracycline is
+expected because this antimicrobial was one of the
+first adopted for use in animal production (Muhammad
+et al., 2010). For instance, high levels of resistance to
+tetracycline have been observed in Salmonella spp. iso-
+lated from chicken meat sampled at processing plants
+in Brazil, ranging from 80% (Ribeiro et al., 2007) to
+100% (Cardoso et al., 2006). Although tetracyclines
+were banned as additives in animal feed in Brazil in
+1998, they are still used therapeutically and therefore
+exert selective pressure on microorganisms. In addition,
+the emergence of bacteria resistant to cephalosporins
+and fluoroquinolones raises concerns. Both classes of
+antimicrobials are used to treat severe human infec-
+tions, and resistance to these drugs may cause grave
+complications in terms of successful treatment (Verge
+et al., 2005; Hur et al., 2012; Kilonzo-Nthenge et al.,
+2013; Lai et al., 2014). In the present study, 12.19%
+of the strains were resistant to ceftiofur (Figure 1), a
+third-generation cephalosporin that has been approved
+for veterinary use. Although resistance to this antimi-
+crobial was low in the analyzed strains, these find-
+ings may also indicate a decrease in the susceptibility
+to other cephalosporins (Zhao et al., 2008; Lai et al.,
+2014). In Brazilian hatcheries, ceftiofur has been used
+in chicks during their first day of life and may represent
+a critical factor in the selection of resistant strains. On
+the other hand, all Salmonella strains were susceptible
+to fluoroquinolones tested in this study: enrofloxacin,
+norfloxacin, and ciprofloxacin. Although enrofloxacin is
+used exclusively in veterinary medicine, the resistance
+to this antimicrobial may indicate increasing resistance
+or a drop in susceptibility to other fluoroquinolones
+of medical importance (Schwarz et al., 2010). For this
+reason, the therapeutic use of enrofloxacin in produc-
+tion animals has been questioned due to the possibility
+that resistant strains might be transmitted to humans
+through the food chain (Jones-Dias et al., 2013).
+
+The multiple correspondence analysis linked the
+antimicrobial susceptibility of Salmonella to broiler-
+producing companies 1, 5, and 6, while antimicrobial
+resistance was associated with companies 2, 3, and 4
+(Figure 3). In Brazil, although antimicrobial classes li-
+censed for therapeutic use in food-producing animals
+and their respective judicious uses are defined in spe-
+cific guidelines, the actual choice of the specific drugs
+to be used is defined based on criteria that vary from
+company to company. How these differences in choice
+of the respective antimicrobial drugs actually influence
+the susceptibility or resistance phenotypes of microbial
+populations is unclear, and the data presented here did
+not allow us to reach a conclusion on this subject. At
+
+any rate, careful administration of antimicrobials and
+continuous surveillance are important initiatives that
+help define the best treatment and prevent the selec-
+tion and spreading of resistant strains across flocks.
+
+As a subtyping technique, PFGE has been widely
+used because of its high discriminatory power (Ribot
+et al., 2006; Favier et al., 2013; Yang et al., 2013).
+In the present study, the analyzed Salmonella isolates
+presented high genotypic variability (Figure 2 ) in the
+number of identified serotypes and the diversity of
+strains belonging to the same serotype. Most analyzed
+S. Minnesota strains came from farms that were lo-
+cated in the same geographic region and that oper-
+ated in an integrated system of broiler production that
+was managed by the same company. For this reason,
+some S. Minnesota strains were closely related, show-
+ing similarities of over 95% (Figure 2). Strains that
+differ by two or three distinctive bands typically re-
+sult from one single mutation, e.g., a DNA insertion
+or deletion, which generates the subtypes of an ances-
+tral strain. This type of change has been observed in
+strains subcultured several times or reisolated from the
+same patient (Tenover et al., 1995). This suggests that
+strains that grouped into clusters of high genetic simi-
+larity may actually be subtypes of the same sample that
+have spread over space and time. On the other hand,
+the total genetic variability between clusters (Figure 2)
+suggests the inexistence of a clonal relationship, indi-
+cating that S. Minnesota transmission on the surveyed
+farms was predominantly horizontal and through differ-
+ent contamination sources. Actually, the epidemiology
+of Salmonella in poultry farming is quite complex, and
+the bacteria may be introduced on farms through dif-
+ferent sources, such as feed, water, insects, rodents, and
+even the boots worn by the workers (Foley et al., 2008).
+Among the other serotypes, most S. Infantis strains
+presented a similarity of over 90%, a value that was
+also observed for all S. Heidelberg and S. Senften-
+berg strains, which reveals little intraserotype vari-
+ability. Four S. Infantis and 4 S. Heidelberg strains
+isolated from farms controlled by different broiler-
+producing companies presented one same genotype in
+each serotype, although the absence of epidemiological
+information about these samples does not allow us to
+infer their origin. Among the 5 analyzed S. Senften-
+berg strains, 4 shared the same PFGE profile, which
+was closely related to the alternative genotype that was
+also identified in this serotype (Figure 2). Although a
+small number of S. Senftenberg isolates was analyzed,
+the close relationship between these strains also sug-
+gests a common origin, an assumption supported by
+the association of serogroup E4, to which they belong,
+with broiler company 4 (Figure 3). As a rule, PFGE
+revealed high genetic variability between the isolated
+Salmonella strains, suggesting that the bacteria entered
+farms through a variety of contamination sources.
+
+In conclusion, S. Minnesota was the most frequent
+serotype in the sampled broiler flocks and was con-
+centrated in one geographical area (the state of Mato
+
+D
+o
+w
+n
+l
+o
+a
+d
+e
+d
+
+ 
+
+ 
+f
+r
+o
+m
+h
+t
+t
+p
+:
+/
+/
+p
+s
+.
+o
+x
+f
+o
+r
+d
+j
+o
+u
+r
+n
+a
+l
+s
+.
+o
+r
+g
+/
+ 
+a
+t
+ 
+
+S
+o
+u
+t
+h
+e
+r
+n
+M
+
+ 
+
+e
+t
+h
+o
+d
+i
+s
+t
+ 
+
+U
+n
+i
+v
+e
+r
+s
+i
+t
+y
+
+ 
+
+o
+n
+M
+
+ 
+
+a
+r
+c
+h
+
+ 
+
+2
+8
+
+,
+ 
+
+2
+0
+1
+5
+
+440
+
+VOSS-RECH ET AL.
+
+Grosso do Sul). Other nontyphoidal Salmonella, such as
+S. Infantis, S. Heidelberg, S. Senftenberg, and S. Mban-
+daka, were found in the states of Paran´a and Santa
+Catarina. In contrast to previously published results,
+S. Enteritidis was not isolated in the present study,
+which suggests a profile change of the most frequent
+nontyphoidal serotypes in the Brazilian broiler indus-
+try. Approximately 60% of the strains were resistant
+to at least one of the evaluated antimicrobials, mainly
+tetracycline. All isolates were susceptible to fosfomycin,
+norfloxacin, enrofloxacin, colistin, and ciprofloxacin.
+The susceptibility or resistance of the analyzed strains
+was associated with the broiler-producing companies
+where the samples were collected, while Salmonella
+serogroups L and E4 showed a strong correlation with
+particular broiler-producing companies sampled. Ad-
+ditionally, the genetic diversity of the Salmonella
+strains suggests the involvement of different transmis-
+sion sources on the surveyed farms. These results reveal
+the need, due to public health concerns, for continuous
+surveillance and molecular typing and subtyping analy-
+ses as ancillary tools in strategies to control Salmonella
+on broiler farms.
+
+ACKNOWLEDGMENTS
+
+This work was
+
+funded by the National Re-
+search Council (CNPq, Brasilia, Brazil, project no.
+578086/2008-5). We would like to thank Mariana dos
+Santos de Ara´ujo and Eliane Moura Falavina dos Reis
+at the National Reference Laboratory for Cholera and
+Enteric Diseases, Oswaldo Cruz Institute (FIOCRUZ,
+Rio de Janeiro, Brazil) for the serotyping of strains. L.
+Alves received a Technological and Industrial Research
+(ITI-A) scholarship from CNPq.
+
+REFERENCES
+
+´Alvarez-Fern´andez, E., C. Alonso-Calleja, C. Garc´ıa-Fern´andez, and
+R. Capita. 2012. Prevalence and antimicrobial resistance of
+Salmonella serotypes isolated from poultry in Spain: Compar-
+ison between 1993 and 2006. Int. J. Food Microbiol. 153:28–
+287.
+
+Barrow, P. A., M. A. Jones, A. L. Smith, and P. Wigley. 2012. The
+long view: Salmonella. The last forty years. Avian Pathol. 41:413–
+420.
+
+Brasil. 1995. Minist´erio da Agricultura, Pecu´aria e Abastecimento.
+Instru¸c˜ao Normativa no 126, de 03 de Novembro de 1995. Anexo:
+Normas para o credenciamento e monitoramento de laborat´orios
+de diagn´ostico das salmonelas avi´arias. Di´ario Oficial da Uni˜ao.
+Se¸c˜ao 1, p. 17694–17698.
+
+Brasil. 2003. Minist´erio da Agricultura, Pecu´aria e Abastecimento.
+Instru¸c˜ao Normativa da SDA no 78, de 03 de Novembro de 2003.
+Normas t´ecnicas para controle e certifica¸c˜ao de n´ucleos e estab-
+elecimentos av´ıcolas como livres de S. Gallinarum e de S. Pul-
+lorum e livres ou controlados para S. Enteritidis e para S. Ty-
+phimurium. Di´ario Oficial da Uni˜ao. Se¸c˜ao 1, p. 3.
+Brasil. 2009. Minist´erio da Agricultura, Pecu´aria e Abastecimento.
+Of´ıcio circular conjunto DSA /DIPOA n◦ 01/2009, de 15 de
+Janeiro de 2009. Procedimentos para monitoramento de esta-
+belecimentos de frangos de corte e perus para Salmoneloses
+avi´arias.
+
+Cardoso, M., A. R. Ribeiro, L. R. Santos, F. Pilotto, H. L. S. Moraes,
+C. T. P. Salle, S. L. S. Rocha, and V. P. Nascimento. 2006.
+
+Antibiotic resistance in Salmonella Enteritidis isolated from
+broiler carcasses. Braz. J. Microbiol. 37:299–302.
+
+CDC (Centers for Disease Control and Prevention). 2013a. National
+Salmonella Surveillance Annual Report, 2011. US Department of
+Health and Human Services, CDC, Atlanta, GA.
+
+CDC (Centers for Disease Control and Prevention). 2013b. Incidence
+and trends of infection with pathogens transmitted commonly
+through food: Foodborne diseases active surveillance network, 10
+U.S. sites, 1996–2012. Morbidity and Mortality Weekly Rep. 62,
+283–287.
+
+CLSI (Clinical and Laboratory Standard Institute). 2008. Perfor-
+mance Standards for Antimicrobial Disk and Dilution Suscepti-
+bility Tests for Bacteria Isolated from Animals. 3rd ed. CLSI,
+document M31-A3, Wayne, PA.
+
+CLSI (Clinical and Laboratory Standard Institute). 2011. Per-
+formance Standards for Antimicrobial Susceptibility Testing:
+Twenty-First Informational Supplement. CLSI, document M100-
+S21, Wayne, PA.
+
+CODA-CERVA (Centrum voor Onderzoek in Diergeneeskunde en
+Agrochemie, Centre d’Etude et des Recherches V´et´erinaires et
+Agrochimiques). 2014. Salmonella Serotypes Analysed at the
+CODA-CERVA in 2013. Federal Public Service Health, Food
+Chain Security and Environment, Brussels, Belgium.
+
+Duarte, D. A. M, A. R. Ribeiro, A. M. M. Vasconcelos, S. B. Santos,
+J. V. D. Silva, P. L. A. Andrade, and L. S. P. C. A. Falc˜ao. 2009.
+Occurrence of Salmonella spp. in broiler chicken carcasses and
+their susceptibility to antimicrobial agents. Braz. J. Microbiol.
+40:569–573.
+
+EFSA (European Food Safety Authority). 2014. Scientific report
+of EFSA and ECDC: The European Union summary report on
+trends and sources of zoonoses, zoonotic agents and food-borne
+outbreaks in 2012. EFSA J. 12:3547.
+
+FAO-WHO (Food and Agriculture Organization of the United Na-
+tions/World Health Organization). 2009. Salmonella and Campy-
+lobacter in chicken meat: Meeting report. Microbiological Risk
+Assessment Series 19.
+
+Favier, G. I., C. S. M. L. Estrada, V. L. Otero, and M. E. Escud-
+ero. 2013. Prevalence, antimicrobial susceptibility, and molecu-
+lar characterization by PCR and pulsed field gel electrophoresis
+(PFGE) of Salmonella spp. isolated from foods of animal origin
+in San Luis, Argentina. Food Control. 29:49–54.
+
+Foley, S. L., A. M. Lynne, and R. Nayak. 2008. Salmonella challenges:
+Prevalence in swine and poultry and potential pathogenicity of
+such isolates. J. Anim. Sci. 86:149–162.
+
+Foley, S. L., R. Nayak, I. B. Hanning, T. J. Johnson, J. Han, and
+S. C. Ricke. 2011. Population dynamics of Salmonella enterica
+serotypes in commercial egg and poultry production. Appl. Env-
+iron. Microbiol. 77:4273–4279.
+
+Hur, J., C. Jawale, and J. H. Lee. 2012. Antimicrobial resistance of
+Salmonella isolated from food animals: A review. Food Res. Int.
+45:819–830.
+
+Jasson, V., and P. Butaye. 2012. Report on susceptibility of
+Salmonella serotypes in Belgium: CODA-CERVA (Centrum voor
+Onderzoek in Diergeneeskunde en Agrochemie-Centre d’Etude et
+des Recherches V´et´erinaires et Agrochimiques). Federal Public
+Service Health, Food Chain Security and Environment. Brussels,
+Belgium.
+
+Jones-Dias, D., V. Manageiro, A. P. Francisco, A. P. Martins, G.
+Domingues, D. Louro, E. Ferreira, and M. Cani¸ca. 2013. Assess-
+ing the molecular basis of transferable quinolone resistance in Es-
+cherichia coli and Salmonella spp. from food-producing animals
+and food products. Vet. Microbiol. 167:523–531.
+
+Kanashiro, A. M., G. F. Z. Stoppa, A. L. S. P. Cardoso, E. N. C.
+Tessari, and A. G. M. Castro. 2005. Serovars of Salmonella spp.
+isolated from broiler chickens and commercial breeders in diverse
+regions in Brazil July 1997 to December 2004. Braz. J. Poult. Sci.
+7:195–198.
+
+Kilonzo-Nthenge, A., E. Rotich, and S. N. Nahashon. 2013. Evalu-
+ation of drug-resistant Enterobacteriaceae in retail poultry and
+beef. Poult. Sci. 92:1098–1107.
+
+Lai, J., Co. Wu, Ch. Wu, J. Qi, Y. Wang, H. Wang, Y. Liu, and
+J. Shen. 2014. Serotype distribution and antibiotic resistance of
+Salmonella in food-producing animals in Shandong province of
+China, 2009 and 2012. Int. J. Food Microbiol. 180:30–38.
+
+D
+o
+w
+n
+l
+o
+a
+d
+e
+d
+
+ 
+
+ 
+f
+r
+o
+m
+h
+t
+t
+p
+:
+/
+/
+p
+s
+.
+o
+x
+f
+o
+r
+d
+j
+o
+u
+r
+n
+a
+l
+s
+.
+o
+r
+g
+/
+ 
+a
+t
+ 
+
+S
+o
+u
+t
+h
+e
+r
+n
+M
+
+ 
+
+e
+t
+h
+o
+d
+i
+s
+t
+ 
+
+U
+n
+i
+v
+e
+r
+s
+i
+t
+y
+
+ 
+
+o
+n
+M
+
+ 
+
+a
+r
+c
+h
+
+ 
+
+2
+8
+
+,
+ 
+
+2
+0
+1
+5
+
+SALMONELLA IN BRAZILIAN BROILER FARMS
+
+441
+
+Muhammad, M., L. U. Muhammad, A. G. Ambali, A. U. Mani, S.
+Azard, and L. Barco. 2010. Prevalence of Salmonella associated
+with chick mortality at hatching and their susceptibility to an-
+timicrobial agents. Vet. Microbiol. 140:131–135.
+
+Oliveira, S. D., F. S. Flores, L. R. Santos, and A. Brandelli. 2005.
+Antimicrobial resistance in Salmonella Enteritidis strains isolated
+from broiler carcasses, food, human and poultry-related samples.
+Int. J. Food Microbiol. 97:297–305.
+
+Ribeiro, A. R., A. Kellermann, L. R. Santos, M. C. Bessa, and V.
+P. Nascimento. 2007. Salmonella spp. in raw broiler parts: Oc-
+currence, antimicrobial resistance profile and phage typing of the
+Salmonella Enteritidis isolates. Braz. J. Microbiol. 38:296–299.
+
+Ribot, E. M., M. A. Fair, R. Gautom, D. N. Cameron, S. B. Hunter,
+B. Swaminathan, and T. J. Barrett. 2006. Standardization of
+pulsed-field gel electrophoresis protocols for the subtyping of Es-
+cherichia coli O157:H7, Salmonella , andShigella for PulseNet.
+Foodborne Pathog. Dis. 3:59–67.
+
+Schwarz, S., P. Silley, S. Simjee, N. Woodford, E. V. Duijkeren, A.
+P. Johnson, and W. Gaastra, 2010. Assessing the antimicrobial
+susceptibility of bacteria obtained from animals. Vet. Microbiol.
+141:1–4.
+
+Tabo, D., C. D. Diguimbaye, S. A. Granier, F. Moury, A. Brisabois,
+R. Elgroud, and Y. Millemann. 2013. Prevalence and antimi-
+crobial resistance of non-typhoidal Salmonella serotypes isolated
+from laying hens and broiler chicken farms in N’Djamena, Chad.
+Vet. Microbiol. 166:293–298.
+
+Tavechio, A. T., ˆA. C. R. Ghilardi, J. T. M. Peresi, T. O. Fuzihara, E.
+K. Yonamine, M. Jakabi, and S. A. Fernandes. 2002. Salmonella
+serotypes isolated from nonhuman sources in S˜ao Paulo, Brazil,
+from 1996 through 2000. J. Food Prot. 65:1041–1044.
+
+Tenover, F. C., R. D. Arbeit, R. V. Goering, P. A. Mickelsen, B. E.
+Murray, D. H. Persing, and B. Swaminathan. 1995. Interpreting
+chromosomal DNA restriction patterns produced by pulsed-field
+gel electrophoresis: Criteria for bacterial strain typing. J. Clin.
+Microbiol. 33:2233–2239.
+
+UBABEF (Uni˜ao Brasileira de Avicultura). 2014. Relat´orio Anual
+2014. S˜ao Paulo. Available on: http://www.ubabef.com.br/files/
+publicacoes/8ca705e70f0cb110ae3aed67d29c8842.pdf.
+
+USDA (United States Department of Agriculture). 2012. National
+Antimicrobial Resistance Monitoring System (NARMS). Retail
+Meat Report 2011.
+
+Vaz, C. S. L., A. F. Streck, G. B. Michael, F. S. Marks, D. P. Ro-
+drigues, E. M. dos Reis, M. R. Cardoso, and C. W. Canal. 2010.
+Antimicrobial resistance and subtyping of Salmonella enterica
+subspecies enterica serovar Enteritidis isolated from human out-
+breaks and poultry in southern Brazil. Poult. Sci. 89:1530–1536.
+Verge, P., A. Cloeckaert, and P. Barrow. 2005. Emergence of
+Salmonella epidemics: The problems related to Salmonella en-
+terica serotype Enteritidis and multiple antibiotic resistance in
+other major serotypes. Vet. Res. 36:267–288.
+
+Yang, B., L. Qiao, X. Zhang, Y. Cui, X. Xia, S. Cui, X. Wang, X.
+Meng, W. Ge, X. Shi, D. Wang, and J. Meng. 2013. Serotyping,
+antimicrobial susceptibility, pulsed field gel electrophoresis anal-
+ysis of Salmonella isolates from retail foods in Henan Province,
+China. Food Control. 32:228–235.
+
+Zhao, S., D. G. White, S. L. Friedman, A. Glenn, K. Blickenstaff, S.
+L. Ayers, J. W. Abbott, E. Hall-Robinson, and P. F. McDermott.
+2008. Antimicrobial resistance in Salmonella enterica serovar Hei-
+delberg isolates from retail meats, including poultry, from 2002
+to 2006. Appl. Environ. Microb. 74:6656–6662.
+
+D
+o
+w
+n
+l
+o
+a
+d
+e
+d
+
+ 
+
+ 
+f
+r
+o
+m
+h
+t
+t
+p
+:
+/
+/
+p
+s
+.
+o
+x
+f
+o
+r
+d
+j
+o
+u
+r
+n
+a
+l
+s
+.
+o
+r
+g
+/
+ 
+a
+t
+ 
+
+S
+o
+u
+t
+h
+e
+r
+n
+M
+
+ 
+
+e
+t
+h
+o
+d
+i
+s
+t
+ 
+
+U
+n
+i
+v
+e
+r
+s
+i
+t
+y
+
+ 
+
+o
+n
+M
+
+ 
+
+a
+r
+c
+h
+
+ 
+
+2
+8
+
+,
+ 
+
+2
+0
+1
+5
+
+

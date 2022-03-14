@@ -1,0 +1,1513 @@
+International Journal of Food Microbiology 193 (2015) 68–73
+
+Contents lists available at ScienceDirect
+
+International Journal of Food Microbiology
+
+j o u rn a l h o m e p a g e : w ww . e l s e v i e r . c o m/ l o c a t e / i j f o od m i c r o
+
+Molecular analysis of multidrug resistance in Shiga toxin-producing
+Escherichia coli O157:H7 isolated from meat and dairy products
+Ashraf M. Ahmed a, Tadashi Shimamoto b,⁎
+a Department of Bacteriology, Mycology and Immunology, Faculty of Veterinary Medicine, Kafrelsheikh University, Kafr El-Sheikh 33516, Egypt
+b Laboratory of Food Microbiology and Hygiene, Graduate School of Biosphere Science, Hiroshima University, Higashi-Hiroshima 739-8528, Japan
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 11 July 2014
+Received in revised form 7 October 2014
+Accepted 12 October 2014
+Available online 20 October 2014
+
+Keywords:
+O157:H7
+Beef
+Dairy
+Antimicrobial resistance
+Integron
+
+Shiga toxin-producing Escherichia coli (STEC) O157:H7 is an important food-borne pathogen that has been
+implicated in numerous disease outbreaks worldwide. Little is known about the extent and molecular basis of
+antimicrobial resistance in STEC O157:H7 of food origin. Therefore, the current study aimed to characterize the
+genetic basis of multidrug resistance in 54 STEC O157:H7 strains isolated from 1600 food samples (800 meat
+products and 800 dairy products) collected from different street venders, butchers, retail markets, and slaughter-
+houses in Egypt. Thirty-one of 54 (57.4%) isolates showed multidrug resistance phenotypes to at least three clas-
+ses of antimicrobials. The highest incidence of antimicrobial resistance was to kanamycin (96.8%), followed by
+spectinomycin (93.6%), ampicillin (90.3%), streptomycin (87.1%), and tetracycline (80.6%). PCR and DNA se-
+quencing were used to screen and characterize integrons and antibiotic resistance genes, and 29.6% and 5.6%
+of isolates were positive for class 1 and class 2 integrons, respectively. β-Lactamase-encoding genes were identi-
+ﬁed in 63.0% of isolates as follows: blaTEM-1 and blaTEM-52 in 35.2% and 1.9% isolates respectively; blaCMY-2 in 13.0%
+isolates; blaCTX-M in 5.6% isolates; blaSHV-12 in 5.6% isolates; and blaOXA-1 in 1.9% isolate. The plasmid-mediated
+quinolone resistance genes were identiﬁed in 13.0% of isolates as follows: qnrB, qnrS, andaac (6′)-Ib-cr in 5.6%,
+3.7%, and 3.7% isolates, respectively. Finally, the ﬂorfenicol resistance gene ﬂoR was identiﬁed in 7.4% of isolates.
+This study demonstrated that meat and dairy products are potential sources of multidrug resistant STEC O157:
+H7. To our knowledge, this is the ﬁrst report of the occurrence of class 2 integrons, qnrB, qnrS, andaac (6′)-Ib-cr
+in STEC O157:H7.
+
+© 2014 Published by Elsevier B.V.
+
+1. Introduction
+
+Shiga toxin-producing Escherichia coli (STEC) is a group of E. coli that
+is deﬁned by the ability to produce toxins called Shiga toxins (Stx)
+(Farrokh et al., 2013). Among the different STEC serogroups, O157:H7
+is most frequently associated with food-borne outbreaks in North
+America, Japan, and parts of Europe (Farrokh et al., 2013). STEC O157:
+H7 causes food-borne illness, with symptoms ranging from mild diar-
+rhea to life-threatening hemolytic-uremic syndrome (Karch et al.,
+2005). Foods associated with outbreaks of STEC include undercooked
+ground beef, fresh produce, unpasteurized juices, salami, cheese and
+raw (unpasteurized) milk (FDA, 2012).
+
+Antimicrobial resistance is a global public health problem, and grow-
+ing scientiﬁc evidence indicates that it is negatively impacted by both
+human and animal antimicrobial usages (Guardabassi et al., 2008).
+Therapeutic failures due to antimicrobial resistance increase morbidity
+and mortality rates, with serious impact at individual, social and eco-
+nomical levels. Furthermore, antimicrobial resistance limits the selec-
+tion of therapeutic agents and increases the potential for treatment
+
+⁎ Corresponding author. Tel./fax: +81 82 424 7897.
+
+E-mail address: tadashis@hiroshima-u.ac.jp (T. Shimamoto).
+
+http://dx.doi.org/10.1016/j.ijfoodmicro.2014.10.014
+0168-1605/© 2014 Published by Elsevier B.V.
+
+failures and adverse clinical complications (da Costa et al., 2013). Retail
+foods, especially meat and meat products, may be an important vehicle
+for community-wide dissemination of antimicrobial resistant E. coli and
+extraintestinal pathogenic E. coli (Johnson et al., 2005).
+
+Although antimicrobial therapy is not the primary tool for treating
+infections caused by STEC O157:H7, multidrug-resistant (MDR) STEC
+O157:H7 is a public health issue as those strains participate to a
+reservoir of resistance genes that could be easily exchanged between
+Enterobacteriaceae in the host and in the environment. Many bacteria
+in the human gut that possess several antimicrobial resistance genes
+could be laterally transferred in the gut to potentially pathogenic
+bacteria (Rolain, 2013). Several studies have been conducted world-
+wide to characterize the molecular basis of antimicrobial resistance in
+clinical STEC O157:H7 isolates of human origin (Ahmed et al., 2005;
+Cergole-Novella et al., 2011; Morabito et al., 2002; Torpdahl et al.,
+2014; Van Meervenne et al., 2013), but little is currently known about
+the molecular basis of multidrug resistance in STEC O157:H7 isolates
+of food origin (Zhao et al., 2001). Therefore, the purpose of this study
+was to characterize MDR STEC O157:H7 strains isolated from retail
+meat and dairy products collected in a large-scale survey in Egypt by
+molecular screening for a wide range of antimicrobial resistance genes
+and integrons.
+
+A.M. Ahmed, T. Shimamoto / International Journal of Food Microbiology 193 (2015) 68–73
+
+69
+
+2. Materials and methods
+
+2.1. Bacterial isolates
+
+Fifty-four STEC O157:H7 isolates (21 from beef, 4 from chicken, 20
+from milk and 9 from cheese) were used in this study. All isolates
+were positive for stx1 and/or stx2 Shiga toxin virulence genes. They
+were isolated in Egypt from 800 meat products (480 beef and 320
+chickens) and 800 dairy products (480 milk, 240 cheeses and 80
+yogurts) as previously described (Ahmed and Shimamoto, 2014).
+
+2.2. Antimicrobial susceptibility testing
+
+The antimicrobial sensitivity phenotypes of bacterial isolates
+were determined using a Kirby-Bauer disk diffusion assay according
+to the standards and interpretive criteria described by Clinical and
+Laboratory Standards Institute (CLSI, 2011). The following antibi-
+otics were used: ampicillin (AMP), 10 μg; amoxicillin-clavulanic
+acid (AMC), 20/10 μg; cefoxitin (FOX), 30 μg; cefotetan (CTT),
+30 μg; cefotaxime (CTX), 30 μg; cefpodoxime (CPD), 10 μg; ceftriax-
+one (CRO), 30 μg; aztreonam (ATM), 30 μg; nalidixic acid (NAL),
+30 μg; ciproﬂoxacin (CIP), 5 μg; chloramphenicol (CHL), 30 μg;
+gentamicin (GEN), 10 μg; kanamycin (KAN), 30 μg; oxacillin (OXA),
+30 μg; streptomycin (STR), 10 μg; spectinomycin (SPX), 10 μg; sulfa-
+methoxazole/trimethoprim (SXT), 23.75/1.25 μg, and tetracycline
+(TET), 30 μg. The disks were purchased from Oxoid (Basingstoke,
+UK) and the results were recorded based on CLSI guidelines (CLSI,
+
+2011). The reference strain E. coli ATCC 25922 was included as a
+quality control.
+
+2.3. Bacterial DNA preparation
+
+DNA was prepared using boiled lysates, as previously described
+(Ahmed et al., 2013). All MDR STEC O157:H7 isolates (resistance to at
+least three classes of antimicrobials) were subcultured in Luria-Bertani
+broth medium. An overnight bacterial culture (200 μl) was mixed
+with 800 μl of distilled water and boiled for 10 min. The resulting
+solution was centrifuged, and the supernatant used as a DNA template.
+DNA was stored at −20 °C until used.
+
+2.4. PCR screening for integrons and antimicrobial resistance genes
+
+Conserved primers were used to detect and identify class 1 and
+class 2 integrons, as previously described (Ahmed et al., 2013).
+PCR screening for TEM, SHV, CTX-M, OXA, and CMY β-lactamase-
+encoding genes was performed using universal primers for the
+TEM, SHV, OXA, CTX-M, and CMY families (Ahmed et al., 2013).
+Other universal ﬂanking gene primers were used for identiﬁcation
+of the whole β-lactamase-encoding genes (except for TEM as the
+universal primers used for TEM family are already located in the
+ﬂanking regions of the gene) as described previously (Ahmed et al.,
+2007). Furthermore, PCR ampliﬁcation was used to screen for
+plasmid-mediated quinolone resistance genes, qnrA, qnrB, qnrS, and
+aac(6′)-Ib-cr, as described previously (Ahmed et al., 2013). Finally,
+the ﬂorfenicol resistance gene, ﬂoR, was detected using primers
+
+Table 1
+Primers used for PCR and DNA sequencing.
+
+Primer
+
+Sequence (5′ to 3′)
+
+Target
+
+Reference/GenBank accession no.
+
+Integron/resistance genes
+Integrons
+
+5′-CS
+3′-CS
+hep74
+hep51
+
+β-Lactamases
+
+TEM-F
+TEM-R
+SHV-F
+SHV-R
+SHV-F-2
+SHV-R-2
+OXA-F
+OXA-R
+OXA-F-2
+OXA-R-2
+CTX-M-F
+CTX-M-R
+CTX-M-F-2
+CTX-M-R-2
+CMY-F
+CMY-R
+CMY-F2
+CMY-R2
+Florfenicol
+StCM-L
+StCM-R
+
+GGCATCCAAGCAGCAAG
+AAGCAGACTTGACCTGA
+CGGGATCCCGGACGGCATGCACGATTTGTA
+GATGCCATCGCAAGTACGAG
+
+ATAAAATTCTTGAAGACGAAA
+GACAGTTACCAATGCTTAATC
+TT ATCTCCCTGTTAGCCACC
+GATTTGCTGATTTCGCTCGG
+CGGCCTTCACTCAAGGATGTA
+GTGCTGCGGGCCGGATAAC
+TCAACTTTCAAGATCGCA
+GTGTGTTTAGAATGGTGA
+ATTAAGCCCTTTACCAAACCA
+AAGGGTTGGGCGATTTTGCCA
+CGCTTTGCGATGTGCAG
+ACCGCGATATCGTTGGT
+CCAGAATAAGGAATCCCATG
+GCCGTCTAAGGCGATAAAC
+GACAGCCTCTTTCTCCACA
+TGGAACGAAGGCTACGTA
+ACGGAACTGATTTCATGATG
+GAAAGGAGGCCCAATATCCT
+
+CACGTTGAGCCTCTATATGG
+ATGCAGAAGTAGAACGCGAC
+
+Plasmid-mediated quiniolone
+
+qnrA-F
+qnrA-R
+qnrB-F
+qnrB-R
+qnrS-F
+qnrS-R
+aac(6′)-Ib-F
+aac(6′)-Ib-R
+
+ATTTCTCACGCCAGGATTTG
+GATCGGCAAAGGTTAGGTCA
+GATCGTGAAAGCCAGAAAGG ACGATGCCTGGTAGTTGTCC
+
+ACGACATTCGTCAACTGCAA TAAATTGGCACCCTGTAGGC
+
+TTGCGATGCTCTATGAGTGGCTA
+CTCGAATGCCTGGCGTGTTT
+
+Class 1 integron
+
+Ahmed et al. (2013)
+
+Class 2 integron
+
+Ahmed et al. (2013)
+
+blaTEM
+
+blaSHV
+
+Ahmed et al. (2013)
+
+Ahmed et al. (2013)
+
+whole blaSHV
+
+Ahmed et al. (2007)
+
+blaOXA
+
+Ahmed et al. (2013)
+
+whole blaOXA
+
+J02967
+
+blaCTX-M
+
+Ahmed et al. (2013)
+
+whole blaCTX-M
+
+Ahmed et al. (2007)
+
+blaCMY
+
+Ahmed et al. (2013)
+
+whole blaCMY
+
+Ahmed et al. (2007)
+
+ﬂoR
+
+qnrA
+
+qnrB
+
+qnrS
+
+Ahmed et al. (2013)
+
+Ahmed et al. (2013)
+
+Ahmed et al. (2013)
+
+Ahmed et al. (2013)
+
+aac(6′)-Ib-cr
+
+Ahmed et al. (2013)
+
+70
+
+A.M. Ahmed, T. Shimamoto / International Journal of Food Microbiology 193 (2015) 68–73
+
+e
+n
+o
+l
+o
+n
+u
+q
+
+i
+
+e
+n
+o
+l
+o
+n
+u
+q
+
+i
+
+e
+n
+o
+l
+o
+n
+u
+q
+
+i
+
+R
+o
+ﬂ
+
+d
+e
+t
+a
+i
+d
+e
+m
+-
+d
+m
+s
+a
+l
+P
+
+i
+
+s
+e
+s
+a
+m
+a
+t
+c
+a
+L
+-
+β
+
+2
+s
+s
+a
+l
+C
+
+1
+s
+s
+a
+l
+C
+
+R
+o
+ﬂ
+
+d
+e
+t
+a
+i
+d
+e
+m
+-
+d
+m
+s
+a
+l
+P
+
+i
+
+s
+e
+s
+a
+m
+a
+t
+c
+a
+L
+-
+β
+
+2
+s
+s
+a
+l
+C
+
+1
+s
+s
+a
+l
+C
+
+R
+o
+ﬂ
+
+d
+e
+t
+a
+i
+d
+e
+m
+-
+d
+m
+s
+a
+l
+P
+
+i
+
+s
+e
+s
+a
+m
+a
+t
+c
+a
+L
+-
+β
+
+2
+s
+s
+a
+l
+C
+
+1
+s
+s
+a
+l
+C
+
+s
+e
+n
+e
+g
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+
+l
+a
+i
+b
+o
+r
+c
+i
+m
+
+i
+t
+n
+A
+
+s
+n
+o
+r
+g
+e
+t
+n
+I
+
+s
+e
+n
+e
+g
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+
+l
+a
+i
+b
+o
+r
+c
+i
+m
+
+i
+t
+n
+A
+
+s
+n
+o
+r
+g
+e
+t
+n
+
+I
+
+s
+e
+n
+e
+g
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+
+l
+a
+i
+b
+o
+r
+c
+i
+m
+
+i
+t
+n
+A
+
+s
+n
+o
+r
+g
+e
+t
+n
+
+I
+
+)
+%
+0
+0
+1
+(
+
+)
+4
+5
+=
+n
+(
+
+l
+a
+t
+o
+T
+
+)
+%
+0
+0
+1
+(
+
+)
+9
+2
+=
+n
+(
+
+s
+t
+c
+u
+d
+o
+r
+p
+y
+r
+i
+a
+D
+
+)
+%
+0
+0
+1
+(
+
+)
+5
+2
+=
+n
+(
+
+s
+t
+c
+u
+d
+o
+r
+p
+t
+a
+e
+M
+
+.
+
+)
+0
+4
+7
+(
+4
+
+.
+
+)
+3
+9
+(
+5
+
+.
+
+)
+0
+3
+6
+(
+4
+3
+
+.
+
+)
+6
+5
+(
+3
+
+.
+
+)
+6
+9
+2
+(
+6
+1
+
+.
+
+)
+9
+6
+(
+2
+
+.
+
+)
+8
+3
+1
+(
+4
+
+.
+
+)
+5
+5
+6
+(
+9
+1
+
+.
+
+)
+9
+6
+(
+2
+
+.
+
+)
+0
+1
+3
+(
+9
+
+.
+
+)
+0
+8
+(
+2
+
+.
+
+)
+0
+2
+1
+(
+3
+
+.
+
+)
+0
+0
+6
+(
+5
+1
+
+.
+
+)
+0
+4
+(
+1
+
+.
+
+)
+0
+8
+2
+(
+7
+
+7
+H
+:
+7
+5
+1
+O
+
+i
+l
+o
+c
+
+.
+
+E
+
+StCM-L and StCM-R, as described previously (Ahmed et al., 2013).
+The PCR products were subjected to electrophoresis in a 1.0% agarose
+gel, stained with ethidium bromide, and visualized under UV light.
+PCR fragments were then puriﬁed from the agarose gel using a
+QIAquick Gel Extraction Kit (Qiagen, Japan). Both DNA strands of
+the PCR product were sequenced using an ABI automatic DNA se-
+quencer (Model 373; Perkin-Elmer). Of note, all above mentioned
+experiments were carried out on only MDR STEC O157:H7 isolates
+and primers are compiled in Table 1.
+
+2.5. Computer analysis of the sequence data
+
+A similarity search was carried out using the BLAST program,
+available at the NCBI BLAST homepage (http://blast.ncbi.nlm.nih.
+gov/Blast.cgi).
+
+3. Results
+
+3.1. Incidence of MDR STEC O157:H7 in meat and dairy products
+
+Thirty-one out of 54 (57.4%) STEC O157:H7 isolates showed multi-
+drug resistance phenotypes (i.e. resistance to at least three classes of
+antimicrobials). The incidence of MDR STEC O157:H7 was 56.0% in
+meat products and 58.6% in dairy products. The most widespread resis-
+tance in MDR STEC O157:H7 was to kanamycin (96.8% of isolates),
+followed by spectinomycin (93.6%), ampicillin (90.3%), streptomycin
+(87.1%), and tetracycline (80.6%).
+
+3.2. Incidence of class 1 and class 2 integrons in STEC O157:H7 from meat
+and dairy products
+
+PCR identiﬁed class 1 integrons in 16 (29.6%) STEC O157:H7 isolates
+(Table 2). The incidence of class 1 integrons was 28.0% in meat products
+and 31.0% in dairy products (Table 2). DNA sequencing results of the
+inserted gene cassettes identiﬁed six types of class 1 integron, with
+eight different antimicrobial resistance gene cassettes (Table 3). The
+identiﬁed antimicrobial resistance genes were: dihydrofolate reductase
+types (dfrA1 and dfrA17), which confer resistance to trimethoprim; ami-
+noglycoside adenyltransferase types (aadA1, aadA2, aadA5, aadA7, and
+aadA23), which confer resistance to streptomycin and spectinomycin;
+and aminoglycoside acetyltransferase (aac(3)-Id), which confers resis-
+tance to gentamicin, sisomicin, and fortimicin (Table 3). In contrast,
+PCR identiﬁed only three (5.6%) STEC O157:H7 isolates containing
+class 2 integrons (Table 2). The incidence of class 2 integrons was 4.0%
+in meat products and 6.9% in dairy product (Table 2). DNA sequencing
+results for the inserted gene cassettes identiﬁed two types of class 2
+integron (Table 3): the classical type, containing the three conserved re-
+sistance gene cassettes of class 2 integrons, dfrA1, sat2, and aadA1, which
+confer resistance to trimethoprim, streptothricin, and streptomycin/
+spectinomycin, respectively; and the short type of class 2 integron,
+containing only two gene cassettes, dfrA1 and sat2 (Table 3).
+
+3.3. Incidence of β-lactamase-encoding genes in STEC O157:H7 from meat
+and dairy products
+
+PCR identiﬁed β-lactamase-encoding genes in 34 (63.0%) STEC
+O157:H7 isolates (Table 2). The incidence of β-lactamase-encoding
+genes was 60.0% in meat products and 65.5% in dairy products
+(Table 2). DNA sequencing identiﬁed the following β-lactamase-
+encoding genes: narrow spectrum β-lactamase-encoding genes,
+blaTEM-1 and blaOXA-1 in 19 (35.2%) isolates and one (1.9%) isolate
+respectively; the extended-spectrum β-lactamase-encoding genes,
+blaCTX-M in three (5.6%) isolates (two blaCTX-M-3 and one blaCTX-M-15),
+blaSHV-12 in three (5.6%) isolates, and blaTEM-52 in one (1.9%) isolate;
+and AmpC β-lactamase-encoding gene, blaCMY-2, in seven (13.0%)
+isolates (Table 2).
+
+.
+s
+t
+c
+u
+d
+o
+r
+p
+y
+r
+i
+a
+d
+d
+n
+a
+t
+a
+e
+m
+m
+o
+r
+f
+d
+e
+t
+a
+l
+o
+s
+i
+7
+H
+:
+7
+5
+1
+O
+
+i
+l
+o
+c
+
+.
+
+E
+C
+E
+T
+S
+n
+
+i
+
+s
+e
+n
+e
+g
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+d
+n
+a
+
+s
+n
+o
+r
+g
+e
+t
+n
+
+i
+
+f
+o
+e
+c
+n
+e
+d
+i
+c
+n
+I
+
+2
+e
+l
+b
+a
+T
+
+A.M. Ahmed, T. Shimamoto / International Journal of Food Microbiology 193 (2015) 68–73
+
+71
+
+3.4. Incidence of plasmid-mediated quinolone resistance genes in STEC
+O157:H7 from meat and dairy products
+
+Multiplex PCR screening identiﬁed plasmid-mediated quinolone
+resistance genes in seven (13.0%) STEC O157:H7 isolates (Table 2).
+The incidence of plasmid-mediated quinolone resistance genes was
+12.0% in meat products and 13.8% in dairy products (Table 2). DNA
+sequencing identiﬁed the plasmid-mediated quinolone resistance
+genes qnrB, qnrS, and aac(6′)-Ib-cr in three (5.6%), two (3.7%), and
+two (3.7%) isolates, respectively (Table 3).
+
+3.5. Incidence of the ﬂorfenicol resistance gene, ﬂoR, in STEC O157:H7 from
+meat and dairy products
+
+PCR and DNA sequence analysis identiﬁed ﬂoR in four (7.4%) STEC
+O157:H7 isolates (two isolates from meat products (8.0%) and two
+isolates (6.9%) from dairy products) (Table 2).
+
+4. Discussion
+
+Integrons are gene-capture systems that play a fundamental role in
+dissemination of antimicrobial resistance genes, especially in Gram-
+negative bacteria (Rowe-Magnus and Mazel, 2002). In this study, class
+1 and class 2 integrons with different antibiotic resistance gene cas-
+settes were detected in STEC O157:H7 isolates from meat products.
+Our results showed a higher incidence of integrons than was previously
+reported in Japan, where 11.6% of the E. coli isolates recovered from re-
+tail chicken meat were positive for class 1 integrons, and 1.4% were pos-
+itive for class 2 integrons (Ahmed et al., 2009). In the USA, Zhao et al.
+found that 18% of STEC (including O157:H7) isolated from cattle were
+
+positive for class 1 integrons (Zhao et al., 2001). In Norway, class 2
+integrons were identiﬁed in 9.4% of E. coli isolated from meat and
+meat products (Sunde, 2005). Class 1 and class 2 integrons were also
+detected in STEC O157:H7 isolates, from dairy products in this study.
+In Egypt, class 1 and class 2 integrons have been reported in E. coli iso-
+lated from milk samples collected from bovine mastitis cases with
+2.7% and 0.9%, respectively (Ahmed and Shimamoto, 2011). In USA,
+class 1 integrons were found in eight of 10 E. coli isolates (including
+one STEC O157:H7 from dairy farms and seven non-Stx-producing
+E. coli from dairy/bovine mastitis) (Murinda et al., 2005).
+
+Production of β-lactamases is considered the main mechanism of re-
+sistance against penicillin-derivative antibiotics (β-lactams) in Gram-
+negative bacteria (Bradford, 2001). Extended-spectrum cephalosporins
+(ESCs) are an important class of drugs used in human and veterinary
+medicine. Resistance to ESCs in STEC O157:H7 is usually mediated by
+the production of AmpC β-lactamases, commonly encoded by blaCMY-2
+genes (Folster et al., 2014). In this study, various types of narrow- and
+extended-spectrum β-lactamase-encoding genes were identiﬁed (includ-
+ing blaTEM-1, blaOXA-1, blaCTX-M-3, blaCTX-M-15, blaSHV-12, and blaTEM-52), in
+addition to AmpC β-lactamase-encoding gene, blaCMY-2. Our results
+are similar to those of a previous report from Canada, in which blaTEM,
+blaCMY, and blaSHV were found in 56%, 12%, and 4%, respectively, of
+ampicillin-resistant E. coli isolates recovered from a commercial beef
+processing plant (Aslam et al., 2009). However, the incidence of β-
+lactamase genes in isolates from our study is higher than in a recent re-
+port from Iran, in which 14.7% and 2.9% of STEC strains isolated from
+the external surfaces of chicken carcasses carried the blaTEM and blaSHV
+genes, respectively (Bagheri et al., 2014). In Japan, blaTEM-1 and blaCMY-2
+were identiﬁed in 17.3% and 23.2% of E. coli isolates, respectively, from
+retail chicken meat (Ahmed et al., 2009). The presence of blaCMY-2 in
+meat products has great public health signiﬁcance, as blaCMY-2 identiﬁed
+
+Table 3
+Resistance phenotype and incidence of integrons and resistance genes in STEC E. coli O157:H7 isolated from meat and dairy products.
+
+No.
+
+Isolate
+
+Food product Resistance phenotype
+
+Integrons/resistance genes
+
+1
+
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+16
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+
+O157-M1
+
+Beef
+
+Chicken
+O157-M2
+Beef
+O157-M3
+Beef
+O157-M4
+Beef
+O157-M5
+Beef
+O157-M6
+Beef
+O157-M7
+Beef
+O157-M8
+O157-M9
+Beef
+O157-M10 Beef
+O157-M11 Beef
+O157-M12 Beef
+O157-M13 Beef
+O157-M14 Chicken
+O157-D1
+
+Milk
+
+AMC, AMP, ATM, CHL, CIP, CPD, CRO, CTT, CTX, FOX, GEN, KAN, NAL, OXA, SPX, STR, SXT, TET Class 1 (dfrA1-aadA1), blaTEM-1, qnrB,
+
+AMC, AMP, ATM, CHL, CIP, CPD, CRO, CTT, CTX, FOX, KAN, NAL, OXA, SPX, STR, SXT, TET
+AMP, ATM, CHL, CPD, CRO, CTT, CTX, FOX, GEN, KAN, NAL, OXA, SPX, STR, SXT, TET
+AMC, AMP, ATM, CHL, CIP, CPD, CRO, CTT, CTX, GEN, KAN, NAL, OXA, SPX, STR, SXT, TET
+AMP, CHL, CIP, KAN, NAL, OXA, SPX, STR, SXT, TET
+AMP, ATM, CHL, CTT, FOX, KAN, NAL, OXA, SPX, STR, SXT, TET
+AMP, CHL, KAN, NAL, OXA, SPX, STR, SXT, TET
+AMP, CHL, KAN, NAL, OXA, SPX, STR, SXT, TET
+AMP, ATM, CHL, CTT, CTX, FOX, KAN, NAL, OXA, SPX, STR, SXT
+AMP, CHL, FOX, KAN, SPX, STR, SXT, TET
+AMP, KAN, NAL, SPX, STR, SXT
+AMP, KAN, SPX, STR
+GEN, KAN, SPX, TET
+CIP, GEN, KAN, NAL, TET
+AMC, AMP, ATM, CHL, CTT, CIP, CPD, CRO, CTX, FOX, GEN, KAN, NAL, OXA, SPX, STR, SXT, TET Class 1 (dfrA1-aadA1), blaTEM-1, qnrB, ﬂoR
+
+blaCMY-2, blaCTX-M-3, ﬂoR
+Class 1 (dfrA1-aadA1), blaTEM-1, blaCTX-M-15
+Class 1 (dfrA1-aadA1), blaCMY-2
+Class 1 (dfrA12-orf-aadA2), blaTEM-1, blaSHV-12
+Class 1 (dfrA12-orf-aadA2), qnrS
+Class 1 (dfrA17-aadA5), blaTEM-1
+Class 1 (aadA1), blaTEM-1
+Class 2 (dfrA1-sat2-aadA1), blaTEM-1
+blaCMY-2
+blaTEM-1
+blaTEM-1
+blaTEM-1
+ﬂoR
+qnrB
+
+blaCMY-2, blaCTX-M-3
+
+O157-D2
+
+Cheese
+
+AMC, AMP, ATM, CHL, CIP, CTT, CPD, CRO, CTX, FOX, GEN, KAN, NAL, OXA, SPX, STR, SXT, TET Class 1 (dfrA1-aadA1), blaTEM-1, qnrB,
+
+Milk
+O157-D3
+Milk
+O157-D4
+Milk
+O157-D5
+Milk
+O157-D6
+Cheese
+O157-D7
+Milk
+O157-D8
+O157-D9
+Milk
+O157-D10 Milk
+O157-D11 Milk
+O157-D12 Milk
+O157-D13
+O157-D14 Milk
+O157-D15 Milk
+O157-D16
+O157-D17
+
+Cheese
+Cheese
+
+Cheese
+
+AMC, AMP, ATM, CHL, CIP, CTT, CPD, CRO, CTX, FOX, KAN, NAL, OXA, SPX, STR, SXT, TET
+AMP, CHL, CIP, GEN, KAN, NAL, OXA, SPX, STR, SXT, TET
+AMC, AMP, ATM, CHL, CTT, CPD, CRO, CTX, FOX, KAN, NAL, OXA, SPX, STR, SXT, TET
+AMP, CHL, CIP, CTX, GEN, KAN, NAL, OXA, SPX, STR, SXT, TET
+AMC, AMP, ATM, CHL, CPD, CRO, CTT, CTX, FOX, GEN, KAN, NAL, OXA, SPX, STR, SXT, TET
+AMC, AMP, ATM, CHL, CTT, FOX, GEN, KAN, NAL, OXA, SPX, STR, SXT, TET
+AMC, AMP, ATM, CHL, CTT, CPD, CRO, CTX, FOX, KAN, NAL, OXA, SPX, STR, SXT, TET
+AMP, CHL, CTT, FOX, KAN, NAL, OXA, SPX, STR, SXT, TET
+AMP, CHL, KAN, NAL, OXA, SPX, STR, SXT, TET
+AMP, CHL, KAN, NAL, SPX, STR, SXT, TET
+AMP, CHL, KAN, SPX, STR, SXT
+AMP, KAN, SPX, TET
+AMP, ATM, CTT, FOX, KAN, OXA, SPX, STR
+AMP, ATM, CTT, FOX, GEN, KAN, OXA, SPX
+CIP, GEN, NAL, TET
+
+blaCTX-M-15, aac(6′)-Ib-cr
+Class 1 (dfrA12-orf-aadA2), blaTEM-1, blaSHV-12
+Class 1 (dfrA12-orf-aadA2), aac(6′)-Ib-cr, ﬂoR
+Class 1 (dfrA17-aadA5), blaTEM-1, blaCMY-2
+Class 1 (aac(3)-Id-aadA7), blaTEM-1
+Class 1 (aadA23), blaTEM-52
+Class 1 (aadA1), blaCMY-2
+Class 1 (dfrA1-orf), blaSHV-12
+Class 2 (dfrA1-sat2-aadA1), blaTEM-1
+Class 2 (dfrA1-sat2), blaTEM-1
+blaTEM-1
+blaTEM-1
+blaTEM-1
+blaOXA-1
+blaCMY-2
+qnrS
+
+72
+
+A.M. Ahmed, T. Shimamoto / International Journal of Food Microbiology 193 (2015) 68–73
+
+in E. coli from broiler meat in Europe has recently also been identiﬁed
+in clinical isolates from Swedish patients (Börjesson et al., 2013b).
+Regarding the types of blaCTX-M gene, previously, British and Swiss studies
+reported blaCTX-M-15 in E. coli isolates from animal meats (Geser et al.,
+2012). In Spain, blaSHV-12 is the most frequent extended-spectrum
+β-lactamase (ESBL) carried by E. coli isolates from raw poultry meat
+(Egea et al., 2012). More recently, it was found that 44% of Swedish chick-
+en meat samples were contaminated with extended-spectrum or trans-
+ferable AmpC β-lactamase-producing E. coli strains (Börjesson et al.,
+2013a). β-Lactamase-encoding genes were also detected in STEC O157:
+H7 isolates from dairy products in this study. These genes included
+blaTEM-1, blaTEM-52, blaCMY-2, blaCTX-M-15, blaSHV-12, and blaOXA-1. In
+Egypt, blaTEM-1 was identiﬁed in E. coli isolated from milk samples
+collected from bovine mastitis cases (Ahmed and Shimamoto, 2011). In
+Switzerland, only one E. coli isolate from mastitis milk samples contained
+blaCTX-M-14 and blaTEM-1, while all bulk tank milk samples were negative
+for β-lactamases (Geser et al., 2012). More recently, E. coli isolates con-
+taining blaCTX-M-1 and blaCMY-2 were identiﬁed from dairy and beef cattle
+farms in Germany (Schmid et al., 2013). blaTEM-52 gene, encoding an
+extended-spectrum β-lactamase (ESBL), was ﬁrst described in clinical
+isolate of Klebsiella pneumoniae isolated from the culture of a stool patient
+in 1998 in France (Poyart et al., 1998) and recently it also spread among
+E. coli isolated from cattle in France (Haenni et al., 2012).
+
+Fluoroquinolones are broad-spectrum antimicrobials used in
+medicine and veterinary practice to treat infectious diseases caused by
+enteric bacteria. In this study, the plasmid-mediated quinolone resis-
+tance genes qnrB and qnrS were identiﬁed in 12.0% of tested STEC
+O157:H7 isolates from meat products. Recently, qnrS and aac(6)-Ib-cr
+were identiﬁed in E. coli isolates from retail chicken and ground pork
+in China (Xu et al., 2014). Furthermore, qnrB, qnrS, and aac(6)-Ib-cr
+were identiﬁed in 13.8% of STEC O157:H7 isolates from dairy products.
+In Egypt, qnrA, qnrB, qnrS, and aac(6)-Ib-cr were identiﬁed in 14.3% of
+Gram-negative bacteria isolated from bovine mastitis cases (Ahmed
+and Shimamoto, 2011). To the best of our knowledge, this is the ﬁrst re-
+port of the detection and identiﬁcation of plasmid-mediated quinolone
+resistance genes in STEC O157:H7.
+
+The resistance to ﬂorfenicol, a closely related drug to chloram-
+phenicol, is mediated by ﬂoR resistance gene (Bischoff et al., 2002).
+Although ﬂorfenicol is not approved for human use, it is related to
+chloramphenicol, and can select for cross-resistance in bacterial
+pathogens. In this study, ﬂoR was identiﬁed in 8.0% of STEC O157:
+H7 from meat products and from 6.9% of isolates from dairy
+products. In the USA, ﬂoR was present in 43% of chloramphenicol-
+resistant E. coli isolates from retail meats (Zhao et al., 2012). In
+Egypt, ﬂoR was detected in 6.3% of Gram-negative bacteria isolated
+from cases of bovine mastitis (Ahmed and Shimamoto, 2011), and
+recently from avian pathogenic E. coli isolated from septicemic
+broilers (Ahmed et al., 2013). To the best of our knowledge, this is
+the ﬁrst report of the detection and identiﬁcation of ﬂoR in STEC
+O157:H7 isolated from food.
+
+5. Conclusions
+
+This study characterized the molecular basis of multidrug resistance
+in STEC O157:H7 isolated from retail meat and dairy products in Egypt.
+This is the ﬁrst report of the occurrence of class 2 integrons, qnrB, qnrS,
+and aac(6′)-Ib-cr in STEC O157:H7. These data provide useful informa-
+tion to better understand the molecular basis of antimicrobial resistance
+in STEC O157:H7 of food origin. The study also highlights meat and
+dairy products as potential sources of MDR STEC O157:H7 harboring
+different classes of antimicrobial resistance genes and integrons.
+Although antimicrobials are not recommended to treat STEC infections,
+MDR STEC O157:H7 can laterally transfer these antimicrobial resistance
+genes to potentially pathogenic bacteria either in the host or in
+the Environment.
+
+Conﬂict of interest
+
+The authors declare no conﬂicts of interest.
+
+Acknowledgment
+
+This work was supported ﬁnancially by the Science and Technology
+Development Fund (STDF), Ministry of Scientiﬁc Research, Egypt (Grant
+No. 540, to A.M.A.), and by a Grant-in-Aid for Scientiﬁc Research to T.S.
+from the Ministry of Education, Culture, Sports, Science, and Technology
+of Japan (No. 25460532).
+
+References
+
+Ahmed, A.M., Shimamoto, T., 2011. Molecular characterization of antimicrobial resistance
+in Gram-negative bacteria isolated from bovine mastitis in Egypt. Microbiol.
+Immunol. 55, 318–327.
+
+Ahmed, A.M., Shimamoto, T., 2014. Isolation and molecular characterization of Salmonella
+enterica, Escherichia coli O157:H7 and Shigella spp. from meat and dairy products in
+Egypt. Int. J. Food Microbiol. 168–169, 57–62.
+
+Ahmed, A.M., Furuta, K., Kawamoto, H., Inoue, K., Hashiwata, Y., Sakaki, M., Seno, M.,
+Shimamoto, T., 2005. Genomic analysis of a multidrug-resistant strain of
+enterohaemorrhagic Escherichia coli O157:H7 causing a family outbreak in
+Japan. J. Med. Microbiol. 54, 867–872.
+
+Ahmed, A.M., Motoi, Y., Sato, M., Maruyama, A., Watanabe, H., Fukumoto, Y., Shimamoto,
+T., 2007. Zoo animals as reservoirs of gram-negative bacteria harboring integrons and
+antimicrobial resistance genes. Appl. Environ. Microbiol. 73, 6686–6690.
+
+Ahmed, A.M., Shimabukuro, H., Shimamoto, T., 2009. Isolation and molecular characteri-
+zation of multidrug-resistant strains of Escherichia coli and Salmonella from retail
+chicken meat in Japan. J. Food Sci. 74, M405–M410.
+
+Ahmed, A.M., Shimamoto, T., Shimamoto, T., 2013. Molecular characterization of
+multidrug-resistant avian pathogenic Escherichia coli isolated from septicemic
+broilers. Int. J. Med. Microbiol. 303, 475–483.
+
+Aslam, M., Diarra, M., Service, C., Rempel, H., 2009. Antimicrobial resistance genes in
+Escherichia coli isolates recovered from a commercial beef processing plant. J. Food
+Prot. 72, 1089–1093.
+
+Bagheri, M., Ghanbarpour, R., Alizade, H., 2014. Shiga toxin and beta-lactamases genes in
+Escherichia coli phylotypes isolated from carcasses of broiler chickens slaughtered in
+Iran. Int. J. Food Microbiol. 177, 16–20.
+
+Bischoff, K.M., White, D.G., McDermott, P.F., Zhao, S., Gaines, S., Maurer, J.J., 2002. Charac-
+terization of chloramphenicol resistance in beta-hemolytic Escherichia coli associated
+with diarrhea in neonatal swine. J. Clin. Microbiol. 40, 389–394.
+
+Börjesson, S., Egervärn, M., Lindblad, M., Englund, S., 2013a. Frequent occurrence
+of extended-spectrum beta-lactamase- and transferable ampc beta-lactamase-
+producing Escherichia coli on domestic chicken meat in Sweden. Appl. Environ.
+Microbiol. 79, 2463–2466.
+
+Börjesson, S., Jernberg, C., Brolund, A., Edquist, P., Finn, M., Landen, A., 2013b. Characteri-
+zation of plasmid-mediated AmpC-producing E. coli from Swedish broilers and asso-
+ciation with human clinical isolates. Clin. Microbiol. Infect. 19, E309–E311.
+
+Bradford, P.A., 2001. Extended-spectrum β-lactamases in the 21st century: characteriza-
+tion, epidemiology, and detection of this important resistance threat. Clin. Microbiol.
+Rev. 14, 933–951.
+
+Cergole-Novella, M.C., Pignatari, A.C.C., Castanheira, M., Guth, B.E.C., 2011. Molecular typ-
+ing of antimicrobial-resistant Shiga-toxin-producing Escherichia coli strains (STEC) in
+Brazil. Res. Microbiol. 162, 117–123.
+
+CLSI, 2011. Performance standards for antimicrobial susceptibility testing. Twenty-First
+Informational Supplement. Clinical and Laboratory Standards Institute M02-A10
+and M07-A08 vol. 31.
+
+da Costa, P.M., Loureiro, L., Matos, A.J., 2013. Transfer of multidrug-resistant bacteria
+between intermingled ecological niches: the interface between humans, animals
+and the environment. Int. J. Environ. Res. Public Health 10, 278–294.
+
+Egea, P., Lopez-Cerero, L., Torres, E., Gomez-Sanchez, Mdel C., Serrano, L., 2012. Increased
+raw poultry meat colonization by extended-spectrum β-lactamase-producing
+Escherichia coli in the south of Spain. Int. J. Food Microbiol. 159, 69–73.
+
+Farrokh, C., Jordan, K., Auvray, F., Glass, K., Oppegaard, H., Raynaud, S., Thevenot, D.,
+Condron, R., De Reu, K., Govaris, A., Heggum, K., Heyndrickx, M., Hummerjohann, J.,
+Lindsay, D., Miszczycha, S., Moussiegt, S., Verstraete, K., Cerf, O., 2013. Review of
+Shiga-toxin-producing Escherichia coli (STEC) and their signiﬁcance in dairy produc-
+tion. Int. J. Food Microbiol. 162, 190–212.
+
+FDA, 2012. Bad bug book: Foodborne pathogenic microorganisms and natural toxins hand-
+book, US Food and Drug Administration, 2nd ed. Silver Spring, pp. 74–78 (http://www.
+fda.gov/Food/FoodborneIllnessContaminants/CausesOfIllnessBadBugBook/
+ucm2006773.htm. Accessed 24 June 2014).
+
+Folster, J.P., Pecic, G., Stroika, S., Rickert, R., Whichard, J.M., 2014. Changing plasmid types
+responsible for extended-spectrum cephalosporin resistance in Escherichia coli O157:
+H7 in the USA, 1996–2009. J. Glob. Antimicrob. Resist. 2, 87–91.
+
+Geser, N., Stephan, R., Hächer, H., 2012. Occurrence and characteristics of extended-
+spectrum β-lactamases (ESBL) producing Enterobacteriaceae in food producing
+animals, minced meat and raw milk. BMC Vet. Res. 8, 21.
+
+Guardabassi, l., Jensen, L.B., Kruse, H., 2008. Eds. Guide to Antimicrobial Use in Animals.
+
+Blackwell Publishing, Ames, Iowa (223 pp. ISBN 9781-4051-5079–8).
+
+A.M. Ahmed, T. Shimamoto / International Journal of Food Microbiology 193 (2015) 68–73
+
+73
+
+Haenni, M., Saras, E., Métayer, V., Doublet, B., Cloeckaert, A., Madec, J.Y., 2012. Spread of
+the blaTEM-52 gene is mainly ensured by IncI1/ST36 plasmids in Escherichia coli
+isolated from cattle in France. J. Antimicrob. Chemother. dks282.
+
+Johnson, J.R., Kuskowski, M.A., Smith, K., O'Bryan, T.T., Tatini, S., 2005. Antimicrobial-
+resistant and exstraintestinal pathogenic Escherichia coli in retail foods. J. Infect. Dis.
+191, 1040–1049.
+
+Karch, H., Tarr, P.I., Bielaszewska, M., 2005. Enterohaemorrhagic Escherichia coli in human
+
+medicine. Int. J. Med. Microbiol. 295, 405–418.
+
+Morabito, S., Tozzoli, R., Caprioli, A., Karch, H., Carattoli, A., 2002. Detection and character-
+ization of class 1 integrons in enterohemorrhagic Escherichia coli. Microb. Drug Resist.
+8, 85–91.
+
+Murinda, S.E., Ebner, P.D., Nguyen, L.T., Mathew, A.G., Oliver, S.P., 2005. Anitimicrobial
+resistance and class 1 integrons in pathogenic Escherichia coli from dairy farms.
+Foodborne Pathog. Dis. 2, 348–352.
+
+Poyart, C., Mugnier, P., Quesne, G., Berche, P., Trieu-Cuot, P., 1998. A novel extended-
+spectrum TEM-type β-lactamase (TEM-52) associated with decreased susceptibility
+to moxalactam in Klebsiella pneumoniae. Antimicrob. Agents Chemother. 42, 108–113.
+Rolain, J.M., 2013. Food and human gut as reservoirs of transferable antibiotic resistance
+
+encoding genes. Front. Microbiol. 4, 173.
+
+Rowe-Magnus, D.A., Mazel, D., 2002. The role of integrons in antibiotic resistance gene
+
+capture. Int. J. Med. Microbiol. 292, 115–125.
+
+Schmid, A., Hormansdorfer, S., Messelhausser, U., Kasbohrer, A., Sauter-Louis, C., Mansfeld,
+R., 2013. Prevalence of extended-spectrum beta-lactamase-producing Escherichia coli
+on Bavarian dairy and beef cattle farms. Appl. Environ. Microbiol. 79, 3027–3032.
+
+Sunde, M., 2005. Prevalence and characterization of class 1 and class 2 integrons in
+Escherichia coli isolated from meat and meat products of Norwegian origin. J. Antimicrob.
+Chemother. 56, 1019–1024.
+
+Torpdahl, M., Nielsen, E.M., Scheutz, F., Olesen, B., Hansen, D.S., Hasman, H., 2013. Detec-
+tion of a Shiga toxin- and extended-spectrum-β-lactamase-producing Escherichia coli
+O157:H7 human clinical isolate. J. Antimicrob. Chemother. 68, 1203-1204.
+
+Van Meervenne, E., Boon, N., Verstraete, K., Devlieghere, F., De Reu, K., Herman, L., Buvens,
+G., Piérard, D., Van Coillie, E., 2013. Integron characterization and typing of Shiga
+toxin-producing Escherichia coli isolates in Belgium. J. Med. Microbiol. 62, 712–719.
+Xu, X., Cui, S., Zhang, F., Luo, Y., Gu, Y., Yang, B., Li, F., Chen, Q., Zhou, G., Wang, Y., Pang, L.,
+Lin, L., 2014. Prevalence and characterization of cefotaxime and ciproﬂoxacin co-
+resistant Escherichia coli isolates in retail chicken carcasses and ground pork, China.
+Microb. Drug Resist. 20, 73–81.
+
+Zhao, S., White, D.G., Ge, B., Ayers, S., Friedman, S., English, L., Wagner, D., Gaines, S., Meng,
+J., 2001. Identiﬁcation and characterization of integron-mediated antibiotic resistance
+among Shiga toxin-producing Escherichia coli isolates. Appl. Environ. Microbiol. 67,
+1558–1564.
+
+Zhao, S., Blickenstaff, K., Bodeis-Jones, S., Gaines, S., Tong, E., McDermott, P., 2012. Com-
+parison of the prevalences and antimicrobial resistances of Escherichia coli isolates
+from different retail meats in the United States, 2002 to 2008. Appl. Environ.
+Microbiol. 78, 1701–1707.
+
+

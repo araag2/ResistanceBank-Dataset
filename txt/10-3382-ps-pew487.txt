@@ -1,0 +1,1556 @@
+Prevalence, antimicrobial resistance and genetic diversity of Campylobacter
+
+coli and Campylobacter jejuni in Ecuadorian broilers at slaughter age
+
+Christian Vinueza-Burgos,∗,1 Magali Wautier,† Delphine Martiny,‡,§ Marco Cisneros,∗
+
+Inge Van Damme,# and Lieven De Zutter#
+
+∗Facultad de Medicina Veterinaria y Zootecnia. Universidad Central del Ecuador, Quito, Ecuador; †Center for
+Molecular Diagnosis, LHUB-ULB, Brussels, Belgium; ‡National Reference Center for Campylobacter, CHU
+Saint-Pierre, Brussels, Belgium; §Department of Immunology and Microbiology, Universit´e Libre de Bruxelles,
+Brussels, Belgium; and #Department of Veterinary Public Health and Food Safety, Faculty of Veterinary. Ghent
+
+University, Merelbeke, Belgium
+
+ABSTRACT Thermotolerant Campylobacter spp. are
+a major cause of foodborne gastrointestinal infections
+worldwide. The linkage of human campylobacteriosis
+and poultry has been widely described. In this study
+we aimed to investigate the prevalence, antimicrobial
+resistance and genetic diversity of C. coli and C. jejuni
+in broilers from Ecuador. Caecal content from 379 ran-
+domly selected broiler batches originating from 115
+farms were collected from 6 slaughterhouses located in
+the province of Pichincha during 1 year. Microbiological
+isolation was performed by direct plating on mCCDA
+agar. Identification of Campylobacter species was done
+by PCR. Minimum inhibitory concentration (MIC) val-
+ues for gentamicin, ciprofloxacin, nalidixic acid, tetra-
+cycline, streptomycin, and erythromycin were obtained.
+Genetic variation was assessed by RFLP-flaA typing
+and Multilocus Sequence Typing (MLST) of selected
+isolates. Prevalence at batch level was 64.1%. Of the
+
+positive batches 68.7% were positive for C. coli, 18.9%
+for C. jejuni, and 12.4% for C. coli and C. jejuni. Re-
+sistance rates above 67% were shown for tetracycline,
+ciprofloxacin, and nalidixic acid. The resistance pat-
+tern tetracycline, ciprofloxin, and nalidixic acid was the
+dominant one in both Campylobacter species. RFLP-
+flaA typing analysis showed that C. coli and C. jejuni
+strains belonged to 38 and 26 profiles respectively. On
+the other hand MLST typing revealed that C. coli ex-
+cept one strain belonged to CC-828, while C. jejuni
+except 2 strains belonged to 12 assigned clonal com-
+plexes (CCs). Furthermore 4 new sequence types (STs)
+for both species were described, whereby 2 new STs
+for C. coli were based on new allele sequences. Fur-
+ther research is necessary to estimate the impact of the
+slaughter of Campylobacter positive broiler batches on
+the contamination level of carcasses in slaughterhouses
+and at retail in Ecuador.
+
+Key words: Campylobacter, Ecuador, genetic types, antimicrobial resistance, broilers
+
+INTRODUCTION
+
+Thermotolerant Campylobacter spp. are a major
+cause of foodborne gastrointestinal infections world-
+wide. Human campylobacteriosis in its acute phase is
+characterized by diarrhea, fever, abdominal cramps,
+and vomiting and has been linked to the develop-
+ment of Guillain-Barr´e syndrome, reactive arthritis,
+
+C(cid:2) The Author 2017. Published by Oxford University Press on be-
+half of Poultry Science Association. This is an Open Access arti-
+cle distributed under the terms of the Creative Commons Attribu-
+tion Non-Commercial License (http://creativecommons.org/licenses/
+by-nc/4.0/), which permits non-commercial
+re-use, distribution,
+and reproduction in any medium, provided the original work
+is properly cited. For commercial
+jour-
+nals.permissions@oup.com.
+
+re-use, please contact
+
+Received October 11, 2016.
+Accepted December 20, 2016.
+1Corresponding author: cvinueza@uce.edu.ec
+
+2017 Poultry Science 0:1–9
+http://dx.doi.org/10.3382/ps/pew487
+
+and irritable bowel syndrome as complications after
+the acute phase of the disease (Loshaj-Shala et al.,
+2015). The WHO (2015) estimated that Campylobac-
+ter caused 37.600 deaths per year worldwide. For 2014,
+237,642 campylobacteriosis cases were registered in the
+European Union (EFSA and ECDC, 2015). However
+it has been estimated that the real number of cases
+occurring yearly may be 9 million (Havelaar et al.,
+2009). Diarrheal illness caused by these pathogens are
+especially important in developing countries where the
+infection in children under the age of two years is fre-
+quent and may lead to death (WHO, 2011). Campy-
+lobacter has been associated to 11.3 to 21% of diarrhea
+episodes in children from low-income countries (Platts-
+Mills and Kosek, 2014). However, the lack of studies on
+the epidemiology of Campylobacter in developing coun-
+tries could lead to the underestimation of the burden of
+Campylobacter infections in these regions (Platts-Mills
+
+1
+
+2
+
+VINUEZA-BURGOS ET AL.
+
+and Kosek, 2014). In Ecuador data about Campylobac-
+ter infections in humans is very limited. Campylobacter
+has been reported in Ecuadorian low income communi-
+ties as a possible cause of diarrhea in humans (Vasco et
+al., 2014). Furthermore, it has been estimated that 50
+to 80% of campylobacteriosis cases may be attributed
+to the chicken reservoir as a whole being poultry the
+main source of Campylobacter transmission within the
+European Union (Skarp et al., 2015).
+
+In general, Campylobacter infections do not require
+antibiotic treatment, however the use of erythromycin,
+tetracycline, and quinolones is recommended in severe
+cases (WHO, 2011).
+
+Worldwide the use of antibiotics in husbandry prac-
+tices is a major concern since this may promote the
+development of resistant and even multidrug-resistant
+bacteria. Antibiotics in poultry production systems are
+widely used to prevent, control, and treat bacterial in-
+fections as well as growth promoters in a large number
+of countries (Seiffert et al., 2013). These facts are of
+special relevance in developing countries where misuse
+of antibiotics and the lack of control over their usage is
+a problem to be addressed (Reardon, 2014). In Latin-
+American countries, increased rates of antimicrobial re-
+sistant Campylobacter have been reported (Pollett et
+al., 2012; Sierra–Arguello et al., 2016).
+
+In Ecuador chicken meat is frequently consumed and
+its demand increased over the years (CONAVE, 2014).
+Although Ecuadorian poultry industry only provides
+chicken meat for local consumption up to now, it is
+expected that in the future it can have access to in-
+ternational markets once sanitary conditions are better
+understood and controlled. Despite of the importance of
+Campylobacter as a foodborne pathogen, little is known
+about its epidemiology in poultry farms, slaughter-
+houses, and retail stores in the main centers of produc-
+tion and consumption of poultry products in Ecuador.
+This information may help to establish surveillance pro-
+grams and intervention measures regarding to the pres-
+ence and antimicrobial resistance of Campylobacter in
+Ecuadorian poultry.
+
+The aim of this study was to investigate the preva-
+lence, antimicrobial resistance and genetic profiles of
+Campylobacter in broilers slaughtered in industrial fa-
+cilities in the province of Pichincha in Ecuador.
+
+MATERIALS AND METHODS
+
+Study Design and Sampling
+
+Pichincha, the province where Quito, the capital city
+of Ecuador, is located, was selected as the area for the
+collection of samples since in this province and the sur-
+rounding ones 36% of the total Ecuadorian broiler pro-
+duction is located (CGSIN and MAGAP, 2015).
+
+Eight large slaughterhouses are located in Pichincha
+(CGSIN and MAGAP, 2015). All of them were con-
+tacted and asked for their willingness to cooperate in
+the study. Based on these results sampling was per-
+
+formed in 6 slaughterhouses. From June 2013 to July
+2014, a total of 379 batches (birds coming from one
+house and slaughtered on the same day) were sampled.
+All sampled batches from a same farm originated from
+different houses or birds reared on different periods in
+the same house. In Ecuador commercial broiler manage-
+ment at the farm includes total depopulation of houses,
+removal of the litter after every reared batch, clean-
+ing and disinfection of the house followed by a down
+period of 8 to 15 days. All sampled batches were com-
+mercially reared and slaughtered at the age of 6 to 7
+weeks. From each batch, one caecum from 25 randomly
+selected chickens was collected, and transported in an
+ice box within 1 hour to the laboratory for bacteriolog-
+ical analysis.
+
+Isolation and Identiﬁcation of
+Campylobacter spp.
+
+The content from the 25 collected caeca was asep-
+tically pooled. Therefore, all caeca were immersed in
+ethanol, and after evaporation of the ethanol approxi-
+mately 1 g content/cecum was collected in a sterile plas-
+tic bag. The pooled sample was homogenized by hand
+during 1 min. after the addition of 225 mL buffered pep-
+tone water (218103, Difco, BD, Sparks, MD) and a loop-
+ful (10 μL) from each homogenate was directly streaked
+onto a modified Charcoal Cefoperazone Deoxycholate
+Agar (mCCDA) (Campylobacter blood free selective
+medium CM0739 plus selective supplement SR0155H
+[Oxoid, Cheshire, UK]). Plates were incubated under
+microaerobic conditions at 41.5◦C for 48 h. Three pre-
+sumptive Campylobacter colonies were confirmed by
+Gram staining and microscopic observation. Colonies
+containing bacteria with a typical shape were subcul-
+tured on mCCDA. After incubation under microaerobic
+conditions at 41.5◦C for 48 h the DNA of one colony per
+plate was extracted by boiling for 10 minutes in 100 μL
+of DNA free water. The rest of the culture was trans-
+ferred into sheep blood and stored at −80◦C. Multiplex
+PCR described by Vandamme et al. (1997) was per-
+formed for identification of Campylobacter species. PCR
+results indicating the presence of both C. jejuni and
+C. coli were retested after sub-culturing of one colony
+on mCCDA until only one species was detected.
+
+From each positive batch one isolate was randomly
+
+selected for further characterization.
+
+Antimicrobial Resistance
+
+Antimicrobial resistance was evaluated in one iso-
+late per sample. The minimum inhibitory concentration
+(MIC) was determined using the EUCAMP2 plates
+(Thermo Scientific, West Palm Beach, FL). The tests
+were performed according to the manufacturer instruc-
+tions. The following antibiotics were evaluated: gentam-
+icin, ciprofloxacin, nalidixic acid, tetracycline, strepto-
+mycin, and erythromycin. Campylobacter jejuni ATCC
+
+CAMPYLOBACTER SPP. IN ECUADORIAN BROILERS
+
+3
+
+Table 1. Campylobacter positive batches in relation to the number of tested batches per farm.
+Number of
+sampled
+batches/farm
+
+Number of farms with 0 to 6 positive batches
+
+Number of farms
+
+0
+
+4
+
+5
+
+6
+
+1
+
+2
+
+3
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Total
+
+31
+19
+12
+18
+15
+16
+2
+1
+1
+115
+
+15
+2
+1
+
+18
+
+16
+7
+2
+1
+2
+
+1
+
+29
+
+10
+8
+3
+3
+4
+
+28
+
+1
+9
+1
+4
+
+5
+5
+4
+1
+
+15
+
+15
+
+4
+3
+
+7
+
+1
+
+1
+1
+3
+
+33560 was used as the quality control strain. Epidemi-
+ological breakpoint values from the European Com-
+mittee on Antimicrobial Susceptibility Testing were
+considered to determine bacterial antibiotic resistance
+(EUCAST, 2015).
+
+Restriction Fragment Length Polymorphism
+of the ﬂaA gene (ﬂaA-RFLP)
+
+One Campylobacter isolate per positive batch was
+tested. For the PCR the consensus pair of primers
+for the flaA gene described by Wassenaar and Newell
+(Wassenaar and Newell, 2000) and the reagents and
+conditions described by Nachamkin et al. (Nachamkin
+et al., 1993) were applied. For restriction fragment
+length polymorphism (RFLP) analysis flaA PCR am-
+plicons were treated with restriction enzyme DdeI
+(Thermo Scientific, West Palm Beach, FL). PCR am-
+plicons (7 μL) were digested according to the man-
+ufacturer’s instructions and then separated by elec-
+trophoresis for 1:40 hours at 120 V. The gels were
+stained and photographed. The relatedness among the
+flaA-RFLP profiles was analyzed with GelCompar II
+software v. 6.6 (Applied Maths, Sint-Martems-Latem,
+Belgium). Bands
+representing fragments between
+200 bp and 1,100 bp in size were included in the anal-
+ysis. A similarity dendrogram was constructed by the
+unweighted pair group method using arithmetic aver-
+ages algorithm (UPGMA). DICE similarity coefficient
+with a tolerance position of 1% was calculated. A flaA-
+RFLP genotype was assigned on the basis of the differ-
+ence in the presence of at least one band in the Ddel
+fingerprint.
+
+Multilocus Sequence Typing
+
+Multilocus Sequence Typing (MLST) was carried
+out on all C. jejuni isolates that still could be subcul-
+tured (40 isolates). For C. coli, 40 randomly selected
+isolates representing 40 farms were typed by MLST.
+
+MLST was performed by the protocol previously de-
+scribed (PubMLST.org, 2016). Sequence types (STs)
+and clonal complexes (CCs) were assigned by sub-
+mitting DNA sequences to the Campylobacter MLST
+database website (http://pubmlst.org/campylobacter).
+
+Novel alleles and STs were submitted to the MLST
+database for the assignation of new numbers.
+
+Statistical Analysis
+
+Statistical analysis was carried out with STATA/IC
+11.0 (StataCorp LP, College Station, TX). The survey
+design corrected prevalence estimates of Campylobacter
+at batch level were obtained using the linearized Tay-
+lor series method. Farms was identified as first-stage
+cluster. To determine the prevalence of Campylobacter
+at farm level, a farm was considered positive when at
+least one of the sampled batches was positive. Farms
+were assumed to be independent.
+
+Differences of antibiotic resistances between C. coli
+and C. jejuni were calculated by the chi-square test.
+Proportions were considered statistical different when
+the P value was below 0.05.
+
+RESULTS
+
+Prevalence of Campylobacter spp
+
+The 379 sampled batches originated from 115
+farms (1 to 9 batches per farm). From all tested
+batches 243 (64.1%; CI95%: 58.7% to 69.6%) were
+Campylobacter positive and originated from 97 farms
+(84.4%; Confidence Interval (CI)95%: 77.6% to 91.1%).
+From 84 farms, more than one batch was sam-
+pled. The number of times that those farms had
+Campylobacter positive batches ranged from 1 to 6
+(Table 1). Initial PCR speciation demonstrated that
+167 batches (68.7%; CI95%: 62.9% to 74.6%) were posi-
+tive for C. coli, 46 (18.9%; CI95%: 14.0% to 23.9%) for C.
+jejuni and 30 (12.4%; CI95%: 8.2% to 16.5%) for C. coli/
+C. jejuni. Subculturing of the mixed cultures yielded 22
+C. coli and 8 C. jejuni isolates.
+
+Antimicrobial Resistance
+
+Twenty-five isolates (19 C. coli and 6 C. jejuni) could
+not be sub-cultured from −80◦C for MIC test; hence
+218 isolates were tested (170 C. coli and 48 C. jejuni).
+The MIC distributions for the different antibiotics of
+C. coli and C. jejuni are shown in Tables 2 and 3
+
+4
+
+VINUEZA-BURGOS ET AL.
+
+Table 2. Distribution of the minimal inhibitory concentration values for 170 C. coli isolates collected
+from broiler batches.
+
+0,12
+
+106
+
+Antibiotic
+
+Gentamicin
+Streptomicyn
+Erythromycin
+Tetracycline
+Ciprofloxacin
+Nalidixic acid
+
+Number of C. coli isolates with minimal inhibitory concentrations (μg/μL)1
+64
+
+0,25
+
+0,5
+
+32
+
+4
+
+8
+
+16
+
+1
+
+2
+
+49
+
+34
+
+8
+1
+38
+15
+1
+
+5
+120
+33
+6
+
+1
+30
+33
+
+2
+
+1
+
+6
+1
+5
+
+19
+
+89
+28
+1
+
+22
+1
+134
+1
+
+31
+
+11
+
+24
+
+157
+
+128
+
+7
+
+1Full vertical lines indicate epidemiological break points for resistance described by European Committee on
+
+Antimicrobial Susceptibility Testing (EUCAST, 2015).
+
+Table 3. Distribution of the minimal inhibitory concentration values for 48 C. jejuni isolates collected
+from broiler batches.
+
+Number of C. jejuni isolates with minimal inhibitory concentrations (μg/μL)1
+
+Antibiotic
+
+Gentamicin
+Streptomicyn
+Erythromycin
+Tetracycline
+Ciprofloxacin
+Nalidixic acid
+
+0,12
+
+42
+
+1
+
+0,25
+
+3
+2
+
+6
+
+0,5
+
+2
+5
+23
+2
+
+1
+
+35
+21
+
+2
+
+2
+2
+1
+2
+
+4
+
+1
+2
+
+33
+
+8
+
+1
+3
+
+16
+
+2
+
+28
+9
+1
+
+32
+
+64
+
+128
+
+1
+
+1
+
+1
+
+10
+
+46
+
+Full vertical lines indicate epidemiological break points for resistance described by European Committee on
+
+Antimicrobial Susceptibility Testing (EUCAST, 2015).
+
+respectively. C. coli and C. jejuni showed very low re-
+sistance rates for gentamicin and the resistance rate
+was not statistically different between both species (P
+= 0.752). For streptomycin the resistance rates were
+11.2% and 8.3% for C. coli and C. jejuni respectively
+(P = 0.199). Resistance rate for erythromycin was sta-
+tistically higher for C. coli (25.9%) compared to C. je-
+juni (4.2%) (P = 0.024). In contrast the resistance rates
+for tetracycline was statistically higher for C. jejuni
+(83.3%) than for C. coli (67.6%) (P = 0.016). Resis-
+tance rates of C. coli for ciprofloxacin and nalidixic acid
+were 100% and 99.4% respectively (P = 0.086). Simi-
+larly, C. jejuni presented resistance rates of 97.9% and
+100% for ciprofloxacin and nalidixic acid respectively
+(P = 0.558).
+
+C. coli and C. jejuni isolates showed 8 and 6 differ-
+ent resistance patterns respectively. C. coli presented
+resistance against 1 up to 6 antibiotics, whereas for
+C. jejuni resistance against 2 up to 6 antibiotics were
+involved. The resistance pattern 5 (C. coli: 42.9%; C.
+jejuni: 72.9%) was the most frequent one for both
+species (Table 4). Pattern 3 and, patterns 1, 4, and
+6 were presented exclusively for C. jejuni and C. coli
+respectively.
+
+RFLP-ﬂaA Typing
+
+For RFLP-flaA typing 38 isolates (26 C. coli and
+12 C. jejuni) could not be sub-cultured from −80◦C;
+hence 163 C. coli and 47 C. jejuni isolates were tested.
+From all tested isolates 1 C. coli and 7 C. jejuni did not
+present bands in RFLP-flaA typing. For C. coli 38 pro-
+files were obtained, from which 19 profiles contained
+
+Table 4. Antibiotic resistance patterns of C. coli and C. je-
+juni isolates.
+
+Pattern
+
+Resistance pattern1
+
+C. coli (%)
+
+C. jejuni (%)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Total
+
+C
+CN
+TN
+CEN
+CTN
+CTEN
+SCTN
+SCTEN
+GSCTEN
+
+1(0.6)
+49(28.8)
+0
+5(2.9)
+73(42.9)
+23(13.5)
+3(1.8)
+14(8.2)
+2(1.2)
+170(100)
+
+0
+8(16.7)
+1(2.1)
+0
+35(72.9)
+0
+2(4.2)
+1(2.1)
+1(2.1)
+48(100)
+
+more than one strain. Each of the later profiles con-
+tained 2 up to 25 strains. For C. jejuni 26 profiles were
+obtained, from which 7 profiles contained 2 to 7 strains.
+Most of the strains within a RFLP-flaA profiles origi-
+nated from different farms. However, for profile 5, 9, 18,
+19, 21, 22 (C. coli), and 20 (C. jejuni) two strains were
+found in a single farm, and for profile 16 (C. coli) two
+farms yielded 2 and 3 strains respectively (Table 5).
+
+MLST Typing
+
+From the 40 C. coli isolates selected for MLST 39
+belonged to CC-828 and 1 did not have an assigned
+CC (ST-1581). The most frequent STs were ST-5777
+(9 isolates), followed by ST-829 (8 isolates) and ST-828
+(6 isolates) (Figure 1). From the 40 C. jejuni isolates
+selected for MLST the most common CCs were CC-574
+(9 isolates), CC-257 (7 isolates), CC-353 (5 isolates),
+and CC-354 (5 isolates) (Figure 2). Two C. jejuni iso-
+lates did not correspond to an assigned CC. The most
+
+CAMPYLOBACTER SPP. IN ECUADORIAN BROILERS
+
+5
+
+Table 5. Campylobacter spp. RFLP-flaA profiles with more than
+one isolate.
+
+Comparison of RFLP-ﬂaA proﬁles
+and MLST Data
+
+Campylobacter
+spp.
+
+C. coli
+
+C. jejuni
+
+ID of
+
+RFLP-flaA
+
+profiles
+
+7, 17, 25, 31
+
+1, 11, 32
+
+7, 8, 9, 16, 19
+
+3, 30
+
+22
+
+21
+5
+
+6
+8
+18
+9
+29
+16
+19
+
+14
+20
+
+Number of
+
+isolates within
+
+each profile
+
+2
+2
+3
+5
+6
+7
+9
+10
+10
+12
+12
+22
+25
+2
+4
+7
+
+Number of
+origin farms
+
+1
+2
+3
+4
+5
+7
+9
+10
+9
+11
+12
+19
+24
+2
+4
+6
+
+ST-diverse CC was CC-353 (4 STs) followed by CC-
+257 (3 STs), CC-52 (2 STs), CC-354 (2 STs), CC-464
+(2 STs), and CC-21 (2 STs).
+
+In total, 9 C. coli and 7 C. jejuni strains belonged
+to STs which were not reported previously. Sequence
+data from those strains were submitted to the Campy-
+lobacter MSLT database (PubMLST.org, 2016) leading
+to the assignation of 8 novel ST numbers (4 STs for
+each species) (Table 6). Two novel STs within C. coli
+(ID PubMLST 48107 and 48108) resulted from novel
+allele sequences: 5 strains had a novel allele sequence
+for aspA, of which one strain had also a novel allele
+sequence for tkt.
+
+When comparing MLST data with RFLP-flaA pro-
+files, C. coli STs 8315, 8317, 828, 5777, and 829 included
+2, 2, 3, 4, and 5 RFLP-flaA profiles respectively, while
+RFLP-flaA profiles 18, 21, 16, and 19 included 2, 2, 4,
+and 4 different ST types. For C. jejuni 4 STs (6244,
+8308, 8309, and 8310) had two RFLP-flaA profiles and
+only the RFLP-flaA profile 14 included 2 ST types. No
+association of RFLP-flaA profiles within STs was found
+regarding the origin of the isolates.
+
+DISCUSSION
+
+Our findings demonstrated that the prevalence of
+Campylobacter in broiler batches at slaughter age was
+64.1%. Studies from other Latin American countries
+showed different prevalences. From Brazil and Costa
+Rica, 100.0% respectively 80.0% of the flocks were re-
+ported to be positive for Campylobacter when ceca
+samples were studied (Giombelli and Gloria, 2014;
+Zumbaco-Guti´errez et al., 2014). On the other hand, in
+Argentina and Chile Campylobacter was found in 33.3%
+of samples (Rivera et al., 2011; Zbrun et al., 2013a)
+while in Peru Tresierra-Ayala et al. (1995) reported
+a prevalence of 35%. Other tropical countries such as
+Vietnam and South Africa have reported a prevalence of
+31.9 and 14.2% respectively (Jonker and Picard, 2010;
+Carrique-Mas et al., 2014). Although different preva-
+lences are shown in developing countries, it should be
+keep in mind that differences in methodologies can
+make direct comparison of results difficult. Moreover,
+
+Figure 1. Distribution of STs among the 39 C. coli strains belonging to clonal complex 828.
+
+6
+
+VINUEZA-BURGOS ET AL.
+
+Figure 2. Distribution of STs and clonal complexes among the 40 C. jejuni strains.
+
+Table 6. MLST profiles of novel STs identified in Campylobacter strains.
+
+Campylobacter species
+
+No. of isolates
+
+Clonal complex
+
+Sequence type
+
+aspA
+
+glnA
+
+gltA
+
+glyA
+
+pgm
+
+tkt
+
+uncA
+
+C. jejuni
+C. jejuni
+C. jejuni
+C. jejuni
+C. coli
+C. coli
+C. coli
+C. coli
+
+2
+2
+2
+1
+1
+4
+1
+3
+
+257
+354
+21
+NAb
+828
+828
+828
+828
+
+8308
+8309
+8310
+8312
+8311
+8315
+8316
+8317
+
+9
+8
+2
+2
+33
+441
+441
+33
+
+2
+10
+1
+84
+39
+39
+39
+39
+
+4
+95
+5
+5
+30
+30
+30
+30
+
+62
+2
+672
+10
+82
+82
+82
+82
+
+606
+10
+11
+11
+373
+373
+113
+373
+
+5
+12
+1
+3
+56
+47
+641
+47
+
+6
+6
+5
+6
+17
+17
+17
+17
+
+MLST allelic profilea
+
+ID on the
+PubMLST
+
+48096
+48097
+48113
+48099
+48106
+48107
+48108
+48110
+
+aNew allele sequences are given in bold.
+bNA, not assigned.
+
+obtained data indicated that at least 84.3% of farms de-
+livered Campylobacter positive batches. For farms deliv-
+ering only Campylobacter negative batches only a maxi-
+mum of 3 batches were tested. For those farms it can be
+hypothesized that when more batches would be sampled
+also these farms would deliver Campylobacter positive
+batches for slaughter. On the other hand, the number of
+positive batches per farm variated considerably which is
+in concordance with the observations described by Mc-
+Dowell et al. (2008). This variation may be attributed
+to different risk factors for the introduction of Campy-
+lobacter in broilers (Adkin et al., 2006; Torralbo et al.,
+2014; Sandberg et al., 2015).
+
+Considering Campylobacter species, C. coli was the
+dominant species in positive batches. This contrasts
+with other studies from Latin America where C.
+jejuni has been demonstrated to be the most preva-
+lent species in broilers (Tresierra-Ayala et al., 1995;
+Rivera et al., 2011; Zbrun et al., 2013b; Giombelli and
+Gloria, 2014; Zumbaco-Guti´errez et al., 2014). C. je-
+juni has also been demonstrated as the most common
+
+Campylobacter species from broilers at slaughter age in
+China and South Africa (Jonker and Picard, 2010; Ma
+et al., 2014). Meanwhile, the European baseline study
+on Campylobacter in broilers indicated that the propor-
+tion of C. coli/C. jejuni varied considerable between
+countries and this proportion was generally higher in
+southern countries than in northern countries (EFSA,
+2010).
+
+In this study, C. coli and C. jejuni presented high
+resistance rates to ciprofloxacin, nalidixic acid and
+tetracycline while erythromycin, gentamicin, and strep-
+tomycin showed lower resistance rates. This is in ac-
+cordance with a study in Brazil where high resistance
+rates to ciprofloxacin, nalidixic acid, and tetracycline,
+and low resistance rates to erythromycin and gentam-
+icin were reported (Ferro et al., 2015). Besides, a similar
+low resistance rate for erythromycin, a low resistance
+rate for ciprofloxacin (11,8%) was reported from Chile
+(Rivera et al., 2011).
+
+In contrast with the data reported in European
+jejuni presented
+
+Union, this study showed that C.
+
+CAMPYLOBACTER SPP. IN ECUADORIAN BROILERS
+
+7
+
+higher resistance rates for tetracycline than C. coli
+(EFSA, 2015). On the other hand, a higher resis-
+tance rate to erythromycin was shown for C. coli,
+which is consistent with data from China and South
+Africa that showed higher erythromycin resistance rates
+for C. coli (92.0% and 72.7% respectively) than for
+C. jejuni (18.8% and 20% respectively) (Jonker and
+Picard, 2010; Ma et al., 2014).
+
+High resistance rates for (fluoro)quinolones and
+tetracycline found in the present study may be ex-
+plained by the common use of these antibiotics as ther-
+apeutics in Ecuadorian poultry farms. However it is
+not clear why the resistance rate to tetracycline was
+higher for C. jejuni than for C. coli in Ecuador. The low
+antimicrobial resistance rates to aminoglycosides and
+macrolides for C. jejuni found in this study indicates
+that gentamicin and erythromycin can still be used for
+the treatment of human campylobacteriosis when neces-
+sary (WHO, 2011). However, changes in resistance rates
+presented in this research have to be monitored by the
+implementation of antimicrobial resistance surveillance
+on Campylobacter in Ecuador.
+
+Campylobacter typing by RFLP-flaA has been used
+based on the highly conserved character of this gene.
+It has also been shown to be a cost-effective alterna-
+tive to more costly methodologies (Djordjevic et al.,
+2007). The use of RFLP-flaA as the only typing method
+is questioned due to intra- and intergenomic recom-
+bination within the flagellin genes (Eberle and Kiess,
+2012) which can make the comparison of isolates over
+time difficult. In contrast MLST typing is a more re-
+liable method since it is based on changes in allele se-
+quences of determined housekeeping genes and a library
+of MLST types is available to compare results from
+all over the world (PubMLST.org, 2016). Our results
+showed that the combination of RFLP-flaA and MLST
+typing led to a further differentiation of a number of iso-
+lates. This is in concordance with the results of Duarte
+et al. (2016) who demonstrated that the combination
+of both RFLP-flaA and MLST had a higher discrimi-
+natory power than both methods separately.
+
+Based on one isolate per batch, our results indicated
+that a large variation of genetic types were present in
+Ecuadorian broiler batches. Some genetic types seemed
+to be more widespread than other ones. Additionally,
+RFLP-flaA data suggested that over time the persis-
+tence of specific genetic types on farms is limited. Anal-
+yses of the variable region in the flaA locus (flaA-SVR)
+have demonstrated that more than one Campylobacter
+genotype may be present in the same farm (Jorgensen
+et al., 2011; O’Mahony et al., 2011; Prachantasena et
+al., 2016). Moreover, some batches were simultaneously
+colonized with C. coli and C. jejuni in the present study.
+To the best of our knowledge, this study is the
+first report that showed Campylobacter MSLT types
+from commercial broiler batches in Andes region of
+Latin America. In this study 39 out of 40 C. coli iso-
+lates belonged to CC-828. Predominant distribution of
+C. coli within CC-828 has also been reported in Eu-
+
+rope (Levesque et al., 2013; Piccirillo et al., 2014). It is
+suggested that the low diversity of CCs in C. coli can
+be attributed to the presence of a 3-clade C. coli pop-
+ulation structure. In this genetic structure, horizontal
+gene transfer within each clade would be more common
+than among members of different clades (Sheppard and
+Maiden, 2015), resulting in a limited number of CCs.
+
+Interestingly, the new reported ST-8315 was present
+in 4 (10%) C. coli isolates. The implication of this
+ST in the epidemiology of Campylobacter needs fur-
+ther research. From the 40 C. jejuni isolates tested, the
+majority belonged to CC-574 (9 isolates), CC-257 (7
+isolates), CC-353 (4 isolates), CC-354 (5 isolates), and
+CC-21 (3 isolates). In Great Britain, an important num-
+ber of C. jejuni strains were grouped in CC-257, CC-
+353, and CC-574 (Jorgensen et al., 2011). Meanwhile,
+CC-354 has been found in commercial poultry in Thai-
+land (Prachantasena et al., 2016). This is in accordance
+with our results where these CCs were found in 72.5%
+of the tested samples. Additionally, a Canadian study
+reported CC-353 in C. jejuni isolates from chickens orig-
+inated in Peru, Bolivia and Argentina (L´evesque et al.,
+2008). Other less common CCs found in this study (CC-
+45, CC-48, CC-52, CC-460, CC-658,CC-464, and CC-
+607) have also been reported in poultry from Europe,
+Africa, Asia, and North America (L´evesque et al., 2008;
+Griekspoor et al., 2010; O’Mahony et al., 2011; Kittl et
+al., 2013; Ngulukun et al., 2016; Zeng et al., 2016).
+
+Moreover, a study in Ecuador demonstrated that
+CC-353, CC-354 and CC-607 were present in C. jejuni
+isolates from backyard poultry and other domestic ani-
+mals kept in households (Graham et al., 2016). A query
+in the Campylobacter jejuni/coli PubMSLT database
+(PubMLST.org, 2016) (Last accessed: 21/07/2016)
+showed that in Latin America, Brazil, and Uruguay re-
+ported Campylobacter MLST profiles from chicken sam-
+ples. These isolates belonged to CC-257, CC-52 (C. je-
+juni), and CC-828 (C. coli) in Uruguay, while in Brazil
+a no determined CC (ST-7370) was reported.
+
+study gives
+
+Although there are new STs in some of our strains
+C. coli isolates, the most of CCs found in this study
+have been reported in chicken samples (PubMLST.org,
+2016).
+This
+
+insights on the epidemiology
+of Campylobacter in commercial reared poultry in
+Ecuador. Since high levels of Campylobacter on car-
+casses has been linked to an increasing risk of Campy-
+lobacter infections in humans (EFSA, 2011), it would
+be interesting to collect data about the contamination
+including contamination levels, of broiler meat and re-
+lated risk factors for contamination at the following
+stages of the broiler meat chain. Campylobacter types
+and its antimicrobial resistance have not been stud-
+ied from humans in Ecuador. Therefore, it is not pos-
+sible to link human campylobacteriosis to the geno-
+types found in this study. Therefore further research on
+Campylobacter isolates from the broiler meat chain and
+humans may give more insights on the epidemiology of
+Campylobacter in Ecuador.
+
+8
+
+VINUEZA-BURGOS ET AL.
+
+ACKNOWLEDGMENTS
+financial
+
+the
+
+for
+
+We
+
+suport
+
+acknowledge
+
+of
+this
+research to Secretar´ıa de Educaci´on Supe-
+rior Ciencia y Tecnolog´ıa del Ecuador. Programa
+de Becas Convocatoria Abierta 2012 Segunda Fase.
+http://www.educacionsuperior.gob.ec. We
+acknowl-
+edge the slaughterhouses that participated in this study
+and Andrea Gal´arraga, Valeria Poma and Jonathan Fal-
+con for sample collection in the slaughterhouses.
+
+REFERENCES
+
+Adkin, A., E. Hartnett, L. Jordan, D. Newell, and H. Davison. 2006.
+Use of a systematic review to assist the development of Campy-
+lobacter control strategies in broilers. J. Appl. Microbiol. 100:306–
+315.
+
+Carrique-Mas, J. J., J. E. Bryant, N. V Cuong, N. V. M. Hoang, J.
+Campbell, N. V Hoang, T. T. N. Dung, D. T. Duy, N. T. Hoa,
+C. Thompson, V. V Hien, V. V Phat, J. Farrar, and S. Baker.
+2014. An epidemiological investigation of Campylobacter in pig
+and poultry farms in the Mekong delta of Vietnam. Epidemiol.
+Infect. 142:1425–1436. Available at http://www.pubmedcentral.
+nih.gov/articlerender.fcgi?artid=4045178&tool=pmcentrez&
+rendertype=abstract.
+
+CGSIN and MAGAP. 2015. Registro Nacional de Producci´on
+
+Av´ıcola. Quito.
+
+CONAVE. 2014. Estad´ısticas de Producci´on Av´ıcola 2013. 1.
+Djordjevic, S. P., L. E. Unicomb, P. J. Adamson, L. Mickan, R. Rios,
+P. Adamson, K. Cheung, B. Combs, C. Dalton, R. Doyle, J. Fer-
+guson, L. Gilbert, R. Givney, D. Gordon, J. Gregory, G. Hogg,
+T. Inglis, P. Jelfs, M. Kirk, K. Lalor, J. Lanser, L. O’Reilly, M.
+Sarna, H. Sharma, H. Smith, and M. Valcanis. 2007. Clonal com-
+plexes of Campylobacter jejuni identified by multilocus sequence
+typing are reliably predicted by restriction fragment length poly-
+morphism analyses of the flaA gene. J. Clin. Microbiol. 45:102–
+108.
+
+Duarte, A., T. Seliwiorstow, W. G. Miller, L. De Zutter, M. Uyt-
+tendaele, K. Dierick, and N. Botteldoorn. 2016. Discrimina-
+tive power of Campylobacter phenotypic and genotypic typ-
+ing methods. J. Microbiol. Methods. 125:33–39. Available at
+http://linkinghub.elsevier.com/retrieve/pii/S0167701216300380.
+Eberle, K. N., and A. S. Kiess. 2012. Phenotypic and geno-
+typic methods for typing Campylobacter jejuni and Campy-
+lobacter coli
+in poultry. Poult. Sci. 91:255–264. Available at
+http://ps.oxfordjournals.org/content/91/1/255.full.
+
+EFSA. 2010. Analysis of the baseline survey on the prevalence
+of Campylobacter n broiler batches and of Campylobacter and
+Salmonella on broiler carcasses in the EU, 2008, Part A:
+Campylobacter and Salmonella prevalence estimates. EFSA J.
+15:100.
+
+EFSA. 2011. Scientific Opinion on Campylobacter in broiler meat
+production: control options and performance objectives and/or
+targets at different stages of the food chain. EFSA J. 9:2105.
+Available at http://doi.wiley.com/10.2903/j.efsa.2011.2105.
+
+EFSA. 2015. SCIENTIFIC REPORT OF EFSA AND ECDC. EU
+Summary Report on antimicrobial resistance in zoonotic and in-
+dicator bacteria from humans, animals and food in 2013. EFSA
+J. 13:1–178.
+
+EFSA, and ECDC. 2015. The European Union summary report on
+trends and sources of zoonoses, zoonotic agents and food-borne
+outbreaks in 2014. EFSA J. 13:4329.
+
+EUCAST. 2015. European committee on antimicrobial susceptibil-
+ity testing. Data from the EUCAST MIC distribution website.
+Available at http://mic.eucast.org (verified 19 October 2016).
+
+Ferro, I. D., T. M. Benetti, T. C. R. M. Oliveira, W. M. Abrah˜ao,
+S. M. S. S. Farah, F. B. Luciano, and R. E. F. Macedo. 2015.
+Evaluation of antimicrobial resistance of Campylobacter spp. iso-
+lated from broiler carcasses. Br. Poult. Sci. 56:66–71. Available
+at http://www.ncbi.nlm.nih.gov/pubmed/25567139.
+
+Giombelli, A., and M. B. A. Gloria. 2014. Prevalence of
+salmonella and campylobacter on broiler chickens from farm
+to slaughter and efficiency of methods to remove visible fe-
+cal contamination. J. Food Prot. 77:1851–1859. Available at
+http://openurl.ingenta.com/content/xref?genre=article&issn=
+0362-028X&volume=77&issue=11&spage=1851.
+
+Graham, J. P., K. Vasco, and G. Trueba. 2016. Hyperendemic
+Campylobacter jejuni in guinea pigs (Cavia porcellus) raised for
+food in a semi-rural community of Quito, Ecuador. Environ. Mi-
+crobiol. Rep. 8:382–387.
+
+Griekspoor, P., E. O. Engvall, B. Olsen, and J. Waldenstrom. 2010.
+Multilocus sequence typing of Campylobacter jejuni from broilers.
+Vet. Microbiol. 140:180–185.
+
+Havelaar, A. H., W. van Pelt, C. W. Ang, J. A. Wage-
+naar, J. P. M. van Putten, U. Gross, and D. G. Newell.
+2009. Immunity to Campylobacter: its role in risk assessment
+and epidemiology. Crit. Rev. Microbiol. 35:1–22. Available at
+http://www.ncbi.nlm.nih.gov/pubmed/19514906.
+
+Jonker, A., and J. A. Picard. 2010. Antimicrobial susceptibility in
+thermophilic Campylobacter species isolated from pigs and chick-
+ens in South Africa. J. S. Afr. Vet. Assoc. 81:228–236.
+
+Jorgensen, F., J. Ellis-Iversen, S. Rushton, S. A. Bull, S. A. Harris,
+S. J. Bryan, A. Gonzalez, and T. J. Humphrey. 2011. Influence
+of season and geography on Campylobacter jejuni and C. coli
+subtypes in housed broiler flocks reared in Great Britain. Appl.
+Environ. Microbiol. 77:3741–3748.
+
+Kittl, S., G. Heckel, B. M. Korczak, and P. Kuhnert. 2013. Source
+attribution of human Campylobacter isolates by MLST and Fla-
+typing and association of genotypes with quinolone resistance.
+PLoS One. 8:1–8.
+
+along
+
+Levesque, S., E. Fournier, N. Carrier, E. Frost, R. D. Arbeit, and S.
+Michaud. 2013. Campylobacteriosis in urban versus rural areas: A
+case-case study integrated with molecular typing to validate risk
+factors and to attribute sources of infection. PLoS One. 8:17–20.
+L´evesque, S., E. Frost, R. D. Arbeit, and S. Michaud. 2008. Multi-
+locus sequence typing of Campylobacter jejuni isolates from hu-
+mans, chickens, raw milk, and environmental water in Quebec,
+Canada. J. Clin. Microbiol. 46:3404–3411.
+
+Loshaj-Shala, A., L. Regazzoni, A. Daci, M. Orioli, K. Bre-
+zovska, A. P. Panovska, G. Beretta, and L. Suturkova. 2015.
+Guillain Barr´e syndrome (GBS): new insights in the molec-
+ular mimicry between C. jejuni and human peripheral nerve
+(HPN) proteins. J. Neuroimmunol. 289:168–176. Available at
+http://www.ncbi.nlm.nih.gov/pubmed/26616887.
+
+Ma, L., Y. Wang, J. Shen, Q. Zhang, and C. Wu. 2014.
+a
+broiler
+to retail
+Int. J. Food Microbiol. 181:77–84. Available at
+
+Tracking Campylobacter
+chicken production chain from the
+in China.
+http://dx.doi.org/10.1016/j.ijfoodmicro.2014.04.023.
+
+contamination
+
+farm level
+
+McDowell, S. W. J., F. D. Menzies, S. H. McBride, A. N. Oza, J. P.
+McKenna, A. W. Gordon, and S. D. Neill. 2008. Campylobacter
+spp. in conventional broiler flocks in Northern Ireland: Epidemi-
+ology and risk factors. Prev. Vet. Med. 84:261–276.
+
+Nachamkin, I., K. Bohachick, and C. M. Patton. 1993. Flagellin gene
+typing of Campylobacter jejuni by restriction fragment length
+polymorphism analysis. J. Clin. Microbiol. 31:1531–1536. Avail-
+able at http://www.ncbi.nlm.nih.gov/pubmed/8100241.
+
+Ngulukun, S., S. Oboegbulem, and G. Klein. 2016. Multilocus se-
+quence typing of Campylobacter jejuni and Campylobacter coli
+isolates from poultry, cattle and humans in Nigeria. J. Appl. Mi-
+crobiol. Available at http://doi.wiley.com/10.1111/jam.13185.
+
+O’Mahony, E., J. F. Buckley, D. Bolton, P. Whyte, and
+S. Fanning. 2011. Molecular epidemiology of campylobac-
+ter isolates from poultry production units in southern Ire-
+land (T Kimman, Ed.). PLoS One 6:e28490. Available at
+http://dx.plos.org/10.1371/journal.pone.0028490.
+
+Piccirillo, A., M. Giacomelli, C. Salata, S. Bettanello, E. De Canale,
+and G. Pal`u. 2014. Multilocus sequence typing of Campylobac-
+ter jejuni and Campylobacter coli from humans and chickens in
+North-Eastern Italy. 557–562.
+
+Platts-Mills,
+
+burden
+
+J. A.,
+
+the
+tries. Curr. Opin.
+http://www.ncbi.nlm.nih.gov/pubmed/24655651.
+
+of Campylobacter
+
+and M. Kosek.
+in
+
+on
+coun-
+Infect. Dis. 27:444–450. Available at
+
+2014. Update
+developing
+
+CAMPYLOBACTER SPP. IN ECUADORIAN BROILERS
+
+9
+
+Pollett, S., C. Rocha, R. Zerpa, L. Pati˜no, A. Valencia, M. Cami˜na, J.
+Guevara, M. Lopez, N. Chuquiray, E. Salazar-Lindo, C. Calampa,
+M. Casapia, R. Meza, M. Bernal, D. Tilley, M. Gregory, R. Maves,
+E. Hall, F. Jones, C. S. Arriola, M. Rosenbaum, J. Perez, and M.
+Kasper. 2012. Campylobacter antimicrobial resistance in Peru: a
+ten-year observational study. BMC Infect. Dis. 12:193. Available
+at http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=
+3482591&tool=pmcentrez&rendertype=abstract
+16
+April 2013).
+
+(verified
+
+Prachantasena, S., P. Charununtakorn, S. Muangnoicharoen, L.
+Hankla, N. Techawal, P. Chaveerach, P. Tuitemwong, N.
+Chokesajjawatee, N. Williams, T. Humphrey, and T. Luang-
+tongkum. 2016. Distribution and Genetic Profiles of Campy-
+lobacter in Commercial Broiler Production from Breeder to
+Slaughter in Thailand. PLoS One. 11:e0149585. Available at
+http://dx.plos.org/10.1371/journal.pone.0149585.
+
+PubMLST.org. 2016. Campylobacter MLST Home Page. Available
+
+at PubMLST.org (verified 11 July 2016).
+resistance
+
+Reardon, S. 2014. Antibiotic
+
+sweeping developing
+world. Nature. 509:141–142. Available at http://www.ncbi.
+nlm.nih.gov/pubmed/24805322 (verified 9 June 2014).
+
+Rivera, N., R. Bustos, S. Montenegro H., M. Sandoval M.,
+J. Castillo N., H. Fern´andez J., M. Maturana R., L. Del-
+gado R, ´A. Contreras S., D. Ch´avez N, and I. Quevedo
+L. 2011. Genotipificaci´on y resistencia antibacteriana de
+cepas de Campylobacter spp aisladas en ni˜nos y en aves
+de corral. Rev. Chil.
+infectolog´ıa. 28:555–562. Available at
+http://www.scielo.cl/scielo.php?script=sci arttext&pid=S0716-
+10182011000700008&lng=es&nrm=iso&tlng=es.
+
+Sandberg, M., L. L. Sørensen, B. Steenberg, S. Chowd-
+2015. Risk fac-
+hury, A. K. Ersbøll,
+tors
+broiler
+flocks, 2010 to 2011. Poult. Sci. 94:447–453. Available at
+http://ps.oxfordjournals.org/content/94/3/447.abstract.
+
+for Campylobacter
+
+and L. Alban.
+
+colonization
+
+in Danish
+
+Seiffert, S. N., M. Hilty, V. Perreten, and A. Endimiani. 2013.
+Extended-spectrum cephalosporin-resistant Gram-negative or-
+ganisms in livestock: an emerging problem for human health?
+Drug Resist. Updat. 16:22–45. Available at http://www.ncbi.
+nlm.nih.gov/pubmed/23395305 (verified 18 December 2014).
+
+Sheppard, S. K., and M. C. J. Maiden. 2015. The Evolution of
+
+Campylobacter jejuni and Campylobacter coli. 1–14.
+
+Sierra–Arguello, Y. M., G. Perdoncini, R. B. Morgan, C. T. P. Salle,
+H. L. S. Moraes, M. J. P. Gomes, and V. P. do Nascimento.
+2016. Fluoroquinolone and Macrolide Resistance in Campy-
+lobacter Jejuni Isolated from Broiler Slaughterhouses in South-
+ern Brazil. Avian Pathol. 9457:1–22. Available at http://www.
+tandfonline.com/doi/full/10.1080/03079457.2015.1120272.
+
+Skarp, C. P. A., M.-L. H¨anninen, and H. I. K. Rautelin. 2015.
+Campylobacteriosis: the role of poultry-meat. Clin. Micro-
+biol. Infect. 1–7. Available at http://linkinghub.elsevier.com/
+retrieve/pii/S1198743X15010253.
+
+Torralbo, A., C. Borge, A. Allepuz, I. Garc´ıa-Bocanegra, S. K.
+Sheppard, A. Perea, and A. Carbonero. 2014. Prevalence and
+risk factors of Campylobacter infection in broiler flocks from
+southern Spain. Prev. Vet. Med. 114:106–113. Available at
+http://dx.doi.org/10.1016/j.prevetmed.2014.01.019.
+
+Tresierra-Ayala, A., H. Fern´andez, M. E. Benday´an, G. Pereyra,
+and A. Bernuy. 1995. Aislamiento de especies termotolerantes
+de Campylobacter en dos poblaciones de pollos criados con y sin
+confinamiento. Rev. Saude. Publica. 29:389–392. Available at
+http://www.scielo.br/scielo.php?script=sci arttext&pid=S0034-
+89101995000500008&lng=es&nrm=iso&tlng=es.
+
+Vandamme, P., L. J. Van Doorn, S. T. al Rashid, W. G.
+Quint, J. van der Plas, V. L. Chan, and S. L. On. 1997.
+Campylobacter hyoilei Alderton et al. 1995 and Campy-
+lobacter coli V´eron and Chatelain 1973 are subjective syn-
+onyms.
+Int. J. Syst. Bacteriol. 47:1055–1060. Available at
+http://www.ncbi.nlm.nih.gov/pubmed/9336905 (verified 28 July
+2013).
+
+Vasco, G., G. Trueba, R. Atherton, M. Calvopi˜na, W. Cevallos, T.
+Andrade, M. Eguiguren, and J. N. S. Eisenberg. 2014. Identi-
+fying etiological agents causing diarrhea in low income ecuado-
+rian communities. Am. J. Trop. Med. Hyg. 91:563–569. Available
+at http://www.ncbi.nlm.nih.gov/pubmed/25048373 (verified 25
+September 2014).
+
+lobacter spp. Appl. Environ. Microbiol. 66:1–9.
+
+Wassenaar, T. M., and D. G. Newell. 2000. Genotyping of Campy-
+sheet N◦255. Available at
+http://www.who.int/mediacentre/factsheets/fs255/en/ (verified
+1 February 2016).
+
+WHO. 2011. Campylobacter. Fact
+
+WHO. 2015. WHO Estimates of the Global Burden of Food-
+edit. World Health Organization,
+
+borne Diseases. First
+Geneva.
+
+Zbrun, M. V, A. Romero-Scharpen, C. Olivero, E. Rossler, L. P.
+Soto, M. R. Rosmini, G. J. Sequeira, M. L. Signorini, and L.
+S. Frizzo. 2013a. Occurrence of thermotolerant Campylobac-
+ter spp. at different stages of the poultry meat supply chain
+in Argentina. N. Z. Vet. J. 61:337–343. Available at <Go to
+ISI>://000325844500005.
+
+Zbrun, M., A. Romero-Scharpen, C. Olivero, E. Rossler, L. Soto,
+M. Rosmini, G. Sequeira, M. Signorini, and L. Frizzo. 2013b.
+Occurrence of thermotolerant Campylobacter spp. at different
+stages of the poultry meat supply chain in Argentina. N. Z. Vet.
+J. Available at http://www.ncbi.nlm.nih.gov/pubmed/23906333
+(verified 6 August 2013).
+
+Zeng, D., X. Zhang, F. Xue, Y. Wang, L. Jiang, and Y.
+Jiang. 2016. Phenotypic characters and molecular epidemi-
+ology of campylobacter jejuni
+in East China. J. Food Sci.
+81:M106–M113.
+
+Zumbaco-Guti´errez, L., A. Ar´evalo-Madrigal, M. Donado-Godoy,
+and J. Romero-Z´uniga. 2014. DIAGN ´OSTICO MOLECULAR
+DE Campylobacter EN LA Cadena. Agron. Mesoam. 25:357–363.
+Available at http://www.mag.go.cr/rev meso/v25n02 357.pdf.
+
+

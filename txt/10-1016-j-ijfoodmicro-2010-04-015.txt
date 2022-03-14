@@ -1,0 +1,1304 @@
+International Journal of Food Microbiology 141 (2010) 63–72
+
+Contents lists available at ScienceDirect
+
+International Journal of Food Microbiology
+
+j o u r n a l ho m e p a g e : w w w. e l s ev i e r. c o m / l o c a t e / i j fo o dm i c r o
+
+Prevalence and characterization of Salmonella serovars in retail meats of marketplace
+in Shaanxi, China
+Baowei Yang a, Dong Qu a, Xiuli Zhang b, Jinling Shen a, Shenghui Cui c, Ying Shi a, Meili Xi a, Min Sheng a,
+Shuai Zhi a, Jianghong Meng a,d,⁎,1
+a Northwest A&F University, Shaanxi, 712100, China
+b Henan Center for Disease Control and Prevention, Henan, 450016, China
+c State Food and Drug Administration, Beijing, 100050, China
+d Joint Institute for Food Safety and Applied Nutrition, Department of Nutrition and Food Science, University of Maryland, College Park, MD 20742, USA
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 11 October 2009
+Received in revised form 9 April 2010
+Accepted 15 April 2010
+
+Keywords:
+Salmonella
+Prevalence
+Characterization
+Retail meats
+
+A total of 764 retail meat including 515 chicken, 91 pork, 78 beef and 80 lamb samples were collected in
+Shaanxi Province of China in 2007–2008 to determine the prevalence of Salmonella. The isolates were
+characterized using serotyping, antimicrobial susceptibility testing, and the presence of blaCMY-2 and blaTEM
+and class I integrons. Selective serovars were further subtyped using PFGE. Approximately 54% (276) of
+chicken, 31% (28) of pork, 17% (13) of beef and 20% (16) of lamb samples were positive of Salmonella. Among
+24 serovars identiﬁed, Enteritidis (31.5%) was most common, followed by Typhimurium (13.4%), Shubra
+(10.0%), Indiana (9.7%), Derby (9.5%) and Djugu (7.0%). Nearly 80% of the isolates (283) were resistant to at
+least one antimicrobial, and 53% (191) to more than three antimicrobials. Resistance was most frequently
+observed to sulfamethoxazole (67%), to trimethoprim/sulfamethoxazole (58%) and to tetracycline (56%).
+Furthermore, many isolates were resistant to nalidixic acid (35%), ciproﬂoxacin (21%) and ceftriaxone (16%).
+Most isolates of Shubra (89%) and Indiana (88%) were resistant to ≥9 antimicrobials, compared to only 11%
+of Enteritidis and 9% of Infantis that showed similar resistance. Class I integrons were detected in 10% of the
+isolates, and contained aadA, tetR, dhfr, blaPSE-1, blaDHA-1 and blaVEB-1 gene cassettes alone or various
+combinations. Ceftriaxone- and/or cefoperazone-resistant isolates (n =62) carried blaTEM (51.6%) and/or
+blaCMY-2 (56.5%). A total of 116 PFGE patterns were generated among 210 selected isolates. Our ﬁndings
+indicated that Salmonella contamination was common in retail meats, and that the Salmonella isolates were
+phenotypically and genetically diverse. Additionally, many Salmonella isolates were resistant to multiple
+antimicrobials.
+
+© 2010 Elsevier B.V. All rights reserved.
+
+1. Introduction
+
+Foodborne diseases caused by nontyphoid Salmonella represent an
+important public health problem worldwide. It is estimated that
+approximately 70%–80% of
+foodborne bacterial outbreaks were
+caused by Salmonella in China (Wang et al., 2007). In the United
+States, 164,044 Salmonella infections (approximately 32,000 annually)
+were reported during 1998–2002 (Lynch et al., 2006). Pork, beef and
+poultry/chicken meat have been recognized as signiﬁcant sources of
+human salmonellosis (Magistrali et al., 2008). Currently, ceftriaxone is
+the drug of choice for treating salmonellosis, especially in children
+because of its pharmacodynamic properties and the very low
+prevalence of resistance to the agent (Fey et al., 2000).
+
+⁎ Corresponding author. Mailing address: College of Food Science and Engineering,
+
+Northwest A&F University, 28# Xinong Road, Yangling, Shaanxi, 712100, China.
+
+E-mail address: jmeng@umd.edu (J. Meng).
+
+1 Tel.: +1 301 405 7976; fax: +1 301 405 8390.
+
+0168-1605/$ – see front matter © 2010 Elsevier B.V. All rights reserved.
+doi:10.1016/j.ijfoodmicro.2010.04.015
+
+Although more than 2500 serovars of Salmonella enterica have
+been identiﬁed, most human Salmonella infections are caused by a
+limited number of serovars. S. enterica Typhimurium and Enteritidis
+are the most common causes of human salmonellosis worldwide,
+whereas serovars including Derby and Indiana have been reported to
+be prevalent in certain foods and regions (Bangtrakulnonth et al.,
+2004; Herikstad et al., 2002; Galanis et al., 2006; Xia et al., 2009).
+Serotyping and pulse ﬁeld gel electrophoresis (PFGE) are effective
+surveillance tools to detect outbreaks,
+identify outbreak source,
+monitor trends over time, and attribute human disease to various
+foods and animals (Galanis et al., 2006).
+
+In the past 20 years, the emergence and spread of antimicrobial-
+resistant Salmonella, particularly multidrug resistant (MDR) strains, is
+one of major public health concerns, and most infections with MDR
+Salmonella are acquired by eating contaminated foods of animal origin
+(White et al., 2001). Recently, an alarming increase in MDR Salmonella
+and the occurrence of emerging Salmonella serovars have been reported
+in many European and Asian countries (Cailhol et al., 2006; Cui et al.,
+
+64
+
+B. Yang et al. / International Journal of Food Microbiology 141 (2010) 63–72
+
+2008; Hoge et al., 1998; Jones et al., 2002; Lauderdale et al., 2006; Pan
+et al., 2009; Van et al., 2003; Xia et al., 2009). However, there is a paucity
+on data regarding the prevalence, types of serovars, PFGE proﬁles and
+antimicrobial susceptibility of Salmonella from retail meats in China.
+
+In this study, we characterized Salmonella isolates recovered from
+retail meats in 2007 and 2008 in Shaanxi Province, China. Our ﬁndings
+indicated that Salmonella contamination in retail meats was common, and
+that the Salmonella isolates were phenotypically and genetically diverse.
+Many Salmonella isolates were resistant to multiple antimicrobials.
+
+2. Materials and methods
+
+2.4. Detection of class I integrons and resistance genes
+
+Sulfamethoxazole-resistant Salmonella isolates were further
+screened for the presence of class I integrons. In addition, isolates
+that demonstrated resistance to the extended-spectrum ceftriaxone
+and cefoperazone were examined for the presence of the extended-
+spectrum β-lactamase genes blaCMY-2 and blaTEM. Class I integrons
+were ampliﬁed with primers 5′-CS (5′-GGCATCCAAGCAGCAAGC-3′)
+and 3′-CS (5′-AAGCAGACTTGACCTGAT-3′) using previously described
+methods (Yang, et al., 2009). BlaCMY-2 and blaTEM were ampliﬁed as
+previously described (Chen, et al., 2004; Hasman et al., 2005).
+
+2.1. Isolation and identiﬁcation of Salmonella
+
+2.5. PFGE
+
+A total of 764 retail meat samples including 515 chicken, 91 pork, 78
+beef and 80 lambs were collected monthly during 2007–2008 in
+supermarkets and free markets in Xian, Yangling and Baoji, which are
+located in the east, centre, and west, respectively, in Shaanxi Province,
+China. The meat samples were tested for Salmonella using previously
+described methods (Cui et al, 2006). Brieﬂy, 25 g of ground meat was
+placed into a sterile glass ﬂask containing 225 ml of buffered peptone
+water (BPW, Difco, Cockeysville, MD). For chicken carcasses, a whole
+piece was placed in a plastic bag and washed with 400 ml BPW with
+shaking vigorously for 2 min. The rinse was incubated at 37 °C in a water
+bath with shaking at 100 rpm for 6 h. After the pre-enrichment, 10 ml
+and 1 ml cultures were transferred to 100 ml each of the tetrathionate
+(TT, Difco) and Rappaport–Vassiliadis (RV, Difco) broth, respectively. The
+TT and RV broth were incubated at 42 °C in a water bath with shaking at
+100 rpm for 24 h, followed by streaking TT onto xylose lysine tergitol 4
+(XLT4, Difco) agar and RV onto xylose lysine desoxycholate (XLD, Difco)
+agar. After incubation for 48 h at 35 °C, two of presumptive Salmonella
+colonies were picked from each plate and stabbed into triple sugar iron
+(TSI, Difco) and urea-agar (Difco) slants, respectively, incubated for 24 h
+at 35 °C. Isolates with typical Salmonella phenotypes were conﬁrmed by
+PCR using primers invAF (5′-GTGAAATTATCGCCACGTTCGGGCAA-3′) and
+invAR (5′-TCATCGCACCGTCAAAGGAACC-3′). The PCR reaction was
+carried out in a 25 μL PCR mixture containing 0.5 μM of each primer,
+250 μM of dNTP, 1×PCR buffer, 1.5 mM MgCl2, 0.5 U of Taq DNA
+polymerase (TaKaRa, Dalian, China) and 5 μL of sample DNA, using a
+mycircle PCR system (Bio-Rad, Hercules, CA) with incubation at 94 °C for
+10 min, followed by 35 cycles of 94 °C for 30 s, 64 °C for 30 s and 72 °C for
+30 s, and a ﬁnal extension of 72 °C for 7 min. PCR products were stained
+with ethidium bromide and visualized under UV light after gel electro-
+phoresis on 1% agarose.
+
+2.2. Serotyping
+
+All isolates were serotyped in Henan Center for Disease Control
+and Prevention, Zhengzhou, Henan, China. O and H antigens were
+characterized using slide agglutination with hyperimmune sera (S&A
+Company, Thailand) and the serotype was assigned following the
+manufacturer's instructions.
+
+2.3. Antimicrobial susceptibility testing
+
+Antimicrobial susceptibility proﬁles were determined via agar
+dilution according to the standards and guidelines described by the
+Clinical and Laboratory Standards Institute (CLSI) (Clinical and Labora-
+tory Standards Institute, 2003). The following antimicrobials were
+tested: amikacin, amoxicillin/clavulanic acid, ampicillin, ceftriaxone,
+cefoperazone, cefoxitin, chloramphenicol, ciproﬂoxacin, gentamicin,
+kanamycin, nalidixic acid, streptomycin, sulfamethoxazole, tetracycline
+and trimethoprim/sulfamethoxazole. Escherichia coli ATCC 25922 and
+ATCC 35218, Enterococcus faecalis ATCC 29212 and Staphylococcus aureus
+ATCC 29213 were used as quality control organisms in antimicrobial
+minimum inhibitory concentrations (MICs) determinations.
+
+PFGE was performed according to the protocol developed by the
+Centers for Disease Control and Prevention (CDC) (Ribot et al., 2006).
+Brieﬂy, agarose-embedded DNA was digested with 50 U of XbaI
+(TaKaRa) for 1.5–2 h in a water bath at 37 °C. The restriction
+fragments were separated by electrophoresis in 0.5×TBE buffer at
+14 °C for 18 h using a Chef Mapper electrophoresis system (Bio-Rad)
+with pulse times of 2.16–63.8 s. S. Braenderup H9812 was used as the
+control strain. The gels were stained with ethidium bromide, and DNA
+bands were visualized with UV trans-illumination (Bio-Rad). PFGE
+results were analyzed using the BioNumerics Software (Applied-
+Maths, Kortrijk, Belgium).
+
+2.6. Nucleotide sequencing analysis
+
+PCR products of integrons were puriﬁed with a kit (TaKaRa). The
+DNA sequences of the PCR products were determined at Beijing
+AuGCT biotechnology Co., Ltd, and aligned using BLAST program
+(http://www.ncbi.nlm.nih.gov/BLAST/).
+
+3. Results
+
+3.1. Isolation and identiﬁcation of Salmonella
+
+Of the 764 retail meat samples, 333 (44%) were positive of
+Salmonella, including 276 (54%) of the 515 chicken, 28 (31%) of the 91
+pork, 13 (17%) of the 78 beef and 16 (20%) of the 80 lamb samples
+(Table 1). A total of 359 Salmonella isolates were collected from the
+333 Salmonella-positive samples (1–3 isolates per sample) including
+292 isolates from chicken, 38 from pork, 13 from beef and 16 from
+lamb.
+
+Twenty-four serovars were identiﬁed among the 359 Salmonella
+isolates. The top 10 serovars were Enteritidis (n=113), Typhimurium
+(n=48), Shubra (n=36), Indiana (n=35), Derby (n=34), Djugu
+(n=25), Infantis (n=11), Agona (n=9), Othmarschen (n=8) and
+Virchow (n=8) (Table 2). The most commonly recovered serovars
+from different retail meats were Enteritidis, Typhimurium, Shubra
+and Indiana from chicken; Derby, Enteritidis and Typhimurium from
+pork; Typhimurium, Derby and Agona from beef; and Derby, Djugu
+and Saintpaul from lamb. Several unusual serovars including Pakistan,
+Rideau and Bsilla were recovered from pork and beef, whereas
+Othmarschen, Tennessee, Thompson, Galiema, Kallo, Salmonella IIIa,
+
+Table 1
+Prevalence of Salmonella in retail meats.
+
+Meat
+
+No. samples
+
+No. (%) samples positive
+for Salmonella
+
+No. Salmonella isolates
+recovereda
+
+Chicken
+Pork
+Beef
+Lamb
+Total
+
+515
+91
+78
+80
+764
+
+276 (54)
+28 (31)
+13 (17)
+16 (20)
+333 (44)
+
+292
+38
+13
+16
+359
+
+a 1–3 Salmonella isolates were collected from each positive sample.
+
+B. Yang et al. / International Journal of Food Microbiology 141 (2010) 63–72
+
+65
+
+Table 2
+Distribution of Salmonella serovars in retail meats.
+
+Serovar
+
+Enteritidis
+Typhimurium
+Shubra
+Indiana
+Derby
+Djugu
+Infantis
+Agona
+Othmarschen
+Virchow
+Salmonella II
+Saintpaul
+
+No.
+isolate
+
+113
+48
+36
+35
+34
+25
+11
+9
+8
+8
+7
+4
+
+Type of meat
+
+Chicken
+
+Pork
+
+Beef
+
+Lamb
+
+104
+38
+34
+32
+15
+21
+9
+2
+8
+7
+6
+1
+
+7
+6
+0
+1
+14
+0
+0
+4
+0
+0
+1
+0
+
+1
+2
+1
+1
+2
+1
+1
+1
+0
+1
+0
+1
+
+1
+2
+1
+1
+3
+3
+1
+2
+0
+0
+0
+2
+
+Serovar
+
+Rideau
+Tennessee
+Thompson
+Galiema
+Kallo
+IIIa
+Rissen
+Brancaster
+Braenderup
+Litchﬁeld
+Pakistan
+Bsilla
+
+No.
+isolate
+
+Type of meat
+
+Chicken
+
+Pork
+
+Beef
+
+Lamb
+
+4
+3
+2
+2
+2
+2
+1
+1
+1
+1
+1
+1
+
+0
+3
+2
+2
+2
+2
+1
+1
+1
+1
+0
+0
+
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+Rissen, Brancaster, Braenderup and Litchﬁeld were isolated from
+chicken. In contrast, other serovars such as Enteritidis, Typhimurium
+and Indiana were recovered from each of the four types of retail meats
+(Table 2).
+
+3.2. Antimicrobial susceptibility
+
+Two hundred and eighty-four (79%) Salmonella isolates were
+resistant to at least one antimicrobial, and 252 (70%) to three or more,
+55 (15%) to 13 or more. Resistance was most frequently observed to
+sulfamethoxazole (67%), followed by trimethoprim/sulfamethoxazole
+(58%) and tetracycline (56%), and to a lesser extent kanamycin (37%),
+nalidixic acid (35%), ampicillin (33%), amoxicillin–clavulanic acid
+(32%) and ceftriaxone (16%) (Table 3). Resistance to beta-lactam
+antimicrobials was most common among the chicken isolates, 11% of
+which exhibited cefoxitin resistance compared to 5% and 0% of pork
+and beef isolates, respectively (Table 3). Ceftriaxone resistance (19%)
+was only observed among the chicken isolates, and ciproﬂoxacin
+resistance (26%) was also primarily seen in chicken isolates. Similar
+resistance to tetracycline was found among chicken (57%), pork
+(53%), beef (46%) and lamb (56%) isolates.
+
+When analyzed by types of retail meats, chicken isolates showed the
+highest rate of resistance to at least one antimicrobial (80%), followed by
+those recovered from pork (79%), lamb (69%) and beef (62%) (Table 4).
+The percentages of resistance to 4–6 antimicrobials were similar (11–15%)
+
+among Salmonella from the four meat products. However, approximately
+28% of chicken, 24% of pork isolates were resistant to ≥9 antimicrobials
+compared to 8% of beef and 7% of lamb isolates (Table 4).
+
+When analyzed by serovar, Salmonella isolates most frequently
+exhibiting resistance to 1–3 antimicrobials were Salmonella II (57%),
+Derby (50%), Enteritidis (44%), Typhimurium (25%) and Agona (22%)
+(Table 5). Isolates displaying resistance to 4–6 antimicrobials were
+Rideau (100%), Virchow (63%), Saintpaul (50%), Agona (44%) and
+Infantis (36%). Those isolates commonly showing resistance to ≥9
+antimicrobials were observed among several serovars including
+Shubra (89%), Indiana (88%) and Typhimurium (27%). Most Salmo-
+nella serovars displayed resistance to examined antimicrobials except
+Othmarschen and Djugu (Table 5).
+
+3.3. Presence of class I integrons and beta-lactamase genes
+
+Class I integrons were identiﬁed in 37 Salmonella isolates (10%).
+Different integron proﬁles including 0.75 kb, 1 kb, 1.2 kb, 1.4 kb,
+1.8 kb and 2 kb integrons were identiﬁed, with the most common
+being a 1.4 kb integron (n=14), followed by a 1.2 kb integron (n=7).
+One isolate yielded two different integrons. Ten Salmonella isolates,
+representing different retail meats, serovars and integrons, were
+selected for DNA sequence analysis (Table 6). Five resistance gene
+cassettes were identiﬁed, including aadA, tetR, dhfr, blaPSE-1, blaDHA-1
+and blaVEB-1, which encode resistance to streptomycin, tetracycline,
+
+Table 3
+Antimicrobial resistance phenotypes of Salmonella isolated from retail meats.
+
+Antimicrobial agent
+
+Ampicillin
+Amoxicillin/clavulanic acid
+Cefoxitin
+Cefoperazone
+Ceftriaxone
+Chloramphenicol
+Tetracycline
+Amikacin
+Kanamycin
+Gentamicin
+Streptomycinb
+Sulfamethoxazole
+Trimethoprim/sulfamethoxazole
+Nalidixic acid
+Ciproﬂoxacin
+
+% Resistance
+Resistant breakpoint a (μg/ml)
+≥32
+≥32
+≥32
+≥64
+≥64
+≥32
+≥16
+≥32
+≥64
+≥16
+≥64
+≥350
+≥8/152
+≥32
+≥4
+
+a MICs (µg/ml) determined via agar dilution in accordance with CLSI.
+b No CLSI breakpoint.
+
+Chicken (n=292)
+
+Pork (n=38)
+
+Beef (n=13)
+
+Lamb (n=16)
+
+Total (n=359)
+
+36
+36
+11
+10
+19
+29
+57
+19
+41
+30
+31
+66
+56
+39
+26
+
+18
+26
+5
+3
+0
+26
+53
+0
+26
+8
+32
+61
+47
+29
+3
+
+15
+0
+0
+0
+0
+0
+46
+8
+0
+0
+0
+92
+77
+8
+0
+
+25
+6
+0
+0
+0
+6
+56
+6
+12
+6
+6
+88
+69
+6
+0
+
+33
+32
+9
+8
+16
+26
+56
+16
+37
+26
+29
+67
+58
+35
+21
+
+66
+
+B. Yang et al. / International Journal of Food Microbiology 141 (2010) 63–72
+
+Table 4
+Multidrug resistance (MDR) observed among Salmonella isolates recovered from retail
+meats.
+
+Table 6
+Representative class I integron-associated resistance genes among Salmonella isolates
+recovered from retail meats (n=10).
+
+Retail meats (no. isolates)
+
+% Resistant to indicated number of antimicrobials
+
+Isolate #
+
+Serovar
+
+Source
+
+Integron (kb)
+
+Gene cassettea
+
+1–3
+
+4–6
+
+7–9
+
+25
+39
+23
+25
+26
+
+11
+11
+15
+13
+11
+
+16
+5
+15
+25
+15
+
+≥9
+
+28
+24
+8
+7
+26
+
+Total
+resistance
+(≥1)
+80
+79
+62
+69
+79
+
+Chicken (n=292)
+Pork (n=38)
+Beef (n=13)
+Lamb (n=16)
+Total (n=359)
+
+trimethoprim and beta-lactamase, respectively. One Enteritidis isolate
+from chicken contained two integrons (1.2/1.8) carrying three
+resistance genes (blaPSE-1/dhfr17-aadA5). Four 1.4 kb integrons carry
+four different resistance genes (Table 5).
+
+Ceftriaxone and/or cefoperazone resistance were observed among
+62 isolates (17.2%) representing 8 different serovars (Kallo, Derby,
+Enteritidis, Tennessee, Djugu, Shubra, Typhimurium and Indiana)
+recovered primarily from chicken. blaTEM was identiﬁed in 32 ceftriaxone
+and/or cefoperazone resistant isolates (51.6%), and blaCMY-2 in 35 resistant
+isolates (56.5%).
+
+3.4. PFGE
+
+A total of 210 Salmonella isolates including serovars Enteritidis,
+Typhimurium, Shubra and Indiana were analyzed for genetic related-
+ness using PFGE with XbaI.
+
+Fifty-two different PFGE patterns were observed among the 109
+isolates of Enteritidis (Fig. 1). Using a cutoff value of 96% similarity, six
+clusters and several
+individual types were observed. The most
+common clusters consisted of 57 and 38 isolates, respectively (data
+not shown). In the ﬁrst cluster, although these isolates were mainly
+recovered from chicken (n=51), the samples were collected from
+different districts (44 from Yangling, 11 from Xian and 2 from Baoji) in
+different times over a year (data not shown). PFGE analysis also
+exhibited good correlations with antimicrobial resistance phenotypes
+(data not shown).
+
+The Typhimurium isolates (n=35) were assigned to 19 different
+PFGE patterns (Fig. 2). Eleven (31.4%) isolates shared one PFGE
+pattern. Using a cutoff value of 95% similarity, six clusters and a few
+individual types were observed. The most common clusters consisted
+of 8 and 15 isolates, respectively. Twenty-eight (80%) isolates in this
+
+Table 5
+Multidrug resistance (MDR) observed among Salmonella serovars obtained from retail
+meats.
+
+Serovars (no. isolates)
+
+% Resistant to indicated number of antimicrobials
+
+1–3
+
+4–6
+
+7–9
+
+Enteritidis (n=113)
+Typhimurium (n=48)
+Shubra (n=36)
+Indiana (n=35)
+Derby (n=34)
+Djugu (n=25)
+Infantis (n=11)
+Agona (n=9)
+Othmarschen (n=8)
+Virchow (n=8)
+Salmonella II (n=7)
+Saintpaul (n=4)
+Rideau (n=4)
+Total (n=359)
+
+44
+25
+0
+0
+50
+8
+18
+22
+0
+0
+57
+0
+0
+25
+
+11
+19
+0
+3
+15
+36
+36
+44
+0
+63
+14
+50
+100
+16
+
+12
+13
+11
+9
+18
+4
+9
+11
+13
+25
+29
+50
+0
+12
+
+≥9
+
+11
+27
+89
+88
+3
+0
+9
+0
+0
+0
+0
+0
+0
+25
+
+Total
+resistance
+(≥1)
+77
+83
+100
+100
+94
+48
+73
+78
+13
+88
+100
+100
+100
+79
+
+1–24
+1–13
+S26
+1–11
+2–43
+2–31
+2–30
+J55
+J91
+S8
+
+Agomal
+Virchow
+Enteritidis
+Virchow
+Indiana
+Galiema
+Galiema
+Shubra
+Shubra
+Enteritidis
+
+Beef
+Pork
+Chicken
+Beef
+Pork
+Chicken
+Chicken
+Chicken
+Chicken
+Chicken
+
+0.75
+1
+1.2
+1.4
+1.4
+1.4
+1.4
+1.8
+1.8
+1.2/1.8
+
+aadA2
+tetR
+blaPSE-1
+aadA1–dhfrI
+aadA2–blaDHA-1
+dhfrV–unknown
+aadA1–blaVEB-1
+dhfrXII–aadA2
+dhfrXII–aadA2
+blaPSE-1/dhfr17–aadA5
+
+a aadA1/aadA2/aadA5 encode resistance to streptomycin/spectinomycin, tetR encode
+resistance to tetracycline, blaPSE-1/blaDHA-1/blaVEB-1 encode resistance to beta-lactam anti-
+biotics, dhfr1/dhfrV/dhfrVII/dhfr17 encode resistance to trimethoprim, unknown is gene
+cassette of unknown function.
+
+serovar recovered from chicken, 4 from pork, 2 from lamb and 1 from
+beef.
+
+The Shubra isolates (n=35) were assigned to 23 different PFGE
+patterns (Fig. 3). Using a cutoff value of 95% similarity, six clusters and
+some individual types were observed. The most common cluster
+consisted of 13 isolates. Thirty-three isolates (94%) in this serovar
+recovered from chicken except 1 from pork and 1 from lamb.
+
+Indiana isolates (n=31) were assigned to 22 different patterns
+(Fig. 4). Unlike the other serovars, no predominant PFGE type was
+found.
+
+4. Discussion
+
+In this study, we screened retail meat products collected from four
+districts of Shaanxi Province in China for the presence of Salmonella,
+and further characterized Salmonella isolates using serotyping,
+antimicrobial susceptibility and PFGE.
+
+The present study 44% of the retail meats and 54% of the chicken
+samples were contaminated with Salmonella, compared to 38%
+reported in Henan Province, a neighbor province of Shaanxi (Zhang
+et al, 2009), 60% in Spain (Carraminana et al., 1997), 61–69% in Canada
+(Lammerding et al., 1988), 69% in Greece (Arvanitidou et al., 1998),
+and 6–35% in the United States (White et al., 2001). However, several
+factors must be taken into account when making such comparisons,
+including differences in country and origin, type of meat samples,
+sampling seasons, slaughterhouse sanitation, and isolation methods.
+Enteritidis was the most common serovar identiﬁed, particularly in
+chicken meats. This serovar was also found to be a predominant serovar
+in poultry products in other survey studies (Arvanitidou et al., 1998;
+Machado and Bernardo, 1990; Plummer et al., 1995; Uyttendaele et al.,
+1998), as well as one of the most common serovars that cause human
+salmonellosis in many countries. Although, to our knowledge, no
+reports on the occurrence of Salmonella serovars isolated from humans
+in Shaanxi Province, Xia (2009) reported that in Henan Province, the
+second most common Salmonella serovar isolated from humans was
+Enteritidis (17%). Data from Asia, Europe and Latin America have
+indicated that Enteritidis is the most common serovar among human
+isolates (Galanis et al., 2006) Other serovars that were repeatedly
+recovered in the present study included Typhimurium, Shubra, Indiana
+and Derby. The ﬁndings were in agreement with those described in
+previous studies showing that Typhimurium, Enteritidis and Derby are
+the most common serovars worldwide, poultry meats and eggs are the
+major reservoir of Enteritidis, whereas Typhimurium is widespread
+(Bangtrakulnonth et al., 2004; Cui et al., 2005; Guard-Petter, 2001;
+Herikstad et al., 2002; Olsen et al., 2001; Xia et al., 2009). Other serovars
+such as Newport, Heidelberg, Weltevreden and Kentucky, that are
+
+B. Yang et al. / International Journal of Food Microbiology 141 (2010) 63–72
+
+67
+
+Fig. 1. Dendrogram of 52 PFGE patterns of 109 Salmonella Enteritidis isolates from retail meats in Shaanxi Province, China.
+
+68
+
+B. Yang et al. / International Journal of Food Microbiology 141 (2010) 63–72
+
+Fig. 2. Dendrogram of PFGE patterns of 35 Salmonella Typhimurium isolates from retail meats in Shaanxi Province, China.
+
+B. Yang et al. / International Journal of Food Microbiology 141 (2010) 63–72
+
+69
+
+Fig. 3. Dendrogram of PFGE patterns of 35 Salmonella Shubra isolates from retail meats in Shaanxi Province, China.
+
+common in many countries, were rarely detected in Shaanxi Province
+(Chen et al., 2004; Galanis et al., 2006; Herikstad et al., 2002).
+
+Antimicrobial resistance in Salmonella has become a signiﬁcant
+public health concern worldwide. Surveillance data demonstrated a
+noticeable increase in overall antimicrobial resistance among salmo-
+
+nellae from 20%–30% in the early 1990s to as high as 70% in some
+countries in 2000s (Su et al., 2004). Our results indicated that only 75
+of 359 (21%) of the Salmonella isolates were susceptible to the
+antimicrobial agents tested, whereas nearly 80% of the isolates were
+resistant to at least one antimicrobial agent, 26% to more than 9
+
+70
+
+B. Yang et al. / International Journal of Food Microbiology 141 (2010) 63–72
+
+Fig. 4. Dendrogram of PFGE patterns of 31 Salmonella Indiana isolates from retail meats in Shaanxi Province, China.
+
+antimicrobials. A high percentage of antimicrobial resistant Salmo-
+nella from retail meats was also reported by several investigators
+(Arvanitidou et al., 1998; Bokanyi et al., 1990; Chen et al., 2004;
+D'Aoust et al., 1992). As animals are a main reservoir of Salmonella and
+the use of antimicrobial in food animals for therapy, prophylaxis and
+growth promotion accelerates the emergence of antimicrobial
+resistant pathogens, it is not surprising that an increased number of
+human salmonellosis cases are caused by foodborne antimicrobial
+resistant Salmonella (Barbosa and Levy, 2000). Of the serovars
+identiﬁed in the present study, Shubra, Indiana, Virchow and Derby
+showed the highest rate of antimicrobial resistance and multidrug
+resistance, whereas Enteritidis was relatively more susceptible to
+antimicrobial agents, which was in agreement with previous
+observations among Salmonella recovered from retail meats and
+food animals (Su et al. 2004; Zhao et al., 2007), but differed to some
+
+reports (Antunes et al., 2003; Chen et al., 2004). Among human
+clinical isolates recovered in China, a recent study reported that 31
+ciproﬂoxacin-resistant clinical Salmonella isolates were also resistant
+to ≥8 other antimicrobial drugs (Cui et al., 2008). In Henan Province,
+54% of human isolates were MDR strains (Xia et al., 2009).
+
+In the present study, resistance to nalidixic acid and ciproﬂoxacin
+was very common (35% and 21%, respectively), particularly among
+isolates recovered from chicken and pork meats. Other reports from
+China and several countries also indicated an increase in ciproﬂoxacin-
+resistant Salmonella (Cailhol et al., 2006; Cui et al., 2008; Lauderdale
+et al., 2006). As infections with ciproﬂoxacin-resistant Salmonellae are
+associated with increased morbidity and mortality, and ciproﬂoxacin-
+resistant Salmonella are usually resistant to multiple drugs (Cui et al.,
+2008), it presents an enormous challenge to the treatment of Salmonella
+infections in humans and animals.
+
+B. Yang et al. / International Journal of Food Microbiology 141 (2010) 63–72
+
+71
+
+Ceftriaxone is another commonly used drug to treat children with
+Salmonella infections, particularly in invasive infections, due to its
+favorable pharmacokinetic properties and low prevalence of resistance
+(White et al., 2001). The increased prevalence of ceftriaxone-resistant
+Salmonella strains in food animals may be related to the veterinary use of
+ceftiofur, an expanded-spectrum cephalosporin used only in veterinary
+medicine (Carattoli et al., 2002). Resistance to ceftriaxone is largely due
+to the AmpC β-lactamase (blaCMY-2 and blaTEM) genes (Chen et al., 2004;
+White et al., 2001). In this study, more than 50% ceftriaxone and/or
+cefoperazone-resistant isolates harbored blaTEM or blaCMY-2. The
+dissemination of Salmonella resistant to multiple drugs,
+including
+cephalosporins, through food has important public health implications.
+Integrons, a mobile DNA element, are well known for their ability to
+transfer resistance and often contain one or more linked antimicrobial-
+resistance genes (Hall, 1997; Hall and Stokes, 1993). Our data showed that
+class I integrons were widely spread in different Salmonella serovars
+recovered from different retail meats. Several serovars including Agona,
+Virchow, Enteritidis, Indiana, Galiema and Shubra contained integrons in
+size from 0.75 kb to 1.8 kb, which harbored aadA2, blaPSE-1, dhfrXII-aadA2
+and tetR, conﬁrming that integrons play an important part in the transfer
+of resistance among bacteria (Cloeckaert et al., 2000; Guerra et al., 2000;
+White et al., 2001; Zhao et al., 2007).
+
+The PFGE results indicated a genetically diverse Salmonella
+population, whereas several indistinguishable PFGE patterns were
+shared among isolates within certain serovars obtained from different
+retail meats. For example, two clusters of 23 and 14 of Enteritidis
+isolates that recovered from different retail meats, different time and
+different districts showed the same PFGE patterns. The majority of
+these isolates exhibited similar resistance proﬁle. Similar results were
+also seen in Typhimurium and Indiana.
+
+In conclusion, our ﬁndings demonstrated that Salmonella contam-
+ination was common in retail meats, and that the Salmonella isolates
+were diverse both phenotypically and genetically. Additionally, many
+Salmonella isolates were resistant to multiple antimicrobials, and
+multidrug resistance was strongly associated with types of serovars.
+Surveillance programs concerning the prevalence of
+foodborne
+pathogens and their antimicrobial resistance and subtyping proﬁles
+are important for conducting epidemiological investigations and for
+monitoring the development and dissemination of antimicrobial
+resistance. Such information is needed for making science based
+public health policy, and developing effective intervention strategies
+including implementation of hazard analysis of critical control point
+programs in food production to ensure the safety of our food supplies.
+
+Acknowledgement
+
+The research work was supported in part by Chang Jiang Scholar
+Program of the Chinese Ministry of Education, and Northwest A&F
+University, Yangling, Shanxi, China.
+
+References
+
+Antunes, P., Reu, C., Sousa, J.C., Peixe, L., Pestana, N., 2003. Incidence of Salmonella from
+poultry products and their susceptibility to antimicrobial agents. International
+Journal of Food Microbiology 82, 97–103.
+
+Arvanitidou, M., Tsakris, A., Soﬁanou, D., Katsouyannopoulos, V., 1998. Antimicrobial
+resistance and R-factor transfer of salmonellae isolated from chicken carcasses in
+Greek hospitals. International journal of food Microbiology 40, 197–201.
+
+Bangtrakulnonth, A., Pornreongwong, S., Pulsrikarn, C., Sawanpanyalert, P., Hendriksen, R.S.,
+Lo Fo Wong, D.M.A., Aarestrup, F.M., 2004. Salmonella serovars from humans and other
+sources in Thailand, 1993–2002. Emerging Infectious Diseases 10, 131–136.
+
+Barbosa, T.M., Levy, S.B., 2000. The impact of antibiotic use on resistance development
+
+and persistence. Drug resistance updates 3, 303–311.
+
+Bokanyi, R.P., Stephens,
+
+J.F., Foster, D.N., 1990.
+
+Isolation and characterization of
+
+Salmonella from broiler carcasses or parts. Poultry Science 69, 592–598.
+
+Cailhol, J., Lailler, R., Bouvet, P., Vieille, S.L., Gauchard, F., Sanders, P., Brisabois, A., 2006.
+Trends in antimicrobial resistance phenotypes in non-typhoid Salmonella from
+human and poultry origins in France. Epidemiology and Infection 134, 171–178.
+
+Carattoli, A., Tosini, F., Giles, W.P., Rupp, M.E., Hinrichs, S.H., Angulo, F.J., Barrett, T.J., Fey,
+P.D., 2002. Characterization of plasmids carrying CMY-2 from expanded-spectrum
+cephalosporin-resistant Salmonella strains isolated in the United States between
+1996 and 1998. Antimicrobial Agents and Chemotherapy 46 (5), 1269–1272.
+
+Carraminana, J.J., Yanguela, J., Blanco, D., Rota, C., Agustin, A.I., Arino, A., Herrera, A.,
+1997. Salmonella incidence and distribution of serotypes throughout processing in
+a Spanish poultry slaughterhouse. Journal of Food Protection 60, 1312–1317.
+
+Chen, S., Zhao, S., White, D.G., Schroeder, C.M., Ran, L., Yang, H., McDermott, P.F., Ayers, S.,
+Meng, J., 2004. Characterization of multiple-antimicrobial-resistant Salmonella serovars
+isolated from retail meats. Applied and Environmental Microbiology 70 (1), 1–7.
+
+Clinical and Laboratory Standards Institute, 2003. Methods for dilution antimicrobial
+susceptibility tests for bacteria that grow aerobically, Approved standard, 2nd ed.
+CLSI document M7-A2. Clinical and Laboratory Standards Institute, Wayne, PA.
+
+Cloeckaert, A., Boumedine, K.S., Flaujac, G., Imberechts, H., D'Hooghe, I., Chaslus-Dancla,
+E., 2000. Occurrence of a Salmonella enterica serovar typhimurium DT104-like
+antibiotic resistance gene cluster including the ﬂoR gene in S. enterica serovar
+Agona. Antimicrobial Agents Chemotherapy 44, 1359–1361.
+
+Cui, S., Ge, B., Zheng, J., Meng, J., 2005. Prevalence and antimicrobial resistance of
+Campylobacter spp. and Salmonella serovars in organic chickens from Maryland
+retail stores. Applied and Environmental Microbiology 71 (7), 4108–4111.
+
+Cui, S., Zheng, J., Meng, J., 2006. An improved method for rapid isolation of Salmonella
+
+against proteus in chicken carcasses. Journal of food safety 26, 49–61.
+
+Cui, S., Li, J., Sun, Z., Hu, C., Jin, S., Guo, Y., Ran, L., Ma, Y., 2008. Ciproﬂoxacin-resistant
+Salmonella enterica serotype Typhimurium, China. Emerging infection Disease 14
+(3), 493–495.
+
+D'Aoust, J.Y., Sewell, A.M., Daley, E., Greco, P., 1992. Antibiotic resistance of agricultural and
+foodborne Salmonella isolates in Canada: 1986–1989. Journal of Food Protection 55,
+428–434.
+
+Fey, F.D., Safranek, T.J., Rupp, M.E., Dunne, E.F., Ribot, E., Iwen, P.C., Bradford, P.A.,
+Angulo, F.J., Hinrichs, S.H., 2000. Ceftriaxone-resistant Salmonella infection
+acquired by a child from cattle. The new England Journal of Medicine 342 (17),
+1242–1249.
+
+Galanis, E., Lo Fo Wong, D., Patrick, M.E., Binsztein, N., Cieslik, A., Chalermachaikit, T., Aidara-
+Kane, A., Ellis, A., Angulo, F.J., Wegener, H.C., 2006. Web-based surveillance and global
+Salmonella distribution, 2000–2002. Emerging infectious Diseases 12 (3), 381–388.
+
+Guard-Petter, J., 2001. The chicken, the egg and Salmonella Enteritidis. Environmental
+
+Microbiology 3, 421–430.
+
+Guerra, B., Soto, S., Cal, S., Mendoza, M.C., 2000. Antimicrobial resistance and spread of
+class I integrons among Salmonella serotypes. Antimicrobial Agents Chemotherapy
+44, 2166–2169.
+
+Hall, R.M., 1997. Mobile gene cassettes and integrons: moving antibiotic resistance
+
+genes in gram-negative bacteria. Ciba Foundation Symposium 207, 192–202.
+
+Hall, R.M., Stokes, H.W., 1993. Integrons: novel DNA elements which capture gene by
+
+site-speciﬁc recombination. Genetica 90, 115–132.
+
+Hasman, H., Mevius, D., Veldman, K., Olesen, I., Aarestrup, F.M., 2005. β-Lactamases among
+extended-spectrum beta-lactamase (ESBL)-resistant Salmonella from poultry, poultry
+products and human patients in the Netherlands. Journal of Antimicrobial Chemo-
+therapy 56, 115–121.
+
+Herikstad, H., Motarjemi, Y., Tauxe, R.V., 2002. Salmonella surveillance: a global survey
+
+of public health serotyping. Epidemiology and Infecion 129, 1–8.
+
+Hoge, C.W., Gambel, J.M., Srijan, A., Pitarangsi, C., Echeverria, P., 1998. Trends in
+antibiotic resistance among diarrheal pathogens isolated in Thailand over 15 years.
+Clinical Infectious Disease 26, 341–345.
+
+Jones, Y.E., Chappell, S., Mclaren, I.M., Davis, R.H., Wray, C., 2002. Antimicrobial
+resistance in Salmonella isolated from animals and their environment in England
+and Wales from 1988 to 1999. The Veterinary Record 150, 649–654.
+
+Lammerding, A.M., Garcia, M.M., Mann, E.D., Robinson, Y., Dorward, W.J., Truscott,
+R.B., Tittiger, F., 1988. Prevalence of Salmonella and thermophilic Campylobac-
+ter in fresh pork, beef, veal and poultry in Canada. Journal of Food Protection
+51, 47–52.
+
+Lauderdale, T.L., Aarestrup, F.M., Chen, P., Lai, J., Wang, H., Shiau, Y., Huang, I., Hung, C.,
+2006. Multidrug resistance among different serotypes of clinical Salmonella isolates
+in Taiwan. Diagnostic Microbiology & Infectious Disease 59, 149–155.
+
+Lynch, M., Painter, J., Woodruff, R., Braden, C., 2006. Surveillance for foodborne-disease
+outbreaks — United States, 1998–2002. Surveillance Summaries 55 (SS10), 1–34.
+Machado, J., Bernardo, F., 1990. Prevalence of Salmonella in chicken carcasses in
+
+Portugal. Journal of Applied Bacteriology 69, 477–480.
+
+Magistrali, C., Dionisi, A.M., Curtis, P.D., Cucco, L., Vischi, O., Scuota, S., Zicavo, A., Pezzotti,
+G., 2008. Contamination of Salmonella spp. in a pig ﬁnishing herd, from the arrival of
+the animals to the slaughterhouse. Research in Veterinary Science 85, 204–207.
+
+Olsen, S.J., Bishop, R., Brenner, F.W., Roels, T.H., Bean, N., Tauxe, R.V., Slutsker, L., 2001.
+The changing epidemiology of Salmonella: trends in serotypes isolated from
+humans in the United States, 1987–1997. The Journal of Infectious Disease 183,
+753–761.
+
+Pan, Z., Wang, X., Zhang, X., Geng, S., Chen, X., Pan, W., Cong, Q., Liu, X., Jiao, X., Liu, X., 2009.
+Changes in antimicrobial resistance among Salmonella enterica subspecies enterica
+serovar Pollorum isolates in China from 1962 to 2007. Veterinary Microbiology 136,
+387–392.
+
+Plummer, R.A.S., Blissett, S.J., Dodd, C.E.R., 1995. Salmonella contamination of retail
+
+chicken products sold in the UK. Journal of Food Protection 58, 843–846.
+
+Ribot, E.M., Fair, M.A., Gautom, R., Cameron, D.N., Hunter, S.B., Swaminathan, B., Barrett, T.J.,
+2006. Standardization of pulsed-ﬁeld gel electrophoresis protocols for the subtying of
+Escherichia coli O157:H7, Salmonella, and Shigella for PulseNet. Foodborne Pathogens
+and Disease 3, 59–67.
+
+Su, L., Chiu, C., Chu, C., T. Ou, J., 2004. Antimicrobial resistance in nontyphoidal
+
+Salmonella serotypes: a global challenge. Antimicrobial Resistance 39, 546–551.
+
+72
+
+B. Yang et al. / International Journal of Food Microbiology 141 (2010) 63–72
+
+Uyttendaele, M.R., Debevere, J.M., Lips, R.M., Neyts, K.D., 1998. Prevalence of Salmonella
+in poultry carcasses and their products in Belgium. International Journal of Food
+Microbiology 40, 1–8.
+
+Van, D., Wannet, E.W.J., van Houwers, D.J., Pelt, W., 2003. Antimicrobial susceptibilities
+of Salmonella strains isolated from humans, cattle, pigs and chickens in the
+Netherlands from 1984 to 2001. Journal of Clinical Microbiology 41, 3574–3578.
+
+Wang, J., Zheng, R., Wang, J., 2007. Risk assessment of Salmonella in animal derived
+
+food. Chinese journal of animal quarantine 24 (4), 23–25.
+
+White, D.G., Zhao, S., Sudler, R., Ayers, S., Friedman, S., Chen, S., McDermott, P.F.,
+McDermott, S., Wagner, D.D., Meng, J., 2001. The isolation of antibiotic-resistant
+Salmonella from retail ground meats. The New England Journal of Medicine 345,
+1147–1154.
+
+Xia, S., Hendriksen, R.S., Xie, Z., Huang, L., Zhang, J., Guo, W., Xu, B., Ran, L., Aarestrup, F.M.,
+2009. Molecular characterization and antimicrobial susceptibility of Salmonella
+
+isolates from infections in humans in Henan province, China. Journal of clinical
+microbiology 47 (2), 401–409.
+
+Yang, B., Zheng,
+
+J., Brown, E.W., Zhao, S., Meng,
+
+J., 2009. Characterisation of
+antimicrobial resistance associated integrons and mismatch repair gene muta-
+tions in Salmonella serotypes. International Journal of Antimicrobial Agents 33,
+120–124.
+
+Zhang, X., Liao, X., Hao, Z., Hu, D., Chuan, H., Zhang, G., 2009. Pro-active monitoring and
+establishment of DNA ﬁngerprint database of Salmonella in raw mea t food in
+Henan Province during 2006–2007. Chinese Journal of Health Laboratory
+Technology 19 (7), 1545–1548.
+
+Zhao, S., McDermott, P.F., White, D.G., Qaiyumi, S., Friedman, S.L., Abbott, J.W., Glenn, A.,
+Ayers, S.L., Post, K.W., Fales, W.H., Wilson, R.B., Reggiardo, C., Walker, R.D., 2007.
+Characterization of multidrug resistant Salmonella recovered from diseased
+animals. Veterinary Microbiology 123, 122–132.
+
+

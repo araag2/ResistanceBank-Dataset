@@ -1,0 +1,1086 @@
+ORIGINAL RESEARCH
+published: 04 July 2019
+doi: 10.3389/fmicb.2019.01513
+
+Antibiotic Resistance Profiles of 
+Salmonella Recovered From 
+Finishing Pigs and Slaughter 
+Facilities in Henan, China
+
+Edited by: 
+Om V. Singh,  
+TSG Consulting,  
+Washington, DC, United States
+
+Reviewed by: 
+Xiang Yang,  
+University of California,  
+Davis, United States
+Burkhard Malorny,  
+Federal Institute for Risk  
+Assessment (BfR), Germany
+Silvia Bonardi,  
+University of Parma, Italy
+
+*Correspondence: 
+Min Yue  
+myue@zju.edu.cn 
+Qigai He 
+he628@mail.hzau.edu.cn
+
+†These authors have contributed 
+equally to this work
+
+Specialty section: 
+This article was submitted to  
+Food Microbiology,  
+a section of the journal  
+Frontiers in Microbiology
+
+Received: 22 January 2019
+Accepted: 17 June 2019
+Published: 04 July 2019
+
+Citation:
+Jiang Z, Paudyal N, Xu Y, Deng T, 
+ Li F, Pan H, Peng X, He Q and  
+Yue M (2019) Antibiotic Resistance 
+Profiles of Salmonella Recovered 
+From Finishing Pigs and Slaughter 
+Facilities in Henan, China.
+Front. Microbiol. 10:1513.
+doi: 10.3389/fmicb.2019.01513
+
+Zenghai Jiang1,2†, Narayan Paudyal  3,4 †, Yaohui Xu  2, Tongwei Deng  2, Fang Li  3, Hang Pan3, 
+Xianqi Peng 3, Qigai He1 * and Min Yue 3,5 *
+
+1Division of Animal Infectious Diseases, State Key Laboratory of Agricultural Microbiology, College of Animal Sciences and 
+Veterinary Medicine, Huazhong Agricultural University, Wuhan, China, 2College of Veterinary Medicine, Henan University of 
+Animal Husbandry and Economy, Zhengzhou, China, 3College of Animal Sciences, Institute of Preventive Veterinary Medicine, 
+Zhejiang University, Hangzhou, China, 4Animal Health Research Division (AHRD), Nepal Agricultural Research Council (NARC), 
+Kathmandu, Nepal, 5Zhejiang Provincial Key Laboratory of Preventive Veterinary Medicine, Hangzhou, China
+
+With the increase in commercial pig farming, there is a simultaneous increase in the use 
+of antibiotics for prophylaxis as well as therapeutics in China. In this study, we evaluated 
+the prevalence and resistance diversity of salmonellae isolated from feces of asymptomatic, 
+live and slaughtered pigs. We analyzed 1,732 pig fecal samples collected over 8 months, 
+at Henan province of China. The salmonellae were isolated and identified by PCR. They 
+were serotyped using commercial antisera and assayed for the MIC of 16 antibiotics by 
+broth microdilution method. The average prevalence of Salmonella was 19.4% (95% CI: 
+17.6–21.4). Large farms (herd size ≥1,000) were found to have a higher prevalence as 
+compared  to  the  small-  and  medium-scale  farms  (p  <  0.0001).  The  prevalence  of 
+salmonellae in samples collected from the farms [11.77% (95% CI: 10.1–13.6)] and from 
+the slaughterhouse [45.23% (95% CI: 40.3–50.30)] was statistically different (p < 0.0001). 
+Uncommon serovars of Salmonella such as Agama and common serovars such as Derby 
+and Typhimurium were isolated. High resistance (>80%) was recorded toward ciprofloxacin 
+(100%), tetracycline (99.4%), doxycycline (97%), sulfamethoxazole (85.8%), ampicillin 
+(81.6%), and amoxicillin (80.4%). Multidrug resistance (MDR) to four, five, and seven 
+classes of antibiotics was recorded to be approximately 25% in the most prevalent serovar 
+like Derby. We conclude that the presence of alarmingly high resistance, toward the critical 
+antibiotics such as fluoroquinolones and beta-lactams, in large swine farms in China, 
+should draw public attention. These results highlight the need for continued antibiotic 
+stewardship programs for judicious use of critical antibiotics in animal health as well as 
+for producing safe pork.
+
+Keywords: Salmonella, multidrug resistance, China, quinolones, beta-lactamase, prevalence
+
+Frontiers in Microbiology | www.frontiersin.org 
+
+1 
+
+July 2019 | Volume 10 | Article 1513
+
+INTRODUCTION
+
+Fuelled  by  the  rapid  socio-economic  growth  and  urbanization 
+of China, the average intake of meat, especially pork, increased 
+from  37.1  g/day  in  1992  to  64.3  g/day  per  person  in  2012 
+(He  et  al.,  2016).  With  the  population  growth  projected  to 
+reach  1.4  billion  in  2020,  the  consumption  of  pork  is  also 
+expected  to  surpass  100  g/day  per  person  by  2020  (CIIN, 
+2018a).  In  2017,  Henan  province  alone  contributed  over  65 
+million  live  pigs,  approximately  20%  of  the  whole  national 
+consumption  (CIIN,  2018b).  The  boost  in  pig  production  and 
+consumption  in  China  has  indirectly  increased  the  risk  of 
+foodborne  zoonoses,  including  salmonellosis.  Previous  studies 
+have  shown  that  Salmonella  is  one  of  the  leading  foodborne 
+pathogens  on  food  commodities,  meat  in  particular,  and  play 
+a  significant  role  for  causing  human  diarrhea  in  China  and 
+elsewhere  (Pan  et  al.,  2018,  2019;  Paudyal  et  al.,  2018).
+
+Routine  surveillance  of  potential  hazards  is  essential  to 
+minimize  the  risks  of  disease  epidemics  as  well  as  other 
+potential  threats  such  as  pathogens  and  antibiotic  resistance 
+(AR).  The  finishing  herds  usually  ready  for  slaughter  require 
+special  attention  in  the  surveillance  purpose  because  they 
+could  disseminate  the  pathogens,  if  any  they  carry  in  the 
+gut.  Studies  in  other  parts  of  the  world  have  investigated 
+the carriage of salmonellae in apparently healthy, asymptomatic 
+pigs  in  the  finishing  herds  (Baptista  et  al.,  2009,  2010,  2011; 
+Wilhelm  et  al.,  2012).  There  are  numerous  studies  about 
+antibiotic-resistant salmonellae in pigs in China. The prevalence 
+of  AR  reported  in  these  studies  varies  greatly  but  generally 
+is  reported  toward  critical  drugs,  including  quinolones  and 
+cefotaxime  (Bai  et  al.,  2016),  tetracyclines  (Jiu  et  al.,  2017), 
+quinolones, and cephalosporins (Jiang et al., 2014) or toward 
+trimethoprim-sulfamethoxazole,  ampicillin,  and  tetracycline 
+(Su  et  al.,  2018).
+
+Pathogens  and  AR  can  arise  from  multiple  sources,  for 
+example,  the  endemic  pathogens  circulating  in  the  farm  or 
+pathogens  introduced  through  the  feed,  water,  workers,  and 
+equipment.  Slaughterhouse  is  one  of  the  most  important  risk 
+factors  that  can  act  as  a  mixing  vessel  for  any  kinds  and 
+numbers of pathogens including Salmonella present in animals 
+collected  from  different  unrelated  farms.  Under  favorable 
+circumstances,  such  pathogens  can  be  disseminated  via  the 
+meat  to  the  consumers.
+
+topics  are  essential 
+
+Previous  studies  on  similar 
+
+for 
+understanding  the  scope  and  magnitude  of  salmonellae 
+prevalence,  as  well  as  the  corresponding  AR  crisis  in  China. 
+However,  most  of  those  studies  have  focused  on  clinically 
+diseased  pigs  or  retail-meat/pork.  The  overall  burden  of 
+foodborne pathogens, including Salmonella, plays a significant 
+threat  to  food  safety  and  public  health.  Because  Henan 
+contributes a major segment of pork production in the Chinese 
+national  scenario,  it  is  necessary  to  assess  and  inform  the 
+stakeholders on the possible prevalence of zoonotic pathogens 
+like  Salmonella  recovered  from  swine  finishing  herds  and 
+slaughter facility. Additionally, co-existence of different models 
+of  farming  systems,  for  example,  small  households  manual 
+farms  with  less  than  100  animals  per  farm  to  large  intensive 
+
+automated  commercial  farms  with  more  than  10,000  animals 
+per  farm,  demand  different  strategies  to  prevent  and  curtail 
+the  prevalence  of  pathogens  like  Salmonella  and  AR.  With 
+an  aim  of  minimizing  these  knowledge  gaps,  we  examined 
+the  distribution,  prevalence,  and  AR  patterns  of  Salmonella 
+enterica  recovered  from  farms,  and  slaughterhouses  in  Henan 
+province,  one  of  the  Chinese  leading  pig/pork  producers.
+
+MATERIALS  AND  METHODS
+
+to  estimate 
+
+This  study  was  carried  out  in  a  cross-sectional  observational 
+design, 
+the  prevalence  of  various  serovars  
+of salmonellae in pig feces. The quantification of the minimum 
+inhibitory  concentration  (MIC)  of  16  molecules  belonging  
+to  nine  different 
+agents  was 
+conducted  simultaneously.
+
+classes  of 
+
+antibiotic 
+
+Sample Collection
+From  March  2017  to  November  2017,  a  total  of  1,732  fecal 
+samples (approximately 100 g per animal) were collected from 
+randomly  selected  36  small-  and  medium-scale 
+farms 
+(SMS-farms,  housing  <1,000  head  of  pigs),  nine  large-scale 
+farms (housing ≥1,000 head of pigs), and two pig slaughtering 
+facilities  at  Henan  province  in  China  (slaughtering  capacity 
+of  3,000  heads  of  pigs/day).  In  pig  farms,  1,334  fresh  fecal 
+samples (499 from large-scale farms and 835 from SMS-farms) 
+were collected from apparently healthy or asymptomatic finishing 
+pigs  by  non-invasive  sampling  technique.  In  addition,  a  total 
+of  398  rectal 
+two 
+slaughterhouse facilities. The samples were collected aseptically 
+and  processed  on  the  same  day  of  collection.
+
+fecal  samples  were  collected 
+
+from 
+
+Isolation and Identification
+The primary culture and isolation of the organism were done 
+according  to  the  protocol  recommended  by  the  World 
+Organization  for  Animal  Health  Terrestrial  Manual  (OIE, 
+2016).  This  method  consists  of  pre-enrichment  in  buffered 
+peptone  water  (BPW)  followed  by  enrichment  in  modified 
+semisolid Rappaport Vassiliadis (MSRV) plate and final isolation 
+on xylose lysine deoxycholate (XLD) agar plate. The obtained 
+isolates  were  then  confirmed  by  polymerase  chain  reaction 
+(PCR).  To  elaborate,  10  g  of  feces  were  added  to  90  ml  of 
+BPW  and  incubated  at  37°C  for  18–20  h.  Three  hundred 
+microliters  of  thus  incubated  BPW  was  transferred  to  MSRV 
+semisolid  agar  plate  and  incubated  at  41.5°C  for  24  h.  An 
+opaque  halo  in  the  MSRV  medium  is  indicative  of  growth. 
+A  10  μl  loopful  of  the  bacterial  growth  from  MRSV  medium 
+was  transferred  to  XLD  agar  plates  using  disposable  sterile 
+inoculating  loops  and  these  plates  were  incubated  further  for 
+18–20 h at 37°C. Typical round red colonies with black center 
+on  XLD  media  were  considered  presumptive  of  salmonellae. 
+Other  variant  forms  such  as  transparent  single  colonies, 
+transparent  pink  colonies  or  transparent  colorless  colonies 
+were  sub-cultured  on  Brilliant  Green  Agar  plates  for  two 
+more  times  until  they  were  declared  negative  and  discarded. 
+
+Frontiers in Microbiology | www.frontiersin.org 
+
+2 
+
+July 2019 | Volume 10 | Article 1513
+
+Jiang et al. Multidrug Resistant Salmonella in HenanWe  picked  up  three  isolated  pure  colonies  for  each  sample 
+and  sub-cultured  them  for  any  mixed  populations.  Upon 
+obtaining  homogeneous  colonies  in  all  the  three  plates,  only 
+one  pure  isolated  colony  from  the  plate  number  one,  was 
+taken  and  purified  further  with  one  more  passage  in  XLD 
+plates.  The  pure  colonies  were  then  seeded  in  Luria-Bertani 
+(LB)  broth  for  serotyping  and  DNA  extraction  by  boiling 
+method.  PCR  using  the  primers  for  amplification  of  the 
+enterotoxin  stn  gene  for  the  confirmation  of  the  Salmonella 
+was  performed  as  recommended  (Zhu  et  al.,  2015).
+
+Serotyping
+The  PCR  confirmed  salmonellae  were  serotyped  according  to 
+White-Kauffmann-Le  Minor  scheme  by  slide  agglutination  to 
+define  O  and  H  antigens  using  commercial  antisera  (S  &  A 
+Reagents Lab, Bangkok, Thailand). Strains that did not express 
+phase  2  flagellar  antigen  even  after  three  attempts  of  phase 
+inversion  were  considered  monophasic.
+
+Antibiotic Susceptibility Test
+The  Salmonella  isolates  were  subjected  to  antibiotic  MIC  assay 
+using the broth microdilution method following the recommended 
+procedure (CLSI, 2012). Sixteen different molecules of antibiotics 
+belonging  to  nine  classes  were  used  for  the  MIC  assay.  The 
+cutoff  values  recommended  by  CLSI  (CLSI,  2016)  except  for 
+enrofloxacin  (Hao  et  al.,  2013)  and  colistin  (EUCAST,  2019) 
+were  used  for  the  categorization  of  the  results  (Figure  1).  The 
+intermediate  category  was  merged  with  the  resistant  ones  for 
+the  analysis  of  our  data.  The  classes  of  antibiotics  and  the 
+MIC range (mg/L) used in our assay included penicillin (ampicillin 
+or AMP, 0.5–64); beta-lactams (amoxicillin or AMC, 0.25–128); 
+cephems  (cefotaxime  or  TAX,  0.125–128;  ceftriaxone  or  CRO, 
+0.125–128);  aminoglycosides  (gentamicin  or  GEN,  0.125–128; 
+kanamycin  or  KAN  1–128;  streptomycin  or  STR,  1–128); 
+
+tetracyclines  (tetracycline  or  TET,  0.25–128;  doxycycline  or 
+DOX,  0.25–128);  quinolones  (ciprofloxacin  or  CIP,  0.06–16; 
+enrofloxacin  or  ENR,  0.06–16);  sulphonamides  (cotrimoxazole 
+or COT, 1–512; sulfamethoxazole or SMX, 8–1,024); polypeptide 
+(colistin  or  CTE,  0.125–4);  and  phenicols  (chloramphenicol  or 
+CHL,  0.5–128;  florfenicol  or  FLO,  0.5–128).
+
+Data Analysis
+The  obtained  numerical  data  were  analyzed  using  Student’s 
+t-test  and  ANOVA  in  GraphPad  Prism  vs  7  for  Windows 
+platform.  The  alpha  (p)  level  of  less  than  0.05  was  considered 
+significant  and  they  are  given  as  exact  values.  The  difference 
+in  the  prevalence  of  the  two  types  of  farms  (SMS-farms  and 
+L-farms) was compared using a two-sample independent t-test. 
+A  Chi-square  test  was  used  to  compare  the  prevalence  among 
+the L-farms, SMS-farms, and the slaughterhouse. The difference 
+in the cumulative prevalence of resistance among the salmonellae, 
+isolated from L-farms, SMS-farms, and the slaughterhouse with 
+respect  to  the  individual  antibiotic  agent  was  compared  using 
+two-way  ordinary  ANOVA.
+
+RESULTS
+
+Prevalence and Serovar Distribution
+During the sampling period of 8 months (March to November 
+2017),  a  total  of  1,732  fecal  samples  (398  from  the  rectum  of 
+slaughtered  pigs  and  1,334  from  live  pigs)  were  collected  and 
+analyzed.  The  spatial  distribution  of  these  sampling  sites  is 
+shown  in  the  geographical  map  of  Henan  in  Figure  2.  This 
+distribution  shows  that  our  sampling  frame  covered  a  larger 
+geographical  area  within  Henan;  hence,  we  believe  that  these 
+results  are  representative  of  the  total  population.  A  total  of 
+337 samples (180 rectal samples collected at the slaughterhouse, 
+
+FIGURE 1  |  The distribution of the various minimum inhibitory concentration (MIC) levels of the Salmonella against 16 antibiotics. The names of the antibiotics 
+(second column) are abbreviated as ampicillin (AMP), amoxicillin (AMC), cefotaxime (TAX), ceftriaxone (CRO), gentamicin (GEN), kanamycin (KAN), streptomycin 
+(STR), tetracycline (TET), doxycycline (DOX), ciprofloxacin (CIP), enrofloxacin (ENR), sulfa-trimethoprim (COT), sulfamethoxazole (SMX), colistin (CTE), 
+chloramphenicol (CHL), and florfenicol (FLO). The third column shows the average resistance (in percentage); the second row is the range of the MIC tested; and the 
+values in each cell show the percentage of strains in that particular MIC dilution level. The vertical bar indicates the cutoff level of the minimum inhibitory 
+concentration for each antibiotic at the highest value of that particular cell’s dilution for susceptibility (equal to or less than) and resistance (greater than). For the sake 
+of clarity and facilitate analysis, the intermediate category was merged with the resistant.
+
+Frontiers in Microbiology | www.frontiersin.org 
+
+3 
+
+July 2019 | Volume 10 | Article 1513
+
+Jiang et al. Multidrug Resistant Salmonella in Henansample 
+
+types.  Among 
+
+samples, while serovars like Agama and Agona, were isolated 
+only from the farm samples. Serovars Bovismorbificans, Derby, 
+Emek,  Newlands,  Rissen,  and  Typhimurium  were  isolated 
+from  both 
+total  positive  
+isolates  (n  =  337),  serovar  Derby  was  the  most  prevalent 
+(26.1%,  n  =  88)  in  the  samples  from  the  slaughterhouse, 
+Typhimurium  was  more  prevalent  (16%,  n  =  54)  in  the 
+farms’  samples.  The  spatial  (farms  and  slaughterhouses) 
+variation  in  the  distribution  of  prevalence  of  these  serovars 
+is  given  in  Figure  3A.
+
+the 
+
+Antibiotic Resistance and Multidrug 
+Resistance Pattern
+Broth microdilution MIC assay was performed for 16 antibiotic 
+agents  of  nine  different  classes.  The  prevalence  of  resistance 
+among  Salmonella  isolates  against  the  different  classes  of 
+antibiotics  is  shown  in  Figure  3B.  Notable  was  the  presence 
+of high resistance toward some clinically important antibiotics 
+such  as  fluoroquinolones  and  beta-lactams.  Low  resistance 
+rates  (<3%)  against  cephems  and  colistin  were  recorded.  The 
+overall  distribution  of  the  MIC  values  for  these  antibiotics  is 
+shown  in  the  squashtogram  in  Figure  1.  The  results  showed 
+that  this  difference  in  the  overall  average  resistance  among 
+the sampling sites (L-farms, SMS-farms or SH) was statistically 
+significant  (p  =  0.0128),  whereas  the  difference  in  resistance 
+to individual antibiotic agents was statistically highly significant, 
+p  <  0.0001  (Figure  4).
+
+The  resistance  among  the  serovars 
+
+isolated  from  the 
+slaughterhouse  samples  was  compared  for  further  analysis.  It 
+was  seen  that  while  the  resistance  among  the  serovars  was 
+statistically  significant  (p  =  0.001),  the  difference  among  the 
+antibiotics  was  highly  significant  (p  <  0.0001)  (Figure  5A). 
+When the resistance between two types of farms were compared, 
+variation  in  the  resistance  among  the  serovars  was  statistically 
+non-significant  (p  =  0.2984),  whereas  the  variation  between 
+the  individual  antibiotics  was  statistically  highly  significant 
+(p  <  0.0001)  (Figure  5B).
+
+The  tetra-,  penta-,  and  hepta-drug  resistance  patterns  were 
+analyzed  for  the  isolates  shown  in  Figure  6A.  Tetra-resistance 
+pattern  (ASSuT,  i.e.,  resistance  to  ampicillin,  streptomycin, 
+sulfamethoxazole,  and  tetracycline)  was  the  most  frequently 
+(maximum  of  25.8%  for  Derby)  seen  among  the  serovars. 
+Penta-drug 
+i.e.,  ASSuT  with 
+chloramphenicol) was highest (23.4%) for serovar Derby. Hepta-
+drug resistance (i.e., ACSSuT with amoxicillin and ceftriaxone) 
+was  recorded  only  in  serovar  Typhimurium  (1.8%).
+
+resistance 
+
+(ACSSuT, 
+
+The  multidrug  resistance  (MDR)  patterns  were  also 
+compared  in  relation  to  the  origin  of  the  isolates  (L-farms, 
+SMS-farms,  and  slaughterhouses).  The  tetra-  and  penta-drug 
+resistance  patterns  were  high  (>50%) 
+for 
+Typhimurium  and  high  (43%)  in  SMS-farms  for  Derby. 
+Uncommon serovars like Agama (only on L-farms) and Emek 
+(only  on  SMS-farms)  were  100%  MDR  (Figure  6B).  The 
+prevalence  of  tetra-  and  penta-resistance  patterns  in  the 
+serovars  isolated  from  slaughterhouse  was  more  than  40% 
+except  in  serovar  Rissen  (Figure  6C).
+
+in  L-farms 
+
+FIGURE 2  |  Geographic distribution of the sampling sites across different 
+administrative divisions (or cities) in Henan, China. Sampling sites are denoted 
+as slaughterhouse (SH), large farms (L), and small and medium enterprise 
+farms (SME). The blue line denotes the Huang He river, flowing through the 
+province to the east into the Bohai Sea. The arrow head points to the 
+geographical north. This map is not drawn to scale.
+
+87  samples  from  large-scale  farms,  and  70  from  SMS-farms’ 
+fresh fecal samples) tested positive for Salmonella. The average 
+prevalence  of  Salmonella  was  19.4%  (95%  CI:  17.6–21.4)  in 
+this  study  (337  positives  out  of  1,732  samples,  Table  1).  The 
+isolates  belonged  to  10  different  types  of  serovars.
+
+The  difference  in  the  prevalence  of  salmonellae  isolates 
+from  the  fecal  samples  collected  at  the  farms  [11.77,  95% 
+CI:  10.1–13.6  (n  =  157,  N  =  1,334)]  and  at  slaughterhouse 
+[45.23 95% CI: 40.3–50.30 (n = 180, N = 398)] was compared 
+using the two-sample independent t-test. The analysis showed 
+that  the  higher  prevalence  in  slaughterhouse  samples  was 
+statistically  significant  (p  <  0.0001).  Among  the  45  farms 
+included  in  the  study,  nine  farms  were  large  commercial 
+farms  (L-farms)  with  ≥1,000  heads  of  live  pigs  while  36 
+were small- and medium-scale farms (SMS-farms) with <1,000 
+heads  of  live  pigs.  The  prevalence  of  salmonellae  in  L-farms 
+was  17.43%  (95%  CI:  14.2–21.1),  whereas  in  SMS-farms,  it 
+was  8.38%  (95%  CI:  6.6–10.5).  The  results  showed  that  the 
+higher prevalence in L-farms is statistically highly significant 
+(p  <  0.0001).  The  comparison  of  prevalence  among  the 
+L-farms,  SMS-farms,  and  the  slaughterhouses  revealed  that 
+the  difference  in  prevalence  among  these  was  statistically 
+significant  (p  <  0.0001).
+
+We  differentiated  10  various  serotypes  of  salmonellae  in 
+the  total  337  positive  isolates.  The  distribution  of  these 
+serovars at different sampling sites is given in Table 1. Among 
+the  total  samples  collected  (n  =  1,732),  Derby  was  the  most 
+prevalent  serovar  (8.14%,  n  =  141)  while  the  least  prevalent 
+one  was  serovar  Agama  (0.06%,  n  =  1).  Serovars  such  as 
+Chester and London were isolated only from the slaughterhouse 
+
+Frontiers in Microbiology | www.frontiersin.org 
+
+4 
+
+July 2019 | Volume 10 | Article 1513
+
+Jiang et al. Multidrug Resistant Salmonella in HenanTABLE 1  |  Distribution of samples and various serovars at different sampling sites.
+
+Total samples
+
+Serovars
+
+Positive samples
+
+%Prev. (FL)
+
+%Prev. (SL)
+
+%Prev. (Ov.)
+
+Agama
+Agona
+Derby
+Newlands
+Rissen
+Typhimurium
+
+Bovismorbificans
+Derby
+Emek
+Newlands
+Rissen
+Typhimurium
+
+Bovismorbificans
+Chester
+Derby
+Emek
+London
+Newlands
+Rissen
+Typhimurium
+
+0.20
+0.40
+4.81
+0.20
+4.81
+7.01
+17.43
+1.08
+3.47
+0.24
+0.48
+0.84
+2.28
+8.38
+
+0.07
+0.15
+1.80
+0.07
+1.80
+2.62
+6.52
+0.67
+2.17
+0.15
+0.30
+0.52
+1.42
+5.25
+11.77
+0.50
+0.50
+22.11
+0.25
+8.29
+2.26
+5.03
+6.28
+45.23
+
+0.06
+0.12
+8.14
+0.81
+2.94
+4.56
+
+0.64
+
+0.17
+
+0.12
+
+1.91
+
+19.46
+
+1
+2
+24
+1
+24
+35
+87
+9
+29
+2
+4
+7
+19
+70
+157
+2
+2
+88
+1
+33
+9
+20
+25
+180
+337
+
+B
+
+Site
+
+L-farms
+
+Subtotal L-farms [A]
+SMS-farm
+
+Subtotal SMS-farms [B]
+Total farms [A + B]
+SH
+
+499
+
+835
+1,334
+
+Total SH [C]
+Grand total [A + B + C]
+
+398
+1,732
+
+SH, slaughterhouse; Prev., prevalence; FL, farm level; SL, site level; Ov., overall.
+
+A
+
+FIGURE 3  |  The serovar and antibiotic resistance diversity of Salmonella across farm and slaughterhouse. (A) Spatial variation of the distribution of multiple 
+salmonellae serovars isolated from fecal samples analyzed in this study. (B) Distribution of the average resistance (in percent) of various serovars (YY′) irrespective of the 
+source of isolation toward multiple antibiotics (XX′). The color scale of the individual cells is quantified by the numerical values in the heat map to indicate the resistance 
+percentage. Abbreviated names of the serovars are Bovis*: Bovismorbificans and Typhi*: Typhimurium. The names of the antibiotics (XX′) are abbreviated as ampicillin 
+(AMP), amoxicillin (AMC), cefotaxime (TAX), ceftriaxone (CRO), gentamicin (GEN), kanamycin (KAN), streptomycin (STR), tetracycline (TET), doxycycline (DOX), 
+ciprofloxacin (CIP), enrofloxacin (ENR), sulfa-trimethoprim (COT), sulfamethoxazole (SMX), colistin (CTE), chloramphenicol (CHL), and florfenicol (FLO).
+
+DISCUSSION
+
+China  produces  and  consumes  more  than  half  (at  about  500 
+million heads per annum) of the global pork demand (Larson, 
+2015).  Henan  is  one  of  the  largest  pig  producing  provinces 
+of China. There are more than 3,000 farms (rearing 100–10,000 
+heads  of  pigs)  contributing  almost  62%  of  the  production, 
+while  approximately  583  farms  with  a  herd  size  of  more  than 
+10,000 contribute around 18% of the production (CIIN, 2018b). 
+
+Pigs  and  pork  from  Henan  are  also  distributed  to  other 
+neighboring  provinces  like  Zhejiang,  Shanghai,  Anhui,  and 
+Shanxi or to the south as far as Guangdong. These distribution 
+channels also serve as a conduit for the transmission of pathogens 
+as  well  as  antibiotic-resistant  strains  from  the  farms  to  the 
+distributors  and  the  consumers.  Thus,  the  prevalence  of  the 
+pathogen  in  Henan  pig/pork  not  only  has  a  local  but  also 
+widespread regional implication. Numerous earlier studies have 
+reported  on  the  spatiotemporal  variation  of  the  prevalence  of 
+
+Frontiers in Microbiology | www.frontiersin.org 
+
+5 
+
+July 2019 | Volume 10 | Article 1513
+
+Jiang et al. Multidrug Resistant Salmonella in Henansalmonellae  on  different  types  of  meat,  foods,  and  animals 
+across  China  (Yan  et  al.,  2010;  Li  et  al.,  2013,  2014;  Lai  et  al., 
+2014;  Bai  et  al.,  2015;  Kuang  et  al.,  2015;  Cai  et  al.,  2016;  Jiu 
+et  al.,  2017;  Xu  et  al.,  2017;  Yi  et  al.,  2017;  Su  et  al.,  2018). 
+These  studies  suggested  that  pathogenic  bacteria  from  animals 
+can transmit AR determinants to strains isolated from humans.
+In  this  study,  the  prevalence  of  the  serovar  Derby  was  the 
+highest  (41%,  141/337).  An  earlier  study  from  Henan  which 
+analyzed  eviscerated  pig  carcass  swab  samples  reported  that 
+S.  Typhimurium  was  the  most  prevalent  serovar  followed  by 
+Derby  (Bai  et  al.,  2015),  whereas  another  study  showed  that 
+Derby  was  the  most  prevalent  serovars  in  pork  (Zhu  et  al., 
+2019).  For  a  comparison,  serovar  Typhimurium  ranked  first 
+and Derby ranked the third most frequent cause of non-typhoidal 
+salmonellosis  in  human  patients  in  Henan  (Xia  et  al.,  2009). 
+There  are  no  reports  on  the  presence  of  serovars  such  as 
+Agama  and  Chester  in  Henan  pigs,  until  date.  Serovar  Derby 
+
+FIGURE 4  |  Distribution of the average resistance (in percent) of individual 
+antibiotics in Salmonella isolates from samples collected across large farms 
+(L-farms), small- and medium-scale farms (SMS-Farms), and 
+slaughterhouses (SH).
+
+has  also  been  reported  to  have  the  highest  prevalence  in  the 
+pig/pork  from  Jiangsu  (Li  et  al.,  2014)  or  from  Sichuan  (Li 
+et al., 2013). Jiangsu and Henan are the neighboring provinces 
+and  there  is  the  trade  of  pig/pork  between  these  two  places. 
+Sichuan  is  one  of  the  top  producers  of  pig/pork  in  China.  It 
+has  multiple  inter-provincial  trades,  which  are  likely  linked  to 
+each  other  along  the  pork  value  chain.
+
+The  prevalence  of  salmonellae  was  higher  in  large  farms 
+as compared to smaller farms and the difference was statistically 
+significant. Common knowledge dictates that larger farms have 
+stronger  biosecurity  measures  and  generally  implement  good 
+farming practices, which should have minimized the prevalence 
+of  pathogens.  However,  the  farm  level  prevalence  is  a  multi-
+factorial outcome and factors such as stocking density, endemic 
+contamination  of  the  farm,  histories  of  infection  in  the  past, 
+and  flawed  biosecurity  measures  could  all  be  responsible  for 
+this  increased  prevalence.  Antibiotics  are  frequently  used  to 
+act as insurance to prevent a disease epidemic that is associated 
+with overcrowding and poor sanitation in pig production. This 
+can  lead  to  lower  apparent  prevalence  but  probable  longer 
+shedding stage (Patterson et al., 2016) and increased resistance 
+in  small  farms,  which  is  evident  in  our  analysis.  The  situation 
+is further exacerbated because some antibiotics are widely used 
+as  a  feed  supplement  primarily  for  growth  stimulation.  This 
+could  be  the  prime  reason  for  the  presence  of  almost  similar 
+prevalence  rates  of  resistance  to  multiple  antibiotics  in  the 
+SMS-  and  large  farms.
+
+In  our  analysis,  samples  collected  from  the  rectum  of  the 
+slaughtered  pigs  had  a  higher  prevalence  of  salmonellae  as 
+compared  to  the  fresh  fecal  samples  collected  on  the  farm. 
+The  slaughterhouses  from  where  the  samples  were  collected 
+for  this  study,  provided  service  to  multiple  farms  (even  those 
+beyond our sampling frame) throughout Henan. It was reported 
+earlier  that  in  apparently  healthy  flocks  harboring  Salmonella, 
+5–30%  of  the  animals  may  still  excrete  the  bacteria  at  the 
+end of the finishing period which could probably double during 
+transport  and  lairage  (Berends  et  al.,  1996).  Stress  due  to 
+transportation, along with a number of factors like environmental 
+
+A
+
+B
+
+FIGURE 5  |  Antibiogram of the slaughterhouse and farms isolates. (A) Resistance distribution in the slaughterhouse serovars. The difference in the resistance of 
+serovars is statistically significant (p = 0.0010), while the difference among the individual antibiotics is highly significant (p < 0.0001). (B) Resistance distribution in  
+the farm serovars. The upper half (above the black horizontal line) is the distribution in the large-scale farms while the lower half (below the black horizontal line) is the 
+distribution in small- and medium-scale farms. The variation of the resistance among the serovars was statistically non-significant (p = 0.2984) in either type of  
+the farms, whereas the variation between the individual antibiotics was statistically significant (p < 0.0001). The color scale of the individual cells is quantified by the 
+numerical value given within the cells. Abbreviated names of the serovars are Bovis*: Bovismorbificans and Typhi*: Typhimurium.
+
+Frontiers in Microbiology | www.frontiersin.org 
+
+6 
+
+July 2019 | Volume 10 | Article 1513
+
+Jiang et al. Multidrug Resistant Salmonella in HenanB
+
+A
+
+C
+
+FIGURE 6  |  The multiple-drug resistance (MDR) patterns of Salmonella serovars. (A) MDR patterns for individual serovars isolated in this study. The left X-axis 
+shows tetra- and penta-resistance while the right X-axis shows hepta-resistance pattern (seen only in serovar Typhimurium). (B) MDR pattern (in percent) according 
+to the farm type. Gray boxes indicate the absence of serovars whereas black boxes represent the absence of resistance. L- indicates large farms, SMS- indicates 
+small- and medium-scale farms. (C) MDR pattern in the isolates from the slaughterhouse. The pattern is abbreviated as resistance to A, Ampicillin; C, 
+chloramphenicol; S, streptomycin; Su, sulfamethoxazole; T, tetracycline; Amc, amoxicillin, and Cro, ceftriaxone. Abbreviated names of the serovars are Bovis*: 
+Bovismorbificans and Typhi*: Typhimurium.
+
+contamination  and  dose-response  parameters,  is  mentioned  to 
+affect  the  pathogen  secretion  during  lairage  and  subsequent 
+slaughter  (Simons  et  al.,  2016).
+
+The presence of less common serovars such as Agama (n = 1), 
+Agona  (n  =  2),  and  Emek  (n  =  3)  in  our  study  shows  that 
+pigs  not  only  contribute  specific  pathogenic  serovars  such  as 
+Typhimurium  or  Derby  to  humans  but  also  harbor  atypical 
+strains.  These  atypical  strains  also  showed  higher  levels  of 
+resistance  for  most  of  the  common  antibiotics  used  in  pig 
+husbandry in Henan. This is of concern because atypical strains, 
+which  are  apparently  harmless  to  pigs  or  humans,  under  the 
+selective  pressure  of  different  antibiotics  used  in  pig  husbandry 
+could  play  a  significant  role  in  the  transmission  of  resistance 
+to  other  pathogenic  strains.  Increase  in  AMR  genes  under 
+selective  pressure  in  swine  fed  with  medicated  feed  has  been 
+previously  reported  (Looft  et  al.,  2012).  Currently,  there  are 
+more than 20 classes of antibiotics with over 100 generic molecules 
+but  not  all  are  equally  used  in  animal  husbandry  (Zhang  et  al., 
+2015).  Antibiotics  are  usually  incorporated  in  animal  feed  at 
+low  concentrations  (2.5–125  mg/kg)  as  growth  promoters  
+for  an  undefined  time  period  (Marshall  and  Levy,  2011).  
+
+An  earlier  report  on  a  survey  of  60  pig  farms  of  various  sizes 
+during  2007–2008  in  Henan  province  suggested  that  antibiotics 
+were  used  in  all  stages  of  pig  production,  from  weaning,  to 
+growing and fattening, as additives in animal feed, via drinking 
+water  or  individual  injection.  The  major  classes  of  antibiotics 
+used  were  tetracyclines,  penicillins,  sulfonamides,  ceftiofur,  and 
+florfenicol  (Zhang  et  al.,  2015;  Wu,  2018).
+
+strains 
+
+these  MDR 
+
+The  occurrence  of  tetra-  or  penta-drug  resistance  in  high 
+frequency  in  the  serovars  Derby  and  Typhimurium  decrease 
+the  chances  of  success  of  therapeutics  at  the  farm  level.  The 
+carriage  of 
+(ASSuT,  ACSSuT,  or 
+ACSSuTAmcCro)  by  the  pigs  could  potentially  contaminate 
+the downstream along the slaughter-chain. As the Henan pigs/
+pork  are  distributed  over  wider  geography  in  China,  this  can 
+eventually lead to a spread of the resistance strains throughout 
+the  pig/pork  food  chain.
+
+Our  results  showed  that  the  effect  of  the  sampling  site  had 
+a  significant  influence  on  the  prevalence  of  resistant  bacteria. 
+A study from southern China reported that in typical large-scale 
+commercial pig farms, the most frequently used “in feed” antibiotics 
+were tetracyclines, bacitracin, or sulfonamides (Zhou et al., 2013). 
+
+Frontiers in Microbiology | www.frontiersin.org 
+
+7 
+
+July 2019 | Volume 10 | Article 1513
+
+Jiang et al. Multidrug Resistant Salmonella in HenanYet  another  analysis  from  2015  reported  that  in  the  various 
+regions  of  China,  amoxicillin  had  the  largest  use  in  animals  as 
+well  as  in  humans,  whereas  florfenicol  and  quinolones  were  the 
+most common antibiotics used in pig farms (Zhang et al., 2015). 
+We  can,  therefore,  infer  that  there  is  a  high  selection  pressure 
+of  antibiotics  in  the  swine  gut  thereby  causing  the  appearance 
+of high resistance to common “in feed” or therapeutic antibiotics 
+such as sulfa-trimethoprim, tetracyclines, amoxicillin, ampicillin, 
+and  chloramphenicol.  The  antibiotic  use  in  animal  production 
+is  a  key  contributor  to  the  growth  of  animal  production  to 
+ensuring food security in China over the last four decades (Wu, 
+2018).  This  usage  rate  has  also  increased  with  the  expansion  of 
+animal production and with more intensive livestock production. 
+This  has  inadvertently  led  to  an  increase  in  the  risk  of  zoonotic 
+pathogens such as Salmonella with high MDR capable of emergence 
+and  dissemination  via  the  food  systems.
+
+Unlike earlier studies that reported the presence of increasing 
+levels of resistance by salmonellae to cephems class of antibiotics 
+(Jiu  et  al.,  2017),  the  strains  in  our  collection  were  highly 
+susceptible to this class of antibiotic. This finding is in accordance 
+with regional differences and variations in the selection pressure 
+on  different  farms  (Zhou  et  al.,  2013;  Collignon  and  Voss, 
+2015).  The  resistance  of  atypical  strains  such  as  Agama  to  all 
+other  classes  of  antibiotics  except  the  cephems  is  also  an 
+interesting finding in the sense that this serovar is not generally 
+associated with mammals but rather with reptiles and amphibians. 
+Its  presence  and  the  general  resistance  is  a  matter  of  concern 
+and  further  assessments.
+
+CONCLUSION
+
+The  prevalence  of  salmonellae  isolates  differed  significantly 
+according  to  the  farm  size,  with  large  farms  having  more 
+salmonellae as compared to the small farms with the maximum 
+prevalence in the slaughterhouse samples. The presence of high 
+level  of  resistance  to  critical  antibiotics  such  as  quinolones 
+and beta-lactams in the various serovars of salmonellae isolated 
+from apparently healthy/slaughtered pigs possibly illustrates the 
+risk  of  acquisition  and  dissemination  of  such  MDR  via  the 
+pork  food  chain.  Presence  of  highly  MDR  atypical  serovars 
+
+exacerbates  this  risk  even  further  as  they  might  be  acting  as 
+the  “dark  matters”  for  the  resistance  (Paudyal  and  Yue,  2019). 
+This  could  eventually  lead  to  therapeutic  failures  in  animals 
+as  well  as  humans  even  for  the  clinically  critical  antibiotics.
+
+ETHICS  STATEMENT
+
+No ethical approval was deemed necessary for this study. Oral 
+agreement  and  permission  were  obtained  from  the  farmers  as 
+well  as  the  slaughterhouse  manager  before  sampling.
+
+AUTHOR  CONTRIBUTIONS
+
+ZJ,  YX,  and  TD  collected  the  samples.  ZJ,  NP,  FL,  and  HP 
+did  the  lab  analysis.  NP,  XP,  and  QH  did  the  data  analysis 
+and  prepared  a  draft.  MY  conceived  the  project  and  provided 
+critical  comments  for  the  draft.  All  the  authors  have  read  and 
+agreed  to  the  manuscript.
+
+FUNDING
+
+This  study  was  supported  by  the  National  Program  on  Key 
+Research Project of China (2017YFC1600103; 2018YFD0500501), 
+the  Fundamental  Research  Funds  for  the  Central  Universities 
+(2-2050205-18-237),  Zhejiang  Provincial  Natural  Science 
+Foundation  of  China  (LR19C180001),  Zhejiang  University  of 
+Hundred  Talent  Program,  National  Recruitment  Program  of 
+Global  Youth  Experts,  Key  Discipline  of  Preventive  Veterinary 
+Medicine  of  Henan  University  of  Animal  Husbandry  and 
+Economy  (MXK2016102),  and  China  Agriculture  Research 
+System  (CARS-35).
+
+ACKNOWLEDGMENTS
+
+The  farmers  and  the  slaughterhouse  staffs  who  assisted  during 
+the sample collection are duly acknowledged for their cooperation 
+for  this  study.
+
+ 
+
+REFERENCES
+
+Bai,  L.,  Lan,  R.,  Zhang,  X.,  Cui,  S.,  Xu,  J.,  Guo,  Y.,  et  al.  (2015).  Prevalence 
+of  Salmonella  isolates  from  chicken  and  pig  slaughterhouses  and  emergence 
+of  ciprofloxacin  and  cefotaxime  co-resistant  S.  enterica  serovar  Indiana  in 
+Henan,  China.  PLoS  One  10:e0144532.  doi:  10.1371/journal.pone.0144532
+
+Bai, L., Zhao, J., Gan, X., Wang, J., Zhang, X., Cui, S., et al. (2016). Emergence 
+and diversity of Salmonella enterica serovar Indiana isolates with concurrent 
+resistance to ciprofloxacin and cefotaxime from patients and food-producing 
+animals in China. Antimicrob. Agents Chemother. 60, 3365–3371. doi: 10.1128/
+AAC.02849-15
+
+Baptista,  F.  M.,  Alban,  L.,  Ersboll,  A.  K.,  and  Nielsen,  L.  R.  (2009).  Factors 
+affecting  persistence  of  high  Salmonella  serology  in  Danish  pig  herds.  Prev. 
+Vet.  Med.  92,  301–308.  doi:  10.1016/j.prevetmed.2009.08.005
+
+Baptista,  F.  M.,  Alban,  L.,  Nielsen,  L.  R.,  Domingos,  I.,  Pomba,  C.,  and 
+Almeida,  V.  (2010).  Use  of  herd  information  for  predicting  Salmonella 
+
+status  in  pig  herds.  Zoonoses  Public  Health  57(Suppl.  1),  49–59.  doi: 
+10.1111/j.1863-2378.2010.01354.x
+
+Baptista,  F.  M.,  Halasa,  T.,  Alban,  L.,  and  Nielsen,  L.  R.  (2011).  Modelling 
+food safety and economic consequences of surveillance and control strategies 
+for Salmonella in pigs and pork. Epidemiol. Infect. 139, 754–764. doi: 10.1017/
+S0950268810001767
+
+Berends,  B.  R.,  Urlings,  H.  A.,  Snijders,  J.  M.,  and  Van  Knapen,  F.  (1996). 
+Identification  and  quantification  of  risk  factors  in  animal  management  and 
+transport  regarding  Salmonella  spp.  in  pigs.  Int.  J.  Food  Microbiol.  30, 
+37–53.  doi:  10.1016/0168-1605(96)00990-7
+
+Cai,  Y.,  Tao,  J.,  Jiao,  Y.,  Fei,  X.,  Zhou,  L.,  Wang,  Y.,  et  al.  (2016).  Phenotypic 
+characteristics  and  genotypic  correlation  between  Salmonella  isolates  from 
+a slaughterhouse and retail markets in Yangzhou, China. Int. J. Food Microbiol. 
+222,  56–64.  doi:  10.1016/j.ijfoodmicro.2016.01.020
+
+CIIN  (2018a).  Analysis  of  the  developement  status  and  development  trend  of 
+China’s  pig  breeding  industry  in  2018  [Online].  China  Industry  Information 
+
+Frontiers in Microbiology | www.frontiersin.org 
+
+8 
+
+July 2019 | Volume 10 | Article 1513
+
+Jiang et al. Multidrug Resistant Salmonella in HenanNetwork.  Available  at:  http://www.chyxx.com/industry/201801/603323.html 
+(Accessed  January  9,  2019).
+
+CIIN  (2018b).  Analysis  of  the  scale  of  Chinese  pig  breeding  in  2017  and  the 
+development  potential  of  pig  production  areas  in  Henan  province  [Online]. 
+China  Industry  Information  Network.  Available  at:  http://www.chyxx.com/
+industry/201808/667438.html  (Accessed  January  9,  2019).
+
+CLSI  (2012).  Methods  for  dilution  antimicrobial  susceptibility  tests  for  bacteria 
+that grow aerobically. (Wayne, PA: Clinical and Laboratory Standards Institute).
+CLSI (2016). Performance standards for antimicrobial susceptibility testing. (Wayne, 
+
+Pennsylvania,  USA:  Clinical  and  Laboratory  Standards  Institute).
+
+Collignon,  P.,  and  Voss,  A.  (2015).  China,  what  antibiotics  and  what  volumes 
+are  used  in  food  production  animals?  Antimicrob.  Resist.  Infect.  Control 
+4:16.  doi:  10.1186/s13756-015-0056-5
+
+EUCAST (2019). Breakpoint tables for interpretation of MICs and zone diameters. 
+
+Version  9.0,  2019.
+
+Hao,  H.,  Pan,  H.,  Ahmad,  I.,  Cheng,  G.,  Wang,  Y.,  Dai,  M.,  et  al.  (2013). 
+Susceptibility breakpoint for enrofloxacin against swine Salmonella spp. J. Clin. 
+Microbiol.  51,  3070–3072.  doi:  10.1128/JCM.01096-13
+
+He,  Y.,  Yang,  X.,  Xia,  J.,  Zhao,  L.,  and  Yang,  Y.  (2016).  Consumption  of  meat 
+and  dairy  products  in  China:  a  review.  Proc.  Nutr.  Soc.  75,  385–391.  doi: 
+10.1017/S0029665116000641
+
+Jiang,  H.  X.,  Song,  L.,  Liu,  J.,  Zhang,  X.  H.,  Ren,  Y.  N.,  Zhang,  W.  H.,  et  al. 
+(2014).  Multiple  transmissible  genes  encoding  fluoroquinolone  and  third-
+generation  cephalosporin  resistance  co-located  in  non-typhoidal  Salmonella 
+isolated  from  food-producing  animals  in  China.  Int.  J.  Antimicrob.  Agents 
+43,  242–247.  doi:  10.1016/j.ijantimicag.2013.12.005
+
+Jiu, Y., Zhu, S., Khan, S. B., Sun, M., Zou, G., Meng, X., et al. (2017). Phenotypic 
+and  genotypic  resistance  of  Salmonella  isolates  from  healthy  and  diseased 
+pigs  in  China  during  2008–2015.  Microb.  Drug  Resist.  23,  651–659.  doi: 
+10.1089/mdr.2016.0132
+
+Kuang,  X.,  Hao,  H.,  Dai,  M.,  Wang,  Y.,  Ahmad,  I.,  Liu,  Z.,  et  al.  (2015). 
+Serotypes  and  antimicrobial  susceptibility  of  Salmonella  spp.  isolated  from 
+farm animals in China. Front. Microbiol. 6:602. doi: 10.3389/fmicb.2015.00602
+Lai,  J.,  Wu,  C.,  Wu,  C.,  Qi,  J.,  Wang,  Y.,  Wang,  H.,  et  al.  (2014).  Serotype 
+distribution and antibiotic resistance of Salmonella in food-producing animals 
+in  Shandong  province  of  China,  2009  and  2012.  Int.  J.  Food  Microbiol.  180, 
+30–38.  doi:  10.1016/j.ijfoodmicro.2014.03.030
+
+Larson,  C.  (2015).  China’s  lakes  of  pig  manure  spawn  antibiotic  resistance. 
+
+Science  347:704.  doi:  10.1126/science.347.6223.704
+
+Li,  R.,  Lai,  J.,  Wang,  Y.,  Liu,  S.,  Li,  Y.,  Liu,  K.,  et  al.  (2013).  Prevalence  and 
+characterization of Salmonella species isolated from pigs, ducks and chickens 
+in Sichuan Province, China. Int. J. Food Microbiol. 163, 14–18. doi: 10.1016/j.
+ijfoodmicro.2013.01.020
+
+Li,  Y.  C.,  Pan,  Z.  M.,  Kang,  X.  L.,  Geng,  S.  Z.,  Liu,  Z.  Y.,  Cai,  Y.  Q.,  et  al. 
+(2014).  Prevalence,  characteristics,  and  antimicrobial  resistance  patterns  of 
+Salmonella  in  retail  pork  in  Jiangsu  province,  eastern  China.  J.  Food  Prot. 
+77,  236–245.  doi:  10.4315/0362-028X.JFP-13-269
+
+Looft, T., Johnson, T. A., Allen, H. K., Bayles, D. O., Alt, D. P., Stedtfeld, R. D., 
+et  al.  (2012).  In-feed  antibiotic  effects  on  the  swine  intestinal  microbiome. 
+Proc.  Natl.  Acad.  Sci.  USA  109,  1691–1696.  doi:  10.1073/pnas.1120238109
+Marshall,  B.  M.,  and  Levy,  S.  B.  (2011).  Food  animals  and  antimicrobials: 
+impacts  on  human  health.  Clin.  Microbiol.  Rev.  24,  718–733.  doi:  10.1128/
+CMR.00002-11
+
+OIE  (2016).  “Manual  of  diagnostic  tests  and  vaccines  for  terrestrial  animals 
+2018”  in  Salmonellosis.  eds.  E.  C.  Hymann  and  C.  Poppe  (Paris,  France: 
+World  Organization  for  Animal  Health).
+
+Pan,  H.,  Li,  X.,  Fang,  W.,  and  Yue,  M.  (2018).  Analysis  of  major  human  and 
+foodborne  pathogens  and  their  resistance  to  antimicrobials  in  the  USA  in 
+the past two decades: implications for surveillance and control of antimicrobial 
+resistance  in  China.  J.  Zhejiang  Univ.  (Agric.  Life  Sci.)  44,  237–246.  doi: 
+10.3785/j.issn.1008-9209.2018.03.124
+
+Pan, H., Zhou, X., Chai, W., Paudyal, N., Li, S., Zhou, X., et al. (2019). Diversified 
+sources  for  human  infections  by  Salmonella  enterica  serovar  newport. 
+Transbound.  Emerg.  Dis.  66,  1044–1048.  doi:  10.1111/tbed.13099
+
+Patterson,  S.  K.,  Kim,  H.  B.,  Borewicz,  K.,  and  Isaacson,  R.  E.  (2016).  Towards 
+an  understanding  of  Salmonella  enterica  serovar  Typhimurium  persistence 
+in swine. Anim. Health Res. Rev. 17, 159–168. doi: 10.1017/S1466252316000165
+
+Paudyal,  N.,  Pan,  H.,  Liao,  X.,  Zhang,  X.,  Li,  X.,  Fang,  W.,  et  al.  (2018).  A 
+meta-analysis  of  major  foodborne  pathogens  in  Chinese  food  commodities 
+between  2006  and  2016.  Foodborne  Pathog.  Dis.  15,  187–197.  doi:  10.1089/
+fpd.2017.2417
+
+Paudyal,  N.,  and  Yue,  M.  (2019).  Antimicrobial  resistance  in  the  “dark  matter”. 
+
+Clin.  Infect.  Dis.  doi:  10.1093/cid/ciz007
+
+doi: 
+
+Simons,  R.  R.,  Hill,  A.  A.,  Swart,  A.,  Kelly,  L.,  and  Snary,  E.  L.  (2016).  A 
+transport  and  lairage  model  for  Salmonella  transmission  between  pigs 
+applicable  to  EU  member  states.  Risk  Anal.  36,  482–497.  doi:  10.1111/
+risa.12390
+
+Su,  J.  H.,  Zhu,  Y.  H.,  Ren,  T.  Y.,  Guo,  L.,  Yang,  G.  Y.,  Jiao,  L.  G.,  et  al.  (2018). 
+Distribution  and  antimicrobial  resistance  of  Salmonella  isolated  from  pigs 
+with 
+10.3390/
+microorganisms6040117
+
+in  China.  Microorganisms 
+
+diarrhea 
+
+6:117. 
+
+Wilhelm,  B.,  Rajic,  A.,  Parker,  S.,  Waddell,  L.,  Sanchez,  J.,  Fazil,  A.,  et  al. 
+(2012).  Assessment  of  the  efficacy  and  quality  of  evidence  for  five  on-farm 
+interventions  for  Salmonella  reduction  in  grow-finish  swine:  a  systematic 
+review  and  meta-analysis.  Prev.  Vet.  Med.  107,  1–20.  doi:  10.1016/j.
+prevetmed.2012.07.011
+
+Wu,  Z.  (2018).  “Antibiotic  use  and  antibiotic  resistance  in  food  producing 
+animals  in  China”  in  Trade  and  Agriculture  Directorate  Committee  for 
+Agriculture, Working Party on Agricultural Policies and Markets. ed. M. Ryan 
+(Belfast,  Northern  Ireland:  Agri-Food  and  Biosciences  Institute  (AFBI), 
+Queens University/Organisation for Economic Co-operation and Development).
+Xia,  S.,  Hendriksen,  R.  S.,  Xie,  Z.,  Huang,  L.,  Zhang,  J.,  Guo,  W.,  et  al.  (2009). 
+Molecular  characterization  and  antimicrobial  susceptibility  of  Salmonella 
+isolates  from  infections  in  humans  in  Henan  province,  China.  J.  Clin. 
+Microbiol.  47,  401–409.  doi:  10.1128/JCM.01099-08
+
+Xu,  C.,  Ren,  X.,  Feng,  Z.,  Fu,  Y.,  Hong,  Y.,  Shen,  Z.,  et  al.  (2017).  Phenotypic 
+characteristics  and  genetic  diversity  of  Salmonella  enterica  serotype  Derby 
+isolated from human patients and foods of animal origin. Foodborne Pathog. 
+Dis.  14,  593–599.  doi:  10.1089/fpd.2017.2278
+
+Yan,  H.,  Li,  L.,  Alam,  M.  J.,  Shinoda,  S.,  Miyoshi,  S.,  and  Shi,  L.  (2010). 
+Prevalence  and  antimicrobial  resistance  of  Salmonella  in  retail  foods  in 
+northern  China.  Int.  J.  Food  Microbiol.  143,  230–234.  doi:  10.1016/j.
+ijfoodmicro.2010.07.034
+
+Yi, L., Wang, J., Gao, Y., Liu, Y., Doi, Y., Wu, R., et al. (2017). Mcr-1-harboring 
+Salmonella  enterica  serovar  Typhimurium  sequence  type  34  in  pigs,  China. 
+Emerg.  Infect.  Dis.  23,  291–295.  doi:  10.3201/eid2302.161543
+
+Zhang,  Q.  Q.,  Ying,  G.  G.,  Pan,  C.  G.,  Liu,  Y.  S.,  and  Zhao,  J.  L.  (2015). 
+Comprehensive  evaluation  of  antibiotics  emission  and  fate  in  the  river 
+basins  of  China:  source  analysis,  multimedia  modeling,  and  linkage  to 
+bacterial  resistance.  Environ.  Sci.  Technol.  49,  6772–6782.  doi:  10.1021/acs.
+est.5b00729
+
+Zhou,  L.  J.,  Ying,  G.  G.,  Zhang,  R.  Q.,  Liu,  S.,  Lai,  H.  J.,  Chen,  Z.  F.,  et  al. 
+(2013). Use patterns, excretion masses and contamination profiles of antibiotics 
+in  a  typical  swine  farm,  South  China.  Environ.  Sci.  Process.  Impacts  15, 
+802–813.  doi:  10.1039/c3em30682h
+
+Zhu,  C.,  Yue,  M.,  Rankin,  S.,  Weill,  F.  X.,  Frey,  J.,  and  Schifferli,  D.  M.  (2015). 
+One-step  identification  of  five  prominent  chicken  Salmonella  serovars  and 
+biotypes.  J.  Clin.  Microbiol.  53,  3881–3883.  doi:  10.1128/JCM.01976-15
+
+Zhu,  A.,  Zhi,  W.,  Qiu,  Y.,  Wei,  L.,  Tian,  J.,  Pan,  Z.,  et  al.  (2019).  Surveillance 
+study  of  the  prevalence  and  antimicrobial  resistance  of  Salmonella  in  pork 
+from  open  markets  in  Xuzhou,  China.  Food  Control  98,  474–480.  doi: 
+10.1016/j.foodcont.2018.07.035
+
+Conflict of Interest Statement: The authors declare that the research was conducted 
+in the absence of any commercial or financial relationships that could be construed 
+as  a  potential  conflict  of  interest.
+
+Copyright  ©  2019  Jiang,  Paudyal,  Xu,  Deng,  Li,  Pan,  Peng,  He  and  Yue.  This  is 
+an open-access article distributed under the terms of the Creative Commons Attribution 
+License (CC BY). The use, distribution or reproduction in other forums is permitted, 
+provided  the  original  author(s)  and  the  copyright  owner(s)  are  credited  and  that 
+the original publication in this journal is cited, in accordance with accepted academic 
+practice.  No  use,  distribution  or  reproduction  is  permitted  which  does  not  comply 
+with  these  terms.
+
+Frontiers in Microbiology | www.frontiersin.org 
+
+9 
+
+July 2019 | Volume 10 | Article 1513
+
+Jiang et al. Multidrug Resistant Salmonella in Henan

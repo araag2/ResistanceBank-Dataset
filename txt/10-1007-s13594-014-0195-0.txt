@@ -1,0 +1,3242 @@
+Dairy Sci. & Technol.
+DOI 10.1007/s13594-014-0195-0
+
+O R I G I N A L PA P E R
+
+Molecular characterization and antimicrobial susceptibility
+of Staphylococcus aureus from small-scale dairy systems
+in the highlands of Central México
+
+T. B. Salgado-Ruiz & A. Rodríguez & D. Gutiérrez &
+B. Martínez & P. García & A. Espinoza-Ortega &
+A. R. Martínez-Campos & S. Lagunas-Bernabé &
+F. Vicente & C. M. Arriaga-Jordán
+
+Received: 27 May 2014 / Revised: 10 September 2014 / Accepted: 11 September 2014
+# INRA and Springer-Verlag France 2014
+
+Abstract Staphylococcus aureus is involved in human and animal infections. Because of
+mastitis in dairy cows, milk can be contaminated by enterotoxin-producing strains, which
+constitutes a food poisoning risk. Animal handlers can be asymptomatic carriers, becoming
+an additional source of contamination. This research aims to improve our understanding of
+Staphylococcus aureus in small-scale dairy systems in central Mexico. Samples were taken
+in 12 dairy farms and included composite milk (from the four teats) and hand swabs from
+
+T. B. Salgado-Ruiz : A. Espinoza-Ortega : A. R. Martínez-Campos : C. M. Arriaga-Jordán (*)
+Instituto de Ciencias Agropecuarias y Rurales (ICAR), Universidad Autónoma del Estado de México
+(UAEM), Instituto Literario # 100, Col. Centro, 50000 Toluca (Estado de México), Mexico
+e-mail: cmarriagaj@uaemex.mx
+A. Rodríguez : D. Gutiérrez : B. Martínez : P. García
+Instituto de Productos Lácteos de Asturias (IPLA-CSIC), Paseo Río Linares, s/n, 33300 Villaviciosa,
+Asturias, Spain
+
+A. Rodríguez
+e-mail: anarguez@ipla.csic.es
+
+D. Gutiérrez
+e-mail: dianagufer@ipla.csic.es
+
+B. Martínez
+e-mail: bmf1@ipla.csic.es
+
+P. García
+e-mail: pgarcia@ipla.csic.es
+
+S. Lagunas-Bernabé
+Centro de Investigación y Estudios Avanzados en Salud Animal (CIESA), Facultad de Medicina
+Veterinaria y Zootecnia, Universidad Autónoma del Estado de México, Instituto Literario # 100, Col.
+Centro, 50000 Toluca (Estado de México), Mexico
+
+F. Vicente
+Servicio Regional de Investigación y Desarrollo Agroalimentario (SERIDA), Carretera Oviedo s/n,
+33300 Villaviciosa, Asturias, Spain
+
+T.B. Salgado-Ruiz et al.
+
+each farmer. Of 149 presumptive S. aureus isolates, 102 (84 from cows; 18 from farmers)
+were accurately identified by molecular methods. The genetic variability of 43 randomly
+selected isolates was determined by RAPD-PCR, and of these, 38 were genetically distinct
+(≤90% similarity). Of the 38 distinct isolates, 78.9% harboured at least one enterotoxin-
+encoding gene (staphylococcal enterotoxin a (sea)–sed, seg, and/or sei), whereas 100%
+carried icaA–icaD genes and 28% carried the bap gene. The latter three genes are all
+involved in biofilm formation. Susceptibility to antibiotics, bacteriocins, and bacteriophages,
+was also assayed; 36.8% of isolates were resistant to penicillin G. Only five isolates were
+resistant to bacteriocins nisin A and AS-48, and phiPLA-RODI was the most effective
+bacteriophage, infecting all of the isolates. These results support the need to adopt manage-
+ment strategies to improve hygiene and milking practices in order to enhance herd health and
+diminish the risk of food poisoning associated with the consumption of raw milk cheese.
+
+Keywords Staphylococcus aureus. Enterotoxins . Biofilms . Antimicrobials. Small-scale
+dairy systems . Mexico
+
+1 Introduction
+
+Small-scale dairy systems (SSDS) provide an option for improving rural livelihoods and
+alleviating poverty (Espinoza-Ortega et al. 2007). In Mexico, over 78% of specialized
+dairy farms are small scale, defined by small holdings, with herds of between 3 and 35
+cows plus replacements, that rely on family labour, and these systems contributed 37% of
+national milk production (Hemme et al. 2007). Milk hygiene is a challenge for these small-
+scale dairy systems involving good milking practices and both animal and human health.
+Staphylococcus aureus is a coagulase-positive microorganism frequently detected in dairy
+farms and considered one of the main causes of sub-clinical and chronic mastitis in dairy
+cows (Makovec and Ruegg 2003; Wang et al. 2009), with negative effects in the economics
+of milk production. Cattle are one of the primary reservoirs for staphylococci, and an udder
+with mastitis is usually the main source of contamination by S. aureus (Waldvogel 2001).
+Humans can be asymptomatic carriers and, consequently, a source of contamination too
+(Gutiérrez et al. 2012; Rall et al. 2014). Moreover, some strains produce heat-stable entero-
+toxins and are responsible for food poisoning (Le Loir et al. 2003). The ability of S. aureus
+strains to produce biofilms is suggested as a virulence factor associated to staphylococcal
+mastitis and accounts for the establishment of chronic infections as a reduced susceptibility to
+antibiotics and disinfectants occurs due to the decreased diffusion of antimicrobials through
+the biofilm's matrix (Vasudevan et al. 2003). Therefore, strains bearing biofilm-encoding
+genes have an additional, potential pathogenicity that must be taken into account.
+
+Due to the significant impact on animal and human health, it is important to assess the
+resistance of S. aureus isolates to antibiotics since antibiotic therapy is the primary means
+of combating bacterial infections. However, the detection of multidrug-resistant S. aureus
+is increasingly common, and reduced efficacy of antibiotic therapy has become a matter of
+concern in veterinary practice (Lee 2003). In this regard, there is a clear need for
+alternative approaches to mastitis treatment such as bacteriocins (Cao et al. 2007) and
+bacteriophages (Dias et al. 2013). Bacteriocins are bacterial ribosomally synthesized
+peptides with antimicrobial activity. Apart from their role as biopreservatives (Deegan
+et al. 2006), some bacteriocins produced by lactic acid bacteria have been successfully
+
+Staphylococcus aureus in Mexican small-scale dairy systems
+
+assayed against pathogens causing bovine mastitis (Klostermann et al. 2010).
+Bacteriophages, natural enemies of bacteria, have also been tested to combat human
+(Duckworth and Gulig 2002) and bovine infections (Gill et al. 2006; Dias et al. 2013).
+
+The present work aimed to evaluate the prevalence of S. aureus in a sample of small-scale
+dairy systems located in the highlands of Central Mexico in order to be able to suggest ways
+of improving herd health and the microbiological quality of milk since this is used in the
+manufacture of raw milk cheeses with the concomitant risk for consumers. Putative
+virulence determinants such as enterotoxin-encoding genes and the biofilm-forming ability
+of staphylococcal isolates were analyzed. Susceptibility to antibiotics and natural antimicro-
+bials such as nisin A (lantibiotic) and AS-48 (circular bacteriocin) and S. aureus-infecting
+bacteriophages was approached. Additionally, the genetic variability and relationships
+among the isolates were established by random amplified polymorphic DNA (RAPD)-PCR.
+
+2 Material and methods
+
+2.1 Sampling design
+
+Twelve small-scale dairy farms in the municipality of Aculco in the State of Mexico were
+selected from a larger sample of farms participating in a larger project (Fadul-Pacheco
+et al. 2013), as representative of farms of this Mexican area. Criteria for selection were all
+cows of the same breed (Holstein—being the most prevalent), a minimum of three milking
+cows at the time of the study (a maximum of five cows per farm were sampled) and hand
+milking. Age and stage of lactation were not considered or recorded. Sampling took place
+between November 2012 and January 2013 always during milking. A total of 57
+composite milk samples were obtained by mixing milk from the four quarters (one sample
+per cow) after the udders had been washed and dried and the teats had been cleaned with
+cotton swabs soaked in 70% ethanol. Milk from the first streams was included in the
+sample in order to isolate environmental microorganisms that could be present at the
+sphincter, as well as those from the mammary gland. Additionally, 12 samples were taken
+from the hands of the 12 farmers using a sterile swab and placing it into 3 mL of nutritive
+broth. All samples were kept at 4 °C until processing in the laboratory.
+
+2.2 Isolation and identification of S. aureus strains
+
+Serial tenfold dilutions of milk samples were made in Ringer solution (Merck KGaA,
+Darmstadt, Germany), and 0.1 mL of each was plated onto Baird–Parker (BP) agar supple-
+mented with egg yolk tellurite emulsion (Scharlab, Barcelona, Spain) in order to obtain single
+colonies for further characterization. Undiluted hand swabs were also spread onto BP agar.
+Each sample was plated in duplicate, and all plates were incubated at 37 °C for 48 h.
+
+Ten colonies showing the typical aspect of staphylococci were randomly selected
+from each plate and spread onto salt-mannitol agar to obtain pure cultures, and these
+were tested for coagulase (Bactident Coagulase, Merck), DNase activity (DNase agar,
+Cultimed, Panreac, Barcelona, Spain) and mannitol fermentation under anaerobiosis
+(Notarnicola et al. 1985). All presumptive S. aureus isolates were further confirmed by
+simultaneous PCR amplification of genes encoding for 23S ribosomal RNA (rRNA)
+(1,250 bp) (Straub et al. 1999) and thermonuclease (nuc) (450 bp) (Wilson et al. 1991)
+
+T.B. Salgado-Ruiz et al.
+
+(Table 1). Isolates were coded according to their origin (the prefix M for milk and H for
+hand swabs). S. aureus Sa9, isolated from mastitis milk (García et al. 2007), and
+S. aureus ATCC 14458 were used as positive controls; Staphylococcus epidermidis
+F12 was used as a negative control (Delgado et al. 2009). All isolates were routinely
+cultured in tryptic soy broth (TSB, Scharlab) or in tryptic soy agar (TSA). Bacterial
+stocks were stored at −80 °C in TSB supplemented with 20% v/v glycerol.
+
+2.3 DNA extraction and PCR conditions
+
+A colony from each presumptive S. aureus isolate was added to 20 μL of 0.25% SDS–
+50 mM NaOH and heated at 95 °C for 5 min. Deionized water was subsequently added
+up to a volume of 200 μL. Samples were then centrifuged at 13,000 rpm for 5 min at
+4 °C, and the supernatant containing the DNA was kept at −20 °C for further analysis.
+All PCRs were performed in a thermocycler (Bio-Rad, Hercules, CA, USA) using the
+Pure Taq Ready-To-Go PCR Beads kit (GE Healthcare, Munich, Germany), 1 μL of the
+extracted DNA and the primer concentrations specified in Table 1. The PCR conditions
+specified in Table 1 were used, with the exception of those used for the detection of the
+23S RNA and the nuc genes, where a multiplex PCR was performed composed of an
+initial denaturation step at 94 °C for 2 min, followed by 35 cycles at 94 °C for 15 s, 53 °C
+for 1 min and 72 °C for 2 min and eventually a final extension step at 72 °C for 7 min.
+PCR products were loaded onto 2% agarose gels and electrophoresis carried out for
+1 h at 100 V in Tris–acetate–EDTA. The gels were then stained with ethidium bromide
+−1) for 30 min and visualized under UV light with a G: Box Syngene™
+(0.5 μg.mL
+transilluminator (Syngene, Cambridge, UK). DNA ladders of 500 or 100 bp were
+included in the gels as molecular weight controls.
+
+2.4 Genomic fingerprinting of S. aureus isolates
+
+The RAPD-PCR method was chosen for the differentiation of the S. aureus isolates.
+Primers used for this purpose were OPL5, RAPD5 and P1 (Table 1) according to the
+method previously described (Gutiérrez et al. 2011). Strains of S. aureus from the
+Instituto de Productos Lácteos de Asturias—Consejo Superior de Investigación
+Científica (IPLA-CSIC—Dairy Institute of Asturias, Spain) and S. aureus ATCC
+14458 were included to enable the comparison of genetic variability among Mexican
+S. aureus and isolates from distant geographical locations.
+
+RAPD-PCR band patterns from each primer were scanned and profile grouping
+(dendrogram) performed with the GENTOOLS Syngene™ software (Syngene, Cambridge,
+UK), using the Pearson product-moment correlation coefficient and the unweighted pair
+group method with arithmetic averages (UPGMA) cluster analysis (Struelens 1996).
+
+2.5 Detection of putative virulence factors
+
+The presence of genes encoding for two virulence factors (enterotoxin and biofilm produc-
+tion) in the genome of the staphylococcal isolates was tested. The detection of eight
+enterotoxin genes was performed using two multiplex PCRs. The first included the staph-
+ylococcal enterotoxin a (sea), seb, sec, sed and see-specific primers, while the second used
+primers to detect the seg, seh and sei genes (Table 1). Additionally, assessment of the
+
+Staphylococcus aureus in Mexican small-scale dairy systems
+
+)
+9
+9
+9
+1
+(
+
+.
+l
+a
+
+t
+e
+
+b
+u
+a
+r
+t
+S
+
+)
+1
+9
+9
+1
+(
+
+.
+l
+a
+
+t
+e
+
+n
+o
+s
+l
+i
+
+W
+
+)
+1
+1
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+
+z
+e
+r
+r
+é
+i
+t
+u
+G
+
+)
+8
+9
+9
+1
+(
+
+.
+l
+a
+
+t
+e
+
+r
+e
+k
+c
+e
+B
+
+)
+2
+0
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+
+e
+o
+m
+O
+
+0
+5
+2
+1
+
+,
+
+0
+5
+4
+
+7
+2
+1
+
+7
+7
+4
+
+1
+7
+2
+
+9
+1
+3
+
+8
+7
+1
+
+7
+8
+2
+
+3
+1
+2
+
+4
+5
+4
+
+e
+c
+n
+e
+r
+e
+f
+e
+R
+
+)
+p
+b
+(
+
+e
+z
+i
+s
+
+n
+o
+c
+i
+l
+p
+m
+A
+
+R
+C
+P
+
+r
+o
+f
+
+2
+0
+
+.
+
+8
+0
+
+.
+
+1
+
+0
+1
+
+0
+1
+
+4
+0
+
+.
+
+0
+1
+
+0
+1
+
+2
+
+2
+
+2
+
+)
+
+M
+μ
+(
+
+n
+o
+i
+t
+a
+r
+t
+n
+e
+c
+n
+o
+c
+
+l
+a
+n
+i
+F
+
+′
+
+)
+3
+–
+5
+(
+
+′
+
+e
+c
+n
+e
+u
+q
+e
+s
+
+r
+e
+m
+
+i
+r
+P
+
+n
+i
+a
+r
+t
+s
+
+s
+u
+e
+r
+u
+a
+
+.
+
+S
+
+,
+l
+o
+r
+t
+n
+o
+C
+
+e
+n
+e
+G
+
+)
+2
+1
+0
+2
+
+.
+l
+a
+
+t
+e
+
+z
+e
+r
+r
+é
+i
+t
+u
+G
+m
+o
+r
+f
+
+d
+e
+t
+p
+a
+d
+a
+(
+
+R
+C
+P
+
+e
+h
+t
+
+n
+i
+
+d
+e
+s
+u
+
+s
+n
+i
+a
+r
+t
+s
+
+l
+a
+i
+r
+e
+t
+c
+a
+b
+
+d
+n
+a
+
+s
+r
+e
+m
+
+i
+r
+P
+
+1
+
+e
+l
+b
+a
+T
+
+A
+A
+T
+C
+A
+A
+C
+T
+T
+C
+A
+A
+C
+G
+T
+G
+A
+T
+A
+T
+A
+T
+G
+A
+
+T
+A
+A
+A
+C
+C
+T
+C
+G
+C
+T
+T
+C
+T
+G
+T
+T
+G
+C
+G
+A
+C
+T
+A
+
+C
+A
+G
+C
+A
+G
+G
+A
+A
+A
+C
+A
+T
+T
+G
+A
+G
+G
+C
+A
+
+C
+A
+T
+G
+A
+G
+C
+A
+A
+T
+T
+C
+C
+G
+A
+C
+T
+C
+G
+A
+
+G
+C
+A
+A
+A
+A
+T
+T
+G
+G
+C
+A
+A
+A
+G
+G
+T
+T
+T
+C
+C
+
+C
+A
+A
+A
+A
+A
+C
+T
+A
+C
+C
+C
+T
+T
+C
+C
+A
+A
+G
+T
+C
+T
+
+C
+A
+A
+C
+G
+C
+G
+C
+A
+A
+
+:
+5
+D
+P
+A
+R
+
+C
+A
+C
+G
+G
+A
+C
+G
+C
+A
+
+:
+5
+L
+P
+O
+
+A
+A
+C
+C
+G
+A
+C
+G
+C
+C
+
+:
+1
+P
+
+5
+6
+5
+3
+1
+C
+C
+T
+A
+
+9
+a
+S
+
+9
+a
+S
+
+A
+N
+R
+
+r
+
+S
+3
+2
+
+c
+u
+n
+
+R
+C
+P
+-
+D
+P
+A
+R
+
+C
+G
+A
+A
+C
+A
+A
+A
+A
+T
+T
+G
+A
+A
+A
+T
+A
+G
+A
+T
+A
+T
+C
+C
+A
+T
+G
+A
+C
+
+C
+C
+T
+A
+T
+T
+A
+C
+A
+A
+T
+T
+A
+G
+G
+C
+T
+A
+A
+A
+A
+C
+T
+
+G
+G
+A
+T
+C
+G
+A
+A
+A
+A
+T
+A
+C
+A
+G
+A
+T
+C
+A
+A
+G
+A
+A
+C
+T
+C
+
+8
+5
+4
+4
+1
+C
+C
+T
+A
+
+C
+G
+T
+C
+C
+G
+T
+G
+A
+A
+T
+A
+T
+C
+T
+C
+A
+T
+G
+G
+A
+C
+G
+
+G
+C
+A
+A
+A
+C
+A
+G
+T
+C
+A
+A
+A
+C
+T
+A
+C
+G
+C
+T
+
+8
+5
+4
+4
+1
+C
+C
+T
+A
+
+C
+T
+A
+C
+A
+A
+A
+T
+G
+G
+G
+A
+T
+A
+T
+T
+C
+T
+A
+T
+A
+T
+C
+G
+T
+A
+A
+T
+T
+
+G
+C
+A
+A
+A
+T
+T
+T
+C
+C
+T
+C
+T
+A
+T
+A
+A
+T
+G
+G
+T
+T
+T
+G
+A
+T
+C
+
+5
+6
+5
+3
+1
+C
+C
+T
+A
+
+C
+T
+T
+C
+C
+C
+A
+G
+G
+T
+G
+C
+C
+A
+T
+T
+C
+A
+A
+T
+
+4
+6
+6
+7
+2
+C
+C
+T
+A
+
+C
+C
+T
+T
+G
+C
+G
+G
+T
+T
+T
+T
+T
+A
+C
+A
+G
+A
+T
+G
+A
+A
+
+C
+G
+A
+T
+A
+T
+G
+C
+T
+C
+A
+A
+A
+C
+T
+A
+C
+C
+A
+A
+G
+A
+
+T
+C
+A
+C
+A
+A
+C
+A
+T
+G
+G
+A
+G
+G
+T
+A
+T
+A
+T
+C
+T
+G
+
+C
+T
+G
+T
+C
+G
+C
+T
+T
+T
+A
+T
+T
+C
+A
+T
+T
+T
+C
+C
+A
+G
+
+C
+A
+A
+T
+G
+G
+A
+T
+G
+T
+G
+G
+T
+T
+A
+T
+A
+G
+T
+G
+G
+
+G
+A
+C
+C
+A
+T
+T
+T
+C
+C
+G
+T
+T
+T
+C
+T
+T
+A
+T
+A
+C
+C
+T
+A
+
+5
+9
+0
+9
+1
+C
+C
+T
+A
+
+5
+9
+0
+9
+1
+C
+C
+T
+A
+
+5
+9
+0
+9
+1
+C
+C
+T
+A
+
+a
+a
+e
+s
+
+a
+b
+e
+s
+
+a
+c
+e
+s
+
+a
+d
+e
+s
+
+a
+e
+e
+s
+
+a
+a
+e
+s
+
+a
+h
+e
+s
+
+a
+i
+e
+s
+
+T.B. Salgado-Ruiz et al.
+
+)
+3
+0
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+
+n
+a
+v
+e
+d
+u
+s
+a
+V
+
+)
+4
+0
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+
+a
+l
+l
+e
+r
+a
+c
+u
+C
+
+5
+1
+3
+1
+
+,
+
+1
+8
+3
+
+1
+7
+9
+
+e
+c
+n
+e
+r
+e
+f
+e
+R
+
+)
+p
+b
+(
+
+e
+z
+i
+s
+
+n
+o
+c
+i
+l
+p
+m
+A
+
+n
+o
+i
+t
+a
+r
+t
+n
+e
+c
+n
+o
+c
+
+)
+
+M
+μ
+(
+
+l
+a
+n
+i
+F
+
+′
+
+)
+3
+–
+5
+(
+
+′
+
+e
+c
+n
+e
+u
+q
+e
+s
+
+r
+e
+m
+
+i
+r
+P
+
+n
+i
+a
+r
+t
+s
+
+s
+u
+e
+r
+u
+a
+
+.
+
+S
+
+,
+l
+o
+r
+t
+n
+o
+C
+
+e
+n
+e
+G
+
+)
+d
+e
+u
+n
+i
+t
+n
+o
+c
+(
+
+1
+
+e
+l
+b
+a
+T
+
+R
+C
+P
+
+r
+o
+f
+
+5
+2
+
+.
+
+5
+2
+
+.
+
+5
+2
+
+.
+
+C
+A
+C
+G
+T
+T
+A
+A
+G
+A
+T
+G
+T
+G
+G
+A
+A
+G
+C
+T
+A
+T
+A
+T
+C
+C
+C
+
+C
+G
+T
+C
+C
+A
+T
+G
+T
+C
+A
+T
+A
+A
+T
+T
+G
+A
+A
+G
+T
+T
+G
+T
+C
+G
+
+G
+A
+T
+G
+G
+A
+A
+A
+G
+C
+A
+A
+T
+C
+A
+A
+T
+C
+C
+
+C
+G
+T
+G
+A
+A
+T
+A
+G
+C
+G
+A
+T
+A
+T
+A
+G
+A
+A
+
+C
+A
+T
+A
+G
+A
+A
+C
+T
+A
+G
+T
+A
+T
+A
+A
+C
+G
+G
+
+G
+G
+T
+G
+G
+A
+G
+A
+G
+A
+A
+T
+G
+C
+A
+A
+A
+
+1
+8
+9
+5
+1
+C
+C
+T
+A
+
+1
+8
+9
+5
+1
+C
+C
+T
+A
+
+9
+2
+3
+V
+
+A
+a
+c
+i
+
+D
+a
+c
+i
+
+p
+a
+B
+
+n
+o
+i
+t
+c
+a
+e
+r
+
+R
+C
+P
+
+x
+e
+l
+p
+i
+t
+l
+u
+m
+e
+m
+a
+s
+
+e
+h
+t
+
+n
+i
+
+d
+e
+p
+u
+o
+r
+g
+
+n
+o
+i
+t
+c
+a
+e
+r
+
+R
+C
+P
+
+x
+e
+l
+p
+i
+t
+l
+u
+m
+e
+m
+a
+s
+
+e
+h
+t
+
+n
+i
+
+d
+e
+p
+u
+o
+r
+g
+
+e
+r
+e
+w
+s
+r
+e
+m
+
+i
+r
+P
+a
+
+e
+r
+e
+w
+s
+r
+e
+m
+
+i
+r
+P
+b
+
+Staphylococcus aureus in Mexican small-scale dairy systems
+
+capability to form biofilms was performed using two further multiplex PCRs. The first
+combined specific primers to detect simultaneously the icaD and biofilm-associated protein
+(bap) genes, and the second used only the icaA primer (Table 1).
+
+2.6 Susceptibility to antibiotics
+
+Antibiotic susceptibility of staphylococcal isolates was determined by the disc diffusion
+method according to the CLSI (2010). The following discs were provided by Oxoid
+(Basingstoke, UK): ciprofloxacin (CIP5), enrofloxacin (ENR5), erythromycin (E15),
+oxacillin (OX5), penicillin G (P10), quinupristin–dalfopristin (QD15), rifampicin
+(RD5), streptomycin (S10), sulphamethoxazole–trimethoprim (SXT25) and tetracycline
+(TE30). They are used as antimicrobial agents for food-producing animals (OIE 2014;
+Commission Regulation (EU) No 37/ 2010) and are representative of different classes of
+antibiotics. Vancomycin (VA5), which belongs to the glycopeptide class, a critically
+important antibiotic used in human medicine, was also tested (CIA 2011). Oxacillin was
+included for the detection of putative methicillin-resistant isolates (CLSI 2010). Plates of
+Mueller-Hinton agar (Scharlab) seeded with each staphylococcal isolate were incubated
+at 37 °C for 24 h and the inhibition zone diameters interpreted according to the CLSI
+tables. The minimum inhibitory concentration (MIC) of isolates resistant to penicillin G
+−1)
+was determined by using the MIC Evaluator (M.I.C.E.)TM (32–0.002 μg.mL
+MA0100D system (Oxoid). S. aureus ATCC 25923 was used as a positive control for
+the inhibition halo formation.
+
+2.7 Susceptibility to bacteriocins
+
+The antimicrobial activity of bacteriocins against the staphylococcal isolates was deter-
+mined by the agar diffusion test. For this purpose, pure nisin A (kindly supplied by
+Applin & Barret Ltd, Dorset, UK) and AS-48 (kindly supplied by Dr. Mercedes
+Maqueda, University of Granada, Spain) were used. The concentration of stock solu-
+tions for nisin A and AS-48 were 30 and 35 μM, respectively. Twenty millilitres of TSA
+(1.2% w/v agar) was inoculated with staphylococcal isolates at ca. 105 colony forming
+−1 and pour plated. Wells (4 mm in diameter) were made with a sterile
+units (CFU) mL
+borer and filled with twofold dilutions of bacteriocin solutions in phosphate-buffered
+saline solution. MIC was defined as the lowest concentration that produced a clear
+inhibition halo after incubation at 37 °C for 24 h (Martínez et al. 2005). The range of
+bacteriocin concentrations assayed was the following: nisin A (30, 15, 7.5, 3.75, 1.875,
+0.937 and 0.468 μM) and AS-48 (35, 17.5, 8.75, 4.375, 2.187, 1.093 and 0.547 μM).
+S. aureus CECT 4013 was used as positive control for the inhibition halo formation.
+
+2.8 Susceptibility to bacteriophages
+
+The IPLA-CSIC collection bacteriophages vB_SauS-phiIPLA35 (in short, phiIPLA35)
+and vB_SauS-phiIPLA88 (in short, phiIPLA88) (García et al. 2007), vB_SauM-
+phiIPLA-RODI (in short, phiIPLA-RODI) and vB_SepM-phiIPLA-C1C (in short,
+phiIPLA-C1C) (Gutiérrez et al., unpublished data) and phi11 (Iandolo et al. 2002)
+were used to determine their ability to lyse the staphylococcal isolates. The suscepti-
+bility of isolates to the phages was determined by the spot test. Five microlitres of each
+
+phage (phage titre about 109 PFU.mL
+about 106 CFU.mL
+for 24 h, the presence of a clear lysis zone is representative of phage susceptibility.
+
+−1) was dropped onto a TSA plate overlaid with
+−1 of each isolate (Gutiérrez et al. 2010). After incubation at 37 °C
+
+T.B. Salgado-Ruiz et al.
+
+3 Results
+
+3.1 Isolation and identification of S. aureus
+
+From a total of 149 presumptive S. aureus isolates found in the 12 farms (from
+milk to hand swabs), 102 (84 from milk and 18 from hand swab samples) were
+identified as S. aureus according to biochemical methods. The positive identification
+was confirmed by the detection of specific amplicons corresponding to the 23S rRNA
+and nuc genes. The positive isolates were detected in 30 of 57 cows (52.6%) and in 8 of
+12 hand swabs (66.6%). S. aureus was not detected in the milk from two of the farms (6
+and 12), and four cattle handlers were not S. aureus carriers (farms 4, 10, 11 and 12).
+
+3.2 Genetic variability of S. aureus isolates
+
+The genetic variability of 43 positive isolates (one for each milk sample and one for each
+hand swab, randomly selected) was determined by RAPD-PCR genotyping using three
+different primers (Table 1). Isolates were grouped into four main clusters (I–IV). With the
+exception of cluster II, the others were further divided into eight sub-clusters (Ia, Ib; IIIc, IIId;
+IVe, IVf, IVg, IVh) (Fig. 1). Cluster I, with 37% similarity with clusters II, III and IV, is
+composed of isolates from four different farms. Cluster II, with 43.5% of similarity with
+clusters III and IV, includes two strains with very different origin (M16, a Mexican isolate
+and the collection strain ATCC 14458). Of note, cluster III, with 47.05% similarity with
+cluster IV, includes six of the eight hand isolates and only one milk isolate from a different
+farm (farm 4). Group IV comprises most of isolates (28 from milk and 2 from hand swab
+samples) that were grouped into four sub-clusters each belonging to a different farm. Only
+one Mexican strain (M31) fell completely outside of the four clusters since it is more closely
+related to the Spanish isolate IPLA 18 (52% similarity) than to any of the other Mexican
+isolates. The Spanish isolates Sa9 and IPLA 1 are also outside of the clusters due to their low
+similarity (32.5 and 38.6%, respectively) with the other isolates.
+
+For discriminating strains, a threshold similarity value of 90% was set, so that
+isolates with a similarity above this value were considered clonal and excluded from
+further analyses (M2, M8, M9, M11, and M28). Accordingly, the 43 Mexican isolates
+included in the dendrogram (Fig. 1) showed 38 different RAPD-PCR profiles (30 from
+milk and 8 from hand swabs).
+
+3.3 Putative virulence factors of S. aureus isolates
+
+One isolate representative of each of the 38 different RAPD-PCR profiles was
+selected and tested for the presence of enterotoxin and biofilm-encoding genes. The
+most widely distributed genes were sea (47.3%), seg (55.2%) and sei (31.5%),
+while seb and sec genes were only detected in one unique isolate (M16 and M35,
+respectively), and no isolate harboured either seh or see genes (Fig. 2a). Overall,
+
+Staphylococcus aureus in Mexican small-scale dairy systems
+
+Fig. 1 Arrows indicate the similarity percentage arbitrarily chosen as a discriminating threshold to define the
+homogenous clusters (I–IV). The dashed line represents the threshold similarity value of 90 % for discrim-
+inating genetically different strains
+
+30 of 38 isolates (78.9%) harboured between one and five enterotoxin-encoding
+genes (sea, seb, sec, sed, seg and sei) with the following distribution: one gene
+(eight M and four H isolates), two genes (six M and two H isolates), three genes
+(five M and one H isolates), four genes ( one M isolate) and five genes (one M
+isolate).
+
+In relation to biofilm production genes, all the isolates tested positive for the icaA and
+icaD genes, which are responsible for the formation of an exopolysaccharide biofilm
+matrix, whereas the bap gene, responsible for the synthesis of a bacterial surface protein
+involved in the formation of a proteinaceous biofilm matrix, was detected in 11 of the 38
+isolates (28.9%) belonging to six farms (2, 3, 4, 5, 8 and 11). It is worth noting that only
+one of the isolates (H7, farm 8) harbouring the bap gene was of human origin (Fig. 2b).
+
+T.B. Salgado-Ruiz et al.
+
+3.4 Antimicrobial susceptibility
+
+3.4.1 Antibiotics
+
+Fourteen of the 38 isolates (36.8%) showed resistance to penicillin G (P10). One of them
+(M15) also showed resistance to streptomycin (S10). Resistance to tetracycline (TE30) was
+observed in isolate M17, and intermediate resistance to erythromycin (E15) was shown by
+the milk isolate M7 (Table 2). The MICs of penicillin-G-resistant isolates ranged from 0.25
+−1 regardless of their origin (milk or cattle handler), with clearly higher
+to 0.5 μg.mL
+resistance than that shown by the control strain S. aureus ATCC 25923 (0.03 μg.mL
+
+−1).
+
+3.4.2 Bacteriocins
+
+The susceptibility of S. aureus isolates to the lantibiotic nisin A and the circular
+bacteriocin AS-48 was determined. The MICs of nisin and AS-48 for most of the
+strains were 7.5 and 8.75 μM, respectively, suggesting that both bacteriocins displayed
+similar antimicrobial potency against these isolates (Table 2). Furthermore, both bac-
+teriocins were active against S. aureus strains, regardless of whether they were isolated
+from milk or cattle handlers, and both populations showed a similar MIC distribution.
+Nevertheless, resistant strains to the highest bacteriocin concentrations were detected.
+Of note, the human isolates H1 and H8 were resistant to both bacteriocins. The control
+strain S. aureus CECT 4013 showed an MIC of 7.5 μM for nisin as did most of isolates,
+but its MIC was clearly higher for AS-48 (35 μM).
+
+3.4.3 Bacteriophages
+
+The susceptibility of S. aureus isolates to bacteriophages from the IPLA-CSIC collec-
+tion was assessed (Table 2). All 38 isolates were sensitive to phage vB_SauM-
+phiIPLA-RODI but resistant to phage vB_SauM-phiIPLA-C1C. The lytic activity of
+phages vB_SauS-phiIPLA88 and phi11 was very similar, showing almost identical host
+inhibition spectra (32 and 33 isolates, respectively). Two of the isolates that were
+resistant to both phages are of human origin.
+
+Fig. 2 Putative virulence factors in S. aureus isolates from Mexican small-scale dairy systems. a Number of
+isolates harbouring se genes; b number of isolates harbouring biofilm-encoding genes. Dark grey bars: isolates
+from milk; Light grey bars: isolates from hand swabs
+
+Staphylococcus aureus in Mexican small-scale dairy systems
+
+5
+A
+V
+
+0
+3
+E
+T
+
+5
+2
+T
+X
+S
+
+0
+1
+S
+
+5
+D
+R
+
+5
+1
+D
+Q
+
+0
+1
+P
+
+5
+X
+O
+
+5
+1
+E
+
+5
+R
+N
+E
+
+5
+P
+I
+C
+
+s
+e
+t
+a
+l
+o
+s
+i
+
+t
+n
+a
+t
+s
+i
+s
+e
+r
+
+f
+o
+
+r
+e
+b
+m
+u
+N
+
+5
+7
+3
+4
+
+.
+
+8
+
+2
+
+0
+
+0
+
+1
+
+0
+
+5
+7
+8
+
+.
+
+4
+1
+
+1
+
+0
+
+0
+
+.
+
+5
+7
+1
+
+8
+
+3
+
+1
+
+0
+
+5
+3
+
+1
+
+8
+4
+-
+S
+A
+
+5
+3
+>
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+1
+
+4
+
+5
+7
+3
+
+.
+
+9
+
+2
+
+0
+
+0
+
+.
+
+5
+7
+
+4
+1
+
+3
+
+a
+1
+
+0
+
+5
+1
+
+3
+
+2
+
+0
+
+0
+
+0
+3
+
+2
+
+A
+n
+i
+s
+i
+N
+
+0
+3
+>
+
+2
+
+2
+
+0
+
+0
+
+)
+d
+o
+h
+t
+e
+m
+n
+o
+i
+s
+u
+f
+f
+i
+d
+
+c
+s
+i
+d
+(
+
+)
+0
+3
+=
+n
+(
+
+k
+l
+i
+
+m
+m
+o
+r
+f
+
+s
+e
+t
+a
+l
+o
+s
+I
+
+s
+c
+i
+t
+o
+i
+b
+i
+t
+n
+A
+
+)
+8
+=
+n
+(
+
+s
+r
+e
+l
+d
+n
+a
+h
+m
+o
+r
+f
+
+s
+e
+t
+a
+l
+o
+s
+I
+
+s
+n
+i
+c
+o
+i
+r
+e
+t
+c
+a
+b
+
+r
+o
+f
+
+)
+
+M
+μ
+(
+
+s
+C
+M
+
+I
+
+)
+t
+s
+e
+t
+
+n
+o
+i
+s
+u
+f
+f
+i
+d
+
+r
+a
+g
+a
+(
+
+)
+0
+3
+=
+n
+(
+
+k
+l
+i
+
+m
+m
+o
+r
+f
+
+s
+e
+t
+a
+l
+o
+s
+I
+
+)
+8
+=
+n
+(
+
+s
+r
+e
+l
+d
+n
+a
+h
+m
+o
+r
+f
+
+s
+e
+t
+a
+l
+o
+s
+I
+
+s
+
+m
+r
+a
+f
+
+s
+’
+w
+o
+c
+
+n
+a
+c
+i
+x
+e
+M
+m
+o
+r
+f
+
+s
+e
+t
+a
+l
+o
+s
+i
+
+s
+u
+e
+r
+u
+a
+
+.
+
+S
+
+t
+n
+e
+r
+e
+f
+f
+i
+d
+
+y
+l
+l
+a
+c
+i
+t
+e
+n
+e
+g
+
+8
+3
+
+e
+h
+t
+
+f
+o
+
+y
+t
+i
+l
+i
+b
+i
+t
+p
+e
+c
+s
+u
+s
+
+l
+a
+i
+b
+o
+r
+c
+i
+m
+
+i
+t
+n
+A
+
+2
+
+e
+l
+b
+a
+T
+
+-
+
+C
+1
+C
+A
+L
+P
+I
+i
+h
+p
+
+o
+t
+
+e
+l
+b
+i
+t
+p
+e
+c
+s
+u
+s
+
+6
+1
+A
+L
+P
+I
+
+s
+u
+e
+r
+u
+a
+
+.
+
+S
+
+;
+I
+
+-
+
+D
+O
+R
+A
+P
+I
+i
+h
+p
+
+;
+5
+3
+A
+L
+P
+I
+i
+h
+p
+
+,
+
+8
+8
+A
+L
+P
+I
+i
+h
+p
+
+,
+1
+1
+i
+h
+p
+
+s
+e
+g
+a
+h
+p
+
+o
+t
+
+e
+l
+b
+i
+t
+p
+e
+c
+s
+u
+s
+
+:
+)
+n
+i
+a
+r
+t
+s
+
+r
+o
+t
+a
+c
+i
+d
+n
+i
+
+e
+g
+a
+h
+p
+(
+
+9
+a
+S
+
+s
+u
+e
+r
+u
+a
+
+.
+
+S
+
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+
+e
+t
+a
+i
+d
+e
+m
+r
+e
+t
+n
+I
+
+a
+
+-
+
+C
+1
+C
+A
+L
+P
+I
+i
+h
+p
+
+I
+
+-
+
+D
+O
+R
+A
+L
+P
+I
+i
+h
+p
+
+5
+3
+A
+L
+P
+I
+i
+h
+p
+
+8
+8
+A
+L
+P
+I
+i
+h
+p
+
+1
+1
+i
+h
+p
+
+0
+
+0
+
+0
+3
+
+8
+
+3
+1
+
+1
+
+6
+2
+
+6
+
+7
+2
+
+6
+
+m
+u
+r
+t
+c
+e
+p
+s
+
+n
+o
+i
+t
+i
+b
+i
+h
+n
+i
+
+t
+s
+o
+H
+
+s
+e
+g
+a
+h
+p
+o
+i
+r
+e
+t
+c
+a
+b
+
+f
+o
+
+)
+0
+3
+=
+n
+(
+
+k
+l
+i
+
+m
+m
+o
+r
+f
+
+s
+e
+t
+a
+l
+o
+s
+I
+
+)
+8
+=
+n
+(
+
+s
+r
+e
+l
+d
+n
+a
+h
+m
+o
+r
+f
+
+s
+e
+t
+a
+l
+o
+s
+I
+
+M
+μ
+5
+3
+
+f
+o
+
+8
+4
+-
+S
+A
+
+r
+o
+f
+
+I
+
+C
+M
+
+;
+
+M
+μ
+5
+7
+
+.
+
+f
+o
+A
+n
+i
+s
+i
+n
+
+r
+o
+f
+
+I
+
+C
+M
+
+:
+3
+1
+0
+4
+T
+C
+E
+C
+s
+u
+e
+r
+u
+a
+
+.
+
+S
+
+All of the isolates showed greater variability in relation to their susceptibility to
+phage vB_SauS-phiIPLA35. Fourteen of the isolates (36.8%) were sensitive, but most
+of the human isolates (seven of eight) were resistant to this phage.
+
+T.B. Salgado-Ruiz et al.
+
+4 Discussion
+
+The prevalence of S. aureus in small farms in the highlands of Central Mexico was
+investigated as this microorganism is a common cause of udder disease in dairy cows
+and has implications for human health. Milk samples from 30 of 57 cows (52.6%) and
+8 of 12 hand swabs (66.6%) tested positive for S. aureus. The pathogen was detected
+neither in milk from two of the farms (6 and 12) nor on hand swabs from four of the
+cattle handlers (farms 4, 10, 11 and 12). In comparison, S. aureus prevalence was
+substantially lower in milk samples (6.6%) from dairy farms of a similar size in the state
+of Sao Paolo, Brazil (Lee et al. 2012).
+
+Forty-three isolates, representative of each positive sample, were subjected to
+RAPD-PCR genotyping to define their genetic diversity. The cluster analysis revealed
+four different clusters (I–IV), and 38 isolates were identified as genetically distinct
+(≤90% similarity). This study revealed a weak relationship between milk and human
+isolates, suggesting that transmission of S. aureus from farmers to cows has not yet
+occurred on the farms included in this study. By contrast, a study of dairy farms in
+Central-Eastern Mexico (Manjarrez-López et al. 2012) reported 79.3% of S. aureus
+isolates showing human origin, indicating the importance humans as vectors for
+S. aureus transmission. Data supporting animals and humans as sources of S. aureus
+zoonotic infections of humans and pathogens infecting livestock have both previously
+been reported (Van Cleef et al. 2011; Sakwinska et al. 2011).
+
+RAPD-PCR genotyping showed certain variability among the isolates from milk
+samples. Most of them belong to cluster IV and are distributed among four sub-clusters
+(IVe–IVh). The three isolates from farm 1, however, are grouped into only one sub-
+cluster (IVh). Cluster I harbours isolates from four different farms. A similarity
+exceeding 90% was only detected between isolates within farms 1, 2 and 3. By
+contrast, human isolates showed lower variability. Six of eight isolates belong to sub-
+cluster IIId, with a similarity ranging from 56 to 81%. The remaining isolates (H2 and
+H4, sub-cluster IVh), with 87% similarity, are closer to isolates from farm 1 (74%
+similarity) than to any of the others. As expected, strains from distant geographical
+locations (Sa9, IPLA 1, IPLA 18 and ATCC 14458) showed very low genetic relation-
+ship with Mexican isolates, with the exception of isolates M31 and M16.
+
+The presence of enterotoxin-producing and biofilm formation genes in the genome
+of S. aureus isolates contribute to their pathogenicity. Most of the 38 distinct isolates
+are multi-SE gene carriers (73.7%) and, consequently, potentially enterotoxigenic and
+were detected in the ten farms that tested positive for S. aureus. The non-
+enterotoxigenic isolates (23.3% from milk samples) are distributed among four farms
+(5, 7, 9 and 11). Interestingly, the unique isolate from human origin (H3) that does not
+harbour any se genes was detected in a different farm (farm 3). The presence of the sea
+gene in most of the milk isolates from farms 1, 2, 3, 4 and 5 makes them a potential risk
+for consumers, as SEA is the most common enterotoxin in staphylococcal food
+poisoning (Pinchuk et al. 2010). The sea gene was also detected in three isolates from
+
+Staphylococcus aureus in Mexican small-scale dairy systems
+
+cattle handlers (farms 7, 8 and 9). Thus, the use of raw milk from the majority of the
+farms studied carries a health risk for consumers.
+
+The putative pathogenicity of isolates is increased by their ability to produce
+biofilms (Valle et al. 2012). All of the isolates are potential polysaccharide-type biofilm
+producers as they carry icaA and icaD genes involved in the biosynthesis of polysac-
+charide intracellular adhesion (PIA) (Crampton et al. 1999). Moreover, the bap gene
+that is related to the formation of proteinaceous biofilms (Cucarella et al. 2001) was
+also detected in ten milk isolates and one human isolate (H7, farm 8). This is
+particularly relevant because, so far, this gene had been only associated with the
+infection of bovine udders (Cucarella et al. 2004), meanwhile bap-harbouring strains
+associated with human infections are coagulase negative Staphylococcus (Arciola et al.
+2012). None of the milk isolates from farm 8 is, however, a bap gene carrier.
+
+The susceptibility to antibiotics tests are an important guide for veterinarians to
+select the most suitable treatment when udder infection occurs. In this context, the
+sensitivity of the isolates to ten antibiotics approved for veterinary use, and to vanco-
+mycin, used in human medicine, was determined. Only resistance to penicillin was
+particularly relevant, being detected in 33.3% (10/30) of milk isolates (farms 1, 4, 5, 7,
+8, 9 and 10) and in half the human isolates (Farms 2, 3, 5 and 7), giving an overall
+resistance of 36.8% (14/38). Of those, only one isolate (M15) was also resistant to
+streptomycin. The great concern about MRSA strains (Lee 2003) makes it especially
+relevant that none of the isolates in the present study was resistant to oxacillin. The
+pattern of antibiotic resistance identified in this study suggests that penicillin is the most
+frequently used antibiotic to treat mastitis.
+
+Nisin A and AS-48 bacteriocins were chosen as antimicrobial alternatives to antibi-
+otic therapy (Cotter et al. 2013) due to their proved activity against S. aureus (Delves-
+Broughton et al. 1996; Sánchez-Hidalgo et al. 2011). Most isolates were sensitive to the
+bacteriocin concentrations tested. This supports their potential use to fight against the
+staphylococcal isolates that colonize the small dairy farms analyzed in this study. Two
+isolates from human origin (H1 and H8) showed resistance to 30 μM of nisin A. H8
+was also resistant to 35 μM of AS-48. Whether they share the same resistance
+mechanism against nisin and AS-48 has not been addressed. However, it is likely that
+changes at the surface of H1 and H8 may reduce the initial electrostatic interactions
+between bacteriocins and cells and result in cross resistance to both cationic peptides as
+previously described (Kaur et al. 2011).
+
+The sensitivity of the staphylococcal isolates was also tested against members of two
+phage families: Siphoviridae (phi11, phiIPLA88 and phiIPLA35) and Myoviridae
+(phiIPLA-RODI and phiIPLA-C1C). PhiIPLA-RODI was the most effective bacterio-
+phage as it was able to infect and lyse all the isolates, regardless of their origin (bovine
+or human). Similar results were observed by Dias et al. (2013) since four of ten
+bacteriophages isolated from mastitic milks were effective against all the mastitis-
+causing S. aureus isolates. Phages phiIPLA88 and phi11 also showed notable
+antistaphylococcal effectiveness (84.2 and 86.8% of isolates) with almost identical host
+inhibition spectra. This result could be related to the high degree of genome identity
+(75.3%) and the notable shared protein content (65%) (García et al. 2009). A small host
+inhibition spectrum was shown by phage phiIPLA35, and most of resistant isolates are
+grouped in cluster III to which most human isolates belong (only one was sensitive).
+However, no human isolates were resistant to phage RODI, whereas two were resistant
+
+T.B. Salgado-Ruiz et al.
+
+to IPLA 88 and phi11. By contrast, phage phiIPLA-C1C was unable to infect any
+isolate. This result is in agreement with previous data (Gutiérrez et al., unpublished
+data) since this phage is much more active against S. epidermidis than against S. aureus
+strains. As a whole, these results support bacteriophages as a promising alternative to
+fight against antibiotic-resistant pathogens from human or bovine origin (Duckworth
+and Gulig 2002; Dias et al. 2013).
+
+5 Conclusion
+
+Overall, results highlight the need to improve hygiene conditions and milking practices
+in the small-scale dairy systems that were the focus of this study since potential
+enterotoxigenic and biofilm S. aureus producers are widely distributed in the farms.
+There is no evidence of S. aureus transmission between farmers and cattle since RAPD-
+PCR profiles of isolates from milk and human origin show low similarity. The
+resistance to penicillin G showed by 36.8% of isolates is particularly noteworthy and
+points to an antibiotic therapy against udder infection mainly based on penicillin
+treatment. Alternative approaches based on bacteriocins and bacteriophages, natural
+antimicrobials, have proved to be useful as potential tools to eliminate the pathogen
+from cattle and handlers in an environmentally friendly way, with the final aim of
+enhancing herd health and diminishing the inherent food poisoning risk associated with
+the consumption of cheese made with raw milk produced in these farms.
+
+Acknowledgments The authors express their gratitude to the farmers and their families participating in this
+study. Also, our thanks are given to R. Calvo from IPLA-CSIC for her knowledge and technical support, as
+well as to L.E. Contreras-Martínez and M.L. Maya Salazar from ICAR for their laboratory support. We thank
+Dr. Graham Woodgate (University College London) for revising the English and making helpful suggestions
+for improving the manuscript.
+
+Conflict of interest The authors declare that they have no conflict of interest.
+
+Funding This work was undertaken with funds from the Spanish Agency for International Development
+Cooperation (Agencia Española de Cooperación Internacional para el Desarrollo) through project AECID
+11-CAP2-1526 and the Mexican National Council for Science and Technology (Consejo Nacional de Ciencia
+y Tecnología—CONACYT) grant 129449 CB-2009. CONACYT also provided the grant that enabled the
+postgraduate studies of Tania Berenice Salgado-Ruiz.
+
+References
+
+Arciola CR, Campoccia D, Speziale P, Montanaro L, Costerton JW (2012) Biofilm formation in staphylo-
+coccus implant infections. A review of molecular mechanisms and implications for biofilm-resistant
+materials. Biomaterials 33:5967–5982
+
+Becker K, Roth R, Peters G (1998) Rapid and specific detection of toxigenic staphylococcus aureus: use of two
+multiplex PCR enzyme immunoassays for amplification and hybridization of staphylococcal enterotoxin
+genes, exfoliative toxin genes, and toxic shock syndrome toxin 1 gene. J Clin Microbiol 36:2548–2553
+Cao LT, Wu JQ, Xie F, Hu SH, Mo Y (2007) Efficacy of nisin in treatment of clinical mastitis in lactating dairy
+
+cows. J Dairy Sci 90:3980–3985
+
+CIA (2011). Critically Important Antimicrobials for Human Medicine. 3rd Revision. WHO Advisory Group
+
+on Integrated Surveillance of Antimicrobial Resistance (AGISAR). WHO, Geneva
+
+Staphylococcus aureus in Mexican small-scale dairy systems
+
+CLSI (2010) Performance standards for antimicrobial susceptibility testing; 20th international supplement.
+
+CLSI document M100-S20. Clinical and Laboratory Standards Institute Wayne, PA, USA
+
+Commission Regulation (EU) No 37/2010 on pharmacologically active substances and their classification
+regarding maximum residue limits in foodstuffs of animal origin. Official Journal of the European Union
+L15/1-L15/72
+
+Cotter PD, Ross RP, Hill C (2013) Bacteriocins - a viable alternative to antibiotics? Nat Rev Microbiol 11:95–105
+Crampton SE, Gerke C, Schnell NF, Nichols WW, Gotz F (1999) The intercellular adhesion (ica) locus is
+
+present in Staphylococcus aureus and is required for biofilm formation. Infect Immun 67:5427–5433
+
+Cucarella C, Solano C, Valle J, Amorena B, Lasa I, Penades JR (2001) Bap a, Staphylococcus aureus surface
+
+protein involved in biofilm formation. J Bacteriol 183:2888–2896
+
+Cucarella C, Tormo MA, Ubeda C, Trotonda MP, Monzon M, Peris C, Amorena B, Lasa I, Penadés JR (2004)
+Role of biofilm-associated protein Bap in the pathogenesis of bovine Staphylococcus aureus. Infect
+Immun 72:2177–2185
+
+Deegan LH, Cotter PD, Hill C, Ross P (2006) Bacteriocins: biological tools for bio-preservation and shelf-life
+
+extension. Int Dairy J 16:1058–1071
+
+Delgado S, Arroyo R, Jiménez E, Marín ML, del Campo R, Fernández L, Rodríguez JM (2009)
+Staphylococcus epidermidis strains isolated from breast milk of women suffering infectious mastitis:
+potential virulence traits and resistance to antibiotics. BMC Microbiol 9:82
+
+Delves-Broughton J, Blackburn P, Evans RJ, Hugenholtz J (1996) Applications of the bacteriocin, nisin.
+
+Antonie Van Leeuwenhoek 69:93–202
+
+Dias RS, Eller MR, Duarte VS, Pereira AL, Silva CC, Mantovani HC, Oliveira LL, Silva E, De Paula SO
+(2013) Use of phages against antibiotic-resistant Staphylococcus aureus isolated from bovine mastitis. J
+Anim Sci 91:3930–3939
+
+Duckworth DH, Gulig PA (2002) Bacteriophages: potential treatment for bacterial infections. BioDrugs 16:57–62
+Espinoza-Ortega A, Espinosa-Ayala E, Bastida-López J, Castañeda-Martínez T, Arriaga-Jordán CM (2007)
+Small-Scale dairy farming in the highlands of central Mexico: technical, economic and social aspects and
+their impact on poverty. Exp Agric 43:241–256
+
+Fadul-Pacheco L, Wattiaux MA, Espinoza-Ortega A, Sánchez-Vera E, Arriaga-Jordán CM (2013) Evaluation
+of sustainability of smallholder dairy production systems in the highlands of Mexico during the rainy
+season. Agroecol Sust Food Syst 37:882–901
+
+García P, Madera C, Martínez B, Rodríguez A (2007) Biocontrol of Staphylococcus aureus in curd
+
+manufacturing processes using bacteriophages. Int Dairy J 17:1232–1239
+
+García P, Martínez B, Obeso JM, Lavigne R, Lurz R, Rodríguez A (2009) Functional genomic analysis of two
+Staphylococcus aureus phages isolated from the dairy environment. Appl Environ Microbiol 75:7663–7673
+Gill LL, Pacan JC, Carson ME, Leslie KE, Griffiths MW, Sabour PM (2006) Efficacy and pharmacokinetics
+of bacteriophage therapy in treatment of subclinical Staphylococcus aureus mastitis in lactating dairy
+cattle. Antimicrob Agents Chemother 50:2912–2918
+
+Gutiérrez D, Martínez B, Rodríguez A, García P (2010) Isolation and characterization of bacteriophages
+
+infecting Staphylococcus epidermidis. Curr Microbiol 61:601–608
+
+Gutiérrez D, Martín-Platero AM, Rodríguez A, Martínez-Bueno M, García P, Martínez B (2011) Typing of
+bacteriophages by randomly amplified polymorphic DNA (RAPD-PCR) to assess genetic variability.
+FEMS Microbiol Lett 322:90–97
+
+Gutiérrez D, Delgado S, Vázquez-Sánchez D, Martínez B, Cabo ML, Rodríguez A, Herrera JJ, García P
+(2012) Incidence of Staphylococcus aureus and analysis of associated bacterial communities on food
+industry surfaces. Appl Environ Microbiol 78:8547–8554
+
+Hemme T (2007) FCN dairy report 2007, international farm comparison network. IFCN Dairy Research
+
+Center, Kiel
+
+Iandolo JJ, Worrell V, Groicher KH, Qian Y, Tian R, Kenton S, Dorman A, Ji H, Lin S, Loh P, Qi S, Zhu H,
+Roe BA (2002) Comparative analysis of the genomes of the temperate bacteriophages phi11, phi12 and
+phi13 of Staphylococcus aureus 8325. Gene 289(1–2):109–118
+
+Kaur G, Malik RK, Mishra SK, Singh TP, Bhardwaj A, Singroha G, Vij S, Kumar N (2011) Nisin and class IIa
+bacteriocin resistance among Listeria and other foodborne pathogens and spoilage bacteria. Microb Drug
+Resist 17:197–205
+
+Klostermann K, Crispie F, Flynn J, Meaney WJ, Paul Ross R, Hill C (2010) Efficacy of a teat dip containing
+the bacteriocin lacticin 3147 to eliminate Gram-positive pathogens associated with bovine mastitis. J
+Dairy Res 77:231–238
+
+Le Loir Y, Baron F, Gautier M (2003) Staphylococcus aureus and food poisoning. Genet Mol Res 2:63–76
+Lee JH (2003) Methicillin (oxacillin)-resistant Staphylococcus aureus strains isolated from major food animals
+
+and their potential transmission to humans. Appl Environ Microbiol 69:6489–6494
+
+T.B. Salgado-Ruiz et al.
+
+Lee SH, Camargo CH, Gonçalves JL, Cruz AG, Sartori BT, Machado MB, Oliveira CA (2012)
+Characterization of Staphylococcus aureus isolates in milk and the milking environment from small-
+scale dairy farms of São Paulo, Brazil, using pulsed-field gel electrophoresis. J Dairy Sci 95:7377–7383
+Makovec JA, Ruegg PL (2003) Results of milk samples submitted for microbiological examination in
+
+Wisconsin from 1994 to 2001. J Dairy Sci 86:3466–3472
+
+Manjarrez-López AM, Díaz-Zarco S, Salazar-García F, Valladares-Carranza B, Gutiérrez- Castillo C,
+Barbabosa-Pliego A, Talavera-Rojas M, Alonso-Fresan MU, Velázquez-Ordóñez V (2012)
+Staphylococcus aureus biotypes in cows presenting subclinical mastitis from family dairy herds in the
+Central-Eastern State of Mexico. Rev Mex Cien Pec 3(2):265–274
+
+Martínez B, Bravo D, Rodríguez A (2005) Consequences of the development of nisin-resistant Listeria
+
+monocytogenes in fermented dairy products. J Food Prot 68:2383–2388
+
+Notarnicola AM, Zamarchi GR, Onderdonk AB (1985) Misidentification of mucoid variants of
+
+Staphylococcus aureus by standard laboratory techniques. J Clin Microbiol 22:459–461
+
+OIE (2014) Word Organisation of Animal Health. List of antimicrobial agents of veterinary importance. http://
+www.oie.int/fileadmin/Home/eng/Internationa_Standard_Setting/docs/pdf/OIE_list_antimicrobials.pdf.
+Accessed January 2014
+
+Omoe K, Ishikawa M, Shimoda Y, Hu DL, Ueda S, Shinagawa K (2002) Detection of seg, seh, and sei genes
+in Staphylococcus aureus isolates and determination of the enterotoxin productivities of S. aureus isolates
+harbouring seg, seh, or sei genes. J Clin Microbiol 40(3):857–862
+
+Pinchuk IV, Beswick EJ, Reyes VE (2010) Staphylococcal enterotoxins. Toxins (Basel) 2:2177–2197
+Rall VLM, Miranda ES, Castilho IG, Camargo CH, Langoni H, Guimarães FF, Araújo Júnior JP, Fernandes
+Júnior A (2014) Diversity of Staphylococcus species and prevalence of enterotoxin genes isolated from
+milk of healthy cows and cows with subclinical mastitis. J Dairy Sci 97:829–837
+
+Sakwinska O, Giddey M, Moreillon M, Morisset D, Waldvogel A, Moreillon P (2011) Staphylococcus aureus
+
+host range and human-bovine host shift. Appl Environ Microbiol 77:5908–5915
+
+Sánchez-Hidalgo M, Montalbán-López M, Cebrián R, Valdivia E, Martínez-Bueno M, Maqueda M (2011)
+
+AS-48 bacteriocin: close to perfection. Cell Mol Life Sci 68:2845–2857
+
+Straub JA, Hertel C, Hammes WP (1999) A 23S rDNA-targeted polymerase chain reaction-based system for
+detection of Staphylococcus aureus in meat starter cultures and dairy products. J Food Prot 62:1150–1156
+Struelens MJ (1996) Consensus guidelines for appropriate use and evaluation of microbial epidemiologic
+
+typing systems. Clin Microbiol Infect 2:2–11
+
+Valle J, Latasa C, Gil C, Toledo-Arana A, Solano C, Penadés JR, Lasa I (2012) Bap, a biofilm matrix protein
+of Staphylococcus aureus prevents cellular internalization through binding to GP96 host receptor. PLoS
+Pathog 8:e1002843
+
+Van Cleef BA et al (2011) Livestock associated methicillin-resistant Staphylococcus aureus in humans,
+
+Europe. Emerg Infect Dis 17:502–505
+
+Vasudevan P, Nair MK, Annamalai T, Venkitanarayanan KS (2003) Phenotypic and genotypic characterization of
+
+bovine mastitis isolates of Staphylococcus aureus for biofilm formation. Vet Microbiol 92(1–2):179–185
+
+Waldvogel FA (2001) Staphylococcus aureus (including staphylococcal toxic shock). In: Mandell JL, Bennett
+JE, Dolin R (eds) Principles and practice of infection diseases. Churchill Livingstone, Philadelphia, PA
+Wang SC, Wu CM, Xia SC, Qi YH, Xia LN, Shen JZ (2009) Distribution of superantigenic toxin genes in
+Staphylococcus aureus isolates from milk samples of bovine subclinical mastitis cases in two major diary
+production regions of China. Vet Microbiol 137:276–281
+
+Wilson IG, Cooper JE, Gilmour A (1991) Detection of enterotoxigenic Staphylococcus aureus in dried
+skimmed milk: use of the polymerase chain reaction for amplification and detection of staphylococcal
+enterotoxin genes entB and entC1 and the thermonuclease gene nuc. Appl Environ Microbiol 57:1793–
+1798
+
+

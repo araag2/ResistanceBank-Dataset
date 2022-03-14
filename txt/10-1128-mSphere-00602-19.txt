@@ -1,0 +1,1014 @@
+OBSERVATION
+Clinical Science and Epidemiology
+
+Occurrence and Genomic Characterization of Two MCR-1-
+Producing Escherichia coli Isolates from the Same Mink Farmer
+
+Beiwen Zheng,a Hao Xu,a Chen Huang,a,b Xiao Yu,a Lihua Guo,a Huiming Han,c Jing Zhang,a,d Xiawei Jiang,e Chunlei Chen,a
+Yonghong Xiaoa
+
+aCollaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, The First
+Afﬁliated Hospital, School of Medicine, Zhejiang University, Hangzhou, China
+bDepartment of Respiratory Medicine, Lihuili Hospital, Ningbo Medical Center, Ningbo, China
+cMedical College of Beihua University, Jilin, China
+dDepartment of Pulmonary and Critical Care Medicine, Guangdong General Hospital, Guangzhou, China
+eCollege of Basic Medical Sciences, Zhejiang Chinese Medical University, Hangzhou, China
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+
+:
+/
+/
+
+m
+s
+p
+h
+e
+r
+e
+a
+s
+m
+o
+r
+g
+
+.
+
+.
+
+ABSTRACT The spread of colistin resistance gene mcr-1 at the animal-human inter-
+face remains largely unknown. This work aimed to investigate the molecular charac-
+two extended-spectrum-␤-lactamase (ESBL)-producing Escherichia coli
+teristics of
+strains with mcr-1, i.e., strains H8 and H9, isolated from the same mink farmer. In
+this study, ﬁve mcr-positive E. coli strains were isolated from the mink farm. Pulsed-
+ﬁeld gel electrophoresis (PFGE) and multilocus sequence typing (MLST) identiﬁed
+two genetically unrelated MCR-1 producers (H8 and H9) from the same farmer and
+two clonally related MCR-1-positive isolates (M5 and M6) from two different mink
+samples. Additionally, a mcr-1 variant, designated mcr-1.12, was identiﬁed in isolate
+M4. MIC determination revealed that all of the MCR-producing strains exhibited mul-
+tiresistant phenotypes but showed susceptibility to imipenem, meropenem, amika-
+cin, and tigecycline. Replicon typing showed that mcr-1 was associated with IncHI2
+plasmids in 4 cases, while the gene was located on an IncI2 plasmid in 1 case.
+PacBio sequencing and plasmid analysis conﬁrmed that the mcr-1 gene was located
+on an ⬃204-kb IncHI2 plasmid in H8 and was carried by an ⬃61-kb IncI2 plasmid in
+H9. To our knowledge, this work represents the ﬁrst report of the occurrence of
+MCR-producing isolates from mink. Moreover, our report also describes the coexis-
+tence of two different MCR-1 producers in the same farmer. It highlights that fur
+farms can be reservoirs of mcr-1 genes. The identiﬁcation of mcr-carrying plasmids
+on a fur farm is of potential public health importance, as it suggests that mcr is
+widespread in the animal husbandry industry.
+
+IMPORTANCE Colistin resistance is a real threat for both human and animal
+health. The mobile colistin resistance gene mcr has contributed to the persis-
+tence and transmission of colistin resistance at the interfaces of animals, hu-
+mans, and ecosystems. Although mcr genes have usually been recovered from
+food animals, patients, and healthy humans, transmission of mcr genes at the
+animal-human interface remains largely unknown. This was the ﬁrst study to iso-
+late and characterize MCR-producing isolates from mink, as well as to report the
+coexistence of two different MCR-1 producers in the same farmer. The character-
+ization and analysis of two MCR-1-producing E. coli isolates may have important
+implications for comprehension of the transmission dynamics of these bacteria.
+We emphasize the importance of improved multisectorial surveillance of colistin-
+resistant E. coli in this region.
+
+KEYWORDS farmer, MCR-1.12, ESBLs, PacBio, coexistence, mink
+
+/
+ 
+
+o
+n
+
+ 
+J
+u
+n
+e
+2
+3
+
+ 
+
+,
+ 
+
+2
+0
+2
+0
+ 
+b
+y
+ 
+g
+u
+e
+s
+t
+
+Citation Zheng B, Xu H, Huang C, Yu X, Guo L,
+Han H, Zhang J, Jiang X, Chen C, Xiao Y. 2019.
+Occurrence and genomic characterization of
+two MCR-1-producing Escherichia coli isolates
+from the same mink farmer. mSphere 4:
+e00602-19. https://doi.org/10.1128/mSphere
+.00602-19.
+Editor Ana Cristina Gales, Escola Paulista de
+Medicina/Universidade Federal de São Paulo
+Copyright © 2019 Zheng et al. This is an open-
+access article distributed under the terms of
+the Creative Commons Attribution 4.0
+International license.
+Address correspondence to Yonghong Xiao,
+xiaoyonghong@zju.edu.cn.
+Beiwen Zheng, Hao Xu, and Chen Huang
+contributed equally to this article.
+Received 29 August 2019
+Accepted 19 October 2019
+Published
+
+6 November 2019
+
+November/December 2019 Volume 4 Issue 6 e00602-19
+
+msphere.asm.org 1
+
+Zheng et al.
+
+Colistin is one of the most critically important antimicrobials and is considered a
+
+drug of last resort for the treatment of infections caused by multidrug-resistant
+pathogens. The transmissible colistin resistance gene mcr-1 was ﬁrst discovered in food
+animals and humans in 2015 (1). Since then, this gene has been detected in pets, wild
+birds, and environmental samples from various sources (2). Interestingly, a previous
+study reported the possibility that extended-spectrum ␤-lactamases (ESBLs), carbap-
+enemase enzymes, and MCR-1 have coexisted since the 1980s (3). The cooccurrence of
+carbapenemase genes or ESBL genes and mcr-1 in the same isolate is of concern
+because it has the potential to lead to pan-drug resistance (4).
+
+Previous studies have conﬁrmed the spread of mcr genes mainly via epidemic
+plasmids (IncI2, IncHI2, IncP, IncX4, IncFI, and IncFIB) of various sizes (58 to 251 kb) (5).
+The acquisition of the mcr-1 gene has been investigated extensively, and diverse
+genetic contexts surrounding mcr-1 genes have been discovered (6). However, com-
+prehensive information regarding the prevalence of mcr-1 in isolates from fur-bearing
+animals and the spread of colistin resistance at the animal-human interface remains
+limited.
+
+We performed a survey of fecal isolates from two adjacent farms (a fur farm and a
+household farm) located in Shandong Province, China, in June 2016. A total of 20
+samples from fur animals, 10 from chicken, 5 from pigs, and 10 from farmers were
+collected. One fecal sample was collected from each farmer and animal. Fecal samples
+were collected using sterile swabs and stored in sterile tubes. Subsequently, samples
+were placed on ice, transported to the laboratory, and processed within 24 h after
+collection.
+
+Fecal samples were cultured on MacConkey agar plates supplemented with 2 mg/
+liter cefotaxime at 37°C for 24 h under aerobic conditions to recover potential ESBL-
+producing isolates. The MICs were determined by the agar dilution method and
+interpreted according to CLSI standards (7), and EUCAST breakpoints for tigecycline,
+colistin, and polymyxin B were applied. Escherichia coli strain ATCC 25922 was used as
+a quality control.
+
+Each isolate was tested for the presence of genes encoding ESBLs (8, 9) and MCR
+variants via PCR and sequencing (see Table S1 in the supplemental material). The clonal
+relatedness of the E. coli isolates was assessed using pulsed-ﬁeld gel electrophoresis
+(PFGE) (8) and multilocus sequence typing (MLST) (http://enterobase.warwick.ac.uk/
+species/ecoli/allele_st_search).
+
+MCR-positive isolates were characterized by conjugation experiments to assess their
+ability to transfer colistin resistance (10). Plasmid sizes were determined using S1-PFGE
+and Southern blotting methods as previously described (8). The identiﬁcation of the
+plasmid incompatibility (Inc) group replicon types was performed by multiplex PCR, as
+described previously (11). The circular image representing comparisons of multiple
+plasmids was generated by the BLAST Ring Image Generator (BRIG) (12).
+
+Genomic DNA was extracted using an Omega bacterial DNA kit (Omega Bio-tek,
+Norcross, CA, USA). Illumina sequencing was performed on MCR-1 variant isolate M4
+and on MCR-1-producing isolates from the same farmer (H8 and H9) with the HiSeq
+4000-PE150 platform (Illumina, San Diego, CA, USA). Illumina sequencing libraries were
+prepared using standardized protocols (6, 13). To obtain the complete sequences of
+pMCR-H8 and pMCR-H9, isolates H8 and H9 were further subjected to single-molecule
+real-time (SMRT) DNA sequencing on a PacBio RS II platform (Paciﬁc Biosciences, CA,
+USA). The complete genome sequences for E. coli H8 and H9 were created by com-
+bining Illumina sequencing reads with PacBio sequencing reads, using Unicycler (14).
+PlasmidSPAdes was used to produce plasmid sequences from whole-genome-
+sequencing (WGS) data (http://spades.bioinf.spbau.ru/plasmidSPAdes/). Additionally, in
+silico sequence analyses of multilocus sequencing typing (MLST) data, antimicrobial
+resistance genes, and plasmid replicon typing were performed using online tools
+(http://www.genomicepidemiology.org/).
+
+Overall, 20 ESBL-producing E. coli isolates were identiﬁed from human and animal
+fecal samples (Fig. 1). We detected blaCTX-M genes in all isolates, including blaCTX-M-14
+
+November/December 2019 Volume 4 Issue 6 e00602-19
+
+msphere.asm.org 2
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+
+:
+/
+/
+
+m
+s
+p
+h
+e
+r
+e
+a
+s
+m
+o
+r
+g
+
+.
+
+.
+
+/
+ 
+
+o
+n
+
+ 
+J
+u
+n
+e
+2
+3
+
+ 
+
+,
+ 
+
+2
+0
+2
+0
+ 
+b
+y
+ 
+g
+u
+e
+s
+t
+
+Two MCR-1-Producing E. coli in a Single Mink Farmer
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+
+:
+/
+/
+
+m
+s
+p
+h
+e
+r
+e
+a
+s
+m
+o
+r
+g
+
+.
+
+.
+
+/
+ 
+
+o
+n
+
+ 
+J
+u
+n
+e
+2
+3
+
+ 
+
+,
+ 
+
+2
+0
+2
+0
+ 
+b
+y
+ 
+g
+u
+e
+s
+t
+
+FIG 1 Summary of the molecular epidemiological characteristics of ESBL-producing E. coli strains identiﬁed from adjacent farms in China, 2016. The
+dendrogram of PFGE patterns was constructed using BioNumerics v6.6 with unweighted pair group method using average linkages (UPGMA) clustering. AMK,
+amikacin; CFZ, cefazolin; CIP, ciproﬂoxacin; CST, colistin; CXM, cefuroxime; FOX, cefoxitin; GEN, gentamicin; IMP, imipenem; MEM, meropenem; PMB, polymyxin
+B; PTZ, piperacillin-tazobactam; TET, tetracycline; TGC, tigecycline; ESBL, extended-spectrum ␤-lactamase; Neg, negative; Pos, positive. MICs were determined
+according to CLSI standards. The EUCAST breakpoints for tigecycline, colistin, and polymyxin B were applied.
+
+(n ⫽ 10), blaCTX-M-65 (n ⫽ 4), and blaCTX-M-54 (n ⫽ 1). The remaining ESBL isolates be-
+longed to the blaCTX-M-55 group (n ⫽ 5). We further identiﬁed 5 (22.7%) mcr-positive E.
+coli isolates from the fur farm (Fig. 1). Among them, 3 were isolated from mink samples,
+while the remaining 2 were detected in the same farmer. DNA sequencing revealed that
+four isolates carried the mcr-1 gene, while isolate M4 harbored a new mcr variant. The
+mcr-1.12 gene, as designated here, carries a missense mutation at position 48 (T¡G),
+which results in a Phe16-to-Leu substitution. MIC determination revealed that all of the
+MCR-producing strains exhibited multiresistant phenotypes but showed susceptibility
+to imipenem, meropenem, amikacin, and tigecycline (Fig. 1).
+
+Genetic diversity was observed in the PFGE proﬁles, and no obvious major pulso-
+types were found via PFGE analysis. Isolates H2 and H3, isolates M5 and M6, and isolates
+H2 and H3 shared high homology, respectively (Fig. 1). MLST of the 20 E. coli isolates
+identiﬁed 15 unique sequence types (STs). ST10 (n ⫽ 3) was the predominant ST among
+the isolates, with all ST10 isolates being recovered from farm workers (Fig. 1). Four
+different STs were detected among the 5 E. coli isolates carrying mcr genes. Of note,
+two MCR-1-positive isolates (H8 and H9) from the same fur animal farm worker
+belonged to ST101 and ST6390, respectively. Transconjugation experiments, replicon
+typing, and S1-PFGE demonstrated the cooccurrence of mcr-1 and blaCTX-M-9 group
+genes on the three IncHI2 plasmids (pMCR-M4, pMCR-M5, and pMCR-M6) of ⬃218 kb
+and one IncHI2 plasmid (pMCR-H8) of ⬃206 kb (see Fig. S1 in the supplemental
+material). Transconjugants from H8 isolates exhibited elevated colistin, ampicillin,
+cefazolin, and ceftriaxone MICs; by contrast, transconjugants from H9 showed elevated
+colistin MICs only (Table S2).
+
+The complete sequence of pMCR-H8 harboring the mcr-1 gene was 203,941 bp
+
+November/December 2019 Volume 4 Issue 6 e00602-19
+
+msphere.asm.org 3
+
+Zheng et al.
+
+(Fig. 2A; see also Table S3). Plasmid comparisons based on full-plasmid BLAST query
+revealed that pMCR-H8 was closely related to plasmid pHNSHP45-2 (GenBank no.
+KU341381), which was described in the original report of the discovery of mcr-1 (15).
+Annotations showed that pMCR-H8 also carried genes conferring resistance to crucially
+important antibiotics for human treatment, including cephalosporin (blaCTX-M-14), ﬂo-
+rfenicol (ﬂoR), fosfomycin (fosA3), and quinolone (oqxAB ) (Fig. 2A; see also Table S3). In
+contrast, pMCR-H9 was found to be a 60,942-bp IncI2 plasmid. The overall structure of
+pMCR-H9 was identical to that of various IncI2-type plasmids (Fig. 2B),
+including
+pJIE3685-1, identiﬁed from a human urine E. coli isolate collected in Australia (16), and
+pColR598_2, recovered from a human isolate collected in Switzerland (17). Interestingly,
+pMCR-H8 and pMCR-M4 exhibited low sequence identity (Fig. 2A), although they are
+similar in size (Fig. S1). These results suggest the genetic diversity of mcr-1-carrying
+plasmids from mink and human origin and the ﬂexibility of mcr-1 transmission between
+animal and human.
+
+In this work, the mcr-1 gene was found in three genetic contexts, including mcr-1
+pap2 , ISApl1 mcr-1 pap2, and ISApl1 mcr-1 pap2 ISApl1. The complete sequence of
+pMCR-H8 revealed the presence of ISApl1 mcr-1 pap2, while ISApl1 was absent in
+pMCR-H9 (Fig. 2). We further identiﬁed an IncHI2 plasmid contig carrying the mcr-1.12
+gene from isolate M4 using the plasmidSPAdes assembler with high coverage. Query-
+ing this ⬃43-kb-length contig against the NCBI nr/nt sequence database revealed 100%
+sequence homology to annotated mcr-1-positive IncHI2 plasmid pHNSHP45-2 (Gen-
+Bank: KU341381 ) (Fig. 2A). A typical structure surrounding the mcr-1 gene (ISApl1
+mcr-1.12 pap2 ISApl1) was observed in the plasmid contig (Fig. S2).
+
+Previous studies have shown that farm workers have a higher rate of carriage of
+ESBL/AmpC-producing E. coli than the general population (18). The cooccurrence of
+two different MCR-1-producing isolates in the same farmer indicates that individuals in
+direct contact with minks are at potential risk for carrying MCR-1 producers, although
+the magnitude of this risk remains to be elucidated.
+
+Colistin is widespread used in animals but rarely used on mink breeding farms in
+China (1, 19). Our retrospective questionnaire also revealed that only ﬂavomycin was
+used for growth promotion on the fur farm, while no history of usage of polymyxins
+was reported from the farmers. Recently, Wu et al. reported the rapid rise in carriage of
+the ESBL and mcr-1 genes in E. coli of chicken origin in Shandong Province (20).
+Previous investigations also found that MCR variants were widespread among samples
+from farmers (21, 22). We hypothesized that the introduction of mcr-1-positive bacteria
+in fur farms had occurred via the food chain-based dissemination pathway, since the
+farmer reported the breed history of mink fed with chicken bones. Thus far, only limited
+reports have described the patterns of antimicrobial use and antimicrobial-resistant
+bacteria among mink (23, 24). The epidemiology of antimicrobial-resistant bacteria
+among mink and farm workers is largely unknown. Therefore, a “One Health” strategy
+for preventing the spread of colistin resistance at the human-mink-environment inter-
+face is essential.
+
+The major types of mcr-1-carrying plasmids, including IncI2, IncHI2, IncX4, IncP, IncFI,
+and IncFIB plasmids of various sizes, have been identiﬁed in E. coli isolates from diverse
+hosts (5). In fact, mcr-1-carrying IncHI2/IncI2 plasmids were frequently identiﬁed from
+animal, human, and environmental samples in China (20, 25). Our data further con-
+ﬁrmed that similar IncHI2 and IncI2 plasmids carrying mcr-1 gene are prevalent in
+various sources in China.
+
+In summary, we describe the emergence of MCR-1 producers in mink and the
+coexistence of two different MCR-1-producing E. coli
+isolates in the same farmer.
+Notwithstanding the limitations of this work, our ﬁndings indicate that mcr-1-carrying
+IncHI2/IncI2 plasmids are widely disseminated in China. Additional studies involving
+more fur animals and farm workers are urgently needed to assess the dissemination
+dynamics of mcr genes.
+
+November/December 2019 Volume 4 Issue 6 e00602-19
+
+msphere.asm.org 4
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+
+:
+/
+/
+
+m
+s
+p
+h
+e
+r
+e
+a
+s
+m
+o
+r
+g
+
+.
+
+.
+
+/
+ 
+
+o
+n
+
+ 
+J
+u
+n
+e
+2
+3
+
+ 
+
+,
+ 
+
+2
+0
+2
+0
+ 
+b
+y
+ 
+g
+u
+e
+s
+t
+
+Two MCR-1-Producing E. coli in a Single Mink Farmer
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+
+:
+/
+/
+
+m
+s
+p
+h
+e
+r
+e
+a
+s
+m
+o
+r
+g
+
+.
+
+.
+
+/
+ 
+
+o
+n
+
+ 
+J
+u
+n
+e
+2
+3
+
+ 
+
+,
+ 
+
+2
+0
+2
+0
+ 
+b
+y
+ 
+g
+u
+e
+s
+t
+
+FIG 2 Complete sequences of two mcr-1-carrying plasmids detected in the same fur farmer. (A) Alignment of
+plasmid sequence of pMCR-H8 with IncHI2 plasmids pHNSHP45-2 (KU341381) and pMCR-M4. Sequence of pM4MCR
+contig was generated by plasmidSPAdes. (B) Comparison of pMCR-H9 with other IncI2 plasmids harboring mcr-1
+gene. The following plasmids were included in the comparison: pBA77-MCR-1 (KX013539), pColR598_2 (MF175189),
+pEC5-1 (CP016185), and pJIE3685-1 (KY795978). Circles (from inside to outside) denote the GC content, the GC skew,
+and the open reading frames (ORFs) in both DNA strands. Block arrows represent coding sequences and indicate
+the direction of transcription. Antimicrobial resistance genes are highlighted in red. Arrow size is proportional to
+gene length. The circular image representing comparisons of multiple plasmids was generated by BRIG.
+
+November/December 2019 Volume 4 Issue 6 e00602-19
+
+msphere.asm.org 5
+
+Zheng et al.
+
+Data availability. Whole-genome shotgun BioProject data for the E. coli H8 and H9
+isolates have been deposited in GenBank under BioProject accession no. PRJNA449899.
+The whole-genome sequence of the E. coli M4 isolate has been deposited in GenBank
+under accession no. MTRZ00000000. The mcr-1.12 gene sequence has been deposited
+in GenBank under accession no. KY400027.
+
+SUPPLEMENTAL MATERIAL
+
+Supplemental material for this article may be found at https://doi.org/10.1128/
+
+mSphere.00602-19.
+
+FIG S1, TIF ﬁle, 2.6 MB.
+FIG S2, TIF ﬁle, 0.3 MB.
+TABLE S1, DOCX ﬁle, 0.03 MB.
+TABLE S2, DOCX ﬁle, 0.02 MB.
+TABLE S3, DOCX ﬁle, 0.02 MB.
+
+ACKNOWLEDGMENTS
+
+This work was supported by the National Key R&D Program of China (grant no.
+2017YFC1200203 and 2016YFD0501105), the National Natural Science Foundation of
+China (grant no. 81741098 and 81361138021), and the Zhejiang Provincial Natural
+Science Foundation of China (grant no. LY15H030012 and LY17H190003).
+
+REFERENCES
+1. Liu Y-Y, Wang Y, Walsh TR, Yi L-X, Zhang R, Spencer J, Doi Y, Tian G, Dong
+B, Huang X, Yu L-F, Gu D, Ren H, Chen X, Lv L, He D, Zhou H, Liang Z, Liu
+J-H, Shen J. 2016. Emergence of plasmid-mediated colistin resistance
+mechanism MCR-1 in animals and human beings in China: a microbio-
+logical and molecular biological study. Lancet Infect Dis 16:161–168.
+https://doi.org/10.1016/S1473-3099(15)00424-7.
+
+2. Sun J, Zhang H, Liu YH, Feng Y. 2018. Towards understanding MCR-like
+colistin resistance. Trends Microbiol 26:794 – 808. https://doi.org/10
+.1016/j.tim.2018.02.006.
+
+3. Rhouma M, Letellier A. 2017. Extended-spectrum beta-lactamases, carbap-
+enemases and the mcr-1 gene: is there a historical link? Int J Antimicrob
+Agents 49:269–271. https://doi.org/10.1016/j.ijantimicag.2016.11.026.
+
+4. Zheng B, Lv T, Xu H, Yu X, Chen Y, Li J, Huang C, Guo L, Zhang J, Jiang
+X, Xiao Y, Li L. 2018. Discovery and characterisation of an Escherichia coli
+ST206 strain producing NDM-5 and MCR-1 from a patient with acute
+diarrhoea in China. Int J Antimicrob Agents 51:273–275. https://doi.org/
+10.1016/j.ijantimicag.2017.09.005.
+
+5. Poirel L, Jayol A, Nordmann P. 2017. Polymyxins: antibacterial activity,
+susceptibility testing, and resistance mechanisms encoded by plas-
+mids or chromosomes. Clin Microbiol Rev 30:557–596. https://doi
+.org/10.1128/CMR.00064-16.
+
+6. Zhong L-L, Phan HTT, Shen C, Vihta K-D, Sheppard AE, Huang X, Zeng
+K-J, Li H-Y, Zhang X-F, Patil S, Crook DW, Walker AS, Xing Y, Lin J-L, Feng
+L-Q, Doi Y, Xia Y, Stoesser N, Tian G-B. 2018. High rates of human fecal
+carriage of mcr-1-positive multidrug-resistant Enterobacteriaceae
+emerge in China in association with successful plasmid families. Clin
+Infect Dis 66:676 – 685. https://doi.org/10.1093/cid/cix885.
+
+7. CLSI. 2017. Performance standards for antimicrobial susceptibility test-
+ing. 27th ed. CLSI supplement M100. Clinical and Laboratory Standards
+Institute, Wayne, PA.
+
+8. Zheng B, Dong H, Xu H, Lv J, Zhang J, Jiang X, Du Y, Xiao Y, Li L. 2016.
+Coexistence of MCR-1 and NDM-1 in clinical Escherichia coli isolates. Clin
+Infect Dis 63:1393–1395. https://doi.org/10.1093/cid/ciw553.
+
+9. Zhang J, Zhou K, Zheng B, Zhao L, Shen P, Ji J, Wei Z, Li L, Zhou J, Xiao
+Y. 2016. High prevalence of ESBL-producing Klebsiella pneumoniae
+causing community-onset infections in China. Front Microbiol 7:1830.
+https://doi.org/10.3389/fmicb.2016.01830.
+
+10. Zhou HW, Zhang T, Ma JH, Fang Y, Wang HY, Huang ZX, Wang Y, Wu C,
+Chen GX. 25 July 2017, posting date. Occurrence of plasmid- and
+chromosome-carried mcr-1 in waterborne Enterobacteriaceae in China.
+Antimicrob Agents Chemother https://doi.org/10.1128/AAC.00017-17.
+
+11. Carattoli A, Bertini A, Villa L, Falbo V, Hopkins KL, Threlfall EJ. 2005.
+Identiﬁcation of plasmids by PCR-based replicon typing. J Microbiol
+Methods 63:219 –228. https://doi.org/10.1016/j.mimet.2005.03.018.
+
+12. Zheng B, Yu X, Xu H, Guo L, Zhang J, Huang C, Shen P, Jiang X, Xiao Y,
+Li L. 2017. Complete genome sequencing and genomic characterization
+of two Escherichia coli strains co-producing MCR-1 and NDM-1 from
+bloodstream infection. Sci Rep 7:17885. https://doi.org/10.1038/s41598
+-017-18273-2.
+
+13. Hu Y, Zhang W, Liang H, Liu L, Peng G, Pan Y, Yang X, Zheng B, Gao GF,
+Zhu B, Hu H. 2011. Whole-genome sequence of a multidrug-resistant
+clinical
+isolate of Acinetobacter lwofﬁi. J Bacteriol 193:5549 –5550.
+https://doi.org/10.1128/JB.05617-11.
+
+14. Wick RR, Judd LM, Gorrie CL, Holt KE. 2017. Unicycler: resolving bacterial
+genome assemblies from short and long sequencing reads. PLoS Com-
+put Biol 13:e1005595. https://doi.org/10.1371/journal.pcbi.1005595.
+
+15. Zhi C, Lv L, Yu L-F, Doi Y, Liu J-H. 2016. Dissemination of the mcr-1
+colistin resistance gene. Lancet Infect Dis 16:292–293. https://doi.org/10
+.1016/S1473-3099(16)00063-3.
+
+16. Ellem JA, Ginn AN, Chen SC, Ferguson J, Partridge SR, Iredell JR. 2017.
+Locally acquired mcr-1 in Escherichia coli, Australia, 2011 and 2013. Emerg
+Infect Dis 23:1160–1163. https://doi.org/10.3201/eid2307.161638.
+
+17. Zurﬂuh K, Nuesch-Inderbinen M, Klumpp J, Poirel L, Nordmann P,
+Stephan R. 2017. Key features of mcr-1-bearing plasmids from Esche-
+richia coli
+isolated from humans and food. Antimicrob Resist Infect
+Control 6:91. https://doi.org/10.1186/s13756-017-0250-8.
+
+18. Huijbers PM, Graat EA, Haenen AP, van Santen MG, van Essen-
+Zandbergen A, Mevius DJ, van Duijkeren E, van Hoek AH. 2014.
+Extended-spectrum and AmpC beta-lactamase-producing Escherichia
+coli
+in broilers and people living and/or working on broiler farms:
+prevalence, risk factors and molecular characteristics. J Antimicrob Che-
+mother 69:2669 –2675. https://doi.org/10.1093/jac/dku178.
+
+19. Qi J, Li L, Du Y, Wang S, Wang J, Luo Y, Lu CJ, Liu J, Hu H, Li G, Gong J,
+Wang Y, Hu G, Shiganyan M, Liu Y. 2014. The identiﬁcation, typing, and
+antimicrobial susceptibility of Pseudomonas aeruginosa isolated from
+mink with hemorrhagic pneumonia. Vet Microbiol 170:456 – 461. https://
+doi.org/10.1016/j.vetmic.2014.02.025.
+
+20. Wu C, Wang Y, Shi X, Wang S, Ren H, Shen Z, Wang Y, Lin J, Wang S. 2018.
+Rapid rise of the ESBL and mcr-1 genes in Escherichia coli of chicken
+origin in China, 2008 –2014. Emerg Microbes Infect 7:30. https://doi.org/
+10.1038/s41426-018-0033-1.
+
+21. Xu Y, Zhong LL, Srinivas S, Sun J, Huang M, Paterson DL, Lei S, Lin J, Li
+X, Tang Z, Feng S, Shen C, Tian GB, Feng Y. 2018. Spread of MCR-3
+colistin resistance in China: an epidemiological, genomic and mechanis-
+tic study. EBioMedicine 34:139 –157. https://doi.org/10.1016/j.ebiom
+.2018.07.027.
+
+22. Wang Y, Zhang R, Li J, Wu Z, Yin W, Schwarz S, Tyrrell JM, Zheng Y, Wang
+S, Shen Z, Liu Z, Liu J, Lei L, Li M, Zhang Q, Wu C, Zhang Q, Wu Y, Walsh
+
+November/December 2019 Volume 4 Issue 6 e00602-19
+
+msphere.asm.org 6
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+
+:
+/
+/
+
+m
+s
+p
+h
+e
+r
+e
+a
+s
+m
+o
+r
+g
+
+.
+
+.
+
+/
+ 
+
+o
+n
+
+ 
+J
+u
+n
+e
+2
+3
+
+ 
+
+,
+ 
+
+2
+0
+2
+0
+ 
+b
+y
+ 
+g
+u
+e
+s
+t
+
+Two MCR-1-Producing E. coli in a Single Mink Farmer
+
+TR, Shen J. 2017. Comprehensive resistome analysis reveals the preva-
+lence of NDM and MCR-1 in Chinese poultry production. Nat Microbiol
+2:16260. https://doi.org/10.1038/nmicrobiol.2016.260.
+
+23. Pedersen K, Hammer AS, Sorensen CM, Heuer OE. 2009. Usage of
+antimicrobials and occurrence of antimicrobial resistance among
+bacteria from mink. Vet Microbiol 133:115–122. https://doi.org/10
+.1016/j.vetmic.2008.06.005.
+
+24. Nikolaisen NK, Lassen DCK, Chriel M, Larsen G, Jensen VF, Pedersen K. 13
+
+September 2017, posting date. Antimicrobial resistance among patho-
+genic bacteria from mink (Neovison vison) in Denmark. Acta Vet Scand
+https://doi.org/10.1186/s13028-017-0328-6.
+
+25. Shen C, Feng S, Chen H, Dai M, Paterson DL, Zheng X, Wu X, Zhong LL,
+Liu Y, Xia Y, Ma R, Huang X, Tian GB. 2018. Transmission of mcr-1-
+producing multidrug-resistant Enterobacteriaceae in public transporta-
+tion in Guangzhou, China. Clin Infect Dis 67:S217–S224. https://doi.org/
+10.1093/cid/ciy661.
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+
+ 
+f
+r
+o
+m
+h
+
+ 
+
+t
+t
+
+p
+
+:
+/
+/
+
+m
+s
+p
+h
+e
+r
+e
+a
+s
+m
+o
+r
+g
+
+.
+
+.
+
+/
+ 
+
+o
+n
+
+ 
+J
+u
+n
+e
+2
+3
+
+ 
+
+,
+ 
+
+2
+0
+2
+0
+ 
+b
+y
+ 
+g
+u
+e
+s
+t
+
+November/December 2019 Volume 4 Issue 6 e00602-19
+
+msphere.asm.org 7
+
+

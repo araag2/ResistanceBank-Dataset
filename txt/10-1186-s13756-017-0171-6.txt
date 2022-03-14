@@ -1,0 +1,2343 @@
+Eguale et al. Antimicrobial Resistance and Infection Control  (2017) 6:13 
+DOI 10.1186/s13756-017-0171-6
+
+Open Access
+
+R ES EAR CH
+Genetic markers associated with
+resistance to beta-lactam and quinolone
+antimicrobials in non-typhoidal Salmonella
+isolates from humans and animals in
+central Ethiopia
+Tadesse Eguale1*, Josephine Birungi2, Daniel Asrat3, Moses N. Njahira4, Joyce Njuguna2, Wondwossen A. Gebreyes5,
+John S. Gunn6, Appolinaire Djikeng2 and Ephrem Engidawork7
+
+Abstract
+
+Background: Beta-lactam and quinolone antimicrobials are commonly used for treatment of infections caused by
+non-typhoidal Salmonella (NTS) and other pathogens. Resistance to these classes of antimicrobials has increased
+significantly in the recent years. However, little is known on the genetic basis of resistance to these drugs in
+Salmonella isolates from Ethiopia.
+Methods: Salmonella isolates with reduced susceptibility to beta-lactams (n = 43) were tested for genes encoding
+for beta-lactamase enzymes, and those resistant to quinolones (n = 29) for mutations in the quinolone resistance
+determining region (QRDR) as well as plasmid mediated quinolone resistance (PMQR) genes using PCR and sequencing.
+Results: Beta-lactamase genes (bla) were detected in 34 (79.1%) of the isolates. The dominant bla gene was blaTEM,
+recovered from 33 (76.7%) of the isolates, majority being TEM-1 (24, 72.7%) followed by TEM-57, (10, 30.3%).
+The blaOXA-10 and blaCTX-M-15 were detected only in a single S. Concord human isolate. Double substitutions
+in gyrA (Ser83-Phe + Asp87-Gly) as well as parC (Thr57-Ser + Ser80-Ile) subunits of the quinolone resistance determining
+region (QRDR) were detected in all S. Kentucky isolates with high level resistance to both nalidixic acid and ciprofloxacin.
+Single amino acid substitutions, Ser83-Phe (n = 4) and Ser83-Tyr (n = 1) were also detected in the gyrA gene. An isolate of
+S. Miami susceptible to nalidixic acid but intermediately resistant to ciprofloxacin had Thr57-Ser and an additional novel
+mutation (Tyr83-Phe) in the parC gene. Plasmid mediated quinolone resistance (PMQR) genes investigated were not
+detected in any of the isolates. In some isolates with decreased susceptibility to ciprofloxacin and/or nalidixic acid,
+no mutations in QRDR or PMQR genes were detected. Over half of the quinolone resistant isolates in the current
+study 17 (58.6%) were also resistant to at least one of the beta-lactam antimicrobials.
+Conclusion: Acquisition of blaTEM was the principal beta-lactamase resistance mechanism and mutations within QRDR
+of gyrA and parC were the primary mechanism for resistance to quinolones. Further study on extended spectrum
+beta-lactamase and quinolone resistance mechanisms in other gram negative pathogens is recommended.
+Keywords: Non-typhoidal Salmonella, Antimicrobial resistance, Mechanisms of resistance, Beta-lactamase,
+Quinolone, Fluoroquinolone, Human strains, Animal strains, Ethiopia
+
+* Correspondence: tadesse.eguale@aau.edu.et
+1Aklilu Lemma Institute of Pathobiology, Addis Ababa University, P.O. Box
+1176, Addis Ababa, Ethiopia
+Full list of author information is available at the end of the article
+
+© The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Eguale et al. Antimicrobial Resistance and Infection Control  (2017) 6:13 
+
+Page 2 of 10
+
+Background
+Salmonellosis in humans is caused by several serovars
+belonging to Salmonella enterica subspecies enterica. In-
+fection by Salmonella causes two forms of diseases;
+typhoid fever, a febrile illness caused by a few host spe-
+cific serovars such as Salmonella enterica subspecies
+enterica serovar Typhi (S. Typhi,) and S. Paratyphi A,
+while the majority of Salmonella serovars cause non-
+typhoidal salmonellosis characterized by self
+limiting
+gastoentritis and occasional
+invasive salmonellosis in
+immunocompromised, young and elderly patients. Infec-
+tion with non-typhoidal Salmonella (NTS) serovars is
+one of the leading causes of foodborne illnesses world-
+wide [1]. NTS infection is commonly associated with
+consumption of contaminated food of animal origin
+such as poultry products, beef and pork as well as con-
+tact with infected animals [2–4].
+
+Antimicrobial treatment is usually not recommended
+due to the self-limiting nature of the disease. However,
+in cases of invasive complicated salmonellosis, treatment
+with beta-lactam antimicrobials such as ampicillin, cef-
+triaxone and quinolone drugs are employed as lifesaving
+agents [5]. Resistance to beta-lactam antimicrobials and
+quinolones has increased dramatically in NTS isolates
+from humans as well as food animals worldwide [6–9].
+The common mechanism of resistance to beta-lactam
+antimicrobials is due to production of beta-lactamase
+enzymes with variable level of activity against different
+generations of beta-lactam antimicrobials. In addition to
+the first generation beta-lactamases: blaTEM1, blaSHV1,
+several extended spectrum blaTEM and blaSHV variants,
+other extended spectrum beta-lactamase enzymes such as
+blaCTX-M, blaCMY, blaOXA and AmpC have been re-
+ported in Salmonella serotypes from different parts of the
+world [10–13].
+
+Resistance to quinolone drugs is primarily mediated by
+mutations in Quinolone Resistance Determining Region
+(QRDR) of gyrA and parC genes in Salmonella and
+other Gram-negative organisms. Specifically, high level
+resistance to ciprofloxacin is frequently attributed to
+double mutations in the gyrA gene and single or double
+mutation in the parC gene [14]. In addition to chromo-
+somal mutations, other mechanisms such as activation
+of efflux pumps (multidrug efflux pump and quinolone
+specific plasmid mediated efflux pump encoded by qep
+genes), qnr (plasmid-mediated quinolone resistance),
+porins, and quinolone-modifying enzyme (aac(6')-Ib-cr)
+have been associated with decreased susceptibility to
+quinolones [14]. Of particular concern is the occurrence,
+within the last few years in different parts of the world,
+of plasmid-mediated quinolone resistance encoded by
+several qnr genes. These genes encode for pentapeptide
+proteins that protect bacterial topoisomerases from the
+effect of quinolones. They do not induce high level
+
+resistance but their presence leads to mutation in the
+QRDR [15]. However, recent report from Senegal indi-
+cated the presence of qnrB1 together with the quinolone
+modifying enzyme aac(6’)-Ib-cr in Salmonella associated
+with high level resistance to ciprofloxacin even in the
+absence of mutations in the QRDR [16]. These resist-
+ance determinants have been observed in various gram
+negative organisms including Salmonella [16, 17]. In
+recent years, the rate of resistance to ciprofloxacin has
+increased considerably in both clinical and food isolates
+of Salmonella [6, 18, 19].
+
+In Ethiopia, reports revealed resistance to beta-lactam
+antimicrobials and quinolones in Salmonella isolates
+from human patients and food of animal origin [20, 21].
+However, little data is available on the genetic basis of
+the observed phenotypic drug resistance. Multidrug re-
+sistant S. Concord isolates obtained from children
+adopted from Ethiopia in different European countries
+and USA were reported to harbor blaCTX-M-15,
+blaTEM1, blaSHV-12 genes encoding for resistance to
+third generation cephalosporins, qnrA and qnrB encoding for
+reduced susceptibility to fluoroquinolones [22, 23]. The
+aim of this study was to investigate the genetic markers
+associated with resistance to beta-lactam and quinolone
+antimicrobials
+collected from
+among NTS isolates
+humans and animals in central Ethiopia.
+
+Methods
+Bacterial isolates
+Non-typhoidal Salmonella strains investigated in the
+current study were isolated from feces of food animals
+(cattle n = 50, poultry n = 26, swine n = 8)
+in Addis
+Ababa and surrounding districts of Oromia region
+namely: Ada, Barake, Sebeta and Sululta. In addition,
+Salmonella isolates obtained from stool of temporally
+and spatially related diarrheic human patients from primary
+health centers and Tikur Anbessa Specialized Hospital in
+Addis Ababa (n = 68) were also included. All human and
+animal isolates were collected from 2013 to 2014.
+
+Antimicrobial susceptibility testing, serotyping and
+phage typing
+Susceptibility of each isolate to beta-lactam and quinolone
+antimicrobials was determined using disk diffusion method
+according to the guidelines of the Clinical and Laboratory
+Standards Institute (CLSI). The interpretation of the cate-
+gories of susceptible, intermediate or resistant was also
+based on the CLSI guidelines [24]. For purposes of analysis,
+all readings classified as intermediate were considered re-
+sistant unless otherwise mentioned. Escherichia coli ATCC
+25922 was used as a quality control. Salmonella isolates
+were serotyped and phage-typed at the Public Health
+Agency of Canada, World Organization for Animal Health
+
+Eguale et al. Antimicrobial Resistance and Infection Control  (2017) 6:13 
+
+Page 3 of 10
+
+(OIÉ), Reference Laboratory for Salmonellosis, Guelph,
+Ontario, Canada as described previously [25].
+
+Bacterial DNA extraction
+Isolates were grown on Luria Bertani (LB) agar (37 °C,
+over night). A single colony was inoculated to 5 ml of
+LB broth and grown in a shaking incubator at 37 °C for
+16–18 h. Genomic DNA was then extracted using the
+QIAGEN genomic DNA extraction kit (QIAGEN, USA)
+according to the manufacturer’s recommendation.
+
+Detection and characterization of beta-lactamase
+enzymes
+A total of 43 isolates, 12 from humans and 31 from ani-
+mals, with reduced susceptibility to one or more of
+beta-lactam antimicrobials
+(ampicillin, amoxicillin +
+clavulanic acid, cephalothin, ceftriaxone) were tested
+for genes encoding for beta-lactamase enzymes. PCR
+
+and DNA sequencing were performed for the detec-
+tion and characterization of beta-lactamase (bla) genes
+with oligonucleotide primers previously described for
+blaTEM, blaSHV, blaPER, blaPSE, blaOXA1, blaOXA4,
+blaOXA10, blaCMY, and blaCTX-M genes (Table 1). The
+PCR conditions for all reactions involved an initial de-
+naturation for 3 min at 95 °C followed by 30 cycles of
+(95 °C for 30 s, specific annealing temperature for 1 min,
+and extension at 72 °C for 30 s) followed by a final exten-
+sion at 72 °C for 5 min. Specific annealing temperature for
+each PCR reaction is shown in Table 1. Group specific
+primers were used to characterize blaCTX-M enzymes
+[26]. The PCR amplicons were purified using QIAGEN
+PCR purification kit (QIAGEN, USA) and sequenced
+with forward and reverse primers at Sequencing, Geno-
+typing, Oligosynthesis and Proteomics (Segolip) unit of
+Biosciences eastern and central Africa (BecA). All
+amplicon sequences were assembled and translated to
+
+Table 1 List of primers used for detection and characterization of beta-lactamases
+Gene/target
+BLATem Gene
+
+Sequence 5’-3’
+ATGAGTATTCAACATTTCCG
+
+Primer
+TEM-F1
+
+Amplicon size
+862-bp
+
+TEM-R1
+
+blaTEM-F2
+
+blaTEM-R2
+
+Bla SHV-F1
+
+Bla SHV-R1
+
+blaSHV-F2
+
+blaSHV-R2
+
+OXA-1-F
+
+OXA-1-R
+
+OXA-4-F
+
+OXA-4-R
+
+OXa 10-F
+
+Oxa-10-R
+
+Per1-F
+
+Per1-R
+
+blaPSE-F
+
+blaPSE-R
+
+blaCMY2-F
+
+blaCMY2-R
+
+CTXM1-F3
+
+CTXM1-R2
+
+TOHO1-2 F
+
+TOHO1-1R
+
+CTXM825F
+
+CTXM825R
+
+CTXM914F
+
+CTXM914R
+
+GACAGTTACCAATGCTTAATCA
+
+TAA CCA TGAGTGATAACACT
+
+CCGATCGTT GTCAGAAGTAA
+
+CTTTACTCGCCTTTATCG
+
+827-bp
+
+TCCCGC AGATAAATCACCA
+
+ACTGCCTTTTTG CGCCAGAT
+
+CAGTTCCGTTTCCCAGCGGT
+
+ATGAAAAACACAATACATATCAAC
+
+755-bp
+
+TTTCCTGTAAGTGCGGACAC
+
+TCAACAGATATCTCTACTGGT
+
+216 bp
+
+TTTATCCCATTTGAATATG
+
+TCAACAAATCGCCAGAGAAG
+
+277 bp
+
+TCCCACACCAGAAAAACCA
+
+AATTTGGGCTTAGGGCAGAA
+
+925 bp
+
+ATGAATGTCATTATAAAAGC
+
+TGCTTCGCAACTATGACTAC
+
+AGCCTGTGTTTGAGCTAGAT
+
+TGGCCGTTGCCGTTATCTAC
+
+CCCGTTTATGCACCCATGA
+
+GACGATGTCACTGGCTGAGC
+
+AGCCGCCGACGCTAATACA
+
+GCGACCTGGTTAACTACAATCC
+
+CGGTAGTATTGCCCTTAAGCC
+
+CGCTTT GCCATGTGCAGCACC
+
+GCT CAGTACGATCGAGCC
+
+GCTGGAGAAAAGCAGCGGAG
+
+GTAAGCTGACGCAACGTCTG
+
+868
+
+499
+
+351
+
+307
+
+474
+
+BLA SHV gene
+
+Bla OXA-1
+
+Bla OXA −4
+
+Bla OXA-10
+
+bla PER
+
+blaPSE
+
+blaCYM
+
+CTX-M group I
+
+CTX-M group II
+
+CTX-M group III
+
+CTX-M group IV
+
+Remark
+
+sequencing
+
+sequencing
+
+AT °C
+55
+
+56
+
+48
+
+54
+
+57
+
+55
+
+57
+
+55
+
+55
+
+55
+
+62
+
+Ref
+[34]
+
+[34]
+
+[34]
+
+[34]
+
+[13]
+
+[13]
+
+[13]
+
+[50]
+
+[42]
+
+[9]
+
+[38]
+
+[38]
+
+[38]
+
+[38]
+
+Eguale et al. Antimicrobial Resistance and Infection Control  (2017) 6:13 
+
+Page 4 of 10
+
+amino acid sequences using CLC Main Work Bench
+(Inqaba Biotechnical Industries, (Pty) Ltd, Denmark)
+and compared with protein sequences in the Genbank
+database. Classification of blaTEM enzymes was based
+on beta-lactamase classification database (https://www.
+lahey.org/studies/temtable.asp).
+
+Investigation of quinolone resistance mechanism
+Isolates with reduced susceptibility to nalidixic acid and/
+or ciprofloxacin (n = 29), three human isolates and 26
+animal
+isolates were examined for the presence of
+known quinolone resistance determinants. Quinolone
+resistance determining region (QRDR): gyrA, gyrB, parC
+and parE genes were amplified using PCR. PCR was also
+used to examine for various plasmid mediated quinolone
+resistance genes: qnrA, qnrB, qnrD, qnrS, qepA, and
+aac(6′)-Ib-cr as described previously (Table 2). Similar
+PCR conditions described previously were used and
+annealing temperature for each primer set
+is pre-
+sented in Table 2. PCR ampilicons were purified using
+QIAGEN PCR purification kit and sequenced as pre-
+viously described. Presence of mutation in the QRDR
+was examined by translating nucleotide sequences
+into proteins and aligning against reference sequence
+
+of S. Typhimurium strain LT2 on NCBI database
+(Accession Number AE006468).
+
+Results
+Resistance to beta-lactam antimicrobials and
+beta-lactamase genes in Salmonella isolates from
+animals and humans
+Of the 20 different serotypes investigated in the current
+study, resistance to at least one beta-lactam antimicro-
+bial was detected in nine serotypes and the bla gene
+was detected only in isolates belonging to six serotypes.
+Of the 43 isolates resistant to one or more beta-lactam
+antimicrobials (ampicillin, amoxicillin + clavulanic acid,
+cephalothin, ceftriaxone), bla genes were detected in
+34/43 (79.1%) of the isolates. The dominant bla gene
+responsible for resistance to beta-lactam antimicrobials
+in the majority of Salmonella isolates, 33 (76.7%) was
+found to be variants of blaTEM gene. Most of these
+were TEM-1 type, 24 (72.7%) followed by TEM-57, 10
+(30.3%). Both phenotypic resistance to beta-lactam anti-
+microbials and detection of bla genes was more com-
+mon in isolates obtained from poultry compared to
+isolates from other sources (Table 3). In one of the hu-
+man isolates of S. Concord, two bla genes (blaOXA-10
+and blaCTX-M-15) were detected. Both of these genes
+
+Table 2 List of primers used for detection of quinolone resistance mechanism
+Gene
+gyrA
+
+Primer sequence (5′ to 3′)
+AAATCTGCCCGTGTCGTTGGT
+
+Primer name
+GyrAFP
+
+Product size
+344 bp
+
+AT in °C
+58
+
+References
+[16]
+
+gyrB
+
+parC
+
+ParE
+
+qnrA
+
+qnrB
+
+aac(6’)-Ib
+
+qepA
+
+QnrD
+
+QnrS
+
+GyrARP
+
+GyrB FP
+
+GyrB RP
+
+ParC FP
+
+ParC RP
+
+ParE FP
+
+ParE RP
+
+qnrA FP
+
+qnrA RP
+
+qnrB FP
+
+qnrB RP
+aac(6’)-Ib FP
+aac(6’)-Ib-RP
+aac(6’)-Ib-cr-seq
+
+QepA FP
+
+QepA RP
+
+QnrD FP
+
+QnrD RP
+
+QnrS FP
+
+QnrS RP
+
+GCCATACCTACTGCGATACC
+
+GAATACCTGCTGGAAAACCCAT
+
+CGGATGTGCGAGCCGTCGACGTCCGC
+
+AAGCCGGTACAGCGCCGCATC
+
+GTGGTGCCGTTCAGCAGG
+
+TCTCTTCCGATGAAGTGCTG
+
+ATACGGTATAGCGGCGGTAG
+
+ATTTCTCACGCCAGGATTTG
+
+GATCGGCAAAGGTTAGGTCA
+
+GATCGTGAAAGCCAGAAAGG
+
+ACGATGCCTGGTAGTTGTCC
+
+TTGCGATGCTCTATGAGTGGCTA
+
+CTCGAATGCCTGGCGTGTTT
+
+CGTCACTCCATACATTGCAA
+(for sequencing of aac(6’)-Ib-cr
+CGTGTTGCTGGAGTTCTTC
+
+CTGCAGGTACTGCGTCATG
+
+CGAGATCAATTTACGGGGAATA
+
+AACAAGCTGAAGCGCCTG
+
+ACGACATTCGTCAACTGCAA
+
+TAAATTGGCACCCTGTAGGC
+
+446 bp
+
+395 bp
+
+240 bp
+
+516 bp
+
+469 bp
+
+482-bp
+
+403 bp
+
+565 bp
+
+417 bp
+
+FP forward primer, RP Reverse primer
+
+57
+
+57
+
+55
+
+53
+
+53
+
+55
+
+59
+
+53
+
+53
+
+[16]
+
+[16]
+
+[12]
+
+[43]
+
+[43]
+
+[36]
+
+[7]
+
+[8]
+
+[43]
+
+Eguale et al. Antimicrobial Resistance and Infection Control  (2017) 6:13 
+
+Page 5 of 10
+
+Table 3 Occurrence of bla genes in Salmonella isolates from different sources with reduced susceptibility to beta-lactam antimicrobials
+Source
+
+Not detected
+
+Total no.
+of isolates
+
+aResistant to ≥ one
+of beta-lactams (%)
+
+bla genes detectedb
+blaTEM
+12
+
+blaOXA10
+-
+
+12
+
+1
+
+9
+
+-
+
+-
+
+1
+
+34
+
+1
+
+blaCTX-M
+-
+
+-
+
+1
+
+4
+
+1
+
+1
+
+2
+
+No.(%) positive
+for bla genes
+
+8(75)
+
+12(92.3)
+
+1(50)
+c10(83.3)
+
+34(79.1)
+
+Cattle
+
+Poultry
+
+Swine
+
+Human
+
+50
+
+26
+
+8
+
+68
+
+16(32)
+
+13(50)
+
+2(25)
+
+12(17.7)
+
+152
+
+Total
+aAmpicillin, Cephalothin, Cefoxitin, Ceftriaxone, amoxicillin and clavulanic acid
+bThough all isolates were screened for blaSHV, blaOXA1, blaOXA4, blaPER, blaPSE and blaCMY2, none of them were positive for these genes
+cblaOXA10 and blaCTX-M-15 were detected in a single isolate
+
+43(28.3)
+
+1
+
+8
+
+encode for enzymes capable of extended spectrum
+beta-lactamase activity. This isolate was resistant to the
+third generation cephalosporin, ceftriaxone in addition
+to ampicillin, and cephalothin. In eight (18.6%) of the
+isolates, none of the tested bla genes were detected
+(Table 3).
+
+Among the dominant serotypes, 66.7, 92.3, 50 and
+100% of S. Typhimurium, S. Saintpaul, S. Virchow and S.
+Kentucky were positive for variants of the blaTEM gene,
+respectively. All of the 10 S. Kentucky isolates collected
+from cattle, poultry and humans were resistant to ampi-
+cillin, cephalothin and amoxicillin + clauvlanic acid and
+were all positive for blaTEM-1 gene (Table 4).
+
+Interestingly, all 10 blaTEM-57 were recovered from S.
+Saintpaul isolated from poultry, while those S. Saintpaul
+strains obtained from cattle and human were all TEM-1
+type. Despite a change in amino-acid sequences, there was
+no distinct difference in phenotypic antimicrobial suscepti-
+bility pattern to beta-lactam antimicrobials among isolates
+carrying blaTEM-57 and blaTEM-1 enzymes.
+
+Among eight isolates in which none of the tested bla
+genes were detected, most of them were susceptible to
+the major beta-lactams and were at the margin of sus-
+ceptibility and intermediate; S. Dublin (n = 2) and S.
+Typhimurium (n = 2) only to cephalothin and S. Haifa to
+ampicillin (n = 1) On the other hand, three S. Virchow
+isolates and one S. V:ROUGH-O;-:- were completely
+resistant to ampicillin and cephalothin.
+
+Mechanism of resistance to quinolone antimicrobials
+Out of the 29 Salmonella isolates with reduced sensitivity
+to quinolones, high level resistance to both nalidixic acid
+and ciprofloxacin was observed in only 10 S. Kentucky iso-
+lates (34.5%) (Table 5). All of these S. Kentucky isolates
+had double mutations in gyrA (Ser83-Phe + Asp87-Gly)
+and parC (Thr57-Ser + Ser80-Ile) genes. Single muta-
+tion in gyrA (Ser83-Phe) was observed in four isolates
+(S. Livingstone var.14+ (2), S. Virchow (1), S. I:6;7,14:-:I,w
+(1). All these isolates were resistant to nalidixic acid and
+intermediately resistant to ciprofloxacin. A single amino
+acid substitution in gyrA (Ser83-Tyr) was detected in
+
+one S. Haifa from poultry with an R-phenotype [resistant to
+nalidixic acid and intermediately resistant to ciprofloxacin].
+Overall, double and single substitutions in gyrA were de-
+tected in 15 (51.7%) of the isolates. Double substitution in
+parC (Thr57-Ser + Tyr83-Phe) was detected in one S.
+Miami isolated from swine. This strain was sensitive to nali-
+dixic acid and intermediately resistant to ciprofloxacin. The
+Tyr83-Phe is a novel mutation. A strain of S. Agona
+with only single substitution at Thr57-Ser was inter-
+mediately resistant to nalidixic acid but sensitive to cip-
+rofloxacin. Double substitution in the gyrB gene
+(Val423-Gly + Asp459-His) was detected in two isolates;
+S. Mikawasima and S. Braenderup, the latter having
+additional substitution in parC gene (Thr57-Ser) asso-
+ciated with intermediate susceptibility to both nalidixic
+acid and ciprofloxacin, whereas the former with inter-
+mediate susceptibility only to naldixic acid. A strain of
+serotype V: rough-O;-:- that was susceptible to nalidixic
+acid but intermediately resistant to ciprofloxacin had
+single substitution of Ser463-Ala on gyrB gene. Over
+half of the quinolone resistant isolates in the current study
+17 (58.6%) were also resistant to at least one of the beta-
+lactam antimicrobials (Table 5) and all S. Kentucky iso-
+lates resistant to nalidixic acid and ciprofloxacin were also
+shown to be MDR to several antimicrobials in our pre-
+vious works [27, 28]. No mutation was detected in parE
+gene in any of the isolates examined in the current
+study. Nine isolates with reduced sensitivity to nalidixic
+acid and or ciprofloxacin had no mutation in any of the
+QRDR (Table 5).
+
+Plasmid mediated quinolone resistance
+None of the tested plasmid mediated quinolone resist-
+ance genes were detected in the isolates examined in the
+current study. Seven isolates belonging to serotypes
+Saintpaul, Typhimurium, Aberdeen, Virchow and Haifa
+were susceptible to nalidixic acid but had shown reduced
+sensitivity to ciprofloxacin according to CLSI (2013) cut-
+off points, with zone of inhibition ranging from 25 to
+28 mm. There appears to be other resistance mecha-
+nisms responsible for the observed decreased sensitivity.
+
+Eguale et al. Antimicrobial Resistance and Infection Control  (2017) 6:13 
+
+Page 6 of 10
+
+Table 4 Beta-lactam resistance profile among different Salmonella serotypes from various hosts, occurrence of betalactamses genes
+and bla-types based on amino acid sequences
+Serotype
+
+bla positive(%)
+
+Host (No.)
+
+bla type
+
+Total
+
+No. resistant
+to Beta-lactam(%)
+
+Beta-lactam R-profile
+Intermediate
+-
+
+Resistant
+-
+
+C
+
+C
+
+C(2), H(1)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+AmpAmcCroCf
+
+1(100)
+
+OXA-10 and blaCTX-M-15
+
+Aberdeen
+
+Agona
+
+Braenderup
+
+Concord
+
+Dublin
+
+Enteritidis
+
+Haifa
+
+Heidelberg
+
+I:6;7,14:-:I,w
+
+I: Rough-O:I:1,2
+
+Kentucky
+
+Kottbus
+
+Livingstone var.14+
+
+Miami
+
+Mikawasima
+
+Newport
+
+Saintpaul
+
+1
+
+1
+
+3
+
+1
+
+3
+
+2
+
+4
+
+1
+
+1
+
+1
+
+10
+
+8
+
+2
+
+5
+
+2
+
+2
+
+33
+
+Typhimurium
+
+42
+
+H
+
+C
+
+H
+
+C(3), P(1)
+
+S
+
+C
+
+S
+
+C(6),
+
+P(2)
+
+H(2)
+
+C(1), H(7)
+
+C(1), S(1)
+
+H(3), S(2)
+
+C(2)
+
+H(2)
+
+P(20)
+
+C(10)
+
+S(2)
+
+H(1)
+
+C(12)
+
+P(3)
+
+S(1)
+
+H(26)
+
+1(100)
+
+2(66.7)
+
+-
+
+1P(25)
+
+1(100)
+
+1(100)
+
+-
+
+6(100)
+
+2(100)
+
+2(100)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+2(20)
+
+-
+
+1(100)
+
+2(16.7)
+
+-
+
+1(100)
+
+6(64.5)
+
+10(50)
+
+AmcCf
+
+Amp
+
+-
+
+-
+
+Fox
+
+Cf
+
+-
+
+Amp
+
+Amc
+
+-
+
+-
+
+-
+
+-
+
+Fox
+
+Amc
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Amc
+
+Amc
+
+-
+
+Amc
+
+-
+
+-
+
+Cf
+
+Amc
+
+Amp
+
+-
+
+Amc
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+AmpCf
+
+AmpAmcCf
+
+-
+
+AmpAmcCf
+
+AmpAmcCf
+
+AmpAmcCf
+
+AmpCf
+
+-
+
+-
+
+-
+
+-
+
+-
+
+AmpAmcCf
+
+AmpCf
+
+AmpCf
+
+-
+
+AmpCf
+
+-
+
+-
+
+-
+
+1(100)
+
+1(100)
+
+-
+
+6(100)
+
+2(100)
+
+2(100)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+4(100)
+
+4(100)
+
+2(100)
+
+2(100)
+
+-
+
+1
+
+AmpAmcCf
+
+2(100)
+
+-
+
+-
+
+AmpCf
+
+-
+
+AmpAmcCf
+
+AmpCf
+
+AmpAmcCf
+
+-
+
+5(83.3)
+
+-
+
+2(100)
+
+1(100)
+
+2(100)
+
+1(33.3)
+
+1(100)
+
+-
+
+-
+
+-
+
+TEM-1
+
+TEM-1
+
+-
+
+TEM-1
+
+TEM-1
+
+TEM-1
+
+-
+
+-
+
+-
+
+-
+
+TEM-57
+
+TEM-57
+
+TEM-57
+
+TEM-1
+
+-
+
+TEM-1
+
+TEM-1
+
+-
+
+TEM-1
+
+-
+
+TEM-1
+
+TEM-1
+
+TEM-1
+
+TEM-1
+
+TEM-1
+
+-
+
+Virchow
+
+28
+
+C(6)
+
+H(22)
+
+3(50)
+
+1(4.6)
+
+V:ROUGH-O;-;-
+C Cattle, H Human, P poultry, S swine, − = not detected, Amp ampicillin, Amc amoxicillin and clavulanic acid, Cf cephalothin, Cro ceftriaxone
+
+AmpCf
+
+H(1)
+
+1
+
+1
+
+-
+
+-
+
+Discussion
+Detection of a high resistance rate to beta-lactam anti-
+microbials (50%) and the presence of bla genes in iso-
+lates from poultry could be due to the fact that drugs
+like ampicillin and amoxicillin are frequently employed
+
+in poultry farms in Ethiopia leading to selection pres-
+sure. The dominant beta-lactamase genes detected in
+the current study were variants of blaTEM with the
+majority being blaTEM-1, which is concordant with the
+observed spectrum of resistance to only ampicillin and
+
+Serotype
+
+Aberdeen
+
+Virchow
+
+Typhimurium PT 3
+
+Typhimurium PT 4
+
+Haifa
+
+Cattle
+
+Cattle
+
+Cattle
+
+Cattle
+
+Cattle
+
+Poultry
+
+Saintpaul
+
+Cattle
+
+Cattle
+
+Saintpaul
+
+Saintpaul
+
+Poultry
+
+Saintpaul
+
+Human V:ROUGH-O;-:-
+
+Cattle
+
+Cattle
+
+Cattle
+
+Mikawasima
+
+Agona
+
+Braenderup
+
+Swine Miami
+
+Poultry Haifa
+
+Cattle
+
+Cattle
+
+Cattle
+
+20[S]
+
+21[S]
+
+22[S]
+
+21[S]
+
+20[S]
+
+17[I]
+
+21[S]
+
+20[S]
+
+22[S]
+
+20[S]
+
+17[I]
+
+17[I]
+
+22[S]
+
+0[R]
+
+0[R]
+
+Virchow
+
+Livingstone var.14+ 0[R]
+
+I:6;7,14:-:I,w
+
+7[R]
+
+Swine
+
+Livingstone var.14+ 0[R]
+
+Cattle
+
+Cattle
+
+Cattle
+
+Cattle
+
+Cattle
+
+Cattle
+
+Kentucky
+
+Kentucky
+
+Kentucky
+
+Kentucky
+
+Kentucky
+
+Kentucky
+
+Human Kentucky
+
+Human Kentucky
+
+Poultry
+
+Kentucky
+
+0[R]
+
+0[R]
+
+0[R]
+
+0[R]
+
+0[R]
+
+0[R]
+
+0[R]
+
+0[R]
+
+0[R]
+
+Kentucky
+
+0[R]
+
+R-pattern betalactamsa Mutation in QRDR
+
+-
+
+-
+
+AmpAmcCf
+
+AmpAmcCf
+
+-
+
+AmcCf
+
+AmpAmcCCf
+
+-
+
+-
+
+AmpCf
+
+-
+
+-
+
+-
+
+-
+
+-
+
+AmpAmcCf
+
+-
+
+AmpAmcCf
+
+-
+
+AmpAmcCf
+
+AmpCfAmc
+
+AmpCfAmc
+
+AmpAmcCf
+
+AmpCfAmc
+
+AmpAmcCf
+
+gyrA
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Ser83Tyr
+
+Ser83Phe
+
+Ser83Phe
+
+Ser83Phe
+
+Ser83Phe
+
+Ser83Phe + Asp87Gly
+
+Ser83Phe + Asp87Gly
+
+Ser83Phe + Asp87Gly
+
+Ser83Phe + Asp87Gly
+
+Ser83Phe + Asp87Gly
+
+Ser83Phe + Asp87Gly
+
+AmpAmcCfFox
+
+Ser83Phe + Asp87Gly
+
+AmpCfAmc
+
+AmpAmcCf
+
+Ser83Phe + Asp87Gly
+
+Ser83Phe + Asp87Gly
+
+gyrB
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Ser463Ala
+
+Val423Gly + Asp459His
+
+parC
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Thr57Ser
+
+Val423Gly + Asp459His Thr57Ser
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Thr57Ser + Tyr83Phe
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Thr57Ser + Ser80Ile
+
+Thr57Ser + Ser80Ile
+
+Thr57Ser + Ser80Ile
+
+Thr57Ser + Ser80Ile
+
+Thr57Ser + Ser80Ile
+
+Thr57Ser + Ser80Ile
+
+Thr57Ser + Ser80Ile
+
+Thr57Ser + Ser80Ile
+
+Thr57Ser + Ser80Ile
+
+25[I]
+
+25[I]
+
+27[I]
+
+25[I]
+
+31[S]
+
+25[I]
+
+27[I]
+
+27[I]
+
+28[I]
+
+25[I]
+
+31[S]
+
+25[I]
+
+27[I]
+
+25[I]
+
+26(I)
+
+24(I)
+
+30(I)
+
+20[I]
+
+14[R]
+
+12[R]
+
+11[R]
+
+9[R]
+
+12[R]
+
+10[R]
+
+8[R]
+
+10[R]
+
+9[R]
+
+11[R]
+
+Eguale et al. Antimicrobial Resistance and Infection Control  (2017) 6:13 
+
+Page 7 of 10
+
+Table 5 Susceptibility of isolates to quinolone drugs and mutation in QRDR
+
+Zone of inhibition mm
+(susceptibility category)
+Na
+19[S]
+
+Cip
+27[I]
+
+Poultry
+Thr57Ser + Ser80Ile
+PT Phagetype, Amp Ampicillin, Amc Amoxicillin and clavulanic acid, Cf Cephalothin, Cip Ciprofloxacin, Na- Nalidixic acid, S susceptible, I intermediately resistant, R resistant
+aResistance status, isolates were fully resistant to antimicrobials written in Bold and intermediately resistant to those written in italics
+
+Ser83Phe + Asp87Gly
+
+AmpAmcCf
+
+-
+
+first generation cephalosporin in most of the isolates. In
+Africa, blaTEM-1 has been reported from Salmonella
+isolated from poultry in Egypt [29], from children adopted
+from Mali [30], and S. Enteritidies in Senegal [31].
+
+All S. Saintpaul isolated from poultry in the current
+study carried blaTEM-57, while those from cattle and
+human carried blaTEM-1. This is probably due to muta-
+tion of a blaTEM gene in a strain of S. Saintpaul in one
+of the poultry farms and clonal spread of strain carrying
+this mutant gene to farms in the area. All poultry S.
+Saintpaul were isolated from farms in the Adaa district.
+Compared to TEM-1, TEM-57 has a substitution of Gly
+to Asp at position 92 of amino acid sequence, which was
+
+first reported from Proteus mirabilis [32] and later on
+from E. coli in China [33]. To our knowledge, this is the
+first report of detection of blaTEM-57 in Salmonella.
+Fortunately, this mutation was not associated with ex-
+tended spectrum activity against second and third gener-
+ation cephalosporins.
+
+One of the human isolates, S. Concord, resistant to
+ampicillin, cephalothin, cefoxitin and ceftriaxone was
+shown to produce blaCTX-M-15 and blaOXA-10. Previous
+studies have also reported blaCTX-M-15 in S. Concord iso-
+lated from children adopted from Ethiopia to different
+European countries and USA [34, 35]. In fact, a separ-
+ate study also showed that blaCTX-M-15 isolated from
+
+Eguale et al. Antimicrobial Resistance and Infection Control  (2017) 6:13 
+
+Page 8 of 10
+
+S. Concord from Ethiopia was chromosomally encoded
+[35]. Nevertheless, the previous studies also showed
+production of blaSHV-12 in most of the S. Concord
+from Ethiopia, but OXA-10 was not reported. This is
+presumably due to loss of a plasmid encoding for SHV-
+12 and acquisition of OXA-10 in a new isolate from
+Ethiopia. During the last few years, CTX-M-15 and other
+related CTX-M enzymes have been widely reported from
+various Enterobacteriaceae including Salmonella in
+different African countries from both hospital and
+community settings [16, 36–39]. Oxacilinases including
+OXA-10 have also been commonly isolated from different
+enterobacteriaceae including Salmonella [40].
+
+The possible reason for the absence of bla genes in a
+few isolates with reduced susceptibility in the current
+study despite testing for most of the known bla reported in
+Salmonella could be due to poor sensitivity of phenotypic
+resistance detection methods. In two S. Typhimurium and
+two S. Dublin intermediately resistant only to cephalothin
+and one S. Haifa intermediately resistant to ampicillin, the
+reading was at the margin of intermediate and susceptible.
+However, all the three S. Virchow were fully resistant to
+ampicillin and cephalothin and intermediately resistant to
+amoxicillin + clauvlanic acid. For these isolates, other re-
+sistance mechanisms not investigated in this study such as
+alterations in the beta-lactam targets (PBPs) [41], absence
+or down-regulation of the production of outer membrane
+porins [42], over expression of efflux pumps [43] and dif-
+ferent ampC betalactamases [44] might be responsible for
+the observed reduction in susceptibility. In general, the rate
+of occurrence of extended spectrum beta-lactamases in
+Salmonella isolates in the current study is low. This could
+be due to the fact that most of the human isolates were ob-
+tained from primary health care centers and use of 2nd
+and 3rd generation cephalosporins is not a common prac-
+tice in veterinary medicine [28, 45]. The single MDR S.
+Concord in the current study was isolated from hospi-
+talized 1 year old child.
+
+Amino acid substitutions at codon 83 and 87 of gyrA
+gene have been associated with high level fluoroquino-
+lone resistance [46–49] whereas resistance to only nali-
+dixic acid is associated with single or double mutation in
+parC gene in Salmonella and other Gram-negative path-
+ogens [14, 50]. Detection of two amino acid substitu-
+tions in the gyrA gene at codon 83 and 87 and the parC
+gene at codon 57 and 80 in all S. Kentucky isolates with
+high level resistance to both nalidixic acid and ciprofloxacin
+obtained from humans and animals suggests the possibility
+of clonal spread of S. Kentucky strain in the human and
+animal population in the study area. Similar mutations in
+gyrA and parC genes were reported from S. Kentucky from
+French travelers returning from north east and eastern
+Africa [51]. Studies of S. Kentucky ST198 from different
+countries have also shown a similar substitution in gyrA at
+
+codon 83 (Ser83-Phe) for all isolates and substitution of
+aspartate at codon 87 with asparagine, tyrosine or glycine
+residues. S. Kentucky isolates in the current study also
+belonged to ST198 suggesting the clonal relatedness of our
+isolates to the internationally spreading clone of S. Ken-
+tucky (unpublished data). However, only single substitution
+in the parC gene at codon 80 (Ser80-Ile) was reported pre-
+viously and none of them had substitution at codon 57 of
+parC gene [52]. Additional substitution at codon 57 of the
+parC gene in the Ethiopian isolates might have occurred
+separately. Contrary to these local and global spread of
+MDR fluoroquinolone resistant S. Kentucky, a previous
+study on S. Typhimurium showed that mutation based
+fluoroquinolone resistance is associated with fitness cost
+and resistant strains are less invasive [53]. This suggests
+that this internationally dispersed clone of S. Kentucky has
+unique mechanisms. Furthermore, we have previously
+shown that S. Kentucky strains from Ethiopia has strong
+biofilm forming ability which is one of the important traits
+for persistence of the organism in the host or the environ-
+ment [54] that might have contributed to its dissemination.
+Four of the Salmonella isolates resistant to nalidixic
+acid and intermediately resistant to ciprofloxacin had
+only a single substitution in the gyrA, Ser83-Phe,
+whereas one isolate S. Haifa from poultry had a Ser83-
+Tyr substitution. Previous studies have also shown that a
+single mutation in gyrA results only in resistance to nali-
+dixic acid and not to ciprofloxacin [47, 53]. Although
+isolates with a single mutation in parC gene resulted
+only with reduced susceptibility to nalidixic acid, an S.
+Miami isolate with no mutation in gyrA gene but double
+substitution in parC gene: (Thr57-Ser) and a novel sub-
+stitution (Tyr83-Phe) was fully susceptible to nalidixic
+acid and intermediately resistant to ciprofloxacin. This
+suggests that the novel mutation at codon 83 of parC
+gene might accentuate the activity of nalidixic acid and
+attenuate the activity of ciprofloxacin.
+
+The observation of double substitution in gyrB gene
+(Val423-Gly + Asp459-His) associated with intermediate
+susceptibility only to nalidixic acid shows a minor contribu-
+tion of mutation in gyrB compared to gyrA for develop-
+ment of resistance to quinolones. Interestingly, nine isolates
+with reduced sensitivity to ciprofloxacin and some to
+nalidixic acid had no mutation in QRDR. We have also not
+detected PMQR genes in any of the isolates. Other resist-
+ance mechanisms not tested in this study such as multidrug
+efflux pumps, other PMQR mechanisms recently described
+in Salmonella such as oqxAB efflux pump [19], and altered
+outer membrane porins might be involved [14].
+
+Conclusion
+Co-occurrence of beta-lactamases with ciprofloxacin re-
+sistant determinants in large proportion of isolates is a
+major threat. Occurrence of MDR S. Kentucky with high
+
+Eguale et al. Antimicrobial Resistance and Infection Control  (2017) 6:13 
+
+Page 9 of 10
+
+level fluoroquinolone resistance mediated by double mu-
+tations in gyrA and parC genes in cattle, poultry, and
+human in the study area suggests clonal spread of this
+strain and the need for strict pathogen control strategies
+to hamper further spread of this pathogen. As the majority
+of the isolates in this study were from healthy animals at
+the farm level and human patients from primary health
+care centers, the data presented here may not represent
+the national status. Further studies on extended spectrum
+beta-lactamase and fluoroquinolone resistance mecha-
+nisms in Salmonella and other gram negative pathogens
+in hospital and community settings is recommended.
+
+Abbreviations
+bla: Betalactamase gene; CLSI: Clinical and Laboratory Standards Institute;
+MDR: Multi-drug resistance; NTS: Non-typhoidal Salmonella; PMQR: Plasmid
+mediated quinolone resistance; QRDR: Quinolone resistance determining region
+
+Acknowledgments
+We are grateful to Dr Roger Johnson, Linda Cole, Shaun Kernaghan, Ketna
+Mistry, Ann Perets and Betty Wilkie of the Public Health Agency of Canada,
+National Microbiology Laboratory at Guelph for serotyping and phagetyping
+of the Salmonella isolates. Technical assistance of Mr. Nega Nigusie and
+Mr Haile Alemayehu during sample collection and laboratory isolation is
+highly appreciated.
+
+Funding
+This study was supported by the BecA-ILRI Hub through the Africa Biosciences
+Challenge Fund (ABCF) program. The ABCF Program is funded by the Australian
+Department for Foreign Affairs and Trade (DFAT) through the BecA-CSIRO partner-
+ship; the Syngenta Foundation for Sustainable Agriculture (SFSA); the Bill & Me-
+linda Gates Foundation (BMGF); the UK Department for International
+Development (DFID) and; the Swedish International Development Cooperation
+Agency (Sida). It was also supported by The National Institutes of Health (NIH)
+Fogarty International Center (grant 043TW008650) to W.A.G./J.S.G.
+
+Availability of data and materials
+All the data supporting the findings are presented in the manuscript.
+
+Authors’ contributions
+TE, EE, WG, JSG and DA JB and AD, participated in conception of the study and
+review of the draft manuscript. TE was involved in sample collection laboratory
+investigation and preparation of the draft manuscript. MN and JN participated
+in laboratory work. All authors read and approved the final manuscript.
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Consent for publication
+Not applicable.
+
+Ethics approval and consent to participate
+Ethical clearance for the study was obtained from the National Research
+Ethics Review Committee, Ethiopia. Informed oral consent was obtained
+from the farm owners and patients from health centers and hospital at the
+time of sample collection.
+
+Author details
+1Aklilu Lemma Institute of Pathobiology, Addis Ababa University, P.O. Box
+1176, Addis Ababa, Ethiopia. 2Biosciences Eastern and Central
+Africa-International Livestock Research Institute (BecA-ILRI) Hub, P O Box
+30709, Nairobi, Kenya. 3Department of Microbiology, Immunology &
+Parasitology, School of Medicine, College of Health Sciences, Addis Ababa
+University, Churchill Avenue, P.O. Box 9086, Addis Ababa, Ethiopia.
+4ICIPE-African Insect Science for Food and Health, P.O. Box 30772-00100,
+Nairobi, Kenya. 5Department of Veterinary Preventive Medicine, The Ohio
+State University, 1920 Coffey Rd., Columbus, OH 43210, USA. 6Department of
+Microbial Infection and Immunity, Center for Microbial Interface Biology, The
+
+Ohio State University, Biomedical Research Tower, 460 West 12th, Columbus,
+OH 432101214, USA. 7Department of Pharmacology and Clinical Pharmacy,
+School of Pharmacy, College of Health Sciences, Addis Ababa University,
+Churchill Avenue, P.O. Box 1176, Addis Ababa, Ethiopia.
+
+Received: 19 November 2016 Accepted: 5 January 2017
+
+References
+1. Majowicz SE, Musto J, Scallan E, Angulo FJ, Kirk M, O'Brien SJ, Jones TF,
+
+2.
+
+3.
+
+4.
+
+Fazil A, Hoekstra RM, Studies ICoEDBoI. The global burden of nontyphoidal
+Salmonella gastroenteritis. Clin Infect Dis. 2010;50(6):882–9.
+DE Knegt LV, Pires SM, Hald T. Attributing foodborne salmonellosis in
+humans to animal reservoirs in the European Union using a multi-country
+stochastic model. Epidemiol Infect. 2015;143(6):1175–86.
+Jansen A, Frank C, Stark K. Pork and pork products as a source for human
+salmonellosis in Germany. Berl Munch Tierarztl Wochenschr. 2007;120(7–8):340–6.
+Braden CR. Salmonella enterica serotype Enteritidis and eggs: a national
+epidemic in the United States. Clin Infect Dis. 2006;43(4):512–7.
+Hohmann EL. Nontyphoidal salmonellosis. Clin Infect Dis. 2001;32(2):263–9.
+
+5.
+6. Wong MH, Yan M, Chan EW, Biao K, Chen S. Emergence of clinical
+Salmonella enterica serovar Typhimurium isolates with concurrent
+resistance to ciprofloxacin, ceftriaxone, and azithromycin. Antimicrob Agents
+Chemother. 2014;58(7):3752–6.
+
+8.
+
+7. Wadula J, von Gottberg A, Kilner D, de Jong G, Cohen C, Khoosal M, Keddy K,
+Crewe-Brown H. Nosocomial outbreak of extended-spectrum beta-lactamase-
+producing Salmonella isangi in pediatric wards. Pediatr Infect Dis J. 2006;25(9):
+843–4.
+Kruger T, Szabo D, Keddy KH, Deeley K, Marsh JW, Hujer AM, Bonomo RA,
+Paterson DL. Infections with nontyphoidal Salmonella species producing
+TEM-63 or a novel TEM enzyme, TEM-131, in South Africa. Antimicrob
+Agents Chemother. 2004;48(11):4263–70.
+Olesen I, Hasman H, Aarestrup FM. Prevalence of beta-lactamases among
+ampicillin-resistant Escherichia coli and Salmonella isolated from food
+animals in Denmark. Microb Drug Resist. 2004;10(4):334–40.
+
+9.
+
+10. Carattoli A. Animal reservoirs for extended spectrum beta-lactamase
+
+11.
+
+producers. Clin Microbiol Infect. 2008;14 Suppl 1:117–23.
+Seiffert SN, Perreten V, Johannes S, Droz S, Bodmer T, Endimiani A. OXA-48
+carbapenemase-producing Salmonella enterica serovar Kentucky isolate of
+sequence type 198 in a patient transferred from Libya to Switzerland.
+Antimicrob Agents Chemother. 2014;58(4):2446–9.
+Li XZ, Mehrotra M, Ghimire S, Adewoye L. beta-Lactam resistance and beta-
+lactamases in bacteria of animal origin. Vet Microbiol. 2007;121(3–4):197–214.
+13. Whichard JM, Gay K, Stevenson JE, Joyce KJ, Cooper KL, Omondi M, Medalla F,
+
+12.
+
+Jacoby GA, Barrett TJ. Human Salmonella and concurrent decreased
+susceptibility to quinolones and extended-spectrum cephalosporins. Emerg
+Infect Dis. 2007;13(11):1681–8.
+
+14. Redgrave LS, Sutton SB, Webber MA, Piddock LJ. Fluoroquinolone
+
+resistance: mechanisms, impact on bacteria, and role in evolutionary
+success. Trends Microbiol. 2014;22(8):438–45.
+
+15. Robicsek A, Jacoby GA, Hooper DC. The worldwide emergence of plasmid-
+
+mediated quinolone resistance. Lancet Infect Dis. 2006;6(10):629–40.
+
+16. Harrois D, Breurec S, Seck A, Delaune A, Le Hello S, Pardos de la Gandara M,
+
+Sontag L, Perrier-Gros-Claude JD, Sire JM, Garin B, et al. Prevalence and
+characterization of extended-spectrum beta-lactamase-producing clinical
+Salmonella enterica isolates in Dakar, Senegal, from 1999 to 2009. Clin
+Microbiol Infect. 2014;20(2):O109–16.
+Jacoby GA, Strahilevitz J, Hooper DC. Plasmid-mediated quinolone resistance.
+Microbiol Spectr. 2014; 2(2). doi: 10.1128/microbiolspec. PLAS-0006-2013.
+
+17.
+
+18. Raveendran R, Wattal C, Sharma A, Oberoi JK, Prasad KJ, Datta S. High level
+ciprofloxacin resistance in Salmonella enterica isolated from blood. Indian J
+Med Microbiol. 2008;26(1):50–3.
+Lin D, Chen K, Wai-Chi Chan E, Chen S. Increasing prevalence of
+ciprofloxacin-resistant food-borne Salmonella strains harboring multiple
+PMQR elements but not target gene mutations. Sci Rep. 2015;5:14754.
+
+19.
+
+20. Beyene G, Nair S, Asrat D, Mengistu Y, Engers H, Wain J. Multidrug resistant
+
+Salmonella Concord is a major cause of salmonellosis in children in
+Ethiopia. J Infect Dev Ctries. 2011;5(1):23–33.
+
+21. Zewdu E, Cornelius P. Antimicrobial resistance pattern of Salmonella
+
+serotypes isolated from food items and personnel in Addis Ababa, Ethiopia.
+Trop Anim Health Prod. 2009;41(2):241–9.
+
+Eguale et al. Antimicrobial Resistance and Infection Control  (2017) 6:13 
+
+Page 10 of 10
+
+22.
+
+Kalender H, Sen S, Hasman H, Hendriksen RS, Aarestrup FM. Antimicrobial
+susceptibilities, phage types, and molecular characterization of Salmonella
+enterica serovar Enteritidis from chickens and chicken meat in Turkey.
+Foodborne Pathog Dis. 2009;6(3):265–71.
+
+23. Hendriksen RS, Mikoleit M, Kornschober C, Rickert RL, Duyne SV, Kjelso C,
+
+Hasman H, Cormican M, Mevius D, Threlfall J, et al. Emergence of
+multidrug-resistant salmonella concord infections in Europe and the United
+States in children adopted from Ethiopia, 2003–2007. Pediatr Infect Dis J.
+2009;28(9):814–8.
+
+24. CLSI. Performance Standards for Antimicrobial Susceptibility Testing;
+Twenty-Third Informational SupplementM100-S23. In., vol. 33; 2013.
+
+25. Grimont P, Weill F-X. Antigenic formulas of Salmonella Serotypes. 9th ed.
+
+WHO Collaborating Centre for Reference and Research on Salmonella:
+France; 2007.
+
+27.
+
+26. Pitout JD, Hossain A, Hanson ND. Phenotypic and molecular detection of
+CTX-M-beta-lactamases produced by Escherichia coli and Klebsiella spp. J
+Clin Microbiol. 2004;42(12):5715–21.
+Eguale T, Gebreyes WA, Asrat D, Alemayehu H, Gunn JS, Engidawork E. Non-
+typhoidal Salmonella serotypes, antimicrobial resistance and co-infection
+with parasites among patients with diarrhea and other gastrointestinal
+complaints in Addis Ababa, Ethiopia. BMC Infect Dis. 2015;15:497.
+Eguale T, Engidawork E, Gebreyes AW, Asrat D, Alemayehu H, Medhin G,
+Johnson RP, Gunn JS. Fecal prevalence, serotype distribution and
+antimicrobial resistance of Salmonellae in dairy cattle in central Ethiopia.
+BMC Microbiol. 2016;16(1):1–11.
+
+28.
+
+29. Ahmed AM, Shimamoto T. Genetic analysis of multiple antimicrobial
+
+resistance in Salmonella isolated from diseased broilers in Egypt. Microbiol
+Immunol. 2012;56(4):254–61.
+
+30. Boisrame-Gastrin S, Tande D, Munck MR, Gouriou S, Nordmann P, Naas T.
+Salmonella carriage in adopted children from Mali: 2001–08. J Antimicrob
+Chemother. 2011;66(10):2271–6.
+Sow AG, Wane AA, Diallo MH, Boye CS, Aidara-Kane A. Genotypic
+characterization of antibiotic-resistant Salmonella enteritidis isolates in
+Dakar, Senegal. J Infect Dev Ctries. 2007;1(3):284–8.
+
+31.
+
+32. Bonnet R, De Champs C, Sirot D, Chanal C, Labia R, Sirot J. Diversity of TEM
+
+mutants in Proteus mirabilis. Antimicrob Agents Chemother. 1999;43(11):2671–7.
+
+33. Yuan L, Liu JH, Hu GZ, Pan YS, Liu ZM, Mo J, Wei YJ. Molecular
+
+characterization of extended-spectrum beta-lactamase-producing
+Escherichia coli isolates from chickens in Henan Province, China. J Med
+Microbiol. 2009;58(Pt 11):1449–53.
+
+34. Hendriksen RS, Kjelso C, Torpdahl M, Ethelberg S, Molbak K, Aarestrup FM.
+
+35.
+
+36.
+
+Upsurge of infections caused by Salmonella Concord among Ethiopian
+adoptees in Denmark, 2009. Euro Surveill. 2010;15(23). Available online:
+http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=19587.
+Fabre L, Delaune A, Espie E, Nygard K, Pardos M, Polomack L, Guesnier F,
+Galimand M, Lassen J, Weill FX. Chromosomal integration of the extended-
+spectrum beta-lactamase gene blaCTX-M-15 in Salmonella enterica serotype
+Concord isolates from internationally adopted children. Antimicrob Agents
+Chemother. 2009;53(5):1808–16.
+Fam N, Leflon-Guibout V, Fouad S, Aboul-Fadl L, Marcon E, Desouky D,
+El-Defrawy I, Abou-Aitta A, Klena J, Nicolas-Chanoine MH. CTX-M-15-
+producing Escherichia coli clinical isolates in Cairo (Egypt), including
+isolates of clonal complex ST10 and clones ST131, ST73, and ST405 in both
+community and hospital settings. Microb Drug Resist. 2011;17(1):67–73.
+
+37. Rafai C, Frank T, Manirakiza A, Gaudeuille A, Mbecko JR, Nghario L,
+
+Serdouma E, Tekpa B, Garin B, Breurec S. Dissemination of IncF-type
+plasmids in multiresistant CTX-M-15-producing Enterobacteriaceae isolates
+from surgical-site infections in Bangui, Central African Republic. BMC
+Microbiol. 2015;15:15.
+Kiiru J, Kariuki S, Goddeeris BM, Butaye P. Analysis of beta-lactamase
+phenotypes and carriage of selected beta-lactamase genes among
+Escherichia coli strains obtained from Kenyan patients during an 18-year
+period. BMC Microbiol. 2012;12:155.
+
+38.
+
+39. Usha G, Chunderika M, Prashini M, Willem SA, Yusuf ES. Characterization of
+extended-spectrum beta-lactamases in Salmonella spp. at a tertiary hospital
+in Durban, South Africa. Diagn Microbiol Infect Dis. 2008;62(1):86–91.
+
+40. Hendriksen RS, Joensen KG, Lukwesa-Musyani C, Kalondaa A,
+
+Leekitcharoenphon P, Nakazwe R, Aarestrup FM, Hasman H, Mwansa JC.
+Extremely drug-resistant Salmonella enterica serovar Senftenberg infections
+in patients in Zambia. J Clin Microbiol. 2013;51(1):284–6.
+
+41.
+
+Sun S, Selmer M, Andersson DI. Resistance to beta-lactam antibiotics
+conferred by point mutations in penicillin-binding proteins PBP3, PBP4 and
+PBP6 in Salmonella enterica. PLoS One. 2014;9(5), e97202.
+
+42. Delcour AH. Outer membrane permeability and antibiotic resistance.
+
+Biochim Biophys Acta. 2009;1794(5):808–16.
+
+43. Piddock LJ. Multidrug-resistance efflux pumps - not just for resistance. Nat
+
+44.
+
+Rev Microbiol. 2006;4(8):629–36.
+Jacoby GA. AmpC beta-lactamases. Clin Microbiol Rev. 2009;22(1):161–82.
+Table of Contents.
+
+45. Beyene T, Endalamaw D, Tolossa Y, Feyisa A. Evaluation of rational use of
+
+veterinary drugs especially antimicrobials and anthelmintics in Bishoftu,
+Central Ethiopia. BMC Res Notes. 2015;8:482.
+
+46. Baucheron S, Chaslus-Dancla E, Cloeckaert A, Chiu CH, Butaye P. High-level
+resistance to fluoroquinolones linked to mutations in gyrA, parC, and parE
+in Salmonella enterica serovar Schwarzengrund isolates from humans in
+Taiwan. Antimicrob Agents Chemother. 2005;49(2):862–3.
+
+47. Zurfluh K, Abgottspon H, Hachler H, Nuesch-Inderbinen M, Stephan R.
+
+48.
+
+Quinolone resistance mechanisms among extended-spectrum beta-
+lactamase (ESBL) producing Escherichia coli isolated from rivers and lakes in
+Switzerland. PLoS One. 2014;9(4), e95864.
+Eaves DJ, Randall L, Gray DT, Buckley A, Woodward MJ, White AP, Piddock LJ.
+Prevalence of mutations within the quinolone resistance-determining region
+of gyrA, gyrB, parC, and parE and association with antibiotic resistance in
+quinolone-resistant Salmonella enterica. Antimicrob Agents Chemother. 2004;
+48(10):4012–5.
+Lin CC, Chen TH, Wang YC, Chang CC, Hsuan SL, Chang YC, Yeh KS. Analysis
+of ciprofloxacin-resistant Salmonella strains from swine, chicken, and their
+carcasses in Taiwan and detection of parC resistance mutations by a
+mismatch amplification mutation assay PCR. J Food Prot. 2009;72(1):14–20.
+50. Hsueh PR, Teng LJ, Tseng SP, Chang CF, Wan JH, Yan JJ, Lee CM, Chuang YC,
+
+49.
+
+Huang WK, Yang D, et al. Ciprofloxacin-resistant Salmonella enterica
+Typhimurium and Choleraesuis from pigs to humans, Taiwan. Emerg Infect Dis.
+2004;10(1):60–8.
+
+52.
+
+51. Weill FX, Bertrand S, Guesnier F, Baucheron S, Cloeckaert A, Grimont PA.
+Ciprofloxacin-resistant Salmonella Kentucky in travelers. Emerg Infect Dis.
+2006;12(10):1611–2.
+Le Hello S, Hendriksen RS, Doublet B, Fisher I, Nielsen EM, Whichard JM,
+Bouchrif B, Fashae K, Granier SA, Jourdan-Da Silva N, et al. International
+spread of an epidemic population of Salmonella enterica serotype Kentucky
+ST198 resistant to ciprofloxacin. J Infect Dis. 2011;204(5):675–84.
+Fabrega A, du Merle L, Le Bouguenec C, Jimenez de Anta MT, Vila J.
+Repression of invasion genes and decreased invasion in a high-level
+fluoroquinolone-resistant Salmonella typhimurium mutant. PLoS One. 2009;
+4(11), e8029.
+Eguale T, Marshall J, Molla B, Bhatiya A, Gebreyes WA, Engidawork E, Asrat D,
+Gunn JS. Association of multicellular behaviour and drug resistance in
+Salmonella enterica serovars isolated from animals and humans in Ethiopia.
+J Appl Microbiol. 2014;117(4):961–71.
+
+53.
+
+54.
+
+Submit your next manuscript to BioMed Central 
+and we will help you at every step:
+•  We accept pre-submission inquiries 
+(cid:129)  Our selector tool helps you to ﬁnd the most relevant journal
+(cid:129)  We provide round the clock customer support 
+(cid:129)  Convenient online submission
+(cid:129)  Thorough peer review
+(cid:129)  Inclusion in PubMed and all major indexing services 
+(cid:129)  Maximum visibility for your research
+
+Submit your manuscript at
+www.biomedcentral.com/submit
+
+
