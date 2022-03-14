@@ -30,8 +30,8 @@ Within the JSON files, the formatting is as follows:
         ...
     }
 
-### Statistics for the Dataset
+### Dataset Info
 
-| Dataset | Language | Avg. Words | Avg. KPs | Documents |
+| Name | Language | Avg. Words | Avg. KPs | Documents |
 | :---: | :---: | :---: | :---: | :---: |
 | ResisBank | EN | - | - | 451 |
