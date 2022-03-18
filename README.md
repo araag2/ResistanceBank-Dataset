@@ -32,6 +32,6 @@ Within the JSON files, the formatting is as follows:
 
 ### Dataset Info
 
-| Name | Language | Documents | Absent KPs | Avg. Words | Avg. KPs |
+| Name | Language | Documents | Avg. KPs | Absent KPs | Avg. Words |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| ResisBank | EN | 451 | 24.15% | 5475 | 5 |
+| ResisBank | EN | 451 | 5 | 24.15% | 5475 |
