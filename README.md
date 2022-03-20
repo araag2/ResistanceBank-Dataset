@@ -34,4 +34,4 @@ Within the JSON files, the formatting is as follows:
 
 | Name | Language | Documents | Avg. KPs | Absent KPs | Avg. Words |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| ResisBank | EN | 451 | 5 | 24.15% | 5475 |
+| ResisBank | EN | 430 | 5 | 23.30% | 5626 |
