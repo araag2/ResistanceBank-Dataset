@@ -2,11 +2,44 @@ import json
 import os
 from nltk.stem import PorterStemmer
 
+txt_destiny = "./txt/"
+reference_destiny = "./references/"
 
-def dataset_statistics():
-    txt_destiny = "./txt/"
-    reference_destiny = "./references/"
+def trim_bad_docs(number):
+    new_kp_dic = {}
+    absent_dic = {}
+    with open(f'{reference_destiny}test.json', 'rb') as ref_file:
+        ref_dic = json.load(ref_file)
 
+        for file in ref_dic:
+            with open(f'{txt_destiny}{file}.txt', 'r', encoding='utf-8') as txt_file:
+                raw_txt = txt_file.read()
+                absent_kp = 0.0
+                for kp in ref_dic[file]:
+                    if kp[0] not in raw_txt:
+                        absent_kp += 1.0
+                    absent_dic[file] = round(absent_kp/len(ref_dic[file]), 4)
+
+        absent_dic = {k: v for k, v in sorted(absent_dic.items(), key=lambda item: item[1])[:-number]}
+        print(sorted(absent_dic.items(), key=lambda item: item[1]))
+
+        for file in absent_dic:
+            new_kp_dic[file] = ref_dic[file]
+
+    with open(f'{reference_destiny}test.json', 'w', encoding='utf-8') as ref_file:
+        json.dump(new_kp_dic, ref_file, indent=4, separators=(',', ': '))
+
+    delete_missing_docs()
+
+def delete_missing_docs():
+    with open(f'{reference_destiny}test.json', 'rb') as ref_file:
+        ref_dic = json.load(ref_file)
+
+        for file in os.listdir(txt_destiny):
+            if file[:-4] not in ref_dic:
+                os.remove(f'{txt_destiny}{file}')
+
+def dataset_build():
     stemmed_dic = {}
     stemmer = PorterStemmer()
 
@@ -43,4 +76,5 @@ def dataset_statistics():
 
     print(f'Dataset Statistics:\n  N_docs = {n_docs}\n  Avg word count = {word_count/n_docs:.3f}\n  Avg kp = {kp_count/n_docs:.1f}\n  Absent key-phrases = {(absent_kp/kp_count)*100:.2f}%')
 
-dataset_statistics()
+#trim_bad_docs(30)
+dataset_build()
